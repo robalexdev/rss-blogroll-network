@@ -15,12 +15,11 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - emacs,kubernetes,lisp
   relme:
+    https://emacs.ch/@eshel: true
     https://eshelyaron.com/: true
   last_post_title: Kubed is now on GNU ELPA
   last_post_description: |-
