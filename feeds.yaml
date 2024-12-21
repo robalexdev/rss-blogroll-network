@@ -4,6 +4,7 @@ feed_urls:
   # Large lists
   - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
   - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
+  - https://minifeed.net/blogs/opml.xml
 
   #
   # Planets

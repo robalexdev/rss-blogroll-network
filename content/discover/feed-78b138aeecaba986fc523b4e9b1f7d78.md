@@ -21,6 +21,7 @@ params:
   - https://benji.dog/photos.xml
   - https://benji.dog/read.xml
   - https://benji.dog/watched.xml
+  - https://www.benji.dog/feed.xml
   categories: []
   relme:
     https://clarale.com/: true

@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Cryptography
     description: ""
     id: 8b5ebcdfeb57f68bea9d232e8fe6b4c2

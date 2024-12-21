@@ -8,6 +8,7 @@ params:
   feedid: aa1f9dbad5783eef4a0aac5364d9b5e9
   websites:
     https://danq.me/: true
+    https://danq.me/blog/: false
   blogrolls:
   - https://danq.me/blogroll.xml
   in_blogrolls: []

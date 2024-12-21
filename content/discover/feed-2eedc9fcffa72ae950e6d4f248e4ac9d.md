@@ -12,6 +12,9 @@ params:
     https://qtandeverything.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Planet Qt
     description: ""
     id: f20f79b8d5cd4e3d4326e76a30ddec88

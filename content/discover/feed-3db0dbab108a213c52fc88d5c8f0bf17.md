@@ -8,9 +8,13 @@ params:
   feedid: 3db0dbab108a213c52fc88d5c8f0bf17
   websites:
     https://danq.me/: true
+    https://danq.me/blog/: false
   blogrolls:
   - https://danq.me/blogroll.xml
-  in_blogrolls: []
+  in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended:
   - https://abnib.co.uk/birthdays.xml
   - https://abstrusegoose.com/feed/atom
@@ -286,12 +290,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 3
-    promoted: 0
+    promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

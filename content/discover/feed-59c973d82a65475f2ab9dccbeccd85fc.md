@@ -10,6 +10,9 @@ params:
     https://www.imperialviolet.org/: false
   blogrolls: []
   in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Subscriptions - RSS
     description: ""
     id: 7d1048b956eae1cfe0bce8f68656857b

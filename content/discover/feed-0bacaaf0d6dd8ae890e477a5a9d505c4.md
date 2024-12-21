@@ -6,9 +6,13 @@ params:
   feedlink: https://blog.meain.io/feed.xml
   feedtype: atom
   feedid: 0bacaaf0d6dd8ae890e477a5a9d505c4
-  websites: {}
+  websites:
+    https://blog.meain.io/: false
   blogrolls: []
   in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -33,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 11
+    website: 1
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

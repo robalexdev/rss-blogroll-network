@@ -8,11 +8,15 @@ params:
   feedid: 2c5f9c8ef98e2b930acfa5e4f57b58f1
   websites:
     https://www.jeffgeerling.com/: true
+    https://www.jeffgeerling.com/blog: false
   blogrolls: []
   in_blogrolls:
   - title: Frank McPherson - Blogroll
     description: ""
     id: 3c039ddf8649f01e6b341f6cea774be8
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
   - https://frankmcpherson.blog/feed.xml

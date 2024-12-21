@@ -8,6 +8,7 @@ params:
   feedid: eda453aac7d1e866a99ec0d681c2c4bc
   websites:
     https://www.matuzo.at/: false
+    https://www.matuzo.at/blog: false
   blogrolls: []
   in_blogrolls:
   - title: Ben Myers's Blogroll

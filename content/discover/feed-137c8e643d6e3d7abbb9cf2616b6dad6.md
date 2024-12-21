@@ -14,6 +14,9 @@ params:
   - title: Ben Myers's Blogroll
     description: Blogs and newsletters I check on the regular.
     id: bf95fc3fe734baa4e4fdf4b50381791c
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories: []
