@@ -400,6 +400,9 @@
 
   const render_filter = (targetId, values, filterSet, rename=nullRename, isDefault=(a)=>false) => {
     const target = document.getElementById(targetId);
+    target.onchange=() => {
+      on_filter_select_change(targetId, filterSet);
+    };
 
     // Sort the values by occurances
     var valCounter = {};
@@ -435,10 +438,6 @@
       [titleName, fullName] = rename(valCounter[v].canonicalV);
       opt.innerText = fullName;
       opt.title = titleName;
-
-      opt.onclick=() => {
-        on_filter_select_change(targetId, filterSet);
-      };
       target.appendChild(opt);
     });
   };
