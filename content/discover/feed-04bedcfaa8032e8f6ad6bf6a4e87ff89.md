@@ -8,6 +8,7 @@ params:
   feedtype: rss
   feedid: 04bedcfaa8032e8f6ad6bf6a4e87ff89
   websites:
+    https://pikuma.com/: false
     https://pikuma.com/blog: false
   blogrolls: []
   in_blogrolls:

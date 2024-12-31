@@ -18,7 +18,6 @@ params:
   categories: []
   relme:
     https://ianthehenry.com/: true
-    https://mastodon.social/@ianthehenry: true
   last_post_title: Quote-unquote "macros"
   last_post_description: |-
     You’ve probably seen this Python 101 thing before:

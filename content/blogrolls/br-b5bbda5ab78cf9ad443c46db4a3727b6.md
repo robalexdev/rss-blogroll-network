@@ -279,9 +279,6 @@ params:
   - title: Curiosity-driven development
     description: Development diary of a developer sailing on the seas of open-source
     id: 644a36810cdc2e527d741f6ed49a2c8f
-  - title: GNOME – Just Jeremy
-    description: just my thoughts
-    id: 64919988dc76460bd5d5ec75e7d1b288
   - title: Joaquim Rocha
     description: Joaquim Rocha's blog
     id: 6a398bf5c3b14f3db76f2aecaf3febe3

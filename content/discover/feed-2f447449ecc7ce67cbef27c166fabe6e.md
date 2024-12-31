@@ -19,6 +19,7 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
+    https://mas.to/@duarteocarmo: true
   last_post_title: An ode to the Marathon
   last_post_description: I'm flying over the Atlantic just between France and Spain
     for my yearly Christmas trip back to Lisbon. For some reason, I just remembered

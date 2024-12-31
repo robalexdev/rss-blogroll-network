@@ -71,9 +71,6 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
-  - title: RSS Feeds for all Robb Knight's Blogroll
-    description: ""
-    id: 6a72507ba2e935838f624759bf29fde4
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -82,7 +79,6 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   - https://frankmeeuwsen.com/feed.xml
-  - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme:
     https://3x5.pics/credits: true

@@ -7,9 +7,7 @@ params:
   feedtype: atom
   feedid: ac7df6e82fc45dcce88946eee69704d7
   websites:
-    https://goodenough.us/: false
     https://goodenough.us/blog/: false
-    https://goodenough.us/lab/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

@@ -1,9 +1,11 @@
 package main
 
 import (
-	"github.com/go-yaml/yaml"
 	"os"
 	"slices"
+	"strings"
+
+	"github.com/go-yaml/yaml"
 )
 
 type BlogrollInfo struct {
@@ -41,7 +43,7 @@ func NewBlogrollInfo(row Blogroll) *BlogrollInfo {
 func (f *BlogrollInfo) Save() {
 	// Stable sort to improve git diffs
 	slices.SortFunc(f.Params.Recommends, func(a, b BlogrollRecommendation) int {
-		return strings.Compare(a.BlogrollId, b.BlogrollId)
+		return strings.Compare(a.Id, b.Id)
 	})
 	output, err := yaml.Marshal(f)
 	ohno(err)

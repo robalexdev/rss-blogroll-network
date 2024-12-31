@@ -25,9 +25,6 @@ params:
   - title: Kev Quirk's Blogroll
     description: ""
     id: d3c6398765901e01429e7ceffd5164f1
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
@@ -36,13 +33,8 @@ params:
   - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
-  - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
   - https://kevquirk.com/notes-feed
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: 'Own Your Web – Issue 15: Home Sweet Home'

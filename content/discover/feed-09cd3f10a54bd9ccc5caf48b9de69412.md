@@ -19,9 +19,6 @@ params:
   - title: ""
     description: ""
     id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: The Art Of Not Asking Why - Blogroll
-    description: ""
-    id: e79d34746977a283ee12bf2f27dfee7a
   recommended:
   - https://baty.net/everything.rss
   - https://brandonwrites.xyz/feed/
@@ -46,8 +43,6 @@ params:
   - https://email-is-good.com/feed/
   - https://jlelse.blog/.atom
   - https://jlelse.blog/.rss
-  - https://lorenblog.me/feed/
-  - https://lorenblog.me/feed/?type=rss
   - https://manuelmoreale.com/feed/instagram
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
@@ -60,9 +55,6 @@ params:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
-  - https://taonaw.com/categories/emacs-org-mode/feed.xml
-  - https://taonaw.com/feed.xml
-  - https://taonaw.com/podcast.xml
   categories: []
   relme:
     https://fosstodon.org/@kev: true

@@ -27,6 +27,7 @@ params:
   - https://benji.dog/photos.xml
   - https://benji.dog/read.xml
   - https://benji.dog/watched.xml
+  - https://www.benji.dog/all.xml
   - https://www.benji.dog/feed.xml
   categories:
   - IFTTT

@@ -7,6 +7,7 @@ params:
   feedtype: atom
   feedid: c3a7fd8fbd5b663ba0cbdf5dc1aff677
   websites:
+    https://www.russellbeattie.com/notes: false
     https://www.russellbeattie.com/notes/: true
   blogrolls: []
   in_blogrolls:

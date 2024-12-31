@@ -20,6 +20,7 @@ params:
   categories: []
   relme:
     https://brentter.com/: true
+    https://defcon.social/@brentdev: true
   last_post_title: How To Find Good RSS Feeds To Follow
   last_post_description: How I find quality RSS feeds that are worth subscribing to.
     There are a lot of search tools and directories on the internet to help but how

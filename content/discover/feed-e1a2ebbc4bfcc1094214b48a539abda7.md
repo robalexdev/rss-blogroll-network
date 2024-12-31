@@ -17,14 +17,10 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: kiko.io's Blogroll
-    description: ""
-    id: 5a699fe07181a17251b91d178b9b8f40
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
   - https://hacdias.com/feed.xml
-  - https://kiko.io/rss.xml
   - https://repc.co/feed.xml
   categories: []
   relme:

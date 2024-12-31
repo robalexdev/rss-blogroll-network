@@ -7,7 +7,6 @@ params:
   feedtype: atom
   feedid: d8ebdfdec1d67000f9f55ede08ae495d
   websites:
-    https://sean.voisen.org/: true
     https://sean.voisen.org/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -18,9 +17,7 @@ params:
   recommender: []
   categories:
   - blog
-  relme:
-    https://front-end.social/@svoisen: true
-    https://sean.voisen.org/: true
+  relme: {}
   last_post_title: We need more hybrid tools
   last_post_description: Bridging design and engineering in the age of generative
     AI.
@@ -37,10 +34,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
