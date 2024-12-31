@@ -1,12 +1,9 @@
-# RSS Blogroll Networks
+# RSS Blogroll Network
 
-RSS feeds can programmatically define a [blogroll using OPML](https://opml.org/blogroll.opml).
-These blogrolls help people who read your blog discover other websites you think are worth promoting.
+A website that maps connections between blogs, blogrolls, web-rings, and other RSS-related entities.
+In particular, this website uses [OPML blogrolls](https://opml.org/blogroll.opml) as the basis for crawling blogs.
 
-This project maps connections between blogs and other RSS-enabled entities.
-The size and interconnectedness of the network can be tracked over time.
-
-This project uses the [Feed2Pages-action crawler](https://github.com/ralexander-phi/feed2pages-action) to walk the blogroll network.
+https://alexsci.com/rss-blogroll-network/
 
 [Read the blog post to learn more](https://alexsci.com/blog/blogroll-network/).
 
@@ -17,36 +14,15 @@ The best way to join the network is for a blog already in the network to add you
 This may happen organically over time if you have content that's interesting to others in the network.
 There are no restrictions on what sites can join the network organically, as the network is decentralized.
 
-To help the network get bootstrapped, and discover disjoint parts of the network, you can open a GitHub Issue (or PR) to add you blog.
-Please first check to see if your site is listed to avoid maintainance overhead.
-Since manually added sites are semi-endorsed, the following qualification criteria is used:
-
-* You have an RSS feed
-* You have an OPML blogroll
-  * It promotes at least two blogs or websites
-  * Your OPML blogroll is discoverable:
-    * As an element of your RSS feed; or
-    * As a link on your website
-* Your site is personal, non-commercial, and ad-free
-* Your site has human generated content
-* Content may be in any language
-* Content is reasonably "safe for work"
-* You aren't blocking us via `robots.txt`
-
 
 ## Opt out of the network
 
-We'll respect your decision if you don't want your website listed here.
-
-Our crawler uses the `Feed2Pages/*` User-Agent string and respects `robots.txt`.
-Block this User-Agent (or all bots) from accessing your RSS feed using your `robots.txt` file.
+See [privacy](https://alexsci.com/rss-blogroll-network/privacy/#opt-outs-for-the-crawler) to learn more.
 
 
 ## Running the crawler
 
 Build https://github.com/ralexander-phi/feed2pages-action, which has the crawler code.
-
+Run the crawler using `../feed2pages-action/util`.
 Then build this project (`go build`) and run the analysis tool: `./rss-blogroll-network`.
-
 Finally build the site with hugo: `hugo` or `hugo server`.
-
