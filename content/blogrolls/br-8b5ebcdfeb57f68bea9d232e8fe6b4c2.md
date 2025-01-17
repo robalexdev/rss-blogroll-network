@@ -84,6 +84,9 @@ params:
     description: Amber Sprenkels' personal blog. Mostly about crypto engineering,
       information security and systems programming.
     id: 4fb466c7307db484b96fa9ccdd2053da
+  - title: thái
+    description: Việt kiều yêu nước mắm
+    id: 53c868d9092e52f96a6c2dd1386bf61a
   - title: METASTATE
     description: Blockchain Research & Engineering
     id: 54ed9229de23a40efc4b3e5183b5d36d
@@ -192,6 +195,11 @@ params:
   - title: Filippo Valsorda
     description: Filippo Valsorda
     id: a413accf2f43f98bc37592912def05ea
+  - title: ZK Podcast
+    description: This community is built around the Zero Knowledge Podcast, a weekly
+      show which goes deep into zk and blockchain topics and features interviews with
+      top technical minds building decentralised tech and
+    id: a7e46b577d09b088512311a422ec8ab2
   - title: Math ∩ Programming
     description: Recent content on Math âˆ© Programming
     id: aa6787b5cbfa033f959f6b326fd4d240
@@ -207,6 +215,9 @@ params:
   - title: Assembly Language Programming
     description: Just another WordPress.com weblog
     id: b40da367ba2ffe814a8ed185feb391cf
+  - title: StarkWare - Medium
+    description: Developing the Full Proof Stack for STARK - Medium
+    id: bdcb38d44cb4b6155796bb0b55d18e42
   - title: Real World Cryptographers Podcast
     description: Originally invented as an art and science of secret writing, today,
       cryptography has evolved to much more than that. It is a deed of both makers
@@ -240,6 +251,10 @@ params:
   - title: Pomcor
     description: Research on web and mobile technology
     id: dacf4c4f430ffa1910a60843add61c17
+  - title: The Cloudflare Blog
+    description: Get the latest news on how products at Cloudflare are built, technologies
+      used, and join the teams helping to build a better Internet.
+    id: dbd8ca2007c5d067e97d458f8c94a2a7
   - title: Short, Fat Matrices
     description: a research blog by Dustin G. Mixon
     id: dfdb5bfbab6280b60e5413bd2a5eedad
@@ -274,6 +289,9 @@ params:
   - title: Azimuth
     description: ""
     id: f7ebe004411ae79047320dca07bbc467
+  - title: Stories by Sergey Gorbunov on Medium
+    description: Stories by Sergey Gorbunov on Medium
+    id: fc30115547fcd3f2a4e35457176f4163
   - title: Command Line Fanatic
     description: A blog about technology, protocols, security, details and fanaticism
     id: fe093aafb4a786b3544b6a06032c1c18

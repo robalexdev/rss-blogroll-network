@@ -8,6 +8,7 @@ params:
   feedid: 49d2b7afa7369e8bc5d70b003a04fcef
   websites:
     https://dotat.at/: false
+    https://dotat.at/@/blog.html: true
     https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
@@ -17,7 +18,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://dotat.at/@/blog.html: true
   last_post_title: nsnotifyd-2.3 released
   last_post_description: ""
   last_post_date: "2024-12-05T20:00:44Z"
@@ -32,10 +34,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 9
+    website: 2
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

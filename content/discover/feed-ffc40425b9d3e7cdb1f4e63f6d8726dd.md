@@ -7,8 +7,6 @@ params:
   feedtype: rss
   feedid: ffc40425b9d3e7cdb1f4e63f6d8726dd
   websites:
-    https://michal.sapka.me/: true
-    https://michal.sapka.me/bsd/: false
     https://michal.sapka.me/cool-emacs/: false
     https://michal.sapka.me/emacs/: false
   blogrolls: []
@@ -23,8 +21,7 @@ params:
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
-  relme:
-    https://michal.sapka.me/: true
+  relme: {}
   last_post_title: 'Broken Sword - Shadow of the Templars: Reforged'
   last_post_description: |-
     Look ma!
@@ -43,10 +40,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
