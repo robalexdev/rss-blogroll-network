@@ -27,7 +27,7 @@
   {{ if .Params.categories }}
     <div class="tags">
     {{ range (first 10 .Params.categories) }}
-      <a href="{{ absURL (printf "/cats/#%s" (. | urlize) ) }}">
+      <a href="{{ absURL (printf "discover/#%s" (. | urlize) ) }}">
       <span class="tag">{{- trim (. | truncate 40) " " -}}</span>
       </a>
     {{ end }}
@@ -99,7 +99,9 @@
     {{ if .Params.last_post_categories }}
       <div class="tags">
       {{ range .Params.last_post_categories }}
+      <a href="{{ absURL (printf "discover/#%s" (. | urlize) ) }}">
         <span class="tag">{{- trim (. | truncate 40) " " -}}</span>
+      </a>
       {{ end }}
       </div>
     {{ end }}

@@ -6,3 +6,4 @@ feed2pages.db
 rss-blogroll-network
 *.log
 cache/
+venv/

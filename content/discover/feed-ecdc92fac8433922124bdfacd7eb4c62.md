@@ -13,10 +13,14 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: RSS Feeds for all Robb Knight's Blogroll
+    description: ""
+    id: 6a72507ba2e935838f624759bf29fde4
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
   - https://repc.co/feed.xml
+  - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme: {}
   last_post_title: A feed for everything and everything in a feed

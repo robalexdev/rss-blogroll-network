@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://s.sneak.berlin/@sneak: true
     https://sneak.berlin/: true
   last_post_title: My 2024 Code Styleguide
   last_post_description: I have documented and published, for the first time, my personal
