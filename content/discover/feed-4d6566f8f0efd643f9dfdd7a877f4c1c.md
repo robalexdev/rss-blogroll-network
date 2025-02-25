@@ -18,28 +18,34 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: 'Status Update: October 2024'
+  last_post_title: Chatting with the Designer of MonoLisa
   last_post_description: |-
-    G’day!
-    Exploration towards building Ica (a GUI code editor) has continued in October. Having figured out a rendering strategy at the end of last month, the next step has been to design a
-  last_post_date: "2024-10-24T00:00:00Z"
-  last_post_link: https://joshleeb.com/posts/status-update-2024-oct.html
+    In the last post, we investigated the process of
+    shaping ligatures for monospace fonts. This ended up being quite surprising if
+    also fairly straightforward.
+    The font I used in that post was MonoLisa,
+  last_post_date: "2025-02-19T00:00:00Z"
+  last_post_link: https://joshleeb.com/posts/monolisa-chat.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d9a80cc8bda98a8aa9ebe9b3a14560b
+  last_post_guid: 934a89f9c2689f9529846eb465edce7b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 27
+  avgpostlen: 0
 ---

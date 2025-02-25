@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2024-11-25T06:28:59Z"
+date: "2025-02-23T05:15:07Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -15,41 +15,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - amd
-  - cpu
-  - hardware
-  - performance
-  - ryzen
-  - uarch-review
-  - zen5
+  - calendar
+  - feishu
+  - software
   relme: {}
-  last_post_title: AMD Zen 5 微架构评测
-  last_post_description: AMD Zen 5 微架构评测¶背景¶Zen 5 是 AMD 最新的一代微架构，在很多地方和之前不同，因此测试一下这个微架构在各个方面的表现。官方信息¶AMD
-  last_post_date: "2024-11-11T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2024/11/11/amd_zen5/
+  last_post_title: 导出飞书日历为 iCalendar 格式
+  last_post_description: 导出飞书日历为 iCalendar 格式¶背景¶之前用了一段时间飞书日历，想要把日历里的事件导出来备份，但是发现飞书自己的导出功能太弱，因此参考
+  last_post_date: "2025-02-04T00:00:00Z"
+  last_post_link: https://jia.je/software/2025/02/04/feishu-dump-calendar/
   last_post_categories:
-  - amd
-  - cpu
-  - hardware
-  - performance
-  - ryzen
-  - uarch-review
-  - zen5
+  - calendar
+  - feishu
+  - software
   last_post_language: ""
-  last_post_guid: fdf77b80f2d1acddea9b516073b1383c
+  last_post_guid: 2a490428aa02094d6a6422fb30926ac7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 20
+  avgpostlen: 0
 ---

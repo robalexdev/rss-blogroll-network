@@ -18,8 +18,8 @@ params:
   relme: {}
   last_post_title: Switching to Firefox
   last_post_description: |-
-    When ever you hear people trying to convince other people to switch to Firefox the reason is usually moral or ideological. 1
-    A usually toted reason, is that capitalist browsers like Chrome, Safari &
+    Whenever you hear people trying to convince other people to switch to Firefox the reason is usually moral or ideological. 1
+    A usually toted reason, is that “capitalist” browsers like Chrome,
   last_post_date: "2024-12-07T00:00:00Z"
   last_post_link: https://asindu.xyz/posts/switching-to-firefox/
   last_post_categories: []
@@ -29,15 +29,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 7
+  avgpostlen: 0
 ---

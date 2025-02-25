@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -29,15 +29,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

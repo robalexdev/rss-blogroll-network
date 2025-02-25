@@ -26,3 +26,6 @@ Build https://github.com/ralexander-phi/feed2pages-action, which has the crawler
 Run the crawler using `../feed2pages-action/util`.
 Then build this project (`go build`) and run the analysis tool: `./rss-blogroll-network`.
 Finally build the site with hugo: `hugo` or `hugo server`.
+
+When you run again, clear the cache: `rm -Rf cache/`
+

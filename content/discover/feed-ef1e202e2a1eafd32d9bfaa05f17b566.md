@@ -17,28 +17,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Sentinel-2 Cloudless 2023
-  last_post_description: We are thrilled to announce the latest release of EOxCloudless
-    2023 imagery. Whether you are an existing customer or new to EOxCloudless, this
-    latest update offers clarity with beautiful sceneries
-  last_post_date: "2024-08-29T00:00:00Z"
-  last_post_link: https://eox.at/2024/08/sentinel-2-cloudless-2023/
+  last_post_title: The Last Common Hamsters
+  last_post_description: The common hamster, once a familiar sight in European fields,
+    is now teetering on the brink of extinction. Nature filmmaker and ecologist David
+    Cebulla's documentary, "The Last Common Hamsters" ("Die
+  last_post_date: "2025-02-17T00:00:00Z"
+  last_post_link: https://eox.at/2025/02/wild-whiskers-eox-hamsters-guest-blog-post/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f458915877894935ff4dacf8cd562ade
+  last_post_guid: 2299c17b0598811d2bafb72c6a3e1e1a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

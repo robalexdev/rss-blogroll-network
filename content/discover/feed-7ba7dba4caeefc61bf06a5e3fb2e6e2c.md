@@ -1,6 +1,6 @@
 ---
 title: Cosmic Horizons
-date: "2024-08-29T20:36:46+10:00"
+date: "2025-02-22T23:09:19+11:00"
 description: My personal take on what's going on within our Event Horizon. Mostly
   astronomical, often cosmological, usually quite grumpy.
 params:
@@ -56,15 +56,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 289
 ---

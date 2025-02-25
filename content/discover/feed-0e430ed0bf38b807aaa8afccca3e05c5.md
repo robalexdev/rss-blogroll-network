@@ -16,43 +16,66 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Bedrohungsanalyse
   - Blog
-  - competitors
-  - entry-level
-  - entry-level product
-  - greenbone basic
-  - medium-sized companies
-  - tenable
+  - CISA
+  - Malware
+  - Patch-Management
+  - RCE
+  - Remote Code Execution
+  - Schwachstelle
+  - Schwachstellen
+  - Schwachstellenmanagement
+  - Software Supply Chain
+  - Vulnerability Management
+  - Zero-Day
+  - cyberangriffe
+  - cybersecurity
+  - it security
   relme: {}
-  last_post_title: Greenbone Basic – Vulnerability Management for SMEs
-  last_post_description: 'Greenbone Basic: Small Businesses Can Now Easily Protect
-    Themselves from Vulnerabilities Cyber attacks have become the greatest threat
-    to modern businesses of all sizes. An abundant amount of attacks'
-  last_post_date: "2024-08-29T07:25:42Z"
-  last_post_link: https://www.greenbone.net/en/blog/greenbone-basic-vulnerability-management-for-smes/
+  last_post_title: 'Greenbone Detects CVE-2025-0994: Actively Exploited Flaw in Trimble
+    Cityworks'
+  last_post_description: Trimble Cityworks, an enterprise asset management (EAM) and
+    public works management software is actively under attack. The campaign began
+    as an unknown (zero-day) vulnerability, but is now tracked as
+  last_post_date: "2025-02-17T11:22:29Z"
+  last_post_link: https://www.greenbone.net/en/blog/greenbone-detects-cve-2025-0994-actively-exploited-flaw-in-trimble-cityworks/
   last_post_categories:
+  - Bedrohungsanalyse
   - Blog
-  - competitors
-  - entry-level
-  - entry-level product
-  - greenbone basic
-  - medium-sized companies
-  - tenable
+  - CISA
+  - Malware
+  - Patch-Management
+  - RCE
+  - Remote Code Execution
+  - Schwachstelle
+  - Schwachstellen
+  - Schwachstellenmanagement
+  - Software Supply Chain
+  - Vulnerability Management
+  - Zero-Day
+  - cyberangriffe
+  - cybersecurity
+  - it security
   last_post_language: ""
-  last_post_guid: 5d63f431ed15f5eded77f6adc1975e44
+  last_post_guid: bb35cfc611432255f9547f94f57fc279
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

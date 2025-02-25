@@ -18,32 +18,34 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
-  categories:
-  - '#WeblogPoMo2024,'
+  categories: []
   relme: {}
-  last_post_title: End Of WeblogPoMo 2024
-  last_post_description: 'As it is the final day in this year’s month-long #WeblogPoMo2024,
-    I’ve decided to write today’s post reflecting on the month, what I liked about
-    participating, what I struggled with, and what I'
-  last_post_date: "2024-05-31T00:00:00Z"
-  last_post_link: https://jessicajournals.com/end-of-weblogpomo-2024/
-  last_post_categories:
-  - '#WeblogPoMo2024,'
+  last_post_title: Expanding An Ambient Music Server
+  last_post_description: Last year, I wrote about creating an ambient music server,
+    because I had received a one year free trial to a service providing RSS podcast
+    feeds of various ambient sounds, and wanted to archive the
+  last_post_date: "2025-02-06T00:00:00Z"
+  last_post_link: https://jessicajournals.com/expanding-an-ambient-music-server/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c5c7062656b02bc99e2e4f8117bccd4
+  last_post_guid: 79c3e9a63349a2eae3dc2254c539ee63
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 106
+  avgpostlen: 0
 ---

@@ -22,51 +22,51 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bootstrappable
-  - debian
-  - general
-  - gitlab
-  - gnu
-  - guix
-  - pureos
-  - reproducible
-  - supply-chain
-  - trisquel
-  - ubuntu
+  - crypto
+  - openssh
+  - post-quantum
+  - pq
+  - quantum
+  - security
+  - sphincs+
+  - ssh
+  - supercop
   relme: {}
-  last_post_title: Towards Idempotent Rebuilds?
-  last_post_description: 'After rebuilding all added/modified packages in Trisquel,
-    I have been circling around the elephant in the room: 99% of the binary packages
-    in Trisquel comes from Ubuntu, which to a large extent are'
-  last_post_date: "2024-07-09T22:16:16Z"
-  last_post_link: https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/
+  last_post_title: OpenSSH and Git on a Post-Quantum SPHINCS+
+  last_post_description: Are you aware that Git commits and tags may be signed using
+    OpenSSH? Git signatures may be used to improve integrity and authentication of
+    our software supply-chain. Popular signature algorithms
+  last_post_date: "2024-12-23T00:44:02Z"
+  last_post_link: https://blog.josefsson.org/2024/12/23/openssh-and-git-on-a-post-quantum-sphincs/
   last_post_categories:
-  - bootstrappable
-  - debian
-  - general
-  - gitlab
-  - gnu
-  - guix
-  - pureos
-  - reproducible
-  - supply-chain
-  - trisquel
-  - ubuntu
+  - crypto
+  - openssh
+  - post-quantum
+  - pq
+  - quantum
+  - security
+  - sphincs+
+  - ssh
+  - supercop
   last_post_language: ""
-  last_post_guid: 4fc23bfdc9a634d047d17df27300ab4d
+  last_post_guid: 7f686c5990385e4c61ef35cc754036d5
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 129
+  avgpostlen: 0
 ---

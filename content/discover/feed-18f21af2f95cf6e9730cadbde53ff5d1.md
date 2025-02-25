@@ -1,7 +1,7 @@
 ---
-title: Benvenuti! on syntaxerrormmm's digital lair
+title: syntaxerrormmm's digital lair
 date: "1970-01-01T00:00:00Z"
-description: syntaxerrormmm's digital lair (Benvenuti!)
+description: Recent content on syntaxerrormmm's digital lair
 params:
   feedlink: https://sys42.eu/index.xml
   feedtype: rss
@@ -21,21 +21,23 @@ params:
     https://github.com/syntaxerrormmm: true
     https://keybase.io/syntaxerrormmm: true
     https://sys42.eu/: true
-  last_post_title: Un giro con Paperless NGX
+  last_post_title: Appunti Su Netbird
   last_post_description: |-
-    Ho deciso di dare a Paperless NGX una
-    chance, anche se non sono del tutto convinto che il caso d’uso casalingo si
-    confaccia così tanto alla promise del progetto. Paperless NGX è un sistema
-    di
-  last_post_date: "2024-03-21T23:00:00+01:00"
-  last_post_link: https://sys42.eu/posts/2024-03-18/
+    Perché una Virtual Private Cloud
+    All’inizio della mia esperienza come self-hoster, gestivo pochi servizi ad
+    uso prettamente personale e quindi ho preso la decisione di esporli
+    direttamente su
+  last_post_date: "2025-01-06T17:46:35+01:00"
+  last_post_link: https://sys42.eu/posts/appunti-su-netbird/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c22d63d73497fae3abb24174d618e1ff
+  last_post_guid: e2777d306f7ae17f4cb9481ce51d8265
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 0
     postcats: 0
     promoted: 5
     promotes: 0
@@ -47,4 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 0
+  avgpostlen: 0
 ---

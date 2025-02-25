@@ -185,10 +185,10 @@ output_mode:
 max_posts_per_feed: 1
 
 # Search deep
-discover_depth: 80000
-post_collection_depth: 80000
-max_recommendations_per_feed: 50000
-max_recommendations: 1000000
+discover_depth: 1000
+post_collection_depth: 1000
+max_recommendations_per_feed: 1000
+max_recommendations: 1000
 
 # Append content, helps when some sites are temporarily offline
 remove_old_content: False
@@ -206,7 +206,7 @@ block_domains:
 
 private_blocks_file: ../rss-private-blocks/private-blocks.yml
 
-crawl_threads: 8
+crawl_threads: 1
 
 # Generous timeouts
 request_timeout_ms:              60000

@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -17,29 +17,33 @@ params:
   categories:
   - Threat Labs
   relme: {}
-  last_post_title: Python NodeStealer Targets Facebook Ads Manager with New Techniques
-  last_post_description: Summary In September 2023, Netskope Threat Labs reported
-    a Python-based NodeStealer targeting Facebook business accounts. NodeStealer collects
-    Facebook and other credentials stored in the browser and
-  last_post_date: "2024-11-20T15:00:00Z"
-  last_post_link: https://www.netskope.com/blog/python-nodestealer-targets-facebook-ads-manager-with-new-techniques
+  last_post_title: Telegram Abused as C2 Channel for New Golang Backdoor
+  last_post_description: Summary As part of Netskope Threat Labs hunting activities,
+    we came across an IoC being shared by other researchers and decided to take a
+    closer look at it. During the analysis, we discovered that
+  last_post_date: "2025-02-14T15:00:00Z"
+  last_post_link: https://www.netskope.com/blog/telegram-abused-as-c2-channel-for-new-golang-backdoor
   last_post_categories:
   - Threat Labs
   last_post_language: ""
-  last_post_guid: 71bc607c13811755f1e2e819d89e8814
+  last_post_guid: 9a2482b4affb791c2532b44737830665
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

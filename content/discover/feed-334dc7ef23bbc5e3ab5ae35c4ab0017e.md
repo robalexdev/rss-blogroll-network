@@ -1,6 +1,6 @@
 ---
 title: another day another vice another roll of the dice
-date: "2024-08-28T09:42:47-07:00"
+date: "2025-02-02T11:34:12-08:00"
 description: hacks, diffs and problems
 params:
   feedlink: https://techtonik.rainforce.org/feeds/posts/default/-/python
@@ -188,15 +188,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 293
 ---

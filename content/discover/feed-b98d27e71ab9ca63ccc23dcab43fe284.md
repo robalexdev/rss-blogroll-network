@@ -1,6 +1,6 @@
 ---
 title: Alastair Johnston
-date: "2024-07-15T16:04:15+01:00"
+date: "2025-02-02T18:12:51Z"
 description: ""
 params:
   feedlink: https://alastairjohnston.com/feed.xml
@@ -19,31 +19,37 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   categories:
-  - life
+  - focus
+  - living well
   relme: {}
-  last_post_title: Stevie Nicks Still Rocks
-  last_post_description: Attached to my door was a black and white picture of a blonde
-    woman in full song. The ragged edge down the long side betrayed the fact that
-    it had been torn out of a book. Next to my room, on my best
-  last_post_date: "2024-07-15T16:04:15+01:00"
-  last_post_link: https://alastairjohnston.com/stevie-nicks/
+  last_post_title: Make Sure You're Not Tracking The Wrong Lion
+  last_post_description: The tarmac had been covered in a slick of aviation oil. Sitting
+    on top of this was a thin sheen of water. My car had illegal tyres, worn down
+    to slick smoothness. This was not going to end well. As I
+  last_post_date: "2025-02-01T16:04:20Z"
+  last_post_link: https://alastairjohnston.com/make-sure-youre-not-tracking-the-wrong-lion/
   last_post_categories:
-  - life
+  - focus
+  - living well
   last_post_language: ""
-  last_post_guid: 822529db69c0b26b9ca22b3dbbd946da
+  last_post_guid: 5a0da506ec1ed065958f9f47d0f11dfa
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
-    postcats: 1
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 10
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 296
 ---

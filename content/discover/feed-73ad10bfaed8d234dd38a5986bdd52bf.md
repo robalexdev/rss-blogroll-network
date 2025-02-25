@@ -1,6 +1,6 @@
 ---
 title: Performance Improvements for the Graph Module of Sagemath
-date: "2024-02-08T10:20:27-08:00"
+date: "2024-09-09T15:42:44-07:00"
 description: ""
 params:
   feedlink: https://borassisagemath.blogspot.com/feeds/posts/default
@@ -29,15 +29,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 7
+  avgpostlen: 296
 ---

@@ -18,29 +18,32 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Meet Grasso – the yard robot!
-  last_post_description: Who says AGI has to be super intelligent just to be A, G
-    and I? Come meet Grasso, the friendly yard robot. Check out my full writeup, and
-    maybe build your own!
-  last_post_date: "2024-11-17T14:24:40Z"
-  last_post_link: https://www.chrisfenton.com/2024/11/17/meet-grasso-the-yard-robot/
+  last_post_title: Behold the RotoZipper
+  last_post_description: The RotoZipper is the miniature, marker-programmable display
+    you never knew you wanted! Check out the full write-up for all the fun details.
+  last_post_date: "2024-12-27T19:22:50Z"
+  last_post_link: https://www.chrisfenton.com/2024/12/27/behold-the-rotozipper/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: a76f37431f1d775b7803835ce671c3db
+  last_post_guid: 1ee77fce4887170e99fe857f8fce3d96
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -17,10 +17,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 自建DERP服务器提升Tailscale连接速度(使用Nginx转发)
-  last_post_description: 《自建DERP服务器提升Tailscale连接速度(使用Nginx转发)》官方文档里，DERP服务器默认是直接占用443端口的，但是我的服务器上已经有了Nginx服务，因此好一
-  last_post_date: "2024-11-20T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html
+  last_post_title: AWS IAM 信任链 和 EKS IRSA
+  last_post_description: 《AWS IAM 信任链 和 EKS IRSA》最近读了一下AWS IAM的文档，此外，AWS 的 EKS 可以结合
+    IAM 一起使用，而且是推荐的用法，可以最小权限化，比如创建 NodeGroup
+  last_post_date: "2025-02-16T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2025_02_16-aws_iam.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663
@@ -28,15 +29,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 541
+  avgpostlen: 0
 ---

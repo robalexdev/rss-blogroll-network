@@ -16,29 +16,32 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: A Mistake
+  last_post_title: Grief Is Not A Casual Thing
   last_post_description: ""
-  last_post_date: "2024-08-28T00:00:00Z"
-  last_post_link: https://lindsaykwardell.com/blog/a-mistake/
+  last_post_date: "2025-01-11T00:00:00Z"
+  last_post_link: https://lindsaykwardell.com/blog/grief-is-not-a-casual-thing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 872dde6a31d06591e9519e176dd59955
+  last_post_guid: 8b07359e209ad848ccedfd7015c6d93a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 44
+  avgpostlen: 0
 ---

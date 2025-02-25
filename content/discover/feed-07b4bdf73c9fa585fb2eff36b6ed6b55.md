@@ -1,6 +1,6 @@
 ---
 title: technicalwriting.dev
-date: "2024-10-21T09:09:03-07:00"
+date: "2025-01-03T12:41:04-07:00"
 description: A blog about technical writing by Kayce Basques.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
@@ -18,29 +18,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Embeddings are underrated
+  last_post_title: 2024 Machine Learning Review (For Technical Writers)
   last_post_description: |-
-    Machine learning (ML) has the potential to advance the state of the art
-            in technical writing. No, I'm not talking about text generation models.
-            The ML technology that might end up
-  last_post_date: "2024-10-21T09:09:03-07:00"
-  last_post_link: https://technicalwriting.dev/data/embeddings.html
+    A review of how much (or little) the ideas from GenAI Outlook 2023 have panned
+            out, and a discussion of potential future trends in 2025.
+  last_post_date: "2025-01-03T12:41:04-07:00"
+  last_post_link: https://technicalwriting.dev/ml/reviews/2024.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9408d00ab9998f7636d3dc391bfeec45
+  last_post_guid: 7da8b27ebcf08fb048da6d260f889b8d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 8
+  avgpostlen: 0
 ---

@@ -19,45 +19,43 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Attività
+  - Guide
   - In evidenza
   - ROOT
   relme: {}
-  last_post_title: 'TecnoEstate Junior raddoppia: al corso del  martedì se ne aggiunge
-    uno al mercoledì'
+  last_post_title: 03 Incontro del 18-1-2025
   last_post_description: |-
-    Translator
+    Range
+    La sequenza di numeri interi consecutivi è di uso così frequente in Python che è stata definita una funzione specifica, range(), per crearla.La sintassi:
+    range (n1, n2, p)
+    dove
 
-
-
-
-
-
-
-
-
-    Translator
-  last_post_date: "2024-05-28T21:00:04+02:00"
-  last_post_link: https://www.pugliasos.it/index.php/attivita/67-tecnoestate-junior-raddoppia-al-corso-del-martedi-se-ne-aggiunge-uno-al-mercoledi
+    n1 l'intero
+  last_post_date: "2025-01-20T12:22:27+01:00"
+  last_post_link: https://www.pugliasos.it/index.php?view=article&id=77:03-incontro-del-18-1-2025&catid=10
   last_post_categories:
-  - Attività
+  - Guide
   - In evidenza
   - ROOT
   last_post_language: ""
-  last_post_guid: 3bad2e9730352baccc6a5bc7941b4911
+  last_post_guid: 87c7800d0ca4041bf65550e60137834d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 5
+  avgpostlen: 0
 ---

@@ -20,29 +20,32 @@ params:
     https://github.com/LocalFreedom: true
     https://localfreedom.github.io/: true
     https://mastodon.social/@reserve2freedom: true
-  last_post_title: 加密货币
+  last_post_title: Office Deployment Tool
   last_post_description: |-
     背景
-    一提到加密货币与挖矿，很多中国读者有着很深的误解与偏见，这实际上与中国政府及其控制的媒体、自媒体的宣传导向有关。
-    非常感谢自由之心
-  last_post_date: "2023-12-18T11:53:49Z"
-  last_post_link: https://localfreedom.github.io/p/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/
+    MS Office
+  last_post_date: "2024-12-22T03:09:53Z"
+  last_post_link: https://localfreedom.github.io/p/office-deployment-tool/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a018de45758ed4cc581d189b95c9ea31
+  last_post_guid: d3db85842ead22952d19d2f735bfbed1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 15
+  avgpostlen: 0
 ---

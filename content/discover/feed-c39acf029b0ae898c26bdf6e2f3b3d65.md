@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2024-08-30T13:14:02Z"
+date: "2025-02-24T13:15:35Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml
@@ -20,27 +20,30 @@ params:
   - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: HACS 2.0 - The best way to share community-made projects just got
-    better
+  last_post_title: Speech-to-Phrase brings voice home - Voice chapter 9
   last_post_description: ""
-  last_post_date: "2024-08-21T00:00:01Z"
-  last_post_link: https://www.home-assistant.io/blog/2024/08/21/hacs-the-best-way-to-share-community-made-projects/
+  last_post_date: "2025-02-13T00:00:01Z"
+  last_post_link: https://www.home-assistant.io/blog/2025/02/13/voice-chapter-9-speech-to-phrase/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: efce15e619e62bc59721f5a1ecabd3ba
+  last_post_guid: 1de810581e72a3a8766d02e11ca060fc
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 9
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 295
 ---

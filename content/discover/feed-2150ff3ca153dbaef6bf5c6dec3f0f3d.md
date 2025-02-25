@@ -1,6 +1,6 @@
 ---
 title: Eclipse mde
-date: "2024-08-27T06:57:53-07:00"
+date: "2024-11-18T01:58:52-08:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/3658502096185788177/posts/default
@@ -27,15 +27,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 294
 ---

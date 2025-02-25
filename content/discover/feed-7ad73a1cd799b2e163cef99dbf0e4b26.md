@@ -1,8 +1,9 @@
 ---
-title: Cyble
+title: Cyble Podcast | Cybersecurity & Threat Intelligence Insights
 date: "1970-01-01T00:00:00Z"
-description: 'Cyble: AI-based Cyber Threat Intelligence Platform.. Stay ahead of cyber
-  threats with real-time insights & monitoring with the best cybersecurity solutions!'
+description: Tune into the Cyble Podcast for expert discussions on cybersecurity,
+  threat intelligence, and data protection. Stay informed on the latest security trends
+  and cyber risks. Listen now!
 params:
   feedlink: https://cyble.com/feed/
   feedtype: rss
@@ -11,40 +12,47 @@ params:
     https://cyble.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - ICS Vulnerabilities
-  - Vulnerability
+  - Technology
   relme: {}
-  last_post_title: 'Top ICS Vulnerabilities This Week: Siemens, Baxter, and Subnet
-    Solutions'
-  last_post_description: This week’s Cyble ICS vulnerability report includes critical
-    vulnerabilities like CVE-2024-39332 in Siemens, CVE-2024-9834 in Baxter Life2000
-    Ventilation System, and CVE-2024-45490 in Subnet
-  last_post_date: "2024-11-22T12:21:45Z"
-  last_post_link: https://cyble.com/blog/top-ics-vulnerabilities-this-week-siemens-baxter-and-subnet-solutions/
+  last_post_title: 'Major Security Flaw in Juniper Networks Routers: How to Protect
+    Your Systems'
+  last_post_description: |-
+    Overview
+
+
+
+
+    Juniper Networks, a leading provider of networking solutions, has recently issued a security advisory addressing a critical vulnerability affecting multiple Juniper Networks devices.
+  last_post_date: "2025-02-24T10:57:41Z"
+  last_post_link: https://cyble.com/blog/major-security-flaw-in-juniper-networks-routers/
   last_post_categories:
-  - ICS Vulnerabilities
+  - Juniper Network
   - Vulnerability
   last_post_language: ""
-  last_post_guid: e5909932f6427d3802b0a4db565afc0e
+  last_post_guid: 76b6002372878a76ca5bf5960d4c5c62
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
-  ispodcast: false
+  score: 20
+  ispodcast: true
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

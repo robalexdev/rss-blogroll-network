@@ -12,6 +12,9 @@ params:
   blogrolls:
   - https://danq.me/blogroll.xml
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -177,7 +180,9 @@ params:
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
-  - https://degruchy.org/comments/feed/
+  - https://degruchy.org/atom.xml
+  - https://degruchy.org/feed.xml
+  - https://degruchy.org/index.xml
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -190,6 +195,7 @@ params:
   - https://immerweiterlaufen.de/comments/feed/
   - https://immerweiterlaufen.de/feed/
   - https://jerz.us/atom/
+  - https://jerz.us/feed/
   - https://jerz.us/rss/
   - https://kevquirk.com/feed
   - https://kevquirk.com/notes-feed
@@ -204,7 +210,6 @@ params:
   - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
   - https://notiz.blog/
   - https://notiz.blog/comments/feed/
-  - https://notiz.blog/en/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/gallery/feed/
@@ -230,7 +235,6 @@ params:
   - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
-  - https://thehistoryoftheweb.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
   - https://www.alchemists.io/feeds/articles.xml
   - https://www.alchemists.io/feeds/projects.xml
@@ -249,16 +253,20 @@ params:
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://www.zinzolin.fr/feed/
-  recommender: []
+  - https://z1nz0l1n.com/rss/
+  recommender:
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - automattic
-  - cache log
-  - geocaching
-  - skiing
-  - teleworking
-  - work
+  - geohashing
+  - google maps
+  - map
+  - maps
+  - openstreetmap
+  - walking
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -269,35 +277,39 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Checkin] Dan Q found GC4MHJ0 Octo (MK Artwalks)'
-  last_post_description: This checkin to GC4MHJ0 Octo (MK Artwalks) reflects a geocaching.com
-    log entry. See more of Dan's cache logs. Today’s the last of three consecutive
-    days that I’ve spent working in Milton Keynes.
-  last_post_date: "2024-08-30T12:38:00+01:00"
-  last_post_link: https://danq.me/2024/08/30/dan-q-found-gc4mhj0-octo-mk-artwalks/
+  last_post_title: '[Article] OpenStreetMap rocks (especially on foot)'
+  last_post_description: OpenStreetMap blows Google Maps out of the water for walkers
+    and also for if you're trying to find a particular-named house in a rural area.
+    I'm not saying never to use Google Maps (there's plenty of
+  last_post_date: "2025-02-23T14:37:36Z"
+  last_post_link: https://danq.me/2025/02/23/openstreetmap-rocks/
   last_post_categories:
   - Personal
-  - automattic
-  - cache log
-  - geocaching
-  - skiing
-  - teleworking
-  - work
+  - geohashing
+  - google maps
+  - map
+  - maps
+  - openstreetmap
+  - walking
   last_post_language: ""
-  last_post_guid: 67035aaf3a094c8e0a77f5178384106c
+  last_post_guid: 1a0566c7a5780232467a9d56b5c26461
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 32
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

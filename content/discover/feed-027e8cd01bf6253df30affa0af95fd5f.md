@@ -1,6 +1,6 @@
 ---
 title: hsfzxjy 的博客
-date: "2024-11-10T04:52:41Z"
+date: "2025-02-22T10:09:26Z"
 description: Creation and blogs by hsfzxjy.
 params:
   feedlink: https://i.hsfzxjy.site/rss.xml
@@ -16,34 +16,44 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Compiler
-  - Rust
+  - Deep Learning
+  - DeepSeek
+  - Quantization
+  - RTX 3090
   - Tech
+  - llama.cpp
   relme: {}
-  last_post_title: Rust 中的隐匿概念 —— Place（位置）
-  last_post_description: 在本文开始前，我们先看一个奇怪的问题。以下两个函数，为什么 reborrow_good 能通过编译，而 deref_bad
-    不能？
-  last_post_date: "2024-11-10T04:35:00Z"
-  last_post_link: https://i.hsfzxjy.site/rust-place-expression/
+  last_post_title: 使用 3090 部署 1.58bit 动态量化版 DeepSeek R1 671b
+  last_post_description: '1.58 bit 量化技术最早由论文 BitNet: Scaling 1-bit Transformers for
+    Large Language Models 提出，简单说即是将'
+  last_post_date: "2025-02-22T09:47:00Z"
+  last_post_link: https://i.hsfzxjy.site/deepseek-r1-158bit-on-3090/
   last_post_categories:
-  - Compiler
-  - Rust
+  - Deep Learning
+  - DeepSeek
+  - Quantization
+  - RTX 3090
   - Tech
+  - llama.cpp
   last_post_language: ""
-  last_post_guid: eb7ddf6996a2fb85edbf3bc8d5eb4825
+  last_post_guid: 335ced51a0c72f63ad8c2ed43b3cecc2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 140
+  avgpostlen: 0
 ---

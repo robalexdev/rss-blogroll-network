@@ -1,6 +1,6 @@
 ---
 title: Will's Python Notebook
-date: "2024-03-20T05:11:22-04:00"
+date: "2024-09-15T20:48:32-04:00"
 description: Things I've learned while coding in python.
 params:
   feedlink: https://willpython.blogspot.com/feeds/posts/default
@@ -30,15 +30,19 @@ params:
     cats: 1
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 2
+  avgpostlen: 298
 ---

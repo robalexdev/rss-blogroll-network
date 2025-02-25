@@ -8,6 +8,7 @@ params:
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
     https://www.nathalielawhead.com/candybox: true
+    https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll
@@ -31,34 +32,35 @@ params:
   - https://danq.uk/feed/
   categories:
   - Games
-  - Uncategorized
   relme:
     https://www.nathalielawhead.com/candybox: true
-  last_post_title: Play my new interactive liminal-space horror essay about technocapitalism
-    and individuality!
-  last_post_description: 'individualism in the dead-internet age: an anti-big tech
-    asset flip shovelware r?a?n?t? manifesto * https://alienmelon.itch.io/shovelware
-    “This is an interactive-essay-meets-walking-sim about'
-  last_post_date: "2024-08-26T07:39:01Z"
-  last_post_link: https://www.nathalielawhead.com/candybox/play-my-new-interactive-liminal-space-horror-essay-about-technocapitalism-and-individuality
+  last_post_title: The BlueSuburbia world update is here!
+  last_post_description: |-
+    The BlueSuburbia world update is now live on itch!
+    It adds a new poetry world where you gain your ability to fly. I'm proud of this update because the Butterfly poem turned out so beautifully. I'm
+  last_post_date: "2025-02-03T16:06:32Z"
+  last_post_link: https://www.nathalielawhead.com/candybox/the-bluesuburbia-world-update-is-here
   last_post_categories:
   - Games
-  - Uncategorized
   last_post_language: ""
-  last_post_guid: c0df38f31348481c442e95147c62e99f
+  last_post_guid: 0227523b30de558a51bbb201dc09763e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2024-06-10T13:10:49Z"
+date: "2024-12-24T13:45:53Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -17,30 +17,32 @@ params:
   recommender: []
   categories: []
   relme:
-    https://s.sneak.berlin/@sneak: true
     https://sneak.berlin/: true
-  last_post_title: My 2024 Code Styleguide
-  last_post_description: I have documented and published, for the first time, my personal
-    code style guide. It is a living document (which is why it’s in git) that I will
-    update periodically as I consciously notice more of
-  last_post_date: "2024-06-10T13:10:18Z"
-  last_post_link: https://sneak.berlin/20240610/code-styleguide/
+  last_post_title: README HOWTO
+  last_post_description: As a certified Hacker News addict (like Slashdot before it),
+    I see a lot of open source projects get publicly announced.
+  last_post_date: "2024-12-24T13:20:08Z"
+  last_post_link: https://sneak.berlin/20241224/readme-howto/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a87859100c5d9c34dc0c796019341a50
+  last_post_guid: 4aa31f43d95398f6b1601e3aeec380d4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 295
 ---

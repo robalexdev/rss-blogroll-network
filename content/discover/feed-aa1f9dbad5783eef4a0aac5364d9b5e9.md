@@ -174,7 +174,9 @@ params:
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
-  - https://degruchy.org/comments/feed/
+  - https://degruchy.org/atom.xml
+  - https://degruchy.org/feed.xml
+  - https://degruchy.org/index.xml
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -187,6 +189,7 @@ params:
   - https://immerweiterlaufen.de/comments/feed/
   - https://immerweiterlaufen.de/feed/
   - https://jerz.us/atom/
+  - https://jerz.us/feed/
   - https://jerz.us/rss/
   - https://kevquirk.com/feed
   - https://kevquirk.com/notes-feed
@@ -201,7 +204,6 @@ params:
   - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
   - https://notiz.blog/
   - https://notiz.blog/comments/feed/
-  - https://notiz.blog/en/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/gallery/feed/
@@ -227,7 +229,6 @@ params:
   - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
-  - https://thehistoryoftheweb.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
   - https://www.alchemists.io/feeds/articles.xml
   - https://www.alchemists.io/feeds/projects.xml
@@ -246,7 +247,7 @@ params:
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://www.zinzolin.fr/feed/
+  - https://z1nz0l1n.com/rss/
   recommender: []
   categories: []
   relme:
@@ -259,31 +260,31 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] Roll Your Own Antispam by Dan Q
-  last_post_description: |-
-    In reply to <a href="https://danq.me/2024/08/29/roll-your-own-antispam/#comment-254080">Spencer</a>.
-
-    Yup! That's the honeypot I hinted at!
-
-    Turns out spammers these days are mostly wise to that
-  last_post_date: "2024-08-29T18:47:18+01:00"
-  last_post_link: https://danq.me/2024/08/29/roll-your-own-antispam/#comment-254082
+  last_post_title: Comment on [Article] WordPress to ClassicPress by Joseph Dickson
+  last_post_description: ClassicPress also has media categories and tags, I’ve yet
+    to set them up but it might serve me as an Instagram alternative.
+  last_post_date: "2025-02-22T08:41:43Z"
+  last_post_link: https://danq.me/2025/02/18/wordpress-to-classicpress/#comment-266289
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f88f2155462dd2173a7cd46c0a638323
+  last_post_guid: 39e128a8a6d285b643e1537e20e14958
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 30
+  avgpostlen: 0
 ---

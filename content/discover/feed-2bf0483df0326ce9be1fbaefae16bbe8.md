@@ -1,6 +1,6 @@
 ---
 title: (think)
-date: "2024-04-25T04:49:45Z"
+date: "2025-02-23T19:37:34Z"
 description: Bozhidar Batsov's personal blog
 params:
   feedlink: https://batsov.com/feeds/Emacs.xml
@@ -16,29 +16,36 @@ params:
   recommender: []
   categories:
   - Emacs
+  - macOS
   relme: {}
-  last_post_title: 'M-x Reloaded: The Second Golden Age of Emacs'
-  last_post_description: The people who live in a Golden Age usually go around complaining
-    how yellow everything looks. – Randall Jarell
-  last_post_date: "2024-02-27T08:08:00Z"
-  last_post_link: https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/
+  last_post_title: macOS No Longer Ships with Emacs
+  last_post_description: While I was setting up my new mac mini yesterday I noticed
+    something interesting - Apple have stopped shipping the ancient Emacs 22.1 with
+    macOS! As I was mostly using Windows + WSL2 in the past 5
+  last_post_date: "2025-01-12T09:03:00Z"
+  last_post_link: https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/
   last_post_categories:
   - Emacs
+  - macOS
   last_post_language: ""
-  last_post_guid: 3fcdfb612744cf095b205b1a79316c12
+  last_post_guid: 64b9948a651509bfc536ab429078947d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 1
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 297
 ---

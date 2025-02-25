@@ -17,31 +17,35 @@ params:
   categories:
   - projects
   relme: {}
-  last_post_title: Announcing systemd v256
+  last_post_title: Announcing systemd v257
   last_post_description: |-
-    Yesterday evening we released systemd v256 into the wild. While other projects,
-    such as Firefox
-    are just about to leave the 7bit world and enter 8bit territory, we already
-    entered 9bit version
-  last_post_date: "2024-06-12T00:00:00+02:00"
-  last_post_link: https://0pointer.net/blog/announcing-systemd-v256.html
+    Last week we released systemd v257 into the wild.
+    In the weeks leading up to this release (and the week after) I have
+    posted a series of serieses of posts to Mastodon about key new
+    features in this
+  last_post_date: "2024-12-17T00:00:00+01:00"
+  last_post_link: https://0pointer.net/blog/announcing-systemd-v257.html
   last_post_categories:
   - projects
   last_post_language: ""
-  last_post_guid: cca471e9be048fd071fb2bbeb4729c46
+  last_post_guid: 9e1b9ce8add2e7656485d3b9eb1ed2bf
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 9
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 400
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Media services to transcode video and audio in different formats
-date: "2024-07-02T19:45:35-07:00"
+date: "2024-10-24T01:18:46-07:00"
 description: A GSoC work report
 params:
   feedlink: https://gstmediaservices.blogspot.com/atom.xml
@@ -42,15 +42,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 296
 ---

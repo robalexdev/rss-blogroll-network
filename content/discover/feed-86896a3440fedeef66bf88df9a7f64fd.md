@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2024-08-20T03:39:00Z"
+date: "2025-02-13T12:29:00Z"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -31,28 +31,33 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Flirting With Helix
-  last_post_description: "# \n  \n  This is an RSS-only post. It's a secret! Read
-    more about RSS Club.\nMy friend Tom has praised Kakoune for years and always threatened
-    leaving Neovim for it.\n\nWell… I'm playing with just that"
-  last_post_date: "2024-08-19T22:55:34Z"
-  last_post_link: https://evantravers.com/articles/2024/08/19/flirting-with-helix/
+  last_post_title: Raycast Focus
+  last_post_description: |-
+    Jesse
+    Have you tried Raycast Focus yet? Pretty neat.
+    After invoking the mode Raycast Focus provides a lovely little timer with your stated goal...
+  last_post_date: "2025-02-13T11:03:26Z"
+  last_post_link: https://evantravers.com/articles/2025/02/13/raycast-focus/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a901fef07e325fbf1e8a9a3486ca1729
+  last_post_guid: ffc3bd45826ac9b52b7bd63e1ac8fad2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 292
 ---

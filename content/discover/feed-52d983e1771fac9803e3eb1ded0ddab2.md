@@ -1,6 +1,6 @@
 ---
 title: Eclipse, Java and all that JAZZ!
-date: "2024-03-14T15:23:10+05:30"
+date: "2025-02-07T14:25:38+05:30"
 description: This blog is about the open world of Eclipse, Jazz and related technologies.
   Its about new stuff coming your way, old stuff you didn't know existed or simply
   stuff that we talk about as we enter a
@@ -91,15 +91,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 14
+  avgpostlen: 293
 ---

@@ -1,6 +1,6 @@
 ---
 title: 旁逸斜出
-date: "2024-06-16T13:14:00+08:00"
+date: "2025-02-22T16:18:00+08:00"
 description: 凡有所学，皆成性格
 params:
   feedlink: https://www.mihu.live/feed/
@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 在docker中安装frp
-  last_post_description: frp是一个好用的内网穿透项目：https://github.com/fatedier/frp如果不使用docker安装frp,可以参考官方教程：https://gofrp.org/zh-cn/...
-  last_post_date: "2024-06-16T13:14:00+08:00"
-  last_post_link: https://www.mihu.live/archives/421/
+  last_post_title: .sub字幕转换为.srt格式
+  last_post_description: .sub 文件包含了实际的字幕内容（图片形式的），而 .idx
+  last_post_date: "2025-02-22T16:18:00+08:00"
+  last_post_link: https://www.mihu.live/archives/453/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dfd64af2eb6dbb3215328de1dd145d01
+  last_post_guid: 16e83b02ade18dd08c8ae75d4f6d858e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 10
+  avgpostlen: 0
 ---

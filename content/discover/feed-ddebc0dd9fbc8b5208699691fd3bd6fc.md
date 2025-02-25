@@ -15,32 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 博客
   - 日志
   relme: {}
-  last_post_title: 独立博客自省问卷15题
-  last_post_description: WordPress 要是可以 @ 别人点名提醒就好了。源：独立博客自省问卷15题 雅余 1. 你的博客更新频率 …
-    继续阅读“独立博客自省问卷15题”
-  last_post_date: "2024-10-14T06:45:23Z"
-  last_post_link: https://imzm.im/15-questions-on-blogging/
+  last_post_title: 便利店
+  last_post_description: 公司楼下的便利店倒闭了，没有一点预兆。前一天还在店里买这买那，某天再走近一看，大门已经封紧，透过玻璃能看到几位 […]
+  last_post_date: "2025-01-13T09:58:08Z"
+  last_post_link: https://imzm.im/711-store/
   last_post_categories:
-  - 博客
   - 日志
   last_post_language: ""
-  last_post_guid: fe61b25300fe85164fc3369e99606736
+  last_post_guid: ac3b608ce1a6d89fda5bcae06a77cf39
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 42
+  avgpostlen: 0
 ---

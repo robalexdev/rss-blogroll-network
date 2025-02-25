@@ -1,6 +1,6 @@
 ---
 title: FLOSSLinux
-date: "2024-07-24T01:12:52+01:00"
+date: "2025-01-11T18:00:11Z"
 description: Random musings about Free/Libre/Open Source Software - and also about
   Linux and the way that the world is, gadgets and trends
 params:
@@ -64,27 +64,30 @@ params:
   - wifi
   - wisdom of crowds
   relme: {}
-  last_post_title: Lessons from (and for) colleagues - and, implicitly, how NOT to
-    get on
+  last_post_title: 20250111 Release media testing for Debian 12.9
   last_post_description: ""
-  last_post_date: "2024-02-12T22:13:41Z"
-  last_post_link: https://flosslinuxblog.blogspot.com/2024/02/lessons-from-and-for-colleagues-and.html
+  last_post_date: "2025-01-11T17:59:38Z"
+  last_post_link: https://flosslinuxblog.blogspot.com/2025/01/20250111-release-media-testing-for.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 313a2a8214e449558f174c2cbf81e6ed
+  last_post_guid: ca1d3e93588a9f95e493f14ecaabab90
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 292
 ---

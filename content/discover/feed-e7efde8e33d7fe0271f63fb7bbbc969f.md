@@ -1,6 +1,6 @@
 ---
 title: Kaffa.im
-date: "2024-11-07T19:04:00+08:00"
+date: "2024-12-29T10:00:00+08:00"
 description: ""
 params:
   feedlink: https://kaffa.im/feeds/all.atom.xml
@@ -16,31 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - book
-  - computer-learning
+  - article
+  - trading
   relme: {}
-  last_post_title: 新手学电脑从入门到精通
-  last_post_description: 定位非常重要。
-  last_post_date: "2024-11-07T19:04:00+08:00"
-  last_post_link: https://kaffa.im/beginners-learn-computers-from-beginner-to-master.html
+  last_post_title: 交易的实质——浪随风向
+  last_post_description: 本文
+  last_post_date: "2024-12-29T10:00:00+08:00"
+  last_post_link: https://kaffa.im/the-essence-of-the-deal--the-wind-blows.html
   last_post_categories:
-  - book
-  - computer-learning
+  - article
+  - trading
   last_post_language: ""
-  last_post_guid: ffd10bd8c87418c3ca72d4896a3b4edd
+  last_post_guid: 14402c2d3191aca03f5b60a9f406e913
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 100
+  avgpostlen: 169
 ---

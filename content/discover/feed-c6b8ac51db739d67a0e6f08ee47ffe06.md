@@ -16,26 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 10月10日MongoDB学习笔记
+  last_post_title: 森林的夜
   last_post_description: ""
-  last_post_date: "2022-10-10T17:04:31Z"
-  last_post_link: https://www.timeshike.com/article/10月10日MongoDB学习笔记
+  last_post_date: "2024-08-16T08:57:28Z"
+  last_post_link: https://www.timeshike.com/article/森林的夜
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e2c808cfa5cbc3b67d7a221e7e22976
+  last_post_guid: 61d5f33e3098dd410d2b3759fdf4e195
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 83
+  avgpostlen: 0
 ---

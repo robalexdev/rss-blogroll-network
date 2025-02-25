@@ -16,34 +16,42 @@ params:
   recommender: []
   categories:
   - Sem categoria
-  - linux
+  - madb
   - mageia
+  - servidores
+  - wiki
   relme: {}
-  last_post_title: Falha de segurança OpenSSH corrigida
-  last_post_description: OpenSSH é um conjunto de ferramentas de software gratuitas
-    que permitem comunicações seguras através de uma rede de computadores usando o
-    protocolo SSH. Em particular, esta ferramenta permite a
-  last_post_date: "2024-07-15T21:43:35Z"
-  last_post_link: https://blog.mageia.org/pt/2024/07/15/falha-de-seguranca-openssh-corrigida/
+  last_post_title: E aqui está o novo MADb!
+  last_post_description: 'Escrito pela Equipe Atelier Isso foi rápido: acabamos de
+    explicar por que nosso Banco de Dados de Aplicativos Mageia estava offline e agora
+    papoteur nos informa que o novo MADb está pronto para ser'
+  last_post_date: "2024-11-04T12:11:22Z"
+  last_post_link: https://blog.mageia.org/pt/2024/11/04/e-aqui-esta-o-novo-madb/
   last_post_categories:
   - Sem categoria
-  - linux
+  - madb
   - mageia
+  - servidores
+  - wiki
   last_post_language: ""
-  last_post_guid: 072b9502f58f3b3b0d2828a83a56a767
+  last_post_guid: b6ccad3ab9c9a701eb5a0ba294d381e7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: pt
+  postcount: 10
+  avgpostlen: 0
 ---

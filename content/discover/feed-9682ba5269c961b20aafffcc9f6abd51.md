@@ -1,7 +1,7 @@
 ---
 title: ControlNet Blog
-date: "2024-07-06T15:09:18Z"
-description: 个人博客 << 分享一些有用的东西
+date: "2024-12-31T13:22:28Z"
+description: 个人博客 << https://controlnet.space
 params:
   feedlink: https://controlnet.space/atom.xml
   feedtype: atom
@@ -16,41 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - NAS
-  - 服务器
-  - 笔记
-  - 视频播放器
+  - 异星工厂
+  - 游戏
   relme: {}
-  last_post_title: 比之前更进一步的终极看番工具栈
+  last_post_title: 异星工厂中的高品质产率分析
   last_post_description: !!binary |
-    5LmL5YmN55qE5paH56ug5Lit6K6o6K665LqG5aaC5L2V5ZyoV2luZG93c+S4iumFjee9ru
-    acgOS9s+eahOinhumikeaSreaUvuWZqOeUqOS6jueci+eVqu+8jOeEtuiAjOi/meS4quaW
-    ueazleWFt+acieW+iOWkp+eahOWxgOmZkOaAp+OAgui/meevh+aWh+eroOWwhuS7i+e7je
-    WmguS9leaQreW7uuS4gOS4quabtOWKoOWujOWWhOeahOezu+e7n++8jOQ=
-  last_post_date: "2024-07-06T15:09:18Z"
-  last_post_link: https://controlnet.space/2024/07/06/note/media-server/
+    5byC5pif5bel5Y6C55qE5ZOB6LSo5omp5bGV5YyF57uZ5ri45oiP5bim5p2l5LqG5paw55
+    qE55Sf5Lqn6KeE5YiS5oyR5oiY77yM5q+U6LW35YOP5Lul5YmN5Y+q6IO95qiq5ZCR5omp
+    5byg5bel5Y6C55qE6KeE5qih77yM546w5Zyo5Y+v5Lul6YCa6L+H5L2/55So6auY5ZOB6L
+    So55qE5bel5Y6C5ZKM5o+S5Lu277yM5aSn5bmF5aKe5Yqg5Lqn6YeP44A=
+  last_post_date: "2024-12-31T13:22:28Z"
+  last_post_link: https://controlnet.space/2024/12/31/game/factorio-quality/
   last_post_categories:
-  - Linux
-  - NAS
-  - 服务器
-  - 笔记
-  - 视频播放器
+  - 异星工厂
+  - 游戏
   last_post_language: ""
-  last_post_guid: 1262dd715aedb59544d9c51106136d45
+  last_post_guid: 742271ef92dc4c3834d35ffe5442bedc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 268
 ---

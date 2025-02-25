@@ -16,31 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Guides & Tutorials
+  - Programming
   relme: {}
-  last_post_title: 'SvelteKit Streaming: The Complete Guide'
-  last_post_description: Streaming in SvelteKit is a powerful feature that allows
-    you to load data progressively. In a nutshell, streaming allows your SvelteKit
-    app to send an initial content response to the browser quickly,
-  last_post_date: "2024-11-04T21:03:13Z"
-  last_post_link: https://khromov.se/sveltekit-streaming-the-complete-guide/
+  last_post_title: Five Tips for Better AI Programming with Large Language Models
+  last_post_description: After using LLMs like ChatGPT, Claude and Gemini for coding
+    assistance, I’ve noticed a significant improvement in their capabilities over
+    the past two years. However, getting consistently good
+  last_post_date: "2025-01-26T20:42:08Z"
+  last_post_link: https://khromov.se/five-tips-for-better-ai-programming-with-large-language-models/
   last_post_categories:
-  - Guides & Tutorials
+  - Programming
   last_post_language: ""
-  last_post_guid: bafb8020b461cf86fe7c9280d2e8da76
+  last_post_guid: 6c4600b63cdca570e83f82ebf1a44d01
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -18,29 +18,33 @@ params:
   categories:
   - Thoughts
   relme: {}
-  last_post_title: Cable Management
-  last_post_description: One of the best parts of my iPhone 15 Pro is that it has
-    a USB-C port on it. While I appreciate the lightning port, I have just grown so
-    tired of having to manage so many different ports while
-  last_post_date: "2024-06-13T18:11:56Z"
-  last_post_link: https://spatiallyadjusted.com/cable-management/
+  last_post_title: Spring Training 2025
+  last_post_description: This week is one of the best in baseball—the start of Spring
+    Training, with players practice already underway. Sadly, it’s been a long time
+    since the Giants last made a World Series run, and the
+  last_post_date: "2025-02-18T00:16:23Z"
+  last_post_link: https://spatiallyadjusted.com/spring-training-2025/
   last_post_categories:
   - Thoughts
   last_post_language: ""
-  last_post_guid: 688f6cb07150c4bf003d888c47eba241
+  last_post_guid: 7fb7eaa298c7f4e44d98d19b66bb4af2
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

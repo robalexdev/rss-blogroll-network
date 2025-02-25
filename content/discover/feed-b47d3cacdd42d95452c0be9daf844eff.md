@@ -1,5 +1,5 @@
 ---
-title: <site/>
+title: site
 date: "1970-01-01T00:00:00Z"
 description: most part of the website is under construction
 params:
@@ -17,28 +17,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Nextcloud AIO install with docker-compose and nginx reverse proxy
-  last_post_description: Nextcloud is a popular self-hosted solution for file sync
-    and share as well as cloud apps such as document editing, chat and talk, calendar,
-    photo gallery etc. This guide will walk you through
-  last_post_date: "2023-12-12T06:20:11Z"
-  last_post_link: https://raju.dev/nextcloud-aio-install-with-docker-compose-and-reverse-proxy/
+  last_post_title: Finding all sub domains of a main domain
+  last_post_description: 'Problem: Need to know all the sub domains of a main domain,
+    e.g. example.com has a sub domain dev.example.com , I also want to know other
+    sub domains. Solution: Install the package called sublist3r,'
+  last_post_date: "2024-11-29T10:31:30Z"
+  last_post_link: https://raju.dev/finding-all-sub-domains-of-a-main-domain/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 521e7ecef4eb048377b929eb81797102
+  last_post_guid: 06ad33913ab4a01951c05e9adec29775
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

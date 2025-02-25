@@ -1,6 +1,6 @@
 ---
 title: I hack, therefore I am
-date: "2024-08-28T10:41:03+03:00"
+date: "2024-12-27T21:28:13+02:00"
 description: ""
 params:
   feedlink: https://blog.ikotler.org/feeds/posts/default
@@ -30,15 +30,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 21
+  avgpostlen: 295
 ---

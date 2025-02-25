@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2024-12-17T00:00:00+01:00"
+date: "2025-02-18T00:00:00+01:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,30 +19,33 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-    https://mas.to/@duarteocarmo: true
-  last_post_title: An ode to the Marathon
-  last_post_description: I'm flying over the Atlantic just between France and Spain
-    for my yearly Christmas trip back to Lisbon. For some reason, I just remembered
-    the blog post I always wanted to write. This one is not
-  last_post_date: "2024-12-17T00:00:00+01:00"
-  last_post_link: https://duarteocarmo.com/blog/the-marathon.html
+  last_post_title: Simple AI tools
+  last_post_description: Last week over lunch, Pedro was telling me how he uses Perplexity
+    to improve the way he searches around the web. He mentioned we're entering a phase
+    where we have at least 20 'AI' tools to boost our
+  last_post_date: "2025-02-18T00:00:00+01:00"
+  last_post_link: https://duarteocarmo.com/blog/simple-ai-tools.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 79926eedb876df84ef0a81cd67eddbb3
+  last_post_guid: dbb26096756ab240926faae3f3e9aad2
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 59
+  avgpostlen: 265
 ---

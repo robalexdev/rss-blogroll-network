@@ -1,6 +1,6 @@
 ---
 title: Frank's Geo-Geeking
-date: "2024-03-27T19:52:15-07:00"
+date: "2024-11-22T20:29:38-08:00"
 description: Thoughts on OSGeo, Open Source and the geospatial world.
 params:
   feedlink: https://www.blogger.com/feeds/1840643319439081135/posts/default/-/osgeo
@@ -53,15 +53,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 14
+  avgpostlen: 0
 ---

@@ -1,13 +1,14 @@
 ---
 title: Julian's Code Corner
 date: "1970-01-01T00:00:00Z"
-description: ""
+description: I write about GNOME and sometimes about other topics.
 params:
   feedlink: https://blogs.gnome.org/jsparber/feed/
   feedtype: rss
   feedid: 4ea56d46efdec602bbbad507b33fd10b
   websites:
     https://blogs.gnome.org/jsparber: true
+    https://blogs.gnome.org/jsparber/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -28,17 +29,21 @@ params:
   last_post_guid: 3f19a92738ff38d43153a57018b4dd85
   score_criteria:
     cats: 0
-    description: 0
+    description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

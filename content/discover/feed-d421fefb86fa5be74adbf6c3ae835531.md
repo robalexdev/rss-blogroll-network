@@ -1,6 +1,6 @@
 ---
 title: gretzuni - Free software
-date: "2024-06-02T14:57:51Z"
+date: "2025-01-23T01:55:47Z"
 description: ""
 params:
   feedlink: https://gretzuni.com/rss/?category=free-software
@@ -28,15 +28,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 0
 ---

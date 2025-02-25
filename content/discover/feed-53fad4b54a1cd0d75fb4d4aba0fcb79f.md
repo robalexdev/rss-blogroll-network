@@ -16,39 +16,47 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Stories
+  - News
+  - Teaching
   - Uncategorized
-  - conference
-  - conferences
+  - computer-science
   - education
+  - enrollments
+  - faculty-spotlight
   relme: {}
-  last_post_title: Crafts + Conferences
-  last_post_description: I spent this past weekend at The Hackers Conference, “an
-    annual invitation-only conference traditionally held in the San Francisco Bay
-    Area.” I was invited by my sister, a computer engineer based
-  last_post_date: "2024-11-13T23:58:53Z"
-  last_post_link: https://countingfromzero.blog/2024/11/13/crafts-conferences/
+  last_post_title: Enrollments for Spring 2025
+  last_post_description: Here’s my usual report on our spring 2025 enrollments, as
+    of week 2 of the semester. Number Title Enrolled/Cap under Math She:He CS 167-A,B
+    Intro. Computational Problem Solving 51/60 1:2 CS 210-A,B
+  last_post_date: "2025-02-10T01:32:04Z"
+  last_post_link: https://countingfromzero.blog/2025/02/09/enrollments-for-spring-2025/
   last_post_categories:
-  - Stories
+  - News
+  - Teaching
   - Uncategorized
-  - conference
-  - conferences
+  - computer-science
   - education
+  - enrollments
+  - faculty-spotlight
   last_post_language: ""
-  last_post_guid: c86ef6dc99c68cc77414a076d67d8e86
+  last_post_guid: d96fa385cdfdd30c476e10bd82f3f202
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

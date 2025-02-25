@@ -1,6 +1,6 @@
 ---
 title: Strong, dynamic
-date: "2024-03-23T11:26:29-07:00"
+date: "2024-09-20T16:22:33-07:00"
 description: Mostly about programming, mostly in Python.
 params:
   feedlink: https://strongdynamic.blogspot.com/atom.xml
@@ -97,26 +97,36 @@ params:
   - web developers
   - web development
   relme: {}
-  last_post_title: Behaving as a wave, not a particle
+  last_post_title: 'Ubuntu backup tip: save your package selections, including third-party,
+    for later recovery'
   last_post_description: ""
-  last_post_date: "2009-10-31T08:49:44-07:00"
-  last_post_link: https://strongdynamic.blogspot.com/2009/10/behaving-as-wave-not-particle.html
-  last_post_categories: []
+  last_post_date: "2011-03-26T15:25:00-07:00"
+  last_post_link: https://strongdynamic.blogspot.com/2008/11/ubuntu-backup-tip-save-your-package.html
+  last_post_categories:
+  - backup
+  - blogdoc
+  - linux
+  - restore
+  - ubuntu
   last_post_language: ""
-  last_post_guid: 1b1c2e9c6915e4758f4bb494ac32a890
+  last_post_guid: eab4ae27225f1dac32ca5bdf533b577f
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 266
 ---

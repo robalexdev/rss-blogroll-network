@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: 8a5d6572c1def2f369ccb7ed926ecb1a
   websites:
-    https://subtle-echo.pika.page/: true
+    https://subtle-echo.pika.page/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -20,12 +20,7 @@ params:
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
-  relme:
-    https://lorenzo.omg.lol/: true
-    https://lorenzo.omg.lol/now: true
-    https://mastodon.social/@lorenzobehna: true
-    https://subtle-echo.pika.page/: true
-    https://subtleecho.online/: true
+  relme: {}
   last_post_title: Just sharing two excellent book tracking Websites/Apps
   last_post_description: I don’t read a lot of books. My reading is more centred around
     RSS and Mastodon. Every time I do get into reading books though, I enjoy it a
@@ -34,20 +29,24 @@ params:
   last_post_link: https://subtleecho.online/posts/just-sharing-two-excellent-book-tracking-websites-apps
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 62d9414cdc4872c893c7bfdccb4cc494
+  last_post_guid: 400f0c957f273ba73741a120d4ec783f
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 13
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 3
+  avgpostlen: 298
 ---

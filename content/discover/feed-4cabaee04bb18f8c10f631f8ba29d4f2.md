@@ -1,6 +1,6 @@
 ---
 title: Frédéric Wang
-date: "2024-07-09T08:01:18+02:00"
+date: "2025-02-22T18:02:40+01:00"
 description: ""
 params:
   feedlink: https://frederic-wang.fr/feeds/atom.xml
@@ -16,26 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My recent contributions to Gecko (2/3)
+  last_post_title: Stage d'implémentation des normes Web
   last_post_description: ""
-  last_post_date: "2024-07-09T00:00:00+02:00"
-  last_post_link: https://frederic-wang.fr//2024/07/09/my-recent-contributions-to-gecko-content-visibility/
+  last_post_date: "2025-02-22T00:00:00+01:00"
+  last_post_link: https://frederic-wang.fr//2025/02/22/stage-implementation-des-normes-web/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 95340f4e7ba21229726b8042744b10f2
+  last_post_guid: 4e18ef0d559f2f7aba8f133abd413290
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 54
+  avgpostlen: 295
 ---

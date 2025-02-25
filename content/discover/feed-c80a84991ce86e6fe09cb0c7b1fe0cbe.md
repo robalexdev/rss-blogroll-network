@@ -1,6 +1,6 @@
 ---
 title: Mycpen
-date: "2023-05-05T05:00:00Z"
+date: "2023-06-01T05:00:00Z"
 description: Personal Blog
 params:
   feedlink: https://blog.cpen.top/atom.xml
@@ -18,33 +18,36 @@ params:
   categories:
   - GitHub
   - Hexo
-  - NPM
   relme: {}
-  last_post_title: 12_Hexo-GitHub Actions 发布博客静态资源至 NPM
+  last_post_title: 11_Hexo-GitHub Actions 自动部署博客
   last_post_description: |-
-    前言
-    将博客静态文件上传至 github，通过 github action 自动发包至 npm，使用
-  last_post_date: "2023-05-05T05:00:00Z"
-  last_post_link: https://blog.cpen.top/posts/8d01af11.html
+    简单记录，步骤潦草
+    示例
+    1. .gitignore
+  last_post_date: "2023-10-11T05:00:00Z"
+  last_post_link: https://blog.cpen.top/posts/8b765f7a.html
   last_post_categories:
   - GitHub
   - Hexo
-  - NPM
   last_post_language: ""
-  last_post_guid: e54b2d23712dc05dedcc8ddd64235eb0
+  last_post_guid: ee9511b8b651c7a3fabb3bcf90160e13
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2024-12-17T07:58:21Z"
+date: "2025-01-16T08:10:32Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -17,30 +17,33 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Re: Re: Bluesky and Decentralization'
+  last_post_title: The DIY FOSS cyborg
   last_post_description: |-
-    A few weeks ago I wrote
-    How decentralized is Bluesky really?,
-    a blogpost which received far more attention than I expected on the
-    fediverse and Bluesky both.  Thankfully, the blogpost was
-  last_post_date: "2024-12-13T14:15:00Z"
-  last_post_link: https://dustycloud.org/blog/re-re-bluesky-decentralization/
+    Do you feel the allure of becoming a cyborg?  Are you one of those
+    people who loves computing, but hates what computing has become?  Do
+    you wish to become one with your computing environment, without
+  last_post_date: "2025-01-15T22:01:00Z"
+  last_post_link: https://dustycloud.org/blog/the-diy-foss-cyborg/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1c777afe36f3fa1b6516dafd4f2a3da4
+  last_post_guid: bff2a99deb4276c90cdae6fd04d5566f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

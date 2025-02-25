@@ -1,9 +1,9 @@
 ---
 title: Confessions of a Code Addict
 date: "1970-01-01T00:00:00Z"
-description: Deep dives into varied topics on Computer Science including compilers,
-  programming languages, database internals, AI and more. Subscribe for insights and
-  advance your engineering skills!
+description: Demystifying complex programming concepts through deep technical explorations
+  of language internals, computer architecture, and performance engineering – helping
+  curious developers become better by
 params:
   feedlink: https://blog.codingconfessions.com/feed
   feedtype: rss
@@ -19,27 +19,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reflections on 2024 and Exciting Plans for 2025
-  last_post_description: Looking back at what we accomplished in 2024, and plans for
-    2025
-  last_post_date: "2024-12-18T16:34:59Z"
-  last_post_link: https://blog.codingconfessions.com/p/reflections-on-2024-and-exciting
+  last_post_title: '[Course Launch] Hands-on Introduction to X86 Assembly'
+  last_post_description: A Live, Interactive Course for Systems Engineers
+  last_post_date: "2025-02-22T16:52:11Z"
+  last_post_link: https://blog.codingconfessions.com/p/course-launch-hands-on-introduction
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ded127cc72c1e757aed82d2b5addcef1
+  last_post_guid: 1bde6a33f8b58c6a611093507374ee62
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

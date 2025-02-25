@@ -1,7 +1,7 @@
 ---
 title: Kev Quirk
 date: "1970-01-01T00:00:00Z"
-description: Latest posts from my blog
+description: Latest posts and notes from my blog
 params:
   feedlink: https://kevquirk.com/feed
   feedtype: rss
@@ -19,9 +19,18 @@ params:
   - title: ""
     description: ""
     id: 4e2ec23ac536a5d58f2702b4603e3554
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: The Art Of Not Asking Why - Blogroll
     description: ""
     id: e79d34746977a283ee12bf2f27dfee7a
+  - title: Ruben Arakelyan's blogroll
+    description: ""
+    id: a45e294b0f7393dbe42e1b017580e161
   recommended:
   - https://baty.net/everything.rss
   - https://brandonwrites.xyz/feed/
@@ -40,12 +49,16 @@ params:
   - https://thejollyteapot.com/feed.rss
   - https://www.eddiedale.com/blog-feed
   - https://www.lkhrs.com/blog/index.xml
+  - https://baty.net/feed
   - https://baty.net/index.xml
+  - https://buttondown.email/rss.xml
   - https://chriscoyier.net/feed/
   - https://email-is-good.com/comments/feed/
   - https://email-is-good.com/feed/
+  - https://herman.bearblog.dev/feed/
   - https://jlelse.blog/.atom
   - https://jlelse.blog/.rss
+  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
@@ -54,40 +67,57 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/index.xml
   recommender:
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
+  - https://lmika.org/feed.xml
+  - https://lmika.org/podcast.xml
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
-  categories: []
+  - https://www.wackomenace.co.uk/blog/rss.xml
+  categories:
+  - '#fishkeeping'
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: The Blackest Heart
-  last_post_description: "✍️ Written by: Brian Lee Durfee\n                  \U0001F3F7
-    Genre: Fantasy\n                  \U0001F5D3 Published: 01 September 2007\n                  \U0001F4C4
-    Pages: 911\n                  \U0001F9D0 My rating:"
-  last_post_date: "2024-08-28T08:50:00+01:00"
-  last_post_link: https://kevquirk.com/blog/the-blackest-heart
-  last_post_categories: []
+  last_post_title: "\U0001F4DD 24 February 2025 at 09:07 - Having to put another fish
+    to sleep is a really..."
+  last_post_description: |-
+    Having to put another fish to sleep is a really shitty way to start a Monday.
+    This is the problem with the #fishkeeping hobby - when you setup a tank and stock it with a load of babies, they all grow
+  last_post_date: "2025-02-24T09:10:00Z"
+  last_post_link: https://kevquirk.com/notes/20250224-0907
+  last_post_categories:
+  - '#fishkeeping'
   last_post_language: ""
-  last_post_guid: 59df4a419dc22c9aa19a05984c14384b
+  last_post_guid: c1ea26338d24a16e13719c616bc76790
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 0
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 30
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

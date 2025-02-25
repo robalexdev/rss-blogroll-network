@@ -1,6 +1,6 @@
 ---
 title: ImperialViolet
-date: "2024-04-08T01:43:47Z"
+date: "2024-12-26T20:03:09Z"
 description: ""
 params:
   feedlink: https://www.imperialviolet.org/iv-rss.xml
@@ -23,26 +23,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Let's Kerberos
+  last_post_title: A Tour of WebAuthn
   last_post_description: ""
-  last_post_date: "2024-04-07T00:00:00Z"
-  last_post_link: http://www.imperialviolet.org/2024/04/07/letskerberos.html
+  last_post_date: "2024-12-23T00:00:00Z"
+  last_post_link: http://www.imperialviolet.org/2024/12/23/tourofwebauthn.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7793c4e855d4cf344169bef8c1f663e8
+  last_post_guid: 0f768f8ee8b7b4e52227bceb164f700a
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 9
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 297
 ---

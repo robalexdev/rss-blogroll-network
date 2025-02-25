@@ -16,33 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 博客
-  - 改名
+  - Macbook
+  - 教程
   relme: {}
-  last_post_title: 改名公告：清竹茶馆的新篇章-清竹志
-  last_post_description: |-
-    亲爱的读者们，祝大家1024程序员节快乐！
-    从今天起，“清竹茶馆”将正式更名为“清竹志”。个人公众号正式更名为“显林叔”。
-  last_post_date: "2024-10-23T17:14:26Z"
-  last_post_link: https://blog.vadxq.com/article/change-blog-name-2024/
+  last_post_title: 【教程】Macbook使用初始化指南
+  last_post_description: 去年双十一拿着自己的工资买了台Macbook
+  last_post_date: "2024-10-24T08:11:12Z"
+  last_post_link: https://blog.vadxq.com/article/macbook-use-guide/
   last_post_categories:
-  - 博客
-  - 改名
+  - Macbook
+  - 教程
   last_post_language: ""
-  last_post_guid: 8917c15c4772a50448b44747c44847df
+  last_post_guid: 0b542647f2414bcd14e017e17133d224
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 235
 ---

@@ -1,6 +1,6 @@
 ---
 title: ral-arturo.org
-date: "2024-07-04T09:11:47Z"
+date: "2024-09-05T12:27:27Z"
 description: ral-arturo blog, about free software, debian, networks, systems, or whatever
 params:
   feedlink: https://ral-arturo.org/feed.xml
@@ -39,15 +39,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

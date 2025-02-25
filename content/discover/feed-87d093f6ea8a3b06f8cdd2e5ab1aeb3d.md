@@ -21,29 +21,32 @@ params:
   categories:
   - windows
   relme: {}
-  last_post_title: Simple macOS kernel extension fuzzing in userspace with IDA and
-    TinyInst
-  last_post_description: |-
-    Posted by Ivan Fratric, Google Project Zero
-     Recently, one of the projects I was involved in had to do with video decoding on Apple platforms, specifically AV1 decoding. On Apple devices
-  last_post_date: "2024-11-21T17:53:00Z"
-  last_post_link: https://googleprojectzero.blogspot.com/2024/11/simple-macos-kernel-extension-fuzzing.html
+  last_post_title: 'The Windows Registry Adventure #5: The regf file format'
+  last_post_description: "Posted by Mateusz Jurczyk, Google Project Zero\n \n As previously
+    mentioned in the second installment of the blog post series (\"A brief history
+    of the feature\"), the binary format used to encode"
+  last_post_date: "2024-12-19T19:03:00Z"
+  last_post_link: https://googleprojectzero.blogspot.com/2024/12/the-windows-registry-adventure-5-regf.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24753677ead9edbb347a1e2afb9d094b
+  last_post_guid: 9bee35c45e9e361093a9375836069585
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

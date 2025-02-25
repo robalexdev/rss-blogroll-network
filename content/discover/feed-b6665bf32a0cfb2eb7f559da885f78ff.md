@@ -1,6 +1,6 @@
 ---
 title: Home
-date: "2024-08-23T00:00:00Z"
+date: "2025-02-21T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -13,30 +13,33 @@ params:
     description: ""
     id: e7acde5ed1e3276a025694ed4d825e33
   recommended: []
-  recommender:
-  - https://visitmy.website/feed.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 15: Snagging'
+  last_post_title: 'Week 39: OK Arrrr'
   last_post_description: ""
-  last_post_date: "2024-08-23T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-15-snagging/
+  last_post_date: "2025-02-21T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-39-ok-arrrr/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f193083b78be3915da0bd3ba30e326ee
+  last_post_guid: c8fe7dbd71b1f94b65885c96985d33f1
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 41
+  avgpostlen: 295
 ---

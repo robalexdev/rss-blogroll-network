@@ -15,33 +15,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Automattic
+  - Community
+  - HOWTO
   - WordPress
   relme: {}
-  last_post_title: Four Thousand, Five Hundred and Forty-Eight Days
-  last_post_description: Nearly 15 years ago, I emailed the 20-something-year-old
-    founder of a little tech startup with a weird name. As I recall, there were maybe
-    20 or so people doing WordPress-y things there at the time.
-  last_post_date: "2024-08-20T05:50:54Z"
-  last_post_link: https://pento.net/2024/08/20/four-thousand-five-hundred-and-forty-eight-days/
+  last_post_title: 'HOWTO: Fork WordPress'
+  last_post_description: Congratulations on your decision to fork WordPress! You’ve
+    taken on a mammoth task, I’m impressed with your willingness step up to the challenge
+    of a lifetime. I’m here to give some advice on
+  last_post_date: "2024-10-17T01:20:23Z"
+  last_post_link: https://pento.net/2024/10/17/howto-fork-wordpress/
   last_post_categories:
-  - Automattic
+  - Community
+  - HOWTO
   - WordPress
   last_post_language: ""
-  last_post_guid: 5a8f5282d3f58478a80987d3c57bf7bd
+  last_post_guid: e026cd1f5253eaeae388808969f22878
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: art
+  postcount: 10
+  avgpostlen: 0
 ---

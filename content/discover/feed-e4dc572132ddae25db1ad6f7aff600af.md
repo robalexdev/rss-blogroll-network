@@ -1,6 +1,6 @@
 ---
 title: Terse Systems
-date: "2024-06-23T13:56:44-07:00"
+date: "2024-12-03T19:29:41-08:00"
 description: ""
 params:
   feedlink: https://tersesystems.com/feed.xml
@@ -34,15 +34,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 295
 ---

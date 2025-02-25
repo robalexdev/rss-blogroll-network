@@ -17,45 +17,44 @@ params:
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
     id: a5055187291ff08d5f2ce7e9d27f78cb
-  - title: Roy Tang's Blogroll
-    description: ""
-    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
-  - https://roytang.net/all/feed/rss
-  - https://roytang.net/blog/feed/rss
-  - https://roytang.net/index.xml
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: 'Media Diet: July and August'
-  last_post_description: |-
-    A quick look at the movies, television shows, and books that have captured my attention over the past two months.
-    Julia When I was reading 1984 in middle school, I never really considered what the
-  last_post_date: "2024-08-28T19:58:00-04:00"
-  last_post_link: https://www.inthemargins.ca/media-diet-0824
+  last_post_title: James
+  last_post_description: 'There is no escaping any discussion of Percival Everett’s
+    James without first mentioning the central conceit: that this is reimagining of
+    The Adventures of Huckleberry Finn, but from the'
+  last_post_date: "2025-02-21T09:08:00-05:00"
+  last_post_link: https://www.inthemargins.ca/james-percival-everett
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 262fd1f198328e4593552eb74c2b9c81
+  last_post_guid: 0276f73f3898eb06c8057ee9791ed8af
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 31
+  avgpostlen: 0
 ---

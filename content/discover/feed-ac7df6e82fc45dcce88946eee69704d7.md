@@ -1,6 +1,6 @@
 ---
 title: Good Enough
-date: "2024-12-04T00:00:00Z"
+date: "2025-01-17T00:00:00Z"
 description: Sometimes we write stuff that is good enough.
 params:
   feedlink: https://goodenough.us/feed.xml
@@ -10,6 +10,7 @@ params:
     https://goodenough.us/: false
     https://goodenough.us/blog/: false
     https://goodenough.us/lab: false
+    https://goodenough.us/lab/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -19,26 +20,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: You Complete Me
+  last_post_title: There's no “A” or “I” in “Jelly”
   last_post_description: ""
-  last_post_date: "2024-12-04T00:00:00Z"
-  last_post_link: https://goodenough.us/blog/2024-12-04-you-complete-me/
+  last_post_date: "2025-01-17T00:00:00Z"
+  last_post_link: https://goodenough.us/blog/2025-01-17-there-s-no-a-or-i-in-jelly/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a4b3bc704c735f8dd28558e3494d662f
+  last_post_guid: 27b400cf0ddf4864e6504a23fb2596d5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 68
+  avgpostlen: 296
 ---

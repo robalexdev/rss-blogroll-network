@@ -16,40 +16,42 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "9.0"
-  - Component
+  - Conference
+  - Fosdem
   - MySQL
-  - define
-  - include
+  - MySQL Day
   relme:
     https://lefred.be/: true
-  last_post_title: 'MySQL Vector Datatype: create your operations (part 2)'
-  last_post_description: We saw in the previous post how we can deal with data stored
-    in the new VECTOR datatype that was released with MySQL 9.0. We implemented the
-    4 basic mathematical operations between two vectors. To do
-  last_post_date: "2024-07-26T09:30:15Z"
-  last_post_link: https://lefred.be/content/mysql-vector-datatype-create-your-operations-part-2/
+  last_post_title: preFOSDEM MySQL Belgian Days 2025 – Agenda
+  last_post_description: The preFOSDEM MySQL Belgian Days 2025 will occur at the usual
+    place (ICAB Incubator, Belgium, 1040 Bruxelles) on Thursday, January 30th, and
+    Friday, January 31st, just before FOSDEM. Again this year,
+  last_post_date: "2025-01-09T08:49:14Z"
+  last_post_link: https://lefred.be/content/prefosdem-mysql-belgian-days-2025-agenda/
   last_post_categories:
-  - "9.0"
-  - Component
+  - Conference
+  - Fosdem
   - MySQL
-  - define
-  - include
+  - MySQL Day
   last_post_language: ""
-  last_post_guid: 7778f569b7dc05d634c705e2163fa2ba
+  last_post_guid: 53fdb713fd5db3a3af53b9ce9e02827a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

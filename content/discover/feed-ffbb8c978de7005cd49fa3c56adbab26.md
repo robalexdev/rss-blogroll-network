@@ -1,6 +1,6 @@
 ---
 title: Leilukin's Hub
-date: "2024-08-30T06:09:27Z"
+date: "2025-02-23T09:14:37Z"
 description: Leilukin's personal website.
 params:
   feedlink: https://leilukin.com/feed.xml
@@ -22,12 +22,11 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Changelog: 18 August 2024'
+  last_post_title: 'Changelog: 23 February 2025'
   last_post_description: ""
-  last_post_date: "2024-08-18T12:33:42Z"
+  last_post_date: "2025-02-23T09:14:37Z"
   last_post_link: https://leilukin.com/
   last_post_categories: []
   last_post_language: ""
@@ -35,16 +34,20 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
+  postcount: 15
+  avgpostlen: 179
 ---

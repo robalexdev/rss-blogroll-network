@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 04bedcfaa8032e8f6ad6bf6a4e87ff89
   websites:
-    https://pikuma.com/: false
     https://pikuma.com/blog: false
   blogrolls: []
   in_blogrolls:
@@ -32,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 11
+  avgpostlen: 0
 ---

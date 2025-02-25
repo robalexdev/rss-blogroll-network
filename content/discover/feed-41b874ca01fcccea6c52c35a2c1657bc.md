@@ -1,6 +1,6 @@
 ---
 title: Informatics and engineering
-date: "2024-03-12T23:51:24-07:00"
+date: "2024-10-24T04:55:38-07:00"
 description: Reports from the software front
 params:
   feedlink: https://www.blogger.com/feeds/4250159504989687316/posts/default
@@ -32,15 +32,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 7
+  avgpostlen: 296
 ---

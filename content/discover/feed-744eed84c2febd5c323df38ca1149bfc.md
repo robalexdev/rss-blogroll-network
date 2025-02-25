@@ -10,50 +10,56 @@ params:
     https://blogs.infoblox.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - Cloud security
-  - Ecosystem
-  - Integration
-  - NetOps
-  - SIEM
-  - SecOps
+  - DNS Tunneling
+  - Data Exfiltration
   - Security
+  - Threat Defense
+  - Zero Day DNS
+  - Zero-day
+  - lookalike domains
+  - lookalikes
   relme: {}
-  last_post_title: 'Unlocking Operational Efficiency: Key Insights from the ESG Showcase
-    on Infoblox Ecosystem Integration'
-  last_post_description: In August 2024, Infoblox commissioned the Enterprise Strategy
-    Group by TechTarget (ESG) to explore how organizations can overcome the challenges
-    of fragmented security and network operations using
-  last_post_date: "2024-11-18T14:55:39Z"
-  last_post_link: https://blogs.infoblox.com/security/unlocking-operational-efficiency-key-insights-from-the-esg-showcase-on-infoblox-ecosystem-integration/
+  last_post_title: 'The Many Faces of DNS Abuse: How Threat Actors Exploit the Domain
+    Name System'
+  last_post_description: The Domain Name System (DNS) is a fundamental component of
+    the internet, with a great deal of value beyond that of a simple ‘Internet Phonebook’
+    as many tend to see it. Threat Actors recognize
+  last_post_date: "2025-02-19T15:55:51Z"
+  last_post_link: https://blogs.infoblox.com/security/the-many-faces-of-dns-abuse-how-threat-actors-exploit-the-domain-name-system/
   last_post_categories:
-  - Cloud security
-  - Ecosystem
-  - Integration
-  - NetOps
-  - SIEM
-  - SecOps
+  - DNS Tunneling
+  - Data Exfiltration
   - Security
+  - Threat Defense
+  - Zero Day DNS
+  - Zero-day
+  - lookalike domains
+  - lookalikes
   last_post_language: ""
-  last_post_guid: b7ad81d71c187bd9950c8c86e26eb764
+  last_post_guid: 0af2126b15e7d7151f30a7546932c696
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 12
+  avgpostlen: 0
 ---

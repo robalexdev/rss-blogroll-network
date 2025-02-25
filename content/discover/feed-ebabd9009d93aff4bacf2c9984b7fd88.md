@@ -1,6 +1,6 @@
 ---
 title: Sputtering Digitized
-date: "2024-02-08T10:09:53-06:00"
+date: "2024-08-31T22:10:41-05:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/8416300891060490316/posts/default/-/eclipse
@@ -29,15 +29,19 @@ params:
     cats: 1
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 7
+  avgpostlen: 296
 ---

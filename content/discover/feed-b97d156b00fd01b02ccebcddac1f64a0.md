@@ -20,7 +20,7 @@ params:
   relme: {}
   last_post_title: SUSE Ruling the Stack in Vancouver
   last_post_description: ""
-  last_post_date: "2015-05-28T10:21:56+02:00"
+  last_post_date: "2015-05-28T09:21:56+02:00"
   last_post_link: https://www.vuntz.net/journal/post/2015/05/26/SUSE-Ruling-the-Stack-in-Vancouver
   last_post_categories:
   - Travail
@@ -31,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 8
+  avgpostlen: 294
 ---

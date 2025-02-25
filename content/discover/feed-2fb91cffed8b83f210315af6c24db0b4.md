@@ -19,28 +19,32 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Empowering builders with the new AWS Asia Pacific (Malaysia) Region
-  last_post_description: Builders are at the heart of AWS. Most recently, I visited
-    Malaysia, the location of the newest AWS Region, our 34th globally, and home to
-    a rapidly evolving technology sector, where businesses of
-  last_post_date: "2024-08-29T06:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2024/08/empowering-builders-with-new-aws-asia-pacific-malaysia-region.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: 'Thinking like a fox: A reading list for the future'
+  last_post_description: Here are a few of my favourite books to help you think like
+    a fox - from sci-fi classics to the importance of doing nothing at all (it's a
+    Dutch thing).
+  last_post_date: "2025-02-06T05:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2025/02/thinking-like-a-fox-a-reading-list-for-the-future.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 99ca9cdb4a747e92a412be9536b5805a
+  last_post_guid: 092aa98cf877a46a5612dd2545222ba4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

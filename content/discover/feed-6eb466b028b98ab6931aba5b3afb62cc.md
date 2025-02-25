@@ -47,6 +47,7 @@ params:
   - Kremlin
   - Main Pages
   - Metadata
+  - NATO
   - NSA
   - NSA Partnerships
   - Netherlands
@@ -80,33 +81,36 @@ params:
   - Wireless
   - XKeyscore
   relme: {}
-  last_post_title: Eerste Kamer bereikt iets meer duidelijkheid over de Tijdelijke
-    wet cyberoperaties [NL]
-  last_post_description: |-
-    (Update: July 19, 2024)
-
-
-    This time a second blog post in Dutch about a new bill that gives Dutch intelligence and security services more leeway for operations against cyber actors. A summary in
-  last_post_date: "2024-03-04T09:40:00Z"
-  last_post_link: https://www.electrospaces.net/2024/03/eerste-kamer-bereikt-iets-meer.html
+  last_post_title: Interesting topics from the NSA's 2009 Presidential Transition
+    Book
+  last_post_description: In the period between the election and the inauguration,
+    a new US president prepares to take over the administration and gets briefed by
+    numerous officials and agencies, including the National
+  last_post_date: "2025-01-17T21:05:00Z"
+  last_post_link: https://www.electrospaces.net/2025/01/interesting-topics-from-nsas-2009.html
   last_post_categories:
-  - Cyber
-  - Netherlands
+  - NSA
+  - Obama
+  - POTUS
   last_post_language: ""
-  last_post_guid: dc0297be1e6415ddb0c8f5c2b766931d
+  last_post_guid: 4c19da1cb5d202f806a031f7cc4dd112
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

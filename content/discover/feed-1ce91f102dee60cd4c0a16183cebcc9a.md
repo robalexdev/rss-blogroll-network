@@ -10,43 +10,43 @@ params:
     https://www.dataquest.io/blog/topics/python-tutorials/: true
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - Data Cleaning
-  - Pandas
   - 'Python: Tutorials and Tips'
-  - Tutorials
+  - python
   relme: {}
-  last_post_title: Data Cleaning in Python on MoMA’s Art Collection
-  last_post_description: A step-by-step tutorial on data cleaning (or data munging,
-    a core data science skill) a dataset from the MoMA with Python, using the Pandas
-    module.
-  last_post_date: "2024-11-22T12:00:00Z"
-  last_post_link: https://www.dataquest.io/blog/data-cleaning-with-python/
+  last_post_title: 'Python Practice: 93 Exercises, Projects, & Tips to Sharpen Your
+    Coding Skills'
+  last_post_description: 'Getting good Python practice can help solidify your coding
+    skills. Here are some of the best resources for practicing Python:'
+  last_post_date: "2025-02-19T15:38:19Z"
+  last_post_link: https://www.dataquest.io/blog/python-practice/
   last_post_categories:
-  - Data Cleaning
-  - Pandas
   - 'Python: Tutorials and Tips'
-  - Tutorials
+  - python
   last_post_language: ""
-  last_post_guid: ad089f7ab26b02ed99d9803af76f0c5a
+  last_post_guid: 17208b57f794e4612ac4ec5a115d7432
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://larahogan.me/feed.xml
   feedtype: rss
   feedid: 753c2ef01ce99e21b92f9ef6bd4afd51
-  websites: {}
+  websites:
+    https://larahogan.me/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -36,15 +37,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

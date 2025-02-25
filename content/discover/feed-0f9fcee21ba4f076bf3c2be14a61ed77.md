@@ -1,6 +1,6 @@
 ---
 title: Python in Science
-date: "2024-07-13T03:05:19-03:00"
+date: "2024-09-06T21:21:36-03:00"
 description: Scientific adventures with Python.
 params:
   feedlink: https://feeds.feedburner.com/PythonInScience
@@ -81,15 +81,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

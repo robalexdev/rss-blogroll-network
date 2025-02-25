@@ -1,6 +1,6 @@
 ---
 title: Releng of the Nerds
-date: "2024-08-29T22:43:24-07:00"
+date: "2025-01-31T00:22:30-08:00"
 description: Open Source Release Engineering
 params:
   feedlink: https://www.blogger.com/feeds/25023280/posts/default/-/eclipse
@@ -119,15 +119,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 287
 ---

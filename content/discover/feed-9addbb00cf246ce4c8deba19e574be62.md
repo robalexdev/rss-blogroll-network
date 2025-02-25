@@ -12,9 +12,11 @@ params:
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: false
     https://weblog.anniegreens.lol/2023/09/works-in-progress: false
     https://weblog.anniegreens.lol/2023/11/my-switchboard: false
+    https://weblog.anniegreens.lol/2023/11/weblog-todos-tada: false
     https://weblog.anniegreens.lol/2023/12/an-organized-head: false
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: false
-    https://weblog.anniegreens.lol/2024/11/bookmarks-9: false
+    https://weblog.anniegreens.lol/2024/07/blogroll-spin-8: false
+    https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: false
     https://weblog.anniegreens.lol/accessibility: false
     https://weblog.anniegreens.lol/accessibility-statement: false
     https://weblog.anniegreens.lol/ai: false
@@ -35,6 +37,7 @@ params:
     https://weblog.anniegreens.lol/domain-map: false
     https://weblog.anniegreens.lol/favorites: false
     https://weblog.anniegreens.lol/feeds: false
+    https://weblog.anniegreens.lol/license: false
     https://weblog.anniegreens.lol/links: false
     https://weblog.anniegreens.lol/lists: false
     https://weblog.anniegreens.lol/manual-of-me: false
@@ -62,18 +65,12 @@ params:
     https://weblog.anniegreens.lol/wips: false
   blogrolls: []
   in_blogrolls:
-  - title: Ben Myers's Blogroll
-    description: Blogs and newsletters I check on the regular.
-    id: bf95fc3fe734baa4e4fdf4b50381791c
   - title: Colin Walker's readroll
     description: ""
     id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
-  - title: RSS Feeds for all Robb Knight's Blogroll
-    description: ""
-    id: 6a72507ba2e935838f624759bf29fde4
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -82,7 +79,6 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   - https://frankmeeuwsen.com/feed.xml
-  - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme:
     https://3x5.pics/credits: true
@@ -105,7 +101,7 @@ params:
     https://weblog.anniegreens.lol/2023/11/my-switchboard: true
     https://weblog.anniegreens.lol/2023/12/an-organized-head: true
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: true
-    https://weblog.anniegreens.lol/2024/11/bookmarks-9: true
+    https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: true
     https://weblog.anniegreens.lol/accessibility: true
     https://weblog.anniegreens.lol/accessibility-statement: true
     https://weblog.anniegreens.lol/ai: true
@@ -126,6 +122,7 @@ params:
     https://weblog.anniegreens.lol/domain-map: true
     https://weblog.anniegreens.lol/favorites: true
     https://weblog.anniegreens.lol/feeds: true
+    https://weblog.anniegreens.lol/license: true
     https://weblog.anniegreens.lol/links: true
     https://weblog.anniegreens.lol/lists: true
     https://weblog.anniegreens.lol/manual-of-me: true
@@ -153,28 +150,33 @@ params:
     https://weblog.anniegreens.lol/wips: true
     https://weblogpomo.club/: true
     https://weblogpomo.club/challenges: true
-  last_post_title: 'Bookmarks #9'
-  last_post_description: A quite varied selection of bookmarks this time. As usual,
-    they are mostly blog posts, but not overwhelming CSS related this time. A fair
-    number of accessibility bookmarks and at least one bookmark
-  last_post_date: "2024-11-20T20:37:00Z"
-  last_post_link: https://weblog.anniegreens.lol/2024/11/bookmarks-9
+  last_post_title: Brussels Sprouts Casserole
+  last_post_description: |-
+    Directions:
+    Preheat the oven to 400 degrees F.
+    Heat a large braised or ovenproof skillet over medium-high heat and add the oil. When the oil is hot, add the Brussels sprouts and cook, tossing
+  last_post_date: "2024-11-30T22:30:00Z"
+  last_post_link: https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a6bc4732fb2c42a8f2e222a792ac44d2
+  last_post_guid: 126125a4bd3531942a6e83ac133d3beb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

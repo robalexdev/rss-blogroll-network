@@ -1,6 +1,6 @@
 ---
 title: 闲人LIFE
-date: "2024-11-24T23:37:31+01:00"
+date: "2025-02-05T23:11:49+01:00"
 description: 野生作家孙李的博客
 params:
   feedlink: https://www.xianrenlife.com/feeds/posts/default
@@ -16,6 +16,7 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Matters
   - 中篇
   - 书评
   - 克里特岛
@@ -60,29 +61,33 @@ params:
   - 雅典
   - 音乐
   relme:
-    https://draft.blogger.com/profile/04970276379026643511: true
+    https://www.blogger.com/profile/04970276379026643511: true
     https://www.xianrenlife.com/: true
-  last_post_title: 布达佩斯游记
+  last_post_title: 斯蒂芬妮
   last_post_description: ""
-  last_post_date: "2024-11-24T18:47:13+01:00"
-  last_post_link: https://www.xianrenlife.com/2024/11/blog-post.html
+  last_post_date: "2025-01-20T21:51:51+01:00"
+  last_post_link: https://www.xianrenlife.com/2024/01/blog-post.html
   last_post_categories:
-  - 游记
+  - 小说
   last_post_language: ""
-  last_post_guid: 51963c2cfb73999e3d98656819e1900f
+  last_post_guid: d268fcbc7e1cf88f13540801aecff4e4
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 297
 ---

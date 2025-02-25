@@ -1,6 +1,6 @@
 ---
 title: Hack Hack Blog
-date: "2024-08-28T11:10:39-07:00"
+date: "2025-02-24T04:30:34-08:00"
 description: Hacking on Code, Food, Crafts, and Life
 params:
   feedlink: https://hackhackblog.blogspot.com/feeds/posts/default/-/openstack
@@ -63,15 +63,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 3
+  avgpostlen: 297
 ---

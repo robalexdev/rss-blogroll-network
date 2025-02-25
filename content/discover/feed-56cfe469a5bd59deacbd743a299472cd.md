@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 语言是一个人真正的祖国
+  last_post_title: 又买了一把leobog hi75
   last_post_description: !!binary |
-    5pys5p2l5oOz6LCI6LCI5pyA6L+R5b6I54Gr55qE4oCc6L+c5rSL5o2V5o2e4oCd77yM5L
-    2G5YaZ5Ye65p2l5Y205YaZ5oiQ5LqG6L+Z5qC344CC55yL6LW35p2l6Lef4oCc6L+c5rSL
-    5o2V5o2e4oCd5q+r5peg5YWz57O777yM5YW25a6e5Y205piv5Li65oiR5rex5bqm5YmW5p
-    6Q4oCc6L+c5rSL5o2V5o2e4oCd5YWs5YWx6K6u6aKY6L+b6KGM55CG6K4=
-  last_post_date: "2024-11-22T21:16:04+08:00"
-  last_post_link: https://xingbianren.cn/post/281.html
+    5LuK5aSp5piv5bCP5a+S6IqC5rCU77yM5rCU5rip5Y205p2l5LqG5Liq5Y6G5Y+y5ZCM5p
+    yf5pyA6auY77yM55u05o6l5Yay5LiK5LqG5Y2B5LqU5bqm44CC5pys5p2l5Lit5Y2I5rKh
+    5omT566X5Ye66Zeo77yM5oOz6LaB552A5ZGo5pyr5riF6Z2Z77yM5Zyo5a626Z2Z5YW75L
+    yR5oGv44CC5pyA5aSa5Y675Liq5aSq5qC86IyC77yM5ZCD5Liq54Gr6ZQ=
+  last_post_date: "2025-01-18T15:24:53+08:00"
+  last_post_link: https://xingbianren.cn/post/290.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2
@@ -32,15 +32,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 100
+  avgpostlen: 0
 ---

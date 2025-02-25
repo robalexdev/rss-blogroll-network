@@ -1,6 +1,6 @@
 ---
 title: eclipser-blog
-date: "2024-08-28T16:04:46+01:00"
+date: "2024-10-05T03:22:13+01:00"
 description: This is a blog of Eclipse enthusiasts from Poznań (Poland) who would
   like to share their knowledge of Eclipse. We work for the IBM Support Center for
   Eclipse at Poznań University of Technology.
@@ -65,15 +65,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 244
 ---

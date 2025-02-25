@@ -1,6 +1,6 @@
 ---
 title: The Orion Editor
-date: "2024-08-28T11:16:27-07:00"
+date: "2024-09-04T13:43:18-07:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/8068701199493835146/posts/default
@@ -28,15 +28,19 @@ params:
     cats: 1
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 9
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 295
 ---

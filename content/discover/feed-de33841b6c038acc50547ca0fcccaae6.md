@@ -16,37 +16,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BIG DATA
-  - CNN
-  - Deep learning
   - KNIME
+  - blog
+  - clustering
+  - dbscan
   relme: {}
-  last_post_title: Asphalt Crack Detection with CNNs (e KNIME Analytics Platform)
-  last_post_description: |-
-    Riconoscere le buche sull'asfalto con KNIME Analytics Platform è possibile. In questo articolo vi spiegherò come fare.
-    L'articolo Asphalt Crack Detection with CNNs (e KNIME Analytics Platform)
-  last_post_date: "2024-03-31T22:24:22Z"
-  last_post_link: https://datasciencefacile.altervista.org/2024/04/01/asphalt-crack-detection-with-cnns-e-knime-analytics-platform/
+  last_post_title: 650 (seicentocinquanta)
+  last_post_description: Il blog di KNIME 650 è il numero di articoli pubblicati,
+    dal 2014 ad oggi, al link www.knime.com/blog, che corrisponde alla pagina del
+  last_post_date: "2024-10-05T21:20:29Z"
+  last_post_link: https://datasciencefacile.altervista.org/2024/10/05/650-seicentocinquanta/
   last_post_categories:
-  - BIG DATA
-  - CNN
-  - Deep learning
   - KNIME
+  - blog
+  - clustering
+  - dbscan
   last_post_language: ""
-  last_post_guid: 3458926a3d5bec41b9cafb7d8fe7cb97
+  last_post_guid: d1fa47d04d5d9462ced61b948bbbafa9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: meain/blog
-date: "2024-06-09T00:00:00Z"
+date: "2024-10-02T00:00:00Z"
 description: meain's blog
 params:
   feedlink: https://blog.meain.io/feed.xml
@@ -18,29 +18,35 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: How to make Vim and Tmux friends with system clipboard
+  last_post_title: Go talk to the LLM
   last_post_description: ""
-  last_post_date: "2017-05-27T00:00:00Z"
-  last_post_link: https://blog.meain.io/2017/make-vim-and-tmux-friends-with-system-clipboard/
+  last_post_date: "2024-10-02T00:00:00Z"
+  last_post_link: https://blog.meain.io/2024/how-i-use-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72be77bb0ed1d7fef79582070a827ad7
+  last_post_guid: 93ec87439654b19f8983cee3c2d1bf1d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 64
+  avgpostlen: 296
 ---

@@ -1,12 +1,13 @@
 ---
 title: Ian Cooper - Staccato Signals
-date: "2024-12-21T20:09:41Z"
+date: "2025-02-24T00:20:28Z"
 description: These are the days of miracle and wonder
 params:
   feedlink: https://ian-cooper.writeas.com/feed/
   feedtype: rss
   feedid: d5addcfb4df375293d6670f7edd6d1b3
   websites:
+    https://ian-cooper.writeas.com: false
     https://ian-cooper.writeas.com/: true
     https://write.as/ian-cooper/: false
   blogrolls: []
@@ -30,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 1
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 1
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Of Particular Significance
-date: "2024-08-20T13:46:51Z"
+date: "2025-02-21T13:16:14Z"
 description: Conversations About Science with Theoretical Physicist Matt Strassler
 params:
   feedlink: https://profmattstrassler.com/feed/atom/
@@ -15,39 +15,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Housekeeping
-  - Waves In An Impossible Sea
-  - WavesInAnImpossibleSea
-  - astronomy
-  - relativity
+  - Quantum Basics
+  - quantum mechanics
   relme: {}
-  last_post_title: New Scientific Commentaries Added to Website
-  last_post_description: Though I’ve been busy with a number of physics and writing
-    tasks, I’ve been beefing up the “Reader Resources” section of this website, devoted
-    to extending the experience of readers of my
-  last_post_date: "2024-08-20T13:46:51Z"
-  last_post_link: https://profmattstrassler.com/2024/08/20/new-scientific-commentaries-added-to-website/
+  last_post_title: It was the Double Slit Experiment All Along!
+  last_post_description: 'Yesterday I posted an animation of a quantum wave function,
+    and as a brain teaser, I asked readers to see if they could interpret it. Here
+    it is again: Admittedly, it’s a classic trap — one I use'
+  last_post_date: "2025-02-21T13:16:14Z"
+  last_post_link: https://profmattstrassler.com/2025/02/21/it-was-the-double-slit-experiment-all-along/
   last_post_categories:
-  - Housekeeping
-  - Waves In An Impossible Sea
-  - WavesInAnImpossibleSea
-  - astronomy
-  - relativity
+  - Quantum Basics
+  - quantum mechanics
   last_post_language: ""
-  last_post_guid: 541d4b84f5d67ea3ef854daee0dabebc
+  last_post_guid: cd5546a0f6b19c2c09fcb624fd4702f1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    hasContent: 3
+    hasPosts: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 1
+  avgpostlen: 298
 ---

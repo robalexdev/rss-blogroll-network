@@ -22,31 +22,34 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: New 2GB Pi 5 has 33% smaller die, 30% idle power savings
+  last_post_title: Benchmarking multiple network interfaces at once in Linux with
+    iperf3
   last_post_description: |-
-    Raspberry Pi launched the 2 gig Pi 5 for $50, and besides half the RAM and a lower price, it has a new stepping of the main BCM2712 chip.
+    Benchmarking multiple network interfaces at once in Linux with iperf3
 
-
-
-    This is the BCM2712 D0 stepping. Older Pi 5's shipped with
-  last_post_date: "2024-08-29T14:17:34Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings
+                Recently, I've been working on a Pi router build with multiple 2.5 Gbps Ethernet ports using Radxa's Dual 2.5G
+  last_post_date: "2025-02-23T23:43:04Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/benchmarking-multiple-network-interfaces-once-linux-iperf3
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4ad2740e845ce79264cd7736dfb28b4e
+  last_post_guid: 56727d0fab44e4c231f0a11ce869b0fb
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

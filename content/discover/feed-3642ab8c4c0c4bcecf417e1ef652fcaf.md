@@ -17,42 +17,44 @@ params:
   recommender: []
   categories:
   - C++
-  - DSP
+  - Java
   - KDAB Blogs
   - KDAB on Qt
-  - Multimedia
-  - Qt
   - Technical
+  - Tooling
   relme: {}
-  last_post_title: Implementing an Audio Mixer, Part 1
-  last_post_description: Motivation When using Qt Multimedia to play audio files,
-    it’s common to use QMediaPlayer, as it supports a larger variety of formats than
-    QSound and QSoundEffect. Consider a Qt application with
-  last_post_date: "2024-08-22T07:00:59Z"
-  last_post_link: https://www.kdab.com/implementing-an-audio-mixer-part-1/
+  last_post_title: Improvements to Mozilla’s Searchfox Code Browser
+  last_post_description: Mozilla is the maker of the famous Firefox web browser and
+    the birthplace of the likes of Rust and Servo (read more about Embedding the Servo
+    Web Engine in Qt). Firefox is a huge, multi-platform,
+  last_post_date: "2024-12-17T08:00:53Z"
+  last_post_link: https://www.kdab.com/searchfox-improvements/
   last_post_categories:
   - C++
-  - DSP
+  - Java
   - KDAB Blogs
   - KDAB on Qt
-  - Multimedia
-  - Qt
   - Technical
+  - Tooling
   last_post_language: ""
-  last_post_guid: f6d3d924a59a0b1f1029313258532436
+  last_post_guid: 0e2fe07f1511fcd95903c8850ba67d24
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

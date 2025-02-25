@@ -22,27 +22,35 @@ params:
   categories:
   - frontpage
   relme: {}
-  last_post_title: Gnu Linux Meeting 2024 v.3
-  last_post_description: ""
-  last_post_date: "2024-04-07T07:16:54Z"
-  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=244:gnu-linux-24-v3
+  last_post_title: ArduinoDay2025
+  last_post_description: |-
+    Arduino Day
+    22 Marzo 2025
+    Università degli studi di Palermo
+    Teatro Gregotti
+  last_post_date: "2025-02-20T21:43:18Z"
+  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=249:arduinoday2025
   last_post_categories:
   - frontpage
   last_post_language: ""
-  last_post_guid: b481622ffc674f020c0f50bdc5ded268
+  last_post_guid: 508555845e9c091dc282e3454dd820bf
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 10
+  avgpostlen: 0
 ---

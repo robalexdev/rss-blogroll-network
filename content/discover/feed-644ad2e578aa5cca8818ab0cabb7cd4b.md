@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2024-11-22T18:44:03+08:00"
+date: "2025-02-24T20:16:04+08:00"
 description: 后端与嵌入式、maya与游戏 | elmagnifico， Back-end engineer & Embedded System Lover
   | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -16,36 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - gRPC
+  - CMake
+  - Kconfig
   relme: {}
-  last_post_title: Python gRPC
-  last_post_description: |-
-    git clone -b v1.66.0 --depth 1 --shallow-submodules https://github.com/grpc/grpc
-    grpc/examples/python/helloworld
-    from concurrent import futures
-    import logging
-
-    import grpc
-    import
-  last_post_date: "2024-11-22T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2024/11/22/Python-gRPC/
+  last_post_title: Kconfig与CMake初步模块化工程2
+  last_post_description: !!binary |
+    Rm9yZXdvcmQKCue7p+e7reS4iuevh++8jOino+WGs+S4gOS6m+acquWujOaIkOeahOmXru
+    mimAoK6YGX55WZ6Zeu6aKYCgrmqKHlnZfljJYKCkxpbnV45YaF5pyJ5LiA5Lqb5qih5Z2X
+    5YyW55qE5pON5L2c77yM5L2G5piv5aaC5p6c55u05o6l5qih5Lu/77yM5Lya5Y+R546w5p
+    eg5pWI44CCCgrmr5TlpoLnsbvlnovkuK3nmoR0cmlzdGF0ZeaYr+S4iec=
+  last_post_date: "2025-02-23T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2025/02/23/Kconfig-CMake2/
   last_post_categories:
-  - gRPC
+  - CMake
+  - Kconfig
   last_post_language: ""
-  last_post_guid: 02080c6787f47d75de6d9a2e75a6eff6
+  last_post_guid: 7762045a6bff79b0660aa8431c64b456
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

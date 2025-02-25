@@ -16,33 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - MongooseIM
-  - MongooseIM Instant Messaging
+  - Conferences
   relme: {}
-  last_post_title: 5 Ways MongooseIM Provides Scalable and Future-Proof Messaging
+  last_post_title: Highlights from Code BEAM Lite London 2025
   last_post_description: |-
-    MongooseIM delivers scalable, secure, and future-proof messaging, perfect for growing businesses.
-    The post 5 Ways MongooseIM Provides Scalable and Future-Proof Messaging  appeared first on Erlang
-  last_post_date: "2024-08-29T09:13:25Z"
-  last_post_link: https://www.erlang-solutions.com/blog/5-ways-mongooseim-provides-scalable-and-future-proof-messaging/
+    Rhys Davey recaps the best moments from CodeBEAM Lite London 2025, covering key talks on Gleam, Livebook, Elixir, and more.
+    The post Highlights from Code BEAM Lite London 2025 appeared first on
+  last_post_date: "2025-02-20T12:08:10Z"
+  last_post_link: https://www.erlang-solutions.com/blog/highlights-codebeam-lite-london-2025/
   last_post_categories:
-  - MongooseIM
-  - MongooseIM Instant Messaging
+  - Conferences
   last_post_language: ""
-  last_post_guid: e7d16deb260348b229bb05e4b2f695a3
+  last_post_guid: 73ad9303b5d34f088a930a4d14e1eb47
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

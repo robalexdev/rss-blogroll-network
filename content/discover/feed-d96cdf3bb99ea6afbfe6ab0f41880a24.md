@@ -18,30 +18,34 @@ params:
   categories: []
   relme:
     https://current.workingdirectory.net/tags/debian/: true
-  last_post_title: Who ate my RAM?
+  last_post_title: How do I warm up an IP Address?
   last_post_description: |-
-    One of our newest servers, with a hefty 256GB of RAM, recently began killing
-    processes via the oomkiller.
-    According to free, only half of the RAM was in use (125GB). About 4GB was
-    free, with the
-  last_post_date: "2024-08-07T08:27:10-04:00"
-  last_post_link: https://current.workingdirectory.net/posts/2024/who-ate-my-ram/
+    After years on the waiting list, May First was just
+    given a /24 block of IP addresses. Excellent.
+    Now we want to start using them for, among other things, sending email.
+    I haven’t added a new IP
+  last_post_date: "2024-09-21T08:27:10-04:00"
+  last_post_link: https://current.workingdirectory.net/posts/2024/how-do-i-warm-up-an-ip/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fc21b2d773f88372c5641d1c7a83f615
+  last_post_guid: 3cac707b6b1baccfcd17a4f169ffad6c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 85
+  avgpostlen: 0
 ---

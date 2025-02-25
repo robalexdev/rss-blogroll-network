@@ -26,20 +26,33 @@ params:
   - http://scripting.com/rss.xml
   - https://aaron.blog/feed/
   - https://auth0.com/blog/rss.xml
+  - https://automattic.com/feed/
+  - https://chriscoyier.net/feed/
   - https://danielbachhuber.com/feed/
   - https://daringfireball.net/feeds/main
   - https://github.blog/feed/
+  - https://jjj.blog/feed/
   - https://josepha.blog/feed/
+  - https://jvns.ca/atom.xml
   - https://kareem.substack.com/feed
   - https://ma.tt/feed/
   - https://ntietz.com/atom.xml
   - https://simonwillison.net/atom/everything/
+  - https://stratechery.com/feed/
+  - https://taylorswift.tumblr.com/rss
+  - https://tins.rklau.com/feed/
+  - https://www.anildash.com/feed.xml
+  - https://www.nasa.gov/image-of-the-day/feed/
+  - https://www.nytimes.com/wirecutter/feed
   - https://www.theverge.com/apple/rss/index.xml
   - https://aaron.blog/comments/feed/
   - https://danielbachhuber.com/comments/feed/
   - https://github.blog/comments/feed/
+  - https://jjj.blog/comments/feed/
   - https://josepha.blog/comments/feed/
   - https://ma.tt/comments/feed/
+  - https://tins.rklau.com/comments/feed/
+  - https://www.nasa.gov/feed/
   - https://www.theverge.com/rss/apple/index.xml
   - https://www.theverge.com/rss/index.xml
   recommender:
@@ -47,38 +60,40 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://alexsci.com/blog/rss.xml
   categories:
-  - Web
-  - WordPress
-  - blurhash
-  - imgproxy
+  - TIL
+  - ios
+  - swift
   relme:
     https://josh.blog/: true
-  last_post_title: Dynamically Resize and Optimize WordPress Images with imgproxy
-  last_post_description: Imgproxy is an open source image processing proxy service.
-    You supply image URLs and processing parameters in the URL. It downloads the image
-    and applies the filters you’ve specified. It can also
-  last_post_date: "2024-07-07T19:35:25Z"
-  last_post_link: https://josh.blog/2024/07/dynamically-resize-and-optimize-wordpress-images-with-imgproxy
+  last_post_title: Provisional Authorization of User Notifications
+  last_post_description: Requesting provisional authorization to send local user notifications
+    comes with some caveats but avoids interrupting the user with another permissions
+    prompt. https://useyourloaf
+  last_post_date: "2025-02-17T14:46:05Z"
+  last_post_link: https://josh.blog/2025/02/provisional-authorization-of-user-notifications
   last_post_categories:
-  - Web
-  - WordPress
-  - blurhash
-  - imgproxy
+  - TIL
+  - ios
+  - swift
   last_post_language: ""
-  last_post_guid: 24f581d97dda07d067765c59b6119f7c
+  last_post_guid: 2780ce87d3ead30d9bd83ccb4ea301a5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 9
+    promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 28
+  score: 32
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 3
+  avgpostlen: 0
 ---

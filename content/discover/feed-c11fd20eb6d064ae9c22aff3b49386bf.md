@@ -1,6 +1,6 @@
 ---
 title: Tech Art Tiki
-date: "2024-08-28T08:27:11-05:00"
+date: "2025-02-20T12:57:09-06:00"
 description: If it ain't broke, it will be soon.
 params:
   feedlink: https://techarttiki.blogspot.com/feeds/posts/default/-/python
@@ -41,15 +41,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 21
+  avgpostlen: 294
 ---

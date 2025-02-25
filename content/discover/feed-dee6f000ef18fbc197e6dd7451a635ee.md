@@ -1,6 +1,6 @@
 ---
 title: Peter Todd
-date: "2024-10-04T13:23:33Z"
+date: "2025-01-14T23:20:35Z"
 description: ""
 params:
   feedlink: https://petertodd.org/feed.xml
@@ -17,35 +17,40 @@ params:
   recommender: []
   categories:
   - bitcoin
-  - convanants
-  - layer2
+  - physics
+  - space
   relme: {}
-  last_post_title: Soft-Fork/Covenant Dependent Layer 2 Review
+  last_post_title: 'Keeping it Cool: Mining Bitcoin in Space'
   last_post_description: |-
-    On-chain wallets achieve a roughly 1-1 mapping of transactions to transactions:
-    for every economic transaction that a user performs, roughly one blockchain
-    transaction is needed. Aggregations,
-  last_post_date: "2024-09-02T00:00:00Z"
-  last_post_link: https://petertodd.org/2024/covenant-dependent-layer-2-review
+    With the recent success of Starship’s 5th and 6th test flights, mining Bitcoin
+    in space and data centers in
+    space have gotten renewed attention. But every
+    time this is discussed, people inevitably
+  last_post_date: "2024-12-03T00:00:00Z"
+  last_post_link: https://petertodd.org/2024/keeping-it-cool-mining-bitcoin-in-space
   last_post_categories:
   - bitcoin
-  - convanants
-  - layer2
+  - physics
+  - space
   last_post_language: ""
-  last_post_guid: a59aeb38624ad468737303eed892deef
+  last_post_guid: cefbad40431e3719de1cf3b91d2bd420
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 8
+  avgpostlen: 0
 ---

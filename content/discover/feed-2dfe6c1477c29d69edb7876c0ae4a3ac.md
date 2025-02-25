@@ -1,6 +1,6 @@
 ---
 title: GNU Guix — Blog
-date: "2024-08-17T20:01:19Z"
+date: "2025-02-19T13:57:06Z"
 description: ""
 params:
   feedlink: https://guix.gnu.org/feeds/blog.atom
@@ -16,31 +16,36 @@ params:
   recommender: []
   categories:
   - Community
+  - User Survey
   relme: {}
-  last_post_title: The European Union must keep funding free software
-  last_post_description: |-
-    Guix is the fruit of a combination of volunteer work by an amazing
-    number of people, work paid for by employers, but also work sponsored by
-    public institutions.  The European Commission’s  Next
-  last_post_date: "2024-07-23T17:30:00Z"
-  last_post_link: https://guix.gnu.org/blog/2024/the-european-union-must-keep-funding-free-software//
+  last_post_title: 'Guix User and Contributor Survey 2024: The Results (part 3)'
+  last_post_description: Today we're looking at the results from the Contributor section
+    of the Guix User and Contributor Survey (2024). The goal was to understand how
+    people contribute to Guix and their overall development
+  last_post_date: "2025-01-28T14:00:00+01:00"
+  last_post_link: https://guix.gnu.org/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-3//
   last_post_categories:
   - Community
+  - User Survey
   last_post_language: ""
-  last_post_guid: 31e25fbf7b048ab1c4cb3827ee02bb45
+  last_post_guid: f7f45dc2c98761de1d54a23a0f064bb2
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
-    postcats: 1
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 9
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 293
 ---

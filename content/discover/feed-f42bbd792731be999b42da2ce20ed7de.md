@@ -9,10 +9,9 @@ params:
   feedid: f42bbd792731be999b42da2ce20ed7de
   websites:
     https://www.april.org/: true
-    https://www.april.org/citations: false
     https://www.april.org/communiques: false
     https://www.april.org/event: false
-    https://www.april.org/event/2024-08: false
+    https://www.april.org/event/2025-01: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:
@@ -22,32 +21,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Institutions
+  - Libre à vous !
+  - Podcast Libre à vous !
   relme: {}
-  last_post_title: Pour la Cour des comptes, les objectifs sont encore insatisfaisants
-    dans la promotion des logiciels libres
-  last_post_description: Le 10 juillet 2024, la Cour des comptes a publié son rapport
-    sur « le pilotage de la transformation numérique de l’État par la direction interministérielle
-    du numérique — Exercice 2019 -
-  last_post_date: "2024-08-30T14:17:42Z"
-  last_post_link: https://www.april.org/pour-la-cour-des-comptes-les-objectifs-sont-encore-insatisfaisants-dans-la-promotion-des-logiciels-l
+  last_post_title: '#235 - Au café libre - Les 10 ans d’Antanak - La guerre des IA
+    - « Libre à vous ! » diffusée mardi 11 février 2025 sur radio Cause Commune'
+  last_post_description: |-
+    Libre à vous !,  l’émission de l’April, l’association de promotion et de défense du logiciel libre.
+    Prenez le contrôle de vos libertés informatiques, découvrez les enjeux et
+  last_post_date: "2025-02-20T09:13:21Z"
+  last_post_link: https://www.april.org/libre-a-vous-diffusee-mardi-11-fevrier-2025-sur-radio-cause-commune
   last_post_categories:
-  - Institutions
+  - Libre à vous !
+  - Podcast Libre à vous !
   last_post_language: ""
-  last_post_guid: f5df89f5a4cee7f801fc696e5f6e6a67
+  last_post_guid: 2f48c7dd40b09b279d50c15d90fef1a4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 30
+  avgpostlen: 0
 ---

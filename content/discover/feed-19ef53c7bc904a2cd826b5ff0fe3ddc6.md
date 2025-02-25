@@ -19,28 +19,32 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Case of the unpredictable run-parts
-  last_post_description: “Why doesn’t this just work?!” is something I’m apt to say
-    about all kinds of devices or systems more complex than a mechanical lever. When
-    problems arise, if it isn’t due to normal wear or
-  last_post_date: "2023-04-17T00:00:00Z"
-  last_post_link: https://dataplane.org/jtk/blog/2023/04/run-parts/
+  last_post_title: NANOG 93 recap summary
+  last_post_description: The NANOG 93 meeting took place a few days ago. Slide decks
+    for all the talks are on the meeting page and the corresponding videos should
+    appear on the NANOG play list on YouTube soon. This is a very
+  last_post_date: "2025-02-09T00:00:00Z"
+  last_post_link: https://dataplane.org/jtk/blog/2025/02/nanog93/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8fb0ea4351ae7b7f76ea7cd44463fe2b
+  last_post_guid: 916329c258d6ca2ed5cb2085754f9290
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 29
+  avgpostlen: 0
 ---

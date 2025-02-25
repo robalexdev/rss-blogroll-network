@@ -1,6 +1,6 @@
 ---
 title: Intrikat
-date: "2024-03-07T20:25:07+01:00"
+date: "2024-10-19T17:07:34+01:00"
 description: Kommentarer, analyser och andra grymt intressanta saker
 params:
   feedlink: https://intrikat.blogspot.com/atom.xml
@@ -45,30 +45,33 @@ params:
   - vetenskap
   - övervakning
   relme: {}
-  last_post_title: RPS vill censurera TPB
+  last_post_title: Look, no hands!
   last_post_description: ""
-  last_post_date: "2007-07-07T03:41:06+01:00"
-  last_post_link: https://intrikat.blogspot.com/2007/07/rps-vill-censurera-tpb.html
+  last_post_date: "2008-12-11T19:39:40+01:00"
+  last_post_link: https://intrikat.blogspot.com/2007/02/look-no-hands.html
   last_post_categories:
-  - censur
-  - internets
-  - samhälle
+  - cyborgism
   - teknik
+  - vetenskap
   last_post_language: ""
-  last_post_guid: d8627f002353d1cf6a7726ea8e524539
+  last_post_guid: 96ea8f6ba05e312f474377bb68e15747
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 288
 ---

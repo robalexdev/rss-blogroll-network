@@ -17,28 +17,34 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何从 YouTube 搬运视频？如何做一个合格的 YouTube 搬运工？我搬运视频的方法与原则
+  last_post_title: PaperMC 服务器允许刷线机/无头活塞等配置
   last_post_description: |-
-    2577 天前，我上传了我的第一个转载视频（BV1Zx411h7ue），它来自 YouTube。
-    到今天为止，我陆陆续续搬运了共 21 个 YouTube 视频，虽然中间中断过长达 694
-  last_post_date: "2024-06-22T00:00:00Z"
-  last_post_link: https://imayx.top/howtorepostyoutubevideos/
+    1
+
+
+     allow-headless-pistons: true
+  last_post_date: "2024-12-17T00:00:00Z"
+  last_post_link: https://imayx.top/papermcsxj/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d94e99e0eaa407fc9dd3d1c1a68dae38
+  last_post_guid: 525d5e191dc2ea1a91d81bb9032c3169
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 30
+  avgpostlen: 0
 ---

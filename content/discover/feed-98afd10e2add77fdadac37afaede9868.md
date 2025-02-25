@@ -1,6 +1,6 @@
 ---
 title: alp's notes
-date: "2024-03-16T02:16:46-07:00"
+date: "2025-02-05T22:51:31-08:00"
 description: ""
 params:
   feedlink: https://alp-notes.blogspot.com/feeds/posts/default
@@ -124,15 +124,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 273
 ---

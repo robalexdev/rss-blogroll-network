@@ -1,6 +1,6 @@
 ---
 title: Русская планета Emacs
-date: Fri, 30 Aug 2024 13:34:09 +0000
+date: Thu, 16 Jan 2025 14:34:30 +0000
 description: ""
 params:
   link: https://planet.emacslife.com/ru/opml.xml
@@ -21,9 +21,6 @@ params:
   - title: Fedora Linux. Тяжелые будни
     description: Мелкие заметки чисто для себя, чтоб не забыть :)
     id: 3b8d2dbf477b198f297cdd6be80e8098
-  - title: Результаты поиска по запросу «[emacs]»
-    description: Результаты поиска по запросу «[emacs]»
-    id: 3d9883f1035f9f711e4d99c4b6975b91
   - title: Puzan's Pages - emacs
     description: ""
     id: 406f708baefb54d099938935f44aae41

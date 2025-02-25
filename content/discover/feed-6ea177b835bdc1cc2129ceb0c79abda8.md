@@ -1,6 +1,6 @@
 ---
 title: Eclipse Summer of Code
-date: "2024-08-28T18:57:16Z"
+date: "2025-01-29T19:17:08Z"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/3563144813378269956/posts/default
@@ -21,26 +21,32 @@ params:
   - eclipse
   - soc
   relme: {}
-  last_post_title: A disruptive technology for code generation
+  last_post_title: Calling all artists
   last_post_description: ""
-  last_post_date: "2008-06-18T14:50:55Z"
-  last_post_link: https://eclipse-soc.blogspot.com/2008/06/disruptive-technology-for-code.html
-  last_post_categories: []
+  last_post_date: "2008-12-11T20:33:26Z"
+  last_post_link: https://eclipse-soc.blogspot.com/2007/05/calling-all-artists.html
+  last_post_categories:
+  - eclipse
+  - soc
   last_post_language: ""
-  last_post_guid: 8ed191e1815caa4344f18fb60a04e379
+  last_post_guid: 14d84ece679ecddc6d8663cd0a19cb2b
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
-    postcats: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 24
+  avgpostlen: 295
 ---

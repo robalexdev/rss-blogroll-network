@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-08-27T21:52:25Z"
+date: "2024-12-17T21:06:55Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/bookmarks.xml
@@ -43,6 +43,7 @@ params:
   - https://reillyspitzfaden.com/blog/feed.xml
   - https://rss.art19.com/eye-of-the-duck
   - https://sarajaksa.eu/rss.xml
+  - https://so1o.xyz/feed.xml
   - https://system31.simone.computer/rss.xml
   - https://tracydurnell.com/feed/
   - https://veronique.ink/feed/?type=rss
@@ -53,6 +54,7 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
+  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://kandr3s.co/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
@@ -64,47 +66,59 @@ params:
   - https://localghost.dev/musics.xml
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
+  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://marksuth.dev/feed/photos.xml
   - https://marksuth.dev/feed/stream.xml
   - https://muan.co/notes.xml
   - https://nicksimson.com/comments/feed/
+  - https://nicksimson.com/posts/feed/
   - https://ohhelloana.blog/feed.links.xml
   - https://piperhaywood.com/comments/feed/
   - https://piperhaywood.com/feed/
+  - https://reillyspitzfaden.com/feed.xml
+  - https://reillyspitzfaden.com/likes/feed.xml
+  - https://reillyspitzfaden.com/notes/feed.xml
   - https://tracydurnell.com/comments/feed/
+  - https://veronique.ink/feed/
   - https://ellyloel.com/feed.atom
   - https://ellyloel.com/feed.rss
   - https://www.lkhrs.com/index.xml
   recommender: []
   categories:
-  - design
+  - css
+  - ui
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Bookmarked "The Monospace Web"
-  last_post_description: My site used to be monospaced. I was always messing with
-    it as I wasn't happy so changed a few things. I do like how this looks so maybe...
-  last_post_date: "2024-08-27T21:52:25Z"
-  last_post_link: https://benji.dog/bookmarks/1724795545-the-monospace-web/
+  last_post_title: Bookmarked "1bit-ui"
+  last_post_description: I like this CSS theme and if I would've found it before,
+    I probable would've used it for sparkles
+  last_post_date: "2024-12-17T21:06:55Z"
+  last_post_link: https://benji.dog/bookmarks/1734469615-1bit-ui/
   last_post_categories:
-  - design
+  - css
+  - ui
   last_post_language: ""
-  last_post_guid: e7a0adfd68af988b0abf5946d83211dd
+  last_post_guid: a22a009344b914220b8f68b8a42cfb96
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

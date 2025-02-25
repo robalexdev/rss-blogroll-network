@@ -7,8 +7,7 @@ params:
   blogroll_id: c33ed4f6ab2b4055fadbfad39d41c36e
   recommends:
   - title: ttntm.me - Everything
-    description: Tom's homepage. A personal website, journal and playground. Everything,
-      and nothing.
+    description: Tom's homepage. A personal website, journal and playground.
     id: 10420918feef664f327101723c6ac281
   - title: Filippo Valsorda
     description: Filippo Valsorda
@@ -20,8 +19,7 @@ params:
     description: ""
     id: 41e7afd377ae70efdb4606c0d0603e6f
   - title: Harsh Browns
-    description: Steve Messer’s website. Product manager. Web enthusiast, working
-      in the open. Black Country boy living in London, UK.
+    description: ""
     id: 68bf890ef652d82109527abf8b5560b7
   - title: joeross.me
     description: ""
@@ -32,6 +30,9 @@ params:
   - title: Ian Betteridge
     description: ""
     id: 7701ae19fe02d40422d73bda66d62f8d
+  - title: philwilson.org
+    description: ""
+    id: 80da2f8d9cbc4746cecf23da8a754702
   - title: daniel.haxx.se
     description: curl, open source and networking
     id: 8124fcbf635fbd84bfb08145027257d4

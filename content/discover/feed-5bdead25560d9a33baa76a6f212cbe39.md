@@ -1,6 +1,6 @@
 ---
 title: Nick Janetakis
-date: "2024-02-20T11:06:58-08:00"
+date: "2024-09-04T14:03:28-07:00"
 description: ""
 params:
   feedlink: https://nickjanetakis.blogspot.com/feeds/posts/default/-/python
@@ -35,15 +35,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 1
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 1
+  avgpostlen: 299
 ---

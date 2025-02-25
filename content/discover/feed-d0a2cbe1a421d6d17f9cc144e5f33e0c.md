@@ -8,6 +8,7 @@ params:
   feedid: d0a2cbe1a421d6d17f9cc144e5f33e0c
   websites:
     https://gnu.wildebeest.org/blog/mjw: true
+    https://gnu.wildebeest.org/blog/mjw/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Classpath
@@ -21,29 +22,33 @@ params:
     https://code.wildebeest.org/: true
     https://gnu.wildebeest.org/blog/mjw: true
     https://mastodon.nl/@mjw: true
-  last_post_title: Valgrind 3.23.0-RC1
-  last_post_description: Valgrind 3.23.0-RC1. Please help test. FreeBSD arm64 support.
-    --track-fds=yes now warns against double close, generates (suppressible) errors
-    and supports XML output. s390x supports more z16
-  last_post_date: "2024-04-21T15:15:34Z"
-  last_post_link: https://gnu.wildebeest.org/blog/mjw/2024/04/21/valgrind-3-23-0-rc1/
+  last_post_title: Supporting Software Freedom Conservancy in 2025
+  last_post_description: The Software Freedom Conservancy Fundraiser runs for another
+    2 weeks. Please become a Sustainer, renew your existing membership or donate before
+    January 15th to maximize your contribution to
+  last_post_date: "2025-01-01T16:58:48Z"
+  last_post_link: https://gnu.wildebeest.org/blog/mjw/2025/01/01/supporting-software-freedom-conservancy-in-2025/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: d1017e571e0ff3896cae61a1d27aeed1
+  last_post_guid: e566c70dc132e3b031926c6a684440a4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

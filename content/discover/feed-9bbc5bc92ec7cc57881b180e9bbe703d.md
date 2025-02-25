@@ -24,27 +24,31 @@ params:
     https://github.com/kevinleedrum: true
     https://hachyderm.io/@kevinleedrum: true
     https://kld.dev/: true
-  last_post_title: 'Writing a slot machine game: Reels'
-  last_post_description: This is the second article in a series about building a modern
-    five-reel slot machine game for the browser.
-  last_post_date: "2024-04-22T05:00:00Z"
-  last_post_link: https://kld.dev/slot-machine-2/
+  last_post_title: A few of my favorite things
+  last_post_description: Here are my favorite things about some popular JavaScript
+    frameworks.  No cons allowed, only pros.
+  last_post_date: "2024-12-24T05:00:00Z"
+  last_post_link: https://kld.dev/a-few-of-my-favorite-things/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a31127f5424fb80b0addd3e0855b8573
+  last_post_guid: b6dae95cd5a0ef93a05ba3e1c49f7291
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 17
+  avgpostlen: 0
 ---

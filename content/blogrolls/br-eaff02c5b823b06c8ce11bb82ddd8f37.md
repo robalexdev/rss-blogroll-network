@@ -7,8 +7,7 @@ params:
   blogroll_id: eaff02c5b823b06c8ce11bb82ddd8f37
   recommends:
   - title: Maggie Appleton
-    description: A digital garden filled with visual essays, research notes, and experiments
-      at the intersection of design, development, and anthropology.
+    description: Essays on programming, design, and anthropology
     id: 03858ee03b2c85599014eee556fc05ac
   - title: swissmiss
     description: swissmiss is an online garden (aka design blog) run by Tina Roth
@@ -26,7 +25,7 @@ params:
   - title: Barking Up The Wrong Tree
     description: How to be awesome at life.
     id: 4b8e53a073ada80ab670585ec053c188
-  - title: Frank Meeuwsen
+  - title: Digging the Digital
     description: ""
     id: 6303b18a5a4f0ad6ce4fbbad3da25c53
   - title: Derek Sivers blog
@@ -54,7 +53,7 @@ params:
     description: ""
     id: ab1fb9d9d1c86d17ff0aa61f76b17f4e
   - title: A Whole Lotta Nothing
-    description: A Whole Lotta Nothing
+    description: Matthew Haughey's personal blog
     id: b512fbab4a980ef54de6ed0ee818703f
   - title: xkcd.com
     description: ""
@@ -66,7 +65,7 @@ params:
     description: Computer Scientist & Bestselling Author
     id: cd20f0fec4cbe87d737ee49003b704f1
   - title: Rhoneisms
-    description: by Patrick Rhone
+    description: by Patrick Rhone, Master Generalist
     id: ed691f489cc8ec8184eed839a11f8009
   - title: Jason Fried
     description: ""

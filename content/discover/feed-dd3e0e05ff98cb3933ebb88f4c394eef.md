@@ -21,8 +21,11 @@ params:
   - https://alldeadgenerations.blogspot.com/feeds/posts/default?alt=rss
   - https://alphastream.org/index.php/feed/
   - https://amoreconviviallife.wordpress.com/feed/
+  - https://anniemueller.com/posts_feed
   - https://arialdomartini.github.io/atom
+  - https://arialdomartini.github.io/feed.xml
   - https://arne.me/articles/atom.xsml
+  - https://arne.me/blog/feed.xml
   - https://atthis.link/rss.xml
   - https://avdi.codes/feed/
   - https://bankuei.wordpress.com/feed/
@@ -41,7 +44,6 @@ params:
   - https://burnafterrunningrpg.com/feed/
   - https://bxblackrazor.blogspot.com/feeds/posts/default/
   - https://campaignwiki.org/files/osr-discord.xml
-  - https://campaignwiki.org/podcast/feed.xml
   - https://campaignwiki.org/rpg/feed.xml
   - https://cepheusjournal.com/feed/
   - https://cestlaz.github.io/rss.xml
@@ -51,6 +53,7 @@ params:
   - https://communick.news/feeds/c/emacs.xml?sort=Active
   - https://cprss.s3.amazonaws.com/golangweekly.com.xml
   - https://darjanix.blogspot.com/feeds/posts/default
+  - https://data.fineartstudioonline.com/rssfeed.asp?id=47118
   - https://daydreamsinruby.com/rss.xml
   - https://decafbad.net/feed
   - https://deltasdnd.blogspot.com/feeds/posts/default
@@ -61,6 +64,7 @@ params:
   - https://eshelyaron.com/rss.xml
   - https://espharel.blogspot.com/feeds/posts/default?alt=rss
   - https://ethanmarcotte.com/wrote/feed.xml
+  - https://feeds.feedburner.com/brainpickings/rss
   - https://feeds.jamesmead.org/floehopper-blog
   - https://frotz.weaponvsac.space/feeds/posts/default
   - https://github.com/gohugoio/hugo/releases.atom
@@ -70,6 +74,7 @@ params:
   - https://grognardia.blogspot.com/feeds/posts/default
   - https://half-baked-dungeons.bearblog.dev/feed/?type=rss
   - https://inclusive-components.design/rss/
+  - https://inkdroid.org/feed.xml
   - https://irreal.org/blog/?feed=rss
   - https://juanjose.garciaripoll.com/blog/rss.xml
   - https://jxself.org/rss20.xml
@@ -77,7 +82,6 @@ params:
   - https://kristofferbalintona.me/index.xml
   - https://lambdaland.org/index.xml
   - https://laurakalbag.com/index.xml
-  - https://library.mausritter.com/language/english/feed/
   - https://lichvanwinkle.blogspot.com/feeds/posts/default?alt=rss
   - https://majesticflywhisk.blogspot.com/feeds/posts/default?alt=rss
   - https://matthiasott.com/rss
@@ -97,6 +101,8 @@ params:
   - https://plundergrounds.blogspot.com/feeds/posts/default
   - https://pluralistic.net/feed/
   - https://protesilaos.com/master.xml
+  - https://publicdomainreview.org/rss.xml
+  - https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss
   - https://roytang.net/blog/feed/rss
   - https://ruby.libhunt.com/newsletter/feed
   - https://rubycentral.org/news/rss/
@@ -110,9 +116,10 @@ params:
   - https://soniasulaiman.com/feed/
   - https://spacecockroach.blogspot.com/feeds/posts/default
   - https://sqrtminusone.xyz/posts/index.xml
+  - https://stancarey.wordpress.com/feed/
+  - https://susankayequinn.com/feed
   - https://svbck.org/blog/rss.xml
   - https://swordsandstitchery.blogspot.com/feeds/posts/default
-  - https://tales-of-the-lunar-lands.blogspot.com/feeds/posts/default?alt=rss
   - https://taonaw.com/feed.xml
   - https://thedicesociety.com/index.xml
   - https://throneofsalt.blogspot.com/feeds/posts/default
@@ -128,18 +135,19 @@ params:
   - https://www.3d6downtheline.com/blog?format=rss
   - https://www.baldurbjarnason.com/feed.xml/
   - https://www.bastionland.com/feeds/posts/default
+  - https://www.debian.org/News/news
   - https://www.dyerdwelling.family/index.xml
   - https://www.errantadventurespod.com/blog?format=rss
   - https://www.evalapply.org/index.xml
   - https://www.gaming.concretelunch.info/feed/
   - https://www.geepawhill.org/feed/
+  - https://www.jvt.me/kind/articles/feed.xml
   - https://www.macadie.net/feed/
   - https://www.miriamsuzanne.com/feed.xml
   - https://www.necropraxis.com/feed/
   - https://www.paperspencils.com/feed/
   - https://www.paritybit.ca/feed.xml
   - https://www.prismaticwasteland.com/blog?format=rss
-  - https://www.rascal.news/rss/
   - https://www.spicyweb.dev/feed.xml
   - https://www.wizardthieffighter.com/feed/
   - https://www.ziapeltagames.com/feed
@@ -148,34 +156,38 @@ params:
   - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - programming
+  - technologies
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Go Interfaces, Dependency Injection, and Test Coverage
-  last_post_description: "Summary: \nThis post I walk through writing up interfaces
-    to hide the implementation details of 3rd party packages.  And in doing so, introduce
-    creases for dependency injection while preserving a high"
-  last_post_date: "2024-08-29T07:49:10-04:00"
-  last_post_link: https://takeonrules.com/2024/08/29/go-interfaces-dependency-injection-and-test-coverage/
+  last_post_title: Remediating MacOS Spotlight Misbehavior
+  last_post_description: "Summary: \nA walk through of reseting a mangled #MacOS Spotlight
+    setting, and rebuilding the index.\n\nFor awhile I’ve been living with a borked
+    Spotlight configuration. When I’d go\nto the System"
+  last_post_date: "2025-02-08T13:08:27-05:00"
+  last_post_link: https://takeonrules.com/2025/02/08/remediating-macos-spotlight-misbehavior/
   last_post_categories:
-  - programming
+  - technologies
   last_post_language: ""
-  last_post_guid: 5f98b3d1ff2cfbbbc77c21a72a07dc23
+  last_post_guid: b471c4d4d3ab7b2dff6ae704d1246877
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 25
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2024-11-22T23:38:03+08:00"
+date: "2025-01-18T21:38:08+08:00"
 description: 我欲种菜 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -16,37 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - journal
-  - 工具
-  - 运动
+  - essay
+  - 情感
   relme: {}
-  last_post_title: 骑车的装备
-  last_post_description: !!binary |
-    5Li654ix5aW96Iqx6ZKx5piv6Zq+5YWN55qE5LqL44CC5LiA56eN5oOF5Ya15piv5Yia5Y
-    Wl5Z2R5pe25aS06ISR5Y+R54Ot5Yay5Yqo5raI6LS577yM5pyA5a655piT6Iqx5Yak5p6J
-    6ZKx44CC5Y+m5LiA56eN5oOF5Ya15piv5YWl5Z2R5pel5LmF55yf5b+D54Ot54ix5pyJ6Z
-    yA5rGC77yM5raI6LS55pe26IO955CG5oCn44CB6IqC5Yi25LiU5pyJ55o=
-  last_post_date: "2024-11-22T22:25:54+08:00"
-  last_post_link: https://jubeny.com/2024/11/gears-of-cycling/
+  last_post_title: 纪念的数字
+  last_post_description: |-
+    领证的日子是妻选的，谐音“爱你爱我一生”。不知她是从哪里看到的，至少周围的女同事不解，问我这天有什么特殊意义。
+
+    年初也是给域名续费的时
+  last_post_date: "2025-01-18T21:27:45+08:00"
+  last_post_link: https://jubeny.com/2025/01/memorable-numbers/
   last_post_categories:
-  - journal
-  - 工具
-  - 运动
+  - essay
+  - 情感
   last_post_language: ""
-  last_post_guid: 4ba5e736f5fca62339ca646990605dfa
+  last_post_guid: 3858973f9838af91dab1416f56db477a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

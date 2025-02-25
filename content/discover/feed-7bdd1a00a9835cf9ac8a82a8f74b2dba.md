@@ -8,6 +8,7 @@ params:
   feedid: 7bdd1a00a9835cf9ac8a82a8f74b2dba
   websites:
     https://rushkoff.com/: true
+    https://rushkoff.com/blog/: false
     https://www.rushkoff.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -21,29 +22,33 @@ params:
   - Essays
   relme:
     https://rushkoff.com/: true
-  last_post_title: 'Nonbinary: A Memoir – Afterward'
+  last_post_title: Foreward to The New Inquisition
   last_post_description: |-
-    Rushkoff reflects on Genesis P-Orridge's life and legacy in an essay published as the afterword of Nonbinary.
-    The post Nonbinary: A Memoir – Afterward appeared first on Rushkoff.
-  last_post_date: "2024-08-28T13:13:49Z"
-  last_post_link: https://rushkoff.com/nonbinary-a-memoir-afterward/
+    Douglas Rushkoff's Foreward to Robert Anton Wilson's The New Inquisition
+    The post Foreward to The New Inquisition appeared first on Rushkoff.
+  last_post_date: "2024-09-13T17:49:03Z"
+  last_post_link: https://rushkoff.com/foreward-to-the-new-inquisition/
   last_post_categories:
   - Essays
   last_post_language: ""
-  last_post_guid: ea1d52830c99f5ade66748d6e84852e8
+  last_post_guid: d069b5f569753d0c7f70b115662255d6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

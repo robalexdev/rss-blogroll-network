@@ -15,29 +15,34 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: Day for Myself
-  last_post_description: I haven't had time for myself in a few weeks.
-  last_post_date: "2024-08-24T21:40:27-07:00"
-  last_post_link: https://lifeofpablo.com/blog/day-for-myself
+  last_post_title: Hosting IndieWeb SF Brunch 3!
+  last_post_description: "RSVP'd yes to \U0001F373\U0001F95E IndieWeb SF Brunch #3
+    This Sunday 23 February 2025, I am hosting IndieWeb SF Brunch #3 with Tantek!
+    If you happen to be in the San…"
+  last_post_date: "2025-02-23T20:29:50-08:00"
+  last_post_link: https://lifeofpablo.com/blog/hosting-indieweb-sf-brunch-3
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a361e9628f5bc92b203196a4d5b65979
+  last_post_guid: 160b12d0c4c13c6f8f46e9fef0984540
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 100
+  avgpostlen: 0
 ---

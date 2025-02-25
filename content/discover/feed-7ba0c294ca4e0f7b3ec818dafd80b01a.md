@@ -31,59 +31,55 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - "116"
-  - "132"
-  - "39"
-  - "60"
-  - Andrew Cutler
-  - Julia Alexander
-  - Posting Nexus
-  - Simon Owens
-  - UX Writing بالعربية
-  - شركة بونص
-  - صيدُ الشابكة
-  - قاعدة البيانات العلمية «سكوباس» Scopus
-  - مدونة BONUS - بونص
-  - نشرة Posting Nexus
+  - 211 مليون عربي محروم من الخدمات البنكية
+  - بطالة عطالة
+  - بيع الوهم
+  - تعليم لا ينفع
+  - تعليم ما لا ينفع على يوتيوب
+  - تقييم صناع المحتوى
+  - خداع الناس
+  - قنوات يوتيوب مذاكرة
+  - يوتيوبرز مزيفين
+  - يومياتي
   relme:
     https://mastodon.social/@youneskkc: true
     https://youdo.blog/: true
-  last_post_title: لكن ماذا عن تطبيقات الذكاء الاصطناعي المخصصة للعلاج النفسي وخلق
-    حسّ بالتفهم والصداقة؟
-  last_post_description: اِفتح التدوينة لتحكي لك جوليا ألكسندر (Julia Alexander) عمّا
-    القيمة الفعلية لمئة مليون مشاهدة؟
-  last_post_date: "2024-08-28T20:37:49Z"
-  last_post_link: https://youdo.blog/2024/08/28/senpai-your-ever-present-ai-mentor/
+  last_post_title: سبحان الله لماذا يبخلون بخير عظيمٍ في قدرتهم فعله ولا يُكلِّفهم
+    شيئًا؟
+  last_post_description: بسم الله، سيكون هذا المقال بعون الله مرجعًا أرسله لكل من
+    يريد أن يُقيّم صانع محتوى قبل أن يتابعه لسنوات من
+  last_post_date: "2025-02-24T02:43:17Z"
+  last_post_link: https://youdo.blog/2025/02/24/phony-arab-content-creators/
   last_post_categories:
-  - "116"
-  - "132"
-  - "39"
-  - "60"
-  - Andrew Cutler
-  - Julia Alexander
-  - Posting Nexus
-  - Simon Owens
-  - UX Writing بالعربية
-  - شركة بونص
-  - صيدُ الشابكة
-  - قاعدة البيانات العلمية «سكوباس» Scopus
-  - مدونة BONUS - بونص
-  - نشرة Posting Nexus
+  - 211 مليون عربي محروم من الخدمات البنكية
+  - بطالة عطالة
+  - بيع الوهم
+  - تعليم لا ينفع
+  - تعليم ما لا ينفع على يوتيوب
+  - تقييم صناع المحتوى
+  - خداع الناس
+  - قنوات يوتيوب مذاكرة
+  - يوتيوبرز مزيفين
+  - يومياتي
   last_post_language: ""
-  last_post_guid: 12c83d0f717629e2228169ad1af252ed
+  last_post_guid: c3eb2f47a0be17e8162caabb578e430a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ar
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -16,34 +16,42 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 王阳明
-  - 生活与世界
-  - 贵州
+  - IFTTT
+  - n8n
+  - 工作流
+  - 折腾不止
+  - 签到
   relme: {}
-  last_post_title: 居黔六日有感
-  last_post_description: 本文的作者是费轩。 在黔追寻阳明行迹的六天里，最常听到的问题便是“阳明学对现代人的精神内耗能够起到什么作用？”…
-    继续阅读居黔六日有感
-  last_post_date: "2024-08-21T13:10:00Z"
-  last_post_link: https://dgideas.net/2024/six-days-in-guizhou-reflections/
+  last_post_title: IFTTT 的本地部署平替 – n8n 自动化工作流
+  last_post_description: 我们也许已经使用过一些自动化工作流的服务或工具，如 IFTTT 或 iOS 系统中的快捷指令。这些服务可在某些…
+    继续阅读IFTTT 的本地部署平替 – n8n
+  last_post_date: "2025-02-16T14:40:11Z"
+  last_post_link: https://dgideas.net/2025/self-hosted-ifttt-alternative-n8n/
   last_post_categories:
-  - 王阳明
-  - 生活与世界
-  - 贵州
+  - IFTTT
+  - n8n
+  - 工作流
+  - 折腾不止
+  - 签到
   last_post_language: ""
-  last_post_guid: c0910829a4d61358e2e963417e76d7f6
+  last_post_guid: 3d27ea731d1267bb641beba29d0de065
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Steve Hardy
-date: "2024-08-30T05:29:25-07:00"
+date: "2025-02-24T04:31:13-08:00"
 description: Open-source, Linux, OpenStack, Heat, programming
 params:
   feedlink: https://hardysteven.blogspot.co.uk/feeds/posts/default/-/openstack
@@ -32,15 +32,19 @@ params:
     cats: 3
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 18
+  avgpostlen: 293
 ---

@@ -1,6 +1,6 @@
 ---
 title: Erdal Karaca musing about Eclipse
-date: "2024-03-13T02:23:59-07:00"
+date: "2024-09-24T08:15:17-07:00"
 description: 1 + 1 = 10
 params:
   feedlink: https://www.blogger.com/feeds/5062989492570016925/posts/default
@@ -27,15 +27,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 9
+  avgpostlen: 295
 ---

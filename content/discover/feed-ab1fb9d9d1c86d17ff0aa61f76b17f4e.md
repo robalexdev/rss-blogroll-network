@@ -19,29 +19,32 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (81)
+  last_post_title: Explaining Circling
   last_post_description: |-
-    Jean Hebert, who proposes the stepwise replacement of brain tissue, has now joined ARPA-H
-    Why does Ozempic cure all disease
-    Scott Alexander on Nietzschean takes on morality, with an additional take
-  last_post_date: "2024-08-17T00:00:00Z"
-  last_post_link: https://nintil.com/links-81/
+    There's this practice called Circling1
+     that I do sometimes. I remember before I did it the first time I tried to get a sense of what it was like: Why do people do this? Are there mistakes that I can
+  last_post_date: "2025-02-16T00:00:00Z"
+  last_post_link: https://nintil.com/circling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d250e6ae58b6d309e802de71512586b7
+  last_post_guid: 2e0384ae4d1f176648a001c643d65639
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

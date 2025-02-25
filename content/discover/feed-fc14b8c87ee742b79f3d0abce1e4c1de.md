@@ -1,6 +1,6 @@
 ---
 title: theatre of noise
-date: "2024-08-21T11:37:04+01:00"
+date: "2025-02-20T18:00:15Z"
 description: Reviews, comments, rants. By Robin Parmar.
 params:
   feedlink: https://www.theatreofnoise.com/feeds/posts/default/-/dev
@@ -35,6 +35,7 @@ params:
   - photography
   - plugins
   - poetry
+  - politics
   - video
   relme: {}
   last_post_title: 'Visual Coding with Processing: COVID-19 Tracker'
@@ -50,15 +51,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 291
 ---

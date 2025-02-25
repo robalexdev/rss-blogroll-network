@@ -15,35 +15,47 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.7.55.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://lmika.org/feed.xml
+  - https://lmika.org/podcast.xml
   categories:
-  - Telegram
+  - Content Moderation
+  - Meta
   relme: {}
-  last_post_title: The three cases against Telegram
-  last_post_description: Pavel Durov has a lot to answer for â€” but how he is prosecuted
-    could reshape the internet
-  last_post_date: "2024-08-30T00:12:58Z"
-  last_post_link: https://www.platformer.news/telegram-pavel-durov-charged-encryption-liability/
+  last_post_title: How Meta's concessions to the right may have backfired
+  last_post_description: A new inquiry from the Federal Trade Commission suggests
+    that apologizing for "censorship" may have only emboldened the company's conservative
+    critics
+  last_post_date: "2025-02-21T02:05:20Z"
+  last_post_link: https://www.platformer.news/ftc-censorship-investigation-meta-x-community-notes/
   last_post_categories:
-  - Telegram
+  - Content Moderation
+  - Meta
   last_post_language: ""
-  last_post_guid: 6cea7a4f0a4736ce8a961446e53112ac
+  last_post_guid: 8227151c6b5a274402c2cc1b761f07ce
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

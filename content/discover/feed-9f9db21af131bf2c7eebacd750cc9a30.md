@@ -1,6 +1,6 @@
 ---
 title: Minimal Solaris
-date: "2024-07-02T19:54:45-07:00"
+date: "2025-01-27T04:54:39-08:00"
 description: ""
 params:
   feedlink: https://alexeremin.blogspot.com/feeds/posts/default
@@ -54,7 +54,6 @@ params:
   - v9os
   relme:
     https://alexeremin.blogspot.com/: true
-    https://www.blogger.com/profile/04819890114311693093: true
   last_post_title: How to determine PXE mac address when booting illumos via PXELinux/iPXE
   last_post_description: ""
   last_post_date: "2020-08-02T07:31:47-07:00"
@@ -66,15 +65,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 262
 ---

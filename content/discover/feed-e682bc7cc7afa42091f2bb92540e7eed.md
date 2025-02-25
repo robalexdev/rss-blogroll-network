@@ -30,46 +30,55 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - Art
-  - Neil Gaiman
-  - artisanat
-  - bijoux
-  - collaborations
-  - créativité
-  - interviews
+  - Chelsea Wolfe
+  - Musique
+  - Tori Amos
+  - black metal
+  - death metal
+  - doom metal
+  - metal
+  - metal progressif
+  - rock
+  - shoegaze
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
-  last_post_title: Interview de Mathyld (under the pyramids), artisane-créatrice de
-    bijoux en argent
-  last_post_description: En ce solstice d’hiver, j’ai la joie de publier l’interview
-    de Mathyld, artisane autodidacte française qui crée des bijoux en argent aussi
-    mystérieux que délicats derrière la marque
-  last_post_date: "2023-12-21T05:06:33Z"
-  last_post_link: https://lalunemauve.fr/interview-mathyld-under-the-pyramids/
+  last_post_title: 'Albums sombres et café noir : la playlist du lundi (vol. 1)'
+  last_post_description: Crypta, Ethel Cain, The Warning, Lowen, Shedfromthebody…
+    Gros plan sur cinq albums créés par des femmes, dont la musique résonne avec des
+    émotions que je trouve difficiles à exprimer.
+  last_post_date: "2025-02-10T05:00:25Z"
+  last_post_link: https://lalunemauve.fr/albums-sombres-playlist-1/
   last_post_categories:
-  - Art
-  - Neil Gaiman
-  - artisanat
-  - bijoux
-  - collaborations
-  - créativité
-  - interviews
+  - Chelsea Wolfe
+  - Musique
+  - Tori Amos
+  - black metal
+  - death metal
+  - doom metal
+  - metal
+  - metal progressif
+  - rock
+  - shoegaze
   last_post_language: ""
-  last_post_guid: db0cd925ee99d6cc1ea9a079826ab173
+  last_post_guid: 763df57af573b226c13bf79d0eda20bc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muxup
-date: "2024-07-01T12:00:00Z"
+date: "2024-12-09T12:00:00Z"
 description: Adventures in collaborative open source development
 params:
   feedlink: https://muxup.com/feed.xml
@@ -16,26 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: pwr
+  last_post_title: Directly committing files to a separate git branch
   last_post_description: ""
-  last_post_date: "2024-07-01T12:00:00Z"
-  last_post_link: https://muxup.com/pwr
+  last_post_date: "2024-12-09T12:00:00Z"
+  last_post_link: https://muxup.com/2024q4/directly-committing-files-to-a-separate-git-branch
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 133eb6e3282442bae012bf1ec7d378ca
+  last_post_guid: 922756008ea3c2a644e70b0c16d6d3de
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 295
 ---

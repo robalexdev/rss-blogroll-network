@@ -1,6 +1,6 @@
 ---
 title: madi's blog
-date: "2024-08-28T14:03:58+02:00"
+date: "2024-12-25T12:37:32+01:00"
 description: '"And once you had the mapping itch, you had to keep scratching it."
   --Simon Garfield'
 params:
@@ -87,15 +87,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 23
+  avgpostlen: 296
 ---

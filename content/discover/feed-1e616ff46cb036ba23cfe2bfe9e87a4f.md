@@ -8,6 +8,7 @@ params:
   feedid: 1e616ff46cb036ba23cfe2bfe9e87a4f
   websites:
     https://blogs.gnome.org/pmkovar: true
+    https://blogs.gnome.org/pmkovar/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -38,15 +39,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

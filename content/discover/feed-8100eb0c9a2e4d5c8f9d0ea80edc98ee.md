@@ -1,7 +1,7 @@
 ---
-title: Zeldman on Web and Interaction Design
+title: Jeffrey Zeldman Presents
 date: "1970-01-01T00:00:00Z"
-description: Since 1995. Formerly “The Daily Report.”
+description: Since 1995.
 params:
   feedlink: https://zeldman.com/feed/
   feedtype: rss
@@ -17,42 +17,51 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.7.55.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories:
+  - My Back Pages
+  - Politics
   - family
   - glamorous
   relme:
-    https://front-end.social/@zeldman: true
     https://zeldman.com/: true
-  last_post_title: Strange Beliefs of Childhood № 99
-  last_post_description: |-
-    My Glamorous Life: late to the pubescence party.
-    The post Strange Beliefs of Childhood № 99 appeared first on Zeldman on Web and Interaction Design.
-  last_post_date: "2024-08-21T11:24:37Z"
-  last_post_link: https://zeldman.com/2024/08/21/strange-beliefs-of-childhood-%e2%84%96-99/
+  last_post_title: Far from the bullying crowd
+  last_post_description: The bullies who beat and mocked me in eighth grade were cruel
+    and stupid. They despised intelligence and worshipped violence, although they
+    would settle for athletic ability. The school blessed their
+  last_post_date: "2025-02-14T15:11:06Z"
+  last_post_link: https://zeldman.com/2025/02/14/far-from-the-bullying-crowd/
   last_post_categories:
+  - My Back Pages
+  - Politics
   - family
   - glamorous
   last_post_language: ""
-  last_post_guid: 817fe81c7e09d37e17793d912bbeca13
+  last_post_guid: 0c034687b909bd6115646efdb14d6bcb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

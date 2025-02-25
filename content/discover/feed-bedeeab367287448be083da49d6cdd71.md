@@ -20,26 +20,32 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: information pour 2024
-  last_post_description: Information pour 2024
-  last_post_date: "2023-12-31T16:17:32Z"
-  last_post_link: https://parlonslinux.fr/@ParlonsLinuxFR/episodes/information-pour-2024
+  last_post_title: Le durcissement de machine sous Linux
+  last_post_description: Dans cet épisode, découvrez les étapes essentielles pour
+    sécuriser une machine Linux, que ce soit un poste de travail ou un serveur. Nous
+    abordons les mises à jour, la configuration de pare-feu,
+  last_post_date: "2024-10-27T16:45:22Z"
+  last_post_link: https://parlonslinux.fr/@ParlonsLinuxFR/episodes/le-durcissement-de-machine-sous-linux
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 762ffe513701a80dd825eb215cd55b4d
+  last_post_guid: d7b67469389902fe2a7687b6061f99aa
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: true
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 13
+  avgpostlen: 0
 ---

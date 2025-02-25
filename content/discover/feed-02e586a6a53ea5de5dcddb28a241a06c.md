@@ -16,30 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdin
+  - stderr
   relme: {}
-  last_post_title: 如何给职场老登们提意见
-  last_post_description: 老登们从来不抱怨环境差，因为环境差就是他们造成的。哈哈哈。开个玩笑。HN上看到一篇How to give a senior
-    leader feedback without getting fired
-  last_post_date: "2024-11-24T00:00:00+08:00"
-  last_post_link: https://blog.est.im/2024/stdin-19
+  last_post_title: 面向老外最容易理解的“春节”定义，以及其它
+  last_post_description: |-
+    用英语把 春节 讲明白
+    最近小红书 #tiktokrefugee 以及所谓的“中美对账”很火，然后又吵到 Chinese new year, 和 lunar new year
+  last_post_date: "2025-02-12T16:06:00+08:00"
+  last_post_link: https://blog.est.im/2025/stdout-01
   last_post_categories:
-  - stdin
+  - stderr
   last_post_language: ""
-  last_post_guid: b9191b50bc266879fc21ff79825b85ea
+  last_post_guid: 39a94539b7add82ebc1070136329741b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

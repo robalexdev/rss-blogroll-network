@@ -1,6 +1,6 @@
 ---
 title: 编程随想的博客
-date: "2024-11-25T12:35:04+08:00"
+date: "2025-02-24T20:31:36+08:00"
 description: ""
 params:
   feedlink: https://feeds2.feedburner.com/programthink
@@ -74,15 +74,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 258
 ---

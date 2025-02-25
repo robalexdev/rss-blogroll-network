@@ -17,27 +17,31 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Need Day of Month Reminders in Org Mode? Emacs Sexp Diary Entries
-    to the Rescue
-  last_post_description: It’s a floating celestial, no a diary float!
-  last_post_date: "2024-06-17T15:08:40+05:30"
-  last_post_link: https://janusworx.com/blog/org-mode-emacs-diary-sexps/
+  last_post_title: View Only the Day, With Org Agenda
+  last_post_description: Live in Day Tight Compartments; only worry about what’s happening
+    today; that’s all you can control — Dale Carnegie
+  last_post_date: "2025-01-20T08:50:40+05:30"
+  last_post_link: https://janusworx.com/work/view-only-day-with-org-agenda/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7f6d09141efc1c03173a9766db4e073d
+  last_post_guid: 81021195680ba3494379b6c5a1112466
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

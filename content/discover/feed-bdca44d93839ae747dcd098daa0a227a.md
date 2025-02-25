@@ -1,6 +1,6 @@
 ---
 title: Dodji on the wire
-date: "2024-04-11T15:16:43+02:00"
+date: "2024-09-24T00:24:09+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/2589840875273282931/posts/default/-/openmoko
@@ -54,15 +54,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 1
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 1
+  avgpostlen: 298
 ---

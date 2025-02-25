@@ -1,5 +1,5 @@
 ---
-title: Frank Meeuwsen
+title: Digging the Digital
 date: "1970-01-01T00:00:00Z"
 description: ""
 params:
@@ -113,7 +113,8 @@ params:
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
   - https://jan.boddez.net/articles/feed
-  - https://jan.boddez.net/comments/feed
+  - https://jan.boddez.net/likes/feed
+  - https://jan.boddez.net/notes/feed
   - https://jeroensangers.com/podcast.xml
   - https://localghost.dev/articles.xml
   - https://localghost.dev/books.xml
@@ -128,13 +129,10 @@ params:
   - https://remkusdevries.com/comments/feed/
   - https://remkusdevries.com/feed/
   - https://remkusdevries.com/feed/podcast
-  - https://rkvssr.nl/comments/feed/
   - https://robinrendle.com/cascadefeed.xml
   - https://robinrendle.com/essayfeed.xml
   - https://robinrendle.com/newsletterfeed.xml
-  - https://ruk.ca/comments/rss
-  - https://ruk.ca/rss/podcast.xml
-  - https://thehistoryoftheweb.com/comments/feed/
+  - https://ruk.ca/rss.xml
   - https://tomcritchlow.com/feed.xml
   - https://tracydurnell.com/comments/feed/
   - https://weblog.anniegreens.lol/atom.xml
@@ -155,6 +153,7 @@ params:
   - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories: []
@@ -162,28 +161,32 @@ params:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: De nazomer lonkt
-  last_post_description: Vandaag is de laatste echte vrije dag van de vakantie. Ik
-    heb doorgewerkt de afgelopen weken en we zijn niet echt op vakantie geweest. Het
-    was een heerlijke zomervakantie. We mochten in het huis van
-  last_post_date: "2024-08-27T20:21:28+02:00"
-  last_post_link: https://frankmeeuwsen.com/2024/08/27/de-nazomer-lonkt.html
+  last_post_title: Samenvattingen bij blogposts
+  last_post_description: Sinds mijn verhuizing van zelf-geïnstalleerde en -onderhouden
+    WordPress naar hier-heb-je-geld-regel-het Micro.blog hosting, ben ik best tevreden
+    over de laatstgenoemde service. Het is gewoon heel
+  last_post_date: "2025-02-19T20:22:47+01:00"
+  last_post_link: https://frankmeeuwsen.com/2025/02/19/samenvattingen-bij-blogposts.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6c47c1d3806ef7961c273ba5b5e077e1
+  last_post_guid: bef1d8075771c6da45268887936fda9f
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 13
+  avgpostlen: 0
 ---

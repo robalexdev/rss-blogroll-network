@@ -1,6 +1,6 @@
 ---
 title: TordJ's Blogg - Fri kultur och programvara
-date: "2024-07-04T08:28:43+02:00"
+date: "2024-08-31T10:41:15+02:00"
 description: |-
   En blogg för att främja fri kultur, fri programvara och ett fritt internet.
   Fokus är på Ubuntu, Creative Commons och Piratpartiet med en fräsch blandning av nyheter, analyser, musik-/film
@@ -67,15 +67,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 288
 ---

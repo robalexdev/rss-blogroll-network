@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: e3d3a34f3dbf0f30e37f4f73bd28cfc4
   websites:
-    https://kenhys.hatenablog.jp/archive/category/PlanetDebian: true
+    https://kenhys.hatenablog.jp/archive/category/PlanetDebian: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -18,34 +18,36 @@ params:
   categories:
   - PlanetDebian
   relme: {}
-  last_post_title: apt-upgrade-canary - PoC apt JSON hook use case
+  last_post_title: Stick to boot from 6.11 linux-image
   last_post_description: |-
-    apt-upgrade-canary is a helper program to alert when upgrading
-    packages via apt.
+    Since Dec 2024, there is a compatibility issue with linux-image 6.12 and nvidia-driver 535.216.03.
 
-    If there are some packages which causes a critical or serious
-    bug, it shows warnings for terminal.
+    #1089513 - nvidia-driver: crash in drm_open_helper on Linux 6.12.3 - Debian Bug report logs
 
-    Then you can stay
-  last_post_date: "2024-07-24T21:03:47+09:00"
-  last_post_link: https://kenhys.hatenablog.jp/entry/2024/07/24/210347
+    It
+  last_post_date: "2025-01-13T17:24:05+09:00"
+  last_post_link: https://kenhys.hatenablog.jp/entry/2025/01/13/172405
   last_post_categories:
   - PlanetDebian
   last_post_language: ""
-  last_post_guid: 83a4388589888a8592c21a8d58d1f994
+  last_post_guid: b6cae8670ad0463c2c58cbc9c1f57d36
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 11
+    website: 1
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 26
+  avgpostlen: 0
 ---

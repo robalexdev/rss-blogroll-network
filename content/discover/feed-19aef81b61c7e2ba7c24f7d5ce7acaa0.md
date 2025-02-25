@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2024-08-30T15:36:26+02:00"
+date: "2025-01-19T18:06:28+01:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -15,33 +15,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Community
   - OSGeo
+  - Software
   relme: {}
-  last_post_title: Plugins entwickeln für PhpStorm am Beispiel von Mapbender
-  last_post_description: Integrierte Entwicklungsumgebungen (IDEs) bringen von Haus
-    aus schon viel Funktionalität mit. Fehlt allerdings noch eine Funktionalität,
-    lässt sich diese oft auch über ein selbst entwickeltes
-  last_post_date: "2024-08-14T15:40:00+02:00"
-  last_post_link: https://wheregroup.com/blog/plugins-entwickeln-fuer-phpstorm-am-beispiel-von-mapbender/
+  last_post_title: 'Datenschutzkonforme Bildveröffentlichung: Gesichter und Nummernschilder
+    automatisch verpixeln mit Python'
+  last_post_description: Autokennzeichen und Gesichter verpixeln und datenschutzkonforme
+    Bilder erstellen mit Python in nur wenigen Schritten. Wir zeigen wieâ€™s geht.
+  last_post_date: "2024-12-06T10:05:00+01:00"
+  last_post_link: https://wheregroup.com/blog/datenschutzkonforme-bildveroeffentlichung-gesichter-und-nummernschilder-automatisch-verpixeln-mit-python/
   last_post_categories:
-  - Community
   - OSGeo
+  - Software
   last_post_language: ""
-  last_post_guid: 0b6fa8ea20297792c2391bedaa4757a2
+  last_post_guid: b85313d104214393507f4df8d868946b
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 52
+  avgpostlen: 0
 ---

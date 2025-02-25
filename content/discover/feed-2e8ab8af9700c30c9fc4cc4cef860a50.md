@@ -17,28 +17,34 @@ params:
   categories:
   - Qt 4
   relme: {}
-  last_post_title: Beaver Debugger
-  last_post_description: Beaver Debugger is a cross platform gdb/msvc debugger front
-    end.
-  last_post_date: "2009-10-21T21:48:29Z"
-  last_post_link: http://pasnox.tuxfamily.org/project/beaverdbg
+  last_post_title: Fresh
+  last_post_description: |-
+    Fresh is a library extending the Qt library by adding new classes/widgets.
+    It's developped mainly by Filipe AZEVEDO (Nox P@sNox, pasnox@gmail.com).
+    The library has Python bindings created by Andrei
+  last_post_date: "2011-06-19T13:02:17Z"
+  last_post_link: http://pasnox.tuxfamily.org/project/fresh
   last_post_categories:
   - Qt 4
   last_post_language: ""
-  last_post_guid: 20b90db025fa4ff3320aa398a0a2e0b8
+  last_post_guid: 665da195b84b2c152289c2e05b86763a
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

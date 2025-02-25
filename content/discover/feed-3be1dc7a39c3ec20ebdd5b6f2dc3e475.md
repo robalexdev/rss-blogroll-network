@@ -10,35 +10,40 @@ params:
     https://blog.reveng.ai/: true
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI Models for Decompiling Assembly Code
+  last_post_title: One ClickFix and LummaStealer reCAPTCHA’s Our Attention - Part
+    1
   last_post_description: |-
-    Introduction
-    The challenge of converting low-level assembly code back into human-readable source code is a cornerstone problem in reverse engineering. In this post, we summarise recent work done at
-  last_post_date: "2024-11-16T10:12:41Z"
-  last_post_link: https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/
+    Executive Summary
+    Throughout 2024, RevEng.AI has been actively monitoring LummaStealer as part of its mission to uncover and analyse emerging threats across the commodity malware landscape. In mid
+  last_post_date: "2025-01-30T12:10:25Z"
+  last_post_link: https://blog.reveng.ai/one-clickfix-and-lummastealer-recaptchas-our-attention-part-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: faa50da7510a211d545a6210f9bd2791
+  last_post_guid: 2165439d56e4e7a4ad78611f3d0ba35f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 0
 ---

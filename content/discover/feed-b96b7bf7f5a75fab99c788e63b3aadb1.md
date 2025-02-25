@@ -1,6 +1,6 @@
 ---
 title: Anything goes
-date: "2024-08-27T02:56:02-07:00"
+date: "2025-02-07T22:24:48-08:00"
 description: random and perhaps useful information
 params:
   feedlink: https://tsengf.blogspot.com/feeds/posts/default/-/emacs
@@ -29,13 +29,16 @@ params:
   - linux
   - network
   - openwrt
+  - otg
   - pihole
+  - pizero
   - politics
   - raspberrypi
   - raspbian
   - repair
   - shopping
   - technology
+  - usb
   - utility
   - windows
   - wrt
@@ -53,15 +56,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 24
+  avgpostlen: 280
 ---

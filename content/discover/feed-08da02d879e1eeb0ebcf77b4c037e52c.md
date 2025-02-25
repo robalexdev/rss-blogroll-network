@@ -21,26 +21,32 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: We do this not because it's easy
-  last_post_description: but because we thought it would be easy.
-  last_post_date: "2024-08-25T21:30:09Z"
-  last_post_link: https://activitypub.ghost.org/untitled/
+  last_post_title: Loading-spinner.gif
+  last_post_description: Hello again! It's us, your friendly neighborhood ActivityPugs
+    — with a short-form update for you this week about what we've been up to.Firstly,
+    thanks so much for all your comments and thoughtful
+  last_post_date: "2025-02-23T21:38:26Z"
+  last_post_link: https://activitypub.ghost.org/loading-spinner-gif/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b54c7fc8833536e2f4c356bb371b58c
+  last_post_guid: 20852a9057257be4071ff39d98d862e6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eleventy Blog
-date: "2024-07-31T00:00:00Z"
+date: "2025-01-13T00:00:00Z"
 description: News and updates about the Eleventy static site generator project.
 params:
   feedlink: https://11ty.dev/blog/feed.xml
@@ -16,29 +16,32 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: Eleventy v3.0.0-beta.1 now available
+  last_post_title: Eleventy Super Professional Linkedin Certification
   last_post_description: ""
-  last_post_date: "2024-07-31T00:00:00Z"
-  last_post_link: https://www.11ty.dev/blog/three-point-oh-beta-one/
+  last_post_date: "2025-01-13T00:00:00Z"
+  last_post_link: https://www.11ty.dev/blog/certification/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16be69bda732c00b1cee3d1658edb23e
+  last_post_guid: 2d275714357153ea334845a0beaa87c7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 262
 ---

@@ -1,6 +1,6 @@
 ---
 title: DFW Pythoneers
-date: "2024-08-28T06:12:19-07:00"
+date: "2024-10-04T19:16:52-07:00"
 description: A Python user group active in the Dallas-Fort Worth area since 2004.
 params:
   feedlink: https://dfwpython.blogspot.com/feeds/posts/default
@@ -28,15 +28,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 11
+  avgpostlen: 296
 ---

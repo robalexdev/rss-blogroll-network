@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2024-08-25T11:27:52Z"
+date: "2025-02-21T23:28:23Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -20,15 +20,16 @@ params:
   recommended: []
   recommender:
   - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
   - '["personal"]'
   relme:
     https://bulltown.joejenett.com/: true
+    https://bulltown.neocities.org/: true
     https://directory.jenett.org/: true
     https://directory.joejenett.com/: true
-    https://fediverse-webring-enthusiasts.glitch.me/profiles/jenett_toot.community/index.html: true
     https://github.com/joejenett: true
     https://ideas.joejenett.com/: true
     https://iwebthings.jenett.org/: true
@@ -50,29 +51,33 @@ params:
     https://toot.community/@jenett: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: sunfire
-  last_post_description: My day starts now. It’s taken me this long to get in gear.
-    Three hours in, I’m ready to put challenges aside and move forward. There’s sunfire
-    in my heart now, handmade from the heart of
-  last_post_date: "2024-08-18T12:11:06Z"
-  last_post_link: https://simply.joejenett.com/sunfire/
+  last_post_title: simply.profound
+  last_post_description: It’s like we’ve all been given a 4 year prison sentence,
+    without parole, for a crime we did not commit. // Brad Enslen’s Blog - Feb 20,
+    2025 (cross-posted to mastodon)
+  last_post_date: "2025-02-21T22:15:19Z"
+  last_post_link: https://simply.joejenett.com/simply-profound/
   last_post_categories:
   - '["personal"]'
   last_post_language: ""
-  last_post_guid: d4a02a9c0c97d3deb4d0cc20dd9a0cbf
+  last_post_guid: 53115dc8c6a288003c636fd99942fdbe
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 8
+  avgpostlen: 233
 ---

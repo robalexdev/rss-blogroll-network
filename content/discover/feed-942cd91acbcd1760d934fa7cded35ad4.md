@@ -17,29 +17,37 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Meetup 2024/2 - 13 Juin - Bordeaux
+  last_post_title: Debian France renouvelle ses instances
   last_post_description: |-
-    Debian France organise un nouveau meetup à Bordeaux avec le soutien de Yaal Coop et de Collabora.
+    AGO de Debian France
 
-    Il se déroulera le 13 Juin 2024 à partir de 18h00 au Yack (l'espace de co-working de Yaal) à
-  last_post_date: "2024-06-07T18:06:43+02:00"
-  last_post_link: http://france.debian.net/posts/2024/Meetup_02_Bordeaux/
+    Rappel
+
+    L'assemblée générale annuelle de l'association Debian-France vient de se
+    terminer. Pour rappel, Debian France est une association qui se propose de
+    représenter
+  last_post_date: "2024-09-26T08:11:14+02:00"
+  last_post_link: http://france.debian.net/posts/2024/renouvellement_instances_2024/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0db3ffb4d9cbd02a9f7612b271645ec3
+  last_post_guid: 5397cffc0113cae58b6785e83c1e451d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

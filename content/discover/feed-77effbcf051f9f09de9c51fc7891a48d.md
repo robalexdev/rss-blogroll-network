@@ -1,6 +1,6 @@
 ---
 title: Dan on Python
-date: "2024-08-03T18:48:41-07:00"
+date: "2024-10-25T00:41:23-07:00"
 description: ""
 params:
   feedlink: https://strombrg.blogspot.com/feeds/posts/default/-/Python
@@ -38,15 +38,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 14
+  avgpostlen: 256
 ---

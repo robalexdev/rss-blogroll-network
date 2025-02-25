@@ -9,8 +9,7 @@ params:
   feedlink: https://buttondown.email/ownyourweb/rss
   feedtype: rss
   feedid: 838fdce3abaef2a179f2fcccd7c22ba3
-  websites:
-    https://buttondown.email/ownyourweb: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Colin Walker's readroll
@@ -32,41 +31,49 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
-  - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/posts-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: 'Own Your Web – Issue 15: Home Sweet Home'
-  last_post_description: "Hi All! \U0001F917\nLet’s talk about the first thing many
-    of your visitors will see and thus one of the most important places on any personal
-    website: the home page. “The home” is where you leave a"
-  last_post_date: "2024-08-04T18:38:19Z"
-  last_post_link: https://buttondown.com/ownyourweb/archive/issue-15/
+  last_post_title: 'Own Your Web – Issue 17: Jump Start'
+  last_post_description: "Hi All! \U0001F917\nAnd then, one cold evening in December,
+    my car broke down. In the middle of the intersection, right when the traffic lights
+    turned green and I was about to leave. The engine, which had"
+  last_post_date: "2025-01-01T18:03:52Z"
+  last_post_link: https://newsletter.ownyourweb.site/archive/issue-17/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d1006c303e3bb71961a4603624866ab
+  last_post_guid: ff2a3b73ea81deccc1a248fe80baf3bf
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 13
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 17
+  avgpostlen: 0
 ---

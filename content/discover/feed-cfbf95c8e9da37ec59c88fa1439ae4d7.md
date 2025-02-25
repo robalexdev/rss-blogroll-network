@@ -1,6 +1,6 @@
 ---
 title: QtWebKit Developer Journal
-date: "2024-08-28T21:06:05+02:00"
+date: "2024-10-26T07:56:10+02:00"
 description: Ramblings from developers working on QtWebKit
 params:
   feedlink: https://qtwebkit.blogspot.com/feeds/posts/default/-/qt
@@ -43,15 +43,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 2
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 2
+  avgpostlen: 295
 ---

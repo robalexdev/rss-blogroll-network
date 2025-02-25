@@ -1,6 +1,6 @@
 ---
 title: mark.py
-date: "2024-08-28T02:03:35+08:00"
+date: "2024-09-09T18:23:37+08:00"
 description: Things that spring to my mind on pywinauto, betterbatch and other stuff.
 params:
   feedlink: https://pywinauto.blogspot.com/atom.xml
@@ -29,15 +29,19 @@ params:
     cats: 2
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 19
+  avgpostlen: 287
 ---

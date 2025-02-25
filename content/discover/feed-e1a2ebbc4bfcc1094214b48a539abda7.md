@@ -1,6 +1,6 @@
 ---
 title: Max Böck
-date: "2024-08-28T00:00:00Z"
+date: "2025-01-19T00:00:00Z"
 description: Max Böck is a professional front-end developer based in Vienna, Austria.
 params:
   feedlink: https://mxb.dev/feed.xml
@@ -9,6 +9,7 @@ params:
   websites:
     https://mxb.dev/: true
     https://mxb.dev/notes: false
+    https://mxb.dev/notes/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -20,33 +21,39 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://repc.co/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme:
     https://front-end.social/@mxbck: true
     https://github.com/maxboeck: true
     https://mxb.dev/: true
-  last_post_title: Live CMS Previews with Sanity and Eleventy
+  last_post_title: Faster Horses
   last_post_description: ""
-  last_post_date: "2024-08-28T00:00:00Z"
-  last_post_link: https://mxb.dev/blog/live-cms-previews-with-sanity-and-eleventy/
+  last_post_date: "2025-01-19T00:00:00Z"
+  last_post_link: https://mxb.dev/blog/faster-horses/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 55d6562333eb8d81c15c6e83e893e7b0
+  last_post_guid: 62d72f295c61afdc65f3567c51a251ad
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 52
+  avgpostlen: 296
 ---

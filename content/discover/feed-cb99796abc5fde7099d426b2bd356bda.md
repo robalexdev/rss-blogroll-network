@@ -1,6 +1,6 @@
 ---
 title: Prosody In Google Summer of Code
-date: "2024-07-04T06:45:14+01:00"
+date: "2024-10-24T22:49:46+01:00"
 description: The road to build a plugin installer is ahead!
 params:
   feedlink: https://gsoc-prosody-2019.blogspot.com/feeds/posts/default
@@ -22,7 +22,9 @@ params:
   - prosody
   - prosodyctl
   relme:
+    https://eiyapah.blogspot.com/: true
     https://gsoc-prosody-2019.blogspot.com/: true
+    https://www.blogger.com/profile/13709646787627337978: true
   last_post_title: Final GSoC Report - Prosody Plugin Installer!
   last_post_description: ""
   last_post_date: "2019-09-02T17:00:13+01:00"
@@ -34,15 +36,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 13
+  avgpostlen: 292
 ---

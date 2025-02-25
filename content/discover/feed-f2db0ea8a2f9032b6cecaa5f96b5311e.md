@@ -17,28 +17,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Fischer, Part 4: Configuring Django Authentication'
-  last_post_description: Today I'd like to experiment with some nice interfaces for
-    tagging and showing tagged bookmarks. But it feels too clunky to log into the
-    django admin then navigate back, so first I want to get Django
-  last_post_date: "2024-10-08T08:27:42-04:00"
-  last_post_link: https://geoff.tuxpup.com/posts/90s-homepage-5/
+  last_post_title: Mailpit for Web Apps that Send Email
+  last_post_description: Almost every time I build a web gadget, I need to send a
+    few emails. Making sure those messages are sent when they should and look the
+    way they should is a real weak point of django tooling, IMO.
+  last_post_date: "2025-02-09T09:00:18-05:00"
+  last_post_link: https://geoff.tuxpup.com/posts/mailpit/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a070e9b8545706043e3e7c447a98cbc6
+  last_post_guid: 303efb3316301a6b8d90a70d3f97b1c3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 62
+  avgpostlen: 0
 ---

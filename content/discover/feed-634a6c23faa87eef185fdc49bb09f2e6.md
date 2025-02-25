@@ -1,6 +1,6 @@
 ---
 title: /dev/loki
-date: "2024-07-08T08:07:13+02:00"
+date: "2024-09-04T20:42:00+02:00"
 description: openSUSE, Linux, RPM/packaging, development (Java, C++, PHP, ..) or whatever
 params:
   feedlink: https://feeds.feedburner.com/dev-loki
@@ -115,15 +115,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 293
 ---

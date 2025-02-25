@@ -1,6 +1,6 @@
 ---
 title: __anish__
-date: "2024-02-18T19:11:15-08:00"
+date: "2024-09-13T06:43:45-07:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/6330730923516614261/posts/default
@@ -95,15 +95,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 295
 ---

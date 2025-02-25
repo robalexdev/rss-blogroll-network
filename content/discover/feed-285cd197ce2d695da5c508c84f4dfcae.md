@@ -10,36 +10,39 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Gelsemium’s Shift to Linux Malware with WolfsBane and FireWood
-    (Campaign)
-  last_post_description: ESET researchers have identified two Linux backdoors, WolfsBane
-    and FireWood, linked to the China-aligned Gelsemium APT group. WolfsBane is the
-    Linux counterpart of Gelsevirine, a Windows backdoor,
-  last_post_date: "2024-11-21T00:00:00Z"
-  last_post_link: https://threats.wiz.io/all-incidents/gelsemiums-shift-to-linux-malware-with-wolfsbane-and-firewood
+  last_post_title: RevivalStone Campaign by Winnti (Campaign)
+  last_post_description: The China-linked APT group Winnti (APT41) has been linked
+    to a new cyber espionage campaign, RevivalStone, targeting Japanese manufacturing,
+    materials, and energy companies in March 2024. The attack,
+  last_post_date: "2025-02-18T00:00:00Z"
+  last_post_link: https://threats.wiz.io/all-incidents/revivalstone-campaign-by-winnti
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d5545faff58a53dbd59cb508866cce91
+  last_post_guid: efec691d1c624dad2685dc22500ea4f6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 322
+  avgpostlen: 0
 ---

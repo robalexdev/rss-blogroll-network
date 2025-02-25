@@ -38,6 +38,8 @@ params:
   - https://bitsplitting.org/feed/podcast
   - https://dahlstrand.net/podcast.xml
   - https://jonhays.me/podcast.xml
+  - https://maique.eu/podcast.xml
+  - https://maique.eu/posts_feed
   - https://mastodon.social/tags/mjtsaiupdate.rss
   - https://mjtsai.com/blog/comments/feed/
   - https://ohhelloana.blog/feed.links.xml
@@ -53,29 +55,32 @@ params:
   - Society & Culture
   relme:
     https://www.manton.org/: true
-  last_post_title: Dark forest of the web
-  last_post_description: |-
-    Jeremy Keith follows up on fighting AI bots, quoting a couple things I’ve said. He closes with:
-
-    There is nothing inevitable about any technology. The actions we take today are what determine our
-  last_post_date: "2024-07-01T09:50:52-05:00"
-  last_post_link: https://www.manton.org/2024/07/01/dark-forest-of.html
+  last_post_title: AI prompts vs. agents
+  last_post_description: If you’re already sick of hearing about AI now, it’s going
+    to get worse in 2025. The next trend is so-called AI agents. Software that can
+    go off and accomplish more tasks on your behalf, with
+  last_post_date: "2025-01-07T10:52:06-06:00"
+  last_post_link: https://www.manton.org/2025/01/07/ai-prompts-vs-agents.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b097bee6be54a2dea0f69a86adc053a5
+  last_post_guid: 0d4f1914da3e2c27b92a517d9d1f4682
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 25
   ispodcast: true
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 6
+  avgpostlen: 0
 ---

@@ -222,6 +222,7 @@ params:
   - 149 Avenue B
   - 149 First Ave.
   - 14A
+  - 14BC Gallery
   - 14D
   - 14t Street
   - 14th @ Irving
@@ -403,6 +404,7 @@ params:
   - 2021 closures
   - "2022"
   - "2023"
+  - "2024"
   - 2024 closings
   - 203 E. 13th St.
   - 204 Avenue A
@@ -490,6 +492,7 @@ params:
   - 25 Bleecker St.
   - 25 E. Seventh St.
   - 25 Great Jones
+  - 25 Stuyvesant St.
   - 250 Bowery
   - 250 E. 14th St.
   - 250 E. Hoouston St.
@@ -592,6 +595,7 @@ params:
   - 321 E. Sixth St.
   - 321 E. Third St.
   - 324 E. 4th Street
+  - 324 E. Fifth St.
   - 325 Bowery
   - 325 E. 10th St.
   - 325 E. 10th Street
@@ -600,6 +604,7 @@ params:
   - 326-328 E. Fourth St.
   - 327 E. 12th St.
   - 327 E. Ninth St.
+  - 328 E. 9th St.
   - 328 E. Sixth St.
   - 329 E. 10th St.
   - 329 E. Ninth St.
@@ -836,6 +841,7 @@ params:
   - 5C Café and Cultural Center
   - 5C Cultural Center and Cafe
   - 6 Avenue B
+  - 6 E. 2nd St.
   - 6 E. Second St.
   - 6 First St.
   - 6 St. Mark's Place
@@ -1028,6 +1034,7 @@ params:
   - ': East River Park'
   - ': East Village history'
   - ': East Village streetscenes'
+  - ': anniversaries'
   - A
   - A & C Kitchen
   - A Building
@@ -1140,6 +1147,7 @@ params:
   - Ali Smith
   - Alibaba Smoke Shop
   - Aliens of Brooklyn
+  - Alison
   - All The King's Horses Cafe
   - All Tomorrow's Parties
   - All-Star game
@@ -1344,6 +1352,7 @@ params:
   - August 2020
   - August 2022
   - August 2023
+  - August 2024
   - August Fridays
   - August Laura
   - Aum Namaste Book & Crystal Gallery
@@ -1400,6 +1409,7 @@ params:
   - B Bar & Grill
   - B Cup
   - B Cup Cafe
+  - B Cup Café
   - B and H
   - B&H Dairy
   - B-52's
@@ -1411,6 +1421,7 @@ params:
   - BBQ
   - BBQ Chicken
   - BHQFU
+  - BKLYN MACS
   - BLT
   - BMW
   - BMW Guggenheim Lab
@@ -1439,6 +1450,7 @@ params:
   - Bad Burger
   - Bad Company
   - Bad Habit
+  - Bad Hombre
   - Bad Lieutenant
   - Bad Pussies mural
   - Bagel Belly
@@ -1463,6 +1475,7 @@ params:
   - Balloon Porn
   - Baltimore
   - Banana Leaf
+  - Bananas
   - Banco Popular
   - Bandslam
   - Banjara
@@ -1484,6 +1497,7 @@ params:
   - Bar None
   - Bar Primi
   - Bar Show 08
+  - Bar Snack
   - Bar Taco
   - Bar Veloce
   - Bar Verde
@@ -1618,6 +1632,7 @@ params:
   - Bill Rice
   - Billy Hurricane's
   - Billy Leroy
+  - Billy idol
   - Billy the Artist
   - Billy's Antiques
   - Bin 141
@@ -1741,8 +1756,11 @@ params:
   - Book Club
   - Book Club Bar
   - Book Swap
+  - Book-Off
+  - Boongs Cafe
   - Bored 2 Death
   - Bored Ape Yacht Club
+  - Boris & Horton
   - Boris and Horton
   - Boris and Norton
   - Borkot Ullah
@@ -1786,6 +1804,7 @@ params:
   - Bowlmor
   - Bowlmor Lanes
   - Box Kite Coffee
+  - Boycott Sleep
   - Boys' Club of New York
   - Brad Hoylman
   - Brandon Sines
@@ -1850,6 +1869,8 @@ params:
   - Bud Light
   - Bud Light Lime Display Tree
   - Buddha Garden
+  - Buddies Coffee
+  - Budget Mart
   - Budget car rental
   - Budweiser
   - Buffalo Exchange
@@ -1863,6 +1884,7 @@ params:
   - Bungalow
   - Burger Town
   - Burger-Klein
+  - Burgerhead
   - Burgers on B
   - Burkelman
   - Burkina
@@ -1957,6 +1979,7 @@ params:
   - Cafe Rama
   - Cafe Sandra
   - Cafe Silan
+  - Cafe Social 68
   - Cafe Zaiya
   - Cafe de L'Enfe
   - Cafecito
@@ -2031,6 +2054,7 @@ params:
   - Catherine Muller
   - Catholic Worker
   - Catholics
+  - Caught Stealing
   - Cava Grill
   - Caviarteria
   - Cecilia
@@ -2123,6 +2147,7 @@ params:
   - Chloe Sevigny
   - Chloë Sevigny
   - Cho-Ko
+  - Chobani House
   - Chocolate Bar
   - Chocolate by the Bald Man
   - Choice Cleaners
@@ -2148,6 +2173,8 @@ params:
   - Christmas 2018
   - Christmas 2019
   - Christmas 2020
+  - Christmas 2024
+  - Christmas 2025
   - Christmas Day
   - Christmas Eve
   - Christmas in April
@@ -2198,6 +2225,7 @@ params:
   - Cinema Nolita
   - Cinema Paradiso
   - Cinema Village
+  - Cinnabon/Carvel
   - Cinnamon Garden
   - Cinnamon Girl
   - Cipriani
@@ -2269,6 +2297,7 @@ params:
   - Cold Stone Creamery
   - Coldplay
   - Cole Porter
+  - Coleman Park
   - Colin Simpson
   - Collateral Beauty
   - Collective Hardware
@@ -2292,6 +2321,7 @@ params:
   - Company Bar and Grill
   - Compare Foods
   - Compilation Coffee
+  - Compton's Sandwich Shop
   - Con Ed
   - Con Ed ConEd substation
   - Con Ed plant
@@ -2318,6 +2348,7 @@ params:
   - Continuum Cycles
   - Contrada
   - Convive Wine & Spirits
+  - Conway Diner
   - Cookie Walk
   - Cookout Grill
   - Cooktop Garden
@@ -2444,6 +2475,7 @@ params:
   - Dan Efram
   - Dan Goldman
   - Dan Marino
+  - Dan Perino
   - Dan Witz
   - Dan and John's Wings
   - Dance Parade 2008
@@ -2468,18 +2500,22 @@ params:
   - Daniel Delaney
   - Daniel Root
   - Daniel's Bike Shop
+  - Danny & Coop's
+  - Danny & Coop’s
   - Danny Cortes
   - Danny Meyer
   - Danny Stiles
   - Danny's Cycles
   - Dante and Diego
   - Darinka
+  - Dark Matter Coffee
   - Darkstar Coffee
   - Darth Vader
   - Darth Vaper
   - Daryl Hall closed my banh mi shop for a night
   - Dash Snow
   - Dashane Santana
+  - Dashwood Projects
   - Dave Crish
   - Davey's Ice Cream
   - David Barton
@@ -2528,6 +2564,7 @@ params:
   - December 2020
   - December 2021
   - December 2023
+  - December 2024
   - Decision 2016
   - Dee Dee Ramone
   - Deep Playa Bike Ride
@@ -2710,6 +2747,7 @@ params:
   - Dunzo Journalism
   - Duo Cafe
   - Duo NYC
+  - DupBopBro
   - Duran Duran
   - Durden
   - Dusty Buttons
@@ -2786,6 +2824,7 @@ params:
   - EVE
   - EVG Etc.
   - EVG Etc. EV Grieve Etc.
+  - EVG Grieve Etc.
   - EVG is not even trying with headlines like this
   - EVG podcast
   - EVG weather
@@ -2795,6 +2834,7 @@ params:
   - EVIMA
   - EVLambo
   - EVLazarus
+  - EVLoveNYC
   - EXPG Studio
   - Eak the Geek
   - Earth Day
@@ -2844,6 +2884,7 @@ params:
   - East Second Street. East Village streetscenes
   - East Seventh Street
   - East Side Coastal Resiliency Project
+  - East Side Coastal Resiliency Project. Delancey Street pedestrian bridge
   - East Side Community School
   - East Side Gourmet Deli
   - East Side Ink
@@ -2951,8 +2992,10 @@ params:
   - East Village streetscene
   - East Village streetscenes
   - East Village streetscens
+  - East Village streetscense
   - East Village stretscenes
   - East Village sunrise
+  - East Village trees
   - East Village tsunami warnings
   - East Village weather
   - East Village weekends
@@ -3084,6 +3127,7 @@ params:
   - Equinox
   - Ergot Records
   - Eric Bogosian
+  - Eric Drooker
   - Eric Garner
   - Eric Mabius
   - Eric Pagan
@@ -3095,6 +3139,7 @@ params:
   - Esperanto Fonda
   - Espoleta
   - Ess-A-Bagel
+  - Essentials Marketplace
   - Essex Card Shop
   - Essex Crossing
   - Essex Flowers
@@ -3150,6 +3195,7 @@ params:
   - FTC Skateboarding
   - Fab 208
   - Fab 5 Freddie
+  - Fabano Florals
   - Fabulous Fanny's
   - Fabulous Nobodies
   - Facebook
@@ -3185,6 +3231,7 @@ params:
   - Father Seán
   - Father's Heart Ministry Center
   - Father’s Heart Ministry Center
+  - Fattoush by Salma
   - Faye Dunaway
   - Feast
   - Feast of San Gennaro
@@ -3204,6 +3251,7 @@ params:
   - Felton Davis
   - Fennec fox
   - Fern Cliff Delicatessen
+  - Fern's
   - Ferrarris
   - Festival Calle 6
   - Festival of Ideas
@@ -3277,12 +3325,14 @@ params:
   - Flower Power
   - Flowerbox
   - Fluffy
+  - Fluffy Fluffy
   - Fly
   - Fly Girl NYC
   - FlyeLyfe
   - Flyfish Club
   - Flywheel Sports
   - Follia
+  - Fomo Momo
   - Fonda
   - Fontana Shoes
   - Fontana's
@@ -3320,6 +3370,7 @@ params:
   - Fran Lebowitz
   - Frances Goldin
   - Francis Bacon
+  - Francis Kite Club
   - Frani Bruni
   - Frank
   - Frank Ape
@@ -3404,6 +3455,7 @@ params:
   - Gardens Rising
   - Garland Jeffreys
   - Gary Busey
+  - Gary Indiana
   - Gary Kurfirst
   - Gary Oldman
   - Gary's Papaya
@@ -3425,6 +3477,7 @@ params:
   - Gene SImmons
   - Gene Wilder
   - Generation Bloomberg
+  - Genre is Death
   - Genshinkan Aikido
   - Gentlemen this is Hell
   - Gentrification in Progress
@@ -3435,6 +3488,7 @@ params:
   - George Schneeman
   - Germans
   - Gestations
+  - Get Ready Golf
   - Getir
   - Ghostbuster references
   - Gia
@@ -3592,6 +3646,7 @@ params:
   - HAGS
   - HBO
   - HDFCs
+  - HEYTEA
   - HOWL
   - HSBC
   - HYSTERIA
@@ -3604,6 +3659,7 @@ params:
   - Hakata Hot Pot
   - Hakata Zen
   - Hal Steinbrenner
+  - Halal Bites Pizza
   - Haley Joel Osment
   - Half Gallery
   - Hall and Oates
@@ -3671,6 +3727,7 @@ params:
   - Heart N' Soul
   - Heart of India
   - Hearth
+  - Hearty & Healthy
   - Heath Ledger
   - Heathers
   - Heathily Deli
@@ -3781,6 +3838,7 @@ params:
   - House
   - House of Fluff
   - House of Munchies
+  - House of Pasta
   - House of Physical Therapy
   - Housewatch
   - Housing Works
@@ -3800,6 +3858,7 @@ params:
   - Howl! Arts/Howl! Archive
   - Howl! Happening
   - Hub Thai
+  - Hubani Restaurant
   - Hudson East
   - Huertas
   - Huey Lewis and the News
@@ -4068,6 +4127,7 @@ params:
   - Jimi Hendrix
   - Jimi Zhivago
   - Jimmy Carbone
+  - Jimmy Carter
   - Jimmy McMillan
   - Jimmy Tarangelo
   - Jimmy Webb
@@ -4077,7 +4137,6 @@ params:
   - Jo's Tacos
   - Joan Crawford
   - Joan Rivers
-  - Joby Joseph
   - Jodie Lane
   - Joe & MissesDoe
   - Joe Ades
@@ -4120,6 +4179,7 @@ params:
   - John Lydon
   - John Marshall Mantel
   - John Milisenda
+  - John Paul II Friendship Center
   - John Penley
   - John Strausbaugh
   - John Street
@@ -4139,6 +4199,7 @@ params:
   - Jonas
   - Jonas Brothers
   - Jonas Mekas
+  - Jonathan Larson
   - Jones Beach
   - Jones Diner
   - Jones LES
@@ -4212,6 +4273,7 @@ params:
   - Kamaran Deli & Grocery
   - Kamaran Deli and Grocery
   - Kambi Ramen House
+  - Kamisama
   - Kamui Den
   - Kane Hodder as the directory of photography
   - Kanoyama
@@ -4270,6 +4332,7 @@ params:
   - Kentucky Derby
   - Kentucky Fried Chicken
   - Kermit
+  - Kernel
   - Ketamine
   - Kevin Bacon
   - Kevin Durant
@@ -4326,6 +4389,7 @@ params:
   - Knit New York
   - Knitting Factory
   - Knitting Factory at Baker Falls
+  - Knock Out Café
   - Ko
   - Kobe Bryant
   - Koffeecake Corner
@@ -4346,6 +4410,7 @@ params:
   - Kotobuki
   - Kraine Theater
   - Kraut
+  - Krave It
   - Krust
   - Kuboya
   - Kulture
@@ -4364,11 +4429,13 @@ params:
   - Kōbo by Nai
   - L train
   - L train entrances
+  - L&L Hawaiian Barbeque
   - L'Apicio
   - L'asso EV
   - L-train
   - L-train shutdown
   - L-train slowdown
+  - L.A. wildfires
   - L.E.S. Jewels
   - LES Bid
   - LES Clothing Co.
@@ -4575,6 +4642,7 @@ params:
   - Lola
   - Lolita Bar
   - Lollo Italian Restaurant
+  - Lollo Ristorante Pizzeria & Bar
   - London
   - Long Bay
   - Looker
@@ -4601,10 +4669,13 @@ params:
   - Louis Rodriguez
   - Love & Sex on 10th Street
   - Love Gang
+  - Love Mi
   - Love Not Money
+  - Love Only
   - Love Saves the Day
   - Love Shine
   - Love Thy Beast
+  - Love Zakka Mini Mart
   - Love is a Battlefield
   - LoveMi Yogurt
   - Lovecraft
@@ -4651,6 +4722,7 @@ params:
   - Ludlow Street
   - Lui's
   - Lui's Thai Food
+  - Luigi
   - Luigi's 3rd Ave. Pizza
   - Luke's Lobster
   - Lukka
@@ -4671,6 +4743,7 @@ params:
   - Lydia Lunch
   - Lydia's
   - Lyric Diner
+  - LÀ LÁ Bakeshop
   - M & J Asian Cuisine
   - M Sonii
   - M&G Foodstuff
@@ -4789,6 +4862,7 @@ params:
   - March gallery
   - Marcha Cocina
   - Mardi Gras
+  - Maretta
   - Marfa
   - Margarita March
   - Margot Gayle
@@ -4815,6 +4889,7 @@ params:
   - Marmaduke
   - Maroon 5
   - Marquee
+  - Mars
   - Mars Bar
   - Mars Bars
   - Marshall Stack
@@ -4838,6 +4913,7 @@ params:
   - Marylou
   - Marymount Manhattan College
   - Masak
+  - Mascot Flats
   - Mascot Studio
   - Mashawsha to go
   - Mashbill
@@ -5010,6 +5086,7 @@ params:
   - Minca Ramen Factory
   - Minetta Tavern
   - Mini Burger
+  - Mini Gourmet Deli
   - Mink DeVille
   - Minnie McSorley
   - Minor Threat
@@ -5108,6 +5185,7 @@ params:
   - Mozzarella Pizza
   - Mr. Bing
   - Mr. C's
+  - Mr. KEKE Ramen
   - Mr. Kim
   - Mr. Lower East Side
   - Mr. Lower East Side Pageant
@@ -5117,6 +5195,7 @@ params:
   - Mr. Robot
   - Mr. Throwback
   - Mr. White
+  - Mrs. Green
   - Mud Truck
   - Mudspot
   - Mudspot Café
@@ -5327,6 +5406,7 @@ params:
   - Nicoletta
   - Nicolina
   - Niconeco Zakkaya
+  - Night Club 101
   - Night Music
   - Night of 1000 Stevies
   - Nightengale Lounge
@@ -5348,6 +5428,7 @@ params:
   - Nizga Liquors
   - No 7-Eleven
   - No Bar
+  - No Fork
   - No Fun
   - No Kids in Cages
   - No Malice Palace
@@ -5373,6 +5454,7 @@ params:
   - Nolita hot spots
   - Nomad
   - Nonna's Pizza
+  - Noona's Ice Cream + Bakeshop
   - Noor
   - Noot Seear
   - Nor'easter
@@ -5381,6 +5463,7 @@ params:
   - Norman's Sound & Vision
   - Norman's Sound and Vision
   - North River
+  - Northern Lights
   - Northern Spy
   - Northwest East Village
   - Nostro
@@ -5393,6 +5476,7 @@ params:
   - November 2021
   - November 2022
   - November 2023
+  - November 2024
   - Novum EV
   - Now I'm just being stupid
   - Now Yoga
@@ -5435,6 +5519,7 @@ params:
   - October 2021
   - October 2022
   - October 2023
+  - October 2024
   - October's Very Own
   - Octoberfest
   - Odd Eye NYC
@@ -5492,6 +5577,7 @@ params:
   - Opheum
   - Opportunity Zone
   - Oprah
+  - Ops
   - Optyx
   - Orange
   - Orange is the New Black
@@ -5602,6 +5688,7 @@ params:
   - Party WIth Sluts
   - Passing Stranger
   - Past Lives
+  - Pasta Rullo
   - Pasta de Pasta
   - Pastel Spa and Nails
   - Pat Benatar
@@ -5686,6 +5773,7 @@ params:
   - Phil Mushnick
   - Philip Glass
   - Philip Seymour Hoffman
+  - Phivi Box
   - Phony Express
   - Photo Tech
   - Photobooth
@@ -5831,6 +5919,7 @@ params:
   - Pukk
   - Pulaski Day Parade
   - Pulino's Bar and Pizzeria
+  - Pulp
   - Punjabi Grocery & Deli
   - Punjabi Grocery and Deli
   - Punk Art
@@ -6134,6 +6223,7 @@ params:
   - Saint's Alp Teahouse
   - Saints Tavern
   - Sakagura
+  - Sake Bar Asoko
   - Sal's
   - Sal's Pizza
   - Salad Days
@@ -6146,6 +6236,7 @@ params:
   - Salter House
   - Saltwater NYC
   - Salvador Dalí
+  - Salvage Cloth
   - Salvation Army
   - Sam & Sadie Koenig Garden
   - Sam Chang
@@ -6189,6 +6280,7 @@ params:
   - SantaCon 2019
   - SantaCon 2022
   - SantaCon 2023
+  - SantaCon 2024
   - SantaCon Detour
   - Santander
   - Santcon
@@ -6262,6 +6354,7 @@ params:
   - Second on Second
   - Secret Garden
   - Secretariat
+  - See Hear
   - Segway
   - Sei Shin Dojo
   - Select Bus
@@ -6278,6 +6371,7 @@ params:
   - September 2021
   - September 2022
   - September 2023
+  - September 2024
   - Serendipity
   - Serenity Spa
   - Sesame Street
@@ -6356,6 +6450,7 @@ params:
   - Sing Sing Karaoke
   - Sing for Hope
   - Single and the City
+  - Sinsa
   - Sintir
   - Sioné
   - Siouxsie and the Banshees
@@ -6411,6 +6506,7 @@ params:
   - Social Tees
   - Sock Man
   - Soda Club
+  - Sofaclub
   - Sogie Mart Rolls & Puffs
   - Soho Billiards
   - Soho Grand
@@ -6510,6 +6606,7 @@ params:
   - St. Mark's Ale House
   - St. Mark's Bookshop
   - St. Mark's Burger
+  - St. Mark's Burgers & Dogs
   - St. Mark's Church in-the-Bowery
   - St. Mark's Church-in-the-Bowery
   - St. Mark's Comics
@@ -6525,6 +6622,7 @@ params:
   - St. Marks Cinema
   - St. Marks Is Dead
   - St. Marks Place
+  - St. Marks Veterinary Hospital
   - St. Mark’s Church Greenmarket
   - St. Mark’s Comics
   - St. Nicholas of Myra Orthodox Church
@@ -6533,6 +6631,7 @@ params:
   - St. Patrick's Day 2019
   - St. Stanislaus
   - St. Vincent's
+  - St.Mark's Place
   - Stable Court
   - Stacie Joy
   - Stage
@@ -6663,6 +6762,7 @@ params:
   - Sunburnt Cow
   - Sunday C&C Eatery
   - Sunday Dreamin'
+  - Sunday Morning
   - Sundays
   - Sunflower
   - Sunflower Bean
@@ -6687,6 +6787,7 @@ params:
   - Surfbort
   - Surma Books and Music
   - Surnburnt Cow
+  - Surprise Scoop
   - Surprise! Surprise!
   - Surprise! Surprise! high rents
   - Susan Blond
@@ -6696,6 +6797,7 @@ params:
   - Susan Setzer
   - Susan Stetzer
   - Sushi & Sake
+  - Sushi Counter
   - Sushi Dojo
   - Sushi Fan
   - Sushi Kai
@@ -6733,6 +6835,7 @@ params:
   - T.G.I. Friday's
   - TATS CRU
   - TD Bank
+  - TDA
   - TF
   - TGI Friday's
   - TIle Bar
@@ -6807,6 +6910,7 @@ params:
   - Tatyana
   - Tau Delta Phi
   - Taureau
+  - Taverna East Village
   - Taverna Kyclades
   - Taxi Dances
   - Taxi Driver
@@ -6889,6 +6993,7 @@ params:
   - The Bourgeois Pig
   - The Bowery Diner
   - The Bowery District
+  - The Bowery Electric
   - The Bowery Market
   - The Bowery Mission
   - The Bowery Poet Tree
@@ -6912,6 +7017,7 @@ params:
   - The Cock
   - The Coffee Shop
   - The Commodore
+  - The Community Boutique & Café
   - The Continental
   - The Crack™
   - The Cramps
@@ -6955,6 +7061,7 @@ params:
   - The Exterminator
   - The Eyes of Laura Mars
   - The Fern
+  - The Flowery
   - The Food Network
   - The Foreigner
   - The Forward
@@ -7168,6 +7275,7 @@ params:
   - Tiger
   - Tiger Lily Kitchen
   - Tikbuk2
+  - Tiki Tiki
   - Tiki on 12th
   - Tilted Axes Mobile Electric Guitar Procession
   - Tim Burton
@@ -7184,6 +7292,7 @@ params:
   - Times Up
   - Timna
   - Timna NYC
+  - Timothée Chalamet
   - Tina Turner
   - Tina Turnstile
   - Tina's Cuban Cuisine
@@ -7193,6 +7302,7 @@ params:
   - Tiny Empire
   - Tiny's
   - Tio Pio
+  - Tipsy Shanghai
   - Tish and Snooky
   - Tits Dick Ass
   - To Eat Sushi
@@ -7346,6 +7456,7 @@ params:
   - Typhoon Lounge
   - Tyra Banks
   - Tyson Beckford
+  - Tōka Chef Kitchen
   - U.S. Air Force
   - U.S. Open
   - U2
@@ -7403,6 +7514,7 @@ params:
   - Uogashi
   - Uogasji
   - Upper West Side
+  - Upperz Cafe and Bar
   - Upright Citizens Brigade
   - Upworthy headline jokes are so May 2014
   - Urbain J. Ledoux
@@ -7469,6 +7581,7 @@ params:
   - VeryThai
   - Veselka
   - Veselka Bowery
+  - Veteran's Day
   - Veterans Day
   - Via Della Pace
   - Via Della Pace Pizza
@@ -7517,6 +7630,7 @@ params:
   - Vincent Gallo
   - Vincent Spano
   - Vinny Vincenz
+  - Vintage Store
   - Vinyl
   - Vinyl Market
   - Vio
@@ -7530,6 +7644,7 @@ params:
   - Vitamin Shoppe
   - Viva Cucina
   - Viva Herbal Pizzeria
+  - Viva! Cafe
   - Vivi Bubble Tea
   - Vogue
   - VolaVida Gallery
@@ -7566,12 +7681,14 @@ params:
   - Walmart
   - Walter De Maria
   - Walter Kühr
+  - Walter Salas-Humar
   - Walter Wlodarczyk
   - Walter's
   - Wanyoo Café
   - Wara
   - Warwick
   - Wasan
+  - Wash & Fold
   - Washington Mutual
   - Washington Square Park
   - Water Street
@@ -7621,12 +7738,14 @@ params:
   - Whitebox
   - Whitehouse
   - Whitehouse Hotel
+  - Whitmans
   - Whitney Houston
   - Who killed Heath Ledger
   - Whodini
   - Whole Earth Bakery and Kitchen
   - Whole Foods
   - Whole Foods Bowery
+  - Whole Foods Market StuyTown
   - Whynot Coffee
   - Wi-Fi
   - WiFi
@@ -7702,9 +7821,11 @@ params:
   - Yaki Sushi
   - Yakiniku West
   - Yam!
+  - Yankee Deli
   - Yankee Stadium
   - Yankee Tavern
   - Yankees Stadium
+  - Yawning Cobra
   - Yellow Page
   - Yellow Rose
   - Yelp
@@ -8229,6 +8350,7 @@ params:
   - closed for renovations
   - closed for some reasons
   - closing 2020
+  - closing 2024
   - closings
   - closings 2018
   - closings 2019
@@ -8237,9 +8359,11 @@ params:
   - closings 2022
   - closings 2023
   - closings 2024
+  - closings 2025
   - closoings 2021
   - closures 2021
   - closures 2022
+  - closures 2024
   - clothes make the man
   - clothing exchange
   - clouds
@@ -8443,6 +8567,7 @@ params:
   - discarded things
   - discarded toilets
   - disco
+  - discount store
   - discovering New York
   - discussions that I missed
   - dives
@@ -8541,6 +8666,7 @@ params:
   - election 2016
   - election 2017
   - election 2022
+  - election 2024
   - election day
   - electrical shock
   - elephants
@@ -8557,6 +8683,7 @@ params:
   - essays
   - euphemisms for masterbation
   - every Friday at 5
+  - every Friday at 5 music videos
   - every Friday at 5. music videos
   - everyone loves cyclists
   - everything is about the Penistrator now
@@ -8593,6 +8720,7 @@ params:
   - fall 2017
   - fall 2019
   - fall 2020
+  - fall 2024
   - fallen limbs
   - falling air conditioners
   - falling branches
@@ -9176,6 +9304,7 @@ params:
   - logs
   - loitering
   - look it's 14th Street
+  - look-alike contests
   - looking at New York circa 1998
   - looking at old New York
   - looking at old New York circa 2001
@@ -9298,6 +9427,7 @@ params:
   - more room for condos
   - mosaics
   - mosque
+  - mosquitos
   - motorcycles
   - motorhomes
   - movie ads
@@ -9376,6 +9506,7 @@ params:
   - new places that close for renovation
   - new political parties
   - new res
+  - new restauants
   - new restaurant
   - new restaurants
   - new restaurants sort of
@@ -9611,6 +9742,7 @@ params:
   - plastic
   - plastic bags
   - playgrounds
+  - plays
   - please explain
   - please indulge me with this post
   - pleasure carts
@@ -10261,6 +10393,7 @@ params:
   - the Chinese Hawaiian Kenpo Academy
   - the Citizens of the Anthropocene
   - the Clemente Center
+  - the Clemente Soto Velez Cultural and Educational Center
   - the Coen Brothers
   - the Colonel
   - the Con Ed plant
@@ -10658,6 +10791,7 @@ params:
   - volt
   - vomit
   - vote
+  - vote NYC
   - voting
   - voting Election 2020
   - vowels
@@ -10815,33 +10949,37 @@ params:
   - zombies
   - zoning
   - zpizza
+  - ¡Adios Amigos!
   - Íxta
   relme: {}
-  last_post_title: Gov. Hochul makes a splash with funding for new in-ground swimming
-    pool at Tompkins Square Park
-  last_post_description: Say so long to to Tompkins Square Park mini pool. (And yes,
-    Tompkins Square Park has a mini pool.) On Wednesday, Gov. Hochul announced nearly
-    $150 million in capital grants to fund 37 projects "as
-  last_post_date: "2024-08-30T12:30:00Z"
-  last_post_link: http://evgrieve.com/2024/08/gov-hochul-makes-splash-with-funding.html
+  last_post_title: 'Reports: 20-year-old East Village man dies in stabbing on the
+    Lower East Side'
+  last_post_description: "Two men stabbed, one fatally, on Manhattan’s Lower East
+    Side https://t.co/HnEwCOIeoW— New York Daily News (@NYDailyNews) January 19, 2025
+    \n\nTwo young men were stabbed on a Lower East Side street"
+  last_post_date: "2025-01-19T18:20:00Z"
+  last_post_link: http://evgrieve.com/2025/01/reports-20-year-old-east-village-man.html
   last_post_categories:
-  - Tompkins Square Park
-  - Tompkins Square Park mini pool
+  - crime
   last_post_language: ""
-  last_post_guid: 2a7d3af938924777c130de212b26fa6b
+  last_post_guid: abcd6b8c805d5aebc4455d208aec1812
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

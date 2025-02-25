@@ -1,6 +1,6 @@
 ---
 title: itm4n's blog
-date: "2024-10-05T11:58:57+02:00"
+date: "2024-12-24T13:53:42+01:00"
 description: A blog about pentesting with a focus on Windows security research.
 params:
   feedlink: https://itm4n.github.io/feed.xml
@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -31,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Bugzilla Update
-date: "2023-08-26T23:53:03Z"
+date: "2024-09-05T04:50:44Z"
 description: The latest information from the Bugzilla Project
 params:
   feedlink: https://bugzillaupdate.wordpress.com/feed/atom/
@@ -18,31 +18,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - General News
+  - Uncategorized
   relme: {}
-  last_post_title: Bugzilla Celebrates 25 Years With Special Announcements
-  last_post_description: 'Happy 25th Birthday to Bugzilla! Today, August 26, marks
-    the 25th anniversary of Bugzilla! The first two paragraphs lifted from our Bugzilla
-    history: When mozilla.org first came online in 1998, one'
-  last_post_date: "2023-08-26T23:53:03Z"
-  last_post_link: https://bugzillaupdate.wordpress.com/2023/08/26/bugzilla-celebrates-25-years-with-special-announcements/
+  last_post_title: Check the Bugzilla website for up-to-date Bugzilla news
+  last_post_description: A year or so ago we redesigned our main website at https://www.bugzilla.org/
+    . The new site has a blog with an RSS feed available, so to avoid duplication
+    of effort, news posts will be getting put
+  last_post_date: "2024-09-05T04:50:44Z"
+  last_post_link: https://bugzillaupdate.wordpress.com/2024/09/05/check-the-bugzilla-website-for-up-to-date-bugzilla-news/
   last_post_categories:
-  - General News
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 0f65e2e43dfebe569289bb8e44bf87bb
+  last_post_guid: 1d61c796b49450dee9ee5d4e039d419a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 289
 ---

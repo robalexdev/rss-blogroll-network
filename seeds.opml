@@ -24,5 +24,7 @@
     <outline text="visitmy.website" type="rss" xmlUrl="https://visitmy.website/feed.xml" />
     <outline text="ttntm" type="atom" xmlUrl="https://ttntm.me/everything.xml" />
     <outline text="rhyswynne" type="rss" xmlUrl="https://www.rhyswynne.co.uk/feed/" />
+    <outline text="philwilson" type="rss" xmlUrl="https://philwilson.org/blog/feed" />
+
   </body>
 </opml>

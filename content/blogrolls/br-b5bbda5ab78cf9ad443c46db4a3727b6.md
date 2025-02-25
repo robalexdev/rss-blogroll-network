@@ -1,6 +1,6 @@
 ---
 title: Planet GNOME
-date: Fri, 30 Aug 2024 14:03:45 GMT
+date: Mon, 24 Feb 2025 00:04:36 GMT
 description: ""
 params:
   link: https://planet.gnome.org/opml.xml
@@ -41,8 +41,11 @@ params:
   - title: Heisenbugs of a Heisenlife
     description: Ramblings of an uncertain being
     id: 0f93a7f3bc48f0a84a517bba9461647c
-  - title: ""
-    description: ""
+  - title: SeaDve
+    description: Application developer based in the Philippines
+    id: 10c46bbd2bcceeeb67b8d599727e32c4
+  - title: Andrea Veri's Blog - Planet GNOME
+    description: Andrea Veri's Blog
     id: 10e2e13258c799089ce629f9b1625cf7
   - title: Dhanuka's web log
     description: ""
@@ -83,6 +86,9 @@ params:
   - title: The Maps and Geo Blog
     description: ""
     id: 204282140eabe2cadf31c086578cf976
+  - title: ADETOYE ANOINTING
+    description: ""
+    id: 21042befdb8de1a929f0c8e4e1739890
   - title: 'Comments on:'
     description: Just another Blogs-test.igalia.com site
     id: 212066068f5f8c6da7ff490a0fbbeca3
@@ -219,7 +225,7 @@ params:
        - just the English posts
     id: 4dbfc718acc7290d7fadd1b28519868a
   - title: Julian's Code Corner
-    description: ""
+    description: I write about GNOME and sometimes about other topics.
     id: 4ea56d46efdec602bbbad507b33fd10b
   - title: My Blog
     description: Recent content on My Blog
@@ -273,15 +279,24 @@ params:
   - title: sakananote with English
     description: ""
     id: 607a8b1d9a3f224974bfd8f881fe62d9
+  - title: Alice's Blog
+    description: Recent articles on Alice's blog
+    id: 6163fe8409bc21988ed602f317606aee
   - title: GNOME Shell & Mutter
     description: Development blog for GNOME Shell and Mutter
     id: 62404bfb02f2bb7252de54c13786ab46
+  - title: Who-T
+    description: ""
+    id: 633dcc9112b5db38cbb609a038e4e53d
   - title: Curiosity-driven development
     description: Development diary of a developer sailing on the seas of open-source
     id: 644a36810cdc2e527d741f6ed49a2c8f
-  - title: Joaquim Rocha
-    description: Joaquim Rocha's blog
-    id: 6a398bf5c3b14f3db76f2aecaf3febe3
+  - title: GNOME – Just Jeremy
+    description: just my thoughts
+    id: 64919988dc76460bd5d5ec75e7d1b288
+  - title: Gedit Technology
+    description: ""
+    id: 6ae67319af78cb3eb757729bb7ece5fb
   - title: feaneron
     description: Scratching my own free software itches
     id: 6b9d3130875411738091d66cdaf4aa25
@@ -306,9 +321,6 @@ params:
   - title: alexl – GTK Development Blog
     description: All things GTK
     id: 711ab2751dffca4ac7d61b586a7fd707
-  - title: Stories by Tamnjong Larry Tabeh on Medium
-    description: Stories by Tamnjong Larry Tabeh on Medium
-    id: 72b02ab3293b0acfe6f4ee835f365f2a
   - title: Daniel Espinosa
     description: Just another GNOME Blogs site
     id: 72e41803dc21089d42723bdeb011f99b
@@ -366,6 +378,9 @@ params:
   - title: This Week in GNOME
     description: Recent content on This Week in GNOME
     id: 867b9b328f08fb53dcede21c51e20168
+  - title: AF does stuff - Journal
+    description: Personal website of Alexandre Franke
+    id: 87fc0c3e43a6690c1cf27b4da8ed4ba2
   - title: bits and bobs
     description: ""
     id: 8863ba58ce4ca66270ce25e6b0860b46
@@ -606,7 +621,7 @@ params:
   - title: Felix Häcker
     description: Just another development blog
     id: d725420463ac9f39a6bd8ae83de5a79a
-  - title: Fedora Planet Archives – /home/jwf/
+  - title: Fedora Planet Archives – /home/jww/
     description: Free & Open Source, technology, travel, and life reflections
     id: d920d3172a91de51a93768ecbbe1a427
   - title: Even a Stopped Clock
@@ -624,9 +639,6 @@ params:
   - title: Shinigami's Blog
     description: Adventures in Open Source
     id: dc73ace15dd254b7ddd21b6f992440c1
-  - title: Ondřej Holý
-    description: Programmer Blog
-    id: de6efd1c4619fd690ccc5ed6674d1613
   - title: Kat's log
     description: ""
     id: df1f317edb61b10a94435b515a41edd8
@@ -691,7 +703,7 @@ params:
     description: Mangling your network since 2004
     id: f34f84d2c57965ebd60e8b8b9bbac893
   - title: Testbit
-    description: Timjâ€™s bits and tests
+    description: Timjâ€™s Bits and Banter
     id: f4f42eaebd32afb13275f80d78e054a0
   - title: 'GSoC 2022: GNOME'
     description: This blog is about my experiences as a contributor for the GNOME

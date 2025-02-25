@@ -6,10 +6,11 @@ params:
   feedlink: https://russianpanda.com/feed.xml
   feedtype: rss
   feedid: b784caac422c5d2fcf761d6c16ea4f35
-  websites: {}
+  websites:
+    https://russianpanda.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -30,15 +31,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 8
+    website: 1
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 8
+  avgpostlen: 0
 ---

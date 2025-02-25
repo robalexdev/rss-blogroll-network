@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2024-12-03T11:25:38Z"
+date: "2025-02-18T11:25:38Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Building my ultimate keyboard
+  last_post_title: I'll give up Neovim when you pry it from my cold, dead hands
   last_post_description: ""
-  last_post_date: "2024-11-27T09:31:15Z"
-  last_post_link: https://www.jonashietala.se/blog/2024/11/26/building_my_ultimate_keyboard
+  last_post_date: "2025-02-18T11:25:38Z"
+  last_post_link: https://www.jonashietala.se/blog/2025/02/18/ill_give_up_neovim_when_you_pry_it_from_my_cold_dead_hands
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4eda98c6a84e99b0f69f8921a91ebb91
+  last_post_guid: 018d04937d89e9a55f647e96412ea572
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 288
+  avgpostlen: 291
 ---

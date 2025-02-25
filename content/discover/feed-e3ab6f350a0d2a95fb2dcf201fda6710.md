@@ -1,6 +1,6 @@
 ---
 title: Hardware & Opensource 4 Methril
-date: "2024-02-20T17:22:58+01:00"
+date: "2024-09-17T01:07:26+02:00"
 description: This is a blog showing my comments in the OpenSource & Hardware related
   projects that i am interested in.
 params:
@@ -41,7 +41,7 @@ params:
   last_post_title: A lot of time without news
   last_post_description: ""
   last_post_date: "2010-01-20T21:43:40+01:00"
-  last_post_link: http://openblog.methril.net/2010/01/lot-of-time-without-news.html
+  last_post_link: https://openblog.methril.net/2010/01/lot-of-time-without-news.html
   last_post_categories:
   - Ida-systems
   - embedded
@@ -57,15 +57,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 6
+  avgpostlen: 295
 ---

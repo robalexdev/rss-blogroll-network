@@ -1,6 +1,6 @@
 ---
 title: Twisted Matrix Laboratories
-date: "2024-08-28T11:28:44-07:00"
+date: "2024-10-02T00:09:01-07:00"
 description: ""
 params:
   feedlink: https://labs.twistedmatrix.com/feeds/posts/default
@@ -64,15 +64,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 294
 ---

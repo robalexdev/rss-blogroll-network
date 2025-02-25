@@ -1,6 +1,6 @@
 ---
 title: PyDev adventures
-date: "2024-08-04T12:31:00-07:00"
+date: "2025-02-01T02:37:55-08:00"
 description: |-
   Posting about venturing (and creating) PyDev.
   LINKS:    PyDev.org       Blog RSS       Twitter RSS
@@ -122,27 +122,30 @@ params:
   - virtualenv
   - winmerge
   relme: {}
-  last_post_title: 'PyDev Debugger and sys.monitoring (PEP 669) -- i.e.: really fast
-    debugging for Python 3.12!'
+  last_post_title: Using (or really misusing) Path.resolve() in Python
   last_post_description: ""
-  last_post_date: "2024-02-04T02:51:45-08:00"
-  last_post_link: http://pydev.blogspot.com/2024/02/pydev-debugger-and-sysmonitoring-pep.html
+  last_post_date: "2025-01-21T07:33:46-08:00"
+  last_post_link: http://pydev.blogspot.com/2025/01/using-or-really-misusing-pathresolve-in.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3f55288b50321ba7605d6463fe5e88b
+  last_post_guid: 30867e6239963a9f80191c8ca35d33d0
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 284
 ---

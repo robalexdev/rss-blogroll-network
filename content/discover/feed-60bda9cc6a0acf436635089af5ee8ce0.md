@@ -24,30 +24,34 @@ params:
   relme:
     https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
-  last_post_title: What the fuck is an SBAT and why does everyone suddenly care
-  last_post_description: 'Short version: Secure Boot Advanced Targeting and if that''s
-    enough for you you can skip the rest you''re welcome.Long version: When UEFI Secure
-    Boot was specified, everyone involved was, well, a touch'
-  last_post_date: "2024-08-22T08:52:49Z"
-  last_post_link: https://mjg59.dreamwidth.org/70348.html
+  last_post_title: The GPU, not the TPM, is the root of hardware DRM
+  last_post_description: As part of their "Defective by Design" anti-DRM campaign,
+    the FSF recently made the following claim:Today, most of the major streaming media
+    platforms utilize the TPM to decrypt media streams,
+  last_post_date: "2025-01-02T01:14:05Z"
+  last_post_link: https://mjg59.dreamwidth.org/70954.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: a49d4e1b90ebd7d6d02c942dd1ed22f2
+  last_post_guid: a12573cc8dd25737a7dddc98a40352f3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

@@ -16,57 +16,60 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "2022"
+  - "2024"
   - Digitale
   - Eventi
   - ILS
-  - ITTS Alessandro Volta
   - Libertà
   - Linux
   - Linux Day
-  - News
   - Perugia
   - Society
-  - Studenti
+  - Univerità di Perugia
+  - Università di Matematica e Informatica di Perugia
   - openness
   - scuola
   relme: {}
-  last_post_title: Linux Day 2022
+  last_post_title: Linux Day 2024
   last_post_description: |-
-    L'evento Linux Day 2022 presso la sede dell'ITTS "A. Volta"di Olmo, si torna a parlare di Software Libero e cyber-sicurezza ai giovani.
-    L'articolo Linux Day 2022 proviene da ILS Perugia.
-  last_post_date: "2022-10-16T16:22:00Z"
-  last_post_link: https://perugia.ils.org/news/2022/10/16/linux-day-2022/
+    L'evento si svolgerà il giorno 26 Ottobre presso l'Università di Perugia di Matematica e Informatica.
+
+    Non mancare! Ci divertiremo!
+  last_post_date: "2024-08-31T14:13:45Z"
+  last_post_link: https://perugia.ils.org/eventi/2024/08/31/linux-day-2024-a-perugia/
   last_post_categories:
-  - "2022"
+  - "2024"
   - Digitale
   - Eventi
   - ILS
-  - ITTS Alessandro Volta
   - Libertà
   - Linux
   - Linux Day
-  - News
   - Perugia
   - Society
-  - Studenti
+  - Univerità di Perugia
+  - Università di Matematica e Informatica di Perugia
   - openness
   - scuola
   last_post_language: ""
-  last_post_guid: 04956ebc640f19e06cb8824be94f31ce
+  last_post_guid: 0bbb9420b511f6dc583f6bb86cd0c467
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 9
+  avgpostlen: 0
 ---

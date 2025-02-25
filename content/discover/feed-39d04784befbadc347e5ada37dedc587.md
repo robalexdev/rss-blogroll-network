@@ -1,6 +1,6 @@
 ---
 title: Python GUIs - qt
-date: "2024-06-30T06:00:00Z"
+date: "2024-09-27T07:00:00Z"
 description: Create GUI applications with Python and Qt
 params:
   feedlink: https://martinfitzpatrick.name/feeds/qt.tag.atom.xml
@@ -15,48 +15,56 @@ params:
   recommended: []
   recommender: []
   categories:
+  - desktop-application
   - pyqt
-  - pyqt5
-  - pyqt6
-  - pyside2
   - pyside6
+  - pyside6-vector-graphics
   - python
+  - qgraphics
+  - qgraphicsitem
+  - qgraphicsview
   - qt
-  - qt5
   - qt6
+  - vector-graphics
   relme: {}
-  last_post_title: PyQt6 & PySide6 Books updated for 2024 — Extended and updated with
-    new examples, demos including Model View Controller architecture
-  last_post_description: |-
-    Hello! Today I have released new digital updates to my book Create GUI Applications with Python & Qt.
-    This update brings all versions up to date with the latest developments in PyQt6 & PySide6. As
-  last_post_date: "2024-06-30T06:00:00Z"
-  last_post_link: https://www.pythonguis.com/blog/pyqt6-pyside6-books-updated-2024/
+  last_post_title: Introduction to the QGraphics framework — Creating vector interfaces
+    using the QGraphics View framework
+  last_post_description: The Qt Graphics View Framework allows you to develop fast
+    and efficient 2D vector graphic scenes. Scenes can contain millions of items,
+    each with their own features and behaviors. By using the
+  last_post_date: "2024-09-27T07:00:00Z"
+  last_post_link: https://www.pythonguis.com/tutorials/pyside6-qgraphics-vector-graphics/
   last_post_categories:
+  - desktop-application
   - pyqt
-  - pyqt5
-  - pyqt6
-  - pyside2
   - pyside6
+  - pyside6-vector-graphics
   - python
+  - qgraphics
+  - qgraphicsitem
+  - qgraphicsview
   - qt
-  - qt5
   - qt6
+  - vector-graphics
   last_post_language: ""
-  last_post_guid: f7203ed18c748dfd2e9f3542a24a65a5
+  last_post_guid: ad1cd30d10466c229ad760bbdc499b97
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 296
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pydong
-date: "2024-11-15T21:01:56+01:00"
+date: "2025-02-09T20:23:38+01:00"
 description: A blog about interesting things you can do in Python, C++ and other languages.
 params:
   feedlink: https://pydong.org/feed.xml
@@ -15,31 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Python
+  - C++
   relme: {}
-  last_post_title: Python's Preprocessor
-  last_post_description: Every now and then you hear outrageous claims such as “Python
-    has no preprocessor”. This is simply not true. In fact, Python has the best preprocessor
-    of all languages - it quite literally allows
-  last_post_date: "2024-08-23T01:15:16+02:00"
-  last_post_link: https://pydong.org/posts/PythonsPreprocessor/
+  last_post_title: Fun with C++26 reflection - Keyword Arguments
+  last_post_description: In this blog post, we’ll explore implementing order-independent
+    keyword arguments for C++ through use of C++26’s proposed reflection features.
+    I stumbled upon this technique while experimenting
+  last_post_date: "2025-02-09T04:20:29+01:00"
+  last_post_link: https://pydong.org/posts/KwArgs/
   last_post_categories:
-  - Python
+  - C++
   last_post_language: ""
-  last_post_guid: 1c0af5de64672e6a93351f7371eac0e7
+  last_post_guid: e29201df4ab9d19317aac3d210b52f58
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 2
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 2
+  avgpostlen: 0
 ---

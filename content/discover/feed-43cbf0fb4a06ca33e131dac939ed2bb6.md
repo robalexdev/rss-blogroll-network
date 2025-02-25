@@ -20,32 +20,36 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: The Harris Machine
-  last_post_description: 'There’s a puzzle in this podcast, and it comes with our
-    prize sociologist, Tressie McMillan Cottom. It’s roughly this: How does Kamala
-    Harris, after the Democratic convention in Chicago and for'
-  last_post_date: "2024-08-29T21:19:16Z"
-  last_post_link: https://radioopensource.org/the-harris-machine/
+  last_post_title: From Boston to Bethlehem
+  last_post_description: We’re here with a capsule of memory from late last year.
+    It was a spark of generosity in Liz Walker’s story that lit up the Christmas season
+    for lots of us, and maybe the path ...
+  last_post_date: "2025-01-10T02:21:55Z"
+  last_post_link: https://radioopensource.org/from-boston-to-bethlehem/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 47bc1c20f32bfef87af2a4bcb30ed7df
+  last_post_guid: 49732a1da8b6360b197e9782221cf901
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 19
   ispodcast: true
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 50
+  avgpostlen: 0
 ---

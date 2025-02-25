@@ -1,6 +1,6 @@
 ---
 title: so…
-date: "2024-01-09T22:56:00Z"
+date: "2025-02-19T17:47:13Z"
 description: Norm's musings. Make of them what you will.
 params:
   feedlink: https://so.nwalsh.com/feed/fulltext.xml?topic=Emacs
@@ -16,34 +16,37 @@ params:
   recommender: []
   categories:
   - Emacs
-  - TIL
-  - TheWeb
+  - Saxonica
+  - XML
   relme: {}
-  last_post_title: Browsing in Emacs
-  last_post_description: |-
-    TIL: Browsing (the web) in Emacs (in a couple of senses) really works
-    well.
-  last_post_date: "2024-01-09T22:56:00Z"
-  last_post_link: https://so.nwalsh.com/2024/01/09-emacs
+  last_post_title: XPath server 0.0.2
+  last_post_description: An updated little hack to leverage Saxon for evaluating XPath
+    expressions in Emacs.
+  last_post_date: "2025-02-19T17:47:13Z"
+  last_post_link: https://so.nwalsh.com/2025/02/19-xpath-server
   last_post_categories:
   - Emacs
-  - TIL
-  - TheWeb
+  - Saxonica
+  - XML
   last_post_language: ""
-  last_post_guid: db1acd8a16cb9f5deba2ea9d1dbb368c
+  last_post_guid: c4c7d9aa62c16b132218a05e10e40a58
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 296
 ---

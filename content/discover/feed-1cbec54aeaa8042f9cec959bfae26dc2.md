@@ -1,6 +1,6 @@
 ---
 title: 彭宏豪的个人博客，个人电子产品使用心得
-date: "2024-09-23T14:08:45Z"
+date: "2025-02-05T08:34:27Z"
 description: 数码软件爱好者
 params:
   feedlink: https://penghh.fun/atom.xml
@@ -22,7 +22,7 @@ params:
   relme: {}
   last_post_title: macOS15最新功能iPhone镜像怎么用？详细教程来了【效率工具指南】
   last_post_description: ""
-  last_post_date: "2024-09-23T14:08:45Z"
+  last_post_date: "2025-02-05T08:34:27Z"
   last_post_link: https://penghh.fun/2024/09/22/2024-9-22-iPhone_monitor/
   last_post_categories:
   - Mac
@@ -34,15 +34,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 192
+  avgpostlen: 231
 ---

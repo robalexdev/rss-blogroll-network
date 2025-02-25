@@ -1,6 +1,6 @@
 ---
 title: Python on Karan
-date: "2024-03-08T01:06:07-08:00"
+date: "2024-10-04T19:51:51-07:00"
 description: ""
 params:
   feedlink: https://python-karan.blogspot.in/feeds/posts/default
@@ -31,15 +31,19 @@ params:
     cats: 2
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 242
 ---

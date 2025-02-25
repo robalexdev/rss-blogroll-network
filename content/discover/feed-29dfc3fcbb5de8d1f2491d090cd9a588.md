@@ -1,6 +1,6 @@
 ---
 title: Notes from Underground ...
-date: "2024-03-13T23:35:05-07:00"
+date: "2025-01-12T19:25:49-08:00"
 description: Notes about Ubuntu and Debian development.
 params:
   feedlink: https://www.blogger.com/feeds/4695702196537398257/posts/default
@@ -57,15 +57,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 293
 ---

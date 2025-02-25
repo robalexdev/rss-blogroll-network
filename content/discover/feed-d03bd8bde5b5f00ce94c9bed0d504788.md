@@ -16,38 +16,44 @@ params:
   recommender: []
   categories:
   - English
-  - Free Software
-  - L4
-  - Unix
+  - education
+  - emulation
   - operating systems
+  - retrocomputing
+  - technology
   relme: {}
-  last_post_title: Reformulating the Operating System
-  last_post_description: As noted previously, two of my interests in recent times
-    have been computing history and microkernel-based operating systems. Having perused
-    academic and commercial literature in the computing field
-  last_post_date: "2024-07-27T16:43:13Z"
-  last_post_link: https://blogs.fsfe.org/pboddie/?p=2760
+  last_post_title: Replaying the Microcomputing Revolution
+  last_post_description: Since microcomputing and computing history are particular
+    topics of interest of mine, I was naturally engaged by a recent article about
+    the Raspberry Pi and its educational ambitions. Perhaps
+  last_post_date: "2025-01-06T22:26:57Z"
+  last_post_link: https://blogs.fsfe.org/pboddie/?p=2931
   last_post_categories:
   - English
-  - Free Software
-  - L4
-  - Unix
+  - education
+  - emulation
   - operating systems
+  - retrocomputing
+  - technology
   last_post_language: ""
-  last_post_guid: e0ab531cb6ed9dad5f08be81f516608f
+  last_post_guid: 8b9fe4c4f2616b3d2c253f8bb679be7e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

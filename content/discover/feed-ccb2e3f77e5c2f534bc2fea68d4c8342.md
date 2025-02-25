@@ -1,6 +1,6 @@
 ---
 title: lottia notes
-date: "2024-12-17T10:02:36Z"
+date: "2025-01-06T02:44:00Z"
 description: ""
 params:
   feedlink: https://lottia.net/notes/atom.xml
@@ -18,26 +18,30 @@ params:
   categories: []
   relme:
     https://lottia.net/notes/: true
-  last_post_title: Comptime, flow, and exhaustiveness
+  last_post_title: TextMode Designer
   last_post_description: ""
-  last_post_date: "2024-12-17T10:02:36Z"
-  last_post_link: https://lottia.net/notes/0015-comptime-flow-exhaustiveness.html
+  last_post_date: "2025-01-06T02:44:00Z"
+  last_post_link: https://lottia.net/notes/0016-textmode-designer.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a1350b9fcf7f912ba1e6eed143541852
+  last_post_guid: 06c41d147282ceca40ee99bb50dcd6a3
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 16
+  avgpostlen: 285
 ---

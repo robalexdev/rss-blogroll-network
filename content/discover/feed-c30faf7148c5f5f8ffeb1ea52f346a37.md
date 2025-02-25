@@ -36,33 +36,38 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: Weeknotes 25th August 2024
-  last_post_description: I launched a new Links section for Digital Oxford last week.A
-    directory of digital adjacent people and organisations around Oxfordshire. From
-    co-working spaces and road-warrior friendly venues, to
-  last_post_date: "2024-08-28T12:09:27Z"
-  last_post_link: https://polytechnic.co.uk/blog/2024/08/weeknotes-25th-august-2024/
+  last_post_title: Blog Questions Challenge
+  last_post_description: Last week (ish) one of those old-style memetic chain letter
+    thingies started appearing in a few of my RSS follows, namely Jon, Jeremy, Rachel
+    and Ethan. And seen as Jeremy passed the challenge along
+  last_post_date: "2025-02-04T16:57:35Z"
+  last_post_link: https://polytechnic.co.uk/blog/2025/02/blog-questions-challenge/
   last_post_categories:
-  - diary
-  - digital oxford
-  - me
-  - music
-  - weeknotes
+  - blogging
+  - challenge
+  - django
+  - python
+  - wagtail
+  - writing
   last_post_language: ""
-  last_post_guid: 3332d3b0b596a858bd36fe5d0e838711
+  last_post_guid: 84a0722bc29d4264dc8ac7c5426b11b8
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2024-08-04T16:31:50Z"
+date: "2024-11-11T21:01:46Z"
 description: A place for my random thoughts about software
 params:
   feedlink: https://tookmund.com/feed.xml
@@ -16,40 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - linux
-  - password
-  - raspberry pi
-  - root
+  - hibernate
   relme: {}
-  last_post_title: What to Do When You Forget Your Root Password
+  last_post_title: Linux's Bedtime Routine
   last_post_description: |-
-    Forgetting your root password would initially seem like a problem requiring
-    a full re-install, one that you can’t easily recover from without wiping
-    everything away.
-
-    Forgetting your user password
-  last_post_date: "2024-06-02T00:00:00Z"
-  last_post_link: https://tookmund.com/2024/06/linux-forgot-password
+    How does Linux move from an awake machine to a hibernating one?
+    How does it then manage to restore all state?
+    These questions led me to read way too much C in trying to figure out
+    how this particular
+  last_post_date: "2024-09-08T00:00:00Z"
+  last_post_link: https://tookmund.com/2024/09/hibernation-preparation
   last_post_categories:
-  - linux
-  - password
-  - raspberry pi
-  - root
+  - hibernate
   last_post_language: ""
-  last_post_guid: 02acfc08b44c4512fa9f2d5037af765b
+  last_post_guid: ed14615cc118e237ea0819632f10e35d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 0
     website: 2
-  score: 13
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

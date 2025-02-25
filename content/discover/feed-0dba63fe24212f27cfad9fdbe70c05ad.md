@@ -1,8 +1,7 @@
 ---
 title: ttntm.me - Likes
-date: "2024-08-08T17:00:00Z"
-description: Tom's homepage. A personal website, journal and playground. Everything,
-  and nothing.
+date: "2025-02-24T10:30:00Z"
+description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
   feedtype: atom
@@ -17,21 +16,26 @@ params:
   - https://ttntm.me/blogroll.opml
   in_blogrolls: []
   recommended:
+  - https://anhvn.com/feed.xml
   - https://antfu.me/feed.xml
   - https://chrisburnell.com/feed.xml
   - https://garrit.xyz/rss.xml
+  - https://home.hedy.dev/posts/index.xml
   - https://kayserifserif.place/feed.xml
   - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
   - https://prma.dev/index.xml
-  - https://victoria.dev/blog/index.xml
+  - https://write.as/ttt-computer/feed/
   - https://www.andreinc.net/feed.xml
   - https://www.kuketz-blog.de/feed/
   - https://www.lkhrs.com/blog/index.xml
   - https://www.mikestreety.co.uk/rss-all.xml
-  - https://prma.dev/dailies/index.xml
-  - https://prma.dev/posts/index.xml
-  - https://prma.dev/recommendations/index.xml
+  - https://home.hedy.dev/posts/atom.xml
+  - https://prma.dev/dailies/feed.xml
+  - https://prma.dev/feed.xml
+  - https://prma.dev/posts/feed.xml
+  - https://prma.dev/recommendations/feed.xml
+  - https://prma.dev/til/feed.xml
   - https://www.kuketz-blog.de/category/artikel/feed/
   - https://www.kuketz-blog.de/category/microblog/feed/
   - https://www.lkhrs.com/index.xml
@@ -41,26 +45,30 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 32, 2024
+  last_post_title: Week 08, 2025
   last_post_description: ""
-  last_post_date: "2024-08-08T17:00:00Z"
-  last_post_link: https://ttntm.me/likes/2024-w32/
+  last_post_date: "2025-02-24T10:30:00Z"
+  last_post_link: https://ttntm.me/likes/2025-w08/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11f60085f22e5b2ac4348d38c06e1408
+  last_post_guid: 19a987ace26b238d21475c55d63f8004
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 46
+  avgpostlen: 247
 ---

@@ -1,15 +1,13 @@
 ---
-title: Homepage on Michał Sapka's website
+title: Crys Site
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Homepage on Michał Sapka's website
+description: Recent content on Crys Site
 params:
   feedlink: https://michal.sapka.me/index.xml
   feedtype: rss
   feedid: ffc40425b9d3e7cdb1f4e63f6d8726dd
   websites:
-    https://michal.sapka.me/bsd/: false
-    https://michal.sapka.me/cool-emacs/: false
-    https://michal.sapka.me/emacs/: false
+    https://michal.sapka.me/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -23,30 +21,32 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: 'Broken Sword - Shadow of the Templars: Reforged'
+  last_post_title: Rambling about humanity, Star Trek and GenAI
   last_post_description: |-
-    Look ma!
-    And even longer title.
-    But yeah - one of the greatest video games I’ve ever played is getting an HD remaster.
-    It’s time for younger people than me to get an unhealthy image of France
-  last_post_date: "2024-08-27T21:24:00+02:00"
-  last_post_link: https://michal.sapka.me/blog/2024/bs-sottr/
+    What follows is a flow of consciousness. There’s some structure here, but this text is more chaotic than most others here - and that’s something!
+    I’ve been watching Star Trek again and I’ve
+  last_post_date: "2025-01-28T19:47:00+01:00"
+  last_post_link: https://crys.site/blog/2025/humanity-st-genai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5e8d4818b1e671c327b3d4dea5661de2
+  last_post_guid: 5b78f7767a3dfe4d525deeb8764446db
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 1
+    feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
+  language: ""
+  postcount: 30
+  avgpostlen: 0
 ---

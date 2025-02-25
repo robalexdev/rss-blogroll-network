@@ -17,35 +17,42 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "2024"
-  - Life
+  - "2025"
+  - react
+  - web
   relme: {}
-  last_post_title: 立秋
-  last_post_description: !!binary |
-    5oC76KeJ5b6X5YyX5Lqs5LuK5bm055qE56eL77yM5p2l55qE5pma44CC56uL56eL5LmL5Z
-    CO77yM5rip5bqm5Lmf6L+f6L+f5rKh5pyJ5aSn6ZmN77yM5Y+25a2Q5Lmf6buE55qE5YGP
-    5pma5LqG44CCCuaAu+inieW+l+S6uueUn+mavuW+l+S8muacieaJgOiwk+WygeaciOmdme
-    WlveeahOaXtuWIu+OAguWmguWQjOmrmOS4ieavleS4mu+8jOS4gOWIh+U=
-  last_post_date: "2024-10-19T11:45:55Z"
-  last_post_link: https://www.jackpu.com/li-qiu-5/
+  last_post_title: useState 设置为函数类型时候需要注意的点
+  last_post_description: |-
+    自己最近在一次重构中，尝试给予一个 state 为一个 class 的时候，却发现抛出了无法 new 的异常。
+    import React, { useState } from "react";
+    import A from './A'
+
+    const
+  last_post_date: "2025-02-14T02:28:31Z"
+  last_post_link: https://www.jackpu.com/usestate-she-zhi-wei-han-shu-lei-xing-shi-hou-xu-yao-zhu-yi-de-dian/
   last_post_categories:
-  - "2024"
-  - Life
+  - "2025"
+  - react
+  - web
   last_post_language: ""
-  last_post_guid: fba4ca80e502c81b4d965340c076e9b3
+  last_post_guid: 5d01623b599685930ad0e7785990ee6a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

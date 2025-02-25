@@ -26,31 +26,33 @@ params:
   categories: []
   relme:
     https://notes.pault.ag/: true
-  last_post_title: Domo Arigato, Mr. debugfs
+  last_post_title: boot2kier
   last_post_description: |-
-    Years ago, at what I think I remember was DebConf 15, I hacked for a while
-    on debhelper to
-    write build-ids to debian binary control files,
-    so that the build-id (more specifically, the ELF note
-    .note
-  last_post_date: "2024-04-13T09:27:00-04:00"
-  last_post_link: https://notes.pault.ag/debugfs/
+    I can’t remember exactly the joke I was making at the time in my
+    work’s slack instance (I’m sure it wasn’t particularly
+    funny, though; and not even worth re-reading the thread to work out),
+  last_post_date: "2025-02-20T09:40:00-05:00"
+  last_post_link: https://notes.pault.ag/boot2kier/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 785e089f6770626ff08ff454f7c8358f
+  last_post_guid: a36a3eb1fdff183741606f0067a535eb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 17
+  avgpostlen: 0
 ---

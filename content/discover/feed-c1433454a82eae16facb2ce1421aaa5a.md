@@ -17,31 +17,39 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Muziek
+  - Companies
+  - Digitale transformatie
+  - Kunstmatige Intelligentie
   relme: {}
-  last_post_title: 'Nick Cave & The Bad Seeds: Wild God'
+  last_post_title: AI als katalysator van de digitale transformatie van McKinsey
   last_post_description: |-
-    Het nieuwe album voelt als een logische voortzetting van zijn eerdere werk, maar met een nieuwe dimensie. De muziek is […]
-    Het bericht Nick Cave & The Bad Seeds: Wild God verscheen eerst op Koneksa
-  last_post_date: "2024-08-30T11:17:33Z"
-  last_post_link: https://koneksa-mondo.nl/2024/08/30/wild-god/
+    Toen ChatGPT in november 2022 de wereld veroverde, worstelde McKinsey al decennialang met een hardnekkig probleem: hoe de enorme hoeveelheid […]
+    Het bericht AI als katalysator van de digitale
+  last_post_date: "2025-02-24T15:12:19Z"
+  last_post_link: https://koneksa-mondo.nl/2025/02/24/ai-als-katalysator-van-de-digitale-transformatie-van-mckinsey/
   last_post_categories:
-  - Muziek
+  - Companies
+  - Digitale transformatie
+  - Kunstmatige Intelligentie
   last_post_language: ""
-  last_post_guid: 533e1662acf325837a7e21cde9bf483b
+  last_post_guid: c79fa32c84239a70f14fc83dfee852e8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: nl
+  postcount: 10
+  avgpostlen: 0
 ---

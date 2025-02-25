@@ -1,6 +1,6 @@
 ---
 title: Kitty Giraudel
-date: "2024-08-23T14:56:23Z"
+date: "2025-01-02T16:58:24Z"
 description: I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin,
   focused on accessibility and inclusivity.
 params:
@@ -17,29 +17,32 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: Feature toggles with webpack
+  last_post_title: 2024 in review
   last_post_description: ""
-  last_post_date: "2024-07-22T00:00:00Z"
-  last_post_link: https://kittygiraudel.com/2024/07/22/feature-toggles-with-webpack/
+  last_post_date: "2024-12-31T00:00:00Z"
+  last_post_link: https://kittygiraudel.com/2024/12/31/2024-in-review/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16852706378786874735cd7719ef3368
+  last_post_guid: 2bf4ee5630b3454e108886922a8ff382
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 369
+  avgpostlen: 203
 ---

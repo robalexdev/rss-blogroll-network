@@ -18,33 +18,33 @@ params:
   categories: []
   relme:
     https://ianthehenry.com/: true
-  last_post_title: Quote-unquote "macros"
+  last_post_title: Building Bauble
   last_post_description: |-
-    You’ve probably seen this Python 101 thing before:
-    @memoized
-    def fib(n):
-    if n <= 1:
-    return n
-    return fib(n - 1) + fib(n - 2)
-    Leaving aside the absurdity of computing Fibonacci numbers recursively,
-  last_post_date: "2024-08-12T00:00:00Z"
-  last_post_link: https://ianthehenry.com/posts/quote-unquote-macros/
+    I made something that I think is pretty neat, and I want to tell you about it.
+
+    This is a little hot air balloon made out of alternating layers of brass and bronze that stack together with these
+  last_post_date: "2025-01-10T00:00:00Z"
+  last_post_link: https://ianthehenry.com/posts/bauble/building-bauble/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 693988adc66c749b4c05a4ff66e6cea4
+  last_post_guid: 462dddb6674727b62fd17352a666087f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

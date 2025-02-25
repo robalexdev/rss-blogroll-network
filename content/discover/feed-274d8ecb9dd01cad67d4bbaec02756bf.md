@@ -9,6 +9,7 @@ params:
   feedid: 274d8ecb9dd01cad67d4bbaec02756bf
   websites:
     https://www.flamingspork.com/blog: true
+    https://www.flamingspork.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Linux Australia
@@ -49,15 +50,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

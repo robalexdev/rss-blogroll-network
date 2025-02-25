@@ -17,29 +17,33 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: Innovación y Colaboración en FOSS4G Europe 2024
-  last_post_description: ¿Te apasionan las tecnologías geoespaciales de código abierto?
-    Si es así, FOSS4G Europe 2024 en Tartu, Estonia, fue el evento que no debiste
-    perderte. ¿Alguna vez te has preguntado cómo el
-  last_post_date: "2024-08-09T14:39:35Z"
-  last_post_link: https://kan.com.ar/innovacion-y-colaboracion-en-foss4g-europe-2024/
+  last_post_title: 'GeoNode Cloud: Presentación oficial'
+  last_post_description: "\U0001F310 ¡Ha llegado el momento! Presentamos GeoNode Cloud,
+    la plataforma en la nube que transforma la gestión de datos geoespaciales. \U0001F389
+    ✅ Sin necesidad de infraestructura interna.✅ Escalable y"
+  last_post_date: "2024-12-18T15:43:12Z"
+  last_post_link: https://kan.com.ar/geonode-cloud-presentacion-oficial/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 8f337b24fd469be71081b40217168c46
+  last_post_guid: 4a2f21e8e971cbd3d9d8ab9db6570dce
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: es
+  postcount: 6
+  avgpostlen: 0
 ---

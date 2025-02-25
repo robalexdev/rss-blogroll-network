@@ -1,6 +1,6 @@
 ---
 title: Andy Bell
-date: "2024-08-27T13:11:36Z"
+date: "2024-12-31T17:00:56Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
@@ -8,6 +8,7 @@ params:
   feedid: c8acc64f2c073b44e9ec2d6e4ff9ca20
   websites:
     https://andy-bell.co.uk/: false
+    https://bell.bz/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -16,29 +17,32 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: Just use fucking paper, man
+  last_post_title: Wrapping up 2024
   last_post_description: ""
-  last_post_date: "2024-08-27T13:11:36Z"
-  last_post_link: https://andy-bell.co.uk/just-fucking-use-paper-man
+  last_post_date: "2024-12-31T17:00:56Z"
+  last_post_link: https://andy-bell.co.uk/wrapping-up-2024
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d1585876808fa36bd0c72d152a97f126
+  last_post_guid: 1cfcc01b57f2b2a4b3631956964dfdf2
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 9
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 3
+  avgpostlen: 295
 ---

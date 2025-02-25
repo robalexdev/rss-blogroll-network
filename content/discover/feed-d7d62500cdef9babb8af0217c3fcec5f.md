@@ -17,29 +17,33 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'SymPy: a powerful math library'
+  last_post_title: 'Music production with Linux: How to use Guitarix and Ardour together'
   last_post_description: |-
-    SymPy is a lightweight symbolic mathematics library for Python under the
-    3-clause BSD license that can be used either as a library or in an interactive
-    environment. It features symbolic expressions,
-  last_post_date: "2024-03-06T13:00:00+02:00"
-  last_post_link: https://vl8r.eu/posts/2024/03/06/sympy-a-powerful-math-library/
+    Music production for guitar has a lot of options on Linux. We will see how to
+    install the required software, and how to use Guitarix together with Ardour
+    either with the standalone version of
+  last_post_date: "2024-11-05T13:00:00+02:00"
+  last_post_link: https://vl8r.eu/posts/2024/11/05/music-production-with-linux-how-to-use-guitarix-and-ardour-together/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2317f2506ff16760d58dc3bb5899b173
+  last_post_guid: 0ba6a6d0da0855f53a46e345a2fdd710
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 36
+  avgpostlen: 0
 ---

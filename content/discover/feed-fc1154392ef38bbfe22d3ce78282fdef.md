@@ -16,31 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Paper
-  - 论文
+  - UNIX
   relme: {}
-  last_post_title: 如何阅读论文（Paper）
-  last_post_description: 前言论文（Paper）通常是新技术、算法、编程方法或软件工具的首次公布。通过阅读论文，我们可以了解最新的技术进展，保持自己的技能和知识是最新
-  last_post_date: "2024-12-21T06:23:35Z"
-  last_post_link: https://www.mghio.cn/post/e1358fc9.html
+  last_post_title: 《UNIX 传奇：历史与回忆》读后感
+  last_post_description: 《UNIX 传奇：历史与回忆》 是 bwk（Brian W. Kernighan）2019 年的新作，回忆了 UNIX
+    在大半个世纪的风雨历程，是一本引人入胜的书籍。通过对 UNIX
+  last_post_date: "2024-12-21T06:23:58Z"
+  last_post_link: https://www.mghio.cn/post/43d24671.html
   last_post_categories:
-  - Paper
-  - 论文
+  - UNIX
   last_post_language: ""
-  last_post_guid: 71eda7faeba3ce1e6f21975fe655c94c
+  last_post_guid: 43251940448a8d1781b43b947f86e875
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 3
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 255
 ---

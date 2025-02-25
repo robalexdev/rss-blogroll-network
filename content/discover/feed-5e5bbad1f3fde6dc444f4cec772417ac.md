@@ -17,29 +17,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Increasing the Integrity of Software Supply Chains awarded IEEE
-    ‘Best Paper’ award
-  last_post_description: Although it is possible to increase confidence in Free and
-    Open Source Software (FOSS) by reviewing its source code, trusting code is not
-    the same as trusting its executable counterparts. These are
-  last_post_date: "2024-01-22T17:11:39Z"
-  last_post_link: https://chris-lamb.co.uk/posts/ieee-best-paper-award
+  last_post_title: Favourites of 2024
+  last_post_description: |-
+    Here are my favourite books and movies that I read and watched throughout 2024.
+    It wasn't quite the stellar year for books as previous years: few of those books that make you want to recommend and/or
+  last_post_date: "2024-12-31T15:58:31Z"
+  last_post_link: https://chris-lamb.co.uk/posts/favourites-of-2024
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63b122a4aa5bc99b79717c1fb8797a0a
+  last_post_guid: 6a05b27564f1de8cb68bed53463ff182
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

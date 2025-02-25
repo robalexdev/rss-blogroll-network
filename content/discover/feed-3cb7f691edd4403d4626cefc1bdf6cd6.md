@@ -32,15 +32,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 1
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 1
+  avgpostlen: 298
 ---

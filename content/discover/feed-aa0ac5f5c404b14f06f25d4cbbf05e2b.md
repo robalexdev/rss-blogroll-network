@@ -1,6 +1,6 @@
 ---
 title: iteration-zero
-date: "2024-03-13T14:55:47-07:00"
+date: "2024-09-04T17:17:15-07:00"
 description: Thoughts and articles on developing the free game iteration-zero.
 params:
   feedlink: https://iteration-zero.blogspot.com/feeds/posts/default
@@ -27,27 +27,31 @@ params:
     https://iteration-zero.blogspot.com/: true
     https://www.blogger.com/profile/12067621123008652431: true
     https://zweisachen.blogspot.com/: true
-  last_post_title: dLISP 0.100.0 Released
+  last_post_title: Yet another GUI lib.
   last_post_description: ""
-  last_post_date: "2008-06-14T09:30:54-07:00"
-  last_post_link: https://iteration-zero.blogspot.com/2008/06/dlisp-01000-released.html
+  last_post_date: "2008-12-10T22:49:03-08:00"
+  last_post_link: https://iteration-zero.blogspot.com/2008/03/yet-another-gui-lib.html
   last_post_categories:
-  - DLisp
+  - D
   last_post_language: ""
-  last_post_guid: 8b19cab284d7bc6270857b0dcbf1bbbf
+  last_post_guid: 3ae4535c8e613c87d49df8747fe03970
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 9
+  avgpostlen: 296
 ---

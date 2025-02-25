@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2024-08-30T10:52:33Z"
+date: "2025-02-21T10:09:03Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,51 +17,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - .NET
-  - Application Development
-  - C++
-  - Desktop
-  - Dev Loop
-  - Development
-  - QML
-  - Qt
-  - Qt/.NET
-  - Visual Studio
-  - Windows
+  - Learn
+  - Learning
+  - Qt Academy
+  - Qt Design Studio
+  - Qt Framework
   relme: {}
-  last_post_title: Qt/.NET — Using QML in a .NET WPF application
-  last_post_description: Qt/.NET is a proposed toolkit for interoperability between
-    C++ and .NET, including a Qt-based custom native host for managed assemblies,
-    as well as a native-to-managed adapter module that provides
-  last_post_date: "2024-08-30T09:30:00Z"
-  last_post_link: https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application
+  last_post_title: What's Happening on Qt Academy - February '25
+  last_post_description: Hey Everyone!
+  last_post_date: "2025-02-21T10:09:03Z"
+  last_post_link: https://www.qt.io/blog/qt-academy-feb-25
   last_post_categories:
-  - .NET
-  - Application Development
-  - C++
-  - Desktop
-  - Dev Loop
-  - Development
-  - QML
-  - Qt
-  - Qt/.NET
-  - Visual Studio
-  - Windows
+  - Learn
+  - Learning
+  - Qt Academy
+  - Qt Design Studio
+  - Qt Framework
   last_post_language: ""
-  last_post_guid: 9de126bdd4876d9c1f15926ea05a2d04
+  last_post_guid: a174557407820bdff9083c75d3ba14ad
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

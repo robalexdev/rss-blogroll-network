@@ -17,36 +17,43 @@ params:
   recommended: []
   recommender:
   - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Raspberry Pi 5
-  - Raspberry Pi AI Kit
+  - Raspberry Pi 3
+  - Raspberry Pi Cameras
+  - The MagPi
   relme: {}
-  last_post_title: How to set up the Raspberry Pi AI Kit with Raspberry Pi 5
+  last_post_title: This floppy disk archiver runs on a Raspberry Pi
   last_post_description: |-
-    Learn how to run rpicam-apps camera demos using the Hailo AI neural network accelerator.
-    The post How to set up the Raspberry Pi AI Kit with Raspberry Pi 5 appeared first on Raspberry Pi.
-  last_post_date: "2024-08-30T08:21:21Z"
-  last_post_link: https://www.raspberrypi.com/news/how-to-set-up-the-raspberry-pi-ai-kit-with-raspberry-pi-5/
+    Floppy disks don’t last forever. Here's one way to back up your disk files using a Raspberry Pi 3 and Camera Module 2.
+    The post This floppy disk archiver runs on a Raspberry Pi appeared first on
+  last_post_date: "2025-02-24T11:21:26Z"
+  last_post_link: https://www.raspberrypi.com/news/this-floppy-disk-archiver-runs-on-a-raspberry-pi/
   last_post_categories:
-  - Raspberry Pi 5
-  - Raspberry Pi AI Kit
+  - Raspberry Pi 3
+  - Raspberry Pi Cameras
+  - The MagPi
   last_post_language: ""
-  last_post_guid: 6d0e7aa4a1ce56aa0691cd401a4bd3f6
+  last_post_guid: 32f4a2c53bdb737ee53bf62815d9703e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2024-11-24T12:31:52Z"
+date: "2025-02-23T13:14:34Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -16,31 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - grep
-  - 技巧
+  - LLM
   relme: {}
-  last_post_title: grep小技巧之匹配到二进制文件
-  last_post_description: 我们在日常使用grep这个强大的命令行工具时有时候会碰到一个问题，就是grep在识别文件的时候在碰到 ‘\000
-  last_post_date: "2024-11-24T12:31:52Z"
-  last_post_link: https://nicksxs.me/2024/11/24/grep%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/
+  last_post_title: 使用 LM Studio 在本地部署 Deepseek-R1 的蒸馏版大模型
+  last_post_description: deepseek-v3 和 deepseek-r1
+  last_post_date: "2025-02-23T13:14:34Z"
+  last_post_link: https://nicksxs.me/2025/02/23/%E4%BD%BF%E7%94%A8-LM-Studio-%E5%9C%A8%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2-Deepseek-%E5%A4%A7%E6%A8%A1%E5%9E%8B/
   last_post_categories:
-  - grep
-  - 技巧
+  - LLM
   last_post_language: ""
-  last_post_guid: cf8117403772e6b0a05a620ff83e8ab9
+  last_post_guid: ee72a930da6a778c26f2a9000dcbcde3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

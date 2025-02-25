@@ -23,23 +23,27 @@ params:
     I call it derb.
     My mother gets devotional songs and sermons on cds, which I rip to MP3 files and then dump
   last_post_date: "2023-09-14T17:38:03+05:30"
-  last_post_link: https://janusworx.com/blog/derb/
+  last_post_link: https://janusworx.com/work/derb/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2f4e80d5660019e103c12177095c1867
+  last_post_guid: 6af0dd3f7daeb42ab31af383898029f4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

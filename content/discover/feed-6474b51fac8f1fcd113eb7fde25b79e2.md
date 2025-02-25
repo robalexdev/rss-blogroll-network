@@ -1,6 +1,6 @@
 ---
 title: '# where we turn Perl inside out'
-date: "2024-08-29T09:35:24+02:00"
+date: "2025-02-23T08:21:37+01:00"
 description: our $blog = Perl::Blog->new;
 params:
   feedlink: https://niceperl.blogspot.com/feeds/posts/default
@@ -31,28 +31,32 @@ params:
   - rakudo
   - stackoverflow
   relme: {}
-  last_post_title: (dx) 19 great CPAN modules released last week
+  last_post_title: (dxxxvi) 8 great CPAN modules released last week
   last_post_description: ""
-  last_post_date: "2024-08-24T12:19:13+02:00"
-  last_post_link: https://niceperl.blogspot.com/2024/08/dx-19-great-cpan-modules-released-last.html
+  last_post_date: "2025-02-23T08:21:04+01:00"
+  last_post_link: https://niceperl.blogspot.com/2025/02/dxxxvi-8-great-cpan-modules-released.html
   last_post_categories:
   - cpan
   - perl
   last_post_language: ""
-  last_post_guid: e560a0f7ca864281958b9b55261df08f
+  last_post_guid: 522528077bc75cc42ab17eb99ccf0dab
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 295
 ---

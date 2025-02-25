@@ -16,28 +16,33 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why we need an open European search index.
-  last_post_description: Search engines are the gatekeepers of the spread of information.
-    If search results are controlled by a few Big Tech companies like Google, Microsoft,
-    and Yahoo we need open alternatives that are not
-  last_post_date: "2024-08-28T00:00:00Z"
-  last_post_link: https://tuta.com/blog/what-is-search-indexing
+  last_post_title: 'The USA''s loudest endorsement ever: CISA urges everyone to use
+    encryption!'
+  last_post_description: The recent Salt Typhoon cyberattack, orchestrated by Chinese
+    attackers, finally gave US officials the much needed nudge to start endorsing
+    strong end-to-end encryption, instead of wanting to
+  last_post_date: "2025-01-16T00:00:00Z"
+  last_post_link: https://tuta.com/blog/us-cisa-endorses-encryption
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eba2fab1f3b6a4b55db23a2439ebfbe3
+  last_post_guid: 2da79ce5b10a4e529cab0ada7f1c21d5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

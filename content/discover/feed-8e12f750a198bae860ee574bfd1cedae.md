@@ -1,6 +1,6 @@
 ---
 title: Tomaz's dev blog
-date: "2024-06-20T19:52:07+02:00"
+date: "2025-01-09T12:04:50+01:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/2640003666891728724/posts/default
@@ -27,15 +27,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 296
 ---

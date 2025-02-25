@@ -22,32 +22,34 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: BYD’s bold move in Germany could spell big trouble for Volkswagen
-  last_post_description: |-
-    China’s leading EV maker, BYD, is making big moves to gain a foothold in Europe. BYD’s latest deal could spell big trouble for Volkswagen in Germany.
-
-
-
-     more…
-  last_post_date: "2024-08-30T14:41:39Z"
-  last_post_link: https://electrek.co/2024/08/30/byds-bold-move-germany-could-spell-big-trouble-volkswagen/
+  last_post_title: BMW vows next-gen EV batteries will slash costs and boost range
+    by 30%
+  last_post_description: BMW is preparing for a “technological quantum leap ” with
+    its next-gen EV batteries. The German automaker claims its new tech will deliver
+    30% more driving range, 30% faster charging, and perhaps
+  last_post_date: "2025-02-24T17:37:30Z"
+  last_post_link: https://electrek.co/2025/02/24/bmw-next-gen-ev-batteries-30-more-range-lower-cost/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: bb97d78a21bbbf057ca00a46ab8a1690
+  last_post_guid: c1a36f1863e967f517e5fa98230bef16
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 100
+  avgpostlen: 0
 ---

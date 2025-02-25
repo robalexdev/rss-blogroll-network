@@ -1,6 +1,6 @@
 ---
 title: pts.blog
-date: "2024-07-31T09:52:08+02:00"
+date: "2025-02-06T23:07:41+01:00"
 description: ""
 params:
   feedlink: https://ptspts.blogspot.com/feeds/posts/default/-/planet-python
@@ -27,6 +27,7 @@ params:
   - battery pack
   - beginner
   - binary
+  - binary analysis
   - binary-search
   - bug
   - c
@@ -78,7 +79,9 @@ params:
   - source code
   - staticpython
   - syncless
+  - tasm
   - text
+  - turbo assembler
   - ubuntu
   - unix
   - user inactivity.
@@ -87,29 +90,41 @@ params:
   - workaround
   - zte blade
   relme: {}
-  last_post_title: What's the difference between StaticPython and PyRun?
+  last_post_title: Binary search in line-sorted text files
   last_post_description: ""
-  last_post_date: "2016-02-22T23:45:40+01:00"
-  last_post_link: https://ptspts.blogspot.com/2014/06/whats-difference-between-staticpython.html
+  last_post_date: "2016-08-26T16:43:47+02:00"
+  last_post_link: https://ptspts.blogspot.com/2013/12/binary-search-for-line-sorted-text-files.html
   last_post_categories:
+  - binary-search
+  - bug
+  - c
+  - design
+  - implementation
+  - links
   - planet-python
   - python
-  - staticpython
+  - sorted
+  - text
+  - variable-length
   last_post_language: ""
-  last_post_guid: 5a79d21998025b0faea552282210b784
+  last_post_guid: bbba81f9083baad5e8738153eb26864b
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 21
+  avgpostlen: 293
 ---

@@ -1,6 +1,6 @@
 ---
 title: geothought
-date: "2024-08-27T13:27:45-06:00"
+date: "2025-02-21T00:24:13-07:00"
 description: Thoughts on geospatial and location technology from Peter Batty
 params:
   feedlink: https://www.blogger.com/feeds/8470995059384390571/posts/default
@@ -150,15 +150,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

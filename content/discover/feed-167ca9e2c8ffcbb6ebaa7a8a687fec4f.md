@@ -1,6 +1,6 @@
 ---
 title: Chase McCoy
-date: "2024-08-18T12:00:00-05:00"
+date: "2025-02-19T12:00:00-05:00"
 description: Chase McCoy explores, builds, & writes about the web
 params:
   feedlink: https://chsmc.org/feed.xml
@@ -21,26 +21,30 @@ params:
   relme:
     https://chsmc.org/: true
     https://mastodon.social/@chsmc: true
-  last_post_title: Between process and vision
+  last_post_title: We could all be archivists
   last_post_description: ""
-  last_post_date: "2024-08-18T12:00:00-05:00"
-  last_post_link: https://chsmc.org/2024/08/unfolding/
+  last_post_date: "2025-01-27T12:00:00-05:00"
+  last_post_link: https://chsmc.org/2025/01/archivists/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b2b56f4069e0ebf9cbc7f1fa242aece0
+  last_post_guid: 921f0ad12486584be8e019e66db5ab23
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 49
+  avgpostlen: 295
 ---

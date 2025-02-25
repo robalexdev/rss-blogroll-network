@@ -1,6 +1,6 @@
 ---
 title: justinhj's coding blog
-date: "2024-08-28T08:25:48-07:00"
+date: "2024-11-03T12:55:26-08:00"
 description: This site is now archived. My new coding posts are here http://justinhj.github.io
 params:
   feedlink: https://justinsboringpage.blogspot.com/feeds/posts/default/-/emacs
@@ -137,15 +137,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 18
+  avgpostlen: 290
 ---

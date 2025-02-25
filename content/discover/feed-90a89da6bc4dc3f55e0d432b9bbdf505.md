@@ -15,60 +15,72 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: QuiteRSS
+    description: ""
+    id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories:
-  - concert
-  - event
-  - friendship
-  - frostapalooza
-  - joy
-  - love
-  - mandolin
-  - music
-  - rock
-  - songs
+  - apps
+  - browsers
+  - business
+  - culture
+  - design
+  - development
+  - expectations
+  - frontend
+  - mobile
+  - native
+  - performance
+  - standards
+  - ux
+  - web
   relme: {}
-  last_post_title: Frostapalooza
+  last_post_title: The web on mobile
   last_post_description: |-
-    So Frostapalooza happened on Saturday.
-
-    It was joyous!
-
-    It all started back in July of last year when I got an email from Brad:
+    Here’s a post outlining all the great things you can do in mobile web browsers today: Your App Should Have Been A Website (And Probably Your Game Too):
 
 
-      Next summer I’m turning 40, and I’m going to use that milestone
-  last_post_date: "2024-08-20T21:30:23Z"
-  last_post_link: https://adactio.com/journal/21355
+      Today’s browsers are powerhouses.
+  last_post_date: "2025-02-19T15:31:07Z"
+  last_post_link: https://adactio.com/journal/21728
   last_post_categories:
-  - concert
-  - event
-  - friendship
-  - frostapalooza
-  - joy
-  - love
-  - mandolin
-  - music
-  - rock
-  - songs
+  - apps
+  - browsers
+  - business
+  - culture
+  - design
+  - development
+  - expectations
+  - frontend
+  - mobile
+  - native
+  - performance
+  - standards
+  - ux
+  - web
   last_post_language: ""
-  last_post_guid: fe622c6cac9dbb078e5c63efa06c4f86
+  last_post_guid: bdb5bf153b44e7d83f844ef89169ef1d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

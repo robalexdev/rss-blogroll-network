@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2024-11-18T15:19:35Z"
+date: "2025-02-19T13:21:37Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -16,30 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Restaking
+  - OIIA
   relme: {}
-  last_post_title: Restaking 项目的经济难题
-  last_post_description: Restaking 是一个相对早期的赛道，其中比较有名的项目是 Eigen Layer，有一段时间很火，因为 Eigen
-    Layer 高薪聘请了以太坊基金会的
-  last_post_date: "2024-11-18T15:19:35Z"
-  last_post_link: https://smallyu.net/2024/11/18/Restaking%E9%A1%B9%E7%9B%AE%E7%9A%84%E7%BB%8F%E6%B5%8E%E9%9A%BE%E9%A2%98/
+  last_post_title: 假如启动一个叫 Oiia Network 的以太坊 PoS 网络
+  last_post_description: |-
+    OIIA OIIA（Spining Cat）是最近很火的一只鬼畜旋转猫，对比 PoW 链上的 DOGE，OIIA 将是 PoS 链上的猫主题 memecoin。
+    OIIA 与 pump.fun 发行的 memecoin，以及 $Trump
+  last_post_date: "2025-02-19T13:21:37Z"
+  last_post_link: https://smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/
   last_post_categories:
-  - Restaking
+  - OIIA
   last_post_language: ""
-  last_post_guid: 5342ade9633e47f3e5b445870894262d
+  last_post_guid: 4cf1776692e41865ef2a152a434c4fdd
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 147
+  avgpostlen: 243
 ---

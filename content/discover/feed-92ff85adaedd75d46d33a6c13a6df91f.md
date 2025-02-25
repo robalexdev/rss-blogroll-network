@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 92ff85adaedd75d46d33a6c13a6df91f
   websites:
-    https://www.leaningforward.com/blog: false
     https://www.leaningforward.com/blog/: true
   blogrolls: []
   in_blogrolls:
@@ -15,34 +14,37 @@ params:
     description: ""
     id: e7acde5ed1e3276a025694ed4d825e33
   recommended: []
-  recommender:
-  - https://visitmy.website/feed.xml
+  recommender: []
   categories:
   - weeknotes
   relme: {}
-  last_post_title: Weeknote – 25th August 2024 – Rewiring
-  last_post_description: So I’m writing this feeling very ‘between’. I start as a
-    permanent employee on Tuesday; my contracting life has finished for now. And while
-    the job’s technically the same, with the same
-  last_post_date: "2024-08-26T17:19:54Z"
-  last_post_link: https://www.leaningforward.com/blog/2024/08/weeknote-25th-august-2024-rewiring/?utm_source=rss&utm_medium=rss&utm_campaign=weeknote-25th-august-2024-rewiring
+  last_post_title: '4-monthnote: Honestly, I love change and the unexpected!'
+  last_post_description: Hello again. I’m not alone in being one of the people who’s
+    really struggled with keeping weeknotes going recently. “Recently”. I’ve definitely
+    had what one might call An Abundance Of Real
+  last_post_date: "2025-01-03T18:20:18Z"
+  last_post_link: https://www.leaningforward.com/blog/2025/01/4-monthnote-honestly-i-love-change-and-the-unexpected/?utm_source=rss&utm_medium=rss&utm_campaign=4-monthnote-honestly-i-love-change-and-the-unexpected
   last_post_categories:
   - weeknotes
   last_post_language: ""
-  last_post_guid: 28a4bc70d503dc5c12d61f5a3f32ffb5
+  last_post_guid: 0a0250c82827eaa4c45378f7a09fb113
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

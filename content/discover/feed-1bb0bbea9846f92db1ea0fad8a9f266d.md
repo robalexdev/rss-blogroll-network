@@ -1,6 +1,6 @@
 ---
 title: think on the brink
-date: "2024-06-20T20:15:11+02:00"
+date: "2024-08-31T19:49:45+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/4976722133547753903/posts/default
@@ -29,15 +29,19 @@ params:
     cats: 1
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 1
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 1
+  avgpostlen: 296
 ---

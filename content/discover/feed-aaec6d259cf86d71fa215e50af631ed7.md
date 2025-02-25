@@ -19,28 +19,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'My New Favorite IDE: Cursor'
-  last_post_description: 'In the world of AI-powered development tools, one question
-    is currently a hot topic on tech forums and subreddits: AI-powered IDEsLike many
-    skeptical software engineers, I initially brushed off'
-  last_post_date: "2024-12-04T07:00:21Z"
-  last_post_link: https://www.mensurdurakovic.com/my-new-favorite-ide-cursor/
+  last_post_title: 10 Commandments For Software Engineering Excellence
+  last_post_description: Every software engineer hits that familiar barrier. You've
+    mastered your daily tasks, learned the codebase, and become a reliable team member.
+    Yet something's missing. That nagging feeling that you
+  last_post_date: "2025-02-19T07:00:49Z"
+  last_post_link: https://www.mensurdurakovic.com/10-commandments-for-software-engineering-excellence/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2da583d0edaabf80dad41646e5678b3a
+  last_post_guid: 78b3c88bb41111b30462127b455ee955
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

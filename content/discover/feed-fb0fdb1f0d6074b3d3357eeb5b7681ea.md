@@ -19,30 +19,35 @@ params:
   categories:
   - Haskell
   relme: {}
-  last_post_title: 'Haskell Nuggets: k-means'
+  last_post_title: 'Advent of Code 2024: Haskell Solution Reflections for all 25 Days'
   last_post_description: |-
-    AI is hot, so let’s talk about some “classical machine learning” in Haskell
-    with k-means clustering! Let’s throw in some dependent types too.
-    There are a bazillion ways of implementing such a
-  last_post_date: "2024-07-26T19:06:27Z"
-  last_post_link: https://blog.jle.im/entry/haskell-nuggets-kmeans.html
+    Admittedly a bit late, buuuuuut Merry belated Christmas and Happy New Years
+    to all!
+    This past December I again participated in Eric Wastl’s Advent of Code, a series of 25 daily
+    Christmas-themed
+  last_post_date: "2025-01-21T07:54:15Z"
+  last_post_link: https://blog.jle.im/entry/advent-of-code-2024.html
   last_post_categories:
   - Haskell
   last_post_language: ""
-  last_post_guid: ccf51ccd7963017e2b61ce72ba6284d2
+  last_post_guid: d330aa06e1982ce881e3122635669347
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

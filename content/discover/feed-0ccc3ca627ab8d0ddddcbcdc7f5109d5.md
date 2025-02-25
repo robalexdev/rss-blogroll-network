@@ -1,6 +1,6 @@
 ---
 title: Webbed Briefs
-date: "2023-10-27T00:00:00Z"
+date: "2025-02-06T00:00:00Z"
 description: Brief videos about the web
 params:
   feedlink: https://briefs.video/feed.xml
@@ -30,29 +30,31 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: What Is ARIA Even For?
-  last_post_description: |-
-    In this inaugural episode, I talk about some common pitfalls of using ARIA with
-    the help of Ada Lovelace, a goat, and a dinosaur with a  for a head.
-    Thanks to everyone who shared this and for all the
-  last_post_date: "2020-11-09T00:00:00Z"
-  last_post_link: https://briefs.video/videos/what-is-aria-even-for/
+  last_post_title: Why is everything binary?
+  last_post_description: All of my videos are black and white, but especially this
+    one.
+  last_post_date: "2025-02-06T00:00:00Z"
+  last_post_link: https://briefs.video/videos/why-is-everything-binary/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 695a6a975ec34da8e896213340c57399
+  last_post_guid: 77747ae9714dafc2201eeddfbf74ac00
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

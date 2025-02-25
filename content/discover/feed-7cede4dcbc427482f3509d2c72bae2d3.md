@@ -38,29 +38,36 @@ params:
   - https://danq.me/kind/note/feed/
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Stranded
+  last_post_title: Scream Cipher
   last_post_description: ""
-  last_post_date: "2024-08-28T04:00:00Z"
-  last_post_link: https://xkcd.com/2978/
+  last_post_date: "2025-02-21T05:00:00Z"
+  last_post_link: https://xkcd.com/3054/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 85b0bc68a4f60e39bd21f70647e31758
+  last_post_guid: 20ede07060b935a1256ea74d5f56630d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 4
+  avgpostlen: 0
 ---

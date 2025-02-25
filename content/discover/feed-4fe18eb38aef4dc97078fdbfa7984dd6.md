@@ -22,9 +22,9 @@ params:
   - wikipedia
   relme: {}
   last_post_title: Kiwix in Debian, 2022 update
-  last_post_description: 'Previous updates: 2018, 2021 Kiwix is an offline content
-    reader, best known for distributing copies of Wikipedia. I have been maintaining
-    it in Debian since 2017. This year most of the work has been'
+  last_post_description: Kiwix is an offline content reader, best known for distributing
+    copies of Wikipedia. I have been maintaining it in Debian since 2017. This year
+    most of the work has been keeping all the packages up
   last_post_date: "2022-09-02T03:06:58Z"
   last_post_link: https://blog.legoktm.com/2022/09/02/kiwix-in-debian-2022-update.html
   last_post_categories:
@@ -39,15 +39,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 281
 ---

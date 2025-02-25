@@ -1,6 +1,6 @@
 ---
 title: foreach(hour; life) {/*do something here...*/}
-date: "2024-03-08T07:28:13Z"
+date: "2024-09-12T01:55:32+01:00"
 description: A blog about making some simple applications in D.
 params:
   feedlink: https://foreach-hour-life.blogspot.com/feeds/posts/default
@@ -32,15 +32,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 2
+  avgpostlen: 297
 ---

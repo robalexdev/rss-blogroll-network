@@ -16,10 +16,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SiYuan serverless
+  last_post_title: siyuan_feed插件
   last_post_description: ""
-  last_post_date: "2024-01-14T02:51:32Z"
-  last_post_link: https://shenzilong.cn/想法/项目/SiYuan serverless.html
+  last_post_date: "2024-02-06T09:19:29Z"
+  last_post_link: https://shenzilong.cn/想法/siyuan_feed插件.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: f36680bc38933650bfbed0c0baef7a7d
@@ -27,15 +27,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 0
     website: 0
-  score: 5
+  score: 8
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 4
+  avgpostlen: 0
 ---

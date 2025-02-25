@@ -20,30 +20,33 @@ params:
     https://github.com/remko: true
     https://mas.to/@remko: true
     https://mko.re/: true
-  last_post_title: Packaging Swift apps for Alpine Linux
-  last_post_description: |-
-    While trying to build my Age Apple Secure Enclave
-    plugin, a small Swift CLI app, on
-    Alpine Linux, I realized that the Swift
-    toolchain doesn’t run on Alpine Linux. The upcoming Swift 6 will
-  last_post_date: "2024-06-02T00:00:00Z"
-  last_post_link: https://mko.re/blog/swift-alpine-packaging/
+  last_post_title: 'age-plugin-se: Building a lean cross-platform cryptography tool
+    (FOSDEM''25 Swift Devroom)'
+  last_post_description: In this lightning talk, I show age-plugin-se in action, and
+    touch on the steps taken to make it robust, simple, and distributable on multiple
+    platforms (including Alpine Linux), all while keeping the
+  last_post_date: "2025-02-01T00:00:00Z"
+  last_post_link: https://www.youtube.com/watch?v=L-LSY4Y9G68
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 985e2255ef86478cbcba53b28b4ca57b
+  last_post_guid: 519b8f62f7306389ceed8b5358c7cbfc
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

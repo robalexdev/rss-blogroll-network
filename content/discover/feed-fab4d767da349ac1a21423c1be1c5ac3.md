@@ -17,28 +17,34 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: TIL Emacs Orgmode org-link-set-parameters
+  last_post_title: Change How Repeated Tasks Are Displayed in Org Agenda
   last_post_description: |-
-    Jeremy Friesen in “Exporting Org Mode Elfeed Links”
-    I write up a use case around exporting elfeed links and then provide some code that implements that use-case, wrapping up with a quick overview
-  last_post_date: "2024-08-20T13:32:16+03:00"
-  last_post_link: https://alpo.gitlab.io/jots/links/2024/08/til-emacs-orgmode-org-link-set-parameters/
+    Wai Hon provides a complete solution
+    to customizing how repeated tasks are displayed in Org Agenda:
+    In the Org agenda view, repeated and non-repeated tasks look the same. I always
+    hesitate to mark a
+  last_post_date: "2025-01-04T13:19:25+02:00"
+  last_post_link: https://alpo.gitlab.io/jots/links/2025/01/change-how-repeated-tasks-are-displayed-in-org-agenda/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cbac2596f7e1ca6f4761a3bc4efdcecc
+  last_post_guid: 54c212aa0694e1e3fcc34e988a3d185e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 15
+  avgpostlen: 0
 ---

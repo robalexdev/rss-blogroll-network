@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-08-26T00:00:00Z"
+date: "1970-01-01T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/read.xml
@@ -43,6 +43,7 @@ params:
   - https://reillyspitzfaden.com/blog/feed.xml
   - https://rss.art19.com/eye-of-the-duck
   - https://sarajaksa.eu/rss.xml
+  - https://so1o.xyz/feed.xml
   - https://system31.simone.computer/rss.xml
   - https://tracydurnell.com/feed/
   - https://veronique.ink/feed/?type=rss
@@ -53,6 +54,7 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
+  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://kandr3s.co/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
@@ -64,15 +66,21 @@ params:
   - https://localghost.dev/musics.xml
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
+  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://marksuth.dev/feed/photos.xml
   - https://marksuth.dev/feed/stream.xml
   - https://muan.co/notes.xml
   - https://nicksimson.com/comments/feed/
+  - https://nicksimson.com/posts/feed/
   - https://ohhelloana.blog/feed.links.xml
   - https://piperhaywood.com/comments/feed/
   - https://piperhaywood.com/feed/
+  - https://reillyspitzfaden.com/feed.xml
+  - https://reillyspitzfaden.com/likes/feed.xml
+  - https://reillyspitzfaden.com/notes/feed.xml
   - https://tracydurnell.com/comments/feed/
+  - https://veronique.ink/feed/
   - https://ellyloel.com/feed.atom
   - https://ellyloel.com/feed.rss
   - https://www.lkhrs.com/index.xml
@@ -82,27 +90,30 @@ params:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Finished Reading Remarkably Bright Creatures by Shelby Van Pelt
-  last_post_description: Finished Reading Remarkably Bright Creatures by Shelby Van
-    Pelt
-  last_post_date: "2024-08-26T00:00:00Z"
-  last_post_link: https://benji.dog/read/1724864952-remarkably-bright-creatures/
+  last_post_title: Finished Reading The Goblin Emperor by Sarah Monette
+  last_post_description: ""
+  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_link: https://benji.dog/read/1736529077-the-goblin-emperor/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 04e3a7ecb5ac7f459eed7ffd52b8ee14
+  last_post_guid: 2c5d7baddd8b78c7cdfb1fa6c8ed81f0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

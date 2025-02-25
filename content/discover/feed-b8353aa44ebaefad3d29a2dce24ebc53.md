@@ -15,6 +15,8 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme:
@@ -33,15 +35,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 296
 ---

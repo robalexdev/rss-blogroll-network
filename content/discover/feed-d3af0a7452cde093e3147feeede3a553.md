@@ -16,29 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 技术
+  - 杂谈
   relme: {}
-  last_post_title: 基于泰山派的 PiKVM
-  last_post_description: PiKVM 是基于树莓派实现的IP KVM工具，它能够把开发板模拟成键盘、鼠标、移动硬盘等，通过USB接入到目标主机，并且
-  last_post_date: "2024-06-09T05:36:18Z"
-  last_post_link: https://farer.org/2024/06/09/pikvm-on-lckfb-tspi-rk3566/
+  last_post_title: 老板，来杯IPA，像我生活一样苦的
+  last_post_description: 又是一年时光飞逝，繁忙的工作让表达能力跌至冰点，想写点什么又不知从何写起，这篇东西写写删删，一度以为
+  last_post_date: "2025-01-08T14:45:14Z"
+  last_post_link: https://farer.org/2025/01/08/bye-2024/
   last_post_categories:
-  - 技术
+  - 杂谈
   last_post_language: ""
-  last_post_guid: e61b5a9328727083e6a8173b0332e9f3
+  last_post_guid: 120e83e88feac7f06519b8ba4d36d5b1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

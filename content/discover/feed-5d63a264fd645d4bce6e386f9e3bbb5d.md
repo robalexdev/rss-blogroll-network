@@ -10,114 +10,238 @@ params:
   feedid: 5d63a264fd645d4bce6e386f9e3bbb5d
   websites:
     https://marisabel.nl/: true
-    https://marisabel.nl/public/blog.php: false
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
   in_blogrolls: []
   recommended:
+  - https://100daysof.blog/feed.xml
   - https://alexandrawolfe.ca/feed/
+  - https://andypbrowne.com/feed/feed.xml
   - https://aramzs.xyz/writing/feed.xml
-  - https://birming.com/feed/
-  - https://blogofthe.day/feed.xml
+  - https://artlung.com/feed/
+  - https://ash.ms/atom.xml
+  - https://beccais.online/rss/
+  - https://bentsai.org/posts_feed
+  - https://birming.com/feed
+  - https://blog.pcora.eu/feed.xml
+  - https://blog.uvm.edu/aivakhiv/feed/
+  - https://bnjmn.org/blog/feed/
+  - https://brainbaking.com/index.xml
+  - https://branch.climateaction.tech/feed/
+  - https://brianjdevries.com/feed.xml
   - https://buttondown.email/ownyourweb/rss
-  - https://cmdr-nova.online/rss
+  - https://cassidoo.co/rss.xml
+  - https://chavanniclass.wordpress.com/feed/
+  - https://chias.blog/feed/
+  - https://chrishannah.me/index.xml
+  - https://conatusprinciple.blog/feed.xml
+  - https://danq.me/feed/
   - https://darch.dk/feed/page:feed.xml
+  - https://darthmall.net/feed.xml
+  - https://degruchy.org/feed/
+  - https://derekkedziora.com/feed.xml
+  - https://dgood.win/index.xml
   - https://dominikhofer.me/rss.xml
+  - https://earendelmir.xyz/feed.xml
+  - https://erambler.co.uk/index.xml
   - https://exploration.work/index.xml
+  - https://feedpress.me/coryd
   - https://feeds.feedburner.com/68131
+  - https://feeds.feedburner.com/BrynMawrClassicalReview
+  - https://feeds.feedburner.com/robweychert
   - https://flower.codes/feed.xml
+  - https://foreverliketh.is/blog/index.xml
   - https://gersande.com/blog/rss/
+  - https://gkeenan.co/avgb/feed.xml
   - https://granary.io/url?input=html&output=rss&url=https%3A//jamesg.blog
+  - https://hacdias.com/articles/feed.xml
+  - https://howdoyouspell.cool/forrest/feed/
+  - https://httpster.io/feed.xml
+  - https://im.farai.xyz/feed.rss.xml
+  - https://immerweiterlaufen.de/feed
+  - https://inessential.com/xml/rss.xml
   - https://ingrids.space/index.xml
   - https://iwebthings.joejenett.com/feed.atom
+  - https://jasonjournals.com/posts_feed
+  - https://jeffbridgforth.com/feed/
   - https://jessicajournals.com/index.xml
-  - https://kaushiksamba.bearblog.dev/feed/?type=rss
+  - https://joekrall.com/atom.xml
+  - https://joelchrono.xyz/feed.xml
+  - https://kayserifserif.place/feed.xml
+  - https://kersed.net/index.xml
+  - https://kevingimbel.de/blog/category/re/feed/
+  - https://kevq.uk/feed.xml
+  - https://kevquirk.com/feed
   - https://lazybear.io/index.xml
+  - https://ldstephens.me/feed
+  - https://lethain.com/feeds.xml
+  - https://levimcg.com/feed.xml
+  - https://listmonk.32bit.cafe/archive.xml
   - https://longest.voyage/index.xml
   - https://manuelmoreale.com/feed/rss
-  - https://martinschuhmann.com/feed/
+  - https://marcamos.com/journal/feed.xml
+  - https://marcorogers.com/blog?format=rss
+  - https://marcthiele.com/feed-all
   - https://mary.codes/rss.xml
   - https://matanabudy.com/feed/
+  - https://matthiasott.com/rss
   - https://mattstein.com/rss.xml
-  - https://mfashby.net/index.xml
   - https://michal.sapka.me/index.xml
-  - https://mxb.dev/notes/feed.xml
+  - https://mijndertstuij.nl/feed.xml
+  - https://mikegrindle.com/feed.xml
+  - https://minutestomidnight.co.uk/feed.xml
+  - https://newsletter.squishy.computer/feed
   - https://nora.codes/index.xml
   - https://notes.ashsmash.com/rss
   - https://notes.jeddacp.com/feed
+  - https://notiz.blog/feed/
   - https://rachsmith.com/feed.xml
-  - https://rebeccatoh.co/feed/
+  - https://rahim.li/index.xml
+  - https://renecoignard.com/rss/
   - https://ritaottramstad.com/feed/
+  - https://rknight.me/feed.xml
   - https://robertkingett.com/feed/
+  - https://rscottjones.com/feed/
   - https://saneboat.com/posts_feed
   - https://scottnesbitt.online/feed.xml
+  - https://selfawarepatterns.com/feed/
+  - https://sfss.space/feed
+  - https://sive.rs/en.atom
   - https://squeaki.sh/rss.xml
   - https://starbreaker.org/feeds/everything.xml
-  - https://stephango.com/feed.xml
+  - https://steele.blue/feed/atom.xml
+  - https://stephencox.substack.com/feed
   - https://subtle-echo.pika.page/posts_feed
   - https://tangiblelife.net/feed.rss
-  - https://theresmiling.eu/rss.xml
   - https://theunderground.blog/feed.xml
   - https://thoughts.uncountable.uk/feed/
-  - https://timharek.no/feed.xml
-  - https://wand3r.net/feed/
-  - https://winnielim.org/feed/
-  - https://www.softlandings.world/feed.rss
-  - https://www.zylstra.org/blog/category/metablogging/feed/
+  - https://v5.chriskrycho.com/feed.xml
+  - https://v5.chriskrycho.com/journal/feed.xml
+  - https://writingslowly.com/feed.xml
+  - https://www.bryanbraun.com/rss.xml
+  - https://www.chrisbrakebill.com/feed.xml
+  - https://www.conscienceround.com/feed
+  - https://www.fromjason.xyz/p/notebook/feed/feed.xml
+  - https://www.josemunozmatos.com/blog/rss.xml
+  - https://www.met-k.com/feed/
+  - https://www.nova-prime.net/feed.xml
+  - https://www.personalcanon.com/feed
+  - https://www.petergoes.nl/blog/feed.xml
+  - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
-  - https://alexandrawolfe.ca/feed/?type=rss
-  - https://dominikhofer.me/newsletter.xml
+  - https://alexandrawolfe.ca/comments/feed/
+  - https://ash.ms/atom-bookmarks.xml
+  - https://bne.social/@ash.rss
+  - https://www.goodreads.com/review/list_rss/11559548
+  - https://beccais.online/excerpts.xml
+  - https://beccais.online/rss.xml
+  - https://birming.com/feed/
+  - https://birming.com/feed/?type=rss
+  - https://bmcr.brynmawr.edu/comments/feed/
+  - https://bmcr.brynmawr.edu/feed/
+  - https://bnjmn.org/comments/feed/
+  - https://bnjmn.org/feed/
+  - https://branch.climateaction.tech/comments/feed/
+  - https://buttondown.com/rss.xml
+  - https://chavanniclass.wordpress.com/comments/feed/
+  - https://chias.blog/comments/feed/
+  - https://danq.me/comments/feed/
+  - https://darthmall.net/feed/all.xml
+  - https://darthmall.net/feed/essays.xml
+  - https://darthmall.net/feed/notes.xml
+  - https://degruchy.org/atom.xml
+  - https://degruchy.org/feed.xml
+  - https://degruchy.org/index.xml
+  - https://httpster.io/atom.xml
+  - https://httpster.io/feed.json
+  - https://httpster.io/rss.xml
+  - https://immerweiterlaufen.de/comments/feed/
+  - https://immerweiterlaufen.de/feed/
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
+  - https://jeffbridgforth.com/comments/feed/
+  - https://kevingimbel.de/feed
+  - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/posts-feed
+  - https://kevquirk.com/watch-log-feed
+  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
-  - https://mxb.dev/feed.xml
+  - https://matanabudy.com/feed/?type=rss
   - https://notes.ashsmash.com/rss.xml
+  - https://notes.jeddacp.com/feed/
+  - https://notes.jeddacp.com/feed/?type=rss
+  - https://notiz.blog/
+  - https://notiz.blog/comments/feed/
+  - https://notiz.blog/type/aside/feed/
+  - https://notiz.blog/type/audio/feed/
+  - https://notiz.blog/type/gallery/feed/
+  - https://notiz.blog/type/image/feed/
+  - https://notiz.blog/type/link/feed/
+  - https://notiz.blog/type/quote/feed/
+  - https://notiz.blog/type/standard/feed/
+  - https://notiz.blog/type/status/feed/
+  - https://notiz.blog/type/video/feed/
+  - https://nova.mkultra.monster/feed.xml
   - https://rachsmith.com/rss/
-  - https://rebeccatoh.co/comments/feed/
-  - https://wand3r.net/feed/?type=rss
-  - https://winnielim.org/feed/?cat=2%2C4%2C8
-  - https://www.zylstra.org/blog/comments/feed/
-  - https://www.zylstra.org/blog/feed/
+  - https://rknight.me/subscribe/posts/atom.xml
+  - https://rknight.me/subscribe/posts/rss.xml
+  - https://rscottjones.com/comments/feed/
+  - https://selfawarepatterns.com/comments/feed/
+  - https://sfss.space/feed/
+  - https://v5.chriskrycho.com/elsewhere/feed.xml
+  - https://v5.chriskrycho.com/essays/feed.xml
+  - https://v5.chriskrycho.com/library/feed.xml
+  - https://v5.chriskrycho.com/photos/feed.xml
+  - https://www.chrisbrakebill.com/podcast.xml
+  - https://www.conscienceround.com/comments/feed
+  - https://www.fromjason.xyz/feed/feed.xml
+  - https://www.josemunozmatos.com/bookmarks/rss.xml
+  - https://www.josemunozmatos.com/changelog/rss.xml
+  - https://www.met-k.com/comments/feed/
+  - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
   categories:
-  - emotions
-  - life
-  - parenting
-  - personal
-  - reflection
+  - books
+  - libraries
+  - philosophy
+  - thoughts
   relme:
     https://github.com/immarisabel: true
     https://github.com/immarisabel/: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-    https://marisabel.nl/public/blog.php: true
-  last_post_title: On Living a Gentle Life
-  last_post_description: "\uFEFF\n\x49\x20\x61\x6D\x20\x4C\x61\x74\x69\x6E\x61\x2C\x20\x74\x68\x6F\x75\x67\x68\x20\x6E\x6F\x74\x20\x74\x68\x65\x20\x6B\x69\x6E\x64\x20\x6F\x66\x20\x4C\x61\x74\x69\x6E\x61\x20\x77\x6F\x6D\x61\x6E\x20\x79\x6F\x75\x20\x6F\x66\x74\x65\x6E\x20\x68\x65\x61\x72\x20\x61\x62\x6F\x75\x74\x2E\x20\x57\x65\x6C\x6C\x2C\x20\x65\x78\x63\x65\x70\x74\x20\x66\x6F\x72\x20\x6F\x6E\x65\x20\x74\x68\x69\x6E\x67\x3A\x20\x49\x20\x6C\x69\x76\x65\x20\x61\x6E\x64\x20\x65\x78\x70\x72\x65\x73\x73\x20\x6D\x79\x20\x65\x6D\x6F\x74\x69\x6F\x6E\x73\x20\x77\x69\x74\x68\x20\x70\x61\x73\x73\x69\x6F\x6E\x2E\x20\x42\x75\x74\x20\x61\x73\x20\x72\x6F\x6D\x61\x6E\x74\x69\x63\x20\x61\x73\x20\x74\x68\x61\x74\x20\x73\x6F\x75\x6E\x64\x73\x2C\x20\x69\x74\x20\x68\x61\x73\x20\x73\x74\x61\x72\x74\x65\x64\x20\x74\x6F"
-  last_post_date: "2024-08-23T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/On_Living_a_Gentle_Life
+  last_post_title: May you find your reader soon
+  last_post_description: In 1931, S. R. Ranganathan proposed the Five Laws of Library
+    Science, a framework that has since become the mitochondrial DNA of every library—more
+    than a backbone, a life force. These laws are not
+  last_post_date: "2025-02-20T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/May_you_find_your_reader_soon
   last_post_categories:
-  - emotions
-  - life
-  - parenting
-  - personal
-  - reflection
+  - books
+  - libraries
+  - philosophy
+  - thoughts
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

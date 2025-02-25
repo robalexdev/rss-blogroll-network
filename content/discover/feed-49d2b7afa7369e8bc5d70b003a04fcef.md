@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2024-12-05T20:00:44Z"
+date: "2025-02-13T13:21:28Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -20,26 +20,30 @@ params:
   categories: []
   relme:
     https://dotat.at/@/blog.html: true
-  last_post_title: nsnotifyd-2.3 released
+  last_post_title: random numbers from pcg32 at 200 Gbit/s
   last_post_description: ""
-  last_post_date: "2024-12-05T20:00:44Z"
-  last_post_link: https://dotat.at/@/2024-12-05-nsnotifyd-2-3-released.html
+  last_post_date: "2025-02-13T13:21:28Z"
+  last_post_link: https://dotat.at/@/2025-02-13-pcg32-simd.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 021bd9cdc6eda6a7b444f357a574e12b
+  last_post_guid: abba12115faa36f1df8b19a4711bff46
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 295
 ---

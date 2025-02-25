@@ -8,6 +8,7 @@ params:
   feedid: f0f798e65c3315beb44c01cbfb0a5c9f
   websites:
     https://blogs.scummvm.org/phoenixflame101: true
+    https://blogs.scummvm.org/phoenixflame101/: false
   blogrolls: []
   in_blogrolls:
   - title: ScummVM Planet
@@ -32,15 +33,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

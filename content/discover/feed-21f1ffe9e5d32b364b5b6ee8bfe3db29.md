@@ -1,6 +1,6 @@
 ---
 title: Eclipse and Java Blog by Michael Scharf
-date: "2024-07-25T01:31:50+02:00"
+date: "2025-01-25T22:25:01+01:00"
 description: Here I collect interesting links and findings about eclipse and java...
 params:
   feedlink: https://www.blogger.com/feeds/17681521/posts/default
@@ -108,15 +108,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 295
 ---

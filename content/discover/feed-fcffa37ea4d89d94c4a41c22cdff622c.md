@@ -1,6 +1,6 @@
 ---
 title: Happenings in Python Usergroups
-date: "2024-08-28T13:14:41-04:00"
+date: "2024-10-08T21:24:21-04:00"
 description: Here are collected postings from the various Python usergroups around
   the world, giving notice of upcoming events or summaries of meetings just past.
 params:
@@ -100,15 +100,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 289
 ---

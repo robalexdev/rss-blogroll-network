@@ -1,6 +1,6 @@
 ---
 title: Cateee
-date: "2024-03-13T20:50:27+01:00"
+date: "2024-09-15T07:55:37+02:00"
 description: ""
 params:
   feedlink: https://cateee.blogspot.com/feeds/posts/default
@@ -43,15 +43,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 7
+  avgpostlen: 295
 ---

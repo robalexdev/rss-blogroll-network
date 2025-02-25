@@ -1,6 +1,6 @@
 ---
 title: pd
-date: "2024-04-11T11:33:50+02:00"
+date: "2024-12-27T13:20:40+01:00"
 description: WEBlog -- Wouter's Eclectic Blog
 params:
   feedlink: https://grep.be/blog/pd/index.rss
@@ -17,31 +17,35 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: OpenSC and the Belgian eID
+  last_post_title: Writing an extensible JSON-based DSL with Moose
   last_post_description: |-
-    Getting the Belgian eID to work on Linux
-    systems should be fairly easy, although some people do struggle with it.
+    At work, I've been maintaining a perl script that needs to run a number
+    of steps as part of a release workflow.
 
-    For that reason, there is a lot of third-party documentation out there
-    in the form
-  last_post_date: "2024-04-11T11:33:50+02:00"
-  last_post_link: https://grep.be/blog//en/computer/eID/OpenSC_and_the_Belgian_eID/
+    Initially, that script was very simple, but over time it has grown to do
+    a number of
+  last_post_date: "2024-12-27T12:39:12+01:00"
+  last_post_link: https://grep.be/blog//en/computer/Writing_an_extensible_JSON-based_DSL_with_Moose/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 19b54f000d4ad468b51205abc3f176a5
+  last_post_guid: 6b761bdda545bb460aeddac44c327cec
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -33,29 +33,33 @@ params:
   categories:
   - Culture
   relme: {}
-  last_post_title: How Philosophers Confront Death (ft. Caitlin Doughty)
-  last_post_description: 'Death is certain: we don''t like thinking about it but it''s
-    true! But on Philosophy Tube we think about everything, so this episode confronts
-    death head-on. We talk about why individuals find it so'
-  last_post_date: "2024-08-02T17:00:09Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-how-philosophers-confront-death-ft-caitlin-doughty/
+  last_post_title: Was Nietzsche MAGA?
+  last_post_description: Continuing our exploration of Friedrich Nietzsche, we apply
+    his work to Donald Trump and the MAGA movement to learn about the Will to Power
+    and Antimodernism.
+  last_post_date: "2025-02-14T19:30:16Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-was-nietzsche-maga/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: fe669eabf125ef91522d8ca21feb46f8
+  last_post_guid: dfc1e3cc64aced26318bff07940b884b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

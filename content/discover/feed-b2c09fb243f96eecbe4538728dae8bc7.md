@@ -1,6 +1,6 @@
 ---
 title: Surgut
-date: "2024-08-30T01:00:02+01:00"
+date: "2024-10-02T08:52:54+01:00"
 description: a personal blog of Dimitri John Ledkov
 params:
   feedlink: https://blog.surgut.co.uk/feeds/posts/default/-/debian-planet
@@ -122,15 +122,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 292
 ---

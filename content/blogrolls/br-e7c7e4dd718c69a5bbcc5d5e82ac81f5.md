@@ -1,6 +1,6 @@
 ---
 title: çais )
-date: "2024-08-29T21:54:47+00:00"
+date: "2025-02-23T19:29:31+00:00"
 description: ""
 params:
   link: https://planet.mageia.org/fr/custom/people.opml

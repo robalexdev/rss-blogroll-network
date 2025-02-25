@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: UV tricks
-  last_post_description: Don't forget to uv self update before trying those
-  last_post_date: "2024-12-15T20:59:32Z"
-  last_post_link: https://www.bitecode.dev/p/uv-tricks
+  last_post_title: Slashing my ".bashrc" in half
+  last_post_description: In only 10 years
+  last_post_date: "2025-02-20T21:20:44Z"
+  last_post_link: https://www.bitecode.dev/p/slashing-my-bashrc-in-half
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5c57a1c4573ee28f04d9263b986382f7
+  last_post_guid: 781232c53c129a6d0e192bef5dffa4b6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

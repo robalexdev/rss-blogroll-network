@@ -20,26 +20,31 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Stephen Clark Seward
-  last_post_description: My eulogy for Dad
-  last_post_date: "2024-06-19T11:45:24Z"
-  last_post_link: https://www.zachseward.com/stephen-clark-seward/
+  last_post_title: My panel at Web Summit about how The Times newsroom uses AI
+  last_post_description: Talking about how AI is being used among journalists at The
+    New York Times.
+  last_post_date: "2025-02-20T18:00:01Z"
+  last_post_link: https://www.zachseward.com/my-panel-at-web-summit-about-how-the-times-uses-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d2e2263e21a2e92e719dadfbfbd49eca
+  last_post_guid: fbf05e09e1ca8e23e6c230d85833b017
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

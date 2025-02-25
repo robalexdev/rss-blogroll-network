@@ -17,30 +17,33 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: OpenStack global footprint exceeds 45 million compute cores as
-    users tackle common obstacles
-  last_post_description: The 10th iteration of the OpenStack User Survey highlights
-    expanding footprint of OpenStack clouds, reinforcing architecture trends and introducing
-    new usage patterns   Over the past 10 years, over
-  last_post_date: "2023-11-16T16:05:01Z"
-  last_post_link: https://www.openstack.org/blog/openstack-global-footprint-exceeds-45-million-compute-cores-as-users-tackle-common-obstacles/
+  last_post_title: Celebrating 15 Years of OpenStack!
+  last_post_description: The last fifteen years of OpenStack’s success is not just
+    about the technology—it’s about the incredible global community that has fueled
+    its growth. Thousands of developers, operators, and
+  last_post_date: "2025-02-05T16:24:59Z"
+  last_post_link: https://www.openstack.org/blog/celebrating-15-years-of-openstack/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 72b7d8608fa2a2ffdebb829696481f09
+  last_post_guid: ee8c247d9d84f73499255ebd281a5508
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

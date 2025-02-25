@@ -25,11 +25,14 @@ params:
     description: Ryan Barrett's blog
     id: 097035c672738e42e8824aeda052be50
   - title: Kev Quirk
-    description: Latest posts from my blog
+    description: Latest posts and notes from my blog
     id: 09cd3f10a54bd9ccc5caf48b9de69412
   - title: Alistair Shepherd
     description: ""
     id: 0c692d0ad50fe087c2b34a374cd2056c
+  - title: amble.blog
+    description: amble.blog is the personal space of Christof
+    id: 0da5f019afc503f1c84721bf28753741
   - title: Ben Congdon
     description: Recent posts from Ben Congdon
     id: 11a89e0fe172b0249318193e84cc8f9b
@@ -50,6 +53,9 @@ params:
   - title: zerokspot.com
     description: Recent content on zerokspot.com
     id: 1c35c2dfa456afc138e9782bc5058db8
+  - title: Yivi docs Blog
+    description: Yivi docs Blog
+    id: 1d53e568c9ac5d5ad616348a223f433e
   - title: Hi, I'm Brunty on Matt Brunt - Developer & Problem Solver
     description: Recent content in Hi, I'm Brunty on Matt Brunt - Developer & Problem
       Solver
@@ -67,6 +73,11 @@ params:
   - title: Decentralized Thoughts
     description: Decentralized thoughts about decentralization
     id: 29a27d954884cc027e3cad8498eb4150
+  - title: Herprogrammeer de Overheid
+    description: Herprogrammeer de Overheid werkt samen met mensen uit de tech-industrie
+      en de overheid om betere digitale dienstverlening te bouwen. Volg onze nieuwsbrief
+      om op de hoogte te blijven van onze
+    id: 2a929f2707b3822a14f8189a17e0dd22
   - title: Aral Balkan
     description: Recent content on Aral Balkan
     id: 2bdcf46255d3e1ab95149c919b2bf588
@@ -86,8 +97,7 @@ params:
     description: A blog about GoBlog
     id: 3db2d262d2d4048cfde088ab15f14858
   - title: Tim Hårek
-    description: A technologist from Norway that cares about creating solutions that
-      respects people's privacy, security and user experience.
+    description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
   - title: schollz
     description: Recent content on schollz
@@ -98,6 +108,9 @@ params:
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
+  - title: Jan’s Blog &ndash; Articles
+    description: Web Development and More
+    id: 4fbe99409113298b4a0ab9566176d09b
   - title: 'Simon Willison''s Weblog: Entries'
     description: ""
     id: 5796e2c8b118c5d404d48ede826779e7
@@ -108,7 +121,7 @@ params:
     description: PaulStamatiou.com - Technology, Design and Photography
     id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
-    description: I write a blog my user experience with the world.
+    description: '[object Object]'
     id: 5cd3085a60f3bae159ce042035a1e3de
   - title: Ben Borgers
     description: Ben Borgers’ personal website.
@@ -126,24 +139,22 @@ params:
   - title: CommitStrip
     description: The blog relating the daily life of web agency developers
     id: 6563b55e1c0ad9cb06775ddc27d4136a
-  - title: Jan’s Blog
-    description: On Web Development, WordPress, and More
-    id: 65ab85477b63cb64d50ae68eecc3e4c4
   - title: ~emersion/gamja refs
     description: Git refs for ~emersion/gamja
     id: 674c821ceab308023abe43729d2f298e
   - title: RSS
     description: ""
     id: 67d297ee7c983d02e35810c8569a7254
-  - title: Jethro Kuan
-    description: Recent content on Jethro Kuan
-    id: 682d41c7de022f55be1e3c1ef7041e14
   - title: Ru
     description: freelance React developer.
     id: 6a61901802dcaa6eb0b356073539c6da
   - title: Marius Schulz
     description: Marius Schulz on web development, modern JavaScript, and TypeScript.
     id: 6f1ddc05efd4806ab8f4053369209469
+  - title: ᕕ( ᐛ )ᕗ Herman's blog
+    description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
+      hiker of mountains.
+    id: 70bd2cb4aea08909cfd5279c3cac3d23
   - title: Austin Z. Henley's Blog
     description: ""
     id: 716f56c4993992eccbc7d1042247d7f0
@@ -156,9 +167,6 @@ params:
   - title: Home on The Rusty Bever
     description: Recent content in Home on The Rusty Bever
     id: 7d6ed550d412372685e540b54f6996f7
-  - title: Security.NL maakt Nederland veilig
-    description: Security.NL maakt Nederland veilig
-    id: 7e56d31f2acda3c4f67b866e2f4a3aaa
   - title: mew news
     description: News and updates from mew.tv
     id: 802dbbcfeb696567ec1b5dd6cd87f7a3
@@ -186,6 +194,10 @@ params:
   - title: Simon Safar
     description: All recent entries from simonsafar.com
     id: 90854f1f0dae048e656814729f666c81
+  - title: Darek Kay
+    description: Darek Kay is a professional front-end developer and an accessibility
+      advocate.
+    id: 9128c714a17a663e481c65901281be92
   - title: heyokyay
     description: Comics
     id: 925a63f634856290ac662b7a1cda47bc
@@ -197,6 +209,9 @@ params:
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
     id: 9417e92ed42b42a9df3959016838f82d
+  - title: Readings - Henrique Dias
+    description: ""
+    id: 95f4f2a5765ed1075962303225cfcb80
   - title: Seblog.nl
     description: Nieuwe posts op Seblog.nl
     id: 975c20c1343b56f76f9318596089f92d
@@ -229,6 +244,13 @@ params:
   - title: Robin Berjon
     description: ""
     id: badae9597eb9cd1621f2c0656f62d2a5
+  - title: Robb Knight • Posts • Atom Feed
+    description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and
+      human dad.
+    id: beb57c334e61d6ec968b6685ea8ba92b
+  - title: gRegorLove.com
+    description: ""
+    id: c2852d793e0edd5258dbae860c41b1e5
   - title: Alpine Linux News
     description: ""
     id: c692078d3e6f22e8f331b1ed54acb512
@@ -244,6 +266,9 @@ params:
   - title: Golang Weekly
     description: A weekly newsletter about the Go programming language
     id: d46c716559b7b2849bc370389bd23367
+  - title: This Week in the IndieWeb
+    description: See what's been happening this week in the IndieWeb
+    id: d595d66dd9d85d167e75fa1c5b406c9d
   - title: Julia Evans
     description: ""
     id: d90120327a3aa08790f4a1669c180620
@@ -273,9 +298,9 @@ params:
   - title: Feross.org
     description: Pure concentrated awesome.
     id: e66e3d85973c187a17ed647f7dddb23b
-  - title: beepb00p
-    description: feed
-    id: e736d41f0fefe88e19b76f1925c1c4d3
+  - title: Bookmarks - Henrique Dias
+    description: ""
+    id: e83ed8c7f9f995c598c43c3992c4f885
   - title: daverupert.com
     description: The personal blog of Dave Rupert, web developer and podcaster from
       Austin, TX.
@@ -283,4 +308,7 @@ params:
   - title: The Whimsical Web
     description: A curated list of websites with an extra bit of fun.
     id: f24e48f5318987b504c6eb3eaea24983
+  - title: selfh.st
+    description: Self-hosted news, content, updates, and more.
+    id: f8c15c4cb863df6766b19fe9d375a0d4
 ---

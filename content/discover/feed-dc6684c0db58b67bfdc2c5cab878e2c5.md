@@ -1,6 +1,6 @@
 ---
 title: Coded Structure
-date: "2024-02-07T04:20:23Z"
+date: "2024-09-04T19:29:16+01:00"
 description: Thoughts on programming, systems, structure and Truth...
 params:
   feedlink: https://blog.codedstructure.net/feeds/posts/default/-/python
@@ -49,27 +49,34 @@ params:
   - website
   - xml
   relme: {}
-  last_post_title: The Dynamics of Catching Exceptions in Python
+  last_post_title: Announcing pylibftdi - a minimal Pythonic wrapper for libftdi
   last_post_description: ""
-  last_post_date: "2013-05-02T23:56:29+01:00"
-  last_post_link: https://blog.codedstructure.net/2013/05/the-dynamics-of-catching-exceptions-in.html
+  last_post_date: "2013-11-25T22:11:35Z"
+  last_post_link: https://blog.codedstructure.net/2010/09/announcing-pylibftdi-minimal-pythonic.html
   last_post_categories:
+  - ftdi
+  - programming
+  - pylibftdi
   - python
   last_post_language: ""
-  last_post_guid: 7b25a8eac2478e00c284d3251eaa3bcd
+  last_post_guid: a6f108aa6b40e183aa44b3f2ef869c3c
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 1
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 22
+  avgpostlen: 296
 ---

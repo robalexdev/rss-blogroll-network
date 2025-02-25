@@ -1,6 +1,6 @@
 ---
-title: Werden wir Helden für einen Tag
-date: "2024-08-23T14:00:37+02:00"
+title: chainsawriot
+date: "2025-02-10T14:02:32+01:00"
 description: ""
 params:
   feedlink: https://chainsawriot.com/feed/by_tag/emacs.xml
@@ -34,15 +34,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 296
 ---

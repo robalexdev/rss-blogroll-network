@@ -30,37 +30,39 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - UX
-  - browsers
+  - dev
+  - security
   - web
-  - webdev
   relme: {}
-  last_post_title: 'Browser Features: Find in Page'
-  last_post_description: For busy web users, the humble Find-in-Page feature in the
-    browser is one of the most important features available. While Google or Bing
-    can get you to the page you’re looking for faster than ever
-  last_post_date: "2024-07-15T15:49:20Z"
-  last_post_link: https://textslashplain.com/2024/07/15/browser-features-find-in-page/
+  last_post_title: Guidelines for Secure Filename Display
+  last_post_description: Many years ago, I wrote the first drafts of Chromium’s Guidelines
+    for Secure URL Display. These guidelines were designed to help feature teams avoid
+    security bugs whereby a user might misinterpret
+  last_post_date: "2025-02-21T20:32:53Z"
+  last_post_link: https://textslashplain.com/2025/02/21/guidelines-for-secure-filename-display/
   last_post_categories:
-  - UX
-  - browsers
+  - dev
+  - security
   - web
-  - webdev
   last_post_language: ""
-  last_post_guid: f360af2cf448001a6d58f908484c3ad6
+  last_post_guid: 6c19e7d2abe1375b2a0dbe64d19cb7d0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

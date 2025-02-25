@@ -1,6 +1,6 @@
 ---
 title: Learning (Lib)Tech
-date: "2024-07-27T01:52:38Z"
+date: "2025-01-01T08:17:12Z"
 description: Stories from my Life as a Technologist
 params:
   feedlink: https://cynthiang.ca/feed/atom/
@@ -15,36 +15,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GitLab
   - Update
+  - WordPress
   - reflection
+  - statistics
   relme: {}
-  last_post_title: 'Reflection: The second half of my sixth year at GitLab and learning
-    Strategy &#038; Operations'
-  last_post_description: Hard to believe it’s been 6 years, and I certainly didn’t
-    imagine working outside of Product and Engineering at any point until it happened.
-    Check out the last reflection post if you’re
-  last_post_date: "2024-07-27T01:52:38Z"
-  last_post_link: https://cynthiang.ca/2024/06/13/reflection-the-second-half-of-my-sixth-year-at-gitlab/
+  last_post_title: 2024 Blog Year in Review + Hosting Provider Change
+  last_post_description: A short announcement attached to this year’s blog review
+    post. Move off of WP.com to DreamHost I posted a while back about moving off of
+    WordPress.com, and I’ve finally done the official switch
+  last_post_date: "2025-01-01T08:17:12Z"
+  last_post_link: https://cynthiang.ca/2025/01/01/2024-blog-year-in-review/
   last_post_categories:
-  - GitLab
   - Update
+  - WordPress
   - reflection
+  - statistics
   last_post_language: ""
-  last_post_guid: 2d10d47a98591dff04f1e393d94109a0
+  last_post_guid: e7215af21b4a9dd8250bf15996f9f3ab
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

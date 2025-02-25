@@ -9,44 +9,49 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - code
-  - go
-  - malware
-  - packers
+  - agentic-ai
+  - ai
+  - data-science
+  - programming
   - python
   relme: {}
-  last_post_title: Packing Binaries with Go
-  last_post_description: Learn how to create your own custom encryption and compression
-    based packer for linux binariesContinue reading on System Weakness »
-  last_post_date: "2024-08-18T21:10:52Z"
-  last_post_link: https://systemweakness.com/packing-binaries-with-go-f5bc3083c31c?source=rss-c39d46e3d1c6------2
+  last_post_title: Create Lightweight Agentic AI Tools
+  last_post_description: Learn how to create a hybrid agent workflow that uses LLMs
+    to perform actions on your behalf with guard railsContinue reading on DataDrivenInvestor
+    »
+  last_post_date: "2025-01-22T03:55:16Z"
+  last_post_link: https://medium.datadriveninvestor.com/create-lightweight-agentic-ai-tools-99a65bd2caa5?source=rss-c39d46e3d1c6------2
   last_post_categories:
-  - code
-  - go
-  - malware
-  - packers
+  - agentic-ai
+  - ai
+  - data-science
+  - programming
   - python
   last_post_language: ""
-  last_post_guid: 75559012255a701172d4c9d34aa5d99e
+  last_post_guid: 5e01273fa3131984191c50402633a58e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

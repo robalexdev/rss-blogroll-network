@@ -1,6 +1,6 @@
 ---
 title: CCE and Emacs Update Feed
-date: "2024-07-22T21:30:00Z"
+date: "2024-11-07T14:45:00Z"
 description: ""
 params:
   feedlink: https://cce.whatthefuck.computer/updates.xml
@@ -16,28 +16,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: For better or worse, the CCE now runs on River WM
-  last_post_description: |-
-    tl;dr I am now running RiverWM  on my NixOS distribution and have a published configuration for it therein.
-    I'm not particularly happy to write this. For literally half of my life, from 16 to 32
-  last_post_date: "2024-07-22T21:30:00Z"
+  last_post_title: 'Two Updates: Org+Nix dev streams, and my new DNS resolver'
+  last_post_description: 'Two Updates: Org+Nix dev streams, and my new DNS resolverI''ve
+    started to stream on Thursdays where I''ll explore salt dunes and arcologiesThe
+    last few weeks I have started to work in earnest on'
+  last_post_date: "2024-11-07T14:45:00Z"
   last_post_link: https://cce.whatthefuck.computer/updates
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ab63637a5a4287db5985fe0fabfc8a28
+  last_post_guid: 83253e835f831549c76ecaf768268e43
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

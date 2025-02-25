@@ -1,6 +1,6 @@
 ---
 title: Java Persistence
-date: "2024-08-27T06:05:12-04:00"
+date: "2024-09-27T19:25:16-04:00"
 description: A blog dedicated to Java Persistence issues and solutions related to
   EclipseLink and Oracle TopLink.
 params:
@@ -52,15 +52,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 21
+  avgpostlen: 264
 ---

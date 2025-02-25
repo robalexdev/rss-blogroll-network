@@ -1,6 +1,6 @@
 ---
 title: Easy's blog in Russian
-date: "2024-03-08T11:49:46+04:00"
+date: "2024-09-19T21:16:43+04:00"
 description: ""
 params:
   feedlink: https://y5ae-ru.blogspot.com/feeds/posts/default/-/emacs
@@ -232,15 +232,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 4
+  avgpostlen: 289
 ---

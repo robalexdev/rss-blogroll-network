@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2024-08-12T20:38:58Z"
+date: "2025-02-17T01:13:34Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,33 +15,37 @@ params:
   recommended: []
   recommender: []
   categories:
+  - News
   - Reflections
-  - Theoretical highlights
   relme: {}
-  last_post_title: Always appropriate
-  last_post_description: I met boatloads of physicists as a master’s student at the
-    Perimeter Institute for Theoretical Physics in Waterloo, Canada. Researchers pass
-    through Perimeter like diplomats through my current
-  last_post_date: "2024-08-12T20:38:58Z"
-  last_post_link: https://quantumfrontiers.com/2024/08/11/always-appropriate/
+  last_post_title: Lessons in frustration
+  last_post_description: Assa Auerbach’s course was the most maddening course I’ve
+    ever taken.  I was a master’s student in the Perimeter Scholars International
+    program at the Perimeter Institute for Theoretical
+  last_post_date: "2025-02-17T01:13:34Z"
+  last_post_link: https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/
   last_post_categories:
+  - News
   - Reflections
-  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: f3c15a2ef74e9be5e37d4a2c0ef35d3f
+  last_post_guid: 3f2fb85a36792369d71006070571b407
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 296
 ---

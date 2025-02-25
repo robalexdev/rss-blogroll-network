@@ -1,6 +1,6 @@
 ---
 title: 胡涂说
-date: "2024-11-09T17:34:37+08:00"
+date: "2025-02-23T19:06:52+08:00"
 description: hutusi.com
 params:
   feedlink: https://hutusi.com/feed.xml
@@ -16,39 +16,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - tech
-  - 大模型
-  - 深度学习
-  - 神经网络
-  - 软件工程
-  - 软件开发
+  - essay
+  - 个人成长
+  - 影评
+  - 电影
+  - 神话
   relme: {}
-  last_post_title: 银弹飞过先锋大厦
-  last_post_description: TL;DR
-  last_post_date: "2024-05-28T21:37:00+08:00"
-  last_post_link: https://hutusi.com/articles/the-history-of-software-engineering
+  last_post_title: 我看《哪吒》
+  last_post_description: 《哪吒之魔童闹海》海报
+  last_post_date: "2025-02-23T19:05:00+08:00"
+  last_post_link: https://hutusi.com/articles/ne-zha
   last_post_categories:
-  - tech
-  - 大模型
-  - 深度学习
-  - 神经网络
-  - 软件工程
-  - 软件开发
+  - essay
+  - 个人成长
+  - 影评
+  - 电影
+  - 神话
   last_post_language: ""
-  last_post_guid: 569f609b96413fda333409b6f86e4de0
+  last_post_guid: 281c2e4704b00fa704eae706612028b0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

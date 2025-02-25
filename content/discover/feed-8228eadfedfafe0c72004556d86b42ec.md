@@ -16,30 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 梳理一下当前使用的翻译、AI服务
-  last_post_description: !!binary |
-    6L+Z5Lik5aSp56iN5b6u5oqY6IW+5LqG5LiA5LiL77yM55CG5LqG5LiA5LiL5q2m5Zmo5b
-    qT77yM5pyJ5LiA54K55bCP5Lmx77yM6ICM5LiU6ICD6JmR5ZCO5ZCO57ut55qE6L+t5Luj
-    77yM5omA5Lul5qKz55CG5LiA5LiL44CCCueJueWIq+aYr++8jOS7peS4i+WcuuaZr++8jO
-    WmguaenOacieabtOWlveeahOaWueahiO+8jOasoui/juWbnuWkjeWRiuc=
-  last_post_date: "2024-11-18T14:46:00+08:00"
-  last_post_link: https://zyzhang.com/%E6%A2%B3%E7%90%86%E4%B8%80%E4%B8%8B%E5%BD%93%E5%89%8D%E4%BD%BF%E7%94%A8%E7%9A%84%E7%BF%BB%E8%AF%91%E3%80%81AI%E6%9C%8D%E5%8A%A1/
+  last_post_title: 景林资产 24Q4 持仓变化：建仓Yandex、亚玛芬神来之笔
+  last_post_description: 整理了一下景林 24Q4
+  last_post_date: "2025-02-16T23:11:00+08:00"
+  last_post_link: https://zyzhang.com/%E6%99%AF%E6%9E%97%E8%B5%84%E4%BA%A7%2024Q4%20%E6%8C%81%E4%BB%93%E5%8F%98%E5%8C%96%EF%BC%9A%E5%BB%BA%E4%BB%93Yandex%E3%80%81%E4%BA%9A%E7%8E%9B%E8%8A%AC%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1538f89c7732da75b71c4a12431b4623
+  last_post_guid: d710ea42fb67cd438a5e2d4fa41d160c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 10
+  avgpostlen: 0
 ---

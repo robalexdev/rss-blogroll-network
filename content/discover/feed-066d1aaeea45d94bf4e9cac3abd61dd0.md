@@ -19,34 +19,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Behavioral Advertising
-  - Privacy Preserving Advertising
+  - Artificial Intelligence
   relme: {}
-  last_post_title: 'Privacy-Preserving Attribution: Testing for a New Era of Privacy
-    in Digital Advertising'
-  last_post_description: The internet has become a massive web of surveillance, with
-    advertisers and advertising platforms collecting detailed information about people’s
-    online activity. At Mozilla, we believe this
-  last_post_date: "2024-08-22T09:27:09Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2024/08/22/ppa-update/
+  last_post_title: 'Navigating the Future of Openness and AI Governance: Insights
+    from the Paris Openness Workshop'
+  last_post_description: In December 2024, in the lead up to the AI Action Summit,
+    Mozilla, Fondation Abeona, École Normale Supérieure (ENS) and the Columbia Institute
+    of Global Politics gathered at ENS in … Read
+  last_post_date: "2025-02-04T15:44:34Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/02/04/navigating-the-future-of-openness-and-ai-governance-insights-from-the-paris-openness-workshop/
   last_post_categories:
-  - Behavioral Advertising
-  - Privacy Preserving Advertising
+  - Artificial Intelligence
   last_post_language: ""
-  last_post_guid: a0735aa1faf71ccd17acd45777a50439
+  last_post_guid: ad3f7044a73be8b11ece94471b22302a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

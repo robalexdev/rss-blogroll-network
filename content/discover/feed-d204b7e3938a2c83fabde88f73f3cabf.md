@@ -15,33 +15,40 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme:
     https://github.com/mxinden: true
     https://max-inden.de/: true
-  last_post_title: About
+  last_post_title: Stepping down as a (rust-) libp2p maintainer
   last_post_description: |-
-    I am Max, a strange loop interested in networking, distributed systems and type theory. Welcome to my little island on this astounding thing called The Internet.
-    You might enjoy browsing through my
-  last_post_date: "0001-01-01T00:00:00Z"
-  last_post_link: https://max-inden.de/about/
+    I don’t see myself making major contributions to (rust-) libp2p in the near future and thus I am stepping down as a maintainer.
+    As announced before, I have left Protocol Labs in December 2023
+  last_post_date: "2024-02-29T00:00:00Z"
+  last_post_link: https://max-inden.de/post/2024-02-29-stepping-down/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dd4747c27e947b1d35ba0d02ee8dd341
+  last_post_guid: fa037f42519acb94f72098a40a0e646c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 82
+  avgpostlen: 0
 ---

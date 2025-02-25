@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Fri, 30 Aug 2024 14:06:20 GMT
+date: Mon, 24 Feb 2025 00:06:44 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -81,6 +81,9 @@ params:
       other bits and pieces of stuff I write sometimes. If you enjoyed the post or
       it helped you out, please consider buying me a coffee
     id: 2929d9267f4ea7e34c883b8359bfbd3e
+  - title: Kategorie "OSGeo" vom FOSSGIS
+    description: Letzte Meldungen in Kategorie "OSGeo" vom FOSSGIS
+    id: 2e8b236e8ca13fad69d6412be8b96797
   - title: Geo Gears, Nuts &amp; Bolts
     description: ""
     id: 316dcfd29a6c3038a1c2a0a4bd9ed7c3
@@ -122,7 +125,7 @@ params:
   - title: Geo tips &amp; tricks
     description: |-
       OSGeo, GDAL and other GIS fun.
-      Find me on Twitter, GitHub or on my company Spatialys website
+      Find me on Mastodon, GitHub or on my company Spatialys website
     id: 4fab87d6736ca9535560c873b810360a
   - title: OSGeo – Shentey's Blog
     description: Just another WordPress.com weblog
@@ -130,6 +133,12 @@ params:
   - title: GeoScript
     description: ""
     id: 600b887a3ab2925cb83a21710eef8739
+  - title: Spatialised
+    description: Geospatial strategy, research, design and consulting
+    id: 63e18655eb95505487c7ca5b135c7039
+  - title: Narcélio de Sá
+    description: Tudo sobre GIS
+    id: 67f234eddf508480ca894cc935e680b8
   - title: A GeoSpatial World
     description: ""
     id: 6858d1100b5c671f06d92724e628f758
@@ -191,6 +200,9 @@ params:
       A blog that goes from GIS to Remote Sensing, with tutorials and tips especially for open source software.
       By Luca Congedo, the author of the Semi-Automatic Classification Plugin for QGIS that allows
     id: 90bd00b73904ab872e642f5ba4e21242
+  - title: Kartoza - Blog !!
+    description: ""
+    id: 96c2d24c5969333b184540b7c5bcbe59
   - title: GIS archivos | iCarto
     description: Soluciones tecnológicas adaptadas a las características de tu organización
     id: 9828703316b8b2da79aeba14e15f0281
@@ -216,6 +228,9 @@ params:
   - title: BostonGIS
     description: Open Source GIS
     id: b0490b3ca9cd2277dac061801f96173d
+  - title: Nick Bearman
+    description: A blog on my teaching, open source GIS, travel and life
+    id: b0c12c6cf19d9d0c0a815aeda9e30385
   - title: Spatial Galaxy
     description: Recent content on Spatial Galaxy
     id: b34a7d3c2a3e69cfdfc284cc45c4b47e
@@ -245,9 +260,6 @@ params:
   - title: do not adjust your mind
     description: ""
     id: bf4123abefce6ae2646620c97444b524
-  - title: Geospatial-Data | Georg Heiler
-    description: Geospatial-Data
-    id: c051007627b1098ad8646b7dc1d201db
   - title: How 2 Map
     description: Design, Discussion and Documentation from around the Java GIS world.
     id: c07e16b24861e577fd5721fbe6d48884
@@ -265,6 +277,9 @@ params:
   - title: GISInternals News
     description: ""
     id: cb9d0b339aee0882d1abdb6ac15d57cc
+  - title: Mappery
+    description: For the love of maps
+    id: cd225bd314e247e929a29c1deaea8d8a
   - title: Just Objects on Clarity
     description: Recent content in Just Objects on Clarity
     id: cf035b498a5d05b76461177fd44e7c50

@@ -17,39 +17,34 @@ params:
   categories:
   - emacs
   relme: {}
-  last_post_title: Removing symlink question
+  last_post_title: Reviewing GitHub PRs in Emacs
   last_post_description: |-
-    I'm not sure why, but all of a sudden I started getting this question every time
-    emacs starts
-
-
-
-
-    Symbolic link to Git-controlled source file; follow link?
-
-
-
-
-    After some searching I found out that
-  last_post_date: "2024-08-11T08:41:00+02:00"
-  last_post_link: https://magnus.therning.org/2024-08-11-removing-symlink-question.html
+    My Emacs config's todo-list has long had an item about finding some way to
+    review GitHub PRs without having to leave Emacs and when the forge issue that I
+    subscribe to came alive again I thought it
+  last_post_date: "2025-01-19T11:10:00+01:00"
+  last_post_link: https://magnus.therning.org/2025-01-19-reviewing-github-prs-in-emacs.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: 253d6df0660ada0b60f0f84bdc8f7e9d
+  last_post_guid: 6e6377b7b7fa727b82328a528d1b0f78
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

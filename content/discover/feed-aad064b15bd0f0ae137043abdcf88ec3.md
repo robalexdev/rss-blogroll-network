@@ -19,29 +19,33 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Bladluis als fatale doorgeefluik
-  last_post_description: Een fotograaf wilde onlangs insecten groot brengen op de
-    planten waar ze het meest van hielden (hun waardplant), maar moest al snel constateren
-    dat de planten die ze bij het tuincentrum had gekocht
-  last_post_date: "2024-05-12T15:39:25Z"
-  last_post_link: https://zijperspace.nl/bladluis-als-fatale-doorgeefluik/
+  last_post_title: Afzondering
+  last_post_description: Ik weet evengoed niet hoelang ik hier mee door kan gaan.
+    Weg van alles, slechts bereikbaar voor wat voorbij komt. & Dan slechts een simpele
+    communicatie, een begeleidend oogcontact hooguit. & Des te
+  last_post_date: "2025-02-21T00:56:10Z"
+  last_post_link: https://zijperspace.nl/afzondering/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: 8224989471c286381a45a1c9aab8effd
+  last_post_guid: bad76870af56ceacbfcb5f203b2e9cb6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: nl
+  postcount: 10
+  avgpostlen: 0
 ---

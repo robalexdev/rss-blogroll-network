@@ -16,50 +16,45 @@ params:
   recommended: []
   recommender: []
   categories:
-  - JAX-RS
-  - JAX-RS 3.1
-  - Jakarta EE
-  - Jakarta REST
+  - Coding
   - Java
-  - Java SE Bootstrap API
-  - Lectures
-  - Microservices
-  - Microsoft
+  - Open Source
   - Programming
+  - Projects
+  - openjdk
   relme: {}
-  last_post_title: Coding Microservice From Scratch (Part 16) | JAX-RS Done Right!
-    | Head Crashing Informatics 83
-  last_post_description: Write a pure-Java microservice from scratch, without an application
-    server nor any third party frameworks, tools, or IDE plugins — Just using JDK,
-    Maven and JAX-RS aka Jakarta REST 3.1. This video
-  last_post_date: "2023-11-19T17:00:00Z"
-  last_post_link: https://headcrashing.wordpress.com/2023/11/19/coding-microservice-from-scratch-part-16-jax-rs-done-right-head-crashing-informatics-83/
+  last_post_title: Reader.of(CharSequence)
+  last_post_description: "Hi guys, how’s it going? Long time no see! \U0001F605 In
+    fact, I had been very silent in the past months, and as you could imagine, it
+    has a reason: I just had no time to share all the great … Continue"
+  last_post_date: "2024-11-02T13:21:36Z"
+  last_post_link: https://headcrashing.wordpress.com/2024/11/02/reader-ofcharsequence/
   last_post_categories:
-  - JAX-RS
-  - JAX-RS 3.1
-  - Jakarta EE
-  - Jakarta REST
+  - Coding
   - Java
-  - Java SE Bootstrap API
-  - Lectures
-  - Microservices
-  - Microsoft
+  - Open Source
   - Programming
+  - Projects
+  - openjdk
   last_post_language: ""
-  last_post_guid: f012730fa92844e74095c1bbe467a00e
+  last_post_guid: 9057d8217dbdc0abf9204982ef5e2d5e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

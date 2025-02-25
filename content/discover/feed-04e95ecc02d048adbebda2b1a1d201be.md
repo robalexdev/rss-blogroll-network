@@ -1,13 +1,12 @@
 ---
-title: Lars-Christian.com
-date: "1970-01-01T00:00:00Z"
-description: Thoughts on things.
+title: Lars-Christian.com - Posts
+date: "2025-01-18T18:57:55Z"
+description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
-  feedtype: rss
+  feedtype: atom
   feedid: 04e95ecc02d048adbebda2b1a1d201be
-  websites:
-    https://lars-christian.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -16,36 +15,32 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
-  categories:
-  - '#Kids'
-  - Parenting
-  relme:
-    https://lars-christian.com/: true
-    https://mastodon.social/@lars: true
-  last_post_title: My inspiration
-  last_post_description: How my six year old son inspires me to try to be a better
-    person.
-  last_post_date: "2024-08-20T21:10:16Z"
-  last_post_link: https://lars-christian.com/my-inspiration/
-  last_post_categories:
-  - '#Kids'
-  - Parenting
+  categories: []
+  relme: {}
+  last_post_title: Just write
+  last_post_description: ""
+  last_post_date: "2025-01-17T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2025-01-17-just-write/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: c1aac7e3ff8ddab0808b650e20db9fe6
+  last_post_guid: 86ed056578e0c5f9375bdb11e9b31659
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 3
+    hasPosts: 3
+    postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
+    website: 0
   score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 294
 ---

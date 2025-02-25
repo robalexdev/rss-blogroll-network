@@ -1,13 +1,13 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "1970-01-01T00:00:00Z"
-description: Recent content on Baldur Bjarnason
+date: "2025-01-16T12:59:00Z"
+description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
-  feedtype: rss
+  feedtype: atom
   feedid: 2dfdcee89616c33748ecbb8add8ac604
   websites:
-    https://www.baldurbjarnason.com/: true
+    https://www.baldurbjarnason.com/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,30 +16,32 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://www.baldurbjarnason.com/: true
-  last_post_title: The slow evaporation of the free/open source surplus
-  last_post_description: |-
-    Free/open source has been on my mind lately – more than usual.
-    (FOSS or OSS for short, the distinction matters, a lot, but for the purposes of this post the two are similar enough to lump together
-  last_post_date: "2024-08-27T12:12:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/
+  relme: {}
+  last_post_title: The web is a creative industry and is facing the same decline and
+    shattered economics as film, TV, or publishing
+  last_post_description: ""
+  last_post_date: "2025-01-16T12:59:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/2025/the-web-is-a-creative-industry/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c66a4ddac51f7f87e69f345c691d6f88
+  last_post_guid: 2cc523b27979c1fe7b5aa30b410a43e1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 296
 ---

@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -17,28 +17,32 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'Building Consistent Efforts: Veterans’ Causes at Recorded Future'
-  last_post_description: 'Building Consistent Efforts: Veterans’ Causes at Recorded
-    Future'
-  last_post_date: "2024-11-22T00:00:00Z"
-  last_post_link: https://www.recordedfuture.com/blog/veterans-day-2024
+  last_post_title: 'Trimble Cityworks: CVE-2025-0994'
+  last_post_description: Learn about CVE-2025-0994 affecting Trimble Cityworks products.
+    Patch now to prevent remote code execution.
+  last_post_date: "2025-02-19T00:00:00Z"
+  last_post_link: https://www.recordedfuture.com/blog/trimble-cityworks-cve-2025-0994-vulnerability-analysis
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 432b5b4fa291478077d0b7daa08e50ca
+  last_post_guid: d3baeca6ff8f68de64717b67098450ca
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 50
+  avgpostlen: 0
 ---

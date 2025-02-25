@@ -17,39 +17,38 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - boeken
   - flow
-  - sciencefiction
-  - youngadult
+  - gitaar
   relme:
-    https://deepthought.infullflow.net/@elmine: true
     https://infullflow.net/: true
-  last_post_title: 'Gelezen: De Kruisdraagster – Lydia Schwartz'
-  last_post_description: Op zoek naar een lekker weglees boek tijdens de kampeerdagen
-    ergens in Frankrijk, kwam ik bij Lalagè de titel van De Kruisdraagster tegen.
-    Young adult science fiction met een vrouwelijk
-  last_post_date: "2024-08-29T09:57:07Z"
-  last_post_link: https://infullflow.net/2024/08/gelezen-de-kruisdraagster-lydia-schwartz/
+  last_post_title: Nieuw speelgoed
+  last_post_description: Een nieuw instrument kiezen is een gebeurtenis. Was het bij
+    een nieuwe hobo kiezen redelijk overzichtelijk (welke van de drie exemplaren die
+    mijn lerares op zicht had speelt het fijnst), als het om
+  last_post_date: "2025-02-19T15:19:56Z"
+  last_post_link: https://infullflow.net/2025/02/nieuw-speelgoed/
   last_post_categories:
-  - boeken
   - flow
-  - sciencefiction
-  - youngadult
+  - gitaar
   last_post_language: ""
-  last_post_guid: 5f4e86cf6a326056d418ed5049bed49a
+  last_post_guid: 27f3001aac83f61f13e6727c0a87b136
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: nl
+  postcount: 10
+  avgpostlen: 0
 ---

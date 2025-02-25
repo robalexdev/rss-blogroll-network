@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2024-08-25T23:00:30Z"
+date: "2025-02-24T00:10:18Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,39 +16,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Paul Erdos
-  - Siegel zero
+  - LED lighting
+  - Svitlana Mayboroda
+  - The sciences
   - expository
-  - math.NT
-  - parity problem
+  - green gap
+  - landscape theory
+  - math.AP
+  - math.MP
   relme: {}
-  last_post_title: 'Erdos problem #385, the parity problem, and Siegel zeroes'
-  last_post_description: The Erdös problem site was created last year, and announced
-    earlier this year on this blog. Every so often, I have taken a look at a random
-    problem from the site for fun. A few times, I was able to
-  last_post_date: "2024-08-19T20:14:59Z"
-  last_post_link: https://terrytao.wordpress.com/2024/08/19/erdos-problem-385-the-parity-problem-and-siegel-zeroes/
+  last_post_title: 'Closing the &#8220;green gap&#8221;: from the mathematics of the
+    landscape function to lower electricity costs for households'
+  last_post_description: I recently returned from the 2025 Annual Meeting of the “Localization
+    of Waves” collaboration (supported by the Simons Foundation, with additional related
+    support from the NSF), where I learned
+  last_post_date: "2025-02-24T00:10:18Z"
+  last_post_link: https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/
   last_post_categories:
-  - Paul Erdos
-  - Siegel zero
+  - LED lighting
+  - Svitlana Mayboroda
+  - The sciences
   - expository
-  - math.NT
-  - parity problem
+  - green gap
+  - landscape theory
+  - math.AP
+  - math.MP
   last_post_language: ""
-  last_post_guid: 44322d7c7fc2c537aa2a11303008a13e
+  last_post_guid: cea48d1f002da2b5fcf5a8fba35649df
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 296
 ---

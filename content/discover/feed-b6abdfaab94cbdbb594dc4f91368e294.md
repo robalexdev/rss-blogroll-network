@@ -1,6 +1,6 @@
 ---
 title: ~/naiquevin - emacs
-date: "2013-04-01T00:00:00+05:30"
+date: "2025-02-11T00:00:00+05:30"
 description: ""
 params:
   feedlink: https://www.naiquev.in/feeds/emacs.atom.xml
@@ -15,33 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Javascript
-  - NaturalDocs
   - emacs
+  - org mode
   relme: {}
-  last_post_title: NaturalDocs for Javascript in Emacs
-  last_post_description: Adding NaturalDocs support for JS in emacs
-  last_post_date: "2013-04-01T00:00:00+05:30"
-  last_post_link: https://www.naiquev.in/naturaldocs-for-javascript-in-emacs.html
+  last_post_title: Recurring checklists using org mode in emacs
+  last_post_description: How I manage recurring checklists in org mode using a hidden
+    gem from the org-contrib package
+  last_post_date: "2025-02-11T00:00:00+05:30"
+  last_post_link: https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html
   last_post_categories:
-  - Javascript
-  - NaturalDocs
   - emacs
+  - org mode
   last_post_language: ""
-  last_post_guid: 820d5fa4839d614bdd6563bfca2267be
+  last_post_guid: ac75b7b961d173e3876ac96cedf56e8d
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
-    postcats: 3
+    hasContent: 3
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 7
+  avgpostlen: 296
 ---

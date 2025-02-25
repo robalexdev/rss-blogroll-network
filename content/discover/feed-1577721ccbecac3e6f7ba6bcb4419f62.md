@@ -19,32 +19,36 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Inside Nelio
-  - Test of the Month
+  - Opinion
   relme: {}
-  last_post_title: Test of the Month – Consistent Pricing Throughout Sales Funnel
-  last_post_description: Building an effective pricing page to convert prospects into
-    customers is complicated. How you show prices can make a big difference. Do you
-    show the full price upfront, including all taxes and fees,
-  last_post_date: "2024-08-22T15:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/test-of-the-month-consistent-pricing-throughout-sales-funnel/
+  last_post_title: Our Goals for 2025
+  last_post_description: As we wrap up 2024, we’re taking a moment to reflect on the
+    goals we set at the beginning of the year. Some were a huge success, while others
+    didn’t quite go as planned. Plus, we’re giving you
+  last_post_date: "2025-01-02T16:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/our-goals-for-2025/
   last_post_categories:
   - Inside Nelio
-  - Test of the Month
+  - Opinion
   last_post_language: ""
-  last_post_guid: 9e54611f5255afe059dc4caecaf5c777
+  last_post_guid: 192a02d0a0b2a764dde73a24f6925072
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

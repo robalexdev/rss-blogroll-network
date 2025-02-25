@@ -8,9 +8,10 @@ params:
   feedid: fef703622bfad76fcefbe7b659cdbe57
   websites:
     https://artlung.com/: true
-    https://artlung.com/blog/2021/11/16/literary-journal-chiricu-journal/: false
-    https://artlung.com/blog/2023/06/16/spite-swimming-sanity-swimming/: false
-    https://artlung.com/blog/category/comics/: false
+    https://artlung.com/blog/: false
+    https://artlung.com/comics/: false
+    https://artlung.com/fresh/: false
+    https://artlung.com/guestbook/: false
     https://artlung.com/links/: false
     https://artlung.com/merch/: false
     https://artlung.com/tags/: false
@@ -19,6 +20,12 @@ params:
   - title: ""
     description: ""
     id: 7c57874819a3b666310d14cda337b41d
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: ""
+    description: ""
+    id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
   - https://benji.dog/all.xml
@@ -27,46 +34,64 @@ params:
   - https://benji.dog/photos.xml
   - https://benji.dog/read.xml
   - https://benji.dog/watched.xml
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
   - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories:
-  - IFTTT
+  - facebook
   - general
-  - via-instagram
+  - shutdown
+  - social-software
   relme:
     https://artlung.com/: true
-    https://artlung.com/blog/2021/11/16/literary-journal-chiricu-journal/: true
-    https://artlung.com/blog/2023/06/16/spite-swimming-sanity-swimming/: true
-    https://artlung.com/blog/category/comics/: true
+    https://artlung.com/blog/: true
+    https://artlung.com/comics/: true
+    https://artlung.com/fresh/: true
+    https://artlung.com/guestbook/: true
     https://artlung.com/links/: true
     https://artlung.com/merch/: true
     https://artlung.com/tags/: true
     https://github.com/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
+    https://thisbot.day/@affirmations: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Looking east. Looking west. Crystal Pier.
-  last_post_description: from Instagram https://instagr.am/p/C_RvMEEvBlp/ via IFTTT
-  last_post_date: "2024-08-30T02:23:44Z"
-  last_post_link: https://artlung.com/blog/2024/08/29/looking-east-looking-west-crystal-pier/
+  last_post_title: 'Facebook: Video Storage Shutdown'
+  last_post_description: Email of the day, from Facebook, received just now. Note
+    that the policy started February 19. It is February 22 as I write this. Download
+    your old Facebook Live videos by May 25. We are sending you
+  last_post_date: "2025-02-24T15:03:49Z"
+  last_post_link: https://artlung.com/blog/2025/02/24/facebook-video-storage-shutdown/
   last_post_categories:
-  - IFTTT
+  - facebook
   - general
-  - via-instagram
+  - shutdown
+  - social-software
   last_post_language: ""
-  last_post_guid: ec45f420e449abb418b1c33fb6b5b27a
+  last_post_guid: e3f836ca08d4d0be867824e353b28621
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

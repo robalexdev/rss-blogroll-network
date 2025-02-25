@@ -32,28 +32,32 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Iona's 4th birthday is in 7 days
+  last_post_title: Lorcán's birthday is today
   last_post_description: |-
-    It's on Monday 2 September 2024.
-                On WhatsApp? Send greetings via Matt P.
-  last_post_date: "2024-08-26T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#iona-2024-7@birthdays.abnib.co.uk
+    It's on Monday 20 January 2025.
+                On WhatsApp? Send greetings via Jen.
+  last_post_date: "2025-01-20T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#lorcan-2025-0@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fab314339aea63addb3c4d219fa7452f
+  last_post_guid: 0896a10f7b4c0c353312ed03c29bd493
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 3
+  avgpostlen: 0
 ---

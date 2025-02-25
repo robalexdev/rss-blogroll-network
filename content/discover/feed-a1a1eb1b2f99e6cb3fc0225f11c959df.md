@@ -17,28 +17,34 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The IPv6 situation on Docker is good now!
+  last_post_title: Turns out that I'm a 'prolific open-source influencer' now
   last_post_description: |-
-    Good news, everyone! Doing IPv6 networking stuff on Docker is actually good now!
-    I’ve recently started reworking my home server setup to be more IPv6 compatible, and as part of that I learned
-  last_post_date: "2024-12-20T19:30:00+02:00"
-  last_post_link: https://ounapuu.ee/posts/2024/12/20/docker-ipv6/
+    Yes, you read that right.
+    I’m a prolific open-source influencer now.
+    Some years ago I set up a Google Alert with my name, for fun. Who knows what it might show one day? On 7th of February,
+    it fired
+  last_post_date: "2025-02-17T21:00:00+02:00"
+  last_post_link: https://ounapuu.ee/posts/2025/02/17/influencer/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6b11be88e7ea0bc603b676de3defd74a
+  last_post_guid: 094971f8d63f78ba7a442e788fdb1318
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 105
+  avgpostlen: 0
 ---

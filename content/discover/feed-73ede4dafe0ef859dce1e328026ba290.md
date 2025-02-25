@@ -1,6 +1,6 @@
 ---
 title: blog.jmp.chat's blog
-date: "2023-09-13T20:19:51Z"
+date: "2024-09-28T03:43:20Z"
 description: ""
 params:
   feedlink: https://blog.jmp.chat/atom.xml
@@ -17,36 +17,36 @@ params:
   recommender: []
   categories:
   - android
-  - fossy
   - newsletter
-  - sim
-  - staff
+  - seagl
   relme: {}
-  last_post_title: 'Newsletter: Summer in Review'
+  last_post_title: 'Newsletter: JMP at SeaGL, Cheogram now on Amazon'
   last_post_description: ""
-  last_post_date: "2023-09-13T20:19:51Z"
-  last_post_link: http://blog.jmp.chat/b/septermber-newsletter-2023
+  last_post_date: "2024-12-18T15:37:10Z"
+  last_post_link: http://blog.jmp.chat/b/october-newsletter-2024
   last_post_categories:
   - android
-  - fossy
   - newsletter
-  - sim
-  - staff
+  - seagl
   last_post_language: ""
-  last_post_guid: a7b2e548b3f90cf375e0a4086b6de0ab
+  last_post_guid: 6314eda8a01ff22b69ba0c65f83022bd
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 295
 ---

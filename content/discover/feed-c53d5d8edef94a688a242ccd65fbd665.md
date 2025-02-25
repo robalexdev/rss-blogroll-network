@@ -15,29 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 学习 | Study
+  - 生活 | Life
   relme: {}
-  last_post_title: 字节跳动和TikTok内推
-  last_post_description: 字节跳动和TikTok内推
-  last_post_date: "2024-03-05T16:10:53Z"
-  last_post_link: https://wsgzao.github.io/post/tiktok-referral/
+  last_post_title: 新加坡信用卡cashback和miles的使用心得
+  last_post_description: 新加坡信用卡cashback和miles的使用心得
+  last_post_date: "2025-01-03T03:34:46Z"
+  last_post_link: https://wsgzao.github.io/post/singapore-creditcard/
   last_post_categories:
-  - 学习 | Study
+  - 生活 | Life
   last_post_language: ""
-  last_post_guid: 5342630a2079af5af249e3eef56d618e
+  last_post_guid: f92dfda4af958fcd59df08f0f7c18d49
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 258
 ---

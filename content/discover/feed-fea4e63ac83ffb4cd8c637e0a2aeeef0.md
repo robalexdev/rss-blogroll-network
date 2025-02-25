@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2024-08-28T14:00:21+02:00"
+date: "2025-02-17T22:01:22+01:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -16,32 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - réseau
+  - esr
   relme:
     https://p4bl0.net/: true
-  last_post_title: Telegram n'est pas une messagerie sécurisée
-  last_post_description: Depuis l'arrestation du PDG de Telegram ce samedi 24 août,
-    les médias qui en parlent qualifient systématiquement Telegram de “messagerie
-    cryptée”. C'est complètement faux, Telegram n'est pas
-  last_post_date: "2024-08-26T17:35:00+02:00"
-  last_post_link: https://p4bl0.net/post/2024/08/Telegram-n-est-pas-une-messagerie-securisee
+  last_post_title: Avis défavorable pour l'HCERES !
+  last_post_description: |-
+    Rapport de rapports d'évaluation HCERES
+
+    Présentation de l'institution
+
+    HCERES est l'acronyme de « Horde de collabos et d'emmerdeurs de la recherche et de l'enseignement supérieur ». C'est
+  last_post_date: "2025-02-17T19:17:00+01:00"
+  last_post_link: https://p4bl0.net/post/2025/02/Avis-defavorable-pour-l-HCERES
   last_post_categories:
-  - réseau
+  - esr
   last_post_language: ""
-  last_post_guid: 9ee891975bb9114a0839157a32005510
+  last_post_guid: 1f6007d04859d95c79eb25a0a111fee9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 20
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mark Van den Borre
-date: "2024-08-28T14:03:26+01:00"
+date: "2025-02-21T13:05:40+01:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/2099374008738347758/posts/full/-/english/ubuntu
@@ -68,7 +68,7 @@ params:
   last_post_title: How much does my flight sponsor Vladimir?
   last_post_description: ""
   last_post_date: "2022-04-07T15:21:06Z"
-  last_post_link: http://blog.markvdb.be/2022/04/how-much-does-my-flight-sponsor-vladimir.html
+  last_post_link: https://blog.markvdb.be/2022/04/how-much-does-my-flight-sponsor-vladimir.html
   last_post_categories:
   - english
   - oorlog
@@ -79,15 +79,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 228
 ---

@@ -1,6 +1,6 @@
 ---
 title: A dose of logic
-date: "2024-02-08T20:45:13+01:00"
+date: "2024-10-24T12:41:16+02:00"
 description: A blag containing my current adventures in logic, haskell and agents.
 params:
   feedlink: https://www.blogger.com/feeds/8387731529560364137/posts/default
@@ -20,26 +20,31 @@ params:
   - monads
   - personal
   relme: {}
-  last_post_title: Slides about Martin-Löf type theory
+  last_post_title: A small handout on TTTAS (Typed Transformations of Typed Abstract
+    Syntax)
   last_post_description: ""
-  last_post_date: "2011-05-04T17:17:49+02:00"
-  last_post_link: https://adoseoflogic.blogspot.com/2011/05/slides-about-martin-lof-type-theory.html
+  last_post_date: "2011-05-04T17:26:59+02:00"
+  last_post_link: https://adoseoflogic.blogspot.com/2010/04/small-handout-on-tttas-typed.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1147aa3b0b75c1c1e7e129e8faeaf49d
+  last_post_guid: 30b9ffd53adcc7fa6c97387eefc571fa
   score_criteria:
     cats: 4
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 13
+  avgpostlen: 296
 ---

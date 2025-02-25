@@ -15,46 +15,49 @@ params:
   recommended: []
   recommender: []
   categories:
+  - GHCon
   - GNU
   - GNU Health
   - GNUHealth
+  - GNUHealthCon
   - Social Medicine
   - gnuhealth
-  - human rights
-  - migrants
-  - refugees
-  - seaeye
+  - openscience
   relme: {}
-  last_post_title: Migrar, migrant, migràrem
-  last_post_description: Sea-Eye Search and Rescue missions in the Mediterranean and
-    how GNU Health can help them
-  last_post_date: "2024-06-27T19:48:18Z"
-  last_post_link: https://my.gnusolidario.org/2024/06/27/migrar-migrant-migrarem/
+  last_post_title: GHCon2024, the GNU Health Conference . Palermo, Italy
+  last_post_description: 'Dear community: We’re excited to announce the IX International
+    GNU Health Conference, that will take place in beautiful Sicily, Italy, at the
+    University of Palermo this December 15th. The GNU'
+  last_post_date: "2024-10-19T17:30:49Z"
+  last_post_link: https://my.gnusolidario.org/2024/10/19/ghcon2024-the-gnu-health-conference-palermo-italy/
   last_post_categories:
+  - GHCon
   - GNU
   - GNU Health
   - GNUHealth
+  - GNUHealthCon
   - Social Medicine
   - gnuhealth
-  - human rights
-  - migrants
-  - refugees
-  - seaeye
+  - openscience
   last_post_language: ""
-  last_post_guid: 7411acdb37f291acdeea97766b8f826b
+  last_post_guid: 410341d3a83c4745089caf55e314da63
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

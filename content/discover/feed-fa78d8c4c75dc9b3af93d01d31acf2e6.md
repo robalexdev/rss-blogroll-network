@@ -17,28 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Rewriting Gnosis: 0.4.0 release'
-  last_post_description: |-
-    What’s the most important thing for storing knowledge?
-    I’d say proper organization of said knowledge, such as with decks for each subject and meaningful tags linking related concepts together
-  last_post_date: "2024-08-07T00:00:00Z"
-  last_post_link: https://thanosapollo.org/post/gnosis-0-4-0-release/
+  last_post_title: Emacs As Your Terminal Emulator [Video]
+  last_post_description: Short video about Emacs shell interactions
+  last_post_date: "2025-01-25T00:00:00Z"
+  last_post_link: https://thanosapollo.org/posts/emacs-shells-video/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 04096bafaac9a7ce153deb28f3e9c7ec
+  last_post_guid: f12aaec7f0349fe130af94d1d8a482d4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 12
+  avgpostlen: 0
 ---

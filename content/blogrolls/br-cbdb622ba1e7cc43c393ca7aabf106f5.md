@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Fri, 30 Aug 2024 14:22:06 GMT
+date: Mon, 24 Feb 2025 00:12:34 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -449,12 +449,6 @@ params:
   - title: General – toedter.com
     description: Software & More
     id: 78b90d1ef69e62fd831d8bd4f8726488
-  - title: 'Eclipse Web Tools Platform Project: News'
-    description: |-
-      This RSS feed contains the latest news from the Eclipse Web Tools
-      Platform (WTP) project. The Eclipse WTP project contains Web tools and
-      frameworks for the Eclipse platform.
-    id: 792dcbac9724e3a9c4db9f4fd4893fc4
   - title: Dean on Eclipse
     description: Framework enthusiasts need not apply
     id: 7a6a98265b0ab70863d1e509ba29fc95
@@ -682,9 +676,6 @@ params:
   - title: eclipse on Idiomaticsoft International LLC
     description: Recent content in eclipse on Idiomaticsoft International LLC
     id: c814b0874cbf9e2ffba23b8092f73f13
-  - title: The Programming Delusion
-    description: Delusional thoughts on Java, OSGi, Eclipse and other things
-    id: c853f382924c5a41a43ecb6b26947166
   - title: Opera Omnia
     description: Recent content on Opera Omnia
     id: c937a710c7261f189fa5c57d522444f2
@@ -844,9 +835,6 @@ params:
   - title: William Piers
     description: ""
     id: f71041f280362249de7e1694dcfdbe26
-  - title: News
-    description: ""
-    id: f71278f6a0814f6656a8f048f6175291
   - title: Viewing the Eclipse
     description: ""
     id: fad469dbdd2cb800c6ab647288a44d14

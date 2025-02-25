@@ -16,9 +16,16 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Ruben Arakelyan's blogroll
+    description: ""
+    id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
+  - https://www.wackomenace.co.uk/blog/rss.xml
   categories: []
   relme: {}
   last_post_title: The Startup Designer
@@ -34,15 +41,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

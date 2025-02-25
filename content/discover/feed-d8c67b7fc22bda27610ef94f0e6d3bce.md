@@ -1,6 +1,6 @@
 ---
 title: ATOR
-date: "2024-08-28T20:46:31+02:00"
+date: "2025-02-18T12:19:09+01:00"
 description: "ATOR (Arc-Team Open Research). \nThe blog spreads tests, problems and
   results of Arc-Team research in archaeology, following the guidelines of the OpArc
   (Open Archaeology) project."
@@ -91,6 +91,10 @@ params:
   - ArcheOS ML
   - ArcheOS Theodoric
   - ArcheoFOSS
+  - |-
+    ArcheoFOSS
+    ArcheOS
+    Open Archaeology
   - ArcheoROV
   - Archeodrone
   - Archeologia e Calcolatori
@@ -912,27 +916,34 @@ params:
   - Éverton Quevedo
   - Ötzi
   relme: {}
-  last_post_title: 'Enhancement of Hidden Cultural Heritage: The Submerged Forest
-    of Lake Tovel'
+  last_post_title: Reviving ArcheOS
   last_post_description: ""
-  last_post_date: "2024-01-29T13:57:34+01:00"
-  last_post_link: https://arc-team-open-research.blogspot.com/2024/01/enhancement-of-hidden-cultural-heritage.html
-  last_post_categories: []
+  last_post_date: "2025-02-18T10:37:57+01:00"
+  last_post_link: https://arc-team-open-research.blogspot.com/2025/02/reviving-archeos.html
+  last_post_categories:
+  - |-
+    ArcheoFOSS
+    ArcheOS
+    Open Archaeology
   last_post_language: ""
-  last_post_guid: df64c3dcae1de0b8205f012aef69dd0d
+  last_post_guid: 04334bc8bcbfcc83bf1ccbe108ab71ec
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 296
 ---

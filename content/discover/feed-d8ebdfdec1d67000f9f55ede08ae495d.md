@@ -1,6 +1,6 @@
 ---
 title: Sean Voisen
-date: "2024-12-14T06:06:42Z"
+date: "2025-01-18T05:57:46Z"
 description: Writing about designing and making software, mostly.
 params:
   feedlink: https://sean.voisen.org/atom.xml
@@ -21,28 +21,32 @@ params:
   relme:
     https://front-end.social/@svoisen: true
     https://sean.voisen.org/: true
-  last_post_title: We need more hybrid tools
-  last_post_description: Bridging design and engineering in the age of generative
-    AI.
-  last_post_date: "2024-12-13T00:00:00Z"
-  last_post_link: https://sean.voisen.org/blog/hybrid-tools
+    https://seanvoisen.com/: true
+  last_post_title: 2024 year-in-review
+  last_post_description: A recap of my year and a brief look at trajectories for 2025.
+  last_post_date: "2025-01-02T00:00:00Z"
+  last_post_link: https://sean.voisen.org/blog/2024-year-in-review
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 4e144c4cfd002b51733468f06b7e41f3
+  last_post_guid: 17ea4794289bcdf5d5e8d585e4453cee
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 296
 ---

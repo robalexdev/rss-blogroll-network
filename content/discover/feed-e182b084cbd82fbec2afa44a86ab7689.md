@@ -15,32 +15,39 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
+  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
+  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories:
   - Programming
   - Raspberry Pi
   relme: {}
-  last_post_title: Soft Dorothy Software — Shareware Projects
-  last_post_description: Wherein I attempt to recover and restore old shareware code
-    and program again like it's 1989.
-  last_post_date: "2024-08-29T12:00:00Z"
-  last_post_link: https://www.engineersneedart.com/blog/shareware/shareware.html
+  last_post_title: Offline Advocate
+  last_post_description: Digital hoarding as a check against the ephemeral nature
+    of the internet ... and maybe some peace of mind.
+  last_post_date: "2024-11-19T12:00:00Z"
+  last_post_link: https://www.engineersneedart.com/blog/offlineadvocate/offlineadvocate.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b83c48960187e6738b27cf2d31126d9f
+  last_post_guid: 27c7bb57ccde76c9fd062c9cbd5b4440
   score_criteria:
     cats: 2
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 23
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Romain Perier's blog
-date: "2024-03-19T04:05:57+01:00"
+date: "2024-09-04T15:01:02+02:00"
 description: ""
 params:
   feedlink: https://rperier.blogspot.com/feeds/posts/default/-/debian
@@ -29,15 +29,19 @@ params:
     cats: 1
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 295
 ---

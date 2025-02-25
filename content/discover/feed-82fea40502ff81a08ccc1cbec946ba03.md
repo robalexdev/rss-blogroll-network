@@ -16,39 +16,43 @@ params:
   recommended: []
   recommender:
   - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - On Sharing
-  - smallweb
-  - webserendipity
+  - Coding
+  - Dog Tricks
+  - html
   relme: {}
-  last_post_title: Amazing Still Happens. The Incalculable Odds of Clicking My Way
-    Back to Phenix
-  last_post_description: Just when one might think the glorious, joyful, unlimited
-    potential of the internet has cratered to an ad-laden pool of machine generated
-    goop, amazingness happens again. The odds of what I will lay
-  last_post_date: "2024-08-11T05:53:16Z"
-  last_post_link: https://cogdogblog.com/2024/08/amazing-back-to-phenix/
+  last_post_title: Links to Text Fragments
+  last_post_description: I feel father comfortable swimming in HTML and writing the
+    stuff by hand (I thought at one time everyone would learn to write HTML). It never
+    tops being refreshing to learn one more trick. This
+  last_post_date: "2025-01-20T03:27:51Z"
+  last_post_link: https://cogdogblog.com/2025/01/links-to-text-fragments/
   last_post_categories:
-  - On Sharing
-  - smallweb
-  - webserendipity
+  - Coding
+  - Dog Tricks
+  - html
   last_post_language: ""
-  last_post_guid: e8952eb4553afaa07c894739ad84c6e2
+  last_post_guid: 599c7cc295ccda813d1621840434e90d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

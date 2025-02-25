@@ -19,33 +19,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence
-  - Blockchain
+  - Application Security
+  - Open Source
   relme: {}
-  last_post_title: Evaluating Solidity support in AI coding assistants
-  last_post_description: By Artem Dinaburg AI-enabled code assistants (like GitHub’s
-    Copilot, Continue.dev, and Tabby) are making software development faster and more
-    productive. Unfortunately, these tools are often bad at
-  last_post_date: "2024-11-19T14:00:37Z"
-  last_post_link: https://blog.trailofbits.com/2024/11/19/evaluating-solidity-support-in-ai-coding-assistants/
+  last_post_title: Auditing the Ruby ecosystem’s central package repository
+  last_post_description: Ruby Central hired Trail of Bits to complete a security assessment
+    and a competitive analysis of RubyGems.org, the official package management system
+    for Ruby applications. With over 184+ billion
+  last_post_date: "2024-12-11T14:00:59Z"
+  last_post_link: https://blog.trailofbits.com/2024/12/11/auditing-the-ruby-ecosystems-central-package-repository/
   last_post_categories:
-  - Artificial Intelligence
-  - Blockchain
+  - Application Security
+  - Open Source
   last_post_language: ""
-  last_post_guid: c6d2469aac26095a89577f604643ae37
+  last_post_guid: f51eb27cdf1a66e65831b4270662561b
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

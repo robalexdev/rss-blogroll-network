@@ -30,27 +30,32 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Stealing cash using NFC relay – Week in Security with Tony Anscombe
-  last_post_description: The discovery of the NGate malware by ESET Research is another
-    example of how sophisticated Android threats have become
-  last_post_date: "2024-08-28T14:01:52Z"
-  last_post_link: https://www.welivesecurity.com/en/videos/stealing-cash-using-nfc-relay-week-in-security-with-tony-anscombe/
+  last_post_title: Fake job offers target software developers with infostealers
+  last_post_description: A North Korea-aligned activity cluster tracked by ESET as
+    DeceptiveDevelopment drains victims' crypto wallets and steals their login details
+    from web browsers and password managers
+  last_post_date: "2025-02-20T14:11:28Z"
+  last_post_link: https://www.welivesecurity.com/en/videos/fake-job-offers-target-coders-infostealers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 072fa79f9be1e404f2d475a76edd4abb
+  last_post_guid: 5f9c31955e2d1d2fd626fbc354695c18
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 100
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wen.onweb
-date: "2024-05-07T00:00:00Z"
+date: "2024-11-19T00:00:00Z"
 description: Sofware and Development
 params:
   feedlink: https://melissawen.github.io/feed_2.xml
@@ -16,30 +16,33 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Get Ready to 2024 Linux Display Next Hackfest in A Coruña!
+  last_post_title: 'Display/KMS Meeting at XDC 2024: Detailed Report'
   last_post_description: |-
-    We’re excited to announce the details of our upcoming 2024 Linux Display Next
-    Hackfest in the beautiful city of A Coruña, Spain!
-
-    This year’s hackfest will be hosted by Igalia and will take
-  last_post_date: "2024-05-07T15:33:00+01:00"
-  last_post_link: https://melissawen.github.io/blog/2024/05/07/get-ready-display-hackfest-2024
+    XDC 2024 in Montreal was another fantastic gathering for the Linux Graphics
+    community. It was again a great time to immerse in the world of graphics
+    development, engage in stimulating conversations,
+  last_post_date: "2024-11-19T13:00:00Z"
+  last_post_link: https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ed82ea5e06382101ecdd8e5294da22ea
+  last_post_guid: afa0826b0447bf5f1345939447efd2f9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 0
 ---

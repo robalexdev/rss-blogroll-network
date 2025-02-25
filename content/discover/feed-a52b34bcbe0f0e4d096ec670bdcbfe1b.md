@@ -1,6 +1,6 @@
 ---
 title: GamerNoTitle
-date: "2024-11-16T15:47:11Z"
+date: "2025-02-22T07:56:16Z"
 description: TECH OTAKUS SAVE THE WORLD
 params:
   feedlink: https://bili33.top/atom.xml
@@ -16,35 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Openwrt
-  - Redmi
-  - Router
+  - Azure
+  - Education
   - Tech
   relme: {}
-  last_post_title: 从零开始！在红米AX6000路由器上刷入Openwrt
+  last_post_title: 使用教育邮箱注册AZ100（Azure 100$ 教育优惠）
   last_post_description: ""
-  last_post_date: "2024-11-16T15:47:11Z"
-  last_post_link: https://bili33.top/posts/Flashing-Openwrt-on-Redmi-AX6000/
+  last_post_date: "2025-02-22T07:56:16Z"
+  last_post_link: https://bili33.top/posts/The-Start-of-AZ100/
   last_post_categories:
-  - Openwrt
-  - Redmi
-  - Router
+  - Azure
+  - Education
   - Tech
   last_post_language: ""
-  last_post_guid: ada56191c676e17a4bb9e707f42b973a
+  last_post_guid: 63cb3e306197c0d471ab3e8c9893df11
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 248
 ---

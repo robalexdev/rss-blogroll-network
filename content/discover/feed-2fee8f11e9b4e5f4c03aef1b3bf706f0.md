@@ -1,5 +1,5 @@
 ---
-title: Debian Planet – Giuseppe
+title: Debian Planet Archivi - Giuseppe
 date: "1970-01-01T00:00:00Z"
 description: Have you tried rebooting it?
 params:
@@ -41,15 +41,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 1
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 1
+  avgpostlen: 0
 ---

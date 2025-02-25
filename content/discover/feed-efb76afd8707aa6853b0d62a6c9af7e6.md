@@ -16,28 +16,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: It’s all excuses
-  last_post_description: I have this weird stumbling block with my blog. I want to
-    blog, when I do it I enjoy it and when I get into a good rhythm posting regularly
-    I enjoy it even more. I should then be doing it regularly,
-  last_post_date: "2024-05-10T10:29:02+01:00"
-  last_post_link: https://philbowell.me/2024/05/10/its-all-excuses.html
+  last_post_title: Dark Mode Days
+  last_post_description: It’s a dark mode day. Outside is gloomy and grey, it’s raining,
+    and everything feels like it’s in dark mode. There’s been a few of these kinds
+    of day recently, normally they coincide with
+  last_post_date: "2025-02-10T11:11:51Z"
+  last_post_link: https://philbowell.me/2025/02/10/dark-mode-days.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b9459f5d60be7e268fc8fb792e8ad0ed
+  last_post_guid: 0096e80f28c9988b2704372a5e7acdfd
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 9
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 4
+  avgpostlen: 0
 ---

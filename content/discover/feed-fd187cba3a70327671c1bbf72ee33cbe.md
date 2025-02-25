@@ -1,7 +1,7 @@
 ---
-title: KeepCoding
+title: About ME on Jiacai Liu's personal website
 date: "1970-01-01T00:00:00Z"
-description: Recent content on KeepCoding
+description: Recent content in About ME on Jiacai Liu's personal website
 params:
   feedlink: https://en.liujiacai.net/index.xml
   feedtype: rss
@@ -21,6 +21,7 @@ params:
   last_post_title: Embed git commit in Zig programs
   last_post_description: |-
     Whether you are writing a fancy database, or simple CLI program, it's always helpful to embed git commit into the binary.
+
     With it, you can know which exact lines of code is to be blamed when users
   last_post_date: "2023-06-29T21:57:47+08:00"
   last_post_link: https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/
@@ -31,15 +32,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 8
+  avgpostlen: 0
 ---

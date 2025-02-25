@@ -1,6 +1,6 @@
 ---
 title: 频率
-date: "2024-11-17T15:25:00Z"
+date: "2024-12-15T08:00:00Z"
 description: 风卷过的起点
 params:
   feedlink: https://pinlyu.com/atom.xml
@@ -16,37 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 博物
+  - 大湾区
   - 生活
-  - 艺术
+  - 自然
   relme: {}
-  last_post_title: 敦煌壁画艺术展
-  last_post_description: !!binary |
-    5Zyo5bCP57qi5Lmm5LiK55yL5Yiw5rex5Zyz5pyJ5pWm54WM5aOB55S76Im65pyv5bGV77
-    yM6Jm954S25aSn6YOo5YiG5bGV5ZOB5piv5aSN5Yi25ZOB77yM5L2G5Ly85LmO5aSn5a62
-    5a+56L+Z5Liq5bGV6KeI6K+E5Lu36L+Y5LiN6ZSZ77yM5LuK5aSp5bCx6L+H5Y675Y+C6K
-    eC5LqG5LiA5LiL44CC5Zug5Li65LiN6IO95o+Q5YmN6aKE57qm77yM5Y8=
-  last_post_date: "2024-11-17T15:25:00Z"
-  last_post_link: https://pinlyu.com/posts/89/
+  last_post_title: 仙湖植物园与弘法寺
+  last_post_description: 半个月前去的仙湖植物园和弘法寺，今天有空简单整理了一下照片，写个小小的游记给大家分享雨后植物园的美景吧。
+  last_post_date: "2024-12-15T08:00:00Z"
+  last_post_link: https://pinlyu.com/posts/92/
   last_post_categories:
-  - 博物
+  - 大湾区
   - 生活
-  - 艺术
+  - 自然
   last_post_language: ""
-  last_post_guid: c83525ccd07b1d723e7a2f2b071d9738
+  last_post_guid: a033c9b2e98437c5cddf593a6d408c88
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 263
 ---

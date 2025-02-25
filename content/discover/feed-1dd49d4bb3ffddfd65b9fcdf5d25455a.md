@@ -19,27 +19,31 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Hidden Treasures of Crash Reports
-  last_post_description: Analyzing crash reports reveals malware, (0-day) bugs, and
-    much more!
-  last_post_date: "2024-08-13T01:00:00-04:00"
-  last_post_link: https://objective-see.org/blog/blog_0x7B.html
+  last_post_title: Restoring Reflective Code Loading on macOS
+  last_post_description: Apple silently 'broke' in-memory code loading on macOS ...let's
+    restore it!
+  last_post_date: "2024-12-16T00:00:00-05:00"
+  last_post_link: https://objective-see.org/blog/blog_0x7C.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5c0796f2fc60f7269599ab90ca747e6f
+  last_post_guid: 575004a636fbff1f4d4266b0f3163d53
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 124
+  avgpostlen: 0
 ---

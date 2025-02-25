@@ -1,6 +1,6 @@
 ---
 title: gnufool
-date: "2024-08-29T13:56:10-07:00"
+date: "2025-02-03T00:32:20-08:00"
 description: Approximating success one failure at a time
 params:
   feedlink: https://gnufool.blogspot.com/feeds/posts/default/-/emacs
@@ -34,15 +34,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 3
+  avgpostlen: 296
 ---

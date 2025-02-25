@@ -25,40 +25,41 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - AI
-  - Collaboration
-  - News & insights
-  - Policy
-  - open source
+  - AI & ML
+  - Engineering
+  - Generative AI
+  - GitHub Copilot
   relme: {}
-  last_post_title: 2024 is the biggest global election year in history. What’s at
-    stake for developers?
-  last_post_description: GitHub is considering what is at stake for our users and
-    platform, how we can take responsible action to support free and fair elections,
-    and how developers contribute to resilient democratic
-  last_post_date: "2024-08-28T16:57:07Z"
-  last_post_link: https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/
+  last_post_title: How to debug code with GitHub Copilot
+  last_post_description: "GitHub Copilot can streamline your debugging process by
+    troubleshooting in your IDE, analyzing pull requests, and more, helping you tackle
+    issues faster and more robustly. \nThe post How to debug code"
+  last_post_date: "2025-02-21T17:00:49Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/
   last_post_categories:
-  - AI
-  - Collaboration
-  - News & insights
-  - Policy
-  - open source
+  - AI & ML
+  - Engineering
+  - Generative AI
+  - GitHub Copilot
   last_post_language: ""
-  last_post_guid: a562bb9143f0ba3954333b29adb51176
+  last_post_guid: 6d570089a7e908d2e4908180ab6b0612
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

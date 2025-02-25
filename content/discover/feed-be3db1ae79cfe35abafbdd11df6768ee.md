@@ -16,35 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - Software Freedom
-  - Unix
+  - Artificial Intelligence
   relme: {}
-  last_post_title: 'Windows of Opportunity: Microsoft''s Open Source Renaissance'
-  last_post_description: Twenty years ago, it was easy to dislike Microsoft. It was
-    the quintessential evil MegaCorp that was quick to squash competition, often ruthlessly,
-    but in some cases slowly through a more insidious
-  last_post_date: "2024-07-13T13:40:24Z"
-  last_post_link: https://weeraman.com/windows-of-opportunity-microsofts-open-source-renaissance/
+  last_post_title: DeepSeek-R1, at the cusp of an open revolution
+  last_post_description: DeepSeek R1, the new entrant to the Large Language Model
+    wars has created quite a splash over the last few weeks. Its entrance into a space
+    dominated by the Big Corps, while pursuing asymmetric and
+  last_post_date: "2025-02-02T14:37:44Z"
+  last_post_link: https://weeraman.com/deepseek-r1-at-the-cusp-of-an-open-revolution/
   last_post_categories:
-  - Linux
-  - Software Freedom
-  - Unix
+  - Artificial Intelligence
   last_post_language: ""
-  last_post_guid: 9192f9aa834d210708caf01ce0988118
+  last_post_guid: 0b4bbd6ae2de438fdd3acb7c48a0b546
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

@@ -18,38 +18,44 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#attackers'
-  - '#governments'
-  - '#corporations'
-  - '#surveillance'
-  - '#cryptowars'
+  - '#quantum'
+  - '#energy'
+  - '#variables'
+  - '#errors'
+  - '#rsa'
+  - '#secrecy'
   relme: {}
-  last_post_title: The sins of the 90s
-  last_post_description: 'Questioning a puzzling claim about mass surveillance. #attackers
-    #governments #corporations #surveillance #cryptowars'
-  last_post_date: "2024-11-02T08:01:39Z"
-  last_post_link: http://blog.cr.yp.to/20241028-surveillance.html
+  last_post_title: As expensive as a plane flight
+  last_post_description: 'Looking at some claims that quantum computers won''t work.
+    #quantum #energy #variables #errors #rsa #secrecy'
+  last_post_date: "2025-01-18T17:45:19Z"
+  last_post_link: http://blog.cr.yp.to/20250118-flight.html
   last_post_categories:
-  - '#attackers'
-  - '#governments'
-  - '#corporations'
-  - '#surveillance'
-  - '#cryptowars'
+  - '#quantum'
+  - '#energy'
+  - '#variables'
+  - '#errors'
+  - '#rsa'
+  - '#secrecy'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 31
+  avgpostlen: 0
 ---

@@ -21,27 +21,31 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Use Plain Text Email?
-  last_post_description: A meditation on what's wrong with the site Use plain text
-    email
-  last_post_date: "2024-08-02T07:06:47Z"
-  last_post_link: https://scottnesbitt.online/email.html
+  last_post_title: Why a Text-Only Blog?
+  last_post_description: A short explanation of why Random Notes has no adornments,
+    and why I instead dare to be dull
+  last_post_date: "2025-02-02T19:51:00Z"
+  last_post_link: https://scottnesbitt.online/text.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 924a83ff6a06e6637bdf65ba5df71164
+  last_post_guid: 0fb16066b36fb7d2052f88ff034a87b2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 41
+  avgpostlen: 0
 ---

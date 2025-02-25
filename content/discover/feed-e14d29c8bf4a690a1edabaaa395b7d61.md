@@ -18,46 +18,46 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - php
-  - programming
-  - published on gemini
-  - scam
-  - spam
-  - technology
-  - three rings
-  - volunteering
+  - geohashing
+  - google maps
+  - map
+  - maps
+  - openstreetmap
+  - walking
   relme: {}
-  last_post_title: '[Article] Roll Your Own Antispam'
-  last_post_description: The Web contact form of a nonprofit I founded started attracting
-    a huge volume of spam, and conventional tools weren't helping. But a little analysis
-    allowed us to block almost all of it without
-  last_post_date: "2024-08-29T09:50:43+01:00"
-  last_post_link: https://danq.me/2024/08/29/roll-your-own-antispam/
+  last_post_title: '[Article] OpenStreetMap rocks (especially on foot)'
+  last_post_description: OpenStreetMap blows Google Maps out of the water for walkers
+    and also for if you're trying to find a particular-named house in a rural area.
+    I'm not saying never to use Google Maps (there's plenty of
+  last_post_date: "2025-02-23T14:37:36Z"
+  last_post_link: https://danq.me/2025/02/23/openstreetmap-rocks/
   last_post_categories:
   - Personal
-  - php
-  - programming
-  - published on gemini
-  - scam
-  - spam
-  - technology
-  - three rings
-  - volunteering
+  - geohashing
+  - google maps
+  - map
+  - maps
+  - openstreetmap
+  - walking
   last_post_language: ""
-  last_post_guid: 616b53a67b906aa47d3a3ca5835d247f
+  last_post_guid: adba75f725f26ea2fc11380d32e2c784
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

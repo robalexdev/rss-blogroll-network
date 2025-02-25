@@ -15,43 +15,49 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Tech
+  - Detritus
+  - career
   - debian
   - freesoftware
-  - hardware
-  - nas
-  - truenas
+  - life
+  - mono
+  - opensource
   - ubuntu
   relme: {}
-  last_post_title: Building a NAS
-  last_post_description: The status quo Back in 2015, I bought an off-the-shelf NAS,
-    a QNAP TS-453mini, to act as my file store and Plex server. I had previously owned
-    a Synology box, and whilst I liked the Synology OS and
-  last_post_date: "2023-09-12T21:45:14Z"
-  last_post_link: https://apebox.org/wordpress/tech/1325
+  last_post_title: My name is Jo and this is home now
+  last_post_description: After just over three years, my family and I are now Lawful
+    Permanent Residents (Green Card holders) of the United States of America. It’s
+    been a long journey. Acknowledgements Before anything else
+  last_post_date: "2024-07-09T19:17:19Z"
+  last_post_link: https://apebox.org/wordpress/detritus/1289
   last_post_categories:
-  - Tech
+  - Detritus
+  - career
   - debian
   - freesoftware
-  - hardware
-  - nas
-  - truenas
+  - life
+  - mono
+  - opensource
   - ubuntu
   last_post_language: ""
-  last_post_guid: 7dfcb7776bde0518e7e4dbb3c3852789
+  last_post_guid: 9b198e0d224b4d0952e2a119aaabef6c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 262
 ---

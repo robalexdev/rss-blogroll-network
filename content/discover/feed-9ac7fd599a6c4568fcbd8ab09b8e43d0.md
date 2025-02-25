@@ -18,30 +18,34 @@ params:
   - fast-reading
   - 医学与生物学
   relme: {}
-  last_post_title: 前沿快讯 第63期 人类细胞图谱等
+  last_post_title: 前沿快讯 第67期 大规模多语言和多模态机器翻译系统等
   last_post_description: |-
     Bensz
-    前沿快讯 第63期
-  last_post_date: "2024-11-23T14:21:28Z"
-  last_post_link: https://blognas.hwb0307.com/medicine/6144
+    前沿快讯 第67期
+  last_post_date: "2025-01-19T11:57:25Z"
+  last_post_link: https://blognas.hwb0307.com/medicine/6295
   last_post_categories:
   - fast-reading
   - 医学与生物学
   last_post_language: ""
-  last_post_guid: 27bf6cb428743d880d816bb84358ad86
+  last_post_guid: a58c9efc333c8ff923554b2ac7d4299d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 20
+  avgpostlen: 0
 ---

@@ -1,7 +1,8 @@
 ---
-title: Piccalilli
-date: "2024-08-30T14:02:12Z"
-description: undefined
+title: Piccalilli - Everything
+date: "2025-02-24T00:03:55Z"
+description: We are Piccalilli. A publication dedicated to providing high quality
+  educational content to level up your front-end skills.
 params:
   feedlink: https://piccalil.li/feed.xml
   feedtype: rss
@@ -19,28 +20,34 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: Building a breakout element with container units
-  last_post_description: We recently redesigned this site and a part of that was a
-    sidebar-based article view. That aspect was fine because the Every Layout Sidebar
-    is designed to deliver that layout with no fuss. I threw a
-  last_post_date: "2024-08-29T00:00:00Z"
-  last_post_link: https://piccalil.li/blog/building-a-breakout-element-with-container-units/?ref=main-rss-feed
+  last_post_title: 'Rethinking Find-in-Page Accessibility: Making Hidden Text Work
+    for Everyone'
+  last_post_description: |-
+    I stumbled upon this article and firstly, I learned yet another an important lesson about making presumptions about screen reader users:
+
+    It wasn't my first time seeing someone blind use assistive
+  last_post_date: "2025-02-17T11:49:00Z"
+  last_post_link: https://piccalil.li/links/rethinking-find-in-page-accessibility-making-hidden-text-work-for-everyone/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0acc70a9e6ff2fda43787a323694cb59
+  last_post_guid: 18d81667476654571aee29526b73e593
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

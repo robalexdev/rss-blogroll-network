@@ -1,6 +1,6 @@
 ---
 title: ypingcn
-date: "2024-11-24T07:07:43Z"
+date: "2024-12-26T01:37:15Z"
 description: 这里是 @ypingcn 的个人博客，相信万物逢时而美。期待与你发现更大的世界。
 params:
   feedlink: https://blog.ypingcn.com/feed.xml
@@ -30,15 +30,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

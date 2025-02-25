@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2024-08-30T15:55:05+01:00"
+date: "2025-02-24T19:50:01Z"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -15,33 +15,34 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://repc.co/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Service design panel: How employee experience shapes customer
-    outcomes'
+  last_post_title: Designing for neurodivergence is designing for all
   last_post_description: |-
-    It’s a compelling notion that 'behind every great customer experience is a great employee experience'. But does that match reality?
-
-          Here at Clearleft we talk a lot about ‘internal service
-  last_post_date: "2024-08-22T13:00:00+01:00"
-  last_post_link: https://clearleft.com/thinking/service-design-panel-discussion-recap
+    Decisions you make in design and build can have real-life impact for neurodivergent people who want or need to use your digital products.
+    Inclusive design is an opportunity to mitigate the risk of
+  last_post_date: "2025-02-19T00:00:00Z"
+  last_post_link: https://clearleft.com/thinking/designing-for-neurodivergence-is-designing-for-all
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f501fa1c3677ec15416db8599d532fc6
+  last_post_guid: 97bce10b553fa39dc7a44d079c1dac45
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 50
+  avgpostlen: 0
 ---

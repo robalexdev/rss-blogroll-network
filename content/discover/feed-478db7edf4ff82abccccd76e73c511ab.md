@@ -16,38 +16,43 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - PyTorch
-  - TensorBoard
+  - Kubernetes
+  - Pod
+  - kubectl
   - 博文
-  - 训练
+  - 运维故障
   relme: {}
-  last_post_title: 使用 TensorBoard 可视化 PyTorch 训练过程
-  last_post_description: 1. 什么是 TensorBoard TensorBoard 主要是用来监控模型的各种指标的变化，比如 accuracy、loss、各种层的权重分布等。
-    TensorBoard 是 TensorFlow
-  last_post_date: "2024-11-17T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/using-tensorboard-to-visualize-pytorch-training-process.html
+  last_post_title: kubectl logs 无法查看 Pod 日志报错 NotFound
+  last_post_description: 1. 现象 能查看 Pod 的信息 1 2 3 4 kubectl -n my-testns get pod my-testpod
+    NAME READY STATUS RESTARTS AGE my-testpod 1/1 Running 0 2d13h 不能查看 Pod 的日志 1 2
+    3 kubectl -n my-testns
+  last_post_date: "2025-02-22T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/kubectl-logs-not-found-error.html
   last_post_categories:
-  - AI
-  - PyTorch
-  - TensorBoard
+  - Kubernetes
+  - Pod
+  - kubectl
   - 博文
-  - 训练
+  - 运维故障
   last_post_language: ""
-  last_post_guid: 51e8075ffddf8e28c645795cd0eaf52e
+  last_post_guid: bd2b356ae94a78a3ed2b56f91dc3cd4f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 623
+  avgpostlen: 0
 ---

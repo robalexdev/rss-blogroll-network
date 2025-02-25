@@ -1,6 +1,6 @@
 ---
 title: tempertemper
-date: "2024-08-30T00:00:00Z"
+date: "2025-02-23T00:00:00Z"
 description: Articles on user experience design and frontend web development
 params:
   feedlink: https://www.tempertemper.net/feeds/main.xml
@@ -17,28 +17,31 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An enhancement to accessible responsive tables
-  last_post_description: I’ve written about accessible responsive tables before but
-    something has been bugging me. So here’s another step to make those tables even
-    better.
-  last_post_date: "2024-08-30T00:00:00Z"
-  last_post_link: https://www.tempertemper.net/blog/an-enhancement-to-accessible-responsive-tables
+  last_post_title: 'Skip links: what, why, and how'
+  last_post_description: Ever noticed one of those “Skip to main content” links when
+    you press the tab key? They’re important.
+  last_post_date: "2025-02-23T00:00:00Z"
+  last_post_link: https://www.tempertemper.net/blog/skip-links-what-why-and-how
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b19b9aa41b251092be5c3a9474e4b72e
+  last_post_guid: 99476de259060aa93f271300aab1f223
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 272
+  avgpostlen: 296
 ---

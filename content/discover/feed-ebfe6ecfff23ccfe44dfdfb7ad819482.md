@@ -15,38 +15,45 @@ params:
   recommended: []
   recommender: []
   categories:
-  - academia
-  - homepage
+  - bestpractices
+  - bestpracticesinpractice
+  - code
+  - opensource
   - python
-  - web
+  - review
   relme: {}
-  last_post_title: You can leave academia, but you can't get the academic spam out
-    of your inbox
-  last_post_description: When I used to do research on spam, I wound up spending a
-    lot of time listening to people's little pet theories.  One that came up plenty
-    was "oh, I just never post my email address on the internet"
-  last_post_date: "2014-05-31T05:19:41Z"
-  last_post_link: https://terriko.dreamwidth.org/152664.html
+  last_post_title: 'Best practices in practice: Black, the Python code formatter'
+  last_post_description: This is crossposted from Curiousity.ca, my personal maker
+    blog.  If you want to link to this post, please use the original link since the
+    formatting there is usually better.I’m starting a little
+  last_post_date: "2024-09-27T18:00:02Z"
+  last_post_link: https://terriko.dreamwidth.org/235243.html
   last_post_categories:
-  - academia
-  - homepage
+  - bestpractices
+  - bestpracticesinpractice
+  - code
+  - opensource
   - python
-  - web
+  - review
   last_post_language: ""
-  last_post_guid: 0e191a13714c107437dcbcbe11c2236f
+  last_post_guid: 0f653c543e2c49dcd3dc617168b0dc26
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

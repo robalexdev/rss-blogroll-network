@@ -1,6 +1,6 @@
 ---
 title: Geo Gears, Nuts &amp; Bolts
-date: "2024-02-19T00:19:15-05:00"
+date: "2024-09-09T10:55:09-04:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/808053412198379231/posts/default/-/English
@@ -51,15 +51,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 24
+  avgpostlen: 296
 ---

@@ -22,26 +22,32 @@ params:
     https://mstdn.social/@skwee357: true
     https://thesolopreneur.blog/: true
     https://yieldcode.blog/: true
-  last_post_title: Ghost Engineers
-  last_post_description: Let's address the existence of so called Ghost Engineers
-  last_post_date: "2024-12-10T16:30:00Z"
-  last_post_link: https://yieldcode.blog/post/ghost-engineers/
+  last_post_title: The commoditization of AI
+  last_post_description: |-
+    Earlier this week, a Chinese company released a new AI model called DeepSeek, that shattered the big tech giants that tried to own AI.
+    Seeing this, brings some memories from the past.
+  last_post_date: "2025-01-30T18:30:00Z"
+  last_post_link: https://yieldcode.blog/post/the-commoditization-of-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 31d9af9b02d7a6947bce2d0f26bea0a1
+  last_post_guid: 320e587cf7c91b446c64f8f67dca03f8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 52
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: TingPing's blog
-date: "2024-05-23T15:19:56-04:00"
+date: "2025-01-02T12:12:03-05:00"
 description: Development blog of TingPing
 params:
   feedlink: https://blog.tingping.se/feeds/igalia.xml
@@ -33,15 +33,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 4
+  avgpostlen: 0
 ---

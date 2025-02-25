@@ -17,30 +17,34 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: rust手写神经网络
+  last_post_title: TinyRenderer笔记4：着色器
   last_post_description: !!binary |
-    6KaB5a6e546w55qE5piv5LiA5Liq5YWo6L+e5o6l56We57uP572R57uc77yM5pW05Liq57
-    2R57uc5qih5Z6L5pyJ5b6I5aSa5bGCKExheWVyKe+8jOmZpOS6hui+k+WFpeWxgui+k+WH
-    uuWxgu+8jOWFtuS9meWxgumDvee7n+ensOS4uumakOiXj+Wxgu+8jOWvueS6juimgeWunu
-    eOsOeahOe9kee7nOWPr+S7peWPq+WFqOi/nuaOpeWxguOAguWcqOavj+U=
-  last_post_date: "2024-03-30T08:43:20Z"
-  last_post_link: https://www.kirito.info/rust%E6%89%8B%E5%86%99%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/
+    6aG254K5552A6Imy5Zmo55qE5Li76KaB55uu5qCH5piv5Y+Y5o2i6aG254K555qE5Z2Q5q
+    CH77yM56ys5LqM5Liq55uu5qCH5piv5Li654mH5q61552A6Imy5Zmo5YeG5aSH5pWw5o2u
+    44CCCueJh+auteedgOiJsuWZqOeahOS4u+imgeebruagh+aYr+ehruWumuW9k+WJjeWDj+
+    e0oOeahOminOiJsu+8jOasoeimgeebruagh+aYr+aIkeS7rOWPr+S7pek=
+  last_post_date: "2025-01-06T11:58:35Z"
+  last_post_link: https://www.kirito.info/tinyrenderer%E7%AC%94%E8%AE%B04%E7%9D%80%E8%89%B2%E5%99%A8/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a0768db742b80737fbe42f2ceebb6ae
+  last_post_guid: 9b06bf3ae1503a5f4dac88fe6f789b8f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 10
+  avgpostlen: 0
 ---

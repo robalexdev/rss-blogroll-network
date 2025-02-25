@@ -16,28 +16,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Another semester done
-  last_post_description: I’ve completed the moderation of the exam for Intermediate
-    Logic, and with that, the final administrative responsibilities for this semester
-    are complete. Now it’s time to take a short break over
-  last_post_date: "2024-12-20T16:35:00Z"
-  last_post_link: https://consequently.org/news/2024/end-of-another-semester/
+  last_post_title: Mathematical Practice, Proof Assistants and Meaning
+  last_post_description: 'Abstract: Twenty-first century mathematics has seen the
+    rise of the proof assistant, and mathematical practice has changed significantly
+    with the rise of these new tools. One consequence of this'
+  last_post_date: "2025-03-13T15:30:00-06:00"
+  last_post_link: https://consequently.org/presentation/2025/mathematical-practice-proof-assistants-and-meaning-calgary/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0c04bf8a5f641aa92ff16b88398bd2ad
+  last_post_guid: c58dfab61e8835b7471bca5c5be40be9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 689
+  avgpostlen: 0
 ---

@@ -33,29 +33,33 @@ params:
   categories:
   - Health
   relme: {}
-  last_post_title: Vagina Must Knows
-  last_post_description: There is a lot to know about this world but if I were to
-    load you up with some key insights I have about the vagina, these dozen or more
-    are my go-to. Thank you for watching on Nebula and for staying
-  last_post_date: "2024-08-21T16:36:15Z"
-  last_post_link: https://nebula.tv/videos/sexplanations-vagina-must-knows/
+  last_post_title: 'Fraud or Miracle: Sex Q&A'
+  last_post_description: A friend sent me an article titled Biological Miracle about
+    the hibernation strategy of wood frogs which entails freezing themselves for up
+    to eight months. I've been thinking about them almost
+  last_post_date: "2025-02-14T20:45:15Z"
+  last_post_link: https://nebula.tv/videos/sexplanations-fraud-or-miracle-sex-qa/
   last_post_categories:
   - Health
   last_post_language: ""
-  last_post_guid: 8f2c714856cc68a58a355ce108d0a723
+  last_post_guid: cf718e5c541ea04fc4b1eaf9b48ca721
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 30
+  avgpostlen: 0
 ---

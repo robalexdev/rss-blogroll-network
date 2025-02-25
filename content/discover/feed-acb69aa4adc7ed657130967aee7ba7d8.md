@@ -1,6 +1,6 @@
 ---
 title: Iacobus
-date: "2024-03-20T03:14:41-07:00"
+date: "2024-10-11T13:47:28-07:00"
 description: A blog on things Eclipse, Java, Groovy, Groovy Monkey and anything else
   I find interesting.
 params:
@@ -48,15 +48,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 22
+  avgpostlen: 295
 ---

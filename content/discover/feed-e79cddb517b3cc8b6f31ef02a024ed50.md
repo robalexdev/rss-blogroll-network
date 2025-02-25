@@ -17,30 +17,34 @@ params:
   recommender: []
   categories:
   - AI
-  - 互联网
+  - 技术文章
   relme: {}
-  last_post_title: 谁在用 AI 图片生成
-  last_post_description: AIGC 图片生成的技术，基本是22年开始爆发，Midjourney 2022年7月推出，Stable Dif […]
-  last_post_date: "2024-09-23T03:58:48Z"
-  last_post_link: https://blog.cnbang.net/internet/4012/
+  last_post_title: DeepSeek R1 是怎么训练出来的？- R1 论文精读
+  last_post_description: 背景 DeepSeek 里程碑式的爆火，有必要学习下是怎么回事。 大语言模型的发展，之前一直是以预训练为主，虽 […]
+  last_post_date: "2025-02-10T02:39:11Z"
+  last_post_link: https://blog.cnbang.net/tech/4160/
   last_post_categories:
   - AI
-  - 互联网
+  - 技术文章
   last_post_language: ""
-  last_post_guid: 24027c8398040c90514a6474da735e35
+  last_post_guid: da3fdbfaa8d2cae3d3d44932e4043739
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
+  postcount: 10
+  avgpostlen: 0
 ---

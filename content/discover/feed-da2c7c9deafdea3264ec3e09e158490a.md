@@ -1,6 +1,6 @@
 ---
 title: Jaz's Blog
-date: "2024-11-07T04:50:36Z"
+date: "2025-02-19T07:04:38Z"
 description: ""
 params:
   feedlink: https://jazco.dev/atom.xml
@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Jetstream: Shrinking the AT Proto Firehose by >99%'
+  last_post_title: 'When Imperfect Systems are Good, Actually: Bluesky''s Lossy Timelines'
   last_post_description: ""
-  last_post_date: "2024-09-24T00:00:00Z"
-  last_post_link: https://jazco.dev/2024/09/24/jetstream/
+  last_post_date: "2025-02-19T00:00:00Z"
+  last_post_link: https://jazco.dev/2025/02/19/imperfection/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 51252ab6d1b2a7a927e01b42121b7baa
+  last_post_guid: 8db5b319be639b0d88e1563bfdebb66b
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 9
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 11
+  avgpostlen: 296
 ---

@@ -16,31 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 23 Vaporwave
+  - 25 Shockworm
   relme: {}
-  last_post_title: Netrunner 23 “Vaporwave”
+  last_post_title: Netrunner 25 “Shockworm” — Released!
   last_post_description: The Netrunner Team is happy to announce the release of Netrunner
-    23 “Vaporwave” – 64bit ISO. This version is a major update and based on the current
-    stable version of Debian 11 (“bullseye”)
-  last_post_date: "2023-01-21T10:45:17Z"
-  last_post_link: https://www.netrunner.com/netrunner-23-vaporwave/
+    25 “Shockworm” – 64-bit ISO. Netrunner 25 is based on Debian Stable 12 (bookworm)
+    and ships with all the latest security updates
+  last_post_date: "2025-02-10T07:51:50Z"
+  last_post_link: https://www.netrunner.com/netrunner-25-shockworm-released/
   last_post_categories:
-  - 23 Vaporwave
+  - 25 Shockworm
   last_post_language: ""
-  last_post_guid: 11309ae03cbc0f8813f0aa45bad3d736
+  last_post_guid: 817f52e0773d8bc91e02b673397b4f8c
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

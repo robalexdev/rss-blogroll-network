@@ -17,9 +17,11 @@ params:
   categories: []
   relme: {}
   last_post_title: OpenBSD Worrying RAID
-  last_post_description: I wanted to move a couple of USB hard drives from one OpenBSD
-    machine to another. They are configured with softraid(4) as RAID 1 (mirrored).
-    When I plugged the drives into the new machine though,
+  last_post_description: |-
+    I wanted to move a couple of USB hard drives from one OpenBSD machine to
+    another. They are configured with
+    softraid(4) as RAID 1 (mirrored). When I
+    plugged the drives into the new machine though,
   last_post_date: "2020-10-06T11:50:00Z"
   last_post_link: https://irl.xyz/blog/2020/2020w412/
   last_post_categories: []
@@ -29,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 54
+  avgpostlen: 0
 ---

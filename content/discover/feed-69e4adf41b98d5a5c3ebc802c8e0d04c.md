@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Kanji Always Pays Her Debts
-  last_post_description: In defense of steep learning curve
-  last_post_date: "2024-12-10T10:52:15Z"
-  last_post_link: https://aethermug.com/posts/a-kanji-always-pays-her-debts
+  last_post_title: Rationality Fails at the Edge
+  last_post_description: Assumption-digging as ritual
+  last_post_date: "2025-02-20T05:53:08Z"
+  last_post_link: https://aethermug.com/posts/rationality-fails-at-the-edge
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ed84a3897885ccf22f272f16141e4959
+  last_post_guid: a139c19ab2e1473f634f55aa5e3411c1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 45
+  avgpostlen: 0
 ---

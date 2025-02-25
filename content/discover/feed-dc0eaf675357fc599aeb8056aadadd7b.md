@@ -16,33 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - News
-  - Tips
+  - Users Days
   relme: {}
-  last_post_title: OTB works with QGis 3.36
-  last_post_description: The OTB Provider QGis plugin is now available on QGis plugin
-    catalog. Since QGis version 3.36, the plugin previously packaged is no longer
-    in QGis package. To use OTB with QGis 3.36 you need to
-  last_post_date: "2024-03-25T09:20:27Z"
-  last_post_link: https://www.orfeo-toolbox.org/otb-works-with-qgis-3-36/
+  last_post_title: Look back on the OTB Users Days 2024
+  last_post_description: The OTB Users Days 2024 were held on November 21th and 22th
+    at Artilect Fablab in Toulouse. Thanks to everyone who attended the event! Plenary
+    Talks On Thursday several talks were given on various
+  last_post_date: "2024-12-05T08:55:27Z"
+  last_post_link: https://www.orfeo-toolbox.org/look-back-on-the-otb-users-days-2024/
   last_post_categories:
-  - News
-  - Tips
+  - Users Days
   last_post_language: ""
-  last_post_guid: 2a68e703b4a323e30211b4a567acbc39
+  last_post_guid: 2c30d3f47a821d23efcff5ec549badc5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 4
+  avgpostlen: 0
 ---

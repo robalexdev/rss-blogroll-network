@@ -20,33 +20,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Startups
+  - Security
   - Thoughts
   relme: {}
-  last_post_title: The Myth of Non-Technical Product Management
-  last_post_description: A common theme in conversations about product managers is
-    the notion that they donâ€™t need to be technical; they just need to bridge the
-    gap between technical and non-technical teams. In my
-  last_post_date: "2024-11-17T22:07:08Z"
-  last_post_link: https://unmitigatedrisk.com/?p=898
+  last_post_title: The Laws of Stupidity and the Gaps in Your Security Posture
+  last_post_description: Carlo M. Cipolla, in his essay The Basic Laws of Human Stupidity,
+    laid out a set of principles that are both hilarious and uncomfortably accurate
+    when applied to everyday life. If you’ve ever
+  last_post_date: "2025-01-19T20:47:18Z"
+  last_post_link: https://unmitigatedrisk.com/?p=927
   last_post_categories:
-  - Startups
+  - Security
   - Thoughts
   last_post_language: ""
-  last_post_guid: 2e22fa73c73783c7e356c78c314c77be
+  last_post_guid: 2970d1de65c0abb018364930708b98d4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

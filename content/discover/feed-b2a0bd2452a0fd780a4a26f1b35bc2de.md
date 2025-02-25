@@ -39,12 +39,12 @@ params:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: Ten years
-  last_post_description: It’s ten years to the day since I married my favourite person,
-    and I still can’t believe my luck. I’m more grateful with every passing day xx                    Reply
-    via email
-  last_post_date: "2024-08-30T10:00:00+01:00"
-  last_post_link: https://colly.com/journal/ten-years
+  last_post_title: 2024 in music
+  last_post_description: "Here’s my 21st annual roundup. Despite pledging to reduce
+    this obsessive cataloguing, I continue to go all in because exceptional new music
+    just keeps on coming.          \nAppreciate these"
+  last_post_date: "2024-12-28T16:00:00Z"
+  last_post_link: https://colly.com/journal/twenty-twentyfour-in-music
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9
@@ -52,15 +52,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 30
+  avgpostlen: 0
 ---

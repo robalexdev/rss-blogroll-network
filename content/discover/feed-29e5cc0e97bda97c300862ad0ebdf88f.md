@@ -1,6 +1,6 @@
 ---
 title: ANy's Argument
-date: "2024-03-05T16:06:14+01:00"
+date: "2024-09-05T13:48:17+02:00"
 description: Weblog by Alexander Nyßen
 params:
   feedlink: https://www.blogger.com/feeds/7387747921278902619/posts/default
@@ -27,15 +27,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 8
+  avgpostlen: 295
 ---

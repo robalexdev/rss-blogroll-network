@@ -1,6 +1,6 @@
 ---
 title: Nicholas Bate
-date: "2024-08-30T06:59:39+01:00"
+date: "2025-02-24T06:18:16Z"
 description: Business of Life + Life of Business
 params:
   feedlink: https://feeds.feedburner.com/NicholasBate
@@ -17,28 +17,32 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: On Writing, 118
-  last_post_description: Write every day. Write fast. Write when you do want to. Write
-    when you don't want to. Write a lot. Edit a lot. From quantity produce beautiful
-    quality. Write anyplace. Write from keyboard. Write with
-  last_post_date: "2024-08-30T07:28:56+01:00"
-  last_post_link: https://blog.strategicedge.co.uk/2024/08/on-writing--1.html
+  last_post_title: Monday Eternal Truths 22
+  last_post_description: 'There are decisions you might have made when you were younger
+    which you can still make now you are older. Worthwhile stuff is hard. We are wired
+    to be distracted: it has huge evolutionary benefit.'
+  last_post_date: "2025-02-24T06:18:16Z"
+  last_post_link: https://blog.strategicedge.co.uk/2025/02/monday-eternal-truths-22.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9d2c069f3abf29bc695f257055ed79da
+  last_post_guid: bff30a7c1e9c153eda8451a1a25e3e32
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 201
 ---

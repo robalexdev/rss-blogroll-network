@@ -1,6 +1,6 @@
 ---
 title: '&gt; /dev/null/'
-date: "2024-03-05T19:53:21+01:00"
+date: "2024-09-01T14:18:49+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/4740251930569090138/posts/default/-/Eclipse
@@ -69,15 +69,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 289
 ---

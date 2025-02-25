@@ -16,39 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Community
-  - Fellowships
   - Uncategorized
-  - accessibility
-  - internationalization (i18n)
   relme: {}
-  last_post_title: Improving Open Library’s Translation Pipeline
-  last_post_description: A forward by Drini CamiDrini Cami here, Open Library staff
-    developer. It’s my pleasure to introduce Rebecca Shoptaw, a 2024 Open Library
-    Engineering Fellow, to the Open Library blog in her first
-  last_post_date: "2024-07-30T16:35:20Z"
-  last_post_link: https://blog.openlibrary.org/2024/07/30/improving-open-librarys-translation-pipeline/
+  last_post_title: API Search.json Performance Tuning
+  last_post_description: 'This is a technical post regarding a breaking change for
+    developers whose applications depend on the /search.json endpoint that is scheduled
+    to be deployed on January 21st, 2025. Description: This'
+  last_post_date: "2025-01-16T23:12:55Z"
+  last_post_link: https://blog.openlibrary.org/2025/01/16/api-search-json-performance-tuning/
   last_post_categories:
-  - Community
-  - Fellowships
   - Uncategorized
-  - accessibility
-  - internationalization (i18n)
   last_post_language: ""
-  last_post_guid: 9e44d6daab0215ec64976fa829e650c2
+  last_post_guid: 3714323ea282f3f00c3a25928ee91e8d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

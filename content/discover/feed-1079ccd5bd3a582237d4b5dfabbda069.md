@@ -18,51 +18,58 @@ params:
   categories:
   - '#napoli'
   - NaLUGAtUniNA
+  - News
   - Riunioni
-  - editor
-  - emacs
   - freesoftware
   - libresoftware
   - linux
+  - marimo
   - meeting
+  - notebook
+  - openhardware
   - opensource
-  - org-mode
+  - python
   - riunione didattica
   relme: {}
-  last_post_title: NaLUG@UniNA – sabato 25 maggio 2024
+  last_post_title: NaLUG@UniNA – sabato 14 dicembre 2024
   last_post_description: Ciclo di incontri su software e hardware open source e libertà
-    digitali Sabato 25 maggio si terrà l’incontro dalle ore 10:00 presso l’Aula Seminari
-    del Dipartimento di Ingegneria Elettrica e
-  last_post_date: "2024-05-21T09:57:05Z"
-  last_post_link: https://www.nalug.tech/nalugunina-sabato-25-maggio-2024/
+    digitali
+  last_post_date: "2024-12-11T15:25:40Z"
+  last_post_link: https://www.nalug.tech/nalugunina-sabato-14-dicembre-2024/
   last_post_categories:
   - '#napoli'
   - NaLUGAtUniNA
+  - News
   - Riunioni
-  - editor
-  - emacs
   - freesoftware
   - libresoftware
   - linux
+  - marimo
   - meeting
+  - notebook
+  - openhardware
   - opensource
-  - org-mode
+  - python
   - riunione didattica
   last_post_language: ""
-  last_post_guid: 227131415562bc7abe4e4066fbe83d2a
+  last_post_guid: 677703acda49b6b32bdd46559c66a964
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
+  postcount: 10
+  avgpostlen: 0
 ---

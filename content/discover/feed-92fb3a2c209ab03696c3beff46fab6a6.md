@@ -21,46 +21,46 @@ params:
   recommender: []
   categories:
   - Rated N
-  - assembly
-  - compiler
-  - computers
-  - lc3
-  - learning
-  - linkedin
+  - async
+  - callback
+  - gnome
+  - javascript
+  - open source
   - programming
-  - rust
   relme: {}
-  last_post_title: 'December of Rust Project, Part 2: The Assembler Macro'
-  last_post_description: Welcome back! This is the second post of a series which turned
-    out to be more occasional than I thought it would be. You might remember that
-    I originally called it December of Rust 2021. Look how
-  last_post_date: "2023-05-19T06:26:45Z"
-  last_post_link: https://ptomato.wordpress.com/2023/05/19/december-of-rust-project-part-2-the-assembler-macro/
+  last_post_title: It’s like cp -R but for your GUI
+  last_post_description: As a JavaScript engine developer at Igalia I don’t find myself
+    writing much plain C code anymore. I’m either writing JS or TypeScript, or hacking
+    on large compiler codebases in C++1, or writing
+  last_post_date: "2024-09-23T00:41:03Z"
+  last_post_link: https://ptomato.wordpress.com/2024/09/23/its-like-cp-r-but-for-your-gui/
   last_post_categories:
   - Rated N
-  - assembly
-  - compiler
-  - computers
-  - lc3
-  - learning
-  - linkedin
+  - async
+  - callback
+  - gnome
+  - javascript
+  - open source
   - programming
-  - rust
   last_post_language: ""
-  last_post_guid: 61eecd397e58c113b9fa1611249239f8
+  last_post_guid: 518ea3856e4f89ba22787c7dec67536e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -16,46 +16,60 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Archer
-  - TP-LINK
+  - LaTeX
+  - Research
   - Technology
-  - VR1600v
-  - VoIP
-  - abstraction
-  - modem
-  - router
-  relme: {}
-  last_post_title: 'When abstraction goes wrong: ISP-hobbled firmware prevents using
-    VoIP with a modem router'
+  - VS code
+  - dask
+  - data visualisation
+  - hardware
+  - opensource
+  - pandas
+  - personal productivity
+  - productivity
+  - toolchain
+  - tools
+  relme:
+    https://blog.kathyreid.id.au/: true
+  last_post_title: State of my toolchain 2024
   last_post_description: |-
-    What does abstraction have to do with ISP-hobbled firmware on a modem router?
-    The post When abstraction goes wrong: ISP-hobbled firmware prevents using VoIP with a modem router appeared first on
-  last_post_date: "2024-08-10T09:42:02Z"
-  last_post_link: https://blog.kathyreid.id.au/2024/08/10/abstraction-goes-wrong-isp-hobbled-firmware-modem-router/
+    An overview of the software, hardware and other personal productivity toolchains I'm using as of December 2024.
+    The post State of my toolchain 2024 appeared first on Kathy Reid.
+  last_post_date: "2024-12-08T06:05:10Z"
+  last_post_link: https://blog.kathyreid.id.au/2024/12/08/state-of-my-toolchain-2024/
   last_post_categories:
-  - Archer
-  - TP-LINK
+  - LaTeX
+  - Research
   - Technology
-  - VR1600v
-  - VoIP
-  - abstraction
-  - modem
-  - router
+  - VS code
+  - dask
+  - data visualisation
+  - hardware
+  - opensource
+  - pandas
+  - personal productivity
+  - productivity
+  - toolchain
+  - tools
   last_post_language: ""
-  last_post_guid: 995651824b0b54728eb602c8089843dc
+  last_post_guid: 5f65116923cc0185f2db53a6e8700e64
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 3
+  avgpostlen: 0
 ---

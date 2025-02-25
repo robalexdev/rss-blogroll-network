@@ -1,7 +1,7 @@
 ---
 title: A Whole Lotta Nothing
 date: "1970-01-01T00:00:00Z"
-description: A Whole Lotta Nothing
+description: Matthew Haughey's personal blog
 params:
   feedlink: https://a.wholelottanothing.org/rss/
   feedtype: rss
@@ -19,28 +19,32 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Richard Haughey (1944-2024)
-  last_post_description: My father passed away today. It was a shock to get the call
-    that he was rushed to an ER from his nursing home and the news that quickly followed
-    was a surprise. But it was also something that
-  last_post_date: "2024-08-29T23:31:07Z"
-  last_post_link: https://a.wholelottanothing.org/richard-haughey-1944-2024/
+  last_post_title: A sign of things to come?
+  last_post_description: I heard there was a big announcement today from Trump's secretary
+    of transportation about California's high speed rail, and I knew it was probably
+    going to be train wreck but I had no idea until I
+  last_post_date: "2025-02-20T18:29:22Z"
+  last_post_link: https://a.wholelottanothing.org/a-sign-of-things-to-come/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c6be870aba6ff12e4ea3cb1259a539ce
+  last_post_guid: 3fac51d7ff7060631a6cad8c4597a1cc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 15
+  avgpostlen: 0
 ---

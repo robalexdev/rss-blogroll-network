@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2024-08-30T07:27:19-07:00"
+date: "2025-02-23T16:40:40-08:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -46,12 +46,15 @@ params:
   - bitcoin
   - blog-science
   - chatbots
+  - climate
   - cloud economics
   - copyright
   - crowdfunding
   - deduplication
+  - defi
   - digital preservation
   - distributed web
+  - drones
   - e-books
   - e-journals
   - e-science
@@ -80,6 +83,7 @@ params:
   - idcc2013
   - iipc13
   - iipc2016
+  - impossibilities
   - institutional repositories
   - intellectual property
   - ipres2008
@@ -134,28 +138,33 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: 2024 Optical Media Durability Update
+  last_post_title: On Not Being Immutable
   last_post_description: ""
-  last_post_date: "2024-08-27T08:00:00-07:00"
-  last_post_link: https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html
+  last_post_date: "2025-02-06T08:00:00-08:00"
+  last_post_link: https://blog.dshr.org/2025/02/on-not-being-immutable.html
   last_post_categories:
-  - long-lived media
-  - storage media
+  - bitcoin
+  - defi
+  - impossibilities
   last_post_language: ""
-  last_post_guid: 73217c3420ef83cfa8f33351af82a85b
+  last_post_guid: ead67e5cf67f22dd15eadfecfb011fe9
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 2
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 286
 ---

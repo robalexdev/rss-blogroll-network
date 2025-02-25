@@ -8,6 +8,7 @@ params:
   feedid: a23907c1a9d99d58bfec3ca2d8bb2d29
   websites:
     https://adam.rosi-kessel.org/weblog: true
+    https://adam.rosi-kessel.org/weblog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -32,15 +33,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -17,26 +17,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Gist of Go: Pipelines'
-  last_post_description: Compose concurrent pipelines from independent blocks.
-  last_post_date: "2024-12-12T06:00:00Z"
-  last_post_link: https://antonz.org/go-concurrency/pipelines/
+  last_post_title: 'Howto: Humble command-line assistant'
+  last_post_description: You ask, and howto answers. That's the deal.
+  last_post_date: "2025-02-22T12:00:00Z"
+  last_post_link: https://antonz.org/howto/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a707953e33d3f9bca378c56b7e5a342d
+  last_post_guid: 8a1bb374e02552830531edec65b20e8d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

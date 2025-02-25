@@ -8,6 +8,7 @@ params:
   feedid: 1ec1bc406eeeab9fe3ae5290403d8ced
   websites:
     https://tromey.com/blog: true
+    https://tromey.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Classpath
@@ -34,15 +35,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

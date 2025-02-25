@@ -18,28 +18,32 @@ params:
   categories: []
   relme:
     https://lucidmanager.org/tags/emacs/: true
-  last_post_title: Why Use Emacs
-  last_post_description: Emacs' lack of a slick graphical interface might discourage
-    new users. Unfortunately, most software developers confuse user-friendliness with
-    a smooth design and using a mouse. However, the graphical
-  last_post_date: "2021-05-07T00:00:00Z"
-  last_post_link: https://lucidmanager.org/productivity/why-use-emacs/
+  last_post_title: Writing Prose with Emacs
+  last_post_description: In modern computing language, copying and pasting are handicraft
+    analogues for moving text from one place to another. Emacs terminology is more
+    evocative. Copying a text is the same as saving it to
+  last_post_date: "2023-12-10T00:00:00Z"
+  last_post_link: https://lucidmanager.org/productivity/writing-prose-with-emacs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f5a3150294d7d7840670d58dcd626b97
+  last_post_guid: 2b18cec0021dc6695da37a4e3b1e4e7b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 29
+  avgpostlen: 0
 ---

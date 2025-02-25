@@ -1,6 +1,6 @@
 ---
 title: Jani's Blog
-date: "2024-08-28T00:00:00Z"
+date: "2024-10-17T00:00:00Z"
 description: Jani's blog.
 params:
   feedlink: https://blogs.igalia.com/jani/feed/feed.xml
@@ -16,26 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Bringing WebKit back to Android: Progress and Perspectives'
+  last_post_title: 'Bringing WebKit back to Android: Internals'
   last_post_description: ""
-  last_post_date: "2024-08-28T00:00:00Z"
-  last_post_link: https://blogs.igalia.com/jani/bringing-webkit-back-to-android-progress-and-perspectives/
+  last_post_date: "2024-10-17T00:00:00Z"
+  last_post_link: https://blogs.igalia.com/jani/bringing-webkit-back-to-android-internals/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a4a115fb5a5dd2145a880aa54b05ce95
+  last_post_guid: 48c478811ea3c47db7ec15dd9174db6a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 3
+  avgpostlen: 297
 ---

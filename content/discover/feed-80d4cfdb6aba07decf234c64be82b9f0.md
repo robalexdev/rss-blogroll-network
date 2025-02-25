@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Subscriptions-iCloud.opml
+  - title: CTI-DFIR-Feeds.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -17,29 +17,33 @@ params:
   categories:
   - Threat Analysis Group
   relme: {}
-  last_post_title: 'TAG Bulletin: Q3 2024'
+  last_post_title: 'TAG Bulletin: Q4 2024'
   last_post_description: This bulletin includes coordinated influence operation campaigns
-    terminated on our platforms in Q3 2024. It was last updated on October 31, 2024.JulyWe
-    terminated 89 You…
-  last_post_date: "2024-09-12T23:30:00Z"
-  last_post_link: https://blog.google/threat-analysis-group/tag-bulletin-q3-2024/
+    terminated on our platforms in Q4 2024. It was last updated on February 19, 2024.OctoberWe
+    terminated 11…
+  last_post_date: "2024-12-17T22:00:00Z"
+  last_post_link: https://blog.google/threat-analysis-group/tag-bulletin-q4-2024/
   last_post_categories:
   - Threat Analysis Group
   last_post_language: ""
-  last_post_guid: 16d927380db5275dea2c8887cf3f7387
+  last_post_guid: d4fe4089a4e87bcbffd3bbb6a15a0f4f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

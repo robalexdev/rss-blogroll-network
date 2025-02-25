@@ -17,37 +17,41 @@ params:
   categories:
   - Development
   - Planet
-  - Truth
-  - math
+  - assembly
+  - c
   - programming
+  - skill-issues
   relme: {}
-  last_post_title: Everyone is using modulo wrong
-  last_post_description: All programmers use the modulo operator, but virtually none
-    have stopped to consider what it actually is, and that's why one of the most powerful
-    features of it doesn't work in most programming
-  last_post_date: "2024-08-12T02:04:19Z"
-  last_post_link: https://felipec.wordpress.com/2024/08/11/everyone-is-using-modulo-wrong/
+  last_post_title: C idioms; it’s the processor, noob
+  last_post_description: 'I explain why !p isn''t just a nitpick in C: it''s idiomatic.'
+  last_post_date: "2025-01-28T20:45:14Z"
+  last_post_link: https://felipec.wordpress.com/2025/01/28/c-idioms/
   last_post_categories:
   - Development
   - Planet
-  - Truth
-  - math
+  - assembly
+  - c
   - programming
+  - skill-issues
   last_post_language: ""
-  last_post_guid: 988a279921d932d603e493e0335dcb4a
+  last_post_guid: 90c13feec57149bf1b154b43e4752217
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

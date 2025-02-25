@@ -145,28 +145,32 @@ params:
   - yield
   relme:
     https://pyright.blogspot.com/: true
-  last_post_title: Embedding an SVG in a graphviz Generated SVG and More DAG Hamilton
-  last_post_description: Wow, it looks like you just collected every piece of information
-    you could about all the dimensions and smashed it all together in the final SVG
-    document at the end.Yes.Hey, why is that one node just
-  last_post_date: "2024-08-10T01:39:00Z"
-  last_post_link: https://pyright.blogspot.com/2024/08/embedding-svg-in-graphviz-generated-svg.html
+  last_post_title: DAG Hamilton Graph Presented as SVG in Blogger
+  last_post_description: Through the kindness of the DAG Hamilton project team, I
+    was able to secure an official svg version of the DAG Hamilton logo. It looks
+    significantly better than the one I had generated with an online
+  last_post_date: "2024-09-27T19:30:00Z"
+  last_post_link: https://pyright.blogspot.com/2024/09/dag-hamilton-graph-presented-as-svg-in.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7e163a2c783b5ecb21ba3af43d3a5914
+  last_post_guid: 193dc6aa4ce4cae5087eedf8ba93e319
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

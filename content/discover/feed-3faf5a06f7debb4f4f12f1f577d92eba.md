@@ -16,34 +16,42 @@ params:
   recommender: []
   categories:
   - General
+  - bugs
+  - feature
   - front-page
   - launchpad
   relme: {}
-  last_post_title: Launchpad’s new homepage
-  last_post_description: Launchpad’s new homepage Launchpad has been around for a
-    while, and its frontpage has remained untouched for a few years now. If you go
-    into launchpad.net, you’ll notice it looks quite different
-  last_post_date: "2024-03-01T13:55:19Z"
-  last_post_link: https://blog.launchpad.net/general/launchpads-new-homepage
+  last_post_title: Introducing Launchpad Bug Templates
+  last_post_description: The new feature bug templates in Launchpad aims to streamline
+    the bug reporting process, making it more efficient for both users and project
+    maintainers. In the past, Launchpad provided only a basic
+  last_post_date: "2024-12-03T12:58:13Z"
+  last_post_link: https://blog.launchpad.net/general/introducing-launchpad-bug-templates
   last_post_categories:
   - General
+  - bugs
+  - feature
   - front-page
   - launchpad
   last_post_language: ""
-  last_post_guid: d9e0cbe5cc292d37eb569d4313e34c05
+  last_post_guid: ffa7b9910e1288627a84c3eac5f65ead
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

@@ -18,31 +18,35 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - photographs
+  - journal
   relme: {}
-  last_post_title: Bay Bridge to Downtown
-  last_post_description: |-
-    San Francisco, August 2024.
-    From the video From snapshot to fine art photograph.
-  last_post_date: "2024-08-27T19:27:31Z"
-  last_post_link: https://aows.co/blog/2024/8/27/bay-bridge-to-downtown
+  last_post_title: Websites vs Social Media for photographers
+  last_post_description: With TikTok facing a potential ban and Instagram ruining
+    profile grids, many creators are questioning if building a presence on social
+    media is worth the effort, given the uncertainty of the medium
+  last_post_date: "2025-01-19T20:08:55Z"
+  last_post_link: https://aows.co/blog/2025/1/19/websites-vs-social-media-for-photographers
   last_post_categories:
-  - photographs
+  - journal
   last_post_language: ""
-  last_post_guid: 48a7e4d5e8ca8a07e16719adc0508c07
+  last_post_guid: ead8461d8e556fd54d0284be4f63dbee
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 20
+  avgpostlen: 0
 ---

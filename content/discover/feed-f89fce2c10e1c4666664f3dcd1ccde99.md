@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2024-11-21T04:47:59Z"
+date: "2025-02-18T04:40:24Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,26 +17,31 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Python is the new BASIC
-  last_post_description: What makes Python the BASIC of today?
-  last_post_date: "2024-11-20T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/programming-languages/python-as-a-modern-basic.html
+  last_post_title: Minimal IRC server from scratch in Python
+  last_post_description: The obvious alternative to using Discord is to write and
+    host my own IRC server!
+  last_post_date: "2025-02-17T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/diy/irc-server-in-python.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2746ffadb6a0cd63dab7d5f8b7831fec
+  last_post_guid: 59132449f91500730e512aa27c804ac3
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 5
+  avgpostlen: 296
 ---

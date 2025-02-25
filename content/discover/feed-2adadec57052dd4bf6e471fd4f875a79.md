@@ -1,6 +1,6 @@
 ---
 title: RichieSam's Adventures in Code-ville
-date: "2024-08-28T15:00:52-05:00"
+date: "2025-02-15T05:52:26-06:00"
 description: ""
 params:
   feedlink: https://richiesams.blogspot.com/feeds/posts/default
@@ -38,15 +38,19 @@ params:
     cats: 5
     description: 0
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 295
 ---

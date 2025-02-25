@@ -15,37 +15,43 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Blog
   - Firefox
-  - fluent
+  - Mozilla
   - l10n
   - planet
   relme: {}
-  last_post_title: Why Fluent Matters for Localization
-  last_post_description: In case you don’t know what Fluent is, it’s a localization
-    system designed and developed by Mozilla to overcome the limitations of the existing
-    localization technologies. If you have been around
-  last_post_date: "2018-04-05T08:29:06Z"
-  last_post_link: https://www.yetanothertechblog.com/2018/04/05/why-fluent-matters-for-localization/
+  last_post_title: The (pre)history of Mozilla’s localization repository infrastructure
+  last_post_description: With many new faces joining Mozilla, as either staff or volunteer
+    localizers, most are only familiar with the current, more streamlined localization
+    infrastructure. I thought it might be interesting
+  last_post_date: "2024-10-20T13:28:01Z"
+  last_post_link: https://www.yetanothertechblog.com/2024/10/20/the-prehistory-of-mozillas-localization-repository-infrastructure/
   last_post_categories:
+  - Blog
   - Firefox
-  - fluent
+  - Mozilla
   - l10n
   - planet
   last_post_language: ""
-  last_post_guid: 154e505b736cf9c962dbdd494603f72d
+  last_post_guid: 46e1c942edd457aa43447b995eee3d92
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

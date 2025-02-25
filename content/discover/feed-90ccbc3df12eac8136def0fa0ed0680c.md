@@ -8,6 +8,7 @@ params:
   feedid: 90ccbc3df12eac8136def0fa0ed0680c
   websites:
     https://miketaylr.com/posts: true
+    https://miketaylr.com/posts/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -32,15 +33,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

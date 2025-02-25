@@ -8,6 +8,7 @@ params:
   feedid: a85beed7b83cbb90e25b6f5b9073fd58
   websites:
     https://blogs.gnome.org/jjardon: true
+    https://blogs.gnome.org/jjardon/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -38,15 +39,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 10
+  avgpostlen: 0
 ---

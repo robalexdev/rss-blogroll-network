@@ -8,6 +8,7 @@ params:
   feedid: d4713da37a76bf77c557fbc4d5f6cb6a
   websites:
     https://blogs.igalia.com/tonikitoo: true
+    https://blogs.igalia.com/tonikitoo/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia
@@ -29,7 +30,7 @@ params:
   last_post_description: Since January, Igalia has been working on a project whose
     goal is to make the latest Chromium Browser able to run natively on Wayland-based
     environments. The project has various phases, requires us
-  last_post_date: "2017-05-17T09:26:45Z"
+  last_post_date: "2017-05-17T13:26:45Z"
   last_post_link: https://blogs.igalia.com/tonikitoo/2017/05/17/chromium-musozone-update-h12017-wayland-x11/
   last_post_categories:
   - browsers
@@ -46,15 +47,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sev's ScummVM notes
-date: "2024-03-14T06:19:26+02:00"
+date: "2024-09-07T01:45:09+03:00"
 description: ScummVM development and whatnot from ScummVM team leader
 params:
   feedlink: https://sev-notes.blogspot.com/feeds/posts/default
@@ -87,15 +87,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

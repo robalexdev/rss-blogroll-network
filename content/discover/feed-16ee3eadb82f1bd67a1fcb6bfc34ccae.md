@@ -21,32 +21,36 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 243: Tuesday 20 – Monday 26 August 2024'
-  last_post_description: Reading, gardening, walking. Another down day on Tuesday
-    – didn’t have a good night’s sleep. Into Hereford (as far as Belmont) in the morning
-    to visit the library and Tescos. Back home for
-  last_post_date: "2024-08-23T14:40:03Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2024/08/23/herefordshire-week-243-tuesday-20-monday-26-august-2024/
+  last_post_title: 'Herefordshire Week 268: Tuesday 11 – Monday 17 February 2025'
+  last_post_description: Pancakes and a Sunday Roast. Last of the current set of changes
+    to Forty Acres. A Haircut! More reading. Sugar Loaf from Fro / Bettws. Skies have
+    stayed cold and grey all week. Relentless. Gym for
+  last_post_date: "2025-02-18T13:10:09Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2025/02/18/herefordshire-week-268-tuesday-11-monday-17-february-2025/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 993805dbfb487c22dc039356cb2b2fdd
+  last_post_guid: 4e2f97bf161cdf25005ffe7316e2019c
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 5
+  avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sandro Tosi
-date: "2024-05-20T01:18:20-04:00"
+date: "2025-01-12T13:11:44-05:00"
 description: 'A blog about things I do: Debian, Linux, Python, whatever'
 params:
   feedlink: https://feeds.feedburner.com/SandroTosi
@@ -24,6 +24,7 @@ params:
   - Debian
   - ESB
   - EuroPython
+  - HOWTO
   - Immigration
   - LPI
   - MIA
@@ -88,28 +89,33 @@ params:
   - tvseries
   - webscraping
   - wiki
+  - writing
   relme: {}
-  last_post_title: Mastodon hook for dput-ng
+  last_post_title: HOWTO remove Reddit (web) "Recent" list of communities
   last_post_description: ""
-  last_post_date: "2023-08-10T14:50:17-04:00"
-  last_post_link: http://sandrotosi.blogspot.com/2023/08/mastodon-hook-for-dput-ng.html
+  last_post_date: "2025-01-07T22:25:42-05:00"
+  last_post_link: http://sandrotosi.blogspot.com/2025/01/howto-remove-reddit-web-recent-list-of.html
   last_post_categories:
-  - Debian
+  - HOWTO
   last_post_language: ""
-  last_post_guid: 90d34f7efb8d26af1a967396e1ebbd16
+  last_post_guid: 21db873ea960e73d0dc1128fe8b00cf7
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 292
 ---

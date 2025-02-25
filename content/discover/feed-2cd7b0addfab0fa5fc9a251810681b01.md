@@ -1,6 +1,6 @@
 ---
 title: Coder's Log
-date: "2024-08-29T01:32:16-07:00"
+date: "2025-01-04T02:22:17-08:00"
 description: Views and journeys of a hopeless programmer, named Zeeshan Ali Khan.
 params:
   feedlink: https://www.blogger.com/feeds/3575421168816814786/posts/default
@@ -340,15 +340,19 @@ params:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 296
 ---

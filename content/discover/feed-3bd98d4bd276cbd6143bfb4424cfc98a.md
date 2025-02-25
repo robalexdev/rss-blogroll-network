@@ -27,31 +27,35 @@ params:
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories:
-  - journaling
+  - mn&n
   relme: {}
-  last_post_title: It's okay to lower the bar
+  last_post_title: Month notes & numbers №11
   last_post_description: |-
-    I had a journal entry in my Hobonichi Techo Cousin for every day this year until July, where I have a string of blank pages.
-    I was doing so well, and I was really in to the swing of journaling every
-  last_post_date: "2024-08-13T20:08:00Z"
-  last_post_link: https://rachsmith.com/lower-the-bar/
+    Notable
+    Extremely offline could be the theme for this month. While some Australians like to follow find the news coming out of the USA for entertainment or even to satisfy some kind of morbid
+  last_post_date: "2025-02-01T20:30:00Z"
+  last_post_link: https://rachsmith.com/mnnm-11/
   last_post_categories:
-  - journaling
+  - mn&n
   last_post_language: ""
-  last_post_guid: 25fb976ee2068d886597c43efcd5f08e
+  last_post_guid: 11b3a56abf1bb9ae52072c8fb30cb765
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 20
+  avgpostlen: 0
 ---

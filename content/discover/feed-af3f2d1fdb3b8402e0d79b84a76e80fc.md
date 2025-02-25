@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2024-11-25T07:09:53Z"
+date: "2025-02-24T15:37:06Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -16,26 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Node.js 程序以 Keyless 模式从  1Password 读取密钥
-  last_post_description: Node.js 程序以 Keyless 模式从  1Password 读取密钥
-  last_post_date: "2024-10-29T05:21:47Z"
-  last_post_link: https://baiyun.me/nodejs-keyless-read-1password-secrets
+  last_post_title: 高效优雅的观影指南
+  last_post_description: 高效优雅的观影指南
+  last_post_date: "2025-01-14T15:44:26Z"
+  last_post_link: https://baiyun.me/efficient-elegant-movie-watching-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c2437dd1026a21719774305a07d294d9
+  last_post_guid: 26f7c04ba84bc5e1e93a17ca8a0b43aa
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 55
+  avgpostlen: 244
 ---
