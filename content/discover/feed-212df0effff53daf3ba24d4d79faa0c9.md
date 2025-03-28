@@ -16,22 +16,33 @@ params:
   recommender: []
   categories:
   - Company News
-  - Compliance
-  - crypto compliance
+  - DeFi
+  - ERC-20
+  - EVM
+  - Ethereum
+  - Integration
+  - Layer 2
+  - Unichain
+  - Uniswap
   relme: {}
-  last_post_title: Sui Foundation and Chainalysis Collaborate to Enhance On-Chain
-    Compliance
+  last_post_title: Chainalysis Integrates with Unichain
   last_post_description: |-
-    We are excited to announce that Chainalysis is collaborating with the Sui Foundation to enhance on-chain compliance and security. In…
-    The post Sui Foundation and Chainalysis Collaborate to Enhance
-  last_post_date: "2025-01-16T12:59:54Z"
-  last_post_link: https://www.chainalysis.com/blog/sui-foundation-and-chainalysis-collaborate-to-enhance-on-chain-compliance/
+    Chainalysis is excited to announce support for Unichain, a DeFi-focused Ethereum layer 2 built on the Superchain, powered by Uniswap…
+    The post Chainalysis Integrates with Unichain appeared first on
+  last_post_date: "2025-02-20T18:55:02Z"
+  last_post_link: https://www.chainalysis.com/blog/chainalysis-integrates-with-unichain-february-2025/
   last_post_categories:
   - Company News
-  - Compliance
-  - crypto compliance
+  - DeFi
+  - ERC-20
+  - EVM
+  - Ethereum
+  - Integration
+  - Layer 2
+  - Unichain
+  - Uniswap
   last_post_language: ""
-  last_post_guid: eb3afbd14be5a57689a8a189fdfa2583
+  last_post_guid: 5d7fb2b3163af5f50eaca16b6eda7002
   score_criteria:
     cats: 0
     description: 0

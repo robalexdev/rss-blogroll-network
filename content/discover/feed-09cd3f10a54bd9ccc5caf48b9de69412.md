@@ -67,6 +67,7 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/index.xml
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
@@ -84,36 +85,34 @@ params:
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
-  categories:
-  - '#fishkeeping'
+  categories: []
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 24 February 2025 at 09:07 - Having to put another fish
-    to sleep is a really..."
-  last_post_description: |-
-    Having to put another fish to sleep is a really shitty way to start a Monday.
-    This is the problem with the #fishkeeping hobby - when you setup a tank and stock it with a load of babies, they all grow
-  last_post_date: "2025-02-24T09:10:00Z"
-  last_post_link: https://kevquirk.com/notes/20250224-0907
-  last_post_categories:
-  - '#fishkeeping'
+  last_post_title: "\U0001F4DD 23 March 2025 at 12:12 - Walked up to my youngest put
+    my wrist on his..."
+  last_post_description: "Walked up to my youngest, put my wrist on his head and said.\n\"Don't
+    move, you're under a wrist.\"\nI am fucking hilarious. \U0001F602\U0001F602\n
+    \                                 \n        \n\n        \n          \n    "
+  last_post_date: "2025-03-23T12:15:00Z"
+  last_post_link: https://kevquirk.com/notes/20250323-1212
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: c1ea26338d24a16e13719c616bc76790
+  last_post_guid: 8a2e48fb156dff75a708d7d3a1dbf74d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 30
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 又买了一把leobog hi75
+  last_post_title: 该让机器人交社保吗？
   last_post_description: !!binary |
-    5LuK5aSp5piv5bCP5a+S6IqC5rCU77yM5rCU5rip5Y205p2l5LqG5Liq5Y6G5Y+y5ZCM5p
-    yf5pyA6auY77yM55u05o6l5Yay5LiK5LqG5Y2B5LqU5bqm44CC5pys5p2l5Lit5Y2I5rKh
-    5omT566X5Ye66Zeo77yM5oOz6LaB552A5ZGo5pyr5riF6Z2Z77yM5Zyo5a626Z2Z5YW75L
-    yR5oGv44CC5pyA5aSa5Y675Liq5aSq5qC86IyC77yM5ZCD5Liq54Gr6ZQ=
-  last_post_date: "2025-01-18T15:24:53+08:00"
-  last_post_link: https://xingbianren.cn/post/290.html
+    5Lik5Lya5pyf6Ze077yM5b+Y5LqG5Zyo5ZOq55yL5Yiw5LiA5YiZ5paw6Ze777yM6K+05p
+    yJ5Lq65aSn5Luj6KGo5o+Q6K6u77yM6KaB5bel5Y6C6YeM55qE4oCc5py65Zmo5Lq64oCd
+    5Lmf5Lqk56S+5L+d44CC5paw6Ze75LiA5Ye677yM572R57uc56uL5Y2z5LiA54mH5ZOX54
+    S244CC5rCR6Ze05LiA55u05Lul5p2l6YO95pyJ6L+Z5qC35LiA56eN5aM=
+  last_post_date: "2025-03-24T20:43:52+08:00"
+  last_post_link: https://xingbianren.cn/post/301.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2

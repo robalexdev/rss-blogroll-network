@@ -45,6 +45,7 @@ params:
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
   - https://baty.net/feed
+  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
@@ -80,6 +81,8 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
+  - https://blog.citp.princeton.edu/comments/feed/
+  - https://blog.citp.princeton.edu/feed/
   - https://freedom-to-tinker.com/comments/feed/
   - https://intellectualoid.com/comments/feed/
   - https://jabberwocking.com/comments/feed/

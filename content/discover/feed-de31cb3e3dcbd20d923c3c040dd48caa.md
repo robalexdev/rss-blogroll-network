@@ -8,6 +8,7 @@ params:
   feedid: de31cb3e3dcbd20d923c3c040dd48caa
   websites:
     https://blogs.fsfe.org/tobias_platen: true
+    https://blogs.fsfe.org/tobias_platen/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
@@ -18,16 +19,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Meta Horizon OS, Replicant and the GPL
-  last_post_description: Meta Horizon OS is a variant of Android, which includes GPLed
-    parts, including the kernel Linux. Replicant is a fully free variant of Android
-    that can run on smartphones and other kinds of devices.
-  last_post_date: "2024-04-23T15:46:47Z"
-  last_post_link: https://blogs.fsfe.org/tobias_platen/2024/04/23/meta-horizon-os-replicant-and-the-gpl/
+  last_post_title: The weekend after I ♥ Free Software Day 2025 – Sunday
+  last_post_description: This is part II of the I Love Free Software Day blogpost.
+    More specifially it is about the game Veloren which I played once three years
+    ago, when the pandemic was still ongoing. My computer that I
+  last_post_date: "2025-02-16T16:18:44Z"
+  last_post_link: https://blogs.fsfe.org/tobias_platen/2025/02/16/the-weekend-after-i-%e2%99%a5-free-software-day-2025-sunday/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: e35a940c6eb790b7eb2ef96748ea0d81
+  last_post_guid: 775f647590ee9ea78c333746c4cefcfb
   score_criteria:
     cats: 0
     description: 3

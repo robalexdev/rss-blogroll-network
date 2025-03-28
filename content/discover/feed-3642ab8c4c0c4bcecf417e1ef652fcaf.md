@@ -1,7 +1,9 @@
 ---
-title: KDAB on Qt Archives - KDAB
+title: KDAB
 date: "1970-01-01T00:00:00Z"
-description: The Qt Experts
+description: Discover the depth of KDAB expertise in software. From Qt framework to
+  C++ and Rust, from Operating Systems to GUI frameworks. From troubleshooting to
+  complete project development. Get the software
 params:
   feedlink: https://www.kdab.com/category/kdab-on-qt/feed/
   feedtype: rss
@@ -16,28 +18,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - C++
-  - Java
-  - KDAB Blogs
-  - KDAB on Qt
-  - Technical
-  - Tooling
+  - blog
+  - c++
+  - kdab on qt
+  - qt
+  - technical
   relme: {}
-  last_post_title: Improvements to Mozilla’s Searchfox Code Browser
-  last_post_description: Mozilla is the maker of the famous Firefox web browser and
-    the birthplace of the likes of Rust and Servo (read more about Embedding the Servo
-    Web Engine in Qt). Firefox is a huge, multi-platform,
-  last_post_date: "2024-12-17T08:00:53Z"
-  last_post_link: https://www.kdab.com/searchfox-improvements/
+  last_post_title: Model/View Drag and Drop in Qt - Part 1
+  last_post_description: This blog post is the first in a series on implementing drag-and-drop
+    in the Qt model/view framework. It covers how to reorder items within a single
+    view, whether you're using QListView, QTableView,
+  last_post_date: "2025-02-06T08:07:00Z"
+  last_post_link: https://www.kdab.com/modelview-drag-and-drop-part-1/
   last_post_categories:
-  - C++
-  - Java
-  - KDAB Blogs
-  - KDAB on Qt
-  - Technical
-  - Tooling
+  - blog
+  - c++
+  - kdab on qt
+  - qt
+  - technical
   last_post_language: ""
-  last_post_guid: 0e2fe07f1511fcd95903c8850ba67d24
+  last_post_guid: e9b568702fd612670c1b55a3dfa9ae6f
   score_criteria:
     cats: 0
     description: 3

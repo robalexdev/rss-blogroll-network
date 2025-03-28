@@ -1,6 +1,6 @@
 ---
 title: Gitea Blog Blog
-date: "2025-02-19T18:06:00Z"
+date: "2025-03-24T23:35:00Z"
 description: Gitea Blog Blog
 params:
   feedlink: https://blog.gitea.com/atom.xml
@@ -21,14 +21,14 @@ params:
   categories:
   - release
   relme: {}
-  last_post_title: Gitea 1.23.4 is released
-  last_post_description: We are proud to present the release of Gitea version 1.23.4.
-  last_post_date: "2025-02-19T18:06:00Z"
-  last_post_link: https://blog.gitea.com/release-of-1.23.4
+  last_post_title: Gitea 1.23.6 is released
+  last_post_description: We are proud to present the release of Gitea version 1.23.6.
+  last_post_date: "2025-03-24T23:35:00Z"
+  last_post_link: https://blog.gitea.com/release-of-1.23.6
   last_post_categories:
   - release
   last_post_language: ""
-  last_post_guid: b37ab673b96b87e2b4e93061addb9275
+  last_post_guid: d9f06c2adea5688e4af6ebabe62164b5
   score_criteria:
     cats: 0
     description: 3

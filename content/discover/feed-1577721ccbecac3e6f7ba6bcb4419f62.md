@@ -19,32 +19,37 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Inside Nelio
-  - Opinion
+  - Nelio A/B Testing
+  - Plugin Releases & Updates
+  - Plugins
   relme: {}
-  last_post_title: Our Goals for 2025
-  last_post_description: As we wrap up 2024, we’re taking a moment to reflect on the
-    goals we set at the beginning of the year. Some were a huge success, while others
-    didn’t quite go as planned. Plus, we’re giving you
-  last_post_date: "2025-01-02T16:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/our-goals-for-2025/
+  last_post_title: Nelio A/B Testing 7.4 – PHP Tests, Popup Tests, Better WC Tracking,
+    and more
+  last_post_description: Discover Nelio A/B Testing 7.4—featuring PHP tests for developers,
+    Popup Tests for optimizing conversions, and advanced WooCommerce order tracking
+    for precise results. Ready to take your testing to
+  last_post_date: "2025-02-13T16:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/nelio-ab-testing-7-4-php-tests-and-better-integrations/
   last_post_categories:
   - Inside Nelio
-  - Opinion
+  - Nelio A/B Testing
+  - Plugin Releases & Updates
+  - Plugins
   last_post_language: ""
-  last_post_guid: 192a02d0a0b2a764dde73a24f6925072
+  last_post_guid: 2ba7c617934144fb0262d4fd578a413d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,20 +17,21 @@ params:
   recommender: []
   categories: []
   relme:
+    https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
-  last_post_title: Has the CSTA jumped the shark?
+    https://github.com/zamansky: true
+  last_post_title: CS For All or All for CS?
   last_post_description: |-
-    That's the Computer Science Teacher's Association to you.
+    Is it CS for All or is it All for CS?
 
-    Has it?
-
-    Well, that's a personal question. I think it has for me but I'm sure
-    for other people, that jump the shark moment will be far off
-  last_post_date: "2025-02-21T11:50:55-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/csta-jumped-shark/
+    CS for All, to me has always meant exposing all students to CS for two
+    reasons. First, so that every student gains some understanding of CS
+    and also so that
+  last_post_date: "2025-03-24T07:34:31-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/cs-for-all-or-all-for-cs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a76ac0dd3b34a8601beff5a95ea4c855
+  last_post_guid: cf1d8c47e6b0c92bd0c9fb93d2c3c488
   score_criteria:
     cats: 0
     description: 3

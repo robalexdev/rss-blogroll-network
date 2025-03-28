@@ -18,18 +18,18 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - journal
+  - photographs
   relme: {}
-  last_post_title: Websites vs Social Media for photographers
-  last_post_description: With TikTok facing a potential ban and Instagram ruining
-    profile grids, many creators are questioning if building a presence on social
-    media is worth the effort, given the uncertainty of the medium
-  last_post_date: "2025-01-19T20:08:55Z"
-  last_post_link: https://aows.co/blog/2025/1/19/websites-vs-social-media-for-photographers
+  last_post_title: Yosemite's Awe, II
+  last_post_description: |-
+    California, February 2025.
+    From the video The power of awe inspiring landscapes: Yosemite.
+  last_post_date: "2025-02-21T17:23:43Z"
+  last_post_link: https://aows.co/blog/2025/2/21/yosemites-awe-ii
   last_post_categories:
-  - journal
+  - photographs
   last_post_language: ""
-  last_post_guid: ead8461d8e556fd54d0284be4f63dbee
+  last_post_guid: ba244e271688b0a5a68c21131e8eeea9
   score_criteria:
     cats: 0
     description: 3

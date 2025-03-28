@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2025-01-19T18:06:28+01:00"
+date: "2025-02-23T16:06:29+01:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818

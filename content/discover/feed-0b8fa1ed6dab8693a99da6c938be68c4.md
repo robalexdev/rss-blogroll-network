@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-02-24T19:50:01Z"
+date: "2025-02-24T19:33:03Z"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss

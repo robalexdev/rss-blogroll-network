@@ -1,6 +1,6 @@
 ---
 title: Robb Knight • Posts • Atom Feed
-date: "2025-01-15T14:18:04Z"
+date: "2025-02-16T22:21:31Z"
 description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and human
   dad.
 params:
@@ -21,13 +21,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Blog Question Challenge
-  last_post_description: Nine questions about blogging
-  last_post_date: "2025-01-15T14:18:04Z"
-  last_post_link: https://rknight.me/blog/blog-question-challenge/
+  last_post_title: Quiet
+  last_post_description: A short observation about social media
+  last_post_date: "2025-02-16T22:21:31Z"
+  last_post_link: https://rknight.me/blog/quiet/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ffb19fd49ff2a15fac3990f3078b3dd
+  last_post_guid: c5b4c499bccf8ad133c9bfed3f58339c
   score_criteria:
     cats: 0
     description: 3

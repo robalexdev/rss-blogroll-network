@@ -1,7 +1,7 @@
 ---
-title: 蒙奇日记
+title: 蒙奇在路上
 date: "1970-01-01T00:00:00Z"
-description: luffy.cc & 蒙奇日记，用文字记录生活，寻找属于自己的ONE PIECE！
+description: monkiex.com & 蒙奇在路上，用文字记录生活，寻找属于自己的ONE PIECE！
 params:
   feedlink: https://luffy.cc/feed
   feedtype: rss

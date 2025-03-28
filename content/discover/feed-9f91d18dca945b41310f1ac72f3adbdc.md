@@ -23,15 +23,16 @@ params:
   - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: Sustainability versus scalability
-  last_post_description: Yesterday we saw announcements from the Mastodon team announcing
-    its intent to transfer the platform assets to a new non-profit organization and
-    another from Free Our Feeds looking to "Save Social
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://coryd.dev/posts/2025/sustainability-versus-scalability
+  last_post_title: Are we self-segregating on social media?
+  last_post_description: |-
+    Are we? Yes and that's ok. If everything is political, then it follows that everything is as toxic as our politics. It's perfectly ok to avoid toxicity.
+
+    If you went to a local restaurant expecting
+  last_post_date: "2025-02-24T00:27:21Z"
+  last_post_link: https://www.coryd.dev/posts/2025/are-we-self-segregating-on-social-media
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 12d928b9e19bf37a50004202096f918c
+  last_post_guid: e9f623208d41f997fff38528e17a6890
   score_criteria:
     cats: 0
     description: 3

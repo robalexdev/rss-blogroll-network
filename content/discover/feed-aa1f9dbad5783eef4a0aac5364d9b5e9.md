@@ -193,6 +193,7 @@ params:
   - https://jerz.us/rss/
   - https://kevquirk.com/feed
   - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/posts-feed
   - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
@@ -260,14 +261,16 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] WordPress to ClassicPress by Joseph Dickson
-  last_post_description: ClassicPress also has media categories and tags, I’ve yet
-    to set them up but it might serve me as an Instagram alternative.
-  last_post_date: "2025-02-22T08:41:43Z"
-  last_post_link: https://danq.me/2025/02/18/wordpress-to-classicpress/#comment-266289
+  last_post_title: Comment on [Note] Istanbul by Dan Q
+  last_post_description: |-
+    In reply to <a href="https://danq.me/2025/03/24/istanbul/#comment-270124">TabTwo</a>.
+
+    Can't complain about the temperature: it's mostly been at least as warm here as it would've been back in
+  last_post_date: "2025-03-27T04:59:04Z"
+  last_post_link: https://danq.me/2025/03/24/istanbul/#comment-270168
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39e128a8a6d285b643e1537e20e14958
+  last_post_guid: 18e40afede6090b123bca11e7230297c
   score_criteria:
     cats: 0
     description: 3

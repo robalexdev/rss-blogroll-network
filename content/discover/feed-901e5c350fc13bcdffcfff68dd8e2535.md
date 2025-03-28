@@ -16,35 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - best of
-  - juxt
   - me
+  - meta
   relme: {}
-  last_post_title: The best things and stuff of 2024
-  last_post_description: 'Great things and people that I discovered, learned, read,
-    met, etc. in 2024. No particular ordering is implied. Not everything is new. also:
-    see the lists from 2023, 2022, 2021, 2020, 2019, 2018,'
-  last_post_date: "2024-12-23T14:00:58Z"
-  last_post_link: https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/
+  last_post_title: I Blog in Text, You Read in Text || HTML
+  last_post_description: The blog you're reading was rendered at some point in the
+    past as HTML (maybe) but it was written in text with a dash of Markdown flavor
+    (maybe).
+  last_post_date: "2025-02-14T08:25:09Z"
+  last_post_link: https://blog.fogus.me/meta/i-blog-in-text-and-html/
   last_post_categories:
-  - best of
-  - juxt
   - me
+  - meta
   last_post_language: ""
-  last_post_guid: 1061714edfcd6a26056aeff7a19e9591
+  last_post_guid: adf7bd15645f6c015d4ea7559d7f4382
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

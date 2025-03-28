@@ -8,6 +8,7 @@ params:
   feedid: db44aacd9c8d5e5e6530cde5f010e7c2
   websites:
     https://blogs.fsfe.org/agger: true
+    https://blogs.fsfe.org/agger/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
@@ -16,18 +17,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - politics
+  - advocacy
   relme: {}
-  last_post_title: Digitaliseringsproblemer kan løses med fri software
-  last_post_description: Digitaliseringsproblemer kan løses med fri/Open Source software
-    – åbent brev til partiernes IT-ordførere FSFE Danmark v/Allan Dukat, Øjvind Fritjof
-    Arnfred og Carsten Agger –   Om os i FSFE
-  last_post_date: "2024-04-30T12:58:09Z"
-  last_post_link: https://blogs.fsfe.org/agger/2024/04/30/digitaliseringsproblemer-kan-loses-med-fri-software/
+  last_post_title: Serializing a book on Free Software
+  last_post_description: This is just a heads up that I’m editing a manuscript for
+    an upcoming book about free software – in Danish – which can be read piece by
+    piece at my WriteFreely blog. I hope to see it published
+  last_post_date: "2025-03-07T11:13:56Z"
+  last_post_link: https://blogs.fsfe.org/agger/2025/03/07/serializing-a-book-on-free-software/
   last_post_categories:
-  - politics
+  - advocacy
   last_post_language: ""
-  last_post_guid: 63ed75cff038fd89c22450859a817ad3
+  last_post_guid: 79fec12ce413f0f35bd1c887c672c999
   score_criteria:
     cats: 0
     description: 3

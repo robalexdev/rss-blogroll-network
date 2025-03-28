@@ -16,16 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2023->2024
-  last_post_description: |-
-    2023->2024 [TOC]
-    这篇年度总结, 因为计划的工作上的一些变动, 所以 delay 到现在才发(其实是现在才写:)).
-    师傅 , 追逐的幻影 , 与 妄想
-  last_post_date: "2024-03-29T00:00:00Z"
-  last_post_link: https://kuricat.com/article/life/2023-2024/
+  last_post_title: 我流, means my way, before 25, before MY Golden Age
+  last_post_description: passage 1 我觉得可能需要先再为我自己明确一下写这些文章的目的. 这些文章的意义是 首先梳理自己成长到现在阶段,
+    一些符合逻辑的想法和观念,
+  last_post_date: "2025-02-11T00:00:00Z"
+  last_post_link: https://kuricat.com/article/life/before25/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 007ab16f1292349827188ed9106c14a0
+  last_post_guid: 9515107bd8878fa2b6a68092093e3c3a
   score_criteria:
     cats: 0
     description: 3

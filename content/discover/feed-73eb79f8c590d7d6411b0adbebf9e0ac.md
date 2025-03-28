@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'The USA''s loudest endorsement ever: CISA urges everyone to use
-    encryption!'
-  last_post_description: The recent Salt Typhoon cyberattack, orchestrated by Chinese
-    attackers, finally gave US officials the much needed nudge to start endorsing
-    strong end-to-end encryption, instead of wanting to
-  last_post_date: "2025-01-16T00:00:00Z"
-  last_post_link: https://tuta.com/blog/us-cisa-endorses-encryption
+  last_post_title: Apple complies with UK backdoor request and removes cloud encryption
+  last_post_description: It's been only ten days since we warned that the UK government
+    could force Apple to undermine encryption. Now the Silicon Valley Big Tech complied,
+    partially. Apple removed the end-to-end encryption
+  last_post_date: "2025-02-21T00:00:00Z"
+  last_post_link: https://tuta.com/blog/uk-demands-apple-backdoor-encryption
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2da79ce5b10a4e529cab0ada7f1c21d5
+  last_post_guid: 240e68a5e1cf9b726f202daf7aecd0a5
   score_criteria:
     cats: 0
     description: 3

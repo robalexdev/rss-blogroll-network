@@ -1,6 +1,6 @@
 ---
 title: '{maique}'
-date: "1970-01-01T00:00:00Z"
+date: "2025-02-24T08:25:44Z"
 description: ""
 params:
   feedlink: https://maique.eu/feed.xml
@@ -58,13 +58,16 @@ params:
   relme:
     https://maique.eu/: true
     https://proven.lol/de2be6: true
-  last_post_title: Back in Action, 2025 - ★★★
-  last_post_description: Watched on Saturday January 18, 2025.
-  last_post_date: "2025-01-18T13:38:58Z"
-  last_post_link: https://maique.eu/2025/01/18/back-in-action.html
+  last_post_title: "\U0001F311 Downloaded an app I saw mentioned earlier, just to
+    see what..."
+  last_post_description: "\U0001F311 Downloaded an app I saw mentioned earlier, just
+    to see what it was all about. Dark mode is available only as part of the subscription.\n\nDeleted.\n\nI
+    get the..."
+  last_post_date: "2025-02-24T08:25:44Z"
+  last_post_link: https://maique.eu/posts/2025-02-24-downloaded-an-app
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a276611bbee5cdf1df0c692d6e470819
+  last_post_guid: 6aecbeb3bc9a934cf1d7510ee8bf0268
   score_criteria:
     cats: 0
     description: 0

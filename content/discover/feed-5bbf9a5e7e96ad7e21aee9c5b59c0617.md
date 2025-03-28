@@ -16,25 +16,23 @@ params:
   recommender: []
   categories:
   - Sem categoria
-  - madb
+  - hardware
   - mageia
   - servidores
-  - wiki
   relme: {}
-  last_post_title: E aqui está o novo MADb!
-  last_post_description: 'Escrito pela Equipe Atelier Isso foi rápido: acabamos de
-    explicar por que nosso Banco de Dados de Aplicativos Mageia estava offline e agora
-    papoteur nos informa que o novo MADb está pronto para ser'
-  last_post_date: "2024-11-04T12:11:22Z"
-  last_post_link: https://blog.mageia.org/pt/2024/11/04/e-aqui-esta-o-novo-madb/
+  last_post_title: Nosso equipamento está passando por uma renovação!
+  last_post_description: Para fazer um bom trabalho, precisamos de boas ferramentas.
+    Alguns de nossos servidores são antigos, não são mais poderosos o suficiente e
+    possuem recursos de disco limitados para atender às
+  last_post_date: "2025-02-08T18:31:35Z"
+  last_post_link: https://blog.mageia.org/pt/2025/02/08/nosso-equipamento-esta-passando-por-uma-renovacao/
   last_post_categories:
   - Sem categoria
-  - madb
+  - hardware
   - mageia
   - servidores
-  - wiki
   last_post_language: ""
-  last_post_guid: b6ccad3ab9c9a701eb5a0ba294d381e7
+  last_post_guid: b1219e471d0867c95e89dab4b5afaf08
   score_criteria:
     cats: 0
     description: 3

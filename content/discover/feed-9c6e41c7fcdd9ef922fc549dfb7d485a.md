@@ -503,6 +503,7 @@ params:
   - 253 E7
   - 255 E. Houston St.
   - 255 E. Second St.
+  - 256 E. 4th St.
   - 26 Avenue B
   - 260 Bowery
   - 262 E. Seventh St.
@@ -877,6 +878,7 @@ params:
   - 644 E. 14th St.
   - 645 E. 9th St.
   - 646 E. 14th Street
+  - 65 2nd Ave.
   - 65 E. Second St.
   - 65 St. Mark's Place
   - 650 E. Sixth St.
@@ -945,6 +947,7 @@ params:
   - 8 Stuyvesant St.
   - 8 tracks
   - 8-14 Stuyvesant St.
+  - 8-Ball Community
   - 8-Bit Bites
   - 80 E. 10th St.
   - 80 E. Second St.
@@ -999,6 +1002,7 @@ params:
   - 95 E. Seventh St.
   - 95 First Avenue
   - 95 Wall Street
+  - 96 3rd Ave.
   - 96 Avenue B
   - 96 Tears
   - 96 Third Ave.
@@ -1236,6 +1240,7 @@ params:
   - Anna
   - Anna Colombia
   - Anna Wintour
+  - Anne DeVita
   - Anne Frank
   - Anne Hathaway
   - Anne Shirley
@@ -2149,6 +2154,7 @@ params:
   - Cho-Ko
   - Chobani House
   - Chocolate Bar
+  - Chocolate Dip
   - Chocolate by the Bald Man
   - Choice Cleaners
   - Cholo Noir
@@ -2395,6 +2401,7 @@ params:
   - Crazy Burger
   - Crazy Landlord
   - Crazy Legs Conti
+  - Creative Community Collective
   - Creative Little Garden
   - Crepe City
   - Crepe Master
@@ -2436,6 +2443,7 @@ params:
   - Curtis Blow
   - Cutlets
   - Cuts & Slices
+  - Cybertrucks
   - CycleBar
   - Cáit O’Riordan
   - Côte
@@ -2531,6 +2539,7 @@ params:
   - David Godlis
   - David Harbour
   - David Johanse
+  - David Johansen
   - David Lee Roth
   - David Lynch
   - David McWater
@@ -2696,6 +2705,7 @@ params:
   - Downtown Bakery
   - Downtown Beirut
   - Downtown Burritos Cocina Mexicana
+  - Downtown Funk and Junk
   - Downtown Girls
   - Downtown Music Gallery
   - Downtown Threads
@@ -2736,6 +2746,7 @@ params:
   - Dumpling Lab
   - Dumpling Man
   - Dumpling N' Dips
+  - Dumpling Xi
   - DumplingGo
   - DumplingGuo
   - Dun-Well Doughnuts
@@ -3704,6 +3715,7 @@ params:
   - Harvey Milk High School
   - Harvey Weinstein
   - Hash Halper
+  - Hatsu Omakase
   - Hattie Hathaway
   - HaveAHeart Studio
   - Haveli
@@ -3777,6 +3789,7 @@ params:
   - Hidden Grounds Chai & Coffee House
   - High Teen Boogie
   - High Vibe
+  - HighLife
   - Higher Empire
   - Hilary Duff
   - Hilary Swank
@@ -3794,6 +3807,7 @@ params:
   - Holland Bar
   - Holland Tunnel
   - Hollywood Hair
+  - Hollywood Nail & Spa
   - Hollywood in the East Village
   - Holy Basil
   - Holy Reedemer
@@ -4053,6 +4067,7 @@ params:
   - January 2022
   - January 2023
   - January 2024
+  - January 2025
   - Janus
   - Japadog
   - Japapdog
@@ -4391,6 +4406,7 @@ params:
   - Knitting Factory at Baker Falls
   - Knock Out Café
   - Ko
+  - Kobano
   - Kobe Bryant
   - Koffeecake Corner
   - Koi
@@ -4964,6 +4980,7 @@ params:
   - McSorley's
   - Me Cue
   - Mealz
+  - Meama
   - Meat + Bread
   - Meatball
   - Meatball Factory
@@ -5143,6 +5160,7 @@ params:
   - Mondo Kim's
   - Monk
   - Mono + Mono
+  - Monsieur
   - Monsieur Vo
   - Montauk Salt Cave
   - Montessori school
@@ -5185,6 +5203,7 @@ params:
   - Mozzarella Pizza
   - Mr. Bing
   - Mr. C's
+  - Mr. Fish
   - Mr. KEKE Ramen
   - Mr. Kim
   - Mr. Lower East Side
@@ -5479,6 +5498,7 @@ params:
   - November 2024
   - Novum EV
   - Now I'm just being stupid
+  - Now Now NoHo
   - Now Yoga
   - Now You're Clean
   - Nowon
@@ -5549,6 +5569,7 @@ params:
   - Olivia
   - Olivier Sarkozy
   - Olivo's
+  - Ollie's Place
   - Olsen Twins
   - Olympic Restaurant
   - Omakase Sushi
@@ -5703,6 +5724,7 @@ params:
   - Paul Dougherty
   - Paul Giamatti
   - Paul Kostabi
+  - Paul McCartney
   - Paul Newman
   - Paul Richard
   - Paul Rudd
@@ -5756,6 +5778,7 @@ params:
   - Peter Cooper
   - Peter Corbin
   - Peter Hujar
+  - Peter Hujar's Day
   - Peter Jarema Funeral Home
   - Peter Kane
   - Peter M. Brant
@@ -5795,6 +5818,7 @@ params:
   - Pinche taqueria
   - Pinisi Cafe and Bakery
   - Pink Bear Ice Cream
+  - Pink Lion
   - Pink Louds
   - Pink Olive
   - Pinkberry
@@ -5824,6 +5848,7 @@ params:
   - Planeta Space
   - Planters Grove
   - Plantmade
+  - Plantmade by Double Zero and Bar Verde
   - Plantshed
   - Plantworks
   - PlayHardLookDope
@@ -6066,6 +6091,7 @@ params:
   - Rice Thief
   - Rice to Riches
   - Richard Gere
+  - Richard Hambleton
   - Richard Hell
   - Richard Kern
   - Richard Leck
@@ -6227,6 +6253,7 @@ params:
   - Sal's
   - Sal's Pizza
   - Salad Days
+  - Salad Don
   - Sally Beauty
   - Sally Davies
   - Salma
@@ -6417,6 +6444,7 @@ params:
   - Shinbashi Sushi
   - Shinn East
   - Shinzo Omakase
+  - Shirokuro
   - Shiti Bikes
   - Shoolbred's
   - Shop Fare
@@ -6484,6 +6512,7 @@ params:
   - Sly Fox
   - Smacked LLC
   - Smart Smokers
+  - Smashed
   - Smell it like Beckham
   - Smileys
   - SmithStone
@@ -6827,6 +6856,7 @@ params:
   - Synergy
   - Szechuan Mountain House
   - T Magazine
+  - T Mobile
   - T Swirl Crepe
   - T-Mobile
   - T-shirts
@@ -6898,6 +6928,7 @@ params:
   - Target
   - Taser
   - Taste Wine
+  - Taste Wine Co.
   - Taste of 7th Street
   - Taste of East Village
   - Taste of India
@@ -7256,6 +7287,7 @@ params:
   - Thirft NYC
   - Thirstea Café tea shop
   - Thirteen East + West
+  - Thirty Love
   - This Little Piggy Had Roast Beef
   - This could be Heaven or this could be Hell
   - This is what
@@ -7760,7 +7792,9 @@ params:
   - Wild Mirrors
   - Wild Rabbit Coffee
   - Wild Style
+  - Wilka's
   - Will Smith
+  - Willem Dafoe
   - William Barnacle Tavern
   - William Burroughs
   - William Gottlieb
@@ -7770,6 +7804,7 @@ params:
   - Williamsburg Pizza
   - Willie Nelson
   - Wilmer Jennings Gallery
+  - Win Son Bakery
   - Winebar
   - Wing Stop
   - Wingstop
@@ -8351,6 +8386,7 @@ params:
   - closed for some reasons
   - closing 2020
   - closing 2024
+  - closing 2025
   - closings
   - closings 2018
   - closings 2019
@@ -8364,6 +8400,7 @@ params:
   - closures 2021
   - closures 2022
   - closures 2024
+  - closures 2025
   - clothes make the man
   - clothing exchange
   - clouds
@@ -10112,6 +10149,7 @@ params:
   - snow
   - snow bills
   - snow cream
+  - snow days
   - snow in April
   - snow in August
   - snow in July
@@ -10806,6 +10844,7 @@ params:
   - watch out
   - water
   - water gun assassinations
+  - water main
   - water main break
   - water main breaks
   - water mains
@@ -10904,6 +10943,7 @@ params:
   - wishful thinking
   - wisteria
   - wolfwomen
+  - women's sports
   - woo
   - woo is me
   - woo — we were on TV
@@ -10952,30 +10992,30 @@ params:
   - ¡Adios Amigos!
   - Íxta
   relme: {}
-  last_post_title: 'Reports: 20-year-old East Village man dies in stabbing on the
-    Lower East Side'
-  last_post_description: "Two men stabbed, one fatally, on Manhattan’s Lower East
-    Side https://t.co/HnEwCOIeoW— New York Daily News (@NYDailyNews) January 19, 2025
-    \n\nTwo young men were stabbed on a Lower East Side street"
-  last_post_date: "2025-01-19T18:20:00Z"
-  last_post_link: http://evgrieve.com/2025/01/reports-20-year-old-east-village-man.html
+  last_post_title: A Taste of change for Joe's Wine Co
+  last_post_description: The Joe is gone at 113 Third Ave. As you can see, someone
+    painted over the Joe's on the signage at the wine store between 13th Street and
+    14th Street. The shop is now going as Taste Wine Co. per
+  last_post_date: "2025-02-24T10:30:00Z"
+  last_post_link: http://evgrieve.com/2025/02/a-taste-of-change-for-joes-wine-co.html
   last_post_categories:
-  - crime
+  - Joe's Wine Co.
+  - Taste Wine Co.
   last_post_language: ""
-  last_post_guid: abcd6b8c805d5aebc4455d208aec1812
+  last_post_guid: 8a8637229902fe56f86af946bf98b654
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

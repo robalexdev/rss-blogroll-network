@@ -199,6 +199,7 @@ params:
   - https://jerz.us/rss/
   - https://kevquirk.com/feed
   - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/posts-feed
   - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
@@ -261,12 +262,11 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - geohashing
-  - google maps
-  - map
-  - maps
-  - openstreetmap
-  - walking
+  - cache log
+  - geocaching
+  - istanbul
+  - travel
+  - work
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -277,22 +277,21 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] OpenStreetMap rocks (especially on foot)'
-  last_post_description: OpenStreetMap blows Google Maps out of the water for walkers
-    and also for if you're trying to find a particular-named house in a rural area.
-    I'm not saying never to use Google Maps (there's plenty of
-  last_post_date: "2025-02-23T14:37:36Z"
-  last_post_link: https://danq.me/2025/02/23/openstreetmap-rocks/
+  last_post_title: '[Checkin] Dan Q found GC6VTEG Galata Bridge #3'
+  last_post_description: After lunch with my work team in a delightful restaurant
+    overlooking the bridge I decided to take a diversion on the route back to our
+    coworking space to come and find this geocache, my most-Easterly
+  last_post_date: "2025-03-26T11:08:00Z"
+  last_post_link: https://danq.me/2025/03/26/dan-q-found-gc6vteg-galata-bridge-3/
   last_post_categories:
   - Personal
-  - geohashing
-  - google maps
-  - map
-  - maps
-  - openstreetmap
-  - walking
+  - cache log
+  - geocaching
+  - istanbul
+  - travel
+  - work
   last_post_language: ""
-  last_post_guid: 1a0566c7a5780232467a9d56b5c26461
+  last_post_guid: 2f9bbb0f06bad4a600fb06168687db7c
   score_criteria:
     cats: 0
     description: 3

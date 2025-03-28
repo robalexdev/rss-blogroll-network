@@ -18,39 +18,23 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Around the Hudson Valley
-  - Articles
-  - Beer &amp; Wine
-  - Benmarl Winery
-  - Contests
-  - Dutchess County
-  - Hudson Valley Events
-  - Photos
-  - Show Us Your Heart
-  - Ulster County
-  - orange county
-  - valentines day
+  - Country Exclusive
+  - Country Music News
+  - Television
+  - Yellowstone
   relme: {}
-  last_post_title: 'Show Us Your Heart: Love and Winning are in the Air'
-  last_post_description: Find out how you could win $250 from the Wolf and Benmarl
-    Winery just by showing us something you love. Continue reading…
-  last_post_date: "2025-01-20T03:43:20Z"
-  last_post_link: https://hudsonvalleycountry.com/show-us-your-heart-2025-benmarl-winery-new-york/
+  last_post_title: I Tried the ‘Yellowstone’ TV Dinners [Watch]
+  last_post_description: We give some of the 'Yellowstone' frozen TV dinners a taste.
+    Continue reading…
+  last_post_date: "2025-02-24T17:43:04Z"
+  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/i-tried-the-yellowstone-tv-dinners-watch/
   last_post_categories:
-  - Around the Hudson Valley
-  - Articles
-  - Beer &amp; Wine
-  - Benmarl Winery
-  - Contests
-  - Dutchess County
-  - Hudson Valley Events
-  - Photos
-  - Show Us Your Heart
-  - Ulster County
-  - orange county
-  - valentines day
+  - Country Exclusive
+  - Country Music News
+  - Television
+  - Yellowstone
   last_post_language: ""
-  last_post_guid: dbab8851a276b73995d2f6d513a6f472
+  last_post_guid: eddfe44be4f8e3bb13a85a1e5ffe7fce
   score_criteria:
     cats: 0
     description: 3

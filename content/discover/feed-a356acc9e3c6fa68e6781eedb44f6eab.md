@@ -1,7 +1,7 @@
 ---
 title: Kev Quirk
 date: "1970-01-01T00:00:00Z"
-description: Latest posts from my blog
+description: Latest posts and notes from my blog
 params:
   feedlink: https://kevq.uk/feed.xml
   feedtype: rss
@@ -35,30 +35,33 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
-  categories: []
+  categories:
+  - '#fishkeeping'
   relme: {}
-  last_post_title: Fellas, it's gay to like pop music?
+  last_post_title: "\U0001F4DD 24 February 2025 at 09:07 - Having to put another fish
+    to sleep is a really..."
   last_post_description: |-
-    Fellas, it's gay to like pop music?
-                  by KeenanKeenan reflects on being mocked for liking Britney Spears’ “Toxic” to embracing their love for pop music and their identity.
-  last_post_date: "2025-01-17T07:50:00Z"
-  last_post_link: https://kevquirk.com/blog/fellas-it-s-gay-to-like-pop-music
-  last_post_categories: []
+    Having to put another fish to sleep is a really shitty way to start a Monday.
+    This is the problem with the #fishkeeping hobby - when you setup a tank and stock it with a load of babies, they all grow
+  last_post_date: "2025-02-24T09:10:00Z"
+  last_post_link: https://kevquirk.com/notes/20250224-0907
+  last_post_categories:
+  - '#fishkeeping'
   last_post_language: ""
-  last_post_guid: e892613bcca7a5241f2a2cc07189e67e
+  last_post_guid: 3832ab82512d37c956b52361ea36e984
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

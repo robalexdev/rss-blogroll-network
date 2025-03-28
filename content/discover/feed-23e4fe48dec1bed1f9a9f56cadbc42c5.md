@@ -1,13 +1,13 @@
 ---
 title: BonjourApril
-date: "2023-08-04T09:19:35+02:00"
+date: "2025-01-07T11:13:53+01:00"
 description: ""
 params:
   feedlink: https://bonjourapril.fr/feed/atom
   feedtype: atom
   feedid: 23e4fe48dec1bed1f9a9f56cadbc42c5
   websites:
-    https://bonjourapril.fr/: true
+    https://bonjourapril.fr/: false
   blogrolls: []
   in_blogrolls:
   - title: Planète April
@@ -28,15 +28,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 11
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 20
+  avgpostlen: 284
 ---

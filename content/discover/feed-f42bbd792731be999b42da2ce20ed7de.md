@@ -12,6 +12,7 @@ params:
     https://www.april.org/communiques: false
     https://www.april.org/event: false
     https://www.april.org/event/2025-01: false
+    https://www.april.org/event/2025-02: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:

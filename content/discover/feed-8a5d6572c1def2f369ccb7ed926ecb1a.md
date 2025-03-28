@@ -1,6 +1,6 @@
 ---
 title: Subtle Echo
-date: "2024-07-12T18:28:08Z"
+date: "2025-02-03T21:08:05Z"
 description: ""
 params:
   feedlink: https://subtle-echo.pika.page/posts_feed
@@ -21,15 +21,15 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Just sharing two excellent book tracking Websites/Apps
-  last_post_description: I don’t read a lot of books. My reading is more centred around
-    RSS and Mastodon. Every time I do get into reading books though, I enjoy it a
-    lot....
-  last_post_date: "2024-07-12T18:56:15Z"
-  last_post_link: https://subtleecho.online/posts/just-sharing-two-excellent-book-tracking-websites-apps
+  last_post_title: What I loved in January 2025
+  last_post_description: Hello, this is a list of things that brought me joy in January
+    2025. I’ve set myself a short time limit to write and publish this, otherwise
+    I’ll never do...
+  last_post_date: "2025-02-04T11:51:57Z"
+  last_post_link: https://subtleecho.online/posts/what-i-loved-in-january-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 400f0c957f273ba73741a120d4ec783f
+  last_post_guid: c186f8e5f78e2def42ca258a4d806c75
   score_criteria:
     cats: 0
     description: 0

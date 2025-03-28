@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: From Boston to Bethlehem
-  last_post_description: We’re here with a capsule of memory from late last year.
-    It was a spark of generosity in Liz Walker’s story that lit up the Christmas season
-    for lots of us, and maybe the path ...
-  last_post_date: "2025-01-10T02:21:55Z"
-  last_post_link: https://radioopensource.org/from-boston-to-bethlehem/
+  last_post_title: Muskology
+  last_post_description: 'In the fog of Trump Two, we’re asking: what’s new? The co-presidency
+    with Elon Musk is surely new, also the raging battle of exotic ideas among techno-optimists
+    and libertarian anarcho'
+  last_post_date: "2025-02-14T01:51:50Z"
+  last_post_link: https://radioopensource.org/muskology/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 49732a1da8b6360b197e9782221cf901
+  last_post_guid: 52cb5c226595ee2b48feabee873ffa57
   score_criteria:
     cats: 1
     description: 3

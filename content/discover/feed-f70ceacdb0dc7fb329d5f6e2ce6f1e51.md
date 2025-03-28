@@ -1,6 +1,6 @@
 ---
 title: F-Droid - Free and Open Source Android App Repository
-date: "2025-01-18T09:30:12Z"
+date: "2025-03-26T21:27:19Z"
 description: F-Droid is an installable catalogue of FOSS (Free and Open Source Software)
   applications for the Android platform. The client makes it easy to browse, install,
   and keep track of updates on your
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stop mulling, get Fennec
+  last_post_title: Group improvements
   last_post_description: ""
-  last_post_date: "2025-01-16T00:00:00Z"
-  last_post_link: https://f-droid.org/en/2025/01/16/twif.html
+  last_post_date: "2025-03-20T00:00:00Z"
+  last_post_link: https://f-droid.org/en/2025/03/20/twif.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 454cd5e79f1dd0ca964aa6231532f835
+  last_post_guid: 714e98372084325eb47e12a1b4b8622d
   score_criteria:
     cats: 0
     description: 3

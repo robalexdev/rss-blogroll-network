@@ -21,15 +21,15 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Rambling about humanity, Star Trek and GenAI
+  last_post_title: Pen
   last_post_description: |-
-    What follows is a flow of consciousness. There’s some structure here, but this text is more chaotic than most others here - and that’s something!
-    I’ve been watching Star Trek again and I’ve
-  last_post_date: "2025-01-28T19:47:00+01:00"
-  last_post_link: https://crys.site/blog/2025/humanity-st-genai/
+    Some 30 years ago a teacher forced me to write in block letters.
+    While yes, I have to agree that my handwriting is a marvel in itself (a marvel of ugliness it is), but this has taken away all the joy
+  last_post_date: "2025-02-22T23:04:00+01:00"
+  last_post_link: https://crys.site/blog/2025/pen/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5b78f7767a3dfe4d525deeb8764446db
+  last_post_guid: 0315d6a6bacf6881454d893693b34a3a
   score_criteria:
     cats: 0
     description: 3

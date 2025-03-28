@@ -8,6 +8,7 @@ params:
   feedid: fcc2b0a3dc74b1f11bdf10e72fa24661
   websites:
     https://11ty.dev/: false
+    https://11ty.dev/authors/chrisburnell: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll

@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2025-01-16T12:59:00Z"
+date: "2025-02-13T11:03:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The web is a creative industry and is facing the same decline and
-    shattered economics as film, TV, or publishing
+  last_post_title: Now I'm disappointed.
   last_post_description: ""
-  last_post_date: "2025-01-16T12:59:00Z"
-  last_post_link: https://www.baldurbjarnason.com/notes/2025/the-web-is-a-creative-industry/
+  last_post_date: "2025-02-13T11:03:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/2025/now-im-disappointed/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2cc523b27979c1fe7b5aa30b410a43e1
+  last_post_guid: b004f675e506e36379203c43256fb347
   score_criteria:
     cats: 0
     description: 3

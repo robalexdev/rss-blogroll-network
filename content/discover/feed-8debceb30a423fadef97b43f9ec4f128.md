@@ -17,14 +17,15 @@ params:
   categories:
   - 生活
   relme: {}
-  last_post_title: 记一次全麻胃肠镜检查
-  last_post_description: 前言 前几年我每天都要开单程一小时的车上下班，如果遇上堵车则要更久，发生过几次差点拉在裤子里的极端情况。于是便患上了一种特殊的强迫症
-  last_post_date: "2025-01-16T01:11:35Z"
-  last_post_link: https://mok.moe/p/9sg5
+  last_post_title: 2024 年度十大照片
+  last_post_description: '时光机：2023 年度十大照片  今年日子过得太忙了，也没怎么拍照，又不想凑数，所以十大照片不够十张也是正常的（
+    年度十大照片 我的照片 '
+  last_post_date: "2025-01-31T18:08:43Z"
+  last_post_link: https://mok.moe/p/2024-photos
   last_post_categories:
   - 生活
   last_post_language: ""
-  last_post_guid: 1a9738a739e27de3f1ac3c86f945d361
+  last_post_guid: b5b370ec67c41764dcaabc53fe467c45
   score_criteria:
     cats: 0
     description: 3

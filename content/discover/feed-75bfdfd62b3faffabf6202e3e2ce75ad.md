@@ -15,22 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - J1 Assistant
-  - Jarvis
+  - 1X
+  - 1X Technologies
+  - Nothing Phone (3a)
+  - Nothing Phone (3a) Series.
+  - nothing
+  - nothing phone
   - 推荐
-  - 罗永浩
   relme: {}
-  last_post_title: J1 Assistant：罗永浩的新宠，智能生活新伙伴
-  last_post_description: J1 Assistant 是由罗永浩旗下的 AI 初创项目 Jarvis 推出的一款智能助理软件。目前，J1  […]
-  last_post_date: "2025-01-06T06:46:42Z"
-  last_post_link: https://www.evan.xin/3187/
+  last_post_title: Nothing Phone (3a) Series.
+  last_post_description: Nothing Phone (3a) Series. Nothing官网和视频媒体上已经把最新的3a的外观披露 […]
+  last_post_date: "2025-02-24T15:57:08Z"
+  last_post_link: https://www.evan.xin/3468/
   last_post_categories:
-  - J1 Assistant
-  - Jarvis
+  - 1X
+  - 1X Technologies
+  - Nothing Phone (3a)
+  - Nothing Phone (3a) Series.
+  - nothing
+  - nothing phone
   - 推荐
-  - 罗永浩
   last_post_language: ""
-  last_post_guid: 9e181ae348ce33945d8f0e6bec3fc52e
+  last_post_guid: 8671c06fa4ae6c6c693995efbfda9a6f
   score_criteria:
     cats: 0
     description: 3

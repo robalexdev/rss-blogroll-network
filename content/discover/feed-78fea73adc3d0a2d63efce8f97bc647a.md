@@ -16,27 +16,26 @@ params:
   recommended: []
   recommender:
   - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: Home made muesli
-  last_post_description: |-
-    A friend gave me this muesli recipe. It gives me an enjoyable and healthy breakfast every day. I add stewed apple, milk, and a couple of other things too.
-    Muesli
-    Ingredients
-
-    2 cups of whole oats
-    2
-  last_post_date: "2024-08-25T14:45:31+12:00"
-  last_post_link: https://miraz.me/2024/08/25/home-made-muesli.html
+  last_post_title: Eeeugh to Aaahhh
+  last_post_description: We have a freestanding oven and cooktop and it's mandatory
+    to have a small gap either side. That gap is exactly the right size for splashes
+    of sauce, random escaped cooking ingredients and crumbs to
+  last_post_date: "2025-02-22T11:37:03+13:00"
+  last_post_link: https://miraz.me/2025/02/22/eeeugh-to-aaahhh.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca2222337feb5439705fe4a4010c45ee
+  last_post_guid: 861cb7a54b92813790bf552436a0505f
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 0
     postcats: 0
     promoted: 5
     promotes: 0
@@ -48,4 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
+  postcount: 0
+  avgpostlen: 0
 ---

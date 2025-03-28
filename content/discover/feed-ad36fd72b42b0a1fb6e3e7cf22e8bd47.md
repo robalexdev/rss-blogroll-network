@@ -19,34 +19,30 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Uncategorized
-  - fediverse
-  - socialweb
   relme: {}
-  last_post_title: The Internet Doesn’t Have To Be Like This
-  last_post_description: 'I loved this video that the Daily Show‘s Desi Lydic posted
-    on Instagram, Tiktok, and YouTube. Give it a watch: Lydic talks about the dizzying
-    changes that are happening in social media these days.'
-  last_post_date: "2025-01-17T15:31:17Z"
-  last_post_link: https://socialwebfoundation.org/2025/01/17/the-internet-doesnt-have-to-be-like-this/
+  last_post_title: Social Web Foundation at RightsCon 2025
+  last_post_description: RightsCon 2025– “rights” as in human rights and “con” as
+    in tech conference– is less than a week away, and the SWF is hosting some exciting
+    events taking place in Taipei. It’s the
+  last_post_date: "2025-02-20T01:39:09Z"
+  last_post_link: https://socialwebfoundation.org/2025/02/19/social-web-foundation-at-rightscon-2025/
   last_post_categories:
   - Uncategorized
-  - fediverse
-  - socialweb
   last_post_language: ""
-  last_post_guid: 92282aaa79afc47c123746807a07df79
+  last_post_guid: e8ebca58d8da3b8da9cb3c236c66d041
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

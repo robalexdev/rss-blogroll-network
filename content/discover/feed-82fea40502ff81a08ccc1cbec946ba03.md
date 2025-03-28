@@ -20,22 +20,25 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Coding
-  - Dog Tricks
-  - html
+  - Blogging
+  - Connectedness
+  - blogmenting
+  - commentblogging
   relme: {}
-  last_post_title: Links to Text Fragments
-  last_post_description: I feel father comfortable swimming in HTML and writing the
-    stuff by hand (I thought at one time everyone would learn to write HTML). It never
-    tops being refreshing to learn one more trick. This
-  last_post_date: "2025-01-20T03:27:51Z"
-  last_post_link: https://cogdogblog.com/2025/01/links-to-text-fragments/
+  last_post_title: 'Back After a Break: The CogDogBlogMuzzle for a Week of Comment
+    Blogging'
+  last_post_description: Given the faithful rising to the Reverend’s Come to Bava
+    call to Blog or Die I want to pick up on the followup invocation of Always Be
+    Commenting. I’ve long clung to the idea that the scope of
+  last_post_date: "2025-02-17T13:31:00Z"
+  last_post_link: https://cogdogblog.com/2025/02/cogdogblogmuzzle-for-a-week/
   last_post_categories:
-  - Coding
-  - Dog Tricks
-  - html
+  - Blogging
+  - Connectedness
+  - blogmenting
+  - commentblogging
   last_post_language: ""
-  last_post_guid: 599c7cc295ccda813d1621840434e90d
+  last_post_guid: a71281087e7a0984cf02bb50d8ab66ab
   score_criteria:
     cats: 0
     description: 3

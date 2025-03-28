@@ -1,7 +1,7 @@
 ---
 title: Baty.net
 date: "1970-01-01T00:00:00Z"
-description: Latest posts from Jack Baty
+description: Baty.net
 params:
   feedlink: https://baty.net/feed
   feedtype: rss
@@ -32,15 +32,15 @@ params:
     https://jackbaty.com/: true
     https://mastodon.social/@batybot: true
     https://social.lol/@jbaty: true
-  last_post_title: TikTok
-  last_post_description: It looks like TikTok is off the air. This doesn't affect
-    me because I don't use TikTok. On one hand, I feel bad for the millions of people
-    who love it. On the other hand, maybe it'll be good for
-  last_post_date: "2025-01-19T05:45:00-05:00"
-  last_post_link: https://baty.net/journal/2025/01/19/tiktok
+  last_post_title: Mike Monteiro on drawing
+  last_post_description: |-
+    We are born with hearts that want to leave a mark on the world. This ability is not lost, it is taken from us.
+    Mike Monteiro, How to draw an orange
+  last_post_date: "2025-02-22T08:11:04-05:00"
+  last_post_link: https://baty.net/posts/2025/02/mike-monteiro-on-drawing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34cdb1c01c1b8430c2bab6754ea04d47
+  last_post_guid: 4843dd15d7b77e055b16cea8bce098b1
   score_criteria:
     cats: 0
     description: 3

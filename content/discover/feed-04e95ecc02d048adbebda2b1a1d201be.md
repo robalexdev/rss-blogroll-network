@@ -1,6 +1,6 @@
 ---
 title: Lars-Christian.com - Posts
-date: "2025-01-18T18:57:55Z"
+date: "2025-02-23T21:30:18Z"
 description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Just write
+  last_post_title: It wasn't always this good
   last_post_description: ""
-  last_post_date: "2025-01-17T00:00:00Z"
-  last_post_link: https://lars-christian.com/posts/2025-01-17-just-write/
+  last_post_date: "2025-02-21T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2025-02-21-it-wasnt-always-this-good/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86ed056578e0c5f9375bdb11e9b31659
+  last_post_guid: 27a6595b75db9bd74a3c3d0d83bd0a85
   score_criteria:
     cats: 0
     description: 3

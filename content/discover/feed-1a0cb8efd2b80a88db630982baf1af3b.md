@@ -9,6 +9,7 @@ params:
   websites:
     https://reillyspitzfaden.com/: false
     https://reillyspitzfaden.com/blog: true
+    https://reillyspitzfaden.com/feeds: false
     https://reillyspitzfaden.com/feeds/: false
     https://reillyspitzfaden.com/projects: false
     https://reillyspitzfaden.com/projects/: false
@@ -40,6 +41,7 @@ params:
     https://hachyderm.io/@reillypascal: true
     https://reillyspitzfaden.com/: true
     https://reillyspitzfaden.com/blog: true
+    https://reillyspitzfaden.com/feeds: true
     https://reillyspitzfaden.com/projects: true
   last_post_title: Webmentions Without Plugins
   last_post_description: ""

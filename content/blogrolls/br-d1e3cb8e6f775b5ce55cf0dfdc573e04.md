@@ -63,8 +63,8 @@ params:
   - title: Notes on Kwon.nyc
     description: Recent content in Notes on Kwon.nyc
     id: 6048247ec22842530072c65671b02026
-  - title: Nick Simson
-    description: Yet another personal feed.
+  - title: Posts and notes from Nick Simson
+    description: Nick's personal website and weblog
     id: 6b75c02e948c792b0be43d468092b9fc
   - title: '@muan''s stories'
     description: Stories.

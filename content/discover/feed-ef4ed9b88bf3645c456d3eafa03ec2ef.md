@@ -23,6 +23,7 @@ params:
     https://dmv.community/@jcrabapple: true
     https://jcrabapple.proven.lol/: true
     https://links.dmv.pub/@jcrabapple: true
+    https://pixtagram.social/@jcrabapple: true
     https://proven.lol/523f62: true
   last_post_title: Deep Dive Into Sleep Token’s “Sundowning” Album
   last_post_description: Recently one of my favorite YouTubers, Steve O’G, did a deep

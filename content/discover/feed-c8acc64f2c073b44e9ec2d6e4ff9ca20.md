@@ -1,6 +1,6 @@
 ---
 title: Andy Bell
-date: "2024-12-31T17:00:56Z"
+date: "2025-02-08T09:56:42Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
@@ -19,13 +19,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Wrapping up 2024
+  last_post_title: Love newsletters? You’re gonna love RSS
   last_post_description: ""
-  last_post_date: "2024-12-31T17:00:56Z"
-  last_post_link: https://andy-bell.co.uk/wrapping-up-2024
+  last_post_date: "2025-02-08T09:56:42Z"
+  last_post_link: https://andy-bell.co.uk/love-newsletters-youre-gonna-love-rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1cfcc01b57f2b2a4b3631956964dfdf2
+  last_post_guid: 5479c9f54c61412b9d2a06397d8a651e
   score_criteria:
     cats: 0
     description: 0
