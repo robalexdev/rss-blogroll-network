@@ -25,6 +25,6 @@
     <outline text="ttntm" type="atom" xmlUrl="https://ttntm.me/everything.xml" />
     <outline text="rhyswynne" type="rss" xmlUrl="https://www.rhyswynne.co.uk/feed/" />
     <outline text="philwilson" type="rss" xmlUrl="https://philwilson.org/blog/feed" />
-
+    <outline text="villepreux" type="rss" xmlUrl="https://villepreux.net/blog/rss.xml" />
   </body>
 </opml>
