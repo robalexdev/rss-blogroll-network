@@ -24,6 +24,7 @@ params:
   - https://frankmeeuwsen.com/feed.xml
   - https://joeross.me/feed.xml
   - https://joeross.me/podcast.xml
+  - https://joeross.micro.blog/feed.xml
   categories: []
   relme: {}
   last_post_title: Against Entropy

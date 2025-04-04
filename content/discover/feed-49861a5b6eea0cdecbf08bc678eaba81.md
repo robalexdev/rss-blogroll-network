@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-12-17T21:06:55Z"
+date: "2025-03-25T16:23:24Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/bookmarks.xml
@@ -87,35 +87,38 @@ params:
   - https://www.lkhrs.com/index.xml
   recommender: []
   categories:
-  - css
-  - ui
+  - ascii
+  - diagram
+  - tools
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Bookmarked "1bit-ui"
-  last_post_description: I like this CSS theme and if I would've found it before,
-    I probable would've used it for sparkles
-  last_post_date: "2024-12-17T21:06:55Z"
-  last_post_link: https://benji.dog/bookmarks/1734469615-1bit-ui/
+  last_post_title: 'Bookmarked "Cascii: A web-based ASCII and Unicode diagram builder
+    written in vanilla Javascript"'
+  last_post_description: I've used a few other ASCII diagram tools but this has some
+    advanced features that I could really use next time.
+  last_post_date: "2025-03-25T16:23:24Z"
+  last_post_link: https://benji.dog/bookmarks/1742919805-cascii-a-web-based-ascii-and-unicode-diagram-builder-written-in-vanilla-javascript/
   last_post_categories:
-  - css
-  - ui
+  - ascii
+  - diagram
+  - tools
   last_post_language: ""
-  last_post_guid: a22a009344b914220b8f68b8a42cfb96
+  last_post_guid: e565ba4288e8ce2c01c912e34bff6247
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

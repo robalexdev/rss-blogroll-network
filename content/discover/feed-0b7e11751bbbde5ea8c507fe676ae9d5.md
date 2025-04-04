@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "1970-01-01T00:00:00Z"
+date: "2025-03-27T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/read.xml
@@ -91,13 +91,13 @@ params:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Finished Reading The Goblin Emperor by Sarah Monette
+  last_post_title: Finished Reading To Be Taught, If Fortunate by Becky Chambers
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://benji.dog/read/1736529077-the-goblin-emperor/
+  last_post_date: "2025-03-27T00:00:00Z"
+  last_post_link: https://benji.dog/read/1743054940-to-be-taught-if-fortunate/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c5d7baddd8b78c7cdfb1fa6c8ed81f0
+  last_post_guid: 17ee5af10aef109e3aaefb44df6af331
   score_criteria:
     cats: 0
     description: 3

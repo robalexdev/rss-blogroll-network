@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-01-19T18:22:54Z"
+date: "2025-03-27T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/all.xml
@@ -86,36 +86,31 @@ params:
   - https://ellyloel.com/feed.rss
   - https://www.lkhrs.com/index.xml
   recommender: []
-  categories:
-  - Indieweb
-  - webmentions
+  categories: []
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: 'Liked "indieweb-bashblog: a single script SSG with Webmentions
-    and more | dead.garden"'
+  last_post_title: Finished Reading To Be Taught, If Fortunate by Becky Chambers
   last_post_description: ""
-  last_post_date: "2025-01-19T18:22:54Z"
-  last_post_link: https://benji.dog/likes/1737310974-indieweb-bashblog-a-single-script-ssg-with-webmentions-and-more--deadgarden/
-  last_post_categories:
-  - Indieweb
-  - webmentions
+  last_post_date: "2025-03-27T00:00:00Z"
+  last_post_link: https://benji.dog/read/1743054940-to-be-taught-if-fortunate/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8e0377f7642f15d9c2b39eca534c7afc
+  last_post_guid: 1d620955251d47097de3ea77bdaba6d5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

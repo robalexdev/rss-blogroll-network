@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "1970-01-01T00:00:00Z"
+date: "2025-03-25T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/watched.xml
@@ -91,15 +91,14 @@ params:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Watched Emilia Pérez, 2024 - ★★
-  last_post_description: Kinda upset about this. Zoe Saldaña and Karla Sofía Gascón
-    where great but everything else was not. Hire trans and Latino writers if you
-    want to tell their story.
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://benji.dog/watched/1736396518-emilia-prez-2024/
+  last_post_title: 'Watched Muppet Guys Talking: Secrets Behind the Show the Whole
+    World Watched, 2017 - ★★★★'
+  last_post_description: ""
+  last_post_date: "2025-03-25T00:00:00Z"
+  last_post_link: https://benji.dog/watched/1742948119-muppet-guys-talking-secrets-behind-the-show-the-whole-world-watched-2017/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2411f877e6701d95c65f0f1f02e412e2
+  last_post_guid: 899b975787bf33fe2ad33ac13e92b6a3
   score_criteria:
     cats: 0
     description: 3
