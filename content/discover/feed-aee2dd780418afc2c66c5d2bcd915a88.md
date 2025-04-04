@@ -26,16 +26,18 @@ params:
   categories: []
   relme:
     https://github.com/jamesvandyne/: true
+    https://indieweb.social/@jamesvandyne: true
     https://jamesvandyne.com/: true
-  last_post_title: 'The Week #242'
-  last_post_description: "\U0001F973 Boyo turned 7 years old. It amazes me how quick
-    he's growing up. It feels like just yesterday we were in the US celebrating his
-    5th birthday and here he is closing in on the end of his first"
-  last_post_date: "2025-02-17T21:04:58Z"
-  last_post_link: https://jamesvandyne.com/82d89606-de14-4771-9397-a2c52be216b1
+    https://jamesvandyne.com/runs/: true
+  last_post_title: 'The Week #248'
+  last_post_description: ðŸ“• Leo read his first new English word by himself, or at
+    least that I've witnessed. He was looking at his iPad and the was some text (no
+    icon) that said "Zoom", and he said Zoom. I looked at
+  last_post_date: "2025-03-31T21:01:28Z"
+  last_post_link: https://jamesvandyne.com/1b56cd31-ecc2-4da6-badb-262267236670
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 70a901571805f6c7be18342c964a7399
+  last_post_guid: 0953af5b1bf61003e6e2601417b2dab3
   score_criteria:
     cats: 0
     description: 0

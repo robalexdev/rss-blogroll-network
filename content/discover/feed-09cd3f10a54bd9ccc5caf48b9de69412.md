@@ -85,34 +85,38 @@ params:
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
-  categories: []
+  categories:
+  - '#Apple'
+  - '#Framework'
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 23 March 2025 at 12:12 - Walked up to my youngest put
-    my wrist on his..."
-  last_post_description: "Walked up to my youngest, put my wrist on his head and said.\n\"Don't
-    move, you're under a wrist.\"\nI am fucking hilarious. \U0001F602\U0001F602\n
-    \                                 \n        \n\n        \n          \n    "
-  last_post_date: "2025-03-23T12:15:00Z"
-  last_post_link: https://kevquirk.com/notes/20250323-1212
-  last_post_categories: []
+  last_post_title: "\U0001F4DD 3 April 2025 at 06:35 - Thinking about my next laptop
+    and Apple has been giving..."
+  last_post_description: |-
+    Thinking about my next laptop and #Apple has been giving me the ick lately with some of what they're doing.
+    Anyway, politics of it all aside, I'm thinking about a #Framework 13. Very expensive, but
+  last_post_date: "2025-04-03T06:40:00Z"
+  last_post_link: https://kevquirk.com/notes/20250403-0635
+  last_post_categories:
+  - '#Apple'
+  - '#Framework'
   last_post_language: ""
-  last_post_guid: 8a2e48fb156dff75a708d7d3a1dbf74d
+  last_post_guid: a6e9038cce174917ce5faa4588213464
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 31
   ispodcast: false
   isnoarchive: false
   innetwork: true

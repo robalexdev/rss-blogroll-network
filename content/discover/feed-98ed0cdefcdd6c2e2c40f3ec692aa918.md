@@ -1,6 +1,6 @@
 ---
 title: Ben Myers
-date: "2024-12-07T00:00:00Z"
+date: "2025-03-21T00:00:00Z"
 description: Web developer. Accessibility advocate. Human T-rex.
 params:
   feedlink: https://benmyers.dev/feed.xml
@@ -21,32 +21,29 @@ params:
   - web accessibility
   - web development
   relme: {}
-  last_post_title: Don’t Use aria-label on Static Text Elements
-  last_post_description: Don’t use the aria-label or aria-labelledby attributes on
-    divs, spans, or other elements representing static/noninteractive text-level semantics,
-    unless you’re also updating roles.
-  last_post_date: "2024-12-07T00:00:00Z"
-  last_post_link: https://benmyers.dev/blog/dont-use-aria-label-on-static-text-elements/
+  last_post_title: 'Tag, You’re It: Blog Questions 2025'
+  last_post_description: Eric tagged me in to answer ten questions about how and why
+    I blog.
+  last_post_date: "2025-03-21T00:00:00Z"
+  last_post_link: https://benmyers.dev/blog/blog-questions-2025/
   last_post_categories:
-  - ARIA
-  - HTML
-  - web accessibility
-  - web development
+  - blogging
+  - content creation
   last_post_language: ""
-  last_post_guid: 92628bbef2247eaba71a29642cbe3aa8
+  last_post_guid: 38658098f88a8df60bf7a24db2c7e94b
   score_criteria:
     cats: 3
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 24
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

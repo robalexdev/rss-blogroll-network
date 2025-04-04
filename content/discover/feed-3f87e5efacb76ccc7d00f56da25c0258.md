@@ -1,12 +1,13 @@
 ---
 title: anhvn
-date: "2025-02-06T00:00:00Z"
+date: "2025-03-30T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
   feedtype: atom
   feedid: 3f87e5efacb76ccc7d00f56da25c0258
-  websites: {}
+  websites:
+    https://anhvn.com/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -42,13 +43,13 @@ params:
   - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: the big picture creative goal
+  last_post_title: Weeknotes 30
   last_post_description: ""
-  last_post_date: "2025-02-06T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/big-picture-goal/
+  last_post_date: "2025-03-30T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2025/weeknotes-30/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36568b6dedde8c1950a6117831dd013e
+  last_post_guid: 46458a7bd0a42d171c9eceeef988afc2
   score_criteria:
     cats: 0
     description: 3
@@ -60,8 +61,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

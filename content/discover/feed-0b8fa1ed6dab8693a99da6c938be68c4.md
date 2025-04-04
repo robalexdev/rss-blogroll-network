@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-02-24T19:33:03Z"
+date: "2025-04-04T02:19:50+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,16 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Designing for neurodivergence is designing for all
+  last_post_title: Reimagining the employee experience for LNER
   last_post_description: |-
-    Decisions you make in design and build can have real-life impact for neurodivergent people who want or need to use your digital products.
-    Inclusive design is an opportunity to mitigate the risk of
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://clearleft.com/thinking/designing-for-neurodivergence-is-designing-for-all
+    London North Eastern Railway wanted to explore how digital tools could better support their front-line teams. Clearleft helped uncover opportunities and define a vision for the future.
+
+          LNER is
+  last_post_date: "2025-03-13T00:00:00Z"
+  last_post_link: https://clearleft.com/thinking/reimagining-the-staff-experience-for-lner
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 97bce10b553fa39dc7a44d079c1dac45
+  last_post_guid: 5710ca5bedce70d554bb1acab2ec60a7
   score_criteria:
     cats: 0
     description: 3

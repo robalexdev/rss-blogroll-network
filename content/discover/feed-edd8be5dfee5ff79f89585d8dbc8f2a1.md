@@ -1,8 +1,8 @@
 ---
 title: Kitty Giraudel
-date: "2025-01-02T16:58:24Z"
-description: I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin,
-  focused on accessibility and inclusivity.
+date: "2025-04-03T15:58:34Z"
+description: I’m Kitty Giraudel, a transfeminine web engineer based in Berlin, focused
+  on accessibility and inclusivity.
 params:
   feedlink: https://kittygiraudel.com/rss/index.xml
   feedtype: atom

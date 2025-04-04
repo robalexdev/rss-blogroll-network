@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2025-02-24T18:56:38Z"
+date: "2025-04-04T01:08:32Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -20,30 +20,28 @@ params:
   - https://jlelse.blog/index.xml
   categories:
   - "2025"
-  - health
   relme: {}
-  last_post_title: if i was born in the US, i would be dead
-  last_post_description: i talk about my medical expenses and alternate timeline.
-  last_post_date: "2025-02-23T10:22:16Z"
-  last_post_link: https://blog.avas.space/us-dead/
+  last_post_title: keeping up my posting schedule
+  last_post_description: '>:)'
+  last_post_date: "2025-04-02T18:03:55Z"
+  last_post_link: https://blog.avas.space/april-fools/
   last_post_categories:
   - "2025"
-  - health
   last_post_language: ""
-  last_post_guid: 8516cd16bbdb873cbd736f75fd512343
+  last_post_guid: bb57cab8f6fce3c3b4cc23c8aa8625a1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

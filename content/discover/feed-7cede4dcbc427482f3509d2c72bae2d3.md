@@ -45,13 +45,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Scream Cipher
+  last_post_title: Decay Chain
   last_post_description: ""
-  last_post_date: "2025-02-21T05:00:00Z"
-  last_post_link: https://xkcd.com/3054/
+  last_post_date: "2025-04-02T04:00:00Z"
+  last_post_link: https://xkcd.com/3071/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 20ede07060b935a1256ea74d5f56630d
+  last_post_guid: e1da1e65e8eb9fdde439f663411309bb
   score_criteria:
     cats: 0
     description: 3

@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'NVDA bug: anchor links broken if they point to a parent element'
+  last_post_title: Breaking up with my X
   last_post_description: ""
-  last_post_date: "2025-02-04T00:00:00Z"
-  last_post_link: https://www.matuzo.at/blog/2025/anchor-links-nvda-bug
+  last_post_date: "2025-03-19T00:00:00Z"
+  last_post_link: https://www.matuzo.at/blog/2025/breaking-up-with-my-x
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78f0a01afbc7e0f1eef9b45b862b244c
+  last_post_guid: d7f37c26bae1c673dbd2a3dd243ac0e7
   score_criteria:
     cats: 0
     description: 3

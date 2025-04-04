@@ -1,5 +1,5 @@
 ---
-title: ᕕ( ᐛ )ᕗ Herman's blog
+title: Herman's blog
 date: "1970-01-01T00:00:00Z"
 description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and hiker
   of mountains.
@@ -42,13 +42,13 @@ params:
   - https://kevquirk.com/posts-feed
   categories: []
   relme: {}
-  last_post_title: The sound of silence
-  last_post_description: Thoughts on being in my head
-  last_post_date: "2025-02-11T07:52:00Z"
-  last_post_link: https://herman.bearblog.dev/silence/
+  last_post_title: The Great Scrape
+  last_post_description: Scraper bots are destroying the commons to feed the machine
+  last_post_date: "2025-03-26T09:02:00Z"
+  last_post_link: https://herman.bearblog.dev/the-great-scrape/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3328f916c1a9fb91d00ab8b311d72f70
+  last_post_guid: 879d6674911f067da04d600e4aaa9152
   score_criteria:
     cats: 0
     description: 3

@@ -9,6 +9,7 @@ params:
   feedid: dc980d9aad1f9ba0b37aa6950fbb02be
   websites:
     https://adactio.com/: true
+    https://adactio.com/articles: false
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
@@ -35,59 +36,33 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   - https://kandr3s.co/.rss
-  categories:
-  - control
-  - design
-  - development
-  - frontend
-  - fun
-  - indieweb
-  - joy
-  - ownership
-  - personal
-  - personality
-  - publishing
-  - websites
+  categories: []
   relme:
     https://adactio.com/: true
     https://adactio.medium.com/: true
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: This page is under construction - localghost
-  last_post_description: I see the personal website as being an antidote to the corporate,
-    centralised web. Yeah, sure, it’s probably hosted on someone else’s computer –
-    but it’s a piece of the web that belongs to
-  last_post_date: "2025-02-24T08:51:24Z"
-  last_post_link: https://localghost.dev/blog/this-page-is-under-construction/
-  last_post_categories:
-  - control
-  - design
-  - development
-  - frontend
-  - fun
-  - indieweb
-  - joy
-  - ownership
-  - personal
-  - personality
-  - publishing
-  - websites
+  last_post_title: Thursday session
+  last_post_description: Thursday session
+  last_post_date: "2025-04-03T20:25:46Z"
+  last_post_link: https://adactio.com/notes/21825
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: e902ffc9999ed25a145db6379b8f9917
+  last_post_guid: ea014d93c3bd8c6092e0fb25d8c41e5f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

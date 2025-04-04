@@ -1,6 +1,6 @@
 ---
 title: The Go Blog
-date: "2025-02-19T00:00:00Z"
+date: "2025-04-02T00:00:00Z"
 description: ""
 params:
   feedlink: https://go.dev/blog/feed.atom
@@ -35,14 +35,13 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: Testing concurrent code with testing/synctest
-  last_post_description: Go 1.24 contains an experimental package to aid in testing
-    concurrent code.
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://go.dev/blog/synctest
+  last_post_title: More predictable benchmarking with testing.B.Loop
+  last_post_description: Better benchmark looping in Go 1.24.
+  last_post_date: "2025-04-02T00:00:00Z"
+  last_post_link: https://go.dev/blog/testing-b-loop
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6b25404b6dcb82c584918d9208e9b6dd
+  last_post_guid: 004fdfc4bb7ca7f2466a6e50852a2257
   score_criteria:
     cats: 0
     description: 0

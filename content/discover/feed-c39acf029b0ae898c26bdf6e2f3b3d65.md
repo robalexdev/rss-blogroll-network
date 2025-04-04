@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2025-02-24T13:15:35Z"
+date: "2025-04-03T23:12:08Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml
@@ -20,13 +20,13 @@ params:
   - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: Speech-to-Phrase brings voice home - Voice chapter 9
+  last_post_title: 2025.4 Time to continue the dashboards!
   last_post_description: ""
-  last_post_date: "2025-02-13T00:00:01Z"
-  last_post_link: https://www.home-assistant.io/blog/2025/02/13/voice-chapter-9-speech-to-phrase/
+  last_post_date: "2025-04-02T00:00:00Z"
+  last_post_link: https://www.home-assistant.io/blog/2025/04/02/release-20254/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1de810581e72a3a8766d02e11ca060fc
+  last_post_guid: 0631da831c0c9c12c0b50da097033a67
   score_criteria:
     cats: 0
     description: 0

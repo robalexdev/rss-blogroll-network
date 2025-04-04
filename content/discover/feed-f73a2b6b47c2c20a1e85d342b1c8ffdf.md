@@ -1,6 +1,6 @@
 ---
 title: Gitea Blog Blog
-date: "2025-02-19T18:06:00Z"
+date: "2025-03-24T23:35:00Z"
 description: Gitea Blog Blog
 params:
   feedlink: https://blog.gitea.com/atom.xml

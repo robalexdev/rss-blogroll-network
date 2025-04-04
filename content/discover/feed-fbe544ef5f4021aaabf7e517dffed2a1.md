@@ -21,23 +21,23 @@ params:
   - https://jlelse.blog/index.xml
   categories:
   - Personal
-  - Reflection
+  - Social Media
   relme:
     https://chriswiegman.com/: true
     https://github.com/ChrisWiegman: true
     https://gram.social/chriswiegman: true
     https://mastodon.chriswiegman.com/@chris: true
-  last_post_title: Monday, 24 February, 2025
+  last_post_title: Rejoining the World
   last_post_description: |-
-    I kinda fell apart this past weekend and drank like I hadn’t in a very long time. I’m not too happy about that.
-    These last few weeks I feel like I’m just coming apart at the seems and it sucks.
-  last_post_date: "2025-02-24T00:00:00Z"
-  last_post_link: https://chriswiegman.com/2025/02/monday-24-february-2025/
+    I’ve been off of social media for a bit now. It’s been a much needed break from the world.
+    There are services, however, that I really do value. Services where I care about the people and the
+  last_post_date: "2025-04-02T00:00:00Z"
+  last_post_link: https://chriswiegman.com/2025/04/rejoining-the-world/
   last_post_categories:
   - Personal
-  - Reflection
+  - Social Media
   last_post_language: ""
-  last_post_guid: 0e35b78748a30d1caf64aabb2a926f91
+  last_post_guid: b6336528b59704e18d6306e1a6f28f82
   score_criteria:
     cats: 0
     description: 3

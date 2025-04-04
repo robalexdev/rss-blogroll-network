@@ -19,15 +19,16 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] It''s brave as hell'
-  last_post_description: "I'm leading with Ethan's post because it's brave as hell
-    and also incredibly prescient in the face of all of this naked, blundering avarice.
-    \nFor what it's worth, I also wrote about how to avoid"
-  last_post_date: "2025-02-20T02:25:49Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-its-brave-as-hell/
+  last_post_title: '[SC 2.4.4] Achieve pure smooth brain flow state'
+  last_post_description: |-
+    I completely spaced on sending this last night. In my defense I was trying to achieve pure smooth brain flow state by burying myself in a video game.
+
+    Listen to the first sounds ever known to be made
+  last_post_date: "2025-04-03T15:42:05Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-better-late-than-never/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 820ff84dd60bb15b4d0fadac2046b293
+  last_post_guid: 89d8dd5f0b6cd9e0ad60c1e2df078df5
   score_criteria:
     cats: 0
     description: 3

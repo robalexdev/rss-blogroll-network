@@ -26,25 +26,29 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - My Back Pages
-  - Politics
-  - family
+  - Design
+  - Websites
+  - film
   - glamorous
+  - people
   relme:
+    https://front-end.social/@zeldman: true
     https://zeldman.com/: true
-  last_post_title: Far from the bullying crowd
-  last_post_description: The bullies who beat and mocked me in eighth grade were cruel
-    and stupid. They despised intelligence and worshipped violence, although they
-    would settle for athletic ability. The school blessed their
-  last_post_date: "2025-02-14T15:11:06Z"
-  last_post_link: https://zeldman.com/2025/02/14/far-from-the-bullying-crowd/
+    https://zeldman.link/: true
+  last_post_title: Forever
+  last_post_description: The first website my colleagues and I created was for “Batman
+    Forever” (1995, d. Joel Schumacher), starring Val Kilmer. That website changed
+    my life and career. I never saw “Top Gun,” but Val
+  last_post_date: "2025-04-02T11:27:51Z"
+  last_post_link: https://zeldman.com/2025/04/02/forever/
   last_post_categories:
-  - My Back Pages
-  - Politics
-  - family
+  - Design
+  - Websites
+  - film
   - glamorous
+  - people
   last_post_language: ""
-  last_post_guid: 0c034687b909bd6115646efdb14d6bcb
+  last_post_guid: 64ae2efdc5fd7b583c81b64cb0a8745e
   score_criteria:
     cats: 0
     description: 3

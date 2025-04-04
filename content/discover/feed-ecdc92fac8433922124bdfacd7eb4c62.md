@@ -16,6 +16,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: RSS Feeds for all Robb Knight's Blogroll
+    description: ""
+    id: 6a72507ba2e935838f624759bf29fde4
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
@@ -23,6 +26,7 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
+  - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme: {}
   last_post_title: Live music

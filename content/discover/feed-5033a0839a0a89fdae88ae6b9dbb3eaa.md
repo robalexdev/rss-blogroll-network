@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-02-22T17:25:42Z"
+date: "2025-04-03T18:25:35Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -39,16 +39,16 @@ params:
     https://anniemueller.com/: true
     https://github.com/anniemueller: true
     https://social.lol/@annie: true
-  last_post_title: I’m glad I was married, and I’m grateful to not be married anymore
+  last_post_title: 'Reading notes: March 2025'
   last_post_description: |-
-    I started writing a comment in reply to Derek Sivers’ latest article. After the 3rd paragraph I realized it was a blog post, not a comment. So here it is. 
+    What I read about last month: Mysteries in the woods! Stories! Kind-of-not-really pirates! Ireland! Friendship! And saying no!
 
-    “Some...
-  last_post_date: "2025-02-22T17:25:50Z"
-  last_post_link: https://anniemueller.com/posts/im-glad-i-was-married-and-im-grateful-to-not-be-married-anymore
+    In the Woods by Tana French Gorgeous writing. Good plotting. It
+  last_post_date: "2025-04-03T18:32:43Z"
+  last_post_link: https://anniemueller.com/posts/reading-notes-march-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c654d1579a9072c535eeb69450cd364
+  last_post_guid: 831a60d65732215cd16ab8134368f857
   score_criteria:
     cats: 0
     description: 0

@@ -18,17 +18,15 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Death by Scrolling
+  last_post_title: April Fools' 2025
   last_post_description: |-
-    First screen shot from my new game called Death by Scrolling.
-
-
-    I started working on this game back in 2019. It started out great and everybody I showed it to loved it, but it was simple. Everyone
-  last_post_date: "2025-02-02T00:00:00Z"
-  last_post_link: https://grumpygamer.com/deathbyscrolling/
+    Going on n+1 years, I proclaim grumpygamer.com to be 100% April Fools’ Day joke free.
+    I realized that I lost a large chunk of the early April Fools’ posts due to moving content from one back-end
+  last_post_date: "2025-04-01T00:00:00Z"
+  last_post_link: https://grumpygamer.com/april_fools_2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4964b5b4b364d3ee431acd405462ae4f
+  last_post_guid: 548b4ce649e64d65cc97e74852ae6610
   score_criteria:
     cats: 0
     description: 3

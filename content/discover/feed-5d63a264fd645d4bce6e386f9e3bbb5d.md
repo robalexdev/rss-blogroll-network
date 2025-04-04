@@ -175,6 +175,7 @@ params:
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
+  - https://notiz.blog/type/chat/feed/
   - https://notiz.blog/type/gallery/feed/
   - https://notiz.blog/type/image/feed/
   - https://notiz.blog/type/link/feed/

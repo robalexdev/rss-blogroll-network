@@ -22,14 +22,15 @@ params:
   relme:
     https://ashfurrow.com/: true
     https://github.com/ashfurrow: true
-  last_post_title: Personal Timeline
-  last_post_description: This week at work, I'm participating in a group event where
-    we share personal timelines of ourselves, to get to know each other better. I…
-  last_post_date: "2025-02-18T00:00:00Z"
-  last_post_link: https://ashfurrow.com/blog/personal-timeline/
+  last_post_title: Tarmak
+  last_post_description: My  keyboard rabbit hole  has inevitably brought me to the
+    world of alternate keyboard layouts. While I briefly used Dvorak in university,
+    I…
+  last_post_date: "2025-03-02T00:00:00Z"
+  last_post_link: https://ashfurrow.com/blog/tarmak/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 35ea9953c924a78b66966e189d11c24c
+  last_post_guid: 0426a990d5085e14bc558a8e339b3e78
   score_criteria:
     cats: 0
     description: 3

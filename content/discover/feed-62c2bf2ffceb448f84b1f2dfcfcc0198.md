@@ -1,6 +1,6 @@
 ---
 title: tempertemper
-date: "2025-02-23T00:00:00Z"
+date: "2025-03-22T00:00:00Z"
 description: Articles on user experience design and frontend web development
 params:
   feedlink: https://www.tempertemper.net/feeds/main.xml
@@ -17,14 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Skip links: what, why, and how'
-  last_post_description: Ever noticed one of those “Skip to main content” links when
-    you press the tab key? They’re important.
-  last_post_date: "2025-02-23T00:00:00Z"
-  last_post_link: https://www.tempertemper.net/blog/skip-links-what-why-and-how
+  last_post_title: How navigation should work for keyboard users
+  last_post_description: The web is a network of pages that are linked together, with
+    those links often grouped in a navigation. Here’s how keyboard users traverse
+    navigation.
+  last_post_date: "2025-03-22T00:00:00Z"
+  last_post_link: https://www.tempertemper.net/blog/how-navigation-should-work-for-keyboard-users
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 99476de259060aa93f271300aab1f223
+  last_post_guid: f343c7bd113aaba86de5f103f04382b7
   score_criteria:
     cats: 0
     description: 3

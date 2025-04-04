@@ -17,15 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Hosting IndieWeb SF Brunch 3!
-  last_post_description: "RSVP'd yes to \U0001F373\U0001F95E IndieWeb SF Brunch #3
-    This Sunday 23 February 2025, I am hosting IndieWeb SF Brunch #3 with Tantek!
-    If you happen to be in the San…"
-  last_post_date: "2025-02-23T20:29:50-08:00"
-  last_post_link: https://lifeofpablo.com/blog/hosting-indieweb-sf-brunch-3
+  last_post_title: Blog
+  last_post_description: Blog
+  last_post_date: "2025-03-22T13:33:32-07:00"
+  last_post_link: https://lifeofpablo.com/blog/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 160b12d0c4c13c6f8f46e9fef0984540
+  last_post_guid: 366180bdc4db6dd725391de184979e76
   score_criteria:
     cats: 0
     description: 3

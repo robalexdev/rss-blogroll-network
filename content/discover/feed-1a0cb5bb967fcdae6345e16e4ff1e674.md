@@ -1,6 +1,6 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2025-02-20T13:40:00Z"
+date: "2025-03-12T16:37:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
@@ -36,14 +36,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: 'How to Make an Audioblog: A Guide Written by an Anxious Moron
-    Haunted by Imposter Syndrome'
+  last_post_title: The real emotional intelligence is the people we beat up in our
+    heads along the way
   last_post_description: ""
-  last_post_date: "2025-02-20T13:40:00Z"
-  last_post_link: https://gkeenan.co/avgb/how-to-make-an-audioblog/
+  last_post_date: "2025-03-12T16:37:00Z"
+  last_post_link: https://gkeenan.co/avgb/the-real-emotional-intelligence-is-the-people-we-beat-up-in-our-heads-along-the-way/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5c2e0030a441cadacfbdcdd678de8ff7
+  last_post_guid: b802b494ebb0e06496373a7bc2f58ef6
   score_criteria:
     cats: 0
     description: 3

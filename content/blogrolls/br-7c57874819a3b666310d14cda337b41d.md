@@ -87,7 +87,7 @@ params:
   - title: Al Abut
     description: Writing by Al Abut, a product designer and startup veteran.
     id: 904c82c30c74ce67c472e02addbc47fb
-  - title: Manuel Moreale RSS Feed
+  - title: Manuel Moreale
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
     id: 9417e92ed42b42a9df3959016838f82d

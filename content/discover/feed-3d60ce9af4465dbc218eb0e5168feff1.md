@@ -1,6 +1,6 @@
 ---
 title: chriskirknielsen
-date: "2024-05-03T00:00:00Z"
+date: "2025-03-29T00:00:00Z"
 description: A creative developer
 params:
   feedlink: https://chriskirknielsen.com/rss.xml
@@ -8,8 +8,7 @@ params:
   feedid: 3d60ce9af4465dbc218eb0e5168feff1
   websites:
     https://chriskirknielsen.com/: false
-    https://chriskirknielsen.com/designs: false
-    https://chriskirknielsen.com/webring/: false
+    https://chriskirknielsen.com/designs/: false
   blogrolls: []
   in_blogrolls:
   - title: Feeds for cssjoy webri.ng
@@ -19,26 +18,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Leveraging APIs like Notion with a nice caching system
+  last_post_title: Some thoughts on the item-flow proposal
   last_post_description: ""
-  last_post_date: "2024-05-03T03:00:00Z"
-  last_post_link: https://chriskirknielsen.com/blog/leverage-api-like-notion-with-cache/
+  last_post_date: "2025-03-29T00:00:00Z"
+  last_post_link: https://chriskirknielsen.com/blog/thoughts-on-item-flow-proposal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c91c58e50e62000d071db9133d878130
+  last_post_guid: 11bf9b0c22c0b9ee56f36a6f57c1c60e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 12
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 36
+  avgpostlen: 210
 ---

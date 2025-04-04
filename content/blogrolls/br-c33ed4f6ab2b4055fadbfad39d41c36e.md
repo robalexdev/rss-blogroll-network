@@ -42,6 +42,9 @@ params:
   - title: Dr. Adam Procter
     description: ""
     id: 9dcd84ddd111273253de8f38cf4640e7
+  - title: blog
+    description: ""
+    id: b8bd864bae01985327bc8ddcbb1e97d7
   - title: Rhys Wynne
     description: The personal blog of Rhys Wynne, a WordPress freelancer based in
       Newton-le-Willows, England.

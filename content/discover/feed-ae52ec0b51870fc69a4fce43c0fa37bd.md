@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Grief Is Not A Casual Thing
+  last_post_title: No Words
   last_post_description: ""
-  last_post_date: "2025-01-11T00:00:00Z"
-  last_post_link: https://lindsaykwardell.com/blog/grief-is-not-a-casual-thing/
+  last_post_date: "2025-02-02T00:00:00Z"
+  last_post_link: https://lindsaykwardell.com/blog/no-words/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b07359e209ad848ccedfd7015c6d93a
+  last_post_guid: ec4da4a9b70dae72bfb5572e28618619
   score_criteria:
     cats: 0
     description: 3

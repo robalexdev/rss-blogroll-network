@@ -151,7 +151,7 @@ params:
   - title: Marius Schulz
     description: Marius Schulz on web development, modern JavaScript, and TypeScript.
     id: 6f1ddc05efd4806ab8f4053369209469
-  - title: ᕕ( ᐛ )ᕗ Herman's blog
+  - title: Herman's blog
     description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
       hiker of mountains.
     id: 70bd2cb4aea08909cfd5279c3cac3d23
@@ -205,7 +205,7 @@ params:
     description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At
       The Moon
     id: 92d88f2edab0b8aa31f9169c372e7245
-  - title: Manuel Moreale RSS Feed
+  - title: Manuel Moreale
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
     id: 9417e92ed42b42a9df3959016838f82d

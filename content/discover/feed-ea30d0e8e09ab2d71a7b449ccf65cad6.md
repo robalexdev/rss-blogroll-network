@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2025-02-13T09:57:00Z"
+date: "2025-03-05T16:05:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Don't start testing accessibility with a screen reader
+  last_post_title: Tactile indicators for installing and connecting devices
   last_post_description: ""
-  last_post_date: "2025-02-13T09:57:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/dont-test-accessibility-with-a-screen-reader/
+  last_post_date: "2025-03-05T16:05:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/tactile-indicators-for-installing-and-connecting-devices/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1c76b89f01de97f2a8a10068b4628789
+  last_post_guid: 7d04aa9d5c51d59bc278206582138dbf
   score_criteria:
     cats: 0
     description: 3

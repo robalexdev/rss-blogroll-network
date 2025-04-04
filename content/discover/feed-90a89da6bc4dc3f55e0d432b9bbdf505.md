@@ -9,12 +9,16 @@ params:
   feedid: 90a89da6bc4dc3f55e0d432b9bbdf505
   websites:
     https://adactio.com/: false
+    https://adactio.com/articles: false
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: A list of sites Ethan likes
+    description: ""
+    id: 796603efcff00ba474bbbd88e566b727
   - title: QuiteRSS
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
@@ -24,46 +28,33 @@ params:
   - https://philwilson.org/blog/feed
   - https://philwilson.org/blog/feed/atom/
   categories:
-  - apps
-  - browsers
-  - business
-  - culture
-  - design
-  - development
-  - expectations
-  - frontend
-  - mobile
-  - native
-  - performance
-  - standards
-  - ux
-  - web
+  - "2020"
+  - blogging
+  - coronavirus
+  - covid-19
+  - lockdown
+  - pandemic
+  - sharing
+  - writing
   relme: {}
-  last_post_title: The web on mobile
+  last_post_title: Five years
   last_post_description: |-
-    Here’s a post outlining all the great things you can do in mobile web browsers today: Your App Should Have Been A Website (And Probably Your Game Too):
+    My favourite bit of the archive on this site is the link that says “on this day”. It’s of no interest to anyone except me, but I love going through this little time tunnel.
 
-
-      Today’s browsers are powerhouses.
-  last_post_date: "2025-02-19T15:31:07Z"
-  last_post_link: https://adactio.com/journal/21728
+    Using that link
+  last_post_date: "2025-03-23T14:05:00Z"
+  last_post_link: https://adactio.com/journal/21811
   last_post_categories:
-  - apps
-  - browsers
-  - business
-  - culture
-  - design
-  - development
-  - expectations
-  - frontend
-  - mobile
-  - native
-  - performance
-  - standards
-  - ux
-  - web
+  - "2020"
+  - blogging
+  - coronavirus
+  - covid-19
+  - lockdown
+  - pandemic
+  - sharing
+  - writing
   last_post_language: ""
-  last_post_guid: bdb5bf153b44e7d83f844ef89169ef1d
+  last_post_guid: 540221b82ceee80bc9d8c10260d8e021
   score_criteria:
     cats: 0
     description: 3

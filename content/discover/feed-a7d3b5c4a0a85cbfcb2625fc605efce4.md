@@ -39,27 +39,29 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - RSS
-  - WCAG
+  - ARIA
+  - Web
   - accessibility
-  - rant
+  - html
   - standards
+  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: '1.4.10: Adversarial Conformance'
-  last_post_description: This post is part of RSS Club, rewarding those who still
-    use RSS to read and/or share content. These posts are embargoed from my regular
-    post feed and the socials for an arbitrary period of time. You
-  last_post_date: "2025-02-23T20:57:39Z"
-  last_post_link: https://adrianroselli.com/2025/02/1-4-10-adversarial-conformance.html
+  last_post_title: Mainlining Mains
+  last_post_description: Sometimes you run into a main landmark where you don’t expect
+    one. Like Main Street USA in Hong Kong Disney. So you grab a snack in a diner
+    that serves no hot dogs. You can buy little American
+  last_post_date: "2025-04-03T20:20:31Z"
+  last_post_link: https://adrianroselli.com/2025/04/mainlining-mains.html
   last_post_categories:
-  - RSS
-  - WCAG
+  - ARIA
+  - Web
   - accessibility
-  - rant
+  - html
   - standards
+  - usability
   last_post_language: ""
-  last_post_guid: de7a1f8e25ddea43c187a84a703db613
+  last_post_guid: 230cb0c185b057bbcd61a33f1d05daed
   score_criteria:
     cats: 0
     description: 3

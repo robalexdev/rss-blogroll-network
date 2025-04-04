@@ -1,6 +1,6 @@
 ---
 title: mark nottingham
-date: "2025-02-19T08:19:59Z"
+date: "2025-03-25T14:00:55Z"
 description: ""
 params:
   feedlink: https://www.mnot.net/blog/index.atom

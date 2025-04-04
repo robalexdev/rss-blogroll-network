@@ -27,15 +27,15 @@ params:
   - https://joeross.micro.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Against Entropy
-  last_post_description: What I want is a transparent model of the kinds of harms
-    that are likely to fall onto which brains and bodies when someone swings a wrecking
-    ball through the governmental institutions that do work
-  last_post_date: "2025-02-11T00:00:00Z"
-  last_post_link: https://erinkissane.com/against-entropy
+  last_post_title: ATConf
+  last_post_description: This is a reference page for “People in Protocols,” a talk
+    I gave (remotely) on March 23, 2025 at the first ATmosphere Conference in Seattle.
+    Right now, it contains citations and further reading,
+  last_post_date: "2025-03-23T00:00:00Z"
+  last_post_link: https://erinkissane.com/atconf
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e5943e4cac1e17af16666ae029c9326e
+  last_post_guid: 275b828693e127ddb7fbfec44cd24b53
   score_criteria:
     cats: 0
     description: 3

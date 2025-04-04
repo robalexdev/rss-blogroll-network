@@ -26,9 +26,9 @@ params:
     https://frills.dev/: true
     https://frills.omg.lol/: true
     https://indieweb.social/@frills: true
-  last_post_title: 24 Feb 2025
+  last_post_title: Microblog
   last_post_description: ""
-  last_post_date: "2025-02-24T13:22:18Z"
+  last_post_date: "2025-04-03T13:24:37Z"
   last_post_link: https://frills.dev/status/microblog/
   last_post_categories: []
   last_post_language: ""

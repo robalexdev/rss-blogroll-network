@@ -11,6 +11,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: A list of sites Ethan likes
+    description: ""
+    id: 796603efcff00ba474bbbd88e566b727
   - title: ""
     description: ""
     id: 4e2ec23ac536a5d58f2702b4603e3554
@@ -29,16 +32,16 @@ params:
   categories:
   - mn&n
   relme: {}
-  last_post_title: Month notes & numbers №11
-  last_post_description: |-
-    Notable
-    Extremely offline could be the theme for this month. While some Australians like to follow find the news coming out of the USA for entertainment or even to satisfy some kind of morbid
-  last_post_date: "2025-02-01T20:30:00Z"
-  last_post_link: https://rachsmith.com/mnnm-11/
+  last_post_title: Month notes & numbers №13
+  last_post_description: "The latter half of this month was ruined by me catching
+    Covid (my second time). Boooooooo. \nNotable\nIt was looking like my town was
+    going to be hit by a cyclone at the start of the month. Thankfully,"
+  last_post_date: "2025-03-30T20:17:00Z"
+  last_post_link: https://rachsmith.com/mnnm-13/
   last_post_categories:
   - mn&n
   last_post_language: ""
-  last_post_guid: 11b3a56abf1bb9ae52072c8fb30cb765
+  last_post_guid: a8d5c95632798b48964ad65a4c3859e6
   score_criteria:
     cats: 0
     description: 3
