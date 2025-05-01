@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: f55ad40ed986ccbf4cb4138da37e3edb
   websites:
-    https://blogs.scummvm.org/hax0kartik: true
     https://blogs.scummvm.org/hax0kartik/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 1
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

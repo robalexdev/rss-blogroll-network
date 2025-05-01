@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-02-18T00:00:00+01:00"
+date: "2025-04-07T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,16 +19,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: Simple AI tools
-  last_post_description: Last week over lunch, Pedro was telling me how he uses Perplexity
-    to improve the way he searches around the web. He mentioned we're entering a phase
-    where we have at least 20 'AI' tools to boost our
-  last_post_date: "2025-02-18T00:00:00+01:00"
-  last_post_link: https://duarteocarmo.com/blog/simple-ai-tools.html
+  last_post_title: 'Taralli: Home-Cooked Food Tracking Without the BS'
+  last_post_description: |-
+    For years, I never really cared about what I ate, how much I ate, or when I ate it.
+    But sometime late last year, I finally decided to listen to Vitto. I started noticing that what I eat actually had
+  last_post_date: "2025-04-07T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/taralli-home-cooked-food-tracking-without-the-bs.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: dbb26096756ab240926faae3f3e9aad2
+  last_post_guid: 690e9e4deba3f6d1b0373caa28eeec03
   score_criteria:
     cats: 0
     description: 0
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 59
-  avgpostlen: 265
+  avgpostlen: 266
 ---

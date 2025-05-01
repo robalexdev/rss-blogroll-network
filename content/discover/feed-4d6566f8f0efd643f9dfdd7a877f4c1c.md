@@ -18,17 +18,18 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: Chatting with the Designer of MonoLisa
+  last_post_title: 'Status Update: March 2025'
   last_post_description: |-
-    In the last post, we investigated the process of
-    shaping ligatures for monospace fonts. This ended up being quite surprising if
-    also fairly straightforward.
-    The font I used in that post was MonoLisa,
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://joshleeb.com/posts/monolisa-chat.html
+    Gâ€™day!
+    Continuing from last month, the goal for March was to complete the text
+    styling implementation for Tera. Thankfully I can now say this is done, or at
+    least done enough.
+    Figure 1 shows
+  last_post_date: "2025-03-31T00:00:00Z"
+  last_post_link: https://joshleeb.com/posts/status-update-2025-mar.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 934a89f9c2689f9529846eb465edce7b
+  last_post_guid: bf274fe1542ad6741159062ee15d24c1
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 27
+  postcount: 29
   avgpostlen: 0
 ---

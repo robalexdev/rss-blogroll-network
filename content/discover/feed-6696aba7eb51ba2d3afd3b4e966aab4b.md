@@ -1,6 +1,6 @@
 ---
 title: Information Technology and Libraries
-date: "2024-12-16T05:36:25-08:00"
+date: "2025-03-17T11:54:31-07:00"
 description: Information Technology and Libraries publishes material related to all
   aspects of information technology in all types of libraries. For consideration,
   articles must be related to both technology AND
@@ -18,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Letter from the Editors
-  last_post_description: Welcome to the December 2024 issue of Information Technology
-    and Libraries. In addition to highlights from the current issue, our letter from
-    the editor provides updates about our revised editorial
-  last_post_date: "2024-12-16T00:00:00-08:00"
-  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17334
+  last_post_title: Intergenerationally Accessible Makerspaces
+  last_post_description: When envisioning a high-tech makerspace, you might first
+    think about younger customers; however, since opening in December 2021, Carroll
+    County Public Library’s Exploration Commons at 50 East has
+  last_post_date: "2025-03-17T00:00:00-07:00"
+  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17385
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 121eac96d949cdf804b5fc3f12fd8581
+  last_post_guid: edb3e720fb9bbc68a4e92bf721a65391
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 8
   avgpostlen: 0
 ---

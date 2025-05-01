@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-02-17T22:01:22+01:00"
+date: "2025-04-21T12:01:13+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -16,35 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - esr
+  - audio
+  - blockchain
   relme:
+    https://github.com/p4bl0-: true
+    https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
-  last_post_title: Avis défavorable pour l'HCERES !
-  last_post_description: |-
-    Rapport de rapports d'évaluation HCERES
-
-    Présentation de l'institution
-
-    HCERES est l'acronyme de « Horde de collabos et d'emmerdeurs de la recherche et de l'enseignement supérieur ». C'est
-  last_post_date: "2025-02-17T19:17:00+01:00"
-  last_post_link: https://p4bl0.net/post/2025/02/Avis-defavorable-pour-l-HCERES
+    https://pablo.plus/: true
+    https://pablockchain.fr/: true
+  last_post_title: 'La Cantine numérique de Brest : Se libérer de la blockchain'
+  last_post_description: Soixante-troisième épisode du podcast de la Cantine numérique
+    de Brest. Pablo Rauzy, maître de conférences en informatique à l’Université Paris
+    VIII (laboratoire Pastis – Projet Géode)
+  last_post_date: "2025-04-21T13:12:00+02:00"
+  last_post_link: https://p4bl0.net/post/2025/04/La-Cantine-numerique-de-Brest-Se-liberer-de-la-blockchain
   last_post_categories:
-  - esr
+  - audio
+  - blockchain
   last_post_language: ""
-  last_post_guid: 1f6007d04859d95c79eb25a0a111fee9
+  last_post_guid: 78448d352620bc26199765ba22aeceda
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

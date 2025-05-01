@@ -25,7 +25,11 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme:
+    https://github.com/paultag: true
+    https://k3xec.com/: true
     https://notes.pault.ag/: true
+    https://pault.ag/: true
+    https://soylent.green/@paul: true
   last_post_title: boot2kier
   last_post_description: |-
     I can’t remember exactly the joke I was making at the time in my
@@ -53,6 +57,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 17
+  postcount: 18
   avgpostlen: 0
 ---

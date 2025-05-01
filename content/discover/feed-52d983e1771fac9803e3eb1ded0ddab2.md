@@ -1,6 +1,6 @@
 ---
 title: Eclipse, Java and all that JAZZ!
-date: "2025-02-07T14:25:38+05:30"
+date: "2025-03-27T00:45:01+05:30"
 description: This blog is about the open world of Eclipse, Jazz and related technologies.
   Its about new stuff coming your way, old stuff you didn't know existed or simply
   stuff that we talk about as we enter a

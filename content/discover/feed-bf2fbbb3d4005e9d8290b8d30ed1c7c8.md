@@ -1,6 +1,6 @@
 ---
 title: The LibraryThing Blog
-date: "2025-02-18T15:10:31Z"
+date: "2025-04-15T14:15:14Z"
 description: ""
 params:
   feedlink: https://blog.librarything.com/feed/atom/
@@ -18,17 +18,17 @@ params:
   - author interview
   - interview
   relme: {}
-  last_post_title: 'Author Interview: Rosanne Limoncelli'
-  last_post_description: LibraryThing is pleased to sit down this month with filmmaker
-    and author Rosanne Limoncelli, the Senior Director for Film Technologies at the
-    Kanbar Institute and at the Martin Scorsese Virtual
-  last_post_date: "2025-02-18T15:10:31Z"
-  last_post_link: https://blog.librarything.com/2025/02/author-interview-rosanne-limoncelli/
+  last_post_title: 'Author Interview: Blair Fell'
+  last_post_description: LibraryThing is pleased to sit down this month with screenwriter,
+    playwright and novelist Blair Fell, two-time winner of the Doris Lippman Prize
+    in Creative Writing from the City University of New
+  last_post_date: "2025-04-15T14:15:14Z"
+  last_post_link: https://blog.librarything.com/2025/04/author-interview-blair-fell/
   last_post_categories:
   - author interview
   - interview
   last_post_language: ""
-  last_post_guid: 3fa966742318bd74216904e03d1ddd59
+  last_post_guid: 0df5614fe27d4d6fee602c8121de73dc
   score_criteria:
     cats: 0
     description: 0

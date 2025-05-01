@@ -1,6 +1,6 @@
 ---
 title: dr4k0nia
-date: "2023-05-22T20:09:51Z"
+date: "2025-03-03T21:32:25Z"
 description: .NET reverse-engineering and development focussing on obfuscation/deobfuscation
 params:
   feedlink: https://dr4k0nia.github.io/feed

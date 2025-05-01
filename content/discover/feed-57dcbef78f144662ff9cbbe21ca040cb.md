@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2025-02-23T13:14:34Z"
+date: "2025-04-20T12:47:00Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -18,14 +18,18 @@ params:
   categories:
   - LLM
   relme: {}
-  last_post_title: 使用 LM Studio 在本地部署 Deepseek-R1 的蒸馏版大模型
-  last_post_description: deepseek-v3 和 deepseek-r1
-  last_post_date: "2025-02-23T13:14:34Z"
-  last_post_link: https://nicksxs.me/2025/02/23/%E4%BD%BF%E7%94%A8-LM-Studio-%E5%9C%A8%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2-Deepseek-%E5%A4%A7%E6%A8%A1%E5%9E%8B/
+  last_post_title: 来个openmanus的浅入门
+  last_post_description: !!binary |
+    5YmN6Zi15a2Q5LiA5LiqbWFudXPlnKjnm67liY3nmoTmiYDosJPkurrlt6Xmmbrog73lnI
+    jlrZDph4znlJroh7Pmma7pgJrkurrop4bph47ph4zpg73lvojngavkuobvvIzlrqPnp7Dm
+    mK/ku4DkuYjkuK3lm73nmoTkuIvkuIDkuKpkZWVwc2Vla+aXtuWIu++8jOmmluWFiGRlZX
+    BzZWVr5piv57uP6L+H5LqGdjHvvIx2MuetieS4gOezu+WIl+eJiOacrOc=
+  last_post_date: "2025-04-20T12:47:00Z"
+  last_post_link: https://nicksxs.me/2025/04/20/%E6%9D%A5%E4%B8%AAopenmanus%E7%9A%84%E6%B5%85%E5%85%A5%E9%97%A8/
   last_post_categories:
   - LLM
   last_post_language: ""
-  last_post_guid: ee72a930da6a778c26f2a9000dcbcde3
+  last_post_guid: d13cd60feff06e8cc55739fb0dc12b35
   score_criteria:
     cats: 0
     description: 3

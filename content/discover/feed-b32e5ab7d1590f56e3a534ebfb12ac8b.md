@@ -17,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 写在28岁提前退休的两年之后
+  last_post_title: 佛教传入之前的中国哲学两大源头
   last_post_description: !!binary |
-    5ryr6ZW/55qE5Lik5bm057uI5LqO6L+H5Y675LqG44CCCjI45bKB5YmN55qE6K6w5b+G77
-    yM5aW95YOP44CK6ZWc6Iqx57yY44CL6YeM55qE5LiA5Zy65qKm44CCCjI45bKB5Lu/5L2b
-    5oiR55qE5paw55Sf77yM6ICM5LmL5ZCO55qE6L+Z5Lik5bm05q+U5LmL5YmN55qE5LqM5Y
-    2B5YWr5bm06YO96KaB5ryr6ZW/44CCCumAgOWJjemAgOS8keWQjueahOQ=
-  last_post_date: "2024-03-17T00:00:00Z"
-  last_post_link: https://changshiban.com/written-2-years-after-retiring-early-at-the-age-of-28/
+    5a+55LqO5Lit5Zu95p2l6K+077yM5Zyo5L2b5pWZ77yI5Y+K5YW25pC65bim55qE5Y2w5b
+    qm5ZOy5a2m77yJ5Lyg5YWl5Lit5Zu95LmL5YmN77yM5Lit5Zu95ZOy5a2m55qE5Li76KaB
+    5YaF5a655pyJ6YGT5a6244CB5ZCN5a6244CB6Zi06Ziz5a6244CCCuS9huS4reWbveeahO
+    WTsuWtpuWPr+S7pei/vea6r+WIsOabtOS5he+8jOS4u+imgeWGheWuueY=
+  last_post_date: "2025-04-13T00:00:00Z"
+  last_post_link: https://changshiban.com/two-sources-of-chinese-philosophy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 79e77a4d0ada0f8dc96a59defe16ffb5
+  last_post_guid: 80d64fc74d574312912880ebafa5e0d2
   score_criteria:
     cats: 0
     description: 3

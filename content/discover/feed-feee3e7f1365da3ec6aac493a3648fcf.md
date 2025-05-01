@@ -1,5 +1,5 @@
 ---
-title: nhandler.github.io - Ubuntu
+title: Nathan Handler - Ubuntu
 date: "1970-01-01T00:00:00Z"
 description: Posts categorized as 'Ubuntu'
 params:

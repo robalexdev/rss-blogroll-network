@@ -1,13 +1,13 @@
 ---
 title: Wen.onweb
-date: "2024-11-19T00:00:00Z"
+date: "2025-04-22T00:00:00Z"
 description: Sofware and Development
 params:
   feedlink: https://melissawen.github.io/feed.xml
   feedtype: rss
   feedid: ac45f49f2ffb39f042bf978f8536cdfe
   websites:
-    https://melissawen.github.io/: true
+    https://melissawen.github.io/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -16,18 +16,17 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://melissawen.github.io/: true
-  last_post_title: 'Display/KMS Meeting at XDC 2024: Detailed Report'
+  relme: {}
+  last_post_title: '2025 FOSDEM: Don''t let your motivation go, save time with kworkflow'
   last_post_description: |-
-    XDC 2024 in Montreal was another fantastic gathering for the Linux Graphics
-    community. It was again a great time to immerse in the world of graphics
-    development, engage in stimulating conversations,
-  last_post_date: "2024-11-19T13:00:00Z"
-  last_post_link: https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024
+    2025 was my first year at FOSDEM, and I can say it was an incredible experience
+    where I met many colleagues from Igalia who live around
+    the world, and also many friends from the Linux display stack
+  last_post_date: "2025-04-22T20:30:00+01:00"
+  last_post_link: https://melissawen.github.io/blog/2025/04/22/fosdem-2025-kernel-devroom-kworkflow-talk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 972ee856ae662ff368fea3ca01b7328c
+  last_post_guid: f22db841a34be203096bf266ba5e3b5d
   score_criteria:
     cats: 0
     description: 3
@@ -37,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

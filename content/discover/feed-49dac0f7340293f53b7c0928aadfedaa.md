@@ -1,6 +1,6 @@
 ---
 title: Talk Python To Me
-date: "2025-02-21T00:00:00-08:00"
+date: "2025-04-21T00:00:00-08:00"
 description: Talk Python to Me is a weekly podcast hosted by developer and entrepreneur
   Michael Kennedy. We dive deep into the popular packages and software developers,
   data scientists, and incredible hobbyists
@@ -21,23 +21,22 @@ params:
   - Technology
   relme:
     https://talkpython.fm/: true
-  last_post_title: '#494: Update on Flet: Python + Flutter UIs'
+  last_post_title: '#502: Django Ledger: Accounting with Python'
   last_post_description: |-
-    Flet: flet.dev
-    Flet on Github: github.com
-    Packaging apps with Flet: flet.dev/docs/publish
+    Miguel Sanda on Twitter: @elarroba
+    Miguel on Mastodon: @elarroba@fosstodon.org
+    Miguel on GitHub: github.com
 
-    Flutter: flutter.dev
-    React vs. Flutter: trends.stackoverflow.co
-    Kivy: kivy.org
-    Beeware: beeware.org
-    Mobile
-  last_post_date: "2025-02-21T00:00:00-08:00"
-  last_post_link: https://talkpython.fm/episodes/show/494/update-on-flet-python-flutter-uis
+    Django Ledger on Github: github.com
+    Django Ledger Discord: discord.gg
+
+    Get Started with
+  last_post_date: "2025-04-21T00:00:00-08:00"
+  last_post_link: https://talkpython.fm/episodes/show/502/django-ledger-accounting-with-python
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: 9dd45d5d9408c2f698f27d232dfb604a
+  last_post_guid: f4a3a0de07518dc541c3bfe790378349
   score_criteria:
     cats: 1
     description: 3
@@ -55,6 +54,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 490
+  postcount: 501
   avgpostlen: 0
 ---

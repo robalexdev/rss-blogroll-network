@@ -20,18 +20,19 @@ params:
   - ipu6
   - kernel
   relme: {}
-  last_post_title: IPU6 camera support status update
-  last_post_description: I have been working on making the camera work on more laptop
-    models. After receiving and sending many emails and blog post comments about this
-    I have started filing Fedora bugzilla issues on a per
-  last_post_date: "2025-01-14T14:21:40Z"
-  last_post_link: https://hansdegoede.dreamwidth.org/29233.html
+  last_post_title: ThinkPad X1 Carbon Gen 12 camera support and other IPU6 camera
+    work
+  last_post_description: I have been working on getting the camera on the ThinkPad
+    X1 Carbon Gen 12 to work under Fedora.This requires 3 things:Some ov08x40 sensor
+    patches, these are available as downstream cherry-picks in
+  last_post_date: "2025-02-24T14:42:04Z"
+  last_post_link: https://hansdegoede.dreamwidth.org/29477.html
   last_post_categories:
   - fedora
   - ipu6
   - kernel
   last_post_language: ""
-  last_post_guid: ca33091f2e524f1b9d074feb8db359e1
+  last_post_guid: 4f37e1fb88783ef4d96776ae0e624b55
   score_criteria:
     cats: 0
     description: 3
@@ -49,6 +50,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 13
+  postcount: 14
   avgpostlen: 0
 ---

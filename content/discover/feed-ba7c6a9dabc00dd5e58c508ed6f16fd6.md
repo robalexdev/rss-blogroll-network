@@ -17,15 +17,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'Trimble Cityworks: CVE-2025-0994'
-  last_post_description: Learn about CVE-2025-0994 affecting Trimble Cityworks products.
-    Patch now to prevent remote code execution.
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://www.recordedfuture.com/blog/trimble-cityworks-cve-2025-0994-vulnerability-analysis
+  last_post_title: Introducing the refreshed Recorded Future brand
+  last_post_description: Learn how Recorded Future's brand refresh, powered by AI
+    and actionable threat intelligence, helps teams evolve with the next generation
+    of cybersecurity.
+  last_post_date: "2025-04-16T00:00:00Z"
+  last_post_link: https://www.recordedfuture.com/blog/introducing-refreshed-recorded-future-brand
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: d3baeca6ff8f68de64717b67098450ca
+  last_post_guid: fd7de2e648e2d535d79f4e43c0981cc7
   score_criteria:
     cats: 0
     description: 3

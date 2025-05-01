@@ -17,16 +17,17 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'GeoNode Cloud: Presentación oficial'
-  last_post_description: "\U0001F310 ¡Ha llegado el momento! Presentamos GeoNode Cloud,
-    la plataforma en la nube que transforma la gestión de datos geoespaciales. \U0001F389
-    ✅ Sin necesidad de infraestructura interna.✅ Escalable y"
-  last_post_date: "2024-12-18T15:43:12Z"
-  last_post_link: https://kan.com.ar/geonode-cloud-presentacion-oficial/
+  last_post_title: UP42 y Kan Territory se unen para simplificar el acceso a datos
+    de observación terrestre
+  last_post_description: Muchos artículos hablan sobre cómo desbloquear el potencial
+    completo de los datos de observación terrestre, y especialistas en geoespacial
+    trabajan arduamente en todo el mundo para mejorar su
+  last_post_date: "2025-02-27T19:27:00Z"
+  last_post_link: https://kan.com.ar/up42-y-kan-territory-se-unen-para-simplificar-el-acceso-a-datos-https-github-com-kan-t-it-qgis-kica-de-observacion-terrestre/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 4a2f21e8e971cbd3d9d8ab9db6570dce
+  last_post_guid: ef8ff5185322ddffecc2d4067e518e17
   score_criteria:
     cats: 0
     description: 3

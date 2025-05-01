@@ -1,6 +1,6 @@
 ---
 title: Coder's Log
-date: "2025-01-04T02:22:17-08:00"
+date: "2025-04-15T00:36:59-07:00"
 description: Views and journeys of a hopeless programmer, named Zeeshan Ali Khan.
 params:
   feedlink: https://www.blogger.com/feeds/3575421168816814786/posts/default
@@ -121,6 +121,7 @@ params:
   - Lennart
   - Linux
   - Lisp
+  - LoRa
   - Logo
   - London
   - MAFW
@@ -181,6 +182,8 @@ params:
   - Rygel
   - SQLite
   - SSDP
+  - STM32
+  - STM32WL
   - Sampo
   - Sauna
   - Scheme
@@ -222,6 +225,7 @@ params:
   - async
   - automated installation
   - bank
+  - baremetal
   - bazaar
   - binding
   - blog move
@@ -236,6 +240,7 @@ params:
   - distro
   - driving
   - driving test
+  - embedded
   - encryption
   - evolution
   - exopc
@@ -275,6 +280,7 @@ params:
   - love
   - malloc
   - meme
+  - microcontroller
   - mollymalones
   - mother
   - moving in
@@ -290,6 +296,7 @@ params:
   - poo
   - portability
   - printer
+  - probe-rs
   - pulse-audio
   - pygtk
   - python
@@ -353,6 +360,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 25
+  postcount: 24
   avgpostlen: 296
 ---

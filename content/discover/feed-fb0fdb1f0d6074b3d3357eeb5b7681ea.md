@@ -19,18 +19,17 @@ params:
   categories:
   - Haskell
   relme: {}
-  last_post_title: 'Advent of Code 2024: Haskell Solution Reflections for all 25 Days'
+  last_post_title: Faking ADTs and GADTs in Languages That Shouldn't Have Them
   last_post_description: |-
-    Admittedly a bit late, buuuuuut Merry belated Christmas and Happy New Years
-    to all!
-    This past December I again participated in Eric Wastl’s Advent of Code, a series of 25 daily
-    Christmas-themed
-  last_post_date: "2025-01-21T07:54:15Z"
-  last_post_link: https://blog.jle.im/entry/advent-of-code-2024.html
+    Haskell is the world’s best programming language1, but let’s
+    face the harsh reality that a lot of times in life you’ll have to write in other
+    programming languages. But alas you have been fully
+  last_post_date: "2025-04-01T17:29:41Z"
+  last_post_link: https://blog.jle.im/entry/faking-adts-and-gadts.html
   last_post_categories:
   - Haskell
   last_post_language: ""
-  last_post_guid: d330aa06e1982ce881e3122635669347
+  last_post_guid: d52ee7d7f9f50dedfc06dc7d968a840b
   score_criteria:
     cats: 0
     description: 3

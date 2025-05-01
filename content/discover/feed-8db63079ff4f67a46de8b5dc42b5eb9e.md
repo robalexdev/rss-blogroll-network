@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 8db63079ff4f67a46de8b5dc42b5eb9e
   websites:
-    https://blogs.fsfe.org/wkossen: true
     https://blogs.fsfe.org/wkossen/: false
   blogrolls: []
   in_blogrolls:
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

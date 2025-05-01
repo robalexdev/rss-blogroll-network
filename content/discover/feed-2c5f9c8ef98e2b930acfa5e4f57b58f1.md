@@ -22,17 +22,16 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Benchmarking multiple network interfaces at once in Linux with
-    iperf3
+  last_post_title: It's easier than ever to de-censor videos
   last_post_description: |-
-    Benchmarking multiple network interfaces at once in Linux with iperf3
+    It's easier than ever to de-censor videos
 
-                Recently, I've been working on a Pi router build with multiple 2.5 Gbps Ethernet ports using Radxa's Dual 2.5G
-  last_post_date: "2025-02-23T23:43:04Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/benchmarking-multiple-network-interfaces-once-linux-iperf3
+                Last month I asked people to hack part of my YouTube video, specifically to de-pixelate the contents of a folder I had pixelated starting at the
+  last_post_date: "2025-04-15T17:00:33Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 56727d0fab44e4c231f0a11ce869b0fb
+  last_post_guid: 03ad17530ef22f38b99f38938d25834f
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 88abfe601c7dea0405166a4c8c9dbfa3
   websites:
-    https://manton.org/: false
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml
@@ -21,7 +20,6 @@ params:
   - https://daringfireball.net/feeds/main
   - https://inessential.com/xml/rss.xml
   - https://jonhays.me/feed.xml
-  - https://maique.eu/feed.xml
   - https://micro.welltempered.net/feed.xml
   - https://mjtsai.com/blog/feed/
   - https://ohhelloana.blog/feed.xml
@@ -38,8 +36,6 @@ params:
   - https://bitsplitting.org/feed/podcast
   - https://dahlstrand.net/podcast.xml
   - https://jonhays.me/podcast.xml
-  - https://maique.eu/podcast.xml
-  - https://maique.eu/posts_feed
   - https://mastodon.social/tags/mjtsaiupdate.rss
   - https://mjtsai.com/blog/comments/feed/
   - https://ohhelloana.blog/feed.links.xml
@@ -47,7 +43,6 @@ params:
   - https://rebeccatoh.co/comments/feed/
   - https://social.ayjay.org/podcast.xml
   - https://www.mollywhite.net/micro/feed.xml
-  - https://www.mollywhite.net/reading/blockchain/feed.xml
   - https://www.mollywhite.net/reading/shortform/feed.xml
   - https://www.zylstra.org/blog/comments/feed/
   recommender: []
@@ -59,7 +54,7 @@ params:
   last_post_description: If you’re already sick of hearing about AI now, it’s going
     to get worse in 2025. The next trend is so-called AI agents. Software that can
     go off and accomplish more tasks on your behalf, with
-  last_post_date: "2025-01-07T10:52:06-06:00"
+  last_post_date: "2025-01-07T12:52:06-04:00"
   last_post_link: https://www.manton.org/2025/01/07/ai-prompts-vs-agents.html
   last_post_categories: []
   last_post_language: ""

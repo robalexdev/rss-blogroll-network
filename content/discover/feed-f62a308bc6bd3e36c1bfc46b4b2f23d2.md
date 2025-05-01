@@ -16,28 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Announcements
-  - Debian
-  - linux mint
-  - maintenance
-  - ubuntu
-  - ucaresystem core
+  - Github
+  - Interviews
+  - Linus Torvalds
+  - Programming
+  - devops
+  - git
+  - software-development
+  - technology
   relme: {}
-  last_post_title: uCareSystem 24.12.11 | More Color and better messaging
-  last_post_description: I’m pleased to introduce uCareSystem 24.12.11, the latest
-    version of the all-in-one system maintenance tool for Ubuntu, Linux Mint, Debian
-    and its derivatives. This release brings some major
-  last_post_date: "2024-12-11T13:10:01Z"
-  last_post_link: https://utappiablog.wordpress.com/2024/12/11/ucaresystem-24-12-11-more-color-and-better-messaging/
+  last_post_title: 'Git turns 20! : A conversation with creator Linus Torvalds'
+  last_post_description: Watch a conversation reflecting on the 20th anniversary of
+    Git, the version control system created by Linus Torvalds. He discusses his initial
+    motivations for developing Git as a response to the
+  last_post_date: "2025-04-11T13:41:22Z"
+  last_post_link: https://utappiablog.wordpress.com/2025/04/11/git-turns-20-a-conversation-with-creator-linus-torvalds/
   last_post_categories:
-  - Announcements
-  - Debian
-  - linux mint
-  - maintenance
-  - ubuntu
-  - ucaresystem core
+  - Github
+  - Interviews
+  - Linus Torvalds
+  - Programming
+  - devops
+  - git
+  - software-development
+  - technology
   last_post_language: ""
-  last_post_guid: a09734075b0b17996912ec4032092822
+  last_post_guid: 10d8d6fcf6f6a88cb6cd9f41409407d9
   score_criteria:
     cats: 0
     description: 3

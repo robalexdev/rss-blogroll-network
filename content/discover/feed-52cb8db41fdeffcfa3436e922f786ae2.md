@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-02-21T17:24:54Z"
+date: "2025-04-27T09:23:39Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -18,15 +18,16 @@ params:
   - TIL
   - python
   relme: {}
-  last_post_title: 'TIL: Undecorating a functools.wraps decorated function'
-  last_post_description: Another reason to use functools.wraps!
-  last_post_date: "2025-02-21T17:24:54Z"
-  last_post_link: https://daniel.feldroy.com/posts/til-2025-02-unwrapping-a-wrapped-function
+  last_post_title: 'TIL: Pipe operator for merging dictionaries'
+  last_post_description: In Python 3.9 and later, the pipe operator | can be used
+    to merge dictionaries.
+  last_post_date: "2025-04-27T09:23:39Z"
+  last_post_link: https://daniel.feldroy.com/posts/til-2025-04-Pipe-operator-for-merging-dictionaries
   last_post_categories:
   - TIL
   - python
   last_post_language: ""
-  last_post_guid: a3f756df135f980797bff7c96e7bf5a5
+  last_post_guid: 0df05323e6ebaff3c92abe438aa4a1bd
   score_criteria:
     cats: 0
     description: 0

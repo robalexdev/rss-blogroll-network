@@ -16,14 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NCSC CEO meets with cyber security leaders in India
-  last_post_description: Lindy Cameron’s visit included discussions with academics,
-    businesses and government representatives in India.
-  last_post_date: "2025-02-19T15:10:03Z"
-  last_post_link: https://www.ncsc.gov.uk/news/ncsc-ceo-meets-with-cyber-security-leaders-in-india
+  last_post_title: 'BADBAZAAR and MOONSHINE: Spyware targeting Uyghur, Taiwanese and
+    Tibetan groups and civil society actors'
+  last_post_description: The NCSC and partners publish new information and mitigation
+    measures for those at high risk from two spyware variants.
+  last_post_date: "2025-04-09T07:53:28Z"
+  last_post_link: https://www.ncsc.gov.uk/news/advisory-badbazaar-moonshine
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 433e3caec53d3ffe2b4f14c40bc19bc1
+  last_post_guid: ae79f6316cd557588247b52361206a7f
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 202
+  postcount: 209
   avgpostlen: 0
 ---

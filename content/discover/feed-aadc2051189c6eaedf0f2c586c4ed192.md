@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-02-10T21:19:17Z"
+date: "2025-04-10T13:09:34Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -17,18 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Blogging About Blogging (Yikes)
+  last_post_title: Some Stoic Reminders For Myself
   last_post_description: |-
-    Every bloggers favorite least favorite topic: blogging
+    Nothing extraordinary; Nothing wrong with refreshers on the foundations.
 
-    I’ve never blogged before. 
-
-    I sure have written a lot to myself though, both online and off, so this has been a fun...
-  last_post_date: "2025-02-10T21:19:17Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/blogging-about-blogging-yikes
+    • We are all destined to be old, out of style, and forgotten by society
+    • To have one’s voice heard...
+  last_post_date: "2025-04-10T13:09:34Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/some-stoic-reminders-for-myself
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f9cb8e0f3b9bb81c044ba4de8e094484
+  last_post_guid: 507d88761011564f1135099db6cc6b58
   score_criteria:
     cats: 0
     description: 0
@@ -46,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 22
+  postcount: 25
   avgpostlen: 294
 ---

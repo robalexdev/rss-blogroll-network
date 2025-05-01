@@ -1,6 +1,6 @@
 ---
 title: Alastair Johnston
-date: "2025-02-02T18:12:51Z"
+date: "2025-02-28T11:27:06Z"
 description: ""
 params:
   feedlink: https://alastairjohnston.com/feed.xml
@@ -19,20 +19,20 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   categories:
-  - focus
-  - living well
+  - book notes
+  - faith
   relme: {}
-  last_post_title: Make Sure You're Not Tracking The Wrong Lion
-  last_post_description: The tarmac had been covered in a slick of aviation oil. Sitting
-    on top of this was a thin sheen of water. My car had illegal tyres, worn down
-    to slick smoothness. This was not going to end well. As I
-  last_post_date: "2025-02-01T16:04:20Z"
-  last_post_link: https://alastairjohnston.com/make-sure-youre-not-tracking-the-wrong-lion/
+  last_post_title: Zecharia, Jesuits, Lions and an Antidote for the Overthinker
+  last_post_description: Luke chapter 1. Zecharia is in the temple and an angel appears.
+    The angel says to him, “Don’t be afraid, Zechariah! God has heard your prayer.
+    Your wife Elizabeth will have a son, and you will
+  last_post_date: "2025-02-28T10:46:35Z"
+  last_post_link: https://alastairjohnston.com/24hrs/
   last_post_categories:
-  - focus
-  - living well
+  - book notes
+  - faith
   last_post_language: ""
-  last_post_guid: 5a0da506ec1ed065958f9f47d0f11dfa
+  last_post_guid: 3f0fa4e858e155046ec088091b4a3be0
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: afd52b604bdef659f32d9131d6d2dfd5
   websites:
-    https://blogs.igalia.com/carlosgc: true
     https://blogs.igalia.com/carlosgc/: false
   blogrolls: []
   in_blogrolls:
@@ -51,8 +50,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Saving Literature
-  last_post_description: â€œItâ€™s okay to be a Literature major.â€� Hyunsuk had said
-    this to his students too many times.
-  last_post_date: "2025-03-10T00:00:00+09:00"
-  last_post_link: https://kangminsuk.com/blog/saving-literature/
+  last_post_title: I Use Good Enough Software
+  last_post_description: A list of the best free or low-cost Mac apps I use almost
+    every day.
+  last_post_date: "2025-04-08T00:00:00+09:00"
+  last_post_link: https://kangminsuk.com/blog/good-enough/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fc0f2becfc9246ecc7f271d9dcd5cb68
+  last_post_guid: 9143ef8d3c3a855f1e221ba590146824
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 128
+  postcount: 129
   avgpostlen: 0
 ---

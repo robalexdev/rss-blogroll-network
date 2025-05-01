@@ -1,6 +1,6 @@
 ---
 title: Frédéric Wang
-date: "2025-02-22T18:02:40+01:00"
+date: "2025-02-26T12:38:02+01:00"
 description: ""
 params:
   feedlink: https://frederic-wang.fr/feeds/atom.xml
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 54
+  postcount: 56
   avgpostlen: 295
 ---

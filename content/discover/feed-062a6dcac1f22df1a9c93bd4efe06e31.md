@@ -11,26 +11,24 @@ params:
     https://lmnt.me/: true
   blogrolls: []
   in_blogrolls:
-  - title: Leon Mika - Blogroll
+  - title: RSS feeds from Minifeed.net
     description: ""
-    id: 833a660b960ed1b9aee9740f9df08e00
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender:
-  - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
+  recommender: []
   categories:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: It’s All Anybody Can See
-  last_post_description: "[Download the video.]\n\t\t\t\n\t\t\tYes, someone in the
-    government is breaking the law, and yes, that other politician is being a hypocrite,
-    and yes again, that one over there is clearly a nazi.\n\t\t\tIt’s"
-  last_post_date: "2025-02-24T16:15:00+09:00"
-  last_post_link: https://lmnt.me/blog/its-all-anybody-can-see.html
+  last_post_title: CSS Naked Day
+  last_post_description: "Don’t freak out. My website is observing CSS Naked Day.\n\t\t\tFor
+    April 9, this site’s stylesheet is temporarily commented out so you can see what
+    it looks like as plain old HTML. I like it. You"
+  last_post_date: "2025-04-08T22:35:00+09:00"
+  last_post_link: https://lmnt.me/blog/css-naked-day.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9266476489531711d1f0114fa61eb257
+  last_post_guid: 918ae2dcafe4e29810771a4554016bf4
   score_criteria:
     cats: 1
     description: 3
@@ -48,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 202
+  postcount: 242
   avgpostlen: 0
 ---

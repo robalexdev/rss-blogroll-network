@@ -16,25 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Conference
-  - Fosdem
+  - "9.3"
   - MySQL
-  - MySQL Day
+  - rpm
+  - sysbench
   relme:
     https://lefred.be/: true
-  last_post_title: preFOSDEM MySQL Belgian Days 2025 – Agenda
-  last_post_description: The preFOSDEM MySQL Belgian Days 2025 will occur at the usual
-    place (ICAB Incubator, Belgium, 1040 Bruxelles) on Thursday, January 30th, and
-    Friday, January 31st, just before FOSDEM. Again this year,
-  last_post_date: "2025-01-09T08:49:14Z"
-  last_post_link: https://lefred.be/content/prefosdem-mysql-belgian-days-2025-agenda/
+  last_post_title: sysbench linked to latest libmysql (from MySQL 9.3)
+  last_post_description: If you are testing MySQL with sysbench, here is a RPM version
+    for Fedora 31 and OL 8 & 9 linked with the last libmysql (libmysqlclient.so.24)
+    from MySQL 9.3. This version of sysbench is from the
+  last_post_date: "2025-04-15T10:01:18Z"
+  last_post_link: https://lefred.be/content/sysbench-linked-to-latest-libmysql-from-mysql-9-3/
   last_post_categories:
-  - Conference
-  - Fosdem
+  - "9.3"
   - MySQL
-  - MySQL Day
+  - rpm
+  - sysbench
   last_post_language: ""
-  last_post_guid: 53fdb713fd5db3a3af53b9ce9e02827a
+  last_post_guid: a0d7fd8ed1eb386d90a8717a7fb17857
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Thinking like a fox: A reading list for the future'
-  last_post_description: Here are a few of my favourite books to help you think like
-    a fox - from sci-fi classics to the importance of doing nothing at all (it's a
-    Dutch thing).
-  last_post_date: "2025-02-06T05:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2025/02/thinking-like-a-fox-a-reading-list-for-the-future.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: Alexa+ gets us a step closer to ambient interfaces
+  last_post_description: The vision was to build the Star Trek computer. 10 years
+    ago that was an ambitious goal. We’ve come a long way since then - from basic
+    voice commands to much more conversational interfaces with
+  last_post_date: "2025-04-09T04:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2025/04/alexa-plus-gets-us-a-step-closer-to-ambient-interfaces.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 092aa98cf877a46a5612dd2545222ba4
+  last_post_guid: 6dd4aee81079966c2596cdc368f72f75
   score_criteria:
     cats: 0
     description: 3

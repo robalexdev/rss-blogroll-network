@@ -6,8 +6,7 @@ params:
   feedlink: https://deadsession.wordpress.com/feed/
   feedtype: rss
   feedid: 2d6fee2c7cce393e993953db4afcc98b
-  websites:
-    https://deadsession.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Gnuheter
@@ -45,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

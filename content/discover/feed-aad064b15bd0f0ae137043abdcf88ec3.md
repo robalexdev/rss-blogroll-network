@@ -19,16 +19,16 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Afzondering
-  last_post_description: Ik weet evengoed niet hoelang ik hier mee door kan gaan.
-    Weg van alles, slechts bereikbaar voor wat voorbij komt. & Dan slechts een simpele
-    communicatie, een begeleidend oogcontact hooguit. & Des te
-  last_post_date: "2025-02-21T00:56:10Z"
-  last_post_link: https://zijperspace.nl/afzondering/
+  last_post_title: Puf
+  last_post_description: Soms loop ik door de gang om ’t toilet te kunnen bereiken.
+    Des middernachts dat is, of anders ’s ochtends vroeg, als ’t grootste deel der
+    mensheid ’t huis alweer verlaten heeft, of ditmaal
+  last_post_date: "2025-04-14T23:35:52Z"
+  last_post_link: https://zijperspace.nl/puf/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: bad76870af56ceacbfcb5f203b2e9cb6
+  last_post_guid: df5d4f45c918e158a9bb228d86d3b3ed
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
 title: Sheaves
 date: "1970-01-01T00:00:00Z"
-description: Math, Python, Sage
+description: Math, Language, Programming
 params:
   feedlink: https://sheaves.github.io/feed.xml
   feedtype: rss
@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Distributive Laws
-  last_post_description: |-
-    I’ve been participating in the Kan Extension Seminar II, and this week it’s my turn to post about Jon Beck’s “Distributive Laws” at the n-Category Cafe!
-
-    The post uses lots of string
-  last_post_date: "2017-02-18T00:00:00Z"
-  last_post_link: http://sheaves.github.io/Distributive-Laws/
+  last_post_title: Tensor associated to a database
+  last_post_description: "In this post (the 2nd in this series on Tensors and Language
+    Models), we will be interested in collections of tables or dataframes that look
+    something like:\n\n\n\nWe will call these databases. \nThis"
+  last_post_date: "2025-03-16T00:00:00Z"
+  last_post_link: http://sheaves.github.io/Database-Tensors/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 773d7cbd778b61e7c5b17427dacb4ca0
+  last_post_guid: cc36c63d7f9ff392d5f5c620c42f8d36
   score_criteria:
     cats: 0
     description: 3

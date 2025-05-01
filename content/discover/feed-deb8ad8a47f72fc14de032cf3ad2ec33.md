@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Wing Python IDE Version 10.0.8 - December 18, 2024
+  last_post_title: Wing Python IDE 11 Beta 2 - April 22, 2025
   last_post_description: |-
-    This release fixes AI Chat to continue to work after OpenAI drops v1 API
-    support this month, uses the configured AI model also for AI Chat, fixes the
-    debugger to work when two or more versions of
-  last_post_date: "2024-12-18T01:00:00Z"
-  last_post_link: https://wingware.com/news/2024-12-18
+    Wing 11 beta2 is now available.  It introduces support for Claude, Grok, Gemini, Perplexity,
+    Mistral, Deepseek, Ollama, and other OpenAI API compatible AI providers.
+    Wing 11 is a new major release of
+  last_post_date: "2025-04-22T01:00:00Z"
+  last_post_link: https://wingware.com/news/2025-04-22
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4cf0544953e51df71c0661462e66eea5
+  last_post_guid: d318bbeb415480086c67a6095d81fca4
   score_criteria:
     cats: 0
     description: 3

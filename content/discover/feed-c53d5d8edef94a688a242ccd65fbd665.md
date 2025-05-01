@@ -15,16 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 生活 | Life
+  - 学习 | Study
   relme: {}
-  last_post_title: 新加坡信用卡cashback和miles的使用心得
-  last_post_description: 新加坡信用卡cashback和miles的使用心得
-  last_post_date: "2025-01-03T03:34:46Z"
-  last_post_link: https://wsgzao.github.io/post/singapore-creditcard/
+  last_post_title: 关于AI的基础知识和第三方AI应用
+  last_post_description: 关于AI的基础知识和第三方AI应用
+  last_post_date: "2025-03-11T09:27:42Z"
+  last_post_link: https://wsgzao.github.io/post/ai/
   last_post_categories:
-  - 生活 | Life
+  - 学习 | Study
   last_post_language: ""
-  last_post_guid: f92dfda4af958fcd59df08f0f7c18d49
+  last_post_guid: d08f90d0842c670644c2d4868472ea4a
   score_criteria:
     cats: 0
     description: 3
@@ -43,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 258
+  avgpostlen: 256
 ---

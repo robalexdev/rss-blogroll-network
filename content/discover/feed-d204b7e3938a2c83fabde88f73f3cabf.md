@@ -13,26 +13,28 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme:
-    https://github.com/mxinden: true
     https://max-inden.de/: true
-  last_post_title: Stepping down as a (rust-) libp2p maintainer
+  last_post_title: Talk "Fast UDP makes QUIC quicker - optimizing Firefox’s HTTP3
+    IO stack" @FOSDEM
   last_post_description: |-
-    I don’t see myself making major contributions to (rust-) libp2p in the near future and thus I am stepping down as a maintainer.
-    As announced before, I have left Protocol Labs in December 2023
-  last_post_date: "2024-02-29T00:00:00Z"
-  last_post_link: https://max-inden.de/post/2024-02-29-stepping-down/
+    I presented my recent work on Firefox’s HTTP3/QUIC stack in the Network Devroom at FOSDEM 2025.
+    QUIC is a new transport protocol on top of UDP, transporting a large portion of the Internet traffic
+  last_post_date: "2025-02-02T00:00:00Z"
+  last_post_link: https://max-inden.de/post/2025-02-02-fast-udp-makes-quic-quicker/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fa037f42519acb94f72098a40a0e646c
+  last_post_guid: be617aff30adc0290fabd8fd354ad509
   score_criteria:
     cats: 0
     description: 3
@@ -50,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 82
+  postcount: 83
   avgpostlen: 0
 ---

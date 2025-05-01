@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2024-12-22T14:05:00Z"
+date: "2025-04-12T14:40:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI-generated tools can make programming more fun
-  last_post_description: 'I want to tell you about a neat experience I had with AI-assisted
-    programming this week. What’s unusual here is: the AI didn’t write a single line
-    of my code. Instead, I used AI to build a custom'
-  last_post_date: "2024-12-22T14:05:00Z"
-  last_post_link: https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html
+  last_post_title: 'Stevens: a hackable AI assistant using a single SQLite table and
+    a handful of cron jobs'
+  last_post_description: There’s a lot of hype these days around patterns for building
+    with AI. Agents, memory, RAG, assistants—so many buzzwords! But the reality is,
+    you don’t need fancy techniques or libraries to
+  last_post_date: "2025-04-12T14:40:00Z"
+  last_post_link: https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 601af9a863d3b02af4040a6d7fde2cb4
+  last_post_guid: 8f169d59978ffbf3f64b6ec62192262c
   score_criteria:
     cats: 0
     description: 0
@@ -43,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 11
-  avgpostlen: 294
+  avgpostlen: 293
 ---

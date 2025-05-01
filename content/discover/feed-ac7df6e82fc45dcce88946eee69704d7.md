@@ -1,6 +1,6 @@
 ---
 title: Good Enough
-date: "2025-01-17T00:00:00Z"
+date: "2025-04-15T00:00:00Z"
 description: Sometimes we write stuff that is good enough.
 params:
   feedlink: https://goodenough.us/feed.xml
@@ -9,7 +9,6 @@ params:
   websites:
     https://goodenough.us/: false
     https://goodenough.us/blog/: false
-    https://goodenough.us/lab: false
     https://goodenough.us/lab/: false
   blogrolls: []
   in_blogrolls:
@@ -20,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: There's no “A” or “I” in “Jelly”
+  last_post_title: Barry is Good Enough
   last_post_description: ""
-  last_post_date: "2025-01-17T00:00:00Z"
-  last_post_link: https://goodenough.us/blog/2025-01-17-there-s-no-a-or-i-in-jelly/
+  last_post_date: "2025-04-15T00:00:00Z"
+  last_post_link: https://goodenough.us/blog/2025-04-15-barry-is-good-enough/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 27b400cf0ddf4864e6504a23fb2596d5
+  last_post_guid: 70d2571f6f32a6debbcb74cf8f44a4f5
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 68
+  postcount: 69
   avgpostlen: 296
 ---

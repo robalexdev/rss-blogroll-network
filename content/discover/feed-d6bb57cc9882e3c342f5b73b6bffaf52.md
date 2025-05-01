@@ -1,7 +1,7 @@
 ---
 title: Jeff Bridgforth
 date: "1970-01-01T00:00:00Z"
-description: 'Jeff Bridgforth :: Front-end Developer in Chattanooga, Tennessee'
+description: 'Jeff Bridgforth :: UX Developer in Chattanooga, Tennessee'
 params:
   feedlink: https://jeffbridgforth.com/feed/
   feedtype: rss
@@ -18,22 +18,19 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
   - Weeknotes
-  relme:
-    https://jeffbridgforth.com/: true
-    https://mastodon.social/@webcraftsman: true
-  last_post_title: Weeknotes 25:08
-  last_post_description: Memory Keeper About a month ago, I mentioned one of the ideas
-    brewing in my head was building a “memory keeper.” I enjoying visiting my Facebook
-    memories each day but I have wanted for some time
-  last_post_date: "2025-02-24T15:59:36Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-february-24-2025/
+  relme: {}
+  last_post_title: Weeknotes 25:16
+  last_post_description: First week This was my first full week of working remotely
+    for my new job. As I mentioned, I had traveled up to Michigan to onboard at Revive
+    Our Hearts office the week before. That time was filled
+  last_post_date: "2025-04-21T21:50:45Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-april-21-2025/
   last_post_categories:
   - Weeknotes
   last_post_language: ""
-  last_post_guid: 068fdafd53652e8a6d47ce12393a9c3d
+  last_post_guid: ba40864a6e2d0cf98c853dfe7c5281cb
   score_criteria:
     cats: 0
     description: 3
@@ -43,10 +40,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -13,31 +13,23 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: ""
-    description: ""
     id: 4f9c05f836dbd67951ea4fd0d091fcca
   recommended: []
   recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
   - https://kandr3s.co/.rss
   categories: []
   relme:
     https://github.com/jamesvandyne/: true
-    https://indieweb.social/@jamesvandyne: true
     https://jamesvandyne.com/: true
-    https://jamesvandyne.com/runs/: true
-  last_post_title: 'The Week #248'
-  last_post_description: ðŸ“• Leo read his first new English word by himself, or at
-    least that I've witnessed. He was looking at his iPad and the was some text (no
-    icon) that said "Zoom", and he said Zoom. I looked at
-  last_post_date: "2025-03-31T21:01:28Z"
-  last_post_link: https://jamesvandyne.com/1b56cd31-ecc2-4da6-badb-262267236670
+  last_post_title: 'The Week #251'
+  last_post_description: "\U0001F30E Happy Earth Day! 18 years ago when I was an exchange
+    student is when my interest in the environment really started to take hold. I
+    was literally out seeing the world, watching movies like Al"
+  last_post_date: "2025-04-21T21:18:46Z"
+  last_post_link: https://jamesvandyne.com/c96ad8dd-fbec-4d31-abd1-c0a8c0b32748
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0953af5b1bf61003e6e2601417b2dab3
+  last_post_guid: 5a6f48df124aa2690846206734930f37
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Nicholas Bate
-date: "2025-02-24T06:18:16Z"
+date: "2025-04-28T07:15:00+01:00"
 description: Business of Life + Life of Business
 params:
   feedlink: https://feeds.feedburner.com/NicholasBate
@@ -17,15 +17,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Monday Eternal Truths 22
-  last_post_description: 'There are decisions you might have made when you were younger
-    which you can still make now you are older. Worthwhile stuff is hard. We are wired
-    to be distracted: it has huge evolutionary benefit.'
-  last_post_date: "2025-02-24T06:18:16Z"
-  last_post_link: https://blog.strategicedge.co.uk/2025/02/monday-eternal-truths-22.html
+  last_post_title: On Writing, 149
+  last_post_description: How to Write Your Novel Here's how you write your novel.
+    This system is not the only one, but it will work. 1. You need an idea. You may
+    already have one, which is why you wish to write the...
+  last_post_date: "2025-04-28T07:15:00+01:00"
+  last_post_link: https://blog.strategicedge.co.uk/2025/04/on-writing-149.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bff30a7c1e9c153eda8451a1a25e3e32
+  last_post_guid: 313413a19c147fdefe050ddd8bd3065d
   score_criteria:
     cats: 0
     description: 3
@@ -44,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 201
+  avgpostlen: 227
 ---

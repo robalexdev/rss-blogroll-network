@@ -1,6 +1,6 @@
 ---
 title: Secret Weblog
-date: "2025-01-27T00:00:00Z"
+date: "2025-03-27T00:00:00Z"
 description: Martijn Faassen's secret weblog
 params:
   feedlink: https://blog.startifact.com/atom.xml
@@ -16,17 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Repeat Yourself, A Bit
-  last_post_description: |-
-    "Don't Repeat Yourself", abbreviated
-    DRY, is a mantra I
-    subscribe to as a programmer. I don't want to have the same code in multiple
-    parts of the codebase. Part of the reason is just reuse: if I can
-  last_post_date: "2025-01-27T00:00:00Z"
-  last_post_link: https://blog.startifact.com/posts/repeat-yourself-a-bit/
+  last_post_title: 'Xee: A Modern XPath and XSLT Engine in Rust'
+  last_post_description: I announce Xee, the implementation of XPath and XSLT in Rust
+    that I've been working on for the last two years.
+  last_post_date: "2025-03-27T00:00:00Z"
+  last_post_link: https://blog.startifact.com/posts/xee/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: feb1e3dba1f49be8ea8ccd801977eac5
+  last_post_guid: d09e5cd4327e916959f285c05c4a6049
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 245
+  postcount: 249
   avgpostlen: 0
 ---

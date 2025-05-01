@@ -6,8 +6,7 @@ params:
   feedlink: https://spatiallyadjusted.com/feed/
   feedtype: rss
   feedid: ebfdd34bb5a85b4588db1b7b66988cc7
-  websites:
-    https://spatiallyadjusted.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet PostGIS
@@ -16,30 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Thoughts
+  - data
+  - nasa
+  - srtm
   relme: {}
-  last_post_title: Spring Training 2025
-  last_post_description: This week is one of the best in baseball—the start of Spring
-    Training, with players practice already underway. Sadly, it’s been a long time
-    since the Giants last made a World Series run, and the
-  last_post_date: "2025-02-18T00:16:23Z"
-  last_post_link: https://spatiallyadjusted.com/spring-training-2025/
+  last_post_title: 25 Years of SRTM
+  last_post_description: I noticed earlier last week that I just missed the 25th anniversary
+    of the mission of the Shuttle Radar Topography Mission aboard STS-99. I’m not
+    sure there has been a more important elevation data
+  last_post_date: "2025-03-02T22:15:10Z"
+  last_post_link: https://spatiallyadjusted.com/25-years-of-srtm/
   last_post_categories:
-  - Thoughts
+  - data
+  - nasa
+  - srtm
   last_post_language: ""
-  last_post_guid: 7fb7eaa298c7f4e44d98d19b66bb4af2
+  last_post_guid: cbaa10d94a48488f7ba86f73152655e7
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
+    website: 0
   score: 15
   ispodcast: false
   isnoarchive: false

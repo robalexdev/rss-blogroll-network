@@ -15,30 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - A4
-  - Design
-  - Design system
-  - brand
-  - grid
-  - layout
-  - typography
-  - whitepaper
+  - Juju
+  - LXD
+  - ceph
+  - cloud
+  - kubernetes
   relme: {}
-  last_post_title: A deep dive into our grid system and typography for the A4 format
-  last_post_description: We recently redesigned our whitepapers as part of our broader
-    rebranding project. Let’s look at some of the ideas behind our approach to layout
-    and typography. The goal? A reliable, accessible
-  last_post_date: "2025-02-17T12:01:52Z"
-  last_post_link: https://ubuntu.com//blog/a-look-under-the-hood-of-our-grid-system-and-typography-for-the-a4-format
+  last_post_title: The hitchhiker’s guide to infrastructure modernization
+  last_post_description: One of my favourite authors, Douglas Adams, once said that
+    “we are stuck with technology when what we really want is just stuff that works.”
+    Whilst Adams is right about a lot of things, he got
+  last_post_date: "2025-04-24T12:36:45Z"
+  last_post_link: https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization
   last_post_categories:
-  - A4
-  - Design
-  - Design system
-  - brand
-  - grid
-  - layout
-  - typography
-  - whitepaper
+  - Juju
+  - LXD
+  - ceph
+  - cloud
+  - kubernetes
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:

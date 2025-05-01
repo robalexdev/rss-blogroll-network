@@ -10,29 +10,25 @@ params:
     https://randsinrepose.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Adam Keys - Blogroll
-    description: ""
-    id: 9c926b53f0c9c2eae0b00ac7b25b6099
   - title: Ruben Arakelyan's blogroll
     description: ""
     id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
-  - https://therealadam.com/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
   - The Important Thing
   relme: {}
-  last_post_title: The One About Fiber
-  last_post_description: In our 89th episode, we talk about the wires that bring us
-    the bits. And then Derrick the editor time travels. Enjoy it now, or download
-    for later. Here’s a handy feed or subscribe via Overcast or
-  last_post_date: "2025-01-11T06:10:24Z"
-  last_post_link: https://randsinrepose.com/archives/the-one-about-fiber/
+  last_post_title: The One About Exercise
+  last_post_description: In our 90th epsiode, we walk through all the benefits of
+    improving our exercise strategy. Enjoy it now, or download for later. Here’s a
+    handy feed or subscribe via Overcast or iTunes. https
+  last_post_date: "2025-04-02T15:00:55Z"
+  last_post_link: https://randsinrepose.com/archives/the-one-about-exercise/
   last_post_categories:
   - The Important Thing
   last_post_language: ""
-  last_post_guid: a18706c3cd0c49a0c1f06c2f6a564e63
+  last_post_guid: 6660788ba3df1705cc09c599c121c0e6
   score_criteria:
     cats: 0
     description: 0

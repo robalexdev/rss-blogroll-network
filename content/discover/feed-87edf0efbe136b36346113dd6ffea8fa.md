@@ -18,17 +18,15 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Why a Text-Only Blog?
-  last_post_description: A short explanation of why Random Notes has no adornments,
-    and why I instead dare to be dull
-  last_post_date: "2025-02-02T19:51:00Z"
-  last_post_link: https://scottnesbitt.online/text.html
+  last_post_title: On Being an Individual
+  last_post_description: Why I think individuality isn't a group activity
+  last_post_date: "2025-04-24T06:36:30Z"
+  last_post_link: https://scottnesbitt.online/individual.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0fb16066b36fb7d2052f88ff034a87b2
+  last_post_guid: 7ba7cfbca73f56326f93a4b6014cfa2c
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 41
+  postcount: 49
   avgpostlen: 0
 ---

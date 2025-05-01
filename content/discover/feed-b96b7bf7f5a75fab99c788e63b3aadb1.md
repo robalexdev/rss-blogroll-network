@@ -1,6 +1,6 @@
 ---
 title: Anything goes
-date: "2025-02-07T22:24:48-08:00"
+date: "2025-03-24T15:39:27-07:00"
 description: random and perhaps useful information
 params:
   feedlink: https://tsengf.blogspot.com/feeds/posts/default/-/emacs

@@ -16,18 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: You could have invented Fenwick trees
-  last_post_description: |-
-    My paper, You could have invented Fenwick
-    trees, has just
-    been published as a Functional Pearl in the Journal of Functional
-    Programming.
-    This blog post is an advertisement for the paper, which
-  last_post_date: "2025-01-23T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2025/01/23/Fenwick.html
+  last_post_title: Hendrix College Programming Contest 2025
+  last_post_description: "Posted on March 13, 2025\n  \n  \n  \n  Tagged competitive
+    programming, Hendrix, programming, contest, HCPC, Kattis\n  \n\n\n\nI haven’t
+    written on here in a while, mostly because a lot of my time\nhas gone"
+  last_post_date: "2025-03-13T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2025/03/13/HCPC25.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b1b4d8d3b96ef5a5a1baa4d217db8d4
+  last_post_guid: b93ba5b4603f63205efc48b64479324c
   score_criteria:
     cats: 0
     description: 3

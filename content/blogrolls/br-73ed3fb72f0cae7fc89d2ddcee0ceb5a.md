@@ -1,6 +1,6 @@
 ---
 title: The Document Foundation Planet
-date: Mon, 24 Feb 2025 00:00:34 GMT
+date: Wed, 16 Apr 2025 02:00:34 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml
@@ -15,9 +15,6 @@ params:
   - title: llunak
     description: ""
     id: 107295bae17dd16c802901d1ff136e77
-  - title: Taming LibreOffice
-    description: Resources for intermediate & advanced users
-    id: 1729b1771cf97008b0324b8522e5ddae
   - title: OfficeBuzz
     description: ""
     id: 1d33b780d9ef9af4d5976f7c4885f175
@@ -76,12 +73,13 @@ params:
   - title: english – libreoffice.hu
     description: Libreoffice - A magyar közösség honlapja
     id: 6a33621fa249aaca65f758d792c330ee
+  - title: LibreOffice – BlogSophy
+    description: “Philosophy is a peculiarly stubborn attempt to think clearly.” ~
+      William James
+    id: 6d7af6cc060e3e975e063e12142783fb
   - title: '- Susobhan Ghosh''s blog'
     description: Posts categorized as 'LibreOffice'
     id: 74a2ea0f41a09ac2caa0f81cf8e77915
-  - title: '- libreoffice'
-    description: ""
-    id: 76920ce5dbbc37c5f7f3f914430aff7c
   - title: Stacktrace
     description: Random stuff related to my interests
     id: 77339d6472e36c38779b1713d4dfff26

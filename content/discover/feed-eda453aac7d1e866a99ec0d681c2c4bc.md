@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Breaking up with my X
+  last_post_title: Never lose a z-index battle again
   last_post_description: ""
-  last_post_date: "2025-03-19T00:00:00Z"
-  last_post_link: https://www.matuzo.at/blog/2025/breaking-up-with-my-x
+  last_post_date: "2025-04-11T00:00:00Z"
+  last_post_link: https://www.matuzo.at/blog/2025/never-lose-a-z-index-battle-again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7f37c26bae1c673dbd2a3dd243ac0e7
+  last_post_guid: 1138ad1938210dc511d2204e182dbe02
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 210
+  postcount: 220
   avgpostlen: 293
 ---

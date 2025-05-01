@@ -1,6 +1,6 @@
 ---
 title: Andy Croll
-date: "2025-01-05T11:08:42Z"
+date: "2025-04-28T11:03:28Z"
 description: ""
 params:
   feedlink: https://andycroll.com/index.xml
@@ -18,13 +18,14 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Year in Review 2024
+  last_post_title: What’s the difference between Rails’s try and the safe navigation
+    (&.) operator?
   last_post_description: ""
-  last_post_date: "2025-01-05T10:00:00Z"
-  last_post_link: https://andycroll.com/other/year-in-review-2024/
+  last_post_date: "2025-04-28T04:00:00Z"
+  last_post_link: https://andycroll.com/ruby/rails-try-vs-safe-lonely-navigation-operator-ampersand-dot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78e4f5b9006629cbd9d9cb631c5b0df6
+  last_post_guid: 46981e07e1c890d2b84dc9fcb33aea91
   score_criteria:
     cats: 0
     description: 0

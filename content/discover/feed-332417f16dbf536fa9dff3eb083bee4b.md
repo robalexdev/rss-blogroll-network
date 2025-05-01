@@ -1,6 +1,6 @@
 ---
 title: code informatikamihelac blog for django
-date: "2025-02-24T02:03:47Z"
+date: "2025-04-28T16:14:43Z"
 description: ""
 params:
   feedlink: https://code.informatikamihelac.com/feeds/categories/django/
@@ -16,14 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Finding Blocks Across a Wagtail Site
-  last_post_description: Discover how to efficiently locate and update specific blocks
-    across your Wagtail site, even when they're deeply nested.
+  last_post_title: 'Django-treebeard: Converting an Existing Model to MP_Node'
+  last_post_description: This article explains how to convert an existing Django model
+    into an MP_Node model in django-treebeard, handling migrations, data population,
+    and field constraints.
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: http://code.informatikamihelac.com/en/finding-blocks-across-a-wagtail-site/
+  last_post_link: http://code.informatikamihelac.com/en/django-treebeard-converting-an-existing-model-to-mp_node/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db561d270bea403a188b4b1c292758a2
+  last_post_guid: f31ad3aa1921cf5879eb9ff4212546c6
   score_criteria:
     cats: 0
     description: 0

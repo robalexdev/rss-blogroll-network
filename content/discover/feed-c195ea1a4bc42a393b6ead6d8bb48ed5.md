@@ -17,16 +17,17 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Celebrating 15 Years of OpenStack!
-  last_post_description: The last fifteen years of OpenStack’s success is not just
-    about the technology—it’s about the incredible global community that has fueled
-    its growth. Thousands of developers, operators, and
-  last_post_date: "2025-02-05T16:24:59Z"
-  last_post_link: https://www.openstack.org/blog/celebrating-15-years-of-openstack/
+  last_post_title: 'OpenStack 2025.1 Epoxy: Strengthening OpenStack’s Position as
+    a VMware Alternative and Enhancing Security and Hardware Enablement'
+  last_post_description: The OpenStack community’s latest release, 2025.1 Epoxy, marks
+    an important milestone in the project’s evolution. With the release of OpenStack
+    Epoxy, the project continues to improve its
+  last_post_date: "2025-04-02T14:47:26Z"
+  last_post_link: https://www.openstack.org/blog/openstack-2025-1-epoxy-strengthening-openstacks-position-as-a-vmware-alternative-and-enhancing-security-and-hardware-enablement/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: ee8c247d9d84f73499255ebd281a5508
+  last_post_guid: a1fcb057ca49b1d56f5df9bdbd74c5c4
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Explaining Circling
+  last_post_title: Links (86)
   last_post_description: |-
-    There's this practice called Circling1
-     that I do sometimes. I remember before I did it the first time I tried to get a sense of what it was like: Why do people do this? Are there mistakes that I can
-  last_post_date: "2025-02-16T00:00:00Z"
-  last_post_link: https://nintil.com/circling/
+    Sasha Chapin on Enjoying Things and Being Sasha Chapin
+    Scott Alexander reviews The Body keeps the Score. I recently read the book, which makes claims that will sound familiar and even obvious to many
+  last_post_date: "2025-03-16T00:00:00Z"
+  last_post_link: https://nintil.com/links-86/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e0384ae4d1f176648a001c643d65639
+  last_post_guid: 3a39e5e94228273b1d82797be41257b2
   score_criteria:
     cats: 0
     description: 0

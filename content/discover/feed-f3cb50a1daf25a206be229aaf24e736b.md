@@ -18,15 +18,17 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 停止使用staticfile.org服务
-  last_post_description: |-
-    昨天像往常一样打开博客，发现评论没有加载出来。
-    一开始以为是手机网络问题，用电脑复现了一下，发现twikoo的js访问报错了。
-  last_post_date: "2024-10-17T22:34:29+08:00"
-  last_post_link: https://liudon.com/posts/remove-staticfile.org-from-your-website/
+  last_post_title: 清明踏春，爬山看海
+  last_post_description: !!binary |
+    6Ieq5LuO5Lmw5LqG55m75bGx5p2W77yM5aiD5LiA55u06K+05oOz5Y6754is5bGx44CCCu
+    WJjeauteaXtumXtOWkqeawlOS4gOebtOS4jeWlve+8jOWxseS4iuS5n+i/mOaYr+WFieen
+    g+eng+eahO+8jOWwseS4gOebtOayoeWOu+OAggrotoHnnYDmuIXmmI7lgYfmnJ/vvIzluK
+    blqIPniKzlsbHljrvjgIIK5Y675bm05YGH5pyf5Y676L+H5LiA5qyh6aY=
+  last_post_date: "2025-04-06T22:47:37+08:00"
+  last_post_link: https://liudon.com/posts/qingming-festival-holiday-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f246381cadd1e16ca268d15fe8cdfc2d
+  last_post_guid: c39788772838bf29c1d7efa724c2c761
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 75
+  postcount: 81
   avgpostlen: 0
 ---

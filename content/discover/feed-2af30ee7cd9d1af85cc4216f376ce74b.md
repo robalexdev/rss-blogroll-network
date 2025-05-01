@@ -17,30 +17,31 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - philosophy
   relme: {}
-  last_post_title: i tried moving my google calendar to proton (and failed)
-  last_post_description: Ever tried moving your Google Calendar to Proton? I did—and
-    failed spectacularly. From de-googling my life to battling sync issues, here’s
-    the messy, mildly frustrating story of what happened.
-  last_post_date: "2025-01-15T05:17:00Z"
-  last_post_link: https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/
-  last_post_categories: []
+  last_post_title: to do nothing
+  last_post_description: On a rainy Saturday in Montreal, I sat alone with my thoughts—until
+    I realized they weren’t me. I call them Becky, and she never stops talking.
+  last_post_date: "2025-04-05T19:44:00Z"
+  last_post_link: https://shilin.ca/to-do-nothing/
+  last_post_categories:
+  - philosophy
   last_post_language: ""
-  last_post_guid: 55a6c936dea5f69bba58c7133b7edc31
+  last_post_guid: 11f111fc6d37fb9b4a052c204176716b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

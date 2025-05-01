@@ -16,49 +16,48 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bedrohungsanalyse
   - Blog
-  - CISA
-  - Malware
-  - Patch-Management
-  - RCE
-  - Remote Code Execution
-  - Schwachstelle
-  - Schwachstellen
-  - Schwachstellenmanagement
-  - Software Supply Chain
-  - Vulnerability Management
-  - Zero-Day
-  - cyberangriffe
+  - CPE
+  - CSAF 2.0
+  - CVE
+  - CVSS
+  - CWE
+  - Cybersicherheit
+  - Greenbone
+  - NVD outage
+  - NVD-Ausfall
+  - OpenVAS
+  - Schwachstellenerkennung
+  - Sicherheitslücken
   - cybersecurity
-  - it security
+  - vulnerabilities
+  - vulnerability detection
   relme: {}
-  last_post_title: 'Greenbone Detects CVE-2025-0994: Actively Exploited Flaw in Trimble
-    Cityworks'
-  last_post_description: Trimble Cityworks, an enterprise asset management (EAM) and
-    public works management software is actively under attack. The campaign began
-    as an unknown (zero-day) vulnerability, but is now tracked as
-  last_post_date: "2025-02-17T11:22:29Z"
-  last_post_link: https://www.greenbone.net/en/blog/greenbone-detects-cve-2025-0994-actively-exploited-flaw-in-trimble-cityworks/
+  last_post_title: Greenbone Detection Stays Strong Despite NIST NVD Outage
+  last_post_description: Despite the NVD (National Vulnerability Database) outage
+    of the NIST (National Institute of Standards and Technology), Greenbone’s detection
+    engine remains fully operational, offering reliable,
+  last_post_date: "2025-04-22T17:53:21Z"
+  last_post_link: https://www.greenbone.net/en/blog/greenbone-detection-stays-strong-despite-nist-nvd-outage/
   last_post_categories:
-  - Bedrohungsanalyse
   - Blog
-  - CISA
-  - Malware
-  - Patch-Management
-  - RCE
-  - Remote Code Execution
-  - Schwachstelle
-  - Schwachstellen
-  - Schwachstellenmanagement
-  - Software Supply Chain
-  - Vulnerability Management
-  - Zero-Day
-  - cyberangriffe
+  - CPE
+  - CSAF 2.0
+  - CVE
+  - CVSS
+  - CWE
+  - Cybersicherheit
+  - Greenbone
+  - NVD outage
+  - NVD-Ausfall
+  - OpenVAS
+  - Schwachstellenerkennung
+  - Sicherheitslücken
   - cybersecurity
-  - it security
+  - vulnerabilities
+  - vulnerability detection
   last_post_language: ""
-  last_post_guid: bb35cfc611432255f9547f94f57fc279
+  last_post_guid: d1b82fa238c09c06ae834631debc5b7c
   score_criteria:
     cats: 0
     description: 3

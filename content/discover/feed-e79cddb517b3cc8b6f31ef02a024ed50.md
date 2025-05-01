@@ -19,15 +19,15 @@ params:
   - AI
   - 技术文章
   relme: {}
-  last_post_title: DeepSeek R1 是怎么训练出来的？- R1 论文精读
-  last_post_description: 背景 DeepSeek 里程碑式的爆火，有必要学习下是怎么回事。 大语言模型的发展，之前一直是以预训练为主，虽 […]
-  last_post_date: "2025-02-10T02:39:11Z"
-  last_post_link: https://blog.cnbang.net/tech/4160/
+  last_post_title: Browser Use 原理解析-为一个小项目能融1700万美元
+  last_post_description: Browser Use 成为近期的明星项目，两个人的纯技术开源项目，核心代码 8000 行，融资 1700 万 […]
+  last_post_date: "2025-04-07T12:29:23Z"
+  last_post_link: https://blog.cnbang.net/tech/4241/
   last_post_categories:
   - AI
   - 技术文章
   last_post_language: ""
-  last_post_guid: da3fdbfaa8d2cae3d3d44932e4043739
+  last_post_guid: 53b64ce2a68db162ed1eeb79180c6b5b
   score_criteria:
     cats: 0
     description: 3

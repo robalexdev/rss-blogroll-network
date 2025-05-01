@@ -22,18 +22,15 @@ params:
   categories:
   - frontpage
   relme: {}
-  last_post_title: ArduinoDay2025
-  last_post_description: |-
-    Arduino Day
-    22 Marzo 2025
-    Università degli studi di Palermo
-    Teatro Gregotti
-  last_post_date: "2025-02-20T21:43:18Z"
-  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=249:arduinoday2025
+  last_post_title: DarBottarolo 09-04-25
+  last_post_description: Dar Bottarolo All you can eat menu fisso Mercoledi 09-04-2025
+    ore 20. Comunica se vuoi venire. https://forms.gle/G6muuQ29Q8U6MsWM7
+  last_post_date: "2025-04-07T08:05:38Z"
+  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=251:darbottarolo-09-04-25
   last_post_categories:
   - frontpage
   last_post_language: ""
-  last_post_guid: 508555845e9c091dc282e3454dd820bf
+  last_post_guid: 362d8094ac116c6389a344f71a5d4bf0
   score_criteria:
     cats: 0
     description: 3

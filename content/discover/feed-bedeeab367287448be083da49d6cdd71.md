@@ -20,15 +20,16 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: Le durcissement de machine sous Linux
-  last_post_description: Dans cet épisode, découvrez les étapes essentielles pour
-    sécuriser une machine Linux, que ce soit un poste de travail ou un serveur. Nous
-    abordons les mises à jour, la configuration de pare-feu,
-  last_post_date: "2024-10-27T16:45:22Z"
-  last_post_link: https://parlonslinux.fr/@ParlonsLinuxFR/episodes/le-durcissement-de-machine-sous-linux
+  last_post_title: 'Les variables d’environnement : ces VIP du terminal !'
+  last_post_description: |-
+    Dans cet épisode, nous avons exploré en détail :
+    ✅ Ce qu’est une variable d’environnement et son utilité.
+    ✅ Les règles à respecter : casse sensible, usage des majuscules, conventions de
+  last_post_date: "2025-03-16T18:42:49Z"
+  last_post_link: https://parlonslinux.fr/@ParlonsLinuxFR/episodes/les-variables-denvironnement-ces-vip-du-terminal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7b67469389902fe2a7687b6061f99aa
+  last_post_guid: 01d21ce7b4aaeeac6950c48c1760e28a
   score_criteria:
     cats: 1
     description: 3
@@ -46,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: fr
-  postcount: 13
+  postcount: 14
   avgpostlen: 0
 ---

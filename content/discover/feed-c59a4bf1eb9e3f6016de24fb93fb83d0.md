@@ -1,6 +1,6 @@
 ---
 title: 搞笑談軟工
-date: "2024-12-21T21:44:13+08:00"
+date: "2025-03-25T06:38:13+08:00"
 description: 敏捷開發，設計模式，精實開發，Scrum，軟體設計，軟體架構
 params:
   feedlink: https://teddy-chen-tw.blogspot.com/feeds/posts/default

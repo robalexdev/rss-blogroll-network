@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 3 Tips for Eliminating Attack Surface Blind Spots
-  last_post_description: In today’s rapidly evolving digital landscape, security professionals
-    face many challenges in protecting their organizations from cyber threats. One
-    common problem is the persistence of attack
+  last_post_title: Cybersecurity Warrior Mindset
+  last_post_description: 'As stated in my recent blog, CISO: Chief Cybersecurity Warrior
+    Leader, I define warrior-leadership as a term that combines the concepts of leadership
+    and expertise in the field of cybersecurity with'
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://levelblue.com/blogs/security-essentials/3-tips-for-eliminating-attack-surface-blind-spots
+  last_post_link: https://levelblue.com/blogs/security-essentials/cybersecurity-warrior-mindset
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 74503f9ab99687a7ddb8f873179f58ca
+  last_post_guid: 878c9ccffd4a106617a81b1febd3fafb
   score_criteria:
     cats: 0
     description: 3

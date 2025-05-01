@@ -1,6 +1,6 @@
 ---
 title: Jerz.US - Microblog
-date: "2025-02-06T00:26:17Z"
+date: "2025-04-27T23:11:51Z"
 description: Ryan C. Jerz's feed
 params:
   feedlink: https://jerz.us/rss/?section=micro
@@ -11,23 +11,13 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme: {}
   last_post_title: A brief Sharon Stone Tribute

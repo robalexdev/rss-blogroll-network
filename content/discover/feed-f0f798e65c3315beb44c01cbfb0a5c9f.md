@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: f0f798e65c3315beb44c01cbfb0a5c9f
   websites:
-    https://blogs.scummvm.org/phoenixflame101: true
+    https://blogs.scummvm.org/phoenixflame101: false
     https://blogs.scummvm.org/phoenixflame101/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 1
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

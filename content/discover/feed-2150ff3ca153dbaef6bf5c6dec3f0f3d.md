@@ -1,6 +1,6 @@
 ---
 title: Eclipse mde
-date: "2024-11-18T01:58:52-08:00"
+date: "2025-03-25T07:56:27-07:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/3658502096185788177/posts/default

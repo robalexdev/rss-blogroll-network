@@ -17,7 +17,6 @@ params:
   recommender: []
   categories: []
   relme:
-    https://git.sys42.eu/syntaxerrormmm: true
     https://github.com/syntaxerrormmm: true
     https://keybase.io/syntaxerrormmm: true
     https://sys42.eu/: true
@@ -37,18 +36,18 @@ params:
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
-  postcount: 0
+  postcount: 5
   avgpostlen: 0
 ---

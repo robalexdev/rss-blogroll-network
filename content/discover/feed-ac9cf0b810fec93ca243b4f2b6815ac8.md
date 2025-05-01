@@ -18,17 +18,15 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: '“Detect and Respond” is Not the Answer: The Need for Proactive
-    Zero-Day Data Security'
-  last_post_description: Follow along with Justin Baker as he explains the importance
-    of zero-day data security, a strategy of detecting and preventing threats before
-    they breach security, instead of reacting after data has
-  last_post_date: "2025-02-05T14:00:00Z"
-  last_post_link: https://www.deepinstinct.com/blog/-detect-and-respond-is-not-the-answer-the-need-for-proactive-zero-day-data-security
+  last_post_title: 'RaaS Evolved: LockBit 3.0 vs LockBit 4.0'
+  last_post_description: Learn more about the LockBit ransomware group and explore
+    the latest evolution of LockBit ransomware with its 4.0 version release.
+  last_post_date: "2025-03-25T14:00:00Z"
+  last_post_link: https://www.deepinstinct.com/blog/raas-evolved-lockbit-3-0-vs-lockbit-4-0
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 742e6b68db3327d96c07921972c4941a
+  last_post_guid: f33c94c432c901a58f1e266bbb50fe90
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Mon, 24 Feb 2025 00:06:44 GMT
+date: Wed, 16 Apr 2025 02:06:34 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -70,8 +70,8 @@ params:
   - title: Strk's Blog
     description: Recent content on Strk's Blog
     id: 2602bbe18dd9d1eed1d7dc74f891ab2f
-  - title: GeoCat bv
-    description: Let's map the world, together
+  - title: News
+    description: ""
     id: 2849e08f0b2b0baf4549bd7957489084
   - title: Sean Gillies
     description: ""
@@ -106,9 +106,6 @@ params:
     description: uDig is an open source (BSD+EPL) desktop application framework, built
       with Eclipse Rich Client (RCP) technology.
     id: 40d1f65b4f75e2ac5ec56fcc5f60adcc
-  - title: 'Category: qgis | Lutra Consulting'
-    description: ""
-    id: 40d3e293e4a3c3356ee0224904d69825
   - title: openaddresses
     description: www.openaddresses.org is an Open Source web portail for the management
       of Open worldwide geolocated postal addresses.
@@ -200,7 +197,7 @@ params:
       A blog that goes from GIS to Remote Sensing, with tutorials and tips especially for open source software.
       By Luca Congedo, the author of the Semi-Automatic Classification Plugin for QGIS that allows
     id: 90bd00b73904ab872e642f5ba4e21242
-  - title: Kartoza - Blog !!
+  - title: Kartoza - Blog
     description: ""
     id: 96c2d24c5969333b184540b7c5bcbe59
   - title: GIS archivos | iCarto

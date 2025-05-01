@@ -18,33 +18,33 @@ params:
   categories:
   - emacs
   relme: {}
-  last_post_title: Speed Dialing Your Favorite Files
-  last_post_description: I may be dating myself, but I vividly remember setting up
-    speed dials for my most frequently called numbers on my AT&T landline phone. In
-    the early '90s, you could store a phone number in a numbered
-  last_post_date: "2025-02-18T10:46:00-08:00"
-  last_post_link: https://spepo.github.io/2025-02-18-speed-dial-your-favorite-files.html
+  last_post_title: The TAB Key in Org Mode, Reimagined
+  last_post_description: I don't know about you, but when I'm reading something in
+    an Org file and spot a link I want to follow, I instinctively press TAB to jump
+    to it—just like I would in an Info or Help buffer. Using
+  last_post_date: "2025-03-29T08:01:00-07:00"
+  last_post_link: https://spepo.github.io/2025-03-29-the-tab-key-in-org-mode-reimagined.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: ecfc6b00c1860f502e32ddf9b235fe8e
+  last_post_guid: 285fe764e47dcf9234c9291856a05152
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 2
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 1
+  postcount: 2
   avgpostlen: 0
 ---

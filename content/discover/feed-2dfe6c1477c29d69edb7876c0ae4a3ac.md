@@ -1,6 +1,6 @@
 ---
 title: GNU Guix — Blog
-date: "2025-02-19T13:57:06Z"
+date: "2025-04-08T17:16:18Z"
 description: ""
 params:
   feedlink: https://guix.gnu.org/feeds/blog.atom
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 293
+  avgpostlen: 294
 ---

@@ -19,16 +19,19 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Achieve pure smooth brain flow state'
+  last_post_title: '[SC 2.4.4] Maybe almost hopefully time'
   last_post_description: |-
-    I completely spaced on sending this last night. In my defense I was trying to achieve pure smooth brain flow state by burying myself in a video game.
-
-    Listen to the first sounds ever known to be made
-  last_post_date: "2025-04-03T15:42:05Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-better-late-than-never/
+    I got clover! For my yard! It's maybe almost hopefully time for Spring!
+    --
+    Winner, winner, lab-made dinner! Team grows nugget-sized chicken chunk
+    Delish!
+    Bring Back RSS Feeds to Browsers
+    Co-signed
+  last_post_date: "2025-04-24T00:45:54Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-maybe-almost-hopefully-time/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 89d8dd5f0b6cd9e0ad60c1e2df078df5
+  last_post_guid: 546de6c1c3ffcd8419d432aba3b1db2e
   score_criteria:
     cats: 0
     description: 3

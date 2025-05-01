@@ -16,18 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: XMPP Summit 27 Report
+  last_post_title: The XMPP Newsletter March 2025
   last_post_description: |-
-    For this year’s XMPP Summit 27, real time communication enthusiasts gathered in Brussels (Belgium, EU) to discuss a wide range of XMPP topics.
-    Topics included:
-
-    GC3 (a new group chat protocol)
-    HTTP
-  last_post_date: "2025-02-12T00:00:00Z"
-  last_post_link: https://xmpp.org/2025/02/xmpp-summit-27-report/
+    XMPP Newsletter Banner
+    Welcome to the XMPP Newsletter, great to have you here again!
+    This issue covers the month of March 2025.
+    Like this newsletter, many projects and their efforts in the XMPP
+  last_post_date: "2025-04-05T00:00:00Z"
+  last_post_link: https://xmpp.org/2025/04/the-xmpp-newsletter-march-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ce9af75aa5c60cf6912fe1c59fe1d15c
+  last_post_guid: 80262044cf225ac7782b7237e1eb585f
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 306
+  postcount: 311
   avgpostlen: 0
 ---

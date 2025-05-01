@@ -170,12 +170,9 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
-  - https://www.buttersafe.com/feed/
-  - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
   - https://degruchy.org/atom.xml
-  - https://degruchy.org/feed.xml
   - https://degruchy.org/index.xml
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
@@ -191,10 +188,6 @@ params:
   - https://jerz.us/atom/
   - https://jerz.us/feed/
   - https://jerz.us/rss/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
@@ -203,7 +196,6 @@ params:
   - https://rss.nebula.app/video/channels/sexplanations.rss?plus=true
   - https://rss.nebula.app/video/channels/stevenbridges.rss?plus=true
   - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
-  - https://notiz.blog/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
@@ -215,20 +207,15 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rss.metafilter.com/popular-comments.rss
   - https://rss.metafilter.com/popular-posts.rss
   - https://rss.metafilter.com/projects.rss
-  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
   - https://shkspr.mobi/blog/comments/feed/
   - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom/
-  - https://stantonharcourtschool.org.uk/comments/feed/
-  - https://stantonharcourtschool.org.uk/feed/
-  - https://steele.blue/feed
+  - https://shkspr.mobi/blog/feed/atom
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
@@ -236,42 +223,30 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
-  - https://www.blogpocket.com/comments/feed/
-  - https://www.blogpocket.com/feed/
-  - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
-  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
-  - https://www.schneier.com/comments/feed/
-  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://z1nz0l1n.com/rss/
   recommender: []
   categories: []
   relme:
     https://dan-q.github.io/: true
-    https://danq.blog/: true
     https://danq.me/: true
-    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Note] Istanbul by Dan Q
-  last_post_description: |-
-    In reply to <a href="https://danq.me/2025/03/24/istanbul/#comment-270124">TabTwo</a>.
-
-    Can't complain about the temperature: it's mostly been at least as warm here as it would've been back in
-  last_post_date: "2025-03-27T04:59:04Z"
-  last_post_link: https://danq.me/2025/03/24/istanbul/#comment-270168
+  last_post_title: Comment on [Article] Deprecate React by Rémi Corson
+  last_post_description: Wow thanks Dan, that's a great post, 'ill do some comparative
+    tests myself to see the differences!
+  last_post_date: "2025-04-28T11:45:39+01:00"
+  last_post_link: https://danq.me/2025/04/26/deprecate-react/#comment-274095
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 18e40afede6090b123bca11e7230297c
+  last_post_guid: ef350f37a0be7fee14780c44a88a2680
   score_criteria:
     cats: 0
     description: 3

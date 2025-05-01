@@ -17,34 +17,36 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - flow
-  - gitaar
+  - boeken
+  - facebook
+  - meta
   relme:
     https://infullflow.net/: true
-  last_post_title: Nieuw speelgoed
-  last_post_description: Een nieuw instrument kiezen is een gebeurtenis. Was het bij
-    een nieuwe hobo kiezen redelijk overzichtelijk (welke van de drie exemplaren die
-    mijn lerares op zicht had speelt het fijnst), als het om
-  last_post_date: "2025-02-19T15:19:56Z"
-  last_post_link: https://infullflow.net/2025/02/nieuw-speelgoed/
+  last_post_title: 'Gelezen: Careless People'
+  last_post_description: Als er ophef is over een boek, omdat een medewerker uit de
+    school klapt, ben ik meestal niet de eerste die naar de boekwinkel rent. Maar
+    als de medewerker iemand is die jarenlang bij Facebook
+  last_post_date: "2025-03-19T11:57:53Z"
+  last_post_link: https://infullflow.net/2025/03/gelezen-careless-people/
   last_post_categories:
-  - flow
-  - gitaar
+  - boeken
+  - facebook
+  - meta
   last_post_language: ""
-  last_post_guid: 27f3001aac83f61f13e6727c0a87b136
+  last_post_guid: 900166602dfc21d65e39995758f15f14
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

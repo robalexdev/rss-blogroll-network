@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-04-03T18:25:35Z"
+date: "2025-04-15T17:34:26Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -16,9 +16,6 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Take on Rules Public Blogroll
-    description: ""
-    id: 661f7c3d693616149785e81936cf96e2
   - title: The Art Of Not Asking Why - Blogroll
     description: ""
     id: e79d34746977a283ee12bf2f27dfee7a
@@ -26,29 +23,22 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
   categories: []
   relme:
-    https://annie.omg.lol/: true
-    https://annie.omg.lol/now: true
     https://anniemueller.com/: true
-    https://github.com/anniemueller: true
-    https://social.lol/@annie: true
-  last_post_title: 'Reading notes: March 2025'
-  last_post_description: |-
-    What I read about last month: Mysteries in the woods! Stories! Kind-of-not-really pirates! Ireland! Friendship! And saying no!
-
-    In the Woods by Tana French Gorgeous writing. Good plotting. It
-  last_post_date: "2025-04-03T18:32:43Z"
-  last_post_link: https://anniemueller.com/posts/reading-notes-march-2025
+  last_post_title: How I, a non-developer, read the tutorial you, a developer, wrote
+    for me, a beginner
+  last_post_description: '“Hello! I am a developer. Here is my relevant experience:
+    I code in Hoobijag and sometimes jabbernocks and of course ABCDE++++ (but never
+    ABCDE+/^+ are you kidding? ha!)  and I...'
+  last_post_date: "2025-04-15T17:34:26Z"
+  last_post_link: https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 831a60d65732215cd16ab8134368f857
+  last_post_guid: eb4a1a5a259d0b10539565e40f45d574
   score_criteria:
     cats: 0
     description: 0

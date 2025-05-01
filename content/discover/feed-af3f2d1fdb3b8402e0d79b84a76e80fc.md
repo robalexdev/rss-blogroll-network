@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2025-02-24T15:37:06Z"
+date: "2025-04-28T18:12:04Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 高效优雅的观影指南
-  last_post_description: 高效优雅的观影指南
-  last_post_date: "2025-01-14T15:44:26Z"
-  last_post_link: https://baiyun.me/efficient-elegant-movie-watching-guide
+  last_post_title: 在国内如何购买比特币和投资加密货币
+  last_post_description: 在国内如何购买比特币和投资加密货币
+  last_post_date: "2025-03-04T02:46:43Z"
+  last_post_link: https://baiyun.me/buy-bitcoin-in-china
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26f7c04ba84bc5e1e93a17ca8a0b43aa
+  last_post_guid: a910733e6d190bfeccc8fe7afc170355
   score_criteria:
     cats: 0
     description: 3

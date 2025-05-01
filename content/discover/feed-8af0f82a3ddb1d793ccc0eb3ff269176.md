@@ -21,23 +21,20 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: James
-  last_post_description: 'There is no escaping any discussion of Percival Everett’s
-    James without first mentioning the central conceit: that this is reimagining of
-    The Adventures of Huckleberry Finn, but from the'
-  last_post_date: "2025-02-21T09:08:00-05:00"
-  last_post_link: https://www.inthemargins.ca/james-percival-everett
+  last_post_title: When someone cuts down a tree, somebody else has to plant a new
+    one
+  last_post_description: |-
+    My favorite conversations with Zoya all seem to happen on our early morning walks to the bus stop.
+    It is during those walks that she is most wide-eyed, taking in the outside world for the first time
+  last_post_date: "2025-04-02T15:20:00-04:00"
+  last_post_link: https://www.inthemargins.ca/restore-recover-rebuild
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0276f73f3898eb06c8057ee9791ed8af
+  last_post_guid: 505d08ea27d6208e9d90517682a18cd0
   score_criteria:
     cats: 0
     description: 3

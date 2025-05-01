@@ -17,32 +17,30 @@ params:
   recommender: []
   categories:
   - 'Python: Tutorials and Tips'
-  - python
   relme: {}
-  last_post_title: 'Python Practice: 93 Exercises, Projects, & Tips to Sharpen Your
-    Coding Skills'
-  last_post_description: 'Getting good Python practice can help solidify your coding
-    skills. Here are some of the best resources for practicing Python:'
-  last_post_date: "2025-02-19T15:38:19Z"
-  last_post_link: https://www.dataquest.io/blog/python-practice/
+  last_post_title: A Beginner’s Guide to Unit Tests in Python
+  last_post_description: Unit tests are segments of code written to test other pieces
+    of code, typically a single function or method, that we refer to as a unit. They
+    are a very important part of the software development
+  last_post_date: "2025-04-08T09:28:40Z"
+  last_post_link: https://www.dataquest.io/blog/unit-tests-python/
   last_post_categories:
   - 'Python: Tutorials and Tips'
-  - python
   last_post_language: ""
-  last_post_guid: 17208b57f794e4612ac4ec5a115d7432
+  last_post_guid: 11a007568022567d0e30e67084500d9c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -8,16 +8,28 @@ params:
   feedid: 9addbb00cf246ce4c8deba19e574be62
   websites:
     https://weblog.anniegreens.lol/: true
+    https://weblog.anniegreens.lol/2023/01/pizza-sauce: false
+    https://weblog.anniegreens.lol/2023/03/hello-drafts: false
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: false
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: false
     https://weblog.anniegreens.lol/2023/09/works-in-progress: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-i: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-ii: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iii: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iv: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-v: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vi: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vii: false
     https://weblog.anniegreens.lol/2023/11/my-switchboard: false
     https://weblog.anniegreens.lol/2023/11/weblog-todos-tada: false
     https://weblog.anniegreens.lol/2023/12/an-organized-head: false
+    https://weblog.anniegreens.lol/2024/02/diving-into-indiewebify-me-microformats-part-viii: false
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: false
     https://weblog.anniegreens.lol/2024/07/blogroll-spin-8: false
+    https://weblog.anniegreens.lol/2024/08/bookmarks-1: false
+    https://weblog.anniegreens.lol/2024/08/diving-into-indiewebify-me-microformats-part-ix: false
+    https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required: false
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: false
-    https://weblog.anniegreens.lol/accessibility: false
     https://weblog.anniegreens.lol/accessibility-statement: false
     https://weblog.anniegreens.lol/ai: false
     https://weblog.anniegreens.lol/apple-annie-on-substack: false
@@ -42,7 +54,6 @@ params:
     https://weblog.anniegreens.lol/lists: false
     https://weblog.anniegreens.lol/manual-of-me: false
     https://weblog.anniegreens.lol/nope: false
-    https://weblog.anniegreens.lol/postroll: false
     https://weblog.anniegreens.lol/projects: false
     https://weblog.anniegreens.lol/random-post-generator: false
     https://weblog.anniegreens.lol/recommendations: false
@@ -57,12 +68,9 @@ params:
     https://weblog.anniegreens.lol/styleguide/layouts: false
     https://weblog.anniegreens.lol/styleguide/replaced-elements: false
     https://weblog.anniegreens.lol/styleguide/tokens: false
-    https://weblog.anniegreens.lol/switchboard: false
     https://weblog.anniegreens.lol/tags: false
-    https://weblog.anniegreens.lol/todos: false
     https://weblog.anniegreens.lol/webrings: false
     https://weblog.anniegreens.lol/why: false
-    https://weblog.anniegreens.lol/wips: false
   blogrolls: []
   in_blogrolls:
   - title: Colin Walker's readroll
@@ -85,24 +93,32 @@ params:
     https://anniegreens.lol/: true
     https://anniegreens.omg.lol/: true
     https://anniegreens.proven.lol/: true
-    https://anniegreens.status.lol/: true
-    https://anniegreens.weblog.lol/: true
-    https://anniegreens.weblog.lol/archive: true
     https://github.com/anniegreens: true
     https://now.anniegreens.lol/: true
     https://omg.anniegreens.lol/: true
     https://proven.lol/843a6f: true
     https://proven.lol/e60691: true
-    https://status.anniegreens.lol/: true
     https://weblog.anniegreens.lol/: true
+    https://weblog.anniegreens.lol/2023/01/pizza-sauce: true
+    https://weblog.anniegreens.lol/2023/03/hello-drafts: true
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: true
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: true
     https://weblog.anniegreens.lol/2023/09/works-in-progress: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-i: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-ii: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iii: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iv: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-v: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vi: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vii: true
     https://weblog.anniegreens.lol/2023/11/my-switchboard: true
     https://weblog.anniegreens.lol/2023/12/an-organized-head: true
+    https://weblog.anniegreens.lol/2024/02/diving-into-indiewebify-me-microformats-part-viii: true
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: true
+    https://weblog.anniegreens.lol/2024/08/bookmarks-1: true
+    https://weblog.anniegreens.lol/2024/08/diving-into-indiewebify-me-microformats-part-ix: true
+    https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required: true
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: true
-    https://weblog.anniegreens.lol/accessibility: true
     https://weblog.anniegreens.lol/accessibility-statement: true
     https://weblog.anniegreens.lol/ai: true
     https://weblog.anniegreens.lol/apple-annie-on-substack: true
@@ -127,7 +143,6 @@ params:
     https://weblog.anniegreens.lol/lists: true
     https://weblog.anniegreens.lol/manual-of-me: true
     https://weblog.anniegreens.lol/nope: true
-    https://weblog.anniegreens.lol/postroll: true
     https://weblog.anniegreens.lol/projects: true
     https://weblog.anniegreens.lol/random-post-generator: true
     https://weblog.anniegreens.lol/recommendations: true
@@ -142,12 +157,9 @@ params:
     https://weblog.anniegreens.lol/styleguide/layouts: true
     https://weblog.anniegreens.lol/styleguide/replaced-elements: true
     https://weblog.anniegreens.lol/styleguide/tokens: true
-    https://weblog.anniegreens.lol/switchboard: true
     https://weblog.anniegreens.lol/tags: true
-    https://weblog.anniegreens.lol/todos: true
     https://weblog.anniegreens.lol/webrings: true
     https://weblog.anniegreens.lol/why: true
-    https://weblog.anniegreens.lol/wips: true
     https://weblogpomo.club/: true
     https://weblogpomo.club/challenges: true
   last_post_title: Brussels Sprouts Casserole

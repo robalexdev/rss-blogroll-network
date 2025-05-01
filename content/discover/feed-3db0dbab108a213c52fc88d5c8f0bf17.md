@@ -176,12 +176,9 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
-  - https://www.buttersafe.com/feed/
-  - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
   - https://degruchy.org/atom.xml
-  - https://degruchy.org/feed.xml
   - https://degruchy.org/index.xml
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
@@ -197,10 +194,6 @@ params:
   - https://jerz.us/atom/
   - https://jerz.us/feed/
   - https://jerz.us/rss/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
@@ -209,7 +202,6 @@ params:
   - https://rss.nebula.app/video/channels/sexplanations.rss?plus=true
   - https://rss.nebula.app/video/channels/stevenbridges.rss?plus=true
   - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
-  - https://notiz.blog/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
@@ -221,20 +213,15 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rss.metafilter.com/popular-comments.rss
   - https://rss.metafilter.com/popular-posts.rss
   - https://rss.metafilter.com/projects.rss
-  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
   - https://shkspr.mobi/blog/comments/feed/
   - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom/
-  - https://stantonharcourtschool.org.uk/comments/feed/
-  - https://stantonharcourtschool.org.uk/feed/
-  - https://steele.blue/feed
+  - https://shkspr.mobi/blog/feed/atom
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
@@ -242,57 +229,42 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
-  - https://www.blogpocket.com/comments/feed/
-  - https://www.blogpocket.com/feed/
-  - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
-  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
-  - https://www.schneier.com/comments/feed/
-  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://z1nz0l1n.com/rss/
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - cache log
-  - geocaching
-  - istanbul
-  - travel
+  - ai
+  - funny
   - work
   relme:
     https://dan-q.github.io/: true
-    https://danq.blog/: true
     https://danq.me/: true
-    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Checkin] Dan Q found GC6VTEG Galata Bridge #3'
-  last_post_description: After lunch with my work team in a delightful restaurant
-    overlooking the bridge I decided to take a diversion on the route back to our
-    coworking space to come and find this geocache, my most-Easterly
-  last_post_date: "2025-03-26T11:08:00Z"
-  last_post_link: https://danq.me/2025/03/26/dan-q-found-gc6vteg-galata-bridge-3/
+  last_post_title: '[Repost] LayoffBot – eliminating the human in human resources'
+  last_post_description: In a perfect example of gallows humour, a friend shared with
+    me a satirical (I hope?) website about an AI service for performing bulk redundancies.
+    Alarmingly, compared to my recent experience, it
+  last_post_date: "2025-04-15T15:27:23+01:00"
+  last_post_link: https://danq.me/2025/04/15/layoffbot-eliminating-the-human-in-human-resources/
   last_post_categories:
   - Personal
-  - cache log
-  - geocaching
-  - istanbul
-  - travel
+  - ai
+  - funny
   - work
   last_post_language: ""
-  last_post_guid: 2f9bbb0f06bad4a600fb06168687db7c
+  last_post_guid: be25a2ac3cd244c250265dd59bab7ae5
   score_criteria:
     cats: 0
     description: 3

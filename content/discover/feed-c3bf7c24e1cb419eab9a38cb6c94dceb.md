@@ -8,7 +8,6 @@ params:
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
     https://www.pythonmorsels.com/articles/: false
-    https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -18,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Multiline strings
-  last_post_description: "Need to represent multiple lines of text in Python? Use
-    Python's multi-line string syntax!\n  \n    A string with line breaks in it\n
-    \   \n      \n        Here we have a Python program called stopwatch.py"
-  last_post_date: "2025-02-21T04:48:51Z"
-  last_post_link: https://www.pythonmorsels.com/multi-line-strings/
+  last_post_title: Practical uses of sets
+  last_post_description: "Sets are unordered collections of values that are great
+    for removing duplicates, quick containment checks, and set operations.\n  \n    What
+    are sets?\n    \n      \n        Like lists, sets are"
+  last_post_date: "2025-04-15T23:15:00Z"
+  last_post_link: https://www.pythonmorsels.com/practical-uses-of-sets/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43f2a314c410ee6a0469c22a912f5ad5
+  last_post_guid: 91cfaca86b0fa165180c496f2b293235
   score_criteria:
     cats: 0
     description: 3
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

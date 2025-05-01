@@ -1,6 +1,6 @@
 ---
 title: ttntm.me - Likes
-date: "2025-02-24T10:30:00Z"
+date: "2025-04-15T14:10:00Z"
 description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
@@ -10,14 +10,17 @@ params:
     https://ttntm.me/: false
     https://ttntm.me/blog/: false
     https://ttntm.me/everything/: false
+    https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true
     https://ttntm.me/notes/: false
   blogrolls:
   - https://ttntm.me/blogroll.opml
   in_blogrolls: []
   recommended:
+  - https://82mhz.net/index.xml
   - https://anhvn.com/feed.xml
   - https://antfu.me/feed.xml
+  - https://boehs.org/in/blog.xml
   - https://chrisburnell.com/feed.xml
   - https://garrit.xyz/rss.xml
   - https://home.hedy.dev/posts/index.xml
@@ -25,10 +28,9 @@ params:
   - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
   - https://prma.dev/index.xml
-  - https://write.as/ttt-computer/feed/
   - https://www.andreinc.net/feed.xml
-  - https://www.kuketz-blog.de/feed/
   - https://www.lkhrs.com/blog/index.xml
+  - https://www.markpitblado.me/feed.xml
   - https://www.mikestreety.co.uk/rss-all.xml
   - https://home.hedy.dev/posts/atom.xml
   - https://prma.dev/dailies/feed.xml
@@ -36,8 +38,6 @@ params:
   - https://prma.dev/posts/feed.xml
   - https://prma.dev/recommendations/feed.xml
   - https://prma.dev/til/feed.xml
-  - https://www.kuketz-blog.de/category/artikel/feed/
-  - https://www.kuketz-blog.de/category/microblog/feed/
   - https://www.lkhrs.com/index.xml
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml
@@ -45,13 +45,13 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 08, 2025
+  last_post_title: Week 16, 2025
   last_post_description: ""
-  last_post_date: "2025-02-24T10:30:00Z"
-  last_post_link: https://ttntm.me/likes/2025-w08/
+  last_post_date: "2025-04-15T14:10:00Z"
+  last_post_link: https://ttntm.me/likes/2025-w16/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 19a987ace26b238d21475c55d63f8004
+  last_post_guid: 80e64bec82e6a0036c92c7e1b8c629bf
   score_criteria:
     cats: 0
     description: 3
@@ -69,6 +69,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 46
-  avgpostlen: 247
+  postcount: 51
+  avgpostlen: 251
 ---

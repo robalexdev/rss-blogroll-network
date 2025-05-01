@@ -1,6 +1,6 @@
 ---
 title: Mijndert Stuij
-date: "2025-02-21T11:00:00Z"
+date: "2025-04-25T13:00:00Z"
 description: Senior DevOps Engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -12,39 +12,28 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Week notes 8
+  last_post_title: Week notes 17
   last_post_description: ""
-  last_post_date: "2025-02-21T11:00:00Z"
-  last_post_link: https://mijndertstuij.nl/posts/week-notes-8/
+  last_post_date: "2025-04-25T13:00:00Z"
+  last_post_link: https://mijndertstuij.nl/posts/week-notes-17/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 755b8b25582f0a16e4045168792d9484
+  last_post_guid: aef8bf296a5a3f86d09908d52421e419
   score_criteria:
     cats: 0
     description: 3
@@ -62,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 25
+  postcount: 45
   avgpostlen: 296
 ---

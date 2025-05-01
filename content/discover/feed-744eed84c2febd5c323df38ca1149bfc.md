@@ -16,33 +16,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - DNS Tunneling
-  - Data Exfiltration
+  - Drive-by download exploits
+  - Operation ForumTroll
+  - Phishing emails
+  - Protective DNS
   - Security
-  - Threat Defense
-  - Zero Day DNS
-  - Zero-day
-  - lookalike domains
-  - lookalikes
+  - Zero-day attack
   relme: {}
-  last_post_title: 'The Many Faces of DNS Abuse: How Threat Actors Exploit the Domain
-    Name System'
-  last_post_description: The Domain Name System (DNS) is a fundamental component of
-    the internet, with a great deal of value beyond that of a simple ‘Internet Phonebook’
-    as many tend to see it. Threat Actors recognize
-  last_post_date: "2025-02-19T15:55:51Z"
-  last_post_link: https://blogs.infoblox.com/security/the-many-faces-of-dns-abuse-how-threat-actors-exploit-the-domain-name-system/
+  last_post_title: DNS Early Detection – Protect against Chrome Zero Day Exploit –
+    CVE 2025–2783
+  last_post_description: Bulletin On Tuesday, March 25, Google promptly released1
+    a patch for a sandbox escape vulnerability in its Chrome browser, following a
+    mid-March publication by Kaspersky threat researchers2 about a
+  last_post_date: "2025-04-16T15:55:45Z"
+  last_post_link: https://blogs.infoblox.com/security/dns-early-detection-protect-against-chrome-zero-day-exploit-cve-2025-2783/
   last_post_categories:
-  - DNS Tunneling
-  - Data Exfiltration
+  - Drive-by download exploits
+  - Operation ForumTroll
+  - Phishing emails
+  - Protective DNS
   - Security
-  - Threat Defense
-  - Zero Day DNS
-  - Zero-day
-  - lookalike domains
-  - lookalikes
+  - Zero-day attack
   last_post_language: ""
-  last_post_guid: 0af2126b15e7d7151f30a7546932c696
+  last_post_guid: d79e7df2f967031a911a07e06b8439cc
   score_criteria:
     cats: 0
     description: 0

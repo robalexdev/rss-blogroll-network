@@ -1,7 +1,7 @@
 ---
-title: Grant Slatton
+title: Grant Slatton's Blog
 date: "1970-01-01T00:00:00Z"
-description: Grant Slatton's articles
+description: Recent notes and posts
 params:
   feedlink: https://grantslatton.com/rss.xml
   feedtype: rss
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Technocapital
-  last_post_description: An essay on post-AI economics
-  last_post_date: "2025-02-06T23:21:28Z"
-  last_post_link: https://grantslatton.com/technocapital
+  last_post_title: Typo Minimizing Keyboard
+  last_post_description: Layout optimization problem
+  last_post_date: "2025-04-06T18:48:00Z"
+  last_post_link: https://grantslatton.com/typo-minimizing-keyboard
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ba4d9641e45fca824a8ad4397c3aac57
+  last_post_guid: c7ebe60de028dae4324bafa529a578cf
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 34
+  postcount: 42
   avgpostlen: 0
 ---

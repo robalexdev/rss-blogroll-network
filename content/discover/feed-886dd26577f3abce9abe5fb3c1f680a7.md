@@ -17,26 +17,21 @@ params:
   recommender: []
   categories:
   - GlassFish
-  - GlassFish-update
+  - Guides
   - Jakarta EE
-  - News
-  - OmniFish
   relme: {}
-  last_post_title: 'Reflections on 2024: A Remarkable Year for OmniFish, GlassFish,
-    Piranha, and Jakarta EE'
-  last_post_description: From expanding our team to pushing the boundaries of what
-    GlassFish and Piranha can do, this year has been nothing short of transformative.
-    Let’s take a look back at some of the highlights and
-  last_post_date: "2024-12-31T14:03:43Z"
-  last_post_link: https://omnifish.ee/reflections-on-2024/?utm_source=rss&utm_medium=rss&utm_campaign=reflections-on-2024
+  last_post_title: Supercharge Your Jakarta EE Skills with These Must-Read Guides
+  last_post_description: |-
+    If you’re working with Jakarta EE — or just starting to explore the power of enterprise Java — there’s never been […]
+    The post Supercharge Your Jakarta EE Skills with These Must-Read
+  last_post_date: "2025-04-11T15:23:05Z"
+  last_post_link: https://omnifish.ee/supercharge-your-jakarta-ee-skills-with-these-must-read-guides/?utm_source=rss&utm_medium=rss&utm_campaign=supercharge-your-jakarta-ee-skills-with-these-must-read-guides
   last_post_categories:
   - GlassFish
-  - GlassFish-update
+  - Guides
   - Jakarta EE
-  - News
-  - OmniFish
   last_post_language: ""
-  last_post_guid: c514f5fe22c9f88bddf4e07879bd0451
+  last_post_guid: 258e580a839f1478af6339ad90021e1c
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Video Compression Analysis
+  last_post_title: Obsidian, MCP Servers, and Supercharging Your Second Brain with
+    AI
   last_post_description: |-
-    A videography hobbyist
-    In my free time, I like shooting videos of my family’s adventures and doing some basic editing. I shoot on my cellphone and a GoPro. For the past several years, I have
-  last_post_date: "2025-02-12T05:00:00-05:00"
-  last_post_link: https://brettgfitzgerald.com/posts/video-compression-analysis/
+    My Journey with MCP Servers
+    I recently learned of MCP (Model Control Protocol) servers through a post on Hacker News. The premise seems really neat. MCP is essentially a protocol that allows AI
+  last_post_date: "2025-04-02T00:00:00-05:00"
+  last_post_link: https://brettgfitzgerald.com/posts/mcp-server-experiences/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 50ea52f5eff486082490ef79d66cbedb
+  last_post_guid: ad9e6146957f4337a1135d11303ba6ea
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 3
+  postcount: 4
   avgpostlen: 0
 ---

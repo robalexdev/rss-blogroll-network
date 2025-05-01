@@ -1,6 +1,6 @@
 ---
 title: Making Hay
-date: "2025-02-24T00:24:15Z"
+date: "2025-04-16T02:04:11Z"
 description: ""
 params:
   feedlink: https://franksting.writeas.com/feed/
@@ -18,30 +18,30 @@ params:
   categories: []
   relme:
     https://franksting.writeas.com/: true
-  last_post_title: Act Upon Instructions
+  last_post_title: Learn like a Human, not like a GPT
   last_post_description: ""
-  last_post_date: "2025-01-21T04:33:54Z"
-  last_post_link: https://franksting.writeas.com/act-upon-instructions?pk_campaign=rss-feed
+  last_post_date: "2025-03-18T02:36:20Z"
+  last_post_link: https://franksting.writeas.com/learn-like-a-human-not-like-a-gpt?pk_campaign=rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34f949aec144dbe18031cbf03a2ae828
+  last_post_guid: 2cc6012506b8aa755ccdbeef1b485c6a
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 0
-    hasPosts: 2
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 2
+  postcount: 4
   avgpostlen: 0
 ---

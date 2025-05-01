@@ -18,17 +18,17 @@ params:
   categories: []
   relme:
     https://freerangebits.com/tags/emacs/: true
-  last_post_title: Patching Instead of Pinning
+  last_post_title: Automatic Theme Switching in Emacs
   last_post_description: |-
-    In a previous post I showed how to work around a deadlock
-    between GnuPG and Emacs.  As a brief recap, GnuPG 2.4.1 introduced a
-    change in its output which breaks a protocol that Emacs relied on, so
-    I
-  last_post_date: "2024-01-06T11:44:19-07:00"
-  last_post_link: https://freerangebits.com/posts/2024/01/patch-instead-of-pin/
+    I’m a dark theme nerd.  Partially because of the hacker aesthetic, but
+    mostly because I prefer to work in dark environments and light themes
+    turn computer screens into floodlights.
+    However, in well
+  last_post_date: "2025-02-24T12:23:47+01:00"
+  last_post_link: https://freerangebits.com/posts/2025/02/emacs-light-dark/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a7588b44e4be35616a18f91868e57e7d
+  last_post_guid: d830fb2d968a498e8398ca7b7c1a4f5e
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 9
+  postcount: 10
   avgpostlen: 0
 ---

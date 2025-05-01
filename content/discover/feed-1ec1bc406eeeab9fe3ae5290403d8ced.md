@@ -20,17 +20,17 @@ params:
   - gdb
   - software
   relme: {}
-  last_post_title: Faster GDB Startup
-  last_post_description: After literally years of false starts and failed attempts,
-    last week I finally checked in a series of patches that speed up GDB’s DWARF reader.
-    The speedup for ordinary C++ code is dramatic — I
-  last_post_date: "2022-04-20T06:36:54Z"
-  last_post_link: https://tromey.com/blog/?p=1084
+  last_post_title: Faster Faster GDB Startup
+  last_post_description: 'A while ago, I wrote about my work to speed up GDB’s DWARF
+    reader. I thought I’d write again with a few updates. Sharding Back then, I wrote:
+    “maybe GDB could trade memory for performance and'
+  last_post_date: "2025-03-21T15:49:16Z"
+  last_post_link: https://tromey.com/blog/?p=1111
   last_post_categories:
   - gdb
   - software
   last_post_language: ""
-  last_post_guid: d9969d97f9cd943daab36119a9b076ee
+  last_post_guid: 48f414635e58257b4ecce1b38d1932f8
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: fdf2934e7b7b3bcdf6c33acdb716a293
   websites:
-    https://dev.to/warbilly: true
+    https://dev.to/warbilly: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -43,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

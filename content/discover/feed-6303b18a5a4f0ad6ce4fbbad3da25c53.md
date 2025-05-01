@@ -75,8 +75,6 @@ params:
   - https://arcadeblogger.com/comments/feed/
   - https://austinkleon.com/comments/feed/
   - https://austinkleon.com/feed/
-  - https://doc.searls.com/comments/feed/
-  - https://doc.searls.com/feed/
   - https://boffosocko.com/category/mathematics/feed/
   - https://boffosocko.com/category/microcast/feed/
   - https://boffosocko.com/category/podcast/feed/
@@ -108,7 +106,6 @@ params:
   - https://granary-demo.appspot.com/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=http%3A//www.boffosocko.com/blog/
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://colinwalker.blog/dailyfeed.xml
-  - https://dougbelshaw.com/blog/comments/feed/
   - https://idealistpropaganda.blogspot.com/feeds/posts/default?alt=rss
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
@@ -124,11 +121,6 @@ params:
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
   - https://longnow.org/ideas/
-  - https://ochtendgrijs.be/blog/feed/
-  - https://ochtendgrijs.be/comments/feed/
-  - https://remkusdevries.com/comments/feed/
-  - https://remkusdevries.com/feed/
-  - https://remkusdevries.com/feed/podcast
   - https://robinrendle.com/cascadefeed.xml
   - https://robinrendle.com/essayfeed.xml
   - https://robinrendle.com/newsletterfeed.xml
@@ -144,32 +136,27 @@ params:
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
-  - https://rushkoff.com/comments/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://zijperspace.nl/comments/feed/
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
   categories: []
   relme:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: Samenvattingen bij blogposts
-  last_post_description: Sinds mijn verhuizing van zelf-geïnstalleerde en -onderhouden
-    WordPress naar hier-heb-je-geld-regel-het Micro.blog hosting, ben ik best tevreden
-    over de laatstgenoemde service. Het is gewoon heel
-  last_post_date: "2025-02-19T20:22:47+01:00"
-  last_post_link: https://frankmeeuwsen.com/2025/02/19/samenvattingen-bij-blogposts.html
+  last_post_title: E-mail migratie van Fastmail naar Soverin
+  last_post_description: Na een vergelijking van de mogelijkheden en de prijzen heb
+    ik gisteren eindelijk de knoop doorgehakt. We stappen met onze email over van
+    Fastmail naar het Nederlandse Soverin. Het aanbod is prima
+  last_post_date: "2025-04-21T11:42:26+02:00"
+  last_post_link: https://frankmeeuwsen.com/2025/04/21/email-migratie-van-fastmail-naar.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bef1d8075771c6da45268887936fda9f
+  last_post_guid: 81894c5eb010788c5c93e299f7f67741
   score_criteria:
     cats: 0
     description: 0
@@ -186,7 +173,7 @@ params:
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
-  postcount: 13
+  language: nl
+  postcount: 12
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: CCE and Emacs Update Feed
-date: "2024-11-07T14:45:00Z"
+date: "2025-03-20T13:10:00Z"
 description: ""
 params:
   feedlink: https://cce.whatthefuck.computer/updates.xml
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Two Updates: Org+Nix dev streams, and my new DNS resolver'
-  last_post_description: 'Two Updates: Org+Nix dev streams, and my new DNS resolverI''ve
-    started to stream on Thursdays where I''ll explore salt dunes and arcologiesThe
-    last few weeks I have started to work in earnest on'
-  last_post_date: "2024-11-07T14:45:00Z"
+  last_post_title: Blocking Aggressive Scrapers at the Edge
+  last_post_description: Blocking Aggressive Scrapers at the EdgeIn Limiting expensive
+    to render nginx endpoints , I describe how to use a few nginx limit_req module
+    to substantially limit the amount of aggressive scraping
+  last_post_date: "2025-03-20T13:10:00Z"
   last_post_link: https://cce.whatthefuck.computer/updates
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 83253e835f831549c76ecaf768268e43
+  last_post_guid: 3d4dd94a579b1c5e9e7af2e97e5d8c12
   score_criteria:
     cats: 0
     description: 0

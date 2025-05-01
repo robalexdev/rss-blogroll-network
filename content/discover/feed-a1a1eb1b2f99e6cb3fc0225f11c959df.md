@@ -17,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Turns out that I'm a 'prolific open-source influencer' now
+  last_post_title: About the time I trashed my mother's laptop
   last_post_description: |-
-    Yes, you read that right.
-    I’m a prolific open-source influencer now.
-    Some years ago I set up a Google Alert with my name, for fun. Who knows what it might show one day? On 7th of February,
-    it fired
-  last_post_date: "2025-02-17T21:00:00+02:00"
-  last_post_link: https://ounapuu.ee/posts/2025/02/17/influencer/
+    Around 2003, my mother had a laptop: the Compaq Armada 1592DT.
+    It ran Windows Me, the worst Windows to ever exist, whopping 96 MB of RAM,
+    and a 3 GB hard drive.
+    My mother used it for important stuff,
+  last_post_date: "2025-04-08T19:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2025/04/08/how-i-trashed-a-laptop/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 094971f8d63f78ba7a442e788fdb1318
+  last_post_guid: 07d9725f253463c6e4c540a30752bf4d
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 105
+  postcount: 113
   avgpostlen: 0
 ---

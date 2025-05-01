@@ -1,6 +1,6 @@
 ---
 title: 'SANS Internet Storm Center, InfoCON: green'
-date: "2025-02-24T02:00:03Z"
+date: "2025-04-17T02:00:02Z"
 description: SANS Internet Storm Center - Cooperative Cyber Security Monitor
 params:
   feedlink: https://isc.sans.edu/rssfeed_full.xml
@@ -20,8 +20,8 @@ params:
     https://infosec.exchange/@sans_isc: true
     https://isc.sans.edu/: true
   last_post_title: 'Infocon: green'
-  last_post_description: ISC Stormcast For Monday, February 24th, 2025 https://isc.sans.edu/podcastdetail/9336
-  last_post_date: "2025-02-24T11:55:04Z"
+  last_post_description: ISC Stormcast For Thursday, April 17th, 2025 https://isc.sans.edu/podcastdetail/9412
+  last_post_date: "2025-04-17T11:15:03Z"
   last_post_link: https://isc.sans.edu/diary.html?rss
   last_post_categories: []
   last_post_language: ""

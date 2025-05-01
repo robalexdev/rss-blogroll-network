@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Emacs As Your Terminal Emulator [Video]
-  last_post_description: Short video about Emacs shell interactions
-  last_post_date: "2025-01-25T00:00:00Z"
-  last_post_link: https://thanosapollo.org/posts/emacs-shells-video/
+  last_post_title: Emacs Note Taking & Journaling using org-gnosis [Video]
+  last_post_description: Video overview about org-gnosis
+  last_post_date: "2025-03-03T00:00:00Z"
+  last_post_link: https://thanosapollo.org/posts/org-gnosis-overview/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f12aaec7f0349fe130af94d1d8a482d4
+  last_post_guid: 32b8732316544a1b157241703826e21d
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 12
+  postcount: 14
   avgpostlen: 0
 ---

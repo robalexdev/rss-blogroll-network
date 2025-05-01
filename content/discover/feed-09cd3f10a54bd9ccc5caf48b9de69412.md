@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
-    https://kevq.uk/: false
     https://kevquirk.com/: true
     https://kevquirk.com/watch-log: false
   blogrolls:
@@ -16,12 +15,6 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: ""
-    description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: Leon Mika - Blogroll
-    description: ""
-    id: 833a660b960ed1b9aee9740f9df08e00
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
@@ -33,7 +26,6 @@ params:
     id: a45e294b0f7393dbe42e1b017580e161
   recommended:
   - https://baty.net/everything.rss
-  - https://brandonwrites.xyz/feed/
   - https://btxx.org/index.rss
   - https://buttondown.email/ownyourweb/rss
   - https://chriscoyier.net/feed
@@ -49,9 +41,7 @@ params:
   - https://thejollyteapot.com/feed.rss
   - https://www.eddiedale.com/blog-feed
   - https://www.lkhrs.com/blog/index.xml
-  - https://baty.net/feed
   - https://baty.net/index.xml
-  - https://buttondown.email/rss.xml
   - https://chriscoyier.net/feed/
   - https://email-is-good.com/comments/feed/
   - https://email-is-good.com/feed/
@@ -67,60 +57,48 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/index.xml
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
-  - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
-  categories:
-  - '#Apple'
-  - '#Framework'
+  categories: []
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 3 April 2025 at 06:35 - Thinking about my next laptop
-    and Apple has been giving..."
+  last_post_title: My Thoughts on the Fosstodon Drama
   last_post_description: |-
-    Thinking about my next laptop and #Apple has been giving me the ick lately with some of what they're doing.
-    Anyway, politics of it all aside, I'm thinking about a #Framework 13. Very expensive, but
-  last_post_date: "2025-04-03T06:40:00Z"
-  last_post_link: https://kevquirk.com/notes/20250403-0635
-  last_post_categories:
-  - '#Apple'
-  - '#Framework'
+    Lots of people have been asking myself and Mike for a statement on the recent drama surrounding Fosstodon. This is **MY** statement.
+    I want to stress that this is my own opinion. This is in no way an
+  last_post_date: "2025-04-28T11:40:00Z"
+  last_post_link: https://kevquirk.com/blog/my-thoughts-on-the-fosstodon-drama
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: a6e9038cce174917ce5faa4588213464
+  last_post_guid: 9034d4592adcdc014634e9dbce63a6ba
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 31
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 20
+  postcount: 40
   avgpostlen: 0
 ---

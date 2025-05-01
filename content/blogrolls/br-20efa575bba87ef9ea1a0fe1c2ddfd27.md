@@ -42,9 +42,6 @@ params:
   - title: Sumith
     description: ""
     id: 51eb4b3bf74274d80492de5b3cad01ec
-  - title: GSoC Days
-    description: Journey through the open-source world..!!
-    id: 651584b288d1e0e55071668a68bdee17
   - title: ""
     description: ""
     id: 68d8083fd6ba9f86017ad0a6709135fe

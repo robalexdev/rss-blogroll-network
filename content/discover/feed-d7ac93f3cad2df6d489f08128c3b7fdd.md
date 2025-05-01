@@ -20,15 +20,17 @@ params:
     https://github.com/LocalFreedom: true
     https://localfreedom.github.io/: true
     https://mastodon.social/@reserve2freedom: true
-  last_post_title: Office Deployment Tool
+  last_post_title: Win10/11 不联网强制开启移动热点
   last_post_description: |-
-    背景
-    MS Office
-  last_post_date: "2024-12-22T03:09:53Z"
-  last_post_link: https://localfreedom.github.io/p/office-deployment-tool/
+    1
+
+
+    powershell -ExecutionPolicy -ByPass "$profile = [Windows.Networking.Connectivity.NetworkInformation,Windows.Networking.Connectivity,ContentType=WindowsRuntime]::GetConnectionProfiles() | where
+  last_post_date: "2025-04-10T12:02:35Z"
+  last_post_link: https://localfreedom.github.io/p/win10/11-%E4%B8%8D%E8%81%94%E7%BD%91%E5%BC%BA%E5%88%B6%E5%BC%80%E5%90%AF%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d3db85842ead22952d19d2f735bfbed1
+  last_post_guid: 61a39124c030ac134a05bdc2b3adccdc
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 15
+  postcount: 17
   avgpostlen: 0
 ---

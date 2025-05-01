@@ -21,17 +21,16 @@ params:
   categories:
   - Artificial Intelligence
   relme: {}
-  last_post_title: 'Navigating the Future of Openness and AI Governance: Insights
-    from the Paris Openness Workshop'
-  last_post_description: In December 2024, in the lead up to the AI Action Summit,
-    Mozilla, Fondation Abeona, École Normale Supérieure (ENS) and the Columbia Institute
-    of Global Politics gathered at ENS in … Read
-  last_post_date: "2025-02-04T15:44:34Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2025/02/04/navigating-the-future-of-openness-and-ai-governance-insights-from-the-paris-openness-workshop/
+  last_post_title: 'New Mozilla Research: Civil Liability Along the AI Value Chain'
+  last_post_description: |-
+    What happens when AI systems fail? Who should be held responsible when they cause harm? And how can we ensure that people harmed by AI can seek redress? READ THE … Read more
+    The post New Mozilla
+  last_post_date: "2025-04-02T05:07:02Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/04/01/new-mozilla-research-civil-liability-along-the-ai-value-chain/
   last_post_categories:
   - Artificial Intelligence
   last_post_language: ""
-  last_post_guid: ad3f7044a73be8b11ece94471b22302a
+  last_post_guid: 7ae5dcad2bf695adff2810023e6beaa7
   score_criteria:
     cats: 0
     description: 3

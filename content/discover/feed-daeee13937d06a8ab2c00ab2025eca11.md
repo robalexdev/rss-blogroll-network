@@ -1,9 +1,9 @@
 ---
 title: Confessions of a Code Addict
 date: "1970-01-01T00:00:00Z"
-description: Demystifying complex programming concepts through deep technical explorations
-  of language internals, computer architecture, and performance engineering – helping
-  curious developers become better by
+description: Deep dives into compilers, performance optimization, Linux internals,
+  and low-level programming. For engineers who love understanding systems at a fundamental
+  level.
 params:
   feedlink: https://blog.codingconfessions.com/feed
   feedtype: rss
@@ -19,13 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '[Course Launch] Hands-on Introduction to X86 Assembly'
-  last_post_description: A Live, Interactive Course for Systems Engineers
-  last_post_date: "2025-02-22T16:52:11Z"
-  last_post_link: https://blog.codingconfessions.com/p/course-launch-hands-on-introduction
+  last_post_title: Binary Arithmetic and Bitwise Operations for Systems Programming
+  last_post_description: Understand how computers represent numbers and perform operations
+    at the bit level before diving into assembly
+  last_post_date: "2025-04-12T05:16:14Z"
+  last_post_link: https://blog.codingconfessions.com/p/binary-arithmetic-and-bitwise-operations
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1bde6a33f8b58c6a611093507374ee62
+  last_post_guid: 6aeeeb5786d6679279f92a4a3837c4e0
   score_criteria:
     cats: 0
     description: 3

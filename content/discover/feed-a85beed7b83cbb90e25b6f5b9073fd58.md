@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: a85beed7b83cbb90e25b6f5b9073fd58
   websites:
-    https://blogs.gnome.org/jjardon: true
     https://blogs.gnome.org/jjardon/: false
   blogrolls: []
   in_blogrolls:
@@ -46,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

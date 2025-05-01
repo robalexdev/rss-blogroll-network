@@ -16,18 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Keycase: Self-Hostable Cloud Based Password Manager'
+  last_post_title: Software and Liberty
   last_post_description: |-
-    Users can sign in to keycase using Google Authentication (Domains
-    configurable).
+    Let me preface this by saying it straight. Proprietary software is not
+    inherently malicious or evil as long as the user is on board with it.
 
-    Keycase requires a master password to decrypt the RSA private key of
-    the user which is stored in the cloud (firebase)
-  last_post_date: "2024-04-27T23:04:33+05:30"
-  last_post_link: https://blog.s20n.dev/posts/keycase-password-manager/
+    Individuals and businesses should have the freedom to use
+  last_post_date: "2025-03-21T07:17:00+05:30"
+  last_post_link: https://blog.s20n.dev/posts/software-and-liberty/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d1b13ec2acc53d4b41c65f92cf3c9ec2
+  last_post_guid: 7b31fc3aba07806ec6c4bdd57de9b404
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 7
   avgpostlen: 0
 ---

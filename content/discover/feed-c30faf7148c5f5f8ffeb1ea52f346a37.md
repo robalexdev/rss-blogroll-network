@@ -12,23 +12,13 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - film
   - music
@@ -36,21 +26,18 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: Blog Questions Challenge
-  last_post_description: Last week (ish) one of those old-style memetic chain letter
-    thingies started appearing in a few of my RSS follows, namely Jon, Jeremy, Rachel
-    and Ethan. And seen as Jeremy passed the challenge along
-  last_post_date: "2025-02-04T16:57:35Z"
-  last_post_link: https://polytechnic.co.uk/blog/2025/02/blog-questions-challenge/
+  last_post_title: Who do I link to?
+  last_post_description: "Phil has released a cool new feature for ooh.directory,
+    a “Most linked-to domains” section for each site. \nThis isn’t data I would have
+    thought to generate for myself unless I had a specific"
+  last_post_date: "2025-04-08T15:04:58Z"
+  last_post_link: https://polytechnic.co.uk/blog/2025/04/who-do-i-link-to/
   last_post_categories:
-  - blogging
-  - challenge
-  - django
-  - python
-  - wagtail
-  - writing
+  - directory
+  - linking
+  - worldwideweb
   last_post_language: ""
-  last_post_guid: 84a0722bc29d4264dc8ac7c5426b11b8
+  last_post_guid: 6ed41118a6c947cbd3d114bf6263e1fa
   score_criteria:
     cats: 5
     description: 3

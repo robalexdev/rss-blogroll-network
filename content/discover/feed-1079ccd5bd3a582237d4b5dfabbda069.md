@@ -21,38 +21,40 @@ params:
   - News
   - Riunioni
   - freesoftware
+  - hacker
+  - hackerismo
   - libresoftware
   - linux
-  - marimo
   - meeting
-  - notebook
   - openhardware
   - opensource
-  - python
   - riunione didattica
+  - sindacalismo
+  - tech workers
   relme: {}
-  last_post_title: NaLUG@UniNA – sabato 14 dicembre 2024
+  last_post_title: NaLUG@UniNA – sabato 12 aprile 2025
   last_post_description: Ciclo di incontri su software e hardware open source e libertà
     digitali
-  last_post_date: "2024-12-11T15:25:40Z"
-  last_post_link: https://www.nalug.tech/nalugunina-sabato-14-dicembre-2024/
+  last_post_date: "2025-04-08T08:48:12Z"
+  last_post_link: https://www.nalug.tech/nalugunina-sabato-12-aprile-2025/
   last_post_categories:
   - '#napoli'
   - NaLUGAtUniNA
   - News
   - Riunioni
   - freesoftware
+  - hacker
+  - hackerismo
   - libresoftware
   - linux
-  - marimo
   - meeting
-  - notebook
   - openhardware
   - opensource
-  - python
   - riunione didattica
+  - sindacalismo
+  - tech workers
   last_post_language: ""
-  last_post_guid: 677703acda49b6b32bdd46559c66a964
+  last_post_guid: 37304b31f82d14499aa0642c5e14fa65
   score_criteria:
     cats: 0
     description: 3

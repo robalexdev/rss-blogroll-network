@@ -18,13 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Do the Woo v5.0 Changelog
-  last_post_description: Version 5.0 2025-02-20 You can see our entire changelog here.
-  last_post_date: "2025-02-20T11:46:48Z"
-  last_post_link: https://dothewoo.io/blog/do-the-woo-v5-0-changelog/
+  last_post_title: Do the Woo is Proudly Sponsoring WordCamp Lisboa 2025
+  last_post_description: We are excited to sponsor WordCamp Lisboa on May 16th and
+    17th, following a Warmup Meetup. I will be at our booth, ready for podcasts, and
+    I encourage attendees to get their tickets now.
+  last_post_date: "2025-04-16T11:50:07Z"
+  last_post_link: https://dothewoo.io/blog/do-the-woo-is-proudly-sponsoring-wordcamp-lisboa-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f68feaa162aba1c093cdc1940dbd32bc
+  last_post_guid: 3b29b954b01c766b432eb47e6a93c3cd
   score_criteria:
     cats: 0
     description: 3

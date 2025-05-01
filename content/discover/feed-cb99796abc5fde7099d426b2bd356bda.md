@@ -22,9 +22,7 @@ params:
   - prosody
   - prosodyctl
   relme:
-    https://eiyapah.blogspot.com/: true
     https://gsoc-prosody-2019.blogspot.com/: true
-    https://www.blogger.com/profile/13709646787627337978: true
   last_post_title: Final GSoC Report - Prosody Plugin Installer!
   last_post_description: ""
   last_post_date: "2019-09-02T17:00:13+01:00"

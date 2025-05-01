@@ -26,23 +26,23 @@ params:
   - https://josh.blog/feed
   categories:
   - AI & ML
-  - Engineering
-  - Generative AI
   - GitHub Copilot
+  - GitHub for beginners
+  - REST API
   relme: {}
-  last_post_title: How to debug code with GitHub Copilot
-  last_post_description: "GitHub Copilot can streamline your debugging process by
-    troubleshooting in your IDE, analyzing pull requests, and more, helping you tackle
-    issues faster and more robustly. \nThe post How to debug code"
-  last_post_date: "2025-02-21T17:00:49Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/
+  last_post_title: 'GitHub for Beginners: Building a REST API with Copilot'
+  last_post_description: |-
+    See how you can use GitHub Copilot to build an API.
+    The post GitHub for Beginners: Building a REST API with Copilot appeared first on The GitHub Blog.
+  last_post_date: "2025-04-28T13:00:42Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/
   last_post_categories:
   - AI & ML
-  - Engineering
-  - Generative AI
   - GitHub Copilot
+  - GitHub for beginners
+  - REST API
   last_post_language: ""
-  last_post_guid: 6d570089a7e908d2e4908180ab6b0612
+  last_post_guid: d23f1e161355a85fa06492fbf9a7be96
   score_criteria:
     cats: 0
     description: 3

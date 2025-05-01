@@ -26,29 +26,27 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Design
-  - Websites
-  - film
+  - AI
+  - family
   - glamorous
-  - people
+  - project management
+  - software
   relme:
-    https://front-end.social/@zeldman: true
     https://zeldman.com/: true
-    https://zeldman.link/: true
-  last_post_title: Forever
-  last_post_description: The first website my colleagues and I created was for “Batman
-    Forever” (1995, d. Joel Schumacher), starring Val Kilmer. That website changed
-    my life and career. I never saw “Top Gun,” but Val
-  last_post_date: "2025-04-02T11:27:51Z"
-  last_post_link: https://zeldman.com/2025/04/02/forever/
+  last_post_title: My father, Maurice Zeldman, and his ZGANNT software
+  last_post_description: |-
+    I asked Claude to write about the career of my father, the inventor Maurice Zeldman, as if I’d written it myself. Here, with no edits by me, is what Claude said.
+    The post My father, Maurice Zeldman
+  last_post_date: "2025-04-14T09:01:48Z"
+  last_post_link: https://zeldman.com/2025/04/14/my-father-maurice-zeldman-and-his-zgannt-software/
   last_post_categories:
-  - Design
-  - Websites
-  - film
+  - AI
+  - family
   - glamorous
-  - people
+  - project management
+  - software
   last_post_language: ""
-  last_post_guid: 64ae2efdc5fd7b583c81b64cb0a8745e
+  last_post_guid: 4700e9f6b0b413a7d9c8eed2ae09cb9c
   score_criteria:
     cats: 0
     description: 3

@@ -15,7 +15,6 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
@@ -24,14 +23,14 @@ params:
   - Programming
   - Raspberry Pi
   relme: {}
-  last_post_title: Offline Advocate
-  last_post_description: Digital hoarding as a check against the ephemeral nature
-    of the internet ... and maybe some peace of mind.
-  last_post_date: "2024-11-19T12:00:00Z"
-  last_post_link: https://www.engineersneedart.com/blog/offlineadvocate/offlineadvocate.html
+  last_post_title: Duane Blehm
+  last_post_description: A little about Duane Blehm, an early Macintosh shareware
+    author.
+  last_post_date: "2025-03-03T12:00:00Z"
+  last_post_link: https://www.engineersneedart.com/blog/duane/duane.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 27c7bb57ccde76c9fd062c9cbd5b4440
+  last_post_guid: 679042dcf9cc596ef983605562caf0ad
   score_criteria:
     cats: 2
     description: 3
@@ -49,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 23
+  postcount: 24
   avgpostlen: 0
 ---

@@ -9,7 +9,6 @@ params:
   websites:
     https://rushkoff.com/: true
     https://rushkoff.com/blog/: false
-    https://www.rushkoff.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll

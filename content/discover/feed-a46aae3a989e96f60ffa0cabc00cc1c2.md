@@ -1,6 +1,6 @@
 ---
 title: Amit's Thoughts
-date: "2025-02-13T09:59:09-08:00"
+date: "2025-04-24T21:07:33-07:00"
 description: Amit has crazy thoughts.
 params:
   feedlink: https://amitp.blogspot.com/feeds/posts/default/-/emacs
@@ -33,14 +33,14 @@ params:
   - transportation
   - typography
   relme: {}
-  last_post_title: Emacs consult-buffer filenames
+  last_post_title: Emacs per-project colors
   last_post_description: ""
-  last_post_date: "2024-05-29T09:19:04-07:00"
-  last_post_link: https://amitp.blogspot.com/2024/05/emacs-consult-buffer-filenames.html
+  last_post_date: "2025-04-24T21:07:33-07:00"
+  last_post_link: https://amitp.blogspot.com/2025/04/emacs-per-project-colors.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: 19c002039e73031696883ab45d2bf85a
+  last_post_guid: 5bd5afec07b5b68c20fd11aaec783dad
   score_criteria:
     cats: 5
     description: 3
@@ -59,5 +59,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 297
 ---

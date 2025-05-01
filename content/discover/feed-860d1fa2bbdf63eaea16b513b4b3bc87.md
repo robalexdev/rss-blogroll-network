@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Slashing my ".bashrc" in half
-  last_post_description: In only 10 years
-  last_post_date: "2025-02-20T21:20:44Z"
-  last_post_link: https://www.bitecode.dev/p/slashing-my-bashrc-in-half
+  last_post_title: What's up python? Less perf, no sugar and more bugs
+  last_post_description: March, 2025
+  last_post_date: "2025-04-02T10:49:01Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 781232c53c129a6d0e192bef5dffa4b6
+  last_post_guid: 13954595065cc39b07c87e50f2d1a376
   score_criteria:
     cats: 0
     description: 3

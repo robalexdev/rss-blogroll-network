@@ -10,14 +10,17 @@ params:
     https://ttntm.me/: false
     https://ttntm.me/blog/: false
     https://ttntm.me/everything/: false
+    https://ttntm.me/hello/: false
     https://ttntm.me/likes/: false
     https://ttntm.me/notes/: true
   blogrolls:
   - https://ttntm.me/blogroll.opml
   in_blogrolls: []
   recommended:
+  - https://82mhz.net/index.xml
   - https://anhvn.com/feed.xml
   - https://antfu.me/feed.xml
+  - https://boehs.org/in/blog.xml
   - https://chrisburnell.com/feed.xml
   - https://garrit.xyz/rss.xml
   - https://home.hedy.dev/posts/index.xml
@@ -25,10 +28,9 @@ params:
   - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
   - https://prma.dev/index.xml
-  - https://write.as/ttt-computer/feed/
   - https://www.andreinc.net/feed.xml
-  - https://www.kuketz-blog.de/feed/
   - https://www.lkhrs.com/blog/index.xml
+  - https://www.markpitblado.me/feed.xml
   - https://www.mikestreety.co.uk/rss-all.xml
   - https://home.hedy.dev/posts/atom.xml
   - https://prma.dev/dailies/feed.xml
@@ -36,8 +38,6 @@ params:
   - https://prma.dev/posts/feed.xml
   - https://prma.dev/recommendations/feed.xml
   - https://prma.dev/til/feed.xml
-  - https://www.kuketz-blog.de/category/artikel/feed/
-  - https://www.kuketz-blog.de/category/microblog/feed/
   - https://www.lkhrs.com/index.xml
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml

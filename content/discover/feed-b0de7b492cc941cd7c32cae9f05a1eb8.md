@@ -1,6 +1,6 @@
 ---
 title: Nicky's Blog
-date: "2025-02-24T17:48:48Z"
+date: "2025-04-28T21:03:51Z"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 params:

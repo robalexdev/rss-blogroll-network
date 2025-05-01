@@ -18,28 +18,32 @@ params:
   categories:
   - Blog
   - Community Sprint
+  - FOSS4G
+  - FOSSGIS
   - GIS
   - GRASS
   - GRASS development
   - OSGeo
   - OpenSource
   relme: {}
-  last_post_title: GRASS GIS 8.4.1RC1 released
+  last_post_title: GRASS GIS 8.4.1 released
   last_post_description: |-
-    The GRASS GIS 8.4.1RC1 release provides more than 70 improvements and fixes with respect to the release 8.4.0. Please support us in testing this release candidate.
-    The post GRASS GIS 8.4.1RC1
-  last_post_date: "2025-02-12T22:07:26Z"
-  last_post_link: https://neteler.org/blog/grass-gis-8-4-1rc1-released/
+    The GRASS GIS 8.4.1 release provides more than 80 improvements and fixes with respect to the release 8.4.0. Enjoy!
+    The post GRASS GIS 8.4.1 released appeared first on Markus Neteler Consulting.
+  last_post_date: "2025-03-07T11:53:24Z"
+  last_post_link: https://neteler.org/blog/grass-gis-8-4-1-released/
   last_post_categories:
   - Blog
   - Community Sprint
+  - FOSS4G
+  - FOSSGIS
   - GIS
   - GRASS
   - GRASS development
   - OSGeo
   - OpenSource
   last_post_language: ""
-  last_post_guid: 38092a8c472bddd57290eae8675a8895
+  last_post_guid: 0c6ba830d6b130faa50d589aeb46f8c1
   score_criteria:
     cats: 0
     description: 3

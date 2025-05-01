@@ -1,6 +1,6 @@
 ---
 title: Python GUIs - qt
-date: "2024-09-27T07:00:00Z"
+date: "2025-04-03T12:01:00Z"
 description: Create GUI applications with Python and Qt
 params:
   feedlink: https://martinfitzpatrick.name/feeds/qt.tag.atom.xml
@@ -15,39 +15,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - desktop-application
-  - pyqt
+  - app
+  - database
+  - databases
+  - notes
+  - notetaking
+  - pyside
   - pyside6
-  - pyside6-vector-graphics
   - python
-  - qgraphics
-  - qgraphicsitem
-  - qgraphicsview
   - qt
   - qt6
-  - vector-graphics
+  - sql
+  - sticky-notes
   relme: {}
-  last_post_title: Introduction to the QGraphics framework — Creating vector interfaces
-    using the QGraphics View framework
-  last_post_description: The Qt Graphics View Framework allows you to develop fast
-    and efficient 2D vector graphic scenes. Scenes can contain millions of items,
-    each with their own features and behaviors. By using the
-  last_post_date: "2024-09-27T07:00:00Z"
-  last_post_link: https://www.pythonguis.com/tutorials/pyside6-qgraphics-vector-graphics/
+  last_post_title: Build a Desktop Sticky Notes Application with PySide6 & SQLAlchemy
+    — Create moveable desktop reminders with Python
+  last_post_description: Do you ever find yourself needing to take a quick note of
+    some information but have nowhere to put it? Then this app is for you! This virtual
+    sticky notes (or Post-it notes) app allows you to keep
+  last_post_date: "2025-04-03T12:01:00Z"
+  last_post_link: https://www.pythonguis.com/examples/pyside6-desktop-sticky-notes/
   last_post_categories:
-  - desktop-application
-  - pyqt
+  - app
+  - database
+  - databases
+  - notes
+  - notetaking
+  - pyside
   - pyside6
-  - pyside6-vector-graphics
   - python
-  - qgraphics
-  - qgraphicsitem
-  - qgraphicsview
   - qt
   - qt6
-  - vector-graphics
+  - sql
+  - sticky-notes
   last_post_language: ""
-  last_post_guid: ad1cd30d10466c229ad760bbdc499b97
+  last_post_guid: 508dfcace73061eac942008194c8995e
   score_criteria:
     cats: 0
     description: 3

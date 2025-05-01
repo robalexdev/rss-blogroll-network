@@ -17,16 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RichCalls Warden 使用指南
+  last_post_title: 价格行为学 - 如何通过系统化练习掌握价格行为交易？
   last_post_description: |-
     引言
-    Warden 是我开发的一套用于帮我们美股止盈/止损的工具，它可以帮助你在美股交易中更好的控制风险。帮助你守住利润，避免亏损。
-    官网是 https
-  last_post_date: "2024-08-06T12:58:00+08:00"
-  last_post_link: https://blog.forecho.com/use-richcalls-warden.html
+    本篇文章内容出自于价格行为学的 Rose 频道，由我翻译整理。原文链接
+    问题背景
+    在 Rose 的 Discord
+  last_post_date: "2025-04-13T11:10:58+08:00"
+  last_post_link: https://blog.forecho.com/systematic-price-action-trading-guide.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b7ade051f9fb8b0329429a13af6ca1ae
+  last_post_guid: bd5c2441b8459e24220d307cdae496cb
   score_criteria:
     cats: 0
     description: 3

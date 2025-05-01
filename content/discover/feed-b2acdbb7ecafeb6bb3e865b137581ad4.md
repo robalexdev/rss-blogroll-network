@@ -1,6 +1,6 @@
 ---
 title: Logging the Switch
-date: "2025-02-24T11:22:24Z"
+date: "2025-04-19T23:29:06+02:00"
 description: Logging the Switch is een weblog van Christian Luijten, die in 2004 besloot
   dat hij zou stoppen met PCs en switchen naar de Mac. In eerste instantie was het
   plan om te switchen van Linux op de PC
@@ -19,36 +19,36 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories:
-  - notes
+  categories: []
   relme:
     https://github.com/islandsvinur: true
     https://luijten.org/: true
     https://mastodon.social/@islandsvinur: true
     https://www.luijten.org/: true
-  last_post_title: Maak de Raspberry Pi PoE-hat ventilator stiller
+  last_post_title: Zonsverduistering
   last_post_description: |-
-    Ik heb een Raspberry Pi met Power-over-Ethernet (PoE) hat in de meterkast hangen (met onder andere een P1 kabel om de
-    slimme meter uit te lezen). Het nadeel is dat de PoE hat een kleine ventilator
-  last_post_date: "2024-09-29T00:00:00Z"
-  last_post_link: https://luijten.org/2024/09/29/raspberry-pi-poe-hat-fan.html
-  last_post_categories:
-  - notes
+    Vandaag was er weer
+    een gedeeltelijke zonsverduistering zichtbaar
+    boven Nederland. Net als de vorige keer hebben we met twee
+    grote stukken karton, een prikpen en een vergrootglas weer ons eigen
+  last_post_date: "2025-03-29T00:00:00+01:00"
+  last_post_link: https://luijten.org/2025/03/29/zonsverduistering.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7846259fb32e4780edf964d9c535f7cb
+  last_post_guid: 3b20833f2ee1ec05e2cea26aafea25d3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

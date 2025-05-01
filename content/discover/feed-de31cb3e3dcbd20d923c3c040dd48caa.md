@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: de31cb3e3dcbd20d923c3c040dd48caa
   websites:
-    https://blogs.fsfe.org/tobias_platen: true
     https://blogs.fsfe.org/tobias_platen/: false
   blogrolls: []
   in_blogrolls:
@@ -19,16 +18,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: The weekend after I ♥ Free Software Day 2025 – Sunday
-  last_post_description: This is part II of the I Love Free Software Day blogpost.
-    More specifially it is about the game Veloren which I played once three years
-    ago, when the pandemic was still ongoing. My computer that I
-  last_post_date: "2025-02-16T16:18:44Z"
-  last_post_link: https://blogs.fsfe.org/tobias_platen/2025/02/16/the-weekend-after-i-%e2%99%a5-free-software-day-2025-sunday/
+  last_post_title: Building my own Libsurvive compatible Lighthouse tracker
+  last_post_description: I am using both a Valve Index and a Crazyflie with Libsurvive,
+    with my Talos II, a mainboard FSF-certified to Respect My Freedom. Those Lighthouse
+    tracked devices use the same model of FPGA as the
+  last_post_date: "2025-04-01T19:39:48Z"
+  last_post_link: https://blogs.fsfe.org/tobias_platen/2025/04/01/building-my-own-libsurvive-compatible-lighthouse-tracker/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 775f647590ee9ea78c333746c4cefcfb
+  last_post_guid: 83dc2eefb82649d977a4c7574bbf7a3c
   score_criteria:
     cats: 0
     description: 3
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,14 +20,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: My panel at Web Summit about how The Times newsroom uses AI
-  last_post_description: Talking about how AI is being used among journalists at The
-    New York Times.
-  last_post_date: "2025-02-20T18:00:01Z"
-  last_post_link: https://www.zachseward.com/my-panel-at-web-summit-about-how-the-times-uses-ai/
+  last_post_title: 'Brief updates: hiring for my team, new interviews, upcoming events'
+  last_post_description: Hi from New York, where I'm enjoying the return of Yankees
+    baseball and getting ready for some upcoming travel. I'll be in Krakow for the
+    World News Media Congress May 4–6 and in Detroit for a live
+  last_post_date: "2025-04-16T14:46:13Z"
+  last_post_link: https://www.zachseward.com/brief-updates-hiring-for-my-team-new-interviews-upcoming-events/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fbf05e09e1ca8e23e6c230d85833b017
+  last_post_guid: 088d3591123735beae2196c438c7e559
   score_criteria:
     cats: 0
     description: 3

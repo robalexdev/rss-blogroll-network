@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Learn Shader Programming with Rick and Morty
+  last_post_title: A New Sudoku Layout With 81 Uniquely Shaped Cells
   last_post_description: |-
-    An interactive guide on making animations on the GPU
-          Read the whole post on danielchasehooper.com →
-  last_post_date: "2025-02-04T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/code-animated-rick/
+    My journey making a Sudoku variant that doesn’t have rows or columns
+          Read the whole article on danielchasehooper.com →
+  last_post_date: "2025-03-12T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/cracked-sudoku/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3125fab4feffd47dd3010b2b9d6ddb6e
+  last_post_guid: 4f47c48d14e5d68dbd1916bba84b9bba
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 4
+  postcount: 5
   avgpostlen: 0
 ---

@@ -28,18 +28,18 @@ params:
     description: 0
     feedlangs: 0
     hasContent: 3
-    hasPosts: 2
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 2
-  avgpostlen: 293
+  postcount: 3
+  avgpostlen: 295
 ---

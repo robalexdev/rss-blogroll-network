@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Blog
-  last_post_description: Blog
-  last_post_date: "2025-03-22T13:33:32-07:00"
-  last_post_link: https://lifeofpablo.com/blog/
+  last_post_title: Blog Roll
+  last_post_description: The famous blog roll on my site
+  last_post_date: "2025-04-16T02:04:49-07:00"
+  last_post_link: https://lifeofpablo.com/blog/roll
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 366180bdc4db6dd725391de184979e76
+  last_post_guid: 99b4dae005d6c9993d0076d3dd025f65
   score_criteria:
     cats: 0
     description: 3

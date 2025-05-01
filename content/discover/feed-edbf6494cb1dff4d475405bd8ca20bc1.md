@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why I Switched from Magit to VC-Mode (and How It Works for Me)
-  last_post_description: I am currently using vc-mode for my source code configuration
-    needs.  I wouldn’t call myself a die-hard vc-mode user, (at least not yet!). To
-    earn that title, I think I would need years of
-  last_post_date: "2025-02-21T07:54:00Z"
-  last_post_link: https://emacs.dyerdwelling.family/emacs/20250221075427-emacs--why-i-switched-from-magit-to-vc-mode/
+  last_post_title: 'Ollama-Buddy 0.9.35: Grok, Gemini Integration and Enhanced Sessions'
+  last_post_description: "Several improvements in the latest Ollama Buddy updates
+    (versions 0.9.21 through 0.9.35):\n\U0001F389 New AI Integrations with Grok and
+    Gemini\n\nGoogle’s Gemini is now complementing existing support for"
+  last_post_date: "2025-04-24T09:20:00+01:00"
+  last_post_link: https://emacs.dyerdwelling.family/emacs/20250424085731-emacs--ollama-buddy-0-9-35-grok-gemini-integration-enhanced-sessions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 85909d1d541448a7add4a12f7b5cb3c3
+  last_post_guid: 87a2692d1c2320c83fb37d0a8c9146a8
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 123
+  postcount: 139
   avgpostlen: 0
 ---

@@ -8,7 +8,6 @@ params:
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
     https://mxb.dev/: true
-    https://mxb.dev/notes: false
     https://mxb.dev/notes/: false
   blogrolls: []
   in_blogrolls:
@@ -18,10 +17,12 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml

@@ -1,6 +1,6 @@
 ---
 title: 知足常乐-水星投资理财的基本意念
-date: "2025-02-23T22:53:09-08:00"
+date: "2025-04-18T00:29:33-07:00"
 description: 享受单身生活的小孩子
 params:
   feedlink: https://mercurychong.blogspot.com/feeds/posts/default
@@ -84,36 +84,31 @@ params:
   relme:
     https://mercurychong.blogspot.com/: true
     https://www.blogger.com/profile/08751867098140741554: true
-  last_post_title: 股息流
+  last_post_title: 只是羡慕
   last_post_description: ""
-  last_post_date: "2025-02-23T22:52:52-08:00"
-  last_post_link: https://mercurychong.blogspot.com/2025/02/blog-post.html
+  last_post_date: "2025-04-18T00:29:33-07:00"
+  last_post_link: https://mercurychong.blogspot.com/2025/04/blog-post_18.html
   last_post_categories:
   - 心情故事
-  - 心理
-  - 投资-股息篇
-  - 投资理念
-  - 投资理财心态
-  - 面书分享
   last_post_language: ""
-  last_post_guid: 4d94275222c047224710c85362489fbc
+  last_post_guid: 3c4ffe3e71d9498ef97a00a2024eafda
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 213
+  avgpostlen: 208
 ---

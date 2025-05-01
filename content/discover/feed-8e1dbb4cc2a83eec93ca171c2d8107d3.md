@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-02-23T16:40:40-08:00"
+date: "2025-04-15T19:38:01-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -138,16 +138,16 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: On Not Being Immutable
+  last_post_title: Cliff Lynch RIP
   last_post_description: ""
-  last_post_date: "2025-02-06T08:00:00-08:00"
-  last_post_link: https://blog.dshr.org/2025/02/on-not-being-immutable.html
+  last_post_date: "2025-04-15T08:00:00-07:00"
+  last_post_link: https://blog.dshr.org/2025/04/cliff-lynch-rip.html
   last_post_categories:
-  - bitcoin
-  - defi
-  - impossibilities
+  - digital preservation
+  - personal
+  - scholarly communication
   last_post_language: ""
-  last_post_guid: ead67e5cf67f22dd15eadfecfb011fe9
+  last_post_guid: 468114078ffa1b778d634a74cb37a080
   score_criteria:
     cats: 5
     description: 3
@@ -166,5 +166,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 286
+  avgpostlen: 295
 ---

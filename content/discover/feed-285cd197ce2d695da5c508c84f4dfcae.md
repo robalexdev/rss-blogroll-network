@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RevivalStone Campaign by Winnti (Campaign)
-  last_post_description: The China-linked APT group Winnti (APT41) has been linked
-    to a new cyber espionage campaign, RevivalStone, targeting Japanese manufacturing,
-    materials, and energy companies in March 2024. The attack,
-  last_post_date: "2025-02-18T00:00:00Z"
-  last_post_link: https://threats.wiz.io/all-incidents/revivalstone-campaign-by-winnti
+  last_post_title: UNC5174 Linux Espionage Campaign (Campaign)
+  last_post_description: UNC5174, a suspected Chinese state-sponsored threat actor,
+    has resurfaced in a stealthy espionage campaign targeting Linux systems across
+    research institutions, government agencies, NGOs, and
+  last_post_date: "2025-04-16T00:00:00Z"
+  last_post_link: https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: efec691d1c624dad2685dc22500ea4f6
+  last_post_guid: 9a3a5744774dc7f6bcb58acad7a7d7f2
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 322
+  postcount: 358
   avgpostlen: 0
 ---

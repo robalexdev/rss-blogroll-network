@@ -16,29 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 分享热爱
+  - Wordpress
+  - macOS
+  - 技术笔记
+  - 日常
+  - 软件
   relme: {}
-  last_post_title: 友邻们
-  last_post_description: 不知不觉加了很多友情链接，分享些大家近一年写的有趣博客。 串门的感觉很好，祝大家新的一年里保持充足的表达欲！  […]
-  last_post_date: "2025-02-20T14:50:00Z"
-  last_post_link: https://anotherdayu.com/2025/6554/
+  last_post_title: 一点点展开我的 macOS
+  last_post_description: Core Alfred 是我的应用启动器，感兴趣的朋友可看：2024 Alfred 5 基础设置和 Workl […]
+  last_post_date: "2025-04-25T19:31:39Z"
+  last_post_link: https://anotherdayu.com/2025/6733/
   last_post_categories:
-  - 分享热爱
+  - Wordpress
+  - macOS
+  - 技术笔记
+  - 日常
+  - 软件
   last_post_language: ""
-  last_post_guid: 5efca8135813f48aaf143e3ac7c7b2bb
+  last_post_guid: 7ec799604ed5da090335230a0a0b2089
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

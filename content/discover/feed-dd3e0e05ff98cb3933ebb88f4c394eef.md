@@ -21,10 +21,7 @@ params:
   - https://alldeadgenerations.blogspot.com/feeds/posts/default?alt=rss
   - https://alphastream.org/index.php/feed/
   - https://amoreconviviallife.wordpress.com/feed/
-  - https://anniemueller.com/posts_feed
-  - https://arialdomartini.github.io/atom
   - https://arialdomartini.github.io/feed.xml
-  - https://arne.me/articles/atom.xsml
   - https://arne.me/blog/feed.xml
   - https://atthis.link/rss.xml
   - https://avdi.codes/feed/
@@ -34,17 +31,10 @@ params:
   - https://baty.net/feed
   - https://blog.aaronbieber.com/posts/index.xml
   - https://blog.adambark.com/index.xml
-  - https://blog.appsignal.com/category/ruby-feed.xml
-  - https://blog.jethro.dev/index.xml
   - https://blog.meain.io/feed.xml
-  - https://blog.testdouble.com/index.xml
-  - https://brandur.org/articles.atom
-  - https://brandur.org/atoms.atom
-  - https://brandur.org/fragments.atom
   - https://burnafterrunningrpg.com/feed/
   - https://bxblackrazor.blogspot.com/feeds/posts/default/
   - https://campaignwiki.org/files/osr-discord.xml
-  - https://campaignwiki.org/rpg/feed.xml
   - https://cepheusjournal.com/feed/
   - https://cestlaz.github.io/rss.xml
   - https://characteralchemyrpg.wordpress.com/feed/
@@ -67,7 +57,6 @@ params:
   - https://feeds.feedburner.com/brainpickings/rss
   - https://feeds.jamesmead.org/floehopper-blog
   - https://frotz.weaponvsac.space/feeds/posts/default
-  - https://github.com/gohugoio/hugo/releases.atom
   - https://githyankidiaspora.com/feed/
   - https://go.dev/blog/feed.atom
   - https://gretzuni.com/atom/
@@ -76,6 +65,7 @@ params:
   - https://inclusive-components.design/rss/
   - https://inkdroid.org/feed.xml
   - https://irreal.org/blog/?feed=rss
+  - https://johnrakestraw.com/index.xml
   - https://juanjose.garciaripoll.com/blog/rss.xml
   - https://jxself.org/rss20.xml
   - https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-content.xml
@@ -104,10 +94,6 @@ params:
   - https://publicdomainreview.org/rss.xml
   - https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss
   - https://roytang.net/blog/feed/rss
-  - https://ruby.libhunt.com/newsletter/feed
-  - https://rubycentral.org/news/rss/
-  - https://rubyonrails.org/feed.xml
-  - https://rubyweekly.com/rss/
   - https://sachachua.com/blog/feed
   - https://sachagoat.blot.im/feed.rss
   - https://seedofworlds.blogspot.com/feeds/posts/default
@@ -116,10 +102,7 @@ params:
   - https://soniasulaiman.com/feed/
   - https://spacecockroach.blogspot.com/feeds/posts/default
   - https://sqrtminusone.xyz/posts/index.xml
-  - https://stancarey.wordpress.com/feed/
-  - https://susankayequinn.com/feed
   - https://svbck.org/blog/rss.xml
-  - https://swordsandstitchery.blogspot.com/feeds/posts/default
   - https://taonaw.com/feed.xml
   - https://thedicesociety.com/index.xml
   - https://throneofsalt.blogspot.com/feeds/posts/default
@@ -156,34 +139,36 @@ params:
   - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - technologies
+  - personal
+  - responses
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Remediating MacOS Spotlight Misbehavior
-  last_post_description: "Summary: \nA walk through of reseting a mangled #MacOS Spotlight
-    setting, and rebuilding the index.\n\nFor awhile I’ve been living with a borked
-    Spotlight configuration. When I’d go\nto the System"
-  last_post_date: "2025-02-08T13:08:27-05:00"
-  last_post_link: https://takeonrules.com/2025/02/08/remediating-macos-spotlight-misbehavior/
+  last_post_title: 'Slowness: To Idle Against this Age'
+  last_post_description: "Summary: \nAn ambling through memories of a slower time
+    and mindset; all triggered by a fellow blogger.\n\n        My mind is racing,
+    as it always will\nMy hands tired, my heart aches\nI’m half a world"
+  last_post_date: "2025-04-18T07:44:41-04:00"
+  last_post_link: https://takeonrules.com/2025/04/18/slowness-to-idle-against-this-age/
   last_post_categories:
-  - technologies
+  - personal
+  - responses
   last_post_language: ""
-  last_post_guid: b471c4d4d3ab7b2dff6ae704d1246877
+  last_post_guid: 71ca64998d6659a6f1bb5fb5b3277e68
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

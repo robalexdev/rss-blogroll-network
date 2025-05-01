@@ -20,35 +20,35 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: 'Major Security Flaw in Juniper Networks Routers: How to Protect
-    Your Systems'
+  last_post_title: Hacktivists Target Critical Infrastructure, Move Into Ransomware
   last_post_description: |-
     Overview
 
 
 
 
-    Juniper Networks, a leading provider of networking solutions, has recently issued a security advisory addressing a critical vulnerability affecting multiple Juniper Networks devices.
-  last_post_date: "2025-02-24T10:57:41Z"
-  last_post_link: https://cyble.com/blog/major-security-flaw-in-juniper-networks-routers/
+    According to a new Cyble report, hacktivists are increasingly moving beyond traditional activities like DDoS attacks and website defacements into more sophisticated critical
+  last_post_date: "2025-04-15T08:22:39Z"
+  last_post_link: https://cyble.com/blog/hacktivists-infrastructure-move-into-ransomware/
   last_post_categories:
-  - Juniper Network
-  - Vulnerability
+  - Hacktivist
+  - Ransomware
+  - ransomware
   last_post_language: ""
-  last_post_guid: 76b6002372878a76ca5bf5960d4c5c62
+  last_post_guid: 4c60bb9986d44e86a5eacdafb20c4445
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: true
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: DataWars Posts and Articles about Data Science
-date: "2024-11-25T16:21:58Z"
+date: "2025-04-23T19:41:32Z"
 description: Data Science and Data Analysis helpful articles and blog posts
 params:
   feedlink: https://www.datawars.io/articles/rss.xml
@@ -16,14 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 7 free Machine Learning projects to practice using Python | DataWars
-  last_post_description: A collection of free projects to practice machine learning
-    with real life examples using Python
-  last_post_date: "2025-02-23T09:48:16Z"
-  last_post_link: https://www.datawars.io/articles/7-free-machine-learning-projects-to-practice-using-python
+  last_post_title: 'Replit Teams for Education Deprecation: All you need to know |
+    DataWars'
+  last_post_description: Replit Teams for Education will shut down on August 1st,
+    2024. Here is all you need to know to find an alternative.
+  last_post_date: "2025-04-23T19:41:12Z"
+  last_post_link: https://www.datawars.io/articles/replit-teams-for-education-deprecation-all-you-need-to-know
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 76f9a01bea4e4bd8eb59710e1d3aed00
+  last_post_guid: 97fd45dd5d703bf0f23cc7dc4139e6d0
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 7
+  postcount: 8
   avgpostlen: 0
 ---

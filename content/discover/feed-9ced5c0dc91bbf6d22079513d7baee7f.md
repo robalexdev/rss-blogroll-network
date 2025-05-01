@@ -1,6 +1,6 @@
 ---
 title: Python Bytes
-date: "2025-02-17T00:00:00-08:00"
+date: "2025-04-21T00:00:00-08:00"
 description: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian
   Okken. The show is a short discussion on the headlines and noteworthy news in the
   Python, developer, and data science space.
@@ -21,15 +21,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: '#420 90% Done in 50% of the Available Time'
-  last_post_description: "Topics covered in this episode:\n\n\n\tPEP 772 – Packaging
-    governance process\nOfficial Django MongoDB Backend Now Available in Public Preview\nDeveloper
-    Philosophy\nPython 3.13.2"
-  last_post_date: "2025-02-17T00:00:00-08:00"
-  last_post_link: https://pythonbytes.fm/episodes/show/420/90-done-in-50-of-the-available-time
+  last_post_title: '#429 Nitpicking Python'
+  last_post_description: "Topics covered in this episode:\n\n\n\tHuly\nCVE Foundation
+    formed to take over CVE program from MITRE\ndrawdb\n14 Advanced Python Features\nExtras\nJoke\n\nWatch
+    on YouTube\n\nAbout the show\n\nSponsored by Posit"
+  last_post_date: "2025-04-21T00:00:00-08:00"
+  last_post_link: https://pythonbytes.fm/episodes/show/429/nitpicking-python
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4dfa83096a366740da861d0849edc836
+  last_post_guid: 95f72da06443159f2734af4b7fe68eac
   score_criteria:
     cats: 2
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 416
+  postcount: 429
   avgpostlen: 0
 ---

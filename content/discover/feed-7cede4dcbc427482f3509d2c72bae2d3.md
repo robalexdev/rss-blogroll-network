@@ -12,13 +12,7 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.7.55.
@@ -30,28 +24,23 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Decay Chain
+  last_post_title: PhD Timeline
   last_post_description: ""
-  last_post_date: "2025-04-02T04:00:00Z"
-  last_post_link: https://xkcd.com/3071/
+  last_post_date: "2025-04-25T04:00:00Z"
+  last_post_link: https://xkcd.com/3081/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e1da1e65e8eb9fdde439f663411309bb
+  last_post_guid: 6459b71ef3164dba2f6f1d09cdbe05a2
   score_criteria:
     cats: 0
     description: 3

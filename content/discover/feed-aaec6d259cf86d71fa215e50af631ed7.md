@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 10 Commandments For Software Engineering Excellence
-  last_post_description: Every software engineer hits that familiar barrier. You've
-    mastered your daily tasks, learned the codebase, and become a reliable team member.
-    Yet something's missing. That nagging feeling that you
-  last_post_date: "2025-02-19T07:00:49Z"
-  last_post_link: https://www.mensurdurakovic.com/10-commandments-for-software-engineering-excellence/
+  last_post_title: React i18next tips and tricks
+  last_post_description: When making your React application accessible in multiple
+    languages, i18next and its React companion library react-i18next offer a very
+    robust set of features and tools. The libraries work together
+  last_post_date: "2025-03-26T07:00:14Z"
+  last_post_link: https://www.mensurdurakovic.com/react-i18next-tips-and-tricks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78b3c88bb41111b30462127b455ee955
+  last_post_guid: 89d4da54c50118ec42226893eb542b04
   score_criteria:
     cats: 0
     description: 3

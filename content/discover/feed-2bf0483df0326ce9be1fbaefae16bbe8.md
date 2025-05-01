@@ -1,6 +1,6 @@
 ---
 title: (think)
-date: "2025-02-23T19:37:34Z"
+date: "2025-04-17T20:03:25Z"
 description: Bozhidar Batsov's personal blog
 params:
   feedlink: https://batsov.com/feeds/Emacs.xml
@@ -16,19 +16,19 @@ params:
   recommender: []
   categories:
   - Emacs
-  - macOS
+  - use-package
   relme: {}
-  last_post_title: macOS No Longer Ships with Emacs
-  last_post_description: While I was setting up my new mac mini yesterday I noticed
-    something interesting - Apple have stopped shipping the ancient Emacs 22.1 with
-    macOS! As I was mostly using Windows + WSL2 in the past 5
-  last_post_date: "2025-01-12T09:03:00Z"
-  last_post_link: https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/
+  last_post_title: Using use-package the right way
+  last_post_description: I recently wrote that Emacs startup time doesn’t matter and
+    I got quite a lot of heat for it. I totally stand by everything I said there,
+    but I acknowledge that different people have different use
+  last_post_date: "2025-04-17T12:50:00Z"
+  last_post_link: https://batsov.com/articles/2025/04/17/using-use-package-the-right-way/
   last_post_categories:
   - Emacs
-  - macOS
+  - use-package
   last_post_language: ""
-  last_post_guid: 64b9948a651509bfc536ab429078947d
+  last_post_guid: c2a8ba241a44f372401d4e67803bc208
   score_criteria:
     cats: 0
     description: 3

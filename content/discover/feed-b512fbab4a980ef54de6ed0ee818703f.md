@@ -18,16 +18,18 @@ params:
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
   categories: []
-  relme: {}
-  last_post_title: A sign of things to come?
-  last_post_description: I heard there was a big announcement today from Trump's secretary
-    of transportation about California's high speed rail, and I knew it was probably
-    going to be train wreck but I had no idea until I
-  last_post_date: "2025-02-20T18:29:22Z"
-  last_post_link: https://a.wholelottanothing.org/a-sign-of-things-to-come/
+  relme:
+    https://a.wholelottanothing.org/: true
+    https://github.com/mathowie: true
+  last_post_title: The most obvious case for universal healthcare
+  last_post_description: I've been a lifelong fan of universal healthcare, albeit
+    in a distant, envious way as I've never gotten to truly experience it myself.
+    There are times where I had double healthcare coverage that came
+  last_post_date: "2025-04-28T18:44:52Z"
+  last_post_link: https://a.wholelottanothing.org/the-most-obvious-case-for-universal-healthcare/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fac51d7ff7060631a6cad8c4597a1cc
+  last_post_guid: 6ed7e7e6ab751420fd0d700f1aab4f1a
   score_criteria:
     cats: 0
     description: 3
@@ -37,10 +39,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

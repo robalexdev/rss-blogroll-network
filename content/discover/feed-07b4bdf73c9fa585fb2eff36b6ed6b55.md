@@ -18,15 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2024 Machine Learning Review (For Technical Writers)
-  last_post_description: |-
-    A review of how much (or little) the ideas from GenAI Outlook 2023 have panned
-            out, and a discussion of potential future trends in 2025.
-  last_post_date: "2025-01-03T12:41:04-07:00"
-  last_post_link: https://technicalwriting.dev/ml/reviews/2024.html
+  last_post_title: The good, the bad, and the ugly of managing Sphinx projects with
+    Bazel
+  last_post_description: My experience of managing Sphinx projects with Bazel.
+  last_post_date: "2025-04-01T16:43:36-07:00"
+  last_post_link: https://technicalwriting.dev/sphinx/bazel/context.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7da8b27ebcf08fb048da6d260f889b8d
+  last_post_guid: 7223151c0ed7f7520826153dbe502bce
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Last Common Hamsters
-  last_post_description: The common hamster, once a familiar sight in European fields,
-    is now teetering on the brink of extinction. Nature filmmaker and ecologist David
-    Cebulla's documentary, "The Last Common Hamsters" ("Die
-  last_post_date: "2025-02-17T00:00:00Z"
-  last_post_link: https://eox.at/2025/02/wild-whiskers-eox-hamsters-guest-blog-post/
+  last_post_title: Sentinel-2 cloudless 2024
+  last_post_description: We are excited to announce the release of EOxCloudless 2024,
+    our latest update to the Sentinel-2 cloudless imagery collection. This year's
+    dataset brings enhanced clarity, improved consistency, and a
+  last_post_date: "2025-03-20T00:00:00Z"
+  last_post_link: https://eox.at/2025/03/sentinel-2-cloudless-2024/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2299c17b0598811d2bafb72c6a3e1e1a
+  last_post_guid: 88d23f3efd70386c9a944d6b27a2ca6c
   score_criteria:
     cats: 0
     description: 3

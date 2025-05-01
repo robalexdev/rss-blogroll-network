@@ -18,19 +18,17 @@ params:
   recommender: []
   categories: []
   relme:
-    https://kudmitry.com/: true
-    https://mstdn.social/@skwee357: true
-    https://thesolopreneur.blog/: true
     https://yieldcode.blog/: true
-  last_post_title: The commoditization of AI
+  last_post_title: Vibe Management
   last_post_description: |-
-    Earlier this week, a Chinese company released a new AI model called DeepSeek, that shattered the big tech giants that tried to own AI.
-    Seeing this, brings some memories from the past.
-  last_post_date: "2025-01-30T18:30:00Z"
-  last_post_link: https://yieldcode.blog/post/the-commoditization-of-ai/
+    Vibe coding is taking the internet by storm.
+    Popularized by Andrej Karpathy, it changes the entire industry.
+    But why only engineers should have all the fun?
+  last_post_date: "2025-04-01T16:00:00Z"
+  last_post_link: https://yieldcode.blog/post/vibe-management/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 320e587cf7c91b446c64f8f67dca03f8
+  last_post_guid: 895dd336015f0b46663a1761c2536047
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 52
+  postcount: 55
   avgpostlen: 0
 ---

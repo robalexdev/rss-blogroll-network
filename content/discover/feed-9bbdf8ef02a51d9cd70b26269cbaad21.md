@@ -20,16 +20,15 @@ params:
   categories: []
   relme:
     https://wa.rner.me/: true
-  last_post_title: 'How to get tracks on Spotify, Apple & Amazon Music the #SavvyIndie
-    way (#arts)'
-  last_post_description: "Do you want to be an artist who reaches audiences directly,
-    independent of Big Music / Big Tech? You’ll need:\n\U0001F3A7 Music Distribution
-    \U0001F50A\nYou need to upload your .wavs to a distributor, who will"
-  last_post_date: "2025-02-10T14:08:00Z"
-  last_post_link: https://wa.rner.me/2025/02/10/how-to-get-tracks-on.html
+  last_post_title: Slack minimalism (#tech)
+  last_post_description: |-
+    Introduction
+    Slack recently went offline and lots of people breathed a sigh of relief. I wasn’t one because I’ve been Slack free for some years, but I thought I’d dig out this old etiquette
+  last_post_date: "2025-02-28T11:41:55+01:00"
+  last_post_link: https://wa.rner.me/2025/02/28/slack-minimalism-tech.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a042db626a4ce3a80340c1d8ca4ba38a
+  last_post_guid: 79aacf89b6dbbc2370fd74f47bd672c7
   score_criteria:
     cats: 0
     description: 0

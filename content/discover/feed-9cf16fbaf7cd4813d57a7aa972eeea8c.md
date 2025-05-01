@@ -16,25 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - IFTTT
-  - n8n
-  - 工作流
+  - Pushover
+  - priority
   - 折腾不止
-  - 签到
+  - 消息优先级
   relme: {}
-  last_post_title: IFTTT 的本地部署平替 – n8n 自动化工作流
-  last_post_description: 我们也许已经使用过一些自动化工作流的服务或工具，如 IFTTT 或 iOS 系统中的快捷指令。这些服务可在某些…
-    继续阅读IFTTT 的本地部署平替 – n8n
-  last_post_date: "2025-02-16T14:40:11Z"
-  last_post_link: https://dgideas.net/2025/self-hosted-ifttt-alternative-n8n/
+  last_post_title: Pushover 的五种消息优先级别
+  last_post_description: 在消息推送服务 Pushover 的文档中，介绍了消息共有 5 种不同的优先级别（-2、-1、0、1 与 2）…
+    继续阅读Pushover 的五种消息优先级别
+  last_post_date: "2025-02-25T05:11:58Z"
+  last_post_link: https://dgideas.net/2025/pushover-message-priorities/
   last_post_categories:
-  - IFTTT
-  - n8n
-  - 工作流
+  - Pushover
+  - priority
   - 折腾不止
-  - 签到
+  - 消息优先级
   last_post_language: ""
-  last_post_guid: 3d27ea731d1267bb641beba29d0de065
+  last_post_guid: b4ef2caee538f528cd4d414b18edc1fe
   score_criteria:
     cats: 0
     description: 3

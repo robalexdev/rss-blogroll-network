@@ -16,13 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '[FR] org-read-date-style'
-  last_post_description: '[FR] org-read-date-style'
-  last_post_date: "2025-02-17T11:10:21Z"
-  last_post_link: https://list.orgmode.org/5e55afa5-d714-409e-867e-cae8f27b7d9a@gmail.com
+  last_post_title: '[FR] Allow entering time/date range for :time-prompt capture template
+    property (was: org-capture-fill-template %T drops end time)'
+  last_post_description: '[FR] Allow entering time/date range for :time-prompt capture
+    template property (was: org-capture-fill-template %T drops end time)'
+  last_post_date: "2025-04-27T12:53:45Z"
+  last_post_link: https://list.orgmode.org/87tt69py3t.fsf@localhost
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5e01767918bb9dfcbbba73d861c4f716
+  last_post_guid: ff3ca055713761b96e786fd5aef1bfc1
   score_criteria:
     cats: 0
     description: 3
@@ -40,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 64
+  postcount: 66
   avgpostlen: 0
 ---

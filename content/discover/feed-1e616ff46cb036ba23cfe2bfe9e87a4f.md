@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 1e616ff46cb036ba23cfe2bfe9e87a4f
   websites:
-    https://blogs.gnome.org/pmkovar: true
     https://blogs.gnome.org/pmkovar/: false
   blogrolls: []
   in_blogrolls:
@@ -46,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

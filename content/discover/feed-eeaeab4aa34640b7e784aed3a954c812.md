@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Using AI for Coding: My Journey with Cline and Large Language
-    Models'
-  last_post_description: In recent months, I embarked on a journey to transform the
-    UI/UX of a side project—bot.eofferte.eu, a SaaS platform that automates Amazon
-    affiliate marketing on Telegram and streamlines the Amazon
-  last_post_date: "2025-01-26T08:00:00Z"
-  last_post_link: https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/
+  last_post_title: 'Getting back to the EU: from Google Cloud to Self-Hosted EU Infrastructure'
+  last_post_description: In this article I’m going to show the process I followed
+    to migrate some of the services I used from Google Cloud to an European provider,
+    in this case OVH. I won’t use their cloud solution, but
+  last_post_date: "2025-03-15T08:00:00Z"
+  last_post_link: https://pgaleone.eu/cloud/2025/03/15/getting-back-to-the-eu-from-google-cloud-to-self-hosted-vps/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 74b1307e1dd5bce9cc74681c9d8aa0eb
+  last_post_guid: 89535c7cc26a7f79c539bd542a61ca74
   score_criteria:
     cats: 0
     description: 3

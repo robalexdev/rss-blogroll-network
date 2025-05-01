@@ -19,24 +19,26 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Donald Trump
-  - Elections
-  - The Big Lie
-  - election integrity
+  - Health Care
+  - Medicaid
+  - Ozempic
+  - Wegovy
   relme: {}
-  last_post_title: Election officials blast Trump’s ‘retreat’ from protecting voting
-    against foreign threats
-  last_post_description: The Trump administration has begun dismantling the nationâ€™s
-    defenses against foreign interference in voting, a sweeping retreat that has alarmed
-    state and local election officials. The
-  last_post_date: "2025-02-24T17:00:46Z"
-  last_post_link: https://missouriindependent.com/2025/02/24/election-officials-blast-trumps-retreat-from-protecting-voting-against-foreign-threats/
+  last_post_title: Biden wanted Medicaid to pay for weight-loss drugs. Trump said
+    it doesn’t have to
+  last_post_description: The Trump administration this month scrapped a Biden-era
+    proposal that would have required state Medicaid programs and allowed federal
+    Medicare to pay for some GLP-1s for obesity treatment. Instead,
+  last_post_date: "2025-04-28T20:44:26Z"
+  last_post_link: https://missouriindependent.com/2025/04/28/biden-wanted-medicaid-to-pay-for-weight-loss-drugs-trump-said-it-doesnt-have-to/
   last_post_categories:
   - Donald Trump
-  - Elections
-  - The Big Lie
-  - election integrity
+  - Health Care
+  - Medicaid
+  - Ozempic
+  - Wegovy
   last_post_language: ""
-  last_post_guid: 82ad3a787d5132c109c66fc0f837f3b2
+  last_post_guid: c6f0bbc651ca5a1553f45f0572a40b62
   score_criteria:
     cats: 0
     description: 3

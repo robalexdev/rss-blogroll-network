@@ -1,13 +1,12 @@
 ---
 title: Anil Dash
-date: "2025-01-04T00:00:00Z"
+date: "2025-04-10T00:00:00Z"
 description: A blog about making culture. Since 1999.
 params:
   feedlink: https://anildash.com/feed.xml
   feedtype: atom
   feedid: 26bbe268cb02f2a5ca657fab9985ddaa
-  websites:
-    https://anildash.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Understanding DOGE as Procurement Capture
+  last_post_title: It's time for Dolly to record that long-lost Prince song.
   last_post_description: ""
-  last_post_date: "2025-01-04T00:00:00Z"
-  last_post_link: https://anildash.com/2025/01/04/DOGE-procurement-capture/
+  last_post_date: "2025-04-10T00:00:00Z"
+  last_post_link: https://anildash.com/2025/04/10/dolly-prince-rescue-me/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fc724ae2f0159c97f617dd6b229ad45
+  last_post_guid: b5414d6cb13258ed21c15d8e848a3c38
   score_criteria:
     cats: 0
     description: 3
@@ -35,8 +34,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Mon, 24 Feb 2025 00:12:34 GMT
+date: Wed, 16 Apr 2025 02:00:42 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -67,10 +67,6 @@ params:
   - title: EclipsePlanet – Flos Blog
     description: ""
     id: 1221f6035fa694191d699e214e8afad8
-  - title: Yet Another Eclipse Project Blog
-    description: A blog about Eclipse Modeling and especially on EEF, for extending
-      the EMF editing framework.
-    id: 12aacb310410fcd0afb554e06382de40
   - title: Programming Barn
     description: Collection of notes on common problems and issues I faced while doing
       day to day programming
@@ -183,11 +179,6 @@ params:
   - title: Blinki’s Blog | Eclipse Mobile Dev
     description: mobile development for and about Eclipse
     id: 2bec1b51c2e45ffd0201b10ce03dca89
-  - title: Computing Reality
-    description: Software is eating the world! Or is it? The real world is far too
-      complex to ever capture in code. Given that it isn't fully digestible, shouldn't
-      we try to write code that reflects the beauty in the
-    id: 2c1bc024f76599d569c36b8949374ef5
   - title: Open Source Musings
     description: Random thoughts and discussions mostly about open source, including
       business and economic models. Discussions about software engineering, Eclipse,
@@ -339,9 +330,6 @@ params:
   - title: MDA4eclipse - by Etienne Juliot
     description: ""
     id: 59543f36be59ee99735d17b9d4b12ea4
-  - title: Paul Buck's blog
-    description: ""
-    id: 599c2c9384a3c833c3818b6ac01ad1f4
   - title: Nirmal's Blog
     description: Burn your eyes
     id: 5a9f412890524877ccc831299132f082
@@ -405,9 +393,6 @@ params:
   - title: publicabstractvoid
     description: Notes of a software developer
     id: 6b5c1d291a8eafc8a50020e563365c07
-  - title: InfoQ - Eclipse
-    description: InfoQ Eclipse feed
-    id: 6b6f74715f79b2f306b8e7487a4bca3d
   - title: Stories by Roxanne on IoT on Medium
     description: Stories by Roxanne on IoT on Medium
     id: 6c172821e76ff2c98a6c3082cd303e26
@@ -418,12 +403,6 @@ params:
   - title: Eclipse Dirigible
     description: Public site of Eclipse Dirigible (dirigible.io) project
     id: 6ce5ac9575f1fbf7330f3c7d1851ea65
-  - title: DSL Forge
-    description: Language Engineering for Web Applications and Cloud IDE
-    id: 6db3136ec4447a39c8c45e750f4ceab1
-  - title: John Kellerman's blog
-    description: ""
-    id: 6df586ed3f9876d631c5c9d255187a36
   - title: Eclipse Summer of Code
     description: ""
     id: 6ea177b835bdc1cc2129ceb0c79abda8
@@ -439,10 +418,6 @@ params:
   - title: Benoit Langlois
     description: ""
     id: 76e46717e765c84074b2904941710d73
-  - title: Eclipse Ditto Blog
-    description: Announcements, tutorials and examples around Eclipse Ditto and Digital
-      Twins
-    id: 78325d243f9f9522f0e2f29f15265b26
   - title: CEO @ Obeo
     description: ""
     id: 7859d2aa829b6f53aa72b4326c8dc5c3
@@ -711,9 +686,6 @@ params:
   - title: Eclipse IDE – What the Future Holds!
     description: Where Java Lives!
     id: d57eda3feafa0a59eb7e985d20844572
-  - title: Vladimir Prus
-    description: ""
-    id: d62a2171422d4741ddbd1a34318ec347
   - title: Eclipse from the bottom up
     description: The view of the Eclipse world from the bottom of the stack
     id: d68ef3916ee5e56f55554d4fdc9b69a5
@@ -739,9 +711,6 @@ params:
   - title: Being Eclipsed
     description: ""
     id: de7795ac7278632ac79ab8116375ec54
-  - title: Clark Roundy's blog
-    description: ""
-    id: df3d0098c03c003817572065875b8096
   - title: Eclipse Fever
     description: ""
     id: df6df46d5921a1f6df9052d936e01500
@@ -749,9 +718,6 @@ params:
     description: Martin Oberhuber's thoughts on Eclipse, Java, Embedded C/C++ and
       the Community
     id: dfe7414922bd04af133568a7e77e36cb
-  - title: Denis Roy's blog
-    description: ""
-    id: e105e17c6f9f41954fe870578a2d3e90
   - title: Antumbra, Comerge and Eclipse
     description: ""
     id: e1e8a71a96ee9b014339eea938f4bb9a
@@ -829,9 +795,6 @@ params:
   - title: OSGi – Ralf Zahn's blog
     description: My experiences with Java EE, OSGi and Eclipse.
     id: f5c01dcef99485bd3a325e36bfd723b4
-  - title: Sharon Corbett's blog
-    description: ""
-    id: f6eee86fdafa490489c61c86a22345eb
   - title: William Piers
     description: ""
     id: f71041f280362249de7e1694dcfdbe26

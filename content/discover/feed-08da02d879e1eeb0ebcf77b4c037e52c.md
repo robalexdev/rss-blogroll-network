@@ -21,15 +21,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Loading-spinner.gif
-  last_post_description: Hello again! It's us, your friendly neighborhood ActivityPugs
-    — with a short-form update for you this week about what we've been up to.Firstly,
-    thanks so much for all your comments and thoughtful
-  last_post_date: "2025-02-23T21:38:26Z"
-  last_post_link: https://activitypub.ghost.org/loading-spinner-gif/
+  last_post_title: Images, profiles, and preferences
+  last_post_description: Adding more customization to your social web experience.
+  last_post_date: "2025-04-28T09:46:55Z"
+  last_post_link: https://activitypub.ghost.org/images-profiles-and-preferences/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 20852a9057257be4071ff39d98d862e6
+  last_post_guid: ffa243f758e50238fde8ce822a81623d
   score_criteria:
     cats: 0
     description: 3

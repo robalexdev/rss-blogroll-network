@@ -1,6 +1,6 @@
 ---
 title: Posts tagged 'emacs' by Christian Tietze
-date: "2025-01-23T04:54:39Z"
+date: "2025-04-24T08:33:22Z"
 description: ""
 params:
   feedlink: https://christiantietze.de/posts/tags/emacs/feed.atom
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Using 2 Editors Because Xcode Is Dumb
-  last_post_description: So I am working on auto-completion in NSTextView in a package
-    called TextKitAutoCompletion. This is the first new Swift Package project I started
-    with Xcode 16, I believe; the previous one was still
-  last_post_date: "2025-01-23T04:54:39Z"
-  last_post_link: https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/
+  last_post_title: Keep .org File Outline Items Sorted Alphabetically
+  last_post_description: org-mode files can be used for any kind of outline, including
+    makeshift calendars and makeshift address books. To make this work with org-capture
+    to insert a new thing into such files, which always
+  last_post_date: "2025-04-24T08:33:22Z"
+  last_post_link: https://christiantietze.de/posts/2025/04/keep-org-mode-items-sorted-alphabetically/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: faacc0d9cebdcf731167d510928057e0
+  last_post_guid: 96abc33116d37aafff9d2ab9fb553974
   score_criteria:
     cats: 0
     description: 0

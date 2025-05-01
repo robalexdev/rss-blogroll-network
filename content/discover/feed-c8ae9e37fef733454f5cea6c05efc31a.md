@@ -1,6 +1,6 @@
 ---
 title: iPotato
-date: "2024-10-02T01:31:46Z"
+date: "2025-03-09T12:50:40Z"
 description: ""
 params:
   feedlink: https://ipotato.me/feed
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何利用全 SaaS 阵容从零免费搭建一个博客？
+  last_post_title: 使用 Cloudflare Workers 搭建轻量级 LLM API 网关
   last_post_description: ""
-  last_post_date: "2024-10-02T01:31:46Z"
-  last_post_link: https://ipotato.me/article/30002
+  last_post_date: "2025-03-09T12:50:40Z"
+  last_post_link: https://ipotato.me/article/build-lightweight-llm-api-gateway-using-cloudflare-workers
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 200629ff8339dcb28fbaf3630da66735
+  last_post_guid: a4a5372c054f1590db5d10dd7772e972
   score_criteria:
     cats: 0
     description: 0
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 71
+  postcount: 72
   avgpostlen: 245
 ---

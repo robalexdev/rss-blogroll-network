@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2025-02-23T05:15:07Z"
+date: "2025-04-24T03:35:10Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -15,20 +15,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - calendar
-  - feishu
+  - bp
+  - cbp
+  - cpu
+  - ooo
   - software
   relme: {}
-  last_post_title: 导出飞书日历为 iCalendar 格式
-  last_post_description: 导出飞书日历为 iCalendar 格式¶背景¶之前用了一段时间飞书日历，想要把日历里的事件导出来备份，但是发现飞书自己的导出功能太弱，因此参考
-  last_post_date: "2025-02-04T00:00:00Z"
-  last_post_link: https://jia.je/software/2025/02/04/feishu-dump-calendar/
+  last_post_title: 如何进行条件分支预测器实验
+  last_post_description: 如何进行条件分支预测器实验¶背景¶最近针对各种条件分支预测器（Conditional Branch Predictor）做了在各种
+    benchmark
+  last_post_date: "2025-04-10T00:00:00Z"
+  last_post_link: https://jia.je/software/2025/04/10/cbp-experiments/
   last_post_categories:
-  - calendar
-  - feishu
+  - bp
+  - cbp
+  - cpu
+  - ooo
   - software
   last_post_language: ""
-  last_post_guid: 2a490428aa02094d6a6422fb30926ac7
+  last_post_guid: 0b06d72e4aa44c454dcdb4c04d45bbd9
   score_criteria:
     cats: 0
     description: 3

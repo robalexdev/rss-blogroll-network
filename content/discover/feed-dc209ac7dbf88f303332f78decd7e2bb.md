@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: dc209ac7dbf88f303332f78decd7e2bb
   websites:
-    https://bugzillatips.wordpress.com/: true
+    https://bugzillatips.wordpress.com/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla Projects
@@ -39,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

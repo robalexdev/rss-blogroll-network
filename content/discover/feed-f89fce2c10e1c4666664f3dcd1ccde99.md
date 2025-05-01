@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-02-18T04:40:24Z"
+date: "2025-03-14T15:44:11Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Minimal IRC server from scratch in Python
-  last_post_description: The obvious alternative to using Discord is to write and
-    host my own IRC server!
-  last_post_date: "2025-02-17T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/diy/irc-server-in-python.html
+  last_post_title: Did the Google Domains sale to Squarespace open my domain up to
+    phishers?
+  last_post_description: That time I got phishing mail from my own domain.
+  last_post_date: "2025-03-14T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/web-development/squarespace-phishing.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 59132449f91500730e512aa27c804ac3
+  last_post_guid: 56d02125098f8939acffcc75420001e4
   score_criteria:
     cats: 0
     description: 0
@@ -43,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 5
-  avgpostlen: 296
+  avgpostlen: 295
 ---

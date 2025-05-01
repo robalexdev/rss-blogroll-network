@@ -1,13 +1,12 @@
 ---
 title: 胡涂说
-date: "2025-02-23T19:06:52+08:00"
+date: "2025-03-17T21:44:48+08:00"
 description: hutusi.com
 params:
   feedlink: https://hutusi.com/feed.xml
   feedtype: atom
   feedid: fa8cf8b657ce5d039282ef4cdd9d26de
-  websites:
-    https://hutusi.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -16,24 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - essay
-  - 个人成长
-  - 影评
-  - 电影
-  - 神话
+  - weekly
+  - 周刊
+  - 读书
   relme: {}
-  last_post_title: 我看《哪吒》
-  last_post_description: 《哪吒之魔童闹海》海报
-  last_post_date: "2025-02-23T19:05:00+08:00"
-  last_post_link: https://hutusi.com/articles/ne-zha
+  last_post_title: 周刊第14期：罗振宇和《罗辑思维》
+  last_post_description: 本文为周刊第14期，前期的周刊参见：周刊系列。距离上一份周刊又过去两年零十个月。感觉每次中断的时长间隔比斐波那契数列扩展速度还要快。本期
+  last_post_date: "2025-03-02T16:06:00+08:00"
+  last_post_link: https://hutusi.com/weeklies/14
   last_post_categories:
-  - essay
-  - 个人成长
-  - 影评
-  - 电影
-  - 神话
+  - weekly
+  - 周刊
+  - 读书
   last_post_language: ""
-  last_post_guid: 281c2e4704b00fa704eae706612028b0
+  last_post_guid: 79cde5f29e60beb12af57b59d5812412
   score_criteria:
     cats: 0
     description: 3
@@ -45,12 +40,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 10
+  postcount: 20
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2025-01-01T14:45:05Z"
+date: "2025-04-17T13:28:42Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml
@@ -9,11 +9,15 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Mayx Blogroll
+    description: ""
+    id: 5fffc50926876056bde70973d462a6cf
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
   recommended: []
-  recommender: []
+  recommender:
+  - https://mabbs.github.io/atom.xml
   categories: []
   relme: {}
   last_post_title: 没有红包封面，但是 AI 春联……

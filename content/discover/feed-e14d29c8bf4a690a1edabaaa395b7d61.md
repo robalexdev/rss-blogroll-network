@@ -18,29 +18,31 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - geohashing
-  - google maps
-  - map
-  - maps
-  - openstreetmap
-  - walking
+  - employment
+  - javascript
+  - job
+  - open source
+  - standards
+  - web
+  - web development
   relme: {}
-  last_post_title: '[Article] OpenStreetMap rocks (especially on foot)'
-  last_post_description: OpenStreetMap blows Google Maps out of the water for walkers
-    and also for if you're trying to find a particular-named house in a rural area.
-    I'm not saying never to use Google Maps (there's plenty of
-  last_post_date: "2025-02-23T14:37:36Z"
-  last_post_link: https://danq.me/2025/02/23/openstreetmap-rocks/
+  last_post_title: '[Article] Deprecate React'
+  last_post_description: Just to reassure myself that I really can do all the things
+    I say on my CV, I've been looking at tech tests that touch on each of them. I
+    can definitely write React, for example... but... I might
+  last_post_date: "2025-04-26T15:08:27+01:00"
+  last_post_link: https://danq.me/2025/04/26/deprecate-react/
   last_post_categories:
   - Personal
-  - geohashing
-  - google maps
-  - map
-  - maps
-  - openstreetmap
-  - walking
+  - employment
+  - javascript
+  - job
+  - open source
+  - standards
+  - web
+  - web development
   last_post_language: ""
-  last_post_guid: adba75f725f26ea2fc11380d32e2c784
+  last_post_guid: 6a491967fd4f42ea4b75a0245cf526ee
   score_criteria:
     cats: 0
     description: 3

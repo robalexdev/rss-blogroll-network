@@ -18,14 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Ransomware 2025: Attacks Keep Rising as Threat Shows its Resilience'
-  last_post_description: Despite the takedowns of some well-known names, ransomware
-    remains a major cybercrime threat.
-  last_post_date: "2025-02-20T11:00:00Z"
-  last_post_link: https://www.security.com/threat-intelligence/ransomware-trends-2025
+  last_post_title: Shuckworm Targets Foreign Military Mission Based in Ukraine
+  last_post_description: Group uses updated PowerShell version of its GammaSteel malware
+    in attack.
+  last_post_date: "2025-04-10T10:00:00Z"
+  last_post_link: https://www.security.com/threat-intelligence/shuckworm-ukraine-gammasteel
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 728eac8c2e75243aa266574bfb91abff
+  last_post_guid: 4a3684311fa3e06d84c481e1d6b9af74
   score_criteria:
     cats: 0
     description: 3

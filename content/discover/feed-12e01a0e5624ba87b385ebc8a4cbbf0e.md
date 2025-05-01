@@ -1,13 +1,12 @@
 ---
 title: Debian Brasil
-date: "2024-10-08T09:00:00Z"
+date: "2025-02-27T19:37:14Z"
 description: ""
 params:
   feedlink: https://debianbrasil.org.br/english-feed.xml
   feedtype: atom
   feedid: 12e01a0e5624ba87b385ebc8a4cbbf0e
-  websites:
-    https://debianbrasil.org.br/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -17,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Testing feed in English
+  last_post_title: MiniDebConf Belo Horizonte 2024 - a brief report
   last_post_description: ""
-  last_post_date: "2024-10-08T09:00:00Z"
-  last_post_link: https://debianbrasil.org.br/blog/testing/
+  last_post_date: "2025-03-08T17:28:42Z"
+  last_post_link: https://debianbrasil.org.br/blog/minidebconf-bh-2024-a-brief-report/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a4be30481664678d068ddf77b2c1b3a3
+  last_post_guid: fb230565f3ac7339302bd81fd74ecfd6
   score_criteria:
     cats: 0
     description: 0
@@ -35,12 +34,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 272
+  avgpostlen: 293
 ---

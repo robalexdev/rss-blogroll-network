@@ -12,37 +12,22 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 7c57874819a3b666310d14cda337b41d
-  - title: ""
-    description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
   relme:
     https://clarale.com/: true
     https://github.com/hgcl: true
-  last_post_title: 'Now archive #11'
+  last_post_title: '#51 Getting off tracks'
   last_post_description: |-
-    Robin and I are on a slow journey, having traveled from Europe to Asia overland.
-    We are now exploring Malaysia through diverse Workaways and long quiet stays, two weeks at a time. We spend a lot of
-  last_post_date: "2024-08-16T00:00:00Z"
-  last_post_link: https://clarale.com/posts/now-archive-11/
+    Still in China, now in Xiamen.
+    If everything goes well, we should be in Taiwan (yay, bubble teas!) in a bit less than a week to do a visa-run. We are getting a bit tired of the touristy sights and
+  last_post_date: "2025-04-14T00:00:00Z"
+  last_post_link: https://clarale.com/posts/51-getting-off-tracks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 507f356960d30d22e5c5c985a57ee83f
+  last_post_guid: 72ac94779723f79775694756a131861e
   score_criteria:
     cats: 0
     description: 3

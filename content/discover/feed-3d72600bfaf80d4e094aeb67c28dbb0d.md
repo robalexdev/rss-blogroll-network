@@ -20,10 +20,10 @@ params:
   last_post_title: Reading in 2025
   last_post_description: ""
   last_post_date: "2025-01-06T00:00:00Z"
-  last_post_link: http://mrale.ph/blog/2025/01/06/reading-in-2025.html
+  last_post_link: https://mrale.ph/blog/2025/01/06/reading-in-2025.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a05ba6e7b990ccd979d0b940dce9b48
+  last_post_guid: 65f71188274503668a2d3e783ce8b37d
   score_criteria:
     cats: 0
     description: 0

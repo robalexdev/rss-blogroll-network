@@ -17,19 +17,18 @@ params:
   recommender: []
   categories:
   - me
-  - meta
+  - non-fiction
   relme: {}
-  last_post_title: I Blog in Text, You Read in Text || HTML
-  last_post_description: The blog you're reading was rendered at some point in the
-    past as HTML (maybe) but it was written in text with a dash of Markdown flavor
-    (maybe).
-  last_post_date: "2025-02-14T08:25:09Z"
-  last_post_link: https://blog.fogus.me/meta/i-blog-in-text-and-html/
+  last_post_title: A Guest Post at Wormwoodania
+  last_post_description: As an attempt to branch out with my writing, I've taken to
+    working on various fiction and non-fiction pieces...
+  last_post_date: "2025-03-26T07:51:09Z"
+  last_post_link: https://blog.fogus.me/2025/03/26/corvine-research-pt1/
   last_post_categories:
   - me
-  - meta
+  - non-fiction
   last_post_language: ""
-  last_post_guid: adf7bd15645f6c015d4ea7559d7f4382
+  last_post_guid: 6acc4c06a80c7a7cb0287ed83b5b5e67
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 5
+  postcount: 6
   avgpostlen: 0
 ---

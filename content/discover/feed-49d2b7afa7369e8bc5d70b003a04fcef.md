@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-02-13T13:21:28Z"
+date: "2025-03-30T01:43:41Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -20,13 +20,13 @@ params:
   categories: []
   relme:
     https://dotat.at/@/blog.html: true
-  last_post_title: random numbers from pcg32 at 200 Gbit/s
+  last_post_title: syntax highlighting with tree-sitter
   last_post_description: ""
-  last_post_date: "2025-02-13T13:21:28Z"
-  last_post_link: https://dotat.at/@/2025-02-13-pcg32-simd.html
+  last_post_date: "2025-03-30T01:43:41Z"
+  last_post_link: https://dotat.at/@/2025-03-30-hilite.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: abba12115faa36f1df8b19a4711bff46
+  last_post_guid: d7db1ebf7f1470eec500f61c50d5755e
   score_criteria:
     cats: 0
     description: 0

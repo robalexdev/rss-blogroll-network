@@ -1,6 +1,6 @@
 ---
 title: Pete
-date: "2024-12-23T20:43:13Z"
+date: "2025-03-27T09:24:02Z"
 description: Software Developer living in Kassel, Germany
 params:
   feedlink: https://petesprojects.net/feed.xml
@@ -16,28 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hetzner
-  - fritzbox
-  - proxmox
-  - sitetossite
-  - vpn
-  - wireguard
+  - Raspberry
+  - kiosk
+  - systemd
+  - website
   relme: {}
-  last_post_title: Home away from homelab!
-  last_post_description: Background I’ve been wanting to extend my homelab capabilities
-    with a server that I can quickly spin up virtual machines on. Proxmox seemed like
-    a logical choice but I was undecided as to which
-  last_post_date: "2024-12-18T00:00:00Z"
-  last_post_link: https://peader.github.io//2024/12/18/Hetzner-Homelab.html
+  last_post_title: How to turn a Raspberry pi into a website kiosk
+  last_post_description: I recently had the need to display a website on a spare monitor.
+    The challenge was that I needed to show the website in full screen and the whole
+    setup should persist even after a reboot of the
+  last_post_date: "2025-03-27T00:00:00Z"
+  last_post_link: https://peader.github.io//2025/03/27/Raspi-Kiosk-Mode.html
   last_post_categories:
-  - Hetzner
-  - fritzbox
-  - proxmox
-  - sitetossite
-  - vpn
-  - wireguard
+  - Raspberry
+  - kiosk
+  - systemd
+  - website
   last_post_language: ""
-  last_post_guid: d039b9fad416cff25498f06427a47925
+  last_post_guid: 3b8b90191a4006d5cd3bbf5b28bcced2
   score_criteria:
     cats: 0
     description: 3
@@ -56,5 +52,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 271
+  avgpostlen: 272
 ---

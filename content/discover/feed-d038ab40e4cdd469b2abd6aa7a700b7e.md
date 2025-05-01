@@ -20,13 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: DOGE is the Theranos of Cost-Cutting
-  last_post_description: And other notes from the Chaos
-  last_post_date: "2025-02-24T11:30:56Z"
-  last_post_link: https://paulkrugman.substack.com/p/doge-is-the-theranos-of-cost-cutting
+  last_post_title: Did Peter Navarro Save Democracy?
+  last_post_description: Economic failure has given us a chance to stop Trump's authoritarianism
+  last_post_date: "2025-04-28T10:30:58Z"
+  last_post_link: https://paulkrugman.substack.com/p/did-peter-navarro-save-democracy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4a107e972e84b13c0ae240a3953f61d
+  last_post_guid: 5ec991e671fead0558cfa1d608f5a492
   score_criteria:
     cats: 0
     description: 3

@@ -24,17 +24,17 @@ params:
   relme:
     https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
-  last_post_title: The GPU, not the TPM, is the root of hardware DRM
-  last_post_description: As part of their "Defective by Design" anti-DRM campaign,
-    the FSF recently made the following claim:Today, most of the major streaming media
-    platforms utilize the TPM to decrypt media streams,
-  last_post_date: "2025-01-02T01:14:05Z"
-  last_post_link: https://mjg59.dreamwidth.org/70954.html
+  last_post_title: 'Failing upwards: the Twitter encrypted DM failure'
+  last_post_description: Almost two years ago, Twitter launched encrypted direct messages.
+    I wrote about their technical implementation at the time, and to the best of my
+    knowledge nothing has changed. The short story is
+  last_post_date: "2025-03-18T23:58:52Z"
+  last_post_link: https://mjg59.dreamwidth.org/71188.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: a12573cc8dd25737a7dddc98a40352f3
+  last_post_guid: ebc29f68265478fb1c31ef2f59421142
   score_criteria:
     cats: 0
     description: 3

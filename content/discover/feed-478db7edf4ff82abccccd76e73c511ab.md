@@ -16,26 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Kubernetes
-  - Pod
-  - kubectl
+  - AI Agent
+  - Cline
+  - Cursor
+  - Ops
   - 博文
-  - 运维故障
   relme: {}
-  last_post_title: kubectl logs 无法查看 Pod 日志报错 NotFound
-  last_post_description: 1. 现象 能查看 Pod 的信息 1 2 3 4 kubectl -n my-testns get pod my-testpod
-    NAME READY STATUS RESTARTS AGE my-testpod 1/1 Running 0 2d13h 不能查看 Pod 的日志 1 2
-    3 kubectl -n my-testns
-  last_post_date: "2025-02-22T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/kubectl-logs-not-found-error.html
+  last_post_title: Opscli 支持 MCP 提供 Cline\Cursor 集成
+  last_post_description: 1. Cline 使用 Ops 查询有哪些集群 获取节点的详情 Case 非常简单但数据真实，说明 Cline 已经能够对接
+    Ops 进行运维操作。至于更复杂的一些 Case
+  last_post_date: "2025-04-04T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/opscli-support-mcp-provide-cline-cursor-integration.html
   last_post_categories:
-  - Kubernetes
-  - Pod
-  - kubectl
+  - AI Agent
+  - Cline
+  - Cursor
+  - Ops
   - 博文
-  - 运维故障
   last_post_language: ""
-  last_post_guid: bd2b356ae94a78a3ed2b56f91dc3cd4f
+  last_post_guid: d345d04051fd946901abf6282404d817
   score_criteria:
     cats: 0
     description: 3
@@ -53,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 623
+  postcount: 639
   avgpostlen: 0
 ---

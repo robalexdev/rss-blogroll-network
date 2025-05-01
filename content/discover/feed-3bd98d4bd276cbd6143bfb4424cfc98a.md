@@ -16,45 +16,40 @@ params:
     id: 796603efcff00ba474bbbd88e566b727
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: ""
-    description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
-  - mn&n
+  - development
+  - work
   relme: {}
-  last_post_title: Month notes & numbers №13
-  last_post_description: "The latter half of this month was ruined by me catching
-    Covid (my second time). Boooooooo. \nNotable\nIt was looking like my town was
-    going to be hit by a cyclone at the start of the month. Thankfully,"
-  last_post_date: "2025-03-30T20:17:00Z"
-  last_post_link: https://rachsmith.com/mnnm-13/
+  last_post_title: The difference between programs and products
+  last_post_description: The whole “vibe coding” thing is another reminder that quite
+    a lot of people working in tech don’t understand the difference between programs
+    and products -- Dylan Beattie in The Problem with
+  last_post_date: "2025-04-18T09:04:00Z"
+  last_post_link: https://rachsmith.com/the-difference-between-programs-and-products/
   last_post_categories:
-  - mn&n
+  - development
+  - work
   last_post_language: ""
-  last_post_guid: a8d5c95632798b48964ad65a4c3859e6
+  last_post_guid: 815e63db02b66363727ef2427b2bb8ba
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

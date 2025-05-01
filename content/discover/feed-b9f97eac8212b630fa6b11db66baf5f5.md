@@ -16,31 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Android
-  - Google
-  - JavascriptInjection
-  - Mobile
-  - Public
-  - Spytacus
-  - malware
-  - 모바일
+  - APT
+  - APT202503
+  - APTGroups
+  - APTTrend
+  - Private
   relme: {}
-  last_post_title: Android Malware & Security Issue 2025년 2월 3주차
-  last_post_description: ASEC Blog를 통해 한 주간의 “Android Malware & Security Issue – 2025년
-    2월 3주차”를 게시한다.
-  last_post_date: "2025-02-20T15:00:00Z"
-  last_post_link: https://asec.ahnlab.com/ko/86423/
+  last_post_title: 2025년 3월 APT 그룹 동향 보고서
+  last_post_description: 국가별 주요 APT 그룹 동향   1)   북한   북한의 APT 그룹들이 가장 활발하게 활동했다. 이메일을
+    이용한 접근 방식 외에 타깃이 활동하는 커뮤니티
+  last_post_date: "2025-04-15T15:00:00Z"
+  last_post_link: https://asec.ahnlab.com/ko/87480/
   last_post_categories:
-  - Android
-  - Google
-  - JavascriptInjection
-  - Mobile
-  - Public
-  - Spytacus
-  - malware
-  - 모바일
+  - APT
+  - APT202503
+  - APTGroups
+  - APTTrend
+  - Private
   last_post_language: ""
-  last_post_guid: 43e908948b419e32fe057b03e5715007
+  last_post_guid: 931ba9e07245c0b8d0a8113021e958c3
   score_criteria:
     cats: 0
     description: 3

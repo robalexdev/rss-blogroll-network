@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://hiandrewquinn.github.io/til-site/: true
-  last_post_title: SQLite is learnable
-  last_post_description: This is a response to pid1.call’s “Siren Call of SQlite on
-    the Server”, which itself is a response to articles like Wesley Aptekar-Cassels’s
-    “Consider SQLite” espousing SQLite as a server
-  last_post_date: "2025-02-18T00:00:00Z"
-  last_post_link: https://hiandrewquinn.github.io/til-site/posts/the-learnability-of-sqlite/
+  last_post_title: Vibe coding and complementary goods
+  last_post_description: |-
+    Peanut butter and jelly are complementary goods, as are cars and gasoline, newer cars and electricity, electricity and basically everything else.
+    We don’t normally think of, say, Docker and
+  last_post_date: "2025-03-12T00:00:00Z"
+  last_post_link: https://hiandrewquinn.github.io/til-site/posts/vibe-coding-and-complementary-goods/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 348985ba73f29c2f80bbc6a723b19256
+  last_post_guid: c952156eb14e62afcac398048377a1da
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 56
+  postcount: 61
   avgpostlen: 0
 ---

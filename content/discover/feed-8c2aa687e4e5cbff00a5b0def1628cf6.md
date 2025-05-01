@@ -18,33 +18,34 @@ params:
   categories: []
   relme:
     https://balintmagyar.com/: true
-  last_post_title: 'Text injection but make it spicy: Rendering QR codes with Unicode
-    block characters'
+  last_post_title: 'Client-side RCE via symlink following in Google Web Designer for
+    macOS/Linux: CVE-2025-1079'
   last_post_description: |-
     tl;dr
-            When the stars stylesheets align just right, it’s possible to escalate a harmless content injection issue to a marginally less harmless one by using certain Unicode characters to
-  last_post_date: "2025-02-01T00:00:00+01:00"
-  last_post_link: https://balintmagyar.com/articles/qr-content-text-injection-spicy-unicode.html
+            Tested version: Google Web Designer 16.1.0.0530 (released cca. June 2024)
+    This issue is tracked as CVE-2025-1079, and has been fixed in version 16.2.0.0128, released February 28, 2025
+  last_post_date: "2025-04-02T00:00:00+02:00"
+  last_post_link: https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b2f8c4b7a8045f66b9018003ae0ea480
+  last_post_guid: 143fd306b7e092becdb717c90d6939de
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 1
+  postcount: 2
   avgpostlen: 0
 ---

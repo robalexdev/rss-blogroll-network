@@ -1,6 +1,6 @@
 ---
 title: Resources-2
-date: "2025-02-24T12:59:10Z"
+date: "2025-04-17T12:27:48Z"
 description: Picus continuously assesses your security controls with automated attacks
   to mitigate gaps and enhance your security posture against real threats.
 params:
@@ -18,34 +18,31 @@ params:
   recommender: []
   categories:
   - Article
-  - MITRE ATT&CK
-  - Process Injection
   relme: {}
-  last_post_title: 'MITRE ATT&CK T1055.001 Process Injection: DLL Injection'
-  last_post_description: DLL Injection is a process injection technique that allows
-    adversaries to execute malicious code by forcing a legitimate process to load
-    a dynamic-link library (DLL) that contains harmful
-  last_post_date: "2025-02-24T12:51:04Z"
-  last_post_link: https://www.picussecurity.com/resource/blog/t1055-001-dll-injection
+  last_post_title: 'UNC5221’s Latest Exploit: Weaponizing CVE-2025-22457 in Ivanti
+    Connect Secure'
+  last_post_description: "Who Is the China-Nexus Group UNC5221? \nUNC5221 is a suspected
+    China-nexus cyber-espionage group known for aggressively targeting edge network
+    devices (VPNs, firewalls, routers) with zero-day exploits"
+  last_post_date: "2025-04-17T12:27:17Z"
+  last_post_link: https://www.picussecurity.com/resource/blog/unc5221-cve-2025-22457-ivanti-connect-secure
   last_post_categories:
   - Article
-  - MITRE ATT&CK
-  - Process Injection
   last_post_language: ""
-  last_post_guid: 0a06cb9d9cfecb28e163402a5ec333ba
+  last_post_guid: a0747616106b890360bb9329d1f357d6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

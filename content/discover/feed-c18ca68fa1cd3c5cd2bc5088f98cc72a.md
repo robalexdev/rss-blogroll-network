@@ -17,21 +17,17 @@ params:
   recommender: []
   categories: []
   relme:
-    https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
-    https://github.com/zamansky: true
-  last_post_title: CS For All or All for CS?
+  last_post_title: How many roads for intro CS
   last_post_description: |-
-    Is it CS for All or is it All for CS?
-
-    CS for All, to me has always meant exposing all students to CS for two
-    reasons. First, so that every student gains some understanding of CS
-    and also so that
-  last_post_date: "2025-03-24T07:34:31-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/cs-for-all-or-all-for-cs/
+    How many different intro CS courses should we have? A question that
+    resurfaces periodically. This time due to an article in which C++
+    creator Bjarne Stroustrup posits that different audiences
+  last_post_date: "2025-04-22T17:33:21-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/pathways/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cf1d8c47e6b0c92bd0c9fb93d2c3c488
+  last_post_guid: 32fc05e1dffbe62e72335681740033bb
   score_criteria:
     cats: 0
     description: 3
@@ -49,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 21
   avgpostlen: 0
 ---

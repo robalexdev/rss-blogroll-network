@@ -18,23 +18,21 @@ params:
   recommender: []
   categories:
   - computers
-  - mainframes
   - tech
   - ubuntu planet
   relme: {}
-  last_post_title: A jellyfish and a mainframe
-  last_post_description: Happy Ubuntu 22.04 LTS (Jammy Jellyfish) release day! April
-    has been an exciting month. On April 5th, the IBM z16 was released. For those
-    of you who aren’t aware, this is the IBM zSystems class of
-  last_post_date: "2022-04-21T17:39:03Z"
-  last_post_link: https://princessleia.com/journal/2022/04/a-jellyfish-and-a-mainframe/
+  last_post_title: A VisionFive 2 and a Raspberry Pi 1 B
+  last_post_description: A couple weeks ago I was playing around with a multiple architecture
+    CI setup with another team, and that led me to pull out my StarFive VisionFive
+    2 SBC again to see where I could make it this time
+  last_post_date: "2025-04-03T20:43:31Z"
+  last_post_link: https://princessleia.com/journal/2025/04/a-visionfive-2-and-a-raspberry-pi-1-b/
   last_post_categories:
   - computers
-  - mainframes
   - tech
   - ubuntu planet
   last_post_language: ""
-  last_post_guid: 6f237a0a0d6de63758fde4dbc86938fc
+  last_post_guid: a899ebd02363babed02acc4d77d1c96d
   score_criteria:
     cats: 0
     description: 3

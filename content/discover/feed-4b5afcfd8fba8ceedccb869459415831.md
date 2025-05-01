@@ -16,31 +16,29 @@ params:
   recommender: []
   categories:
   - Python
-  - machine learning
   relme: {}
-  last_post_title: How to prevent data leakage in pandas & scikit-learn ☔
-  last_post_description: What is data leakage, why is it problematic, and how can
-    you prevent it when working on a supervised Machine Learning problem in Python?
-  last_post_date: "2024-04-25T14:51:29Z"
-  last_post_link: https://www.dataschool.io/machine-learning-data-leakage/
+  last_post_title: "How to calculate \"scoring streaks\" with pandas \U0001F3C0"
+  last_post_description: Learn how to identify & analyze consecutive events in your
+    data using advanced DataFrame methods!
+  last_post_date: "2025-03-17T13:49:06Z"
+  last_post_link: https://www.dataschool.io/pandas-streak-analysis/
   last_post_categories:
   - Python
-  - machine learning
   last_post_language: ""
-  last_post_guid: cd985601d19a36fb3dd9f0f3ff2a2050
+  last_post_guid: dd4ae1756d7ba29b2a84b97afc0132bc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

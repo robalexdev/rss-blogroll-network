@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unlock Your Python Code's Potential with the Python Refactoring
-    Toolkit
-  last_post_description: Are you a Python developer striving to write better software
-    with fewer bugs? If you've been intimidated by the concept of refactoring or felt
-    frustrated by the lack of Python-specific advice, then
+  last_post_title: 'Event Sourcing: Reactivity Without the React Overhead'
+  last_post_description: In this post, I’ll share some things I’ve enjoyed about event
+    sourcing since adopting it.I'll start by saying that one of the ideas I love about
+    some of today’s JavaScript frameworks is that
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://everydaysuperpowers.dev/articles/unlock-your-python-potential-with-the-python-refactoring-toolkit/
+  last_post_link: https://everydaysuperpowers.dev/articles/event-sourcing-reactivity-without-the-react-overhead/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a20f60268c03750c3371fe17492e400c
+  last_post_guid: 15ca6634ace4ac4053dd00aac4eb7e9c
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 23
+  postcount: 29
   avgpostlen: 0
 ---

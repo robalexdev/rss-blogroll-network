@@ -1,6 +1,6 @@
 ---
 title: 闲人LIFE
-date: "2025-02-05T23:11:49+01:00"
+date: "2025-04-27T21:53:48+02:00"
 description: 野生作家孙李的博客
 params:
   feedlink: https://www.xianrenlife.com/feeds/posts/default
@@ -63,14 +63,14 @@ params:
   relme:
     https://www.blogger.com/profile/04970276379026643511: true
     https://www.xianrenlife.com/: true
-  last_post_title: 斯蒂芬妮
+  last_post_title: 【小说】决心（五）（全文完）
   last_post_description: ""
-  last_post_date: "2025-01-20T21:51:51+01:00"
-  last_post_link: https://www.xianrenlife.com/2024/01/blog-post.html
+  last_post_date: "2025-04-12T10:45:11+02:00"
+  last_post_link: https://www.xianrenlife.com/2025/04/blog-post_12.html
   last_post_categories:
   - 小说
   last_post_language: ""
-  last_post_guid: d268fcbc7e1cf88f13540801aecff4e4
+  last_post_guid: 038bebec4775f9575a7f78dba83a90be
   score_criteria:
     cats: 5
     description: 3

@@ -16,20 +16,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: teamwork in practice
+  last_post_title: Debian MountainCamp, Innsbruck, 16–18 May 2025
   last_post_description: |-
-    teamwork, or: why I love the Debian Perl Group:
+    the days are getting warmer (in the northern hemisphere), debian is getting
+    colder,
+    & quite a few debian events are taking place.
 
-    elbrus has introduced a (very untypical) package into the
-    Debian Perl Group in 2022.
 
-    after changes of the default compiler options
-    (-Werror=implicit
-  last_post_date: "2024-03-14T23:10:53+01:00"
-  last_post_link: https://info.comodo.priv.at/blog/teamwork_in_practice.html
+
+    in innsbruck, we are organizing MountainCamp, an event in the
+  last_post_date: "2025-04-03T23:42:29+02:00"
+  last_post_link: https://info.comodo.priv.at/blog/debian_mountaincamp__innsbruck__16_18_may_2025.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aefaeb0d2fe1c16445b36cc31e67ad85
+  last_post_guid: b4da8acaba6f5bd6bd7f3c274a6eff6c
   score_criteria:
     cats: 0
     description: 3

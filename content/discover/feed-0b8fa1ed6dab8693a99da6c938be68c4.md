@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-04-04T02:19:50+01:00"
+date: "2025-04-28T22:55:45+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,16 +17,16 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Reimagining the employee experience for LNER
+  last_post_title: Five years of employee ownership
   last_post_description: |-
-    London North Eastern Railway wanted to explore how digital tools could better support their front-line teams. Clearleft helped uncover opportunities and define a vision for the future.
+    A quiet but meaningful change we made five years ago continues to shape who we are today.
 
-          LNER is
-  last_post_date: "2025-03-13T00:00:00Z"
-  last_post_link: https://clearleft.com/thinking/reimagining-the-staff-experience-for-lner
+          Five years ago, Clearleft became an employee-owned company. It was a quiet, intentional step towards
+  last_post_date: "2025-04-16T00:00:00+01:00"
+  last_post_link: https://clearleft.com/thinking/five-years-of-employee-ownership
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5710ca5bedce70d554bb1acab2ec60a7
+  last_post_guid: 66d4028243616bca47bd4114d3d6432b
   score_criteria:
     cats: 0
     description: 3

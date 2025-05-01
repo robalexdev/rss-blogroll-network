@@ -1,6 +1,6 @@
 ---
 title: Airing 的博客
-date: "2025-02-18T14:11:58Z"
+date: "2025-04-24T04:59:30Z"
 description: 哲学硕士｜小学老师 ｜终端全栈
 params:
   feedlink: https://blog.ursb.me/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://blog.ursb.me/: true
-  last_post_title: 2024，告别盛夏
+  last_post_title: 月刊（第29期）：新生活
   last_post_description: ""
-  last_post_date: "2025-02-01T10:36:34Z"
-  last_post_link: https://blog.ursb.me/posts/summary-2024/
+  last_post_date: "2025-04-18T06:32:37Z"
+  last_post_link: https://blog.ursb.me/posts/weekly-29/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 178e1d17aef0c98b3fd1952bb2d004f5
+  last_post_guid: e597f89a62c2f7bce21937423271b02a
   score_criteria:
     cats: 0
     description: 3

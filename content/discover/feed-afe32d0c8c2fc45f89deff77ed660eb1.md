@@ -1,6 +1,6 @@
 ---
 title: madi's blog
-date: "2024-12-25T12:37:32+01:00"
+date: "2025-03-27T08:12:24+01:00"
 description: '"And once you had the mapping itch, you had to keep scratching it."
   --Simon Garfield'
 params:

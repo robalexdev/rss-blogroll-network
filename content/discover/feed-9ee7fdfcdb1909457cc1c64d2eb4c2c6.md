@@ -17,28 +17,28 @@ params:
   recommender: []
   categories:
   - Android
-  - Google
-  - JavascriptInjection
+  - BadBazaar
   - Mobile
   - Public
-  - Spytacus
+  - Smishing
+  - SpyNote
   - malware
   relme: {}
-  last_post_title: Android Malware & Security Issue 3st Week of February, 2025
-  last_post_description: ASEC Blog publishes “Android Malware & Security Issue 3st
-    Week of February, 2025”
-  last_post_date: "2025-02-20T15:00:00Z"
-  last_post_link: https://asec.ahnlab.com/en/86424/
+  last_post_title: Mobile Security & Malware Issue 2st Week of April, 2025
+  last_post_description: ASEC Blog publishes “Mobile Security & Malware Issue 2st
+    Week of April, 2025”
+  last_post_date: "2025-04-10T15:00:00Z"
+  last_post_link: https://asec.ahnlab.com/en/87436/
   last_post_categories:
   - Android
-  - Google
-  - JavascriptInjection
+  - BadBazaar
   - Mobile
   - Public
-  - Spytacus
+  - Smishing
+  - SpyNote
   - malware
   last_post_language: ""
-  last_post_guid: ec3a761fbc641d250a55e4321bf2cda6
+  last_post_guid: c94b72e851dddcd8a2ae605f8823a48f
   score_criteria:
     cats: 0
     description: 3

@@ -22,17 +22,20 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: BMW vows next-gen EV batteries will slash costs and boost range
-    by 30%
-  last_post_description: BMW is preparing for a “technological quantum leap ” with
-    its next-gen EV batteries. The German automaker claims its new tech will deliver
-    30% more driving range, 30% faster charging, and perhaps
-  last_post_date: "2025-02-24T17:37:30Z"
-  last_post_link: https://electrek.co/2025/02/24/bmw-next-gen-ev-batteries-30-more-range-lower-cost/
+  last_post_title: Tesla gives update on Tesla Semi factory, says on track for volume
+    production in 2026
+  last_post_description: |-
+    Tesla has released a quick update about its Tesla Semi factory in Nevada. It says that it is on track for volume production of the electric semi truck in 2026.
+
+
+
+     more…
+  last_post_date: "2025-04-28T21:43:22Z"
+  last_post_link: https://electrek.co/2025/04/28/tesla-gives-update-semi-factory-on-track-volume-production-2026/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: c1a36f1863e967f517e5fa98230bef16
+  last_post_guid: daf9a1f60fe4143d8e6765b19ea12607
   score_criteria:
     cats: 0
     description: 3

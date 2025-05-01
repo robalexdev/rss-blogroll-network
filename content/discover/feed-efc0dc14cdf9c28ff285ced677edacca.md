@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Threat Labs
+  - Full Skope
   relme: {}
-  last_post_title: Telegram Abused as C2 Channel for New Golang Backdoor
-  last_post_description: Summary As part of Netskope Threat Labs hunting activities,
-    we came across an IoC being shared by other researchers and decided to take a
-    closer look at it. During the analysis, we discovered that
-  last_post_date: "2025-02-14T15:00:00Z"
-  last_post_link: https://www.netskope.com/blog/telegram-abused-as-c2-channel-for-new-golang-backdoor
+  last_post_title: 'The Data Sovereignty Imperative: The Business Value of Data Protection'
+  last_post_description: Introduction Data and proactive insights garnered therein
+    are vital strategic assets in the modern digital era. Amidst this backdrop, global
+    regulations notably starting with the European Union (EU)
+  last_post_date: "2025-04-10T21:11:04Z"
+  last_post_link: https://www.netskope.com/blog/the-data-sovereignty-imperative-the-business-value-of-data-protection
   last_post_categories:
-  - Threat Labs
+  - Full Skope
   last_post_language: ""
-  last_post_guid: 9a2482b4affb791c2532b44737830665
+  last_post_guid: 7912738e7f039c0ef26d0822d9c0978a
   score_criteria:
     cats: 0
     description: 0

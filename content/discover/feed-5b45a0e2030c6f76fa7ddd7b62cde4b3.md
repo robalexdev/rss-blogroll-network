@@ -21,7 +21,6 @@ params:
     id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
@@ -29,15 +28,15 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: The Startup Designer
-  last_post_description: There's nothing glamorous about being a designer at a startup.
-    It's a role that frequently values speed and pragmatism over going deep in the
-    craft. It's not all big launches, viral tweets, building
-  last_post_date: "2024-08-27T00:00:00Z"
-  last_post_link: https://paulstamatiou.com/the-startup-designer
+  last_post_title: Browse No More
+  last_post_description: |-
+    I'm no longer browsing the web; I'm consuming AI answers instead.
+    I love and adore today's so-called AI answer engines: tools like ChatGPT, Perplexity, Grok, Copilot, and Gemini. I use them at least
+  last_post_date: "2025-03-13T16:00:00Z"
+  last_post_link: https://paulstamatiou.com/browse-no-more
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 20f9b28bb7b24aec953d65838c0911bb
+  last_post_guid: fd97e2f6fabe03f7bc7f43150f95278d
   score_criteria:
     cats: 0
     description: 3

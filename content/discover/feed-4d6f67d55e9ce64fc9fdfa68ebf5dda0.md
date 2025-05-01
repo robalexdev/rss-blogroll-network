@@ -28,19 +28,14 @@ params:
   - https://spyglass.org/rss/
   - https://thenewsprint.co/rss/
   - https://thingstoclick.com/feed.rss
-  - https://world.hey.com/dhh/feed.atom
   - https://www.curtisfamily.org.uk/feed/
   - https://www.manton.org/feed.xml
   - https://www.michalzelazny.com/feed
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
-  - https://maique.eu/podcast.xml
   - https://maique.eu/posts_feed
-  - https://www.manton.org/podcast.xml
   - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
-  - https://mastodon.social/tags/mjtsaiupdate.rss
-  - https://mjtsai.com/blog/comments/feed/
   - https://om.co/comments/feed/
   - https://thenewsprint.co/feed
   - https://thingstoclick.com/feed.xml
@@ -54,7 +49,7 @@ params:
   last_post_description: Today, I posted something on Facebook; and honestly, it felt
     weird. I can’t remember exactly when I last wrote on Facebook. I also had this
     symptom of missing out on things from my old colleagues
-  last_post_date: "2024-08-31T13:36:50-05:00"
+  last_post_date: "2024-08-31T14:36:50-04:00"
   last_post_link: https://blog.numericcitizen.me/2024/08/31/hello-again-facebook.html
   last_post_categories: []
   last_post_language: ""

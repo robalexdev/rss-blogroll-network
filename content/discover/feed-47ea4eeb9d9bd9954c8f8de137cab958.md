@@ -6,8 +6,7 @@ params:
   feedlink: https://medium.com/feed/@jakeb0x
   feedtype: rss
   feedid: 47ea4eeb9d9bd9954c8f8de137cab958
-  websites:
-    https://medium.com/@jakeb0x?source=rss-c01d18246a4d------2: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Emacslife
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

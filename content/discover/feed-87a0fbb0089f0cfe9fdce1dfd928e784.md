@@ -1,6 +1,6 @@
 ---
 title: wingolog
-date: "2025-02-14T13:32:10Z"
+date: "2025-03-07T13:47:11Z"
 description: A mostly dorky weblog by Andy Wingo
 params:
   feedlink: https://wingolog.org/feed/atom?with=gnu&with=guile&with=igalia
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'tracepoints: gnarly but worth it'
+  last_post_title: 'whippet lab notebook: untagged mallocs, bis'
   last_post_description: ""
-  last_post_date: "2025-02-14T13:32:10Z"
-  last_post_link: https://wingolog.org/archives/2025/02/14/tracepoints-gnarly-but-worth-it
+  last_post_date: "2025-03-07T13:47:11Z"
+  last_post_link: https://wingolog.org/archives/2025/03/07/whippet-lab-notebook-untagged-mallocs-bis
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 22504108827e388281a754b7b18870ff
+  last_post_guid: 3821286b34b0c1b6df8d6bbfa8120402
   score_criteria:
     cats: 0
     description: 3

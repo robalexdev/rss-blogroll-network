@@ -15,41 +15,35 @@ params:
       by feedlandDatabase v0.7.54.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
-  recommender:
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
+  recommender: []
   categories:
-  - Raspberry Pi 3
-  - Raspberry Pi Cameras
-  - The MagPi
+  - Raspberry Pi Official Magazine
+  - Space
   relme: {}
-  last_post_title: This floppy disk archiver runs on a Raspberry Pi
+  last_post_title: Zero-G Laboratory floating platform
   last_post_description: |-
-    Floppy disks don’t last forever. Here's one way to back up your disk files using a Raspberry Pi 3 and Camera Module 2.
-    The post This floppy disk archiver runs on a Raspberry Pi appeared first on
-  last_post_date: "2025-02-24T11:21:26Z"
-  last_post_link: https://www.raspberrypi.com/news/this-floppy-disk-archiver-runs-on-a-raspberry-pi/
+    Helping explore space by building earthbound robots with Raspberry Pi and ROS (Robotics Operating System).
+    The post Zero-G Laboratory floating platform appeared first on Raspberry Pi.
+  last_post_date: "2025-04-25T09:33:09Z"
+  last_post_link: https://www.raspberrypi.com/news/zero-g-laboratory-floating-platform/
   last_post_categories:
-  - Raspberry Pi 3
-  - Raspberry Pi Cameras
-  - The MagPi
+  - Raspberry Pi Official Magazine
+  - Space
   last_post_language: ""
-  last_post_guid: 32f4a2c53bdb737ee53bf62815d9703e
+  last_post_guid: 3e3b09ea86124bea4b55b6dffb579dff
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

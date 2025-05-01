@@ -17,14 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unexpected Comic Strip Creators - Matt Groening
-  last_post_description: I've been hesitant to write about this, because I'm not entirely
-    sure how unexpected it is. I prefer to write about creators whose comic strip…
-  last_post_date: "2025-01-07T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/matt-groening
+  last_post_title: Comic Strip History - Gary Larson and the Thagomizer
+  last_post_description: As with most things I do research on, this one turned out
+    to be more complicated than I thought it would. Gary Larson is the cartoonist
+    behind the…
+  last_post_date: "2025-03-08T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/gary-larson-thagomizer
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0fe27d177a56ae8625955602a7725626
+  last_post_guid: b95c36b9af4881c94d29f16659907af8
   score_criteria:
     cats: 0
     description: 3

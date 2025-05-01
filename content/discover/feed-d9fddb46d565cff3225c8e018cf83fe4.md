@@ -1,6 +1,6 @@
 ---
 title: Solo sé que se querer, que tengo Dios y tengo fe - planetdebian-en
-date: "2023-11-12T08:41:00-03:00"
+date: "2025-03-09T15:35:00-03:00"
 description: (y eso no es poca cosa)
 params:
   feedlink: https://perezmeyer.com.ar/blog/feeds/tags/planetdebian-en.atom.xml
@@ -15,24 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - bahíablanca
+  - debian
+  - embeddedworld
   - english
-  - mini-debconf
+  - flood
   - misc
   - planetdebian-en
   relme: {}
-  last_post_title: Mini DebConf 2023 in Montevideo, Uruguay
-  last_post_description: 15 years, "la niña bonita", if you ask many of my fellow
-    argentinians, is the amount of time I haven't been present in any Debian-related
-    face to face activity. It was already time to fix that.
-  last_post_date: "2023-11-12T08:41:00-03:00"
-  last_post_link: https://perezmeyer.com.ar/blog/2023/11/12/mini_debconf_2023_montevideo_uruguay/
+  last_post_title: 'Bahía Blanca floods - Mother nature says: no Nuremberg for you
+    today'
+  last_post_description: |-
+    Update 20250309 13:20-03:00 - How to help
+    A friend of mine living in the USA sent me this link to help the flood victims: Support Bahía Blanca (Argentina) Flood Victims
+    Original blog post
+    These are
+  last_post_date: "2025-03-09T15:35:00-03:00"
+  last_post_link: https://perezmeyer.com.ar/blog/2025/03/08/bahia-blanca-2025-floods/
   last_post_categories:
+  - bahíablanca
+  - debian
+  - embeddedworld
   - english
-  - mini-debconf
+  - flood
   - misc
   - planetdebian-en
   last_post_language: ""
-  last_post_guid: 1bd1fa1db983ac98781e47e3de6f45e3
+  last_post_guid: f960abe4e6599500057c69de3078f70f
   score_criteria:
     cats: 0
     description: 3
@@ -50,6 +59,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 50
+  postcount: 53
   avgpostlen: 288
 ---

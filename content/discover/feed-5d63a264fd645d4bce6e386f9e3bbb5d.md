@@ -150,16 +150,18 @@ params:
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://degruchy.org/atom.xml
-  - https://degruchy.org/feed.xml
   - https://degruchy.org/index.xml
   - https://httpster.io/atom.xml
   - https://httpster.io/feed.json
   - https://httpster.io/rss.xml
+  - https://httpster.io/subscribe
   - https://immerweiterlaufen.de/comments/feed/
   - https://immerweiterlaufen.de/feed/
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
+  - https://www.jasonjournals.com/feeds/posts/default
+  - https://www.jasonjournals.com/feeds/posts/default?alt=rss
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
   - https://kevquirk.com/notes-feed
@@ -171,7 +173,6 @@ params:
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
-  - https://notiz.blog/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
@@ -183,7 +184,6 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://nova.mkultra.monster/feed.xml
   - https://rachsmith.com/rss/
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
@@ -203,27 +203,22 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
   categories:
-  - books
-  - libraries
-  - philosophy
-  - thoughts
+  - essays
+  - reading
   relme:
     https://github.com/immarisabel: true
-    https://github.com/immarisabel/: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: May you find your reader soon
-  last_post_description: In 1931, S. R. Ranganathan proposed the Five Laws of Library
-    Science, a framework that has since become the mitochondrial DNA of every library—more
-    than a backbone, a life force. These laws are not
-  last_post_date: "2025-02-20T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/May_you_find_your_reader_soon
+  last_post_title: The Five Ws (and One H) of Reading
+  last_post_description: "I spent the month of April crafting this essay in order
+    to help expand the love of reading. If you have any\n    comments, questions,
+    ideas, recommendations and what not, let me know!\n  \nAn essay on"
+  last_post_date: "2025-04-23T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/The_Five_Ws_(and_One_H)_of_Reading
   last_post_categories:
-  - books
-  - libraries
-  - philosophy
-  - thoughts
+  - essays
+  - reading
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
@@ -232,13 +227,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

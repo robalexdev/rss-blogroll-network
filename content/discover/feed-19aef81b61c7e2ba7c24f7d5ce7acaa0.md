@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2025-02-23T16:06:29+01:00"
+date: "2025-04-15T15:26:40+02:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -18,17 +18,16 @@ params:
   - OSGeo
   - Software
   relme: {}
-  last_post_title: 'Datenschutzkonforme Bildveröffentlichung: Gesichter und Nummernschilder
-    automatisch verpixeln mit Python'
-  last_post_description: Autokennzeichen und Gesichter verpixeln und datenschutzkonforme
-    Bilder erstellen mit Python in nur wenigen Schritten. Wir zeigen wieâ€™s geht.
-  last_post_date: "2024-12-06T10:05:00+01:00"
-  last_post_link: https://wheregroup.com/blog/datenschutzkonforme-bildveroeffentlichung-gesichter-und-nummernschilder-automatisch-verpixeln-mit-python/
+  last_post_title: 'WebAssembly: Revolutioniere WebGIS mit unbegrenztem Potenzial'
+  last_post_description: Martin Alzueta zeigt, welche Möglichkeiten WebAssembly (WASM)
+    bietet, um GIS-Anwendungen performanter, skalierbarer und flexibler zu gestalten.
+  last_post_date: "2025-04-01T15:08:00+02:00"
+  last_post_link: https://wheregroup.com/blog/webassembly-revolutioniere-web-gis-mit-unbegrenztem-potenzial/
   last_post_categories:
   - OSGeo
   - Software
   last_post_language: ""
-  last_post_guid: b85313d104214393507f4df8d868946b
+  last_post_guid: 9b80cf5bdd9f3cde111195b0dbc53342
   score_criteria:
     cats: 0
     description: 0
@@ -46,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 52
+  postcount: 54
   avgpostlen: 0
 ---

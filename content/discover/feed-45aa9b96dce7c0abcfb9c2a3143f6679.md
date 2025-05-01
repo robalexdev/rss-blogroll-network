@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'X Phishing: 6 Pivoting Techniques for Threat Hunting'
-  last_post_description: The SentinelOne Labs team reported on a phishing campaign
-    targeting high-profile accounts. In this blog, we expand on the reported indicators
-    with advanced, but accessible pivoting techniques in
-  last_post_date: "2025-01-31T20:12:08Z"
-  last_post_link: https://www.validin.com/blog/x-phishing-threat-hunting-pivotoing-techniques/
+  last_post_title: Finding Booking.com themed ClickFix domains using Validin
+  last_post_description: X User @JAMESWT_WT posted the following tweet on April 8th
+    about a site impersonating Booking.com that was related to an ongoing ClickFix
+    campaign.
+  last_post_date: "2025-04-17T00:00:00Z"
+  last_post_link: https://www.validin.com/blog/finding_booking_themed_clickfix/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c23f0c69ab6573c6c674b579a38b4363
+  last_post_guid: 39a140cc20a550678e38ef5a5894f226
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 16
+  postcount: 23
   avgpostlen: 0
 ---

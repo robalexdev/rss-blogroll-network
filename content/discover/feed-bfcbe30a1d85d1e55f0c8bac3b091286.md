@@ -16,15 +16,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AWS S3 SDK breaks its compatible services
+  last_post_title: BackON v1.5.0 Released
   last_post_description: |-
-    The Apache Iceberg community has raised a PR S3: Disable strong integrity checksums to disable the newly introduced integrity checksums in AWS S3 SDKs.
-    AWS has introduced default data integrity
-  last_post_date: "2025-02-20T02:00:00Z"
-  last_post_link: https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/
+    I am happy to announce the release of BackON v1.5.0.
+    BackON is a rust library for making retry like a built-in feature provided by Rust.
+    use backon::ExponentialBuilder;
+    use backon::Retryable;
+
+    async
+  last_post_date: "2025-04-09T01:00:00Z"
+  last_post_link: https://xuanwo.io/links/2025/04/backon_v1_5_0/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34c54db46de47eda1b15db0a87fa4a96
+  last_post_guid: b4a8513d122b77efcff9659f79b57313
   score_criteria:
     cats: 0
     description: 3

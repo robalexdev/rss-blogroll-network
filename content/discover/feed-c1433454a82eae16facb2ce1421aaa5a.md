@@ -17,22 +17,22 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Companies
-  - Digitale transformatie
-  - Kunstmatige Intelligentie
+  - Boeken
+  - Filosofie
+  - Podcast
   relme: {}
-  last_post_title: AI als katalysator van de digitale transformatie van McKinsey
+  last_post_title: De luchthaven als filosofische tussenruimte
   last_post_description: |-
-    Toen ChatGPT in november 2022 de wereld veroverde, worstelde McKinsey al decennialang met een hardnekkig probleem: hoe de enorme hoeveelheid […]
-    Het bericht AI als katalysator van de digitale
-  last_post_date: "2025-02-24T15:12:19Z"
-  last_post_link: https://koneksa-mondo.nl/2025/02/24/ai-als-katalysator-van-de-digitale-transformatie-van-mckinsey/
+    Luchthavens zijn bij uitstek liminale ruimtes: plekken tussen hier en daar, tussen vertrek en aankomst. De Franse filosoof Michel Foucault […]
+    Het bericht De luchthaven als filosofische
+  last_post_date: "2025-04-28T20:24:25Z"
+  last_post_link: https://koneksa-mondo.nl/2025/04/28/de-luchthaven-als-filosofische-tussenruimte/
   last_post_categories:
-  - Companies
-  - Digitale transformatie
-  - Kunstmatige Intelligentie
+  - Boeken
+  - Filosofie
+  - Podcast
   last_post_language: ""
-  last_post_guid: c79fa32c84239a70f14fc83dfee852e8
+  last_post_guid: d9ca85e04d7b1f82490837f958ab6e0f
   score_criteria:
     cats: 0
     description: 3

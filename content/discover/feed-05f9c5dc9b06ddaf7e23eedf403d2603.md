@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 05f9c5dc9b06ddaf7e23eedf403d2603
   websites:
-    https://blogs.fsfe.org/tonnerre: true
     https://blogs.fsfe.org/tonnerre/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

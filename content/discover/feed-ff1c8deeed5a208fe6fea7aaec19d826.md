@@ -6,8 +6,7 @@ params:
   feedlink: https://wordridden.com/rss
   feedtype: rss
   feedid: ff1c8deeed5a208fe6fea7aaec19d826
-  websites:
-    https://wordridden.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: A list of sites Ethan likes
@@ -46,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

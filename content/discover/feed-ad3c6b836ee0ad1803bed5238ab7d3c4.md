@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The web is too big, or scaling down
-  last_post_description: I started writing this post in October, when Mozilla announced
-    that it's going to become an adtech company. I got distracted by the professoring
-    business, and didn't finish it until now. It's not
-  last_post_date: "2024-10-06T02:02:00Z"
-  last_post_link: https://scottrichmond.me/the-web-is-too-big/
+  last_post_title: A view from the north
+  last_post_description: I'm both American and Canadian. I immigrated to Canada in
+    summer of 2016, a few months before Trump won the 2016 election (and have since
+    become a Canadian citizen). It was a weird time to have
+  last_post_date: "2025-03-11T16:21:00Z"
+  last_post_link: https://scottrichmond.me/a-view-from-the-north/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37903d2e2dd91e7971f7c4f73eba2474
+  last_post_guid: c36822426472a02f40307180627a7c5a
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 3
+  postcount: 4
   avgpostlen: 0
 ---

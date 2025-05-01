@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Trap of "I am not an Extrovert"
-  last_post_description: It was one of those farewell dinners we had hosted back in
-    college. I was in the third year. I was surrounded by two junior batches and two…
-  last_post_date: "2024-12-26T00:00:00Z"
-  last_post_link: https://orkohunter.net/blog/the-trap-of-introversion
+  last_post_title: Work is Life Too
+  last_post_description: 10 PM on a Sunday night. You’re back home after a night out
+    with friends. A couple of beers and some pizza. The place was too loud but you…
+  last_post_date: "2025-03-31T00:00:00Z"
+  last_post_link: https://orkohunter.net/blog/work-is-life-too
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a8ecfe419e96b7eb9bb79782a9422e4e
+  last_post_guid: 3d17841dbef79812708aa93ba71ee06f
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 48
+  postcount: 49
   avgpostlen: 0
 ---

@@ -13,56 +13,40 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
-  - 211 مليون عربي محروم من الخدمات البنكية
-  - بطالة عطالة
-  - بيع الوهم
-  - تعليم لا ينفع
-  - تعليم ما لا ينفع على يوتيوب
-  - تقييم صناع المحتوى
-  - خداع الناس
-  - قنوات يوتيوب مذاكرة
-  - يوتيوبرز مزيفين
-  - يومياتي
+  - Mohammed Sefraoui
+  - Mr.sefraouimed01
+  - تحسين محركات البحث
+  - رائد الأعمال محمد صفراوي
+  - عبدالقادر ميزات
+  - محمد صفراوي
+  - يونس توك
   relme:
     https://mastodon.social/@youneskkc: true
     https://youdo.blog/: true
-  last_post_title: سبحان الله لماذا يبخلون بخير عظيمٍ في قدرتهم فعله ولا يُكلِّفهم
-    شيئًا؟
-  last_post_description: بسم الله، سيكون هذا المقال بعون الله مرجعًا أرسله لكل من
-    يريد أن يُقيّم صانع محتوى قبل أن يتابعه لسنوات من
-  last_post_date: "2025-02-24T02:43:17Z"
-  last_post_link: https://youdo.blog/2025/02/24/phony-arab-content-creators/
+  last_post_title: 'أمسية رمضانية مع رائد الأعمال محمد صفراوي: السيو لا زال مجالًا
+    واعدًا'
+  last_post_description: السلام عليكم، مساء السعادة ورمضانكم كريم، سعدت هذه الأمسية
+    بإجراء لقاء مع رائد الأعمال محمد صفراوي، والذي
+  last_post_date: "2025-03-17T00:34:27Z"
+  last_post_link: https://youdo.blog/2025/03/17/mohammed-sefraoui/
   last_post_categories:
-  - 211 مليون عربي محروم من الخدمات البنكية
-  - بطالة عطالة
-  - بيع الوهم
-  - تعليم لا ينفع
-  - تعليم ما لا ينفع على يوتيوب
-  - تقييم صناع المحتوى
-  - خداع الناس
-  - قنوات يوتيوب مذاكرة
-  - يوتيوبرز مزيفين
-  - يومياتي
+  - Mohammed Sefraoui
+  - Mr.sefraouimed01
+  - تحسين محركات البحث
+  - رائد الأعمال محمد صفراوي
+  - عبدالقادر ميزات
+  - محمد صفراوي
+  - يونس توك
   last_post_language: ""
-  last_post_guid: c3eb2f47a0be17e8162caabb578e430a
+  last_post_guid: 9c58eb170d121563fcf2921cedbf1def
   score_criteria:
     cats: 0
     description: 3

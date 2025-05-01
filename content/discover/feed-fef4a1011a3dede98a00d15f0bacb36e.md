@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2025-01-18T21:38:08+08:00"
+date: "2025-04-06T16:15:51+08:00"
 description: 我欲种菜 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -16,21 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - essay
-  - 情感
+  - review
+  - 读书
   relme: {}
-  last_post_title: 纪念的数字
+  last_post_title: 读书小结十一
   last_post_description: |-
-    领证的日子是妻选的，谐音“爱你爱我一生”。不知她是从哪里看到的，至少周围的女同事不解，问我这天有什么特殊意义。
+    癌症楼
 
-    年初也是给域名续费的时
-  last_post_date: "2025-01-18T21:27:45+08:00"
-  last_post_link: https://jubeny.com/2025/01/memorable-numbers/
+    从死亡边缘逐渐活过来的政治犯，又恢复了对生活的希望，然而在流放制度的强压下，即使身体康复，自由还是那么遥远，面对向自己释放好意
+  last_post_date: "2025-03-30T17:26:49+08:00"
+  last_post_link: https://jubeny.com/2025/03/book-summaries-11/
   last_post_categories:
-  - essay
-  - 情感
+  - review
+  - 读书
   last_post_language: ""
-  last_post_guid: 3858973f9838af91dab1416f56db477a
+  last_post_guid: 16ff2c28145946b5bcec682b4cedaa89
   score_criteria:
     cats: 0
     description: 3

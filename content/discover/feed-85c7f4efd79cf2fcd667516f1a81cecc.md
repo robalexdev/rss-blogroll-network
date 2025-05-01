@@ -1,7 +1,7 @@
 ---
-title: 向阳而生
+title: Home on 向阳而生
 date: "1970-01-01T00:00:00Z"
-description: "一个喜欢异想天开的家伙 \U0001F4A8"
+description: Recent content in Home on 向阳而生
 params:
   feedlink: https://blog.7wate.com/rss.xml
   feedtype: rss
@@ -14,8 +14,7 @@ params:
     id: 7fb87e348a8211f4c19e4b0b0da225bd
   recommended: []
   recommender: []
-  categories:
-  - 新随笔
+  categories: []
   relme: {}
   last_post_title: 冰箱，让你我错过了多少新鲜的生活？
   last_post_description: !!binary |
@@ -23,25 +22,24 @@ params:
     626YeM77yM5Y+R546w5Yaw566x5pep5bey6KKr6ICB5aaI5aGe5ruh77yM5LiA5YyF5LiN
     55+l6YGT5Yeg5aSp5YmN55qE6JSs6I+c77yM6L+Y5pyJ5Zub5aSE5pWj6JC9552A55qE5Y
     mp6aWt44CC5pW05Liq5Lq6556s6Ze06YO95LiN5aW95LqG77yM6ICB5aY=
-  last_post_date: "2024-07-05T15:34:19Z"
-  last_post_link: https://blog.7wate.com/archives/bing-xiang-rang-ni-wo-cuo-guo-liao-duo-shao-xin-xian-de-sheng-huo
-  last_post_categories:
-  - 新随笔
+  last_post_date: "2024-06-27T00:00:00Z"
+  last_post_link: https://blog.7wate.com/%E5%86%B0%E7%AE%B1%E8%AE%A9%E4%BD%A0%E6%88%91%E9%94%99%E8%BF%87%E4%BA%86%E5%A4%9A%E5%B0%91%E6%96%B0%E9%B2%9C%E7%9A%84%E7%94%9F%E6%B4%BB/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 50a42e62c7751d109d0fbef5093a1364
+  last_post_guid: 5227746d5a23f07c0393c261bf1360a1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

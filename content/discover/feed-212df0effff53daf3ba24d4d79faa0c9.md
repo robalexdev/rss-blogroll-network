@@ -15,34 +15,25 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Chainalysis
   - Company News
-  - DeFi
-  - ERC-20
-  - EVM
-  - Ethereum
-  - Integration
-  - Layer 2
-  - Unichain
-  - Uniswap
+  - customer awards
+  - links nyc
   relme: {}
-  last_post_title: Chainalysis Integrates with Unichain
+  last_post_title: Chainalysis Recognizes Global Customer Excellence at Inaugural
+    Customer Awards Ceremony
   last_post_description: |-
-    Chainalysis is excited to announce support for Unichain, a DeFi-focused Ethereum layer 2 built on the Superchain, powered by Uniswap…
-    The post Chainalysis Integrates with Unichain appeared first on
-  last_post_date: "2025-02-20T18:55:02Z"
-  last_post_link: https://www.chainalysis.com/blog/chainalysis-integrates-with-unichain-february-2025/
+    Chainalysis proudly hosted our inaugural Customer Awards program at Links 2025 NYC, recognizing exceptional innovation, impact, and collaboration across our…
+    The post Chainalysis Recognizes Global
+  last_post_date: "2025-04-16T16:19:02Z"
+  last_post_link: https://www.chainalysis.com/blog/chainalysis-customer-awards-links/
   last_post_categories:
+  - Chainalysis
   - Company News
-  - DeFi
-  - ERC-20
-  - EVM
-  - Ethereum
-  - Integration
-  - Layer 2
-  - Unichain
-  - Uniswap
+  - customer awards
+  - links nyc
   last_post_language: ""
-  last_post_guid: 5d7fb2b3163af5f50eaca16b6eda7002
+  last_post_guid: 53ea8be2ea01bc0c3404bf3ffcd723ae
   score_criteria:
     cats: 0
     description: 0

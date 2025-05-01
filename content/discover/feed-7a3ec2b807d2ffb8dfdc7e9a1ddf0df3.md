@@ -17,16 +17,15 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Not a Tribute, Just Fleeting Thoughts
-  last_post_description: Life is strange
-  last_post_date: "2025-01-10T13:28:08Z"
-  last_post_link: https://mikegrindle.com/posts/fleeting
+  last_post_title: The Unintentional Renegades of Outsider Music
+  last_post_description: Melodies from the margins
+  last_post_date: "2025-04-24T10:54:36+01:00"
+  last_post_link: https://mikegrindle.com/posts/outsider
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad1bfaa8c514dbdabb8861f1173dc5ca
+  last_post_guid: 3cd6f6a49ea3ea8e4b518c9ab39f132a
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 55
+  postcount: 27
   avgpostlen: 0
 ---

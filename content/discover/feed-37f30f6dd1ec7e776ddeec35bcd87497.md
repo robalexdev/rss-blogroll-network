@@ -18,16 +18,16 @@ params:
   categories:
   - StackOverflow is awesome
   relme: {}
-  last_post_title: Install minimal LXDE on Debian (with/without autologin)
-  last_post_description: 'If you forgot to install LXDE on a Debian (for example bullseye)
-    and you want something super-minimal, do this: IMPORTANT: don’t read this guide
-    if you are using Raspbian! Go to the next section'
-  last_post_date: "2024-10-08T14:20:33Z"
-  last_post_link: https://blog.reyboz.it/2024/10/08/install-minimal-lxde-on-debian-raspbian-with-without-autologin/
+  last_post_title: GNU Gettext in PHP (not working)
+  last_post_description: GNU Gettext is a powerful, standard, efficient way to translate
+    a PHP project. It’s not quite modern but it’s solid and it’s a standard de-facto.
+    Unfortunately, GNU Gettext can be very painful
+  last_post_date: "2025-04-21T08:38:30Z"
+  last_post_link: https://blog.reyboz.it/2025/04/21/gnu-gettext-in-php-not-working/
   last_post_categories:
   - StackOverflow is awesome
   last_post_language: ""
-  last_post_guid: 37a7cadf84ee2b2139015d37c425bb3e
+  last_post_guid: 14d2e9f9c5a2b27a6654efbbdbed6a54
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: 200ok - Accelerating Publishing
-date: "2025-02-17T10:07:20Z"
+date: "2025-04-21T09:01:52Z"
 description: Developing and advocating Free and Open Source Software
 params:
   feedlink: https://200ok.ch/atom.xml
@@ -15,40 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - babashka
   - cli
-  - clojure
-  - library
   relme: {}
-  last_post_title: 'Shell Smith: A Clojure Library for Building CLI Tools with Elegant
-    Configuration Management'
+  last_post_title: Managing Untracked Files in Git Projects with a Personal Directory
   last_post_description: ""
-  last_post_date: "2025-02-17T00:00:00Z"
-  last_post_link: https://200ok.ch/posts/2025-02-17_shell_smith_a_clojure_library_for_building_cli_tools_with_elegant_configuration_management.html
+  last_post_date: "2025-04-21T00:00:00Z"
+  last_post_link: https://200ok.ch/posts/2025-04-21_managing_untracked_files_in_git_projects_with_a_personal_directory.html
   last_post_categories:
-  - babashka
   - cli
-  - clojure
-  - library
   last_post_language: ""
-  last_post_guid: d5036a6065f26bb107260ed8df45a757
+  last_post_guid: b1d4f94da30bd6a08e7a317c7465a5df
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 98
+  postcount: 103
   avgpostlen: 295
 ---

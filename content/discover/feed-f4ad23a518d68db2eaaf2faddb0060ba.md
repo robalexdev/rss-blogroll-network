@@ -15,22 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
+  - L10n Reports
+  - Mozilla L10n team
   - Planet
   - Pontoon
-  - Tools
   relme: {}
-  last_post_title: 2025 Pontoon survey results
-  last_post_description: 'The results from the 2025 Pontoon survey are in and the
-    3 top-voted features we commit to implement are: Add ability to preview Fluent
-    strings in the editor (258 votes). … Read more'
-  last_post_date: "2025-01-29T15:20:47Z"
-  last_post_link: https://blog.mozilla.org/l10n/2025/01/29/2025-pontoon-survey-results/
+  last_post_title: 'L10n report: April 2025 Edition'
+  last_post_description: Please note some of the information provided in this report
+    may be subject to change as we are sometimes sharing information about projects
+    that are still in early stages and … Read more
+  last_post_date: "2025-04-25T18:57:06Z"
+  last_post_link: https://blog.mozilla.org/l10n/2025/04/25/l10n-report-april-2025-edition/
   last_post_categories:
+  - L10n Reports
+  - Mozilla L10n team
   - Planet
   - Pontoon
-  - Tools
   last_post_language: ""
-  last_post_guid: cbc6cdb68a0ef3a9b4756eabdece6351
+  last_post_guid: f3b0b984c1cc50a0624e7403b67673c4
   score_criteria:
     cats: 0
     description: 3

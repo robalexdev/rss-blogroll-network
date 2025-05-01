@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: KK 音标、DJ 音标、IPA 音标对照表
-  last_post_description: "本文内容摘录自KK音标 - 维基百科，自由的百科全书。\n\n 单元音 #\n\n \n \n KK\n DJ\n
-    IPA\n 单字示例\n \n \n \n \n [i]\n [iː]\n [iː]\n seat\n \n \n [ɪ]\n [ɪ]\n [ɪ]\n sit\n
-    \n \n [e]\n [eɪ]\n"
-  last_post_date: "2025-02-23T00:00:00+08:00"
-  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/02/23/kk-dj-ipa-comparison/
+  last_post_title: 解锁 Redmi K40S（HyperOS 1.0）的 bootloader
+  last_post_description: 从 HyperOS 开始，解锁
+  last_post_date: "2025-03-13T00:00:00+08:00"
+  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/03/13/unlock-redmi-k40s-hyperos1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 008368f85ceb9af1b61e9a5f86b8a868
+  last_post_guid: 11d3f04267d0f02241a53f90820655a6
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 122
+  postcount: 129
   avgpostlen: 0
 ---

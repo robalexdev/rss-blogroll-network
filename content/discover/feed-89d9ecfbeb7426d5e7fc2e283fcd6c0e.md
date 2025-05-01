@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2025-02-18T11:25:38Z"
+date: "2025-03-28T12:54:09Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I'll give up Neovim when you pry it from my cold, dead hands
+  last_post_title: Let's build a VORON 0
   last_post_description: ""
-  last_post_date: "2025-02-18T11:25:38Z"
-  last_post_link: https://www.jonashietala.se/blog/2025/02/18/ill_give_up_neovim_when_you_pry_it_from_my_cold_dead_hands
+  last_post_date: "2025-03-28T12:54:09Z"
+  last_post_link: https://www.jonashietala.se/blog/2025/03/25/lets_build_a_voron_0
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 018d04937d89e9a55f647e96412ea572
+  last_post_guid: 5dc97ffccbbb3cacecf49b565972986b
   score_criteria:
     cats: 0
     description: 0
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 288
+  postcount: 291
   avgpostlen: 291
 ---

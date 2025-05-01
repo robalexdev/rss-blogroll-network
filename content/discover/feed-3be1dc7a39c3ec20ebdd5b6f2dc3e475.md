@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: One ClickFix and LummaStealer reCAPTCHA’s Our Attention - Part
-    1
-  last_post_description: |-
-    Executive Summary
-    Throughout 2024, RevEng.AI has been actively monitoring LummaStealer as part of its mission to uncover and analyse emerging threats across the commodity malware landscape. In mid
-  last_post_date: "2025-01-30T12:10:25Z"
-  last_post_link: https://blog.reveng.ai/one-clickfix-and-lummastealer-recaptchas-our-attention-part-1/
+  last_post_title: 'LummaStealer: More Tricks, More Trouble - Part 2'
+  last_post_description: Executive SummaryIn February 2025, the RevEngAI team observed
+    an ongoing LummaStealer campaign that employed a distinct approach compared to
+    the ClickFix method detailed in the previous instalment of
+  last_post_date: "2025-03-05T14:00:40Z"
+  last_post_link: https://blog.reveng.ai/lummastealer-more-tricks-more-trouble-part-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2165439d56e4e7a4ad78611f3d0ba35f
+  last_post_guid: cb48c036c0c6dfeb0d35851c7871b587
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 5
+  postcount: 7
   avgpostlen: 0
 ---

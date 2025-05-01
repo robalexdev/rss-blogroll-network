@@ -149,16 +149,18 @@ params:
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://degruchy.org/atom.xml
-  - https://degruchy.org/feed.xml
   - https://degruchy.org/index.xml
   - https://httpster.io/atom.xml
   - https://httpster.io/feed.json
   - https://httpster.io/rss.xml
+  - https://httpster.io/subscribe
   - https://immerweiterlaufen.de/comments/feed/
   - https://immerweiterlaufen.de/feed/
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
+  - https://www.jasonjournals.com/feeds/posts/default
+  - https://www.jasonjournals.com/feeds/posts/default?alt=rss
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
   - https://kevquirk.com/notes-feed
@@ -170,7 +172,6 @@ params:
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
-  - https://notiz.blog/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
@@ -182,7 +183,6 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://nova.mkultra.monster/feed.xml
   - https://rachsmith.com/rss/
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
@@ -201,41 +201,44 @@ params:
   - https://www.met-k.com/comments/feed/
   - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
-  categories: []
+  categories:
+  - book log
+  - book review
+  - reading journal
+  - reading tracker
   relme:
     https://github.com/immarisabel: true
-    https://github.com/immarisabel/: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: "\U0001F4AC Snippet!"
-  last_post_description: |-
-    Art added to my Sketchbook:
-
-
-    Today at the zoo. There were too many children. I found myself inexperience with lively creatures. Adults usually stay sitting long enough to draw. So I just painted it
-  last_post_date: "2025-02-23T14:53:43Z"
-  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=374
-  last_post_categories: []
+  last_post_title: "\U0001F4DA Books: LOG: Yellowface by Rebecca F. Kuang"
+  last_post_description: Ok... I might just want to take this on the trip... haha
+  last_post_date: "2025-04-26T00:00:00Z"
+  last_post_link: https://marisabel.nl/library/log.php?id=655903
+  last_post_categories:
+  - book log
+  - book review
+  - reading journal
+  - reading tracker
   last_post_language: ""
-  last_post_guid: 73e9a6d90069ee566222c369aa7d9be4
+  last_post_guid: 833d1ddce28d3cbea933c7fff62049e3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 19
+  postcount: 20
   avgpostlen: 0
 ---

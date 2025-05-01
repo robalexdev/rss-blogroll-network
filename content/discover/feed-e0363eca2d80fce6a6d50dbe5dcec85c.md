@@ -12,40 +12,38 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
-  - dev
+  - InfoSecTTP
+  - OSINT
+  - SmartScreen
+  - scam
   - security
+  - tech
   - web
   relme: {}
-  last_post_title: Guidelines for Secure Filename Display
-  last_post_description: Many years ago, I wrote the first drafts of Chromium’s Guidelines
-    for Secure URL Display. These guidelines were designed to help feature teams avoid
-    security bugs whereby a user might misinterpret
-  last_post_date: "2025-02-21T20:32:53Z"
-  last_post_link: https://textslashplain.com/2025/02/21/guidelines-for-secure-filename-display/
+  last_post_title: 'Attack Techniques: Fake Literally Everything! (Escrow Scam)'
+  last_post_description: The team recently got a false-negative report on the SmartScreen
+    phishing filter complaining that we fail to block firstline-trucking.com. I passed
+    it along to our graders but then took a closer look
+  last_post_date: "2025-04-24T22:27:03Z"
+  last_post_link: https://textslashplain.com/2025/04/24/attack-techniques-fake-literally-everything/
   last_post_categories:
-  - dev
+  - InfoSecTTP
+  - OSINT
+  - SmartScreen
+  - scam
   - security
+  - tech
   - web
   last_post_language: ""
-  last_post_guid: 6c19e7d2abe1375b2a0dbe64d19cb7d0
+  last_post_guid: 01467191fc7007f40a369f385f54005a
   score_criteria:
     cats: 0
     description: 3

@@ -15,30 +15,24 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.7.55.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
-  - title: Leon Mika - Blogroll
-    description: ""
-    id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
   categories:
-  - Content Moderation
   - Meta
+  - Oversight Board
   relme: {}
-  last_post_title: How Meta's concessions to the right may have backfired
-  last_post_description: A new inquiry from the Federal Trade Commission suggests
-    that apologizing for "censorship" may have only emboldened the company's conservative
-    critics
-  last_post_date: "2025-02-21T02:05:20Z"
-  last_post_link: https://www.platformer.news/ftc-censorship-investigation-meta-x-community-notes/
+  last_post_title: The Oversight Board gives Meta a pass on anti-trans posts
+  last_post_description: The beleaguered body’s influence has been waning — and now
+    its independence may be, too
+  last_post_date: "2025-04-25T00:00:35Z"
+  last_post_link: https://www.platformer.news/meta-oversight-board-trans-cases-kaplan-independence/
   last_post_categories:
-  - Content Moderation
   - Meta
+  - Oversight Board
   last_post_language: ""
-  last_post_guid: 8227151c6b5a274402c2cc1b761f07ce
+  last_post_guid: 19fd445b533248c65354b093c46a65b0
   score_criteria:
     cats: 0
     description: 3

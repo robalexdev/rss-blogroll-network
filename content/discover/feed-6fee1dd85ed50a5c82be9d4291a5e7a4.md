@@ -17,30 +17,38 @@ params:
   recommender: []
   categories:
   - Programming
+  - ai
+  - anthropic
+  - openai
+  - svelte
   relme: {}
-  last_post_title: Five Tips for Better AI Programming with Large Language Models
-  last_post_description: After using LLMs like ChatGPT, Claude and Gemini for coding
-    assistance, I’ve noticed a significant improvement in their capabilities over
-    the past two years. However, getting consistently good
-  last_post_date: "2025-01-26T20:42:08Z"
-  last_post_link: https://khromov.se/five-tips-for-better-ai-programming-with-large-language-models/
+  last_post_title: 'Claude 3.7 Sonnet vs Gemini 2.5 Pro: Which AI Is Better for Coding?'
+  last_post_description: If you’re a programmer, you’re likely already using AI and
+    large language models in your workflow. For some time now, Claude Sonnet has been
+    the undisputed king of models used for programming. It
+  last_post_date: "2025-04-12T22:09:52Z"
+  last_post_link: https://khromov.se/claude-3-7-sonnet-vs-gemini-2-5-pro-which-ai-is-better-for-coding/
   last_post_categories:
   - Programming
+  - ai
+  - anthropic
+  - openai
+  - svelte
   last_post_language: ""
-  last_post_guid: 6c4600b63cdca570e83f82ebf1a44d01
+  last_post_guid: 8f61845544349880e5e0e07f7cde2c05
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

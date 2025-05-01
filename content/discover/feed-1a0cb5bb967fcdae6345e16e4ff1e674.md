@@ -8,13 +8,9 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
-    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: af94d85e509bec272bc4314eb947a67d
   - title: Kev Quirk's Blogroll
     description: ""
     id: d3c6398765901e01429e7ceffd5164f1
@@ -23,9 +19,6 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://kevq.uk/feed
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
@@ -33,7 +26,6 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: The real emotional intelligence is the people we beat up in our
@@ -62,5 +54,5 @@ params:
   innetwork: true
   language: en
   postcount: 20
-  avgpostlen: 296
+  avgpostlen: 295
 ---

@@ -18,17 +18,15 @@ params:
   categories: []
   relme:
     https://www.djangoproject.com/weblog/: true
-  last_post_title: Django 5.2 beta 1 released
-  last_post_description: |-
-    Django 5.2 beta 1 is now available. It represents the second stage in the 5.2
-    release cycle and is an opportunity for you to try out the changes coming in
-    Django 5.2.
-    Django 5.2 brings a composite of
-  last_post_date: "2025-02-19T01:55:07-06:00"
-  last_post_link: https://www.djangoproject.com/weblog/2025/feb/19/django-52-beta-1-released/
+  last_post_title: New Features GitHub repo and project
+  last_post_description: Django is experimenting with a new GitHub repository specifically
+    designed to manage feature ideas and their progression. This is a significant
+    shift away from the previous process of posting those
+  last_post_date: "2025-04-26T09:58:08-05:00"
+  last_post_link: https://www.djangoproject.com/weblog/2025/apr/26/new-features-github-repo-and-project/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 196b764da43f2ae2ab2a16f9d4fa9693
+  last_post_guid: 9f9be4a359de7a718b669f8f351497ed
   score_criteria:
     cats: 0
     description: 3

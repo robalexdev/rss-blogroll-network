@@ -18,20 +18,19 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
-  - Life
+  - Stories
   relme: {}
-  last_post_title: Woman-in-trouble
-  last_post_description: 'I’m alone for the week. I impulse-buy peach soju and run
-    a bath. Sitting in the blur of the water, a slight buzz at my temples, I think,
-    a little giddily: Clear signs of the woman-in-trouble.'
-  last_post_date: "2025-02-18T06:09:41Z"
-  last_post_link: https://www.conscienceround.com/archives/9149
+  last_post_title: The Non-Playable Cycle
+  last_post_description: '[PRESS TO START] Your name is Iphigenia and your late father
+    left you a fertile plot in the delightfully pastoral municipality of Dewdrop Fields.
+    Puffy-cloud, cherry-red, farm-fresh fantasy. No olive'
+  last_post_date: "2025-04-20T04:51:09Z"
+  last_post_link: https://www.conscienceround.com/archives/8501
   last_post_categories:
-  - Life
+  - Stories
   last_post_language: ""
-  last_post_guid: b841efdb7caf3ec40ebfd42ea0ba6985
+  last_post_guid: 0a75f52c51a0a74483f9ac2fd80d1e0b
   score_criteria:
     cats: 0
     description: 3

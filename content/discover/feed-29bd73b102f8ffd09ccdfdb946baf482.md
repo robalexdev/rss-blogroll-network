@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Mathematical Practice, Proof Assistants and Meaning
-  last_post_description: 'Abstract: Twenty-first century mathematics has seen the
-    rise of the proof assistant, and mathematical practice has changed significantly
-    with the rise of these new tools. One consequence of this'
-  last_post_date: "2025-03-13T15:30:00-06:00"
-  last_post_link: https://consequently.org/presentation/2025/mathematical-practice-proof-assistants-and-meaning-calgary/
+  last_post_title: Modal Logic and Contingent Existence
+  last_post_description: 'Abstract: In this talk, I will defend contingentism, the
+    idea that some things exist contingently. It might be surprising that this needs
+    defence, but natural reasoning principles concerning'
+  last_post_date: "2025-04-10T15:00:00+02:00"
+  last_post_link: https://consequently.org/presentation/2025/mlce-illc/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c58dfab61e8835b7471bca5c5be40be9
+  last_post_guid: 499e749393640d1f0d28b934952274c9
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 689
+  postcount: 700
   avgpostlen: 0
 ---

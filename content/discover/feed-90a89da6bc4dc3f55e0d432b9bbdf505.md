@@ -19,42 +19,33 @@ params:
   - title: A list of sites Ethan likes
     description: ""
     id: 796603efcff00ba474bbbd88e566b727
-  - title: QuiteRSS
-    description: ""
-    id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://philwilson.org/blog/feed
-  - https://philwilson.org/blog/feed/atom/
   categories:
-  - "2020"
-  - blogging
-  - coronavirus
-  - covid-19
-  - lockdown
-  - pandemic
-  - sharing
-  - writing
+  - colours
+  - css
+  - development
+  - frontend
+  - functions
+  - oklch
   relme: {}
-  last_post_title: Five years
+  last_post_title: OKLCH()
   last_post_description: |-
-    My favourite bit of the archive on this site is the link that says “on this day”. It’s of no interest to anyone except me, but I love going through this little time tunnel.
+    I was at the State Of The Browser event recently, which was great as always.
 
-    Using that link
-  last_post_date: "2025-03-23T14:05:00Z"
-  last_post_link: https://adactio.com/journal/21811
+    Manu gave a great talk about colour in CSS. A lot of it focused on OKLCH. I was already convinced of the benefits of this
+  last_post_date: "2025-04-16T15:16:41Z"
+  last_post_link: https://adactio.com/journal/21853
   last_post_categories:
-  - "2020"
-  - blogging
-  - coronavirus
-  - covid-19
-  - lockdown
-  - pandemic
-  - sharing
-  - writing
+  - colours
+  - css
+  - development
+  - frontend
+  - functions
+  - oklch
   last_post_language: ""
-  last_post_guid: 540221b82ceee80bc9d8c10260d8e021
+  last_post_guid: 92399a3a1aa0870375c070d196ee5207
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: RÉSONAANCES
-date: "2025-02-08T03:28:11+01:00"
+date: "2025-04-13T23:11:52+01:00"
 description: Particle Physics Blog
 params:
   feedlink: https://www.blogger.com/feeds/2846514233477399562/posts/default

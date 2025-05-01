@@ -1,6 +1,6 @@
 ---
 title: Planet GNOME
-date: Mon, 24 Feb 2025 00:04:36 GMT
+date: Wed, 16 Apr 2025 02:03:32 GMT
 description: ""
 params:
   link: https://planet.gnome.org/opml.xml
@@ -27,11 +27,6 @@ params:
   - title: Benjamin Otte – GTK Development Blog
     description: All things GTK
     id: 094cf374119d75131150caf255caec7a
-  - title: SoNiC-HeRE
-    description: Aspiring software-developer and a self taught designer. Focusing
-      on web dev and blockchain. An open source enthusiast and a part time freelancer.
-      When not working you could find me listening to songs
-    id: 097860a45a30040f419b028ceaeb1edc
   - title: Opropst
     description: Notes from Oliver Propst
     id: 0eb9e00f7d4cd61b73bdd30679a1f214
@@ -68,6 +63,9 @@ params:
   - title: Blogs by Aryan
     description: Some casual blogs and some related to my GSoC journey
     id: 1b6c1d3231f251ccd4f112d16af59eab
+  - title: New and Familiar
+    description: Mat's blog on GNOME
+    id: 1bc1cc39e7b3be206276c59f473a6ce4
   - title: Bilal Elmoussaoui - My Blog
     description: Personal blog & portfolio
     id: 1c674b9ba788f61b0c3795224592b706
@@ -177,9 +175,6 @@ params:
   - title: 'DEV Community: Aman Kumar'
     description: The latest articles on DEV Community by Aman Kumar (@amankrx).
     id: 3f065b1aabb352dcd5a60a6520838ef5
-  - title: Who-T
-    description: ""
-    id: 4036fd41244d6a9e89f129a98a5150a1
   - title: Stories by Gotam Gorabh on Medium
     description: Stories by Gotam Gorabh on Medium
     id: 40936082fda3706942d27731a7979473
@@ -227,9 +222,6 @@ params:
   - title: Julian's Code Corner
     description: I write about GNOME and sometimes about other topics.
     id: 4ea56d46efdec602bbbad507b33fd10b
-  - title: My Blog
-    description: Recent content on My Blog
-    id: 52688483d0e15393c575c654af810bfc
   - title: Alexander Larsson
     description: Cool links and commentary
     id: 5270dd05629a315cdaf967f2f5915f5b
@@ -273,8 +265,8 @@ params:
   - title: Happenings in GNOME
     description: Details of Christian's work on GNOME
     id: 60013381c1c7c17cdacd88e5e6ff60e3
-  - title: planet-gnome on Ivan Molodetskikh’s Webpage
-    description: Recent content in planet-gnome on Ivan Molodetskikh’s Webpage
+  - title: Planet-Gnome on Ivan Molodetskikh’s Webpage
+    description: Recent content in Planet-Gnome on Ivan Molodetskikh’s Webpage
     id: 6011679642a5e3256ef75814a45450c9
   - title: sakananote with English
     description: ""
@@ -294,6 +286,9 @@ params:
   - title: GNOME – Just Jeremy
     description: just my thoughts
     id: 64919988dc76460bd5d5ec75e7d1b288
+  - title: Joaquim Rocha
+    description: Welcome to Joaquim Rocha's blog
+    id: 6a398bf5c3b14f3db76f2aecaf3febe3
   - title: Gedit Technology
     description: ""
     id: 6ae67319af78cb3eb757729bb7ece5fb
@@ -345,10 +340,6 @@ params:
   - title: Olav Vitters
     description: ""
     id: 79512773a47e65f37404074fe91ad825
-  - title: McEs, A Hacker Life
-    description: Behdad Esfahbod's daily notes on GNOME, Pango, Fedora, Persian Computing,
-      Bob Dylan, and Dan Bern!
-    id: 7ce343700304e3bee33831be743847e5
   - title: Nibble Stew
     description: A gathering of development thoughts of Jussi Pakkanen. Some of you
       may know him as the creator of the Meson build system. jpakkane at gmail dot
@@ -372,6 +363,9 @@ params:
   - title: Technical Credit | Gnome
     description: IT Blog
     id: 84939df00a6c5c8a46607a4028c2b243
+  - title: Revisto
+    description: Alireza Shabani's GNOME Blog
+    id: 84b2ce2049adc85774ab6eb83bafb040
   - title: Planet GNOME – mariospr.org
     description: Ramblings from the dark side of the moon
     id: 865393ff3ebf392ec6f02f1ad09ab28d
@@ -414,9 +408,6 @@ params:
   - title: Ignacy Kuchciński
     description: ""
     id: 8f824919723e975e2ea82f620badb998
-  - title: Adrien Plazas
-    description: ""
-    id: 90d9239f363edadfdcdb9434c506c6e1
   - title: __anish__
     description: ""
     id: 920d80a2b187deee24571eda15cfabc2
@@ -463,12 +454,6 @@ params:
   - title: Frederic Crozat blog
     description: ""
     id: 9b55c3e6111cd6b118f2db179bf04072
-  - title: Just another blog
-    description: Alice Mikhaylenko's GNOME blog
-    id: 9b7dad757c22842257a04e0d8b34f128
-  - title: Blabbers on The labyrinth
-    description: Recent content in Blabbers on The labyrinth
-    id: 9d802c36562041624eb0f010102447eb
   - title: Diário do Isaque
     description: 'Esta é uma página pessoal, criada para promover as coisas que eu
       gosto: programação C/C++, Java, Linux, Anime, Mangá, ...'
@@ -591,6 +576,9 @@ params:
   - title: Stories by Bharat Tyagi on Medium
     description: Stories by Bharat Tyagi on Medium
     id: ca7e9f477819ca02b53ec1f70354aa31
+  - title: Drawing Board
+    description: Brage Fuglseth's GNOME blog
+    id: cb6214377a44a24626bccfbd2db08c6a
   - title: Felipe Borges
     description: Felipe Borges' blog about GNOME
     id: cb6dd0c02a24012e7c873734442f37f1
@@ -621,9 +609,6 @@ params:
   - title: Felix Häcker
     description: Just another development blog
     id: d725420463ac9f39a6bd8ae83de5a79a
-  - title: Fedora Planet Archives – /home/jww/
-    description: Free & Open Source, technology, travel, and life reflections
-    id: d920d3172a91de51a93768ecbbe1a427
   - title: Even a Stopped Clock
     description: Random musings of a semi-sane designer from lesser Europe.
     id: d924d5bd111d595e1e3a1c3aa0fd8107
@@ -660,9 +645,6 @@ params:
   - title: Club Silencio
     description: pbor's little blue box
     id: e41ceb88183f5d930598939753cdcd2f
-  - title: José's blog
-    description: José's blog
-    id: e474225937fad4ef0bea125f0ca95a4c
   - title: 'Embracing Growth, Curiosity, and Inclusivity: My Outreachy Journey from
       Bamenda, Cameroon to GNOME'
     description: ""
@@ -683,6 +665,9 @@ params:
   - title: Liberal Murmurs
     description: Politics, tech and herding cats from Neil McGovern
     id: ea57ce4123d3d0edcb6cccb8d4b2d381
+  - title: Out of the Bag
+    description: GNOME design and development with PyGObject
+    id: ea761d21a36ee41d7a9294950256a284
   - title: fishsoup
     description: Owen Taylor on Coding, Food, etc.
     id: eb585230490bd2b49825cd57c9774585
@@ -705,6 +690,9 @@ params:
   - title: Testbit
     description: Timjâ€™s Bits and Banter
     id: f4f42eaebd32afb13275f80d78e054a0
+  - title: Thib's Blog
+    description: On digital citizenship
+    id: f57bf7961f09f414d79916bcee64ffe0
   - title: 'GSoC 2022: GNOME'
     description: This blog is about my experiences as a contributor for the GNOME
       Foundation in GSoC'22.

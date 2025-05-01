@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我如何使用 Apple Notes 做笔记
+  last_post_title: 现代浏览器插件开发指南
   last_post_description: ""
-  last_post_date: "2025-02-09T00:00:00Z"
-  last_post_link: https://lutaonan.com/blog/apple-notes-and-para
+  last_post_date: "2025-04-09T00:00:00Z"
+  last_post_link: https://lutaonan.com/blog/browser-extension-development-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d3aef616467b306383389eda53a4eac5
+  last_post_guid: a963a1ea8a7124d83ebebbefafb353d3
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 77
+  postcount: 61
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2025-02-23T14:10:51Z"
+date: "2025-04-27T09:55:45Z"
 description: 莫尔索的折腾空间-在技术和生活的边界试探
 params:
   feedlink: https://liduos.com/atom.xml
@@ -24,7 +24,7 @@ params:
     +H5paH56ug5oiR5oOz5LuO5Lya5ZGY6K6h5YiS5LuL57uN44CB6Z2i5ZCR5Lq6576k44CB
     5Lya5ZGY5p2D55uK44CB5Lya5ZGY5a6a5Lu35Zub5Liq5pa56Z2i5p2l5LuL57uN5LiL77
     yM5biM5pyb5aSn5a6255CG5oCn5raI6LS577yM5Yqh5b+F5YWI55yL5p0=
-  last_post_date: "2025-02-23T14:10:51Z"
+  last_post_date: "2025-04-27T09:55:45Z"
   last_post_link: https://liduos.com/the-memeber-newsletter-introduce.html
   last_post_categories:
   - 会员计划

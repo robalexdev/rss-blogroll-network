@@ -1,6 +1,6 @@
 ---
 title: gnufool
-date: "2025-02-03T00:32:20-08:00"
+date: "2025-04-26T16:48:56-07:00"
 description: Approximating success one failure at a time
 params:
   feedlink: https://gnufool.blogspot.com/feeds/posts/default/-/emacs

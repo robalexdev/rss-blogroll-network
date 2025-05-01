@@ -22,20 +22,18 @@ params:
   - bookworm
   - debian
   - jabber
+  - misc
   - xmpp
   relme: {}
   last_post_title: XMPP What's new in Debian 12 bookworm
-  last_post_description: |-
-    On Tue 13 July 2021 there was a
-    blog post
-    of new XMPP related software releases which have been uploaded to Debian 11 (bullseye).
-    Today, we will inform you about updates for the upcoming Debian
+  last_post_description: ""
   last_post_date: "2023-03-01T00:00:00Z"
   last_post_link: https://xmpp-team.pages.debian.net/blog/2023/03/xmpp-whats-new-in-bookworm.html
   last_post_categories:
   - bookworm
   - debian
   - jabber
+  - misc
   - xmpp
   last_post_language: ""
   last_post_guid: f2071aceff17ef9a249878c5f9908c73

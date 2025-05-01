@@ -16,26 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - feminism
-  - lifestyle
-  - movie
-  - nowhere man
-  - outdoors
-  - tears
+  - FYI
+  - SNS
+  - reading
+  - tools
+  - wordpress
   relme: {}
-  last_post_title: 《出走的决心》
-  last_post_description: 《出走的决心》，8/10
-  last_post_date: "2025-02-10T15:15:00Z"
-  last_post_link: https://blog.fivest.one/archives/6966
+  last_post_title: “网络读书会” 的一些思路和方案
+  last_post_description: 想弄一个长期的、朋友们一起读书的小组。大家对书中的文字，进行高亮或评论，并且围绕评论进一步讨论。
+  last_post_date: "2025-04-10T04:04:00Z"
+  last_post_link: https://blog.fivest.one/archives/6978
   last_post_categories:
-  - feminism
-  - lifestyle
-  - movie
-  - nowhere man
-  - outdoors
-  - tears
+  - FYI
+  - SNS
+  - reading
+  - tools
+  - wordpress
   last_post_language: ""
-  last_post_guid: 7297f6a05613e2a37a65ef3ea97cb995
+  last_post_guid: 119ccd8fe6a3712343546a259b99365f
   score_criteria:
     cats: 0
     description: 0

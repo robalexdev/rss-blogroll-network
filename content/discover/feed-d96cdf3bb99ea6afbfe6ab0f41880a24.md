@@ -18,17 +18,16 @@ params:
   categories: []
   relme:
     https://current.workingdirectory.net/tags/debian/: true
-  last_post_title: How do I warm up an IP Address?
+  last_post_title: AI's Actual Impact
   last_post_description: |-
-    After years on the waiting list, May First was just
-    given a /24 block of IP addresses. Excellent.
-    Now we want to start using them for, among other things, sending email.
-    I haven’t added a new IP
-  last_post_date: "2024-09-21T08:27:10-04:00"
-  last_post_link: https://current.workingdirectory.net/posts/2024/how-do-i-warm-up-an-ip/
+    Two years after OpenAI launched ChatGPT 3.5, humanity is not on the cusp of
+    extinction and Elon Musk seems more responsible for job loss than any AI agent.
+    However, ask any web administrator and you
+  last_post_date: "2025-03-21T08:27:10-04:00"
+  last_post_link: https://current.workingdirectory.net/posts/2025/ai-changes/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3cac707b6b1baccfcd17a4f169ffad6c
+  last_post_guid: 95e4594d0fd86f4be3a3ee66ffe5f4a7
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 85
+  postcount: 86
   avgpostlen: 0
 ---

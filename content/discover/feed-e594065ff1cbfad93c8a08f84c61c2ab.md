@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码，趁乱写年华。
-date: "2025-02-13T06:41:41Z"
+date: "2025-04-01T05:49:00Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -16,39 +16,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 思想汇报
+  - 生活经验
+  - 美食
   - 说过的话
   relme: {}
-  last_post_title: 第三十三年春分
+  last_post_title: "砂锅糊饽\U0001F958"
   last_post_description: !!binary |
-    6YO96L+H5a6M5bm05LqG5omN5oOz6LW35p2l5oiR55qE5bm057uI5oC757uT6L+Y5rKh5p
-    yJ5YaZ77yM5b6A5LiK57+75LiA57+75Y+R546w5Y675bm05Lmf5piv5Yiw5LqG5p2l5bm0
-    5omN5YaZ5LqG5LiK5LiA5bm055qE77yM5LiN6L+H5Y675bm05piv6L+Y5rKh6L+H5Yac5Y
-    6G5paw5bm077yM5LuK5bm06L+e5pil6IqC5Lmf6L+H5LqG77yM55u05o4=
-  last_post_date: "2025-02-13T06:41:41Z"
-  last_post_link: https://102no.com/2025/02/11/33th-chunfen/
+    5LuO5bCP5pe25YCZ6LW35Yiw5Zyo5b6I6ZW/55qE5LiA5q615pe26Ze06YeM77yM44CM57
+    OK6aW944CN6L+Z5L+p5a2X5YS/5oiR5piv55yf55qE5LiN55+l6YGT5oCO5LmI5YaZ55qE
+    77yM6Jm954S25LuO5bCP5Yiw5aSn5LiA55u06L+Z5LmI5Y+r5a6D77yM5q+V56uf6L+Z5L
+    iq5Lic6KW/5pu05bm/5rOb55qE5Y+r5rOV5Y+v6IO96KKr56ew5L2c44A=
+  last_post_date: "2025-04-01T05:49:00Z"
+  last_post_link: https://102no.com/2025/04/01/sha-guo-hu-bo/
   last_post_categories:
-  - 思想汇报
+  - 生活经验
+  - 美食
   - 说过的话
   last_post_language: ""
-  last_post_guid: a596cfce5ffd4e212a488db1d18d3cfa
+  last_post_guid: c18e3c2a9b52156257814a612c46b03e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 262
+  avgpostlen: 268
 ---

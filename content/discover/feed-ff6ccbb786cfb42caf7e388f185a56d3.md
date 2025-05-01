@@ -11,9 +11,6 @@ params:
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Blogroll Network Seeds
-    description: ""
-    id: c33ed4f6ab2b4055fadbfad39d41c36e
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.7.54.
@@ -45,7 +42,7 @@ params:
   - https://www.nasa.gov/image-of-the-day/feed/
   - https://www.nytimes.com/wirecutter/feed
   - https://www.theverge.com/apple/rss/index.xml
-  - https://aaron.blog/comments/feed/
+  - https://aaron.blog/rss/
   - https://danielbachhuber.com/comments/feed/
   - https://github.blog/comments/feed/
   - https://jjj.blog/comments/feed/
@@ -60,40 +57,40 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://alexsci.com/blog/rss.xml
   categories:
-  - TIL
-  - ios
-  - swift
+  - Links
+  - Mozilla
+  - google
   relme:
     https://josh.blog/: true
-  last_post_title: Provisional Authorization of User Notifications
-  last_post_description: Requesting provisional authorization to send local user notifications
-    comes with some caveats but avoids interrupting the user with another permissions
-    prompt. https://useyourloaf
-  last_post_date: "2025-02-17T14:46:05Z"
-  last_post_link: https://josh.blog/2025/02/provisional-authorization-of-user-notifications
+  last_post_title: Mozilla’s CEO weighs in on U.S. v. Google
+  last_post_description: 'Mozilla CEO, Laura Chambers: Some of the remedies proposed
+    in the case risk the future of our Firefox browser and Gecko browser engine—the
+    last remaining non-Big Tech browser engine. In the coming'
+  last_post_date: "2025-04-21T22:55:39Z"
+  last_post_link: https://josh.blog/2025/04/mozillas-ceo-weighs-in-on-u-s-v-google
   last_post_categories:
-  - TIL
-  - ios
-  - swift
+  - Links
+  - Mozilla
+  - google
   last_post_language: ""
-  last_post_guid: 2780ce87d3ead30d9bd83ccb4ea301a5
+  last_post_guid: 20e1a786b8849d467b5cbc6aee8857e4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 3
+    hasPosts: 2
     postcats: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 32
+  score: 31
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 3
+  postcount: 2
   avgpostlen: 0
 ---

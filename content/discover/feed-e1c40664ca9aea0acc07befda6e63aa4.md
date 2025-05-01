@@ -19,20 +19,19 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - VisionPro
+  - '-'
   relme:
     https://mastodon.cloud/@Paolo: true
     https://val.demar.in/: true
-  last_post_title: Vision Pro, the first few days
-  last_post_description: I picked up my Vision Pro last Friday, as soon as it became
-    available in the UK. These have been busy days, so I haven’t had much time to
-    play with the new toy, but I want to share my first
-  last_post_date: "2024-07-17T07:44:34Z"
-  last_post_link: https://val.demar.in/2024/07/vision-pro-first-few-days/
+  last_post_title: "23"
+  last_post_description: Not that it matters much, but it’s yet another anniversary
+    of my first post.
+  last_post_date: "2025-03-26T10:45:27Z"
+  last_post_link: https://val.demar.in/2025/03/23-2/
   last_post_categories:
-  - VisionPro
+  - '-'
   last_post_language: ""
-  last_post_guid: 84e033caaa0e682e7cd32cb7ac32ecc3
+  last_post_guid: f0d6293f2e7bf3e28dfd1d21123566f7
   score_criteria:
     cats: 0
     description: 3

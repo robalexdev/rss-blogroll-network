@@ -22,15 +22,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Mapping Black Dispossession in San Francisco with Ralowe T. Ampu
-    and Eric A. Stanley
-  last_post_description: Insights from abolitionist organizing on the implications
-    of computation in municipal projects of mass displacement in San Francisco
-  last_post_date: "2025-02-18T18:39:46Z"
-  last_post_link: https://logicmag.io/out-of-place/mapping-black-dispossession-in-san-francisco-with-ralowe-t-ampu-and-eric-a
+  last_post_title: substance
+  last_post_description: Two poems
+  last_post_date: "2025-02-27T15:14:15Z"
+  last_post_link: https://logicmag.io/out-of-place/substance
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69c1829af329c232d9049a0ae67cfeed
+  last_post_guid: 56d240367d77582986e266587c252479
   score_criteria:
     cats: 0
     description: 3

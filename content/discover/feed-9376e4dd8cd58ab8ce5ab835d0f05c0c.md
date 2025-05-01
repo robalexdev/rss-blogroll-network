@@ -22,34 +22,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - crypto
-  - openssh
-  - post-quantum
-  - pq
-  - quantum
-  - security
-  - sphincs+
-  - ssh
-  - supercop
+  - cicd
+  - general
+  - gitdevops
+  - gitlab
+  - linux
+  - p550
+  - pipeline
+  - riscv64
+  - trisquel
+  - ubuntu
   relme: {}
-  last_post_title: OpenSSH and Git on a Post-Quantum SPHINCS+
-  last_post_description: Are you aware that Git commits and tags may be signed using
-    OpenSSH? Git signatures may be used to improve integrity and authentication of
-    our software supply-chain. Popular signature algorithms
-  last_post_date: "2024-12-23T00:44:02Z"
-  last_post_link: https://blog.josefsson.org/2024/12/23/openssh-and-git-on-a-post-quantum-sphincs/
+  last_post_title: GitLab Runner with Rootless Privilege-less Podman on riscv64
+  last_post_description: I host my own GitLab CI/CD runners, and find that having
+    coverage on the riscv64 CPU architecture is useful for testing things. The HiFive
+    Premier P550 seems to be a common hardware choice. The P550
+  last_post_date: "2025-04-25T18:30:24Z"
+  last_post_link: https://blog.josefsson.org/2025/04/25/gitlab-runner-with-rootless-privilege-less-podman-on-riscv64/
   last_post_categories:
-  - crypto
-  - openssh
-  - post-quantum
-  - pq
-  - quantum
-  - security
-  - sphincs+
-  - ssh
-  - supercop
+  - cicd
+  - general
+  - gitdevops
+  - gitlab
+  - linux
+  - p550
+  - pipeline
+  - riscv64
+  - trisquel
+  - ubuntu
   last_post_language: ""
-  last_post_guid: 7f686c5990385e4c61ef35cc754036d5
+  last_post_guid: 3581965272d87420977167c7b48a3a62
   score_criteria:
     cats: 0
     description: 0
@@ -67,6 +69,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 129
+  postcount: 133
   avgpostlen: 0
 ---

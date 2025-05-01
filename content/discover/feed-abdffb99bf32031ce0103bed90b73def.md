@@ -17,7 +17,6 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Expanding An Ambient Music Server
@@ -46,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 106
+  postcount: 109
   avgpostlen: 0
 ---

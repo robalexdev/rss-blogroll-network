@@ -19,28 +19,32 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - DOJ
-  - Dan Bongino
-  - Donald Trump
-  - FBI
-  - Kash Patel
+  - Congress
+  - DOGE
   - News
+  - Richard Nixon
+  - Senate
+  - Trump
+  - impoundment
+  - rescission package
   relme: {}
-  last_post_title: MAGA Podcaster Named Deputy FBI Director, As  Patel’s FBI Quickly
-    Becomes Extension Of The WH
-  last_post_description: Days after Trump loyalist Kash Patel was narrowly confirmed
-    as FBI Director by the Senate, President Donald Trump announced on...
-  last_post_date: "2025-02-24T17:44:56Z"
-  last_post_link: https://talkingpointsmemo.com/news/maga-podcaster-named-deputy-fbi-director-as-patels-fbi-quickly-becomes-extension-of-the-wh
+  last_post_title: Trump Allies Prep Plan To Make DOGE Seem Like A Good, Normal, Law-Abiding
+    Operation
+  last_post_description: The White House is planning to send a rescission package
+    to Capitol Hill in the coming days, part of an...
+  last_post_date: "2025-04-28T17:54:08Z"
+  last_post_link: https://talkingpointsmemo.com/news/trump-allies-prep-plan-to-make-doge-seem-like-a-good-normal-law-abiding-operation
   last_post_categories:
-  - DOJ
-  - Dan Bongino
-  - Donald Trump
-  - FBI
-  - Kash Patel
+  - Congress
+  - DOGE
   - News
+  - Richard Nixon
+  - Senate
+  - Trump
+  - impoundment
+  - rescission package
   last_post_language: ""
-  last_post_guid: 9d02c1cd0ebcd5b39f5e5a4423bc63ca
+  last_post_guid: 5a360e750e62a89f5b8948ce2de94e6d
   score_criteria:
     cats: 0
     description: 3

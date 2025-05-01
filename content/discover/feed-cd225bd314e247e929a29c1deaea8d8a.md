@@ -18,16 +18,16 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: Schatz die Welt
-  last_post_description: 'Jaview Jimenz Shaw shared this board game. The translation
-    of the box is: APPRECIATE THE WORLD Who will be the betting world champion? Most
-    residents? Longest road network? Largest forest area?'
-  last_post_date: "2025-02-23T10:00:00Z"
-  last_post_link: https://mappery.org/schatz-die-welt/
+  last_post_title: Spectacular Highland Hall
+  last_post_description: Jeff Allen shared htis. No idea what or where the building
+    is but this is spectacular. A little bit of image search and I discovered that
+    this is Highland Hall on the University of Toronto
+  last_post_date: "2025-04-15T09:00:00Z"
+  last_post_link: https://mappery.org/spectacular-highland-hall/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 1641bfd5da7387adf0a35438eb9dd732
+  last_post_guid: 87a272f27c529c90f9788751b728bca3
   score_criteria:
     cats: 0
     description: 3

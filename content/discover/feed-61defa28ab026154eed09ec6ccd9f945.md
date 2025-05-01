@@ -16,17 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 智能硬件 & IOT
+  - Linux & homelab
   relme: {}
-  last_post_title: OpenWrt One 路由器（MT7981，主线op）超频bl2编译教程
-  last_post_description: 近日OpenWrt官方出了台MT7981的路由器，就是价格非常感人，不过看在它带RTC、POE、GPIO、no…
-    继续阅读OpenWrt One
-  last_post_date: "2024-12-12T17:31:47Z"
-  last_post_link: https://wusiyu.me/openwrt-one-mt7981-bl2-overclocking-compile-guide/
+  last_post_title: 群晖ddrescue与暂时禁用USB外接硬盘自动挂载
+  last_post_description: 来自每天一个没用的小知识 对一个挂掉SATA固态做数据恢复，症状大概是可以读，但一旦进行写入就会掉盘。在对数据…
+  last_post_date: "2025-03-04T03:23:37Z"
+  last_post_link: https://wusiyu.me/synology-ddrescue-and-disable-usb-external-disk-auto-mount/
   last_post_categories:
-  - 智能硬件 & IOT
+  - Linux & homelab
   last_post_language: ""
-  last_post_guid: f7a5e374992abfe3eb8fddeaa5ac6fa3
+  last_post_guid: 35cc58c898810639573011d3c8c55e74
   score_criteria:
     cats: 0
     description: 3

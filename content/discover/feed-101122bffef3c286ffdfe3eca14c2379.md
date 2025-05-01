@@ -16,7 +16,7 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我关注的项目这周更新了什么-20250224
+  last_post_title: 我关注的项目这周更新了什么-20250422
   last_post_description: |-
     简介
     每周五更新，所有的更新也会发送到我的频道
@@ -24,11 +24,11 @@ params:
     规则
 
     pre
-  last_post_date: "2025-02-24T09:48:00Z"
-  last_post_link: https://www.bboy.app/2025/02/24/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250224/
+  last_post_date: "2025-04-22T14:25:00Z"
+  last_post_link: https://www.bboy.app/2025/04/22/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250422/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0f3fbe70c09374babaacbc136c255a97
+  last_post_guid: 0ae0634f88119bd8b4958d014785e882
   score_criteria:
     cats: 0
     description: 3

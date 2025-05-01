@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: a23907c1a9d99d58bfec3ca2d8bb2d29
   websites:
-    https://adam.rosi-kessel.org/weblog: true
     https://adam.rosi-kessel.org/weblog/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

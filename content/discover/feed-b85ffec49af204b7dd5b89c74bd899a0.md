@@ -1,6 +1,6 @@
 ---
 title: Louis-Philippe Véronneau
-date: "2025-01-14T00:00:00-05:00"
+date: "2025-04-22T00:00:00-04:00"
 description: ""
 params:
   feedlink: https://veronneau.org/feeds/languages/en.atom.xml
@@ -16,21 +16,24 @@ params:
   recommender: []
   categories:
   - blog
-  - open_data
-  - stm
+  - debian
+  - montreal
   relme: {}
-  last_post_title: Montreal Subway Foot Traffic Data, 2024 edition
-  last_post_description: "Another year of data from Société de Transport de Montréal,
-    Montreal's\ntransit agency!\nA few highlights this year:\n\n\nThe closure of the
-    Saint-Michel station had a drastic impact on D'Iberville,\n  "
-  last_post_date: "2025-01-14T00:00:00-05:00"
-  last_post_link: https://veronneau.org/montreal-subway-foot-traffic-data-2024-edition.html
+  last_post_title: One last Bookworm for the road — report from the Montreal 2025
+    BSP
+  last_post_description: |-
+    Hello, hello, hello!
+    This report for the Bug Squashing Party we held in Montreal on March
+    28-29th is very late ... but better late than never? We're now at our fifth BSP
+    in a row1, which is both nice
+  last_post_date: "2025-04-22T00:00:00-04:00"
+  last_post_link: https://veronneau.org/one-last-bookworm-for-the-road-report-from-the-montreal-2025-bsp.html
   last_post_categories:
   - blog
-  - open_data
-  - stm
+  - debian
+  - montreal
   last_post_language: ""
-  last_post_guid: 137847badf34e9fef035f15e3b5b2302
+  last_post_guid: 03409a41cb6006b3af3ac5dc3392c04e
   score_criteria:
     cats: 0
     description: 0
@@ -49,5 +52,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 295
+  avgpostlen: 296
 ---

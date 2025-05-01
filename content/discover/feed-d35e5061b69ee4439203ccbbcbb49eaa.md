@@ -7,9 +7,8 @@ params:
   feedtype: rss
   feedid: d35e5061b69ee4439203ccbbcbb49eaa
   websites:
-    https://detect.fyi/?gi=04a35d04ecd9&source=rss----d5fd8f494f6a---4%2F: false
-    https://detect.fyi/?gi=f77933182323&source=rss----d5fd8f494f6a---4: false
-    https://detect.fyi/?source=rss----d5fd8f494f6a---4: true
+    https://detect.fyi/?gi=0d0ad47394ae&source=rss----d5fd8f494f6a---4: false
+    https://detect.fyi/?gi=fe3ddda714b7&source=rss----d5fd8f494f6a---4%2F: false
     https://detect.fyi/?source=rss----d5fd8f494f6a---4/: false
   blogrolls: []
   in_blogrolls:
@@ -19,30 +18,34 @@ params:
   recommended: []
   recommender: []
   categories:
+  - data-analysis
+  - detection-engineering
   - kql
-  - threat-hunting
+  - sentinel
   relme: {}
-  last_post_title: Threat Hunting via Autonomous System Numbers (ASN)
+  last_post_title: 'Advanced KQL Deep Dive: User State Change Tracking'
   last_post_description: ""
-  last_post_date: "2025-02-24T08:29:00Z"
-  last_post_link: https://detect.fyi/threat-hunting-via-autonomous-system-numbers-asn-99e038df235a?source=rss----d5fd8f494f6a---4
+  last_post_date: "2025-04-16T15:27:17Z"
+  last_post_link: https://detect.fyi/advanced-kql-deep-dive-user-state-change-tracking-f9049cc08c5a?source=rss----d5fd8f494f6a---4
   last_post_categories:
+  - data-analysis
+  - detection-engineering
   - kql
-  - threat-hunting
+  - sentinel
   last_post_language: ""
-  last_post_guid: bceb7d620d91783882d91355f0a5392e
+  last_post_guid: 9296e32f06b52fe6c00ac156c0eae57a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
+    website: 1
   score: 18
   ispodcast: false
   isnoarchive: false

@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-02-17T01:13:34Z"
+date: "2025-03-31T00:02:44Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,37 +15,41 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Experimental highlights
   - News
-  - Reflections
+  - Real science
+  - Theoretical highlights
   relme: {}
-  last_post_title: Lessons in frustration
-  last_post_description: Assa Auerbach’s course was the most maddening course I’ve
-    ever taken.  I was a master’s student in the Perimeter Scholars International
-    program at the Perimeter Institute for Theoretical
-  last_post_date: "2025-02-17T01:13:34Z"
-  last_post_link: https://quantumfrontiers.com/2025/02/16/lessons-in-frustration/
+  last_post_title: How writing a popular-science book led to a Nature Physics paper
+  last_post_description: Several people have asked me whether writing a popular-science
+    book has fed back into my research. Nature Physics published my favorite illustration
+    of the answer this January. Here’s the story
+  last_post_date: "2025-03-31T00:02:44Z"
+  last_post_link: https://quantumfrontiers.com/2025/03/30/how-writing-a-popular-science-book-led-to-a-nature-physics-paper/
   last_post_categories:
+  - Experimental highlights
   - News
-  - Reflections
+  - Real science
+  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: 3f2fb85a36792369d71006070571b407
+  last_post_guid: 62edced3f21b2cdddc167831f344bd20
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 295
 ---

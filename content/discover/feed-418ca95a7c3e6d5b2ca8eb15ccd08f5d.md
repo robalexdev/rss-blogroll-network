@@ -1,6 +1,6 @@
 ---
 title: Shuibaco • 水八口
-date: "2024-12-31T14:59:00Z"
+date: "2025-04-14T06:52:00Z"
 description: ""
 params:
   feedlink: https://shuiba.co/feed
@@ -16,17 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2024年度总结
-  last_post_description: !!binary |
-    5LuK5aSp5pivMjAyNOW5tDEy5pyIMjfml6XvvIzmiJHkuYXov53lnLDlnKjlubTlhoXlhp
-    nlubTluqbmgLvnu5PkuobvvIznu5noh6rlt7HngrnotZ7wn5GN8J+PvO+8geato+WlveS7
-    iuWkqeaYr+W5tOWGheacgOWQjuS4gOWkqeS4iuePreaXpe+8jOelnuaIt+Wwj+WIhumYn+
-    eahOato+ekvuWRmOS7rOmDveWOu+acrOekvuaKpeWIsOS6hu+8jOiAjOY=
-  last_post_date: "2024-12-31T14:59:00Z"
-  last_post_link: https://shuiba.co/year-report-2024
+  last_post_title: 中年空虚
+  last_post_description: "首先跟老天爷声明一下，我很满意现状，不需要天降大任哈，拜托了！此篇文章仅记录近期想法，不是牢骚，纯纯困惑。\n\n\n\n\n
+    \  "
+  last_post_date: "2025-04-14T06:52:00Z"
+  last_post_link: https://shuiba.co/i-dont-know-what-happened
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26b8cdf570bc264848965decebf11c71
+  last_post_guid: 4c91cdebe927d4da2eb5b624a7f2fcca
   score_criteria:
     cats: 0
     description: 0

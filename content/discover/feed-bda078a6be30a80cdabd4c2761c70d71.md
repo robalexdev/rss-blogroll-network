@@ -13,18 +13,9 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
-  - title: Joe Ross - Blogroll
-    description: ""
-    id: 75715a591f59a83d8859794fd63ae54a
-  - title: Joe Ross - Blogroll
-    description: ""
-    id: fde3eb7349836cff1e3161245d8f3c7a
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  - https://joeross.me/feed.xml
-  - https://joeross.me/podcast.xml
-  - https://joeross.micro.blog/feed.xml
   categories: []
   relme: {}
   last_post_title: ATConf
@@ -53,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 21
+  postcount: 23
   avgpostlen: 0
 ---

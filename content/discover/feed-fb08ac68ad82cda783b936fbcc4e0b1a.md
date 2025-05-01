@@ -19,24 +19,36 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Crosswords
-  - counter
-  - defector crosswords
-  - matt forest
+  - 2025 nba playoffs
+  - NBA
+  - anthony edwards
+  - basketball
+  - highlight reel
+  - jj redick
+  - lebron james
+  - los angeles lakers
+  - luka doncic
+  - minnesota timberwolves
   relme: {}
-  last_post_title: 'The Crossword, Feb. 24: Counter'
-  last_post_description: How about a crossword puzzle for a change of pace? This week's
-    puzzle was constructed by Matt Forest, and edited by Hoang-Kim Vu. Matt is a Boise
-    State alum and lifelong Broncos fan, who also makes
-  last_post_date: "2025-02-24T16:00:00Z"
-  last_post_link: https://defector.com/the-crossword-feb-24-counter
+  last_post_title: JJ Redick Pushed The Panic Button And Lost Anyway
+  last_post_description: LeBron James failed to score a point in the fourth quarter
+    of Game 4 of the Western Conference first-round series between his Lakers and
+    the Minnesota Timberwolves. The Wolves erased a 12-point third
+  last_post_date: "2025-04-28T19:17:43Z"
+  last_post_link: https://defector.com/jj-redick-pushed-the-panic-button-and-lost-anyway
   last_post_categories:
-  - Crosswords
-  - counter
-  - defector crosswords
-  - matt forest
+  - 2025 nba playoffs
+  - NBA
+  - anthony edwards
+  - basketball
+  - highlight reel
+  - jj redick
+  - lebron james
+  - los angeles lakers
+  - luka doncic
+  - minnesota timberwolves
   last_post_language: ""
-  last_post_guid: 585f712b0d58a2980a884e549550d05c
+  last_post_guid: 7d0939a207dc831152e8e6ef9d7789f6
   score_criteria:
     cats: 0
     description: 3

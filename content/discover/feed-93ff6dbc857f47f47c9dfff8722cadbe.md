@@ -1,6 +1,6 @@
 ---
 title: CrunchyData Blog
-date: "2025-02-07T10:30:00-05:00"
+date: "2025-03-14T10:00:00-04:00"
 description: PostgreSQL experts from Crunchy Data share advice, performance tips,
   and guides on successfully running PostgreSQL and Kubernetes solutions
 params:
@@ -18,16 +18,15 @@ params:
   categories:
   - Spatial
   relme: {}
-  last_post_title: Using Cloud Rasters with PostGIS
-  last_post_description: Paul shows you how to access raster data stored in the cloud
-    or object storage for PostGIS using cloud optimized GeoTIFF (aka COG) files. He
-    also includes some functions for working with raster
-  last_post_date: "2025-02-07T10:30:00-05:00"
-  last_post_link: https://www.crunchydata.com/blog/using-cloud-rasters-with-postgis
+  last_post_title: Pi Day PostGIS Circles
+  last_post_description: For a proper Pi Day celebration in Postgres, Paul shows off
+    a proof for CIRCULARSTRING.
+  last_post_date: "2025-03-14T10:00:00-04:00"
+  last_post_link: https://www.crunchydata.com/blog/postgis-pi-circlelinestring
   last_post_categories:
   - Spatial
   last_post_language: ""
-  last_post_guid: 609db546bf2376d1af4db4be963337c2
+  last_post_guid: 8f84b46ad02e57cf8efc97f98511267e
   score_criteria:
     cats: 0
     description: 3

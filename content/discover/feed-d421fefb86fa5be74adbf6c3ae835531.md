@@ -1,6 +1,6 @@
 ---
 title: gretzuni - Free software
-date: "2025-01-23T01:55:47Z"
+date: "2025-02-27T18:25:31Z"
 description: ""
 params:
   feedlink: https://gretzuni.com/rss/?category=free-software

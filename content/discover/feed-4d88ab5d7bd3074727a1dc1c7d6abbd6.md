@@ -44,8 +44,6 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
-  - https://baty.net/feed
-  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
@@ -81,9 +79,6 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
-  - https://blog.citp.princeton.edu/comments/feed/
-  - https://blog.citp.princeton.edu/feed/
-  - https://freedom-to-tinker.com/comments/feed/
   - https://intellectualoid.com/comments/feed/
   - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
@@ -104,15 +99,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: The Republic Has Failed; Why Does It Matter?
-  last_post_description: Much of what I am seeing written about the state of the United
-    States seems to be in the context of “Democracy is failing” or a “Constitutional
-    Crisis” is imminent or present. The correct
-  last_post_date: "2025-02-20T12:11:45-05:00"
-  last_post_link: https://frankmcpherson.blog/2025/02/20/the-republic-has-failed-why.html
+  last_post_title: The 8th Inning Game
+  last_post_description: It was my birthday yesterday (I’ve entered my late 50s) and
+    the Cubs were playing in Wrigley. Some day I will be in Wrigley on my birthday
+    to watch the Cubs, but yesterday I was at home. The Cubs
+  last_post_date: "2025-04-19T12:14:17-04:00"
+  last_post_link: https://frankmcpherson.blog/2025/04/19/the-th-inning-game.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 09f615f93a84d53c3c84841ca7cf8f20
+  last_post_guid: 15b7ecb37ac46323096ee33e036a7b8e
   score_criteria:
     cats: 0
     description: 0
@@ -130,6 +125,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 4
   avgpostlen: 0
 ---

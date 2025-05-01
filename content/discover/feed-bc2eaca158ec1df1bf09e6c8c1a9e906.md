@@ -22,31 +22,34 @@ params:
   recommender: []
   categories:
   - CSS
+  - Design
+  - Web
   relme:
     https://meyerweb.com/eric/thoughts: true
-  last_post_title: CSS Wish List 2025
-  last_post_description: Back in 2023, I belatedly jumped on the bandwagon of people
-    posting their CSS wish lists for the coming year.  This year I’m doing all that
-    again, less belatedly! (I didn’t do it last year
-  last_post_date: "2025-01-08T12:45:06Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2025/01/08/css-wish-list-2025/
+  last_post_title: CSS Naked Day 2025
+  last_post_description: meyerweb.com goes au naturel, mostly, in observance of the
+    annual CSS Naked Day.
+  last_post_date: "2025-04-09T17:22:46Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2025/04/09/css-naked-day-2025/
   last_post_categories:
   - CSS
+  - Design
+  - Web
   last_post_language: ""
-  last_post_guid: 46ca4191a5bc7835c502ad1101407584
+  last_post_guid: 28c68c0c34408a5418c1141d7638ddb0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2025-02-24T10:46:45-05:00"
+date: "2025-04-15T18:39:38-04:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -18,18 +18,17 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: You can’t fix a problem you don’t understand
-  last_post_description: A few weeks ago, I was building a server-side API client.
-    I had written the code and tested it in isolation. Everything looked good. Unfortunately,
-    when I included it in the main service, I started
-  last_post_date: "2025-02-17T00:00:00-05:00"
-  last_post_link: https://www.bryanbraun.com/2025/02/17/you-cant-fix-a-problem-you-dont-understand/
+  last_post_title: 'Links #12'
+  last_post_description: Oscar, an open-source contributor agent architecture - Oscar
+    is a project from the Go community that aims to develop AI agents that assist
+    open source maintainers. I think this is a great idea. Open
+  last_post_date: "2025-04-15T00:00:00-04:00"
+  last_post_link: https://www.bryanbraun.com/2025/04/15/links-12/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5769c361b8804fa14c81e94a422474d1
+  last_post_guid: 454524dd1b4b2dde6a16be540bca7c52
   score_criteria:
     cats: 0
     description: 3

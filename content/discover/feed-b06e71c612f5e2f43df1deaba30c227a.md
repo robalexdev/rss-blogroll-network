@@ -1,6 +1,6 @@
 ---
 title: itm4n's blog
-date: "2024-12-24T13:53:42+01:00"
+date: "2025-03-04T21:25:22+01:00"
 description: A blog about pentesting with a focus on Windows security research.
 params:
   feedlink: https://itm4n.github.io/feed.xml
@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Privilege Escalation
+  - Defense Evasion
   relme: {}
-  last_post_title: The PrintNightmare is not Over Yet
-  last_post_description: Following the publication of my blog post A Practical Guide
-    to PrintNightmare in 2024, a few people brought to my attention that there was
-    a way to bypass the Point and Print (PnP) restrictions
-  last_post_date: "2024-10-05T11:58:29+02:00"
-  last_post_link: https://itm4n.github.io/printnightmare-not-over/
+  last_post_title: Reinventing PowerShell in C/C++
+  last_post_description: I like PowerShell, I like it a lot! I like its versatility,
+    its ease of use, its integration with the Windows operating system, but it also
+    has a few features, such as AMSI, CLM, and other logging
+  last_post_date: "2025-02-18T00:00:00+01:00"
+  last_post_link: https://itm4n.github.io/reinventing-powershell/
   last_post_categories:
-  - Privilege Escalation
+  - Defense Evasion
   last_post_language: ""
-  last_post_guid: 38c0df8eaa183b79ebe7da3455849010
+  last_post_guid: 1e2fbc439bf7dbdc267754f3d704e258
   score_criteria:
     cats: 0
     description: 3

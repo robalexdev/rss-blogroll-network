@@ -18,16 +18,14 @@ params:
   categories:
   - stderr
   relme: {}
-  last_post_title: 面向老外最容易理解的“春节”定义，以及其它
-  last_post_description: |-
-    用英语把 春节 讲明白
-    最近小红书 #tiktokrefugee 以及所谓的“中美对账”很火，然后又吵到 Chinese new year, 和 lunar new year
-  last_post_date: "2025-02-12T16:06:00+08:00"
-  last_post_link: https://blog.est.im/2025/stdout-01
+  last_post_title: 语言，逆差
+  last_post_description: "又睡不着，琢磨一段话：\n\n多戲超人 @DoubleFakeCute： 文字很容易传播仇恨，但很难传递感动。\n@yetone： "
+  last_post_date: "2025-04-15T05:54:00+08:00"
+  last_post_link: https://blog.est.im/2025/stderr-03
   last_post_categories:
   - stderr
   last_post_language: ""
-  last_post_guid: 39a94539b7add82ebc1070136329741b
+  last_post_guid: df8e710de84fef9f9d7e8ff7c070a5a0
   score_criteria:
     cats: 0
     description: 3

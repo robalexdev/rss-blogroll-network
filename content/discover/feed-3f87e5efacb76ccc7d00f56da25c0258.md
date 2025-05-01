@@ -6,13 +6,12 @@ params:
   feedlink: https://anhvn.com/feed.xml
   feedtype: atom
   feedid: 3f87e5efacb76ccc7d00f56da25c0258
-  websites:
-    https://anhvn.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: ""
+  - title: Chris Martin - Blogroll
     description: ""
-    id: 7c57874819a3b666310d14cda337b41d
+    id: 884d6b3cfb99a990a76a7606e0cb3e08
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
@@ -24,23 +23,12 @@ params:
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
+  - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
   - https://ttntm.me/blog/feed.xml
   - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
   last_post_title: Weeknotes 30
@@ -61,12 +49,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 80
+  postcount: 84
   avgpostlen: 286
 ---
