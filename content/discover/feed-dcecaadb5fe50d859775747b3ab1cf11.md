@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Combobulate: Bulk Editing Tree-Sitter Nodes with Multiple Cursors'
-  last_post_description: Combobulate's long had the ability to bulk edit matches using
-    the multiple cursors package, but building seamless and useful bulk editing tooling
-    is not as straightforward as it seems. And what if
-  last_post_date: "2024-09-19T08:54:31Z"
-  last_post_link: https://www.masteringemacs.org/article/combobulate-bulk-editing-treesitter-nodes-multiple-cursors?utm_source=newsletter&utm_medium=rss
+  last_post_title: Replacing tmux and GNU screen with Emacs
+  last_post_description: If you live and breathe the terminal, then you are no doubt
+    using a terminal multiplexer like GNU screen or tmux. But why not replace it with
+    100% all-natural Emacs? It can do everything your
+  last_post_date: "2025-03-06T10:26:50Z"
+  last_post_link: https://www.masteringemacs.org/article/replacing-tmux-gnu-screen-emacs?utm_source=newsletter&utm_medium=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f94efee8ef33896d19bc2693a9866f3e
+  last_post_guid: 5b02067da551eae31058f668127b7dd3
   score_criteria:
     cats: 0
     description: 3

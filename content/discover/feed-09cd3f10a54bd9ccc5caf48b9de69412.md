@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
+    https://kevq.uk/: false
     https://kevquirk.com/: true
     https://kevquirk.com/watch-log: false
   blogrolls:
@@ -42,6 +43,7 @@ params:
   - https://www.eddiedale.com/blog-feed
   - https://www.lkhrs.com/blog/index.xml
   - https://baty.net/index.xml
+  - https://buttondown.email/rss.xml
   - https://chriscoyier.net/feed/
   - https://email-is-good.com/comments/feed/
   - https://email-is-good.com/feed/
@@ -57,6 +59,7 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/index.xml
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
@@ -64,6 +67,7 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
@@ -73,15 +77,16 @@ params:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: My Thoughts on the Fosstodon Drama
-  last_post_description: |-
-    Lots of people have been asking myself and Mike for a statement on the recent drama surrounding Fosstodon. This is **MY** statement.
-    I want to stress that this is my own opinion. This is in no way an
-  last_post_date: "2025-04-28T11:40:00Z"
-  last_post_link: https://kevquirk.com/blog/my-thoughts-on-the-fosstodon-drama
+  last_post_title: "\U0001F4DD 16 May 2025 at 08:40 - When your kid is like Dad I
+    made you a..."
+  last_post_description: "When your kid is like \"Dad, I made you a present. It's
+    a poo!\"Cheers, son. \U0001F4A9\n            \n            Thanks for reading
+    this post via RSS. RSS is great, and you're great for using it. ❤️\n    "
+  last_post_date: "2025-05-16T08:40:00Z"
+  last_post_link: https://kevquirk.com/notes/20250516-0840
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9034d4592adcdc014634e9dbce63a6ba
+  last_post_guid: 19a2e9cf73724406b4b378d2ded3614c
   score_criteria:
     cats: 0
     description: 3

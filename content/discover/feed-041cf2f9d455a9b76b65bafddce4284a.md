@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 041cf2f9d455a9b76b65bafddce4284a
   websites:
+    https://www.bebt.de/blog/debian: true
     https://www.bebt.de/blog/debian/: false
   blogrolls: []
   in_blogrolls:
@@ -41,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

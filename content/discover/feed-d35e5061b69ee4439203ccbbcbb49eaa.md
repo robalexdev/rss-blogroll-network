@@ -9,6 +9,7 @@ params:
   websites:
     https://detect.fyi/?gi=0d0ad47394ae&source=rss----d5fd8f494f6a---4: false
     https://detect.fyi/?gi=fe3ddda714b7&source=rss----d5fd8f494f6a---4%2F: false
+    https://detect.fyi/?source=rss----d5fd8f494f6a---4: true
     https://detect.fyi/?source=rss----d5fd8f494f6a---4/: false
   blogrolls: []
   in_blogrolls:
@@ -45,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

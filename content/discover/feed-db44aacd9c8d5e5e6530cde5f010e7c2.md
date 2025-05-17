@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: db44aacd9c8d5e5e6530cde5f010e7c2
   websites:
+    https://blogs.fsfe.org/agger: true
     https://blogs.fsfe.org/agger/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

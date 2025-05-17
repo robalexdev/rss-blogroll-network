@@ -17,17 +17,22 @@ params:
   recommender: []
   categories: []
   relme:
+    https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
-  last_post_title: How many roads for intro CS
+    https://github.com/zamansky: true
+  last_post_title: Better teachers - CS teachers without CS or Math teachers with
+    math
   last_post_description: |-
-    How many different intro CS courses should we have? A question that
-    resurfaces periodically. This time due to an article in which C++
-    creator Bjarne Stroustrup posits that different audiences
-  last_post_date: "2025-04-22T17:33:21-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/pathways/
+    This article made its rounds this past week.
+
+    It cites a couple of papers claiming that CS teachers are delivering
+    better instruction and might be better qualified than teachers in
+    other subject
+  last_post_date: "2025-05-02T15:12:41-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/better-teachers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 32fc05e1dffbe62e72335681740033bb
+  last_post_guid: f2164f7114a4565fcacfef6c00af2fba
   score_criteria:
     cats: 0
     description: 3

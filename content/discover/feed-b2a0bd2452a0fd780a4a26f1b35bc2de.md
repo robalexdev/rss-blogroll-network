@@ -15,36 +15,26 @@ params:
     id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: 2024 in music
-  last_post_description: "Here’s my 21st annual roundup. Despite pledging to reduce
-    this obsessive cataloguing, I continue to go all in because exceptional new music
-    just keeps on coming.          \nAppreciate these"
-  last_post_date: "2024-12-28T16:00:00Z"
-  last_post_link: https://colly.com/journal/twenty-twentyfour-in-music
+  last_post_title: Breathing space
+  last_post_description: I’m increasingly grateful for work, but the last few months
+    have been tough. Projects came thick and fast, overlapping with each other and
+    a bombardment of life obstacles. This year has been almost
+  last_post_date: "2025-04-25T18:00:00Z"
+  last_post_link: https://colly.com/journal/breathing-space
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9

@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 62e1a2131af3b43e0de98bef8def30dc
   websites:
+    https://nicrosoft.net/blog: true
     https://nicrosoft.net/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -37,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

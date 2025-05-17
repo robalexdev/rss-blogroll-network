@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: 23e4fe48dec1bed1f9a9f56cadbc42c5
   websites:
-    https://bonjourapril.fr/: false
+    https://bonjourapril.fr/: true
   blogrolls: []
   in_blogrolls:
   - title: Planète April
@@ -35,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

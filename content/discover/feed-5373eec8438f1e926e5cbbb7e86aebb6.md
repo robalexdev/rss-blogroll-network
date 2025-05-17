@@ -20,15 +20,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Woodstock Planning Board Takes Next Step in Zena Homes Review
-  last_post_description: The Woodstock Planning Board is moving forward with its review
-    of the Zena Homes project, agreeing Thursday to hire independent environmental
-    and traffic consultants to assess its potential impact.
-  last_post_date: "2025-02-21T07:41:12Z"
-  last_post_link: https://theoverlooknews.com/woodstock-planning-board-takes-next-step-in-zena-homes-review/
+  last_post_title: The Many Lives of Cris Gamet
+  last_post_description: A painter and farrier balances solitude and strength, wielding
+    brush and hammer to shape a life on her own terms.
+  last_post_date: "2025-04-25T11:13:00Z"
+  last_post_link: https://theoverlooknews.com/the-many-lives-of-chris-gamet/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb842d376e07bb0f67dcbdd22aa7a16a
+  last_post_guid: b978177d9cab93b3757c3ab85a1ef0e6
   score_criteria:
     cats: 0
     description: 3

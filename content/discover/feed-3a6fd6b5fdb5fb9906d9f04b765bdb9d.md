@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 3a6fd6b5fdb5fb9906d9f04b765bdb9d
   websites:
+    https://blogs.gnome.org/shaunm: true
     https://blogs.gnome.org/shaunm/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

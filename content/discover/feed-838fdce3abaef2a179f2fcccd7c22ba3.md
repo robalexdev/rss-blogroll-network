@@ -15,12 +15,6 @@ params:
   - title: Colin Walker's readroll
     description: ""
     id: e6f62030c0a74fdcd1c99a1b492f6d21
-  - title: Miniflux
-    description: ""
-    id: fda84502db7085febafcd07db448a7b5
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: af94d85e509bec272bc4314eb947a67d
   - title: Kev Quirk's Blogroll
     description: ""
     id: d3c6398765901e01429e7ceffd5164f1
@@ -31,12 +25,6 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
-  - https://hacdias.com/writings/feed.xml
-  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed

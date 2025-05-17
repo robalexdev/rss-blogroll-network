@@ -8,11 +8,17 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
+    https://frills.dev/blog: false
     https://frills.dev/blog/: false
+    https://frills.dev/bookmarks: false
     https://frills.dev/bookmarks/: false
+    https://frills.dev/changelog: false
     https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 7c57874819a3b666310d14cda337b41d
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -20,7 +26,14 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender: []
+  recommender:
+  - https://benji.dog/feed.xml
+  - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories: []
   relme:
     https://frills.dev/: true

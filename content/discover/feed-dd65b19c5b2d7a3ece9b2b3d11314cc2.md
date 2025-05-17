@@ -24,6 +24,7 @@ params:
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml

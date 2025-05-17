@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 78a8fcaf252d8f3b5cfa3fc9dc97a573
   websites:
+    https://blogs.gnome.org/mcatanzaro: true
     https://blogs.gnome.org/mcatanzaro/: false
   blogrolls: []
   in_blogrolls:
@@ -41,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

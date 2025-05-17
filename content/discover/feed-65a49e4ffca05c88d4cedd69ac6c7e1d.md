@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 65a49e4ffca05c88d4cedd69ac6c7e1d
   websites:
+    https://blogs.fsfe.org/nanda: true
     https://blogs.fsfe.org/nanda/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 14
+    website: 2
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

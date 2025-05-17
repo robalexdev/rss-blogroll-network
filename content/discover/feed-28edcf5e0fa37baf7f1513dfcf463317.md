@@ -1,6 +1,6 @@
 ---
 title: 林林杂语
-date: "2025-02-12T10:47:00+08:00"
+date: "2025-05-03T20:27:00+08:00"
 description: 林林在无病呻吟。
 params:
   feedlink: https://www.xiaozonglin.cn/feed/
@@ -17,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 林林杂语微信公众号开通了
+  last_post_title: 开往一事杂记
   last_post_description: !!binary |
-    5p6X5p6X5p2C6K+t5byA6YCa5LqG5ZCM5ZCN5YWs5LyX5Y+377yM55So5p2l5Y+R5biD5Y
-    2a5a6i572R56uZ5LiK55qE5LiA5Lqb5paH56ug77yM55u45b2T5LqO5Y2a5a6i55qE44CM
-    57K+6YCJ54mI44CN44CC5oKo5aaC5p6c5oOz6KaB5Lqk5rWB5Lmf5Y+v5Lul55u05o6l5b
-    6A5YWs5LyX5Y+355WZ6KiA77yM5oiR55yL5Yiw5ZCO5Lya5Zue5aSN44A=
-  last_post_date: "2025-02-12T10:47:00+08:00"
-  last_post_link: https://www.xiaozonglin.cn/Wechat-account-created/
+    5LqU5LiA77yM5oOz552A6auY6ICD5ZCO5bCx6KaB5o6l5Zue5byA5b6A6aG555uu77yM5p
+    S+5YGH5YmN5bCx5oOz5LqG5Lqb6KaB5oqY6IW+55qE5Lic6KW/77yM5q+U5aaC5paw55qE
+    6Lez6L2s6aG16Z2i44CB5pu05ZCI55CG55qE6aG555uu57uE5p625p6E562J562J44CC5L
+    iA5Zue5p2l5oOz6Lef546w5Zyo55qE57u05oqk57uE6LSf6LSj5Lq65rI=
+  last_post_date: "2025-05-03T20:27:00+08:00"
+  last_post_link: https://www.xiaozonglin.cn/An-encounter-about-travellings/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c7d1e9a5e3723ccd6643c5b79b095655
+  last_post_guid: b6a39b88df945411b830eeb592555de7
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 3
+  postcount: 10
   avgpostlen: 0
 ---

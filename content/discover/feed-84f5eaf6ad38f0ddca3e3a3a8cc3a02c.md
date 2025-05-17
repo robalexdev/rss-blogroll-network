@@ -20,16 +20,16 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Yosemite's Awe, II
+  last_post_title: Downtown SF, I
   last_post_description: |-
-    California, February 2025.
-    From the video The power of awe inspiring landscapes: Yosemite.
-  last_post_date: "2025-02-21T17:23:43Z"
-  last_post_link: https://aows.co/blog/2025/2/21/yosemites-awe-ii
+    Oakland, April 2025.
+    From the video Running out of time.
+  last_post_date: "2025-04-23T18:28:46Z"
+  last_post_link: https://aows.co/blog/2025/4/23/downtown-sf-i
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: ba244e271688b0a5a68c21131e8eeea9
+  last_post_guid: e5c4d5f00cf3d01a6ebb7c72cee9f8bc
   score_criteria:
     cats: 0
     description: 3

@@ -37,6 +37,9 @@ params:
   - https://blog.trailofbits.com/index.xml
   - https://cool-as-heck.blog/feed/
   - https://cool-as-heck.blog/feed/?type=rss
+  - https://www.coryd.dev/feeds/books.xml
+  - https://www.coryd.dev/feeds/links.xml
+  - https://www.coryd.dev/feeds/movies.xml
   - https://flamedfury.com/bookmarks-feed.xml
   - https://flamedfury.com/feed.xml
   - https://grepjason.sh/atom.xml
@@ -55,6 +58,12 @@ params:
   - https://localghost.dev/recipes.xml
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
+  - https://rys.io/es/feed.atom
+  - https://rys.io/es/feed.rss
+  - https://rys.io/feed.atom
+  - https://rys.io/feed.rss
+  - https://rys.io/pl/feed.atom
+  - https://rys.io/pl/feed.rss
   - https://shkspr.mobi/blog/comments/feed/
   - https://shkspr.mobi/blog/feed
   - https://shkspr.mobi/blog/feed/atom

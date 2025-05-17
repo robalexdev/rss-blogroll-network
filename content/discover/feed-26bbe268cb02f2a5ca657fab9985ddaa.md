@@ -6,7 +6,8 @@ params:
   feedlink: https://anildash.com/feed.xml
   feedtype: atom
   feedid: 26bbe268cb02f2a5ca657fab9985ddaa
-  websites: {}
+  websites:
+    https://anildash.com/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -34,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

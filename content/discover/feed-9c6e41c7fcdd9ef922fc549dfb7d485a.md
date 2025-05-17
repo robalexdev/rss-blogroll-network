@@ -65,6 +65,7 @@ params:
   - 104 E. 7th St.
   - 104 Second Ave.
   - 105 Avenue B
+  - 106 Avenue B
   - 106 Avenue C
   - 106 E. 10th St.
   - 107 First Avenue
@@ -78,6 +79,7 @@ params:
   - "11"
   - 11 Avenue A
   - 11 Avenue C
+  - 11 B
   - 11 Essex Street
   - 11 Great Jones
   - 11 Tigers
@@ -128,10 +130,12 @@ params:
   - 11th Street Bar
   - 11th Street Community Garden
   - 12 Avenue A
+  - 12 Matcha
   - 12 St. Mark's Place
   - 120 E. 10th St.
   - 120 First Ave.
   - 120 St. Mark's Place
+  - 121 E. 7th St.
   - 121 St. Mark's Place
   - 121 and 123 Second Ave.
   - 122 Community Center
@@ -1022,6 +1026,7 @@ params:
   - 99 Miles to Philadelphia
   - 99 Second Ave.
   - 99 Second Avenue
+  - 99 Third Ave.
   - 99-101 E. Second St.
   - 99-cent pizza
   - 99-cent store
@@ -1033,6 +1038,7 @@ params:
   - 9th Street Community Garden & Park
   - 9th Street Espresso
   - ': 13th Street'
+  - ': 174-176 First Ave.'
   - ': 38-48 Second Ave.'
   - ': Beauty Bar'
   - ': East River Park'
@@ -1058,6 +1064,7 @@ params:
   - A1 Records
   - A10 Kitchen
   - A7
+  - A99
   - AA
   - ABC
   - ABC Animal Hospital
@@ -1152,6 +1159,7 @@ params:
   - Alibaba Smoke Shop
   - Aliens of Brooklyn
   - Alison
+  - All Saints Ukrainian Orthodox Church
   - All The King's Horses Cafe
   - All Tomorrow's Parties
   - All-Star game
@@ -1496,6 +1504,7 @@ params:
   - Bar 82
   - Bar Akuda
   - Bar Bacon
+  - Bar Bianchi
   - Bar Lula
   - Bar Lulu
   - Bar Miller
@@ -1537,6 +1546,7 @@ params:
   - Basics Plus
   - Basquiat
   - Bastille Day
+  - Bateman's
   - Bathhouse Studios
   - Batman
   - Batsu
@@ -1648,6 +1658,7 @@ params:
   - Bishops and Barons
   - Bistro Avenue
   - Bistro Cafe and Grill
+  - Bite
   - Bite Me Best
   - Bites of Xi'an
   - Black & White
@@ -1905,6 +1916,7 @@ params:
   - Butch Morris
   - Butcher Bay
   - Butter Lane
+  - Butter Smashburgers
   - Butterdose
   - Butthole Bandits
   - Buy Nothing Day
@@ -2078,6 +2090,7 @@ params:
   - Centre-fuge
   - Certain Lives
   - Cha-An Bonbon
+  - ChaHalo
   - ChaShaMa
   - Chad Marlow
   - Chaim Joseph
@@ -2486,6 +2499,7 @@ params:
   - Dan Perino
   - Dan Witz
   - Dan and John's Wings
+  - Dana Beal
   - Dance Parade 2008
   - Dance Parade 2009
   - Dance Parade 2011
@@ -2583,6 +2597,7 @@ params:
   - Delancey Street
   - Delaney Fried Chicken
   - Deli Convenience
+  - Deli Delights & Waffle Wonders
   - Delicacy
   - Delicatessen
   - Delphine le Goff
@@ -2639,6 +2654,7 @@ params:
   - Disco Donut
   - Disco-O-Rama
   - Discovery Wines
+  - District 2
   - District attorney
   - Disturbed Furniture
   - Dive bars
@@ -2700,6 +2716,7 @@ params:
   - Doughnut Plant
   - Douglas Steiner
   - Down & Out NYC
+  - Down and Out
   - Downtime
   - Downtown Auto
   - Downtown Bakery
@@ -3063,6 +3080,7 @@ params:
   - Eileen Fisher
   - Eisenberg's Sandwich Shop
   - Eiyo Bowl
+  - El Camino
   - El Camion
   - El Carnaval
   - El Churro
@@ -3232,6 +3250,7 @@ params:
   - Fashion Week
   - Fast Times at Ridgemont High
   - Fasta
+  - Fat Boys Burgers
   - Fat Buddha
   - Fat Cat Cafe
   - Fat Cat Kitchen
@@ -3252,6 +3271,7 @@ params:
   - February 2022
   - February 2023
   - February 2024
+  - February 2025
   - FedEx
   - Federal Cafe
   - Federal Hall
@@ -3291,6 +3311,7 @@ params:
   - Fiona Silver
   - Fire TV Stick
   - Fire and Water
+  - Fireboat House
   - Firemen's Garden
   - First & First Finest Deli
   - First Avenue
@@ -3349,6 +3370,7 @@ params:
   - Fontana's
   - Fonzie
   - Food Bank for New York City
+  - Food City
   - Food Emporium
   - Food for Life at Tompkins Square Park
   - Foot Gear Plus
@@ -3378,6 +3400,7 @@ params:
   - Fourth Street Arts Block
   - Fourth of July
   - Foxface
+  - Foxface Natural
   - Fran Lebowitz
   - Frances Goldin
   - Francis Bacon
@@ -3401,6 +3424,7 @@ params:
   - Freeman's Sporting Club
   - Freemans Alley
   - French things
+  - Frenchie Bites
   - Fresco
   - Fresh & Co.
   - Fresh Apple Fries
@@ -3669,6 +3693,7 @@ params:
   - Haiti
   - Hakata Hot Pot
   - Hakata Zen
+  - Hal Hirshorn
   - Hal Steinbrenner
   - Halal Bites Pizza
   - Haley Joel Osment
@@ -3809,6 +3834,7 @@ params:
   - Hollywood Hair
   - Hollywood Nail & Spa
   - Hollywood in the East Village
+  - Holographic Studios
   - Holy Basil
   - Holy Reedemer
   - Holyland Market
@@ -4003,6 +4029,7 @@ params:
   - Ironside
   - Irreplaceable Artifacts
   - Irving Farm New York
+  - Irving Green
   - Irving Place
   - Irving Plaza
   - Is this how the Plain White T's got started?
@@ -4057,6 +4084,7 @@ params:
   - Jamie the check-cashing guy
   - Jan. 24
   - Jane
+  - Jane Cookshop
   - Jane Doe
   - Jane Pratt
   - Jane's Exchange
@@ -4102,6 +4130,7 @@ params:
   - Jennifer Convertibles
   - Jennifer Esposito
   - Jennifer's Way Bakery
+  - Jennifer?
   - Jeremiah Moss
   - Jeremiah's Vanishing New York
   - Jeremy Lin
@@ -4316,6 +4345,7 @@ params:
   - Kavanaugh
   - KavasutrA
   - Kavasutra Kava bar
+  - Kawa Omakase
   - Kaz
   - Keanu Reeves
   - Kebab Garden
@@ -4472,6 +4502,7 @@ params:
   - La Bonne Bouffe
   - La Botanica
   - La Cabra
+  - La Cocina
   - La Colombe
   - La Contrada
   - La Esquina Bar & Grill
@@ -4672,6 +4703,7 @@ params:
   - Los Angeles
   - Los Angeles Times
   - Los Tacos
+  - Los Tacos No. 1
   - LosLES
   - Lost City
   - Lost Lady
@@ -4683,6 +4715,7 @@ params:
   - Louis 649
   - Louis C.K.
   - Louis Rodriguez
+  - Louis Zuflacht
   - Love & Sex on 10th Street
   - Love Gang
   - Love Mi
@@ -4724,6 +4757,7 @@ params:
   - Luca Bar
   - Luca Lounge
   - Lucien
+  - Luckin Coffee
   - Lucky
   - Lucky Cheng's
   - Lucky Chengs
@@ -4871,6 +4905,7 @@ params:
   - March 2022
   - March 2023
   - March 2024
+  - March 2025
   - March 26
   - March 26 explosion
   - March Craneness
@@ -4878,7 +4913,6 @@ params:
   - March gallery
   - Marcha Cocina
   - Mardi Gras
-  - Maretta
   - Marfa
   - Margarita March
   - Margot Gayle
@@ -4965,6 +4999,7 @@ params:
   - May Day
   - May in review
   - MayRee
+  - Maya Taqueria
   - Mayahuel
   - Mayamezcal
   - Mayanoki
@@ -4973,6 +5008,7 @@ params:
   - Mayor Bloomberg
   - Mayor Fiorello La Guardia
   - Mayor de Blasio
+  - Maza Artisinal Mexican Food
   - McCain
   - McDonald's
   - McKinley Playground
@@ -5097,6 +5133,8 @@ params:
   - Miller High Life
   - Millions March NYC
   - Milon
+  - Mimi Cheng's
+  - Mimi Chengs
   - Mimi's Hummus
   - Min Sushi
   - Min's Market
@@ -5115,6 +5153,7 @@ params:
   - Miscelanea NY
   - Misirizzi
   - Miso Sushi
+  - Misoya
   - Miss Lily's 7A Cafe
   - Miss Manhattan Non-Fiction Reading Series
   - Miss Pakistan
@@ -5452,6 +5491,7 @@ params:
   - No Kids in Cages
   - No Malice Palace
   - No More Cafe
+  - No Nazar Cafe
   - No Nukes
   - No Pants
   - No Relation
@@ -5733,6 +5773,7 @@ params:
   - Paul's Da Burger Joint
   - Paulie Gee's Slice Shop
   - Pause Cafe
+  - Pavlo Mochi
   - Pearl Diner
   - Pearl Street
   - Pearl Street diner
@@ -5927,6 +5968,7 @@ params:
   - Provincetown Playhouse
   - Prunce
   - Prune
+  - Pryzm
   - Psychedelic Furs
   - Psychedelic Furs references in headlines
   - Public Access T.V.
@@ -6082,6 +6124,7 @@ params:
   - Revered Billy
   - Reverend Billy
   - Revival
+  - Revival Dog Training
   - Revolutionary Road
   - Rexobox
   - Rhong Tiam
@@ -6236,6 +6279,7 @@ params:
   - Sa Aming Nayon
   - Saabsicle
   - Saan Saan
+  - Sabor A Mexico
   - Sabrina's bear coat
   - Sabu
   - Sacco
@@ -6414,6 +6458,7 @@ params:
   - Seymour Burton
   - Señor Pollo
   - Shadowman
+  - Shaji BBQ
   - Shake Shack
   - Shake and Tail
   - Shakespeare
@@ -6503,6 +6548,7 @@ params:
   - Skippy's Palace
   - Skortz
   - Sky East
+  - Sky High Club
   - Sleepy's
   - Slider's
   - Sliders
@@ -6514,6 +6560,7 @@ params:
   - Smart Smokers
   - Smashed
   - Smell it like Beckham
+  - Smilers
   - Smileys
   - SmithStone
   - Smithereens
@@ -6606,6 +6653,7 @@ params:
   - Spots' Cafe
   - Spotted Lanternfly
   - Spotted Owl Tavern
+  - Spring 2025
   - Spring Into Pride
   - Spring Spa
   - Squatter's Opera
@@ -6687,6 +6735,7 @@ params:
   - Star Trek
   - Star Wars
   - 'Star Wars: The Force Awakens'
+  - Star's Revenge
   - Starbanks
   - Starbucks
   - Stargirl
@@ -6911,6 +6960,7 @@ params:
   - TakeMeHome Rotisserie Chicken
   - Tal Bagels
   - Talking Heads
+  - Tallgrass Burger
   - Tamam
   - Tamam Falafel
   - Tammy Faye Starlite
@@ -7012,7 +7062,9 @@ params:
   - The Battle Hymn of the Republic
   - The Beach Boys
   - The Beacon
+  - The Best Damn Breakfast Burrito
   - The Big Dip
+  - The Big U
   - The Birdman
   - The Black 6 Coffee Trading Co.
   - The Black Rose
@@ -7032,6 +7084,7 @@ params:
   - The Brant Foundation
   - The Brant Foundation Art Study Center
   - The Brownstone
+  - The Burger Guy
   - The Burger Shop
   - The Cardinal
   - The Carrie Diaries
@@ -7072,6 +7125,7 @@ params:
   - The Drunken Canal
   - The Dumpling Shop
   - The Earth School
+  - The East
   - The East Luxe
   - The East Village Brownstone
   - The East Village Eviction Free Zone
@@ -7117,6 +7171,8 @@ params:
   - The Hills
   - The Hole
   - The Honey Fitz
+  - The Hood Spot
+  - The Houston
   - The Hummus & Pita Co.
   - The Immigrant
   - The Immigrant Tap Room
@@ -7336,6 +7392,7 @@ params:
   - Tio Pio
   - Tipsy Shanghai
   - Tish and Snooky
+  - Titi's
   - Tits Dick Ass
   - To Eat Sushi
   - Toasted Deli
@@ -7453,6 +7510,7 @@ params:
   - Trilby
   - Trinity Lower East Side
   - Trinity Lower East Side Lutheran Parish
+  - Trinity Lower East Side Lutheran Parish.
   - Trinity's Services and Food for the Homeless
   - Triona's
   - TripAdvisor
@@ -7509,6 +7567,7 @@ params:
   - Ukrainian community
   - Ultimate weekends
   - Uluh Tea House
+  - Um
   - Umbrella House
   - Ummburger
   - Unapologetic Foods
@@ -7764,6 +7823,7 @@ params:
   - Whiskey Dick's
   - Whiskey Ward
   - White Glove Bandit
+  - White Lotus
   - White Negro
   - White Rabbit
   - White Slab Palace
@@ -7777,6 +7837,7 @@ params:
   - Whole Earth Bakery and Kitchen
   - Whole Foods
   - Whole Foods Bowery
+  - Whole Foods Market Daily Shop
   - Whole Foods Market StuyTown
   - Whynot Coffee
   - Wi-Fi
@@ -7912,6 +7973,7 @@ params:
   - Zero Irving
   - Zerza
   - Zhe Zhe
+  - Zhong Guo La Mian Xiao Long Bao
   - Zi Pep
   - Zibalee
   - Ziegfeld Theatre
@@ -8222,6 +8284,7 @@ params:
   - branding
   - bras
   - brass bands
+  - bread
   - bread dumps
   - break ins
   - break-in
@@ -9207,6 +9270,7 @@ params:
   - illegal hotels
   - illegal parking
   - image
+  - immigration
   - important decisions
   - important questions
   - important research
@@ -9368,6 +9432,7 @@ params:
   - luxury housing
   - macaroni and cheese
   - machete
+  - magazines
   - mail
   - mailboxes
   - malls
@@ -9881,6 +9946,7 @@ params:
   - reader comments
   - reader mail
   - reader mailbag
+  - reader questions
   - reader report
   - reader reports
   - reader requests
@@ -9994,6 +10060,7 @@ params:
   - rumors
   - rumos
   - runaway dogs
+  - running
   - running a joke into the ground
   - rusty fridge
   - s and m clubs
@@ -10130,6 +10197,7 @@ params:
   - small business closure
   - small businesses
   - small cars
+  - small storefronts
   - small victories in the East Village
   - smart cars
   - smartphones
@@ -10372,6 +10440,7 @@ params:
   - tattoos
   - tax day
   - tax photo collection
+  - taxes
   - taxi relief stand
   - taxidermy
   - tea
@@ -10500,6 +10569,7 @@ params:
   - the Local 269
   - the Long Pour
   - the Low Line
+  - the Lower East Side Film Festival
   - the Lower East Side Playground Field
   - the Lower Manhattan Congregation Jehovah's Witness
   - the Market Line
@@ -10528,6 +10598,7 @@ params:
   - the Office of Mr. Moto
   - the Parish of Calvary-St. George’s
   - the Parkside
+  - the Parkside Lounge
   - the Pineapple Club
   - the Pizza Spot
   - the Plaza
@@ -10786,6 +10857,7 @@ params:
   - unshoveled sidewalks
   - upscale lounges
   - urballoon
+  - urban etiquett urban etiquette
   - urban etiquette
   - urban gardens
   - urban legends
@@ -10870,6 +10942,7 @@ params:
   - wedding destination
   - weddings
   - weed
+  - weed shop
   - weeds
   - week in review
   - weekend in review
@@ -10992,30 +11065,29 @@ params:
   - ¡Adios Amigos!
   - Íxta
   relme: {}
-  last_post_title: A Taste of change for Joe's Wine Co
-  last_post_description: The Joe is gone at 113 Third Ave. As you can see, someone
-    painted over the Joe's on the signage at the wine store between 13th Street and
-    14th Street. The shop is now going as Taste Wine Co. per
-  last_post_date: "2025-02-24T10:30:00Z"
-  last_post_link: http://evgrieve.com/2025/02/a-taste-of-change-for-joes-wine-co.html
+  last_post_title: Today in discarded canoes
+  last_post_description: This beautiful fiberglass canoe in good working condition
+    appeared overnight on 14th Street in front of the soon-to-open Whole Foods, between
+    First Avenue and Avenue A. The workers say it is not a
+  last_post_date: "2025-04-28T16:58:00Z"
+  last_post_link: http://evgrieve.com/2025/04/today-in-discarded-canoes.html
   last_post_categories:
-  - Joe's Wine Co.
-  - Taste Wine Co.
+  - discarded things
   last_post_language: ""
-  last_post_guid: 8a8637229902fe56f86af946bf98b654
+  last_post_guid: 1ad241f6ed10b15ea0daf4a8feba7eec
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 23
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

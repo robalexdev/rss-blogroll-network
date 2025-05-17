@@ -1,13 +1,12 @@
 ---
 title: StudyingLover's Blog
-date: "2025-02-23T14:09:52Z"
+date: "2025-03-14T09:41:32Z"
 description: Work hard in secret, then amaze everyone.
 params:
   feedlink: https://studyinglover.com/atom.xml
   feedtype: atom
   feedid: b762feeca7f7099093ffe62cb0e4dccf
-  websites:
-    https://studyinglover.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -17,30 +16,31 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 关于perplexity的open-sourcing-r1-1776
+  last_post_title: Dynaseal A Backend-Controlled LLM API Key Distribution Scheme with
+    Constrained Invocation Parameters
   last_post_description: ""
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://www.studyinglover.com/blog/about-perplexity-open-sourcing-r1-1776/
+  last_post_date: "2025-03-14T00:00:00Z"
+  last_post_link: https://www.studyinglover.com/blog/iclr2025-dynaseal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e3b673036cd707bfad55e6d2f1fb4117
+  last_post_guid: 89d4dd5da969e78d692900c4162b0b61
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    hasContent: 3
+    hasContent: 0
     hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 20
-  avgpostlen: 200
+  postcount: 114
+  avgpostlen: 10
 ---

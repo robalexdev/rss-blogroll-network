@@ -20,25 +20,26 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
+  - Archiving
   - Blogging
-  - Connectedness
-  - blogmenting
-  - commentblogging
+  - Conferencing
+  - On Openness
+  - On Sharing
   relme: {}
-  last_post_title: 'Back After a Break: The CogDogBlogMuzzle for a Week of Comment
-    Blogging'
-  last_post_description: Given the faithful rising to the Reverend’s Come to Bava
-    call to Blog or Die I want to pick up on the followup invocation of Always Be
-    Commenting. I’ve long clung to the idea that the scope of
-  last_post_date: "2025-02-17T13:31:00Z"
-  last_post_link: https://cogdogblog.com/2025/02/cogdogblogmuzzle-for-a-week/
+  last_post_title: 18 Years Later Echoes of a VoiceThread, not from the Grave
+  last_post_description: Strap your self in for another wild old crazy link tour,
+    real audio echoes from the web past, and an anomaly of a free web storytelling
+    tool that not only is around after a start 8 years ago, but
+  last_post_date: "2025-04-24T17:19:37Z"
+  last_post_link: https://cogdogblog.com/2025/04/echoes-voicethread/
   last_post_categories:
+  - Archiving
   - Blogging
-  - Connectedness
-  - blogmenting
-  - commentblogging
+  - Conferencing
+  - On Openness
+  - On Sharing
   last_post_language: ""
-  last_post_guid: a71281087e7a0984cf02bb50d8ab66ab
+  last_post_guid: a859f019b2f17dd9b9622c237352a7db
   score_criteria:
     cats: 0
     description: 3

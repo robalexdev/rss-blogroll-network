@@ -18,33 +18,35 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - choice
-  - pm
+  - abundance
+  - book
+  - review
   relme: {}
-  last_post_title: 'Philosophy Mondays: Choice'
-  last_post_description: 'Last week in Philosophy Mondays we completed the ingredients
-    that go into the fundamental question that philosophy should help people answer:
-    "How should we choose our actions in light of our'
-  last_post_date: "2025-02-18T19:07:46Z"
-  last_post_link: https://paragraph.xyz/@continuations/philosophy-mondays-choice
+  last_post_title: Abundance (Book Review)
+  last_post_description: Abundance is the bold title for a new book by Ezra Klein
+    and Derek Thompson that has been receiving a lot of attention. Given my own profound
+    interest in how to get past scarcity thinking I felt
+  last_post_date: "2025-04-27T21:00:29Z"
+  last_post_link: https://paragraph.com/@continuations/abundance-book-review
   last_post_categories:
-  - choice
-  - pm
+  - abundance
+  - book
+  - review
   last_post_language: ""
-  last_post_guid: 86202d539a1efe048de10998a7903810
+  last_post_guid: 75ee812f5f11c8462803ad07975fe66f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

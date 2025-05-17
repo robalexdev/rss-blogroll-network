@@ -18,23 +18,22 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Country Exclusive
+  - Alan Jackson
   - Country Music News
-  - Television
-  - Yellowstone
+  - Country Music Pictures
   relme: {}
-  last_post_title: I Tried the ‘Yellowstone’ TV Dinners [Watch]
-  last_post_description: We give some of the 'Yellowstone' frozen TV dinners a taste.
-    Continue reading…
-  last_post_date: "2025-02-24T17:43:04Z"
-  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/i-tried-the-yellowstone-tv-dinners-watch/
+  last_post_title: Alan Jackson’s Grandchildren Just Went to Their First Alan Jackson
+    Concert
+  last_post_description: Alan Jackson's grandsons got to see what the singer does
+    for a living for the very first time.  Continue reading…
+  last_post_date: "2025-04-28T21:29:28Z"
+  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/alan-jackson-grandkids-first-concert/
   last_post_categories:
-  - Country Exclusive
+  - Alan Jackson
   - Country Music News
-  - Television
-  - Yellowstone
+  - Country Music Pictures
   last_post_language: ""
-  last_post_guid: eddfe44be4f8e3bb13a85a1e5ffe7fce
+  last_post_guid: 5206280d1c32cdd23f9a95cb29d7e31b
   score_criteria:
     cats: 0
     description: 3

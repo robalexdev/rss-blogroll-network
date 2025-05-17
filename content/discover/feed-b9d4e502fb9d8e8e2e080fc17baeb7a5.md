@@ -15,24 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Authentication
-  - FastAPi
-  - Keycloak
+  - Debian
+  - ESXi
   - Technical
+  - Ubuntu
   relme: {}
-  last_post_title: Authentication FastAPI with Keycloak
-  last_post_description: First you need to create a realm and client, and get the
-    client id and secret. Go to Keycloak configuration problems and solutions to see
-    how to setup at Keycloak Admin Panel. 1 Install dependencies
-  last_post_date: "2025-02-04T14:10:56Z"
-  last_post_link: https://garymeng.com/3314.html
+  last_post_title: How to expand the hard disk capacity of Debian/Ubuntu in ESXi
+  last_post_description: 1 Go to ESXi dashboard, expand the hard disk to expected
+    size. Here I will resize my disk from 203G to 1100G. 2 show current disk capacity
+    ➜ ~ df -h Filesystem Size Used Avail Use% Mounted on ...
+  last_post_date: "2025-03-06T07:41:22Z"
+  last_post_link: https://garymeng.com/3322.html
   last_post_categories:
-  - Authentication
-  - FastAPi
-  - Keycloak
+  - Debian
+  - ESXi
   - Technical
+  - Ubuntu
   last_post_language: ""
-  last_post_guid: ebbf1d9602dc96a9f983ad46e16e4bef
+  last_post_guid: 9c00976048c8c0ef7eef05c25465cad9
   score_criteria:
     cats: 0
     description: 3

@@ -10,6 +10,7 @@ params:
     https://ttntm.me/: false
     https://ttntm.me/blog/: false
     https://ttntm.me/everything/: false
+    https://ttntm.me/hello: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: false
     https://ttntm.me/notes/: true

@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Apple complies with UK backdoor request and removes cloud encryption
-  last_post_description: It's been only ten days since we warned that the UK government
-    could force Apple to undermine encryption. Now the Silicon Valley Big Tech complied,
-    partially. Apple removed the end-to-end encryption
-  last_post_date: "2025-02-21T00:00:00Z"
-  last_post_link: https://tuta.com/blog/uk-demands-apple-backdoor-encryption
+  last_post_title: "Tuta Calendar now has a widget on Android! \U0001F389"
+  last_post_description: This month we are excited to announce that our encrypted
+    calendar now has a widget on Android. And, yes, we are already working on the
+    widget for iOS as well, stay tuned! The widget was the most
+  last_post_date: "2025-04-24T00:00:00Z"
+  last_post_link: https://tuta.com/blog/calendar-widget-conversation-view-improvement
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 240e68a5e1cf9b726f202daf7aecd0a5
+  last_post_guid: fb19e4388022cb901ca94b236b5ecdad
   score_criteria:
     cats: 0
     description: 3

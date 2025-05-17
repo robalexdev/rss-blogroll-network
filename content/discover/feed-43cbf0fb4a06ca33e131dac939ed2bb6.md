@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Muskology
-  last_post_description: 'In the fog of Trump Two, we’re asking: what’s new? The co-presidency
-    with Elon Musk is surely new, also the raging battle of exotic ideas among techno-optimists
-    and libertarian anarcho'
-  last_post_date: "2025-02-14T01:51:50Z"
-  last_post_link: https://radioopensource.org/muskology/
+  last_post_title: Miracles and Wonder
+  last_post_description: We’re considering the Jesus story with the historian Elaine
+    Pagels. Her new book is a marvel, crowning a lifetime of bestselling scholarship,
+    sifting the sources and retuning the narrative in and
+  last_post_date: "2025-04-17T17:12:57Z"
+  last_post_link: https://radioopensource.org/miracles-and-wonder/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 52cb5c226595ee2b48feabee873ffa57
+  last_post_guid: d9bf3fea7c0a59ffb26230248c662db0
   score_criteria:
     cats: 1
     description: 3

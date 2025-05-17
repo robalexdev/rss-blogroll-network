@@ -18,11 +18,10 @@ params:
   categories: []
   relme: {}
   last_post_title: TinyRenderer笔记4：着色器
-  last_post_description: !!binary |
-    6aG254K5552A6Imy5Zmo55qE5Li76KaB55uu5qCH5piv5Y+Y5o2i6aG254K555qE5Z2Q5q
-    CH77yM56ys5LqM5Liq55uu5qCH5piv5Li654mH5q61552A6Imy5Zmo5YeG5aSH5pWw5o2u
-    44CCCueJh+auteedgOiJsuWZqOeahOS4u+imgeebruagh+aYr+ehruWumuW9k+WJjeWDj+
-    e0oOeahOminOiJsu+8jOasoeimgeebruagh+aYr+aIkeS7rOWPr+S7pek=
+  last_post_description: |-
+    OpenGL 2的渲染管道可以表示如下(新版本也差不多)：
+
+    在较新的OpenGL中还有其他着色器，在这个课程中只关心顶点着色器(vertex shader)和片段着色器(fragment
   last_post_date: "2025-01-06T11:58:35Z"
   last_post_link: https://www.kirito.info/tinyrenderer%E7%AC%94%E8%AE%B04%E7%9D%80%E8%89%B2%E5%99%A8/
   last_post_categories: []

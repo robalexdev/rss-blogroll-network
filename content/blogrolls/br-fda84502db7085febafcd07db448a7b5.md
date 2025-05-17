@@ -12,6 +12,9 @@ params:
   - title: Articles by Aaron Parecki
     description: ""
     id: 04771e3320b44a0e37cc8de8ad3d8722
+  - title: Stan's blog
+    description: Recent content on Stan's blog
+    id: 06ec1ee4eb49931cbb87a87747e6f5e7
   - title: Brain Baking
     description: Freshly Baked Thoughts by Wouter Groeneveld
     id: 089c9db489cfeaf58be3a5376674b2c2
@@ -68,6 +71,9 @@ params:
   - title: niqwithq
     description: '[object Object]'
     id: 5cd3085a60f3bae159ce042035a1e3de
+  - title: Ben Borgers
+    description: Ben Borgers’ personal website.
+    id: 5d017cf3df4845836c01d3a419118726
   - title: Jon Worth
     description: Independent railway commentator
     id: 61a94025d87b544bb3104f1508c59c20

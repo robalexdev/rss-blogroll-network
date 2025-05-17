@@ -1,5 +1,5 @@
 ---
-title: Posts feed / Cory Dransfeldt
+title: Posts feed • Cory Dransfeldt
 date: "1970-01-01T00:00:00Z"
 description: I'm a software developer in Camarillo, California. I write about software
   development, technology and music.
@@ -19,6 +19,9 @@ params:
   - title: RSS Feeds for all Robb Knight's Blogroll
     description: ""
     id: 6a72507ba2e935838f624759bf29fde4
+  - title: Shellsharks Blogroll OPML
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
@@ -27,17 +30,27 @@ params:
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   - https://rknight.me/subscribe/posts/rss.xml
+  - https://shellsharks.com/feeds/all-feed.xml
+  - https://shellsharks.com/feeds/devlog-feed.xml
+  - https://shellsharks.com/feeds/feed.xml
+  - https://shellsharks.com/feeds/infosec-feed.xml
+  - https://shellsharks.com/feeds/life-feed.xml
+  - https://shellsharks.com/feeds/link-feed.xml
+  - https://shellsharks.com/feeds/log-feed.xml
+  - https://shellsharks.com/feeds/note-feed.xml
+  - https://shellsharks.com/feeds/scroll-feed.xml
+  - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: Live music
-  last_post_description: |-
-    I went to my first metal show in a while this weekend — at a nice venue in one of the worst neighborhoods I've ever been in.
-    Four death metal bands, two I was interested in, two hours driving and
-  last_post_date: "2025-02-19T23:05:28Z"
-  last_post_link: https://www.coryd.dev/posts/2025/live-music
+  last_post_title: Tracking listens from Navidrome
+  last_post_description: Migrating from Plex to Jellyfin to Navidrome has meant refactoring
+    how I record listens at each step. Much of the code architecture has remained
+    the same — error reporting, inserting tentative
+  last_post_date: "2025-04-24T23:14:45Z"
+  last_post_link: https://www.coryd.dev/posts/2025/tracking-listens-from-navidrome
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e53814a8c7179ec3950d087da6759431
+  last_post_guid: eaac5d80a3210f193463cfa2d5238d75
   score_criteria:
     cats: 0
     description: 3

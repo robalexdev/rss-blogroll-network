@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: dc4ef1ddf775b2b559761ebe45da5c01
   websites:
+    https://blogs.gnome.org/cosimoc: true
     https://blogs.gnome.org/cosimoc/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

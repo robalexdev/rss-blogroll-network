@@ -21,32 +21,32 @@ params:
   - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: Eeeugh to Aaahhh
-  last_post_description: We have a freestanding oven and cooktop and it's mandatory
-    to have a small gap either side. That gap is exactly the right size for splashes
-    of sauce, random escaped cooking ingredients and crumbs to
-  last_post_date: "2025-02-22T11:37:03+13:00"
-  last_post_link: https://miraz.me/2025/02/22/eeeugh-to-aaahhh.html
+  last_post_title: "Very readable: The Complete Travelling Cook Mysteries \U0001F4DA"
+  last_post_description: At just under $2 it made sense to buy this 7-book box set
+    for the two books in the series I hadn't yet read. Totally enjoyed them too! Martin
+    skilfully provides all the clues to the reader, but it's
+  last_post_date: "2025-04-21T14:23:43+12:00"
+  last_post_link: https://miraz.me/2025/04/21/very-readable-the-complete-travelling.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 861cb7a54b92813790bf552436a0505f
+  last_post_guid: d8319dfd082b14cd1aa73d74671ea6a6
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
-    hasPosts: 0
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 9
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 0
+  postcount: 2
   avgpostlen: 0
 ---

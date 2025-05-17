@@ -20,16 +20,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Social Web Foundation at RightsCon 2025
-  last_post_description: RightsCon 2025– “rights” as in human rights and “con” as
-    in tech conference– is less than a week away, and the SWF is hosting some exciting
-    events taking place in Taipei. It’s the
-  last_post_date: "2025-02-20T01:39:09Z"
-  last_post_link: https://socialwebfoundation.org/2025/02/19/social-web-foundation-at-rightscon-2025/
+  last_post_title: Defederation on the Fediverse
+  last_post_description: 'Mallory and I were lucky enough to participate in a study
+    on New Paradigms in Trust and Safety: Navigating Defederation on Decentralized
+    Social Media Platforms by the Carnegie Endowment. Published a'
+  last_post_date: "2025-03-27T21:22:27Z"
+  last_post_link: https://socialwebfoundation.org/2025/03/27/defederation-on-the-fediverse/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: e8ebca58d8da3b8da9cb3c236c66d041
+  last_post_guid: aacddc1a933bfe8cfff96eb0bb900b38
   score_criteria:
     cats: 0
     description: 3

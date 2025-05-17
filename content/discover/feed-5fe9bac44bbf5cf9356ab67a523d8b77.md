@@ -16,10 +16,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: siyuan_feed插件
+  last_post_title: OceanPress_js
   last_post_description: ""
-  last_post_date: "2024-02-06T09:19:29Z"
-  last_post_link: https://shenzilong.cn/想法/siyuan_feed插件.html
+  last_post_date: "2025-03-28T05:10:32Z"
+  last_post_link: https://shenzilong.cn/想法/项目/OceanPress_js.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: f36680bc38933650bfbed0c0baef7a7d

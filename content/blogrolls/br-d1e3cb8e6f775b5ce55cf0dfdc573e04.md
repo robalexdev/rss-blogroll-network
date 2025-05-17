@@ -17,6 +17,10 @@ params:
   - title: maya.land
     description: Personal website. Webby personsite. Amateur hour round the clock.
     id: 10bb443e7fc8db3e8611d373e8622da4
+  - title: All activity feed • Cory Dransfeldt
+    description: I'm a software developer in Camarillo, California. I write about
+      software development, technology and music.
+    id: 18d6c6bbccfba324876afe7c8235a6ec
   - title: Reilly Spitzfaden | Blog
     description: A blog about my personal interests, including composition and sound
       design; audio development using Max/MSP, C++, JUCE, and Rust; and web development
@@ -34,6 +38,9 @@ params:
   - title: Joel's Log Files
     description: ""
     id: 2a21b8e739bdf0ebf3a771b247418b2b
+  - title: David Shanske
+    description: The Definitive Location
+    id: 3303315b93707037c1cba69a92a1c93f
   - title: anhvn
     description: personal website
     id: 3f87e5efacb76ccc7d00f56da25c0258
@@ -76,6 +83,9 @@ params:
       es Star Wars. Tendremos discusiones, reseñas y análisis de: las películas, series
       de TV, comics, libros, etc. \n\nSi eres fanatico"
     id: 5eec66bd094398b5931d2b09459fd9b3
+  - title: Posts and notes from Nick Simson
+    description: Nick's personal website and weblog
+    id: 6b75c02e948c792b0be43d468092b9fc
   - title: The Cryptid Factor
     description: Three best buddies - Rhys Darby, Dan Schreiber, and Leon 'Buttons' Kirkbeck bring you The Cryptid Factor 
     id: 7055c3f348abd3fc65a907972b8c4753
@@ -97,9 +107,15 @@ params:
   - title: Simone's Computer
     description: This is the blog of Simone
     id: 7ac2230057907c76a1a0990e47182d17
+  - title: Piper Haywood
+    description: If lost, please return
+    id: 82f77c7961ec7b23a6fb229c20005934
   - title: Al Abut
     description: Writing by Al Abut, a product designer and startup veteran.
     id: 904c82c30c74ce67c472e02addbc47fb
+  - title: 'starbreaker.org: everything'
+    description: a full-text feed containing everything but the kitchen sink
+    id: 90902b21c326769a4dc4d9321d76b3d7
   - title: Manuel Moreale
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
@@ -154,6 +170,9 @@ params:
   - title: Blog posts on Luke's Wild Website
     description: Recent content in Blog posts on Luke's Wild Website
     id: e83dce242e0a7ba1641bd563f13e918c
+  - title: All Posts — gRegorLove.com
+    description: ""
+    id: f1971e84cb23bbec865905236cbb2687
   - title: The Rewatchables
     description: The Rewatchables, a film podcast from the Ringer Podcast Network,
       features The Ringer’s Bill Simmons and a roundtable of movie lovers from the

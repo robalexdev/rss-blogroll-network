@@ -17,27 +17,27 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
   - Apps
-  - Strategic Vision
-  - Website
-  - iPulse
-  - linea sketch
-  - year in review
+  - Miscellaneous
+  - Tapestry
+  - WWDC
+  - merchandise
+  - t-shirt
   relme: {}
-  last_post_title: The Year In Review for 2024
-  last_post_description: As we enter our 29th year in business (holy cow!) we once
-    again turn to look back at where we’ve been and, of course, where we’re headed.
-    This past year has been full of discoveries, challenges,
-  last_post_date: "2024-12-23T19:09:45Z"
-  last_post_link: https://blog.iconfactory.com/2024/12/the-year-in-review-for-2024/
+  last_post_title: New Apparel in Time for WWDC 2025
+  last_post_description: The days are getting longer and everyone’s sleeves are getting
+    shorter, so it’s the perfect time for some new Iconfactory t-shirt designs! We’ve
+    got a couple new Tapestry designs available that
+  last_post_date: "2025-04-14T16:12:24Z"
+  last_post_link: https://blog.iconfactory.com/2025/04/new-apparel-in-time-for-wwdc-2025/
   last_post_categories:
   - Apps
-  - Strategic Vision
-  - Website
-  - iPulse
-  - linea sketch
-  - year in review
+  - Miscellaneous
+  - Tapestry
+  - WWDC
+  - merchandise
+  - t-shirt
   last_post_language: ""
-  last_post_guid: 311d070f852004b32a93d6b134f8b751
+  last_post_guid: beb5aa8f727b5b15a656b5b56ad1c551
   score_criteria:
     cats: 0
     description: 3

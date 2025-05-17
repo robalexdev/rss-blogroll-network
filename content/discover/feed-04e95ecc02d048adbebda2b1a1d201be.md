@@ -1,6 +1,6 @@
 ---
-title: Lars-Christian.com - Posts
-date: "2025-02-23T21:30:18Z"
+title: Lars-Christian's website - Posts
+date: "2025-04-28T20:30:30Z"
 description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: It wasn't always this good
+  last_post_title: 'My mind without stimulants, or: How I''m quitting caffeine'
   last_post_description: ""
-  last_post_date: "2025-02-21T00:00:00Z"
-  last_post_link: https://lars-christian.com/posts/2025-02-21-it-wasnt-always-this-good/
+  last_post_date: "2025-04-16T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2025-04-16-my-mind-without-stimulants-or-how-im-quitting-caffeine/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 27a6595b75db9bd74a3c3d0d83bd0a85
+  last_post_guid: 7ab9646630d7e637677b6f1743388817
   score_criteria:
     cats: 0
     description: 3
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 294
+  avgpostlen: 297
 ---

@@ -9,6 +9,7 @@ params:
   websites:
     https://goodenough.us/: false
     https://goodenough.us/blog/: false
+    https://goodenough.us/lab: false
     https://goodenough.us/lab/: false
   blogrolls: []
   in_blogrolls:

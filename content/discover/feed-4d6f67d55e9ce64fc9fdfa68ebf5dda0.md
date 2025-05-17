@@ -34,8 +34,11 @@ params:
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
   - https://maique.eu/posts_feed
+  - https://www.manton.org/podcast.xml
   - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
+  - https://mastodon.social/tags/mjtsaiupdate.rss
+  - https://mjtsai.com/blog/comments/feed/
   - https://om.co/comments/feed/
   - https://thenewsprint.co/feed
   - https://thingstoclick.com/feed.xml

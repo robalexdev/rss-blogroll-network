@@ -8,6 +8,7 @@ params:
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
     https://mxb.dev/: true
+    https://mxb.dev/notes: false
     https://mxb.dev/notes/: false
   blogrolls: []
   in_blogrolls:
@@ -23,6 +24,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml

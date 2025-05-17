@@ -8,6 +8,7 @@ params:
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
     https://www.pythonmorsels.com/articles/: false
+    https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -37,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,29 +19,38 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - doge
-  - elon musk
-  - preliminary injunction
-  - treasury department
-  - tro
-  - usaid
+  - dea
+  - doj
+  - fbi
+  - hannah dugan
+  - ice
+  - immigration
+  - kash patel
+  - milwaukee county
+  - pam bondi
+  - wisconsin
   relme: {}
-  last_post_title: When It Comes To DOGE, The Hack Is The Harm And Why There Is Harm
-  last_post_description: This post was written on Saturday before news broke that
-    Elon Musk had commanded every single federal employee—including those in the judiciary!—to
-    send a “five things I did last week” email
-  last_post_date: "2025-02-24T17:29:00Z"
-  last_post_link: https://www.techdirt.com/2025/02/24/when-it-comes-to-doge-the-hack-is-the-harm-and-why-there-is-harm/
+  last_post_title: FBI Arrests Wisconsin Judge For Allegedly Obstructing The Arrest
+    Of An Undocumented Immigrant
+  last_post_description: 'Oh hooray. Another part of our new normal under Trump 2.0.
+    Here’s the Milwaukee Journal-Sentinel with the gory details: Milwaukee County
+    Circuit Judge Hannah Dugan was charged April 25 with two'
+  last_post_date: "2025-04-28T20:51:07Z"
+  last_post_link: https://www.techdirt.com/2025/04/28/fbi-arrests-wisconsin-judge-for-allegedly-obstructing-the-arrest-of-an-undocumented-immigrant/
   last_post_categories:
   - "1"
-  - doge
-  - elon musk
-  - preliminary injunction
-  - treasury department
-  - tro
-  - usaid
+  - dea
+  - doj
+  - fbi
+  - hannah dugan
+  - ice
+  - immigration
+  - kash patel
+  - milwaukee county
+  - pam bondi
+  - wisconsin
   last_post_language: ""
-  last_post_guid: f6002f44f241ff91180108e160a4650d
+  last_post_guid: a4f7fd34b8b6195729a863ddd0cfd9ed
   score_criteria:
     cats: 0
     description: 0

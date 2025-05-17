@@ -21,6 +21,9 @@ params:
   - title: Fedora Linux. Тяжелые будни
     description: Мелкие заметки чисто для себя, чтоб не забыть :)
     id: 3b8d2dbf477b198f297cdd6be80e8098
+  - title: Результаты поиска по запросу «[emacs]»
+    description: Результаты поиска по запросу «[emacs]»
+    id: 3d9883f1035f9f711e4d99c4b6975b91
   - title: catap's blog blog posts with tag intersection emacs
     description: ""
     id: 436268def072ad610a747b992717d2a9

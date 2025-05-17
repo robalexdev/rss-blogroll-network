@@ -21,15 +21,19 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Pen
+  last_post_title: Blog moved
   last_post_description: |-
-    Some 30 years ago a teacher forced me to write in block letters.
-    While yes, I have to agree that my handwriting is a marvel in itself (a marvel of ugliness it is), but this has taken away all the joy
-  last_post_date: "2025-02-22T23:04:00+01:00"
-  last_post_link: https://crys.site/blog/2025/pen/
+    I’ll just link the new url here:
+    https://michal.sapka.pl/2025/hello-to-my-new-new-new-blog/
+    There are no redirects yet, as I explain there.
+    Yes, that includes RSS.
+
+            Reply via email
+  last_post_date: "2025-03-28T12:04:00+01:00"
+  last_post_link: https://crys.site/blog/2025/blog-moved/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0315d6a6bacf6881454d893693b34a3a
+  last_post_guid: 6f7e2e555d8c87421d4dea4aad2c0095
   score_criteria:
     cats: 0
     description: 3

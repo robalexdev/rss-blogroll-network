@@ -18,17 +18,17 @@ params:
   - fast-reading
   - 医学与生物学
   relme: {}
-  last_post_title: 前沿快讯 第67期 大规模多语言和多模态机器翻译系统等
+  last_post_title: 前沿快讯 第70期 套索肽抗生素拉里奥西丁及其衍生物具有广谱抗菌活性等
   last_post_description: |-
     Bensz
-    前沿快讯 第67期
-  last_post_date: "2025-01-19T11:57:25Z"
-  last_post_link: https://blognas.hwb0307.com/medicine/6295
+    前沿快讯 第70期
+  last_post_date: "2025-03-30T14:17:34Z"
+  last_post_link: https://blognas.hwb0307.com/medicine/6351
   last_post_categories:
   - fast-reading
   - 医学与生物学
   last_post_language: ""
-  last_post_guid: a58c9efc333c8ff923554b2ac7d4299d
+  last_post_guid: 046d7e35d09905c95aa00d217f63bfae
   score_criteria:
     cats: 0
     description: 3

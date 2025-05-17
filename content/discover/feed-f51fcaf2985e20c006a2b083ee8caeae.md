@@ -7,8 +7,7 @@ params:
   feedlink: https://www.jackpu.com/rss/
   feedtype: rss
   feedid: f51fcaf2985e20c006a2b083ee8caeae
-  websites:
-    https://www.jackpu.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -18,37 +17,34 @@ params:
   recommender: []
   categories:
   - "2025"
-  - react
-  - web
+  - Life
   relme: {}
-  last_post_title: useState 设置为函数类型时候需要注意的点
-  last_post_description: |-
-    自己最近在一次重构中，尝试给予一个 state 为一个 class 的时候，却发现抛出了无法 new 的异常。
-    import React, { useState } from "react";
-    import A from './A'
-
-    const
-  last_post_date: "2025-02-14T02:28:31Z"
-  last_post_link: https://www.jackpu.com/usestate-she-zhi-wei-han-shu-lei-xing-shi-hou-xu-yao-zhu-yi-de-dian/
+  last_post_title: 五一碎碎念
+  last_post_description: !!binary |
+    5LuK5bm05LqU5LiA6L+H5b6X54m55Yir5b+r77yM5Y+v6IO95piv5Zug5Li66Ieq5bex5p
+    +T55a+5LqG77yM5Zyo5a625aS05Lik5aSp5bCx6Lq65bmz5LqG44CCCuaIkeiusOW+l+aI
+    keaYr+WRqOS6lOS4i+WNiOW8gOWni+inieW+l+iFv+mDqOacieS6m+mFuO+8jOaIkeaJje
+    aYr+S7peS4uuaYr+WJjeS4gOWkqei3keatpe+8jOaLieS8uOS4jeWkn+M=
+  last_post_date: "2025-05-09T05:45:21Z"
+  last_post_link: https://www.jackpu.com/wu-yi-sui-sui-nian/
   last_post_categories:
   - "2025"
-  - react
-  - web
+  - Life
   last_post_language: ""
-  last_post_guid: 5d01623b599685930ad0e7785990ee6a
+  last_post_guid: f3e35f53c9b01c0b486d82a56f283a3a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,14 +1,12 @@
 ---
 title: Andy Bell
-date: "2025-02-08T09:56:42Z"
+date: "2025-04-22T19:38:30Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
   feedtype: atom
   feedid: c8acc64f2c073b44e9ec2d6e4ff9ca20
-  websites:
-    https://andy-bell.co.uk/: false
-    https://bell.bz/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -19,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Love newsletters? You’re gonna love RSS
+  last_post_title: I think I need to change my attitude towards webrings
   last_post_description: ""
-  last_post_date: "2025-02-08T09:56:42Z"
-  last_post_link: https://andy-bell.co.uk/love-newsletters-youre-gonna-love-rss
+  last_post_date: "2025-04-22T19:38:30Z"
+  last_post_link: https://bell.bz/i-think-i-need-to-change-my-attitude-towards-webrings
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5479c9f54c61412b9d2a06397d8a651e
+  last_post_guid: 11feee00d383de816caf134b588baa73
   score_criteria:
     cats: 0
     description: 0
@@ -37,12 +35,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 3
-  avgpostlen: 295
+  avgpostlen: 296
 ---

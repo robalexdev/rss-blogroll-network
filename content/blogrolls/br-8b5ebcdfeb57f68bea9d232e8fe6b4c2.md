@@ -6,6 +6,9 @@ params:
   link: https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Cryptography.opml
   blogroll_id: 8b5ebcdfeb57f68bea9d232e8fe6b4c2
   recommends:
+  - title: The Trail of Bits Blog
+    description: Recent content on The Trail of Bits Blog
+    id: 2a93e0bd1c8b872d3cbf1f104cc403ae
   - title: Tim Taubert
     description: ""
     id: 4ae1c0d993d1187120902c21a4c3b86d
