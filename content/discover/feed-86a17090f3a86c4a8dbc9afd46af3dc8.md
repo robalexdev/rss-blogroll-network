@@ -145,6 +145,7 @@ params:
   - yield
   relme:
     https://pyright.blogspot.com/: true
+    https://www.blogger.com/profile/12363048245012413049: true
   last_post_title: DAG Hamilton Graph Presented as SVG in Blogger
   last_post_description: Through the kindness of the DAG Hamilton project team, I
     was able to secure an official svg version of the DAG Hamilton logo. It looks

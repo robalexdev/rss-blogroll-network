@@ -27,6 +27,8 @@ params:
   - tutorials
   relme:
     https://python-academy.blogspot.com/: true
+    https://pythonification.blogspot.com/: true
+    https://www.blogger.com/profile/15418113987963668896: true
   last_post_title: Learn Python and SQLAlchemy in Antwerp, Belgium
   last_post_description: ""
   last_post_date: "2012-10-24T03:44:08-07:00"

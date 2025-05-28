@@ -339,6 +339,9 @@ params:
   - title: MDA4eclipse - by Etienne Juliot
     description: ""
     id: 59543f36be59ee99735d17b9d4b12ea4
+  - title: Paul Buck's blog
+    description: ""
+    id: 599c2c9384a3c833c3818b6ac01ad1f4
   - title: Nirmal's Blog
     description: Burn your eyes
     id: 5a9f412890524877ccc831299132f082
@@ -433,6 +436,10 @@ params:
   - title: Benoit Langlois
     description: ""
     id: 76e46717e765c84074b2904941710d73
+  - title: Eclipse Ditto Blog
+    description: Announcements, tutorials and examples around Eclipse Ditto and Digital
+      Twins
+    id: 78325d243f9f9522f0e2f29f15265b26
   - title: CEO @ Obeo
     description: ""
     id: 7859d2aa829b6f53aa72b4326c8dc5c3

@@ -18,7 +18,9 @@ params:
   categories:
   - asyncore asynchat threading
   relme:
+    https://hmemor.blogspot.com/: true
     https://willpython.blogspot.com/: true
+    https://www.blogger.com/profile/07787752537023885656: true
   last_post_title: '"top" in an animated GIF'
   last_post_description: ""
   last_post_date: "2013-03-10T17:25:12-04:00"

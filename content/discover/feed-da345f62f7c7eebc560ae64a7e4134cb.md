@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2024-08-30T10:28:14-04:00"
+date: "2025-05-27T14:32:59-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -15,12 +15,15 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - "1889"
   - 1960s
   - 1970s
   - 1980s
+  - 2300ad
   - 2e
   - 3e
   - 4e
@@ -49,6 +52,7 @@ params:
   - ahmed
   - albie fiore
   - alehouse
+  - aliens
   - alignment
   - allston
   - anagrams
@@ -97,6 +101,7 @@ params:
   - braunstein
   - brave halfling
   - breig
+  - brom
   - brooks
   - brown
   - brp
@@ -166,18 +171,22 @@ params:
   - demons
   - derleth
   - dever
+  - dgp
   - dice
   - dietrick
   - different worlds
   - disney
+  - distinctives
   - diterlizzi
   - ditko
   - diy rpg
   - do it yourself
   - doc smith
+  - dolmenwood
   - donaldson
   - doyle
   - dragon magazine
+  - dragonbane
   - dragonlance
   - dragonquest
   - dragons
@@ -228,6 +237,7 @@ params:
   - frog god games
   - future of gaming
   - gamebooks
+  - gameholecon
   - gamelords
   - games workshop
   - gamescience
@@ -368,6 +378,8 @@ params:
   - mayle
   - mccaffrey
   - mckinney
+  - mclean
+  - mcwilliams
   - megadungeon
   - megarry
   - mehlem
@@ -415,6 +427,7 @@ params:
   - mörk borg
   - naturalism
   - necromancer games
+  - nesmith
   - new infinities
   - newport
   - news
@@ -468,6 +481,7 @@ params:
   - petty gods
   - pied piper publishing
   - planes
+  - planescape
   - planet stories
   - podcast
   - poe
@@ -538,11 +552,13 @@ params:
   - simbalist
   - sine nomine
   - skills
+  - slack
   - snarfquest
   - snider
   - snw
   - soapbox games
   - software
+  - solo
   - solomon kane
   - space gamer
   - space opera
@@ -651,32 +667,38 @@ params:
   - zothique
   relme:
     https://grognardia.blogspot.com/: true
-  last_post_title: 'Level Titles: Beyond D&D'
+    https://www.blogger.com/profile/00341941102398271464: true
+  last_post_title: 'Campaign Updates: Reckonings'
   last_post_description: ""
-  last_post_date: "2024-08-30T00:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2024/08/level-titles-beyond-d.html
+  last_post_date: "2025-05-27T12:00:00-04:00"
+  last_post_link: https://grognardia.blogspot.com/2025/05/campaign-updates-reckonings.html
   last_post_categories:
-  - character classes
+  - barrett's raiders
+  - campaigns
+  - dolmenwood
   - ept
-  - gangbusters
-  - level
-  - top secret
-  - tsr
+  - house of worms
+  - t2k
+  - tekumel
   last_post_language: ""
-  last_post_guid: 0db69a8f2fad1d8c5b8a1f6aa7aa390b
+  last_post_guid: 0e1fe1c685c2b6a2ce577201ee9992e6
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 295
 ---

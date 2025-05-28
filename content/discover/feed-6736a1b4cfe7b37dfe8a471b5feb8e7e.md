@@ -15,9 +15,7 @@ params:
     id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
-  - https://roytang.net/all/feed/rss
-  - https://roytang.net/blog/feed/rss
-  - https://roytang.net/index.xml
+  - https://roytang.net/blog/feed/rss/
   categories: []
   relme: {}
   last_post_title: The Green Ray
@@ -33,15 +31,19 @@ params:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 10
+  avgpostlen: 0
 ---

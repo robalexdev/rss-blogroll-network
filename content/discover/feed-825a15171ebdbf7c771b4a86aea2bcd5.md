@@ -27,6 +27,7 @@ params:
   - python
   - shader
   relme:
+    https://draft.blogger.com/profile/09131446473176959067: true
     https://eatthedots.blogspot.com/: true
   last_post_title: The Power to do it Wrong
   last_post_description: ""

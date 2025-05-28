@@ -17,6 +17,9 @@ params:
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
     id: a5055187291ff08d5f2ce7e9d27f78cb
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
@@ -25,6 +28,7 @@ params:
   - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
+  - https://roytang.net/blog/feed/rss/
   categories: []
   relme:
     https://phire.place/@vasta: true

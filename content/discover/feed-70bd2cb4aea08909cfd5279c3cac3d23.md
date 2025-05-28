@@ -16,6 +16,9 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   - title: Kev Quirk's Blogroll
     description: ""
+    id: af94d85e509bec272bc4314eb947a67d
+  - title: Kev Quirk's Blogroll
+    description: ""
     id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
@@ -24,6 +27,7 @@ params:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed

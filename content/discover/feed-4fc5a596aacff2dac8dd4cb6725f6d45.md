@@ -15,31 +15,37 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: 'Re-inventing the Wilderness: Part 6 - Landmarks'
-  last_post_description: In this blog series, I will dissect the spatial elements
-    of wilderness environments and explore how tabletop-friendly prep and mechanics
-    could be leveraged to revise exploration procedures. If
-  last_post_date: "2024-06-15T18:37:30Z"
-  last_post_link: https://sachagoat.blot.im/re-inventing-the-wilderness-part-6-landmarks
+  last_post_title: BLOGGIES 2024 Concludes!
+  last_post_description: |-
+    The Bloggies 2024 have come to a close, and what an incredible celebration of TTRPG blogging it has been! A phenomenal range of talent, creativity, and passion across all categories.
+    Over the past
+  last_post_date: "2025-02-02T21:07:06Z"
+  last_post_link: https://sachagoat.blot.im/bloggies-2024-concludes
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d46f07c8495ffc105c9523383106ab8
+  last_post_guid: bc3e823eb566f84fb688a5ee740ebed1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 9
+  avgpostlen: 0
 ---

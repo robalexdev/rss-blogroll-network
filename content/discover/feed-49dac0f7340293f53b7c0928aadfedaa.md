@@ -20,7 +20,12 @@ params:
   categories:
   - Technology
   relme:
+    https://fosstodon.org/@mkennedy: true
+    https://fosstodon.org/@talkpython: true
+    https://github.com/mikeckennedy: true
+    https://mkennedy.codes/: true
     https://talkpython.fm/: true
+    https://training.talkpython.fm/: true
   last_post_title: '#502: Django Ledger: Accounting with Python'
   last_post_description: |-
     Miguel Sanda on Twitter: @elarroba

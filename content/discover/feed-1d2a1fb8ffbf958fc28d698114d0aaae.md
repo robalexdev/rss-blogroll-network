@@ -1,6 +1,6 @@
 ---
 title: Plundergrounds Podcast
-date: "2024-02-06T18:59:32-08:00"
+date: "2024-09-25T14:01:51-07:00"
 description: Notes and links for the Plundergrounds podcast, appearing at least once
   weekly since September 2018.
 params:
@@ -16,11 +16,18 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - Gygax 75 Challenge
   relme:
+    https://jellysawgames.blogspot.com/: true
     https://plundergrounds.blogspot.com/: true
+    https://radiorevival.blogspot.com/: true
+    https://raysreading.blogspot.com/: true
+    https://viridianscroll.blogspot.com/: true
+    https://www.blogger.com/profile/18398394072713660199: true
   last_post_title: 164 Revisiting Logic in Fantasy
   last_post_description: ""
   last_post_date: "2020-12-16T07:54:49-08:00"
@@ -32,15 +39,19 @@ params:
     cats: 1
     description: 3
     feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 216
 ---

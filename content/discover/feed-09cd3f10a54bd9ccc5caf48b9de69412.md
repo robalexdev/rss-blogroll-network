@@ -77,16 +77,16 @@ params:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 16 May 2025 at 08:40 - When your kid is like Dad I
-    made you a..."
-  last_post_description: "When your kid is like \"Dad, I made you a present. It's
-    a poo!\"Cheers, son. \U0001F4A9\n            \n            Thanks for reading
-    this post via RSS. RSS is great, and you're great for using it. ❤️\n    "
-  last_post_date: "2025-05-16T08:40:00Z"
-  last_post_link: https://kevquirk.com/notes/20250516-0840
+  last_post_title: "\U0001F4DD 27 May 2025 at 14:32 - Youngest pointing to a sign
+    that says Chiropodist daaaad what..."
+  last_post_description: "Youngest: [pointing to a sign that says \"Chiropodist\"]
+    daaaad, what does that say?Me: That says \"shi-rop-oh-dist\".Me: it's someone
+    who looks after people's feet.Him: Random...\n            \n          "
+  last_post_date: "2025-05-27T14:35:00Z"
+  last_post_link: https://kevquirk.com/notes/20250527-1432
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 19a2e9cf73724406b4b378d2ded3614c
+  last_post_guid: 323147891f600d0587d28b8053e64a0a
   score_criteria:
     cats: 0
     description: 3

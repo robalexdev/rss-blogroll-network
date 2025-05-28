@@ -22,14 +22,15 @@ params:
   relme:
     https://mastodon.social/@publicdomainrev: true
     https://publicdomainreview.org/: true
-  last_post_title: What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)
-  last_post_description: Underwater photographs that try to capture the world from
-    a fish’s perspective.
-  last_post_date: "2025-02-18T15:54:00Z"
-  last_post_link: https://publicdomainreview.org/collection/fish-eye-view-photography
+  last_post_title: 'The Old, Old, Very Old Man: Thomas Parr and the Longevity Trade'
+  last_post_description: As the story goes, Old Tom Parr was relatively healthy for
+    being 152 until a visit to noxious, polluted London in 1635 cut his long life
+    short. Katherine Harvey investigates the early modern claims
+  last_post_date: "2025-05-21T14:16:00Z"
+  last_post_link: https://publicdomainreview.org/essay/the-old-old-very-old-man
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 46a1539d9d9bd6aced2ccc97d68612f0
+  last_post_guid: 2c3be3e99dbe2bbc786e96ab4c5a4903
   score_criteria:
     cats: 0
     description: 3

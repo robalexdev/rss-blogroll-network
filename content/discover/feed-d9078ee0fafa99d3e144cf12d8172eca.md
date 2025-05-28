@@ -10,11 +10,15 @@ params:
     https://randsinrepose.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 9a988b678bcc9cdb383ef996387855af
   - title: Ruben Arakelyan's blogroll
     description: ""
     id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
+  - https://roytang.net/blog/feed/rss/
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
   - The Important Thing

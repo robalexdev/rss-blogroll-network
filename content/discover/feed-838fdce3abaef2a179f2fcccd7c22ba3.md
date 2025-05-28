@@ -17,6 +17,9 @@ params:
     id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Kev Quirk's Blogroll
     description: ""
+    id: af94d85e509bec272bc4314eb947a67d
+  - title: Kev Quirk's Blogroll
+    description: ""
     id: d3c6398765901e01429e7ceffd5164f1
   - title: ""
     description: ""
@@ -25,6 +28,7 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
+  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed

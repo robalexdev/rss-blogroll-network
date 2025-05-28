@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: ce35da4b42d04134d6dcbb9b5f6059ff
   websites:
-    https://www.my-it-brain.de/wordpress: true
+    https://www.my-it-brain.de/wordpress/: false
   blogrolls: []
   in_blogrolls:
   - title: planet.debianforum.de
@@ -16,40 +16,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ansible
-  - Ansible Collection
-  - Ansible Molecule
+  - Linux
   - Planet
   - osbn
-  relme:
-    https://www.my-it-brain.de/wordpress: true
-  last_post_title: Meine zweite Ansible Collection
-  last_post_description: Dies ist ein Erfahrungsbericht zur Migration meiner Ansible-Rolle
-    „Nextcloud im Container“ in eine Ansible Collection. Er umfasst die Migration
-    der bestehenden Rolle und die Ergänzung der neuen
-  last_post_date: "2024-08-19T05:00:00Z"
-  last_post_link: https://www.my-it-brain.de/wordpress/meine-zweite-ansible-collection/
+  - swap
+  relme: {}
+  last_post_title: Linux-Server mit oder ohne Swap-Partition bereitstellen?
+  last_post_description: Wir schreiben das Jahr 2025. Die Frage, ob man Linux-Server
+    mit oder ohne Swap-Partition betreiben sollte, spaltet die Linux-Gemeinschaft
+    in einer Weise, wie wir es seit dem Editor War nicht mehr
+  last_post_date: "2025-05-26T05:00:00Z"
+  last_post_link: https://www.my-it-brain.de/wordpress/linux-server-mit-oder-ohne-swap-partition-bereitstellen/
   last_post_categories:
-  - Ansible
-  - Ansible Collection
-  - Ansible Molecule
+  - Linux
   - Planet
   - osbn
+  - swap
   last_post_language: ""
-  last_post_guid: 3af63c12445e6d49686e5055ec436e8c
+  last_post_guid: 73b536a3c13f9c0de18583a5f740d1e6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
+    website: 1
   score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: de
+  postcount: 10
+  avgpostlen: 0
 ---
