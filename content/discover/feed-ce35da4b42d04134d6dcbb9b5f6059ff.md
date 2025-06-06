@@ -7,6 +7,8 @@ params:
   feedtype: rss
   feedid: ce35da4b42d04134d6dcbb9b5f6059ff
   websites:
+    https://www.my-it-brain.de/: false
+    https://www.my-it-brain.de/wordpress: true
     https://www.my-it-brain.de/wordpress/: false
   blogrolls: []
   in_blogrolls:
@@ -20,7 +22,8 @@ params:
   - Planet
   - osbn
   - swap
-  relme: {}
+  relme:
+    https://www.my-it-brain.de/wordpress: true
   last_post_title: Linux-Server mit oder ohne Swap-Partition bereitstellen?
   last_post_description: Wir schreiben das Jahr 2025. Die Frage, ob man Linux-Server
     mit oder ohne Swap-Partition betreiben sollte, spaltet die Linux-Gemeinschaft
@@ -43,10 +46,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
