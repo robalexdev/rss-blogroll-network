@@ -12,6 +12,9 @@ params:
     https://gutenbergtimes.com/series/gutenberg-changelog/: false
   blogrolls: []
   in_blogrolls:
+  - title: Planet FAIR
+    description: ""
+    id: 05c9cdd128a6bc13df2f70cc6e60e91a
   - title: WordPress Planet
     description: ""
     id: c8f6d92430a541485f160ef920ae0896

@@ -17,9 +17,9 @@ params:
   categories: []
   relme: {}
   last_post_title: The open calendar, task and note space is a mess
-  last_post_description: The last few weeks Iâ€™ve been looking into the open calendar,
+  last_post_description: The last few weeks I’ve been looking into the open calendar,
     tasks and notes space with the goal of finding or building a privacy-conscious
-    and still practical system. This post is an
+    and still practical system. This post is an exploration
   last_post_date: "2021-03-10T11:00:00+01:00"
   last_post_link: https://stevenvanbael.com/open-calendar-task-space-is-a-mess
   last_post_categories: []

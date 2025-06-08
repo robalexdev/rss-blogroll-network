@@ -50,6 +50,8 @@ feed_urls:
   - https://www.lysator.liu.se/planet/opml.xml
   - https://www.planetpuppet.org/opml.xml
   - https://fdroid.gitlab.io/planet/opml.xml
+  - https://planet.fair.pm/opml.xml
+  - https://planet.webkit.org/opml.xml
 
   # Linux
   - https://planet.linux.it/ils/opml.xml
