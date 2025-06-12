@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: kube-proxy源码分析
-  last_post_description: 本文主要是对kube-proxy的源码分析，了解其代码结构和实现原理。这里是根据kubernetes1.23
-  last_post_date: "2024-01-18T16:43:23Z"
-  last_post_link: https://www.zhengwenfeng.com/pages/6e0045/
+  last_post_title: golang高性能编程之协程池
+  last_post_description: goroutine
+  last_post_date: "2025-06-09T20:07:50Z"
+  last_post_link: https://www.zhengwenfeng.com/pages/d2c214/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 50e708954d1eb7880f1c7d1b5239fc31
+  last_post_guid: e24dea62cf70b53c80f7bca52faf345f
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: A dose of logic
-date: "2024-10-24T12:41:16+02:00"
+date: "2025-05-13T18:38:10+02:00"
 description: A blag containing my current adventures in logic, haskell and agents.
 params:
   feedlink: https://www.blogger.com/feeds/8387731529560364137/posts/default

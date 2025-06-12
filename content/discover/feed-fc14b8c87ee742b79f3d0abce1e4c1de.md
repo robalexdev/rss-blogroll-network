@@ -1,6 +1,6 @@
 ---
 title: theatre of noise
-date: "2025-04-28T14:17:53+01:00"
+date: "2025-06-09T13:33:18+01:00"
 description: Reviews, comments, rants. By Robin Parmar.
 params:
   feedlink: https://www.theatreofnoise.com/feeds/posts/default/-/dev

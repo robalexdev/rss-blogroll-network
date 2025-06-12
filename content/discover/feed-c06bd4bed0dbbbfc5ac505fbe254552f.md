@@ -134,6 +134,7 @@ params:
   - https://www.goodreads.com/review/list_rss/11559548
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
+  - https://birming.com/feed.xml
   - https://birming.com/feed/
   - https://birming.com/feed/?type=rss
   - https://bmcr.brynmawr.edu/comments/feed/
@@ -169,6 +170,8 @@ params:
   - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
@@ -202,26 +205,28 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
   categories:
-  - book log
-  - book review
-  - reading journal
-  - reading tracker
+  - dreams
+  - learning
+  - memories
+  - reflection
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: "\U0001F4DA Books: LOG: Yellowface by Rebecca F. Kuang"
-  last_post_description: Ok... I might just want to take this on the trip... haha
-  last_post_date: "2025-04-26T00:00:00Z"
-  last_post_link: https://marisabel.nl/library/log.php?id=655903
+  last_post_title: "\U0001F4DD Blog Post: The Sensation of Change"
+  last_post_description: This is a concept that has fascinated me since I’ve been
+    conscious. Coming from a culture where dreams are an important part of emotional
+    well-being, I was taught to always pay attention to my
+  last_post_date: "2025-06-10T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/The_Sensation_of_Change
   last_post_categories:
-  - book log
-  - book review
-  - reading journal
-  - reading tracker
+  - dreams
+  - learning
+  - memories
+  - reflection
   last_post_language: ""
-  last_post_guid: 833d1ddce28d3cbea933c7fff62049e3
+  last_post_guid: 71f87a5376d8883366feea158e6388e2
   score_criteria:
     cats: 0
     description: 3

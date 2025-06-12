@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-04-16T02:03:36Z"
+date: "2025-06-11T22:01:55Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -20,15 +20,16 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'CSS Custom Properties vs. Sass Variables: A Pragmatic Guide'
-  last_post_description: I used to use Sass a lot — especially when I was working
-    on extremely complicated CSS codebases as a consultant. Sass definitely is not
-    "dead" either — tech doesn't die, it's 1s and 0s — it's
-  last_post_date: "2025-04-15T10:55:00Z"
-  last_post_link: https://piccalil.li/links/css-custom-properties-vs-sass-variables-a-pragmatic-guide/?ref=main-rss-feed
+  last_post_title: Sticky revealing footer
+  last_post_description: |-
+    Let me break down some bits that we covered in the video for you.
+    In order to make the footer sit below the <main> element — and any other siblings — we need to make sure its z-index wins.
+    By
+  last_post_date: "2025-06-09T10:55:00Z"
+  last_post_link: https://piccalil.li/blog/sticky-revealing-footer/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6294355ab5963b9cda873b9373b47a97
+  last_post_guid: 93d6233683497fb5c13c76653558f521
   score_criteria:
     cats: 0
     description: 3

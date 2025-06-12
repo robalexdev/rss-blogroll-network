@@ -36,13 +36,13 @@ params:
   - https://kevquirk.com/posts-feed
   categories: []
   relme: {}
-  last_post_title: Yes, I will have coffee with you
-  last_post_description: On meeting up in meatspace
-  last_post_date: "2025-04-14T11:49:11Z"
-  last_post_link: https://herman.bearblog.dev/coffee/
+  last_post_title: Nerding out about heaters
+  last_post_description: Keeping warm in the winter
+  last_post_date: "2025-05-28T10:05:00Z"
+  last_post_link: https://herman.bearblog.dev/heaters/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 787f6dae72783f0b946c1b56112f6b70
+  last_post_guid: aa2e122bbba5770146fa4d06e3348d18
   score_criteria:
     cats: 0
     description: 3

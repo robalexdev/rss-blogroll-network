@@ -19,19 +19,15 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Maybe almost hopefully time'
-  last_post_description: |-
-    I got clover! For my yard! It's maybe almost hopefully time for Spring!
-    --
-    Winner, winner, lab-made dinner! Team grows nugget-sized chicken chunk
-    Delish!
-    Bring Back RSS Feeds to Browsers
-    Co-signed
-  last_post_date: "2025-04-24T00:45:54Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-maybe-almost-hopefully-time/
+  last_post_title: '[SC 2.4.4] It''s nice to be out'
+  last_post_description: "I'm in Toronto for a work function. It's nice to be out
+    of the States and seeing my coworkers in the flesh, but I also can't stop doomscrolling
+    about the ongoing horrors. \n\nPassword Basket\nThis is"
+  last_post_date: "2025-06-12T02:26:04Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-its-nice-to-be-out/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 546de6c1c3ffcd8419d432aba3b1db2e
+  last_post_guid: 7951fcb8e92c132225acbcd5f9a79972
   score_criteria:
     cats: 0
     description: 3

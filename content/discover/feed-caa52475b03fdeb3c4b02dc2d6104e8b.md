@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2025-04-28T17:03:31-04:00"
+date: "2025-06-11T23:24:45-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -75,27 +75,34 @@ params:
   - https://www.macstories.net/?feed=articles-only
   recommender: []
   categories:
-  - fediverse
-  - indieweb
-  - infosec
+  - blog
+  - coffee
+  - life
   relme:
     https://github.com/shellsharks: true
     https://infosec.exchange/@shellsharks: true
     https://mastodon.social/@sass: true
     https://shellsharks.com/: true
     https://shellsharks.social/@shellsharks: true
-  last_post_title: Scroll tredecim
-  last_post_description: Welcome to volume thirteen of Scrolls, a newsletter for sharing
-    cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. In this edition,
-    we take part in the web revival, focus on Fedi
-  last_post_date: "2025-04-28T16:37:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2025-04-28
+  last_post_title: Brewlog
+  last_post_description: |-
+    A place for me to keep record of my (coffee) cold brews. I’m no coffee tasting expert, but will add some notes as I go! ☕️
+
+
+
+    Brew Logs
+
+    Townsman
+    Roaster: Loan Oak Coffee Co.
+    Variety:
+  last_post_date: "2025-05-19T10:10:00-04:00"
+  last_post_link: https://shellsharks.com/brewlog
   last_post_categories:
-  - fediverse
-  - indieweb
-  - infosec
+  - blog
+  - coffee
+  - life
   last_post_language: ""
-  last_post_guid: 069bac6f0ae302e9b0777fdadc46795c
+  last_post_guid: 9ad4f7144516883bbb5c16328d864cc3
   score_criteria:
     cats: 0
     description: 3

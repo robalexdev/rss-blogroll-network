@@ -1,6 +1,6 @@
 ---
 title: libsigsegv - News
-date: "2021-01-16T23:16:15Z"
+date: "2025-04-28T16:46:39Z"
 description: ""
 params:
   feedlink: https://savannah.gnu.org/news/atom.php?group=libsigsegv
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: libsigsegv 2.13 is released
+  last_post_title: GNU libsigsegv 2.15 is released
   last_post_description: ""
-  last_post_date: "2021-01-16T23:14:29Z"
-  last_post_link: https://savannah.gnu.org/news/?id=9882
+  last_post_date: "2025-04-28T16:45:22Z"
+  last_post_link: https://savannah.gnu.org/news/?id=10761
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ed517fadba430f67ab4504d70dcf271
+  last_post_guid: e1b39bcb35d4405ac59ca757bdb5bc1e
   score_criteria:
     cats: 0
     description: 0

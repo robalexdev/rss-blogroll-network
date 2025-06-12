@@ -35,15 +35,15 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Peruvian cyberpunk with Gustaffo Vargas
-  last_post_description: Those scoundrelly Hosts are joined by the far more wholesome,
-    lovely, and massively talented cyber-graphic-novel-creator, Gustaffo Vargas, for
-    a brilliant deep dive into the world of Peruvian
-  last_post_date: "2025-04-27T08:00:00+01:00"
+  last_post_title: Season finale!! Ghost In The Shell (2017 live action movie)
+  last_post_description: Season two of Hosts In The Shell lurches, careens and, erm,
+    clatters to the end of another rollercoaster run! It's just Matt and Jon to close
+    it out, revisiting their main inspiration and beloved
+  last_post_date: "2025-05-25T07:00:00+01:00"
   last_post_link: https://hostsintheshell.buzzsprout.com/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 22b494d33aa4e9ef8e00a4d4a60367ee
+  last_post_guid: 2cc39106c8b43c9410803cacfff1a322
   score_criteria:
     cats: 1
     description: 3

@@ -10,7 +10,7 @@ params:
     https://www.domaintools.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -18,16 +18,17 @@ params:
   categories:
   - Podcast
   relme: {}
-  last_post_title: 'DFIRside Chat: Lessons from the Frontlines of Incident Response'
-  last_post_description: In Part 1 of this special two-part panel, the Breaking Badness
-    podcast gathers leading cybersecurity experts to explore the foundations of DFIR
-    – Digital Forensics and Incident Response.
-  last_post_date: "2025-04-16T14:27:41Z"
-  last_post_link: https://www.domaintools.com/resources/podcasts/dfirside-chat-lessons-from-the-frontlines-of-incident-response/
+  last_post_title: 'Inside Ransomware’s Supply Chain: Attribution, Rebrands, and Affiliate
+    Betrayal'
+  last_post_description: In this episode of Breaking Badness, we sit down with Raji
+    Vannianathan, a cybersecurity leader at Microsoft driving the charge on AI security
+    and safety.
+  last_post_date: "2025-06-11T19:39:42Z"
+  last_post_link: https://www.domaintools.com/resources/podcasts/inside-ransomwares-supply-chain-attribution-rebrands-and-affiliate-betrayal/
   last_post_categories:
   - Podcast
   last_post_language: ""
-  last_post_guid: abe7cf23089759101b54471b240815e5
+  last_post_guid: 593f275b0c9f1a8c418f296e0bc0ce8d
   score_criteria:
     cats: 0
     description: 3

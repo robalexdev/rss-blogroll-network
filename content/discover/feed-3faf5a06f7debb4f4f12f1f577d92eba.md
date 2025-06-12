@@ -16,30 +16,34 @@ params:
   recommender: []
   categories:
   - General
+  - announcement
+  - front-page
   relme: {}
-  last_post_title: Celebrating community contributions
-  last_post_description: The Launchpad project is almost 21 years old! Many people
-    have contributed to the project over this lifetime, and we are thankful for all
-    of them. We understand the value of a strong community and we
-  last_post_date: "2025-04-25T14:35:23Z"
-  last_post_link: https://blog.launchpad.net/general/celebrating-community-contributions
+  last_post_title: Phasing out Bazaar code hosting
+  last_post_description: What is Bazaar code hosting? Bazaar is a distributed revision
+    control system, originally developed by Canonical. It provides similar functionality
+    compared to the now dominant Git. Bazaar code
+  last_post_date: "2025-06-06T09:26:22Z"
+  last_post_link: https://blog.launchpad.net/general/phasing-out-bazaar-code-hosting
   last_post_categories:
   - General
+  - announcement
+  - front-page
   last_post_language: ""
-  last_post_guid: 211e527f1d63645d6c3ad4477dfe9a90
+  last_post_guid: 05e747ba5d0d13964946408fec055098
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

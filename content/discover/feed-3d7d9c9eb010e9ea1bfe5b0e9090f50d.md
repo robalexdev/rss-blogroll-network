@@ -1,6 +1,6 @@
 ---
 title: Muxup
-date: "2025-02-27T12:00:00Z"
+date: "2025-05-12T12:00:00Z"
 description: Adventures in collaborative open source development
 params:
   feedlink: https://muxup.com/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ccache for LLVM builds across multiple directories
+  last_post_title: suite-helper
   last_post_description: ""
-  last_post_date: "2025-02-27T12:00:00Z"
-  last_post_link: https://muxup.com/2025q1/ccache-for-llvm-builds-across-multiple-directories
+  last_post_date: "2025-05-12T12:00:00Z"
+  last_post_link: https://muxup.com/suite-helper
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6cc19e5b274f3eea3b3bea81d598765b
+  last_post_guid: 177c6896e73a059eb047a0a597baf84f
   score_criteria:
     cats: 0
     description: 3

@@ -33,16 +33,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: When someone cuts down a tree, somebody else has to plant a new
-    one
+  last_post_title: Summer vacation
   last_post_description: |-
-    My favorite conversations with Zoya all seem to happen on our early morning walks to the bus stop.
-    It is during those walks that she is most wide-eyed, taking in the outside world for the first time
-  last_post_date: "2025-04-02T15:20:00-04:00"
-  last_post_link: https://www.inthemargins.ca/restore-recover-rebuild
+    We are planning a summer vacation. The big plans—flights, accommodation, transport—have been sorted out. What’s left is the smaller things: activities and meals, mostly.
+    Trip planning is
+  last_post_date: "2025-05-29T17:24:00-04:00"
+  last_post_link: https://www.inthemargins.ca/summer-vacation
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 505d08ea27d6208e9d90517682a18cd0
+  last_post_guid: 252014653e0bcb28dda8dd79adbac9a2
   score_criteria:
     cats: 0
     description: 3

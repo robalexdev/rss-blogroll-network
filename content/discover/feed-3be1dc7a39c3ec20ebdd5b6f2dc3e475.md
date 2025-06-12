@@ -10,22 +10,23 @@ params:
     https://blog.reveng.ai/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'LummaStealer: More Tricks, More Trouble - Part 2'
-  last_post_description: Executive SummaryIn February 2025, the RevEngAI team observed
-    an ongoing LummaStealer campaign that employed a distinct approach compared to
-    the ClickFix method detailed in the previous instalment of
-  last_post_date: "2025-03-05T14:00:40Z"
-  last_post_link: https://blog.reveng.ai/lummastealer-more-tricks-more-trouble-part-2/
+  last_post_title: 'Automating String Decoding in Malware: Analysing StealC V1 with
+    IDAPython'
+  last_post_description: Reverse engineering malware often feels like solving a puzzle
+    where half the pieces are hidden. Among the most common obstacles analysts face
+    is string obfuscation—a technique where malware authors
+  last_post_date: "2025-06-04T12:54:52Z"
+  last_post_link: https://blog.reveng.ai/automating-string-decoding-in-malware-analysing-stealc-v1-with-idapython/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb48c036c0c6dfeb0d35851c7871b587
+  last_post_guid: da70c7fffa74a587ad781b642eb199f8
   score_criteria:
     cats: 0
     description: 3

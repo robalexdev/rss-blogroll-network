@@ -1,6 +1,6 @@
 ---
 title: shellsharks Scrolls
-date: "2025-04-28T17:03:31-04:00"
+date: "2025-06-11T23:24:45-04:00"
 description: The Scrolls Newsletter
 params:
   feedlink: https://shellsharks.com/feeds/scroll-feed.xml
@@ -84,18 +84,18 @@ params:
     https://mastodon.social/@sass: true
     https://shellsharks.com/: true
     https://shellsharks.social/@shellsharks: true
-  last_post_title: Scroll tredecim
-  last_post_description: Welcome to volume thirteen of Scrolls, a newsletter for sharing
-    cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. In this edition,
-    we take part in the web revival, focus on Fedi
-  last_post_date: "2025-04-28T16:37:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2025-04-28
+  last_post_title: Scroll sēdecim
+  last_post_description: Welcome to volume sixteen of Scrolls, a newsletter for sharing
+    cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week, I urge
+    you to blog more, we check in on ways to tap into the
+  last_post_date: "2025-05-16T09:40:00-04:00"
+  last_post_link: https://shellsharks.com/scrolls/scroll/2025-05-16
   last_post_categories:
   - fediverse
   - indieweb
   - infosec
   last_post_language: ""
-  last_post_guid: c92af6c7526c937350624fc97f7483bb
+  last_post_guid: 3561fbcc3a7f434e327d422b5f5f75c6
   score_criteria:
     cats: 0
     description: 3

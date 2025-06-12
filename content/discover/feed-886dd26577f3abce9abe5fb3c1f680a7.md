@@ -16,22 +16,28 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Cache
   - GlassFish
   - Guides
   - Jakarta EE
+  - Performance
+  - tuning
   relme: {}
-  last_post_title: Supercharge Your Jakarta EE Skills with These Must-Read Guides
-  last_post_description: |-
-    If you’re working with Jakarta EE — or just starting to explore the power of enterprise Java — there’s never been […]
-    The post Supercharge Your Jakarta EE Skills with These Must-Read
-  last_post_date: "2025-04-11T15:23:05Z"
-  last_post_link: https://omnifish.ee/supercharge-your-jakarta-ee-skills-with-these-must-read-guides/?utm_source=rss&utm_medium=rss&utm_campaign=supercharge-your-jakarta-ee-skills-with-these-must-read-guides
+  last_post_title: 'Performance Best Practice no. 2: Implement Caching'
+  last_post_description: Caching is a powerful technique used to improve the performance
+    and scalability of applications. By storing frequently accessed data closer to
+    where it’s needed, caching can significantly reduce
+  last_post_date: "2025-05-12T14:54:53Z"
+  last_post_link: https://omnifish.ee/performance-best-practice-no-2-implement-caching/?utm_source=rss&utm_medium=rss&utm_campaign=performance-best-practice-no-2-implement-caching
   last_post_categories:
+  - Cache
   - GlassFish
   - Guides
   - Jakarta EE
+  - Performance
+  - tuning
   last_post_language: ""
-  last_post_guid: 258e580a839f1478af6339ad90021e1c
+  last_post_guid: 0787c24cd7eef86163083c6830c68921
   score_criteria:
     cats: 0
     description: 3

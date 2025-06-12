@@ -12,7 +12,7 @@ params:
     https://cyble.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -20,35 +20,31 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: Hacktivists Target Critical Infrastructure, Move Into Ransomware
-  last_post_description: |-
-    Overview
-
-
-
-
-    According to a new Cyble report, hacktivists are increasingly moving beyond traditional activities like DDoS attacks and website defacements into more sophisticated critical
-  last_post_date: "2025-04-15T08:22:39Z"
-  last_post_link: https://cyble.com/blog/hacktivists-infrastructure-move-into-ransomware/
+  last_post_title: 'The Week in Vulnerabilities: Cyble Warns of Rising Exploits Targeting
+    ICS, Enterprise, and Web Systems'
+  last_post_description: Between May 28 and June 3, 2025, the cybersecurity landscape
+    witnessed an intensification of attack attempts and critical vulnerability disclosures
+    across enterprise IT systems, industrial control
+  last_post_date: "2025-06-10T14:10:07Z"
+  last_post_link: https://cyble.com/blog/weekly-cyble-vulnerability-blog/
   last_post_categories:
-  - Hacktivist
-  - Ransomware
-  - ransomware
+  - ICS
+  - Vulnerability
   last_post_language: ""
-  last_post_guid: 4c60bb9986d44e86a5eacdafb20c4445
+  last_post_guid: 3643fb168dba8e948c4ee5604c27ef38
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: true
   isnoarchive: false
   innetwork: true

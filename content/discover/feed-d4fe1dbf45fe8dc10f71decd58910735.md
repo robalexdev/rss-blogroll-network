@@ -15,24 +15,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Juju
-  - LXD
-  - ceph
-  - cloud
-  - kubernetes
+  - AI
+  - NVIDIA AI Enterprise
+  - canonical kubernetes
   relme: {}
-  last_post_title: The hitchhiker’s guide to infrastructure modernization
-  last_post_description: One of my favourite authors, Douglas Adams, once said that
-    “we are stuck with technology when what we really want is just stuff that works.”
-    Whilst Adams is right about a lot of things, he got
-  last_post_date: "2025-04-24T12:36:45Z"
-  last_post_link: https://ubuntu.com//blog/hitchhikers-guide-to-infrastructure-modernization
+  last_post_title: Canonical delivers Kubernetes platform and open-source security
+    with NVIDIA Enterprise AI Factory validated design
+  last_post_description: Reference architectures speed up time to market for agentic
+    AI projects To ease the path of enterprise AI adoption and accelerate the conversion
+    of AI insights into business value, NVIDIA recently
+  last_post_date: "2025-06-11T11:04:48Z"
+  last_post_link: https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design
   last_post_categories:
-  - Juju
-  - LXD
-  - ceph
-  - cloud
-  - kubernetes
+  - AI
+  - NVIDIA AI Enterprise
+  - canonical kubernetes
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:

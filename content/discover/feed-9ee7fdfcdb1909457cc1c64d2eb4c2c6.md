@@ -10,35 +10,56 @@ params:
     https://asec.ahnlab.com/en/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - Android
-  - BadBazaar
-  - Mobile
+  - BidenCash
+  - Carding
+  - CreditCard
+  - DarkWeb
+  - Darkweb
+  - DeepWeb
+  - Germany
+  - Global
+  - GlobalRansomware
   - Public
-  - Smishing
-  - SpyNote
-  - malware
+  - Ransomware
+  - STORMOUSRansomware
+  - Stormous
+  - 다크웹
+  - 딥웹
+  - 신용카드
+  - 카딩
   relme: {}
-  last_post_title: Mobile Security & Malware Issue 2st Week of April, 2025
-  last_post_description: ASEC Blog publishes “Mobile Security & Malware Issue 2st
-    Week of April, 2025”
-  last_post_date: "2025-04-10T15:00:00Z"
-  last_post_link: https://asec.ahnlab.com/en/87436/
+  last_post_title: Ransom & Dark Web Issues Week 1, June 2025
+  last_post_description: ASEC Blog publishes Ransom & Dark Web Issues Week 1, June
+    2025                     Germany’s largest automobile manufacturer listed as a
+    new victim of Stormous ransomware. Dark web
+  last_post_date: "2025-06-04T15:00:00Z"
+  last_post_link: https://asec.ahnlab.com/en/88346/
   last_post_categories:
-  - Android
-  - BadBazaar
-  - Mobile
+  - BidenCash
+  - Carding
+  - CreditCard
+  - DarkWeb
+  - Darkweb
+  - DeepWeb
+  - Germany
+  - Global
+  - GlobalRansomware
   - Public
-  - Smishing
-  - SpyNote
-  - malware
+  - Ransomware
+  - STORMOUSRansomware
+  - Stormous
+  - 다크웹
+  - 딥웹
+  - 신용카드
+  - 카딩
   last_post_language: ""
-  last_post_guid: c94b72e851dddcd8a2ae605f8823a48f
+  last_post_guid: b4f3c6309dd8318f9604c616b8df8cd1
   score_criteria:
     cats: 0
     description: 3

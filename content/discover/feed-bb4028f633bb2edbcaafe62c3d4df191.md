@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-03-31T00:02:44Z"
+date: "2025-06-10T04:18:16Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,37 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Experimental highlights
-  - News
-  - Real science
-  - Theoretical highlights
+  - Uncategorized
   relme: {}
-  last_post_title: How writing a popular-science book led to a Nature Physics paper
-  last_post_description: Several people have asked me whether writing a popular-science
-    book has fed back into my research. Nature Physics published my favorite illustration
-    of the answer this January. Here’s the story
-  last_post_date: "2025-03-31T00:02:44Z"
-  last_post_link: https://quantumfrontiers.com/2025/03/30/how-writing-a-popular-science-book-led-to-a-nature-physics-paper/
+  last_post_title: Congratulations, class of 2025! Words from a new graduate
+  last_post_description: 'Editor’s note (Nicole Yunger Halpern): Jade LeSchack, the
+    Quantum Steampunk Laboratory’s first undergraduate, received her bachelor’s degree
+    from the University of Maryland this spring. Kermit'
+  last_post_date: "2025-06-10T04:18:16Z"
+  last_post_link: https://quantumfrontiers.com/2025/06/09/congratulations-class-of-2025-words-from-a-new-graduate/
   last_post_categories:
-  - Experimental highlights
-  - News
-  - Real science
-  - Theoretical highlights
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 62edced3f21b2cdddc167831f344bd20
+  last_post_guid: 2869548711cc761bda17f71c15724a26
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

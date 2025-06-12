@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2025-03-28T12:54:09Z"
+date: "2025-06-04T14:04:31Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Let's build a VORON 0
+  last_post_title: Ditching Sonos for Music Assistant
   last_post_description: ""
-  last_post_date: "2025-03-28T12:54:09Z"
-  last_post_link: https://www.jonashietala.se/blog/2025/03/25/lets_build_a_voron_0
+  last_post_date: "2025-06-04T14:04:31Z"
+  last_post_link: https://www.jonashietala.se/blog/2025/06/04/ditching_sonos_for_music_assistant
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5dc97ffccbbb3cacecf49b565972986b
+  last_post_guid: 2a41a6a1a0a1e90ba64772e2894c7f90
   score_criteria:
     cats: 0
     description: 0

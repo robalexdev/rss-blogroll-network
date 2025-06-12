@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码，趁乱写年华。
-date: "2025-04-01T05:49:00Z"
+date: "2025-05-09T08:00:39Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -20,20 +20,20 @@ params:
   - 美食
   - 说过的话
   relme: {}
-  last_post_title: "砂锅糊饽\U0001F958"
+  last_post_title: "客家腌面三及第\U0001F963"
   last_post_description: !!binary |
-    5LuO5bCP5pe25YCZ6LW35Yiw5Zyo5b6I6ZW/55qE5LiA5q615pe26Ze06YeM77yM44CM57
-    OK6aW944CN6L+Z5L+p5a2X5YS/5oiR5piv55yf55qE5LiN55+l6YGT5oCO5LmI5YaZ55qE
-    77yM6Jm954S25LuO5bCP5Yiw5aSn5LiA55u06L+Z5LmI5Y+r5a6D77yM5q+V56uf6L+Z5L
-    iq5Lic6KW/5pu05bm/5rOb55qE5Y+r5rOV5Y+v6IO96KKr56ew5L2c44A=
-  last_post_date: "2025-04-01T05:49:00Z"
-  last_post_link: https://102no.com/2025/04/01/sha-guo-hu-bo/
+    56ys5LiA5qyh5ZCs5Yiw44CM5LiJ5Y+K56ys44CN6L+Z5Liq5ZCN5a2X55qE5pe25YCZ6K
+    eJ5b6X6L+Z5Liq5ZCN5a2X6LW355qE55yf5aW977yM5a+T5oSP5Lmf5b6I5qOS77yM5LiA
+    5LiL5a2Q5bCx5ZKM44CM54q25YWD5Y+K56ys44CN6L+Z5Liq5LqL5YS/6IGU57O76LW35p
+    2l5LqG77yM5LiL5qyh5aaC5p6c5pyJ6ICD6K+V5LuA5LmI55qE77yM6IA=
+  last_post_date: "2025-05-09T08:00:39Z"
+  last_post_link: https://102no.com/2025/05/09/ke-jia-yan-mian-san-ji-di/
   last_post_categories:
   - 生活经验
   - 美食
   - 说过的话
   last_post_language: ""
-  last_post_guid: c18e3c2a9b52156257814a612c46b03e
+  last_post_guid: 24115448032b49da75bda822e6f440e8
   score_criteria:
     cats: 0
     description: 3

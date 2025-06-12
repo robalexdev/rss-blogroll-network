@@ -18,16 +18,16 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: Spectacular Highland Hall
-  last_post_description: Jeff Allen shared htis. No idea what or where the building
-    is but this is spectacular. A little bit of image search and I discovered that
-    this is Highland Hall on the University of Toronto
-  last_post_date: "2025-04-15T09:00:00Z"
-  last_post_link: https://mappery.org/spectacular-highland-hall/
+  last_post_title: When was Marc-Tobias’ Hat Printed?
+  last_post_description: Marc-Tobias sent me this picture of his new hat. Can you
+    work out when the map was printed and why? According to Ian Turton this xkcd may
+    help you date the map
+  last_post_date: "2025-06-11T09:00:00Z"
+  last_post_link: https://mappery.org/when-was-marc-tobias-hat-printed/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 87a272f27c529c90f9788751b728bca3
+  last_post_guid: 88802207c15ec8c33a486b9296ec519a
   score_criteria:
     cats: 0
     description: 3

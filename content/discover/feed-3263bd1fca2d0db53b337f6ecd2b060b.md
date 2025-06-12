@@ -18,15 +18,16 @@ params:
   categories: []
   relme:
     https://hiandrewquinn.github.io/til-site/: true
-  last_post_title: Vibe coding and complementary goods
+  last_post_title: Create multi-stage Anki card answers with HTML's <details> tag
   last_post_description: |-
-    Peanut butter and jelly are complementary goods, as are cars and gasoline, newer cars and electricity, electricity and basically everything else.
-    We don’t normally think of, say, Docker and
-  last_post_date: "2025-03-12T00:00:00Z"
-  last_post_link: https://hiandrewquinn.github.io/til-site/posts/vibe-coding-and-complementary-goods/
+    This works as of, at least, Anki 24.06.3.
+    According to the Mozilla Developer Network,
+    The <details> HTML element creates a disclosure widget in which information is visible only when the widget is
+  last_post_date: "2025-06-07T00:00:00Z"
+  last_post_link: https://hiandrewquinn.github.io/til-site/posts/create-multi-stage-anki-card-answers-with-html-s-details-tag/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c952156eb14e62afcac398048377a1da
+  last_post_guid: 26a64faead88b3aca6ba43762bbf1275
   score_criteria:
     cats: 0
     description: 3

@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '[FR] Allow entering time/date range for :time-prompt capture template
-    property (was: org-capture-fill-template %T drops end time)'
-  last_post_description: '[FR] Allow entering time/date range for :time-prompt capture
-    template property (was: org-capture-fill-template %T drops end time)'
-  last_post_date: "2025-04-27T12:53:45Z"
-  last_post_link: https://list.orgmode.org/87tt69py3t.fsf@localhost
+  last_post_title: '[RFC] Should we allow search options for all links types? (was:
+    [PATCH] lisp/ox.el: Fix export of id links with search string)'
+  last_post_description: '[RFC] Should we allow search options for all links types?
+    (was: [PATCH] lisp/ox.el: Fix export of id links with search string)'
+  last_post_date: "2025-05-17T17:15:34Z"
+  last_post_link: https://list.orgmode.org/87tt5jkvpj.fsf@localhost
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ff3ca055713761b96e786fd5aef1bfc1
+  last_post_guid: 5bfd8e765ae3d4a47e6f5d5010520cd6
   score_criteria:
     cats: 0
     description: 3

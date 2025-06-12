@@ -21,20 +21,20 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
+  - Raspberry Pi 5
   - Raspberry Pi Official Magazine
-  - Space
   relme: {}
-  last_post_title: Zero-G Laboratory floating platform
-  last_post_description: |-
-    Helping explore space by building earthbound robots with Raspberry Pi and ROS (Robotics Operating System).
-    The post Zero-G Laboratory floating platform appeared first on Raspberry Pi.
-  last_post_date: "2025-04-25T09:33:09Z"
-  last_post_link: https://www.raspberrypi.com/news/zero-g-laboratory-floating-platform/
+  last_post_title: Detect radio jammers with Raspberry Pi 5
+  last_post_description: "Signal Sentinel is a great research project that harnesses
+    Raspberry Pi 5’s power to detect radio jammers. \nThe post Detect radio jammers
+    with Raspberry Pi 5 appeared first on Raspberry Pi."
+  last_post_date: "2025-06-09T13:55:17Z"
+  last_post_link: https://www.raspberrypi.com/news/detect-radio-jammers-with-raspberry-pi-5/
   last_post_categories:
+  - Raspberry Pi 5
   - Raspberry Pi Official Magazine
-  - Space
   last_post_language: ""
-  last_post_guid: 3e3b09ea86124bea4b55b6dffb579dff
+  last_post_guid: a5641bf7ba37008cd7e0859de8808839
   score_criteria:
     cats: 0
     description: 3

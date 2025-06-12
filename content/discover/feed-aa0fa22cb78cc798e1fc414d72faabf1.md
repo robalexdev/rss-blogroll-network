@@ -1,6 +1,6 @@
 ---
 title: Nicholas Bate
-date: "2025-04-28T07:15:00+01:00"
+date: "2025-06-11T06:55:37+01:00"
 description: Business of Life + Life of Business
 params:
   feedlink: https://feeds.feedburner.com/NicholasBate
@@ -17,15 +17,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: On Writing, 149
-  last_post_description: How to Write Your Novel Here's how you write your novel.
-    This system is not the only one, but it will work. 1. You need an idea. You may
-    already have one, which is why you wish to write the...
-  last_post_date: "2025-04-28T07:15:00+01:00"
-  last_post_link: https://blog.strategicedge.co.uk/2025/04/on-writing-149.html
+  last_post_title: Catch Up Wednesday 35
+  last_post_description: '25 Mini Standards. The Writing Primer. Bram, A Spy Story:
+    a story of coming of age, of Queen and country and the origins of Covid-19. “Once
+    you start reading this book, it’s difficult to put down'
+  last_post_date: "2025-06-11T06:55:37+01:00"
+  last_post_link: https://blog.strategicedge.co.uk/2025/06/catch-up-wednesday-35.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 313413a19c147fdefe050ddd8bd3065d
+  last_post_guid: 15f2ba8a8cc0f85a095368ec3869f9b6
   score_criteria:
     cats: 0
     description: 3

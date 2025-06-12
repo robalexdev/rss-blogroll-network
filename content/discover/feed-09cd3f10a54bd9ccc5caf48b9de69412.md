@@ -39,6 +39,7 @@ params:
   - https://niqwithq.com/feed.xml
   - https://rknight.me/subscribe
   - https://robinrendle.com/feed.xml
+  - https://site.sebasmonia.com/feed.xml
   - https://thejollyteapot.com/feed.rss
   - https://www.eddiedale.com/blog-feed
   - https://www.lkhrs.com/blog/index.xml
@@ -77,16 +78,14 @@ params:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 27 May 2025 at 14:32 - Youngest pointing to a sign
-    that says Chiropodist daaaad what..."
-  last_post_description: "Youngest: [pointing to a sign that says \"Chiropodist\"]
-    daaaad, what does that say?Me: That says \"shi-rop-oh-dist\".Me: it's someone
-    who looks after people's feet.Him: Random...\n            \n          "
-  last_post_date: "2025-05-27T14:35:00Z"
-  last_post_link: https://kevquirk.com/notes/20250527-1432
+  last_post_title: "\U0001F4DD 11 June 2025 at 12:21 - Hot …..."
+  last_post_description: "Hot weather ☀️ + pooches with thick coats \U0001F436 = uncomfortable
+    pooches. \U0001F975 Lucky for us we have a way of cooling down at home. \U0001F643"
+  last_post_date: "2025-06-11T12:25:00Z"
+  last_post_link: https://kevquirk.com/notes/20250611-1221
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 323147891f600d0587d28b8053e64a0a
+  last_post_guid: 2d98755b72cbadf3640b5ac553dc2ef4
   score_criteria:
     cats: 0
     description: 3

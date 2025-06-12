@@ -43,13 +43,13 @@ params:
   relme:
     https://frills.dev/: true
     https://indieweb.social/@frills: true
-  last_post_title: Media
-  last_post_description: Movies, TV shows, podcasts I have enjoyed
-  last_post_date: "2025-04-30T00:00:00Z"
-  last_post_link: https://frills.dev/curios/media/
+  last_post_title: Circadian Rebellion
+  last_post_description: ""
+  last_post_date: "2025-06-11T13:00:00Z"
+  last_post_link: https://frills.dev/blog/2025/june/circadian-rebellion/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 19fb5c26a0cf0c6b3dbb31977ad9f461
+  last_post_guid: 7af6ab37b8cd4a722a6319016f3e9961
   score_criteria:
     cats: 0
     description: 3

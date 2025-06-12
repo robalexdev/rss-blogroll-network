@@ -1,6 +1,6 @@
 ---
 title: Python Academy
-date: "2025-04-27T21:40:01-07:00"
+date: "2025-05-03T04:38:18-07:00"
 description: ""
 params:
   feedlink: https://python-academy.blogspot.com/feeds/posts/default

@@ -1,6 +1,6 @@
 ---
 title: 一叶斋
-date: "1970-01-01T00:00:00Z"
+date: "2025-06-08T08:16:40Z"
 description: 一叶障目 一叶知秋
 params:
   feedlink: https://xieguanglei.github.io/blog/feed.xml
@@ -30,7 +30,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -39,11 +39,11 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: zh
   postcount: 5
   avgpostlen: 0
 ---

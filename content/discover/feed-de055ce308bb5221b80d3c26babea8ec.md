@@ -1,6 +1,6 @@
 ---
 title: This Cute World
-date: "2025-04-27T16:01:16Z"
+date: "2025-06-03T01:02:50Z"
 description: ""
 params:
   feedlink: https://thiscute.world/index.xml

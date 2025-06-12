@@ -18,32 +18,32 @@ params:
   categories: []
   relme:
     https://samdavies.me/: true
-  last_post_title: My 25th High School Reunion
-  last_post_description: This past weekend, I had the fortune to attend my 25th high
-    school reunion. My time in high school was pretty special to me, and many of the
-    friends I made while there I’m still friends with to
-  last_post_date: "2024-12-03T10:43:31-05:00"
-  last_post_link: https://samdavies.me/2024/12/03/my-th-high.html
+  last_post_title: My Last Day at VCU Health
+  last_post_description: After nine years, today was my last day as a VCU Health employee.
+    My former coworkers are some of the best, kindest, and brightest people I’ve ever
+    worked with and I’m proud of the work we did
+  last_post_date: "2025-06-06T16:00:00-04:00"
+  last_post_link: https://samdavies.me/2025/06/06/my-last-day-at-vcu.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3adae6d1a99b548c0251774f94ecd65d
+  last_post_guid: 97f87d4e7a09e96ab18a5204c4b18832
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 1
+  postcount: 2
   avgpostlen: 0
 ---

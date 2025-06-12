@@ -16,28 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Coding
+  - Allgemein
   - Java
-  - Open Source
-  - Programming
-  - Projects
-  - openjdk
+  - performance
   relme: {}
-  last_post_title: Reader.of(CharSequence)
-  last_post_description: "Hi guys, how’s it going? Long time no see! \U0001F605 In
-    fact, I had been very silent in the past months, and as you could imagine, it
-    has a reason: I just had no time to share all the great … Continue"
-  last_post_date: "2024-11-02T13:21:36Z"
-  last_post_link: https://headcrashing.wordpress.com/2024/11/02/reader-ofcharsequence/
+  last_post_title: Foundation Laid for Faster Text I/O
+  last_post_description: "Hey guys! How’s it going? Another six months are over and
+    you might wonder what the old shaggy prepared this time? \U0001F914 No wonder,
+    it certainly is another OpenJDK contribution! \U0001F929 This time, it"
+  last_post_date: "2025-05-17T18:06:09Z"
+  last_post_link: https://headcrashing.wordpress.com/2025/05/17/foundation-laid-for-faster-text-i-o/
   last_post_categories:
-  - Coding
+  - Allgemein
   - Java
-  - Open Source
-  - Programming
-  - Projects
-  - openjdk
+  - performance
   last_post_language: ""
-  last_post_guid: 9057d8217dbdc0abf9204982ef5e2d5e
+  last_post_guid: a6e69dd9a6d66f5bf86ed9f58f5596dd
   score_criteria:
     cats: 0
     description: 3

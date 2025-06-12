@@ -13,9 +13,14 @@ params:
   - title: Mayx Blogroll
     description: ""
     id: 5fffc50926876056bde70973d462a6cf
+  - title: Mayx Blogroll
+    description: ""
+    id: 74d419ad47375950f8898bd6e9ad9734
   recommended: []
   recommender:
   - https://mabbs.github.io/atom.xml
+  - https://mabbs.github.io/rss.xml
+  - https://mayx.eu.org/atom.xml
   categories:
   - Butterfly
   - Hexo
@@ -23,7 +28,7 @@ params:
   relme: {}
   last_post_title: 智能的给Hexo全站外链加上rel标签，解决seo权重外流问题
   last_post_description: 为Hexo博客全站外链添加rel标签，解决 SEO 权重外流问题，提升博客优化效果。
-  last_post_date: "2025-04-22T12:37:36Z"
+  last_post_date: "2025-05-17T06:52:47Z"
   last_post_link: https://blog.hslzz.cn/posts/20250305191500.html
   last_post_categories:
   - Butterfly

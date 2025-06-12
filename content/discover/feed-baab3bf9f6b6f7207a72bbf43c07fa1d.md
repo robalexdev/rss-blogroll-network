@@ -1,6 +1,6 @@
 ---
 title: Posts tagged 'emacs' by Christian Tietze
-date: "2025-04-24T08:33:22Z"
+date: "2025-06-11T07:24:01Z"
 description: ""
 params:
   feedlink: https://christiantietze.de/posts/tags/emacs/feed.atom
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Keep .org File Outline Items Sorted Alphabetically
-  last_post_description: org-mode files can be used for any kind of outline, including
-    makeshift calendars and makeshift address books. To make this work with org-capture
-    to insert a new thing into such files, which always
-  last_post_date: "2025-04-24T08:33:22Z"
-  last_post_link: https://christiantietze.de/posts/2025/04/keep-org-mode-items-sorted-alphabetically/
+  last_post_title: 'Emacs Carnival 2025-06: Take Two'
+  last_post_description: 'To kickstart the Emacs Carnival, and as a hat tip to our
+    recent inspiration, this month’s topic is borrowed from the June IndieWeb Blog
+    Carnival: the topic is “Take Two”, hosted by Nick Simon:'
+  last_post_date: "2025-06-11T07:24:01Z"
+  last_post_link: https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 96abc33116d37aafff9d2ab9fb553974
+  last_post_guid: 3fb319138ada4a3a0fadd057c6e9c49c
   score_criteria:
     cats: 0
     description: 0

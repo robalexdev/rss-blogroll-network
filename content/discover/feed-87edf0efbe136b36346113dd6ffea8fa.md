@@ -21,13 +21,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: On Being an Individual
-  last_post_description: Why I think individuality isn't a group activity
-  last_post_date: "2025-04-24T06:36:30Z"
-  last_post_link: https://scottnesbitt.online/individual.html
+  last_post_title: AI, Hallucinations, and Writing
+  last_post_description: A short musing on why we shouldn't trust what AI chatbots
+    produce
+  last_post_date: "2025-06-11T06:09:00Z"
+  last_post_link: https://scottnesbitt.online/hallucination.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7ba7cfbca73f56326f93a4b6014cfa2c
+  last_post_guid: 744858dc7db46d60388ccee878300429
   score_criteria:
     cats: 0
     description: 3

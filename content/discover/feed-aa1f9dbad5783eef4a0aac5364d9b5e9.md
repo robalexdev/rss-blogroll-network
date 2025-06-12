@@ -176,6 +176,8 @@ params:
   - https://cosmicqbit.dev/blog/index.xml
   - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
+  - https://diggingthedigital.com/comments/feed/
+  - https://diggingthedigital.com/feed/
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -196,6 +198,8 @@ params:
   - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
+  - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
   - https://rss.nebula.app/video/channels/realengineering.rss?plus=true
@@ -261,15 +265,15 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] Variable-aspect adaptive-bitrate video… in
-    vanilla HTML? by Scott Jehl
-  last_post_description: Hey this is really cool, Dan! Thanks for sharing and great
-    writeup.
-  last_post_date: "2025-05-14T14:55:14+01:00"
-  last_post_link: https://danq.me/2025/04/30/variable-aspect-hls-video/#comment-275802
+  last_post_title: Comment on [Article] <blink> and <marquee> by Martin B
+  last_post_description: Good post - I have to say though that marquee (unlike blink)
+    has its moments. I've used it on small apps as a kind of simple carousel to good
+    effect. Notably, for younger devs it seems like a kind of
+  last_post_date: "2025-06-10T20:48:11+01:00"
+  last_post_link: https://danq.me/2020/11/11/blink-and-marquee/#comment-278659
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b86c31aa93a331a7d2fa40ca3dd9fa6
+  last_post_guid: ab635f0a7cabad06094a69a91813f0d8
   score_criteria:
     cats: 0
     description: 3

@@ -10,6 +10,9 @@ params:
     https://pythonclub.com.br/: true
   blogrolls: []
   in_blogrolls:
+  - title: Planeta PythonBrasil
+    description: ""
+    id: 4f2d1578b8bd180c4563ef81891b0937
   - title: Planet Python
     description: ""
     id: 63826648a34be342fc027f97571f1a6c

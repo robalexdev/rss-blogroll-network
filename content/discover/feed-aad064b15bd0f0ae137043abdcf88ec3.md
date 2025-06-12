@@ -19,16 +19,16 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Puf
-  last_post_description: Soms loop ik door de gang om ’t toilet te kunnen bereiken.
-    Des middernachts dat is, of anders ’s ochtends vroeg, als ’t grootste deel der
-    mensheid ’t huis alweer verlaten heeft, of ditmaal
-  last_post_date: "2025-04-14T23:35:52Z"
-  last_post_link: https://zijperspace.nl/puf/
+  last_post_title: Verschil
+  last_post_description: Ik slaap, word wakker & dat is ’t grote verschil. Tussen
+    wat ik overdag voelde & mij nu hier. Middernachts. M’n boek op de grond, soms
+    keurig op ’t krukje naast de bank, anders boven op m’n
+  last_post_date: "2025-06-08T01:11:27Z"
+  last_post_link: https://zijperspace.nl/verschil/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: df5d4f45c918e158a9bb228d86d3b3ed
+  last_post_guid: 974024b532e71f420ea3854abb2017a1
   score_criteria:
     cats: 0
     description: 3

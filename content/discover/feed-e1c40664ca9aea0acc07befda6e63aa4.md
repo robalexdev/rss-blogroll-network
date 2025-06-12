@@ -12,26 +12,27 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - '-'
+  - Artificial Intelligence
   relme:
     https://mastodon.cloud/@Paolo: true
     https://val.demar.in/: true
-  last_post_title: "23"
-  last_post_description: Not that it matters much, but it’s yet another anniversary
-    of my first post.
-  last_post_date: "2025-03-26T10:45:27Z"
-  last_post_link: https://val.demar.in/2025/03/23-2/
+  last_post_title: Spotlight → MCP
+  last_post_description: This morning I asked myself if I could make Spotlight on
+    my Mac talk to Claude. Just a small experiment. I ended up building a minimal
+    MCP server that exposes Spotlight’s index—files, apps,
+  last_post_date: "2025-06-11T10:19:49Z"
+  last_post_link: https://val.demar.in/2025/06/spotlight-%e2%86%92-mcp/
   last_post_categories:
-  - '-'
+  - Artificial Intelligence
   last_post_language: ""
-  last_post_guid: f0d6293f2e7bf3e28dfd1d21123566f7
+  last_post_guid: bea6ca0d99e1480a0a1f1417880670b9
   score_criteria:
     cats: 0
     description: 3

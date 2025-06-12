@@ -10,37 +10,39 @@ params:
     https://www.dataquest.io/blog/topics/python-tutorials/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
   - 'Python: Tutorials and Tips'
+  - Tutorials
   relme: {}
-  last_post_title: A Beginner’s Guide to Unit Tests in Python
-  last_post_description: Unit tests are segments of code written to test other pieces
-    of code, typically a single function or method, that we refer to as a unit. They
-    are a very important part of the software development
-  last_post_date: "2025-04-08T09:28:40Z"
-  last_post_link: https://www.dataquest.io/blog/unit-tests-python/
+  last_post_title: 'Python Strings: An In-Depth Tutorial (55+ Code Examples)'
+  last_post_description: Data types help us categorize data items. They determine
+    the kinds of operations that we can perform on a data item. In Python, the common
+    standard data types include numbers, string, list, tuple,
+  last_post_date: "2025-04-24T14:12:11Z"
+  last_post_link: https://www.dataquest.io/blog/python-strings/
   last_post_categories:
   - 'Python: Tutorials and Tips'
+  - Tutorials
   last_post_language: ""
-  last_post_guid: 11a007568022567d0e30e67084500d9c
+  last_post_guid: 801e4aac5ae37639873b5bfa8f8993f6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

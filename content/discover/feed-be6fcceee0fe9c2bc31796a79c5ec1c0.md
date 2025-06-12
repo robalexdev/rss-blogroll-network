@@ -1,6 +1,6 @@
 ---
 title: Airing 的博客
-date: "2025-04-24T04:59:30Z"
+date: "2025-06-07T14:45:37Z"
 description: 哲学硕士｜小学老师 ｜终端全栈
 params:
   feedlink: https://blog.ursb.me/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://blog.ursb.me/: true
-  last_post_title: 月刊（第29期）：新生活
-  last_post_description: ""
-  last_post_date: "2025-04-18T06:32:37Z"
-  last_post_link: https://blog.ursb.me/posts/weekly-29/
+  last_post_title: '游戏组件的一生: 从加载到上屏'
+  last_post_description: 游戏组件是如何运行的——渲染篇
+  last_post_date: "2025-05-17T04:46:03Z"
+  last_post_link: https://blog.ursb.me/posts/game-engine-renderer/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e597f89a62c2f7bce21937423271b02a
+  last_post_guid: d120fd430397f065573f5160f4aee8dd
   score_criteria:
     cats: 0
     description: 3

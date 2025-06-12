@@ -1,6 +1,6 @@
 ---
 title: GNU Guix — Blog
-date: "2025-04-08T17:16:18Z"
+date: "2025-06-09T17:00:00Z"
 description: ""
 params:
   feedlink: https://guix.gnu.org/feeds/blog.atom
@@ -15,33 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Community
-  - User Survey
+  - Packaging
   relme: {}
-  last_post_title: 'Guix User and Contributor Survey 2024: The Results (part 3)'
-  last_post_description: Today we're looking at the results from the Contributor section
-    of the Guix User and Contributor Survey (2024). The goal was to understand how
-    people contribute to Guix and their overall development
-  last_post_date: "2025-01-28T14:00:00+01:00"
-  last_post_link: https://guix.gnu.org/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-3//
+  last_post_title: A New Rust Packaging Model
+  last_post_description: |-
+    If you've ever struggled with Rust packaging, here's some good news!  We have changed to a simplified Rust packaging model that is easier to automate
+    and allows for modification, replacement and
+  last_post_date: "2025-06-07T21:00:00Z"
+  last_post_link: https://guix.gnu.org/blog/2025/a-new-rust-packaging-model//
   last_post_categories:
-  - Community
-  - User Survey
+  - Packaging
   last_post_language: ""
-  last_post_guid: f7f45dc2c98761de1d54a23a0f064bb2
+  last_post_guid: 911c96825010c60f8165e28607439999
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

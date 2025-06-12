@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-04-21T12:01:13+02:00"
+date: "2025-05-28T08:49:58+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2

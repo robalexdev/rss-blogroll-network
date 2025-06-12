@@ -39,25 +39,31 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - WCAG
+  - UX
   - Web
   - accessibility
+  - html
+  - pattern
   - standards
+  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: Automated WCAG Testing Is Grrreat!
-  last_post_description: I’m a big fan of using automation in WCAG testing. I use
-    bookmarklets, dev tools, browser features & reporting, and a pile of third-party
-    products from assorted vendors. These save me time and
-  last_post_date: "2025-04-10T13:59:51Z"
-  last_post_link: https://adrianroselli.com/2025/04/automated-wcag-testing-is-grrreat.html
+  last_post_title: Where to Put Focus When Opening a Modal Dialog
+  last_post_description: 'TL;DR: blanket statements about where to put focus when
+    opening a modal dialog are wrong, including this one. This post is meant to help
+    you, an intelligent and thoughtful and empathetic reader,'
+  last_post_date: "2025-06-06T17:17:25Z"
+  last_post_link: https://adrianroselli.com/2025/06/where-to-put-focus-when-opening-a-modal-dialog.html
   last_post_categories:
-  - WCAG
+  - UX
   - Web
   - accessibility
+  - html
+  - pattern
   - standards
+  - usability
   last_post_language: ""
-  last_post_guid: ecd95b5485ebd7c7fb440b2c754bb16e
+  last_post_guid: 3795e3dd4fda8314eb48538d2aabc028
   score_criteria:
     cats: 0
     description: 3

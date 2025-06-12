@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Consolidating my email handling in Emacs
-  last_post_description: |-
-    If I were to only have one computer, I’d use notmuch for email in Emacs. I might also import non-email stuff as notmuch messages so I can search everything in one place.
-    But, I now have 3 computers
-  last_post_date: "2025-04-23T15:53:05-04:00"
-  last_post_link: https://baty.net/posts/2025/04/consolidating-my-email-handling-in-emacs/
+  last_post_title: Too much rope
+  last_post_description: I had a couple of drinks last night and opened my laptop
+    and accidentally launched Obsidian and thought, “Oh, I remember. This is pretty
+    cool! I should use this for everything.” so this morning
+  last_post_date: "2025-05-24T14:07:05-04:00"
+  last_post_link: https://baty.net/posts/2025/05/too-much-rope/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a12ce062a098d2856f18253fbd68588c
+  last_post_guid: 06e4638e7ba323a96a5f410d28ca5c66
   score_criteria:
     cats: 0
     description: 3

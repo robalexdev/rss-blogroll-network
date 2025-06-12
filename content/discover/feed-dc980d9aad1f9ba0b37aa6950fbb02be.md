@@ -43,13 +43,13 @@ params:
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: Monday session
-  last_post_description: Monday session
-  last_post_date: "2025-04-28T20:09:30Z"
-  last_post_link: https://adactio.com/notes/21878
+  last_post_title: Wednesday session in Camden
+  last_post_description: Wednesday session in Camden
+  last_post_date: "2025-06-11T19:06:06Z"
+  last_post_link: https://adactio.com/notes/21954
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b8c7abcee8847ea372204ebf49df47c
+  last_post_guid: 7bd44fa84e309a6e2dcbbd5636f71c79
   score_criteria:
     cats: 0
     description: 3

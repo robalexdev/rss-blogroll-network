@@ -1,6 +1,6 @@
 ---
 title: hello - GNU greeting package - News
-date: "2022-05-29T23:09:20Z"
+date: "2025-05-19T12:14:30Z"
 description: ""
 params:
   feedlink: https://savannah.gnu.org/news/atom.php?group=hello
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: hello-2.12.1 released [stable]
+  last_post_title: hello 2.12.2 released [stable]
   last_post_description: ""
-  last_post_date: "2022-05-29T23:08:23Z"
-  last_post_link: https://savannah.gnu.org/news/?id=10154
+  last_post_date: "2025-05-19T12:13:02Z"
+  last_post_link: https://savannah.gnu.org/news/?id=10774
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db8bd658f80d22c9f917a84aa5323eb5
+  last_post_guid: 1a201a675492f6e707138f327ad3d56b
   score_criteria:
     cats: 0
     description: 0

@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Intel 9 285K on ASUS Z890: not stable!'
+  last_post_title: How I like to install NixOS (declaratively)
   last_post_description: ""
-  last_post_date: "2025-03-19T17:35:38+01:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/
+  last_post_date: "2025-06-01T08:20:43+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9d2c6638ccda9d7d4bb68ad6384aa131
+  last_post_guid: e8a77fc08b4c0eb4bb7a46d6681f8a76
   score_criteria:
     cats: 0
     description: 0

@@ -30,30 +30,22 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - InfoSecTTP
-  - OSINT
-  - SmartScreen
-  - scam
+  - Network Protection
+  - privacy
   - security
-  - tech
-  - web
   relme: {}
-  last_post_title: 'Attack Techniques: Fake Literally Everything! (Escrow Scam)'
-  last_post_description: The team recently got a false-negative report on the SmartScreen
-    phishing filter complaining that we fail to block firstline-trucking.com. I passed
-    it along to our graders but then took a closer look
-  last_post_date: "2025-04-24T22:27:03Z"
-  last_post_link: https://textslashplain.com/2025/04/24/attack-techniques-fake-literally-everything/
+  last_post_title: 'First Look: Apple’s NEURLFilter API'
+  last_post_description: 'At WWDC 2025, Apple introduced an interesting new API, NEURLFilter,
+    to respond to a key challenge we’ve talked about previously: the inherent conflict
+    between privacy and security when trying to'
+  last_post_date: "2025-06-10T23:07:01Z"
+  last_post_link: https://textslashplain.com/2025/06/10/apple-url-filter-api/
   last_post_categories:
-  - InfoSecTTP
-  - OSINT
-  - SmartScreen
-  - scam
+  - Network Protection
+  - privacy
   - security
-  - tech
-  - web
   last_post_language: ""
-  last_post_guid: 01467191fc7007f40a369f385f54005a
+  last_post_guid: eb63457423ddadb1890d07a638ea95eb
   score_criteria:
     cats: 0
     description: 3

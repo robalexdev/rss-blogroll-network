@@ -20,15 +20,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: CSS Naked Day
-  last_post_description: "Don’t freak out. My website is observing CSS Naked Day.\n\t\t\tFor
-    April 9, this site’s stylesheet is temporarily commented out so you can see what
-    it looks like as plain old HTML. I like it. You"
-  last_post_date: "2025-04-08T22:35:00+09:00"
-  last_post_link: https://lmnt.me/blog/css-naked-day.html
+  last_post_title: Torigoe Matsuri
+  last_post_description: "It’s summer in Japan, and that means it’s matsuri season.
+    I guess everyone thought as long as we’re already sweating, we might as well carry
+    enormous heavy things around.\n\t\t\tMy neighborhood,"
+  last_post_date: "2025-06-08T21:05:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/torigoe-matsuri.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 918ae2dcafe4e29810771a4554016bf4
+  last_post_guid: 8eef4fefc0045b6f476db6a71f21a4da
   score_criteria:
     cats: 1
     description: 3

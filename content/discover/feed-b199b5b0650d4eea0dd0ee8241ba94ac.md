@@ -1,6 +1,6 @@
 ---
 title: Peter Rohde
-date: "2024-06-26T03:00:09Z"
+date: "2025-06-05T01:58:12Z"
 description: Quantum computer scientist & alpinist.
 params:
   feedlink: https://peterrohde.org/feed/atom/
@@ -15,46 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cryptography & Security
-  - Meta
-  - WhatsApp
-  - cryptography
-  - encryption
-  - end-to-end
-  - messenger
-  - security
+  - Climbing
+  - General
   relme: {}
-  last_post_title: Meta AI explains the backdoors in Meta Messenger &#038; WhatsApp&#8217;s
-    end-to-end encryption
-  last_post_description: Hi Peter, my name is Meta Al. Think of me like an assistant
-    who’s here to help you learn, plan, and connect. I speak English. What can I help
-    you with today? Are my Messenger conversations now all
-  last_post_date: "2024-06-26T03:00:09Z"
-  last_post_link: https://peterrohde.org/meta-ai-explains-the-backdoors-in-meta-messenger-whatsapps-end-to-end-encryption/
+  last_post_title: The Quantum Astronaut
+  last_post_description: '[Nb: the following added on 24 April, 2025 due to oversight]'
+  last_post_date: "2025-06-05T01:58:12Z"
+  last_post_link: https://peterrohde.org/the-quantum-astronaut/
   last_post_categories:
-  - Cryptography & Security
-  - Meta
-  - WhatsApp
-  - cryptography
-  - encryption
-  - end-to-end
-  - messenger
-  - security
+  - Climbing
+  - General
   last_post_language: ""
-  last_post_guid: 62a38bcbc15fe2240267aa6ee48ccf6b
+  last_post_guid: a8fb84af9781a10b044931905a59c76c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

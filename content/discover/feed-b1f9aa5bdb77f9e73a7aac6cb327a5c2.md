@@ -1,6 +1,6 @@
 ---
 title: Ogra's blog
-date: "2021-09-29T12:56:45Z"
+date: "2025-05-16T14:34:17Z"
 description: Just another WordPress.com weblog
 params:
   feedlink: https://ograblog.wordpress.com/feed/atom/
@@ -16,30 +16,40 @@ params:
   recommender: []
   categories:
   - Uncategorized
+  - europe
+  - life
+  - photography
+  - travel
+  - writing
   relme: {}
-  last_post_title: Snap your Shell scripts !!!
-  last_post_description: A colleague recently talked me into buying one of these nifty
-    HDMI to USB video capture dongles that allows me to try out my ARM boards attached
-    to my desktop without the need for a separate monitor.
-  last_post_date: "2021-09-29T12:56:45Z"
-  last_post_link: https://ograblog.wordpress.com/2021/09/29/snap-your-shell-scripts/
+  last_post_title: Rooming with Mark
+  last_post_description: Yesterday, exactly twenty years ago my mobile rang while
+    I was walking the dog. I had just returned from Sydney about a week ago (still
+    battling with the last remains of my Jet-lag (I had never left
+  last_post_date: "2025-05-16T14:34:17Z"
+  last_post_link: https://ograblog.wordpress.com/2025/05/16/rooming-with-mark/
   last_post_categories:
   - Uncategorized
+  - europe
+  - life
+  - photography
+  - travel
+  - writing
   last_post_language: ""
-  last_post_guid: 536426be34f39eb2db8b3f5fae5fa87c
+  last_post_guid: 23c3f5aeeba6788f656e9301cdbbbc42
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

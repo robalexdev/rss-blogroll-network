@@ -1,6 +1,6 @@
 ---
 title: Yammering
-date: "2021-09-21T15:36:17Z"
+date: "2025-05-28T18:32:07Z"
 description: ""
 params:
   feedlink: https://xana.scru.org/rivercrabbed-debian.atom
@@ -16,14 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Outrage culture killed my dog
-  last_post_description: "Why can't Debian have embarrassing flamewars like this thread?\n\n\n
-    \   Posted on 2021-09-21\n    \n\n\n    \n    Tags: barks"
-  last_post_date: "2021-09-21T15:36:17Z"
-  last_post_link: https://xana.scru.org/posts/barks/tzbackzone.html
+  last_post_title: Potted meat is viewed differently by different cultures
+  last_post_description: |-
+    I've been working on a multi-label email classification model.
+    It's been a frustrating slog, fraught with challenges, including
+    a lack of training data. Labeling emails is labor-intensive and
+    error
+  last_post_date: "2025-05-28T18:32:07Z"
+  last_post_link: https://xana.scru.org/posts/ranticore/spicedham.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7eb7bbbfa4ffcdaf41a228e305c00991
+  last_post_guid: f6c053324380241b598872068089de3b
   score_criteria:
     cats: 0
     description: 0

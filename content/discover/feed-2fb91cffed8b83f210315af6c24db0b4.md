@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Alexa+ gets us a step closer to ambient interfaces
-  last_post_description: The vision was to build the Star Trek computer. 10 years
-    ago that was an ambitious goal. We’ve come a long way since then - from basic
-    voice commands to much more conversational interfaces with
-  last_post_date: "2025-04-09T04:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2025/04/alexa-plus-gets-us-a-step-closer-to-ambient-interfaces.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: 'Just make it scale: An Aurora DSQL story'
+  last_post_description: 'AWS Senior Principal Engineers, Niko Matsakis and Marc Bowes,
+    take us inside Aurora DSQL''s development: scaling write operations without two-phase
+    commit, overcoming garbage collection hurdles, and'
+  last_post_date: "2025-05-27T04:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6dd4aee81079966c2596cdc368f72f75
+  last_post_guid: 935966f690d673902cbbcc232ab10d7c
   score_criteria:
     cats: 0
     description: 3

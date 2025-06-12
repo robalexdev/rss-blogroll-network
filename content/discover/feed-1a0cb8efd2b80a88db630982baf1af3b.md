@@ -47,15 +47,15 @@ params:
   categories: []
   relme:
     https://reillyspitzfaden.com/blog: true
-  last_post_title: IndieWeb Blog Carnival — “Renewal”
-  last_post_description: I often feel compelled to tweak and redesign my website at
-    the expense of other things I value. I talk about reconnecting with what I most
-    enjoy about composing and coding, and avoiding treating my
-  last_post_date: "2025-04-18T04:00:00Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2025/04/indieweb-blog-carnival-renewal/
+  last_post_title: 'Reverb Part 1: “Freeverb”'
+  last_post_description: I discuss how algorithmic reverbs work using the popular
+    “Freeverb.” I give details on feedforward/feedback delays and allpass filters,
+    and I include a Max/MSP patch to play with.
+  last_post_date: "2025-06-05T15:30:00Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c10b237a906ac086a5622e465d885390
+  last_post_guid: 24b8ca1a2325d1bef4f420db21084fe9
   score_criteria:
     cats: 0
     description: 3

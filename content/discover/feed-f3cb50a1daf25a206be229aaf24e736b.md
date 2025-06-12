@@ -18,17 +18,16 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 清明踏春，爬山看海
-  last_post_description: !!binary |
-    6Ieq5LuO5Lmw5LqG55m75bGx5p2W77yM5aiD5LiA55u06K+05oOz5Y6754is5bGx44CCCu
-    WJjeauteaXtumXtOWkqeawlOS4gOebtOS4jeWlve+8jOWxseS4iuS5n+i/mOaYr+WFieen
-    g+eng+eahO+8jOWwseS4gOebtOayoeWOu+OAggrotoHnnYDmuIXmmI7lgYfmnJ/vvIzluK
-    blqIPniKzlsbHljrvjgIIK5Y675bm05YGH5pyf5Y676L+H5LiA5qyh6aY=
-  last_post_date: "2025-04-06T22:47:37+08:00"
-  last_post_link: https://liudon.com/posts/qingming-festival-holiday-2025/
+  last_post_title: Golang database/sql 数据库断线自动重连机制解析
+  last_post_description: |-
+    最近有个交接服务的数据库要升级版本，升级最后切换瞬间会有一个闪断。
+    这里业务侧需要确保有自动重连机制，否则会影响服务。
+    因为是交接的服务
+  last_post_date: "2025-04-30T17:37:23+08:00"
+  last_post_link: https://liudon.com/posts/golang-database-sql-auto-reconnect-mechanism/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c39788772838bf29c1d7efa724c2c761
+  last_post_guid: 38ed7782de8650a37226df0ccd4f1d59
   score_criteria:
     cats: 0
     description: 3

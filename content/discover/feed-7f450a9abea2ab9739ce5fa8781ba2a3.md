@@ -1,6 +1,6 @@
 ---
 title: FLOSSLinux
-date: "2025-01-11T18:00:11Z"
+date: "2025-06-10T17:12:23+01:00"
 description: Random musings about Free/Libre/Open Source Software - and also about
   Linux and the way that the world is, gadgets and trends
 params:
@@ -64,13 +64,14 @@ params:
   - wifi
   - wisdom of crowds
   relme: {}
-  last_post_title: 20250111 Release media testing for Debian 12.9
+  last_post_title: Debian 12.11 - testing completed, images being signed and we'll
+    be back for the next point release on ???
   last_post_description: ""
-  last_post_date: "2025-01-11T17:59:38Z"
-  last_post_link: https://flosslinuxblog.blogspot.com/2025/01/20250111-release-media-testing-for.html
+  last_post_date: "2025-05-17T19:00:59+01:00"
+  last_post_link: https://flosslinuxblog.blogspot.com/2025/05/debian-1211-testing-completed-images.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca1d3e93588a9f95e493f14ecaabab90
+  last_post_guid: fb0c24328b7e704c6ec6648b29f3b9d7
   score_criteria:
     cats: 5
     description: 3

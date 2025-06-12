@@ -16,48 +16,45 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Betriebssystemhärtung
   - Blog
-  - CPE
-  - CSAF 2.0
-  - CVE
-  - CVSS
-  - CWE
-  - Cybersicherheit
+  - CIS-Benchmark
+  - Compliance
   - Greenbone
-  - NVD outage
-  - NVD-Ausfall
-  - OpenVAS
-  - Schwachstellenerkennung
-  - Sicherheitslücken
-  - cybersecurity
-  - vulnerabilities
-  - vulnerability detection
+  - Konfigurationsmanagement
+  - OS hardening
+  - Schwachstellenmanagement
+  - Unternehmens-IT
+  - Vulnerability Management
+  - Windows 11
+  - configuration management
+  - enterprise IT
+  - it security
   relme: {}
-  last_post_title: Greenbone Detection Stays Strong Despite NIST NVD Outage
-  last_post_description: Despite the NVD (National Vulnerability Database) outage
-    of the NIST (National Institute of Standards and Technology), Greenbone’s detection
-    engine remains fully operational, offering reliable,
-  last_post_date: "2025-04-22T17:53:21Z"
-  last_post_link: https://www.greenbone.net/en/blog/greenbone-detection-stays-strong-despite-nist-nvd-outage/
+  last_post_title: Greenbone Audits for Compliance with the CIS Windows 11 Enterprise
+    Benchmark”
+  last_post_description: Microsoft Windows remains the most widely used desktop operating
+    system in enterprise environments – and also one of the most targeted by threat
+    actors. Insecure configurations are a leading source
+  last_post_date: "2025-06-02T11:21:08Z"
+  last_post_link: https://www.greenbone.net/en/blog/greenbone-audits-for-compliance-with-the-cis-windows-11-enterprise-benchmark/
   last_post_categories:
+  - Betriebssystemhärtung
   - Blog
-  - CPE
-  - CSAF 2.0
-  - CVE
-  - CVSS
-  - CWE
-  - Cybersicherheit
+  - CIS-Benchmark
+  - Compliance
   - Greenbone
-  - NVD outage
-  - NVD-Ausfall
-  - OpenVAS
-  - Schwachstellenerkennung
-  - Sicherheitslücken
-  - cybersecurity
-  - vulnerabilities
-  - vulnerability detection
+  - Konfigurationsmanagement
+  - OS hardening
+  - Schwachstellenmanagement
+  - Unternehmens-IT
+  - Vulnerability Management
+  - Windows 11
+  - configuration management
+  - enterprise IT
+  - it security
   last_post_language: ""
-  last_post_guid: d1b82fa238c09c06ae834631debc5b7c
+  last_post_guid: 839445ce9a283927334fd4d2bf97f9ae
   score_criteria:
     cats: 0
     description: 3

@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I Use Good Enough Software
-  last_post_description: A list of the best free or low-cost Mac apps I use almost
-    every day.
-  last_post_date: "2025-04-08T00:00:00+09:00"
-  last_post_link: https://kangminsuk.com/blog/good-enough/
+  last_post_title: I’ll send you a sentence every day
+  last_post_description: Minsuk’s simple mailing service.
+  last_post_date: "2025-05-18T00:00:00+09:00"
+  last_post_link: https://kangminsuk.com/blog/sentences/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9143ef8d3c3a855f1e221ba590146824
+  last_post_guid: 8dcb49912d4e991119c03895dd5e045b
   score_criteria:
     cats: 0
     description: 3

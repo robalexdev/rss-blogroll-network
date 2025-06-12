@@ -15,32 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Students of OpenStack
+  - community
   relme: {}
-  last_post_title: 'OpenStack 2025.1 Epoxy: Strengthening OpenStack’s Position as
-    a VMware Alternative and Enhancing Security and Hardware Enablement'
-  last_post_description: The OpenStack community’s latest release, 2025.1 Epoxy, marks
-    an important milestone in the project’s evolution. With the release of OpenStack
-    Epoxy, the project continues to improve its
-  last_post_date: "2025-04-02T14:47:26Z"
-  last_post_link: https://www.openstack.org/blog/openstack-2025-1-epoxy-strengthening-openstacks-position-as-a-vmware-alternative-and-enhancing-security-and-hardware-enablement/
+  last_post_title: 'Students of OpenStack: Meet Oria Weng!'
+  last_post_description: Oria Weng is a third-year honors student studying computer
+    science at Oregon State University, working at the Oregon State University Open
+    Source Lab (OSUOSL). What Open Infrastructure project are
+  last_post_date: "2025-06-02T20:07:11Z"
+  last_post_link: https://www.openstack.org/blog/students-of-openstack-meet-oria-weng/
   last_post_categories:
-  - Uncategorized
+  - Students of OpenStack
+  - community
   last_post_language: ""
-  last_post_guid: a1fcb057ca49b1d56f5df9bdbd74c5c4
+  last_post_guid: e2e0d03fdc8c484290140fb20ba030dd
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Resources-2
-date: "2025-04-17T12:27:48Z"
+date: "2025-06-11T08:43:14Z"
 description: Picus continuously assesses your security controls with automated attacks
   to mitigate gaps and enhance your security posture against real threats.
 params:
@@ -11,38 +11,39 @@ params:
     https://www.picussecurity.com/resource: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
   - Article
+  - Glossary
   relme: {}
-  last_post_title: 'UNC5221’s Latest Exploit: Weaponizing CVE-2025-22457 in Ivanti
-    Connect Secure'
-  last_post_description: "Who Is the China-Nexus Group UNC5221? \nUNC5221 is a suspected
-    China-nexus cyber-espionage group known for aggressively targeting edge network
-    devices (VPNs, firewalls, routers) with zero-day exploits"
-  last_post_date: "2025-04-17T12:27:17Z"
-  last_post_link: https://www.picussecurity.com/resource/blog/unc5221-cve-2025-22457-ivanti-connect-secure
+  last_post_title: Supporting Vulnerability Scanners in Modern Age
+  last_post_description: "What Are Vulnerability Scanners? \nA vulnerability scanner
+    is an automated security tool that identifies known weaknesses, misconfigurations,
+    and outdated software across IT systems such as servers,"
+  last_post_date: "2025-06-11T08:42:48Z"
+  last_post_link: https://www.picussecurity.com/resource/blog/supporting-vulnerability-scanners-in-modern-age
   last_post_categories:
   - Article
+  - Glossary
   last_post_language: ""
-  last_post_guid: a0747616106b890360bb9329d1f357d6
+  last_post_guid: 337a5626191b20ff3fe14eb46f57b257
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

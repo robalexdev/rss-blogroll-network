@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Modal Logic and Contingent Existence
-  last_post_description: 'Abstract: In this talk, I will defend contingentism, the
-    idea that some things exist contingently. It might be surprising that this needs
-    defence, but natural reasoning principles concerning'
-  last_post_date: "2025-04-10T15:00:00+02:00"
-  last_post_link: https://consequently.org/presentation/2025/mlce-illc/
+  last_post_title: Must Do &ldquo;Must Do Better&rdquo; Better
+  last_post_description: 'Abstract: Starting with the his much-discussed 2006 paper
+    “Must Do Better,’ Timothy Williamson has offered a series of methodological reflections
+    and recommendations for philosophers. Good'
+  last_post_date: "2025-06-18T17:00:00-07:00"
+  last_post_link: https://consequently.org/presentation/2025/must-do-mdb-better-sep/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 499e749393640d1f0d28b934952274c9
+  last_post_guid: 7ddd2394494068479ece75f3f32c8bbd
   score_criteria:
     cats: 0
     description: 3

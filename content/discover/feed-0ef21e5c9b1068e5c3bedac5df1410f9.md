@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2025-04-14T14:34:54Z"
+date: "2025-06-11T12:41:28Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,26 +17,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Dev Loop
-  - VS Code
-  - VS Code Extension
-  - VS Code Marketplace
-  - Visual Studio Code
+  - Collaboration
+  - Design
+  - Design Sphere
+  - QML
+  - Web
   relme: {}
-  last_post_title: Qt Extension 1.4.0 for VS Code released
-  last_post_description: We're happy to announce the release of version 1.4.0 of the
-    Qt Extension for Visual Studio Code! This release cooked for a bit as pre-release
-    1.3.0 on the marketplace and has now been promoted to a
-  last_post_date: "2025-04-14T14:34:54Z"
-  last_post_link: https://www.qt.io/blog/qt-extension-1.4.0-for-vs-code-released
+  last_post_title: Qt Design Studio 4.7.2 Released
+  last_post_description: Earlier this year, we released Qt Design Studio 4.7. After
+    the main release, we still had a couple of quirks here and there. Now is the perfect
+    time if you have not yet upgraded Qt Design Studio to 4
+  last_post_date: "2025-06-11T12:41:05Z"
+  last_post_link: https://www.qt.io/blog/qt-design-studio-4.7.2-released
   last_post_categories:
-  - Dev Loop
-  - VS Code
-  - VS Code Extension
-  - VS Code Marketplace
-  - Visual Studio Code
+  - Collaboration
+  - Design
+  - Design Sphere
+  - QML
+  - Web
   last_post_language: ""
-  last_post_guid: 42aea3bce06e30bf8503ab3d5196dd63
+  last_post_guid: b22af313f5bcd137655b1172f1c393ba
   score_criteria:
     cats: 0
     description: 3

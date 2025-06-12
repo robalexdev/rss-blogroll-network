@@ -10,22 +10,23 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: UNC5174 Linux Espionage Campaign (Campaign)
-  last_post_description: UNC5174, a suspected Chinese state-sponsored threat actor,
-    has resurfaced in a stealthy espionage campaign targeting Linux systems across
-    research institutions, government agencies, NGOs, and
-  last_post_date: "2025-04-16T00:00:00Z"
-  last_post_link: https://threats.wiz.io/all-incidents/unc5174-linux-espionage-campaign
+  last_post_title: NPM Supply Chain Attack Compromises 16 Popular React Native and
+    GlueStack Packages (Campaign)
+  last_post_description: A threat actor compromised 16 highly popular React Native
+    and GlueStack packages, collectively downloaded over a million times weekly. The
+    attackers inserted a stealthy backdoor into these packages
+  last_post_date: "2025-06-07T00:00:00Z"
+  last_post_link: https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9a3a5744774dc7f6bcb58acad7a7d7f2
+  last_post_guid: 2ec39d4d01f9d4b815b6522253f8d51e
   score_criteria:
     cats: 0
     description: 3

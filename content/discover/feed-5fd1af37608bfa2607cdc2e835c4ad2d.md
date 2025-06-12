@@ -1,7 +1,7 @@
 ---
 title: Mijndert Stuij
-date: "2025-04-25T13:00:00Z"
-description: Senior DevOps Engineer. Runner. Minimalist.
+date: "2025-06-06T10:14:00Z"
+description: Lead platform engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
   feedtype: atom
@@ -38,13 +38,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Week notes 17
+  last_post_title: Week notes 23
   last_post_description: ""
-  last_post_date: "2025-04-25T13:00:00Z"
-  last_post_link: https://mijndertstuij.nl/posts/week-notes-17/
+  last_post_date: "2025-06-06T10:14:00Z"
+  last_post_link: https://mijndertstuij.nl/posts/week-notes-23/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aef8bf296a5a3f86d09908d52421e419
+  last_post_guid: e4d74f2cff9c91acf3328d197cad34ff
   score_criteria:
     cats: 0
     description: 3

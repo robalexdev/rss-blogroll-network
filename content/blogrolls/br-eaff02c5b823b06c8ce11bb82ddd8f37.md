@@ -59,7 +59,8 @@ params:
     description: ""
     id: c3d7a8674e24b46357e31623bc7f2ab7
   - title: Raúl Hernández González | @rahego
-    description: Ideas y reflexiones para una vida más sencilla, equilibrada y significativa
+    description: Ideas y acompañamiento para profesionales que buscan sencillez, equilibrio
+      y sentido
     id: cc85c57f2afd92899c655335cb9ae5af
   - title: Cal Newport
     description: Computer Scientist & Bestselling Author

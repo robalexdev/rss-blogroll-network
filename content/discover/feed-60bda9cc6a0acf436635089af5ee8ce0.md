@@ -24,17 +24,17 @@ params:
   relme:
     https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
-  last_post_title: 'Failing upwards: the Twitter encrypted DM failure'
-  last_post_description: Almost two years ago, Twitter launched encrypted direct messages.
-    I wrote about their technical implementation at the time, and to the best of my
-    knowledge nothing has changed. The short story is
-  last_post_date: "2025-03-18T23:58:52Z"
-  last_post_link: https://mjg59.dreamwidth.org/71188.html
+  last_post_title: How Twitter could (somewhat) fix their encrypted DMs
+  last_post_description: As I wrote in my last post, Twitter's new encrypted DM infrastructure
+    is pretty awful. But the amount of work required to make it somewhat better isn't
+    large.When Juicebox is used with HSMs, it
+  last_post_date: "2025-06-05T13:18:48Z"
+  last_post_link: https://mjg59.dreamwidth.org/71933.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: ebc29f68265478fb1c31ef2f59421142
+  last_post_guid: 7db5aba573ab301e5893079e9473557d
   score_criteria:
     cats: 0
     description: 3

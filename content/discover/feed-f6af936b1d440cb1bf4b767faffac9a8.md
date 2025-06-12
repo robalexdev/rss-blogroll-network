@@ -1,6 +1,6 @@
 ---
 title: Bits from the Debian XMPP Team
-date: "2023-03-01T00:00:00Z"
+date: "2025-05-29T00:00:00Z"
 description: Blog of the Debian XMPP Team
 params:
   feedlink: https://xmpp-team.pages.debian.net/blog/feeds/atom.xml
@@ -19,24 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bookworm
+  - XMPP
   - debian
   - jabber
   - misc
-  - xmpp
+  - newintrixie
+  - trixie
   relme: {}
-  last_post_title: XMPP What's new in Debian 12 bookworm
+  last_post_title: XMPP/Jabber Debian 13 Trixie News
   last_post_description: ""
-  last_post_date: "2023-03-01T00:00:00Z"
-  last_post_link: https://xmpp-team.pages.debian.net/blog/2023/03/xmpp-whats-new-in-bookworm.html
+  last_post_date: "2025-05-29T00:00:00Z"
+  last_post_link: https://xmpp-team.pages.debian.net/blog/2025/05/xmpp-debian-13-trixie-news.html
   last_post_categories:
-  - bookworm
+  - XMPP
   - debian
   - jabber
   - misc
-  - xmpp
+  - newintrixie
+  - trixie
   last_post_language: ""
-  last_post_guid: f2071aceff17ef9a249878c5f9908c73
+  last_post_guid: 114734e183eafcfb0e46eb3ddd20173b
   score_criteria:
     cats: 0
     description: 3

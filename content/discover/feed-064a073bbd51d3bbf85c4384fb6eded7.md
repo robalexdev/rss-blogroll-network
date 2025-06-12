@@ -1,6 +1,6 @@
 ---
 title: mark nottingham
-date: "2025-04-25T01:53:21Z"
+date: "2025-06-07T22:15:56Z"
 description: ""
 params:
   feedlink: https://www.mnot.net/blog/index.atom
@@ -17,19 +17,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Tech Regulation
+  - Standards
   - Web and Internet
   relme: {}
-  last_post_title: 'Apple’s Best Option: Decentralize iCloud'
-  last_post_description: What can Apple do in the face of a UK order to weaken encryption
-    worldwide? Decentralize iCloud, to start.
-  last_post_date: "2025-02-09T00:00:00Z"
-  last_post_link: https://www.mnot.net/blog/2025/02/09/decentralize-icloud
+  last_post_title: Using AI to Evaluate Internet Standards
+  last_post_description: Is AI a useful option for policymakers who want to evaluate
+    open standards? Let's take a look.
+  last_post_date: "2025-06-04T00:00:00Z"
+  last_post_link: https://www.mnot.net/blog/2025/06/04/using_ai
   last_post_categories:
-  - Tech Regulation
+  - Standards
   - Web and Internet
   last_post_language: ""
-  last_post_guid: 35dcd59288743b7d834d3c3ac36e34bc
+  last_post_guid: a6f6f24728a375f4990f9400b8a42102
   score_criteria:
     cats: 0
     description: 0

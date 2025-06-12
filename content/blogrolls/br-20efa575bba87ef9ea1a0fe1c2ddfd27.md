@@ -1,11 +1,14 @@
 ---
 title: Planet SymPy
-date: Mon, 10 Oct 2022 21:01:06 GMT
+date: ""
 description: ""
 params:
   link: https://planet.sympy.org/opml.xml
   blogroll_id: 20efa575bba87ef9ea1a0fe1c2ddfd27
   recommends:
+  - title: Stories by Mohit balwani on Medium
+    description: Stories by Mohit balwani on Medium
+    id: 060ed109e4aada2cc84e688913dc7c62
   - title: SymPy – Ishan Joshi
     description: ""
     id: 0d3d2c57247f2b0f337ce9593d262d2e
@@ -69,9 +72,15 @@ params:
   - title: Sampad Saha
     description: ""
     id: cdc2ce267c1dd797fd5f14344524c164
+  - title: GSoC 2022 Blog
+    description: Blog sharing my progress in GSoC 2022.
+    id: e042e4639449e9a1ed942cb2d6abd88e
   - title: Rubi Integrator
     description: ""
     id: f2c5f219d6984b1cf0613bec3aab67f0
+  - title: blog-sympy-gsoc2025
+    description: My GSoC 2025 journey with SymPy
+    id: f42e909994a63c050425c4468fb9eb99
   - title: ""
     description: My personal blog built on jekyll framework
     id: f7cb3e98e4262b56a20c1357ac560404

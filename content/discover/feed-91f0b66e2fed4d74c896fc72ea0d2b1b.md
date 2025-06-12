@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://benrutter.github.io/posts/: true
-  last_post_title: Data Contracts as Therapy
-  last_post_description: I think I’ve heard people say data is the new gold at least
-    twenty times. Having worked in data for a while, I’m pretty sure what they mean
-    by that is that extracting and processing is a
-  last_post_date: "2025-01-27T00:00:00Z"
-  last_post_link: https://benrutter.github.io/posts/data-contracts-as-therapy/
+  last_post_title: Planning to Fail
+  last_post_description: |-
+    I read the hilarious “Please Please Please” Phorge entry today and it’s as hilarious as it is trauma inducing.
+    As somebody who spends a bunch of time working on libraries, I sometimes see
+  last_post_date: "2025-05-16T00:00:00Z"
+  last_post_link: https://benrutter.github.io/posts/planning-to-fail/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ecd5a680d99ffd735d56d34f871da1fb
+  last_post_guid: 0dc7bd7a9a312f7a5cf2179e29cf480a
   score_criteria:
     cats: 0
     description: 3

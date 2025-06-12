@@ -21,7 +21,7 @@ params:
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Miniflux
     description: ""
@@ -45,13 +45,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: PhD Timeline
+  last_post_title: Good Science
   last_post_description: ""
-  last_post_date: "2025-04-25T04:00:00Z"
-  last_post_link: https://xkcd.com/3081/
+  last_post_date: "2025-06-11T04:00:00Z"
+  last_post_link: https://xkcd.com/3101/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6459b71ef3164dba2f6f1d09cdbe05a2
+  last_post_guid: 79d88a7cd4abff08806f795af43688d7
   score_criteria:
     cats: 0
     description: 3

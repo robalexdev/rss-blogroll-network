@@ -17,11 +17,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: CockroachDB Serverless Architecture
-  last_post_description: 《CockroachDB Serverless Architecture》这篇文章只是当一个“书签”的作用，最近看了一下
-    CockroachDB Serverless
-  last_post_date: "2025-04-03T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html
+  last_post_title: Wake on LAN 实现工作机的自动开关机
+  last_post_description: 《Wake on LAN
+  last_post_date: "2025-05-24T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2025_05_24-wake_on_lan.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

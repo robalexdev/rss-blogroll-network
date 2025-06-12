@@ -1,6 +1,6 @@
 ---
 title: deegree
-date: "2025-04-14T17:25:15Z"
+date: "2025-06-06T16:18:34Z"
 description: deegree is open source software for spatial data infrastructures and
   the geospatial web. deegree offers components for geospatial data management, including
   data access, visualization, discovery and
@@ -23,7 +23,7 @@ params:
   - docker
   - java
   relme: {}
-  last_post_title: Download docker images from docker hub
+  last_post_title: Download Docker images from Docker Hub
   last_post_description: ""
   last_post_date: "2016-08-30T00:00:00Z"
   last_post_link: https://www.deegree.org/blog/blog-download-docker-images-from-docker-hub/

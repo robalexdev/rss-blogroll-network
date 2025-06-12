@@ -18,7 +18,7 @@ params:
   categories: []
   relme:
     https://stanislas.blog/: true
-  last_post_title: Moving my personal infrastructure to Kubernetes
+  last_post_title: Moving my personal infrastructure to Kubernetes (single-node k3s)
   last_post_description: |-
     I recently moved my personal infrastructure from a few VMs managed by Ansible to a single-node Kubernetes cluster. I will cover the hardware part in the next post. First, let me explain why k8s.
     How

@@ -1,6 +1,6 @@
 ---
 title: The Gordian
-date: "2024-09-29T02:15:38+02:00"
+date: "2025-06-11T17:37:13+02:00"
 description: |-
   If then such praise the Macedonian got
   For having rudely cut the Gordian Knot...
@@ -50,32 +50,38 @@ params:
   - p2
   - provisioning
   - release
+  - repository
   - screencast
   - setup
   - thread pool
   - threading
   - version bytecode
   relme: {}
-  last_post_title: CDO 4.15 Is Available
+  last_post_title: 'CDO: New Release, New Homepage'
   last_post_description: ""
-  last_post_date: "2021-09-15T17:43:22+02:00"
-  last_post_link: https://thegordian.blogspot.com/2021/09/cdo-415-is-available.html
-  last_post_categories: []
+  last_post_date: "2025-06-11T17:37:13+02:00"
+  last_post_link: https://thegordian.blogspot.com/2025/06/cdo-new-release-new-homepage.html
+  last_post_categories:
+  - CDO
+  - EMF
+  - Eclipse
+  - Modeling
+  - repository
   last_post_language: ""
-  last_post_guid: 7edeec83101a03cf8d2f6539f2e97b62
+  last_post_guid: 750d9905b6e38c74307f61908034a6bd
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

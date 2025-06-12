@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2025-03-18T12:13:26+01:00"
+date: "2025-05-29T11:10:26+02:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml
@@ -22,15 +22,15 @@ params:
     https://molily.de/: true
     https://molily.de/robust-javascript/: true
     https://testing-angular.com/: true
-  last_post_title: Something went wrong
-  last_post_description: "Table of contents\n  \n    Smashing things against each
-    other\n    Next: Next.js\n    The JavaScript crisis\n    The community crisis\n
-    \   Camp mentality\n    Poor analysis and conspiracy theories\n    The"
-  last_post_date: "2024-09-11T00:00:00+02:00"
-  last_post_link: https://molily.de/something-went-wrong/
+  last_post_title: On the environmental impact of AI
+  last_post_description: "Recently, two articles were published and widely shared:\n\n\n
+    \ \n    How much energy does ChatGPT use?\n    Why using ChatGPT is not bad for
+    the environment\n  \n\n\nWhat these articles show is that the"
+  last_post_date: "2025-05-10T00:00:00+02:00"
+  last_post_link: https://molily.de/ai-environment/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 015e63aa8a83967e28a58db71a597599
+  last_post_guid: d0246bed9df097c7097a8e963ee4d74f
   score_criteria:
     cats: 0
     description: 3

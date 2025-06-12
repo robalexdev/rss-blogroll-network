@@ -16,25 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "9.3"
+  - General
+  - HeatWave
   - MySQL
-  - rpm
-  - sysbench
+  - OCI
   relme:
     https://lefred.be/: true
-  last_post_title: sysbench linked to latest libmysql (from MySQL 9.3)
-  last_post_description: If you are testing MySQL with sysbench, here is a RPM version
-    for Fedora 31 and OL 8 & 9 linked with the last libmysql (libmysqlclient.so.24)
-    from MySQL 9.3. This version of sysbench is from the
-  last_post_date: "2025-04-15T10:01:18Z"
-  last_post_link: https://lefred.be/content/sysbench-linked-to-latest-libmysql-from-mysql-9-3/
+  last_post_title: MySQL Hypergraph Optimizer
+  last_post_description: During the last MySQL & HeatWave Summit, Wim Coekaerts announced
+    that a new optimizer is available and is already enabled in MySQL HeatWave. Let’s
+    have a quick look at it and how to use it. The
+  last_post_date: "2025-05-21T15:33:07Z"
+  last_post_link: https://lefred.be/content/mysql-hypergraph-optimizer/
   last_post_categories:
-  - "9.3"
+  - General
+  - HeatWave
   - MySQL
-  - rpm
-  - sysbench
+  - OCI
   last_post_language: ""
-  last_post_guid: a0d7fd8ed1eb386d90a8717a7fb17857
+  last_post_guid: 1736c89d42726312fda3406d23da9bc9
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: chainsawriot
-date: "2025-04-28T00:25:05+02:00"
+date: "2025-05-30T15:09:09+02:00"
 description: ""
 params:
   feedlink: https://chainsawriot.com/feed/by_tag/emacs.xml

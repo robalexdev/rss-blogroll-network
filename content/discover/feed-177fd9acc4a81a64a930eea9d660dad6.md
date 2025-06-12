@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Music I've Been Listening To
-  last_post_description: Instead of just making an unreadable thread on Bluesky (god,
-    I miss Cohost) I figure I’d sum up some trance, techno, and other music stuff
-    I’ve been catching up on. Buncha releases I missed cuz
-  last_post_date: "2025-02-10T06:43:00Z"
-  last_post_link: https://blog.aurahack.jp/music-ive-been-listening-to/
+  last_post_title: Marathon (Closed Alpha)
+  last_post_description: |-
+    It’s probably a good sign that I can’t stop thinking about Marathon.
+    Bungie, no matter how much its upper management seems intent on death spiraling the company, is unrivaled at creating games
+  last_post_date: "2025-05-07T19:54:00Z"
+  last_post_link: https://blog.aurahack.jp/marathon/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 46653e2e6745feb40ff5c5b73823989b
+  last_post_guid: b1f6cccbcf37ea12ed4e209a7720be9b
   score_criteria:
     cats: 0
     description: 3

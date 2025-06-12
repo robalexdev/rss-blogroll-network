@@ -1,6 +1,6 @@
 ---
 title: Pydong
-date: "2025-04-05T21:47:04+02:00"
+date: "2025-05-21T23:23:28+02:00"
 description: A blog about interesting things you can do in Python, C++ and other languages.
 params:
   feedlink: https://pydong.org/feed.xml
@@ -17,16 +17,16 @@ params:
   categories:
   - C++
   relme: {}
-  last_post_title: C++26 Expansion Tricks
-  last_post_description: P1306 gives us compile time repetition of a statement for
-    each element of a range - what if we instead want the elements as a pack without
-    introducing a new function scope? In this blog post we’ll
-  last_post_date: "2025-03-21T17:39:21+01:00"
-  last_post_link: https://pydong.org/posts/ExpansionTricks/
+  last_post_title: Variadic Switch
+  last_post_description: Several years back I found an interesting question on Reddit.
+    Essentially the author asks why there is no way to expand a pack into a sequence
+    of case labels followed by a statement. It was
+  last_post_date: "2025-05-13T06:22:29+02:00"
+  last_post_link: https://pydong.org/posts/variadic-switch/
   last_post_categories:
   - C++
   last_post_language: ""
-  last_post_guid: 4996db5a9bb54ccd66ad01adbf25a25c
+  last_post_guid: f0fce5b3c5b129c5010bc17e66e1e7a3
   score_criteria:
     cats: 0
     description: 3

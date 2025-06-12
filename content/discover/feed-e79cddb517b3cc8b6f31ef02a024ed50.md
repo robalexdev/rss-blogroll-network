@@ -17,17 +17,17 @@ params:
   recommender: []
   categories:
   - AI
-  - 技术文章
+  - 互联网
   relme: {}
-  last_post_title: Browser Use 原理解析-为一个小项目能融1700万美元
-  last_post_description: Browser Use 成为近期的明星项目，两个人的纯技术开源项目，核心代码 8000 行，融资 1700 万 […]
-  last_post_date: "2025-04-07T12:29:23Z"
-  last_post_link: https://blog.cnbang.net/tech/4241/
+  last_post_title: AI Coding 与 AI 视频：从生产力工具到大众内容平台
+  last_post_description: 数字世界的创作和内容，最重要的是程序和视频。程序负责逻辑、互动；视频负责信息的表达、感知。 2024年2月 S […]
+  last_post_date: "2025-06-05T11:08:09Z"
+  last_post_link: https://blog.cnbang.net/internet/4256/
   last_post_categories:
   - AI
-  - 技术文章
+  - 互联网
   last_post_language: ""
-  last_post_guid: 53b64ce2a68db162ed1eeb79180c6b5b
+  last_post_guid: 0e937d5bbe9ed741e12fb02cf0048df9
   score_criteria:
     cats: 0
     description: 3

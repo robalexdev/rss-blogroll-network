@@ -1,6 +1,6 @@
 ---
 title: 旁逸斜出
-date: "2025-02-22T16:18:00+08:00"
+date: "2025-05-26T21:08:00+08:00"
 description: 凡有所学，皆成性格
 params:
   feedlink: https://www.mihu.live/feed/
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: .sub字幕转换为.srt格式
-  last_post_description: .sub 文件包含了实际的字幕内容（图片形式的），而 .idx
-  last_post_date: "2025-02-22T16:18:00+08:00"
-  last_post_link: https://www.mihu.live/archives/453/
+  last_post_title: CloudFlare+SaaS回源优选IP加速大陆用户访问
+  last_post_description: 网站套了cloudflare的cdn后，从大陆访问会变慢，通过cloudfare的saas回退源配置和优选ip，可以提升大陆的访问速度准备工作需要2个域名，一个为你需要加速
+  last_post_date: "2025-05-26T21:08:00+08:00"
+  last_post_link: https://www.mihu.live/archives/475/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16e83b02ade18dd08c8ae75d4f6d858e
+  last_post_guid: 15e801b0851b2e6b884a54a8b6312190
   score_criteria:
     cats: 0
     description: 3

@@ -11,34 +11,52 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Donald Trump
-  - Health Care
-  - Medicaid
-  - Ozempic
-  - Wegovy
+  - Ashley Aune
+  - Bill Hardwick
+  - Chris Brown
+  - Jon Patterson
+  - Kansas City Chiefs
+  - Kansas City Royals
+  - Kathy Steinhoff
+  - Kimberly-Ann Collins
+  - Legislature
+  - Raychel Proudie
+  - Special Session
+  - St. Louis tornado
+  - disaster aid
+  - stadium funding
   relme: {}
-  last_post_title: Biden wanted Medicaid to pay for weight-loss drugs. Trump said
-    it doesn’t have to
-  last_post_description: The Trump administration this month scrapped a Biden-era
-    proposal that would have required state Medicaid programs and allowed federal
-    Medicare to pay for some GLP-1s for obesity treatment. Instead,
-  last_post_date: "2025-04-28T20:44:26Z"
-  last_post_link: https://missouriindependent.com/2025/04/28/biden-wanted-medicaid-to-pay-for-weight-loss-drugs-trump-said-it-doesnt-have-to/
+  last_post_title: Missouri special session ends with passage of KC stadium funding,
+    disaster aid
+  last_post_description: The Missouri House closed the special legislative session
+    Wednesday with votes to finance professional sports stadiums in Kansas City and
+    provide tornado relief for St. Louis. Three special session
+  last_post_date: "2025-06-11T22:07:26Z"
+  last_post_link: https://missouriindependent.com/2025/06/11/missouri-special-session-ends-with-passage-kc-stadium-funding-disaster-aid/
   last_post_categories:
-  - Donald Trump
-  - Health Care
-  - Medicaid
-  - Ozempic
-  - Wegovy
+  - Ashley Aune
+  - Bill Hardwick
+  - Chris Brown
+  - Jon Patterson
+  - Kansas City Chiefs
+  - Kansas City Royals
+  - Kathy Steinhoff
+  - Kimberly-Ann Collins
+  - Legislature
+  - Raychel Proudie
+  - Special Session
+  - St. Louis tornado
+  - disaster aid
+  - stadium funding
   last_post_language: ""
-  last_post_guid: c6f0bbc651ca5a1553f45f0572a40b62
+  last_post_guid: e68132cd58fe966c0b0ea13524663771
   score_criteria:
     cats: 0
     description: 3

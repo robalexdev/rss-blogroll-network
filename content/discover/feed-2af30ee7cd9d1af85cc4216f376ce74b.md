@@ -18,17 +18,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - philosophy
+  - experimental
   relme: {}
-  last_post_title: to do nothing
-  last_post_description: On a rainy Saturday in Montreal, I sat alone with my thoughts—until
-    I realized they weren’t me. I call them Becky, and she never stops talking.
-  last_post_date: "2025-04-05T19:44:00Z"
-  last_post_link: https://shilin.ca/to-do-nothing/
+  last_post_title: in the elevator
+  last_post_description: A dialogue-only short story where two exes stuck in an elevator
+    confront the silence between them. Tense, emotional, and deeply human.
+  last_post_date: "2025-05-28T11:29:00Z"
+  last_post_link: https://shilin.ca/in-the-elevator/
   last_post_categories:
-  - philosophy
+  - experimental
   last_post_language: ""
-  last_post_guid: 11f111fc6d37fb9b4a052c204176716b
+  last_post_guid: 0a4a4c6473a822ef991a77e5b26ce94a
   score_criteria:
     cats: 0
     description: 3

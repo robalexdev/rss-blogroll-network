@@ -32,15 +32,13 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Bryn's 42nd birthday is in 7 days
-  last_post_description: |-
-    It's on Friday 2 May 2025.
-                On WhatsApp? Send greetings via a non-Abnib channel.
-  last_post_date: "2025-04-25T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#bryn-2025-7@birthdays.abnib.co.uk
+  last_post_title: Ash's birthday is in 7 days
+  last_post_description: It's on Monday 16 June 2025.
+  last_post_date: "2025-06-09T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#ash-2025-7@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d00cebe9d2fcb97a495fe078963208d
+  last_post_guid: f67fa1e4e8a9f297d163aafd3bfa95b7
   score_criteria:
     cats: 0
     description: 3

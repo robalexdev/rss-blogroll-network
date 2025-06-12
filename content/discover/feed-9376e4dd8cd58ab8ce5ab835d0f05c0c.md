@@ -22,36 +22,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - cicd
+  - bootstrappable
+  - debian
   - general
-  - gitdevops
   - gitlab
-  - linux
-  - p550
-  - pipeline
-  - riscv64
+  - gnu
+  - guix
+  - reproducible
+  - sbom
+  - security
+  - supply-chain
   - trisquel
-  - ubuntu
+  - trusting-trust
   relme: {}
-  last_post_title: GitLab Runner with Rootless Privilege-less Podman on riscv64
-  last_post_description: I host my own GitLab CI/CD runners, and find that having
-    coverage on the riscv64 CPU architecture is useful for testing things. The HiFive
-    Premier P550 seems to be a common hardware choice. The P550
-  last_post_date: "2025-04-25T18:30:24Z"
-  last_post_link: https://blog.josefsson.org/2025/04/25/gitlab-runner-with-rootless-privilege-less-podman-on-riscv64/
+  last_post_title: Building Debian in a GitLab Pipeline
+  last_post_description: 'After thinking about multi-stage Debian rebuilds I wanted
+    to implement the idea. Recall my illustration: Earlier I rebuilt all packages
+    that make up the difference between Ubuntu and Trisquel. It'
+  last_post_date: "2025-04-30T09:25:59Z"
+  last_post_link: https://blog.josefsson.org/2025/04/30/building-debian-in-a-gitlab-pipeline/
   last_post_categories:
-  - cicd
+  - bootstrappable
+  - debian
   - general
-  - gitdevops
   - gitlab
-  - linux
-  - p550
-  - pipeline
-  - riscv64
+  - gnu
+  - guix
+  - reproducible
+  - sbom
+  - security
+  - supply-chain
   - trisquel
-  - ubuntu
+  - trusting-trust
   last_post_language: ""
-  last_post_guid: 3581965272d87420977167c7b48a3a62
+  last_post_guid: 40f9294a20649a4a1c7fd8eea37477f3
   score_criteria:
     cats: 0
     description: 0

@@ -13,9 +13,13 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
+  - title: Joe Ross - Blogroll
+    description: ""
+    id: 75715a591f59a83d8859794fd63ae54a
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
+  - https://joeross.me/feed.xml
   categories: []
   relme: {}
   last_post_title: ATConf

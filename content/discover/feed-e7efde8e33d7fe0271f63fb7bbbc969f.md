@@ -1,6 +1,6 @@
 ---
 title: Kaffa.im
-date: "2024-12-29T10:00:00+08:00"
+date: "2025-06-05T12:00:00+08:00"
 description: ""
 params:
   feedlink: https://kaffa.im/feeds/all.atom.xml
@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - article
-  - trading
+  - Bose SoundLink
+  - digital
   relme: {}
-  last_post_title: 交易的实质——浪随风向
-  last_post_description: 本文
-  last_post_date: "2024-12-29T10:00:00+08:00"
-  last_post_link: https://kaffa.im/the-essence-of-the-deal--the-wind-blows.html
+  last_post_title: 在 Windows 上 Bose SoundLink 音箱声音自动停止问题的解决
+  last_post_description: 本文记录解决 Bose SoundLink Speaker 声音自动停止播放问题的解决方法。
+  last_post_date: "2025-06-05T12:00:00+08:00"
+  last_post_link: https://kaffa.im/the-solution-to-the-bose-soundlink-speaker-automatically-stopping-sound-on-windows.html
   last_post_categories:
-  - article
-  - trading
+  - Bose SoundLink
+  - digital
   last_post_language: ""
-  last_post_guid: 14402c2d3191aca03f5b60a9f406e913
+  last_post_guid: 93efa40261456df78c3d2fa4f8ea4bfe
   score_criteria:
     cats: 0
     description: 0

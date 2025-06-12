@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-03-14T15:44:11Z"
+date: "2025-06-06T04:53:48Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Did the Google Domains sale to Squarespace open my domain up to
-    phishers?
-  last_post_description: That time I got phishing mail from my own domain.
-  last_post_date: "2025-03-14T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/web-development/squarespace-phishing.html
+  last_post_title: luasmith gets link-checking and improved Atom feeds
+  last_post_description: Feature creep has set in for my ~270 KB static site generator,
+    luasmith.
+  last_post_date: "2025-06-01T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/static-site-generators/extending-luasmith.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 56d02125098f8939acffcc75420001e4
+  last_post_guid: cc65d8e92f0e4db7a2bcf1b0385d812d
   score_criteria:
     cats: 0
     description: 0

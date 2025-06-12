@@ -16,37 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Wordpress
-  - macOS
-  - 技术笔记
   - 日常
-  - 软件
+  - 杂文随笔
   relme: {}
-  last_post_title: 一点点展开我的 macOS
-  last_post_description: Core Alfred 是我的应用启动器，感兴趣的朋友可看：2024 Alfred 5 基础设置和 Workl […]
-  last_post_date: "2025-04-25T19:31:39Z"
-  last_post_link: https://anotherdayu.com/2025/6733/
+  last_post_title: 篝火
+  last_post_description: 放着音乐，和朋友聊天。 看着唱片起伏旋转，忽然想到，过去人们似乎也是这样围着篝火，有有一搭没一搭地聊天。 唱片 […]
+  last_post_date: "2025-06-10T18:56:00Z"
+  last_post_link: https://anotherdayu.com/2025/7051/
   last_post_categories:
-  - Wordpress
-  - macOS
-  - 技术笔记
   - 日常
-  - 软件
+  - 杂文随笔
   last_post_language: ""
-  last_post_guid: 7ec799604ed5da090335230a0a0b2089
+  last_post_guid: 6fefc80f87ff5da23f3f5ca26b971f2e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

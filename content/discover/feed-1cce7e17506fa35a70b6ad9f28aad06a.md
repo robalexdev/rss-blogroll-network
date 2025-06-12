@@ -18,16 +18,16 @@ params:
   categories:
   - emacs
   relme: {}
-  last_post_title: The TAB Key in Org Mode, Reimagined
-  last_post_description: I don't know about you, but when I'm reading something in
-    an Org file and spot a link I want to follow, I instinctively press TAB to jump
-    to it—just like I would in an Info or Help buffer. Using
-  last_post_date: "2025-03-29T08:01:00-07:00"
-  last_post_link: https://spepo.github.io/2025-03-29-the-tab-key-in-org-mode-reimagined.html
+  last_post_title: Towards Auto-Generated ERT Unit Tests
+  last_post_description: Rigorous testing clearly benefits software projects, yet
+    many Emacs Lisp packages have minimal tests. You might think manual testing during
+    development is enough—but that only works if the code
+  last_post_date: "2025-04-30T11:14:00-07:00"
+  last_post_link: https://spepo.github.io/2025-04-30-towards-auto-generated-ert-unit-tests.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: 285fe764e47dcf9234c9291856a05152
+  last_post_guid: 3e1bc48a57cc11f569902bf63af1a627
   score_criteria:
     cats: 0
     description: 3

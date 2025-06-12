@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Howto: Humble command-line assistant'
-  last_post_description: You ask, and howto answers. That's the deal.
-  last_post_date: "2025-02-22T12:00:00Z"
-  last_post_link: https://antonz.org/howto/
+  last_post_title: 'Gist of Go: Data races'
+  last_post_description: Two goroutines racing for the same data is a recipe for disaster.
+  last_post_date: "2025-06-08T17:00:00Z"
+  last_post_link: https://antonz.org/go-concurrency/data-races/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a1bb374e02552830531edec65b20e8d
+  last_post_guid: 30a195dc3e48b930420a8f049675ae93
   score_criteria:
     cats: 0
     description: 3

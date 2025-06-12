@@ -18,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Practical uses of sets
-  last_post_description: "Sets are unordered collections of values that are great
-    for removing duplicates, quick containment checks, and set operations.\n  \n    What
-    are sets?\n    \n      \n        Like lists, sets are"
-  last_post_date: "2025-04-15T23:15:00Z"
-  last_post_link: https://www.pythonmorsels.com/practical-uses-of-sets/
+  last_post_title: Looping in reverse
+  last_post_description: "Any reversible iterable can be reversed using the built-in
+    reversed function whereas Python's slicing syntax only works on sequences.\n  \n
+    \   Reversing sequences with slicing\n    \n      \n        If"
+  last_post_date: "2025-05-27T03:00:00Z"
+  last_post_link: https://www.pythonmorsels.com/looping-in-reverse/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 91cfaca86b0fa165180c496f2b293235
+  last_post_guid: 1037d9efe4a3177cbeba3175139cfb84
   score_criteria:
     cats: 0
     description: 3

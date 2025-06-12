@@ -17,18 +17,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Lisp
   relme: {}
-  last_post_title: 'Product Idea: CRT-alike OLED driver'
-  last_post_description: Here is a retro gaming product idea that I would like to
-    see on CrowdSupply. I do not know if it is actually feasible but I thought I would
-    write up the idea since I would definitely buy this product
-  last_post_date: "2023-12-06T00:09:22Z"
-  last_post_link: https://www.fitzsim.org/blog/?p=479
+  last_post_title: Lisp ELF toolkit
+  last_post_description: I recently needed to generate an ELF binary with both RPATH
+    and RUNPATH entries. I could not figure out how to produce this using linker command
+    line arguments. I was considering attempting a linker
+  last_post_date: "2025-04-18T04:35:46Z"
+  last_post_link: https://www.fitzsim.org/blog/?p=767
   last_post_categories:
-  - Uncategorized
+  - Lisp
   last_post_language: ""
-  last_post_guid: 627b3513867535f6401b215c83133683
+  last_post_guid: 5b317d2f446277f20439e806f22f2c16
   score_criteria:
     cats: 0
     description: 0

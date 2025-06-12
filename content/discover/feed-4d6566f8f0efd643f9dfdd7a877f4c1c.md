@@ -18,18 +18,17 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: 'Status Update: March 2025'
+  last_post_title: 'Status Update: April 2025'
   last_post_description: |-
-    Gâ€™day!
-    Continuing from last month, the goal for March was to complete the text
-    styling implementation for Tera. Thankfully I can now say this is done, or at
-    least done enough.
-    Figure 1 shows
-  last_post_date: "2025-03-31T00:00:00Z"
-  last_post_link: https://joshleeb.com/posts/status-update-2025-mar.html
+    G’day!
+    Most of my spare time this month has gone into Pinto. No building, or at least
+    not yet. Instead a lot of journaling, thinking, and writing.
+    Last month ended with the idea of Pinto as a
+  last_post_date: "2025-04-29T00:00:00Z"
+  last_post_link: https://joshleeb.com/posts/status-update-2025-apr.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bf274fe1542ad6741159062ee15d24c1
+  last_post_guid: fa17d6e001b50cfd29f828ccbbc5a6c9
   score_criteria:
     cats: 0
     description: 3

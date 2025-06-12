@@ -1,6 +1,6 @@
 ---
 title: ttntm.me - Likes
-date: "2025-04-15T14:10:00Z"
+date: "2025-06-11T14:55:00Z"
 description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
@@ -39,6 +39,7 @@ params:
   - https://prma.dev/posts/feed.xml
   - https://prma.dev/recommendations/feed.xml
   - https://prma.dev/til/feed.xml
+  - https://prma.dev/tils/feed.xml
   - https://www.lkhrs.com/index.xml
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml
@@ -46,13 +47,13 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 16, 2025
+  last_post_title: Week 24, 2025
   last_post_description: ""
-  last_post_date: "2025-04-15T14:10:00Z"
-  last_post_link: https://ttntm.me/likes/2025-w16/
+  last_post_date: "2025-06-11T14:55:00Z"
+  last_post_link: https://ttntm.me/likes/2025-w24/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80e64bec82e6a0036c92c7e1b8c629bf
+  last_post_guid: bf080e53edbb81a43ea62dcbeed2825a
   score_criteria:
     cats: 0
     description: 3

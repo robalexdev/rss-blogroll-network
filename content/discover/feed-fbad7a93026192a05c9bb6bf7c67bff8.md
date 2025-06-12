@@ -1,6 +1,6 @@
 ---
 title: Of Particular Significance
-date: "2025-04-14T22:34:59Z"
+date: "2025-05-24T15:12:56Z"
 description: Conversations About Science with Theoretical Physicist Matt Strassler
 params:
   feedlink: https://profmattstrassler.com/feed/atom/
@@ -15,39 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Quantum Basics
-  - QuantumEntanglement
   - Uncategorized
-  - interference
-  - quantum mechanics
   relme: {}
-  last_post_title: Is Superposition Really an &#8220;OR&#8221;?
-  last_post_description: We’ll get back to measurement, interference and the double-slit
-    experiment just as soon as I can get my math program to produce pictures of the
-    relevant wave functions reliably. I owe you some
-  last_post_date: "2025-04-14T22:34:59Z"
-  last_post_link: https://profmattstrassler.com/2025/04/14/is-superposition-really-an-or/
+  last_post_title: The War on Harvard University
+  last_post_description: 'The United States’ government is waging an all-out assault
+    on Harvard University. The strategy, so far, has been: The grounds for this war
+    is that Harvard allegedly does not provide a safe'
+  last_post_date: "2025-05-24T15:12:56Z"
+  last_post_link: https://profmattstrassler.com/2025/05/23/the-war-on-harvard-university/
   last_post_categories:
-  - Quantum Basics
-  - QuantumEntanglement
   - Uncategorized
-  - interference
-  - quantum mechanics
   last_post_language: ""
-  last_post_guid: cdfc608d153b2f66cbb7a0e8a7814113
+  last_post_guid: b36f0d2c400c85fe658904abcec15b0e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 1
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

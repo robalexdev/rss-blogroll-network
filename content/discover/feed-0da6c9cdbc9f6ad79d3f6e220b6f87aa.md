@@ -13,7 +13,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -21,31 +21,29 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Meta
-  - Oversight Board
   relme: {}
-  last_post_title: The Oversight Board gives Meta a pass on anti-trans posts
-  last_post_description: The beleaguered body’s influence has been waning — and now
-    its independence may be, too
-  last_post_date: "2025-04-25T00:00:35Z"
-  last_post_link: https://www.platformer.news/meta-oversight-board-trans-cases-kaplan-independence/
+  last_post_title: Meta looks for an AI reset
+  last_post_description: Mark Zuckerberg knows the company needs a new AI strategy.
+    Is Scale's Alexandr Wang the partner he needs?
+  last_post_date: "2025-06-11T01:30:40Z"
+  last_post_link: https://www.platformer.news/meta-scale-investment-zuckerberg-wang/
   last_post_categories:
   - Meta
-  - Oversight Board
   last_post_language: ""
-  last_post_guid: 19fd445b533248c65354b093c46a65b0
+  last_post_guid: f0d41261e7046c258c0bfa25c33df728
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

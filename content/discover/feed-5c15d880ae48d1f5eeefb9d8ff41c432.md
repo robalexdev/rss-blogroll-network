@@ -1,6 +1,6 @@
 ---
 title: Techiediaries
-date: "2025-04-18T20:56:02Z"
+date: "2025-05-06T00:24:21Z"
 description: Techiediaries is a website dedicated to bring you tutorials and articles
   about the latest software and web technologies.
 params:
@@ -18,17 +18,16 @@ params:
   categories:
   - Python
   relme: {}
-  last_post_title: '10xDev Newsletter #1: Vibe Coding, Clone UIs with AI; Python for
-    Mobile Dev; LynxJS — Tiktok New Framework;  New Angular 19, React 19, Laravel
-    12 Features; AI Fakers in Recruitment; Local-First'
-  last_post_description: 'Issue #1 of 10xDev Newsletter for modern dev technologies,
-    productivity, and devneurship in the era of AI!'
-  last_post_date: "2025-03-21T00:00:00Z"
-  last_post_link: https://www.techiediaries.com/vibe-coding-clone-uis-ai-python-mobile-lynxjs-new-angular-19-react-19-laravel-12/
+  last_post_title: 'The Full Python Cheatsheet: From Basics to Data Science'
+  last_post_description: To help beginners and professionals alike, we are sharing
+    a comprehensive Python cheatsheet that covers everything from the basic syntax
+    to powerful data science libraries. Bookmark it, print it,
+  last_post_date: "2025-05-03T00:00:00Z"
+  last_post_link: https://www.techiediaries.com/python-cheatsheet/
   last_post_categories:
   - Python
   last_post_language: ""
-  last_post_guid: db9a05b686573b3491831566e8baf3d9
+  last_post_guid: 9c8bf6b65f3c9c263887deac26b2441c
   score_criteria:
     cats: 1
     description: 3

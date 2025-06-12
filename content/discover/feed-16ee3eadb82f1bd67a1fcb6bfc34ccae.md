@@ -21,19 +21,19 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 268: Tuesday 11 – Monday 17 February 2025'
-  last_post_description: Pancakes and a Sunday Roast. Last of the current set of changes
-    to Forty Acres. A Haircut! More reading. Sugar Loaf from Fro / Bettws. Skies have
-    stayed cold and grey all week. Relentless. Gym for
-  last_post_date: "2025-02-18T13:10:09Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2025/02/18/herefordshire-week-268-tuesday-11-monday-17-february-2025/
+  last_post_title: 'Herefordshire Week 284: Tuesday 3 – Monday 9 June 2025'
+  last_post_description: A wedding. Weaving a willow basket. Rain, cloud and cool.
+    An afternoon trip to Daisy’s. Bird bonkers. Lots of reading. Heavy rain on Tuesday
+    morning. No gym as C’s on wedding week leave, so I
+  last_post_date: "2025-06-10T08:29:23Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2025/06/10/herefordshire-week-284-tuesday-3-monday-9-june-2025/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 4e2f97bf161cdf25005ffe7316e2019c
+  last_post_guid: 07c0d192bea3d1e28111af0af0fa7d8f
   score_criteria:
     cats: 0
     description: 0

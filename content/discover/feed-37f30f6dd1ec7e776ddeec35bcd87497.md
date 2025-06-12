@@ -1,7 +1,7 @@
 ---
 title: Reyboz Blog
 date: "1970-01-01T00:00:00Z"
-description: Things, about stuff.
+description: Yet another Wikimedian talking about Free Software
 params:
   feedlink: https://blog.reyboz.it/feed/
   feedtype: rss

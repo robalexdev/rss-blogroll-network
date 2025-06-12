@@ -1,6 +1,6 @@
 ---
 title: 大小碗诗话
-date: "2024-09-30T15:17:38Z"
+date: "2025-06-05T15:22:20Z"
 description: 一个写诗的基督徒，大河原诗歌原创、经典翻译、圣经随笔
 params:
   feedlink: https://christianpoet.github.io/atom.xml

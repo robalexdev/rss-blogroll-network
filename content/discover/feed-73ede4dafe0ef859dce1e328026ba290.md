@@ -1,6 +1,6 @@
 ---
 title: blog.jmp.chat's blog
-date: "2024-09-28T03:43:20Z"
+date: "2024-01-09T22:01:48Z"
 description: ""
 params:
   feedlink: https://blog.jmp.chat/atom.xml
@@ -16,20 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - android
-  - newsletter
-  - seagl
+  - certwatch
+  - dane
+  - dnssec
+  - jabber
+  - mitm
+  - security
+  - tls
+  - xmpp
   relme: {}
-  last_post_title: 'Newsletter: JMP at SeaGL, Cheogram now on Amazon'
+  last_post_title: Mitigating MITMs in XMPP
   last_post_description: ""
-  last_post_date: "2024-12-18T15:37:10Z"
-  last_post_link: http://blog.jmp.chat/b/october-newsletter-2024
+  last_post_date: "2025-06-05T23:27:10Z"
+  last_post_link: http://blog.jmp.chat/b/mitigating-mitms-in-xmpp
   last_post_categories:
-  - android
-  - newsletter
-  - seagl
+  - certwatch
+  - dane
+  - dnssec
+  - jabber
+  - mitm
+  - security
+  - tls
+  - xmpp
   last_post_language: ""
-  last_post_guid: 6314eda8a01ff22b69ba0c65f83022bd
+  last_post_guid: b213b9b4c185b0f6119e472715402094
   score_criteria:
     cats: 0
     description: 0

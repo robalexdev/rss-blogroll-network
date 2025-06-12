@@ -51,15 +51,15 @@ params:
   - Society & Culture
   relme:
     https://www.manton.org/: true
-  last_post_title: AI prompts vs. agents
-  last_post_description: If you’re already sick of hearing about AI now, it’s going
-    to get worse in 2025. The next trend is so-called AI agents. Software that can
-    go off and accomplish more tasks on your behalf, with
-  last_post_date: "2025-01-07T12:52:06-04:00"
-  last_post_link: https://www.manton.org/2025/01/07/ai-prompts-vs-agents.html
+  last_post_title: Not today, but eventually
+  last_post_description: After I drafted this blog post, the part that follows the
+    horizontal rule in a moment, I wasn’t sure I would publish it. Then I read this
+    post by Thomas Ptacek. This line resonated with me
+  last_post_date: "2025-06-04T07:44:32-07:00"
+  last_post_link: https://www.manton.org/2025/06/04/not-today-but-eventually.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d4f1914da3e2c27b92a517d9d1f4682
+  last_post_guid: 1d62c75bc586f9360497065fff31b060
   score_criteria:
     cats: 1
     description: 3

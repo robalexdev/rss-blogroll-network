@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2025-04-20T16:56:01+08:00"
+date: "2025-06-07T22:46:21+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -20,10 +20,12 @@ params:
   - https://blog.hslzz.cn/atom.xml
   - https://blog.kingfish404.cn/index.xml
   - https://blog.vull.top/atom.xml
+  - https://emohe.cn/rss.xml
   - https://geektutu.com/atom.xml
   - https://jiaoyuan.org/index.xml
   - https://mozz.ie/index.xml
   - https://sinofine.me/atom.xml
+  - https://ttio.cc/feed/
   - https://www.dao.js.cn/feed.php
   - https://www.wikimoe.com/rss
   - https://www.yunyoujun.cn/atom.xml
@@ -36,22 +38,23 @@ params:
   - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - AI
-  - Feed
-  - JavaScript
-  - RSS
-  relme: {}
-  last_post_title: 如何使用JS通过订阅源查看文章？
-  last_post_description: 懒得写代码？那就让AI写！
-  last_post_date: "2025-04-08T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2025/04/08/feed.html
+  - IndieWeb
+  - 优化
+  - 博客
+  relme:
+    https://github.com/Mabbs: true
+    https://mabbs.github.io/: true
+    https://mayx.eu.org/: true
+  last_post_title: 近期对博客的修改与优化记录
+  last_post_description: 在修改博客的时候也能学到不少新知识啊～
+  last_post_date: "2025-06-02T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2025/06/02/optimize.html
   last_post_categories:
-  - AI
-  - Feed
-  - JavaScript
-  - RSS
+  - IndieWeb
+  - 优化
+  - 博客
   last_post_language: ""
-  last_post_guid: 6c58862436cd4c6ae0032d16de8fbbef
+  last_post_guid: c734cfe88f2896f006ee4def66793685
   score_criteria:
     cats: 0
     description: 3
@@ -60,11 +63,11 @@ params:
     hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 9
-    relme: 0
+    promotes: 10
+    relme: 2
     title: 3
     website: 2
-  score: 32
+  score: 35
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -16,16 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stderr
+  - stdout
   relme: {}
-  last_post_title: 语言，逆差
-  last_post_description: "又睡不着，琢磨一段话：\n\n多戲超人 @DoubleFakeCute： 文字很容易传播仇恨，但很难传递感动。\n@yetone： "
-  last_post_date: "2025-04-15T05:54:00+08:00"
-  last_post_link: https://blog.est.im/2025/stderr-03
+  last_post_title: A single Python function for both async/sync
+  last_post_description: |-
+    Scenario: I often need to write Python functions like:
+
+    take some parameters and format them
+    call an API with the formatted parameters
+    parse the result and return chosen values
+
+    There's a huge
+  last_post_date: "2025-05-14T14:35:00+08:00"
+  last_post_link: https://blog.est.im/2025/stdout-04
   last_post_categories:
-  - stderr
+  - stdout
   last_post_language: ""
-  last_post_guid: df8e710de84fef9f9d7e8ff7c070a5a0
+  last_post_guid: b52c2d3846f9370203304961362b2792
   score_criteria:
     cats: 0
     description: 3

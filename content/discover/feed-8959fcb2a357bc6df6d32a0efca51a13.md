@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Typo Minimizing Keyboard
-  last_post_description: Layout optimization problem
-  last_post_date: "2025-04-06T18:48:00Z"
-  last_post_link: https://grantslatton.com/typo-minimizing-keyboard
+  last_post_title: LLM Memory
+  last_post_description: Some thoughts on implementations
+  last_post_date: "2025-05-19T15:07:00Z"
+  last_post_link: https://grantslatton.com/llm-memory
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c7ebe60de028dae4324bafa529a578cf
+  last_post_guid: 3cdb939a7331d57191cb998e48ea5b67
   score_criteria:
     cats: 0
     description: 3

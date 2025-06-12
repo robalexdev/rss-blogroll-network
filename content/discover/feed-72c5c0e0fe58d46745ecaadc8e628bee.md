@@ -15,29 +15,30 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Desktops
   relme: {}
-  last_post_title: Wayland has a bright future ahead
-  last_post_description: The move from Xorg to Wayland had a rough start, but things
-    have improved, and there is an exciting roadmap for the future.
-  last_post_date: "2025-04-15T11:02:19Z"
-  last_post_link: https://thelibre.news/wayland-has-a-bright-future-ahead/
-  last_post_categories: []
+  last_post_title: 'Ghostty in review: how''s the new terminal emulator?'
+  last_post_description: Survey says, pretty good.
+  last_post_date: "2025-06-11T14:23:24Z"
+  last_post_link: https://thelibre.news/ghostty-in-review-hows-the-new-terminal-emulator/
+  last_post_categories:
+  - Desktops
   last_post_language: ""
-  last_post_guid: cd351bd551cf104a39d99dc8b8fc74ff
+  last_post_guid: c39acb25ec98099187a51408ac329115
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

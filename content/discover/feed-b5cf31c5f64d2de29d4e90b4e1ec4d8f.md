@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://zylinski.se/: true
-  last_post_title: 'Handle-based maps: Three implementations'
-  last_post_description: |-
-    In my post “Handles are the better pointers”: An Odin gamedev follow-up I talked about how one can implement a handle-based map in Odin.
-    In this post I want to follow that up by talking about
-  last_post_date: "2025-04-10T16:43:00+02:00"
-  last_post_link: https://zylinski.se/posts/handle-based-maps-three-implementations/
+  last_post_title: 'Odin: A programming language made for me'
+  last_post_description: In my book Understanding the Odin Programming Language I
+    wrote that “Odin incorporates some of my favorite C best practices, straight into
+    the language”. But I didn’t really elaborate on the
+  last_post_date: "2025-05-12T13:04:00+02:00"
+  last_post_link: https://zylinski.se/posts/a-programming-language-for-me/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 35b669f4e8510d9fb704d127abade52b
+  last_post_guid: e12e529a79410243eebb5965d228123b
   score_criteria:
     cats: 0
     description: 3

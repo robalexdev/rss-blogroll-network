@@ -1,7 +1,7 @@
 ---
 title: technicalwriting.dev
-date: "2025-01-03T12:41:04-07:00"
-description: A blog about technical writing by Kayce Basques.
+date: "2025-05-15T15:34:40-07:00"
+description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
   feedtype: rss
@@ -18,14 +18,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The good, the bad, and the ugly of managing Sphinx projects with
-    Bazel
-  last_post_description: My experience of managing Sphinx projects with Bazel.
-  last_post_date: "2025-04-01T16:43:36-07:00"
-  last_post_link: https://technicalwriting.dev/sphinx/bazel/context.html
+  last_post_title: Understanding task types in the Gemini Embedding API
+  last_post_description: |-
+    The models.embedContent method of the Gemini Embedding API supports a
+            taskType parameter. This parameter lets you specify what kind of task the
+            embedding will be used for. Let's try
+  last_post_date: "2025-05-15T15:34:40-07:00"
+  last_post_link: https://technicalwriting.dev/ml/embeddings/tasks/index.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7223151c0ed7f7520826153dbe502bce
+  last_post_guid: 06ecb7e530a366dc9a054a88a8df338f
   score_criteria:
     cats: 0
     description: 3

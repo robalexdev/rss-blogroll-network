@@ -22,16 +22,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: It's easier than ever to de-censor videos
-  last_post_description: |-
-    It's easier than ever to de-censor videos
-
-                Last month I asked people to hack part of my YouTube video, specifically to de-pixelate the contents of a folder I had pixelated starting at the
-  last_post_date: "2025-04-15T17:00:33Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos
+  last_post_title: Sipeed NanoCluster fits 7-node Pi cluster in 6cm
+  last_post_description: "Sipeed NanoCluster fits 7-node Pi cluster in 6cm\n\n            \n\nSipeed's
+    NanoCluster is a tiny compute module clusterboard with room for up to 7 tiny computers.\n\nEach
+    slot has two inline M.2 (NGFF)"
+  last_post_date: "2025-06-06T14:00:39Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/sipeed-nanocluster-fits-7-node-pi-cluster-6cm
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 03ad17530ef22f38b99f38938d25834f
+  last_post_guid: 1831eceb4c00fcb3cd1ad353c5a134b9
   score_criteria:
     cats: 0
     description: 0

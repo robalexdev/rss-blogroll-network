@@ -17,37 +17,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Software Development
-  - Systems Thinking
   - newsletter
-  - symmathesy
+  - tistil
   relme: {}
-  last_post_title: Software development is…
-  last_post_description: There is something puzzling about software development. It
-    doesn’t work like many tasks, it doesn’t break down the same way. It feels strangely
-    personal, like there’s a connection between the
-  last_post_date: "2025-02-18T01:07:59Z"
-  last_post_link: https://jessitron.com/2025/02/17/software-development-is/
+  last_post_title: Fixing Without Understanding
+  last_post_description: A while back, I washed a book in a load of laundry. It got
+    all the way through the dryer before I realized what all this white stuff was.
+    Ooops! I’ve been feeling bad for all the fuzz left in the
+  last_post_date: "2025-05-19T01:45:49Z"
+  last_post_link: https://jessitron.com/2025/05/18/fixing-without-understanding/
   last_post_categories:
-  - Software Development
-  - Systems Thinking
   - newsletter
-  - symmathesy
+  - tistil
   last_post_language: ""
-  last_post_guid: d42e600dd8f8a9f1882d461efb71a4e3
+  last_post_guid: 91ea35bbbb1794a0313e1c899bfe84e5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,6 +17,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: OPML for all feeds in Cory Dransfeldt's blogroll
+    description: ""
+    id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
@@ -25,32 +28,30 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - development
-  - work
   relme: {}
-  last_post_title: The difference between programs and products
-  last_post_description: The whole “vibe coding” thing is another reminder that quite
-    a lot of people working in tech don’t understand the difference between programs
-    and products -- Dylan Beattie in The Problem with
-  last_post_date: "2025-04-18T09:04:00Z"
-  last_post_link: https://rachsmith.com/the-difference-between-programs-and-products/
+  last_post_title: A stack of browsers
+  last_post_description: "I was a very happy Arc user for a couple of years, but after
+    The Browser Company announced they would no longer be working on it, I started
+    to assess alternatives. \nNow I've ended up with a stack of"
+  last_post_date: "2025-06-01T13:06:00Z"
+  last_post_link: https://rachsmith.com/a-stack-of-browsers/
   last_post_categories:
   - development
-  - work
   last_post_language: ""
-  last_post_guid: 815e63db02b66363727ef2427b2bb8ba
+  last_post_guid: 3343c619666b4ec9bf88f714b372fce4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -34,15 +34,17 @@ params:
   relme:
     https://clarale.com/: true
     https://github.com/hgcl: true
-  last_post_title: '#51 Getting off tracks'
+    https://github.com/hgcl/: true
+    https://mastodon.roflcopter.fr/@clarale: true
+  last_post_title: '#52 Back on the Mainland'
   last_post_description: |-
-    Still in China, now in Xiamen.
-    If everything goes well, we should be in Taiwan (yay, bubble teas!) in a bit less than a week to do a visa-run. We are getting a bit tired of the touristy sights and
-  last_post_date: "2025-04-14T00:00:00Z"
-  last_post_link: https://clarale.com/posts/51-getting-off-tracks/
+    Back in Mainland China (in Shaoxing) after a short parenthesis in Taiwan.
+    How time flies! Our trip to Taiwan has already come to an end. It was a big shock to observe how different this island feels
+  last_post_date: "2025-05-14T00:00:00Z"
+  last_post_link: https://clarale.com/posts/52-back-on-the-mainland/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72ac94779723f79775694756a131861e
+  last_post_guid: 029b93de3f54e42f17d08232f3d1c7c5
   score_criteria:
     cats: 0
     description: 3

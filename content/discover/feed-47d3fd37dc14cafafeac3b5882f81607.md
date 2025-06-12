@@ -17,17 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The philosophical problem of induction, and the problem of Fetzer
-  last_post_description: |-
-    Bertrand Russell has written an essay that asks,
-    “We are all convinced that the sun will rise to-morrow. Why?”
-    This remarkable question takes us to the philosophical problem of induction1
-    and
-  last_post_date: "2025-03-28T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2025/03/28/Induction_Fetzer.html
+  last_post_title: Inductive definitions
+  last_post_description: "The previous post \ndiscussed the simplest sort of definitions,\nthose
+    that are essentially abbreviations.\nAn inductive definition is conceptionally
+    quite different.\nThe simplest example is to say that"
+  last_post_date: "2025-06-09T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2025/06/09/Inductive_Definitions.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eb7945aad21978c46397d2154eca0a5d
+  last_post_guid: a294d7b1d6d92e5331dc4ac6c224e989
   score_criteria:
     cats: 0
     description: 3

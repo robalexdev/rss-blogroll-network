@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: Estranged Labour
+  last_post_title: Aurel's Grand Theater
   last_post_description: ""
-  last_post_date: "2025-03-02T14:04:41Z"
-  last_post_link: https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm
+  last_post_date: "2025-06-06T20:51:32Z"
+  last_post_link: https://aurelienvigne.com/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 779ab33a4c32b1f1d380dde03a764f23
+  last_post_guid: c4c88831900706898c17a4485ef369e4
   score_criteria:
     cats: 0
     description: 3

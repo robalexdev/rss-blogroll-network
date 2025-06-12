@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-04-27T09:23:39Z"
+date: "2025-05-16T06:11:36Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -15,32 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - TIL
+  - friends
+  - obituary
   - python
   relme: {}
-  last_post_title: 'TIL: Pipe operator for merging dictionaries'
-  last_post_description: In Python 3.9 and later, the pipe operator | can be used
-    to merge dictionaries.
-  last_post_date: "2025-04-27T09:23:39Z"
-  last_post_link: https://daniel.feldroy.com/posts/til-2025-04-Pipe-operator-for-merging-dictionaries
+  last_post_title: Farewell to Michael Ryabushkin
+  last_post_description: In early May of 2025 Michael Ryabushkin (aka Goodwill) passed
+    away. He was a great friend and an even better person. I will miss him dearly.
+  last_post_date: "2025-05-16T06:11:36Z"
+  last_post_link: https://daniel.feldroy.com/posts/2025-05-farewell-to-michael-ryabushkin
   last_post_categories:
-  - TIL
+  - friends
+  - obituary
   - python
   last_post_language: ""
-  last_post_guid: 0df05323e6ebaff3c92abe438aa4a1bd
+  last_post_guid: b59514ebd3ae7677c01d07f042d8fd2c
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 1
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

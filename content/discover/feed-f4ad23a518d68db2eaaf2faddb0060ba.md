@@ -15,24 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - L10n Reports
   - Mozilla L10n team
   - Planet
   - Pontoon
   relme: {}
-  last_post_title: 'L10n report: April 2025 Edition'
-  last_post_description: Please note some of the information provided in this report
-    may be subject to change as we are sometimes sharing information about projects
-    that are still in early stages and … Read more
-  last_post_date: "2025-04-25T18:57:06Z"
-  last_post_link: https://blog.mozilla.org/l10n/2025/04/25/l10n-report-april-2025-edition/
+  last_post_title: 'Lost (and Found) in Translation: My Internship Story'
+  last_post_description: If you were to ask my parents or sister what my favourite
+    hobby was as a child, they’d say something along the lines of “sitting in front
+    of our family … Read more
+  last_post_date: "2025-04-28T18:08:20Z"
+  last_post_link: https://blog.mozilla.org/l10n/2025/04/28/lost-and-found-in-translation-my-internship-story/
   last_post_categories:
-  - L10n Reports
   - Mozilla L10n team
   - Planet
   - Pontoon
   last_post_language: ""
-  last_post_guid: f3b0b984c1cc50a0624e7403b67673c4
+  last_post_guid: 9f30b7435b21c3bc6416b53b3ce75866
   score_criteria:
     cats: 0
     description: 3

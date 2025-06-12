@@ -1,6 +1,6 @@
 ---
 title: Mind the Gap
-date: "2024-11-01T10:33:42Z"
+date: "2025-05-24T08:00:18+01:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/34692233/posts/default

@@ -18,15 +18,19 @@ params:
   categories: []
   relme:
     https://www.djangoproject.com/weblog/: true
-  last_post_title: New Features GitHub repo and project
-  last_post_description: Django is experimenting with a new GitHub repository specifically
-    designed to manage feature ideas and their progression. This is a significant
-    shift away from the previous process of posting those
-  last_post_date: "2025-04-26T09:58:08-05:00"
-  last_post_link: https://www.djangoproject.com/weblog/2025/apr/26/new-features-github-repo-and-project/
+  last_post_title: 'Django bugfix releases issued: 5.2.3, 5.1.11, and 4.2.23'
+  last_post_description: |-
+    Following the June 4, 2025 security release, the Django team is issuing
+    releases for
+    Django 5.2.3,
+    Django 5.1.11, and
+    Django 4.2.23 to
+    complete mitigation for CVE-2025-48432: Potential log injection
+  last_post_date: "2025-06-10T03:06:32-05:00"
+  last_post_link: https://www.djangoproject.com/weblog/2025/jun/10/bugfix-releases/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9f9be4a359de7a718b669f8f351497ed
+  last_post_guid: cb8034afe876a64d77c2bd5c8df7e08a
   score_criteria:
     cats: 0
     description: 3

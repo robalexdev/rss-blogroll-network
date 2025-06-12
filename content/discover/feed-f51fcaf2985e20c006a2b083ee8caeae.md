@@ -17,21 +17,17 @@ params:
   recommender: []
   categories:
   - "2025"
-  - Life
+  - li'fe
   relme: {}
-  last_post_title: 五一碎碎念
-  last_post_description: !!binary |
-    5LuK5bm05LqU5LiA6L+H5b6X54m55Yir5b+r77yM5Y+v6IO95piv5Zug5Li66Ieq5bex5p
-    +T55a+5LqG77yM5Zyo5a625aS05Lik5aSp5bCx6Lq65bmz5LqG44CCCuaIkeiusOW+l+aI
-    keaYr+WRqOS6lOS4i+WNiOW8gOWni+inieW+l+iFv+mDqOacieS6m+mFuO+8jOaIkeaJje
-    aYr+S7peS4uuaYr+WJjeS4gOWkqei3keatpe+8jOaLieS8uOS4jeWkn+M=
-  last_post_date: "2025-05-09T05:45:21Z"
-  last_post_link: https://www.jackpu.com/wu-yi-sui-sui-nian/
+  last_post_title: 我回忆的2008
+  last_post_description: 前些天是 512，汶川大地震距今已经17
+  last_post_date: "2025-05-19T08:20:04Z"
+  last_post_link: https://www.jackpu.com/wo-hui-yi-de-2008/
   last_post_categories:
   - "2025"
-  - Life
+  - li'fe
   last_post_language: ""
-  last_post_guid: f3e35f53c9b01c0b486d82a56f283a3a
+  last_post_guid: 2f62b58258dcdaf75c5b2dadca3dd800
   score_criteria:
     cats: 0
     description: 3

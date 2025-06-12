@@ -12,39 +12,33 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Congress
-  - DOGE
-  - News
-  - Richard Nixon
-  - Senate
-  - Trump
-  - impoundment
-  - rescission package
+  - Ron Johnson
+  - Senate Republicans
+  - Trump II
+  - Where Things Stand
+  - military
   relme: {}
-  last_post_title: Trump Allies Prep Plan To Make DOGE Seem Like A Good, Normal, Law-Abiding
-    Operation
-  last_post_description: The White House is planning to send a rescission package
-    to Capitol Hill in the coming days, part of an...
-  last_post_date: "2025-04-28T17:54:08Z"
-  last_post_link: https://talkingpointsmemo.com/news/trump-allies-prep-plan-to-make-doge-seem-like-a-good-normal-law-abiding-operation
+  last_post_title: Performative Austerity Vanishes As GOP Flees Town Before Trump’s
+    Dictator-Style Parade
+  last_post_description: Hardly any Republicans in the Senate want to be caught dead
+    at President Trump’s big boy parade this weekend. The...
+  last_post_date: "2025-06-11T22:22:02Z"
+  last_post_link: https://talkingpointsmemo.com/where-things-stand/performative-austerity-vanishes-as-gop-flees-town-before-trumps-dictator-style-parade
   last_post_categories:
-  - Congress
-  - DOGE
-  - News
-  - Richard Nixon
-  - Senate
-  - Trump
-  - impoundment
-  - rescission package
+  - Ron Johnson
+  - Senate Republicans
+  - Trump II
+  - Where Things Stand
+  - military
   last_post_language: ""
-  last_post_guid: 5a360e750e62a89f5b8948ce2de94e6d
+  last_post_guid: 61df9ac3b7232022cdde603984f7a360
   score_criteria:
     cats: 0
     description: 3

@@ -18,31 +18,29 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - employment
-  - javascript
-  - job
-  - open source
-  - standards
-  - web
-  - web development
+  - book
+  - books
+  - published on gemini
+  - reading
+  - sexuality
+  - werewolves
   relme: {}
-  last_post_title: '[Article] Deprecate React'
-  last_post_description: Just to reassure myself that I really can do all the things
-    I say on my CV, I've been looking at tech tests that touch on each of them. I
-    can definitely write React, for example... but... I might
-  last_post_date: "2025-04-26T15:08:27+01:00"
-  last_post_link: https://danq.me/2025/04/26/deprecate-react/
+  last_post_title: '[Article] Bored Gay Werewolf by Tony Santorella'
+  last_post_description: I recently read Bored Gay Werewolf by Tony Santorella. I
+    guess it's got a 'werewolf'. It barely feels 'gay'. It certainly left me 'bored',
+    at times. Turns out that it's a very middle-of-the-road
+  last_post_date: "2025-06-09T09:31:05+01:00"
+  last_post_link: https://danq.me/2025/06/09/bored-gay-werewolf-by-tony-santorella/
   last_post_categories:
   - Personal
-  - employment
-  - javascript
-  - job
-  - open source
-  - standards
-  - web
-  - web development
+  - book
+  - books
+  - published on gemini
+  - reading
+  - sexuality
+  - werewolves
   last_post_language: ""
-  last_post_guid: 6a491967fd4f42ea4b75a0245cf526ee
+  last_post_guid: 9d22a940a835bd5c8c915d8eeacae436
   score_criteria:
     cats: 0
     description: 3

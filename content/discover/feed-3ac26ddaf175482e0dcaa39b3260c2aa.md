@@ -1,7 +1,7 @@
 ---
-title: Posts on (a)RManos Blog
+title: Posts on RManos Blog
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Posts on (a)RManos Blog
+description: Recent content in Posts on RManos Blog
 params:
   feedlink: https://rm4n0s.github.io/posts/index.xml
   feedtype: rss

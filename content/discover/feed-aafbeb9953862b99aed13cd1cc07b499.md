@@ -18,25 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#quantum'
-  - '#energy'
-  - '#variables'
-  - '#errors'
-  - '#rsa'
-  - '#secrecy'
+  - '#nist'
+  - '#iso'
+  - '#deployment'
+  - '#performance'
+  - '#security'
   relme: {}
-  last_post_title: As expensive as a plane flight
-  last_post_description: 'Looking at some claims that quantum computers won''t work.
-    #quantum #energy #variables #errors #rsa #secrecy'
-  last_post_date: "2025-01-18T17:45:19Z"
-  last_post_link: http://blog.cr.yp.to/20250118-flight.html
+  last_post_title: McEliece standardization
+  last_post_description: 'Looking at what''s happening, and analyzing rationales.
+    #nist #iso #deployment #performance #security'
+  last_post_date: "2025-04-28T10:38:45Z"
+  last_post_link: http://blog.cr.yp.to/20250423-mceliece.html
   last_post_categories:
-  - '#quantum'
-  - '#energy'
-  - '#variables'
-  - '#errors'
-  - '#rsa'
-  - '#secrecy'
+  - '#nist'
+  - '#iso'
+  - '#deployment'
+  - '#performance'
+  - '#security'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:

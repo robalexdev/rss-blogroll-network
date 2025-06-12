@@ -22,16 +22,16 @@ params:
   categories:
   - Weeknotes
   relme: {}
-  last_post_title: Weeknotes 25:16
-  last_post_description: First week This was my first full week of working remotely
-    for my new job. As I mentioned, I had traveled up to Michigan to onboard at Revive
-    Our Hearts office the week before. That time was filled
-  last_post_date: "2025-04-21T21:50:45Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-april-21-2025/
+  last_post_title: Weeknotes 25:23
+  last_post_description: CSS Day I was really excited a couple of weeks ago when I
+    found out that CSS Day was going to have a live stream option available for purchase.
+    CSS Day is one of the few, if only CSS focused
+  last_post_date: "2025-06-09T22:09:32Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-june-9-2025/
   last_post_categories:
   - Weeknotes
   last_post_language: ""
-  last_post_guid: ba40864a6e2d0cf98c853dfe7c5281cb
+  last_post_guid: eebf0bd9d7b190af2f0f87e5420b819b
   score_criteria:
     cats: 0
     description: 3

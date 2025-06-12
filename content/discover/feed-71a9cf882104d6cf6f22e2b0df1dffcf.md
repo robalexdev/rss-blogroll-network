@@ -30,12 +30,7 @@ params:
   - https://danq.me/kind/note/feed/
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
-  categories:
-  - AfroFunk
-  - AfroJazz
-  - Live Music
-  - Makossa
-  - Manu Dibango
+  categories: []
   relme:
     https://amf.didiermary.fr/: true
     https://amf.didiermary.fr/donate-support-amf/: true
@@ -44,33 +39,28 @@ params:
     https://masto.ai/@cybeardjm: true
     https://pixelfed.social/cybeardjm: true
     https://www.didiermary.fr/: true
-  last_post_title: Dibango 82 (live)
-  last_post_description: “Dibango 82” an unreleased live recording by Manu Dibango,
-    taped in Marseille, Dec 1982 and remastered with INA‘s help. [INA is the acronym
-    of Institut national de l’audiovisuel, a repository
-  last_post_date: "2025-04-23T17:45:22Z"
-  last_post_link: https://amf.didiermary.fr/dibango-82-live/
-  last_post_categories:
-  - AfroFunk
-  - AfroJazz
-  - Live Music
-  - Makossa
-  - Manu Dibango
+  last_post_title: Orquestra Afro-Brasileira
+  last_post_description: RSS Club only!  Orquestra Afro-Brasileira was founded in
+    1942 in Rio de Janeiro and lasted until 1970. It was formed by musician Abigail
+    Moura, who combined classical and jazz music with the
+  last_post_date: "2025-06-11T19:00:29Z"
+  last_post_link: https://amf.didiermary.fr/rss-club/orquestra-afro-brasileira/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: bbdcb52a3c3c45b545baa3853abe9f44
+  last_post_guid: f0b6d082b74331ea171442987c82a8ab
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

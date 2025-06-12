@@ -20,17 +20,17 @@ params:
     https://github.com/LocalFreedom: true
     https://localfreedom.github.io/: true
     https://mastodon.social/@reserve2freedom: true
-  last_post_title: Win10/11 不联网强制开启移动热点
-  last_post_description: |-
-    1
-
-
-    powershell -ExecutionPolicy -ByPass "$profile = [Windows.Networking.Connectivity.NetworkInformation,Windows.Networking.Connectivity,ContentType=WindowsRuntime]::GetConnectionProfiles() | where
-  last_post_date: "2025-04-10T12:02:35Z"
-  last_post_link: https://localfreedom.github.io/p/win10/11-%E4%B8%8D%E8%81%94%E7%BD%91%E5%BC%BA%E5%88%B6%E5%BC%80%E5%90%AF%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9/
+  last_post_title: 被博通收购后免费的 VMware Workstation Pro 下载方法
+  last_post_description: !!binary |
+    Vk13YXJl5piv6JGX5ZCN55qE5Liq5Lq65qGM6Z2i6Jma5ouf5py66L2v5Lu277yM5pyJ5Y
+    +L5aW955qE55So5oi355WM6Z2i77yM5by65aSn55qE6Jma5ouf5pi+5Y2h6IO95Yqb44CC
+    CuWwpOWFtuaYr+eUqOiZmuaLn+acuui/kOihjDNE5ri45oiP77yM5Yeg5LmO5piv5L6/5o
+    235Y+v6KGM55qE5ZSv5LiA6YCJ5oup44CCCuW4gumdouS4iuS4gOebtOY=
+  last_post_date: "2025-05-10T01:59:15Z"
+  last_post_link: https://localfreedom.github.io/p/%E8%A2%AB%E5%8D%9A%E9%80%9A%E6%94%B6%E8%B4%AD%E5%90%8E%E5%85%8D%E8%B4%B9%E7%9A%84-vmware-workstation-pro-%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 61a39124c030ac134a05bdc2b3adccdc
+  last_post_guid: f4cdeb7648f8e2d6398079581d1a3eb2
   score_criteria:
     cats: 0
     description: 3

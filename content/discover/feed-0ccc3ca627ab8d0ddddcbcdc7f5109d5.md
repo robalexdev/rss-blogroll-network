@@ -1,6 +1,6 @@
 ---
 title: Webbed Briefs
-date: "2025-02-06T00:00:00Z"
+date: "2025-05-28T00:00:00Z"
 description: Brief videos about the web
 params:
   feedlink: https://briefs.video/feed.xml
@@ -30,14 +30,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Why is everything binary?
-  last_post_description: All of my videos are black and white, but especially this
-    one.
-  last_post_date: "2025-02-06T00:00:00Z"
-  last_post_link: https://briefs.video/videos/why-is-everything-binary/
+  last_post_title: 'Introducing: Webbed Sites'
+  last_post_description: |-
+    We (I) are (am) proud to announce our (my) new no-code website building tool.
+    And we (I) are (am) very sorry indeed.
+  last_post_date: "2025-05-28T00:00:00Z"
+  last_post_link: https://briefs.video/videos/introducing-webbed-sites/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 77747ae9714dafc2201eeddfbf74ac00
+  last_post_guid: 42d12f60fb537b5b875245114affaf8c
   score_criteria:
     cats: 0
     description: 3

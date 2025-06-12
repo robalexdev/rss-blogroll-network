@@ -17,13 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 解锁 Redmi K40S（HyperOS 1.0）的 bootloader
-  last_post_description: 从 HyperOS 开始，解锁
-  last_post_date: "2025-03-13T00:00:00+08:00"
-  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/03/13/unlock-redmi-k40s-hyperos1/
+  last_post_title: 从看蔡徐坤的迷因到听蔡徐坤的歌
+  last_post_description: !!binary |
+    56ys5LiA5qyh55+l6YGT6JSh5b6Q5Z2k77yM5piv5Zug5Li65LuW55qE6L+35Zug77yI5q
+    KX77yJ5aSq54Gr54iG5LqG77yM5Zyo572R5LiK57uP5bi455yL5Yiw44CM6bih5L2g5aSq
+    576OMeOAjeWSjOOAjOiUoeW+kOWdpOaJk+evrueQg+OAjeeahOi/t+WboOinhumikeOAgu
+    aIkei/mOaMuueIseeci+iUoeW+kOWdpOeahOi/t+WboO+8jOWTiOWTiOM=
+  last_post_date: "2025-06-04T00:00:00+08:00"
+  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/06/04/caixukun-meme-to-music/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11d3f04267d0f02241a53f90820655a6
+  last_post_guid: e31a0d65b9961096e2a05fb6f2ca3d19
   score_criteria:
     cats: 0
     description: 3

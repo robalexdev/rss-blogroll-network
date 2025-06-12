@@ -17,17 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: About the time I trashed my mother's laptop
+  last_post_title: 'Lenovo ThinkCentre M900 Tiny: how does it fare as a home server?'
   last_post_description: |-
-    Around 2003, my mother had a laptop: the Compaq Armada 1592DT.
-    It ran Windows Me, the worst Windows to ever exist, whopping 96 MB of RAM,
-    and a 3 GB hard drive.
-    My mother used it for important stuff,
-  last_post_date: "2025-04-08T19:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2025/04/08/how-i-trashed-a-laptop/
+    My evenings of absent-minded local auction site scrolling1 paid off: I now own
+    a Lenovo ThinkCentre M900 Tiny.
+    It’s relatively old, being manufactured in 20162, but it’s tiny and has a lot of
+  last_post_date: "2025-06-06T11:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2025/06/06/thinkcentre-m900-tiny/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 07d9725f253463c6e4c540a30752bf4d
+  last_post_guid: 5f43249213d7b0bf41432a701d901fb9
   score_criteria:
     cats: 0
     description: 3

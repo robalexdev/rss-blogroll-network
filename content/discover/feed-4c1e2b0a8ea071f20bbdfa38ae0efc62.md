@@ -1,6 +1,6 @@
 ---
 title: 'SANS Internet Storm Center, InfoCON: green'
-date: "2025-04-17T02:00:02Z"
+date: "2025-06-11T05:53:08Z"
 description: SANS Internet Storm Center - Cooperative Cyber Security Monitor
 params:
   feedlink: https://isc.sans.edu/rssfeed_full.xml
@@ -10,7 +10,7 @@ params:
     https://isc.sans.edu/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -20,8 +20,8 @@ params:
     https://infosec.exchange/@sans_isc: true
     https://isc.sans.edu/: true
   last_post_title: 'Infocon: green'
-  last_post_description: ISC Stormcast For Thursday, April 17th, 2025 https://isc.sans.edu/podcastdetail/9412
-  last_post_date: "2025-04-17T11:15:03Z"
+  last_post_description: Quasar RAT Delivered Through Bat Files
+  last_post_date: "2025-06-11T23:20:05Z"
   last_post_link: https://isc.sans.edu/diary.html?rss
   last_post_categories: []
   last_post_language: ""

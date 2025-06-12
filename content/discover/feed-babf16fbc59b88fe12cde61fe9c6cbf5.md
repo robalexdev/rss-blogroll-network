@@ -1,6 +1,6 @@
 ---
 title: Process Developments
-date: "2024-12-01T12:38:49+01:00"
+date: "2025-05-15T15:44:28+02:00"
 description: ""
 params:
   feedlink: https://processdevelopments.blogspot.com/feeds/posts/default

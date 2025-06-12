@@ -1,6 +1,6 @@
 ---
 title: Good Enough
-date: "2025-04-15T00:00:00Z"
+date: "2025-04-30T00:00:00Z"
 description: Sometimes we write stuff that is good enough.
 params:
   feedlink: https://goodenough.us/feed.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Barry is Good Enough
+  last_post_title: Prettier Email Headers
   last_post_description: ""
-  last_post_date: "2025-04-15T00:00:00Z"
-  last_post_link: https://goodenough.us/blog/2025-04-15-barry-is-good-enough/
+  last_post_date: "2025-04-30T00:00:00Z"
+  last_post_link: https://goodenough.us/blog/2025-04-30-prettier-email-headers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 70d2571f6f32a6debbcb74cf8f44a4f5
+  last_post_guid: 8cfe90d820eb203ef88a2fbc5c742709
   score_criteria:
     cats: 0
     description: 3

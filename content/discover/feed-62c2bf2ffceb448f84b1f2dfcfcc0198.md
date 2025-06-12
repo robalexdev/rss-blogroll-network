@@ -1,6 +1,6 @@
 ---
 title: tempertemper
-date: "2025-03-22T00:00:00Z"
+date: "2025-06-11T00:00:00Z"
 description: Articles on user experience design and frontend web development
 params:
   feedlink: https://www.tempertemper.net/feeds/main.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How navigation should work for keyboard users
-  last_post_description: The web is a network of pages that are linked together, with
-    those links often grouped in a navigation. Here’s how keyboard users traverse
-    navigation.
-  last_post_date: "2025-03-22T00:00:00Z"
-  last_post_link: https://www.tempertemper.net/blog/how-navigation-should-work-for-keyboard-users
+  last_post_title: WWDC 2025 roundup
+  last_post_description: Apple’s World Wide Developers Conference (WWDC) opening keynote
+    is one of the big highlights in my calendar. Here are the bits that stood out
+    to me.
+  last_post_date: "2025-06-11T00:00:00Z"
+  last_post_link: https://www.tempertemper.net/blog/wwdc-2025-roundup
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f343c7bd113aaba86de5f103f04382b7
+  last_post_guid: fef68ac612a3e487e981515c36323d31
   score_criteria:
     cats: 0
     description: 3

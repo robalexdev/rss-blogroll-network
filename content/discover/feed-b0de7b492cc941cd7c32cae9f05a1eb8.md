@@ -1,6 +1,6 @@
 ---
 title: Nicky's Blog
-date: "2025-04-28T21:03:51Z"
+date: "2025-06-12T04:51:58Z"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 params:
@@ -20,13 +20,13 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: Gotta Know When To Fold ‘Em
+  last_post_title: Burnout
   last_post_description: ""
-  last_post_date: "2025-01-19T08:48:14Z"
-  last_post_link: https://nicky.bearblog.dev/gotta-know-when-to-fold-em/
+  last_post_date: "2025-04-29T16:11:32Z"
+  last_post_link: https://nicky.bearblog.dev/burnout/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b218927e7260a0b680e98d2d4c4f78d
+  last_post_guid: 7e0e316016b08c1bfd56b5b770bb90a8
   score_criteria:
     cats: 0
     description: 3

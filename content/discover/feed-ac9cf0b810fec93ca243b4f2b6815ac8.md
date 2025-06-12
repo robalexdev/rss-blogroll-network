@@ -10,7 +10,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -18,15 +18,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'RaaS Evolved: LockBit 3.0 vs LockBit 4.0'
-  last_post_description: Learn more about the LockBit ransomware group and explore
-    the latest evolution of LockBit ransomware with its 4.0 version release.
-  last_post_date: "2025-03-25T14:00:00Z"
-  last_post_link: https://www.deepinstinct.com/blog/raas-evolved-lockbit-3-0-vs-lockbit-4-0
+  last_post_title: 'Leading by Example: Reflecting on a Monumental Week for Deep Instinct'
+  last_post_description: Deep Instinct celebrates a milestone week featuring AWS collaboration
+    expansion, Voice of SecOps report launch revealing AI's impact on cybersecurity,
+    and NYSE LaunchPad induction—showcasing the
+  last_post_date: "2025-06-10T13:00:00Z"
+  last_post_link: https://www.deepinstinct.com/blog/leading-by-example-reflecting-on-a-monumental-week-for-deep-instinct
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: f33c94c432c901a58f1e266bbb50fe90
+  last_post_guid: 9da3a48bc1481320cf8cd0a8bfce6ce8
   score_criteria:
     cats: 0
     description: 3

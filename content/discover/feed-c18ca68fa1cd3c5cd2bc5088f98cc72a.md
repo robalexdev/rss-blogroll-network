@@ -20,19 +20,18 @@ params:
     https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
     https://github.com/zamansky: true
-  last_post_title: Better teachers - CS teachers without CS or Math teachers with
-    math
+  last_post_title: Cool store that I can't support. Maybe ignorance, maybe antisemitism.
   last_post_description: |-
-    This article made its rounds this past week.
+    Warning: This post is political and involves my views on antisemitism
+    and the Gaza situation.
 
-    It cites a couple of papers claiming that CS teachers are delivering
-    better instruction and might be better qualified than teachers in
-    other subject
-  last_post_date: "2025-05-02T15:12:41-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/better-teachers/
+    So, in my travels over the past year or so, I've been trying to hit
+    independent book stores or otherwise
+  last_post_date: "2025-06-07T13:06:59-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/cool-store-cant-support/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f2164f7114a4565fcacfef6c00af2fba
+  last_post_guid: e7b5bcc4dab661b130a10bb90370b7e6
   score_criteria:
     cats: 0
     description: 3

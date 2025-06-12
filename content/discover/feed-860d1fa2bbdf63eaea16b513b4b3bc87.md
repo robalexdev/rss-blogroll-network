@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's up python? Less perf, no sugar and more bugs
-  last_post_description: March, 2025
-  last_post_date: "2025-04-02T10:49:01Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar
+  last_post_title: What's up Python? Faster CPython cancelled, a new installer and
+    yet another type checker
+  last_post_description: May, 2025
+  last_post_date: "2025-05-31T17:06:49Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 13954595065cc39b07c87e50f2d1a376
+  last_post_guid: 312546a1c57a0428bc6caeda7c8ab58c
   score_criteria:
     cats: 0
     description: 3

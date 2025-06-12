@@ -10,35 +10,34 @@ params:
     https://blogs.infoblox.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - Drive-by download exploits
-  - Operation ForumTroll
-  - Phishing emails
+  - DoH
+  - DoT
+  - Encrypted DNS
+  - Microsoft
   - Protective DNS
   - Security
-  - Zero-day attack
   relme: {}
-  last_post_title: DNS Early Detection – Protect against Chrome Zero Day Exploit –
-    CVE 2025–2783
-  last_post_description: Bulletin On Tuesday, March 25, Google promptly released1
-    a patch for a sandbox escape vulnerability in its Chrome browser, following a
-    mid-March publication by Kaspersky threat researchers2 about a
-  last_post_date: "2025-04-16T15:55:45Z"
-  last_post_link: https://blogs.infoblox.com/security/dns-early-detection-protect-against-chrome-zero-day-exploit-cve-2025-2783/
+  last_post_title: Encrypted DNS + Protective DNS = ?
+  last_post_description: If you’re as old as I am, you may remember this now-classic
+    commercial for Reese’s Peanut Butter Cups. The gist of the ad was that chocolate
+    and peanut butter are “two great tastes that taste
+  last_post_date: "2025-06-09T15:55:29Z"
+  last_post_link: https://blogs.infoblox.com/security/encrypted-dns-protective-dns/
   last_post_categories:
-  - Drive-by download exploits
-  - Operation ForumTroll
-  - Phishing emails
+  - DoH
+  - DoT
+  - Encrypted DNS
+  - Microsoft
   - Protective DNS
   - Security
-  - Zero-day attack
   last_post_language: ""
-  last_post_guid: d79e7df2f967031a911a07e06b8439cc
+  last_post_guid: 0ab619eff7400757bb058fc3b769979e
   score_criteria:
     cats: 0
     description: 0

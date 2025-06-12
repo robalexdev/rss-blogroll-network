@@ -15,28 +15,30 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Debian
   - English
-  - education
-  - emulation
+  - Free Software
+  - Ubuntu
+  - competition
   - operating systems
-  - retrocomputing
-  - technology
+  - vendors
   relme: {}
-  last_post_title: Replaying the Microcomputing Revolution
-  last_post_description: Since microcomputing and computing history are particular
-    topics of interest of mine, I was naturally engaged by a recent article about
-    the Raspberry Pi and its educational ambitions. Perhaps
-  last_post_date: "2025-01-06T22:26:57Z"
-  last_post_link: https://blogs.fsfe.org/pboddie/?p=2931
+  last_post_title: Consumerists Never Really Learn
+  last_post_description: Via an article about a Free Software initiative hoping to
+    capitalise on the discontinuation of Microsoft Windows 10, I saw that the consumerists
+    at Which? had published their own advice. Predictably,
+  last_post_date: "2025-05-15T14:25:27Z"
+  last_post_link: https://blogs.fsfe.org/pboddie/?p=2985
   last_post_categories:
+  - Debian
   - English
-  - education
-  - emulation
+  - Free Software
+  - Ubuntu
+  - competition
   - operating systems
-  - retrocomputing
-  - technology
+  - vendors
   last_post_language: ""
-  last_post_guid: 8b9fe4c4f2616b3d2c253f8bb679be7e
+  last_post_guid: ccca0322e9ce8bb707d0d710a3c1ff07
   score_criteria:
     cats: 0
     description: 3

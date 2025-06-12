@@ -1,6 +1,6 @@
 ---
 title: (think)
-date: "2025-04-17T20:03:25Z"
+date: "2025-06-10T05:38:48Z"
 description: Bozhidar Batsov's personal blog
 params:
   feedlink: https://batsov.com/feeds/Emacs.xml
@@ -16,19 +16,19 @@ params:
   recommender: []
   categories:
   - Emacs
-  - use-package
+  - vim
   relme: {}
-  last_post_title: Using use-package the right way
-  last_post_description: I recently wrote that Emacs startup time doesn’t matter and
-    I got quite a lot of heat for it. I totally stand by everything I said there,
-    but I acknowledge that different people have different use
-  last_post_date: "2025-04-17T12:50:00Z"
-  last_post_link: https://batsov.com/articles/2025/04/17/using-use-package-the-right-way/
+  last_post_title: Rediscovering Vim
+  last_post_description: Most people who know me and follow my open-source work are
+    likely going to be surprised that I’m writing an article about Vim. After all,
+    I’ve been a devout member of the Church of Emacs for 20
+  last_post_date: "2025-05-20T15:09:00Z"
+  last_post_link: https://batsov.com/articles/2025/05/20/rediscovering-vim/
   last_post_categories:
   - Emacs
-  - use-package
+  - vim
   last_post_language: ""
-  last_post_guid: c2a8ba241a44f372401d4e67803bc208
+  last_post_guid: 22fcae8a9f79a2a17e4ed9c5178cc7a0
   score_criteria:
     cats: 0
     description: 3

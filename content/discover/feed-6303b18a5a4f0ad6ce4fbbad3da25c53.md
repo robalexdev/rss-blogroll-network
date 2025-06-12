@@ -138,6 +138,7 @@ params:
   - https://granary.io/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=https%3A//werd.io/content/all/
   - https://werd.io/content/all?_t=rss
   - https://werd.io/content/bookmarkedpages?_t=rss
+  - https://werd.io/rss/
   - https://www.bjornfranke.nl/comments/feed/
   - https://www.jeremycherfas.net/blog.rss
   - https://www.neondystopia.com/?feed=comments-rss2
@@ -160,15 +161,16 @@ params:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: E-mail migratie van Fastmail naar Soverin
-  last_post_description: Na een vergelijking van de mogelijkheden en de prijzen heb
-    ik gisteren eindelijk de knoop doorgehakt. We stappen met onze email over van
-    Fastmail naar het Nederlandse Soverin. Het aanbod is prima
-  last_post_date: "2025-04-21T11:42:26+02:00"
-  last_post_link: https://frankmeeuwsen.com/2025/04/21/email-migratie-van-fastmail-naar.html
+  last_post_title: Opruimen
+  last_post_description: |-
+    Het mocht wel eens. Een kleine opruimbeurt op deze site. Of nou ja, opruimen. Meer de stapels verplaatsen en dan vinden dat het is opgeruimd. Eigenlijk zoals thuis. Een paar kleine wijzigingen:
+
+    Mijn
+  last_post_date: "2025-06-10T15:42:09+02:00"
+  last_post_link: https://frankmeeuwsen.com/2025/06/10/opruimen.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 81894c5eb010788c5c93e299f7f67741
+  last_post_guid: f3530c8141721317febe862fef00fa06
   score_criteria:
     cats: 0
     description: 0

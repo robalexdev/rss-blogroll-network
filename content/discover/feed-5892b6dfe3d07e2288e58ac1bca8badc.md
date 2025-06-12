@@ -21,33 +21,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Block Editor
-  - DIY Site Owners
-  - For Developers
-  - Gutenberg
   - News
+  - Playground
   - Updates
   - Weekend Edition
+  - WordCamp
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: Woo 9.8, Blocks and publishers, Interactivity API and more — Weekend
-    Edition 325
-  last_post_description: "Hi there, I am so excited! \U0001F389 AI is here. WordPress.com
-    just released the new AI builder for their new users. I am so excited as it solves
-    the blank page onboarding problem, new WordPress users"
-  last_post_date: "2025-04-11T23:52:00Z"
-  last_post_link: https://gutenbergtimes.com/woo-9-8-blocks-and-publishers-interactivity-api-and-more-weekend-edition-325/
+  last_post_title: 'Feature API, Playground, Gutenberg 20.9, Interactivity API, #WCUS
+    and moar — Weekend Edition 331'
+  last_post_description: Howdy, This week, I continued to learn about more plugins
+    for the block editor. They might be new to the WordPress repository or just new
+    to me, haha. Also, Playground came up in the last couple of
+  last_post_date: "2025-05-24T09:15:08Z"
+  last_post_link: https://gutenbergtimes.com/feature-api-playground-gutenberg-20-9-interactivity-api-wcus-and-moar-weekend-edition-331/
   last_post_categories:
-  - Block Editor
-  - DIY Site Owners
-  - For Developers
-  - Gutenberg
   - News
+  - Playground
   - Updates
   - Weekend Edition
+  - WordCamp
   last_post_language: ""
-  last_post_guid: c076c1ed40abf39d8c3e9a4b875e9f41
+  last_post_guid: 8f662b5d943ba2fe03cbb707bd18d90e
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Wayne的博客
-date: "2025-03-18T14:24:05Z"
+date: "2025-05-27T11:57:45Z"
 description: 前端
 params:
   feedlink: https://blog.michealwayne.cn/atom.xml
@@ -15,20 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
+  - css
   - 笔记
   relme: {}
-  last_post_title: 【笔记】Lovable提示词指南
-  last_post_description: |-
-    Lovable提示词指南
-    Lovable是一款目前海外流行的
-  last_post_date: "2025-03-25T14:41:02Z"
-  last_post_link: http://blog.michealwayne.cn/2025/02/22/ai/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91Lovable%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97/
+  last_post_title: 【笔记】web 黑夜模式通用适配方案
+  last_post_description: 【笔记】web 黑夜模式通用适配方案
+  last_post_date: "2025-05-27T15:24:17Z"
+  last_post_link: http://blog.michealwayne.cn/2025/04/26/notes/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91web%E9%BB%91%E5%A4%9C%E6%A8%A1%E5%BC%8F%E9%80%82%E9%85%8D/
   last_post_categories:
-  - ai
+  - css
   - 笔记
   last_post_language: ""
-  last_post_guid: c5aa016acd7c60472ce9c5b030547eed
+  last_post_guid: 39f1733d43cbeb57be7e6f66e6d155f2
   score_criteria:
     cats: 0
     description: 3

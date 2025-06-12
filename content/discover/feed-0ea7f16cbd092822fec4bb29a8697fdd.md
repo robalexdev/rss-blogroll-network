@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2025-01-18T00:00:00Z"
+date: "2025-04-17T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Error handling in Fir
+  last_post_title: Throwing iterators in Fir
   last_post_description: |-
-    A while ago I came up with an “error handling expressiveness benchmark”, some common error handling cases that I want to support in Fir.
-    After 7 months of pondering and hacking, I think I
-  last_post_date: "2025-01-18T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2025-01-18-fir-error-handling.html
+    Recently I’ve been working on extending Fir’s Iterator trait to allow iterators to throw exceptions.
+    It took a few months of work, because we needed multiple parameter traits for it to work,
+  last_post_date: "2025-04-17T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2025-04-17-throwing-iterators-fir.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a34c1abc6da26c5cea63bf85cde75b0
+  last_post_guid: fd995b204ab00e7353a99938862b664d
   score_criteria:
     cats: 0
     description: 0

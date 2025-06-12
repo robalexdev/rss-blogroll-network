@@ -17,33 +17,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apple TV
-  - review
+  - AI
+  - Apple
+  - Apple Intelligence
+  - WWDC
+  - WWDC2025
   relme: {}
-  last_post_title: 'Cutting the Cord: Apple TV''s Unfulfilled Promise in 2025'
-  last_post_description: Is the Apple TV still a hobby for Apple? In 2025, despite
-    nearly two decades of development, Apple TV falls short of expectations. Here’s
-    my experience.
-  last_post_date: "2025-04-07T11:51:36Z"
-  last_post_link: https://numericcitizen.me/cutting-the-cord-apple-tvs-unfulfilled-promise-in-2025/
+  last_post_title: Random Thoughts Before Apple WWDC 2025
+  last_post_description: Not so random thoughts about Apple, AI, Tim Cook and some
+    other things.
+  last_post_date: "2025-06-04T01:10:03Z"
+  last_post_link: https://numericcitizen.me/random-thoughts-before-apple-wwdc-2025/
   last_post_categories:
-  - Apple TV
-  - review
+  - AI
+  - Apple
+  - Apple Intelligence
+  - WWDC
+  - WWDC2025
   last_post_language: ""
-  last_post_guid: cf2306ef4910c13cc3082aab9583c175
+  last_post_guid: 3d83bb52a1dd128b06b93d22e80fb605
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

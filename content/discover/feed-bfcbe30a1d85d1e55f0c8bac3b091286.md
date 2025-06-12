@@ -16,19 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: BackON v1.5.0 Released
+  last_post_title: Why S3 ListObjects Taking 120s to Respond?
   last_post_description: |-
-    I am happy to announce the release of BackON v1.5.0.
-    BackON is a rust library for making retry like a built-in feature provided by Rust.
-    use backon::ExponentialBuilder;
-    use backon::Retryable;
-
-    async
-  last_post_date: "2025-04-09T01:00:00Z"
-  last_post_link: https://xuanwo.io/links/2025/04/backon_v1_5_0/
+    Everyone knows that AWS S3 ListObjects is slow, but can you imagine it being so slow that you have to wait 120 seconds for a response? I've actually seen this happen in the wild.
+    TL;DR
+    The deleted
+  last_post_date: "2025-05-13T01:00:00Z"
+  last_post_link: https://xuanwo.io/2025/02-why-s3-list-objects-taking-120s-to-respond/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4a8513d122b77efcff9659f79b57313
+  last_post_guid: 43184d5d02c92284a9c0ab63303bc6ea
   score_criteria:
     cats: 0
     description: 3

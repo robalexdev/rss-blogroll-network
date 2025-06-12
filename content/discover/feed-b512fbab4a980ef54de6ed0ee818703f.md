@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: The most obvious case for universal healthcare
-  last_post_description: I've been a lifelong fan of universal healthcare, albeit
-    in a distant, envious way as I've never gotten to truly experience it myself.
-    There are times where I had double healthcare coverage that came
-  last_post_date: "2025-04-28T18:44:52Z"
-  last_post_link: https://a.wholelottanothing.org/the-most-obvious-case-for-universal-healthcare/
+  last_post_title: Visor is the best app for car shopping
+  last_post_description: A few months ago my pal Joel mentioned a new car shopping
+    app to me and even though I only buy a car once every several years, I love to
+    browse listings or figure what my current favorite car is that
+  last_post_date: "2025-06-10T20:46:14Z"
+  last_post_link: https://a.wholelottanothing.org/visor-is-the-best-app-for-car-shopping/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ed7e7e6ab751420fd0d700f1aab4f1a
+  last_post_guid: 9309f768e5f7769829caf0aedb51700e
   score_criteria:
     cats: 0
     description: 3

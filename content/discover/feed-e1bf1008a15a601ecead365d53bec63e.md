@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2025-04-14T09:50:06Z"
+date: "2025-05-23T10:45:17Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: Goodbye Offpunk, Welcome XKCDpunk!
+  last_post_title: Reducing the digital clutter of chats
   last_post_description: ""
-  last_post_date: "2025-04-01T00:00:00Z"
-  last_post_link: https://ploum.net/2025-04-01-xkcdpunk.html
+  last_post_date: "2025-05-23T00:00:00Z"
+  last_post_link: https://ploum.net/2025-05-23-chats-digital-clutter.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d27a1ffb402dffa81d33e38d55a0aa04
+  last_post_guid: 2b182b8b2993cf5267e7aac3b9caf593
   score_criteria:
     cats: 0
     description: 3

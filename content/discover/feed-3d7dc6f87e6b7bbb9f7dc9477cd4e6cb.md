@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2025-01-16T08:10:32Z"
+date: "2025-04-30T00:49:10Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -17,16 +17,27 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The DIY FOSS cyborg
+  last_post_title: 'Crystal Chariot: a poem for the moment'
   last_post_description: |-
-    Do you feel the allure of becoming a cyborg?  Are you one of those
-    people who loves computing, but hates what computing has become?  Do
-    you wish to become one with your computing environment, without
-  last_post_date: "2025-01-15T22:01:00Z"
-  last_post_link: https://dustycloud.org/blog/the-diy-foss-cyborg/
+    Held apart
+    across a crystal divide
+    A chariot holding me
+    made of glass
+
+    I should be so lucky
+    as to ride inside this thing
+
+    I can see
+    but I cannot touch
+    I can travel
+    and I cannot go home
+
+    How long
+  last_post_date: "2025-04-27T05:53:00Z"
+  last_post_link: https://dustycloud.org/blog/crystal-chariot-a-poem-for-the-moment/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bff2a99deb4276c90cdae6fd04d5566f
+  last_post_guid: 7e7f3a7e3b21dd5402c26cdafed37b85
   score_criteria:
     cats: 0
     description: 3

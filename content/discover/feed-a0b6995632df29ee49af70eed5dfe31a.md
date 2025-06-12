@@ -1,7 +1,7 @@
 ---
-title: Home on (a)RManos Blog
+title: Home on RManos Blog
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Home on (a)RManos Blog
+description: Recent content in Home on RManos Blog
 params:
   feedlink: https://rm4n0s.github.io/index.xml
   feedtype: rss

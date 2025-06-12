@@ -15,32 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GHCon
-  - GNU
+  - Argentina
+  - Events
   - GNU Health
+  - GNU Health Alliance
   - GNUHealth
-  - GNUHealthCon
+  - Honduras
+  - Salud Pública
   - Social Medicine
   - gnuhealth
-  - openscience
   relme: {}
-  last_post_title: GHCon2024, the GNU Health Conference . Palermo, Italy
-  last_post_description: 'Dear community: We’re excited to announce the IX International
-    GNU Health Conference, that will take place in beautiful Sicily, Italy, at the
-    University of Palermo this December 15th. The GNU'
-  last_post_date: "2024-10-19T17:30:49Z"
-  last_post_link: https://my.gnusolidario.org/2024/10/19/ghcon2024-the-gnu-health-conference-palermo-italy/
+  last_post_title: 'Aportes del sistema libre GNU Health al cuidado de la salud: experiencias
+    en Honduras y Argentina'
+  last_post_description: 'Jornada: "Aportes del sistema libre GNU Health al cuidado
+    de la salud: experiencias en Honduras y Argentina" - Viernes 13 de junio 2025
+    - Universidad Nacional de Entre Ríos'
+  last_post_date: "2025-06-10T21:34:32Z"
+  last_post_link: https://my.gnusolidario.org/2025/06/10/aportes-del-sistema-libre-gnu-health-al-cuidado-de-la-salud-experiencias-en-honduras-y-argentina/
   last_post_categories:
-  - GHCon
-  - GNU
+  - Argentina
+  - Events
   - GNU Health
+  - GNU Health Alliance
   - GNUHealth
-  - GNUHealthCon
+  - Honduras
+  - Salud Pública
   - Social Medicine
   - gnuhealth
-  - openscience
   last_post_language: ""
-  last_post_guid: 410341d3a83c4745089caf55e314da63
+  last_post_guid: d66d9c3480f4317a370b0f7e6b8881c7
   score_criteria:
     cats: 0
     description: 3

@@ -22,16 +22,16 @@ params:
   categories:
   - Stories
   relme: {}
-  last_post_title: The Non-Playable Cycle
-  last_post_description: '[PRESS TO START] Your name is Iphigenia and your late father
-    left you a fertile plot in the delightfully pastoral municipality of Dewdrop Fields.
-    Puffy-cloud, cherry-red, farm-fresh fantasy. No olive'
-  last_post_date: "2025-04-20T04:51:09Z"
-  last_post_link: https://www.conscienceround.com/archives/8501
+  last_post_title: Penance in the city upon a hill
+  last_post_description: Plague in the city upon a hill Two nights before his death,
+    America’s greatest living writer, a low-rent management consultant, kind as a
+    saint but mealy-mouthed, which constitutes a fatal
+  last_post_date: "2025-05-17T10:20:01Z"
+  last_post_link: https://www.conscienceround.com/archives/9175
   last_post_categories:
   - Stories
   last_post_language: ""
-  last_post_guid: 0a75f52c51a0a74483f9ac2fd80d1e0b
+  last_post_guid: e2bff8309ed9c681d69ea0dc359c148c
   score_criteria:
     cats: 0
     description: 3

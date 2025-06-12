@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 任何现象都有意识参与。
-  last_post_description: 任何现象都有意识参与。
-  last_post_date: "2025-03-10T09:42:33+08:00"
-  last_post_link: https://zhurongshuo.com/posts/2025/03/1001/
+  last_post_title: 可能性中的每一个存在都不应失落，也不会失落。
+  last_post_description: 可能性中的每一个存在都不应失落，也不会失落。
+  last_post_date: "2025-06-08T16:24:22+08:00"
+  last_post_link: https://zhurongshuo.com/posts/2025/06/0801/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8eab46b4e6b3e78f47e1cea4ce8b42c9
+  last_post_guid: 55ef9c9c31a301e2b9e09ad75a91f08b
   score_criteria:
     cats: 0
     description: 3

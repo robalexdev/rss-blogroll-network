@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2025-04-25T19:41:56.076+00:00"
+date: "2025-06-10T20:55:28.500+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -35,7 +35,7 @@ params:
 
       Join comedian, actor,
     id: 2700ac6f034c8c2797cf23ac83ba2771
-  - title: Joel's Log Files
+  - title: joelchrono's website
     description: ""
     id: 2a21b8e739bdf0ebf3a771b247418b2b
   - title: David Shanske
@@ -69,6 +69,10 @@ params:
   - title: Rek Bell
     description: Journal of Rek
     id: 57dcf8543cbb02ab0d37b0d8115735a4
+  - title: the webb blog
+    description: Welcome to Paul Anthony Webb's corner of the 'Net where he'll regale
+      you with whatever he finds interesting.
+    id: 5ab1e9e54e1450536108c60f0e8ae2e4
   - title: The Filmcast
     description: In The Filmcast, hardcore geeks David Chen, Devindra Hardawar, and
       Jeff Cannata debate, pontificate, and delve into the latest films, TV shows,
@@ -76,7 +80,7 @@ params:
     id: 5b6eb5371ac74ffc7a6771317abb7f6d
   - title: Andrés Cárdenas
     description: "\U0001F1E8\U0001F1F4 Lifelong learner, logging media and sharing
-      bits on the open web. Libre culture, Football and Rock'n'roll."
+      bits on the IndieWeb. Libre software, Football, Cumbia and Rock'n'roll."
     id: 5e4a62e9023dba67d706579681c3082e
   - title: El Podcast De Estar Güars
     description: "Un podcast dedicado a la discusión y apreciación de todo lo que
@@ -93,7 +97,7 @@ params:
     description: Stories.
     id: 71872194450e6f4a6dc23a4404d39599
   - title: Lagomorph
-    description: Recent content on Lagomorph
+    description: ""
     id: 724ffd03c62f1443f79720852e49b7de
   - title: Film Not Included
     description: |-
@@ -143,6 +147,9 @@ params:
   - title: Grigor's web feed
     description: ""
     id: b322d317b7336fa789815e69b5353c45
+  - title: Eva Town
+    description: Dispatches from the world wide web.
+    id: b8d652f108bacbceb79e177565ccfa09
   - title: Pixels and Puppets
     description: 'The Official Operation: Puppet Podcast! Gaming! Tech! Media! And,
       um... puppets? Join professional puppet builder Kevin Blades and his friends
@@ -158,17 +165,21 @@ params:
   - title: Trevor Morris’ latest blog posts
     description: ""
     id: ce9e9ca428d55abf8115c36261d4c3a8
+  - title: elle's homepage blog
+    description: this is elle's homepage. i make stuff on the internet and i will
+      put some of it on here
+    id: d3392b515d5baad7ba61509515ce99e3
   - title: Zachary Kai
     description: Offbeat, queer, 20-something, curiosity enthusiast, and traveler.
     id: dd61c3b24b397dc774295ab7c69d0e8c
   - title: véronique
-    description: artist, zine maker, and writer
+    description: art, zines, feelings + web hearts
     id: e4061f4a9110209cb4bc38665a40304c
   - title: saige's website
     description: ""
     id: e75d09c805d4b1981e2aad4415fcbe51
-  - title: Blog posts on Luke's Wild Website
-    description: Recent content in Blog posts on Luke's Wild Website
+  - title: Blog on Luke's Wild Website
+    description: Recent content in Blog on Luke's Wild Website
     id: e83dce242e0a7ba1641bd563f13e918c
   - title: All Posts — gRegorLove.com
     description: ""
@@ -183,8 +194,8 @@ params:
     id: f8113a925cb48b9a750df64675797e12
   - title: Anthony Ciccarello
     description: I'm a software engineer living in Southern California building cool
-      things using JavaScript and other web technologies. I enjoy traveling to other
-      countries and spending time in nature.
+      things using JavaScript and other web technologies. I enjoy travel, disc sports,
+      and spending time in nature.
     id: fd6ceae4d543f01db477ca29f388f396
   - title: ArtLung
     description: Joe Crawford

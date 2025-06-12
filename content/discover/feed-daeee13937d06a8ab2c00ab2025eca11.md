@@ -19,14 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Binary Arithmetic and Bitwise Operations for Systems Programming
-  last_post_description: Understand how computers represent numbers and perform operations
-    at the bit level before diving into assembly
-  last_post_date: "2025-04-12T05:16:14Z"
-  last_post_link: https://blog.codingconfessions.com/p/binary-arithmetic-and-bitwise-operations
+  last_post_title: One Law to Rule All Code Optimizations
+  last_post_description: A systems-level reasoning model for understanding why optimizations
+    succeed or fail.
+  last_post_date: "2025-06-08T17:27:05Z"
+  last_post_link: https://blog.codingconfessions.com/p/one-law-to-rule-all-code-optimizations
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6aeeeb5786d6679279f92a4a3837c4e0
+  last_post_guid: ec93792fd6207c5753c1d50dafd920d9
   score_criteria:
     cats: 0
     description: 3

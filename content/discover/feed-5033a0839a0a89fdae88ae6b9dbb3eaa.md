@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-04-15T17:34:26Z"
+date: "2025-06-03T17:58:31Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -29,16 +29,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: How I, a non-developer, read the tutorial you, a developer, wrote
-    for me, a beginner
-  last_post_description: '“Hello! I am a developer. Here is my relevant experience:
-    I code in Hoobijag and sometimes jabbernocks and of course ABCDE++++ (but never
-    ABCDE+/^+ are you kidding? ha!)  and I...'
-  last_post_date: "2025-04-15T17:34:26Z"
-  last_post_link: https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner
+  last_post_title: A neutral stance is for weightlifting, not for human rights
+  last_post_description: ““The opposite of love is not hate, it’s indifference. The
+    opposite of art is not ugliness, it’s indifference. The opposite of faith is not
+    heresy, it’s indifference. And the opposite...
+  last_post_date: "2025-06-10T15:07:12Z"
+  last_post_link: https://anniemueller.com/posts/a-neutral-stance-is-for-weightlifting-not-for-human-rights
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eb4a1a5a259d0b10539565e40f45d574
+  last_post_guid: 447039c0670d77e50c5225d81075b587
   score_criteria:
     cats: 0
     description: 0

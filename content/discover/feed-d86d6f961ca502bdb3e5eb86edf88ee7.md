@@ -11,21 +11,21 @@ params:
     https://www.security.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Shuckworm Targets Foreign Military Mission Based in Ukraine
-  last_post_description: Group uses updated PowerShell version of its GammaSteel malware
-    in attack.
-  last_post_date: "2025-04-10T10:00:00Z"
-  last_post_link: https://www.security.com/threat-intelligence/shuckworm-ukraine-gammasteel
+  last_post_title: Unmasking Insecure HTTP Data Leaks in Popular Chrome Extensions
+  last_post_description: Extensions analyzed expose information such as browsing domains,
+    machine IDs, OS details, usage analytics, and more.
+  last_post_date: "2025-06-05T10:00:00Z"
+  last_post_link: https://www.security.com/threat-intelligence/chrome-extension-leaks
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a3684311fa3e06d84c481e1d6b9af74
+  last_post_guid: 40f5918ba099033c25657051036283dd
   score_criteria:
     cats: 0
     description: 3

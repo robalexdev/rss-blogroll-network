@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2025-03-30T00:00:00Z"
+date: "2025-05-23T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -47,13 +47,13 @@ params:
   - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes 30
+  last_post_title: Weeknotes 32
   last_post_description: ""
-  last_post_date: "2025-03-30T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/weeknotes-30/
+  last_post_date: "2025-05-23T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2025/weeknotes-32/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 46458a7bd0a42d171c9eceeef988afc2
+  last_post_guid: 63eedb89482883ff9b34d6aa2f007a61
   score_criteria:
     cats: 0
     description: 3

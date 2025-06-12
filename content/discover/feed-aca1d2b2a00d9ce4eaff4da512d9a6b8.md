@@ -20,15 +20,15 @@ params:
     https://barryfrost.com/: true
     https://github.com/barryf: true
     https://mastodon.social/@barryf: true
-  last_post_title: Week 190 - France
-  last_post_description: |-
-    We came back on Monday from a week's holiday in France, which is why these weeknotes are a little late. Sorry about that.
-    We stayed at a Center Parcs, this time Le Lac d'Ailette near Laon. This park
-  last_post_date: "2025-04-15T11:27:30Z"
-  last_post_link: https://barryfrost.com/2025/04/week-190-france
+  last_post_title: Week 198 - Gaming
+  last_post_description: We have a Switch 2! I missed the pre-orders and so assumed
+    I'd have to wait, but on launch day I found one in stock at Argos for next-day
+    delivery. It arrived late so I set it up ready to surprise
+  last_post_date: "2025-06-08T15:59:44Z"
+  last_post_link: https://barryfrost.com/2025/06/week-198-gaming
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6a23777220a5b0dbd7f4645faaaf63c8
+  last_post_guid: 5b1530f0aa4a653173b6b7abda43f3d3
   score_criteria:
     cats: 0
     description: 3

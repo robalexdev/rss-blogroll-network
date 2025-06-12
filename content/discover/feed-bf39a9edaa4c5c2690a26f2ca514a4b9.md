@@ -1,6 +1,6 @@
 ---
 title: pts.blog
-date: "2025-03-25T03:45:37+01:00"
+date: "2025-06-09T02:08:03+02:00"
 description: ""
 params:
   feedlink: https://ptspts.blogspot.com/feeds/posts/default/-/planet-python

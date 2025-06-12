@@ -116,6 +116,7 @@ params:
   - https://starbreaker.org/follow/headlines.xml
   - https://tracydurnell.com/comments/feed/
   - https://veronique.ink/feed/
+  - https://journal.miso.town/atom?url=https%3A//wiki.xxiivv.com/site/now.html
   - https://www.coryd.dev/feeds/all.xml
   - https://www.coryd.dev/feeds/books.xml
   - https://www.coryd.dev/feeds/links.xml
@@ -142,6 +143,7 @@ params:
   - https://www.trovster.com/music/lyrics.xml
   - https://www.trovster.com/photos/journal.xml
   - https://www.trovster.com/photos/posts.xml
+  - https://www.trovster.com/prints.xml
   recommender: []
   categories:
   - TV

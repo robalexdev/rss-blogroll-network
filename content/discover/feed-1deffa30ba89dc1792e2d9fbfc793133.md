@@ -1,6 +1,6 @@
 ---
 title: Python in Science
-date: "2024-09-06T21:21:36-03:00"
+date: "2025-04-11T05:49:47-03:00"
 description: Scientific adventures with Python.
 params:
   feedlink: https://pyinsci.blogspot.com/feeds/posts/default
@@ -69,7 +69,11 @@ params:
   - science
   - simulations
   relme:
+    https://computoergosum.blogspot.com/: true
+    https://emap-fgv.blogspot.com/: true
+    https://gripenetbrasil.blogspot.com/: true
     https://pyinsci.blogspot.com/: true
+    https://www.blogger.com/profile/02885581033966597420: true
   last_post_title: Curso de introdução a criptomoedas - Aula 01
   last_post_description: For the Portuguese speaking readers of this blog, I am starting
     an Introductory course on Cryptocurrencies and applications on the blockchain

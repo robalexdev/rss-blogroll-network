@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -17,16 +17,15 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: Introducing the refreshed Recorded Future brand
-  last_post_description: Learn how Recorded Future's brand refresh, powered by AI
-    and actionable threat intelligence, helps teams evolve with the next generation
-    of cybersecurity.
-  last_post_date: "2025-04-16T00:00:00Z"
-  last_post_link: https://www.recordedfuture.com/blog/introducing-refreshed-recorded-future-brand
+  last_post_title: 'Langflow: CVE-2025-3248: Active Exploitation'
+  last_post_description: Learn about CVE-2025-3248 affecting Langflow. Patch now to
+    prevent remote code execution.
+  last_post_date: "2025-05-23T00:00:00Z"
+  last_post_link: https://www.recordedfuture.com/blog/langflow-cve-2025-3248
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: fd7de2e648e2d535d79f4e43c0981cc7
+  last_post_guid: bc5faf22dd343403124dcbf105b609e8
   score_criteria:
     cats: 0
     description: 3

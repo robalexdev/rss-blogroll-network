@@ -1,6 +1,6 @@
 ---
 title: Arthur Diniz
-date: "2025-03-26T23:56:19Z"
+date: "2025-05-29T23:47:33Z"
 description: Arthur's site.
 params:
   feedlink: https://arthurbdiniz.com/feed.xml
@@ -15,36 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Actions
-  - GitHub
-  - Workflows
+  - Kubernetes
   relme: {}
-  last_post_title: Dropdown for GitHub workflows input parameters
-  last_post_description: |-
-    Dropdown for GitHub workflows input parameters
-
-    Sometimes when we look at CI/CD tools embedded within git-based software repository manager like GitHub, GitLab or Bitbucket, we ran into a lack of
-  last_post_date: "2021-10-23T00:00:00Z"
-  last_post_link: http://www.arthurbdiniz.com/github/actions/workflows/2021/10/23/gh-action-dropdown.html
+  last_post_title: Bringing Kubernetes Back to Debian
+  last_post_description: I’ve been part of the Debian Project since 2019, when I attended
+    DebConf held in Curitiba, Brazil. That event sparked my interest in the community,
+    packaging, and how Debian works as a distribution
+  last_post_date: "2025-05-29T00:00:00Z"
+  last_post_link: http://www.arthurbdiniz.com/blog/bringing-kubernetes-back-to-debian.html
   last_post_categories:
-  - Actions
-  - GitHub
-  - Workflows
+  - Kubernetes
   last_post_language: ""
-  last_post_guid: 67eb7e7bd33c8db7f23f83c830e71f54
+  last_post_guid: 29d5c99481250c6b6d43440b4fd321f9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

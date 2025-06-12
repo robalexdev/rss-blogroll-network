@@ -1,6 +1,6 @@
 ---
 title: Yi's Blog
-date: "2025-04-20T14:05:08-07:00"
+date: "2025-06-10T17:53:11-07:00"
 description: ""
 params:
   feedlink: https://wangyi.ai/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 《思辨力35讲：像辩手一样思考》读书笔记
+  last_post_title: Working on Moonshot Projects
   last_post_description: ""
-  last_post_date: "2025-04-20T09:08:00-07:00"
-  last_post_link: http://localhost:4000/blog/2025/04/20/35-talks-on-critical-thinking/
+  last_post_date: "2025-06-10T10:55:00-07:00"
+  last_post_link: https://wangyi.ai/blog/2025/06/10/why-moonshot-projects/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39509931f4af256c3a26fe6605c37c13
+  last_post_guid: cbc347cc6684e768f51d27c853f3d5b9
   score_criteria:
     cats: 0
     description: 0

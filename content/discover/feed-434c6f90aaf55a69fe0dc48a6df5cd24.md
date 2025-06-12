@@ -1,6 +1,6 @@
 ---
 title: Log
-date: "2025-04-02T01:05:18Z"
+date: "2025-05-31T22:11:08Z"
 description: pabs
 params:
   feedlink: https://bonedaddy.net/pabs3/log/index.rss
@@ -18,32 +18,25 @@ params:
   categories:
   - debian
   relme: {}
-  last_post_title: FLOSS Activities March 2025
+  last_post_title: FLOSS Activities May 2025
   last_post_description: |-
+    Focus
+
+    This month I didn't have any particular focus.
+    I just worked on issues in my info bubble.
+
     Changes
 
 
     ArchiveBot:
-    dashboard fixes and features
-    hamster:
-    cleanup warnings
-    zygolophodon:
-    support Mastodon redirect pages
-    Debian wiki pages:
-    PortsDocs/New
-
-
-    Issues
-
-
-    Data ignored in
-    swh-lister
-  last_post_date: "2025-04-02T01:04:38Z"
-  last_post_link: http://bonedaddy.net/pabs3/log/2025/04/02/floss-activities/
+    link pending page
+    Debian wiki pages
+  last_post_date: "2025-05-31T22:09:00Z"
+  last_post_link: http://bonedaddy.net/pabs3/log/2025/06/01/floss-activities/
   last_post_categories:
   - debian
   last_post_language: ""
-  last_post_guid: f3d5c27ca3cce7271f6259e3f9031fe9
+  last_post_guid: 50c1b23597b560219f999c08931e2364
   score_criteria:
     cats: 0
     description: 3

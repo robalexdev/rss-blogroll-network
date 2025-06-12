@@ -1,6 +1,6 @@
 ---
 title: Logging the Switch
-date: "2025-04-19T23:29:06+02:00"
+date: "2025-05-18T13:46:38+02:00"
 description: Logging the Switch is een weblog van Christian Luijten, die in 2004 besloot
   dat hij zou stoppen met PCs en switchen naar de Mac. In eerste instantie was het
   plan om te switchen van Linux op de PC

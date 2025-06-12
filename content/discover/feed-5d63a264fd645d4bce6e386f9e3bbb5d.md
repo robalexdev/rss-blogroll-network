@@ -135,6 +135,7 @@ params:
   - https://www.goodreads.com/review/list_rss/11559548
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
+  - https://birming.com/feed.xml
   - https://birming.com/feed/
   - https://birming.com/feed/?type=rss
   - https://bmcr.brynmawr.edu/comments/feed/
@@ -170,6 +171,8 @@ params:
   - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
@@ -203,22 +206,26 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
   categories:
-  - essays
-  - reading
+  - dreams
+  - learning
+  - memories
+  - reflection
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: The Five Ws (and One H) of Reading
-  last_post_description: "I spent the month of April crafting this essay in order
-    to help expand the love of reading. If you have any\n    comments, questions,
-    ideas, recommendations and what not, let me know!\n  \nAn essay on"
-  last_post_date: "2025-04-23T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/The_Five_Ws_(and_One_H)_of_Reading
+  last_post_title: The Sensation of Change
+  last_post_description: This is a concept that has fascinated me since I’ve been
+    conscious. Coming from a culture where dreams are an important part of emotional
+    well-being, I was taught to always pay attention to my
+  last_post_date: "2025-06-10T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/The_Sensation_of_Change
   last_post_categories:
-  - essays
-  - reading
+  - dreams
+  - learning
+  - memories
+  - reflection
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
@@ -227,13 +234,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

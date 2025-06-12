@@ -22,15 +22,16 @@ params:
   categories:
   - frontpage
   relme: {}
-  last_post_title: DarBottarolo 09-04-25
-  last_post_description: Dar Bottarolo All you can eat menu fisso Mercoledi 09-04-2025
-    ore 20. Comunica se vuoi venire. https://forms.gle/G6muuQ29Q8U6MsWM7
-  last_post_date: "2025-04-07T08:05:38Z"
-  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=251:darbottarolo-09-04-25
+  last_post_title: Colliberator hackathon
+  last_post_description: Vi invitiamo domani 30 maggio a un hackathon di 24 ore sul
+    tema interdisciplinare (Ingegneria e Scienze Alimentari) "Smart Storage e IoT"
+    per frutta e verdura, che inizierà con presentazioni dal
+  last_post_date: "2025-05-29T13:56:02Z"
+  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=253:colliberator-hackathon-
   last_post_categories:
   - frontpage
   last_post_language: ""
-  last_post_guid: 362d8094ac116c6389a344f71a5d4bf0
+  last_post_guid: 5c3f3631de8919e5b438d21e7c653687
   score_criteria:
     cats: 0
     description: 3

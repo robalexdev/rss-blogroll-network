@@ -18,25 +18,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - Planet
-  - osbn
-  - swap
+  - Offline Knowledge Portal
+  - Red Hat Offline Knowledge Portal
+  - Tutorials
   relme:
     https://www.my-it-brain.de/wordpress: true
-  last_post_title: Linux-Server mit oder ohne Swap-Partition bereitstellen?
-  last_post_description: Wir schreiben das Jahr 2025. Die Frage, ob man Linux-Server
-    mit oder ohne Swap-Partition betreiben sollte, spaltet die Linux-Gemeinschaft
-    in einer Weise, wie wir es seit dem Editor War nicht mehr
-  last_post_date: "2025-05-26T05:00:00Z"
-  last_post_link: https://www.my-it-brain.de/wordpress/linux-server-mit-oder-ohne-swap-partition-bereitstellen/
+  last_post_title: Was ist das Red Hat Offline Knowledge Portal und wie betreibt man
+    es als systemd.service?
+  last_post_description: In diesem Tutorial erkläre ich, worum es sich beim Red Hat
+    Offline Knowledge Portal handelt, unter welchen Voraussetzungen man es nutzen
+    kann und wie man es als systemd.service auf dem eigenen
+  last_post_date: "2025-06-09T05:00:00Z"
+  last_post_link: https://www.my-it-brain.de/wordpress/was-ist-das-red-hat-offline-knowledge-portal-und-wie-betreibt-man-es-als-systemd-service/
   last_post_categories:
-  - Linux
-  - Planet
-  - osbn
-  - swap
+  - Offline Knowledge Portal
+  - Red Hat Offline Knowledge Portal
+  - Tutorials
   last_post_language: ""
-  last_post_guid: 73b536a3c13f9c0de18583a5f740d1e6
+  last_post_guid: faf894c54f0da38c5c72d216b7cc6b87
   score_criteria:
     cats: 0
     description: 3

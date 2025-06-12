@@ -35,18 +35,19 @@ params:
   - talks
   relme:
     https://www.nathalielawhead.com/candybox: true
-  last_post_title: 'Why making art matters: We no longer have a type of industry where
-    we can chase financial success. We can only sustainably fail.'
+  last_post_title: 'A crash course introduction into experimental indie games: Arthouse
+    Games as a force for good & the activism of video games'
   last_post_description: |-
-    Since games are at the point that they are right now, I think being a solodev, or working with a team of friends, will become much more of an established mode of being here.
-    Success cannot be
-  last_post_date: "2025-03-28T12:10:20Z"
-  last_post_link: https://www.nathalielawhead.com/candybox/making-art-matters
+    Counter-culture in our digital world is an expression of the better future we know is possible.
+    Gaming, fandom, artists, developers, are part of the solution.
+    We can empower each-other to make a
+  last_post_date: "2025-05-25T10:17:18Z"
+  last_post_link: https://www.nathalielawhead.com/candybox/a-crash-course-introduction-into-experimental-indie-games-arthouse-games-as-a-force-for-good-the-activism-of-video-games
   last_post_categories:
   - Games
   - talks
   last_post_language: ""
-  last_post_guid: 384169fcdc5a8b173fabe17172b5a39d
+  last_post_guid: ff44c3b27518183e2d6f339da2269b0e
   score_criteria:
     cats: 0
     description: 3

@@ -8,33 +8,35 @@ params:
   feedid: d35e5061b69ee4439203ccbbcbb49eaa
   websites:
     https://detect.fyi/?gi=0d0ad47394ae&source=rss----d5fd8f494f6a---4: false
+    https://detect.fyi/?gi=0f5162f9825d&source=rss----d5fd8f494f6a---4: false
+    https://detect.fyi/?gi=3349ca5c3767&source=rss----d5fd8f494f6a---4%2F: false
     https://detect.fyi/?gi=fe3ddda714b7&source=rss----d5fd8f494f6a---4%2F: false
     https://detect.fyi/?source=rss----d5fd8f494f6a---4: true
     https://detect.fyi/?source=rss----d5fd8f494f6a---4/: false
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - data-analysis
-  - detection-engineering
+  - cybersecurity
+  - ddos
   - kql
-  - sentinel
+  - threat-hunting
   relme: {}
-  last_post_title: 'Advanced KQL Deep Dive: User State Change Tracking'
+  last_post_title: Identifying potential DDoS cases based on ASN with KQL Queries
   last_post_description: ""
-  last_post_date: "2025-04-16T15:27:17Z"
-  last_post_link: https://detect.fyi/advanced-kql-deep-dive-user-state-change-tracking-f9049cc08c5a?source=rss----d5fd8f494f6a---4
+  last_post_date: "2025-06-04T15:54:45Z"
+  last_post_link: https://detect.fyi/identifying-potential-ddos-cases-based-on-asn-with-kql-queries-f3878ab5178f?source=rss----d5fd8f494f6a---4
   last_post_categories:
-  - data-analysis
-  - detection-engineering
+  - cybersecurity
+  - ddos
   - kql
-  - sentinel
+  - threat-hunting
   last_post_language: ""
-  last_post_guid: 9296e32f06b52fe6c00ac156c0eae57a
+  last_post_guid: 6335abae897589e130a4c178abdab9eb
   score_criteria:
     cats: 0
     description: 3

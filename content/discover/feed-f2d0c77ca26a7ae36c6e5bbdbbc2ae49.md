@@ -13,7 +13,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Links for Josh Betz
     description: ""
@@ -25,24 +25,22 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub for beginners
-  - REST API
+  - Company news
+  - GitHub Availability Report
+  - News & insights
   relme: {}
-  last_post_title: 'GitHub for Beginners: Building a REST API with Copilot'
+  last_post_title: 'GitHub Availability Report: May 2025'
   last_post_description: |-
-    See how you can use GitHub Copilot to build an API.
-    The post GitHub for Beginners: Building a REST API with Copilot appeared first on The GitHub Blog.
-  last_post_date: "2025-04-28T13:00:42Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/
+    In May, we experienced three incidents that resulted in degraded performance across GitHub services.
+    The post GitHub Availability Report: May 2025 appeared first on The GitHub Blog.
+  last_post_date: "2025-06-11T23:24:41Z"
+  last_post_link: https://github.blog/news-insights/company-news/github-availability-report-may-2025/
   last_post_categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub for beginners
-  - REST API
+  - Company news
+  - GitHub Availability Report
+  - News & insights
   last_post_language: ""
-  last_post_guid: d23f1e161355a85fa06492fbf9a7be96
+  last_post_guid: a0b21e45f02dd85d3dd45a26de8ce8e6
   score_criteria:
     cats: 0
     description: 3

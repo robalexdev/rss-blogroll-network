@@ -17,17 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 凡人歌
-  last_post_description: !!binary |
-    5pyA6L+R5Zyo5rKh5pyJ5b+r6L+b55qE5oOF5Ya15LiL55yL5a6M5LqG5LiA6YOo5Ymn44
-    CK5Yeh5Lq65q2M44CL77yM5L2g6K+05pyJ5aSa5aW955yL5ZCX77yM5Lmf5LiN5piv77yM
-    5Y+q5piv5YWx6bij5aSa5Lqb77yM5Ymn5Lit55qE56eN56eN6YO95aW95Ly85Zyo4oCc54
-    K54oCd5oiR44CC6L+Z5LiA5bqm6K6p5oiR6Zm35YWl5LqG56ys5LqM5qw=
-  last_post_date: "2024-09-22T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2024/09/song-of-an-ordinary-man/
+  last_post_title: 在 OpenWrt 和群晖中自动申请和部署证书
+  last_post_description: 为了在本地局域网环境中摆脱 IP 用上域名（纯属闲来无事瞎鼓捣），购入了 leovan.dev
+  last_post_date: "2025-05-25T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2025/05/auto-apply-and-deploy-certificate-on-openwrt-and-synology/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: def9a3fef755dbbd5862a315d280e632
+  last_post_guid: ff7b90dd84a20ab33fe68d27dccbc3f2
   score_criteria:
     cats: 0
     description: 3

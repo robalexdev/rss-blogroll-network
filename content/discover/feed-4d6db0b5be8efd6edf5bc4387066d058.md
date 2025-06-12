@@ -1,6 +1,6 @@
 ---
 title: pages tagged python-planet
-date: "2025-03-22T11:00:29-04:00"
+date: "2025-06-01T10:22:59-04:00"
 description: anarcat
 params:
   feedlink: https://anarc.at/tag/python-planet/index.rss
@@ -16,34 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - debian
+  - censorship
   - debian-planet
-  - fail
-  - meta
-  - networking
-  - outage
+  - network
+  - python
   - python-planet
+  - software
   - sysadmin
+  - tor
   relme: {}
-  last_post_title: Minor outage at Teksavvy business
+  last_post_title: Traffic meter per ASN without logs
   last_post_description: |-
-    This morning, internet was down at home. The last time I had such an
-    issue was in February 2023, when my
-    provider was Oricom. Now I'm with a business service at Teksavvy
-    Internet (TSI), in which I
-  last_post_date: "2025-03-22T00:25:09-04:00"
-  last_post_link: https://anarc.at/blog/2025-03-21-another-home-outage/
+    Have you ever found yourself in the situation where you had no or
+    anonymized logs and still wanted to figure out where your traffic was
+    coming from?
+
+    Or you have multiple upstreams and are looking to
+  last_post_date: "2025-05-30T22:32:49-04:00"
+  last_post_link: https://anarc.at/blog/2025-05-30-asncounter/
   last_post_categories:
-  - debian
+  - censorship
   - debian-planet
-  - fail
-  - meta
-  - networking
-  - outage
+  - network
+  - python
   - python-planet
+  - software
   - sysadmin
+  - tor
   last_post_language: ""
-  last_post_guid: c031f1b1f698ab92085e459a12e930d2
+  last_post_guid: 7f4278d92a5124893df9e314113cd214
   score_criteria:
     cats: 0
     description: 3

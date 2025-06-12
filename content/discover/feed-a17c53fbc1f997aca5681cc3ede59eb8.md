@@ -1,6 +1,6 @@
 ---
 title: Victor Poughon
-date: "2025-04-16T02:02:15Z"
+date: "2025-06-11T21:59:51Z"
 description: Victor Poughon personal website
 params:
   feedlink: https://victorpoughon.fr/feed/
@@ -20,13 +20,13 @@ params:
   relme:
     https://mastodon.social/@victorpoughon: true
     https://victorpoughon.fr/: true
-  last_post_title: I tried making artificial sunlight at home
+  last_post_title: Every Perceptually Uniform Color Map as a CSS Gradient
   last_post_description: ""
-  last_post_date: "2025-03-27T19:51:47Z"
-  last_post_link: https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/
+  last_post_date: "2025-04-29T11:26:12Z"
+  last_post_link: https://victorpoughon.fr/css-gradients-colorcet/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f9f36e94327397b3cea33c3e656ad1e
+  last_post_guid: 51fe6eb773a99fde0ed9871181f895df
   score_criteria:
     cats: 0
     description: 3

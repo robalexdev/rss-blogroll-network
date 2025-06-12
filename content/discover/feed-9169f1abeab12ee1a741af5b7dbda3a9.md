@@ -1,6 +1,6 @@
 ---
 title: Lin.ear th.inking
-date: "2025-04-13T16:18:16-07:00"
+date: "2025-05-07T16:19:17-07:00"
 description: Because the shortest distance between two thoughts is a straight line
 params:
   feedlink: https://www.blogger.com/feeds/2420860529344694449/posts/default/-/postgis

@@ -28,29 +28,31 @@ params:
   - https://danq.me/kind/note/feed/
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
-  categories: []
+  categories:
+  - ESET research
   relme: {}
-  last_post_title: Deepfake 'doctors' take to TikTok to peddle bogus cures
-  last_post_description: Look out for AI-generated 'TikDocs' who exploit the public's
-    trust in the medical profession to drive sales of sketchy supplements
-  last_post_date: "2025-04-25T09:00:00Z"
-  last_post_link: https://www.welivesecurity.com/en/social-media/deepfake-doctors-tiktok-bogus-cures/
-  last_post_categories: []
+  last_post_title: 'BladedFeline: Whispering in the dark'
+  last_post_description: ESET researchers analyzed a cyberespionage campaign conducted
+    by BladedFeline, an Iran-aligned APT group with likely ties to OilRig
+  last_post_date: "2025-06-05T09:00:00Z"
+  last_post_link: https://www.welivesecurity.com/en/eset-research/bladedfeline-whispering-dark/
+  last_post_categories:
+  - ESET research
   last_post_language: ""
-  last_post_guid: 8625c8981238415b58deeb8805040662
+  last_post_guid: 19dc31805a3983f723c20349ef7fe4d6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

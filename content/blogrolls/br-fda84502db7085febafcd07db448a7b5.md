@@ -50,8 +50,8 @@ params:
   - title: The Go Blog
     description: ""
     id: 2f02a05b9ae2b09d6abb5aa771db4a68
-  - title: Home on Rakhim.org
-    description: Recent content in Home on Rakhim.org
+  - title: Home on Rakhim's homepage
+    description: Recent content in Home on Rakhim's homepage
     id: 3ac6ac83d1b44027b98144cdb85443c1
   - title: Wizard Zines
     description: ""
@@ -69,7 +69,8 @@ params:
     description: PaulStamatiou.com - Technology, Design and Photography
     id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
-    description: '[object Object]'
+    description: Currently writing about my travel nostalgia, my comeback to blogging
+      and my experiences as a software user.
     id: 5cd3085a60f3bae159ce042035a1e3de
   - title: Ben Borgers
     description: Ben Borgers’ personal website.
@@ -140,6 +141,9 @@ params:
     description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and
       human dad.
     id: beb57c334e61d6ec968b6685ea8ba92b
+  - title: Dame's Blog
+    description: A blog about technology, social media, and mindful digital living
+    id: c097ddabca1e955ce0b152a8bb229e47
   - title: Alpine Linux News
     description: ""
     id: c692078d3e6f22e8f331b1ed54acb512

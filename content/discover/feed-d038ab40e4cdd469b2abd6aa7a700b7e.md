@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,13 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Did Peter Navarro Save Democracy?
-  last_post_description: Economic failure has given us a chance to stop Trump's authoritarianism
-  last_post_date: "2025-04-28T10:30:58Z"
-  last_post_link: https://paulkrugman.substack.com/p/did-peter-navarro-save-democracy
+  last_post_title: If You Lie With DOGE You Get Fleeced
+  last_post_description: Yes, Musk is a fraud. A total fraud.
+  last_post_date: "2025-06-11T10:31:01Z"
+  last_post_link: https://paulkrugman.substack.com/p/if-you-lie-with-doge-you-get-fleeced
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5ec991e671fead0558cfa1d608f5a492
+  last_post_guid: 2eca254c94239c395ed7359dd322613f
   score_criteria:
     cats: 0
     description: 3

@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Ollama-Buddy 0.9.35: Grok, Gemini Integration and Enhanced Sessions'
-  last_post_description: "Several improvements in the latest Ollama Buddy updates
-    (versions 0.9.21 through 0.9.35):\n\U0001F389 New AI Integrations with Grok and
-    Gemini\n\nGoogle’s Gemini is now complementing existing support for"
-  last_post_date: "2025-04-24T09:20:00+01:00"
-  last_post_link: https://emacs.dyerdwelling.family/emacs/20250424085731-emacs--ollama-buddy-0-9-35-grok-gemini-integration-enhanced-sessions/
+  last_post_title: Building Your Own Orderless Style Completion in Emacs Lisp
+  last_post_description: While packages like orderless provide flexible “any word,
+    any order” completion, sometimes you want something lightweight and easy to tweak
+    (well I do anyway). In this post, I’ll show you how
+  last_post_date: "2025-06-04T09:40:00+01:00"
+  last_post_link: https://emacs.dyerdwelling.family/emacs/20250604085817-emacs--building-your-own-orderless-style-completion-in-emacs-lisp/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 87a2692d1c2320c83fb37d0a8c9146a8
+  last_post_guid: 3778b7a70f5decc515c0396f837dedb2
   score_criteria:
     cats: 0
     description: 3

@@ -12,43 +12,40 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - 2025 nba playoffs
-  - NBA
-  - anthony edwards
-  - basketball
-  - highlight reel
-  - jj redick
-  - lebron james
-  - los angeles lakers
-  - luka doncic
-  - minnesota timberwolves
+  - Interviews
+  - Politics
+  - Science
+  - mental health
+  - nursing
+  - public health
+  - q&as
+  - suicide
   relme: {}
-  last_post_title: JJ Redick Pushed The Panic Button And Lost Anyway
-  last_post_description: LeBron James failed to score a point in the fourth quarter
-    of Game 4 of the Western Conference first-round series between his Lakers and
-    the Minnesota Timberwolves. The Wolves erased a 12-point third
-  last_post_date: "2025-04-28T19:17:43Z"
-  last_post_link: https://defector.com/jj-redick-pushed-the-panic-button-and-lost-anyway
+  last_post_title: An Interview With A Psychiatric Nurse Whose Research Funding Was
+    Cut By The Trump Administration
+  last_post_description: Laura Mata López was born and raised in a low-income community
+    in San José, Costa Rica. Some of her earliest memories were of the impact poverty
+    and a lack of support for mental health had on her
+  last_post_date: "2025-06-11T19:05:16Z"
+  last_post_link: https://defector.com/an-interview-with-a-psychiatric-nurse-whose-research-funding-was-cut-by-the-trump-administration
   last_post_categories:
-  - 2025 nba playoffs
-  - NBA
-  - anthony edwards
-  - basketball
-  - highlight reel
-  - jj redick
-  - lebron james
-  - los angeles lakers
-  - luka doncic
-  - minnesota timberwolves
+  - Interviews
+  - Politics
+  - Science
+  - mental health
+  - nursing
+  - public health
+  - q&as
+  - suicide
   last_post_language: ""
-  last_post_guid: 7d0939a207dc831152e8e6ef9d7789f6
+  last_post_guid: b886d3ad5bc9e3306e8d1d3468082ca2
   score_criteria:
     cats: 0
     description: 3

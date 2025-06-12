@@ -44,12 +44,9 @@ params:
   - https://www.benji.dog/read.xml
   - https://www.benji.dog/watched.xml
   categories:
-  - beach
   - general
-  - sandiego
-  - swim2025
   - via-instagram
-  - via-posse
+  - via-pesos
   relme:
     https://artlung.com/: true
     https://artlung.com/comics/: true
@@ -59,24 +56,21 @@ params:
     https://artlung.com/merch/: true
     https://artlung.com/tags/: true
     https://github.com/artlung: true
+    https://libre.fm/user/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
     https://thisbot.day/@affirmations: true
     https://xoxo.zone/@artlung: true
-  last_post_title: 'Got back to the water today and it was restorative. Maybe more
-    this weekend. But there’ll be rain, too. Ocean Beach was choppy but fun. Monday
-    back to the fight. #beach #SanDiego'
+  last_post_title: I can’t hate a graffito of PaRappa the Rapper. From OB this morning.
+    @gwenthegoblin appreciated the lack of amplified music and amazing sea smells.
   last_post_description: ""
-  last_post_date: "2025-04-26T04:46:32Z"
-  last_post_link: https://artlung.com/blog/2025/04/25/ob-restorative/
+  last_post_date: "2025-06-10T20:17:16Z"
+  last_post_link: https://artlung.com/blog/2025/06/10/parappa-gwenthegoblin/
   last_post_categories:
-  - beach
   - general
-  - sandiego
-  - swim2025
   - via-instagram
-  - via-posse
+  - via-pesos
   last_post_language: ""
-  last_post_guid: 8f893594b132b14fea7cb130300b26fd
+  last_post_guid: 17a4abdcf1ce37b52efc37f5df2429f5
   score_criteria:
     cats: 0
     description: 3

@@ -16,24 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - FYI
-  - SNS
-  - reading
-  - tools
-  - wordpress
+  - AntiGFW
+  - female
+  - interests
+  - money
+  - movie
+  - norwegian wood
+  - writer
+  - 日子流
   relme: {}
-  last_post_title: “网络读书会” 的一些思路和方案
-  last_post_description: 想弄一个长期的、朋友们一起读书的小组。大家对书中的文字，进行高亮或评论，并且围绕评论进一步讨论。
-  last_post_date: "2025-04-10T04:04:00Z"
-  last_post_link: https://blog.fivest.one/archives/6978
+  last_post_title: 今天的两件微妙的感受
+  last_post_description: 1.
+  last_post_date: "2025-06-11T14:54:05Z"
+  last_post_link: https://blog.fivest.one/archives/7017
   last_post_categories:
-  - FYI
-  - SNS
-  - reading
-  - tools
-  - wordpress
+  - AntiGFW
+  - female
+  - interests
+  - money
+  - movie
+  - norwegian wood
+  - writer
+  - 日子流
   last_post_language: ""
-  last_post_guid: 119ccd8fe6a3712343546a259b99365f
+  last_post_guid: 1b7e56c7200f0721f57a782421badf4f
   score_criteria:
     cats: 0
     description: 0

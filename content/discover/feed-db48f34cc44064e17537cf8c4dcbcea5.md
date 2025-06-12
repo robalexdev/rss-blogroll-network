@@ -12,12 +12,17 @@ params:
   - title: Mayx Blogroll
     description: ""
     id: 5fffc50926876056bde70973d462a6cf
+  - title: Mayx Blogroll
+    description: ""
+    id: 74d419ad47375950f8898bd6e9ad9734
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
   recommended: []
   recommender:
   - https://mabbs.github.io/atom.xml
+  - https://mabbs.github.io/rss.xml
+  - https://mayx.eu.org/atom.xml
   categories: []
   relme: {}
   last_post_title: 没有红包封面，但是 AI 春联……

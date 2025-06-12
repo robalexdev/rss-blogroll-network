@@ -1,6 +1,6 @@
 ---
 title: 楚天乐的全栈之路
-date: "2025-04-26T13:06:00+08:00"
+date: "2025-04-30T05:04:00+08:00"
 description: Just So So ...
 params:
   feedlink: https://blog.shyclouds.net/feed/
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fantastic 单词详解
-  last_post_description: 'Fantastic 单词详解发音 (IPA)US: /fænˈtæstɪk/  UK: /fænˈtæstɪk/(Note:
-    IPA symbols verified against autho...'
-  last_post_date: "2025-04-26T13:06:00+08:00"
-  last_post_link: https://blog.shyclouds.net/English/185.html
+  last_post_title: procrastinated单词终极指南：发音/中文解释/英文解释/词源/例句全解 | myxtea学英语
+  last_post_description: 'procrastinated 单词详解发音 (IPA)US: /prəˈkræstɪneɪtɪd/  UK: /prəˈkræstɪneɪtɪd/(Note:
+    IPA verified from...'
+  last_post_date: "2025-04-30T05:04:00+08:00"
+  last_post_link: https://blog.shyclouds.net/English/procrastinated-1.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a9345c666887914ddb1fa6b095981c1d
+  last_post_guid: f9121827ada08dc694823907aa21d639
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Trey Hunner - Python
-date: "2025-04-18T11:34:37-07:00"
+date: "2025-06-11T16:41:27-07:00"
 description: ""
 params:
   feedlink: https://treyhunner.com/python.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Which social network are we using for PyCon US this year?
+  last_post_title: My PyCon US 2025 recap
   last_post_description: ""
-  last_post_date: "2025-04-18T11:45:00-07:00"
-  last_post_link: https://treyhunner.com/2025/04/which-social-network-are-we-using-for-pycon/
+  last_post_date: "2025-06-11T16:45:00-07:00"
+  last_post_link: https://treyhunner.com/2025/06/pycon-us-2025-recap/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8640b416b9b5182f1aed2cc6e2865874
+  last_post_guid: 8a4e1263d1fd93231591314d578fb4a9
   score_criteria:
     cats: 0
     description: 0

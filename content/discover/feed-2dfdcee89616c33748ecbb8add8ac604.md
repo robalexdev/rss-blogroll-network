@@ -6,7 +6,8 @@ params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
   feedtype: atom
   feedid: 2dfdcee89616c33748ecbb8add8ac604
-  websites: {}
+  websites:
+    https://www.baldurbjarnason.com/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -34,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

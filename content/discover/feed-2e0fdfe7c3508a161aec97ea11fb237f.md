@@ -22,16 +22,16 @@ params:
     https://dylanbeattie.net/: true
     https://github.com/dylanbeattie: true
     https://hachyderm.io/@dylanbeattie: true
-  last_post_title: The Problem with “Vibe Coding”
+  last_post_title: On The Fungibility of Trains
   last_post_description: |-
-    The whole “vibe coding” thing is another reminder that quite a lot of people working in tech don’t understand the difference between programs and products.
+    When’s a train not a train?
 
-    To me, programs are “works on my
-  last_post_date: "2025-04-11T16:14:00Z"
-  last_post_link: https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html
+    I’m on my way from Antwerp to Budapest, via Amsterdam Schipol airport, on the delightfully fast and comfortable service that’s now called Eurostar but is still
+  last_post_date: "2025-05-28T14:03:00Z"
+  last_post_link: https://dylanbeattie.net/2025/05/28/on-the-fungibility-of-trains.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7e2f0d81e9b402d6236a269f0b2272ff
+  last_post_guid: b3e0a5915cbe90f8bbb685e88ebecc0b
   score_criteria:
     cats: 0
     description: 3

@@ -13,26 +13,30 @@ params:
   - title: Roy Tang's Blogroll
     description: ""
     id: 9a988b678bcc9cdb383ef996387855af
+  - title: Adam Keys - Blogroll
+    description: ""
+    id: 9c926b53f0c9c2eae0b00ac7b25b6099
   - title: Ruben Arakelyan's blogroll
     description: ""
     id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
   - https://roytang.net/blog/feed/rss/
+  - https://therealadam.com/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
-  - The Important Thing
+  - Rands
   relme: {}
-  last_post_title: The One About Exercise
-  last_post_description: In our 90th epsiode, we walk through all the benefits of
-    improving our exercise strategy. Enjoy it now, or download for later. Here’s a
-    handy feed or subscribe via Overcast or iTunes. https
-  last_post_date: "2025-04-02T15:00:55Z"
-  last_post_link: https://randsinrepose.com/archives/the-one-about-exercise/
+  last_post_title: I Live Here Now
+  last_post_description: I had a dog, his name was Marleau. He was a Boston Terrier,
+    and he just wasn’t that smart. His nickname was “Derpity Doo” because he was was
+    that derpy. We all loved him a lot. One day, we
+  last_post_date: "2025-06-03T14:50:15Z"
+  last_post_link: https://randsinrepose.com/archives/i-live-here-now/
   last_post_categories:
-  - The Important Thing
+  - Rands
   last_post_language: ""
-  last_post_guid: 6660788ba3df1705cc09c599c121c0e6
+  last_post_guid: f0fe92825e6c03a13f9b738293b30c4d
   score_criteria:
     cats: 0
     description: 0

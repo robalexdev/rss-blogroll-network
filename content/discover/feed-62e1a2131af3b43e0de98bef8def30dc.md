@@ -17,16 +17,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 小说《永恒的舞动》
+  - 可乐百事
   relme: {}
-  last_post_title: 《永恒的舞动》第一百一十七章
-  last_post_description: 永恒的舞动（Elegance in Timelessness） 作者：nicrosoft（农码生涯），同时在起 […]
-  last_post_date: "2025-04-28T18:14:32Z"
-  last_post_link: https://nicrosoft.net/blog/2248/
+  last_post_title: 高考结束
+  last_post_description: To Cola：无论结果如何，都不要放弃、终止学习。高考是很多人一生学习的终点，但我希望你能找到由衷热爱并愿意 […]
+  last_post_date: "2025-06-09T15:07:13Z"
+  last_post_link: https://nicrosoft.net/blog/2256/
   last_post_categories:
-  - 小说《永恒的舞动》
+  - 可乐百事
   last_post_language: ""
-  last_post_guid: abbfee78efe2b5a38fb3b3c43a4ff5cb
+  last_post_guid: 06540b6ae10726a3f820614c4129cbc4
   score_criteria:
     cats: 0
     description: 3

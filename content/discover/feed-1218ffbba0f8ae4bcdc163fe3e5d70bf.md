@@ -18,9 +18,9 @@ params:
   relme: {}
   last_post_title: AI Assisted Development in Wing Pro
   last_post_description: |-
-    This Wing Tip introduces Wing Pro's AI assisted software development
-    capabilities. Starting with Wing Pro version 10, you can use generative AI to write new
-    code at the current editor insertion point
+    Generative AI is astonishingly capable as a programmer's assistant. As long as you provide
+    it with sufficient context and clear instructions, it can cleanly and correctly execute a
+    wide variety of
   last_post_date: "2024-01-24T01:00:00Z"
   last_post_link: https://wingware.com/blog/ai-dev
   last_post_categories: []

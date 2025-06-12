@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2025-04-24T00:17:03+08:00"
+date: "2025-06-11T14:18:08+08:00"
 description: 后端与嵌入式、maya与游戏 | elmagnifico， Back-end engineer & Embedded System Lover
   | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -16,37 +16,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - DeepSeek
-  - LLM
+  - Equip
+  - Nintendo Switch2
   relme: {}
-  last_post_title: DeepSeek-671b-Q4部署
-  last_post_description: !!binary |
-    Rm9yZXdvcmQKCkRlZXBTZWVr54Gr5LqG6L+Z5LmI5LmF77yM5oC7566X6L2u5Yiw5oiR5p
-    2l6YOo572y5LiA5LiL5LqG77yM6YOo572y5bCP5qih5Z6L55qE5oy65aSa55qE77yM5L2G
-    5piv5o6l6L+R5ruh6KGA55qE5aSn5qih5Z6L55qE5aW95YOP5b6I5bCR77yM6YGH5Yiw55
-    qE6Zeu6aKY5Lmf6Zq+5b6X5pyJ5Lq66K+044CCCgpEZWVwU2VlawoK6K4=
-  last_post_date: "2025-04-18T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2025/04/18/DeepSeek-Deploy/
+  last_post_title: Nintendo Switch2
+  last_post_description: |-
+    Foreword
+
+    NS2总算发布了，今天就直接拿到了，ns1总算可以淘汰了，各种小问题已经懒得折腾了
+
+    Nintendo
+  last_post_date: "2025-06-05T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2025/06/05/Nintendo-Switch2/
   last_post_categories:
-  - AI
-  - DeepSeek
-  - LLM
+  - Equip
+  - Nintendo Switch2
   last_post_language: ""
-  last_post_guid: f43cd513e66c9a0900b35e21286331e2
+  last_post_guid: 66244e2b3f8264e8fb1c26cce75fe3cc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

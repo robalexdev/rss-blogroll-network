@@ -16,25 +16,26 @@ params:
   recommender: []
   categories:
   - Development
+  - Linux
+  - OpenSource
   - Planet
-  - assembly
-  - c
-  - programming
-  - skill-issues
+  - xlibre
+  - xorg
   relme: {}
-  last_post_title: C idioms; it’s the processor, noob
-  last_post_description: 'I explain why !p isn''t just a nitpick in C: it''s idiomatic.'
-  last_post_date: "2025-01-28T20:45:14Z"
-  last_post_link: https://felipec.wordpress.com/2025/01/28/c-idioms/
+  last_post_title: Meet Enrico Weigelt, the maintainer of the new XLibre fork
+  last_post_description: I ask Enrico Weigelt -- the maintainer of the new XLibre
+    fork -- a couple of questions about the status and future of Xorg/XLibre.
+  last_post_date: "2025-06-11T11:21:55Z"
+  last_post_link: https://felipec.wordpress.com/2025/06/11/enrico-weigelt/
   last_post_categories:
   - Development
+  - Linux
+  - OpenSource
   - Planet
-  - assembly
-  - c
-  - programming
-  - skill-issues
+  - xlibre
+  - xorg
   last_post_language: ""
-  last_post_guid: 90c13feec57149bf1b154b43e4752217
+  last_post_guid: 16c2b813b3244584337c9ff5a2aafdc6
   score_criteria:
     cats: 0
     description: 0

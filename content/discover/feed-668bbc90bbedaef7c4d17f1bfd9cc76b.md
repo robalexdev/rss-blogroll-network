@@ -33,16 +33,16 @@ params:
   categories:
   - Culture
   relme: {}
-  last_post_title: 'The Outer Worlds: Coping with Nihilism | Nebula Plus'
-  last_post_description: An artsy video about how playing a lot of video games is
-    helping me confront nihilism. This video puts into practice a lot of what we learned
-    in both Nietzsche videos, as well as some themes from
-  last_post_date: "2025-03-14T19:30:09Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-the-outer-worlds-coping-with-nihilism/
+  last_post_title: The Problem with Video Essays
+  last_post_description: An exploration of the limits of the video essay format, using
+    a particular book as an example. Along the way we'll also learn about the gridding
+    of the early USA, so there's some history and
+  last_post_date: "2025-06-04T16:30:10Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-the-problem-with-video-essays/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: 7979162b05778db850010cc7cbbfef53
+  last_post_guid: f73bb1854dbd180a028d5e748b2e9767
   score_criteria:
     cats: 0
     description: 3

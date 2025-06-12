@@ -1,6 +1,6 @@
 ---
 title: Rusty Russell’s Quiet Corner of The Internet
-date: "2024-06-09T17:08:49+09:30"
+date: "2025-04-21T17:54:50+09:30"
 description: I have been a full time Free Software developer since the 90's.  I worked
   on the Linux Kernel, where I wrote ipchains, iptables, and rewrote the module subsystem,
   along with many other things.  I

@@ -45,7 +45,7 @@ params:
     website: 1
   score: 23
   ispodcast: false
-  isnoarchive: false
+  isnoarchive: true
   innetwork: true
   language: ""
   postcount: 33

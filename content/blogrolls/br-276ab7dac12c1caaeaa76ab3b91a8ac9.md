@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Wed, 16 Apr 2025 02:06:34 GMT
+date: Wed, 11 Jun 2025 22:06:50 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -148,8 +148,8 @@ params:
   - title: 'Open Source GIS: Travels in a digital world'
     description: ""
     id: 6d2013dbf683c14a5df09614d39cd871
-  - title: GRASS GIS - Bringing advanced geospatial technologies to the world
-    description: Recent content on GRASS GIS - Bringing advanced geospatial technologies
+  - title: GRASS - Bringing advanced geospatial technologies to the world
+    description: Recent content on GRASS - Bringing advanced geospatial technologies
       to the world
     id: 6e1e9a66bc80a5b84d61c65fa6f94043
   - title: osgeo – Excellent Map
@@ -238,12 +238,16 @@ params:
     description: Need directions?
     id: b70663e4836635355b191b3f74f2d288
   - title: Stefano Costa
-    description: There's more than just potsherds out there
+    description: There's more than potsherds out here
     id: b8480650da87ff44581153ee9a15829d
   - title: Lin.ear th.inking
     description: Because the shortest distance between two thoughts is a straight
       line
     id: b8c7b4cc77719d2bbf963560d648d785
+  - title: Mergin Maps News
+    description: Collect. Share. Publish. Record geospatial field data on your mobile
+      device with ease. Collaborate with your team using instant sync with QGIS.
+    id: b956dfd51d749176cc13814a70171839
   - title: 'Reacties op:'
     description: Jeroen Ticheler
     id: bbb00999a22a2f0f63b2e5b8f022afad
@@ -328,6 +332,10 @@ params:
   - title: Posts | Asociación QGIS España
     description: Posts
     id: f6b1c8e84dd3f3e6b00a257e76679d76
+  - title: Lutra Consulting Blog
+    description: ​Lutra Consulting's blog provides insights into geospatial software
+      development, particularly focusing on QGIS.
+    id: f903a903e0a5e8b936b39791fc079682
   - title: geothought
     description: Thoughts on geospatial and location technology from Peter Batty
     id: fbeeb0ebf94e3cf7611203fcf77dd072

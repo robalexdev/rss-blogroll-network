@@ -19,16 +19,16 @@ params:
   categories:
   - lab notes
   relme: {}
-  last_post_title: 'Lab note #067 Pipelines operate on collections of data'
-  last_post_description: Wrapped type computingDespite resisting the draw for writing
-    an interpreter/compiler, I did think about it some more, and find it almost inevitable,
-    given the properties and constraints that I have.I
-  last_post_date: "2025-04-07T20:42:44Z"
-  last_post_link: https://interjectedfuture.com/lab-note-067-pipelines-operate-on-collections-of-data/
+  last_post_title: 'Lab note #070 Vibe-coding is half a skill issue'
+  last_post_description: I've been doing an implementation of DBSP, which is a way
+    of doing incremental computation built up from some basic concepts from digital
+    signal processing. While I use LLMs in my daily work to ask
+  last_post_date: "2025-06-11T05:15:51Z"
+  last_post_link: https://interjectedfuture.com/lab-note-070-vibe-coding-is-half-a-skill-issue/
   last_post_categories:
   - lab notes
   last_post_language: ""
-  last_post_guid: 2389134153b6fe5b73bbfc14caf7e76e
+  last_post_guid: 58553f2fc96cf6c4f5699c6033f47a07
   score_criteria:
     cats: 0
     description: 3

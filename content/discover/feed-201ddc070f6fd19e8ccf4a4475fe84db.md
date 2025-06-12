@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI Flame Graphs
-  last_post_description: Imagine halving the resource costs of AI and what that could
-    mean for the planet and the industry -- based on extreme estimates such savings
-    could reduce the total US power usage by over 10% by 20301
-  last_post_date: "2024-10-29T00:00:00+11:00"
-  last_post_link: http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html
+  last_post_title: 3 Years of Extremely Remote Work
+  last_post_description: In the last 3 years I've attended 77 meetings that began
+    between 1am and 6am, roughly once every two weeks, followed by my usual 7am start,
+    Monday to Saturday. I'm working remotely from Australia for
+  last_post_date: "2025-05-22T00:00:00+10:00"
+  last_post_link: http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 12cc36137df8a650673c19dc63c0bdc7
+  last_post_guid: 760078420ef3a60adf15809fcd9b9da4
   score_criteria:
     cats: 0
     description: 0

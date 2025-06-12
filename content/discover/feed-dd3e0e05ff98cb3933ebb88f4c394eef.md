@@ -145,17 +145,17 @@ params:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: 'Slowness: To Idle Against this Age'
-  last_post_description: "Summary: \nAn ambling through memories of a slower time
-    and mindset; all triggered by a fellow blogger.\n\n        My mind is racing,
-    as it always will\nMy hands tired, my heart aches\nI’m half a world"
-  last_post_date: "2025-04-18T07:44:41-04:00"
-  last_post_link: https://takeonrules.com/2025/04/18/slowness-to-idle-against-this-age/
+  last_post_title: Writing as Reciprocation
+  last_post_description: "Summary: \nSharing of books read and of an opening to a
+    story I’ve long-considered.\n\n        \n\n\n\n\nWe must not abandon the memory
+    of the dead.\n\n\nI found the following quote by Mandy Brown from Jim"
+  last_post_date: "2025-06-11T19:49:19-04:00"
+  last_post_link: https://takeonrules.com/2025/06/11/writing-as-reciprocation/
   last_post_categories:
   - personal
   - responses
   last_post_language: ""
-  last_post_guid: 71ca64998d6659a6f1bb5fb5b3277e68
+  last_post_guid: c8d2c41c463ef879eda2faac45ce29c0
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Shuibaco • 水八口
-date: "2025-04-14T06:52:00Z"
+date: "2025-06-09T06:57:00Z"
 description: ""
 params:
   feedlink: https://shuiba.co/feed
@@ -16,14 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 中年空虚
-  last_post_description: "首先跟老天爷声明一下，我很满意现状，不需要天降大任哈，拜托了！此篇文章仅记录近期想法，不是牢骚，纯纯困惑。\n\n\n\n\n
-    \  "
-  last_post_date: "2025-04-14T06:52:00Z"
-  last_post_link: https://shuiba.co/i-dont-know-what-happened
+  last_post_title: 情绪的转移
+  last_post_description: !!binary |
+    5LuK5aSp5pep5LiK77yM5Z2h5Z2h6LW35b6X5LiN566X5pma77yM5L2G5piv5aW55ZCD5p
+    ep6aWt55qE6YCf5bqm5b6I5oWi77yM5qC55o2u57uP6aqM77yM5oiR6KeJ5b6X5Lya6L+f
+    5Yiw44CC5Lul5b6A5oiR5YKs5L+D6L+H77yM5Lmf6K+V6L+H5by65Y6L5L2P5YaF5b+D54
+    Sm6JmR6L655YGa5YW25LuW5LqL6L65562J77yM5L2G5pWI5p6c6YO95Lg=
+  last_post_date: "2025-06-09T06:57:00Z"
+  last_post_link: https://shuiba.co/emotion-transfer
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c91cdebe927d4da2eb5b624a7f2fcca
+  last_post_guid: bfd8a819eae69b7085ebd1987a100fd2
   score_criteria:
     cats: 0
     description: 0

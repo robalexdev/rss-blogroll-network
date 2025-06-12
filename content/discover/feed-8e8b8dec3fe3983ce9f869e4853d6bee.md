@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2025-04-27T14:57:59Z"
+date: "2025-06-08T00:01:32Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -16,33 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 比特币
+  - EVM
+  - 计划
   relme: {}
-  last_post_title: 我为什么把大部分资产换成比特币
-  last_post_description: !!binary |
-    6aaW5YWI5LiN5oOz5oqK5aSn6YeP6LWE5Lqn5Lul5Lq65rCR5biB55qE5b2i5byP5pS+5Z
-    yo6ZO26KGM44CCCuS4gOaWuemdoumihOacn+S6uuawkeW4geeahOaxh+eOh+S8mumZjeS9
-    ju+8jOWmguaenOe+juWbveeahOWFs+eojui/m+S4gOatpeaPkOmrmO+8jOS6uuawkeW4ge
-    eahOaxh+eOh+WPmOWKqOS8muW+iOWkp+OAguWTquaAleayoeacieaUv+c=
-  last_post_date: "2025-04-27T14:57:59Z"
-  last_post_link: https://smallyu.net/2025/04/27/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%8A%E5%A4%A7%E9%83%A8%E5%88%86%E8%B5%84%E4%BA%A7%E6%8D%A2%E6%88%90%E6%AF%94%E7%89%B9%E5%B8%81/
+  last_post_title: 想开发一个最小 EVM 虚拟机
+  last_post_description: 我给这个项目命名为 echoevm
+  last_post_date: "2025-06-09T13:43:22Z"
+  last_post_link: https://smallyu.net/2025/05/11/%E6%83%B3%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E6%9C%80%E5%B0%8FEVM%E8%99%9A%E6%8B%9F%E6%9C%BA/
   last_post_categories:
-  - 比特币
+  - EVM
+  - 计划
   last_post_language: ""
-  last_post_guid: d46a4fb84e4a4fbd839e2423369eec30
+  last_post_guid: a06678d32feb593cdef61ef3dec225ee
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,7 +1,7 @@
 ---
-title: Emacs on
+title: Emacs, on
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Emacs on
+description: Recent content in Emacs, on
 params:
   feedlink: https://hillenius.net/tags/emacs/index.xml
   feedtype: rss
@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://hillenius.net/tags/emacs/: true
-  last_post_title: Calcutta is located in Debian tzdata-legacy
+  last_post_title: Sharing our Transient Elpher menu
   last_post_description: |-
-    For those running Debian and derivatives: is Emacs' worldclock showing
-    Bangalore ASIA instead of IST? One option: apt install tzdata-legacy.
-  last_post_date: "2024-08-07T00:00:00Z"
-  last_post_link: https://hillenius.net/post/rangoon/
+    Matto and I are sharing our Transient Menu for Elpher, entitled
+    TMelpher.
+  last_post_date: "2025-04-26T00:00:00Z"
+  last_post_link: https://hillenius.net/post/transient-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34c6592528b3aa0b3552df64ccf11105
+  last_post_guid: 95ab2c9660ee4771f19e50118701428b
   score_criteria:
     cats: 0
     description: 3

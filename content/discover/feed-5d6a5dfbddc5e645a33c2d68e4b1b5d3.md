@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2025-04-25T18:35:09Z"
+date: "2025-06-07T20:25:09Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -24,7 +24,7 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - '["personal", "giggles"]'
+  - '["giggles"]'
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
@@ -51,16 +51,14 @@ params:
     https://toot.community/@jenett: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: talking to myself
-  last_post_description: 'A parody if you will: Talking to myself (ah, oh, oh-oh)
-    Talking to myself (ah, oh, oh-oh) When there''s nothing to lose and there''s nothing
-    to prove Well, I''m talking to myself, ah, oh, oh-oh Sorry'
-  last_post_date: "2025-04-23T13:56:34Z"
-  last_post_link: https://simply.joejenett.com/talking-to-myself/
+  last_post_title: good morning from Li’l Joe!
+  last_post_description: ""
+  last_post_date: "2025-06-04T11:00:49Z"
+  last_post_link: https://simply.joejenett.com/good-morning-from-lil-joe/
   last_post_categories:
-  - '["personal", "giggles"]'
+  - '["giggles"]'
   last_post_language: ""
-  last_post_guid: 3c2c0da1252b99a9d29127cc22ce770c
+  last_post_guid: 2191f6a126e344d9ea75680e3b69f2fb
   score_criteria:
     cats: 0
     description: 3

@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -17,16 +17,16 @@ params:
   categories:
   - Full Skope
   relme: {}
-  last_post_title: 'The Data Sovereignty Imperative: The Business Value of Data Protection'
-  last_post_description: Introduction Data and proactive insights garnered therein
-    are vital strategic assets in the modern digital era. Amidst this backdrop, global
-    regulations notably starting with the European Union (EU)
-  last_post_date: "2025-04-10T21:11:04Z"
-  last_post_link: https://www.netskope.com/blog/the-data-sovereignty-imperative-the-business-value-of-data-protection
+  last_post_title: 'Cyber Frontlines: Insights from DSEI Japan 2025'
+  last_post_description: Modern conflict is no longer dominated solely by tanks, ships,
+    and fighter jets. The nature of warfare itself has transformed dramatically. Today,
+    battles are increasingly fought—and won—in
+  last_post_date: "2025-06-11T17:35:42Z"
+  last_post_link: https://www.netskope.com/blog/cyber-frontlines-insights-from-dsei-japan-2025
   last_post_categories:
   - Full Skope
   last_post_language: ""
-  last_post_guid: 7912738e7f039c0ef26d0822d9c0978a
+  last_post_guid: b620e97320133922cb24c5386ad41f89
   score_criteria:
     cats: 0
     description: 0

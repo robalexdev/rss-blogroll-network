@@ -16,31 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - General
+  - Business
+  - addressing
+  - w3w
   relme: {}
-  last_post_title: W3W – It’sGetting.Better.AlltheTime
-  last_post_description: Excuse the corny title and associated video but I couldn’t
-    resist it. What3Words’s accounts for 2023 have just been published and the cynics
-    who have doubted W3W’s commercial model were
-  last_post_date: "2024-06-28T12:36:01Z"
-  last_post_link: https://knowwhereconsulting.co.uk/blog/w3w-itsgetting-better-allthetime/
+  last_post_title: Defying Gravity
+  last_post_description: Another year, another set of opaque accounts from What3Words.
+    Why do I say opaque? Because despite quite a few years of reading company accounts
+    I feel that I must be missing something when I read
+  last_post_date: "2025-04-19T17:13:24Z"
+  last_post_link: https://knowwhereconsulting.co.uk/blog/defying-gravity/
   last_post_categories:
-  - General
+  - Business
+  - addressing
+  - w3w
   last_post_language: ""
-  last_post_guid: 6a3a8370b51d4858c6ed3eb6d9352cb1
+  last_post_guid: d2ed6a1473ddab5e2598de2530ee7974
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

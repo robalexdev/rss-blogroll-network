@@ -19,20 +19,20 @@ params:
   categories:
   - Boeken
   - Filosofie
-  - Podcast
+  - Technologie
   relme: {}
-  last_post_title: De luchthaven als filosofische tussenruimte
+  last_post_title: Mens en machine Hoe stoom, stroom en smartphone ons ondermijnen
   last_post_description: |-
-    Luchthavens zijn bij uitstek liminale ruimtes: plekken tussen hier en daar, tussen vertrek en aankomst. De Franse filosoof Michel Foucault […]
-    Het bericht De luchthaven als filosofische
-  last_post_date: "2025-04-28T20:24:25Z"
-  last_post_link: https://koneksa-mondo.nl/2025/04/28/de-luchthaven-als-filosofische-tussenruimte/
+    Nieuwenhuis opent zijn boek met een herkenbare scène: als vader observeert hij hoe zijn kinderen verzonken raken in schermen en […]
+    Het bericht Mens en machine Hoe stoom, stroom en smartphone ons
+  last_post_date: "2025-06-05T17:38:59Z"
+  last_post_link: https://koneksa-mondo.nl/2025/06/05/mens-en-machine-waarom-we-techniek-de-baas-moeten-blijven/
   last_post_categories:
   - Boeken
   - Filosofie
-  - Podcast
+  - Technologie
   last_post_language: ""
-  last_post_guid: d9ca85e04d7b1f82490837f958ab6e0f
+  last_post_guid: d1b61303ecc3d287a64d5d34ec289f72
   score_criteria:
     cats: 0
     description: 3

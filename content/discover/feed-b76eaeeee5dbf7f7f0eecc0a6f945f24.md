@@ -17,7 +17,8 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Creating JWTs with public/private keys with JSON Web Key Set (JWKS)
+  last_post_title: Creating and validating JWTs with public/private keys (JSON Web
+    Key Set, JWKS)
   last_post_description: This article discusses an implementation of JWT generation
     in Go, and validation in Go and Typescript. The library used for this, jose, has
     implementations for many other programming languages, so

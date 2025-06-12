@@ -182,6 +182,8 @@ params:
   - https://cosmicqbit.dev/blog/index.xml
   - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
+  - https://diggingthedigital.com/comments/feed/
+  - https://diggingthedigital.com/feed/
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -202,6 +204,8 @@ params:
   - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
+  - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
   - https://rss.nebula.app/video/channels/realengineering.rss?plus=true
@@ -262,9 +266,8 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - buses
-  - london
-  - travel
+  - cache log
+  - geocaching
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -275,17 +278,18 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Note]'
-  last_post_description: Off to London. BRB!
-  last_post_date: "2025-05-17T10:19:29+01:00"
-  last_post_link: https://danq.me/2025/05/17/26591/
+  last_post_title: '[Checkin] Dan Q did not find GC74Z2R Metal bridge cache'
+  last_post_description: |-
+    Stopped by while cycling back from Witney. Made a moderately thorough search above and below the titular bridge, without success. Might benefit from a checkin/note from the CO.
+    Maybe I'm just not
+  last_post_date: "2025-06-10T10:38:00+01:00"
+  last_post_link: https://danq.me/2025/06/10/dan-q-did-not-find-gc74z2r-metal-bridge-cache/
   last_post_categories:
   - Personal
-  - buses
-  - london
-  - travel
+  - cache log
+  - geocaching
   last_post_language: ""
-  last_post_guid: 72217dcb7b56a449e2a1bde0a8166a92
+  last_post_guid: 893021479a4c1df9ba382b972342d3ee
   score_criteria:
     cats: 0
     description: 3

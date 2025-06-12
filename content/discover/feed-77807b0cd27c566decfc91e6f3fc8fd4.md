@@ -16,26 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - LLM
-  - Perplexity
   - blog
-  - open source
-  - self-hosted
+  - family
+  - life
+  - parenting
   relme: {}
-  last_post_title: Self-hosted Perplexity Clone
-  last_post_description: How I spun up an open source, self-hosted LLM search engine
-  last_post_date: "2025-03-29T18:17:00Z"
-  last_post_link: https://cool-as-heck.blog/self-hosted-perplexity-clone/
+  last_post_title: Summer Begins Soon
+  last_post_description: School and school activities are coming to an end
+  last_post_date: "2025-05-18T14:02:25Z"
+  last_post_link: https://cool-as-heck.blog/summer-begins-soon/
   last_post_categories:
-  - AI
-  - LLM
-  - Perplexity
   - blog
-  - open source
-  - self-hosted
+  - family
+  - life
+  - parenting
   last_post_language: ""
-  last_post_guid: 5fefa14afc5502acd7ac487a56cfbca4
+  last_post_guid: 66f4ee9e509f18aa115c9b6275a1e1fe
   score_criteria:
     cats: 0
     description: 3

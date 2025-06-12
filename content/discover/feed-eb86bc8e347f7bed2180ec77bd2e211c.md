@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Blog Roll
-  last_post_description: The famous blog roll on my site
-  last_post_date: "2025-04-16T02:04:49-07:00"
-  last_post_link: https://lifeofpablo.com/blog/roll
+  last_post_title: My First Students
+  last_post_description: My first students graduated from high school!
+  last_post_date: "2025-06-05T14:10:53-07:00"
+  last_post_link: https://lifeofpablo.com/blog/my-first-students
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 99b4dae005d6c9993d0076d3dd025f65
+  last_post_guid: 43b6409e66d5a9f25e2aa8848a2bbb48
   score_criteria:
     cats: 0
     description: 3

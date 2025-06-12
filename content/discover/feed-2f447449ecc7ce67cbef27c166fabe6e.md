@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-04-07T00:00:00+02:00"
+date: "2025-06-06T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,16 +19,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Taralli: Home-Cooked Food Tracking Without the BS'
-  last_post_description: |-
-    For years, I never really cared about what I ate, how much I ate, or when I ate it.
-    But sometime late last year, I finally decided to listen to Vitto. I started noticing that what I eat actually had
-  last_post_date: "2025-04-07T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/taralli-home-cooked-food-tracking-without-the-bs.html
+  last_post_title: MCPs are mostly hype
+  last_post_description: ..but they can also be a lot of fun. If you work in tech,
+    I'd say there's a 98% chance you've heard about it. MCPs are the future of agents,
+    MCPs will be everywhere, MCPs are the future. The Model
+  last_post_date: "2025-06-06T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/mcps-are-mostly-hype.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 690e9e4deba3f6d1b0373caa28eeec03
+  last_post_guid: 923825a64da0dcb5dad04c7f2514512d
   score_criteria:
     cats: 0
     description: 0

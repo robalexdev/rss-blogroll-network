@@ -1,6 +1,6 @@
 ---
 title: ral-arturo.org
-date: "2025-04-17T10:50:45Z"
+date: "2025-06-11T11:34:48Z"
 description: ral-arturo blog, about free software, debian, networks, systems, or whatever
 params:
   feedlink: https://ral-arturo.org/feed.xml
@@ -20,15 +20,19 @@ params:
     https://alfabravo.org/: true
     https://mas.to/@arturobg: true
     https://ral-arturo.org/: true
-  last_post_title: My experience in the Debian LTS and ELTS projects
+  last_post_title: 'Wikimedia Cloud VPS: IPv6 support'
   last_post_description: |-
-    Last year, I decided to start participating in the Debian LTS and ELTS projects. It was a great opportunity to engage in
-    something new within the Debian community. I had been following these projects
-  last_post_date: "2025-04-17T09:00:00Z"
-  last_post_link: https://ral-arturo.org/2025/04/17/lts.html
+    Dietmar Rabich,
+    Cape Town (ZA), Sea Point, Nachtansicht — 2024 — 1867-70 –
+    2,
+    CC BY-SA 4.0
+
+    This post was originally published in the Wikimedia Tech blog, authored by Arturo Borrero Gonzalez
+  last_post_date: "2025-05-20T13:00:00Z"
+  last_post_link: https://ral-arturo.org/2025/05/20/wmcs-ipv6.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fe8211667ece0e7180c3c15b10a5d71
+  last_post_guid: cbf80417ce3064172a8e97e9b254fafa
   score_criteria:
     cats: 0
     description: 3

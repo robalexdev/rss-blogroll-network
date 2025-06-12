@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2025-04-21T10:39:32+02:00"
+date: "2025-06-11T18:48:25+02:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -42,15 +42,16 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: Toxic Easter eggs
-  last_post_description: 'The Dutch government recommends that people not eat eggs
-    from backyard chickens:'
-  last_post_date: "2025-04-21T10:38:00+02:00"
-  last_post_link: https://derekkedziora.com/notes/2025-04-21-toxic-easter-eggs
+  last_post_title: The ideology of the tool
+  last_post_description: I’ve previously written about how there’s something creepy
+    and very sexual lurking behind a lot of the people into “AI”, primarily men who
+    can’t handle being told no.
+  last_post_date: "2025-06-11T18:44:00+02:00"
+  last_post_link: https://derekkedziora.com/notes/2025-06-11-the-ideology-of-the-tool
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 3e9e72c0fd28cbfcb1ac8ea21e96a65a
+  last_post_guid: 60ddee3f8bfde4be193ce4272735089f
   score_criteria:
     cats: 0
     description: 3

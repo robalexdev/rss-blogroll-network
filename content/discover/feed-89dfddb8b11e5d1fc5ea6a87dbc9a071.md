@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Firefox addon for putting prices into perspective
+  last_post_title: Unionize or die
   last_post_description: |-
-    I had a fun idea for a small project this weekend, and so I quickly put it
-    together over the couple of days. The result is Price Perspective.
-    Humor me: have you ever bought something, considered the
-  last_post_date: "2025-04-04T00:00:00Z"
-  last_post_link: https://drewdevault.com/2025/04/04/2025-04-04-Price-perspective.html
+    Tech workers have long resisted the suggestion that we should be organized into
+    unions. The topic is consistently met with a cold reception by tech workers when
+    it is raised, and no big tech labor is
+  last_post_date: "2025-06-09T00:00:00Z"
+  last_post_link: https://drewdevault.com/2025/06/09/2025-06-09-Unionize-or-die.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21c9c024ea2dae07124c266d7901cb05
+  last_post_guid: de98e0fbccb630d5a0525e7fd10a9206
   score_criteria:
     cats: 0
     description: 3

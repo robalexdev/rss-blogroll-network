@@ -103,6 +103,7 @@ params:
   - zypper
   relme:
     https://dev-loki.blogspot.com/: true
+    https://draft.blogger.com/profile/15179032995691105618: true
     https://www.blogger.com/profile/15179032995691105618: true
   last_post_title: Speaking of Packman mirrors...
   last_post_description: ""

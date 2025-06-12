@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-04-14T16:46:48Z"
+date: "2025-06-04T17:54:53Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,26 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Andrew Sutherland
+  - Boris Alexeev
   - Erdos
-  - factorial function
-  - factorisation
+  - Evan Conway
+  - Kevin Ventullo
+  - Markus Uhr
+  - Matthieu Rosenfeld
+  - math.CO
+  - math.NA
   - math.NT
-  - paper
+  - update
   relme: {}
-  last_post_title: Decomposing a factorial into large factors
-  last_post_description: I’ve just uploaded to the arXiv the paper “Decomposing a
-    factorial into large factors“. This paper studies the quantity , defined as the
-    largest quantity such that it is possible to factorize
-  last_post_date: "2025-04-14T16:46:48Z"
-  last_post_link: https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/
+  last_post_title: Decomposing a factorial into large factors (second version)
+  last_post_description: Boris Alexeev, Evan Conway, Matthieu Rosenfeld, Andrew Sutherland,
+    Markus Uhr, Kevin Ventullo, and I have uploaded to the arXiv a second version
+    of our paper “Decomposing a factorial into large
+  last_post_date: "2025-06-04T17:54:53Z"
+  last_post_link: https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/
   last_post_categories:
+  - Andrew Sutherland
+  - Boris Alexeev
   - Erdos
-  - factorial function
-  - factorisation
+  - Evan Conway
+  - Kevin Ventullo
+  - Markus Uhr
+  - Matthieu Rosenfeld
+  - math.CO
+  - math.NA
   - math.NT
-  - paper
+  - update
   last_post_language: ""
-  last_post_guid: 41ade8c5c156eb16a0da4dfafce2b0af
+  last_post_guid: 3ab7dfc974cf516afc5b2f2abdf51206
   score_criteria:
     cats: 0
     description: 3

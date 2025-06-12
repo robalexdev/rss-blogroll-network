@@ -6,8 +6,7 @@ params:
   feedlink: https://current.workingdirectory.net/tags/debian/index.xml
   feedtype: rss
   feedid: d96cdf3bb99ea6afbfe6ab0f41880a24
-  websites:
-    https://current.workingdirectory.net/tags/debian/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -16,8 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://current.workingdirectory.net/tags/debian/: true
+  relme: {}
   last_post_title: AI's Actual Impact
   last_post_description: |-
     Two years after OpenAI launched ChatGPT 3.5, humanity is not on the cusp of
@@ -37,10 +35,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

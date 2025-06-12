@@ -20,13 +20,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: The Unintentional Renegades of Outsider Music
-  last_post_description: Melodies from the margins
-  last_post_date: "2025-04-24T10:54:36+01:00"
-  last_post_link: https://mikegrindle.com/posts/outsider
+  last_post_title: Turning My Old Netbook Into a Writer Deck
+  last_post_description: More adventures with the Eee PC
+  last_post_date: "2025-06-11T13:00:06+01:00"
+  last_post_link: https://mikegrindle.com/posts/writer-deck
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3cd6f6a49ea3ea8e4b518c9ab39f132a
+  last_post_guid: d4b3f202d57a6b086b198bfb8f852c3b
   score_criteria:
     cats: 0
     description: 3

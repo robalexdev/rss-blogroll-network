@@ -16,32 +16,30 @@ params:
   recommender: []
   categories:
   - emacs
-  - university
   relme: {}
-  last_post_title: A Cohesive Note-taking and Academic Workflow in Emacs
-  last_post_description: For taking notes I started out with a simple notes.org file,
-    separating subject and topics organically with headers. I would recommend other
-    to do the same. Initially, simply writing things down is
-  last_post_date: "2025-02-10T00:00:00+01:00"
-  last_post_link: https://joarvarndt.se/notes.html
+  last_post_title: Web browsing in Emacs
+  last_post_description: eww is probably the most well-known of Emacs’ web browsing
+    solutions, chiefly because it comes included with it. It is also the one I have
+    the most experience with. I first came across eww as a
+  last_post_date: "2025-05-12T00:00:00+02:00"
+  last_post_link: https://joarvarndt.se/eww.html
   last_post_categories:
   - emacs
-  - university
   last_post_language: ""
-  last_post_guid: bf04440949b8e2756bd5b81fec183311
+  last_post_guid: ee1e12728dd7f26709ff8e171a9cc2c4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 2
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

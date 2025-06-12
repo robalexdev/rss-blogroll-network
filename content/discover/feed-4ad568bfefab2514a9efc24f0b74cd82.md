@@ -1,6 +1,6 @@
 ---
 title: DataWars Posts and Articles about Data Science
-date: "2025-04-23T19:41:32Z"
+date: "2025-05-05T16:51:06Z"
 description: Data Science and Data Analysis helpful articles and blog posts
 params:
   feedlink: https://www.datawars.io/articles/rss.xml

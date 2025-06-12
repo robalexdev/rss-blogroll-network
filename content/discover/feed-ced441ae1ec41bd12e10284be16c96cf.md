@@ -1,6 +1,6 @@
 ---
 title: 闲人LIFE
-date: "2025-04-27T21:53:48+02:00"
+date: "2025-06-01T03:18:16+02:00"
 description: 野生作家孙李的博客
 params:
   feedlink: https://www.xianrenlife.com/feeds/posts/default
@@ -63,27 +63,28 @@ params:
   relme:
     https://www.blogger.com/profile/04970276379026643511: true
     https://www.xianrenlife.com/: true
-  last_post_title: 【小说】决心（五）（全文完）
+  last_post_title: 游记碎碎念
   last_post_description: ""
-  last_post_date: "2025-04-12T10:45:11+02:00"
-  last_post_link: https://www.xianrenlife.com/2025/04/blog-post_12.html
+  last_post_date: "2025-05-31T21:29:58+02:00"
+  last_post_link: https://www.xianrenlife.com/2025/05/blog-post_31.html
   last_post_categories:
-  - 小说
+  - 游记
+  - 随笔
   last_post_language: ""
-  last_post_guid: 038bebec4775f9575a7f78dba83a90be
+  last_post_guid: 9307bb1f90b4b2b332afa7f9f165a236
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

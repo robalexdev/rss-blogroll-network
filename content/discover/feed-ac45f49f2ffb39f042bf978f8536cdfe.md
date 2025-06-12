@@ -1,6 +1,6 @@
 ---
 title: Wen.onweb
-date: "2025-04-22T00:00:00Z"
+date: "2025-05-19T00:00:00Z"
 description: Sofware and Development
 params:
   feedlink: https://melissawen.github.io/feed.xml
@@ -17,16 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '2025 FOSDEM: Don''t let your motivation go, save time with kworkflow'
+  last_post_title: A Look at the Latest Linux KMS Color API Developments on AMD and
+    Intel
   last_post_description: |-
-    2025 was my first year at FOSDEM, and I can say it was an incredible experience
-    where I met many colleagues from Igalia who live around
-    the world, and also many friends from the Linux display stack
-  last_post_date: "2025-04-22T20:30:00+01:00"
-  last_post_link: https://melissawen.github.io/blog/2025/04/22/fosdem-2025-kernel-devroom-kworkflow-talk
+    This week, I reviewed the last available version of the Linux KMS Color
+    API.
+    Specifically, I explored the proposed API by Harry Wentland and Alex Hung
+    (AMD), their implementation for the AMD display
+  last_post_date: "2025-05-19T22:05:00+01:00"
+  last_post_link: https://melissawen.github.io/blog/2025/05/19/drm-info-with-kms-color-api
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f22db841a34be203096bf266ba5e3b5d
+  last_post_guid: 86b90850f64fcaddedef62901ea6df43
   score_criteria:
     cats: 0
     description: 3

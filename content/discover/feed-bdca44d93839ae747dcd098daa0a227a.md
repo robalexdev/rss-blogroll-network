@@ -1,6 +1,6 @@
 ---
 title: Dodji on the wire
-date: "2025-03-09T18:57:54+01:00"
+date: "2025-06-02T18:52:14+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/2589840875273282931/posts/default/-/openmoko

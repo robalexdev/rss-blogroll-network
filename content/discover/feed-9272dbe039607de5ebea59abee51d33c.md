@@ -10,22 +10,22 @@ params:
     https://blog.unpac.me/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Malware Trends: Yearly 2024'
-  last_post_description: Looking back on the past year’s public UnpacMe submissions,
-    we have identified some interesting trends that offer a broader perspective on
-    the 2024 malware landscape. This year's review is
-  last_post_date: "2025-02-20T02:44:43Z"
-  last_post_link: https://blog.unpac.me/2025/02/20/malware-trends-yearly-review-2024-2/
+  last_post_title: AI Script Analysis, Hunting, and Decompilation Updates
+  last_post_description: With our latest updates to UnpacMe, we’ve improved AI-powered
+    script summaries, enhanced decompilation capabilities, and optimized YARA performance.
+    We’ve also upgraded to the latest stable
+  last_post_date: "2025-06-05T18:11:29Z"
+  last_post_link: https://blog.unpac.me/2025/06/05/ai-script-decompilation-updates/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d4ef282835a51040584812543ce5a2bd
+  last_post_guid: 5c9bfcb2d2c6a20eba6816788e78cc10
   score_criteria:
     cats: 0
     description: 3

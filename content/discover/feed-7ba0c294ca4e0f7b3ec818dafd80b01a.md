@@ -31,32 +31,46 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - Mohammed Sefraoui
-  - Mr.sefraouimed01
-  - تحسين محركات البحث
-  - رائد الأعمال محمد صفراوي
-  - عبدالقادر ميزات
-  - محمد صفراوي
-  - يونس توك
+  - DZ Event
+  - Google Gemini
+  - HypeAuditor
+  - إيجاد العملاء
+  - استهداف
+  - التسويق الفعال
+  - تسويق
+  - تسويق الخدمات
+  - توليد العملاء
+  - حقيقة التسويق
+  - عملاء العمل الحر
+  - مراسلات
+  - مقالاتي
+  - موقع عين على الاقتصاد
   relme:
     https://mastodon.social/@youneskkc: true
     https://youdo.blog/: true
-  last_post_title: 'أمسية رمضانية مع رائد الأعمال محمد صفراوي: السيو لا زال مجالًا
-    واعدًا'
-  last_post_description: السلام عليكم، مساء السعادة ورمضانكم كريم، سعدت هذه الأمسية
-    بإجراء لقاء مع رائد الأعمال محمد صفراوي، والذي
-  last_post_date: "2025-03-17T00:34:27Z"
-  last_post_link: https://youdo.blog/2025/03/17/mohammed-sefraoui/
+  last_post_title: 'الحلُّ النهائي لمشكلة: صنعتُ محتوى لكن من جذبت هم من نفس تخصصي.
+    أريد عملاء!'
+  last_post_description: ثَمّة مشكلة شائعة بل وتقليدية (كلاسيكية) لدى العمّال الأحرار
+    عبر الإنترنت (المستقلين)، ومن يصنعون المحتوى
+  last_post_date: "2025-05-26T08:31:32Z"
+  last_post_link: https://youdo.blog/2025/05/26/the-ultimate-solution-to-the-problem-i-created-content-but-the-people-i-attracted-were-from-my-niche-i-want-clients/
   last_post_categories:
-  - Mohammed Sefraoui
-  - Mr.sefraouimed01
-  - تحسين محركات البحث
-  - رائد الأعمال محمد صفراوي
-  - عبدالقادر ميزات
-  - محمد صفراوي
-  - يونس توك
+  - DZ Event
+  - Google Gemini
+  - HypeAuditor
+  - إيجاد العملاء
+  - استهداف
+  - التسويق الفعال
+  - تسويق
+  - تسويق الخدمات
+  - توليد العملاء
+  - حقيقة التسويق
+  - عملاء العمل الحر
+  - مراسلات
+  - مقالاتي
+  - موقع عين على الاقتصاد
   last_post_language: ""
-  last_post_guid: 9c58eb170d121563fcf2921cedbf1def
+  last_post_guid: 47d8833adfb4c36753d672cd88ef9e6f
   score_criteria:
     cats: 0
     description: 3

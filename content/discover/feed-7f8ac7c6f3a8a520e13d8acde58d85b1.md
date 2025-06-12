@@ -9,23 +9,23 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - Press
+  - News
   relme: {}
-  last_post_title: Stairwell recognized in Business Insider as a likely future unicorn
-    by TRAC’s AI model
+  last_post_title: New Stairwell Capabilities Fuse GenAI with Deep Proprietary Data
+    to Detect Zero-Day Malware Threats and Cut Alert Triage from Hours to Seconds
   last_post_description: ""
-  last_post_date: "2025-01-28T15:35:06Z"
-  last_post_link: https://stairwell.com/blog/stairwell-recognized-as-a-likely-future-unicorn-by-tracs-ai-model/
+  last_post_date: "2025-05-20T13:00:03Z"
+  last_post_link: https://stairwell.com/blog/new-stairwell-capabilities-fuse-genai-with-deep-proprietary-data-to-detect-zero-day-malware-threats-and-cut-alert-triage-from-hours-to-seconds/
   last_post_categories:
-  - Press
+  - News
   last_post_language: ""
-  last_post_guid: e53034ce73d01a76fd24c16220b84776
+  last_post_guid: 60d42ca30aadaa9fb185c934d318aee5
   score_criteria:
     cats: 0
     description: 3

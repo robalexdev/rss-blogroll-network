@@ -19,42 +19,46 @@ params:
   - '#napoli'
   - NaLUGAtUniNA
   - News
+  - POSTGRESQL
   - Riunioni
+  - backup
+  - database
+  - dba
+  - disaster recovery
   - freesoftware
-  - hacker
-  - hackerismo
   - libresoftware
   - linux
   - meeting
   - openhardware
   - opensource
   - riunione didattica
-  - sindacalismo
-  - tech workers
+  - rtfm
   relme: {}
-  last_post_title: NaLUG@UniNA – sabato 12 aprile 2025
+  last_post_title: NaLUG@UniNA – sabato 17 maggio 2025
   last_post_description: Ciclo di incontri su software e hardware open source e libertà
     digitali
-  last_post_date: "2025-04-08T08:48:12Z"
-  last_post_link: https://www.nalug.tech/nalugunina-sabato-12-aprile-2025/
+  last_post_date: "2025-05-14T17:05:53Z"
+  last_post_link: https://www.nalug.tech/nalugunina-sabato-17-maggio-2025/
   last_post_categories:
   - '#napoli'
   - NaLUGAtUniNA
   - News
+  - POSTGRESQL
   - Riunioni
+  - backup
+  - database
+  - dba
+  - disaster recovery
   - freesoftware
-  - hacker
-  - hackerismo
   - libresoftware
   - linux
   - meeting
   - openhardware
   - opensource
   - riunione didattica
-  - sindacalismo
-  - tech workers
+  - rtfm
   last_post_language: ""
-  last_post_guid: 37304b31f82d14499aa0642c5e14fa65
+  last_post_guid: 11150431c28c711075be9d4e88d274c3
   score_criteria:
     cats: 0
     description: 3

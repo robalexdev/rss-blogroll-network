@@ -1,6 +1,6 @@
 ---
 title: Real Self-Energy
-date: "2025-01-13T10:06:37+01:00"
+date: "2025-05-11T19:55:35+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/6243811779557775819/posts/default
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Making back bacon
+  last_post_title: Choose France for Science
   last_post_description: ""
-  last_post_date: "2025-01-05T12:57:10+01:00"
-  last_post_link: https://realselfenergy.blogspot.com/2025/01/making-back-bacon.html
+  last_post_date: "2025-05-11T19:55:35+02:00"
+  last_post_link: https://realselfenergy.blogspot.com/2025/05/choose-france-for-science.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 472d8790fcb23b74aca52760bccd8c94
+  last_post_guid: 3d26ad633524398f0355c7d200268c87
   score_criteria:
     cats: 0
     description: 0

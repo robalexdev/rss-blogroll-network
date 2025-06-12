@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2025-04-17T20:54:00Z"
+date: "2025-06-09T16:10:00Z"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -31,15 +31,20 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Reorganizing My Nix Dotfiles
-  last_post_description: "I rewrote my dotfiles config again! \U0001F937\n\nI had
-    been feeling some friction: my folder/file organization smelled bad. There was
-    a bunch of ../.././config… style paths that felt gross. I had files in"
-  last_post_date: "2025-04-17T17:39:46Z"
-  last_post_link: https://evantravers.com/articles/2025/04/17/reorganizing-my-nix-dotfiles/
+  last_post_title: Hearing is Becoming
+  last_post_description: |-
+    Whose voice speaks to you the most?
+
+    It should be the people closest to us, the ones we say we love the most.
+
+    But it's not.
+
+    Historically the voices that built our worldview, exposing us to new
+  last_post_date: "2025-06-09T13:54:51Z"
+  last_post_link: https://evantravers.com/articles/2025/06/09/hearing-is-becoming/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd34df30191276dc4edea82ee20ace8f
+  last_post_guid: 6bf04b4647a83c0bdad5b6c17f46e9dd
   score_criteria:
     cats: 0
     description: 3

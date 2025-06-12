@@ -1,6 +1,6 @@
 ---
 title: Antonio Pitasi
-date: "2025-03-21T00:00:00Z"
+date: "2025-05-07T00:00:00Z"
 description: ""
 params:
   feedlink: https://anto.pt/articles/feed.atom
@@ -16,14 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Does ACPI dream of electric sheep, during S5?
-  last_post_description: What does State After G3 mean? Do I need to set it to S5
-    or S0 State? This article is a brief overview of ACPI global and sleep states.
-  last_post_date: "2025-03-21T00:00:00Z"
-  last_post_link: https://anto.pt/articles/acpi
+  last_post_title: 'Build your own ResponseWriter: safer HTTP in Go'
+  last_post_description: Go's `http.ResponseWriter` writes directly to the socket,
+    which can lead to subtle bugs like forgetting to set a status code or accidentally
+    modifying headers too late. In this article I explain how
+  last_post_date: "2025-05-07T00:00:00Z"
+  last_post_link: https://anto.pt/articles/go-http-responsewriter
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8812894c3c47539be25a6b91aabcc594
+  last_post_guid: ab0209eb809a36c6a3c654f6e777aa33
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Making Hay
-date: "2025-04-16T02:04:11Z"
+date: "2025-06-11T22:13:28Z"
 description: ""
 params:
   feedlink: https://franksting.writeas.com/feed/
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://franksting.writeas.com/: true
-  last_post_title: Learn like a Human, not like a GPT
+  last_post_title: Returning to WordPress
   last_post_description: ""
-  last_post_date: "2025-03-18T02:36:20Z"
-  last_post_link: https://franksting.writeas.com/learn-like-a-human-not-like-a-gpt?pk_campaign=rss-feed
+  last_post_date: "2025-06-04T00:23:49Z"
+  last_post_link: https://franksting.writeas.com/returning-to-wordpress?pk_campaign=rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2cc6012506b8aa755ccdbeef1b485c6a
+  last_post_guid: 68b5e5aa19af87d7752adee2f1e68e68
   score_criteria:
     cats: 0
     description: 0

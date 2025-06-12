@@ -19,33 +19,57 @@ params:
   - title: A list of sites Ethan likes
     description: ""
     id: 796603efcff00ba474bbbd88e566b727
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
+  - title: QuiteRSS
+    description: ""
+    id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories:
-  - colours
-  - css
-  - development
-  - frontend
-  - functions
-  - oklch
+  - ai
+  - code
+  - coding
+  - compositional
+  - ethics
+  - generative
+  - language
+  - machinelearning
+  - models
+  - prototypes
+  - prototyping
+  - tools
+  - transformative
+  - work
   relme: {}
-  last_post_title: OKLCH()
+  last_post_title: Uses
   last_post_description: |-
-    I was at the State Of The Browser event recently, which was great as always.
+    I don’t use large language models. My objection to using them is ethical. I know how the sausage is made.
 
-    Manu gave a great talk about colour in CSS. A lot of it focused on OKLCH. I was already convinced of the benefits of this
-  last_post_date: "2025-04-16T15:16:41Z"
-  last_post_link: https://adactio.com/journal/21853
+    I wanted to clarify that. I’m not rejecting large language models because they’re
+  last_post_date: "2025-05-27T16:00:29Z"
+  last_post_link: https://adactio.com/journal/21933
   last_post_categories:
-  - colours
-  - css
-  - development
-  - frontend
-  - functions
-  - oklch
+  - ai
+  - code
+  - coding
+  - compositional
+  - ethics
+  - generative
+  - language
+  - machinelearning
+  - models
+  - prototypes
+  - prototyping
+  - tools
+  - transformative
+  - work
   last_post_language: ""
-  last_post_guid: 92399a3a1aa0870375c070d196ee5207
+  last_post_guid: 8cf4e827f0233e7e0fd74c25218abecd
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2025-02-21T10:24:00Z"
+date: "2025-05-25T23:00:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -16,16 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /politics
+  - /history
   relme: {}
-  last_post_title: Leopards, faces, etc.
+  last_post_title: Mystery of the quincunx's missing quincunx
   last_post_description: ""
-  last_post_date: "2025-02-21T10:24:00Z"
-  last_post_link: https://blog.plover.com/politics/mangione.html
+  last_post_date: "2025-05-25T23:00:00Z"
+  last_post_link: https://blog.plover.com/history/quincunx.html
   last_post_categories:
-  - /politics
+  - /history
   last_post_language: ""
-  last_post_guid: 72f900fbbcfcec07c58abe99ee478e38
+  last_post_guid: 83fa486d06fd918494c2205c9b2147b4
   score_criteria:
     cats: 0
     description: 3

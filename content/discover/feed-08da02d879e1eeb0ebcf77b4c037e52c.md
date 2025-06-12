@@ -13,7 +13,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -21,13 +21,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Images, profiles, and preferences
-  last_post_description: Adding more customization to your social web experience.
-  last_post_date: "2025-04-28T09:46:55Z"
-  last_post_link: https://activitypub.ghost.org/images-profiles-and-preferences/
+  last_post_title: Ramping up for expansion
+  last_post_description: Ghost 6.0 is coming soon
+  last_post_date: "2025-06-06T11:32:06Z"
+  last_post_link: https://activitypub.ghost.org/ramping-up-for-expansion/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ffa243f758e50238fde8ce822a81623d
+  last_post_guid: 580755a6f8cd62690ac9febfcf17dd0d
   score_criteria:
     cats: 0
     description: 3

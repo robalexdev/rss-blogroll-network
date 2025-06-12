@@ -10,31 +10,51 @@ params:
     https://asec.ahnlab.com/ko/: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
   categories:
-  - APT
-  - APT202503
-  - APTGroups
-  - APTTrend
+  - Dropper
+  - InfoStealer
   - Private
+  - Ransomware
+  - Telegram
+  - financial
+  - phishing
+  - 금융
+  - 금융권
+  - 다크웹
+  - 러시아
+  - 신용카드
+  - 악성코드
+  - 트렌드
+  - 피싱/스캠
   relme: {}
-  last_post_title: 2025년 3월 APT 그룹 동향 보고서
-  last_post_description: 국가별 주요 APT 그룹 동향   1)   북한   북한의 APT 그룹들이 가장 활발하게 활동했다. 이메일을
-    이용한 접근 방식 외에 타깃이 활동하는 커뮤니티
-  last_post_date: "2025-04-15T15:00:00Z"
-  last_post_link: https://asec.ahnlab.com/ko/87480/
+  last_post_title: 2025년 5월 국내외 금융권 관련 보안 이슈
+  last_post_description: 본 보고서는 국내외 금융권 기업들을 대상으로 발생한 실제 사이버 위협과 관련 보안 이슈를 종합적으로 다루고
+    있다. 금융권을 대상으로 유포된
+  last_post_date: "2025-06-11T04:56:35Z"
+  last_post_link: https://asec.ahnlab.com/ko/88411/
   last_post_categories:
-  - APT
-  - APT202503
-  - APTGroups
-  - APTTrend
+  - Dropper
+  - InfoStealer
   - Private
+  - Ransomware
+  - Telegram
+  - financial
+  - phishing
+  - 금융
+  - 금융권
+  - 다크웹
+  - 러시아
+  - 신용카드
+  - 악성코드
+  - 트렌드
+  - 피싱/스캠
   last_post_language: ""
-  last_post_guid: 931ba9e07245c0b8d0a8113021e958c3
+  last_post_guid: c357bf5daa0395c08bd878184edd86e4
   score_criteria:
     cats: 0
     description: 3

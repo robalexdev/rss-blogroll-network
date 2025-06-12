@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2025-04-24T03:35:10Z"
+date: "2025-06-11T16:51:13Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -15,25 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bp
-  - cbp
-  - cpu
-  - ooo
-  - software
+  - arm64
+  - hardware
+  - harmonyos
+  - huawei
+  - linux
+  - matebook
+  - matebookpro
   relme: {}
-  last_post_title: 如何进行条件分支预测器实验
-  last_post_description: 如何进行条件分支预测器实验¶背景¶最近针对各种条件分支预测器（Conditional Branch Predictor）做了在各种
-    benchmark
-  last_post_date: "2025-04-10T00:00:00Z"
-  last_post_link: https://jia.je/software/2025/04/10/cbp-experiments/
+  last_post_title: 在鸿蒙电脑上的虚拟机内启动 Linux
+  last_post_description: 目前鸿蒙的应用市场上有两家虚拟机，我用 Oseasy 虚拟机，但是理论上铠大师也是可以的。（P.S. @driver1998
+  last_post_date: "2025-06-10T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/
   last_post_categories:
-  - bp
-  - cbp
-  - cpu
-  - ooo
-  - software
+  - arm64
+  - hardware
+  - harmonyos
+  - huawei
+  - linux
+  - matebook
+  - matebookpro
   last_post_language: ""
-  last_post_guid: 0b06d72e4aa44c454dcdb4c04d45bbd9
+  last_post_guid: 77fb098f7e9f4c932e5231026271d0b5
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-04-28T22:55:45+01:00"
+date: "2025-06-12T07:34:33+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,16 +17,18 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Five years of employee ownership
+  last_post_title: The landing zone
   last_post_description: |-
-    A quiet but meaningful change we made five years ago continues to shape who we are today.
+    Also sprach Wittgenstein:
+            Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
 
-          Five years ago, Clearleft became an employee-owned company. It was a quiet, intentional step towards
-  last_post_date: "2025-04-16T00:00:00+01:00"
-  last_post_link: https://clearleft.com/thinking/five-years-of-employee-ownership
+            Or in English, thus spoke Wittgenstein:
+            The limits of my language mean the limits of my
+  last_post_date: "2025-05-22T12:00:00+01:00"
+  last_post_link: https://clearleft.com/thinking/the-landing-zone
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66d4028243616bca47bd4114d3d6432b
+  last_post_guid: 536e38a6a6c5f1f8df8444c641bd1cdf
   score_criteria:
     cats: 0
     description: 3

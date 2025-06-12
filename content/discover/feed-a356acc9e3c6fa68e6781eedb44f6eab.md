@@ -21,6 +21,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: OPML for all feeds in Cory Dransfeldt's blogroll
+    description: ""
+    id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
   - https://danq.blog/comments/feed/

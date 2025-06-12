@@ -30,38 +30,39 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - Chelsea Wolfe
-  - Musique
-  - Tori Amos
-  - black metal
-  - death metal
-  - doom metal
-  - metal
-  - metal progressif
-  - rock
-  - shoegaze
+  - Bretagne
+  - Bretagne insolite
+  - Morbihan
+  - Musée de la carte postale
+  - Naïa Museum
+  - Voyages
+  - Vénus de Quinipily
+  - art fantastique
+  - librairies
+  - vide-greniers
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
-  last_post_title: 'Albums sombres et café noir : la playlist du lundi (vol. 1)'
-  last_post_description: Crypta, Ethel Cain, The Warning, Lowen, Shedfromthebody…
-    Gros plan sur cinq albums créés par des femmes, dont la musique résonne avec des
-    émotions que je trouve difficiles à exprimer.
-  last_post_date: "2025-02-10T05:00:25Z"
-  last_post_link: https://lalunemauve.fr/albums-sombres-playlist-1/
+  last_post_title: 'Morbihan : idées de visites insolites et bonnes adresses en Bretagne
+    sud'
+  last_post_description: Statues mystérieuses, fontaines centenaires, art macabre
+    et fantastique… Qu’il est bon de se promener dans le Morbihan pour faire le plein
+    d’inspiration dans des lieux énigmatiques ! Voici
+  last_post_date: "2025-05-10T16:44:21Z"
+  last_post_link: https://lalunemauve.fr/morbihan-visites-insolites-bonnes-adresses/
   last_post_categories:
-  - Chelsea Wolfe
-  - Musique
-  - Tori Amos
-  - black metal
-  - death metal
-  - doom metal
-  - metal
-  - metal progressif
-  - rock
-  - shoegaze
+  - Bretagne
+  - Bretagne insolite
+  - Morbihan
+  - Musée de la carte postale
+  - Naïa Museum
+  - Voyages
+  - Vénus de Quinipily
+  - art fantastique
+  - librairies
+  - vide-greniers
   last_post_language: ""
-  last_post_guid: 763df57af573b226c13bf79d0eda20bc
+  last_post_guid: 5ed11847f77fc274073629e01727a3e4
   score_criteria:
     cats: 0
     description: 3

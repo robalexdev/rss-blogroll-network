@@ -1,6 +1,6 @@
 ---
 title: 搞笑談軟工
-date: "2025-03-25T06:38:13+08:00"
+date: "2025-06-08T20:55:00+08:00"
 description: 敏捷開發，設計模式，精實開發，Scrum，軟體設計，軟體架構
 params:
   feedlink: https://teddy-chen-tw.blogspot.com/feeds/posts/default
@@ -55,14 +55,14 @@ params:
   relme:
     https://teddy-chen-tw.blogspot.com/: true
     https://www.blogger.com/profile/02066842119056439711: true
-  last_post_title: 重構既有系統，邁向整潔架構 （1）：為什麼透過重構改善軟體架構很困難
+  last_post_title: 學習總在課堂後
   last_post_description: ""
-  last_post_date: "2024-09-19T08:06:06+08:00"
-  last_post_link: https://teddy-chen-tw.blogspot.com/2024/09/1.html
+  last_post_date: "2025-06-08T20:55:00+08:00"
+  last_post_link: https://teddy-chen-tw.blogspot.com/2025/06/blog-post.html
   last_post_categories:
-  - Refactoring
+  - 學習
   last_post_language: ""
-  last_post_guid: 2705f498a76545b84cba7b569d454e58
+  last_post_guid: fe15eef0596203d3d054b0345ec8bfc2
   score_criteria:
     cats: 5
     description: 3

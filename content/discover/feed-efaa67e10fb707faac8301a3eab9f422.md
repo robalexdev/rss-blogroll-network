@@ -17,17 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 价格行为学 - 如何通过系统化练习掌握价格行为交易？
+  last_post_title: 使用 Topstep
   last_post_description: |-
     引言
-    本篇文章内容出自于价格行为学的 Rose 频道，由我翻译整理。原文链接
-    问题背景
-    在 Rose 的 Discord
-  last_post_date: "2025-04-13T11:10:58+08:00"
-  last_post_link: https://blog.forecho.com/systematic-price-action-trading-guide.html
+    最近在练习价格行为学（简称
+  last_post_date: "2025-06-11T18:00:00+08:00"
+  last_post_link: https://blog.forecho.com/use-topstep.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd5c2441b8459e24220d307cdae496cb
+  last_post_guid: 655e1cc2aa013efbf153d59c965ee926
   score_criteria:
     cats: 0
     description: 3

@@ -18,15 +18,16 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: April Fools' 2025
+  last_post_title: Steam Auth Issues
   last_post_description: |-
-    Going on n+1 years, I proclaim grumpygamer.com to be 100% April Fools’ Day joke free.
-    I realized that I lost a large chunk of the early April Fools’ posts due to moving content from one back-end
-  last_post_date: "2025-04-01T00:00:00Z"
-  last_post_link: https://grumpygamer.com/april_fools_2025/
+    When I build my game for testing, it’s a completely automated process from the command line.
+    I type pub.sh --test on the command line and a long chain of events is started.
+    The script pushes to git
+  last_post_date: "2025-04-14T17:26:07+12:00"
+  last_post_link: https://grumpygamer.com/steam_auth/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 548b4ce649e64d65cc97e74852ae6610
+  last_post_guid: 30f74007a2930d61553232aeb4d13aa0
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 296
+  postcount: 298
   avgpostlen: 0
 ---

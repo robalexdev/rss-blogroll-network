@@ -12,28 +12,27 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Higher Ed
-  - Trump Administration
+  - Eric Adams
+  - The Bronx
   relme: {}
-  last_post_title: The Protests Shook Columbia To Its Core. Now Trump Is Trying to
-    Upend the University Altogether.
-  last_post_description: On a recent spring afternoon, a handful of former and current
-    Columbia students chained themselves to the locked campus gates while demanding
-    that the university cut ties with Israel and companies
-  last_post_date: "2025-04-28T09:10:00Z"
-  last_post_link: https://www.thecity.nyc/2025/04/28/columbia-university-trump-palestine-protests-israel-pressure/
+  last_post_title: Mayor Helps Bally’s Clear Key Council Vote for Casino Bid
+  last_post_description: A last-minute intervention by Mayor Eric Adams helped keep
+    alive Bally’s proposal for a casino in The Bronx despite the objections of local
+    Councilmember Kristy Marmorato. The City Council voted 32
+  last_post_date: "2025-06-11T23:02:46Z"
+  last_post_link: https://www.thecity.nyc/2025/06/11/ballys-casino-kristy-armorato-donald-trump-eric-adams/
   last_post_categories:
-  - Higher Ed
-  - Trump Administration
+  - Eric Adams
+  - The Bronx
   last_post_language: ""
-  last_post_guid: 3d2552a9506445f39afdaf710a976b26
+  last_post_guid: b92802ad8613fe5e4e5a4492d4321215
   score_criteria:
     cats: 0
     description: 3

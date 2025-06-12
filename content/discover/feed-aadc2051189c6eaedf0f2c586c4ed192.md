@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-04-10T13:09:34Z"
+date: "2025-06-09T22:57:23Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -17,17 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Some Stoic Reminders For Myself
+  last_post_title: 25 in ’25 - May
   last_post_description: |-
-    Nothing extraordinary; Nothing wrong with refreshers on the foundations.
+    Better late than never!
 
-    • We are all destined to be old, out of style, and forgotten by society
-    • To have one’s voice heard...
-  last_post_date: "2025-04-10T13:09:34Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/some-stoic-reminders-for-myself
+    Here is this monthâ€™s reflection on my solution to the ambiguity and vagueness of new year resolutions - 25 Actionable Items to do in 2025. Iâ€™ve...
+  last_post_date: "2025-06-09T22:57:23Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-may
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 507d88761011564f1135099db6cc6b58
+  last_post_guid: 3476d9ae52191f71c5c670973d6c2997
   score_criteria:
     cats: 0
     description: 0

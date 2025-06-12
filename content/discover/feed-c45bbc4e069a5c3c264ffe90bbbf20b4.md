@@ -21,14 +21,14 @@ params:
   - python
   - release
   relme: {}
-  last_post_title: Nikola v8.3.1 is out!
+  last_post_title: Nikola v8.3.3 is out!
   last_post_description: |-
-    On behalf of the Nikola team, I am pleased to announce the immediate
-    availability of Nikola v8.3.1. This release fixes some small bugs,
-    including some introduced by the new Nikola Plugin Manager.
-    The
-  last_post_date: "2024-04-29T12:11:36Z"
-  last_post_link: https://getnikola.com/blog/nikola-v831-is-out.html
+    On behalf of the Nikola team, I am pleased to announce
+    the immediate availability of Nikola v8.3.3. This is a bugfix release.
+    We’ve had to release Nikola v8.3.3 immediately after releasing
+    Nikola
+  last_post_date: "2025-05-17T17:16:57Z"
+  last_post_link: https://getnikola.com/blog/nikola-v833-is-out.html
   last_post_categories:
   - nikola
   - planet
@@ -36,7 +36,7 @@ params:
   - python
   - release
   last_post_language: ""
-  last_post_guid: 8a882833bdc8ec7ac18e56f1536c9771
+  last_post_guid: 23ebd6abdeced29df18b8ad3f80de9e7
   score_criteria:
     cats: 0
     description: 3

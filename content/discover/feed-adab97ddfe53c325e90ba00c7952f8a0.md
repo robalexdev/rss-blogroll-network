@@ -34,15 +34,15 @@ params:
   categories:
   - Fiction
   relme: {}
-  last_post_title: THE GODS ARE BACK | DOCTOR WHO TV REVIEW
-  last_post_description: 'IT''S BAD WOLF TUESDAY!In this episode, we discuss the second
-    episode of the second season of Doctor Who: LUX..This podcast is available on
-    Spotify, Apple Podcast and wherever you get your podcasts'
-  last_post_date: "2025-04-22T10:00:00Z"
-  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/THE-GODS-ARE-BACK--DOCTOR-WHO-TV-REVIEW-e31qspp
+  last_post_title: THAT WAS A LOT... - SEASON 2 FINALE | DOCTOR WHO TV REVIEW
+  last_post_description: 'IT''S BAD WOLF TUESDAY!In this episode, we discuss the final
+    episode of the second season of Doctor Who: THE REALITY WAR..This podcast is available
+    on Spotify, Apple Podcast and wherever you get your'
+  last_post_date: "2025-06-03T17:26:36Z"
+  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/THAT-WAS-A-LOT------SEASON-2-FINALE--DOCTOR-WHO-TV-REVIEW-e33of42
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 68acc88006a25ab0fb98716c7ad4d4d5
+  last_post_guid: b63fc66ee11c7ebfdd18a868f315dd59
   score_criteria:
     cats: 1
     description: 3

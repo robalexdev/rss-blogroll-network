@@ -1,6 +1,6 @@
 ---
 title: Blog
-date: "2025-04-11T15:49:55Z"
+date: "2025-05-28T17:43:00Z"
 description: Get the latest research, expert insights, and security industry news.
 params:
   feedlink: https://www.cybereason.com/blog/rss.xml
@@ -10,7 +10,7 @@ params:
     https://www.cybereason.com/blog: true
   blogrolls: []
   in_blogrolls:
-  - title: CTI-DFIR-Feeds.opml
+  - title: Subscriptions-iCloud.opml
     description: ""
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
@@ -20,19 +20,19 @@ params:
   - Research
   - Threat Alerts
   relme: {}
-  last_post_title: 'From Shadow to Spotlight: The Evolution of LummaStealer and Its
-    Hidden Secrets'
-  last_post_description: 'This article is a continuation of the previous research
-    published on the malware LummaStealer: "Your Data Is Under New Lummanagement:
-    The Rise of LummaStealer".'
-  last_post_date: "2025-04-11T15:49:55Z"
-  last_post_link: https://www.cybereason.com/blog/threat-analysis-lummastealer-2.0
+  last_post_title: Copyright Phishing Lures Leading to Rhadamanthys Stealer Now Targeting
+    Europe
+  last_post_description: Cybereason issues Threat Alerts to inform customers of emerging
+    impacting threats, critical vulnerabilities and attacker campaigns. Cybereason
+    Threat Alerts summarize these threats and provide
+  last_post_date: "2025-05-21T19:26:05Z"
+  last_post_link: https://www.cybereason.com/blog/rhadamanthys-stealer-europe
   last_post_categories:
   - Ransomware
   - Research
   - Threat Alerts
   last_post_language: ""
-  last_post_guid: 3b36837af50091ae0a9c0ddb7dbe0c44
+  last_post_guid: 0168a1b3d2200c33918b3d9e9563ac5e
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Software Engineering Identity Crisis
-  last_post_description: Many of us became software engineers because we found our
-    identity in building things. Not managing things. Not overseeing things. Building
-    things. With our own hands, our own minds, our own code
-  last_post_date: "2025-03-21T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/the-software-engineering-identity-crisis/
+  last_post_title: The Next Evolutionary Step
+  last_post_description: The recent releases of Claude Code and OpenAI Codex caught
+    my attention, but not for the reasons you might expect. I was puzzled by the enthusiasm
+    they’ve generated. These are, after all, terminal
+  last_post_date: "2025-05-09T00:00:00+12:00"
+  last_post_link: http://annievella.com/posts/the-next-evolutionary-step/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c4be3121fd847372ff569f9ed4d4610
+  last_post_guid: 37949b911b9d3f92709f938aa726d03c
   score_criteria:
     cats: 0
     description: 3

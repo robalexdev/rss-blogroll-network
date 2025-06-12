@@ -1,6 +1,6 @@
 ---
 title: The Shrediverse
-date: "2025-02-28T14:03:49Z"
+date: "2025-05-28T15:53:03Z"
 description: ""
 params:
   feedlink: https://blog.shrediverse.net/posts_feed
@@ -23,15 +23,15 @@ params:
     https://dmv.community/@jcrabapple: true
     https://links.dmv.pub/@jcrabapple: true
     https://proven.lol/523f62: true
-  last_post_title: 'New Release: Architects - The Sky, The Earth, and All Between'
-  last_post_description: Today, Architects have finally released their much anticipated
-    new album “The Sky, The Earth, and All Between”. This is the first album from
-    the band since 2022’s “the classic symptoms of a
-  last_post_date: "2025-02-28T14:03:49Z"
-  last_post_link: https://blog.shrediverse.net/posts/new-release-architects-the-sky-the-earth-and-all-between
+  last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
+    Work Yet'
+  last_post_description: Sleep Token's fourth album "Even In Arcadia" marks their
+    RCA Records debut with 10 tracks blending R&B, hip hop, alt-pop, and metal.
+  last_post_date: "2025-05-28T15:53:03Z"
+  last_post_link: https://blog.shrediverse.net/posts/sleep-tokens-even-in-arcadia-a-deep-dive-into-their-most-ambitious-work-yet
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a17e560b49b2d096c4d8a8219a08a7f
+  last_post_guid: 17523b8441c42fc712011bc372a1e2ff
   score_criteria:
     cats: 0
     description: 0

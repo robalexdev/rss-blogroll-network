@@ -16,25 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI Agent
-  - Cline
-  - Cursor
-  - Ops
+  - Database
+  - Operation
   - 博文
   relme: {}
-  last_post_title: Opscli 支持 MCP 提供 Cline\Cursor 集成
-  last_post_description: 1. Cline 使用 Ops 查询有哪些集群 获取节点的详情 Case 非常简单但数据真实，说明 Cline 已经能够对接
-    Ops 进行运维操作。至于更复杂的一些 Case
-  last_post_date: "2025-04-04T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/opscli-support-mcp-provide-cline-cursor-integration.html
+  last_post_title: FoundationDB 数据备份与恢复
+  last_post_description: 1. 设置环境变量 设置 foundationdb 集群名称和版本 1 2 3 4 5 export CLUSTER_NAME=
+    export NAMESPACE= export DEPLOY_NAME=${CLUSTER_NAME}-deployment export SECRET_NAME=fdb-backup-secret
+  last_post_date: "2025-06-10T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/foundationdb-data-backup-and-restore.html
   last_post_categories:
-  - AI Agent
-  - Cline
-  - Cursor
-  - Ops
+  - Database
+  - Operation
   - 博文
   last_post_language: ""
-  last_post_guid: d345d04051fd946901abf6282404d817
+  last_post_guid: 3969d717b915aa0a0040f74bc25fe848
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: GamerNoTitle
-date: "2025-04-26T07:13:17Z"
+date: "2025-06-11T15:19:38Z"
 description: TECH OTAKUS SAVE THE WORLD
 params:
   feedlink: https://bili33.top/atom.xml
@@ -17,19 +17,25 @@ params:
   recommender: []
   categories:
   - CTF
-  - Writeup
-  - 蓝桥杯
+  - ETH
+  - MetaMask
+  - Web3
+  - ethereum
+  - sepolia
   relme: {}
-  last_post_title: 第十六届蓝桥杯省赛个人 Writeup
+  last_post_title: 【更新中】Web3 CTF 从入门到入土
   last_post_description: ""
-  last_post_date: "2025-04-26T07:13:17Z"
-  last_post_link: https://bili33.top/posts/Lanqiao-CTF-2025-District-Round-Writeup/
+  last_post_date: "2025-06-11T15:19:38Z"
+  last_post_link: https://bili33.top/posts/CTF-Web3-Guide/
   last_post_categories:
   - CTF
-  - Writeup
-  - 蓝桥杯
+  - ETH
+  - MetaMask
+  - Web3
+  - ethereum
+  - sepolia
   last_post_language: ""
-  last_post_guid: 11e9e1bface4af0bf403bf3d50a61ff0
+  last_post_guid: 18eb8a3c735c7bb7bf6db30e1015207b
   score_criteria:
     cats: 0
     description: 3
