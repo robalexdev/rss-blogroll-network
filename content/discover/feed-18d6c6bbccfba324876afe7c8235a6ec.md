@@ -32,15 +32,15 @@ params:
   - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: Ash (⭐⭐⭐)
-  last_post_description: More visually appealing than narratively coherent Ash is
-    a fairly compelling and ambitious debut for Flying Lotus (whose work I’m entirely
-    unfamiliar with so everything here is absent that context)
-  last_post_date: "2025-04-27T03:30:00Z"
-  last_post_link: https://www.coryd.dev/watching/movies/931349
+  last_post_title: It matters. I care. via Molly White
+  last_post_description: “Who cares? It doesn’t matter anyway.” I've come to expect
+    these words in my social media replies to my own work, and elsewhere in response
+    to other journalists doing critical reporting on the
+  last_post_date: "2025-06-11T20:21:47Z"
+  last_post_link: https://www.citationneeded.news/it-matters-i-care/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0919c35c5ec8a5970f7ecf3b067d9bc
+  last_post_guid: 912ddfa6026400366d0ff9011b29f598
   score_criteria:
     cats: 0
     description: 3

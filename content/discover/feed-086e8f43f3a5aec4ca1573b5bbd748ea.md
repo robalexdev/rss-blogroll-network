@@ -1,6 +1,6 @@
 ---
 title: '{maique}'
-date: "2025-04-28T21:24:20Z"
+date: "2025-06-11T23:29:23Z"
 description: ""
 params:
   feedlink: https://maique.eu/feed.xml
@@ -33,15 +33,14 @@ params:
   - https://miraz.me/podcast.xml
   categories: []
   relme: {}
-  last_post_title: "\U0001F4A1 As soon as the power went out, we had a mission:..."
-  last_post_description: "\U0001F4A1 As soon as the power went out, we had a mission:
-    get toilet paper! We had talked about it hours earlier, by chance.\n\nWe found
-    it.\n\nThen I had..."
-  last_post_date: "2025-04-28T21:24:21Z"
-  last_post_link: https://maique.eu/posts/2025-04-28-as-soon-as
+  last_post_title: "\U0001F60E The city, although challenging, has been kind to us..."
+  last_post_description: ðŸ˜Ž The city, although challenging, has been kind to us.
+    Perks of having family living here. And they have the most wonderful friends tooâ€¦
+  last_post_date: "2025-06-11T23:29:23Z"
+  last_post_link: https://maique.eu/posts/2025-06-12-the-city-although
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4de136ce2ddbaba355756c361d3ac8de
+  last_post_guid: d38b7c8fc514dfa909c46f32cedc611f
   score_criteria:
     cats: 0
     description: 0

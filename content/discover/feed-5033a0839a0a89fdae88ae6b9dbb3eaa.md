@@ -28,7 +28,10 @@ params:
   - https://taonaw.com/podcast.xml
   categories: []
   relme:
+    https://annie.omg.lol/: true
     https://anniemueller.com/: true
+    https://github.com/anniemueller: true
+    https://social.lol/@annie: true
   last_post_title: A neutral stance is for weightlifting, not for human rights
   last_post_description: ““The opposite of love is not hate, it’s indifference. The
     opposite of art is not ugliness, it’s indifference. The opposite of faith is not

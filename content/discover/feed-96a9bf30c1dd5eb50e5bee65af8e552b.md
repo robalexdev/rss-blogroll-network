@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: With Google's Defeat, the Time for Apple's Search Engine Has Arrived
-  last_post_description: Unless you’ve been living under a rock, you know that Google
-    was formally ruled an advertising monopoly this week. It could potentially be
-    a catastrophic blow to the company that completely upends
-  last_post_date: "2025-04-18T17:01:00-04:00"
-  last_post_link: https://parkerortolani.blog/2025/04/18/with-googles-defeat-the-time.html
+  last_post_title: Apple’s Silence at "The Talk Show" Will Speak Volumes
+  last_post_description: 'If you follow Apple at all, you’ve likely heard the news:
+    Apple’s skipping John Gruber’s The Talk Show Live at WWDC this year. For a decade,
+    it’s been tradition for Apple executives to join'
+  last_post_date: "2025-05-30T12:01:00-04:00"
+  last_post_link: https://parkerortolani.blog/2025/05/30/apples-silence-at-the-talk.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63d84d15791c90189e8b766b01d34780
+  last_post_guid: 81f7b5923d6dae72b86ed648a853caae
   score_criteria:
     cats: 0
     description: 0

@@ -26,6 +26,7 @@ params:
   - science
   - tutorials
   relme:
+    https://draft.blogger.com/profile/15418113987963668896: true
     https://python-academy.blogspot.com/: true
     https://pythonification.blogspot.com/: true
     https://www.blogger.com/profile/15418113987963668896: true

@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://agostinelli.eu/: true
     https://blog.agostinelli.eu/: true
     https://l.devol.it/@magostinelli: true
     https://mastodon.uno/@magostinelli: true

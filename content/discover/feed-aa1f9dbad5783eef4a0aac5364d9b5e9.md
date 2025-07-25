@@ -170,6 +170,8 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
+  - https://blog.pcora.eu/feed/
+  - https://blog.pcora.eu/feed/?type=rss
   - https://www.buttersafe.com/feed/
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
@@ -265,15 +267,14 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] <blink> and <marquee> by Martin B
-  last_post_description: Good post - I have to say though that marquee (unlike blink)
-    has its moments. I've used it on small apps as a kind of simple carousel to good
-    effect. Notably, for younger devs it seems like a kind of
-  last_post_date: "2025-06-10T20:48:11+01:00"
-  last_post_link: https://danq.me/2020/11/11/blink-and-marquee/#comment-278659
+  last_post_title: Comment on [Article] Please Fix This Site? Okay! by Avi Bagla
+  last_post_description: Honestly, thank you for fixing the site for people who have
+    it! Was pretty funny to get this google alert.
+  last_post_date: "2025-07-22T16:23:54+01:00"
+  last_post_link: https://danq.me/2025/07/18/please-fix-this-site/#comment-283995
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ab635f0a7cabad06094a69a91813f0d8
+  last_post_guid: ce670727bb6931ddbffbc3921eaef788
   score_criteria:
     cats: 0
     description: 3

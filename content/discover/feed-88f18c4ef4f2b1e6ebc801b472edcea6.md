@@ -1,6 +1,6 @@
 ---
 title: Robb Knight • Posts • Atom Feed
-date: "2025-04-15T13:32:11Z"
+date: "2025-06-09T21:43:59Z"
 description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and human
   dad.
 params:
@@ -34,13 +34,13 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: I Bought the Tomb Raider Pen
-  last_post_description: I have no self control
-  last_post_date: "2025-04-15T13:32:11Z"
-  last_post_link: https://rknight.me/blog/i-bought-the-tomb-raider-pen/
+  last_post_title: omg.lol Interview Series
+  last_post_description: Brandan interviewed me for his omg.lol series
+  last_post_date: "2025-06-09T21:43:59Z"
+  last_post_link: https://rknight.me/blog/omglol-interview-series/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4462d53adc7736ed323c0b6aba1d948f
+  last_post_guid: 7bc12fb521aeeab8c3fd16e2129ebc63
   score_criteria:
     cats: 0
     description: 3

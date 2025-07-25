@@ -16,19 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: GHC 9.12.2 is now available
+  last_post_title: GHC 9.10.2 is now available
   last_post_description: |-
-    Ben Gamari - 2025-03-14
+    Zubin Duggal - 2025-05-03
 
-    The GHC developers are happy to announce the release of GHC 9.12.2.
-    Binary distributions, source distributions, and documentation are available at
-    downloads.haskell.org.
-    We
-  last_post_date: "2025-03-14T00:00:00Z"
-  last_post_link: http://haskell.org/ghc/blog/20250314-ghc-9.12.2-released.html
+    The GHC developers are very pleased to announce the availability
+    of the final release for GHC 9.10.2. Binary distributions, source
+    distributions, and documentation are
+  last_post_date: "2025-05-03T00:00:00Z"
+  last_post_link: http://haskell.org/ghc/blog/20250503-ghc-9.10.2-released.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 962f530e0960cf8888a057ca4440d58a
+  last_post_guid: 2540e62d1a92258e45a1b7249dfc912e
   score_criteria:
     cats: 0
     description: 0

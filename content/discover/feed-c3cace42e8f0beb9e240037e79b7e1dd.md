@@ -19,15 +19,15 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: Some Notes Setting Up Syncthing in NixOS
-  last_post_description: So I recently got around to trying out NixOS. Part of that
-    experience was setting up Syncthing, which I’ve used on the past on my machines
-    and mobile phone to sync files related to note-taking.1 It
-  last_post_date: "2025-05-04T22:19:00-05:00"
-  last_post_link: https://kristofferbalintona.me/posts/202505042219/
+  last_post_title: Surprisingly, Emacs on Android is pretty good
+  last_post_description: Recently I got around to making steps toward a better mobile-PC
+    workflow. Until now, I’ve pretty much exclusively been using the community-developed
+    orgzly-revived app on Android. My intention was
+  last_post_date: "2025-05-29T14:38:00-05:00"
+  last_post_link: https://kristofferbalintona.me/posts/202505291438/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9f8c226119c10c9d626487c6e4910c07
+  last_post_guid: 916160fc96273ab2a3fcce18d2f5f5f1
   score_criteria:
     cats: 0
     description: 3

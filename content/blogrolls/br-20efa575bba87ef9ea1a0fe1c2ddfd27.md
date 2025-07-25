@@ -51,6 +51,9 @@ params:
   - title: GSoC Report
     description: Recent content on GSoC Report
     id: 700b90b29cdcea85ff17a8bfaa799106
+  - title: Shubham’s Blog
+    description: My Corner on Internet
+    id: 787def12bddb3a797d7221a5eb3ed5a5
   - title: Aaron Meurer's Blog
     description: My blog
     id: 943f3a402801150e5b1deda40b48aa20
@@ -72,9 +75,15 @@ params:
   - title: Sampad Saha
     description: ""
     id: cdc2ce267c1dd797fd5f14344524c164
+  - title: ""
+    description: ""
+    id: d3a672f74c4270441cb597729d29ffae
   - title: GSoC 2022 Blog
     description: Blog sharing my progress in GSoC 2022.
     id: e042e4639449e9a1ed942cb2d6abd88e
+  - title: '#SymPy – nkhlpappu'
+    description: This WordPress.com site is the bee's knees
+    id: e911c2e4ceb95b9ad0fa2e289c13489a
   - title: Rubi Integrator
     description: ""
     id: f2c5f219d6984b1cf0613bec3aab67f0

@@ -13,9 +13,15 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
+  - title: ""
+    description: ""
     id: 4f9c05f836dbd67951ea4fd0d091fcca
   recommended: []
   recommender:
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   - https://kandr3s.co/.rss
   categories: []
   relme:

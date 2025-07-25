@@ -29,6 +29,7 @@ params:
   relme:
     https://draft.blogger.com/profile/09131446473176959067: true
     https://eatthedots.blogspot.com/: true
+    https://www.blogger.com/profile/09131446473176959067: true
   last_post_title: The Power to do it Wrong
   last_post_description: ""
   last_post_date: "2011-10-15T22:26:36-07:00"

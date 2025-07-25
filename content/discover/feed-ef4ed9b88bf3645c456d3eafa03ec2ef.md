@@ -22,6 +22,7 @@ params:
     https://cool-as-heck.blog/about/: true
     https://dmv.community/@jcrabapple: true
     https://links.dmv.pub/@jcrabapple: true
+    https://proven.lol/8e7715: true
     https://proven.lol/523f62: true
   last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
     Work Yet'

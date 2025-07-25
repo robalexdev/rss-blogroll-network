@@ -18,31 +18,41 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - ActivityPub
+  - JavaScript
   - Uncategorized
+  - userinterface
+  - webcomponents
+  - webdev
   relme: {}
-  last_post_title: Defederation on the Fediverse
-  last_post_description: 'Mallory and I were lucky enough to participate in a study
-    on New Paradigms in Trust and Safety: Navigating Defederation on Decentralized
-    Social Media Platforms by the Carnegie Endowment. Published a'
-  last_post_date: "2025-03-27T21:22:27Z"
-  last_post_link: https://socialwebfoundation.org/2025/03/27/defederation-on-the-fediverse/
+  last_post_title: ap-components
+  last_post_description: I want to share some information about a repository we just
+    published. ap-components is a set of Web Components for building interfaces for
+    the ActivityPub API. I built it as I was making a sample
+  last_post_date: "2025-05-28T21:48:58Z"
+  last_post_link: https://socialwebfoundation.org/2025/05/28/ap-components/
   last_post_categories:
+  - ActivityPub
+  - JavaScript
   - Uncategorized
+  - userinterface
+  - webcomponents
+  - webdev
   last_post_language: ""
-  last_post_guid: aacddc1a933bfe8cfff96eb0bb900b38
+  last_post_guid: ed982277fc2bf53ec2c5fd31d957d775
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

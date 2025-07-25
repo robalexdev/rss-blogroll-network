@@ -6,12 +6,16 @@ params:
   feedlink: https://go.dev/blog/feed.atom
   feedtype: atom
   feedid: 2f02a05b9ae2b09d6abb5aa771db4a68
-  websites: {}
+  websites:
+    https://go.dev/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -22,6 +26,9 @@ params:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
@@ -45,8 +52,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

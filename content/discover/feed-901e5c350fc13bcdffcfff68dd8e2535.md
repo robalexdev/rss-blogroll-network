@@ -16,32 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - me
-  - non-fiction
+  - clojure
+  - computing
+  - core.async.flow
   relme: {}
-  last_post_title: A Guest Post at Wormwoodania
-  last_post_description: As an attempt to branch out with my writing, I've taken to
-    working on various fiction and non-fiction pieces...
-  last_post_date: "2025-03-26T07:51:09Z"
-  last_post_link: https://blog.fogus.me/2025/03/26/corvine-research-pt1/
+  last_post_title: Arities as pseudo-protocol
+  last_post_description: Whereby I talk about an under-appreciated technique in Clojure
+    where function arities serve as a pseudo-protocol...
+  last_post_date: "2025-05-19T11:44:49Z"
+  last_post_link: https://blog.fogus.me/clojure/arities-as-proto/
   last_post_categories:
-  - me
-  - non-fiction
+  - clojure
+  - computing
+  - core.async.flow
   last_post_language: ""
-  last_post_guid: 6acc4c06a80c7a7cb0287ed83b5b5e67
+  last_post_guid: 03743dc87c56587000488d7b98078df5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

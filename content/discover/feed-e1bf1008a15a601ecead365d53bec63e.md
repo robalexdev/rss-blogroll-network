@@ -8,6 +8,9 @@ params:
   feedid: e1bf1008a15a601ecead365d53bec63e
   websites:
     https://ploum.net/: true
+    https://ploum.net/about.html: false
+    https://ploum.net/index_en.html: false
+    https://ploum.net/index_fr.html: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

@@ -1,6 +1,6 @@
 ---
 title: Home
-date: "2025-02-21T00:00:00Z"
+date: "2025-07-18T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 39: OK Arrrr'
+  last_post_title: 'Week 58: Getting lost in hospitals'
   last_post_description: ""
-  last_post_date: "2025-02-21T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-39-ok-arrrr/
+  last_post_date: "2025-07-18T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-58-getting-lost-in-hospitals/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c8fe7dbd71b1f94b65885c96985d33f1
+  last_post_guid: 401a32b5ee75b88a22817ba84b2949fd
   score_criteria:
     cats: 0
     description: 0
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 41
+  postcount: 20
   avgpostlen: 295
 ---

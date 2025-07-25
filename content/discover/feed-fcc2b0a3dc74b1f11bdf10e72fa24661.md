@@ -1,6 +1,6 @@
 ---
 title: Eleventy Blog
-date: "2025-01-13T00:00:00Z"
+date: "2025-05-13T00:00:00Z"
 description: News and updates about the Eleventy static site generator project.
 params:
   feedlink: https://11ty.dev/blog/feed.xml
@@ -19,13 +19,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Eleventy Super Professional Linkedin Certification
+  last_post_title: Eleventy v3.1.0 is now available — 11% faster and 22% smaller!
   last_post_description: ""
-  last_post_date: "2025-01-13T00:00:00Z"
-  last_post_link: https://www.11ty.dev/blog/certification/
+  last_post_date: "2025-05-13T00:00:00Z"
+  last_post_link: https://www.11ty.dev/blog/eleventy-v3-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d275714357153ea334845a0beaa87c7
+  last_post_guid: 008ff91d8fc26d6a70b546087035a2c5
   score_criteria:
     cats: 0
     description: 3

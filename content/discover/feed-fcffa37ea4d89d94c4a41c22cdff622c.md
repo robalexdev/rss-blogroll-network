@@ -88,6 +88,7 @@ params:
   - são paulo
   - vienna
   relme:
+    https://draft.blogger.com/profile/14683745915943062235: true
     https://python-advocacy.blogspot.com/: true
     https://python-groups.blogspot.com/: true
     https://whatcomesafterus.blogspot.com/: true

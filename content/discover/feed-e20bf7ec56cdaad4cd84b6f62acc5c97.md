@@ -18,35 +18,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - abundance
-  - book
-  - review
+  - pm
+  - qualia
   relme: {}
-  last_post_title: Abundance (Book Review)
-  last_post_description: Abundance is the bold title for a new book by Ezra Klein
-    and Derek Thompson that has been receiving a lot of attention. Given my own profound
-    interest in how to get past scarcity thinking I felt
-  last_post_date: "2025-04-27T21:00:29Z"
-  last_post_link: https://paragraph.com/@continuations/abundance-book-review
+  last_post_title: 'Philosophy Mondays: Qualia (Cont''d)'
+  last_post_description: So just after I wrote about qualia in last week's Philosophy
+    Monday, Sabine Hossenfelder comes out with a video claiming the exact opposite
+    citing a recent study. In the video she says the following
+  last_post_date: "2025-06-09T14:53:04Z"
+  last_post_link: https://paragraph.com/@continuations/philosophy-mondays-qualia-contd
   last_post_categories:
-  - abundance
-  - book
-  - review
+  - pm
+  - qualia
   last_post_language: ""
-  last_post_guid: 75ee812f5f11c8462803ad07975fe66f
+  last_post_guid: eafd8d2445fb1df14b28c50f3dc45eb9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

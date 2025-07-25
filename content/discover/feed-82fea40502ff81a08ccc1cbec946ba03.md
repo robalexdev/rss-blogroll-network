@@ -20,26 +20,22 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Archiving
-  - Blogging
-  - Conferencing
-  - On Openness
   - On Sharing
+  - SPLOT
+  - Wordpress
   relme: {}
-  last_post_title: 18 Years Later Echoes of a VoiceThread, not from the Grave
-  last_post_description: Strap your self in for another wild old crazy link tour,
-    real audio echoes from the web past, and an anomaly of a free web storytelling
-    tool that not only is around after a start 8 years ago, but
-  last_post_date: "2025-04-24T17:19:37Z"
-  last_post_link: https://cogdogblog.com/2025/04/echoes-voicethread/
+  last_post_title: The SPLOT Still Beating On, 2025 Version
+  last_post_description: SPLOTs. Who can’t get enough of them? Most of the internet,
+    I am sure. It’s been a while, aka five years, since I cued up Cher and Whats His
+    Name for that funky toe tapping beat. It’s been
+  last_post_date: "2025-06-09T07:49:52Z"
+  last_post_link: https://cogdogblog.com/2025/06/the-splot-still-beating-on-2025-version/
   last_post_categories:
-  - Archiving
-  - Blogging
-  - Conferencing
-  - On Openness
   - On Sharing
+  - SPLOT
+  - Wordpress
   last_post_language: ""
-  last_post_guid: a859f019b2f17dd9b9622c237352a7db
+  last_post_guid: 681f1fb4974c64386aefd818aa212349
   score_criteria:
     cats: 0
     description: 3

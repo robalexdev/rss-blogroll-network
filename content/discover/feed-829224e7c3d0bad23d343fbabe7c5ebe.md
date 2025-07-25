@@ -17,34 +17,35 @@ params:
   recommender: []
   categories:
   - Cyber Threat Intelligence
-  - Non classifié(e)
   - Threat Intelligence Report
   relme: {}
-  last_post_title: 'PROSPERO & Proton66: Tracing Uncovering the links between bulletproof
-    networks'
-  last_post_description: 'The post PROSPERO & Proton66: Tracing Uncovering the links
-    between bulletproof networks appeared first on Cybersécurité - INTRINSEC.'
-  last_post_date: "2024-11-20T14:08:38Z"
-  last_post_link: https://www.intrinsec.com/prospero-proton66-tracing-uncovering-the-links-between-bulletproof-networks/
+  last_post_title: Pakistani freelancers building cracking websites for stealer-delivery
+  last_post_description: The post Pakistani freelancers building cracking websites
+    for stealer-delivery appeared first on Cybersécurité - INTRINSEC.
+  last_post_date: "2025-06-26T12:29:55Z"
+  last_post_link: https://www.intrinsec.com/pakistani-freelancers-building-cracking-websites-for-stealer-delivery/
   last_post_categories:
   - Cyber Threat Intelligence
-  - Non classifié(e)
   - Threat Intelligence Report
   last_post_language: ""
-  last_post_guid: 148a5927654a26b0d31aeb96dbda5ef8
+  last_post_guid: f420d165ec5128c37156b64c580ba07d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    hasContent: 0
+    hasPosts: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: fr
+  postcount: 10
+  avgpostlen: 0
 ---

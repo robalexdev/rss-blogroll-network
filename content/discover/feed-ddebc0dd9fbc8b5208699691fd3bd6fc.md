@@ -15,29 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - 日志
+  - 系统之美
   - 阅读
   relme: {}
-  last_post_title: Of Studies
-  last_post_description: by Francis Bacon Studies serve for delight, for ornamen […]
-  last_post_date: "2025-04-23T06:32:08Z"
-  last_post_link: https://imzm.im/of-studies/
+  last_post_title: 与系统共舞
+  last_post_description: 读完《系统之美》，我起初以为是一本系统论或信息论的入门书籍，读完以后，我的感受是这本书更像一本系统思考的方法论 […]
+  last_post_date: "2025-06-09T09:36:59Z"
+  last_post_link: https://imzm.im/thinking-in-systems/
   last_post_categories:
+  - 日志
+  - 系统之美
   - 阅读
   last_post_language: ""
-  last_post_guid: c135aacbfd5633e32beb065c94dd2736
+  last_post_guid: 2343f091286d69f53490c4c566f9e4fa
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

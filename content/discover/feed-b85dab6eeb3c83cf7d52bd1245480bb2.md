@@ -22,15 +22,14 @@ params:
   relme:
     https://ashfurrow.com/: true
     https://github.com/ashfurrow: true
-  last_post_title: Tarmak
-  last_post_description: My  keyboard rabbit hole  has inevitably brought me to the
-    world of alternate keyboard layouts. While I briefly used Dvorak in university,
-    I…
-  last_post_date: "2025-03-02T00:00:00Z"
-  last_post_link: https://ashfurrow.com/blog/tarmak/
+  last_post_title: Bias Towards Helpfulness
+  last_post_description: I've been using Cursor for coding tasks lately, trying to
+    explore what kinds of work it performs well and poorly. It's pretty good at most…
+  last_post_date: "2025-06-23T00:00:00Z"
+  last_post_link: https://ashfurrow.com/blog/bias-towards-helpfulness/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0426a990d5085e14bc558a8e339b3e78
+  last_post_guid: b4d3e22817165b9223ad3a3cafad20f8
   score_criteria:
     cats: 0
     description: 3

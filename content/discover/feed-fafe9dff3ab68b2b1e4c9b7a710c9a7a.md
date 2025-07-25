@@ -19,15 +19,16 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: A ballet for searchlights and speakers
-  last_post_description: I was late last time. And now the first Sunday is right at
-    the beginning of the month. So this might seem a bit sudden. Sorry. Anyway.I’m
-    always trying to get people to write presentations by
-  last_post_date: "2025-02-02T19:00:00Z"
-  last_post_link: https://buttondown.com/russell/archive/a-ballet-for-searchlights-and-speakers/
+  last_post_title: Tennis, theology and a politburo of bullshit
+  last_post_description: |-
+    hello,
+    Late again. I hang my head in shame.
+    Thank you to everyone who came to Interesting. I have just booked the Conway Hall for next year; 20th May 2026. World Bee Day. You heard it here first
+  last_post_date: "2025-06-08T18:00:00Z"
+  last_post_link: https://buttondown.com/russell/archive/tennis-theology-and-a-politburo-of-bullshit/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5cae2646f6a3c9c3503ccb426810e6b8
+  last_post_guid: d40e2d4d7a9d6b9b3fc8de03dde2f4ee
   score_criteria:
     cats: 0
     description: 3

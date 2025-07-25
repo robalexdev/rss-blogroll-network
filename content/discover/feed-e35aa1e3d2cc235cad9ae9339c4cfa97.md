@@ -22,15 +22,14 @@ params:
   relme:
     https://mastodon.social/@publicdomainrev: true
     https://publicdomainreview.org/: true
-  last_post_title: 'The Old, Old, Very Old Man: Thomas Parr and the Longevity Trade'
-  last_post_description: As the story goes, Old Tom Parr was relatively healthy for
-    being 152 until a visit to noxious, polluted London in 1635 cut his long life
-    short. Katherine Harvey investigates the early modern claims
-  last_post_date: "2025-05-21T14:16:00Z"
-  last_post_link: https://publicdomainreview.org/essay/the-old-old-very-old-man
+  last_post_title: 'Through the Magnifying Glass: The Cheese Mites (1903)'
+  last_post_description: A trick film in the peepshow vein, involving magnification
+    and mites on a block of cheese.
+  last_post_date: "2025-07-17T15:29:00Z"
+  last_post_link: https://publicdomainreview.org/collection/the-cheese-mites-1903
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c3be3e99dbe2bbc786e96ab4c5a4903
+  last_post_guid: e82da76ce00e6f61a39839c9d9f36f5d
   score_criteria:
     cats: 0
     description: 3

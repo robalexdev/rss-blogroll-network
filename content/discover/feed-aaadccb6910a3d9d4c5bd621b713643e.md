@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2025-02-02T11:47:42Z"
+date: "2025-07-24T13:59:36+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -274,13 +274,13 @@ params:
   relme:
     https://www.bastionland.com/: true
     https://www.blogger.com/profile/11717684225248546716: true
-  last_post_title: Fragments of Stellar Technology
+  last_post_title: d72 Squires
   last_post_description: ""
-  last_post_date: "2025-01-29T10:36:20Z"
-  last_post_link: https://www.bastionland.com/2025/01/fragments-of-stellar-technology.html
+  last_post_date: "2025-07-23T13:55:10+01:00"
+  last_post_link: https://www.bastionland.com/2025/07/d72-squires.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ee1e242c2d409afa56cb0f293b148e79
+  last_post_guid: fef2e082817003c038309b621b1e39ad
   score_criteria:
     cats: 5
     description: 3
@@ -299,5 +299,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 281
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lars-Christian's website - Posts
-date: "2025-04-28T20:30:30Z"
+date: "2025-06-11T20:30:28Z"
 description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'My mind without stimulants, or: How I''m quitting caffeine'
+  last_post_title: Eight
   last_post_description: ""
-  last_post_date: "2025-04-16T00:00:00Z"
-  last_post_link: https://lars-christian.com/posts/2025-04-16-my-mind-without-stimulants-or-how-im-quitting-caffeine/
+  last_post_date: "2025-06-11T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2025-06-11-eight/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7ab9646630d7e637677b6f1743388817
+  last_post_guid: f8d45fd417d1b00b316c1748f634482d
   score_criteria:
     cats: 0
     description: 3

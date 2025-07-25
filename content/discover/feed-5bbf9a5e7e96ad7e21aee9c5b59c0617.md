@@ -16,23 +16,26 @@ params:
   recommender: []
   categories:
   - Sem categoria
-  - hardware
+  - comunidade
   - mageia
   - servidores
+  - website
   relme: {}
-  last_post_title: Nosso equipamento está passando por uma renovação!
-  last_post_description: Para fazer um bom trabalho, precisamos de boas ferramentas.
-    Alguns de nossos servidores são antigos, não são mais poderosos o suficiente e
-    possuem recursos de disco limitados para atender às
-  last_post_date: "2025-02-08T18:31:35Z"
-  last_post_link: https://blog.mageia.org/pt/2025/02/08/nosso-equipamento-esta-passando-por-uma-renovacao/
+  last_post_title: Uma avalanche de bots de IA está repetidamente derrubando partes
+    do nosso site
+  last_post_description: Sempre tivemos bots visitando nosso site. Eram, em sua maioria,
+    bots gentis, como os rastreadores que mantêm os bancos de dados dos mecanismos
+    de busca atualizados. Esses bots gentis começam
+  last_post_date: "2025-05-20T22:06:28Z"
+  last_post_link: https://blog.mageia.org/pt/2025/05/20/uma-avalanche-de-bots-de-ia-esta-repetidamente-derrubando-partes-do-nosso-site/
   last_post_categories:
   - Sem categoria
-  - hardware
+  - comunidade
   - mageia
   - servidores
+  - website
   last_post_language: ""
-  last_post_guid: b1219e471d0867c95e89dab4b5afaf08
+  last_post_guid: c072746ec089be5e05713f1037d9b858
   score_criteria:
     cats: 0
     description: 3

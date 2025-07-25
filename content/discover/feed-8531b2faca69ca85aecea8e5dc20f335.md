@@ -18,13 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Announcing the Data.gov Archive
-  last_post_description: ""
-  last_post_date: "2025-02-06T00:00:00Z"
-  last_post_link: https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/
+  last_post_title: IIPC Web Archiving Conference 2025 Recap
+  last_post_description: The Perma team has landed back in the US after our trip to
+    the International Internet Preservation Consortium’s Web Archiving Conference.
+    This year the IIPC met in Oslo at the National Library of
+  last_post_date: "2025-05-02T00:00:00Z"
+  last_post_link: https://lil.law.harvard.edu/blog/2025/05/02/iipc-web-archiving-conference-2025-recap/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e7ed1d0655599155eb65f968ded299c9
+  last_post_guid: 77da954d88c2c6e95a3ec94349ddf278
   score_criteria:
     cats: 0
     description: 3

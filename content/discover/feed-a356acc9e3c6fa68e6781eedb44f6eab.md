@@ -21,7 +21,7 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
-  - title: OPML for all feeds in Cory Dransfeldt's blogroll
+  - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
@@ -40,15 +40,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: My Thoughts on the Fosstodon Drama
-  last_post_description: |-
-    Lots of people have been asking myself and Mike for a statement on the recent drama surrounding Fosstodon. This is **MY** statement.
-    I want to stress that this is my own opinion. This is in no way an
-  last_post_date: "2025-04-28T11:40:00Z"
-  last_post_link: https://kevquirk.com/blog/my-thoughts-on-the-fosstodon-drama
+  last_post_title: "\U0001F4DD 11 June 2025 at 12:21 - Hot …..."
+  last_post_description: "Hot weather ☀️ + pooches with thick coats \U0001F436 = uncomfortable
+    pooches. \U0001F975 Lucky for us we have a way of cooling down at home. \U0001F643"
+  last_post_date: "2025-06-11T12:25:00Z"
+  last_post_link: https://kevquirk.com/notes/20250611-1221
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 443905e94bca55aaa17a0800451d4160
+  last_post_guid: 2397ff140132619c488e122484d1c955
   score_criteria:
     cats: 0
     description: 3

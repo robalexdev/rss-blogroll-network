@@ -18,6 +18,12 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   - title: ""
     description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
+  - title: ""
+    description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: The Art Of Not Asking Why - Blogroll
     description: ""
@@ -65,6 +71,11 @@ params:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
+  - https://lmika.org/feed.xml
+  - https://lmika.org/podcast.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
@@ -73,32 +84,35 @@ params:
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
-  categories: []
+  categories:
+  - '#hivemind,'
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 11 June 2025 at 12:21 - Hot …..."
-  last_post_description: "Hot weather ☀️ + pooches with thick coats \U0001F436 = uncomfortable
-    pooches. \U0001F975 Lucky for us we have a way of cooling down at home. \U0001F643"
-  last_post_date: "2025-06-11T12:25:00Z"
-  last_post_link: https://kevquirk.com/notes/20250611-1221
-  last_post_categories: []
+  last_post_title: "\U0001F4DD 24 July 2025 at 21:18 - Fedi …..."
+  last_post_description: 'Fedi #hivemind, I need you. I use OneNote in work. It''s
+    shit, but it''s all I have. I need a better way of managing my notes and particularly
+    my to do list. The …'
+  last_post_date: "2025-07-24T21:25:00Z"
+  last_post_link: https://kevquirk.com/notes/20250724-2118
+  last_post_categories:
+  - '#hivemind,'
   last_post_language: ""
-  last_post_guid: 2d98755b72cbadf3640b5ac553dc2ef4
+  last_post_guid: fec6f312bf7bd8f166c261edc3c7e643
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 30
   ispodcast: false
   isnoarchive: false
   innetwork: true

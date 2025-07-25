@@ -19,27 +19,27 @@ params:
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
   categories:
-  - Coding & Publishing
-  - Instagram
-  - Threads
-  - social media
+  - Chrome
+  - Feed
+  - Tech
+  - feedly
   relme:
     https://flip.de/: true
     https://mastodon.social/@hesse: true
     https://renehesse.de/: true
-  last_post_title: Artikel aus mehreren RSS/Atom-Feeds auf Threads posten
-  last_post_description: Automatisiert Beiträge auf Threads posten ist weiterhin nicht
-    mit IFTTT oder Zapier möglich. Es gibt aber Abhilfe zum Selberhosten. RSS2Threads
-    kann entweder manuell Status-Updates versenden oder
-  last_post_date: "2024-12-03T07:17:56Z"
-  last_post_link: https://flip.de/artikel-aus-mehreren-rssatom-feeds-auf-threads-posten/
+  last_post_title: Feedly Notifier → Feedly Unread
+  last_post_description: Das Manifest V3-Update von Google Chrome hat Änderungen in
+    der Handhabung von Erweiterungen, insbesondere bei Hintergrundskripten und der
+    Ausführung von Remote-Code im Gepäck. Manifest V3 führt
+  last_post_date: "2025-07-16T06:09:27Z"
+  last_post_link: https://flip.de/feedly-notifier-feedly-unread/
   last_post_categories:
-  - Coding & Publishing
-  - Instagram
-  - Threads
-  - social media
+  - Chrome
+  - Feed
+  - Tech
+  - feedly
   last_post_language: ""
-  last_post_guid: 1f45d77de92f07641c297f2e7c58b0e3
+  last_post_guid: 7e2ed9bcf69ae0e35b9d0f5e49600e73
   score_criteria:
     cats: 0
     description: 3

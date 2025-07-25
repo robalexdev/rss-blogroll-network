@@ -25,6 +25,7 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme:
+    https://github.com/mxinden: true
     https://max-inden.de/: true
   last_post_title: Talk "Fast UDP makes QUIC quicker - optimizing Firefox’s HTTP3
     IO stack" @FOSDEM

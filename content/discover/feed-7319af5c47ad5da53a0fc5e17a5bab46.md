@@ -1,6 +1,6 @@
 ---
 title: Eshel Yaron
-date: "2025-04-19T00:00:00Z"
+date: "2025-06-09T00:00:00Z"
 description: RSS Feed of eshelyaron.com
 params:
   feedlink: https://eshelyaron.com/rss.xml

@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - weeknotes
+  - Uncategorized
   relme: {}
-  last_post_title: '4-monthnote: Honestly, I love change and the unexpected!'
-  last_post_description: Hello again. I’m not alone in being one of the people who’s
-    really struggled with keeping weeknotes going recently. “Recently”. I’ve definitely
-    had what one might call An Abundance Of Real
-  last_post_date: "2025-01-03T18:20:18Z"
-  last_post_link: https://www.leaningforward.com/blog/2025/01/4-monthnote-honestly-i-love-change-and-the-unexpected/?utm_source=rss&utm_medium=rss&utm_campaign=4-monthnote-honestly-i-love-change-and-the-unexpected
+  last_post_title: Weeknote 13th April – Frustrations
+  last_post_description: It’s not been the week I’d hoped, it must be said. It’s now
+    just over five weeks since pretty much everything fell apart, and I did my very
+    best impression of Wile E Coyote running off a cliff
+  last_post_date: "2025-04-13T23:04:07Z"
+  last_post_link: https://www.leaningforward.com/blog/2025/04/weeknote-13th-april-frustrations/?utm_source=rss&utm_medium=rss&utm_campaign=weeknote-13th-april-frustrations
   last_post_categories:
-  - weeknotes
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 0a0250c82827eaa4c45378f7a09fb113
+  last_post_guid: 53898f64708bd5eee6fcd8e347d20edb
   score_criteria:
     cats: 0
     description: 0

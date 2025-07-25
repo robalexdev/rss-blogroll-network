@@ -21,32 +21,32 @@ params:
   categories:
   - Boston
   - News
-  - Technology
   relme: {}
-  last_post_title: The BYTE Shop brings decades-old tech back to life
-  last_post_description: The BYTE Shop in Jamaica plain that brings back some of those
-    memories. The computer repair shop doubles as a museum to the home computer.
-  last_post_date: "2025-04-28T09:16:39-04:00"
-  last_post_link: https://www.wbur.org/news/2025/04/28/the-byte-shop-jp-old-computers-repair-museum
+  last_post_title: Rep. Moulton says many Marine junior officers are opposed to LA
+    deployment
+  last_post_description: U.S. Rep. Seth Moulton joins WBUR's Morning Edition to share
+    his thoughts on the growing military presence in Los Angeles amid protests over
+    immigration arrests.
+  last_post_date: "2025-06-11T07:40:32-04:00"
+  last_post_link: https://www.wbur.org/news/2025/06/11/moutlon-marines-newsom-california-los-angeles-protests
   last_post_categories:
   - Boston
   - News
-  - Technology
   last_post_language: ""
-  last_post_guid: 9f6fe42f66be4967f2393efe02e8e7eb
+  last_post_guid: e1dafbe5d6ee06602bdd769b7454113d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

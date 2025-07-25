@@ -11,11 +11,16 @@ params:
     https://lmnt.me/: true
   blogrolls: []
   in_blogrolls:
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender: []
+  recommender:
+  - https://lmika.org/feed.xml
+  - https://lmika.org/podcast.xml
   categories:
   - Technology
   relme:

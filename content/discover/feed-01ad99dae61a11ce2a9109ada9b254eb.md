@@ -16,20 +16,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - malware
+  - BPFDoor
+  - Linux malware
   relme: {}
-  last_post_title: FASTCash for Linux
-  last_post_description: Analysis of a newly discovered Linux based variant of the
-    DPRK attributed FASTCash malware along with background information on payment
-    switches used in financial networks.
-  last_post_date: "2024-10-13T02:51:35Z"
-  last_post_link: https://haxrob.net/fastcash-for-linux/
+  last_post_title: BPFDoor Part 2 - The Present
+  last_post_description: 'Recommended for prior reading: Trend Micro (2025), Sandfly
+    Security (2022), Elastic (2022).'
+  last_post_date: "2025-06-02T23:36:46Z"
+  last_post_link: https://haxrob.net/bpfdoor-past-and-present-part-2/
   last_post_categories:
-  - Linux
-  - malware
+  - BPFDoor
+  - Linux malware
   last_post_language: ""
-  last_post_guid: 9e9739fdb9df505ceec5f63825626208
+  last_post_guid: bf32e6a322910778856e5c20a275275f
   score_criteria:
     cats: 0
     description: 3

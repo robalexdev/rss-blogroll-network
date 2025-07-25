@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2025-04-03T23:12:08Z"
+date: "2025-07-24T19:30:24Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml
@@ -20,13 +20,13 @@ params:
   - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: 2025.4 Time to continue the dashboards!
+  last_post_title: 'Companion app for Android: It’s been a while'
   last_post_description: ""
-  last_post_date: "2025-04-02T00:00:00Z"
-  last_post_link: https://www.home-assistant.io/blog/2025/04/02/release-20254/
+  last_post_date: "2025-07-23T00:00:01Z"
+  last_post_link: https://www.home-assistant.io/blog/2025/07/23/companion-app-for-android/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0631da831c0c9c12c0b50da097033a67
+  last_post_guid: 910c2d8aff6e0428b98250ef2f43d9e8
   score_criteria:
     cats: 0
     description: 0

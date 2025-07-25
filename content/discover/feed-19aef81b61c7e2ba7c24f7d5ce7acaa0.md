@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2025-04-15T15:26:40+02:00"
+date: "2025-06-11T12:53:24+02:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -18,16 +18,17 @@ params:
   - OSGeo
   - Software
   relme: {}
-  last_post_title: 'WebAssembly: Revolutioniere WebGIS mit unbegrenztem Potenzial'
-  last_post_description: Martin Alzueta zeigt, welche Möglichkeiten WebAssembly (WASM)
-    bietet, um GIS-Anwendungen performanter, skalierbarer und flexibler zu gestalten.
-  last_post_date: "2025-04-01T15:08:00+02:00"
-  last_post_link: https://wheregroup.com/blog/webassembly-revolutioniere-web-gis-mit-unbegrenztem-potenzial/
+  last_post_title: Verarbeiten einer PointCloud (mit CloudCompare)
+  last_post_description: Wie funktioniert die Installation von CloudCompare und seine
+    Verwendung für eine PointCoud – wir zeigen Ihnen step by step, wie’s fehlerfrei
+    funktioniert.
+  last_post_date: "2025-06-02T10:00:00+02:00"
+  last_post_link: https://wheregroup.com/blog/verarbeiten-einer-pointcloud-mit-cloudcompare/
   last_post_categories:
   - OSGeo
   - Software
   last_post_language: ""
-  last_post_guid: 9b80cf5bdd9f3cde111195b0dbc53342
+  last_post_guid: 5e2e23975d4d828fde54fe3fc4699ddf
   score_criteria:
     cats: 0
     description: 0

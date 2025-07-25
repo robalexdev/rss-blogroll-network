@@ -1,6 +1,6 @@
 ---
 title: The LibraryThing Blog
-date: "2025-04-15T14:15:14Z"
+date: "2025-07-16T18:40:38Z"
 description: ""
 params:
   feedlink: https://blog.librarything.com/feed/atom/
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - author interview
-  - interview
+  - TinyCat
+  - new feature
   relme: {}
-  last_post_title: 'Author Interview: Blair Fell'
-  last_post_description: LibraryThing is pleased to sit down this month with screenwriter,
-    playwright and novelist Blair Fell, two-time winner of the Doris Lippman Prize
-    in Creative Writing from the City University of New
-  last_post_date: "2025-04-15T14:15:14Z"
-  last_post_link: https://blog.librarything.com/2025/04/author-interview-blair-fell/
+  last_post_title: Announcing TinyCat District!
+  last_post_description: TinyCat District is here! Libraries with multiple locations
+    or branches can now manage their accounts in one place. We created new tools and
+    features for TinyCat District that will simplify your
+  last_post_date: "2025-07-16T18:40:38Z"
+  last_post_link: https://blog.librarything.com/2025/07/announcing-tinycat-district/
   last_post_categories:
-  - author interview
-  - interview
+  - TinyCat
+  - new feature
   last_post_language: ""
-  last_post_guid: 0df5614fe27d4d6fee602c8121de73dc
+  last_post_guid: 565dd12455492f23e8c14e5cefe11841
   score_criteria:
     cats: 0
     description: 0

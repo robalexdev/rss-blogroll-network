@@ -26,34 +26,30 @@ params:
   - https://chrisburnell.com/feed.xml
   categories:
   - CSS
-  - Design
-  - Web
   relme:
     https://meyerweb.com/eric/thoughts: true
-  last_post_title: CSS Naked Day 2025
-  last_post_description: meyerweb.com goes au naturel, mostly, in observance of the
-    annual CSS Naked Day.
-  last_post_date: "2025-04-09T17:22:46Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2025/04/09/css-naked-day-2025/
+  last_post_title: Masonry, Item Flow, and… GULP?
+  last_post_description: Masonry layout is a difficult thing to do with CSS at present.
+    Item Flow could make it easy.
+  last_post_date: "2025-05-21T16:07:00Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2025/05/21/masonry-item-flow-and-gulp/
   last_post_categories:
   - CSS
-  - Design
-  - Web
   last_post_language: ""
-  last_post_guid: 632bf4ad153449d9972bd816d90c2b84
+  last_post_guid: 4d8f42d6904d771abc08ca59349fad06
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

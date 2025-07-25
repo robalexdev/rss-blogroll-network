@@ -20,6 +20,7 @@ params:
   - https://artlung.com/feed/
   - https://audioboom.com/channels/4997224.rss
   - https://benbrown.com/feed.xml
+  - https://blog.webb.page/feed/rss
   - https://cassidoo.co/rss.xml
   - https://catgirlin.space/feeds/rss.xml
   - https://clarale.com/feed.xml
@@ -27,6 +28,8 @@ params:
   - https://david.shanske.com/feed
   - https://dead.garden/blog/feed.rss
   - https://eli.li/feed.rss
+  - https://ellesho.me/page/rss.xml
+  - https://eva.town/rss.xml
   - https://feeds.acast.com/public/shows/65256f8d305ba800129ea202
   - https://feeds.acast.com/public/shows/65f7db095765b60016059179
   - https://feeds.buzzsprout.com/1930485.rss
@@ -74,6 +77,8 @@ params:
   - https://zacharykai.net/assets/rss.xml
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
+  - https://bg.raindrop.io/rss/public/51278376
+  - https://posts.ellesho.me/
   - https://frills.dev/bookmarks.xml
   - https://frills.dev/changelog.xml
   - https://frills.dev/rss.xml

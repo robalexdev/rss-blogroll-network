@@ -32,15 +32,16 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: How MCP servers can steal your conversation history
-  last_post_description: This post explains how malicious MCP servers can exploit
-    the Model Context Protocol to covertly exfiltrate entire conversation histories
-    by injecting trigger phrases into tool descriptions, allowing
-  last_post_date: "2025-04-23T10:30:00-04:00"
-  last_post_link: https://blog.trailofbits.com/2025/04/23/how-mcp-servers-can-steal-your-conversation-history/
+  last_post_title: What we learned reviewing one of the first DKLs23 libraries from
+    Silence Laboratories
+  last_post_description: In October 2023, we audited Silence Laboratories’ DKLs23
+    threshold signature scheme (TSS) library—one of the first production implementations
+    of this then-novel protocol that uses oblivious
+  last_post_date: "2025-06-10T07:00:00-04:00"
+  last_post_link: https://blog.trailofbits.com/2025/06/10/what-we-learned-reviewing-one-of-the-first-dkls23-libraries-from-silence-laboratories/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb7698631a72794e4850de142ae25578
+  last_post_guid: 7a44022490897b186092a84275647ca7
   score_criteria:
     cats: 0
     description: 3

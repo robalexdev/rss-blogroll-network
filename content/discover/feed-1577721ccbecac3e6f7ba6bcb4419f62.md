@@ -18,25 +18,26 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Inside Nelio
-  - Nelio A/B Testing
-  - Plugin Releases & Updates
-  - Plugins
+  - Case Study
+  - Conversion
+  - Interviews & Case Studies
+  - Marketing Strategy
+  - Online Marketing
   relme: {}
-  last_post_title: Nelio A/B Testing 7.5 – Synced Pattern Tests, Visual CSS Editor,
-    New Conversion Actions, Integration with GA4, and more
-  last_post_description: Nelio A/B Testing 7.5 has just been released, bringing a
-    host of exciting new features and improvements. The latest version introduces
-    Synced Pattern Tests, a new visual CSS editor, integration with
-  last_post_date: "2025-04-14T13:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/nelio-ab-testing-7-5-synced-pattern-tests-visual-css-editor-new-conversion-actions-integration-with-ga4-and-more/
+  last_post_title: Guardian Recovery and Nelio A/B Testing – A Case Study
+  last_post_description: |-
+    Discover how Guardian Recovery increased Conversion resulting a stronger return in their advertising investment with Nelio A/B Testing.
+    The post Guardian Recovery and Nelio A/B Testing – A Case
+  last_post_date: "2025-05-22T15:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/guardian-recovery-and-nelio-ab-testing-a-case-study/
   last_post_categories:
-  - Inside Nelio
-  - Nelio A/B Testing
-  - Plugin Releases & Updates
-  - Plugins
+  - Case Study
+  - Conversion
+  - Interviews & Case Studies
+  - Marketing Strategy
+  - Online Marketing
   last_post_language: ""
-  last_post_guid: cbd7cf78416840dacd4296aef97d4a8b
+  last_post_guid: b4b7a6ba9da9a96795a58543e0a3cb06
   score_criteria:
     cats: 0
     description: 3

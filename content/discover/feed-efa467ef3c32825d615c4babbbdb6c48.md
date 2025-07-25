@@ -1,6 +1,6 @@
 ---
 title: Weeknotes from Paul Smith
-date: "2024-04-20T21:00:01Z"
+date: "2025-05-26T21:21:00Z"
 description: A regular set of notes of things I'm doing, reading, watching and working
   on
 params:
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Weeknotes 21
+  last_post_title: Weeknotes 22
   last_post_description: ""
-  last_post_date: "2024-04-20T21:00:01Z"
-  last_post_link: https://paulsmith.site/weeknotes/s4e1/
+  last_post_date: "2025-05-26T21:21:00Z"
+  last_post_link: https://paulsmith.site/weeknotes/s6e1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e1d6ab71d89f325c62b8dec0c2402c60
+  last_post_guid: b6d9d2d73e3d77aa3affbcf9e8afdb2f
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 21
+  postcount: 22
   avgpostlen: 291
 ---

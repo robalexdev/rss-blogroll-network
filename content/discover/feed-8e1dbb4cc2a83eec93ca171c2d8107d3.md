@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-04-15T19:38:01-07:00"
+date: "2025-07-24T08:00:00-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -34,6 +34,7 @@ params:
   - P2P
   - PREMIS
   - advertising
+  - ai
   - amazon
   - anadp
   - annotations
@@ -118,6 +119,7 @@ params:
   - personal digital preservation
   - platform monopolies
   - publishing business
+  - quantum
   - scholarly communication
   - seagate
   - security
@@ -138,29 +140,27 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Cliff Lynch RIP
+  last_post_title: 'Meta: Slow Blogging Ahead'
   last_post_description: ""
-  last_post_date: "2025-04-15T08:00:00-07:00"
-  last_post_link: https://blog.dshr.org/2025/04/cliff-lynch-rip.html
+  last_post_date: "2025-07-24T08:00:00-07:00"
+  last_post_link: https://blog.dshr.org/2025/07/meta-slow-blogging-ahead.html
   last_post_categories:
-  - digital preservation
   - personal
-  - scholarly communication
   last_post_language: ""
-  last_post_guid: 468114078ffa1b778d634a74cb37a080
+  last_post_guid: b5199adde2132e1a78c4079aaa26ec0d
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 25
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

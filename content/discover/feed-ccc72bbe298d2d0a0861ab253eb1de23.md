@@ -17,6 +17,8 @@ params:
   recommender: []
   categories: []
   relme:
+    https://github.com/angristan: true
+    https://mstdn.io/@angristan: true
     https://stanislas.blog/: true
   last_post_title: Moving my personal infrastructure to Kubernetes (single-node k3s)
   last_post_description: |-

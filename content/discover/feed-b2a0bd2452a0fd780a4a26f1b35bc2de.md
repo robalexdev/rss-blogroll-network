@@ -39,12 +39,12 @@ params:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: Breathing space
-  last_post_description: I’m increasingly grateful for work, but the last few months
-    have been tough. Projects came thick and fast, overlapping with each other and
-    a bombardment of life obstacles. This year has been almost
-  last_post_date: "2025-04-25T18:00:00Z"
-  last_post_link: https://colly.com/journal/breathing-space
+  last_post_title: Your Ears Later Will Know to Listen
+  last_post_description: I was in town for an appointment and was then supposed to
+    meet a friend for lunch, but they texted to postpone. So, I embarked on an unplanned
+    mini-explore day and went along to the new Your Ears
+  last_post_date: "2025-06-04T17:00:00Z"
+  last_post_link: https://colly.com/journal/your-ears-later-will-know-to-listen
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9

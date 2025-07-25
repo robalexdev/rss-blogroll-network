@@ -18,32 +18,43 @@ params:
   - https://lmika.org/feed.xml
   - https://lmika.org/podcast.xml
   categories:
-  - Ballarat
+  - Connex Melbourne
+  - Hitachi trains
+  - Melbourne
+  - Metlink
+  - Photos from ten years ago
+  - Photos from twenty years ago
+  - Puffing Billy
+  - Southern Cross Station
+  - The Met
   - Trains
-  - V/Line
-  - VicRoads
-  - level crossings
-  - road closed
-  - road duplication
+  - Werribee line
+  - real time train information
   relme:
     https://github.com/wongm: true
     https://wongm.com/: true
-  last_post_title: The long closed level crossing that Ballarat rebuilt
-  last_post_description: In last week’s post about Ballarat’s level crossing removal
-    that left the level crossing behind, I mentioned in passing the level crossing
-    at Avenue Road in Burrumbeet that was reopened – well
-  last_post_date: "2025-02-17T20:30:00Z"
-  last_post_link: https://wongm.com/2025/02/ballarat-avenue-of-honour-avenue-road-level-crossing-burrumbeet-rebuilt/
+  last_post_title: 'Photos from *twenty* years ago: July 2005 (because I forgot to
+    do it ten years ago)'
+  last_post_description: Last month I published the first of my photos from *twenty*
+    years ago posts thanks to past me not realising that I had ten year old photos
+    to share, and this month post me made the same mistake –
+  last_post_date: "2025-07-21T21:30:00Z"
+  last_post_link: https://wongm.com/2025/07/photos-from-twenty-years-ago-july-2005/
   last_post_categories:
-  - Ballarat
+  - Connex Melbourne
+  - Hitachi trains
+  - Melbourne
+  - Metlink
+  - Photos from ten years ago
+  - Photos from twenty years ago
+  - Puffing Billy
+  - Southern Cross Station
+  - The Met
   - Trains
-  - V/Line
-  - VicRoads
-  - level crossings
-  - road closed
-  - road duplication
+  - Werribee line
+  - real time train information
   last_post_language: ""
-  last_post_guid: a74355b38897a85b4f850e291353f28e
+  last_post_guid: 18d9f8ecf5dc45368e99d0bffeb843ec
   score_criteria:
     cats: 0
     description: 3

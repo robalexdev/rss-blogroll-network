@@ -24,6 +24,7 @@ params:
     https://fosstodon.org/@talkpython: true
     https://github.com/mikeckennedy: true
     https://mkennedy.codes/: true
+    https://mkennedy.codes/search: true
     https://talkpython.fm/: true
     https://training.talkpython.fm/: true
   last_post_title: '#508: Program Your Own Computer with Python'

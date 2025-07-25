@@ -42,15 +42,15 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: Tracking listens from Navidrome
-  last_post_description: Migrating from Plex to Jellyfin to Navidrome has meant refactoring
-    how I record listens at each step. Much of the code architecture has remained
-    the same — error reporting, inserting tentative
-  last_post_date: "2025-04-24T23:14:45Z"
-  last_post_link: https://www.coryd.dev/posts/2025/tracking-listens-from-navidrome
+  last_post_title: Who writes the documentation?
+  last_post_description: |-
+    If the future is AI writing code (or writing much of it) — who writes the documentation? Is it the developers reviewing the code?
+    If developers have to review code and write documentation based on
+  last_post_date: "2025-06-06T19:53:43Z"
+  last_post_link: https://www.coryd.dev/posts/2025/who-writes-the-documentation
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eaac5d80a3210f193463cfa2d5238d75
+  last_post_guid: 516480a20111a41f9b4a47c6346e6237
   score_criteria:
     cats: 0
     description: 3

@@ -20,18 +20,16 @@ params:
     https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
     https://github.com/zamansky: true
-  last_post_title: Cool store that I can't support. Maybe ignorance, maybe antisemitism.
+  last_post_title: CSTA 2025 7 - the good, the bad, and the Cleveland
   last_post_description: |-
-    Warning: This post is political and involves my views on antisemitism
-    and the Gaza situation.
-
-    So, in my travels over the past year or so, I've been trying to hit
-    independent book stores or otherwise
-  last_post_date: "2025-06-07T13:06:59-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/cool-store-cant-support/
+    First off, great overall conference. I personally would have liked to
+    see more sessions with more advanced HS content but I also understand
+    that the majority of conference goers don't really need
+  last_post_date: "2025-07-23T08:31:44-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/csta-2025-7/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e7b5bcc4dab661b130a10bb90370b7e6
+  last_post_guid: e1e5ebaae7aa9b1a6b3aa840279a07ab
   score_criteria:
     cats: 0
     description: 3

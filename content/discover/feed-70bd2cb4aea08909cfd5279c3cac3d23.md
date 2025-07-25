@@ -14,6 +14,9 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Kev Quirk's Blogroll
     description: ""
     id: af94d85e509bec272bc4314eb947a67d
@@ -27,6 +30,9 @@ params:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/

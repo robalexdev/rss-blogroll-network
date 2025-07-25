@@ -1,6 +1,6 @@
 ---
 title: Liss is More
-date: "2025-02-24T18:29:46Z"
+date: "2025-07-25T02:31:38Z"
 description: Posts to Liss is More
 params:
   feedlink: https://www.caseyliss.com/rss
@@ -23,17 +23,16 @@ params:
     https://mastodon.social/@caseyliss: true
     https://mastodon.social/@caseylisscom: true
     https://www.caseyliss.com/: true
-  last_post_title: Callsheet 2025.2
+  last_post_title: 'Appearance: The Incomparable 775'
   last_post_description: |-
-    Since shortly after Callsheet was released, my #1 request from my  users has been the same thing:
-    pins are great, but can we have multiple lists of pins?
-    Today is the day.
-    Over the last few days,
-  last_post_date: "2025-02-19T14:00:00Z"
-  last_post_link: https://www.caseyliss.com/2025/2/19/callsheet-2025-2
+    In the final (?) edition of our three-part Summer of Subs miniseries, I joined
+    the panel on The Incomparable to discuss the three-and-a-half-hour epic submarine
+    film, Das Boot. Somehow, despite
+  last_post_date: "2025-07-22T13:30:00Z"
+  last_post_link: https://www.theincomparable.com/theincomparable/775/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b664911acf42234138ac13f8596ade14
+  last_post_guid: 049c50ccf073dc5a31c5f48ee16e8af7
   score_criteria:
     cats: 0
     description: 3

@@ -138,6 +138,8 @@ params:
   - https://birming.com/feed.xml
   - https://birming.com/feed/
   - https://birming.com/feed/?type=rss
+  - https://blog.pcora.eu/feed/
+  - https://blog.pcora.eu/feed/?type=rss
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://bnjmn.org/comments/feed/
@@ -171,6 +173,7 @@ params:
   - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://michal.sapka.me/rss.xml
   - https://mijndertstuij.nl/posts-feed.xml
   - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml

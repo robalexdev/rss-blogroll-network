@@ -22,6 +22,7 @@ params:
   categories:
   - Gygax 75 Challenge
   relme:
+    https://draft.blogger.com/profile/18398394072713660199: true
     https://jellysawgames.blogspot.com/: true
     https://plundergrounds.blogspot.com/: true
     https://radiorevival.blogspot.com/: true

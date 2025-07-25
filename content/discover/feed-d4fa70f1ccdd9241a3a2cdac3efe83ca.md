@@ -23,7 +23,7 @@ params:
     https://tychoish.com/: true
   last_post_title: Posts
   last_post_description: ""
-  last_post_date: "2023-09-20T00:00:00Z"
+  last_post_date: "2025-07-15T00:00:00Z"
   last_post_link: https://tychoish.com/post/
   last_post_categories: []
   last_post_language: ""

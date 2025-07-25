@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2025-04-04T01:08:32Z"
+date: "2025-07-25T01:39:23Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -21,14 +21,15 @@ params:
   categories:
   - "2025"
   relme: {}
-  last_post_title: keeping up my posting schedule
-  last_post_description: '>:)'
-  last_post_date: "2025-04-02T18:03:55Z"
-  last_post_link: https://blog.avas.space/april-fools/
+  last_post_title: the online shopping experience
+  last_post_description: online shopping fills me with dread. i avoid it whenever
+    i can.
+  last_post_date: "2025-07-22T12:28:33Z"
+  last_post_link: https://blog.avas.space/the-online-shopping-experience/
   last_post_categories:
   - "2025"
   last_post_language: ""
-  last_post_guid: bb57cab8f6fce3c3b4cc23c8aa8625a1
+  last_post_guid: 9a861b16808549d58786ad4d6bd921dc
   score_criteria:
     cats: 0
     description: 3
@@ -47,5 +48,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 268
 ---

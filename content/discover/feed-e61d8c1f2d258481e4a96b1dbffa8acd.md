@@ -18,30 +18,31 @@ params:
   categories:
   - text mining, natural language processing, data science, digital humanities
   relme: {}
-  last_post_title: Finished Creating a Collection of Carrels
-  last_post_description: 'I have finished creating and curating a collection of data
-    sets I call "study carrels".Keywords: Distant Reader; study carrels; Source: This
-    message was first posted to the Code4Lib mailing list on'
-  last_post_date: "2024-10-26T00:00:00-04:00"
-  last_post_link: https://distantreader.org/blog/collection-of-carrels/
+  last_post_title: Plato and Knowledge
+  last_post_description: |-
+    I wonder, what does Plato have to say about knowledge, and to what degree is knowledge an absolute?
+    Keywords: readings; knowledge; Plato; Source: This posting is rooted in the index.html page of the
+  last_post_date: "2025-07-08T00:00:00-04:00"
+  last_post_link: https://distantreader.org/blog/plato-and-knowledge/
   last_post_categories:
-  - Distant Reader
-  - study carrels
+  - Plato
+  - knowledge
+  - readings
   last_post_language: ""
-  last_post_guid: f1e8cf931edf94de7c8ea302bcd5576d
+  last_post_guid: d3036c4c9ea345f4a70707d1f40a2e04
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

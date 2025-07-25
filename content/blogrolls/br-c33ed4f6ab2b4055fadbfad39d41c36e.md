@@ -18,7 +18,10 @@ params:
   - title: Manton Reece
     description: ""
     id: 41e7afd377ae70efdb4606c0d0603e6f
-  - title: joeross.me
+  - title: Harsh Browns
+    description: ""
+    id: 68bf890ef652d82109527abf8b5560b7
+  - title: Joe Ross
     description: ""
     id: 6b48f7e15dd2f57a4c4192ceb0a2d05c
   - title: Sam’s Webzone

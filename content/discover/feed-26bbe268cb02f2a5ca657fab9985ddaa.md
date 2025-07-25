@@ -1,6 +1,6 @@
 ---
 title: Anil Dash
-date: "2025-04-10T00:00:00Z"
+date: "2025-06-11T00:00:00Z"
 description: A blog about making culture. Since 1999.
 params:
   feedlink: https://anildash.com/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: It's time for Dolly to record that long-lost Prince song.
+  last_post_title: It's Time for Something New
   last_post_description: ""
-  last_post_date: "2025-04-10T00:00:00Z"
-  last_post_link: https://anildash.com/2025/04/10/dolly-prince-rescue-me/
+  last_post_date: "2025-06-11T00:00:00Z"
+  last_post_link: https://anildash.com/2025/06/11/time-for-something-new/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b5414d6cb13258ed21c15d8e848a3c38
+  last_post_guid: f3e2e11968dc933bcd1e4a6fb8448ac3
   score_criteria:
     cats: 0
     description: 3

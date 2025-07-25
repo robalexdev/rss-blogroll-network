@@ -19,38 +19,28 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - dea
-  - doj
-  - fbi
-  - hannah dugan
-  - ice
-  - immigration
-  - kash patel
-  - milwaukee county
-  - pam bondi
-  - wisconsin
+  - blake lively
+  - defamation
+  - justin baldoni
+  - ny times
+  - ryan reynolds
   relme: {}
-  last_post_title: FBI Arrests Wisconsin Judge For Allegedly Obstructing The Arrest
-    Of An Undocumented Immigrant
-  last_post_description: 'Oh hooray. Another part of our new normal under Trump 2.0.
-    Here’s the Milwaukee Journal-Sentinel with the gory details: Milwaukee County
-    Circuit Judge Hannah Dugan was charged April 25 with two'
-  last_post_date: "2025-04-28T20:51:07Z"
-  last_post_link: https://www.techdirt.com/2025/04/28/fbi-arrests-wisconsin-judge-for-allegedly-obstructing-the-arrest-of-an-undocumented-immigrant/
+  last_post_title: Justin Baldoni’s Defamation Suit Against Lively, Reynolds, NY Times
+    Has Been Dismissed
+  last_post_description: While the Justin Baldoni legal fight with Blake Lively is
+    still going on, one half of the dispute has been thrown in the dumpster… for now.
+    If you’re not up on the case, here is the TL;DR version
+  last_post_date: "2025-06-12T03:18:20Z"
+  last_post_link: https://www.techdirt.com/2025/06/11/justin-baldonis-defamation-suit-against-lively-reynolds-ny-times-has-been-dismissed/
   last_post_categories:
   - "1"
-  - dea
-  - doj
-  - fbi
-  - hannah dugan
-  - ice
-  - immigration
-  - kash patel
-  - milwaukee county
-  - pam bondi
-  - wisconsin
+  - blake lively
+  - defamation
+  - justin baldoni
+  - ny times
+  - ryan reynolds
   last_post_language: ""
-  last_post_guid: a4f7fd34b8b6195729a863ddd0cfd9ed
+  last_post_guid: 2c51c0de247407bc156a594d03e09b73
   score_criteria:
     cats: 0
     description: 0

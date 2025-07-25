@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2025-04-15T11:37:00Z"
+date: "2025-06-11T11:19:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An aside on proposed anti-trust remedies against Google
+  last_post_title: Avoiding generative models is the rational and responsible thing
+    to do – follow-up to “Trusting your own judgement on ‘AI...’”
   last_post_description: ""
-  last_post_date: "2025-04-15T11:37:00Z"
-  last_post_link: https://www.baldurbjarnason.com/notes/2025/aside-on-anti-trust-remedies/
+  last_post_date: "2025-06-11T11:19:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e008a4d20cf59220ae88a22a6abff81
+  last_post_guid: 4107fe3b488a8fcb03d24eb8bc096f80
   score_criteria:
     cats: 0
     description: 3

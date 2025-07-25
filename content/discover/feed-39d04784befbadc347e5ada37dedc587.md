@@ -1,6 +1,6 @@
 ---
 title: Python GUIs - qt
-date: "2025-04-03T12:01:00Z"
+date: "2025-06-11T08:00:00Z"
 description: Create GUI applications with Python and Qt
 params:
   feedlink: https://martinfitzpatrick.name/feeds/qt.tag.atom.xml
@@ -15,41 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - app
-  - database
-  - databases
-  - notes
-  - notetaking
-  - pyside
+  - pyqt
+  - pyqt6
   - pyside6
   - python
   - qt
+  - qt5
   - qt6
-  - sql
-  - sticky-notes
   relme: {}
-  last_post_title: Build a Desktop Sticky Notes Application with PySide6 & SQLAlchemy
-    — Create moveable desktop reminders with Python
-  last_post_description: Do you ever find yourself needing to take a quick note of
-    some information but have nowhere to put it? Then this app is for you! This virtual
-    sticky notes (or Post-it notes) app allows you to keep
-  last_post_date: "2025-04-03T12:01:00Z"
-  last_post_link: https://www.pythonguis.com/examples/pyside6-desktop-sticky-notes/
+  last_post_title: 6th Edition - Create GUI Applications with Python & Qt, Released
+    — PyQt6 & PySide6 Books updated for 2025 with model view controller architecture,
+    new Python/Qt features and more examples
+  last_post_description: |-
+    The 6th edition of my book Create GUI Applications with Python & Qt is now
+    available, for PyQt6 & PySide6.
+  last_post_date: "2025-06-11T08:00:00Z"
+  last_post_link: https://www.pythonguis.com/blog/pyqt6-pyside6-books-updated-2025/
   last_post_categories:
-  - app
-  - database
-  - databases
-  - notes
-  - notetaking
-  - pyside
+  - pyqt
+  - pyqt6
   - pyside6
   - python
   - qt
+  - qt5
   - qt6
-  - sql
-  - sticky-notes
   last_post_language: ""
-  last_post_guid: 508dfcace73061eac942008194c8995e
+  last_post_guid: f40f2bbaae557dae37fd8a2ead785795
   score_criteria:
     cats: 0
     description: 3

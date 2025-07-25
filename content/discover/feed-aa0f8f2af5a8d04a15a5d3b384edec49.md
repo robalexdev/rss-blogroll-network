@@ -18,6 +18,7 @@ params:
   categories:
   - asyncore asynchat threading
   relme:
+    https://draft.blogger.com/profile/07787752537023885656: true
     https://hmemor.blogspot.com/: true
     https://willpython.blogspot.com/: true
     https://www.blogger.com/profile/07787752537023885656: true

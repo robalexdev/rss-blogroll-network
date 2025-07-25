@@ -176,6 +176,8 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
+  - https://blog.pcora.eu/feed/
+  - https://blog.pcora.eu/feed/?type=rss
   - https://www.buttersafe.com/feed/
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
@@ -267,6 +269,7 @@ params:
   categories:
   - Personal
   - cache log
+  - dog
   - geocaching
   relme:
     https://dan-q.github.io/: true
@@ -278,18 +281,19 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Checkin] Dan Q did not find GC74Z2R Metal bridge cache'
-  last_post_description: |-
-    Stopped by while cycling back from Witney. Made a moderately thorough search above and below the titular bridge, without success. Might benefit from a checkin/note from the CO.
-    Maybe I'm just not
-  last_post_date: "2025-06-10T10:38:00+01:00"
-  last_post_link: https://danq.me/2025/06/10/dan-q-did-not-find-gc74z2r-metal-bridge-cache/
+  last_post_title: '[Checkin] Dan Q found GC94GEM Brize Adventure'
+  last_post_description: QEF (once we started paying attention to the right host object!)
+    for the geopup and I on a morning dog walk after an errand in the village. TFTC,
+    now better get off to work!
+  last_post_date: "2025-07-24T07:55:00+01:00"
+  last_post_link: https://danq.me/2025/07/24/dan-q-found-gc94gem-brize-adventure/
   last_post_categories:
   - Personal
   - cache log
+  - dog
   - geocaching
   last_post_language: ""
-  last_post_guid: 893021479a4c1df9ba382b972342d3ee
+  last_post_guid: 39d9a6bc3c2b295a297277eed193b531
   score_criteria:
     cats: 0
     description: 3

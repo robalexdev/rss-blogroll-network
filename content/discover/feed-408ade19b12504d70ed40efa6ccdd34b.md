@@ -1,6 +1,6 @@
 ---
 title: ezyang’s blog
-date: "2025-04-04T07:05:46Z"
+date: "2025-06-03T13:44:13Z"
 description: the arc of software bends towards understanding
 params:
   feedlink: https://blog.ezyang.com/feed/atom/
@@ -18,16 +18,16 @@ params:
   categories:
   - AI Coding
   relme: {}
-  last_post_title: Why you should maintain a personal LLM coding benchmark
-  last_post_description: 'Do you use an LLM for coding? Do you maintain a personal
-    benchmark based on problems you have posed the LLM? The purpose of this blog post
-    is to convince you should do this: that you can do so with'
-  last_post_date: "2025-04-04T07:05:46Z"
-  last_post_link: http://blog.ezyang.com/2025/04/why-you-should-maintain-a-personal-llm-coding-benchmark/
+  last_post_title: 'Vibe coding case study: ScubaDuck'
+  last_post_description: A lot of strong engineers that I know haven't really taken
+    a serious look at AI coding; they've used LLMs to ask questions or write simple
+    scripts and appreciate that it is a useful tool, but haven't
+  last_post_date: "2025-06-02T04:31:25Z"
+  last_post_link: http://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/
   last_post_categories:
   - AI Coding
   last_post_language: ""
-  last_post_guid: 3f0dd80ade84150abb47a570ac29de4d
+  last_post_guid: 01869397d92862051538e2092ee3fe2c
   score_criteria:
     cats: 0
     description: 3

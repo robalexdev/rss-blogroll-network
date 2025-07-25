@@ -1,7 +1,7 @@
 ---
 title: The Overlook
 date: "1970-01-01T00:00:00Z"
-description: Your voice in the Catskills. Community journalism serving Hunter, Hurley,
+description: Your Voice in the Catskills. Community journalism serving Hunter, Hurley,
   Saugerties, Shandaken, Tannersville, and Woodstock.
 params:
   feedlink: https://theoverlooknews.com/feed
@@ -18,29 +18,35 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - News
+  - Woodstock
   relme: {}
-  last_post_title: The Many Lives of Cris Gamet
-  last_post_description: A painter and farrier balances solitude and strength, wielding
-    brush and hammer to shape a life on her own terms.
-  last_post_date: "2025-04-25T11:13:00Z"
-  last_post_link: https://theoverlooknews.com/the-many-lives-of-chris-gamet/
-  last_post_categories: []
+  last_post_title: Maverick Concerts Loses Federal Grant, Moves Forward With Community-Focused
+    Season
+  last_post_description: Maverick Concerts, host to the nation’s longest-running summer
+    chamber music festival, is seeking local donors and staging a free open house
+    this weekend after losing a key grant from the National
+  last_post_date: "2025-06-06T04:25:43Z"
+  last_post_link: https://theoverlooknews.com/maverick-concerts-loses-federal-grant-moves-forward-with-community-focused-season/
+  last_post_categories:
+  - News
+  - Woodstock
   last_post_language: ""
-  last_post_guid: b978177d9cab93b3757c3ab85a1ef0e6
+  last_post_guid: b91614aab62d44608295d152b2a8c8b3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

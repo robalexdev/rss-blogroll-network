@@ -17,42 +17,32 @@ params:
   - https://philwilson.org/blog/feed
   - https://philwilson.org/blog/feed/atom/
   categories:
-  - Green Lung
-  - "Music \U0001F3B6"
-  - "Weeknotes \U0001F5D3️"
-  - dan abnett
-  - email
-  - englishness
-  - enya
-  - gaunts ghosts
-  - ideas
-  - london
-  - paul graham raven
-  - tik tok
-  - warren ellis
+  - "2025"
+  - "365"
+  - May
+  - "Photos \U0001F4F7"
+  - jay springett
+  - photo-a-day
+  - photo365
+  - photoblog
   relme: {}
-  last_post_title: Green Lung | Weeknotes
+  last_post_title: May 2025 | Photo 365
   last_post_description: |-
-    I went to see Green Lung at the Kentish Town Forum last night, there’s something deeply comforting about being in a room full of metalheads.
-    The post Green Lung | Weeknotes appeared first on
-  last_post_date: "2025-02-23T21:15:50Z"
-  last_post_link: https://thejaymo.net/2025/02/23/379-green-lung/
+    Photo-a-day for the month of May 2025.
+    The post May 2025 | Photo 365 appeared first on thejaymo.
+  last_post_date: "2025-06-10T09:07:42Z"
+  last_post_link: https://thejaymo.net/2025/06/10/may-2025-photo-365/
   last_post_categories:
-  - Green Lung
-  - "Music \U0001F3B6"
-  - "Weeknotes \U0001F5D3️"
-  - dan abnett
-  - email
-  - englishness
-  - enya
-  - gaunts ghosts
-  - ideas
-  - london
-  - paul graham raven
-  - tik tok
-  - warren ellis
+  - "2025"
+  - "365"
+  - May
+  - "Photos \U0001F4F7"
+  - jay springett
+  - photo-a-day
+  - photo365
+  - photoblog
   last_post_language: ""
-  last_post_guid: 57deedccdc2968a55e2ce6b472dd105b
+  last_post_guid: 93f43372b697456e5ef082f26a6b9170
   score_criteria:
     cats: 0
     description: 3

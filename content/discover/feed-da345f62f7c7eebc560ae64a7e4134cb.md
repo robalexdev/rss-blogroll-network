@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2025-05-27T14:32:59-04:00"
+date: "2025-07-24T21:06:42-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -573,6 +573,7 @@ params:
   - steve jackson games
   - stormbringer
   - strategic review
+  - substack
   - sullivan
   - superheroes
   - sustare
@@ -668,20 +669,16 @@ params:
   relme:
     https://grognardia.blogspot.com/: true
     https://www.blogger.com/profile/00341941102398271464: true
-  last_post_title: 'Campaign Updates: Reckonings'
+  last_post_title: Three Models of Character Advancement
   last_post_description: ""
-  last_post_date: "2025-05-27T12:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2025/05/campaign-updates-reckonings.html
+  last_post_date: "2025-07-24T00:00:00-04:00"
+  last_post_link: https://grognardia.blogspot.com/2025/07/three-models-of-character-advancement.html
   last_post_categories:
-  - barrett's raiders
-  - campaigns
-  - dolmenwood
-  - ept
-  - house of worms
-  - t2k
-  - tekumel
+  - experience
+  - level
+  - musings
   last_post_language: ""
-  last_post_guid: 0e1fe1c685c2b6a2ce577201ee9992e6
+  last_post_guid: c08d6f2dcbd778089603240053a311cb
   score_criteria:
     cats: 5
     description: 3

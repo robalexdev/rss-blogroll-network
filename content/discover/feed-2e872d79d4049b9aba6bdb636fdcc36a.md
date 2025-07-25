@@ -18,22 +18,29 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Alan Jackson
-  - Country Music News
-  - Country Music Pictures
+  - Around the Hudson Valley
+  - Articles
+  - Hudson Valley Business
+  - Hudson Valley News
+  - Hudson Valley Pets
+  - Ulster County
+  - Ulster County SPCA
   relme: {}
-  last_post_title: Alan Jackson’s Grandchildren Just Went to Their First Alan Jackson
-    Concert
-  last_post_description: Alan Jackson's grandsons got to see what the singer does
-    for a living for the very first time.  Continue reading…
-  last_post_date: "2025-04-28T21:29:28Z"
-  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/alan-jackson-grandkids-first-concert/
+  last_post_title: This Helps Your Lost Pet Tell People Where They Live
+  last_post_description: It is National Microchip Month goes your pet have one Continue
+    reading…
+  last_post_date: "2025-06-12T03:57:14Z"
+  last_post_link: https://hudsonvalleycountry.com/pet-micro-chip-ulster-county-spca/
   last_post_categories:
-  - Alan Jackson
-  - Country Music News
-  - Country Music Pictures
+  - Around the Hudson Valley
+  - Articles
+  - Hudson Valley Business
+  - Hudson Valley News
+  - Hudson Valley Pets
+  - Ulster County
+  - Ulster County SPCA
   last_post_language: ""
-  last_post_guid: 5206280d1c32cdd23f9a95cb29d7e31b
+  last_post_guid: 44b4fa120e5645a1ff366d0cd0dd3e81
   score_criteria:
     cats: 0
     description: 3

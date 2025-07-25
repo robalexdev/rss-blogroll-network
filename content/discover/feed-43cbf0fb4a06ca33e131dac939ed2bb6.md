@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Miracles and Wonder
-  last_post_description: We’re considering the Jesus story with the historian Elaine
-    Pagels. Her new book is a marvel, crowning a lifetime of bestselling scholarship,
-    sifting the sources and retuning the narrative in and
-  last_post_date: "2025-04-17T17:12:57Z"
-  last_post_link: https://radioopensource.org/miracles-and-wonder/
+  last_post_title: The Last Supper
+  last_post_description: We’re with the writer Paul Elie, recalling the moment when
+    popular culture came to sound like public prayer. There was Madonna in 1989, singing
+    her number one hit “Like a Prayer.” The song is a
+  last_post_date: "2025-06-05T21:37:09Z"
+  last_post_link: https://radioopensource.org/the-last-supper/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: d9bf3fea7c0a59ffb26230248c662db0
+  last_post_guid: 57159afabdd9d2aac202b7f78291fa82
   score_criteria:
     cats: 1
     description: 3

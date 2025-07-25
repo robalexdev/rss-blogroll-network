@@ -910,6 +910,7 @@ params:
   - 7-Eleven
   - 70 Avenue A
   - 701 E. Sixth St.
+  - 703 E. 6th St.
   - 71 Fourth Avenue
   - 710 E. Ninth St.
   - 72 Avenue A
@@ -974,7 +975,9 @@ params:
   - 86 E. Seventh St.
   - 87 E. Houston St.
   - 87 Second Avenue
+  - 88 2nd Ave.
   - 88 3rd Ave.
+  - 88 Coffee
   - 88 E. 2nd St.
   - "886"
   - 89 First Ave.
@@ -1200,6 +1203,7 @@ params:
   - Amazon Fresh
   - Ambiance
   - Amelia and Christo
+  - Amelia and M2
   - American Apparel
   - American Buffalo
   - American Deli & Grocery
@@ -1281,6 +1285,7 @@ params:
   - April 2022
   - April 2023
   - April 2024
+  - April 2025
   - April Fools on April 8
   - April in review
   - Après
@@ -1292,6 +1297,7 @@ params:
   - Archie
   - Archie and Sons
   - Archie's Press
+  - Arco Coffee
   - Area 140 First
   - Arepa Factory
   - Argosy
@@ -1490,6 +1496,7 @@ params:
   - Banana Leaf
   - Bananas
   - Banco Popular
+  - Bands we like
   - Bandslam
   - Banjara
   - Banjo Jim's
@@ -1592,6 +1599,7 @@ params:
   - Ben & Jerry's
   - Ben Ari Arts
   - Ben Gazzara
+  - Ben Morea
   - Ben Shaoul
   - Ben Stiller
   - Ben and Jerry's
@@ -2389,6 +2397,7 @@ params:
   - Corlears Hook Park
   - Cornell Edwards
   - Cornell Edwards Way
+  - Corner Bistro
   - Corner Soul
   - Cornerstone Cafe
   - Coronavirus
@@ -2438,6 +2447,7 @@ params:
   - Croxely Ales
   - Croxley Ales
   - Crunch
+  - Crêpes le Bon
   - Cubo New York
   - Cucina Di Pesce
   - Cults
@@ -2515,10 +2525,12 @@ params:
   - Dance Parade 2022
   - Dance Parade 2023
   - Dance Parade 2024
+  - Dance Parade 2025
   - Dance Tracks
   - DanceFest
   - Daniel Boulud
   - Daniel Craig
+  - Daniel D. Tompkinss
   - Daniel Delaney
   - Daniel Root
   - Daniel's Bike Shop
@@ -2840,6 +2852,7 @@ params:
   - EV Grieve will burn in Hell
   - EV Grieve will post anything
   - EV Grieve's favorite baseball players
+  - EV Grieve's newsletter
   - EV Grive Etc.
   - EV Groeve Etc.
   - EV Heave
@@ -3078,6 +3091,7 @@ params:
   - Eights Pizza
   - Eighty East Tenth
   - Eileen Fisher
+  - Eim Khao Mun Kai
   - Eisenberg's Sandwich Shop
   - Eiyo Bowl
   - El Camino
@@ -3626,6 +3640,7 @@ params:
   - Grand Openings
   - Grand Sichuan
   - Grape and Grain
+  - Graqcefully
   - Grassroots
   - Grassroots Tavern
   - Gratin
@@ -3838,6 +3853,7 @@ params:
   - Holy Basil
   - Holy Reedemer
   - Holyland Market
+  - Homade
   - Home Town Village Convenience Store
   - Honest Chops
   - Honey Crepes
@@ -4231,6 +4247,7 @@ params:
   - John Varvatos
   - John's
   - John's of 12th Street
+  - Johnny
   - Johnny Air Cargo
   - Johnny Cash
   - Johnny Favorites
@@ -4398,6 +4415,7 @@ params:
   - Kids the movie
   - Kiehl's
   - Kiev
+  - Kijitora
   - Kikoo
   - Killer's Kiss
   - Kim Kardashian
@@ -4624,6 +4642,7 @@ params:
   - Liftonic
   - Lightstone Group
   - Lil BUB
+  - Lil Sweet Treat
   - Lil' Frankies Grocery
   - Lilly Coogan's
   - Lilly Dancyger
@@ -4739,6 +4758,7 @@ params:
   - Lower East Side Coffee Shop
   - Lower East Side Democratic Club
   - Lower East Side Girls Club
+  - Lower East Side History Month
   - Lower East Side People's Federal Credit Union
   - Lower East Side People’s Federal Credit Union
   - Lower East Side Rehab Group 5
@@ -4833,9 +4853,11 @@ params:
   - Madame Vo BBQ
   - Madame Vo I presume
   - Made Up There Farms
+  - Madina Masjid
   - Madison Avenue
   - Madison Realty Capital
   - Madison Square Garden
+  - Madison Square Realty
   - Madison Street
   - Madman Espresso
   - Madonna
@@ -4971,6 +4993,7 @@ params:
   - Mast Books
   - Master Softee
   - Matcha Cafe Wabi
+  - Matcha House
   - Mathieu Lehanneur
   - Matiell Consignment Shop
   - Matilda
@@ -4996,6 +5019,7 @@ params:
   - May 2022
   - May 2023
   - May 2024
+  - May 2025
   - May Day
   - May in review
   - MayRee
@@ -5048,6 +5072,7 @@ params:
   - Mercadito
   - Mercadito Cantina
   - Merchant's House
+  - Merchant's House Museum
   - Mercury East Presents
   - Mercury Lounge
   - Merica NYC
@@ -5814,6 +5839,7 @@ params:
   - Pete Wentz
   - Pete's Tavern
   - Pete's-A-Place
+  - Peter Arkle
   - Peter Bennett
   - Peter Brant
   - Peter Cooper
@@ -5912,7 +5938,9 @@ params:
   - Polonia
   - Pommes Frites
   - Poop Emoji Slippers
+  - Pop Music Fever Dream
   - Pop's Eat-Rite
+  - Pop's Pizza
   - Pope Francis
   - Popeye
   - Popeyes
@@ -6625,6 +6653,7 @@ params:
   - Spark Pretty
   - Spazio Amanita
   - Speakeasy
+  - Spear
   - Special
   - Special Special
   - Spice
@@ -7086,6 +7115,7 @@ params:
   - The Brownstone
   - The Burger Guy
   - The Burger Shop
+  - The CBGB Festival
   - The Cardinal
   - The Carrie Diaries
   - The Catcher in the Rye
@@ -7502,6 +7532,7 @@ params:
   - Tribal Soundz
   - Tribe
   - Tribeca
+  - Tribeca Festival
   - Tribeca Film Festival
   - Tribeca Grand Hotel
   - Tribeca Pediatrics
@@ -7780,6 +7811,7 @@ params:
   - Warwick
   - Wasan
   - Wash & Fold
+  - Wash Rite Laundromat
   - Washington Mutual
   - Washington Square Park
   - Water Street
@@ -7933,6 +7965,7 @@ params:
   - Yippies
   - Yo La Tengo
   - Yo! Sushi
+  - YoYo Chicken
   - Yoga to the People
   - Yogurt Station
   - Yokox Omakase
@@ -7958,6 +7991,7 @@ params:
   - Yummy Asian Food
   - Yummy Hive
   - Yummy House
+  - Yumsen Eats
   - Yunnies
   - ZaabVer Thai
   - Zabb City
@@ -8785,6 +8819,7 @@ params:
   - every Friday at 5
   - every Friday at 5 music videos
   - every Friday at 5. music videos
+  - every Fridays at 5
   - everyone loves cyclists
   - everything is about the Penistrator now
   - everything is expensive
@@ -9309,6 +9344,7 @@ params:
   - juice craze
   - jukebox
   - junk
+  - junk art journaling
   - junk food
   - just another Saturday night
   - just another Saturday nightnot
@@ -10984,6 +11020,7 @@ params:
   - wicker vanity tables
   - wigs
   - wild horses
+  - wildfires
   - wilding
   - wildlife
   - wildly speculating
@@ -11064,30 +11101,30 @@ params:
   - zpizza
   - ¡Adios Amigos!
   - Íxta
+  - Ănjelly
   relme: {}
-  last_post_title: Today in discarded canoes
-  last_post_description: This beautiful fiberglass canoe in good working condition
-    appeared overnight on 14th Street in front of the soon-to-open Whole Foods, between
-    First Avenue and Avenue A. The workers say it is not a
-  last_post_date: "2025-04-28T16:58:00Z"
-  last_post_link: http://evgrieve.com/2025/04/today-in-discarded-canoes.html
+  last_post_title: Wednesday's parting Instagram post
+  last_post_description: View this post on Instagram
+  last_post_date: "2025-06-12T00:25:00Z"
+  last_post_link: http://evgrieve.com/2025/06/wednesdays-parting-instagram-post.html
   last_post_categories:
-  - discarded things
+  - Block Drugs
+  - Instagram
   last_post_language: ""
-  last_post_guid: 1ad241f6ed10b15ea0daf4a8feba7eec
+  last_post_guid: c989b2dd4107c0155114d42241d79bbd
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

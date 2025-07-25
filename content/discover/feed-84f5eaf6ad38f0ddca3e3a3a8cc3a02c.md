@@ -20,16 +20,14 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Downtown SF, I
-  last_post_description: |-
-    Oakland, April 2025.
-    From the video Running out of time.
-  last_post_date: "2025-04-23T18:28:46Z"
-  last_post_link: https://aows.co/blog/2025/4/23/downtown-sf-i
+  last_post_title: Bernabeu
+  last_post_description: Madrid, May 2025.
+  last_post_date: "2025-06-11T18:22:19Z"
+  last_post_link: https://aows.co/blog/2025/6/11/bernabeu
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: e5c4d5f00cf3d01a6ebb7c72cee9f8bc
+  last_post_guid: 9b5585f09394dd245f83dbb18a469440
   score_criteria:
     cats: 0
     description: 3

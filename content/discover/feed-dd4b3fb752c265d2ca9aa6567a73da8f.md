@@ -19,15 +19,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: China’s chipmakers are catching up to Nvidia and TSMC. Here’s how
-    they compare
-  last_post_description: Restrictions on U.S. chips have pushed the Chinese government
-    to invest billions into its domestic supply chain.
-  last_post_date: "2025-04-28T10:00:00Z"
-  last_post_link: https://restofworld.org/2025/china-chipmakers-nvidia-tsmc-gap/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+  last_post_title: AI is making health care safer in the remote Amazon
+  last_post_description: At overburdened clinics, pharmacists use AI to catch dangerous
+    errors. It’s frontier tech meets frontier medicine — with global implications.
+  last_post_date: "2025-06-11T10:00:00Z"
+  last_post_link: https://restofworld.org/2025/brazil-amazon-ai-healthcare-prescriptions/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3ed31350b5b3f0c677894af7818b4cf9
+  last_post_guid: f4a0df0b8e40abeb6472a31a81ffec77
   score_criteria:
     cats: 0
     description: 3
