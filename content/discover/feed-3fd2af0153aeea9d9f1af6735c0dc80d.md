@@ -17,7 +17,6 @@ params:
   recommender: []
   categories: []
   relme:
-    https://github.com/TwIStOy: true
     https://twistoy.cn/: true
   last_post_title: 2023 韩国游记
   last_post_description: |-

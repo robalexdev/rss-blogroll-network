@@ -6,7 +6,8 @@ params:
   feedlink: https://outpost24.com/feed/
   feedtype: rss
   feedid: e5753e6dd2d4a885dc35e2a55eb24cda
-  websites: {}
+  websites:
+    https://outpost24.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions-iCloud.opml
@@ -15,18 +16,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - EASM
-  relme: {}
-  last_post_title: 'EASM Buyer’s Guide 2025: A guide for a futureproof EASM solution'
-  last_post_description: Your external attack surface is growing — whether you’re
-    aware of it or not. Cloud migration, IoT, AI, and remote work are all contributing
-    to the rapid expansion of organizations’ external
-  last_post_date: "2025-06-11T10:39:33Z"
-  last_post_link: https://outpost24.com/blog/easm-buying-guide-2025/
+  - Research & Threat Intel
+  relme:
+    https://outpost24.com/: true
+  last_post_title: 'CompassDRP Social Media integration: Six real-world use cases'
+  last_post_description: Social media can work both for and against an organization,
+    so it’s worth treating these sites as extensions of your attack surface. CompassDRP’s
+    Social Media integration continuously monitors
+  last_post_date: "2025-07-15T08:45:24Z"
+  last_post_link: https://outpost24.com/blog/compassdrp-social-media-use-cases/
   last_post_categories:
-  - EASM
+  - Research & Threat Intel
   last_post_language: ""
-  last_post_guid: 9b9e02021f001436d98f235e789c72c3
+  last_post_guid: 14a82e0aa5645f2216edd87376c3c551
   score_criteria:
     cats: 0
     description: 3
@@ -36,10 +38,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

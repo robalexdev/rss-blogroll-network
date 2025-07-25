@@ -17,9 +17,9 @@ params:
   categories: []
   relme: {}
   last_post_title: Blocking Aggressive Scrapers at the Edge
-  last_post_description: Blocking Aggressive Scrapers at the EdgeIn Limiting expensive
-    to render nginx endpoints , I describe how to use a few nginx limit_req module
-    to substantially limit the amount of aggressive scraping
+  last_post_description: Blocking Aggressive Scrapers at the Edge                           In
+    Limiting expensive to render nginx endpoints , I describe how to use a few nginx
+    limit_req module to substantially limit the
   last_post_date: "2025-03-20T13:10:00Z"
   last_post_link: https://cce.whatthefuck.computer/updates
   last_post_categories: []

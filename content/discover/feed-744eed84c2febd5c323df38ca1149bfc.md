@@ -16,28 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - DoH
-  - DoT
-  - Encrypted DNS
-  - Microsoft
-  - Protective DNS
-  - Security
+  - API-based ecosystem integrations
+  - Automated device discovery
+  - Cloud and IoT device discovery
+  - Cloud network visibility
+  - Community
+  - Hybrid network visibility
+  - Infoblox IPAM solutions
+  - Infoblox Universal Asset Insights
+  - Network visibility for SMEs
+  - Operational efficiency for SMEs
+  - SME network visibility
   relme: {}
-  last_post_title: Encrypted DNS + Protective DNS = ?
-  last_post_description: If you’re as old as I am, you may remember this now-classic
-    commercial for Reese’s Peanut Butter Cups. The gist of the ad was that chocolate
-    and peanut butter are “two great tastes that taste
-  last_post_date: "2025-06-09T15:55:29Z"
-  last_post_link: https://blogs.infoblox.com/security/encrypted-dns-protective-dns/
+  last_post_title: Why Network Visibility Is Critical for Small and Medium-Sized Enterprises
+    (SMEs)
+  last_post_description: Digital transformation, network modernization, cloud-first—these
+    aren’t just buzzwords. They define today’s hyperconnected reality, creating immense
+    opportunities but equally significant
+  last_post_date: "2025-07-23T16:29:54Z"
+  last_post_link: https://blogs.infoblox.com/community/why-network-visibility-is-critical-for-small-and-medium-sized-enterprises-smes/
   last_post_categories:
-  - DoH
-  - DoT
-  - Encrypted DNS
-  - Microsoft
-  - Protective DNS
-  - Security
+  - API-based ecosystem integrations
+  - Automated device discovery
+  - Cloud and IoT device discovery
+  - Cloud network visibility
+  - Community
+  - Hybrid network visibility
+  - Infoblox IPAM solutions
+  - Infoblox Universal Asset Insights
+  - Network visibility for SMEs
+  - Operational efficiency for SMEs
+  - SME network visibility
   last_post_language: ""
-  last_post_guid: 0ab619eff7400757bb058fc3b769979e
+  last_post_guid: 1b1d2ea0bb464b10b9a507d2b6200a3c
   score_criteria:
     cats: 0
     description: 0

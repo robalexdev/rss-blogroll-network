@@ -6,8 +6,7 @@ params:
   feedlink: https://chris-lamb.co.uk/blog/category/planet-debian/feed
   feedtype: rss
   feedid: 5e5bbad1f3fde6dc444f4cec772417ac
-  websites:
-    https://chris-lamb.co.uk/blog/category/planet-debian: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 14
+    website: 0
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

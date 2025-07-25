@@ -1,6 +1,6 @@
 ---
 title: Peter Rohde
-date: "2025-06-05T01:58:12Z"
+date: "2025-07-17T04:57:30Z"
 description: Quantum computer scientist & alpinist.
 params:
   feedlink: https://peterrohde.org/feed/atom/
@@ -18,15 +18,15 @@ params:
   - Climbing
   - General
   relme: {}
-  last_post_title: The Quantum Astronaut
-  last_post_description: '[Nb: the following added on 24 April, 2025 due to oversight]'
-  last_post_date: "2025-06-05T01:58:12Z"
-  last_post_link: https://peterrohde.org/the-quantum-astronaut/
+  last_post_title: GIPA (UTS)
+  last_post_description: ""
+  last_post_date: "2025-07-17T04:57:30Z"
+  last_post_link: https://peterrohde.org/gipa-uts/
   last_post_categories:
   - Climbing
   - General
   last_post_language: ""
-  last_post_guid: a8fb84af9781a10b044931905a59c76c
+  last_post_guid: 5d9a867728afb2abc6891b6ab308f0fb
   score_criteria:
     cats: 0
     description: 3

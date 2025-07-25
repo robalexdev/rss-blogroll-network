@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2025-04-30T21:53:55Z"
+date: "2025-07-20T13:41:54Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -18,13 +18,15 @@ params:
   categories: []
   relme:
     https://sneak.berlin/: true
-  last_post_title: 'Subject Lines and File Names: You’re doing it wrong.'
-  last_post_description: I got an alert today for a meeting I have 24 hours from now.
-  last_post_date: "2025-04-30T14:35:52Z"
-  last_post_link: https://sneak.berlin/20250430/subject-lines/
+  last_post_title: Minio Are Assholes
+  last_post_description: I use the fake open source project Minio to store data. It’s
+    an AGPL-licensed S3-compatible server, marketed under the term “open source” for
+    marketing/street cred (despite the AGPL being a
+  last_post_date: "2025-07-20T13:20:58Z"
+  last_post_link: https://sneak.berlin/20250720/minio-are-assholes/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9b7f0c1029f183828a4afa614d63e778
+  last_post_guid: 86088e17409cba78ce82101cf7ae3714
   score_criteria:
     cats: 0
     description: 3

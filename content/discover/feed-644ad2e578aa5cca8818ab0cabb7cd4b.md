@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2025-06-11T14:18:08+08:00"
+date: "2025-07-20T09:37:35+08:00"
 description: 后端与嵌入式、maya与游戏 | elmagnifico， Back-end engineer & Embedded System Lover
   | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -16,23 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Equip
-  - Nintendo Switch2
+  - Su7 Ultra
+  - xiaomi
   relme: {}
-  last_post_title: Nintendo Switch2
+  last_post_title: 小米高阶驾驶培训体验
   last_post_description: |-
     Foreword
 
-    NS2总算发布了，今天就直接拿到了，ns1总算可以淘汰了，各种小问题已经懒得折腾了
-
-    Nintendo
-  last_post_date: "2025-06-05T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2025/06/05/Nintendo-Switch2/
+    上次发布会的时候就说有免费的高阶培训，之前还有9999的精英驾驶培训，不过那个时间对不上，也不好弄。顺带出差，也去体验了一下，机票住
+  last_post_date: "2025-06-29T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2025/06/29/Xiaomi-Driver-Lesson/
   last_post_categories:
-  - Equip
-  - Nintendo Switch2
+  - Su7 Ultra
+  - xiaomi
   last_post_language: ""
-  last_post_guid: 66244e2b3f8264e8fb1c26cce75fe3cc
+  last_post_guid: 18cf47ae4fd431a9b09a535ccbe66279
   score_criteria:
     cats: 0
     description: 3

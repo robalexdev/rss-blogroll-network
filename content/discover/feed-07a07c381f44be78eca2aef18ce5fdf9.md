@@ -6,8 +6,7 @@ params:
   feedlink: https://wolfieanmol.github.io/gsoc-blog/feed.xml
   feedtype: atom
   feedid: 07a07c381f44be78eca2aef18ce5fdf9
-  websites:
-    https://wolfieanmol.github.io/gsoc-blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Jabber
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,6 @@ params:
   feedid: 7eabc1239e0baf6e01d10ccfcbfba62d
   websites:
     https://www.pugliasos.it/: false
-    https://www.pugliasos.it/index.php: true
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -19,26 +18,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Guide
+  - Attività
   - In evidenza
   - ROOT
   relme: {}
-  last_post_title: 03 Incontro del 18-1-2025
-  last_post_description: |-
-    Range
-    La sequenza di numeri interi consecutivi è di uso così frequente in Python che è stata definita una funzione specifica, range(), per crearla.La sintassi:
-    range (n1, n2, p)
-    dove
-
-    n1 l'intero
-  last_post_date: "2025-01-20T12:22:27+01:00"
-  last_post_link: https://www.pugliasos.it/index.php?view=article&id=77:03-incontro-del-18-1-2025&catid=10
+  last_post_title: Tecnoestate - Ottava edizione
+  last_post_description: L'associazione Puglia Software Open Source - APS ETS, organizza
+    “TECNOESTATE, la creatività non va in vacanza”, OTTAVA edizione. L'attività, che
+    partirà il 24 giugno, è rivolta a ragazzi/e di
+  last_post_date: "2025-06-07T19:39:35+02:00"
+  last_post_link: https://www.pugliasos.it/index.php/attivita/79-tecnoestate-ottava-edizione
   last_post_categories:
-  - Guide
+  - Attività
   - In evidenza
   - ROOT
   last_post_language: ""
-  last_post_guid: 87c7800d0ca4041bf65550e60137834d
+  last_post_guid: 03bd7781ac2e648d41deabb44a5abd8a
   score_criteria:
     cats: 0
     description: 3
@@ -50,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

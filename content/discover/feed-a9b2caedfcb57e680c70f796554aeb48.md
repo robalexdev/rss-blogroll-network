@@ -17,16 +17,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Obsidian, MCP Servers, and Supercharging Your Second Brain with
-    AI
+  last_post_title: 'Building a SaaS Product: The Hidden 80% That Nobody Talks About'
   last_post_description: |-
-    My Journey with MCP Servers
-    I recently learned of MCP (Model Control Protocol) servers through a post on Hacker News. The premise seems really neat. MCP is essentially a protocol that allows AI
-  last_post_date: "2025-04-02T00:00:00-05:00"
-  last_post_link: https://brettgfitzgerald.com/posts/mcp-server-experiences/
+    “I’ve got a great idea for a weekend project!”
+    Two months later…
+
+    “I’m launching my weekend project!”
+    The Dream vs. The Reality
+    I want to give anyone the power to learn anything,
+  last_post_date: "2025-07-11T00:00:00Z"
+  last_post_link: https://brettgfitzgerald.com/posts/building-a-saas-product-the-hidden-80-percent/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad9e6146957f4337a1135d11303ba6ea
+  last_post_guid: 6f71a7975063bd03cdb484ea327d1e11
   score_criteria:
     cats: 0
     description: 3

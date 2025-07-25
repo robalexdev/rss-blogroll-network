@@ -18,16 +18,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'Leading by Example: Reflecting on a Monumental Week for Deep Instinct'
-  last_post_description: Deep Instinct celebrates a milestone week featuring AWS collaboration
-    expansion, Voice of SecOps report launch revealing AI's impact on cybersecurity,
-    and NYSE LaunchPad induction—showcasing the
-  last_post_date: "2025-06-10T13:00:00Z"
-  last_post_link: https://www.deepinstinct.com/blog/leading-by-example-reflecting-on-a-monumental-week-for-deep-instinct
+  last_post_title: 'DIANNA Explains 2: Agent Tesla—A Better RAT'
+  last_post_description: DIANNA, the only GenAI assistant designed to explain unknown,
+    never-before-seen threats, is back with another malware breakdown. In this throwback,
+    DIANNA covers the key capabilities of the Agent
+  last_post_date: "2025-07-16T13:00:00Z"
+  last_post_link: https://www.deepinstinct.com/blog/dianna-explains-2-agent-tesla-a-better-rat
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 9da3a48bc1481320cf8cd0a8bfce6ce8
+  last_post_guid: 274dc8d398c65c9f894a73aadc72051d
   score_criteria:
     cats: 0
     description: 3

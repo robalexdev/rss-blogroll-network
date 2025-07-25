@@ -1,6 +1,6 @@
 ---
 title: luxate
-date: "2024-11-19T23:36:38-08:00"
+date: "2025-06-24T07:45:35-07:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/3470382175065019832/posts/default

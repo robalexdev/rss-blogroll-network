@@ -1,7 +1,7 @@
 ---
-title: debian on Website of Jamie McClelland
+title: Debian on Website of Jamie McClelland
 date: "1970-01-01T00:00:00Z"
-description: Recent content in debian on Website of Jamie McClelland
+description: Recent content in Debian on Website of Jamie McClelland
 params:
   feedlink: https://current.workingdirectory.net/tags/debian/index.xml
   feedtype: rss
@@ -16,16 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI's Actual Impact
+  last_post_title: Avoiding Apache Max Request Workers Errors
   last_post_description: |-
-    Two years after OpenAI launched ChatGPT 3.5, humanity is not on the cusp of
-    extinction and Elon Musk seems more responsible for job loss than any AI agent.
-    However, ask any web administrator and you
-  last_post_date: "2025-03-21T08:27:10-04:00"
-  last_post_link: https://current.workingdirectory.net/posts/2025/ai-changes/
+    Wow, I hate this error:
+
+    AH00484: server reached MaxRequestWorkers setting, consider raising the
+    MaxRequestWorkers setting
+    For starters, it means I have to relearn how MaxRequestWorkers functions in
+  last_post_date: "2025-07-11T08:27:10-04:00"
+  last_post_link: https://current.workingdirectory.net/posts/2025/avoiding-max-request-workers-errors/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 95e4594d0fd86f4be3a3ee66ffe5f4a7
+  last_post_guid: d6a7a373a940618e2fd95d8b3b2657f6
   score_criteria:
     cats: 0
     description: 3

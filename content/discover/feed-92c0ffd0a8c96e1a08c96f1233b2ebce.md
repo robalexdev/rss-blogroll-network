@@ -1,7 +1,7 @@
 ---
 title: 一叶斋
-date: "2025-06-08T08:16:40Z"
-description: 一叶障目 一叶知秋
+date: "2025-07-12T11:09:15Z"
+description: 一叶斋
 params:
   feedlink: https://xieguanglei.github.io/blog/feed.xml
   feedtype: rss

@@ -6,8 +6,7 @@ params:
   feedlink: https://alexeremin.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 9f9db21af131bf2c7eebacd750cc9a30
-  websites:
-    https://alexeremin.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Illumos
@@ -52,9 +51,7 @@ params:
   - tardist
   - unleashed
   - v9os
-  relme:
-    https://alexeremin.blogspot.com/: true
-    https://www.blogger.com/profile/04819890114311693093: true
+  relme: {}
   last_post_title: How to determine PXE mac address when booting illumos via PXELinux/iPXE
   last_post_description: ""
   last_post_date: "2020-08-02T07:31:47-07:00"
@@ -71,10 +68,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 23
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

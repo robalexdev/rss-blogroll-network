@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2025-05-23T10:45:17Z"
+date: "2025-07-23T12:44:46Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: Reducing the digital clutter of chats
+  last_post_title: 20 years of Linux on the Desktop (part 4)
   last_post_description: ""
-  last_post_date: "2025-05-23T00:00:00Z"
-  last_post_link: https://ploum.net/2025-05-23-chats-digital-clutter.html
+  last_post_date: "2025-07-23T00:00:00Z"
+  last_post_link: https://ploum.net/2025-07-23-linux_desktop4.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b182b8b2993cf5267e7aac3b9caf593
+  last_post_guid: 2ee72c889e5f797d192349c6157d7e5d
   score_criteria:
     cats: 0
     description: 3

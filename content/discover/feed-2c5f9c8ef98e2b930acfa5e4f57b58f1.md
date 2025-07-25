@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 2c5f9c8ef98e2b930acfa5e4f57b58f1
   websites:
-    https://www.jeffgeerling.com/: true
     https://www.jeffgeerling.com/blog: false
   blogrolls: []
   in_blogrolls:
@@ -22,15 +21,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Sipeed NanoCluster fits 7-node Pi cluster in 6cm
-  last_post_description: "Sipeed NanoCluster fits 7-node Pi cluster in 6cm\n\n            \n\nSipeed's
-    NanoCluster is a tiny compute module clusterboard with room for up to 7 tiny computers.\n\nEach
-    slot has two inline M.2 (NGFF)"
-  last_post_date: "2025-06-06T14:00:39Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/sipeed-nanocluster-fits-7-node-pi-cluster-6cm
+  last_post_title: Open Sauce is a confoundingly brilliant Bay Area event
+  last_post_description: This is the second year I brought my Dad (a now-retired radio
+    engineer and co-host of Geerling Engineering) to Open Sauce, a Bay Area maker
+    faire-like event, dreamed up by William Osman and featuring
+  last_post_date: "2025-07-22T16:12:03Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1831eceb4c00fcb3cd1ad353c5a134b9
+  last_post_guid: e90c15cd345628a33cc7f1524ad137d4
   score_criteria:
     cats: 0
     description: 0
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 14
+    website: 1
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

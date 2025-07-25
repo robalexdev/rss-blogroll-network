@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-06-04T17:54:53Z"
+date: "2025-07-08T15:30:54Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,51 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Andrew Sutherland
-  - Boris Alexeev
-  - Erdos
-  - Evan Conway
-  - Kevin Ventullo
-  - Markus Uhr
-  - Matthieu Rosenfeld
-  - math.CO
-  - math.NA
-  - math.NT
-  - update
+  - Salem prize
+  - advertising
   relme: {}
-  last_post_title: Decomposing a factorial into large factors (second version)
-  last_post_description: Boris Alexeev, Evan Conway, Matthieu Rosenfeld, Andrew Sutherland,
-    Markus Uhr, Kevin Ventullo, and I have uploaded to the arXiv a second version
-    of our paper “Decomposing a factorial into large
-  last_post_date: "2025-06-04T17:54:53Z"
-  last_post_link: https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/
+  last_post_title: Salem Prize now accepting nominations for 2025
+  last_post_description: The Salem prize was established in 1968 and named in honor
+    of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study
+    of the links between Fourier series and number theory and
+  last_post_date: "2025-07-08T15:30:54Z"
+  last_post_link: https://terrytao.wordpress.com/2025/07/08/salem-prize-now-accepting-nominations-for-2025/
   last_post_categories:
-  - Andrew Sutherland
-  - Boris Alexeev
-  - Erdos
-  - Evan Conway
-  - Kevin Ventullo
-  - Markus Uhr
-  - Matthieu Rosenfeld
-  - math.CO
-  - math.NA
-  - math.NT
-  - update
+  - Salem prize
+  - advertising
   last_post_language: ""
-  last_post_guid: 3ab7dfc974cf516afc5b2f2abdf51206
+  last_post_guid: 6c92564d9aca4e359e00defa5f87177b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

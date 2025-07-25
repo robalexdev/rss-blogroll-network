@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-07-24T08:00:00-07:00"
+date: "2025-07-24T17:57:04-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:

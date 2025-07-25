@@ -6,8 +6,7 @@ params:
   feedlink: https://raju.dev/rss/
   feedtype: rss
   feedid: b47d3cacdd42d95452c0be9daf844eff
-  websites:
-    https://raju.dev/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

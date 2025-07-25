@@ -1,6 +1,6 @@
 ---
 title: 林林杂语
-date: "2025-04-26T11:05:00+08:00"
+date: "2025-06-24T09:20:00+08:00"
 description: 林林在无病呻吟。
 params:
   feedlink: https://www.xiaozonglin.cn/feed/
@@ -17,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 开往一事杂记
+  last_post_title: 高考之后，出分之前（已经出分版）
   last_post_description: !!binary |
-    5LqU5LiA77yM5oOz552A6auY6ICD5ZCO5bCx6KaB5o6l5Zue5byA5b6A6aG555uu77yM5p
-    S+5YGH5YmN5bCx5oOz5LqG5Lqb6KaB5oqY6IW+55qE5Lic6KW/77yM5q+U5aaC5paw55qE
-    6Lez6L2s6aG16Z2i44CB5pu05ZCI55CG55qE6aG555uu57uE5p625p6E562J562J44CC5L
-    iA5Zue5p2l5oOz6Lef546w5Zyo55qE57u05oqk57uE6LSf6LSj5Lq65rI=
-  last_post_date: "2025-05-03T20:27:00+08:00"
-  last_post_link: https://www.xiaozonglin.cn/An-encounter-about-travellings/
+    NjE45Lmw5LqG5LiA5Liq56yU6K6w5pys77yM546w5Zyo5a+5552A56yU6K6w5pys55qE5b
+    GP5bmV5YaZ6L+Z56+H5Y2a5paH44CC5LuK5aSp5Lit5Y2I77yM5oiR5bCx5Y+v5Lul5Zyo
+    55yB6ICD6K+V6Zmi5LiK5p+l5Yiw6Ieq5bex55qE6auY6ICD5oiQ57up44CC5oiR5Y6f5Y
+    WI5oOz6K+06auY5Lit5LiJ5bm05LiA5pmD5bCx6L+H5LqG77yM5L2G77w=
+  last_post_date: "2025-06-24T09:20:00+08:00"
+  last_post_link: https://www.xiaozonglin.cn/between-gaokao-and-scores/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b6a39b88df945411b830eeb592555de7
+  last_post_guid: eb164d8855fcbf42c27b63ad1d30adb1
   score_criteria:
     cats: 0
     description: 3

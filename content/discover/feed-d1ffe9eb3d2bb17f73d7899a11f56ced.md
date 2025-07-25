@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.ikotler.org/feeds/posts/default
   feedtype: atom
   feedid: d1ffe9eb3d2bb17f73d7899a11f56ced
-  websites:
-    https://blog.ikotler.org/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
@@ -16,9 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://blog.ikotler.org/: true
-    https://www.blogger.com/profile/10497840461004186659: true
+  relme: {}
   last_post_title: Don't Let Your Fear Of Nation-State Hackers Blind You
   last_post_description: ""
   last_post_date: "2019-12-06T23:24:42+02:00"
@@ -35,10 +32,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Gist of Go: Data races'
-  last_post_description: Two goroutines racing for the same data is a recipe for disaster.
-  last_post_date: "2025-06-08T17:00:00Z"
-  last_post_link: https://antonz.org/go-concurrency/data-races/
+  last_post_title: 'Gist of Go: Signaling'
+  last_post_description: Sending events between goroutines.
+  last_post_date: "2025-07-20T18:00:00Z"
+  last_post_link: https://antonz.org/go-concurrency/signaling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30a195dc3e48b930420a8f049675ae93
+  last_post_guid: eba066fdb4b4617a8657408da568f366
   score_criteria:
     cats: 0
     description: 3

@@ -11,6 +11,9 @@ params:
     https://lmnt.me/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bacardi55's blogroll
+    description: ""
+    id: 5b6826cc65a55cfb580130b47ec7a162
   - title: Leon Mika - Blogroll
     description: ""
     id: 833a660b960ed1b9aee9740f9df08e00
@@ -25,15 +28,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Torigoe Matsuri
-  last_post_description: "It’s summer in Japan, and that means it’s matsuri season.
-    I guess everyone thought as long as we’re already sweating, we might as well carry
-    enormous heavy things around.\n\t\t\tMy neighborhood,"
-  last_post_date: "2025-06-08T21:05:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/torigoe-matsuri.html
+  last_post_title: Tap Tap Revolution
+  last_post_description: "Here’s a third recent project to round out this little mini
+    series of “What has Louie been up to?”\n\t\t\tTap Tap Revolution. Yeah.\n\t\t\t\n\t\t\t\t\n\t\t\t\tThree
+    comps of a theoretical new version of Tap Tap"
+  last_post_date: "2025-07-25T12:15:00+09:00"
+  last_post_link: https://lmnt.me/blog/tap-tap-revolution.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8eef4fefc0045b6f476db6a71f21a4da
+  last_post_guid: bfbd3fbe73d343bb9d48cb5c4771bf06
   score_criteria:
     cats: 1
     description: 3

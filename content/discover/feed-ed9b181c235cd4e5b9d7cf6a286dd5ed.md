@@ -1,6 +1,6 @@
 ---
 title: 200ok - Accelerating Publishing
-date: "2025-05-24T11:04:39Z"
+date: "2025-07-14T09:03:18Z"
 description: Developing and advocating Free and Open Source Software
 params:
   feedlink: https://200ok.ch/atom.xml
@@ -15,38 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - emacs
-  - gptel
-  - llm
-  - security
+  - tooling
   relme: {}
-  last_post_title: 'Sandboxing AI Tools: How Guix Containers Keep Your Host Safe While
-    Empowering LLMs'
+  last_post_title: 'Conquer: A Simple Yet Powerful Template Rendering Tool'
   last_post_description: ""
-  last_post_date: "2025-05-23T00:00:00Z"
-  last_post_link: https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html
+  last_post_date: "2025-07-14T00:00:00Z"
+  last_post_link: https://200ok.ch/posts/2025-07-14_conquer_a_simple_yet_powerful_template_rendering_tool.html
   last_post_categories:
-  - ai
-  - emacs
-  - gptel
-  - llm
-  - security
+  - tooling
   last_post_language: ""
-  last_post_guid: 74dd2410ac03accf7117124629eb7c49
+  last_post_guid: e55c873fe11e42afa2986aacf0dfb589
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

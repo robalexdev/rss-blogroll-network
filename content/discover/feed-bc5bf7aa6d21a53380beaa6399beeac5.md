@@ -16,18 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Upgrading my Tor bridges
-  last_post_description: |-
-    The Tor Project announced the release of version 0.4.8.11 of the Tor server, which meant it was time for me to upgrade the two relays I run, one of which I set up last week.
-
-    In brief
-
-    Here’s my
-  last_post_date: "2024-04-11T08:40:00-04:00"
-  last_post_link: https://www.miskatonic.org/2024/04/11/upgrading-tor/
+  last_post_title: I'm sticking with Emacs stable releases
+  last_post_description: For years I’ve run Emacs by compiling the development source
+    tree every week or two, just for the fun of it, to stay up with what the developers
+    are doing.   Every now and then there would be some
+  last_post_date: "2025-07-16T20:54:17-04:00"
+  last_post_link: https://www.miskatonic.org/2025/07/16/emacs-stable/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0c70ce95120492c142690e449e491e94
+  last_post_guid: 1fcdd6c97bb18c3111432ecf6aaf2afb
   score_criteria:
     cats: 0
     description: 3

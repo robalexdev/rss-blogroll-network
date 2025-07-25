@@ -15,15 +15,13 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
-  - title: Links for Josh Betz
+  - title: Front-end RSS Feeds
     description: ""
-    id: e95f4bbd4e48a622672e6ca597d8f4b3
+    id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://josh.blog/comments/feed
-  - https://josh.blog/feed
   categories:
   - Company news
   - GitHub Availability Report

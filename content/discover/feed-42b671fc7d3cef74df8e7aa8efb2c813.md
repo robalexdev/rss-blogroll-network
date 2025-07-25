@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A New Sudoku Layout With 81 Uniquely Shaped Cells
-  last_post_description: |-
-    My journey making a Sudoku variant that doesn’t have rows or columns
-          Read the whole article on danielchasehooper.com →
-  last_post_date: "2025-03-12T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/cracked-sudoku/
+  last_post_title: I Write Type Safe Generic Data Structures in C
+  last_post_description: I write type safe generic data structures in C using a technique
+    that I haven’t seen elsewhere1. It uses unions to associate type information with
+    a generic data structure, but we’ll get to that.
+  last_post_date: "2025-06-25T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f47c48d14e5d68dbd1916bba84b9bba
+  last_post_guid: 872af2c057fecbadadd0932e1b5bdc73
   score_criteria:
     cats: 0
     description: 3

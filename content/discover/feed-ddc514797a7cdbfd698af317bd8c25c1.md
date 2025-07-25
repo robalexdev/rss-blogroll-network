@@ -17,17 +17,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: UP42 y Kan Territory se unen para simplificar el acceso a datos
-    de observación terrestre
-  last_post_description: Muchos artículos hablan sobre cómo desbloquear el potencial
-    completo de los datos de observación terrestre, y especialistas en geoespacial
-    trabajan arduamente en todo el mundo para mejorar su
-  last_post_date: "2025-02-27T19:27:00Z"
-  last_post_link: https://kan.com.ar/up42-y-kan-territory-se-unen-para-simplificar-el-acceso-a-datos-https-github-com-kan-t-it-qgis-kica-de-observacion-terrestre/
+  last_post_title: Alianza Tecnológica
+  last_post_description: "\U0001F4A1 Estamos orgullosos de sumar nuestra experiencia
+    en geointeligencia a esta alianza con Finnegans SA, integrando datos operativos
+    y territoriales directamente en su ERP. Con soluciones como"
+  last_post_date: "2025-06-19T20:30:00Z"
+  last_post_link: https://kan.com.ar/alianza-tecnologica/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: ef8ff5185322ddffecc2d4067e518e17
+  last_post_guid: bfd055dd8117255170cc981e946a3cd8
   score_criteria:
     cats: 0
     description: 3

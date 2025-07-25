@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-05-16T06:11:36Z"
+date: "2025-07-23T01:13:16Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -15,34 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - friends
-  - obituary
+  - TIL
   - python
   relme: {}
-  last_post_title: Farewell to Michael Ryabushkin
-  last_post_description: In early May of 2025 Michael Ryabushkin (aka Goodwill) passed
-    away. He was a great friend and an even better person. I will miss him dearly.
-  last_post_date: "2025-05-16T06:11:36Z"
-  last_post_link: https://daniel.feldroy.com/posts/2025-05-farewell-to-michael-ryabushkin
+  last_post_title: 'TIL: Single source version package builds with uv'
+  last_post_description: Tired of updating the version in multiple places before publishing
+    a package update? Leery of using inspect.metadata to fetch the package? Here's
+    how to have a single source of version using UV's
+  last_post_date: "2025-07-23T01:13:16Z"
+  last_post_link: https://daniel.feldroy.com/posts/til-2025-07-single-source-version-package-builds-with-uv
   last_post_categories:
-  - friends
-  - obituary
+  - TIL
   - python
   last_post_language: ""
-  last_post_guid: b59514ebd3ae7677c01d07f042d8fd2c
+  last_post_guid: 2d6a507d2f20d24ddf267ce3f9cc72af
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

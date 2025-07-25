@@ -19,31 +19,33 @@ params:
   categories:
   - LOLBins
   - Living off the land
+  - little known secrets
   relme: {}
-  last_post_title: mscoree.dll, RunDll32ShimW lolbin
-  last_post_description: Executing this function via rundll32.exe leads to loading
-    of mscoreei.dll from one of the default .NET directories. However… The RunDll32ShimW
-    function takes into account the value of the
-  last_post_date: "2025-05-31T23:09:23Z"
-  last_post_link: https://www.hexacorn.com/blog/2025/05/31/mscoree-dll-rundll32shimw-lolbin/
+  last_post_title: 1 little known secret of advpack.dll, LaunchINFSection
+  last_post_description: Yes, yet another oldie with a secret… The .inf files are
+    as old as Windows itself, and their internal structure has been covered by many,
+    and over at least last two decades. So, what’s new?
+  last_post_date: "2025-07-12T22:42:00Z"
+  last_post_link: https://www.hexacorn.com/blog/2025/07/12/1-little-known-secret-of-advpack-dll-launchinfsection/
   last_post_categories:
   - LOLBins
   - Living off the land
+  - little known secrets
   last_post_language: ""
-  last_post_guid: ba88f981707c08b04e0e29e8847f8110
+  last_post_guid: 79ec243cda4b7c7a59274730e54ee5ca
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

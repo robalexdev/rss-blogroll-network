@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unfortunately, you have to think about cause
-  last_post_description: So somebody came to you (maybe it was your own mind, that
-    traitor!) and said you need to think about cause. Maybe you are asking yourself
-    how to remove friction or identify blockers that are
-  last_post_date: "2025-06-09T21:48:38Z"
-  last_post_link: https://www.fightforthehuman.com/unfortunately-you-have-to-think-about-cause/
+  last_post_title: Are developers slowed down by AI? Evaluating an RCT (?) and what
+    it tells us about developer productivity
+  last_post_description: Seven different people texted or otherwise messaged me about
+    this study which claims to measure “the impact of early-2025 AI on experienced
+    open-source developer productivity.”You know, when I
+  last_post_date: "2025-07-13T23:01:48Z"
+  last_post_link: https://www.fightforthehuman.com/are-developers-slowed-down-by-ai-evaluating-an-rct-and-what-it-tells-us-about-developer-productivity/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3678e5db561ceb7a33fca9ade8bee9df
+  last_post_guid: 38f261a2f6d70b718bc2084c5f6d7b61
   score_criteria:
     cats: 0
     description: 3

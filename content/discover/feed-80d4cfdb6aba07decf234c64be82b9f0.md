@@ -17,16 +17,15 @@ params:
   categories:
   - Threat Analysis Group
   relme: {}
-  last_post_title: 'TAG Bulletin: Q1 2025'
-  last_post_description: This bulletin includes coordinated influence operation campaigns
-    terminated on our platforms in Q1 2025. It was last updated on May 15, 2025.JanuaryWe
-    terminated 12 YouT…
-  last_post_date: "2025-05-15T17:30:00Z"
-  last_post_link: https://blog.google/threat-analysis-group/tag-bulletin-q1-2025/
+  last_post_title: 'TAG Bulletin: Q2 2025'
+  last_post_description: Our bulletin covering coordinated influence operation campaigns
+    terminated on our platforms in Q2 2025.
+  last_post_date: "2025-07-21T17:45:00Z"
+  last_post_link: https://blog.google/threat-analysis-group/tag-bulletin-q2-2025/
   last_post_categories:
   - Threat Analysis Group
   last_post_language: ""
-  last_post_guid: c1f28ba3d89a484fb890300f50546c5b
+  last_post_guid: 37d1532912d29aee6c40c1b4e220311b
   score_criteria:
     cats: 0
     description: 3

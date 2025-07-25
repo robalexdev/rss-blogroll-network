@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I Like the Sound of How You Look at Me
-  last_post_description: Japanese gitaigo are nuggets of mundane joy
-  last_post_date: "2025-06-11T01:00:25Z"
-  last_post_link: https://aethermug.com/posts/i-like-the-sound-of-how-you-look-at-me?utm_source=rss&utm_campaign=rss
+  last_post_title: New article on Nautilus Magazine
+  last_post_description: '"How Optimists Are Alike"'
+  last_post_date: "2025-07-23T00:47:23Z"
+  last_post_link: https://aethermug.com/posts/new-article-on-nautilus-magazine?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 315045020cd83c99715d09e92f5ff8b9
+  last_post_guid: 54720e87090ded7427ba85bbbe65c419
   score_criteria:
     cats: 0
     description: 3

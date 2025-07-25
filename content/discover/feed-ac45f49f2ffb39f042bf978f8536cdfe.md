@@ -6,8 +6,7 @@ params:
   feedlink: https://melissawen.github.io/feed.xml
   feedtype: rss
   feedid: ac45f49f2ffb39f042bf978f8536cdfe
-  websites:
-    https://melissawen.github.io/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

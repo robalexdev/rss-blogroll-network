@@ -6,8 +6,7 @@ params:
   feedlink: https://gbrownmozilla.wordpress.com/feed/
   feedtype: rss
   feedid: 12f246999adf14de3fe5c3bf4e74d8bd
-  websites:
-    https://gbrownmozilla.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Engineering Effectiveness at Mozilla
@@ -45,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

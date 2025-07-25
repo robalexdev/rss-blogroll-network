@@ -10,6 +10,9 @@ params:
     https://randsinrepose.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Roy Tang's Blogroll
     description: ""
     id: 9a988b678bcc9cdb383ef996387855af
@@ -22,21 +25,20 @@ params:
   recommended: []
   recommender:
   - https://roytang.net/blog/feed/rss/
-  - https://therealadam.com/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
   - Rands
   relme: {}
-  last_post_title: I Live Here Now
-  last_post_description: I had a dog, his name was Marleau. He was a Boston Terrier,
-    and he just wasn’t that smart. His nickname was “Derpity Doo” because he was was
-    that derpy. We all loved him a lot. One day, we
-  last_post_date: "2025-06-03T14:50:15Z"
-  last_post_link: https://randsinrepose.com/archives/i-live-here-now/
+  last_post_title: 'Rands Cheat Sheet, #1'
+  last_post_description: There’s a lot of content hiding in the Rands archives from
+    the past three decades. Over the years, some of that content keeps showing up.
+    I keep forwarding the same links to the same articles; I
+  last_post_date: "2025-07-20T16:29:48Z"
+  last_post_link: https://randsinrepose.com/archives/rands-cheat-sheet-1/
   last_post_categories:
   - Rands
   last_post_language: ""
-  last_post_guid: f0fe92825e6c03a13f9b738293b30c4d
+  last_post_guid: 55281d85e17d97d1fc60da1071d04558
   score_criteria:
     cats: 0
     description: 0

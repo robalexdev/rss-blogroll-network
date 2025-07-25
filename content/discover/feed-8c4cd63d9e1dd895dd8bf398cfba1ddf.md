@@ -1,6 +1,6 @@
 ---
 title: Michele Agostinelli Blog
-date: "2025-06-12T01:50:13+02:00"
+date: "2025-07-25T07:49:16+02:00"
 description: La casa delle mie passioni
 params:
   feedlink: https://blog.agostinelli.eu/feed/
@@ -23,13 +23,13 @@ params:
     https://mastodon.uno/@magostinelli: true
     https://pixelfed.uno/agostinelli: true
     https://www.agostinelli.eu/: true
-  last_post_title: Upgrade Home Server
+  last_post_title: 'Forgejo con Docker: Git self-hosted senza fronzoli'
   last_post_description: ""
-  last_post_date: "2024-12-09T20:16:04+01:00"
-  last_post_link: https://blog.agostinelli.eu/upgrade-home-server
+  last_post_date: "2025-07-11T15:46:31+02:00"
+  last_post_link: https://blog.agostinelli.eu/forgejo-con-docker-git-self-hosted-senza-fronzoli
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5b3e55f968901a57dc089b7ce8951487
+  last_post_guid: c937af4199590d21db9afe996a8ace97
   score_criteria:
     cats: 0
     description: 3

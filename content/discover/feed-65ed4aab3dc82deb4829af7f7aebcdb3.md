@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '[RFC] Should we allow search options for all links types? (was:
-    [PATCH] lisp/ox.el: Fix export of id links with search string)'
-  last_post_description: '[RFC] Should we allow search options for all links types?
-    (was: [PATCH] lisp/ox.el: Fix export of id links with search string)'
-  last_post_date: "2025-05-17T17:15:34Z"
-  last_post_link: https://list.orgmode.org/87tt5jkvpj.fsf@localhost
+  last_post_title: '[FR] Org export: expanding links to included files (was: [BUG]
+    Export backend cross-references are broken [9.7.30 (release_9.7.30 @ /home/user/org-mode-git/lisp/)])'
+  last_post_description: '[FR] Org export: expanding links to included files (was:
+    [BUG] Export backend cross-references are broken [9.7.30 (release_9.7.30 @ /home/user/org-mode-git/lisp/)])'
+  last_post_date: "2025-07-20T12:28:42Z"
+  last_post_link: https://list.orgmode.org/87bjpfoxqs.fsf@localhost
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5bfd8e765ae3d4a47e6f5d5010520cd6
+  last_post_guid: 870bc986849cc1ed8d4e0aa8bd115016
   score_criteria:
     cats: 0
     description: 3

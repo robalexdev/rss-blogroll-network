@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unmasking Insecure HTTP Data Leaks in Popular Chrome Extensions
-  last_post_description: Extensions analyzed expose information such as browsing domains,
-    machine IDs, OS details, usage analytics, and more.
-  last_post_date: "2025-06-05T10:00:00Z"
-  last_post_link: https://www.security.com/threat-intelligence/chrome-extension-leaks
+  last_post_title: 'ToolShell: Critical SharePoint Zero-Day Exploited in the Wild'
+  last_post_description: Symantec products already block CVE-2025-53770 exploit attempts.
+  last_post_date: "2025-07-21T08:40:59Z"
+  last_post_link: https://www.security.com/threat-intelligence/toolshell-zero-day-sharepoint-cve-2025-53770
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 40f5918ba099033c25657051036283dd
+  last_post_guid: 98d5c6daf754228df4cbe9bf06b9609a
   score_criteria:
     cats: 0
     description: 3

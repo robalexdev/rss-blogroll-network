@@ -19,14 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: One Law to Rule All Code Optimizations
-  last_post_description: A systems-level reasoning model for understanding why optimizations
-    succeed or fail.
-  last_post_date: "2025-06-08T17:27:05Z"
-  last_post_link: https://blog.codingconfessions.com/p/one-law-to-rule-all-code-optimizations
+  last_post_title: 'x86 Assembly Exercise #1: Toy kill Program (Solution)'
+  last_post_description: A step-by-step walkthrough of the toy kill program using
+    raw Linux syscalls.
+  last_post_date: "2025-07-19T18:54:05Z"
+  last_post_link: https://blog.codingconfessions.com/p/x86-assembly-exercise-1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ec93792fd6207c5753c1d50dafd920d9
+  last_post_guid: ea8e530eca03ff5fac997f388b0b11b9
   score_criteria:
     cats: 0
     description: 3

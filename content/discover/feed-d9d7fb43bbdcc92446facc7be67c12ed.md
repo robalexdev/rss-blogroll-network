@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2025-06-11T16:51:13Z"
+date: "2025-07-24T16:26:44Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -15,28 +15,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - arm64
+  - amd
+  - btb
+  - cpu
   - hardware
-  - harmonyos
-  - huawei
-  - linux
-  - matebook
-  - matebookpro
+  - zen
   relme: {}
-  last_post_title: 在鸿蒙电脑上的虚拟机内启动 Linux
-  last_post_description: 目前鸿蒙的应用市场上有两家虚拟机，我用 Oseasy 虚拟机，但是理论上铠大师也是可以的。（P.S. @driver1998
-  last_post_date: "2025-06-10T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/
+  last_post_title: AMD Zen 3 的 BTB 结构分析
+  last_post_description: 背景¶在之前，我们分析了 AMD Zen 1 和 AMD Zen 2 的 BTB，接下来分析它的再下一代微架构：2020
+    年发布的 AMD Zen 3 的 BTB，看看 AMD 的 Zen 系列的 BTB
+  last_post_date: "2025-07-08T00:00:01Z"
+  last_post_link: https://jia.je/hardware/2025/07/08/amd-zen-3-btb/
   last_post_categories:
-  - arm64
+  - amd
+  - btb
+  - cpu
   - hardware
-  - harmonyos
-  - huawei
-  - linux
-  - matebook
-  - matebookpro
+  - zen
   last_post_language: ""
-  last_post_guid: 77fb098f7e9f4c932e5231026271d0b5
+  last_post_guid: a0facd318a357ad59f17ba4d015a5efc
   score_criteria:
     cats: 0
     description: 3

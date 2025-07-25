@@ -27,7 +27,7 @@ params:
   last_post_title: McEliece standardization
   last_post_description: 'Looking at what''s happening, and analyzing rationales.
     #nist #iso #deployment #performance #security'
-  last_post_date: "2025-04-28T10:38:45Z"
+  last_post_date: "2025-07-17T21:28:29Z"
   last_post_link: http://blog.cr.yp.to/20250423-mceliece.html
   last_post_categories:
   - '#nist'

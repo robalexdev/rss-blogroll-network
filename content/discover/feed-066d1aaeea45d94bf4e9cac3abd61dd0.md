@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.mozilla.org/netpolicy/feed/
   feedtype: rss
   feedid: 066d1aaeea45d94bf4e9cac3abd61dd0
-  websites:
-    https://blog.mozilla.org/netpolicy/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -19,31 +18,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence
+  - Competition
+  - United Kingdom
   relme: {}
-  last_post_title: 'New Mozilla Research: Civil Liability Along the AI Value Chain'
+  last_post_title: 'A pivotal moment for the UK in digital competition: Lead from
+    the front or let the opportunity slip?'
   last_post_description: |-
-    What happens when AI systems fail? Who should be held responsible when they cause harm? And how can we ensure that people harmed by AI can seek redress? READ THE … Read more
-    The post New Mozilla
-  last_post_date: "2025-04-02T05:07:02Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2025/04/01/new-mozilla-research-civil-liability-along-the-ai-value-chain/
+    Mozilla’s open letter to the UK’s Secretary of State for Business and Trade, the Secretary of State for Science, Innovation and Technology, and the CEO of the CMA   Rt Hon … Read more
+    The
+  last_post_date: "2025-07-23T12:20:25Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/07/23/a-pivotal-moment-for-the-uk-in-digital-competition-lead-from-the-front-or-let-the-opportunity-slip/
   last_post_categories:
-  - Artificial Intelligence
+  - Competition
+  - United Kingdom
   last_post_language: ""
-  last_post_guid: 7ae5dcad2bf695adff2810023e6beaa7
+  last_post_guid: 4708c77b56643639a8e2c2bdd5b8ba74
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

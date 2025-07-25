@@ -7,13 +7,15 @@ params:
   feedtype: rss
   feedid: 90ccbc3df12eac8136def0fa0ed0680c
   websites:
-    https://miketaylr.com/posts: true
     https://miketaylr.com/posts/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
     description: ""
     id: 6041122d4cdba349bc86ba85507a7d8c
+  - title: Front-end RSS Feeds
+    description: ""
+    id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
   recommender: []
   categories: []
@@ -40,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

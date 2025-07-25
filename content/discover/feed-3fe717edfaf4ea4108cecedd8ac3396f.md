@@ -6,8 +6,7 @@ params:
   feedlink: https://wiki.hands.com/chezfil/index.rss
   feedtype: rss
   feedid: 3fe717edfaf4ea4108cecedd8ac3396f
-  websites:
-    https://wiki.hands.com/chezfil/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

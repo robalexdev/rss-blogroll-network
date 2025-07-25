@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.jiayuanzhang.com/index.xml
   feedtype: rss
   feedid: add482dc0c4cbc9762ff5a716cc4c742
-  websites:
-    https://blog.jiayuanzhang.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -35,8 +34,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 14
+    website: 0
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

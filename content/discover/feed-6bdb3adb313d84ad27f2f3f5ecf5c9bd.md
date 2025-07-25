@@ -6,8 +6,7 @@ params:
   feedlink: https://rsip22.github.io/blog/feeds/all.rss.xml
   feedtype: rss
   feedid: 6bdb3adb313d84ad27f2f3f5ecf5c9bd
-  websites:
-    https://rsip22.github.io/blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -51,8 +50,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

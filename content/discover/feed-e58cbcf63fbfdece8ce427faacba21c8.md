@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: As an Experienced LLM User, I Actually Don't Use Generative LLMs
-    Often
-  last_post_description: But for what I do use LLMs for, it’s invaluable.
-  last_post_date: "2025-05-05T10:15:00-07:00"
-  last_post_link: https://minimaxir.com/2025/05/llm-use/
+  last_post_title: Predicting Average IMDb Movie Ratings Using Text Embeddings of
+    Movie Metadata
+  last_post_description: Don’t try this in your data science interviews.
+  last_post_date: "2025-06-30T10:00:00-07:00"
+  last_post_link: https://minimaxir.com/2025/06/movie-embeddings/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 50095fe289102501d916850cb1971f37
+  last_post_guid: 2cbbf06df76468ab6e0998ef5534e0fa
   score_criteria:
     cats: 0
     description: 3

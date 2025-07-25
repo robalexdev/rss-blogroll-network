@@ -10,6 +10,9 @@ params:
     https://www.bryanbraun.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bacardi55's blogroll
+    description: ""
+    id: 5b6826cc65a55cfb580130b47ec7a162
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f

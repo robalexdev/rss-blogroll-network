@@ -16,50 +16,52 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BidenCash
-  - Carding
-  - CreditCard
+  - DarkForums
   - DarkWeb
   - Darkweb
-  - DeepWeb
-  - Germany
-  - Global
-  - GlobalRansomware
+  - DataBreach
+  - Deeweb
+  - DomainSeized
+  - EuroPol
+  - France
+  - NoName05716
+  - Pro-Russian
   - Public
-  - Ransomware
-  - STORMOUSRansomware
-  - Stormous
+  - ServerKillers
+  - ThreatActorArrested
+  - XSS
+  - XSSForums
+  - Z-ALLIANCE
   - 다크웹
   - 딥웹
-  - 신용카드
-  - 카딩
   relme: {}
-  last_post_title: Ransom & Dark Web Issues Week 1, June 2025
-  last_post_description: ASEC Blog publishes Ransom & Dark Web Issues Week 1, June
-    2025                     Germany’s largest automobile manufacturer listed as a
-    new victim of Stormous ransomware. Dark web
-  last_post_date: "2025-06-04T15:00:00Z"
-  last_post_link: https://asec.ahnlab.com/en/88346/
+  last_post_title: Ransom & Dark Web  Issues Week 4, July 2025
+  last_post_description: ASEC Blog publishes Ransom & Dark Web Issues Week 4, July
+    2025             Pro-Russian Hacktivist Group NoName057(16) Launches DDoS Attack
+    on Europol Website Data from French Defense Contractor
+  last_post_date: "2025-07-23T15:00:00Z"
+  last_post_link: https://asec.ahnlab.com/en/89213/
   last_post_categories:
-  - BidenCash
-  - Carding
-  - CreditCard
+  - DarkForums
   - DarkWeb
   - Darkweb
-  - DeepWeb
-  - Germany
-  - Global
-  - GlobalRansomware
+  - DataBreach
+  - Deeweb
+  - DomainSeized
+  - EuroPol
+  - France
+  - NoName05716
+  - Pro-Russian
   - Public
-  - Ransomware
-  - STORMOUSRansomware
-  - Stormous
+  - ServerKillers
+  - ThreatActorArrested
+  - XSS
+  - XSSForums
+  - Z-ALLIANCE
   - 다크웹
   - 딥웹
-  - 신용카드
-  - 카딩
   last_post_language: ""
-  last_post_guid: b4f3c6309dd8318f9604c616b8df8cd1
+  last_post_guid: 341cd5df0337239839ebc14d66b864de
   score_criteria:
     cats: 0
     description: 3

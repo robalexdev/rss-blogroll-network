@@ -6,8 +6,7 @@ params:
   feedlink: https://faunaliagis.wordpress.com/feed/
   feedtype: rss
   feedid: 1da4c4c818433b7ccadc5fbd9c64fd18
-  websites:
-    https://faunaliagis.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

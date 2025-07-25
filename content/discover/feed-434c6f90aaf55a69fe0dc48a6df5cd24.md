@@ -1,13 +1,12 @@
 ---
 title: Log
-date: "2025-05-31T22:11:08Z"
+date: "2025-07-01T02:00:45Z"
 description: pabs
 params:
   feedlink: https://bonedaddy.net/pabs3/log/index.rss
   feedtype: rss
   feedid: 434c6f90aaf55a69fe0dc48a6df5cd24
-  websites:
-    https://bonedaddy.net/pabs3/log/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -18,7 +17,7 @@ params:
   categories:
   - debian
   relme: {}
-  last_post_title: FLOSS Activities May 2025
+  last_post_title: FLOSS Activities June 2025
   last_post_description: |-
     Focus
 
@@ -28,15 +27,17 @@ params:
     Changes
 
 
+    gt:
+    cmake adjustment
     ArchiveBot:
-    link pending page
-    Debian wiki pages
-  last_post_date: "2025-05-31T22:09:00Z"
-  last_post_link: http://bonedaddy.net/pabs3/log/2025/06/01/floss-activities/
+    add ident to done messages
+    archivebot-dashboard-repeater
+  last_post_date: "2025-07-01T01:55:45Z"
+  last_post_link: http://bonedaddy.net/pabs3/log/2025/07/01/floss-activities/
   last_post_categories:
   - debian
   last_post_language: ""
-  last_post_guid: 50c1b23597b560219f999c08931e2364
+  last_post_guid: 7902f2c09005d259813edd8ddc3467ff
   score_criteria:
     cats: 0
     description: 3
@@ -48,8 +49,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,8 +7,7 @@ params:
   feedlink: https://lil.law.harvard.edu/blog/feed/
   feedtype: rss
   feedid: 8531b2faca69ca85aecea8e5dc20f335
-  websites:
-    https://lil.law.harvard.edu/blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Code4Lib
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://vl8r.eu/feed.xml
   feedtype: rss
   feedid: d7d62500cdef9babb8af0217c3fcec5f
-  websites:
-    https://vl8r.eu/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
@@ -36,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

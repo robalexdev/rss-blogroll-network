@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-06-06T00:00:00+02:00"
+date: "2025-07-21T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,16 +19,15 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: MCPs are mostly hype
-  last_post_description: ..but they can also be a lot of fun. If you work in tech,
-    I'd say there's a 98% chance you've heard about it. MCPs are the future of agents,
-    MCPs will be everywhere, MCPs are the future. The Model
-  last_post_date: "2025-06-06T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/mcps-are-mostly-hype.html
+  last_post_title: A Benchmark for language models on European Portuguese
+  last_post_description: A couple of weeks ago in Lisbon, I went to a friend's birthday
+    dinner. In front of …
+  last_post_date: "2025-07-21T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/a-benchmark-for-language-models-on-european-portuguese.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 923825a64da0dcb5dad04c7f2514512d
+  last_post_guid: e83a72ca661fe5f2628e0bb3f953a2dc
   score_criteria:
     cats: 0
     description: 0

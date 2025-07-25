@@ -16,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The XMPP Newsletter May 2025
+  last_post_title: The XMPP Newsletter June 2025
   last_post_description: |-
     XMPP Newsletter Banner
     Welcome to the XMPP Newsletter, great to have you here again!
-    This issue covers the month of May 2025.
+    This issue covers the month of June 2025.
     Like this newsletter, many projects and their efforts in the XMPP
-  last_post_date: "2025-06-10T00:00:00Z"
-  last_post_link: https://xmpp.org/2025/06/the-xmpp-newsletter-may-2025/
+  last_post_date: "2025-07-05T00:00:00Z"
+  last_post_link: https://xmpp.org/2025/07/the-xmpp-newsletter-june-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a19f10bcb7ee7e7fd4157be235bf3bf2
+  last_post_guid: 591979be690e2465a46862bc820be30c
   score_criteria:
     cats: 0
     description: 3

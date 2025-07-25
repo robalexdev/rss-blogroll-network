@@ -11,6 +11,9 @@ params:
     https://www.zachleat.com/web: false
   blogrolls: []
   in_blogrolls:
+  - title: Front-end RSS Feeds
+    description: ""
+    id: 43048a416cd0a7f36812eb48b990257e
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40

@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2025-04-12T14:40:00Z"
+date: "2025-06-29T14:17:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Stevens: a hackable AI assistant using a single SQLite table and
-    a handful of cron jobs'
-  last_post_description: There’s a lot of hype these days around patterns for building
-    with AI. Agents, memory, RAG, assistants—so many buzzwords! But the reality is,
-    you don’t need fancy techniques or libraries to
-  last_post_date: "2025-04-12T14:40:00Z"
-  last_post_link: https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html
+  last_post_title: Is chat a good UI for AI? A Socratic dialogue
+  last_post_description: "The pupil was confused. Some people on Design Twitter said
+    that chat isn’t a good UI for AI… but then chat seemed to be winning in many products?
+    He climbed Mount GPT to consult a wizard…\n\n\U0001F423"
+  last_post_date: "2025-06-29T14:17:00Z"
+  last_post_link: https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f169d59978ffbf3f64b6ec62192262c
+  last_post_guid: 30cf8c2602add907da5af8263ef48808
   score_criteria:
     cats: 0
     description: 0

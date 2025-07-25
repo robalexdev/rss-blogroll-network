@@ -8,8 +8,6 @@ params:
   feedid: 0dba63fe24212f27cfad9fdbe70c05ad
   websites:
     https://ttntm.me/: false
-    https://ttntm.me/blog/: false
-    https://ttntm.me/everything/: false
     https://ttntm.me/hello: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true

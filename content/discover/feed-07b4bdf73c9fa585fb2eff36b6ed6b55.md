@@ -1,13 +1,12 @@
 ---
 title: technicalwriting.dev
-date: "2025-05-15T15:34:40-07:00"
+date: "2025-06-25T16:35:58-07:00"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
   feedtype: rss
   feedid: 07b4bdf73c9fa585fb2eff36b6ed6b55
   websites:
-    https://technicalwriting.dev/: true
     https://technicalwriting.dev/index.html: false
   blogrolls: []
   in_blogrolls:
@@ -18,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Understanding task types in the Gemini Embedding API
+  last_post_title: Docs for AI agents
   last_post_description: |-
-    The models.embedContent method of the Gemini Embedding API supports a
-            taskType parameter. This parameter lets you specify what kind of task the
-            embedding will be used for. Let's try
-  last_post_date: "2025-05-15T15:34:40-07:00"
-  last_post_link: https://technicalwriting.dev/ml/embeddings/tasks/index.html
+    What are docs for AI agents? How are they different than internal eng docs? Do
+            we really have to maintain the agent docs and eng docs as separate docs sets?
+            This page contains my
+  last_post_date: "2025-06-25T16:35:58-07:00"
+  last_post_link: https://technicalwriting.dev/ai/agents/index.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06ecb7e530a366dc9a054a88a8df338f
+  last_post_guid: b427e18b6027fe61de1969cb56902372
   score_criteria:
     cats: 0
     description: 3
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -12,9 +12,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Kev Quirk's Blogroll
     description: ""
     id: af94d85e509bec272bc4314eb947a67d
@@ -26,8 +23,6 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/

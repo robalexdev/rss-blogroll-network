@@ -21,16 +21,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Text is a shadow of thought
-  last_post_description: With more LLM-generated text floating around, and this thoughtful
-    post about dealing with people’s AI-‘writing’ output, I’m noticing something about
-    the point of writing. I assume anyone
-  last_post_date: "2025-05-06T12:36:33Z"
-  last_post_link: https://actsofvolition.com/2025/05/text-is-a-shadow-of-thought/
+  last_post_title: Figma annotations inaccessible for free accounts
+  last_post_description: I learned this week that the Annotations feature in Figma
+    is not accessible for people with free accounts. Instead, you need to have a paid
+    account with Dev Mode access. This is a major hindrance and
+  last_post_date: "2025-07-24T17:28:38Z"
+  last_post_link: https://actsofvolition.com/2025/07/figma-annotations-inaccessible-for-free-accounts/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: b97e149b883cedb168e6cc92fb466624
+  last_post_guid: ebb608a7ee6a75ffc31f2d90a48e7716
   score_criteria:
     cats: 0
     description: 0

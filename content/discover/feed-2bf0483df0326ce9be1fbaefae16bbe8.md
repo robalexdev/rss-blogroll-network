@@ -1,6 +1,6 @@
 ---
 title: (think)
-date: "2025-06-10T05:38:48Z"
+date: "2025-07-19T19:23:42Z"
 description: Bozhidar Batsov's personal blog
 params:
   feedlink: https://batsov.com/feeds/Emacs.xml

@@ -6,8 +6,7 @@ params:
   feedlink: https://mko.re/feed.xml
   feedtype: rss
   feedid: b00fb83dab540f282076e9f941fdeffa
-  websites:
-    https://mko.re/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Jabber
@@ -16,10 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://github.com/remko: true
-    https://mas.to/@remko: true
-    https://mko.re/: true
+  relme: {}
   last_post_title: 'age-plugin-se: Building a lean cross-platform cryptography tool
     (FOSDEM''25 Swift Devroom)'
   last_post_description: In this lightning talk, I show age-plugin-se in action, and
@@ -39,10 +35,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 0
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

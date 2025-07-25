@@ -16,15 +16,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Monitor Synology UPS with Peanut
+  last_post_title: 我关注的项目这周更新了什么-20250725
   last_post_description: |-
-    Introduction
-    My SANTAK TG-BOX 850 UPS has been sitting quietly in the corner without much attention. Today I considered integrating it into Grafana to monitor its status, which led me to discover the
-  last_post_date: "2025-06-06T17:00:00Z"
-  last_post_link: https://www.bboy.app/2025/06/06/monitor-synology-ups-with-peanut/
+    简介
+    每周五更新，所有的更新也会发送到我的频道
+    https://t.me/bboyapp
+    规则
+
+    pre
+  last_post_date: "2025-07-25T09:37:00Z"
+  last_post_link: https://www.bboy.app/2025/07/25/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20250725/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 83678fd18d048d99061fcd40a5b49dc6
+  last_post_guid: e3cc678cd59ee8c2e98d5971499cdbdc
   score_criteria:
     cats: 0
     description: 3

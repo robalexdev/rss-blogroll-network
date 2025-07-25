@@ -1,6 +1,6 @@
 ---
 title: HelloDog
-date: "2024-03-05T16:10:53Z"
+date: "2025-04-03T09:51:56Z"
 description: Keep Calm and Carry On
 params:
   feedlink: https://wsgzao.github.io/atom.xml
@@ -15,16 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 学习 | Study
+  - 生活 | Life
   relme: {}
-  last_post_title: 关于AI的基础知识和第三方AI应用
-  last_post_description: 关于AI的基础知识和第三方AI应用
-  last_post_date: "2025-03-11T09:27:42Z"
-  last_post_link: https://wsgzao.github.io/post/ai/
+  last_post_title: 新加坡女佣申请中国签证
+  last_post_description: 新加坡女佣申请中国签证
+  last_post_date: "2025-06-29T07:20:13Z"
+  last_post_link: https://wsgzao.github.io/post/singapore-maid-china-visa/
   last_post_categories:
-  - 学习 | Study
+  - 生活 | Life
   last_post_language: ""
-  last_post_guid: d08f90d0842c670644c2d4868472ea4a
+  last_post_guid: 764b54cee9130922ab12ac239ccb5f54
   score_criteria:
     cats: 0
     description: 3

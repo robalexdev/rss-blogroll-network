@@ -8,7 +8,6 @@ params:
   feedid: 759cab3e6a0bef1e73768b54cefa8b5d
   websites:
     https://www.winstoncooke.com/: false
-    https://www.winstoncooke.com/blog/: true
     https://www.winstoncooke.com/gallery/trips/: false
     https://www.winstoncooke.com/notes/: false
   blogrolls: []
@@ -19,8 +18,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://www.winstoncooke.com/blog/: true
+  relme: {}
   last_post_title: Accounting for Fixed Assets
   last_post_description: ""
   last_post_date: "2024-12-06T00:00:00Z"
@@ -37,10 +35,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

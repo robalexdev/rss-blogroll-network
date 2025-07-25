@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 5892b6dfe3d07e2288e58ac1bca8badc
   websites:
-    https://gutenbergtimes.com/: true
     https://gutenbergtimes.com/series/gutenberg-changelog/: false
   blogrolls: []
   in_blogrolls:
@@ -22,41 +21,31 @@ params:
   recommender: []
   categories:
   - News
-  - Playground
-  - Updates
-  - Weekend Edition
-  - WordCamp
-  relme:
-    https://gutenbergtimes.com/: true
-    https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Feature API, Playground, Gutenberg 20.9, Interactivity API, #WCUS
-    and moar — Weekend Edition 331'
-  last_post_description: Howdy, This week, I continued to learn about more plugins
-    for the block editor. They might be new to the WordPress repository or just new
-    to me, haha. Also, Playground came up in the last couple of
-  last_post_date: "2025-05-24T09:15:08Z"
-  last_post_link: https://gutenbergtimes.com/feature-api-playground-gutenberg-20-9-interactivity-api-wcus-and-moar-weekend-edition-331/
+  relme: {}
+  last_post_title: AI Building Blocks, WordCamp US, WordPress 6.9 Planning, Block
+    Developer Cookbook—Weekend Edition 334
+  last_post_description: Hi there, It’s good to be back from vacation! Norway is a
+    great country with a rich history, excellent food, great culture, and huge prices.
+    It is absolutely worth it, though. While I was away,
+  last_post_date: "2025-07-19T00:16:00Z"
+  last_post_link: https://gutenbergtimes.com/ai-building-blocks-wordcamp-us-wordpress-6-9-planning-block-developer-cookbook-weekend-edition-334/
   last_post_categories:
   - News
-  - Playground
-  - Updates
-  - Weekend Edition
-  - WordCamp
   last_post_language: ""
-  last_post_guid: 8f662b5d943ba2fe03cbb707bd18d90e
+  last_post_guid: 129d355ae31556e59372509432e8f8ce
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

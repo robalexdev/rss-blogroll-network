@@ -6,8 +6,7 @@ params:
   feedlink: https://janusworx.com/tags/planetpython/index.xml
   feedtype: rss
   feedid: ae646792d9ae2d641fda3bb1f2b7a89a
-  websites:
-    https://janusworx.com/tags/planetpython/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

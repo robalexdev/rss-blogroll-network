@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: d84a98efc20f88eaad28c4974d3ef2b6
   websites:
-    https://pixeljets.com/blog/: true
     https://pixeljets.com/blog/author/anthony/: false
   blogrolls: []
   in_blogrolls:
@@ -19,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Solo, bootstrapped, minimal
-  last_post_description: Okay, so if you're not into building a big startup with investors
-    and splitting equity, you can try going solo and bootstrapped. Will it work for
-    you? I don't know. It works for me, as far as I can
-  last_post_date: "2025-04-14T08:24:12Z"
-  last_post_link: https://pixeljets.com/blog/solo-bootstrapped/
+  last_post_title: 'AI Sandboxes: Daytona vs microsandbox'
+  last_post_description: |-
+    Why AI Products Need Sandboxing
+    Sandboxing has become a core feature of modern AI-powered development tools. As AI coding assistants and autonomous agents become more sophisticated, they generate and
+  last_post_date: "2025-07-14T09:39:36Z"
+  last_post_link: https://pixeljets.com/blog/ai-sandboxes-daytona-vs-microsandbox/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 648446695d2900cec19d8f930250702b
+  last_post_guid: 53ce1a0edb568632787e6d41a114cdff
   score_criteria:
     cats: 0
     description: 3
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

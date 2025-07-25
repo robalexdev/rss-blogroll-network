@@ -19,16 +19,16 @@ params:
   categories:
   - Software
   relme: {}
-  last_post_title: Mapping a PCIe Device to its module on Linux
-  last_post_description: The Kernel docs are a little old. They point to the Device
-    Drivers book, which was great, but quite outdated; it was written around version
-    2.6 and the Kernel is up to 6.15. Here are my notes that go
-  last_post_date: "2025-06-04T16:13:30Z"
-  last_post_link: https://adam.younglogic.com/2025/06/mapping-a-pcie-device-to-its-module-on-linux/
+  last_post_title: Query FreeIPA by manager
+  last_post_description: 'A recent question lead me down a rabbit hole: how can we
+    list the people that report up to George Slate? While we should be able to query
+    this from LDAP, it seems to be shut off. However, using'
+  last_post_date: "2025-07-24T19:23:16Z"
+  last_post_link: https://adam.younglogic.com/2025/07/query-freeipa-by-manager/
   last_post_categories:
   - Software
   last_post_language: ""
-  last_post_guid: 7ec4d4a9f6b04f1217b134f3fcaf817c
+  last_post_guid: f0c3cbcfccc56f4eee1e86ccd15a409c
   score_criteria:
     cats: 0
     description: 3

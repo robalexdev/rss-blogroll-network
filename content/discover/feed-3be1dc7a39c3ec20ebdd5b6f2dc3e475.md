@@ -15,31 +15,32 @@ params:
     id: e1b4718a0340ff1e866dc2d733303081
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - korplug
   relme: {}
-  last_post_title: 'Automating String Decoding in Malware: Analysing StealC V1 with
-    IDAPython'
-  last_post_description: Reverse engineering malware often feels like solving a puzzle
-    where half the pieces are hidden. Among the most common obstacles analysts face
-    is string obfuscation—a technique where malware authors
-  last_post_date: "2025-06-04T12:54:52Z"
-  last_post_link: https://blog.reveng.ai/automating-string-decoding-in-malware-analysing-stealc-v1-with-idapython/
-  last_post_categories: []
+  last_post_title: 'Unmasking KorPlug: A Technical Breakdown'
+  last_post_description: Executive Summary In late May 2025, RevEng.AI identified
+    a new sample of KorPlug (a.k.a Hodur) —a well-known Remote Access Trojan (RAT)
+    frequently leveraged in targeted cyber-espionage
+  last_post_date: "2025-06-24T16:44:11Z"
+  last_post_link: https://blog.reveng.ai/unmasking-korplug-journey-into-a-chinese-cyberattack-part-1-2/
+  last_post_categories:
+  - korplug
   last_post_language: ""
-  last_post_guid: da70c7fffa74a587ad781b642eb199f8
+  last_post_guid: f83f735dd5622a3b8a4fd96e84d0feda
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://pyhelper.wordpress.com/feed/
   feedtype: rss
   feedid: 7b940bdbfaf483776ce456ffc9bfe288
-  websites:
-    https://pyhelper.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

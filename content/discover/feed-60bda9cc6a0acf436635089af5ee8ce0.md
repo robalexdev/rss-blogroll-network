@@ -6,8 +6,7 @@ params:
   feedlink: https://mjg59.dreamwidth.org/data/rss
   feedtype: rss
   feedid: 60bda9cc6a0acf436635089af5ee8ce0
-  websites:
-    https://mjg59.dreamwidth.org/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -21,20 +20,18 @@ params:
   categories:
   - advogato
   - fedora
-  relme:
-    https://mjg59.dreamwidth.org/: true
-    https://nondeterministic.computer/@mjg59: true
-  last_post_title: How Twitter could (somewhat) fix their encrypted DMs
-  last_post_description: As I wrote in my last post, Twitter's new encrypted DM infrastructure
-    is pretty awful. But the amount of work required to make it somewhat better isn't
-    large.When Juicebox is used with HSMs, it
-  last_post_date: "2025-06-05T13:18:48Z"
-  last_post_link: https://mjg59.dreamwidth.org/71933.html
+  relme: {}
+  last_post_title: Why is there no consistent single signon API flow?
+  last_post_description: Single signon is a pretty vital part of modern enterprise
+    security. You have users who need access to a bewildering array of services, and
+    you want to be able to avoid the fallout of one of those
+  last_post_date: "2025-06-24T06:03:07Z"
+  last_post_link: https://mjg59.dreamwidth.org/72688.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: 7db5aba573ab301e5893079e9473557d
+  last_post_guid: 32ac0bab8ef2ef77a49c47d376c013ed
   score_criteria:
     cats: 0
     description: 3
@@ -44,10 +41,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

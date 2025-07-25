@@ -16,23 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Pushover
-  - priority
-  - 折腾不止
-  - 消息优先级
+  - vczh
+  - 爱好
+  - 生活与世界
+  - 转载
   relme: {}
-  last_post_title: Pushover 的五种消息优先级别
-  last_post_description: 在消息推送服务 Pushover 的文档中，介绍了消息共有 5 种不同的优先级别（-2、-1、0、1 与 2）…
-    继续阅读Pushover 的五种消息优先级别
-  last_post_date: "2025-02-25T05:11:58Z"
-  last_post_link: https://dgideas.net/2025/pushover-message-priorities/
+  last_post_title: vczh：做自己热爱的事情
+  last_post_description: 我就是 vczh 口中那个 “中学时花了 100 小时编程” 的孩子。高考后，在物理老师邓华的推荐下，我选择了…
+    继续阅读vczh：做自己热爱的事情
+  last_post_date: "2025-06-25T22:06:42Z"
+  last_post_link: https://dgideas.net/2025/do-what-you-love/
   last_post_categories:
-  - Pushover
-  - priority
-  - 折腾不止
-  - 消息优先级
+  - vczh
+  - 爱好
+  - 生活与世界
+  - 转载
   last_post_language: ""
-  last_post_guid: b4ef2caee538f528cd4d414b18edc1fe
+  last_post_guid: edea90d480b65013a9c6e6d3182efbe9
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Wayne的博客
-date: "2025-05-27T11:57:45Z"
+date: "2025-07-01T07:01:25Z"
 description: 前端
 params:
   feedlink: https://blog.michealwayne.cn/atom.xml
@@ -15,31 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - css
-  - 笔记
+  - js
   relme: {}
-  last_post_title: 【笔记】web 黑夜模式通用适配方案
-  last_post_description: 【笔记】web 黑夜模式通用适配方案
-  last_post_date: "2025-05-27T15:24:17Z"
-  last_post_link: http://blog.michealwayne.cn/2025/04/26/notes/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91web%E9%BB%91%E5%A4%9C%E6%A8%A1%E5%BC%8F%E9%80%82%E9%85%8D/
+  last_post_title: 21st.dev：让AI生成的页面告别"塑料感"的专业解决方案
+  last_post_description: ""
+  last_post_date: "2025-07-01T07:01:25Z"
+  last_post_link: http://blog.michealwayne.cn/2025/06/29/notes/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%9121st.dev-%E9%9D%A2%E5%90%91AI%E5%8F%8B%E5%A5%BD%E7%9A%84%E7%BB%84%E4%BB%B6%E5%BA%93%E5%8F%8A%E9%A1%B5%E9%9D%A2%E6%A8%A1%E7%89%88%E5%BA%93/
   last_post_categories:
-  - css
-  - 笔记
+  - js
   last_post_language: ""
-  last_post_guid: 39f1733d43cbeb57be7e6f66e6d155f2
+  last_post_guid: db6b2878aeb6488f6c5f2d3a02850bef
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

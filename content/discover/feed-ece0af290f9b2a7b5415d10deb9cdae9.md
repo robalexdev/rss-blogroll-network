@@ -6,8 +6,7 @@ params:
   feedlink: https://bornawesome.com/adam/rss.xml
   feedtype: rss
   feedid: ece0af290f9b2a7b5415d10deb9cdae9
-  websites:
-    https://bornawesome.com/adam/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

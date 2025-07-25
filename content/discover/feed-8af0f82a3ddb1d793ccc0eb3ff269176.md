@@ -10,9 +10,6 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
@@ -22,8 +19,6 @@ params:
     id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   - https://feeds.feedburner.com/johnjohnston
   - https://johnjohnston.info/blog/category/wwwd/feed/
   - https://johnjohnston.info/blog/comments/feed/

@@ -22,16 +22,16 @@ params:
     https://code.wildebeest.org/: true
     https://gnu.wildebeest.org/blog/mjw: true
     https://mastodon.nl/@mjw: true
-  last_post_title: Supporting Software Freedom Conservancy in 2025
-  last_post_description: The Software Freedom Conservancy Fundraiser runs for another
-    2 weeks. Please become a Sustainer, renew your existing membership or donate before
-    January 15th to maximize your contribution to
-  last_post_date: "2025-01-01T16:58:48Z"
-  last_post_link: https://gnu.wildebeest.org/blog/mjw/2025/01/01/supporting-software-freedom-conservancy-in-2025/
+  last_post_title: classpath.org domain is back!
+  last_post_description: The classpath.org domain expired a couple of days ago and
+    none of the subdomain, like planet, devel, icedtea resolved. Oops. It has been
+    renewed for at least 5 years now.
+  last_post_date: "2025-07-24T10:17:58Z"
+  last_post_link: https://gnu.wildebeest.org/blog/mjw/2025/07/24/classpath-org-domain-is-back/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: e566c70dc132e3b031926c6a684440a4
+  last_post_guid: 66eafa1eb88d27235e2c3d7ded66bf38
   score_criteria:
     cats: 0
     description: 3

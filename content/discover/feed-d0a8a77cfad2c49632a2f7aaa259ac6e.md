@@ -6,8 +6,7 @@ params:
   feedlink: https://gvsigitalia.wordpress.com/feed/
   feedtype: rss
   feedid: d0a8a77cfad2c49632a2f7aaa259ac6e
-  websites:
-    https://gvsigitalia.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -55,8 +54,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://ral-arturo.org/feed.xml
   feedtype: rss
   feedid: 77a2cc6e6ec03acabe03406fe175ea98
-  websites:
-    https://ral-arturo.org/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -16,10 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://alfabravo.org/: true
-    https://mas.to/@arturobg: true
-    https://ral-arturo.org/: true
+  relme: {}
   last_post_title: 'Wikimedia Cloud VPS: IPv6 support'
   last_post_description: |-
     Dietmar Rabich,
@@ -42,10 +38,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

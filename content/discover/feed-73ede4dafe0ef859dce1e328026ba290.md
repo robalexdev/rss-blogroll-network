@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.jmp.chat/atom.xml
   feedtype: atom
   feedid: 73ede4dafe0ef859dce1e328026ba290
-  websites:
-    https://blog.jmp.chat/blog/view/blog.jmp.chat: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Jabber
@@ -51,8 +50,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: ImperialViolet
-date: "2024-12-26T20:03:09Z"
+date: "2025-06-30T02:52:41Z"
 description: ""
 params:
   feedlink: https://www.imperialviolet.org/iv-rss.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Tour of WebAuthn
+  last_post_title: Continuous Glucose Monitoring
   last_post_description: ""
-  last_post_date: "2024-12-23T00:00:00Z"
-  last_post_link: http://www.imperialviolet.org/2024/12/23/tourofwebauthn.html
+  last_post_date: "2025-06-29T00:00:00Z"
+  last_post_link: http://www.imperialviolet.org/2025/06/29/cgm.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0f768f8ee8b7b4e52227bceb164f700a
+  last_post_guid: 3f3faf33dba84be120c73e0bbf06e7cd
   score_criteria:
     cats: 0
     description: 0

@@ -24,15 +24,15 @@ params:
   relme:
     https://dizzy.zone/: true
     https://github.com/vkuznecovas: true
-  last_post_title: BLAKE2b performance on Apple Silicon
-  last_post_description: For work, I was going to store some hashed tokens in a database.
-    I was going to keep it simple and go with HMAC-SHA256 for it but having recently
-    read Jean-Philippe Aumasson’s book “Serious
-  last_post_date: "2025-03-27T14:02:13+02:00"
-  last_post_link: https://dizzy.zone/2025/03/27/BLAKE2b-performance-on-Apple-Silicon/
+  last_post_title: Malicious Node install script on Google search
+  last_post_description: Sometimes I have to install Node on my machine for work,
+    or a personal project. This occurs rarely, so I keep forgetting how to do it.
+    So I did what I usually do, and Googled how to install nvm. To
+  last_post_date: "2025-07-21T10:00:23+02:00"
+  last_post_link: https://dizzy.zone/2025/07/21/Malicious-Node-install-script-on-Google-search/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0cb6f98edc3f3853b619b071f084c39
+  last_post_guid: 06fd8aa825d3a2afeccd6532bc1d9483
   score_criteria:
     cats: 0
     description: 3

@@ -19,6 +19,8 @@ type Feed struct {
 	FeedType    string
 	IsPodcast   bool
 	IsNoarchive bool
+	PostCount   int
+	AvgPostLen  int
 }
 
 type Post struct {

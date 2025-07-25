@@ -6,8 +6,7 @@ params:
   feedlink: https://labs.twistedmatrix.com/feeds/posts/default
   feedtype: atom
   feedid: 2c8fd957c01d96bf4310c6b7fdbf4bc2
-  websites:
-    https://labs.twistedmatrix.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Twisted
@@ -71,8 +70,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

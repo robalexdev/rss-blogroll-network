@@ -18,16 +18,15 @@ params:
   categories: []
   relme:
     https://hiandrewquinn.github.io/til-site/: true
-  last_post_title: Create multi-stage Anki card answers with HTML's <details> tag
+  last_post_title: You don't need CGO to use SQLite in your Go binary
   last_post_description: |-
-    This works as of, at least, Anki 24.06.3.
-    According to the Mozilla Developer Network,
-    The <details> HTML element creates a disclosure widget in which information is visible only when the widget is
-  last_post_date: "2025-06-07T00:00:00Z"
-  last_post_link: https://hiandrewquinn.github.io/til-site/posts/create-multi-stage-anki-card-answers-with-html-s-details-tag/
+    At least not for most use cases. You can just use modernc.org/sqlite instead as your SQLite driver.
+    For people who aren’t in the Go know, “pure” Go programs are trivially easy to compile cross
+  last_post_date: "2025-07-18T00:00:00Z"
+  last_post_link: https://hiandrewquinn.github.io/til-site/posts/you-don-t-need-cgo-to-use-sqlite-in-your-go-binary/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26a64faead88b3aca6ba43762bbf1275
+  last_post_guid: e1a810c8fa4742486df31e993781a4b0
   score_criteria:
     cats: 0
     description: 3

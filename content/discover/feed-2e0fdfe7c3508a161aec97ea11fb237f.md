@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 2e0fdfe7c3508a161aec97ea11fb237f
   websites:
-    https://dylanbeattie.net/: true
     https://dylanbeattie.net/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -18,20 +17,16 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://dylanbeattie.net/: true
-    https://github.com/dylanbeattie: true
-    https://hachyderm.io/@dylanbeattie: true
-  last_post_title: On The Fungibility of Trains
-  last_post_description: |-
-    When’s a train not a train?
-
-    I’m on my way from Antwerp to Budapest, via Amsterdam Schipol airport, on the delightfully fast and comfortable service that’s now called Eurostar but is still
-  last_post_date: "2025-05-28T14:03:00Z"
-  last_post_link: https://dylanbeattie.net/2025/05/28/on-the-fungibility-of-trains.html
+  relme: {}
+  last_post_title: The Subtle Art Of Deprecating API Endpoints
+  last_post_description: I had an app fail in production the other day. Not seriously
+    - only affected a couple of admin screens - but it failed because Hubspot had
+    deprecated some of their API endpoints. (That’s nerd speak
+  last_post_date: "2025-07-16T13:46:00Z"
+  last_post_link: https://dylanbeattie.net/2025/07/16/the-subtle-art-of-deprecating-api-endpoints.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3e0a5915cbe90f8bbb685e88ebecc0b
+  last_post_guid: 9a5ac6744daa4a555a8c5885cbc82502
   score_criteria:
     cats: 0
     description: 3
@@ -41,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

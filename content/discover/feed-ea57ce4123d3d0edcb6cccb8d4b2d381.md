@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.halon.org.uk/feed/
   feedtype: rss
   feedid: ea57ce4123d3d0edcb6cccb8d4b2d381
-  websites:
-    https://blog.halon.org.uk/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -43,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

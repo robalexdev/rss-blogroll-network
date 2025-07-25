@@ -10,15 +10,15 @@ params:
     https://www.paritybit.ca/: false
   blogrolls: []
   in_blogrolls:
+  - title: Bacardi55's blogroll
+    description: ""
+    id: 5b6826cc65a55cfb580130b47ec7a162
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Take on Rules Public Blogroll
-    description: ""
-    id: 661f7c3d693616149785e81936cf96e2
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
@@ -29,9 +29,6 @@ params:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
   last_post_title: An Update About This Very Webbed Site

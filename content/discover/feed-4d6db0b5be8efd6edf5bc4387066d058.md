@@ -1,13 +1,12 @@
 ---
 title: pages tagged python-planet
-date: "2025-06-01T10:22:59-04:00"
+date: "2025-06-13T10:40:55-04:00"
 description: anarcat
 params:
   feedlink: https://anarc.at/tag/python-planet/index.rss
   feedtype: rss
   feedid: 4d6db0b5be8efd6edf5bc4387066d058
-  websites:
-    https://anarc.at/tag/python-planet/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -56,8 +55,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

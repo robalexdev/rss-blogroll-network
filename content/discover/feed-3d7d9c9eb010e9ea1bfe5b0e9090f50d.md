@@ -1,6 +1,6 @@
 ---
 title: Muxup
-date: "2025-05-12T12:00:00Z"
+date: "2025-06-23T12:00:00Z"
 description: Adventures in collaborative open source development
 params:
   feedlink: https://muxup.com/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: suite-helper
+  last_post_title: Vendor-recommended LLM parameter quick reference
   last_post_description: ""
-  last_post_date: "2025-05-12T12:00:00Z"
-  last_post_link: https://muxup.com/suite-helper
+  last_post_date: "2025-06-23T12:00:00Z"
+  last_post_link: https://muxup.com/2025q2/recommended-llm-parameter-quick-reference
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 177c6896e73a059eb047a0a597baf84f
+  last_post_guid: 8ca5e601c3b8cfaf972d58da5928627a
   score_criteria:
     cats: 0
     description: 3

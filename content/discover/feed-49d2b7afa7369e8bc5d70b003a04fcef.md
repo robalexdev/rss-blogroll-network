@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-06-09T16:50:27Z"
+date: "2025-07-02T01:33:08Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -8,7 +8,6 @@ params:
   feedid: 49d2b7afa7369e8bc5d70b003a04fcef
   websites:
     https://dotat.at/: false
-    https://dotat.at/@/blog.html: true
     https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
@@ -18,15 +17,14 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://dotat.at/@/blog.html: true
-  last_post_title: performance of random floats
+  relme: {}
+  last_post_title: clamp / median / range
   last_post_description: ""
-  last_post_date: "2025-06-09T16:50:27Z"
-  last_post_link: https://dotat.at/@/2025-06-08-floats.html
+  last_post_date: "2025-07-02T01:33:08Z"
+  last_post_link: https://dotat.at/@/2025-07-02-cmp.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ac0e013d345ea4e2f49d2d6179a110a2
+  last_post_guid: 6744c9b3f923d96ffc7849da912bc3ef
   score_criteria:
     cats: 0
     description: 0
@@ -36,10 +34,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

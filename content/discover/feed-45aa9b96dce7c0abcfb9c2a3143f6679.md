@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Illuminating Transparent Tribe with Validin
-  last_post_description: In this post, I’ll highlight how to use comprehensive passive
-    DNS and host response history, assisted with public reporting of threat groups,
-    to identify unreported infrastructure potentially
-  last_post_date: "2025-06-02T00:00:00Z"
-  last_post_link: https://www.validin.com/blog/illuminating_transparent_tribe/
+  last_post_title: Substantial Upgrades to Crawling History, Artifact Collection
+  last_post_description: At Validin, we believe cybersecurity threat intelligence
+    teams, including threat hunters, analysts, and researchers, deserve every edge
+    against continuously evolving adversaries.
+  last_post_date: "2025-07-22T00:00:00Z"
+  last_post_link: https://www.validin.com/blog/crawl_history_artifact_upgrade/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5a5d7df66d49afa9aaa8daf5b334bfba
+  last_post_guid: 6c139ca80b4f449b9eeb495991216470
   score_criteria:
     cats: 0
     description: 3

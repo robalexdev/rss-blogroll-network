@@ -7,8 +7,7 @@ params:
   feedlink: https://python-groups.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: fcffa37ea4d89d94c4a41c22cdff622c
-  websites:
-    https://python-groups.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -87,12 +86,7 @@ params:
   - qt
   - são paulo
   - vienna
-  relme:
-    https://draft.blogger.com/profile/14683745915943062235: true
-    https://python-advocacy.blogspot.com/: true
-    https://python-groups.blogspot.com/: true
-    https://whatcomesafterus.blogspot.com/: true
-    https://www.blogger.com/profile/14683745915943062235: true
+  relme: {}
   last_post_title: PyUGAT - future events
   last_post_description: ""
   last_post_date: "2013-08-25T14:07:41-04:00"
@@ -109,10 +103,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 26
+    website: 0
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://vincent.bernat.ch/fr/blog/atom.xml
   feedtype: atom
   feedid: 3de8a62adebb9666aa0a9e876a124d6c
-  websites:
-    https://vincent.bernat.ch/fr: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian French
@@ -16,8 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://vincent.bernat.ch/fr: true
+  relme: {}
   last_post_title: PKI hors ligne avec 3 YubiKeys et une carte ARM
   last_post_description: ""
   last_post_date: "2025-03-17T08:12:54Z"
@@ -34,10 +32,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

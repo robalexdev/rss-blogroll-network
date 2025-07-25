@@ -15,30 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Debian
   - English
   - Free Software
-  - Ubuntu
-  - competition
-  - operating systems
-  - vendors
+  - Linux kernel
+  - Python
   relme: {}
-  last_post_title: Consumerists Never Really Learn
-  last_post_description: Via an article about a Free Software initiative hoping to
-    capitalise on the discontinuation of Microsoft Windows 10, I saw that the consumerists
-    at Which? had published their own advice. Predictably,
-  last_post_date: "2025-05-15T14:25:27Z"
-  last_post_link: https://blogs.fsfe.org/pboddie/?p=2985
+  last_post_title: On a tale of two pull requests
+  last_post_description: I was going to leave a comment on “A tale of two pull requests”,
+    but would need to authenticate myself via one of the West Coast behemoths. So,
+    for the benefit of readers of the FSFE Community
+  last_post_date: "2025-06-15T15:38:36Z"
+  last_post_link: https://blogs.fsfe.org/pboddie/?p=2997
   last_post_categories:
-  - Debian
   - English
   - Free Software
-  - Ubuntu
-  - competition
-  - operating systems
-  - vendors
+  - Linux kernel
+  - Python
   last_post_language: ""
-  last_post_guid: ccca0322e9ce8bb707d0d710a3c1ff07
+  last_post_guid: d841a7760559e6be54d9b10380c50c75
   score_criteria:
     cats: 0
     description: 3

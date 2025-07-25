@@ -6,8 +6,7 @@ params:
   feedlink: https://apfelmus.nfshost.com/rss.xml
   feedtype: rss
   feedid: d28ac86a8a36b5a52fb8981d16fcbddd
-  websites:
-    https://apfelmus.nfshost.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Haskell
@@ -45,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

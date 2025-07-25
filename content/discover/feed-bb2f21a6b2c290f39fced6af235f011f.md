@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Hendrix College Programming Contest 2025
-  last_post_description: "Posted on March 13, 2025\n  \n  \n  \n  Tagged competitive
-    programming, Hendrix, programming, contest, HCPC, Kattis\n  \n\n\n\nI haven’t
-    written on here in a while, mostly because a lot of my time\nhas gone"
-  last_post_date: "2025-03-13T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2025/03/13/HCPC25.html
+  last_post_title: 'Competitive programming in Haskell: sparse tables'
+  last_post_description: "Posted on July 18, 2025\n  \n  \n  \n  Tagged monoid, semigroup,
+    idempotent, range, query, sum, sparse, table, Haskell, competitive programming\n
+    \ \n\n\n\nContinuing a series of\nposts\non techniques for"
+  last_post_date: "2025-07-18T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2025/07/18/sparse-table.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b93ba5b4603f63205efc48b64479324c
+  last_post_guid: 56f7b4ffd7660ea049610c0218d80324
   score_criteria:
     cats: 0
     description: 3

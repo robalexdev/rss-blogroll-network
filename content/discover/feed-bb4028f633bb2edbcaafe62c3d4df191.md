@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-06-10T04:18:16Z"
+date: "2025-06-24T17:39:00Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -21,7 +21,7 @@ params:
   last_post_description: 'Editor’s note (Nicole Yunger Halpern): Jade LeSchack, the
     Quantum Steampunk Laboratory’s first undergraduate, received her bachelor’s degree
     from the University of Maryland this spring. Kermit'
-  last_post_date: "2025-06-10T04:18:16Z"
+  last_post_date: "2025-06-24T17:39:00Z"
   last_post_link: https://quantumfrontiers.com/2025/06/09/congratulations-class-of-2025-words-from-a-new-graduate/
   last_post_categories:
   - Uncategorized

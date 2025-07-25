@@ -11,46 +11,44 @@ params:
     https://chriswiegman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: ""
+  - title: Bacardi55's blogroll
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
+    id: 5b6826cc65a55cfb580130b47ec7a162
   recommended: []
-  recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  recommender: []
   categories:
-  - Personal
-  - Social Media
+  - Productivity
+  - Technical
+  - Tools
   relme:
     https://chriswiegman.com/: true
     https://github.com/ChrisWiegman: true
-    https://gram.social/chriswiegman: true
     https://mastodon.chriswiegman.com/@chris: true
-  last_post_title: Rejoining the World
+  last_post_title: Relearning How To Work
   last_post_description: |-
-    I’ve been off of social media for a bit now. It’s been a much needed break from the world.
-    There are services, however, that I really do value. Services where I care about the people and the
-  last_post_date: "2025-04-02T00:00:00Z"
-  last_post_link: https://chriswiegman.com/2025/04/rejoining-the-world/
+    This week I’m relearning how to work.
+    My company is implementing significant new restrictions and policies on our machine and, as a result, I find that the way I would normally work, using
+  last_post_date: "2025-06-11T00:00:00Z"
+  last_post_link: https://chriswiegman.com/2025/06/relearning-how-to-work/
   last_post_categories:
-  - Personal
-  - Social Media
+  - Productivity
+  - Technical
+  - Tools
   last_post_language: ""
-  last_post_guid: b6336528b59704e18d6306e1a6f28f82
+  last_post_guid: 00a4d7471f158902cd7c7b4bff1ccf2d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

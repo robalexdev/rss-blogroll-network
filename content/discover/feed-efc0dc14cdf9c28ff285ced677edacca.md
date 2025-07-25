@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Full Skope
+  - Platform, Products, & Services
   relme: {}
-  last_post_title: 'Cyber Frontlines: Insights from DSEI Japan 2025'
-  last_post_description: Modern conflict is no longer dominated solely by tanks, ships,
-    and fighter jets. The nature of warfare itself has transformed dramatically. Today,
-    battles are increasingly fought—and won—in
-  last_post_date: "2025-06-11T17:35:42Z"
-  last_post_link: https://www.netskope.com/blog/cyber-frontlines-insights-from-dsei-japan-2025
+  last_post_title: How Netskope’s Log Streaming Supercharges Your SOC
+  last_post_description: |-
+    The post How Netskope’s Log Streaming Supercharges Your SOC appeared first on Netskope.
+    What is Netskope Log Streaming and Why Now? In today’s cloud-first world, security teams need real-time,
+  last_post_date: "2025-07-24T18:23:54Z"
+  last_post_link: https://www.netskope.com/blog/how-netskopes-log-streaming-supercharges-your-soc
   last_post_categories:
-  - Full Skope
+  - Platform, Products, & Services
   last_post_language: ""
-  last_post_guid: b620e97320133922cb24c5386ad41f89
+  last_post_guid: 1713b2c1d87473b19f9f7d308cc11b4d
   score_criteria:
     cats: 0
     description: 0

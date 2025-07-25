@@ -27,14 +27,6 @@ params:
     id: 4f9c05f836dbd67951ea4fd0d091fcca
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   - https://kandr3s.co/.rss
   categories: []
   relme:

@@ -6,8 +6,7 @@ params:
   feedlink: https://debianstuff.dittberner.info/rss.xml
   feedtype: rss
   feedid: 12c0aa7aefb22ee2c8ce00c40a97238d
-  websites:
-    https://debianstuff.dittberner.info/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -44,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

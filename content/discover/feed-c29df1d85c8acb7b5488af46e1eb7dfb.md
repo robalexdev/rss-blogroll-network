@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: UK and allies expose Russian intelligence campaign targeting western
-    logistics and technology organisations
-  last_post_description: Organisations urged to familiarise themselves with the threat
-    and take immediate action to protect themselves.
-  last_post_date: "2025-05-22T15:23:34Z"
-  last_post_link: https://www.ncsc.gov.uk/news/uk-partners-expose-russian-intelligence-campaign
+  last_post_title: Active exploitation of vulnerability affecting Microsoft Office
+    SharePoint Server products in the UK
+  last_post_description: The NCSC is encouraging UK organisations to take immediate
+    action to mitigate a vulnerability (CVE-2025-53770) affecting Microsoft SharePoint
+    Server products.
+  last_post_date: "2025-07-22T08:44:33Z"
+  last_post_link: https://www.ncsc.gov.uk/news/active-exploitation-of-vulnerability-affecting-microsoft-office-sharepoint-server-products-in-the-uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5521d32048dc0242a41f34ddaab139e4
+  last_post_guid: 9d33fda18023203ec1112e9a13576969
   score_criteria:
     cats: 0
     description: 3

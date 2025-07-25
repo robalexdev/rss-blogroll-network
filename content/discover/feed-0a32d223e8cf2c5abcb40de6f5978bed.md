@@ -1,6 +1,6 @@
 ---
 title: Paranoid Android
-date: "2025-05-13T00:00:00Z"
+date: "2025-07-20T00:00:00Z"
 description: ""
 params:
   feedlink: https://amatriz.net/feed.xml
@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Compiling U-boot mainline for RK3399Pro (Radxa Rock Pi N10)
+  last_post_title: LLMs Are Still in Their Infancy, or Why Programmers Aren’t Being
+    Replaced Anytime Soon
   last_post_description: ""
-  last_post_date: "2025-05-13T00:00:00Z"
-  last_post_link: http://amatriz.net//posts/compiling-u-boot-mainline-for-rk3399pro-(radxa-rock-pi-n10)/
+  last_post_date: "2025-07-20T00:00:00Z"
+  last_post_link: http://amatriz.net//posts/llms-are-still-in-their-infancy-or-why-programmers-aren&
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cade34f1bbc77e4e6d21124c69d4bb3d
+  last_post_guid: 0195cc6b7509ecd1d20514b8c64c907d
   score_criteria:
     cats: 0
     description: 0

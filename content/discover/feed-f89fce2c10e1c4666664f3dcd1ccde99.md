@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-06-06T04:53:48Z"
+date: "2025-06-25T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: luasmith gets link-checking and improved Atom feeds
-  last_post_description: Feature creep has set in for my ~270 KB static site generator,
-    luasmith.
-  last_post_date: "2025-06-01T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/static-site-generators/extending-luasmith.html
+  last_post_title: Syntax highlighting for 150 languages in < 200 KB
+  last_post_description: It's not bloat if I actually use it, right?
+  last_post_date: "2025-06-25T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/static-site-generators/luasmith-syntax-highlighting.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cc65d8e92f0e4db7a2bcf1b0385d812d
+  last_post_guid: cb0a1f570828a42683d6718ac7f6304c
   score_criteria:
     cats: 0
     description: 0

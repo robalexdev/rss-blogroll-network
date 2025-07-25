@@ -1,6 +1,6 @@
 ---
 title: itm4n's blog
-date: "2025-06-11T17:34:35+02:00"
+date: "2025-06-15T18:24:19+02:00"
 description: A blog about pentesting with a focus on Windows security research.
 params:
   feedlink: https://itm4n.github.io/feed.xml
@@ -15,19 +15,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Privilege Escalation
+  - Research
   relme: {}
-  last_post_title: Hijacking the Windows "MareBackup" Scheduled Task for Privilege
-    Escalation
-  last_post_description: The built-in “MareBackup” scheduled task is susceptible to
-    a trivial executable search order hijacking, which can be abused by a low-privileged
-    user to gain SYSTEM privileges whenever a
-  last_post_date: "2025-06-11T13:52:09+02:00"
-  last_post_link: https://itm4n.github.io/hijacking-the-windows-marebackup-scheduled-task-for-privilege-escalation/
+  last_post_title: Offline Extraction of Symantec Account Connectivity Credentials
+    (ACCs)
+  last_post_description: In the previous post, I highlighted some of the changes made
+    in the Symantec Management Agent, and showed how it affected the retrieval of
+    the Account Connectivity Credentials (ACCs), based on
+  last_post_date: "2025-06-15T00:00:00+02:00"
+  last_post_link: https://itm4n.github.io/offline-extraction-of-symantec-account-connectivity-credentials/
   last_post_categories:
-  - Privilege Escalation
+  - Research
   last_post_language: ""
-  last_post_guid: 389793a463a24aeb3a4719fa45e6539b
+  last_post_guid: 63e87ff2dd1d2fca8b61fcf1ccd8368a
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: 清竹志-(原清竹茶馆)
-date: "2025-04-16T02:30:21Z"
+date: "2025-07-08T16:00:21Z"
 description: 博客-vadxq
 params:
   feedlink: https://blog.vadxq.com/atom.xml
@@ -16,20 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cursor
-  - Newsletter
-  - lenny
+  - Nuxtjs
+  - Vercel
+  - Vue
   relme: {}
-  last_post_title: Newsletter逆天福利：三种方式获取全年免费 AI/SaaS 工具包（含团体购买兑换防坑指南）
-  last_post_description: 最近，Lenny Rachitsky 的 Lenny’s
-  last_post_date: "2025-04-16T02:30:21Z"
-  last_post_link: https://blog.vadxq.com/article/lenny-newsletter-buy-tips/
+  last_post_title: Vercel收购NuxtLabs，我和尤雨溪一样心情复杂
+  last_post_description: 2025年7月8日，前端领域迎来一次重磅整合：以托管和优化Next.js闻名的Vercel公司，宣布收购Nuxt
+  last_post_date: "2025-07-08T16:00:21Z"
+  last_post_link: https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/
   last_post_categories:
-  - Cursor
-  - Newsletter
-  - lenny
+  - Nuxtjs
+  - Vercel
+  - Vue
   last_post_language: ""
-  last_post_guid: f7e735b530e8df2e0cf2dd2fc48cb3cd
+  last_post_guid: 5aee922df2458818924d98097f64ec27
   score_criteria:
     cats: 0
     description: 3

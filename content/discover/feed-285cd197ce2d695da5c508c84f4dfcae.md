@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NPM Supply Chain Attack Compromises 16 Popular React Native and
-    GlueStack Packages (Campaign)
-  last_post_description: A threat actor compromised 16 highly popular React Native
-    and GlueStack packages, collectively downloaded over a million times weekly. The
-    attackers inserted a stealthy backdoor into these packages
-  last_post_date: "2025-06-07T00:00:00Z"
-  last_post_link: https://threats.wiz.io/all-incidents/npm-supply-chain-attack-compromises-16-popular-react-native-and-gluestack-packages
+  last_post_title: Soco404 Cryptomining Campaign Exploits PostgreSQL and Cloud Misconfigurations
+    (Campaign)
+  last_post_description: Wiz Research has uncovered an ongoing, sophisticated cryptomining
+    campaign dubbed Soco404, which targets both Linux and Windows systems in cloud
+    environments. The campaign exploits exposed PostgreSQL
+  last_post_date: "2025-07-23T00:00:00Z"
+  last_post_link: https://threats.wiz.io/all-incidents/soco404-cryptomining-campaign-exploits-postgresql-and-cloud-misconfigurations
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2ec39d4d01f9d4b815b6522253f8d51e
+  last_post_guid: 9bec40aa6a446507b77fb4d176fc8776
   score_criteria:
     cats: 0
     description: 3

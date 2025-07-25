@@ -6,8 +6,7 @@ params:
   feedlink: https://leovan.me/cn/index.xml
   feedtype: rss
   feedid: 3cd063e24e9e27cdd78bf8e6d24fb2d1
-  websites:
-    https://leovan.me/cn/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -17,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 在 OpenWrt 和群晖中自动申请和部署证书
-  last_post_description: 为了在本地局域网环境中摆脱 IP 用上域名（纯属闲来无事瞎鼓捣），购入了 leovan.dev
-  last_post_date: "2025-05-25T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2025/05/auto-apply-and-deploy-certificate-on-openwrt-and-synology/
+  last_post_title: 使用控制层和指示控制图片的生成
+  last_post_description: "本节将介绍如何使用控制层和指示来精确控制图片的生成。\n\n\n\n\n  \n   Bilibili\n  \n
+    \  YouTube\n      \n    \n  \n\n "
+  last_post_date: "2025-06-07T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2025/06/invoke-101-using-control-layers-and-reference-guides/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ff7b90dd84a20ab33fe68d27dccbc3f2
+  last_post_guid: 05cf902855a63509715f7bc3f58367d5
   score_criteria:
     cats: 0
     description: 3
@@ -35,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

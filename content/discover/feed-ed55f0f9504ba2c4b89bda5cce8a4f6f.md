@@ -17,16 +17,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why Developer Tools?
+  last_post_title: When Red Buttons Aren't Enough
   last_post_description: |-
-    I had the realization a year or so ago that much of the high-impact work I’ve
-    done in my career has been related – directly or indirectly – to building
-    developer tooling. I did not plan this,
-  last_post_date: "2025-04-08T00:00:00-08:00"
-  last_post_link: https://benjamincongdon.me/blog/2025/04/08/Why-Developer-Tools/
+    On June 12, 2025, most of GCP went offline. This led to downstream outages in a
+    multitude of websites and services, such as
+    Cloudflare,
+    Spotify,
+    OpenAI, Anthropic, Replit, and many others.
+    With a few
+  last_post_date: "2025-06-16T00:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2025/06/16/When-Red-Buttons-Arent-Enough/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7b13804e897e5694df4c64f537ddc8bf
+  last_post_guid: 05591edce85b5f169709d86c1398c5af
   score_criteria:
     cats: 0
     description: 3

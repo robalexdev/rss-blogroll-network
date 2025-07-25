@@ -22,9 +22,7 @@ params:
   - python
   relme: {}
   last_post_title: Create Lightweight Agentic AI Tools
-  last_post_description: Learn how to create a hybrid agent workflow that uses LLMs
-    to perform actions on your behalf with guard railsContinue reading on DataDrivenInvestor
-    »
+  last_post_description: ""
   last_post_date: "2025-01-22T03:55:16Z"
   last_post_link: https://medium.datadriveninvestor.com/create-lightweight-agentic-ai-tools-99a65bd2caa5?source=rss-c39d46e3d1c6------2
   last_post_categories:

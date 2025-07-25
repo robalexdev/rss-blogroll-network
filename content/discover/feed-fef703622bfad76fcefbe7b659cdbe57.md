@@ -18,31 +18,19 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 7c57874819a3b666310d14cda337b41d
-  - title: ""
-    description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Feeds for cssjoy webri.ng
+    description: ""
+    id: 56fb5d46572d863c78edd7bd5bd25295
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
   categories:
   - general
   - via-instagram

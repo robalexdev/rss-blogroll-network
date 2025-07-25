@@ -6,8 +6,7 @@ params:
   feedlink: https://datasciencefacile.altervista.org/feed/
   feedtype: rss
   feedid: de33841b6c038acc50547ca0fcccaae6
-  websites:
-    https://datasciencefacile.altervista.org/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -16,23 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
+  - BIG DATA
   - KNIME
-  - blog
-  - clustering
-  - dbscan
+  - healtcare
   relme: {}
-  last_post_title: 650 (seicentocinquanta)
-  last_post_description: Il blog di KNIME 650 è il numero di articoli pubblicati,
-    dal 2014 ad oggi, al link www.knime.com/blog, che corrisponde alla pagina del
-  last_post_date: "2024-10-05T21:20:29Z"
-  last_post_link: https://datasciencefacile.altervista.org/2024/10/05/650-seicentocinquanta/
+  last_post_title: 'KNIME Data Connect: Italia – June 11, 2025'
+  last_post_description: Al link sottostante Ã¨ disponibile il video del mio intervento,
+    in collaborazione col Dott. Gaspare Ventimiglia, della APSS di Trento, su una
+    applicazione
+  last_post_date: "2025-06-14T19:46:39Z"
+  last_post_link: https://datasciencefacile.altervista.org/2025/06/14/knime-data-connect-italia-june-11-2025/
   last_post_categories:
+  - BIG DATA
   - KNIME
-  - blog
-  - clustering
-  - dbscan
+  - healtcare
   last_post_language: ""
-  last_post_guid: d1fa47d04d5d9462ced61b948bbbafa9
+  last_post_guid: c65a30696cfbe8340439e5686fc1751d
   score_criteria:
     cats: 0
     description: 3
@@ -44,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

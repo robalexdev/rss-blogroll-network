@@ -1,6 +1,6 @@
 ---
 title: j3s.sh
-date: "2025-01-01T00:00:00Z"
+date: "2025-06-04T00:00:00Z"
 description: ""
 params:
   feedlink: https://j3s.sh/feed.atom
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: blogs rot. wikis wait.
+  last_post_title: it took a big cup
   last_post_description: ""
-  last_post_date: "2025-01-01T00:00:00Z"
-  last_post_link: https://j3s.sh/thought/blogs-rot-wikis-wait.html
+  last_post_date: "2025-06-04T00:00:00Z"
+  last_post_link: https://j3s.sh/thought/it-took-a-big-cup.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11345c71007a5f84347285a64070f85f
+  last_post_guid: 21a157aba66138a05d2153f10a8262e0
   score_criteria:
     cats: 0
     description: 0

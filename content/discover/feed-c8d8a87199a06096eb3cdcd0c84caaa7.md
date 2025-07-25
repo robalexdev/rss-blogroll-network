@@ -1,6 +1,6 @@
 ---
 title: Arthur Diniz
-date: "2025-05-29T23:47:33Z"
+date: "2025-07-17T11:33:04Z"
 description: Arthur's site.
 params:
   feedlink: https://arthurbdiniz.com/feed.xml

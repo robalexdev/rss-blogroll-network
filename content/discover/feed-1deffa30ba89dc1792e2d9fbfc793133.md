@@ -6,8 +6,7 @@ params:
   feedlink: https://pyinsci.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 1deffa30ba89dc1792e2d9fbfc793133
-  websites:
-    https://pyinsci.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planeta PythonBrasil
@@ -68,12 +67,7 @@ params:
   - python
   - science
   - simulations
-  relme:
-    https://computoergosum.blogspot.com/: true
-    https://emap-fgv.blogspot.com/: true
-    https://gripenetbrasil.blogspot.com/: true
-    https://pyinsci.blogspot.com/: true
-    https://www.blogger.com/profile/02885581033966597420: true
+  relme: {}
   last_post_title: Curso de introdução a criptomoedas - Aula 01
   last_post_description: For the Portuguese speaking readers of this blog, I am starting
     an Introductory course on Cryptocurrencies and applications on the blockchain
@@ -92,10 +86,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 23
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

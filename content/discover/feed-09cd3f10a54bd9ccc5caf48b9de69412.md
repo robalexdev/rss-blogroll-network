@@ -25,9 +25,6 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
-  - title: The Art Of Not Asking Why - Blogroll
-    description: ""
-    id: e79d34746977a283ee12bf2f27dfee7a
   - title: Ruben Arakelyan's blogroll
     description: ""
     id: a45e294b0f7393dbe42e1b017580e161
@@ -80,9 +77,6 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
-  - https://taonaw.com/categories/emacs-org-mode/feed.xml
-  - https://taonaw.com/feed.xml
-  - https://taonaw.com/podcast.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
   - '#hivemind,'

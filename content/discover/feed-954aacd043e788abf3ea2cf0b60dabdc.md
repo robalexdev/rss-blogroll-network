@@ -6,8 +6,7 @@ params:
   feedlink: https://pbpython.com/feeds/all.atom.xml
   feedtype: atom
   feedid: 954aacd043e788abf3ea2cf0b60dabdc
-  websites:
-    https://pbpython.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -44,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 0
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -16,16 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Desktops
+  - Hardware
   relme: {}
-  last_post_title: 'Ghostty in review: how''s the new terminal emulator?'
-  last_post_description: Survey says, pretty good.
-  last_post_date: "2025-06-11T14:23:24Z"
-  last_post_link: https://thelibre.news/ghostty-in-review-hows-the-new-terminal-emulator/
+  last_post_title: What if your laptop had a FOSS firmware?
+  last_post_description: Statistically, your computer's firmware is proprietary. However,
+    Libreboot is an interesting, if niche, option to boostrap a computer with free
+    and libre code only.
+  last_post_date: "2025-07-15T10:16:25Z"
+  last_post_link: https://thelibre.news/what-if-your-laptop-had-a-foss-firmware/
   last_post_categories:
-  - Desktops
+  - Hardware
   last_post_language: ""
-  last_post_guid: c39acb25ec98099187a51408ac329115
+  last_post_guid: a48fa51bce34d71683d810e643160e5f
   score_criteria:
     cats: 0
     description: 3

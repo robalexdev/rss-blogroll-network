@@ -1,6 +1,6 @@
 ---
 title: Yi's Blog
-date: "2025-06-10T17:53:11-07:00"
+date: "2025-07-04T16:25:25-07:00"
 description: ""
 params:
   feedlink: https://wangyi.ai/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Working on Moonshot Projects
+  last_post_title: 《纳瓦尔宝典》推荐阅读
   last_post_description: ""
-  last_post_date: "2025-06-10T10:55:00-07:00"
-  last_post_link: https://wangyi.ai/blog/2025/06/10/why-moonshot-projects/
+  last_post_date: "2025-07-04T15:00:00-07:00"
+  last_post_link: https://wangyi.ai/blog/2025/07/04/na-wa-er-bao-dian-tui-jian-yue-du/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cbc347cc6684e768f51d27c853f3d5b9
+  last_post_guid: 6603cf6da0ee858d19281e5a548f2824
   score_criteria:
     cats: 0
     description: 0

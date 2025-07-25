@@ -16,31 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - News
+  - Real science
+  - Theoretical highlights
   relme: {}
-  last_post_title: Congratulations, class of 2025! Words from a new graduate
-  last_post_description: 'Editor’s note (Nicole Yunger Halpern): Jade LeSchack, the
-    Quantum Steampunk Laboratory’s first undergraduate, received her bachelor’s degree
-    from the University of Maryland this spring. Kermit'
-  last_post_date: "2025-06-10T04:18:16Z"
-  last_post_link: https://quantumfrontiers.com/2025/06/09/congratulations-class-of-2025-words-from-a-new-graduate/
+  last_post_title: 'A (quantum) complex legacy: Part trois'
+  last_post_description: 'When I worked in Cambridge, Massachusetts, a friend reported
+    that MIT’s postdoc association had asked its members how it could improve their
+    lives. The friend confided his suggestion to me: throw'
+  last_post_date: "2025-06-23T00:01:30Z"
+  last_post_link: https://quantumfrontiers.com/2025/06/22/a-quantum-complex-legacy-part-trois/
   last_post_categories:
-  - Uncategorized
+  - News
+  - Real science
+  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: 88806cd6614fa9994080fbb63230b689
+  last_post_guid: 84fdda4f47841e0503ea16e331cc2ed7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

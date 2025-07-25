@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My data, any app
-  last_post_description: Interesting post from Jim Nielsen about interoperable apps,
-    although I’m not sure that’s the right term. When I first saw the title and screenshot
-    I thought it would be a post about apps which
-  last_post_date: "2025-04-15T10:02:41+01:00"
-  last_post_link: https://philbowell.me/2025/04/15/my-data-any-app.html
+  last_post_title: Smart home hopes
+  last_post_description: It had been a long day. The drive back from the office hadn’t
+    been smooth sailing, traffic was heavy with a sudden downpour only serving to
+    compound the issue. Disconnecting his phone from his car
+  last_post_date: "2025-07-16T17:37:46+01:00"
+  last_post_link: https://philbowell.me/2025/07/16/smart-home-hopes.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39eb7c7d9af208daf521646473e7c8a7
+  last_post_guid: 54d58f7a79618890b18224c3eb6f31fc
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,6 @@ params:
   feedtype: atom
   feedid: 22f7b2ed2cef5103cc0eafd712b0c102
   websites:
-    https://davehunt.co.uk/: true
     https://davehunt.uk/: false
   blogrolls: []
   in_blogrolls:
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,7 @@ params:
     description: Tom's homepage. A personal website, journal and playground.
     id: 10420918feef664f327101723c6ac281
   - title: Filippo Valsorda
-    description: Filippo Valsorda
+    description: ""
     id: 13fa1dbc7c4db6c364433da06e1896ec
   - title: Colin Walker - Daily Feed
     description: Daily feed from colinwalker.blog

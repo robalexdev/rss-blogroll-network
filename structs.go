@@ -95,6 +95,8 @@ type FeedInfoParams struct {
 	IsNoarchive        bool            `yaml:"isnoarchive"`
 	InNetwork          bool            `yaml:"innetwork"`
 	Language           string          `yaml:"language"`
+	PostCount          int             `yaml:"postcount"`
+	AvgPostLen         int             `yaml:"avgpostlen"`
 }
 
 func NewFeedInfo(row Feed) *FeedInfo {
@@ -107,6 +109,8 @@ func NewFeedInfo(row Feed) *FeedInfo {
 		ScoreCriteria: map[string]int{},
 		IsPodcast:     row.IsPodcast,
 		IsNoarchive:   row.IsNoarchive,
+		PostCount:     row.PostCount,
+		AvgPostLen:    row.AvgPostLen,
 	}
 	f := FeedInfo{
 		Title:       row.Title,

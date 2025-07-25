@@ -17,30 +17,39 @@ params:
   recommender: []
   categories:
   - "2025"
-  - li'fe
+  - drm
+  - media
+  - web
   relme: {}
-  last_post_title: 我回忆的2008
-  last_post_description: 前些天是 512，汶川大地震距今已经17
-  last_post_date: "2025-05-19T08:20:04Z"
-  last_post_link: https://www.jackpu.com/wo-hui-yi-de-2008/
+  last_post_title: DRM Widevine L1 在 Android  Webview 的支持情况
+  last_post_description: |-
+    最近在开发中遇到了 Android TV 无法通过 L1 的检测。代码检测如下：
+    async function checkWidevineL1Support() {
+        const keySystem = 'com.widevine.alpha';
+
+        // Robustness
+  last_post_date: "2025-07-20T03:27:00Z"
+  last_post_link: https://www.jackpu.com/drm-widevine-l1-zai-android-webview-de-zhi-chi-qing-kuang/
   last_post_categories:
   - "2025"
-  - li'fe
+  - drm
+  - media
+  - web
   last_post_language: ""
-  last_post_guid: 2f62b58258dcdaf75c5b2dadca3dd800
+  last_post_guid: 08364e1404020be637e8c1050f1e6a8d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

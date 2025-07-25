@@ -15,17 +15,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Blog
+  - Research (Insikt)
   relme: {}
-  last_post_title: 'Langflow: CVE-2025-3248: Active Exploitation'
-  last_post_description: Learn about CVE-2025-3248 affecting Langflow. Patch now to
-    prevent remote code execution.
-  last_post_date: "2025-05-23T00:00:00Z"
-  last_post_link: https://www.recordedfuture.com/blog/langflow-cve-2025-3248
+  last_post_title: Submarine Cables Face Increasing Threats Amid Geopolitical Tensions
+    and Limited Repair Capacity
+  last_post_description: Explore the rising threats to global submarine cable networks
+    amid escalating geopolitical tensions, sabotage incidents, and limited repair
+    capacity. Discover essential resilience strategies and risk
+  last_post_date: "2025-07-17T00:00:00Z"
+  last_post_link: https://www.recordedfuture.com/research/submarine-cables-face-increasing-threats
   last_post_categories:
-  - Blog
+  - Research (Insikt)
   last_post_language: ""
-  last_post_guid: bc5faf22dd343403124dcbf105b609e8
+  last_post_guid: f1b30a10394eb37e3901f76220e18a2d
   score_criteria:
     cats: 0
     description: 3

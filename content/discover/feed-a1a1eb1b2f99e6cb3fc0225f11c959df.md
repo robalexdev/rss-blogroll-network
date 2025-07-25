@@ -17,16 +17,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Lenovo ThinkCentre M900 Tiny: how does it fare as a home server?'
+  last_post_title: 'PSA: part of your Kagi subscription fee goes to a Russian company
+    (Yandex)'
   last_post_description: |-
-    My evenings of absent-minded local auction site scrolling1 paid off: I now own
-    a Lenovo ThinkCentre M900 Tiny.
-    It’s relatively old, being manufactured in 20162, but it’s tiny and has a lot of
-  last_post_date: "2025-06-06T11:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2025/06/06/thinkcentre-m900-tiny/
+    Today I learned that Kagi uses Yandex as part of its search
+    infrastructure, making up about 2% of their
+    costs, and their CEO has confirmed that they do not plan to change that.
+    To quote:
+
+    Yandex
+  last_post_date: "2025-07-17T21:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2025/07/17/kagi/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5f43249213d7b0bf41432a701d901fb9
+  last_post_guid: 2ec4dfe57da12c8c82825ab2619f50f3
   score_criteria:
     cats: 0
     description: 3

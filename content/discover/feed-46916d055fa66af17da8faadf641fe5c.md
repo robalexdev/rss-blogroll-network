@@ -1,6 +1,6 @@
 ---
 title: reproducible-builds.org
-date: "2025-06-09T15:40:32Z"
+date: "2025-07-24T18:43:21Z"
 description: Reproducible builds blog
 params:
   feedlink: https://reproducible-builds.org/blog/index.rss
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reproducible Builds in May 2025
-  last_post_description: Welcome to our 5th report from the Reproducible Builds project
-    in 2025! Our monthly reports outline what we’ve been up to over the past month,
+  last_post_title: Reproducible Builds in June 2025
+  last_post_description: Welcome to the 6th report from the Reproducible Builds project
+    in 2025. Our monthly reports outline what we’ve been up to over the past month,
     and highlight items of news from elsewhere in the
-  last_post_date: "2025-06-06T21:17:00Z"
-  last_post_link: https://reproducible-builds.org/reports/2025-05/
+  last_post_date: "2025-07-12T16:08:13Z"
+  last_post_link: https://reproducible-builds.org/reports/2025-06/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d17dcc039bdf682157df628f6ef1dc78
+  last_post_guid: da0cf408465539fbbd032e40dd419f9b
   score_criteria:
     cats: 0
     description: 3

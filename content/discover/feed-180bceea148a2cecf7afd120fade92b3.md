@@ -11,6 +11,9 @@ params:
     https://home.hedy.dev/posts/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bacardi55's blogroll
+    description: ""
+    id: 5b6826cc65a55cfb580130b47ec7a162
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c
@@ -19,8 +22,6 @@ params:
     id: 56fb5d46572d863c78edd7bd5bd25295
   recommended: []
   recommender:
-  - https://ttntm.me/blog/feed.xml
-  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []

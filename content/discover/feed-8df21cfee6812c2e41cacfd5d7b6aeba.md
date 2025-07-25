@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Next Evolutionary Step
-  last_post_description: The recent releases of Claude Code and OpenAI Codex caught
-    my attention, but not for the reasons you might expect. I was puzzled by the enthusiasm
-    they’ve generated. These are, after all, terminal
-  last_post_date: "2025-05-09T00:00:00+12:00"
-  last_post_link: http://annievella.com/posts/the-next-evolutionary-step/
+  last_post_title: The Heart of Software Engineering Still Beats
+  last_post_description: 'A few weeks ago, I had a conversation that’s stayed with
+    me. A colleague from another department said: “I’ve always been able to read and
+    understand code, even debug it, but I could never write'
+  last_post_date: "2025-06-27T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/the-heart-of-software-engineering-still-beats/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37949b911b9d3f92709f938aa726d03c
+  last_post_guid: cad581d39966c1ac5ae91838bb37f094
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Real Self-Energy
-date: "2025-05-11T19:55:35+02:00"
+date: "2025-07-23T16:27:15+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/6243811779557775819/posts/default
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Choose France for Science
+  last_post_title: Entangled colliders
   last_post_description: ""
-  last_post_date: "2025-05-11T19:55:35+02:00"
-  last_post_link: https://realselfenergy.blogspot.com/2025/05/choose-france-for-science.html
+  last_post_date: "2025-07-23T16:27:14+02:00"
+  last_post_link: https://realselfenergy.blogspot.com/2025/07/entangled-colliders.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3d26ad633524398f0355c7d200268c87
+  last_post_guid: 8656ef1659148445184ad42ce6b107b1
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-06-03T17:58:31Z"
+date: "2025-07-09T14:16:27Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -10,37 +10,24 @@ params:
     https://anniemueller.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: The Art Of Not Asking Why - Blogroll
-    description: ""
-    id: e79d34746977a283ee12bf2f27dfee7a
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
-  - https://taonaw.com/categories/emacs-org-mode/feed.xml
-  - https://taonaw.com/feed.xml
-  - https://taonaw.com/podcast.xml
+  recommender: []
   categories: []
   relme:
     https://annie.omg.lol/: true
     https://anniemueller.com/: true
     https://github.com/anniemueller: true
     https://social.lol/@annie: true
-  last_post_title: A neutral stance is for weightlifting, not for human rights
-  last_post_description: ““The opposite of love is not hate, it’s indifference. The
-    opposite of art is not ugliness, it’s indifference. The opposite of faith is not
-    heresy, it’s indifference. And the opposite...
-  last_post_date: "2025-06-10T15:07:12Z"
-  last_post_link: https://anniemueller.com/posts/a-neutral-stance-is-for-weightlifting-not-for-human-rights
+  last_post_title: Small webbing along, update 1
+  last_post_description: A week notes addendum with an actual update, maybe.
+  last_post_date: "2025-07-09T14:52:21Z"
+  last_post_link: https://anniemueller.com/posts/small-webbing-along-update-1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 447039c0670d77e50c5225d81075b587
+  last_post_guid: fd7cf778d00e72c2fc953878f846e3ca
   score_criteria:
     cats: 0
     description: 0

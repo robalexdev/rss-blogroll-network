@@ -6,8 +6,7 @@ params:
   feedlink: https://janiversen.wordpress.com/feed/
   feedtype: rss
   feedid: 93b98c0992ffe9e8b3f1a1da6424dffc
-  websites:
-    https://janiversen.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: The Document Foundation Planet
@@ -41,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://cyrusyip.org/zh-cn/index.xml
   feedtype: rss
   feedid: 3b07fcf125eec1cfb209a8de3d97f408
-  websites:
-    https://cyrusyip.org/zh-cn/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -17,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 从看蔡徐坤的迷因到听蔡徐坤的歌
+  last_post_title: 赌气跟随超车的惊魂时刻
   last_post_description: !!binary |
-    56ys5LiA5qyh55+l6YGT6JSh5b6Q5Z2k77yM5piv5Zug5Li65LuW55qE6L+35Zug77yI5q
-    KX77yJ5aSq54Gr54iG5LqG77yM5Zyo572R5LiK57uP5bi455yL5Yiw44CM6bih5L2g5aSq
-    576OMeOAjeWSjOOAjOiUoeW+kOWdpOaJk+evrueQg+OAjeeahOi/t+WboOinhumikeOAgu
-    aIkei/mOaMuueIseeci+iUoeW+kOWdpOeahOi/t+WboO+8jOWTiOWTiOM=
-  last_post_date: "2025-06-04T00:00:00+08:00"
-  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/06/04/caixukun-meme-to-music/
+    5byA6L2m5Yiw5Y2B5a2X6Lev5Y+j77yM5oiR5bem6L2s5LiK5Z2h5pe277yM5pyJ6L6G5L
+    qU6I+x5Y+z6L2s5oyo552A5oiR5ZeW55qE5LiA5LiL5LiK5Z2h5LqG44CC5piO5piO5oiR
+    5bem6L2s5pyJ5LyY5YWI5p2D77yM5rCU5b6X5oiR5rex6Lip5rK56Zeo6Lef5LiK5Y6777
+    yM5YeG5aSH55So6L+c5YWJ54Gv5ZKM5ZaH5Y+t6K2m5ZGK5LqU6I+x5Y8=
+  last_post_date: "2025-06-29T00:00:00+08:00"
+  last_post_link: https://cyrusyip.org/zh-cn/posts/2025/06/29/road-rage-overtaking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e31a0d65b9961096e2a05fb6f2ca3d19
+  last_post_guid: 16bf1edfed45bafbe3cae34e5c50957f
   score_criteria:
     cats: 0
     description: 3
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

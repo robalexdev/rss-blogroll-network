@@ -1,8 +1,8 @@
 ---
 title: Ankur Sethi
 date: "1970-01-01T00:00:00Z"
-description: Personal blog and website of Ankur Sethi, a writer and frontend developer
-  from Bangalore.
+description: Personal blog and website of Ankur Sethi, writer and independent frontend
+  developer living in Bangalore, India.
 params:
   feedlink: https://ankursethi.com/feeds/index.xml
   feedtype: rss
@@ -18,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Social media is a threat to my psychological sovereignty
-  last_post_description: Social media violates my psychological sovereignty, strips
-    me of my freedom to direct my attention mindfully, and forces me to engage with
-    information I do not want to engage with.
-  last_post_date: "2025-06-11T16:48:30Z"
-  last_post_link: https://ankursethi.com/blog/social-media-is-a-threat-to-my-psychological-sovereignty/
+  last_post_title: Writing without a plan
+  last_post_description: My mind is capable of making surprising connections in the
+    moment if I allow it to react to the work I'm doing rather than follow a script
+    I've written beforehand.
+  last_post_date: "2025-07-19T07:32:47Z"
+  last_post_link: https://ankursethi.com/blog/writing-without-a-plan/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66e3b96a88c74d6e99ac3b5e34a1adf2
+  last_post_guid: ecf0b425ca35a6e27e93425707233cce
   score_criteria:
     cats: 0
     description: 3

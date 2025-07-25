@@ -6,8 +6,7 @@ params:
   feedlink: https://www.djangoproject.com/rss/weblog/
   feedtype: rss
   feedid: 3ceeedaca97549f0c38548e0c40d8c1c
-  websites:
-    https://www.djangoproject.com/weblog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -16,21 +15,16 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://www.djangoproject.com/weblog/: true
-  last_post_title: 'Django bugfix releases issued: 5.2.3, 5.1.11, and 4.2.23'
-  last_post_description: |-
-    Following the June 4, 2025 security release, the Django team is issuing
-    releases for
-    Django 5.2.3,
-    Django 5.1.11, and
-    Django 4.2.23 to
-    complete mitigation for CVE-2025-48432: Potential log injection
-  last_post_date: "2025-06-10T03:06:32-05:00"
-  last_post_link: https://www.djangoproject.com/weblog/2025/jun/10/bugfix-releases/
+  relme: {}
+  last_post_title: Happy 20th birthday Django!
+  last_post_description: On July 13th 2005, Jacob Kaplan-Moss made the first commit
+    to the public repository that would become Django. Twenty years and 400+ releases
+    later, here we are – Happy 20th birthday Django!
+  last_post_date: "2025-07-13T05:02:18-05:00"
+  last_post_link: https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb8034afe876a64d77c2bd5c8df7e08a
+  last_post_guid: a554c780ff0b2b0c6573e4c0adcf1e41
   score_criteria:
     cats: 0
     description: 3
@@ -40,10 +34,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

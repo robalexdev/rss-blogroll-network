@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: efed734c9e58a4573ad7e40e72a9fffa
   websites:
-    https://jodischneider.com/blog: true
     https://jodischneider.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -52,8 +51,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

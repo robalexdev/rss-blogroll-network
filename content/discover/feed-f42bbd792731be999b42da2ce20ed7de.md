@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: f42bbd792731be999b42da2ce20ed7de
   websites:
-    https://www.april.org/: true
     https://www.april.org/citations: false
     https://www.april.org/communiques: false
     https://www.april.org/event: false
@@ -23,38 +22,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Libre à vous !
-  - Promotion
-  - Sensibilisation
-  - Stand
+  - Article de presse
+  - Le Logiciel Libre
   relme: {}
-  last_post_title: L'April présente avec un stand aux Assises francophones de l'Art
-    Libre mercredi 9 juillet à Neuchâtel
-  last_post_description: "Start: 9 Juillet 2025 - 13:30End: 9 Juillet 2025 - 17:30
-    \       \n\n\n\nLes premières Assises francophones de l’Art libre, organisées
-    par PVH éditions, auront lieu mercredi 9 et jeudi 10 juillet à"
-  last_post_date: "2025-06-11T13:14:44Z"
-  last_post_link: https://www.april.org/l-april-presente-avec-un-stand-aux-assises-francophones-de-l-art-libre-mercredi-9-juillet-a-neuchate
+  last_post_title: Revue de presse de l’April pour la semaine 28 de l’année 2025
+  last_post_description: "✍ Antony Derbes,\n                  le samedi 12 juillet\n
+    \                 2025.\n                    \n                      À l’heure
+    où la transformation numérique\n                      est un"
+  last_post_date: "2025-07-14T10:57:12Z"
+  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-28-de-l-annee-2025
   last_post_categories:
-  - Libre à vous !
-  - Promotion
-  - Sensibilisation
-  - Stand
+  - Article de presse
+  - Le Logiciel Libre
   last_post_language: ""
-  last_post_guid: 4eb60a0ecf1d7a5e696267dcf563016a
+  last_post_guid: 8d6b3a5b649950a8d752fbb188c344b5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

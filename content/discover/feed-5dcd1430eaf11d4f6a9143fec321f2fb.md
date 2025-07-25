@@ -17,7 +17,7 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: CloudFlare+SaaS回源优选IP加速大陆用户访问
+  last_post_title: Cloudflare+SaaS回源优选IP加速大陆用户访问
   last_post_description: 网站套了cloudflare的cdn后，从大陆访问会变慢，通过cloudfare的saas回退源配置和优选ip，可以提升大陆的访问速度准备工作需要2个域名，一个为你需要加速
   last_post_date: "2025-05-26T21:08:00+08:00"
   last_post_link: https://www.mihu.live/archives/475/

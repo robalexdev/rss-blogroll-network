@@ -6,8 +6,7 @@ params:
   feedlink: https://mariatta.ca/tags/python/index.xml
   feedtype: rss
   feedid: 4eaaf9f5bca382e0fffdc3012a278496
-  websites:
-    https://mariatta.ca/tags/python/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

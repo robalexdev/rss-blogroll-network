@@ -6,8 +6,7 @@ params:
   feedlink: https://dev.to/feed/jody
   feedtype: rss
   feedid: 099dbcf149bed37ff6819cedf13c802a
-  websites:
-    https://dev.to/jody: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Pete
-date: "2025-05-15T18:10:47Z"
+date: "2025-06-12T09:39:29Z"
 description: Software Developer living in Kassel, Germany
 params:
   feedlink: https://petesprojects.net/feed.xml
@@ -16,24 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Raspberry
-  - kiosk
-  - systemd
-  - website
+  - Devops
+  - culture
+  - flow
+  - opinion
   relme: {}
-  last_post_title: How to turn a Raspberry pi into a website kiosk
-  last_post_description: I recently had the need to display a website on a spare monitor.
-    The challenge was that I needed to show the website in full screen and the whole
-    setup should persist even after a reboot of the
-  last_post_date: "2025-03-27T00:00:00Z"
-  last_post_link: https://peader.github.io//2025/03/27/Raspi-Kiosk-Mode.html
+  last_post_title: Devops Culture!
+  last_post_description: Foreword I have worked in software development for over 10
+    years and in that time have always been drawn towards devops related tasks. It
+    is only in the last 2 years that I’ve held the title
+  last_post_date: "2025-06-12T00:00:00Z"
+  last_post_link: https://peader.github.io//2025/06/12/Devops-Culture.html
   last_post_categories:
-  - Raspberry
-  - kiosk
-  - systemd
-  - website
+  - Devops
+  - culture
+  - flow
+  - opinion
   last_post_language: ""
-  last_post_guid: 3b8b90191a4006d5cd3bbf5b28bcced2
+  last_post_guid: 2c3ac1cba930a4d2e3b94f1b3dc4294d
   score_criteria:
     cats: 0
     description: 3

@@ -6,8 +6,7 @@ params:
   feedlink: https://profanity-im.github.io/blog/index.xml
   feedtype: rss
   feedid: 2dcb4f74521d3408eaafd36bedcb4dd9
-  websites:
-    https://profanity-im.github.io/blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Jabber
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

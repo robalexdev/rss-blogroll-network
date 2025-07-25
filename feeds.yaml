@@ -119,6 +119,10 @@ feed_urls:
   - https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
   - https://raw.githubusercontent.com/ssnkhan/adversarial-threat-modelling/refs/heads/master/CTI-DFIR-Feeds.opml
   - https://raw.githubusercontent.com/timqian/chinese-independent-blogs/refs/heads/master/feed.opml
+  - https://raw.githubusercontent.com/peterc/engblogs/refs/heads/master/engblogs.opml
+  - https://raw.githubusercontent.com/Ranchero-Software/NetNewsWire/refs/heads/main/Shared/Importers/DefaultFeeds.opml
+  - https://raw.githubusercontent.com/geekplux/share/refs/heads/main/RSS_subscriptions.opml
+  - https://raw.githubusercontent.com/impressivewebs/frontend-feeds/refs/heads/master/frontend-feeds.opml
 
   # theplanetarium
   - https://davorg.theplanetarium.org/opml.xml
@@ -133,6 +137,10 @@ feed_urls:
   # sghatpande.eu
   - https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Blogs.opml
   - https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Cryptography.opml
+
+  # Other personal
+  - https://rknight.me/blog/roll/opml.xml
+  - https://bacardi55.io/files/blogs.opml
 
   # Watch here for more:
   # - https://github.com/ArchiveTeam/urls-sources

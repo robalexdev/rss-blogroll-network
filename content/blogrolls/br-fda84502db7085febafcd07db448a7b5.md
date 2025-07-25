@@ -25,7 +25,7 @@ params:
     description: Latest posts and notes from my blog
     id: 09cd3f10a54bd9ccc5caf48b9de69412
   - title: Filippo Valsorda
-    description: Filippo Valsorda
+    description: ""
     id: 13fa1dbc7c4db6c364433da06e1896ec
   - title: Jan-Lukas Else
     description: Thoughts of an IT expert
@@ -69,8 +69,8 @@ params:
     description: PaulStamatiou.com - Technology, Design and Photography
     id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
-    description: Currently writing about my travel nostalgia, my comeback to blogging
-      and my experiences as a software user.
+    description: Currently writing about my travel nostalgia, critical thoughts towards
+      AI and how I'm establishing a healthier relationship to my phone.
     id: 5cd3085a60f3bae159ce042035a1e3de
   - title: Ben Borgers
     description: Ben Borgers’ personal website.

@@ -17,9 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
-    https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
-    https://github.com/zamansky: true
   last_post_title: CSTA 2025 7 - the good, the bad, and the Cleveland
   last_post_description: |-
     First off, great overall conference. I personally would have liked to

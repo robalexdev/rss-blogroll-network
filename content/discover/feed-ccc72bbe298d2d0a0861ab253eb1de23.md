@@ -20,15 +20,15 @@ params:
     https://github.com/angristan: true
     https://mstdn.io/@angristan: true
     https://stanislas.blog/: true
-  last_post_title: Moving my personal infrastructure to Kubernetes (single-node k3s)
-  last_post_description: |-
-    I recently moved my personal infrastructure from a few VMs managed by Ansible to a single-node Kubernetes cluster. I will cover the hardware part in the next post. First, let me explain why k8s.
-    How
-  last_post_date: "2025-04-20T14:55:03Z"
-  last_post_link: https://stanislas.blog/2025/04/moving-to-k8s/
+  last_post_title: Doing my cloud exit (kind of)
+  last_post_description: In a previous post, I shared how I migrated my personal infrastructure
+    to Kubernetes. That transition also involved a shift in underlying hardware. In
+    this post, I’ll explain why I ultimately
+  last_post_date: "2025-06-13T21:34:45Z"
+  last_post_link: https://stanislas.blog/2025/06/cloud-exit/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3f3f7af62fb8b8c6a951f76fb4bf8970
+  last_post_guid: 66599889a2556eb9b0c5e9f42e97ab3a
   score_criteria:
     cats: 0
     description: 3

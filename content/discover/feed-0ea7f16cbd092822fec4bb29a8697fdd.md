@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2025-04-17T00:00:00Z"
+date: "2025-06-28T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Throwing iterators in Fir
-  last_post_description: |-
-    Recently I’ve been working on extending Fir’s Iterator trait to allow iterators to throw exceptions.
-    It took a few months of work, because we needed multiple parameter traits for it to work,
-  last_post_date: "2025-04-17T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2025-04-17-throwing-iterators-fir.html
+  last_post_title: Why I'm excited about effect systems
+  last_post_description: Imagine a programming language where you can have full control
+    over whether and how functions, modules, or libraries interact with shared resources
+    like the scheduler for threading, the file system
+  last_post_date: "2025-06-28T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2025-06-28-why-effects.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd995b204ab00e7353a99938862b664d
+  last_post_guid: 69dc69d56e877a6ea0e262d8f9ad52ee
   score_criteria:
     cats: 0
     description: 0

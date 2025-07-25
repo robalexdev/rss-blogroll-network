@@ -15,22 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Engagement
+  - Events
+  - Languages & Cultures
   - Mozilla L10n team
   - Planet
   - Pontoon
   relme: {}
-  last_post_title: 'Lost (and Found) in Translation: My Internship Story'
-  last_post_description: If you were to ask my parents or sister what my favourite
-    hobby was as a child, they’d say something along the lines of “sitting in front
-    of our family … Read more
-  last_post_date: "2025-04-28T18:08:20Z"
-  last_post_link: https://blog.mozilla.org/l10n/2025/04/28/lost-and-found-in-translation-my-internship-story/
+  last_post_title: 'Reconnecting in Berlin: A Celebration of Mozilla’s Localization
+    Community'
+  last_post_description: Something we’ve long known at Mozilla is that our localization
+    community thrives on personal connections. For years, regional meetups brought
+    volunteers and staff together multiple times a year —
+  last_post_date: "2025-06-26T05:24:29Z"
+  last_post_link: https://blog.mozilla.org/l10n/2025/06/26/reconnecting-in-berlin-a-celebration-of-mozillas-localization-community/
   last_post_categories:
+  - Engagement
+  - Events
+  - Languages & Cultures
   - Mozilla L10n team
   - Planet
   - Pontoon
   last_post_language: ""
-  last_post_guid: 9f30b7435b21c3bc6416b53b3ce75866
+  last_post_guid: 64ea8ca933bec1cf88106ac3f1b8aaac
   score_criteria:
     cats: 0
     description: 3

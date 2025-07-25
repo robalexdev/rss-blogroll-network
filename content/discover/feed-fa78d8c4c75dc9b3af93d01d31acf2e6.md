@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Emacs Note Taking & Journaling using org-gnosis [Video]
-  last_post_description: Video overview about org-gnosis
-  last_post_date: "2025-03-03T00:00:00Z"
-  last_post_link: https://thanosapollo.org/posts/org-gnosis-overview/
+  last_post_title: Emacs Everywhere, even in Wayland
+  last_post_description: How to use Emacs for input in any scenario in Wayland
+  last_post_date: "2025-07-19T00:00:00Z"
+  last_post_link: https://thanosapollo.org/posts/use-emacs-everywhere/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 32b8732316544a1b157241703826e21d
+  last_post_guid: ba462dcbc5570225531c1afb21090739
   score_criteria:
     cats: 0
     description: 3

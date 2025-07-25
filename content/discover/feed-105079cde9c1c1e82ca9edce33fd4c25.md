@@ -1,6 +1,6 @@
 ---
 title: Domenic Denicola
-date: "2025-05-18T00:00:00Z"
+date: "2025-07-15T00:00:00Z"
 description: Domenic Denicola's website
 params:
   feedlink: https://domenic.me/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Spaced Repetition Systems Have Gotten Way Better
+  last_post_title: My Participation in the METR AI Productivity Study
   last_post_description: ""
-  last_post_date: "2025-05-18T00:00:00Z"
-  last_post_link: https://domenic.me/fsrs/
+  last_post_date: "2025-07-15T00:00:00Z"
+  last_post_link: https://domenic.me/metr-ai-productivity/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 17a49b02a99a92949ac9b0bf7ef5b8fa
+  last_post_guid: f858b0d1eec8dd2902794c89f78c075c
   score_criteria:
     cats: 0
     description: 3

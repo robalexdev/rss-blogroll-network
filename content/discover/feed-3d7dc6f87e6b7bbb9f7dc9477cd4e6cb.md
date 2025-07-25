@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2025-04-30T00:49:10Z"
+date: "2025-06-20T19:54:35Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -17,27 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Crystal Chariot: a poem for the moment'
+  last_post_title: The Little Learner and hotel room hacking
   last_post_description: |-
-    Held apart
-    across a crystal divide
-    A chariot holding me
-    made of glass
-
-    I should be so lucky
-    as to ride inside this thing
-
-    I can see
-    but I cannot touch
-    I can travel
-    and I cannot go home
-
-    How long
-  last_post_date: "2025-04-27T05:53:00Z"
-  last_post_link: https://dustycloud.org/blog/crystal-chariot-a-poem-for-the-moment/
+    Right now I'm reading The Little Learner.
+    Like how The Little Schemer
+    introduces fundamental concepts of how computing and programming languages work,
+    and The Reasoned Schemer
+    teaches logic
+  last_post_date: "2025-06-20T19:23:00Z"
+  last_post_link: https://dustycloud.org/blog/the-little-learner-and-hotel-room-hacking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7e7f3a7e3b21dd5402c26cdafed37b85
+  last_post_guid: e7f382c99e478dfce45c975529a81e10
   score_criteria:
     cats: 0
     description: 3

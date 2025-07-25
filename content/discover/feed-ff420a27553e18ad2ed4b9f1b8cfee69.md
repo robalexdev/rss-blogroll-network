@@ -6,8 +6,7 @@ params:
   feedlink: https://freerangelibrarian.com/feed/
   feedtype: rss
   feedid: ff420a27553e18ad2ed4b9f1b8cfee69
-  websites:
-    https://freerangelibrarian.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Code4Lib
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

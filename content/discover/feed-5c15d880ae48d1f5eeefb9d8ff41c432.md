@@ -1,6 +1,6 @@
 ---
 title: Techiediaries
-date: "2025-05-06T00:24:21Z"
+date: "2025-07-24T13:31:29Z"
 description: Techiediaries is a website dedicated to bring you tutorials and articles
   about the latest software and web technologies.
 params:
@@ -18,16 +18,16 @@ params:
   categories:
   - Python
   relme: {}
-  last_post_title: 'The Full Python Cheatsheet: From Basics to Data Science'
-  last_post_description: To help beginners and professionals alike, we are sharing
-    a comprehensive Python cheatsheet that covers everything from the basic syntax
-    to powerful data science libraries. Bookmark it, print it,
-  last_post_date: "2025-05-03T00:00:00Z"
-  last_post_link: https://www.techiediaries.com/python-cheatsheet/
+  last_post_title: Python Roadmap with Free Courses/Certifcates to High-Paying Jobs
+  last_post_description: This article serves as a focused investment of your time.
+    We’ll walk you through five free, targeted certifications, each crafted to prepare
+    you for a specific role that ranks among the highest
+  last_post_date: "2025-07-24T00:00:00Z"
+  last_post_link: https://www.techiediaries.com/python-high-paying-certifs/
   last_post_categories:
   - Python
   last_post_language: ""
-  last_post_guid: 9c8bf6b65f3c9c263887deac26b2441c
+  last_post_guid: f481ec8f295fe2d720e97e1c99c20b67
   score_criteria:
     cats: 1
     description: 3

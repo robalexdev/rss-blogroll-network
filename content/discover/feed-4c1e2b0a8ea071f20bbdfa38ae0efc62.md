@@ -1,6 +1,6 @@
 ---
 title: 'SANS Internet Storm Center, InfoCON: green'
-date: "2025-06-11T05:53:08Z"
+date: "2025-07-25T04:54:48Z"
 description: SANS Internet Storm Center - Cooperative Cyber Security Monitor
 params:
   feedlink: https://isc.sans.edu/rssfeed_full.xml
@@ -20,8 +20,8 @@ params:
     https://infosec.exchange/@sans_isc: true
     https://isc.sans.edu/: true
   last_post_title: 'Infocon: green'
-  last_post_description: Quasar RAT Delivered Through Bat Files
-  last_post_date: "2025-06-11T23:20:05Z"
+  last_post_description: Sinkholing Suspicious Scripts or Executables on Linux
+  last_post_date: "2025-07-25T05:55:04Z"
   last_post_link: https://isc.sans.edu/diary.html?rss
   last_post_categories: []
   last_post_language: ""

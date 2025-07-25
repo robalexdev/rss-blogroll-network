@@ -15,21 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - NVIDIA AI Enterprise
-  - canonical kubernetes
+  - Community
+  - Linux Foundation
+  - Open Infrastructure
+  - OpenStack
   relme: {}
-  last_post_title: Canonical delivers Kubernetes platform and open-source security
-    with NVIDIA Enterprise AI Factory validated design
-  last_post_description: Reference architectures speed up time to market for agentic
-    AI projects To ease the path of enterprise AI adoption and accelerate the conversion
-    of AI insights into business value, NVIDIA recently
-  last_post_date: "2025-06-11T11:04:48Z"
-  last_post_link: https://ubuntu.com//blog/canonical-delivers-kubernetes-platform-and-open-source-security-with-nvidia-enterprise-ai-factory-validated-design
+  last_post_title: The Linux Foundation and OpenStack – a new chapter for cloud-native
+    infrastructure
+  last_post_description: 'Effective July 23rd, 2025 the Open Infrastructure Foundation
+    (OIF) has officially joined one of the world’s largest and most influential open
+    source communities: the Linux Foundation. This'
+  last_post_date: "2025-07-24T16:59:25Z"
+  last_post_link: https://ubuntu.com//blog/linux-foundation-openstack
   last_post_categories:
-  - AI
-  - NVIDIA AI Enterprise
-  - canonical kubernetes
+  - Community
+  - Linux Foundation
+  - Open Infrastructure
+  - OpenStack
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:

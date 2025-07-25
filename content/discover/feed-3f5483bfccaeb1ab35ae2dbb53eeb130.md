@@ -6,8 +6,7 @@ params:
   feedlink: https://www.rowetel.com/?feed=rss2
   feedtype: rss
   feedid: 3f5483bfccaeb1ab35ae2dbb53eeb130
-  websites:
-    https://www.rowetel.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Linux Australia
@@ -41,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,15 +20,15 @@ params:
     https://barryfrost.com/: true
     https://github.com/barryf: true
     https://mastodon.social/@barryf: true
-  last_post_title: Week 198 - Gaming
-  last_post_description: We have a Switch 2! I missed the pre-orders and so assumed
-    I'd have to wait, but on launch day I found one in stock at Argos for next-day
-    delivery. It arrived late so I set it up ready to surprise
-  last_post_date: "2025-06-08T15:59:44Z"
-  last_post_link: https://barryfrost.com/2025/06/week-198-gaming
+  last_post_title: Week 204 - Kong
+  last_post_description: I took the day off on Tuesday for a well-needed lunch in
+    London with old friends/colleagues. The sunny weather had ended but we still polished
+    off many bottles of wine inside and outside. We should
+  last_post_date: "2025-07-21T18:06:35Z"
+  last_post_link: https://barryfrost.com/2025/07/week-204-kong
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5b1530f0aa4a653173b6b7abda43f3d3
+  last_post_guid: aedfe4a363edb0ad6fde984d35b712d1
   score_criteria:
     cats: 0
     description: 3

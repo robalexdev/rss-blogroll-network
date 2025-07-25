@@ -17,18 +17,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - lab notes
+  - Essays
   relme: {}
-  last_post_title: 'Lab note #070 Vibe-coding is half a skill issue'
-  last_post_description: I've been doing an implementation of DBSP, which is a way
-    of doing incremental computation built up from some basic concepts from digital
-    signal processing. While I use LLMs in my daily work to ask
-  last_post_date: "2025-06-11T05:15:51Z"
-  last_post_link: https://interjectedfuture.com/lab-note-070-vibe-coding-is-half-a-skill-issue/
+  last_post_title: 'Programming After AI: Why System Boundary Taste Matters'
+  last_post_description: Since coding agents came on the scene, a subset of programmers
+    panic about AI replacing their jobs, but I think they're panicking about the wrong
+    thing. The fear seems focused on the mechanical
+  last_post_date: "2025-07-21T14:02:53Z"
+  last_post_link: https://interjectedfuture.com/programming-after-ai-why-system-boundary-taste-matters/
   last_post_categories:
-  - lab notes
+  - Essays
   last_post_language: ""
-  last_post_guid: 58553f2fc96cf6c4f5699c6033f47a07
+  last_post_guid: 7512a64d26833cce46f9006cc65c01e5
   score_criteria:
     cats: 0
     description: 3

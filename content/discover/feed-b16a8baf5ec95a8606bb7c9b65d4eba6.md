@@ -18,7 +18,6 @@ params:
   categories: []
   relme:
     https://brentter.com/: true
-    https://github.com/brentter: true
   last_post_title: The Beautiful Web - Henry.Codes And Talks On Grief
   last_post_description: The incredibly well-designed website of designer/developer
     Henry Desroches and some equally beautiful advice found in his writings.

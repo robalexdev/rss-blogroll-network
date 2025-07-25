@@ -1,6 +1,6 @@
 ---
 title: Erik L. Arneson — Writer and Software Developer
-date: "2025-02-13T18:38:12Z"
+date: "2025-07-08T20:09:38Z"
 description: Erik L. Arneson is a freelance writer and software developer located
   in Portland, Oregon.
 params:
@@ -17,19 +17,19 @@ params:
   recommender: []
   categories:
   - emacs
-  - howto
   - org-mode
+  - writing
   relme: {}
-  last_post_title: Configuring Orgzly Interaction with Directory Local Variables
+  last_post_title: Writing Experience (Emacs Carnival)
   last_post_description: ""
-  last_post_date: "2025-01-28T00:00:00Z"
-  last_post_link: https://arnesonium.com/2025/01/configuring-orgzly-with-directory-local-variables
+  last_post_date: "2025-07-07T00:00:00Z"
+  last_post_link: https://arnesonium.com/2025/07/writing-experience-emacs-carnival
   last_post_categories:
   - emacs
-  - howto
   - org-mode
+  - writing
   last_post_language: ""
-  last_post_guid: e0200531a97c6a9f627f12f4f5e0306b
+  last_post_guid: 41c4fcf57e51142ebeb72268ce547821
   score_criteria:
     cats: 0
     description: 3

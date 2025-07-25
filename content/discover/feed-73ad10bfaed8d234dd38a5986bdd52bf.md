@@ -6,8 +6,7 @@ params:
   feedlink: https://borassisagemath.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 73ad10bfaed8d234dd38a5986bdd52bf
-  websites:
-    https://borassisagemath.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Sage
@@ -16,9 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://borassisagemath.blogspot.com/: true
-    https://www.blogger.com/profile/18314533837023556703: true
+  relme: {}
   last_post_title: Conclusion of the Main Part of the Project
   last_post_description: ""
   last_post_date: "2015-08-16T06:59:35-07:00"
@@ -35,10 +32,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

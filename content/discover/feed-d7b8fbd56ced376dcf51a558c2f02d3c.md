@@ -1,6 +1,6 @@
 ---
 title: Org-Mode on Ross A. Baker
-date: "2025-06-05T04:43:57Z"
+date: "2025-07-25T04:41:16Z"
 description: a perfectly cromulent developer
 params:
   feedlink: https://rossabaker.com/tags/org-mode/index.xml

@@ -1,6 +1,6 @@
 ---
 title: Resources-2
-date: "2025-06-11T08:43:14Z"
+date: "2025-07-23T14:05:49Z"
 description: Picus continuously assesses your security controls with automated attacks
   to mitigate gaps and enhance your security posture against real threats.
 params:
@@ -18,32 +18,35 @@ params:
   recommender: []
   categories:
   - Article
-  - Glossary
+  - Blog
+  - Emerging Threat
   relme: {}
-  last_post_title: Supporting Vulnerability Scanners in Modern Age
-  last_post_description: "What Are Vulnerability Scanners? \nA vulnerability scanner
-    is an automated security tool that identifies known weaknesses, misconfigurations,
-    and outdated software across IT systems such as servers,"
-  last_post_date: "2025-06-11T08:42:48Z"
-  last_post_link: https://www.picussecurity.com/resource/blog/supporting-vulnerability-scanners-in-modern-age
+  last_post_title: Interlock Ransomware Analysis, Simulation, and Mitigation - CISA
+    Alert AA25-203A
+  last_post_description: On July 22, 2025, the Cybersecurity and Infrastructure Security
+    Agency (CISA) released a joint advisory on Interlock ransomware [1]. Interlock
+    ransomware has been actively targeting critical
+  last_post_date: "2025-07-23T08:01:33Z"
+  last_post_link: https://www.picussecurity.com/resource/blog/cisa-alert-aa25-203a-interlock-ransomware-analysis
   last_post_categories:
   - Article
-  - Glossary
+  - Blog
+  - Emerging Threat
   last_post_language: ""
-  last_post_guid: 337a5626191b20ff3fe14eb46f57b257
+  last_post_guid: 739d285a63b3a59059f86c33459b584c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

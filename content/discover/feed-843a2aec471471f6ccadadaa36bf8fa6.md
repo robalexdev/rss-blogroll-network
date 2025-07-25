@@ -6,8 +6,7 @@ params:
   feedlink: https://jessilyndavis.wordpress.com/feed/
   feedtype: rss
   feedid: 843a2aec471471f6ccadadaa36bf8fa6
-  websites:
-    https://jessilyndavis.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

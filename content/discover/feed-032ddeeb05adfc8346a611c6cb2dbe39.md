@@ -1,6 +1,6 @@
 ---
 title: jngiam
-date: "2025-06-11T23:03:25Z"
+date: "2025-07-25T05:05:33Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
   Brain, Coursera, Stanford. \n\n\n\n..."
 params:

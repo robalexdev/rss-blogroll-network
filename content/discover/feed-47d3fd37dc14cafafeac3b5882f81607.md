@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Inductive definitions
-  last_post_description: "The previous post \ndiscussed the simplest sort of definitions,\nthose
-    that are essentially abbreviations.\nAn inductive definition is conceptionally
-    quite different.\nThe simplest example is to say that"
-  last_post_date: "2025-06-09T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2025/06/09/Inductive_Definitions.html
+  last_post_title: Finish your degree!
+  last_post_description: "Everybody knows that Bill Gates dropped out of Harvard \nto
+    found Microsoft. \nMark Zuckerberg dropped out of Harvard too.\nBoth of them changed
+    the world — and both went on to become billionaires"
+  last_post_date: "2025-07-02T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2025/07/02/Finish_your_degree.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a294d7b1d6d92e5331dc4ac6c224e989
+  last_post_guid: 4d4bd5a6b4f9f23d8c8bcfbc0a7da3de
   score_criteria:
     cats: 0
     description: 3

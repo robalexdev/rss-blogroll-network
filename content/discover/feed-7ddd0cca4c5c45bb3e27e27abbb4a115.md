@@ -42,6 +42,7 @@ params:
   - https://www.platformer.news/rss/
   - https://birming.com/feed.xml
   - https://birming.com/feed/?type=rss
+  - https://birming.com/podcast.xml
   - https://cabel.com/comments/feed/
   - https://chrismcleod.dev/follow/blog/feed.atom
   - https://chrismcleod.dev/follow/blog/feed.rss

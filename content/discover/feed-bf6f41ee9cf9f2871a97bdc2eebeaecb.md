@@ -35,6 +35,7 @@ params:
   - https://www.macstories.net/feed/
   - https://www.vzqk50.com/index.xml
   - https://blog.trailofbits.com/index.xml
+  - https://cool-as-heck.blog/feed.xml
   - https://cool-as-heck.blog/feed/
   - https://cool-as-heck.blog/feed/?type=rss
   - https://www.coryd.dev/feeds/books.xml

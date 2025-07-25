@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://benrutter.github.io/posts/: true
-  last_post_title: Planning to Fail
+  last_post_title: Goodbye Github (Hello Codeberg!)
   last_post_description: |-
-    I read the hilarious “Please Please Please” Phorge entry today and it’s as hilarious as it is trauma inducing.
-    As somebody who spends a bunch of time working on libraries, I sometimes see
-  last_post_date: "2025-05-16T00:00:00Z"
-  last_post_link: https://benrutter.github.io/posts/planning-to-fail/
+    Lately, I’ve been spending more time using software that I enjoy using, rather than big techs often cheapest, most convenient offering.
+    On that note, I’ve decided to spend more time on Codeberg,
+  last_post_date: "2025-06-24T00:00:00Z"
+  last_post_link: https://benrutter.github.io/posts/goodbye-github/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0dc7bd7a9a312f7a5cf2179e29cf480a
+  last_post_guid: d64ce7968c1ae8f3fcd36fb64ddeeffe
   score_criteria:
     cats: 0
     description: 3

@@ -6,7 +6,8 @@ params:
   feedlink: https://asindu.xyz/atom.xml
   feedtype: rss
   feedid: 70f93d1f1aed330c59debf29de73ae65
-  websites: {}
+  websites:
+    https://asindu.xyz/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Switching to Firefox
+  last_post_title: Vibe Coding is Not an Advantage
   last_post_description: |-
-    Whenever you hear people trying to convince other people to switch to Firefox the reason is usually moral or ideological. 1
-    A usually toted reason, is that “capitalist” browsers like Chrome,
-  last_post_date: "2024-12-07T00:00:00Z"
-  last_post_link: https://asindu.xyz/posts/switching-to-firefox/
+    A few months ago, I was in a group chat with friends talking about some of the amazing stuff LLMs do.
+    I told them that I don’t do any “vibe coding”, that is, the building of software
+  last_post_date: "2025-05-27T00:00:00Z"
+  last_post_link: https://asindu.xyz/posts/vibe-coding-is-not-an-advantage/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c7ec96906c2c9211a7a49d13d7a7023f
+  last_post_guid: e01986e9ab5aa6890c4683bd578f792d
   score_criteria:
     cats: 0
     description: 3
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://zgrimshell.github.io/rss.xml
   feedtype: rss
   feedid: 167a0da157ec2bc10ccf5df7df5278db
-  websites:
-    https://zgrimshell.github.io/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -43,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

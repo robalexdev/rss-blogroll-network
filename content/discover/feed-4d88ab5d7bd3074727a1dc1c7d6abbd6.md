@@ -86,7 +86,6 @@ params:
   - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
   - https://kimberlyhirsh.com/podcast.xml
-  - https://ma.tt/comments/feed/
   - https://memex.naughtons.org/comments/feed/
   - https://memex.naughtons.org/feed/
   - https://om.co/comments/feed/

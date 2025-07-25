@@ -6,8 +6,7 @@ params:
   feedlink: https://spatialgalaxy.net/index.xml
   feedtype: rss
   feedid: b34a7d3c2a3e69cfdfc284cc45c4b47e
-  websites:
-    https://spatialgalaxy.net/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: The Document Foundation Planet
-date: Wed, 11 Jun 2025 22:00:27 GMT
+date: Fri, 25 Jul 2025 04:00:23 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml

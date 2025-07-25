@@ -26,18 +26,13 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: Subscriptions-iCloud.opml
+    description: ""
+    id: 2f70a6ce1879a8296b5ad597be193b3a
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml

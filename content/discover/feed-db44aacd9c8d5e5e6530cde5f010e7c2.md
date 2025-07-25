@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: db44aacd9c8d5e5e6530cde5f010e7c2
   websites:
-    https://blogs.fsfe.org/agger: true
     https://blogs.fsfe.org/agger/: false
   blogrolls: []
   in_blogrolls:
@@ -19,16 +18,16 @@ params:
   categories:
   - advocacy
   relme: {}
-  last_post_title: Serializing a book on Free Software
-  last_post_description: This is just a heads up that I’m editing a manuscript for
-    an upcoming book about free software – in Danish – which can be read piece by
-    piece at my WriteFreely blog. I hope to see it published
-  last_post_date: "2025-03-07T11:13:56Z"
-  last_post_link: https://blogs.fsfe.org/agger/2025/03/07/serializing-a-book-on-free-software/
+  last_post_title: On publishing Ada & Zangemann in Danish
+  last_post_description: I and Øjvind started working in the Danish translation of
+    Ada & Zangemann in 2023, Øjvind as translator and myself as proofreader. Throughout
+    2024, we tried pitching the book to a number of Danish
+  last_post_date: "2025-06-24T13:36:12Z"
+  last_post_link: https://blogs.fsfe.org/agger/2025/06/24/on-publishing-ada-zangemann-in-danish/
   last_post_categories:
   - advocacy
   last_post_language: ""
-  last_post_guid: 79fec12ce413f0f35bd1c887c672c999
+  last_post_guid: fb5247ee85a7609b12f3413bfa41b5fd
   score_criteria:
     cats: 0
     description: 3
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

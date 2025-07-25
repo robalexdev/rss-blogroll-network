@@ -25,51 +25,44 @@ params:
   - title: QuiteRSS
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
+  - title: Front-end RSS Feeds
+    description: ""
+    id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://philwilson.org/blog/feed
-  - https://philwilson.org/blog/feed/atom/
   categories:
-  - ai
-  - code
-  - coding
-  - compositional
-  - ethics
-  - generative
-  - language
-  - machinelearning
-  - models
-  - prototypes
-  - prototyping
-  - tools
-  - transformative
-  - work
+  - customelements
+  - development
+  - dom
+  - enhancement
+  - frontend
+  - html
+  - javascript
+  - loading
+  - progressive
+  - webcomponents
   relme: {}
-  last_post_title: Uses
+  last_post_title: Streamlining HTML web components
   last_post_description: |-
-    I don’t use large language models. My objection to using them is ethical. I know how the sausage is made.
+    If you’re a front-end developer and you don’t read Chris Ferdinandi’s blog, you should change that right now. Add that RSS feed to your feed reader of choice!
 
-    I wanted to clarify that. I’m not rejecting large language models because they’re
-  last_post_date: "2025-05-27T16:00:29Z"
-  last_post_link: https://adactio.com/journal/21933
+    Lately he’s been posting about
+  last_post_date: "2025-07-22T11:04:27Z"
+  last_post_link: https://adactio.com/journal/22038
   last_post_categories:
-  - ai
-  - code
-  - coding
-  - compositional
-  - ethics
-  - generative
-  - language
-  - machinelearning
-  - models
-  - prototypes
-  - prototyping
-  - tools
-  - transformative
-  - work
+  - customelements
+  - development
+  - dom
+  - enhancement
+  - frontend
+  - html
+  - javascript
+  - loading
+  - progressive
+  - webcomponents
   last_post_language: ""
-  last_post_guid: 8cf4e827f0233e7e0fd74c25218abecd
+  last_post_guid: c9d873c4d9789146de93cbab00d0443e
   score_criteria:
     cats: 0
     description: 3

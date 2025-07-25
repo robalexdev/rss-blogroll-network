@@ -19,27 +19,19 @@ params:
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
+  recommender: []
   categories:
   - ESET research
   relme: {}
-  last_post_title: 'BladedFeline: Whispering in the dark'
-  last_post_description: ESET researchers analyzed a cyberespionage campaign conducted
-    by BladedFeline, an Iran-aligned APT group with likely ties to OilRig
-  last_post_date: "2025-06-05T09:00:00Z"
-  last_post_link: https://www.welivesecurity.com/en/eset-research/bladedfeline-whispering-dark/
+  last_post_title: 'ToolShell: An all-you-can-eat buffet for threat actors'
+  last_post_description: ESET Research has been monitoring attacks involving the recently
+    discovered ToolShell zero-day vulnerabilities
+  last_post_date: "2025-07-24T09:00:45Z"
+  last_post_link: https://www.welivesecurity.com/en/eset-research/toolshell-an-all-you-can-eat-buffet-for-threat-actors/
   last_post_categories:
   - ESET research
   last_post_language: ""
-  last_post_guid: 19dc31805a3983f723c20349ef7fe4d6
+  last_post_guid: 91eb57cd8dd75e6ddefdd30cc2417259
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,14 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: New Stairwell Capabilities Fuse GenAI with Deep Proprietary Data
-    to Detect Zero-Day Malware Threats and Cut Alert Triage from Hours to Seconds
+  last_post_title: AI-generated malware is already here. So why are we still guessing?
   last_post_description: ""
-  last_post_date: "2025-05-20T13:00:03Z"
-  last_post_link: https://stairwell.com/blog/new-stairwell-capabilities-fuse-genai-with-deep-proprietary-data-to-detect-zero-day-malware-threats-and-cut-alert-triage-from-hours-to-seconds/
+  last_post_date: "2025-07-15T00:58:23Z"
+  last_post_link: https://stairwell.com/blog/ai-generated-malware-is-already-here-so-why-are-we-still-guessing/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: 60d42ca30aadaa9fb185c934d318aee5
+  last_post_guid: e96b2fed34052c51d8009328fb638a0f
   score_criteria:
     cats: 0
     description: 3

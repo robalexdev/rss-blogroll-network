@@ -1,6 +1,6 @@
 ---
 title: readerunner
-date: "2025-01-26T10:11:22Z"
+date: "2025-06-15T15:32:02Z"
 description: maths and computing experiments
 params:
   feedlink: https://readerunner.wordpress.com/feed/atom/
@@ -15,47 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Dart
   - Haskell
-  - Haskell Diagrams
-  - Kite
   - Maths
-  - Penrose
-  - Tilings
-  - math
-  - mathematics
   relme: {}
-  last_post_title: PenroseKiteDart Animations
-  last_post_description: About PenroseKiteDart Below we present some animations that
-    illustrate operations on finite patches of Penrose’s Kite and Dart tiles. These
-    were created using PenroseKiteDart which is a Haskell
-  last_post_date: "2025-01-26T10:11:22Z"
-  last_post_link: https://readerunner.wordpress.com/2025/01/24/penrosekitedart-animations/
+  last_post_title: PenroseKiteDart User Guide
+  last_post_description: Introduction (Updated June 2025 for PenroseKiteDart version
+    1.4) PenroseKiteDart is a Haskell package with tools to experiment with finite
+    tilings of Penrose’s Kites and Darts. It uses the Haskell
+  last_post_date: "2025-06-15T15:32:02Z"
+  last_post_link: https://readerunner.wordpress.com/2024/04/08/penrosekitedart-user-guides/
   last_post_categories:
-  - Dart
   - Haskell
-  - Haskell Diagrams
-  - Kite
   - Maths
-  - Penrose
-  - Tilings
-  - math
-  - mathematics
   last_post_language: ""
-  last_post_guid: e1c2c27e79ecb070f18a4b436a95b6cd
+  last_post_guid: 4c54592994ab300ce7eef66aabd15c40
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2025-06-12T02:38:52Z"
+date: "2025-07-25T08:22:35Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 美国住宅 IP 提供商体验对比
-  last_post_description: 美国住宅 IP 提供商体验对比
-  last_post_date: "2025-06-07T07:22:44Z"
-  last_post_link: https://baiyun.me/us-residential-ip-provider-comparison
+  last_post_title: Node.js 程序以 Keyless 模式从  1Password 读取密钥
+  last_post_description: Node.js 程序以 Keyless 模式从  1Password 读取密钥
+  last_post_date: "2025-06-16T07:51:13Z"
+  last_post_link: https://baiyun.me/nodejs-keyless-read-1password-secrets
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b597ab78cb9f8133ff41609875e836f0
+  last_post_guid: c2437dd1026a21719774305a07d294d9
   score_criteria:
     cats: 0
     description: 3

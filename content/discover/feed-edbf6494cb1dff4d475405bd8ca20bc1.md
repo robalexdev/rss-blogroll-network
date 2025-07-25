@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Building Your Own Orderless Style Completion in Emacs Lisp
-  last_post_description: While packages like orderless provide flexible “any word,
-    any order” completion, sometimes you want something lightweight and easy to tweak
-    (well I do anyway). In this post, I’ll show you how
-  last_post_date: "2025-06-04T09:40:00+01:00"
-  last_post_link: https://emacs.dyerdwelling.family/emacs/20250604085817-emacs--building-your-own-orderless-style-completion-in-emacs-lisp/
+  last_post_title: 'Ollama Buddy v1.0: A Simple AI Assistant'
+  last_post_description: After months of development and refinement, I’m excited to
+    announce Ollama Buddy v1.0 - an Emacs package that simply interfaces mainly to
+    ollama, for local LLM usage, but can be integrated to the
+  last_post_date: "2025-07-23T09:20:00+01:00"
+  last_post_link: https://emacs.dyerdwelling.family/emacs/20250723083048-emacs--announcing-v1-ollama-buddy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3778b7a70f5decc515c0396f837dedb2
+  last_post_guid: 31e9f100e8a05f9f226fb985bff8c680
   score_criteria:
     cats: 0
     description: 3

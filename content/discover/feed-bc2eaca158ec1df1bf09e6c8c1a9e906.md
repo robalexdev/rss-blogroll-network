@@ -10,7 +10,6 @@ params:
   feedid: bc2eaca158ec1df1bf09e6c8c1a9e906
   websites:
     https://meyerweb.com/: false
-    https://meyerweb.com/eric/thoughts: true
     https://meyerweb.com/eric/thoughts/: false
     https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
@@ -22,8 +21,7 @@ params:
   recommender: []
   categories:
   - CSS
-  relme:
-    https://meyerweb.com/eric/thoughts: true
+  relme: {}
   last_post_title: Masonry, Item Flow, and… GULP?
   last_post_description: Masonry layout is a difficult thing to do with CSS at present.
     Item Flow could make it easy.
@@ -42,10 +40,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

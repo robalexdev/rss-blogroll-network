@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.mozilla.org/theden/feed/
   feedtype: rss
   feedid: 25e9e1bccfe21b5f4c8a21a56cabe64f
-  websites:
-    https://blog.mozilla.org/theden/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla Projects
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -14,10 +14,11 @@ params:
   - title: QuiteRSS
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
+  - title: Front-end RSS Feeds
+    description: ""
+    id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender:
-  - https://philwilson.org/blog/feed
-  - https://philwilson.org/blog/feed/atom/
+  recommender: []
   categories: []
   relme: {}
   last_post_title: Behind the Scenes - A Glimpse into Tax Calculations

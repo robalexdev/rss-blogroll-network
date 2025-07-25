@@ -6,8 +6,7 @@ params:
   feedlink: https://notes.pault.ag/index.xml
   feedtype: rss
   feedid: 5a101cac0f8434bdcf54c72e8db7dd57
-  websites:
-    https://notes.pault.ag/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: robalexdev
@@ -24,22 +23,17 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories: []
-  relme:
-    https://github.com/paultag: true
-    https://k3xec.com/: true
-    https://notes.pault.ag/: true
-    https://pault.ag/: true
-    https://soylent.green/@paul: true
-  last_post_title: boot2kier
+  relme: {}
+  last_post_title: The Promised LAN
   last_post_description: |-
-    I can’t remember exactly the joke I was making at the time in my
-    work’s slack instance (I’m sure it wasn’t particularly
-    funny, though; and not even worth re-reading the thread to work out),
-  last_post_date: "2025-02-20T09:40:00-05:00"
-  last_post_link: https://notes.pault.ag/boot2kier/
+    The Internet has changed a lot in the last 40+ years. Fads have come and gone.
+    Network protocols have been designed, deployed, adopted, and abandoned.
+    Industries have come and gone. The types of
+  last_post_date: "2025-06-16T11:58:00-04:00"
+  last_post_link: https://notes.pault.ag/tpl/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a36a3eb1fdff183741606f0067a535eb
+  last_post_guid: 784b4f6e914dae0df417edad71f3fbc3
   score_criteria:
     cats: 0
     description: 3
@@ -49,10 +43,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,16 +19,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Aphantasia and me
-  last_post_description: 2 years ago I wrote an article at work about aphantasia and
-    how it affected me. People found it helpful and at least one person had the realisation
-    as a result that they had it too. However, I’ve
-  last_post_date: "2025-06-07T07:59:06Z"
-  last_post_link: https://artiss.blog/2025/06/aphantasia-and-me/
+  last_post_title: Goodbye Google Nest
+  last_post_description: For years now I’ve had a low opinion of Google products,
+    particularly their hardware. Since taking over Nest, their poor treatment of customers
+    have infected them too. Which is a shame, as I have a
+  last_post_date: "2025-07-19T07:27:26Z"
+  last_post_link: https://artiss.blog/2025/07/goodbye-google-nest/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: 023914eb90734ed4daa8c654b6a38920
+  last_post_guid: e578552218ee04cda5976968cee24458
   score_criteria:
     cats: 0
     description: 3

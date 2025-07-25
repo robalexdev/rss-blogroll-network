@@ -1,6 +1,6 @@
 ---
 title: 彭宏豪的个人博客，个人电子产品使用心得
-date: "2025-02-05T08:34:27Z"
+date: "2025-07-16T16:02:39Z"
 description: 数码软件爱好者
 params:
   feedlink: https://penghh.fun/atom.xml
@@ -16,20 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Mac
-  - iPhone
-  - 效率工具
+  - 小鹏M03
+  - 数码
+  - 新能源汽车
   relme: {}
-  last_post_title: macOS15最新功能iPhone镜像怎么用？详细教程来了【效率工具指南】
+  last_post_title: MONA M03 Max发布，小鹏老车主们坐不住了！【效率工具指南】
   last_post_description: ""
-  last_post_date: "2025-02-05T08:34:27Z"
-  last_post_link: https://penghh.fun/2024/09/22/2024-9-22-iPhone_monitor/
+  last_post_date: "2025-07-16T16:02:39Z"
+  last_post_link: https://penghh.fun/2025/07/16/2025-7-16-monam03/
   last_post_categories:
-  - Mac
-  - iPhone
-  - 效率工具
+  - 小鹏M03
+  - 数码
+  - 新能源汽车
   last_post_language: ""
-  last_post_guid: bea46b8c36a687acce55dd34c10f1872
+  last_post_guid: 70f3aef329edbae51498d20f85fe1058
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 192
+  postcount: 193
   avgpostlen: 231
 ---

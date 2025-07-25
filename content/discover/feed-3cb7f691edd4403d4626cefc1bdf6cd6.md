@@ -6,8 +6,7 @@ params:
   feedlink: https://calcifer.org/notes/feed/index.xml
   feedtype: atom
   feedid: 3cb7f691edd4403d4626cefc1bdf6cd6
-  websites:
-    https://calcifer.org/notes/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

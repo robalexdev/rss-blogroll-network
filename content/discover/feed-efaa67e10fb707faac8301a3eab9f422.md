@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 使用 Topstep
+  last_post_title: 价格行为学 - Rose 的 Caveman (野人) 交易策略
   last_post_description: |-
     引言
-    最近在练习价格行为学（简称
-  last_post_date: "2025-06-11T18:00:00+08:00"
-  last_post_link: https://blog.forecho.com/use-topstep.html
+
+    本文将介绍一种由交易员 Rose 提出的高效剥头皮（Scalp）策略——“Caveman
+  last_post_date: "2025-07-23T23:00:00+08:00"
+  last_post_link: https://blog.forecho.com/price-action-rose-caveman-setup.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 655e1cc2aa013efbf153d59c965ee926
+  last_post_guid: e94eb83657215b1d433f2372ba7f4cbb
   score_criteria:
     cats: 0
     description: 3

@@ -18,37 +18,31 @@ params:
   recommender: []
   categories:
   - AI
-  - Apple
-  - Apple Intelligence
-  - WWDC
-  - WWDC2025
+  - Experimentation
   relme: {}
-  last_post_title: Random Thoughts Before Apple WWDC 2025
-  last_post_description: Not so random thoughts about Apple, AI, Tim Cook and some
-    other things.
-  last_post_date: "2025-06-04T01:10:03Z"
-  last_post_link: https://numericcitizen.me/random-thoughts-before-apple-wwdc-2025/
+  last_post_title: This Website According to Perplexity
+  last_post_description: '"Can you review the articles on this website and tell me
+    what the key themes emerging are?" The results are in. ðŸ˜³ðŸ‘€'
+  last_post_date: "2025-07-22T11:05:27Z"
+  last_post_link: https://numericcitizen.me/this-website-according-to-perplexity/
   last_post_categories:
   - AI
-  - Apple
-  - Apple Intelligence
-  - WWDC
-  - WWDC2025
+  - Experimentation
   last_post_language: ""
-  last_post_guid: 3d83bb52a1dd128b06b93d22e80fb605
+  last_post_guid: f529ef206ed1468eb0df9b502619a463
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

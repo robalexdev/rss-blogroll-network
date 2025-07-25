@@ -78,9 +78,6 @@ params:
     https://weblog.anniegreens.lol/wips: false
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
@@ -89,8 +86,6 @@ params:
     id: 56fb5d46572d863c78edd7bd5bd25295
   recommended: []
   recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   - https://frankmeeuwsen.com/feed.xml
   categories: []
   relme:

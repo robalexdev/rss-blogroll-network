@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2025-06-08T10:19:24Z"
+date: "2025-07-20T11:56:39Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -16,31 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - java
   - 技巧
   relme: {}
-  last_post_title: 介绍下让bean有序执行的方法
-  last_post_description: 我们在用一些设计模式的时候，特别是在java跟spring生态中，有很多基于接口，会有各种不同的实现，此时如果想让实现了同一个接口的一组处理器（bean
-  last_post_date: "2025-06-08T10:19:24Z"
-  last_post_link: https://nicksxs.me/2025/06/08/%E4%BB%8B%E7%BB%8D%E4%B8%8B%E8%AE%A9bean%E6%9C%89%E5%BA%8F%E6%89%A7%E8%A1%8C%E7%9A%84%E6%96%B9%E6%B3%95/
+  last_post_title: 千万别升级Chrome-您的扩展程序可能无法使用-教你怎么解决
+  last_post_description: !!binary |
+    5YWB6K645oiR5bCP5bCP5Zyw5qCH6aKY5YWa5LiA5LiL77yM5ZCO5Y2K5Y+l5piv55yf5a
+    6e5oOF5Ya177yM5pyA6L+R6YeN5ZCv55S16ISR5bCx6Ieq5Yqo5Y2H57qn5LqGY2hyb21l
+    77yM5Y+R546w5b6I5aSa5b+F6aG755qE5omp5bGV56iL5bqP6YO95LiN6IO955So5LqG77
+    yM5LmL5YmN5piv5Y+v5Lul6YCa6L+H6K6+572u5byA5ZCv77yM6L+Z5qw=
+  last_post_date: "2025-07-20T11:56:39Z"
+  last_post_link: https://nicksxs.me/2025/07/20/%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%87%E7%BA%A7Chrome-%E6%82%A8%E7%9A%84%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/
   last_post_categories:
-  - java
   - 技巧
   last_post_language: ""
-  last_post_guid: 1568b50093f3a15ea3879e55d54478ba
+  last_post_guid: e6f155eebcc29c53d6e3dd4cba1175b5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

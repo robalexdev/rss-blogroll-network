@@ -20,31 +20,30 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: 'The Week in Vulnerabilities: Cyble Warns of Rising Exploits Targeting
-    ICS, Enterprise, and Web Systems'
-  last_post_description: Between May 28 and June 3, 2025, the cybersecurity landscape
-    witnessed an intensification of attack attempts and critical vulnerability disclosures
-    across enterprise IT systems, industrial control
-  last_post_date: "2025-06-10T14:10:07Z"
-  last_post_link: https://cyble.com/blog/weekly-cyble-vulnerability-blog/
+  last_post_title: UK Identifies Russian GRU’s “AUTHENTIC ANTICS” Malware in Email
+    Espionage Campaign
+  last_post_description: The UK Government publicly attributed a new malware campaign
+    to Russian military intelligence (GRU), naming the strain “AUTHENTIC ANTICS.”
+    The announcement was made alongside sanctions targeting
+  last_post_date: "2025-07-22T12:18:52Z"
+  last_post_link: https://cyble.com/blog/uk-exposes-authentic-antics-malware-campaign/
   last_post_categories:
-  - ICS
-  - Vulnerability
+  - Cyber news
   last_post_language: ""
-  last_post_guid: 3643fb168dba8e948c4ee5604c27ef38
+  last_post_guid: ea50d341bee6e0aa11731ca9c796c6fe
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: true
   isnoarchive: false
   innetwork: true

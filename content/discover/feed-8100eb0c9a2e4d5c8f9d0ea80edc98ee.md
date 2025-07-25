@@ -26,42 +26,34 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Accessibility
-  - Usability
-  - a11y
-  - inclusion
-  - webdesign
-  - webstandards
+  - Politics
+  - democracy
   relme:
     https://zeldman.com/: true
-  last_post_title: Accessibility 101
-  last_post_description: |-
-    Nat Tarnoff covers the basics.
-    The post Accessibility 101 appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2025-05-28T12:53:03Z"
-  last_post_link: https://zeldman.com/2025/05/28/accessibility-101/
+  last_post_title: Project 2026
+  last_post_description: Starting today, file suits to prevent biased gerrymandering.
+    Fight harder for the right to vote than the GOP has fought to suppress the votes
+    of Americans MAGA dislikes. Craft a Democratic party
+  last_post_date: "2025-07-16T15:41:56Z"
+  last_post_link: https://zeldman.com/2025/07/16/project-2026/
   last_post_categories:
-  - Accessibility
-  - Usability
-  - a11y
-  - inclusion
-  - webdesign
-  - webstandards
+  - Politics
+  - democracy
   last_post_language: ""
-  last_post_guid: b57c3a1e2e6e4c3d457b09c74793e77b
+  last_post_guid: 0d031878f43af4d57e17301d23db7977
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

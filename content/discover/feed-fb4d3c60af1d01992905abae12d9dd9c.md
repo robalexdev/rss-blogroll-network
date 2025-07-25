@@ -6,8 +6,7 @@ params:
   feedlink: https://lefred.be/feed/
   feedtype: rss
   feedid: fb4d3c60af1d01992905abae12d9dd9c
-  websites:
-    https://lefred.be/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Grep
@@ -16,25 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Cloud
   - General
-  - HeatWave
+  - HA
   - MySQL
   - OCI
-  relme:
-    https://lefred.be/: true
-  last_post_title: MySQL Hypergraph Optimizer
-  last_post_description: During the last MySQL & HeatWave Summit, Wim Coekaerts announced
-    that a new optimizer is available and is already enabled in MySQL HeatWave. Let’s
-    have a quick look at it and how to use it. The
-  last_post_date: "2025-05-21T15:33:07Z"
-  last_post_link: https://lefred.be/content/mysql-hypergraph-optimizer/
+  - Puppet
+  - Terraform
+  - devops
+  relme: {}
+  last_post_title: Deploying High Availability and Disaster Recovery MySQL on OCI
+    like a devops
+  last_post_description: We all know MySQL InnoDB ClusterSet, a solution that links
+    multiple InnoDB Clusters and Read Replicas asynchronously to easily generate complex
+    MySQL architectures and manage them without burdensome
+  last_post_date: "2025-07-17T09:12:46Z"
+  last_post_link: https://lefred.be/content/deploying-high-availability-and-disaster-recovery-mysql-on-oci-like-a-devops/
   last_post_categories:
+  - Cloud
   - General
-  - HeatWave
+  - HA
   - MySQL
   - OCI
+  - Puppet
+  - Terraform
+  - devops
   last_post_language: ""
-  last_post_guid: 1736c89d42726312fda3406d23da9bc9
+  last_post_guid: f1d33f96247e18f5b45ebd82dc605e18
   score_criteria:
     cats: 0
     description: 3
@@ -44,10 +51,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

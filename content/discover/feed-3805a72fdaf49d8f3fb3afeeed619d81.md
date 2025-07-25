@@ -6,8 +6,7 @@ params:
   feedlink: https://dfwpython.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 3805a72fdaf49d8f3fb3afeeed619d81
-  websites:
-    https://dfwpython.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -16,8 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://dfwpython.blogspot.com/: true
+  relme: {}
   last_post_title: This Blog is Inactive
   last_post_description: ""
   last_post_date: "2015-02-17T07:40:00-08:00"
@@ -34,10 +32,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

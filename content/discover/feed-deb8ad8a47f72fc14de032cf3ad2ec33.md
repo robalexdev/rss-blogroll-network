@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Wing Python IDE 11 Beta 2 - April 22, 2025
+  last_post_title: Wing Python IDE Version 11.0.2 - July 17, 2025
   last_post_description: |-
-    Wing 11 beta2 is now available.  It introduces support for Claude, Grok, Gemini, Perplexity,
-    Mistral, Deepseek, Ollama, and other OpenAI API compatible AI providers.
-    Wing 11 is a new major release of
-  last_post_date: "2025-04-22T01:00:00Z"
-  last_post_link: https://wingware.com/news/2025-04-22
+    Wing Python IDE version 11.0.2 is now available.  It improves source code analysis,
+    avoids duplicate evaluations of values in the Watch tool, fixes ruff as an
+    external code checker in the Code
+  last_post_date: "2025-07-17T01:00:00Z"
+  last_post_link: https://wingware.com/news/2025-07-17
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d318bbeb415480086c67a6095d81fca4
+  last_post_guid: 7f417911825123a60a13d37c616b9b7c
   score_criteria:
     cats: 0
     description: 3

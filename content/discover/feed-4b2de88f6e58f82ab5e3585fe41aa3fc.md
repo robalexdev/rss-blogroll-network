@@ -1,13 +1,13 @@
 ---
-title: Breaking Badness | Podcast
+title: DomainTools
 date: "1970-01-01T00:00:00Z"
-description: Timely and relevant cybersecurity security news in under thirty minutes.
+description: Innovative, Practical Advice to Improve your Cybersecurity Posture
 params:
   feedlink: https://www.domaintools.com/feed/
   feedtype: rss
   feedid: 4b2de88f6e58f82ab5e3585fe41aa3fc
   websites:
-    https://www.domaintools.com/: false
+    https://www.domaintools.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions-iCloud.opml
@@ -16,19 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Podcast
+  - DomainTools Research
   relme: {}
-  last_post_title: 'Inside Ransomware’s Supply Chain: Attribution, Rebrands, and Affiliate
-    Betrayal'
-  last_post_description: In this episode of Breaking Badness, we sit down with Raji
-    Vannianathan, a cybersecurity leader at Microsoft driving the charge on AI security
-    and safety.
-  last_post_date: "2025-06-11T19:39:42Z"
-  last_post_link: https://www.domaintools.com/resources/podcasts/inside-ransomwares-supply-chain-attribution-rebrands-and-affiliate-betrayal/
+  last_post_title: Proactive Defense with DomainTools Real-Time Feeds
+  last_post_description: Stop domain-based threats before they start. Discover how
+    DomainTools Real-Time Feeds deliver instant visibility into over 97% of the Internet,
+    combining our predictive Risk Score with real-time
+  last_post_date: "2025-07-22T13:00:00Z"
+  last_post_link: https://www.domaintools.com/resources/blog/proactive-defense-with-domaintools-real-time-feeds/
   last_post_categories:
-  - Podcast
+  - DomainTools Research
   last_post_language: ""
-  last_post_guid: 593f275b0c9f1a8c418f296e0bc0ce8d
+  last_post_guid: ef3f3f82a30dcd3edf5ab1ac76de0e84
   score_criteria:
     cats: 0
     description: 3
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

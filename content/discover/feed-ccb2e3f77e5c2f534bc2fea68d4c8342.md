@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: ccb2e3f77e5c2f534bc2fea68d4c8342
   websites:
-    https://lottia.net/notes/: true
+    https://lottia.net/notes/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,8 +16,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://lottia.net/notes/: true
+  relme: {}
   last_post_title: TextMode Designer
   last_post_description: ""
   last_post_date: "2025-01-06T02:44:00Z"
@@ -34,10 +33,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

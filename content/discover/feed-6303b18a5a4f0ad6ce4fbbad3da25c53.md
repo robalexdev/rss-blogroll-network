@@ -11,9 +11,6 @@ params:
   blogrolls:
   - https://frankmeeuwsen.com/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
@@ -148,8 +145,6 @@ params:
   - https://www.zylstra.org/blog/comments/feed/
   - https://zijperspace.nl/comments/feed/
   recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml

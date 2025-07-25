@@ -1,6 +1,6 @@
 ---
 title: GNU Guix — Blog
-date: "2025-06-09T17:00:00Z"
+date: "2025-07-11T10:45:25Z"
 description: ""
 params:
   feedlink: https://guix.gnu.org/feeds/blog.atom
@@ -15,18 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Packaging
+  - Security Advisory
   relme: {}
-  last_post_title: A New Rust Packaging Model
+  last_post_title: Privilege Escalation Vulnerabilities (CVE-2025-46415, CVE-2025-46416)
   last_post_description: |-
-    If you've ever struggled with Rust packaging, here's some good news!  We have changed to a simplified Rust packaging model that is easier to automate
-    and allows for modification, replacement and
-  last_post_date: "2025-06-07T21:00:00Z"
-  last_post_link: https://guix.gnu.org/blog/2025/a-new-rust-packaging-model//
+    Two security issues, known as
+      CVE-2025-46415   and
+      CVE-2025-46416  , have been
+    identified in
+      guix-daemon  ,
+    which allow for a local user to gain the privileges of any of the build users
+    and
+  last_post_date: "2025-06-24T14:00:00Z"
+  last_post_link: https://guix.gnu.org/blog/2025/privilege-escalation-vulnerabilities-2025//
   last_post_categories:
-  - Packaging
+  - Security Advisory
   last_post_language: ""
-  last_post_guid: 911c96825010c60f8165e28607439999
+  last_post_guid: 028a73b2d408c3710c420b6081edb657
   score_criteria:
     cats: 0
     description: 0

@@ -19,7 +19,6 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  - https://joeross.me/feed.xml
   categories: []
   relme: {}
   last_post_title: ATConf

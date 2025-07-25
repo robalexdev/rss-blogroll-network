@@ -6,8 +6,7 @@ params:
   feedlink: https://mappery.org/feed/
   feedtype: rss
   feedid: cd225bd314e247e929a29c1deaea8d8a
-  websites:
-    https://mappery.org/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -18,16 +17,16 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: When was Marc-Tobias’ Hat Printed?
-  last_post_description: Marc-Tobias sent me this picture of his new hat. Can you
-    work out when the map was printed and why? According to Ian Turton this xkcd may
-    help you date the map
-  last_post_date: "2025-06-11T09:00:00Z"
-  last_post_link: https://mappery.org/when-was-marc-tobias-hat-printed/
+  last_post_title: Coordinates
+  last_post_description: Marc-Tobias sent us this pic of a shop with a sign that says
+    “Your Location” plus the coordinates. I haven’t said where he took this pic because
+    I thought you might enjoy looking up the
+  last_post_date: "2025-07-24T09:00:00Z"
+  last_post_link: https://mappery.org/coordinates/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 88802207c15ec8c33a486b9296ec519a
+  last_post_guid: 2a3506ff565e76054f4b079a5712f593
   score_criteria:
     cats: 0
     description: 3
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

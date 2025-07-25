@@ -6,8 +6,7 @@ params:
   feedlink: https://www.greenbone.net/en/feed/
   feedtype: rss
   feedid: 0e430ed0bf38b807aaa8afccca3e05c5
-  websites:
-    https://www.greenbone.net/en/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian Derivatives
@@ -16,45 +15,56 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Betriebssystemhärtung
   - Blog
-  - CIS-Benchmark
-  - Compliance
+  - CVE 2025
+  - Cisco ISE
+  - CitrixBleed 2
+  - Cyber Warfare
+  - Cyberkrieg
+  - Datenlecks
   - Greenbone
-  - Konfigurationsmanagement
-  - OS hardening
+  - Linux vulnerabilities
+  - Linux-Sicherheitslücken
+  - RoundCube
   - Schwachstellenmanagement
-  - Unternehmens-IT
+  - Sitecore RCE
+  - Threat Intelligence
+  - Veeam-Exploit
   - Vulnerability Management
-  - Windows 11
-  - configuration management
-  - enterprise IT
-  - it security
+  - Wiper-Malware
+  - critical infrastructure
+  - data breaches
+  - kritische Infrastrukturen
   relme: {}
-  last_post_title: Greenbone Audits for Compliance with the CIS Windows 11 Enterprise
-    Benchmark”
-  last_post_description: Microsoft Windows remains the most widely used desktop operating
-    system in enterprise environments – and also one of the most targeted by threat
-    actors. Insecure configurations are a leading source
-  last_post_date: "2025-06-02T11:21:08Z"
-  last_post_link: https://www.greenbone.net/en/blog/greenbone-audits-for-compliance-with-the-cis-windows-11-enterprise-benchmark/
+  last_post_title: 'Threat Report June 2025: A Cyber Combat of Attrition'
+  last_post_description: The 2025 IOCTA report from Europol warns that demand for
+    data on the cybercrime underground is surging. How much data has been stolen exactly?
+    Determining exact numbers is impossible. However, the
+  last_post_date: "2025-07-23T10:07:37Z"
+  last_post_link: https://www.greenbone.net/en/blog/threat-report-june-2025-a-cyber-combat-of-attrition/
   last_post_categories:
-  - Betriebssystemhärtung
   - Blog
-  - CIS-Benchmark
-  - Compliance
+  - CVE 2025
+  - Cisco ISE
+  - CitrixBleed 2
+  - Cyber Warfare
+  - Cyberkrieg
+  - Datenlecks
   - Greenbone
-  - Konfigurationsmanagement
-  - OS hardening
+  - Linux vulnerabilities
+  - Linux-Sicherheitslücken
+  - RoundCube
   - Schwachstellenmanagement
-  - Unternehmens-IT
+  - Sitecore RCE
+  - Threat Intelligence
+  - Veeam-Exploit
   - Vulnerability Management
-  - Windows 11
-  - configuration management
-  - enterprise IT
-  - it security
+  - Wiper-Malware
+  - critical infrastructure
+  - data breaches
+  - kritische Infrastrukturen
   last_post_language: ""
-  last_post_guid: 839445ce9a283927334fd4d2bf97f9ae
+  last_post_guid: f1a66be228e1af583d2f7ded740137e5
   score_criteria:
     cats: 0
     description: 3
@@ -66,8 +76,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

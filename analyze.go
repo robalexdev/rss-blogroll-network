@@ -452,6 +452,21 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	}
 	feed.Params.ScoreCriteria["description"] = descriptionScore
 
+	// Are there any posts?
+	// One point each, up to three
+	hasPostsScore := min(feed.Params.PostCount, 3)
+	feed.Params.ScoreCriteria["hasPosts"] = hasPostsScore
+
+	// Do the posts have content?
+	// Three points if the average post has atleast 70 characters (half tweet)
+	// Detecting summary only RSS feeds is very challenging, while still allowing short form
+	// Keep the low, don't make people write more to "earn points"
+	hasContentScore := 0
+	if feed.Params.AvgPostLen >= 70 {
+		hasContentScore = 3
+	}
+	feed.Params.ScoreCriteria["hasContent"] = hasContentScore
+
 	// Sum it up
 	feed.Params.Score = 0
 	for _, score := range feed.Params.ScoreCriteria {

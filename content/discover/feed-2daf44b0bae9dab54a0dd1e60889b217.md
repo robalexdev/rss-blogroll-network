@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-06-11T22:01:55Z"
+date: "2025-07-25T04:03:37Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -14,22 +14,25 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Front-end RSS Feeds
+    description: ""
+    id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
   recommender: []
   categories: []
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: Sticky revealing footer
+  last_post_title: A handy use of subgrid to enhance a simple layout
   last_post_description: |-
-    Let me break down some bits that we covered in the video for you.
-    In order to make the footer sit below the <main> element — and any other siblings — we need to make sure its z-index wins.
-    By
-  last_post_date: "2025-06-09T10:55:00Z"
-  last_post_link: https://piccalil.li/blog/sticky-revealing-footer/?ref=main-rss-feed
+    We've got this pattern on the Set Studio website. It's three summaries with headings that render in a three column grid which as the viewport reduces in space, automatically stack.
+
+    The three column
+  last_post_date: "2025-07-17T10:55:00Z"
+  last_post_link: https://piccalil.li/blog/a-handy-use-of-subgrid-to-enhance-a-simple-layout/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 93d6233683497fb5c13c76653558f521
+  last_post_guid: 6d9e6094f4e1b3ead2542751e99d10d3
   score_criteria:
     cats: 0
     description: 3

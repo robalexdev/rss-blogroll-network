@@ -16,45 +16,49 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Dropper
-  - InfoStealer
-  - Private
-  - Ransomware
-  - Telegram
-  - financial
-  - phishing
-  - 금융
-  - 금융권
+  - DarkForums
+  - DarkWeb
+  - DataBreach
+  - Deeweb
+  - DomainSeized
+  - EuroPol
+  - France
+  - NoName05716
+  - Pro-Russian
+  - Public
+  - ServerKillers
+  - ThreatActorArrested
+  - XSS
+  - XSSForums
+  - Z-ALLIANCE
   - 다크웹
-  - 러시아
-  - 신용카드
-  - 악성코드
-  - 트렌드
-  - 피싱/스캠
+  - 딥웹
   relme: {}
-  last_post_title: 2025년 5월 국내외 금융권 관련 보안 이슈
-  last_post_description: 본 보고서는 국내외 금융권 기업들을 대상으로 발생한 실제 사이버 위협과 관련 보안 이슈를 종합적으로 다루고
-    있다. 금융권을 대상으로 유포된
-  last_post_date: "2025-06-11T04:56:35Z"
-  last_post_link: https://asec.ahnlab.com/ko/88411/
+  last_post_title: Ransom & Dark Web Issues 2025년 7월 4주차
+  last_post_description: ASEC Blog를 통해 한 주간의 ‘Ransom & Dark Web Issues’ – 2025년 7월
+    4주차를 게시한다.               친러시아 핵티비스트 그룹 NoName057(16), 유로폴
+  last_post_date: "2025-07-23T15:00:00Z"
+  last_post_link: https://asec.ahnlab.com/ko/89212/
   last_post_categories:
-  - Dropper
-  - InfoStealer
-  - Private
-  - Ransomware
-  - Telegram
-  - financial
-  - phishing
-  - 금융
-  - 금융권
+  - DarkForums
+  - DarkWeb
+  - DataBreach
+  - Deeweb
+  - DomainSeized
+  - EuroPol
+  - France
+  - NoName05716
+  - Pro-Russian
+  - Public
+  - ServerKillers
+  - ThreatActorArrested
+  - XSS
+  - XSSForums
+  - Z-ALLIANCE
   - 다크웹
-  - 러시아
-  - 신용카드
-  - 악성코드
-  - 트렌드
-  - 피싱/스캠
+  - 딥웹
   last_post_language: ""
-  last_post_guid: c357bf5daa0395c08bd878184edd86e4
+  last_post_guid: 56ad58592ff3c513f87a4011f16819b1
   score_criteria:
     cats: 0
     description: 3

@@ -6,8 +6,7 @@ params:
   feedlink: https://python4dads.wordpress.com/feed/
   feedtype: rss
   feedid: d247a1ef67a71dff27f6a507fe8cdcea
-  websites:
-    https://python4dads.wordpress.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

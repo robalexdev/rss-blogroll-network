@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.ezyang.com/feed/atom/
   feedtype: atom
   feedid: 408ade19b12504d70ed40efa6ccdd34b
-  websites:
-    https://blog.ezyang.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Haskell
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,8 +6,7 @@ params:
   feedlink: https://gsoc-prosody-2019.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: cb99796abc5fde7099d426b2bd356bda
-  websites:
-    https://gsoc-prosody-2019.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Jabber
@@ -21,10 +20,7 @@ params:
   - ZeroBrane
   - prosody
   - prosodyctl
-  relme:
-    https://eiyapah.blogspot.com/: true
-    https://gsoc-prosody-2019.blogspot.com/: true
-    https://www.blogger.com/profile/13709646787627337978: true
+  relme: {}
   last_post_title: Final GSoC Report - Prosody Plugin Installer!
   last_post_description: ""
   last_post_date: "2019-09-02T17:00:13+01:00"
@@ -41,10 +37,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 26
+    website: 0
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Amit's Thoughts
-date: "2025-05-14T02:25:17-07:00"
+date: "2025-07-24T16:49:30-07:00"
 description: Amit has crazy thoughts.
 params:
   feedlink: https://amitp.blogspot.com/feeds/posts/default/-/emacs
@@ -33,14 +33,14 @@ params:
   - transportation
   - typography
   relme: {}
-  last_post_title: Emacs per-project colors
+  last_post_title: 'Emacs: marking text'
   last_post_description: ""
-  last_post_date: "2025-04-24T21:07:33-07:00"
-  last_post_link: https://amitp.blogspot.com/2025/04/emacs-per-project-colors.html
+  last_post_date: "2025-06-24T14:48:08-07:00"
+  last_post_link: https://amitp.blogspot.com/2022/08/emacs-marking-text.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: 5bd5afec07b5b68c20fd11aaec783dad
+  last_post_guid: 4ac8713462d8758ff5ed0cce4d50d0b9
   score_criteria:
     cats: 5
     description: 3

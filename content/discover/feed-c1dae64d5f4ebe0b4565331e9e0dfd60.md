@@ -1,13 +1,12 @@
 ---
 title: Python Academy
-date: "2025-05-03T04:38:18-07:00"
+date: "2025-07-16T20:23:38-07:00"
 description: ""
 params:
   feedlink: https://python-academy.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: c1dae64d5f4ebe0b4565331e9e0dfd60
-  websites:
-    https://python-academy.blogspot.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -25,11 +24,7 @@ params:
   - matplotlib
   - science
   - tutorials
-  relme:
-    https://draft.blogger.com/profile/15418113987963668896: true
-    https://python-academy.blogspot.com/: true
-    https://pythonification.blogspot.com/: true
-    https://www.blogger.com/profile/15418113987963668896: true
+  relme: {}
   last_post_title: Learn Python and SQLAlchemy in Antwerp, Belgium
   last_post_description: ""
   last_post_date: "2012-10-24T03:44:08-07:00"
@@ -46,10 +41,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 23
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

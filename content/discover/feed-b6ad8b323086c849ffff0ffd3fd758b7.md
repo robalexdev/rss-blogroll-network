@@ -6,8 +6,7 @@ params:
   feedlink: https://sunweavers.net/blog/blog/1/feed
   feedtype: rss
   feedid: b6ad8b323086c849ffff0ffd3fd758b7
-  websites:
-    https://sunweavers.net/blog/blog/1: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 14
+    website: 0
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

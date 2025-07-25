@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Getting back to the EU: from Google Cloud to Self-Hosted EU Infrastructure'
-  last_post_description: In this article I’m going to show the process I followed
-    to migrate some of the services I used from Google Cloud to an European provider,
-    in this case OVH. I won’t use their cloud solution, but
-  last_post_date: "2025-03-15T08:00:00Z"
-  last_post_link: https://pgaleone.eu/cloud/2025/03/15/getting-back-to-the-eu-from-google-cloud-to-self-hosted-vps/
+  last_post_title: 'From Vertex AI SDK to Google Gen AI SDK: Service Account Authentication
+    for Python and Go'
+  last_post_description: 'On June 25th, 2025, Google sent an important announcement
+    to all Vertex AI users: the Google Gen AI SDK has become the new preferred method
+    for accessing generative models on Vertex AI. While Google'
+  last_post_date: "2025-06-29T08:00:00Z"
+  last_post_link: https://pgaleone.eu/cloud/2025/06/29/vertex-ai-to-genai-sdk-service-account-auth-python-go/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 89535c7cc26a7f79c539bd542a61ca74
+  last_post_guid: a514cb17df43ce552def2035291ae4b9
   score_criteria:
     cats: 0
     description: 3

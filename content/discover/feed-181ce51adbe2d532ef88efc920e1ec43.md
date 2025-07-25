@@ -6,8 +6,7 @@ params:
   feedlink: https://blog.mozilla.org/futurereleases/feed/
   feedtype: rss
   feedid: 181ce51adbe2d532ef88efc920e1ec43
-  websites:
-    https://blog.mozilla.org/futurereleases/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -18,6 +18,9 @@ params:
   - title: Kernel Planet
     description: ""
     id: 6e33b4599e9d3daca1002bbfb71ba180
+  - title: Engineering Blogs
+    description: ""
+    id: 26cb52e32caff9995ee1efaeda73638c
   recommended: []
   recommender: []
   categories: []

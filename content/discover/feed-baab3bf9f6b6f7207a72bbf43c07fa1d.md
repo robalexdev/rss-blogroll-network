@@ -1,6 +1,6 @@
 ---
 title: Posts tagged 'emacs' by Christian Tietze
-date: "2025-06-11T07:24:01Z"
+date: "2025-07-02T07:04:59Z"
 description: ""
 params:
   feedlink: https://christiantietze.de/posts/tags/emacs/feed.atom
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Emacs Carnival 2025-06: Take Two'
-  last_post_description: 'To kickstart the Emacs Carnival, and as a hat tip to our
-    recent inspiration, this month’s topic is borrowed from the June IndieWeb Blog
-    Carnival: the topic is “Take Two”, hosted by Nick Simon:'
-  last_post_date: "2025-06-11T07:24:01Z"
-  last_post_link: https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/
+  last_post_title: Emacs on Second Try
+  last_post_description: In 2018, Sascha Fast of zettelkasten.de was on a minimalist
+    task management journey and dug into Emacs org-mode, and pressured me for days
+    (we were sharing an apartment back then) to give it a shot,
+  last_post_date: "2025-07-02T07:04:59Z"
+  last_post_link: https://christiantietze.de/posts/2025/07/emacs-on-second-try/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fb319138ada4a3a0fadd057c6e9c49c
+  last_post_guid: 26adc39bd4d1c946ad3d13512c401196
   score_criteria:
     cats: 0
     description: 0

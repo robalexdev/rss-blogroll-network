@@ -16,30 +16,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AntiGFW
-  - female
-  - interests
-  - money
+  - anarchism
+  - community
+  - me
+  - midage
   - movie
-  - norwegian wood
-  - writer
-  - 日子流
+  - nowhere man
+  - 无政府主义审美
   relme: {}
-  last_post_title: 今天的两件微妙的感受
-  last_post_description: 1.
-  last_post_date: "2025-06-11T14:54:05Z"
-  last_post_link: https://blog.fivest.one/archives/7017
+  last_post_title: 膝盖骨
+  last_post_description: 膝盖骨乐队 Kneecap，8.5/10 评分给高了一点，是因为我部分地代入了音乐教师 Dj Próvai 的角色，于是它似乎成为了对我而言最好的中年电影之一。
+  last_post_date: "2025-06-14T06:54:26Z"
+  last_post_link: https://blog.fivest.one/archives/7022
   last_post_categories:
-  - AntiGFW
-  - female
-  - interests
-  - money
+  - anarchism
+  - community
+  - me
+  - midage
   - movie
-  - norwegian wood
-  - writer
-  - 日子流
+  - nowhere man
+  - 无政府主义审美
   last_post_language: ""
-  last_post_guid: 1b7e56c7200f0721f57a782421badf4f
+  last_post_guid: 838c9f3521eea11976fac67da194e70a
   score_criteria:
     cats: 0
     description: 0

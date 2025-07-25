@@ -20,15 +20,7 @@ params:
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
+  recommender: []
   categories:
   - film
   - music

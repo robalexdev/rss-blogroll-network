@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Bacardi55's blogroll
+    description: ""
+    id: 5b6826cc65a55cfb580130b47ec7a162
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06

@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: View Only the Day, With Org Agenda
-  last_post_description: Live in Day Tight Compartments; only worry about what’s happening
-    today; that’s all you can control — Dale Carnegie
-  last_post_date: "2025-01-20T08:50:40+05:30"
-  last_post_link: https://janusworx.com/work/view-only-day-with-org-agenda/
+  last_post_title: Emacs Package Updation Checklist
+  last_post_description: Checklist for future, lost, Jason
+  last_post_date: "2025-07-06T08:36:44+05:30"
+  last_post_link: https://janusworx.com/work/emacs-package-updation-checklist/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 81021195680ba3494379b6c5a1112466
+  last_post_guid: 49c70ff0c71a63cbc049397293c643d5
   score_criteria:
     cats: 0
     description: 3

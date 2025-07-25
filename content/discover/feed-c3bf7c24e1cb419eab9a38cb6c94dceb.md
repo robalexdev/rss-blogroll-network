@@ -8,7 +8,6 @@ params:
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
     https://www.pythonmorsels.com/articles/: false
-    https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -18,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Looping in reverse
-  last_post_description: "Any reversible iterable can be reversed using the built-in
-    reversed function whereas Python's slicing syntax only works on sequences.\n  \n
-    \   Reversing sequences with slicing\n    \n      \n        If"
-  last_post_date: "2025-05-27T03:00:00Z"
-  last_post_link: https://www.pythonmorsels.com/looping-in-reverse/
+  last_post_title: Don't call dunder methods
+  last_post_description: "It's best to avoid calling dunder methods. It's common to
+    define dunder methods, but uncommon to call them directly.\n  \n    What is a
+    dunder method?\n    \n      \n        In Python, a method with two"
+  last_post_date: "2025-07-22T23:39:43Z"
+  last_post_link: https://www.pythonmorsels.com/avoid-dunder-methods/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1037d9efe4a3177cbeba3175139cfb84
+  last_post_guid: 932360ed3bb89c7e9b1c2e0168003a9e
   score_criteria:
     cats: 0
     description: 3
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

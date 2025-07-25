@@ -16,23 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdout
+  - stdin
   relme: {}
-  last_post_title: A single Python function for both async/sync
-  last_post_description: |-
-    Scenario: I often need to write Python functions like:
-
-    take some parameters and format them
-    call an API with the formatted parameters
-    parse the result and return chosen values
-
-    There's a huge
-  last_post_date: "2025-05-14T14:35:00+08:00"
-  last_post_link: https://blog.est.im/2025/stdout-04
+  last_post_title: 原研哉《棍子和碗》
+  last_post_description: 之前看到个 棍子和碗 的说法，印象很深，觉得很扯，总觉得哪里不对，但是没想明白。查了下居然是 原研哉
+  last_post_date: "2025-06-18T13:55:00+08:00"
+  last_post_link: https://blog.est.im/2025/stdin-06
   last_post_categories:
-  - stdout
+  - stdin
   last_post_language: ""
-  last_post_guid: b52c2d3846f9370203304961362b2792
+  last_post_guid: 3ed1925a55cb887f427fd51dc5d0b817
   score_criteria:
     cats: 0
     description: 3

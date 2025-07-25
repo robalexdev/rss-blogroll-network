@@ -18,16 +18,16 @@ params:
   categories:
   - emacs
   relme: {}
-  last_post_title: Towards Auto-Generated ERT Unit Tests
-  last_post_description: Rigorous testing clearly benefits software projects, yet
-    many Emacs Lisp packages have minimal tests. You might think manual testing during
-    development is enough—but that only works if the code
-  last_post_date: "2025-04-30T11:14:00-07:00"
-  last_post_link: https://spepo.github.io/2025-04-30-towards-auto-generated-ert-unit-tests.html
+  last_post_title: Fault-tolerant Org Links
+  last_post_description: 'Not a Complete Solution: This toolkit currently provides
+    early interception for broken file links only. It could be extended to catch other
+    link types if doing it early would be beneficial. For'
+  last_post_date: "2025-06-22T11:01:00-07:00"
+  last_post_link: https://spepo.github.io/2025-06-22-fault-tolerant-org-links.html
   last_post_categories:
   - emacs
   last_post_language: ""
-  last_post_guid: 3e1bc48a57cc11f569902bf63af1a627
+  last_post_guid: d4dd0e7b1eff4775c8424bb89bebe4bd
   score_criteria:
     cats: 0
     description: 3

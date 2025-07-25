@@ -6,8 +6,7 @@ params:
   feedlink: https://gittup.org/blog/index.rss
   feedtype: rss
   feedid: f5f6fad287ca853dd14cffa7c06775d1
-  websites:
-    https://gittup.org/blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -12,20 +12,22 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Subscriptions-iCloud.opml
+    description: ""
+    id: 2f70a6ce1879a8296b5ad597be193b3a
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why S3 ListObjects Taking 120s to Respond?
-  last_post_description: |-
-    Everyone knows that AWS S3 ListObjects is slow, but can you imagine it being so slow that you have to wait 120 seconds for a response? I've actually seen this happen in the wild.
-    TL;DR
-    The deleted
-  last_post_date: "2025-05-13T01:00:00Z"
-  last_post_link: https://xuanwo.io/2025/02-why-s3-list-objects-taking-120s-to-respond/
+  last_post_title: 'RBIR: An Aurora DSQL story'
+  last_post_description: 'I''ve been pinged by @vaibhaw_vipul to read and share my
+    thoughts on Just make it scale: An Aurora DSQL story. It''s actually quite enjoyable.
+    I agree with @iavins''s comment that "It''s less about'
+  last_post_date: "2025-07-24T01:00:00Z"
+  last_post_link: https://xuanwo.io/links/2025/07/rbir_an_aurora_dsql_story/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43184d5d02c92284a9c0ab63303bc6ea
+  last_post_guid: 6fd61eabfed6727b374ac619b89ce8ad
   score_criteria:
     cats: 0
     description: 3
