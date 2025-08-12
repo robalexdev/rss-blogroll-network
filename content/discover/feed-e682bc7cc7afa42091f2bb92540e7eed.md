@@ -22,39 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bretagne
-  - Bretagne insolite
-  - Morbihan
-  - Musée de la carte postale
-  - Naïa Museum
-  - Voyages
-  - Vénus de Quinipily
-  - art fantastique
-  - librairies
-  - vide-greniers
+  - Austin Kleon
+  - Créativité
+  - dessin
+  - organisation
+  - procrastination
+  - écriture
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
-  last_post_title: 'Morbihan : idées de visites insolites et bonnes adresses en Bretagne
-    sud'
-  last_post_description: Statues mystérieuses, fontaines centenaires, art macabre
-    et fantastique… Qu’il est bon de se promener dans le Morbihan pour faire le plein
-    d’inspiration dans des lieux énigmatiques ! Voici
-  last_post_date: "2025-05-10T16:44:21Z"
-  last_post_link: https://lalunemauve.fr/morbihan-visites-insolites-bonnes-adresses/
+    https://pixelfed.fr/LaLuneMauve: true
+  last_post_title: 'Dessiner et écrire chaque jour : pistes pour créer de manière
+    plus régulière'
+  last_post_description: En ce moment, je réorganise mon quotidien pour dessiner et
+    écrire de plus en plus souvent, parce que ça m’aide à me sentir bien et à progresser
+    dans ma pratique. Voici quelques astuces et
+  last_post_date: "2025-08-06T10:19:54Z"
+  last_post_link: https://lalunemauve.fr/creer-chaque-jour/
   last_post_categories:
-  - Bretagne
-  - Bretagne insolite
-  - Morbihan
-  - Musée de la carte postale
-  - Naïa Museum
-  - Voyages
-  - Vénus de Quinipily
-  - art fantastique
-  - librairies
-  - vide-greniers
+  - Austin Kleon
+  - Créativité
+  - dessin
+  - organisation
+  - procrastination
+  - écriture
   last_post_language: ""
-  last_post_guid: 5ed11847f77fc274073629e01727a3e4
+  last_post_guid: a70d62c85f46e452f2b0182b2d5cbe61
   score_criteria:
     cats: 0
     description: 3

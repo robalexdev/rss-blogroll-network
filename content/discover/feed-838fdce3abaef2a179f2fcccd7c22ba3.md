@@ -23,13 +23,13 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://kevquirk.com/posts-feed
+  - https://kevquirk.com/watch-log-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php

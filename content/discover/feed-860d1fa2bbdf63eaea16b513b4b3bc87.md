@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What "Parse, don't validate" means in Python?
-  last_post_description: Stuff you knew without knowing you knew
-  last_post_date: "2025-07-23T08:11:44Z"
-  last_post_link: https://www.bitecode.dev/p/what-parse-dont-validate-means-in
+  last_post_title: The hiring test that defeated AI
+  last_post_description: For a few months
+  last_post_date: "2025-08-05T15:18:18Z"
+  last_post_link: https://www.bitecode.dev/p/the-hiring-test-that-defeated-ai
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ee65844107cdda459c1ea75efeabc4fe
+  last_post_guid: 5a29ca19f8126c7e8621734ca8403d0a
   score_criteria:
     cats: 0
     description: 3

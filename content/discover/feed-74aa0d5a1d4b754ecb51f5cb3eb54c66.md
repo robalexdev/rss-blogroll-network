@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My Last Day at VCU Health
-  last_post_description: After nine years, today was my last day as a VCU Health employee.
-    My former coworkers are some of the best, kindest, and brightest people I’ve ever
-    worked with and I’m proud of the work we did
-  last_post_date: "2025-06-06T16:00:00-04:00"
-  last_post_link: https://samdavies.me/2025/06/06/my-last-day-at-vcu.html
+  last_post_title: More Cowardice from VCU Health Leadership
+  last_post_description: Yesterday, VCU Health (my former employer), again cut off
+    access to trans-affirming health care for both children and legal adults (aged
+    18). I’m angry and disappointed, and I’m feeling extremely
+  last_post_date: "2025-07-30T08:46:37-04:00"
+  last_post_link: https://samdavies.me/2025/07/30/more-cowardice-from-vcu-health.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 97f87d4e7a09e96ab18a5204c4b18832
+  last_post_guid: e87a89ae60218a350c13757fce9541f8
   score_criteria:
     cats: 0
     description: 0

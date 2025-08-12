@@ -15,7 +15,6 @@ params:
     id: 4e2ec23ac536a5d58f2702b4603e3554
   recommended: []
   recommender:
-  - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
   categories: []

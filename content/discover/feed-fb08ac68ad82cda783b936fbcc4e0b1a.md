@@ -19,33 +19,32 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Interviews
-  - Politics
-  - Science
-  - mental health
-  - nursing
-  - public health
-  - q&as
-  - suicide
+  - Mods Asleep
+  - Music
+  - guest editor
+  - pop stars
+  - puja week
+  - relationships
+  - taylor swift
+  - trans issues
   relme: {}
-  last_post_title: An Interview With A Psychiatric Nurse Whose Research Funding Was
-    Cut By The Trump Administration
-  last_post_description: Laura Mata López was born and raised in a low-income community
-    in San José, Costa Rica. Some of her earliest memories were of the impact poverty
-    and a lack of support for mental health had on her
-  last_post_date: "2025-06-11T19:05:16Z"
-  last_post_link: https://defector.com/an-interview-with-a-psychiatric-nurse-whose-research-funding-was-cut-by-the-trump-administration
+  last_post_title: Taylor Swift Turned Me Straight
+  last_post_description: I finally get Midnights. I don’t just mean, “Oh, I thought
+    this album was whatever when I first heard it, and now I really love it,” though
+    I do mean that a little bit. I mean I get it get it.
+  last_post_date: "2025-08-11T16:01:19Z"
+  last_post_link: https://defector.com/taylor-swift-turned-me-straight
   last_post_categories:
-  - Interviews
-  - Politics
-  - Science
-  - mental health
-  - nursing
-  - public health
-  - q&as
-  - suicide
+  - Mods Asleep
+  - Music
+  - guest editor
+  - pop stars
+  - puja week
+  - relationships
+  - taylor swift
+  - trans issues
   last_post_language: ""
-  last_post_guid: b886d3ad5bc9e3306e8d1d3468082ca2
+  last_post_guid: f9def02c123a87471ecd7adafb0b653f
   score_criteria:
     cats: 0
     description: 3

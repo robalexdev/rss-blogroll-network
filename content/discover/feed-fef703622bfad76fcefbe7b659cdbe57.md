@@ -33,8 +33,8 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - general
+  - swim2025
   - via-instagram
-  - via-pesos
   relme:
     https://artlung.com/: true
     https://artlung.com/comics/: true
@@ -48,17 +48,16 @@ params:
     https://stackoverflow.com/users/63094/artlung: true
     https://thisbot.day/@affirmations: true
     https://xoxo.zone/@artlung: true
-  last_post_title: I can’t hate a graffito of PaRappa the Rapper. From OB this morning.
-    @gwenthegoblin appreciated the lack of amplified music and amazing sea smells.
+  last_post_title: Summer winding down but skincare still a priority
   last_post_description: ""
-  last_post_date: "2025-06-10T20:17:16Z"
-  last_post_link: https://artlung.com/blog/2025/06/10/parappa-gwenthegoblin/
+  last_post_date: "2025-08-10T04:35:38Z"
+  last_post_link: https://artlung.com/blog/2025/08/09/summer-winding-skincare/
   last_post_categories:
   - general
+  - swim2025
   - via-instagram
-  - via-pesos
   last_post_language: ""
-  last_post_guid: 17a4abdcf1ce37b52efc37f5df2429f5
+  last_post_guid: d2d30173ae3c936781973d353e8ec026
   score_criteria:
     cats: 0
     description: 3

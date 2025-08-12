@@ -13,21 +13,23 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: Golang database/sql 数据库断线自动重连机制解析
+  last_post_title: 大连之行
   last_post_description: |-
-    最近有个交接服务的数据库要升级版本，升级最后切换瞬间会有一个闪断。
-    这里业务侧需要确保有自动重连机制，否则会影响服务。
-    因为是交接的服务
-  last_post_date: "2025-04-30T17:37:23+08:00"
-  last_post_link: https://liudon.com/posts/golang-database-sql-auto-reconnect-mechanism/
+    6月底，趁着娃刚考完试，学校也没课了，请假带娃去大连玩了一趟。
+    这次是跟娃好朋友一起出行，人两口子以前做旅行社的，直接搞了一个行程表，我
+  last_post_date: "2025-08-03T20:55:36+08:00"
+  last_post_link: https://liudon.com/posts/dalian-trip/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38ed7782de8650a37226df0ccd4f1d59
+  last_post_guid: dbe5ed5b10c3817e4b10a6f4275693dd
   score_criteria:
     cats: 0
     description: 3

@@ -21,16 +21,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Figma annotations inaccessible for free accounts
-  last_post_description: I learned this week that the Annotations feature in Figma
-    is not accessible for people with free accounts. Instead, you need to have a paid
-    account with Dev Mode access. This is a major hindrance and
-  last_post_date: "2025-07-24T17:28:38Z"
-  last_post_link: https://actsofvolition.com/2025/07/figma-annotations-inaccessible-for-free-accounts/
+  last_post_title: Hanson + Smashing Pumpkins + Fountains of Wayne + Cheap Trick
+  last_post_description: 'Did you know there was a super-group that released an album
+    in 2009 that consisted of: Weird but true. Enjoy Kind of a Girl by Tinted Windows.
+    Update: I learned from Wikipedia that the guitar play'
+  last_post_date: "2025-08-08T13:52:15Z"
+  last_post_link: https://actsofvolition.com/2025/08/hanson-smashing-pumpkins-fountains-of-wayne-cheap-trick/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: ebb608a7ee6a75ffc31f2d90a48e7716
+  last_post_guid: e01eb514bf7dc83073ff9b376e6b17dc
   score_criteria:
     cats: 0
     description: 0

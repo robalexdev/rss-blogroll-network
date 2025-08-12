@@ -1,11 +1,14 @@
 ---
 title: ""
-date: "2025-06-10T20:55:28.500+00:00"
+date: "2025-08-11T06:50:38.728+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
   blogroll_id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommends:
+  - title: vanderwal.net Off the Top
+    description: Tail -f of thoughts from Thomas Vander Wal
+    id: 02621058bd1b29c2722360c1f57454d1
   - title: garrit.xyz
     description: Garrit Franke
     id: 08c9a1f191b05dfc5913700989658ade
@@ -26,6 +29,9 @@ params:
       design; audio development using Max/MSP, C++, JUCE, and Rust; and web development
       on the IndieWeb
     id: 1a0cb8efd2b80a88db630982baf1af3b
+  - title: Sara Joy
+    description: Sara's homepage, blog, portfolio
+    id: 1b6be28b5151847cb6a0f9e0f8704709
   - title: Preem Chrome
     description: Last 10 notes on Preem Chrome
     id: 241fb3b3275aa3104188757b4a6a55ba
@@ -35,7 +41,7 @@ params:
 
       Join comedian, actor,
     id: 2700ac6f034c8c2797cf23ac83ba2771
-  - title: joelchrono's website
+  - title: joelchrono's blog
     description: ""
     id: 2a21b8e739bdf0ebf3a771b247418b2b
   - title: David Shanske
@@ -47,9 +53,12 @@ params:
   - title: Frills
     description: All blog posts and updates from Frills
     id: 411adab74d8aa1bb595049f04ed9fdfc
-  - title: Home page on Ross A. Baker (English)
+  - title: Old man yells at Internet on Ross A. Baker (English)
     description: a perfectly cromulent developer
     id: 445d8abde2bf4b4955e8806ee1c744f1
+  - title: Daryl Sun's Journal
+    description: An online diary of a lady's misadventures in two worlds
+    id: 44bd5dcf5ff7750f135a4a80abe544b0
   - title: 'Eye of the Duck: A Film Podcast'
     description: A podcast about movies and the scenes that make them special. Each
       week, hosts Dom Nero and Adam Volerich explore a movie by finding the scene
@@ -93,6 +102,10 @@ params:
   - title: The Cryptid Factor
     description: Three best buddies - Rhys Darby, Dan Schreiber, and Leon 'Buttons' Kirkbeck bring you The Cryptid Factor 
     id: 7055c3f348abd3fc65a907972b8c4753
+  - title: MICHAEL KUPIETZ ARTS+CODE
+    description: Creative Productions, Arrangements, and Operations • Art, Technology,
+      and Amusements
+    id: 716e6fc4597570d2db12e5f616d09f1d
   - title: '@muan''s stories'
     description: Stories.
     id: 71872194450e6f4a6dc23a4404d39599
@@ -142,11 +155,14 @@ params:
     description: Writings on infosec, technology and life
     id: b08e1157d015d5e536d9420f175efdba
   - title: Mandaris
-    description: ""
+    description: Recent content on Mandaris
     id: b308258d8645d61a16a6ee2c3026ea40
   - title: Grigor's web feed
     description: ""
     id: b322d317b7336fa789815e69b5353c45
+  - title: Corvid Cafe
+    description: an internet garden, tended with love and affection
+    id: b6fdea0acea4ff2fe277568b33a1e0d7
   - title: Eva Town
     description: Dispatches from the world wide web.
     id: b8d652f108bacbceb79e177565ccfa09
@@ -162,6 +178,9 @@ params:
     description: Entire Site RSS Feed Blog RSS Feed Photography RSS Feed Podcast RSS
       Feed
     id: ccc9a3066f0cf4b78454016735c97e08
+  - title: fLaMEd fury
+    description: What's going on Internet?
+    id: ce8b8859381a725d3f983d596f3b0822
   - title: Trevor Morris’ latest blog posts
     description: ""
     id: ce9e9ca428d55abf8115c36261d4c3a8
@@ -170,7 +189,8 @@ params:
       put some of it on here
     id: d3392b515d5baad7ba61509515ce99e3
   - title: Zachary Kai
-    description: Offbeat, queer, 20-something, curiosity enthusiast, and traveler.
+    description: Hi! Zachary Kai here, a space fantasy writer, offbeat queer, twenty-something,
+      curiosity enthusiast, and traveler.
     id: dd61c3b24b397dc774295ab7c69d0e8c
   - title: véronique
     description: art, zines, feelings + web hearts
@@ -192,6 +212,10 @@ params:
   - title: Tracy Durnell's Mind Garden
     description: Thinking and Learning In Public
     id: f8113a925cb48b9a750df64675797e12
+  - title: Popagandhi
+    description: long form essays, photos, recipes and other interests by adrianna
+      tan
+    id: fa05b90a36b93464d054fc88a5fb4acc
   - title: Anthony Ciccarello
     description: I'm a software engineer living in Southern California building cool
       things using JavaScript and other web technologies. I enjoy travel, disc sports,

@@ -16,19 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
+  - Coding
   relme:
     https://blog.x-way.org/: true
-  last_post_title: Taking screenshots with GNU Screen
-  last_post_description: "In the tmux and gist and trying to make students happier
-    article, Jan-Piet Mens explains how to take screenshots with tmux.\n\n\n\tAs I
-    still haven't migrated from Screen to tmux, I was wondering if this"
-  last_post_date: "2025-07-24T16:12:58+02:00"
-  last_post_link: https://blog.x-way.org/Linux/2025/07/24/Taking-screenshots-with-GNU-Screen.html
+    https://github.com/x-way: true
+    https://infosec.exchange/@x_way: true
+  last_post_title: Serious coding with AI in 2025
+  last_post_description: '[Keep] a very tight leash on this new over-eager junior
+    intern savant with encyclopedic knowledge of software, but who also bullshits
+    you all the time, has an over-abundance of courage and shows'
+  last_post_date: "2025-07-31T09:00:11+02:00"
+  last_post_link: https://blog.x-way.org/Coding/2025/07/31/Serious-coding-with-AI-in-2025.html
   last_post_categories:
-  - Linux
+  - Coding
   last_post_language: ""
-  last_post_guid: 2871719335896353129bc3438e5191b8
+  last_post_guid: 8a5b0f18e776069de866b4e4166d8ab5
   score_criteria:
     cats: 0
     description: 3

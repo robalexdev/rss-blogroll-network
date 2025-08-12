@@ -1,6 +1,6 @@
 ---
 title: 花生莲子粥の小窝
-date: "2025-04-13T05:00:00Z"
+date: "2025-08-02T11:30:20Z"
 description: 与世无争，不染于泥
 params:
   feedlink: https://blog.hslzz.cn/atom.xml
@@ -17,20 +17,22 @@ params:
   recommender:
   - https://mayx.eu.org/atom.xml
   categories:
-  - Butterfly
-  - Hexo
-  - 教程
+  - Linux
+  - 建站
+  - 经验
+  - 雷池WAF
   relme: {}
-  last_post_title: 智能的给Hexo全站外链加上rel标签，解决seo权重外流问题
-  last_post_description: 为Hexo博客全站外链添加rel标签，解决 SEO 权重外流问题，提升博客优化效果。
-  last_post_date: "2025-05-17T06:52:47Z"
-  last_post_link: https://blog.hslzz.cn/posts/20250305191500.html
+  last_post_title: 使用AllinSSL实现自动续签雷池WAF的SSL证书
+  last_post_description: 使用EC384-SHA384算法为内网服务器自签SSL/TLS证书。包含创建CA、服务器密钥和证书的完整步骤，支持多域名/IP配置。
+  last_post_date: "2025-08-03T13:24:18Z"
+  last_post_link: https://blog.hslzz.cn/posts/20250718182520.html
   last_post_categories:
-  - Butterfly
-  - Hexo
-  - 教程
+  - Linux
+  - 建站
+  - 经验
+  - 雷池WAF
   last_post_language: ""
-  last_post_guid: 6d4ad3c04928edee21821e6601d47798
+  last_post_guid: 905c00fffbcbe1a7a668d8e35d85f740
   score_criteria:
     cats: 0
     description: 3

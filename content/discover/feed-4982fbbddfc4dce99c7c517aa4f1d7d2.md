@@ -13,57 +13,56 @@ params:
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Agent
-  - LLM
-  - Nature
-  - 代码
-  - 写作
-  - 外包
-  - 大模型
-  - 工具
-  - 幻觉
-  - 思考
+  - CQ
+  - Go
+  - Golang
+  - IO
+  - Kernel
+  - Linux
+  - P
+  - SQ
+  - epoll
+  - io_uring
+  - processor
+  - runtime
+  - scylladb
+  - 异步IO
   - 技术志
-  - 效率
-  - 核心能力
-  - 社论
-  - 系统设计
-  - 编码
-  - 自然杂志
-  - 设计决策
+  - 标准库
+  - 运行时
   relme:
     https://tonybai.com/: true
-  last_post_title: 写作即思考：AI 时代，开发者为什么要警惕“思考外包”？
-  last_post_description: 本文永久链接 – https://tonybai.com/2025/07/25/writing-is-thinking
-    大家好，我是Tony Bai。 最近，全球顶级的科学期刊《自然》(Nature)
-  last_post_date: "2025-07-25T05:16:34Z"
-  last_post_link: https://tonybai.com/2025/07/25/writing-is-thinking/
+  last_post_title: 为何Go语言迟迟未能拥抱 io_uring？揭秘集成的三大核心困境
+  last_post_description: 本文永久链接 – https://tonybai.com/2025/08/11/why-go-not-embrace-iouring
+    大家好，我是Tony Bai。 在 Linux I/O 的世界里，io_uring
+  last_post_date: "2025-08-11T00:06:40Z"
+  last_post_link: https://tonybai.com/2025/08/11/why-go-not-embrace-iouring/
   last_post_categories:
-  - AI
-  - Agent
-  - LLM
-  - Nature
-  - 代码
-  - 写作
-  - 外包
-  - 大模型
-  - 工具
-  - 幻觉
-  - 思考
+  - CQ
+  - Go
+  - Golang
+  - IO
+  - Kernel
+  - Linux
+  - P
+  - SQ
+  - epoll
+  - io_uring
+  - processor
+  - runtime
+  - scylladb
+  - 异步IO
   - 技术志
-  - 效率
-  - 核心能力
-  - 社论
-  - 系统设计
-  - 编码
-  - 自然杂志
-  - 设计决策
+  - 标准库
+  - 运行时
   last_post_language: ""
-  last_post_guid: d445a15f2858dfb3a4e3ec15acd6026d
+  last_post_guid: a44d55faea9837e9b3a46ab187b1fbb0
   score_criteria:
     cats: 0
     description: 3

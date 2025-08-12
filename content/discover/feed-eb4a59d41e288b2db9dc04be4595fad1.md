@@ -22,19 +22,17 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: The US’s largest solar + storage project just hit a big milestone
-  last_post_description: |-
-    AES just completed the first half of Bellefield, which will become the largest solar + storage facility in the US.
-
-
-
-     more…
-  last_post_date: "2025-06-11T22:55:58Z"
-  last_post_link: https://electrek.co/2025/06/11/the-us-largest-solar-storage-project-just-hit-a-big-milestone/
+  last_post_title: Jeep’s new electric SUV is giving off some serious Ford Bronco
+    vibes
+  last_post_description: Jeep said the Recon was “inspired by the legendary Wrangler,”
+    but it looks more like a Ford Bronco. With its debut expected any day now, Jeep’s
+    new electric SUV was spotted on a car carrier,
+  last_post_date: "2025-08-11T17:50:01Z"
+  last_post_link: https://electrek.co/2025/08/11/jeeps-new-electric-suv-gives-off-serious-ford-bronco-vibes/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: 2272f0d394c73538d18de05becf06f72
+  last_post_guid: 12444600d71944075b7f55d2a8e2b76b
   score_criteria:
     cats: 0
     description: 3

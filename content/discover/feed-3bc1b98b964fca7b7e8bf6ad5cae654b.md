@@ -1,6 +1,6 @@
 ---
 title: Mark Llobrera
-date: "2025-06-09T13:14:59Z"
+date: "2025-08-08T17:54:54Z"
 description: This is the online home for Mark Llobrera, housing his blog, reading
   log, and film log.
 params:
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stay True
+  last_post_title: Ocean's Thirteen
   last_post_description: ""
-  last_post_date: "2025-06-09T13:14:59Z"
-  last_post_link: https://www.markllobrera.com/reading/stay-true/
+  last_post_date: "2025-08-08T17:54:54Z"
+  last_post_link: https://www.markllobrera.com/watching/oceans-thirteen-20250803/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21a62437f9d99f99a8c10f51fcdfb699
+  last_post_guid: 1261a6f1cde0dfa5fc965ef893ae81fd
   score_criteria:
     cats: 0
     description: 3

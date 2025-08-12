@@ -1,5 +1,5 @@
 ---
-title: Miniflux
+title: Blogroll
 date: ""
 description: ""
 params:
@@ -59,6 +59,9 @@ params:
   - title: Tim Hårek
     description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
+  - title: Everything on Luke's Wild Website
+    description: Recent content in Everything on Luke's Wild Website
+    id: 4685ae84966feff5e12e3b849531b6ea
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
@@ -78,13 +81,16 @@ params:
   - title: Jon Worth
     description: Independent railway commentator
     id: 61a94025d87b544bb3104f1508c59c20
-  - title: Herman's blog
+  - title: ᕕ( ᐛ )ᕗ Herman's blog
     description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
       hiker of mountains.
     id: 70bd2cb4aea08909cfd5279c3cac3d23
   - title: Austin Z. Henley's Blog
     description: ""
     id: 716f56c4993992eccbc7d1042247d7f0
+  - title: pketh.org
+    description: Making things simple, radical and beautiful
+    id: 780f0684abd25d95427558bcb80c589e
   - title: xkcd.com
     description: 'xkcd.com: A webcomic of romance and math humor.'
     id: 7cede4dcbc427482f3509d2c72bae2d3
@@ -111,6 +117,10 @@ params:
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
     id: 9417e92ed42b42a9df3959016838f82d
+  - title: Werd I/O
+    description: Writing at the intersection of technology, media, and democracy by
+      Ben Werdmuller
+    id: 945f01c08c54530895712b075e5dd074
   - title: Readings - Henrique Dias
     description: ""
     id: 95f4f2a5765ed1075962303225cfcb80
@@ -144,9 +154,16 @@ params:
   - title: Dame's Blog
     description: A blog about technology, social media, and mindful digital living
     id: c097ddabca1e955ce0b152a8bb229e47
+  - title: The Perry Bible Fellowship
+    description: Offbeat comic strip by Nicholas Gurewitch. Includes archives, information
+      about the author, and purchases.
+    id: c402c16387f651795fc9ef06e352620a
   - title: Alpine Linux News
     description: ""
     id: c692078d3e6f22e8f331b1ed54acb512
+  - title: Hundred Rabbits
+    description: Rek and Devine project updates
+    id: cabc891b4f1b98c63512b0d4ebee044c
   - title: Ana Rodrigues
     description: A personal blog from Ana Rodrigues.
     id: cacaddc8702ee57ee6296639e416538a

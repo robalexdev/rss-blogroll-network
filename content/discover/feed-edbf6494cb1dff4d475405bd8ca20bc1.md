@@ -16,15 +16,28 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Ollama Buddy v1.0: A Simple AI Assistant'
-  last_post_description: After months of development and refinement, I’m excited to
-    announce Ollama Buddy v1.0 - an Emacs package that simply interfaces mainly to
-    ollama, for local LLM usage, but can be integrated to the
-  last_post_date: "2025-07-23T09:20:00+01:00"
-  last_post_link: https://emacs.dyerdwelling.family/emacs/20250723083048-emacs--announcing-v1-ollama-buddy/
+  last_post_title: View-Mode - Emacs's Hidden Modal Editing Gem?
+  last_post_description: |-
+    The Rabbit Hole
+    View Mode
+    The Setup
+    Baby Proofing
+    Cursor
+    Subtleties
+    Foibles
+    Improvements?
+    Conclusion
+
+
+
+
+    The Rabbit Hole
+    I’ve fallen down another rabbit hole, but then again, this is Emacs we’re
+  last_post_date: "2025-08-01T08:30:00+01:00"
+  last_post_link: https://emacs.dyerdwelling.family/emacs/20250731123820-emacs--discovering-view-mode-emacss-hidden-modal-editing-gem/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 31e9f100e8a05f9f226fb985bff8c680
+  last_post_guid: b016d8faea048cabc955f31529c61d89
   score_criteria:
     cats: 0
     description: 3

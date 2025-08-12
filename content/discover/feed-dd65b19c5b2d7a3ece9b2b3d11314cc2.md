@@ -13,7 +13,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Miniflux
+  - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   - title: RSS feeds from Minifeed.net
@@ -28,7 +28,6 @@ params:
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
-  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
   last_post_title: An Update About This Very Webbed Site

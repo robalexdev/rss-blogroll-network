@@ -22,16 +22,25 @@ params:
   categories:
   - frontpage
   relme: {}
-  last_post_title: Colliberator hackathon
-  last_post_description: Vi invitiamo domani 30 maggio a un hackathon di 24 ore sul
-    tema interdisciplinare (Ingegneria e Scienze Alimentari) "Smart Storage e IoT"
-    per frutta e verdura, che inizierà con presentazioni dal
-  last_post_date: "2025-05-29T13:56:02Z"
-  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=253:colliberator-hackathon-
+  last_post_title: LinuxDay 2025 Palermo
+  last_post_description: |-
+    Sabato 25 Ottobre ore 09:00-13:00
+
+
+
+    Aula Magna Li Donni
+    Viale delle Scienze – Unipa
+
+
+    09:00
+    Saluti istituzionali
+    Prof.ssa Sonya Vasto (Presidente Rotary TDS)Ing. Vincenzo di Dio (Presidente Ordine
+  last_post_date: "2025-08-02T16:59:27Z"
+  last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=254:linuxday-2025-palermo
   last_post_categories:
   - frontpage
   last_post_language: ""
-  last_post_guid: 5c3f3631de8919e5b438d21e7c653687
+  last_post_guid: e19859a373c18c6db4daf00f8c670cb3
   score_criteria:
     cats: 0
     description: 3

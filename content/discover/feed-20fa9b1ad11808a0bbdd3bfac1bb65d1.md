@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2025-05-13T00:42:59Z"
+date: "2025-08-06T02:47:03Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss

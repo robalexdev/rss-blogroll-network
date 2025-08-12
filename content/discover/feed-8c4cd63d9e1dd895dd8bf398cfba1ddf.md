@@ -1,6 +1,6 @@
 ---
 title: Michele Agostinelli Blog
-date: "2025-07-25T07:49:16+02:00"
+date: "2025-08-11T17:43:00+02:00"
 description: La casa delle mie passioni
 params:
   feedlink: https://blog.agostinelli.eu/feed/

@@ -1,6 +1,6 @@
 ---
 title: Jerz.US - Microblog
-date: "2025-05-23T18:43:53Z"
+date: "2025-07-01T17:31:39Z"
 description: Ryan C. Jerz's feed
 params:
   feedlink: https://jerz.us/rss/?section=micro

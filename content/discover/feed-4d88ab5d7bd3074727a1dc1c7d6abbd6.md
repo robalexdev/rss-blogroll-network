@@ -44,7 +44,6 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
-  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
@@ -101,15 +100,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: The 8th Inning Game
-  last_post_description: It was my birthday yesterday (I’ve entered my late 50s) and
-    the Cubs were playing in Wrigley. Some day I will be in Wrigley on my birthday
-    to watch the Cubs, but yesterday I was at home. The Cubs
-  last_post_date: "2025-04-19T12:14:17-04:00"
-  last_post_link: https://frankmcpherson.blog/2025/04/19/the-th-inning-game.html
+  last_post_title: Same Old Cubs Ownership
+  last_post_description: Hoyer can rationalize his trade deadline decisions all he
+    wants the bottom line is he did not get the job done, and no improvement to the
+    starting pitching rotation has been done. Assad better
+  last_post_date: "2025-08-01T10:59:22-04:00"
+  last_post_link: https://frankmcpherson.blog/2025/08/01/same-old-cubs-ownership.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 15b7ecb37ac46323096ee33e036a7b8e
+  last_post_guid: 4c80dcfc9aff23f29ee6bd922c4a032e
   score_criteria:
     cats: 0
     description: 0

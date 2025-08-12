@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-07-09T14:16:27Z"
+date: "2025-08-01T16:23:39Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -13,6 +13,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
   categories: []
@@ -21,13 +24,14 @@ params:
     https://anniemueller.com/: true
     https://github.com/anniemueller: true
     https://social.lol/@annie: true
-  last_post_title: Small webbing along, update 1
-  last_post_description: A week notes addendum with an actual update, maybe.
-  last_post_date: "2025-07-09T14:52:21Z"
-  last_post_link: https://anniemueller.com/posts/small-webbing-along-update-1
+  last_post_title: Small Web July recap
+  last_post_description: I did some of what I wanted to do and completely missed on
+    other things. This was a nice focus for the month.
+  last_post_date: "2025-08-04T01:25:07Z"
+  last_post_link: https://anniemueller.com/posts/small-web-july-recap
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd7cf778d00e72c2fc953878f846e3ca
+  last_post_guid: 83cea1cd653b03988353a2985f47f2eb
   score_criteria:
     cats: 0
     description: 0

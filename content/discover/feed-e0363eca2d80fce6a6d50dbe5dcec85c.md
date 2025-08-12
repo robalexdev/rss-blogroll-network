@@ -25,22 +25,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Network Protection
-  - privacy
-  - security
+  - Chrome
+  - Edge
+  - Windows
+  - browsers
+  - bugs
+  - web
   relme: {}
-  last_post_title: 'First Look: Apple’s NEURLFilter API'
-  last_post_description: 'At WWDC 2025, Apple introduced an interesting new API, NEURLFilter,
-    to respond to a key challenge we’ve talked about previously: the inherent conflict
-    between privacy and security when trying to'
-  last_post_date: "2025-06-10T23:07:01Z"
-  last_post_link: https://textslashplain.com/2025/06/10/apple-url-filter-api/
+  last_post_title: Family Safety Content Filtering
+  last_post_description: Microsoft Family Safety is a feature of Windows that allows
+    parents to control their children’s access to apps and content in Windows. The
+    feature is tied to the user accounts of the parent(s) and
+  last_post_date: "2025-06-12T20:05:11Z"
+  last_post_link: https://textslashplain.com/2025/06/12/family-safety-content-filtering/
   last_post_categories:
-  - Network Protection
-  - privacy
-  - security
+  - Chrome
+  - Edge
+  - Windows
+  - browsers
+  - bugs
+  - web
   last_post_language: ""
-  last_post_guid: eb63457423ddadb1890d07a638ea95eb
+  last_post_guid: 13fa018e01c39aff24c1a0ecca6567fd
   score_criteria:
     cats: 0
     description: 3

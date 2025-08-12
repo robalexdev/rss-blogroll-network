@@ -1,6 +1,6 @@
 ---
 title: Amit's Thoughts
-date: "2025-07-24T16:49:30-07:00"
+date: "2025-08-07T07:15:50-07:00"
 description: Amit has crazy thoughts.
 params:
   feedlink: https://amitp.blogspot.com/feeds/posts/default/-/emacs

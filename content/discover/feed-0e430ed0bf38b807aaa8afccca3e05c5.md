@@ -16,55 +16,48 @@ params:
   recommender: []
   categories:
   - Blog
-  - CVE 2025
-  - Cisco ISE
-  - CitrixBleed 2
-  - Cyber Warfare
-  - Cyberkrieg
-  - Datenlecks
-  - Greenbone
-  - Linux vulnerabilities
-  - Linux-Sicherheitslücken
-  - RoundCube
+  - CISA KEV
+  - CVE-2025-49704
+  - CVE-2025-49706
+  - CVE-2025-53770
+  - CVE-2025-53771
+  - Microsoft SharePoint
+  - RCE
+  - Ransomware
+  - Remote Code Execution
+  - Remote-Code-Ausführung
   - Schwachstellenmanagement
-  - Sitecore RCE
-  - Threat Intelligence
-  - Veeam-Exploit
+  - ToolShell
   - Vulnerability Management
-  - Wiper-Malware
-  - critical infrastructure
-  - data breaches
-  - kritische Infrastrukturen
+  - Zero-Day
+  - cybersecurity
   relme: {}
-  last_post_title: 'Threat Report June 2025: A Cyber Combat of Attrition'
-  last_post_description: The 2025 IOCTA report from Europol warns that demand for
-    data on the cybercrime underground is surging. How much data has been stolen exactly?
-    Determining exact numbers is impossible. However, the
-  last_post_date: "2025-07-23T10:07:37Z"
-  last_post_link: https://www.greenbone.net/en/blog/threat-report-june-2025-a-cyber-combat-of-attrition/
+  last_post_title: 'ToolShell: Patch Bypass Prompts Emergency Alerts for Microsoft
+    SharePoint'
+  last_post_description: On Saturday, July 19th, flaws in Microsoft SharePoint Server
+    became the subject of emergency cybersecurity alerts worldwide. Four CVEs are
+    involved and collectively dubbed “ToolShell”; two
+  last_post_date: "2025-08-05T07:38:03Z"
+  last_post_link: https://www.greenbone.net/en/blog/toolshell-patch-bypass-prompts-emergency-alerts-for-microsoft-sharepoint/
   last_post_categories:
   - Blog
-  - CVE 2025
-  - Cisco ISE
-  - CitrixBleed 2
-  - Cyber Warfare
-  - Cyberkrieg
-  - Datenlecks
-  - Greenbone
-  - Linux vulnerabilities
-  - Linux-Sicherheitslücken
-  - RoundCube
+  - CISA KEV
+  - CVE-2025-49704
+  - CVE-2025-49706
+  - CVE-2025-53770
+  - CVE-2025-53771
+  - Microsoft SharePoint
+  - RCE
+  - Ransomware
+  - Remote Code Execution
+  - Remote-Code-Ausführung
   - Schwachstellenmanagement
-  - Sitecore RCE
-  - Threat Intelligence
-  - Veeam-Exploit
+  - ToolShell
   - Vulnerability Management
-  - Wiper-Malware
-  - critical infrastructure
-  - data breaches
-  - kritische Infrastrukturen
+  - Zero-Day
+  - cybersecurity
   last_post_language: ""
-  last_post_guid: f1a66be228e1af583d2f7ded740137e5
+  last_post_guid: 0e9d75584f31db0a7ac60a46b7716db4
   score_criteria:
     cats: 0
     description: 3

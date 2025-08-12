@@ -12,26 +12,33 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
-  - history
-  - 博文
-  - 命令行
-  - 工具
+  - GPU
+  - Linux
+  - NVIDIA
+  - 博客
+  - 清理
+  - 运维
   relme: {}
-  last_post_title: history 命令使用
-  last_post_description: 1. history 命令 使用 history 命令可以查看当前会话的命令历史记录，当退出 shell 时，命令历史会被保存到对应的历史文件中。
-    如果是
-  last_post_date: "2025-07-13T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/the-use-of-history.html
+  last_post_title: 如何清理僵尸进程
+  last_post_description: '1. 什么是僵尸进程 进程的创建过程: 父进程调用 fork() 创建子进程 子进程执行 exec() 加载新程序
+    子进程结束执行，调用 exit() 或返回 父进程调用 wait()'
+  last_post_date: "2025-08-07T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/how-to-clean-zombie-processes.html
   last_post_categories:
-  - history
-  - 博文
-  - 命令行
-  - 工具
+  - GPU
+  - Linux
+  - NVIDIA
+  - 博客
+  - 清理
+  - 运维
   last_post_language: ""
-  last_post_guid: f4d4745c818c738e4064c7a6cd36f744
+  last_post_guid: 6745b196bbf57e757a6eff558768637c
   score_criteria:
     cats: 0
     description: 3

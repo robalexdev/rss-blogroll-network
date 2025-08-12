@@ -20,13 +20,14 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: My First Students
-  last_post_description: My first students graduated from high school!
-  last_post_date: "2025-06-05T14:10:53-07:00"
-  last_post_link: https://lifeofpablo.com/blog/my-first-students
+  last_post_title: Columbia University School of Nursing Research Study
+  last_post_description: Federal funds withheld from the Columbia University School
+    of Nursing
+  last_post_date: "2025-07-13T22:46:41-07:00"
+  last_post_link: https://lifeofpablo.com/blog/columbia-research-study
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43b6409e66d5a9f25e2aa8848a2bbb48
+  last_post_guid: 965d9f2ea99ea3892088c99ba1528028
   score_criteria:
     cats: 0
     description: 3

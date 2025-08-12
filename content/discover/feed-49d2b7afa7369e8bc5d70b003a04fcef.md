@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-07-02T01:33:08Z"
+date: "2025-08-06T17:20:42Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: clamp / median / range
+  last_post_title: p-fast trie, but smaller
   last_post_description: ""
-  last_post_date: "2025-07-02T01:33:08Z"
-  last_post_link: https://dotat.at/@/2025-07-02-cmp.html
+  last_post_date: "2025-08-06T17:20:42Z"
+  last_post_link: https://dotat.at/@/2025-08-06-p-fast-trie.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6744c9b3f923d96ffc7849da912bc3ef
+  last_post_guid: 05448dd7d51fd4bacdf223ee3c7eae90
   score_criteria:
     cats: 0
     description: 0

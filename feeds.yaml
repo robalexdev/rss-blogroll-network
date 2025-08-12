@@ -5,6 +5,9 @@ feed_urls:
   - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
   - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
   - https://minifeed.net/blogs/opml.xml
+  - https://www.morerss.com/en.opml
+  - https://www.morerss.com/zh.opml
+  - https://blogs.hn/blogs.hn.opml
 
   #
   # Planets
@@ -113,7 +116,11 @@ feed_urls:
   - https://planet.mageia.org/it/custom/people.opml
   - https://planet.mageia.org/pt/custom/people.opml
 
+  # Dweb
+  - https://redecentralize.org/redigest/2022/kthxbye/redigest_feed_recommendations.opml
+
   # Via repos
+  # https://raw.githubusercontent.com/Identosphere/identity-blogcatcher/refs/heads/master/planetid.ini
   - https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
   - https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
   - https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
@@ -123,6 +130,7 @@ feed_urls:
   - https://raw.githubusercontent.com/Ranchero-Software/NetNewsWire/refs/heads/main/Shared/Importers/DefaultFeeds.opml
   - https://raw.githubusercontent.com/geekplux/share/refs/heads/main/RSS_subscriptions.opml
   - https://raw.githubusercontent.com/impressivewebs/frontend-feeds/refs/heads/master/frontend-feeds.opml
+  - https://github.com/kilimchoi/engineering-blogs/raw/refs/heads/master/engineering_blogs.opml
 
   # theplanetarium
   - https://davorg.theplanetarium.org/opml.xml
@@ -133,6 +141,9 @@ feed_urls:
   - https://planet-commandline.org/+german/opml.xml
   - https://planet-commandline.org/+snippets/opml.xml
   - https://planet-commandline.org/opml.xml
+
+  # RSS Club
+  - https://daverupert.com/rss-club/feeds.xml
 
   # sghatpande.eu
   - https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Blogs.opml
@@ -182,11 +193,16 @@ feed_urls:
   #- https://campaignwiki.org/rpg/osr.opml
   #- https://campaignwiki.org/rpg/other.opml
 
-  # Kagi Small Web (disabled)
-  # - https://kagi.com/smallweb/opml
 
   # Others
   # https://github.com/Martinviv/rss-sources (low stars)
+  # https://indieblog.page/all (no OPML)
+
+  # Kagi Small Web / Small Comics
+  # Kagi has an OPML, but the RSS field is incorrect. Fix that?
+  #- https://raw.githubusercontent.com/kagisearch/smallweb/refs/heads/main/smallcomic.txt
+  #- https://raw.githubusercontent.com/kagisearch/smallweb/refs/heads/main/smallweb.txt
+
 
 output_mode:
   - "SQL"

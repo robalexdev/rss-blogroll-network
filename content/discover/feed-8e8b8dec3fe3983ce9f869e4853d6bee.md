@@ -1,7 +1,7 @@
 ---
-title: nobody in web3
-date: "2025-07-24T14:29:46Z"
-description: nobody in web3
+title: smallyu的博客
+date: "2025-08-08T11:12:26Z"
+description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
   feedtype: atom
@@ -13,21 +13,24 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
-  - CPS
-  - continuation
+  - MPC
+  - 项目分析
   relme: {}
-  last_post_title: continuation 教程 (第一篇)：理解 CPS
-  last_post_description: 最近两个月不知道怎么回事，我写东西的频率和效率有点高，短短一周左右的时间，就已经学习并写出了 6 篇 continuation
-  last_post_date: "2025-07-24T14:29:46Z"
-  last_post_link: https://smallyu.net/2025/08/01/continuation%E6%95%99%E7%A8%8B1/
+  last_post_title: 对 Arcium Network 项目的分析
+  last_post_description: 项目背景Arcium Network 是 Solana
+  last_post_date: "2025-08-10T15:19:47Z"
+  last_post_link: https://smallyu.net/2025/08/05/%E5%AF%B9Arcium-Network%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%86%E6%9E%90/
   last_post_categories:
-  - CPS
-  - continuation
+  - MPC
+  - 项目分析
   last_post_language: ""
-  last_post_guid: 06376dec8c9a10a26c0763ebdd36d138
+  last_post_guid: 4dd86446408d08c0ce56fd4fd09a6968
   score_criteria:
     cats: 0
     description: 3

@@ -17,25 +17,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Productivity
-  - Technical
-  - Tools
+  - Blogging
+  - Personal
+  - Reflection
   relme:
     https://chriswiegman.com/: true
+    https://chriswiegman.link/: true
     https://github.com/ChrisWiegman: true
     https://mastodon.chriswiegman.com/@chris: true
-  last_post_title: Relearning How To Work
+  last_post_title: Taking a Short Break
   last_post_description: |-
-    This week I’m relearning how to work.
-    My company is implementing significant new restrictions and policies on our machine and, as a result, I find that the way I would normally work, using
-  last_post_date: "2025-06-11T00:00:00Z"
-  last_post_link: https://chriswiegman.com/2025/06/relearning-how-to-work/
+    I’ve started experimenting with new backends for this site as Hugo, while I love a lot of it, doesn’t make content management easy.
+    While I do that, and given the nature of my posts lately,
+  last_post_date: "2025-07-28T00:00:00Z"
+  last_post_link: https://chriswiegman.com/2025/07/taking-a-short-break/
   last_post_categories:
-  - Productivity
-  - Technical
-  - Tools
+  - Blogging
+  - Personal
+  - Reflection
   last_post_language: ""
-  last_post_guid: 00a4d7471f158902cd7c7b4bff1ccf2d
+  last_post_guid: 199778beecde3701d81ae76e333625a9
   score_criteria:
     cats: 0
     description: 3

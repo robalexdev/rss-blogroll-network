@@ -17,33 +17,34 @@ params:
   recommender: []
   categories:
   - Guides & Tutorials
-  - svelte
+  - anthropic
+  - claude code
   relme: {}
-  last_post_title: Building portable web apps with SvelteKit’s new single-file  bundle
-    strategy and hash router
-  last_post_description: I’ve been building static single page apps using adapter-static
-    for a while now, and I love how simple the deployment story is – just upload a
-    folder of files and you’re done! If you are
-  last_post_date: "2025-07-15T23:45:19Z"
-  last_post_link: https://khromov.se/building-portable-web-apps-with-sveltekits-new-single-file-bundle-strategy-and-hash-router/
+  last_post_title: Claude Code hooks for simple macOS notifications
+  last_post_description: I’ve been using Claude Code for a while now, and one thing
+    that always bugged me was not knowing when it finished running a long task. You
+    ask Claude to refactor a large codebase or generate a
+  last_post_date: "2025-07-28T22:15:20Z"
+  last_post_link: https://khromov.se/claude-code-hooks-for-simple-macos-notifications/
   last_post_categories:
   - Guides & Tutorials
-  - svelte
+  - anthropic
+  - claude code
   last_post_language: ""
-  last_post_guid: 82b9e3de5ef1ff5334541c553a4e158b
+  last_post_guid: a026cada6abe092f84b5e64d1f805102
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

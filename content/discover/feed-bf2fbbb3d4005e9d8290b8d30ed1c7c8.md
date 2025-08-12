@@ -1,6 +1,6 @@
 ---
 title: The LibraryThing Blog
-date: "2025-07-16T18:40:38Z"
+date: "2025-08-07T15:03:55Z"
 description: ""
 params:
   feedlink: https://blog.librarything.com/feed/atom/
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - TinyCat
-  - new feature
+  - author interview
+  - interview
   relme: {}
-  last_post_title: Announcing TinyCat District!
-  last_post_description: TinyCat District is here! Libraries with multiple locations
-    or branches can now manage their accounts in one place. We created new tools and
-    features for TinyCat District that will simplify your
-  last_post_date: "2025-07-16T18:40:38Z"
-  last_post_link: https://blog.librarything.com/2025/07/announcing-tinycat-district/
+  last_post_title: 'Author Interview: Joanne Harris'
+  last_post_description: LibraryThing is pleased to sit down this month with bestselling
+    Anglo-French author Joanne Harris, whose 1999 novel, Chocolat—shortlisted for
+    the Whitbread Award—was made into a popular film of
+  last_post_date: "2025-08-07T15:03:55Z"
+  last_post_link: https://blog.librarything.com/2025/08/author-interview-joanne-harris/
   last_post_categories:
-  - TinyCat
-  - new feature
+  - author interview
+  - interview
   last_post_language: ""
-  last_post_guid: 565dd12455492f23e8c14e5cefe11841
+  last_post_guid: dada8888f955463c5fbc821ab7272d08
   score_criteria:
     cats: 0
     description: 0

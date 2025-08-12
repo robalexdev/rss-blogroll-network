@@ -1,6 +1,6 @@
 ---
 title: Posts tagged 'emacs' by Christian Tietze
-date: "2025-07-02T07:04:59Z"
+date: "2025-08-08T09:59:26Z"
 description: ""
 params:
   feedlink: https://christiantietze.de/posts/tags/emacs/feed.atom
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Emacs on Second Try
-  last_post_description: In 2018, Sascha Fast of zettelkasten.de was on a minimalist
-    task management journey and dug into Emacs org-mode, and pressured me for days
-    (we were sharing an apartment back then) to give it a shot,
-  last_post_date: "2025-07-02T07:04:59Z"
-  last_post_link: https://christiantietze.de/posts/2025/07/emacs-on-second-try/
+  last_post_title: Emacs Elevator Pitch (August Blog Carnival)
+  last_post_description: Jeremy Friesen hosts this month’s Emacs Carnival, and the
+    topic is “Your Elevator Pitch for Emacs”. It took me a couple of days to come
+    up with a useful angle, because I didn’t even consider
+  last_post_date: "2025-08-08T09:59:26Z"
+  last_post_link: https://christiantietze.de/posts/2025/08/emacs-elevator-pitch/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26adc39bd4d1c946ad3d13512c401196
+  last_post_guid: b4c1994076245bedcaaf8176e700cac4
   score_criteria:
     cats: 0
     description: 0

@@ -8,7 +8,6 @@ params:
   feedid: 36f7f8190bfdc67f6f9fda30e532ef9e
   websites:
     https://sallylait.com/: false
-    https://sallylait.com/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -18,17 +17,16 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories: []
-  relme:
-    https://sallylait.com/blog/: true
-  last_post_title: Blog questions challenge
-  last_post_description: This chain letter-esque post has been doing the rounds, and
-    in the spirit of trying to rebuild my blogging muscle I thought what better to
-    blog about than blogging? This post is a bit of a love
-  last_post_date: "2025-02-16T10:00:00Z"
-  last_post_link: https://sallylait.com/blog/2025/02/16/blog-questions-challenge/
+  relme: {}
+  last_post_title: 'LDX3 CRG: Connecting leaders with disabilities'
+  last_post_description: After the first iteration at LeadDev last year, I was thrilled
+    to be invited back as one of the co-facilitators of the "Connecting Leaders with
+    Disabilities" community representation group (CRG) at
+  last_post_date: "2025-06-22T10:00:00Z"
+  last_post_link: https://sallylait.com/blog/2025/06/22/ldx3-crg/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c4c4b9f67d52e406274f2844c79c1493
+  last_post_guid: 921519a66c2fc2616a1cf49a3c4f3bef
   score_criteria:
     cats: 0
     description: 3
@@ -38,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

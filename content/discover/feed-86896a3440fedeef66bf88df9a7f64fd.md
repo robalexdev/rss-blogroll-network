@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2025-06-09T16:10:00Z"
+date: "2025-07-30T07:22:27-05:00"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -23,20 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Hearing is Becoming
-  last_post_description: |-
-    Whose voice speaks to you the most?
-
-    It should be the people closest to us, the ones we say we love the most.
-
-    But it's not.
-
-    Historically the voices that built our worldview, exposing us to new
-  last_post_date: "2025-06-09T13:54:51Z"
-  last_post_link: https://evantravers.com/articles/2025/06/09/hearing-is-becoming/
+  last_post_title: Code is only half the System
+  last_post_description: "Chris's talk has been out there for quite a bit, but I'm
+    clearing out my Instapaper and rediscovered it. \n\nHe argues that our rigor and
+    formal methods must extend beyond the code and into the human"
+  last_post_date: "2025-07-30T09:20:27Z"
+  last_post_link: https://evantravers.com/articles/2025/07/30/seeing-like-a-programmer/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6bf04b4647a83c0bdad5b6c17f46e9dd
+  last_post_guid: 700b82f0e79764cc426efd810b896684
   score_criteria:
     cats: 0
     description: 3

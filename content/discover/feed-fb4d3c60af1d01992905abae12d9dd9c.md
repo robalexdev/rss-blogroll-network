@@ -16,32 +16,25 @@ params:
   recommender: []
   categories:
   - Cloud
-  - General
-  - HA
+  - HeatWave
+  - MDS
   - MySQL
   - OCI
-  - Puppet
-  - Terraform
-  - devops
   relme: {}
-  last_post_title: Deploying High Availability and Disaster Recovery MySQL on OCI
-    like a devops
-  last_post_description: We all know MySQL InnoDB ClusterSet, a solution that links
-    multiple InnoDB Clusters and Read Replicas asynchronously to easily generate complex
-    MySQL architectures and manage them without burdensome
-  last_post_date: "2025-07-17T09:12:46Z"
-  last_post_link: https://lefred.be/content/deploying-high-availability-and-disaster-recovery-mysql-on-oci-like-a-devops/
+  last_post_title: How do you upgrade MySQL HeatWave when deploying with Terraform?
+  last_post_description: Have you already tried to upgrade the MySQL version of your
+    MySQL HeatWave instance in OCI that is deployed with Terraform? When you tried,
+    you realized, I hope you didn’t turn off backups, that
+  last_post_date: "2025-07-29T14:58:08Z"
+  last_post_link: https://lefred.be/content/how-do-you-upgrade-mysql-heatwave-when-deploying-with-terraform/
   last_post_categories:
   - Cloud
-  - General
-  - HA
+  - HeatWave
+  - MDS
   - MySQL
   - OCI
-  - Puppet
-  - Terraform
-  - devops
   last_post_language: ""
-  last_post_guid: f1d33f96247e18f5b45ebd82dc605e18
+  last_post_guid: 690c1f435e637b4ad1790b7f79682487
   score_criteria:
     cats: 0
     description: 3

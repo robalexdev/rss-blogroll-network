@@ -1,7 +1,7 @@
 ---
 title: Newslttrs
 date: "1970-01-01T00:00:00Z"
-description: Computers, Geekiness, Occasional Nonsense
+description: AI, Tech, Nostalgia, Stuff
 params:
   feedlink: https://newslttrs.com/rss/
   feedtype: rss
@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Media
+  - Friday Wrap
   relme:
     https://newslttrs.com/: true
-  last_post_title: Things TV always gets wrong about tech
-  last_post_description: Zoom! Enhance! Trace his IP! What's your pet peeve when technology
-    appears in TV shows?
-  last_post_date: "2025-07-24T17:00:01Z"
-  last_post_link: https://newslttrs.com/things-tv-always-get-wrong-about-tech/
+  last_post_title: 'Friday Wrap : Volume Six'
+  last_post_description: GPT-5 is alive, Grok's a perv and civilisation is probably
+    going to collapse soon. Happy Friday!
+  last_post_date: "2025-08-08T19:58:51Z"
+  last_post_link: https://newslttrs.com/friday-wrap-volume-six/
   last_post_categories:
-  - Media
+  - Friday Wrap
   last_post_language: ""
-  last_post_guid: efa18d8c26b051c03a4de0ff8d9e0ebb
+  last_post_guid: cdf87ad9d966b8eab28f6e0a958f16e1
   score_criteria:
     cats: 0
     description: 3

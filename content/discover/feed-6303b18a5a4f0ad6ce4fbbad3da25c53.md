@@ -18,6 +18,9 @@ params:
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended:
   - http://scripting.com/rss.xml
   - http://www.theskyiscrape.com/feeds/posts/default
@@ -156,16 +159,15 @@ params:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: Opruimen
-  last_post_description: |-
-    Het mocht wel eens. Een kleine opruimbeurt op deze site. Of nou ja, opruimen. Meer de stapels verplaatsen en dan vinden dat het is opgeruimd. Eigenlijk zoals thuis. Een paar kleine wijzigingen:
-
-    Mijn
-  last_post_date: "2025-06-10T15:42:09+02:00"
-  last_post_link: https://frankmeeuwsen.com/2025/06/10/opruimen.html
+  last_post_title: Paper Trails weekoverzicht (4 augustus - 10 augustus)
+  last_post_description: Ik had twee interviews en heb vooral van het lekkere weer
+    genoten. Net als vorige week was deze week rustiger voor CreativeNotes. Dit is
+    voor mij ook het moment om op een rij te krijgen hoe ik dit
+  last_post_date: "2025-08-10T10:40:43+02:00"
+  last_post_link: https://frankmeeuwsen.com/2025/08/10/paper-trails-weekoverzicht-augustus-augustus.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f3530c8141721317febe862fef00fa06
+  last_post_guid: 873f3cfb4b45e0af36bde124d5b0b687
   score_criteria:
     cats: 0
     description: 0

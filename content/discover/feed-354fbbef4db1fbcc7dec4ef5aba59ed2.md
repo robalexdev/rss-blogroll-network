@@ -1,7 +1,8 @@
 ---
 title: Chen Hui Jing
 date: "2025-04-16T19:44:48+08:00"
-description: The chronicles of a self-taught designer and developer.
+description: The chronicles of a self-taught designer and developer who started building
+  on the web when HTML tables were being phased out and floats were the hot new thing.
 params:
   feedlink: https://chenhuijing.com/feed.xml
   feedtype: rss
@@ -19,7 +20,6 @@ params:
   categories: []
   relme:
     https://chenhuijing.com/: true
-    https://github.com/huijing: true
   last_post_title: Tag, you're it!
   last_post_description: |-
     Blogging about blogging seems kinda meta to me. It’s definitely fun to see how and why folks started and continue to blog. I got tagged by Hidde, so why not get this going?

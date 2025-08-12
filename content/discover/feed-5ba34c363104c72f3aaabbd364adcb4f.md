@@ -21,33 +21,30 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Raspberry Pi 5
   - Raspberry Pi Official Magazine
   relme: {}
-  last_post_title: Detect radio jammers with Raspberry Pi 5
-  last_post_description: "Signal Sentinel is a great research project that harnesses
-    Raspberry Pi 5’s power to detect radio jammers. \nThe post Detect radio jammers
-    with Raspberry Pi 5 appeared first on Raspberry Pi."
-  last_post_date: "2025-06-09T13:55:17Z"
-  last_post_link: https://www.raspberrypi.com/news/detect-radio-jammers-with-raspberry-pi-5/
+  last_post_title: Happy Maker Monday — show us your Raspberry Pi builds!
+  last_post_description: "Another Maker Monday is upon us! \nThe post Happy Maker
+    Monday — show us your Raspberry Pi builds! appeared first on Raspberry Pi."
+  last_post_date: "2025-08-11T10:10:02Z"
+  last_post_link: https://www.raspberrypi.com/news/happy-maker-monday-show-us-your-raspberry-pi-builds/
   last_post_categories:
-  - Raspberry Pi 5
   - Raspberry Pi Official Magazine
   last_post_language: ""
-  last_post_guid: a5641bf7ba37008cd7e0859de8808839
+  last_post_guid: 32c9490badede2224dab809fe781409b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

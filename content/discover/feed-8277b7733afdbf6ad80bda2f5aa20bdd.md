@@ -19,33 +19,40 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - Data & Visuals
   - Eric Adams
-  - The Bronx
+  - Immigrants
+  - Migrant Crisis
+  - Trump Administration
   relme: {}
-  last_post_title: Mayor Helps Bally’s Clear Key Council Vote for Casino Bid
-  last_post_description: A last-minute intervention by Mayor Eric Adams helped keep
-    alive Bally’s proposal for a casino in The Bronx despite the objections of local
-    Councilmember Kristy Marmorato. The City Council voted 32
-  last_post_date: "2025-06-11T23:02:46Z"
-  last_post_link: https://www.thecity.nyc/2025/06/11/ballys-casino-kristy-armorato-donald-trump-eric-adams/
+  last_post_title: NYC Is the Nation’s Capital of Immigration Courthouse Arrests,
+    New Data Analysis Shows
+  last_post_description: On a recent morning in Lower Manhattan, immigration Judge
+    John Siemietkowski spoke to three people in his courtroom while masked federal
+    officers waited just outside.  “I’m sure you can see with
+  last_post_date: "2025-08-11T09:00:00Z"
+  last_post_link: https://www.thecity.nyc/2025/08/11/26-federal-plaza-immigration-court-trump-arrests-data-analysis/
   last_post_categories:
+  - Data & Visuals
   - Eric Adams
-  - The Bronx
+  - Immigrants
+  - Migrant Crisis
+  - Trump Administration
   last_post_language: ""
-  last_post_guid: b92802ad8613fe5e4e5a4492d4321215
+  last_post_guid: 10ffdd5a91eef1714417518a4fb8fef1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

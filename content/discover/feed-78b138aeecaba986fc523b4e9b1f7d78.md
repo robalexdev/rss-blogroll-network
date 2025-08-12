@@ -21,15 +21,15 @@ params:
     https://github.com/hgcl: true
     https://github.com/hgcl/: true
     https://mastodon.roflcopter.fr/@clarale: true
-  last_post_title: '#52 Back on the Mainland'
-  last_post_description: |-
-    Back in Mainland China (in Shaoxing) after a short parenthesis in Taiwan.
-    How time flies! Our trip to Taiwan has already come to an end. It was a big shock to observe how different this island feels
-  last_post_date: "2025-05-14T00:00:00Z"
-  last_post_link: https://clarale.com/posts/52-back-on-the-mainland/
+  last_post_title: Notes on winemaking
+  last_post_description: While updating my note about food fermentation, I realized
+    how much wine-specific information it contained. As I am really interested in
+    this topic, here is a living note about winemaking
+  last_post_date: "2025-08-08T00:00:00Z"
+  last_post_link: https://clarale.com/posts/notes-on-winemaking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 029b93de3f54e42f17d08232f3d1c7c5
+  last_post_guid: 58e1a28b0c804344296a16f96961a174
   score_criteria:
     cats: 0
     description: 3

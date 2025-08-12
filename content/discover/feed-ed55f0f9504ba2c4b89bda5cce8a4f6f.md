@@ -17,19 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: When Red Buttons Aren't Enough
+  last_post_title: The Agency Gap
   last_post_description: |-
-    On June 12, 2025, most of GCP went offline. This led to downstream outages in a
-    multitude of websites and services, such as
-    Cloudflare,
-    Spotify,
-    OpenAI, Anthropic, Replit, and many others.
-    With a few
-  last_post_date: "2025-06-16T00:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2025/06/16/When-Red-Buttons-Arent-Enough/
+    There’s a line in Ben Kuhn’s essay,
+    “Impact, agency, and taste”, that’s been
+    rattling around in my head lately. He describes impact as the practice of
+    “making success inevitable”. That
+  last_post_date: "2025-07-31T00:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2025/07/31/The-Agency-Gap/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 05591edce85b5f169709d86c1398c5af
+  last_post_guid: f8c84da1a5e7ea3e1e307625a782270c
   score_criteria:
     cats: 0
     description: 3

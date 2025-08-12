@@ -1,7 +1,7 @@
 ---
 title: 莫尔索随笔
-date: "2025-06-11T13:46:26Z"
-description: 莫尔索的折腾空间-在技术和生活的边界试探
+date: "2025-08-10T16:28:30Z"
+description: 在技术和生活的边界试探
 params:
   feedlink: https://liduos.com/atom.xml
   feedtype: atom
@@ -13,18 +13,17 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
   - 会员计划
   relme: {}
-  last_post_title: 会员计划说明
-  last_post_description: !!binary |
-    5oiR6KaB5o6o5Ye65LiA5Liq5Li65pyf5LiA5bm055qE5Lya5ZGY6K6h5YiS77yM6L+Z56
-    +H5paH56ug5oiR5oOz5LuO5Lya5ZGY6K6h5YiS5LuL57uN44CB6Z2i5ZCR5Lq6576k44CB
-    5Lya5ZGY5p2D55uK44CB5Lya5ZGY5a6a5Lu35Zub5Liq5pa56Z2i5p2l5LuL57uN5LiL77
-    yM5biM5pyb5aSn5a6255CG5oCn5raI6LS577yM5Yqh5b+F5YWI55yL5p0=
-  last_post_date: "2025-06-11T13:46:26Z"
+  last_post_title: AI 周刊 Weekly Gradient  说明
+  last_post_description: 原属于会员计划的邮件通讯现在已全面免费公开，更名为 Weekly Gradient (Gradient 是
+  last_post_date: "2025-08-10T16:28:30Z"
   last_post_link: https://liduos.com/the-memeber-newsletter-introduce.html
   last_post_categories:
   - 会员计划

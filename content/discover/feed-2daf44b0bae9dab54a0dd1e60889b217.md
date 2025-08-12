@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-07-25T04:03:37Z"
+date: "2025-08-11T11:04:22Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,16 +23,15 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: A handy use of subgrid to enhance a simple layout
+  last_post_title: The State of CSS 2025 results are in
   last_post_description: |-
-    We've got this pattern on the Set Studio website. It's three summaries with headings that render in a three column grid which as the viewport reduces in space, automatically stack.
-
-    The three column
-  last_post_date: "2025-07-17T10:55:00Z"
-  last_post_link: https://piccalil.li/blog/a-handy-use-of-subgrid-to-enhance-a-simple-layout/?ref=main-rss-feed
+    One thing we can't ignore this year is there's been a reduction in respondents vs 2024. The 2024 survey was completed by 9,704 people and this year's only got 5,506. That's quite a reduction!
+    There's
+  last_post_date: "2025-08-11T08:00:00Z"
+  last_post_link: https://piccalil.li/links/the-state-of-css-2025-results-are-in/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6d9e6094f4e1b3ead2542751e99d10d3
+  last_post_guid: 340f034bd7448b943e215391fd8a0173
   score_criteria:
     cats: 0
     description: 3

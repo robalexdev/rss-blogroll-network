@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2025-07-23T05:00:00Z"
+date: "2025-08-01T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Never write your own Date Parsing Library
+  last_post_title: One weird trick to reduce Eleventy Image Build Times by 60%
   last_post_description: ""
-  last_post_date: "2025-07-23T05:00:00Z"
-  last_post_link: https://www.zachleat.com/web/adventures-in-date-parsing/
+  last_post_date: "2025-08-01T05:00:00Z"
+  last_post_link: https://www.zachleat.com/web/faster-builds-with-eleventy-img/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b447552f35e66d0eacc1b0294ec618aa
+  last_post_guid: 1bf0ba444058c4ab657f53cb034f8c79
   score_criteria:
     cats: 0
     description: 3

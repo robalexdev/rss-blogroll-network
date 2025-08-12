@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-06-12T07:34:33+01:00"
+date: "2025-08-11T22:12:59+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,18 +17,18 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: The landing zone
+  last_post_title: Progressive web apps
   last_post_description: |-
-    Also sprach Wittgenstein:
-            Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
+    There was a time when you needed to make a native app in order to take advantage of specific technologies. That time has passed.
 
-            Or in English, thus spoke Wittgenstein:
-            The limits of my language mean the limits of my
-  last_post_date: "2025-05-22T12:00:00+01:00"
-  last_post_link: https://clearleft.com/thinking/the-landing-zone
+          Now you can do all of these things on the web:
+
+    push
+  last_post_date: "2025-08-07T14:09:00+01:00"
+  last_post_link: https://clearleft.com/thinking/progressive-web-apps
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 536e38a6a6c5f1f8df8444c641bd1cdf
+  last_post_guid: 8412f2e69ca961065267fc7f647e1971
   score_criteria:
     cats: 0
     description: 3

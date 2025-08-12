@@ -27,18 +27,18 @@ params:
   - https://roytang.net/blog/feed/rss/
   - https://www.wackomenace.co.uk/blog/rss.xml
   categories:
-  - Rands
+  - Tech Life
   relme: {}
-  last_post_title: 'Rands Cheat Sheet, #1'
-  last_post_description: There’s a lot of content hiding in the Rands archives from
-    the past three decades. Over the years, some of that content keeps showing up.
-    I keep forwarding the same links to the same articles; I
-  last_post_date: "2025-07-20T16:29:48Z"
-  last_post_link: https://randsinrepose.com/archives/rands-cheat-sheet-1/
+  last_post_title: Every Single Human. Like. Always.
+  last_post_description: Your robot experience started simple. You typed a question
+    into a chatbot… just to see. Can it answer that question? I’d be impressed if
+    it did. Your query was simple. A simple knowledge question
+  last_post_date: "2025-07-29T15:54:27Z"
+  last_post_link: https://randsinrepose.com/archives/every-single-human-like-always/
   last_post_categories:
-  - Rands
+  - Tech Life
   last_post_language: ""
-  last_post_guid: 55281d85e17d97d1fc60da1071d04558
+  last_post_guid: 5fb352b2375872365832b4eeaf6fd5a6
   score_criteria:
     cats: 0
     description: 0

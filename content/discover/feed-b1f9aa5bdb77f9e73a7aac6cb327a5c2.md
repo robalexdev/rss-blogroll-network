@@ -1,6 +1,6 @@
 ---
 title: Ogra's blog
-date: "2025-05-16T14:34:17Z"
+date: "2025-07-29T13:26:03Z"
 description: Just another WordPress.com weblog
 params:
   feedlink: https://ograblog.wordpress.com/feed/atom/
@@ -26,7 +26,7 @@ params:
   last_post_description: Yesterday, exactly twenty years ago my mobile rang while
     I was walking the dog. I had just returned from Sydney about a week ago (still
     battling with the last remains of my Jet-lag (I had never left
-  last_post_date: "2025-05-16T14:34:17Z"
+  last_post_date: "2025-07-29T13:26:03Z"
   last_post_link: https://ograblog.wordpress.com/2025/05/16/rooming-with-mark/
   last_post_categories:
   - Uncategorized

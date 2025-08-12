@@ -18,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Subtle Art Of Deprecating API Endpoints
-  last_post_description: I had an app fail in production the other day. Not seriously
-    - only affected a couple of admin screens - but it failed because Hubspot had
-    deprecated some of their API endpoints. (That’s nerd speak
-  last_post_date: "2025-07-16T13:46:00Z"
-  last_post_link: https://dylanbeattie.net/2025/07/16/the-subtle-art-of-deprecating-api-endpoints.html
+  last_post_title: CSS Has 239 Different Ways To Make Something Blue
+  last_post_description: I’m making a new video course for Dometrain at the moment,
+    and it’s all about CSS - one of the three pillars of the open web, along with
+    HTML and JavaScript. I love CSS, I’ve been working with
+  last_post_date: "2025-07-30T09:15:00Z"
+  last_post_link: https://dylanbeattie.net/2025/07/30/css-has-239-different-ways-to-make-something-blue.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9a5ac6744daa4a555a8c5885cbc82502
+  last_post_guid: 82de32642e58b27047329fca84b1d663
   score_criteria:
     cats: 0
     description: 3

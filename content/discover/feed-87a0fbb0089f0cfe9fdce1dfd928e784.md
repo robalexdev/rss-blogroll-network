@@ -1,6 +1,6 @@
 ---
 title: wingolog
-date: "2025-07-08T14:28:45Z"
+date: "2025-08-07T15:02:04Z"
 description: A mostly dorky weblog by Andy Wingo
 params:
   feedlink: https://wingolog.org/feed/atom?with=gnu&with=guile&with=igalia
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'guile lab notebook: on the move!'
+  last_post_title: 'whippet hacklog: adding freelists to the no-freelist space'
   last_post_description: ""
-  last_post_date: "2025-07-08T14:28:45Z"
-  last_post_link: https://wingolog.org/archives/2025/07/08/guile-lab-notebook-on-the-move
+  last_post_date: "2025-08-07T15:02:04Z"
+  last_post_link: https://wingolog.org/archives/2025/08/07/whippet-hacklog-adding-freelists-to-the-no-freelist-space
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e9c1b830b09aed210ca3534ff519005e
+  last_post_guid: f41937153b3a681ceb2275119036053d
   score_criteria:
     cats: 0
     description: 3

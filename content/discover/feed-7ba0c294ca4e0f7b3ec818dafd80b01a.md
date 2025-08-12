@@ -23,46 +23,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - DZ Event
-  - Google Gemini
-  - HypeAuditor
-  - إيجاد العملاء
-  - استهداف
-  - التسويق الفعال
-  - تسويق
-  - تسويق الخدمات
-  - توليد العملاء
-  - حقيقة التسويق
-  - عملاء العمل الحر
-  - مراسلات
-  - مقالاتي
-  - موقع عين على الاقتصاد
+  - Cairo Hackerspace
+  - Creative Commons
+  - Global Innovation Gathering (GIG)
+  - Maker Express
+  - Paweł 'alxd' Ngei
+  - Solarpunk
+  - cairohackerspace.org
+  - climate change
+  - future
+  - makerexpress.org
+  - the Iraqi Makerspace
+  - سولار بانك
+  - سولار بنك
+  - كايرو هاكر سبيس (Cairo Hackerspace)
+  - مخيم العلوم
+  - يونس توك
   relme:
     https://mastodon.social/@youneskkc: true
     https://youdo.blog/: true
-  last_post_title: 'الحلُّ النهائي لمشكلة: صنعتُ محتوى لكن من جذبت هم من نفس تخصصي.
-    أريد عملاء!'
-  last_post_description: ثَمّة مشكلة شائعة بل وتقليدية (كلاسيكية) لدى العمّال الأحرار
-    عبر الإنترنت (المستقلين)، ومن يصنعون المحتوى
-  last_post_date: "2025-05-26T08:31:32Z"
-  last_post_link: https://youdo.blog/2025/05/26/the-ultimate-solution-to-the-problem-i-created-content-but-the-people-i-attracted-were-from-my-niche-i-want-clients/
+  last_post_title: ما هي سولار بانك؟ (Solarpunk) هل هي فكرة؟ حركة مجتمعية؟ أو أدب
+    خيال علمي؟ مع Paweł ‘alxd’ Ngei
+  last_post_description: تحدّثنا في الحلقة عن بول نفسه، وعن سرديّة المستقبل المسمّاة
+    سولار بانك (Solarpunk)؛ وعن مشروعه مكتبة بذور القصص
+  last_post_date: "2025-08-10T05:11:17Z"
+  last_post_link: https://youdo.blog/2025/08/10/pawel-alxd-ngei/
   last_post_categories:
-  - DZ Event
-  - Google Gemini
-  - HypeAuditor
-  - إيجاد العملاء
-  - استهداف
-  - التسويق الفعال
-  - تسويق
-  - تسويق الخدمات
-  - توليد العملاء
-  - حقيقة التسويق
-  - عملاء العمل الحر
-  - مراسلات
-  - مقالاتي
-  - موقع عين على الاقتصاد
+  - Cairo Hackerspace
+  - Creative Commons
+  - Global Innovation Gathering (GIG)
+  - Maker Express
+  - Paweł 'alxd' Ngei
+  - Solarpunk
+  - cairohackerspace.org
+  - climate change
+  - future
+  - makerexpress.org
+  - the Iraqi Makerspace
+  - سولار بانك
+  - سولار بنك
+  - كايرو هاكر سبيس (Cairo Hackerspace)
+  - مخيم العلوم
+  - يونس توك
   last_post_language: ""
-  last_post_guid: 47d8833adfb4c36753d672cd88ef9e6f
+  last_post_guid: 7900f4fc8678b164b8d4b379b0f945c3
   score_criteria:
     cats: 0
     description: 3

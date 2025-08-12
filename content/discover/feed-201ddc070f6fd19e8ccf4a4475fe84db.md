@@ -25,15 +25,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 3 Years of Extremely Remote Work
-  last_post_description: In the last 3 years I've attended 77 meetings that began
-    between 1am and 6am, roughly once every two weeks, followed by my usual 7am start,
-    Monday to Saturday. I'm working remotely from Australia for
-  last_post_date: "2025-05-22T00:00:00+10:00"
-  last_post_link: http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html
+  last_post_title: When to Hire a Computer Performance Engineering Team (2025) part
+    1 of 2
+  last_post_description: |-
+    As a leader in computer performance I've been asked by companies about how (and why) to form a performance engineering team, and as this is broadly useful I'll share my advice here.
+
+    Large tech
+  last_post_date: "2025-08-04T00:00:00+10:00"
+  last_post_link: http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 760078420ef3a60adf15809fcd9b9da4
+  last_post_guid: 11f032c0c4235e4a268241e6fe59cfe2
   score_criteria:
     cats: 0
     description: 0

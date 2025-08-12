@@ -17,31 +17,37 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Python
   - Software
+  - shell
+  - xpath
   relme: {}
-  last_post_title: Query FreeIPA by manager
-  last_post_description: 'A recent question lead me down a rabbit hole: how can we
-    list the people that report up to George Slate? While we should be able to query
-    this from LDAP, it seems to be shut off. However, using'
-  last_post_date: "2025-07-24T19:23:16Z"
-  last_post_link: https://adam.younglogic.com/2025/07/query-freeipa-by-manager/
+  last_post_title: Find files to download  from Apache default pages
+  last_post_description: Apache provides a pretty standard screen to display directoyr
+    contents if you do not provide any mods. We post artifacts up to a local server
+    that I later need to download. Here are my hacky notes
+  last_post_date: "2025-08-01T00:25:23Z"
+  last_post_link: https://adam.younglogic.com/2025/07/find-files-to-download-from-apache-default-pages/
   last_post_categories:
+  - Python
   - Software
+  - shell
+  - xpath
   last_post_language: ""
-  last_post_guid: f0c3cbcfccc56f4eee1e86ccd15a409c
+  last_post_guid: fbfd0d7618da9cc0a8595e5c401273bb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

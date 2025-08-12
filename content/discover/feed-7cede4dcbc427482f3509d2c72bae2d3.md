@@ -23,12 +23,15 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
-  - title: Miniflux
+  - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
@@ -37,16 +40,15 @@ params:
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
-  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Good Science
+  last_post_title: Disclaimer
   last_post_description: ""
-  last_post_date: "2025-06-11T04:00:00Z"
-  last_post_link: https://xkcd.com/3101/
+  last_post_date: "2025-08-08T04:00:00Z"
+  last_post_link: https://xkcd.com/3126/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 79d88a7cd4abff08806f795af43688d7
+  last_post_guid: df0551278696146560818c7b82ae108b
   score_criteria:
     cats: 0
     description: 3

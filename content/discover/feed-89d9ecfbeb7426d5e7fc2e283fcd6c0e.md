@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2025-06-04T14:04:31Z"
+date: "2025-08-11T06:08:20Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -13,17 +13,20 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ditching Sonos for Music Assistant
+  last_post_title: Exploring the Gleam FFI
   last_post_description: ""
-  last_post_date: "2025-06-04T14:04:31Z"
-  last_post_link: https://www.jonashietala.se/blog/2025/06/04/ditching_sonos_for_music_assistant
+  last_post_date: "2025-08-11T06:08:20Z"
+  last_post_link: https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a41a6a1a0a1e90ba64772e2894c7f90
+  last_post_guid: 8dae3a3dcfe48c643c4237b1bc33cf3c
   score_criteria:
     cats: 0
     description: 0

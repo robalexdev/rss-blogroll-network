@@ -11,9 +11,9 @@ params:
     https://www.mnot.net/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Ben Myers's Blogroll
-    description: Blogs and newsletters I check on the regular.
-    id: bf95fc3fe734baa4e4fdf4b50381791c
+  - title: redigest_feed_recommendations.opml
+    description: ""
+    id: e394de1c5ac4193d2364d9101cd80a89
   recommended: []
   recommender: []
   categories:

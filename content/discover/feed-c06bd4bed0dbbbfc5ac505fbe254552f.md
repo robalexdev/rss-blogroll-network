@@ -154,6 +154,8 @@ params:
   - https://darthmall.net/feed/photographs.xml
   - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
+  - https://fs.blog/comments/feed/
+  - https://www.farnamstreetblog.com/feed/
   - https://httpster.io/atom.xml
   - https://httpster.io/feed.json
   - https://httpster.io/rss.xml
@@ -209,26 +211,24 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   recommender: []
   categories:
-  - dreams
-  - learning
-  - memories
+  - blaugust2025
+  - personal
   - reflection
+  - thoughts
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: "\U0001F4DD Blog Post: The Sensation of Change"
-  last_post_description: This is a concept that has fascinated me since I’ve been
-    conscious. Coming from a culture where dreams are an important part of emotional
-    well-being, I was taught to always pay attention to my
-  last_post_date: "2025-06-10T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/The_Sensation_of_Change
+  last_post_title: "\U0001F4DD Blog Post: To Blaugust or not to Blaugust"
+  last_post_description: "\uFEFF\x49\x20\x62\x65\x67\x61\x6E\x20\x74\x68\x69\x73\x20\x69\x6E\x20\x6D\x79\x20\x6E\x6F\x74\x65\x62\x6F\x6F\x6B\x2C\x20\x62\x75\x74\x20\x73\x6F\x6D\x65\x77\x68\x65\x72\x65\x20\x62\x65\x74\x77\x65\x65\x6E\x20\x73\x65\x6E\x74\x65\x6E\x63\x65\x73\x2C\x20\x49\x20\x64\x72\x69\x66\x74\x65\x64\x20\x74\x6F\x20\x74\x68\x65\x20\x6B\x65\x79\x62\x6F\x61\x72\x64\x2E\x20\x49\u2019\x6D\x20\x6E\x6F\x74\x20\x73\x75\x72\x65\x20\x77\x68\x79\x2E\x20\x54\x68\x65\x20\x70\x65\x6E\x20\x66\x65\x6C\x74\x20\x68\x65\x61\x76\x79\x2E\x20\x54\x68\x65\x20\x77\x6F\x72\x64\x73\x20\x77\x65\x72\x65\x20\x63\x6F\x6D\x69\x6E\x67\x20\x6F\x75\x74\x20\x61\x73\x20\x69\x66\x20\x64\x72\x61\x67\x67\x65\x64\x20\x62\x79\x20\x66\x6F\x72\x63\x65\x2E\x20\x53\x6F\x20\x49\x20\x73\x61\x74\x20\x6F\x6E\x20\x6D\x79"
+  last_post_date: "2025-08-11T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/To_Blaugust_or_not_to_Blaugust
   last_post_categories:
-  - dreams
-  - learning
-  - memories
+  - blaugust2025
+  - personal
   - reflection
+  - thoughts
   last_post_language: ""
   last_post_guid: 71f87a5376d8883366feea158e6388e2
   score_criteria:

@@ -24,8 +24,10 @@ params:
   - https://maique.eu/feed.xml
   - https://manuelmoreale.com/feed/rss
   - https://mjtsai.com/blog/feed/
+  - https://morrick.me/feed
   - https://om.co/feed/
   - https://spyglass.org/rss/
+  - https://take.surf/feed.atom
   - https://thenewsprint.co/rss/
   - https://thingstoclick.com/feed.rss
   - https://www.curtisfamily.org.uk/feed/
@@ -39,6 +41,7 @@ params:
   - https://manuelmoreale.com/feed/instagram
   - https://mastodon.social/tags/mjtsaiupdate.rss
   - https://mjtsai.com/blog/comments/feed/
+  - https://morrick.me/comments/feed
   - https://om.co/comments/feed/
   - https://thenewsprint.co/feed
   - https://thingstoclick.com/feed.xml

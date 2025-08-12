@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Don't call dunder methods
-  last_post_description: "It's best to avoid calling dunder methods. It's common to
-    define dunder methods, but uncommon to call them directly.\n  \n    What is a
-    dunder method?\n    \n      \n        In Python, a method with two"
-  last_post_date: "2025-07-22T23:39:43Z"
-  last_post_link: https://www.pythonmorsels.com/avoid-dunder-methods/
+  last_post_title: Nested functions in Python
+  last_post_description: "Functions in Python can be defined within another function.\n
+    \ \n    A function defined within a function\n    \n      \n        Python's functions
+    can be defined pretty much anywhere.\n\n      \n        You"
+  last_post_date: "2025-07-31T15:30:00Z"
+  last_post_link: https://www.pythonmorsels.com/nested-functions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 932360ed3bb89c7e9b1c2e0168003a9e
+  last_post_guid: 30a65607ba3a538a3aca551e20b7584e
   score_criteria:
     cats: 0
     description: 3

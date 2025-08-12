@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2025-07-20T13:41:54Z"
+date: "2025-08-01T01:51:30Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://sneak.berlin/: true
-  last_post_title: Minio Are Assholes
-  last_post_description: I use the fake open source project Minio to store data. It’s
-    an AGPL-licensed S3-compatible server, marketed under the term “open source” for
-    marketing/street cred (despite the AGPL being a
-  last_post_date: "2025-07-20T13:20:58Z"
-  last_post_link: https://sneak.berlin/20250720/minio-are-assholes/
+  last_post_title: Show Candidates Your Cap Table.
+  last_post_description: 'It’s hard enough trying to decide if you should take a job
+    with an early-stage startup. There’s so much uncertainty: the product, your reputation,
+    salary (as always), and, of course, equity.'
+  last_post_date: "2025-08-01T01:51:15Z"
+  last_post_link: https://sneak.berlin/20250801/show-candidates-your-cap-table/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86088e17409cba78ce82101cf7ae3714
+  last_post_guid: 1fa3a5721c8a7315d481bea42d19472b
   score_criteria:
     cats: 0
     description: 3

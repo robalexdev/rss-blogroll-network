@@ -15,23 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Community
-  - Linux Foundation
-  - Open Infrastructure
-  - OpenStack
+  - Compliance
+  - Security
+  - enterprise application security
   relme: {}
-  last_post_title: The Linux Foundation and OpenStack – a new chapter for cloud-native
-    infrastructure
-  last_post_description: 'Effective July 23rd, 2025 the Open Infrastructure Foundation
-    (OIF) has officially joined one of the world’s largest and most influential open
-    source communities: the Linux Foundation. This'
-  last_post_date: "2025-07-24T16:59:25Z"
-  last_post_link: https://ubuntu.com//blog/linux-foundation-openstack
+  last_post_title: A CISO’s guide to Application Security best practices
+  last_post_description: Effective AppSec is not a one-time fix but a continuous journey
+    across every facet of your application’s lifecycle. By embracing a Secure Software
+    Development Lifecycle (SSDLC) from the outset,
+  last_post_date: "2025-08-11T09:00:00Z"
+  last_post_link: https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices
   last_post_categories:
-  - Community
-  - Linux Foundation
-  - Open Infrastructure
-  - OpenStack
+  - Compliance
+  - Security
+  - enterprise application security
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:

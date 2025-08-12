@@ -1,6 +1,6 @@
 ---
 title: Techiediaries
-date: "2025-07-24T13:31:29Z"
+date: "2025-08-10T22:11:40Z"
 description: Techiediaries is a website dedicated to bring you tutorials and articles
   about the latest software and web technologies.
 params:

@@ -1,6 +1,6 @@
 ---
 title: Alex's blog
-date: "2025-04-01T18:26:46-07:00"
+date: "2025-08-04T12:28:49-07:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/564396784419613484/posts/default

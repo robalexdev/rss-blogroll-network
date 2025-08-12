@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Migrating my NAS from CoreOS/Flatcar Linux to NixOS
+  last_post_title: 'Development shells with Nix: four quick examples'
   last_post_description: ""
-  last_post_date: "2025-07-13T08:17:00+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/
+  last_post_date: "2025-07-27T08:50:00+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78c956b81e85e80254617a6b7337df68
+  last_post_guid: b60adda319b12cc094dc7fc2ff5096bc
   score_criteria:
     cats: 0
     description: 0

@@ -21,40 +21,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bootstrappable
-  - debian
+  - bundle
   - general
-  - gitlab
+  - git
   - gnu
-  - guix
-  - reproducible
-  - sbom
+  - gnulib
+  - reproducibility
   - security
   - supply-chain
-  - trisquel
-  - trusting-trust
   relme: {}
-  last_post_title: Building Debian in a GitLab Pipeline
-  last_post_description: 'After thinking about multi-stage Debian rebuilds I wanted
-    to implement the idea. Recall my illustration: Earlier I rebuilt all packages
-    that make up the difference between Ubuntu and Trisquel. It'
-  last_post_date: "2025-04-30T09:25:59Z"
-  last_post_link: https://blog.josefsson.org/2025/04/30/building-debian-in-a-gitlab-pipeline/
+  last_post_title: Independently Reproducible Git Bundles
+  last_post_description: The gnulib project publish a git bundle as a stable archival
+    copy of the gnulib git repository once in a while. Why? We don’t know exactly
+    what this may be useful for, but I’m promoting for this
+  last_post_date: "2025-07-31T14:50:05Z"
+  last_post_link: https://blog.josefsson.org/2025/07/31/independently-reproducible-git-bundles/
   last_post_categories:
-  - bootstrappable
-  - debian
+  - bundle
   - general
-  - gitlab
+  - git
   - gnu
-  - guix
-  - reproducible
-  - sbom
+  - gnulib
+  - reproducibility
   - security
   - supply-chain
-  - trisquel
-  - trusting-trust
   last_post_language: ""
-  last_post_guid: 40f9294a20649a4a1c7fd8eea37477f3
+  last_post_guid: f439396c4b78c79db6dca8414571868f
   score_criteria:
     cats: 0
     description: 0

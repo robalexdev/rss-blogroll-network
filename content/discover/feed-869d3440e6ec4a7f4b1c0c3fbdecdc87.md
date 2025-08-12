@@ -1,5 +1,5 @@
 ---
-title: Threads – Meta
+title: Threads Archives | Meta Newsroom
 date: "1970-01-01T00:00:00Z"
 description: ""
 params:
@@ -11,35 +11,31 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.7.55.
+      feedlandDatabase v0.8.1.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Creators
   - Product News
   - Recent News
   - Sidebar - Featured
-  - Technologies
   - Threads
   relme: {}
-  last_post_title: You Can Now Share Your Custom Feeds on Threads
-  last_post_description: "You’ll now be able to share feeds you’ve created on Threads,
-    and others will be able to add them to their home screens. \nThe post You Can
-    Now Share Your Custom Feeds on Threads appeared first on"
-  last_post_date: "2025-02-04T18:28:05Z"
-  last_post_link: https://about.fb.com/news/2025/02/share-custom-feeds-on-threads/
+  last_post_title: Introducing Messaging and Highlighted Perspectives on Threads
+  last_post_description: |-
+    We're announcing Threads DMs and the introduction of the Threads highlighter, a new visual element that emphasizes interesting perspectives and conversations.Â 
+    The post Introducing Messaging and
+  last_post_date: "2025-07-01T16:00:54Z"
+  last_post_link: https://about.fb.com/news/2025/07/introducing-messaging-highlighted-perspectives-threads/
   last_post_categories:
-  - Creators
   - Product News
   - Recent News
   - Sidebar - Featured
-  - Technologies
   - Threads
   last_post_language: ""
-  last_post_guid: 7367ed77cbbb5d9dc343d85297e9c94e
+  last_post_guid: e0b357040e42d91a8871e9acc73050b6
   score_criteria:
     cats: 0
     description: 0
@@ -57,6 +53,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 4
+  postcount: 9
   avgpostlen: 0
 ---

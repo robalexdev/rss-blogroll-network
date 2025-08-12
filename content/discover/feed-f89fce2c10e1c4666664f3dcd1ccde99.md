@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-06-25T00:00:00Z"
+date: "2025-07-29T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Syntax highlighting for 150 languages in < 200 KB
-  last_post_description: It's not bloat if I actually use it, right?
-  last_post_date: "2025-06-25T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/static-site-generators/luasmith-syntax-highlighting.html
+  last_post_title: The smallest embeddable scripting language, part 1
+  last_post_description: My search for a small, simple embeddedable scripting language.
+  last_post_date: "2025-07-29T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb0a1f570828a42683d6718ac7f6304c
+  last_post_guid: 1ff3bce44b607b0359e4af96f256d625
   score_criteria:
     cats: 0
     description: 0

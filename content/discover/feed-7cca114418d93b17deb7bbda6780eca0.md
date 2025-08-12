@@ -1,6 +1,6 @@
 ---
 title: okayfail.com
-date: "2025-03-24T00:00:00Z"
+date: "2025-07-25T00:00:00Z"
 description: ""
 params:
   feedlink: https://okayfail.com/atom.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://okayfail.com/: true
-  last_post_title: My Year of Raves
+  last_post_title: Stubs' General Store, Long Point, Ontario
   last_post_description: ""
-  last_post_date: "2025-03-24T00:00:00Z"
-  last_post_link: http://okayfail.com/2024/my-year-of-raves.html
+  last_post_date: "2025-07-25T00:00:00Z"
+  last_post_link: http://okayfail.com/2025/stubs-general-store-long-point-ontario.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b2124a860e1aca735d048b97c59e247e
+  last_post_guid: 214e338b580251fb9c471b65086b03f3
   score_criteria:
     cats: 0
     description: 0

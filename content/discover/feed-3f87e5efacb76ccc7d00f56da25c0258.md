@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2025-05-23T00:00:00Z"
+date: "2025-08-01T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -21,6 +21,9 @@ params:
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
   - https://blog.chriswm.com/.well-known/feed.xml
@@ -30,13 +33,13 @@ params:
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes 32
+  last_post_title: 'Goal: make one comic this year'
   last_post_description: ""
-  last_post_date: "2025-05-23T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/weeknotes-32/
+  last_post_date: "2025-08-01T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2025/goal-make-one-comic/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63eedb89482883ff9b34d6aa2f007a61
+  last_post_guid: ef19b8922f39dcd79f43f2b3423ad720
   score_criteria:
     cats: 0
     description: 3

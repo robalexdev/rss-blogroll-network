@@ -17,32 +17,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Experimentation
+  - Ephemeral Scrapbook
   relme: {}
-  last_post_title: This Website According to Perplexity
-  last_post_description: '"Can you review the articles on this website and tell me
-    what the key themes emerging are?" The results are in. ðŸ˜³ðŸ‘€'
-  last_post_date: "2025-07-22T11:05:27Z"
-  last_post_link: https://numericcitizen.me/this-website-according-to-perplexity/
+  last_post_title: The Ephemeral Scrapbook — Edition 2025-30
+  last_post_description: Amid Apple Intelligence delays, Apple still makes money,
+    a lot of it. Doomsayers will have to wait. This edition isn’t AI-news free. Sorry.
+  last_post_date: "2025-08-03T23:20:11Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-30/
   last_post_categories:
-  - AI
-  - Experimentation
+  - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: f529ef206ed1468eb0df9b502619a463
+  last_post_guid: 5228dcfaccacf99a10ebb9fdddff9afb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,13 +20,15 @@ params:
   categories: []
   relme:
     https://www.trysmudford.com/blog/: true
-  last_post_title: Generate all pair permutations in Utopia SCSS
-  last_post_description: Read the article
-  last_post_date: "2025-05-20T00:00:00Z"
-  last_post_link: https://www.trysmudford.com/blog/generate-all-pairs/
+  last_post_title: The elephant in the room
+  last_post_description: Colton Voege has penned an excellent debunk of the 10x AI
+    engineer. Their account of rapidly diminishing returns mirrors my experience with
+    agentic coding. Yes, it can create 10x the code that you or
+  last_post_date: "2025-08-08T00:00:00Z"
+  last_post_link: https://www.trysmudford.com/blog/the-elephant-in-the-room/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7da81d972228896001f1c89add5b8a4
+  last_post_guid: dd8b73b99cce114a8c5c3e71c1d356f0
   score_criteria:
     cats: 0
     description: 3

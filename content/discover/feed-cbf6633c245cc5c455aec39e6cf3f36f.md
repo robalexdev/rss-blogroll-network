@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2025-06-29T14:17:00Z"
+date: "2025-07-27T20:50:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -12,19 +12,23 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Is chat a good UI for AI? A Socratic dialogue
-  last_post_description: "The pupil was confused. Some people on Design Twitter said
-    that chat isn’t a good UI for AI… but then chat seemed to be winning in many products?
-    He climbed Mount GPT to consult a wizard…\n\n\U0001F423"
-  last_post_date: "2025-06-29T14:17:00Z"
-  last_post_link: https://www.geoffreylitt.com/2025/06/29/chat-ai-dialogue.html
+  last_post_title: Enough AI copilots! We need AI HUDs
+  last_post_description: |-
+    In my opinion, one of the best critiques of modern AI design comes from a 1992 talk by the researcher Mark Weiser where he ranted against “copilot” as a metaphor for AI.
+
+    This was 33 years ago,
+  last_post_date: "2025-07-27T20:50:00Z"
+  last_post_link: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30cf8c2602add907da5af8263ef48808
+  last_post_guid: 45e8f60f48241a5762a9ec53b79759de
   score_criteria:
     cats: 0
     description: 0

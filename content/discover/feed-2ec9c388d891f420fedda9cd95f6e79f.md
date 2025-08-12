@@ -13,34 +13,41 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
+  - 人工智能
+  - 思考
   - 日常
   - 杂文随笔
   relme: {}
-  last_post_title: 篝火
-  last_post_description: 放着音乐，和朋友聊天。 看着唱片起伏旋转，忽然想到，过去人们似乎也是这样围着篝火，有有一搭没一搭地聊天。 唱片 […]
-  last_post_date: "2025-06-10T18:56:00Z"
-  last_post_link: https://anotherdayu.com/2025/7051/
+  last_post_title: 当思考按字数收费
+  last_post_description: 0 Claude、ChatGPT 这些大模型很有趣的一点是，无论人类主观认为问题的难度如何，它都按 token […]
+  last_post_date: "2025-08-11T11:47:17Z"
+  last_post_link: https://anotherdayu.com/2025/7115/
   last_post_categories:
+  - 人工智能
+  - 思考
   - 日常
   - 杂文随笔
   last_post_language: ""
-  last_post_guid: 6fefc80f87ff5da23f3f5ca26b971f2e
+  last_post_guid: 58a4fb1f31dd3adcdaa68457cebdd2bd
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,34 +17,32 @@ params:
   recommender: []
   categories:
   - Open-Source
-  - Web Performance
   - WordPress
   relme: {}
-  last_post_title: Introducing the View Transitions Plugin for WordPress
-  last_post_description: 'I’m thrilled to announce a new plugin from the WordPress
-    Core Performance Team: View Transitions! This experimental plugin brings the power
-    of the cross-document View Transitions browser API to'
-  last_post_date: "2025-06-05T04:09:09Z"
-  last_post_link: https://felix-arntz.me/blog/introducing-view-transitions-wordpress-plugin/
+  last_post_title: How Open Source Contributions Elevate Your Professional Journey
+  last_post_description: In my last post, I shared 10 lessons from 10 years of contributing
+    to WordPress Core. If you’re new to open source, I encourage you to review those
+    insights. But today, I want to talk about
+  last_post_date: "2025-07-17T16:27:03Z"
+  last_post_link: https://felix-arntz.me/blog/open-source-contributions-elevate-your-professional-journey/
   last_post_categories:
   - Open-Source
-  - Web Performance
   - WordPress
   last_post_language: ""
-  last_post_guid: 525a0a2f11e6bdf3aad5a2668651d725
+  last_post_guid: 4c803c0cd2e277ef952bd2f9a9e08786
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

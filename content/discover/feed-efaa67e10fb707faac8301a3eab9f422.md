@@ -13,20 +13,22 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 价格行为学 - Rose 的 Caveman (野人) 交易策略
+  last_post_title: J Law 交易课程 EP4：移动平均线的真正用法——冠军交易心法
   last_post_description: |-
     引言
-
-    本文将介绍一种由交易员 Rose 提出的高效剥头皮（Scalp）策略——“Caveman
-  last_post_date: "2025-07-23T23:00:00+08:00"
-  last_post_link: https://blog.forecho.com/price-action-rose-caveman-setup.html
+    本文内容整理自 YouTube 博主 J Law 的“终极股票交易课程”系列视频的第四集。在本集中，J Law 分享了他作为全美投资大赛 (US Investing Championship)
+  last_post_date: "2025-07-26T13:00:00+08:00"
+  last_post_link: https://blog.forecho.com/jlaw-meta-strategy-ep4.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e94eb83657215b1d433f2372ba7f4cbb
+  last_post_guid: 483353a821ad81878d1dc9fc12a8a44d
   score_criteria:
     cats: 0
     description: 3

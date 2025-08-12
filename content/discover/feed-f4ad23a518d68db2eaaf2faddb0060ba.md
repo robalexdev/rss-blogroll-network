@@ -15,42 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Engagement
-  - Events
-  - Languages & Cultures
-  - Mozilla L10n team
+  - L10n Reports
   - Planet
-  - Pontoon
   relme: {}
-  last_post_title: 'Reconnecting in Berlin: A Celebration of Mozilla’s Localization
-    Community'
-  last_post_description: Something we’ve long known at Mozilla is that our localization
-    community thrives on personal connections. For years, regional meetups brought
-    volunteers and staff together multiple times a year —
-  last_post_date: "2025-06-26T05:24:29Z"
-  last_post_link: https://blog.mozilla.org/l10n/2025/06/26/reconnecting-in-berlin-a-celebration-of-mozillas-localization-community/
+  last_post_title: 'L10n Report: July Edition 2025'
+  last_post_description: Please note some of the information provided in this report
+    may be subject to change as we are sometimes sharing information about projects
+    that are still in early stages and … Read more
+  last_post_date: "2025-07-31T16:55:24Z"
+  last_post_link: https://blog.mozilla.org/l10n/2025/07/31/l10n-report-july-edition-2025/
   last_post_categories:
-  - Engagement
-  - Events
-  - Languages & Cultures
-  - Mozilla L10n team
+  - L10n Reports
   - Planet
-  - Pontoon
   last_post_language: ""
-  last_post_guid: 64ea8ca933bec1cf88106ac3f1b8aaac
+  last_post_guid: eb396076bf8d6f9c47efbdb216d4b7f8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

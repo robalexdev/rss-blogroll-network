@@ -17,22 +17,30 @@ params:
   categories:
   - English
   - Free Software
-  - Linux kernel
-  - Python
+  - Unix
+  - competition
+  - computing history
+  - operating systems
+  - retrocomputing
+  - technology
   relme: {}
-  last_post_title: On a tale of two pull requests
-  last_post_description: I was going to leave a comment on “A tale of two pull requests”,
-    but would need to authenticate myself via one of the West Coast behemoths. So,
-    for the benefit of readers of the FSFE Community
-  last_post_date: "2025-06-15T15:38:36Z"
-  last_post_link: https://blogs.fsfe.org/pboddie/?p=2997
+  last_post_title: Common Threads of Computer Company History
+  last_post_description: When descending into the vaults of computing history, as
+    I have found myself doing in recent years, and with the volume of historical material
+    now available for online perusal, it has largely become
+  last_post_date: "2025-08-05T21:27:19Z"
+  last_post_link: https://blogs.fsfe.org/pboddie/?p=2928
   last_post_categories:
   - English
   - Free Software
-  - Linux kernel
-  - Python
+  - Unix
+  - competition
+  - computing history
+  - operating systems
+  - retrocomputing
+  - technology
   last_post_language: ""
-  last_post_guid: d841a7760559e6be54d9b10380c50c75
+  last_post_guid: 2faee1e78a12366d1987cd7ef1553dc6
   score_criteria:
     cats: 0
     description: 3

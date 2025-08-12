@@ -24,18 +24,15 @@ params:
     https://links.dmv.pub/@jcrabapple: true
     https://proven.lol/8e7715: true
     https://proven.lol/523f62: true
-  last_post_title: 'Playlist: Emo Favorites'
-  last_post_description: |-
-    Some of my favorite emo and emo-adjacent songs from the 90s, 2000s, and 2010s.
-
-    https://tidal.com/playlist/4ffcd566-bd49-490b-a40c-f466b04a0167
-
-    Enjoy!
-  last_post_date: "2025-07-22T13:10:38Z"
-  last_post_link: https://cool-as-heck.blog/playlist-emo-favorites
+  last_post_title: Tuesday Night Trivia
+  last_post_description: My wife and I went to Tuesday trivia night at Vibrissa here
+    in Winchester last night. It was tough! There were some really hard questions.
+    We ended up in the middle of the pack, as usual. However, I
+  last_post_date: "2025-07-30T15:48:00Z"
+  last_post_link: https://cool-as-heck.blog/tuesday-night-trivia
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 45409efc14118d21f8b9657afc077a4f
+  last_post_guid: baf7912030e00ff6955039fd95c8301a
   score_criteria:
     cats: 0
     description: 3

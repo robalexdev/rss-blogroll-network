@@ -16,16 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Newsticker - Emacs built-in RSS reader
+  last_post_title: 'Emacs: Keep journaling on the go'
   last_post_description: |-
-    I’ve been browsing Emacs’s The Info Directory (C-h i) the other day and came across a menu item called Newsticker.
-    Turned out is a built-in RSS reader I never heard of.
-    I know Emacs has Gnus
-  last_post_date: "2025-04-09T16:47:34+10:00"
-  last_post_link: https://codelearn.me/2025/04/09/emacs-newsticker.html
+    I’ve been journaling a lot for many years. It cools down my brain a little and helps me reflect on things better.
+    Emacs and org-mode are of course the tools I use to journal.
+    The problem
+    I can’t
+  last_post_date: "2025-07-27T16:35:19+10:00"
+  last_post_link: https://codelearn.me/2025/07/27/simple-org.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f395109c3dcc19fc71832fe40b7ba567
+  last_post_guid: 758ee4f1bbf401d7b4b7ff31b25f9d92
   score_criteria:
     cats: 0
     description: 3

@@ -25,17 +25,17 @@ params:
   - https://lmika.org/feed.xml
   - https://lmika.org/podcast.xml
   categories:
-  - Meta
+  - OpenAI
   relme: {}
-  last_post_title: Meta looks for an AI reset
-  last_post_description: Mark Zuckerberg knows the company needs a new AI strategy.
-    Is Scale's Alexandr Wang the partner he needs?
-  last_post_date: "2025-06-11T01:30:40Z"
-  last_post_link: https://www.platformer.news/meta-scale-investment-zuckerberg-wang/
+  last_post_title: GPT-5 is alive
+  last_post_description: 'It''s big news for free users of ChatGPT, but AGI remains
+    elusive. PLUS: one AI safety idea other labs should borrow'
+  last_post_date: "2025-08-08T00:45:00Z"
+  last_post_link: https://www.platformer.news/gpt-5-launch-release-reviews-impressions/
   last_post_categories:
-  - Meta
+  - OpenAI
   last_post_language: ""
-  last_post_guid: f0d41261e7046c258c0bfa25c33df728
+  last_post_guid: 34f3aeb4d94c0813b941c48d4b11fdf3
   score_criteria:
     cats: 0
     description: 3

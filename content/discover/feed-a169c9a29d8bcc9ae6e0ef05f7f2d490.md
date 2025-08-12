@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2025-06-09T08:16:14-04:00"
+date: "2025-08-06T09:54:52-04:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -24,15 +24,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: 'Links #12'
-  last_post_description: Oscar, an open-source contributor agent architecture - Oscar
-    is a project from the Go community that aims to develop AI agents that assist
-    open source maintainers. I think this is a great idea. Open
-  last_post_date: "2025-04-15T00:00:00-04:00"
-  last_post_link: https://www.bryanbraun.com/2025/04/15/links-12/
+  last_post_title: A new job, a new life
+  last_post_description: Last month, I started a new job working as a fullstack software
+    engineer at ClassDojo.
+  last_post_date: "2025-07-03T00:00:00-04:00"
+  last_post_link: https://www.bryanbraun.com/2025/07/03/a-new-job-a-new-life/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 454524dd1b4b2dde6a16be540bca7c52
+  last_post_guid: 632d6a40e71776fd69cb764e8446c898
   score_criteria:
     cats: 0
     description: 3

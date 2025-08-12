@@ -17,20 +17,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'PSA: part of your Kagi subscription fee goes to a Russian company
-    (Yandex)'
+  last_post_title: The 'politsei' problem, or how filtering unwanted content is still
+    an issue in 2025
   last_post_description: |-
-    Today I learned that Kagi uses Yandex as part of its search
-    infrastructure, making up about 2% of their
-    costs, and their CEO has confirmed that they do not plan to change that.
-    To quote:
-
-    Yandex
-  last_post_date: "2025-07-17T21:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2025/07/17/kagi/
+    A long time ago, there
+    was a small Estonian website called “Mängukoobas” (literal
+    translation
+    from Estonian is “game cave”).
+    It started out as a place for people to share various links to
+  last_post_date: "2025-08-11T06:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2025/08/11/eins-zwei-polizei/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2ec4dfe57da12c8c82825ab2619f50f3
+  last_post_guid: 644acc6d3823dddf8cc8ec47a00413a0
   score_criteria:
     cats: 0
     description: 3

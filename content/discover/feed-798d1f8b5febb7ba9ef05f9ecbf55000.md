@@ -19,16 +19,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Goodbye Google Nest
-  last_post_description: For years now I’ve had a low opinion of Google products,
-    particularly their hardware. Since taking over Nest, their poor treatment of customers
-    have infected them too. Which is a shame, as I have a
-  last_post_date: "2025-07-19T07:27:26Z"
-  last_post_link: https://artiss.blog/2025/07/goodbye-google-nest/
+  last_post_title: The plugins I use on this site – the what and the why
+  last_post_description: This is a snapshot, at time of writing, of what plugins I’m
+    using on my site. And this will vary from one month to the next. I’ve grouped
+    them appropriately too and given an explanation as to
+  last_post_date: "2025-08-03T11:35:03Z"
+  last_post_link: https://artiss.blog/2025/08/the-plugins-i-use-on-this-site-the-what-and-the-why/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: e578552218ee04cda5976968cee24458
+  last_post_guid: fb7ef634d7f92aa9a092a2d977a4420b
   score_criteria:
     cats: 0
     description: 3

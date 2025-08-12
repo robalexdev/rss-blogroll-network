@@ -21,14 +21,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: AI, Hallucinations, and Writing
-  last_post_description: A short musing on why we shouldn't trust what AI chatbots
-    produce
-  last_post_date: "2025-06-11T06:09:00Z"
-  last_post_link: https://scottnesbitt.online/hallucination.html
+  last_post_title: Why Simple Tools Matter
+  last_post_description: Simple, especially when it comes to tools, isn't a four letter
+    word but some people seem to treat it that way
+  last_post_date: "2025-08-07T07:10:00Z"
+  last_post_link: https://scottnesbitt.online/simple-tools.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 744858dc7db46d60388ccee878300429
+  last_post_guid: f1c47f24a0dd759174170cf695f76ae4
   score_criteria:
     cats: 0
     description: 3

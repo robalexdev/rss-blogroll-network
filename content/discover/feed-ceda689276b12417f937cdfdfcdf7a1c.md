@@ -18,31 +18,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Data
+  - Frontend Development
+  - JavaScript
   relme: {}
-  last_post_title: Databricks Launches a No-Code Tool for Building Data Pipelines
+  last_post_title: 'Beyond JSX: Rethinking the Component Model in Frontend'
   last_post_description: |-
-    At its Data+AI Summit today in San Francisco, Databricks launched a number of new features for its data platform, including
-    The post Databricks Launches a No-Code Tool for Building Data Pipelines
-  last_post_date: "2025-06-11T23:00:25Z"
-  last_post_link: https://thenewstack.io/databricks-launches-a-no-code-tool-for-building-data-pipelines/
+    JSX (JavaScript XML) gave developers a familiar way to write interfaces, blending HTML-like syntax with JavaScript’s power. But as applications
+    The post Beyond JSX: Rethinking the Component Model
+  last_post_date: "2025-08-11T17:40:54Z"
+  last_post_link: https://thenewstack.io/beyond-jsx-rethinking-the-component-model-in-frontend/
   last_post_categories:
-  - Data
+  - Frontend Development
+  - JavaScript
   last_post_language: ""
-  last_post_guid: b017dccefb16fb841b1c8bd6f4486802
+  last_post_guid: 52d46ca0000c0bfe0cd136ed8b1082cb
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,32 +20,42 @@ params:
   recommended: []
   recommender: []
   categories:
-  - News
+  - Block Plugins
+  - Block Themes
+  - How-to
+  - Site Editor
+  - Updates
+  - Weekend Edition
   relme: {}
-  last_post_title: AI Building Blocks, WordCamp US, WordPress 6.9 Planning, Block
-    Developer Cookbook—Weekend Edition 334
-  last_post_description: Hi there, It’s good to be back from vacation! Norway is a
-    great country with a rich history, excellent food, great culture, and huge prices.
-    It is absolutely worth it, though. While I was away,
-  last_post_date: "2025-07-19T00:16:00Z"
-  last_post_link: https://gutenbergtimes.com/ai-building-blocks-wordcamp-us-wordpress-6-9-planning-block-developer-cookbook-weekend-edition-334/
+  last_post_title: New Blocks, Interactivity Router API, WordCamp US Schedule, and
+    more—Weekend Edition 337
+  last_post_description: Hi there! With the updates of the last few weeks, there appears
+    to be some increased excitement ahead of the next major WordPress release on December
+    2, 2025. The planning has been done. The
+  last_post_date: "2025-08-09T01:43:00Z"
+  last_post_link: https://gutenbergtimes.com/new-blocks-interactivity-router-api-wordcamp-us-schedule-and-more-weekend-edition-337/
   last_post_categories:
-  - News
+  - Block Plugins
+  - Block Themes
+  - How-to
+  - Site Editor
+  - Updates
+  - Weekend Edition
   last_post_language: ""
-  last_post_guid: 129d355ae31556e59372509432e8f8ce
+  last_post_guid: 5f3a7cc4bab99783771c9b6e29549319
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

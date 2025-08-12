@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I Write Type Safe Generic Data Structures in C
-  last_post_description: I write type safe generic data structures in C using a technique
-    that I haven’t seen elsewhere1. It uses unions to associate type information with
-    a generic data structure, but we’ll get to that.
-  last_post_date: "2025-06-25T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
+  last_post_title: A Fast, Growable Array With Stable Pointers in C
+  last_post_description: 'My last article about generic data structures in C was written
+    to set the stage for today’s topic: A data structure with constant time indexing,
+    stable pointers, and works well with arena'
+  last_post_date: "2025-08-05T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/segment_array/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 872af2c057fecbadadd0932e1b5bdc73
+  last_post_guid: a64fd7c7705bfe0d82404d2b004450e7
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Etsy Engineering | Code as Craft
-date: "2025-06-12T01:22:14-04:00"
+date: "2025-08-11T15:34:16-04:00"
 description: 'The engineers who make Etsy make our living with a craft we love: software.
   This is where we''ll write about our craft and our collective experience building
   and running the world''s most vibrant'

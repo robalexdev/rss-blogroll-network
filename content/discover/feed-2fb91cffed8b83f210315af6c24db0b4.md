@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Just make it scale: An Aurora DSQL story'
-  last_post_description: 'AWS Senior Principal Engineers, Niko Matsakis and Marc Bowes,
-    take us inside Aurora DSQL''s development: scaling write operations without two-phase
-    commit, overcoming garbage collection hurdles, and'
-  last_post_date: "2025-05-27T04:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: Removing friction from Amazon SageMaker AI development
+  last_post_description: Building with Amazon SageMaker AI should be about innovation,
+    not wrestling with development environments or building bespoke observability
+    systems. Here's how we're removing roadblocks so builders
+  last_post_date: "2025-08-06T05:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2025/08/removing-friction-from-sage-maker-development.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 935966f690d673902cbbcc232ab10d7c
+  last_post_guid: d4d2ef08b6d1121357bda364ffac7331
   score_criteria:
     cats: 0
     description: 3

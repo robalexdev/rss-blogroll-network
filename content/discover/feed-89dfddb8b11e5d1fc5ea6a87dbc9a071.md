@@ -20,19 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Just speak the truth
+  last_post_title: What's new with Himitsu 0.9?
   last_post_description: |-
-    Today, we’re looking at two case studies in how to respond when reactionaries
-    appear in your free software community.
-    Exhibit A
-
-    It is a technical decision.
-    The technical reason is that the
-  last_post_date: "2025-06-30T00:00:00Z"
-  last_post_link: https://drewdevault.com/2025/06/30/Speak-the-truth.html
+    Last week, Armin and I worked together on the latest release of Himitsu, a
+    “secret storage manager” for Linux. I haven’t blogged about Himitsu since I
+    announced it three years ago, and I
+  last_post_date: "2025-08-08T00:00:00Z"
+  last_post_link: https://drewdevault.com/2025/08/08/2025-08-08-Whats-new-with-himitsu.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b89a07006ba04cb2199bc00e3c239839
+  last_post_guid: 313e0dcd54d6ada9db0bce9fa4a96229
   score_criteria:
     cats: 0
     description: 3

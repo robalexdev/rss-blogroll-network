@@ -17,16 +17,15 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: Coordinates
-  last_post_description: Marc-Tobias sent us this pic of a shop with a sign that says
-    “Your Location” plus the coordinates. I haven’t said where he took this pic because
-    I thought you might enjoy looking up the
-  last_post_date: "2025-07-24T09:00:00Z"
-  last_post_link: https://mappery.org/coordinates/
+  last_post_title: Join the Pipe
+  last_post_description: Reinder shared this “Stimulating the use of tap water in
+    the bottle that you bring yourself – at the Kohnstammhuis, University of Amsterdam”
+  last_post_date: "2025-08-11T09:00:00Z"
+  last_post_link: https://mappery.org/join-the-pipe/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 2a3506ff565e76054f4b079a5712f593
+  last_post_guid: 1a6ae664cc11be47d36294063269b151
   score_criteria:
     cats: 0
     description: 3

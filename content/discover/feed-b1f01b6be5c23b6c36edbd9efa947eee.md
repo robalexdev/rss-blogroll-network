@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: IMAX is a Superbrand
-  last_post_description: |-
-    How many companies building cinema projectors do you know?
-    I bet you know at least one, and it’s called IMAX. You’ve heard the name when you watched “Dune“, “Avatar“, or something from
-  last_post_date: "2025-07-14T14:30:26Z"
-  last_post_link: https://molodtsov.me/2025/07/imax-is-a-superbrand/
+  last_post_title: The Limits of the Network State
+  last_post_description: The Network State is a concept popularized by the entrepreneur
+    and investor Balaji Srinivasan. These network states begin as highly-aligned online
+    communities and graduate to diplomatic recognition
+  last_post_date: "2025-08-10T14:25:50Z"
+  last_post_link: https://molodtsov.me/2025/08/the-limits-of-the-network-state/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: daa12d00cfe1b347b003265d9fe23959
+  last_post_guid: 4bdb486d0d6a6785a1a2d572b025b72a
   score_criteria:
     cats: 0
     description: 3

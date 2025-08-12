@@ -18,15 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Writing without a plan
-  last_post_description: My mind is capable of making surprising connections in the
-    moment if I allow it to react to the work I'm doing rather than follow a script
-    I've written beforehand.
-  last_post_date: "2025-07-19T07:32:47Z"
-  last_post_link: https://ankursethi.com/blog/writing-without-a-plan/
+  last_post_title: I'm trying to change my relationship with my desk
+  last_post_description: Repurposing my programming workspace for creative writing
+    by changing my pre-work ritual instead of my physical space.
+  last_post_date: "2025-08-03T12:17:25Z"
+  last_post_link: https://ankursethi.com/blog/im-trying-to-change-my-relationship-with-my-desk/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ecf0b425ca35a6e27e93425707233cce
+  last_post_guid: 045173422f94b5c653b8ddc30c2ecb89
   score_criteria:
     cats: 0
     description: 3

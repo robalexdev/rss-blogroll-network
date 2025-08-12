@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2025-06-11T18:48:25+02:00"
+date: "2025-07-18T09:04:00+02:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -34,16 +34,16 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: The ideology of the tool
-  last_post_description: I’ve previously written about how there’s something creepy
-    and very sexual lurking behind a lot of the people into “AI”, primarily men who
-    can’t handle being told no.
-  last_post_date: "2025-06-11T18:44:00+02:00"
-  last_post_link: https://derekkedziora.com/notes/2025-06-11-the-ideology-of-the-tool
+  last_post_title: Also done with second braining
+  last_post_description: I’ve spent way too much time productivity hacking and fiddling
+    with the perfect PKM (personal knowledge management) system. And I’d increasingly
+    been coming to the same conclusions as Joan
+  last_post_date: "2025-06-30T21:50:00+02:00"
+  last_post_link: https://derekkedziora.com/notes/2025-06-30-also-done-with-second-braining
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 60ddee3f8bfde4be193ce4272735089f
+  last_post_guid: 68f27f9b3b7f58b4fc7d7582193f384e
   score_criteria:
     cats: 0
     description: 3

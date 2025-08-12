@@ -18,16 +18,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Planetfall
-  last_post_description: Gentle readers, I have just wrapped up a fun side project
-    that will be of great interest to a very small number of you. The result of one
-    of the most technically demanding efforts of my career, I am
-  last_post_date: "2025-05-21T00:46:08Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/
+  last_post_title: A Sketch of Isle Royale
+  last_post_description: It’s been a summer full of side projects here. Which is a
+    very good sign — I used to do many, many side projects, but for the last couple
+    of years, poor health has left me with reduced energy,
+  last_post_date: "2025-07-28T21:46:51Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2025/07/28/a-sketch-of-isle-royale/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 1e0a5215f600272874f5eb351a27ba27
+  last_post_guid: ee0b34efe2424f1629b2730902e48b8c
   score_criteria:
     cats: 0
     description: 0

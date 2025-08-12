@@ -1,6 +1,6 @@
 ---
 title: Airing 的博客
-date: "2025-07-24T16:21:18Z"
+date: "2025-08-06T08:34:53Z"
 description: 哲学硕士｜小学老师 ｜终端全栈
 params:
   feedlink: https://blog.ursb.me/feed.xml
@@ -12,6 +12,9 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []

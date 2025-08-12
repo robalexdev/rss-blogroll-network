@@ -1,6 +1,6 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2025-05-08T15:44:00Z"
+date: "2025-07-30T19:15:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
@@ -20,27 +20,27 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://kevquirk.com/posts-feed
+  - https://kevquirk.com/watch-log-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Today, I am writing about a fork and, no, it's not a metaphor for
-    anything please stop asking
+  last_post_title: Today my brain wanted to think about one of the first dates I ever
+    went on
   last_post_description: ""
-  last_post_date: "2025-05-08T15:44:00Z"
-  last_post_link: https://gkeenan.co/avgb/today-i-am-writing-about-a-fork-and-no-its-not-a-metaphor-for-anything-please-stop-asking/
+  last_post_date: "2025-07-30T19:15:00Z"
+  last_post_link: https://gkeenan.co/avgb/today-my-brain-wanted-to-think-about-one-of-the-first-dates-i-ever-went-on/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f0e1d616a9cf39770be3aec727911ee2
+  last_post_guid: e08ac6daecced22bd282da0da1be1a8c
   score_criteria:
     cats: 0
     description: 3

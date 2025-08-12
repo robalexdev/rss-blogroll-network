@@ -16,20 +16,23 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Open Sauce is a confoundingly brilliant Bay Area event
-  last_post_description: This is the second year I brought my Dad (a now-retired radio
-    engineer and co-host of Geerling Engineering) to Open Sauce, a Bay Area maker
-    faire-like event, dreamed up by William Osman and featuring
-  last_post_date: "2025-07-22T16:12:03Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event
+  last_post_title: Increasing the VRAM allocation on AMD AI APUs under Linux
+  last_post_description: Since I saw some posts calling out the old (now deprecated)
+    way to increase GTT memory allocations for the iGPU on AMD APUs (like the AI Max+
+    395 / Strix Halo I am testing in the Framework Mainboard
+  last_post_date: "2025-08-08T01:38:22Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e90c15cd345628a33cc7f1524ad137d4
+  last_post_guid: b1537ca6698c8e5287394702edbce4bb
   score_criteria:
     cats: 0
     description: 0

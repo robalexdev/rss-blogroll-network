@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: Visor is the best app for car shopping
-  last_post_description: A few months ago my pal Joel mentioned a new car shopping
-    app to me and even though I only buy a car once every several years, I love to
-    browse listings or figure what my current favorite car is that
-  last_post_date: "2025-06-10T20:46:14Z"
-  last_post_link: https://a.wholelottanothing.org/visor-is-the-best-app-for-car-shopping/
+  last_post_title: My dream gravel bike build
+  last_post_description: Back in March, my bike got stolen.I own a few different bikes,
+    but the stolen one was my main rig. It was my do anything, long distance, off-road,
+    on-road, gravel bike that covered 90% of my riding.
+  last_post_date: "2025-08-11T03:16:57Z"
+  last_post_link: https://a.wholelottanothing.org/my-dream-gravel-bike-build/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9309f768e5f7769829caf0aedb51700e
+  last_post_guid: 58f3283c4843922f0713e198bb357f48
   score_criteria:
     cats: 0
     description: 3

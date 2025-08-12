@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Wed, 11 Jun 2025 22:18:50 GMT
+date: Mon, 11 Aug 2025 05:54:00 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -161,6 +161,9 @@ params:
       language modeling and meta-modeling. Topics include: eclipse emf, OMG MOF, textual
       modeling and agile language engineering.'
     id: 2783ff7c3632d0b16ae60cf47d1d51d2
+  - title: Atos Eclipse
+    description: A blog about Eclipse Technologies from Atos Origin
+    id: 27c0c6f40a30e50a980e8f88ea364217
   - title: Its Eclipse in Clips ...
     description: This blog site is a symbol of our Passion towards Eclipse and a contribution
       to the Eclipse Community ... Eclipse Team, ANCiT Consulting
@@ -652,6 +655,9 @@ params:
   - title: Jeeeyul's Eclipse Log
     description: Another Eclipse Blog
     id: c0721e7db239408690b7bb3455051c60
+  - title: Neil Bartlett
+    description: ""
+    id: c0869ea6c2a8ec771990c5b583f7010c
   - title: Nirav's Contemplations
     description: Thoughts on Programming, Software and Open Source.
     id: c23af7dd41e915636cf4a99a52fd5bd3

@@ -19,14 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'x86 Assembly Exercise #1: Toy kill Program (Solution)'
-  last_post_description: A step-by-step walkthrough of the toy kill program using
-    raw Linux syscalls.
-  last_post_date: "2025-07-19T18:54:05Z"
-  last_post_link: https://blog.codingconfessions.com/p/x86-assembly-exercise-1
+  last_post_title: 'Big O vs Hardware: Better Complexity ≠ Better Performance'
+  last_post_description: Why Your O(log n) Algorithm Might Lose to O(n)
+  last_post_date: "2025-08-03T18:37:16Z"
+  last_post_link: https://blog.codingconfessions.com/p/big-o-vs-hardware
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ea8e530eca03ff5fac997f388b0b11b9
+  last_post_guid: f58869c27e9489990276c605c796ab04
   score_criteria:
     cats: 0
     description: 3

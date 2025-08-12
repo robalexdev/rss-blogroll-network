@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-07-08T15:30:54Z"
+date: "2025-08-11T03:27:35Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,33 +16,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Salem prize
-  - advertising
+  - Ayla Gafni
+  - Paul Erdos
+  - math.NT
+  - paper
+  - prime gaps
+  - rough numbers
   relme: {}
-  last_post_title: Salem Prize now accepting nominations for 2025
-  last_post_description: The Salem prize was established in 1968 and named in honor
-    of Raphaël Salem (1898-1963), a mathematician famous notably for his deep study
-    of the links between Fourier series and number theory and
-  last_post_date: "2025-07-08T15:30:54Z"
-  last_post_link: https://terrytao.wordpress.com/2025/07/08/salem-prize-now-accepting-nominations-for-2025/
+  last_post_title: Rough numbers between consecutive primes
+  last_post_description: 'First things first: due to an abrupt suspension of NSF funding
+    to my home university of UCLA, the Institute of Pure and Applied Mathematics (which
+    had been preliminarily approved for a five-year NSF'
+  last_post_date: "2025-08-11T03:27:35Z"
+  last_post_link: https://terrytao.wordpress.com/2025/08/10/rough-numbers-between-consecutive-primes/
   last_post_categories:
-  - Salem prize
-  - advertising
+  - Ayla Gafni
+  - Paul Erdos
+  - math.NT
+  - paper
+  - prime gaps
+  - rough numbers
   last_post_language: ""
-  last_post_guid: 6c92564d9aca4e359e00defa5f87177b
+  last_post_guid: 3872bf554906150bb74689215e8f4f14
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -32,15 +32,15 @@ params:
   categories: []
   relme:
     https://reillyspitzfaden.com/blog: true
-  last_post_title: 'Reverb Part 1: “Freeverb”'
-  last_post_description: I discuss how algorithmic reverbs work using the popular
-    “Freeverb.” I give details on feedforward/feedback delays and allpass filters,
-    and I include a Max/MSP patch to play with.
-  last_post_date: "2025-06-05T15:30:00Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/
+  last_post_title: Plugins for Everyone! Cross-Platform JUCE with CMake & GitHub Actions
+  last_post_description: My C++ reverb plugin is finally available for macOS, Windows,
+    and Linux! Here's how I'm using JUCE's CMake API and GitHub actions to make that
+    possible.
+  last_post_date: "2025-08-01T18:31:00Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2025/08/plugins-for-everyone-crossplatform-juce-with-cmake-github-actions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24b8ca1a2325d1bef4f420db21084fe9
+  last_post_guid: fc0d3f55a7820d4fd27ae729170f4ba5
   score_criteria:
     cats: 0
     description: 3

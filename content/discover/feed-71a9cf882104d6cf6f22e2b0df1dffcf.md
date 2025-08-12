@@ -22,7 +22,9 @@ params:
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Folk
+  - South Africa
   relme:
     https://amf.didiermary.fr/: true
     https://amf.didiermary.fr/donate-support-amf/: true
@@ -31,28 +33,30 @@ params:
     https://masto.ai/@cybeardjm: true
     https://pixelfed.social/cybeardjm: true
     https://www.didiermary.fr/: true
-  last_post_title: Orquestra Afro-Brasileira
-  last_post_description: RSS Club only!  Orquestra Afro-Brasileira was founded in
-    1942 in Rio de Janeiro and lasted until 1970. It was formed by musician Abigail
-    Moura, who combined classical and jazz music with the
-  last_post_date: "2025-06-11T19:00:29Z"
-  last_post_link: https://amf.didiermary.fr/rss-club/orquestra-afro-brasileira/
-  last_post_categories: []
+  last_post_title: Mahotella Queens’ Come back (Buya Buya)
+  last_post_description: '“Buya Buya: Come Back” is the first full album of exciting
+    new Queens material in nearly 20 years and marks their long-awaited return to
+    the world stage. This release also heralds a new chapter'
+  last_post_date: "2025-08-11T19:46:57Z"
+  last_post_link: https://amf.didiermary.fr/mahotella-queens-come-back-buya/
+  last_post_categories:
+  - Folk
+  - South Africa
   last_post_language: ""
-  last_post_guid: f0b6d082b74331ea171442987c82a8ab
+  last_post_guid: afe439d6b391cb57c67c311699f71ee8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

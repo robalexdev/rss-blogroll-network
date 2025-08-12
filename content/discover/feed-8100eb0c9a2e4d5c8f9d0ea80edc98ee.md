@@ -26,34 +26,40 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Politics
-  - democracy
+  - Career
+  - Design
+  - development
+  - glamorous
+  - profession
   relme:
     https://zeldman.com/: true
-  last_post_title: Project 2026
-  last_post_description: Starting today, file suits to prevent biased gerrymandering.
-    Fight harder for the right to vote than the GOP has fought to suppress the votes
-    of Americans MAGA dislikes. Craft a Democratic party
-  last_post_date: "2025-07-16T15:41:56Z"
-  last_post_link: https://zeldman.com/2025/07/16/project-2026/
+  last_post_title: Staying relevant
+  last_post_description: |-
+    “And in their place came acceptance.” Staying relevant in your profession as you age and technology changes.
+    The post Staying relevant appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2025-08-05T13:52:42Z"
+  last_post_link: https://zeldman.com/2025/08/05/staying-relevant/
   last_post_categories:
-  - Politics
-  - democracy
+  - Career
+  - Design
+  - development
+  - glamorous
+  - profession
   last_post_language: ""
-  last_post_guid: 0d031878f43af4d57e17301d23db7977
+  last_post_guid: 229cb5699c21f0e921961497bc7834ec
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Org-Mode on Ross A. Baker
-date: "2025-07-25T04:41:16Z"
+date: "2025-08-11T15:43:25Z"
 description: a perfectly cromulent developer
 params:
   feedlink: https://rossabaker.com/tags/org-mode/index.xml
@@ -16,23 +16,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - hugo
+  - emacs
+  - emacs-carnival
+  - ethersync
+  - markdown
+  - mdoc
   - org-mode
-  - ox-hugo
-  - tech
+  - writing
   relme:
     https://rossabaker.com/tags/org-mode/: true
-  last_post_title: Ox. Hugo. Why not both?
+  last_post_title: 'Writing in Emacs: two out of three ain''t bad'
   last_post_description: ""
-  last_post_date: "2022-11-22T15:53:00Z"
-  last_post_link: https://rossabaker.com/blog/ox-hugo-why-not-both/
+  last_post_date: "2025-07-26T12:04:00Z"
+  last_post_link: https://rossabaker.com/blog/writing-in-emacs/
   last_post_categories:
-  - hugo
+  - emacs
+  - emacs-carnival
+  - ethersync
+  - markdown
+  - mdoc
   - org-mode
-  - ox-hugo
-  - tech
+  - writing
   last_post_language: ""
-  last_post_guid: 424e9a76983552b2ce412eeb786be112
+  last_post_guid: 0d072ec5406288d016513de5b9320814
   score_criteria:
     cats: 0
     description: 3

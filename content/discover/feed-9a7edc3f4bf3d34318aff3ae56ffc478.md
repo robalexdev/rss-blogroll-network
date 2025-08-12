@@ -18,45 +18,40 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Ashley Aune
-  - Bill Hardwick
-  - Chris Brown
-  - Jon Patterson
-  - Kansas City Chiefs
-  - Kansas City Royals
-  - Kathy Steinhoff
-  - Kimberly-Ann Collins
-  - Legislature
-  - Raychel Proudie
-  - Special Session
-  - St. Louis tornado
-  - disaster aid
-  - stadium funding
+  - Amy Moore
+  - Cannabis
+  - Economy
+  - Missouri
+  - cannabis
+  - draft
+  - microbusiness license
+  - ownership
+  - predatory practices
+  - regulation
+  - revision
+  - rules
   relme: {}
-  last_post_title: Missouri special session ends with passage of KC stadium funding,
-    disaster aid
-  last_post_description: The Missouri House closed the special legislative session
-    Wednesday with votes to finance professional sports stadiums in Kansas City and
-    provide tornado relief for St. Louis. Three special session
-  last_post_date: "2025-06-11T22:07:26Z"
-  last_post_link: https://missouriindependent.com/2025/06/11/missouri-special-session-ends-with-passage-kc-stadium-funding-disaster-aid/
+  last_post_title: Missouri cannabis regulators target rule breakers, predatory contracts
+  last_post_description: Missouri cannabis business owners who have had their license
+    revoked for violating state rules could be prohibited from getting another license
+    under proposed rules announced by state regulators last
+  last_post_date: "2025-08-11T13:00:15Z"
+  last_post_link: https://missouriindependent.com/2025/08/11/missouri-cannabis-regulators-rules-predatory-contracts/
   last_post_categories:
-  - Ashley Aune
-  - Bill Hardwick
-  - Chris Brown
-  - Jon Patterson
-  - Kansas City Chiefs
-  - Kansas City Royals
-  - Kathy Steinhoff
-  - Kimberly-Ann Collins
-  - Legislature
-  - Raychel Proudie
-  - Special Session
-  - St. Louis tornado
-  - disaster aid
-  - stadium funding
+  - Amy Moore
+  - Cannabis
+  - Economy
+  - Missouri
+  - cannabis
+  - draft
+  - microbusiness license
+  - ownership
+  - predatory practices
+  - regulation
+  - revision
+  - rules
   last_post_language: ""
-  last_post_guid: e68132cd58fe966c0b0ea13524663771
+  last_post_guid: 91d5301530198b18823fbae053e9690b
   score_criteria:
     cats: 0
     description: 3

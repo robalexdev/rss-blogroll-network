@@ -1,6 +1,6 @@
 ---
 title: AndreGarzia.com
-date: "2025-06-04T12:00:00Z"
+date: "2025-06-22T12:00:00Z"
 description: ""
 params:
   feedlink: https://andregarzia.com/feeds/all.atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Experimenting with no-build Web Applications
+  last_post_title: Making massage bars
   last_post_description: ""
-  last_post_date: "2025-06-04T12:00:00Z"
-  last_post_link: https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html
+  last_post_date: "2025-06-22T12:00:00Z"
+  last_post_link: https://andregarzia.com/2025/06/making-massage-bars.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5fd409341793e8cced7a2b8730100fc
+  last_post_guid: 673887a39db80e71668761412101a756
   score_criteria:
     cats: 0
     description: 0

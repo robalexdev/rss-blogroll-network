@@ -8,7 +8,6 @@ params:
   feedid: 1fcd3e01c9a262a5ffac72bfb03767ed
   websites:
     https://nicolas-hoizey.com/: false
-    https://nicolas-hoizey.com/about/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll

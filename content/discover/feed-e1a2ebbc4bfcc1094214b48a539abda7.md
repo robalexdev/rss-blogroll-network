@@ -14,7 +14,7 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
-  - title: Miniflux
+  - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   - title: RSS feeds from Minifeed.net
@@ -27,7 +27,6 @@ params:
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
-  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
   last_post_title: Faster Horses

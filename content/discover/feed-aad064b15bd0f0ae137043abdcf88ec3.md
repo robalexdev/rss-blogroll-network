@@ -19,16 +19,16 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Verschil
-  last_post_description: Ik slaap, word wakker & dat is ’t grote verschil. Tussen
-    wat ik overdag voelde & mij nu hier. Middernachts. M’n boek op de grond, soms
-    keurig op ’t krukje naast de bank, anders boven op m’n
-  last_post_date: "2025-06-08T01:11:27Z"
-  last_post_link: https://zijperspace.nl/verschil/
+  last_post_title: Kristal
+  last_post_description: Nieuw, waar oud uiteindelijk moest gaan klinken. Want zo
+    zijn we toch, evengoed onverwachts geworden, ooit gewezen, gekristalliseerd. Ik
+    praat met Marjan, terwijl ik terugdenk dat ik met haar & zus
+  last_post_date: "2025-08-09T23:19:13Z"
+  last_post_link: https://zijperspace.nl/kristal/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: 974024b532e71f420ea3854abb2017a1
+  last_post_guid: 15012edf102e0c091de897c5cfb319ed
   score_criteria:
     cats: 0
     description: 3

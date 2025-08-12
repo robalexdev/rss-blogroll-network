@@ -28,13 +28,13 @@ params:
   relme:
     https://frills.dev/: true
     https://indieweb.social/@frills: true
-  last_post_title: Circadian Rebellion
-  last_post_description: ""
-  last_post_date: "2025-06-11T13:00:00Z"
-  last_post_link: https://frills.dev/blog/2025/june/circadian-rebellion/
+  last_post_title: WCAG doesn't round
+  last_post_description: That's it. That's the tip
+  last_post_date: "2025-06-30T00:00:00Z"
+  last_post_link: https://tarnoff.info/2025/06/05/quick-tip-wcag-doesnt-round/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7af6ab37b8cd4a722a6319016f3e9961
+  last_post_guid: 6f1b68fbd88b9f37135e7f8d337bcd61
   score_criteria:
     cats: 0
     description: 3

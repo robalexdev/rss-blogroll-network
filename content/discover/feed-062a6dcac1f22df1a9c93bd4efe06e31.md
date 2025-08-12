@@ -28,15 +28,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Tap Tap Revolution
-  last_post_description: "Here’s a third recent project to round out this little mini
-    series of “What has Louie been up to?”\n\t\t\tTap Tap Revolution. Yeah.\n\t\t\t\n\t\t\t\t\n\t\t\t\tThree
-    comps of a theoretical new version of Tap Tap"
-  last_post_date: "2025-07-25T12:15:00+09:00"
-  last_post_link: https://lmnt.me/blog/tap-tap-revolution.html
+  last_post_title: A Good App
+  last_post_description: "I’m worried people don’t know what a good app is even like
+    anymore.\n\t\t\t\n\t\t\tIf you like this, you can make a one-time donation, donate
+    monthly, or buy something from my shop."
+  last_post_date: "2025-08-04T14:50:00+09:00"
+  last_post_link: https://lmnt.me/blog/a-good-app.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bfbd3fbe73d343bb9d48cb5c4771bf06
+  last_post_guid: 3332b0f9e27d3372e7d48c95c85a055d
   score_criteria:
     cats: 1
     description: 3

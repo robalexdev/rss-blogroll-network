@@ -21,17 +21,17 @@ params:
   - advogato
   - fedora
   relme: {}
-  last_post_title: Why is there no consistent single signon API flow?
-  last_post_description: Single signon is a pretty vital part of modern enterprise
-    security. You have users who need access to a bewildering array of services, and
-    you want to be able to avoid the fallout of one of those
-  last_post_date: "2025-06-24T06:03:07Z"
-  last_post_link: https://mjg59.dreamwidth.org/72688.html
+  last_post_title: Cordoomceps - replacing an Amiga's brain with Doom
+  last_post_description: There's a lovely device called a pistorm, an adapter board
+    that glues a Raspberry Pi GPIO bus to a Motorola 68000 bus. The intended use case
+    is that you plug it into a 68000 device and then run an
+  last_post_date: "2025-08-05T00:30:19Z"
+  last_post_link: https://mjg59.dreamwidth.org/73001.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: 32ac0bab8ef2ef77a49c47d376c013ed
+  last_post_guid: 5f6856d7b84d32a9fd6ef3fca09f002b
   score_criteria:
     cats: 0
     description: 3

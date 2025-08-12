@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Happy 20th birthday Django!
-  last_post_description: On July 13th 2005, Jacob Kaplan-Moss made the first commit
-    to the public repository that would become Django. Twenty years and 400+ releases
-    later, here we are – Happy 20th birthday Django!
-  last_post_date: "2025-07-13T05:02:18-05:00"
-  last_post_link: https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/
+  last_post_title: Django’s accessibility contributing guide
+  last_post_description: "The Django accessibility team is excited to announce that
+    our accessibility contribution guidelines are now live in the documentation \U0001F389\nThese
+    new guidelines are designed to support contributors in"
+  last_post_date: "2025-08-09T04:38:58-05:00"
+  last_post_link: https://www.djangoproject.com/weblog/2025/aug/09/django-accessibility-contributing-guide/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a554c780ff0b2b0c6573e4c0adcf1e41
+  last_post_guid: c8c2afa1ac49ab5bd811c64f05e7fa54
   score_criteria:
     cats: 0
     description: 3

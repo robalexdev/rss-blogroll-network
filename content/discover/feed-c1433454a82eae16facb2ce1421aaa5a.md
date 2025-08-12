@@ -17,22 +17,24 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Boeken
-  - Filosofie
-  - Technologie
+  - Change
+  - Digitale transformatie
+  - Energietransitie
+  - Kunstmatige Intelligentie
   relme: {}
-  last_post_title: Mens en machine Hoe stoom, stroom en smartphone ons ondermijnen
+  last_post_title: Kompas voor AI in de energietransitie
   last_post_description: |-
-    Nieuwenhuis opent zijn boek met een herkenbare scène: als vader observeert hij hoe zijn kinderen verzonken raken in schermen en […]
-    Het bericht Mens en machine Hoe stoom, stroom en smartphone ons
-  last_post_date: "2025-06-05T17:38:59Z"
-  last_post_link: https://koneksa-mondo.nl/2025/06/05/mens-en-machine-waarom-we-techniek-de-baas-moeten-blijven/
+    AI is geen neutraal instrument. In de eerdere blogs zagen we al hoe zij inmiddels verweven is met het energiesysteem […]
+    Het bericht Kompas voor AI in de energietransitie verscheen eerst op Koneksa
+  last_post_date: "2025-08-11T04:53:58Z"
+  last_post_link: https://koneksa-mondo.nl/2025/08/11/kompas-voor-ai-in-de-energietransitie/
   last_post_categories:
-  - Boeken
-  - Filosofie
-  - Technologie
+  - Change
+  - Digitale transformatie
+  - Energietransitie
+  - Kunstmatige Intelligentie
   last_post_language: ""
-  last_post_guid: d1b61303ecc3d287a64d5d34ec289f72
+  last_post_guid: 5f8799fb4ae09786c84798fe478878a4
   score_criteria:
     cats: 0
     description: 3

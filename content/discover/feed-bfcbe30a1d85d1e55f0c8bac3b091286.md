@@ -15,19 +15,22 @@ params:
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'RBIR: An Aurora DSQL story'
-  last_post_description: 'I''ve been pinged by @vaibhaw_vipul to read and share my
-    thoughts on Just make it scale: An Aurora DSQL story. It''s actually quite enjoyable.
-    I agree with @iavins''s comment that "It''s less about'
-  last_post_date: "2025-07-24T01:00:00Z"
-  last_post_link: https://xuanwo.io/links/2025/07/rbir_an_aurora_dsql_story/
+  last_post_title: Learn Rust by Reasoning with Code Agents
+  last_post_description: It's often said that Rust has a steep learning curve. I disagree
+    with this notion. I'm a strong believer in learning by doing. Rust is a programming
+    language, and like any language, it should be
+  last_post_date: "2025-08-06T01:00:00Z"
+  last_post_link: https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6fd61eabfed6727b374ac619b89ce8ad
+  last_post_guid: 7932b8b67f4f081d65a91e0f81bffdb6
   score_criteria:
     cats: 0
     description: 3

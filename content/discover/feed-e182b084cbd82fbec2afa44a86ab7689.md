@@ -10,7 +10,7 @@ params:
     https://www.engineersneedart.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Miniflux
+  - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
@@ -19,7 +19,6 @@ params:
   - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/readings/feed.xml
-  - https://hacdias.com/writings/feed.xml
   categories:
   - Programming
   - Raspberry Pi

@@ -22,13 +22,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: substance
-  last_post_description: Two poems
-  last_post_date: "2025-02-27T15:14:15Z"
-  last_post_link: https://logicmag.io/out-of-place/substance
+  last_post_title: ALL EYES ON US –  A Companion Piece
+  last_post_description: Transition is infinite motion. To transition is to sit in
+    the inescapable space between violence and possibility. It is to both mourn death
+    and revere life – to feel the ache of a burning body and
+  last_post_date: "2025-07-04T16:41:33Z"
+  last_post_link: https://logicmag.io/policy/all-eyes-on-us-a-companion-piece
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 56d240367d77582986e266587c252479
+  last_post_guid: 216059d4c4800cc66a9fdcbdccfc20bb
   score_criteria:
     cats: 0
     description: 3

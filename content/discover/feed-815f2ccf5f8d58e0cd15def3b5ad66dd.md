@@ -24,15 +24,15 @@ params:
   relme:
     https://dizzy.zone/: true
     https://github.com/vkuznecovas: true
-  last_post_title: Malicious Node install script on Google search
-  last_post_description: Sometimes I have to install Node on my machine for work,
-    or a personal project. This occurs rarely, so I keep forgetting how to do it.
-    So I did what I usually do, and Googled how to install nvm. To
-  last_post_date: "2025-07-21T10:00:23+02:00"
-  last_post_link: https://dizzy.zone/2025/07/21/Malicious-Node-install-script-on-Google-search/
+  last_post_title: n8n and large files
+  last_post_description: I’ve self hosted an n8n to automate video uploads to youtube.
+    The idea was pretty simple - when I put an mp4 file in a specific dir on my nas,
+    n8n would pick it up, as well as a metadata.json file.
+  last_post_date: "2025-07-30T08:13:16+03:00"
+  last_post_link: https://dizzy.zone/2025/07/30/n8n-and-large-files/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06fd8aa825d3a2afeccd6532bc1d9483
+  last_post_guid: fd2e97c19a4b3c58810ce94062fdf498
   score_criteria:
     cats: 0
     description: 3

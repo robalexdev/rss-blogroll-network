@@ -25,16 +25,16 @@ params:
   categories:
   - Health
   relme: {}
-  last_post_title: 'Fraud or Miracle: Sex Q&A'
-  last_post_description: A friend sent me an article titled Biological Miracle about
-    the hibernation strategy of wood frogs which entails freezing themselves for up
-    to eight months. I've been thinking about them almost
-  last_post_date: "2025-02-14T20:45:15Z"
-  last_post_link: https://nebula.tv/videos/sexplanations-fraud-or-miracle-sex-qa/
+  last_post_title: Curse of Knowledge ft Sex Toy Unboxing
+  last_post_description: I think before I could say anything about sexuality I needed
+    to acknowledge the state of humanity (with a sexual example). Like you, I'm affected
+    by the happenings in the world and sometimes feel
+  last_post_date: "2025-06-12T20:12:59Z"
+  last_post_link: https://nebula.tv/videos/sexplanations-curse-of-knowledge-ft-sex-toy-unboxing/
   last_post_categories:
   - Health
   last_post_language: ""
-  last_post_guid: cf718e5c541ea04fc4b1eaf9b48ca721
+  last_post_guid: 30d13b902d53e6a6ba56849037bfce61
   score_criteria:
     cats: 0
     description: 3

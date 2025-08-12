@@ -24,23 +24,32 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
+  - animals
   - cache log
-  - dog
+  - cropredy
   - geocaching
+  - hiking
+  - memorable
+  - morning
+  - summer
   relme: {}
-  last_post_title: '[Checkin] Dan Q found GC94GEM Brize Adventure'
-  last_post_description: QEF (once we started paying attention to the right host object!)
-    for the geopup and I on a morning dog walk after an errand in the village. TFTC,
-    now better get off to work!
-  last_post_date: "2025-07-24T07:55:00+01:00"
-  last_post_link: https://danq.me/2025/07/24/dan-q-found-gc94gem-brize-adventure/
+  last_post_title: '[Checkin] Dan Q found GC2CWQ7 #036 Just Northamptonshire'
+  last_post_description: I walked to a different COUNTY one morning before breakfast,
+    just to get a geocache!
+  last_post_date: "2025-08-09T07:28:00+01:00"
+  last_post_link: https://danq.me/2025/08/09/dan-q-found-gc2cwq7-036-just-northamptonshire/
   last_post_categories:
   - Personal
+  - animals
   - cache log
-  - dog
+  - cropredy
   - geocaching
+  - hiking
+  - memorable
+  - morning
+  - summer
   last_post_language: ""
-  last_post_guid: 39d9a6bc3c2b295a297277eed193b531
+  last_post_guid: 05cdd5a9196283954722aa8168ce68fa
   score_criteria:
     cats: 0
     description: 3

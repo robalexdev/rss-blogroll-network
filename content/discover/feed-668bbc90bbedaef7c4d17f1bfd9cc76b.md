@@ -25,16 +25,16 @@ params:
   categories:
   - Culture
   relme: {}
-  last_post_title: The Problem with Video Essays
-  last_post_description: An exploration of the limits of the video essay format, using
-    a particular book as an example. Along the way we'll also learn about the gridding
-    of the early USA, so there's some history and
-  last_post_date: "2025-06-04T16:30:10Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-the-problem-with-video-essays/
+  last_post_title: 'Jefferson & the Indians: The Complex Truth'
+  last_post_description: Thomas Jefferson's views on American Indians hugely shaped
+    what the USA has become. Let's go super in depth to find out what he thought and
+    the impact his ideas had, including his possible
+  last_post_date: "2025-06-27T18:30:07Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-jefferson-the-indians-the-complex-truth/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: f73bb1854dbd180a028d5e748b2e9767
+  last_post_guid: 5e06707cba8059144a8e396fce720baa
   score_criteria:
     cats: 0
     description: 3

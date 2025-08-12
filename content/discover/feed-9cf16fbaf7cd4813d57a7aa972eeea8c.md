@@ -13,26 +13,30 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
-  - vczh
-  - 爱好
+  - 争议
+  - 交易争议
+  - 信用卡
+  - 动视暴雪
   - 生活与世界
-  - 转载
   relme: {}
-  last_post_title: vczh：做自己热爱的事情
-  last_post_description: 我就是 vczh 口中那个 “中学时花了 100 小时编程” 的孩子。高考后，在物理老师邓华的推荐下，我选择了…
-    继续阅读vczh：做自己热爱的事情
-  last_post_date: "2025-06-25T22:06:42Z"
-  last_post_link: https://dgideas.net/2025/do-what-you-love/
+  last_post_title: 记一次信用卡盗刷
+  last_post_description: 今天，我发现我的星展银行（新加坡）的信用卡中有一笔莫名其妙的账单。于是我立刻跟星展银行的客服取得了联系，并且协…
+  last_post_date: "2025-07-29T12:18:07Z"
+  last_post_link: https://dgideas.net/2025/a-credit-card-fraud-incident/
   last_post_categories:
-  - vczh
-  - 爱好
+  - 争议
+  - 交易争议
+  - 信用卡
+  - 动视暴雪
   - 生活与世界
-  - 转载
   last_post_language: ""
-  last_post_guid: edea90d480b65013a9c6e6d3182efbe9
+  last_post_guid: 39560844993a49b265a02e7531e47e9b
   score_criteria:
     cats: 0
     description: 3

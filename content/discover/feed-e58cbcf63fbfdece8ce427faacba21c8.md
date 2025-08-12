@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Predicting Average IMDb Movie Ratings Using Text Embeddings of
-    Movie Metadata
-  last_post_description: Don’t try this in your data science interviews.
-  last_post_date: "2025-06-30T10:00:00-07:00"
-  last_post_link: https://minimaxir.com/2025/06/movie-embeddings/
+  last_post_title: LLMs can now identify public figures in images
+  last_post_description: ChatGPT and Claude won’t, but Gemini will.
+  last_post_date: "2025-07-28T13:15:00-07:00"
+  last_post_link: https://minimaxir.com/2025/07/llms-identify-people/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2cbbf06df76468ab6e0998ef5534e0fa
+  last_post_guid: 17e19e52bd4923c1cb8744895cddc737
   score_criteria:
     cats: 0
     description: 3

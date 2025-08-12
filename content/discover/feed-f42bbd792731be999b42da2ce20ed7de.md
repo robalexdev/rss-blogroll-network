@@ -13,6 +13,7 @@ params:
     https://www.april.org/event: false
     https://www.april.org/event/2025-04: false
     https://www.april.org/event/2025-06: false
+    https://www.april.org/event/2025-08: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:
@@ -25,17 +26,17 @@ params:
   - Article de presse
   - Le Logiciel Libre
   relme: {}
-  last_post_title: Revue de presse de l’April pour la semaine 28 de l’année 2025
-  last_post_description: "✍ Antony Derbes,\n                  le samedi 12 juillet\n
-    \                 2025.\n                    \n                      À l’heure
-    où la transformation numérique\n                      est un"
-  last_post_date: "2025-07-14T10:57:12Z"
-  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-28-de-l-annee-2025
+  last_post_title: Revue de presse de l’April pour la semaine 32 de l’année 2025
+  last_post_description: "✍ Emmanuel\n                  Langlois, le lundi 28 juillet\n
+    \                 2025.\n                    \n                      Un pays tout
+    entier, le Danemark, un\n                      länder"
+  last_post_date: "2025-08-11T08:19:07Z"
+  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-32-de-l-annee-2025
   last_post_categories:
   - Article de presse
   - Le Logiciel Libre
   last_post_language: ""
-  last_post_guid: 8d6b3a5b649950a8d752fbb188c344b5
+  last_post_guid: 6d07d9849a0249e23cb08206e643fe8e
   score_criteria:
     cats: 0
     description: 3

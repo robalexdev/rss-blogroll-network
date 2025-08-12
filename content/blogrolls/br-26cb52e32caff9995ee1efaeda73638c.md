@@ -141,6 +141,10 @@ params:
   - title: Brendan Eich
     description: ""
     id: b963df5e29a082eaca167677ce69fe02
+  - title: David Walsh Blog
+    description: A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS,
+      WordPress, and everything else development.
+    id: b9ac37df69eb6ac4e2f1bebbd9c225ec
   - title: overreacted — A blog by Dan Abramov
     description: A blog by Dan Abramov
     id: b9f68a77f9d31e4a02f0b3d7ac10c372

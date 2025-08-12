@@ -1,6 +1,6 @@
 ---
 title: ttntm.me - Likes
-date: "2025-06-11T14:55:00Z"
+date: "2025-08-01T10:30:00Z"
 description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
@@ -27,6 +27,7 @@ params:
   - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
   - https://prma.dev/index.xml
+  - https://theleafslug.com/feed.xml
   - https://www.andreinc.net/feed.xml
   - https://www.lkhrs.com/blog/index.xml
   - https://www.markpitblado.me/feed.xml
@@ -38,6 +39,11 @@ params:
   - https://prma.dev/recommendations/feed.xml
   - https://prma.dev/til/feed.xml
   - https://prma.dev/tils/feed.xml
+  - https://theleafslug.com/dailies/feed.xml
+  - https://theleafslug.com/posts/feed.xml
+  - https://theleafslug.com/recommendations/feed.xml
+  - https://theleafslug.com/tils/feed.xml
+  - https://www.lkhrs.com/
   - https://www.lkhrs.com/index.xml
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml
@@ -45,13 +51,13 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 24, 2025
+  last_post_title: Week 31, 2025
   last_post_description: ""
-  last_post_date: "2025-06-11T14:55:00Z"
-  last_post_link: https://ttntm.me/likes/2025-w24/
+  last_post_date: "2025-08-01T10:30:00Z"
+  last_post_link: https://ttntm.me/likes/2025-w31/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bf080e53edbb81a43ea62dcbeed2825a
+  last_post_guid: 307f3f80cbcce033516d29f76ff32f66
   score_criteria:
     cats: 0
     description: 3

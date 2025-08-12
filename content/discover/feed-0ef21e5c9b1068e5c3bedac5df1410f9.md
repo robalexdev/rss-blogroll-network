@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2025-07-23T15:00:01Z"
+date: "2025-08-07T07:43:23Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -16,31 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Android Automotive
+  - Animated Vector Graphics
+  - Dev Loop
+  - Graphics
+  - Qt Quick
   relme: {}
-  last_post_title: Qt for Android Automotive 6.9.1 is released
-  last_post_description: The latest patch release of Qt for Android Automotive 6.9.1 was released.
-    This release is based on Qt LTS 6.9.1 with over 450 bug fixes, security updates,
-    and other improvements done to Qt base.
-  last_post_date: "2025-07-23T15:00:00Z"
-  last_post_link: https://www.qt.io/blog/qt-for-android-automotive-6.9.1-is-released
+  last_post_title: Animated Vector Graphics in Qt 6.10
+  last_post_description: We've been steadily improving the vector graphics support
+    in Qt Quick in the past few years, and this continues in Qt 6.10 with several
+    new and useful features. The main focus of this blog will be
+  last_post_date: "2025-08-07T07:43:02Z"
+  last_post_link: https://www.qt.io/blog/animated-vector-graphics-in-qt-6.10
   last_post_categories:
-  - Android Automotive
+  - Animated Vector Graphics
+  - Dev Loop
+  - Graphics
+  - Qt Quick
   last_post_language: ""
-  last_post_guid: 32c063333785200a19878e84ac297f24
+  last_post_guid: 54689c4e5de171b1da9bd71430f15c30
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

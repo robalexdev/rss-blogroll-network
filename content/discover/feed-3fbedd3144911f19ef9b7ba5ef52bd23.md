@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Steam Auth Issues
-  last_post_description: |-
-    When I build my game for testing, it’s a completely automated process from the command line.
-    I type pub.sh --test on the command line and a long chain of events is started.
-    The script pushes to git
-  last_post_date: "2025-04-14T17:26:07+12:00"
-  last_post_link: https://grumpygamer.com/steam_auth/
+  last_post_title: Death By Scrolling Part 3
+  last_post_description: We just got Death By Scrolling running on the Switch. We
+    had to do some optimization because we were doing stupid stuff with rendering
+    the tile map. Modern PC machines are so fast these days that you
+  last_post_date: "2025-07-28T10:13:23+12:00"
+  last_post_link: https://grumpygamer.com/deathbyscrolling3/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30f74007a2930d61553232aeb4d13aa0
+  last_post_guid: ff1ab2fc52a41900bc077f6b60b36cce
   score_criteria:
     cats: 0
     description: 3

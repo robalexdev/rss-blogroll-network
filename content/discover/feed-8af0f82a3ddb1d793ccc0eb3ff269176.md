@@ -28,15 +28,16 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Summer vacation
+  last_post_title: Driving on the left
   last_post_description: |-
-    We are planning a summer vacation. The big plans—flights, accommodation, transport—have been sorted out. What’s left is the smaller things: activities and meals, mostly.
-    Trip planning is
-  last_post_date: "2025-05-29T17:24:00-04:00"
-  last_post_link: https://www.inthemargins.ca/summer-vacation
+    Some people love getting behind the wheel of a car, revving up the engine and just going wherever their whims will take them.
+    I am not one of those people.
+    I approach driving with hesitation and a
+  last_post_date: "2025-07-30T12:20:00-04:00"
+  last_post_link: https://www.inthemargins.ca/driving-on-the-left
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 252014653e0bcb28dda8dd79adbac9a2
+  last_post_guid: 48b74a8268409f0b78e3c220a9ee9411
   score_criteria:
     cats: 0
     description: 3

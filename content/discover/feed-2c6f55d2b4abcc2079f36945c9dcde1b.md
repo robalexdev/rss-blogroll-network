@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Notes from "Where Wizards Stay Up Late: The Origins of the Internet"'
-  last_post_description: 'Last month, I read Empire of AI, a scathing tale of the
-    invention of ChatGPT. This month, I read Where Wizards Stay Up Late: The Origins
-    of the Internet, a much rosier story of the invention of a'
-  last_post_date: "2025-07-21T00:00:00Z"
-  last_post_link: https://evanhahn.com/where-wizards-stay-up-late-book-notes/
+  last_post_title: Notes from July 2025
+  last_post_description: |-
+    Here are some of my notes from July 2025. See also: my notes from last month, and the month before, and so on…
+    What I published this July
+    “How I build software quickly” was my marquee post this
+  last_post_date: "2025-07-31T00:00:00Z"
+  last_post_link: https://evanhahn.com/notes-from-july-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e2d80ac8a3618f03e92b930def95f71
+  last_post_guid: 520c1affc7fb01000e33d85b32bcd8af
   score_criteria:
     cats: 0
     description: 3

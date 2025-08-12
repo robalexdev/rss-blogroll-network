@@ -10,9 +10,6 @@ params:
     https://adrianroselli.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Ben Myers's Blogroll
-    description: Blogs and newsletters I check on the regular.
-    id: bf95fc3fe734baa4e4fdf4b50381791c
   - title: Dan Q's Blogroll
     description: ""
     id: 7e0e72d6fd1109a16363155b4cda88a8
@@ -28,31 +25,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - UX
+  - WCAG
   - Web
   - accessibility
-  - html
-  - pattern
+  - rant
   - standards
-  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: Where to Put Focus When Opening a Modal Dialog
-  last_post_description: 'TL;DR: blanket statements about where to put focus when
-    opening a modal dialog are wrong, including this one. This post is meant to help
-    you, an intelligent and thoughtful and empathetic reader,'
-  last_post_date: "2025-06-06T17:17:25Z"
-  last_post_link: https://adrianroselli.com/2025/06/where-to-put-focus-when-opening-a-modal-dialog.html
+  last_post_title: '1.2.5: Adversarial Conformance'
+  last_post_description: I made a demo for WCAG 2.2 Success Criterion 1.2.5 Audio
+    Description (Prerecorded) AA and have embedded it further down the page. It’s
+    a bit of a download, so either ignore it, be patient, or steal
+  last_post_date: "2025-08-02T17:02:37Z"
+  last_post_link: https://adrianroselli.com/2025/08/1-2-5-adversarial-conformance.html
   last_post_categories:
-  - UX
+  - WCAG
   - Web
   - accessibility
-  - html
-  - pattern
+  - rant
   - standards
-  - usability
   last_post_language: ""
-  last_post_guid: 3795e3dd4fda8314eb48538d2aabc028
+  last_post_guid: a3ce014ea7db77a45263d94bf2920a24
   score_criteria:
     cats: 0
     description: 3

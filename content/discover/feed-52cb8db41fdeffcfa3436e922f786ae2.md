@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-07-23T01:13:16Z"
+date: "2025-07-31T00:12:10Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -15,20 +15,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - TIL
+  - howto
   - python
   relme: {}
-  last_post_title: 'TIL: Single source version package builds with uv'
-  last_post_description: Tired of updating the version in multiple places before publishing
-    a package update? Leery of using inspect.metadata to fetch the package? Here's
-    how to have a single source of version using UV's
-  last_post_date: "2025-07-23T01:13:16Z"
-  last_post_link: https://daniel.feldroy.com/posts/til-2025-07-single-source-version-package-builds-with-uv
+  last_post_title: Unpack for keyword arguments
+  last_post_description: Keyword arguments can now be more narrowly typed by using
+    typing.Unpack and typing.TypeDict.
+  last_post_date: "2025-07-31T00:12:10Z"
+  last_post_link: https://daniel.feldroy.com/posts/2025-07-unpack-for-keyword-arguments
   last_post_categories:
-  - TIL
+  - howto
   - python
   last_post_language: ""
-  last_post_guid: 2d6a507d2f20d24ddf267ce3f9cc72af
+  last_post_guid: abcc15e4fa7d08bc70294d731acc1919
   score_criteria:
     cats: 0
     description: 0

@@ -19,18 +19,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (88)
-  last_post_description: |-
-    Sasha Chapin on spiritual awakening
-    Works in Progress links post
-    50 facts about construction
-    Why aren't more companies working on atherosclerosis plaque removal?
-    Prime Medicine's pipeline then
-  last_post_date: "2025-05-26T00:00:00Z"
-  last_post_link: https://nintil.com/links-88/
+  last_post_title: Links (90)
+  last_post_description: "Good post on what the meaning of heritability. \nOnly a
+    crazy person should do any given job\nA while back I noted that everything sleeps.
+    Now here some recent work on the why.\nMemory in cells\nAs I"
+  last_post_date: "2025-08-09T00:00:00Z"
+  last_post_link: https://nintil.com/links-90/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8103fa4c9a4aeace503b17c667142823
+  last_post_guid: 4170032d366bd620728c21b974b7282a
   score_criteria:
     cats: 0
     description: 0

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: IIPC Web Archiving Conference 2025 Recap
-  last_post_description: The Perma team has landed back in the US after our trip to
-    the International Internet Preservation Consortium’s Web Archiving Conference.
-    This year the IIPC met in Oslo at the National Library of
-  last_post_date: "2025-05-02T00:00:00Z"
-  last_post_link: https://lil.law.harvard.edu/blog/2025/05/02/iipc-web-archiving-conference-2025-recap/
+  last_post_title: LIL Awarded AALL Public Access to Government Information Award
+  last_post_description: This past week members of the Library Innovation Lab team
+    traveled to Portland, Oregon to receive the Public Access to Government Information
+    Award from AALL for our data.gov archive.
+  last_post_date: "2025-07-30T00:00:00Z"
+  last_post_link: https://lil.law.harvard.edu/blog/2025/07/30/lil-awarded-aall-public-access-to-government-information-award/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 77da954d88c2c6e95a3ec94349ddf278
+  last_post_guid: 6fbd8b7f694fe8dda8f7c65ab59a5211
   score_criteria:
     cats: 0
     description: 3

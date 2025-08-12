@@ -12,24 +12,20 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 开始炼丹，如何快速训练一个神经网络
-  last_post_description: |-
-    import torch
-    from torch import nn
-    from torchvision import datasets, transforms
-    from torch.utils.data import DataLoader
-    import os
-
-    # 数据源来自： https://www.kaggle.com/datasets/muniryadi/cat-vs
-  last_post_date: "2024-08-30T23:05:35+08:00"
-  last_post_link: https://data4fun.cc/blog/2024/08/create_nn/
+  last_post_title: 飞桨 AI Studio：一步步微调你的大模型
+  last_post_description: 飞桨 (PaddlePaddle)是百度自研的深度学习平台，集深度学习核心训练和推理框架、基础模型库、端到端开发套件和丰富的工具组件于一体，对标国外的
+  last_post_date: "2025-07-28T09:54:49+08:00"
+  last_post_link: https://data4fun.cc/blog/2025/07/finetune/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 85c573e3ef37f4ed785c781eb61df522
+  last_post_guid: 241d1a1bd21df734f8a0b4fabdea6f09
   score_criteria:
     cats: 0
     description: 3

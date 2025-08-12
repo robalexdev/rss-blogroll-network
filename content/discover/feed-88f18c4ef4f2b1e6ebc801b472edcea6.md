@@ -16,6 +16,9 @@ params:
   - title: Shellsharks Blogroll OPML
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

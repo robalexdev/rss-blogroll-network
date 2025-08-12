@@ -20,13 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: If You Lie With DOGE You Get Fleeced
-  last_post_description: Yes, Musk is a fraud. A total fraud.
-  last_post_date: "2025-06-11T10:31:01Z"
-  last_post_link: https://paulkrugman.substack.com/p/if-you-lie-with-doge-you-get-fleeced
+  last_post_title: The Political Economy of Incompetence
+  last_post_description: How Hannah Arendt predicted Stephen Moore
+  last_post_date: "2025-08-11T10:30:45Z"
+  last_post_link: https://paulkrugman.substack.com/p/the-political-economy-of-incompetence
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2eca254c94239c395ed7359dd322613f
+  last_post_guid: 0978f9f7bb276cd8d1c9c17ff7280967
   score_criteria:
     cats: 0
     description: 3

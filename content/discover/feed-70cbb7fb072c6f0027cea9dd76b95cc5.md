@@ -21,17 +21,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ESET research
+  - Business Security
   relme: {}
-  last_post_title: 'ToolShell: An all-you-can-eat buffet for threat actors'
-  last_post_description: ESET Research has been monitoring attacks involving the recently
-    discovered ToolShell zero-day vulnerabilities
-  last_post_date: "2025-07-24T09:00:45Z"
-  last_post_link: https://www.welivesecurity.com/en/eset-research/toolshell-an-all-you-can-eat-buffet-for-threat-actors/
+  last_post_title: 'Black Hat USA 2025: Is a high cyber insurance premium about your
+    risk, or your insurer’s?'
+  last_post_description: A sky-high premium may not always reflect your company’s
+    security posture
+  last_post_date: "2025-08-08T14:25:09Z"
+  last_post_link: https://www.welivesecurity.com/en/business-security/black-hat-usa-2025-cyber-insurance-premium/
   last_post_categories:
-  - ESET research
+  - Business Security
   last_post_language: ""
-  last_post_guid: 91eb57cd8dd75e6ddefdd30cc2417259
+  last_post_guid: 766ba101d0f3a55439766610fc85898e
   score_criteria:
     cats: 0
     description: 3

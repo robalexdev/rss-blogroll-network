@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2025-07-02T03:11:15Z"
+date: "2025-08-10T18:44:03Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml
@@ -15,18 +15,21 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender:
   - https://mayx.eu.org/atom.xml
   categories: []
   relme: {}
-  last_post_title: 没有红包封面，但是 AI 春联……
+  last_post_title: 开源项目的「死与新生」
   last_post_description: ""
-  last_post_date: "2024-02-09T23:35:00Z"
-  last_post_link: https://www.yunyoujun.cn/posts/ai-sfc
+  last_post_date: "2025-05-20T00:00:00Z"
+  last_post_link: https://www.yunyoujun.cn/posts/death-and-rebirth-of-open-source-projects
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f8eadd7e1afd9b44d2b32866241e0379
+  last_post_guid: 07486d1e9257d4182213bd12cad20edd
   score_criteria:
     cats: 0
     description: 3

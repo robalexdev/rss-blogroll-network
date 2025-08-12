@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-06-24T17:39:00Z"
+date: "2025-08-11T00:12:32Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,31 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Reflections
+  - The expert's corner
   relme: {}
-  last_post_title: Congratulations, class of 2025! Words from a new graduate
-  last_post_description: 'Editor’s note (Nicole Yunger Halpern): Jade LeSchack, the
-    Quantum Steampunk Laboratory’s first undergraduate, received her bachelor’s degree
-    from the University of Maryland this spring. Kermit'
-  last_post_date: "2025-06-24T17:39:00Z"
-  last_post_link: https://quantumfrontiers.com/2025/06/09/congratulations-class-of-2025-words-from-a-new-graduate/
+  last_post_title: Nicole&#8217;s guide to writing research statements
+  last_post_description: Sunflowers are blooming, stores are trumpeting back-to-school
+    sales, and professors are scrambling to chart out the courses they planned to
+    develop in July. If you’re applying for an academic job
+  last_post_date: "2025-08-11T00:12:32Z"
+  last_post_link: https://quantumfrontiers.com/2025/08/10/nicoles-guide-to-writing-research-statements/
   last_post_categories:
-  - Uncategorized
+  - Reflections
+  - The expert's corner
   last_post_language: ""
-  last_post_guid: 2869548711cc761bda17f71c15724a26
+  last_post_guid: eb4cfcb63d893838c5a2f753bdcc4147
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

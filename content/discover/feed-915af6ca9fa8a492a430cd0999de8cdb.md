@@ -6,7 +6,8 @@ params:
   feedlink: https://albertomilone.com/blog/feed/
   feedtype: rss
   feedid: 915af6ca9fa8a492a430cd0999de8cdb
-  websites: {}
+  websites:
+    https://albertomilone.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Ubuntu
@@ -46,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

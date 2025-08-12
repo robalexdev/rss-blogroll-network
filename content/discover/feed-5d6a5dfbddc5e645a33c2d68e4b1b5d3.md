@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2025-06-07T20:25:09Z"
+date: "2025-07-27T14:36:23Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -51,14 +51,14 @@ params:
     https://toot.community/@jenett: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: good morning from Li’l Joe!
-  last_post_description: ""
-  last_post_date: "2025-06-04T11:00:49Z"
-  last_post_link: https://simply.joejenett.com/good-morning-from-lil-joe/
+  last_post_title: critters out back
+  last_post_description: Photo by Kim
+  last_post_date: "2025-07-11T18:46:25Z"
+  last_post_link: https://simply.joejenett.com/critters-out-back/
   last_post_categories:
   - '["giggles"]'
   last_post_language: ""
-  last_post_guid: 2191f6a126e344d9ea75680e3b69f2fb
+  last_post_guid: f36ec6a6a899f75ae58b8f7820116905
   score_criteria:
     cats: 0
     description: 3

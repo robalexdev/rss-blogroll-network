@@ -23,22 +23,25 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Company news
-  - GitHub Availability Report
-  - News & insights
+  - AI & ML
+  - GitHub Copilot
+  - code review
+  - pull requests
   relme: {}
-  last_post_title: 'GitHub Availability Report: May 2025'
+  last_post_title: How to use GitHub Copilot to level up your code reviews and pull
+    requests
   last_post_description: |-
-    In May, we experienced three incidents that resulted in degraded performance across GitHub services.
-    The post GitHub Availability Report: May 2025 appeared first on The GitHub Blog.
-  last_post_date: "2025-06-11T23:24:41Z"
-  last_post_link: https://github.blog/news-insights/company-news/github-availability-report-may-2025/
+    Discover practical ways GitHub Copilot streamlines code reviews, pull requests, and daily engineering tasks with real prompts, examples, and workflow tips from our engineering team.
+    The post How to
+  last_post_date: "2025-08-08T16:00:00Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
   last_post_categories:
-  - Company news
-  - GitHub Availability Report
-  - News & insights
+  - AI & ML
+  - GitHub Copilot
+  - code review
+  - pull requests
   last_post_language: ""
-  last_post_guid: a0b21e45f02dd85d3dd45a26de8ce8e6
+  last_post_guid: f152b0a88169391ad2aefbcaf8e46926
   score_criteria:
     cats: 0
     description: 3

@@ -19,39 +19,30 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Ron Johnson
-  - Senate Republicans
-  - Trump II
-  - Where Things Stand
-  - military
+  - News
   relme: {}
-  last_post_title: Performative Austerity Vanishes As GOP Flees Town Before Trump’s
-    Dictator-Style Parade
-  last_post_description: Hardly any Republicans in the Senate want to be caught dead
-    at President Trump’s big boy parade this weekend. The...
-  last_post_date: "2025-06-11T22:22:02Z"
-  last_post_link: https://talkingpointsmemo.com/where-things-stand/performative-austerity-vanishes-as-gop-flees-town-before-trumps-dictator-style-parade
+  last_post_title: Trump Grabs Control of DC Police, Promises National Guard Deployment
+  last_post_description: For at least the next 30 days, the Trump administration will
+    control local law enforcement in D.C. President Trump on...
+  last_post_date: "2025-08-11T16:07:05Z"
+  last_post_link: https://talkingpointsmemo.com/news/trump-grabs-control-of-dc-police-promises-national-guard-deployment
   last_post_categories:
-  - Ron Johnson
-  - Senate Republicans
-  - Trump II
-  - Where Things Stand
-  - military
+  - News
   last_post_language: ""
-  last_post_guid: 61df9ac3b7232022cdde603984f7a360
+  last_post_guid: ca6be11bcb1aacc0044f81d2a38a4e4d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

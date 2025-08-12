@@ -13,21 +13,24 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
   - AI
-  - 互联网
+  - 技术文章
   relme: {}
-  last_post_title: AI Coding 与 AI 视频：从生产力工具到大众内容平台
-  last_post_description: 数字世界的创作和内容，最重要的是程序和视频。程序负责逻辑、互动；视频负责信息的表达、感知。 2024年2月 S […]
-  last_post_date: "2025-06-05T11:08:09Z"
-  last_post_link: https://blog.cnbang.net/internet/4256/
+  last_post_title: Agent 模型怎么训练？学习 Kimi K2 论文
+  last_post_description: 在 Agent 使用的模型上，Claude 一直独一档，Deepseek、豆包、Gemini 等模型跟它都有很 […]
+  last_post_date: "2025-08-05T16:33:33Z"
+  last_post_link: https://blog.cnbang.net/tech/4262/
   last_post_categories:
   - AI
-  - 互联网
+  - 技术文章
   last_post_language: ""
-  last_post_guid: 0e937d5bbe9ed741e12fb02cf0048df9
+  last_post_guid: 6f4e5729cd45799f3599416fdc39985c
   score_criteria:
     cats: 0
     description: 3

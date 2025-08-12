@@ -32,37 +32,48 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - customelements
-  - development
-  - dom
-  - enhancement
-  - frontend
-  - html
-  - javascript
-  - loading
+  - android
+  - apps
+  - appstores
+  - browsers
+  - homescreen
+  - installation
+  - ios
+  - mobile
+  - native
   - progressive
-  - webcomponents
+  - pwas
+  - ux
+  - web
+  - webapps
   relme: {}
-  last_post_title: Streamlining HTML web components
+  last_post_title: Progressive web apps
   last_post_description: |-
-    If you’re a front-end developer and you don’t read Chris Ferdinandi’s blog, you should change that right now. Add that RSS feed to your feed reader of choice!
+    There was a time when you needed to make a native app in order to take advantage of specific technologies. That time has passed.
 
-    Lately he’s been posting about
-  last_post_date: "2025-07-22T11:04:27Z"
-  last_post_link: https://adactio.com/journal/22038
+    Now you can do all of these things on the web:
+
+
+    push notifications
+  last_post_date: "2025-08-07T13:05:11Z"
+  last_post_link: https://adactio.com/journal/22074
   last_post_categories:
-  - customelements
-  - development
-  - dom
-  - enhancement
-  - frontend
-  - html
-  - javascript
-  - loading
+  - android
+  - apps
+  - appstores
+  - browsers
+  - homescreen
+  - installation
+  - ios
+  - mobile
+  - native
   - progressive
-  - webcomponents
+  - pwas
+  - ux
+  - web
+  - webapps
   last_post_language: ""
-  last_post_guid: c9d873c4d9789146de93cbab00d0443e
+  last_post_guid: 99d8b4b40f09a15084c5ce8f3ea94a1e
   score_criteria:
     cats: 0
     description: 3

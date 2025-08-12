@@ -20,15 +20,15 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Expanding An Ambient Music Server
-  last_post_description: Last year, I wrote about creating an ambient music server,
-    because I had received a one year free trial to a service providing RSS podcast
-    feeds of various ambient sounds, and wanted to archive the
-  last_post_date: "2025-02-06T00:00:00Z"
-  last_post_link: https://jessicajournals.com/expanding-an-ambient-music-server/
+  last_post_title: Adding Radio To An Ambient Music Server
+  last_post_description: Earlier this year, I wrote about expanding my ambient music
+    server, using AudioBookShelf to play both podcasts and audio content downloaded
+    from YouTube via PinchFlat - mostly relaxing music, guided
+  last_post_date: "2025-07-09T00:00:00Z"
+  last_post_link: https://jessicajournals.com/adding-radio-to-an-ambient-music-server/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 79c3e9a63349a2eae3dc2254c539ee63
+  last_post_guid: 665e976809c9e40f13e979976aa98652
   score_criteria:
     cats: 0
     description: 3

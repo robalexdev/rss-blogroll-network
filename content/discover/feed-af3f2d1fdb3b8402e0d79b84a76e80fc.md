@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2025-07-25T08:22:35Z"
+date: "2025-08-11T13:05:02Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -12,6 +12,9 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []

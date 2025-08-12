@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: 8a5d6572c1def2f369ccb7ed926ecb1a
   websites:
-    https://subtle-echo.pika.page/: false
+    https://subtle-echo.pika.page/: true
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -20,7 +20,8 @@ params:
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
-  relme: {}
+  relme:
+    https://subtle-echo.pika.page/: true
   last_post_title: What I loved in January 2025
   last_post_description: Hello, this is a list of things that brought me joy in January
     2025. I’ve set myself a short time limit to write and publish this, otherwise
@@ -39,10 +40,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

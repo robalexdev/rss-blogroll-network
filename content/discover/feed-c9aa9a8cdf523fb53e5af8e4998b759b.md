@@ -1,7 +1,7 @@
 ---
-title: 蒙奇在路上
+title: 蒙奇日记
 date: "1970-01-01T00:00:00Z"
-description: monkiex.com & 蒙奇在路上，用文字记录生活，寻找属于自己的ONE PIECE！
+description: 蒙奇日记，用文字记录生活，寻找属于自己的ONE PIECE！
 params:
   feedlink: https://luffy.cc/feed
   feedtype: rss
@@ -13,21 +13,23 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 无语，这叼毛
-  last_post_description: !!binary |
-    5pep5LiK6YaS55qE5b6I5pep77yM5LiN5oOF5oS/5Zyw57+75byA5omL5py655yL5LqG55
-    y85pe26Ze077yM5oSP5aSW55qE5Zyo6YCa55+l55WM6Z2i5Y+R546w5LqG5LiA5p2h6YCa
-    6K+d6K6w5b2V44CCCuWboOS4uuaYr+WHjOaZqOS4gOeCueWNiu+8jOaJgOS7peeUseWwj+
-    eIseWQjOWtpui0n+i0o+aOpeWQrOOAguacrOadpeW5s+aXtueci+WIsOg=
-  last_post_date: "2024-07-11T00:00:00Z"
-  last_post_link: https://luffy.cc/wu-yu-zi
+  last_post_title: 越来越迷信
+  last_post_description: |-
+    我很好奇，是不是人们多多少少都会有那么一点儿迷信。
+    最近因为看到八字中的五行之说，买了一条喜用神的手串，用来补足所谓的五行缺失。
+    本是不
+  last_post_date: "2025-05-25T00:00:00+08:00"
+  last_post_link: https://luffy.cc/a/yue-lai-yue-mi-xin
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c9523be78835e5cff9499cec910886f
+  last_post_guid: 914671df2976181fe454d35b5f90aa76
   score_criteria:
     cats: 0
     description: 3

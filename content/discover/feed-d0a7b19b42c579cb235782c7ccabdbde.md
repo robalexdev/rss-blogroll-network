@@ -16,35 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - News
-  - Real science
-  - Theoretical highlights
+  - Reflections
+  - The expert's corner
   relme: {}
-  last_post_title: 'A (quantum) complex legacy: Part trois'
-  last_post_description: 'When I worked in Cambridge, Massachusetts, a friend reported
-    that MIT’s postdoc association had asked its members how it could improve their
-    lives. The friend confided his suggestion to me: throw'
-  last_post_date: "2025-06-23T00:01:30Z"
-  last_post_link: https://quantumfrontiers.com/2025/06/22/a-quantum-complex-legacy-part-trois/
+  last_post_title: Nicole’s guide to writing research statements
+  last_post_description: Sunflowers are blooming, stores are trumpeting back-to-school
+    sales, and professors are scrambling to chart out the courses they planned to
+    develop in July. If you’re applying for an academic job
+  last_post_date: "2025-08-11T00:12:32Z"
+  last_post_link: https://quantumfrontiers.com/2025/08/10/nicoles-guide-to-writing-research-statements/
   last_post_categories:
-  - News
-  - Real science
-  - Theoretical highlights
+  - Reflections
+  - The expert's corner
   last_post_language: ""
-  last_post_guid: 84fdda4f47841e0503ea16e331cc2ed7
+  last_post_guid: f9fb9cb5f7ae7a297b2e64dcbab21fc5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2025-07-20T11:56:39Z"
+date: "2025-08-10T12:48:35Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -13,23 +13,26 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories:
-  - 技巧
+  - LLM
   relme: {}
-  last_post_title: 千万别升级Chrome-您的扩展程序可能无法使用-教你怎么解决
+  last_post_title: 介绍一批比较不错的n8n模板
   last_post_description: !!binary |
-    5YWB6K645oiR5bCP5bCP5Zyw5qCH6aKY5YWa5LiA5LiL77yM5ZCO5Y2K5Y+l5piv55yf5a
-    6e5oOF5Ya177yM5pyA6L+R6YeN5ZCv55S16ISR5bCx6Ieq5Yqo5Y2H57qn5LqGY2hyb21l
-    77yM5Y+R546w5b6I5aSa5b+F6aG755qE5omp5bGV56iL5bqP6YO95LiN6IO955So5LqG77
-    yM5LmL5YmN5piv5Y+v5Lul6YCa6L+H6K6+572u5byA5ZCv77yM6L+Z5qw=
-  last_post_date: "2025-07-20T11:56:39Z"
-  last_post_link: https://nicksxs.me/2025/07/20/%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%87%E7%BA%A7Chrome-%E6%82%A8%E7%9A%84%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/
+    5LiK5qyh5LuL57uN5LqGbjhu55qE5a6J6KOF5ZKM566A5Y2V55qE5bel5L2c5rWB5pCt5b
+    u677yM546w5Zyo5oiR5Lus5Y+v5Lul5p2l55yL5LiL5LiA5om55YWN6LS55byA5rqQ55qE
+    5qih5p2/77yM5Lmf6K645a6D5LiN6IO955u05o6l5Li65oiR5Lus5omA55So77yM5L2G5p
+    iv5Y+v5Lul57uZ5oiR5Lus5pCt5bu65L2/55So6L+H56iL5Lit5o+Q5L4=
+  last_post_date: "2025-08-10T12:48:35Z"
+  last_post_link: https://nicksxs.me/2025/08/10/%E4%BB%8B%E7%BB%8D%E4%B8%80%E6%89%B9%E6%AF%94%E8%BE%83%E4%B8%8D%E9%94%99%E7%9A%84n8n%E6%A8%A1%E6%9D%BF/
   last_post_categories:
-  - 技巧
+  - LLM
   last_post_language: ""
-  last_post_guid: e6f155eebcc29c53d6e3dd4cba1175b5
+  last_post_guid: 6ce1f7d3f0232e37622154dfaf9eda95
   score_criteria:
     cats: 0
     description: 3

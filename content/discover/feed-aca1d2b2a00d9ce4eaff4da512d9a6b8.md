@@ -20,15 +20,15 @@ params:
     https://barryfrost.com/: true
     https://github.com/barryf: true
     https://mastodon.social/@barryf: true
-  last_post_title: Week 204 - Kong
-  last_post_description: I took the day off on Tuesday for a well-needed lunch in
-    London with old friends/colleagues. The sunny weather had ended but we still polished
-    off many bottles of wine inside and outside. We should
-  last_post_date: "2025-07-21T18:06:35Z"
-  last_post_link: https://barryfrost.com/2025/07/week-204-kong
+  last_post_title: Week 207 - Yurt
+  last_post_description: I had a busy few days of work at home while the rest of my
+    family joined L's parents glamping in Northamptonshire. They stayed in fancy yurts
+    with beds and a hut with a kitchen. I was jealous of
+  last_post_date: "2025-08-10T21:31:28Z"
+  last_post_link: https://barryfrost.com/2025/08/week-207-yurt
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aedfe4a363edb0ad6fde984d35b712d1
+  last_post_guid: 023f204077b27bfbc80159429967db38
   score_criteria:
     cats: 0
     description: 3

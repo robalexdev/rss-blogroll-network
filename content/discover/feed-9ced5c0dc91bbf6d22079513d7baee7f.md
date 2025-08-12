@@ -1,6 +1,6 @@
 ---
 title: Python Bytes
-date: "2025-07-21T00:00:00-08:00"
+date: "2025-08-04T00:00:00-08:00"
 description: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian
   Okken. The show is a short discussion on the headlines and noteworthy news in the
   Python, developer, and data science space.
@@ -20,15 +20,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: '#441 It''s Michaels All the Way Down'
-  last_post_description: "Topics covered in this episode:\n\n\n\t* Distributed sqlite
-    follow up: Turso and Litestream*\n* PEP 792 – Project status markers in the simple
-    index*\nRun coverage on tests\ndocker2exe: Convert a Docker"
-  last_post_date: "2025-07-21T00:00:00-08:00"
-  last_post_link: https://pythonbytes.fm/episodes/show/441/its-michaels-all-the-way-down
+  last_post_title: '#443 Patching Multiprocessing'
+  last_post_description: "Topics covered in this episode:\n\n\n\trumdl - A Markdown
+    Linter written in Rust\n* Coverage 7.10.0: patch*\n* aioboto3*\n* You might not
+    need a Python class*\nExtras\nJoke\n\nWatch on YouTube\n\nAbout the"
+  last_post_date: "2025-08-04T00:00:00-08:00"
+  last_post_link: https://pythonbytes.fm/episodes/show/443/patching-multiprocessing
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: de4f097d02d73a59e53e45ee18e6e18a
+  last_post_guid: d03913402a2117d782ea92012b3cf6ac
   score_criteria:
     cats: 2
     description: 3

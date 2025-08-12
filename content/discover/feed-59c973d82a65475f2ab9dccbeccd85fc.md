@@ -1,6 +1,6 @@
 ---
 title: ImperialViolet
-date: "2025-06-30T02:52:41Z"
+date: "2025-07-27T22:35:43Z"
 description: ""
 params:
   feedlink: https://www.imperialviolet.org/iv-rss.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Continuous Glucose Monitoring
+  last_post_title: TRMNL
   last_post_description: ""
-  last_post_date: "2025-06-29T00:00:00Z"
-  last_post_link: http://www.imperialviolet.org/2025/06/29/cgm.html
+  last_post_date: "2025-07-27T00:00:00Z"
+  last_post_link: http://www.imperialviolet.org/2025/07/27/trmnl.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3f3faf33dba84be120c73e0bbf06e7cd
+  last_post_guid: d98d2afa3c3c0c15f3f54f8596b87288
   score_criteria:
     cats: 0
     description: 0

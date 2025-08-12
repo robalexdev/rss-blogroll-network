@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: New article on Nautilus Magazine
-  last_post_description: '"How Optimists Are Alike"'
-  last_post_date: "2025-07-23T00:47:23Z"
-  last_post_link: https://aethermug.com/posts/new-article-on-nautilus-magazine?utm_source=rss&utm_campaign=rss
+  last_post_title: Do You Remember What You Read?
+  last_post_description: Why I never skip a Readwise day
+  last_post_date: "2025-08-07T00:42:55Z"
+  last_post_link: https://aethermug.com/posts/do-you-remember-what-you-read?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54720e87090ded7427ba85bbbe65c419
+  last_post_guid: 49087f52482eee9c50ce9ad31c69616c
   score_criteria:
     cats: 0
     description: 3

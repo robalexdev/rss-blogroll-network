@@ -21,13 +21,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Ramping up for expansion
-  last_post_description: Ghost 6.0 is coming soon
-  last_post_date: "2025-06-06T11:32:06Z"
-  last_post_link: https://activitypub.ghost.org/ramping-up-for-expansion/
+  last_post_title: The longformers
+  last_post_description: Ghost<>WordPress<>Flipboard<>Fediverse
+  last_post_date: "2025-07-01T14:44:43Z"
+  last_post_link: https://activitypub.ghost.org/the-longformers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 580755a6f8cd62690ac9febfcf17dd0d
+  last_post_guid: c0a41ca0f0b3f9893e0965474fb0ef68
   score_criteria:
     cats: 0
     description: 3

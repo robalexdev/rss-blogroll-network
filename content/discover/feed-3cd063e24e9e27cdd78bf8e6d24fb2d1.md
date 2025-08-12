@@ -12,18 +12,22 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 使用控制层和指示控制图片的生成
-  last_post_description: "本节将介绍如何使用控制层和指示来精确控制图片的生成。\n\n\n\n\n  \n   Bilibili\n  \n
-    \  YouTube\n      \n    \n  \n\n "
-  last_post_date: "2025-06-07T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2025/06/invoke-101-using-control-layers-and-reference-guides/
+  last_post_title: 大语言模型微调 (Fine-tuning Large Language Models)
+  last_post_description: |-
+    什么是微调
+    微调（Fine
+  last_post_date: "2025-08-09T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2025/08/fine-tuning-llms/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 05cf902855a63509715f7bc3f58367d5
+  last_post_guid: d68681ed5ecfa878be2083b7f97b608e
   score_criteria:
     cats: 0
     description: 3

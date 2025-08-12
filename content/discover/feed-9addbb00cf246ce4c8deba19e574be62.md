@@ -46,6 +46,7 @@ params:
     https://weblog.anniegreens.lol/buttons: false
     https://weblog.anniegreens.lol/changelog: false
     https://weblog.anniegreens.lol/colophon: false
+    https://weblog.anniegreens.lol/colophon): false
     https://weblog.anniegreens.lol/contact: false
     https://weblog.anniegreens.lol/domain-map: false
     https://weblog.anniegreens.lol/favorites: false
@@ -137,6 +138,7 @@ params:
     https://weblog.anniegreens.lol/buttons: true
     https://weblog.anniegreens.lol/changelog: true
     https://weblog.anniegreens.lol/colophon: true
+    https://weblog.anniegreens.lol/colophon): true
     https://weblog.anniegreens.lol/contact: true
     https://weblog.anniegreens.lol/domain-map: true
     https://weblog.anniegreens.lol/favorites: true

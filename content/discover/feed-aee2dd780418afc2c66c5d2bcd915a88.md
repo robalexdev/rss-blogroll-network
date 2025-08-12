@@ -19,7 +19,6 @@ params:
     id: 4f9c05f836dbd67951ea4fd0d091fcca
   recommended: []
   recommender:
-  - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
   - https://kandr3s.co/.rss
@@ -27,15 +26,15 @@ params:
   relme:
     https://github.com/jamesvandyne/: true
     https://jamesvandyne.com/: true
-  last_post_title: 'The Week #258'
-  last_post_description: "\U0001F3C0 Leo has been asking for a basketball for weeks.
-    He didn't have enough to buy one, but I told him I'd help him. We went to the
-    sports shop and looked at the basketballs. At first I went straight"
-  last_post_date: "2025-06-09T21:41:36Z"
-  last_post_link: https://jamesvandyne.com/17d16990-53ed-4ff3-ad0e-8261865898f9
+  last_post_title: 'The Week #266'
+  last_post_description: "\U0001F981 We went and saw The Lion King show at Lyceum
+    theatre. It was fantastic. The opening where they sing the Circle of Life was
+    just...wow. Well worth the price of admission.\U0001F37B I can't visit the UK"
+  last_post_date: "2025-08-04T22:32:50Z"
+  last_post_link: https://jamesvandyne.com/88866afd-cd9d-4141-b9f7-7417699251db
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8aba7f67aef42162926a0f49774d456a
+  last_post_guid: 58c3c38ddb2309f9be0d9d35362919b2
   score_criteria:
     cats: 0
     description: 0

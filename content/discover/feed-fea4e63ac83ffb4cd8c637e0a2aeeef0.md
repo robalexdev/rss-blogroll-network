@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-07-13T10:41:43+02:00"
+date: "2025-08-09T12:27:05+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - audio
   - blockchain
+  - vidéo
   relme: {}
-  last_post_title: 'La Cantine numérique de Brest : Se libérer de la blockchain'
-  last_post_description: Soixante-troisième épisode du podcast de la Cantine numérique
-    de Brest. Pablo Rauzy, maître de conférences en informatique à l’Université Paris
-    VIII (laboratoire Pastis – Projet Géode)
-  last_post_date: "2025-04-21T13:12:00+02:00"
-  last_post_link: https://p4bl0.net/post/2025/04/La-Cantine-numerique-de-Brest-Se-liberer-de-la-blockchain
+  last_post_title: Introduction technocritique aux blockchains (UnU 1/8)
+  last_post_description: Avec le calme de l'été, j'ai enfin eu le temps de m'occuper
+    du montage des captations de la journée d'étude Unblocked & Unchained Symposium
+    qui s'est tenue le 13 décembre 2024 et que j'avais
+  last_post_date: "2025-08-06T13:12:00+02:00"
+  last_post_link: https://p4bl0.net/post/2025/08/UnU-1-8-Introduction-technocritique-aux-blockchains
   last_post_categories:
-  - audio
   - blockchain
+  - vidéo
   last_post_language: ""
-  last_post_guid: 78448d352620bc26199765ba22aeceda
+  last_post_guid: 27468e3157b49ebdc380b5ad43af7738
   score_criteria:
     cats: 0
     description: 3

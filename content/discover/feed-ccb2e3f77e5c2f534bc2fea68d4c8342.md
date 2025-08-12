@@ -1,6 +1,6 @@
 ---
 title: lottia notes
-date: "2025-01-06T02:44:00Z"
+date: "2025-07-26T05:10:00Z"
 description: ""
 params:
   feedlink: https://lottia.net/notes/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: TextMode Designer
+  last_post_title: Fortune habits in Nix
   last_post_description: ""
-  last_post_date: "2025-01-06T02:44:00Z"
-  last_post_link: https://lottia.net/notes/0016-textmode-designer.html
+  last_post_date: "2025-07-26T05:10:00Z"
+  last_post_link: https://lottia.net/notes/0017-fortune-habits-in-nix.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06c41d147282ceca40ee99bb50dcd6a3
+  last_post_guid: 26b96453a89e94f1417c2c73266745ef
   score_criteria:
     cats: 0
     description: 0
