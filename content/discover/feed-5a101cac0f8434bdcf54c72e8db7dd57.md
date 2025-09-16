@@ -6,7 +6,8 @@ params:
   feedlink: https://notes.pault.ag/index.xml
   feedtype: rss
   feedid: 5a101cac0f8434bdcf54c72e8db7dd57
-  websites: {}
+  websites:
+    https://notes.pault.ag/: true
   blogrolls: []
   in_blogrolls:
   - title: robalexdev
@@ -23,7 +24,12 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories: []
-  relme: {}
+  relme:
+    https://github.com/paultag: true
+    https://k3xec.com/: true
+    https://notes.pault.ag/: true
+    https://pault.ag/: true
+    https://soylent.green/@paul: true
   last_post_title: The Promised LAN
   last_post_description: |-
     The Internet has changed a lot in the last 40+ years. Fads have come and gone.
@@ -43,14 +49,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 18
+  postcount: 19
   avgpostlen: 0
 ---

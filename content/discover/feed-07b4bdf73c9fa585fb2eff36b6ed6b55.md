@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 07b4bdf73c9fa585fb2eff36b6ed6b55
   websites:
+    https://technicalwriting.dev/: true
     https://technicalwriting.dev/index.html: false
   blogrolls: []
   in_blogrolls:
@@ -38,12 +39,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 13
   avgpostlen: 0
 ---

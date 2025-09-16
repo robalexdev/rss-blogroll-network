@@ -1,8 +1,8 @@
 ---
 title: Ankur Sethi
 date: "1970-01-01T00:00:00Z"
-description: Personal blog and website of Ankur Sethi, writer and independent frontend
-  developer living in Bangalore, India.
+description: Personal blog and website of Ankur Sethi, reader, writer, and frontend
+  engineer living in Bangalore, India.
 params:
   feedlink: https://ankursethi.com/feeds/index.xml
   feedtype: rss
@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I'm trying to change my relationship with my desk
-  last_post_description: Repurposing my programming workspace for creative writing
-    by changing my pre-work ritual instead of my physical space.
-  last_post_date: "2025-08-03T12:17:25Z"
-  last_post_link: https://ankursethi.com/blog/im-trying-to-change-my-relationship-with-my-desk/
+  last_post_title: The ducks incident
+  last_post_description: ""
+  last_post_date: "2025-09-06T11:50:53Z"
+  last_post_link: https://ankursethi.com/blog/the-ducks-incident/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 045173422f94b5c653b8ddc30c2ecb89
+  last_post_guid: 77f32e430ab20f59760db4fec336e6fc
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 10
   avgpostlen: 0
 ---

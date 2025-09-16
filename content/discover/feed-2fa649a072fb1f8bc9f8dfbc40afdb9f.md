@@ -16,29 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 生活写作
+  - 公共议程
+  - 日常政治
   relme: {}
-  last_post_title: 关于 食记/草木大会/长短句/梦次元 四个 bluesky 标签的一点想法
-  last_post_description: 好久之前了吧，大概是马斯克投诚川普的时候，发生过一次大规模迁徙，很多朋友从 X 转到了
-  last_post_date: "2025-08-08T02:25:50Z"
-  last_post_link: https://horse.im/1940
+  last_post_title: 关于歧视/日本人歧视中国人了的“中国看法”
+  last_post_description: 题目很特别，想讨论的事情到不算很复杂。
+  last_post_date: "2025-09-11T08:02:49Z"
+  last_post_link: https://horse.im/1984
   last_post_categories:
-  - 生活写作
+  - 公共议程
+  - 日常政治
   last_post_language: ""
-  last_post_guid: c69d18c61ca4a49ea926af23ee35d874
+  last_post_guid: e5cc6be50ef614c485fe9aecf1e755ea
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

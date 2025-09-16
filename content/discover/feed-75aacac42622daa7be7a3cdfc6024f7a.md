@@ -19,15 +19,17 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] It''s nice to be out'
-  last_post_description: "I'm in Toronto for a work function. It's nice to be out
-    of the States and seeing my coworkers in the flesh, but I also can't stop doomscrolling
-    about the ongoing horrors. \n\nPassword Basket\nThis is"
-  last_post_date: "2025-06-12T02:26:04Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-its-nice-to-be-out/
+  last_post_title: '[SC 2.4.4] The routine of assembling'
+  last_post_description: |-
+    Here's hoping the routine of assembling this week's newsletter will stave off the horror I'm feeling about the ramification of today's events.
+
+    This blog is running on a recycled Google Pixel 5
+    I
+  last_post_date: "2025-09-11T01:43:42Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-the-routine-of-assembling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7951fcb8e92c132225acbcd5f9a79972
+  last_post_guid: 9291ec6957a857334134481acef85388
   score_criteria:
     cats: 0
     description: 3

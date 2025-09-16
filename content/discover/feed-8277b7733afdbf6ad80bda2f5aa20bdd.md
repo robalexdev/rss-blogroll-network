@@ -12,34 +12,29 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Data & Visuals
-  - Eric Adams
-  - Immigrants
-  - Migrant Crisis
-  - Trump Administration
+  - Food
+  - Poverty
+  - Religion
   relme: {}
-  last_post_title: NYC Is the Nation’s Capital of Immigration Courthouse Arrests,
-    New Data Analysis Shows
-  last_post_description: On a recent morning in Lower Manhattan, immigration Judge
-    John Siemietkowski spoke to three people in his courtroom while masked federal
-    officers waited just outside.  “I’m sure you can see with
-  last_post_date: "2025-08-11T09:00:00Z"
-  last_post_link: https://www.thecity.nyc/2025/08/11/26-federal-plaza-immigration-court-trump-arrests-data-analysis/
+  last_post_title: Indoor Ban Shuts Down Soup Kitchen at Downtown Manhattan Church
+  last_post_description: After more than 50 years in operation, the soup kitchen at
+    The Parish of Calvary-St.George’s in Stuytown is shutting down due to a disagreement
+    over allowing patrons to dine inside or use the
+  last_post_date: "2025-09-15T09:00:00Z"
+  last_post_link: https://www.thecity.nyc/2025/09/15/indoor-ban-soup-kitchen-st-georges/
   last_post_categories:
-  - Data & Visuals
-  - Eric Adams
-  - Immigrants
-  - Migrant Crisis
-  - Trump Administration
+  - Food
+  - Poverty
+  - Religion
   last_post_language: ""
-  last_post_guid: 10ffdd5a91eef1714417518a4fb8fef1
+  last_post_guid: 66aa568d8502b5580bbf4f2b2e97d7d3
   score_criteria:
     cats: 0
     description: 3

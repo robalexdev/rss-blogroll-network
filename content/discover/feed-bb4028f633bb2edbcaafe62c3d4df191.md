@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-08-11T00:12:32Z"
+date: "2025-09-10T23:37:03Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -22,7 +22,7 @@ params:
   last_post_description: Sunflowers are blooming, stores are trumpeting back-to-school
     sales, and professors are scrambling to chart out the courses they planned to
     develop in July. If you’re applying for an academic job
-  last_post_date: "2025-08-11T00:12:32Z"
+  last_post_date: "2025-09-10T23:37:03Z"
   last_post_link: https://quantumfrontiers.com/2025/08/10/nicoles-guide-to-writing-research-statements/
   last_post_categories:
   - Reflections
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 297
 ---

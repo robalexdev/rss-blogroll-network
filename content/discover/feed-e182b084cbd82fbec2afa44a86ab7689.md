@@ -15,22 +15,20 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories:
   - Programming
   - Raspberry Pi
   relme: {}
-  last_post_title: Duane Blehm
-  last_post_description: A little about Duane Blehm, an early Macintosh shareware
-    author.
-  last_post_date: "2025-03-03T12:00:00Z"
-  last_post_link: https://www.engineersneedart.com/blog/duane/duane.html
+  last_post_title: Camera Genealogica (Part 1)
+  last_post_description: I’m very much into genealogy. I came to realize that my interest
+    was more specifically as a kind of photograph genealogist.
+  last_post_date: "2025-07-30T12:00:00Z"
+  last_post_link: https://www.engineersneedart.com/blog/camera/camera.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 679042dcf9cc596ef983605562caf0ad
+  last_post_guid: 63d253ecb652d5a7a6b9a9bde787dab8
   score_criteria:
     cats: 2
     description: 3
@@ -48,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 24
+  postcount: 26
   avgpostlen: 0
 ---

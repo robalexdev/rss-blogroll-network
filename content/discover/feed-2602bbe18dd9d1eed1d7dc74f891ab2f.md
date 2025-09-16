@@ -6,7 +6,8 @@ params:
   feedlink: https://strk.kbt.io/blog/index.xml
   feedtype: rss
   feedid: 2602bbe18dd9d1eed1d7dc74f891ab2f
-  websites: {}
+  websites:
+    https://strk.kbt.io/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

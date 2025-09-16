@@ -57,6 +57,7 @@ params:
   - 需求
   relme:
     https://teddy-chen-tw.blogspot.com/: true
+    https://www.blogger.com/profile/02066842119056439711: true
   last_post_title: 學習總在課堂後
   last_post_description: ""
   last_post_date: "2025-06-08T20:55:00+08:00"
@@ -83,5 +84,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 222
+  avgpostlen: 213
 ---

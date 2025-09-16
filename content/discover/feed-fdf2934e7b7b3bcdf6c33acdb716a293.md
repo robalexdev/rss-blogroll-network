@@ -6,7 +6,8 @@ params:
   feedlink: https://dev.to/feed/warbilly
   feedtype: rss
   feedid: fdf2934e7b7b3bcdf6c33acdb716a293
-  websites: {}
+  websites:
+    https://dev.to/warbilly: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -15,9 +16,7 @@ params:
   recommended: []
   recommender: []
   categories:
-  - community
-  - debian
-  - slack
+  - discuss
   relme: {}
   last_post_title: My take on IRCs - let's rest from Slack and Discord for a while.
   last_post_description: I want to interest those that haven’t used IRCs for a while
@@ -26,9 +25,7 @@ params:
   last_post_date: "2023-02-27T06:41:10Z"
   last_post_link: https://dev.to/warbilly/my-take-on-ircs-lets-rest-from-slack-and-discord-for-a-while-2g9g
   last_post_categories:
-  - community
-  - debian
-  - slack
+  - discuss
   last_post_language: ""
   last_post_guid: 64ae8f1249591521103771fa8091e72b
   score_criteria:
@@ -37,12 +34,12 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
+    website: 2
   score: 18
   ispodcast: false
   isnoarchive: false

@@ -19,50 +19,75 @@ params:
   recommended: []
   recommender: []
   categories:
-  - CQ
+  - API
+  - Context
   - Go
+  - GoContext
   - Golang
-  - IO
-  - Kernel
-  - Linux
-  - P
-  - SQ
-  - epoll
-  - io_uring
-  - processor
-  - runtime
-  - scylladb
-  - 异步IO
+  - Gopher
+  - Go专家
+  - Go语言
+  - Go语言第一课
+  - Go语言进阶课
+  - OOM
+  - TonyBai
+  - WithValue
+  - goroutine
+  - 内存
+  - 军规
+  - 函数签名
+  - 取消
+  - 学习体会
   - 技术志
-  - 标准库
-  - 运行时
+  - 技术深度
+  - 数据传递
+  - 源码
+  - 生产级
+  - 生命周期控制
+  - 资源泄漏
+  - 超时
+  - 避坑指南
+  - 黑盒
   relme:
+    https://github.com/bigwhite: true
     https://tonybai.com/: true
-  last_post_title: 为何Go语言迟迟未能拥抱 io_uring？揭秘集成的三大核心困境
-  last_post_description: 本文永久链接 – https://tonybai.com/2025/08/11/why-go-not-embrace-iouring
-    大家好，我是Tony Bai。 在 Linux I/O 的世界里，io_uring
-  last_post_date: "2025-08-11T00:06:40Z"
-  last_post_link: https://tonybai.com/2025/08/11/why-go-not-embrace-iouring/
+  last_post_title: context：Go 语言的“天问”，你真的懂了吗？
+  last_post_description: 本文永久链接 – https://tonybai.com/2025/09/15/go-context-column
+    大家好，我是Tony Bai。 作为一个 Gopher，如果说 Go
+  last_post_date: "2025-09-15T00:35:04Z"
+  last_post_link: https://tonybai.com/2025/09/15/go-context-column/
   last_post_categories:
-  - CQ
+  - API
+  - Context
   - Go
+  - GoContext
   - Golang
-  - IO
-  - Kernel
-  - Linux
-  - P
-  - SQ
-  - epoll
-  - io_uring
-  - processor
-  - runtime
-  - scylladb
-  - 异步IO
+  - Gopher
+  - Go专家
+  - Go语言
+  - Go语言第一课
+  - Go语言进阶课
+  - OOM
+  - TonyBai
+  - WithValue
+  - goroutine
+  - 内存
+  - 军规
+  - 函数签名
+  - 取消
+  - 学习体会
   - 技术志
-  - 标准库
-  - 运行时
+  - 技术深度
+  - 数据传递
+  - 源码
+  - 生产级
+  - 生命周期控制
+  - 资源泄漏
+  - 超时
+  - 避坑指南
+  - 黑盒
   last_post_language: ""
-  last_post_guid: a44d55faea9837e9b3a46ab187b1fbb0
+  last_post_guid: c24ed80fe624f7545907be580ddc2e79
   score_criteria:
     cats: 0
     description: 3

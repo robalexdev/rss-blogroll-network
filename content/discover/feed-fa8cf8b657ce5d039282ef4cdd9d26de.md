@@ -1,6 +1,6 @@
 ---
 title: 胡涂说
-date: "2025-08-06T21:48:26+08:00"
+date: "2025-09-14T14:52:32+08:00"
 description: hutusi.com
 params:
   feedlink: https://hutusi.com/feed.xml
@@ -22,25 +22,23 @@ params:
   - Agent
   - weekly
   - 周刊
-  - 大模型
   relme: {}
-  last_post_title: '周刊第17期: 如何构建智能体(Agent)'
-  last_post_description: 本文为周刊第17期，前期的周刊参见：周刊系列。
-  last_post_date: "2025-08-05T21:15:00+08:00"
-  last_post_link: https://hutusi.com/weeklies/17
+  last_post_title: '周刊第19期: 一起学习 MCP'
+  last_post_description: 本文为周刊第19期，前期周刊参见：周刊系列。
+  last_post_date: "2025-09-08T20:35:00+08:00"
+  last_post_link: https://hutusi.com/weeklies/19
   last_post_categories:
   - AI
   - Agent
   - weekly
   - 周刊
-  - 大模型
   last_post_language: ""
-  last_post_guid: 3415fdb0f685d4df506451c9efb7359f
+  last_post_guid: 2102cc8bd1d89f842e935e2821ac61c3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    hasContent: 0
+    hasContent: 3
     hasPosts: 3
     postcats: 3
     promoted: 5
@@ -48,11 +46,11 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 0
+  avgpostlen: 249
 ---

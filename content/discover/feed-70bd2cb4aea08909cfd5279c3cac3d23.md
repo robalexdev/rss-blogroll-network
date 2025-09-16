@@ -8,31 +8,19 @@ params:
   feedtype: rss
   feedid: 70bd2cb4aea08909cfd5279c3cac3d23
   websites:
-    https://herman.bearblog.dev/: false
+    https://herman.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: ""
-    description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: af94d85e509bec272bc4314eb947a67d
   - title: Kev Quirk's Blogroll
     description: ""
     id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
+  - https://hacdias.com/writings/feed.xml
   - https://kevquirk.com/feed
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
@@ -40,13 +28,13 @@ params:
   - https://kevquirk.com/watch-log-feed
   categories: []
   relme: {}
-  last_post_title: 'Digital hygiene: Notifications'
-  last_post_description: Take back your attention.
-  last_post_date: "2025-08-06T09:05:00Z"
-  last_post_link: https://herman.bearblog.dev/notifications/
+  last_post_title: If Apple cared about privacy
+  last_post_description: Defaults matter
+  last_post_date: "2025-09-10T11:35:00Z"
+  last_post_link: https://herman.bearblog.dev/apple-privacy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4a4fd070f0adb225ac0a9a8ca49b6d6
+  last_post_guid: f30663324a1d964abd7f91bf8849527e
   score_criteria:
     cats: 0
     description: 3
@@ -58,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

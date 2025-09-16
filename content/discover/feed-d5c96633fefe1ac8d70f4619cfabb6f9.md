@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '京都马拉松: 第一次去日本跑马'
+  last_post_title: '我的新电脑: 2025 年 MATX 小主机'
   last_post_description: ""
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://luolei.org/kyoto-marathon-2025
+  last_post_link: https://luolei.org/pc-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36ee295239133856782398bb86dd53bb
+  last_post_guid: b4f1bc4f0db48d3919c549142a87af0e
   score_criteria:
     cats: 0
     description: 3

@@ -20,7 +20,6 @@ params:
   - https://daringfireball.net/feeds/main
   - https://excited-pixels.com/feed/
   - https://heydingus.net/feed.rss
-  - https://initialcharge.net/feed/
   - https://maique.eu/feed.xml
   - https://manuelmoreale.com/feed/rss
   - https://mjtsai.com/blog/feed/
@@ -36,16 +35,10 @@ params:
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
   - https://maique.eu/posts_feed
-  - https://www.manton.org/podcast.xml
-  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
-  - https://mastodon.social/tags/mjtsaiupdate.rss
-  - https://mjtsai.com/blog/comments/feed/
   - https://morrick.me/comments/feed
   - https://om.co/comments/feed/
   - https://thenewsprint.co/feed
-  - https://thingstoclick.com/feed.xml
-  - https://thingstoclick.com/podcast.xml
   recommender: []
   categories:
   - Technology

@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 9fde18f0e6557cda1c6a58ec2134baec
   websites:
-    https://trysmudford.com/: false
     https://www.trysmudford.com/: false
     https://www.trysmudford.com/blog/: true
   blogrolls: []
@@ -20,15 +19,15 @@ params:
   categories: []
   relme:
     https://www.trysmudford.com/blog/: true
-  last_post_title: The elephant in the room
-  last_post_description: Colton Voege has penned an excellent debunk of the 10x AI
-    engineer. Their account of rapidly diminishing returns mirrors my experience with
-    agentic coding. Yes, it can create 10x the code that you or
-  last_post_date: "2025-08-08T00:00:00Z"
-  last_post_link: https://www.trysmudford.com/blog/the-elephant-in-the-room/
+  last_post_title: Learning when to stop
+  last_post_description: Cricket is a funny old game. Many find it dreadfully boring,
+    particularly the test variety. To be fair, any game that can be played for five
+    full days and not produce a result does sound like a
+  last_post_date: "2025-08-19T00:00:00Z"
+  last_post_link: https://www.trysmudford.com/blog/learning-when-to-stop/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dd8b73b99cce114a8c5c3e71c1d356f0
+  last_post_guid: cae9b2c06b2dc047cd7a5a86d7a5be79
   score_criteria:
     cats: 0
     description: 3

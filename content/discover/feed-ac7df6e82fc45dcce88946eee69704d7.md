@@ -9,7 +9,6 @@ params:
   websites:
     https://goodenough.us/: false
     https://goodenough.us/blog/: false
-    https://goodenough.us/lab: false
     https://goodenough.us/lab/: false
   blogrolls: []
   in_blogrolls:
@@ -47,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 69
+  postcount: 73
   avgpostlen: 296
 ---

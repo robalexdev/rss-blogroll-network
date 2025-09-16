@@ -21,16 +21,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Hanson + Smashing Pumpkins + Fountains of Wayne + Cheap Trick
-  last_post_description: 'Did you know there was a super-group that released an album
-    in 2009 that consisted of: Weird but true. Enjoy Kind of a Girl by Tinted Windows.
-    Update: I learned from Wikipedia that the guitar play'
-  last_post_date: "2025-08-08T13:52:15Z"
-  last_post_link: https://actsofvolition.com/2025/08/hanson-smashing-pumpkins-fountains-of-wayne-cheap-trick/
+  last_post_title: Digging ditches
+  last_post_description: I work hard at my job, but nothing can compare to how hard
+    I will work on redirecting a stream at the beach. I will dig in the hot sun until
+    my hands are blistered.
+  last_post_date: "2025-09-11T22:26:04Z"
+  last_post_link: https://actsofvolition.com/2025/09/digging-ditches/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: e01eb514bf7dc83073ff9b376e6b17dc
+  last_post_guid: ef5997fc3c9fb79ce42c12cb3b92f1a1
   score_criteria:
     cats: 0
     description: 0

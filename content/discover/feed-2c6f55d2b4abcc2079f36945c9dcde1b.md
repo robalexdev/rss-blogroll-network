@@ -8,6 +8,7 @@ params:
   feedid: 2c6f55d2b4abcc2079f36945c9dcde1b
   websites:
     https://evanhahn.com/: false
+    https://evanhahn.com/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,16 +18,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Notes from July 2025
+  last_post_title: JS fetch converts string request bodies to UTF-8
   last_post_description: |-
-    Here are some of my notes from July 2025. See also: my notes from last month, and the month before, and so on…
-    What I published this July
-    “How I build software quickly” was my marquee post this
-  last_post_date: "2025-07-31T00:00:00Z"
-  last_post_link: https://evanhahn.com/notes-from-july-2025/
+    In short: when a fetch request body is a string, the server will receive UTF-8 bytes.
+    I was recently calling fetch with a string body, like this:
+    await fetch("/foo", {
+      method: "POST",
+      body:
+  last_post_date: "2025-09-06T00:00:00Z"
+  last_post_link: https://evanhahn.com/js-fetch-converts-strings-to-utf8/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 520c1affc7fb01000e33d85b32bcd8af
+  last_post_guid: 8722d454a4b80ba637729b7020192dd7
   score_criteria:
     cats: 0
     description: 3
@@ -38,12 +41,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 9
+  postcount: 8
   avgpostlen: 0
 ---

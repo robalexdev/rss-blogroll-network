@@ -19,15 +19,15 @@ params:
   categories:
   - Ephemeral Scrapbook
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — Edition 2025-30
-  last_post_description: Amid Apple Intelligence delays, Apple still makes money,
-    a lot of it. Doomsayers will have to wait. This edition isn’t AI-news free. Sorry.
-  last_post_date: "2025-08-03T23:20:11Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-30/
+  last_post_title: The Ephemeral Scrapbook — Edition 2025-37
+  last_post_description: The new iPhones are here. The iPhone Air is here. It’s gorgeous.
+    But not for me. Come on in for more details.
+  last_post_date: "2025-09-14T19:04:09Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-37/
   last_post_categories:
   - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: 5228dcfaccacf99a10ebb9fdddff9afb
+  last_post_guid: 21fc5004e209aad60267b27bd9d1e307
   score_criteria:
     cats: 0
     description: 3

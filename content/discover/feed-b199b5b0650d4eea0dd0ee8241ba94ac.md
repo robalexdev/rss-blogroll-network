@@ -1,6 +1,6 @@
 ---
 title: Peter Rohde
-date: "2025-08-10T23:50:19Z"
+date: "2025-08-24T02:15:56Z"
 description: Quantum computer scientist & alpinist.
 params:
   feedlink: https://peterrohde.org/feed/atom/
@@ -18,15 +18,15 @@ params:
   - Climbing
   - General
   relme: {}
-  last_post_title: Miscellaneous Workplace Garbage
+  last_post_title: You just can’t get rid of some useless ASIO sluts
   last_post_description: ""
-  last_post_date: "2025-08-10T23:50:19Z"
-  last_post_link: https://peterrohde.org/miscellaneous-workplace-garbage/
+  last_post_date: "2025-08-24T02:15:56Z"
+  last_post_link: https://peterrohde.org/you-just-cant-get-rid-of-some-useless-asio-sluts/
   last_post_categories:
   - Climbing
   - General
   last_post_language: ""
-  last_post_guid: 758d70e6655d26bf89eecaba915081d3
+  last_post_guid: b5ff00ed5b650a732fb525770b931b4b
   score_criteria:
     cats: 0
     description: 3
@@ -45,5 +45,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 239
+  avgpostlen: 160
 ---

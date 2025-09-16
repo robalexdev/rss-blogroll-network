@@ -19,22 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 人工智能
-  - 思考
-  - 日常
-  - 杂文随笔
+  - Wordpress
+  - 建站
+  - 技术笔记
+  - 软件
   relme: {}
-  last_post_title: 当思考按字数收费
-  last_post_description: 0 Claude、ChatGPT 这些大模型很有趣的一点是，无论人类主观认为问题的难度如何，它都按 token […]
-  last_post_date: "2025-08-11T11:47:17Z"
-  last_post_link: https://anotherdayu.com/2025/7115/
+  last_post_title: WordPress 插件 – 旅行地图 WP Travel Map
+  last_post_description: 最近又做了一个极简风格的 WordPress 旅行地图插件，用于记录去过的地方。 展示页：https://an […]
+  last_post_date: "2025-09-01T20:57:41Z"
+  last_post_link: https://anotherdayu.com/2025/7336/
   last_post_categories:
-  - 人工智能
-  - 思考
-  - 日常
-  - 杂文随笔
+  - Wordpress
+  - 建站
+  - 技术笔记
+  - 软件
   last_post_language: ""
-  last_post_guid: 58a4fb1f31dd3adcdaa68457cebdd2bd
+  last_post_guid: 6dbffb2c679f20deff0fd08354bb0a6b
   score_criteria:
     cats: 0
     description: 3

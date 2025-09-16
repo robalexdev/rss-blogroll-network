@@ -20,14 +20,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 北京女律师质疑体验结果被索赔一千万——碰瓷政府算什么本事？
-  last_post_description: !!binary |
-    5YmN5q615pe26Ze0572R57uc5Y+R5biW5oyH5o6n54ix5bq35Zu95a6+5YGH5L2T5qOA55
-    qE5YyX5Lqs5byg5b6L5biI6KKr6LW36K+J5LqG77yM6KKr6K+J6LWU5YG/6YeR6aKd6auY
-    6L6+5LiA5Y2D5LiH5YWD44CC6LWE5pys5piO5pi+5piv5b2T5oiQ5Liq5LqL5YS/5p2l5Y
-    qe5LqG77yM5Zyo56uL5qGI5pmu6YGN6KaB5Y2K5bm05b6A5LiK77yM5bw=
-  last_post_date: "2025-08-08T10:26:23+08:00"
-  last_post_link: https://xingbianren.cn/post/314.html
+  last_post_title: 诈骗罪单次会见后给家属的书面反馈材料
+  last_post_description: 致张三家属：2025 年 9 月 2
+  last_post_date: "2025-09-10T09:01:10+08:00"
+  last_post_link: https://xingbianren.cn/post/317.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2

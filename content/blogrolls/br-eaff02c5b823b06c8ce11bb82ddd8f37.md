@@ -9,10 +9,6 @@ params:
   - title: Maggie Appleton
     description: Essays on programming, design, and anthropology
     id: 03858ee03b2c85599014eee556fc05ac
-  - title: swissmiss
-    description: swissmiss is an online garden (aka design blog) run by Tina Roth
-      Eisenberg, a Swiss designer gone NYC.
-    id: 0c83f5dad685dc66f5a5b2ab185be365
   - title: CJ Chilvers
     description: I help creators stay sane and productive one newsletter at a time.
     id: 1071bce4eb6c7e439b1b2a5dad189043
@@ -37,9 +33,6 @@ params:
   - title: kottke.org
     description: Jason Kottke’s weblog, home of fine hypertext products since 1998
     id: 7626d2d6fa86e02e6ad59760e54e7c54
-  - title: Dense Discovery
-    description: An updating list of all DD issues
-    id: 8dca77673309cd3533071fc63f28726d
   - title: Ness Labs
     description: Your mind at work
     id: 915ef179b20c121854fe7d12274d65e1

@@ -8,7 +8,8 @@ params:
   feedid: 0dba63fe24212f27cfad9fdbe70c05ad
   websites:
     https://ttntm.me/: false
-    https://ttntm.me/hello: false
+    https://ttntm.me/blog/: false
+    https://ttntm.me/everything/: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true
     https://ttntm.me/notes/: false
@@ -26,25 +27,18 @@ params:
   - https://kayserifserif.place/feed.xml
   - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
-  - https://prma.dev/index.xml
   - https://theleafslug.com/feed.xml
   - https://www.andreinc.net/feed.xml
   - https://www.lkhrs.com/blog/index.xml
   - https://www.markpitblado.me/feed.xml
   - https://www.mikestreety.co.uk/rss-all.xml
   - https://home.hedy.dev/posts/atom.xml
-  - https://prma.dev/dailies/feed.xml
-  - https://prma.dev/feed.xml
-  - https://prma.dev/posts/feed.xml
-  - https://prma.dev/recommendations/feed.xml
-  - https://prma.dev/til/feed.xml
-  - https://prma.dev/tils/feed.xml
   - https://theleafslug.com/dailies/feed.xml
+  - https://theleafslug.com/photos/feed.xml
   - https://theleafslug.com/posts/feed.xml
   - https://theleafslug.com/recommendations/feed.xml
   - https://theleafslug.com/tils/feed.xml
   - https://www.lkhrs.com/
-  - https://www.lkhrs.com/index.xml
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml
   recommender: []
@@ -75,6 +69,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 51
-  avgpostlen: 251
+  postcount: 54
+  avgpostlen: 253
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://medium.com/feed/python4you
   feedtype: rss
   feedid: 2484fa8fa832e090d38e18f72fdfaacb
-  websites: {}
+  websites:
+    https://medium.com/python4you?source=rss----5527f69f4771---4: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -46,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

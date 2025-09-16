@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Four years of running a SaaS in a competitive market
-  last_post_description: Looking back on the last four years, what worked, what didn't.
-  last_post_date: "2025-04-04T07:10:00Z"
-  last_post_link: https://maxrozen.com/on-four-years-running-saas-competitive-market
+  last_post_title: 'OnlineOrNot Diaries 25: you can just build things'
+  last_post_description: You *can* just build things.
+  last_post_date: "2025-08-17T15:10:00Z"
+  last_post_link: https://maxrozen.com/onlineornot-diaries-25-you-can-just-build-things
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a6e1ccc2b81695b5b5bdb149dd91d36
+  last_post_guid: c350d27b9891165a92b130f140ec9dc7
   score_criteria:
     cats: 0
     description: 3
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 89
+  postcount: 90
   avgpostlen: 0
 ---

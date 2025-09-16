@@ -1,6 +1,6 @@
 ---
-title: 把酒诗代码，趁乱写年华。
-date: "2025-08-06T07:33:10Z"
+title: 把酒诗代码
+date: "2025-08-21T03:00:12Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -19,35 +19,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 生活经验 - 美食
-  - 说过的话
+  - 与代码
+  - 生活经验
+  - 美食
   relme: {}
-  last_post_title: "黄葱蛋炒饭\U0001F373\U0001F35A"
+  last_post_title: "武汉凉面\U0001F35C"
   last_post_description: !!binary |
-    5oiR5b6I5pep5bCx566X5piv5Lya6Ieq5bex5YGa6aWt5LqG77yM5aaC5p6c5oqK6JuL54
-    KS6aWt5Lmf566X5YGa44CM5Lya5YGa6aWt44CN55qE6K+d44CC5Z+65pys5LiK5Zyo5LiK
-    5Yid5Lit55qE5pe25YCZ5bCx5bCd6K+V5byA5aeL6Ieq5bex5pCe6aWt5ZCD77yM5YGa55
-    qE5pyA5aSa55qE5bCx5piv6JuL54KS6aWt77yM5LiA6Iis5oOF5Ya15bA=
-  last_post_date: "2025-08-06T07:33:10Z"
-  last_post_link: https://102no.com/2025/08/06/huang-cong-dan-chao-fan/
+    6YKj5pe25YCZ5Yia5q+V5Lia77yM6L+Y5Zyo5q2m5rGJ5LiK54+t77yM5LiA5Liq5LiN5o
+    CO5LmI5aSn55qE5Lmf5LiN5oCO5LmI5q2j6KeE55qE5YWs5Y+477yM6ICB5p2/5bim5oiR
+    5Lus5Y675aSn5o6S5qGj5ZCD5q2m5rGJ55qE5rK554SW5bCP6b6Z6Jm+77yM5LiA6Iis5Y
+    WJ5ZCD6Jm+5LiN5aSq5Yiw5L2N77yM5bCx5Lya54K55LiK5LiA5aSn55s=
+  last_post_date: "2025-08-21T03:00:12Z"
+  last_post_link: https://102no.com/2025/08/21/liang-mian/
   last_post_categories:
-  - 生活经验 - 美食
-  - 说过的话
+  - 与代码
+  - 生活经验
+  - 美食
   last_post_language: ""
-  last_post_guid: febd0e7dde2ea0900bd01f52eee3c6e4
+  last_post_guid: 9cc546830198c656496ac888a6a539cf
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

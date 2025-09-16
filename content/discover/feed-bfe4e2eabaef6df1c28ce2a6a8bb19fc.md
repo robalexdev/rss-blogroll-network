@@ -19,14 +19,14 @@ params:
   categories:
   - Recomendo
   relme: {}
-  last_post_title: K-Pop Demon Hunters/First apartment tool kit/Charting wholeness
-  last_post_description: 'Recomendo - issue #474'
-  last_post_date: "2025-08-10T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/k-pop-demon-hunters-first-apartment-tool-kit-charting-wholeness/
+  last_post_title: Handheld duster/GetYourGuide.com/Expert photo tip
+  last_post_description: 'Recomendo - issue #479'
+  last_post_date: "2025-09-14T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/handheld-duster-getyourguide-com-expert-photo-tip/
   last_post_categories:
   - Recomendo
   last_post_language: ""
-  last_post_guid: e85fbd5ca4537b25166cce6ced8890e7
+  last_post_guid: b870c374fad320b9256c614cfa443c8e
   score_criteria:
     cats: 0
     description: 3

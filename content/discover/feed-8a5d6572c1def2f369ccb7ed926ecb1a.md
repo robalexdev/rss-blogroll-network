@@ -17,8 +17,6 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme:
     https://subtle-echo.pika.page/: true
@@ -27,10 +25,10 @@ params:
     2025. I’ve set myself a short time limit to write and publish this, otherwise
     I’ll never do...
   last_post_date: "2025-02-04T11:51:57Z"
-  last_post_link: https://subtleecho.online/posts/what-i-loved-in-january-2025
+  last_post_link: https://subtle-echo.pika.page/posts/what-i-loved-in-january-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c186f8e5f78e2def42ca258a4d806c75
+  last_post_guid: 5bcb69632d32d46a2ec1d21dff963556
   score_criteria:
     cats: 0
     description: 0

@@ -79,12 +79,11 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
-  - https://blog.citp.princeton.edu/comments/feed/
-  - https://blog.citp.princeton.edu/feed/
   - https://intellectualoid.com/comments/feed/
   - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
   - https://kimberlyhirsh.com/podcast.xml
+  - https://ma.tt/comments/feed/
   - https://memex.naughtons.org/comments/feed/
   - https://memex.naughtons.org/feed/
   - https://om.co/comments/feed/
@@ -100,15 +99,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Same Old Cubs Ownership
-  last_post_description: Hoyer can rationalize his trade deadline decisions all he
-    wants the bottom line is he did not get the job done, and no improvement to the
-    starting pitching rotation has been done. Assad better
-  last_post_date: "2025-08-01T10:59:22-04:00"
-  last_post_link: https://frankmcpherson.blog/2025/08/01/same-old-cubs-ownership.html
+  last_post_title: Accidental Middle Class
+  last_post_description: A question came to mind last night. Was the middle class
+    in the United States intentionally created or simply the happy result of the post
+    World War 2 reconstruction?  I was raised in what I consider
+  last_post_date: "2025-09-13T11:49:12-04:00"
+  last_post_link: https://frankmcpherson.blog/2025/09/13/accidental-middle-class.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c80dcfc9aff23f29ee6bd922c4a032e
+  last_post_guid: ad2739407e3adfd4c6e3fc58d5c12cf8
   score_criteria:
     cats: 0
     description: 0
@@ -126,6 +125,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 4
+  postcount: 7
   avgpostlen: 0
 ---

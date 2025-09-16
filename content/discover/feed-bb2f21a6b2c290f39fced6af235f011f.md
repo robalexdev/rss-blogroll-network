@@ -16,15 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Competitive programming in Haskell: sparse tables'
-  last_post_description: "Posted on July 18, 2025\n  \n  \n  \n  Tagged monoid, semigroup,
-    idempotent, range, query, sum, sparse, table, Haskell, competitive programming\n
-    \ \n\n\n\nContinuing a series of\nposts\non techniques for"
-  last_post_date: "2025-07-18T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2025/07/18/sparse-table.html
+  last_post_title: Decidable equality for indexed data types, take 2
+  last_post_description: |-
+    In a post from a year
+    ago,
+    I explored how to prove decidable equality in Agda of a particular
+    indexed data type. Recently, I discovered a different way to
+    accomplish the same thing, without resorting
+  last_post_date: "2025-08-22T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 56f7b4ffd7660ea049610c0218d80324
+  last_post_guid: 04bb1443634e4c955f88b24b425d4b40
   score_criteria:
     cats: 0
     description: 3

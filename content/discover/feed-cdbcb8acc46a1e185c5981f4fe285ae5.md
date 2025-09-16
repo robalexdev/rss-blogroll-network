@@ -17,29 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 非交互表格
-  last_post_description: |-
-    1 快速入门
-    2 基础功能
-
-    2.1 添加标题
-    2.2 重命名列
-    2.3 行列分组
-    2.4 填充颜色
-    2.5 添加脚注
-
-    3 扩展功能
-
-    3.1 输出格式
-    3.2 渲染公式
-    3.3 添加水印
-
-    4 其它 R
-  last_post_date: "2025-08-05T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2025/08/non-interactive-tables/
+  last_post_title: 斜刺里杀出的拼多多
+  last_post_description: "营收、成本和毛利\n    经营费用\n    经营利润与经营利润率（核心指标）\n    净利润与净利率\n "
+  last_post_date: "2025-09-11T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2025/09/pdd/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b299419031bcec31cee0eba8f1dcf181
+  last_post_guid: 51046b06c7a37c21c2f8aecc008a8a63
   score_criteria:
     cats: 0
     description: 3

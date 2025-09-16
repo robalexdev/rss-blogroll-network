@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Fast, Growable Array With Stable Pointers in C
-  last_post_description: 'My last article about generic data structures in C was written
-    to set the stage for today’s topic: A data structure with constant time indexing,
-    stable pointers, and works well with arena'
-  last_post_date: "2025-08-05T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/segment_array/
+  last_post_title: I Made A Real-Time Build Visualizer
+  last_post_description: Sometimes software takes a long time to compile just due
+    to how much code it has, like in the LLVM project. But often a build is slower
+    than it could be for dumb, fixable reasons. I’ve had the
+  last_post_date: "2025-08-13T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/syscall-build-snooping/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a64fd7c7705bfe0d82404d2b004450e7
+  last_post_guid: 7fe32b83c6b75fda73cc747777e24d3c
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 5
+  postcount: 8
   avgpostlen: 0
 ---

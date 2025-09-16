@@ -6,7 +6,8 @@ params:
   feedlink: https://mappery.org/feed/
   feedtype: rss
   feedid: cd225bd314e247e929a29c1deaea8d8a
-  websites: {}
+  websites:
+    https://mappery.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -17,15 +18,16 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: Join the Pipe
-  last_post_description: Reinder shared this “Stimulating the use of tap water in
-    the bottle that you bring yourself – at the Kohnstammhuis, University of Amsterdam”
-  last_post_date: "2025-08-11T09:00:00Z"
-  last_post_link: https://mappery.org/join-the-pipe/
+  last_post_title: Irish Whiskey Distilleries
+  last_post_description: It seems wherever Reinder travels he finds a Map in the Wild.
+    This one is from a pub in Dublin showing the locations of some of the most famous
+    Irish whiskey (correct spelling for Irish as opposed to
+  last_post_date: "2025-09-14T10:00:00Z"
+  last_post_link: https://mappery.org/irish-whiskey-distilleries/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 1a6ae664cc11be47d36294063269b151
+  last_post_guid: 41798cfd24dbd4e45057d87385d2805e
   score_criteria:
     cats: 0
     description: 3
@@ -37,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

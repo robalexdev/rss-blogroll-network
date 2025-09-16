@@ -19,15 +19,17 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (90)
-  last_post_description: "Good post on what the meaning of heritability. \nOnly a
-    crazy person should do any given job\nA while back I noted that everything sleeps.
-    Now here some recent work on the why.\nMemory in cells\nAs I"
-  last_post_date: "2025-08-09T00:00:00Z"
-  last_post_link: https://nintil.com/links-90/
+  last_post_title: Links (91)
+  last_post_description: |-
+    Lithium orotate seems to help with Alzheimer's
+    Electronics components have gotten very very cheap in the past few decades
+    On LLM adoption from Zvi Mowshowitz
+    On the wild stories where someone that
+  last_post_date: "2025-09-13T00:00:00Z"
+  last_post_link: https://nintil.com/links-91/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4170032d366bd620728c21b974b7282a
+  last_post_guid: 8f2476a7884bdfd7ef07476be9c2830a
   score_criteria:
     cats: 0
     description: 0

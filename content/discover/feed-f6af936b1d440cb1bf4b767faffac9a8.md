@@ -6,7 +6,8 @@ params:
   feedlink: https://xmpp-team.pages.debian.net/blog/feeds/atom.xml
   feedtype: atom
   feedid: f6af936b1d440cb1bf4b767faffac9a8
-  websites: {}
+  websites:
+    https://xmpp-team.pages.debian.net/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -49,12 +50,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 20
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 4
-  avgpostlen: 293
+  postcount: 5
+  avgpostlen: 292
 ---

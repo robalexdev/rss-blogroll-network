@@ -18,18 +18,15 @@ params:
   categories: []
   relme:
     https://cestlaz.zamansky.net/: true
-  last_post_title: Rome in 3 days
+  last_post_title: CS Ed Podcast, connecting with students, and a little AI
   last_post_description: |-
-    Time for a trip report.
-
-    Been in Bologna for a few days now but before that, we started in
-    Rome. Now, I was correctly informed that Italy in August isn't the
-    smartest move - it's hot - 97 degrees out
-  last_post_date: "2025-08-06T02:00:56-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/rome/
+    I listened to the latest episode of Kristen Stephen-Martinez's CS Ed
+    Podcast. The episode focused on Professor Emeritus, William G. Griswold, of UCSD's practice of requiring students meet with
+  last_post_date: "2025-09-07T14:38:00-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/csed-podacst-meet-prof/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 151ac20bab26724747125db041350de4
+  last_post_guid: 7f5fbac480cee547336af6250e5d53c7
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 21
+  postcount: 37
   avgpostlen: 0
 ---

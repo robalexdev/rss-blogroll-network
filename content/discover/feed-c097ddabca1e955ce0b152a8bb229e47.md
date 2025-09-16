@@ -15,10 +15,8 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
   last_post_title: A guestbook and welcome message for my atproto PDS

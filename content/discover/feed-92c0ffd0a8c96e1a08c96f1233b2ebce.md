@@ -1,6 +1,6 @@
 ---
 title: 一叶斋
-date: "2025-07-12T11:09:15Z"
+date: "2025-08-21T12:45:41Z"
 description: 一叶斋
 params:
   feedlink: https://xieguanglei.github.io/blog/feed.xml
@@ -12,21 +12,23 @@ params:
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
+  - title: 中文 RSS 聚合 by MoreRSS
+    description: ""
+    id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 编程随笔
-  last_post_description: !!binary |
-    5ZG95ZCNCgrlkb3lkI3vvIzml6DorrrlpoLkvZXlvLrosIPpg73kuI3ov4fliIbjgIIKCu
-    WRveWQjeeahOacrOi0qOaYr+amguaLrO+8jOaNouiogOS5i++8jOS7o+eggeW/hemhu+W9
-    ouaIkOamguW/teOAggoK5ZG95ZCN5YGa5LiN5aW977yM5qC55pys5Y6f5Zug5b6A5b6A5p
-    iv77yM5Luj56CB6IOM5ZCO55qE5qaC5b+15pys5bCx5ZCr57OK5LiN5rg=
-  last_post_date: "2023-05-03T00:00:00Z"
-  last_post_link: http://xieguanglei.github.io/blog/post/programming-thoughts-2023.html
+  last_post_title: 写在《小丑牌》全卡组金注之后
+  last_post_description: |-
+    经过半年多断断续续的努力，终于为 《小丑牌》 画上句号。获得了「完美主义者+」称号：使用所有卡组在金注难度下获得胜利。
+
+    一共有 15
+  last_post_date: "2025-08-21T00:00:00Z"
+  last_post_link: https://xieguanglei.github.io/blog/2025-08-21/xie-zai-xiao-chou-pai-quan-ka-zu-jin-zhu-zhi-hou
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3096062a84d4a7155af567ddda488693
+  last_post_guid: ac3d717a56b1de8f0b53ffaee03db29e
   score_criteria:
     cats: 0
     description: 3

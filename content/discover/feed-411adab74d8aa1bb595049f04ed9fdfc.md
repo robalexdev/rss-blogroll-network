@@ -8,11 +8,8 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
-    https://frills.dev/blog: false
     https://frills.dev/blog/: false
-    https://frills.dev/bookmarks: false
     https://frills.dev/bookmarks/: false
-    https://frills.dev/changelog: false
     https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
@@ -28,13 +25,14 @@ params:
   relme:
     https://frills.dev/: true
     https://indieweb.social/@frills: true
-  last_post_title: WCAG doesn't round
-  last_post_description: That's it. That's the tip
-  last_post_date: "2025-06-30T00:00:00Z"
-  last_post_link: https://tarnoff.info/2025/06/05/quick-tip-wcag-doesnt-round/
+  last_post_title: Indie Web Burnout
+  last_post_description: Talking about where my head is at with this website and my
+    energy.
+  last_post_date: "2025-09-09T13:19:00Z"
+  last_post_link: https://frills.dev/blog/2025/september/indie-web-burnout/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f1b68fbd88b9f37135e7f8d337bcd61
+  last_post_guid: d00b30242df5f6b0b18c9f68565ecc9b
   score_criteria:
     cats: 0
     description: 3
@@ -52,6 +50,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 106
+  postcount: 114
   avgpostlen: 0
 ---

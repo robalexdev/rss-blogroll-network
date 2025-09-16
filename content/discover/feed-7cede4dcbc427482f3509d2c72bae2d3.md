@@ -12,16 +12,10 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Blogroll
     description: ""
@@ -36,19 +30,21 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Disclaimer
+  last_post_title: Mantle Model
   last_post_description: ""
-  last_post_date: "2025-08-08T04:00:00Z"
-  last_post_link: https://xkcd.com/3126/
+  last_post_date: "2025-09-12T04:00:00Z"
+  last_post_link: https://xkcd.com/3141/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df0551278696146560818c7b82ae108b
+  last_post_guid: d76ca87814969f4dca371647081509e0
   score_criteria:
     cats: 0
     description: 3

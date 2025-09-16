@@ -20,8 +20,6 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: A new job, a new life
@@ -50,5 +48,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 297
 ---

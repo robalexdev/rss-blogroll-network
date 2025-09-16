@@ -19,17 +19,17 @@ params:
   - Notes
   - Premium
   relme: {}
-  last_post_title: Passive Shortening
-  last_post_description: Treasury's continued guidance to maintain coupon sizes for
-    "several quarters" suggests that any support for longer dated rates from issuance
-    changes will be gradual and backloaded. Trump had
-  last_post_date: "2025-08-04T13:00:38Z"
-  last_post_link: https://fedguy.com/passive-shortening/?utm_source=rss&utm_medium=rss&utm_campaign=passive-shortening
+  last_post_title: Global Bond Rout
+  last_post_description: The significant rise in global bond yields in recent months
+    is driven by three intertwined stories that can each shed light on the trajectory
+    of the long yields. First, the Dutch pension fund system
+  last_post_date: "2025-09-08T11:55:49Z"
+  last_post_link: https://fedguy.com/global-bond-rout/?utm_source=rss&utm_medium=rss&utm_campaign=global-bond-rout
   last_post_categories:
   - Notes
   - Premium
   last_post_language: ""
-  last_post_guid: 0648a6f0eeeb087731420160cb104ee5
+  last_post_guid: 51867680e3892d2b5fef8ad9d0d983f2
   score_criteria:
     cats: 0
     description: 3

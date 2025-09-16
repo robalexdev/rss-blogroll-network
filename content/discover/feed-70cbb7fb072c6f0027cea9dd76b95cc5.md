@@ -11,28 +11,26 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender: []
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
   categories:
-  - Business Security
+  - ESET research
   relme: {}
-  last_post_title: 'Black Hat USA 2025: Is a high cyber insurance premium about your
-    risk, or your insurer’s?'
-  last_post_description: A sky-high premium may not always reflect your company’s
-    security posture
-  last_post_date: "2025-08-08T14:25:09Z"
-  last_post_link: https://www.welivesecurity.com/en/business-security/black-hat-usa-2025-cyber-insurance-premium/
+  last_post_title: 'Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure
+    Boot bypass'
+  last_post_description: UEFI copycat of Petya/NotPetya exploiting CVE-2024-7344 discovered
+    on VirusTotal
+  last_post_date: "2025-09-12T09:00:00Z"
+  last_post_link: https://www.welivesecurity.com/en/eset-research/introducing-hybridpetya-petya-notpetya-copycat-uefi-secure-boot-bypass/
   last_post_categories:
-  - Business Security
+  - ESET research
   last_post_language: ""
-  last_post_guid: 766ba101d0f3a55439766610fc85898e
+  last_post_guid: 1484cc670118b6effb30247400686083
   score_criteria:
     cats: 0
     description: 3

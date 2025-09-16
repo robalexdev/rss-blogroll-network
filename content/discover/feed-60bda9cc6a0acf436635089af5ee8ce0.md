@@ -6,7 +6,8 @@ params:
   feedlink: https://mjg59.dreamwidth.org/data/rss
   feedtype: rss
   feedid: 60bda9cc6a0acf436635089af5ee8ce0
-  websites: {}
+  websites:
+    https://mjg59.dreamwidth.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -20,7 +21,9 @@ params:
   categories:
   - advogato
   - fedora
-  relme: {}
+  relme:
+    https://mjg59.dreamwidth.org/: true
+    https://nondeterministic.computer/@mjg59: true
   last_post_title: Cordoomceps - replacing an Amiga's brain with Doom
   last_post_description: There's a lovely device called a pistorm, an adapter board
     that glues a Raspberry Pi GPIO bus to a Motorola 68000 bus. The intended use case
@@ -41,10 +44,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

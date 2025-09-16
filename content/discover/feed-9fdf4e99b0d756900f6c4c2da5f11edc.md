@@ -1,12 +1,13 @@
 ---
 title: Mark's Notes
-date: "2024-03-20T12:00:00Z"
+date: "2025-08-25T12:00:00Z"
 description: ""
 params:
   feedlink: https://www.kmjn.org/notes/recent.atom
   feedtype: atom
   feedid: 9fdf4e99b0d756900f6c4c2da5f11edc
-  websites: {}
+  websites:
+    https://www.kmjn.org/notes/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A hallucinated new definition of AI
+  last_post_title: Teaching programming languages
   last_post_description: ""
-  last_post_date: "2024-03-20T12:00:00Z"
-  last_post_link: https://www.kmjn.org/notes/hallucinated_ai_definition.html
+  last_post_date: "2025-08-25T12:00:00Z"
+  last_post_link: https://www.kmjn.org/notes/teaching_pls.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9770c32ae83c7ee3504c94ed58756573
+  last_post_guid: 6cad8713d8580ec2f60530d81801e4ac
   score_criteria:
     cats: 0
     description: 0
@@ -34,12 +35,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 33
+  postcount: 34
   avgpostlen: 294
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://kathara.in/blogs/index.xml
   feedtype: rss
   feedid: 607eaea0781cd5fbd0d77ee7455a1b0e
-  websites: {}
+  websites:
+    https://kathara.in/blogs/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

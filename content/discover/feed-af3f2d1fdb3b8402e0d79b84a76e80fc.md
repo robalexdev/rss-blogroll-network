@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2025-08-11T13:05:02Z"
+date: "2025-09-15T05:33:00Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Node.js 程序以 Keyless 模式从  1Password 读取密钥
-  last_post_description: Node.js 程序以 Keyless 模式从  1Password 读取密钥
-  last_post_date: "2025-06-16T07:51:13Z"
-  last_post_link: https://baiyun.me/nodejs-keyless-read-1password-secrets
+  last_post_title: 基于 Surge 的 DNS 优化指南
+  last_post_description: 基于 Surge 的 DNS 优化指南
+  last_post_date: "2025-08-19T06:23:30Z"
+  last_post_link: https://baiyun.me/surge-dns-optimization-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c2437dd1026a21719774305a07d294d9
+  last_post_guid: 72a2e1463b2cbe3a98cab6a2c37120b2
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 55
-  avgpostlen: 244
+  postcount: 56
+  avgpostlen: 245
 ---

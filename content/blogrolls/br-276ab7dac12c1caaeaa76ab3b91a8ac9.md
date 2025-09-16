@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Mon, 11 Aug 2025 05:36:29 GMT
+date: Mon, 15 Sep 2025 04:06:47 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -19,9 +19,6 @@ params:
   - title: geo on Sourcepole
     description: Recent content in geo on Sourcepole
     id: 051a39ec171919ae1a23594bf63505a0
-  - title: Camptocamp News and Events
-    description: Innovative Solutions by Open Source Experts
-    id: 06ee6739665ffd05ace44e5358f014ea
   - title: OPENGIS.ch
     description: OPEN-SOURCE GEONINJAS
     id: 08acfa848188ea5c9c2d6fed6839c3a3
@@ -43,9 +40,6 @@ params:
   - title: Free and Open Source GIS Ramblings
     description: written by Anita Graser aka Underdark
     id: 174f816cea3d8aa2b3858ea199f12f2f
-  - title: WhereGroup
-    description: ""
-    id: 19aef81b61c7e2ba7c24f7d5ce7acaa0
   - title: RSS GeoTux (Geo-Noticias,Geo-Blogs)
     description: Soluciones Geoinformáticas Libres
     id: 1c37b2c8784e251372da88d1c1156f94
@@ -70,9 +64,6 @@ params:
   - title: Strk's Blog
     description: Recent content on Strk's Blog
     id: 2602bbe18dd9d1eed1d7dc74f891ab2f
-  - title: News
-    description: ""
-    id: 2849e08f0b2b0baf4549bd7957489084
   - title: Sean Gillies
     description: ""
     id: 28d794e7b68df714f87543a2791ca8e1
@@ -96,9 +87,6 @@ params:
   - title: Geo
     description: ""
     id: 3f48bd926b6612d0886cc8b14e738252
-  - title: Blog on Alexandre Neto
-    description: Recent content in Blog on Alexandre Neto
-    id: 3f605c7b37d29f2907d8cf7c6579efd6
   - title: XYCarto
     description: Geospatial Development and Engineering
     id: 4064077c7a00b5c4f44c6c697d2c709a
@@ -275,9 +263,6 @@ params:
       time.  See my About page for more info about me.  Note that my views and opinions
       expressed here are my own and do not reflect the
     id: c86d105888d0a4e294c7238963fcd5fb
-  - title: GISInternals News
-    description: ""
-    id: cb9d0b339aee0882d1abdb6ac15d57cc
   - title: Mappery
     description: For the love of maps
     id: cd225bd314e247e929a29c1deaea8d8a

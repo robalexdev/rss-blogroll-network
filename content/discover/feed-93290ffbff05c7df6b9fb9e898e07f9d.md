@@ -6,7 +6,8 @@ params:
   feedlink: https://moztrap.wordpress.com/feed/
   feedtype: rss
   feedid: 93290ffbff05c7df6b9fb9e898e07f9d
-  websites: {}
+  websites:
+    https://moztrap.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla Projects
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-08-06T17:41:09Z"
+date: "2025-08-11T13:56:25Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'To Be Or Not To Be: A Name'
-  last_post_description: I return to this elusive question once again. Some time last
-    year I waxed philosophical on identity, then interpreted my attempt at high-brow
-    thought into layman’s terms.  What had gotten...
-  last_post_date: "2025-08-06T17:41:09Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/to-be-or-not-to-be-a-name
+  last_post_title: 25 in ’25 - July
+  last_post_description: 'A month of accomplishment! At the beginning of 2025, I set
+    a goal: to achieve 25 Actionable Items in 2025. Thus far, I’ve been keeping tabs
+    on my journey each month...'
+  last_post_date: "2025-08-11T13:56:25Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-july
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1898c0acfd88979ef24642ff5d5873da
+  last_post_guid: b050c19e9e86fe9726572af19d9e3cbb
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: adb7ca764a42bad01a0ccae2df09c2fa
   websites:
-    https://news.ycombinator.com/: false
+    https://news.ycombinator.com/: true
   blogrolls: []
   in_blogrolls:
   - title: English RSS collated by MoreRSS
@@ -17,10 +17,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM
+  last_post_title: Decentralized YouTube alternative adds livestream scheduling in
+    new release
   last_post_description: Comments
-  last_post_date: "2025-08-11T10:02:08Z"
-  last_post_link: https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/
+  last_post_date: "2025-09-15T03:27:34Z"
+  last_post_link: https://news.itsfoss.com/peertube-7-3/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea
@@ -35,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

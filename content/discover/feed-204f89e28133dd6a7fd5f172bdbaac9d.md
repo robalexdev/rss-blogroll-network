@@ -18,14 +18,14 @@ params:
   categories:
   - chuan
   relme: {}
-  last_post_title: '王川: 为什么利润翻一倍但股价可能翻九倍'
-  last_post_description: 1/ 股票价格上涨的直接原因是买家比卖家多。 这里笔者主要讨论的是美国股市的经验。
-  last_post_date: "2025-04-28T20:59:07Z"
-  last_post_link: https://chuan.us/archives/960?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%258e%258b%25e5%25b7%259d-%25e4%25b8%25ba%25e4%25bb%2580%25e4%25b9%2588%25e5%2588%25a9%25e6%25b6%25a6%25e7%25bf%25bb%25e4%25b8%2580%25e5%2580%258d%25e4%25bd%2586%25e8%2582%25a1%25e4%25bb%25b7%25e5%258f%25af%25e8%2583%25bd%25e7%25bf%25bb%25e4%25b9%259d%25e5%2580%258d
+  last_post_title: 王川：从九十亿美元对冲基金破产的教训看风险管理
+  last_post_description: 1/ 判断自己是否真正在复合增长, 有两个关键角度：
+  last_post_date: "2025-09-09T23:17:19Z"
+  last_post_link: https://chuan.us/archives/967?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%258e%258b%25e5%25b7%259d%25ef%25bc%259a%25e4%25bb%258e%25e4%25b9%259d%25e5%258d%2581%25e4%25ba%25bf%25e7%25be%258e%25e5%2585%2583%25e5%25af%25b9%25e5%2586%25b2%25e5%259f%25ba%25e9%2587%2591%25e7%25a0%25b4%25e4%25ba%25a7%25e7%259a%2584%25e6%2595%2599%25e8%25ae%25ad%25e7%259c%258b%25e9%25a3%258e%25e9%2599%25a9%25e7%25ae%25a1
   last_post_categories:
   - chuan
   last_post_language: ""
-  last_post_guid: 94e97050ffa99587c091d6fa198e0915
+  last_post_guid: 8ddbe84458b21606650f209c82b66fe2
   score_criteria:
     cats: 0
     description: 0

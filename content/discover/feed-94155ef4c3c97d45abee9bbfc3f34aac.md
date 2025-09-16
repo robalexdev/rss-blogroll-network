@@ -15,33 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游轮攻略
+  - Capital One 商业信用卡
+  - 无年费信用卡
+  - 第一资本 Capital One
+  - 返现信用卡
   relme: {}
-  last_post_title: 邮轮预订常见问题 Q&A
-  last_post_description: !!binary |
-    5YeG5aSH5Z2Q6YKu6L2u5Y205LiA5aS06Zu+5rC077yf5b6I5aSa5Lq656ys5LiA5qyh6a
-    KE6K6i6YO95Lya5pyJ5ZCE56eN55aR6Zeu77ya5YS/56ul5oCO5LmI5pS26LS577yf6ZqP
-    5py65oi/5piv5LuA5LmI5oSP5oCd77yf5bCP6LS56IO95LiN6IO95LiN5LuY77yf5pys5p
-    aH5pW055CG5LqG6YKu6L2u5bi46KeB6Zeu6aKY6Kej562U77yM5Lul55o=
-  last_post_date: "2025-08-10T15:00:04Z"
-  last_post_link: https://www.uscreditcardguide.com/faq-when-booking-a-cruise/?utm_source=rss&utm_medium=rss&utm_campaign=faq-when-booking-a-cruise
+  last_post_title: Capital One Spark Cash Select 商业信用卡【2025.9 更新：$750 开卡奖励】
+  last_post_description: Capital One Spark Cash Select 商业信用卡简介 【2025.9 更新】$750 奖励回归。
+    【2024.9 更新】$750 奖励过期了，目前的开卡奖励是 $500。 【2023.11 更新】$750
+  last_post_date: "2025-09-14T14:10:01Z"
+  last_post_link: https://www.uscreditcardguide.com/capital-one-spark-cash-select/?utm_source=rss&utm_medium=rss&utm_campaign=capital-one-spark-cash-select
   last_post_categories:
-  - 游轮攻略
+  - Capital One 商业信用卡
+  - 无年费信用卡
+  - 第一资本 Capital One
+  - 返现信用卡
   last_post_language: ""
-  last_post_guid: c6fb27eef23c16cba0c65fb0e0df74d8
+  last_post_guid: f9e2ac0a665e0c1a6b26bab956e0eea9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

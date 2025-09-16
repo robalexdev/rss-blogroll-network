@@ -1,6 +1,6 @@
 ---
 title: Nicholas Bate
-date: "2025-06-11T06:55:37+01:00"
+date: "2025-09-11T09:44:46+01:00"
 description: Business of Life + Life of Business
 params:
   feedlink: https://feeds.feedburner.com/NicholasBate
@@ -17,15 +17,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Catch Up Wednesday 35
-  last_post_description: '25 Mini Standards. The Writing Primer. Bram, A Spy Story:
-    a story of coming of age, of Queen and country and the origins of Covid-19. “Once
-    you start reading this book, it’s difficult to put down'
-  last_post_date: "2025-06-11T06:55:37+01:00"
-  last_post_link: https://blog.strategicedge.co.uk/2025/06/catch-up-wednesday-35.html
+  last_post_title: So Long, Typepad.
+  last_post_description: It was a great ride. It was an excellent platform and it
+    allowed me to write and reflect and interact with my audience. It had a great
+    batch of features. It’s a shame it’s ending on the 30th of
+  last_post_date: "2025-09-11T09:48:06+01:00"
+  last_post_link: https://blog.strategicedge.co.uk/2025/09/so-long-typepad-1.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 15f2ba8a8cc0f85a095368ec3869f9b6
+  last_post_guid: dfb20ec1453e78b2b7c806b8fddb051b
   score_criteria:
     cats: 0
     description: 3
@@ -44,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 227
+  avgpostlen: 208
 ---

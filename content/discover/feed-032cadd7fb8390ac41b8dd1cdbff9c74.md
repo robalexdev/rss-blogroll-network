@@ -1,6 +1,6 @@
 ---
 title: EzraKnotLab
-date: "2025-08-09T13:43:58Z"
+date: "2025-08-31T09:14:49Z"
 description: "Bruno Leopold CHEM PhD |Energy Research|Data Viz|CmonCity|NASA|Tech|⚽\U0001F3C0\nI,
   a universe of atoms, an atom in the universe."
 params:
@@ -17,17 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: EKL 202550809
-  last_post_description: |-
-    Keywords
-
-    《武者归来》
-    Short Summer Break 2025 0725-0805
-  last_post_date: "2025-08-09T06:04:02Z"
-  last_post_link: https://ezraknotlab.github.io/post/ekl-202550809/
+  last_post_title: EKL 20250830 Revisit
+  last_post_description: "Keywords\n\nBoxing \U0001F94A\nAnouncements\nE-diet\nBuild
+    in silence."
+  last_post_date: "2025-08-31T08:17:58Z"
+  last_post_link: https://ezraknotlab.github.io/post/ekl-20250830-revisit/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8374f44debf7137410d1fda1a0dd7cf7
+  last_post_guid: d7257aad7c56e3eb5925f3a42defb6e4
   score_criteria:
     cats: 0
     description: 3
@@ -46,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 100
-  avgpostlen: 262
+  avgpostlen: 263
 ---

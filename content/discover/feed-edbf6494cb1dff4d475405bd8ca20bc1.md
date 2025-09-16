@@ -16,28 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: View-Mode - Emacs's Hidden Modal Editing Gem?
-  last_post_description: |-
-    The Rabbit Hole
-    View Mode
-    The Setup
-    Baby Proofing
-    Cursor
-    Subtleties
-    Foibles
-    Improvements?
-    Conclusion
-
-
-
-
-    The Rabbit Hole
-    I’ve fallen down another rabbit hole, but then again, this is Emacs we’re
-  last_post_date: "2025-08-01T08:30:00+01:00"
-  last_post_link: https://emacs.dyerdwelling.family/emacs/20250731123820-emacs--discovering-view-mode-emacss-hidden-modal-editing-gem/
+  last_post_title: Debugging Software Breakage with Git Stash and Emacs
+  last_post_description: We’ve all been there, your code was working perfectly from
+    a clean checkout, but after making a bunch of changes across multiple files, something
+    has broken. The dreaded question arises! which
+  last_post_date: "2025-09-10T08:00:00+01:00"
+  last_post_link: https://emacs.dyerdwelling.family/emacs/20250826103741-emacs--debugging-software-breakage-with-git-stash-and-emacs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b016d8faea048cabc955f31529c61d89
+  last_post_guid: c94deb9a6f52c902da3426cbe4e2a44c
   score_criteria:
     cats: 0
     description: 3
@@ -55,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 139
+  postcount: 157
   avgpostlen: 0
 ---

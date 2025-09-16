@@ -19,16 +19,16 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Kristal
-  last_post_description: Nieuw, waar oud uiteindelijk moest gaan klinken. Want zo
-    zijn we toch, evengoed onverwachts geworden, ooit gewezen, gekristalliseerd. Ik
-    praat met Marjan, terwijl ik terugdenk dat ik met haar & zus
-  last_post_date: "2025-08-09T23:19:13Z"
-  last_post_link: https://zijperspace.nl/kristal/
+  last_post_title: Dagafsluit
+  last_post_description: De neiging om me op te sluiten wordt sterker. Ik moet niets
+    hebben van regen, noch van te veel aan zon. Alles moet middelmatig zijn, of anders
+    minstens dragelijk om me te vervoeren naar een plek van
+  last_post_date: "2025-09-13T22:56:48Z"
+  last_post_link: https://zijperspace.nl/dagafsluit/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: 15012edf102e0c091de897c5cfb319ed
+  last_post_guid: 2400059fa6906c597f929ef374d81dee
   score_criteria:
     cats: 0
     description: 3

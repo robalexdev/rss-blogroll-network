@@ -16,21 +16,14 @@ params:
     id: 796603efcff00ba474bbbd88e566b727
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: ""
-    description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
   - development
   relme: {}

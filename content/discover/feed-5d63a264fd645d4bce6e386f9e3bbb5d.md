@@ -129,18 +129,11 @@ params:
   - https://www.petergoes.nl/blog/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
-  - https://alexandrawolfe.ca/comments/feed/
-  - https://ash.ms/atom-bookmarks.xml
-  - https://bne.social/@ash.rss
-  - https://www.goodreads.com/review/list_rss/11559548
+  - https://alexandrawolfe.ca/feed.xml
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
-  - https://birming.com/feed/
-  - https://birming.com/feed/?type=rss
   - https://birming.com/podcast.xml
-  - https://blog.pcora.eu/feed/
-  - https://blog.pcora.eu/feed/?type=rss
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://bnjmn.org/comments/feed/
@@ -149,11 +142,11 @@ params:
   - https://buttondown.com/rss.xml
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/
+  - https://danq.me/comments/feed/
   - https://darthmall.net/feed/all.xml
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://darthmall.net/feed/photographs.xml
-  - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
   - https://fs.blog/comments/feed/
   - https://www.farnamstreetblog.com/feed/
@@ -166,17 +159,13 @@ params:
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
-  - https://www.jasonjournals.com/feeds/posts/default
-  - https://www.jasonjournals.com/feeds/posts/default?alt=rss
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
   - https://kevquirk.com/notes-feed
   - https://kevquirk.com/posts-feed
   - https://kevquirk.com/watch-log-feed
-  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
-  - https://michal.sapka.me/rss.xml
   - https://mijndertstuij.nl/posts-feed.xml
   - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
@@ -210,26 +199,31 @@ params:
   - https://www.josemunozmatos.com/changelog/rss.xml
   - https://www.met-k.com/comments/feed/
   - https://www.wackomenace.co.uk/blog/atom.xml
+  - https://www.wackomenace.co.uk/essays/atom.xml
+  - https://www.wackomenace.co.uk/essays/rss.xml
   recommender: []
   categories:
-  - blaugust2025
+  - indieweb carnival
+  - life
+  - love
   - personal
-  - reflection
-  - thoughts
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: To Blaugust or not to Blaugust
-  last_post_description: "\uFEFF\x49\x20\x62\x65\x67\x61\x6E\x20\x74\x68\x69\x73\x20\x69\x6E\x20\x6D\x79\x20\x6E\x6F\x74\x65\x62\x6F\x6F\x6B\x2C\x20\x62\x75\x74\x20\x73\x6F\x6D\x65\x77\x68\x65\x72\x65\x20\x62\x65\x74\x77\x65\x65\x6E\x20\x73\x65\x6E\x74\x65\x6E\x63\x65\x73\x2C\x20\x49\x20\x64\x72\x69\x66\x74\x65\x64\x20\x74\x6F\x20\x74\x68\x65\x20\x6B\x65\x79\x62\x6F\x61\x72\x64\x2E\x20\x49\u2019\x6D\x20\x6E\x6F\x74\x20\x73\x75\x72\x65\x20\x77\x68\x79\x2E\x20\x54\x68\x65\x20\x70\x65\x6E\x20\x66\x65\x6C\x74\x20\x68\x65\x61\x76\x79\x2E\x20\x54\x68\x65\x20\x77\x6F\x72\x64\x73\x20\x77\x65\x72\x65\x20\x63\x6F\x6D\x69\x6E\x67\x20\x6F\x75\x74\x20\x61\x73\x20\x69\x66\x20\x64\x72\x61\x67\x67\x65\x64\x20\x62\x79\x20\x66\x6F\x72\x63\x65\x2E\x20\x53\x6F\x20\x49\x20\x73\x61\x74\x20\x6F\x6E\x20\x6D\x79"
-  last_post_date: "2025-08-11T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/To_Blaugust_or_not_to_Blaugust
+  last_post_title: on second person birds - a love story
+  last_post_description: |-
+    This is my submission for the IndieWeb Carnival September 2025 : *second person birds hosted by Fractal Kitty
+
+    When I saw Fractal Kitty’s theme for September on the list, I, the polymath that I am,
+  last_post_date: "2025-09-11T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/on_second_person_birds_-_a_love_story
   last_post_categories:
-  - blaugust2025
+  - indieweb carnival
+  - life
+  - love
   - personal
-  - reflection
-  - thoughts
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:

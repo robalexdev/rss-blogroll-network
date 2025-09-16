@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2025-08-08T11:12:26Z"
+date: "2025-09-05T16:40:08Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -19,35 +19,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - MPC
-  - 项目分析
+  - 加密
   relme: {}
-  last_post_title: 对 Arcium Network 项目的分析
-  last_post_description: 项目背景Arcium Network 是 Solana
-  last_post_date: "2025-08-10T15:19:47Z"
-  last_post_link: https://smallyu.net/2025/08/05/%E5%AF%B9Arcium-Network%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%86%E6%9E%90/
+  last_post_title: 理解哈希函数与序列化
+  last_post_description: Hash functionHash function 用于处理数据和其
+  last_post_date: "2025-09-07T16:37:55Z"
+  last_post_link: https://smallyu.net/2021/10/13/%E7%90%86%E8%A7%A3%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%E4%B8%8E%E5%BA%8F%E5%88%97%E5%8C%96/
   last_post_categories:
-  - MPC
-  - 项目分析
+  - 加密
   last_post_language: ""
-  last_post_guid: 4dd86446408d08c0ce56fd4fd09a6968
+  last_post_guid: eb6b691de2778a1d19fe8e8a6c10438a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 156
+  postcount: 96
   avgpostlen: 244
 ---

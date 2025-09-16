@@ -1,6 +1,6 @@
 ---
 title: Dragoncatcher the blog
-date: "2025-06-11T22:45:12Z"
+date: "2025-09-14T18:32:52Z"
 description: ""
 params:
   feedlink: https://www.robinsloan.com/lab.xml
@@ -16,16 +16,15 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: What's the smallest possible LLM?
-  last_post_description: The extremities of the space/time tradeoff. Read here.
-  last_post_date: "2025-06-09T20:00:00Z"
-  last_post_link: https://www.robinsloan.com/lab/smallest-possible/
+  last_post_title: Time and materials
+  last_post_description: An evocative constellation. Read here.
+  last_post_date: "2025-09-14T11:00:00Z"
+  last_post_link: https://www.robinsloan.com/lab/time-and-materials/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7cd9587f93483f156ef85a66a8ec18e9
+  last_post_guid: 17ae6ef1429302ce9719c5ff5590db24
   score_criteria:
     cats: 0
     description: 0

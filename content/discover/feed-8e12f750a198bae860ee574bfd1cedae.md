@@ -1,6 +1,6 @@
 ---
 title: Tomaz's dev blog
-date: "2025-04-24T11:28:18+02:00"
+date: "2025-09-06T15:44:42+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/2640003666891728724/posts/default

@@ -6,7 +6,8 @@ params:
   feedlink: https://www.chenshaowen.com/atom.xml
   feedtype: rss
   feedid: 478db7edf4ff82abccccd76e73c511ab
-  websites: {}
+  websites:
+    https://www.chenshaowen.com/: true
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -18,27 +19,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GPU
-  - Linux
-  - NVIDIA
-  - 博客
-  - 清理
-  - 运维
+  - AI
+  - Benchmark
+  - Cache
+  - vLLM
+  - 博文
+  - 推理
   relme: {}
-  last_post_title: 如何清理僵尸进程
-  last_post_description: '1. 什么是僵尸进程 进程的创建过程: 父进程调用 fork() 创建子进程 子进程执行 exec() 加载新程序
-    子进程结束执行，调用 exit() 或返回 父进程调用 wait()'
-  last_post_date: "2025-08-07T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/how-to-clean-zombie-processes.html
+  last_post_title: 什么是 Prefix Cache
+  last_post_description: 1. 什么是 Prefix Cache 在模型推理场景下，经常会使用缓存机制来提升吞吐和性能。常见的有两种缓存机制：
+    Key-Value Cache (KV
+  last_post_date: "2025-09-11T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/what-is-prefix-cache.html
   last_post_categories:
-  - GPU
-  - Linux
-  - NVIDIA
-  - 博客
-  - 清理
-  - 运维
+  - AI
+  - Benchmark
+  - Cache
+  - vLLM
+  - 博文
+  - 推理
   last_post_language: ""
-  last_post_guid: 6745b196bbf57e757a6eff558768637c
+  last_post_guid: 1c4ec11696907955f24e80fc5f7b64bb
   score_criteria:
     cats: 0
     description: 3
@@ -50,12 +51,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 639
+  postcount: 659
   avgpostlen: 0
 ---

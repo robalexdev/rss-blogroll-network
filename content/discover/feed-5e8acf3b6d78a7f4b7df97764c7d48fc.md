@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Gist of Go: Signaling'
-  last_post_description: Sending events between goroutines.
-  last_post_date: "2025-07-20T18:00:00Z"
-  last_post_link: https://antonz.org/go-concurrency/signaling/
+  last_post_title: Building blocks for idiomatic Go pipelines
+  last_post_description: Unopinionated and composable channel operations.
+  last_post_date: "2025-08-11T12:30:00Z"
+  last_post_link: https://antonz.org/chans/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eba066fdb4b4617a8657408da568f366
+  last_post_guid: 5609bb41e301b86ef2f8d109193039bc
   score_criteria:
     cats: 0
     description: 3

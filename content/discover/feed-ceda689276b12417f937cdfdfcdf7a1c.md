@@ -11,40 +11,44 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Frontend Development
-  - JavaScript
+  - AI Agents
+  - Contributed
+  - Data
+  - Large Language Models
   relme: {}
-  last_post_title: 'Beyond JSX: Rethinking the Component Model in Frontend'
+  last_post_title: Agentic AI Is Key To Preventing Costly AI Hallucinations
   last_post_description: |-
-    JSX (JavaScript XML) gave developers a familiar way to write interfaces, blending HTML-like syntax with JavaScript’s power. But as applications
-    The post Beyond JSX: Rethinking the Component Model
-  last_post_date: "2025-08-11T17:40:54Z"
-  last_post_link: https://thenewstack.io/beyond-jsx-rethinking-the-component-model-in-frontend/
+    Ask any GenAI agent a question, and you risk receiving an inaccurate response or hallucination. AI hallucinations pose significant risks
+    The post Agentic AI Is Key To Preventing Costly AI
+  last_post_date: "2025-09-14T16:00:27Z"
+  last_post_link: https://thenewstack.io/agentic-ai-is-key-to-preventing-costly-ai-hallucinations/
   last_post_categories:
-  - Frontend Development
-  - JavaScript
+  - AI Agents
+  - Contributed
+  - Data
+  - Large Language Models
   last_post_language: ""
-  last_post_guid: 52d46ca0000c0bfe0cd136ed8b1082cb
+  last_post_guid: 77e7d091d5e51d482e65fa46d08519dd
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

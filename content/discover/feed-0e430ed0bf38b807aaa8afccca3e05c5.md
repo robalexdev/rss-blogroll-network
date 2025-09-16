@@ -6,7 +6,8 @@ params:
   feedlink: https://www.greenbone.net/en/feed/
   feedtype: rss
   feedid: 0e430ed0bf38b807aaa8afccca3e05c5
-  websites: {}
+  websites:
+    https://www.greenbone.net/en/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian Derivatives
@@ -15,49 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Benelux
   - Blog
-  - CISA KEV
-  - CVE-2025-49704
-  - CVE-2025-49706
-  - CVE-2025-53770
-  - CVE-2025-53771
-  - Microsoft SharePoint
-  - RCE
-  - Ransomware
-  - Remote Code Execution
-  - Remote-Code-Ausführung
-  - Schwachstellenmanagement
-  - ToolShell
+  - Cyber Resilience
+  - Cybersec Netherlands
+  - Greenbone
+  - NIS2
+  - OpenVAS
+  - Utrecht
   - Vulnerability Management
-  - Zero-Day
   - cybersecurity
+  - it security
   relme: {}
-  last_post_title: 'ToolShell: Patch Bypass Prompts Emergency Alerts for Microsoft
-    SharePoint'
-  last_post_description: On Saturday, July 19th, flaws in Microsoft SharePoint Server
-    became the subject of emergency cybersecurity alerts worldwide. Four CVEs are
-    involved and collectively dubbed “ToolShell”; two
-  last_post_date: "2025-08-05T07:38:03Z"
-  last_post_link: https://www.greenbone.net/en/blog/toolshell-patch-bypass-prompts-emergency-alerts-for-microsoft-sharepoint/
+  last_post_title: OPENVAS B.V. Debuts at Cybersec Netherlands 2025 in Utrecht
+  last_post_description: Utrecht will be the central meeting point for the cybersecurity
+    community on September 10 – 11, 2025. OPENVAS B.V. will make its first appearance
+    at Cybersec Netherlands, marking an important
+  last_post_date: "2025-09-05T08:13:43Z"
+  last_post_link: https://www.greenbone.net/en/blog/openvas-b-v-debuts-at-cybersec-netherlands-2025-in-utrecht/
   last_post_categories:
+  - Benelux
   - Blog
-  - CISA KEV
-  - CVE-2025-49704
-  - CVE-2025-49706
-  - CVE-2025-53770
-  - CVE-2025-53771
-  - Microsoft SharePoint
-  - RCE
-  - Ransomware
-  - Remote Code Execution
-  - Remote-Code-Ausführung
-  - Schwachstellenmanagement
-  - ToolShell
+  - Cyber Resilience
+  - Cybersec Netherlands
+  - Greenbone
+  - NIS2
+  - OpenVAS
+  - Utrecht
   - Vulnerability Management
-  - Zero-Day
   - cybersecurity
+  - it security
   last_post_language: ""
-  last_post_guid: 0e9d75584f31db0a7ac60a46b7716db4
+  last_post_guid: b2457e9dbd323b6f716fac297145a653
   score_criteria:
     cats: 0
     description: 3
@@ -69,8 +59,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

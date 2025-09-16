@@ -6,7 +6,8 @@ params:
   feedlink: https://softwareliberopinerolo.org/feed/
   feedtype: rss
   feedid: 03bbf3bae82a92f0ede8c0fa13f7946a
-  websites: {}
+  websites:
+    https://softwareliberopinerolo.org/: true
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

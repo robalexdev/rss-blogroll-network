@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Heart of Software Engineering Still Beats
-  last_post_description: 'A few weeks ago, I had a conversation that’s stayed with
-    me. A colleague from another department said: “I’ve always been able to read and
-    understand code, even debug it, but I could never write'
-  last_post_date: "2025-06-27T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/the-heart-of-software-engineering-still-beats/
+  last_post_title: The Extra Load We Carry
+  last_post_description: When I came across a recent Harvard Business Review article
+    on the hidden penalty of using AI at work, it wasn’t the AI part that stood out
+    to me, even though I’m studying this very topic as part
+  last_post_date: "2025-08-12T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/the-extra-load-we-carry/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cad581d39966c1ac5ae91838bb37f094
+  last_post_guid: 91a04a7c15ac6dcfd07406c9b210bf53
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 23
+  postcount: 20
   avgpostlen: 0
 ---

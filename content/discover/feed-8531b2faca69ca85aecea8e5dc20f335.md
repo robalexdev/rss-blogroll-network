@@ -7,7 +7,8 @@ params:
   feedlink: https://lil.law.harvard.edu/blog/feed/
   feedtype: rss
   feedid: 8531b2faca69ca85aecea8e5dc20f335
-  websites: {}
+  websites:
+    https://lil.law.harvard.edu/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Code4Lib
@@ -17,15 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LIL Awarded AALL Public Access to Government Information Award
-  last_post_description: This past week members of the Library Innovation Lab team
-    traveled to Portland, Oregon to receive the Public Access to Government Information
-    Award from AALL for our data.gov archive.
-  last_post_date: "2025-07-30T00:00:00Z"
-  last_post_link: https://lil.law.harvard.edu/blog/2025/07/30/lil-awarded-aall-public-access-to-government-information-award/
+  last_post_title: 'Live and Let Die: Rethinking Personal Digital Archiving, Memory,
+    and Forgetting Through a Library Lens'
+  last_post_description: ""
+  last_post_date: "2025-08-20T23:06:00Z"
+  last_post_link: https://lil.law.harvard.edu/blog/2025/08/20/live-and-let-die-rethinking-personal-digital-archiving-memory-and-forgetting-through-a-library-lens/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6fbd8b7f694fe8dda8f7c65ab59a5211
+  last_post_guid: 0cffb2d532b992d9c0caadbc2e977130
   score_criteria:
     cats: 0
     description: 3
@@ -37,12 +37,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 411
+  postcount: 415
   avgpostlen: 0
 ---

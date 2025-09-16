@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Astro-blog记录(7) - 小修小改和 Status Cafe组件
+  last_post_title: 8月小结-锻炼/探索/进步(踩雷)
   last_post_description: ""
-  last_post_date: "2025-08-08T22:08:00Z"
-  last_post_link: https://blog.asyncx.top/posts/2025-08-08/
+  last_post_date: "2025-08-23T11:08:00Z"
+  last_post_link: https://blog.asyncx.top/posts/2025-08-23/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 93916ff1c93890da8ed8e67cd3b0faa9
+  last_post_guid: 8c5972b50a844f54a62a463dedee3d14
   score_criteria:
     cats: 0
     description: 3
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 62
+  postcount: 63
   avgpostlen: 0
 ---

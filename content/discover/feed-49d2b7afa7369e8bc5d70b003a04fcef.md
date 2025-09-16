@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-08-06T17:20:42Z"
+date: "2025-09-14T03:30:44Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -8,7 +8,6 @@ params:
   feedid: 49d2b7afa7369e8bc5d70b003a04fcef
   websites:
     https://dotat.at/: false
-    https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -18,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: p-fast trie, but smaller
+  last_post_title: a few notes on ratelimiting
   last_post_description: ""
-  last_post_date: "2025-08-06T17:20:42Z"
-  last_post_link: https://dotat.at/@/2025-08-06-p-fast-trie.html
+  last_post_date: "2025-09-14T03:30:44Z"
+  last_post_link: https://dotat.at/@/2025-09-14-ratelimit.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 05448dd7d51fd4bacdf223ee3c7eae90
+  last_post_guid: fadf5d20c97bf4d6ad073fcb4190e87c
   score_criteria:
     cats: 0
     description: 0

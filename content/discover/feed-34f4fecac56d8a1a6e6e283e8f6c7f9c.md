@@ -10,6 +10,7 @@ params:
   feedtype: rss
   feedid: 34f4fecac56d8a1a6e6e283e8f6c7f9c
   websites:
+    https://paravoce.bearblog.dev/: true
     https://paravoce.bearblog.dev/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

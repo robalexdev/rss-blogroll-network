@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 1ec1bc406eeeab9fe3ae5290403d8ced
   websites:
-    https://tromey.com/blog: true
     https://tromey.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

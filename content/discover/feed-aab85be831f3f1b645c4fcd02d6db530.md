@@ -6,7 +6,8 @@ params:
   feedlink: https://tjaalton.wordpress.com/feed/
   feedtype: rss
   feedid: aab85be831f3f1b645c4fcd02d6db530
-  websites: {}
+  websites:
+    https://tjaalton.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Ubuntu
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

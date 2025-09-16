@@ -8,29 +8,16 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
-    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: d3c6398765901e01429e7ceffd5164f1
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Today my brain wanted to think about one of the first dates I ever
@@ -59,5 +46,5 @@ params:
   innetwork: true
   language: en
   postcount: 20
-  avgpostlen: 295
+  avgpostlen: 294
 ---

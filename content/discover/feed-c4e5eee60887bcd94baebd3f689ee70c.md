@@ -6,7 +6,8 @@ params:
   feedlink: https://cateee.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: c4e5eee60887bcd94baebd3f689ee70c
-  websites: {}
+  websites:
+    https://cateee.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -26,7 +27,9 @@ params:
   - ntp
   - shell
   - wikipedia
-  relme: {}
+  relme:
+    https://cateee.blogspot.com/: true
+    https://www.blogger.com/profile/15700217782948121553: true
   last_post_title: 'Re: "C and multithreading"'
   last_post_description: ""
   last_post_date: "2007-11-09T12:29:08+01:00"
@@ -45,10 +48,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 21
+    website: 2
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

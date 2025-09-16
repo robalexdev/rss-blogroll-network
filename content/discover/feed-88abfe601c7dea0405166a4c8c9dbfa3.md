@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 88abfe601c7dea0405166a4c8c9dbfa3
   websites:
-    https://manton.org/: false
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml
@@ -55,7 +54,7 @@ params:
   last_post_description: After I drafted this blog post, the part that follows the
     horizontal rule in a moment, I wasn’t sure I would publish it. Then I read this
     post by Thomas Ptacek. This line resonated with me
-  last_post_date: "2025-06-04T07:44:32-07:00"
+  last_post_date: "2025-06-04T09:44:32-05:00"
   last_post_link: https://www.manton.org/2025/06/04/not-today-but-eventually.html
   last_post_categories: []
   last_post_language: ""
@@ -77,6 +76,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 7
   avgpostlen: 0
 ---

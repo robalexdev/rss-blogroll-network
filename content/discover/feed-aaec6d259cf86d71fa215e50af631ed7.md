@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: React i18next tips and tricks
-  last_post_description: When making your React application accessible in multiple
-    languages, i18next and its React companion library react-i18next offer a very
-    robust set of features and tools. The libraries work together
-  last_post_date: "2025-03-26T07:00:14Z"
-  last_post_link: https://www.mensurdurakovic.com/react-i18next-tips-and-tricks/
+  last_post_title: 'The Ultimate Sprint Retro: My 10 Years of Software Engineering'
+  last_post_description: I started my first software engineering job as a student
+    in my last college year, in August 2010. Years passed by, and since the 7th year
+    of my work, I have always wanted to write this article. Today
+  last_post_date: "2025-08-12T05:00:48Z"
+  last_post_link: https://www.mensurdurakovic.com/the-ultimate-sprint-retro-my-10-years-of-software-engineering/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 89d4da54c50118ec42226893eb542b04
+  last_post_guid: ece08a10b596c7a785d4587c8b8218c2
   score_criteria:
     cats: 0
     description: 3

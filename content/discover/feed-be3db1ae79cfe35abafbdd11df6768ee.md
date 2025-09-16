@@ -6,7 +6,8 @@ params:
   feedlink: https://weeraman.com/rss/
   feedtype: rss
   feedid: be3db1ae79cfe35abafbdd11df6768ee
-  websites: {}
+  websites:
+    https://weeraman.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

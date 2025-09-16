@@ -8,7 +8,6 @@ params:
   feedid: c1acb02c248a6b42e6a62693e5aaaac0
   websites:
     https://demochen.com/: true
-    https://www.demochen.com/: false
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS

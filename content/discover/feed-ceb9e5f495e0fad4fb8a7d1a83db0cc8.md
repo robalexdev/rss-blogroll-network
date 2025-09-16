@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Policymaking Protest Assets (PPAs)
-  last_post_description: Time To Have A Deep Look At Your Portfolio
-  last_post_date: "2025-07-15T14:33:28Z"
-  last_post_link: https://themacrocompass.substack.com/p/policymaking-protest-assets-ppas
+  last_post_title: May The Odds Be Ever In Your Favor
+  last_post_description: About sizing, stop losses and right-tail returns
+  last_post_date: "2025-08-25T09:10:35Z"
+  last_post_link: https://themacrocompass.substack.com/p/may-the-odds-be-ever-in-your-favor
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cfa5d0c24cfe77e15206fb9875ca9402
+  last_post_guid: 60201d3d8f1e5db7e3a516304bcbb969
   score_criteria:
     cats: 0
     description: 3

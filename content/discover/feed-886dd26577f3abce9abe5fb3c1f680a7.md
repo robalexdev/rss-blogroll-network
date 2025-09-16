@@ -16,33 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Announcements
   - GlassFish
+  - JNoSQL
   - Jakarta EE
+  - OmniFish
   relme: {}
-  last_post_title: New Features in Jakarta EE 11, with Examples
-  last_post_description: Jakarta EE 11 introduces several new features and improvements,
-    including support for Java virtual threads and records, a new Data API, and many
-    smaller enhancements in various existing APIs like
-  last_post_date: "2025-07-30T10:25:32Z"
-  last_post_link: https://omnifish.ee/new-features-in-jakarta-ee-11-with-examples/?utm_source=rss&utm_medium=rss&utm_campaign=new-features-in-jakarta-ee-11-with-examples
+  last_post_title: 'Eclipse JNoSQL 1.1.0 Released: Faster, Smarter, and More Compatible'
+  last_post_description: Eclipse JNoSQL 1.1.10 is now available. This release delivers
+    a new JPA driver for Jakarta Data repositories, major performance improvements,
+    new features, and upgraded drivers, making it easier than
+  last_post_date: "2025-09-07T15:36:07Z"
+  last_post_link: https://omnifish.ee/eclipse-jnosql-1-1-0-released-faster-smarter-and-more-compatible/?utm_source=rss&utm_medium=rss&utm_campaign=eclipse-jnosql-1-1-0-released-faster-smarter-and-more-compatible
   last_post_categories:
+  - Announcements
   - GlassFish
+  - JNoSQL
   - Jakarta EE
+  - OmniFish
   last_post_language: ""
-  last_post_guid: 01ca1e7f4e569c96cfe32c876c751218
+  last_post_guid: 904c0f004cd5407aecf2c61208b98f8b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

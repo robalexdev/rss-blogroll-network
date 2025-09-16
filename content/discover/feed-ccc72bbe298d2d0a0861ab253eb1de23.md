@@ -17,8 +17,6 @@ params:
   recommender: []
   categories: []
   relme:
-    https://github.com/angristan: true
-    https://mstdn.io/@angristan: true
     https://stanislas.blog/: true
   last_post_title: Doing my cloud exit (kind of)
   last_post_description: In a previous post, I shared how I migrated my personal infrastructure

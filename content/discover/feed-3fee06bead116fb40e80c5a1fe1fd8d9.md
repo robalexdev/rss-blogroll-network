@@ -18,14 +18,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 港股打新-中慧生物
-  last_post_description: 暑假在外面玩，没太注意，错过了一个高申购倍数的热门股
-  last_post_date: "2025-08-08T09:07:16Z"
-  last_post_link: https://retire50blog.wang/invest/%e6%b8%af%e8%82%a1%e6%89%93%e6%96%b0-%e4%b8%ad%e6%85%a7%e7%94%9f%e7%89%a9.html
+  last_post_title: 美股打新-FIGR和GEMI
+  last_post_description: 申购和中签，以及卖出和盈利的情况见下表。 关于美股打新，记录几点：
+  last_post_date: "2025-09-13T07:16:25Z"
+  last_post_link: https://retire50blog.wang/invest/%e7%be%8e%e8%82%a1%e6%89%93%e6%96%b0-figr%e5%92%8cgemi.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 9f401a8deeb1f0b2ee5d21379ccfc3db
+  last_post_guid: 235517150d44c2f81e014e01459bf733
   score_criteria:
     cats: 0
     description: 0

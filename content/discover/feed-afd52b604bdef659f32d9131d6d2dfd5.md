@@ -10,9 +10,6 @@ params:
     https://blogs.igalia.com/carlosgc/: false
   blogrolls: []
   in_blogrolls:
-  - title: Planet GNOME
-    description: ""
-    id: b5bbda5ab78cf9ad443c46db4a3727b6
   - title: Planet Igalia
     description: ""
     id: 6eb0bd50806ca71e195eb21d88c93507

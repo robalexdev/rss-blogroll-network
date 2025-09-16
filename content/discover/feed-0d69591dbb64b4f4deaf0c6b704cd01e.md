@@ -7,7 +7,8 @@ params:
   feedlink: https://kebesays.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 0d69591dbb64b4f4deaf0c6b704cd01e
-  websites: {}
+  websites:
+    https://kebesays.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Illumos
@@ -21,7 +22,9 @@ params:
   - illumos
   - scm
   - zfs
-  relme: {}
+  relme:
+    https://kebesays.blogspot.com/: true
+    https://www.blogger.com/profile/02293330539766533891: true
   last_post_title: Goodbye blogspot
   last_post_description: ""
   last_post_date: "2020-08-21T13:43:58-04:00"
@@ -38,10 +41,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 22
+    website: 2
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

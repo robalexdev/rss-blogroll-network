@@ -1,6 +1,6 @@
 ---
 title: Real Self-Energy
-date: "2025-08-07T19:59:13+02:00"
+date: "2025-09-11T17:55:43+02:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/6243811779557775819/posts/default
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 16
+  postcount: 19
   avgpostlen: 295
 ---

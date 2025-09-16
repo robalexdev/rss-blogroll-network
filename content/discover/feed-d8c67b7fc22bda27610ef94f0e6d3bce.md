@@ -1,6 +1,6 @@
 ---
 title: ATOR
-date: "2025-07-22T03:10:27+02:00"
+date: "2025-09-13T17:16:11+02:00"
 description: "ATOR (Arc-Team Open Research). \nThe blog spreads tests, problems and
   results of Arc-Team research in archaeology, following the guidelines of the OpArc
   (Open Archaeology) project."
@@ -8,7 +8,8 @@ params:
   feedlink: https://arc-team-open-research.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: d8c67b7fc22bda27610ef94f0e6d3bce
-  websites: {}
+  websites:
+    https://arc-team-open-research.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian Derivatives
@@ -937,8 +938,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 23
+    website: 2
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

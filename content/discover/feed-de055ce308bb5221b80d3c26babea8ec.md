@@ -1,6 +1,6 @@
 ---
 title: This Cute World
-date: "2025-07-28T08:05:53Z"
+date: "2025-09-09T10:55:36Z"
 description: ""
 params:
   feedlink: https://thiscute.world/index.xml
@@ -63,5 +63,5 @@ params:
   innetwork: true
   language: zh
   postcount: 30
-  avgpostlen: 223
+  avgpostlen: 228
 ---

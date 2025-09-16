@@ -45,5 +45,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 296
 ---

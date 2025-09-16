@@ -19,6 +19,8 @@ params:
   categories: []
   relme:
     https://ada.is/: true
+    https://github.com/adarosecannon: true
+    https://mastodon.social/@ada: true
   last_post_title: Integrating Augmented Reality Objects into the Real World with
     Light and Shadows
   last_post_description: Using the WebXR Light Estimation API we can make 3D objects

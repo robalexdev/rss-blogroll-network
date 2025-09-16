@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2025-07-27T20:50:00Z"
+date: "2025-09-10T19:40:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -19,16 +19,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Enough AI copilots! We need AI HUDs
+  last_post_title: AI as teleportation
   last_post_description: |-
-    In my opinion, one of the best critiques of modern AI design comes from a 1992 talk by the researcher Mark Weiser where he ranted against “copilot” as a metaphor for AI.
+    Here’s a thought experiment for pondering the effects AI might have on society: What if we invented teleportation?
 
-    This was 33 years ago,
-  last_post_date: "2025-07-27T20:50:00Z"
-  last_post_link: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds.html
+    A bit odd, I know, but bear with me…
+
+
+
+    The year is 2035. The Auto Go Instant
+  last_post_date: "2025-09-10T19:40:00Z"
+  last_post_link: https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 45e8f60f48241a5762a9ec53b79759de
+  last_post_guid: 6ff6a4c32b817a5a46cec185c8900915
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: 很少明白
-date: "2025-08-05T08:12:16Z"
+date: "2025-09-11T17:17:33Z"
 description: 一切都在无可挽回地走向恰饭。
 params:
   feedlink: https://p0werdown.com/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://p0werdown.com/: true
-  last_post_title: 两类好用的防蚊产品，让你这辈子告别嗡嗡声
-  last_post_description: 无广，放心看。
-  last_post_date: "2025-08-05T08:31:15Z"
-  last_post_link: https://p0werdown.com/posts/fangwen-zhinan-jikongkenyare-yufang
+  last_post_title: 一个自动音频转写 + 总结 + 整理 B 站视频的 n8n workflow
+  last_post_description: ""
+  last_post_date: "2025-09-11T17:17:30Z"
+  last_post_link: https://p0werdown.com/posts/yi-ge-zi-dong-yin-pin-zhuan-xie-zong-jie-zheng-l-9c18ab33
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 379d1d57099b45d9a6a7d643f7f353d7
+  last_post_guid: 7e39e191f01fd2739e54b2fec147c9a3
   score_criteria:
     cats: 0
     description: 3

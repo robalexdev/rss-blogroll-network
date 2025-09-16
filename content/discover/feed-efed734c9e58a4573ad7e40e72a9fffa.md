@@ -16,30 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Information Quality Lab news
-  - iSchool
-  - iSchool Research Showcase
-  - independent study research
-  - posters
-  - research
-  - undergraduate research
+  - citation
+  - information disorder
+  - information disorder in science
+  - information ecosystem
+  - quotation error
+  - scholarly communication
+  - scholarly publishing
   relme: {}
-  last_post_title: Information Quality Lab at the 2024 iSchool Research Showcase
-  last_post_description: While I’m in Cambridge, today members of my Information Quality
-    Lab present a talk and 9 posters as part of the iSchool Research Showcase 2024,
-    noon to 4:30 PM in the Illini Union. View posters
-  last_post_date: "2024-11-06T16:24:11Z"
-  last_post_link: https://jodischneider.com/blog/2024/11/06/information-quality-lab-at-the-2024-ischool-research-showcase/
+  last_post_title: 'QOTD: “the handling and citing of the scientific literature is
+    not an afterthought” (and my recent work on citation quotation error)'
+  last_post_description: the handling and citing of the scientific literature is not
+    an afterthought or side activity in the conduct of science. The ability to do
+    so rigorously and with integrity is, after all, why the
+  last_post_date: "2025-09-12T02:27:53Z"
+  last_post_link: https://jodischneider.com/blog/2025/09/12/qotd-the-handling-and-citing-of-the-scientific-literature-is-not-an-afterthought-and-my-recent-work-on-citation-quotation-error/
   last_post_categories:
-  - Information Quality Lab news
-  - iSchool
-  - iSchool Research Showcase
-  - independent study research
-  - posters
-  - research
-  - undergraduate research
+  - citation
+  - information disorder
+  - information disorder in science
+  - information ecosystem
+  - quotation error
+  - scholarly communication
+  - scholarly publishing
   last_post_language: ""
-  last_post_guid: 086dcafe4852a67db3ed1b6f356e82f1
+  last_post_guid: d5246925a1d21fcd77a9e61635510ed5
   score_criteria:
     cats: 0
     description: 3

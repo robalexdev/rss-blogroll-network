@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-08-11T22:12:59+01:00"
+date: "2025-09-15T12:30:29+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,18 +17,15 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Progressive web apps
-  last_post_description: |-
-    There was a time when you needed to make a native app in order to take advantage of specific technologies. That time has passed.
-
-          Now you can do all of these things on the web:
-
-    push
-  last_post_date: "2025-08-07T14:09:00+01:00"
-  last_post_link: https://clearleft.com/thinking/progressive-web-apps
+  last_post_title: Announcing Web Day Out
+  last_post_description: 'I’m going to cut right to the chase: Clearleft is putting
+    on a brand new conference in 2026. It’s called Web Day Out. It’ll be on Thursday,
+    March 12th right here in Brighton. Tickets are just'
+  last_post_date: "2025-09-02T14:42:00+01:00"
+  last_post_link: https://clearleft.com/thinking/announcing-web-day-out
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8412f2e69ca961065267fc7f647e1971
+  last_post_guid: 089c26cd8a070c95a27fa73d3b9b4844
   score_criteria:
     cats: 0
     description: 3

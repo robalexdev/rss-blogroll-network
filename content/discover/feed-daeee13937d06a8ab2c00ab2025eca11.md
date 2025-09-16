@@ -19,13 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Big O vs Hardware: Better Complexity ≠ Better Performance'
-  last_post_description: Why Your O(log n) Algorithm Might Lose to O(n)
-  last_post_date: "2025-08-03T18:37:16Z"
-  last_post_link: https://blog.codingconfessions.com/p/big-o-vs-hardware
+  last_post_title: How to Leverage the CPU’s Micro-Op Cache for Faster Loops
+  last_post_description: Measuring, analyzing, and optimizing loops using Linux perf,
+    Top-Down Microarchitectural Analysis, and the CPU’s micro-op cache
+  last_post_date: "2025-08-15T05:37:44Z"
+  last_post_link: https://blog.codingconfessions.com/p/how-to-leverage-the-cpus-micro-op
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f58869c27e9489990276c605c796ab04
+  last_post_guid: 864996e9a128e44d40f5591012e629c5
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2025-07-10T18:48:06-04:00"
+date: "2025-09-01T09:56:08-04:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml

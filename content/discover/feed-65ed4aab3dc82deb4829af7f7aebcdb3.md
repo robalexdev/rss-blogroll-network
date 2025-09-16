@@ -16,15 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '[FR] Org export: expanding links to included files (was: [BUG]
-    Export backend cross-references are broken [9.7.30 (release_9.7.30 @ /home/user/org-mode-git/lisp/)])'
-  last_post_description: '[FR] Org export: expanding links to included files (was:
-    [BUG] Export backend cross-references are broken [9.7.30 (release_9.7.30 @ /home/user/org-mode-git/lisp/)])'
-  last_post_date: "2025-07-20T12:28:42Z"
-  last_post_link: https://list.orgmode.org/87bjpfoxqs.fsf@localhost
+  last_post_title: '[RFC] displaying the '':narrow'' value in clocktable'
+  last_post_description: '[RFC] displaying the '':narrow'' value in clocktable'
+  last_post_date: "2025-08-31T10:51:57Z"
+  last_post_link: https://list.orgmode.org/87iki3epf9.fsf@gmail.com
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 870bc986849cc1ed8d4e0aa8bd115016
+  last_post_guid: 7a0ea926e7a088bc620e269ef8efe483
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 66
+  postcount: 72
   avgpostlen: 0
 ---

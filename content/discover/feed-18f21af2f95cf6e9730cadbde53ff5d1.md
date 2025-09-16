@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://github.com/syntaxerrormmm: true
     https://keybase.io/syntaxerrormmm: true
     https://sys42.eu/: true
   last_post_title: Appunti Su Netbird

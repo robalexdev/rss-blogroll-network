@@ -6,7 +6,8 @@ params:
   feedlink: https://eox.at/feed/rss.xml
   feedtype: rss
   feedid: ef1e202e2a1eafd32d9bfaa05f17b566
-  websites: {}
+  websites:
+    https://eox.at/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

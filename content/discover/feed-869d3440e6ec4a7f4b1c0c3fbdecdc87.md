@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -23,19 +23,19 @@ params:
   - Sidebar - Featured
   - Threads
   relme: {}
-  last_post_title: Introducing Messaging and Highlighted Perspectives on Threads
+  last_post_title: Attach Text to Your Threads Posts and Share Longer Perspectives
   last_post_description: |-
-    We're announcing Threads DMs and the introduction of the Threads highlighter, a new visual element that emphasizes interesting perspectives and conversations.Â 
-    The post Introducing Messaging and
-  last_post_date: "2025-07-01T16:00:54Z"
-  last_post_link: https://about.fb.com/news/2025/07/introducing-messaging-highlighted-perspectives-threads/
+    We're rolling out a way for you to attach up to 10,000 characters of text to a Threads post.
+    The post Attach Text to Your Threads Posts and Share Longer Perspectives appeared first on Meta Newsroom.
+  last_post_date: "2025-09-04T17:00:51Z"
+  last_post_link: https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/
   last_post_categories:
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
   last_post_language: ""
-  last_post_guid: e0b357040e42d91a8871e9acc73050b6
+  last_post_guid: 72ed01dc5ef39255efd9b6f9098213a4
   score_criteria:
     cats: 0
     description: 0
@@ -53,6 +53,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 9
+  postcount: 10
   avgpostlen: 0
 ---

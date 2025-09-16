@@ -21,9 +21,6 @@ params:
   - title: Harsh Browns
     description: ""
     id: 68bf890ef652d82109527abf8b5560b7
-  - title: Joe Ross
-    description: ""
-    id: 6b48f7e15dd2f57a4c4192ceb0a2d05c
   - title: Sam’s Webzone
     description: ""
     id: 74aa0d5a1d4b754ecb51f5cb3eb54c66
@@ -42,9 +39,6 @@ params:
   - title: Dr. Adam Procter
     description: ""
     id: 9dcd84ddd111273253de8f38cf4640e7
-  - title: blog
-    description: ""
-    id: b8bd864bae01985327bc8ddcbb1e97d7
   - title: Rhys Wynne
     description: The personal blog of Rhys Wynne, a WordPress freelancer based in
       Newton-le-Willows, England.

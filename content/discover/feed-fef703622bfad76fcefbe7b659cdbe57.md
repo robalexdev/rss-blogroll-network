@@ -14,6 +14,7 @@ params:
     https://artlung.com/links/: false
     https://artlung.com/merch/: false
     https://artlung.com/tags/: false
+    https://artlung.com/toys/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -29,12 +30,12 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
+  - collaborating
   - general
-  - swim2025
-  - via-instagram
+  - indieweb
+  - programming
+  - social-software
   relme:
     https://artlung.com/: true
     https://artlung.com/comics/: true
@@ -43,21 +44,25 @@ params:
     https://artlung.com/links/: true
     https://artlung.com/merch/: true
     https://artlung.com/tags/: true
+    https://artlung.com/toys/: true
     https://github.com/artlung: true
-    https://libre.fm/user/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
     https://thisbot.day/@affirmations: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Summer winding down but skincare still a priority
-  last_post_description: ""
-  last_post_date: "2025-08-10T04:35:38Z"
-  last_post_link: https://artlung.com/blog/2025/08/09/summer-winding-skincare/
+  last_post_title: Etha-Editing
+  last_post_description: 'At #IndieWeb HWC yesterday we ran VS Code w/”Live Share”
+    plugin. In a few minutes 5 of us wrote a web page. Surveillance tech is an enshittified
+    anti-labour mess but tools—the means of'
+  last_post_date: "2025-09-11T14:48:11Z"
+  last_post_link: https://artlung.com/blog/2025/09/11/etha-editing/
   last_post_categories:
+  - collaborating
   - general
-  - swim2025
-  - via-instagram
+  - indieweb
+  - programming
+  - social-software
   last_post_language: ""
-  last_post_guid: d2d30173ae3c936781973d353e8ec026
+  last_post_guid: 4fd92bf3d36f61c0aedd931bba20b250
   score_criteria:
     cats: 0
     description: 3

@@ -8,6 +8,7 @@ params:
   feedtype: rss
   feedid: d84a98efc20f88eaad28c4974d3ef2b6
   websites:
+    https://pixeljets.com/blog/: true
     https://pixeljets.com/blog/author/anthony/: false
   blogrolls: []
   in_blogrolls:
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

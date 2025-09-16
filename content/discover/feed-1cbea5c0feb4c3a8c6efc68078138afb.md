@@ -19,15 +19,15 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: An Election Under a Shadow of Doubt
+  last_post_title: Free Software Mascots
   last_post_description: "This year, the Open Source Initiative's election for its\n
     \       board of directors was anticipated with the usual level of\n        interest.
     However, what unfolded was far from ordinary,\n       "
-  last_post_date: "2025-04-20T09:42:25-07:00"
-  last_post_link: https://jxself.org/shadow-of-doubt.shtml
+  last_post_date: "2025-09-08T20:21:36-07:00"
+  last_post_link: https://jxself.org/mascots.shtml
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b027e5d737e0c9e2cc76c70905d57f6b
+  last_post_guid: 3c8ed65f49494a1ae02de8f1964f1007
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 194
+  postcount: 195
   avgpostlen: 0
 ---

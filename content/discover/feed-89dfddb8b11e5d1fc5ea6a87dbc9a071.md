@@ -20,16 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's new with Himitsu 0.9?
+  last_post_title: Embedding Wren in Hare
   last_post_description: |-
-    Last week, Armin and I worked together on the latest release of Himitsu, a
-    “secret storage manager” for Linux. I haven’t blogged about Himitsu since I
-    announced it three years ago, and I
-  last_post_date: "2025-08-08T00:00:00Z"
-  last_post_link: https://drewdevault.com/2025/08/08/2025-08-08-Whats-new-with-himitsu.html
+    I’ve been on the lookout for a scripting language which can be neatly embedded
+    into Hare programs. Perhaps the obvious candidate is Lua – but I’m not
+    particularly enthusiastic about it. When I
+  last_post_date: "2025-08-20T00:00:00Z"
+  last_post_link: https://drewdevault.com/2025/08/20/2025-08-20-Hare-and-Wren.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 313e0dcd54d6ada9db0bce9fa4a96229
+  last_post_guid: 41342412a022390e5fa79a59b9681bdf
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 369
+  postcount: 375
   avgpostlen: 0
 ---

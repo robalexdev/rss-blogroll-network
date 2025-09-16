@@ -21,20 +21,19 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 292: Tuesday 29 July 2025 – Monday 4 August
-    2025'
-  last_post_description: Happy August! Two Recce walks. Rain. Storm Floris wind and
-    rain. 80th Birthday Party. Tuesday. Heavy rain! It eased off as we drove to Llanfoist
-    to drop off the Kia for its service and MOT and then
-  last_post_date: "2025-08-05T11:08:24Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2025/08/05/herefordshire-week-292-tuesday-29-july-2025-monday-4-august-2025/
+  last_post_title: 'Herefordshire Week 297: Tuesday 2 – Monday 8 September 2025'
+  last_post_description: A lot of chutneying. A wedding. Dolomites Prep. West Wall
+    Rerender commences. Two presents from Pippa, one in our bedroom, pre-dawn. Pippa
+    brought us another of her mouse-shaped presents on Tuesday
+  last_post_date: "2025-09-09T07:49:33Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2025/09/09/herefordshire-week-297-tuesday-2-monday-8-september-2025/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: c2d118c860eb2f9f8d75f0fae1c58b3a
+  last_post_guid: 7cc9ac53e9ed77adb7c4f25f6e3ff6e7
   score_criteria:
     cats: 0
     description: 0

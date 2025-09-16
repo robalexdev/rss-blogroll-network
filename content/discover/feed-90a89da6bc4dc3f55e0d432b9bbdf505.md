@@ -9,7 +9,6 @@ params:
   feedid: 90a89da6bc4dc3f55e0d432b9bbdf505
   websites:
     https://adactio.com/: false
-    https://adactio.com/articles: false
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
@@ -31,49 +30,48 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories:
-  - android
-  - apps
-  - appstores
+  - brighton
   - browsers
-  - homescreen
-  - installation
-  - ios
-  - mobile
-  - native
-  - progressive
-  - pwas
-  - ux
-  - web
-  - webapps
+  - clearleft
+  - css
+  - development
+  - events
+  - frontend
+  - html
+  - javascript
+  - presentations
+  - speaking
+  - standards
+  - talks
+  - webdayout
   relme: {}
-  last_post_title: Progressive web apps
+  last_post_title: Speaking at Web Day Out
   last_post_description: |-
-    There was a time when you needed to make a native app in order to take advantage of specific technologies. That time has passed.
+    Half of the line-up of speakers for Web Day Out is already on the site. One more is already confirmed.
 
-    Now you can do all of these things on the web:
-
-
-    push notifications
-  last_post_date: "2025-08-07T13:05:11Z"
-  last_post_link: https://adactio.com/journal/22074
+    I’m ridiculously excited about the way the line-up is taking shape, and judging by the
+  last_post_date: "2025-09-04T13:56:01Z"
+  last_post_link: https://adactio.com/journal/22113
   last_post_categories:
-  - android
-  - apps
-  - appstores
+  - brighton
   - browsers
-  - homescreen
-  - installation
-  - ios
-  - mobile
-  - native
-  - progressive
-  - pwas
-  - ux
-  - web
-  - webapps
+  - clearleft
+  - css
+  - development
+  - events
+  - frontend
+  - html
+  - javascript
+  - presentations
+  - speaking
+  - standards
+  - talks
+  - webdayout
   last_post_language: ""
-  last_post_guid: 99d8b4b40f09a15084c5ce8f3ea94a1e
+  last_post_guid: c9a53187da238a2dedbfad2a2b46d049
   score_criteria:
     cats: 0
     description: 3

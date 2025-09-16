@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-08-11T03:27:35Z"
+date: "2025-09-01T13:41:46Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,28 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ayla Gafni
+  - Mathematics
   - Paul Erdos
-  - math.NT
-  - paper
-  - prime gaps
-  - rough numbers
+  - Thomas Bloom
+  - admin
+  - advertising
+  - polymath
+  - question
   relme: {}
-  last_post_title: Rough numbers between consecutive primes
-  last_post_description: 'First things first: due to an abrupt suspension of NSF funding
-    to my home university of UCLA, the Institute of Pure and Applied Mathematics (which
-    had been preliminarily approved for a five-year NSF'
-  last_post_date: "2025-08-11T03:27:35Z"
-  last_post_link: https://terrytao.wordpress.com/2025/08/10/rough-numbers-between-consecutive-primes/
+  last_post_title: A crowdsourced project to link up erdosproblems.com to the OEIS
+  last_post_description: Thomas Bloom’s erdosproblems.com site hosts nearly a thousand
+    questions that originated, or were communicated by, Paul Erdős, as well as the
+    current status of these questions (about a third of
+  last_post_date: "2025-09-01T13:41:46Z"
+  last_post_link: https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/
   last_post_categories:
-  - Ayla Gafni
+  - Mathematics
   - Paul Erdos
-  - math.NT
-  - paper
-  - prime gaps
-  - rough numbers
+  - Thomas Bloom
+  - admin
+  - advertising
+  - polymath
+  - question
   last_post_language: ""
-  last_post_guid: 3872bf554906150bb74689215e8f4f14
+  last_post_guid: 46a17a423d8b8275d4fe2457e19a92d4
   score_criteria:
     cats: 0
     description: 3

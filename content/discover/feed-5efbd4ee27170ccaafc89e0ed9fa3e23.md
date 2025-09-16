@@ -1,6 +1,6 @@
 ---
 title: 生信爱好者周刊
-date: "2025-08-02T16:53:40Z"
+date: "2025-09-08T02:49:38Z"
 description: 记录每周值得分享的生信相关内容，周日发布。
 params:
   feedlink: https://openbiox.github.io/weekly/feed_rss_created.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 生信爱好者周刊（第 171 期）：《自然》：150多年后，性爱的感官秘密终于解开
-  last_post_description: 生信爱好者周刊（第 171
-  last_post_date: "2025-08-02T16:50:24Z"
-  last_post_link: https://openbiox.github.io/weekly/issue-171/
+  last_post_title: 年度汇总
+  last_post_description: 2025年已发布 5 期，涵盖生物信息学前沿研究、学术动态、工具资源等内容。
+  last_post_date: "2025-09-08T02:28:27Z"
+  last_post_link: https://openbiox.github.io/weekly/archive-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 61f12b12db205b9d23a617f2aedf7896
+  last_post_guid: 3c8d07dbc1b351fa7ee86b89788f6409
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 172
+  postcount: 175
   avgpostlen: 0
 ---

@@ -1,14 +1,15 @@
 ---
 title: The Leafslug - All
-date: "2025-07-28T17:47:05+02:00"
-description: Slowly wandering Leafslug, eating away leafs and photosynthesizing under
+date: "2025-09-09T11:16:54+02:00"
+description: Slowly wandering Leafslug, eating away leaves and photosynthesizing under
   a mellow light.
 params:
   feedlink: https://theleafslug.com/feed.xml
   feedtype: atom
   feedid: a6c02a059ae684dae55e9d11cbff23ae
   websites:
-    https://theleafslug.com/: false
+    https://theleafslug.com/: true
+    https://theleafslug.com/photos: false
   blogrolls: []
   in_blogrolls:
   - title: blogroll.opml
@@ -16,40 +17,40 @@ params:
     id: cb5c5a7648ddde068f1d547585d9596c
   recommended: []
   recommender:
+  - https://ttntm.me/blog/feed.xml
+  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories:
-  - dog
-  - personal
-  - posts
+  - dailies
+  - meta
   relme: {}
-  last_post_title: My Dog Bites Me
-  last_post_description: Every night my dog bites me.
-  last_post_date: "2025-07-28T17:47:05+02:00"
-  last_post_link: https://theleafslug.com/entries/my-dog-bites-me
+  last_post_title: Sorry
+  last_post_description: I spammed your feed reader, and I'm sorry!
+  last_post_date: "2025-09-01T19:47:43+02:00"
+  last_post_link: https://theleafslug.com/entries/i-broke-your-feed-reader
   last_post_categories:
-  - dog
-  - personal
-  - posts
+  - dailies
+  - meta
   last_post_language: ""
-  last_post_guid: 2f1745b1be939abbea02fc4f74544705
+  last_post_guid: c9c5e244d34ddfa2016ad153f6479ab4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 1
+    website: 2
   score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 61
+  postcount: 62
   avgpostlen: 283
 ---

@@ -17,16 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Are developers slowed down by AI? Evaluating an RCT (?) and what
-    it tells us about developer productivity
-  last_post_description: Seven different people texted or otherwise messaged me about
-    this study which claims to measure “the impact of early-2025 AI on experienced
-    open-source developer productivity.”You know, when I
-  last_post_date: "2025-07-13T23:01:48Z"
-  last_post_link: https://www.fightforthehuman.com/are-developers-slowed-down-by-ai-evaluating-an-rct-and-what-it-tells-us-about-developer-productivity/
+  last_post_title: What you've helped me do this month
+  last_post_description: ""
+  last_post_date: "2025-08-20T20:11:10Z"
+  last_post_link: https://www.fightforthehuman.com/what-youve-helped-me-do-this-month/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38f261a2f6d70b718bc2084c5f6d7b61
+  last_post_guid: 67bd7b6665d33fd6a2f4e90a7abb8aa3
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 3
+  postcount: 5
   avgpostlen: 0
 ---

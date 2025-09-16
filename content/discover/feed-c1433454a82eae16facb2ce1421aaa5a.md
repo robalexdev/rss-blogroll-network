@@ -17,37 +17,31 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Change
-  - Digitale transformatie
-  - Energietransitie
-  - Kunstmatige Intelligentie
+  - Bibliotheek van de toekomst
   relme: {}
-  last_post_title: Kompas voor AI in de energietransitie
+  last_post_title: Bibliotheken als kanaries van de democratie
   last_post_description: |-
-    AI is geen neutraal instrument. In de eerdere blogs zagen we al hoe zij inmiddels verweven is met het energiesysteem […]
-    Het bericht Kompas voor AI in de energietransitie verscheen eerst op Koneksa
-  last_post_date: "2025-08-11T04:53:58Z"
-  last_post_link: https://koneksa-mondo.nl/2025/08/11/kompas-voor-ai-in-de-energietransitie/
+    De afgelopen jaren kregen Nederlandse bibliotheken een bredere opdracht. De bibliotheekwet van 2015, het Bibliotheekconvenant en de Netwerkagenda vormen daarvoor […]
+    Het bericht Bibliotheken als
+  last_post_date: "2025-09-14T08:44:10Z"
+  last_post_link: https://koneksa-mondo.nl/2025/09/14/bibliotheken-als-kanaries-van-de-democratie/
   last_post_categories:
-  - Change
-  - Digitale transformatie
-  - Energietransitie
-  - Kunstmatige Intelligentie
+  - Bibliotheek van de toekomst
   last_post_language: ""
-  last_post_guid: 5f8799fb4ae09786c84798fe478878a4
+  last_post_guid: 69c4bdadb4af67eaf2b2ae543d47d974
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

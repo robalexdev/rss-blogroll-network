@@ -10,19 +10,13 @@ params:
   feedid: 1a0cb8efd2b80a88db630982baf1af3b
   websites:
     https://reillyspitzfaden.com/: false
-    https://reillyspitzfaden.com/blog: true
     https://reillyspitzfaden.com/blog/: false
-    https://reillyspitzfaden.com/code: false
     https://reillyspitzfaden.com/code/: false
-    https://reillyspitzfaden.com/feeds: false
     https://reillyspitzfaden.com/feeds/: false
     https://reillyspitzfaden.com/interactions/: false
-    https://reillyspitzfaden.com/media: false
     https://reillyspitzfaden.com/media/: false
-    https://reillyspitzfaden.com/notes: false
     https://reillyspitzfaden.com/notes/: false
-  blogrolls:
-  - https://reillyspitzfaden.com/blogroll.opml
+  blogrolls: []
   in_blogrolls:
   - title: ""
     description: ""
@@ -30,17 +24,16 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://reillyspitzfaden.com/blog: true
-  last_post_title: Plugins for Everyone! Cross-Platform JUCE with CMake & GitHub Actions
-  last_post_description: My C++ reverb plugin is finally available for macOS, Windows,
-    and Linux! Here's how I'm using JUCE's CMake API and GitHub actions to make that
-    possible.
-  last_post_date: "2025-08-01T18:31:00Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2025/08/plugins-for-everyone-crossplatform-juce-with-cmake-github-actions/
+  relme: {}
+  last_post_title: ルビとHTML
+  last_post_description: I took a few years of Japanese classes in undergrad, and
+    today I'm returning to that and discussing some HTML markup for Japanese and other
+    East Asian languages.
+  last_post_date: "2025-08-19T21:14:00Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2025/08/ruby-html/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fc0d3f55a7820d4fd27ae729170f4ba5
+  last_post_guid: 3e1c7bfbeb9e4f806c18fedc187305b9
   score_criteria:
     cats: 0
     description: 3
@@ -50,10 +43,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

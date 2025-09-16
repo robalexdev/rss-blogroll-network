@@ -6,7 +6,8 @@ params:
   feedlink: https://www.kvr.at/rss.xml
   feedtype: rss
   feedid: fce54f851a393f76b6d8cad01faf71b8
-  websites: {}
+  websites:
+    https://www.kvr.at/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -31,18 +32,18 @@ params:
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 13
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 1
+  postcount: 2
   avgpostlen: 0
 ---

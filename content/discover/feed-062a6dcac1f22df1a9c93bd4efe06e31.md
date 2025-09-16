@@ -14,29 +14,24 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Leon Mika - Blogroll
-    description: ""
-    id: 833a660b960ed1b9aee9740f9df08e00
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender:
-  - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
+  recommender: []
   categories:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: A Good App
-  last_post_description: "I’m worried people don’t know what a good app is even like
-    anymore.\n\t\t\t\n\t\t\tIf you like this, you can make a one-time donation, donate
-    monthly, or buy something from my shop."
-  last_post_date: "2025-08-04T14:50:00+09:00"
-  last_post_link: https://lmnt.me/blog/a-good-app.html
+  last_post_title: Labyrinth Uncial
+  last_post_description: Today I spent all morning drawing uncial-style lettering
+    on my iPad. (Maybe I’ll make a font?) One of the things I made was this wordmark,
+    for my favorite movie, which I redrew in Illustrator, then
+  last_post_date: "2025-09-14T19:05:00+09:00"
+  last_post_link: https://lmnt.me/blog/sketchbook/labyrinth-uncial.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3332b0f9e27d3372e7d48c95c85a055d
+  last_post_guid: 69d5874202c9f92aa5801dfda0cc704e
   score_criteria:
     cats: 1
     description: 3
@@ -54,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 242
+  postcount: 297
   avgpostlen: 0
 ---

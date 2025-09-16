@@ -1,7 +1,7 @@
 ---
 title: 拾月
-date: "2025-08-11T07:07:00+08:00"
-description: 晚来天欲雪，能饮一杯无。feedId:41359648680482843+userId:44033302527024128
+date: "2025-09-15T07:07:00+08:00"
+description: PC互联网遗民feedId:41359648680482843+userId:44033302527024128
 params:
   feedlink: https://www.skyue.com/feed/
   feedtype: rss
@@ -20,17 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 25W31：十六的月亮
-  last_post_description: !!binary |
-    5pys5ZGo5LyR5ama5YGH77yM5Zyo5LqR5Y2X5peF6KGM77yM6LWw5Lic5Y2X546v57q/44
-    CC5ZGo5YWt5pma77yM6Zi05Y6G5Y2B5YWt77yM5Zyo5YWD6Ziz5qKv55Sw6Iqx56qd56qd
-    5a6i5qCI5ZCD552A6ICB6bit5rGk54Gr6ZSF77yM55yL5Yiw5aSp56m655qE5pyI5Lqu5Y
-    +I5Lqu5Y+I5ZyG77yM5pig552A5bGx6LC35p2R6JC96YeM6Zu25pif55o=
-  last_post_date: "2025-08-11T07:07:00+08:00"
-  last_post_link: https://www.skyue.com/25081107.html
+  last_post_title: 喝咖啡，遇暴雨
+  last_post_description: 周三午休，到园区瑞幸喝咖啡，下起暴雨，公司就在眼前却回不去。
+  last_post_date: "2025-09-15T07:07:00+08:00"
+  last_post_link: https://www.skyue.com/25091507.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ee2de67d41bf87803405c116901fc256
+  last_post_guid: f89d03560760bb32dcf653cc9073a892
   score_criteria:
     cats: 0
     description: 3

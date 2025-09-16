@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2025-08-11T06:08:20Z"
+date: "2025-09-02T19:14:36Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Exploring the Gleam FFI
+  last_post_title: I'll only buy devices with GrapheneOS
   last_post_description: ""
-  last_post_date: "2025-08-11T06:08:20Z"
-  last_post_link: https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi
+  last_post_date: "2025-09-02T19:14:36Z"
+  last_post_link: https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8dae3a3dcfe48c643c4237b1bc33cf3c
+  last_post_guid: c5f7cb2c5a65a63855d72d6868030b38
   score_criteria:
     cats: 0
     description: 0
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 291
+  postcount: 296
   avgpostlen: 291
 ---

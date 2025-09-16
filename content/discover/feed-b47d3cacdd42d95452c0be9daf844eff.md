@@ -6,7 +6,8 @@ params:
   feedlink: https://raju.dev/rss/
   feedtype: rss
   feedid: b47d3cacdd42d95452c0be9daf844eff
-  websites: {}
+  websites:
+    https://raju.dev/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -16,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Use phone/tablets/other laptops as external monitor with your laptop
-  last_post_description: This method is for wayland based systems. There are better
-    ways to do this on GNOME or KDE desktops, but the method we are going to use is
-    independent of DE/WM that you are using. I am doing this on
-  last_post_date: "2025-08-02T17:53:02Z"
-  last_post_link: https://raju.dev/use-phone-tablets-other-laptops-as-external-monitor-with-your-laptop/
+  last_post_title: Fixing Auto-Rotate screen orientation on PostmarketOS devices running
+    MATE DE
+  last_post_description: I have been using my Samsung Galaxy Tab A (2015) with PostmarketOS
+    on and off since last year. It serves as a really good e-book reader with KOReader
+    installed on it. Have tried phosh and plasma
+  last_post_date: "2025-08-29T19:40:08Z"
+  last_post_link: https://raju.dev/fixing-auto-rotate-screen-orientation-on-postmarketos-devices-running-mate-de/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 489a49ba8a2f5187564d4f846806f518
+  last_post_guid: 64810dc755d00547003c3c01d18e4bab
   score_criteria:
     cats: 0
     description: 3
@@ -36,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

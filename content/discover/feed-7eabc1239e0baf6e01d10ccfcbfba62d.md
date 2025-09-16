@@ -10,6 +10,7 @@ params:
   feedid: 7eabc1239e0baf6e01d10ccfcbfba62d
   websites:
     https://www.pugliasos.it/: false
+    https://www.pugliasos.it/index.php: true
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -45,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

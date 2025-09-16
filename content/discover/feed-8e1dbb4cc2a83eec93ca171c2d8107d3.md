@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-08-11T05:04:04-07:00"
+date: "2025-09-14T07:58:50-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -140,14 +140,14 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: 'Meta: Slow Blogging Ahead'
+  last_post_title: Luke 15:7
   last_post_description: ""
-  last_post_date: "2025-07-24T08:00:00-07:00"
-  last_post_link: https://blog.dshr.org/2025/07/meta-slow-blogging-ahead.html
+  last_post_date: "2025-09-02T08:00:00-07:00"
+  last_post_link: https://blog.dshr.org/2025/09/luke-157.html
   last_post_categories:
-  - personal
+  - bitcoin
   last_post_language: ""
-  last_post_guid: b5199adde2132e1a78c4079aaa26ec0d
+  last_post_guid: f69c175a9b870779d051841b8db11794
   score_criteria:
     cats: 5
     description: 3
@@ -166,5 +166,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 296
 ---

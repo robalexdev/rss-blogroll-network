@@ -1,13 +1,14 @@
 ---
 title: Qt Blog
-date: "2025-08-07T07:43:23Z"
+date: "2025-09-15T06:30:01Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
   feedlink: https://www.qt.io/blog/rss.xml
   feedtype: rss
   feedid: 0ef21e5c9b1068e5c3bedac5df1410f9
-  websites: {}
+  websites:
+    https://www.qt.io/blog: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Qt
@@ -16,24 +17,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Animated Vector Graphics
+  - Accessibility
+  - Application Development
   - Dev Loop
-  - Graphics
-  - Qt Quick
+  - Framework
+  - GUI
+  - Native
+  - Qt 6.10
+  - Qt Quick Controls
+  - QtWidgets
+  - Software Development
   relme: {}
-  last_post_title: Animated Vector Graphics in Qt 6.10
-  last_post_description: We've been steadily improving the vector graphics support
-    in Qt Quick in the past few years, and this continues in Qt 6.10 with several
-    new and useful features. The main focus of this blog will be
-  last_post_date: "2025-08-07T07:43:02Z"
-  last_post_link: https://www.qt.io/blog/animated-vector-graphics-in-qt-6.10
+  last_post_title: High Contrast Mode in Qt 6.10
+  last_post_description: As accessibility continues to gain traction across major
+    operating systems, high contrast mode has become a key feature for improving visual
+    clarity and usability. With the release of Qt 6.10,
+  last_post_date: "2025-09-15T06:30:00Z"
+  last_post_link: https://www.qt.io/blog/high-contrast-mode-in-qt-6.10
   last_post_categories:
-  - Animated Vector Graphics
+  - Accessibility
+  - Application Development
   - Dev Loop
-  - Graphics
-  - Qt Quick
+  - Framework
+  - GUI
+  - Native
+  - Qt 6.10
+  - Qt Quick Controls
+  - QtWidgets
+  - Software Development
   last_post_language: ""
-  last_post_guid: 54689c4e5de171b1da9bd71430f15c30
+  last_post_guid: 7f92c73c1bf4457fe10b8839e9bde9fe
   score_criteria:
     cats: 0
     description: 3
@@ -45,8 +58,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

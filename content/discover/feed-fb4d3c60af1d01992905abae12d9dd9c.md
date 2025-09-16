@@ -6,7 +6,8 @@ params:
   feedlink: https://lefred.be/feed/
   feedtype: rss
   feedid: fb4d3c60af1d01992905abae12d9dd9c
-  websites: {}
+  websites:
+    https://lefred.be/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Grep
@@ -15,39 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cloud
-  - HeatWave
-  - MDS
-  - MySQL
-  - OCI
-  relme: {}
-  last_post_title: How do you upgrade MySQL HeatWave when deploying with Terraform?
-  last_post_description: Have you already tried to upgrade the MySQL version of your
-    MySQL HeatWave instance in OCI that is deployed with Terraform? When you tried,
-    you realized, I hope you didn’t turn off backups, that
-  last_post_date: "2025-07-29T14:58:08Z"
-  last_post_link: https://lefred.be/content/how-do-you-upgrade-mysql-heatwave-when-deploying-with-terraform/
+  - General
+  - model
+  relme:
+    https://lefred.be/: true
+  last_post_title: Testing MySQL REST Service with Helidon and OCI GenAI
+  last_post_description: Recently, I published an article related to MRS (MySQL REST
+    Service), which we released as a lab. I wanted to explore how I could use this
+    new cool feature within an application. I decided to create
+  last_post_date: "2025-09-02T11:04:10Z"
+  last_post_link: https://lefred.be/content/testing-mysql-rest-service-with-helidon-and-oci-genai/
   last_post_categories:
-  - Cloud
-  - HeatWave
-  - MDS
-  - MySQL
-  - OCI
+  - General
+  - model
   last_post_language: ""
-  last_post_guid: 690c1f435e637b4ad1790b7f79682487
+  last_post_guid: 621195deb1a22fa723dc9b9cf952c503
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

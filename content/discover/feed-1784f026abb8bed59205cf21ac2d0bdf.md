@@ -15,16 +15,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 资讯
+  - 教程
   relme: {}
-  last_post_title: 可灵 AI 包年钻石会员 每月没用完的“灵感值”居然会被清空
-  last_post_description: 在 可灵 AI
-  last_post_date: "2025-08-07T08:44:14Z"
-  last_post_link: https://topstip.com/klinai-token-clear/
+  last_post_title: YouTube 创收 注册 AdSense YouTube 广告账号 无法确认您是真人 解决经验
+  last_post_description: 我们有一个YouTube的频道刚刚达到了YouTube 创收的要求，因此去申请广告盈利。但是在申请第二步的时候遇到了问题。
+    我们已经有一个Google Adsense
+  last_post_date: "2025-08-29T09:32:53Z"
+  last_post_link: https://topstip.com/youtube-adsense-1/
   last_post_categories:
-  - 资讯
+  - 教程
   last_post_language: ""
-  last_post_guid: aeb889f115822be38cc9fa89760f20d7
+  last_post_guid: b0d56d48a94bc2f659ed975d7ea1b398
   score_criteria:
     cats: 0
     description: 3

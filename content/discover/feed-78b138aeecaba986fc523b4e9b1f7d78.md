@@ -21,15 +21,17 @@ params:
     https://github.com/hgcl: true
     https://github.com/hgcl/: true
     https://mastodon.roflcopter.fr/@clarale: true
-  last_post_title: Notes on winemaking
-  last_post_description: While updating my note about food fermentation, I realized
-    how much wine-specific information it contained. As I am really interested in
-    this topic, here is a living note about winemaking
-  last_post_date: "2025-08-08T00:00:00Z"
-  last_post_link: https://clarale.com/posts/notes-on-winemaking/
+  last_post_title: Sourdough bread log
+  last_post_description: |-
+    Here is an ongoing log of my sourdough bread experiments (most recent at the top). The objective is to improve my process, updating my basic recipe as I go.
+
+    2025-09-11
+    This is by far not the first
+  last_post_date: "2025-09-11T00:00:00Z"
+  last_post_link: https://clarale.com/posts/sourdough-bread-log/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58e1a28b0c804344296a16f96961a174
+  last_post_guid: ad72b381548cb2a115bbf47a334a7a49
   score_criteria:
     cats: 0
     description: 3

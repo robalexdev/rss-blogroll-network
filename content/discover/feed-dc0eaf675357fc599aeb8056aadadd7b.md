@@ -6,7 +6,8 @@ params:
   feedlink: https://www.orfeo-toolbox.org/feed/
   feedtype: rss
   feedid: dc0eaf675357fc599aeb8056aadadd7b
-  websites: {}
+  websites:
+    https://www.orfeo-toolbox.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

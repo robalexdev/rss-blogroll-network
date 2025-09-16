@@ -6,7 +6,8 @@ params:
   feedlink: https://blogs.igalia.com/svillar/index.xml
   feedtype: rss
   feedid: 057def9b0ac4eb9a836ee99bbc6fae85
-  websites: {}
+  websites:
+    https://blogs.igalia.com/svillar/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

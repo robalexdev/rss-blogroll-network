@@ -15,31 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - 工具
   - 杂谈
   - 生活
   relme: {}
-  last_post_title: 200 在新疆待了一段时间的感受
-  last_post_description: 人看地图时，总是从我们自身居住地出发，以自己的居住地为中心，不经意间放大自己居住地的周围，而缩小远方的土地。  […]
-  last_post_date: "2025-08-03T15:48:00Z"
-  last_post_link: http://ddw2019.com/200
+  last_post_title: 205 如何应对他人的怂恿？
+  last_post_description: 生活中，我们常会遇到他人怂恿我们去做超出能力范围的事情，比如： 昨天刚跑了5公里，今天被要求跑10公里； 健身 […]
+  last_post_date: "2025-09-04T16:51:40Z"
+  last_post_link: http://ddw2019.com/205
   last_post_categories:
+  - 工具
   - 杂谈
   - 生活
   last_post_language: ""
-  last_post_guid: b2211fdd290e3b99dfa832d2caa838f5
+  last_post_guid: fc6af15a3c15c6b224637b06b81ff924
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

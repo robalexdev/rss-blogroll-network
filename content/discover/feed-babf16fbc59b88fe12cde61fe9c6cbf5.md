@@ -1,12 +1,13 @@
 ---
 title: Process Developments
-date: "2025-07-03T07:09:52+02:00"
+date: "2025-09-05T08:40:44+02:00"
 description: ""
 params:
   feedlink: https://processdevelopments.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: babf16fbc59b88fe12cde61fe9c6cbf5
-  websites: {}
+  websites:
+    https://processdevelopments.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Grep
@@ -15,7 +16,9 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://processdevelopments.blogspot.com/: true
+    https://www.blogger.com/profile/03067067751334471585: true
   last_post_title: Workflow For Dataflow?
   last_post_description: ""
   last_post_date: "2015-09-10T17:44:45+02:00"
@@ -32,10 +35,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -13,18 +13,14 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender: []
-  categories:
-  - Folk
-  - South Africa
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
+  categories: []
   relme:
     https://amf.didiermary.fr/: true
     https://amf.didiermary.fr/donate-support-amf/: true
@@ -33,30 +29,28 @@ params:
     https://masto.ai/@cybeardjm: true
     https://pixelfed.social/cybeardjm: true
     https://www.didiermary.fr/: true
-  last_post_title: Mahotella Queens’ Come back (Buya Buya)
-  last_post_description: '“Buya Buya: Come Back” is the first full album of exciting
-    new Queens material in nearly 20 years and marks their long-awaited return to
-    the world stage. This release also heralds a new chapter'
-  last_post_date: "2025-08-11T19:46:57Z"
-  last_post_link: https://amf.didiermary.fr/mahotella-queens-come-back-buya/
-  last_post_categories:
-  - Folk
-  - South Africa
+  last_post_title: Latest posts on BlogAMF
+  last_post_description: 'RSS Club only!  Testing a new idea: a recap of interesting
+    posts I shared on the blog’s profile on Mastodon, that don’t have a presence on
+    the blog (yet!).Here’s a quick selection presented'
+  last_post_date: "2025-09-13T19:26:57Z"
+  last_post_link: https://amf.didiermary.fr/rss-club/afroelectro-1-blogamf/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: afe439d6b391cb57c67c311699f71ee8
+  last_post_guid: 80517e1f81d1d569799af099dc2af510
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

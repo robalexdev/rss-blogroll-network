@@ -1,6 +1,6 @@
 ---
 title: Trey Hunner - Python
-date: "2025-06-11T16:41:27-07:00"
+date: "2025-09-04T10:46:34-07:00"
 description: ""
 params:
   feedlink: https://treyhunner.com/python.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My PyCon US 2025 recap
+  last_post_title: Customizing your Python REPL's color scheme (Python 3.14+)
   last_post_description: ""
-  last_post_date: "2025-06-11T16:45:00-07:00"
-  last_post_link: https://treyhunner.com/2025/06/pycon-us-2025-recap/
+  last_post_date: "2025-09-04T14:00:00-07:00"
+  last_post_link: https://treyhunner.com/2025/09/customizing-your-python-repl-color-scheme/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a4e1263d1fd93231591314d578fb4a9
+  last_post_guid: 00b3459ba6fe2c0c972eb4f84e977307
   score_criteria:
     cats: 0
     description: 0

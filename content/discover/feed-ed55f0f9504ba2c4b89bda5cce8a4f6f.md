@@ -17,17 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Agency Gap
+  last_post_title: Fifty Bits of Career Advice
   last_post_description: |-
-    There’s a line in Ben Kuhn’s essay,
-    “Impact, agency, and taste”, that’s been
-    rattling around in my head lately. He describes impact as the practice of
-    “making success inevitable”. That
-  last_post_date: "2025-07-31T00:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2025/07/31/The-Agency-Gap/
+    As my team’s summer interns finished up their rotations this week, I had my
+    usual end-of-internship “AMA” 1:1s. It’s something I enjoy doing, but I realized
+    I was covering a lot of the same
+  last_post_date: "2025-08-11T00:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2025/08/11/Fifty-Bits-of-Career-Advice/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f8c84da1a5e7ea3e1e307625a782270c
+  last_post_guid: 2a501dd4642e2c0be3d437ac64dbe8c6
   score_criteria:
     cats: 0
     description: 3

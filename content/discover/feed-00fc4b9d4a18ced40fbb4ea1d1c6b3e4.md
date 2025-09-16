@@ -6,7 +6,8 @@ params:
   feedlink: https://lukelau.me/feed.xml
   feedtype: atom
   feedid: 00fc4b9d4a18ced40fbb4ea1d1c6b3e4
-  websites: {}
+  websites:
+    https://lukelau.me/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: ba8b5ad8bd6a0b168173eda445dd4f7f
   websites:
-    https://laogongshuo.com/: false
+    https://laogongshuo.com/: true
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -40,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -18,24 +18,22 @@ params:
   categories: []
   relme:
     https://osguider.com/blog/: true
-  last_post_title: 极速开发新体验：Vite 革新前端工具链 | 开源日报 No.692
+  last_post_title: 高性能图像处理利器：让 Node.js 快速调整多种格式尺寸 | 开源日报 No.727
   last_post_description: |-
-    vitejs/vite
+    asdcorp/ohook
 
 
 
 
 
-    Vite 是一种下一代前端工具，旨在显著提升前端开发体验。
+    ohook 是一个通用的 Office “激活”钩子，主要旨在启用订阅版的完整功能。
 
-    即时服务器启动
-    ️ 闪电般快速的热模块替换（HMR）
-    ️
-  last_post_date: "2025-08-10T07:35:11Z"
-  last_post_link: https://osguider.com/blog/post/daily/daily-692/
+    提供对 Office C2R
+  last_post_date: "2025-09-14T23:36:01Z"
+  last_post_link: https://osguider.com/blog/post/daily/daily-727/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c18fd1da2497bebf549e829da3f594ae
+  last_post_guid: bcda17b05bca7577e84ab826b0f8c1b6
   score_criteria:
     cats: 0
     description: 3

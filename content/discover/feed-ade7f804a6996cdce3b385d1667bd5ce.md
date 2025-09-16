@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Tailscale 访问内网特定端口
+  last_post_title: 如何下载 App Store 已经下架的应用
   last_post_description: ""
-  last_post_date: "2025-06-30T15:32:10+01:00"
-  last_post_link: https://yinan.me/tailscale.html
+  last_post_date: "2025-09-12T00:03:22+01:00"
+  last_post_link: https://yinan.me/downaload-apps-no-longer-available.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e4f7c7c3a257f2ce204d4d9569b01421
+  last_post_guid: 92fd603fe1ef4814d8013f782f3c2d2f
   score_criteria:
     cats: 0
     description: 0
@@ -41,5 +41,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 230
+  avgpostlen: 242
 ---

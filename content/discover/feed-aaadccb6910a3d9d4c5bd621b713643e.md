@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2025-07-24T13:59:36+01:00"
+date: "2025-09-15T08:41:01+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -274,13 +274,13 @@ params:
   relme:
     https://www.bastionland.com/: true
     https://www.blogger.com/profile/11717684225248546716: true
-  last_post_title: d72 Squires
+  last_post_title: Mythic Feasts
   last_post_description: ""
-  last_post_date: "2025-07-23T13:55:10+01:00"
-  last_post_link: https://www.bastionland.com/2025/07/d72-squires.html
+  last_post_date: "2025-09-15T08:41:01+01:00"
+  last_post_link: https://www.bastionland.com/2025/09/mythic-feasts.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fef2e082817003c038309b621b1e39ad
+  last_post_guid: 819b7444cb5f6e8ec0a7412f9be072c1
   score_criteria:
     cats: 5
     description: 3
@@ -299,5 +299,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 281
+  avgpostlen: 280
 ---

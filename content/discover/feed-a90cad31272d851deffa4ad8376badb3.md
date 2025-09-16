@@ -1,6 +1,6 @@
 ---
 title: Making Hay
-date: "2025-08-11T11:19:07Z"
+date: "2025-09-15T04:23:17Z"
 description: ""
 params:
   feedlink: https://franksting.writeas.com/feed/
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://franksting.writeas.com/: true
-  last_post_title: Returning to WordPress
+  last_post_title: Reverse Power Hierarchies make for Safer Streets
   last_post_description: ""
-  last_post_date: "2025-06-04T00:23:49Z"
-  last_post_link: https://franksting.writeas.com/returning-to-wordpress?pk_campaign=rss-feed
+  last_post_date: "2025-09-05T00:03:43Z"
+  last_post_link: https://franksting.writeas.com/reverse-power-hierarchies-make-for-safer-streets?pk_campaign=rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 68b5e5aa19af87d7752adee2f1e68e68
+  last_post_guid: 069138129c5ebb758e5d0b1efeeaae99
   score_criteria:
     cats: 0
     description: 0
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 4
+  postcount: 10
   avgpostlen: 0
 ---

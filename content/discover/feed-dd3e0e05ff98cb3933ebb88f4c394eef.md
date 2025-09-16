@@ -105,6 +105,7 @@ params:
   - https://svbck.org/blog/rss.xml
   - https://taonaw.com/feed.xml
   - https://thedicesociety.com/index.xml
+  - https://thejaymo.net/feed/
   - https://throneofsalt.blogspot.com/feeds/posts/default
   - https://tracydurnell.com/feed/
   - https://travellerrpgblog.blogspot.com/feeds/posts/default
@@ -118,6 +119,7 @@ params:
   - https://www.3d6downtheline.com/blog?format=rss
   - https://www.baldurbjarnason.com/feed.xml/
   - https://www.bastionland.com/feeds/posts/default
+  - https://www.citationneeded.news/rss/
   - https://www.debian.org/News/news
   - https://www.dyerdwelling.family/index.xml
   - https://www.errantadventurespod.com/blog?format=rss
@@ -139,23 +141,23 @@ params:
   - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - personal
-  - responses
+  - emacs
+  - reading
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Writing as Reciprocation
-  last_post_description: "Summary: \nSharing of books read and of an opening to a
-    story I’ve long-considered.\n\n        \n\n\n\n\nWe must not abandon the memory
-    of the dead.\n\n\nI found the following quote by Mandy Brown from Jim"
-  last_post_date: "2025-06-11T19:49:19-04:00"
-  last_post_link: https://takeonrules.com/2025/06/11/writing-as-reciprocation/
+  last_post_title: Dynamic Org-Mode Block to List Books Read
+  last_post_description: "Related Links :: Tags: \n<\nemacs \n\n<\nreading \n\n\nSummary:
+    \nAn #Emacs function defining an #OrgMode dynamic block so that I can easily insert
+    a list of books I’ve finished reading within a given month"
+  last_post_date: "2025-09-14T16:20:33-04:00"
+  last_post_link: https://takeonrules.com/2025/09/14/dynamic-org-mode-block-to-list-books-read/
   last_post_categories:
-  - personal
-  - responses
+  - emacs
+  - reading
   last_post_language: ""
-  last_post_guid: c8d2c41c463ef879eda2faac45ce29c0
+  last_post_guid: b88cb18e271cd471d282668017cbf551
   score_criteria:
     cats: 0
     description: 3

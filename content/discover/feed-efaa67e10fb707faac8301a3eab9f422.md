@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: J Law 交易课程 EP4：移动平均线的真正用法——冠军交易心法
+  last_post_title: 交易心理学：纪律、失望与耐心——Al Brooks 学生的核心心得
   last_post_description: |-
     引言
-    本文内容整理自 YouTube 博主 J Law 的“终极股票交易课程”系列视频的第四集。在本集中，J Law 分享了他作为全美投资大赛 (US Investing Championship)
-  last_post_date: "2025-07-26T13:00:00+08:00"
-  last_post_link: https://blog.forecho.com/jlaw-meta-strategy-ep4.html
+    我们都从 Al Brooks 的课程中学到了精湛的价格行为分析技术，但从“知道”到“做到”之间，往往隔着一条充满心理挑战的鸿沟。Al Brooks 的学生
+  last_post_date: "2025-09-12T20:00:00+08:00"
+  last_post_link: https://blog.forecho.com/brad-wolff-trading-wisdom.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 483353a821ad81878d1dc9fc12a8a44d
+  last_post_guid: 3228b00582ea26ce809796992bb6f5f2
   score_criteria:
     cats: 0
     description: 3

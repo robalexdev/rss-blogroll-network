@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Emacs Auto-Insert Default Text in New Files
-  last_post_description: "Below is an example of adding an extremely simple JavaScript
-    template\nusing a skeleton template:\n\n\n\n(define-auto-insert 'js-mode\n  '(nil\n
-    \   \"// Copyright \"\n    (format-time-string \"%Y\") \" \"\n   "
-  last_post_date: "2025-06-11T00:00:00-04:00"
-  last_post_link: https://taingram.org/blog/emacs-auto-insert.html
+  last_post_title: Minimal Debian 13 and LaTeX Install
+  last_post_description: |-
+    The method I used was a little more chaotic.  I installed the base
+    texlive system via apt.  This gives us all the critical stuff for
+    building basic documents (pdflatex, tlmgr) with minimal effort
+  last_post_date: "2025-09-05T00:00:00-04:00"
+  last_post_link: https://taingram.org/blog/minimal-debian-texlive.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd90acc67866bb3c8b4930a3f15cafed
+  last_post_guid: 3f603d61ee890521b314a102e4e051d1
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 13
+  postcount: 14
   avgpostlen: 0
 ---

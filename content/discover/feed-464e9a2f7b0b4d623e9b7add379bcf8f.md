@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 464e9a2f7b0b4d623e9b7add379bcf8f
   websites:
-    https://www.fitzsim.org/blog: true
     https://www.fitzsim.org/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 1
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

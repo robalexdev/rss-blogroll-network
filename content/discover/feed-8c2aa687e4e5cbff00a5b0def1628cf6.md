@@ -18,34 +18,33 @@ params:
   categories: []
   relme:
     https://balintmagyar.com/: true
-  last_post_title: 'Client-side RCE via improper URL parsing in Google Web Designer
-    for Windows: CVE-2025-4613'
+  last_post_title: Client-side RCE via CSS Injection in Google Web Designer for Windows
   last_post_description: |-
     tl;dr
-                Tested versions: Google Web Designer 16.1.0.0530 (released cca. June 2024) and 16.2.0.0128 (released February 28, 2025)
-    This issue is tracked as CVE-2025-4613, and has been fixed in
-  last_post_date: "2025-05-22T00:00:00+02:00"
-  last_post_link: https://balintmagyar.com/articles/google-web-designer-path-traversal-client-side-rce-cve-2025-4613
+                Tested versions: Google Web Designer 16.3.0.0407 (released April 2025)
+    After my recent discovery of two client-side remote code execution vulnerabilities in Google Web Designer
+  last_post_date: "2025-08-30T00:00:00+02:00"
+  last_post_link: https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e835de6e9eda1119788527d6e5c0869
+  last_post_guid: e3d96d3278b22ae14a2387a15beb4a4a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 2
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 2
+  postcount: 4
   avgpostlen: 0
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.rumyra.com/feed.xml
   feedtype: rss
   feedid: f155e47ee79ce247fe8d5fb8cfb60dfd
-  websites: {}
+  websites:
+    https://blog.rumyra.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -37,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

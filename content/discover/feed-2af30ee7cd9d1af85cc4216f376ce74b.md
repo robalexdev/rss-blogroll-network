@@ -9,7 +9,7 @@ params:
   feedtype: rss
   feedid: 2af30ee7cd9d1af85cc4216f376ce74b
   websites:
-    https://shilin.ca/: false
+    https://shilin.ca/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -18,17 +18,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - experimental
+  - philosophy
   relme: {}
-  last_post_title: in the elevator
-  last_post_description: A dialogue-only short story where two exes stuck in an elevator
-    confront the silence between them. Tense, emotional, and deeply human.
-  last_post_date: "2025-05-28T11:29:00Z"
-  last_post_link: https://shilin.ca/in-the-elevator/
+  last_post_title: 'searching for purpose in stillness: one month without doing'
+  last_post_description: I'm taking a month off from doing — no coding, no building
+    — just writing and wondering if stillness can help me find a sense of purpose.
+  last_post_date: "2025-05-27T15:49:00Z"
+  last_post_link: https://shilin.ca/searching-for-purpose-in-stillness-one-month-without-doing/
   last_post_categories:
-  - experimental
+  - philosophy
   last_post_language: ""
-  last_post_guid: 0a4a4c6473a822ef991a77e5b26ce94a
+  last_post_guid: bda4f426909fd99c0bfc6e35dd79130c
   score_criteria:
     cats: 0
     description: 3
@@ -40,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

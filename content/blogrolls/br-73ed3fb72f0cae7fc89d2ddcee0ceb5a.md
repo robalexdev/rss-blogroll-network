@@ -1,6 +1,6 @@
 ---
 title: The Document Foundation Planet
-date: Mon, 11 Aug 2025 05:00:24 GMT
+date: Mon, 15 Sep 2025 04:00:33 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml
@@ -36,9 +36,6 @@ params:
   - title: Stuff Michael Meeks is doing
     description: things, of varying degrees of uselessness, that I did
     id: 38c20ffc82e175d1202d4f37fef8e466
-  - title: LibreOffice - Calc Performance Improvements
-    description: GSOC 2012 - LibreOffice Calc Performance Improvements Project
-    id: 3a7d5f9d57f4e5461dd2465323a48b11
   - title: Doom's libreoffice adventure
     description: A little tour about the world of libreoffice hacking
     id: 3c0471dceeb7669abf3baf66bdbc0224
@@ -60,9 +57,6 @@ params:
   - title: LibreOffice Design Team
     description: Blog site from the design and UX teams working on LibreOffice
     id: 4c594360b3d04394182e628b178a284b
-  - title: LibreOffice – @Siqi
-    description: A tech lover in his ÃŸ !
-    id: 588cacd40c7d56715cbd47e9cd437984
   - title: Bayram Çiçek's website
     description: All content written by me is by default released freely under the
       Public License.
@@ -73,10 +67,6 @@ params:
   - title: english – libreoffice.hu
     description: Libreoffice - A magyar közösség honlapja
     id: 6a33621fa249aaca65f758d792c330ee
-  - title: LibreOffice – BlogSophy
-    description: “Philosophy is a peculiarly stubborn attempt to think clearly.” ~
-      William James
-    id: 6d7af6cc060e3e975e063e12142783fb
   - title: '- Susobhan Ghosh''s blog'
     description: Posts categorized as 'LibreOffice'
     id: 74a2ea0f41a09ac2caa0f81cf8e77915

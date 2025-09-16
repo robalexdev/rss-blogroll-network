@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Event Sourcing: Reactivity Without the React Overhead'
-  last_post_description: In this post, I’ll share some things I’ve enjoyed about event
-    sourcing since adopting it.I'll start by saying that one of the ideas I love about
-    some of today’s JavaScript frameworks is that
+  last_post_title: Get started with event sourcing today
+  last_post_description: I hope this series has inspired you to try event sourcing.
+    In this article, I will give you some suggestions on how to start using it.The
+    mechanics of event sourcing are not complicated. They’re
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://everydaysuperpowers.dev/articles/event-sourcing-reactivity-without-the-react-overhead/
+  last_post_link: https://everydaysuperpowers.dev/articles/get-started-with-event-sourcing-today/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 15ca6634ace4ac4053dd00aac4eb7e9c
+  last_post_guid: b80bfa0f2735a23e37ee95352407ee65
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 29
+  postcount: 30
   avgpostlen: 0
 ---

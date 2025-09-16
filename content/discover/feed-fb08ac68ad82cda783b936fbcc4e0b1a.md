@@ -12,39 +12,35 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Mods Asleep
-  - Music
-  - guest editor
-  - pop stars
-  - puja week
-  - relationships
-  - taylor swift
-  - trans issues
+  - Arts And Culture
+  - catfishing
+  - documentaries
+  - netflix
+  - true crime
+  - unknown number
   relme: {}
-  last_post_title: Taylor Swift Turned Me Straight
-  last_post_description: I finally get Midnights. I don’t just mean, “Oh, I thought
-    this album was whatever when I first heard it, and now I really love it,” though
-    I do mean that a little bit. I mean I get it get it.
-  last_post_date: "2025-08-11T16:01:19Z"
-  last_post_link: https://defector.com/taylor-swift-turned-me-straight
+  last_post_title: Not Every Documentary About A Crime Needs To Be A True Crime Documentary
+  last_post_description: 'The events outlined in the Netflix documentary Unknown Number:
+    The High School Catfish are undoubtedly salacious. In October 2020, Lauryn Licari
+    and her boyfriend Owen McKenny, two teenagers in the'
+  last_post_date: "2025-09-14T21:40:55Z"
+  last_post_link: https://defector.com/not-every-documentary-about-a-crime-needs-to-be-a-true-crime-documentary
   last_post_categories:
-  - Mods Asleep
-  - Music
-  - guest editor
-  - pop stars
-  - puja week
-  - relationships
-  - taylor swift
-  - trans issues
+  - Arts And Culture
+  - catfishing
+  - documentaries
+  - netflix
+  - true crime
+  - unknown number
   last_post_language: ""
-  last_post_guid: f9def02c123a87471ecd7adafb0b653f
+  last_post_guid: 83ab96d9974fb5bba8740630678df88f
   score_criteria:
     cats: 0
     description: 3

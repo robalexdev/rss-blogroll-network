@@ -1,6 +1,6 @@
 ---
 title: so…
-date: "2025-02-19T17:47:13Z"
+date: "2025-09-02T07:52:10Z"
 description: Norm's musings. Make of them what you will.
 params:
   feedlink: https://so.nwalsh.com/feed/fulltext.xml?topic=Emacs
@@ -16,37 +16,34 @@ params:
   recommender: []
   categories:
   - Emacs
-  - Saxonica
-  - XML
+  - OrgMode
   relme: {}
-  last_post_title: XPath server 0.0.2
-  last_post_description: An updated little hack to leverage Saxon for evaluating XPath
-    expressions in Emacs.
-  last_post_date: "2025-02-19T17:47:13Z"
-  last_post_link: https://so.nwalsh.com/2025/02/19-xpath-server
+  last_post_title: Org to XML (redux)
+  last_post_description: I still want XML out. I still always want XML out.
+  last_post_date: "2025-09-02T07:52:10Z"
+  last_post_link: https://so.nwalsh.com/2025/09/02-org-to-xml
   last_post_categories:
   - Emacs
-  - Saxonica
-  - XML
+  - OrgMode
   last_post_language: ""
-  last_post_guid: c4c7d9aa62c16b132218a05e10e40a58
+  last_post_guid: c60e05b5f579da9e45e79d7fc04d8c19
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 22
+  postcount: 23
   avgpostlen: 296
 ---

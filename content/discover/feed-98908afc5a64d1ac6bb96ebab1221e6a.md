@@ -6,7 +6,8 @@ params:
   feedlink: https://sheaves.github.io/feed.xml
   feedtype: rss
   feedid: 98908afc5a64d1ac6bb96ebab1221e6a
-  websites: {}
+  websites:
+    https://sheaves.github.io/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Sage
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

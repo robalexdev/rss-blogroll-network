@@ -22,6 +22,8 @@ params:
     id: 56fb5d46572d863c78edd7bd5bd25295
   recommended: []
   recommender:
+  - https://ttntm.me/blog/feed.xml
+  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []

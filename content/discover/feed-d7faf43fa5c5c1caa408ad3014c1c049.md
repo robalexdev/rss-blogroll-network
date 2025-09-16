@@ -9,7 +9,7 @@ params:
   feedtype: rss
   feedid: d7faf43fa5c5c1caa408ad3014c1c049
   websites:
-    https://lili.bearblog.dev/: false
+    https://lili.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
   - title: Colin Walker's readroll
@@ -18,7 +18,6 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   categories:
   - academia
   - anarchy
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

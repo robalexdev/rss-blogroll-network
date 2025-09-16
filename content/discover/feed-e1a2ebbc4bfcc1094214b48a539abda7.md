@@ -7,8 +7,7 @@ params:
   feedtype: atom
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
-    https://mxb.dev/notes: false
-    https://mxb.dev/notes/: false
+    https://mxb.dev/: true
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -23,12 +22,11 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
-  relme: {}
+  relme:
+    https://mxb.dev/: true
   last_post_title: Faster Horses
   last_post_description: ""
   last_post_date: "2025-01-19T00:00:00Z"
@@ -45,10 +43,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

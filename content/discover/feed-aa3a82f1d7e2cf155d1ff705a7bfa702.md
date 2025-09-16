@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2025-07-31T10:10:27+01:00"
+date: "2025-08-27T11:33:51+01:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -15,36 +15,49 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Canterbury
-  - Personal
+  - Benchmarking
+  - Instrumentation
+  - Java
+  - Profilers
+  - Research
+  - Sampling
+  - Tooling
+  - paper
   relme: {}
-  last_post_title: It’s Thursday, and My Last* Day at Kent
-  last_post_description: Today is the 31st of July 2025, and from tomorrow on I’ll
-    be “between jobs”, or as Gen Z allegedly calls it, on a micro-retirement.
-  last_post_date: "2025-07-31T09:54:08+01:00"
-  last_post_link: https://stefan-marr.de/2025/07/last-day-at-kent/
+  last_post_title: How to Slow Down a Program? And Why it Can Be Useful.
+  last_post_description: 'Most research on programming language performance asks a
+    variation of a single question: how can we make some specific program faster?
+    Sometimes we may even investigate how we can use less memory.'
+  last_post_date: "2025-08-27T11:20:04+01:00"
+  last_post_link: https://stefan-marr.de/2025/08/how-to-slow-down-a-program/
   last_post_categories:
-  - Canterbury
-  - Personal
+  - Benchmarking
+  - Instrumentation
+  - Java
+  - Profilers
+  - Research
+  - Sampling
+  - Tooling
+  - paper
   last_post_language: ""
-  last_post_guid: ed88a628a47cd31b14a05b28673352b2
+  last_post_guid: a73a19351f0a216c54e20c48125f9d92
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 294
+  avgpostlen: 295
 ---

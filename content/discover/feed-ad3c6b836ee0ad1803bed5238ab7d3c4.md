@@ -8,7 +8,7 @@ params:
   feedtype: rss
   feedid: ad3c6b836ee0ad1803bed5238ab7d3c4
   websites:
-    https://scottrichmond.me/: false
+    https://scottrichmond.me/: true
     https://scottrichmond.me/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

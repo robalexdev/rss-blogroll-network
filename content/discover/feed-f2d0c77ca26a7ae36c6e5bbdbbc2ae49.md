@@ -13,8 +13,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: Links for Josh Betz
+    description: ""
+    id: e95f4bbd4e48a622672e6ca597d8f4b3
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
@@ -22,26 +25,29 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://josh.blog/comments/feed
+  - https://josh.blog/feed
   categories:
-  - AI & ML
-  - GitHub Copilot
-  - code review
-  - pull requests
+  - AI
+  - GitHub Podcast
+  - Maintainers
+  - Open Source
+  - open source community
   relme: {}
-  last_post_title: How to use GitHub Copilot to level up your code reviews and pull
-    requests
+  last_post_title: Building personal apps with open source and AI
   last_post_description: |-
-    Discover practical ways GitHub Copilot streamlines code reviews, pull requests, and daily engineering tasks with real prompts, examples, and workflow tips from our engineering team.
-    The post How to
-  last_post_date: "2025-08-08T16:00:00Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/
+    Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast.
+    The post Building personal apps with open source and AI
+  last_post_date: "2025-09-12T16:00:00Z"
+  last_post_link: https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/
   last_post_categories:
-  - AI & ML
-  - GitHub Copilot
-  - code review
-  - pull requests
+  - AI
+  - GitHub Podcast
+  - Maintainers
+  - Open Source
+  - open source community
   last_post_language: ""
-  last_post_guid: f152b0a88169391ad2aefbcaf8e46926
+  last_post_guid: 7635ec789cb9c676152f3726da3d9695
   score_criteria:
     cats: 0
     description: 3

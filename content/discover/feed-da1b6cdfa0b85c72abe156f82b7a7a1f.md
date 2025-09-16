@@ -18,10 +18,9 @@ params:
   categories: []
   relme: {}
   last_post_title: 'Interesting Reads: On Beethoven and the Gifts of Silence'
-  last_post_description: |-
-    I’ve read On Beethoven and the Gifts of Silence by Cal Newport and here’s what I’ve learned…
-
-    This was a great read on the benefits of silence and unplugging from the...
+  last_post_description: I’ve read On Beethoven and the Gifts of Silence by Cal Newport
+    and here’s what I’ve learned… This was a great read on the benefits of silence
+    and unplugging from the...
   last_post_date: "2025-05-18T21:31:11Z"
   last_post_link: https://cassiel.pika.page/posts/interesting-reads-on-beethoven-and-the-gifts-of-silence
   last_post_categories: []

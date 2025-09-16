@@ -6,8 +6,7 @@ params:
   feedlink: https://cool-as-heck.blog/feed/?type=rss
   feedtype: rss
   feedid: 77807b0cd27c566decfc91e6f3fc8fd4
-  websites:
-    https://cool-as-heck.blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,23 +15,16 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://blog.shrediverse.net/: true
-    https://cool-as-heck.blog/: true
-    https://cool-as-heck.blog/about/: true
-    https://dmv.community/@jcrabapple: true
-    https://links.dmv.pub/@jcrabapple: true
-    https://proven.lol/8e7715: true
-    https://proven.lol/523f62: true
-  last_post_title: Tuesday Night Trivia
-  last_post_description: My wife and I went to Tuesday trivia night at Vibrissa here
-    in Winchester last night. It was tough! There were some really hard questions.
-    We ended up in the middle of the pack, as usual. However, I
-  last_post_date: "2025-07-30T15:48:00Z"
-  last_post_link: https://cool-as-heck.blog/tuesday-night-trivia
+  relme: {}
+  last_post_title: A mead-making field guide
+  last_post_description: If you've been following along with my mead-making antics
+    on Mastodon and wondered what the hell is going on, here's a "field guide" of
+    sorts of the different types of mead. My journey in mead making
+  last_post_date: "2025-09-02T09:44:00-04:00"
+  last_post_link: https://cool-as-heck.blog/a-mead-making-field-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: baf7912030e00ff6955039fd95c8301a
+  last_post_guid: afe85d459cbe4f22857132447808535e
   score_criteria:
     cats: 0
     description: 3
@@ -42,14 +34,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 10
+  postcount: 13
   avgpostlen: 0
 ---

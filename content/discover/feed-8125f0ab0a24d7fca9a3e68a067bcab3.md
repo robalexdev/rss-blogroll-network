@@ -6,7 +6,8 @@ params:
   feedlink: https://grep.be/blog/pd/index.rss
   feedtype: rss
   feedid: 8125f0ab0a24d7fca9a3e68a067bcab3
-  websites: {}
+  websites:
+    https://grep.be/blog/pd/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

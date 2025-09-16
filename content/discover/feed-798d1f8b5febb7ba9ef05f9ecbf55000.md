@@ -19,16 +19,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: The plugins I use on this site – the what and the why
-  last_post_description: This is a snapshot, at time of writing, of what plugins I’m
-    using on my site. And this will vary from one month to the next. I’ve grouped
-    them appropriately too and given an explanation as to
-  last_post_date: "2025-08-03T11:35:03Z"
-  last_post_link: https://artiss.blog/2025/08/the-plugins-i-use-on-this-site-the-what-and-the-why/
+  last_post_title: Ordering a new iPhone with Apple’s Upgrade Programme
+  last_post_description: Not many people realise it’s even a thing but in the UK you
+    can get a minty-fresh iPhone every year as part of Apple’s own iPhone Upgrade
+    Programme. You pay a set amount every month and, with
+  last_post_date: "2025-09-14T08:11:15Z"
+  last_post_link: https://artiss.blog/2025/09/ordering-a-new-iphone-with-apples-upgrade-programme/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: fb7ef634d7f92aa9a092a2d977a4420b
+  last_post_guid: 69cf28d131572ef461ba734ce5525f51
   score_criteria:
     cats: 0
     description: 3

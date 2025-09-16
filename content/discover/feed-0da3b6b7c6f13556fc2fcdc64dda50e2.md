@@ -7,26 +7,22 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
-    https://www.nathalielawhead.com/candybox: true
     https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender: []
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
   categories:
   - Games
   - talks
-  relme:
-    https://www.nathalielawhead.com/candybox: true
+  relme: {}
   last_post_title: 'A crash course introduction into experimental indie games: Arthouse
     Games as a force for good & the activism of video games'
   last_post_description: |-
@@ -49,10 +45,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

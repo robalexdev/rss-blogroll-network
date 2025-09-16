@@ -1,6 +1,6 @@
 ---
 title: Christian Fei's Blog - cri.dev
-date: "2025-06-18T00:00:00Z"
+date: "2025-08-20T00:00:00Z"
 description: A blog about Programming, DIY and personal ramblings
 params:
   feedlink: https://cri.dev/rss.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Implementing HTTP range requests in Node.js
+  last_post_title: How to fix hanging tests in Node.js
   last_post_description: ""
-  last_post_date: "2025-06-18T00:00:00Z"
-  last_post_link: https://cri.dev/posts/2025-06-18-how-to-http-range-requests-video-nodejs/?utm_medium=rss&utm_source=rss&utm_campaign=rss
+  last_post_date: "2025-08-20T00:00:00Z"
+  last_post_link: https://cri.dev/posts/2025-08-20-how-to-fix-node-js-mock-timers-enable-setinterval-tests-hanging-pending/?utm_medium=rss&utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b3e1bd24e6b5da78862e9bd540407af
+  last_post_guid: f4048a3fde9775c6dd04d40d7f5b8efb
   score_criteria:
     cats: 0
     description: 3

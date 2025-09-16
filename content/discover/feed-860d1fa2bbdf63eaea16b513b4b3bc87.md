@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The hiring test that defeated AI
-  last_post_description: For a few months
-  last_post_date: "2025-08-05T15:18:18Z"
-  last_post_link: https://www.bitecode.dev/p/the-hiring-test-that-defeated-ai
+  last_post_title: What's up Python? Astral never stops, JetBrains gives us insights
+  last_post_description: August, 2025
+  last_post_date: "2025-09-05T15:47:35Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-astral-never-stops
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5a29ca19f8126c7e8621734ca8403d0a
+  last_post_guid: 37f60cd8361ddf707eb0fe8257a62be8
   score_criteria:
     cats: 0
     description: 3

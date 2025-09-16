@@ -1,7 +1,8 @@
 ---
 title: Reyboz Blog
 date: "1970-01-01T00:00:00Z"
-description: Yet another Wikimedian talking about Free Software
+description: We are Rey (a psychologist) and Boz (open source developer), talking
+  about hackings and Free/Libre Software.
 params:
   feedlink: https://blog.reyboz.it/feed/
   feedtype: rss

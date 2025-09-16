@@ -8,6 +8,7 @@ params:
   feedid: eb98bd8d3f20c1e7e5c7da078cc6b4a9
   websites:
     https://voxpelli.com/: false
+    https://voxpelli.com/about/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll

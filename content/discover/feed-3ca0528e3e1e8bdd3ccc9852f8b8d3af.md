@@ -8,6 +8,7 @@ params:
   feedtype: rss
   feedid: 3ca0528e3e1e8bdd3ccc9852f8b8d3af
   websites:
+    https://martijnhols.nl/: true
     https://martijnhols.nl/blog: false
   blogrolls: []
   in_blogrolls:
@@ -21,7 +22,11 @@ params:
   - Programming
   - React
   - Web
-  relme: {}
+  relme:
+    https://github.com/MartijnHols: true
+    https://martijnhols.nl/: true
+    https://martijnhols.nl/blog: true
+    https://mastodon.social/@MartijnHols: true
   last_post_title: Moving away from US cloud services
   last_post_description: Relying on US cloud services poses legal and political risks
     for EU users, so I'm moving away from US cloud services. Here's how and why I
@@ -42,10 +47,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 22
+    website: 2
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

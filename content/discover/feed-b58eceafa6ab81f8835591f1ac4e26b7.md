@@ -17,14 +17,14 @@ params:
   categories:
   - 念念碎
   relme: {}
-  last_post_title: 杂记-20260719
-  last_post_description: 暑假爸妈和老姐一家上广州玩，每天在忙碌又吵闹中度过，6个小孩像蜜蜂一样嗡嗡不停。 做正确的事情 近日在雪球上看 […]
-  last_post_date: "2025-07-20T08:42:20Z"
-  last_post_link: https://www.leolin86.com/?p=3671
+  last_post_title: 股市杂想
+  last_post_description: 最近感受到大A牛市的东风已吹到身边，不少朋友化身新韭菜，有去年10.8高位进场被割韭菜至今在奋斗回本的，也有1 […]
+  last_post_date: "2025-09-12T01:09:01Z"
+  last_post_link: https://www.leolin86.com/?p=3764
   last_post_categories:
   - 念念碎
   last_post_language: ""
-  last_post_guid: 7848a0e2d57e0ea1ade7df9bbf6fdc01
+  last_post_guid: 792eb30ec4c123985e362b64787a0db3
   score_criteria:
     cats: 0
     description: 0

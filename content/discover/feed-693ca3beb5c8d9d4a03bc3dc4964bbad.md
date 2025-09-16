@@ -16,24 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - HTML
+  - CSS
   - JavaScript
   relme:
     https://github.com/Lruihao: true
     https://lruihao.cn/: true
-  last_post_title: 黑盒出关・三把钥匙定江湖
-  last_post_description: !!binary |
-    5rGf5rmW5Lyg6KiA77yM6KW/5Zyf5rWP6KeI5Zmo55WM5pyJ6ZqQ5LiW6auY5Lq677yM5Z
-    CN5puw4oCc5Y6f55Sf6ICB56WW4oCd44CC6ICB56WW6Iad5LiL5LiJ5b6S77yM5ZCE5omn
-    5LiA5p+E6ZKl5YyZ77yM5byA5b6X5LqG6buR55uS77yM6ZSB5b6X5L2P5Lm+5Z2k44CC5L
-    uK5pel5aSn6K+d77yM6K+45L2N6Iux6ZuE5LiU5oqK6ICz5rSe5pS+5aQ=
-  last_post_date: "2025-08-05T11:31:52+08:00"
-  last_post_link: https://lruihao.cn/posts/wc-01-prologue/
+  last_post_title: 让 Mermaid 图表自动跟随系统深浅色
+  last_post_description: Mermaid 是目前最流行的「文本即图表」渲染库，但它对「系统深浅色自动切换」的支持一直暧昧不明。官方 Roadmap
+  last_post_date: "2025-08-16T12:37:49+08:00"
+  last_post_link: https://lruihao.cn/posts/mermaid-theming/
   last_post_categories:
-  - HTML
+  - CSS
   - JavaScript
   last_post_language: ""
-  last_post_guid: 50e5de8cb16576974c3d45c3253aeeec
+  last_post_guid: 62698086f42f64a0bf237ae917f956c2
   score_criteria:
     cats: 0
     description: 3

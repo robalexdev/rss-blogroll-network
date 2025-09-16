@@ -1,12 +1,13 @@
 ---
 title: alp's notes
-date: "2025-05-10T04:46:16-07:00"
+date: "2025-09-03T10:57:14-07:00"
 description: ""
 params:
   feedlink: https://alp-notes.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 98afd10e2add77fdadac37afaede9868
-  websites: {}
+  websites:
+    https://alp-notes.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Illumos
@@ -109,7 +110,9 @@ params:
   - loopback
   - raidz
   - wine
-  relme: {}
+  relme:
+    https://alp-notes.blogspot.com/: true
+    https://www.blogger.com/profile/05703436685982405026: true
   last_post_title: Creating a simple foreign data wrapper for PostgreSQL
   last_post_description: ""
   last_post_date: "2023-01-06T02:52:00-08:00"
@@ -127,10 +130,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 20
+    website: 2
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

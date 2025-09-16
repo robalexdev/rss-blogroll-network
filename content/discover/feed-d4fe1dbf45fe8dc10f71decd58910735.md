@@ -15,20 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Compliance
-  - Security
-  - enterprise application security
+  - Ubuntu Pro
   relme: {}
-  last_post_title: A CISO’s guide to Application Security best practices
-  last_post_description: Effective AppSec is not a one-time fix but a continuous journey
-    across every facet of your application’s lifecycle. By embracing a Secure Software
-    Development Lifecycle (SSDLC) from the outset,
-  last_post_date: "2025-08-11T09:00:00Z"
-  last_post_link: https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices
+  last_post_title: What our users make with Ubuntu Pro &#8211; Episode 2
+  last_post_description: How Vaultara achieved FedRAMP compliance with Ubuntu Pro
+    Ubuntu Pro helps businesses worldwide to innovate and shape the future. In this
+    edition of What our users make with Pro, we talk to Dave Monk,
+  last_post_date: "2025-09-11T12:13:51Z"
+  last_post_link: https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2
   last_post_categories:
-  - Compliance
-  - Security
-  - enterprise application security
+  - Ubuntu Pro
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:
@@ -37,13 +33,13 @@ params:
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

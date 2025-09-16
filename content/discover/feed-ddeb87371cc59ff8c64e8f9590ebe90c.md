@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 八月 EMO
+  last_post_title: 初试 DB-GPT
   last_post_description: ""
-  last_post_date: "2025-08-05T20:54:43+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/august-emotions/
+  last_post_date: "2025-09-07T19:58:55+08:00"
+  last_post_link: https://yuanfan.rbind.io/project/dbgpt1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34c6e1f6d2e0abc9b2394f167b94ef50
+  last_post_guid: 893d65b745ed4cceb8c883f31d74a388
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 327
+  postcount: 331
   avgpostlen: 0
 ---

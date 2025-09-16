@@ -6,7 +6,8 @@ params:
   feedlink: https://knowwhereconsulting.co.uk/feed/
   feedtype: rss
   feedid: be4eaf5dc1a8dc840c7c4935b35e9ffe
-  websites: {}
+  websites:
+    https://knowwhereconsulting.co.uk/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -42,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

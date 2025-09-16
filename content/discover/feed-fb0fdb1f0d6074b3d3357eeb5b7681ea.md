@@ -19,17 +19,20 @@ params:
   categories:
   - Haskell
   relme: {}
-  last_post_title: Faking ADTs and GADTs in Languages That Shouldn't Have Them
+  last_post_title: The Baby Paradox in Haskell
   last_post_description: |-
-    Haskell is the world’s best programming language1, but let’s
-    face the harsh reality that a lot of times in life you’ll have to write in other
-    programming languages. But alas you have been fully
-  last_post_date: "2025-04-01T17:29:41Z"
-  last_post_link: https://blog.jle.im/entry/faking-adts-and-gadts.html
+    Everybody
+    Loves My Baby is a Jazz Standard from 1924 with the famous lyric:
+
+    Everybody loves my baby, but my baby don’t love nobody but me.
+
+    Which is often formalized as
+  last_post_date: "2025-08-21T15:36:28Z"
+  last_post_link: https://blog.jle.im/entry/the-baby-paradox-in-haskell.html
   last_post_categories:
   - Haskell
   last_post_language: ""
-  last_post_guid: d52ee7d7f9f50dedfc06dc7d968a840b
+  last_post_guid: 7225675208874161fce91ec5ad72c2d3
   score_criteria:
     cats: 0
     description: 3

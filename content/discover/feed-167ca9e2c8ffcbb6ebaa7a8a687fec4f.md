@@ -1,6 +1,6 @@
 ---
 title: Chase McCoy
-date: "2025-08-04T12:00:00-05:00"
+date: "2025-08-29T12:00:00-05:00"
 description: Chase McCoy explores, builds, & writes about the web
 params:
   feedlink: https://chsmc.org/feed.xml
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 50
+  postcount: 53
   avgpostlen: 295
 ---

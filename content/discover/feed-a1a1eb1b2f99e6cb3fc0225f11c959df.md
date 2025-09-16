@@ -17,19 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The 'politsei' problem, or how filtering unwanted content is still
-    an issue in 2025
+  last_post_title: 'Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years
+    of use?'
   last_post_description: |-
-    A long time ago, there
-    was a small Estonian website called “Mängukoobas” (literal
-    translation
-    from Estonian is “game cave”).
-    It started out as a place for people to share various links to
-  last_post_date: "2025-08-11T06:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2025/08/11/eins-zwei-polizei/
+    I’ve been running four Samsung 870 QVO 4TB SATA SSD-s for a while now. They’re old enough to be popping up on the
+    second-hand market, so I thought it would be good to provide a few additional
+  last_post_date: "2025-09-15T06:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 644acc6d3823dddf8cc8ec47a00413a0
+  last_post_guid: c46ee824b37e751f398f943b9547b1d0
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 113
+  postcount: 127
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2025-08-06T02:47:03Z"
+date: "2025-09-09T21:25:42Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Is Solo Bitcoin Mining a Good Investment?
-  last_post_description: I recently saw a headline about a "solo miner" successfully
-    mining a Bitcoin block and receiving the coveted 3.125₿ mining reward. Actually,
-    there's been a
-  last_post_date: "2025-04-08T02:44:34Z"
-  last_post_link: https://flowtwo.io/post/is-solo-bitcoin-mining-a-good-investment%3F
+  last_post_title: Automating Quordle With an LLM
+  last_post_description: At my current company, there's been a big push to use AI
+    to automate everything we do. Anything that requires human intervention, isn't
+    super critical, and happens regularly is considered a good ca
+  last_post_date: "2025-09-09T21:18:50Z"
+  last_post_link: https://flowtwo.io/post/automating-quordle-with-an-llm
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 602a8e596ec192b29ecf074c36c6ba3a
+  last_post_guid: f486b07272567fbbc91bccafb995d13d
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 41
+  postcount: 43
   avgpostlen: 0
 ---

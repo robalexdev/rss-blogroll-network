@@ -21,12 +21,12 @@ params:
   - swim
   - swimming
   relme: {}
-  last_post_title: Channel dreams (and realities)
-  last_post_description: At about nine o’clock on a chilly Friday evening in early
-    May, I found myself on the deck of a boat, stripping down to my swimsuit, clipping
-    lights to my goggles, and preparing to plunge into the
-  last_post_date: "2025-05-06T19:18:03Z"
-  last_post_link: http://wordridden.com/post/1058
+  last_post_title: Jitterbugs 2025
+  last_post_description: The “Dovercoaster” is how Channel swimmers refer to the uncertainty
+    around when—or indeed, if—they are going to get the call from their boat pilot
+    saying they have a slot to swim. Time and
+  last_post_date: "2025-09-08T01:22:42Z"
+  last_post_link: http://wordridden.com/post/1067
   last_post_categories:
   - channel
   - relay
@@ -34,7 +34,7 @@ params:
   - swim
   - swimming
   last_post_language: ""
-  last_post_guid: cd01d800c6882c7caf57b09c0d5c9fce
+  last_post_guid: c5fd31a0557003237d5b6b907c99dd77
   score_criteria:
     cats: 0
     description: 3

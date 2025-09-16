@@ -17,36 +17,32 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
   - Life
-  - 稽古
   relme: {}
-  last_post_title: Blister the night / 合宿
-  last_post_description: Two streaks of red on my white boxing gloves. I check my
-    body for damage but other than the rift in my chest, from which every piece of
-    broken silver has already been plundered, I am disturbingly
-  last_post_date: "2025-08-06T03:56:28Z"
-  last_post_link: https://www.conscienceround.com/archives/9681
+  last_post_title: User error
+  last_post_description: It’s confusing to be told not to give up. Give up on what?
+    Surely not on myself. I may be a cynic, occasionally even a depressive, but I
+    have never doubted that I know my own mind like a best
+  last_post_date: "2025-09-06T03:16:01Z"
+  last_post_link: https://www.conscienceround.com/archives/9581
   last_post_categories:
   - Life
-  - 稽古
   last_post_language: ""
-  last_post_guid: f01fff7e9a5ebdc274ac13dd526fe60e
+  last_post_guid: 681f7088d3876b24dc927074fbdc1f82
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

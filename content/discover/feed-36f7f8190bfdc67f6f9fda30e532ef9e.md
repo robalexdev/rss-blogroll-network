@@ -8,6 +8,7 @@ params:
   feedid: 36f7f8190bfdc67f6f9fda30e532ef9e
   websites:
     https://sallylait.com/: false
+    https://sallylait.com/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -17,7 +18,8 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories: []
-  relme: {}
+  relme:
+    https://sallylait.com/blog/: true
   last_post_title: 'LDX3 CRG: Connecting leaders with disabilities'
   last_post_description: After the first iteration at LeadDev last year, I was thrilled
     to be invited back as one of the co-facilitators of the "Connecting Leaders with
@@ -36,14 +38,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 154
+  postcount: 155
   avgpostlen: 0
 ---

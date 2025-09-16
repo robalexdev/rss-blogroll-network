@@ -14,9 +14,6 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Planet GNOME
-    description: ""
-    id: b5bbda5ab78cf9ad443c46db4a3727b6
   recommended: []
   recommender: []
   categories:

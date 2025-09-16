@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: My dream gravel bike build
-  last_post_description: Back in March, my bike got stolen.I own a few different bikes,
-    but the stolen one was my main rig. It was my do anything, long distance, off-road,
-    on-road, gravel bike that covered 90% of my riding.
-  last_post_date: "2025-08-11T03:16:57Z"
-  last_post_link: https://a.wholelottanothing.org/my-dream-gravel-bike-build/
+  last_post_title: September 9, 2020
+  last_post_description: Five years ago, during an already messed up  year, we had
+    widespread wildfires in the Pacific Northwest that combined with a high pressure
+    front and gave us hot, stale air currents that produced the
+  last_post_date: "2025-09-09T19:44:30Z"
+  last_post_link: https://a.wholelottanothing.org/september-9-2020/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58f3283c4843922f0713e198bb357f48
+  last_post_guid: 37abcbbe6ea875fd0cf3221fc70d9a2a
   score_criteria:
     cats: 0
     description: 3

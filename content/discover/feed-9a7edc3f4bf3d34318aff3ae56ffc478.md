@@ -11,47 +11,42 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Amy Moore
-  - Cannabis
-  - Economy
-  - Missouri
-  - cannabis
-  - draft
-  - microbusiness license
-  - ownership
-  - predatory practices
-  - regulation
-  - revision
-  - rules
+  - Cindy O'Laughlin
+  - Legislature
+  - Lincoln Hough
+  - Senate Appropriations Committee
+  - Special Session
+  - abortion ban
+  - gerrymandering
+  - initiative petition
+  - previous question
   relme: {}
-  last_post_title: Missouri cannabis regulators target rule breakers, predatory contracts
-  last_post_description: Missouri cannabis business owners who have had their license
-    revoked for violating state rules could be prohibited from getting another license
-    under proposed rules announced by state regulators last
-  last_post_date: "2025-08-11T13:00:15Z"
-  last_post_link: https://missouriindependent.com/2025/08/11/missouri-cannabis-regulators-rules-predatory-contracts/
+  last_post_title: Missouri GOP senator slams party leaders for forcing vote on bills
+    without allowing debate
+  last_post_description: The Missouri Senate died at 1:42 p.m. Friday afternoon when
+    Republican leaders refused to allow debate on a measure weakening the initiative
+    petition process, GOP state Sen. Lincoln Hough said in an
+  last_post_date: "2025-09-14T13:00:28Z"
+  last_post_link: https://missouriindependent.com/2025/09/14/missouri-gop-senator-slams-party-leaders-for-forcing-vote-on-bills-without-allowing-debate/
   last_post_categories:
-  - Amy Moore
-  - Cannabis
-  - Economy
-  - Missouri
-  - cannabis
-  - draft
-  - microbusiness license
-  - ownership
-  - predatory practices
-  - regulation
-  - revision
-  - rules
+  - Cindy O'Laughlin
+  - Legislature
+  - Lincoln Hough
+  - Senate Appropriations Committee
+  - Special Session
+  - abortion ban
+  - gerrymandering
+  - initiative petition
+  - previous question
   last_post_language: ""
-  last_post_guid: 91d5301530198b18823fbae053e9690b
+  last_post_guid: 22bab2becfbca9bc637aabd12637e23b
   score_criteria:
     cats: 0
     description: 3

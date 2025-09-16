@@ -18,16 +18,14 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №25·07·30
-  last_post_description: |-
-    AI Has Flipped Software Development
-    最近在做第二个 app 找群友边做边测，对 Luke 的这篇《AI
-  last_post_date: "2025-07-30T09:22:39Z"
+  last_post_title: 安妮薇看看 №25·08·26
+  last_post_description: JJ 的第二款
+  last_post_date: "2025-08-26T07:20:35Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 7392fab33dd2e068f2a63728933b69a3
+  last_post_guid: 4ba165da7e40880c5595977d58d01b96
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 26
+  postcount: 27
   avgpostlen: 0
 ---

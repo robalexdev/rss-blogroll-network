@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unions want to ban driverless taxis—will Democratic leaders say
-    yes?
-  last_post_description: Robotaxis could become ubiquitous in red states and illegal
-    in blue states.
-  last_post_date: "2025-08-07T19:30:00Z"
-  last_post_link: https://www.understandingai.org/p/unions-want-to-ban-driverless-taxiswill
+  last_post_title: Tesla is (still) following in Waymo’s footsteps
+  last_post_description: Scaling a robotaxi service takes years, not months.
+  last_post_date: "2025-09-08T20:17:33Z"
+  last_post_link: https://www.understandingai.org/p/tesla-is-still-following-in-waymos
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1713766a09a5ff33b0bcc1b54cb8599e
+  last_post_guid: 957b9d7956d29e2613ff3fa0254170c5
   score_criteria:
     cats: 0
     description: 3

@@ -6,7 +6,8 @@ params:
   feedlink: https://anto.pt/articles/feed.atom
   feedtype: atom
   feedid: 632913b67d2cec1a929bcf2acdaab8e7
-  websites: {}
+  websites:
+    https://anto.pt/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

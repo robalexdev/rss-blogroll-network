@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 2c5f9c8ef98e2b930acfa5e4f57b58f1
   websites:
+    https://www.jeffgeerling.com/: true
     https://www.jeffgeerling.com/blog: false
   blogrolls: []
   in_blogrolls:
@@ -24,15 +25,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Increasing the VRAM allocation on AMD AI APUs under Linux
-  last_post_description: Since I saw some posts calling out the old (now deprecated)
-    way to increase GTT memory allocations for the iGPU on AMD APUs (like the AI Max+
-    395 / Strix Halo I am testing in the Framework Mainboard
-  last_post_date: "2025-08-08T01:38:22Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux
+  last_post_title: CubeSats are fascinating learning tools for space
+  last_post_description: 'These are CubeSats. Satellites that are going to spaceâ€”or
+    at least, the ones I have here are prototypes. But these have one thing in common:
+    they''re all powered by either a Raspberry Pi, or a'
+  last_post_date: "2025-09-12T14:01:41Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b1537ca6698c8e5287394702edbce4bb
+  last_post_guid: 6c8c421cd440d3e3910168b78a9d2dfd
   score_criteria:
     cats: 0
     description: 0
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 13
+    website: 2
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

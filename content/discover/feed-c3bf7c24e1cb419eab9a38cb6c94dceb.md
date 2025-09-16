@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Nested functions in Python
-  last_post_description: "Functions in Python can be defined within another function.\n
-    \ \n    A function defined within a function\n    \n      \n        Python's functions
-    can be defined pretty much anywhere.\n\n      \n        You"
-  last_post_date: "2025-07-31T15:30:00Z"
-  last_post_link: https://www.pythonmorsels.com/nested-functions/
+  last_post_title: Python REPL Shortcuts & Features
+  last_post_description: "Discover the new Python REPL features introduced in Python
+    3.13. From keyboard shortcuts to block navigation, this reference guide will help
+    you better utilize Python's interactive shell.\n  \n   "
+  last_post_date: "2025-09-08T22:00:00Z"
+  last_post_link: https://www.pythonmorsels.com/repl-features/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30a65607ba3a538a3aca551e20b7584e
+  last_post_guid: 9b625a62213aeeeddd7f0b372e18bdc3
   score_criteria:
     cats: 0
     description: 3

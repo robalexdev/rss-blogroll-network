@@ -1,6 +1,6 @@
 ---
 title: Multiline Comment
-date: "1970-01-01T00:00:00Z"
+date: "2025-09-06T09:09:41-07:00"
 description: ""
 params:
   feedlink: https://multiline.co/mment/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Average Apple Executive, June 2025
+  last_post_title: dependencies vs. devDependencies
   last_post_description: ""
-  last_post_date: "2025-06-09T16:41:00Z"
-  last_post_link: https://multiline.co/mment/2025/06/average-apple-executive/
+  last_post_date: "2025-09-06T09:09:41-07:00"
+  last_post_link: https://multiline.co/mment/2025/09/dependencies-vs-dev-dependencies/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db33e5bfc3eb28ddc932ffac266d6b4f
+  last_post_guid: 9ac25d785c287d0c66dd71c455015840
   score_criteria:
     cats: 0
     description: 0
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 83
+  postcount: 91
   avgpostlen: 290
 ---

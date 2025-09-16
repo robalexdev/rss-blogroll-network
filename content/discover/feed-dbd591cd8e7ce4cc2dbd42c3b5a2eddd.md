@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Load-store conflicts
-  last_post_description: meshoptimizer implements several geometry compression algorithms
-    that are designed to take advantage of redundancies common in mesh data and decompress
-    quickly - targeting many gigabytes per second
-  last_post_date: "2025-05-03T00:00:00Z"
-  last_post_link: https://zeux.io/2025/05/03/load-store-conflicts/
+  last_post_title: Do not disrespect the fractal
+  last_post_description: Some people have a misconception that in software engineering,
+    skill stops mattering for code quality from some level of seniority, and all of
+    the value add shifts to architecture, high level design
+  last_post_date: "2025-08-22T00:00:00Z"
+  last_post_link: https://zeux.io/2025/08/22/do-not-disrespect-the-fractal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c7f3627de86b9caefe97176ed5302d56
+  last_post_guid: be4f4406681d73a5070db22a5127dd15
   score_criteria:
     cats: 0
     description: 0
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 65
+  postcount: 67
   avgpostlen: 0
 ---

@@ -10,42 +10,51 @@ params:
     https://adrianroselli.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
+  - title: Ben Myers's Blogroll
+    description: Blogs and newsletters I check on the regular.
+    id: bf95fc3fe734baa4e4fdf4b50381791c
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Take on Rules Public Blogroll
+    description: ""
+    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
-  recommender: []
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
+  - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - WCAG
+  - UX
   - Web
   - accessibility
   - rant
   - standards
+  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: '1.2.5: Adversarial Conformance'
-  last_post_description: I made a demo for WCAG 2.2 Success Criterion 1.2.5 Audio
-    Description (Prerecorded) AA and have embedded it further down the page. It’s
-    a bit of a download, so either ignore it, be patient, or steal
-  last_post_date: "2025-08-02T17:02:37Z"
-  last_post_link: https://adrianroselli.com/2025/08/1-2-5-adversarial-conformance.html
+  last_post_title: My Thoughts on the State of Surveys
+  last_post_description: Every few months there’s another State of Something survey.
+    As of this week, the State of CSS 2025 survey results have just become available
+    and the State of HTML 2025 survey is wrapping up. This
+  last_post_date: "2025-08-14T14:50:36Z"
+  last_post_link: https://adrianroselli.com/2025/08/my-thoughts-on-the-state-of-surveys.html
   last_post_categories:
-  - WCAG
+  - UX
   - Web
   - accessibility
   - rant
   - standards
+  - usability
   last_post_language: ""
-  last_post_guid: a3ce014ea7db77a45263d94bf2920a24
+  last_post_guid: c581dfc9e5e8a1f73278fc76ab5c9ffc
   score_criteria:
     cats: 0
     description: 3

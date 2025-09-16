@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2025-08-11T01:16:19+08:00"
+date: "2025-09-07T16:48:19+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -17,26 +17,51 @@ params:
   - title: 中文 RSS 聚合 by MoreRSS
     description: ""
     id: c4e30b2e549839519f2711d98fed209e
-  recommended: []
+  recommended:
+  - https://7gugu.com/index.php/feed/
+  - https://blog.fkun.tech/feed/
+  - https://blog.glumi.cn/rss.xml
+  - https://blog.hslzz.cn/atom.xml
+  - https://blog.kingfish404.cn/index.xml
+  - https://blog.vull.top/atom.xml
+  - https://chise.hachiroku.com/zh/feed/
+  - https://emohe.cn/rss.xml
+  - https://geektutu.com/atom.xml
+  - https://mozz.ie/index.xml
+  - https://note.redcha.cn/rss.xml
+  - https://pinpe.top/rss.xml
+  - https://sinofine.me/atom.xml
+  - https://ttio.cc/feed/
+  - https://www.blueke.top/rss.xml
+  - https://www.hansjack.com/feed/
+  - https://www.wikimoe.com/rss
+  - https://www.yunyoujun.cn/atom.xml
+  - https://blog.fkun.tech/feed/atom/
+  - https://blog.hslzz.cn/rss2.xml
+  - https://rpvvn.github.io/atom.xml
+  - https://rpvvn.github.io/rss.xml
+  - https://geektutu.com/feed.xml
   recommender: []
   categories:
-  - git
-  - tilde
-  - 体验
-  - 服务器
+  - Quine
+  - Quine Relay
+  - 压缩包
+  - 自产生程序
   relme:
+    https://github.com/Mabbs: true
     https://mabbs.github.io/: true
-  last_post_title: 在Tilde社区的游玩体验
-  last_post_description: "Tilde社区，如“家”一般的感受\U0001F61D"
-  last_post_date: "2025-08-10T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2025/08/10/tilde.html
+    https://mayx.eu.org/: true
+  last_post_title: 关于ZIP Quine与自产生程序的探索
+  last_post_description: 描述自己的代码……是一种什么样的感觉？
+  last_post_date: "2025-09-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2025/09/01/quine.html
   last_post_categories:
-  - git
-  - tilde
-  - 体验
-  - 服务器
+  - Quine
+  - Quine Relay
+  - 压缩包
+  - 自产生程序
   last_post_language: ""
-  last_post_guid: f725a4a63d0651c86fb46fe8ac21d7ec
+  last_post_guid: f4286e76bcef5c744bdaca69ed2b3284
   score_criteria:
     cats: 0
     description: 3
@@ -45,15 +70,15 @@ params:
     hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 0
+    promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 35
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
   postcount: 10
-  avgpostlen: 262
+  avgpostlen: 254
 ---

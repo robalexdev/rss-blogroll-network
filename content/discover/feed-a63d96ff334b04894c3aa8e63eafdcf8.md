@@ -19,14 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ubuntu 22.04 Jammy 升级 Ubuntu 24.04 Noble
-  last_post_description: 本文将指导如何升级 Ubuntu 22.04 Jammy Jellyfish 到 Ubuntu 24.04 Noble
-    Numbat。
-  last_post_date: "2024-06-21T05:55:00Z"
-  last_post_link: https://u.sb/ubuntu-upgrade-2404/
+  last_post_title: Debian 12 Bookworm 升级 Debian 13 Trixie
+  last_post_description: 本文将指导如何升级 Debian 12 Bookworm 到 Debian 13 Trixie。
+  last_post_date: "2025-08-05T00:00:00Z"
+  last_post_link: https://u.sb/debian-upgrade-13/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f0f04752c08cea8d62e13e7514aec48e
+  last_post_guid: 41508eafedce92cbf74d80477b7c64ee
   score_criteria:
     cats: 0
     description: 3

@@ -14,7 +14,8 @@ params:
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
-  recommender: []
+  recommender:
+  - https://therealadam.com/feed.xml
   categories: []
   relme: {}
   last_post_title: Introduction to WebAssembly

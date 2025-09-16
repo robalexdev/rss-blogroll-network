@@ -10,34 +10,29 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
     id: a5055187291ff08d5f2ce7e9d27f78cb
-  - title: Roy Tang's Blogroll
-    description: ""
-    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
-  - https://roytang.net/blog/feed/rss/
+  - https://colinwalker.blog/dailyfeed.xml
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Driving on the left
+  last_post_title: 'Media Diet: July and August 2025'
   last_post_description: |-
-    Some people love getting behind the wheel of a car, revving up the engine and just going wherever their whims will take them.
-    I am not one of those people.
-    I approach driving with hesitation and a
-  last_post_date: "2025-07-30T12:20:00-04:00"
-  last_post_link: https://www.inthemargins.ca/driving-on-the-left
+    A quick look at the movies, television shows, music, and books that have captured my attention over the past month.
+    Perfect Days A quiet, contemplative film that not only reminds me to relish the
+  last_post_date: "2025-08-28T18:38:00-04:00"
+  last_post_link: https://www.inthemargins.ca/media-diet-0825
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 48b74a8268409f0b78e3c220a9ee9411
+  last_post_guid: 7278a7ee9abd35512d539a565820e02d
   score_criteria:
     cats: 0
     description: 3

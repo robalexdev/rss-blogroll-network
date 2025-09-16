@@ -6,7 +6,8 @@ params:
   feedlink: https://tookmund.com/feed.xml
   feedtype: rss
   feedid: d5bd3ba7aa29432e4af6d2ba461f093d
-  websites: {}
+  websites:
+    https://tookmund.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -40,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 0
-    website: 0
-  score: 12
+    website: 2
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

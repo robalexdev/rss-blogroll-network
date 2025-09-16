@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2024-12-10T00:00:00Z"
+date: "2025-09-14T00:00:00Z"
 description: ""
 params:
   feedlink: https://bitemyapp.com/atom.xml
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Two memory issues from the last two weeks
-  last_post_description: Okay maybe they don't qualify as actual memory bugs, but
-    they were annoying and had memory as a common theme. One of them by itself doesn't
-    merit a blog post so I bundled them together.
-  last_post_date: "2024-12-10T00:00:00Z"
-  last_post_link: https://bitemyapp.com/blog/two-memory-bugs-two-weeks/
+  last_post_title: Moonbit developers are lying to you
+  last_post_description: The Moonbit team recently published a blog post claiming
+    their language runs "30% faster than Rust" for FFT workloads. This is a lie by
+    omission. They benchmarked against a deliberately crippled Rust
+  last_post_date: "2025-09-14T00:00:00Z"
+  last_post_link: https://bitemyapp.com/blog/moonbit-developers-are-lying-to-you/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1f83d55afe29c25f2caa9b0be5991a4a
+  last_post_guid: b77cc3d58c842a951d1090b7b8feaa87
   score_criteria:
     cats: 0
     description: 0
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 50
+  postcount: 51
   avgpostlen: 0
 ---

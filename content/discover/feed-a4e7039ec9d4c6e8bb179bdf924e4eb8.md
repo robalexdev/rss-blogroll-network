@@ -6,7 +6,8 @@ params:
   feedlink: https://neteler.org/feed/
   feedtype: rss
   feedid: a4e7039ec9d4c6e8bb179bdf924e4eb8
-  websites: {}
+  websites:
+    https://neteler.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -54,8 +55,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

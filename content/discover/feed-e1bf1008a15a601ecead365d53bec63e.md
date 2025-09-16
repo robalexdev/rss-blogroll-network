@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2025-07-23T12:44:46Z"
+date: "2025-09-09T09:20:46Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -8,9 +8,6 @@ params:
   feedid: e1bf1008a15a601ecead365d53bec63e
   websites:
     https://ploum.net/: true
-    https://ploum.net/about.html: false
-    https://ploum.net/index_en.html: false
-    https://ploum.net/index_fr.html: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -21,13 +18,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: 20 years of Linux on the Desktop (part 4)
+  last_post_title: How I fell in love with calendar.txt
   last_post_description: ""
-  last_post_date: "2025-07-23T00:00:00Z"
-  last_post_link: https://ploum.net/2025-07-23-linux_desktop4.html
+  last_post_date: "2025-09-03T00:00:00Z"
+  last_post_link: https://ploum.net/2025-09-03-calendar-txt.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2ee72c889e5f797d192349c6157d7e5d
+  last_post_guid: 3a50a19d0440066ab3eb16ec09aa1a4b
   score_criteria:
     cats: 0
     description: 3
@@ -46,5 +43,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 297
+  avgpostlen: 296
 ---

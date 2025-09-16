@@ -22,14 +22,14 @@ params:
   relme:
     https://mastodon.social/@publicdomainrev: true
     https://publicdomainreview.org/: true
-  last_post_title: 'Through the Magnifying Glass: The Cheese Mites (1903)'
-  last_post_description: A trick film in the peepshow vein, involving magnification
-    and mites on a block of cheese.
-  last_post_date: "2025-07-17T15:29:00Z"
-  last_post_link: https://publicdomainreview.org/collection/the-cheese-mites-1903
+  last_post_title: Ivan Aivazovsky’s Miniature Seascapes (ca. 1887)
+  last_post_description: Identical photographs of the artist, each with a unique miniature
+    painting at the centre.
+  last_post_date: "2025-09-11T13:20:00Z"
+  last_post_link: https://publicdomainreview.org/collection/aivazovsky-miniature-seascapes
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e82da76ce00e6f61a39839c9d9f36f5d
+  last_post_guid: ab3d3df2990e600f82352160dfcf2954
   score_criteria:
     cats: 0
     description: 3

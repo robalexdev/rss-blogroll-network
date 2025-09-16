@@ -16,22 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Guides & Tutorials
+  - Programming
+  - ai
   - anthropic
-  - claude code
+  - svelte
   relme: {}
-  last_post_title: Claude Code hooks for simple macOS notifications
-  last_post_description: I’ve been using Claude Code for a while now, and one thing
-    that always bugged me was not knowing when it finished running a long task. You
-    ask Claude to refactor a large codebase or generate a
-  last_post_date: "2025-07-28T22:15:20Z"
-  last_post_link: https://khromov.se/claude-code-hooks-for-simple-macos-notifications/
+  last_post_title: How and why I built an MCP server for Svelte
+  last_post_description: If you’re using Svelte with coding assistants, you know that
+    these assistants aren’t always aware of the latest features in Svelte 5 and SvelteKit.
+    They’ll suggest outdated patterns, mix up the
+  last_post_date: "2025-09-04T22:48:47Z"
+  last_post_link: https://khromov.se/how-and-why-i-built-an-mcp-server-for-svelte/
   last_post_categories:
-  - Guides & Tutorials
+  - Programming
+  - ai
   - anthropic
-  - claude code
+  - svelte
   last_post_language: ""
-  last_post_guid: a026cada6abe092f84b5e64d1f805102
+  last_post_guid: 2a7c4e1bc1643922f5d636c876de8d7e
   score_criteria:
     cats: 0
     description: 3

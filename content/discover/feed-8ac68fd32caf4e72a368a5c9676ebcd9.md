@@ -1,13 +1,12 @@
 ---
 title: Andrew Ayer - Blog
-date: "2023-06-22T14:18:52Z"
+date: "2025-08-29T16:45:33Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
   feedtype: atom
   feedid: 8ac68fd32caf4e72a368a5c9676ebcd9
   websites:
-    https://www.agwa.name/blog: true
     https://www.agwa.name/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -24,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Story Behind Last Week's Let's Encrypt Downtime
+  last_post_title: SQLite's Durability Settings are a Mess
   last_post_description: ""
-  last_post_date: "2023-06-22T14:18:52Z"
-  last_post_link: https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime
+  last_post_date: "2025-08-29T16:45:33Z"
+  last_post_link: https://www.agwa.name/blog/post/sqlite_durability
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 07fe6e536bd0564133034e0724a3fa36
+  last_post_guid: 29eb93115e3bdeb530da6d7227be64fd
   score_criteria:
     cats: 0
     description: 0
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

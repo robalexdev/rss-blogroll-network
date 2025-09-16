@@ -17,21 +17,19 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories:
   - Random
   relme: {}
-  last_post_title: Often the place of blessing is not our place of preference
-  last_post_description: “The reality here can be unsettling. Often God chooses to
-    meet us with his blessing in a place we do not choose to be. He will bless us
-    on the detour. He will bless us in the Land Between. Often
-  last_post_date: "2025-08-10T21:09:43Z"
-  last_post_link: https://jeffbridgforth.com/often-the-place-of-blessing-is-not-our-place-of-preference/
+  last_post_title: Weeknotes 25:36
+  last_post_description: Finished the Falcon On Sunday, I finished building the Millennium
+    Falcon LEGO set I had started building on Saturday. I had to make two trips to
+    a local LEGO store to buy some missing pieces. What I
+  last_post_date: "2025-09-07T23:57:23Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-september-7-2025/
   last_post_categories:
   - Random
   last_post_language: ""
-  last_post_guid: 22c02b3c193d7abe56220bcbd7865cc8
+  last_post_guid: 71475111de37092b72a3c33c68769297
   score_criteria:
     cats: 0
     description: 3

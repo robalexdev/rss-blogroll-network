@@ -16,21 +16,23 @@ params:
   recommender: []
   categories:
   - General
-  - announcement
-  - front-page
+  - bazaar
+  - codeimport
+  - launchpad
   relme: {}
-  last_post_title: Phasing out Bazaar code hosting
-  last_post_description: What is Bazaar code hosting? Bazaar is a distributed revision
-    control system, originally developed by Canonical. It provides similar functionality
-    compared to the now dominant Git. Bazaar code
-  last_post_date: "2025-06-06T09:26:22Z"
-  last_post_link: https://blog.launchpad.net/general/phasing-out-bazaar-code-hosting
+  last_post_title: Deprecating CVS and Subversion imports
+  last_post_description: What are code imports? Launchpad’s code import service allows
+    users to automatically mirror code from external version control systems into
+    Launchpad. Historically, this has supported imports from
+  last_post_date: "2025-08-25T07:14:50Z"
+  last_post_link: https://blog.launchpad.net/general/deprecating-cvs-and-subversion-imports
   last_post_categories:
   - General
-  - announcement
-  - front-page
+  - bazaar
+  - codeimport
+  - launchpad
   last_post_language: ""
-  last_post_guid: 05e747ba5d0d13964946408fec055098
+  last_post_guid: 39af79e9d902b66e36cf4d91b0acc4a7
   score_criteria:
     cats: 0
     description: 3

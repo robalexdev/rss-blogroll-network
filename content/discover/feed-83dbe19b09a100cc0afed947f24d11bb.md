@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2025-05-29T11:10:26+02:00"
+date: "2025-08-19T17:51:00+02:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml
@@ -8,7 +8,6 @@ params:
   feedid: 83dbe19b09a100cc0afed947f24d11bb
   websites:
     https://molily.de/: true
-    https://molily.de/robust-javascript/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -18,10 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
-    https://mastodon.social/@molily: true
     https://molily.de/: true
-    https://molily.de/robust-javascript/: true
-    https://testing-angular.com/: true
   last_post_title: On the environmental impact of AI
   last_post_description: "Recently, two articles were published and widely shared:\n\n\n
     \ \n    How much energy does ChatGPT use?\n    Why using ChatGPT is not bad for

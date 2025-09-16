@@ -6,7 +6,8 @@ params:
   feedlink: https://france.debian.net/blog/index.rss
   feedtype: rss
   feedid: 942cd91acbcd1760d934fa7cded35ad4
-  websites: {}
+  websites:
+    https://france.debian.net/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian French
@@ -41,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

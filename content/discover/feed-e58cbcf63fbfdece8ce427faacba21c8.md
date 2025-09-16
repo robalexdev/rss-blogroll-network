@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLMs can now identify public figures in images
-  last_post_description: ChatGPT and Claude won’t, but Gemini will.
-  last_post_date: "2025-07-28T13:15:00-07:00"
-  last_post_link: https://minimaxir.com/2025/07/llms-identify-people/
+  last_post_title: Can modern LLMs actually count the number of b's in "blueberry"?
+  last_post_description: It’s an adversarial question for LLMs, but it’s not unfair.
+  last_post_date: "2025-08-12T09:00:00-07:00"
+  last_post_link: https://minimaxir.com/2025/08/llm-blueberry/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 17e19e52bd4923c1cb8744895cddc737
+  last_post_guid: b81660a093033261ac53d57cbf733f9b
   score_criteria:
     cats: 0
     description: 3

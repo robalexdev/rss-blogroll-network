@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2025-08-01T05:00:00Z"
+date: "2025-08-19T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -8,7 +8,6 @@ params:
   feedid: abc3bbf3f83089df88cc941f031bdd33
   websites:
     https://www.zachleat.com/: false
-    https://www.zachleat.com/web: false
   blogrolls: []
   in_blogrolls:
   - title: Front-end RSS Feeds
@@ -21,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: One weird trick to reduce Eleventy Image Build Times by 60%
+  last_post_title: A note from my late Grandmother about Eleventy
   last_post_description: ""
-  last_post_date: "2025-08-01T05:00:00Z"
-  last_post_link: https://www.zachleat.com/web/faster-builds-with-eleventy-img/
+  last_post_date: "2025-08-19T05:00:00Z"
+  last_post_link: https://www.zachleat.com/web/history-of-eleventy-name/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1bf0ba444058c4ab657f53cb034f8c79
+  last_post_guid: 8aaa784dee1d2ae1a7da5c6a1bd91287
   score_criteria:
     cats: 0
     description: 3
@@ -46,5 +45,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 215
+  avgpostlen: 251
 ---

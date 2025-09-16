@@ -21,11 +21,10 @@ params:
     id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
+  - https://www.wackomenace.co.uk/essays/rss.xml
   categories: []
   relme: {}
   last_post_title: Browse No More

@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.mozilla.org/opendesign/feed/
   feedtype: rss
   feedid: ed4d76106260d0eccf46ccc790bbc04b
-  websites: {}
+  websites:
+    https://blog.mozilla.org/opendesign/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

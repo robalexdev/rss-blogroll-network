@@ -6,7 +6,8 @@ params:
   feedlink: https://npcdoomlibreoffice.wordpress.com/feed/
   feedtype: rss
   feedid: 3c0471dceeb7669abf3baf66bdbc0224
-  websites: {}
+  websites:
+    https://npcdoomlibreoffice.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: The Document Foundation Planet
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

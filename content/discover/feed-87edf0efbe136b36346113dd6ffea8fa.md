@@ -17,18 +17,16 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Why Simple Tools Matter
-  last_post_description: Simple, especially when it comes to tools, isn't a four letter
-    word but some people seem to treat it that way
-  last_post_date: "2025-08-07T07:10:00Z"
-  last_post_link: https://scottnesbitt.online/simple-tools.html
+  last_post_title: On the Cult of the Loud
+  last_post_description: Some thoughts about why loud people aren't the ones we should
+    listen to
+  last_post_date: "2025-09-12T06:10:00Z"
+  last_post_link: https://scottnesbitt.online/loud.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f1c47f24a0dd759174170cf695f76ae4
+  last_post_guid: 287716cb4d30a3175fe766cf428d3b2d
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 49
+  postcount: 60
   avgpostlen: 0
 ---

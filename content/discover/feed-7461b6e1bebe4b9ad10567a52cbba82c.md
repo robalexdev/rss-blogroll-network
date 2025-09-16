@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.bottlepy.org/feeds/all.atom.xml
   feedtype: atom
   feedid: 7461b6e1bebe4b9ad10567a52cbba82c
-  websites: {}
+  websites:
+    https://blog.bottlepy.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

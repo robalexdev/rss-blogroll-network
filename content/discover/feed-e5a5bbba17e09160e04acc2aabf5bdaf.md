@@ -1,6 +1,6 @@
 ---
 title: 花生莲子粥の小窝
-date: "2025-08-02T11:30:20Z"
+date: "2025-09-12T10:30:50Z"
 description: 与世无争，不染于泥
 params:
   feedlink: https://blog.hslzz.cn/atom.xml
@@ -12,9 +12,14 @@ params:
   in_blogrolls:
   - title: Mayx Blogroll
     description: ""
+    id: 5fffc50926876056bde70973d462a6cf
+  - title: Mayx Blogroll
+    description: ""
     id: 74d419ad47375950f8898bd6e9ad9734
   recommended: []
   recommender:
+  - https://mabbs.github.io/atom.xml
+  - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
   categories:
   - Linux
@@ -24,7 +29,7 @@ params:
   relme: {}
   last_post_title: 使用AllinSSL实现自动续签雷池WAF的SSL证书
   last_post_description: 使用EC384-SHA384算法为内网服务器自签SSL/TLS证书。包含创建CA、服务器密钥和证书的完整步骤，支持多域名/IP配置。
-  last_post_date: "2025-08-03T13:24:18Z"
+  last_post_date: "2025-09-14T09:13:29Z"
   last_post_link: https://blog.hslzz.cn/posts/20250718182520.html
   last_post_categories:
   - Linux
@@ -50,6 +55,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 5
+  postcount: 12
   avgpostlen: 0
 ---

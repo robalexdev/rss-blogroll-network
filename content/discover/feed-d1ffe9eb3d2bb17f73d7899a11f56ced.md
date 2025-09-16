@@ -1,12 +1,13 @@
 ---
 title: I hack, therefore I am
-date: "2024-12-27T21:28:13+02:00"
+date: "2025-08-25T03:20:05+03:00"
 description: ""
 params:
   feedlink: https://blog.ikotler.org/feeds/posts/default
   feedtype: atom
   feedid: d1ffe9eb3d2bb17f73d7899a11f56ced
-  websites: {}
+  websites:
+    https://blog.ikotler.org/: true
   blogrolls: []
   in_blogrolls:
   - title: פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
@@ -15,7 +16,9 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://blog.ikotler.org/: true
+    https://www.blogger.com/profile/10497840461004186659: true
   last_post_title: Don't Let Your Fear Of Nation-State Hackers Blind You
   last_post_description: ""
   last_post_date: "2019-12-06T23:24:42+02:00"
@@ -32,10 +35,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

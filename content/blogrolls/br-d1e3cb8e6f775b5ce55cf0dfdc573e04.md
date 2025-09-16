@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2025-08-11T06:50:38.728+00:00"
+date: "2025-09-15T05:42:45.917+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -20,10 +20,6 @@ params:
   - title: maya.land
     description: Personal website. Webby personsite. Amateur hour round the clock.
     id: 10bb443e7fc8db3e8611d373e8622da4
-  - title: All activity feed • Cory Dransfeldt
-    description: I'm a software developer in Camarillo, California. I write about
-      software development, technology and music.
-    id: 18d6c6bbccfba324876afe7c8235a6ec
   - title: Reilly Spitzfaden | Blog
     description: A blog about my personal interests, including composition and sound
       design; audio development using Max/MSP, C++, JUCE, and Rust; and web development
@@ -44,9 +40,6 @@ params:
   - title: joelchrono's blog
     description: ""
     id: 2a21b8e739bdf0ebf3a771b247418b2b
-  - title: David Shanske
-    description: The Definitive Location
-    id: 3303315b93707037c1cba69a92a1c93f
   - title: anhvn
     description: personal website
     id: 3f87e5efacb76ccc7d00f56da25c0258
@@ -56,14 +49,6 @@ params:
   - title: Old man yells at Internet on Ross A. Baker (English)
     description: a perfectly cromulent developer
     id: 445d8abde2bf4b4955e8806ee1c744f1
-  - title: Daryl Sun's Journal
-    description: An online diary of a lady's misadventures in two worlds
-    id: 44bd5dcf5ff7750f135a4a80abe544b0
-  - title: 'Eye of the Duck: A Film Podcast'
-    description: A podcast about movies and the scenes that make them special. Each
-      week, hosts Dom Nero and Adam Volerich explore a movie by finding the scene
-      at its core–what David Lynch calls an "Eye of the
-    id: 47ac61d57357594d535bed01b1daf98e
   - title: Cassidy Williams
     description: I'm Cassidy Williams, a software engineer, mom, and overall nerd
       in Chicago. I write about tech, projects, and whatever else I'm thinking about!
@@ -96,9 +81,6 @@ params:
       es Star Wars. Tendremos discusiones, reseñas y análisis de: las películas, series
       de TV, comics, libros, etc. \n\nSi eres fanatico"
     id: 5eec66bd094398b5931d2b09459fd9b3
-  - title: Posts and notes from Nick Simson
-    description: Nick's personal website and weblog
-    id: 6b75c02e948c792b0be43d468092b9fc
   - title: The Cryptid Factor
     description: Three best buddies - Rhys Darby, Dan Schreiber, and Leon 'Buttons' Kirkbeck bring you The Cryptid Factor 
     id: 7055c3f348abd3fc65a907972b8c4753
@@ -121,18 +103,9 @@ params:
   - title: Clara Le
     description: Clara's ramblings
     id: 78b138aeecaba986fc523b4e9b1f7d78
-  - title: Simone's Computer
-    description: This is the blog of Simone
-    id: 7ac2230057907c76a1a0990e47182d17
-  - title: Piper Haywood
-    description: If lost, please return
-    id: 82f77c7961ec7b23a6fb229c20005934
   - title: Al Abut
     description: Writing by Al Abut, a product designer and startup veteran.
     id: 904c82c30c74ce67c472e02addbc47fb
-  - title: 'starbreaker.org: everything'
-    description: a full-text feed containing everything but the kitchen sink
-    id: 90902b21c326769a4dc4d9321d76b3d7
   - title: Manuel Moreale
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
@@ -143,9 +116,6 @@ params:
   - title: Mark Sutherland
     description: Web Developer based in Leicester, UK
     id: 980a94273809255fe20ccf072877a898
-  - title: James' Coffee Blog
-    description: ""
-    id: a2c9dc5128b08277e2da768b58211072
   - title: Bad Wolf Broadcast
     description: From Film Not Included creators, Oti and Tony, comes their new adventure
       as they take deep a dive into the fascinating world of DOCTOR WHO. Bad Wolf
@@ -171,6 +141,10 @@ params:
       um... puppets? Join professional puppet builder Kevin Blades and his friends
       Jamie, Andrew and the occasional guest for chit-chat'
     id: bad768f798c4e9587a4889f8259e6433
+  - title: Konfetti Explorations Feeds
+    description: This is a combination of all my RSS feeds. It might take long to
+      load as it has to read from 7 feeds.
+    id: c06bd4bed0dbbbfc5ac505fbe254552f
   - title: Ana Rodrigues
     description: A personal blog from Ana Rodrigues.
     id: cacaddc8702ee57ee6296639e416538a
@@ -189,7 +163,7 @@ params:
       put some of it on here
     id: d3392b515d5baad7ba61509515ce99e3
   - title: Zachary Kai
-    description: Hi! Zachary Kai here, a space fantasy writer, offbeat queer, twenty-something,
+    description: Hi! I'm Zachary Kai, a space fantasy writer, offbeat queer, twenty-something,
       curiosity enthusiast, and traveler.
     id: dd61c3b24b397dc774295ab7c69d0e8c
   - title: véronique
@@ -198,12 +172,6 @@ params:
   - title: saige's website
     description: ""
     id: e75d09c805d4b1981e2aad4415fcbe51
-  - title: Blog on Luke's Wild Website
-    description: Recent content in Blog on Luke's Wild Website
-    id: e83dce242e0a7ba1641bd563f13e918c
-  - title: All Posts — gRegorLove.com
-    description: ""
-    id: f1971e84cb23bbec865905236cbb2687
   - title: The Rewatchables
     description: The Rewatchables, a film podcast from the Ringer Podcast Network,
       features The Ringer’s Bill Simmons and a roundtable of movie lovers from the

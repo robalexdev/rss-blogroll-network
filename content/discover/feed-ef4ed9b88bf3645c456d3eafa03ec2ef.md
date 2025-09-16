@@ -19,11 +19,7 @@ params:
   relme:
     https://blog.shrediverse.net/: true
     https://cool-as-heck.blog/: true
-    https://cool-as-heck.blog/about/: true
     https://dmv.community/@jcrabapple: true
-    https://links.dmv.pub/@jcrabapple: true
-    https://proven.lol/8e7715: true
-    https://proven.lol/523f62: true
   last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
     Work Yet'
   last_post_description: Sleep Token's fourth album "Even In Arcadia" marks their

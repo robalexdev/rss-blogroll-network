@@ -6,7 +6,8 @@ params:
   feedlink: https://val.packett.cool/feed.xml
   feedtype: atom
   feedid: e9ea144099bcecae4a3adf2c717cc8c9
-  websites: {}
+  websites:
+    https://val.packett.cool/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Jaz's Blog
-date: "2025-02-19T07:04:38Z"
+date: "2025-08-13T18:16:45Z"
 description: ""
 params:
   feedlink: https://jazco.dev/atom.xml

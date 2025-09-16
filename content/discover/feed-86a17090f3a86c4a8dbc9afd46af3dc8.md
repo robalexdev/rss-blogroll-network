@@ -6,7 +6,8 @@ params:
   feedlink: https://pyright.blogspot.com/feeds/posts/default?alt=rss
   feedtype: rss
   feedid: 86a17090f3a86c4a8dbc9afd46af3dc8
-  websites: {}
+  websites:
+    https://pyright.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -142,7 +143,9 @@ params:
   - toydatabase
   - y=mx+b
   - yield
-  relme: {}
+  relme:
+    https://pyright.blogspot.com/: true
+    https://www.blogger.com/profile/12363048245012413049: true
   last_post_title: DAG Hamilton Graph Presented as SVG in Blogger
   last_post_description: Through the kindness of the DAG Hamilton project team, I
     was able to secure an official svg version of the DAG Hamilton logo. It looks
@@ -161,10 +164,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 19
+    website: 2
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

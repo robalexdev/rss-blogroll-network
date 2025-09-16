@@ -1,6 +1,6 @@
 ---
 title: Etsy Engineering | Code as Craft
-date: "2025-08-11T15:34:16-04:00"
+date: "2025-09-15T06:25:00-04:00"
 description: 'The engineers who make Etsy make our living with a craft we love: software.
   This is where we''ll write about our craft and our collective experience building
   and running the world''s most vibrant'
@@ -18,18 +18,20 @@ params:
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender: []
+  recommender:
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Behind the Scenes - A Glimpse into Tax Calculations
-  last_post_description: "In the past, sellers were responsible for managing and fulfilling
-    their own tax obligations. \nHowever, more and more jurisdictions are now requiring
-    marketplaces such as Etsy to collect the tax from"
-  last_post_date: "2025-03-29T06:03:23-04:00"
-  last_post_link: https://www.etsy.com/codeascraft/behind-the-scenes---a-glimpse-to-tax-calculations?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
+  last_post_title: Building Etsy Buyer Profiles with LLMs
+  last_post_description: Every day, shoppers from Etsy's community of nearly 90M buyers
+    visit our marketplace to search for unique, handmade, and vintage items. But with
+    over 100 million listings, how do we help each buyer
+  last_post_date: "2025-09-03T17:40:15-04:00"
+  last_post_link: https://www.etsy.com/codeascraft/building-etsy-buyer-profiles-with-llms?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6445d3f1c229f31ecd2108f6aae013f9
+  last_post_guid: 71cd4d8887c69d556a005d8376823cae
   score_criteria:
     cats: 0
     description: 3

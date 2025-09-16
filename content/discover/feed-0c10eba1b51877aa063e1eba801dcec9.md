@@ -20,10 +20,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Wake on LAN 实现工作机的自动开关机
-  last_post_description: 《Wake on LAN
-  last_post_date: "2025-05-24T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2025_05_24-wake_on_lan.md.html
+  last_post_title: ToB SaaS 服务之殇
+  last_post_description: 《ToB SaaS 服务之殇》我的一些经验和想法，随手写写。1. 要能把客户伺候的舒舒服服，要不然，哈哈。让大客户掏钱是很难的...
+  last_post_date: "2025-09-07T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2025_09_07-to_b_saas.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 552
+  postcount: 556
   avgpostlen: 0
 ---

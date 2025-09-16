@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Development shells with Nix: four quick examples'
+  last_post_title: Bye Intel, hi AMD! I’m done after 2 dead Intels
   last_post_description: ""
-  last_post_date: "2025-07-27T08:50:00+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/
+  last_post_date: "2025-09-07T08:33:00+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b60adda319b12cc094dc7fc2ff5096bc
+  last_post_guid: ee4b07ce43e8ce44a09419978eb155c0
   score_criteria:
     cats: 0
     description: 0

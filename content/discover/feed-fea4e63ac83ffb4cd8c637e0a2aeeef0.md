@@ -1,12 +1,13 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-08-09T12:27:05+02:00"
+date: "2025-09-03T11:12:28+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
   feedtype: rss
   feedid: fea4e63ac83ffb4cd8c637e0a2aeeef0
-  websites: {}
+  websites:
+    https://p4bl0.net/: true
   blogrolls: []
   in_blogrolls:
   - title: Planète April
@@ -16,32 +17,45 @@ params:
   recommender: []
   categories:
   - blockchain
+  - podcast
   - vidéo
-  relme: {}
-  last_post_title: Introduction technocritique aux blockchains (UnU 1/8)
-  last_post_description: Avec le calme de l'été, j'ai enfin eu le temps de m'occuper
-    du montage des captations de la journée d'étude Unblocked & Unchained Symposium
-    qui s'est tenue le 13 décembre 2024 et que j'avais
-  last_post_date: "2025-08-06T13:12:00+02:00"
-  last_post_link: https://p4bl0.net/post/2025/08/UnU-1-8-Introduction-technocritique-aux-blockchains
+  relme:
+    https://github.com/p4bl0-: true
+    https://mamot.fr/@p4bl0: true
+    https://p4bl0.net/: true
+    https://pablo.plus/: true
+    https://pablockchain.fr/: true
+  last_post_title: 'La chaîne de blocs : imaginaire géopolitique, et/ou mirage technologique
+    ? — Kavé Salamatian (UnU 3/8)'
+  last_post_description: |-
+    Voilà la troisième vidéo de la journée d'étude Unblocked & Unchained Symposium ! Kavé Salamatian interroge la nature politique, culturelle, et technique des blockchains.
+
+
+
+
+
+    Une captation
+  last_post_date: "2025-09-03T13:12:00+02:00"
+  last_post_link: https://p4bl0.net/post/2025/09/La-chaine-de-blocs-imaginaire-geopolitique-et-ou-mirage-technologique-Kave-Salamatian-UnU-3-8
   last_post_categories:
   - blockchain
+  - podcast
   - vidéo
   last_post_language: ""
-  last_post_guid: 27468e3157b49ebdc380b5ad43af7738
+  last_post_guid: ae7c1ebe3b8bbb840e17295c300b2f06
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.mozilla.org/futurereleases/feed/
   feedtype: rss
   feedid: 181ce51adbe2d532ef88efc920e1ec43
-  websites: {}
+  websites:
+    https://blog.mozilla.org/futurereleases/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -17,16 +18,16 @@ params:
   categories:
   - Firefox
   relme: {}
-  last_post_title: Firefox support for Windows 7, 8 and 8.1
-  last_post_description: |-
-    With Firefox 115, users on Windows 7, Windows 8 and Windows 8.1 will automatically be moved to the Firefox Extended Support Release (ESR). Firefox is the only major browser that … Read more
-    The
-  last_post_date: "2023-07-06T23:30:57Z"
-  last_post_link: https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/
+  last_post_title: Firefox 32-bit Linux Support to End in 2026
+  last_post_description: For many years, Mozilla has continued to provide Firefox
+    for 32-bit Linux systems long after most other browsers and operating systems
+    ended support. We made this choice because we care … Read
+  last_post_date: "2025-09-05T09:18:30Z"
+  last_post_link: https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/
   last_post_categories:
   - Firefox
   last_post_language: ""
-  last_post_guid: ee3418d28ce69dcdf612bbe00dd2f083
+  last_post_guid: 3c99e9086959aeec942638c0eb109642
   score_criteria:
     cats: 0
     description: 3
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

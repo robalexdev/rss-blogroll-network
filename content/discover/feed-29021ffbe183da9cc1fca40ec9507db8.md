@@ -7,7 +7,8 @@ params:
   feedlink: https://quality.mozilla.org/feed/
   feedtype: rss
   feedid: 29021ffbe183da9cc1fca40ec9507db8
-  websites: {}
+  websites:
+    https://quality.mozilla.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -46,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

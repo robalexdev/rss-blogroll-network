@@ -1,6 +1,6 @@
 ---
 title: jngiam
-date: "2025-08-11T12:11:36Z"
+date: "2025-09-14T18:47:30Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
   Brain, Coursera, Stanford. \n\n\n\n..."
 params:
@@ -30,18 +30,18 @@ params:
     description: 3
     feedlangs: 0
     hasContent: 3
-    hasPosts: 2
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 2
-  avgpostlen: 299
+  postcount: 3
+  avgpostlen: 296
 ---

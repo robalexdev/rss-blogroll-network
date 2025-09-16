@@ -7,7 +7,8 @@ params:
   feedlink: https://sankalp.bearblog.dev/feed/?type=rss
   feedtype: rss
   feedid: 0f0b55dbe920c10f6eb52d67e89c6adb
-  websites: {}
+  websites:
+    https://sankalp.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My Experience With Claude Code After 2 Weeks of Adventures
-  last_post_description: |-
-    Hatching...
-    Cursor ShenanigansCursor, my beloved, started rate limiting shenanigans a few days back. For a good 2 weeks after June 16, 2025, we had almost infinite API request access. I had a lot of
-  last_post_date: "2025-07-17T11:58:00Z"
-  last_post_link: https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
+  last_post_title: Can LLMs dream of Electric Sheep?
+  last_post_description: I forgot to cancel my Midjourney v7 subscription last month.
+    I love Midjourney, amazing model and great product. I have been short on ideas
+    and, honestly, couldn't muster the creative energy to chase
+  last_post_date: "2025-08-24T23:05:00Z"
+  last_post_link: https://sankalp.bearblog.dev/can-llms-dream-of-electric-sheep/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1572d4defcb995fb4a9ec2f960a7f5d2
+  last_post_guid: 8ea9827d8b6a87bbcbc075c231451740
   score_criteria:
     cats: 0
     description: 3
@@ -37,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,16 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdin
+  - stdout
   relme: {}
-  last_post_title: 原研哉《棍子和碗》
-  last_post_description: 之前看到个 棍子和碗 的说法，印象很深，觉得很扯，总觉得哪里不对，但是没想明白。查了下居然是 原研哉
-  last_post_date: "2025-06-18T13:55:00+08:00"
-  last_post_link: https://blog.est.im/2025/stdin-06
+  last_post_title: xHTML5
+  last_post_description: |-
+    有 ChatGPT学姿势就是快
+    <!DOCTYPE html [
+      <!ENTITY myEntity "Hello World">
+      <!ENTITY wow "alert('hi')">
+    ]>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <body>
+      &myEntity;
+      <script>
+        &wow
+  last_post_date: "2025-09-15T00:12:00+08:00"
+  last_post_link: https://blog.est.im/2025/stdout-08
   last_post_categories:
-  - stdin
+  - stdout
   last_post_language: ""
-  last_post_guid: 3ed1925a55cb887f427fd51dc5d0b817
+  last_post_guid: 87ff3e9765879bedfe8aa289ee82959e
   score_criteria:
     cats: 0
     description: 3

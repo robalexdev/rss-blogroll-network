@@ -1,6 +1,6 @@
 ---
 title: Shuibaco • 水八口
-date: "2025-07-08T12:55:00Z"
+date: "2025-09-05T02:10:00Z"
 description: ""
 params:
   feedlink: https://shuiba.co/feed
@@ -16,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 累与不累
+  last_post_title: 拉布布
   last_post_description: !!binary |
-    5LuU57uG5oOz5p2l5Lmf5oy656We5aWH55qE77yM6ZqP552A5bm06b6E55qE5aKe6ZW/77
-    yM55+l6K+G5LiO6ZiF5Y6G6YO95Zyo5LiK5Y2H77yM5ZSv54us5a+56Ieq5bex6Lqr5L2T
-    55qE5oSf55+l6IO95Yqb5Ly85LmO6LaK5Y+R6YCA5q2l5LqG44CC6ICM5a+55LqO6L+Z5L
-    iq546w6LGh55qE5rSe5a+f77yM6L+Y6KaB5b6X55uK5LqO6IKy5YS/5Lg=
-  last_post_date: "2025-07-08T12:55:00Z"
-  last_post_link: https://shuiba.co/tired-or-not
+    5oiR5Zue5p2l5LqG77yB5YW25a6eOOaciOW6leWwseaDs+WGmeaLieW4g+W4g+eahO+8jO
+    e7k+aenOWQp+S4jeefpemBk+aYr+iBjOS4mueXhei/mOaYr+aAjueahO+8jOeQouejqOed
+    gOaXoueEtuimgeWGme+8jOmCo+WwseWGmeWFqOS4gOS6m+OAguS6juaYr+W8gOWni+Wkp+
+    afpei1hOaWme+8jOavq+aXoOaEj+WkluWcsO+8jOeci+i1t+inhumikeU=
+  last_post_date: "2025-09-05T02:10:00Z"
+  last_post_link: https://shuiba.co/labubu
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 93409b5c470f3c7d50318d3578de25dc
+  last_post_guid: 53e2d427eab7f1c0014d88c918f80d47
   score_criteria:
     cats: 0
     description: 0

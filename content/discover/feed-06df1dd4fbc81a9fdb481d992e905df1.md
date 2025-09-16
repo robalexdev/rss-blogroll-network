@@ -34,7 +34,9 @@ params:
 
     09:00
     Saluti istituzionali
-    Prof.ssa Sonya Vasto (Presidente Rotary TDS)Ing. Vincenzo di Dio (Presidente Ordine
+
+    Prof.ssa Sonya Vasto (Presidente Rotary TDS)
+    Ing. Vincenzo di Dio (Presidente
   last_post_date: "2025-08-02T16:59:27Z"
   last_post_link: https://www.sputnix.it/jit/index.php?option=com_content&view=article&id=254:linuxday-2025-palermo
   last_post_categories:

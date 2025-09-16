@@ -6,7 +6,8 @@ params:
   feedlink: https://melissawen.github.io/feed.xml
   feedtype: rss
   feedid: ac45f49f2ffb39f042bf978f8536cdfe
-  websites: {}
+  websites:
+    https://melissawen.github.io/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -15,7 +16,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://melissawen.github.io/: true
   last_post_title: A Look at the Latest Linux KMS Color API Developments on AMD and
     Intel
   last_post_description: |-
@@ -37,10 +39,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

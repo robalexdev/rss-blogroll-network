@@ -6,7 +6,8 @@ params:
   feedlink: https://anarc.at/tag/python-planet/index.rss
   feedtype: rss
   feedid: 4d6db0b5be8efd6edf5bc4387066d058
-  websites: {}
+  websites:
+    https://anarc.at/tag/python-planet/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -55,8 +56,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

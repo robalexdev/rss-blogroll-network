@@ -1,6 +1,6 @@
 ---
 title: The website of Alice Bartlett
-date: "2025-08-02T07:32:47Z"
+date: "2025-09-14T20:13:29Z"
 description: "The home of typing by Alice Bartlett \U0001F469\U0001F3FB‍\U0001F4BB"
 params:
   feedlink: https://alicebartlett.co.uk/feed.xml
@@ -13,20 +13,22 @@ params:
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
-  recommender: []
+  recommender:
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories:
   - weaknotes
   relme: {}
-  last_post_title: 'Week 361: Danny xbox'
-  last_post_description: I love florentines. The hokkaido squashes and nasturtiums
-    are out of control but I am letting them take over. First year I grew squashes
-    I got a crop of three. Last year the crop failed because I was
-  last_post_date: "2025-08-02T00:00:00Z"
-  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-361
+  last_post_title: 'Week 367: Warm and snuggly'
+  last_post_description: Until I had kids i didn’t realise it was possible to read
+    a book aloud while simultaneously thinking about something completely unrelated.
+    School started properly this week. Annoyingly the eldest
+  last_post_date: "2025-09-13T00:00:00Z"
+  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-367
   last_post_categories:
   - weaknotes
   last_post_language: ""
-  last_post_guid: 58a859065ccd64716bda9be9431d662b
+  last_post_guid: 77252ad21551965fbcebed4843844daa
   score_criteria:
     cats: 0
     description: 3
@@ -45,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 280
 ---

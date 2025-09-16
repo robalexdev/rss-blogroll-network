@@ -6,7 +6,8 @@ params:
   feedlink: https://pythonclub.com.br/feeds/all.atom.xml
   feedtype: atom
   feedid: 6c728f7b26606c3eeb5d3bec1f25dfba
-  websites: {}
+  websites:
+    https://pythonclub.com.br/: true
   blogrolls: []
   in_blogrolls:
   - title: Planeta PythonBrasil
@@ -43,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

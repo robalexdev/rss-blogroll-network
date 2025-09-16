@@ -1,6 +1,6 @@
 ---
-title: Home
-date: "2025-07-18T00:00:00Z"
+title: NHS notes
+date: "2025-09-13T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 58: Getting lost in hospitals'
+  last_post_title: 'Week 63: Getting across the line'
   last_post_description: ""
-  last_post_date: "2025-07-18T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-58-getting-lost-in-hospitals/
+  last_post_date: "2025-09-13T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-63-getting-across-the-line/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 401a32b5ee75b88a22817ba84b2949fd
+  last_post_guid: 4bf376a53286118e3da072ab45ef4753
   score_criteria:
     cats: 0
     description: 0
@@ -41,5 +41,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 295
+  avgpostlen: 296
 ---

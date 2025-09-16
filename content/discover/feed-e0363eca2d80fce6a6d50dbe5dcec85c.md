@@ -12,54 +12,44 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender: []
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
   categories:
-  - Chrome
-  - Edge
-  - Windows
-  - browsers
-  - bugs
-  - web
+  - life
+  - storytelling
   relme: {}
-  last_post_title: Family Safety Content Filtering
-  last_post_description: Microsoft Family Safety is a feature of Windows that allows
-    parents to control their children’s access to apps and content in Windows. The
-    feature is tied to the user accounts of the parent(s) and
-  last_post_date: "2025-06-12T20:05:11Z"
-  last_post_link: https://textslashplain.com/2025/06/12/family-safety-content-filtering/
+  last_post_title: An Improbable Recovery
+  last_post_description: Way back on May 11th of 2022, I was visiting my team (Edge
+    browser) for the week in Redmond, Washington. On Wednesday night, I left my ThinkPad
+    X1 Extreme laptop in a work area on the 4th floor of
+  last_post_date: "2025-09-08T21:32:22Z"
+  last_post_link: https://textslashplain.com/2025/09/08/an-improbable-recovery/
   last_post_categories:
-  - Chrome
-  - Edge
-  - Windows
-  - browsers
-  - bugs
-  - web
+  - life
+  - storytelling
   last_post_language: ""
-  last_post_guid: 13fa018e01c39aff24c1a0ecca6567fd
+  last_post_guid: 547eaf3f5e6256e6a594b3d3be248b44
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

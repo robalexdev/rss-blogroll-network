@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2025-07-24T21:06:42-04:00"
+date: "2025-09-15T05:01:05-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -50,6 +50,7 @@ params:
   - adventure games publishing
   - advertising
   - ahmed
+  - akers
   - albie fiore
   - alehouse
   - aliens
@@ -70,6 +71,7 @@ params:
   - articles of dragon
   - asprin
   - assistance
+  - astounding
   - atari
   - atlantis
   - avalon hill
@@ -86,6 +88,7 @@ params:
   - bezio
   - black blade
   - blackmoor
+  - blackwood
   - bledsaw
   - bloch
   - blue book
@@ -190,6 +193,7 @@ params:
   - dragonlance
   - dragonquest
   - dragons
+  - dream-quest
   - drow
   - druid
   - dungeons
@@ -316,6 +320,7 @@ params:
   - interview
   - iridia zine
   - jackson
+  - james
   - japan
   - jaquays
   - jaquet
@@ -339,6 +344,7 @@ params:
   - knockspell
   - known world
   - kothar
+  - kowolski
   - krebs
   - kull
   - kummer
@@ -380,6 +386,7 @@ params:
   - mckinney
   - mclean
   - mcwilliams
+  - mearls
   - megadungeon
   - megarry
   - mehlem
@@ -471,6 +478,7 @@ params:
   - pao
   - parkinson
   - pathfinder rpg
+  - patreon
   - pdf
   - peake
   - pelinore
@@ -644,6 +652,7 @@ params:
   - wham
   - whats his story
   - white dwarf
+  - white wolf
   - wilderlands
   - wilderness
   - williams
@@ -669,16 +678,17 @@ params:
   relme:
     https://grognardia.blogspot.com/: true
     https://www.blogger.com/profile/00341941102398271464: true
-  last_post_title: Three Models of Character Advancement
+  last_post_title: 'Pulp Fantasy Library: The White Ship'
   last_post_description: ""
-  last_post_date: "2025-07-24T00:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2025/07/three-models-of-character-advancement.html
+  last_post_date: "2025-09-15T05:01:05-04:00"
+  last_post_link: https://grognardia.blogspot.com/2025/09/pulp-fantasy-library-white-ship.html
   last_post_categories:
-  - experience
-  - level
-  - musings
+  - dream-quest
+  - dunsany
+  - lovecraft
+  - pulp fantasy library
   last_post_language: ""
-  last_post_guid: c08d6f2dcbd778089603240053a311cb
+  last_post_guid: a4c3bb0ad28e8187bf00b7763d8e0d1f
   score_criteria:
     cats: 5
     description: 3
@@ -697,5 +707,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 267
 ---

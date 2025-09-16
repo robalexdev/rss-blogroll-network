@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Let’s stop pretending that managers care about productivity
-  last_post_description: Businesses only care about control over labour and stock
-    prices, and ignore anything resembling modern management theory or related fields.
-  last_post_date: "2025-08-11T11:51:40Z"
-  last_post_link: https://www.baldurbjarnason.com/2025/disingenuous-discourse/
+  last_post_title: How to fold socks
+  last_post_description: How do you think about your creative practice? What are the
+    most important parts of it?
+  last_post_date: "2025-09-12T11:20:16Z"
+  last_post_link: https://buttondown.com/monteiro/archive/how-to-fold-socks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8e6a1be58928dd54e61ae58282326245
+  last_post_guid: 5b49e88bc4d88499f07c190537e032b6
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Victor Poughon
-date: "2025-08-11T11:03:31Z"
+date: "2025-09-15T04:37:36Z"
 description: Victor Poughon personal website
 params:
   feedlink: https://victorpoughon.fr/feed/
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 5
+  postcount: 6
   avgpostlen: 293
 ---

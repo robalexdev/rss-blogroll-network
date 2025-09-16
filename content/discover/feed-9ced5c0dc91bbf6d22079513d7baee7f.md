@@ -1,6 +1,6 @@
 ---
 title: Python Bytes
-date: "2025-08-04T00:00:00-08:00"
+date: "2025-09-08T00:00:00-08:00"
 description: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian
   Okken. The show is a short discussion on the headlines and noteworthy news in the
   Python, developer, and data science space.
@@ -8,7 +8,8 @@ params:
   feedlink: https://pythonbytes.fm/episodes/rss
   feedtype: rss
   feedid: 9ced5c0dc91bbf6d22079513d7baee7f
-  websites: {}
+  websites:
+    https://pythonbytes.fm/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -20,15 +21,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: '#443 Patching Multiprocessing'
-  last_post_description: "Topics covered in this episode:\n\n\n\trumdl - A Markdown
-    Linter written in Rust\n* Coverage 7.10.0: patch*\n* aioboto3*\n* You might not
-    need a Python class*\nExtras\nJoke\n\nWatch on YouTube\n\nAbout the"
-  last_post_date: "2025-08-04T00:00:00-08:00"
-  last_post_link: https://pythonbytes.fm/episodes/show/443/patching-multiprocessing
+  last_post_title: '#448 I''m Getting the BIOS Flavor'
+  last_post_description: "Topics covered in this episode:\n\n\n\t* prek*\n* tinyio*\n*
+    The power of Python’s print function*\n* Vibe Coding Fiasco: AI Agent Goes Rogue,
+    Deletes Company's Entire Database*\nExtras\nJoke\n\nWatch on"
+  last_post_date: "2025-09-08T00:00:00-08:00"
+  last_post_link: https://pythonbytes.fm/episodes/show/448/im-getting-the-bios-flavor
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d03913402a2117d782ea92012b3cf6ac
+  last_post_guid: 6e4ecdde080f0eaea08aec3c6ab8fa4c
   score_criteria:
     cats: 2
     description: 3
@@ -40,12 +41,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: true
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 429
+  postcount: 448
   avgpostlen: 0
 ---

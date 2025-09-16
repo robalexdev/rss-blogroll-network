@@ -6,7 +6,8 @@ params:
   feedlink: https://current.workingdirectory.net/tags/debian/index.xml
   feedtype: rss
   feedid: d96cdf3bb99ea6afbfe6ab0f41880a24
-  websites: {}
+  websites:
+    https://current.workingdirectory.net/tags/debian/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -15,7 +16,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://current.workingdirectory.net/tags/debian/: true
   last_post_title: Avoiding Apache Max Request Workers Errors
   last_post_description: |-
     Wow, I hate this error:
@@ -37,14 +39,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 86
+  postcount: 87
   avgpostlen: 0
 ---

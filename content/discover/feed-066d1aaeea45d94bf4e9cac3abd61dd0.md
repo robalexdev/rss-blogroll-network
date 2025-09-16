@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.mozilla.org/netpolicy/feed/
   feedtype: rss
   feedid: 066d1aaeea45d94bf4e9cac3abd61dd0
-  websites: {}
+  websites:
+    https://blog.mozilla.org/netpolicy/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -18,37 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence
-  - European Union
-  - Open Source
-  - Transparency
+  - Uncategorized
   relme: {}
-  last_post_title: 'The EU’s AI Act at One Year: Continuing to push for open-source
-    AI and transparency'
-  last_post_description: |-
-    Saturday, August 2, marked the first anniversary of the entry into force of the EU AI Act, the EU’s contested landmark legislation putting in place rules for AI sold and … Read more
-    The post The
-  last_post_date: "2025-08-11T08:09:03Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2025/08/11/the-eus-ai-act-at-one-year-continuing-to-push-for-open-source-ai-and-transparency/
+  last_post_title: 'Mozilla Meetup: “The Future of Competition: How to Save the Open
+    Web”'
+  last_post_description: The promise of an open and competitive internet hangs in
+    the balance. From the future of AI agents to the underappreciated role of browsers
+    and browser engines, the technological landscape … Read
+  last_post_date: "2025-09-09T14:10:03Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/09/09/mozilla-meetup-the-future-of-competition-how-to-save-the-open-web/
   last_post_categories:
-  - Artificial Intelligence
-  - European Union
-  - Open Source
-  - Transparency
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: e1646684fd362e7752dcfc53b6265337
+  last_post_guid: e45779134cc483087bd1a0c4ba3c008b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
+    website: 2
   score: 18
   ispodcast: false
   isnoarchive: false

@@ -12,24 +12,24 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - News
+  - Editors' Blog
   relme: {}
-  last_post_title: Trump Grabs Control of DC Police, Promises National Guard Deployment
-  last_post_description: For at least the next 30 days, the Trump administration will
-    control local law enforcement in D.C. President Trump on...
-  last_post_date: "2025-08-11T16:07:05Z"
-  last_post_link: https://talkingpointsmemo.com/news/trump-grabs-control-of-dc-police-promises-national-guard-deployment
+  last_post_title: From The Archives
+  last_post_description: I was thinking about this post this morning and then I saw
+    someone reference it on Bluesky. It’s from July...
+  last_post_date: "2025-09-14T16:59:44Z"
+  last_post_link: https://talkingpointsmemo.com/edblog/from-the-archives-2
   last_post_categories:
-  - News
+  - Editors' Blog
   last_post_language: ""
-  last_post_guid: ca6be11bcb1aacc0044f81d2a38a4e4d
+  last_post_guid: f80414edff07c9efc385f86d01388da5
   score_criteria:
     cats: 0
     description: 3

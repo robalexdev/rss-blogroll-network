@@ -18,7 +18,7 @@ params:
   relme: {}
   last_post_title: MiniDebConf Belo Horizonte 2024 - a brief report
   last_post_description: ""
-  last_post_date: "2025-03-08T17:28:42Z"
+  last_post_date: "2025-03-08T21:44:22Z"
   last_post_link: https://debianbrasil.org.br/blog/minidebconf-bh-2024-a-brief-report/
   last_post_categories: []
   last_post_language: ""

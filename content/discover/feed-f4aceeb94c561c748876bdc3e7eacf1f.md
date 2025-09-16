@@ -19,10 +19,10 @@ params:
   last_post_title: "Git Tricks \U0001F419"
   last_post_description: ""
   last_post_date: "2020-09-03T11:17:42Z"
-  last_post_link: http://py.checkio.org/blog/git-tricks/
+  last_post_link: https://py.checkio.org/blog/git-tricks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8dc7f50b658c9421d2af04290c86b683
+  last_post_guid: 0e0a9ece2ad97344813013c4ccfa9348
   score_criteria:
     cats: 0
     description: 3

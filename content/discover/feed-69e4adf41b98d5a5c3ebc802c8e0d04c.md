@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Do You Remember What You Read?
-  last_post_description: Why I never skip a Readwise day
-  last_post_date: "2025-08-07T00:42:55Z"
-  last_post_link: https://aethermug.com/posts/do-you-remember-what-you-read?utm_source=rss&utm_campaign=rss
+  last_post_title: Claude Sonnet Is Teaching Me English
+  last_post_description: Today, even a lazy after-thought can become a useful project
+  last_post_date: "2025-09-03T01:16:36Z"
+  last_post_link: https://aethermug.com/posts/claude-sonnet-is-teaching-me-english?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 49087f52482eee9c50ce9ad31c69616c
+  last_post_guid: 660c93cd692894c0064c1347ecce797b
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 57
+  postcount: 76
   avgpostlen: 0
 ---

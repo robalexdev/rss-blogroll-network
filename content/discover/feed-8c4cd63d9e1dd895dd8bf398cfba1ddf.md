@@ -1,6 +1,6 @@
 ---
 title: Michele Agostinelli Blog
-date: "2025-08-11T17:43:00+02:00"
+date: "2025-09-15T10:04:06+02:00"
 description: La casa delle mie passioni
 params:
   feedlink: https://blog.agostinelli.eu/feed/
@@ -17,7 +17,6 @@ params:
   recommender: []
   categories: []
   relme:
-    https://agostinelli.eu/: true
     https://blog.agostinelli.eu/: true
     https://l.devol.it/@magostinelli: true
     https://mastodon.uno/@magostinelli: true

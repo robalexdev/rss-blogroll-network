@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Mon, 11 Aug 2025 05:54:00 GMT
+date: Mon, 15 Sep 2025 04:16:08 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -38,9 +38,6 @@ params:
   - title: Angelo's Blog
     description: '@Repository about my passion'
     id: 0a86e26ebcb7dbb11ebb832ef7fcf247
-  - title: Eclipse
-    description: ""
-    id: 0a99032bcfe74b7e26cc90eaf6f97a54
   - title: BIRT World
     description: The Eclipse Business Intelligence and Reporting Tools project is
       an open-source project focused on the development and delivery of framework
@@ -67,10 +64,6 @@ params:
   - title: EclipsePlanet – Flos Blog
     description: ""
     id: 1221f6035fa694191d699e214e8afad8
-  - title: Yet Another Eclipse Project Blog
-    description: A blog about Eclipse Modeling and especially on EEF, for extending
-      the EMF editing framework.
-    id: 12aacb310410fcd0afb554e06382de40
   - title: Programming Barn
     description: Collection of notes on common problems and issues I faced while doing
       day to day programming
@@ -186,20 +179,15 @@ params:
   - title: Blinki’s Blog | Eclipse Mobile Dev
     description: mobile development for and about Eclipse
     id: 2bec1b51c2e45ffd0201b10ce03dca89
-  - title: Computing Reality
-    description: Software is eating the world! Or is it? The real world is far too
-      complex to ever capture in code. Given that it isn't fully digestible, shouldn't
-      we try to write code that reflects the beauty in the
-    id: 2c1bc024f76599d569c36b8949374ef5
   - title: Open Source Musings
     description: Random thoughts and discussions mostly about open source, including
       business and economic models. Discussions about software engineering, Eclipse,
       SOA, game theory, project management, and other
     id: 2c3e100f20b20e351d6b448c725f2e5f
-  - title: eclipse on Christopher Guindon - Manager, Web Development at The Eclipse
-      Foundation
-    description: Recent content in eclipse on Christopher Guindon - Manager, Web Development
-      at The Eclipse Foundation
+  - title: eclipse on Christopher Guindon - Director, Software Development at The
+      Eclipse Foundation
+    description: Recent content in eclipse on Christopher Guindon - Director, Software
+      Development at The Eclipse Foundation
     id: 2ebbb8fa562194ce4907676bbafb371e
   - title: eclipse – Lorenzo Bettini
     description: My Home Page
@@ -231,9 +219,6 @@ params:
   - title: Eclipse - Marc Nuri - Blogging about business and technology
     description: Blogging about business and technology
     id: 397b8d9920884a9a331a19636808f427
-  - title: Eclipse Archives - Code Affine
-    description: Keep the bar green to keep the code clean
-    id: 3a489ae223776f236bec13d08eb7ed8e
   - title: Stories by Doug Schaefer on Medium
     description: Stories by Doug Schaefer on Medium
     id: 3afc6f2de819953ca9c447bdd385e7ee
@@ -272,9 +257,6 @@ params:
   - title: JBoss Tools
     description: ""
     id: 42d29311cad4df5acadeb7d2359968b0
-  - title: Eclipse Archives - Code Affine
-    description: Keep the bar green to keep the code clean
-    id: 430a3304d15013cc0cfeae2bf8d2759c
   - title: Ian Skerrett
     description: Marketing at Eclipse
     id: 43deab961c5c289c6c37baebf0b25918
@@ -339,12 +321,6 @@ params:
   - title: N4JS Developer Blog
     description: Highlights, insights and announcements of the N4JS project.
     id: 5953464a54980e8b6bc6d120fb3a454c
-  - title: MDA4eclipse - by Etienne Juliot
-    description: ""
-    id: 59543f36be59ee99735d17b9d4b12ea4
-  - title: Paul Buck's blog
-    description: ""
-    id: 599c2c9384a3c833c3818b6ac01ad1f4
   - title: Nirmal's Blog
     description: Burn your eyes
     id: 5a9f412890524877ccc831299132f082
@@ -408,9 +384,6 @@ params:
   - title: publicabstractvoid
     description: Notes of a software developer
     id: 6b5c1d291a8eafc8a50020e563365c07
-  - title: InfoQ - Eclipse
-    description: InfoQ Eclipse feed
-    id: 6b6f74715f79b2f306b8e7487a4bca3d
   - title: Stories by Roxanne on IoT on Medium
     description: Stories by Roxanne on IoT on Medium
     id: 6c172821e76ff2c98a6c3082cd303e26
@@ -439,10 +412,6 @@ params:
   - title: Benoit Langlois
     description: ""
     id: 76e46717e765c84074b2904941710d73
-  - title: Eclipse Ditto Blog
-    description: Announcements, tutorials and examples around Eclipse Ditto and Digital
-      Twins
-    id: 78325d243f9f9522f0e2f29f15265b26
   - title: CEO @ Obeo
     description: ""
     id: 7859d2aa829b6f53aa72b4326c8dc5c3
@@ -596,9 +565,6 @@ params:
   - title: mftech blog
     description: the mftech blog
     id: ae4ec00f1a07098a2521f7485611d374
-  - title: Eclipse Archives - Code Affine
-    description: Keep the bar green to keep the code clean
-    id: b087c813cfdc1aa7c3b72f3122460c72
   - title: swdev – holistic tendencies
     description: keeping an eye on the bigger picture
     id: b08b753babb8696dee60f2a9bf9a7c77
@@ -655,9 +621,6 @@ params:
   - title: Jeeeyul's Eclipse Log
     description: Another Eclipse Blog
     id: c0721e7db239408690b7bb3455051c60
-  - title: Neil Bartlett
-    description: ""
-    id: c0869ea6c2a8ec771990c5b583f7010c
   - title: Nirav's Contemplations
     description: Thoughts on Programming, Software and Open Source.
     id: c23af7dd41e915636cf4a99a52fd5bd3
@@ -676,9 +639,6 @@ params:
   - title: bkapukaranov
     description: ""
     id: c752516a91b3e5fadebaee5679180983
-  - title: eclipse on Idiomaticsoft International LLC
-    description: Recent content in eclipse on Idiomaticsoft International LLC
-    id: c814b0874cbf9e2ffba23b8092f73f13
   - title: Opera Omnia
     description: Recent content on Opera Omnia
     id: c937a710c7261f189fa5c57d522444f2
@@ -714,9 +674,6 @@ params:
   - title: Eclipse IDE – What the Future Holds!
     description: Where Java Lives!
     id: d57eda3feafa0a59eb7e985d20844572
-  - title: Vladimir Prus
-    description: ""
-    id: d62a2171422d4741ddbd1a34318ec347
   - title: Eclipse from the bottom up
     description: The view of the Eclipse world from the bottom of the stack
     id: d68ef3916ee5e56f55554d4fdc9b69a5

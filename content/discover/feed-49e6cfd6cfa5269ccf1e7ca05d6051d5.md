@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter Bridge
-date: "2025-08-11T07:20:59Z"
+date: "2025-09-15T00:32:29Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "GPT-5 \U0001F916, Meta&#x27;s TBD Lab \U0001F468‍\U0001F4BB, GLP-1
-    pill \U0001F48A"
+  last_post_title: "OpenAI Microsoft deal \U0001F91D, inside Chrome&#x27;s history
+    \U0001F30E, front-loaded vesting \U0001F4B0"
   last_post_description: ""
-  last_post_date: "2025-08-07T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2025-08-08
+  last_post_date: "2025-09-11T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2025-09-12
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1201f929a947ef12e63a1748bdf9d048
+  last_post_guid: add16923f221e14fa23d3d2ba973b8b5
   score_criteria:
     cats: 0
     description: 0
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 297
+  avgpostlen: 295
 ---

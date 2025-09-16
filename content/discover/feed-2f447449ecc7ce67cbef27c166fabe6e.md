@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-07-21T00:00:00+02:00"
+date: "2025-09-07T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,15 +19,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: A Benchmark for language models on European Portuguese
-  last_post_description: A couple of weeks ago in Lisbon, I went to a friend's birthday
-    dinner. In front of …
-  last_post_date: "2025-07-21T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/a-benchmark-for-language-models-on-european-portuguese.html
+  last_post_title: Common misconceptions about AI
+  last_post_description: 'It''s that time of year again. As usual, we took a couple
+    of weeks off and came south: a bit of Portugal, a bit of Italy, a lot of friends
+    and family. My family has a long-running joke that I hate'
+  last_post_date: "2025-09-07T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/common-misconceptions-about-ai.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: e83a72ca661fe5f2628e0bb3f953a2dc
+  last_post_guid: 4b429dad1f883f3c6fdb8d7714ae4580
   score_criteria:
     cats: 0
     description: 0
@@ -46,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 59
-  avgpostlen: 266
+  avgpostlen: 271
 ---

@@ -16,32 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Comunicati
   - FLUG
   relme:
     https://firenze.linux.it/: true
-  last_post_title: Festa per Debian 13 (Trixie)
-  last_post_description: Giovedì 14 agosto 2025 ci ritroveremo alle 21:00, all’Ultravox
-    alle Cascine per festeggiare l’uscita di Debian GNU/Linux Trixie, la tredicesima
-    versione di questo sistema operativo
-  last_post_date: "2025-08-03T09:43:21Z"
-  last_post_link: https://firenze.linux.it/2025/08/festa-per-debian-13-trixie/
+  last_post_title: Migrazione server di posta
+  last_post_description: LunedÃ¬ 28 luglio 2025 sulla lista del FLUG Ã¨ stata annunciata
+    la migrazione al nuovo server di posta sul rinato serverino (nome in codice Coraggio).
+    Stiamo ancora verificando che tutto funzioni
+  last_post_date: "2025-08-15T10:12:20Z"
+  last_post_link: https://firenze.linux.it/2025/08/migrazione-server-di-posta/
   last_post_categories:
+  - Comunicati
   - FLUG
   last_post_language: ""
-  last_post_guid: 69ed62133f39e240ee2a621e6750c3fe
+  last_post_guid: 5a21f819e4f9b23666e86663a6f6ee5f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-08-11T11:04:22Z"
+date: "2025-09-15T04:01:54Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,15 +23,15 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: The State of CSS 2025 results are in
-  last_post_description: |-
-    One thing we can't ignore this year is there's been a reduction in respondents vs 2024. The 2024 survey was completed by 9,704 people and this year's only got 5,506. That's quite a reduction!
-    There's
-  last_post_date: "2025-08-11T08:00:00Z"
-  last_post_link: https://piccalil.li/links/the-state-of-css-2025-results-are-in/?ref=main-rss-feed
+  last_post_title: 'Un-Sass''ing my CSS: compiling multiple CSS files into one'
+  last_post_description: I spend an unhealthy amount of time thinking about this stuff.
+    It's something I can't shake off because from days in CSS consultation where I
+    saw more CSS compiling/concatenation methods than should
+  last_post_date: "2025-09-11T14:55:00Z"
+  last_post_link: https://piccalil.li/links/un-sassing-my-css-compiling-multiple-css-files-into-one/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 340f034bd7448b943e215391fd8a0173
+  last_post_guid: f6dd3309901f3ecbe50400125665d360
   score_criteria:
     cats: 0
     description: 3

@@ -21,16 +21,15 @@ params:
   - 'Software/ '
   - Vale Programming Language
   relme: {}
-  last_post_title: Crossing the Impossible FFI Boundary, and My Gradual Descent Into
-    Madness
+  last_post_title: 'Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions'
   last_post_description: ""
-  last_post_date: "2024-06-17T01:00:00-05:00"
-  last_post_link: https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2
+  last_post_date: "2025-08-28T01:20:00-05:00"
+  last_post_link: https://verdagon.dev/blog/group-borrowing
   last_post_categories:
+  - Mojo Programming Language
   - Programming Languages
-  - Vale Programming Language
   last_post_language: ""
-  last_post_guid: f67008c2ada3371aa214988ccf0e531a
+  last_post_guid: da133a3e92b93184f30ebcb4f4ee4e6e
   score_criteria:
     cats: 4
     description: 3
@@ -48,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 33
+  postcount: 35
   avgpostlen: 0
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://willpython.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: aa0f8f2af5a8d04a15a5d3b384edec49
-  websites: {}
+  websites:
+    https://willpython.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -16,7 +17,10 @@ params:
   recommender: []
   categories:
   - asyncore asynchat threading
-  relme: {}
+  relme:
+    https://hmemor.blogspot.com/: true
+    https://willpython.blogspot.com/: true
+    https://www.blogger.com/profile/07787752537023885656: true
   last_post_title: '"top" in an animated GIF'
   last_post_description: ""
   last_post_date: "2013-03-10T17:25:12-04:00"
@@ -33,10 +37,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

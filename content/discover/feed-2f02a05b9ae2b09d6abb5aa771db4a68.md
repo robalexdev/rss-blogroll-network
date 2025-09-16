@@ -1,38 +1,37 @@
 ---
 title: The Go Blog
-date: "2025-07-15T00:00:00Z"
+date: "2025-09-09T00:00:00Z"
 description: ""
 params:
   feedlink: https://go.dev/blog/feed.atom
   feedtype: atom
   feedid: 2f02a05b9ae2b09d6abb5aa771db4a68
-  websites:
-    https://go.dev/blog/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: ""
+  - title: Take on Rules Public Blogroll
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
+    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  - https://hacdias.com/writings/feed.xml
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
+  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: The FIPS 140-3 Go Cryptographic Module
-  last_post_description: Go now has a built-in, native FIPS 140-3 compliant mode.
-  last_post_date: "2025-07-15T00:00:00Z"
-  last_post_link: https://go.dev/blog/fips140
+  last_post_title: A new experimental Go API for JSON
+  last_post_description: Go 1.25 introduces experimental support for encoding/json/jsontext
+    and encoding/json/v2 packages.
+  last_post_date: "2025-09-09T00:00:00Z"
+  last_post_link: https://go.dev/blog/jsonv2-exp
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a60b96d843725713f1ea6c8c253063a
+  last_post_guid: 8ad640a70a4ddfe0bbeaa8eb5e2e1602
   score_criteria:
     cats: 0
     description: 0
@@ -44,12 +43,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 295
 ---

@@ -6,7 +6,8 @@ params:
   feedlink: https://eatthedots.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 825a15171ebdbf7c771b4a86aea2bcd5
-  websites: {}
+  websites:
+    https://eatthedots.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -25,7 +26,9 @@ params:
   - pyglet
   - python
   - shader
-  relme: {}
+  relme:
+    https://eatthedots.blogspot.com/: true
+    https://www.blogger.com/profile/09131446473176959067: true
   last_post_title: The Power to do it Wrong
   last_post_description: ""
   last_post_date: "2011-10-15T22:26:36-07:00"
@@ -42,10 +45,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 22
+    website: 2
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

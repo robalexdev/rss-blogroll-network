@@ -1,6 +1,6 @@
 ---
 title: 'Paul Khuong: some Lisp'
-date: "2025-04-26T18:14:37-04:00"
+date: "2025-08-24T19:57:31-04:00"
 description: ""
 params:
   feedlink: https://pvk.ca/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'VPTERNLOG: when three is 100% more than two'
+  last_post_title: Monoid-augmented FIFOs, deamortised
   last_post_description: ""
-  last_post_date: "2024-11-22T21:50:00-05:00"
-  last_post_link: https://www.pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/
+  last_post_date: "2025-08-19T23:16:07-04:00"
+  last_post_link: https://www.pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: def69c21e61c53d5e647fae757ee33cc
+  last_post_guid: 5775db8c201a0238d58b63bebc0bc1b3
   score_criteria:
     cats: 0
     description: 0

@@ -18,17 +18,17 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: 'Status Update: July 2025'
+  last_post_title: 'Status Update: August 2025'
   last_post_description: |-
     G’day!
-    Status updates are back after a bit of an unscheduled break.
-    A lot has happened since the last update in April: mostly personal, some
-    professional, and a little bit in the realm of personal
-  last_post_date: "2025-05-29T00:00:00Z"
-  last_post_link: https://joshleeb.com/posts/status-update-2025-jul.html
+    This month I’ve been working on Ohm, a fuzzy finder based on
+    Orderless. I introduced Ohm in the last update, and
+    I’ll be writing a dedicated post including motivations and usage examples
+  last_post_date: "2025-08-28T00:00:00Z"
+  last_post_link: https://joshleeb.com/posts/status-update-2025-aug.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 98df2ce7df437fca4a0c202ea9a662a1
+  last_post_guid: 421feaccef490eaaa9fcfb619357fb00
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 29
+  postcount: 34
   avgpostlen: 0
 ---

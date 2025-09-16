@@ -170,13 +170,6 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
-  - https://blog.pcora.eu/feed/
-  - https://blog.pcora.eu/feed/?type=rss
-  - https://www.buttersafe.com/feed/
-  - https://www.buttersafe.com/feed/atom/
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://cosmicqbit.dev/blog/index.xml
-  - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
   - https://diggingthedigital.com/comments/feed/
   - https://diggingthedigital.com/feed/
@@ -194,10 +187,6 @@ params:
   - https://jerz.us/atom/
   - https://jerz.us/feed/
   - https://jerz.us/rss/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://mijndertstuij.nl/posts-feed.xml
@@ -219,20 +208,11 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
-  - https://rss.metafilter.com/popular-comments.rss
-  - https://rss.metafilter.com/popular-posts.rss
-  - https://rss.metafilter.com/projects.rss
-  - https://indieweb.social/@seanmcp.rss
+  - https://rsdoiel.github.io/archive.xml
+  - https://rsdoiel.github.io/index.xml
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
-  - https://shkspr.mobi/blog/comments/feed/
-  - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom
-  - https://stantonharcourtschool.org.uk/comments/feed/
-  - https://stantonharcourtschool.org.uk/feed/
-  - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
@@ -240,41 +220,30 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
-  - https://lanzatu.blog/comments/feed/
-  - https://lanzatu.blog/feed/
-  - https://lanzatu.blog/feed/podcast
-  - https://rss.metafilter.com/metafilter.rss
-  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
-  - https://www.schneier.com/comments/feed/
-  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://z1nz0l1n.com/comments/feed/
-  - https://z1nz0l1n.com/feed/
   recommender: []
   categories: []
   relme:
     https://dan-q.github.io/: true
-    https://danq.blog/: true
     https://danq.me/: true
-    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] Please Fix This Site? Okay! by Avi Bagla
-  last_post_description: Honestly, thank you for fixing the site for people who have
-    it! Was pretty funny to get this google alert.
-  last_post_date: "2025-07-22T16:23:54+01:00"
-  last_post_link: https://danq.me/2025/07/18/please-fix-this-site/#comment-283995
+  last_post_title: Comment on [Repost] AI isn’t useless. But is it worth it? by Nitrode
+  last_post_description: I really resonate with this perspective. Generative AIs can
+    be surprisingly helpful for tasks like summarization, brainstorming, coding assistance,
+    or creating concept art, but their limitations are
+  last_post_date: "2025-09-11T10:04:48+01:00"
+  last_post_link: https://danq.me/2024/04/18/ai-isnt-useless-but-is-it-worth-it/#comment-288046
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ce670727bb6931ddbffbc3921eaef788
+  last_post_guid: 58b6b2741c250864483e6be33581d576
   score_criteria:
     cats: 0
     description: 3

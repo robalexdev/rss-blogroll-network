@@ -6,7 +6,8 @@ params:
   feedlink: https://fottsia.wordpress.com/feed/
   feedtype: rss
   feedid: 01565bca8ecccf8ee8e8eb538b28558f
-  websites: {}
+  websites:
+    https://fottsia.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

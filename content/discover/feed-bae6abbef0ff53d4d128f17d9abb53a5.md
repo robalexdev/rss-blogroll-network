@@ -19,16 +19,16 @@ params:
   categories:
   - Essays
   relme: {}
-  last_post_title: 'Programming After AI: Why System Boundary Taste Matters'
-  last_post_description: Since coding agents came on the scene, a subset of programmers
-    panic about AI replacing their jobs, but I think they're panicking about the wrong
-    thing. The fear seems focused on the mechanical
-  last_post_date: "2025-07-21T14:02:53Z"
-  last_post_link: https://interjectedfuture.com/programming-after-ai-why-system-boundary-taste-matters/
+  last_post_title: The Hidden Scaffolding Behind Production Vibe Coding
+  last_post_description: Tweet sourceI’m not near a level where it’s 10k LOC per day,
+    but the volume of commits is noticeably higher w/ Claude/Codex now. Back in Feb/Mar
+    when Claude Code came out, I was writing an
+  last_post_date: "2025-09-09T18:48:54Z"
+  last_post_link: https://interjectedfuture.com/vibe-coding-for-experts-needs-scaffolding/
   last_post_categories:
   - Essays
   last_post_language: ""
-  last_post_guid: 7512a64d26833cce46f9006cc65c01e5
+  last_post_guid: 066b8e947136e45e6a1d381c3fc5e431
   score_criteria:
     cats: 0
     description: 3

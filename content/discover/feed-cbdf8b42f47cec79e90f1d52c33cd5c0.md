@@ -6,7 +6,8 @@ params:
   feedlink: https://ctrlc.hu/~stef/blog/atom.xml
   feedtype: atom
   feedid: cbdf8b42f47cec79e90f1d52c33cd5c0
-  websites: {}
+  websites:
+    https://ctrlc.hu/~stef/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,7 +6,8 @@ params:
   feedlink: https://pepeiborra.wordpress.com/feed/
   feedtype: rss
   feedid: b9e5fdbe93d09ea7f7bac0944c93c0cf
-  websites: {}
+  websites:
+    https://pepeiborra.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Haskell
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

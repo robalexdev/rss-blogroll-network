@@ -13,8 +13,14 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Take on Rules Public Blogroll
+    description: ""
+    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
-  recommender: []
+  recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
+  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
   last_post_title: Building personalized micro agents
@@ -41,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 64
+  postcount: 65
   avgpostlen: 296
 ---

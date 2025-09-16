@@ -12,9 +12,6 @@ params:
   - title: Articles by Aaron Parecki
     description: ""
     id: 04771e3320b44a0e37cc8de8ad3d8722
-  - title: Stan's blog
-    description: Recent content on Stan's blog
-    id: 06ec1ee4eb49931cbb87a87747e6f5e7
   - title: Brain Baking
     description: Freshly Baked Thoughts by Wouter Groeneveld
     id: 089c9db489cfeaf58be3a5376674b2c2
@@ -59,9 +56,6 @@ params:
   - title: Tim Hårek
     description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
-  - title: Everything on Luke's Wild Website
-    description: Recent content in Everything on Luke's Wild Website
-    id: 4685ae84966feff5e12e3b849531b6ea
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
@@ -72,12 +66,8 @@ params:
     description: PaulStamatiou.com - Technology, Design and Photography
     id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
-    description: Currently writing about my travel nostalgia, critical thoughts towards
-      AI and how I'm establishing a healthier relationship to my phone.
+    description: A personal blog about design, travel and life a software user.
     id: 5cd3085a60f3bae159ce042035a1e3de
-  - title: Ben Borgers
-    description: Ben Borgers’ personal website.
-    id: 5d017cf3df4845836c01d3a419118726
   - title: Jon Worth
     description: Independent railway commentator
     id: 61a94025d87b544bb3104f1508c59c20
@@ -100,9 +90,6 @@ params:
   - title: mtlynch.io
     description: Recent content on mtlynch.io
     id: 853181e6754bb2dbd37a6b974beb15c2
-  - title: Home - Henrique Dias
-    description: ""
-    id: 8ecf912379244d536a74e8070a923b6e
   - title: Simon Safar
     description: All recent entries from simonsafar.com
     id: 90854f1f0dae048e656814729f666c81
@@ -117,13 +104,9 @@ params:
     description: A collection of random thoughts about tech, life, design and pretty
       much everything else I find interesting.
     id: 9417e92ed42b42a9df3959016838f82d
-  - title: Werd I/O
-    description: Writing at the intersection of technology, media, and democracy by
-      Ben Werdmuller
+  - title: Ben Werdmuller
+    description: Writing at the intersection of technology, journalism, and community.
     id: 945f01c08c54530895712b075e5dd074
-  - title: Readings - Henrique Dias
-    description: ""
-    id: 95f4f2a5765ed1075962303225cfcb80
   - title: Seblog.nl
     description: Nieuwe posts op Seblog.nl
     id: 975c20c1343b56f76f9318596089f92d
@@ -182,10 +165,6 @@ params:
   - title: Julia Evans
     description: ""
     id: d90120327a3aa08790f4a1669c180620
-  - title: Werd I/O
-    description: Writing at the intersection of technology, democracy, and society
-      by Ben Werdmuller
-    id: dbc284240505575ccd510818aa0f723d
   - title: paritybit.ca
     description: ""
     id: dd65b19c5b2d7a3ece9b2b3d11314cc2
@@ -199,7 +178,4 @@ params:
   - title: articles on Jamie Tanna | Software Engineer
     description: Recent content in articles on Jamie Tanna | Software Engineer
     id: e3ea02a1d250220c7cf502975e92f2da
-  - title: Bookmarks - Henrique Dias
-    description: ""
-    id: e83ed8c7f9f995c598c43c3992c4f885
 ---

@@ -1,6 +1,6 @@
 ---
 title: Posts tagged 'emacs' by Christian Tietze
-date: "2025-08-08T09:59:26Z"
+date: "2025-08-28T15:06:59Z"
 description: ""
 params:
   feedlink: https://christiantietze.de/posts/tags/emacs/feed.atom
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Emacs Elevator Pitch (August Blog Carnival)
-  last_post_description: Jeremy Friesen hosts this month’s Emacs Carnival, and the
-    topic is “Your Elevator Pitch for Emacs”. It took me a couple of days to come
-    up with a useful angle, because I didn’t even consider
-  last_post_date: "2025-08-08T09:59:26Z"
-  last_post_link: https://christiantietze.de/posts/2025/08/emacs-elevator-pitch/
+  last_post_title: Clickable Swift Testing Failure Messages in Emacs compile-mode
+  last_post_description: 'God was this weird to figure out. So swift test will produce
+    a lot of stuff on standard output. Test failures, to nobody’s help, also just
+    list the file names, not the (relative) paths: In theory,'
+  last_post_date: "2025-08-28T15:06:59Z"
+  last_post_link: https://christiantietze.de/posts/2025/08/clickable-swift-testing-failure-messages-in-emacs-compile-mode/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4c1994076245bedcaaf8176e700cac4
+  last_post_guid: a28d3500ba3e544a94261e7a6bd1f187
   score_criteria:
     cats: 0
     description: 0

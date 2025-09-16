@@ -1,15 +1,13 @@
 ---
 title: Ian Cooper - Staccato Signals
-date: "2025-08-11T11:53:54Z"
+date: "2025-09-15T04:08:37Z"
 description: These are the days of miracle and wonder
 params:
   feedlink: https://ian-cooper.writeas.com/feed/
   feedtype: rss
   feedid: d5addcfb4df375293d6670f7edd6d1b3
   websites:
-    https://ian-cooper.writeas.com: false
     https://ian-cooper.writeas.com/: true
-    https://write.as/ian-cooper/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

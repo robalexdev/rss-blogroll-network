@@ -6,7 +6,8 @@ params:
   feedlink: https://blog.josefsson.org/feed/
   feedtype: rss
   feedid: 9376e4dd8cd58ab8ce5ab835d0f05c0c
-  websites: {}
+  websites:
+    https://blog.josefsson.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -58,12 +59,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 133
+  postcount: 135
   avgpostlen: 0
 ---

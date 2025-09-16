@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Wing Python IDE Version 11.0.3 - August 1, 2025
+  last_post_title: Wing Python IDE Version 11.0.4 - September 8, 2025
   last_post_description: |-
-    Wing Python IDE version 11.0.3 has been released.  It improves Python code analysis,
-    fixes problems debugging Django templates, fixes refactoring when the target file
-    is in a hidden directory, and
-  last_post_date: "2025-08-01T01:00:00Z"
-  last_post_link: https://wingware.com/news/2025-08-01
+    Wing Python IDE version 11.0.4 has been released.  It adds debugger and code analysis
+    support for Python 3.14, improves Python code analysis and code warnings, and makes
+    a number of other minor
+  last_post_date: "2025-09-08T01:00:00Z"
+  last_post_link: https://wingware.com/news/2025-09-08
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a3220b2f14e5c09eba84ae221ec412c0
+  last_post_guid: 8a0c1428108039948875bd8b495763b1
   score_criteria:
     cats: 0
     description: 3

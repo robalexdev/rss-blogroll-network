@@ -18,13 +18,10 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/bookmarks/feed.xml
   - https://hacdias.com/feed.xml
-  - https://hacdias.com/readings/feed.xml
+  - https://hacdias.com/writings/feed.xml
   categories: []
   relme:
-    https://github.com/mxinden: true
     https://max-inden.de/: true
   last_post_title: Talk "Fast UDP makes QUIC quicker - optimizing Firefox’s HTTP3
     IO stack" @FOSDEM

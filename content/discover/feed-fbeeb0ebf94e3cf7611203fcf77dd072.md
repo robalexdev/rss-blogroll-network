@@ -1,6 +1,6 @@
 ---
 title: geothought
-date: "2025-07-15T01:14:20-06:00"
+date: "2025-09-13T09:15:31-06:00"
 description: Thoughts on geospatial and location technology from Peter Batty
 params:
   feedlink: https://www.blogger.com/feeds/8470995059384390571/posts/default

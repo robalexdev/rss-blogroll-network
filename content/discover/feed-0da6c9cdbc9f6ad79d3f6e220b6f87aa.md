@@ -13,42 +13,39 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
-  - title: Leon Mika - Blogroll
-    description: ""
-    id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
   categories:
-  - OpenAI
+  - AI
+  - Child Safety
   relme: {}
-  last_post_title: GPT-5 is alive
-  last_post_description: 'It''s big news for free users of ChatGPT, but AGI remains
-    elusive. PLUS: one AI safety idea other labs should borrow'
-  last_post_date: "2025-08-08T00:45:00Z"
-  last_post_link: https://www.platformer.news/gpt-5-launch-release-reviews-impressions/
+  last_post_title: Are Republicans changing their minds about AI safety?
+  last_post_description: A new FTC inquiry into chatbots and children shows that some
+    within the Trump Administration may be reconsidering their anti-regulation approach
+  last_post_date: "2025-09-12T00:35:33Z"
+  last_post_link: https://www.platformer.news/ftc-chatbots-child-safety/
   last_post_categories:
-  - OpenAI
+  - AI
+  - Child Safety
   last_post_language: ""
-  last_post_guid: 34f3aeb4d94c0813b941c48d4b11fdf3
+  last_post_guid: 9053eb58c1f76e34c2e2f3727cfd0501
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

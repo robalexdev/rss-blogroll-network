@@ -16,23 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bureau of Labor Statistics
-  - Statistics
-  - economy
-  - estimation
+  - Bloomberg
+  - Ghislaine Maxwell
+  - Infographics
+  - Jeffrey Epstein
+  - email
   relme: {}
-  last_post_title: Why economic data requires regular updates
-  last_post_description: 'Many are discovering that the Bureau of Labor Statistics
-    updates past estimates, but…Tags: Bureau of Labor Statistics, economy, estimation'
-  last_post_date: "2025-08-11T08:26:51Z"
-  last_post_link: https://flowingdata.com/2025/08/11/why-economic-data-requires-regular-updates/
+  last_post_title: Epstein inbox and a spreadsheet of gifts
+  last_post_description: 'Bloomberg gained access to an email cache from Jeffrey Epstein’s
+    Yahoo Mail inbox,…Tags: Bloomberg, email, Ghislaine Maxwell, Jeffrey Epstein'
+  last_post_date: "2025-09-12T09:29:50Z"
+  last_post_link: https://flowingdata.com/2025/09/12/epstein-inbox-and-a-spreadsheet-of-gifts/
   last_post_categories:
-  - Bureau of Labor Statistics
-  - Statistics
-  - economy
-  - estimation
+  - Bloomberg
+  - Ghislaine Maxwell
+  - Infographics
+  - Jeffrey Epstein
+  - email
   last_post_language: ""
-  last_post_guid: 55cd6131a6cde3657479e2c72605c08d
+  last_post_guid: d006c802480f48bad47491ab16e6aed2
   score_criteria:
     cats: 0
     description: 3

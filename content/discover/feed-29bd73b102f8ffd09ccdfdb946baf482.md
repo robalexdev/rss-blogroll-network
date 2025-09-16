@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Must Do &ldquo;Must Do Better&rdquo; Better
-  last_post_description: 'Abstract: Starting with the his much-discussed 2006 paper
-    “Must Do Better,’ Timothy Williamson has offered a series of methodological reflections
-    and recommendations for philosophers. Good'
-  last_post_date: "2025-06-18T17:00:00-07:00"
-  last_post_link: https://consequently.org/presentation/2025/must-do-mdb-better-sep/
+  last_post_title: 2025 Wendy Huang Lectures
+  last_post_description: I will be giving the 2025 Wendy Huang Lectures at the invitation
+    of the Taiwan Association for Logic, Methodology and Philosophy of Science, at
+    NTU Taiwan, in Taipei, from October 21 to 23. The third
+  last_post_date: "2025-10-21T14:00:00Z"
+  last_post_link: https://consequently.org/presentation/2025/whl/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7ddd2394494068479ece75f3f32c8bbd
+  last_post_guid: f9bb2368933f6a0e6ba6c17d19f5fb1f
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 700
+  postcount: 705
   avgpostlen: 0
 ---

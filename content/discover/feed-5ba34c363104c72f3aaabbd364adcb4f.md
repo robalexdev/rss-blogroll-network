@@ -15,36 +15,37 @@ params:
       by feedlandDatabase v0.7.54.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
-  recommender:
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
+  recommender: []
   categories:
+  - Marine conservation
   - Raspberry Pi Official Magazine
+  - Raspberry Pi Pico
   relme: {}
-  last_post_title: Happy Maker Monday — show us your Raspberry Pi builds!
-  last_post_description: "Another Maker Monday is upon us! \nThe post Happy Maker
-    Monday — show us your Raspberry Pi builds! appeared first on Raspberry Pi."
-  last_post_date: "2025-08-11T10:10:02Z"
-  last_post_link: https://www.raspberrypi.com/news/happy-maker-monday-show-us-your-raspberry-pi-builds/
+  last_post_title: Build a tiny open-source underwater vehicle
+  last_post_description: |-
+    With some 3D printing, motors, and a Raspberry Pi Pico, you can be up and running with an underwater explorer!
+    The post Build a tiny open-source underwater vehicle appeared first on Raspberry Pi.
+  last_post_date: "2025-09-12T10:23:53Z"
+  last_post_link: https://www.raspberrypi.com/news/build-a-tiny-open-source-underwater-vehicle/
   last_post_categories:
+  - Marine conservation
   - Raspberry Pi Official Magazine
+  - Raspberry Pi Pico
   last_post_language: ""
-  last_post_guid: 32c9490badede2224dab809fe781409b
+  last_post_guid: 44199a1eb5eff2b32a4568a2a698b047
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

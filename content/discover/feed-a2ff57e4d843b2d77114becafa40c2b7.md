@@ -6,7 +6,8 @@ params:
   feedlink: https://colton.dev/feed/feed.xml
   feedtype: atom
   feedid: a2ff57e4d843b2d77114becafa40c2b7
-  websites: {}
+  websites:
+    https://colton.dev/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -34,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

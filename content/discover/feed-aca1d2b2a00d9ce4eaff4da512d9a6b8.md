@@ -18,17 +18,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-    https://github.com/barryf: true
-    https://mastodon.social/@barryf: true
-  last_post_title: Week 207 - Yurt
-  last_post_description: I had a busy few days of work at home while the rest of my
-    family joined L's parents glamping in Northamptonshire. They stayed in fancy yurts
-    with beds and a hut with a kitchen. I was jealous of
-  last_post_date: "2025-08-10T21:31:28Z"
-  last_post_link: https://barryfrost.com/2025/08/week-207-yurt
+  last_post_title: Week 212 - Together
+  last_post_description: I organised a two-day in-person workshop for my team this
+    week. Although I'm contractually linked to our Cambridge office, we work remotely
+    at different ends of the country, so some travelled down
+  last_post_date: "2025-09-14T19:26:23Z"
+  last_post_link: https://barryfrost.com/2025/09/week-212-together
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 023f204077b27bfbc80159429967db38
+  last_post_guid: de3cbcc67439717dca18bc7028f1e3b5
   score_criteria:
     cats: 0
     description: 3

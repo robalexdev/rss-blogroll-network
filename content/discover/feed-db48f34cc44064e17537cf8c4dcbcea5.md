@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2025-08-10T18:44:03Z"
+date: "2025-09-14T19:55:16Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Mayx Blogroll
+    description: ""
+    id: 5fffc50926876056bde70973d462a6cf
   - title: Mayx Blogroll
     description: ""
     id: 74d419ad47375950f8898bd6e9ad9734
@@ -20,6 +23,8 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender:
+  - https://mabbs.github.io/atom.xml
+  - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
   categories: []
   relme: {}
@@ -47,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 85
-  avgpostlen: 203
+  postcount: 86
+  avgpostlen: 201
 ---

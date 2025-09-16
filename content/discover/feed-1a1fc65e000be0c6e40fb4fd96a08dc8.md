@@ -6,7 +6,8 @@ params:
   feedlink: https://qendresahoti.wordpress.com/feed/
   feedtype: rss
   feedid: 1a1fc65e000be0c6e40fb4fd96a08dc8
-  websites: {}
+  websites:
+    https://qendresahoti.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 11
+    website: 2
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

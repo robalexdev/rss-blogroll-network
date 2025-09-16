@@ -15,20 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ollama
-  - openwebui
+  - OOM
+  - OOM-Killer
+  - SSH
   - 学无止境
   relme: {}
-  last_post_title: Docker部署的Open WebUI连接非Docker部署的Ollama
-  last_post_description: 之前网上已经有很多文章提到过Ollama API未经授权访问的事情。。其实大概就是很多人把Ollama直接监听到0.0.0
-  last_post_date: "2025-06-11T23:34:39Z"
-  last_post_link: https://lala.im/9565.html
+  last_post_title: 这是我见过的最牛逼的SSH暴力破解
+  last_post_description: 第一次见到SSH爆破把机子内存干爆了的。。 起因：早上发现站打不开了，提示数据库连接失败。然后登上去检查数据库运行状态：
+    journalctl -u mariadb
+  last_post_date: "2025-09-12T03:04:35Z"
+  last_post_link: https://lala.im/9642.html
   last_post_categories:
-  - ollama
-  - openwebui
+  - OOM
+  - OOM-Killer
+  - SSH
   - 学无止境
   last_post_language: ""
-  last_post_guid: d3cacfc75bfd2ca9ed27860cfde6cf0e
+  last_post_guid: 7f4c0a6ac12567c22d35febb8fd15f14
   score_criteria:
     cats: 0
     description: 3

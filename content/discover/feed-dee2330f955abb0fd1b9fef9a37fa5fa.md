@@ -1,6 +1,6 @@
 ---
 title: eighty-twenty news
-date: "2025-08-06T14:01:59Z"
+date: "2025-09-04T08:23:22Z"
 description: ""
 params:
   feedlink: https://eighty-twenty.org/index.atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Strict alternation of data and behaviour in Smalltalk
+  last_post_title: Loading Ian Piumarta's Smalltalk terminal emulator code
   last_post_description: ""
-  last_post_date: "2025-06-25T09:07:48Z"
-  last_post_link: https://eighty-twenty.org/2025/06/25/smalltalk-strict-alternation
+  last_post_date: "2025-09-04T07:06:29Z"
+  last_post_link: https://eighty-twenty.org/2025/09/04/ian-piumarta-smalltalk-terminal-emulator
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3f6bda60125efe5856908ea6fcdfa836
+  last_post_guid: 37b525e183ac17897259edf1a90582f2
   score_criteria:
     cats: 0
     description: 0
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 279
+  avgpostlen: 280
 ---

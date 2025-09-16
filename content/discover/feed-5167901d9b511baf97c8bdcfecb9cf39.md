@@ -6,7 +6,8 @@ params:
   feedlink: https://jryannel.wordpress.com/feed/
   feedtype: rss
   feedid: 5167901d9b511baf97c8bdcfecb9cf39
-  websites: {}
+  websites:
+    https://jryannel.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Qt
@@ -37,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

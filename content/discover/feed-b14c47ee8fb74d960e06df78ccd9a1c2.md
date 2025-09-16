@@ -15,44 +15,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Audio
-  - Church
   - Community
-  - Freeshow
-  - Lighting
   - Linux
-  - Lyric Projection
-  - Lyrics
-  - Ministry
   - Planet Ubuntu
-  - Studio
-  - Ubuntu
   - Ubuntu Studio
-  - Video
+  - hardware
+  - raspberry-pi
+  - technology
   relme: {}
-  last_post_title: Ubuntu Studio in the Christian Church
-  last_post_description: When I began working on Ubuntu Studio, I was working for
-    a large church. We were doing amazing things in our services every Sunday. Our
-    video, audio, and lighting were top-notch, but the problem was
-  last_post_date: "2022-08-27T22:36:02Z"
-  last_post_link: https://ericheickmeyer.com/2022/08/27/ubuntu-studio-in-the-christian-church/
+  last_post_title: Raspberry Pi as a Networked Audio Interface
+  last_post_description: I haven’t posted for quite some time, and a lot has happened.
+    For instance, my wife revived Edubuntu and my work with Ubuntu Studio now spans
+    over 7 years. Recently, I became the proud owner of a
+  last_post_date: "2025-08-19T19:48:23Z"
+  last_post_link: https://ericheickmeyer.com/2025/08/19/raspberry-pi-as-a-networked-audio-interface/
   last_post_categories:
-  - Audio
-  - Church
   - Community
-  - Freeshow
-  - Lighting
   - Linux
-  - Lyric Projection
-  - Lyrics
-  - Ministry
   - Planet Ubuntu
-  - Studio
-  - Ubuntu
   - Ubuntu Studio
-  - Video
+  - hardware
+  - raspberry-pi
+  - technology
   last_post_language: ""
-  last_post_guid: 0e412c7b9532b11db8fff5c5291f5d49
+  last_post_guid: 7c3873c5e3da1b970154c5fc47b46f9b
   score_criteria:
     cats: 0
     description: 3
@@ -70,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 5
+  postcount: 6
   avgpostlen: 0
 ---

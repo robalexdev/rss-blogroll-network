@@ -26,9 +26,10 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
-  - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
+  - https://ttntm.me/blog/feed.xml
+  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []
@@ -57,6 +58,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 84
-  avgpostlen: 286
+  postcount: 90
+  avgpostlen: 284
 ---

@@ -11,6 +11,9 @@ params:
   blogrolls:
   - https://frankmeeuwsen.com/.well-known/recommendations.opml
   in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.7.54.
@@ -75,8 +78,6 @@ params:
   - https://arcadeblogger.com/comments/feed/
   - https://austinkleon.com/comments/feed/
   - https://austinkleon.com/feed/
-  - https://doc.searls.com/comments/feed/
-  - https://doc.searls.com/feed/
   - https://boffosocko.com/category/mathematics/feed/
   - https://boffosocko.com/category/microcast/feed/
   - https://boffosocko.com/category/podcast/feed/
@@ -107,8 +108,6 @@ params:
   - https://boffosocko.com/read.xml
   - https://granary-demo.appspot.com/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=http%3A//www.boffosocko.com/blog/
   - https://stream.boffosocko.com/content/all?_t=rss
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://dougbelshaw.com/blog/comments/feed/
   - https://idealistpropaganda.blogspot.com/feeds/posts/default?alt=rss
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
@@ -123,11 +122,6 @@ params:
   - https://localghost.dev/musics.xml
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
-  - https://longnow.org/ideas/
-  - https://ochtendgrijs.be/blog/feed/
-  - https://ochtendgrijs.be/comments/feed/
-  - https://remkusdevries.com/comments/feed/
-  - https://remkusdevries.com/feed/
   - https://robinrendle.com/cascadefeed.xml
   - https://robinrendle.com/essayfeed.xml
   - https://robinrendle.com/newsletterfeed.xml
@@ -135,39 +129,31 @@ params:
   - https://tomcritchlow.com/feed.xml
   - https://tracydurnell.com/comments/feed/
   - https://weblog.anniegreens.lol/atom.xml
-  - https://granary.io/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=https%3A//werd.io/content/all/
-  - https://werd.io/content/all?_t=rss
-  - https://werd.io/content/bookmarkedpages?_t=rss
   - https://werd.io/rss/
   - https://www.bjornfranke.nl/comments/feed/
   - https://www.jeremycherfas.net/blog.rss
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
-  - https://rushkoff.com/comments/feed/
-  - https://www.zylstra.org/blog/comments/feed/
   - https://zijperspace.nl/comments/feed/
   recommender:
-  - https://feeds.feedburner.com/johnjohnston
+  - https://colinwalker.blog/dailyfeed.xml
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
   categories: []
   relme:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: Paper Trails weekoverzicht (4 augustus - 10 augustus)
-  last_post_description: Ik had twee interviews en heb vooral van het lekkere weer
-    genoten. Net als vorige week was deze week rustiger voor CreativeNotes. Dit is
-    voor mij ook het moment om op een rij te krijgen hoe ik dit
-  last_post_date: "2025-08-10T10:40:43+02:00"
-  last_post_link: https://frankmeeuwsen.com/2025/08/10/paper-trails-weekoverzicht-augustus-augustus.html
+  last_post_title: Paper Trails Weekoverzicht (7 september-14 september)
+  last_post_description: Zo is ineens een maand voorbij sinds de laatste update! Nou
+    moe! Heb ik dan stilgezeten? Verre van! Is het boek af? Nou nee, dat ook weer
+    niet. Maar wat heb je dan gedaan? Laat me dat eens op een rij
+  last_post_date: "2025-09-14T12:49:47+02:00"
+  last_post_link: https://frankmeeuwsen.com/2025/09/14/paper-trails-weekoverzicht-september-september.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 873f3cfb4b45e0af36bde124d5b0b687
+  last_post_guid: f7c671b4f93b5a84a619b664598fad18
   score_criteria:
     cats: 0
     description: 0
@@ -185,6 +171,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: nl
-  postcount: 12
+  postcount: 20
   avgpostlen: 0
 ---

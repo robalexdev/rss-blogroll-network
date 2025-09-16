@@ -6,7 +6,8 @@ params:
   feedlink: https://nowviskie.org/feed/
   feedtype: rss
   feedid: ad9d9d597abb1abf41eab2ab1eb8beb0
-  websites: {}
+  websites:
+    https://nowviskie.org/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Code4Lib
@@ -18,7 +19,9 @@ params:
   - administrivia
   - digital humanities
   - past lives
-  relme: {}
+  relme:
+    https://glammr.us/@nowviskie: true
+    https://nowviskie.org/: true
   last_post_title: remarks (DH@30, UVa)
   last_post_description: '[Last week, it was my privilege to participate in an event
     celebrating the anniversary of centers and institutes that have...'
@@ -39,10 +42,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

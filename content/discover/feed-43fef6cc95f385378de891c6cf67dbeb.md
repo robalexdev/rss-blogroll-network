@@ -6,7 +6,8 @@ params:
   feedlink: https://baolef.github.io/libreoffice-ci/feed.xml
   feedtype: atom
   feedid: 43fef6cc95f385378de891c6cf67dbeb
-  websites: {}
+  websites:
+    https://baolef.github.io/libreoffice-ci/: true
   blogrolls: []
   in_blogrolls:
   - title: The Document Foundation Planet
@@ -34,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

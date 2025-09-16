@@ -23,7 +23,6 @@ params:
   categories: []
   relme:
     https://dizzy.zone/: true
-    https://github.com/vkuznecovas: true
   last_post_title: n8n and large files
   last_post_description: I’ve self hosted an n8n to automate video uploads to youtube.
     The idea was pretty simple - when I put an mp4 file in a specific dir on my nas,
@@ -50,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 28
+  postcount: 31
   avgpostlen: 0
 ---
