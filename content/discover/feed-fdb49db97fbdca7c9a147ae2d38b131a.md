@@ -9,6 +9,7 @@ params:
   websites:
     https://ochtendgrijs.be/: true
     https://ochtendgrijs.be/author/ochtendgrijs/: false
+    https://ochtendgrijs.be/index.php: false
   blogrolls: []
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll

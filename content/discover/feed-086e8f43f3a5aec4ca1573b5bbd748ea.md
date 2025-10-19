@@ -1,6 +1,6 @@
 ---
 title: '{maique}'
-date: "2025-06-11T23:29:23Z"
+date: "2025-09-14T20:50:25Z"
 description: ""
 params:
   feedlink: https://maique.eu/feed.xml
@@ -33,14 +33,15 @@ params:
   - https://miraz.me/podcast.xml
   categories: []
   relme: {}
-  last_post_title: "\U0001F60E The city, although challenging, has been kind to us..."
-  last_post_description: ðŸ˜Ž The city, although challenging, has been kind to us.
-    Perks of having family living here. And they have the most wonderful friends tooâ€¦
-  last_post_date: "2025-06-11T23:29:23Z"
-  last_post_link: https://maique.eu/posts/2025-06-12-the-city-although
+  last_post_title: "\U0001F970 Tomorrow I rest..."
+  last_post_description: "\U0001F970 Tomorrow I rest. Meaning I get to drop tinyMovieStar
+    off, pick her up, have ice-cream with her, and go to the playground! Favorite
+    day of the week right there…"
+  last_post_date: "2025-09-14T20:50:25Z"
+  last_post_link: https://maique.eu/posts/2025-09-14-tomorrow-i-rest-meaning
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d38b7c8fc514dfa909c46f32cedc611f
+  last_post_guid: d63e87bfd19717d98e30964b74a9f488
   score_criteria:
     cats: 0
     description: 0
@@ -59,5 +60,5 @@ params:
   innetwork: true
   language: en
   postcount: 25
-  avgpostlen: 85
+  avgpostlen: 102
 ---

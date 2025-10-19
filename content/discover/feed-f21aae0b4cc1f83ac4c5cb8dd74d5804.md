@@ -13,34 +13,36 @@ params:
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
-  recommender: []
+  recommender:
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories:
-  - "2025"
-  - "365"
-  - May
-  - "Photos \U0001F4F7"
-  - jay springett
-  - photo-a-day
-  - photo365
-  - photoblog
+  - "AI \U0001F916"
+  - "Culture \U0001F3DB️"
+  - "Music \U0001F3B6"
+  - culture
+  - fandom
+  - gunk
+  - pc music
+  - tracy durnell
   relme: {}
-  last_post_title: May 2025 | Photo 365
+  last_post_title: NoAI LoFi | Weeknotes
   last_post_description: |-
-    Photo-a-day for the month of May 2025.
-    The post May 2025 | Photo 365 appeared first on thejaymo.
-  last_post_date: "2025-06-10T09:07:42Z"
-  last_post_link: https://thejaymo.net/2025/06/10/may-2025-photo-365/
+    YouTubers are performing as Lofi animations in real life, becoming the human equivalent of Netflix's cosy fireplace video.
+    The post NoAI LoFi | Weeknotes appeared first on thejaymo.
+  last_post_date: "2025-09-14T19:52:11Z"
+  last_post_link: https://thejaymo.net/2025/09/14/407-noai-lofi/
   last_post_categories:
-  - "2025"
-  - "365"
-  - May
-  - "Photos \U0001F4F7"
-  - jay springett
-  - photo-a-day
-  - photo365
-  - photoblog
+  - "AI \U0001F916"
+  - "Culture \U0001F3DB️"
+  - "Music \U0001F3B6"
+  - culture
+  - fandom
+  - gunk
+  - pc music
+  - tracy durnell
   last_post_language: ""
-  last_post_guid: 93f43372b697456e5ef082f26a6b9170
+  last_post_guid: 721c0cddcca925f02dd35278a6b69c9b
   score_criteria:
     cats: 0
     description: 3

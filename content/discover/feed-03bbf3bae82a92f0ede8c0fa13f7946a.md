@@ -8,6 +8,7 @@ params:
   feedid: 03bbf3bae82a92f0ede8c0fa13f7946a
   websites:
     https://softwareliberopinerolo.org/: true
+    https://www.softwareliberopinerolo.org/: false
   blogrolls: []
   in_blogrolls:
   - title: ""

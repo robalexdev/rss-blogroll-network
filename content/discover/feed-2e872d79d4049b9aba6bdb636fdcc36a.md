@@ -11,36 +11,31 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Around the Hudson Valley
-  - Articles
-  - Hudson Valley Business
-  - Hudson Valley News
-  - Hudson Valley Pets
-  - Ulster County
-  - Ulster County SPCA
+  - Country Music News
+  - Lainey Wilson
+  - Live Country Music
+  - Vince Gill
   relme: {}
-  last_post_title: This Helps Your Lost Pet Tell People Where They Live
-  last_post_description: It is National Microchip Month goes your pet have one Continue
-    reading…
-  last_post_date: "2025-06-12T03:57:14Z"
-  last_post_link: https://hudsonvalleycountry.com/pet-micro-chip-ulster-county-spca/
+  last_post_title: Lainey Wilson + Vince Gill’s Tearjerking Emmys Tribute Stops the
+    Show [WATCH]
+  last_post_description: Lainey and Vince brought the Emmys to a standstill with a
+    stirring duet honoring the lives lost in television this past year. Continue reading…
+  last_post_date: "2025-09-15T09:04:10Z"
+  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/lainey-wilson-vince-gill-2025-emmy-awards-in-memoriam-video/
   last_post_categories:
-  - Around the Hudson Valley
-  - Articles
-  - Hudson Valley Business
-  - Hudson Valley News
-  - Hudson Valley Pets
-  - Ulster County
-  - Ulster County SPCA
+  - Country Music News
+  - Lainey Wilson
+  - Live Country Music
+  - Vince Gill
   last_post_language: ""
-  last_post_guid: 44b4fa120e5645a1ff366d0cd0dd3e81
+  last_post_guid: c124768d6073d5a4c604192736eeaaef
   score_criteria:
     cats: 0
     description: 3

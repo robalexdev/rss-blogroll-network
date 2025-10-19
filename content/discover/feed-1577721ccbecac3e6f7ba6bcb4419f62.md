@@ -11,33 +11,32 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Case Study
-  - Conversion
-  - Interviews & Case Studies
-  - Marketing Strategy
-  - Online Marketing
+  - Inside Nelio
+  - Nelio A/B Testing
+  - Plugin Releases & Updates
+  - Plugins
   relme: {}
-  last_post_title: Guardian Recovery and Nelio A/B Testing – A Case Study
-  last_post_description: |-
-    Discover how Guardian Recovery increased Conversion resulting a stronger return in their advertising investment with Nelio A/B Testing.
-    The post Guardian Recovery and Nelio A/B Testing – A Case
-  last_post_date: "2025-05-22T15:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/guardian-recovery-and-nelio-ab-testing-a-case-study/
+  last_post_title: Nelio A/B Testing 8.1 – Improved Inline Tests and New Conversion
+    Actions
+  last_post_description: Nelio A/B Testing 8.1 is here! This update introduces CSS
+    and Text Tests for quick, on-the-fly tweaks without page redirects, plus new conversion
+    actions to track user engagement and form submissions
+  last_post_date: "2025-09-11T15:11:00Z"
+  last_post_link: https://neliosoftware.com/blog/nelio-ab-testing-8-1-improved-inline-tests-and-new-conversion-actions/
   last_post_categories:
-  - Case Study
-  - Conversion
-  - Interviews & Case Studies
-  - Marketing Strategy
-  - Online Marketing
+  - Inside Nelio
+  - Nelio A/B Testing
+  - Plugin Releases & Updates
+  - Plugins
   last_post_language: ""
-  last_post_guid: b4b7a6ba9da9a96795a58543e0a3cb06
+  last_post_guid: b7277ccf42e1b12a2e77e7870e4184ac
   score_criteria:
     cats: 0
     description: 3

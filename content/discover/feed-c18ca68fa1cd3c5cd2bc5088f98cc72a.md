@@ -17,7 +17,9 @@ params:
   recommender: []
   categories: []
   relme:
+    https://cestlaz.github.io/: true
     https://cestlaz.zamansky.net/: true
+    https://github.com/zamansky: true
   last_post_title: CS Ed Podcast, connecting with students, and a little AI
   last_post_description: |-
     I listened to the latest episode of Kristen Stephen-Martinez's CS Ed

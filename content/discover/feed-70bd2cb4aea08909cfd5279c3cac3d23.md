@@ -19,8 +19,11 @@ params:
     id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed

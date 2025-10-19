@@ -17,6 +17,8 @@ params:
     id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - "3.5"
@@ -218,28 +220,32 @@ params:
   - yoon-suin
   - zombies
   relme: {}
-  last_post_title: On the Inspirational Power of Mercurial Place Names
-  last_post_description: Because I am a very busy, dedicated and hardworking employee
-    and involved family man, I spend a lot of time dicking around on wikipedia, looking
-    at articles about things like the geological features
-  last_post_date: "2024-08-29T21:44:00Z"
-  last_post_link: http://monstersandmanuals.blogspot.com/2024/08/on-inspirational-power-of-mercurial.html
+  last_post_title: The 'I Want' PC
+  last_post_description: 'Readers who do not live in the dank earth beneath rocks
+    with only woodlice and earthworms for company will no doubt have heard of something
+    called K-Pop Demon Hunters. If you haven''t heard of it: now'
+  last_post_date: "2025-08-12T14:46:00Z"
+  last_post_link: http://monstersandmanuals.blogspot.com/2025/08/the-i-want-pc.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c966387e1aa3500e53029b2700111f3e
+  last_post_guid: 50338f195ae014684f54d495ef3a8cc8
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
+  postcount: 25
+  avgpostlen: 0
 ---

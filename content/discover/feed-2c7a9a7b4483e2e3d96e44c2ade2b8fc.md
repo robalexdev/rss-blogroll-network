@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 2c7a9a7b4483e2e3d96e44c2ade2b8fc
   websites:
+    https://michaelnielsen.org/blog: true
     https://michaelnielsen.org/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -42,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 14
+    website: 2
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

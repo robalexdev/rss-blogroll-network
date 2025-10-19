@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 88abfe601c7dea0405166a4c8c9dbfa3
   websites:
+    https://manton.org/: false
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml

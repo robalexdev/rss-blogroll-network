@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 915af6ca9fa8a492a430cd0999de8cdb
   websites:
+    https://albertomilone.com/blog: true
     https://albertomilone.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -47,8 +48,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

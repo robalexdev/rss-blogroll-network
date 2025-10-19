@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2025-06-11T11:19:00Z"
+date: "2025-09-02T10:17:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Avoiding generative models is the rational and responsible thing
-    to do – follow-up to “Trusting your own judgement on ‘AI...’”
+  last_post_title: The melancholy of history rhyming
   last_post_description: ""
-  last_post_date: "2025-06-11T11:19:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/
+  last_post_date: "2025-09-02T10:17:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2025/the-melancholy-of-history-rhyming/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4107fe3b488a8fcb03d24eb8bc096f80
+  last_post_guid: 14ae8f5f5a6ce66913eb0bd7e6192e14
   score_criteria:
     cats: 0
     description: 3
@@ -43,5 +42,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 294
 ---

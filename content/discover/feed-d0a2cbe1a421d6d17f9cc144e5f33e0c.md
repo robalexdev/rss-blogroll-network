@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: d0a2cbe1a421d6d17f9cc144e5f33e0c
   websites:
+    https://gnu.wildebeest.org/blog/mjw: true
     https://gnu.wildebeest.org/blog/mjw/: false
   blogrolls: []
   in_blogrolls:
@@ -17,7 +18,10 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  relme: {}
+  relme:
+    https://code.wildebeest.org/: true
+    https://gnu.wildebeest.org/blog/mjw: true
+    https://mastodon.nl/@mjw: true
   last_post_title: classpath.org domain is back!
   last_post_description: The classpath.org domain expired a couple of days ago and
     none of the subdomain, like planet, devel, icedtea resolved. Oops. It has been
@@ -37,10 +41,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

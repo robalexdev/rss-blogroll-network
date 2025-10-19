@@ -20,17 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 佛教传入之前的中国哲学两大源头
+  last_post_title: 【推荐】音乐电影《村庄·音乐》：人类文明“地质学”的分层积累
   last_post_description: !!binary |
-    5a+55LqO5Lit5Zu95p2l6K+077yM5Zyo5L2b5pWZ77yI5Y+K5YW25pC65bim55qE5Y2w5b
-    qm5ZOy5a2m77yJ5Lyg5YWl5Lit5Zu95LmL5YmN77yM5Lit5Zu95ZOy5a2m55qE5Li76KaB
-    5YaF5a655pyJ6YGT5a6244CB5ZCN5a6244CB6Zi06Ziz5a6244CCCuS9huS4reWbveeahO
-    WTsuWtpuWPr+S7pei/vea6r+WIsOabtOS5he+8jOS4u+imgeWGheWuueY=
-  last_post_date: "2025-04-13T00:00:00Z"
-  last_post_link: https://changshiban.com/two-sources-of-chinese-philosophy/
+    5pio5aSp55yL5LqG5YyX5Lqs55S15b2x6IqC5bGV5pig5b2x54mH44CK5p2R5bqEwrfpn7
+    PkuZDjgIvvvIzkuIDpg6jlhbPkuo7kvKDnu5/pn7PkuZDnmoTliafmg4XniYfvvIzlpKfm
+    poI5MOWIhumSn+W3puWPs+OAggoK5b2x54mH5piv6buR55m96Imy55qE44CC5LiA5byA5a
+    S077yM5bCx6K6p5oiR5oOz6LW35LqG5byg5aSn56OK44CK5YWr5pyI44A=
+  last_post_date: "2025-04-20T00:00:00+08:00"
+  last_post_link: https://changshiban.com/recommended-the-film-village-music/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80d64fc74d574312912880ebafa5e0d2
+  last_post_guid: b16c9a167972e896c7c7a3844ebe2265
   score_criteria:
     cats: 0
     description: 3

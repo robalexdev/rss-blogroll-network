@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 7c57874819a3b666310d14cda337b41d
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
@@ -26,12 +29,20 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://benji.dog/feed.xml
+  - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
   - https://ttntm.me/blog/feed.xml
   - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
+  - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
   last_post_title: 'Goal: make one comic this year'

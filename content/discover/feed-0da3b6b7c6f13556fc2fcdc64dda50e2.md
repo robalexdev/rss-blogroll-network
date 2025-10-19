@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
+    https://www.nathalielawhead.com/candybox: true
     https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   in_blogrolls:
@@ -22,7 +23,8 @@ params:
   categories:
   - Games
   - talks
-  relme: {}
+  relme:
+    https://www.nathalielawhead.com/candybox: true
   last_post_title: 'A crash course introduction into experimental indie games: Arthouse
     Games as a force for good & the activism of video games'
   last_post_description: |-
@@ -45,10 +47,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

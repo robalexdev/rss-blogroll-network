@@ -16,18 +16,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hardware
+  - Desktops
   relme: {}
-  last_post_title: What if your laptop had a FOSS firmware?
-  last_post_description: Statistically, your computer's firmware is proprietary. However,
-    Libreboot is an interesting, if niche, option to boostrap a computer with free
-    and libre code only.
-  last_post_date: "2025-07-15T10:16:25Z"
-  last_post_link: https://thelibre.news/what-if-your-laptop-had-a-foss-firmware/
+  last_post_title: 'The Golden Rule of Switching to Linux: Restructure Your Life'
+  last_post_description: Ditching Windows for good. That's the goal, at least -- and
+    we'll get there.
+  last_post_date: "2025-09-23T07:32:54Z"
+  last_post_link: https://thelibre.news/the-golden-rule-of-switching-to-linux-restructure-your-life/
   last_post_categories:
-  - Hardware
+  - Desktops
   last_post_language: ""
-  last_post_guid: a48fa51bce34d71683d810e643160e5f
+  last_post_guid: b40c7cb4438a20aed309179a3f2839a5
   score_criteria:
     cats: 0
     description: 3

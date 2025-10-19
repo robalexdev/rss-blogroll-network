@@ -8,6 +8,7 @@ params:
   feedid: f8e9aecd595c288dadf6dc75808c152e
   websites:
     https://wiwi.blog/: false
+    https://wiwi.blog/blog: true
     https://wiwi.blog/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -36,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

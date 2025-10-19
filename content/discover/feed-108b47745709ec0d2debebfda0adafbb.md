@@ -1,6 +1,6 @@
 ---
 title: LugMan TNG  - Ultime modifiche [it]
-date: "2025-02-24T01:33:11Z"
+date: "2025-09-15T08:06:57Z"
 description: Questo feed riporta le modifiche piÃ¹ recenti ai contenuti del sito.
 params:
   feedlink: https://lugman.org/index.php?feed=atom&title=Speciale%3AUltimeModifiche
@@ -18,32 +18,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ICParazzi
-  last_post_description: "← Versione meno recente\n\t\t\t\tVersione delle 14:51, 19
-    feb 2025\n\t\t\t\tRiga 34:\nRiga 34:\n == MATERIALE DEL CORSO == == MATERIALE
-    DEL CORSO ==\n * [https://nextcloud.lugman.org/s/SJrGJL62eoxP7Fk"
-  last_post_date: "2025-02-19T14:51:44Z"
-  last_post_link: https://lugman.org/index.php?title=ICParazzi&diff=3399&oldid=3395
+  last_post_title: Linux day 2025
+  last_post_description: Mostra modifiche
+  last_post_date: "2025-09-09T20:21:51Z"
+  last_post_link: https://lugman.org/index.php?title=Linux_day_2025&diff=3544&oldid=3540
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 500dfe78dcf188fbcaa947fbd225e858
+  last_post_guid: a80900c5cd6327263369d6149261668d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
-  postcount: 0
+  postcount: 3
   avgpostlen: 0
 ---

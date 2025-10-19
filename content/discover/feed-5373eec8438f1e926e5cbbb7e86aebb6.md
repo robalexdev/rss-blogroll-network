@@ -1,8 +1,8 @@
 ---
 title: The Overlook
 date: "1970-01-01T00:00:00Z"
-description: Your Voice in the Catskills. Community journalism serving Hunter, Hurley,
-  Saugerties, Shandaken, Tannersville, and Woodstock.
+description: Your Voice in the Catskills. Community journalism serving Woodstock,
+  Olive, Shandaken, Saugerties, Hunter, and Hurley
 params:
   feedlink: https://theoverlooknews.com/feed
   feedtype: rss
@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,20 +20,20 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - News
-  - Woodstock
+  - Shandaken
   relme: {}
-  last_post_title: Maverick Concerts Loses Federal Grant, Moves Forward With Community-Focused
-    Season
-  last_post_description: Maverick Concerts, host to the nation’s longest-running summer
-    chamber music festival, is seeking local donors and staging a free open house
-    this weekend after losing a key grant from the National
-  last_post_date: "2025-06-06T04:25:43Z"
-  last_post_link: https://theoverlooknews.com/maverick-concerts-loses-federal-grant-moves-forward-with-community-focused-season/
+  last_post_title: Shandaken Residents Push Back on Verizon’s Plan for Phoenicia Cell
+    Tower
+  last_post_description: Emotions ran high at two meetings this week in Shandaken
+    as officials considered a Verizon proposal to construct a cell tower in the hamlet
+    of Phoenicia. Close to 200 residents, public officials and
+  last_post_date: "2025-09-12T04:54:21Z"
+  last_post_link: https://theoverlooknews.com/shandaken-residents-push-back-on-verizons-plan-for-phoenicia-cell-tower/
   last_post_categories:
   - News
-  - Woodstock
+  - Shandaken
   last_post_language: ""
-  last_post_guid: b91614aab62d44608295d152b2a8c8b3
+  last_post_guid: ae815db7097815506a66e4f04749d894
   score_criteria:
     cats: 0
     description: 3

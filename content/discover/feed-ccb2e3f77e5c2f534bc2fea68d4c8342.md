@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: ccb2e3f77e5c2f534bc2fea68d4c8342
   websites:
-    https://lottia.net/notes/: false
+    https://lottia.net/notes/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,7 +16,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://lottia.net/notes/: true
   last_post_title: Fortune habits in Nix
   last_post_description: ""
   last_post_date: "2025-07-26T05:10:00Z"
@@ -33,14 +34,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 16
-  avgpostlen: 285
+  postcount: 17
+  avgpostlen: 286
 ---

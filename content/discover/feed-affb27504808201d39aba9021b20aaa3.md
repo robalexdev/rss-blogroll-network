@@ -36,6 +36,10 @@ params:
   - https://www.vzqk50.com/index.xml
   - https://blog.trailofbits.com/index.xml
   - https://cool-as-heck.blog/feed.xml
+  - https://www.coryd.dev/feeds/books.xml
+  - https://www.coryd.dev/feeds/links.xml
+  - https://www.coryd.dev/feeds/movies.xml
+  - https://www.coryd.dev/feeds/posts.xml
   - https://flamedfury.com/bookmarks-feed.xml
   - https://flamedfury.com/feed.xml
   - https://flamedfury.com/feeds/bookmarks/atom.xml
@@ -58,6 +62,14 @@ params:
   - https://localghost.dev/recipes.xml
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
+  - https://rys.io/es/feed.atom
+  - https://rys.io/es/feed.rss
+  - https://rys.io/feed.atom
+  - https://rys.io/feed.rss
+  - https://rys.io/pl/feed.atom
+  - https://rys.io/pl/feed.rss
+  - https://shkspr.mobi/blog/feed
+  - https://shkspr.mobi/blog/feed/atom
   - https://wedistribute.org/comments/feed/
   - https://wedistribute.org/feed/podcast
   - https://wedistribute.org/web-stories/feed/

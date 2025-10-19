@@ -1,7 +1,7 @@
 ---
-title: 硕鼠的博客站
+title: 老范讲故事的博客站
 date: "1970-01-01T00:00:00Z"
-description: 范路的博客主站，时而会发些东西。
+description: 老范的博客主站，时而会发些东西。
 params:
   feedlink: https://lukefan.com/?feed=rss2
   feedtype: rss
@@ -18,148 +18,81 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 28亿美金
-  - AI版权
-  - AI语音
-  - AI音频
-  - IPO
-  - M&A
-  - SMG
-  - TME
-  - 上市
-  - 上市失败
-  - 上海文广
-  - 业务重组
-  - 业绩对赌
-  - 互联网商业故事
-  - 交易对价
-  - 估值
-  - 债务重组
-  - 内容变现
-  - 内容平台
-  - 反垄断
-  - 员工期权
-  - 商业分析
-  - 商业并购
-  - 商业故事
-  - 喜马拉雅
-  - 在线音频
-  - 垄断审查
-  - 字节跳动
-  - 市场竞争
-  - 并购
-  - 懒人听书
-  - 战略协同
-  - 投资并购
-  - 播客
-  - 收购
-  - 数字内容
-  - 智能硬件
-  - 有声书
-  - 案例分析
-  - 流血并购
-  - 深度解读
-  - 港交所
-  - 版权标准
-  - 独家版权
-  - 独立运营
-  - 现金收购
-  - 科技评论
-  - 竞争对手
-  - 纳斯达克
-  - 网易云音乐
-  - 老潘讲故事
-  - 股东
-  - 股权激励
-  - 股票增发
-  - 腾讯生态
-  - 腾讯音乐
-  - 融资
-  - 行业格局
-  - 行业解读
-  - 财经评论
-  - 资产负债率
-  - 资本运作
-  - 车载音频
-  - 长音频
-  - 阅文集团
-  - 音频平台
-  - 音频版权
+  - AI data center
+  - AI算力中心
+  - Elon Musk
+  - LFP电池
+  - Mega Block
+  - Megapack 3
+  - Tesla Megapack
+  - Tesla故事
+  - XAI
+  - backup power
+  - battery energy storage system
+  - energy storage
+  - grid battery
+  - solar power
+  - utility-scale storage
+  - 上海超级工厂
+  - 储能电站
+  - 削峰填谷
+  - 华为储能
+  - 可再生能源
+  - 备用电源
+  - 宁德时代
+  - 新能源
+  - 比亚迪
+  - 特斯拉Megapack
+  - 特斯拉股价
+  - 特斯拉能源
+  - 电网储能
+  - 磷酸铁锂电池
+  - 阳光电源
+  - 马斯克
   relme: {}
-  last_post_title: 腾讯音乐28亿美金鲸吞喜马拉雅：是垂死巨头的绝地求生，还是音频帝国版图扩张，深挖背后资本运作与行业洗牌的惊心动魄。
-  last_post_description: 家人们！听到这个消息我整个人都炸了啊啊啊啊！腾讯音乐直接豪掷28亿美金，把喜马拉雅给收了！这简直是音频圈的世纪大戏！我不允许有人不知道这
-  last_post_date: "2025-06-12T00:39:13Z"
-  last_post_link: https://lukefan.com/2025/06/12/%e8%85%be%e8%ae%af%e9%9f%b3%e4%b9%9028%e4%ba%bf%e7%be%8e%e9%87%91%e9%b2%b8%e5%90%9e%e5%96%9c%e9%a9%ac%e6%8b%89%e9%9b%85%ef%bc%9a%e6%98%af%e5%9e%82%e6%ad%bb%e5%b7%a8%e5%a4%b4%e7%9a%84%e7%bb%9d%e5%9c%b0/
+  last_post_title: 被严重低估的现金牛！特斯拉10%收入竟非来自汽车，而是这个巨型充电宝在闷声发大财｜Tesla Megapack、energy
+    storage、AI data center、grid battery
+  last_post_description: !!binary |
+    8J+UpeWNp+anve+8geeJueaWr+aLiTEwJeaUtuWFpeern+mdoOi/meS4quKAnOW3qOWei+
+    WFheeUteWuneKAne+8n++8geS4jeaYr+aJi+acuueUqOeahO+8jOaYr+iDveWtmDUwMDDl
+    uqbnlLXnmoTpm4boo4XnrrHimqHvvIHph40zOeWQqO+8jOaLluWIsOWcsOS4gOaUvuWwse
+    WPkeeUte+8jOi/nue6v+eugOWNleWIsOW5vOWEv+WbreawtOW5s+KAlOI=
+  last_post_date: "2025-09-15T00:46:34Z"
+  last_post_link: https://lukefan.com/2025/09/15/tesla-megapack-ai-data-center-energy-storage/
   last_post_categories:
-  - 28亿美金
-  - AI版权
-  - AI语音
-  - AI音频
-  - IPO
-  - M&A
-  - SMG
-  - TME
-  - 上市
-  - 上市失败
-  - 上海文广
-  - 业务重组
-  - 业绩对赌
-  - 互联网商业故事
-  - 交易对价
-  - 估值
-  - 债务重组
-  - 内容变现
-  - 内容平台
-  - 反垄断
-  - 员工期权
-  - 商业分析
-  - 商业并购
-  - 商业故事
-  - 喜马拉雅
-  - 在线音频
-  - 垄断审查
-  - 字节跳动
-  - 市场竞争
-  - 并购
-  - 懒人听书
-  - 战略协同
-  - 投资并购
-  - 播客
-  - 收购
-  - 数字内容
-  - 智能硬件
-  - 有声书
-  - 案例分析
-  - 流血并购
-  - 深度解读
-  - 港交所
-  - 版权标准
-  - 独家版权
-  - 独立运营
-  - 现金收购
-  - 科技评论
-  - 竞争对手
-  - 纳斯达克
-  - 网易云音乐
-  - 老潘讲故事
-  - 股东
-  - 股权激励
-  - 股票增发
-  - 腾讯生态
-  - 腾讯音乐
-  - 融资
-  - 行业格局
-  - 行业解读
-  - 财经评论
-  - 资产负债率
-  - 资本运作
-  - 车载音频
-  - 长音频
-  - 阅文集团
-  - 音频平台
-  - 音频版权
+  - AI data center
+  - AI算力中心
+  - Elon Musk
+  - LFP电池
+  - Mega Block
+  - Megapack 3
+  - Tesla Megapack
+  - Tesla故事
+  - XAI
+  - backup power
+  - battery energy storage system
+  - energy storage
+  - grid battery
+  - solar power
+  - utility-scale storage
+  - 上海超级工厂
+  - 储能电站
+  - 削峰填谷
+  - 华为储能
+  - 可再生能源
+  - 备用电源
+  - 宁德时代
+  - 新能源
+  - 比亚迪
+  - 特斯拉Megapack
+  - 特斯拉股价
+  - 特斯拉能源
+  - 电网储能
+  - 磷酸铁锂电池
+  - 阳光电源
+  - 马斯克
   last_post_language: ""
-  last_post_guid: a86c77a78f088fe8d4f000b5c02fae04
+  last_post_guid: 80af8df295b00b06d0028732fd2df81c
   score_criteria:
     cats: 0
     description: 3

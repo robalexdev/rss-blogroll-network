@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
+    https://kevq.uk/: false
     https://kevquirk.com/: true
     https://kevquirk.com/watch-log: false
   blogrolls:
@@ -51,10 +52,12 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories:
   - '#Obsidian,'
   relme:

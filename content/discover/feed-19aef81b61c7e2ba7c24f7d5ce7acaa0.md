@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2025-06-11T12:53:24+02:00"
+date: "2025-09-15T09:31:51+02:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -18,17 +18,17 @@ params:
   - OSGeo
   - Software
   relme: {}
-  last_post_title: Verarbeiten einer PointCloud (mit CloudCompare)
-  last_post_description: Wie funktioniert die Installation von CloudCompare und seine
-    Verwendung für eine PointCoud – wir zeigen Ihnen step by step, wie’s fehlerfrei
-    funktioniert.
-  last_post_date: "2025-06-02T10:00:00+02:00"
-  last_post_link: https://wheregroup.com/blog/verarbeiten-einer-pointcloud-mit-cloudcompare/
+  last_post_title: Integration moderner 3D-Technologien in Web-Karten – mit MapComponents
+  last_post_description: 3D-Ansichten liegen im Trend. Auch unser Baukastensystem
+    MapComponents bietet verschiedene Tools, um 3D-Ansichten mühelos in eine GIS-Anwendung
+    einzubauen. Unser Kollege Martin Alzueta stellt sie
+  last_post_date: "2025-08-01T10:00:00+02:00"
+  last_post_link: https://wheregroup.com/blog/integration-moderner-3d-technologien-in-web-karten-mit-mapcomponents/
   last_post_categories:
   - OSGeo
   - Software
   last_post_language: ""
-  last_post_guid: 5e2e23975d4d828fde54fe3fc4699ddf
+  last_post_guid: fb4929cdd5e18707c31ad31e8ae9247d
   score_criteria:
     cats: 0
     description: 0
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 54
+  postcount: 59
   avgpostlen: 0
 ---

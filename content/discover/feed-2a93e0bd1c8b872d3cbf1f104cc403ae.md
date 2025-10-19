@@ -32,16 +32,15 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: What we learned reviewing one of the first DKLs23 libraries from
-    Silence Laboratories
-  last_post_description: In October 2023, we audited Silence Laboratories’ DKLs23
-    threshold signature scheme (TSS) library—one of the first production implementations
-    of this then-novel protocol that uses oblivious
-  last_post_date: "2025-06-10T07:00:00-04:00"
-  last_post_link: https://blog.trailofbits.com/2025/06/10/what-we-learned-reviewing-one-of-the-first-dkls23-libraries-from-silence-laboratories/
+  last_post_title: How Sui Move rethinks flash loan security
+  last_post_description: Sui’s Move language significantly improves flash loan security
+    by replacing Solidity’s reliance on callbacks and runtime checks with a “hot potato”
+    model that enforces repayment at the
+  last_post_date: "2025-09-10T07:00:00-04:00"
+  last_post_link: https://blog.trailofbits.com/2025/09/10/how-sui-move-rethinks-flash-loan-security/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a44022490897b186092a84275647ca7
+  last_post_guid: 3e87b72d0b2cb43b5c23f90e6a1f255e
   score_criteria:
     cats: 0
     description: 3
@@ -59,6 +58,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 441
+  postcount: 473
   avgpostlen: 0
 ---

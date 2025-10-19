@@ -1,7 +1,11 @@
 ---
-title: Home on 向阳而生
+title: |-
+  Home on
+  仲平
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Home on 向阳而生
+description: |-
+  Recent
+  content in Home on 仲平
 params:
   feedlink: https://blog.7wate.com/rss.xml
   feedtype: rss
@@ -26,10 +30,10 @@ params:
     55+l6YGT5Yeg5aSp5YmN55qE6JSs6I+c77yM6L+Y5pyJ5Zub5aSE5pWj6JC9552A55qE5Y
     mp6aWt44CC5pW05Liq5Lq6556s6Ze06YO95LiN5aW95LqG77yM6ICB5aY=
   last_post_date: "2024-06-27T00:00:00Z"
-  last_post_link: https://blog.7wate.com/%E5%86%B0%E7%AE%B1%E8%AE%A9%E4%BD%A0%E6%88%91%E9%94%99%E8%BF%87%E4%BA%86%E5%A4%9A%E5%B0%91%E6%96%B0%E9%B2%9C%E7%9A%84%E7%94%9F%E6%B4%BB/
+  last_post_link: https://zopiya.com/%E5%86%B0%E7%AE%B1%E8%AE%A9%E4%BD%A0%E6%88%91%E9%94%99%E8%BF%87%E4%BA%86%E5%A4%9A%E5%B0%91%E6%96%B0%E9%B2%9C%E7%9A%84%E7%94%9F%E6%B4%BB/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5227746d5a23f07c0393c261bf1360a1
+  last_post_guid: dbaa09754784c5b1f3b452856c313c4c
   score_criteria:
     cats: 0
     description: 3

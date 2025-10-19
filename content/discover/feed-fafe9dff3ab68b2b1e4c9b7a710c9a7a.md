@@ -14,19 +14,21 @@ params:
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
-  recommender: []
+  recommender:
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Tennis, theology and a politburo of bullshit
+  last_post_title: Erupted in polite conversation
   last_post_description: |-
     hello,
-    Late again. I hang my head in shame.
-    Thank you to everyone who came to Interesting. I have just booked the Conway Hall for next year; 20th May 2026. World Bee Day. You heard it here first
-  last_post_date: "2025-06-08T18:00:00Z"
-  last_post_link: https://buttondown.com/russell/archive/tennis-theology-and-a-politburo-of-bullshit/
+    September. The best month.
+    I think, thanks to kind advice from Kim, that I’ve fixed the dark-mode formatting thing. It’s to do with stuff I’ve copied and pasted. I now have to go through
+  last_post_date: "2025-09-07T18:00:00Z"
+  last_post_link: https://buttondown.com/russell/archive/mouth-juice-of-vowels-copy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d40e2d4d7a9d6b9b3fc8de03dde2f4ee
+  last_post_guid: 3cc5bb0852adf14f6d8025836d937b29
   score_criteria:
     cats: 0
     description: 3

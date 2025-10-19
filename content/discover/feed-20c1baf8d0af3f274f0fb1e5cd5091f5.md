@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 20c1baf8d0af3f274f0fb1e5cd5091f5
   websites:
+    https://blogs.igalia.com/jkim: true
     https://blogs.igalia.com/jkim/: false
   blogrolls: []
   in_blogrolls:
@@ -45,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -12,6 +12,9 @@ params:
   - title: Articles by Aaron Parecki
     description: ""
     id: 04771e3320b44a0e37cc8de8ad3d8722
+  - title: Stan's blog
+    description: Recent content on Stan's blog
+    id: 06ec1ee4eb49931cbb87a87747e6f5e7
   - title: Brain Baking
     description: Freshly Baked Thoughts by Wouter Groeneveld
     id: 089c9db489cfeaf58be3a5376674b2c2
@@ -56,6 +59,9 @@ params:
   - title: Tim Hårek
     description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
+  - title: Luke’s Wild Website
+    description: Now with more mayonnaise!
+    id: 4685ae84966feff5e12e3b849531b6ea
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
@@ -68,6 +74,9 @@ params:
   - title: niqwithq
     description: A personal blog about design, travel and life a software user.
     id: 5cd3085a60f3bae159ce042035a1e3de
+  - title: Ben Borgers
+    description: Ben Borgers’ personal website.
+    id: 5d017cf3df4845836c01d3a419118726
   - title: Jon Worth
     description: Independent railway commentator
     id: 61a94025d87b544bb3104f1508c59c20

@@ -20,6 +20,11 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
+  - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/category/wwwd/feed/
+  - https://johnjohnston.info/blog/comments/feed/
+  - https://johnjohnston.info/blog/feed/
   categories: []
   relme:
     https://phire.place/@vasta: true

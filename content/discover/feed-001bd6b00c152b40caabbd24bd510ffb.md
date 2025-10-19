@@ -1,6 +1,6 @@
 ---
 title: Engineering blog | The Guardian
-date: "2025-06-12T05:39:32Z"
+date: "2025-09-15T10:28:14Z"
 description: A blog by the Guardian's internal engineering team. We build and run
   the Guardian website, mobile apps, editorial tools, revenue products, advertising,
   and data and identity platforms. This blog is
@@ -15,7 +15,9 @@ params:
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2
   recommended: []
-  recommender: []
+  recommender:
+  - https://philwilson.org/blog/feed
+  - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
   last_post_title: Cooking up recipe data for the Feast app

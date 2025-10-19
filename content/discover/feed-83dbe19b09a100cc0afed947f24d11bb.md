@@ -8,6 +8,7 @@ params:
   feedid: 83dbe19b09a100cc0afed947f24d11bb
   websites:
     https://molily.de/: true
+    https://molily.de/robust-javascript/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

@@ -176,6 +176,9 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
+  - https://www.buttersafe.com/feed/
+  - https://www.buttersafe.com/feed/atom/
+  - https://colinwalker.blog/dailyfeed.xml
   - https://degruchy.org/index.xml
   - https://diggingthedigital.com/comments/feed/
   - https://diggingthedigital.com/feed/
@@ -193,6 +196,10 @@ params:
   - https://jerz.us/atom/
   - https://jerz.us/feed/
   - https://jerz.us/rss/
+  - https://kevquirk.com/feed
+  - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/posts-feed
+  - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://mijndertstuij.nl/posts-feed.xml
@@ -214,11 +221,18 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
+  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rsdoiel.github.io/archive.xml
   - https://rsdoiel.github.io/index.xml
+  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
+  - https://shkspr.mobi/blog/feed
+  - https://shkspr.mobi/blog/feed/atom
+  - https://stantonharcourtschool.org.uk/comments/feed/
+  - https://stantonharcourtschool.org.uk/feed/
+  - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
@@ -226,43 +240,54 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
+  - https://lanzatu.blog/comments/feed/
+  - https://lanzatu.blog/feed/
+  - https://lanzatu.blog/feed/podcast
+  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
+  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
+  - https://www.schneier.com/comments/feed/
+  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
+  - https://z1nz0l1n.com/feed/
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - internet
-  - mobiles
-  - networking
-  - wifi
-  - work
+  - performance
+  - security
+  - web
+  - web development
   relme:
     https://dan-q.github.io/: true
+    https://danq.blog/: true
     https://danq.me/: true
+    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] Two Days Offline'
-  last_post_description: This week we lost Internet access for two whole days, and
-    it was pretty disruptive and annoying!
-  last_post_date: "2025-09-14T10:00:38+01:00"
-  last_post_link: https://danq.me/2025/09/14/two-days-offline/
+  last_post_title: '[Repost] It Is A War Out There – Take Control of Your Supply Lines
+    with HtDTY'
+  last_post_description: Andrew Stephens reminds us to HtDTY (Host the Damn Thing
+    Yourself) to reduce the risk of supply chain attacks and improve privacy. But
+    I think the argument goes further than this.
+  last_post_date: "2025-10-15T15:46:07+01:00"
+  last_post_link: https://danq.me/2025/10/15/it-is-a-war-out-there-take-control-of-your-supply-lines-with-htdty/
   last_post_categories:
   - Personal
-  - internet
-  - mobiles
-  - networking
-  - wifi
-  - work
+  - performance
+  - security
+  - web
+  - web development
   last_post_language: ""
-  last_post_guid: 6bcc7411206a5ed0188bdda45817865c
+  last_post_guid: 2daa0b757171d8ecd8eda9922345f97a
   score_criteria:
     cats: 0
     description: 3

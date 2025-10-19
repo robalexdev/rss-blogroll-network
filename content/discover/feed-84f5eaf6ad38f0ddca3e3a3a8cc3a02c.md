@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,14 +20,14 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Bernabeu
-  last_post_description: Madrid, May 2025.
-  last_post_date: "2025-06-11T18:22:19Z"
-  last_post_link: https://aows.co/blog/2025/6/11/bernabeu
+  last_post_title: Foggy Indiana, II
+  last_post_description: Indiana, August 2025.
+  last_post_date: "2025-09-05T19:00:00Z"
+  last_post_link: https://aows.co/blog/2025/9/5/foggy-indiana-ii
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: 9b5585f09394dd245f83dbb18a469440
+  last_post_guid: 0866e183694fb3c051a6bd5e314cf1ac
   score_criteria:
     cats: 0
     description: 3

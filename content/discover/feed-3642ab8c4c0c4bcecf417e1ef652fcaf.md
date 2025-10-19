@@ -24,7 +24,7 @@ params:
   last_post_description: This post explores implementing drag-and-drop onto existing
     items in Qt, such as moving emails between folders. It covers both Model/View
     and Item Widget approaches, detailing key setup steps and
-  last_post_date: "2025-04-03T08:43:22Z"
+  last_post_date: "2025-04-03T08:43:00Z"
   last_post_link: https://www.kdab.com/modelview-drag-and-drop-in-qt-part-3/
   last_post_categories:
   - c++

@@ -27,7 +27,6 @@ params:
   - https://chrisburnell.com/feed.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   - https://rknight.me/subscribe/posts/rss.xml
   - https://shellsharks.com/feeds/all-feed.xml
@@ -42,15 +41,15 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: Who writes the documentation?
+  last_post_title: A short list of tech security tips when traveling
   last_post_description: |-
-    If the future is AI writing code (or writing much of it) — who writes the documentation? Is it the developers reviewing the code?
-    If developers have to review code and write documentation based on
-  last_post_date: "2025-06-06T19:53:43Z"
-  last_post_link: https://www.coryd.dev/posts/2025/who-writes-the-documentation
+    Whenever I travel, I take a few basic security-related steps. I've left the US all of once, but I follow these steps whenever I travel anywhere.
+    If flying, power off all of your devices when going
+  last_post_date: "2025-09-04T20:19:00Z"
+  last_post_link: https://www.coryd.dev/posts/2025/a-short-list-of-tech-security-tips-when-traveling
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 516480a20111a41f9b4a47c6346e6237
+  last_post_guid: 84a771dbee1da539083f23efb336d647
   score_criteria:
     cats: 0
     description: 3

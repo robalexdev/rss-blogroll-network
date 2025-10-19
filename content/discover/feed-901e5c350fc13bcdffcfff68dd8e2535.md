@@ -19,38 +19,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - clojure
-  - computing
-  - core.async.flow
+  - 18xx
+  - games
   relme: {}
-  last_post_title: Arities as pseudo-protocol
-  last_post_description: Whereby I talk about an under-appreciated technique in Clojure
-    where function arities serve as a pseudo-protocol...
-  last_post_date: "2025-05-19T11:44:49Z"
-  last_post_link: https://blog.fogus.me/clojure/arities-as-proto/
+  last_post_title: '18XX: A System of Systems'
+  last_post_description: Whereby I talk about 18XX -- the fantastic family of economic
+    tabletop games...
+  last_post_date: "2025-09-04T08:44:49Z"
+  last_post_link: https://blog.fogus.me/games/18XX/intro.html
   last_post_categories:
-  - clojure
-  - computing
-  - core.async.flow
+  - 18xx
+  - games
   last_post_language: ""
-  last_post_guid: 03743dc87c56587000488d7b98078df5
+  last_post_guid: 3304173c2a690dba84b57e2ad430ad7b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 8
   avgpostlen: 0
 ---

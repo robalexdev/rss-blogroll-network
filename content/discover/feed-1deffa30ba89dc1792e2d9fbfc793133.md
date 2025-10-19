@@ -1,12 +1,13 @@
 ---
 title: Python in Science
-date: "2025-04-11T05:49:47-03:00"
+date: "2025-07-30T08:00:26-03:00"
 description: Scientific adventures with Python.
 params:
   feedlink: https://pyinsci.blogspot.com/feeds/posts/default
   feedtype: atom
   feedid: 1deffa30ba89dc1792e2d9fbfc793133
-  websites: {}
+  websites:
+    https://pyinsci.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planeta PythonBrasil
@@ -67,7 +68,12 @@ params:
   - python
   - science
   - simulations
-  relme: {}
+  relme:
+    https://computoergosum.blogspot.com/: true
+    https://emap-fgv.blogspot.com/: true
+    https://gripenetbrasil.blogspot.com/: true
+    https://pyinsci.blogspot.com/: true
+    https://www.blogger.com/profile/02885581033966597420: true
   last_post_title: Curso de introdução a criptomoedas - Aula 01
   last_post_description: For the Portuguese speaking readers of this blog, I am starting
     an Introductory course on Cryptocurrencies and applications on the blockchain
@@ -86,10 +92,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 19
+    website: 2
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

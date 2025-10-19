@@ -8,6 +8,7 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
+    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
@@ -18,6 +19,7 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Today my brain wanted to think about one of the first dates I ever

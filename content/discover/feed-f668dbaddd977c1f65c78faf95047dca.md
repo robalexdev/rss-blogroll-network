@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,33 +20,34 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Boston
+  - Crime & Justice
   - News
   relme: {}
-  last_post_title: Rep. Moulton says many Marine junior officers are opposed to LA
-    deployment
-  last_post_description: U.S. Rep. Seth Moulton joins WBUR's Morning Edition to share
-    his thoughts on the growing military presence in Los Angeles amid protests over
-    immigration arrests.
-  last_post_date: "2025-06-11T07:40:32-04:00"
-  last_post_link: https://www.wbur.org/news/2025/06/11/moutlon-marines-newsom-california-los-angeles-protests
+  last_post_title: After 17 years, DNA tied a man to her rape. Under Massachusetts
+    law, it was too late
+  last_post_description: Massachusetts has one of the shortest deadlines in the country
+    for prosecuting rape, even when DNA could help prove the case.
+  last_post_date: "2025-09-11T08:54:37-04:00"
+  last_post_link: https://www.wbur.org/news/2025/09/11/massachusetts-statute-of-limitations-dna-rape
   last_post_categories:
   - Boston
+  - Crime & Justice
   - News
   last_post_language: ""
-  last_post_guid: e1dafbe5d6ee06602bdd769b7454113d
+  last_post_guid: f87d176400b2720b99eb46d05daa3d41
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

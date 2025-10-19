@@ -12,27 +12,18 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Kev Quirk's Blogroll
+  - title: Colin Walker's readroll
     description: ""
-    id: af94d85e509bec272bc4314eb947a67d
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: d3c6398765901e01429e7ceffd5164f1
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
+  - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}

@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,14 +19,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: AI is making health care safer in the remote Amazon
-  last_post_description: At overburdened clinics, pharmacists use AI to catch dangerous
-    errors. It’s frontier tech meets frontier medicine — with global implications.
-  last_post_date: "2025-06-11T10:00:00Z"
-  last_post_link: https://restofworld.org/2025/brazil-amazon-ai-healthcare-prescriptions/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+  last_post_title: 'The myth of sovereign AI: Countries rely on U.S. and  Chinese  tech'
+  last_post_description: As countries pursue self-sufficiency in AI, they risk depending
+    on foreign companies, undermining their independence and their goals.
+  last_post_date: "2025-09-12T10:00:00Z"
+  last_post_link: https://restofworld.org/2025/chinese-us-tech-foreign-ai-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4a0df0b8e40abeb6472a31a81ffec77
+  last_post_guid: 80906880abef668c2570aeebd3597ec8
   score_criteria:
     cats: 0
     description: 3

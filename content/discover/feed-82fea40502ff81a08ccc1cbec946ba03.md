@@ -20,22 +20,24 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
+  - Ideas
+  - On Openness
   - On Sharing
-  - SPLOT
-  - Wordpress
+  - Random Musing
   relme: {}
-  last_post_title: The SPLOT Still Beating On, 2025 Version
-  last_post_description: SPLOTs. Who can’t get enough of them? Most of the internet,
-    I am sure. It’s been a while, aka five years, since I cued up Cher and Whats His
-    Name for that funky toe tapping beat. It’s been
-  last_post_date: "2025-06-09T07:49:52Z"
-  last_post_link: https://cogdogblog.com/2025/06/the-splot-still-beating-on-2025-version/
+  last_post_title: The Web That Was, Is
+  last_post_description: I both wince and smile when I see those proclamations about
+    the web [internet] being broken. I’d like to know the field data that is based
+    upon. To say this confidently, someone would have to
+  last_post_date: "2025-09-14T20:07:01Z"
+  last_post_link: https://cogdogblog.com/2025/09/web-that-was/
   last_post_categories:
+  - Ideas
+  - On Openness
   - On Sharing
-  - SPLOT
-  - Wordpress
+  - Random Musing
   last_post_language: ""
-  last_post_guid: 681f1fb4974c64386aefd818aa212349
+  last_post_guid: 13cca154eabc2da6136afa4e1d9c4310
   score_criteria:
     cats: 0
     description: 3

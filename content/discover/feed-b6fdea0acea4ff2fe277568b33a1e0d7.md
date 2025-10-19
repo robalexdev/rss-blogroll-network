@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 7c57874819a3b666310d14cda337b41d
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
@@ -16,7 +19,14 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender: []
+  recommender:
+  - https://benji.dog/feed.xml
+  - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
   last_post_title: Rethinking This Site

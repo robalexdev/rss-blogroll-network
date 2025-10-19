@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: The Last Supper
-  last_post_description: We’re with the writer Paul Elie, recalling the moment when
-    popular culture came to sound like public prayer. There was Madonna in 1989, singing
-    her number one hit “Like a Prayer.” The song is a
-  last_post_date: "2025-06-05T21:37:09Z"
-  last_post_link: https://radioopensource.org/the-last-supper/
+  last_post_title: Where Are the Intellectuals?
+  last_post_description: 'We’re with the cultural historian Robin D.G. Kelly at UCLA,
+    who has the nerve to ask: where have our thinkers gone in Trump time? Not the
+    experts or the influencers, but the grander minds who ...'
+  last_post_date: "2025-09-11T23:46:30Z"
+  last_post_link: https://radioopensource.org/where-are-the-intellectuals/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 57159afabdd9d2aac202b7f78291fa82
+  last_post_guid: 5f9813cca0683b038e102b0416ce911f
   score_criteria:
     cats: 1
     description: 3

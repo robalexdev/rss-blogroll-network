@@ -18,6 +18,7 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
   categories:
   - academia
   - anarchy

@@ -27,6 +27,7 @@ params:
   - https://danq.me/kind/note/feed/
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Some running top tips

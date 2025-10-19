@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: adb3a250f1f5f62b9540b72eefad6c55
   websites:
+    https://osguider.com/: false
     https://osguider.com/blog/: true
   blogrolls: []
   in_blogrolls:

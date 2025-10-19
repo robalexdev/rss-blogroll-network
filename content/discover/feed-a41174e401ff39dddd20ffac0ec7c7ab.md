@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,41 +19,30 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - blake lively
-  - defamation
-  - justin baldoni
-  - ny times
-  - ryan reynolds
   relme: {}
-  last_post_title: Justin Baldoni’s Defamation Suit Against Lively, Reynolds, NY Times
-    Has Been Dismissed
-  last_post_description: While the Justin Baldoni legal fight with Blake Lively is
-    still going on, one half of the dispute has been thrown in the dumpster… for now.
-    If you’re not up on the case, here is the TL;DR version
-  last_post_date: "2025-06-12T03:18:20Z"
-  last_post_link: https://www.techdirt.com/2025/06/11/justin-baldonis-defamation-suit-against-lively-reynolds-ny-times-has-been-dismissed/
+  last_post_title: Funniest/Most Insightful Comments Of The Week At Techdirt
+  last_post_description: 'This week, we’ve got a double-win on the insightful side
+    for MrWilson. In first place, it’s a comment about walling off the open internet
+    to stop AI: The thing is, everyone is a victim, not just'
+  last_post_date: "2025-09-14T19:00:00Z"
+  last_post_link: https://www.techdirt.com/2025/09/14/funniest-most-insightful-comments-of-the-week-at-techdirt-176/
   last_post_categories:
   - "1"
-  - blake lively
-  - defamation
-  - justin baldoni
-  - ny times
-  - ryan reynolds
   last_post_language: ""
-  last_post_guid: 2c51c0de247407bc156a594d03e09b73
+  last_post_guid: 3c7e5a86812133e72047470c4f9471ea
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

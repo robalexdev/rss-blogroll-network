@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: a132d694cbbd858abc6725b011abe0ac
   websites:
+    https://blogs.igalia.com/apuentes: true
     https://blogs.igalia.com/apuentes/: false
   blogrolls: []
   in_blogrolls:
@@ -43,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 14
+    website: 2
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

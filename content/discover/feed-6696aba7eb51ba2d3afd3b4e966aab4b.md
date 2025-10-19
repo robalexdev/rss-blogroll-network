@@ -1,6 +1,6 @@
 ---
 title: Information Technology and Libraries
-date: "2025-03-17T11:54:31-07:00"
+date: "2025-06-16T06:03:22-07:00"
 description: Information Technology and Libraries publishes material related to all
   aspects of information technology in all types of libraries. For consideration,
   articles must be related to both technology AND
@@ -18,15 +18,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Intergenerationally Accessible Makerspaces
-  last_post_description: When envisioning a high-tech makerspace, you might first
-    think about younger customers; however, since opening in December 2021, Carroll
-    County Public Library’s Exploration Commons at 50 East has
-  last_post_date: "2025-03-17T00:00:00-07:00"
-  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17385
+  last_post_title: Leveraging Innovative Technologies for Improved Library Practices
+    in the Digital Era
+  last_post_description: Lack of expertise, among other reasons, has been cited as
+    the reason for Nigerian libraries’ sluggish adoption and application of innovative
+    technology. To solve this problem, a thorough analysis
+  last_post_date: "2025-06-16T00:00:00-07:00"
+  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/16767
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: edb3e720fb9bbc68a4e92bf721a65391
+  last_post_guid: c410c7cf31a6fb9c452e11b7b66ad737
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 10
   avgpostlen: 0
 ---

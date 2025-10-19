@@ -1,6 +1,6 @@
 ---
 title: Andy Bell
-date: "2025-05-26T10:29:50Z"
+date: "2025-08-26T14:00:17Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: This generous donation fills me with positivity and hope
+  last_post_title: I tell you what I want, what I really, really want
   last_post_description: ""
-  last_post_date: "2025-05-26T10:29:50Z"
-  last_post_link: https://bell.bz/this-generous-donation-fills-me-with-positivity-and-hope
+  last_post_date: "2025-08-26T14:00:17Z"
+  last_post_link: https://bell.bz/i-tell-you-what-i-want-what-i-really-really-want
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 672f189eb263b8231b7e567d64649e5b
+  last_post_guid: c240a299779b423fc028f8ce1bc6f654
   score_criteria:
     cats: 0
     description: 0

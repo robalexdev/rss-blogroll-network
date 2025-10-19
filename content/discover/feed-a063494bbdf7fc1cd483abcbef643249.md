@@ -6,8 +6,7 @@ params:
   feedlink: https://paulefou.com/blog/rss
   feedtype: rss
   feedid: a063494bbdf7fc1cd483abcbef643249
-  websites:
-    https://paulefou.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -37,12 +36,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 6
   avgpostlen: 0
 ---

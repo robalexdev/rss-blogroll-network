@@ -27,6 +27,7 @@ params:
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   - https://takeonrules.com/index.xml

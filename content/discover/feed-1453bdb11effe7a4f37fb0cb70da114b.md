@@ -1,6 +1,6 @@
 ---
 title: Adam is making things
-date: "2025-09-10T21:40:46Z"
+date: "2025-10-15T10:04:23Z"
 description: This is my house. I made these things.
 params:
   feedlink: https://mycabinetofcuriosities.com/feed/feed.xml
@@ -8,6 +8,7 @@ params:
   feedid: 1453bdb11effe7a4f37fb0cb70da114b
   websites:
     https://mycabinetofcuriosities.com/: false
+    https://www.mycabinetofcuriosities.com/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -20,11 +21,11 @@ params:
   relme: {}
   last_post_title: Update
   last_post_description: ""
-  last_post_date: "2025-09-10T21:32:00Z"
-  last_post_link: https://www.mycabinetofcuriosities.com/notes/1757539931/
+  last_post_date: "2025-10-15T10:02:00Z"
+  last_post_link: https://www.mycabinetofcuriosities.com/notes/1760522543/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1aae12cefbca34be6f42ab8440319ef6
+  last_post_guid: 991961ecc972cc210152c61634a7d302
   score_criteria:
     cats: 0
     description: 3

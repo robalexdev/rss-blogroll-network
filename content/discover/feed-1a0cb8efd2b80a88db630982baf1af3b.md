@@ -10,21 +10,38 @@ params:
   feedid: 1a0cb8efd2b80a88db630982baf1af3b
   websites:
     https://reillyspitzfaden.com/: false
+    https://reillyspitzfaden.com/blog: true
     https://reillyspitzfaden.com/blog/: false
+    https://reillyspitzfaden.com/code: false
     https://reillyspitzfaden.com/code/: false
+    https://reillyspitzfaden.com/feeds: false
     https://reillyspitzfaden.com/feeds/: false
     https://reillyspitzfaden.com/interactions/: false
+    https://reillyspitzfaden.com/media: false
     https://reillyspitzfaden.com/media/: false
+    https://reillyspitzfaden.com/notes: false
     https://reillyspitzfaden.com/notes/: false
-  blogrolls: []
+  blogrolls:
+  - https://reillyspitzfaden.com/blogroll.opml
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 7c57874819a3b666310d14cda337b41d
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender: []
+  recommender:
+  - https://benji.dog/feed.xml
+  - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories: []
-  relme: {}
+  relme:
+    https://reillyspitzfaden.com/blog: true
   last_post_title: ルビとHTML
   last_post_description: I took a few years of Japanese classes in undergrad, and
     today I'm returning to that and discussing some HTML markup for Japanese and other
@@ -43,10 +60,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

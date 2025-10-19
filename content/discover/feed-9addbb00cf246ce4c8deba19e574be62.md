@@ -17,6 +17,7 @@ params:
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: false
     https://weblog.anniegreens.lol/2024/07/blogroll-spin-8: false
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: false
+    https://weblog.anniegreens.lol/accessibility: false
     https://weblog.anniegreens.lol/accessibility-statement: false
     https://weblog.anniegreens.lol/ai: false
     https://weblog.anniegreens.lol/apple-annie-on-substack: false
@@ -42,6 +43,7 @@ params:
     https://weblog.anniegreens.lol/lists: false
     https://weblog.anniegreens.lol/manual-of-me: false
     https://weblog.anniegreens.lol/nope: false
+    https://weblog.anniegreens.lol/postroll: false
     https://weblog.anniegreens.lol/projects: false
     https://weblog.anniegreens.lol/random-post-generator: false
     https://weblog.anniegreens.lol/recommendations: false
@@ -56,9 +58,12 @@ params:
     https://weblog.anniegreens.lol/styleguide/layouts: false
     https://weblog.anniegreens.lol/styleguide/replaced-elements: false
     https://weblog.anniegreens.lol/styleguide/tokens: false
+    https://weblog.anniegreens.lol/switchboard: false
     https://weblog.anniegreens.lol/tags: false
+    https://weblog.anniegreens.lol/todos: false
     https://weblog.anniegreens.lol/webrings: false
     https://weblog.anniegreens.lol/why: false
+    https://weblog.anniegreens.lol/wips: false
   blogrolls: []
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
@@ -76,6 +81,7 @@ params:
     https://anniegreens.lol/: true
     https://anniegreens.omg.lol/: true
     https://anniegreens.proven.lol/: true
+    https://anniegreens.weblog.lol/: true
     https://github.com/anniegreens: true
     https://now.anniegreens.lol/: true
     https://omg.anniegreens.lol/: true
@@ -89,6 +95,7 @@ params:
     https://weblog.anniegreens.lol/2023/12/an-organized-head: true
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: true
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: true
+    https://weblog.anniegreens.lol/accessibility: true
     https://weblog.anniegreens.lol/accessibility-statement: true
     https://weblog.anniegreens.lol/ai: true
     https://weblog.anniegreens.lol/apple-annie-on-substack: true
@@ -114,6 +121,7 @@ params:
     https://weblog.anniegreens.lol/lists: true
     https://weblog.anniegreens.lol/manual-of-me: true
     https://weblog.anniegreens.lol/nope: true
+    https://weblog.anniegreens.lol/postroll: true
     https://weblog.anniegreens.lol/projects: true
     https://weblog.anniegreens.lol/random-post-generator: true
     https://weblog.anniegreens.lol/recommendations: true
@@ -128,9 +136,12 @@ params:
     https://weblog.anniegreens.lol/styleguide/layouts: true
     https://weblog.anniegreens.lol/styleguide/replaced-elements: true
     https://weblog.anniegreens.lol/styleguide/tokens: true
+    https://weblog.anniegreens.lol/switchboard: true
     https://weblog.anniegreens.lol/tags: true
+    https://weblog.anniegreens.lol/todos: true
     https://weblog.anniegreens.lol/webrings: true
     https://weblog.anniegreens.lol/why: true
+    https://weblog.anniegreens.lol/wips: true
     https://weblogpomo.club/: true
     https://weblogpomo.club/challenges: true
   last_post_title: Brussels Sprouts Casserole

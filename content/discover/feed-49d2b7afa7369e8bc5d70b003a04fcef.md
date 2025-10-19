@@ -8,6 +8,7 @@ params:
   feedid: 49d2b7afa7369e8bc5d70b003a04fcef
   websites:
     https://dotat.at/: false
+    https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

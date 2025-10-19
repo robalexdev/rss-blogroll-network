@@ -1,12 +1,13 @@
 ---
 title: ezyang’s blog
-date: "2025-06-03T13:44:13Z"
+date: "2025-09-05T14:01:23Z"
 description: the arc of software bends towards understanding
 params:
   feedlink: https://blog.ezyang.com/feed/atom/
   feedtype: atom
   feedid: 408ade19b12504d70ed40efa6ccdd34b
-  websites: {}
+  websites:
+    https://blog.ezyang.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Haskell
@@ -15,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI Coding
+  - PyTorch
   relme: {}
-  last_post_title: 'Vibe coding case study: ScubaDuck'
-  last_post_description: A lot of strong engineers that I know haven't really taken
-    a serious look at AI coding; they've used LLMs to ask questions or write simple
-    scripts and appreciate that it is a useful tool, but haven't
-  last_post_date: "2025-06-02T04:31:25Z"
-  last_post_link: http://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/
+  last_post_title: So you want to control flow in PT2
+  last_post_description: 'With contributions from Richard Zou. PT2’s dominant internal
+    representation, FX graphs, do not directly support control flow (if statements,
+    while loops): they only represent straight-line basic'
+  last_post_date: "2025-09-05T14:01:23Z"
+  last_post_link: http://blog.ezyang.com/2025/09/so-you-want-to-control-flow-in-pt2/
   last_post_categories:
-  - AI Coding
+  - PyTorch
   last_post_language: ""
-  last_post_guid: 01869397d92862051538e2092ee3fe2c
+  last_post_guid: 2fc42f987af1bc6f52d2156cc40a1768
   score_criteria:
     cats: 0
     description: 3
@@ -38,12 +39,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 19
+    website: 2
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 296
 ---

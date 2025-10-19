@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.1.
+      feedlandDatabase v0.8.2.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Apple’s Silence at "The Talk Show" Will Speak Volumes
-  last_post_description: 'If you follow Apple at all, you’ve likely heard the news:
-    Apple’s skipping John Gruber’s The Talk Show Live at WWDC this year. For a decade,
-    it’s been tradition for Apple executives to join'
-  last_post_date: "2025-05-30T12:01:00-04:00"
-  last_post_link: https://parkerortolani.blog/2025/05/30/apples-silence-at-the-talk.html
+  last_post_title: 'Orangeness Beats Thinness: Thoughts on Yesterday’s Event'
+  last_post_description: I don’t think there’s a whole lot of tea leaf reading to
+    do after yesterday’s Apple event. The upgrades are fairly straightforward. But
+    there are some intriguing notes that I wanted to share,
+  last_post_date: "2025-09-10T19:52:32-04:00"
+  last_post_link: https://parkerortolani.blog/2025/09/10/orangeness-beats-thinness-thoughts-on.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 81f7b5923d6dae72b86ed648a853caae
+  last_post_guid: 1a475beaea36663542458d2f76411d9c
   score_criteria:
     cats: 0
     description: 0
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 24
+  postcount: 25
   avgpostlen: 0
 ---

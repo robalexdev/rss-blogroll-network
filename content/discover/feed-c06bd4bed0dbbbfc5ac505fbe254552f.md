@@ -14,6 +14,9 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
+    id: 7c57874819a3b666310d14cda337b41d
+  - title: ""
+    description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended:
   - https://100daysof.blog/feed.xml
@@ -132,6 +135,10 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/feed.xml
+  - https://ashk.au/atom-bookmarks.xml
+  - https://ashk.au/atom.xml
+  - https://bne.social/@ash.rss
+  - https://www.goodreads.com/review/list_rss/11559548
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
@@ -203,7 +210,14 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   - https://www.wackomenace.co.uk/essays/atom.xml
   - https://www.wackomenace.co.uk/essays/rss.xml
-  recommender: []
+  recommender:
+  - https://benji.dog/feed.xml
+  - https://www.benji.dog/all.xml
+  - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
+  - https://www.benji.dog/photos.xml
+  - https://www.benji.dog/read.xml
+  - https://www.benji.dog/watched.xml
   categories: []
   relme:
     https://github.com/immarisabel: true

@@ -108,6 +108,8 @@ params:
   - https://boffosocko.com/read.xml
   - https://granary-demo.appspot.com/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=http%3A//www.boffosocko.com/blog/
   - https://stream.boffosocko.com/content/all?_t=rss
+  - https://colinwalker.blog/dailyfeed.xml
+  - https://dougbelshaw.com/blog/comments/feed/
   - https://idealistpropaganda.blogspot.com/feeds/posts/default?alt=rss
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
@@ -122,6 +124,10 @@ params:
   - https://localghost.dev/musics.xml
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
+  - https://ochtendgrijs.be/blog/feed/
+  - https://ochtendgrijs.be/comments/feed/
+  - https://remkusdevries.com/comments/feed/
+  - https://remkusdevries.com/feed/
   - https://robinrendle.com/cascadefeed.xml
   - https://robinrendle.com/essayfeed.xml
   - https://robinrendle.com/newsletterfeed.xml
@@ -135,11 +141,18 @@ params:
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
+  - https://rushkoff.com/comments/feed/
+  - https://www.zylstra.org/blog/comments/feed/
   - https://zijperspace.nl/comments/feed/
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
+  - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
+  - https://johnjohnston.info/blog/category/wwwd/feed/
+  - https://johnjohnston.info/blog/comments/feed/
+  - https://johnjohnston.info/blog/feed/
   categories: []
   relme:
     https://frankmeeuwsen.com/: true

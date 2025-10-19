@@ -8,6 +8,7 @@ params:
   feedid: db75d3b63bd58ce8d383e82c02e59adf
   websites:
     https://firenze.linux.it/: true
+    https://www.firenze.linux.it/: false
   blogrolls: []
   in_blogrolls:
   - title: ""

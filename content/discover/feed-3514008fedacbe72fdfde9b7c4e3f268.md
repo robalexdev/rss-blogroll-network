@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 3514008fedacbe72fdfde9b7c4e3f268
   websites:
+    https://blogs.igalia.com/gpiccoli: true
     https://blogs.igalia.com/gpiccoli/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

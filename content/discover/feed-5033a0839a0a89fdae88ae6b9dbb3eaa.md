@@ -25,6 +25,7 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml

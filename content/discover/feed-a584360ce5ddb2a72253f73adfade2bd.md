@@ -1,20 +1,14 @@
 ---
 title: Baty.net
 date: "1970-01-01T00:00:00Z"
-description: Baty.net
+description: Recent content on Baty.net
 params:
   feedlink: https://baty.net/feed
   feedtype: rss
   feedid: a584360ce5ddb2a72253f73adfade2bd
-  websites:
-    https://baty.net/: true
-    https://baty.net/feeds: false
-    https://baty.net/posts: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Planet Emacslife
-    description: ""
-    id: 7919deeb2e6142c0249d61f42e19c22d
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -24,23 +18,16 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
-  relme:
-    https://baty.net/: true
-    https://baty.net/feeds: true
-    https://daily.baty.net/: true
-    https://glass.photo/jbaty: true
-    https://jackbaty.com/: true
-    https://mastodon.social/@batybot: true
-    https://social.lol/@jbaty: true
-  last_post_title: Mike Monteiro on drawing
+  relme: {}
+  last_post_title: Dusted off the Jack Tries Linux blog
   last_post_description: |-
-    We are born with hearts that want to leave a mark on the world. This ability is not lost, it is taken from us.
-    Mike Monteiro, How to draw an orange
-  last_post_date: "2025-02-22T08:11:04-05:00"
-  last_post_link: https://baty.net/posts/2025/02/mike-monteiro-on-drawing/
+    Remember that time I was trying Linux “for real” and even created a blog to write about it? It was more an excuse to play with the clever BSSG blogging engine, but still.
+    Well, I’m doing it
+  last_post_date: "2025-09-11T11:25:25-04:00"
+  last_post_link: https://baty.net/posts/2025/09/dusted-off-the-jack-tries-linux-blog/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4843dd15d7b77e055b16cea8bce098b1
+  last_post_guid: 31062146ae1ecd3c1d139e882cc44a97
   score_criteria:
     cats: 0
     description: 3
@@ -50,10 +37,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

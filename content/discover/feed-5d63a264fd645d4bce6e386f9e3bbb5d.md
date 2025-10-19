@@ -130,6 +130,10 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/feed.xml
+  - https://ashk.au/atom-bookmarks.xml
+  - https://ashk.au/atom.xml
+  - https://bne.social/@ash.rss
+  - https://www.goodreads.com/review/list_rss/11559548
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml

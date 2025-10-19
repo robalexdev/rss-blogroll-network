@@ -1,6 +1,6 @@
 ---
 title: Sean Voisen's Blog
-date: "2025-03-10T00:00:00Z"
+date: "2025-09-13T00:00:00Z"
 description: Thoughts about designing and making software, mostly.
 params:
   feedlink: https://sean.voisen.org/atom.xml
@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Vibe coding our way to design homogenization
+  last_post_title: 'Philosophy for Designers 1: Phenomenology and the impossibility
+    of experience design'
   last_post_description: ""
-  last_post_date: "2025-03-10T00:00:00Z"
-  last_post_link: https://seanvoisen.com/blog/vibe-coding-design-homogenization/
+  last_post_date: "2025-09-13T00:00:00Z"
+  last_post_link: https://seanvoisen.com/blog/phenomenology-and-the-impossibility-of-experience-design/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 522c7b78a8cc8fb72f2c5cc7eb6516be
+  last_post_guid: 1db7a0d556bd388167bf7fbad1c41c17
   score_criteria:
     cats: 0
     description: 3
@@ -41,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 296
 ---

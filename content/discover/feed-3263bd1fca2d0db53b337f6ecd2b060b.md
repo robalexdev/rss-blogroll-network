@@ -6,8 +6,7 @@ params:
   feedlink: https://hiandrewquinn.github.io/til-site/index.xml
   feedtype: rss
   feedid: 3263bd1fca2d0db53b337f6ecd2b060b
-  websites:
-    https://hiandrewquinn.github.io/til-site/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,17 +15,21 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://hiandrewquinn.github.io/til-site/: true
-  last_post_title: You don't need CGO to use SQLite in your Go binary
+  relme: {}
+  last_post_title: tarsnap is cozy
   last_post_description: |-
-    At least not for most use cases. You can just use modernc.org/sqlite instead as your SQLite driver.
-    For people who aren’t in the Go know, “pure” Go programs are trivially easy to compile cross
-  last_post_date: "2025-07-18T00:00:00Z"
-  last_post_link: https://hiandrewquinn.github.io/til-site/posts/you-don-t-need-cgo-to-use-sqlite-in-your-go-binary/
+    I have been aware of
+    tarsnap
+    for a long time, but only recently did I actually
+    get around to using it
+    for anything, as a result of my big
+    personal digital resiliency audit for 2025.
+    For those of you
+  last_post_date: "2025-09-10T00:00:00Z"
+  last_post_link: https://til.andrew-quinn.me/posts/tarsnap-is-cozy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e1a810c8fa4742486df31e993781a4b0
+  last_post_guid: d1b9bd418c28dde1329f0bf1e13e19a2
   score_criteria:
     cats: 0
     description: 3
@@ -36,14 +39,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 61
+  postcount: 77
   avgpostlen: 0
 ---

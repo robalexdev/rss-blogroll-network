@@ -10,6 +10,7 @@ params:
   feedid: 825e2b835bc8fb6bedd6e0eadd02d108
   websites:
     https://meyerweb.com/: false
+    https://meyerweb.com/eric/thoughts: true
     https://meyerweb.com/eric/thoughts/: false
     https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
@@ -24,30 +25,37 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - CSS
-  relme: {}
-  last_post_title: Masonry, Item Flow, and… GULP?
-  last_post_description: Masonry layout is a difficult thing to do with CSS at present.
-    Item Flow could make it easy.
-  last_post_date: "2025-05-21T16:07:00Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2025/05/21/masonry-item-flow-and-gulp/
+  - Hacks
+  - JavaScript
+  - Tools
+  - Web
+  relme:
+    https://meyerweb.com/eric/thoughts: true
+  last_post_title: 'Bookmarklet: Load All GitHub Comments (take 2)'
+  last_post_description: In which I update a bookmarklet to load all the comments
+    on super-long GitHub threads.
+  last_post_date: "2025-09-14T13:48:27Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2025/09/14/bookmarklet-load-all-github-comments-take-2/
   last_post_categories:
-  - CSS
+  - Hacks
+  - JavaScript
+  - Tools
+  - Web
   last_post_language: ""
-  last_post_guid: 4d8f42d6904d771abc08ca59349fad06
+  last_post_guid: b58ec66cd0b859d95d844c8ea64e7af3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

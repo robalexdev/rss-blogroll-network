@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: ac7da9cebc11140ac24413fdc55fbbbd
   websites:
+    https://wagenknecht.org/blog: true
     https://wagenknecht.org/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -45,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

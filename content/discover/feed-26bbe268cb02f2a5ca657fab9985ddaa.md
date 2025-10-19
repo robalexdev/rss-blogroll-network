@@ -1,6 +1,6 @@
 ---
 title: Anil Dash
-date: "2025-06-11T00:00:00Z"
+date: "2025-09-11T00:00:00Z"
 description: A blog about making culture. Since 1999.
 params:
   feedlink: https://anildash.com/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: It's Time for Something New
+  last_post_title: 24 is After the Fall
   last_post_description: ""
-  last_post_date: "2025-06-11T00:00:00Z"
-  last_post_link: https://anildash.com/2025/06/11/time-for-something-new/
+  last_post_date: "2025-09-11T00:00:00Z"
+  last_post_link: https://anildash.com/2025/09/11/24-is-after-the-fall/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f3e2e11968dc933bcd1e4a6fb8448ac3
+  last_post_guid: cbee920334ac3711c3d169eb6748a078
   score_criteria:
     cats: 0
     description: 3
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 12
-  avgpostlen: 296
+  avgpostlen: 294
 ---
