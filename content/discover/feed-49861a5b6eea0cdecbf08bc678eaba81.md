@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-05-16T20:51:04Z"
+date: "2025-09-29T18:56:57Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/bookmarks.xml
@@ -20,10 +20,12 @@ params:
   - https://artlung.com/feed/
   - https://audioboom.com/channels/4997224.rss
   - https://benbrown.com/feed.xml
+  - https://blog.darylsun.page/rss.xml
   - https://blog.webb.page/feed/rss
   - https://cassidoo.co/rss.xml
   - https://catgirlin.space/feeds/rss.xml
   - https://clarale.com/feed.xml
+  - https://corvid.cafe/feed.xml
   - https://coryd.dev/feeds/all.xml
   - https://david.shanske.com/feed
   - https://dead.garden/blog/feed.rss
@@ -34,6 +36,7 @@ params:
   - https://feeds.acast.com/public/shows/65f7db095765b60016059179
   - https://feeds.buzzsprout.com/1930485.rss
   - https://feeds.megaphone.fm/the-rewatchables
+  - https://flamedfury.com/feed.xml
   - https://frills.dev/all.xml
   - https://garrit.xyz/rss.xml
   - https://gregorlove.com/stream/feed.atom
@@ -48,22 +51,27 @@ params:
   - https://localghost.dev/rss
   - https://mandarismoore.com/feed.xml
   - https://manuelmoreale.com/feed/rss
+  - https://marisabel.nl/feeds/combined.php
   - https://marksuth.dev/feed/posts.xml
   - https://maya.land/feed.xml
+  - https://michaelkupietz.com/feed/
   - https://muan.co/stories.xml
   - https://nicksimson.com/feed/
   - https://ohhelloana.blog/feed.xml
   - https://piperhaywood.com/feed
+  - https://popagandhi.com/feed.xml
   - https://preemchro.me/index.xml
   - https://reillyspitzfaden.com/blog/feed.xml
   - https://rossabaker.com/index.xml
   - https://rss.art19.com/eye-of-the-duck
   - https://sarajaksa.eu/rss.xml
+  - https://sarajoy.dev/rss.xml
   - https://shellsharks.com/feeds/feed.xml
   - https://so1o.xyz/feed.xml
   - https://starbreaker.org/feeds/everything.xml
   - https://system31.simone.computer/rss.xml
   - https://tracydurnell.com/feed/
+  - https://vanderwal.net/random/vanderwal.xml
   - https://veronique.ink/feed/?type=rss
   - https://wiki.xxiivv.com/links/rss.xml
   - https://www.ciccarello.me/feed.xml
@@ -79,6 +87,11 @@ params:
   - https://david.shanske.com/feed/
   - https://bg.raindrop.io/rss/public/51278376
   - https://posts.ellesho.me/
+  - https://flamedfury.com/bookmarks-feed.xml
+  - https://flamedfury.com/feeds/bookmarks/atom.xml
+  - https://flamedfury.com/feeds/bookmarks/rss.xml
+  - https://flamedfury.com/feeds/posts/atom.xml
+  - https://flamedfury.com/feeds/posts/rss.xml
   - https://frills.dev/bookmarks.xml
   - https://frills.dev/changelog.xml
   - https://frills.dev/rss.xml
@@ -95,8 +108,9 @@ params:
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
   - https://mandarismoore.com/podcast.xml
-  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
   - https://manuelmoreale.com/feed/instagram
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/social/rss
   - https://marksuth.dev/feed/photos.xml
   - https://marksuth.dev/feed/stream.xml
   - https://muan.co/notes.xml
@@ -104,9 +118,11 @@ params:
   - https://ohhelloana.blog/feed.links.xml
   - https://piperhaywood.com/comments/feed/
   - https://piperhaywood.com/feed/
+  - https://popagandhi.com/
   - https://reillyspitzfaden.com/feed.xml
   - https://reillyspitzfaden.com/interactions/feed.xml
   - https://reillyspitzfaden.com/notes/feed.xml
+  - https://rossabaker.com/originals.xml
   - https://shellsharks.com/feeds/all-feed.xml
   - https://shellsharks.com/feeds/devlog-feed.xml
   - https://shellsharks.com/feeds/infosec-feed.xml
@@ -117,18 +133,18 @@ params:
   - https://shellsharks.com/feeds/scroll-feed.xml
   - https://shellsharks.com/feeds/socialweb-feed.xml
   - https://listenbrainz.org/syndication-feed/user/starbreaker5150/listens?minutes=480
-  - https://starbreaker.org/follow/everything.xml
+  - https://starbreaker.org/feed.xml
   - https://starbreaker.org/follow/headlines.xml
   - https://tracydurnell.com/comments/feed/
   - https://veronique.ink/feed/
   - https://journal.miso.town/atom?url=https%3A//wiki.xxiivv.com/site/now.html
-  - https://www.coryd.dev/feeds/all.xml
   - https://www.coryd.dev/feeds/books.xml
   - https://www.coryd.dev/feeds/links.xml
   - https://www.coryd.dev/feeds/movies.xml
+  - https://www.coryd.dev/feeds/posts.xml
   - https://ellyloel.com/feed.atom
   - https://ellyloel.com/feed.rss
-  - https://www.lkhrs.com/index.xml
+  - https://www.lkhrs.com/
   - https://www.operationpuppet.com/comments/feed/
   - https://www.operationpuppet.com/feed/
   - https://www.operationpuppet.com/podcast/feed/
@@ -151,23 +167,26 @@ params:
   - https://www.trovster.com/prints.xml
   recommender: []
   categories:
-  - TV
-  - raspberry pi
-  - streaming
+  - history
+  - legends
+  - map
+  - myths
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
-  last_post_title: Bookmarked "Kodi Streaming Box on a Raspberry Pi"
-  last_post_description: I need to figure out a solution to replace my TV's built-in
-    options that have stopped working. I just need some time to do this.
-  last_post_date: "2025-05-16T20:51:04Z"
-  last_post_link: https://benji.dog/bookmarks/1747428665-kodi-streaming-box-on-a-raspberry-pi/
+  last_post_title: Bookmarked "English Heritage | A map of myth, legend & folklore"
+  last_post_description: Such a nicely animated map showing several stories from Great
+    Britain. There's some cool little details like the one for "The Sea Monster of
+    Falmouth Bay". I hope they continue to fill this in with
+  last_post_date: "2025-09-29T18:56:57Z"
+  last_post_link: https://benji.dog/bookmarks/1759172218-english-heritage--a-map-of-myth-legend--folklore/
   last_post_categories:
-  - TV
-  - raspberry pi
-  - streaming
+  - history
+  - legends
+  - map
+  - myths
   last_post_language: ""
-  last_post_guid: f9ac5693dbb18412695a828cfc696e16
+  last_post_guid: 325332b4d4f46464ec20ddee43dbde8f
   score_criteria:
     cats: 0
     description: 3

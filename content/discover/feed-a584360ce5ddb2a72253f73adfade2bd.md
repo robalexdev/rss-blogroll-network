@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Blogroll OPML
+    description: ""
+    id: 19ff37d265d6a31551a5d17493886dde
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2

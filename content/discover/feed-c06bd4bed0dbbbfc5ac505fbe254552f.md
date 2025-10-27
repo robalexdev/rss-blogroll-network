@@ -211,7 +211,12 @@ params:
   - https://www.wackomenace.co.uk/essays/atom.xml
   - https://www.wackomenace.co.uk/essays/rss.xml
   recommender:
+  - https://benji.dog/all.xml
+  - https://benji.dog/bookmarks.xml
   - https://benji.dog/feed.xml
+  - https://benji.dog/photos.xml
+  - https://benji.dog/read.xml
+  - https://benji.dog/watched.xml
   - https://www.benji.dog/all.xml
   - https://www.benji.dog/bookmarks.xml
   - https://www.benji.dog/feed.xml

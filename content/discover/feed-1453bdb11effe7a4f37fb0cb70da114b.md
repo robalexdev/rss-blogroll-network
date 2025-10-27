@@ -1,6 +1,6 @@
 ---
 title: Adam is making things
-date: "2025-10-15T10:04:23Z"
+date: "2025-09-10T21:40:46Z"
 description: This is my house. I made these things.
 params:
   feedlink: https://mycabinetofcuriosities.com/feed/feed.xml

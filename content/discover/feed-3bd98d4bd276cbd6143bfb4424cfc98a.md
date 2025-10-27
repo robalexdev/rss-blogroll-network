@@ -11,6 +11,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Cory Dransfeldt
+    description: ""
+    id: d0a6b9c5f63a5b525a30929c47fc75e7
   - title: A list of sites Ethan likes
     description: ""
     id: 796603efcff00ba474bbbd88e566b727

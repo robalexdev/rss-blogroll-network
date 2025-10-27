@@ -82,6 +82,7 @@ params:
     https://anniegreens.omg.lol/: true
     https://anniegreens.proven.lol/: true
     https://anniegreens.weblog.lol/: true
+    https://anniegreens.weblog.lol/archive: true
     https://github.com/anniegreens: true
     https://now.anniegreens.lol/: true
     https://omg.anniegreens.lol/: true

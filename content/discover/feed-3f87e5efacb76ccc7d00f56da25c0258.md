@@ -18,6 +18,9 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: Blogroll OPML
+    description: ""
+    id: 19ff37d265d6a31551a5d17493886dde
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c
@@ -29,7 +32,12 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://benji.dog/all.xml
+  - https://benji.dog/bookmarks.xml
   - https://benji.dog/feed.xml
+  - https://benji.dog/photos.xml
+  - https://benji.dog/read.xml
+  - https://benji.dog/watched.xml
   - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml

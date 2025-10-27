@@ -13,6 +13,9 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: RSS Feeds for Clayton's Blogroll
+    description: ""
+    id: aaf2b657c92a09dcd64da99b46d7a193
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml

@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2025-10-14T05:00:00Z"
+date: "2025-08-19T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -10,6 +10,12 @@ params:
     https://www.zachleat.com/: false
   blogrolls: []
   in_blogrolls:
+  - title: RSS Feeds for Clayton's Blogroll
+    description: ""
+    id: aaf2b657c92a09dcd64da99b46d7a193
+  - title: Cory Dransfeldt
+    description: ""
+    id: d0a6b9c5f63a5b525a30929c47fc75e7
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e

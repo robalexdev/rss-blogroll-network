@@ -193,6 +193,9 @@ feed_urls:
   #- https://campaignwiki.org/rpg/osr.opml
   #- https://campaignwiki.org/rpg/other.opml
 
+  # Smaller
+  - https://claytonerrington.com/feed/blogroll-opml.xml
+  - https://joelchrono.xyz/blogroll.opml
 
   # Others
   # https://github.com/Martinviv/rss-sources (low stars)

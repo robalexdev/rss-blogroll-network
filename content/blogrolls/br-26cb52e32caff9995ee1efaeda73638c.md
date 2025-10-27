@@ -49,6 +49,9 @@ params:
   - title: Allison Kaptur
     description: ""
     id: 4277f44909cfffd36d5899cb1ed17376
+  - title: the morning paper
+    description: a random walk through Computer Science research, by Adrian Colyer
+    id: 4743ba4839f82cb17b517f942a36ae4f
   - title: Auth0 Blog
     description: Company Updates, Technology Articles from Auth0
     id: 57f38eb3c32795e22b046473279cd2c5

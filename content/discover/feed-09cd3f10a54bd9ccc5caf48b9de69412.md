@@ -16,6 +16,9 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: Blogroll OPML
+    description: ""
+    id: 19ff37d265d6a31551a5d17493886dde
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
