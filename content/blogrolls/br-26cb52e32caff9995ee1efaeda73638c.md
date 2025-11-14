@@ -128,6 +128,9 @@ params:
   - title: Preshing on Programming
     description: ""
     id: ade01429892bf7ea64a65f9c892cc573
+  - title: Writing - rachelbythebay
+    description: ""
+    id: b5969cc0079ee78195cf1f321ed8bde0
   - title: code.dblock.org | tech blog
     description: ""
     id: b5997debf4f556172dc53b03e4823dee

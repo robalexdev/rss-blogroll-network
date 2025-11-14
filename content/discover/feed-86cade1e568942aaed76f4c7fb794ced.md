@@ -18,15 +18,19 @@ params:
   - 知道点儿
   - 股票交流
   relme: {}
-  last_post_title: 安全第一
-  last_post_description: 指数 沪指上周收涨2
-  last_post_date: "2025-08-10T14:39:00Z"
-  last_post_link: https://playet.cn/archives/c4f0bb18-c77b-4e69-8abf-55d1d0e5bc68
+  last_post_title: 无语
+  last_post_description: !!binary |
+    5LuK5aSp5omL6LSx54K55LqGTlBTL05QQ+WNh+e6p++8jOWvvOiHtOaVtOS4qui1hOa6kO
+    aXoOazleiuv+mXru+8jOWIsOeOsOWcqOS5n+ayoeaJvuWIsOWOn+WboO+8jOWPquiDveeU
+    qOWkh+eUqOi1hOa6kOWFiOWPkeW4g+S6hu+8jOayoeacieeyvuWKm+WGjeWGmeS6huOAgu
+    S4iuWRqOaVtOS9k+i1sOWKv+iJr+Wlve+8jOixq+iDveOAgee9kei+vuU=
+  last_post_date: "2025-11-09T19:43:24Z"
+  last_post_link: http://localhost:8090/archives/bb202ef0-bbe4-4cdd-9d85-cdf80a8e4c84
   last_post_categories:
   - 知道点儿
   - 股票交流
   last_post_language: ""
-  last_post_guid: f2f5f4d8d46465d4a683735f91a86244
+  last_post_guid: eb945e098dcf650eed34c1e922a7c55a
   score_criteria:
     cats: 0
     description: 3

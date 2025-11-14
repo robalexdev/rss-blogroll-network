@@ -16,6 +16,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: feeds.opml
+    description: ""
+    id: 603658cadcf227d3674971f61cbcac3c
   - title: The Art Of Not Asking Why - Blogroll
     description: ""
     id: e79d34746977a283ee12bf2f27dfee7a

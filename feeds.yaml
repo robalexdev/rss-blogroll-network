@@ -196,6 +196,7 @@ feed_urls:
   # Smaller
   - https://claytonerrington.com/feed/blogroll-opml.xml
   - https://joelchrono.xyz/blogroll.opml
+  - https://raw.githubusercontent.com/sethmlarson/sethmlarson.dev/refs/heads/main/archive/feeds.opml
 
   # Others
   # https://github.com/Martinviv/rss-sources (low stars)

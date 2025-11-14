@@ -13,6 +13,9 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
+  - title: feeds.opml
+    description: ""
+    id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
