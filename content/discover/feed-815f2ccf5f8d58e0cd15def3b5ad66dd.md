@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.7.54.
+      v0.8.4.
     id: 7def71058aaab40ff83909b86eff9005
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -23,15 +23,16 @@ params:
   categories: []
   relme:
     https://dizzy.zone/: true
-  last_post_title: n8n and large files
-  last_post_description: I’ve self hosted an n8n to automate video uploads to youtube.
-    The idea was pretty simple - when I put an mp4 file in a specific dir on my nas,
-    n8n would pick it up, as well as a metadata.json file.
-  last_post_date: "2025-07-30T08:13:16+03:00"
-  last_post_link: https://dizzy.zone/2025/07/30/n8n-and-large-files/
+  last_post_title: About
+  last_post_description: |-
+    Hello!
+    I’m Vik, a software developer. I mostly work with Go on backend, implementing APIs, services and handling messages.
+    I enjoy digging into infrastructure as well - be it K8S, CI/CD,
+  last_post_date: "2025-10-02T13:35:05+03:00"
+  last_post_link: https://dizzy.zone/about/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd2e97c19a4b3c58810ce94062fdf498
+  last_post_guid: f7adf250f3bbe245c29c08941a601396
   score_criteria:
     cats: 0
     description: 3

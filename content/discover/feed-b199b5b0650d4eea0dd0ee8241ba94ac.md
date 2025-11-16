@@ -1,6 +1,6 @@
 ---
 title: Peter Rohde
-date: "2025-08-24T02:15:56Z"
+date: "2025-08-23T00:56:36Z"
 description: Quantum computer scientist & alpinist.
 params:
   feedlink: https://peterrohde.org/feed/atom/

@@ -16,34 +16,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - General
-  - model
+  - Cloud
+  - Devel
+  - HeatWave
+  - MySQL
+  - OCI
   relme:
     https://lefred.be/: true
-  last_post_title: Testing MySQL REST Service with Helidon and OCI GenAI
-  last_post_description: Recently, I published an article related to MRS (MySQL REST
-    Service), which we released as a lab. I wanted to explore how I could use this
-    new cool feature within an application. I decided to create
-  last_post_date: "2025-09-02T11:04:10Z"
-  last_post_link: https://lefred.be/content/testing-mysql-rest-service-with-helidon-and-oci-genai/
+  last_post_title: Deploying on OCI with the starter kit – part 1
+  last_post_description: If you want to create a new application, test it, and deploy
+    it on the cloud, Oracle Cloud Infrastructure provides an always-free tier for
+    compute instances and MySQL HeatWave instances (and more).
+  last_post_date: "2025-11-14T13:11:43Z"
+  last_post_link: https://lefred.be/content/deploying-on-oci-with-the-starter-kit-part-1/
   last_post_categories:
-  - General
-  - model
+  - Cloud
+  - Devel
+  - HeatWave
+  - MySQL
+  - OCI
   last_post_language: ""
-  last_post_guid: 621195deb1a22fa723dc9b9cf952c503
+  last_post_guid: 58438529018d87456794b0efcfbd22da
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

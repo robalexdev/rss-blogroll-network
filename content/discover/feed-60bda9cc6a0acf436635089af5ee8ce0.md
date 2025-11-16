@@ -24,17 +24,17 @@ params:
   relme:
     https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
-  last_post_title: Cordoomceps - replacing an Amiga's brain with Doom
-  last_post_description: There's a lovely device called a pistorm, an adapter board
-    that glues a Raspberry Pi GPIO bus to a Motorola 68000 bus. The intended use case
-    is that you plug it into a 68000 device and then run an
-  last_post_date: "2025-08-05T00:30:19Z"
-  last_post_link: https://mjg59.dreamwidth.org/73001.html
+  last_post_title: Where are we on X Chat security?
+  last_post_description: AWS had an outage today and Signal was unavailable for some
+    users for a while. This has confused some people, including Elon Musk, who are
+    concerned that having a dependency on AWS means that Signal
+  last_post_date: "2025-10-20T23:36:19Z"
+  last_post_link: https://mjg59.dreamwidth.org/73625.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: 5f6856d7b84d32a9fd6ef3fca09f002b
+  last_post_guid: 02fa68e7e9bbbb681f9e4892ef0b92aa
   score_criteria:
     cats: 0
     description: 3

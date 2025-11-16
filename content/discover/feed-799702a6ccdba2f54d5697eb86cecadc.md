@@ -21,15 +21,16 @@ params:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: h-j-k-l
-  last_post_description: "Can very much relate to this ⌨️\n\n\n\tDropping :wq and
-    j's and k's in all my word, google, txt docs.\n\n\n\t(via)"
-  last_post_date: "2025-09-11T20:25:21+02:00"
-  last_post_link: https://blog.x-way.org/Linux/2025/09/11/h-j-k-l.html
+  last_post_title: How to fix subsystem request failed on channel 0
+  last_post_description: "Today I got greeted by the following error when I was trying
+    to scp some file.\n\n# scp a.txt user@somehost:/tmp/b.txt\nsubsystem request failed
+    on channel 0\nscp: Connection closed\n\n\n\tThis cryptic error"
+  last_post_date: "2025-11-06T21:11:34+01:00"
+  last_post_link: https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html
   last_post_categories:
   - Linux
   last_post_language: ""
-  last_post_guid: aa02f55154be8110e5da291eb6eebd27
+  last_post_guid: 8c330ca1fd002b862d6b34c140e6361f
   score_criteria:
     cats: 0
     description: 3

@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: May The Odds Be Ever In Your Favor
-  last_post_description: About sizing, stop losses and right-tail returns
-  last_post_date: "2025-08-25T09:10:35Z"
-  last_post_link: https://themacrocompass.substack.com/p/may-the-odds-be-ever-in-your-favor
+  last_post_title: 'Supreme Court vs Tariffs: A Guide'
+  last_post_description: We will soon find out if tariffs are unconstitutional
+  last_post_date: "2025-10-31T14:23:26Z"
+  last_post_link: https://themacrocompass.substack.com/p/supreme-court-vs-tariffs-a-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 60201d3d8f1e5db7e3a516304bcbb969
+  last_post_guid: 8f7ef8c992e9720e58323b23a663b751
   score_criteria:
     cats: 0
     description: 3

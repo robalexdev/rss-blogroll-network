@@ -135,6 +135,7 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/feed.xml
+  - https://alexandrawolfe.ca/feed/?type=rss
   - https://ashk.au/atom-bookmarks.xml
   - https://ashk.au/atom.xml
   - https://bne.social/@ash.rss
@@ -230,14 +231,14 @@ params:
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
   last_post_title: "\U0001F4AC Snippet!"
-  last_post_description: Yesterday I took an hour to read Japanese since I haven't
-    study any in a week, a sort of burn out, but also being consumed again by questions
-    of consciousness and reality. So I am mainly reading
-  last_post_date: "2025-09-12T07:20:48Z"
-  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=442
+  last_post_description: "Going on semi-hiatus\n   \nFocus of November 2025:\n    \n
+    \     \U0001F4DA  catalog my personal book collection\n      \U0001F3EF Study
+    more Japanese actively and finish reading my first book.\n    \n\n\U0001F645\U0001F3FB‍♀️"
+  last_post_date: "2025-11-15T08:51:14Z"
+  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=458
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5d18aec27f887533793bcd55e9115fe
+  last_post_guid: 8e4801d31fedc3b0a1ea12a8d19491f8
   score_criteria:
     cats: 0
     description: 3

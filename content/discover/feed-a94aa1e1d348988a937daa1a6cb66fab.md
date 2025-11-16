@@ -1,6 +1,6 @@
 ---
 title: Breezy Dream™
-date: "2025-08-01T15:55:18+08:00"
+date: "2025-10-21T01:31:44+08:00"
 description: Linux, Android, Free Software and misc stuff.
 params:
   feedlink: https://www.blogger.com/feeds/33008166/posts/full/-/Mozilla

@@ -16,29 +16,32 @@ params:
   recommender: []
   categories:
   - Python
+  - machine learning
   relme: {}
-  last_post_title: "How to calculate \"scoring streaks\" with pandas \U0001F3C0"
-  last_post_description: Learn how to identify & analyze consecutive events in your
-    data using advanced DataFrame methods!
-  last_post_date: "2025-03-17T13:49:06Z"
-  last_post_link: https://www.dataschool.io/pandas-streak-analysis/
+  last_post_title: "Book preview: Master Machine Learning with scikit-learn \U0001F4D6"
+  last_post_description: This is a practical guide to help you transform from Machine
+    Learning novice to skilled ML practitioner. Download the first 3 chapters for
+    free!
+  last_post_date: "2025-09-19T16:56:57Z"
+  last_post_link: https://www.dataschool.io/master-machine-learning-book-preview/
   last_post_categories:
   - Python
+  - machine learning
   last_post_language: ""
-  last_post_guid: dd4ae1756d7ba29b2a84b97afc0132bc
+  last_post_guid: f750747467624ee963c54000e1123d6e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

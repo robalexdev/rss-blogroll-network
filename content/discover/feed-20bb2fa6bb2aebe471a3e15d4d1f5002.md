@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Status of wrapt (September 2025)
-  last_post_description: The Python wrapt package recently turned 12 years old. Originally
-    intended to be a module for monkey patching Python code, its wrapper object turned
-    out to be a useful basis for creating Python
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://grahamdumpleton.me/posts/2025/09/status-of-wrapt/
+  last_post_title: Use lazy module imports now
+  last_post_description: |-
+    I already made a post a couple of weeks ago about how one could use wrapt to implement lazy module imports for Python. This was in response to PEP 810 (explicit lazy imports) being announced.
+    The
+  last_post_date: "2025-10-20T12:00:00Z"
+  last_post_link: https://grahamdumpleton.me/posts/2025/10/use-lazy-module-imports-now/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: abeb6a3c843fa93e43b409ef49b8de22
+  last_post_guid: 5d6bf66f7dd5fa318d6c5acf08cd4c02
   score_criteria:
     cats: 0
     description: 3

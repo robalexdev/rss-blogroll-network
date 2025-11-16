@@ -1,6 +1,6 @@
 ---
 title: The Document Foundation Planet
-date: Mon, 15 Sep 2025 04:00:33 GMT
+date: Sat, 15 Nov 2025 17:00:24 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml
@@ -18,6 +18,9 @@ params:
   - title: OfficeBuzz
     description: ""
     id: 1d33b780d9ef9af4d5976f7c4885f175
+  - title: Libreoffice on Ravi's Blog
+    description: Recent content in Libreoffice on Ravi's Blog
+    id: 265b3b3e36d06265a9f1b60dd31e6df0
   - title: libreoffice – allotropia software blog
     description: Open Source, Open Standards & a lot of fun!
     id: 2721be350ff48d450814c7c6a905e6e1
@@ -57,6 +60,9 @@ params:
   - title: LibreOffice Design Team
     description: Blog site from the design and UX teams working on LibreOffice
     id: 4c594360b3d04394182e628b178a284b
+  - title: What is Miklos hacking - libreoffice
+    description: ""
+    id: 568c944607d57401f27c27d11ea46eb7
   - title: Bayram Çiçek's website
     description: All content written by me is by default released freely under the
       Public License.

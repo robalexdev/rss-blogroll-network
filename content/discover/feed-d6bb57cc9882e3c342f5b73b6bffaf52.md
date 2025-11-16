@@ -19,18 +19,18 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories:
-  - Random
+  - Weeknotes
   relme: {}
-  last_post_title: Weeknotes 25:36
-  last_post_description: Finished the Falcon On Sunday, I finished building the Millennium
-    Falcon LEGO set I had started building on Saturday. I had to make two trips to
-    a local LEGO store to buy some missing pieces. What I
-  last_post_date: "2025-09-07T23:57:23Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-september-7-2025/
+  last_post_title: Weeknotes 25:45
+  last_post_description: Not being too clever I was working through Mat Marquis’ lesson
+    on expressions in JavaScript is for Everyone (you can access this lesson and a
+    few others for free) last week. He was going through
+  last_post_date: "2025-11-11T00:27:39Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-november-10-2025/
   last_post_categories:
-  - Random
+  - Weeknotes
   last_post_language: ""
-  last_post_guid: 71475111de37092b72a3c33c68769297
+  last_post_guid: 8ff77fb5f7254b78d932cbfbb8457bfe
   score_criteria:
     cats: 0
     description: 3

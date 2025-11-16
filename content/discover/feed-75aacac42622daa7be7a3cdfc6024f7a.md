@@ -19,17 +19,18 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] The routine of assembling'
+  last_post_title: '[SC 2.4.4] Almost forgot'
   last_post_description: |-
-    Here's hoping the routine of assembling this week's newsletter will stave off the horror I'm feeling about the ramification of today's events.
-
-    This blog is running on a recycled Google Pixel 5
-    I
-  last_post_date: "2025-09-11T01:43:42Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-the-routine-of-assembling/
+    I almost forgot to send this!
+    --
+    Horrible edge cases to consider when dealing with music
+    "Some artists and albums will benchmark your utf8 support and annoy your operating system"
+    Target is now
+  last_post_date: "2025-11-13T04:04:26Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-almost-forgot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9291ec6957a857334134481acef85388
+  last_post_guid: 7fb082fce4ff333c43cd665dbfc849c3
   score_criteria:
     cats: 0
     description: 3

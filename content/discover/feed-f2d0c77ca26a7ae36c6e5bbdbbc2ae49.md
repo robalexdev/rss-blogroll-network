@@ -13,7 +13,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Links for Josh Betz
     description: ""
@@ -28,26 +28,23 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - AI
-  - GitHub Podcast
-  - Maintainers
-  - Open Source
-  - open source community
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Copilot code review
   relme: {}
-  last_post_title: Building personal apps with open source and AI
+  last_post_title: 'Unlocking the full power of Copilot code review: Master your instructions
+    files'
   last_post_description: |-
-    Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast.
-    The post Building personal apps with open source and AI
-  last_post_date: "2025-09-12T16:00:00Z"
-  last_post_link: https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/
+    Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find something to level up your code reviews.
+    The post
+  last_post_date: "2025-11-14T17:00:00Z"
+  last_post_link: https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/
   last_post_categories:
-  - AI
-  - GitHub Podcast
-  - Maintainers
-  - Open Source
-  - open source community
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Copilot code review
   last_post_language: ""
-  last_post_guid: 7635ec789cb9c676152f3726da3d9695
+  last_post_guid: 59b18dfded8b66a3e8930f864521ae2d
   score_criteria:
     cats: 0
     description: 3

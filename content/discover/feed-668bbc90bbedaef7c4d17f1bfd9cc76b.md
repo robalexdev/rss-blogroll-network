@@ -33,16 +33,16 @@ params:
   categories:
   - Culture
   relme: {}
-  last_post_title: How Colonisers Lied About American Indian Land Use
-  last_post_description: Early colonists in North America liked to pretend that American
-    Indians weren't really "using" the land, and therefore it was okay to take it.
-    This was never true! In this bonus segment to our Thomas
-  last_post_date: "2025-08-31T08:51:20Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-how-colonisers-lied-about-indian-land-use/
+  last_post_title: Why the Thought of Having Kids Freaks me Out
+  last_post_description: Having children is a decision with huge ethical implications,
+    and one that shapes our view of what kind of future is possible. So let's explore
+    it!
+  last_post_date: "2025-11-07T18:00:08Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-why-the-thought-of-having-kids-freaks-me-out/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: 9b6da79794edbd0b9c83a3b1b313e767
+  last_post_guid: 834b4ec1b84ef7a01cdaa7e4917671e0
   score_criteria:
     cats: 0
     description: 3

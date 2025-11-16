@@ -11,25 +11,27 @@ params:
     https://evanhahn.com/blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.8.4.
+    id: 7def71058aaab40ff83909b86eff9005
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender: []
+  recommender:
+  - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: JS fetch converts string request bodies to UTF-8
-  last_post_description: |-
-    In short: when a fetch request body is a string, the server will receive UTF-8 bytes.
-    I was recently calling fetch with a string body, like this:
-    await fetch("/foo", {
-      method: "POST",
-      body:
-  last_post_date: "2025-09-06T00:00:00Z"
-  last_post_link: https://evanhahn.com/js-fetch-converts-strings-to-utf8/
+  last_post_title: Fizz Buzz without conditionals or booleans
+  last_post_description: I recently learned about the Feeling of Computing podcast
+    and listened to the latest episode. One of the hosts challenged listeners to “write
+    Fizz Buzz with no booleans, no conditionals, no pattern
+  last_post_date: "2025-11-12T00:00:00Z"
+  last_post_link: https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8722d454a4b80ba637729b7020192dd7
+  last_post_guid: 027599136fb6911d11ecf88776033e3b
   score_criteria:
     cats: 0
     description: 3

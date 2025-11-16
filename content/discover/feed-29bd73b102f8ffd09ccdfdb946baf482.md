@@ -19,7 +19,7 @@ params:
   last_post_title: 2025 Wendy Huang Lectures
   last_post_description: I will be giving the 2025 Wendy Huang Lectures at the invitation
     of the Taiwan Association for Logic, Methodology and Philosophy of Science, at
-    NTU Taiwan, in Taipei, from October 21 to 23. The third
+    National Taiwan University, in Taipei, from October 21
   last_post_date: "2025-10-21T14:00:00Z"
   last_post_link: https://consequently.org/presentation/2025/whl/
   last_post_categories: []

@@ -15,23 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - OOM
-  - OOM-Killer
-  - SSH
+  - Clash
+  - clashmeta
+  - mihomo
+  - zashboard
   - 学无止境
   relme: {}
-  last_post_title: 这是我见过的最牛逼的SSH暴力破解
-  last_post_description: 第一次见到SSH爆破把机子内存干爆了的。。 起因：早上发现站打不开了，提示数据库连接失败。然后登上去检查数据库运行状态：
-    journalctl -u mariadb
-  last_post_date: "2025-09-12T03:04:35Z"
-  last_post_link: https://lala.im/9642.html
+  last_post_title: openSUSE Tumbleweed配置Mihomo裸核
+  last_post_description: !!binary |
+    5aaC5p6c5L2g5Zug5Li656eN56eN5Y6f5Zug5LiN5oOz5YaN5L2/55So5ZCE57G75Z+65L
+    qObWlob21v5YaF5qC455qER1VJ5a6i5oi356uv5LqG77yM6YKj5LmI5Y+v5Lul5bCd6K+V
+    5LiA5LiL55u05o6l55So6KO45qC477yM6KO45qC46Zmk5LqG56ys5LiA5qyh6YWN572u55
+    qE5pe25YCZ5Lya6bq754Om5LiA54K577yI5pCT6YWN572u5paH5Lu277w=
+  last_post_date: "2025-11-10T22:33:55Z"
+  last_post_link: https://lala.im/9853.html
   last_post_categories:
-  - OOM
-  - OOM-Killer
-  - SSH
+  - Clash
+  - clashmeta
+  - mihomo
+  - zashboard
   - 学无止境
   last_post_language: ""
-  last_post_guid: 7f4c0a6ac12567c22d35febb8fd15f14
+  last_post_guid: f1cd6533db886acbdb96bd0c938b803f
   score_criteria:
     cats: 0
     description: 3

@@ -19,7 +19,7 @@ params:
   relme: {}
   last_post_title: projects
   last_post_description: ""
-  last_post_date: "2025-04-24T13:17:34Z"
+  last_post_date: "2025-11-06T20:54:32Z"
   last_post_link: https://ellie.wtf/projects
   last_post_categories: []
   last_post_language: ""

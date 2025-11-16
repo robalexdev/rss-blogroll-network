@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-09-13T09:09:43Z"
+date: "2025-11-11T14:59:19Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -15,20 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - TIL
+  - Japan
+  - bjj
   - python
-  - testing
+  - travel
   relme: {}
-  last_post_title: 'TIL: Setting environment variables for pytest'
-  last_post_description: An easier way of doing it then modifying os.environ
-  last_post_date: "2025-09-02T02:29:33Z"
-  last_post_link: https://daniel.feldroy.com/posts/til-2025-09-setting-environment-variables-for-pytest
+  last_post_title: Visiting Tokyo, Japan from November 12 to 24
+  last_post_description: Our first time in a new country!
+  last_post_date: "2025-11-11T14:45:22Z"
+  last_post_link: https://daniel.feldroy.com/posts/2025-11-visiting-tokyo-japan-from-november-12-to-24
   last_post_categories:
-  - TIL
+  - Japan
+  - bjj
   - python
-  - testing
+  - travel
   last_post_language: ""
-  last_post_guid: f34cd608d65e24157c295137808161ef
+  last_post_guid: a7317b339d6317e0a1ebd2e5117ba853
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2025-09-10T19:40:00Z"
+date: "2025-10-24T14:59:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -19,20 +19,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI as teleportation
+  last_post_title: Code like a surgeon
   last_post_description: |-
-    Here’s a thought experiment for pondering the effects AI might have on society: What if we invented teleportation?
+    A lot of people say AI will make us all “managers” or “editors”…but I think this is a dangerously incomplete view!
 
-    A bit odd, I know, but bear with me…
+    Personally, I’m trying to code like a surgeon.
 
-
-
-    The year is 2035. The Auto Go Instant
-  last_post_date: "2025-09-10T19:40:00Z"
-  last_post_link: https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation.html
+    A surgeon isn’t a
+  last_post_date: "2025-10-24T14:59:00Z"
+  last_post_link: https://geoffreylitt.com/2025/10/24/code-like-a-surgeon.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ff6a4c32b817a5a46cec185c8900915
+  last_post_guid: 3a794a07bc84aac37ad6e8123c7b6584
   score_criteria:
     cats: 0
     description: 0

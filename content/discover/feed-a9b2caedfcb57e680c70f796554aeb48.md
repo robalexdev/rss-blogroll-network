@@ -17,19 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Building a SaaS Product: The Hidden 80% That Nobody Talks About'
+  last_post_title: 'When Context Clicks: The Power of Anchor Moments at Work'
   last_post_description: |-
-    “I’ve got a great idea for a weekend project!”
-    Two months later…
-
-    “I’m launching my weekend project!”
-    The Dream vs. The Reality
-    I want to give anyone the power to learn anything,
-  last_post_date: "2025-07-11T00:00:00Z"
-  last_post_link: https://brettgfitzgerald.com/posts/building-a-saas-product-the-hidden-80-percent/
+    When context clicks
+    I had one of those conversations today where, at first, nothing landed. We were discussing whether we could allow orders for items still in transit by estimating when they’d
+  last_post_date: "2025-10-16T11:35:05-04:00"
+  last_post_link: https://brettgfitzgerald.com/posts/when-context-clicks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f71a7975063bd03cdb484ea327d1e11
+  last_post_guid: 41c7ec8c36264154c46a6ab9e7577376
   score_criteria:
     cats: 0
     description: 3

@@ -19,35 +19,31 @@ params:
   categories:
   - Python
   - Software
-  - shell
-  - xpath
   relme: {}
-  last_post_title: Find files to download  from Apache default pages
-  last_post_description: Apache provides a pretty standard screen to display directoyr
-    contents if you do not provide any mods. We post artifacts up to a local server
-    that I later need to download. Here are my hacky notes
-  last_post_date: "2025-08-01T00:25:23Z"
-  last_post_link: https://adam.younglogic.com/2025/07/find-files-to-download-from-apache-default-pages/
+  last_post_title: Self hosting and installing from pip repos
+  last_post_description: 'I have an application that I want to share with my team.
+    Fortunately, we have a shared server, so it is pretty easy to do so: if I put
+    a file in /usr/local/bin it can A) be executed by anyone …'
+  last_post_date: "2025-10-16T02:30:54Z"
+  last_post_link: https://adam.younglogic.com/2025/10/self-hosting-and-installing-from-pip-repos/
   last_post_categories:
   - Python
   - Software
-  - shell
-  - xpath
   last_post_language: ""
-  last_post_guid: fbfd0d7618da9cc0a8595e5c401273bb
+  last_post_guid: c7ec6118f75ed73a45ff542e94c6f581
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

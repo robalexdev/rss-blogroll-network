@@ -23,14 +23,15 @@ params:
     https://builtbybuffalo.com/: true
     https://dystopianpresent.club/@jasper: true
     https://jasper.tandy.is/: true
-  last_post_title: Bridge
-  last_post_description: Went out for a walk whilst Tabitha was playing badminton.
-    I've always wanted to know what this bridge is connecting.
-  last_post_date: "2025-09-14T16:26:00Z"
-  last_post_link: https://jasper.tandy.is/blogging/bridge-2
+  last_post_title: Art Supplies
+  last_post_description: Tabitha is enjoying art at school. To be fair she's always
+    enjoyed drawing at home, I just didn't expect she'd enjoy the more rigid structure
+    that comes with learning it.
+  last_post_date: "2025-11-15T08:07:00Z"
+  last_post_link: https://jasper.tandy.is/blogging/art-supplies
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2568a06abebca3375b78646a065a5f8a
+  last_post_guid: 0736580f9965287d66ebffa6cd862b62
   score_criteria:
     cats: 0
     description: 3

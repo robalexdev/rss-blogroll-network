@@ -25,15 +25,18 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: CubeSats are fascinating learning tools for space
-  last_post_description: 'These are CubeSats. Satellites that are going to spaceâ€”or
-    at least, the ones I have here are prototypes. But these have one thing in common:
-    they''re all powered by either a Raspberry Pi, or a'
-  last_post_date: "2025-09-12T14:01:41Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space
+  last_post_title: Using AMD GPUs on Raspberry Pi without recompiling Linux
+  last_post_description: |-
+    I'm working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the 15 line kernel patch is (IMO) nearly ready for upstreaming.
+
+
+
+    But this blog post shows how to quickly get
+  last_post_date: "2025-11-14T14:58:14Z"
+  last_post_link: https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6c8c421cd440d3e3910168b78a9d2dfd
+  last_post_guid: b3f58b4d2034169955c0a2d34613e542
   score_criteria:
     cats: 0
     description: 0

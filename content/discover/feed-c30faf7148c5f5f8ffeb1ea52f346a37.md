@@ -36,23 +36,19 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: Extracting myself from the Apple Music ecosystem - Part 2
-  last_post_description: "It's been a few months since I first posted about my efforts
-    to get out of the Apple Music ecosystem, and aside from a few rough edges, I now
-    have something that works really well for me. \nThe final"
-  last_post_date: "2025-08-15T12:26:21Z"
-  last_post_link: https://polytechnic.co.uk/blog/2025/08/extracting-myself-from-the-apple-music-ecosystem-part-2/
+  last_post_title: The Internet Phone Book
+  last_post_description: An annual publication for exploring the vast poetic web,
+    featuring essays, musings and a directory with the personal websites of hundreds
+    of designers, developers, writers, curators, and educators.
+  last_post_date: "2025-10-15T14:09:22Z"
+  last_post_link: https://polytechnic.co.uk/blog/2025/10/the-internet-phone-book/
   last_post_categories:
-  - apple
-  - data
-  - metadata
-  - music
-  - navidrome
-  - open-source
-  - self-hosting
-  - subsonic
+  - book
+  - indieweb
+  - internet
+  - phonebook
   last_post_language: ""
-  last_post_guid: a19f5c3b3ca2b0cc2d1e324e5413822c
+  last_post_guid: 70f992f9ad7c1cac07518dc4f08adace
   score_criteria:
     cats: 5
     description: 3

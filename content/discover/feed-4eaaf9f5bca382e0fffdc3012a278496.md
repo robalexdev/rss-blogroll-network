@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Generating (and Sending) Conference Certificates Using Python
+  last_post_title: Disabling Signup in Django allauth
   last_post_description: |-
-    PyLadiesCon Certificate of Attendance
-    Not sure how common is this practice of giving out certificates to conference attendees. I’ve been attending mostly Python-related conferences in North America
-  last_post_date: "2024-12-12T00:00:00-08:00"
-  last_post_link: https://mariatta.ca/posts/create-send-certificates-with-python/
+    Django allauth
+    Django allauth is a popular third party package that provides a lot of functionality for handling user authentication,
+    with support for social authentication, email verification, multi
+  last_post_date: "2025-10-03T11:50:00-08:00"
+  last_post_link: https://mariatta.ca/posts/disabling-signup-django-allauth/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e38c6209ba2095a1102ee3d2a988661e
+  last_post_guid: 368c0584f293fa2c2262d1d216188055
   score_criteria:
     cats: 0
     description: 3

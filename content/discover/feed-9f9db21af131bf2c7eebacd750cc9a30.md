@@ -1,6 +1,6 @@
 ---
 title: Minimal Solaris
-date: "2025-08-09T05:30:38-07:00"
+date: "2025-09-24T11:14:22-07:00"
 description: ""
 params:
   feedlink: https://alexeremin.blogspot.com/feeds/posts/default

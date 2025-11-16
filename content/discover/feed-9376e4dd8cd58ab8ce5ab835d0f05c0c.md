@@ -22,32 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bundle
-  - general
-  - git
+  - debian
+  - dfsg
+  - firmware
+  - gitlab
   - gnu
-  - gnulib
-  - reproducibility
-  - security
-  - supply-chain
+  - libre
+  - non-free
+  - sbom
   relme: {}
-  last_post_title: Independently Reproducible Git Bundles
-  last_post_description: The gnulib project publish a git bundle as a stable archival
-    copy of the gnulib git repository once in a while. Why? We don’t know exactly
-    what this may be useful for, but I’m promoting for this
-  last_post_date: "2025-07-31T14:50:05Z"
-  last_post_link: https://blog.josefsson.org/2025/07/31/independently-reproducible-git-bundles/
+  last_post_title: Introducing the Debian Libre Live Images
+  last_post_description: The Debian Libre Live Images allows you to run and install
+    Debian GNU/Linux without non-free software. The general goal is to provide a way
+    to use Debian without reliance on non-free software, to the
+  last_post_date: "2025-11-12T23:16:35Z"
+  last_post_link: https://blog.josefsson.org/2025/11/13/introducing-the-debian-libre-live-images/
   last_post_categories:
-  - bundle
-  - general
-  - git
+  - debian
+  - dfsg
+  - firmware
+  - gitlab
   - gnu
-  - gnulib
-  - reproducibility
-  - security
-  - supply-chain
+  - libre
+  - non-free
+  - sbom
   last_post_language: ""
-  last_post_guid: f439396c4b78c79db6dca8414571868f
+  last_post_guid: 5615035b2b944173a739f8928968e40c
   score_criteria:
     cats: 0
     description: 0

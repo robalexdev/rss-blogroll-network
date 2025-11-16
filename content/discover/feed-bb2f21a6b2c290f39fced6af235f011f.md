@@ -16,18 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Decidable equality for indexed data types, take 2
+  last_post_title: 'Call for collaboration: Disco web UI'
   last_post_description: |-
-    In a post from a year
-    ago,
-    I explored how to prove decidable equality in Agda of a particular
-    indexed data type. Recently, I discovered a different way to
-    accomplish the same thing, without resorting
-  last_post_date: "2025-08-22T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html
+    tl;dr: I would like to have a web interface for Disco, a
+    student-oriented programming language for teaching functional
+    programming and discrete mathematics, which is implemented in Haskell.
+    I’m
+  last_post_date: "2025-11-10T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2025/11/10/disco-web-ui.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 04bb1443634e4c955f88b24b425d4b40
+  last_post_guid: 5a785797ed803b9463e0b5390eb9324d
   score_criteria:
     cats: 0
     description: 3

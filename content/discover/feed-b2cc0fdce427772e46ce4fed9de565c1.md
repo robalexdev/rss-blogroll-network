@@ -16,28 +16,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - .NET
-  - CSharp
-  - PowerShell
-  - Windows
-  - programming
-  - zsh
+  - Django
+  - Docker
+  - Fedora
+  - Linux
+  - Python
+  - Ubuntu
   relme: {}
-  last_post_title: 'PowerShell: the object-oriented shell you didn’t know you needed'
-  last_post_description: PowerShell is an interactive shell and scripting language
-    from Microsoft. It’s object-oriented — and that’s not just a buzzword, that’s
-    a big difference to how the standard Unix shells work.
-  last_post_date: "2024-04-29T16:45:00Z"
-  last_post_link: https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/
+  last_post_title: Distro Hopping, Server Edition
+  last_post_description: I’ve recently migrated my VPS from Fedora to Ubuntu. Here’s
+    a list of things that might be useful to keep in mind before, during, and after
+    a migration of a server that hosts publicly accessible
+  last_post_date: "2025-11-09T18:00:00Z"
+  last_post_link: https://chriswarrick.com/blog/2025/11/09/distro-hopping-server-edition/
   last_post_categories:
-  - .NET
-  - CSharp
-  - PowerShell
-  - Windows
-  - programming
-  - zsh
+  - Django
+  - Docker
+  - Fedora
+  - Linux
+  - Python
+  - Ubuntu
   last_post_language: ""
-  last_post_guid: 2cd1d215b47350c9c7d6e8ab8debd191
+  last_post_guid: 6d69c7536944fdb9726fe51d7132d76f
   score_criteria:
     cats: 0
     description: 3

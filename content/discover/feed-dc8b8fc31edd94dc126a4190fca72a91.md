@@ -1,6 +1,6 @@
 ---
 title: Ahmad Alfy
-date: "2025-08-22T18:05:10+03:00"
+date: "2025-10-31T23:00:00+02:00"
 description: Blog about front-end development and the web
 params:
   feedlink: https://alfy.blog/feed.xml
@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'From Code That Works to Code That Matters: A PDF Security Feature
-    Story'
-  last_post_description: A simple PDF upload validation task turned into a lesson
-    on why code complete != user complete. Discover how small iterations in UX, security,
-    and reliability make the difference between code that
-  last_post_date: "2025-08-09T03:00:00+03:00"
-  last_post_link: https://alfy.blog/2025/08/09/from-code-that-works-to-code-that-matters.html
+  last_post_title: Your URL Is Your State
+  last_post_description: 'URL design impacts application architecture, performance,
+    and costs. Case study: how flat URLs caused 2x backend load and how we optimized
+    it.'
+  last_post_date: "2025-10-31T02:00:00+02:00"
+  last_post_link: https://alfy.blog/2025/10/31/your-url-is-your-state.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd18e00eb8f294fff6fe4a0c566f48c6
+  last_post_guid: 73111e98a0d353e77847813435b361cb
   score_criteria:
     cats: 0
     description: 3

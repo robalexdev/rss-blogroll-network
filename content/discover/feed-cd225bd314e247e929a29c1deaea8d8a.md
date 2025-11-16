@@ -18,16 +18,14 @@ params:
   categories:
   - Maps in the Wild
   relme: {}
-  last_post_title: Irish Whiskey Distilleries
-  last_post_description: It seems wherever Reinder travels he finds a Map in the Wild.
-    This one is from a pub in Dublin showing the locations of some of the most famous
-    Irish whiskey (correct spelling for Irish as opposed to
-  last_post_date: "2025-09-14T10:00:00Z"
-  last_post_link: https://mappery.org/irish-whiskey-distilleries/
+  last_post_title: James Nihues Jacket
+  last_post_description: Ken posing in his James Nihues carto ski jacket
+  last_post_date: "2025-11-15T10:00:00Z"
+  last_post_link: https://mappery.org/james-nihues-jacket/
   last_post_categories:
   - Maps in the Wild
   last_post_language: ""
-  last_post_guid: 41798cfd24dbd4e45057d87385d2805e
+  last_post_guid: d7a60802bec7cb7f112838b3e7d4269e
   score_criteria:
     cats: 0
     description: 3

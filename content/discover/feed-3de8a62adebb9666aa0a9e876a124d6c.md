@@ -1,6 +1,6 @@
 ---
 title: Vincent Bernat
-date: "2025-03-20T07:50:51Z"
+date: "2025-11-12T19:59:05Z"
 description: ""
 params:
   feedlink: https://vincent.bernat.ch/fr/blog/atom.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://vincent.bernat.ch/fr: true
-  last_post_title: PKI hors ligne avec 3 YubiKeys et une carte ARM
+  last_post_title: Akvorado release 2.0
   last_post_description: ""
-  last_post_date: "2025-03-17T08:12:54Z"
-  last_post_link: https://vincent.bernat.ch/fr/blog/2025-pki-hors-ligne-yubikeys
+  last_post_date: "2025-09-22T08:12:52Z"
+  last_post_link: https://vincent.bernat.ch/fr/blog/2025-akvorado-2.0
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ed5f126f5b4e819a544702d2326ed1b
+  last_post_guid: 25dfb0cedb840fe566cbb545324537aa
   score_criteria:
     cats: 0
     description: 0

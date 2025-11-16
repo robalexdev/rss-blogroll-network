@@ -29,18 +29,17 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - ESET research
+  - Digital Security
   relme: {}
-  last_post_title: 'Introducing HybridPetya: Petya/NotPetya copycat with UEFI Secure
-    Boot bypass'
-  last_post_description: UEFI copycat of Petya/NotPetya exploiting CVE-2024-7344 discovered
-    on VirusTotal
-  last_post_date: "2025-09-12T09:00:00Z"
-  last_post_link: https://www.welivesecurity.com/en/eset-research/introducing-hybridpetya-petya-notpetya-copycat-uefi-secure-boot-bypass/
+  last_post_title: How password managers can be hacked – and how to stay safe
+  last_post_description: Look no further to learn how cybercriminals could try to
+    crack your vault and how you can keep your logins safe
+  last_post_date: "2025-11-13T10:00:00Z"
+  last_post_link: https://www.welivesecurity.com/en/cybersecurity/password-managers-under-attack-what-you-should-know/
   last_post_categories:
-  - ESET research
+  - Digital Security
   last_post_language: ""
-  last_post_guid: 1484cc670118b6effb30247400686083
+  last_post_guid: 23dd9040ede13ff13815ff0463a424e7
   score_criteria:
     cats: 0
     description: 3

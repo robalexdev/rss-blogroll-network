@@ -18,27 +18,35 @@ params:
   - Community
   - Linux
   - Planet Ubuntu
+  - Ubuntu
   - Ubuntu Studio
-  - hardware
-  - raspberry-pi
+  - connections
+  - people
+  - personal
+  - summit
   - technology
+  - ubuntu-summit
   relme: {}
-  last_post_title: Raspberry Pi as a Networked Audio Interface
-  last_post_description: I haven’t posted for quite some time, and a lot has happened.
-    For instance, my wife revived Edubuntu and my work with Ubuntu Studio now spans
-    over 7 years. Recently, I became the proud owner of a
-  last_post_date: "2025-08-19T19:48:23Z"
-  last_post_link: https://ericheickmeyer.com/2025/08/19/raspberry-pi-as-a-networked-audio-interface/
+  last_post_title: Why I Won’t Be Attending or Speaking at Ubuntu Summit 25.10
+  last_post_description: Ubuntu Summit’s decision to go exclusively online, with the
+    exception of those speaking at the Summit in London, UK, is anti-collaborative
+    and turns its back on the very people who make Ubuntu what
+  last_post_date: "2025-10-09T22:01:09Z"
+  last_post_link: https://ericheickmeyer.com/2025/10/09/why-i-wont-be-attending-or-speaking-at-ubuntu-summit-25-10/
   last_post_categories:
   - Community
   - Linux
   - Planet Ubuntu
+  - Ubuntu
   - Ubuntu Studio
-  - hardware
-  - raspberry-pi
+  - connections
+  - people
+  - personal
+  - summit
   - technology
+  - ubuntu-summit
   last_post_language: ""
-  last_post_guid: 7c3873c5e3da1b970154c5fc47b46f9b
+  last_post_guid: 046e9af0965bce734d3512cee52f3019
   score_criteria:
     cats: 0
     description: 3

@@ -18,14 +18,15 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 美股打新-FIGR和GEMI
-  last_post_description: 申购和中签，以及卖出和盈利的情况见下表。 关于美股打新，记录几点：
-  last_post_date: "2025-09-13T07:16:25Z"
-  last_post_link: https://retire50blog.wang/invest/%e7%be%8e%e8%82%a1%e6%89%93%e6%96%b0-figr%e5%92%8cgemi.html
+  last_post_title: uob借记卡管理费
+  last_post_description: 我在新加坡uob银行有两张借记卡，一张uob one，2020年10月开的，一张uob might fx，2023年7月开的。
+    uob one这张卡是前三年免费，之后每年18
+  last_post_date: "2025-11-07T11:03:05Z"
+  last_post_link: https://retire50blog.wang/invest/uob%e5%80%9f%e8%ae%b0%e5%8d%a1%e7%ae%a1%e7%90%86%e8%b4%b9.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 235517150d44c2f81e014e01459bf733
+  last_post_guid: 2ab443b8c1bdf0e3e0c63fe920f2d50e
   score_criteria:
     cats: 0
     description: 0

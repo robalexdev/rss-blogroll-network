@@ -1,6 +1,6 @@
 ---
 title: Kitty Giraudel
-date: "2025-07-29T11:00:23Z"
+date: "2025-11-11T08:53:16Z"
 description: I’m Kitty Giraudel, a transfeminine web engineer based in Berlin, focused
   on accessibility and inclusivity.
 params:

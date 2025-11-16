@@ -16,20 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
+  - News
   - Reflections
-  - The expert's corner
   relme: {}
-  last_post_title: Nicole’s guide to writing research statements
-  last_post_description: Sunflowers are blooming, stores are trumpeting back-to-school
-    sales, and professors are scrambling to chart out the courses they planned to
-    develop in July. If you’re applying for an academic job
-  last_post_date: "2025-08-11T00:12:32Z"
-  last_post_link: https://quantumfrontiers.com/2025/08/10/nicoles-guide-to-writing-research-statements/
+  last_post_title: The sequel
+  last_post_description: 'This October, fantasy readers are devouring a sequel: the
+    final installment in Philip Pullman’s trilogy The Book of Dust. The series follows
+    student Lyra Silvertongue as she journeys from Oxford to'
+  last_post_date: "2025-10-27T00:03:20Z"
+  last_post_link: https://quantumfrontiers.com/2025/10/26/the-sequel/
   last_post_categories:
+  - News
   - Reflections
-  - The expert's corner
   last_post_language: ""
-  last_post_guid: f9fb9cb5f7ae7a297b2e64dcbab21fc5
+  last_post_guid: 549bd514ddf87c4273163ec0f677f4b5
   score_criteria:
     cats: 0
     description: 3

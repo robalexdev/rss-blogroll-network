@@ -20,14 +20,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: On the Cult of the Loud
-  last_post_description: Some thoughts about why loud people aren't the ones we should
-    listen to
-  last_post_date: "2025-09-12T06:10:00Z"
-  last_post_link: https://scottnesbitt.online/loud.html
+  last_post_title: It’s About What You Need to Do
+  last_post_description: Some thoughts about how you should use tools to the level
+    at which you need to
+  last_post_date: "2025-11-07T07:06:00Z"
+  last_post_link: https://scottnesbitt.online/need2.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 287716cb4d30a3175fe766cf428d3b2d
+  last_post_guid: c8e84b5ef9f0ebe0a2b234cf41340dea
   score_criteria:
     cats: 0
     description: 3

@@ -1,0 +1,567 @@
+---
+title: Roll of Nickels
+date: "1970-01-01T00:00:00Z"
+description: Canadian Poetry + Shameless Self-Promotion Since 2006
+params:
+  feedlink: https://rollofnickels.blogspot.com/feeds/posts/default?alt=rss
+  feedtype: rss
+  feedid: 9df1d2c46eacaebfb444e057b1722e60
+  websites:
+    https://rollofnickels.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
+  recommended: []
+  recommender: []
+  categories:
+  - 2010 olympics
+  - A.E. Stallings
+  - A.F. Moritz
+  - A.R. Kung
+  - Adam Kirsch
+  - Adam Tavel
+  - Adeeko Ibukun
+  - Adrienne Gruber
+  - Aislinn Hunter
+  - Akashic Books
+  - Al Purdy
+  - Al Rempel
+  - Albert Goldbarth
+  - Alice Major
+  - Alice Walker
+  - Alistair MacLeod
+  - Allison Adair
+  - Amatoritsero Ede
+  - Anakana Schofield
+  - Andrew Chesham
+  - Andrew Steeves
+  - Andy McGuire
+  - Ange Mlinko
+  - Anita Lahey
+  - Anne Carson
+  - Anne Simpson
+  - Annick MacAskill
+  - Anstruther Press
+  - Anvil Press
+  - Arleen Pare
+  - Arsenal Press
+  - Ashley Obscura
+  - BCP2019
+  - BCPoetry2016
+  - BCPoetry2017
+  - BCPoetry2018
+  - BCPoetry2019
+  - BCPoetry2020
+  - BCPoetry2021
+  - BCPoetry2022
+  - BCPoetry2023
+  - Barbara Nickel
+  - Bardia Sinaee
+  - Barry Dempster
+  - Ben Ladouceur
+  - Ben Lerner
+  - Biblioasis
+  - Billy Kahora
+  - Billy-Ray Belcourt
+  - Binyavanga Wainaina
+  - Birgül Oğuz
+  - Blaise Pascal
+  - Book*hug Press
+  - Brad Cran
+  - Brandon Wint
+  - Bren Simmers
+  - Brick Books
+  - Brooke Clark
+  - C.K. Williams
+  - C.S. Fuqua
+  - Cactus Press
+  - Caitlin Press
+  - Cameron Anstee
+  - Carl Phillips
+  - Carl Watts
+  - Carmine Starnino
+  - Carol Shields
+  - Cassandra Blanchard
+  - Catherine Owen
+  - Chantal Gibson
+  - Charles Bernstein
+  - Charles McGrath
+  - Charles Simic
+  - Chaudiere Books
+  - Chimwemwe Undi
+  - Chris Abani
+  - Chris Bailey
+  - Chris Banks
+  - Chris Gilpin
+  - Chris Jennings
+  - Christian Bök
+  - Christian Wiman
+  - Christopher Levenson
+  - Cicely Belle Blain
+  - Clare Cavanagh
+  - Clive James
+  - Coach House Books
+  - Cormorant Books
+  - Curtis LeBlanc
+  - D.A. Powell
+  - D.G. Jones
+  - Dale Tracy
+  - Dallas Hunt
+  - Damian Tarnopolsky
+  - Dan Beachy-Quick
+  - Daniel Brown
+  - Daniel Karasik
+  - Daniel Nester
+  - Daniel Zomparelli
+  - Daniela Elza
+  - David Alexander
+  - David Bergen
+  - David Biespiel
+  - David Constantine
+  - David Ferry
+  - David Foster Wallace
+  - David Ly
+  - David McGimpsey
+  - David Orr
+  - David Yezzi
+  - David Zieroth
+  - Dennis Lee
+  - Derek Sheffield
+  - Di Brandt
+  - Diane Tucker
+  - Dina Del Bucchia
+  - Dionne Brand
+  - Dominique Bernier-Cormier
+  - Don Coles
+  - Don Domanski
+  - Don McKay
+  - Don Paterson
+  - Donald Hall
+  - Donato Mancini
+  - Donna Kane
+  - Dorothea Lasky
+  - Douglas & McIntyre
+  - Douglas Walbourne-Gough
+  - Drew Gough
+  - Durs Grünbein
+  - Délani Valin
+  - ECW Press
+  - Eamon Grennan
+  - Earle Birney
+  - Edward Hirsch
+  - Edward Willett
+  - Ekstasis Editions
+  - Elee Kraljii Gardiner
+  - Elena Johnson
+  - Eliot Weinberger
+  - Elisa Albert
+  - Elisa Gabbert
+  - Elise Partridge
+  - Elizabeth Bishop
+  - Elizabeth Ross
+  - Ellie Sawatzky
+  - Emily Davidson
+  - Emily Donaldson
+  - Emily Tristan Jones
+  - Emma Healey
+  - Eric Fischl
+  - Eric W. Amann
+  - Eurithe Purdy
+  - Eva HD
+  - Evan Jones
+  - Evelyn Lau
+  - Fanny Howe
+  - Fiona McCrae
+  - Fiona Tinwei Lam
+  - Francine Cunningham
+  - Fred Wah
+  - Freehand Books
+  - Frontenac House
+  - GPOYWMO
+  - Gabriel Garcia Marquez
+  - Gabriel Gudding
+  - Garry Gottfriedson
+  - Garth Greenwell
+  - Gary Barwin
+  - Gary Snyder
+  - Gaspereau Press
+  - Geoff Dyer
+  - Geoffrey Nilson
+  - George Bowering
+  - George Hitchcock
+  - George McWhirter
+  - George Saunders
+  - George Stanley
+  - Gerard Manley Hopkins
+  - Gillian Sze
+  - Glen Downie
+  - Goose Lane Editions
+  - HAP
+  - Harbour Publishing
+  - Harold Rhenisch
+  - House of Anansi Press
+  - Iain McGilchrist
+  - Insomniac Press
+  - Invisible Publishing
+  - Irving Layton
+  - Isabella Wang
+  - Jack Gilbert
+  - Jacob McArthur Mooney
+  - Jacob Scheier
+  - James Baldwin
+  - James Pollock
+  - Jan Zwicky
+  - Jane Hirshfield
+  - Jane Munro
+  - Janine Rogers
+  - Jared Young
+  - Jason Guriel
+  - Jaswinder Bolina
+  - Jean Hannah Edelstein
+  - Jeff Latosik
+  - Jeff Shotts
+  - Jeff Steudel
+  - Jen Sookfong Lee
+  - Jennica Harper
+  - Jennifer L. Knox
+  - Jennifer Moxley
+  - Jericho Brown
+  - Jess Housty
+  - Jessa Crispin
+  - Jillian Christmas
+  - Jim Harrison
+  - John B. Lee
+  - John Berger
+  - John Gardner
+  - John Kinsella
+  - John Newlove
+  - John Oliver
+  - John Olson
+  - John Raulston Saul
+  - John Steffler
+  - Jonah Lehrer
+  - Jonathan Franzen
+  - Jordan Abel
+  - Jorge Luis Borges
+  - Jorie Graham
+  - Joseph Brodsky
+  - Joseph Conrad
+  - Joseph Heller
+  - Joseph Mains
+  - Josh Ritter
+  - Joshua Mehigan
+  - Joshua Trotter
+  - Judith Copithorne
+  - Julia McCarthy
+  - Juliane Okot Bitek
+  - Julie Bruck
+  - Jumoke Verissimo
+  - Jun'ichirō Tanizaki
+  - Junie Desil
+  - Jónína Kirton
+  - K Darch
+  - K.D. Miller
+  - Kae Sun
+  - Kakuzo Okakura
+  - Karen Connelly
+  - Kate Braid
+  - Kaveh Akbar
+  - Kay Ryan
+  - Kayla Czaga
+  - Kazuo Ishiguro
+  - Ken Babstock
+  - Kenneth Goldsmith
+  - Kerry-Lee Powell
+  - Kevin McNeilly
+  - Kevin Spenst
+  - Kim Fu
+  - Kim Maltman
+  - Knopf
+  - Kofi Awoonor
+  - Kurt Vonnegut
+  - Kyla Jamieson
+  - L.S. Mensah
+  - Lara Bozabalian
+  - Larry Levis
+  - Laura Farina
+  - Laura Matwichuk
+  - Lazienki Park
+  - Leaf Press
+  - Leah Horlick
+  - Leanne Betasamosake Simpson
+  - Leanne Dunic
+  - Lee Maracle
+  - Leontia Flynn
+  - Les Murray
+  - Lewis Hyde
+  - Li-Young Lee
+  - Lili Taylor
+  - Lillian Boraks-Nemetz
+  - Linda Besner
+  - Lisa Jarnot
+  - Lisa Richter
+  - Lisa Robertson
+  - Liz Berry
+  - Liz Windhorst Harmer
+  - Lorna Crozier
+  - Lorna Goodison
+  - Lorrie Moore
+  - Louis Menard
+  - Louise Gluck
+  - Lucas Crawford
+  - Lucille Clifton
+  - Luke Hathaway
+  - Lynn Coady
+  - Lyric
+  - M. NourbeSe Philip
+  - Madhur Anand
+  - Malahat listserv
+  - Mallory Tater
+  - Margaret Atwood
+  - Maria Reva
+  - Mariner Janes
+  - Mark Callanan
+  - Mark Doty
+  - Mark Lavorato
+  - Martin Amis
+  - Marvin Bell
+  - Mary Karr
+  - Mary Oliver
+  - Matsuki Masutani
+  - Matsuo Basho
+  - Matt Rader
+  - Matthew Chiasson
+  - Matthew Walsh
+  - Matthew Zapruder
+  - McClelland & Stewart
+  - McGill-Queens
+  - Meghan Fandrich
+  - Michael Bazzett
+  - Michael Crummey
+  - Michael Harris
+  - Michael Hingston
+  - Michael Lista
+  - Michael Lithgow
+  - Michael V. Smith
+  - Mikhail Bulgakov
+  - Miranda Pearson
+  - Molly Cross-Blanchard
+  - Molly Peacock
+  - Monty Reid
+  - Mother Tongue Publishing
+  - Muriel Rukeyser
+  - Naeem Murr
+  - Neil Astley
+  - Neil Gaiman
+  - Neil Surkan
+  - Nelson Ball
+  - New Star Books
+  - New York Review Books
+  - Ngwatilo Mawiyoo
+  - Nicholas Bradley
+  - Nick Thran
+  - Nightwood Editions
+  - Nii Ayikwei Parkes
+  - Nora Gould
+  - Now or Never
+  - Nyla Matuk
+  - OGOV
+  - Oh Not So Great
+  - Onjana Yawnghwe
+  - Oolichan Books
+  - Orchises Press
+  - PRISM
+  - Pablo Neruda
+  - Palimpsest Press
+  - Patricia Young
+  - Patrick Dubost
+  - Patrick Friesen
+  - Patrick Gillespie
+  - Patrick Lane
+  - Paul Fussell
+  - Paul Simon
+  - Paul Vermeersch
+  - Peepal Tree Press
+  - Peter Levi
+  - Peter McDonald
+  - Peter Norman
+  - Peter Richardson
+  - Phil Hall
+  - Philip Larkin
+  - Philip Levine
+  - Phoebe Wang
+  - Porcupine's Quill
+  - Prince Mensah
+  - Quattro Books
+  - Quincy Lehr
+  - Rachel Thompson
+  - Rae Armantrout
+  - Rahila's Ghost Press
+  - Rainer Maria Rilke
+  - Raoul Fernandes
+  - Rebecca Solnit
+  - Red Fez
+  - Renee Sarojini Saklikar
+  - Richard Greene
+  - Richard Hugo
+  - Richard Kelly Kemick
+  - Richard Siken
+  - Rob Winger
+  - Robert Bringhurst
+  - Robert Colman
+  - Robert Duncan
+  - Robert Frost
+  - Robert Hass
+  - Robert Louis Stevenson
+  - Robert MacFarlane
+  - Robert Pinsky
+  - Robin Richardson
+  - Robyn Sarah
+  - Rodney DeCroo
+  - Roger Farr
+  - Ronsdale Press
+  - Roo Borson
+  - Russell Thornton
+  - Ruth Daniell
+  - Ruth Roach Pierson
+  - Ryan Gaio
+  - SFU Publications
+  - SJ Fowler
+  - STHS
+  - Sadiqa de Meijer
+  - Samantha Nock
+  - Sandy Shreve
+  - Sarah Yi-Mei Tsiang
+  - Seamus Heaney
+  - Sean Howard
+  - Selina Boan
+  - Shane Neilson
+  - Shaun Robinson
+  - Shauna Paull
+  - Shazia Hafiz Ramji
+  - Sina Queyras
+  - Souvankham Thammavongsa
+  - Spencer Gordon
+  - Stanley Kunitz
+  - Stephanie Burt
+  - Stephen Collis
+  - Stephen Marche
+  - Stephen Thomas
+  - Steve Almond
+  - Steven Heighton
+  - Stevie Howell
+  - Strangers
+  - Sue Goyette
+  - Sue Sinclair
+  - Susan Gillis
+  - Susan Glickman
+  - T.S. Eliot
+  - TOSOO
+  - TOSOO Photo Contest
+  - Ta-Nehisi Coates
+  - Talonbooks
+  - Tanja Bartel
+  - Ted Berrigan
+  - Terence Young
+  - Terrance Hayes
+  - Terry Ann Carter
+  - Tess Liem
+  - The Green Waves
+  - The News
+  - Thistledown Press
+  - Tim Bowling
+  - Tim Lilburn
+  - Todd Boss
+  - Tolu Oloruntoba
+  - Tom Waits
+  - Tom Wayman
+  - Toni Morrison
+  - Tony Hoagland
+  - Tracy K. Smith
+  - Trevor Corkum
+  - Truman Capote
+  - Turnstone Press
+  - Tāriq Malik
+  - University of Alberta Press
+  - Vehicule Press
+  - Vincent Colistro
+  - Vladimir Nabokov
+  - W.M. Herring
+  - W.S. Di Piero
+  - W.S. Merwin
+  - W.W. Norton
+  - WTPAD
+  - Wallace Stevens
+  - Wanda John-Kehewin
+  - Weather
+  - Wilfrid Laurier University Press
+  - Wilfrid Sheed
+  - William Matthews
+  - William Vallières
+  - Wisława Szymborska
+  - Wolsak & Wynn
+  - YVR launch interview series
+  - Yasuko Thanh
+  - Yvonne Blomer
+  - Zachariah Wells
+  - Zambia
+  - al purdy a-frame
+  - andrea bennett
+  - annie ross
+  - c'mon vancouver
+  - child of saturday
+  - christmas ideas
+  - community
+  - dead poets
+  - deskblogamania
+  - e.e. cummings
+  - east coast trip 2011
+  - ghosts
+  - interview
+  - james moore
+  - non-poem
+  - personal
+  - poem
+  - quote
+  - quovent
+  - really?
+  - review
+  - short story
+  - splattered earth
+  - stephanie roberts
+  - tidbits
+  - year in review
+  relme:
+    https://rollofnickels.blogspot.com/: true
+  last_post_title: The 2025 Fraser Valley Writers Festival - November 7 and 8 in Abbotsford!
+  last_post_description: I'm in my third year coordinating the Fraser Valley Writers
+    Festival, and we're very excited about this year's lineup! The festival will take
+    place on November 7th and 8th at the University of the
+  last_post_date: "2025-10-03T16:39:00Z"
+  last_post_link: https://rollofnickels.blogspot.com/2025/10/the-2025-fraser-valley-writers-festival.html
+  last_post_categories:
+  - community
+  last_post_language: ""
+  last_post_guid: b97b46a5bc3a41f5c133c158a8a20491
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 24
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 0
+---

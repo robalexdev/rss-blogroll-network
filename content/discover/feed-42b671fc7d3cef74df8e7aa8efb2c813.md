@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I Made A Real-Time Build Visualizer
-  last_post_description: Sometimes software takes a long time to compile just due
-    to how much code it has, like in the LLVM project. But often a build is slower
-    than it could be for dumb, fixable reasons. I’ve had the
-  last_post_date: "2025-08-13T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/syscall-build-snooping/
+  last_post_title: Hot reloading is better than SwiftUI previews
+  last_post_description: Did you know you can change the code of a SwiftUI app while
+    it’s running? And that you can do it without using Xcode? The technique is called
+    ‘hot reloading’ and I’ll show you how to do it by
+  last_post_date: "2025-10-13T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/hot-reloading-swiftui/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fe32b83c6b75fda73cc747777e24d3c
+  last_post_guid: c45e2ee9e1264d34412994037bb2fb81
   score_criteria:
     cats: 0
     description: 3

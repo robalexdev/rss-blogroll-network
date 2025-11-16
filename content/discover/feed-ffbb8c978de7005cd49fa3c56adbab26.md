@@ -1,6 +1,6 @@
 ---
 title: Leilukin's Hub
-date: "2025-08-17T01:39:59Z"
+date: "2025-11-03T15:31:13Z"
 description: Leilukin's personal website.
 params:
   feedlink: https://leilukin.com/feed.xml
@@ -24,13 +24,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Changelog: 17 August 2025'
+  last_post_title: 'Changelog: 3 November 2025'
   last_post_description: ""
-  last_post_date: "2025-08-17T01:39:59Z"
+  last_post_date: "2025-11-03T15:31:13Z"
   last_post_link: https://leilukin.com/changelogs/2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1572c1e827d35ff8272f2bdb90a77f0b
+  last_post_guid: 077d41a2cd06f573b40cfb8d89234693
   score_criteria:
     cats: 0
     description: 3

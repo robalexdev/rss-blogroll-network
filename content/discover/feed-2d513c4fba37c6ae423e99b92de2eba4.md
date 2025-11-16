@@ -18,14 +18,15 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №25·08·26
-  last_post_description: JJ 的第二款
-  last_post_date: "2025-08-26T07:20:35Z"
+  last_post_title: 安妮薇看看 №25·10·22
+  last_post_description: "Anyway.FM 十周年上海线下活动——「十字路口」（早鸟预售）\n十年播客两茫茫，不思量，自难忘。相顾无常，惟有线下讲
+    / \U0001F4E2"
+  last_post_date: "2025-10-22T10:02:22Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 4ba165da7e40880c5595977d58d01b96
+  last_post_guid: ff8db9d9a1a9955c58d1f77da1a90401
   score_criteria:
     cats: 0
     description: 3

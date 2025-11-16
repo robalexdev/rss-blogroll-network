@@ -18,16 +18,16 @@ params:
   categories:
   - Firefox
   relme: {}
-  last_post_title: Firefox 32-bit Linux Support to End in 2026
-  last_post_description: For many years, Mozilla has continued to provide Firefox
-    for 32-bit Linux systems long after most other browsers and operating systems
-    ended support. We made this choice because we care … Read
-  last_post_date: "2025-09-05T09:18:30Z"
-  last_post_link: https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/
+  last_post_title: Raising the Minimum Android Version for Firefox
+  last_post_description: Mozilla has always aimed to make Firefox available to as
+    many people as possible, including those on older Android devices. For years,
+    we’ve supported versions of Android going all the … Read
+  last_post_date: "2025-09-15T17:00:36Z"
+  last_post_link: https://blog.mozilla.org/futurereleases/2025/09/15/raising-the-minimum-android-version-for-firefox/
   last_post_categories:
   - Firefox
   last_post_language: ""
-  last_post_guid: 3c99e9086959aeec942638c0eb109642
+  last_post_guid: 00221a0baef43e9d0ae0d7339db1a80b
   score_criteria:
     cats: 0
     description: 3

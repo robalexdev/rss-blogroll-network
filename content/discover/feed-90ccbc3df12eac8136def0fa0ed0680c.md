@@ -21,17 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Remember when the IE 11 User-Agent forced Mozilla to freeze part
-    of its User-Agent string (last week)
-  last_post_description: |-
-    If you happen to be using Firefox Beta 109 on an overpriced MacBook Pro that has a sticky letter s today (the 29th of December, 2022), this is what the User-Agent string looks like:
-
-    Mozilla/5.0
-  last_post_date: "2022-12-29T00:00:00-05:00"
-  last_post_link: https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html
+  last_post_title: A new, new logo for the W3C
+  last_post_description: In an effort to pivot this site into a full on graphic design
+    side business after 2 blog posts about logos in a row (hit me up exclusivly on
+    FB to request a consultation), I thought I would reveal my
+  last_post_date: "2025-10-25T00:00:00-04:00"
+  last_post_link: https://miketaylr.com/posts/2025/10/new-new-logo-for-w3c.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0b8c13ce502c22495d945c7b452a69e9
+  last_post_guid: 0ba8b0c582cd13411803355ee2dfbc5c
   score_criteria:
     cats: 0
     description: 3

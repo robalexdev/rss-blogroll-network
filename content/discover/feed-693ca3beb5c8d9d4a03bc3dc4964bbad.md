@@ -16,33 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - CSS
-  - JavaScript
+  - GitHub
   relme:
     https://github.com/Lruihao: true
     https://lruihao.cn/: true
-  last_post_title: 让 Mermaid 图表自动跟随系统深浅色
-  last_post_description: Mermaid 是目前最流行的「文本即图表」渲染库，但它对「系统深浅色自动切换」的支持一直暧昧不明。官方 Roadmap
-  last_post_date: "2025-08-16T12:37:49+08:00"
-  last_post_link: https://lruihao.cn/posts/mermaid-theming/
+  last_post_title: Command line tool for generating a changelog from git tags and
+    commit history
+  last_post_description: "auto-changelog-plus\n \n \n \n中文 | English\n从 git 提交历史自动生成
+    changelog 的命令行工具。\n\n基于 auto-changelog 和 约定式提交 规范。\n\n\n\U0001F4E6 安装\n \n \n
+    \n\nnpm install "
+  last_post_date: "2025-08-30T15:40:19Z"
+  last_post_link: https://lruihao.cn/projects/lruihao/auto-changelog-plus/
   last_post_categories:
-  - CSS
-  - JavaScript
+  - GitHub
   last_post_language: ""
-  last_post_guid: 62698086f42f64a0bf237ae917f956c2
+  last_post_guid: fec4d80e79a306a8cf12526cf205e2d4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

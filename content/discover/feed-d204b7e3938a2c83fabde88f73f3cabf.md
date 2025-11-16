@@ -24,16 +24,15 @@ params:
   categories: []
   relme:
     https://max-inden.de/: true
-  last_post_title: Talk "Fast UDP makes QUIC quicker - optimizing Firefox’s HTTP3
-    IO stack" @FOSDEM
+  last_post_title: netstack.fm - Modern networking in Firefox with Max Inden
   last_post_description: |-
-    I presented my recent work on Firefox’s HTTP3/QUIC stack in the Network Devroom at FOSDEM 2025.
-    QUIC is a new transport protocol on top of UDP, transporting a large portion of the Internet traffic
-  last_post_date: "2025-02-02T00:00:00Z"
-  last_post_link: https://max-inden.de/post/2025-02-02-fast-udp-makes-quic-quicker/
+    I joined Glen on the netstack.fm podcast to talk about modern networking in Firefox.
+    We discussed Mozilla ’s work on Firefox’s QUIC and HTTP/3 stack — improving UDP I/O, congestion control, and
+  last_post_date: "2025-10-29T00:00:00Z"
+  last_post_link: https://max-inden.de/post/modern-networking-in-firefox-podcast/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: be617aff30adc0290fabd8fd354ad509
+  last_post_guid: 1e46f02bc249b9705bb29bddb400b252
   score_criteria:
     cats: 0
     description: 3

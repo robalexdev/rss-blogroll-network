@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2025-07-24T23:22:48+08:00"
+date: "2025-11-14T22:25:31+08:00"
 description: 我欲种菜 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -19,22 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - essay
-  - 杂谈
+  - journal
+  - 工具
   relme: {}
-  last_post_title: 品味
+  last_post_title: 博客再更新
   last_post_description: !!binary |
-    5pel5Ymn44CK5pyA5a6M576O56a75ama44CL5Lit5pyJ6L+Z5qC35LiA5q615oOF6IqC77
-    ya5a6M5YWo5LiN5oeC5qOS55CD55qE55S35Li76ZyA6KaB6Zmq5a6i5oi35omT5qOS55CD
-    77yM5q+P5qyh6YO96KKr6Zeu55qE5LiN55+l5omA5o6q44CC5aWz5oCn5Y+L5Lq65ZGK6K
-    +J5LuW77yM5LiL5qyh5YaN6KKr6Zeu5pe25bCx6K+05Zac5qyi55qE55A=
-  last_post_date: "2025-07-23T23:02:50+08:00"
-  last_post_link: https://jubeny.com/2025/07/about-taste/
+    5YWs5Y+46Jm95o6o6I2Q5oiW5by65Yi25p+Q5Lqb5bel5L2c5rWB56iL5L2/55So5YaF6Y
+    OoQUnlt6XlhbfvvIzkvYbmiJHnmoTlt6XkvZzml6DmtonvvIzml6XluLjnlJ/mtLvkuZ/m
+    l6DmtonvvIzmiYDku6VBSeebm+ihjOW3suS5he+8jOaIkeWNtOaOpeinpuS4jeWkmu+8jO
+    WFtOi2o+mYkeePiuOAguWmu+eahOW3peS9nOWwseWkp+S4jeWQjOS6hu8=
+  last_post_date: "2025-11-09T14:58:00+08:00"
+  last_post_link: https://jubeny.com/2025/11/update-blog-again/
   last_post_categories:
-  - essay
-  - 杂谈
+  - journal
+  - 工具
   last_post_language: ""
-  last_post_guid: 4171cae6a3c768bc957f9c655dee7f19
+  last_post_guid: 2e9c977db52c46a21ae5cd0fe5d84cf5
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Kaffa.im
-date: "2025-06-05T12:00:00+08:00"
+date: "2025-10-20T01:59:00+08:00"
 description: ""
 params:
   feedlink: https://kaffa.im/feeds/all.atom.xml
@@ -19,18 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bose SoundLink
-  - digital
+  - ai-doctor
+  - reading
   relme: {}
-  last_post_title: 在 Windows 上 Bose SoundLink 音箱声音自动停止问题的解决
-  last_post_description: 本文记录解决 Bose SoundLink Speaker 声音自动停止播放问题的解决方法。
-  last_post_date: "2025-06-05T12:00:00+08:00"
-  last_post_link: https://kaffa.im/the-solution-to-the-bose-soundlink-speaker-automatically-stopping-sound-on-windows.html
+  last_post_title: AI 在常见病上取代医生
+  last_post_description: 试了试 AI 的诊疗水平
+  last_post_date: "2025-10-20T01:59:00+08:00"
+  last_post_link: https://kaffa.im/ai-replace-doctors-common-illness-care.html
   last_post_categories:
-  - Bose SoundLink
-  - digital
+  - ai-doctor
+  - reading
   last_post_language: ""
-  last_post_guid: 93efa40261456df78c3d2fa4f8ea4bfe
+  last_post_guid: 0846cb2082da6ac097dd9fa4529e4bb0
   score_criteria:
     cats: 0
     description: 0

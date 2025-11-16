@@ -18,23 +18,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#nist'
-  - '#iso'
-  - '#deployment'
-  - '#performance'
-  - '#security'
+  - '#ietf'
+  - '#objections'
+  - '#censorship'
+  - '#hybrids'
   relme: {}
-  last_post_title: McEliece standardization
-  last_post_description: 'Looking at what''s happening, and analyzing rationales.
-    #nist #iso #deployment #performance #security'
-  last_post_date: "2025-07-17T21:28:29Z"
-  last_post_link: http://blog.cr.yp.to/20250423-mceliece.html
+  last_post_title: MODPOD
+  last_post_description: 'The collapse of IETF''s protections for dissent. #ietf #objections
+    #censorship #hybrids'
+  last_post_date: "2025-10-07T14:58:28Z"
+  last_post_link: http://blog.cr.yp.to/20251005-modpod.html
   last_post_categories:
-  - '#nist'
-  - '#iso'
-  - '#deployment'
-  - '#performance'
-  - '#security'
+  - '#ietf'
+  - '#objections'
+  - '#censorship'
+  - '#hybrids'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:

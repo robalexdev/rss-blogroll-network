@@ -1,6 +1,6 @@
 ---
 title: Mark's Notes
-date: "2025-08-25T12:00:00Z"
+date: "2025-10-22T12:00:00Z"
 description: ""
 params:
   feedlink: https://www.kmjn.org/notes/recent.atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Teaching programming languages
+  last_post_title: ASP level generation examples from our PCG textbook
   last_post_description: ""
-  last_post_date: "2025-08-25T12:00:00Z"
-  last_post_link: https://www.kmjn.org/notes/teaching_pls.html
+  last_post_date: "2025-10-22T12:00:00Z"
+  last_post_link: https://www.kmjn.org/notes/pcgbook_asp_examples.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6cad8713d8580ec2f60530d81801e4ac
+  last_post_guid: 3b6298480d2bf1575671bd57153cd449
   score_criteria:
     cats: 0
     description: 0

@@ -12,13 +12,16 @@ params:
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
     description: ""
+    id: 376fcaa433eaea9f886962009443cbff
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
   recommender:
-  - https://frankmeeuwsen.com/feed.xml
+  - https://blog.frankmeeuwsen.com/feed.xml
   categories: []
   relme: {}
   last_post_title: ATConf

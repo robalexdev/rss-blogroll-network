@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.7.54.
+      v0.8.4.
     id: 7def71058aaab40ff83909b86eff9005
   - title: Planet Debian
     description: ""
@@ -25,21 +25,22 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme:
+    https://git.pault.ag/paultag: true
     https://github.com/paultag: true
     https://k3xec.com/: true
     https://notes.pault.ag/: true
     https://pault.ag/: true
     https://soylent.green/@paul: true
-  last_post_title: The Promised LAN
+  last_post_title: It's NOT always DNS.
   last_post_description: |-
-    The Internet has changed a lot in the last 40+ years. Fads have come and gone.
-    Network protocols have been designed, deployed, adopted, and abandoned.
-    Industries have come and gone. The types of
-  last_post_date: "2025-06-16T11:58:00-04:00"
-  last_post_link: https://notes.pault.ag/tpl/
+    I’ve written down a new rule (no name, sorry) that I’ll be repeating to myself
+    and those around me. “If you can replace ‘DNS’ with ‘key value store mapping
+    a name to an ip’ and it still
+  last_post_date: "2025-10-27T13:15:00-04:00"
+  last_post_link: https://notes.pault.ag/its-not-always-dns/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 784b4f6e914dae0df417edad71f3fbc3
+  last_post_guid: 5725a5b867c2e55a14ec6d4cb9592175
   score_criteria:
     cats: 0
     description: 3

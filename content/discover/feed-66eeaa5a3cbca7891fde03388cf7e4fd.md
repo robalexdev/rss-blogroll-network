@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2025-09-07T16:48:19+08:00"
+date: "2025-11-05T17:48:13+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -19,6 +19,7 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended:
   - https://7gugu.com/index.php/feed/
+  - https://blog.blueke.top/rss.xml
   - https://blog.fkun.tech/feed/
   - https://blog.glumi.cn/rss.xml
   - https://blog.hslzz.cn/atom.xml
@@ -28,11 +29,14 @@ params:
   - https://emohe.cn/rss.xml
   - https://geektutu.com/atom.xml
   - https://mozz.ie/index.xml
+  - https://nihaha.com/feed/
   - https://note.redcha.cn/rss.xml
   - https://pinpe.top/rss.xml
   - https://sinofine.me/atom.xml
+  - https://ttio.cc/feed.xml
   - https://ttio.cc/feed/
   - https://www.blueke.top/rss.xml
+  - https://www.glowisle.me/atom.xml
   - https://www.hansjack.com/feed/
   - https://www.wikimoe.com/rss
   - https://www.yunyoujun.cn/atom.xml
@@ -41,27 +45,29 @@ params:
   - https://rpvvn.github.io/atom.xml
   - https://rpvvn.github.io/rss.xml
   - https://geektutu.com/feed.xml
+  - https://www.wikimoe.com/rss/blog
+  - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - Quine
-  - Quine Relay
-  - 压缩包
-  - 自产生程序
+  - Forever
+  - Git
+  - Gitea
+  - 镜像
   relme:
     https://github.com/Mabbs: true
     https://mabbs.github.io/: true
     https://mayx.eu.org/: true
-  last_post_title: 关于ZIP Quine与自产生程序的探索
-  last_post_description: 描述自己的代码……是一种什么样的感觉？
-  last_post_date: "2025-09-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2025/09/01/quine.html
+  last_post_title: 让博客永恒的探索
+  last_post_description: Mayx Forever Project – Phase II
+  last_post_date: "2025-11-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2025/11/01/mirrors.html
   last_post_categories:
-  - Quine
-  - Quine Relay
-  - 压缩包
-  - 自产生程序
+  - Forever
+  - Git
+  - Gitea
+  - 镜像
   last_post_language: ""
-  last_post_guid: f4286e76bcef5c744bdaca69ed2b3284
+  last_post_guid: 5e870e2db08979efe3ed8a38ef42660b
   score_criteria:
     cats: 0
     description: 3

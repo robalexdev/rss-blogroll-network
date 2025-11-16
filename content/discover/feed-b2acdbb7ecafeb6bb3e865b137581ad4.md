@@ -1,6 +1,6 @@
 ---
 title: Logging the Switch
-date: "2025-05-18T13:46:38+02:00"
+date: "2025-10-04T09:44:49+02:00"
 description: Logging the Switch is een weblog van Christian Luijten, die in 2004 besloot
   dat hij zou stoppen met PCs en switchen naar de Mac. In eerste instantie was het
   plan om te switchen van Linux op de PC
@@ -15,11 +15,15 @@ params:
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
     description: ""
+    id: 376fcaa433eaea9f886962009443cbff
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
-  - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  - https://blog.frankmeeuwsen.com/feed.xml
+  categories:
+  - zonsverduistering
   relme:
     https://github.com/islandsvinur: true
     https://luijten.org/: true
@@ -33,7 +37,8 @@ params:
     grote stukken karton, een prikpen en een vergrootglas weer ons eigen
   last_post_date: "2025-03-29T00:00:00+01:00"
   last_post_link: https://luijten.org/2025/03/29/zonsverduistering.html
-  last_post_categories: []
+  last_post_categories:
+  - zonsverduistering
   last_post_language: ""
   last_post_guid: 3b20833f2ee1ec05e2cea26aafea25d3
   score_criteria:
@@ -42,13 +47,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

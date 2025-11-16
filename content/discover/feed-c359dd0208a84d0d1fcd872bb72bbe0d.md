@@ -1,6 +1,6 @@
 ---
 title: Victor Blomqvist's blog
-date: "2025-06-08T00:00:00Z"
+date: "2025-09-21T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.viblo.se/feed.atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 8 Dos and Don'ts for the tech interview
+  last_post_title: Windows Dev Drive - Too good to be true?
   last_post_description: ""
-  last_post_date: "2025-06-08T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/interviewing/
+  last_post_date: "2025-09-21T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/devdrive/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11b85a0c40a9a6b5cced22ca8209c85b
+  last_post_guid: 1b992dff01b3b794a3ef3b331c30e46d
   score_criteria:
     cats: 0
     description: 0

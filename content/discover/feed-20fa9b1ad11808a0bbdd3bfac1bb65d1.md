@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2025-09-09T21:25:42Z"
+date: "2025-10-28T02:29:23Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Automating Quordle With an LLM
-  last_post_description: At my current company, there's been a big push to use AI
-    to automate everything we do. Anything that requires human intervention, isn't
-    super critical, and happens regularly is considered a good ca
-  last_post_date: "2025-09-09T21:18:50Z"
-  last_post_link: https://flowtwo.io/post/automating-quordle-with-an-llm
+  last_post_title: There is No Antimemetics Division
+  last_post_description: '"There is an invisible monster which follows me around and
+    likes to eat my memories," Marion explains, patiently. "SCP-4987. Don''t look
+    it up, it''s not there. I''ve learn'
+  last_post_date: "2025-10-12T15:47:43Z"
+  last_post_link: https://flowtwo.io/post/there-is-no-antimemetics-division
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f486b07272567fbbc91bccafb995d13d
+  last_post_guid: 3e32d6953436d8d2786764fd61f1a99a
   score_criteria:
     cats: 0
     description: 3

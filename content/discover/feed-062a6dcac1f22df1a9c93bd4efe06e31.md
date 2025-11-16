@@ -26,15 +26,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Labyrinth Uncial
-  last_post_description: Today I spent all morning drawing uncial-style lettering
-    on my iPad. (Maybe I’ll make a font?) One of the things I made was this wordmark,
-    for my favorite movie, which I redrew in Illustrator, then
-  last_post_date: "2025-09-14T19:05:00+09:00"
-  last_post_link: https://lmnt.me/blog/sketchbook/labyrinth-uncial.html
+  last_post_title: Happiest Cruise
+  last_post_description: The pastel palette of “it’s a small world” in Tokyo Disneyland
+    is unlike other iterations of the attraction throughout the world. This simple
+    triangle motif, however, is characteristic of its
+  last_post_date: "2025-11-08T10:00:00+09:00"
+  last_post_link: https://lmnt.me/blog/wallpapers/happiest-cruise.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69d5874202c9f92aa5801dfda0cc704e
+  last_post_guid: dfe72d50f6769a8f7a00dbf4ea0eaaf1
   score_criteria:
     cats: 1
     description: 3

@@ -1,5 +1,5 @@
 ---
-title: Jakarta EE Archives - OmniFish - Modern Jakarta EE Runtimes
+title: Jakarta EE – OmniFish – Modern Jakarta EE Runtimes
 date: "1970-01-01T00:00:00Z"
 description: OmniFish - Modern Jakarta EE Runtimes
 params:
@@ -16,26 +16,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Announcements
-  - GlassFish
-  - JNoSQL
+  - Jakarta Data
   - Jakarta EE
-  - OmniFish
+  - Jakarta NoSQL
+  - Other
+  - conferences
   relme: {}
-  last_post_title: 'Eclipse JNoSQL 1.1.0 Released: Faster, Smarter, and More Compatible'
-  last_post_description: Eclipse JNoSQL 1.1.10 is now available. This release delivers
-    a new JPA driver for Jakarta Data repositories, major performance improvements,
-    new features, and upgraded drivers, making it easier than
-  last_post_date: "2025-09-07T15:36:07Z"
-  last_post_link: https://omnifish.ee/eclipse-jnosql-1-1-0-released-faster-smarter-and-more-compatible/?utm_source=rss&utm_medium=rss&utm_campaign=eclipse-jnosql-1-1-0-released-faster-smarter-and-more-compatible
+  last_post_title: 'Next level persistence in Jakarta EE: Jakarta Data and Jakarta
+    NoSQL – JFall slides'
+  last_post_description: At the WeAreDevelopers World Congress 2024, OmniFish presented
+    about what Jakarta EE is, and what the new features are in Jakarta EE 11. Here
+    are the slides from our presentation.
+  last_post_date: "2025-11-14T19:13:52Z"
+  last_post_link: https://omnifish.ee/next-level-persistence-in-jakarta-ee-jakarta-data-and-jakarta-nosql-jfall-slides/?utm_source=rss&utm_medium=rss&utm_campaign=next-level-persistence-in-jakarta-ee-jakarta-data-and-jakarta-nosql-jfall-slides
   last_post_categories:
-  - Announcements
-  - GlassFish
-  - JNoSQL
+  - Jakarta Data
   - Jakarta EE
-  - OmniFish
+  - Jakarta NoSQL
+  - Other
+  - conferences
   last_post_language: ""
-  last_post_guid: 904c0f004cd5407aecf2c61208b98f8b
+  last_post_guid: 4fdc7af0b53c22add43f86a2814c7d5a
   score_criteria:
     cats: 0
     description: 3

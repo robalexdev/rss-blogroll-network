@@ -11,31 +11,33 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI Agents
+  - AI
+  - AI Engineering
+  - CI/CD
   - Contributed
-  - Data
-  - Large Language Models
+  - DevOps
   relme: {}
-  last_post_title: Agentic AI Is Key To Preventing Costly AI Hallucinations
+  last_post_title: 'AI Code Doesn’t Survive in Production: Here’s Why'
   last_post_description: |-
-    Ask any GenAI agent a question, and you risk receiving an inaccurate response or hallucination. AI hallucinations pose significant risks
-    The post Agentic AI Is Key To Preventing Costly AI
-  last_post_date: "2025-09-14T16:00:27Z"
-  last_post_link: https://thenewstack.io/agentic-ai-is-key-to-preventing-costly-ai-hallucinations/
+    I see a new demo every day that looks something like this: A single prompt generates a complete application. A
+    The post AI Code Doesn’t Survive in Production: Here’s Why appeared first on The New
+  last_post_date: "2025-11-15T18:00:02Z"
+  last_post_link: https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/
   last_post_categories:
-  - AI Agents
+  - AI
+  - AI Engineering
+  - CI/CD
   - Contributed
-  - Data
-  - Large Language Models
+  - DevOps
   last_post_language: ""
-  last_post_guid: 77e7d091d5e51d482e65fa46d08519dd
+  last_post_guid: e8d90936ad98223ef9938b551d810258
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: eighty-twenty news
-date: "2025-09-04T08:23:22Z"
+date: "2025-10-12T08:38:50Z"
 description: ""
 params:
   feedlink: https://eighty-twenty.org/index.atom

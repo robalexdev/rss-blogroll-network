@@ -1,6 +1,6 @@
 ---
 title: PythonClub
-date: "2022-10-17T15:00:00-03:00"
+date: "2025-10-27T21:30:00-03:00"
 description: ""
 params:
   feedlink: https://pythonclub.com.br/feeds/all.atom.xml
@@ -22,17 +22,17 @@ params:
   - performance
   - python
   relme: {}
-  last_post_title: Questões para estudo de algoritmos
-  last_post_description: 'Recentemente li o texto do Maycon Alves, "3 algoritmos para
-    você sua lógica", onde são apresentados 3 problemas para treinar a lógica e escrita
-    de algoritmos: cálculo de fatorial, identificar se'
-  last_post_date: "2022-10-17T15:00:00-03:00"
-  last_post_link: https://pythonclub.com.br/questoes-para-estudo-de-algoritmos.html
+  last_post_title: Testando código que chama serviços da AWS
+  last_post_description: Eu desenvolvo sistemas que utilizam os serviços da AWS faz
+    algum tempo, e ao longo desse tempo houve mudanças na forma como escrevo testes
+    de código que fazem chamadas a seus serviços. Esse texto
+  last_post_date: "2025-10-27T21:30:00-03:00"
+  last_post_link: https://pythonclub.com.br/testando-codigo-aws.html
   last_post_categories:
   - performance
   - python
   last_post_language: ""
-  last_post_guid: 1a4de57a28028e5c099e43bc396fa6cf
+  last_post_guid: d52ed08aa382821fc51854619f7fb972
   score_criteria:
     cats: 0
     description: 0

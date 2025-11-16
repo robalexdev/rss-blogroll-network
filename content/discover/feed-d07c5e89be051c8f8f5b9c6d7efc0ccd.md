@@ -16,35 +16,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 电影
-  - 随笔
+  - Uncategorized
   relme: {}
-  last_post_title: 王家卫·1997·旧金山
-  last_post_description: !!binary |
-    5ZGo5LiJ5pma5LiK77yM5Zyo5pen6YeR5bGx55qE5bCP5Ymn6Zmi55yL5LqG5pil5YWJ5L
-    mN5rOE44CC55S15b2x5pys6Lqr5pep5bCx55yL6L+H5LiN5q2i5LiA5qyh77yM5L2G6L+Z
-    5piv56ys5LiA5qyh5Zyo5aSn6ZO25bmV5LiK5a6M5pW05Zyw6KeC6LWP44CC55S76Z2i55
-    qE6LSo5oSf5Zyo5b2x6Zmi5pS+5aSn5ZCO5pu05pi+57uG6IW777yM5q8=
-  last_post_date: "2025-06-28T03:47:48Z"
-  last_post_link: https://wukan.me/?p=2681
+  last_post_title: 十月份已读乱回
+  last_post_description: English Translation Here 小红书上时不时会看到一些感叹美国生活无聊的帖子，讨论的焦点往往是回国生活是否会更好。我自己经历过H
+  last_post_date: "2025-10-13T04:13:46Z"
+  last_post_link: https://wukan.me/?p=2686
   last_post_categories:
-  - 电影
-  - 随笔
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 626b759dc89a9615266717095f754a17
+  last_post_guid: 1c4e096e0971b1b10d797d4b21d47a3a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

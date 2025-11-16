@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2025-07-18T09:04:00+02:00"
+date: "2025-11-11T17:14:11+01:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -41,16 +41,16 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: Also done with second braining
-  last_post_description: I’ve spent way too much time productivity hacking and fiddling
-    with the perfect PKM (personal knowledge management) system. And I’d increasingly
-    been coming to the same conclusions as Joan
-  last_post_date: "2025-06-30T21:50:00+02:00"
-  last_post_link: https://derekkedziora.com/notes/2025-06-30-also-done-with-second-braining
+  last_post_title: The academic-hobbyist divide in fish keeping
+  last_post_description: Reddit and other online sources of aquarium info are both
+    vexing and all hobbyists really have access to. Reddit is dominated by a lot of
+    people who just repeat “rules” with no concept of whether
+  last_post_date: "2025-11-11T17:13:00+01:00"
+  last_post_link: https://derekkedziora.com/notes/2025-11-11-the-academic-hobbyist-divide-in-fish-keeping
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 68f27f9b3b7f58b4fc7d7582193f384e
+  last_post_guid: ac5a56827a41ac5dd1d6a91c61113901
   score_criteria:
     cats: 0
     description: 3

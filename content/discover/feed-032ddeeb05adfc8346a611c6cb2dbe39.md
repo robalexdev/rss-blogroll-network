@@ -1,6 +1,6 @@
 ---
 title: jngiam
-date: "2025-09-14T18:47:30Z"
+date: "2025-11-15T18:12:08Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
   Brain, Coursera, Stanford. \n\n\n\n..."
 params:
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How MCP is changing the AI agents ecosystem
+  last_post_title: 'MCPs vs APIs: Why designing tools for LLMs is different'
   last_post_description: ""
-  last_post_date: "2025-07-29T00:42:35Z"
-  last_post_link: https://jngiam.bearblog.dev/how-mcp-changed-the-ai-agents-ecosystem/
+  last_post_date: "2025-10-30T16:18:30Z"
+  last_post_link: https://jngiam.bearblog.dev/llm-tool-handling-airtable-hubspot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5a9b0fab012c8a65c32ccc301e826359
+  last_post_guid: de2bc843ee5f5367f6a03318600d0f08
   score_criteria:
     cats: 0
     description: 3

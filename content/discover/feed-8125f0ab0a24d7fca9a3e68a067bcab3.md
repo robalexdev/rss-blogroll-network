@@ -1,6 +1,6 @@
 ---
 title: pd
-date: "2024-12-27T13:20:40+01:00"
+date: "2025-10-13T11:51:48+02:00"
 description: WEBlog -- Wouter's Eclectic Blog
 params:
   feedlink: https://grep.be/blog/pd/index.rss
@@ -17,18 +17,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Writing an extensible JSON-based DSL with Moose
+  last_post_title: RPM and ECDSA GPG keys
   last_post_description: |-
-    At work, I've been maintaining a perl script that needs to run a number
-    of steps as part of a release workflow.
+    Dear lazyweb,
 
-    Initially, that script was very simple, but over time it has grown to do
-    a number of
-  last_post_date: "2024-12-27T12:39:12+01:00"
-  last_post_link: https://grep.be/blog//en/computer/Writing_an_extensible_JSON-based_DSL_with_Moose/
+    At work, we are trying to rotate the GPG signing keys for the Linux packages of
+    the eID middleware
+
+    We created new keys, and they will be installed on all Linux machines that have
+    the
+  last_post_date: "2025-10-13T11:47:38+02:00"
+  last_post_link: https://grep.be/blog//en/lazyweb/RPM_and_ECDSA_GPG_keys/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6b761bdda545bb460aeddac44c327cec
+  last_post_guid: 01d60ea8ee26eced18b75afbd5daf094
   score_criteria:
     cats: 0
     description: 3

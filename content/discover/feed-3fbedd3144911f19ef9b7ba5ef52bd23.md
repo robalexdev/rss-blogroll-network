@@ -18,15 +18,15 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Death By Scrolling Level Design
-  last_post_description: Hi there! I’m Elissa, and I’m the other designer on Death
-    by Scrolling and doing a guest post this week. It’s technically my second project
-    with Ron now, and when I’m not designing my own
-  last_post_date: "2025-09-08T10:46:37+12:00"
-  last_post_link: https://grumpygamer.com/deathbyscrolling7/
+  last_post_title: Death By Testing
+  last_post_description: "The following is a guest post by Robert Megone, the lead
+    tester on Death by Scrolling.\nWish List today!\n\n\t\n\n\n\n\n\nMost of the games
+    I’ve worked on over the years have been slow and deliberate"
+  last_post_date: "2025-10-22T09:35:25+13:00"
+  last_post_link: https://grumpygamer.com/dbs_testing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 613ade2a76500386877db128c6b7feb7
+  last_post_guid: 703769122a3fcc7283748a1ea5c67510
   score_criteria:
     cats: 0
     description: 3

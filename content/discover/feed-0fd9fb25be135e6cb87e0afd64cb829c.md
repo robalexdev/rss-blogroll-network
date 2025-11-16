@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何同时打开多个 Chrome 呢？
-  last_post_description: 哈喽，我是楷鹏。
-  last_post_date: "2025-07-03T00:00:00Z"
-  last_post_link: https://wukaipeng.com/blog/infinite-chrome
+  last_post_title: 内部分享：开发利器 React Query
+  last_post_description: 背景
+  last_post_date: "2025-11-05T00:00:00Z"
+  last_post_link: https://wukaipeng.com/blog/2025/11/05/2025/ React Qeury
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5a8119d29d41cc00676280a95a184ef2
+  last_post_guid: dae59edeb376f7e7a636d8a1e8284a09
   score_criteria:
     cats: 0
     description: 3

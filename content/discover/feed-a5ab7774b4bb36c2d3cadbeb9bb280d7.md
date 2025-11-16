@@ -19,13 +19,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 飞桨 AI Studio：一步步微调你的大模型
-  last_post_description: 飞桨 (PaddlePaddle)是百度自研的深度学习平台，集深度学习核心训练和推理框架、基础模型库、端到端开发套件和丰富的工具组件于一体，对标国外的
-  last_post_date: "2025-07-28T09:54:49+08:00"
-  last_post_link: https://data4fun.cc/blog/2025/07/finetune/
+  last_post_title: 使用 pyspark 处理数据的基本流程
+  last_post_description: |-
+    读数据
+    读数据前，要考虑两个方面：数据的外观（对外呈现给我们的样子）和内在（具体存放的位置）。具体来说，要考虑：
+
+    表头
+    schema
+    存储格式（尽
+  last_post_date: "2025-11-11T16:55:43+08:00"
+  last_post_link: https://data4fun.cc/blog/2025/11/pyspark/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 241d1a1bd21df734f8a0b4fabdea6f09
+  last_post_guid: 948fdc2b1d0e88615cfe539c5eaf8b94
   score_criteria:
     cats: 0
     description: 3

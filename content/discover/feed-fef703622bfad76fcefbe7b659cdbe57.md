@@ -23,6 +23,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -47,11 +50,10 @@ params:
   - https://www.benji.dog/read.xml
   - https://www.benji.dog/watched.xml
   categories:
-  - collaborating
+  - 30 rock
+  - art
   - general
-  - indieweb
-  - programming
-  - social-software
+  - musings
   relme:
     https://artlung.com/: true
     https://artlung.com/comics/: true
@@ -64,21 +66,21 @@ params:
     https://github.com/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
     https://thisbot.day/@affirmations: true
+    https://tilde.club/~artlung/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Etha-Editing
-  last_post_description: 'At #IndieWeb HWC yesterday we ran VS Code w/”Live Share”
-    plugin. In a few minutes 5 of us wrote a web page. Surveillance tech is an enshittified
-    anti-labour mess but tools—the means of'
-  last_post_date: "2025-09-11T14:48:11Z"
-  last_post_link: https://artlung.com/blog/2025/09/11/etha-editing/
+  last_post_title: Sir Dave Coulier
+  last_post_description: At the end of the 20th century a kid who demanded to watch
+    Disney’s The Little Mermaid could watch it. On VHS cassettes and later on DVD,
+    eventually in the back of a car or on a tablet. Kids
+  last_post_date: "2025-11-15T16:11:14Z"
+  last_post_link: https://artlung.com/blog/2025/11/15/sir-dave-coulier/
   last_post_categories:
-  - collaborating
+  - 30 rock
+  - art
   - general
-  - indieweb
-  - programming
-  - social-software
+  - musings
   last_post_language: ""
-  last_post_guid: 4fd92bf3d36f61c0aedd931bba20b250
+  last_post_guid: 3638b60d8034d04145efa34bacbf54f4
   score_criteria:
     cats: 0
     description: 3

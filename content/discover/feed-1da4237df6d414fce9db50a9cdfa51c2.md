@@ -18,14 +18,13 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 写微信公众号和写博客的区别
-  last_post_description: 从 9 月 1 日老T正式开始启用公众号算起，到今天刚好 10 天，这 10 天说短也短，说长也长。短的是，自 2008
-    年老T开始网络写作以来，这 10
-  last_post_date: "2025-09-10T18:20:00+08:00"
-  last_post_link: https://lawtee.com/article/difference-between-wechat-and-blog/
+  last_post_title: AI投资或将把美国拖入另一场反恐战争的泥潭
+  last_post_description: 昨天刷知乎，看到一个问题：“如何评价「AI就是美国的城投」的观点？”
+  last_post_date: "2025-11-13T17:05:00+08:00"
+  last_post_link: https://lawtee.com/article/ai-as-us-second-war-on-terror/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e48d64ba1cc085e5f28f20d225eeeedf
+  last_post_guid: 6cc662e3a09483571031987e80e72448
   score_criteria:
     cats: 0
     description: 3

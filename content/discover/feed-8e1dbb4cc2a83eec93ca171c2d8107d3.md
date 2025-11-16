@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-09-14T07:58:50-07:00"
+date: "2025-11-15T08:11:57-08:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -140,14 +140,14 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Luke 15:7
+  last_post_title: Metastablecoins Are Go!
   last_post_description: ""
-  last_post_date: "2025-09-02T08:00:00-07:00"
-  last_post_link: https://blog.dshr.org/2025/09/luke-157.html
+  last_post_date: "2025-11-13T08:00:00-08:00"
+  last_post_link: https://blog.dshr.org/2025/11/metastablecoins-are-go.html
   last_post_categories:
   - bitcoin
   last_post_language: ""
-  last_post_guid: f69c175a9b870779d051841b8db11794
+  last_post_guid: c575ea8db05b139d13469920e17c14c0
   score_criteria:
     cats: 5
     description: 3

@@ -64,6 +64,7 @@ params:
   categories:
   - '#Obsidian,'
   relme:
+    https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
   last_post_title: "\U0001F4DD 15 September 2025 at 06:26 - The more …..."

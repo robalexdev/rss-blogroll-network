@@ -20,15 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 大语言模型微调 (Fine-tuning Large Language Models)
-  last_post_description: |-
-    什么是微调
-    微调（Fine
-  last_post_date: "2025-08-09T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2025/08/fine-tuning-llms/
+  last_post_title: 业余无线电入门
+  last_post_description: !!binary |
+    57yY6LW3CuS7juWGm+S6i+mihuWfn+S4reeahOmAmuS/oe+8jOWIsOacq+S4lumimOadkO
+    W9seinhuS4reeahOmAmuiBlO+8jOWGjeWIsOi2iumHjuS4reeahOi9pumYn+mAmuivne+8
+    jOmDveiuqeaIkeWvueOAjOaXoOe6v+eUteOAjei/memhueaKgOacr+aEn+WIsOmrmOe6p+
+    WSjOeCq+mFt+OAguWPr+iDveWcqOabtOWkmuS6uueahOecvOS4reaXoOc=
+  last_post_date: "2025-10-25T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2025/10/amateur-radio-introduction/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d68681ed5ecfa878be2083b7f97b608e
+  last_post_guid: 66e9a6dda346bf0dbb086db6b7481b1d
   score_criteria:
     cats: 0
     description: 3

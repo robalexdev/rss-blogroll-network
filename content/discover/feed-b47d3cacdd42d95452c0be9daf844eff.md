@@ -1,7 +1,7 @@
 ---
 title: raju.dev
 date: "1970-01-01T00:00:00Z"
-description: Welcome to Raju Vindane's little corner on the web.
+description: Welcome to Raju's little corner on the web.
 params:
   feedlink: https://raju.dev/rss/
   feedtype: rss
@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fixing Auto-Rotate screen orientation on PostmarketOS devices running
-    MATE DE
-  last_post_description: I have been using my Samsung Galaxy Tab A (2015) with PostmarketOS
-    on and off since last year. It serves as a really good e-book reader with KOReader
-    installed on it. Have tried phosh and plasma
-  last_post_date: "2025-08-29T19:40:08Z"
-  last_post_link: https://raju.dev/fixing-auto-rotate-screen-orientation-on-postmarketos-devices-running-mate-de/
+  last_post_title: Building Debian 13 Trixie Vagrant Image
+  last_post_description: I sometimes use Vagrant to deploy my VM's and recently when
+    I tried to deploy one for Trixie, I could see one available. So I checked the
+    official Debian images on Vagrant cloud at https://portal
+  last_post_date: "2025-09-16T21:14:02Z"
+  last_post_link: https://raju.dev/building-debian-13-trixie-vagrant-image/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 64810dc755d00547003c3c01d18e4bab
+  last_post_guid: d3736a7c7c3e65308f3145c3ba97bb83
   score_criteria:
     cats: 0
     description: 3

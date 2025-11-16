@@ -1,6 +1,6 @@
 ---
 title: eclipser-blog
-date: "2024-10-05T03:22:13+01:00"
+date: "2025-11-11T09:17:06+01:00"
 description: This is a blog of Eclipse enthusiasts from Poznań (Poland) who would
   like to share their knowledge of Eclipse. We work for the IBM Support Center for
   Eclipse at Poznań University of Technology.

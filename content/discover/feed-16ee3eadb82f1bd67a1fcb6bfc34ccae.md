@@ -21,19 +21,20 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 297: Tuesday 2 – Monday 8 September 2025'
-  last_post_description: A lot of chutneying. A wedding. Dolomites Prep. West Wall
-    Rerender commences. Two presents from Pippa, one in our bedroom, pre-dawn. Pippa
-    brought us another of her mouse-shaped presents on Tuesday
-  last_post_date: "2025-09-09T07:49:33Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2025/09/09/herefordshire-week-297-tuesday-2-monday-8-september-2025/
+  last_post_title: 'Herefordshire Week 305: Tuesday 28 October 2025 – Monday 3 November
+    2025'
+  last_post_description: Nepal prep. Garage renovation prep. Failed to get onto Functional
+    Playground again this week (Tuesday ). Still, I’ve got 4 PT sessions so perhaps
+    it’s not a bad thing, and I spent the hour
+  last_post_date: "2025-11-04T09:09:55Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2025/11/04/herefordshire-week-305-tuesday-28-october-2025-monday-3-november-2025/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 7cc9ac53e9ed77adb7c4f25f6e3ff6e7
+  last_post_guid: ee40af9e139a86ab99e7839695693190
   score_criteria:
     cats: 0
     description: 0

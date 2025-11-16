@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Making a Website with Obsidian
-  last_post_description: How can you build a website using Obsidian? From markdown
-    to web.
-  last_post_date: "2025-08-26T15:09:49Z"
-  last_post_link: https://bryanhogan.com/blog/obsidian-website
+  last_post_title: Leaving Germany with 4000€ and no return
+  last_post_description: Starting a new chapter of my life, beginning with my 4000€
+    and a one-way flight to South Korea.
+  last_post_date: "2025-10-18T16:35:50Z"
+  last_post_link: https://bryanhogan.com/blog/new-chapter-nomadic-life
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21039e951170d25867a76cb2645f0630
+  last_post_guid: ef57169d6ec9c75b73d660f53cb793cd
   score_criteria:
     cats: 0
     description: 3

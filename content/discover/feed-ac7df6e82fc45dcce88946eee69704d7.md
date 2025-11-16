@@ -1,6 +1,6 @@
 ---
 title: Good Enough
-date: "2025-04-30T00:00:00Z"
+date: "2025-11-03T00:00:00Z"
 description: Sometimes we write stuff that is good enough.
 params:
   feedlink: https://goodenough.us/feed.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Prettier Email Headers
+  last_post_title: We’re Shutting Down Yay.Boo and Ponder
   last_post_description: ""
-  last_post_date: "2025-04-30T00:00:00Z"
-  last_post_link: https://goodenough.us/blog/2025-04-30-prettier-email-headers/
+  last_post_date: "2025-11-03T00:00:00Z"
+  last_post_link: https://goodenough.us/blog/2025-11-03-we-re-shutting-down-yay-boo-and-ponder/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8cfe90d820eb203ef88a2fbc5c742709
+  last_post_guid: 1743e5a9646fbb648fd778e4e59abfdb
   score_criteria:
     cats: 0
     description: 3

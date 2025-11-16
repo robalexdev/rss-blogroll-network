@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2025-09-15T12:30:29+01:00"
+date: "2025-11-16T00:54:15Z"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,16 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Announcing Web Day Out
-  last_post_description: 'I’m going to cut right to the chase: Clearleft is putting
-    on a brand new conference in 2026. It’s called Web Day Out. It’ll be on Thursday,
-    March 12th right here in Brighton. Tickets are just'
-  last_post_date: "2025-09-02T14:42:00+01:00"
-  last_post_link: https://clearleft.com/thinking/announcing-web-day-out
+  last_post_title: Bridging the gap 2025
+  last_post_description: |-
+    After a year of further research on the subject, we're delighted to announce the launch of the 2025 Bridging the Gap Between Research and Design report.
+
+          Bridging the Gap – 2025In 2024, we
+  last_post_date: "2025-10-02T10:18:00+01:00"
+  last_post_link: https://clearleft.com/thinking/bridging-the-gap-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 089c26cd8a070c95a27fa73d3b9b4844
+  last_post_guid: cd46759c98480eb5d9c840a88faabb90
   score_criteria:
     cats: 0
     description: 3

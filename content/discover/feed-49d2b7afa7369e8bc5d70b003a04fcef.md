@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-09-14T03:30:44Z"
+date: "2025-10-24T21:40:51Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: a few notes on ratelimiting
+  last_post_title: how to draw a tetrapod
   last_post_description: ""
-  last_post_date: "2025-09-14T03:30:44Z"
-  last_post_link: https://dotat.at/@/2025-09-14-ratelimit.html
+  last_post_date: "2025-10-24T21:40:51Z"
+  last_post_link: https://dotat.at/@/2025-10-24-tetrapod.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fadf5d20c97bf4d6ad073fcb4190e87c
+  last_post_guid: aae6d198e891c407d216fa1cf24d2d61
   score_criteria:
     cats: 0
     description: 0

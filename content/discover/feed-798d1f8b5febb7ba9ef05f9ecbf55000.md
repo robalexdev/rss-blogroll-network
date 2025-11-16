@@ -16,19 +16,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Life
+  - How To
   relme:
     https://artiss.blog/: true
-  last_post_title: Ordering a new iPhone with Apple’s Upgrade Programme
-  last_post_description: Not many people realise it’s even a thing but in the UK you
-    can get a minty-fresh iPhone every year as part of Apple’s own iPhone Upgrade
-    Programme. You pay a set amount every month and, with
-  last_post_date: "2025-09-14T08:11:15Z"
-  last_post_link: https://artiss.blog/2025/09/ordering-a-new-iphone-with-apples-upgrade-programme/
+  last_post_title: Facebook Messenger is leaving the desktop – how to get it back!
+  last_post_description: I hate Meta. Just read the news, both about them and their
+    founder, and you’ll see why. I don’t use Instagram anymore, my profile on Facebook
+    is intentionally inaccurate and only live because I
+  last_post_date: "2025-11-15T08:37:16Z"
+  last_post_link: https://artiss.blog/2025/11/facebook-messenger-is-leaving-the-desktop-how-to-get-it-back/
   last_post_categories:
-  - Life
+  - How To
   last_post_language: ""
-  last_post_guid: 69cf28d131572ef461ba734ce5525f51
+  last_post_guid: 1a14b1b7d7878c8e806a9e52bb5e70cc
   score_criteria:
     cats: 0
     description: 3

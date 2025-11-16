@@ -17,13 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What you've helped me do this month
-  last_post_description: ""
-  last_post_date: "2025-08-20T20:11:10Z"
-  last_post_link: https://www.fightforthehuman.com/what-youve-helped-me-do-this-month/
+  last_post_title: Can we make Security Empirical, and why might we want to?
+  last_post_description: 'There''s a paper I recently came across by Mohammad Tahaei
+    and colleagues called Privacy Champions in Sofware Teams: Understanding Their
+    Motivations, Strategies, and Challenges. In it, they interview'
+  last_post_date: "2025-11-14T17:07:00Z"
+  last_post_link: https://www.fightforthehuman.com/empirical-security/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 67bd7b6665d33fd6a2f4e90a7abb8aa3
+  last_post_guid: 61789256f8625e0949f1a86bffa401dc
   score_criteria:
     cats: 0
     description: 3

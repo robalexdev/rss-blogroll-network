@@ -1,5 +1,5 @@
 ---
-title: ᕕ( ᐛ )ᕗ Herman's blog
+title: Herman's blog
 date: "1970-01-01T00:00:00Z"
 description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and hiker
   of mountains.
@@ -11,6 +11,9 @@ params:
     https://herman.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
+  - title: Blogroll Network Seeds
+    description: ""
+    id: c33ed4f6ab2b4055fadbfad39d41c36e
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -25,19 +28,20 @@ params:
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed.xml
   - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://kevquirk.com/posts-feed
   - https://kevquirk.com/watch-log-feed
   categories: []
   relme: {}
-  last_post_title: If Apple cared about privacy
-  last_post_description: Defaults matter
-  last_post_date: "2025-09-10T11:35:00Z"
-  last_post_link: https://herman.bearblog.dev/apple-privacy/
+  last_post_title: Messing with bots
+  last_post_description: Markov chain babblers, bogus php files, and more!
+  last_post_date: "2025-11-13T08:56:00Z"
+  last_post_link: https://herman.bearblog.dev/messing-with-bots/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f30663324a1d964abd7f91bf8849527e
+  last_post_guid: c77ebbee8e15aa107bd73835380612b1
   score_criteria:
     cats: 0
     description: 3

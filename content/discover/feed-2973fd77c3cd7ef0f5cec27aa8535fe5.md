@@ -16,24 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apple
-  - Hardware
-  - Mobile
-  - Technology
+  - Home
+  - Personal
+  - Reflection
+  - Work
   relme: {}
-  last_post_title: Time To Upgrade Devices, Again
-  last_post_description: This week has seen us perform our bi-annual ritual of upgrading
-    our phones and watches. Honestly, I hate the process. I hate the impact of switching
-    the software and all over. I hate dealing with
-  last_post_date: "2025-09-12T13:29:27Z"
-  last_post_link: https://chriswiegman.com/2025/09/time-to-upgrade-devices-again/
+  last_post_title: 2 Months, 2 Years and a Lifetime
+  last_post_description: This week marks a couple of anniversaries for me. Two years
+    ago yesterday we drove away from Sarasota for the first of 3 trips to move us
+    here to Chicago and two months ago yesterday was my last day
+  last_post_date: "2025-10-08T12:48:22Z"
+  last_post_link: https://chriswiegman.com/2025/10/2-months-2-years-and-a-lifetime/
   last_post_categories:
-  - Apple
-  - Hardware
-  - Mobile
-  - Technology
+  - Home
+  - Personal
+  - Reflection
+  - Work
   last_post_language: ""
-  last_post_guid: d238ac420e62cade52dd6d690089661d
+  last_post_guid: 91d9f5069007cd17554620745c095d7c
   score_criteria:
     cats: 0
     description: 3

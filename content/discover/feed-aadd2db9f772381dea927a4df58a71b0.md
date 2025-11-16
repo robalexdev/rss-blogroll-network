@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Bye Intel, hi AMD! I’m done after 2 dead Intels
+  last_post_title: My impressions of the MacBook Pro M4
   last_post_description: ""
-  last_post_date: "2025-09-07T08:33:00+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/
+  last_post_date: "2025-10-31T11:04:59+01:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ee4b07ce43e8ce44a09419978eb155c0
+  last_post_guid: edd4122db5723b579b078cf60d08d581
   score_criteria:
     cats: 0
     description: 0

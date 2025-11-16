@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'AI Sandboxes: Daytona vs microsandbox'
-  last_post_description: |-
-    Why AI Products Need Sandboxing
-    Sandboxing has become a core feature of modern AI-powered development tools. As AI coding assistants and autonomous agents become more sophisticated, they generate and
-  last_post_date: "2025-07-14T09:39:36Z"
-  last_post_link: https://pixeljets.com/blog/ai-sandboxes-daytona-vs-microsandbox/
+  last_post_title: 'Time to move on: n8n vs code for SaaS builders'
+  last_post_description: 'n8n is a no-code (low-code) automation platform—similar
+    to Zapier but more technical—and it can be self-hosted. I love n8n (read my older
+    detailed writeup about it): it makes you feel powerful on'
+  last_post_date: "2025-11-03T13:46:52Z"
+  last_post_link: https://pixeljets.com/blog/n8n-vs-code/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53ce1a0edb568632787e6d41a114cdff
+  last_post_guid: 682c89bdbcbbdc5af5e4d0a88618010f
   score_criteria:
     cats: 0
     description: 3

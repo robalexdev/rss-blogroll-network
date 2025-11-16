@@ -15,36 +15,31 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - AI
-  - Media
-  - News
+  categories: []
   relme:
     https://newslttrs.com/: true
-  last_post_title: The chatbot's mental health break
-  last_post_description: The AI proponents are trying to convince us that their creations
-    can feel "distress" and that we should care for their "welfare".
-  last_post_date: "2025-08-18T19:07:47Z"
-  last_post_link: https://newslttrs.com/the-chatbots-mental-health-break/
-  last_post_categories:
-  - AI
-  - Media
-  - News
+  last_post_title: Who wants to watch an AI actor read an AI script?
+  last_post_description: There's been a lot of hype this week over the first so-called
+    AI Actress, Tilly Norwood. Created by Xicoia, the AI division of the production
+    company Particle6, Norwood has appeared in the AI
+  last_post_date: "2025-10-03T17:22:38Z"
+  last_post_link: https://newslttrs.com/who-wants-to-watch-an-ai-actor-read-an-ai-script/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24685371acd464d2e1ff27b9427e2e21
+  last_post_guid: eb5c3b6546e6c46c3971a050afa4c2cc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

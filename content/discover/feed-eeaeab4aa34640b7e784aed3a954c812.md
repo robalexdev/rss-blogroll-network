@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'From Vertex AI SDK to Google Gen AI SDK: Service Account Authentication
-    for Python and Go'
-  last_post_description: 'On June 25th, 2025, Google sent an important announcement
-    to all Vertex AI users: the Google Gen AI SDK has become the new preferred method
-    for accessing generative models on Vertex AI. While Google'
-  last_post_date: "2025-06-29T08:00:00Z"
-  last_post_link: https://pgaleone.eu/cloud/2025/06/29/vertex-ai-to-genai-sdk-service-account-auth-python-go/
+  last_post_title: 'Gemini-Powered Stock Analysis: Parsing Financial News for Automated
+    Trading Decisions'
+  last_post_description: Over the past weeks I built a small Go service that reads
+    Italian finance RSS feeds, extracts the article body, and asks Gemini for a buy/sell/hold
+    view for the tickers it finds. Below I show the
+  last_post_date: "2025-10-20T02:00:00Z"
+  last_post_link: https://pgaleone.eu/golang/vertexai/trading/2025/10/20/gemini-powered-stock-analysis-news-feeds/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a514cb17df43ce552def2035291ae4b9
+  last_post_guid: cfcaf27e69b22469118d6750602dd22a
   score_criteria:
     cats: 0
     description: 3

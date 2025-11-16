@@ -33,45 +33,38 @@ params:
   - https://philwilson.org/blog/feed
   - https://philwilson.org/blog/feed/atom/
   categories:
-  - brighton
   - browsers
-  - clearleft
-  - css
   - development
-  - events
+  - features
+  - frameworks
   - frontend
-  - html
   - javascript
-  - presentations
-  - speaking
+  - libraries
+  - providers
+  - services
+  - software
   - standards
-  - talks
-  - webdayout
   relme: {}
-  last_post_title: Speaking at Web Day Out
-  last_post_description: |-
-    Half of the line-up of speakers for Web Day Out is already on the site. One more is already confirmed.
-
-    I’m ridiculously excited about the way the line-up is taking shape, and judging by the
-  last_post_date: "2025-09-04T13:56:01Z"
-  last_post_link: https://adactio.com/journal/22113
+  last_post_title: Providers
+  last_post_description: If you’re building software, it’s generally a good idea to
+    avoid the Not-Invented-Here syndrome. This is when you insist on writing absolutely
+    everything from scratch even if it would make more
+  last_post_date: "2025-11-06T16:13:27Z"
+  last_post_link: https://adactio.com/journal/22235
   last_post_categories:
-  - brighton
   - browsers
-  - clearleft
-  - css
   - development
-  - events
+  - features
+  - frameworks
   - frontend
-  - html
   - javascript
-  - presentations
-  - speaking
+  - libraries
+  - providers
+  - services
+  - software
   - standards
-  - talks
-  - webdayout
   last_post_language: ""
-  last_post_guid: c9a53187da238a2dedbfad2a2b46d049
+  last_post_guid: ebb721b8a3a028e300c9645c0542961a
   score_criteria:
     cats: 0
     description: 3

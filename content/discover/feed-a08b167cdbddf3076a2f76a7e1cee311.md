@@ -17,10 +17,10 @@ params:
   categories:
   - 硬件快讯
   relme: {}
-  last_post_title: 华硕推出ProArt Display OLED PA27USD：4K@240Hz QD-OLED专业显示器
-  last_post_description: 华硕宣布，推出ProArt Display OLED PA27USD显示器。这是一款针对创意专业人士的产品，采用了经典的专业显示器外观设计，选用了QD
-  last_post_date: "2025-09-15T03:31:00-08:00"
-  last_post_link: http://www.expreview.com/101717.html
+  last_post_title: x86处理器2025Q3市场份额报告：AMD迎来双里程碑，台式机和总份额均创新高
+  last_post_description: 近日，研究分析公司Mercury
+  last_post_date: "2025-11-15T18:01:00Z"
+  last_post_link: http://www.expreview.com/102755.html
   last_post_categories:
   - 硬件快讯
   last_post_language: ""

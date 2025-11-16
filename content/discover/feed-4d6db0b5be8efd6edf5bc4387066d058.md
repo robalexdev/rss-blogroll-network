@@ -1,6 +1,6 @@
 ---
 title: pages tagged python-planet
-date: "2025-06-13T10:40:55-04:00"
+date: "2025-11-04T11:25:33-05:00"
 description: anarcat
 params:
   feedlink: https://anarc.at/tag/python-planet/index.rss

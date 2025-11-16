@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Debian 12 Bookworm 升级 Debian 13 Trixie
-  last_post_description: 本文将指导如何升级 Debian 12 Bookworm 到 Debian 13 Trixie。
-  last_post_date: "2025-08-05T00:00:00Z"
-  last_post_link: https://u.sb/debian-upgrade-13/
+  last_post_title: Debian 双栈网络时开启 IPv4 优先
+  last_post_description: 本文原理适用于大多数 Linux 系统，其他系统尚未测试，请读者自行验证。
+  last_post_date: "2025-11-04T00:00:00Z"
+  last_post_link: https://u.sb/debian-prefer-ipv4/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 41508eafedce92cbf74d80477b7c64ee
+  last_post_guid: 4341a21b0329978dfaad6cb7b6327d82
   score_criteria:
     cats: 0
     description: 3

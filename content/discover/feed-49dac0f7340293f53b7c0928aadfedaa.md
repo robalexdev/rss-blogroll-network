@@ -1,6 +1,6 @@
 ---
 title: Talk Python To Me
-date: "2025-08-29T00:00:00-08:00"
+date: "2025-11-10T00:00:00-08:00"
 description: |-
   Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive
               deep into the popular packages and software developers, data scientists, and incredible
@@ -27,23 +27,20 @@ params:
     https://mkennedy.codes/search: true
     https://talkpython.fm/: true
     https://training.talkpython.fm/: true
-  last_post_title: '#518: Celebrating Django''s 20th Birthday With Its Creators'
+  last_post_title: '#527: MCP Servers for Python Devs'
   last_post_description: |-
-    Guests
-    Simon Willison: simonwillison.net
-    Adrian Holovaty: holovaty.com
-    Will Vincent: wsvincent.com
-    Jeff Triplett: jefftriplett.com
-    Thibaud Colas: thib.me
+    Den Delimarsky: den.dev
 
-    Show Links
-    Django's 20th Birthday
-  last_post_date: "2025-08-29T00:00:00-08:00"
-  last_post_link: https://talkpython.fm/episodes/show/518/celebrating-djangos-20th-birthday-with-its-creators
+    Agentic AI Programming for Python Course: training.talkpython.fm
+
+    Model Context Protocol: modelcontextprotocol.io
+    Model Context Protocol Specification (2025-03-26):
+  last_post_date: "2025-11-10T00:00:00-08:00"
+  last_post_link: https://talkpython.fm/episodes/show/527/mcp-servers-for-python-devs
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: f2d08c4066decc14eca74abf7327ec39
+  last_post_guid: c2de8707591421043631ece84820f6d5
   score_criteria:
     cats: 1
     description: 3

@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Claude Sonnet Is Teaching Me English
-  last_post_description: Today, even a lazy after-thought can become a useful project
-  last_post_date: "2025-09-03T01:16:36Z"
-  last_post_link: https://aethermug.com/posts/claude-sonnet-is-teaching-me-english?utm_source=rss&utm_campaign=rss
+  last_post_title: Linear Algebra Explains Why Some Words Are Effectively Untranslatable
+  last_post_description: A modest mathematical framing of language
+  last_post_date: "2025-11-13T06:54:50Z"
+  last_post_link: https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 660c93cd692894c0064c1347ecce797b
+  last_post_guid: 8b6ee631b6f5f1ff74b375838cfd806c
   score_criteria:
     cats: 0
     description: 3

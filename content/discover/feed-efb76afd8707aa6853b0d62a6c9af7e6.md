@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Smart home hopes
-  last_post_description: It had been a long day. The drive back from the office hadn’t
-    been smooth sailing, traffic was heavy with a sudden downpour only serving to
-    compound the issue. Disconnecting his phone from his car
-  last_post_date: "2025-07-16T17:37:46+01:00"
-  last_post_link: https://philbowell.me/2025/07/16/smart-home-hopes.html
+  last_post_title: Claude, meet Obsidian
+  last_post_description: After finishing work for the day I spent a little time futzing
+    around setting up an MCP server with my Obsidian vault and it seems like a fascinating
+    way to interact with the notes I have in there
+  last_post_date: "2025-11-07T16:21:42Z"
+  last_post_link: https://philbowell.me/2025/11/07/claude-meet-obsidian.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54d58f7a79618890b18224c3eb6f31fc
+  last_post_guid: 01ce6f0d195bc5891d8d31b93a0985de
   score_criteria:
     cats: 0
     description: 0

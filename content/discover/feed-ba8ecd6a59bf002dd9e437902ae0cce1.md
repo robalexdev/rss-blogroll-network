@@ -19,20 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
+  - AI
+  - LLM
+  - Learn In Public
   - 学习
   - 成长
-  - 阅读
+  - 随笔
   relme: {}
-  last_post_title: 2025阅读清单
-  last_post_description: 上次1月中旬写，这次直接8月写，服了我自己了。 1.地煞七十二变图鉴 ★★★★★ 很少看志异的小说， […]
-  last_post_date: "2025-08-24T13:20:03Z"
-  last_post_link: https://www.xiejingyang.com/2025/08/24/2025%e9%98%85%e8%af%bb%e6%b8%85%e5%8d%95/
+  last_post_title: How I AI Coding 2025.10
+  last_post_description: 因为看到了Xuanwo大佬的文章，所以我也来写一下我是怎么用AI来开发的。 工具 VSCode In […]
+  last_post_date: "2025-10-26T08:23:26Z"
+  last_post_link: https://www.xiejingyang.com/2025/10/26/how-i-ai-coding-2025-10/
   last_post_categories:
+  - AI
+  - LLM
+  - Learn In Public
   - 学习
   - 成长
-  - 阅读
+  - 随笔
   last_post_language: ""
-  last_post_guid: 4f907cc6fc34d6e0e861c7e04d663b3b
+  last_post_guid: 7f9810c694a4c26210cb825e6d00e77c
   score_criteria:
     cats: 0
     description: 0

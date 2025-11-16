@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Learn Rust by Reasoning with Code Agents
-  last_post_description: It's often said that Rust has a steep learning curve. I disagree
-    with this notion. I'm a strong believer in learning by doing. Rust is a programming
-    language, and like any language, it should be
-  last_post_date: "2025-08-06T01:00:00Z"
-  last_post_link: https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/
+  last_post_title: How I Coding? (Oct 2025 Edition)
+  last_post_description: Just one week after I published my Setp 2025 edition of How
+    I vibe coding, Anthropic released Claude Sonnet 4.5. That's a quick reminder that
+    in this field, SOTA doesn't stay still. This post updates
+  last_post_date: "2025-10-24T01:00:00Z"
+  last_post_link: https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7932b8b67f4f081d65a91e0f81bffdb6
+  last_post_guid: bc371b29a55fa88f76860f3451d5d82d
   score_criteria:
     cats: 0
     description: 3

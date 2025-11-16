@@ -16,25 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bloomberg
-  - Ghislaine Maxwell
+  - Alvin Chang
   - Infographics
-  - Jeffrey Epstein
-  - email
+  - Pudding
+  - democracy
+  - text
   relme: {}
-  last_post_title: Epstein inbox and a spreadsheet of gifts
-  last_post_description: 'Bloomberg gained access to an email cache from Jeffrey Epstein’s
-    Yahoo Mail inbox,…Tags: Bloomberg, email, Ghislaine Maxwell, Jeffrey Epstein'
-  last_post_date: "2025-09-12T09:29:50Z"
-  last_post_link: https://flowingdata.com/2025/09/12/epstein-inbox-and-a-spreadsheet-of-gifts/
+  last_post_title: Threats to democracy in the Congressional Record
+  last_post_description: 'As you might imagine, the word “democracy” has been mentioned
+    in Congressional speeches…Tags: Alvin Chang, democracy, Pudding, text'
+  last_post_date: "2025-11-14T14:15:08Z"
+  last_post_link: https://flowingdata.com/2025/11/14/threats-to-democracy-in-the-congressional-record/
   last_post_categories:
-  - Bloomberg
-  - Ghislaine Maxwell
+  - Alvin Chang
   - Infographics
-  - Jeffrey Epstein
-  - email
+  - Pudding
+  - democracy
+  - text
   last_post_language: ""
-  last_post_guid: d006c802480f48bad47491ab16e6aed2
+  last_post_guid: 9e3be288dd53ed28a3d7d8d71f0ed621
   score_criteria:
     cats: 0
     description: 3

@@ -42,6 +42,7 @@ params:
   - https://morrick.me/comments/feed
   - https://om.co/comments/feed/
   - https://thenewsprint.co/feed
+  - https://thingstoclick.com/feed.xml
   recommender: []
   categories:
   - Technology

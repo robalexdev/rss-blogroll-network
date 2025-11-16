@@ -15,7 +15,7 @@ params:
     id: 7becef5fc95d0b51be024a2830568f06
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -26,25 +26,28 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Design
-  - Working
-  - business
-  - work
+  - AI
+  - State of the Web
+  - The Essentials
+  - Web Design History
+  - Web Standards
   relme:
     https://zeldman.com/: true
-  last_post_title: Too many meetings?
-  last_post_description: |-
-    At Automattic, we know our time is finite and precious. Here are the questions we ask ourselves before agreeing to any meeting:
-    The post Too many meetings? appeared first on Jeffrey Zeldman Presents
-  last_post_date: "2025-08-20T15:19:56Z"
-  last_post_link: https://zeldman.com/2025/08/20/too-many-meetings/
+  last_post_title: 'Receipts: a brief list of prominent articles proclaiming the death
+    of the web.'
+  last_post_description: 'They say AI will replace the web as we know it, and this
+    time they mean it. Here follows a short list of previous times they also meant
+    it, starting way back in 1997. Wired: March 1, 1997: “You can'
+  last_post_date: "2025-10-25T10:23:44Z"
+  last_post_link: https://zeldman.com/2025/10/25/receipts-a-brief-list-of-prominent-articles-proclaiming-the-death-of-the-web/
   last_post_categories:
-  - Design
-  - Working
-  - business
-  - work
+  - AI
+  - State of the Web
+  - The Essentials
+  - Web Design History
+  - Web Standards
   last_post_language: ""
-  last_post_guid: 96db0ede33539f78edc72fc10a6e8ede
+  last_post_guid: 4ce7815df6541e1abc9a93787e0efd33
   score_criteria:
     cats: 0
     description: 3

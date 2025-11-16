@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-09-15T04:01:54Z"
+date: "2025-11-15T17:02:39Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,15 +23,17 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'Un-Sass''ing my CSS: compiling multiple CSS files into one'
-  last_post_description: I spend an unhealthy amount of time thinking about this stuff.
-    It's something I can't shake off because from days in CSS consultation where I
-    saw more CSS compiling/concatenation methods than should
-  last_post_date: "2025-09-11T14:55:00Z"
-  last_post_link: https://piccalil.li/links/un-sassing-my-css-compiling-multiple-css-files-into-one/?ref=main-rss-feed
+  last_post_title: 'The Index: Issue #142'
+  last_post_description: |-
+    public.monster
+    This is fantastic. Free hosting for people that want a place on the internet that is their own as a throwback to the 90s.
+    Little Character font
+    A free and open source font that has an
+  last_post_date: "2025-11-14T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/142/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f6dd3309901f3ecbe50400125665d360
+  last_post_guid: 8eadbf4b3ffcb60f9d857ef61f1c3497
   score_criteria:
     cats: 0
     description: 3

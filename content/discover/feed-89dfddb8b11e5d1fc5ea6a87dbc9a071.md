@@ -20,16 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Embedding Wren in Hare
+  last_post_title: OpenAI employees… are you okay?
   last_post_description: |-
-    I’ve been on the lookout for a scripting language which can be neatly embedded
-    into Hare programs. Perhaps the obvious candidate is Lua – but I’m not
-    particularly enthusiastic about it. When I
-  last_post_date: "2025-08-20T00:00:00Z"
-  last_post_link: https://drewdevault.com/2025/08/20/2025-08-20-Hare-and-Wren.html
+    You might have seen an article making the rounds this week, about a young
+    man who ended his life after ChatGPT encouraged him to do so. The chat logs are
+    really upsetting.
+    Someone two degrees removed
+  last_post_date: "2025-11-08T00:00:00Z"
+  last_post_link: https://drewdevault.com/2025/11/08/2025-11-08-OpenAI-employees-are-you-okay.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 41342412a022390e5fa79a59b9681bdf
+  last_post_guid: 7a9df794a0abb6553ff02eb5e09a20dc
   score_criteria:
     cats: 0
     description: 3

@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to fold socks
-  last_post_description: How do you think about your creative practice? What are the
-    most important parts of it?
-  last_post_date: "2025-09-12T11:20:16Z"
-  last_post_link: https://buttondown.com/monteiro/archive/how-to-fold-socks/
+  last_post_title: To grow, we must forget… but now AI remembers everything
+  last_post_description: AI’s infinite memory could endanger how we think, grow, and
+    imagine. And we can do something about it.
+  last_post_date: "2025-11-14T11:28:02Z"
+  last_post_link: https://www.doc.cc/articles/we-must-forget
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5b49e88bc4d88499f07c190537e032b6
+  last_post_guid: d532b2e0b4eb11301bbe0244fad85359
   score_criteria:
     cats: 0
     description: 3

@@ -17,11 +17,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Decentralized YouTube alternative adds livestream scheduling in
-    new release
+  last_post_title: I implemented an ISO 42001-certified AI Governance program in 6
+    months
   last_post_description: Comments
-  last_post_date: "2025-09-15T03:27:34Z"
-  last_post_link: https://news.itsfoss.com/peertube-7-3/
+  last_post_date: "2025-11-15T17:04:23Z"
+  last_post_link: https://beabytes.com/iso42001-certified-ai-governance/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

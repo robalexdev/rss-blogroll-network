@@ -21,33 +21,43 @@ params:
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender: []
+  recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Ash's birthday is in 7 days
-  last_post_description: It's on Monday 16 June 2025.
-  last_post_date: "2025-06-09T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#ash-2025-7@birthdays.abnib.co.uk
+  last_post_title: John's 9th birthday is in 7 days
+  last_post_description: |-
+    It's on Wednesday 19 November 2025.
+                On WhatsApp? Send greetings via Dan or JTA.
+  last_post_date: "2025-11-12T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#john-2025-7@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f67fa1e4e8a9f297d163aafd3bfa95b7
+  last_post_guid: de24d4eda6e9503f2e351358d5088b1c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 0
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 1
+  postcount: 0
   avgpostlen: 0
 ---

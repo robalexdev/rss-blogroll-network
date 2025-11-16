@@ -14,7 +14,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -22,15 +22,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: ALL EYES ON US –  A Companion Piece
-  last_post_description: Transition is infinite motion. To transition is to sit in
-    the inescapable space between violence and possibility. It is to both mourn death
-    and revere life – to feel the ache of a burning body and
-  last_post_date: "2025-07-04T16:41:33Z"
-  last_post_link: https://logicmag.io/policy/all-eyes-on-us-a-companion-piece
+  last_post_title: 'Casteist by Design: How Discrimination Configures India’s Platform
+    Economy'
+  last_post_description: Caste driven development, implementation and popularity of
+    Indian worker management and delivery apps.
+  last_post_date: "2025-11-04T15:48:06Z"
+  last_post_link: https://logicmag.io/land/casteist-by-design-how-discrimination-configures-indias-platform-economy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 216059d4c4800cc66a9fdcbdccfc20bb
+  last_post_guid: c35f39e4455335a54558fa6cd59797e1
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Colton Voege
-date: "2025-08-05T00:00:00Z"
+date: "2025-09-20T00:00:00Z"
 description: Just another grumpy dev blog.
 params:
   feedlink: https://colton.dev/feed/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: No, AI is not Making Engineers 10x as Productive
+  last_post_title: Listen to Me Yap about AI on Better Offline w/ Ed Zitron!
   last_post_description: ""
-  last_post_date: "2025-08-05T00:00:00Z"
-  last_post_link: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
+  last_post_date: "2025-09-20T00:00:00Z"
+  last_post_link: https://colton.dev/blog/listen-to-me-yap-on-better-offline/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5b702c613a301159db42be2c43f07db3
+  last_post_guid: 37d5575cee5832bf2baf62d65bd8aadb
   score_criteria:
     cats: 0
     description: 3

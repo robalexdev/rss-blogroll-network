@@ -13,39 +13,37 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI
-  - Child Safety
+  - Spotify
   relme: {}
-  last_post_title: Are Republicans changing their minds about AI safety?
-  last_post_description: A new FTC inquiry into chatbots and children shows that some
-    within the Trump Administration may be reconsidering their anti-regulation approach
-  last_post_date: "2025-09-12T00:35:33Z"
-  last_post_link: https://www.platformer.news/ftc-chatbots-child-safety/
+  last_post_title: Spotify's doppelgänger problem
+  last_post_description: After King Gizzard and the Lizard Wizard left Spotify in
+    protest earlier this year, something strange took their place
+  last_post_date: "2025-11-14T01:20:54Z"
+  last_post_link: https://www.platformer.news/king-gizzard-spotify-impersonators/
   last_post_categories:
-  - AI
-  - Child Safety
+  - Spotify
   last_post_language: ""
-  last_post_guid: 9053eb58c1f76e34c2e2f3727cfd0501
+  last_post_guid: d01df6eb8ecb83c45ec193f9b75f5b3b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

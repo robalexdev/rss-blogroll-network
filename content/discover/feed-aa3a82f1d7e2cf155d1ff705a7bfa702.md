@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2025-08-27T11:33:51+01:00"
+date: "2025-10-27T15:12:15+01:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -24,12 +24,12 @@ params:
   - Tooling
   - paper
   relme: {}
-  last_post_title: How to Slow Down a Program? And Why it Can Be Useful.
-  last_post_description: 'Most research on programming language performance asks a
-    variation of a single question: how can we make some specific program faster?
-    Sometimes we may even investigate how we can use less memory.'
-  last_post_date: "2025-08-27T11:20:04+01:00"
-  last_post_link: https://stefan-marr.de/2025/08/how-to-slow-down-a-program/
+  last_post_title: Can We Know Whether a Profiler is Accurate?
+  last_post_description: If you have been following the adventures of our hero over
+    the last couple of years, you might remember that we can’t really trust sampling
+    profilers for Java, and it’s even worse for Java’s
+  last_post_date: "2025-10-15T02:26:28+02:00"
+  last_post_link: https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/
   last_post_categories:
   - Benchmarking
   - Instrumentation
@@ -40,7 +40,7 @@ params:
   - Tooling
   - paper
   last_post_language: ""
-  last_post_guid: a73a19351f0a216c54e20c48125f9d92
+  last_post_guid: 475a0c7c8525ac773ec62c85dc130b9e
   score_criteria:
     cats: 0
     description: 3

@@ -33,33 +33,41 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - life
-  - storytelling
+  - MoTW
+  - Windows
+  - download
+  - security
+  - tech
+  - zones
   relme: {}
-  last_post_title: An Improbable Recovery
-  last_post_description: Way back on May 11th of 2022, I was visiting my team (Edge
-    browser) for the week in Redmond, Washington. On Wednesday night, I left my ThinkPad
-    X1 Extreme laptop in a work area on the 4th floor of
-  last_post_date: "2025-09-08T21:32:22Z"
-  last_post_link: https://textslashplain.com/2025/09/08/an-improbable-recovery/
+  last_post_title: Windows Shell Previews – Restricted
+  last_post_description: Windows users who installed the October 2025 Security Updates
+    may have noticed an unexpected change if they use the Windows Explorer preview
+    pane. When previewing many downloaded files, the preview
+  last_post_date: "2025-10-20T16:06:58Z"
+  last_post_link: https://textslashplain.com/2025/10/20/windows-shell-previews/
   last_post_categories:
-  - life
-  - storytelling
+  - MoTW
+  - Windows
+  - download
+  - security
+  - tech
+  - zones
   last_post_language: ""
-  last_post_guid: 547eaf3f5e6256e6a594b3d3be248b44
+  last_post_guid: 838aadfb56b6fbbd9c6c42a1516e30ed
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

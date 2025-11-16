@@ -36,17 +36,19 @@ params:
     https://github.com/hgcl: true
     https://github.com/hgcl/: true
     https://mastodon.roflcopter.fr/@clarale: true
-  last_post_title: Sourdough bread log
+  last_post_title: Water kefir log
   last_post_description: |-
-    Here is an ongoing log of my sourdough bread experiments (most recent at the top). The objective is to improve my process, updating my basic recipe as I go.
+    Here is an ongoing log of my water kefir experiments (most recent at the top). The objective is to improve my process, updating my basic recipe as I go.
 
-    2025-09-11
-    This is by far not the first
-  last_post_date: "2025-09-11T00:00:00Z"
-  last_post_link: https://clarale.com/posts/sourdough-bread-log/
+    2025-10-03
+    Changes in the process:
+
+    Add
+  last_post_date: "2025-09-24T00:00:00Z"
+  last_post_link: https://clarale.com/posts/water-kefir-log/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad72b381548cb2a115bbf47a334a7a49
+  last_post_guid: c733245ae59355edde07ca167f543d7a
   score_criteria:
     cats: 0
     description: 3

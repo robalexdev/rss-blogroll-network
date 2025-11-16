@@ -1,6 +1,6 @@
 ---
 title: 胡涂说
-date: "2025-09-14T14:52:32+08:00"
+date: "2025-10-28T21:58:36+08:00"
 description: hutusi.com
 params:
   feedlink: https://hutusi.com/feed.xml
@@ -19,21 +19,21 @@ params:
   recommender: []
   categories:
   - AI
-  - Agent
+  - LLM
   - weekly
   - 周刊
   relme: {}
-  last_post_title: '周刊第19期: 一起学习 MCP'
-  last_post_description: 本文为周刊第19期，前期周刊参见：周刊系列。
-  last_post_date: "2025-09-08T20:35:00+08:00"
-  last_post_link: https://hutusi.com/weeklies/19
+  last_post_title: '好奇心周刊第21期: 推理模型的构建与未来'
+  last_post_description: '好奇心周刊第21期: 推理模型的构建与未来'
+  last_post_date: "2025-10-28T21:56:00+08:00"
+  last_post_link: https://hutusi.com/weeklies/21
   last_post_categories:
   - AI
-  - Agent
+  - LLM
   - weekly
   - 周刊
   last_post_language: ""
-  last_post_guid: 2102cc8bd1d89f842e935e2821ac61c3
+  last_post_guid: afd071a6591d616c73ed3199be7ffabd
   score_criteria:
     cats: 0
     description: 3

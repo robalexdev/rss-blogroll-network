@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Building blocks for idiomatic Go pipelines
-  last_post_description: Unopinionated and composable channel operations.
-  last_post_date: "2025-08-11T12:30:00Z"
-  last_post_link: https://antonz.org/chans/
+  last_post_title: 'Go proposal: Context-aware Dialer methods'
+  last_post_description: Connect to TCP, UDP, IP, or Unix sockets, with an optional
+    timeout.
+  last_post_date: "2025-11-13T11:30:00Z"
+  last_post_link: https://antonz.org/accepted/net-dialer-context/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5609bb41e301b86ef2f8d109193039bc
+  last_post_guid: 10375b092e8900d0c2ea36fbe72ab388
   score_criteria:
     cats: 0
     description: 3

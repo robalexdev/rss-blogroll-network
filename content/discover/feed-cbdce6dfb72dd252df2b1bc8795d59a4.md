@@ -1,6 +1,6 @@
 ---
 title: Wen.onweb
-date: "2025-05-19T00:00:00Z"
+date: "2025-11-03T00:00:00Z"
 description: Sofware and Development
 params:
   feedlink: https://melissawen.github.io/feed_2.xml
@@ -16,18 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Look at the Latest Linux KMS Color API Developments on AMD and
-    Intel
+  last_post_title: Kworkflow at Kernel Recipes 2025
   last_post_description: |-
-    This week, I reviewed the last available version of the Linux KMS Color
-    API.
-    Specifically, I explored the proposed API by Harry Wentland and Alex Hung
-    (AMD), their implementation for the AMD display
-  last_post_date: "2025-05-19T22:05:00+01:00"
-  last_post_link: https://melissawen.github.io/blog/2025/05/19/drm-info-with-kms-color-api
+    This was the first year I attended Kernel
+    Recipes and I have nothing but say how
+    much I enjoyed it and how grateful I’m for the opportunity to talk more about
+    kworkflow to very experienced kernel
+  last_post_date: "2025-11-03T21:30:00Z"
+  last_post_link: https://melissawen.github.io/blog/2025/11/03/kworkflow-talk-at-kernel-recipes-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 005e59967af448cbe346be4f66e1eaab
+  last_post_guid: 663348cfb63c5e699f1c8c57229613ac
   score_criteria:
     cats: 0
     description: 3

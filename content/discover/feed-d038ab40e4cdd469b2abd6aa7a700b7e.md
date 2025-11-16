@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,13 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Money Isn’t Everything
-  last_post_description: Vulgar monetarism is making a comeback, and that’s a problem
-  last_post_date: "2025-09-14T10:32:38Z"
-  last_post_link: https://paulkrugman.substack.com/p/money-isnt-everything
+  last_post_title: Talking With Margaret Sullivan
+  last_post_description: The state of the media in Trump Two Year One
+  last_post_date: "2025-11-15T11:30:46Z"
+  last_post_link: https://paulkrugman.substack.com/p/talking-with-margaret-sullivan
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16d38a78b1586fe55d51a3a55f99db93
+  last_post_guid: 5e74d24eadc35392956fe2a4724e7a12
   score_criteria:
     cats: 0
     description: 3

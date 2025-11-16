@@ -15,23 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - fuse
+  - conference
   - igalia
   - kernel
   relme: {}
-  last_post_title: Making the filesystem-wide cache invalidation lightspeed in FUSE
+  last_post_title: Kernel Recipes 2025
   last_post_description: |-
-    One interesting aspect of FUSE user-space file systems is that caching can be
-    handled at the kernel level.  For example, if an application reads data from a
-    file that happens to be on a FUSE file
-  last_post_date: "2025-09-01T00:00:00+01:00"
-  last_post_link: https://luis.camandro.org/2025-09-01-fuse-cache-invalidation.html
+    KernelRecipes Mascot © 2025 by
+    Emma Tizzoni
+    is licensed under
+
+    CC BY-NC-ND 4.0
+
+
+
+
+
+
+    Kernel Recipes is an amazing conference and it is unique in several different
+    ways.  First of all because it is
+  last_post_date: "2025-10-13T00:00:00+01:00"
+  last_post_link: https://luis.camandro.org/2025-10-13-kernel-recipes-2025.html
   last_post_categories:
-  - fuse
+  - conference
   - igalia
   - kernel
   last_post_language: ""
-  last_post_guid: 07980a1397daa4632803ad2f1c868804
+  last_post_guid: 00f65fabb5fffd1add72f50ed2846cae
   score_criteria:
     cats: 0
     description: 3

@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Tesla is (still) following in Waymo’s footsteps
-  last_post_description: Scaling a robotaxi service takes years, not months.
-  last_post_date: "2025-09-08T20:17:33Z"
-  last_post_link: https://www.understandingai.org/p/tesla-is-still-following-in-waymos
+  last_post_title: Waymo is finally ready for freeway service
+  last_post_description: The self-driving leader is getting ready to conquer the Sun
+    Belt.
+  last_post_date: "2025-11-12T22:55:03Z"
+  last_post_link: https://www.understandingai.org/p/waymo-is-finally-ready-for-freeway
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 957b9d7956d29e2613ff3fa0254170c5
+  last_post_guid: e93488f15749256bb2b5077a1f189c69
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: wingolog
-date: "2025-08-07T15:02:04Z"
+date: "2025-11-13T15:21:03Z"
 description: A mostly dorky weblog by Andy Wingo
 params:
   feedlink: https://wingolog.org/feed/atom?with=gnu&with=guile&with=igalia
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'whippet hacklog: adding freelists to the no-freelist space'
+  last_post_title: the last couple years in v8's garbage collector
   last_post_description: ""
-  last_post_date: "2025-08-07T15:02:04Z"
-  last_post_link: https://wingolog.org/archives/2025/08/07/whippet-hacklog-adding-freelists-to-the-no-freelist-space
+  last_post_date: "2025-11-13T15:21:03Z"
+  last_post_link: https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f41937153b3a681ceb2275119036053d
+  last_post_guid: f23627ba1dd7303292b08b5c215853b7
   score_criteria:
     cats: 0
     description: 3

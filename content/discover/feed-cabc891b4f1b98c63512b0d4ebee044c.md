@@ -25,20 +25,20 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for August 2025
+  last_post_title: Summary of changes for October 2025
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of August.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of October.
 
 
 
 
-      Wiktopher, updated songs.
-      100r.ca, updated cast iron cookware(seasoning oil
-  last_post_date: "2025-08-31T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#aug2025
+      CCCC, added a factorization mode.
+      Bagel, wrote about a cursed programming language
+  last_post_date: "2025-11-02T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#oct2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1882c180841f0dd108daae82e3ccef73
+  last_post_guid: cfc97ad50639b6423ba51a0e12c0f870
   score_criteria:
     cats: 0
     description: 3

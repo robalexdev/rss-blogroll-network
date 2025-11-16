@@ -1,6 +1,6 @@
 ---
 title: The Go Blog
-date: "2025-09-09T00:00:00Z"
+date: "2025-11-14T00:00:00Z"
 description: ""
 params:
   feedlink: https://go.dev/blog/feed.atom
@@ -25,14 +25,13 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: A new experimental Go API for JSON
-  last_post_description: Go 1.25 introduces experimental support for encoding/json/jsontext
-    and encoding/json/v2 packages.
-  last_post_date: "2025-09-09T00:00:00Z"
-  last_post_link: https://go.dev/blog/jsonv2-exp
+  last_post_title: Go’s Sweet 16
+  last_post_description: Happy Birthday, Go!
+  last_post_date: "2025-11-14T00:00:00Z"
+  last_post_link: https://go.dev/blog/16years
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ad640a70a4ddfe0bbeaa8eb5e2e1602
+  last_post_guid: baf5a68791bcc52e87ad6bf513377620
   score_criteria:
     cats: 0
     description: 0

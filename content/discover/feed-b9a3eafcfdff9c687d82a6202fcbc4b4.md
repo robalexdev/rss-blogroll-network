@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游记
-  - 西班牙
+  - 旅游相册
+  - 碉楼
   relme: {}
-  last_post_title: 来自西班牙建筑的冲击
-  last_post_description: 有些动物需要冬眠，而有些人则需要在夏天进行停笔更新。当你早起晚归，在办公室穿着外套或披着薄被的时候，很多人其实 […]
-  last_post_date: "2025-07-26T10:57:08Z"
-  last_post_link: https://yekaihongxue.com/archives/924
+  last_post_title: 秋意开平碉楼
+  last_post_description: 设备：Fujifilm X100VI 时间：2025年11月1日 每次跑高速回家的时候，中间都会经过开平碉楼， […]
+  last_post_date: "2025-11-08T04:32:23Z"
+  last_post_link: https://yekaihongxue.com/archives/1015
   last_post_categories:
-  - 游记
-  - 西班牙
+  - 旅游相册
+  - 碉楼
   last_post_language: ""
-  last_post_guid: 7ed121a4f9e54af961694e4fc9c4bb59
+  last_post_guid: 1e6ade3960a50147edc024980a074296
   score_criteria:
     cats: 0
     description: 0

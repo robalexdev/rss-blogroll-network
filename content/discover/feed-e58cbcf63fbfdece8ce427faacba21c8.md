@@ -17,13 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Can modern LLMs actually count the number of b's in "blueberry"?
-  last_post_description: It’s an adversarial question for LLMs, but it’s not unfair.
-  last_post_date: "2025-08-12T09:00:00-07:00"
-  last_post_link: https://minimaxir.com/2025/08/llm-blueberry/
+  last_post_title: Nano Banana can be prompt engineered for extremely nuanced AI image
+    generation
+  last_post_description: Nano Banana allows 32,768 input tokens and I’m going to try
+    to use them all dammit.
+  last_post_date: "2025-11-13T09:30:00-08:00"
+  last_post_link: https://minimaxir.com/2025/11/nano-banana-prompts/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b81660a093033261ac53d57cbf733f9b
+  last_post_guid: 1775ad3197c2fd83cfd656c6e37b8a3e
   score_criteria:
     cats: 0
     description: 3

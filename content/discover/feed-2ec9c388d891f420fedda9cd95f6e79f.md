@@ -19,22 +19,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Wordpress
-  - 建站
-  - 技术笔记
-  - 软件
+  - Plog
+  - 摄影
+  - 日常
   relme: {}
-  last_post_title: WordPress 插件 – 旅行地图 WP Travel Map
-  last_post_description: 最近又做了一个极简风格的 WordPress 旅行地图插件，用于记录去过的地方。 展示页：https://an […]
-  last_post_date: "2025-09-01T20:57:41Z"
-  last_post_link: https://anotherdayu.com/2025/7336/
+  last_post_title: Weekly Plog 2
+  last_post_description: ""
+  last_post_date: "2025-11-02T16:10:41Z"
+  last_post_link: https://anotherdayu.com/2025/7430/
   last_post_categories:
-  - Wordpress
-  - 建站
-  - 技术笔记
-  - 软件
+  - Plog
+  - 摄影
+  - 日常
   last_post_language: ""
-  last_post_guid: 6dbffb2c679f20deff0fd08354bb0a6b
+  last_post_guid: a9a2e96a419252658c0b53964f75d0f1
   score_criteria:
     cats: 0
     description: 3

@@ -18,16 +18,16 @@ params:
   categories:
   - Senza Categoria
   relme: {}
-  last_post_title: Cena venerdì 17 al Root Club
-  last_post_description: Venerdì 17/11 alle 20:30 ci troveremo al Root Club per una
+  last_post_title: Cena venerdì 28 al Root Club
+  last_post_description: Venerdì 28/11 alle 20:00 ci troveremo al Root Club per una
     cena/pizzata del gruppo.L’incontro è aperto a tutti i soci e simpatizzanti, confermateci
     la vostra presenza contattandoci.
-  last_post_date: "2023-10-25T07:35:10Z"
-  last_post_link: https://www.folug.org/2023/10/25/cena-venerdi-17-al-root-club/
+  last_post_date: "2025-11-01T10:26:27Z"
+  last_post_link: https://www.folug.org/2025/11/01/cena-venerdi-7-al-root-club/
   last_post_categories:
   - Senza Categoria
   last_post_language: ""
-  last_post_guid: 0890d3a5e37d200a26688d7f431f2021
+  last_post_guid: 1a4aa6bcc650c0ad85f56408771361f3
   score_criteria:
     cats: 0
     description: 3

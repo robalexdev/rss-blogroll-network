@@ -1,6 +1,6 @@
 ---
 title: ttntm.me - Likes
-date: "2025-08-01T10:30:00Z"
+date: "2025-09-27T20:30:00Z"
 description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
@@ -46,13 +46,13 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 31, 2025
+  last_post_title: Week 39, 2025
   last_post_description: ""
-  last_post_date: "2025-08-01T10:30:00Z"
-  last_post_link: https://ttntm.me/likes/2025-w31/
+  last_post_date: "2025-09-27T20:30:00Z"
+  last_post_link: https://ttntm.me/likes/2025-w39/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 307f3f80cbcce033516d29f76ff32f66
+  last_post_guid: e463e084cc81d17dfadcdb25b1223575
   score_criteria:
     cats: 0
     description: 3

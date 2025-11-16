@@ -130,6 +130,7 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/feed.xml
+  - https://alexandrawolfe.ca/feed/?type=rss
   - https://ashk.au/atom-bookmarks.xml
   - https://ashk.au/atom.xml
   - https://bne.social/@ash.rss
@@ -207,27 +208,24 @@ params:
   - https://www.wackomenace.co.uk/essays/rss.xml
   recommender: []
   categories:
-  - indieweb carnival
-  - life
-  - love
   - personal
+  - reading
+  - reflection
+  - writing
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: on second person birds - a love story
-  last_post_description: |-
-    This is my submission for the IndieWeb Carnival September 2025 : *second person birds hosted by Fractal Kitty
-
-    When I saw Fractal Kitty’s theme for September on the list, I, the polymath that I am,
-  last_post_date: "2025-09-11T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/on_second_person_birds_-_a_love_story
+  last_post_title: October 2025 Recap
+  last_post_description: "\uFEFF\n\uFEFF\n\x4C\x69\x66\x65\n\x49\x6E\x20\x63\x6F\x6E\x74\x72\x61\x73\x74\x20\x74\x6F\x20\x53\x65\x70\x74\x65\x6D\x62\x65\x72\x2C\x20\x4F\x63\x74\x6F\x62\x65\x72\x20\x77\x61\x73\x20\x6C\x69\x6B\x65\x20\x61\x20\x6C\x6F\x6E\x67\x20\x73\x74\x72\x6F\x6C\x6C\x20\x61\x6C\x6F\x6E\x67\x20\x61\x20\x66\x69\x65\x72\x79\x20\x70\x61\x72\x6B\x20\x6E\x6F\x74\x69\x63\x69\x6E\x67\x20\x74\x68\x65\x20\x63\x68\x61\x6E\x67\x69\x6E\x67\x20\x6F\x66\x20\x74\x68\x65\x20\x73\x65\x61\x73\x6F\x6E\x2C\x20\x6D\x6F\x74\x68\x65\x72\x20\x6E\x61\x74\x75\x72\x65\x20\x64\x72\x65\x73\x73\x69\x6E\x67\x20\x75\x70\x20\x69\x6E\x20\x68\x65\x72\x20\x62\x65\x73\x74\x20\x72\x65\x64\x20\x67\x6F\x77\x6E\x2C\x20\x66\x6F\x72\x20\x68\x65\x72\x20\x62\x69\x67\x20\x6E\x69\x67\x68\x74\x2C\x20\x62\x65\x66\x6F\x72\x65"
+  last_post_date: "2025-11-04T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/October_2025_Recap
   last_post_categories:
-  - indieweb carnival
-  - life
-  - love
   - personal
+  - reading
+  - reflection
+  - writing
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:

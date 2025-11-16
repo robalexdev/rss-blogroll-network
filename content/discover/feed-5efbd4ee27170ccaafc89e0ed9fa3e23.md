@@ -1,6 +1,6 @@
 ---
 title: 生信爱好者周刊
-date: "2025-09-08T02:49:38Z"
+date: "2025-11-08T09:20:25Z"
 description: 记录每周值得分享的生信相关内容，周日发布。
 params:
   feedlink: https://openbiox.github.io/weekly/feed_rss_created.xml
@@ -17,13 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 年度汇总
-  last_post_description: 2025年已发布 5 期，涵盖生物信息学前沿研究、学术动态、工具资源等内容。
-  last_post_date: "2025-09-08T02:28:27Z"
-  last_post_link: https://openbiox.github.io/weekly/archive-2025/
+  last_post_title: 第176期
+  last_post_description: |-
+    生信爱好者周刊（第176期）：有组织科研，是不是学阀大杀四方，片甲不留？¶
+    这里记录值得分享的生信相关内容，每半月发布。
+    本杂志开源（GitHub:
+  last_post_date: "2025-11-02T04:16:54Z"
+  last_post_link: https://openbiox.github.io/weekly/issue-176/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c8d07dbc1b351fa7ee86b89788f6409
+  last_post_guid: 7f6852d80afa5d136905bf85b3f738c0
   score_criteria:
     cats: 0
     description: 3

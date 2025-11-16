@@ -17,31 +17,30 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - philosophy
+  categories: []
   relme: {}
-  last_post_title: 'searching for purpose in stillness: one month without doing'
-  last_post_description: I'm taking a month off from doing — no coding, no building
-    — just writing and wondering if stillness can help me find a sense of purpose.
-  last_post_date: "2025-05-27T15:49:00Z"
-  last_post_link: https://shilin.ca/searching-for-purpose-in-stillness-one-month-without-doing/
-  last_post_categories:
-  - philosophy
+  last_post_title: things i learned about contracting
+  last_post_description: Quality work outweighs everything else when you contract
+    for clients. Your work is your reputation. So do it well, and people will remember
+    you.
+  last_post_date: "2025-09-20T07:28:00Z"
+  last_post_link: https://shilin.ca/things-i-learned-about-contracting/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: bda4f426909fd99c0bfc6e35dd79130c
+  last_post_guid: 46aa38e69c49127ed73f4e5b123f52c2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

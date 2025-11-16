@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-01-30T23:53:27Z"
+date: "2025-11-13T15:26:30Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -35,15 +35,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: Navigating the Obvious Shoulds
-  last_post_description: This dumb little square has been helping me out lately. 
-    Have you noticed there are a lot of dumb little decisions to make? Have you also
-    noticed that most of these decisions, while dumb, are not
-  last_post_date: "2025-09-02T17:14:55Z"
-  last_post_link: https://anniemueller.com/posts/navigating-the-obvious-shoulds
+  last_post_title: My new business + tech podcast
+  last_post_description: After reading1 the recent news about the unsurprising lack
+    of diversity in podcasting — “64% of the hosts of the most popular US podcasts
+    of 2024 were men…Shows with video...
+  last_post_date: "2025-11-13T15:26:30Z"
+  last_post_link: https://anniemueller.com/posts/my-new-business-tech-podcast
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fed3f7bc13d513abf564c11ecb9d90a3
+  last_post_guid: dec1b6460dbe7b81ef247e9984216aee
   score_criteria:
     cats: 0
     description: 0

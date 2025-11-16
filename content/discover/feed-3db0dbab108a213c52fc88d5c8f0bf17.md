@@ -259,10 +259,11 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - performance
-  - security
-  - web
-  - web development
+  - cache log
+  - devil's quoits
+  - dog
+  - geocaching
+  - stanton harcourt
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -273,21 +274,21 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Repost] It Is A War Out There – Take Control of Your Supply Lines
-    with HtDTY'
-  last_post_description: Andrew Stephens reminds us to HtDTY (Host the Damn Thing
-    Yourself) to reduce the risk of supply chain attacks and improve privacy. But
-    I think the argument goes further than this.
-  last_post_date: "2025-10-15T15:46:07+01:00"
-  last_post_link: https://danq.me/2025/10/15/it-is-a-war-out-there-take-control-of-your-supply-lines-with-htdty/
+  last_post_title: '[Checkin] Dan Q wrote note for GC88ZY9 The Devil’s Quoits'
+  last_post_description: A local landowner has (controversially) decided to start
+    enforcing their ownership of the land surrounding the lake at Dix Pit, and has
+    erected new fences and private property signs to deter
+  last_post_date: "2025-11-15T16:40:00Z"
+  last_post_link: https://danq.me/2025/11/15/dan-q-wrote-note-for-gc88zy9-the-devils-quoits/
   last_post_categories:
   - Personal
-  - performance
-  - security
-  - web
-  - web development
+  - cache log
+  - devil's quoits
+  - dog
+  - geocaching
+  - stanton harcourt
   last_post_language: ""
-  last_post_guid: 2daa0b757171d8ecd8eda9922345f97a
+  last_post_guid: 2ee440afc527873070d438297737ed12
   score_criteria:
     cats: 0
     description: 3

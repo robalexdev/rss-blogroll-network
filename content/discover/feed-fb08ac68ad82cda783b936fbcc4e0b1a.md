@@ -12,35 +12,35 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Arts And Culture
-  - catfishing
-  - documentaries
-  - netflix
-  - true crime
-  - unknown number
+  - Boxing
+  - Chris Eubank Jr.
+  - Chris Eubank Sr.
+  - The Fights
+  - conor benn
+  - nigel benn
   relme: {}
-  last_post_title: Not Every Documentary About A Crime Needs To Be A True Crime Documentary
-  last_post_description: 'The events outlined in the Netflix documentary Unknown Number:
-    The High School Catfish are undoubtedly salacious. In October 2020, Lauryn Licari
-    and her boyfriend Owen McKenny, two teenagers in the'
-  last_post_date: "2025-09-14T21:40:55Z"
-  last_post_link: https://defector.com/not-every-documentary-about-a-crime-needs-to-be-a-true-crime-documentary
+  last_post_title: 'Like Fathers, Like Sons: Benn-Eubank Jr. Fight Fuels Family Feuds'
+  last_post_description: The prefight of the year already has been fought. Conor Benn
+    and Chris Eubank Jr. both made weight Friday in London for their Saturday night
+    rematch at Tottenham Hotspur Stadium. As the size of the
+  last_post_date: "2025-11-14T20:24:45Z"
+  last_post_link: https://defector.com/like-fathers-like-sons-benn-eubank-jr-fight-fuels-family-feuds
   last_post_categories:
-  - Arts And Culture
-  - catfishing
-  - documentaries
-  - netflix
-  - true crime
-  - unknown number
+  - Boxing
+  - Chris Eubank Jr.
+  - Chris Eubank Sr.
+  - The Fights
+  - conor benn
+  - nigel benn
   last_post_language: ""
-  last_post_guid: 83ab96d9974fb5bba8740630678df88f
+  last_post_guid: dab2b04aac42829104cee11ef60d0d67
   score_criteria:
     cats: 0
     description: 3

@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://zylinski.se/: true
-  last_post_title: Know why you don't like OOP
-  last_post_description: |-
-    Programmers tend to fight about why Object-Oriented Programming (OOP) is good or bad.
-    Among the anti-OOP crowd, I often see junior programmers hate on OOP and “rebroadcast” what they’ve heard
-  last_post_date: "2025-08-26T22:15:00+02:00"
-  last_post_link: https://zylinski.se/posts/know-why-you-dont-like-oop/
+  last_post_title: Iterating strings and manually decoding UTF-8
+  last_post_description: This post is an adapted excerpt from Understanding the Odin
+    Programming Language – the acclaimed eBook on learning Odin and understanding
+    low-level concepts. Visit https://odinbook.com for more
+  last_post_date: "2025-09-23T09:29:00+02:00"
+  last_post_link: https://zylinski.se/posts/iterating-strings-and-manually-decoding-utf8/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c581163187d9694ce7136301d6421211
+  last_post_guid: a884ee005cb1c64fc8a544a19e8e9183
   score_criteria:
     cats: 0
     description: 3

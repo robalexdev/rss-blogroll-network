@@ -15,16 +15,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ubuntu Pro
+  - Open source
   relme: {}
-  last_post_title: What our users make with Ubuntu Pro &#8211; Episode 2
-  last_post_description: How Vaultara achieved FedRAMP compliance with Ubuntu Pro
-    Ubuntu Pro helps businesses worldwide to innovate and shape the future. In this
-    edition of What our users make with Pro, we talk to Dave Monk,
-  last_post_date: "2025-09-11T12:13:51Z"
-  last_post_link: https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2
+  last_post_title: A CISO’s preview of open source and cybersecurity trends in 2026
+    and beyond
+  last_post_description: Where is open source going next? Whatâ€™s in store for open
+    source in the coming years, particularly in relation to security? Hereâ€™s a CISO’s
+    reflection on the state of open source, and
+  last_post_date: "2025-11-14T08:00:00Z"
+  last_post_link: https://ubuntu.com//blog/a-cisos-preview-of-open-source-and-cybersecurity-trends-in-2026-and-beyond
   last_post_categories:
-  - Ubuntu Pro
+  - Open source
   last_post_language: ""
   last_post_guid: 82972629a3f81a60d5b663dc6e457583
   score_criteria:

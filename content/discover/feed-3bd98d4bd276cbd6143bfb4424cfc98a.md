@@ -20,6 +20,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
@@ -31,16 +34,16 @@ params:
   categories:
   - development
   relme: {}
-  last_post_title: A stack of browsers
-  last_post_description: "I was a very happy Arc user for a couple of years, but after
-    The Browser Company announced they would no longer be working on it, I started
-    to assess alternatives. \nNow I've ended up with a stack of"
-  last_post_date: "2025-06-01T13:06:00Z"
-  last_post_link: https://rachsmith.com/a-stack-of-browsers/
+  last_post_title: 'Who needs a flying car when you have display: grid'
+  last_post_description: |-
+    A friend asked me if I could build him a simple website for his new Mechanical Engineering business: just a few pages showing off what they’re about and what they can do. 
+    This is the sort of work
+  last_post_date: "2025-10-10T09:10:00Z"
+  last_post_link: https://rachsmith.com/who-needs-a-flying-car/
   last_post_categories:
   - development
   last_post_language: ""
-  last_post_guid: 3343c619666b4ec9bf88f714b372fce4
+  last_post_guid: 0781f8f8ecc48f0e3c9ebc534a8969a8
   score_criteria:
     cats: 0
     description: 3

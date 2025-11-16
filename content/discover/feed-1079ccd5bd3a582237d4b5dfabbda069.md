@@ -17,48 +17,39 @@ params:
   recommender: []
   categories:
   - '#napoli'
-  - NaLUGAtUniNA
+  - Editoriale
+  - LNDA25
+  - Linux Day Napoli 2025
   - News
-  - POSTGRESQL
-  - Riunioni
-  - backup
-  - database
-  - dba
-  - disaster recovery
   - freesoftware
+  - grazie
+  - libertàdigitali
   - libresoftware
-  - linux
-  - meeting
+  - linuxday2025
   - openhardware
   - opensource
-  - riunione didattica
-  - rtfm
   relme: {}
-  last_post_title: NaLUG@UniNA – sabato 17 maggio 2025
-  last_post_description: Ciclo di incontri su software e hardware open source e libertà
-    digitali
-  last_post_date: "2025-05-14T17:05:53Z"
-  last_post_link: https://www.nalug.tech/nalugunina-sabato-17-maggio-2025/
+  last_post_title: Linux Day Napoli 2025 – Grazie!
+  last_post_description: Grazie! Anche questa edizione è giunta al termine. Mesi di
+    febbrili preparativi che terminano in una giornata intensa e piena di cose da
+    fare. La soddisfazione che si ha a fine evento è enorme! Ci
+  last_post_date: "2025-10-26T20:27:48Z"
+  last_post_link: https://www.nalug.tech/linux-day-napoli-2025-grazie/
   last_post_categories:
   - '#napoli'
-  - NaLUGAtUniNA
+  - Editoriale
+  - LNDA25
+  - Linux Day Napoli 2025
   - News
-  - POSTGRESQL
-  - Riunioni
-  - backup
-  - database
-  - dba
-  - disaster recovery
   - freesoftware
+  - grazie
+  - libertàdigitali
   - libresoftware
-  - linux
-  - meeting
+  - linuxday2025
   - openhardware
   - opensource
-  - riunione didattica
-  - rtfm
   last_post_language: ""
-  last_post_guid: 11150431c28c711075be9d4e88d274c3
+  last_post_guid: 62d00236ec688fd575e66c2ab3b8f601
   score_criteria:
     cats: 0
     description: 3

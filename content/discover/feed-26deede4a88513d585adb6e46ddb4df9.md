@@ -18,15 +18,14 @@ params:
   categories:
   - Projects
   relme: {}
-  last_post_title: 8-pin Linux
-  last_post_description: Interactive-speed Linux on a tiny board you can easily build
-    with only 3 8-pin chips
-  last_post_date: "2025-04-03T00:00:00Z"
-  last_post_link: https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux
+  last_post_title: rePalm
+  last_post_description: PalmOS on new hardware!
+  last_post_date: "2025-11-02T00:00:00Z"
+  last_post_link: https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
   last_post_categories:
   - Projects
   last_post_language: ""
-  last_post_guid: 75c193977c7302e3a1484b2155241f84
+  last_post_guid: 400ec8dd12b634e422d8fa1c4d59ad1a
   score_criteria:
     cats: 0
     description: 3

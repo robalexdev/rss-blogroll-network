@@ -19,17 +19,17 @@ params:
   - Notes
   - Premium
   relme: {}
-  last_post_title: Global Bond Rout
-  last_post_description: The significant rise in global bond yields in recent months
-    is driven by three intertwined stories that can each shed light on the trajectory
-    of the long yields. First, the Dutch pension fund system
-  last_post_date: "2025-09-08T11:55:49Z"
-  last_post_link: https://fedguy.com/global-bond-rout/?utm_source=rss&utm_medium=rss&utm_campaign=global-bond-rout
+  last_post_title: Heirloom Mortgage
+  last_post_description: A 50 year mortgage would not be successful today, but it
+    could be a tailwind to the housing market in a world with lower rates and more
+    product knowledge. Longer term mortgages can improve housing
+  last_post_date: "2025-11-10T15:44:21Z"
+  last_post_link: https://fedguy.com/heirloom-mortgage/?utm_source=rss&utm_medium=rss&utm_campaign=heirloom-mortgage
   last_post_categories:
   - Notes
   - Premium
   last_post_language: ""
-  last_post_guid: 51867680e3892d2b5fef8ad9d0d983f2
+  last_post_guid: 9b7e554d0f15718eec71bde26fc1c5fc
   score_criteria:
     cats: 0
     description: 3

@@ -20,11 +20,11 @@ params:
     https://current.workingdirectory.net/tags/debian/: true
   last_post_title: Avoiding Apache Max Request Workers Errors
   last_post_description: |-
+    [Update 2025-10-09… turns out my first great solution doesn’t work after
+    all, updated to reflect new options.]
     Wow, I hate this error:
 
-    AH00484: server reached MaxRequestWorkers setting, consider raising the
-    MaxRequestWorkers setting
-    For starters, it means I have to relearn how MaxRequestWorkers functions in
+    AH00484: server reached MaxRequestWorkers setting, consider
   last_post_date: "2025-07-11T08:27:10-04:00"
   last_post_link: https://current.workingdirectory.net/posts/2025/avoiding-max-request-workers-errors/
   last_post_categories: []

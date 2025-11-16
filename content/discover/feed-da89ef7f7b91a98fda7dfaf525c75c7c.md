@@ -1,6 +1,6 @@
 ---
 title: AndreGarzia.com
-date: "2025-09-01T12:00:00Z"
+date: "2025-11-12T12:00:00Z"
 description: ""
 params:
   feedlink: https://andregarzia.com/feeds/all.atom.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://andregarzia.com/: true
-  last_post_title: Pão de queijo recipe
+  last_post_title: Had a good time at Edinburgh Radical Book Fair
   last_post_description: ""
-  last_post_date: "2025-09-01T12:00:00Z"
-  last_post_link: https://andregarzia.com/2025/09/pao-de-queijo-recipe.html
+  last_post_date: "2025-11-12T12:00:00Z"
+  last_post_link: https://andregarzia.com/2025/11/had-a-good-time-at-edinburgh-radical-book-fair.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3de2f2d29724f5aa6c8254855396d3b8
+  last_post_guid: e5ebf55a23d8afa345aa3fd09fb15e2b
   score_criteria:
     cats: 0
     description: 0

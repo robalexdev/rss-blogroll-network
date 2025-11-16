@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2025-05-25T23:00:00Z"
+date: "2025-09-21T14:48:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -16,16 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /history
+  - /prog/git
   relme: {}
-  last_post_title: Mystery of the quincunx's missing quincunx
+  last_post_title: My new git utility `what-changed-twice` needs a new name
   last_post_description: ""
-  last_post_date: "2025-05-25T23:00:00Z"
-  last_post_link: https://blog.plover.com/history/quincunx.html
+  last_post_date: "2025-09-21T14:48:00Z"
+  last_post_link: https://blog.plover.com/prog/git/what-changed-twice.html
   last_post_categories:
-  - /history
+  - /prog/git
   last_post_language: ""
-  last_post_guid: 83fa486d06fd918494c2205c9b2147b4
+  last_post_guid: f2a4d48101ee90016a84620ac5093955
   score_criteria:
     cats: 0
     description: 3

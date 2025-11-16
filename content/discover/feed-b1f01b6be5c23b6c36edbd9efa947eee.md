@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Best Brands for Enthusiasts
-  last_post_description: |-
-    Good things are approximately ten times better than the average thing you can buy. In each category. The real challenge is finding them.
-    Wirecutter was supposed to be exactly about this, but I often
-  last_post_date: "2025-09-10T13:52:00Z"
-  last_post_link: https://molodtsov.me/2025/09/enthusiast-brands/
+  last_post_title: Retro Tech Became the New Luxury
+  last_post_description: YouTube is full of videos with people trying to replace their
+    iPhone with half a dozen devices. They carry an iPod for music, a dedicated camera
+    to take photos, a Kindle for reading, a notebook for
+  last_post_date: "2025-11-13T23:20:00Z"
+  last_post_link: https://molodtsov.me/2025/11/retro-tech-luxury/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54b6241bba18a29c49771a5e87af7baf
+  last_post_guid: 44675caf2d736d68432ff95bb9d4e8c4
   score_criteria:
     cats: 0
     description: 3

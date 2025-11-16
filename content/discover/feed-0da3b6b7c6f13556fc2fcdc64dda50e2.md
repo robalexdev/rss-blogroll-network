@@ -35,19 +35,18 @@ params:
   - talks
   relme:
     https://www.nathalielawhead.com/candybox: true
-  last_post_title: 'A crash course introduction into experimental indie games: Arthouse
-    Games as a force for good & the activism of video games'
-  last_post_description: |-
-    Counter-culture in our digital world is an expression of the better future we know is possible.
-    Gaming, fandom, artists, developers, are part of the solution.
-    We can empower each-other to make a
-  last_post_date: "2025-05-25T10:17:18Z"
-  last_post_link: https://www.nathalielawhead.com/candybox/a-crash-course-introduction-into-experimental-indie-games-arthouse-games-as-a-force-for-good-the-activism-of-video-games
+  last_post_title: “game engine medley” — prototyping with small tools and mixing
+    game engines for complex storytelling
+  last_post_description: 'Pictured above: Gamejam pizza! This post is a transcript
+    of a talk I gave at BIMM University, Berlin. Thank you for inviting me! I had
+    a lot of fun sharing :) Links in this slide ~ tetrageddon.com'
+  last_post_date: "2025-11-03T15:31:46Z"
+  last_post_link: https://www.nathalielawhead.com/candybox/game-engine-medley-prototyping-with-small-tools-and-mixing-game-engines-for-complex-storytelling
   last_post_categories:
   - Games
   - talks
   last_post_language: ""
-  last_post_guid: ff44c3b27518183e2d6f339da2269b0e
+  last_post_guid: 695a04e2f8d5444557d93590277a229f
   score_criteria:
     cats: 0
     description: 3

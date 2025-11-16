@@ -19,24 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 争议
-  - 交易争议
-  - 信用卡
-  - 动视暴雪
+  - 清华大学
   - 生活与世界
+  - 紫荆公寓
   relme: {}
-  last_post_title: 记一次信用卡盗刷
-  last_post_description: 今天，我发现我的星展银行（新加坡）的信用卡中有一笔莫名其妙的账单。于是我立刻跟星展银行的客服取得了联系，并且协…
-  last_post_date: "2025-07-29T12:18:07Z"
-  last_post_link: https://dgideas.net/2025/a-credit-card-fraud-incident/
+  last_post_title: 紫15旧寓的最后一晚
+  last_post_description: 本文的作者是博主的一位发小。 半年前，hl 回清华，我们一同在五道口的意大利面馆吃了一顿，饭后一路走回学校。我…
+    继续阅读紫15旧寓的最后一晚
+  last_post_date: "2025-10-16T15:21:27Z"
+  last_post_link: https://dgideas.net/2025/zi15-the-last-night/
   last_post_categories:
-  - 争议
-  - 交易争议
-  - 信用卡
-  - 动视暴雪
+  - 清华大学
   - 生活与世界
+  - 紫荆公寓
   last_post_language: ""
-  last_post_guid: 39560844993a49b265a02e7531e47e9b
+  last_post_guid: 059e24a7403dc154e0f7459b6a1c2479
   score_criteria:
     cats: 0
     description: 3

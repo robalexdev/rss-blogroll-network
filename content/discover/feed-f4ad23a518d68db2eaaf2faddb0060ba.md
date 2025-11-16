@@ -18,17 +18,17 @@ params:
   - L10n Reports
   - Planet
   relme: {}
-  last_post_title: 'L10n Report: July Edition 2025'
+  last_post_title: 'L10n Report: November Edition 2025'
   last_post_description: Please note some of the information provided in this report
     may be subject to change as we are sometimes sharing information about projects
     that are still in early stages and … Read more
-  last_post_date: "2025-07-31T16:55:24Z"
-  last_post_link: https://blog.mozilla.org/l10n/2025/07/31/l10n-report-july-edition-2025/
+  last_post_date: "2025-11-03T20:07:07Z"
+  last_post_link: https://blog.mozilla.org/l10n/2025/11/03/l10n-report-november-edition-2025/
   last_post_categories:
   - L10n Reports
   - Planet
   last_post_language: ""
-  last_post_guid: eb396076bf8d6f9c47efbdb216d4b7f8
+  last_post_guid: 01c9ff418ba0f37bbd90274ea157bc42
   score_criteria:
     cats: 0
     description: 3

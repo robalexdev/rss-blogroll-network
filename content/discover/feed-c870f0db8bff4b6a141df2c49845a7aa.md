@@ -1,6 +1,6 @@
 ---
 title: shellsharks Devlogs
-date: "2025-09-15T05:04:28-04:00"
+date: "2025-11-15T16:03:37-05:00"
 description: Shellsharks development logs
 params:
   feedlink: https://shellsharks.com/feeds/devlog-feed.xml

@@ -17,18 +17,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - graphics
+  - Uncategorized
   relme: {}
-  last_post_title: XDC 2023
-  last_post_description: I was at XDC 2023 in A Coruña a few days ago where I had
-    the opportunity to talk about some of the work we have been doing on the Raspberry
-    Pi driver stack together with my colleagues Juan Suárez
-  last_post_date: "2023-10-30T11:15:52Z"
-  last_post_link: https://blogs.igalia.com/itoral/2023/10/30/xdc-2023/
+  last_post_title: XDC 2025
+  last_post_description: It has been a while since my last post, I know. Today I just
+    want to thank Igalia for continuing to give me and many other Igalians the opportunity
+    to attend XDC. I had a great time in Vienna where I
+  last_post_date: "2025-10-03T06:58:20Z"
+  last_post_link: https://blogs.igalia.com/itoral/2025/10/03/xdc-2025/
   last_post_categories:
-  - graphics
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 6a5961d82d5496efab8138f9e73244aa
+  last_post_guid: 0ef67f3b5b4e22327befd6074b6aa703
   score_criteria:
     cats: 0
     description: 3

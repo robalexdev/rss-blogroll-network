@@ -18,26 +18,35 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - internet
-  - mobiles
-  - networking
-  - wifi
-  - work
+  - children
+  - coffee
+  - logo
+  - maths
+  - parenting
+  - programming
+  - programming languages
+  - school
+  - teaching
   relme: {}
-  last_post_title: '[Article] Two Days Offline'
-  last_post_description: This week we lost Internet access for two whole days, and
-    it was pretty disruptive and annoying!
-  last_post_date: "2025-09-14T10:00:38+01:00"
-  last_post_link: https://danq.me/2025/09/14/two-days-offline/
+  last_post_title: '[Article] How I Learned the Pythagorean Theorem'
+  last_post_description: I clearly remember the day I first learned the Pythagorean
+    theorem, because I had a problem I wanted to solve and a practical application
+    that I wanted to use it on. Let's re-create the experience,
+  last_post_date: "2025-11-13T11:52:34Z"
+  last_post_link: https://danq.me/2025/11/13/pythagorean-theorem/
   last_post_categories:
   - Personal
-  - internet
-  - mobiles
-  - networking
-  - wifi
-  - work
+  - children
+  - coffee
+  - logo
+  - maths
+  - parenting
+  - programming
+  - programming languages
+  - school
+  - teaching
   last_post_language: ""
-  last_post_guid: e0dc037190d129320e35fe658ca4ec30
+  last_post_guid: 5bcbc4448898274663ff3dc302293e25
   score_criteria:
     cats: 0
     description: 3

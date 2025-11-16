@@ -163,6 +163,7 @@ params:
   - https://www.trovster.com/music/listens.xml
   - https://www.trovster.com/music/lyrics.xml
   - https://www.trovster.com/photos/journal.xml
+  - https://www.trovster.com/photos/loves.xml
   - https://www.trovster.com/photos/posts.xml
   - https://www.trovster.com/prints.xml
   recommender: []

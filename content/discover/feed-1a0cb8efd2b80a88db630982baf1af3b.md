@@ -47,15 +47,15 @@ params:
   categories: []
   relme:
     https://reillyspitzfaden.com/blog: true
-  last_post_title: ルビとHTML
-  last_post_description: I took a few years of Japanese classes in undergrad, and
-    today I'm returning to that and discussing some HTML markup for Japanese and other
-    East Asian languages.
-  last_post_date: "2025-08-19T21:14:00Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2025/08/ruby-html/
+  last_post_title: Reverb Part 2—Natural Rooms with Allpass Rings
+  last_post_description: I discuss some lovely-sounding reverbs that make echo densities
+    build up over time, as in a real room. They're available in my VST/AU plugin,
+    and I link to Max/MSP versions as well.
+  last_post_date: "2025-09-28T16:16:34Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2025/09/reverb-part-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3e1c7bfbeb9e4f806c18fedc187305b9
+  last_post_guid: 2979f14640ee55d239aa9d7a6f4193cf
   score_criteria:
     cats: 0
     description: 3

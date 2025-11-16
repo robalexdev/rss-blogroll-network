@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2025-09-11T18:29:43Z"
+date: "2025-10-28T18:20:42Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -15,7 +15,7 @@ params:
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.7.54.
+      by feedlandDatabase v0.8.4.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
   recommender:

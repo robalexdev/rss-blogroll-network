@@ -1,6 +1,6 @@
 ---
 title: Abhinav's Notes
-date: "2025-09-10T10:14:00Z"
+date: "2025-09-24T08:37:00Z"
 description: ""
 params:
   feedlink: https://notes.abhinavsarkar.net/feed.atom
@@ -17,33 +17,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - indieweb
-  - observations
+  - general
   relme: {}
-  last_post_title: The Many Broken Feeds
-  last_post_description: RSS/Atom feeds are central to my reading process. I subscribe
-    to over 700 feeds that I have curated over years. Most of them work fine most
-    of the time, but a few are always broken in various
-  last_post_date: "2025-09-09T00:00:00Z"
-  last_post_link: https://notes.abhinavsarkar.net/2025/broken-feeds
+  last_post_title: New Endings
+  last_post_description: Like everything does, this website has now ended. The notes
+    have been migrated to my main website. This one last note is meant for those who
+    subscribe to the Atom feed of this website. Please edit
+  last_post_date: "2025-09-24T00:00:00Z"
+  last_post_link: https://notes.abhinavsarkar.net/2025/new-endings
   last_post_categories:
-  - indieweb
-  - observations
+  - general
   last_post_language: ""
-  last_post_guid: 7b610c1cf173a4c9fbab92d274d4fca9
+  last_post_guid: b8b106567b4a15c8a2c1467b54a25d13
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 14
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

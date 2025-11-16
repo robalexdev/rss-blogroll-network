@@ -16,51 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Benelux
   - Blog
-  - Cyber Resilience
-  - Cybersec Netherlands
-  - Greenbone
-  - NIS2
-  - OpenVAS
-  - Utrecht
-  - Vulnerability Management
-  - cybersecurity
-  - it security
   relme: {}
-  last_post_title: OPENVAS B.V. Debuts at Cybersec Netherlands 2025 in Utrecht
-  last_post_description: Utrecht will be the central meeting point for the cybersecurity
-    community on September 10 – 11, 2025. OPENVAS B.V. will make its first appearance
-    at Cybersec Netherlands, marking an important
-  last_post_date: "2025-09-05T08:13:43Z"
-  last_post_link: https://www.greenbone.net/en/blog/openvas-b-v-debuts-at-cybersec-netherlands-2025-in-utrecht/
+  last_post_title: 'September 2025 Threat Report: New Exploits, Active Campaigns,
+    and Critical CVEs'
+  last_post_description: In total, just over 4,500 CVEs were published in September,
+    exposing defenders to new risk. For operational resilience, organizations need
+    to scan their IT infrastructure to identify where hidden
+  last_post_date: "2025-10-09T09:49:07Z"
+  last_post_link: https://www.greenbone.net/en/blog/september-2025-threat-report-new-exploits-active-campaigns-and-critical-cves/
   last_post_categories:
-  - Benelux
   - Blog
-  - Cyber Resilience
-  - Cybersec Netherlands
-  - Greenbone
-  - NIS2
-  - OpenVAS
-  - Utrecht
-  - Vulnerability Management
-  - cybersecurity
-  - it security
   last_post_language: ""
-  last_post_guid: b2457e9dbd323b6f716fac297145a653
+  last_post_guid: 19f0369690d5925df56cae4f86ad9f36
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

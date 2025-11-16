@@ -1,6 +1,6 @@
 ---
 title: readerunner
-date: "2025-06-15T15:32:02Z"
+date: "2025-09-24T09:01:51Z"
 description: maths and computing experiments
 params:
   feedlink: https://readerunner.wordpress.com/feed/atom/
@@ -19,10 +19,10 @@ params:
   - Maths
   relme: {}
   last_post_title: PenroseKiteDart User Guide
-  last_post_description: Introduction (Updated June 2025 for PenroseKiteDart version
-    1.4) PenroseKiteDart is a Haskell package with tools to experiment with finite
-    tilings of Penrose’s Kites and Darts. It uses the Haskell
-  last_post_date: "2025-06-15T15:32:02Z"
+  last_post_description: Introduction (Updated September 2025 for PenroseKiteDart
+    version 1.5.1) PenroseKiteDart is a Haskell package with tools to experiment with
+    finite tilings of Penrose’s Kites and Darts. It uses the
+  last_post_date: "2025-09-24T09:01:51Z"
   last_post_link: https://readerunner.wordpress.com/2024/04/08/penrosekitedart-user-guides/
   last_post_categories:
   - Haskell

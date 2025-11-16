@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2025-08-01T00:00:00Z"
+date: "2025-11-02T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -18,6 +18,9 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: A list of sites Ethan likes
+    description: ""
+    id: 796603efcff00ba474bbbd88e566b727
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
@@ -53,13 +56,13 @@ params:
   - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: 'Goal: make one comic this year'
+  last_post_title: Shortbox Comics
   last_post_description: ""
-  last_post_date: "2025-08-01T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/goal-make-one-comic/
+  last_post_date: "2025-11-02T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2025/shortbox-comics/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ef19b8922f39dcd79f43f2b3423ad720
+  last_post_guid: 851bbca0aa6ac4e30ec31827d05ee0e5
   score_criteria:
     cats: 0
     description: 3

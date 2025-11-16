@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2025-09-13T13:29:54Z"
+date: "2025-11-09T13:07:39Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -21,14 +21,14 @@ params:
   categories:
   - LLM
   relme: {}
-  last_post_title: 怎么让claude code用国内的模型
-  last_post_description: 之前体验过gemini code这个工具，谷歌还算比较友好，有token，有网络就可以用，claude
-  last_post_date: "2025-09-13T13:29:54Z"
-  last_post_link: https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/
+  last_post_title: 基于iflow的qwen模型来体验代码生成
+  last_post_description: 这里我们用iflow的默认Qwen3-Coder-Plus模型来生成一个todo应用本次的prompt稍微调整了下
+  last_post_date: "2025-11-09T13:07:39Z"
+  last_post_link: https://nicksxs.me/2025/11/09/%E5%9F%BA%E4%BA%8Eiflow%E7%9A%84qwen%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BD%93%E9%AA%8C%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90/
   last_post_categories:
   - LLM
   last_post_language: ""
-  last_post_guid: 55f2ddc291127dea4b01fd1073640371
+  last_post_guid: 1aa5eff211c0626ae2169138205dcc9c
   score_criteria:
     cats: 0
     description: 3

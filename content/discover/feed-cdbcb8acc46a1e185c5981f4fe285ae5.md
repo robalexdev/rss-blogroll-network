@@ -17,13 +17,28 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 斜刺里杀出的拼多多
-  last_post_description: "营收、成本和毛利\n    经营费用\n    经营利润与经营利润率（核心指标）\n    净利润与净利率\n "
-  last_post_date: "2025-09-11T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2025/09/pdd/
+  last_post_title: scikit-learn 做机器学习
+  last_post_description: |-
+    1 准备
+    2 分类模型
+
+    2.1 不带惩罚项
+    2.2 带 L2 （岭）惩罚
+    2.3 超参数寻优
+    2.4 随机森林
+    2.5 梯度提升
+
+    3 运行环境
+    4 参考文献
+
+
+
+    本文基于 iris 数据集介绍
+  last_post_date: "2025-11-01T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2025/11/scikit-learn/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 51046b06c7a37c21c2f8aecc008a8a63
+  last_post_guid: 9fbccaaa9f0aaa53cc05232b500e2085
   score_criteria:
     cats: 0
     description: 3

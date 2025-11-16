@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Mon, 15 Sep 2025 04:16:08 GMT
+date: Sat, 15 Nov 2025 17:40:55 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -640,6 +640,9 @@ params:
   - title: Jeeeyul's Eclipse Log
     description: Another Eclipse Blog
     id: c0721e7db239408690b7bb3455051c60
+  - title: Neil Bartlett
+    description: ""
+    id: c0869ea6c2a8ec771990c5b583f7010c
   - title: Nirav's Contemplations
     description: Thoughts on Programming, Software and Open Source.
     id: c23af7dd41e915636cf4a99a52fd5bd3
@@ -658,6 +661,9 @@ params:
   - title: bkapukaranov
     description: ""
     id: c752516a91b3e5fadebaee5679180983
+  - title: eclipse on Idiomaticsoft International LLC
+    description: Recent content in eclipse on Idiomaticsoft International LLC
+    id: c814b0874cbf9e2ffba23b8092f73f13
   - title: Opera Omnia
     description: Recent content on Opera Omnia
     id: c937a710c7261f189fa5c57d522444f2

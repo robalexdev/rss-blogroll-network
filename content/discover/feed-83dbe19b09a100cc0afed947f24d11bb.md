@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2025-08-19T17:51:00+02:00"
+date: "2025-10-11T18:43:19+02:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml

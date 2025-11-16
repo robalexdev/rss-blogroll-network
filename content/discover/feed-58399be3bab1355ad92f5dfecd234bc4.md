@@ -19,16 +19,13 @@ params:
   categories: []
   relme:
     https://yieldcode.blog/: true
-  last_post_title: Vibe Management
-  last_post_description: |-
-    Vibe coding is taking the internet by storm.
-    Popularized by Andrej Karpathy, it changes the entire industry.
-    But why only engineers should have all the fun?
-  last_post_date: "2025-04-01T16:00:00Z"
-  last_post_link: https://yieldcode.blog/post/vibe-management/
+  last_post_title: I'm Netlify-Free!
+  last_post_description: My journey from Netlify to self hosting on a VPS
+  last_post_date: "2025-09-23T19:00:00Z"
+  last_post_link: https://yieldcode.blog/post/i-am-netlify-free/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 895dd336015f0b46663a1761c2536047
+  last_post_guid: 330bc8011cc6b69af40cbdb093f8cdb4
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Program verification is not all-or-nothing
-  last_post_description: "There seems to be a common belief that program verification
-    is \na task that you toil at for ages until one day you see \nthat magic word,
-    VERIFIED.\nOne seminar speaker made this more explicit,"
-  last_post_date: "2025-09-05T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2025/09/05/All_or_nothing.html
+  last_post_title: '"Why don''t you use dependent types?"'
+  last_post_description: "To be fair, nobody asks me this exact question.\nBut people
+    have regularly asked why Isabelle dispenses with proof objects.\nThe two questions
+    are essentially the same, \nbecause proof objects are"
+  last_post_date: "2025-11-02T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a341d1b96ea0b4fef38751348dc980a
+  last_post_guid: 429fca1fecac6a10ca5fad2ec64bcb2b
   score_criteria:
     cats: 0
     description: 3

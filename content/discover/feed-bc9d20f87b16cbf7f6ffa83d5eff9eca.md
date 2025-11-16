@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2025-08-31T20:26:21Z"
+date: "2025-11-09T18:14:29Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Produce more than you consume
+  last_post_title: Why is my kitchen so clean?
   last_post_description: ""
-  last_post_date: "2025-07-27T00:00:00Z"
-  last_post_link: https://lopespm.com/notes/2025/07/27/produce_more_than_you_consume.html
+  last_post_date: "2025-09-16T00:00:00Z"
+  last_post_link: https://lopespm.com/notes/2025/09/16/why_is_my_kitchen_so_clean.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b7e03b4b87599e0f753a01cfa55e75f4
+  last_post_guid: e6ba0de244e0150bfe629c6c85f701df
   score_criteria:
     cats: 0
     description: 0

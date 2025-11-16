@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 初试 DB-GPT
+  last_post_title: 从分税制改革到取消农业税
   last_post_description: ""
-  last_post_date: "2025-09-07T19:58:55+08:00"
-  last_post_link: https://yuanfan.rbind.io/project/dbgpt1/
+  last_post_date: "2025-10-30T19:15:53+08:00"
+  last_post_link: https://yuanfan.rbind.io/project/happend2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 893d65b745ed4cceb8c883f31d74a388
+  last_post_guid: 06ec049da9a655fb5a235ec7143fab42
   score_criteria:
     cats: 0
     description: 3

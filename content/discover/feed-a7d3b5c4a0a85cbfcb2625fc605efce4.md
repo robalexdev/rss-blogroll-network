@@ -42,29 +42,25 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - UX
   - Web
   - accessibility
-  - rant
-  - standards
-  - usability
+  - ethics
+  - overlay
   relme:
     https://adrianroselli.com/: true
-  last_post_title: My Thoughts on the State of Surveys
-  last_post_description: Every few months there’s another State of Something survey.
-    As of this week, the State of CSS 2025 survey results have just become available
-    and the State of HTML 2025 survey is wrapping up. This
-  last_post_date: "2025-08-14T14:50:36Z"
-  last_post_link: https://adrianroselli.com/2025/08/my-thoughts-on-the-state-of-surveys.html
+  last_post_title: Pre-order “Digital Accessibility Ethics”
+  last_post_description: Lainey Feingold, Reginé Gilbert, and Chancey Fleet gathered
+    36 authors across 10 countries and a commonwealth to write 32 chapters about ethics
+    in digital accessibility. I am one of those 36 authors
+  last_post_date: "2025-11-12T19:04:59Z"
+  last_post_link: https://adrianroselli.com/2025/11/pre-order-digital-accessibility-ethics.html
   last_post_categories:
-  - UX
   - Web
   - accessibility
-  - rant
-  - standards
-  - usability
+  - ethics
+  - overlay
   last_post_language: ""
-  last_post_guid: c581dfc9e5e8a1f73278fc76ab5c9ffc
+  last_post_guid: 0ab6e6895b493ab2b65e940316808b36
   score_criteria:
     cats: 0
     description: 3

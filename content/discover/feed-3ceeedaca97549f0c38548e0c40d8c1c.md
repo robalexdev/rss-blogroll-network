@@ -18,16 +18,16 @@ params:
   categories: []
   relme:
     https://www.djangoproject.com/weblog/: true
-  last_post_title: Nominate a Djangonaut for the 2025 Malcolm Tredinnick Memorial
-    Prize
-  last_post_description: "Hello Everyone \U0001F44B It is that time of year again
-    when we recognize someone from our community in memory of our friend Malcolm.\nMalcolm
-    was an early core contributor to Django and had a  huge"
-  last_post_date: "2025-09-13T15:18:27-05:00"
-  last_post_link: https://www.djangoproject.com/weblog/2025/sep/13/nominate-a-djangonaut-for-the-2025-malcolm-prize/
+  last_post_title: "Django at PyCon FR 2025 \U0001F1EB\U0001F1F7"
+  last_post_description: |-
+    Last week, we had a great time at PyCon FR 2025 - a free (!) gathering for Pythonistas in France. Here are some of our highlights.
+    Sprints on Django, our website, IA, marketing
+    Over two days, the
+  last_post_date: "2025-11-07T03:01:19-06:00"
+  last_post_link: https://www.djangoproject.com/weblog/2025/nov/07/django-at-pycon-fr-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b333198c0b466e6df7a54ec792585744
+  last_post_guid: d24f89882e90081526eff42ac57dcf16
   score_criteria:
     cats: 0
     description: 3

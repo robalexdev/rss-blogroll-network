@@ -20,30 +20,32 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Life
+  - 稽古
   relme: {}
-  last_post_title: User error
-  last_post_description: It’s confusing to be told not to give up. Give up on what?
-    Surely not on myself. I may be a cynic, occasionally even a depressive, but I
-    have never doubted that I know my own mind like a best
-  last_post_date: "2025-09-06T03:16:01Z"
-  last_post_link: https://www.conscienceround.com/archives/9581
+  last_post_title: Detrás de ti voy / Yo, que siempre espero que vengan a mí
+  last_post_description: True, that my spirit is broken in fourteen places; true,
+    that my macros are excellent; true, that I like blood sport; true, that I have
+    fallen in love. Fast-walking my Tokyo neighborhood, arms out
+  last_post_date: "2025-11-12T01:26:50Z"
+  last_post_link: https://www.conscienceround.com/archives/10022
   last_post_categories:
   - Life
+  - 稽古
   last_post_language: ""
-  last_post_guid: 681f7088d3876b24dc927074fbdc1f82
+  last_post_guid: ba8fdfc3c4c75e0447e2bc9764934f78
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

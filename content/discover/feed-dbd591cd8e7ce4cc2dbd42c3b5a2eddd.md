@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Do not disrespect the fractal
-  last_post_description: Some people have a misconception that in software engineering,
-    skill stops mattering for code quality from some level of seniority, and all of
-    the value add shifts to architecture, high level design
-  last_post_date: "2025-08-22T00:00:00Z"
-  last_post_link: https://zeux.io/2025/08/22/do-not-disrespect-the-fractal/
+  last_post_title: Billions of triangles in minutes
+  last_post_description: Early this year, NVIDIA released their new raytracing technology,
+    RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed
+    as a ~100 GB Unreal Engine scene - that can only be
+  last_post_date: "2025-09-30T00:00:00Z"
+  last_post_link: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: be4f4406681d73a5070db22a5127dd15
+  last_post_guid: 488bd0b7b306708b9479b9fc48cad527
   score_criteria:
     cats: 0
     description: 0

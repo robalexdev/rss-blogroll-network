@@ -17,34 +17,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Comunicati
   - FLUG
   relme:
     https://firenze.linux.it/: true
-  last_post_title: Migrazione server di posta
-  last_post_description: LunedÃ¬ 28 luglio 2025 sulla lista del FLUG Ã¨ stata annunciata
-    la migrazione al nuovo server di posta sul rinato serverino (nome in codice Coraggio).
-    Stiamo ancora verificando che tutto funzioni
-  last_post_date: "2025-08-15T10:12:20Z"
-  last_post_link: https://firenze.linux.it/2025/08/migrazione-server-di-posta/
+  last_post_title: Riunione operativa del 14/11/2025
+  last_post_description: 'VenerdÃ¬ 14 novembre 2025 alle 21:00 riunione operativa
+    del FLUG, presso l’abitazione di uno dei nostri soci, vicino via Baracca. Ordine
+    del giorno: trasloco del server Coraggio alla sua nuova'
+  last_post_date: "2025-11-10T19:03:41Z"
+  last_post_link: https://firenze.linux.it/2025/11/riunione-operativa-del-14-11-2025/
   last_post_categories:
-  - Comunicati
   - FLUG
   last_post_language: ""
-  last_post_guid: 5a21f819e4f9b23666e86663a6f6ee5f
+  last_post_guid: 79c0bbd16aec159bbf7810196e108dce
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

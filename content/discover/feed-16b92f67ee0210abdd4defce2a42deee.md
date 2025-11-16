@@ -1,7 +1,7 @@
 ---
 title: Alberto Gallego
-date: "2025-09-14T08:03:11Z"
-description: Software writer
+date: "2025-11-15T08:03:21Z"
+description: Independent software developer
 params:
   feedlink: https://albertogalca.com/feed.xml
   feedtype: rss
@@ -17,17 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The only way I’ve found to step away from the computer at a decent
-    hour
-  last_post_description: |-
-    I’m someone driven by obsessions, and by phases.
-
-    When I’m in one of those phases where I want to do everything on the computer, I forget about the rest of the world. I can spend 18 hours
-  last_post_date: "2025-07-20T00:00:00Z"
-  last_post_link: https://albertogalca.com/the-only-way-i-ve-found-to-step-away-from-the-computer-at-a-decent-hour
+  last_post_title: The continuous work of our life is to build death
+  last_post_description: Ever since I was a child, I’ve been somewhat obsessed with
+    death. It’s a topic many cultures don’t discuss much, yet it’s fundamental for
+    the simple fact that we’re all going to die at some
+  last_post_date: "2025-10-13T00:00:00Z"
+  last_post_link: https://albertogalca.com/the-continuous-work-of-our-life-is-to-build-death
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5f625a842f088f06905fb7fa6233c916
+  last_post_guid: 10a362146d39040306e0fbf783e9342e
   score_criteria:
     cats: 0
     description: 3

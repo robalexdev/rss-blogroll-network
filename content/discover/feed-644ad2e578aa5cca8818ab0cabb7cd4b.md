@@ -1,8 +1,8 @@
 ---
 title: Elmagnifico's Blog
-date: "2025-09-12T11:55:03+08:00"
-description: 后端与嵌入式、maya与游戏 | elmagnifico， Back-end engineer & Embedded System Lover
-  | 这里是elmagnifico的个人博客，君子之交淡如水。
+date: "2025-11-15T13:52:03+08:00"
+description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
+  & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
   feedlink: https://elmagnifico.tech/feed.xml
   feedtype: rss
@@ -19,29 +19,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Network
+  - 小米
+  - 米家
   relme: {}
-  last_post_title: WIFI模块ARP刷新问题
-  last_post_description: 二层局域网中，如果设备之间通信不仅仅需要知道IP地址，还需要知道mac地址，ARP的作用就是在加入一个新的局域网的时候自动广播一次，告诉局域网内
-  last_post_date: "2025-09-11T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2025/09/11/ARP/
+  last_post_title: 3D米家，智能家居未来
+  last_post_description: |-
+    Foreword
+
+    时隔好久，小米总算是做了我大概10年前智能家居的想法，先分享一下米家的测试版APP，建议使用平板安装，手机性能不够
+
+    夸克网盘：https://pan
+  last_post_date: "2025-11-14T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2025/11/14/xiaomi-home-iot/
   last_post_categories:
-  - Network
+  - 小米
+  - 米家
   last_post_language: ""
-  last_post_guid: 19e8191b99adae575880951ab8374d97
+  last_post_guid: d369e7969e4d0f502e36d5f87b4b4d50
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 现代浏览器插件开发指南
+  last_post_title: 在 Claude Code 中使用 GLM 4.6 的体验
   last_post_description: ""
-  last_post_date: "2025-04-09T00:00:00Z"
-  last_post_link: https://lutaonan.com/blog/browser-extension-development-guide
+  last_post_date: "2025-10-08T00:00:00Z"
+  last_post_link: https://lutaonan.com/blog/glm-with-claude-code
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a963a1ea8a7124d83ebebbefafb353d3
+  last_post_guid: ca0ff987367f0e333fcf6d713969f1d5
   score_criteria:
     cats: 0
     description: 3

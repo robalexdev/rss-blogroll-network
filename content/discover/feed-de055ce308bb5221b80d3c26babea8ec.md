@@ -1,6 +1,6 @@
 ---
 title: This Cute World
-date: "2025-09-09T10:55:36Z"
+date: "2025-11-15T09:32:01Z"
 description: ""
 params:
   feedlink: https://thiscute.world/index.xml
@@ -18,46 +18,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '%E4%BA%91%E5%8E%9F%E7%94%9F'
-  - '%E4%BA%91%E5%8E%9F%E7%94%9F%E7%9B%B8%E5%85%B3'
-  - ai
-  - cloud-native
-  - kubernetes
-  - llm
-  - opentelemetry
+  - life
   - ryan4yin
-  - tech
   relme: {}
-  last_post_title: KubeCon China 2025 见闻
-  last_post_description: 前言今年 1 月底辞职后，在家过了个年，接着在上海、张家界、重庆、苏州、南京玩了一圈，4 月中旬才回深圳开始找工作。本来看到
-    6 月就是 KubeCon
-  last_post_date: "2025-06-15T17:43:44+08:00"
-  last_post_link: https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed
+  last_post_title: 大梦一场
+  last_post_description: !!binary |
+    5aaC5LuK5Zue5Yiw5Lmh5LiL6ICB5a6277yM5oiR5oqK5LqM5qW85aSn5a6i5Y6F5biD57
+    2u5oiQ5LqG5Yqe5YWs5a6k77yM572u5Yqe5LqG5byg5aSn5Y+35Y2H6ZmN5qGM77yM6YWN
+    5LiK5Lik5Y+w5aSn5pi+56S65Zmo77yM5a695bim5Lmf5Y2H57qn5Yiw5LqG5Y2D5YWG44
+    CCCuS7iuW5tOWkp+mDqOWIhuaXtumXtO+8jOaIkeWwseWcqOi/memHjOQ=
+  last_post_date: "2025-11-04T22:38:53+08:00"
+  last_post_link: https://thiscute.world/posts/job-and-life/?utm_source=atom_feed
   last_post_categories:
-  - '%E4%BA%91%E5%8E%9F%E7%94%9F'
-  - '%E4%BA%91%E5%8E%9F%E7%94%9F%E7%9B%B8%E5%85%B3'
-  - ai
-  - cloud-native
-  - kubernetes
-  - llm
-  - opentelemetry
+  - life
   - ryan4yin
-  - tech
   last_post_language: ""
-  last_post_guid: dc4904ec43c3dcd8e4662a7679bc5511
+  last_post_guid: c9fbae92994b3644b39da506b206aba4
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

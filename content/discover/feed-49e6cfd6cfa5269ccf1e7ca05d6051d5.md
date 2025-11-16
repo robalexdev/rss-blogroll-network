@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter Bridge
-date: "2025-09-15T00:32:29Z"
+date: "2025-11-15T16:28:08Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "OpenAI Microsoft deal \U0001F91D, inside Chrome&#x27;s history
-    \U0001F30E, front-loaded vesting \U0001F4B0"
+  last_post_title: "Apple Mini Apps \U0001F4F1, Blue Origin lands rocket \U0001F680,
+    GPT-5.1 for devs \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2025-09-11T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2025-09-12
+  last_post_date: "2025-11-13T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2025-11-14
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: add16923f221e14fa23d3d2ba973b8b5
+  last_post_guid: 88d2f2bdf23bc735baed5a25e3c86301
   score_criteria:
     cats: 0
     description: 0

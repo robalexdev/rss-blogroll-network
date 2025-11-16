@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.7.54.
+      by feedlandDatabase v0.8.4.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
   recommender:
@@ -21,22 +21,25 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Marine conservation
-  - Raspberry Pi Official Magazine
-  - Raspberry Pi Pico
+  - Biohacking
+  - Compute Module
+  - DEF CON
+  - Events
   relme: {}
-  last_post_title: Build a tiny open-source underwater vehicle
+  last_post_title: Creating the most advanced event badge yet for the Biohacking Village
+    at DEF CON
   last_post_description: |-
-    With some 3D printing, motors, and a Raspberry Pi Pico, you can be up and running with an underwater explorer!
-    The post Build a tiny open-source underwater vehicle appeared first on Raspberry Pi.
-  last_post_date: "2025-09-12T10:23:53Z"
-  last_post_link: https://www.raspberrypi.com/news/build-a-tiny-open-source-underwater-vehicle/
+    Compute Module 5 is at the heart of this hackable, medically focused event badge designed to challenge the wearer.
+    The post Creating the most advanced event badge yet for the Biohacking Village at
+  last_post_date: "2025-11-14T10:44:18Z"
+  last_post_link: https://www.raspberrypi.com/news/creating-the-most-advanced-event-badge-yet-for-the-biohacking-village-at-def-con/
   last_post_categories:
-  - Marine conservation
-  - Raspberry Pi Official Magazine
-  - Raspberry Pi Pico
+  - Biohacking
+  - Compute Module
+  - DEF CON
+  - Events
   last_post_language: ""
-  last_post_guid: 44199a1eb5eff2b32a4568a2a698b047
+  last_post_guid: 6030e64905365e9d9900d5c75ddc9d0f
   score_criteria:
     cats: 0
     description: 3

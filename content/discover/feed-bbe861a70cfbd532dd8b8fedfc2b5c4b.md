@@ -1,6 +1,6 @@
 ---
 title: Etsy Engineering | Code as Craft
-date: "2025-09-15T06:25:00-04:00"
+date: "2025-11-15T18:49:38-05:00"
 description: 'The engineers who make Etsy make our living with a craft we love: software.
   This is where we''ll write about our craft and our collective experience building
   and running the world''s most vibrant'
@@ -23,15 +23,15 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Building Etsy Buyer Profiles with LLMs
-  last_post_description: Every day, shoppers from Etsy's community of nearly 90M buyers
-    visit our marketplace to search for unique, handmade, and vintage items. But with
-    over 100 million listings, how do we help each buyer
-  last_post_date: "2025-09-03T17:40:15-04:00"
-  last_post_link: https://www.etsy.com/codeascraft/building-etsy-buyer-profiles-with-llms?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
+  last_post_title: Improving performance by prefetching product pages from Etsy Search
+  last_post_description: Rarely are there opportunities for big, bold, game-changing
+    improvements in web performance. The Speculation Rules API (SRA) is a recent browser
+    development that offers just such an opportunity. This
+  last_post_date: "2025-10-29T13:14:09-04:00"
+  last_post_link: https://www.etsy.com/codeascraft/search-prefetching-performance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 71cd4d8887c69d556a005d8376823cae
+  last_post_guid: 9e342fed9c6281b46152b0e665ca82ff
   score_criteria:
     cats: 0
     description: 3

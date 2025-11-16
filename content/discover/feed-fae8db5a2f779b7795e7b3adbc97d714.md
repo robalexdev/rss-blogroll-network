@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-09-01T13:41:46Z"
+date: "2025-11-12T15:53:53Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,30 +16,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Mathematics
-  - Paul Erdos
-  - Thomas Bloom
-  - admin
-  - advertising
-  - polymath
-  - question
+  - AlphaEvolve
+  - Nikodym set
+  - finite fields
+  - math.CO
+  - paper
+  - probabilistic method
   relme: {}
-  last_post_title: A crowdsourced project to link up erdosproblems.com to the OEIS
-  last_post_description: Thomas Bloom’s erdosproblems.com site hosts nearly a thousand
-    questions that originated, or were communicated by, Paul Erdős, as well as the
-    current status of these questions (about a third of
-  last_post_date: "2025-09-01T13:41:46Z"
-  last_post_link: https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/
+  last_post_title: New Nikodym set constructions over finite fields
+  last_post_description: I have uploaded to the arXiv my paper “New Nikodym set constructions
+    over finite fields“. This is a spinoff of my previous project with Bogdan Georgiev,
+    Javier Gómez–Serrano, and Adam Zsolt
+  last_post_date: "2025-11-12T15:53:53Z"
+  last_post_link: https://terrytao.wordpress.com/2025/11/12/new-nikodym-set-constructions-over-finite-fields/
   last_post_categories:
-  - Mathematics
-  - Paul Erdos
-  - Thomas Bloom
-  - admin
-  - advertising
-  - polymath
-  - question
+  - AlphaEvolve
+  - Nikodym set
+  - finite fields
+  - math.CO
+  - paper
+  - probabilistic method
   last_post_language: ""
-  last_post_guid: 46a17a423d8b8275d4fe2457e19a92d4
+  last_post_guid: 2f84102d3496fce100207148b8d7b22e
   score_criteria:
     cats: 0
     description: 3

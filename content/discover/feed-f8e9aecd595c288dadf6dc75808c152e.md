@@ -19,13 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Nokia 字體
-  last_post_description: 如果你跟我年紀差不多，看到以下的字體可能會覺得似曾相識。
-  last_post_date: "2025-09-15T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/nokia-font
+  last_post_title: 1990 年代 DOS 遊戲教我的行銷課
+  last_post_description: 小時候，我沈迷過一款 MicroProse 在 1991 年推出的 DOS 高爾夫球遊戲《David Leadbetter's
+    Greens》。它是 3D
+  last_post_date: "2025-11-15T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/dos-game-marketing-lesson
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 97c57add566d717a2d209408840a0ce0
+  last_post_guid: 9dcd262471d94b64c7c71989ca8b3829
   score_criteria:
     cats: 0
     description: 3

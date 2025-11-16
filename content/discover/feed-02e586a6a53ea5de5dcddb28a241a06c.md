@@ -19,26 +19,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdout
+  - stderr
   relme: {}
-  last_post_title: xHTML5
+  last_post_title: 影视飓风和小米
   last_post_description: |-
-    有 ChatGPT学姿势就是快
-    <!DOCTYPE html [
-      <!ENTITY myEntity "Hello World">
-      <!ENTITY wow "alert('hi')">
-    ]>
-    <html xmlns="http://www.w3.org/1999/xhtml">
-    <body>
-      &myEntity;
-      <script>
-        &wow
-  last_post_date: "2025-09-15T00:12:00+08:00"
-  last_post_link: https://blog.est.im/2025/stdout-08
+    觉得最近Tim和军儿都着了道了，两个同样都是内容创作者，关注度较高，最近都被“舆论”冲击。为他们可惜。
+
+    一开始我不太明白，为啥会有那么极端
+  last_post_date: "2025-11-15T10:17:00+08:00"
+  last_post_link: https://blog.est.im/2025/stderr-10
   last_post_categories:
-  - stdout
+  - stderr
   last_post_language: ""
-  last_post_guid: 87ff3e9765879bedfe8aa289ee82959e
+  last_post_guid: ab5f550edcd00801a31be0e4ae0e61a1
   score_criteria:
     cats: 0
     description: 3

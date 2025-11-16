@@ -21,6 +21,10 @@ params:
   - title: Harsh Browns
     description: ""
     id: 68bf890ef652d82109527abf8b5560b7
+  - title: Herman's blog
+    description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
+      hiker of mountains.
+    id: 70bd2cb4aea08909cfd5279c3cac3d23
   - title: Sam’s Webzone
     description: ""
     id: 74aa0d5a1d4b754ecb51f5cb3eb54c66
@@ -39,9 +43,15 @@ params:
   - title: Dr. Adam Procter
     description: ""
     id: 9dcd84ddd111273253de8f38cf4640e7
+  - title: Herman's blog
+    description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
+      hiker of mountains.
+    id: b28b07cc46d8a64434ec504f688633ce
+  - title: Blog
+    description: ""
+    id: b8bd864bae01985327bc8ddcbb1e97d7
   - title: Rhys Wynne
-    description: The personal blog of Rhys Wynne, a WordPress freelancer based in
-      Newton-le-Willows, England.
+    description: Stealing traffic cones from the information superhighway since 2000
     id: c2d8fce410dbc75ce21ee490648e1d70
   - title: Scripting News
     description: Dave Winer, OG blogger, podcaster, developed first apps in many categories.
@@ -57,7 +67,8 @@ params:
     description: ""
     id: efb76afd8707aa6853b0d62a6c9af7e6
   - title: Robert Alexander's Tech Blog
-    description: 'A personal blog about #Tech, #Security, and the #Cloud'
+    description: 'A personal blog featuring nuanced deep dives into #Tech, #Security,
+      and the #Cloud'
     id: fa0b115a98a2db75b61d52ca6e8c7846
   - title: Adam Keys is Thinking
     description: ""

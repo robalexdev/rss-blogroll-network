@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2025-08-21T03:00:12Z"
+date: "2025-11-13T10:09:29Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -22,6 +22,7 @@ params:
   - 与代码
   - 生活经验
   - 美食
+  - 说过的话
   relme: {}
   last_post_title: "武汉凉面\U0001F35C"
   last_post_description: !!binary |
@@ -29,12 +30,13 @@ params:
     CO5LmI5aSn55qE5Lmf5LiN5oCO5LmI5q2j6KeE55qE5YWs5Y+477yM6ICB5p2/5bim5oiR
     5Lus5Y675aSn5o6S5qGj5ZCD5q2m5rGJ55qE5rK554SW5bCP6b6Z6Jm+77yM5LiA6Iis5Y
     WJ5ZCD6Jm+5LiN5aSq5Yiw5L2N77yM5bCx5Lya54K55LiK5LiA5aSn55s=
-  last_post_date: "2025-08-21T03:00:12Z"
+  last_post_date: "2025-11-13T10:09:43Z"
   last_post_link: https://102no.com/2025/08/21/liang-mian/
   last_post_categories:
   - 与代码
   - 生活经验
   - 美食
+  - 说过的话
   last_post_language: ""
   last_post_guid: 9cc546830198c656496ac888a6a539cf
   score_criteria:

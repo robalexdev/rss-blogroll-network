@@ -1,6 +1,6 @@
 ---
 title: Chase McCoy
-date: "2025-08-29T12:00:00-05:00"
+date: "2025-11-06T12:00:00-05:00"
 description: Chase McCoy explores, builds, & writes about the web
 params:
   feedlink: https://chsmc.org/feed.xml
@@ -21,13 +21,13 @@ params:
   relme:
     https://chsmc.org/: true
     https://mastodon.social/@chsmc: true
-  last_post_title: Antibuildings
+  last_post_title: Playing the fiddle
   last_post_description: ""
-  last_post_date: "2025-07-30T12:00:00-05:00"
-  last_post_link: https://chsmc.org/2025/07/antibuildings/
+  last_post_date: "2025-11-06T12:00:00-05:00"
+  last_post_link: https://chsmc.org/2025/11/playing-the-fiddle/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: da156a5c3aedd2cc62de21af24c6d126
+  last_post_guid: e8921f39b6e9591c0b87b72fca5eec3a
   score_criteria:
     cats: 0
     description: 3

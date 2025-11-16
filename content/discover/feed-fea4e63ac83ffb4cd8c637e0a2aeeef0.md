@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-09-03T11:12:28+02:00"
+date: "2025-11-13T19:30:14+01:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -25,24 +25,19 @@ params:
     https://p4bl0.net/: true
     https://pablo.plus/: true
     https://pablockchain.fr/: true
-  last_post_title: 'La chaîne de blocs : imaginaire géopolitique, et/ou mirage technologique
-    ? — Kavé Salamatian (UnU 3/8)'
-  last_post_description: |-
-    Voilà la troisième vidéo de la journée d'étude Unblocked & Unchained Symposium ! Kavé Salamatian interroge la nature politique, culturelle, et technique des blockchains.
-
-
-
-
-
-    Une captation
-  last_post_date: "2025-09-03T13:12:00+02:00"
-  last_post_link: https://p4bl0.net/post/2025/09/La-chaine-de-blocs-imaginaire-geopolitique-et-ou-mirage-technologique-Kave-Salamatian-UnU-3-8
+  last_post_title: Les limites d'une économie disposant d'une quantité finie de monnaie
+    — Gilles Mitteau (UnU 8/8)
+  last_post_description: Voilà la huitième (et dernière[1] !) vidéo de la journée
+    d'étude Unblocked & Unchained Symposium ! Gilles Mitteau discute des effets économique
+    de l'approche monétaire proposée par Bitcoin
+  last_post_date: "2025-10-29T13:12:00+01:00"
+  last_post_link: https://p4bl0.net/post/2025/10/Les-limites-d-une-economie-disposant-d-une-quantite-finie-de-monnaie-Gilles-Mitteau-UnU-8-8
   last_post_categories:
   - blockchain
   - podcast
   - vidéo
   last_post_language: ""
-  last_post_guid: ae7c1ebe3b8bbb840e17295c300b2f06
+  last_post_guid: 47421c96b2a4d5d280ef4a64d6ba9fc9
   score_criteria:
     cats: 0
     description: 3

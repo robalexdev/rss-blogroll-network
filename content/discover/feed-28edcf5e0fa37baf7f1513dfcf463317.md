@@ -1,7 +1,7 @@
 ---
 title: 林林杂语
-date: "2025-06-24T09:20:00+08:00"
-description: 林林在无病呻吟。
+date: "1970-01-01T00:00:00Z"
+description: 林林在无病呻吟
 params:
   feedlink: https://www.xiaozonglin.cn/feed/
   feedtype: rss
@@ -18,36 +18,38 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - 研究
   relme: {}
-  last_post_title: 高考之后，出分之前（已经出分版）
+  last_post_title: 针对博客网站友链的随机网络研究
   last_post_description: !!binary |
-    NjE45Lmw5LqG5LiA5Liq56yU6K6w5pys77yM546w5Zyo5a+5552A56yU6K6w5pys55qE5b
-    GP5bmV5YaZ6L+Z56+H5Y2a5paH44CC5LuK5aSp5Lit5Y2I77yM5oiR5bCx5Y+v5Lul5Zyo
-    55yB6ICD6K+V6Zmi5LiK5p+l5Yiw6Ieq5bex55qE6auY6ICD5oiQ57up44CC5oiR5Y6f5Y
-    WI5oOz6K+06auY5Lit5LiJ5bm05LiA5pmD5bCx6L+H5LqG77yM5L2G77w=
-  last_post_date: "2025-06-24T09:20:00+08:00"
-  last_post_link: https://www.xiaozonglin.cn/between-gaokao-and-scores/
-  last_post_categories: []
+    5Li65o6i56m25Y2a5a6i5Y+L6ZO+572R57uc55qE5ouT5omR54m55b6B5Y+K5pys6LSo5b
+    Ge5oCn77yM6aqM6K+B5YW25piv5ZCm5bGe5LqO6ZqP5py6572R57uc44CB5piv5ZCm5a2Y
+    5Zyo5bCP5LiW55WM546w6LGh77yM5Lul6ZuG5Y2a5qCI562J5aSa5rqQ5Y2a5a6i5YiX6K
+    Go5Li65pWw5o2u5Z+656GA77yM6YCa6L+H5aSa57q/56iL54is5Y+W5Y0=
+  last_post_date: "2025-11-08T14:34:20Z"
+  last_post_link: https://www.xiaozonglin.cn/blog-friendlink-network-research/
+  last_post_categories:
+  - 研究
   last_post_language: ""
-  last_post_guid: eb164d8855fcbf42c27b63ad1d30adb1
+  last_post_guid: a96f4aa2e30972d7aba9ea2c675023e0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 10
+  postcount: 20
   avgpostlen: 0
 ---

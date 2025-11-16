@@ -17,16 +17,16 @@ params:
   categories:
   - Mozilla
   relme: {}
-  last_post_title: Exploring a language runtime with bpftrace
-  last_post_description: So I have been having quite a bit of fun learning about eBPF.
-    It’s been on my todo list for like two or three years, but I’ve finally made the
-    time to actually start to figure it out, and have
-  last_post_date: "2025-05-28T16:42:03Z"
-  last_post_link: https://www.mgaudet.ca/technical/2025/5/28/exploring-a-language-runtime-with-bpftrace
+  last_post_title: Summer of Sharpening
+  last_post_description: "As we head into fall, I wanted to write up a bit of an experience
+    report on a project I ran this summer with a few other people on the SpiderMonkey
+    team. \nA few of us on the team chose to block off"
+  last_post_date: "2025-09-29T16:54:00Z"
+  last_post_link: https://www.mgaudet.ca/technical/2025/9/29/summer-of-sharpening
   last_post_categories:
   - Mozilla
   last_post_language: ""
-  last_post_guid: c7fb1b0acbbd4fdee72239ddbe75a4a8
+  last_post_guid: 3f17c8da96be9bac7d88d3f5383a2a79
   score_criteria:
     cats: 0
     description: 3

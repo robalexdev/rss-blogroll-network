@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何下载 App Store 已经下架的应用
+  last_post_title: Keeping your own data LOCAL
   last_post_description: ""
-  last_post_date: "2025-09-12T00:03:22+01:00"
-  last_post_link: https://yinan.me/downaload-apps-no-longer-available.html
+  last_post_date: "2025-09-25T12:18:40+01:00"
+  last_post_link: https://yinan.me/your-own-data.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 92fd603fe1ef4814d8013f782f3c2d2f
+  last_post_guid: 6ee985fd4cdac63840a639d09103048c
   score_criteria:
     cats: 0
     description: 0

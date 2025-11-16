@@ -1,6 +1,6 @@
 ---
 title: Cosmic Horizons
-date: "2025-09-09T22:29:20+10:00"
+date: "2025-11-13T19:33:43+11:00"
 description: My personal take on what's going on within our Event Horizon. Mostly
   astronomical, often cosmological, usually quite grumpy.
 params:

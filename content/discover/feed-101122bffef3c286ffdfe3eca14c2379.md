@@ -19,15 +19,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Using YAML Anchors to Make Your Configuration More Elegant
+  last_post_title: 我关注的项目这周更新了什么-20251114
   last_post_description: |-
-    Introduction
-    As a YAML developer, many people are unaware of the Anchors feature in YAML. YAML Anchors allow you to define a piece of content in one place and reference it elsewhere in the file. This
-  last_post_date: "2025-09-15T12:51:00Z"
-  last_post_link: https://www.bboy.app/2025/09/15/using-yaml-anchors-to-make-your-configuration-more-elegant/
+    简介
+    每周五更新，所有的更新也会发送到我的频道
+    https://t.me/bboyapp
+    规则
+
+    pre
+  last_post_date: "2025-11-14T09:26:00Z"
+  last_post_link: https://www.bboy.app/2025/11/14/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20251114/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8267164d12269bdd6981ef7002277eb9
+  last_post_guid: 634a11411f02812d0397afab9b892a89
   score_criteria:
     cats: 0
     description: 3

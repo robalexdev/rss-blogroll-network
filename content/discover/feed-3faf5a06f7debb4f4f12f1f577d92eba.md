@@ -15,24 +15,26 @@ params:
   recommended: []
   recommender: []
   categories:
+  - API
+  - Cool new stuff
   - General
-  - bazaar
-  - codeimport
+  - feature
   - launchpad
   relme: {}
-  last_post_title: Deprecating CVS and Subversion imports
-  last_post_description: What are code imports? Launchpad’s code import service allows
-    users to automatically mirror code from external version control systems into
-    Launchpad. Historically, this has supported imports from
-  last_post_date: "2025-08-25T07:14:50Z"
-  last_post_link: https://blog.launchpad.net/general/deprecating-cvs-and-subversion-imports
+  last_post_title: Make fetch service opt-in
+  last_post_description: Launchpad Builders do not have direct access to the Internet.
+    To reach external resources, they must acquire an authentication token that allows
+    access to a restricted set of URLs via a proxy. This
+  last_post_date: "2025-10-28T11:31:12Z"
+  last_post_link: https://blog.launchpad.net/general/make-fetch-service-opt-in
   last_post_categories:
+  - API
+  - Cool new stuff
   - General
-  - bazaar
-  - codeimport
+  - feature
   - launchpad
   last_post_language: ""
-  last_post_guid: 39af79e9d902b66e36cf4d91b0acc4a7
+  last_post_guid: c4d8efe93f46d3ecfd2301734f0b36c2
   score_criteria:
     cats: 0
     description: 3

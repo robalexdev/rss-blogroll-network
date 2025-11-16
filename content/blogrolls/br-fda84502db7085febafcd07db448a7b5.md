@@ -72,7 +72,7 @@ params:
     description: PaulStamatiou.com - Technology, Design and Photography
     id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
-    description: A personal blog about design, travel and life a software user.
+    description: A personal blog about design, travel and life as a software user.
     id: 5cd3085a60f3bae159ce042035a1e3de
   - title: Ben Borgers
     description: Ben Borgers’ personal website.
@@ -80,7 +80,7 @@ params:
   - title: Jon Worth
     description: Independent railway commentator
     id: 61a94025d87b544bb3104f1508c59c20
-  - title: ᕕ( ᐛ )ᕗ Herman's blog
+  - title: Herman's blog
     description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and
       hiker of mountains.
     id: 70bd2cb4aea08909cfd5279c3cac3d23
@@ -109,9 +109,9 @@ params:
     description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At
       The Moon
     id: 92d88f2edab0b8aa31f9169c372e7245
-  - title: Manuel Moreale
-    description: A collection of random thoughts about tech, life, design and pretty
-      much everything else I find interesting.
+  - title: Manuel Moreale — Everything Feed
+    description: Thoughts, Pictures, Interviews, and everything else I publish on
+      my blog
     id: 9417e92ed42b42a9df3959016838f82d
   - title: Ben Werdmuller
     description: Writing at the intersection of technology, journalism, and community.

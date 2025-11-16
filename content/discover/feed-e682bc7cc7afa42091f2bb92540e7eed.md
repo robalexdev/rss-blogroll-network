@@ -30,28 +30,45 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - Web
-  - blog vs. réseaux sociaux
+  - Austin Kleon
+  - Journal et notes hebdo
+  - Journal et réflexions
+  - Nathalie Sejean
+  - Rennes
   - blogging
-  - pérennité du contenu numérique
-  - web
+  - costumes bretons
+  - gravure
+  - gravure à l’eau-forte
+  - hérisson
+  - jardin
+  - linogravure
+  - perfectionnisme
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
     https://pixelfed.fr/LaLuneMauve: true
-  last_post_title: Liens qui pourrissent et web qui rouille
-  last_post_description: Réflexions et pistes pour résoudre les inévitables liens
-    qui pourrissent sur un vieux blog comme le mien.
-  last_post_date: "2025-09-14T09:05:56Z"
-  last_post_link: https://lalunemauve.fr/link-rot/
+  last_post_title: 'Journal #7 : comme du beurre sur une tartine trop grande'
+  last_post_description: Retour de mon journal, rempli de pensées douces-amères, de
+    gravure et de cogitations créatives, avec mes impressions sur l’atelier « Carnet
+    d’idées » de Nathalie Sejean. Il y a aussi des
+  last_post_date: "2025-10-31T06:07:54Z"
+  last_post_link: https://lalunemauve.fr/journal-7/
   last_post_categories:
-  - Web
-  - blog vs. réseaux sociaux
+  - Austin Kleon
+  - Journal et notes hebdo
+  - Journal et réflexions
+  - Nathalie Sejean
+  - Rennes
   - blogging
-  - pérennité du contenu numérique
-  - web
+  - costumes bretons
+  - gravure
+  - gravure à l’eau-forte
+  - hérisson
+  - jardin
+  - linogravure
+  - perfectionnisme
   last_post_language: ""
-  last_post_guid: 82caeccaea890aac39137de3a80c65f4
+  last_post_guid: 1969f350fc729ae8a35e79daefb5fa53
   score_criteria:
     cats: 0
     description: 3

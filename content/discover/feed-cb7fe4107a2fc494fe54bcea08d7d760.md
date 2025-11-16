@@ -1,6 +1,6 @@
 ---
 title: 拾月
-date: "2025-09-15T07:07:00+08:00"
+date: "2025-11-02T20:36:00+08:00"
 description: PC互联网遗民feedId:41359648680482843+userId:44033302527024128
 params:
   feedlink: https://www.skyue.com/feed/
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 喝咖啡，遇暴雨
-  last_post_description: 周三午休，到园区瑞幸喝咖啡，下起暴雨，公司就在眼前却回不去。
-  last_post_date: "2025-09-15T07:07:00+08:00"
-  last_post_link: https://www.skyue.com/25091507.html
+  last_post_title: 晓霞弄和万松书院
+  last_post_description: 昨天到西湖citywalk。先到万松书院，正值相亲角时间（每周六上午），各处贴满了相亲简历，人头攒动，第一次见这场面，长见识了!
+  last_post_date: "2025-11-02T20:36:00+08:00"
+  last_post_link: https://www.skyue.com/25110220.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f89d03560760bb32dcf653cc9073a892
+  last_post_guid: bda96519f542831ee5240705329919ce
   score_criteria:
     cats: 0
     description: 3

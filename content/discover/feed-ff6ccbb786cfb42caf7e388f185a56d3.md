@@ -16,11 +16,11 @@ params:
     id: c33ed4f6ab2b4055fadbfad39d41c36e
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.7.54.
+      v0.8.4.
     id: 7def71058aaab40ff83909b86eff9005
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended:
   - http://scripting.com/rss.xml
@@ -43,6 +43,7 @@ params:
   - https://www.nytimes.com/wirecutter/feed
   - https://www.theverge.com/apple/rss/index.xml
   - https://aaron.blog/rss/
+  - https://automattic.com/comments/feed/
   - https://github.blog/comments/feed/
   - https://ma.tt/comments/feed/
   - https://tins.rklau.com/comments/feed/

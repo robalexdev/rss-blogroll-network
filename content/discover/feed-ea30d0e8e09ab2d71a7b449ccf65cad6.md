@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2025-03-05T16:05:00Z"
+date: "2025-11-12T08:18:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -18,13 +18,14 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Tactile indicators for installing and connecting devices
+  last_post_title: Generic impact prioritization lists are an empty promise. We can
+    do better.
   last_post_description: ""
-  last_post_date: "2025-03-05T16:05:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/tactile-indicators-for-installing-and-connecting-devices/
+  last_post_date: "2025-11-12T08:18:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/generic-impact-prioritization-lists-are-an-empty-promise-we-can-do-better/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7d04aa9d5c51d59bc278206582138dbf
+  last_post_guid: 391a6f9f6f2f777b354cfa30b2bb0bf1
   score_criteria:
     cats: 0
     description: 3

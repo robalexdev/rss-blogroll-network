@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Creating (a) new frontend(s) for Polis
+  last_post_title: Debian Lomiri Tablets - We are hiring!
   last_post_description: |-
-    After (quite) a summer break, here comes the 4th article of the 5-episode blog post series on Polis, written by Guido Berhörster, member of staff at my company Fre(i)e Software GmbH.
+    We at Fre{i}e Software GmbH now have a confirmed budget for working on Debian based tablets with the special goal to use them for educational purposes (i.e. in schools).
 
-    Have fun with
-  last_post_date: "2024-10-03T05:27:01Z"
-  last_post_link: https://sunweavers.net/blog/node/149
+    Those Debian Edu tablets
+  last_post_date: "2025-10-25T20:58:24Z"
+  last_post_link: https://sunweavers.net/blog/node/150
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a1034f581eed1c4bd7473946dbc5ec6
+  last_post_guid: ee196818d685a493d82f0284298c6818
   score_criteria:
     cats: 0
     description: 0

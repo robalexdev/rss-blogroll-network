@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2025-08-19T05:00:00Z"
+date: "2025-11-03T06:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: StarCraft II is still great.
+  last_post_title: How we use GitHub Issues (on 11ty) and how that’s Changing
   last_post_description: ""
-  last_post_date: "2025-10-14T05:00:00Z"
-  last_post_link: https://www.zachleat.com/web/starcraft/
+  last_post_date: "2025-11-03T06:00:00Z"
+  last_post_link: https://www.zachleat.com/web/11ty-github-issues/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d987bd963db1adc9418a67bff4c9264
+  last_post_guid: a91c63801e2666805fb874e2245d62e8
   score_criteria:
     cats: 0
     description: 3

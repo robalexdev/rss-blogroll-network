@@ -19,15 +19,15 @@ params:
   categories:
   - Ephemeral Scrapbook
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — Edition 2025-37
-  last_post_description: The new iPhones are here. The iPhone Air is here. It’s gorgeous.
-    But not for me. Come on in for more details.
-  last_post_date: "2025-09-14T19:04:09Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-37/
+  last_post_title: The Ephemeral Scrapbook — Edition 2025-45
+  last_post_description: Contrary to persistent rumors, the web is still full of gems.
+    This human-made newsletter tries to give you glimpse of this.
+  last_post_date: "2025-11-06T12:13:49Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-45/
   last_post_categories:
   - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: 21fc5004e209aad60267b27bd9d1e307
+  last_post_guid: efd32c9938489982080de2ac8c65ff9e
   score_criteria:
     cats: 0
     description: 3

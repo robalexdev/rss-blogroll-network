@@ -19,17 +19,19 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (91)
+  last_post_title: Links (92)
   last_post_description: |-
-    Lithium orotate seems to help with Alzheimer's
-    Electronics components have gotten very very cheap in the past few decades
-    On LLM adoption from Zvi Mowshowitz
-    On the wild stories where someone that
-  last_post_date: "2025-09-13T00:00:00Z"
-  last_post_link: https://nintil.com/links-91/
+    Book Review of Breakneck from Noah Smith, endorsed
+    On China and rare earths
+    Rotating detonation engines
+    Progress in pan-cancer therapy
+    DOGE and its consequences in the federal government
+    The AI
+  last_post_date: "2025-10-27T00:00:00Z"
+  last_post_link: https://nintil.com/links-92/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f2476a7884bdfd7ef07476be9c2830a
+  last_post_guid: d7b0157b123954e869116ec0c8645fa0
   score_criteria:
     cats: 0
     description: 0

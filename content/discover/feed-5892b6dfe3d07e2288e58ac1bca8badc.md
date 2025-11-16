@@ -2,7 +2,7 @@
 title: Gutenberg Times
 date: "1970-01-01T00:00:00Z"
 description: Curating news and community voices about the WordPress Block Editor,
-  codenamed Gutenberg
+  codenamed Gutenberg, Playground and sometimes AI.
 params:
   feedlink: https://gutenbergtimes.com/feed/
   feedtype: rss
@@ -14,7 +14,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Planet FAIR
     description: ""
@@ -27,29 +27,29 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - Artificial Intelligence (AI)
+  - DIY Site Owners
   - For Developers
-  - For Users
-  - News
   - Updates
   - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Licensing for AI, Patterns, Gutenberg 21.6, and future of WordPress—Weekend
-    Edition #340'
-  last_post_description: Hi there, Welcome to the WCUS Part 2. The workshop recordings
-    are online, and my chat with other dev advocates has also been published. You
-    can read about it in this article, which includes the video
-  last_post_date: "2025-09-13T12:07:50Z"
-  last_post_link: https://gutenbergtimes.com/licensing-for-ai-patterns-gutenberg-21-6-and-future-of-wordpress-weekend-edition-340/
+  last_post_title: 'WordPress 6.9 Dev Notes, WordCamp Canada talks, Interactivity
+    API — Weekend Edition #349'
+  last_post_description: Hi there, We are getting close to the WordPress 6.9 release.
+    Below you find links to published Developer notes. You can also wait for the Source
+    of Truth to be published next week to learn about
+  last_post_date: "2025-11-15T01:20:00Z"
+  last_post_link: https://gutenbergtimes.com/wordpress-6-9-dev-notes-wordcamp-canada-talks-interactivity-api-weekend-edition-349/
   last_post_categories:
+  - Artificial Intelligence (AI)
+  - DIY Site Owners
   - For Developers
-  - For Users
-  - News
   - Updates
   - Weekend Edition
   last_post_language: ""
-  last_post_guid: 13adb1301c153cbb6ab3f09fb886455b
+  last_post_guid: bfe8b3920e026a1ba9deae685413e126
   score_criteria:
     cats: 0
     description: 3

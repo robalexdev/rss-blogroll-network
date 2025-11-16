@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2025-09-11T07:27:00-05:00"
+date: "2025-10-06T13:35:00-05:00"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -31,15 +31,16 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Updated my blogroll
-  last_post_description: My friend Scott was asking me for some healthy links to help
-    replace doomscrolling, and I've been sending him a curated list of joyful RSS-friendly
-    links, and I realized I should just put that
-  last_post_date: "2025-09-11T07:34:43Z"
-  last_post_link: https://evantravers.com/articles/2025/09/11/updated-my-blogroll/
+  last_post_title: Hollyland Lark M2S Lavalier
+  last_post_description: |-
+    I've been using a small USB-C lavalier microphone to enhance my daily audio calls. I'm a fan.
+
+    Since I deleted my microphone and light off my desk to just use an iPhone, I've wondered if there was a
+  last_post_date: "2025-10-26T20:18:59Z"
+  last_post_link: https://evantravers.com/articles/2025/10/06/hollyland-lark-m2s-lavalier/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a41f7e46dc3d24b7dc8d2555d32757e3
+  last_post_guid: 167f6d6f7e05ae3619d4d6caf9bbb8ad
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: NHS notes
-date: "2025-09-13T00:00:00Z"
+date: "2025-11-14T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 63: Getting across the line'
+  last_post_title: 'Week 72: Act like a tech company'
   last_post_description: ""
-  last_post_date: "2025-09-13T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-63-getting-across-the-line/
+  last_post_date: "2025-11-14T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-72-act-like-a-tech-company/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4bf376a53286118e3da072ab45ef4753
+  last_post_guid: 6761c1bbf2f488e385b5fe7c3be88dec
   score_criteria:
     cats: 0
     description: 0

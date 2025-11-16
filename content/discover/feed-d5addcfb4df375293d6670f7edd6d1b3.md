@@ -1,6 +1,6 @@
 ---
 title: Ian Cooper - Staccato Signals
-date: "2025-09-15T04:08:37Z"
+date: "2025-11-15T17:26:58Z"
 description: These are the days of miracle and wonder
 params:
   feedlink: https://ian-cooper.writeas.com/feed/

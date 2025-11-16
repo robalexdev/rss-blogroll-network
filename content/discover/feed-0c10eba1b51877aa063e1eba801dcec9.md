@@ -20,10 +20,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ToB SaaS 服务之殇
-  last_post_description: 《ToB SaaS 服务之殇》我的一些经验和想法，随手写写。1. 要能把客户伺候的舒舒服服，要不然，哈哈。让大客户掏钱是很难的...
-  last_post_date: "2025-09-07T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2025_09_07-to_b_saas.md.html
+  last_post_title: TiDB 源码阅读（六）：TiDB Coprocessor 源码解析
+  last_post_description: 《TiDB 源码阅读（六）：TiDB Coprocessor 源码解析》TiDB 是存储和计算分离的设计，当 TiDB
+    的物理计划优化完成后，就需要将真正的取数请求发给
+  last_post_date: "2025-10-12T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

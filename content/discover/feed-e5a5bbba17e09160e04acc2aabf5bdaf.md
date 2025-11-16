@@ -1,6 +1,6 @@
 ---
 title: 花生莲子粥の小窝
-date: "2025-09-12T10:30:50Z"
+date: "2025-11-02T05:45:35Z"
 description: 与世无争，不染于泥
 params:
   feedlink: https://blog.hslzz.cn/atom.xml
@@ -23,21 +23,21 @@ params:
   - https://mayx.eu.org/atom.xml
   categories:
   - Linux
-  - 建站
+  - Ubuntu
   - 经验
   - 雷池WAF
   relme: {}
-  last_post_title: 使用AllinSSL实现自动续签雷池WAF的SSL证书
-  last_post_description: 使用EC384-SHA384算法为内网服务器自签SSL/TLS证书。包含创建CA、服务器密钥和证书的完整步骤，支持多域名/IP配置。
-  last_post_date: "2025-09-14T09:13:29Z"
-  last_post_link: https://blog.hslzz.cn/posts/20250718182520.html
+  last_post_title: 利用CDN自定义请求报头功能实现源站精确获得访客ip
+  last_post_description: 按照本文教程配置成功后可以实现”一头走天下“：只要代理链路不对自定义头修改，任何代理链路和源站都可以直接读取这个头获得访客ip，而不需要
+  last_post_date: "2025-11-10T09:58:19Z"
+  last_post_link: https://blog.hslzz.cn/posts/20250608224520.html
   last_post_categories:
   - Linux
-  - 建站
+  - Ubuntu
   - 经验
   - 雷池WAF
   last_post_language: ""
-  last_post_guid: 905c00fffbcbe1a7a668d8e35d85f740
+  last_post_guid: 348c3e761abc56e63331d674bb7ba7d3
   score_criteria:
     cats: 0
     description: 3

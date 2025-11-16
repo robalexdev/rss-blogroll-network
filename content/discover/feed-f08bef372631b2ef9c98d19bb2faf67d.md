@@ -1,6 +1,6 @@
 ---
 title: 哎呦不错网
-date: "2025-09-15T08:51:00+08:00"
+date: "2025-11-15T11:20:00+08:00"
 description: 每天看一看总有新东西
 params:
   feedlink: https://aiyoubucuo.com/feed
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2025年9月每日分享
+  last_post_title: 2025年11月每日分享
   last_post_description: 关于哎呦不错每日分享栏目发现一些不错的资源，你有好的发现点击[这里])快速投稿，如需图文或其它建议可在[这里])回复反馈。声明:1
-  last_post_date: "2025-09-15T08:51:00+08:00"
-  last_post_link: https://aiyoubucuo.com/202509.html
+  last_post_date: "2025-11-15T11:20:00+08:00"
+  last_post_link: https://aiyoubucuo.com/202511.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0a5f8827414d62a41702f638cfafcac6
+  last_post_guid: 3983b3e59ec961284d9ae41227d7db8a
   score_criteria:
     cats: 0
     description: 3

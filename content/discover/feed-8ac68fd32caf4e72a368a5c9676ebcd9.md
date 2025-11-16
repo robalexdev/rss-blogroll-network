@@ -1,6 +1,6 @@
 ---
 title: Andrew Ayer - Blog
-date: "2025-08-29T16:45:33Z"
+date: "2025-11-03T13:31:09Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
@@ -27,13 +27,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SQLite's Durability Settings are a Mess
+  last_post_title: Google Just Suspended My Company's Google Cloud Account for the
+    Third Time
   last_post_description: ""
-  last_post_date: "2025-08-29T16:45:33Z"
-  last_post_link: https://www.agwa.name/blog/post/sqlite_durability
+  last_post_date: "2025-11-03T13:31:09Z"
+  last_post_link: https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 29eb93115e3bdeb530da6d7227be64fd
+  last_post_guid: 9fb05080c9b4607e3cd40dfd6b4c0b54
   score_criteria:
     cats: 0
     description: 0

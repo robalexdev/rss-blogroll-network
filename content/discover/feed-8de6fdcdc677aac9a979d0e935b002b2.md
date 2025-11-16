@@ -1,13 +1,13 @@
 ---
-title: 安知鱼
-date: "2023-11-19T05:12:38Z"
-description: 生活明朗 万物可爱
+title: 安和鱼
+date: "1970-01-01T00:00:00Z"
+description: 分享前端与生活，这里你可以找到一些有意思的内容～
 params:
   feedlink: https://blog.anheyu.com/atom.xml
   feedtype: atom
   feedid: 8de6fdcdc677aac9a979d0e935b002b2
   websites:
-    https://blog.anheyu.com/: false
+    https://blog.anheyu.com/: true
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -16,39 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - css3
   - 前端
-  - 前端开发
-  - 开发
+  - 安和鱼
   relme: {}
-  last_post_title: 那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列
-  last_post_description: 嵌套的圆角在遇到内外两层圆角时，可以通过 CSS 变量动态去计算内部的圆角，看起来会更加和谐
-  last_post_date: "2023-11-19T05:12:38Z"
-  last_post_link: https://blog.anheyu.com/posts/340b.html
+  last_post_title: anheyu-app安装、迁移、备份图文教程
+  last_post_description: 本文介绍了作者新开发的项目anheyu
+  last_post_date: "2025-10-31T08:49:54Z"
+  last_post_link: https://blog.anheyu.com/posts/rlCL
   last_post_categories:
-  - css3
   - 前端
-  - 前端开发
-  - 开发
+  - 安和鱼
   last_post_language: ""
-  last_post_guid: e793199bc4cdca3359c4ff2b27ddf6d2
+  last_post_guid: d7e2df0a52a5b694ceb1aa6da8b043b0
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 21
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: zh
   postcount: 20
   avgpostlen: 238
 ---

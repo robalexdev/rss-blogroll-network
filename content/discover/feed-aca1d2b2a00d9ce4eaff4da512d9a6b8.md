@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 212 - Together
-  last_post_description: I organised a two-day in-person workshop for my team this
-    week. Although I'm contractually linked to our Cambridge office, we work remotely
-    at different ends of the country, so some travelled down
-  last_post_date: "2025-09-14T19:26:23Z"
-  last_post_link: https://barryfrost.com/2025/09/week-212-together
+  last_post_title: Week 220 - Bang
+  last_post_description: |-
+    I joined Andy at the Leicester Square Theatre for Russell Howard's warm-up show. Scrappy, in-progress shows where the comedian jumps around and ad-libs are somehow funnier than polished sets.
+    At work
+  last_post_date: "2025-11-10T14:27:07Z"
+  last_post_link: https://barryfrost.com/2025/11/week-220-bang
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: de3cbcc67439717dca18bc7028f1e3b5
+  last_post_guid: 0629be3df34df9e99e70d97f214fc5d7
   score_criteria:
     cats: 0
     description: 3

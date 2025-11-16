@@ -21,15 +21,15 @@ params:
   categories:
   - Linux & homelab
   relme: {}
-  last_post_title: Fedora + libvirt 下在宿主关机时安全关闭虚拟机
-  last_post_description: 很简单的一个问题，但过程比较难绷，所以特此记录 为了能方便的既跑虚拟机，又跑Docker容器，我经常使用Fed…
-    继续阅读Fedora + libvirt
-  last_post_date: "2025-07-29T11:36:51Z"
-  last_post_link: https://wusiyu.me/fedora-libvirt-vm-graceful-shutdown-with-host/
+  last_post_title: 杂谈：libvirt/qemu Windows游戏VM的一些优化配置
+  last_post_description: 一些libvirt配置备忘，针对Windows guest，虚拟机游戏场景 虚拟化功能选项 取自cockpit…
+    继续阅读杂谈：libvirt/qemu
+  last_post_date: "2025-10-12T17:01:15Z"
+  last_post_link: https://wusiyu.me/libvirt-qemu-windows-gaming-vm-optimization/
   last_post_categories:
   - Linux & homelab
   last_post_language: ""
-  last_post_guid: 8c56c79b44c13d1c3973f1bbdf7c5b4d
+  last_post_guid: bdbae9dc326a1e4d725195c8aa8edeac
   score_criteria:
     cats: 0
     description: 3

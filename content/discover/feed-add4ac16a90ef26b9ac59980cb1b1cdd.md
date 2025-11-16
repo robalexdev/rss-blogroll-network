@@ -1,6 +1,6 @@
 ---
 title: Learning (Lib)Tech
-date: "2025-06-12T15:28:26Z"
+date: "2025-10-17T18:31:42Z"
 description: Stories from my Life as a Technologist
 params:
   feedlink: https://cynthiang.ca/feed/atom/
@@ -15,36 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GitLab
-  - Update
-  - reflection
+  - Events
+  - code4lib
   relme: {}
-  last_post_title: 'Reflection: Second half of my seventh year at GitLab and doing
-    Strategy &#038; Operations for Product (and Engineering)'
-  last_post_description: This week is my seventh anniversary at GitLab, and it’s still
-    a little hard to believe. At this point, there are 82 people who started before
-    me and are still at the company. That’s actually
-  last_post_date: "2025-06-12T15:28:26Z"
-  last_post_link: https://cynthiang.ca/2025/06/12/reflection-second-half-of-my-seventh-year-at-gitlab/
+  last_post_title: 'Code4LibBC 2025: Day 2 lightning talk notes'
+  last_post_description: 'Notes from the second day of Code4libBC 2025. Transforming
+    Unstructured Data in a Knowledge Base: Exploring the Potential of RAG and LLMs
+    at SFU Library Ian Song, SFU potential of the application of'
+  last_post_date: "2025-10-17T18:31:42Z"
+  last_post_link: https://cynthiang.ca/2025/10/17/code4libbc-2025-day-2-lightning-talk-notes/
   last_post_categories:
-  - GitLab
-  - Update
-  - reflection
+  - Events
+  - code4lib
   last_post_language: ""
-  last_post_guid: feacf963f71dc993446410b89215a9f0
+  last_post_guid: 1c55cf816c536ea93c1e9dc0ab30349f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

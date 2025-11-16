@@ -15,20 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 时事评论
-  - 随笔
-  - 非学术话题
+  - Blog
+  - 学术话题
+  - 法理学
   relme: {}
-  last_post_title: 论男女亲密关系
-  last_post_description: 亲密关系的一般真相是互相折磨。
-  last_post_date: "2025-08-15T19:23:00+08:00"
-  last_post_link: https://pathos.page/blog/on-intimate-relationships/
+  last_post_title: 《法理学讲义》第一讲：规范
+  last_post_description: !!binary |
+    6L+Z5Lu96K6y5LmJ55qE5qC45b+D5Lu75Yqh5piv6K6y6L+w4oCc5rOV5b6L4oCd6K+e55
+    Sf55qE5YmN5Lyg4oCU4oCU5LiA5Liq5YWz5LqO4oCc6KeE6IyD4oCd55qE5pWF5LqL44CC
+    5a6D5o6i6K6o5LqG5Li65rOV5a2m5YWl6Zeo5omA5b+F6aG755CG6Kej55qE5rOV5a2m5a
+    SE55CG55qE5a+56LGh4oCU4oCU6KeE6IyD4oCU4oCU55qE5LiA5Lqb5Z8=
+  last_post_date: "2025-10-02T23:00:00+08:00"
+  last_post_link: https://pathos.page/blog/lectures-on-jurisprudence-1/
   last_post_categories:
-  - 时事评论
-  - 随笔
-  - 非学术话题
+  - Blog
+  - 学术话题
+  - 法理学
   last_post_language: ""
-  last_post_guid: 6f7f39e5fe1733ee5c9a9f8a0510d031
+  last_post_guid: c830b613ade8d73936e53f0eaf6f086d
   score_criteria:
     cats: 0
     description: 3

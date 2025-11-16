@@ -1,6 +1,6 @@
 ---
 title: Victor Poughon
-date: "2025-09-15T04:37:36Z"
+date: "2025-11-15T06:31:10Z"
 description: Victor Poughon personal website
 params:
   feedlink: https://victorpoughon.fr/feed/
@@ -18,6 +18,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://github.com/victorpoughon: true
     https://mastodon.social/@victorpoughon: true
     https://victorpoughon.fr/: true
   last_post_title: Every Perceptually Uniform Color Map as a CSS Gradient

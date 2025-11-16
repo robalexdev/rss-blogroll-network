@@ -1,6 +1,6 @@
 ---
 title: Shuibaco • 水八口
-date: "2025-09-05T02:10:00Z"
+date: "2025-11-14T01:01:00Z"
 description: ""
 params:
   feedlink: https://shuiba.co/feed
@@ -16,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 拉布布
+  last_post_title: 关西世博会
   last_post_description: !!binary |
-    5oiR5Zue5p2l5LqG77yB5YW25a6eOOaciOW6leWwseaDs+WGmeaLieW4g+W4g+eahO+8jO
-    e7k+aenOWQp+S4jeefpemBk+aYr+iBjOS4mueXhei/mOaYr+aAjueahO+8jOeQouejqOed
-    gOaXoueEtuimgeWGme+8jOmCo+WwseWGmeWFqOS4gOS6m+OAguS6juaYr+W8gOWni+Wkp+
-    afpei1hOaWme+8jOavq+aXoOaEj+WkluWcsO+8jOeci+i1t+inhumikeU=
-  last_post_date: "2025-09-05T02:10:00Z"
-  last_post_link: https://shuiba.co/labubu
+    MjAyNeW5tOS4lueVjOWNmuiniOS8mu+8jOaYrzIwMjXlubQ05pyIMTPml6Xoh7MxMOaciD
+    Ez5pel5Zyo5pel5pys5aSn6Ziq5bqc5aSn6Ziq5biC5Li+5Yqe55qE5LiW55WM5Y2a6KeI
+    5Lya77yM5Lya5pyfNuS4quaciO+8jOS8muWcuuS9jeS6juWkp+mYqua5vuWyuOeahOS6uu
+    W3peWym+aipua0su+8jOS4u+mimOaYr+KAnOiuqeeUn+WRveabtOWFieg=
+  last_post_date: "2025-11-14T01:01:00Z"
+  last_post_link: https://shuiba.co/kansai-expo-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53e2d427eab7f1c0014d88c918f80d47
+  last_post_guid: 7498747eff8a596964b911a345e9eb64
   score_criteria:
     cats: 0
     description: 0

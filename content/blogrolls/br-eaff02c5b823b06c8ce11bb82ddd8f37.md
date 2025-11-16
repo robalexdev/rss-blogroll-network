@@ -37,6 +37,10 @@ params:
   - title: kottke.org
     description: Jason Kottke’s weblog, home of fine hypertext products since 1998
     id: 7626d2d6fa86e02e6ad59760e54e7c54
+  - title: Dense Discovery
+    description: A weekly dispatch of curated links worth your time. Covering culture,
+      tech, design, art, sustainability, urbanism and more.
+    id: 8dca77673309cd3533071fc63f28726d
   - title: Ness Labs
     description: Your mind at work
     id: 915ef179b20c121854fe7d12274d65e1

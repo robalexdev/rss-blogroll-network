@@ -19,16 +19,17 @@ params:
   categories:
   - Essays
   relme: {}
-  last_post_title: The Hidden Scaffolding Behind Production Vibe Coding
-  last_post_description: Tweet sourceI’m not near a level where it’s 10k LOC per day,
-    but the volume of commits is noticeably higher w/ Claude/Codex now. Back in Feb/Mar
-    when Claude Code came out, I was writing an
-  last_post_date: "2025-09-09T18:48:54Z"
-  last_post_link: https://interjectedfuture.com/vibe-coding-for-experts-needs-scaffolding/
+  last_post_title: 'The Best Way to Learn Might Be Starting at the End: Writing a
+    Proof in Lean'
+  last_post_description: AI leveraged learning lets you start with the application
+    at the end. Curiosity guides what you learn, fundamentals backfill when you need
+    them.
+  last_post_date: "2025-10-18T06:01:13Z"
+  last_post_link: https://interjectedfuture.com/the-best-way-to-learn-might-be-starting-at-the-end/
   last_post_categories:
   - Essays
   last_post_language: ""
-  last_post_guid: 066b8e947136e45e6a1d381c3fc5e431
+  last_post_guid: ded6b99cf8e2f806d76bd7e4c612edb1
   score_criteria:
     cats: 0
     description: 3

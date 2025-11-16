@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-09-07T00:00:00+02:00"
+date: "2025-11-10T00:00:00+01:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,16 +19,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: Common misconceptions about AI
-  last_post_description: 'It''s that time of year again. As usual, we took a couple
-    of weeks off and came south: a bit of Portugal, a bit of Italy, a lot of friends
-    and family. My family has a long-running joke that I hate'
-  last_post_date: "2025-09-07T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/common-misconceptions-about-ai.html
+  last_post_title: TTS still sucks
+  last_post_description: 'or at least the open versions of it. I have this very stupid
+    rule. A couple of years ago I decided to turn this blog into a podcast. At the
+    time, I decided to make up a stupid rule: whatever model I'
+  last_post_date: "2025-11-10T00:00:00+01:00"
+  last_post_link: https://duarteocarmo.com/blog/tts-still-sucks.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 4b429dad1f883f3c6fdb8d7714ae4580
+  last_post_guid: d7957a576841dba078831e912fdd4d81
   score_criteria:
     cats: 0
     description: 0

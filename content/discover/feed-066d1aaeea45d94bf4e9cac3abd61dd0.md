@@ -19,19 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Competition
   relme: {}
-  last_post_title: 'Mozilla Meetup: “The Future of Competition: How to Save the Open
-    Web”'
-  last_post_description: The promise of an open and competitive internet hangs in
-    the balance. From the future of AI agents to the underappreciated role of browsers
-    and browser engines, the technological landscape … Read
-  last_post_date: "2025-09-09T14:10:03Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2025/09/09/mozilla-meetup-the-future-of-competition-how-to-save-the-open-web/
+  last_post_title: 'Behind the Manifesto: The Survivors of the Open Web'
+  last_post_description: Welcome to the blog series “Behind the Manifesto,” where
+    we unpack core issues that are critical to Mozilla’s mission. The Mozilla Manifesto
+    represents Mozilla’s commitment to advancing an
+  last_post_date: "2025-11-12T21:42:51Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/11/12/behind-the-manifesto-the-survivors-of-the-open-web/
   last_post_categories:
-  - Uncategorized
+  - Competition
   last_post_language: ""
-  last_post_guid: e45779134cc483087bd1a0c4ba3c008b
+  last_post_guid: dde6413859877077ae2a32c350d5fa74
   score_criteria:
     cats: 0
     description: 3

@@ -102,15 +102,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Accidental Middle Class
-  last_post_description: A question came to mind last night. Was the middle class
-    in the United States intentionally created or simply the happy result of the post
-    World War 2 reconstruction?  I was raised in what I consider
-  last_post_date: "2025-09-13T11:49:12-04:00"
-  last_post_link: https://frankmcpherson.blog/2025/09/13/accidental-middle-class.html
+  last_post_title: Really Solving Problems Means Knowing Root Causes
+  last_post_description: I was born in 1966 and thus part of Generation X. The primary
+    norm that I was taught to be in good standing within the U.S. social order can
+    be summed up in the phrase, “get a job!” It is that
+  last_post_date: "2025-10-29T13:21:09-05:00"
+  last_post_link: https://frankmcpherson.blog/2025/10/29/really-solving-problems-means-knowing.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad2739407e3adfd4c6e3fc58d5c12cf8
+  last_post_guid: 696ce1b6aa7d168b043f7bb882c154f0
   score_criteria:
     cats: 0
     description: 0

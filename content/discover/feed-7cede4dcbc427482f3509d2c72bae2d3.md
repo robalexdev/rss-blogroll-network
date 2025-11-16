@@ -21,7 +21,7 @@ params:
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Blogroll
     description: ""
@@ -49,13 +49,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Mantle Model
+  last_post_title: Beam Dump
   last_post_description: ""
-  last_post_date: "2025-09-12T04:00:00Z"
-  last_post_link: https://xkcd.com/3141/
+  last_post_date: "2025-11-14T05:00:00Z"
+  last_post_link: https://xkcd.com/3168/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d76ca87814969f4dca371647081509e0
+  last_post_guid: e3bf347ee35460ce9e8f0d5f3c10adf1
   score_criteria:
     cats: 0
     description: 3

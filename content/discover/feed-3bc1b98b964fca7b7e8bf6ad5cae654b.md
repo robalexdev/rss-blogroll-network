@@ -1,6 +1,6 @@
 ---
 title: Mark Llobrera
-date: "2025-09-02T14:53:35Z"
+date: "2025-11-10T17:34:43Z"
 description: This is the online home for Mark Llobrera, housing his blog, reading
   log, and film log.
 params:
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Philadelphia Story
+  last_post_title: The Tainted Cup
   last_post_description: ""
-  last_post_date: "2025-09-02T14:53:35Z"
-  last_post_link: https://www.markllobrera.com/watching/the-philadelphia-story-20250902/
+  last_post_date: "2025-11-10T17:34:43Z"
+  last_post_link: https://www.markllobrera.com/reading/the-tainted-cup/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1557575aff0981c775c5c973de09f8aa
+  last_post_guid: 7fa3c8a70a3050ae3f6c006bf022373d
   score_criteria:
     cats: 0
     description: 3

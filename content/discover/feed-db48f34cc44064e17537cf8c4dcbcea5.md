@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2025-09-14T19:55:16Z"
+date: "2025-11-06T13:16:57Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml

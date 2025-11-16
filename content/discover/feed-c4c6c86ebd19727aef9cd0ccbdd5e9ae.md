@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2025-09-15T00:02:16Z"
+date: "2025-11-15T00:02:23Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -17,18 +17,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2025-09-14
+  last_post_title: Daily Hacker News for 2025-11-14
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on September 14, 2025 which have not appeared on any previous
+    on November 14, 2025 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    Japan sets record of nearly 100k people aged over
-  last_post_date: "2025-09-15T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2025-09-14.html
+    Rust in Android: move fast and fix things
+    (comments)
+
+
+    Disrupting
+  last_post_date: "2025-11-15T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2025-11-14.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

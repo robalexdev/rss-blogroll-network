@@ -1,5 +1,5 @@
 ---
-title: Casorate Sempione
+title: ILS Casorate Sempione
 date: "1970-01-01T00:00:00Z"
 description: https://casoratesempione.ils.org
 params:
@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Mezzora
+  - Senza categoria
   relme: {}
-  last_post_title: 'Mezz’ora d’amicizia: Extra omnes intus Wikidata'
-  last_post_description: Per la nostra mezz’ora di amicizia del 17 luglio Ã¨ venuto
-    a trovarci Cristian Consonni che ci ha presentato un caso di aggiornamento delle
-    informazioni contenute in Wikidata in occasione del
-  last_post_date: "2025-07-29T22:55:49Z"
-  last_post_link: https://casoratesempione.ils.org/2025/07/30/mezzora-damicizia-extra-omnes-intus-wikidata/
+  last_post_title: 'Mezz’ora d’amicizia: Ansible'
+  last_post_description: Per la nostra mezz’ora di amicizia del 6 novembre il nostro
+    membro Giuseppe “MarbleMadness” ci ha faccio una veloce panoramica su Ansible,
+    con la promessa di una seconda puntata più pratica
+  last_post_date: "2025-11-06T23:13:05Z"
+  last_post_link: https://casoratesempione.ils.org/2025/11/07/mezzora-damicizia-ansible/
   last_post_categories:
-  - Mezzora
+  - Senza categoria
   last_post_language: ""
-  last_post_guid: d63255ae3fced41ce4787094dad3177b
+  last_post_guid: db6e212b0404dd13e61388ad71e68884
   score_criteria:
     cats: 0
     description: 3

@@ -21,15 +21,15 @@ params:
   relme:
     https://github.com/jamesvandyne/: true
     https://jamesvandyne.com/: true
-  last_post_title: 'The Week #271'
-  last_post_description: "\U0001F9B7 Leo's front teeth have been loose for a while
-    and this week they decided it was time. I need to get lots of photos of him while
-    he's in this toothless state. \U0001F3CA‍♂️ We went swimming at"
-  last_post_date: "2025-09-08T21:26:17Z"
-  last_post_link: https://jamesvandyne.com/bde1c2d7-0159-418b-8c40-a5def0614e7e
+  last_post_title: 'The Week #280'
+  last_post_description: "\U0001F6F9 Leo and I skated both days on the weekend. And
+    for 5 minutes after school on Monday. While he is frustrated that he can't ollie
+    yet, he is getting better control over the board. I expect he'll"
+  last_post_date: "2025-11-10T21:20:58Z"
+  last_post_link: https://jamesvandyne.com/235f244f-099b-4cf5-a884-2f8f90ecf134
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ebee5c92c1bd697a5bff0f4c60a48f0
+  last_post_guid: cb85ae0b6465a162321d1b1acab13ac9
   score_criteria:
     cats: 0
     description: 0

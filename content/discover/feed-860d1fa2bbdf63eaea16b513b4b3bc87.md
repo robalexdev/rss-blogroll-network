@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's up Python? Astral never stops, JetBrains gives us insights
-  last_post_description: August, 2025
-  last_post_date: "2025-09-05T15:47:35Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-astral-never-stops
+  last_post_title: What's up Python? You already know :)
+  last_post_description: October, 2025
+  last_post_date: "2025-11-09T21:41:49Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-you-already-know
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37f60cd8361ddf707eb0fe8257a62be8
+  last_post_guid: f87e98f13c055c048a7aba29715ffdee
   score_criteria:
     cats: 0
     description: 3

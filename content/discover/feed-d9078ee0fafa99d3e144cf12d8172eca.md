@@ -26,16 +26,16 @@ params:
   categories:
   - Management
   relme: {}
-  last_post_title: Check Your Context
-  last_post_description: I didn’t much like Wally from the first time I met him. We
-    worked in the same circles, but not on the same projects. I was aware of his work,
-    but not involved or dependent on it. My initial
-  last_post_date: "2025-09-03T15:53:40Z"
-  last_post_link: https://randsinrepose.com/archives/check-your-context/
+  last_post_title: Seven Decisions
+  last_post_description: Vanilla. Someone decided. Good. No further questions. We
+    can make progress now. Educated. You ask why they decided, and they can clearly
+    explain their reasoning. Not everyone might appreciate the
+  last_post_date: "2025-11-11T16:20:15Z"
+  last_post_link: https://randsinrepose.com/archives/seven-decisions/
   last_post_categories:
   - Management
   last_post_language: ""
-  last_post_guid: 715136071a880f1ddbcbe6dfe9ac41db
+  last_post_guid: f63bc5f36abe0d593d0cb68efaaba15f
   score_criteria:
     cats: 0
     description: 0

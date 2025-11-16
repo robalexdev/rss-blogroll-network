@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.2.
+      feedlandDatabase v0.8.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -23,19 +23,19 @@ params:
   - Sidebar - Featured
   - Threads
   relme: {}
-  last_post_title: Attach Text to Your Threads Posts and Share Longer Perspectives
+  last_post_title: Introducing Disappearing Posts on Threads
   last_post_description: |-
-    We're rolling out a way for you to attach up to 10,000 characters of text to a Threads post.
-    The post Attach Text to Your Threads Posts and Share Longer Perspectives appeared first on Meta Newsroom.
-  last_post_date: "2025-09-04T17:00:51Z"
-  last_post_link: https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/
+    We're launching ghost posts, Threads posts that are automatically archived after 24 hours so you can share your unfiltered thoughts.
+    The post Introducing Disappearing Posts on Threads appeared first
+  last_post_date: "2025-10-27T16:00:04Z"
+  last_post_link: https://about.fb.com/news/2025/10/introducing-disappearing-posts-on-threads/
   last_post_categories:
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
   last_post_language: ""
-  last_post_guid: 72ed01dc5ef39255efd9b6f9098213a4
+  last_post_guid: b463c9bf2613478906adc19a40993bbd
   score_criteria:
     cats: 0
     description: 0

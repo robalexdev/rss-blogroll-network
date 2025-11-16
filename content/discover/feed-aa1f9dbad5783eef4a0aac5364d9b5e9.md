@@ -259,16 +259,17 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] Hive’s Password Policy Makes Me Cry by Zygmunt
-    Sawicki
-  last_post_description: 'What''s even worse (don''t know Hive, but in general): often
-    the backend returns detailed password rules, but they are not displayed on the
-    front end...'
-  last_post_date: "2025-10-14T15:15:15+01:00"
-  last_post_link: https://danq.me/2025/10/14/hives-password-policy-makes-me-cry/#comment-290170
+  last_post_title: Comment on [Repost] We Need to Talk About Botsplaining by Alex
+    Morgan
+  last_post_description: |-
+    Similar to this is the use of "AI" for work. For example, Crunchyroll recently encountered controversy with its subtitles; the company responsible for providing these subtitles was using ChatGPT.
+
+    If
+  last_post_date: "2025-11-14T19:26:59Z"
+  last_post_link: https://danq.me/2025/11/14/we-need-to-talk-about-botsplaining/#comment-292196
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7f7bb9c817ccf3ff1f96bddcaabfd696
+  last_post_guid: a1040dd8d79c01239c251da3a1e874c4
   score_criteria:
     cats: 0
     description: 3

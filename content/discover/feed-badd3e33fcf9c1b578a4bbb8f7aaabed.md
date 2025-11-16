@@ -15,33 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 工具
-  - 杂谈
-  - 生活
+  - 工作
+  - 科研
   relme: {}
-  last_post_title: 205 如何应对他人的怂恿？
-  last_post_description: 生活中，我们常会遇到他人怂恿我们去做超出能力范围的事情，比如： 昨天刚跑了5公里，今天被要求跑10公里； 健身 […]
-  last_post_date: "2025-09-04T16:51:40Z"
-  last_post_link: http://ddw2019.com/205
+  last_post_title: 210 参加2025世界顶尖科学家论坛（上海临港中心） 聆听两场最大大脑的讨论
+  last_post_description: 大家好呀，世界顶尖科学家论坛在2025.10.24 - 2025.10.26在上海市临港中心召开。共有数百位科 […]
+  last_post_date: "2025-10-26T17:15:55Z"
+  last_post_link: http://ddw2019.com/210
   last_post_categories:
-  - 工具
-  - 杂谈
-  - 生活
+  - 工作
+  - 科研
   last_post_language: ""
-  last_post_guid: fc6af15a3c15c6b224637b06b81ff924
+  last_post_guid: 258bdfee1eb2fa8eeea31f395a2db6f7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

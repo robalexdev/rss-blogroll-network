@@ -32,62 +32,34 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories:
-  - ai
-  - code
-  - coding
-  - cooking
-  - food
-  - generative
-  - humour
-  - language
-  - machinelearning
-  - microwaves
-  - models
-  - parody
-  - tools
+  - '#ffconf'
   relme:
     https://adactio.com/: true
     https://adactio.medium.com/: true
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: In the Future All Food Will Be Cooked in a Microwave, and if You
-    Can’t Deal With That Then You Need to Get Out of the Kitchen – Random Thoughts
-  last_post_description: |-
-    A microwave isn’t going to take your job; a chef who knows how to use a microwave is going to take your job.
-
-    adactio.com/links/22129
-  last_post_date: "2025-09-12T15:42:24Z"
-  last_post_link: https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/?utm_source=thefutureislikepie.beehiiv.com&utm_medium=newsletter&utm_campaign=unknotted&_bhlid=
+  last_post_title: 'Closing out #ffconf with Erika’s chickens.'
+  last_post_description: 'Closing out #ffconf with Erika’s chickens.'
+  last_post_date: "2025-11-14T17:33:26Z"
+  last_post_link: https://adactio.com/notes/22253
   last_post_categories:
-  - ai
-  - code
-  - coding
-  - cooking
-  - food
-  - generative
-  - humour
-  - language
-  - machinelearning
-  - microwaves
-  - models
-  - parody
-  - tools
+  - '#ffconf'
   last_post_language: ""
-  last_post_guid: fd290c73eae7162d9088e164b3fbd377
+  last_post_guid: 262fd27118b0dd0ddd32d131e966b86a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

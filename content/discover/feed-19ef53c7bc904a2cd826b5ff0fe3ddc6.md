@@ -12,22 +12,22 @@ params:
   in_blogrolls:
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.7.54.
+      v0.8.4.
     id: 7def71058aaab40ff83909b86eff9005
   recommended: []
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: NANOG 93 recap summary
-  last_post_description: The NANOG 93 meeting took place a few days ago. Slide decks
-    for all the talks are on the meeting page and the corresponding videos should
-    appear on the NANOG play list on YouTube soon. This is a very
-  last_post_date: "2025-02-09T00:00:00Z"
-  last_post_link: https://dataplane.org/jtk/blog/2025/02/nanog93/
+  last_post_title: Journeys in Hosting 1/x - Precomputed SSH Host Keys
+  last_post_description: In what I hope will be the debut of many in a series to come,
+    I want to share my experience and musings as a frequent traveler in the world
+    of hosting providers. Sometimes it will be just curious
+  last_post_date: "2025-09-22T00:00:00Z"
+  last_post_link: https://dataplane.org/jtk/blog/2025/09/hosting-stories-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 916329c258d6ca2ed5cb2085754f9290
+  last_post_guid: 14de7fe2ef296c8302564095edcfbf2b
   score_criteria:
     cats: 0
     description: 3

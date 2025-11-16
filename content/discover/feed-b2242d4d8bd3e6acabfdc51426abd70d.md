@@ -1,0 +1,72 @@
+---
+title: MAT Lab Lab Log
+date: "2025-09-10T20:18:35Z"
+description: Writings and Reports from Mat Kelly's Research Group at Drexel CCI
+params:
+  feedlink: https://log.lab.matkelly.com/feed
+  feedtype: atom
+  feedid: b2242d4d8bd3e6acabfdc51426abd70d
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Planet Code4Lib
+    description: ""
+    id: 47fe0ac3ef9bb492f55a37d12530cbc4
+  recommended: []
+  recommender: []
+  categories:
+  - "2025"
+  - cci
+  - drexel
+  - hci
+  - info655
+  - programming
+  - projects
+  - react
+  - robotics
+  - students
+  - teaching
+  - web
+  - winter
+  relme: {}
+  last_post_title: Lessons in Reteaching Web Programming
+  last_post_description: Report on INFO655 Intro to Web Programming at Drexel CCI
+    in Winter 2025 with course topics, student projects, and lessons learned.
+  last_post_date: "2025-03-29T00:00:00Z"
+  last_post_link: https://log.lab.matkelly.com/info655-2025
+  last_post_categories:
+  - "2025"
+  - cci
+  - drexel
+  - hci
+  - info655
+  - programming
+  - projects
+  - react
+  - robotics
+  - students
+  - teaching
+  - web
+  - winter
+  last_post_language: ""
+  last_post_guid: 958c8d7f01d4f175ea6fa1e9cc103e23
+  score_criteria:
+    cats: 0
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 20
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 7
+  avgpostlen: 294
+---

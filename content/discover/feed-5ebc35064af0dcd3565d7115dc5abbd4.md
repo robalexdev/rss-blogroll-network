@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 8月小结-锻炼/探索/进步(踩雷)
+  last_post_title: 10月小结-行之有效
   last_post_description: ""
-  last_post_date: "2025-08-23T11:08:00Z"
-  last_post_link: https://blog.asyncx.top/posts/2025-08-23/
+  last_post_date: "2025-10-30T21:10:00Z"
+  last_post_link: https://blog.asyncx.top/posts/2025-10-30/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c5972b50a844f54a62a463dedee3d14
+  last_post_guid: 2cf73e4f8b9b8a42ffde27bf65ab8409
   score_criteria:
     cats: 0
     description: 3

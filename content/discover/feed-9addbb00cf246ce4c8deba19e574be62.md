@@ -68,13 +68,16 @@ params:
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
     description: ""
+    id: 376fcaa433eaea9f886962009443cbff
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
   recommended: []
   recommender:
-  - https://frankmeeuwsen.com/feed.xml
+  - https://blog.frankmeeuwsen.com/feed.xml
   categories: []
   relme:
     https://3x5.pics/credits: true

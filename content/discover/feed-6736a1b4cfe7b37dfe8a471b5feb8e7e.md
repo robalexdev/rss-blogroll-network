@@ -10,23 +10,23 @@ params:
     https://frankchimero.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Roy Tang's Blogroll
+  - title: A list of sites Ethan likes
     description: ""
-    id: 9a988b678bcc9cdb383ef996387855af
+    id: 796603efcff00ba474bbbd88e566b727
   recommended: []
-  recommender:
-  - https://roytang.net/blog/feed/rss/
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: The Green Ray
-  last_post_description: 'Last week, early morning, the sky flushed that fuzzy summer
-    cirrus peach: I wake up inspired to send a brief newsletter with one nice idea.
-    An admirable goal—let’s finally get to writing! But of'
-  last_post_date: "2021-08-31T00:00:00Z"
-  last_post_link: https://frankchimero.com/blog/2021/the-green-ray/
+  last_post_title: Beyond the Machine Extras
+  last_post_description: |-
+    Every talk leaves a lot of scraps, and Beyond the Machine is no exception.
+
+    I read a couple books, watched about 20 hours of interviews with Brian Eno, listened to 10 hours of podcasts with Rick
+  last_post_date: "2025-10-24T00:00:00Z"
+  last_post_link: https://frankchimero.com/blog/2025/beyond-the-machine-extras/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b9b1af7ec86ff552fcec2b8c8d95baa2
+  last_post_guid: d6d499c855dae3b3f96375e12e56f4b4
   score_criteria:
     cats: 0
     description: 3

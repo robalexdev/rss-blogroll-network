@@ -18,16 +18,16 @@ params:
   categories:
   - Notizie principali
   relme: {}
-  last_post_title: Da oggi computer liberi per studenti e insegnanti
-  last_post_description: 'Cari insegnanti, studenti, studentesse e genitori, siamo
-    lieti di condividere con voi un mondo dove la tecnologia incontra la libertà e
-    l’innovazione: il software libero e open source. In questo'
-  last_post_date: "2025-05-31T11:33:42Z"
-  last_post_link: https://vicenza.ils.org/2025/05/31/scuole-stiamo-arrivando/
+  last_post_title: 'Linux Day 2025: 11 conferenze a Vicenza il 25 ottobre'
+  last_post_description: 'Linux Day 2025 a Vicenza: privacy, sicurezza e sovranità
+    del software al centro della scena Sabato 25 ottobre 2025, Vicenza si prepara
+    ad ospitare una nuova edizione del Linux Day, l’evento'
+  last_post_date: "2025-09-25T12:20:52Z"
+  last_post_link: https://vicenza.ils.org/2025/09/25/linux-day-2025-a-vicenza/
   last_post_categories:
   - Notizie principali
   last_post_language: ""
-  last_post_guid: bc361656f4c32a45f3016fd1da3c23b4
+  last_post_guid: 171248ccd1853f6b6df6028765dd5ab6
   score_criteria:
     cats: 0
     description: 3

@@ -15,36 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Capital One 商业信用卡
-  - 无年费信用卡
-  - 第一资本 Capital One
-  - 返现信用卡
+  - 酒店综述
   relme: {}
-  last_post_title: Capital One Spark Cash Select 商业信用卡【2025.9 更新：$750 开卡奖励】
-  last_post_description: Capital One Spark Cash Select 商业信用卡简介 【2025.9 更新】$750 奖励回归。
-    【2024.9 更新】$750 奖励过期了，目前的开卡奖励是 $500。 【2023.11 更新】$750
-  last_post_date: "2025-09-14T14:10:01Z"
-  last_post_link: https://www.uscreditcardguide.com/capital-one-spark-cash-select/?utm_source=rss&utm_medium=rss&utm_campaign=capital-one-spark-cash-select
+  last_post_title: Chase The Edit之我见及与Amex FHR的对比
+  last_post_description: 在2205年10月26之后，Chase Sapphire Reserve的老持卡用户也正式上线了新的Edit
+  last_post_date: "2025-11-15T15:30:57Z"
+  last_post_link: https://www.uscreditcardguide.com/chase-the-editzhiwojianjiyuamex-fhrdeduibi/
   last_post_categories:
-  - Capital One 商业信用卡
-  - 无年费信用卡
-  - 第一资本 Capital One
-  - 返现信用卡
+  - 酒店综述
   last_post_language: ""
-  last_post_guid: f9e2ac0a665e0c1a6b26bab956e0eea9
+  last_post_guid: 0dab0d9ed5dec819e4706a37db431b5a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

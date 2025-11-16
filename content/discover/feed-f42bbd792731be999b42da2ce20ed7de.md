@@ -13,6 +13,7 @@ params:
     https://www.april.org/communiques: false
     https://www.april.org/event: false
     https://www.april.org/event/2025-09: false
+    https://www.april.org/event/2025-11: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:
@@ -22,21 +23,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Libre à vous !
-  - Podcast Libre à vous !
+  - Article de presse
+  - Le Logiciel Libre
   relme: {}
-  last_post_title: '#253 - Migrer de Windows vers un système libre sur le poste de
-    travail - « Libre à vous ! » diffusée mardi 9 septembre 2025 sur radio Cause Commune'
-  last_post_description: |-
-    Libre à vous !,  l’émission de l’April, l’association de promotion et de défense du logiciel libre.
-    Prenez le contrôle de vos libertés informatiques, découvrez les enjeux et
-  last_post_date: "2025-09-12T09:40:02Z"
-  last_post_link: https://www.april.org/libre-a-vous-diffusee-mardi-9-septembre-2025-sur-radio-cause-commune
+  last_post_title: Revue de presse de l’April pour la semaine 45 de l’année 2025
+  last_post_description: "✍ Mathilde Obert,\n                  le mardi 4 novembre\n
+    \                 2025.\n                    \n                      Prévue pour
+    octobre 2025 et décalée d’un\n                      an, la"
+  last_post_date: "2025-11-12T19:33:00Z"
+  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-45-de-l-annee-2025
   last_post_categories:
-  - Libre à vous !
-  - Podcast Libre à vous !
+  - Article de presse
+  - Le Logiciel Libre
   last_post_language: ""
-  last_post_guid: 6c5ab03be355849b7c46c7c5b759f9fe
+  last_post_guid: 71dbeb09b540042b6ebdd36ceed2864c
   score_criteria:
     cats: 0
     description: 3

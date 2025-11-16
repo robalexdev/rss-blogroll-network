@@ -1,5 +1,5 @@
 ---
-title: Ankur Sethi
+title: Ankur Sethi's Internet Website
 date: "1970-01-01T00:00:00Z"
 description: Personal blog and website of Ankur Sethi, reader, writer, and frontend
   engineer living in Bangalore, India.
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The ducks incident
+  last_post_title: 'Weeknote 2025-W45: Text message bankruptcy'
   last_post_description: ""
-  last_post_date: "2025-09-06T11:50:53Z"
-  last_post_link: https://ankursethi.com/blog/the-ducks-incident/
+  last_post_date: "2025-11-09T18:40:09Z"
+  last_post_link: https://ankursethi.com/weeknotes/2025-w45-text-message-bankruptcy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 77f32e430ab20f59760db4fec336e6fc
+  last_post_guid: 2af11b52a197b5991bbf16b675cc018b
   score_criteria:
     cats: 0
     description: 3

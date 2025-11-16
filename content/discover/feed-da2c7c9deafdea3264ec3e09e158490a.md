@@ -1,6 +1,6 @@
 ---
 title: Jaz's Blog
-date: "2025-08-13T18:16:45Z"
+date: "2025-09-26T16:02:07Z"
 description: ""
 params:
   feedlink: https://jazco.dev/atom.xml
@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'When Imperfect Systems are Good, Actually: Bluesky''s Lossy Timelines'
+  last_post_title: Turning Billions of Strings into Integers Every Second Without
+    Collisions
   last_post_description: ""
-  last_post_date: "2025-02-19T00:00:00Z"
-  last_post_link: https://jazco.dev/2025/02/19/imperfection/
+  last_post_date: "2025-09-26T00:00:00Z"
+  last_post_link: https://jazco.dev/2025/09/26/interning/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8db5b319be639b0d88e1563bfdebb66b
+  last_post_guid: 7a683777da5f8d78a28268a07894626e
   score_criteria:
     cats: 0
     description: 0

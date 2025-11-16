@@ -19,27 +19,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Benchmark
-  - Cache
-  - vLLM
+  - LLaMA-Factory
+  - Qwen3
   - 博文
-  - 推理
+  - 微调
   relme: {}
-  last_post_title: 什么是 Prefix Cache
-  last_post_description: 1. 什么是 Prefix Cache 在模型推理场景下，经常会使用缓存机制来提升吞吐和性能。常见的有两种缓存机制：
-    Key-Value Cache (KV
-  last_post_date: "2025-09-11T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/what-is-prefix-cache.html
+  last_post_title: 使用 LLaMA-Factory 微调 Qwen3 模型
+  last_post_description: 1. 原始模型测试 启动环境 1 2 3 4 5 6 7 8 9 10 nerdctl run -it \ --gpus
+    all \ --ipc=host \ -p 8000:8000 \ --ulimit memlock=-1 \ --ulimit stack=67108864
+    \ --name vllm \ --volume /data/models
+  last_post_date: "2025-09-21T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/using-llama-factory-to-fine-tune-qwen3-model.html
   last_post_categories:
-  - AI
-  - Benchmark
-  - Cache
-  - vLLM
+  - LLaMA-Factory
+  - Qwen3
   - 博文
-  - 推理
+  - 微调
   last_post_language: ""
-  last_post_guid: 1c4ec11696907955f24e80fc5f7b64bb
+  last_post_guid: 6da5632dcda7579a6eb8ab1f13c73d83
   score_criteria:
     cats: 0
     description: 3

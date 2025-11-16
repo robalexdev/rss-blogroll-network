@@ -1,6 +1,6 @@
 ---
 title: The Leafslug - All
-date: "2025-09-09T11:16:54+02:00"
+date: "2025-10-06T13:52:50+02:00"
 description: Slowly wandering Leafslug, eating away leaves and photosynthesizing under
   a mellow light.
 params:

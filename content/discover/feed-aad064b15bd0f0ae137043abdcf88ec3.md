@@ -12,23 +12,26 @@ params:
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
     description: ""
+    id: 376fcaa433eaea9f886962009443cbff
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
     id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
-  - https://frankmeeuwsen.com/feed.xml
+  - https://blog.frankmeeuwsen.com/feed.xml
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Dagafsluit
-  last_post_description: De neiging om me op te sluiten wordt sterker. Ik moet niets
-    hebben van regen, noch van te veel aan zon. Alles moet middelmatig zijn, of anders
-    minstens dragelijk om me te vervoeren naar een plek van
-  last_post_date: "2025-09-13T22:56:48Z"
-  last_post_link: https://zijperspace.nl/dagafsluit/
+  last_post_title: Terugwee
+  last_post_description: Tineke is thuisgekomen, zo rond deze tijd. Ik heb vanmiddag
+    een buisje in haar brievenbus gedaan, zodat ze ’s anderdaags onderzoek kan laten
+    doen. Ik weet niet de reden voor dat onderzoek;
+  last_post_date: "2025-11-15T22:56:03Z"
+  last_post_link: https://zijperspace.nl/terugwee/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: 2400059fa6906c597f929ef374d81dee
+  last_post_guid: b7714908ef92540338fb248db238dfb1
   score_criteria:
     cats: 0
     description: 3

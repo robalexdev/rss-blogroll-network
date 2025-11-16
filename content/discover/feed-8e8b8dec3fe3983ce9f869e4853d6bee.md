@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2025-09-05T16:40:08Z"
+date: "2025-11-12T12:23:21Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -19,16 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 加密
+  - web3
   relme: {}
-  last_post_title: 理解哈希函数与序列化
-  last_post_description: Hash functionHash function 用于处理数据和其
-  last_post_date: "2025-09-07T16:37:55Z"
-  last_post_link: https://smallyu.net/2021/10/13/%E7%90%86%E8%A7%A3%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0%E4%B8%8E%E5%BA%8F%E5%88%97%E5%8C%96/
+  last_post_title: web3 就业指南
+  last_post_description: |-
+    不要和定居在中国二线城市、同等经济水平城市、及其以下的团队成员合作，他们技术能力都不行
+    凡是中国深圳团队做的 web3
+  last_post_date: "2025-11-12T12:23:21Z"
+  last_post_link: https://smallyu.net/2025/11/10/web3%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%8D%97/
   last_post_categories:
-  - 加密
+  - web3
   last_post_language: ""
-  last_post_guid: eb6b691de2778a1d19fe8e8a6c10438a
+  last_post_guid: c977293869d80a3dca948af4efe89fd3
   score_criteria:
     cats: 0
     description: 3

@@ -21,6 +21,9 @@ params:
   - title: Miraz Jordan - Blogroll
     description: ""
     id: a2e542911136651d505c2e30b96201c7
+  - title: Alexandra Wolfe - Blogroll
+    description: ""
+    id: 6eee94e921a971738b460a20c264d231
   recommended: []
   recommender:
   - https://blog.numericcitizen.me/feed.xml
@@ -31,6 +34,8 @@ params:
   - https://miraz.me/feed
   - https://miraz.me/feed.xml
   - https://miraz.me/podcast.xml
+  - https://wrywriter.ca/feed.xml
+  - https://wrywriter.ca/posts_feed
   categories: []
   relme: {}
   last_post_title: "\U0001F970 Tomorrow I rest..."

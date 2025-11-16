@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2025-09-15T05:42:45.917+00:00"
+date: "2025-11-15T07:52:41.414+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -136,9 +136,9 @@ params:
   - title: 'starbreaker.org: everything'
     description: a full-text feed containing everything but the kitchen sink
     id: 90902b21c326769a4dc4d9321d76b3d7
-  - title: Manuel Moreale
-    description: A collection of random thoughts about tech, life, design and pretty
-      much everything else I find interesting.
+  - title: Manuel Moreale — Everything Feed
+    description: Thoughts, Pictures, Interviews, and everything else I publish on
+      my blog
     id: 9417e92ed42b42a9df3959016838f82d
   - title: Fractal Kitty
     description: Making sense of the abstract.

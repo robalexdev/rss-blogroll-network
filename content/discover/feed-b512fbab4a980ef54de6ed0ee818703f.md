@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: September 9, 2020
-  last_post_description: Five years ago, during an already messed up  year, we had
-    widespread wildfires in the Pacific Northwest that combined with a high pressure
-    front and gave us hot, stale air currents that produced the
-  last_post_date: "2025-09-09T19:44:30Z"
-  last_post_link: https://a.wholelottanothing.org/september-9-2020/
+  last_post_title: 'Zepboundin'': my first month on a GLP-1'
+  last_post_description: Today I finish my fourth 2.5mg injection of Zepbound, a strong
+    GLP-1 drug, and I thought I'd write about the experience of my first month on
+    it, how I got here, and what I expect in the future. It's
+  last_post_date: "2025-11-06T19:25:51Z"
+  last_post_link: https://a.wholelottanothing.org/zepboundin-my-first-month-on-a-glp-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37abcbbe6ea875fd0cf3221fc70d9a2a
+  last_post_guid: 96aec72c24014d3d8ff922bbfbcb3dcb
   score_criteria:
     cats: 0
     description: 3

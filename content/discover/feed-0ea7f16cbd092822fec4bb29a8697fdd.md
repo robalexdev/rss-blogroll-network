@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2025-09-04T00:00:00Z"
+date: "2025-09-27T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fir is getting useful
-  last_post_description: |-
-    A few months ago I implemented a PEG parser generator in Fir. It parses its own grammar and it’s also used to parse Fir.
-    This week I finished another sizable1 Fir project: a code formatter for Fir.
-  last_post_date: "2025-09-04T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2025-09-04-fir-getting-useful.html
+  last_post_title: How Fir formats comments
+  last_post_description: Fir formats comments by assigning comment tokens to non-comment
+    tokens (only conceptually, not in the implementation, see below), and generating
+    comments when formatting the tokens that “own”
+  last_post_date: "2025-09-27T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2025-09-27-fir-formatter.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df037391a52567beabce0955dd9c6f56
+  last_post_guid: d7a60b75da62dd69733166f7417b3b2d
   score_criteria:
     cats: 0
     description: 0

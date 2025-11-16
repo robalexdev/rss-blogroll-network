@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: a1a1eb1b2f99e6cb3fc0225f11c959df
   websites:
-    https://ounapuu.ee/: true
+    https://ounapuu.ee/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -38,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

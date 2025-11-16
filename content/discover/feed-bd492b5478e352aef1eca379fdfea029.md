@@ -15,36 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - FOSS
-  - Ubuntu 24.04
-  - Ubuntu 25.04
+  - Ubuntu 25.10
   - Xubuntu
   relme: {}
-  last_post_title: Xubuntu Development Update February 2025
-  last_post_description: The Xubuntu development update for February 2025 features
-    a 24.04 point release, 25.04 Feature Freeze, RISC-V updates, and much more.
-  last_post_date: "2025-02-22T04:40:00Z"
-  last_post_link: https://seand.xyz/blog/2025/02/22/xubuntu-development-update-february-2025/
+  last_post_title: Xubuntu 25.10 "Questing Quokka"
+  last_post_description: An overview of Xubuntu 25.10, the state of the Xubuntu team,
+    and a look ahead toward the future.
+  last_post_date: "2025-10-09T06:58:43Z"
+  last_post_link: https://seand.xyz/blog/2025/10/09/xubuntu-25-10-questing-quokka/
   last_post_categories:
-  - FOSS
-  - Ubuntu 24.04
-  - Ubuntu 25.04
+  - Ubuntu 25.10
   - Xubuntu
   last_post_language: ""
-  last_post_guid: 9c4d56e53e291697f36bd435bebee723
+  last_post_guid: b8628a8d9233d8ac2ec197cc2f71ed2e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

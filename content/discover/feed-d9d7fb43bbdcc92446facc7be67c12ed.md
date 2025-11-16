@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2025-09-11T02:52:34Z"
+date: "2025-10-30T09:29:13Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,27 +18,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - arm
-  - c1
-  - cortex
+  - apple
+  - cbp
   - cpu
+  - firestorm
   - hardware
-  - neoverse
+  - m1
+  - re
   relme: {}
-  last_post_title: ARM 公版核微架构演进
-  last_post_description: ARM 公版核微架构演进¶背景¶ARM 公版核微架构的演进频繁，型号又比较多，相关信息散落在各种地方，为了方便查阅，在这里做一个收集。2025
-    年¶C1
-  last_post_date: "2025-09-10T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2025/09/10/arm-core-development/
+  last_post_title: 条件分支预测器逆向工程（以 Apple M1 Firestorm 为例）
+  last_post_description: 背景¶去年我完成了针对 Apple 和 Qualcomm 条件分支预测器（Conditional Branch Predictor）的逆向工程研究，相关论文已发表在
+    arXiv
+  last_post_date: "2025-10-28T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2025/10/28/cbp-reverse-engineer/
   last_post_categories:
-  - arm
-  - c1
-  - cortex
+  - apple
+  - cbp
   - cpu
+  - firestorm
   - hardware
-  - neoverse
+  - m1
+  - re
   last_post_language: ""
-  last_post_guid: fe09530eba88e51ce8266b338c937a64
+  last_post_guid: bd92d651232191c060d50aef92020902
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: 大象笔记 - Notes of Elephant Leg
-date: "2025-09-13T09:59:58+08:00"
+date: "2025-11-13T21:21:14+08:00"
 description: 大家好，我是生活在地球的一头大象。这里记录了我的每一天，有日记、有笔记、也有 wiki 和照片。
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Magento 的批量导入机制，及数据库表 importexport_importdata
-  last_post_description: 找了半天 Magento 无法批量导入的问题，最后发现是 crontab 里设置了一个定时任务，每半小时 restart
-    php fpm 的 docker 容器。导致 Magento
-  last_post_date: "2025-09-13T09:59:58+08:00"
-  last_post_link: https://www.sunzhongwei.com/magentos-batch-import-mechanism
+  last_post_title: 手机 sim 卡无法识别之后，我突然慌了
+  last_post_description: "今天早上上班真是走了大运，先是电脑ssd硬盘io异常，卡得无法动弹。然后想用手机查查原因，发现sim卡无法识别了\U0001F974"
+  last_post_date: "2025-11-13T21:21:14+08:00"
+  last_post_link: https://www.sunzhongwei.com/my-sim-card-couldnt-recognize-my-phone
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 307d6d06ad401079c1263f5cdaad8660
+  last_post_guid: e72a96e5c688617a6f186fef59f64f19
   score_criteria:
     cats: 0
     description: 3

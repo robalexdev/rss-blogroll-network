@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2025-09-14T20:53:41Z"
+date: "2025-11-15T17:26:50Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -15,28 +15,32 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - "2025"
+  - data protection
   relme: {}
-  last_post_title: do not retcon his legacy
-  last_post_description: ""
-  last_post_date: "2025-09-14T08:15:21Z"
-  last_post_link: https://blog.avas.space/legacy-news/
-  last_post_categories: []
+  last_post_title: the GDPR is under attack
+  last_post_description: Talking about the leaked proposal of the EC.
+  last_post_date: "2025-11-13T18:12:41Z"
+  last_post_link: https://blog.avas.space/digital-omnibus/
+  last_post_categories:
+  - "2025"
+  - data protection
   last_post_language: ""
-  last_post_guid: 69a8320692e5f0fbeb236fc03603bc94
+  last_post_guid: 64a168bea238d84382aa5aeaf9016178
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

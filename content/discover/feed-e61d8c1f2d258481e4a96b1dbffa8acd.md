@@ -18,31 +18,31 @@ params:
   categories:
   - text mining, natural language processing, data science, digital humanities
   relme: {}
-  last_post_title: Plato and Knowledge
-  last_post_description: |-
-    I wonder, what does Plato have to say about knowledge, and to what degree is knowledge an absolute?
-    Keywords: readings; knowledge; Plato; Source: This posting is rooted in the index.html page of the
-  last_post_date: "2025-07-08T00:00:00-04:00"
-  last_post_link: https://distantreader.org/blog/plato-and-knowledge/
+  last_post_title: 'Reader Lite and Reader Luminaries: Two Distinct Tools to Use and
+    Understand a Set of Pre-Selected Books'
+  last_post_description: Reader Lite and Reader Luminaries are interactive indexes
+    to seven different books from the Western canon. The use of Reader Lite and Reader
+    Luminaries -- like the use of any other index -- enhance
+  last_post_date: "2025-10-24T00:00:00-04:00"
+  last_post_link: https://distantreader.org/blog/two-readers/
   last_post_categories:
-  - Plato
-  - knowledge
-  - readings
+  - RAG (retrieval-augmented generation)
+  - indexes
   last_post_language: ""
-  last_post_guid: d3036c4c9ea345f4a70707d1f40a2e04
+  last_post_guid: 6bd667d74b2411aa8e13e93f24ce47da
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

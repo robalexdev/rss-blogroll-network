@@ -17,14 +17,14 @@ params:
   categories:
   - 念念碎
   relme: {}
-  last_post_title: 股市杂想
-  last_post_description: 最近感受到大A牛市的东风已吹到身边，不少朋友化身新韭菜，有去年10.8高位进场被割韭菜至今在奋斗回本的，也有1 […]
-  last_post_date: "2025-09-12T01:09:01Z"
-  last_post_link: https://www.leolin86.com/?p=3764
+  last_post_title: 教育有感
+  last_post_description: 最近在大希上学的路上和晚上她在客厅看报纸时跟她闲谈比较多，小时候老爸也总会在晚上主动和我闲聊，分享近期当地发生 […]
+  last_post_date: "2025-11-07T15:47:04Z"
+  last_post_link: https://www.leolin86.com/?p=3848
   last_post_categories:
   - 念念碎
   last_post_language: ""
-  last_post_guid: 792eb30ec4c123985e362b64787a0db3
+  last_post_guid: 3b4ab8789598cbe101f0a9aedc7eb276
   score_criteria:
     cats: 0
     description: 0

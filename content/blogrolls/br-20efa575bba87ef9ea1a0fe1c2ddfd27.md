@@ -6,6 +6,10 @@ params:
   link: https://planet.sympy.org/opml.xml
   blogroll_id: 20efa575bba87ef9ea1a0fe1c2ddfd27
   recommends:
+  - title: Rushabh's Blog
+    description: A blog page where I will be posting about my GSoC 2025 journey and
+      more!
+    id: 0533719f710207cf370fafb0b1c6bbd7
   - title: Stories by Mohit balwani on Medium
     description: Stories by Mohit balwani on Medium
     id: 060ed109e4aada2cc84e688913dc7c62
@@ -42,6 +46,9 @@ params:
   - title: GSoC Report
     description: Recent content on GSoC Report
     id: 700b90b29cdcea85ff17a8bfaa799106
+  - title: 'leomanga - Tag: SymPy'
+    description: ""
+    id: 770d9f453e5732228e59204e48240037
   - title: Shubham’s Blog
     description: My Corner on Internet
     id: 787def12bddb3a797d7221a5eb3ed5a5

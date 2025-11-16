@@ -21,16 +21,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Digging ditches
-  last_post_description: I work hard at my job, but nothing can compare to how hard
-    I will work on redirecting a stream at the beach. I will dig in the hot sun until
-    my hands are blistered.
-  last_post_date: "2025-09-11T22:26:04Z"
-  last_post_link: https://actsofvolition.com/2025/09/digging-ditches/
+  last_post_title: Resumability
+  last_post_description: Resumability is not a word, but it’s an important concept
+    to me. When I say Resumability, I’m talking about the ability to quickly interrupt
+    and later resume a task. The task doesn’t have to be
+  last_post_date: "2025-11-13T00:30:01Z"
+  last_post_link: https://actsofvolition.com/2025/11/resumability/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: ef5997fc3c9fb79ce42c12cb3b92f1a1
+  last_post_guid: 0ee3c19e63c1301d49824961742049b2
   score_criteria:
     cats: 0
     description: 0

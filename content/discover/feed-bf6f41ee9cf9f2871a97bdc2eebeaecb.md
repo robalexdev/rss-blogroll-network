@@ -1,6 +1,6 @@
 ---
 title: shellsharks Scrolls
-date: "2025-09-15T05:04:28-04:00"
+date: "2025-11-15T16:03:37-05:00"
 description: The Scrolls Newsletter
 params:
   feedlink: https://shellsharks.com/feeds/scroll-feed.xml
@@ -85,21 +85,18 @@ params:
     https://mastodon.social/@sass: true
     https://shellsharks.com/: true
     https://shellsharks.social/@shellsharks: true
-  last_post_title: Scroll vīgintī
-  last_post_description: |-
-    Welcome to volume twenty of Scrolls, a newsletter for sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. In this quieter week, I ask, “why do we blog?”
-
-    IndieWeb
-
-    Why do we
-  last_post_date: "2025-07-04T00:14:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2025-07-04
+  last_post_title: Scroll vīgintī et trēs
+  last_post_description: Welcome to volume twenty-three of Scrolls, a newsletter for
+    sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week
+    we make the web better, learn “how to Fedi”, and feed
+  last_post_date: "2025-10-17T08:37:00-04:00"
+  last_post_link: https://shellsharks.com/scrolls/scroll/2025-10-17
   last_post_categories:
   - fediverse
   - indieweb
   - infosec
   last_post_language: ""
-  last_post_guid: 38db10e3cab5f907ce971165c0cb049f
+  last_post_guid: 3c8d960e995b416d33fe791ed3036a52
   score_criteria:
     cats: 0
     description: 3

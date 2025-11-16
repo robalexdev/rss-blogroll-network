@@ -34,15 +34,15 @@ params:
   categories:
   - Fiction
   relme: {}
-  last_post_title: THAT WAS A LOT... - SEASON 2 FINALE | DOCTOR WHO TV REVIEW
-  last_post_description: 'IT''S BAD WOLF TUESDAY!In this episode, we discuss the final
-    episode of the second season of Doctor Who: THE REALITY WAR..This podcast is available
-    on Spotify, Apple Podcast and wherever you get your'
-  last_post_date: "2025-06-03T17:26:36Z"
-  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/THAT-WAS-A-LOT------SEASON-2-FINALE--DOCTOR-WHO-TV-REVIEW-e33of42
+  last_post_title: THE DOCTOR WILL RETURN! | DOCTOR WHO NEWS
+  last_post_description: THE BAD WOLF IS BACK!In this episode, we break down the news
+    about the future of Doctor Who..This podcast is available on Spotify, Apple Podcast
+    and wherever you get your podcasts.Please remember to
+  last_post_date: "2025-10-29T19:55:24Z"
+  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/THE-DOCTOR-WILL-RETURN---DOCTOR-WHO-NEWS-e3a7pjg
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b63fc66ee11c7ebfdd18a868f315dd59
+  last_post_guid: 1c993cc45f2a70d91b138ee191ae17de
   score_criteria:
     cats: 1
     description: 3

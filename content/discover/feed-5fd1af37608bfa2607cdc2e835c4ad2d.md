@@ -1,6 +1,6 @@
 ---
 title: Mijndert Stuij
-date: "2025-08-07T13:00:00Z"
+date: "2025-09-26T10:45:00Z"
 description: Lead platform engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -40,13 +40,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Some running top tips
+  last_post_title: 2025 so far
   last_post_description: ""
-  last_post_date: "2025-08-07T13:00:00Z"
-  last_post_link: https://mijndertstuij.nl/posts/some-running-top-tips/
+  last_post_date: "2025-09-26T10:45:00Z"
+  last_post_link: https://mijndertstuij.nl/posts/2025-so-far/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca1555f2ceb90d251f9eef0e8e5732a5
+  last_post_guid: a6ff9e84ddb4cf4b9df120d9a75313fe
   score_criteria:
     cats: 0
     description: 3

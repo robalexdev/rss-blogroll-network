@@ -19,14 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to Leverage the CPU’s Micro-Op Cache for Faster Loops
-  last_post_description: Measuring, analyzing, and optimizing loops using Linux perf,
-    Top-Down Microarchitectural Analysis, and the CPU’s micro-op cache
-  last_post_date: "2025-08-15T05:37:44Z"
-  last_post_link: https://blog.codingconfessions.com/p/how-to-leverage-the-cpus-micro-op
+  last_post_title: x86 Addressing Modes, Part 1 — Immediate and Direct Access
+  last_post_description: 'The foundations of memory access: static allocation, addressing
+    modes, and the first steps toward low-level thinking.'
+  last_post_date: "2025-11-12T16:15:23Z"
+  last_post_link: https://blog.codingconfessions.com/p/x86-addressing-modes-part-1-immediate
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 864996e9a128e44d40f5591012e629c5
+  last_post_guid: 2a9811a8e8bd3a39e8cf8f0b09ceec54
   score_criteria:
     cats: 0
     description: 3
