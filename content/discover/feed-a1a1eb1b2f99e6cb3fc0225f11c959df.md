@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years
-    of use?'
+  last_post_title: Oops, I accidentally built a Steam Machine
   last_post_description: |-
-    I’ve been running four Samsung 870 QVO 4TB SATA SSD-s for a while now. They’re old enough to be popping up on the
-    second-hand market, so I thought it would be good to provide a few additional
-  last_post_date: "2025-09-15T06:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/
+    I like the Steam Deck. It’s what convinced me that gaming on Linux is actually viable
+    now.
+    But after playing through games like God of War Ragnarök1, I felt like I needed an upgrade. I love
+  last_post_date: "2025-12-01T06:00:00+02:00"
+  last_post_link: https://ounapuu.ee/posts/2025/12/01/steam-machine/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c46ee824b37e751f398f943b9547b1d0
+  last_post_guid: 613952e597d80b0a2709dbbb9a8cdf8c
   score_criteria:
     cats: 0
     description: 3

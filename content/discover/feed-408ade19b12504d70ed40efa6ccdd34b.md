@@ -1,6 +1,6 @@
 ---
 title: ezyang’s blog
-date: "2025-09-05T14:01:23Z"
+date: "2025-10-29T14:54:59Z"
 description: the arc of software bends towards understanding
 params:
   feedlink: https://blog.ezyang.com/feed/atom/
@@ -18,16 +18,16 @@ params:
   categories:
   - PyTorch
   relme: {}
-  last_post_title: So you want to control flow in PT2
-  last_post_description: 'With contributions from Richard Zou. PT2’s dominant internal
-    representation, FX graphs, do not directly support control flow (if statements,
-    while loops): they only represent straight-line basic'
-  last_post_date: "2025-09-05T14:01:23Z"
-  last_post_link: http://blog.ezyang.com/2025/09/so-you-want-to-control-flow-in-pt2/
+  last_post_title: Draw high dimensional tensors as a matrix of matrices
+  last_post_description: I have recently needed to draw the contents of high-dimensional
+    (e.g., 4D and up) tensors where it is important to ensure that is clear how to
+    identify each of the dimensions in the representation.
+  last_post_date: "2025-10-25T16:55:10Z"
+  last_post_link: http://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/
   last_post_categories:
   - PyTorch
   last_post_language: ""
-  last_post_guid: 2fc42f987af1bc6f52d2156cc40a1768
+  last_post_guid: 95ffdf9b51b69356880c60476f9c3b96
   score_criteria:
     cats: 0
     description: 3

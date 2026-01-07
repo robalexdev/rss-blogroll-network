@@ -20,21 +20,22 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Boston
-  - Crime & Justice
   - News
+  - Politics
   relme: {}
-  last_post_title: After 17 years, DNA tied a man to her rape. Under Massachusetts
-    law, it was too late
-  last_post_description: Massachusetts has one of the shortest deadlines in the country
-    for prosecuting rape, even when DNA could help prove the case.
-  last_post_date: "2025-09-11T08:54:37-04:00"
-  last_post_link: https://www.wbur.org/news/2025/09/11/massachusetts-statute-of-limitations-dna-rape
+  last_post_title: How federal policy changes may upend efforts to end homelessness
+    in Mass.
+  last_post_description: Joyce Tavon heads the nonprofit Massachusetts Housing and
+    Shelter Alliance. She joined WBUR's All Things Considered to explain why she thinks
+    new federal homelessness assistance requirements will
+  last_post_date: "2025-11-14T18:00:33-05:00"
+  last_post_link: https://www.wbur.org/upnext/2025/11/14/massachusetts-homelessness-federal-policy-changes
   last_post_categories:
   - Boston
-  - Crime & Justice
   - News
+  - Politics
   last_post_language: ""
-  last_post_guid: f87d176400b2720b99eb46d05daa3d41
+  last_post_guid: 723da560299c6d943607b423bbcacbc8
   score_criteria:
     cats: 0
     description: 3

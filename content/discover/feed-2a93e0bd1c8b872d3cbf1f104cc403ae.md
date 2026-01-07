@@ -32,15 +32,15 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: How Sui Move rethinks flash loan security
-  last_post_description: Sui’s Move language significantly improves flash loan security
-    by replacing Solidity’s reliance on callbacks and runtime checks with a “hot potato”
-    model that enforces repayment at the
-  last_post_date: "2025-09-10T07:00:00-04:00"
-  last_post_link: https://blog.trailofbits.com/2025/09/10/how-sui-move-rethinks-flash-loan-security/
+  last_post_title: Level up your Solidity LLM tooling with Slither-MCP
+  last_post_description: We’re releasing Slither-MCP, a new tool that augments LLMs
+    with Slither’s unmatched static analysis engine. Slither-MCP benefits virtually
+    every use case for LLMs by exposing Slither’s static
+  last_post_date: "2025-11-15T07:00:00-05:00"
+  last_post_link: https://blog.trailofbits.com/2025/11/15/level-up-your-solidity-llm-tooling-with-slither-mcp/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3e87b72d0b2cb43b5c23f90e6a1f255e
+  last_post_guid: 2fbfaf7cbeca5744781ad4a72330954d
   score_criteria:
     cats: 0
     description: 3

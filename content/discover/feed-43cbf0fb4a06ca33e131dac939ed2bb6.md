@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Where Are the Intellectuals?
-  last_post_description: 'We’re with the cultural historian Robin D.G. Kelly at UCLA,
-    who has the nerve to ask: where have our thinkers gone in Trump time? Not the
-    experts or the influencers, but the grander minds who ...'
-  last_post_date: "2025-09-11T23:46:30Z"
-  last_post_link: https://radioopensource.org/where-are-the-intellectuals/
+  last_post_title: John Updike’s Vocation
+  last_post_description: We’re rediscovering John Updike in the afterlife of a great
+    writer. The Selected Letters of John Updike, just published, come to 800 pages
+    of unguarded messages to his wives and lovers, to his
+  last_post_date: "2025-11-15T00:54:10Z"
+  last_post_link: https://radioopensource.org/john-updikes-vocation/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 5f9813cca0683b038e102b0416ce911f
+  last_post_guid: 6570f3ba194d53d1a6aeab003709d3ca
   score_criteria:
     cats: 1
     description: 3

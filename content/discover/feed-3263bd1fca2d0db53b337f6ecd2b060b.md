@@ -16,20 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: tarsnap is cozy
+  last_post_title: Lessons learned from 2 years of operating a teensy-tiny news archive
   last_post_description: |-
-    I have been aware of
-    tarsnap
-    for a long time, but only recently did I actually
-    get around to using it
-    for anything, as a result of my big
-    personal digital resiliency audit for 2025.
-    For those of you
-  last_post_date: "2025-09-10T00:00:00Z"
-  last_post_link: https://til.andrew-quinn.me/posts/tarsnap-is-cozy/
+    I began running
+    Andrew’s Selkouutiset Archive
+    almost exactly two years ago, with a simple goal:
+    Create a straightforward way for Finnish language learners
+    to access the simple news broadcast by
+  last_post_date: "2025-10-27T00:00:00Z"
+  last_post_link: https://til.andrew-quinn.me/posts/lessons-learned-from-2-years-of-operating-a-tiny-news-archive/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d1b9bd418c28dde1329f0bf1e13e19a2
+  last_post_guid: 6e00b82c7095f5998bdc16f8a35286a5
   score_criteria:
     cats: 0
     description: 3

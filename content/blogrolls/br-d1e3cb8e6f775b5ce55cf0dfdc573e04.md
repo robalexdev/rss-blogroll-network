@@ -37,7 +37,9 @@ params:
     id: 241fb3b3275aa3104188757b4a6a55ba
   - title: Films To Be Buried With with Brett Goldstein
     description: |-
-      We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death.)
+      We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death).
+
+
 
       Join comedian, actor,
     id: 2700ac6f034c8c2797cf23ac83ba2771

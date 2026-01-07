@@ -1,6 +1,6 @@
 ---
 title: LugMan TNG  - Ultime modifiche [it]
-date: "2025-09-15T08:06:57Z"
+date: "2025-11-15T21:59:38Z"
 description: Questo feed riporta le modifiche piÃ¹ recenti ai contenuti del sito.
 params:
   feedlink: https://lugman.org/index.php?feed=atom&title=Speciale%3AUltimeModifiche

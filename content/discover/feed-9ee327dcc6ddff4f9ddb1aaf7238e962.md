@@ -13,6 +13,9 @@ params:
   in_blogrolls:
   - title: Alexandra Wolfe - Blogroll
     description: ""
+    id: 123f5f19a0f94b64245ea922e415d2d5
+  - title: Alexandra Wolfe - Blogroll
+    description: ""
     id: 6eee94e921a971738b460a20c264d231
   recommended:
   - https://512pixels.net/feed/
@@ -24,6 +27,7 @@ params:
   - https://manuelmoreale.com/feed/instagram
   - https://wrywriter.ca/feed.xml
   recommender:
+  - https://alexink.micro.blog/feed.xml
   - https://wrywriter.ca/feed.xml
   - https://wrywriter.ca/posts_feed
   categories: []

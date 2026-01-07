@@ -19,21 +19,21 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - News
-  - Shandaken
+  - Investigations
+  - Woodstock
   relme: {}
-  last_post_title: Shandaken Residents Push Back on Verizon’s Plan for Phoenicia Cell
-    Tower
-  last_post_description: Emotions ran high at two meetings this week in Shandaken
-    as officials considered a Verizon proposal to construct a cell tower in the hamlet
-    of Phoenicia. Close to 200 residents, public officials and
-  last_post_date: "2025-09-12T04:54:21Z"
-  last_post_link: https://theoverlooknews.com/shandaken-residents-push-back-on-verizons-plan-for-phoenicia-cell-tower/
+  last_post_title: ‘Why Would We Pay to Live in Danger?’ Inside a Woodstock Building’s
+    Long Decline
+  last_post_description: Guinevere Sandy stood outside her apartment door at 6 Studio
+    Lane in Woodstock, her infant daughter Naliyah gazing up at the ceiling from her
+    hip. A sign on the wall read “you are loved,” but the
+  last_post_date: "2025-11-14T05:53:55Z"
+  last_post_link: https://theoverlooknews.com/why-would-we-pay-to-live-in-danger-inside-a-woodstock-buildings-long-decline/
   last_post_categories:
-  - News
-  - Shandaken
+  - Investigations
+  - Woodstock
   last_post_language: ""
-  last_post_guid: ae815db7097815506a66e4f04749d894
+  last_post_guid: 86f1fc253efdc2b69e10aba30286b402
   score_criteria:
     cats: 0
     description: 3

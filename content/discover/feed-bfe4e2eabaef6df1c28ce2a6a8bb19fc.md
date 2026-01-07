@@ -19,14 +19,14 @@ params:
   categories:
   - Recomendo
   relme: {}
-  last_post_title: Handheld duster/GetYourGuide.com/Expert photo tip
-  last_post_description: 'Recomendo - issue #479'
-  last_post_date: "2025-09-14T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/handheld-duster-getyourguide-com-expert-photo-tip/
+  last_post_title: More Gifts
+  last_post_description: 'Recomendo - issue #491'
+  last_post_date: "2025-12-07T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/more-gifts/
   last_post_categories:
   - Recomendo
   last_post_language: ""
-  last_post_guid: b870c374fad320b9256c614cfa443c8e
+  last_post_guid: 866765b370c80a85efed94dea06f1809
   score_criteria:
     cats: 0
     description: 3

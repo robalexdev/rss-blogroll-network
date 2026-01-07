@@ -1,7 +1,8 @@
 ---
 title: Kev Quirk
 date: "1970-01-01T00:00:00Z"
-description: Latest posts and notes from my blog
+description: Welcome to Kev Quirk's little corner of the internet. Here you can find
+  out lots of information about me, how to contact me and, of course, my blog.
 params:
   feedlink: https://kevquirk.com/feed
   feedtype: rss
@@ -61,34 +62,33 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
-  categories:
-  - '#Obsidian,'
+  categories: []
   relme:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-  last_post_title: "\U0001F4DD 15 September 2025 at 06:26 - The more …..."
-  last_post_description: 'The more I play with #Obsidian, the more I realise why people
-    love it so much. They''ve thought of everything.'
-  last_post_date: "2025-09-15T06:25:00Z"
-  last_post_link: https://kevquirk.com/notes/20250915-0626
-  last_post_categories:
-  - '#Obsidian,'
+  last_post_title: Small Web, Big Voice
+  last_post_description: Andre argues that independent blogging isn’t about scale
+    at all, but about integrity — choosing a place you control, writing in your own
+    voice, and keeping the web human.
+  last_post_date: "2025-11-15T16:22:00Z"
+  last_post_link: https://kevquirk.com/blog/small-web-big-voice/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8afd981e744e96fcd0c0d9a1289acf23
+  last_post_guid: 852b4f1f229f293c6032e3339cc2cb53
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 30
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

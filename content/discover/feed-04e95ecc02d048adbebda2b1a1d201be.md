@@ -1,6 +1,6 @@
 ---
 title: Lars-Christian's website - Posts
-date: "2025-09-14T20:30:06Z"
+date: "2025-11-15T21:30:03Z"
 description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Reclaiming control
+  last_post_title: Forty
   last_post_description: ""
-  last_post_date: "2025-09-03T00:00:00Z"
-  last_post_link: https://lars-christian.com/posts/2025-09-03-reclaiming-control//
+  last_post_date: "2025-10-21T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2025-10-21-forty//
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a00160f71ef0ddaf93ab6fe693a7ad84
+  last_post_guid: 6dc9a302e6d69a56335e6e3fd1993249
   score_criteria:
     cats: 0
     description: 3

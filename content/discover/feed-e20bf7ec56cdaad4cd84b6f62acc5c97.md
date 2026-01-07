@@ -18,35 +18,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - ai
-  - gods
-  - religion
+  - pm
+  - values
   relme: {}
-  last_post_title: Machina Deus
-  last_post_description: “God is dead” Nietzsche famously proclaimed. Humanity’s desire
-    to be ruled by god, by contrast appears very much alive. Our latest hope for salvation
-    rests with Artificial Intelligence. Climate
-  last_post_date: "2025-08-16T19:18:28Z"
-  last_post_link: https://paragraph.com/@continuations/machina-deus
+  last_post_title: 'Philosophy Mondays: Renewed Energy'
+  last_post_description: Between work, projects and travel I have missed many weeks
+    of writing on Philosophy Mondays. Thankfully during this time I have also gained
+    clarity that my fundamental goal with this series, which is
+  last_post_date: "2025-10-06T11:53:34Z"
+  last_post_link: https://continuations.com/philosophy-mondays-renewed-energy
   last_post_categories:
-  - ai
-  - gods
-  - religion
+  - pm
+  - values
   last_post_language: ""
-  last_post_guid: f9188e104d0e9a50c585ae69d9c61820
+  last_post_guid: bc74a71c5964f22edc28954ea8bc7c0a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

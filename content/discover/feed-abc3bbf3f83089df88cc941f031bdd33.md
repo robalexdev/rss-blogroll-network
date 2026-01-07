@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How we use GitHub Issues (on 11ty) and how that’s Changing
+  last_post_title: No more tokens! Locking down npm Publish Workflows
   last_post_description: ""
-  last_post_date: "2025-11-03T06:00:00Z"
-  last_post_link: https://www.zachleat.com/web/11ty-github-issues/
+  last_post_date: "2025-12-04T06:00:00Z"
+  last_post_link: https://www.zachleat.com/web/npm-security/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a91c63801e2666805fb874e2245d62e8
+  last_post_guid: f66c766acacafbdad187221dbfe8ff2b
   score_criteria:
     cats: 0
     description: 3

@@ -39,12 +39,12 @@ params:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: 'Jenny Saville: The Anatomy of Painting'
-  last_post_description: Realising this exhibition was closing soon, I popped down
-    to London’s National Portrait Gallery to see the work of a painter whose technical
-    ability I’ve admired since art school.          Before
-  last_post_date: "2025-09-12T12:00:00Z"
-  last_post_link: https://colly.com/journal/jenny-saville-the-anatomy-of-painting
+  last_post_title: The texture of the work
+  last_post_description: I’ve been drawing comfort from the way established artists
+    will typically vanish for a while and suddenly re-appear with a fully-formed new
+    body of work.          By established artists, I mean
+  last_post_date: "2025-11-11T14:00:00Z"
+  last_post_link: https://colly.com/journal/the-texture-of-the-work
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9

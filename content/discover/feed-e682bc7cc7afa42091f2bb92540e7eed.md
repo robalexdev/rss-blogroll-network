@@ -46,6 +46,7 @@ params:
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
+    https://lunem.fr/mastodon: true
     https://pixelfed.fr/LaLuneMauve: true
   last_post_title: 'Journal #7 : comme du beurre sur une tartine trop grande'
   last_post_description: Retour de mon journal, rempli de pensées douces-amères, de

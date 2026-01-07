@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-09-29T18:56:57Z"
+date: "2025-10-31T04:34:14Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/bookmarks.xml
@@ -168,39 +168,32 @@ params:
   - https://www.trovster.com/prints.xml
   recommender: []
   categories:
-  - history
-  - legends
-  - map
-  - myths
+  - dithering
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
-  last_post_title: Bookmarked "English Heritage | A map of myth, legend & folklore"
-  last_post_description: Such a nicely animated map showing several stories from Great
-    Britain. There's some cool little details like the one for "The Sea Monster of
-    Falmouth Bay". I hope they continue to fill this in with
-  last_post_date: "2025-09-29T18:56:57Z"
-  last_post_link: https://benji.dog/bookmarks/1759172218-english-heritage--a-map-of-myth-legend--folklore/
+  last_post_title: Bookmarked "Dithering - Part 1"
+  last_post_description: What a beautiful little intro to dithering. Can't wait for
+    the next parts.
+  last_post_date: "2025-10-31T04:34:14Z"
+  last_post_link: https://benji.dog/bookmarks/1761885254-dithering---part-1/
   last_post_categories:
-  - history
-  - legends
-  - map
-  - myths
+  - dithering
   last_post_language: ""
-  last_post_guid: 325332b4d4f46464ec20ddee43dbde8f
+  last_post_guid: efa6130657593ee216f7adfc9b5c40aa
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,16 +20,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: How did you join the Fediverse?
-  last_post_description: One of our important projects for the Social Web Foundation
-    is developing a Fediverse Starter page, helping people get onto the social web.
-    As part of this work, our team is conducting user
-  last_post_date: "2025-09-10T19:24:07Z"
-  last_post_link: https://socialwebfoundation.org/2025/09/10/how-did-you-join-the-fediverse/
+  last_post_title: Building Human Rights Into the Social Web
+  last_post_description: Last week Mallory and the Internet Exchange team hosted a
+    series of events related to human rights and the social web at MozFest 2025 in
+    Barcelona. Mallory joined Rabble on the revolution.social
+  last_post_date: "2025-11-15T11:03:07Z"
+  last_post_link: https://socialwebfoundation.org/2025/11/15/building-human-rights-into-the-social-web/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 4e55877a8238cb44eb3ddede35ce6b12
+  last_post_guid: 027881a30a13cd7423a64eafa1295064
   score_criteria:
     cats: 0
     description: 3

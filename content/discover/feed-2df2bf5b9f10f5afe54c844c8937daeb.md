@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-10-09T22:07:06Z"
+date: "2025-12-06T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/all.xml
@@ -171,13 +171,13 @@ params:
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
-  last_post_title: Finished Reading We Are the Weather by Jonathan Safran Foer
+  last_post_title: 'Rewatched Glass Onion: A Knives Out Mystery, 2022 - ★★★★'
   last_post_description: ""
-  last_post_date: "2025-10-07T00:00:00Z"
-  last_post_link: https://benji.dog/read/1759804058-we-are-the-weather/
+  last_post_date: "2025-12-06T00:00:00Z"
+  last_post_link: https://benji.dog/watched/1765082556-glass-onion-a-knives-out-mystery-2022/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b1c32551a052e7c89673e377beffb3b
+  last_post_guid: 72258ef337f3393ac2ddde9a7be337fc
   score_criteria:
     cats: 0
     description: 3

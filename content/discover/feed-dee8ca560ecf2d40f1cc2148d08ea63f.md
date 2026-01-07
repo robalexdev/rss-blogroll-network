@@ -18,81 +18,70 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI data center
-  - AI算力中心
-  - Elon Musk
-  - LFP电池
-  - Mega Block
-  - Megapack 3
-  - Tesla Megapack
-  - Tesla故事
-  - XAI
-  - backup power
-  - battery energy storage system
-  - energy storage
-  - grid battery
-  - solar power
-  - utility-scale storage
-  - 上海超级工厂
-  - 储能电站
-  - 削峰填谷
-  - 华为储能
-  - 可再生能源
-  - 备用电源
-  - 宁德时代
-  - 新能源
-  - 比亚迪
-  - 特斯拉Megapack
-  - 特斯拉股价
-  - 特斯拉能源
-  - 电网储能
-  - 磷酸铁锂电池
-  - 阳光电源
-  - 马斯克
+  - 4D空间智能
+  - AIGC
+  - AI发展方向
+  - AI教母
+  - AI的下一个前沿
+  - Fei-Fei Li
+  - LLM局限性
+  - World Labs
+  - 世界模型
+  - 交互式AI
+  - 人工智能
+  - 具身智能
+  - 内容创作
+  - 大型语言模型
+  - 推理
+  - 时序一致性
+  - 机器人技术
+  - 李飞飞
+  - 物理世界
+  - 物理感知
+  - 状态预测
+  - 生成式AI
+  - 科学发现
+  - 科技评论
+  - 空间智能
+  - 视频生成
+  - 计算机视觉
   relme: {}
-  last_post_title: 被严重低估的现金牛！特斯拉10%收入竟非来自汽车，而是这个巨型充电宝在闷声发大财｜Tesla Megapack、energy
-    storage、AI data center、grid battery
-  last_post_description: !!binary |
-    8J+UpeWNp+anve+8geeJueaWr+aLiTEwJeaUtuWFpeern+mdoOi/meS4quKAnOW3qOWei+
-    WFheeUteWuneKAne+8n++8geS4jeaYr+aJi+acuueUqOeahO+8jOaYr+iDveWtmDUwMDDl
-    uqbnlLXnmoTpm4boo4XnrrHimqHvvIHph40zOeWQqO+8jOaLluWIsOWcsOS4gOaUvuWwse
-    WPkeeUte+8jOi/nue6v+eugOWNleWIsOW5vOWEv+WbreawtOW5s+KAlOI=
-  last_post_date: "2025-09-15T00:46:34Z"
-  last_post_link: https://lukefan.com/2025/09/15/tesla-megapack-ai-data-center-energy-storage/
+  last_post_title: AI教母李飞飞万字长文戳破LLM泡沫：生成语言只是起点，无法理解真实世界才是致命伤｜空间智能 Fei-Fei Li 世界模型
+    人工智能 AI的下一个前沿
+  last_post_description: "卧槽！李飞飞放大招了？\U0001F4A5 AI界“教母”亲笔万字长文预言：空间智能才是未来顶流！\U0001F916
+    说人话：现在大模型蠢到笑死——画个3"
+  last_post_date: "2025-11-13T00:54:30Z"
+  last_post_link: https://lukefan.com/2025/11/13/fei-fei-li-spatial-intelligence-world-models-future-ai/
   last_post_categories:
-  - AI data center
-  - AI算力中心
-  - Elon Musk
-  - LFP电池
-  - Mega Block
-  - Megapack 3
-  - Tesla Megapack
-  - Tesla故事
-  - XAI
-  - backup power
-  - battery energy storage system
-  - energy storage
-  - grid battery
-  - solar power
-  - utility-scale storage
-  - 上海超级工厂
-  - 储能电站
-  - 削峰填谷
-  - 华为储能
-  - 可再生能源
-  - 备用电源
-  - 宁德时代
-  - 新能源
-  - 比亚迪
-  - 特斯拉Megapack
-  - 特斯拉股价
-  - 特斯拉能源
-  - 电网储能
-  - 磷酸铁锂电池
-  - 阳光电源
-  - 马斯克
+  - 4D空间智能
+  - AIGC
+  - AI发展方向
+  - AI教母
+  - AI的下一个前沿
+  - Fei-Fei Li
+  - LLM局限性
+  - World Labs
+  - 世界模型
+  - 交互式AI
+  - 人工智能
+  - 具身智能
+  - 内容创作
+  - 大型语言模型
+  - 推理
+  - 时序一致性
+  - 机器人技术
+  - 李飞飞
+  - 物理世界
+  - 物理感知
+  - 状态预测
+  - 生成式AI
+  - 科学发现
+  - 科技评论
+  - 空间智能
+  - 视频生成
+  - 计算机视觉
   last_post_language: ""
-  last_post_guid: 80af8df295b00b06d0028732fd2df81c
+  last_post_guid: 0cd748d0528290d6220d4912af7ed7c6
   score_criteria:
     cats: 0
     description: 3

@@ -19,19 +19,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 18xx
+  - design
   - games
   relme: {}
-  last_post_title: '18XX: A System of Systems'
-  last_post_description: Whereby I talk about 18XX -- the fantastic family of economic
-    tabletop games...
-  last_post_date: "2025-09-04T08:44:49Z"
-  last_post_link: https://blog.fogus.me/games/18XX/intro.html
+  last_post_title: The Bird-Poker Deck
+  last_post_description: Whereby I talk about a truncated pack of playing cards called
+    the Bird-Poker deck...
+  last_post_date: "2025-10-20T08:47:49Z"
+  last_post_link: https://blog.fogus.me/games/bird-poker.html
   last_post_categories:
-  - 18xx
+  - design
   - games
   last_post_language: ""
-  last_post_guid: 3304173c2a690dba84b57e2ad430ad7b
+  last_post_guid: fcb047c6c11d6765d2b3fa20514ff98d
   score_criteria:
     cats: 0
     description: 3

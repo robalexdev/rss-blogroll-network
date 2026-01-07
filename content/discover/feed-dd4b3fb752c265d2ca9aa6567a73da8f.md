@@ -19,14 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'The myth of sovereign AI: Countries rely on U.S. and  Chinese  tech'
-  last_post_description: As countries pursue self-sufficiency in AI, they risk depending
-    on foreign companies, undermining their independence and their goals.
-  last_post_date: "2025-09-12T10:00:00Z"
-  last_post_link: https://restofworld.org/2025/chinese-us-tech-foreign-ai-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+  last_post_title: Elon Musk’s trillion-dollar paycheck depends on the markets he’s
+    losing
+  last_post_description: As Tesla struggles in markets beyond the U.S., Chinese automakers
+    are winning from Southeast Asia to Europe.
+  last_post_date: "2025-11-13T11:00:00Z"
+  last_post_link: https://restofworld.org/2025/elon-musk-trillionaire/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80906880abef668c2570aeebd3597ec8
+  last_post_guid: 69b2ccffcc0bf0c8f8043c025fadfdd4
   score_criteria:
     cats: 0
     description: 3

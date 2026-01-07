@@ -18,37 +18,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Country Music News
-  - Lainey Wilson
-  - Live Country Music
-  - Vince Gill
+  - Hudson Valley News
+  - New York News
   relme: {}
-  last_post_title: Lainey Wilson + Vince Gill’s Tearjerking Emmys Tribute Stops the
-    Show [WATCH]
-  last_post_description: Lainey and Vince brought the Emmys to a standstill with a
-    stirring duet honoring the lives lost in television this past year. Continue reading…
-  last_post_date: "2025-09-15T09:04:10Z"
-  last_post_link: https://hudsonvalleycountry.com/ixp/204/p/lainey-wilson-vince-gill-2025-emmy-awards-in-memoriam-video/
+  last_post_title: Massive Fallout In New York After Record-Breaking Shutdown
+  last_post_description: The longest government shutdown in U.S. history is finally
+    over, but numbers from President Trump show just how devastating it was for New
+    York families and workers. Continue reading…
+  last_post_date: "2025-11-15T21:01:00Z"
+  last_post_link: https://hudsonvalleycountry.com/ixp/854/p/federal-shutdown-cost-new-york-billions-and-thousands-of-jobs/
   last_post_categories:
-  - Country Music News
-  - Lainey Wilson
-  - Live Country Music
-  - Vince Gill
+  - Hudson Valley News
+  - New York News
   last_post_language: ""
-  last_post_guid: c124768d6073d5a4c604192736eeaaef
+  last_post_guid: 9bf7a3bf4c8df7c5ffe8498bb8326b7f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

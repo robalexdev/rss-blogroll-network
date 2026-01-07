@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Asides
+  - Music
   relme: {}
-  last_post_title: Weekend YouTubes
-  last_post_description: One of my favorite YouTubers is Charles Cornell (WordPress-powered!),
-    who creates great videos that break down the music theory of various things you’ve
-    heard, such as this adorable one featuring
-  last_post_date: "2025-09-14T23:23:42Z"
-  last_post_link: https://ma.tt/2025/09/weekend-youtubes/
+  last_post_title: Kanye’s Back
+  last_post_description: In case you missed it, Kanye has started apologizing for
+    the event he went through. I didn’t comment on it publicly when it happened because
+    it seemed so strange to me that such a beautiful soul,
+  last_post_date: "2025-11-14T08:59:55Z"
+  last_post_link: https://ma.tt/2025/11/kanyes-back/
   last_post_categories:
-  - Asides
+  - Music
   last_post_language: ""
-  last_post_guid: 9bc91cc326e06a09d00ca4c46b85fe86
+  last_post_guid: 115d0549b155aa4a2fb25ba435b45189
   score_criteria:
     cats: 0
     description: 3

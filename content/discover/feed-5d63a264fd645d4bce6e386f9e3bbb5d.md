@@ -171,6 +171,7 @@ params:
   - https://kevquirk.com/watch-log-feed
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://michal.sapka.me/rss.xml
   - https://mijndertstuij.nl/posts-feed.xml
   - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml

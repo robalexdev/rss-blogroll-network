@@ -1,6 +1,6 @@
 ---
 title: Engineering blog | The Guardian
-date: "2025-09-15T10:28:14Z"
+date: "2025-11-16T00:00:36Z"
 description: A blog by the Guardian's internal engineering team. We build and run
   the Guardian website, mobile apps, editorial tools, revenue products, advertising,
   and data and identity platforms. This blog is

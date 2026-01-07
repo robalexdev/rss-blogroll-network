@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2025-09-02T10:17:00Z"
+date: "2025-11-07T11:44:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The melancholy of history rhyming
+  last_post_title: 'For sale: strong opinions; never published'
   last_post_description: ""
-  last_post_date: "2025-09-02T10:17:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2025/the-melancholy-of-history-rhyming/
+  last_post_date: "2025-11-07T11:44:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2025/strong-opinions-never-published/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 14ae8f5f5a6ce66913eb0bd7e6192e14
+  last_post_guid: 5aaed0466312547570b3f92b8c0e81b9
   score_criteria:
     cats: 0
     description: 3

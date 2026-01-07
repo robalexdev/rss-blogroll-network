@@ -20,14 +20,16 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Foggy Indiana, II
-  last_post_description: Indiana, August 2025.
-  last_post_date: "2025-09-05T19:00:00Z"
-  last_post_link: https://aows.co/blog/2025/9/5/foggy-indiana-ii
+  last_post_title: Rialto, XXVIII
+  last_post_description: |-
+    Washington, October 2025.
+    From the video Pushing it a bit too far at the Olympic Peninsula coast.
+  last_post_date: "2025-11-15T20:00:00Z"
+  last_post_link: https://aows.co/blog/2025/11/15/rialto-xxviii
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: 0866e183694fb3c051a6bd5e314cf1ac
+  last_post_guid: 3dce5053afb5895f9fadef27c5ab1910
   score_criteria:
     cats: 0
     description: 3

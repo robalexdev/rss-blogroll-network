@@ -19,16 +19,15 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Erupted in polite conversation
-  last_post_description: |-
-    hello,
-    September. The best month.
-    I think, thanks to kind advice from Kim, that I’ve fixed the dark-mode formatting thing. It’s to do with stuff I’ve copied and pasted. I now have to go through
-  last_post_date: "2025-09-07T18:00:00Z"
-  last_post_link: https://buttondown.com/russell/archive/mouth-juice-of-vowels-copy/
+  last_post_title: For he had spoken lightly of a woman’s name
+  last_post_description: Years ago (actually, thinking about it, probably about 40
+    years ago) Anne and I bought a tape cassette version of Alan Bennett’s 40 Years
+    On to listen to in the car. We became absolutely addicted
+  last_post_date: "2025-11-02T19:00:00Z"
+  last_post_link: https://buttondown.com/russell/archive/for-he-had-spoken-lightly-of-a-womans-name/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3cc5bb0852adf14f6d8025836d937b29
+  last_post_guid: bd7ea527aaf8377cc3489748ffca929d
   score_criteria:
     cats: 0
     description: 3

@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 25a089d104a18e1af93ec32af1fead7e
   websites:
+    https://flandre-scarlet.moe/blog: true
     https://flandre-scarlet.moe/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-10-07T00:00:00Z"
+date: "2025-12-02T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/read.xml
@@ -171,13 +171,13 @@ params:
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
-  last_post_title: Finished Reading We Are the Weather by Jonathan Safran Foer
+  last_post_title: Finished Reading This Will Be Fun by E. B. Asher
   last_post_description: ""
-  last_post_date: "2025-10-07T00:00:00Z"
-  last_post_link: https://benji.dog/read/1759804058-we-are-the-weather/
+  last_post_date: "2025-12-02T00:00:00Z"
+  last_post_link: https://benji.dog/read/1764657000-this-will-be-fun/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa61d73a5bb40723cd2ce07ed3324b48
+  last_post_guid: 8f285c03c426758536021a5503070fc4
   score_criteria:
     cats: 0
     description: 3

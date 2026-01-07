@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2025-10-06T00:00:00Z"
+date: "2025-12-06T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/watched.xml
@@ -171,15 +171,13 @@ params:
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
-  last_post_title: Rewatched Nick and Norah's Infinite Playlist, 2008 - ★★★★
-  last_post_description: After reading Kottke's post In Praise of Comfort Films I
-    decided to revisit an old favorite. I was lucky to watch this before it's release
-    with the actors present for a Q&A afterwards. By lucky, I
-  last_post_date: "2025-10-06T00:00:00Z"
-  last_post_link: https://benji.dog/watched/1760047075-nick-and-norahs-infinite-playlist-2008/
+  last_post_title: 'Rewatched Glass Onion: A Knives Out Mystery, 2022 - ★★★★'
+  last_post_description: ""
+  last_post_date: "2025-12-06T00:00:00Z"
+  last_post_link: https://benji.dog/watched/1765082556-glass-onion-a-knives-out-mystery-2022/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9ad764059f5a6dbdadc2fef09da58f9e
+  last_post_guid: 304f831285d6593b10fe6dff6193853a
   score_criteria:
     cats: 0
     description: 3

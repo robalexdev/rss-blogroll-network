@@ -1,6 +1,6 @@
 ---
 title: '{maique}'
-date: "2025-09-14T20:50:25Z"
+date: "2025-11-04T16:53:33Z"
 description: ""
 params:
   feedlink: https://maique.eu/feed.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Alexandra Wolfe - Blogroll
+    description: ""
+    id: 123f5f19a0f94b64245ea922e415d2d5
   - title: Numeric Citizen - Blogroll
     description: ""
     id: 3f094e1c146d3e9c57f0abdd56263e52
@@ -26,6 +29,7 @@ params:
     id: 6eee94e921a971738b460a20c264d231
   recommended: []
   recommender:
+  - https://alexink.micro.blog/feed.xml
   - https://blog.numericcitizen.me/feed.xml
   - https://blog.numericcitizen.me/podcast.xml
   - https://jabel.blog/feed.xml
@@ -38,15 +42,14 @@ params:
   - https://wrywriter.ca/posts_feed
   categories: []
   relme: {}
-  last_post_title: "\U0001F970 Tomorrow I rest..."
-  last_post_description: "\U0001F970 Tomorrow I rest. Meaning I get to drop tinyMovieStar
-    off, pick her up, have ice-cream with her, and go to the playground! Favorite
-    day of the week right there…"
-  last_post_date: "2025-09-14T20:50:25Z"
-  last_post_link: https://maique.eu/posts/2025-09-14-tomorrow-i-rest-meaning
+  last_post_title: "\U0001F405 ROAR!..."
+  last_post_description: ðŸ�… ROAR!! tinyMovieStar did the tiger, and a tattoo artist
+    friend took it from there. Thereâ€™s a crazy unicorn on the other foot.
+  last_post_date: "2025-11-04T16:53:33Z"
+  last_post_link: https://maique.eu/posts/2025-11-04-roar-tinymoviestar-did
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d63e87bfd19717d98e30964b74a9f488
+  last_post_guid: f639a6b4be9b5b664ddf298d14503fe8
   score_criteria:
     cats: 0
     description: 0

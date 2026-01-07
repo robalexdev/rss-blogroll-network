@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Orangeness Beats Thinness: Thoughts on Yesterday’s Event'
-  last_post_description: I don’t think there’s a whole lot of tea leaf reading to
-    do after yesterday’s Apple event. The upgrades are fairly straightforward. But
-    there are some intriguing notes that I wanted to share,
-  last_post_date: "2025-09-10T19:52:32-04:00"
-  last_post_link: https://parkerortolani.blog/2025/09/10/orangeness-beats-thinness-thoughts-on.html
+  last_post_title: “Ever wonder what this pocket’s for?”
+  last_post_description: Like many of you, I was skeptical of the iPhone Pocket when
+    I first laid my eyes on the press release from Apple last week. Now is sort of
+    a tone deaf time for a high fashion collaboration, but
+  last_post_date: "2025-11-15T16:03:57-05:00"
+  last_post_link: https://parkerortolani.blog/2025/11/15/ever-wonder-what-this-pockets.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a475beaea36663542458d2f76411d9c
+  last_post_guid: d09397a5c351a59ed5b193e45a91db18
   score_criteria:
     cats: 0
     description: 0

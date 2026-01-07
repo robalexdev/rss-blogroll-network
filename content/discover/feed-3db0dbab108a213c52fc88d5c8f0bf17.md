@@ -259,11 +259,9 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - cache log
-  - devil's quoits
-  - dog
-  - geocaching
-  - stanton harcourt
+  - deed poll
+  - email
+  - printers
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -274,21 +272,19 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Checkin] Dan Q wrote note for GC88ZY9 The Devil’s Quoits'
-  last_post_description: A local landowner has (controversially) decided to start
-    enforcing their ownership of the land surrounding the lake at Dix Pit, and has
-    erected new fences and private property signs to deter
-  last_post_date: "2025-11-15T16:40:00Z"
-  last_post_link: https://danq.me/2025/11/15/dan-q-wrote-note-for-gc88zy9-the-devils-quoits/
+  last_post_title: '[Note] Free Deed Poll questions'
+  last_post_description: Since I relaunched freedeedpoll.org.uk three months ago (with
+    new features) and made an explanatory demo video, the volume and kinds of questions
+    I've been emailed has... become larger and more
+  last_post_date: "2025-12-08T12:10:53Z"
+  last_post_link: https://danq.me/2025/12/08/fdp-question-diversity/
   last_post_categories:
   - Personal
-  - cache log
-  - devil's quoits
-  - dog
-  - geocaching
-  - stanton harcourt
+  - deed poll
+  - email
+  - printers
   last_post_language: ""
-  last_post_guid: 2ee440afc527873070d438297737ed12
+  last_post_guid: 170d47e4169008117352cdab20d0d2bc
   score_criteria:
     cats: 0
     description: 3

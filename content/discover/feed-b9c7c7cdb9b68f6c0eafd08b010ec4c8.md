@@ -7,6 +7,7 @@ params:
   feedtype: atom
   feedid: b9c7c7cdb9b68f6c0eafd08b010ec4c8
   websites:
+    https://ciceroxiao.github.io/hong525: false
     https://ciceroxiao.github.io/hong525/: true
   blogrolls: []
   in_blogrolls:

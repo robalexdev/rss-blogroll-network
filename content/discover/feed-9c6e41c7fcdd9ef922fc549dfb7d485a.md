@@ -57,6 +57,7 @@ params:
   - "10003"
   - "10009"
   - 101 E. 10th St.
+  - 101 E. 9th St.
   - 102 E. 7th St.
   - 103 St. Mark's Place
   - 103 Third Avenue
@@ -373,6 +374,7 @@ params:
   - 2 Gold Street
   - 2 St. Mark's Place
   - 20 Avenue A
+  - 20 Great Jones St.
   - 20 Pine
   - 20 St. Mark's Place
   - 20 St. Mark's Place. Grassroots Tavern
@@ -601,6 +603,7 @@ params:
   - 320-326 E. Sixth St.
   - 321 E. Sixth St.
   - 321 E. Third St.
+  - 324 Bowery
   - 324 E. 4th Street
   - 324 E. Fifth St.
   - 325 Bowery
@@ -1086,6 +1089,7 @@ params:
   - AT&T
   - ATM skimmers
   - ATMs
+  - AUTOPHOTO
   - Aaron Spelling
   - Ab Lounge
   - Abby Rosen
@@ -1128,6 +1132,7 @@ params:
   - Afrika Bambaataa
   - After Earth
   - Afternoon
+  - Afterword Bookshop
   - Against the Grain
   - Agata Olek
   - Agave Azul
@@ -1441,6 +1446,7 @@ params:
   - B Cup Cafe
   - B Cup Café
   - B and H
+  - B&H Barber Shop
   - B&H Dairy
   - B-52's
   - B-Bar & Grill
@@ -1515,6 +1521,7 @@ params:
   - Bank of America
   - Bank the Nine
   - Banksy
+  - Banshee
   - Bao
   - BaoHaus
   - Baoguette
@@ -1909,6 +1916,7 @@ params:
   - Bud Light Lime Display Tree
   - Buddha Garden
   - Buddies Coffee
+  - Buddy Buddy
   - Budget Mart
   - Budget car rental
   - Budweiser
@@ -1921,6 +1929,7 @@ params:
   - Bull McCabe's
   - Bullet Space
   - Bungalow
+  - Bunny’s Dub Club
   - Burger Town
   - Burger-Klein
   - Burgerhead
@@ -2098,6 +2107,7 @@ params:
   - Catholic Worker
   - Catholics
   - Caught Stealing
+  - Cauz for Pawz
   - Cava Grill
   - Caviarteria
   - Cecilia
@@ -2120,6 +2130,7 @@ params:
   - ChaShaMa
   - Chad Marlow
   - Chaim Joseph
+  - Chakra
   - Champagne nightmares
   - Champion Coffee
   - Champions Martial Arts
@@ -2340,6 +2351,7 @@ params:
   - Codex
   - Coffee Project
   - Coffee Project New York
+  - Coffee Roastery + Workshop
   - Coinstar
   - Cold Stone Creamery
   - Coldplay
@@ -2551,6 +2563,7 @@ params:
   - DanceFest
   - Daniel Boulud
   - Daniel Craig
+  - Daniel D. Tompkins
   - Daniel D. Tompkinss
   - Daniel Delaney
   - Daniel Root
@@ -3000,6 +3013,7 @@ params:
   - East Village Mutual Aid
   - East Village Neighbors
   - East Village Organic
+  - East Village People’s Town.
   - East Village Pharmacy
   - East Village Pizza
   - East Village Podcasts
@@ -3725,6 +3739,7 @@ params:
   - Gym NYC
   - Gyu-Kaku
   - H
+  - H ART
   - H Mart
   - H owl! Happening
   - HAGS
@@ -3751,8 +3766,10 @@ params:
   - HallowNor'easter
   - Hallowee
   - Halloween
+  - Halloween 2025
   - Halloween Adventure
   - Halloween Dog Parade
+  - Halloween Dog Parade today
   - Hamilton Fish Park
   - Hamilton Fish Park Library
   - Hamilton Fish Recreation Center
@@ -3899,6 +3916,7 @@ params:
   - Honeyfitz
   - Honeyhaus
   - Honk
+  - Honk NYC
   - Hook and Ladder II
   - Hooters
   - Hop Devil Grill
@@ -4201,6 +4219,7 @@ params:
   - Jessie Malin
   - Jesus
   - Jesus candles
+  - Jetset Pilates
   - Jewel Bako
   - Jewel bake
   - Jewel of India
@@ -4223,6 +4242,7 @@ params:
   - Jimi Zhivago
   - Jimmy Carbone
   - Jimmy Carter
+  - Jimmy Carter Way
   - Jimmy McMillan
   - Jimmy Tarangelo
   - Jimmy Webb
@@ -4352,6 +4372,7 @@ params:
   - June 2025
   - June First Skincare
   - Juneteenth
+  - Jungle Bowls
   - Juno
   - Jupiter 21
   - Just for Fen
@@ -4622,6 +4643,7 @@ params:
   - Launderette
   - Laura Dern
   - Laura Levine
+  - Laurice Fox
   - Laurie Anderson
   - Lavagna
   - Law & Order
@@ -4629,6 +4651,7 @@ params:
   - Layers Bakeshop
   - Lazarides on the Bowery
   - Lazarides the Bowery
+  - Lazy Bulldog Cafe
   - Le Burger
   - Le Café Coffee
   - Le Fournil
@@ -4860,6 +4883,7 @@ params:
   - M & J Asian Cuisine
   - M Sonii
   - M&G Foodstuff
+  - M&M Bagels
   - M-8
   - M. Henry Jones
   - M. White
@@ -5112,6 +5136,7 @@ params:
   - Memory Motel
   - Memphis Seoul
   - Menkui Tei
+  - Meow Mix
   - Meow Parlour
   - Mercadito
   - Mercadito Cantina
@@ -5368,6 +5393,7 @@ params:
   - NYC Icy
   - NYC Municipal Archives
   - NYC Velo
+  - NYC Votes
   - NYC eye candy appetite
   - NYC history
   - NYC skyline
@@ -5601,6 +5627,7 @@ params:
   - Not Jesus
   - Not as Bitter
   - Not for Tourists
+  - Nounou Noodle Bar
   - November 2018
   - November 2019
   - November 2020
@@ -5774,6 +5801,7 @@ params:
   - PLNT Burger
   - PS 122
   - PS 19
+  - PS 63
   - PS 64
   - PS General Slocum
   - PS122
@@ -5808,6 +5836,7 @@ params:
   - Papilles
   - Paprika
   - Paquito's
+  - Paradis To Go
   - Paradise Gourmet Deli
   - Paradiso
   - Pardon My French
@@ -5848,6 +5877,7 @@ params:
   - Paulie Gee's Slice Shop
   - Pause Cafe
   - Pavlo Mochi
+  - PayOMatic
   - Pearl Diner
   - Pearl Street
   - Pearl Street diner
@@ -5962,6 +5992,7 @@ params:
   - Planet Rose
   - Planet Taco
   - Planeta Space
+  - Planned Parenthood
   - Planters Grove
   - Plantmade
   - Plantmade by Double Zero and Bar Verde
@@ -6085,6 +6116,7 @@ params:
   - Q&As
   - Q-and-A
   - Q. Sakamaki
+  - QQ Nails & Spa
   - Quad Cinema
   - Quantum Leap
   - Quartino Bottega Organica
@@ -6133,6 +6165,7 @@ params:
   - Ramadan
   - Ramen Setagaya
   - Ramen Zundo-ya
+  - Ramen by Ra
   - Ramones
   - Ramy Isaac
   - Random Accessories
@@ -6360,6 +6393,7 @@ params:
   - Sa Aming Nayon
   - Saabsicle
   - Saan Saan
+  - Sabieng Thai
   - Sabor A Mexico
   - Sabrina's bear coat
   - Sabu
@@ -6402,6 +6436,7 @@ params:
   - Sammy's Roumanian Steak House
   - Sammy's Roumanian Steakhouse
   - Sammy’s Roumanian Steakhouse
+  - Samo Lives
   - Samuel Mark
   - Samuel S. Cox
   - San Diego
@@ -6487,6 +6522,7 @@ params:
   - Sculpture for Intimacy
   - Scumbags and Superstars
   - Sea Salt
+  - Seald Cafe
   - Sean Connery
   - Sean Spicer
   - Search & Destroy
@@ -6526,6 +6562,7 @@ params:
   - September 2022
   - September 2023
   - September 2024
+  - September 2025
   - Serendipity
   - Serenity Spa
   - Sesame Street
@@ -6566,6 +6603,7 @@ params:
   - Shepard Fairey
   - Shepard Fairy
   - Shibuyala
+  - Shifka
   - Shiina
   - Shima
   - Shinbashi
@@ -6630,6 +6668,7 @@ params:
   - Skateboard Gardener
   - Skinny Buddha
   - Skippy's Palace
+  - Skorts
   - Skortz
   - Sky East
   - Sky High Club
@@ -7043,6 +7082,7 @@ params:
   - Tahini
   - Tai Thai
   - Tailors Atelier of NY
+  - Taishoken
   - Taiwan Bear House
   - Taj Mahal
   - Taj Majl
@@ -7372,6 +7412,7 @@ params:
   - The Surprise Garden
   - The Swarm
   - The Swiss Water® Coffee Studio
+  - The Tacos Nachos truck
   - The Taking of Pelham One Two Three
   - The Tang
   - The Telephone Bar
@@ -7657,6 +7698,7 @@ params:
   - USA Super Stores
   - USPS
   - UWS
+  - UZ Grill House
   - Uber
   - Ugly Betty
   - Ugly Kitchen
@@ -7747,6 +7789,7 @@ params:
   - Vape N Smoke
   - Variety
   - Variety Theater
+  - Various/Artist
   - Vasmay Lounge
   - Vazac's
   - Vector Gallery
@@ -8080,6 +8123,7 @@ params:
   - Zen Yai Pho Shop
   - Zero Irving
   - Zerza
+  - Zesty Tabbouleh
   - Zhe Zhe
   - Zhong Guo La Mian Xiao Long Bao
   - Zi Pep
@@ -8934,6 +8978,7 @@ params:
   - fall 2019
   - fall 2020
   - fall 2024
+  - fall 2025
   - fallen limbs
   - falling air conditioners
   - falling branches
@@ -9099,6 +9144,7 @@ params:
   - furry vests
   - future development sites
   - gags
+  - galleries
   - gangs
   - gangsters
   - garbage
@@ -9468,6 +9514,7 @@ params:
   - layoffs
   - le Petit Parisien
   - lead
+  - lead paint
   - lead. construction as harassment
   - leads
   - leaf blowers
@@ -10516,6 +10563,7 @@ params:
   - sun
   - sun soakers
   - sunflower plants
+  - sunflowers
   - sunglasses
   - sunrise
   - sunrises
@@ -10718,6 +10766,7 @@ params:
   - the Oasis Cafe
   - the Odessa
   - the Office of Mr. Moto
+  - the Paladium
   - the Parish of Calvary-St. George’s
   - the Parkside
   - the Parkside Lounge
@@ -11193,30 +11242,32 @@ params:
   - Íxta
   - Ănjelly
   relme: {}
-  last_post_title: Scenes from the 2025 Anarchist Bookfair at La Plaza Cultural
-  last_post_description: Yesterday marked the 19th annual Anarchist Bookfair at La
-    Plaza Cultural, the community space on the SW corner of Avenue C and Ninth Street. A
-    lot of people turned out to browse the tables full of
-  last_post_date: "2025-09-14T19:00:00Z"
-  last_post_link: http://evgrieve.com/2025/09/scenes-from-2025-anarchist-bookfair-at.html
+  last_post_title: The Tacos Nachos truck on 7th and B
+  last_post_description: |-
+    The Tacos Nachos truck recently arrived on the NW corner of Seventh Street and Avenue B. There is an extensive menu featuring tacos, burritos, tortas, nachos, quesadillas, and more.
+
+
+
+    We haven't
+  last_post_date: "2025-11-15T15:39:00Z"
+  last_post_link: http://evgrieve.com/2025/11/the-tacos-nachos-truck-on-7th-and-b.html
   last_post_categories:
-  - La Plaza Cultural
-  - NYC Anarchist Book Fair
+  - The Tacos Nachos truck
   last_post_language: ""
-  last_post_guid: 3e96b2a6f937205b5714625b83a0d67f
+  last_post_guid: eb0c3ec162c7d03a3aecd9936a03383b
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 23
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

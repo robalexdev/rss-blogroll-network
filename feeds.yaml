@@ -55,6 +55,7 @@ feed_urls:
   - https://fdroid.gitlab.io/planet/opml.xml
   - https://planet.fair.pm/opml.xml
   - https://planet.webkit.org/opml.xml
+  - https://feeds.newschoolrevolution.com/api/query.php?user=yochai&t=3AXID7bYIjNfbZVDXqA2c7&f=opml
 
   # Linux
   - https://planet.linux.it/ils/opml.xml
@@ -152,6 +153,7 @@ feed_urls:
   # Other personal
   - https://rknight.me/blog/roll/opml.xml
   - https://bacardi55.io/files/blogs.opml
+  - https://feeds.newschoolrevolution.com/api/query.php?user=yochai&t=3AXID7bYIjNfbZVDXqA2c7&f=opml
 
   # Watch here for more:
   # - https://github.com/ArchiveTeam/urls-sources

@@ -21,11 +21,11 @@ params:
   relme: {}
   last_post_title: Update
   last_post_description: ""
-  last_post_date: "2025-11-05T06:50:08Z"
-  last_post_link: https://www.mycabinetofcuriosities.com/notes/1762325408/
+  last_post_date: "2025-12-06T08:56:09Z"
+  last_post_link: https://www.mycabinetofcuriosities.com/notes/1765011369/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9a451c25d0cdf7553885ad6c960db669
+  last_post_guid: 22dc2577bf82c1cb8f4c8242394e207c
   score_criteria:
     cats: 0
     description: 3

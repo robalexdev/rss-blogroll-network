@@ -17,32 +17,40 @@ params:
   - https://philwilson.org/blog/feed
   - https://philwilson.org/blog/feed/atom/
   categories:
-  - "AI \U0001F916"
-  - "Culture \U0001F3DB️"
-  - "Music \U0001F3B6"
-  - culture
+  - 1990's
+  - Forest Bed
+  - "Weeknotes \U0001F5D3️"
+  - Writing ⌨️
+  - ai
+  - byenne
+  - creative advice
+  - dune
   - fandom
-  - gunk
-  - pc music
-  - tracy durnell
+  - organisation
+  - permanently moved
+  - writing
   relme: {}
-  last_post_title: NoAI LoFi | Weeknotes
+  last_post_title: Permission To Start Again | Weeknotes
   last_post_description: |-
-    YouTubers are performing as Lofi animations in real life, becoming the human equivalent of Netflix's cosy fireplace video.
-    The post NoAI LoFi | Weeknotes appeared first on thejaymo.
-  last_post_date: "2025-09-14T19:52:11Z"
-  last_post_link: https://thejaymo.net/2025/09/14/407-noai-lofi/
+    I didn’t quite understand what it meant back then. That a piece could define its own vessel, as I did it the other way around.
+    The post Permission To Start Again | Weeknotes appeared first on
+  last_post_date: "2025-11-09T21:23:56Z"
+  last_post_link: https://thejaymo.net/2025/11/09/415-permission-to-start-again/
   last_post_categories:
-  - "AI \U0001F916"
-  - "Culture \U0001F3DB️"
-  - "Music \U0001F3B6"
-  - culture
+  - 1990's
+  - Forest Bed
+  - "Weeknotes \U0001F5D3️"
+  - Writing ⌨️
+  - ai
+  - byenne
+  - creative advice
+  - dune
   - fandom
-  - gunk
-  - pc music
-  - tracy durnell
+  - organisation
+  - permanently moved
+  - writing
   last_post_language: ""
-  last_post_guid: 721c0cddcca925f02dd35278a6b69c9b
+  last_post_guid: ff40617a757fe9efeab0b9174d27ef1b
   score_criteria:
     cats: 0
     description: 3

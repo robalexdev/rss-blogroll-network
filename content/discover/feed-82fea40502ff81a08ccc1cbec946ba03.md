@@ -20,37 +20,33 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Ideas
-  - On Openness
-  - On Sharing
-  - Random Musing
+  - CogDog It
+  - Cool Tool Fool
   relme: {}
-  last_post_title: The Web That Was, Is
-  last_post_description: I both wince and smile when I see those proclamations about
-    the web [internet] being broken. I’d like to know the field data that is based
-    upon. To say this confidently, someone would have to
-  last_post_date: "2025-09-14T20:07:01Z"
-  last_post_link: https://cogdogblog.com/2025/09/web-that-was/
+  last_post_title: Weird Web Widgets Weally Work!
+  last_post_description: Now who the bleep is generating my titles? Oh (spotting a
+    mirror). This was a bit of sideways fun, but come to appreciate a bit of likely
+    Google actually goodness woven into my blog. Hang on,
+  last_post_date: "2025-11-15T23:53:38Z"
+  last_post_link: https://cogdogblog.com/2025/11/weird-web-widgets/
   last_post_categories:
-  - Ideas
-  - On Openness
-  - On Sharing
-  - Random Musing
+  - CogDog It
+  - Cool Tool Fool
   last_post_language: ""
-  last_post_guid: 13cca154eabc2da6136afa4e1d9c4310
+  last_post_guid: bd11fbe465c125325f17e544a6c2d92c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -248,7 +248,11 @@ params:
   - https://youdo.blog/comments/feed/
   - https://z1nz0l1n.com/feed/
   recommender: []
-  categories: []
+  categories:
+  - Personal
+  - deed poll
+  - email
+  - printers
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -259,30 +263,32 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Repost] We Need to Talk About Botsplaining by Alex
-    Morgan
-  last_post_description: |-
-    Similar to this is the use of "AI" for work. For example, Crunchyroll recently encountered controversy with its subtitles; the company responsible for providing these subtitles was using ChatGPT.
-
-    If
-  last_post_date: "2025-11-14T19:26:59Z"
-  last_post_link: https://danq.me/2025/11/14/we-need-to-talk-about-botsplaining/#comment-292196
-  last_post_categories: []
+  last_post_title: Comment on [Video] Free Deed Poll – Demo Video by Dan Q
+  last_post_description: <p>Since I relaunched freedeedpoll.org.uk three months ago
+    (with new features) and made an explanatory demo video, the volume and kinds of
+    questions I’ve been emailed has… become larger and more
+  last_post_date: "2025-12-08T12:10:53Z"
+  last_post_link: https://danq.me/2025/12/08/fdp-question-diversity/
+  last_post_categories:
+  - Personal
+  - deed poll
+  - email
+  - printers
   last_post_language: ""
-  last_post_guid: a1040dd8d79c01239c251da3a1e874c4
+  last_post_guid: 2754214d7174d3308878f330f3dfd7d4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

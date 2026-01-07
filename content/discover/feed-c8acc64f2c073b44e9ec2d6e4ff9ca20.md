@@ -1,6 +1,6 @@
 ---
 title: Andy Bell
-date: "2025-08-26T14:00:17Z"
+date: "2025-11-10T11:52:44Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
@@ -17,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: I tell you what I want, what I really, really want
+  last_post_title: Get the core right and the resilient code will follow
   last_post_description: ""
-  last_post_date: "2025-08-26T14:00:17Z"
-  last_post_link: https://bell.bz/i-tell-you-what-i-want-what-i-really-really-want
+  last_post_date: "2025-11-10T11:52:44Z"
+  last_post_link: https://bell.bz/get-the-core-right-and-the-resilient-code-will-follow
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c240a299779b423fc028f8ce1bc6f654
+  last_post_guid: 1b42be83c3657a5434e850ae3d2a4bee
   score_criteria:
     cats: 0
     description: 0

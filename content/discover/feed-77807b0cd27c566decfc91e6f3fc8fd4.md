@@ -16,15 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A mead-making field guide
-  last_post_description: If you've been following along with my mead-making antics
-    on Mastodon and wondered what the hell is going on, here's a "field guide" of
-    sorts of the different types of mead. My journey in mead making
-  last_post_date: "2025-09-02T09:44:00-04:00"
-  last_post_link: https://cool-as-heck.blog/a-mead-making-field-guide
+  last_post_title: Maple Vanilla Mead
+  last_post_description: |-
+    My next experimental mead recipe is going to be a maple vanilla mead. Here's the base recipe: 
+
+    - 2lb raw acacia blossom honey (primary)
+    - 12oz Vermont maple syrup (primary)
+    - 1 vanilla bean
+  last_post_date: "2025-11-14T08:14:14-05:00"
+  last_post_link: https://cool-as-heck.blog/maple-vanilla-mead
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: afe85d459cbe4f22857132447808535e
+  last_post_guid: 6265f4195bddf19583764dabcaa701a9
   score_criteria:
     cats: 0
     description: 3

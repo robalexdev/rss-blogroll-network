@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Coffee, Omelettes, and Five-Course Meals: A New Software Menu'
+  last_post_title: Teaching Local Models to Call Tools Like Claude
   last_post_description: |-
-    Like breakfast at a diner, software is cheap & fast to make. Ask for a new task management tool & you’ll have the first version in less time & for less money than an omelette.
-    AI-built tools may
-  last_post_date: "2025-09-12T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/ephemeral-software/
+    Ten months ago, DeepSeek collapsed AI training costs by 90% using distillation - transferring knowledge from larger models to smaller ones at a fraction of the cost.
+    Distillation works like a tutor
+  last_post_date: "2025-11-13T09:00:00-08:00"
+  last_post_link: https://www.tomtunguz.com/distilling-claude-into-local-models/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 919c8d5e64497e5b90fb249f2799aabf
+  last_post_guid: a50b6f10719b60d32dd6b44116cb7714
   score_criteria:
     cats: 0
     description: 3

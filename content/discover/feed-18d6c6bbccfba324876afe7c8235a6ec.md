@@ -32,16 +32,15 @@ params:
   - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: Careless People by Sarah Wynn-Williams (⭐️⭐️⭐️⭐️)
+  last_post_title: Updating forgejo's robots.txt
   last_post_description: |-
-    Has Meta not heard of the Streisand effect? Or is it just Zuck that hasn't heard of it?
-
-    They were careless people, Tom and Daisy – they smashed up things and creatures and then retreated back into
-  last_post_date: "2025-09-14T00:00:00-07:00"
-  last_post_link: https://www.coryd.dev/reading/books/9781250391247
+    I've moved all of my personal, private projects over to my own forgejo instance. It's been reliable and an altogether simple transition — I even have it mirroring the ai.robots.txt repo.
+    While most
+  last_post_date: "2025-11-15T22:10:00Z"
+  last_post_link: https://www.coryd.dev/posts/2025/updating-forgejos-robotstxt
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e665c8550db41110bc75fc4bc7d0ed75
+  last_post_guid: 90904fb92198dcc698782c6af0e34305
   score_criteria:
     cats: 0
     description: 3

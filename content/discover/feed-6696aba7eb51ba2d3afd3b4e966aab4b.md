@@ -1,6 +1,6 @@
 ---
 title: Information Technology and Libraries
-date: "2025-06-16T06:03:22-07:00"
+date: "2025-09-15T08:17:01-07:00"
 description: Information Technology and Libraries publishes material related to all
   aspects of information technology in all types of libraries. For consideration,
   articles must be related to both technology AND
@@ -18,16 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Leveraging Innovative Technologies for Improved Library Practices
-    in the Digital Era
-  last_post_description: Lack of expertise, among other reasons, has been cited as
-    the reason for Nigerian libraries’ sluggish adoption and application of innovative
-    technology. To solve this problem, a thorough analysis
-  last_post_date: "2025-06-16T00:00:00-07:00"
-  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/16767
+  last_post_title: Free Online Graphic Design Software
+  last_post_description: The need to capture patrons attention with interesting flyers
+    and advertisement is extremely critical to library staff’s work. So having an
+    easy to use graphical program that can help even the most
+  last_post_date: "2025-09-15T00:00:00-07:00"
+  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17532
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c410c7cf31a6fb9c452e11b7b66ad737
+  last_post_guid: 2b17f2077a099be379d7205f17842f5d
   score_criteria:
     cats: 0
     description: 3

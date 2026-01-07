@@ -21,37 +21,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hacks
+  - CSS
   - JavaScript
-  - Tools
-  - Web
   relme:
     https://meyerweb.com/eric/thoughts: true
-  last_post_title: 'Bookmarklet: Load All GitHub Comments (take 2)'
-  last_post_description: In which I update a bookmarklet to load all the comments
-    on super-long GitHub threads.
-  last_post_date: "2025-09-14T13:48:27Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2025/09/14/bookmarklet-load-all-github-comments-take-2/
+  last_post_title: Custom Asidenotes
+  last_post_description: In which I turn inline asides into robustly enhanced sidenotes
+    with CSS and just a touch of JS.
+  last_post_date: "2025-10-29T13:19:29Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/
   last_post_categories:
-  - Hacks
+  - CSS
   - JavaScript
-  - Tools
-  - Web
   last_post_language: ""
-  last_post_guid: a38aa89fe330f39d713775bd9a45862b
+  last_post_guid: e1fe61f100a74283b070ea1dfe4faf22
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

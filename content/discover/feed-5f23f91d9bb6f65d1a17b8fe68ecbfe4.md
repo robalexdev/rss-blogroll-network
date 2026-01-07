@@ -1,6 +1,6 @@
 ---
 title: diamond geezer
-date: "2025-09-15T10:50:41+01:00"
+date: "2025-11-16T00:17:12Z"
 description: Life viewed from London E3
 params:
   feedlink: https://diamondgeezer.blogspot.com/atom.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Open House (2)
+  last_post_title: Investigating London Near You
   last_post_description: ""
-  last_post_date: "2025-09-15T10:50:41+01:00"
-  last_post_link: http://diamondgeezer.blogspot.com/2025/09/open-house-2.html
+  last_post_date: "2025-11-15T16:27:11Z"
+  last_post_link: http://diamondgeezer.blogspot.com/2025/11/investigating-london-near-you.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: caf56bb0ecf6f9956b829f886c732fb1
+  last_post_guid: c02108a75f085d266117562e4ae40a86
   score_criteria:
     cats: 0
     description: 3

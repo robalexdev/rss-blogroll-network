@@ -41,15 +41,15 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: A short list of tech security tips when traveling
+  last_post_title: Updating forgejo's robots.txt
   last_post_description: |-
-    Whenever I travel, I take a few basic security-related steps. I've left the US all of once, but I follow these steps whenever I travel anywhere.
-    If flying, power off all of your devices when going
-  last_post_date: "2025-09-04T20:19:00Z"
-  last_post_link: https://www.coryd.dev/posts/2025/a-short-list-of-tech-security-tips-when-traveling
+    I've moved all of my personal, private projects over to my own forgejo instance. It's been reliable and an altogether simple transition — I even have it mirroring the ai.robots.txt repo.
+    While most
+  last_post_date: "2025-11-15T22:10:00Z"
+  last_post_link: https://www.coryd.dev/posts/2025/updating-forgejos-robotstxt
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 84a771dbee1da539083f23efb336d647
+  last_post_guid: f92e135ede35f4d9e7937fe242f77178
   score_criteria:
     cats: 0
     description: 3

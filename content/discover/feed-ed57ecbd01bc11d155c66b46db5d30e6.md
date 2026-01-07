@@ -18,18 +18,20 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Articles
+  - Fact Sheets
   relme: {}
-  last_post_title: America’s Sports Teams Pay Tribute to Charlie Kirk
-  last_post_description: From coast to coast, sports teams and organizations paused
-    this week to commemorate the legacy of Charlie Kirk. The White House recognizes
-    these profound tributes that celebrate Kirk’s enduring
-  last_post_date: "2025-09-15T00:26:31Z"
-  last_post_link: https://www.whitehouse.gov/articles/2025/09/americas-sports-teams-pay-tribute-to-charlie-kirk/
+  last_post_title: 'Fact Sheet: Following Trade Deal Announcements, President Donald
+    J. Trump Modifies the Scope of the Reciprocal Tariffs with Respect to Certain
+    Agricultural Products'
+  last_post_description: 'STRENGTHENING THE ECONOMY AND NATIONAL SECURITY THROUGH
+    TARIFFS AND TRADE DEALS: Today, President Donald J. Trump signed an Executive
+    Order modifying the scope of the reciprocal tariffs that he first'
+  last_post_date: "2025-11-14T21:53:39Z"
+  last_post_link: https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-following-trade-deal-announcements-president-donald-j-trump-modifies-the-scope-of-the-reciprocal-tariffs-with-respect-to-certain-agricultural-products/
   last_post_categories:
-  - Articles
+  - Fact Sheets
   last_post_language: ""
-  last_post_guid: 74555b85a566e35bfc07204e3fcc11ab
+  last_post_guid: 1183c700b5651c29ae0b90a4f21b0568
   score_criteria:
     cats: 0
     description: 0

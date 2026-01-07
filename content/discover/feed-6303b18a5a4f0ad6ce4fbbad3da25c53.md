@@ -34,15 +34,15 @@ params:
   - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: Paper Trails Weekoverzicht (7 september-14 september)
-  last_post_description: Zo is ineens een maand voorbij sinds de laatste update! Nou
-    moe! Heb ik dan stilgezeten? Verre van! Is het boek af? Nou nee, dat ook weer
-    niet. Maar wat heb je dan gedaan? Laat me dat eens op een rij
-  last_post_date: "2025-09-14T12:49:47+02:00"
-  last_post_link: https://frankmeeuwsen.com/2025/09/14/paper-trails-weekoverzicht-september-september.html
+  last_post_title: Paper Trails Weekoverzicht (1 november-12 november)
+  last_post_description: Ik heb een hulpvraag aan het einde van dit bericht! Want
+    soms vallen dingen goed op hun plek. Afgelopen weken waren gepland om veel te
+    schrijven. Dat begint nu redelijk op de rit te komen, maar
+  last_post_date: "2025-11-12T10:24:03+01:00"
+  last_post_link: https://blog.frankmeeuwsen.com/2025/11/12/paper-trails-weekoverzicht-november-november.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f7c671b4f93b5a84a619b664598fad18
+  last_post_guid: 1d24566eb4da2678d82e30e2ffcf5480
   score_criteria:
     cats: 0
     description: 0

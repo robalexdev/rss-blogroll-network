@@ -1,6 +1,6 @@
 ---
 title: Anil Dash
-date: "2025-09-11T00:00:00Z"
+date: "2025-11-14T00:00:00Z"
 description: A blog about making culture. Since 1999.
 params:
   feedlink: https://anildash.com/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 24 is After the Fall
+  last_post_title: I know you don’t want them to want AI, but…
   last_post_description: ""
-  last_post_date: "2025-09-11T00:00:00Z"
-  last_post_link: https://anildash.com/2025/09/11/24-is-after-the-fall/
+  last_post_date: "2025-11-14T00:00:00Z"
+  last_post_link: https://anildash.com/2025/11/14/wanting-not-to-want-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cbee920334ac3711c3d169eb6748a078
+  last_post_guid: a02295dd439ad896bc52cc85d5d3beb7
   score_criteria:
     cats: 0
     description: 3

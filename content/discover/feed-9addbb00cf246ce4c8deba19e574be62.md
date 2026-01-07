@@ -78,6 +78,7 @@ params:
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed.xml
   categories: []
   relme:
     https://3x5.pics/credits: true

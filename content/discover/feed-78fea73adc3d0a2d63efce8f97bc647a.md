@@ -21,15 +21,15 @@ params:
   - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: A light in the blackout
-  last_post_description: 'Among my papers is the (English) Eastern Evening News from
-    26 June 1940. Right up there at the top are the blackout times for that day: 9.49
-    pm to 4.17 am. So precise! I''ve kept the paper though for'
-  last_post_date: "2025-09-15T08:41:15+12:00"
-  last_post_link: https://miraz.me/2025/09/15/a-light-in-the-blackout.html
+  last_post_title: What is the right (affordable) ebike for me?
+  last_post_description: "Back in February 2020 I bought a Gepida Reptila urban ebike,
+    just before lockdown, and I love it. \n\nNearly 6 years on though and I'm learning
+    that while the Reptila is excellent on smooth roads and"
+  last_post_date: "2025-11-10T14:39:29+13:00"
+  last_post_link: https://miraz.me/2025/11/10/what-is-the-right-affordable.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c6ac84c04718285766222bee6fe03e0f
+  last_post_guid: 8ecb8693214078347ff703a8a4f24848
   score_criteria:
     cats: 0
     description: 0

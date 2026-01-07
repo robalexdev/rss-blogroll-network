@@ -1,6 +1,6 @@
 ---
 title: Robb Knight • Posts • Atom Feed
-date: "2025-08-27T15:04:41Z"
+date: "2025-11-08T20:53:53Z"
 description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and human
   dad.
 params:
@@ -36,13 +36,13 @@ params:
   - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: St Jude 2025
-  last_post_description: We're back again fundraising for St Jude
-  last_post_date: "2025-08-27T15:04:41Z"
-  last_post_link: https://rknight.me/blog/st-jude-2025/
+  last_post_title: Now (November 2025)
+  last_post_description: What I'm doing now. November 2025 edition
+  last_post_date: "2025-11-08T20:53:53Z"
+  last_post_link: https://rknight.me/blog/now-november-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d8557b17cd9fcf35d0ffc82c558decdf
+  last_post_guid: bd9b74a8bffb5d4da6c7f6dbdc3faeae
   score_criteria:
     cats: 0
     description: 3
