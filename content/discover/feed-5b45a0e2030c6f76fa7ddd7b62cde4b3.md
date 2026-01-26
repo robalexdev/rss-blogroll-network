@@ -16,27 +16,21 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Ruben Arakelyan's blogroll
-    description: ""
-    id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://www.wackomenace.co.uk/blog/rss.xml
-  - https://www.wackomenace.co.uk/essays/rss.xml
   categories: []
   relme: {}
-  last_post_title: Browse No More
-  last_post_description: |-
-    I'm no longer browsing the web; I'm consuming AI answers instead.
-    I love and adore today's so-called AI answer engines: tools like ChatGPT, Perplexity, Grok, Copilot, and Gemini. I use them at least
-  last_post_date: "2025-03-13T16:00:00Z"
-  last_post_link: https://paulstamatiou.com/browse-no-more
+  last_post_title: "2025"
+  last_post_description: This isn't my usual deep-dive article where I unpack a specific
+    subject such as an app I built, my obsession with craft, or revisiting an old
+    iPod. I set out to share a few reflections and musings on
+  last_post_date: "2026-01-12T16:00:00Z"
+  last_post_link: https://paulstamatiou.com/2025-year-in-review
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd97e2f6fabe03f7bc7f43150f95278d
+  last_post_guid: 7c14a1f5ddbd648b3a6b5e72c62640f9
   score_criteria:
     cats: 0
     description: 3

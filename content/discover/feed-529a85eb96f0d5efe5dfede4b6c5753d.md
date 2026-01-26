@@ -17,17 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to avoid losing items? Holding pens.
+  last_post_title: Coway Airmega 200M level 2 CFM
   last_post_description: |-
-    I put it in a safe spot.
-    -- a phrase my mom would always say when she’d lost something.
-    Why do we lose things inside our homes?
-    When we are interrupted or need to hastily respond to a new demand,
-  last_post_date: "2024-07-07T23:40:13Z"
-  last_post_link: https://blog.alexwendland.com/2024-07-07-holding-pens/
+    Tl;dr: Coway’s Airmega 200M has a CFM of ~100 CFM on speed 2 vs. ~250 CFM on speed 3.
+    I measured the return air output on 2nd speed at several locations for a cumulative 40 seconds using a Testo
+  last_post_date: "2026-01-10T04:16:16Z"
+  last_post_link: https://blog.alexwendland.com/2026-01-10-coway-airmega-200m/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21de0238e513df4f3c71c4918763f3bf
+  last_post_guid: 9273f33a7bd282a357f9bccebe560d46
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 69
+  postcount: 71
   avgpostlen: 0
 ---

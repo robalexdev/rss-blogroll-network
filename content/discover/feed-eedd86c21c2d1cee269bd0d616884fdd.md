@@ -17,33 +17,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Python
+  - Linux
   - Software
+  - Virtualization
   relme: {}
-  last_post_title: Self hosting and installing from pip repos
-  last_post_description: 'I have an application that I want to share with my team.
-    Fortunately, we have a shared server, so it is pretty easy to do so: if I put
-    a file in /usr/local/bin it can A) be executed by anyone …'
-  last_post_date: "2025-10-16T02:30:54Z"
-  last_post_link: https://adam.younglogic.com/2025/10/self-hosting-and-installing-from-pip-repos/
+  last_post_title: Install a custom Kernel inside a VM
+  last_post_description: When debugging Qemu, it might be helpoful to instrument Linux
+    Kernel to see when interrupts get received, or see data on the other side of a
+    transfer. If you have to modify the Kernel on a regular
+  last_post_date: "2026-01-23T03:43:55Z"
+  last_post_link: https://adam.younglogic.com/2026/01/install-a-custom-kernel-inside-a-vm/
   last_post_categories:
-  - Python
+  - Linux
   - Software
+  - Virtualization
   last_post_language: ""
-  last_post_guid: c7ec6118f75ed73a45ff542e94c6f581
+  last_post_guid: f8291303b4c6a3fcd662bd1c50b034a9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

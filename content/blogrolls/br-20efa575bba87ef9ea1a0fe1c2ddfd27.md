@@ -25,13 +25,10 @@ params:
   - title: Subham Tibra
     description: Blog
     id: 23efe4b53adc8f8a6f0b357e193cab31
-  - title: Amit Kumar
-    description: ""
-    id: 280f7abd2c6e216db3e901f917ce048e
   - title: Sidhant Nagpal
     description: Hi, I am Sidhant Nagpal. Welcome to my blog.
     id: 3a9d2195035ac4ecfaf0d2128883e769
-  - title: SymPy Group Theory (GSoC 2017)
+  - title: Dr V Gladkova
     description: ""
     id: 3ce01e0512bddc2b5c2043d978306e88
   - title: GSoC on Sc0rpi0n's Journey
@@ -49,9 +46,6 @@ params:
   - title: 'leomanga - Tag: SymPy'
     description: ""
     id: 770d9f453e5732228e59204e48240037
-  - title: Shubham’s Blog
-    description: My Corner on Internet
-    id: 787def12bddb3a797d7221a5eb3ed5a5
   - title: Aaron Meurer's Blog
     description: My blog
     id: 943f3a402801150e5b1deda40b48aa20
@@ -73,15 +67,9 @@ params:
   - title: Sampad Saha
     description: ""
     id: cdc2ce267c1dd797fd5f14344524c164
-  - title: ""
-    description: ""
-    id: d3a672f74c4270441cb597729d29ffae
   - title: GSoC 2022 Blog
     description: Blog sharing my progress in GSoC 2022.
     id: e042e4639449e9a1ed942cb2d6abd88e
-  - title: '#SymPy – nkhlpappu'
-    description: This WordPress.com site is the bee's knees
-    id: e911c2e4ceb95b9ad0fa2e289c13489a
   - title: Rubi Integrator
     description: ""
     id: f2c5f219d6984b1cf0613bec3aab67f0

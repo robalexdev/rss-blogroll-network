@@ -18,15 +18,16 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Death By Testing
-  last_post_description: "The following is a guest post by Robert Megone, the lead
-    tester on Death by Scrolling.\nWish List today!\n\n\t\n\n\n\n\n\nMost of the games
-    I’ve worked on over the years have been slow and deliberate"
-  last_post_date: "2025-10-22T09:35:25+13:00"
-  last_post_link: https://grumpygamer.com/dbs_testing/
+  last_post_title: Death by Scrolling Bug
+  last_post_description: |-
+    Interesting bug in Death by Scrolling. Let’s dive in.
+    This morning I got up to several Mastodon, Forum messages and Steam posts about a crash in Death by scrolling.
+    ferryman.yack(90) Can't find var
+  last_post_date: "2026-01-18T10:24:55+13:00"
+  last_post_link: https://grumpygamer.com/dbs_bug/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 703769122a3fcc7283748a1ea5c67510
+  last_post_guid: b33796a3599c0afc3b1030ef140d1d37
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 307
+  postcount: 316
   avgpostlen: 0
 ---

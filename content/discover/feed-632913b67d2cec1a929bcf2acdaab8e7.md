@@ -8,7 +8,6 @@ params:
   feedid: 632913b67d2cec1a929bcf2acdaab8e7
   websites:
     https://anto.pt/: false
-    https://anto.pt/articles: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

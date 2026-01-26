@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2025-11-11T13:50:26Z"
+date: "2026-01-25T16:31:47Z"
 description: 在技术和生活的边界试探
 params:
   feedlink: https://liduos.com/atom.xml
@@ -23,7 +23,7 @@ params:
   relme: {}
   last_post_title: 什么是 Weekly Gradient（AI 周刊说明）
   last_post_description: 原属于会员计划的邮件通讯现在已全面免费公开，更名为 Weekly Gradient (Gradient 是
-  last_post_date: "2025-11-11T13:50:26Z"
+  last_post_date: "2026-01-25T16:31:47Z"
   last_post_link: https://liduos.com/the-memeber-newsletter-introduce.html
   last_post_categories:
   - 会员计划

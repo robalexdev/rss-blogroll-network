@@ -19,19 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 使用 pyspark 处理数据的基本流程
-  last_post_description: |-
-    读数据
-    读数据前，要考虑两个方面：数据的外观（对外呈现给我们的样子）和内在（具体存放的位置）。具体来说，要考虑：
-
-    表头
-    schema
-    存储格式（尽
-  last_post_date: "2025-11-11T16:55:43+08:00"
-  last_post_link: https://data4fun.cc/blog/2025/11/pyspark/
+  last_post_title: Claude Code 完美接入 Ollama 指南
+  last_post_description: 作为 Anthropic 官方推出的命令行编码助手（coding assistant），Claude Code
+  last_post_date: "2026-01-22T17:56:41+08:00"
+  last_post_link: https://data4fun.cc/blog/2026/01/post-20260122/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 948fdc2b1d0e88615cfe539c5eaf8b94
+  last_post_guid: 08028ca2d1f02198c2218fcbfea04ef7
   score_criteria:
     cats: 0
     description: 3

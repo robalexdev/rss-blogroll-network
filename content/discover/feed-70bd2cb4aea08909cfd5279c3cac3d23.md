@@ -17,31 +17,19 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/feed.xml
-  - https://kevquirk.com/feed/
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
   categories: []
   relme: {}
-  last_post_title: Messing with bots
-  last_post_description: Markov chain babblers, bogus php files, and more!
-  last_post_date: "2025-11-13T08:56:00Z"
-  last_post_link: https://herman.bearblog.dev/messing-with-bots/
+  last_post_title: Things that work (for me)
+  last_post_description: A list of tools and items that JustWork (tm)
+  last_post_date: "2026-01-20T08:30:00Z"
+  last_post_link: https://herman.bearblog.dev/things-that-work/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c77ebbee8e15aa107bd73835380612b1
+  last_post_guid: 649081aa88a3ef4f16981b4ca1ce065d
   score_criteria:
     cats: 0
     description: 3

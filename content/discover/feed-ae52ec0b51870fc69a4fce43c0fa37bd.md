@@ -1,8 +1,7 @@
 ---
 title: Lindsay Wardell
 date: "1970-01-01T00:00:00Z"
-description: Programmer, writer, mother. She/Her. Interested in Vue, Typescript, Node.js,
-  and Elm.
+description: Programmer, writer, and mother.
 params:
   feedlink: https://www.lindsaykwardell.com/rss.xml
   feedtype: rss
@@ -18,13 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: No Words
+  last_post_title: Rekindling
   last_post_description: ""
-  last_post_date: "2025-02-02T00:00:00Z"
-  last_post_link: https://lindsaykwardell.com/blog/no-words/
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://lindsaykwardell.com/blog/rekindling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ec4da4a9b70dae72bfb5572e28618619
+  last_post_guid: 76d7b4b382e9724cf830138f99ade756
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 48
+  postcount: 49
   avgpostlen: 0
 ---

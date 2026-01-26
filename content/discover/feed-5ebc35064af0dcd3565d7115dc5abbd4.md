@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 63
+  postcount: 66
   avgpostlen: 0
 ---

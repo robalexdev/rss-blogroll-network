@@ -1,6 +1,6 @@
 ---
 title: Alliot's blog
-date: "2025-06-24T11:21:52Z"
+date: "2025-12-28T11:00:00Z"
 description: Maker & Developer
 params:
   feedlink: https://www.iots.vip/atom.xml
@@ -19,33 +19,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GitOps
-  - Kubernetes
+  - Android
+  - 折腾
+  - 硬件
   relme: {}
-  last_post_title: ArgoCD部署应用出现metadata.annotations过大问题
-  last_post_description: '使用 Argo CD 部署 kube-prometheus-stack 的时候，出现 the metadata.annotations
-    is invalid: Too long: must have at most 262144 bytes 的问题，导致整个 Application 出现 Sync
-    Error。'
-  last_post_date: "2025-06-24T11:21:52Z"
-  last_post_link: https://www.iots.vip/post/argocd-metadata-annotations-Toolong
+  last_post_title: 2025年底的安卓搞机备忘录
+  last_post_description: 在云服务高度绑定、系统权限不断收紧、厂商深度定制愈发封闭的今天，解锁 Bootloader、Root、刷 Rom
+    这些曾经被视为 Android
+  last_post_date: "2025-12-28T11:00:00Z"
+  last_post_link: https://www.iots.vip/post/android-root-hide-detection-2025
   last_post_categories:
-  - GitOps
-  - Kubernetes
+  - Android
+  - 折腾
+  - 硬件
   last_post_language: ""
-  last_post_guid: 999dfa397f5ba6c986d8b18e48963787
+  last_post_guid: 49cef93967e2270fa7e33e704887d081
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

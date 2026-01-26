@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,13 +20,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Talking With Margaret Sullivan
-  last_post_description: The state of the media in Trump Two Year One
-  last_post_date: "2025-11-15T11:30:46Z"
-  last_post_link: https://paulkrugman.substack.com/p/talking-with-margaret-sullivan
+  last_post_title: Was This a Murder Too Far?
+  last_post_description: The execution of Alex Pretti has made even some MAGA loyalists
+    waver
+  last_post_date: "2026-01-26T11:30:57Z"
+  last_post_link: https://paulkrugman.substack.com/p/was-this-a-murder-too-far
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5e74d24eadc35392956fe2a4724e7a12
+  last_post_guid: b7fa8c8e4e1f0c5c9819729301d6f4fe
   score_criteria:
     cats: 0
     description: 3

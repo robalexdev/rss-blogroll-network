@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 在 Claude Code 中使用 GLM 4.6 的体验
+  last_post_title: 让 AI 戴着镣铐跳舞
   last_post_description: ""
-  last_post_date: "2025-10-08T00:00:00Z"
-  last_post_link: https://lutaonan.com/blog/glm-with-claude-code
+  last_post_date: "2025-12-27T00:00:00Z"
+  last_post_link: https://lutaonan.com/blog/ai-coding-principle
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca0ff987367f0e333fcf6d713969f1d5
+  last_post_guid: e5052cb2c0adaaf5ae225dc677a86193
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 61
+  postcount: 63
   avgpostlen: 0
 ---

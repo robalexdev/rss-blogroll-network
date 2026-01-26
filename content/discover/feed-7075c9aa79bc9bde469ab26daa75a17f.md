@@ -7,7 +7,6 @@ params:
   feedtype: atom
   feedid: 7075c9aa79bc9bde469ab26daa75a17f
   websites:
-    https://abhinavsarkar.net/: false
     https://notes.abhinavsarkar.net/: false
   blogrolls: []
   in_blogrolls:
@@ -34,18 +33,18 @@ params:
     description: 0
     feedlangs: 0
     hasContent: 0
-    hasPosts: 3
+    hasPosts: 1
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 81
+  postcount: 1
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: code informatikamihelac blog for django
-date: "2025-11-15T22:31:58Z"
+date: "2026-01-26T15:11:12Z"
 description: ""
 params:
   feedlink: https://code.informatikamihelac.com/feeds/categories/django/

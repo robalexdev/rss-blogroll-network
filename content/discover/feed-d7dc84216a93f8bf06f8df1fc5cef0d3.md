@@ -6,8 +6,7 @@ params:
   feedlink: https://rayepeng.net/feed
   feedtype: rss
   feedid: d7dc84216a93f8bf06f8df1fc5cef0d3
-  websites:
-    https://rayepeng.net/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -19,32 +18,31 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://rayepeng.net/: true
-  last_post_title: 巧摄使用与平安金融中心月升
+  relme: {}
+  last_post_title: 周报42 十公里跑步、鬼灭、敦煌展
   last_post_description: ""
-  last_post_date: "2025-11-05T05:48:35Z"
-  last_post_link: https://rayepeng.net/qiaoshe-moon/
+  last_post_date: "2025-11-20T05:36:59Z"
+  last_post_link: https://rayepeng.net/weekpost42/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9015ef6085cc64c99d062897aecd6cfa
+  last_post_guid: 76e2d3afb1fd525669e7e381551d976a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
-    hasPosts: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 0
+  postcount: 105
   avgpostlen: 0
 ---

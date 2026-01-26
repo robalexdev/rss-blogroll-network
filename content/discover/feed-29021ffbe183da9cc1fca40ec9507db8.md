@@ -11,9 +11,6 @@ params:
     https://quality.mozilla.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Planet Mozilla
-    description: ""
-    id: 6041122d4cdba349bc86ba85507a7d8c
   - title: Planet Mozilla Projects
     description: ""
     id: 8a91b63449f17a90b25e8bcaff1d7612

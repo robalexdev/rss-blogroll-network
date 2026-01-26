@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Get started with event sourcing today
-  last_post_description: I hope this series has inspired you to try event sourcing.
-    In this article, I will give you some suggestions on how to start using it.The
-    mechanics of event sourcing are not complicated. They’re
+  last_post_title: Why I switched from HTMX to Datastar
+  last_post_description: In 2022, David Guillot delivered an inspiring DjangoCon Europe
+    talk, showcasing a web app that looked and felt as dynamic as a React app. Yet
+    he and his team had done something bold. They converted
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://everydaysuperpowers.dev/articles/get-started-with-event-sourcing-today/
+  last_post_link: https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b80bfa0f2735a23e37ee95352407ee65
+  last_post_guid: b42a0e5638e1d067eede707b2a4da513
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 30
+  postcount: 31
   avgpostlen: 0
 ---

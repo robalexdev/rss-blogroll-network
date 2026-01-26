@@ -1,6 +1,6 @@
 ---
 title: Learning (Lib)Tech
-date: "2025-10-17T18:31:42Z"
+date: "2026-01-04T19:59:50Z"
 description: Stories from my Life as a Technologist
 params:
   feedlink: https://cynthiang.ca/feed/atom/
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Events
-  - code4lib
+  - Update
+  - statistics
   relme: {}
-  last_post_title: 'Code4LibBC 2025: Day 2 lightning talk notes'
-  last_post_description: 'Notes from the second day of Code4libBC 2025. Transforming
-    Unstructured Data in a Knowledge Base: Exploring the Potential of RAG and LLMs
-    at SFU Library Ian Song, SFU potential of the application of'
-  last_post_date: "2025-10-17T18:31:42Z"
-  last_post_link: https://cynthiang.ca/2025/10/17/code4libbc-2025-day-2-lightning-talk-notes/
+  last_post_title: 2025 Blog Year in Review + Brief Update
+  last_post_description: I’m a few days late with this post. Things have been busy
+    with visiting family for the holidays, and we’ve been dealing with various house
+    things since we moved. Of course, those are just excuses
+  last_post_date: "2026-01-04T19:59:50Z"
+  last_post_link: https://cynthiang.ca/2026/01/04/2025-blog-year-in-review-brief-update/
   last_post_categories:
-  - Events
-  - code4lib
+  - Update
+  - statistics
   last_post_language: ""
-  last_post_guid: 1c55cf816c536ea93c1e9dc0ab30349f
+  last_post_guid: 37844e521ac31f5339bfad778a981378
   score_criteria:
     cats: 0
     description: 3

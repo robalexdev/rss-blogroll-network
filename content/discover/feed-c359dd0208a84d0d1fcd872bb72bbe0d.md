@@ -1,6 +1,6 @@
 ---
 title: Victor Blomqvist's blog
-date: "2025-09-21T00:00:00Z"
+date: "2026-01-21T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.viblo.se/feed.atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Windows Dev Drive - Too good to be true?
+  last_post_title: AI Made Hobby Coding Expensive Again
   last_post_description: ""
-  last_post_date: "2025-09-21T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/devdrive/
+  last_post_date: "2026-01-21T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/ai-hobbycoding/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1b992dff01b3b794a3ef3b331c30e46d
+  last_post_guid: bac74a85a9da682bee71c5685331ff90
   score_criteria:
     cats: 0
     description: 0
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 9
+  postcount: 12
   avgpostlen: 296
 ---

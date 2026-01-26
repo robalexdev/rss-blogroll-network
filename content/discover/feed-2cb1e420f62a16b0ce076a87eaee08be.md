@@ -1,6 +1,6 @@
 ---
 title: Oskyla 烹茶室
-date: "2025-11-10T21:08:00+08:00"
+date: "2026-01-09T16:28:00+08:00"
 description: 价值信息藏书阁，统一门户入口。
 params:
   feedlink: https://frytea.com/feed/
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Kubernetes kubectl --raw 使用指南
-  last_post_description: 什么是 kubectl --raw?kubectl --raw 是一个强大的底层工具,允许你直接访问 Kubernetes
-    API Server 的 REST API,绕过 kubectl 的客...
-  last_post_date: "2025-11-10T21:08:00+08:00"
-  last_post_link: https://frytea.com/archives/1546/
+  last_post_title: Windows 配置 Claude Code 解决  settings.json 不生效
+  last_post_description: TL;DR默认情况下 Windows 安装的 Claude Code 会从这个位置读取配置：C:\Users\<YOUR_NAME>\.claude其他系统则类似的找到
+    ~/.cla...
+  last_post_date: "2026-01-09T16:28:00+08:00"
+  last_post_link: https://frytea.com/archives/1616/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1aaadd19b90043c5179552cfdd348a59
+  last_post_guid: db0084a4d18744a9f79ce852d9c79aa8
   score_criteria:
     cats: 0
     description: 3

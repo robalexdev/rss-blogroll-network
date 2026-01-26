@@ -16,22 +16,20 @@ params:
     id: 884d6b3cfb99a990a76a7606e0cb3e08
   recommended: []
   recommender:
-  - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   categories: []
   relme:
     https://builtbybuffalo.com/: true
     https://dystopianpresent.club/@jasper: true
     https://jasper.tandy.is/: true
-  last_post_title: Art Supplies
-  last_post_description: Tabitha is enjoying art at school. To be fair she's always
-    enjoyed drawing at home, I just didn't expect she'd enjoy the more rigid structure
-    that comes with learning it.
-  last_post_date: "2025-11-15T08:07:00Z"
-  last_post_link: https://jasper.tandy.is/blogging/art-supplies
+  last_post_title: Vein
+  last_post_description: Last U15's badminton match of the season. It's only been
+    5 weekends this year but it always feels like so much more!
+  last_post_date: "2026-01-25T18:30:00Z"
+  last_post_link: https://jasper.tandy.is/blogging/vein
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0736580f9965287d66ebffa6cd862b62
+  last_post_guid: 1dc5c0edc8ab5cafa1e23aa8288a16bd
   score_criteria:
     cats: 0
     description: 3

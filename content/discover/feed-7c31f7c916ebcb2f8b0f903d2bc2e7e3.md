@@ -18,16 +18,19 @@ params:
   categories: []
   relme:
     https://ianthehenry.com/: true
-  last_post_title: Building Bauble
+  last_post_title: Periodic Spaces
   last_post_description: |-
-    I made something that I think is pretty neat, and I want to tell you about it.
-
-    This is a little hot air balloon made out of alternating layers of brass and bronze that stack together with these
-  last_post_date: "2025-01-10T00:00:00Z"
-  last_post_link: https://ianthehenry.com/posts/bauble/building-bauble/
+    One of my favorite SDF techniques is domain repetition:
+    (def eye-center [35 82 62])
+    (def eyes (ball 39 | move eye-center | mirror x :r 10))
+    (def eye-angle [0 0 0])
+    (defn pupils [target]
+    (def left
+  last_post_date: "2025-11-30T00:00:00Z"
+  last_post_link: https://ianthehenry.com/posts/periodic-spaces/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 462dddb6674727b62fd17352a666087f
+  last_post_guid: 1da47651f61e4fb68e93a7dc03873fc3
   score_criteria:
     cats: 0
     description: 3

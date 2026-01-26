@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2025-11-13T10:09:29Z"
+date: "2025-12-01T07:07:45Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -20,42 +20,34 @@ params:
   recommender: []
   categories:
   - 与代码
-  - 生活经验
-  - 美食
-  - 说过的话
+  - 知乎
   relme: {}
-  last_post_title: "武汉凉面\U0001F35C"
-  last_post_description: !!binary |
-    6YKj5pe25YCZ5Yia5q+V5Lia77yM6L+Y5Zyo5q2m5rGJ5LiK54+t77yM5LiA5Liq5LiN5o
-    CO5LmI5aSn55qE5Lmf5LiN5oCO5LmI5q2j6KeE55qE5YWs5Y+477yM6ICB5p2/5bim5oiR
-    5Lus5Y675aSn5o6S5qGj5ZCD5q2m5rGJ55qE5rK554SW5bCP6b6Z6Jm+77yM5LiA6Iis5Y
-    WJ5ZCD6Jm+5LiN5aSq5Yiw5L2N77yM5bCx5Lya54K55LiK5LiA5aSn55s=
-  last_post_date: "2025-11-13T10:09:43Z"
-  last_post_link: https://102no.com/2025/08/21/liang-mian/
+  last_post_title: "AI编程工具2025\U0001F916"
+  last_post_description: 谢邀，研发工作的变化，我觉得最大的变化就是从重「实现」，变为重「设计」了，从「写代码」，变为「教AI写代码」，而且要把它当一个有「实习生
+  last_post_date: "2025-12-01T07:07:45Z"
+  last_post_link: https://102no.com/2025/12/01/ai-bian-cheng-2025/
   last_post_categories:
   - 与代码
-  - 生活经验
-  - 美食
-  - 说过的话
+  - 知乎
   last_post_language: ""
-  last_post_guid: 9cc546830198c656496ac888a6a539cf
+  last_post_guid: 2af13b6cdee6d45d77cbd84713bc6499
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 268
+  avgpostlen: 281
 ---

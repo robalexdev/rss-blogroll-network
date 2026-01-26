@@ -17,22 +17,21 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories:
   - Life
   - 稽古
   relme: {}
-  last_post_title: Detrás de ti voy / Yo, que siempre espero que vengan a mí
-  last_post_description: True, that my spirit is broken in fourteen places; true,
-    that my macros are excellent; true, that I like blood sport; true, that I have
-    fallen in love. Fast-walking my Tokyo neighborhood, arms out
-  last_post_date: "2025-11-12T01:26:50Z"
-  last_post_link: https://www.conscienceround.com/archives/10022
+  last_post_title: Come to dinner / 合宿
+  last_post_description: At the low, chestnut-colored table, trying to philosophize
+    in my broken Japanese, I realize that eventually you get old enough that your
+    goals become memories. You didn’t mean to leave them behind,
+  last_post_date: "2026-01-26T01:37:25Z"
+  last_post_link: https://www.conscienceround.com/archives/10191
   last_post_categories:
   - Life
   - 稽古
   last_post_language: ""
-  last_post_guid: ba8fdfc3c4c75e0447e2bc9764934f78
+  last_post_guid: 9409d71b1920bfdf20f1484714317170
   score_criteria:
     cats: 0
     description: 3

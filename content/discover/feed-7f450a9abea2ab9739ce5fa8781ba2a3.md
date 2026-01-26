@@ -1,6 +1,6 @@
 ---
 title: FLOSSLinux
-date: "2025-11-15T20:39:01Z"
+date: "2026-01-13T02:26:55Z"
 description: Random musings about Free/Libre/Open Source Software - and also about
   Linux and the way that the world is, gadgets and trends
 params:

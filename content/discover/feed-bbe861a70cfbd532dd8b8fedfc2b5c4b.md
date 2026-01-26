@@ -1,6 +1,6 @@
 ---
 title: Etsy Engineering | Code as Craft
-date: "2025-11-15T18:49:38-05:00"
+date: "2026-01-26T11:31:12-05:00"
 description: 'The engineers who make Etsy make our living with a craft we love: software.
   This is where we''ll write about our craft and our collective experience building
   and running the world''s most vibrant'
@@ -23,15 +23,15 @@ params:
   - https://philwilson.org/blog/feed/atom/
   categories: []
   relme: {}
-  last_post_title: Improving performance by prefetching product pages from Etsy Search
-  last_post_description: Rarely are there opportunities for big, bold, game-changing
-    improvements in web performance. The Speculation Rules API (SRA) is a recent browser
-    development that offers just such an opportunity. This
-  last_post_date: "2025-10-29T13:14:09-04:00"
-  last_post_link: https://www.etsy.com/codeascraft/search-prefetching-performance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
+  last_post_title: How Etsy Uses LLMs to Improve Search Relevance
+  last_post_description: Ever searched for something specific, only to be met with
+    results that are close, but not quite? On Etsy’s Search Relevance team, that frustration
+    is exactly what we are tackling. Our goal is
+  last_post_date: "2026-01-16T15:02:28-05:00"
+  last_post_link: https://www.etsy.com/codeascraft/how-etsy-uses-llms-to-improve-search-relevance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9e342fed9c6281b46152b0e665ca82ff
+  last_post_guid: 7e04d480cbf449773aa58da02445e1f4
   score_criteria:
     cats: 0
     description: 3

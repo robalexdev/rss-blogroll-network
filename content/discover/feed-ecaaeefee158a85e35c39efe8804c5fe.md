@@ -8,51 +8,46 @@ params:
   feedid: ecaaeefee158a85e35c39efe8804c5fe
   websites:
     https://daveverse.org/: true
-    https://daveverse.wordpress.com/: false
   blogrolls: []
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Testing
-  - WordLand
-  - Writing
+  - Uncategorized
   relme: {}
-  last_post_title: Demo post for source:markdown docs
-  last_post_description: This is a test post for the new docs I'm writing about source:markdown. 
-    It includes instructions showing how to test it by creating a WordLand post. 
-    I'm making use of markdown in this test, of
-  last_post_date: "2025-11-11T15:04:22Z"
-  last_post_link: https://daveverse.org/2025/11/11/demo-post-for-sourcemarkdown-docs/
+  last_post_title: BigCo companies and countries
+  last_post_description: Random ramblings with past experience dealing with tech power.
+    As I think about next steps for building out from WordPress to create a network
+    of users and their writing, I wanted to review how XML
+  last_post_date: "2026-01-25T16:39:46Z"
+  last_post_link: https://daveverse.org/2026/01/25/bigco-companies-and-countries/
   last_post_categories:
-  - Testing
-  - WordLand
-  - Writing
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: a6d3f3cf12d8348c810ddee6c6334f7c
+  last_post_guid: 4514fef83f1e86fc5d29bd0f9cf76736
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 3
-    postcats: 3
+    hasPosts: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 2
   avgpostlen: 0
 ---

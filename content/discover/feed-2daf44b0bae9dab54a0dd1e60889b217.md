@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2025-11-15T17:02:39Z"
+date: "2026-01-26T10:02:21Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,17 +23,16 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #142'
+  last_post_title: 'The Index: Issue #158'
   last_post_description: |-
-    public.monster
-    This is fantastic. Free hosting for people that want a place on the internet that is their own as a throwback to the 90s.
-    Little Character font
-    A free and open source font that has an
-  last_post_date: "2025-11-14T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/142/?ref=main-rss-feed
+    Understanding the fundamentals of CSS Layout
+    Quite possibly one of the most thorough articles on layout I've ever read. It's long, but definitely worth your time.
+    When will CSS Grid Lanes arrive? How
+  last_post_date: "2026-01-23T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/158/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8eadbf4b3ffcb60f9d857ef61f1c3497
+  last_post_guid: 3c21210d452d36ff082e82d4fdc68aa1
   score_criteria:
     cats: 0
     description: 3

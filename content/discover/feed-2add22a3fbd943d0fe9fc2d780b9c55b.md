@@ -1,6 +1,6 @@
 ---
 title: Huon on the internet
-date: "2025-09-07T23:21:59Z"
+date: "2026-01-02T02:33:42Z"
 description: ""
 params:
   feedlink: https://huonw.github.io/blog/atom.xml
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Is that a deprecation? Or is it just removed?
+  last_post_title: magit-insert-worktrees improves status buffers
   last_post_description: ""
-  last_post_date: "2025-09-08T00:00:00Z"
-  last_post_link: https://huonw.github.io/blog/2025/09/deprecating-vs-removing/
+  last_post_date: "2025-12-13T00:00:00Z"
+  last_post_link: https://huonw.github.io/blog/2025/12/magit-insert-worktrees/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0e68e81d2938d9127459be96a2d13fe9
+  last_post_guid: 17f6a31050fd7fe3ce9d3ad7fbb58fe5
   score_criteria:
     cats: 0
     description: 0
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 38
+  postcount: 41
   avgpostlen: 295
 ---

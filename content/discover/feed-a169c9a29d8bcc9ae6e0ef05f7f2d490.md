@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2025-11-15T15:43:16-05:00"
+date: "2026-01-01T17:42:38-05:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -20,18 +20,15 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: SolidGoldMagikarp
-  last_post_description: In November 2019, years before the launch of ChatGPT, OpenAI
-    created a 1.5 billion parameter Large Language Model and released it publicly
-    under the name GPT-2.
-  last_post_date: "2025-10-28T00:00:00-04:00"
-  last_post_link: https://www.bryanbraun.com/2025/10/28/SolidGoldMagikarp/
+  last_post_title: Made in 2025
+  last_post_description: 'Here are some things I made in 2025:'
+  last_post_date: "2026-01-01T00:00:00-05:00"
+  last_post_link: https://www.bryanbraun.com/2026/01/01/made-in-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6090316a5b82fdd0c0be883a2efe12f4
+  last_post_guid: 61f9d8ae0eae37850cc56acaa926d730
   score_criteria:
     cats: 0
     description: 3
@@ -50,5 +47,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 297
+  avgpostlen: 296
 ---

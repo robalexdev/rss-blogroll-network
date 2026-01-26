@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: 'Zepboundin'': my first month on a GLP-1'
-  last_post_description: Today I finish my fourth 2.5mg injection of Zepbound, a strong
-    GLP-1 drug, and I thought I'd write about the experience of my first month on
-    it, how I got here, and what I expect in the future. It's
-  last_post_date: "2025-11-06T19:25:51Z"
-  last_post_link: https://a.wholelottanothing.org/zepboundin-my-first-month-on-a-glp-1/
+  last_post_title: I absolutely LOVE woodworking
+  last_post_description: I've been a homeowner for about 20 years, and in that time
+    I picked up a handful of DIY skills, but my work was always sloppy due to my limited
+    experience. I was envious of uncles or neighbors with
+  last_post_date: "2026-01-09T06:00:59Z"
+  last_post_link: https://a.wholelottanothing.org/i-absolutely-love-woodworking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 96aec72c24014d3d8ff922bbfbcb3dcb
+  last_post_guid: fc7f95a5a0e987f18d9dba5b69874836
   score_criteria:
     cats: 0
     description: 3

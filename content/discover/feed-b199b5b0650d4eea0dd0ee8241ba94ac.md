@@ -1,6 +1,6 @@
 ---
 title: Peter Rohde
-date: "2025-08-23T00:56:36Z"
+date: "2025-05-03T19:14:28Z"
 description: Quantum computer scientist & alpinist.
 params:
   feedlink: https://peterrohde.org/feed/atom/
@@ -16,17 +16,17 @@ params:
   recommender: []
   categories:
   - Climbing
-  - General
+  - Mental health
   relme: {}
-  last_post_title: You just can’t get rid of some useless ASIO sluts
-  last_post_description: ""
-  last_post_date: "2025-08-24T02:15:56Z"
-  last_post_link: https://peterrohde.org/you-just-cant-get-rid-of-some-useless-asio-sluts/
+  last_post_title: Living with Mental Illness in Academia
+  last_post_description: An article I wrote for Voices of Academia back in 2022.
+  last_post_date: "2025-05-03T19:14:28Z"
+  last_post_link: https://peterrohde.org/living-with-mental-illness-in-academia/
   last_post_categories:
   - Climbing
-  - General
+  - Mental health
   last_post_language: ""
-  last_post_guid: b5ff00ed5b650a732fb525770b931b4b
+  last_post_guid: 9bb0d8952cb6564ba0ee5ffe36731756
   score_criteria:
     cats: 0
     description: 3
@@ -45,5 +45,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 160
+  avgpostlen: 224
 ---

@@ -1,6 +1,6 @@
 ---
 title: ATOR
-date: "2025-11-03T03:51:15+01:00"
+date: "2025-12-21T15:47:48+01:00"
 description: "ATOR (Arc-Team Open Research). \nThe blog spreads tests, problems and
   results of Arc-Team research in archaeology, following the guidelines of the OpArc
   (Open Archaeology) project."
@@ -916,30 +916,26 @@ params:
   - Éverton Quevedo
   - Ötzi
   relme: {}
-  last_post_title: Reviving ArcheOS
+  last_post_title: The OpArc Project at the SFSCON
   last_post_description: ""
-  last_post_date: "2025-02-18T10:37:57+01:00"
-  last_post_link: https://arc-team-open-research.blogspot.com/2025/02/reviving-archeos.html
-  last_post_categories:
-  - |-
-    ArcheoFOSS
-    ArcheOS
-    Open Archaeology
+  last_post_date: "2025-12-21T15:47:48+01:00"
+  last_post_link: https://arc-team-open-research.blogspot.com/2025/12/the-oparc-project-at-sfscon.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 04334bc8bcbfcc83bf1ccbe108ab71ec
+  last_post_guid: 83320c0b0f0f0109ca0dec06c8815c4d
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 25
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

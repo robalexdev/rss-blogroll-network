@@ -19,31 +19,40 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Artificial Intelligence
   - Competition
+  - Openness
+  - Uncategorized
+  - privacy
   relme: {}
-  last_post_title: 'Behind the Manifesto: The Survivors of the Open Web'
+  last_post_title: 'Behind the Manifesto: Moments that Mattered in our Fight for the
+    Open Web (2025)'
   last_post_description: Welcome to the blog series “Behind the Manifesto,” where
     we unpack core issues that are critical to Mozilla’s mission. The Mozilla Manifesto
-    represents Mozilla’s commitment to advancing an
-  last_post_date: "2025-11-12T21:42:51Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2025/11/12/behind-the-manifesto-the-survivors-of-the-open-web/
+    represents our commitment to advancing an open,
+  last_post_date: "2025-12-19T15:23:40Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2025/12/19/behind-the-manifesto-moments-that-mattered-in-our-fight-for-the-open-web-2025/
   last_post_categories:
+  - Artificial Intelligence
   - Competition
+  - Openness
+  - Uncategorized
+  - privacy
   last_post_language: ""
-  last_post_guid: dde6413859877077ae2a32c350d5fa74
+  last_post_guid: fe8d6588fcb79544ca68a93b7efc29db
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

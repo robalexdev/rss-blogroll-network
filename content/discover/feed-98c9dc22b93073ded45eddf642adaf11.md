@@ -1,6 +1,6 @@
 ---
 title: Paul Robert Lloyd
-date: "2025-11-15T10:37:40Z"
+date: "2026-01-26T00:46:34Z"
 description: The personal website of Paul Robert Lloyd
 params:
   feedlink: https://paulrobertlloyd.com/feed.xml
@@ -16,42 +16,34 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  categories:
-  - europe
-  - france
-  - spain
-  - travel
+  categories: []
   relme:
     https://github.com/paulrobertlloyd: true
     https://paulrobertlloyd.com/: true
-  last_post_title: Last of the summer shine
-  last_post_description: Attempting to avoid tourist treadmills in France and Spain.
-  last_post_date: "2025-10-19T21:00:00Z"
-  last_post_link: https://paulrobertlloyd.com/2025/292/a1/paris_lyon_sitges_barcelona/
-  last_post_categories:
-  - europe
-  - france
-  - spain
-  - travel
+  last_post_title: ♫ Change by Tears for Fears
+  last_post_description: ""
+  last_post_date: "2026-01-12T22:30:48Z"
+  last_post_link: https://paulrobertlloyd.com/2026/012/j1/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 88358cc7b0ff288963f1c2a07ddfd516
+  last_post_guid: cbced3f539d18243f7be18162ea887b0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 11
-  avgpostlen: 235
+  postcount: 10
+  avgpostlen: 225
 ---

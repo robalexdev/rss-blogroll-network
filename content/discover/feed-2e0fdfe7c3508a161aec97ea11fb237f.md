@@ -22,17 +22,15 @@ params:
     https://dylanbeattie.net/: true
     https://github.com/dylanbeattie: true
     https://hachyderm.io/@dylanbeattie: true
-  last_post_title: Choosing the Right Path
-  last_post_description: |-
-    Srijan Singh pinged me on LinkedIn earlier today with a question:
-
-
-      I’m in my early career as a backend dev at IBM, and something I often wonder about is choosing the right path: whether to stick
-  last_post_date: "2025-09-02T08:56:00Z"
-  last_post_link: https://dylanbeattie.net/2025/09/02/choosing-the-right-path.html
+  last_post_title: The Road to Excel
+  last_post_description: Chris Rea’s “The Road to Hell” is one of my favourite albums
+    of all time. You probably remember the title track, but the rest of the album
+    is fantastic - great tunes, great production, and some
+  last_post_date: "2025-12-23T15:40:00Z"
+  last_post_link: https://dylanbeattie.net/2025/12/23/the-road-to-excel.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c296a20319e67a52e87505b3f3f825d
+  last_post_guid: 9e00bd2298b267ada7c9ccc7be3d3a32
   score_criteria:
     cats: 0
     description: 3
@@ -50,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 325
+  postcount: 329
   avgpostlen: 0
 ---

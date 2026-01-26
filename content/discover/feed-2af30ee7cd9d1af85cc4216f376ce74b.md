@@ -1,5 +1,5 @@
 ---
-title: shilin typing...
+title: Shilin typing...
 date: "1970-01-01T00:00:00Z"
 description: 'Hi, I’m Sergei! I’m an entrepreneur, musician, rock climber, and thinker
   who writes about what matters most to me: startups, health, and always sleeping
@@ -17,30 +17,32 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - minimalism
   relme: {}
-  last_post_title: things i learned about contracting
-  last_post_description: Quality work outweighs everything else when you contract
-    for clients. Your work is your reputation. So do it well, and people will remember
-    you.
-  last_post_date: "2025-09-20T07:28:00Z"
-  last_post_link: https://shilin.ca/things-i-learned-about-contracting/
-  last_post_categories: []
+  last_post_title: The best phone is the one you never use
+  last_post_description: I switched to a Nokia 3210 to break my phone addiction and
+    discovered why the best phone is the one you don’t use. Four months of travel
+    across Asia with a dumbphone changed how I see technology.
+  last_post_date: "2026-01-13T09:54:00Z"
+  last_post_link: https://shilin.ca/the-best-phone-is-the-one-you-never-use/
+  last_post_categories:
+  - minimalism
   last_post_language: ""
-  last_post_guid: 46aa38e69c49127ed73f4e5b123f52c2
+  last_post_guid: dfed622120df1c8cc9ed7a7985061c21
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

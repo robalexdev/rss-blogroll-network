@@ -2,7 +2,7 @@
 title: Home
 date: "1970-01-01T00:00:00Z"
 description: |-
-  Sito ufficiale dell'Associazione di Promozione Sociale "Puglia Software Open Source - APS" in breve Puglia S.O.S.
+  Sito ufficiale dell'Associazione di Promozione Sociale "Puglia Software Open Source - APS ETS" in breve Puglia S.O.S.
   Un aiuto per il Software Open Source.
 params:
   feedlink: https://www.pugliasos.it/index.php?format=feed&type=rss
@@ -23,18 +23,18 @@ params:
   - In evidenza
   - ROOT
   relme: {}
-  last_post_title: Tecnoestate - Ottava edizione
-  last_post_description: L'associazione Puglia Software Open Source - APS ETS, organizza
-    “TECNOESTATE, la creatività non va in vacanza”, OTTAVA edizione. L'attività, che
-    partirà il 24 giugno, è rivolta a ragazzi/e di
-  last_post_date: "2025-06-07T19:39:35+02:00"
-  last_post_link: https://www.pugliasos.it/index.php/attivita/79-tecnoestate-ottava-edizione
+  last_post_title: Oltre Tecnoestate
+  last_post_description: 'Riprendono, alle ore 16.00 di sabato 17 gennaio 2026, gl''incontri
+    quindicinali di "Oltre Tecnoestate": robotica e dobotica per ragazzi ...un  divertimento
+    verso la professionalità!'
+  last_post_date: "2026-01-14T19:26:41+01:00"
+  last_post_link: https://www.pugliasos.it/index.php/attivita/84-oltre-tecnoestate
   last_post_categories:
   - Attività
   - In evidenza
   - ROOT
   last_post_language: ""
-  last_post_guid: 03bd7781ac2e648d41deabb44a5abd8a
+  last_post_guid: ed87bd4b4e4e8f211572ad65e7033fed
   score_criteria:
     cats: 0
     description: 3

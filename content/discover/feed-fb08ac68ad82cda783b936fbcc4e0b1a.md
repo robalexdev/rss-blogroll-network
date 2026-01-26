@@ -12,35 +12,39 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Boxing
-  - Chris Eubank Jr.
-  - Chris Eubank Sr.
-  - The Fights
-  - conor benn
-  - nigel benn
+  - Policing
+  - Politics
+  - abolish the cruelty
+  - cbp
+  - fl
+  - ice
+  - reeducation
+  - sensible moderate policies
   relme: {}
-  last_post_title: 'Like Fathers, Like Sons: Benn-Eubank Jr. Fight Fuels Family Feuds'
-  last_post_description: The prefight of the year already has been fought. Conor Benn
-    and Chris Eubank Jr. both made weight Friday in London for their Saturday night
-    rematch at Tottenham Hotspur Stadium. As the size of the
-  last_post_date: "2025-11-14T20:24:45Z"
-  last_post_link: https://defector.com/like-fathers-like-sons-benn-eubank-jr-fight-fuels-family-feuds
+  last_post_title: I Have A Great Idea For Retraining ICE Agents
+  last_post_description: The several thousand federal agents currently running rampant
+    in the Twin Cities have so far achieved little in the way of legitimate law enforcement
+    objectives, but they have been rather more
+  last_post_date: "2026-01-26T15:00:45Z"
+  last_post_link: https://defector.com/i-have-a-great-idea-for-retraining-ice-agents
   last_post_categories:
-  - Boxing
-  - Chris Eubank Jr.
-  - Chris Eubank Sr.
-  - The Fights
-  - conor benn
-  - nigel benn
+  - Policing
+  - Politics
+  - abolish the cruelty
+  - cbp
+  - fl
+  - ice
+  - reeducation
+  - sensible moderate policies
   last_post_language: ""
-  last_post_guid: dab2b04aac42829104cee11ef60d0d67
+  last_post_guid: 0a8f38b82ab1f463355eed5983260e54
   score_criteria:
     cats: 0
     description: 3

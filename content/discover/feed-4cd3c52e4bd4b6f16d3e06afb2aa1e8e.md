@@ -12,43 +12,37 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - State Department
-  - The Weekender
-  - Trump II
-  - antifa
+  - Morning Memo
   relme: {}
-  last_post_title: Feds Go After the Antifa International
-  last_post_description: Hello it’s the weekend. This is The Weekender ☕️ The federal
-    government demonstrated the latest example of how its putting...
-  last_post_date: "2025-11-15T13:00:00Z"
-  last_post_link: https://talkingpointsmemo.com/the-weekender/feds-go-after-the-antifa-international
+  last_post_title: When the Propagandists Are Armed and Dangerous
+  last_post_description: Morning Memo Live! Details and tickets here for the Thursday
+    evening event in D.C. (TPM members should look out for...
+  last_post_date: "2026-01-26T16:03:44Z"
+  last_post_link: https://talkingpointsmemo.com/morning-memo/alex-pretti-shooting-minneapolis-ice-bovino
   last_post_categories:
-  - State Department
-  - The Weekender
-  - Trump II
-  - antifa
+  - Morning Memo
   last_post_language: ""
-  last_post_guid: 649ea4b9c1b241905300e75875fa331f
+  last_post_guid: 1f3c1d398dac58480e9b0c2dc224e16b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

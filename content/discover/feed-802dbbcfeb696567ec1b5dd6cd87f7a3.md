@@ -16,7 +16,6 @@ params:
     id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []

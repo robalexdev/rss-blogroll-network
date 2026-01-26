@@ -20,134 +20,189 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended:
   - https://abnib.co.uk/birthdays.xml
-  - https://abstrusegoose.com/feed/atom
   - https://adactio.com/rss/
   - https://adrianroselli.com/feed
+  - https://alexzeecomedy.com/rss.xml
   - https://amf.didiermary.fr/feed/
-  - https://benfrain.com/feed
+  - https://anthony-louis-johnson.tumblr.com/rss
+  - https://arcadiapage.com/feed.xml
+  - https://beelzebabe.neocities.org/Blog/Rss.xml
+  - https://bekianee.art/rss.xml
+  - https://benfrain.com/feed/
+  - https://binarydigit.city/feed/
+  - https://blazingcobaltx.neocities.org/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://blog.codinghorror.com/rss/
+  - https://blog.darylsun.page/rss.xml
   - https://blog.flipper.net/rss/
   - https://blog.humblebundle.com/feed/
   - https://blog.jim-nielsen.com/feed.xml
   - https://blog.pcora.eu/feed.xml
-  - https://brianjdevries.com/feed.xml
+  - https://blog.pixietails.club/feed/
+  - https://blog.possiblyaxolotl.com/feed.xml
+  - https://brain.melonking.net/rss
   - https://briefs.video/feed.xml
+  - https://buttondown.com/thepudding/rss
   - https://calebhearth.com/atom.xml
-  - https://colinwalker.blog/livefeed.rss
+  - https://candyether.space/comic/rss
+  - https://cheapycore.com/feed.xml
   - https://colly.com/articles/feed
-  - https://cosmicqbit.dev/index.xml
-  - https://darekkay.com/atom.xml
+  - https://corvidae.digital/feed.xml
+  - https://crazyroostereye.de/blog/rss.xml
   - https://daverupert.com/atom.xml
-  - https://degruchy.org/feed/
+  - https://delovely.neocities.org/feed.xml
   - https://derekkedziora.com/feed.xml
-  - https://diggingthedigital.com/feed
-  - https://distributed.blog/category/podcast/feed/
+  - https://devnel.blog/feed/
+  - https://dogspit.nekoweb.org/rss.xml
   - https://drikkes.com/?feed=rss2
+  - https://drmollytov.bearblog.dev/feed/?type=rss
+  - https://eev.ee/feeds/atom.xml
+  - https://eieio.games/feed.xml
+  - https://elite784.online/rss784.xml
+  - https://ellesho.me/page/rss.xml
+  - https://entropically.neocities.org/rss.xml
   - https://evantravers.com/feed.xml
-  - https://feeds.feedburner.com/Buttersafe
-  - https://feeds.feedburner.com/Metafilter
+  - https://exclave.city/rss.xml
   - https://feeds.feedburner.com/Optipess
-  - https://feeds.feedburner.com/mefi/Projects
   - https://feeds.feedburner.com/robweychert
   - https://feeds.feedburner.com/thewikiman
-  - https://fleeblewidget.co.uk/comments/feed/
-  - https://fleeblewidget.co.uk/feed/
+  - https://fireye.coffee/blog/index.xml
+  - https://foolcrum57.nekoweb.org/rss.xml
   - https://foreverliketh.is/blog/index.xml
   - https://freshrss.org/feeds/all.atom.xml
   - https://frittiert.es/rss.xml
-  - https://geoffgraham.me/feed
+  - https://furbisms.neocities.org/rss.xml
+  - https://geoffgraham.me/feed/
+  - https://gilest.org/feed/index.xml
+  - https://giuliodematte.is/blog/rss.xml
+  - https://goeshard.org/feed_rss_updated.xml
   - https://gomakethings.com/feed/index.xml
   - https://granary.io/url?input=html
+  - https://hikatamika.com/feed.xml
+  - https://hisvirusness.com/feed/
   - https://honza.pokorny.ca/index.xml
-  - https://im.farai.xyz/feed.rss.xml
-  - https://immerweiterlaufen.de/feed
-  - https://jerz.us/rss/?section=micro
+  - https://jbuller.com/feed/
   - https://jimkang.com/weblog/feed.xml
   - https://joekrall.com/atom.xml
+  - https://juuyondaime.net/rss.xml
   - https://jvns.ca/atom.xml
-  - https://kevq.uk/feed.xml
+  - https://kevquirk.com/feed.xml
   - https://lalunemauve.fr/feed/
+  - https://larvapuppy.neocities.org/rss.xml
+  - https://laserboy.nekoweb.org/rss.xml
+  - https://leonia.neocities.org/NiaRSS.xml
   - https://levimcg.com/feed.xml
+  - https://loebas.boykisser.nl/blog/?x=feed%3Arss2
+  - https://lovethea.net/rss.xml
   - https://ma.tt/feed/
   - https://marcthiele.com/feed-all
   - https://mattstein.com/rss.xml
+  - https://matty.blog/feed/
+  - https://medium.com/feed/@trustees_57837
+  - https://mermaid.weblog.lol/rss.xml
   - https://mijndertstuij.nl/feed.xml
-  - https://minim.blog/index.xml
+  - https://mycorrhiza.space/RSS/MycorrhizaFeed.xml
+  - https://namedudequests.net/rss/feed.xml
+  - https://natalies.space/feed.xml
   - https://notiz.blog/feed/
-  - https://paganwandererlu.wordpress.com/feed/atom/
+  - https://orbitoasis.net/rss.xml
+  - https://pastel-skies.nekoweb.org/updates.xml
   - https://pbfcomics.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/feed/
+  - https://petrapixel.neocities.org/rss.xml
+  - https://pieceofthepie.online/feed.xml
   - https://polytechnic.co.uk/blog/rss/
+  - https://rachsmith.com/feed.xml
+  - https://radrocket.neocities.org/rss.xml
+  - https://refl.blog/feed/
+  - https://ribo.zone/feed.xml
+  - https://rknight.me/subscribe/posts/atom.xml
   - https://robertheaton.com/feed.xml
+  - https://roboticarts.zoness.com/feed/
+  - https://roylindauer.com/feed.xml
   - https://rsdoiel.github.io/rss.xml
+  - https://rss.metafilter.com/metafilter.rss
+  - https://rss.metafilter.com/projects.rss
+  - https://rss.nebula.app/video/channels/jetlag.rss
   - https://rss.nebula.app/video/channels/minutephysics.rss
   - https://rss.nebula.app/video/channels/philosophytube.rss
   - https://rss.nebula.app/video/channels/realengineering.rss
   - https://rss.nebula.app/video/channels/sexplanations.rss
-  - https://rss.nebula.app/video/channels/stevenbridges.rss
+  - https://rss.spacehey.com/blog_user?id=2079407
+  - https://rss.spacehey.com/blog_user?id=2786806
   - https://rusingh.com/feed/
-  - https://seanmcp.com/rss.xml
+  - https://seryndelle.neocities.org/feed.xml
   - https://sfss.space/feed
   - https://sheep.horse/rss.xml
   - https://shiflett.org/feeds/blog
   - https://shkspr.mobi/blog/feed/
-  - https://stantonharcourtschool.co.uk/feed/
-  - https://steele.blue/feed/atom.xml
+  - https://signal-garden.neocities.org/feed.all.xml
+  - https://sleepycalaban.bearblog.dev/feed/?type=rss
+  - https://smallcypress.bearblog.dev/feed/?type=rss
+  - https://starbreaker.org/follow/everything.xml
   - https://stefanbohacek.com/feed/
+  - https://stephvee.ca/feed.xml
   - https://stitcher.io/rss
+  - https://sundeepbraich.substack.com/feed
   - https://textslashplain.com/feed/
   - https://thehistoryoftheweb.com/feed/
   - https://theoatmeal.com/feed/rss
-  - https://theunderground.blog/feed.xml
   - https://tommorris.org/index.xml
   - https://tonsky.me/atom.xml
   - https://tracydurnell.com/feed/
+  - https://visualrambling.space/rss.xml
+  - https://voltdrake.neocities.org/feed.xml
   - https://www.alchemists.io/feeds/news.xml
+  - https://www.aquarionics.com/feed/
+  - https://www.blogger.com/feeds/1516101351024152546/posts/default?redirect=false
   - https://www.blogger.com/feeds/30436440/posts/default
-  - https://www.blogger.com/feeds/3477437989623950502/posts/default
-  - https://www.blogpocket.com/feed
+  - https://www.blogger.com/feeds/6851610886112040124/posts/default
+  - https://www.blogger.com/feeds/7881474342266486342/posts/default
+  - https://www.buttersafe.com/feed/
+  - https://www.cinnamuff.space/feed.xml
+  - https://www.classicpress.net/feed/
   - https://www.kryogenix.org/days/feed
+  - https://www.malingen.xyz/rss.xml
   - https://www.nathalielawhead.com/candybox/feed
   - https://www.oglaf.com/feeds/rss/
   - https://www.ohjoysextoy.com/feed/
+  - https://www.rhyswynne.co.uk/feed/
   - https://www.schneier.com/feed/atom/
   - https://www.scottohara.me/feed.xml
+  - https://www.seanmcp.com/rss.xml
   - https://www.smbc-comics.com/comic/rss
+  - https://www.steele.blue/feed
   - https://www.strictlyspoiler.com/feed/
-  - https://www.welivesecurity.com/en/rss/feed/
+  - https://www.sycamoreblog.org/rss.xml
+  - https://www.thefrugalgamer.net/blog/feed/
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC-XYsDNh4-886rMNLnnwR_w
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC3izYCSBcfi2LfdIr-qg0gQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC3tMH8u6yG3mSxi-qpfmpkA
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UC4K10PNjqgGLKA3lo5V8KdQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC5_iLVNOt2i0fX57v8AjMEQ
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UC5iEcgLv0EQWHT--NpdelCw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC67f2Qf7FYhtoUIF4Sf29cA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC6IxnFzHofFJ5X2PycSMsww
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC6NY68EiT1430CkWZJ7Yg7Q
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC7Edgk9RxP7Fm7vjQ1d-cDA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UC8wsNIZ88NI6_tEEJinGZiQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC9PEibgWOqZ-1I1JdxRmr6g
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCA3nrVC6HlfDs414V_SYlbQ
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCAAMxPPYxyAE27svqW7zw4A
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCEmCXnbNYz-MOtXi3lZ7W1Q
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCGCe_sFWL22uFs9f03mSZAA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCGm3CO6LPcN-Y7HIuyE0Rew
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCIOqgcoAGI2fycb89gPXMPA
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCJ-vHE5CrGaL_ITEg-n3OeA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCLNfsUeQm6zU2eBlQbEy4tw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCMu5gPmKp5av0QCAajKTMhw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCNYrK4tc5i1-eL8TXesH2pg
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCOYWgypDktXdb-HfZnSMK6A
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCWXCrItCF6ZgXrdozUS-Idw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC_cznB5YZZmvAmeq7Y3EriQ
@@ -157,58 +212,62 @@ params:
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCfzIl99c9BYVyu97H5ISn7g
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCgITW_70LNZFkNna7VsXbuQ
   - https://www.youtube.com/feeds/videos.xml?channel_id=UChT-l10Pm5m-xOeYOl_37Xw
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCiR2d9r3QkBwuNVS8nqGNgg
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCouj1-7qfaBzSJpiT-zk3XA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCpEI4NuWSISo6LvAUAoa4pg
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCq8ZAAsI89IoJ-fn1gYpO3g
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCsn6cjffsvyOZCZxvGoJxGg
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCtbym4p03AxE1vF9QB4wB5A
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCwgURKfUA7e0Z7_qE3TvBFQ
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
   - https://www.zylstra.org/blog/feed/
   - https://xkcd.com/rss.xml
-  - https://youdo.blog/feed/
-  - https://zinzolin.fr/index.xml
+  - https://yel1low.neocities.org/RSS/blog.xml
+  - https://zhongvie.neocities.org/feed.xml
   - https://adactio.com/articles/rss
   - https://adactio.com/journal/rss
   - https://adactio.com/links/rss
   - https://adactio.com/notes/rss
+  - https://alexzeecomedy.com/atom.xml
+  - https://alexzeecomedy.com/pages/feeds/Alex_Zee_Comedy_notes_atom.xml
+  - https://alexzeecomedy.com/pages/feeds/Alex_Zee_Comedy_notes_rss.xml
   - https://benfrain.com/comments/feed/
-  - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
+  - https://blog.darylsun.page/atom.xml
   - https://blog.humblebundle.com/comments/feed/
-  - https://www.buttersafe.com/feed/
-  - https://www.buttersafe.com/feed/atom/
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://degruchy.org/index.xml
-  - https://diggingthedigital.com/comments/feed/
-  - https://diggingthedigital.com/feed/
-  - https://distributed.blog/comments/feed/
-  - https://distributed.blog/feed/
+  - https://crazyroostereye.de/blog/atom.xml
+  - https://crazyroostereye.de/master-rss.xml
+  - https://crazyroostereye.de/media/tv-atom.xml
+  - https://crazyroostereye.de/media/tv-rss.xml
+  - https://devnel.blog/comments/feed/
+  - https://devnel.blog/type/aside/feed/
+  - https://devnel.blog/type/audio/feed/
+  - https://devnel.blog/type/chat/feed/
+  - https://devnel.blog/type/gallery/feed/
+  - https://devnel.blog/type/image/feed/
+  - https://devnel.blog/type/link/feed/
+  - https://devnel.blog/type/quote/feed/
+  - https://devnel.blog/type/standard/feed/
+  - https://devnel.blog/type/status/feed/
+  - https://devnel.blog/type/video/feed/
   - https://drikkes.com/?feed=comments-rss2
   - https://drikkes.com/?feed=rss2&page_id=16885
+  - https://eev.ee/feeds/rss.xml
   - https://evantravers.com/essays.xml
   - https://github.com/FreshRSS/FreshRSS/releases.atom
   - https://frittiert.es/feed/page:feed.xml
   - https://geoffgraham.me/comments/feed/
-  - https://geoffgraham.me/feed/
-  - https://immerweiterlaufen.de/comments/feed/
-  - https://immerweiterlaufen.de/feed/
-  - https://jerz.us/atom/
-  - https://jerz.us/feed/
-  - https://jerz.us/rss/
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
+  - https://jbuller.com/comments/feed/
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
+  - https://matty.blog/comments/feed/
+  - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
-  - https://mijndertstuij.nl/weeknotes-feed.xml
+  - https://rss.nebula.app/video/channels/jetlag.rss?plus=true
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
   - https://rss.nebula.app/video/channels/realengineering.rss?plus=true
   - https://rss.nebula.app/video/channels/sexplanations.rss?plus=true
-  - https://rss.nebula.app/video/channels/stevenbridges.rss?plus=true
   - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/type/aside/feed/
@@ -221,70 +280,60 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
+  - https://rachsmith.com/rss/
   - https://rsdoiel.github.io/archive.xml
   - https://rsdoiel.github.io/index.xml
-  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
-  - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom
-  - https://stantonharcourtschool.org.uk/comments/feed/
-  - https://stantonharcourtschool.org.uk/feed/
-  - https://steele.blue/feed
+  - https://listenbrainz.org/syndication-feed/user/starbreaker5150/listens?minutes=480
+  - https://starbreaker.org/feed.xml
+  - https://starbreaker.org/follow/headlines.xml
   - https://stefanbohacek.com/feed
+  - https://stoutsytail.blogspot.com/feeds/posts/default
+  - https://stoutsytail.blogspot.com/feeds/posts/default?alt=rss
   - https://textslashplain.com/comments/feed/
+  - https://the1andi.blogspot.com/feeds/posts/default
+  - https://the1andi.blogspot.com/feeds/posts/default?alt=rss
   - https://tracydurnell.com/comments/feed/
   - https://www.alchemists.io/feeds/articles.xml
   - https://www.alchemists.io/feeds/projects.xml
-  - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
-  - https://lanzatu.blog/comments/feed/
-  - https://lanzatu.blog/feed/
-  - https://lanzatu.blog/feed/podcast
-  - https://www.nathalielawhead.com/candybox/comments/feed
+  - https://www.classicpress.net/comments/feed/
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
-  - https://www.schneier.com/comments/feed/
-  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
-  - https://youdo.blog/comments/feed/
-  - https://z1nz0l1n.com/feed/
+  - https://zhongvie.neocities.org/rss.xml
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - deed poll
-  - email
-  - printers
+  - children
+  - convention
+  - parenting
   relme:
     https://dan-q.github.io/: true
-    https://danq.blog/: true
     https://danq.me/: true
-    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Note] Free Deed Poll questions'
-  last_post_description: Since I relaunched freedeedpoll.org.uk three months ago (with
-    new features) and made an explanatory demo video, the volume and kinds of questions
-    I've been emailed has... become larger and more
-  last_post_date: "2025-12-08T12:10:53Z"
-  last_post_link: https://danq.me/2025/12/08/fdp-question-diversity/
+  last_post_title: '[Note] “I’m glad I’m not the only one”'
+  last_post_description: Still at MegaConLive. I’ve not done this kind of con before
+    (and still wouldn’t, were it not for my tweenager and her various obsessions).
+    Not my jam, and that’s fine. But if there’s one
+  last_post_date: "2026-01-25T13:09:52Z"
+  last_post_link: https://danq.me/2026/01/25/glad-im-not-the-only-one/
   last_post_categories:
   - Personal
-  - deed poll
-  - email
-  - printers
+  - children
+  - convention
+  - parenting
   last_post_language: ""
-  last_post_guid: 170d47e4169008117352cdab20d0d2bc
+  last_post_guid: 1b2cd287c34aa506c56b75ababa01055
   score_criteria:
     cats: 0
     description: 3

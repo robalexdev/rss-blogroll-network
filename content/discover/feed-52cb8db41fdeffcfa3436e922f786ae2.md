@@ -1,6 +1,6 @@
 ---
 title: Python posts by Daniel Roy Greenfeld
-date: "2025-11-11T14:59:19Z"
+date: "2026-01-16T02:45:17Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/python.atom.xml
@@ -15,39 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Japan
-  - bjj
   - python
-  - travel
   relme: {}
-  last_post_title: Visiting Tokyo, Japan from November 12 to 24
-  last_post_description: Our first time in a new country!
-  last_post_date: "2025-11-11T14:45:22Z"
-  last_post_link: https://daniel.feldroy.com/posts/2025-11-visiting-tokyo-japan-from-november-12-to-24
+  last_post_title: Writing tools to download everything
+  last_post_description: Using AI to help download photos so we can consolidate all
+    our images into one place.
+  last_post_date: "2026-01-16T11:22:35Z"
+  last_post_link: https://daniel.feldroy.com/posts/2026-01-downloading-everything
   last_post_categories:
-  - Japan
-  - bjj
   - python
-  - travel
   last_post_language: ""
-  last_post_guid: a7317b339d6317e0a1ebd2e5117ba853
+  last_post_guid: 5d1b995145a35b87158e72dc65d0b391
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
   postcount: 15
-  avgpostlen: 285
+  avgpostlen: 294
 ---

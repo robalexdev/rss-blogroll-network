@@ -35,14 +35,10 @@ params:
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
   - https://maique.eu/posts_feed
-  - https://www.manton.org/podcast.xml
-  - https://manuelmoreale.com/feed/instagram
-  - https://mastodon.social/tags/mjtsaiupdate.rss
-  - https://mjtsai.com/blog/comments/feed/
   - https://morrick.me/comments/feed
   - https://om.co/comments/feed/
+  - https://om.co/feed/podcast
   - https://thenewsprint.co/feed
-  - https://thingstoclick.com/feed.xml
   recommender: []
   categories:
   - Technology

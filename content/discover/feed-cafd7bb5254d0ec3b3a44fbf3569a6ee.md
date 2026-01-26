@@ -1,6 +1,6 @@
 ---
 title: 很少明白
-date: "2025-11-11T22:14:10Z"
+date: "2026-01-26T11:45:58Z"
 description: 一切都在无可挽回地走向恰饭。
 params:
   feedlink: https://p0werdown.com/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://p0werdown.com/: true
-  last_post_title: 用西方的叙事逻辑，拍不好中国人的纪录片
+  last_post_title: 用卡介苗注射量估算新生儿数据是个极不靠谱的方式
   last_post_description: ""
-  last_post_date: "2025-10-27T16:39:04Z"
-  last_post_link: https://p0werdown.com/posts/yong-xi-fang-de-xu-shi-luo-ji-pai-bu-hao-zhong-g-9cd71a44
+  last_post_date: "2026-01-19T09:59:06Z"
+  last_post_link: https://p0werdown.com/posts/yong-qia-jie-miao-zhu-she-liang-gu-suan-xin-shen-f6fa74b1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a796ce3755efcad0eafe3f7181d3076e
+  last_post_guid: 7818e3678d8e38e2586d1c3802f5fbbc
   score_criteria:
     cats: 0
     description: 3

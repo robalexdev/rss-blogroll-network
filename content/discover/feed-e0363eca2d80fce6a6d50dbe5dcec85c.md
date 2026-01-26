@@ -12,49 +12,38 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
-  - MoTW
-  - Windows
-  - download
+  - Chrome
+  - UX
+  - browsers
+  - design
   - security
-  - tech
-  - zones
   relme: {}
-  last_post_title: Windows Shell Previews – Restricted
-  last_post_description: Windows users who installed the October 2025 Security Updates
-    may have noticed an unexpected change if they use the Windows Explorer preview
-    pane. When previewing many downloaded files, the preview
-  last_post_date: "2025-10-20T16:06:58Z"
-  last_post_link: https://textslashplain.com/2025/10/20/windows-shell-previews/
+  last_post_title: Security Surfaces
+  last_post_description: An important concept in Usable Security is whether a given
+    UI represents a “security surface.” Formally, a security surface is a User Interface
+    component in which the user is presented with
+  last_post_date: "2025-12-03T21:15:46Z"
+  last_post_link: https://textslashplain.com/2025/12/03/security-surfaces/
   last_post_categories:
-  - MoTW
-  - Windows
-  - download
+  - Chrome
+  - UX
+  - browsers
+  - design
   - security
-  - tech
-  - zones
   last_post_language: ""
-  last_post_guid: 838aadfb56b6fbbd9c6c42a1516e30ed
+  last_post_guid: ea2e81b6ce988a4a6695dc6c3a0dda16
   score_criteria:
     cats: 0
     description: 3

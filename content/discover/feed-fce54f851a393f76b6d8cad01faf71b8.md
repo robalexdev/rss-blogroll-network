@@ -17,33 +17,34 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Easy dynamic dispatch using GLIBC Hardware Capabilities
+  last_post_title: Simple-PPA, a minimalistic PPA implementation
   last_post_description: |-
-    TL;DR With GLIBC 2.33+, you can build a shared library multiple times
-    targeting various optimization levels, and the dynamic linker/loader will pick
-    the highest version supported by the current CPU.
-  last_post_date: "2025-07-12T18:20:57Z"
-  last_post_link: https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/
+    Today, the Debusine developers launched
+    Debusine repositories,
+    a beta implementation of PPAs. In the announcement, Colin remarks that
+    "[d]iscussions about this have been happening for long enough
+  last_post_date: "2025-12-16T21:15:05Z"
+  last_post_link: https://www.kvr.at/posts/simple-ppa-a-minimalistic-ppa-implementation/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a40aa3803e3c496f56255b4e604f226c
+  last_post_guid: a6dbb8d44d77fc9a939d16a9667f70ec
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
-    hasPosts: 2
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 2
+  postcount: 3
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Code Without Rules
-date: "2024-01-09T15:35:59Z"
+date: "2025-12-22T16:46:49Z"
 description: ""
 params:
   feedlink: https://codewithoutrules.com/atom.xml

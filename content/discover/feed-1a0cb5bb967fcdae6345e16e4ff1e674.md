@@ -1,6 +1,6 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2025-07-30T19:15:00Z"
+date: "2026-01-21T12:44:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
@@ -8,7 +8,6 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
-    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
@@ -19,17 +18,16 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Today my brain wanted to think about one of the first dates I ever
-    went on
+  last_post_title: Much to the chagrin of all of my enemies, I am still alive and
+    thriving
   last_post_description: ""
-  last_post_date: "2025-07-30T19:15:00Z"
-  last_post_link: https://gkeenan.co/avgb/today-my-brain-wanted-to-think-about-one-of-the-first-dates-i-ever-went-on/
+  last_post_date: "2026-01-21T12:44:00Z"
+  last_post_link: https://gkeenan.co/avgb/much-to-the-chagrin-of-all-of-my-enemies-i-am-still-alive-and-thriving/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e08ac6daecced22bd282da0da1be1a8c
+  last_post_guid: ff0b0ef33204bcc3f66a2600403093c2
   score_criteria:
     cats: 0
     description: 3

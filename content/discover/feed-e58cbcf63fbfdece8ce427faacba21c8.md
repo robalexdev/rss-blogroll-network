@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Nano Banana can be prompt engineered for extremely nuanced AI image
-    generation
-  last_post_description: Nano Banana allows 32,768 input tokens and I’m going to try
-    to use them all dammit.
-  last_post_date: "2025-11-13T09:30:00-08:00"
-  last_post_link: https://minimaxir.com/2025/11/nano-banana-prompts/
+  last_post_title: Nano Banana Pro is the best AI image generator, with caveats
+  last_post_description: The problem with Nano Banana Pro is that it’s too good.
+  last_post_date: "2025-12-22T10:45:00-08:00"
+  last_post_link: https://minimaxir.com/2025/12/nano-banana-pro/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1775ad3197c2fd83cfd656c6e37b8a3e
+  last_post_guid: f6334112cc5632445bed5a472ed619d1
   score_criteria:
     cats: 0
     description: 3

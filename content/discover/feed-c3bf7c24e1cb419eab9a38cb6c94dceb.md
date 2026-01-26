@@ -8,7 +8,6 @@ params:
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
     https://www.pythonmorsels.com/articles/: false
-    https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -18,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Python REPL Shortcuts & Features
-  last_post_description: "Discover the new Python REPL features introduced in Python
-    3.13. From keyboard shortcuts to block navigation, this reference guide will help
-    you better utilize Python's interactive shell.\n  \n   "
-  last_post_date: "2025-09-08T22:00:00Z"
-  last_post_link: https://www.pythonmorsels.com/repl-features/
+  last_post_title: Self-concatenation
+  last_post_description: "Strings and other sequences can be multiplied by numbers
+    to self-concatenate them.\n  \n    Concatenating strings to numbers doesn't work\n
+    \   \n      \n        You can't use the plus sign (+) between a"
+  last_post_date: "2026-01-16T14:15:00Z"
+  last_post_link: https://www.pythonmorsels.com/self-concatenation/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9b625a62213aeeeddd7f0b372e18bdc3
+  last_post_guid: 0afa74404da15d186a0ce9f38dcd7b28
   score_criteria:
     cats: 0
     description: 3
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

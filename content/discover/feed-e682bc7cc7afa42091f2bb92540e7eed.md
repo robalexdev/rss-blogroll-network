@@ -12,64 +12,36 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
-  - Austin Kleon
-  - Journal et notes hebdo
-  - Journal et réflexions
-  - Nathalie Sejean
-  - Rennes
-  - blogging
-  - costumes bretons
-  - gravure
-  - gravure à l’eau-forte
-  - hérisson
-  - jardin
-  - linogravure
-  - perfectionnisme
+  - Internet
+  - Web et trouvailles
+  - blogs
+  - culture
+  - émotions
   relme:
-    https://eldritch.cafe/@LaLuneMauve: true
     https://lalunemauve.fr/: true
-    https://lunem.fr/mastodon: true
-    https://pixelfed.fr/LaLuneMauve: true
-  last_post_title: 'Journal #7 : comme du beurre sur une tartine trop grande'
-  last_post_description: Retour de mon journal, rempli de pensées douces-amères, de
-    gravure et de cogitations créatives, avec mes impressions sur l’atelier « Carnet
-    d’idées » de Nathalie Sejean. Il y a aussi des
-  last_post_date: "2025-10-31T06:07:54Z"
-  last_post_link: https://lalunemauve.fr/journal-7/
+  last_post_title: Les blogs que je lis en ce moment et que j’aime bien
+  last_post_description: 'J’ai longtemps cru que les blogs personnels étaient morts,
+    mais c’est faux : c’est juste moi qui ne savais pas où regarder. Telle un chien
+    truffier, je retourne Internet sans relâche pour'
+  last_post_date: "2026-01-25T15:51:33Z"
+  last_post_link: https://lalunemauve.fr/lecture-blogs/
   last_post_categories:
-  - Austin Kleon
-  - Journal et notes hebdo
-  - Journal et réflexions
-  - Nathalie Sejean
-  - Rennes
-  - blogging
-  - costumes bretons
-  - gravure
-  - gravure à l’eau-forte
-  - hérisson
-  - jardin
-  - linogravure
-  - perfectionnisme
+  - Internet
+  - Web et trouvailles
+  - blogs
+  - culture
+  - émotions
   last_post_language: ""
-  last_post_guid: 1969f350fc729ae8a35e79daefb5fa53
+  last_post_guid: 5c7ceaaeeb47ab4844df32b521c68804
   score_criteria:
     cats: 0
     description: 3

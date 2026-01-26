@@ -1,6 +1,6 @@
 ---
 title: mrale.ph
-date: "2025-10-02T19:43:50Z"
+date: "2026-01-05T18:30:42Z"
 description: ""
 params:
   feedlink: https://mrale.ph/atom.xml

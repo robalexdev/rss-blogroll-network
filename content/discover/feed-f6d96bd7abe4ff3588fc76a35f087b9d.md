@@ -16,22 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Gay
-  - 哲学
-  - 形下
-  - 生活
+  - 互联网
+  - 域名
+  - 术说
   relme: {}
-  last_post_title: 深柜者：无法接受失控，所以谎话连篇
-  last_post_description: 标题受启发于刀郎创作的歌曲《珠儿》的歌词“无法接受这失控的日子所以谎话连篇”，但本文与该歌曲无任何关联。
-  last_post_date: "2025-06-24T03:29:27Z"
-  last_post_link: https://www.ntiy.com/2296.html
+  last_post_title: 为什么域名没用了，还是那么多人抢？
+  last_post_description: !!binary |
+    5q+P5b2T5pyJ5Lq65Zyo6K665Z2b5LiK5Y+R6LW35YWz5LqO5Z+f5ZCN55qE6K6o6K665p
+    e277yM5aSn5qaC5bCx5pyJ5Lq656uZ5Ye65p2l6K+077ya546w5Zyo5piv56e75Yqo5LqS
+    6IGU572R5pe25Luj77yM5Z+f5ZCN5rKh55So5LqG77yM6LCB6L+Y5Lya5omL6L6T5Z+f5Z
+    CN5ZGi77yf5Lul5q2k5p2l5ZCm5a6a5Z+f5ZCN55qE5Lu35YC844CC6L8=
+  last_post_date: "2026-01-03T06:24:55Z"
+  last_post_link: https://www.ntiy.com/2326.html
   last_post_categories:
-  - Gay
-  - 哲学
-  - 形下
-  - 生活
+  - 互联网
+  - 域名
+  - 术说
   last_post_language: ""
-  last_post_guid: 235a177fbfdd80223406cda6f12fe11e
+  last_post_guid: 6ca67940135365283003f70fab3a0eb3
   score_criteria:
     cats: 0
     description: 3

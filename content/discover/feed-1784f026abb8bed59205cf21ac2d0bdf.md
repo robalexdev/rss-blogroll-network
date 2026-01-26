@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 资讯
+  - 教程
   relme: {}
-  last_post_title: 义乌电商补税 引发中小企业合规压力：现金流与运营成本双重考验
+  last_post_title: 如何进行ChatGPT的成年人认证的步骤教程
   last_post_description: !!binary |
-    6ZqP552A5Lit5Zu95Zu95a6256iO5Yqh5oC75bGA5o6o6L+b6YeR56iO5Zub5pyf57O757
-    uf5bu66K6+5ZKM5LqS6IGU572R5bmz5Y+w5raJ56iO5L+h5oGv5oql6YCB6KeE5a6a5a6e
-    5pa977yM5rWZ5rGf5LmJ5LmM5L2c5Li65YWo5Zu955S15ZWG6YeN6ZWH77yM5q2j6Z2i5L
-    i05paw5LiA6L2u56iO5Yqh56i95p+l5LiO6KGl56iO5rWq5r2u44CC5b0=
-  last_post_date: "2025-11-14T06:04:12Z"
-  last_post_link: https://topstip.com/yiwu-ecommerce-tax-supplement-pressure-smes-cashflow-operational-costs/
+    5YWz5LqO5aaC5L2V5a6M5oiQQ2hhdEdQVOaIkOW5tOS6uuiupOivgeeahOivpue7huatpe
+    mqpOaVmeeoi+OAgui/meS4gOWKn+iDveeUsU9wZW5BSeaOqOWHuu+8jOWFgeiuuDE45bKB
+    5Y+K5Lul5LiK55qE55So5oi36YCa6L+H5bm06b6E6aqM6K+B6Kej6ZSB5YyF5ous5oiQ54
+    af5Li76aKY5Zyo5YaF55qE6aKd5aSW5YaF5a6544CC5ZyoMjAyNuW5tOU=
+  last_post_date: "2025-12-25T03:35:48Z"
+  last_post_link: https://topstip.com/how-to-complete-adult-verification-for-chatgpt/
   last_post_categories:
-  - 资讯
+  - 教程
   last_post_language: ""
-  last_post_guid: afe2680c5c28a7d6f165ac724eda87a5
+  last_post_guid: fae2a319ecb4da859f1f184d4a4e5ccb
   score_criteria:
     cats: 0
     description: 3

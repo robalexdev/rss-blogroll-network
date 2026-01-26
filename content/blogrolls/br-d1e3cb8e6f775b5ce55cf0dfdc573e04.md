@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2025-11-15T07:52:41.414+00:00"
+date: "2026-01-23T03:47:22.421+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -12,18 +12,9 @@ params:
   - title: garrit.xyz
     description: Garrit Franke
     id: 08c9a1f191b05dfc5913700989658ade
-  - title: Hosts In The Shell
-    description: The podcast where Jon Richter and Matt Adcock, writers and cyberpunk
-      fans, discuss the genre's greatest works, as well as interviewing other cyberpunk
-      creators.
-    id: 0b45af3b7fcfdf7edb130f4a6bea4d9c
   - title: maya.land
     description: Personal website. Webby personsite. Amateur hour round the clock.
     id: 10bb443e7fc8db3e8611d373e8622da4
-  - title: All activity feed • Cory Dransfeldt
-    description: I'm a software developer in Camarillo, California. I write about
-      software development, technology and music.
-    id: 18d6c6bbccfba324876afe7c8235a6ec
   - title: Reilly Spitzfaden | Blog
     description: A blog about my personal interests, including composition and sound
       design; audio development using Max/MSP, C++, JUCE, and Rust; and web development
@@ -35,20 +26,9 @@ params:
   - title: Preem Chrome
     description: Last 10 notes on Preem Chrome
     id: 241fb3b3275aa3104188757b4a6a55ba
-  - title: Films To Be Buried With with Brett Goldstein
-    description: |-
-      We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death).
-
-
-
-      Join comedian, actor,
-    id: 2700ac6f034c8c2797cf23ac83ba2771
   - title: joelchrono's blog
     description: ""
     id: 2a21b8e739bdf0ebf3a771b247418b2b
-  - title: David Shanske
-    description: The Definitive Location
-    id: 3303315b93707037c1cba69a92a1c93f
   - title: anhvn
     description: personal website
     id: 3f87e5efacb76ccc7d00f56da25c0258
@@ -61,11 +41,6 @@ params:
   - title: Daryl Sun's Journal
     description: An online diary of a lady's misadventures in two worlds
     id: 44bd5dcf5ff7750f135a4a80abe544b0
-  - title: 'Eye of the Duck: A Film Podcast'
-    description: A podcast about movies and the scenes that make them special. Each
-      week, hosts Dom Nero and Adam Volerich explore a movie by finding the scene
-      at its core–what David Lynch calls an "Eye of the
-    id: 47ac61d57357594d535bed01b1daf98e
   - title: Cassidy Williams
     description: I'm Cassidy Williams, a software engineer, mom, and overall nerd
       in Chicago. I write about tech, projects, and whatever else I'm thinking about!
@@ -84,7 +59,7 @@ params:
     description: Journal of Rek
     id: 57dcf8543cbb02ab0d37b0d8115735a4
   - title: the webb blog
-    description: Welcome to Paul Anthony Webb's corner of the 'Net where he'll regale
+    description: Welcome to Paul Anthony Webb’s corner of the ’Net where he’ll regale
       you with whatever he finds interesting.
     id: 5ab1e9e54e1450536108c60f0e8ae2e4
   - title: The Filmcast
@@ -101,9 +76,6 @@ params:
       es Star Wars. Tendremos discusiones, reseñas y análisis de: las películas, series
       de TV, comics, libros, etc. \n\nSi eres fanatico"
     id: 5eec66bd094398b5931d2b09459fd9b3
-  - title: Posts and notes from Nick Simson
-    description: Nick's personal website and weblog
-    id: 6b75c02e948c792b0be43d468092b9fc
   - title: The Cryptid Factor
     description: Three best buddies - Rhys Darby, Dan Schreiber, and Leon 'Buttons' Kirkbeck bring you The Cryptid Factor 
     id: 7055c3f348abd3fc65a907972b8c4753
@@ -114,7 +86,7 @@ params:
   - title: '@muan''s stories'
     description: Stories.
     id: 71872194450e6f4a6dc23a4404d39599
-  - title: Lagomorph
+  - title: Home on Lagomorph
     description: ""
     id: 724ffd03c62f1443f79720852e49b7de
   - title: Film Not Included
@@ -126,18 +98,9 @@ params:
   - title: Clara Le
     description: Clara's ramblings
     id: 78b138aeecaba986fc523b4e9b1f7d78
-  - title: Simone's Computer
-    description: This is the blog of Simone
-    id: 7ac2230057907c76a1a0990e47182d17
-  - title: Piper Haywood
-    description: If lost, please return
-    id: 82f77c7961ec7b23a6fb229c20005934
   - title: Al Abut
     description: Writing by Al Abut, a product designer and startup veteran.
     id: 904c82c30c74ce67c472e02addbc47fb
-  - title: 'starbreaker.org: everything'
-    description: a full-text feed containing everything but the kitchen sink
-    id: 90902b21c326769a4dc4d9321d76b3d7
   - title: Manuel Moreale — Everything Feed
     description: Thoughts, Pictures, Interviews, and everything else I publish on
       my blog
@@ -148,9 +111,6 @@ params:
   - title: Mark Sutherland
     description: Web Developer based in Leicester, UK
     id: 980a94273809255fe20ccf072877a898
-  - title: James' Coffee Blog
-    description: ""
-    id: a2c9dc5128b08277e2da768b58211072
   - title: Bad Wolf Broadcast
     description: From Film Not Included creators, Oti and Tony, comes their new adventure
       as they take deep a dive into the fascinating world of DOCTOR WHO. Bad Wolf
@@ -183,10 +143,6 @@ params:
   - title: Ana Rodrigues
     description: A personal blog from Ana Rodrigues.
     id: cacaddc8702ee57ee6296639e416538a
-  - title: Pablo Morales
-    description: Entire Site RSS Feed Blog RSS Feed Photography RSS Feed Podcast RSS
-      Feed
-    id: ccc9a3066f0cf4b78454016735c97e08
   - title: fLaMEd fury
     description: What's going on Internet?
     id: ce8b8859381a725d3f983d596f3b0822
@@ -197,22 +153,12 @@ params:
     description: this is elle's homepage. i make stuff on the internet and i will
       put some of it on here
     id: d3392b515d5baad7ba61509515ce99e3
-  - title: Zachary Kai
-    description: Hi! I'm Zachary Kai, a space fantasy writer, offbeat queer, twenty-something,
-      curiosity enthusiast, and traveler.
-    id: dd61c3b24b397dc774295ab7c69d0e8c
   - title: véronique
     description: art, zines, feelings + web hearts
     id: e4061f4a9110209cb4bc38665a40304c
-  - title: saige's website
+  - title: leah's website
     description: ""
     id: e75d09c805d4b1981e2aad4415fcbe51
-  - title: Luke’s Wild Website - Blog
-    description: Blog posts from Luke’s Wild Website
-    id: e83dce242e0a7ba1641bd563f13e918c
-  - title: All Posts — gRegorLove.com
-    description: ""
-    id: f1971e84cb23bbec865905236cbb2687
   - title: The Rewatchables
     description: The Rewatchables, a film podcast from the Ringer Podcast Network,
       features The Ringer’s Bill Simmons and a roundtable of movie lovers from the
@@ -222,8 +168,7 @@ params:
     description: Thinking and Learning In Public
     id: f8113a925cb48b9a750df64675797e12
   - title: Popagandhi
-    description: long form essays, photos, recipes and other interests by adrianna
-      tan
+    description: punk rock since 2003
     id: fa05b90a36b93464d054fc88a5fb4acc
   - title: Anthony Ciccarello
     description: I'm a software engineer living in Southern California building cool

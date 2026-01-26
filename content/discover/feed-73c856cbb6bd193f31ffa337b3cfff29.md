@@ -18,16 +18,15 @@ params:
   categories: []
   relme:
     https://www.david-amador.com/: true
-  last_post_title: The Degradation of our attention spans
-  last_post_description: |-
-    An interruption
-    Ok, how did you get here?
-    Was it a notification, scrolling a feed, did you saw my post and pressed the link, an RSS feed perhaps? What was the interruption that broke your flow, and
-  last_post_date: "2025-09-22T12:10:00Z"
-  last_post_link: https://www.david-amador.com/2025/09/the-degradation-of-our-attention-spans/
+  last_post_title: Short Story - A Dog and a Backpack
+  last_post_description: John looked up, the sun was high and bright, scorching really,
+    if not for the contrast of the snow and ice covering the ground in every visible
+    direction as he looked down again. Up on the top of the
+  last_post_date: "2026-01-11T13:50:00Z"
+  last_post_link: https://www.david-amador.com/2026/01/short-story-a-dog-and-a-backpack/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43677458dc1088953e6db48404d39b0e
+  last_post_guid: 86cc47234d16e962d74956f6347496d7
   score_criteria:
     cats: 0
     description: 3

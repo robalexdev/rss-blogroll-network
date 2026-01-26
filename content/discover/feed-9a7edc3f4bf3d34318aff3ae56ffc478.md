@@ -11,34 +11,46 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Economy
-  - Evergy
-  - Missouri Public Service Commission
-  - data centers
-  - electric rates
+  - Bryan Wolfin
+  - Christopher Limbaugh
+  - Courts
+  - Jim Layton
+  - Kansas City Chiefs
+  - Legislature
+  - Mike Moon
+  - Ron Calzone
+  - property taxes
+  - stadium funding
+  - tax credits
   relme: {}
-  last_post_title: Missouri passes new rules, costs for data centers and large power
-    users
-  last_post_description: Missouri utility regulators on Thursday approved electric
-    rates to ensure large power users on its system are responsible for paying their
-    fair share of the effect their usage has on the power grid
-  last_post_date: "2025-11-14T21:05:05Z"
-  last_post_link: https://missouriindependent.com/briefs/missouri-passes-new-rules-costs-for-data-centers-and-large-power-users/
+  last_post_title: Judge weighing whether to allow April votes on new Missouri property
+    tax caps
+  last_post_description: While the Kansas City Chiefs are leaving Missouri and won’t
+    use the incentives lawmakers created for them last summer, the question of whether
+    other tax credits and property tax caps included in
+  last_post_date: "2026-01-26T15:00:42Z"
+  last_post_link: https://missouriindependent.com/2026/01/26/judge-weighing-whether-to-allow-april-votes-on-new-missouri-property-tax-caps/
   last_post_categories:
-  - Economy
-  - Evergy
-  - Missouri Public Service Commission
-  - data centers
-  - electric rates
+  - Bryan Wolfin
+  - Christopher Limbaugh
+  - Courts
+  - Jim Layton
+  - Kansas City Chiefs
+  - Legislature
+  - Mike Moon
+  - Ron Calzone
+  - property taxes
+  - stadium funding
+  - tax credits
   last_post_language: ""
-  last_post_guid: c70e19876712266f7e20f62b871e8bc0
+  last_post_guid: 02026121dd0d8bfec1cfab72cab0ebb7
   score_criteria:
     cats: 0
     description: 3

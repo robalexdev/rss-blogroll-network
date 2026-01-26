@@ -13,9 +13,6 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 8e0af65793c70cdfb849d18945e096f3
-  - title: ""
-    description: ""
     id: e404ff74c54ff7fd69894b6c2820c852
   recommended: []
   recommender: []

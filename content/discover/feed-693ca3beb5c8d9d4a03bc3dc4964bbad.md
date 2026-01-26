@@ -20,17 +20,15 @@ params:
   relme:
     https://github.com/Lruihao: true
     https://lruihao.cn/: true
-  last_post_title: Command line tool for generating a changelog from git tags and
-    commit history
-  last_post_description: "auto-changelog-plus\n \n \n \n中文 | English\n从 git 提交历史自动生成
-    changelog 的命令行工具。\n\n基于 auto-changelog 和 约定式提交 规范。\n\n\n\U0001F4E6 安装\n \n \n
-    \n\nnpm install "
-  last_post_date: "2025-08-30T15:40:19Z"
-  last_post_link: https://lruihao.cn/projects/lruihao/auto-changelog-plus/
+  last_post_title: A Christmas Easter Egg by JavaScript.
+  last_post_description: "特性\n \n \n \n\n\n\U0001F385 自动在圣诞节期间（12 月 20 日至 26 日）为网站
+    Logo 添加圣诞帽装饰\n\U0001F3AF 自动检测当前日期，无需手动开关\n\U0001F4AB"
+  last_post_date: "2025-12-24T03:31:47Z"
+  last_post_link: https://lruihao.cn/projects/hugo-fixit/cmpt-santa-hat/
   last_post_categories:
   - GitHub
   last_post_language: ""
-  last_post_guid: fec4d80e79a306a8cf12526cf205e2d4
+  last_post_guid: 3929e14b47895e2d2b02738a4dba1b94
   score_criteria:
     cats: 0
     description: 3

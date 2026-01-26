@@ -20,15 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Economics & labor rights in AI skepticism
-  last_post_description: 'There’s a growing attitude in the technology industry that
-    LLM technology is, or will be, the next great innovation to our work. Business
-    owners and workers alike seem to be in unlikely agreement:'
-  last_post_date: "2025-06-03T18:30:55Z"
-  last_post_link: https://henry.codes/writing/economics-and-labor-rights-in-ai-skepticism/
+  last_post_title: Things I did in 2025 that have nothing to do with the internet
+  last_post_description: |-
+    What I did
+
+    Did not buy any new clothing, save for DIY band merch. (I love fashion, and I did shop! I just only shopped vintage. It made it a really fun adventure, it turned every desire from a whim
+  last_post_date: "2026-01-03T15:03:00Z"
+  last_post_link: https://henry.codes/writing/2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fe0f6a7eb8e3fa0d639df836b0464d92
+  last_post_guid: 1ffb391c70666f5e045d576e30a38de9
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 27
+  postcount: 29
   avgpostlen: 0
 ---

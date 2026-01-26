@@ -16,14 +16,14 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - 随笔
   relme: {}
   last_post_title: 十月份已读乱回
   last_post_description: English Translation Here 小红书上时不时会看到一些感叹美国生活无聊的帖子，讨论的焦点往往是回国生活是否会更好。我自己经历过H
   last_post_date: "2025-10-13T04:13:46Z"
   last_post_link: https://wukan.me/?p=2686
   last_post_categories:
-  - Uncategorized
+  - 随笔
   last_post_language: ""
   last_post_guid: 1c4e096e0971b1b10d797d4b21d47a3a
   score_criteria:

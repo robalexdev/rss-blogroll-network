@@ -12,8 +12,7 @@ params:
     https://www.april.org/citations: false
     https://www.april.org/communiques: false
     https://www.april.org/event: false
-    https://www.april.org/event/2025-09: false
-    https://www.april.org/event/2025-11: false
+    https://www.april.org/event/2026-01: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:
@@ -26,17 +25,17 @@ params:
   - Article de presse
   - Le Logiciel Libre
   relme: {}
-  last_post_title: Revue de presse de l’April pour la semaine 45 de l’année 2025
-  last_post_description: "✍ Mathilde Obert,\n                  le mardi 4 novembre\n
-    \                 2025.\n                    \n                      Prévue pour
-    octobre 2025 et décalée d’un\n                      an, la"
-  last_post_date: "2025-11-12T19:33:00Z"
-  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-45-de-l-annee-2025
+  last_post_title: Revue de presse de l’April pour la semaine 4 de l’année 2026
+  last_post_description: "✍ Guillaume\n                  Belfiore, le lundi 19 janvier\n
+    \                 2026.\n                    \n                      Lancée début
+    janvier, la consultation\n                      publique"
+  last_post_date: "2026-01-26T11:00:25Z"
+  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-4-de-l-annee-2026
   last_post_categories:
   - Article de presse
   - Le Logiciel Libre
   last_post_language: ""
-  last_post_guid: 71dbeb09b540042b6ebdd36ceed2864c
+  last_post_guid: 98c9362469ed19e16fe6e9315c43f4aa
   score_criteria:
     cats: 0
     description: 3

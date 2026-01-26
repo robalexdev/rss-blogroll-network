@@ -44,7 +44,6 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
-  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
@@ -80,16 +79,14 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
-  - https://blog.citp.princeton.edu/comments/feed/
-  - https://blog.citp.princeton.edu/feed/
   - https://intellectualoid.com/comments/feed/
-  - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
   - https://kimberlyhirsh.com/podcast.xml
   - https://ma.tt/comments/feed/
   - https://memex.naughtons.org/comments/feed/
   - https://memex.naughtons.org/feed/
   - https://om.co/comments/feed/
+  - https://om.co/feed/podcast
   - https://pluralistic.net/comments/feed/
   - https://prologuist.blogspot.com/feeds/posts/default
   - https://prologuist.blogspot.com/feeds/posts/default?alt=rss
@@ -102,15 +99,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Really Solving Problems Means Knowing Root Causes
-  last_post_description: I was born in 1966 and thus part of Generation X. The primary
-    norm that I was taught to be in good standing within the U.S. social order can
-    be summed up in the phrase, “get a job!” It is that
-  last_post_date: "2025-10-29T13:21:09-05:00"
-  last_post_link: https://frankmcpherson.blog/2025/10/29/really-solving-problems-means-knowing.html
+  last_post_title: Accountability
+  last_post_description: Turns out that when you arm a group of men who has no accountability,
+    and the people who do the arming have no accountability, you get anarchy. The
+    first rule of supremacy is there is no
+  last_post_date: "2026-01-25T13:06:21-05:00"
+  last_post_link: https://frankmcpherson.blog/2026/01/25/accountability.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 696ce1b6aa7d168b043f7bb882c154f0
+  last_post_guid: 415a3fc2c9af922b80df77f547356c42
   score_criteria:
     cats: 0
     description: 0

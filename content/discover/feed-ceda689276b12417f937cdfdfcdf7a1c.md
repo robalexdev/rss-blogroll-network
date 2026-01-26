@@ -11,33 +11,33 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI
-  - AI Engineering
   - CI/CD
-  - Contributed
-  - DevOps
+  - JavaScript
+  - Operations
+  - Security
+  - contributed-sysdig
   relme: {}
-  last_post_title: 'AI Code Doesn’t Survive in Production: Here’s Why'
+  last_post_title: A security checklist for your React and Next.js apps
   last_post_description: |-
-    I see a new demo every day that looks something like this: A single prompt generates a complete application. A
-    The post AI Code Doesn’t Survive in Production: Here’s Why appeared first on The New
-  last_post_date: "2025-11-15T18:00:02Z"
-  last_post_link: https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/
+    Modern cloud native attacks don’t always rely on a single breakthrough exploit. Instead, threat actors chain together small assumptions, overlooked
+    The post A security checklist for your React and
+  last_post_date: "2026-01-26T15:00:40Z"
+  last_post_link: https://thenewstack.io/a-security-checklist-for-your-react-and-next-js-apps/
   last_post_categories:
-  - AI
-  - AI Engineering
   - CI/CD
-  - Contributed
-  - DevOps
+  - JavaScript
+  - Operations
+  - Security
+  - contributed-sysdig
   last_post_language: ""
-  last_post_guid: e8d90936ad98223ef9938b551d810258
+  last_post_guid: b3b19ac7b559b8caa3a89ccf5ceb8378
   score_criteria:
     cats: 0
     description: 0

@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: d97daf329c0bf44dc229ffc28b69e30e
   websites:
-    https://blogs.igalia.com/xavi: true
     https://blogs.igalia.com/xavi/: false
   blogrolls: []
   in_blogrolls:
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

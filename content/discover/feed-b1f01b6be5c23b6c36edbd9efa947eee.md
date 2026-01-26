@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Retro Tech Became the New Luxury
-  last_post_description: YouTube is full of videos with people trying to replace their
-    iPhone with half a dozen devices. They carry an iPod for music, a dedicated camera
-    to take photos, a Kindle for reading, a notebook for
-  last_post_date: "2025-11-13T23:20:00Z"
-  last_post_link: https://molodtsov.me/2025/11/retro-tech-luxury/
+  last_post_title: Founders’ Guide to Comms
+  last_post_description: If you’re a founder, neglecting public communications is
+    a drag on your business. It’s not something you should focus on primarily (that’s
+    what rage baiters do), but you should use this channel
+  last_post_date: "2026-01-13T21:00:00Z"
+  last_post_link: https://molodtsov.me/2026/01/founders-guide-comms/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 44675caf2d736d68432ff95bb9d4e8c4
+  last_post_guid: 16aed3a4dee73a765e94b7e5a1d6faa4
   score_criteria:
     cats: 0
     description: 3

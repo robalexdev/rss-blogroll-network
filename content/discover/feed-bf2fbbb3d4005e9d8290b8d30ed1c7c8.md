@@ -1,6 +1,6 @@
 ---
 title: The LibraryThing Blog
-date: "2025-11-05T20:48:08Z"
+date: "2026-01-12T16:04:31Z"
 description: ""
 params:
   feedlink: https://blog.librarything.com/feed/atom/
@@ -18,17 +18,17 @@ params:
   - author interview
   - interview
   relme: {}
-  last_post_title: 'Author Interview: Eugen Bacon'
-  last_post_description: LibraryThing is pleased to sit down this month with award-winning
-    African Australian author Eugen Bacon, whose Afro-Centered Futurisms in Our Speculative
-    Fiction just won an Ignyte Award, and who
-  last_post_date: "2025-11-05T20:48:08Z"
-  last_post_link: https://blog.librarything.com/2025/11/author-interview-eugen-bacon/
+  last_post_title: 'Author Interview: Kelly Scarborough'
+  last_post_description: LibraryThing is pleased to sit down this month with Kelly
+    Scarborough, who makes her authorial debut this month with Butterfly Games, a
+    historical novel set in the Swedish royal court during the
+  last_post_date: "2026-01-12T16:04:31Z"
+  last_post_link: https://blog.librarything.com/2026/01/author-interview-kelly-scarborough/
   last_post_categories:
   - author interview
   - interview
   last_post_language: ""
-  last_post_guid: 20eadd7340c3e1de2e6280bedac8b35e
+  last_post_guid: f345ea7e030e42bb09bb66b6658dfae0
   score_criteria:
     cats: 0
     description: 0

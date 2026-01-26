@@ -1,7 +1,7 @@
 ---
 title: Xuanwo's Blog
 date: "1970-01-01T00:00:00Z"
-description: Recent content on Xuanwo's Blog
+description: Achieving Data Freedom Through Open Source and Rust
 params:
   feedlink: https://xuanwo.io/index.xml
   feedtype: rss
@@ -22,19 +22,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I Coding? (Oct 2025 Edition)
-  last_post_description: Just one week after I published my Setp 2025 edition of How
-    I vibe coding, Anthropic released Claude Sonnet 4.5. That's a quick reminder that
-    in this field, SOTA doesn't stay still. This post updates
-  last_post_date: "2025-10-24T01:00:00Z"
-  last_post_link: https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/
+  last_post_title: Build GPUI + Ghostty without writing code
+  last_post_description: Hello everyone. Over the New Year holiday, I built gpui-ghostty.
+    It wo...
+  last_post_date: "2026-01-01T01:00:00Z"
+  last_post_link: https://xuanwo.io/2026/01-gpui-ghostty/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bc371b29a55fa88f76860f3451d5d82d
+  last_post_guid: 7ccff4dd1e23430272ba6c2f7f634932
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 1
+    feedlangs: 0
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -43,11 +42,11 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
-  postcount: 10
+  language: ""
+  postcount: 614
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Gordian
-date: "2025-06-11T17:37:13+02:00"
+date: "2025-12-09T18:15:07+01:00"
 description: |-
   If then such praise the Macedonian got
   For having rudely cut the Gordian Knot...
@@ -25,6 +25,7 @@ params:
   - JAX
   - Java
   - Maven
+  - Model Evolution
   - Modeling
   - Proposals
   - Tycho
@@ -57,31 +58,28 @@ params:
   - threading
   - version bytecode
   relme: {}
-  last_post_title: 'CDO: New Release, New Homepage'
+  last_post_title: Model Evolution Support - Santa Came Early for CDO Users!
   last_post_description: ""
-  last_post_date: "2025-06-11T17:37:13+02:00"
-  last_post_link: https://thegordian.blogspot.com/2025/06/cdo-new-release-new-homepage.html
+  last_post_date: "2025-12-09T18:15:07+01:00"
+  last_post_link: https://thegordian.blogspot.com/2025/12/model-evolution-support-santa-came.html
   last_post_categories:
   - CDO
-  - EMF
-  - Eclipse
-  - Modeling
-  - repository
+  - Model Evolution
   last_post_language: ""
-  last_post_guid: 750d9905b6e38c74307f61908034a6bd
+  last_post_guid: 0eae0cb344082724d7e15a2dd7eb7c8c
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 25
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

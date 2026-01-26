@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 搬家路上的7条碎碎念
-  last_post_description: |-
-    与其说是“漂泊”，不如说一直在路上。
-    1、深度保洁（暂时）祛魅。搬进去之后，我妈说一点都没弄干净，还有很多污垢；比如灶台的锈迹，做深度保
-  last_post_date: "2025-03-25T21:49:32+08:00"
-  last_post_link: https://demochen.com/posts/20250325/
+  last_post_title: AI浪潮下我的些许变化
+  last_post_description: 今天 (本文写自1月15日晚)
+  last_post_date: "2026-01-18T16:20:13+08:00"
+  last_post_link: https://demochen.com/posts/20260115/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 035662235f66077c6ae5d5c6a4e44d90
+  last_post_guid: 24e3a52096689d2130620c6d59069246
   score_criteria:
     cats: 0
     description: 3

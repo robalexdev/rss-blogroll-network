@@ -16,17 +16,24 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Call for collaboration: Disco web UI'
+  last_post_title: Disco Live!
   last_post_description: |-
-    tl;dr: I would like to have a web interface for Disco, a
+    Disco Live!
+
+
+
+
+    A couple months ago, I asked for
+    help
+    creating a web interface for
+    Disco, a
     student-oriented programming language for teaching functional
-    programming and discrete mathematics, which is implemented in Haskell.
-    I’m
-  last_post_date: "2025-11-10T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2025/11/10/disco-web-ui.html
+    programming and discrete mathematics. I am
+  last_post_date: "2026-01-09T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2026/01/09/disco-live.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5a785797ed803b9463e0b5390eb9324d
+  last_post_guid: b5f3753fccb3a13acdd35b080ab623ab
   score_criteria:
     cats: 0
     description: 3

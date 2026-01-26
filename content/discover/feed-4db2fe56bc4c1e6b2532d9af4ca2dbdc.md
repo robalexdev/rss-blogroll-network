@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 4db2fe56bc4c1e6b2532d9af4ca2dbdc
   websites:
-    https://home.wangjianshuo.com/cn: true
     https://home.wangjianshuo.com/cn/: false
   blogrolls: []
   in_blogrolls:
@@ -39,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2025-11-14T12:56:43Z"
+date: "2026-01-26T11:01:48Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,28 +17,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence AI
   - Biz Circuit
+  - Biz Circuit & Dev Loop
   - Dev Loop
-  - Generative AI
-  - Hot Topic
   - Qt Creator
+  - Releases
   relme: {}
-  last_post_title: Convert from Qt to Qt for MCU – Qt AI Assistant 0.9.7 released
-  last_post_description: Stretching your Qt UI to devices powered by microcontrollers
-    (MCU) is now even easier! The Qt Quick Ultralite Converter of the Qt AI Assistant
-    translates a QML to Ultralite-compliant code. It brings
-  last_post_date: "2025-11-13T10:33:44Z"
-  last_post_link: https://www.qt.io/blog/convert-from-qt-to-qt-for-mcu-qt-ai-assistant-0.9.7-released
+  last_post_title: Qt Creator 18.0.2 released
+  last_post_description: "We are happy to announce the release of Qt Creator 18.0.2!
+    \nThis release fixes a range of smaller issues like the persistence of the \"Always
+    save files before build\" option and an issue that occurred"
+  last_post_date: "2026-01-26T11:01:48Z"
+  last_post_link: https://www.qt.io/blog/qt-creator-18.0.2-released
   last_post_categories:
-  - Artificial Intelligence AI
   - Biz Circuit
+  - Biz Circuit & Dev Loop
   - Dev Loop
-  - Generative AI
-  - Hot Topic
   - Qt Creator
+  - Releases
   last_post_language: ""
-  last_post_guid: 3e0130235f7f6337268a57694f8c8882
+  last_post_guid: 77a9d90a8faffbaf2f38320488cb4799
   score_criteria:
     cats: 0
     description: 3

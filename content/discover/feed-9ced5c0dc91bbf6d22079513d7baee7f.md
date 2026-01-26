@@ -1,6 +1,6 @@
 ---
 title: Python Bytes
-date: "2025-09-08T00:00:00-08:00"
+date: "2026-01-19T00:00:00-08:00"
 description: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian
   Okken. The show is a short discussion on the headlines and noteworthy news in the
   Python, developer, and data science space.
@@ -21,15 +21,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: '#448 I''m Getting the BIOS Flavor'
-  last_post_description: "Topics covered in this episode:\n\n\n\t* prek*\n* tinyio*\n*
-    The power of Python’s print function*\n* Vibe Coding Fiasco: AI Agent Goes Rogue,
-    Deletes Company's Entire Database*\nExtras\nJoke\n\nWatch on"
-  last_post_date: "2025-09-08T00:00:00-08:00"
-  last_post_link: https://pythonbytes.fm/episodes/show/448/im-getting-the-bios-flavor
+  last_post_title: '#466 PSF Lands $1.5 million'
+  last_post_description: "Topics covered in this episode:\n\n\n\tBetter Django management
+    commands with django-click and django-typer\nPSF Lands a $1.5 million sponsorship
+    from Anthropic\nHow uv got so fast\nPyView Web"
+  last_post_date: "2026-01-19T00:00:00-08:00"
+  last_post_link: https://pythonbytes.fm/episodes/show/466/psf-lands-1.5-million
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6e4ecdde080f0eaea08aec3c6ab8fa4c
+  last_post_guid: ad1ab5801b8e91d44579e4bedfc2fd7c
   score_criteria:
     cats: 2
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 448
+  postcount: 10
   avgpostlen: 0
 ---

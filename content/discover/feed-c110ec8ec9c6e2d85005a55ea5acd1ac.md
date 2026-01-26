@@ -19,15 +19,16 @@ params:
   categories:
   - Ephemeral Scrapbook
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — Edition 2025-45
-  last_post_description: Contrary to persistent rumors, the web is still full of gems.
-    This human-made newsletter tries to give you glimpse of this.
-  last_post_date: "2025-11-06T12:13:49Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-edition-2025-45/
+  last_post_title: The Ephemeral Scrapbook — 2026.01.18
+  last_post_description: "First edition of 2026. I’m officially part of the Secret
+    Internet Curators or SIC. This newsletter is the fruit of my hard labour as a
+    member of the SIC team.\U0001F575\U0001F3FB‍♂️"
+  last_post_date: "2026-01-18T14:22:35Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-01-18/
   last_post_categories:
   - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: efd32c9938489982080de2ac8c65ff9e
+  last_post_guid: 017430cffdfe932a4298db1088792816
   score_criteria:
     cats: 0
     description: 3

@@ -12,43 +12,26 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 7c57874819a3b666310d14cda337b41d
-  - title: ""
-    description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
   relme:
     https://clarale.com/: true
     https://github.com/hgcl: true
     https://github.com/hgcl/: true
     https://mastodon.roflcopter.fr/@clarale: true
-  last_post_title: Water kefir log
+  last_post_title: Creating a UI library for Next.js with Storybook
   last_post_description: |-
-    Here is an ongoing log of my water kefir experiments (most recent at the top). The objective is to improve my process, updating my basic recipe as I go.
-
-    2025-10-03
-    Changes in the process:
-
-    Add
-  last_post_date: "2025-09-24T00:00:00Z"
-  last_post_link: https://clarale.com/posts/water-kefir-log/
+    Here is a recap of how I created a UI library (with Storybook and TypeScript) optimized for a Next.js website.
+    Initialize a new project
+    Create a new project, and initialize it with Node.js.
+    mkdir ui
+  last_post_date: "2026-01-15T00:00:00Z"
+  last_post_link: https://clarale.com/posts/creating-a-ui-library-for-nextjs-with-storybook/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c733245ae59355edde07ca167f543d7a
+  last_post_guid: 4da9255ca2a52478563bb5886795ca24
   score_criteria:
     cats: 0
     description: 3

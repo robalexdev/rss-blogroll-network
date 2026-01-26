@@ -11,31 +11,68 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - AI
+  - AI Glasses
+  - Accessibility
+  - Creators
+  - Data Centers
+  - Edits
+  - Facebook
+  - Infrastructure
+  - Instagram
+  - Meta
+  - Oakley Meta Glasses
+  - Open Source
   - Product News
+  - Ray-Ban Meta Glasses
   - Recent News
+  - Reels
   - Sidebar - Featured
+  - Sustainability
+  - Technology and Innovation
   - Threads
+  - WhatsApp
+  - Youth Well-Being Resources
   relme: {}
-  last_post_title: Introducing Disappearing Posts on Threads
-  last_post_description: |-
-    We're launching ghost posts, Threads posts that are automatically archived after 24 hours so you can share your unfiltered thoughts.
-    The post Introducing Disappearing Posts on Threads appeared first
-  last_post_date: "2025-10-27T16:00:04Z"
-  last_post_link: https://about.fb.com/news/2025/10/introducing-disappearing-posts-on-threads/
+  last_post_title: 'AI Breakthroughs, Our Most Advanced Glasses, and More: Meta’s
+    2025 Highlights'
+  last_post_description: "We’re looking back at Meta's biggest moments of 2025, including
+    our vision for superintelligence, new AI glasses, strengthened protections for
+    teens, and more. \nThe post AI Breakthroughs, Our Most"
+  last_post_date: "2025-12-19T20:00:59Z"
+  last_post_link: https://about.fb.com/news/2025/12/ai-breakthroughs-advanced-ai-glasses-meta-2025-highlights/
   last_post_categories:
+  - AI
+  - AI Glasses
+  - Accessibility
+  - Creators
+  - Data Centers
+  - Edits
+  - Facebook
+  - Infrastructure
+  - Instagram
+  - Meta
+  - Oakley Meta Glasses
+  - Open Source
   - Product News
+  - Ray-Ban Meta Glasses
   - Recent News
+  - Reels
   - Sidebar - Featured
+  - Sustainability
+  - Technology and Innovation
   - Threads
+  - WhatsApp
+  - Youth Well-Being Resources
   last_post_language: ""
-  last_post_guid: b463c9bf2613478906adc19a40993bbd
+  last_post_guid: 716dbbc384281aa9ef5aba9bdc47d1be
   score_criteria:
     cats: 0
     description: 0

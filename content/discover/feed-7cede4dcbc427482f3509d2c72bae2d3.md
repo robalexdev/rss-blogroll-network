@@ -10,18 +10,15 @@ params:
     https://xkcd.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Dan Q's Blogroll
+  - title: Alex Zee Comedy Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
+    id: ec90496862be28875cc54bc36aa37ca7
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Blogroll
     description: ""
@@ -36,26 +33,22 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Beam Dump
+  last_post_title: Double-Pronged Extension Cord
   last_post_description: ""
-  last_post_date: "2025-11-14T05:00:00Z"
-  last_post_link: https://xkcd.com/3168/
+  last_post_date: "2026-01-23T05:00:00Z"
+  last_post_link: https://xkcd.com/3198/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e3bf347ee35460ce9e8f0d5f3c10adf1
+  last_post_guid: bd94c0a9e78b95f01168f6f40168a911
   score_criteria:
     cats: 0
     description: 3

@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 9fde18f0e6557cda1c6a58ec2134baec
   websites:
-    https://trysmudford.com/: false
     https://www.trysmudford.com/: false
     https://www.trysmudford.com/blog/: true
   blogrolls: []

@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2025-11-10T00:00:00+01:00"
+date: "2026-01-23T00:00:00+01:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -19,16 +19,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: TTS still sucks
-  last_post_description: 'or at least the open versions of it. I have this very stupid
-    rule. A couple of years ago I decided to turn this blog into a podcast. At the
-    time, I decided to make up a stupid rule: whatever model I'
-  last_post_date: "2025-11-10T00:00:00+01:00"
-  last_post_link: https://duarteocarmo.com/blog/tts-still-sucks.html
+  last_post_title: How to police your agents
+  last_post_description: Let's face it. It might just be the year of agents. If you
+    work in tech and your workflow hasn't changed in the last year or so - you're
+    probably doing something wrong. For those of you who have.
+  last_post_date: "2026-01-23T00:00:00+01:00"
+  last_post_link: https://duarteocarmo.com/blog/how-to-police-your-agents.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: d7957a576841dba078831e912fdd4d81
+  last_post_guid: 18496de7909e36ab6591e7c13245d617
   score_criteria:
     cats: 0
     description: 0
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 59
-  avgpostlen: 271
+  postcount: 63
+  avgpostlen: 272
 ---

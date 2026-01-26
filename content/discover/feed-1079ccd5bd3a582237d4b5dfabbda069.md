@@ -17,39 +17,42 @@ params:
   recommender: []
   categories:
   - '#napoli'
-  - Editoriale
-  - LNDA25
-  - Linux Day Napoli 2025
+  - NaLUGAtUniNA
   - News
+  - OPM
+  - OpenStreetMap
+  - Riunioni
+  - database
   - freesoftware
-  - grazie
-  - libertàdigitali
   - libresoftware
-  - linuxday2025
+  - linux
+  - meeting
   - openhardware
   - opensource
+  - riunione didattica
   relme: {}
-  last_post_title: Linux Day Napoli 2025 – Grazie!
-  last_post_description: Grazie! Anche questa edizione è giunta al termine. Mesi di
-    febbrili preparativi che terminano in una giornata intensa e piena di cose da
-    fare. La soddisfazione che si ha a fine evento è enorme! Ci
-  last_post_date: "2025-10-26T20:27:48Z"
-  last_post_link: https://www.nalug.tech/linux-day-napoli-2025-grazie/
+  last_post_title: NaLUG@UniNA – sabato 20 dicembre 2025
+  last_post_description: Ciclo di incontri su software e hardware open source e libertà
+    digitali
+  last_post_date: "2025-12-17T16:34:59Z"
+  last_post_link: https://www.nalug.tech/nalugunina-sabato-20-dicembre-2025/
   last_post_categories:
   - '#napoli'
-  - Editoriale
-  - LNDA25
-  - Linux Day Napoli 2025
+  - NaLUGAtUniNA
   - News
+  - OPM
+  - OpenStreetMap
+  - Riunioni
+  - database
   - freesoftware
-  - grazie
-  - libertàdigitali
   - libresoftware
-  - linuxday2025
+  - linux
+  - meeting
   - openhardware
   - opensource
+  - riunione didattica
   last_post_language: ""
-  last_post_guid: 62d00236ec688fd575e66c2ab3b8f601
+  last_post_guid: 8b92d14a6ae660f996724d0d33f2db9c
   score_criteria:
     cats: 0
     description: 3

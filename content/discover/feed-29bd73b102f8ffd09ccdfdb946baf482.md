@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2025 Wendy Huang Lectures
-  last_post_description: I will be giving the 2025 Wendy Huang Lectures at the invitation
-    of the Taiwan Association for Logic, Methodology and Philosophy of Science, at
-    National Taiwan University, in Taipei, from October 21
-  last_post_date: "2025-10-21T14:00:00Z"
-  last_post_link: https://consequently.org/presentation/2025/whl/
+  last_post_title: Why Logic Matters for Philosophy, and why Philosophy Matters for
+    Logic
+  last_post_description: This is a longer, more relaxed and interactive version of
+    the talk â€œWhy Logic Matters for Philosophy, and why Philosophy Matters for Logicâ€�
+    that I first gave as a part of the Inaugural
+  last_post_date: "2025-11-18T19:30:00Z"
+  last_post_link: https://consequently.org/presentation/2025/wlmfp-wpmfl-p/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f9bb2368933f6a0e6ba6c17d19f5fb1f
+  last_post_guid: 08671471c9f34c28eaf47a5e24994790
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 705
+  postcount: 710
   avgpostlen: 0
 ---

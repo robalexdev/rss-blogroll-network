@@ -1,6 +1,6 @@
 ---
 title: Planet Eclipse
-date: Sat, 15 Nov 2025 17:40:55 GMT
+date: Mon, 26 Jan 2026 10:48:13 GMT
 description: ""
 params:
   link: https://planeteclipse.org/planet/opml.xml
@@ -64,10 +64,6 @@ params:
   - title: EclipsePlanet – Flos Blog
     description: ""
     id: 1221f6035fa694191d699e214e8afad8
-  - title: Yet Another Eclipse Project Blog
-    description: A blog about Eclipse Modeling and especially on EEF, for extending
-      the EMF editing framework.
-    id: 12aacb310410fcd0afb554e06382de40
   - title: Programming Barn
     description: Collection of notes on common problems and issues I faced while doing
       day to day programming
@@ -183,11 +179,6 @@ params:
   - title: Blinki’s Blog | Eclipse Mobile Dev
     description: mobile development for and about Eclipse
     id: 2bec1b51c2e45ffd0201b10ce03dca89
-  - title: Computing Reality
-    description: Software is eating the world! Or is it? The real world is far too
-      complex to ever capture in code. Given that it isn't fully digestible, shouldn't
-      we try to write code that reflects the beauty in the
-    id: 2c1bc024f76599d569c36b8949374ef5
   - title: Open Source Musings
     description: Random thoughts and discussions mostly about open source, including
       business and economic models. Discussions about software engineering, Eclipse,
@@ -272,9 +263,6 @@ params:
   - title: Eclipse – 42aross
     description: Andrea through the looking glass
     id: 45179209d01fb0dd0776018962e1e4d8
-  - title: eclipse and me
-    description: my experiences as I use, develop and hack Eclipse
-    id: 45f4a090e7765697a4a97964ed5b7734
   - title: Java Persistence Performance
     description: A blog on Java, performance, scalability, concurrency, object-relational
       mapping (ORM), Java Persistence API (JPA), persistence, databases, caching,
@@ -330,9 +318,6 @@ params:
   - title: N4JS Developer Blog
     description: Highlights, insights and announcements of the N4JS project.
     id: 5953464a54980e8b6bc6d120fb3a454c
-  - title: Paul Buck's blog
-    description: ""
-    id: 599c2c9384a3c833c3818b6ac01ad1f4
   - title: Nirmal's Blog
     description: Burn your eyes
     id: 5a9f412890524877ccc831299132f082
@@ -396,9 +381,6 @@ params:
   - title: publicabstractvoid
     description: Notes of a software developer
     id: 6b5c1d291a8eafc8a50020e563365c07
-  - title: InfoQ - Eclipse
-    description: InfoQ Eclipse feed
-    id: 6b6f74715f79b2f306b8e7487a4bca3d
   - title: Stories by Roxanne on IoT on Medium
     description: Stories by Roxanne on IoT on Medium
     id: 6c172821e76ff2c98a6c3082cd303e26
@@ -427,10 +409,6 @@ params:
   - title: Benoit Langlois
     description: ""
     id: 76e46717e765c84074b2904941710d73
-  - title: Eclipse Ditto Blog
-    description: Announcements, tutorials and examples around Eclipse Ditto and Digital
-      Twins
-    id: 78325d243f9f9522f0e2f29f15265b26
   - title: CEO @ Obeo
     description: ""
     id: 7859d2aa829b6f53aa72b4326c8dc5c3
@@ -661,8 +639,8 @@ params:
   - title: bkapukaranov
     description: ""
     id: c752516a91b3e5fadebaee5679180983
-  - title: eclipse on Idiomaticsoft International LLC
-    description: Recent content in eclipse on Idiomaticsoft International LLC
+  - title: Eclipse on Idiomaticsoft International LLC
+    description: Recent content in Eclipse on Idiomaticsoft International LLC
     id: c814b0874cbf9e2ffba23b8092f73f13
   - title: Opera Omnia
     description: Recent content on Opera Omnia
@@ -699,9 +677,6 @@ params:
   - title: Eclipse IDE – What the Future Holds!
     description: Where Java Lives!
     id: d57eda3feafa0a59eb7e985d20844572
-  - title: Vladimir Prus
-    description: ""
-    id: d62a2171422d4741ddbd1a34318ec347
   - title: Eclipse from the bottom up
     description: The view of the Eclipse world from the bottom of the stack
     id: d68ef3916ee5e56f55554d4fdc9b69a5

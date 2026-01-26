@@ -1,6 +1,6 @@
 ---
 title: Eclipse Summer of Code
-date: "2025-10-21T08:03:26Z"
+date: "2025-12-15T04:06:13Z"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/3563144813378269956/posts/default

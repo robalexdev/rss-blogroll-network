@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2025-08-01T01:51:30Z"
+date: "2025-12-26T04:19:06Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://sneak.berlin/: true
-  last_post_title: Show Candidates Your Cap Table.
-  last_post_description: 'It’s hard enough trying to decide if you should take a job
-    with an early-stage startup. There’s so much uncertainty: the product, your reputation,
-    salary (as always), and, of course, equity.'
-  last_post_date: "2025-08-01T01:51:15Z"
-  last_post_link: https://sneak.berlin/20250801/show-candidates-your-cap-table/
+  last_post_title: Build / Buy / Bot
+  last_post_description: In the old days when you ran your startup, you had to focus
+    on your core objectives very closely in the early days. You had a limited number
+    of innovation tokens, and beyond that you had to focus on
+  last_post_date: "2025-12-26T04:18:36Z"
+  last_post_link: https://sneak.berlin/20251224/build-buy-bot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1fa3a5721c8a7315d481bea42d19472b
+  last_post_guid: d63dcfc4fa32a23dbbc07d01bbd4cc27
   score_criteria:
     cats: 0
     description: 3

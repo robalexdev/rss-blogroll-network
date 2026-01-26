@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Making Code Generators Pleasant to Use
-  last_post_description: I feel that code generators for communication protocols are
-    a chore to use. Let's see why that's the case, and how we can improve them.
-  last_post_date: "2024-07-20T16:30:00+02:00"
-  last_post_link: https://hypirion.com/musings/making-code-generators-pleasant-to-use
+  last_post_title: Use Python for Scripting!
+  last_post_description: '"Use the right tool" is nice in theory, but not when the
+    tool acts a bit differently from machine to machine, and isn''t always installed.'
+  last_post_date: "2025-12-06T20:37:00+01:00"
+  last_post_link: https://hypirion.com/musings/use-python-for-scripting
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 67482fedcc41c9c331e079ec7441d392
+  last_post_guid: 7bfb0af56721048709f6e077438b83af
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 38
+  postcount: 39
   avgpostlen: 0
 ---

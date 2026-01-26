@@ -12,23 +12,14 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - film
   - music
@@ -36,19 +27,21 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: The Internet Phone Book
-  last_post_description: An annual publication for exploring the vast poetic web,
-    featuring essays, musings and a directory with the personal websites of hundreds
-    of designers, developers, writers, curators, and educators.
-  last_post_date: "2025-10-15T14:09:22Z"
-  last_post_link: https://polytechnic.co.uk/blog/2025/10/the-internet-phone-book/
+  last_post_title: Top albums and films (and other stats) for 2025
+  last_post_description: "Blimey, I've been doing these for 12 years! \nIf you like
+    this, then you'll definitely like Simon and Jon's roundups of 2025. I always find
+    something new to add to the pile in their choices.\nLet's get"
+  last_post_date: "2025-12-31T19:21:55Z"
+  last_post_link: https://polytechnic.co.uk/blog/2025/12/top-albums-and-films-and-other-stats-for-2025/
   last_post_categories:
-  - book
-  - indieweb
-  - internet
-  - phonebook
+  - books
+  - cinema
+  - films
+  - games
+  - music
+  - top10
   last_post_language: ""
-  last_post_guid: 70f992f9ad7c1cac07518dc4f08adace
+  last_post_guid: 32e370cf1ede3fdcabb494c4f69c8df5
   score_criteria:
     cats: 5
     description: 3

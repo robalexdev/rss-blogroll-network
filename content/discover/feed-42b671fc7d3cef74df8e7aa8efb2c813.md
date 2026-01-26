@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Hot reloading is better than SwiftUI previews
-  last_post_description: Did you know you can change the code of a SwiftUI app while
-    it’s running? And that you can do it without using Xcode? The technique is called
-    ‘hot reloading’ and I’ll show you how to do it by
-  last_post_date: "2025-10-13T00:00:00Z"
-  last_post_link: https://danielchasehooper.com/posts/hot-reloading-swiftui/
+  last_post_title: Testing Opus 4.5 For C Programming
+  last_post_description: |-
+    A grumpy C programmer sees what all the fuss is about
+          Read the whole article on danielchasehooper.com →
+  last_post_date: "2026-01-07T00:00:00Z"
+  last_post_link: https://danielchasehooper.com/posts/code-agents/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c45e2ee9e1264d34412994037bb2fb81
+  last_post_guid: 9ff49d9c881ccf70ac4870c7df489a91
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 10
   avgpostlen: 0
 ---

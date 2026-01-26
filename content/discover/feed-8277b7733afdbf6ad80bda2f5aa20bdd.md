@@ -12,36 +12,33 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Food
-  - Food Stamps
-  - Kathy Hochul
-  - Poverty
-  - SNAP
-  - Trump Administration
+  - City Department of Education
+  - Department of Education
+  - Public Schools
+  - Schools
+  - Zohran Mamdani
   relme: {}
-  last_post_title: SNAP Is Funded Again. States Still Have to Deal With Trump’s New
-    Eligibility Restrictions.
-  last_post_description: With the government shutdown ended and funding for the Supplemental
-    Nutrition Assistance Program assured through September 2026, millions of Americans
-    are about to start getting regular food aid
-  last_post_date: "2025-11-14T19:31:47Z"
-  last_post_link: https://www.thecity.nyc/2025/11/14/snap-work-requirements-hochul-trump/
+  last_post_title: NYC Schools to Go Remote Monday as Snow Blankets City
+  last_post_description: Mayor Zohran Mamdani announced a remote learning day Monday
+    for nearly a million public school students, with up to a foot of snow expected
+    to fall on the city over the weekend. Frigid temperatures
+  last_post_date: "2026-01-25T14:48:34Z"
+  last_post_link: https://www.thecity.nyc/2026/01/25/nyc-schools-remote-monday-mamdani/
   last_post_categories:
-  - Food
-  - Food Stamps
-  - Kathy Hochul
-  - Poverty
-  - SNAP
-  - Trump Administration
+  - City Department of Education
+  - Department of Education
+  - Public Schools
+  - Schools
+  - Zohran Mamdani
   last_post_language: ""
-  last_post_guid: c74a46b40100c74674f1884d0bc65d3c
+  last_post_guid: 1e01dd5bb95b50f851e23a520ad4d017
   score_criteria:
     cats: 0
     description: 3

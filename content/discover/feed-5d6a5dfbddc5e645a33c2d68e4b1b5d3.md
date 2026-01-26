@@ -1,67 +1,47 @@
 ---
 title: simply.
-date: "2025-10-28T18:20:42Z"
+date: "2026-01-25T15:56:28Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
   feedtype: atom
   feedid: 5d6a5dfbddc5e645a33c2d68e4b1b5d3
   websites:
-    https://simply.jenett.org/: false
     https://simply.joejenett.com/: true
-    https://simply.micro.jenett.org/: false
-    https://simply.personal.jenett.org/: false
   blogrolls: []
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.4.
+      by feedlandDatabase v0.8.14.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
-  recommender:
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
+  recommender: []
   categories:
-  - '["haiku", "ideas"]'
+  - '["personal"]'
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
-    https://directory.jenett.org/: true
     https://directory.joejenett.com/: true
     https://github.com/joejenett: true
     https://ideas.joejenett.com/: true
-    https://iwebthings.jenett.org/: true
     https://iwebthings.joejenett.com/: true
-    https://jenett.org/: true
-    https://joe.jenett.org/: true
-    https://joe.joejenett.com/: true
     https://joejenett.com/: true
     https://joejenett.github.io/i.webthings/: true
-    https://linkscatter.jenett.org/: true
     https://linkscatter.joejenett.com/: true
-    https://mastodon.online/@iwebthings: true
-    https://mastodon.online/@jenett: true
-    https://photo.jenett.org/: true
     https://photo.joejenett.com/: true
-    https://simply.jenett.org/: true
     https://simply.joejenett.com/: true
-    https://simply.micro.jenett.org/: true
-    https://simply.personal.jenett.org/: true
     https://toot.community/@jenett: true
-    https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: livehaiku 08-21-25
-  last_post_description: maybe lost someone a looming dark memory overwhelming blues
-    a grand play-to-pay happening in front of us a train wreck looming lost? motherf*in’
-    blues chew you up and spit you out leave you but to
-  last_post_date: "2025-08-21T15:10:33Z"
-  last_post_link: https://simply.joejenett.com/livehaiku-08-21-25/
+  last_post_title: bad Apple…bad!
+  last_post_description: I find it hard to believe that Apple is programmatically
+    nagging users to update to Tahoe (despite compatibility issues) without giving
+    users the choice to say no. Some time ago, I learned the hard
+  last_post_date: "2026-01-13T19:02:39Z"
+  last_post_link: https://simply.joejenett.com/bad-apple-bad/
   last_post_categories:
-  - '["haiku", "ideas"]'
+  - '["personal"]'
   last_post_language: ""
-  last_post_guid: df73df80c13be386c7fe9efabdd56eb8
+  last_post_guid: b7e0ec8d8bab99273cb55ebb0f522fce
   score_criteria:
     cats: 0
     description: 3
@@ -80,5 +60,5 @@ params:
   innetwork: true
   language: ""
   postcount: 7
-  avgpostlen: 166
+  avgpostlen: 180
 ---

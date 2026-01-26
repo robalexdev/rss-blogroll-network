@@ -9,19 +9,14 @@ params:
   websites:
     https://rushkoff.com/: true
     https://rushkoff.com/blog/: false
-    https://www.rushkoff.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
-  - title: Frank Meeuwsen - Blogroll
-    description: ""
-    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
   categories:
   - Essays
   relme:

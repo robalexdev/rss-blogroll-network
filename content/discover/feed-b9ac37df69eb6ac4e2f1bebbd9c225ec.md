@@ -1,6 +1,6 @@
 ---
 title: David Walsh Blog
-date: "2025-03-24T22:58:30Z"
+date: "2025-11-20T00:40:04Z"
 description: A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress,
   and everything else development.
 params:
@@ -20,33 +20,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Sponsored
   - Uncategorized
   relme: {}
-  last_post_title: Easy way to upload, transform and deliver files and images (Sponsored)
-  last_post_description: Managing media is a really difficult task if you try to do
-    all of it yourself, especially if the media comes from other sources. The file
-    can be submitted in any state and size, but what if you need
-  last_post_date: "2025-03-24T22:58:30Z"
-  last_post_link: https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images
+  last_post_title: JavaScript SpeechSynthesis API
+  last_post_description: As the web continues to be the medium for all users, standards
+    bodies need to continue to provide new APIs to enrich user experience and accessibility.
+    One underused API for unsighted users is
+  last_post_date: "2025-11-20T00:40:04Z"
+  last_post_link: https://davidwalsh.name/speechsynthesis-api
   last_post_categories:
-  - Sponsored
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 652b867497e02309219490e5c414b35d
+  last_post_guid: 8c3233150018d36e4c8a3106adf9386e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

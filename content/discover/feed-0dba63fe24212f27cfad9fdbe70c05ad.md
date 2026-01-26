@@ -10,7 +10,6 @@ params:
     https://ttntm.me/: false
     https://ttntm.me/blog/: false
     https://ttntm.me/everything/: false
-    https://ttntm.me/hello: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true
     https://ttntm.me/notes/: false
@@ -39,7 +38,7 @@ params:
   - https://theleafslug.com/posts/feed.xml
   - https://theleafslug.com/recommendations/feed.xml
   - https://theleafslug.com/tils/feed.xml
-  - https://www.lkhrs.com/
+  - https://www.lkhrs.com/blog/rss/
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml
   recommender: []
@@ -70,6 +69,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 54
-  avgpostlen: 253
+  postcount: 55
+  avgpostlen: 254
 ---

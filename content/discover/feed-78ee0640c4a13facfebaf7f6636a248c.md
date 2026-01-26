@@ -1,6 +1,6 @@
 ---
 title: 'Paul Khuong: some Lisp'
-date: "2025-08-24T19:57:31-04:00"
+date: "2026-01-04T10:45:59-05:00"
 description: ""
 params:
   feedlink: https://pvk.ca/atom.xml
@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Monoid-augmented FIFOs, deamortised
+  last_post_title: 'Six versions accessing: wait-free protected versions with bounded
+    cardinality'
   last_post_description: ""
-  last_post_date: "2025-08-19T23:16:07-04:00"
-  last_post_link: https://www.pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/
+  last_post_date: "2025-12-30T10:32:38-05:00"
+  last_post_link: https://www.pvk.ca/Blog/2025/12/30/six-versions-accessing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5775db8c201a0238d58b63bebc0bc1b3
+  last_post_guid: 60aaab568faa0b65b975a09ca1db55ae
   score_criteria:
     cats: 0
     description: 0

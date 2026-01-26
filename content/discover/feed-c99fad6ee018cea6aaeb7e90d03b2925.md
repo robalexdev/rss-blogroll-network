@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: Aurel's Grand Theater
+  last_post_title: Orchid ORC—1
   last_post_description: ""
-  last_post_date: "2025-06-06T20:51:32Z"
-  last_post_link: https://aurelienvigne.com/
+  last_post_date: "2025-11-16T12:51:43Z"
+  last_post_link: https://telepathicinstruments.com/products/orchid-orc-1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c4c88831900706898c17a4485ef369e4
+  last_post_guid: 786b8e9dc0f4a2d8992bf32b3497bb6b
   score_criteria:
     cats: 0
     description: 3

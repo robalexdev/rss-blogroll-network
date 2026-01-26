@@ -17,16 +17,16 @@ params:
   categories:
   - Mozilla
   relme: {}
-  last_post_title: Summer of Sharpening
-  last_post_description: "As we head into fall, I wanted to write up a bit of an experience
-    report on a project I ran this summer with a few other people on the SpiderMonkey
-    team. \nA few of us on the team chose to block off"
-  last_post_date: "2025-09-29T16:54:00Z"
-  last_post_link: https://www.mgaudet.ca/technical/2025/9/29/summer-of-sharpening
+  last_post_title: Non-Traditional Profiling
+  last_post_description: Also known as “you can just put whatever you want in a jitdump
+    you know?”When you profile JIT code, you have to tell a profiler what on earth
+    is going on in those JIT bytes you wrote out.
+  last_post_date: "2026-01-08T21:46:54Z"
+  last_post_link: https://www.mgaudet.ca/technical/2026/1/8/non-traditional-profiling
   last_post_categories:
   - Mozilla
   last_post_language: ""
-  last_post_guid: 3f17c8da96be9bac7d88d3f5383a2a79
+  last_post_guid: c196c9d32d50b106d1d9d50079ae7c8f
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 8
   avgpostlen: 0
 ---

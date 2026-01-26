@@ -17,33 +17,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
   - featured
   relme: {}
-  last_post_title: Can LLMs dream of Electric Sheep?
-  last_post_description: I forgot to cancel my Midjourney v7 subscription last month.
-    I love Midjourney, amazing model and great product. I have been short on ideas
-    and, honestly, couldn't muster the creative energy to chase
-  last_post_date: "2025-08-24T23:05:00Z"
-  last_post_link: https://sankalp.bearblog.dev/can-llms-dream-of-electric-sheep/
+  last_post_title: Ideas to grow on X the everything app (formerly Twitter)
+  last_post_description: Practical ideas on growing on Twitter from 4+ years of regular
+    posting and observing the timeline.
+  last_post_date: "2026-01-08T20:09:00Z"
+  last_post_link: https://sankalp.bearblog.dev/ideastogrowontwitter/
   last_post_categories:
-  - AI
   - featured
   last_post_language: ""
-  last_post_guid: 8ea9827d8b6a87bbcbc075c231451740
+  last_post_guid: 3fc4846182117a8722feb6048a7931a9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

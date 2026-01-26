@@ -16,25 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Alvin Chang
   - Infographics
-  - Pudding
-  - democracy
-  - text
+  - Our World in Data
+  - world
   relme: {}
-  last_post_title: Threats to democracy in the Congressional Record
-  last_post_description: 'As you might imagine, the word “democracy” has been mentioned
-    in Congressional speeches…Tags: Alvin Chang, democracy, Pudding, text'
-  last_post_date: "2025-11-14T14:15:08Z"
-  last_post_link: https://flowingdata.com/2025/11/14/threats-to-democracy-in-the-congressional-record/
+  last_post_title: Awful and better, Venn diagram
+  last_post_description: 'We focus on the bad, because that’s where it can and will
+    get…Tags: Our World in Data, world'
+  last_post_date: "2026-01-23T18:09:58Z"
+  last_post_link: https://flowingdata.com/2026/01/23/awful-and-better-venn-diagram/
   last_post_categories:
-  - Alvin Chang
   - Infographics
-  - Pudding
-  - democracy
-  - text
+  - Our World in Data
+  - world
   last_post_language: ""
-  last_post_guid: 9e3be288dd53ed28a3d7d8d71f0ed621
+  last_post_guid: a0d9dad4963b8fa1f44b34bd3278d124
   score_criteria:
     cats: 0
     description: 3

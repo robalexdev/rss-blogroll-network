@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2025-11-15T08:11:57-08:00"
+date: "2026-01-25T17:11:30-08:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -140,31 +140,33 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Metastablecoins Are Go!
+  last_post_title: Internet Archive's Storage
   last_post_description: ""
-  last_post_date: "2025-11-13T08:00:00-08:00"
-  last_post_link: https://blog.dshr.org/2025/11/metastablecoins-are-go.html
+  last_post_date: "2026-01-21T09:35:24-08:00"
+  last_post_link: https://blog.dshr.org/2026/01/internet-archives-storage.html
   last_post_categories:
-  - bitcoin
+  - digital preservation
+  - storage costs
+  - storage media
   last_post_language: ""
-  last_post_guid: c575ea8db05b139d13469920e17c14c0
+  last_post_guid: 147141e9236f28b4816f7c08006ac92b
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 23
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 295
 ---

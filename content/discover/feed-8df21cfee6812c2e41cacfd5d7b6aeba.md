@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Extra Load We Carry
-  last_post_description: When I came across a recent Harvard Business Review article
-    on the hidden penalty of using AI at work, it wasn’t the AI part that stood out
-    to me, even though I’m studying this very topic as part
-  last_post_date: "2025-08-12T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/the-extra-load-we-carry/
+  last_post_title: '2025 In Review: A Year of Immersion'
+  last_post_description: |-
+    Last year I wrote that 2024 was a “massive year” and that “even that feels like an understatement”. I had no idea what was coming.
+    2025 was bigger. It challenged me in ways I hadn’t
+  last_post_date: "2026-01-02T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/2025-in-review/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 91a04a7c15ac6dcfd07406c9b210bf53
+  last_post_guid: 52cbf423bcb0bc35584d61c58918fc50
   score_criteria:
     cats: 0
     description: 3

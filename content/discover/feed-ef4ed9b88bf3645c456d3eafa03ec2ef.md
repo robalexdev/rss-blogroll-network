@@ -19,7 +19,6 @@ params:
   relme:
     https://blog.shrediverse.net/: true
     https://cool-as-heck.blog/: true
-    https://cool-as-heck.blog/about/: true
     https://dmv.community/@jcrabapple: true
   last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
     Work Yet'
@@ -48,5 +47,5 @@ params:
   innetwork: true
   language: en
   postcount: 25
-  avgpostlen: 291
+  avgpostlen: 289
 ---

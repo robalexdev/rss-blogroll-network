@@ -13,26 +13,22 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
-  - title: Frank Meeuwsen - Blogroll
-    description: ""
-    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Terugwee
-  last_post_description: Tineke is thuisgekomen, zo rond deze tijd. Ik heb vanmiddag
-    een buisje in haar brievenbus gedaan, zodat ze ’s anderdaags onderzoek kan laten
-    doen. Ik weet niet de reden voor dat onderzoek;
-  last_post_date: "2025-11-15T22:56:03Z"
-  last_post_link: https://zijperspace.nl/terugwee/
+  last_post_title: Bibliothecaris
+  last_post_description: Ik ben, weliswaar slechts daadwerkelijk in m’n jeugd, tot
+    ik niet meer gratis met een ov-studentenkaart van A’dam naar Den Helder kon reizen
+    niet meer officieel, evengoed altijd een
+  last_post_date: "2026-01-25T21:38:08Z"
+  last_post_link: https://zijperspace.nl/bibliothecaris/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: b7714908ef92540338fb248db238dfb1
+  last_post_guid: 67340bfa854d4a4a5033e726270a284c
   score_criteria:
     cats: 0
     description: 3

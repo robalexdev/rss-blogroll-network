@@ -10,52 +10,29 @@ params:
   feedid: 1a0cb8efd2b80a88db630982baf1af3b
   websites:
     https://reillyspitzfaden.com/: false
-    https://reillyspitzfaden.com/blog: true
     https://reillyspitzfaden.com/blog/: false
-    https://reillyspitzfaden.com/code: false
     https://reillyspitzfaden.com/code/: false
-    https://reillyspitzfaden.com/feeds: false
     https://reillyspitzfaden.com/feeds/: false
     https://reillyspitzfaden.com/interactions/: false
-    https://reillyspitzfaden.com/media: false
     https://reillyspitzfaden.com/media/: false
-    https://reillyspitzfaden.com/notes: false
     https://reillyspitzfaden.com/notes/: false
-  blogrolls:
-  - https://reillyspitzfaden.com/blogroll.opml
+  blogrolls: []
   in_blogrolls:
-  - title: ""
-    description: ""
-    id: 7c57874819a3b666310d14cda337b41d
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
-  relme:
-    https://reillyspitzfaden.com/blog: true
-  last_post_title: Reverb Part 2—Natural Rooms with Allpass Rings
-  last_post_description: I discuss some lovely-sounding reverbs that make echo densities
-    build up over time, as in a real room. They're available in my VST/AU plugin,
-    and I link to Max/MSP versions as well.
-  last_post_date: "2025-09-28T16:16:34Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2025/09/reverb-part-2/
+  relme: {}
+  last_post_title: Sending Webmentions with a Simple Shell Script
+  last_post_description: I came across a convenient way to send webmentions from my
+    terminal using a simple Bash script.
+  last_post_date: "2026-01-07T18:25:04Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2026/01/sending-webmentions-with-a-simple-shell-script/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2979f14640ee55d239aa9d7a6f4193cf
+  last_post_guid: 3ce72d02676fbd581686de27983252bd
   score_criteria:
     cats: 0
     description: 3
@@ -65,10 +42,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

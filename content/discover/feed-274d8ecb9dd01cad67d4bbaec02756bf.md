@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 274d8ecb9dd01cad67d4bbaec02756bf
   websites:
-    https://www.flamingspork.com/blog: true
     https://www.flamingspork.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -57,8 +56,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

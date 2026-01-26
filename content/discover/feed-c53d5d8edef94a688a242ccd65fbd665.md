@@ -18,16 +18,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 生活 | Life
+  - 学习 | Study
   relme: {}
-  last_post_title: 新加坡女佣申请中国签证
-  last_post_description: 新加坡女佣申请中国签证
-  last_post_date: "2025-06-29T07:20:13Z"
-  last_post_link: https://wsgzao.github.io/post/singapore-maid-china-visa/
+  last_post_title: nftables代替iptables的新一代防火墙配置指南
+  last_post_description: nftables代替iptables的新一代防火墙配置指南
+  last_post_date: "2025-12-18T06:28:52Z"
+  last_post_link: https://wsgzao.github.io/post/nftables/
   last_post_categories:
-  - 生活 | Life
+  - 学习 | Study
   last_post_language: ""
-  last_post_guid: 764b54cee9130922ab12ac239ccb5f54
+  last_post_guid: 646cbf7c0d6b5853c9c6bdc590abefd7
   score_criteria:
     cats: 0
     description: 3
@@ -46,5 +46,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 260
+  avgpostlen: 257
 ---

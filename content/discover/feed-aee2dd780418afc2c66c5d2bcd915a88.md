@@ -21,32 +21,32 @@ params:
   relme:
     https://github.com/jamesvandyne/: true
     https://jamesvandyne.com/: true
-  last_post_title: 'The Week #280'
-  last_post_description: "\U0001F6F9 Leo and I skated both days on the weekend. And
-    for 5 minutes after school on Monday. While he is frustrated that he can't ollie
-    yet, he is getting better control over the board. I expect he'll"
-  last_post_date: "2025-11-10T21:20:58Z"
-  last_post_link: https://jamesvandyne.com/235f244f-099b-4cf5-a884-2f8f90ecf134
+  last_post_title: 'The Week #290'
+  last_post_description: ✈️ I made a trip to Fukuoka – and my first domestic flight
+    in Japan...ever. I forgot how easy it is to fly domestically in general. No customs,
+    no immigration, you can just get off the plane
+  last_post_date: "2026-01-19T20:51:29Z"
+  last_post_link: https://jamesvandyne.com/c6a31e4a-889f-47d2-83b6-58869684fca2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb85ae0b6465a162321d1b1acab13ac9
+  last_post_guid: e6bdb15e0244f74c3b42eae54db4bb76
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
-    hasPosts: 3
+    hasPosts: 1
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 1
   avgpostlen: 0
 ---

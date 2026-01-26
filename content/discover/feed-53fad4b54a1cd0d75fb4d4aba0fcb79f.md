@@ -16,43 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - News
   - Teaching
   - Uncategorized
-  - computer-science
-  - education
-  - enrollments
-  - faculty-spotlight
   relme: {}
-  last_post_title: Enrollments for Spring 2025
-  last_post_description: Here’s my usual report on our spring 2025 enrollments, as
-    of week 2 of the semester. Number Title Enrolled/Cap under Math She:He CS 167-A,B
-    Intro. Computational Problem Solving 51/60 1:2 CS 210-A,B
-  last_post_date: "2025-02-10T01:32:04Z"
-  last_post_link: https://countingfromzero.blog/2025/02/09/enrollments-for-spring-2025/
+  last_post_title: Counting from zero, again
+  last_post_description: I’m starting over again – this time at one of the oldest
+    universities in the world. Friends and colleagues know I’m on sabbatical this
+    year from my position at Whitman. For once, I’m the
+  last_post_date: "2026-01-19T16:51:51Z"
+  last_post_link: https://countingfromzero.blog/2026/01/19/counting-from-zero-again/
   last_post_categories:
-  - News
   - Teaching
   - Uncategorized
-  - computer-science
-  - education
-  - enrollments
-  - faculty-spotlight
   last_post_language: ""
-  last_post_guid: d96fa385cdfdd30c476e10bd82f3f202
+  last_post_guid: c1ab621cf2db86a1f76d1dd1c5818ae0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

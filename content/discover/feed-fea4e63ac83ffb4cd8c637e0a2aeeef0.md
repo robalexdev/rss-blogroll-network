@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2025-11-13T19:30:14+01:00"
+date: "2026-01-26T13:15:56+01:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -16,28 +16,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blockchain
-  - podcast
-  - vidéo
+  - librisme
+  - politique
+  - réseau
   relme:
     https://github.com/p4bl0-: true
     https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
     https://pablo.plus/: true
     https://pablockchain.fr/: true
-  last_post_title: Les limites d'une économie disposant d'une quantité finie de monnaie
-    — Gilles Mitteau (UnU 8/8)
-  last_post_description: Voilà la huitième (et dernière[1] !) vidéo de la journée
-    d'étude Unblocked & Unchained Symposium ! Gilles Mitteau discute des effets économique
-    de l'approche monétaire proposée par Bitcoin
-  last_post_date: "2025-10-29T13:12:00+01:00"
-  last_post_link: https://p4bl0.net/post/2025/10/Les-limites-d-une-economie-disposant-d-une-quantite-finie-de-monnaie-Gilles-Mitteau-UnU-8-8
+  last_post_title: 'Consommer et produire : l''essence de la prison numérique'
+  last_post_description: 'Je reproduis ci-dessous un article intitulé “Consommer et
+    produire : l''essence de la prison numérique” que j''ai initialement soumis à
+    la revue Contretemps qui l''a fait paraître le 2 janvier.'
+  last_post_date: "2026-01-05T13:12:00+01:00"
+  last_post_link: https://p4bl0.net/post/2026/01/Consommer-et-produire-essence-prison-numerique
   last_post_categories:
-  - blockchain
-  - podcast
-  - vidéo
+  - librisme
+  - politique
+  - réseau
   last_post_language: ""
-  last_post_guid: 47421c96b2a4d5d280ef4a64d6ba9fc9
+  last_post_guid: 965b2cfb6044ad5bbcd7996746f48879
   score_criteria:
     cats: 0
     description: 3

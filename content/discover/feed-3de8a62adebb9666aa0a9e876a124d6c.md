@@ -1,6 +1,6 @@
 ---
 title: Vincent Bernat
-date: "2025-11-12T19:59:05Z"
+date: "2026-01-19T05:49:42Z"
 description: ""
 params:
   feedlink: https://vincent.bernat.ch/fr/blog/atom.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://vincent.bernat.ch/fr: true
-  last_post_title: Akvorado release 2.0
+  last_post_title: RAID 5 avec des disques de capacités différentes sous Linux
   last_post_description: ""
-  last_post_date: "2025-09-22T08:12:52Z"
-  last_post_link: https://vincent.bernat.ch/fr/blog/2025-akvorado-2.0
+  last_post_date: "2026-01-19T05:49:42Z"
+  last_post_link: https://vincent.bernat.ch/fr/blog/2026-raid-linux-heterogene
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 25dfb0cedb840fe566cbb545324537aa
+  last_post_guid: cf16b70a2b9b3617095a120b8dc5d34c
   score_criteria:
     cats: 0
     description: 0

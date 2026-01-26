@@ -18,13 +18,13 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: I lose my hearing in my left ear
-  last_post_description: 我突然耳聋了 这件事情发生在 2024 年 4 月份。当时把过程记录在 Apple Notes
-  last_post_date: "2025-05-27T00:00:00Z"
-  last_post_link: https://blog.lsong.org/2025/05/i-lose-my-hearing.html
+  last_post_title: Jia Guolong's Fork in the Road
+  last_post_description: '贾国龙的丁字路口 Chapter 1: 一场意外点燃的舆论战火 罗永浩吃完饭结账后发了个微博说'
+  last_post_date: "2026-01-21T00:00:00Z"
+  last_post_link: https://blog.lsong.org/2026/01/xibei.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1db529a417cafdc45f1e127e20f3285e
+  last_post_guid: 03bd3aa0f483f048c5c7080c34310ef0
   score_criteria:
     cats: 1
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 12
+  postcount: 13
   avgpostlen: 0
 ---

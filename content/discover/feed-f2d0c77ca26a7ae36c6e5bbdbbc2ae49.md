@@ -13,7 +13,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Links for Josh Betz
     description: ""
@@ -29,22 +29,29 @@ params:
   - https://josh.blog/feed
   categories:
   - AI & ML
+  - Company news
   - GitHub Copilot
-  - GitHub Copilot code review
+  - GitHub Copilot CLI
+  - GitHub Copilot SDK
+  - News & insights
+  - SDK
   relme: {}
-  last_post_title: 'Unlocking the full power of Copilot code review: Master your instructions
-    files'
-  last_post_description: |-
-    Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find something to level up your code reviews.
-    The post
-  last_post_date: "2025-11-14T17:00:00Z"
-  last_post_link: https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/
+  last_post_title: Build an agent into any app with the GitHub Copilot SDK
+  last_post_description: "Now in technical preview, the GitHub Copilot SDK can plan,
+    invoke tools, edit files, and run commands as a programmable layer you can use
+    in any application. \nThe post Build an agent into any app"
+  last_post_date: "2026-01-22T15:01:44Z"
+  last_post_link: https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/
   last_post_categories:
   - AI & ML
+  - Company news
   - GitHub Copilot
-  - GitHub Copilot code review
+  - GitHub Copilot CLI
+  - GitHub Copilot SDK
+  - News & insights
+  - SDK
   last_post_language: ""
-  last_post_guid: 59b18dfded8b66a3e8930f864521ae2d
+  last_post_guid: e1ac5464f2f280b205048507368e8757
   score_criteria:
     cats: 0
     description: 3

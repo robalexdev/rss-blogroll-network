@@ -20,9 +20,9 @@ params:
   categories: []
   relme: {}
   last_post_title: 'Time to move on: n8n vs code for SaaS builders'
-  last_post_description: 'n8n is a no-code (low-code) automation platform—similar
-    to Zapier but more technical—and it can be self-hosted. I love n8n (read my older
-    detailed writeup about it): it makes you feel powerful on'
+  last_post_description: 'n8n is a no-code (low-code) automation platform - similar
+    to Zapier but more technical - and it can be self-hosted. I love n8n (read my
+    older detailed writeup about it): it makes you feel powerful on'
   last_post_date: "2025-11-03T13:46:52Z"
   last_post_link: https://pixeljets.com/blog/n8n-vs-code/
   last_post_categories: []

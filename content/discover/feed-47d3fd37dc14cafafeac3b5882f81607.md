@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '"Why don''t you use dependent types?"'
-  last_post_description: "To be fair, nobody asks me this exact question.\nBut people
-    have regularly asked why Isabelle dispenses with proof objects.\nThe two questions
-    are essentially the same, \nbecause proof objects are"
-  last_post_date: "2025-11-02T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+  last_post_title: Broken proofs and broken provers
+  last_post_description: "People expect perfection. Consider the reaction when someone
+    who has been vaccinated \nagainst a particular disease nevertheless dies of it.\nMathematical
+    proof carries the aura of perfection, but"
+  last_post_date: "2026-01-15T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/01/15/Broken_proofs.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 429fca1fecac6a10ca5fad2ec64bcb2b
+  last_post_guid: 6cdf698f6fa88262db09205f65c631ea
   score_criteria:
     cats: 0
     description: 3

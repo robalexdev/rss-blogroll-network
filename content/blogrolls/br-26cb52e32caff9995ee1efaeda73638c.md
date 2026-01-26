@@ -15,13 +15,6 @@ params:
   - title: Rust Blog
     description: Empowering everyone to build reliable and efficient software.
     id: 193221795d9755d84e234dc3323b9df3
-  - title: Scott Hanselman's Blog
-    description: Scott Hanselman on Programming, User Experience, The Zen of Computers
-      and Life in General
-    id: 1ce23f65715a3fadd5af87c1e54516fa
-  - title: Snook.ca
-    description: Life and Times of a Web Developer
-    id: 1e9f7a892cc3a088f0d796a20def701d
   - title: Brendan Gregg's Blog
     description: ""
     id: 201ddc070f6fd19e8ccf4a4475fe84db
@@ -43,8 +36,8 @@ params:
     description: ""
     id: 3a7ccb04f317dc55ab2c53591a057188
   - title: AddyOsmani.com
-    description: Addy Osmani is a Software Engineer at Google working on Chrome and
-      AI.
+    description: Addy Osmani is a Software Engineer at Google working on Google Cloud
+      and Gemini.
     id: 3b2679e334f268455c31539dab7133ea
   - title: Allison Kaptur
     description: ""
@@ -71,9 +64,6 @@ params:
   - title: The Clean Code Blog
     description: ""
     id: 6a4fafe957952469db07d8a2d6e2b79f
-  - title: trivago tech blog
-    description: Insights, experiences and learnings from trivago's tech teams.
-    id: 6e0a2599987214658e500dcd8b4d3891
   - title: Marek's idea of the day
     description: ""
     id: 7355ee2ebb19333badfb0396a88dba9d
@@ -83,30 +73,16 @@ params:
   - title: Muffin Man
     description: FrontEnd & Creative Coding
     id: 7717c8a7a423be260f280b44c8436b11
-  - title: Stephen Colebourne's blog
-    description: Thoughts and Musings on the world of Java and beyond
-    id: 79a7e017a5615bb70dc38b0e27f69ef7
   - title: Rob Allen
     description: Pragmatism in today's world
     id: 81006d875e5df9f71a7743e81a2f70d8
   - title: daniel.haxx.se
     description: curl, open source and networking
     id: 8124fcbf635fbd84bfb08145027257d4
-  - title: Medium Engineering - Medium
-    description: Stories from the team building Medium. - Medium
-    id: 871bdae48e70767b2b53867db3b36cbb
   - title: Mary Rose Cook
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech
       lead at Airtable in San Francisco.
     id: 8ae6984a7812d257eea643d4dc2ca54c
-  - title: Send More Paramedics
-    description: λ λ λ
-    id: 901e5c350fc13bcdffcfff68dd8e2535
-  - title: Etsy Engineering | Code as Craft
-    description: 'The engineers who make Etsy make our living with a craft we love:
-      software. This is where we''ll write about our craft and our collective experience
-      building and running the world''s most vibrant'
-    id: 91817b8c91b3b13a6a287d547a4c4f30
   - title: Monica Dinculescu
     description: ""
     id: 9ed58f466104e74b8e5f8d7a32d0335c

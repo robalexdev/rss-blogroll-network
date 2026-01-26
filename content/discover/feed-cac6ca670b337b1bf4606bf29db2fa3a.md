@@ -16,26 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 2 Minute Reads
-  - 2 minute read
   - Performance
-  - big o
-  - performance
+  - garbage-collector
+  - java
+  - jvm
   relme: {}
-  last_post_title: 9 Things Every Fresh Graduate Should Know About Software Performance
-  last_post_description: At Johnny’s Software Lab we’ve spent a lot of time deep-diving
-    into advanced performance topics — vectorization, cache hierarchies, memory bandwidth,
-    you name it. But not everyone is ready to
-  last_post_date: "2025-09-20T08:27:36Z"
-  last_post_link: https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/?utm_source=rss&utm_medium=rss&utm_campaign=9-things-every-fresh-graduate-should-know-about-software-performance
+  last_post_title: Deep Dive in Java vs C++ Performance
+  last_post_description: For most of my career I lived in the world of C and C++,
+    and I honestly believed that these languages are the pinnacle of software performance.
+    But two months ago I started working at Azul, the maker
+  last_post_date: "2025-11-30T13:15:00Z"
+  last_post_link: https://johnnysswlab.com/deep-dive-in-java-vs-c-performance/?utm_source=rss&utm_medium=rss&utm_campaign=deep-dive-in-java-vs-c-performance
   last_post_categories:
-  - 2 Minute Reads
-  - 2 minute read
   - Performance
-  - big o
-  - performance
+  - garbage-collector
+  - java
+  - jvm
   last_post_language: ""
-  last_post_guid: 2f0a43c00f66072149ae7842d59a30b2
+  last_post_guid: dd88a29464d4bc49cc437d323853a6ac
   score_criteria:
     cats: 0
     description: 3

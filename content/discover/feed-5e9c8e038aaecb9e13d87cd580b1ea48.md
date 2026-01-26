@@ -16,23 +16,21 @@ params:
   recommender: []
   categories:
   - Blog
+  - 学术之路
   - 学术话题
-  - 法理学
+  - 非学术话题
   relme: {}
-  last_post_title: 《法理学讲义》第一讲：规范
-  last_post_description: !!binary |
-    6L+Z5Lu96K6y5LmJ55qE5qC45b+D5Lu75Yqh5piv6K6y6L+w4oCc5rOV5b6L4oCd6K+e55
-    Sf55qE5YmN5Lyg4oCU4oCU5LiA5Liq5YWz5LqO4oCc6KeE6IyD4oCd55qE5pWF5LqL44CC
-    5a6D5o6i6K6o5LqG5Li65rOV5a2m5YWl6Zeo5omA5b+F6aG755CG6Kej55qE5rOV5a2m5a
-    SE55CG55qE5a+56LGh4oCU4oCU6KeE6IyD4oCU4oCU55qE5LiA5Lqb5Z8=
-  last_post_date: "2025-10-02T23:00:00+08:00"
-  last_post_link: https://pathos.page/blog/lectures-on-jurisprudence-1/
+  last_post_title: 哲学家如何度过一生
+  last_post_description: 哲学是一种生活方式，永远面对问题，面向世界，只对自己的信念负责。
+  last_post_date: "2026-01-17T02:23:00+08:00"
+  last_post_link: https://pathos.page/blog/philosophy-declare/
   last_post_categories:
   - Blog
+  - 学术之路
   - 学术话题
-  - 法理学
+  - 非学术话题
   last_post_language: ""
-  last_post_guid: c830b613ade8d73936e53f0eaf6f086d
+  last_post_guid: ca34f6a0e76b547bc98fe274e172b16c
   score_criteria:
     cats: 0
     description: 3

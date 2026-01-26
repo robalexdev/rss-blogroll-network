@@ -14,9 +14,6 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 7c57874819a3b666310d14cda337b41d
-  - title: ""
-    description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended:
   - https://100daysof.blog/feed.xml
@@ -134,30 +131,26 @@ params:
   - https://www.petergoes.nl/blog/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
-  - https://alexandrawolfe.ca/feed.xml
-  - https://alexandrawolfe.ca/feed/?type=rss
-  - https://ashk.au/atom-bookmarks.xml
-  - https://ashk.au/atom.xml
-  - https://bne.social/@ash.rss
-  - https://www.goodreads.com/review/list_rss/11559548
+  - https://alexandrawolfe.ca/posts_feed
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
   - https://birming.com/podcast.xml
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
-  - https://bnjmn.org/comments/feed/
-  - https://bnjmn.org/feed/
   - https://branch.climateaction.tech/comments/feed/
   - https://buttondown.com/rss.xml
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/
+  - https://chrishannah.me/feed
   - https://danq.me/comments/feed/
+  - https://danq.me/home-2/feed/
   - https://darthmall.net/feed/all.xml
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://darthmall.net/feed/photographs.xml
   - https://degruchy.org/index.xml
+  - https://dominikhofer.me/rss
   - https://fs.blog/comments/feed/
   - https://www.farnamstreetblog.com/feed/
   - https://httpster.io/atom.xml
@@ -169,16 +162,12 @@ params:
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
+  - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
-  - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
-  - https://michal.sapka.me/rss.xml
+  - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
-  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
@@ -212,19 +201,7 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   - https://www.wackomenace.co.uk/essays/atom.xml
   - https://www.wackomenace.co.uk/essays/rss.xml
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
   relme:
     https://github.com/immarisabel: true
@@ -232,14 +209,12 @@ params:
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
   last_post_title: "\U0001F4AC Snippet!"
-  last_post_description: "Going on semi-hiatus\n   \nFocus of November 2025:\n    \n
-    \     \U0001F4DA  catalog my personal book collection\n      \U0001F3EF Study
-    more Japanese actively and finish reading my first book.\n    \n\n\U0001F645\U0001F3FB‍♀️"
-  last_post_date: "2025-11-15T08:51:14Z"
-  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=458
+  last_post_description: Thank you for following my feed! ♥  Leave a reply here.
+  last_post_date: "2026-01-25T08:10:08Z"
+  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=470
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8e4801d31fedc3b0a1ea12a8d19491f8
+  last_post_guid: c938122c0924ebbc2aabea8e7ea3847f
   score_criteria:
     cats: 0
     description: 3

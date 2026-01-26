@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2025-10-11T18:43:19+02:00"
+date: "2025-12-21T18:10:16+01:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml
@@ -8,7 +8,6 @@ params:
   feedid: 83dbe19b09a100cc0afed947f24d11bb
   websites:
     https://molily.de/: true
-    https://molily.de/robust-javascript/: false
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net

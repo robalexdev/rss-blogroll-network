@@ -21,15 +21,14 @@ params:
   categories:
   - Linux & homelab
   relme: {}
-  last_post_title: 杂谈：libvirt/qemu Windows游戏VM的一些优化配置
-  last_post_description: 一些libvirt配置备忘，针对Windows guest，虚拟机游戏场景 虚拟化功能选项 取自cockpit…
-    继续阅读杂谈：libvirt/qemu
-  last_post_date: "2025-10-12T17:01:15Z"
-  last_post_link: https://wusiyu.me/libvirt-qemu-windows-gaming-vm-optimization/
+  last_post_title: 虚拟机检测绕过和nvme性能优化的libvirt配置
+  last_post_description: 免责声明：我只是为了在自建的云游戏串流虚拟机上进行远程游戏，用虚拟机是因为All-in-boom宿主机还要跑别…
+  last_post_date: "2026-01-23T19:36:41Z"
+  last_post_link: https://wusiyu.me/anti-cheat-virtual-machine-bypass-nvme-performance-optimize/
   last_post_categories:
   - Linux & homelab
   last_post_language: ""
-  last_post_guid: bdbae9dc326a1e4d725195c8aa8edeac
+  last_post_guid: ac3ed6b2b4132c641b8719f557847876
   score_criteria:
     cats: 0
     description: 3

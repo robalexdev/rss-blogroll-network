@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 220 - Bang
-  last_post_description: |-
-    I joined Andy at the Leicester Square Theatre for Russell Howard's warm-up show. Scrappy, in-progress shows where the comedian jumps around and ad-libs are somehow funnier than polished sets.
-    At work
-  last_post_date: "2025-11-10T14:27:07Z"
-  last_post_link: https://barryfrost.com/2025/11/week-220-bang
+  last_post_title: Week 230 - Snooker
+  last_post_description: 'This week, I went back up to Ally Pally for the Masters
+    snooker. I think this is the seventh year in a row (ignoring Covid) we''ve gone.
+    It was probably the closest match I''ve seen: John Higgins beat'
+  last_post_date: "2026-01-19T17:45:10Z"
+  last_post_link: https://barryfrost.com/2026/01/week-230-snooker
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0629be3df34df9e99e70d97f214fc5d7
+  last_post_guid: a6c3260794798df17b9710e54104e59e
   score_criteria:
     cats: 0
     description: 3

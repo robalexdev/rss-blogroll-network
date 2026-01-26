@@ -1,6 +1,6 @@
 ---
 title: ChrAlpha's Blog
-date: "2025-03-22T16:22:00Z"
+date: "2025-12-18T15:01:12Z"
 description: ""
 params:
   feedlink: https://blog.ichr.me/atom.xml
@@ -19,21 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Clash
-  - Tailscale
-  - 便签格
+  - HPC
+  - VS Code
+  - 笔记本
   relme: {}
-  last_post_title: Tailscale 配合 Mihomo(Clash.Meta) TUN/Quantumult X VPN 共存使用技巧
-  last_post_description: 记录 Tailscale 与 Mihomo(Clash.Meta) TUN/Quantumult X 共存使用的一些技巧，包括最小化
-    Tailscale 作为 Socks5 节点，以及完整 Tailscale 与代理工具共存的配置方法。
-  last_post_date: "2025-03-22T16:22:00Z"
-  last_post_link: https://blog.ichr.me/post/tailscale-mihomo-quantumult-x/
+  last_post_title: 写给非科班的 HPC 无痛上手：在超算节点上使用 VS Code
+  last_post_description: 写给非科班科研人员的 HPC 避坑与上手指南。本文介绍通过 SSH ProxyJump 或 Code Tunnel
+    隧道技术，将 VS Code
+  last_post_date: "2025-12-18T15:01:12Z"
+  last_post_link: https://blog.ichr.me/post/hpc-vscode/
   last_post_categories:
-  - Clash
-  - Tailscale
-  - 便签格
+  - HPC
+  - VS Code
+  - 笔记本
   last_post_language: ""
-  last_post_guid: fbccf6078b9bfaadba0ed811fbcb2046
+  last_post_guid: 87383d8f77d558503144ddbd67e0a840
   score_criteria:
     cats: 0
     description: 0

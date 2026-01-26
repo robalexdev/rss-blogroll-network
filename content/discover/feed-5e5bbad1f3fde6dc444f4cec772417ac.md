@@ -17,15 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Favourites of 2024
+  last_post_title: Favourites of 2025
   last_post_description: |-
-    Here are my favourite books and movies that I read and watched throughout 2024.
-    It wasn't quite the stellar year for books as previous years: few of those books that make you want to recommend and/or
-  last_post_date: "2024-12-31T15:58:31Z"
-  last_post_link: https://chris-lamb.co.uk/posts/favourites-of-2024
+    Here are my favourite books and movies that I read and watched throughout 2025.
+    §
+    Books
+    Eliza Clark: Boy Parts (2020)Rachel Cusk: The Outline Trilogy (2014—2018)Edith Wharton: The House of Mirth
+  last_post_date: "2025-12-31T08:58:55Z"
+  last_post_link: https://chris-lamb.co.uk/posts/favourites-of-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6a05b27564f1de8cb68bed53463ff182
+  last_post_guid: f8b86b422ed9897d62d7fd76becf035a
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Yammering
-date: "2025-05-28T18:32:07Z"
+date: "2025-11-28T20:56:19Z"
 description: ""
 params:
   feedlink: https://xana.scru.org/rivercrabbed-debian.atom
@@ -16,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Potted meat is viewed differently by different cultures
+  last_post_title: monkeying around bitrot
   last_post_description: |-
-    I've been working on a multi-label email classification model.
-    It's been a frustrating slog, fraught with challenges, including
-    a lack of training data. Labeling emails is labor-intensive and
-    error
-  last_post_date: "2025-05-28T18:32:07Z"
-  last_post_link: https://xana.scru.org/posts/ranticore/spicedham.html
+    One of the servers to which I SSH ratcheted up its public key
+    requirements and thus the Monkeysphere key I've been using for 15
+    years stopped working.
+    Unfortunately, monkeysphere gen-subkey hardcodes
+  last_post_date: "2025-11-28T20:56:19Z"
+  last_post_link: https://xana.scru.org/posts/quanks/monkeycurve.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f6c053324380241b598872068089de3b
+  last_post_guid: 741b5e792af3a323ff4ad4cbb01e241a
   score_criteria:
     cats: 0
     description: 0

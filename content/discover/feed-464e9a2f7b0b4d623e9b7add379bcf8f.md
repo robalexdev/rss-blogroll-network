@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 464e9a2f7b0b4d623e9b7add379bcf8f
   websites:
-    https://www.fitzsim.org/blog: true
     https://www.fitzsim.org/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -17,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Lisp
+  - Uncategorized
   relme: {}
-  last_post_title: Lisp ELF toolkit
-  last_post_description: I recently needed to generate an ELF binary with both RPATH
-    and RUNPATH entries. I could not figure out how to produce this using linker command
-    line arguments. I was considering attempting a linker
-  last_post_date: "2025-04-18T04:35:46Z"
-  last_post_link: https://www.fitzsim.org/blog/?p=767
+  last_post_title: gfx1201 on POWER9
+  last_post_description: 'AI GoF disclaimer: I don’t expect this blog post to contribute
+    to frontier AI gain-of-function research or I would refrain from publishing it.
+    Please consider supporting Doom Debates to improve the'
+  last_post_date: "2026-01-18T16:30:09Z"
+  last_post_link: https://www.fitzsim.org/blog/?p=797
   last_post_categories:
-  - Lisp
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 5b317d2f446277f20439e806f22f2c16
+  last_post_guid: 3b5d2d43764ae565f6bff1cc991ad85d
   score_criteria:
     cats: 0
     description: 0
@@ -40,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 1
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

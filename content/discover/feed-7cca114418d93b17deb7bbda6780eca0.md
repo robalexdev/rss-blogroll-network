@@ -1,6 +1,6 @@
 ---
 title: okayfail.com
-date: "2025-11-08T00:00:00Z"
+date: "2025-12-31T00:00:00Z"
 description: ""
 params:
   feedlink: https://okayfail.com/atom.xml
@@ -23,13 +23,13 @@ params:
     https://github.com/phillmv: true
     https://hachyderm.io/@phillmv: true
     https://okayfail.com/: true
-  last_post_title: In Praise of dhh
+  last_post_title: '2025: Raves In Review'
   last_post_description: ""
-  last_post_date: "2025-11-08T00:00:00Z"
-  last_post_link: http://okayfail.com/2025/in-praise-of-dhh.html
+  last_post_date: "2025-12-31T00:00:00Z"
+  last_post_link: http://okayfail.com/2025/raves-in-review.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: abfeaeb4fb7c6c0512ca9441bf264bdc
+  last_post_guid: 5aea7fc6828758cdbd614e088edb60df
   score_criteria:
     cats: 0
     description: 0

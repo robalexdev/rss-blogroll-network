@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://stanislas.blog/: true
-  last_post_title: Doing my cloud exit (kind of)
-  last_post_description: In a previous post, I shared how I migrated my personal infrastructure
-    to Kubernetes. That transition also involved a shift in underlying hardware. In
-    this post, I’ll explain why I ultimately
-  last_post_date: "2025-06-13T21:34:45Z"
-  last_post_link: https://stanislas.blog/2025/06/cloud-exit/
+  last_post_title: Building a TUI to index and search my coding agent sessions
+  last_post_description: "This is the story of how fast-resume came to life and evolved,
+    as I was trying to search and resume my coding agent sessions more easily across
+    different local CLI agents.\n\n \n \n There should have"
+  last_post_date: "2026-01-17T17:22:33Z"
+  last_post_link: https://stanislas.blog/2026/01/tui-index-search-coding-agent-sessions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66599889a2556eb9b0c5e9f42e97ab3a
+  last_post_guid: 4077c48272935721b66bd691df78bd38
   score_criteria:
     cats: 0
     description: 3

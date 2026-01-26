@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2025-10-29T14:50:28Z"
+date: "2026-01-03T10:32:19Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Packing Neovim with Fennel
+  last_post_title: The current Cybershard layout
   last_post_description: ""
-  last_post_date: "2025-10-29T14:50:28Z"
-  last_post_link: https://www.jonashietala.se/blog/2025/10/29/packing_neovim_with_fennel
+  last_post_date: "2026-01-03T10:32:19Z"
+  last_post_link: https://www.jonashietala.se/blog/2024/11/26/the_current_cybershard_layout
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 00455c80b0fb9cc00889d8dd7e021b82
+  last_post_guid: faab763772b49979da570136ae6aedf8
   score_criteria:
     cats: 0
     description: 0
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 296
+  postcount: 299
   avgpostlen: 291
 ---

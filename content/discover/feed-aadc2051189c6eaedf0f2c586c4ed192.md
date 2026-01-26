@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-10-30T15:00:37Z"
+date: "2025-12-02T14:54:34Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 25 in ’25 - September & October
-  last_post_description: 'It was bound to happen… At the beginning of 2025, I set
-    a goal: to achieve 25 Actionable Items in 2025. Thus far, I’ve been keeping tabs
-    on my journey each...'
-  last_post_date: "2025-10-30T15:00:37Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-september-october
+  last_post_title: 25 in ’25 - November
+  last_post_description: 'One left! At the beginning of 2025, I set a goal: to achieve 25
+    Actionable Items in 2025. Thus far, I’ve been keeping tabs on my journey each
+    month in the...'
+  last_post_date: "2025-12-02T15:43:37Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-november
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a6b52fbe1f06d8e8bd24ace7adfc5fa
+  last_post_guid: 526eec09d63bbfe36739a3779ebd0908
   score_criteria:
     cats: 0
     description: 0

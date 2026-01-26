@@ -535,29 +535,30 @@ params:
   - year in review
   relme:
     https://rollofnickels.blogspot.com/: true
-  last_post_title: The 2025 Fraser Valley Writers Festival - November 7 and 8 in Abbotsford!
-  last_post_description: I'm in my third year coordinating the Fraser Valley Writers
-    Festival, and we're very excited about this year's lineup! The festival will take
-    place on November 7th and 8th at the University of the
-  last_post_date: "2025-10-03T16:39:00Z"
-  last_post_link: https://rollofnickels.blogspot.com/2025/10/the-2025-fraser-valley-writers-festival.html
+  last_post_title: the 2025 roll of nickels year in review
+  last_post_description: 2025 was a very quiet year here at Roll of Nickels, as life
+    and work demands derailed my grand ambitions. I only managed to post five quotes
+    on writing, and archive three of my favourite pieces of
+  last_post_date: "2026-01-04T00:10:00Z"
+  last_post_link: https://rollofnickels.blogspot.com/2026/01/the-2025-roll-of-nickels-year-in-review.html
   last_post_categories:
-  - community
+  - personal
+  - year in review
   last_post_language: ""
-  last_post_guid: b97b46a5bc3a41f5c133c158a8a20491
+  last_post_guid: d6eb68402829a4b313faf3fb16f6e610
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

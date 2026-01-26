@@ -19,14 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: x86 Addressing Modes, Part 1 — Immediate and Direct Access
-  last_post_description: 'The foundations of memory access: static allocation, addressing
-    modes, and the first steps toward low-level thinking.'
-  last_post_date: "2025-11-12T16:15:23Z"
-  last_post_link: https://blog.codingconfessions.com/p/x86-addressing-modes-part-1-immediate
+  last_post_title: How PyTorch Generates Random Numbers in Parallel on the GPU
+  last_post_description: A deep dive into Philox and counter-based RNGs
+  last_post_date: "2025-12-18T10:26:29Z"
+  last_post_link: https://blog.codingconfessions.com/p/how-pytorch-generates-random-numbers
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a9811a8e8bd3a39e8cf8f0b09ceec54
+  last_post_guid: 1e7a3f397f1534b64e437e2676ee5812
   score_criteria:
     cats: 0
     description: 3

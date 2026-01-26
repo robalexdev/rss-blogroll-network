@@ -16,14 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: how to gain code execution on millions of people and hundreds of
-    popular apps
-  last_post_description: and of course, firebase was (partially) the cause
-  last_post_date: "2025-02-28T00:00:00Z"
-  last_post_link: https://kibty.town/blog/todesktop/
+  last_post_title: how to hack discord, vercel and more with one easy trick
+  last_post_description: or, an impromptu security audit on the fortune 500
+  last_post_date: "2025-12-18T00:00:00Z"
+  last_post_link: https://kibty.town/blog/mintlify/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 65279e8402a21f9e636ef7ff2fbfff3d
+  last_post_guid: 491c98ca533c5a4b4f00a387d5685914
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 7
+  postcount: 8
   avgpostlen: 0
 ---

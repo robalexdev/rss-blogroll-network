@@ -21,16 +21,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Resumability
-  last_post_description: Resumability is not a word, but it’s an important concept
-    to me. When I say Resumability, I’m talking about the ability to quickly interrupt
-    and later resume a task. The task doesn’t have to be
-  last_post_date: "2025-11-13T00:30:01Z"
-  last_post_link: https://actsofvolition.com/2025/11/resumability/
+  last_post_title: It goes without saying
+  last_post_description: I don’t like writing, or thinking, about Donald Trump and
+    everything is presidency represents. First of all, it’s gross. He’s awful. Second,
+    the situation seems so obviously terrible that my
+  last_post_date: "2026-01-20T21:13:52Z"
+  last_post_link: https://actsofvolition.com/2026/01/it-goes-without-saying/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 0ee3c19e63c1301d49824961742049b2
+  last_post_guid: 11d48fdc1c21e2381b2c01262a10ec0d
   score_criteria:
     cats: 0
     description: 0

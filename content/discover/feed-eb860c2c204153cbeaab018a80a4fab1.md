@@ -1,6 +1,6 @@
 ---
 title: Rusty Russell’s Quiet Corner of The Internet
-date: "2025-04-21T17:54:50+09:30"
+date: "2025-12-12T11:26:14+10:30"
 description: I have been a full time Free Software developer since the 90's.  I worked
   on the Linux Kernel, where I wrote ipchains, iptables, and rewrote the module subsystem,
   along with many other things.  I
@@ -18,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Restoring Bitcoin’s Full Script Power
-  last_post_description: 'In my previous posts I’ve been carefully considering what
-    bitcoin Script improvements we might want if we had introspection. Script was
-    hobbled back in v0.3.1 due to denial-of-service issues: this'
-  last_post_date: "2024-01-19T00:00:00+10:30"
-  last_post_link: https://rusty.ozlabs.org/2024/01/19/the-great-opcode-restoration.html
+  last_post_title: 'CLN Developer Series #6: Neatening a Bugfix PR'
+  last_post_description: This is an “eat your veggies!” talk, which is an indepth
+    review of an excellent PR by @dovgopoly. When someone first submits a PR, I like
+    to explain every detail of how I would have done it, so
+  last_post_date: "2025-12-12T00:00:00+10:30"
+  last_post_link: https://rusty.ozlabs.org/2025/12/12/CLN-Neatening-A-Bugfix-PR.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 94a738a7c23d0e7eebcd7a689824fa41
+  last_post_guid: 7294d38d19900986dc6b62f32870503d
   score_criteria:
     cats: 0
     description: 3
@@ -45,5 +45,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 294
 ---

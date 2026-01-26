@@ -8,7 +8,6 @@ params:
   feedid: db75d3b63bd58ce8d383e82c02e59adf
   websites:
     https://firenze.linux.it/: true
-    https://www.firenze.linux.it/: false
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -20,16 +19,16 @@ params:
   - FLUG
   relme:
     https://firenze.linux.it/: true
-  last_post_title: Riunione operativa del 14/11/2025
-  last_post_description: 'VenerdÃ¬ 14 novembre 2025 alle 21:00 riunione operativa
-    del FLUG, presso l’abitazione di uno dei nostri soci, vicino via Baracca. Ordine
-    del giorno: trasloco del server Coraggio alla sua nuova'
-  last_post_date: "2025-11-10T19:03:41Z"
-  last_post_link: https://firenze.linux.it/2025/11/riunione-operativa-del-14-11-2025/
+  last_post_title: Riunione operativa del 22/01/2026
+  last_post_description: 'GiovedÃ¬ 22 gennaio 2026 alle 21:00 si terrÃ  una riunione
+    operativa del FLUG, presso il Centro Sociale Autogestito Next Emerson, in via
+    di Bellagio 15, zona Castello. Ordine del giorno: verifica'
+  last_post_date: "2026-01-19T14:07:40Z"
+  last_post_link: https://firenze.linux.it/2026/01/riunione-operativa-del-22-01-2026/
   last_post_categories:
   - FLUG
   last_post_language: ""
-  last_post_guid: 79c0bbd16aec159bbf7810196e108dce
+  last_post_guid: 6d8af05f4f00cf4c71c3c3bbe341f0cb
   score_criteria:
     cats: 0
     description: 3

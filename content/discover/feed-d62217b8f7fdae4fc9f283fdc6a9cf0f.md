@@ -18,21 +18,21 @@ params:
   categories:
   - programming
   - python
-  - uv
+  - recursion
   relme: {}
-  last_post_title: uv cheatsheet
+  last_post_title: Recursive structural pattern matching
   last_post_description: |-
-    Cheatsheet with the most common and useful uv commands to manage projects and dependencies, publish projects, manage tools, and more.
+    Learn how to use structural pattern matching (the match statement) to work recursively through tree-like structures.
 
-    This cheatsheet lists the most commonly used commands and should
-  last_post_date: "2025-09-06T19:36:00+02:00"
-  last_post_link: https://mathspp.com/blog/uv-cheatsheet
+    In this short article you will learn to use structural pattern matching in
+  last_post_date: "2026-01-08T16:22:00+01:00"
+  last_post_link: https://mathspp.com/blog/recursive-structural-pattern-matching
   last_post_categories:
   - programming
   - python
-  - uv
+  - recursion
   last_post_language: ""
-  last_post_guid: 14df3bda54cf3120623ea6ded9816f3a
+  last_post_guid: e30e21770d1f8ac22885db4f574a83ff
   score_criteria:
     cats: 0
     description: 3

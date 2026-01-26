@@ -16,35 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Senza categoria
+  - Evento
+  - Hardware
+  - Mezzora
   relme: {}
-  last_post_title: 'Mezz’ora d’amicizia: Ansible'
-  last_post_description: Per la nostra mezz’ora di amicizia del 6 novembre il nostro
-    membro Giuseppe “MarbleMadness” ci ha faccio una veloce panoramica su Ansible,
-    con la promessa di una seconda puntata più pratica
-  last_post_date: "2025-11-06T23:13:05Z"
-  last_post_link: https://casoratesempione.ils.org/2025/11/07/mezzora-damicizia-ansible/
+  last_post_title: 'Mezz’ora d’amicizia: FPGA'
+  last_post_description: Per la nostra mezz’ora di amicizia del 4 dicembre il nostro
+    membro Mirko ci ha mostrato come si programma una FPGA, specificatamente questa
+    della Olimex, con una toolchain di soli software liberi
+  last_post_date: "2025-12-05T09:46:54Z"
+  last_post_link: https://casoratesempione.ils.org/2025/12/05/mezzora-damicizia-fpga/
   last_post_categories:
-  - Senza categoria
+  - Evento
+  - Hardware
+  - Mezzora
   last_post_language: ""
-  last_post_guid: db6e212b0404dd13e61388ad71e68884
+  last_post_guid: bb1f412d66301527f15eadf11e4f767d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: it
-  postcount: 3
+  postcount: 5
   avgpostlen: 0
 ---

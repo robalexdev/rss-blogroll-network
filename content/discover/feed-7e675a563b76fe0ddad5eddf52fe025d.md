@@ -22,17 +22,17 @@ params:
   - About me
   - Books
   relme: {}
-  last_post_title: 'Breakneck: China’s Quest to Engineer the Future'
-  last_post_description: 'I didn’t write a letter last year. Rather, I wrote seven,
-    all of which is new material. They make up my book BREAKNECK: China’s Quest to
-    Engineer the Future. It’s driven by a few simple ideas.'
-  last_post_date: "2025-07-25T13:51:37Z"
-  last_post_link: https://danwang.co/breakneck/
+  last_post_title: 2025 letter
+  last_post_description: (This piece is my year in review; I skipped a letter last
+    year) One way that Silicon Valley and the Communist Party resemble each other
+    is that both are serious, self-serious, and indeed, completely
+  last_post_date: "2026-01-01T14:29:42Z"
+  last_post_link: https://danwang.co/2025-letter/
   last_post_categories:
   - About me
   - Books
   last_post_language: ""
-  last_post_guid: 76ebaa080425b68ae55e3bc7b85b393f
+  last_post_guid: 99f85968e05d907b510406dd8302819f
   score_criteria:
     cats: 0
     description: 3

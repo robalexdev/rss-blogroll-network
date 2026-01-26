@@ -19,16 +19,19 @@ params:
   relme: {}
   last_post_title: Introduction to the Cardano blockchain ledger and smart contracts
   last_post_description: |-
-    The Cardano Ledger
+    The
+    Cardano Ledger
 
-    Basic transactions
+    Basic
+    transactions
     UTXO
     Transaction Validation
     Smart Contracts and EUTXO
 
     Conclusion
 
-    Recently, I wanted to better understand how the Cardano blockchain works on a technical level
+    Recently, I wanted to better understand how the Cardano
+    blockchain works on a technical level
   last_post_date: "2021-05-02T13:05:00+02:00"
   last_post_link: http://apfelmus.nfshost.com/articles/cardano-ledger-intro.html
   last_post_categories: []

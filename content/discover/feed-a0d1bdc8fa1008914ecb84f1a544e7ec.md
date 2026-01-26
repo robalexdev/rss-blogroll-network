@@ -18,16 +18,16 @@ params:
   categories:
   - Notes
   relme: {}
-  last_post_title: The Return of Magic
-  last_post_description: My first time in an airplane was in some Cessna 25 years
-    ago. I had never imagined I’d ever sit in a plane, because that was something
-    for rich people. But then after our visit to Legoland in
-  last_post_date: "2025-11-11T04:32:27Z"
-  last_post_link: https://jaapgrolleman.com/the-return-of-magic/
+  last_post_title: Kunshan Diorama
+  last_post_description: Today, I’m visiting Zhengyi Old Street (正仪老街) in Kunshan
+    — a city wedged in between Suzhou and Shanghai. This old street is a leftover
+    slice in between other parts properly planned by the
+  last_post_date: "2026-01-17T07:51:35Z"
+  last_post_link: https://jaapgrolleman.com/choosing-focus/
   last_post_categories:
   - Notes
   last_post_language: ""
-  last_post_guid: 0b1be9dab3f2185091e31f5800718108
+  last_post_guid: eea86ee92cf8d4b34296d0c8eda13371
   score_criteria:
     cats: 0
     description: 3

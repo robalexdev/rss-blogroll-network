@@ -1,6 +1,6 @@
 ---
 title: The Leafslug - All
-date: "2025-10-06T13:52:50+02:00"
+date: "2026-01-18T18:19:39+01:00"
 description: Slowly wandering Leafslug, eating away leaves and photosynthesizing under
   a mellow light.
 params:
@@ -27,7 +27,7 @@ params:
   relme: {}
   last_post_title: Sorry
   last_post_description: I spammed your feed reader, and I'm sorry!
-  last_post_date: "2025-09-01T19:47:43+02:00"
+  last_post_date: "2025-09-01T17:47:43Z"
   last_post_link: https://theleafslug.com/entries/i-broke-your-feed-reader
   last_post_categories:
   - dailies

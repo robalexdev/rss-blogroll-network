@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2025-11-12T08:18:00Z"
+date: "2026-01-21T10:37:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -18,14 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Generic impact prioritization lists are an empty promise. We can
-    do better.
+  last_post_title: Floating Action Buttons are bad, and what to do instead.
   last_post_description: ""
-  last_post_date: "2025-11-12T08:18:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/generic-impact-prioritization-lists-are-an-empty-promise-we-can-do-better/
+  last_post_date: "2026-01-21T10:37:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/floating-action-buttons-are-bad-and-what-to-do-instead-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 391a6f9f6f2f777b354cfa30b2bb0bf1
+  last_post_guid: 19ca21733b8d3f81faada81280cda707
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 35
+  postcount: 40
   avgpostlen: 294
 ---

@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Can we make Security Empirical, and why might we want to?
-  last_post_description: 'There''s a paper I recently came across by Mohammad Tahaei
-    and colleagues called Privacy Champions in Sofware Teams: Understanding Their
-    Motivations, Strategies, and Challenges. In it, they interview'
-  last_post_date: "2025-11-14T17:07:00Z"
-  last_post_link: https://www.fightforthehuman.com/empirical-security/
+  last_post_title: Access the Design-a-Study Workshop & become an advance reader for
+    my book!
+  last_post_description: I hosted another Developer Science Office Hour last month,
+    and for some reason, decided I needed to blackmail myself into making it a brief
+    (very brief!) workshop on research design. In general I am
+  last_post_date: "2025-12-04T20:06:34Z"
+  last_post_link: https://www.fightforthehuman.com/access-the-design-a-study-workshop-become-an-advance-reader-for-my-book/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 61789256f8625e0949f1a86bffa401dc
+  last_post_guid: 8018e9523040c7458e5765e7b1fd51e9
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 5
+  postcount: 8
   avgpostlen: 0
 ---

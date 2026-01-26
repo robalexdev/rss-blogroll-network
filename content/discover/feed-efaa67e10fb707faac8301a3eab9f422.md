@@ -20,17 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何正确地金字塔式加仓：构建盈利头寸的艺术
-  last_post_description: !!binary |
-    5Zyo5Lqk5piT5Lit77yM6K645aSa5Lq655e06L+35LqO5a+75om+5a6M576O55qE5YWl5Z
-    y654K577yM5Y205b6A5b6A5Zyo5aaC5L2V566h55CG55uI5Yip5aS05a+45LiK5qC96Lef
-    5aS077yM5a+86Ie04oCc6KaB5LmI6L+H5pep56a75Zy677yM6KaB5LmI5Yip5ram5Zue5Z
-    CQ4oCd44CC6YeR5a2X5aGU5byP5Yqg5LuT77yIUHlyYW1pZGluZ++8ieY=
-  last_post_date: "2025-11-10T10:00:00+08:00"
-  last_post_link: https://blog.forecho.com/how-to-properly-pyramid-a-position.html
+  last_post_title: 用 AI Vibe Coding 第一次开发 App 的经验
+  last_post_description: |-
+    引言
+    我是一个拥有 10 年开发经验的 Web 开发工程师，主要专注于后端开发。虽然我也曾两次尝试学习开发
+  last_post_date: "2026-01-22T14:07:41+08:00"
+  last_post_link: https://blog.forecho.com/my-first-app-with-ai-vibe-coding.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d349a50ccba6aed13cc81db98bf80e76
+  last_post_guid: a78983f15bcdd13fcd726d33447f6de9
   score_criteria:
     cats: 0
     description: 3

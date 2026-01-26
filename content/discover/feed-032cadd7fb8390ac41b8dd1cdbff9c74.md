@@ -1,6 +1,6 @@
 ---
 title: EzraKnotLab
-date: "2025-11-09T09:38:33Z"
+date: "2025-12-28T10:50:29Z"
 description: "Bruno Leopold CHEM PhD |Energy Research|Data Viz|CmonCity|NASA|Tech|⚽\U0001F3C0\nI,
   a universe of atoms, an atom in the universe."
 params:
@@ -17,18 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: EKL 20251109
-  last_post_description: |-
-    Keywords
-
-    Pavel Durov
-    Allow himself to “recover a bit
-    N-G 曲线
-  last_post_date: "2025-11-09T01:19:46Z"
-  last_post_link: https://ezraknotlab.github.io/post/ekl-20251105/
+  last_post_title: "2025"
+  last_post_description: ""
+  last_post_date: "2025-12-31T12:52:42Z"
+  last_post_link: https://ezraknotlab.github.io/post/2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d41403bb5650467d8ae47e1c93f169f
+  last_post_guid: 06fce8a22657b6c3e9232c351f0bcd92
   score_criteria:
     cats: 0
     description: 3
@@ -47,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 100
-  avgpostlen: 263
+  avgpostlen: 270
 ---

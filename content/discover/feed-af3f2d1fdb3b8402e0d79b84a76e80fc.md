@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2025-11-15T19:08:13Z"
+date: "2026-01-26T12:16:54Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 基于 Surge 的 DNS 优化指南
-  last_post_description: 基于 Surge 的 DNS 优化指南
-  last_post_date: "2025-08-19T06:23:30Z"
-  last_post_link: https://baiyun.me/surge-dns-optimization-guide
+  last_post_title: 浙江杭州电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
+  last_post_description: 浙江杭州电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
+  last_post_date: "2026-01-20T12:06:04Z"
+  last_post_link: https://baiyun.me/zhejiang-hangzhou-telecom-iptv
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72a2e1463b2cbe3a98cab6a2c37120b2
+  last_post_guid: 6567cf14a37a76a5cbbca502a22e6394
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 56
-  avgpostlen: 245
+  postcount: 57
+  avgpostlen: 246
 ---

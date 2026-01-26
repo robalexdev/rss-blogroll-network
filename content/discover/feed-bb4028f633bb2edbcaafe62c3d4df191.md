@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2025-10-27T00:03:20Z"
+date: "2026-01-25T18:38:21Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,37 +15,43 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Experimental highlights
   - News
-  - Reflections
+  - Quantum Computing
+  - The expert's corner
+  - Theoretical highlights
   relme: {}
-  last_post_title: The sequel
-  last_post_description: 'This October, fantasy readers are devouring a sequel: the
-    final installment in Philip Pullman’s trilogy The Book of Dust. The series follows
-    student Lyra Silvertongue as she journeys from Oxford to'
-  last_post_date: "2025-10-27T00:03:20Z"
-  last_post_link: https://quantumfrontiers.com/2025/10/26/the-sequel/
+  last_post_title: Quantum computing in the second quantum century
+  last_post_description: On December 10, I gave a keynote address at the Q2B 2025
+    Conference in Silicon Valley. This is a transcript of my remarks. The slides I
+    presented are here. The video is here. The first century We
+  last_post_date: "2026-01-25T18:38:21Z"
+  last_post_link: https://quantumfrontiers.com/2025/12/26/quantum-computing-in-the-second-quantum-century/
   last_post_categories:
+  - Experimental highlights
   - News
-  - Reflections
+  - Quantum Computing
+  - The expert's corner
+  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: cc96a926a80824555910a564e7c62fe4
+  last_post_guid: 2dd52245cced7042e52e26ec9cd2e000
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 297
+  avgpostlen: 295
 ---

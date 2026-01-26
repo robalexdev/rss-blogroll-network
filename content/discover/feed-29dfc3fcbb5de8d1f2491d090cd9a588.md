@@ -1,6 +1,6 @@
 ---
 title: Notes from Underground ...
-date: "2025-09-11T08:54:31-07:00"
+date: "2025-11-16T07:04:58-08:00"
 description: Notes about Ubuntu and Debian development.
 params:
   feedlink: https://www.blogger.com/feeds/4695702196537398257/posts/default
@@ -12,9 +12,6 @@ params:
   - title: Planet Debian
     description: ""
     id: 4b58bf166d81bd8f38b7c8dca18c6834
-  - title: Planet Ubuntu
-    description: ""
-    id: 2e7081f355cc59bbf52d230711c6cd29
   recommended: []
   recommender: []
   categories:

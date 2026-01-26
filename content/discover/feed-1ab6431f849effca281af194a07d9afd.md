@@ -1,6 +1,6 @@
 ---
 title: 大象笔记 - Notes of Elephant Leg
-date: "2025-11-13T21:21:14+08:00"
+date: "2026-01-19T22:04:15+08:00"
 description: 大家好，我是生活在地球的一头大象。这里记录了我的每一天，有日记、有笔记、也有 wiki 和照片。
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 手机 sim 卡无法识别之后，我突然慌了
-  last_post_description: "今天早上上班真是走了大运，先是电脑ssd硬盘io异常，卡得无法动弹。然后想用手机查查原因，发现sim卡无法识别了\U0001F974"
-  last_post_date: "2025-11-13T21:21:14+08:00"
-  last_post_link: https://www.sunzhongwei.com/my-sim-card-couldnt-recognize-my-phone
+  last_post_title: 批量修改 AWS S3 挂载目录下文件权限
+  last_post_description: 先交代一下背景，在服务器上挂载了一个 S3 类似的对象存储，用于存放网站的图片。 现在需要把这个挂载目录下的所有文件权限改为
+  last_post_date: "2026-01-19T22:04:15+08:00"
+  last_post_link: https://www.sunzhongwei.com/batch-modify-file-permissions-aws-s3-mount-directory
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e72a96e5c688617a6f186fef59f64f19
+  last_post_guid: 9deffa9c7c234eef3c519bce48323725
   score_criteria:
     cats: 0
     description: 3
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 256
+  avgpostlen: 257
 ---

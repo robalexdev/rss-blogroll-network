@@ -1,13 +1,12 @@
 ---
 title: Andrew Ayer - Blog
-date: "2025-11-03T13:31:09Z"
+date: "2025-12-10T18:36:52Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
   feedtype: atom
   feedid: 8ac68fd32caf4e72a368a5c9676ebcd9
   websites:
-    https://www.agwa.name/blog: true
     https://www.agwa.name/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -27,14 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Google Just Suspended My Company's Google Cloud Account for the
-    Third Time
+  last_post_title: Certificate Authorities Are Once Again Issuing Certificates That
+    Don't Work
   last_post_description: ""
-  last_post_date: "2025-11-03T13:31:09Z"
-  last_post_link: https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again
+  last_post_date: "2025-12-10T18:36:52Z"
+  last_post_link: https://www.agwa.name/blog/post/cas_are_issuing_broken_certificates_again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9fb05080c9b4607e3cd40dfd6b4c0b54
+  last_post_guid: 48e4b9408f3e6d506b39adb62e14b4a8
   score_criteria:
     cats: 0
     description: 0
@@ -46,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

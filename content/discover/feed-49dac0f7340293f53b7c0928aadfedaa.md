@@ -1,6 +1,6 @@
 ---
 title: Talk Python To Me
-date: "2025-11-10T00:00:00-08:00"
+date: "2026-01-23T19:29:41Z"
 description: |-
   Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive
               deep into the popular packages and software developers, data scientists, and incredible
@@ -24,23 +24,25 @@ params:
     https://fosstodon.org/@talkpython: true
     https://github.com/mikeckennedy: true
     https://mkennedy.codes/: true
-    https://mkennedy.codes/search: true
     https://talkpython.fm/: true
     https://training.talkpython.fm/: true
-  last_post_title: '#527: MCP Servers for Python Devs'
+  last_post_title: '#535: PyView: Real-time Python Web Apps'
   last_post_description: |-
-    Den Delimarsky: den.dev
+    Guest
+    Larry Ogrodnek: hachyderm.io
 
-    Agentic AI Programming for Python Course: training.talkpython.fm
-
-    Model Context Protocol: modelcontextprotocol.io
-    Model Context Protocol Specification (2025-03-26):
-  last_post_date: "2025-11-10T00:00:00-08:00"
-  last_post_link: https://talkpython.fm/episodes/show/527/mcp-servers-for-python-devs
+    pyview.rocks: pyview.rocks
+    Phoenix LiveView: github.com
+    this section: pyview.rocks
+    Core Concepts: pyview.rocks
+    Socket and Context: pyview.rocks
+    Event Handling:
+  last_post_date: "2026-01-23T19:29:41Z"
+  last_post_link: https://talkpython.fm/episodes/show/535/pyview-real-time-python-web-apps
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: c2de8707591421043631ece84820f6d5
+  last_post_guid: 3459e468037d483cc215c2806f877f71
   score_criteria:
     cats: 1
     description: 3
@@ -58,6 +60,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 517
+  postcount: 534
   avgpostlen: 0
 ---

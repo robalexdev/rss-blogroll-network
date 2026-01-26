@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2025-11-13T15:26:30Z"
+date: "2026-01-02T21:04:46Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -19,31 +19,24 @@ params:
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
-  - title: The Art Of Not Asking Why - Blogroll
-    description: ""
-    id: e79d34746977a283ee12bf2f27dfee7a
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
-  - https://taonaw.com/categories/emacs-org-mode/feed.xml
-  - https://taonaw.com/feed.xml
-  - https://taonaw.com/podcast.xml
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: My new business + tech podcast
-  last_post_description: After reading1 the recent news about the unsurprising lack
-    of diversity in podcasting — “64% of the hosts of the most popular US podcasts
-    of 2024 were men…Shows with video...
-  last_post_date: "2025-11-13T15:26:30Z"
-  last_post_link: https://anniemueller.com/posts/my-new-business-tech-podcast
+  last_post_title: To be defeated by ever greater things
+  last_post_description: For the new year, a resolution“How small that is, with which
+    we wrestle, what wrestles with us, how immense; were we to let ourselves, the
+    way things do, be conquered...
+  last_post_date: "2026-01-02T21:38:33Z"
+  last_post_link: https://anniemueller.com/posts/to-be-defeated-by-ever-greater-things
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dec1b6460dbe7b81ef247e9984216aee
+  last_post_guid: be040d7ed6a2eee5bd652ba88e530c7b
   score_criteria:
     cats: 0
     description: 0

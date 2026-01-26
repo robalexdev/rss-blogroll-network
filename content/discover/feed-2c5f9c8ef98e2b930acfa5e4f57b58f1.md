@@ -1,14 +1,13 @@
 ---
-title: Jeff Geerling's Blog
+title: Jeff Geerling
 date: "1970-01-01T00:00:00Z"
-description: ""
+description: Recent content on Jeff Geerling
 params:
   feedlink: https://www.jeffgeerling.com/blog.xml
   feedtype: rss
   feedid: 2c5f9c8ef98e2b930acfa5e4f57b58f1
   websites:
     https://www.jeffgeerling.com/: true
-    https://www.jeffgeerling.com/blog: false
   blogrolls: []
   in_blogrolls:
   - title: Frank McPherson - Blogroll
@@ -24,36 +23,36 @@ params:
   recommender:
   - https://frankmcpherson.blog/feed.xml
   categories: []
-  relme: {}
-  last_post_title: Using AMD GPUs on Raspberry Pi without recompiling Linux
+  relme:
+    https://github.com/geerlingguy: true
+    https://www.jeffgeerling.com/: true
+    https://www.jeffgeerling.com/sponsor/: true
+  last_post_title: Migrating 13,000 Comments from Drupal to Hugo
   last_post_description: |-
-    I'm working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the 15 line kernel patch is (IMO) nearly ready for upstreaming.
-
-
-
-    But this blog post shows how to quickly get
-  last_post_date: "2025-11-14T14:58:14Z"
-  last_post_link: https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux
+    After 16 years on the LAMP stack, I finished migrating this website from Drupal to Hugo a few weeks ago.
+    What's old is new, as this blog was originally built with Thingamablog, a Java-based Static
+  last_post_date: "2026-01-20T20:43:00-06:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3f58b4d2034169955c0a2d34613e542
+  last_post_guid: edda456fb309a1089c6ca68212b5270e
   score_criteria:
     cats: 0
-    description: 0
+    description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 20
   avgpostlen: 0
 ---

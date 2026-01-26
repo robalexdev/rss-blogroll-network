@@ -19,14 +19,14 @@ params:
   categories:
   - Recomendo
   relme: {}
-  last_post_title: More Gifts
-  last_post_description: 'Recomendo - issue #491'
-  last_post_date: "2025-12-07T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/more-gifts/
+  last_post_title: TeamLab Borderless / Listen to Whales / Kitchen drawer multitool
+  last_post_description: 'Recomendo - issue #498'
+  last_post_date: "2026-01-25T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/teamlab-borderless-listen-to-whales-kitchen-drawer-multitool/
   last_post_categories:
   - Recomendo
   last_post_language: ""
-  last_post_guid: 866765b370c80a85efed94dea06f1809
+  last_post_guid: fb1a7308a6441d5948ca07d23c8b066f
   score_criteria:
     cats: 0
     description: 3

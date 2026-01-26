@@ -8,17 +8,11 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
-    https://frills.dev/blog: false
     https://frills.dev/blog/: false
-    https://frills.dev/bookmarks: false
     https://frills.dev/bookmarks/: false
-    https://frills.dev/changelog: false
     https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
-  - title: ""
-    description: ""
-    id: 7c57874819a3b666310d14cda337b41d
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -26,31 +20,18 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
   relme:
     https://frills.dev/: true
     https://indieweb.social/@frills: true
-  last_post_title: Indie Web Burnout
-  last_post_description: Talking about where my head is at with this website and my
-    energy.
-  last_post_date: "2025-09-09T13:19:00Z"
-  last_post_link: https://frills.dev/blog/2025/september/indie-web-burnout/
+  last_post_title: Actual Burnout
+  last_post_description: Processing my time spent signed off work
+  last_post_date: "2025-11-28T13:01:43Z"
+  last_post_link: https://frills.dev/blog/2025/november/actual-burnout/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d00b30242df5f6b0b18c9f68565ecc9b
+  last_post_guid: c238a0c9ae6475e991bf874c05a6d29d
   score_criteria:
     cats: 0
     description: 3
@@ -68,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 114
+  postcount: 115
   avgpostlen: 0
 ---

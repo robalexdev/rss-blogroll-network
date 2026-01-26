@@ -1,6 +1,6 @@
 ---
 title: Louis-Philippe Véronneau
-date: "2025-10-11T00:00:00-04:00"
+date: "2026-01-13T00:00:00-05:00"
 description: ""
 params:
   feedlink: https://veronneau.org/feeds/languages/en.atom.xml
@@ -17,37 +17,32 @@ params:
   categories:
   - blog
   - debian
-  - montreal
   relme: {}
-  last_post_title: Montreal's Debian & Stuff - September 2025
+  last_post_title: Reducing the size of initramfs kernel images
   last_post_description: |-
-    Our Debian User Group met on September 27th for our first meeting
-    since our summer hiatus. As always, it was fun and productive!
-    Here's what we did:
-    pollo:
-
-    reviewed and merged Lintian contributions
-  last_post_date: "2025-10-11T00:00:00-04:00"
-  last_post_link: https://veronneau.org/montreals-debian-stuff-september-2025.html
+    In the past few years, the size of the kernel images in Debian have been
+    steadily growing. I don't see this as a problem per se, but it has been causing
+    me trouble, as my /boot partition has become
+  last_post_date: "2026-01-13T00:00:00-05:00"
+  last_post_link: https://veronneau.org/reducing-the-size-of-initramfs-kernel-images.html
   last_post_categories:
   - blog
   - debian
-  - montreal
   last_post_language: ""
-  last_post_guid: 7d6dd2926fb416d7a20b605b5c8f9345
+  last_post_guid: 851d4c081b737a793f267d21c99def3d
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

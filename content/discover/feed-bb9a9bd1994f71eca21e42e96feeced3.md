@@ -21,15 +21,16 @@ params:
   - 'Software/ '
   - Vale Programming Language
   relme: {}
-  last_post_title: 'Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions'
+  last_post_title: The Impossible Optimization, and the Metaprogramming To Achieve
+    It
   last_post_description: ""
   last_post_date: "2025-08-28T01:20:00-05:00"
-  last_post_link: https://verdagon.dev/blog/group-borrowing
+  last_post_link: https://verdagon.dev/blog/impossible-optimization
   last_post_categories:
   - Mojo Programming Language
   - Programming Languages
   last_post_language: ""
-  last_post_guid: da133a3e92b93184f30ebcb4f4ee4e6e
+  last_post_guid: 5c3a41de252309b0e71fbeb14e378d9a
   score_criteria:
     cats: 4
     description: 3
@@ -47,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 35
+  postcount: 36
   avgpostlen: 0
 ---

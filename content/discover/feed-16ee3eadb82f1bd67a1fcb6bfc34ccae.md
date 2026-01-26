@@ -21,20 +21,19 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 305: Tuesday 28 October 2025 – Monday 3 November
-    2025'
-  last_post_description: Nepal prep. Garage renovation prep. Failed to get onto Functional
-    Playground again this week (Tuesday ). Still, I’ve got 4 PT sessions so perhaps
-    it’s not a bad thing, and I spent the hour
-  last_post_date: "2025-11-04T09:09:55Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2025/11/04/herefordshire-week-305-tuesday-28-october-2025-monday-3-november-2025/
+  last_post_title: 'Herefordshire Week 316: Tuesday 13 – Monday 19 January 2026'
+  last_post_description: Garage completed. Hazel comes to stay. Rain. Fog. Got the
+    log stove going again on Tuesday, waiting for B’s plumber to return to reattach
+    the LPG tank to the boiler. Fog outside – silent and damp
+  last_post_date: "2026-01-20T09:18:20Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2026/01/20/herefordshire-week-316-tuesday-13-monday-19-january-2026/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: ee40af9e139a86ab99e7839695693190
+  last_post_guid: 27a3566fb359008f77977201cc9954ac
   score_criteria:
     cats: 0
     description: 0

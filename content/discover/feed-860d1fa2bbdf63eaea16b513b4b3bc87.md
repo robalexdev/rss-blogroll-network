@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's up Python? You already know :)
-  last_post_description: October, 2025
-  last_post_date: "2025-11-09T21:41:49Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-you-already-know
+  last_post_title: What’s up Python? Astral's new type checker, McGugan's new tool
+    and Django new CSRF protection
+  last_post_description: December 2025
+  last_post_date: "2025-12-30T11:07:52Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-astrals-new-type
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f87e98f13c055c048a7aba29715ffdee
+  last_post_guid: 6e95a3f4e774cb25224bf44ba15f3a25
   score_criteria:
     cats: 0
     description: 3

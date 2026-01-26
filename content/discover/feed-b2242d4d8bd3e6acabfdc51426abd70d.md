@@ -1,6 +1,6 @@
 ---
 title: MAT Lab Lab Log
-date: "2025-09-10T20:18:35Z"
+date: "2026-01-08T17:30:09Z"
 description: Writings and Reports from Mat Kelly's Research Group at Drexel CCI
 params:
   feedlink: https://log.lab.matkelly.com/feed

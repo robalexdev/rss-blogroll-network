@@ -17,20 +17,19 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories:
   - Weeknotes
   relme: {}
-  last_post_title: Weeknotes 25:45
-  last_post_description: Not being too clever I was working through Mat Marquis’ lesson
-    on expressions in JavaScript is for Everyone (you can access this lesson and a
-    few others for free) last week. He was going through
-  last_post_date: "2025-11-11T00:27:39Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-november-10-2025/
+  last_post_title: Weeknotes 26:03
+  last_post_description: Articles I read Caught my eye Text frame border animation
+    rotation (Codepen) See the Pen Text frame border animation rotation that [CSS
+    & SVG] V 2 by Fernando Cohen (@designfenix) on CodePen. Cyd
+  last_post_date: "2026-01-19T21:50:56Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-january-19-2026/
   last_post_categories:
   - Weeknotes
   last_post_language: ""
-  last_post_guid: 8ff77fb5f7254b78d932cbfbb8457bfe
+  last_post_guid: d969513f2427c7a09b6398627f987078
   score_criteria:
     cats: 0
     description: 3

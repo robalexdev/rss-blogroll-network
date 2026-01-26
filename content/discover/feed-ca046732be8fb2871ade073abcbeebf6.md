@@ -18,31 +18,33 @@ params:
   categories:
   - Notes
   - Premium
+  - federal reserve
   relme: {}
-  last_post_title: Heirloom Mortgage
-  last_post_description: A 50 year mortgage would not be successful today, but it
-    could be a tailwind to the housing market in a world with lower rates and more
-    product knowledge. Longer term mortgages can improve housing
-  last_post_date: "2025-11-10T15:44:21Z"
-  last_post_link: https://fedguy.com/heirloom-mortgage/?utm_source=rss&utm_medium=rss&utm_campaign=heirloom-mortgage
+  last_post_title: Practical Monetarism
+  last_post_description: The President is poised to announce his pick for Fed Chairman
+    as soon as this week and Kevin Warsh is now the leading contender. Warsh is a
+    former Fed governor and noted hawk, but his views on Fed
+  last_post_date: "2026-01-19T14:49:03Z"
+  last_post_link: https://fedguy.com/practical-monetarism/?utm_source=rss&utm_medium=rss&utm_campaign=practical-monetarism
   last_post_categories:
   - Notes
   - Premium
+  - federal reserve
   last_post_language: ""
-  last_post_guid: 9b7e554d0f15718eec71bde26fc1c5fc
+  last_post_guid: 75bdcbfc67b7f80b1b46628b0bb2c46a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

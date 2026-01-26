@@ -1,6 +1,6 @@
 ---
 title: Ruud van Asseldonk
-date: "2025-10-12T00:00:00Z"
+date: "2025-12-07T00:00:00Z"
 description: ""
 params:
   feedlink: https://ruudvanasseldonk.com/feed.xml
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Abstraction, not syntax
-  last_post_description: 'Alternative configuration formats solve superficial problems.
-    Configuration languages solve the deeper problem: the need for abstraction.'
-  last_post_date: "2025-10-12T00:00:00Z"
-  last_post_link: https://ruudvanasseldonk.com/2025/abstraction-not-syntax
+  last_post_title: Adding unpack syntax to RCL
+  last_post_description: In this post I explore the design space of adding unpack
+    syntax to RCL. Due to RCL having sets, there are interesting trade-offs here.
+  last_post_date: "2025-12-07T00:00:00Z"
+  last_post_link: https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c84bb01ee683ef22c0853f60403cbb68
+  last_post_guid: db6421f1c7c7d227642059edfbfd6166
   score_criteria:
     cats: 0
     description: 0

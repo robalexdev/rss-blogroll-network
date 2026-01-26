@@ -1,6 +1,6 @@
 ---
 title: Gaël Varoquaux - programming
-date: "2024-07-03T00:00:00+02:00"
+date: "2026-01-14T00:00:00+01:00"
 description: ""
 params:
   feedlink: https://gael-varoquaux.info/feeds/programming.atom.xml
@@ -15,34 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - machine learning
+  - communities
+  - growth
+  - inria
   - open source
+  - probabl
   - programming
   - scikit-learn
-  - skrub
-  - software
-  - tabular
   relme: {}
-  last_post_title: 'Skrub 0.2.0: tabular learning made easy'
+  last_post_title: Stepping up as probabl’s CSO to supercharge scikit-learn and its
+    ecosystem
   last_post_description: |-
-    We just released skrub 0.2.0. This release
-    markedly simplifies learning on complex dataframes.
-    model = tabular_learner(‘classifier’)
+    Note
 
-    Simple, yet solid default baseline
-    The highlight of the
-  last_post_date: "2024-07-03T00:00:00+02:00"
-  last_post_link: https://gael-varoquaux.info/programming/skrub-020-tabular-learning-made-easy.html
+    Probabl’s get together, in falls 2025
+
+    I’m thrilled to announce that I’m stepping up as Probabl’s CSO (Chief Science Officer) to supercharge
+    scikit-learn and its ecosystem, pursuing my
+  last_post_date: "2026-01-14T00:00:00+01:00"
+  last_post_link: https://gael-varoquaux.info/programming/stepping-up-as-probabls-cso-to-supercharge-scikit-learn-and-its-ecosystem.html
   last_post_categories:
-  - machine learning
+  - communities
+  - growth
+  - inria
   - open source
+  - probabl
   - programming
   - scikit-learn
-  - skrub
-  - software
-  - tabular
   last_post_language: ""
-  last_post_guid: e251a8242b34eed0515f52b3d600253b
+  last_post_guid: bc912663ef86ed574725f6bb42f46d3f
   score_criteria:
     cats: 0
     description: 0

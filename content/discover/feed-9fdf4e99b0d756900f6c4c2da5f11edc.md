@@ -1,6 +1,6 @@
 ---
 title: Mark's Notes
-date: "2025-10-22T12:00:00Z"
+date: "2025-11-29T12:00:00Z"
 description: ""
 params:
   feedlink: https://www.kmjn.org/notes/recent.atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ASP level generation examples from our PCG textbook
+  last_post_title: Shohei Fujimoto exhibition
   last_post_description: ""
-  last_post_date: "2025-10-22T12:00:00Z"
-  last_post_link: https://www.kmjn.org/notes/pcgbook_asp_examples.html
+  last_post_date: "2025-11-29T12:00:00Z"
+  last_post_link: https://www.kmjn.org/notes/shohei_fujimoto_exhibition.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b6298480d2bf1575671bd57153cd449
+  last_post_guid: b0682caf03af4c767f30580177bc0847
   score_criteria:
     cats: 0
     description: 0
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 34
+  postcount: 37
   avgpostlen: 294
 ---

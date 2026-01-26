@@ -26,12 +26,12 @@ params:
   - OSGeo
   - OpenSource
   relme: {}
-  last_post_title: GRASS GIS 8.4.1 released
+  last_post_title: GRASS GIS 8.4.2 released
   last_post_description: |-
-    The GRASS GIS 8.4.1 release provides more than 80 improvements and fixes with respect to the release 8.4.0. Enjoy!
-    The post GRASS GIS 8.4.1 released appeared first on Markus Neteler Consulting.
-  last_post_date: "2025-03-07T11:53:24Z"
-  last_post_link: https://neteler.org/blog/grass-gis-8-4-1-released/
+    The GRASS GIS 8.4.2 release provides more than 35 improvements and fixes with respect to the release 8.4.1. Enjoy!
+    The post GRASS GIS 8.4.2 released appeared first on Markus Neteler Consulting.
+  last_post_date: "2025-12-08T15:02:06Z"
+  last_post_link: https://neteler.org/blog/grass-gis-8-4-2-released/
   last_post_categories:
   - Blog
   - Community Sprint
@@ -43,7 +43,7 @@ params:
   - OSGeo
   - OpenSource
   last_post_language: ""
-  last_post_guid: 0c6ba830d6b130faa50d589aeb46f8c1
+  last_post_guid: 1458d0fc9b3b485e7daabc4892415cca
   score_criteria:
     cats: 0
     description: 3

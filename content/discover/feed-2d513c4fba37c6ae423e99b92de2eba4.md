@@ -18,15 +18,17 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №25·10·22
-  last_post_description: "Anyway.FM 十周年上海线下活动——「十字路口」（早鸟预售）\n十年播客两茫茫，不思量，自难忘。相顾无常，惟有线下讲
-    / \U0001F4E2"
-  last_post_date: "2025-10-22T10:02:22Z"
+  last_post_title: 安妮薇看看 №26·01·21
+  last_post_description: |-
+    本田官宣全面启用新 Logo
+    这个去掉了外框的 H 造型之前还只是新能源概念车专属，现在官宣了，所有汽车业务都会用这个，摩托车不变~
+    AI
+  last_post_date: "2026-01-21T07:25:15Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: ff8db9d9a1a9955c58d1f77da1a90401
+  last_post_guid: 14f67514d3847ab3bea3be2475354b99
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 27
+  postcount: 32
   avgpostlen: 0
 ---

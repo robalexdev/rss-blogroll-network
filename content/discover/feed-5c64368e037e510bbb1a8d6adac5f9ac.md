@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://newslttrs.com/: true
-  last_post_title: Who wants to watch an AI actor read an AI script?
-  last_post_description: There's been a lot of hype this week over the first so-called
-    AI Actress, Tilly Norwood. Created by Xicoia, the AI division of the production
-    company Particle6, Norwood has appeared in the AI
-  last_post_date: "2025-10-03T17:22:38Z"
-  last_post_link: https://newslttrs.com/who-wants-to-watch-an-ai-actor-read-an-ai-script/
+  last_post_title: 'Language translation: an actually useful AI'
+  last_post_description: I started writing this Newslttr in a hotel in Hong Kong where
+    I was on a mixed working/chilling trip. Between the amazing cuisine and bustling
+    street markets of this Chinese Special Administrative
+  last_post_date: "2025-12-02T18:59:48Z"
+  last_post_link: https://newslttrs.com/language-translation-an-actually-useful-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eb5c3b6546e6c46c3971a050afa4c2cc
+  last_post_guid: 5ad10b40f2dd1e5a880513d2774218e8
   score_criteria:
     cats: 0
     description: 3

@@ -6,8 +6,7 @@ params:
   feedlink: https://omnifish.ee/tag/jakartaee/feed/
   feedtype: rss
   feedid: 886dd26577f3abce9abe5fb3c1f680a7
-  websites:
-    https://omnifish.ee/tag/jakartaee/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Jakarta Blogs
@@ -16,27 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Jakarta Data
+  - GlassFish
+  - GlassFish Embedded
+  - GlassFish-Embedded
   - Jakarta EE
-  - Jakarta NoSQL
-  - Other
-  - conferences
+  - Microservices
+  - Video
   relme: {}
-  last_post_title: 'Next level persistence in Jakarta EE: Jakarta Data and Jakarta
-    NoSQL – JFall slides'
-  last_post_description: At the WeAreDevelopers World Congress 2024, OmniFish presented
-    about what Jakarta EE is, and what the new features are in Jakarta EE 11. Here
-    are the slides from our presentation.
-  last_post_date: "2025-11-14T19:13:52Z"
-  last_post_link: https://omnifish.ee/next-level-persistence-in-jakarta-ee-jakarta-data-and-jakarta-nosql-jfall-slides/?utm_source=rss&utm_medium=rss&utm_campaign=next-level-persistence-in-jakarta-ee-jakarta-data-and-jakarta-nosql-jfall-slides
+  last_post_title: Run Your Apps with GlassFish from the Command Line
+  last_post_description: With Embedded GlassFish runnable from command line, watch
+    how it's easy to run applications with GlassFish directly from the command line
+    or from a Docker container, as any standard Java application.
+  last_post_date: "2026-01-08T22:44:00Z"
+  last_post_link: https://omnifish.ee/run-your-apps-with-glassfish-from-the-command-line/?utm_source=rss&utm_medium=rss&utm_campaign=run-your-apps-with-glassfish-from-the-command-line
   last_post_categories:
-  - Jakarta Data
+  - GlassFish
+  - GlassFish Embedded
+  - GlassFish-Embedded
   - Jakarta EE
-  - Jakarta NoSQL
-  - Other
-  - conferences
+  - Microservices
+  - Video
   last_post_language: ""
-  last_post_guid: 4fdc7af0b53c22add43f86a2814c7d5a
+  last_post_guid: c933e73c3da5160e555c340aba31a354
   score_criteria:
     cats: 0
     description: 3
@@ -48,8 +48,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

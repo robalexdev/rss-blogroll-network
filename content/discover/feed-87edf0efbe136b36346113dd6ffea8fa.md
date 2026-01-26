@@ -17,17 +17,15 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: It’s About What You Need to Do
-  last_post_description: Some thoughts about how you should use tools to the level
-    at which you need to
-  last_post_date: "2025-11-07T07:06:00Z"
-  last_post_link: https://scottnesbitt.online/need2.html
+  last_post_title: My Writing Setup
+  last_post_description: What I use, both physical and digital, to write
+  last_post_date: "2026-01-23T06:04:00Z"
+  last_post_link: https://scottnesbitt.online/setup.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c8e84b5ef9f0ebe0a2b234cf41340dea
+  last_post_guid: 7d277b56b07c6acc322bf72ba6104a37
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 60
+  postcount: 70
   avgpostlen: 0
 ---

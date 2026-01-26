@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: What is USSD (and who cares)?
-  last_post_description: While many of us chase the latest tech trends, innovative
-    builders in Sub-Saharan Africa are leveraging a nearly 30-year-old messaging protocol
-    to process hundreds of billions in transactions
-  last_post_date: "2025-10-29T05:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2025/10/what-is-ussd-and-who-cares.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: A little bit uncomfortable
+  last_post_description: Fear is actually a pretty good signal that you are pushing
+    into the unknown, that real growth doesn’t happen without a bit of that associated
+    discomfort, and that it’s worth becoming aware when
+  last_post_date: "2025-12-16T04:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2025/12/a-little-bit-uncomfortable.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 998cc1e58668b7048b78ea6b160e4aa6
+  last_post_guid: 06c72118572859698f633516ba2ff525
   score_criteria:
     cats: 0
     description: 3

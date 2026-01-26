@@ -1,6 +1,6 @@
 ---
 title: 生信爱好者周刊
-date: "2025-11-08T09:20:25Z"
+date: "2025-12-29T08:58:23Z"
 description: 记录每周值得分享的生信相关内容，周日发布。
 params:
   feedlink: https://openbiox.github.io/weekly/feed_rss_created.xml
@@ -17,16 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 第176期
+  last_post_title: 第180期
   last_post_description: |-
-    生信爱好者周刊（第176期）：有组织科研，是不是学阀大杀四方，片甲不留？¶
+    生信爱好者周刊（第 180 期）：有了AI，还有必要学习生物信息吗？¶
     这里记录值得分享的生信相关内容，每半月发布。
     本杂志开源（GitHub:
-  last_post_date: "2025-11-02T04:16:54Z"
-  last_post_link: https://openbiox.github.io/weekly/issue-176/
+  last_post_date: "2025-12-28T05:07:10Z"
+  last_post_link: https://openbiox.github.io/weekly/issue-180/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7f6852d80afa5d136905bf85b3f738c0
+  last_post_guid: 029dd6de511a5183be4808bee1d79341
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 175
+  postcount: 181
   avgpostlen: 0
 ---

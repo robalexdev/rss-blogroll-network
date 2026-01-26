@@ -18,15 +18,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: uob借记卡管理费
-  last_post_description: 我在新加坡uob银行有两张借记卡，一张uob one，2020年10月开的，一张uob might fx，2023年7月开的。
-    uob one这张卡是前三年免费，之后每年18
-  last_post_date: "2025-11-07T11:03:05Z"
-  last_post_link: https://retire50blog.wang/invest/uob%e5%80%9f%e8%ae%b0%e5%8d%a1%e7%ae%a1%e7%90%86%e8%b4%b9.html
+  last_post_title: 继续买长电
+  last_post_description: 最近又买了些长电，拿腾讯换的。年初大概10%腾讯，现在卖了8%换了长电，还有2%。
+  last_post_date: "2026-01-23T08:54:17Z"
+  last_post_link: https://retire50blog.wang/invest/%e7%bb%a7%e7%bb%ad%e4%b9%b0%e9%95%bf%e7%94%b5.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 2ab443b8c1bdf0e3e0c63fe920f2d50e
+  last_post_guid: 33abd6372aa91763d9cfcf48d120c756
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2025-11-14T10:34:22Z"
+date: "2026-01-22T17:39:13Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -10,21 +10,26 @@ params:
     https://ploum.net/: true
   blogrolls: []
   in_blogrolls:
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.8.14.
+    id: 7def71058aaab40ff83909b86eff9005
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender: []
+  recommender:
+  - https://alexsci.com/blog/rss.xml
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: How I fell in love with calendar.txt
+  last_post_title: Why there’s no European Google?
   last_post_description: ""
-  last_post_date: "2025-09-03T00:00:00Z"
-  last_post_link: https://ploum.net/2025-09-03-calendar-txt.html
+  last_post_date: "2026-01-22T00:00:00Z"
+  last_post_link: https://ploum.net/2026-01-22-why-no-european-google.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a50a19d0440066ab3eb16ec09aa1a4b
+  last_post_guid: 96fb57721d3297a307f6121e539f7c99
   score_criteria:
     cats: 0
     description: 3

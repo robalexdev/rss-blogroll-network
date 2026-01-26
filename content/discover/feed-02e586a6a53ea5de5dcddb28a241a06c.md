@@ -19,19 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stderr
+  - stdout
   relme: {}
-  last_post_title: 影视飓风和小米
+  last_post_title: AI搞不懂人称代词
   last_post_description: |-
-    觉得最近Tim和军儿都着了道了，两个同样都是内容创作者，关注度较高，最近都被“舆论”冲击。为他们可惜。
-
-    一开始我不太明白，为啥会有那么极端
-  last_post_date: "2025-11-15T10:17:00+08:00"
-  last_post_link: https://blog.est.im/2025/stderr-10
+    陪娃学英语，由于我没啥耐心，于是找了豆包跟他陪练。课程是New Concept English Book I Lesson 140（是的很old school），大概内容是：
+    A提问： Are you
+  last_post_date: "2026-01-25T16:13:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-06
   last_post_categories:
-  - stderr
+  - stdout
   last_post_language: ""
-  last_post_guid: ab5f550edcd00801a31be0e4ae0e61a1
+  last_post_guid: 680a23edfbab9f0ed1467f190ba6f715
   score_criteria:
     cats: 0
     description: 3

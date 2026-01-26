@@ -13,31 +13,31 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
-  - title: Frank Meeuwsen - Blogroll
-    description: ""
-    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
   categories:
   - boeken
-  - facebook
-  - meta
+  - fictie
+  - flow
+  - gelezen
+  - sciencefiction
   relme:
     https://infullflow.net/: true
-  last_post_title: 'Gelezen: Careless People'
-  last_post_description: Als er ophef is over een boek, omdat een medewerker uit de
-    school klapt, ben ik meestal niet de eerste die naar de boekwinkel rent. Maar
-    als de medewerker iemand is die jarenlang bij Facebook
-  last_post_date: "2025-03-19T11:57:53Z"
-  last_post_link: https://infullflow.net/2025/03/gelezen-careless-people/
+  last_post_title: 'Gelezen: Death of the Author'
+  last_post_description: Ik heb begrepen van Man, die meer boeken van Nnedi Okorafor
+    heeft gelezen, dat dit boek van haar, Death of the Author, een heel ander verhaal
+    is dan haar andere werk. Jammer, want van zoâ€™n
+  last_post_date: "2026-01-20T15:30:15Z"
+  last_post_link: https://infullflow.net/2026/01/gelezen-death-of-the-author/
   last_post_categories:
   - boeken
-  - facebook
-  - meta
+  - fictie
+  - flow
+  - gelezen
+  - sciencefiction
   last_post_language: ""
-  last_post_guid: 900166602dfc21d65e39995758f15f14
+  last_post_guid: 28801ae310b0f5822284f9e3fed0167e
   score_criteria:
     cats: 0
     description: 0

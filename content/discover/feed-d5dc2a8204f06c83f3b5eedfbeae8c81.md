@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Don’t Mistake Ridehailing for AV Ridehailing
-  last_post_description: 'When Uber introduced surge pricing in 2011, many condemned
-    it as merely a price gouging tactic. But consumers eventually realized its primary
-    benefit: unlike fixed supply networks such as hotel rooms'
-  last_post_date: "2025-03-08T00:00:00-05:00"
-  last_post_link: https://reillybrennan.com/dont-mistake-ridehailing-for-av-ridehailing
+  last_post_title: Take the Underground to Dragonham East
+  last_post_description: ""
+  last_post_date: "2025-12-07T00:00:00-05:00"
+  last_post_link: https://reillybrennan.com/take-the-underground-to-dragonham-east
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb2e57a1fa9cbc34322dfffc4df4acb3
+  last_post_guid: 02f1eba71b17c81f1563798b0913a5ec
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 28
+  postcount: 29
   avgpostlen: 0
 ---

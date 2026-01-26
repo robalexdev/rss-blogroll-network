@@ -1,6 +1,6 @@
 ---
 title: Heather Buchel
-date: "2025-06-02T00:00:00Z"
+date: "2026-01-12T00:00:00Z"
 description: Heather Buchel is a front-end engineer who likes writing about accessibility,
   web tech, cooking, living in Brooklyn, and her dog Pepper.
 params:
@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The trash pile is on fire
+  last_post_title: A reset
   last_post_description: ""
-  last_post_date: "2025-06-02T00:00:00Z"
-  last_post_link: https://heather-buchel.com/blog/2025/06/on-fire/
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://heather-buchel.com/blog/2026/01/a-reset/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b46b44049ec415937a37b1552abf00f2
+  last_post_guid: 66ae2693e7c7ba3fcd6ec0840a6b957e
   score_criteria:
     cats: 0
     description: 3

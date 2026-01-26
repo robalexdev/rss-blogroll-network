@@ -1,6 +1,6 @@
 ---
 title: solving the x's and y's of math, programming and life
-date: "2024-06-30T10:52:13Z"
+date: "2026-01-23T11:35:37Z"
 description: ""
 params:
   feedlink: https://gxyd.github.io/atom.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'LLVM IR: what is it?'
+  last_post_title: 'LLVM: Another Try'
   last_post_description: ""
-  last_post_date: "2024-04-26T00:00:00Z"
-  last_post_link: https://gxyd.github.io/blogs/LLVM-IR/
+  last_post_date: "2026-01-23T00:00:00Z"
+  last_post_link: https://gxyd.github.io/blogs/Another-Try-LLVM/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34a0cef23288c56f65e35235229a2c2b
+  last_post_guid: 1206b26a8933187abcf77c51d818d57b
   score_criteria:
     cats: 0
     description: 0
@@ -40,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 20
+  postcount: 21
   avgpostlen: 286
 ---

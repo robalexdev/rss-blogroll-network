@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Linear Algebra Explains Why Some Words Are Effectively Untranslatable
-  last_post_description: A modest mathematical framing of language
-  last_post_date: "2025-11-13T06:54:50Z"
-  last_post_link: https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable?utm_source=rss&utm_campaign=rss
+  last_post_title: Darwin El Naturalista
+  last_post_description: In His Own Words (Episode 5)
+  last_post_date: "2026-01-22T08:10:47Z"
+  last_post_link: https://aethermug.com/posts/darwin-el-naturalista?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b6ee631b6f5f1ff74b375838cfd806c
+  last_post_guid: ce0c741fc9c386a725280b0f139599b5
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 76
+  postcount: 94
   avgpostlen: 0
 ---

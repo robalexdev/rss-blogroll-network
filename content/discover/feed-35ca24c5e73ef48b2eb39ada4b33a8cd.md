@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2025-11-15T13:27:58Z"
+date: "2026-01-12T23:35:38Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:

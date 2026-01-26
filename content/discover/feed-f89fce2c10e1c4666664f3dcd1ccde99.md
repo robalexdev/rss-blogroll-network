@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-09-03T00:00:00Z"
+date: "2025-12-29T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Writing a financial tracker for fun and paranoia
-  last_post_description: I wrote both a QFX parser and a naive Bayes classifier from
-    scratch because I have stopped trusting third-party dependencies.
-  last_post_date: "2025-09-03T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/diy/expense-classifier.html
+  last_post_title: Beating myself at chess
+  last_post_description: 'Or: programming a chess AI without any preparation whatsoever.'
+  last_post_date: "2025-12-29T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/diy/beating-myself-at-chess.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 31f83ed0d20904b903ecda8538ac09ec
+  last_post_guid: 7597398ecd290ca3a6a9f26873977f02
   score_criteria:
     cats: 0
     description: 0
@@ -43,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 5
-  avgpostlen: 295
+  avgpostlen: 296
 ---

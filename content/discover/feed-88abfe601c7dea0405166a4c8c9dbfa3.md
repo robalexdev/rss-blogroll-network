@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 88abfe601c7dea0405166a4c8c9dbfa3
   websites:
-    https://manton.org/: false
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml
@@ -41,6 +40,7 @@ params:
   - https://mjtsai.com/blog/comments/feed/
   - https://ohhelloana.blog/feed.links.xml
   - https://om.co/comments/feed/
+  - https://om.co/feed/podcast
   - https://rebeccatoh.co/comments/feed/
   - https://social.ayjay.org/podcast.xml
   - https://www.mollywhite.net/micro/feed.xml
@@ -55,7 +55,7 @@ params:
   last_post_description: After I drafted this blog post, the part that follows the
     horizontal rule in a moment, I wasn’t sure I would publish it. Then I read this
     post by Thomas Ptacek. This line resonated with me
-  last_post_date: "2025-06-04T09:44:32-05:00"
+  last_post_date: "2025-06-04T08:44:32-06:00"
   last_post_link: https://www.manton.org/2025/06/04/not-today-but-eventually.html
   last_post_categories: []
   last_post_language: ""

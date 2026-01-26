@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Waymo is finally ready for freeway service
-  last_post_description: The self-driving leader is getting ready to conquer the Sun
-    Belt.
-  last_post_date: "2025-11-12T22:55:03Z"
-  last_post_link: https://www.understandingai.org/p/waymo-is-finally-ready-for-freeway
+  last_post_title: How shifting risk to users makes Claude Code more powerful
+  last_post_description: People are discovering that Claude Code isn’t just for code.
+  last_post_date: "2026-01-20T19:36:47Z"
+  last_post_link: https://www.understandingai.org/p/how-shifting-risk-to-users-makes
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e93488f15749256bb2b5077a1f189c69
+  last_post_guid: 8a999946f801fba6f527de692d67c65a
   score_criteria:
     cats: 0
     description: 3

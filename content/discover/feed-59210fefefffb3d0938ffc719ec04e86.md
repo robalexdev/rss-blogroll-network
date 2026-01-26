@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: the asian zoomers aren't like me
-  last_post_description: I'm ethnically Chinese. My parents were born in the 70s,
-    spent their dirt poor childhoods under the communist regime, and went to university
-    just in time to participate in Deng's opening up in the
-  last_post_date: "2025-11-15T07:45:43Z"
-  last_post_link: https://www.jenn.site/the-asian-zoomers-arent-like-me/
+  last_post_title: An invite to bear lurkers
+  last_post_description: I used to lurk a lot, mainly on twitch streams, I remember
+    feeling like my comment wouldn't have any value, so why even say anything in the
+    first place? But aside from streams with so many people
+  last_post_date: "2026-01-25T20:46:00Z"
+  last_post_link: https://barrel.bearblog.dev/an-invite-to-bear-lurkers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2785d9ba008fc3372567e92e26ae5dd8
+  last_post_guid: 48d95d05dc434eb24b68abf89ecdfe2b
   score_criteria:
     cats: 0
     description: 3

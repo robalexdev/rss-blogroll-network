@@ -33,38 +33,37 @@ params:
   - https://philwilson.org/blog/feed
   - https://philwilson.org/blog/feed/atom/
   categories:
-  - browsers
-  - development
-  - features
-  - frameworks
-  - frontend
-  - javascript
-  - libraries
-  - providers
-  - services
-  - software
-  - standards
+  - brighton
+  - clearleft
+  - conferences
+  - discounts
+  - events
+  - london
+  - sotb2026
+  - stateofthebrowser
+  - tickets
+  - webdayout
   relme: {}
-  last_post_title: Providers
-  last_post_description: If you’re building software, it’s generally a good idea to
-    avoid the Not-Invented-Here syndrome. This is when you insist on writing absolutely
-    everything from scratch even if it would make more
-  last_post_date: "2025-11-06T16:13:27Z"
-  last_post_link: https://adactio.com/journal/22235
+  last_post_title: Web Day Out × State Of The Browser
+  last_post_description: |-
+    If you’re the kind of person who likes Web Day Out, you’re probably also the kind of person who likes State Of The Browser.
+
+    Web Day Out is all about what you can in web browsers right now, with
+  last_post_date: "2026-01-21T15:53:59Z"
+  last_post_link: https://adactio.com/journal/22367
   last_post_categories:
-  - browsers
-  - development
-  - features
-  - frameworks
-  - frontend
-  - javascript
-  - libraries
-  - providers
-  - services
-  - software
-  - standards
+  - brighton
+  - clearleft
+  - conferences
+  - discounts
+  - events
+  - london
+  - sotb2026
+  - stateofthebrowser
+  - tickets
+  - webdayout
   last_post_language: ""
-  last_post_guid: ebb721b8a3a028e300c9645c0542961a
+  last_post_guid: e73f3b9613e63169b9bb5be0fde67aae
   score_criteria:
     cats: 0
     description: 3

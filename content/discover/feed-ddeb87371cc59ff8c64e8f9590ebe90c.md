@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 从分税制改革到取消农业税
+  last_post_title: 不苦寒也有梅花香
   last_post_description: ""
-  last_post_date: "2025-10-30T19:15:53+08:00"
-  last_post_link: https://yuanfan.rbind.io/project/happend2/
+  last_post_date: "2026-01-25T15:49:01+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/meihua/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06ec049da9a655fb5a235ec7143fab42
+  last_post_guid: 46a25d95e43eb5e96ca445c09dc42cd3
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 331
+  postcount: 348
   avgpostlen: 0
 ---

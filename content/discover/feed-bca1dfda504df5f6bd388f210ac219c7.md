@@ -1,6 +1,6 @@
 ---
-title: ʕ☞ᴥ ☜ʔ Kix Panganiban's blog
-date: "2025-11-15T06:32:03Z"
+title: ʕ☞ᴥ ☜ʔ Kix's blog
+date: "2026-01-26T01:37:30Z"
 description: In the audacious pursuit of things that spark joy.
 params:
   feedlink: https://kix.dev/feed/
@@ -16,20 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - coding
-  - cursor
+  - apple
+  - gadgets
+  - ultrahuman
   relme: {}
-  last_post_title: Dumb Cursor is the best Cursor
-  last_post_description: Agent mode but without any tools
-  last_post_date: "2025-10-25T07:19:06Z"
-  last_post_link: https://kix.dev/dumb-cursor-is-the-best-cursor/
+  last_post_title: 'Great device, wrong problem: Two months with the Ultrahuman Air'
+  last_post_description: It's definitely a killer -- both the device itself and its
+    companion app are really well executed. But it's not replacing my Apple Watch.
+  last_post_date: "2025-11-30T03:13:13Z"
+  last_post_link: https://kix.dev/great-device-wrong-problem-two-months-with-the-ultrahuman-air/
   last_post_categories:
-  - ai
-  - coding
-  - cursor
+  - apple
+  - gadgets
+  - ultrahuman
   last_post_language: ""
-  last_post_guid: a54378884f498509579839bcdb38be40
+  last_post_guid: 2c589a4ee03ed4e3f4359c88c9d97ff8
   score_criteria:
     cats: 0
     description: 3
@@ -48,5 +49,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 297
 ---

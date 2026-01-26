@@ -13,36 +13,27 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - Culture
   relme: {}
-  last_post_title: Why the Thought of Having Kids Freaks me Out
-  last_post_description: Having children is a decision with huge ethical implications,
-    and one that shapes our view of what kind of future is possible. So let's explore
-    it!
-  last_post_date: "2025-11-07T18:00:08Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-why-the-thought-of-having-kids-freaks-me-out/
+  last_post_title: LIVE Romcom About Parasocial Relationships! | 2026 Casting Announcement
+  last_post_description: |-
+    BLINK is on at the King’s Head Theatre from February! Get exclusive front row tickets: https://kingsheadtheatre.com/whats-on/blink-df19
+    Unlock the front two rows with code FRONTROW
+  last_post_date: "2026-01-21T13:52:24Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-live-romcom-about-parasocial-relationships-2026-casting-announcement/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: 834b4ec1b84ef7a01cdaa7e4917671e0
+  last_post_guid: 20abd7b09949d42dea3e0c0a74b2ecbf
   score_criteria:
     cats: 0
     description: 3

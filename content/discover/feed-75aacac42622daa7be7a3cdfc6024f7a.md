@@ -1,8 +1,8 @@
 ---
 title: SC 2.4.4
 date: "1970-01-01T00:00:00Z"
-description: A linkdump of [things I find while being extremely online](https://buttondown.email/ericwbailey/archive/).
-  Shared every Wednesday.
+description: A linkdump of things I find while being extremely online.Shared every
+  Wednesday.
 params:
   feedlink: https://buttondown.com/ericwbailey/rss
   feedtype: rss
@@ -19,18 +19,16 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Almost forgot'
-  last_post_description: |-
-    I almost forgot to send this!
-    --
-    Horrible edge cases to consider when dealing with music
-    "Some artists and albums will benchmark your utf8 support and annoy your operating system"
-    Target is now
-  last_post_date: "2025-11-13T04:04:26Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-almost-forgot/
+  last_post_title: '[SC 2.4.4] Technology that helps people, yet doesn''t get you
+    promotions'
+  last_post_description: I wrote about how to create faux-nested interactive controls
+    that are accessible, plus a few tangents about things like accessible name length
+    and progressive enhancement. You know, technology that
+  last_post_date: "2026-01-22T03:24:31Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-technology-that-helps-people-yet-doesnt/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fb082fce4ff333c43cd665dbfc849c3
+  last_post_guid: ae3852fba2f7eaaa6eda936cfa0c075f
   score_criteria:
     cats: 0
     description: 3

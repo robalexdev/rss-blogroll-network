@@ -21,15 +21,15 @@ params:
   categories: []
   relme:
     https://www.davd.io/: true
-  last_post_title: The Human Touch in a Machine World
-  last_post_description: This is probably one of the more esoteric posts on my blog
-    — I’m usually very technical and rational. But with the rise of “vibe coding”
-    and the growing trend of people using AI to generate
-  last_post_date: "2025-05-26T00:00:00Z"
-  last_post_link: https://www.davd.io/posts/2025-05-26-the-human-touch-in-a-machine-world/
+  last_post_title: My Linux Setup 2025/2026
+  last_post_description: It’s been a while since I posted my last update on my current
+    hardware and software setup, and there’s a good reason for that. For years, I’ve
+    been stuck in this odd pendulum, switching between
+  last_post_date: "2025-12-02T00:00:00Z"
+  last_post_link: https://www.davd.io/posts/2025-12-02-my-linux-setup-2025-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 93f66db2e51b4aab67b936b555392fc0
+  last_post_guid: a1f4c80587fb3d9c10c9f46b38f6ba0e
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 77
+  postcount: 78
   avgpostlen: 0
 ---

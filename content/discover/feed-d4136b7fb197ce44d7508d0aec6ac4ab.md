@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comic Strip History - Gary Larson and the Thagomizer
-  last_post_description: As with most things I do research on, this one turned out
-    to be more complicated than I thought it would. Gary Larson is the cartoonist
-    behind the…
-  last_post_date: "2025-03-08T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/gary-larson-thagomizer
+  last_post_title: The Dropouts, December 31, 1971
+  last_post_description: Click the image to see a larger version. Howard Post is best
+    known for his work on various Harvey Comics publications, most notably Casper
+    the…
+  last_post_date: "2025-12-31T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/the-dropouts-1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b95c36b9af4881c94d29f16659907af8
+  last_post_guid: c08f720fe4c62768f9e537e61f0b08e0
   score_criteria:
     cats: 0
     description: 3

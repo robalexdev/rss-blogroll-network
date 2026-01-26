@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My impressions of the MacBook Pro M4
+  last_post_title: Can I finally start using Wayland in 2026?
   last_post_description: ""
-  last_post_date: "2025-10-31T11:04:59+01:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
+  last_post_date: "2026-01-04T08:55:00+01:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: edd4122db5723b579b078cf60d08d581
+  last_post_guid: 0eb07d85016d2ab3394ae1ec7b38d039
   score_criteria:
     cats: 0
     description: 0
@@ -44,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 15
-  avgpostlen: 295
+  avgpostlen: 294
 ---

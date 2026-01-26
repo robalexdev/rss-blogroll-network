@@ -17,39 +17,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Software Development
-  - Uncategorized
   - ai
-  - ai-assisted
-  - newsletter
+  - concrete example
   relme: {}
-  last_post_title: What is special about MCP?
-  last_post_description: three things MCP can do, and an infinite number of things
-    it can’t do (all of which make it great) AI agents can interact with the world
-    using tools. Those tools can be generic or specific. Generic
-  last_post_date: "2025-11-09T20:58:42Z"
-  last_post_link: https://jessitron.com/2025/11/09/what-is-special-about-mcp/
+  last_post_title: 'Working with AI: Do Things Right'
+  last_post_description: Today, a quick example of introducing determinism when an
+    AI struggles. I give it a simple instruction, it screws it up, I tell it to write
+    a program to do things right.
+  last_post_date: "2026-01-12T18:00:00Z"
+  last_post_link: https://jessitron.com/2026/01/12/making-ai-do-things-right-introduce-determinism/
   last_post_categories:
-  - Software Development
-  - Uncategorized
   - ai
-  - ai-assisted
-  - newsletter
+  - concrete example
   last_post_language: ""
-  last_post_guid: 966eafb02aa199baa45cc967aaf5e32b
+  last_post_guid: fc69044e2c0ecc3ca2d52b7b87500b23
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

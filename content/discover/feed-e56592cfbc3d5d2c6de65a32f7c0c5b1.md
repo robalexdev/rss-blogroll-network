@@ -16,14 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: To grow, we must forget… but now AI remembers everything
-  last_post_description: AI’s infinite memory could endanger how we think, grow, and
-    imagine. And we can do something about it.
-  last_post_date: "2025-11-14T11:28:02Z"
-  last_post_link: https://www.doc.cc/articles/we-must-forget
+  last_post_title: A social filesystem
+  last_post_description: Formats over apps.
+  last_post_date: "2026-01-23T12:31:28Z"
+  last_post_link: https://overreacted.io/a-social-filesystem/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d532b2e0b4eb11301bbe0244fad85359
+  last_post_guid: aa904afdbdf8ae5a43421fc7c265ce91
   score_criteria:
     cats: 0
     description: 3

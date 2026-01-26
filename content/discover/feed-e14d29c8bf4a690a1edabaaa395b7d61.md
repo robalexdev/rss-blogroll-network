@@ -15,38 +15,31 @@ params:
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - children
-  - coffee
-  - logo
-  - maths
-  - parenting
-  - programming
-  - programming languages
-  - school
-  - teaching
+  - caddy
+  - debian
+  - linux
+  - php
+  - technology
+  - web
   relme: {}
-  last_post_title: '[Article] How I Learned the Pythagorean Theorem'
-  last_post_description: I clearly remember the day I first learned the Pythagorean
-    theorem, because I had a problem I wanted to solve and a practical application
-    that I wanted to use it on. Let's re-create the experience,
-  last_post_date: "2025-11-13T11:52:34Z"
-  last_post_link: https://danq.me/2025/11/13/pythagorean-theorem/
+  last_post_title: '[Article] PHP 8.4 on Caddy on Debian 13… in Three Minutes'
+  last_post_description: I just needed to spin up a new PHP webserver and I was amazed
+    how fast and easy it was, nowadays. Just the stock package repositories and around
+    five commands and my fresh box and it was serving PHP
+  last_post_date: "2026-01-21T15:12:27Z"
+  last_post_link: https://danq.me/2026/01/21/php-caddy-debian-13/
   last_post_categories:
   - Personal
-  - children
-  - coffee
-  - logo
-  - maths
-  - parenting
-  - programming
-  - programming languages
-  - school
-  - teaching
+  - caddy
+  - debian
+  - linux
+  - php
+  - technology
+  - web
   last_post_language: ""
-  last_post_guid: 5bcbc4448898274663ff3dc302293e25
+  last_post_guid: 1b7f1449ff8077d143e6914202e183a6
   score_criteria:
     cats: 0
     description: 3

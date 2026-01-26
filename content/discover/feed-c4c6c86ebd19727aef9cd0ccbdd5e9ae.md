@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2025-11-15T00:02:23Z"
+date: "2026-01-26T00:02:18Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -17,22 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2025-11-14
+  last_post_title: Daily Hacker News for 2026-01-25
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on November 14, 2025 which have not appeared on any previous
+    on January 25, 2026 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    Rust in Android: move fast and fix things
-    (comments)
-
-
-    Disrupting
-  last_post_date: "2025-11-15T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2025-11-14.html
+    Google confirms 'high-friction' sideloading flow is coming to
+  last_post_date: "2026-01-26T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2026-01-25.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

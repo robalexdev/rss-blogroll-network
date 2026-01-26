@@ -16,21 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
+  - Webdesign
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: How to fix subsystem request failed on channel 0
-  last_post_description: "Today I got greeted by the following error when I was trying
-    to scp some file.\n\n# scp a.txt user@somehost:/tmp/b.txt\nsubsystem request failed
-    on channel 0\nscp: Connection closed\n\n\n\tThis cryptic error"
-  last_post_date: "2025-11-06T21:11:34+01:00"
-  last_post_link: https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html
+  last_post_title: CSS Optical Illusions
+  last_post_description: |-
+    CSS Optical Illusions
+
+    Thanks for reading this post via RSS. You're awesome ♥️
+  last_post_date: "2026-01-22T22:22:52+01:00"
+  last_post_link: https://blog.x-way.org/Webdesign/2026/01/22/CSS-Optical-Illusions.html
   last_post_categories:
-  - Linux
+  - Webdesign
   last_post_language: ""
-  last_post_guid: 8c330ca1fd002b862d6b34c140e6361f
+  last_post_guid: f55469bceaf682cec8a5b7028af954c1
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 867
+  postcount: 890
   avgpostlen: 0
 ---

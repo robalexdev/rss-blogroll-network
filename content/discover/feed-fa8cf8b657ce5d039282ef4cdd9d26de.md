@@ -1,6 +1,6 @@
 ---
 title: 胡涂说
-date: "2025-10-28T21:58:36+08:00"
+date: "2026-01-25T16:14:05+08:00"
 description: hutusi.com
 params:
   feedlink: https://hutusi.com/feed.xml
@@ -18,22 +18,24 @@ params:
   recommended: []
   recommender: []
   categories:
+  - '"Code'
   - AI
-  - LLM
+  - Agent"
   - weekly
   - 周刊
   relme: {}
-  last_post_title: '好奇心周刊第21期: 推理模型的构建与未来'
-  last_post_description: '好奇心周刊第21期: 推理模型的构建与未来'
-  last_post_date: "2025-10-28T21:56:00+08:00"
-  last_post_link: https://hutusi.com/weeklies/21
+  last_post_title: '好奇心周刊第24期: 关于AI编程的一些体会和设想'
+  last_post_description: '好奇心周刊第24期: 关于AI编程的一些体会和设想'
+  last_post_date: "2026-01-25T15:55:00+08:00"
+  last_post_link: https://hutusi.com/weeklies/24
   last_post_categories:
+  - '"Code'
   - AI
-  - LLM
+  - Agent"
   - weekly
   - 周刊
   last_post_language: ""
-  last_post_guid: afd071a6591d616c73ed3199be7ffabd
+  last_post_guid: fe958e42afdc2ee807047a7dc3a240c6
   score_criteria:
     cats: 0
     description: 3
@@ -52,5 +54,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 249
+  avgpostlen: 261
 ---

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: a1a1eb1b2f99e6cb3fc0225f11c959df
   websites:
-    https://ounapuu.ee/: false
+    https://ounapuu.ee/: true
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,16 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Oops, I accidentally built a Steam Machine
+  last_post_title: I built the worst Jellyfin media server
   last_post_description: |-
-    I like the Steam Deck. It’s what convinced me that gaming on Linux is actually viable
-    now.
-    But after playing through games like God of War Ragnarök1, I felt like I needed an upgrade. I love
-  last_post_date: "2025-12-01T06:00:00+02:00"
-  last_post_link: https://ounapuu.ee/posts/2025/12/01/steam-machine/
+    LattePanda V1. It’s been a while, huh?
+    I had it as a backup server (which I blew up).
+    Then it got promoted to… a backup server. But
+    then its PSU blew up.
+    Then it was waiting for some cool ideas
+  last_post_date: "2026-01-16T06:00:00+02:00"
+  last_post_link: https://ounapuu.ee/posts/2026/01/16/worst-media-server/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 613952e597d80b0a2709dbbb9a8cdf8c
+  last_post_guid: a593979aa9bac237c4b780eaa0502c3f
   score_criteria:
     cats: 0
     description: 3
@@ -38,12 +40,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 127
+  postcount: 139
   avgpostlen: 0
 ---

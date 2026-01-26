@@ -16,30 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cat Men
+  - Adolphus Bussing
   - Cat Stories
-  - Cat artist
-  - Cats of Old New York
-  - Emily Marie Richardson
-  - Famous cat painters
-  - Louis Wain
+  - Cats in the Mews
+  - Father Divine
+  - Harlem history
+  - King Towers
+  - Sweet Daddy Grace
   relme: {}
-  last_post_title: '1884: Peter, the Feline Muse of Famous Cat Artist Louis Wain'
-  last_post_description: Cat artist Louis William Wain was not a New Yorker but he
-    did live in New York for a few years, so there is a New York City connection to
-    his amazing life story. In this post. I share some of Wain's
-  last_post_date: "2025-11-15T02:37:21Z"
-  last_post_link: https://hatchingcatnyc.com/2025/11/15/peter-feline-muse-louis-wain-famous-cat-artist/
+  last_post_title: '1908: Haggerino the Harlem Tramp Cat of West 115th Street'
+  last_post_description: "A tale of cats, spiritual leaders, a war on rats, and a
+    baptism by fire hose. In other words, this is not your average cat story. \nThe
+    post 1908: Haggerino the Harlem Tramp Cat of West 115th Street"
+  last_post_date: "2026-01-10T23:06:43Z"
+  last_post_link: https://hatchingcatnyc.com/2026/01/10/haggerino-harlem-cat-west-115th-street/?utm_source=rss&utm_medium=rss&utm_campaign=haggerino-harlem-cat-west-115th-street
   last_post_categories:
-  - Cat Men
+  - Adolphus Bussing
   - Cat Stories
-  - Cat artist
-  - Cats of Old New York
-  - Emily Marie Richardson
-  - Famous cat painters
-  - Louis Wain
+  - Cats in the Mews
+  - Father Divine
+  - Harlem history
+  - King Towers
+  - Sweet Daddy Grace
   last_post_language: ""
-  last_post_guid: 1345ea10db9b0b8bab68ce528fc12a5c
+  last_post_guid: c125cf5d8cc030f427d29f391f64b2e1
   score_criteria:
     cats: 0
     description: 3

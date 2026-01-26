@@ -19,19 +19,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (92)
-  last_post_description: |-
-    Book Review of Breakneck from Noah Smith, endorsed
-    On China and rare earths
-    Rotating detonation engines
-    Progress in pan-cancer therapy
-    DOGE and its consequences in the federal government
-    The AI
-  last_post_date: "2025-10-27T00:00:00Z"
-  last_post_link: https://nintil.com/links-92/
+  last_post_title: 'Alzheimer''s: from causes and risk factors to models and interventions'
+  last_post_description: Since the recent disappointingly small effects of monoclonal
+    antibodies on Alzheimer's Disease (AD) progression, there has been lots of discourse
+    around what the cause of Alzheimer's might be. "If
+  last_post_date: "2025-12-26T00:00:00Z"
+  last_post_link: https://nintil.com/alzheimers-cause/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7b0157b123954e869116ec0c8645fa0
+  last_post_guid: aba71464b4ae7abcf08ea783669af67c
   score_criteria:
     cats: 0
     description: 0

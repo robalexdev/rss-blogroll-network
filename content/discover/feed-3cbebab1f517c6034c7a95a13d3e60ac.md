@@ -15,28 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Clash
-  - clashmeta
-  - mihomo
-  - zashboard
+  - TrustTunnel
+  - VPN
   - 学无止境
   relme: {}
-  last_post_title: openSUSE Tumbleweed配置Mihomo裸核
-  last_post_description: !!binary |
-    5aaC5p6c5L2g5Zug5Li656eN56eN5Y6f5Zug5LiN5oOz5YaN5L2/55So5ZCE57G75Z+65L
-    qObWlob21v5YaF5qC455qER1VJ5a6i5oi356uv5LqG77yM6YKj5LmI5Y+v5Lul5bCd6K+V
-    5LiA5LiL55u05o6l55So6KO45qC477yM6KO45qC46Zmk5LqG56ys5LiA5qyh6YWN572u55
-    qE5pe25YCZ5Lya6bq754Om5LiA54K577yI5pCT6YWN572u5paH5Lu277w=
-  last_post_date: "2025-11-10T22:33:55Z"
-  last_post_link: https://lala.im/9853.html
+  last_post_title: 由AdGuard开源的VPN协议：TrustTunnel
+  last_post_description: TrustTunnel可以将任意网络流量（TCP/UDP/ICMP）通过加密的HTTP/2或HTTP/3连接进行隧道传输。该协议的设计目标如下：
+  last_post_date: "2026-01-25T13:32:12Z"
+  last_post_link: https://lala.im/9973.html
   last_post_categories:
-  - Clash
-  - clashmeta
-  - mihomo
-  - zashboard
+  - TrustTunnel
+  - VPN
   - 学无止境
   last_post_language: ""
-  last_post_guid: f1cd6533db886acbdb96bd0c938b803f
+  last_post_guid: e0041fa6aaf3a8ff7964356809f65776
   score_criteria:
     cats: 0
     description: 3

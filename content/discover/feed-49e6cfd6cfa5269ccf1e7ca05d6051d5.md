@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter Bridge
-date: "2025-11-15T16:28:08Z"
+date: "2026-01-26T09:57:03Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Apple Mini Apps \U0001F4F1, Blue Origin lands rocket \U0001F680,
-    GPT-5.1 for devs \U0001F468‍\U0001F4BB"
+  last_post_title: "TikTok&#x27;s new CEO \U0001F4F1, Brex acquired \U0001F4B3, GitHub
+    Copilot SDK"
   last_post_description: ""
-  last_post_date: "2025-11-13T23:00:00Z"
-  last_post_link: https://tldr.tech/tech/2025-11-14
+  last_post_date: "2026-01-22T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-01-23
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 88d2f2bdf23bc735baed5a25e3c86301
+  last_post_guid: 047fb0016254309a80d36f4ee1bbfe02
   score_criteria:
     cats: 0
     description: 0

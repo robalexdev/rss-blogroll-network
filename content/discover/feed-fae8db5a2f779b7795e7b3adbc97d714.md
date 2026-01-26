@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2025-11-12T15:53:53Z"
+date: "2026-01-26T02:19:36Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,28 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AlphaEvolve
-  - Nikodym set
-  - finite fields
-  - math.CO
-  - paper
-  - probabilistic method
+  - admin
+  - database
+  - math.GM
+  - optimization
   relme: {}
-  last_post_title: New Nikodym set constructions over finite fields
-  last_post_description: I have uploaded to the arXiv my paper “New Nikodym set constructions
-    over finite fields“. This is a spinoff of my previous project with Bogdan Georgiev,
-    Javier Gómez–Serrano, and Adam Zsolt
-  last_post_date: "2025-11-12T15:53:53Z"
-  last_post_link: https://terrytao.wordpress.com/2025/11/12/new-nikodym-set-constructions-over-finite-fields/
+  last_post_title: A crowdsourced repository for optimization constants?
+  last_post_description: Thomas Bloom’s Erdös problem site has become a real hotbed
+    of activity in recent months, particularly as some of the easiest of the outstanding
+    open problems have turned out to be amenable to
+  last_post_date: "2026-01-26T02:19:36Z"
+  last_post_link: https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/
   last_post_categories:
-  - AlphaEvolve
-  - Nikodym set
-  - finite fields
-  - math.CO
-  - paper
-  - probabilistic method
+  - admin
+  - database
+  - math.GM
+  - optimization
   last_post_language: ""
-  last_post_guid: 2f84102d3496fce100207148b8d7b22e
+  last_post_guid: 1a46f4515be9f5555dcc91d341a1f9b3
   score_criteria:
     cats: 0
     description: 3
@@ -56,5 +52,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 295
+  avgpostlen: 294
 ---

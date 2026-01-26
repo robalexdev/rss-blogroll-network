@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: adb3a250f1f5f62b9540b72eefad6c55
   websites:
-    https://osguider.com/: false
     https://osguider.com/blog/: true
   blogrolls: []
   in_blogrolls:
@@ -19,22 +18,20 @@ params:
   categories: []
   relme:
     https://osguider.com/blog/: true
-  last_post_title: 免费域名注册：让每个人都可以拥有数字身份 | 开源日报 No.789
+  last_post_title: Claude Skills 官方仓库：动态加载专业技能 | 开源日报 No.860
   last_post_description: |-
-    nitrojs/nitro
+    angiejones/mcp-selenium
 
 
 
 
 
-    nitro 是一个面向下一代的服务器工具包，旨在帮助开发者创建功能完善的网页服务器，并支持灵活部署。
-
-    基于 Vite
-  last_post_date: "2025-11-14T07:35:54Z"
-  last_post_link: https://osguider.com/blog/post/daily/daily-789/
+    mcp-selenium 是一个基于 Model Context Protocol (MCP) 的 Selenium WebDriver 服务器实现，旨在通过标准化的 MCP
+  last_post_date: "2026-01-25T07:36:12Z"
+  last_post_link: https://osguider.com/blog/post/daily/daily-860/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa8eed42d12758cee5e025cef496df3c
+  last_post_guid: 3b169f0a28c10a9581e1f1339e1348d2
   score_criteria:
     cats: 0
     description: 3

@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Debian 双栈网络时开启 IPv4 优先
-  last_post_description: 本文原理适用于大多数 Linux 系统，其他系统尚未测试，请读者自行验证。
-  last_post_date: "2025-11-04T00:00:00Z"
-  last_post_link: https://u.sb/debian-prefer-ipv4/
+  last_post_title: WSL 2 使用 Docker 桥接模式网络访问 HTTPS 超时的解决方法
+  last_post_description: 本文介绍在 WSL 2 中使用 Docker 的桥接模式（bridge network）访问 HTTPS 时出现超时问题的解决方法。
+  last_post_date: "2026-01-21T00:00:00Z"
+  last_post_link: https://u.sb/fix-wsl-2-docker-network/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4341a21b0329978dfaad6cb7b6327d82
+  last_post_guid: 415d5d8e492dae87fc9c406e4999eb48
   score_criteria:
     cats: 0
     description: 3

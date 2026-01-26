@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Sat, 15 Nov 2025 17:37:10 GMT
+date: Mon, 26 Jan 2026 10:36:37 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -19,9 +19,6 @@ params:
   - title: geo on Sourcepole
     description: Recent content in geo on Sourcepole
     id: 051a39ec171919ae1a23594bf63505a0
-  - title: Camptocamp News and Events
-    description: Innovative Solutions by Open Source Experts
-    id: 06ee6739665ffd05ace44e5358f014ea
   - title: OPENGIS.ch
     description: OPEN-SOURCE GEONINJAS
     id: 08acfa848188ea5c9c2d6fed6839c3a3
@@ -43,9 +40,6 @@ params:
   - title: Free and Open Source GIS Ramblings
     description: written by Anita Graser aka Underdark
     id: 174f816cea3d8aa2b3858ea199f12f2f
-  - title: WhereGroup
-    description: ""
-    id: 19aef81b61c7e2ba7c24f7d5ce7acaa0
   - title: RSS GeoTux (Geo-Noticias,Geo-Blogs)
     description: Soluciones Geoinformáticas Libres
     id: 1c37b2c8784e251372da88d1c1156f94
@@ -70,9 +64,6 @@ params:
   - title: Strk's Blog
     description: Recent content on Strk's Blog
     id: 2602bbe18dd9d1eed1d7dc74f891ab2f
-  - title: News
-    description: ""
-    id: 2849e08f0b2b0baf4549bd7957489084
   - title: Sean Gillies
     description: ""
     id: 28d794e7b68df714f87543a2791ca8e1
@@ -96,9 +87,6 @@ params:
   - title: Geo
     description: ""
     id: 3f48bd926b6612d0886cc8b14e738252
-  - title: Blog on Alexandre Neto
-    description: Recent content in Blog on Alexandre Neto
-    id: 3f605c7b37d29f2907d8cf7c6579efd6
   - title: XYCarto
     description: Geospatial Development and Engineering
     id: 4064077c7a00b5c4f44c6c697d2c709a
@@ -175,7 +163,7 @@ params:
     description: ""
     id: 7f42a09b715a4b5c283557e24f0a1e99
   - title: Blog Archivi - GeoSolutions
-    description: Transform data into insights with MapStore, GeoNode, and GeoServer
+    description: Build future-ready geospatial platforms with open technologies
     id: 810c51fe4d3ea2d4b465183bc2079307
   - title: '- Akshat Tandon''s blog'
     description: Posts categorized as 'osgeo'
@@ -225,9 +213,6 @@ params:
   - title: BostonGIS
     description: Open Source GIS
     id: b0490b3ca9cd2277dac061801f96173d
-  - title: Nick Bearman
-    description: A blog on my teaching, open source GIS, travel and life
-    id: b0c12c6cf19d9d0c0a815aeda9e30385
   - title: Spatial Galaxy
     description: Recent content on Spatial Galaxy
     id: b34a7d3c2a3e69cfdfc284cc45c4b47e
@@ -248,9 +233,6 @@ params:
     description: Collect. Share. Publish. Record geospatial field data on your mobile
       device with ease. Collaborate with your team using instant sync with QGIS.
     id: b956dfd51d749176cc13814a70171839
-  - title: 'Reacties op:'
-    description: Jeroen Ticheler
-    id: bbb00999a22a2f0f63b2e5b8f022afad
   - title: PyWPS
     description: PyWPS is an implementation of the Web Processing Service standard
       from the Open Geospatial Consortium. PyWPS is written in Python.
@@ -275,24 +257,12 @@ params:
       time.  See my About page for more info about me.  Note that my views and opinions
       expressed here are my own and do not reflect the
     id: c86d105888d0a4e294c7238963fcd5fb
-  - title: GISInternals News
-    description: ""
-    id: cb9d0b339aee0882d1abdb6ac15d57cc
-  - title: Mappery
-    description: For the love of maps
-    id: cd225bd314e247e929a29c1deaea8d8a
   - title: Just Objects on Clarity
     description: Recent content in Just Objects on Clarity
     id: cf035b498a5d05b76461177fd44e7c50
   - title: gvSIG Italia
     description: Il blog italiano di gvSIG
     id: d0a8a77cfad2c49632a2f7aaa259ac6e
-  - title: 'Gisky: geeky GIS'
-    description: ""
-    id: d0ac2cdf92a6d13e34682769f573124a
-  - title: Orfeo ToolBox
-    description: Orfeo ToolBox is not a black box
-    id: dc0eaf675357fc599aeb8056aadadd7b
   - title: Geo on Jorge Sanz
     description: Recent content in Geo on Jorge Sanz
     id: dcda04f83ce5066a50a55024619b7ee5

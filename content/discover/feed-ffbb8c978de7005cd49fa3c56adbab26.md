@@ -1,6 +1,6 @@
 ---
 title: Leilukin's Hub
-date: "2025-11-03T15:31:13Z"
+date: "2026-01-25T10:45:02Z"
 description: Leilukin's personal website.
 params:
   feedlink: https://leilukin.com/feed.xml
@@ -24,13 +24,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Changelog: 3 November 2025'
+  last_post_title: 'Changelog: 25 January 2026'
   last_post_description: ""
-  last_post_date: "2025-11-03T15:31:13Z"
-  last_post_link: https://leilukin.com/changelogs/2025/
+  last_post_date: "2026-01-25T10:45:02Z"
+  last_post_link: https://leilukin.com/changelogs/2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 077d41a2cd06f573b40cfb8d89234693
+  last_post_guid: fb57ef9b633023acfb88f04b003d6bc8
   score_criteria:
     cats: 0
     description: 3
@@ -49,5 +49,5 @@ params:
   innetwork: true
   language: en
   postcount: 15
-  avgpostlen: 168
+  avgpostlen: 157
 ---

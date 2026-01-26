@@ -10,9 +10,6 @@ params:
     https://eva.town/: true
   blogrolls: []
   in_blogrolls:
-  - title: ""
-    description: ""
-    id: 7c57874819a3b666310d14cda337b41d
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -20,28 +17,16 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Design outside the computer
-  last_post_description: Your digital UI can come from the physical world.
-  last_post_date: "2024-05-20T17:30:34Z"
-  last_post_link: https://eva.town/posts/design-outside-the-computer
+  last_post_title: Embrace friction
+  last_post_description: On letterpress, tech, and the power of going slow.
+  last_post_date: "2025-12-08T17:26:21Z"
+  last_post_link: https://eva.town/posts/embrace-friction
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ba77492ffc557cb9891baf96cdfb06d5
+  last_post_guid: 77362711716042f89896f3da10ce2469
   score_criteria:
     cats: 0
     description: 3
@@ -59,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 4
+  postcount: 5
   avgpostlen: 0
 ---

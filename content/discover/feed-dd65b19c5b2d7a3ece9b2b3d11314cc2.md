@@ -1,6 +1,6 @@
 ---
 title: paritybit.ca
-date: "2024-09-12T19:54:33Z"
+date: "2025-12-28T22:46:22Z"
 description: ""
 params:
   feedlink: https://www.paritybit.ca/feed.xml
@@ -19,29 +19,22 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Take on Rules Public Blogroll
-    description: ""
-    id: 661f7c3d693616149785e81936cf96e2
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: An Update About This Very Webbed Site
+  last_post_title: Oh Right, I Have A Blog
   last_post_description: ""
-  last_post_date: "2024-09-12T00:00:00Z"
-  last_post_link: http://www.paritybit.ca/blog/an-update-about-this-very-webbed-site/
+  last_post_date: "2025-12-28T00:00:00Z"
+  last_post_link: http://www.paritybit.ca/blog/oh-right-i-have-a-blog/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3095672b54602a754ad26962393c21f6
+  last_post_guid: 56eae07a483c2c5d88e185ee99bd924b
   score_criteria:
     cats: 0
     description: 0

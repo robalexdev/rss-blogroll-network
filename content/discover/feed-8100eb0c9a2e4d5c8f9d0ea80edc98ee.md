@@ -1,7 +1,7 @@
 ---
 title: Jeffrey Zeldman Presents
 date: "1970-01-01T00:00:00Z"
-description: Since 1995.
+description: Keeping you informed since 1995
 params:
   feedlink: https://zeldman.com/feed/
   feedtype: rss
@@ -15,7 +15,7 @@ params:
     id: 7becef5fc95d0b51be024a2830568f06
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -26,28 +26,71 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - AI
-  - State of the Web
-  - The Essentials
-  - Web Design History
-  - Web Standards
+  - A Space Apart
+  - Best practices
+  - Coworking
+  - Design
+  - Free Advice
+  - Happy Cog™
+  - My Back Pages
+  - NYC
+  - New York City
+  - Stories
+  - UX
+  - User Experience
+  - Websites
+  - Working
+  - Zeldman
+  - books
+  - business
+  - client services
+  - ethics
+  - glamorous
+  - industry
+  - interface
+  - ripoffs
+  - software
+  - storage
+  - studio.zeldman
+  - studios
   relme:
     https://zeldman.com/: true
-  last_post_title: 'Receipts: a brief list of prominent articles proclaiming the death
-    of the web.'
-  last_post_description: 'They say AI will replace the web as we know it, and this
-    time they mean it. Here follows a short list of previous times they also meant
-    it, starting way back in 1997. Wired: March 1, 1997: “You can'
-  last_post_date: "2025-10-25T10:23:44Z"
-  last_post_link: https://zeldman.com/2025/10/25/receipts-a-brief-list-of-prominent-articles-proclaiming-the-death-of-the-web/
+  last_post_title: Cold Storage
+  last_post_description: |-
+    Good UX is what companies do when they have to. A company that has your stuff locked away doesn’t have to.
+    The post Cold Storage appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2026-01-02T16:49:58Z"
+  last_post_link: https://zeldman.com/2026/01/02/cold-storage/
   last_post_categories:
-  - AI
-  - State of the Web
-  - The Essentials
-  - Web Design History
-  - Web Standards
+  - A Space Apart
+  - Best practices
+  - Coworking
+  - Design
+  - Free Advice
+  - Happy Cog™
+  - My Back Pages
+  - NYC
+  - New York City
+  - Stories
+  - UX
+  - User Experience
+  - Websites
+  - Working
+  - Zeldman
+  - books
+  - business
+  - client services
+  - ethics
+  - glamorous
+  - industry
+  - interface
+  - ripoffs
+  - software
+  - storage
+  - studio.zeldman
+  - studios
   last_post_language: ""
-  last_post_guid: 4ce7815df6541e1abc9a93787e0efd33
+  last_post_guid: 66109df49958db0fe376a77ccbb00589
   score_criteria:
     cats: 0
     description: 3

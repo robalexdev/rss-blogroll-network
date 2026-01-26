@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Backpacking Mount Isolation in the rain
-  last_post_description: Last weekend I headed out into one of the most remote parts
-    of the White Mountain National Forest to climb Mount Isolation via some less-used
-    trails. On the two-day trip I experienced pouring rain,
-  last_post_date: "2025-09-09T20:02:00Z"
-  last_post_link: https://josephpetitti.com/blog/backpacking-mount-isolation-in-the-rain
+  last_post_title: 2025 in review
+  last_post_description: I look back on everything I did in 2025.
+  last_post_date: "2026-01-11T16:59:06Z"
+  last_post_link: https://josephpetitti.com/blog/2025-in-review
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 23a249d762292c769c8f3fc7479d0004
+  last_post_guid: 36a563bcca3e57e743ede866e2b2d59e
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 49
+  postcount: 50
   avgpostlen: 0
 ---

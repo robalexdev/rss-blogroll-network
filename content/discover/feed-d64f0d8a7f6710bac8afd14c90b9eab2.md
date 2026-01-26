@@ -1,8 +1,8 @@
 ---
 title: Ankur Sethi's Internet Website
 date: "1970-01-01T00:00:00Z"
-description: Personal blog and website of Ankur Sethi, reader, writer, and frontend
-  engineer living in Bangalore, India.
+description: Personal website of Ankur Sethi, writer and independent frontend engineer
+  living in Bangalore, India.
 params:
   feedlink: https://ankursethi.com/feeds/index.xml
   feedtype: rss
@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Weeknote 2025-W45: Text message bankruptcy'
+  last_post_title: Pushing the smallest possible change to production
   last_post_description: ""
-  last_post_date: "2025-11-09T18:40:09Z"
-  last_post_link: https://ankursethi.com/weeknotes/2025-w45-text-message-bankruptcy/
+  last_post_date: "2026-01-17T11:51:32Z"
+  last_post_link: https://ankursethi.com/blog/smallest-possible-change/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2af11b52a197b5991bbf16b675cc018b
+  last_post_guid: b0acce8e55dd5cb4e7e7134b5f9537e9
   score_criteria:
     cats: 0
     description: 3

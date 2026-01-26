@@ -19,33 +19,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Plog
-  - 摄影
-  - 日常
+  - 分享热爱
   relme: {}
-  last_post_title: Weekly Plog 2
-  last_post_description: ""
-  last_post_date: "2025-11-02T16:10:41Z"
-  last_post_link: https://anotherdayu.com/2025/7430/
+  last_post_title: 再谈 iA Writer
+  last_post_description: 引 去年写过一篇文章聊 iA Writer 的手感，但它的优秀之处不仅于此。 iA Writer 与 Obsi […]
+  last_post_date: "2026-01-25T16:19:06Z"
+  last_post_link: https://anotherdayu.com/2026/7669/
   last_post_categories:
-  - Plog
-  - 摄影
-  - 日常
+  - 分享热爱
   last_post_language: ""
-  last_post_guid: a9a2e96a419252658c0b53964f75d0f1
+  last_post_guid: 5fcb617152bd07033fd8571ba9d0e92d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

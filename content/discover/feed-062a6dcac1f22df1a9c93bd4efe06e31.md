@@ -26,15 +26,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Happiest Cruise
-  last_post_description: The pastel palette of “it’s a small world” in Tokyo Disneyland
-    is unlike other iterations of the attraction throughout the world. This simple
-    triangle motif, however, is characteristic of its
-  last_post_date: "2025-11-08T10:00:00+09:00"
-  last_post_link: https://lmnt.me/blog/wallpapers/happiest-cruise.html
+  last_post_title: The Real Version
+  last_post_description: Lately, I’ve been scolded for using (American) English names
+    of Japanese video games. As a result, I’m calling Animal Crossing「どうぶつの森」now.
+    I don’t know if I have it in me to use
+  last_post_date: "2026-01-21T16:45:00+09:00"
+  last_post_link: https://lmnt.me/blog/the-real-version.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dfe72d50f6769a8f7a00dbf4ea0eaaf1
+  last_post_guid: da6d3f88bae1fe9ebd0c06969061d128
   score_criteria:
     cats: 1
     description: 3
@@ -52,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 297
+  postcount: 320
   avgpostlen: 0
 ---

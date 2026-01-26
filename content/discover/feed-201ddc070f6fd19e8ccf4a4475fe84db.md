@@ -25,17 +25,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: When to Hire a Computer Performance Engineering Team (2025) part
-    1 of 2
-  last_post_description: |-
-    As a leader in computer performance I've been asked by companies about how (and why) to form a performance engineering team, and as this is broadly useful I'll share my advice here.
-
-    Large tech
-  last_post_date: "2025-08-04T00:00:00+10:00"
-  last_post_link: http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html
+  last_post_title: Leaving Intel
+  last_post_description: I've resigned from Intel and accepted a new opportunity.
+    If you are an Intel employee, you might have seen my fairly long email that summarized
+    what I did in my 3.5 years. Much of this is public
+  last_post_date: "2025-12-05T00:00:00+11:00"
+  last_post_link: http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11f032c0c4235e4a268241e6fe59cfe2
+  last_post_guid: f0fe1b0706a9f3ea71d63ec3fdf0d262
   score_criteria:
     cats: 0
     description: 0

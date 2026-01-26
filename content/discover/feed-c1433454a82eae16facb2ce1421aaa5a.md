@@ -13,42 +13,39 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
-  - title: Frank Meeuwsen - Blogroll
-    description: ""
-    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Energietransitie
-  - Regeneratie
+  - Art
+  - Ethiek
+  - Privacy
   relme: {}
-  last_post_title: 'Zonneparken als landschapsmakers: hoe de energietransitie leven
-    brengt in de woestijn'
+  last_post_title: Kunst als tegenmacht in het digitale tijdperk
   last_post_description: |-
-    De kern van de casus laat zien dat grote zonneparken in woestijngebieden een microklimaat creëren dat vegetatiegroei mogelijk maakt. Schaduw […]
-    Het bericht Zonneparken als landschapsmakers: hoe
-  last_post_date: "2025-11-15T20:57:06Z"
-  last_post_link: https://koneksa-mondo.nl/2025/11/15/zonneparken-als-landschapsmakers-hoe-de-energietransitie-leven-brengt-in-de-woestijn/
+    Julia Janssen studeerde grafisch ontwerp aan ArtEZ University of the Arts in Arnhem en studeerde af in 2016. Tijdens haar […]
+    Het bericht Kunst als tegenmacht in het digitale tijdperk verscheen
+  last_post_date: "2026-01-25T10:28:53Z"
+  last_post_link: https://koneksa-mondo.nl/2026/01/25/kunst-als-tegenmacht-in-het-digitale-tijdperk/
   last_post_categories:
-  - Energietransitie
-  - Regeneratie
+  - Art
+  - Ethiek
+  - Privacy
   last_post_language: ""
-  last_post_guid: f4d0f0487f49dea54f2e419e69e27797
+  last_post_guid: 079eb3170f2e7f01b258d3dd757a1d01
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

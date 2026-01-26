@@ -8,7 +8,6 @@ params:
   feedid: f8e9aecd595c288dadf6dc75808c152e
   websites:
     https://wiwi.blog/: false
-    https://wiwi.blog/blog: true
     https://wiwi.blog/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -19,14 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 1990 年代 DOS 遊戲教我的行銷課
-  last_post_description: 小時候，我沈迷過一款 MicroProse 在 1991 年推出的 DOS 高爾夫球遊戲《David Leadbetter's
-    Greens》。它是 3D
-  last_post_date: "2025-11-15T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/dos-game-marketing-lesson
+  last_post_title: Alex Honnold 與我的蝴蝶效應焦慮
+  last_post_description: 徒手攀岩大師 Alex Honnold 在昨天（2026-01-25）早上挑戰了徒手攀登 101。空手爬、沒有繩索、沒有安全網。Netflix
+    全程獨家直播了這場玩命秀。
+  last_post_date: "2026-01-26T06:00:00Z"
+  last_post_link: https://wiwi.blog/blog/alex-honnold-butterfly-effect
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9dcd262471d94b64c7c71989ca8b3829
+  last_post_guid: d6401b37f25032d1f5a3cdf4bbf70aa5
   score_criteria:
     cats: 0
     description: 3
@@ -38,12 +37,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 500
+  postcount: 675
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: The website of Alice Bartlett
-date: "2025-11-15T20:35:20Z"
+date: "2026-01-25T21:18:31Z"
 description: "The home of typing by Alice Bartlett \U0001F469\U0001F3FB‍\U0001F4BB"
 params:
   feedlink: https://alicebartlett.co.uk/feed.xml
@@ -19,16 +19,16 @@ params:
   categories:
   - weaknotes
   relme: {}
-  last_post_title: 'Week 375: Hold me'
-  last_post_description: Traitors had me screaming My office floor has finally been
-    sanded and oiled. It took a bit longer than expected because underneath the carpet
-    was a complete mess. Terribly damaged floorboards from
-  last_post_date: "2025-11-08T00:00:00Z"
-  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-375
+  last_post_title: 'Week 386: inflammation'
+  last_post_description: You could tell things were going OK for me last week because
+    I managed to publish my weeknotes on Saturday morning. “Surely nothing of note
+    will happen in the next 36 hours” I thought. Then, in
+  last_post_date: "2026-01-25T00:00:00Z"
+  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-386
   last_post_categories:
   - weaknotes
   last_post_language: ""
-  last_post_guid: 12613ecbd602a053a5d612be72417953
+  last_post_guid: 04eb1df0df5281184782a6b586a1e1df
   score_criteria:
     cats: 0
     description: 3
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 280
+  avgpostlen: 296
 ---

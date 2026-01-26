@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Billions of triangles in minutes
-  last_post_description: Early this year, NVIDIA released their new raytracing technology,
-    RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed
-    as a ~100 GB Unreal Engine scene - that can only be
-  last_post_date: "2025-09-30T00:00:00Z"
-  last_post_link: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/
+  last_post_title: meshoptimizer 1.0 released
+  last_post_description: A short post today. If you’re following me on any of the
+    vast array of social accounts then you’re probably aware, but if you’re reading
+    this blog through the ancient technology otherwise known
+  last_post_date: "2025-12-09T00:00:00Z"
+  last_post_link: https://zeux.io/2025/12/09/meshoptimizer-v1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 488bd0b7b306708b9479b9fc48cad527
+  last_post_guid: 3c4e8c8763ad886a1fbbd9bb23373c3f
   score_criteria:
     cats: 0
     description: 0
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 67
+  postcount: 69
   avgpostlen: 0
 ---

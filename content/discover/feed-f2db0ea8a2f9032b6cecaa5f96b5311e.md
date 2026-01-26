@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Mailpit for Web Apps that Send Email
-  last_post_description: Almost every time I build a web gadget, I need to send a
-    few emails. Making sure those messages are sent when they should and look the
-    way they should is a real weak point of django tooling, IMO.
-  last_post_date: "2025-02-09T09:00:18-05:00"
-  last_post_link: https://geoff.tuxpup.com/posts/mailpit/
+  last_post_title: Hosting a Static Site in the Silliest Way Possible (Part 2)
+  last_post_description: Now that I can build my static site and serve it up using
+    Caddy inside a docker container, it's time to publish it to a server on the internet.
+    If I didn't want to host other things with it, at this
+  last_post_date: "2026-01-23T18:19:56-05:00"
+  last_post_link: https://geoff.tuxpup.com/posts/silly-static-site-hosting-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 303efb3316301a6b8d90a70d3f97b1c3
+  last_post_guid: a40005a5468e5742884b39d8ddf97c05
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 63
+  postcount: 67
   avgpostlen: 0
 ---

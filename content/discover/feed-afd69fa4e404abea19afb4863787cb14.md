@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Leaving Germany with 4000€ and no return
-  last_post_description: Starting a new chapter of my life, beginning with my 4000€
-    and a one-way flight to South Korea.
-  last_post_date: "2025-10-18T16:35:50Z"
-  last_post_link: https://bryanhogan.com/blog/new-chapter-nomadic-life
+  last_post_title: Introduction to Obsidian
+  last_post_description: An introduction to Obsidian. Why you should use it, how to
+    keep it simple, and how you can use it.
+  last_post_date: "2026-01-05T14:01:16Z"
+  last_post_link: https://bryanhogan.com/blog/obsidian-introduction
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ef57169d6ec9c75b73d660f53cb793cd
+  last_post_guid: 76038cbcb30cf7e40ef02b086ef0d9f1
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 20
+  postcount: 25
   avgpostlen: 0
 ---

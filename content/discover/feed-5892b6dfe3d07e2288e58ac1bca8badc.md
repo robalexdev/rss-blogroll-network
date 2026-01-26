@@ -9,12 +9,11 @@ params:
   feedid: 5892b6dfe3d07e2288e58ac1bca8badc
   websites:
     https://gutenbergtimes.com/: true
-    https://gutenbergtimes.com/series/gutenberg-changelog/: false
   blogrolls: []
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: Planet FAIR
     description: ""
@@ -28,28 +27,30 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Artificial Intelligence (AI)
-  - DIY Site Owners
   - For Developers
+  - Playground
+  - Site Editor
   - Updates
   - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'WordPress 6.9 Dev Notes, WordCamp Canada talks, Interactivity
-    API — Weekend Edition #349'
-  last_post_description: Hi there, We are getting close to the WordPress 6.9 release.
-    Below you find links to published Developer notes. You can also wait for the Source
-    of Truth to be published next week to learn about
-  last_post_date: "2025-11-15T01:20:00Z"
-  last_post_link: https://gutenbergtimes.com/wordpress-6-9-dev-notes-wordcamp-canada-talks-interactivity-api-weekend-edition-349/
+  last_post_title: AI Experiments, WordPress 7.0, Gutenberg 22.3 and 22.4, Playground
+    for theme builders — Weekend Edition 354
+  last_post_description: Hi there! Yes, it’s been a while. Did you miss me? I hope
+    you and yours had a great start to the new year, and I wish you a healthy, happy
+    and prosperous 2026. I am infinitely grateful you are a
+  last_post_date: "2026-01-24T06:05:00Z"
+  last_post_link: https://gutenbergtimes.com/ai-experiments-wordpress-7-0-gutenberg-22-3-and-22-4-playground-for-theme-builders-weekend-edition-354/
   last_post_categories:
   - Artificial Intelligence (AI)
-  - DIY Site Owners
   - For Developers
+  - Playground
+  - Site Editor
   - Updates
   - Weekend Edition
   last_post_language: ""
-  last_post_guid: bfe8b3920e026a1ba9deae685413e126
+  last_post_guid: 026500642530ae8999339a28549cc20e
   score_criteria:
     cats: 0
     description: 3

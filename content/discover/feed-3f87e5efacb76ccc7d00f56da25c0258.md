@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2025-11-02T00:00:00Z"
+date: "2026-01-10T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -9,9 +9,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: ""
-    description: ""
-    id: 7c57874819a3b666310d14cda337b41d
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
@@ -35,34 +32,21 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
-  - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
-  - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
   - https://ttntm.me/blog/feed.xml
   - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
-  last_post_title: Shortbox Comics
+  last_post_title: Projects Recap 2025
   last_post_description: ""
-  last_post_date: "2025-11-02T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/shortbox-comics/
+  last_post_date: "2026-01-10T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2025/projects-recap-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 851bbca0aa6ac4e30ec31827d05ee0e5
+  last_post_guid: 1c51e309f8338609c2a63565b7de266e
   score_criteria:
     cats: 0
     description: 3
@@ -80,6 +64,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 90
-  avgpostlen: 284
+  postcount: 97
+  avgpostlen: 285
 ---

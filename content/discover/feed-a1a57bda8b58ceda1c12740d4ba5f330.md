@@ -17,27 +17,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 书repo
-  - 全年龄
-  - 工具书
-  - 建筑
-  - 绘本
+  - 全部笔记
+  - 工具repo
+  - 绘画工具
   relme:
     https://heiheihei.ca/: true
-  last_post_title: Need a house? call Ms. Mouse!
+  last_post_title: 2023-2026 爱用材料总结
   last_post_description: |-
-    故事的主角是一只叫henrietta（大家都叫她Ms. Mouse）的小老鼠，她自己开了一家建筑公司 Ms. Mouse&Co.
-    作为世界著名全能设计师
-  last_post_date: "2025-09-12T21:36:33Z"
-  last_post_link: https://heiheihei.ca/need-a-house-call-ms-mouse/
+    新的一年，新的绘画材料！！！！
+    2023-2026 爱用材料总结最先出现在小触手的书房。
+  last_post_date: "2026-01-18T21:32:20Z"
+  last_post_link: https://heiheihei.ca/2024-my-fav-materials/
   last_post_categories:
-  - 书repo
-  - 全年龄
-  - 工具书
-  - 建筑
-  - 绘本
+  - 全部笔记
+  - 工具repo
+  - 绘画工具
   last_post_language: ""
-  last_post_guid: 3eebd313dace93e8eeca5054c38feb74
+  last_post_guid: 87a2360681433e93761811b7beca33cd
   score_criteria:
     cats: 0
     description: 3

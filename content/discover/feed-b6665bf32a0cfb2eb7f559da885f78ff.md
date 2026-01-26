@@ -1,6 +1,6 @@
 ---
 title: NHS notes
-date: "2025-11-14T00:00:00Z"
+date: "2026-01-24T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 72: Act like a tech company'
+  last_post_title: 'Week 81: Do interrupt me'
   last_post_description: ""
-  last_post_date: "2025-11-14T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-72-act-like-a-tech-company/
+  last_post_date: "2026-01-24T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-81-do-interrupt-me/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6761c1bbf2f488e385b5fe7c3be88dec
+  last_post_guid: ac33cf7e7a92eac92f97c65d264426de
   score_criteria:
     cats: 0
     description: 0

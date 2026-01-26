@@ -6,8 +6,7 @@ params:
   feedlink: https://leovan.me/cn/index.xml
   feedtype: rss
   feedid: 3cd063e24e9e27cdd78bf8e6d24fb2d1
-  websites:
-    https://leovan.me/cn/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -42,12 +41,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 85
+  postcount: 87
   avgpostlen: 0
 ---

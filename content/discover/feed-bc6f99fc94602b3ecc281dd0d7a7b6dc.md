@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2025-11-10T12:26:15-05:00"
+date: "2026-01-24T14:06:12-05:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -18,14 +18,13 @@ params:
   categories: []
   relme:
     https://everythingchanges.us/: true
-  last_post_title: Making tech work for workers
-  last_post_description: A group of tech workers wants to help you organize around
-    AI policies in your workplace.
-  last_post_date: "2025-11-10T11:06:00-05:00"
-  last_post_link: https://everythingchanges.us/blog/make-tech-work-for-workers/
+  last_post_title: Come back
+  last_post_description: A habit is built on the movement of return.
+  last_post_date: "2026-01-20T07:42:00-05:00"
+  last_post_link: https://everythingchanges.us/blog/come-back/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e9af0ebfdf2dc52e0288737522668ae
+  last_post_guid: 9b1a4696612fb578fb9d05255943a31e
   score_criteria:
     cats: 0
     description: 3

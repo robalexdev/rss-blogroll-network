@@ -16,32 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - How To
+  - BF4
+  - Customer Service
+  - Gaming
+  - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Facebook Messenger is leaving the desktop – how to get it back!
-  last_post_description: I hate Meta. Just read the news, both about them and their
-    founder, and you’ll see why. I don’t use Instagram anymore, my profile on Facebook
-    is intentionally inaccurate and only live because I
-  last_post_date: "2025-11-15T08:37:16Z"
-  last_post_link: https://artiss.blog/2025/11/facebook-messenger-is-leaving-the-desktop-how-to-get-it-back/
+  last_post_title: EA customer service don’t know what they’re talking about
+  last_post_description: A strong title, I’ll admit. But, as you’ll see, I’m not wrong.
+    I’ve been a massive fan of Battlefield 4 since it first came out. I bought it
+    for the PlayStation 3 and then upgraded to the
+  last_post_date: "2026-01-21T09:16:37Z"
+  last_post_link: https://artiss.blog/2026/01/ea-customer-service-dont-know-what-theyre-talking-about/
   last_post_categories:
-  - How To
+  - BF4
+  - Customer Service
+  - Gaming
+  - Life
   last_post_language: ""
-  last_post_guid: 1a14b1b7d7878c8e806a9e52bb5e70cc
+  last_post_guid: 9a7743b48e5e49ce580e1a37a5e2599c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

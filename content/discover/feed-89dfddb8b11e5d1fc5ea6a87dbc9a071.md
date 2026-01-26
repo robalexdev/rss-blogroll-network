@@ -20,17 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: OpenAI employees… are you okay?
+  last_post_title: Redesigning my microkernel from the ground up
   last_post_description: |-
-    You might have seen an article making the rounds this week, about a young
-    man who ended his life after ChatGPT encouraged him to do so. The chat logs are
-    really upsetting.
-    Someone two degrees removed
-  last_post_date: "2025-11-08T00:00:00Z"
-  last_post_link: https://drewdevault.com/2025/11/08/2025-11-08-OpenAI-employees-are-you-okay.html
+    As you may recall, circa 2022-2023 I was working on a
+    microkernel written in Hare named Helios. Helios was largely inspired by and
+    modelled after the design of seL4 and was my first
+    major foray into
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://drewdevault.com/2026/01/12/2026-01-12-Hermes-from-the-ground-up.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a9df794a0abb6553ff02eb5e09a20dc
+  last_post_guid: 0969d1547cf5096d2adcce66c1a00c55
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 375
+  postcount: 380
   avgpostlen: 0
 ---

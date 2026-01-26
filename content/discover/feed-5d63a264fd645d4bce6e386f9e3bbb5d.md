@@ -129,30 +129,26 @@ params:
   - https://www.petergoes.nl/blog/feed.xml
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
-  - https://alexandrawolfe.ca/feed.xml
-  - https://alexandrawolfe.ca/feed/?type=rss
-  - https://ashk.au/atom-bookmarks.xml
-  - https://ashk.au/atom.xml
-  - https://bne.social/@ash.rss
-  - https://www.goodreads.com/review/list_rss/11559548
+  - https://alexandrawolfe.ca/posts_feed
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
   - https://birming.com/podcast.xml
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
-  - https://bnjmn.org/comments/feed/
-  - https://bnjmn.org/feed/
   - https://branch.climateaction.tech/comments/feed/
   - https://buttondown.com/rss.xml
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/
+  - https://chrishannah.me/feed
   - https://danq.me/comments/feed/
+  - https://danq.me/home-2/feed/
   - https://darthmall.net/feed/all.xml
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://darthmall.net/feed/photographs.xml
   - https://degruchy.org/index.xml
+  - https://dominikhofer.me/rss
   - https://fs.blog/comments/feed/
   - https://www.farnamstreetblog.com/feed/
   - https://httpster.io/atom.xml
@@ -164,16 +160,12 @@ params:
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
+  - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
-  - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
-  - https://michal.sapka.me/rss.xml
+  - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
-  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss
@@ -209,24 +201,24 @@ params:
   - https://www.wackomenace.co.uk/essays/rss.xml
   recommender: []
   categories:
-  - personal
+  - books
+  - life
   - reading
-  - reflection
-  - writing
+  - thoughts
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: October 2025 Recap
-  last_post_description: "\uFEFF\n\uFEFF\n\x4C\x69\x66\x65\n\x49\x6E\x20\x63\x6F\x6E\x74\x72\x61\x73\x74\x20\x74\x6F\x20\x53\x65\x70\x74\x65\x6D\x62\x65\x72\x2C\x20\x4F\x63\x74\x6F\x62\x65\x72\x20\x77\x61\x73\x20\x6C\x69\x6B\x65\x20\x61\x20\x6C\x6F\x6E\x67\x20\x73\x74\x72\x6F\x6C\x6C\x20\x61\x6C\x6F\x6E\x67\x20\x61\x20\x66\x69\x65\x72\x79\x20\x70\x61\x72\x6B\x20\x6E\x6F\x74\x69\x63\x69\x6E\x67\x20\x74\x68\x65\x20\x63\x68\x61\x6E\x67\x69\x6E\x67\x20\x6F\x66\x20\x74\x68\x65\x20\x73\x65\x61\x73\x6F\x6E\x2C\x20\x6D\x6F\x74\x68\x65\x72\x20\x6E\x61\x74\x75\x72\x65\x20\x64\x72\x65\x73\x73\x69\x6E\x67\x20\x75\x70\x20\x69\x6E\x20\x68\x65\x72\x20\x62\x65\x73\x74\x20\x72\x65\x64\x20\x67\x6F\x77\x6E\x2C\x20\x66\x6F\x72\x20\x68\x65\x72\x20\x62\x69\x67\x20\x6E\x69\x67\x68\x74\x2C\x20\x62\x65\x66\x6F\x72\x65"
-  last_post_date: "2025-11-04T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/October_2025_Recap
+  last_post_title: The Mortal Reader
+  last_post_description: "\uFEFF\n\x41\x20\x79\x65\x61\x72\x20\x6F\x66\x20\x70\x75\x72\x70\x6F\x73\x65\x66\x75\x6C\x20\x72\x65\x61\x64\x69\x6E\x67\n\x49\x20\x73\x75\x63\x63\x75\x6D\x62\x20\x74\x6F\x20\x74\x68\x65\x20\x79\x65\x61\x72\x6C\x79\x20\x77\x61\x76\x65\x73\x20\x6F\x66\x20\x59\x6F\x75\x74\x75\x62\x65\x20\x62\x69\x6E\x67\x65\x20\x77\x61\x74\x63\x68\x69\x6E\x67\x20\x61\x6E\x64\x20\x49\x20\x6E\x6F\x74\x69\x63\x65\x20\x61\x20\x70\x61\x74\x74\x65\x72\x6E\x20\x65\x6D\x65\x72\x67\x69\x6E\x67\x20\x61\x6D\x6F\x6E\x67\x73\x74\x20\x74\x68\x65\x20\x42\x6F\x6F\x6B\x54\x75\x62\x65\x20\x63\x6F\x6D\x6D\x75\x6E\x69\x74\x79\x2E\x20\x52\x65\x61\x64\x20\x6C\x65\x73\x73\x2C\x20\x72\x65\x61\x64\x20\x62\x65\x74\x74\x65\x72\x2E\x20\x44\x6F\x6E\x27\x74\x20\x74\x72\x61\x63\x6B\x2C\x20\x64\x6F\x6E\x27\x74"
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/The_Mortal_Reader
   last_post_categories:
-  - personal
+  - books
+  - life
   - reading
-  - reflection
-  - writing
+  - thoughts
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:

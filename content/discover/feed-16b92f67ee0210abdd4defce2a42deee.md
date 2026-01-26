@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2025-11-15T08:03:21Z"
+date: "2026-01-26T09:07:59Z"
 description: Independent software developer
 params:
   feedlink: https://albertogalca.com/feed.xml
@@ -17,15 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The continuous work of our life is to build death
-  last_post_description: Ever since I was a child, I’ve been somewhat obsessed with
-    death. It’s a topic many cultures don’t discuss much, yet it’s fundamental for
-    the simple fact that we’re all going to die at some
-  last_post_date: "2025-10-13T00:00:00Z"
-  last_post_link: https://albertogalca.com/the-continuous-work-of-our-life-is-to-build-death
+  last_post_title: On making things that matter
+  last_post_description: |-
+    About a week ago, Picmal reached 200 users.
+
+    For some people that number might feel small. For others, big. For me, it’s symbolic.
+
+    When I was 15, partly out of curiosity and partly out of boredom,
+  last_post_date: "2026-01-20T00:00:00Z"
+  last_post_link: https://albertogalca.com/on-making-things-that-matter
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 10a362146d39040306e0fbf783e9342e
+  last_post_guid: e8d2862a5c084bad7623287fcc061373
   score_criteria:
     cats: 0
     description: 3

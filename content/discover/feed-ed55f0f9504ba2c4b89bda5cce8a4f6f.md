@@ -17,16 +17,21 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fifty Bits of Career Advice
+  last_post_title: 2025 in Review
   last_post_description: |-
-    As my team’s summer interns finished up their rotations this week, I had my
-    usual end-of-internship “AMA” 1:1s. It’s something I enjoy doing, but I realized
-    I was covering a lot of the same
-  last_post_date: "2025-08-11T00:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2025/08/11/Fifty-Bits-of-Career-Advice/
+    Previously: 2024, 2023, 2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017
+    A surprisingly persistent personality quirk I have is that I care a lot about
+    the changeover of the new year. I quite like consuming yearly
+  last_post_date: "2025-12-31T21:00:00-08:00"
+  last_post_link: https://benjamincongdon.me/blog/2025/12/31/2025-in-Review/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a501dd4642e2c0be3d437ac64dbe8c6
+  last_post_guid: 0afd60e4305127b09ef624ee29816eb0
   score_criteria:
     cats: 0
     description: 3

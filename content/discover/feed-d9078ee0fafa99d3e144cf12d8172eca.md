@@ -15,27 +15,22 @@ params:
   - title: Adam Keys - Blogroll
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
-  - title: Ruben Arakelyan's blogroll
-    description: ""
-    id: a45e294b0f7393dbe42e1b017580e161
   recommended: []
   recommender:
   - https://therealadam.com/feed.xml
-  - https://www.wackomenace.co.uk/blog/rss.xml
-  - https://www.wackomenace.co.uk/essays/rss.xml
   categories:
   - Management
   relme: {}
-  last_post_title: Seven Decisions
-  last_post_description: Vanilla. Someone decided. Good. No further questions. We
-    can make progress now. Educated. You ask why they decided, and they can clearly
-    explain their reasoning. Not everyone might appreciate the
-  last_post_date: "2025-11-11T16:20:15Z"
-  last_post_link: https://randsinrepose.com/archives/seven-decisions/
+  last_post_title: I’m Going to Dig a Hole
+  last_post_description: Many, many years ago, at my childhood house in the Santa
+    Cruz mountains, I grabbed a shovel and started to dig a hole. Why? Unclear. I
+    was six or seven. I’d seen what my Dad could do with a shovel,
+  last_post_date: "2026-01-19T15:20:57Z"
+  last_post_link: https://randsinrepose.com/archives/im-going-to-dig-a-hole/
   last_post_categories:
   - Management
   last_post_language: ""
-  last_post_guid: f63bc5f36abe0d593d0cb68efaaba15f
+  last_post_guid: c76771cf9941841a0012a11f38fcf519
   score_criteria:
     cats: 0
     description: 0

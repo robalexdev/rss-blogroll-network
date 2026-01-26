@@ -18,17 +18,17 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'September 2025 Threat Report: New Exploits, Active Campaigns,
-    and Critical CVEs'
-  last_post_description: In total, just over 4,500 CVEs were published in September,
-    exposing defenders to new risk. For operational resilience, organizations need
-    to scan their IT infrastructure to identify where hidden
-  last_post_date: "2025-10-09T09:49:07Z"
-  last_post_link: https://www.greenbone.net/en/blog/september-2025-threat-report-new-exploits-active-campaigns-and-critical-cves/
+  last_post_title: 'CVE-2025-64155: In the Wild Exploitation of FortiSIEM for Unauthenticated
+    Root-Level RCE'
+  last_post_description: On January 13th, 2026, Fortinet publicly disclosed and patched
+    CVE-2025-64155 (CVSS 9.8) affecting FortiSIEM along with five additional vulnerabilities
+    across its product line [1][2][3][4][5]. In
+  last_post_date: "2026-01-20T07:53:25Z"
+  last_post_link: https://www.greenbone.net/en/blog/cve-2025-64155-fortisiem-root-rce-cvss-9-8/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 19f0369690d5925df56cae4f86ad9f36
+  last_post_guid: 637bbfc02218725c2801266b6153431a
   score_criteria:
     cats: 0
     description: 3

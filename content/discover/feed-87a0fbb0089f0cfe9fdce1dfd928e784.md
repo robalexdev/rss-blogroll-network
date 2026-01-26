@@ -1,6 +1,6 @@
 ---
 title: wingolog
-date: "2025-11-13T15:21:03Z"
+date: "2026-01-05T15:38:38Z"
 description: A mostly dorky weblog by Andy Wingo
 params:
   feedlink: https://wingolog.org/feed/atom?with=gnu&with=guile&with=igalia
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: the last couple years in v8's garbage collector
+  last_post_title: pre-tenuring in v8
   last_post_description: ""
-  last_post_date: "2025-11-13T15:21:03Z"
-  last_post_link: https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector
+  last_post_date: "2026-01-05T15:38:38Z"
+  last_post_link: https://wingolog.org/archives/2026/01/05/pre-tenuring-in-v8
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f23627ba1dd7303292b08b5c215853b7
+  last_post_guid: 999bbcc4353edd76ce6e34fae96ee95f
   score_criteria:
     cats: 0
     description: 3
@@ -41,5 +41,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 295
 ---

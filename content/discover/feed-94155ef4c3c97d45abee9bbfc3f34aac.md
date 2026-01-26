@@ -15,29 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 酒店综述
+  - 信用卡对比
+  - 最新高额开卡奖励
   relme: {}
-  last_post_title: Chase The Edit之我见及与Amex FHR的对比
-  last_post_description: 在2205年10月26之后，Chase Sapphire Reserve的老持卡用户也正式上线了新的Edit
-  last_post_date: "2025-11-15T15:30:57Z"
-  last_post_link: https://www.uscreditcardguide.com/chase-the-editzhiwojianjiyuamex-fhrdeduibi/
+  last_post_title: 最新信用卡开卡奖励排行榜【2026.1 更新】
+  last_post_description: !!binary |
+    5oOz6KaB6YCa6L+H5L+h55So5Y2h55yB6ZKxL+i1mumSse+8jOmZpOS6humAmui/h+mVv+
+    acn+aMgeaciea2iOi0uei/lOeOsOmrmOeahOS/oeeUqOWNoe+8iOivpuingeOAiumVv+ac
+    n+aMgeacieS/oeeUqOWNoeaOqOiNkOOAi++8ieS5i+Wklu+8jOacgOe7meWKm+eahOaWue
+    W8j+WwseaYr+i1muWPluS/oeeUqOWNoeeahOmrmOmineW8gOWNoeWlluU=
+  last_post_date: "2026-01-25T15:00:53Z"
+  last_post_link: https://www.uscreditcardguide.com/the-best-credit-card-sign-up-bonus/
   last_post_categories:
-  - 酒店综述
+  - 信用卡对比
+  - 最新高额开卡奖励
   last_post_language: ""
-  last_post_guid: 0dab0d9ed5dec819e4706a37db431b5a
+  last_post_guid: fa79beb7582b33719636decd5a7fec6a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

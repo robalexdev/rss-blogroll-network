@@ -3,7 +3,7 @@ title: The Macro Compass
 date: "1970-01-01T00:00:00Z"
 description: |-
   Financial education, macro insights & actionable investment ideas.
-  From the desk of a former Head of $20 bn Investment Portfolio straight to your inbox.
+  From Alf's desk - CIO of macro hedge fund Palinuro Capital - straight to your inbox.
 params:
   feedlink: https://themacrocompass.substack.com/feed
   feedtype: rss
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Supreme Court vs Tariffs: A Guide'
-  last_post_description: We will soon find out if tariffs are unconstitutional
-  last_post_date: "2025-10-31T14:23:26Z"
-  last_post_link: https://themacrocompass.substack.com/p/supreme-court-vs-tariffs-a-guide
+  last_post_title: May The Odds Be Ever In Your Favor
+  last_post_description: A Guide To Sizing Macro Trades
+  last_post_date: "2026-01-19T08:46:05Z"
+  last_post_link: https://themacrocompass.substack.com/p/may-the-odds-be-ever-in-your-favor-576
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f7ef8c992e9720e58323b23a663b751
+  last_post_guid: 86ce7eaa94a95a1219385700b220ee60
   score_criteria:
     cats: 0
     description: 3

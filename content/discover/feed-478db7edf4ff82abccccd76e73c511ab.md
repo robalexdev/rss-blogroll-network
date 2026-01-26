@@ -19,24 +19,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - LLaMA-Factory
-  - Qwen3
+  - PD
+  - eRDMA
+  - 分离
   - 博文
-  - 微调
+  - 应用
+  - 阿里云
   relme: {}
-  last_post_title: 使用 LLaMA-Factory 微调 Qwen3 模型
-  last_post_description: 1. 原始模型测试 启动环境 1 2 3 4 5 6 7 8 9 10 nerdctl run -it \ --gpus
-    all \ --ipc=host \ -p 8000:8000 \ --ulimit memlock=-1 \ --ulimit stack=67108864
-    \ --name vllm \ --volume /data/models
-  last_post_date: "2025-09-21T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/using-llama-factory-to-fine-tune-qwen3-model.html
+  last_post_title: 阿里云 eRDMA 测试及 PD 分离应用部署
+  last_post_description: PD 分离部署场景下，经常会采用异构型号的显卡，跨机进行部署模型，这会导致跨机通信压力倍增。通常会借助 RDMA
+    设备加速 kvcache
+  last_post_date: "2026-01-17T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/test-and-deploy-pd-disagg-app-with-erdma-on-aliyun.html
   last_post_categories:
-  - LLaMA-Factory
-  - Qwen3
+  - PD
+  - eRDMA
+  - 分离
   - 博文
-  - 微调
+  - 应用
+  - 阿里云
   last_post_language: ""
-  last_post_guid: 6da5632dcda7579a6eb8ab1f13c73d83
+  last_post_guid: 69642ac6c77ffc7d8473595462f6d7f7
   score_criteria:
     cats: 0
     description: 3
@@ -54,6 +57,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 659
+  postcount: 668
   avgpostlen: 0
 ---

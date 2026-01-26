@@ -13,6 +13,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Planet Mozilla
+    description: ""
+    id: 6041122d4cdba349bc86ba85507a7d8c
   recommended: []
   recommender: []
   categories:

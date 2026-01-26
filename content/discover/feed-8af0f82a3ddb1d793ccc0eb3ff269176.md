@@ -10,34 +10,25 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.4.
+      by feedlandDatabase v0.8.14.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
+  recommender: []
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Preservation
+  last_post_title: A healthy heart
   last_post_description: |-
-    Just over a month ago, we spent a week in Italy: a little celebratory trip full of sightseeing, relaxation, and great food.
-    The focus of the trip was, of course, the food, but we did manage to spend
-  last_post_date: "2025-11-13T15:12:00-05:00"
-  last_post_link: https://www.inthemargins.ca/tenth-anniversary
+    There were a few months, last year, when I couldn’t walk for a hundred meters without losing my breath.
+    It didn’t really matter what type of exertion I did—even going up the stairs at home or
+  last_post_date: "2026-01-09T14:56:00-05:00"
+  last_post_link: https://www.inthemargins.ca/healthy-heart-journey
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 349e50c898dbafa24783996479e1edff
+  last_post_guid: 391efc36f7cbeefce42ddcf6390de63d
   score_criteria:
     cats: 0
     description: 3

@@ -20,25 +20,23 @@ params:
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
   recommender:
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for October 2025
+  last_post_title: Summary of changes for November 2025
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of October.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of November.
 
 
 
 
-      CCCC, added a factorization mode.
-      Bagel, wrote about a cursed programming language
-  last_post_date: "2025-11-02T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#oct2025
+      Thousand Rooms, added an English version with one type of dyslexia-friendly typeface. A
+  last_post_date: "2025-12-02T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#nov2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cfc97ad50639b6423ba51a0e12c0f870
+  last_post_guid: e64f3d04387df35c08727f6527e4718a
   score_criteria:
     cats: 0
     description: 3
@@ -56,6 +54,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 78
+  postcount: 82
   avgpostlen: 0
 ---

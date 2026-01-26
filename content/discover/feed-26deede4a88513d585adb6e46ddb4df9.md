@@ -20,7 +20,7 @@ params:
   relme: {}
   last_post_title: rePalm
   last_post_description: PalmOS on new hardware!
-  last_post_date: "2025-11-02T00:00:00Z"
+  last_post_date: "2025-12-05T00:00:00Z"
   last_post_link: https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
   last_post_categories:
   - Projects

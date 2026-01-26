@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2025-11-09T06:16:51Z"
+date: "2026-01-24T13:12:08Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游戏
+  - 桌面游戏
   relme: {}
-  last_post_title: 欧陆风云 5 的经济系统
-  last_post_description: 很早从“舅舅”那里拿到了《欧陆风云
-  last_post_date: "2025-11-09T06:16:51Z"
-  last_post_link: https://blog.codingnow.com/2025/11/eu5.html
+  last_post_title: 介绍几款单人桌游
+  last_post_description: 上个月我花了不少时间在 dotAge 这个游戏中。我很喜欢这种通过精算规划应对确定风险的感觉。由于 dotAge
+  last_post_date: "2026-01-24T13:12:08Z"
+  last_post_link: https://blog.codingnow.com/2026/01/solo_boardgame.html
   last_post_categories:
-  - 游戏
+  - 桌面游戏
   last_post_language: ""
-  last_post_guid: 36c46253d9858fb811e1a960256d82f4
+  last_post_guid: be999b66512993787bb19d38436bd168
   score_criteria:
     cats: 0
     description: 3
@@ -50,5 +50,5 @@ params:
   innetwork: true
   language: ""
   postcount: 15
-  avgpostlen: 220
+  avgpostlen: 215
 ---

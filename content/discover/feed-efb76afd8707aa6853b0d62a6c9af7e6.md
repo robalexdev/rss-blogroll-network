@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Claude, meet Obsidian
-  last_post_description: After finishing work for the day I spent a little time futzing
-    around setting up an MCP server with my Obsidian vault and it seems like a fascinating
-    way to interact with the notes I have in there
-  last_post_date: "2025-11-07T16:21:42Z"
-  last_post_link: https://philbowell.me/2025/11/07/claude-meet-obsidian.html
+  last_post_title: The Case Against Customer Reviews
+  last_post_description: Niq touches on a subject I’ve been thinking about over the
+    last few days, online reviews. His focus is on the fake ones that people write
+    in return for a discount, reviews that don’t offer a true
+  last_post_date: "2025-11-26T09:36:46Z"
+  last_post_link: https://philbowell.me/2025/11/26/the-case-against-customer-reviews.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 01ce6f0d195bc5891d8d31b93a0985de
+  last_post_guid: 5aa85b4d39194b9b17a639f632bd87ac
   score_criteria:
     cats: 0
     description: 0
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 3
+  postcount: 4
   avgpostlen: 0
 ---

@@ -17,28 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: scikit-learn 做机器学习
+  last_post_title: 未完成的书单 2026
   last_post_description: |-
-    1 准备
-    2 分类模型
+    历年未完成的书单见2025年、2024年、2023年、2022年及以前。
+    计算机
 
-    2.1 不带惩罚项
-    2.2 带 L2 （岭）惩罚
-    2.3 超参数寻优
-    2.4 随机森林
-    2.5 梯度提升
-
-    3 运行环境
-    4 参考文献
-
-
-
-    本文基于 iris 数据集介绍
-  last_post_date: "2025-11-01T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2025/11/scikit-learn/
+     【美国】《关键迭代：可信赖的线上对照实验》Ron Kohavi 、Diana Tang 和 Ya Xu 著。
+  last_post_date: "2026-01-10T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/01/unfinished-book-list/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9fbccaaa9f0aaa53cc05232b500e2085
+  last_post_guid: d4c355e402a3b26d0f7fa92f24a9915f
   score_criteria:
     cats: 0
     description: 3

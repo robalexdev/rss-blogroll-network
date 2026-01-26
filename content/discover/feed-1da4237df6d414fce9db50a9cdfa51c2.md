@@ -16,15 +16,14 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://lawtee.com/: true
-  last_post_title: AI投资或将把美国拖入另一场反恐战争的泥潭
-  last_post_description: 昨天刷知乎，看到一个问题：“如何评价「AI就是美国的城投」的观点？”
-  last_post_date: "2025-11-13T17:05:00+08:00"
-  last_post_link: https://lawtee.com/article/ai-as-us-second-war-on-terror/
+  relme: {}
+  last_post_title: 从物业小区管理来看，什么是民主
+  last_post_description: 通过一次普通小区物业投票事件，反思民主决策中“议题设置”的结构性影响，并对比中国古代民本思想，讨论民主在不同社会文化中的适用边界。
+  last_post_date: "2026-01-26T11:00:00+08:00"
+  last_post_link: https://lawtee.com/article/democracy-from-community-governance/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6cc662e3a09483571031987e80e72448
+  last_post_guid: 4195a974ada5dda1af28a6527e1d9791
   score_criteria:
     cats: 0
     description: 3
@@ -34,14 +33,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 15
+  postcount: 20
   avgpostlen: 0
 ---

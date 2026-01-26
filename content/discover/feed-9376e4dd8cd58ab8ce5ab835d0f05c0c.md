@@ -22,32 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - debian
-  - dfsg
-  - firmware
-  - gitlab
-  - gnu
-  - libre
-  - non-free
-  - sbom
+  - backup
+  - general
+  - guix
+  - mc
+  - minio-client
+  - rsync
+  - s3
+  - ssh
   relme: {}
-  last_post_title: Introducing the Debian Libre Live Images
-  last_post_description: The Debian Libre Live Images allows you to run and install
-    Debian GNU/Linux without non-free software. The general goal is to provide a way
-    to use Debian without reliance on non-free software, to the
-  last_post_date: "2025-11-12T23:16:35Z"
-  last_post_link: https://blog.josefsson.org/2025/11/13/introducing-the-debian-libre-live-images/
+  last_post_title: Backup of S3 Objects Using rsnapshot
+  last_post_description: I’ve been using rsnapshot to take backups of around 10 servers
+    and laptops for well over 15 years, and it is a remarkably reliable tool that
+    has proven itself many times. Rsnapshot uses rsync over
+  last_post_date: "2026-01-17T22:04:01Z"
+  last_post_link: https://blog.josefsson.org/2026/01/18/backup-of-s3-objects-using-rsnapshot/
   last_post_categories:
-  - debian
-  - dfsg
-  - firmware
-  - gitlab
-  - gnu
-  - libre
-  - non-free
-  - sbom
+  - backup
+  - general
+  - guix
+  - mc
+  - minio-client
+  - rsync
+  - s3
+  - ssh
   last_post_language: ""
-  last_post_guid: 5615035b2b944173a739f8928968e40c
+  last_post_guid: 948ab4b43149cd5c77d4b6d41ee25c43
   score_criteria:
     cats: 0
     description: 0
@@ -65,6 +65,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 135
+  postcount: 142
   avgpostlen: 0
 ---

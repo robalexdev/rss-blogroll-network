@@ -1,14 +1,11 @@
 ---
 title: The Document Foundation Planet
-date: Sat, 15 Nov 2025 17:00:24 GMT
+date: Mon, 26 Jan 2026 10:01:23 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml
   blogroll_id: 73ed3fb72f0cae7fc89d2ddcee0ceb5a
   recommends:
-  - title: GSoC 20 – quwex's blog
-    description: ""
-    id: 026ba1174f24565b02c91237b87b23ad
   - title: LibreOffice – Jacobo's home at Igalia
     description: '[jacobo@igalia ~]'
     id: 054e0ae75661ab169d47aede3d78e54a
@@ -57,7 +54,7 @@ params:
   - title: my short notes
     description: ""
     id: 48f39a8331061a0b0a55d73a5f47ea4b
-  - title: LibreOffice Design Team
+  - title: Design Community Blog
     description: Blog site from the design and UX teams working on LibreOffice
     id: 4c594360b3d04394182e628b178a284b
   - title: What is Miklos hacking - libreoffice
@@ -106,9 +103,6 @@ params:
   - title: Caolán McNamara
     description: ""
     id: 95681b8f2470f06fbad8fa3dda968e25
-  - title: What is Miklos hacking - libreoffice
-    description: ""
-    id: 966d0c17f64d2640710ed76a4872b50b
   - title: moggi's blog about Libreoffice hacking
     description: ""
     id: 9697dc3c59a25c7d35d103ceee4cfdff
@@ -128,7 +122,7 @@ params:
   - title: vishvbrahmbhatt
     description: I will  update about my LibreOffice Project work here
     id: b51d103f61866a8fdc3d3bda0611769d
-  - title: LibreOffice QA Blog
+  - title: QA Community Blog
     description: Updates from the Quality Assurance community
     id: b640487cf9786fcc625fe364f7af4f67
   - title: Random technical stuff
@@ -152,16 +146,13 @@ params:
   - title: ~rriemann
     description: Personal Blog of Robert Riemann, PhD.
     id: cbf1837c2c80632238c5fcb655472e09
-  - title: The Document Foundation Blog
-    description: The home of LibreOffice
+  - title: TDF Community Blog
+    description: ""
     id: ceaf9089998447b9b05f25b5dc203068
   - title: dniM ruoY nepO
     description: '"The mind is not a vessel to be filled but a fire to be kindled."
       — Plutarch'
     id: cfe9148b982c1605cf8c07dc4a358540
-  - title: Stories by Ekansh Jha on Medium
-    description: Stories by Ekansh Jha on Medium
-    id: d16ed0fb5100fdf671b7c6f381434328
   - title: Life with LibreOffice,Ubuntu and Printing
     description: ""
     id: d4bef0b8d4936d51e79f60a60c83fda8

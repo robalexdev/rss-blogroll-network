@@ -13,37 +13,27 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - Health
   relme: {}
-  last_post_title: Teasing, Aromantics, 10 Year Goals, and Videos I Don't Know How
-    to Do Yet
-  last_post_description: 'Dr. Doe, clinical sexologist and host of Sexplanations,
-    answers the questions: How do I know if I''m aromantic? How can I tease someone
-    at work? Where do you want to be in 10 years? and What video'
-  last_post_date: "2025-08-14T22:09:16Z"
-  last_post_link: https://nebula.tv/videos/sexplanations-teasing-aromantics-10-year-goals-and-videos-i-dont-know-how-to-do-yet/
+  last_post_title: Demi-sapio? Suppressing lust? Cuffing season?
+  last_post_description: One of the aspects I have love most about Sexplanations is
+    the interactive curiosity we explore together. The audience shares their questions
+    and I investigate answers to share. In this case what
+  last_post_date: "2026-01-19T19:16:06Z"
+  last_post_link: https://nebula.tv/videos/sexplanations-demisapio-suppressing-lust-cuffing-season/
   last_post_categories:
   - Health
   last_post_language: ""
-  last_post_guid: 426b0b2f578cb582b77e03092450ef37
+  last_post_guid: a56e7d7e4e11d156a938dd7b12e56172
   score_criteria:
     cats: 0
     description: 3

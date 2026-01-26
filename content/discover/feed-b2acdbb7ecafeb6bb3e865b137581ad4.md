@@ -1,6 +1,6 @@
 ---
 title: Logging the Switch
-date: "2025-10-04T09:44:49+02:00"
+date: "2026-01-14T19:30:28+01:00"
 description: Logging the Switch is een weblog van Christian Luijten, die in 2004 besloot
   dat hij zou stoppen met PCs en switchen naar de Mac. In eerste instantie was het
   plan om te switchen van Linux op de PC
@@ -16,45 +16,43 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
-  - title: Frank Meeuwsen - Blogroll
-    description: ""
-    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
   categories:
-  - zonsverduistering
+  - 3D Printing
+  - Rheinturm
   relme:
     https://github.com/islandsvinur: true
     https://luijten.org/: true
     https://mastodon.social/@islandsvinur: true
     https://www.luijten.org/: true
-  last_post_title: Zonsverduistering
+  last_post_title: Een heel andere hobby
   last_post_description: |-
-    Vandaag was er weer
-    een gedeeltelijke zonsverduistering zichtbaar
-    boven Nederland. Net als de vorige keer hebben we met twee
-    grote stukken karton, een prikpen en een vergrootglas weer ons eigen
-  last_post_date: "2025-03-29T00:00:00+01:00"
-  last_post_link: https://luijten.org/2025/03/29/zonsverduistering.html
+    Het was misschien onvermijdelijk, maar een heel andere hobby heeft zich gemanifesteerd. Inderdaad, ik heb mij op het
+    3D-printen gestort met een Bambu Lab A1.
+
+    Daardoor kon ik eindelijk verder met het
+  last_post_date: "2026-01-14T00:00:00+01:00"
+  last_post_link: https://luijten.org/2026/01/14/een-heel-andere-hobby.html
   last_post_categories:
-  - zonsverduistering
+  - 3D Printing
+  - Rheinturm
   last_post_language: ""
-  last_post_guid: 3b20833f2ee1ec05e2cea26aafea25d3
+  last_post_guid: d6c9ec34328dadda93088598d94c12de
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

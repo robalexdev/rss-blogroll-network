@@ -15,52 +15,43 @@ params:
     id: bf95fc3fe734baa4e4fdf4b50381791c
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
-  - title: Take on Rules Public Blogroll
-    description: ""
-    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
+  - https://danq.me/home-2/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories:
+  - ARIA
   - Web
   - accessibility
-  - ethics
-  - overlay
+  - browser
+  - html
+  - standards
+  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: Pre-order “Digital Accessibility Ethics”
-  last_post_description: Lainey Feingold, Reginé Gilbert, and Chancey Fleet gathered
-    36 authors across 10 countries and a commonwealth to write 32 chapters about ethics
-    in digital accessibility. I am one of those 36 authors
-  last_post_date: "2025-11-12T19:04:59Z"
-  last_post_link: https://adrianroselli.com/2025/11/pre-order-digital-accessibility-ethics.html
+  last_post_title: Barriers from Links with ARIA
+  last_post_description: 'Today Temani Afif asked a question: Are the below codes
+    equivalent if we consider all the aspects? (a11y, semantic, something else maybe?)
+    If not, what is missing (or should be changed) in the second'
+  last_post_date: "2026-01-23T01:53:22Z"
+  last_post_link: https://adrianroselli.com/2026/01/barriers-from-links-with-aria.html
   last_post_categories:
+  - ARIA
   - Web
   - accessibility
-  - ethics
-  - overlay
+  - browser
+  - html
+  - standards
+  - usability
   last_post_language: ""
-  last_post_guid: 0ab6e6895b493ab2b65e940316808b36
+  last_post_guid: 485c08495b45eb71ebdd47be6a9283be
   score_criteria:
     cats: 0
     description: 3

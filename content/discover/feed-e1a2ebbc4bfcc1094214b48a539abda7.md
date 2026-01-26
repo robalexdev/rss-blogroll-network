@@ -22,7 +22,6 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []

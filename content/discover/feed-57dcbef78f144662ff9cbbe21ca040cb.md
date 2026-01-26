@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2025-11-09T13:07:39Z"
+date: "2026-01-25T13:27:30Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -19,16 +19,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - LLM
+  - Java
   relme: {}
-  last_post_title: 基于iflow的qwen模型来体验代码生成
-  last_post_description: 这里我们用iflow的默认Qwen3-Coder-Plus模型来生成一个todo应用本次的prompt稍微调整了下
-  last_post_date: "2025-11-09T13:07:39Z"
-  last_post_link: https://nicksxs.me/2025/11/09/%E5%9F%BA%E4%BA%8Eiflow%E7%9A%84qwen%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BD%93%E9%AA%8C%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90/
+  last_post_title: 学习体验下Koupleless框架-浅析代码
+  last_post_description: !!binary |
+    5LiK5qyh566A5Y2V5L2T6aqM5LqG5LiLa291cGxlbGVzc+ahhuaetu+8jOWPr+S7peWPke
+    eOsGFya+aooeWdl+eahOWKoOi9vei/kOihjOaYr+mdnuW4uOacieS8mOWKv+eahO+8jOi/
+    measoeWwseadpeeci+S4i+i/meS4quaooeWdl+W8j+aAjuS5iOWKoOi9veeahOaIkeS7rO
+    WPr+S7pemAmui/h+WQr+WKqOWfuuW6p+S9v+eUqOiwg+ivleaooeW8j+8=
+  last_post_date: "2026-01-25T13:27:30Z"
+  last_post_link: https://nicksxs.me/2026/01/25/%E5%AD%A6%E4%B9%A0%E4%BD%93%E9%AA%8C%E4%B8%8BKoupleless%E6%A1%86%E6%9E%B6-%E6%B5%85%E6%9E%90%E4%BB%A3%E7%A0%81/
   last_post_categories:
-  - LLM
+  - Java
   last_post_language: ""
-  last_post_guid: 1aa5eff211c0626ae2169138205dcc9c
+  last_post_guid: 2c7b1114aa59cef2baf2e733d7f3757e
   score_criteria:
     cats: 0
     description: 3

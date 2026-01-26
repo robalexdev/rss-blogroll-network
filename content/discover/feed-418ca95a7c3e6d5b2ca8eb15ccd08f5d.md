@@ -1,6 +1,6 @@
 ---
 title: Shuibaco • 水八口
-date: "2025-11-14T01:01:00Z"
+date: "2025-12-31T14:59:00Z"
 description: ""
 params:
   feedlink: https://shuiba.co/feed
@@ -16,17 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 关西世博会
-  last_post_description: !!binary |
-    MjAyNeW5tOS4lueVjOWNmuiniOS8mu+8jOaYrzIwMjXlubQ05pyIMTPml6Xoh7MxMOaciD
-    Ez5pel5Zyo5pel5pys5aSn6Ziq5bqc5aSn6Ziq5biC5Li+5Yqe55qE5LiW55WM5Y2a6KeI
-    5Lya77yM5Lya5pyfNuS4quaciO+8jOS8muWcuuS9jeS6juWkp+mYqua5vuWyuOeahOS6uu
-    W3peWym+aipua0su+8jOS4u+mimOaYr+KAnOiuqeeUn+WRveabtOWFieg=
-  last_post_date: "2025-11-14T01:01:00Z"
-  last_post_link: https://shuiba.co/kansai-expo-2025
+  last_post_title: 2025年度总结
+  last_post_description: "再见2025\n\n\n   "
+  last_post_date: "2025-12-31T14:59:00Z"
+  last_post_link: https://shuiba.co/year-report-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7498747eff8a596964b911a345e9eb64
+  last_post_guid: 2a54e656267a725260bb9137d559a0b8
   score_criteria:
     cats: 0
     description: 0

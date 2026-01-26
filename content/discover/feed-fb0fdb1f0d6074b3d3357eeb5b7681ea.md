@@ -19,20 +19,17 @@ params:
   categories:
   - Haskell
   relme: {}
-  last_post_title: The Baby Paradox in Haskell
+  last_post_title: 'Advent of Code 2025: Haskell Solution Reflections for all 12 Days'
   last_post_description: |-
-    Everybody
-    Loves My Baby is a Jazz Standard from 1924 with the famous lyric:
-
-    Everybody loves my baby, but my baby don’t love nobody but me.
-
-    Which is often formalized as
-  last_post_date: "2025-08-21T15:36:28Z"
-  last_post_link: https://blog.jle.im/entry/the-baby-paradox-in-haskell.html
+    Merry Christmas all! This is my annual Advent of Code post! Advent of Code is a
+    series of (this year) 12 daily Christmas-themed programming puzzles that are
+    meant to be fun diversions from your daily
+  last_post_date: "2025-12-24T20:44:05Z"
+  last_post_link: https://blog.jle.im/entry/advent-of-code-2025.html
   last_post_categories:
   - Haskell
   last_post_language: ""
-  last_post_guid: 7225675208874161fce91ec5ad72c2d3
+  last_post_guid: 5ad3967973469e649bed4ab66984198e
   score_criteria:
     cats: 0
     description: 3

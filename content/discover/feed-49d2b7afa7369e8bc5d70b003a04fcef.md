@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2025-10-24T21:40:51Z"
+date: "2026-01-15T20:56:01Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -8,6 +8,7 @@ params:
   feedid: 49d2b7afa7369e8bc5d70b003a04fcef
   websites:
     https://dotat.at/: false
+    https://dotat.at/@/blog.html: true
     https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
@@ -17,14 +18,15 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: how to draw a tetrapod
+  relme:
+    https://dotat.at/@/blog.html: true
+  last_post_title: GCRA vs leaky / token buckets
   last_post_description: ""
-  last_post_date: "2025-10-24T21:40:51Z"
-  last_post_link: https://dotat.at/@/2025-10-24-tetrapod.html
+  last_post_date: "2026-01-15T20:56:01Z"
+  last_post_link: https://dotat.at/@/2026-01-15-gcra.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aae6d198e891c407d216fa1cf24d2d61
+  last_post_guid: 8c555a5f6d5e6446c759394bc10b7ccc
   score_criteria:
     cats: 0
     description: 0
@@ -34,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2025-11-09T18:14:29Z"
+date: "2026-01-19T23:21:56Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why is my kitchen so clean?
+  last_post_title: Vivo Time
   last_post_description: ""
-  last_post_date: "2025-09-16T00:00:00Z"
-  last_post_link: https://lopespm.com/notes/2025/09/16/why_is_my_kitchen_so_clean.html
+  last_post_date: "2026-01-19T00:00:00Z"
+  last_post_link: https://lopespm.com/product/2026/01/19/vivotime.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e6ba0de244e0150bfe629c6c85f701df
+  last_post_guid: 87c77175c4385eed7fc597af41e4bd44
   score_criteria:
     cats: 0
     description: 0

@@ -12,20 +12,12 @@ params:
   - title: Articles by Aaron Parecki
     description: ""
     id: 04771e3320b44a0e37cc8de8ad3d8722
-  - title: Stan's blog
-    description: Recent content on Stan's blog
-    id: 06ec1ee4eb49931cbb87a87747e6f5e7
   - title: Brain Baking
     description: Freshly Baked Thoughts by Wouter Groeneveld
     id: 089c9db489cfeaf58be3a5376674b2c2
   - title: garrit.xyz
     description: Garrit Franke
     id: 08c9a1f191b05dfc5913700989658ade
-  - title: Kev Quirk
-    description: Welcome to Kev Quirk's little corner of the internet. Here you can
-      find out lots of information about me, how to contact me and, of course, my
-      blog.
-    id: 09cd3f10a54bd9ccc5caf48b9de69412
   - title: Filippo Valsorda
     description: ""
     id: 13fa1dbc7c4db6c364433da06e1896ec
@@ -61,9 +53,6 @@ params:
   - title: Tim Hårek
     description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
-  - title: Luke’s Wild Website
-    description: Now with more mayonnaise!
-    id: 4685ae84966feff5e12e3b849531b6ea
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
