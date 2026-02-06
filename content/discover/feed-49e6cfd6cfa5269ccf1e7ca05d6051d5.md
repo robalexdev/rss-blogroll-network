@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter Bridge
-date: "2026-01-26T09:57:03Z"
+date: "2026-01-26T22:51:12Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "TikTok&#x27;s new CEO \U0001F4F1, Brex acquired \U0001F4B3, GitHub
-    Copilot SDK"
+  last_post_title: "Inside Apple AI \U0001F4F1, ChatGPT lead shrinks \U0001F4C9, Claude
+    Code&#x27;s hidden feature \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-01-22T23:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-01-23
+  last_post_date: "2026-01-25T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-01-26
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 047fb0016254309a80d36f4ee1bbfe02
+  last_post_guid: bc7fb322b84f728b84b92eec3456e876
   score_criteria:
     cats: 0
     description: 0

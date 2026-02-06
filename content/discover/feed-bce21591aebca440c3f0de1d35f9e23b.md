@@ -17,12 +17,7 @@ params:
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
   - Homepage
   relme:

@@ -19,7 +19,6 @@ params:
   relme:
     https://blog.gripdev.xyz/: true
     https://fosstodon.org/@lawrencegripper: true
-    https://github.com/lawrencegripper: true
   last_post_title: Using WebRTC to launch a debugging terminal into GitHub Actions
   last_post_description: "Spoiler: I made a free and open-source way to get an interactive
     web terminal to your GitHub Action when it fails. Try it out here: https://actions-term.gripdev.xyz/

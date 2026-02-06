@@ -141,8 +141,6 @@ params:
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/
   - https://chrishannah.me/feed
-  - https://danq.me/comments/feed/
-  - https://danq.me/home-2/feed/
   - https://darthmall.net/feed/all.xml
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
@@ -163,6 +161,7 @@ params:
   - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
+  - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
   - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
@@ -201,24 +200,20 @@ params:
   - https://www.wackomenace.co.uk/essays/rss.xml
   recommender: []
   categories:
-  - books
-  - life
   - reading
-  - thoughts
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: The Mortal Reader
-  last_post_description: "\uFEFF\n\x41\x20\x79\x65\x61\x72\x20\x6F\x66\x20\x70\x75\x72\x70\x6F\x73\x65\x66\x75\x6C\x20\x72\x65\x61\x64\x69\x6E\x67\n\x49\x20\x73\x75\x63\x63\x75\x6D\x62\x20\x74\x6F\x20\x74\x68\x65\x20\x79\x65\x61\x72\x6C\x79\x20\x77\x61\x76\x65\x73\x20\x6F\x66\x20\x59\x6F\x75\x74\x75\x62\x65\x20\x62\x69\x6E\x67\x65\x20\x77\x61\x74\x63\x68\x69\x6E\x67\x20\x61\x6E\x64\x20\x49\x20\x6E\x6F\x74\x69\x63\x65\x20\x61\x20\x70\x61\x74\x74\x65\x72\x6E\x20\x65\x6D\x65\x72\x67\x69\x6E\x67\x20\x61\x6D\x6F\x6E\x67\x73\x74\x20\x74\x68\x65\x20\x42\x6F\x6F\x6B\x54\x75\x62\x65\x20\x63\x6F\x6D\x6D\x75\x6E\x69\x74\x79\x2E\x20\x52\x65\x61\x64\x20\x6C\x65\x73\x73\x2C\x20\x72\x65\x61\x64\x20\x62\x65\x74\x74\x65\x72\x2E\x20\x44\x6F\x6E\x27\x74\x20\x74\x72\x61\x63\x6B\x2C\x20\x64\x6F\x6E\x27\x74"
-  last_post_date: "2026-01-12T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/The_Mortal_Reader
+  last_post_title: January 2026 Reading Recap
+  last_post_description: I began the month without much intention to read. My focus
+    was the Book Club, since the book was rather big compared to other months. However,
+    I ended up finishing five books and still reading two.
+  last_post_date: "2026-01-31T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/January_2026_Reading_Recap
   last_post_categories:
-  - books
-  - life
   - reading
-  - thoughts
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
@@ -227,13 +222,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

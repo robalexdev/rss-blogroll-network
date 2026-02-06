@@ -10,7 +10,6 @@ params:
   feedid: 825e2b835bc8fb6bedd6e0eadd02d108
   websites:
     https://meyerweb.com/: false
-    https://meyerweb.com/eric/thoughts: true
     https://meyerweb.com/eric/thoughts/: false
     https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
@@ -25,33 +24,34 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - CSS
+  - DOM
   - JavaScript
-  relme:
-    https://meyerweb.com/eric/thoughts: true
-  last_post_title: Custom Asidenotes
-  last_post_description: In which I turn inline asides into robustly enhanced sidenotes
-    with CSS and just a touch of JS.
-  last_post_date: "2025-10-29T13:19:29Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/
+  - Standards
+  relme: {}
+  last_post_title: Targeting by Reference in the Shadow DOM
+  last_post_description: A new way to allow elements inside a Shadow DOM to be targeted
+    for accessibility or other reasons.
+  last_post_date: "2025-12-19T15:04:58Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/
   last_post_categories:
-  - CSS
+  - DOM
   - JavaScript
+  - Standards
   last_post_language: ""
-  last_post_guid: 0d090aced572fac6dc5857b30d67f180
+  last_post_guid: 4ceb0409eec342efd2e79d871beb7cfe
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

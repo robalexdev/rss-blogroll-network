@@ -16,19 +16,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - FLUG
+  - GOLEM
   relme:
     https://firenze.linux.it/: true
-  last_post_title: Riunione operativa del 22/01/2026
-  last_post_description: 'GiovedÃ¬ 22 gennaio 2026 alle 21:00 si terrÃ  una riunione
-    operativa del FLUG, presso il Centro Sociale Autogestito Next Emerson, in via
-    di Bellagio 15, zona Castello. Ordine del giorno: verifica'
-  last_post_date: "2026-01-19T14:07:40Z"
-  last_post_link: https://firenze.linux.it/2026/01/riunione-operativa-del-22-01-2026/
+  last_post_title: Assemblea dei soci del GOLEM 2026
+  last_post_description: 'Martedì 10 febbraio 2026 alle 21:30 si terrà l’assemblea
+    annuale dei soci del GOLEM, presso l’Officina Informatica. Ordine del giorno:
+    approvazione bilancio e relazione attività 2025; elezione'
+  last_post_date: "2026-02-05T21:29:42Z"
+  last_post_link: https://firenze.linux.it/2026/02/assemblea-dei-soci-del-golem-2026/
   last_post_categories:
-  - FLUG
+  - GOLEM
   last_post_language: ""
-  last_post_guid: 6d8af05f4f00cf4c71c3c3bbe341f0cb
+  last_post_guid: 073c348a2e7ee615d1237e6716b0b36b
   score_criteria:
     cats: 0
     description: 3

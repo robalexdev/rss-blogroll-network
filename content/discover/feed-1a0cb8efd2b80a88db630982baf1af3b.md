@@ -25,14 +25,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Sending Webmentions with a Simple Shell Script
-  last_post_description: I came across a convenient way to send webmentions from my
-    terminal using a simple Bash script.
-  last_post_date: "2026-01-07T18:25:04Z"
-  last_post_link: https://reillyspitzfaden.com/posts/2026/01/sending-webmentions-with-a-simple-shell-script/
+  last_post_title: 'IndieWeb Movie Club: “Alien”'
+  last_post_description: Re-watching a sci-fi classic to discuss with IndieWeb friends,
+    and thinking about the music and sound design
+  last_post_date: "2026-01-31T23:53:51Z"
+  last_post_link: https://reillyspitzfaden.com/posts/2026/01/indieweb-movie-club-alien/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3ce72d02676fbd581686de27983252bd
+  last_post_guid: 627b37ee6faeb2f3e72d4bd8f02d6f36
   score_criteria:
     cats: 0
     description: 3

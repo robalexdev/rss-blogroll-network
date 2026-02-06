@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-01-23T21:51:03+08:00"
+date: "2026-02-05T20:01:03+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -19,36 +19,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Cursor
-  - Skills
+  - 旅游
   relme: {}
-  last_post_title: Agent Skills实践
-  last_post_description: |-
-    Foreword
-
-    最近 Skills 稍微有点火，哪哪都是在讨论。这里我也结合一下日常工作的实际场景来实践一下，看看 Agent Skills 能干些啥，以及它和之前说过的
-  last_post_date: "2026-01-23T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/01/23/Agent-Skills/
+  last_post_title: 西双版纳/海南自驾游-计划版
+  last_post_description: !!binary |
+    Rm9yZXdvcmQKCuWOn+iuoeWIkuaYr+S7jua3seWcs+iHqumpvuW+gOi/lOilv+WPjOeJiO
+    e6s++8jOaKiuayv+mAlOeahOS4gOS6m+WfjuW4guWSjOaZr+eCuemhuui3r+S4sui1t+ad
+    pe+8jOeOqeS4gOWciOOAggoK5oiR5LiN5Zac5qyi5a+S5Ya377yM5omA5Lul5pil6IqC6L
+    +Z5Liq5pe26Ze054K577yM5rW35Y2X5ZKM6KW/5Y+M54mI57qz5aSp5rA=
+  last_post_date: "2026-02-05T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/02/05/Xishuangbanna-Self-driving-Travel/
   last_post_categories:
-  - AI
-  - Cursor
-  - Skills
+  - 旅游
   last_post_language: ""
-  last_post_guid: 9d20435bac47de1ebf1f45bfeb2589e9
+  last_post_guid: 2fd4b8d8635a529e3d27fd7eb34e0755
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

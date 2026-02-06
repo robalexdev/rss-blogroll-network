@@ -19,19 +19,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - design
-  - games
+  - as-presaged
+  - computing
   relme: {}
-  last_post_title: The Bird-Poker Deck
-  last_post_description: Whereby I talk about a truncated pack of playing cards called
-    the Bird-Poker deck...
-  last_post_date: "2025-10-20T08:47:49Z"
-  last_post_link: https://blog.fogus.me/games/bird-poker.html
+  last_post_title: As Presaged in January 1996
+  last_post_description: Whereby I read the January 1996 issue of Byte and talk about
+    it...
+  last_post_date: "2026-01-09T13:17:49Z"
+  last_post_link: https://blog.fogus.me/as-presaged/jan1996.html
   last_post_categories:
-  - design
-  - games
+  - as-presaged
+  - computing
   last_post_language: ""
-  last_post_guid: fcb047c6c11d6765d2b3fa20514ff98d
+  last_post_guid: 19a2dec83021b54caff2357f6120a732
   score_criteria:
     cats: 0
     description: 3
@@ -49,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 11
   avgpostlen: 0
 ---

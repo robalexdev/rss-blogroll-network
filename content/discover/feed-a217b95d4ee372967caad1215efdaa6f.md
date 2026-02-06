@@ -7,8 +7,7 @@ params:
   feedlink: https://sonnet.io/feed.xml
   feedtype: atom
   feedid: a217b95d4ee372967caad1215efdaa6f
-  websites:
-    https://sonnet.io/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,9 +16,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://mastodon.cloud/@raf: true
-    https://sonnet.io/: true
+  relme: {}
   last_post_title: '***'
   last_post_description: ""
   last_post_date: "2023-05-29T00:00:00Z"
@@ -36,10 +33,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

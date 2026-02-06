@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2026-01-21T10:37:00Z"
+date: "2026-02-02T13:18:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Floating Action Buttons are bad, and what to do instead.
+  last_post_title: Accessible inline collapsible
   last_post_description: ""
-  last_post_date: "2026-01-21T10:37:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/floating-action-buttons-are-bad-and-what-to-do-instead-1/
+  last_post_date: "2026-02-02T13:18:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/accessible-inline-collapsible/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 19ca21733b8d3f81faada81280cda707
+  last_post_guid: 7c4d1a822a52fb2b50cce0945beea367
   score_criteria:
     cats: 0
     description: 3

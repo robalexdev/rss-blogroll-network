@@ -19,16 +19,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 分享热爱
+  - Uncategorized
   relme: {}
-  last_post_title: 再谈 iA Writer
-  last_post_description: 引 去年写过一篇文章聊 iA Writer 的手感，但它的优秀之处不仅于此。 iA Writer 与 Obsi […]
-  last_post_date: "2026-01-25T16:19:06Z"
-  last_post_link: https://anotherdayu.com/2026/7669/
+  last_post_title: 在 AI 浪潮中迷失的 Setapp
+  last_post_description: 引 看到 Setapp 要求新上架的软件具备 AI 功能，忍不住吐槽几句。 过去两年上线的新工具里，我印象较好 […]
+  last_post_date: "2026-01-26T16:58:55Z"
+  last_post_link: https://anotherdayu.com/2026/7686/
   last_post_categories:
-  - 分享热爱
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 5fcb617152bd07033fd8571ba9d0e92d
+  last_post_guid: 0e2fed412c5f6a6b83ffe4b6cacc175f
   score_criteria:
     cats: 0
     description: 3

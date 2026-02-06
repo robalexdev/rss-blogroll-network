@@ -13,23 +13,18 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: new to snow, new to solitude
-  last_post_description: I am alone and it is going to snow, then sleet, followed
-    by freezing rain to turn the city to ice. My spouse is down south and couldn't
-    drive back in the storm, so I am also entering my second week
-  last_post_date: "2026-01-24T16:42:00Z"
-  last_post_link: https://smallcypress.bearblog.dev/new-to-snow-new-to-solitude/
+  last_post_title: weeknotes 5 (media, snow, sewing)
+  last_post_description: Baltimore is sitting under the most snow the city has had
+    in a decade, and I was out of work for the past week (other than some "virtual
+    learning" with my kids, and my fifth graders got to see my
+  last_post_date: "2026-02-01T23:42:00Z"
+  last_post_link: https://smallcypress.bearblog.dev/weeknotes-5-media-snow-sewing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aaff14f98226df946bf9f594d0274e02
+  last_post_guid: 72853da84daa3387a9156edd2c3c75a5
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Making Hay
-date: "2026-01-26T10:44:13Z"
+date: "2026-01-27T07:34:06Z"
 description: ""
 params:
   feedlink: https://franksting.writeas.com/feed/

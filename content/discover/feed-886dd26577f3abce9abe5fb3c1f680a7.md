@@ -16,27 +16,26 @@ params:
   recommender: []
   categories:
   - GlassFish
-  - GlassFish Embedded
-  - GlassFish-Embedded
   - Jakarta EE
-  - Microservices
-  - Video
+  - OmniFish
+  - Opinions
+  - Payara
   relme: {}
-  last_post_title: Run Your Apps with GlassFish from the Command Line
-  last_post_description: With Embedded GlassFish runnable from command line, watch
-    how it's easy to run applications with GlassFish directly from the command line
-    or from a Docker container, as any standard Java application.
-  last_post_date: "2026-01-08T22:44:00Z"
-  last_post_link: https://omnifish.ee/run-your-apps-with-glassfish-from-the-command-line/?utm_source=rss&utm_medium=rss&utm_campaign=run-your-apps-with-glassfish-from-the-command-line
+  last_post_title: 'Azul Acquires Payara: GlassFish Supported by OmniFish Is A Reliable
+    Choice'
+  last_post_description: The recent acquisition of Payara by Azul is an important
+    moment for Payara, though it also raises questions about its future. Meanwhile
+    GlassFish has developed into a powerful and reliable
+  last_post_date: "2026-02-03T15:54:46Z"
+  last_post_link: https://omnifish.ee/azul-acquires-payara-glassfish-reliable-choice/?utm_source=rss&utm_medium=rss&utm_campaign=azul-acquires-payara-glassfish-reliable-choice
   last_post_categories:
   - GlassFish
-  - GlassFish Embedded
-  - GlassFish-Embedded
   - Jakarta EE
-  - Microservices
-  - Video
+  - OmniFish
+  - Opinions
+  - Payara
   last_post_language: ""
-  last_post_guid: c933e73c3da5160e555c340aba31a354
+  last_post_guid: a3c20e948f83a6ec9edda5862b631708
   score_criteria:
     cats: 0
     description: 3

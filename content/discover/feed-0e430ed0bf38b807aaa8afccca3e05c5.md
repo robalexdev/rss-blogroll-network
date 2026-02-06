@@ -18,17 +18,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: 'CVE-2025-64155: In the Wild Exploitation of FortiSIEM for Unauthenticated
-    Root-Level RCE'
-  last_post_description: On January 13th, 2026, Fortinet publicly disclosed and patched
-    CVE-2025-64155 (CVSS 9.8) affecting FortiSIEM along with five additional vulnerabilities
-    across its product line [1][2][3][4][5]. In
-  last_post_date: "2026-01-20T07:53:25Z"
-  last_post_link: https://www.greenbone.net/en/blog/cve-2025-64155-fortisiem-root-rce-cvss-9-8/
+  last_post_title: 'January 2026 Threat Report: Off to a Raucous Start'
+  last_post_description: So far, 2026 is off to a raucous start. The number of critical
+    severity vulnerabilities impacting widely deployed software is staggering. Defenders
+    need to scan widely and scan often to detect new
+  last_post_date: "2026-02-05T07:04:27Z"
+  last_post_link: https://www.greenbone.net/en/blog/january-2026-threat-report-off-to-a-raucous-start/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 637bbfc02218725c2801266b6153431a
+  last_post_guid: 071428a8aaaa90afc447717897b9fc71
   score_criteria:
     cats: 0
     description: 3

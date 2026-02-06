@@ -6,16 +6,22 @@ params:
   feedlink: https://go.dev/blog/feed.atom
   feedtype: atom
   feedid: 2f02a05b9ae2b09d6abb5aa771db4a68
-  websites: {}
+  websites:
+    https://go.dev/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: ""
+    description: ""
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
   recommender:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories: []
   relme: {}
   last_post_title: Results from the 2025 Go Developer Survey
@@ -37,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

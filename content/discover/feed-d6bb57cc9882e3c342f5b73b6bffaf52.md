@@ -20,16 +20,16 @@ params:
   categories:
   - Weeknotes
   relme: {}
-  last_post_title: Weeknotes 26:03
-  last_post_description: Articles I read Caught my eye Text frame border animation
-    rotation (Codepen) See the Pen Text frame border animation rotation that [CSS
-    & SVG] V 2 by Fernando Cohen (@designfenix) on CodePen. Cyd
-  last_post_date: "2026-01-19T21:50:56Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-january-19-2026/
+  last_post_title: Weeknotes 26:05
+  last_post_description: “A masonry layout is a grid-like layout that has a set column
+    system with a flexible, content-driven row system. What this setup does is allow
+    content to be displayed in a brick wall-like layout
+  last_post_date: "2026-02-02T00:34:40Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-february-1-2026/
   last_post_categories:
   - Weeknotes
   last_post_language: ""
-  last_post_guid: d969513f2427c7a09b6398627f987078
+  last_post_guid: 0577327c2fc2f558fe8ec725c1c7bbfd
   score_criteria:
     cats: 0
     description: 3

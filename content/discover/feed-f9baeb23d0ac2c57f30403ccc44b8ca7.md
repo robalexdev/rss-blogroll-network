@@ -1,6 +1,6 @@
 ---
 title: MetaFilter
-date: "2026-01-26T16:43:11Z"
+date: "2026-02-06T05:03:49Z"
 description: The past 24 hours of MetaFilter
 params:
   feedlink: https://rss.metafilter.com/metafilter.rss
@@ -13,33 +13,88 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
-  - TheWalrus
-  - freerangechildrenvswhateverisnonfree
-  - parenting
-  - rightsofchildren
-  - simonlewsonrange
+  - MarianneHansen
+  - ValentinesDay
+  - alphabet
+  - alphabets
+  - boardgame
+  - boardgames
+  - book
+  - books
+  - card
+  - cardgame
+  - cardgames
+  - cards
+  - code
+  - codes
+  - fingerspelling
+  - game
+  - games
+  - hansen
+  - history
+  - letter
+  - letters
+  - love
+  - loveletter
+  - loveletters
+  - parlorgame
+  - parlorgames
+  - parlourgame
+  - parlourgames
+  - secret
+  - secretcode
+  - secretcodes
+  - secrets
+  - spelling
+  - valentine
+  - valentines
   relme: {}
-  last_post_title: Is It Dangerous to Let Kids Be Free?
-  last_post_description: From bus rides to playgrounds, we are raising our children
-    in a culture of fear. (slTheWalrus)I look forward to everyone discussing how free
-    range they were as kids because we really were. Or at
-  last_post_date: "2026-01-26T16:43:11Z"
-  last_post_link: https://www.metafilter.com/211958/Is-It-Dangerous-to-Let-Kids-Be-Free
+  last_post_title: '"Valuable information for the use of those who need friendly guidance"'
+  last_post_description: 'Marianne Hansen (Bryn Mawr Special Collections Blog, 2/14/2022),
+    "Love Letters": "you think you should write a love letter? ... you may want books
+    that have stood the test of time." Celebrino''s'
+  last_post_date: "2026-02-06T05:03:49Z"
+  last_post_link: https://www.metafilter.com/212096/Valuable-information-for-the-use-of-those-who-need-friendly-guidance
   last_post_categories:
-  - TheWalrus
-  - freerangechildrenvswhateverisnonfree
-  - parenting
-  - rightsofchildren
-  - simonlewsonrange
+  - MarianneHansen
+  - ValentinesDay
+  - alphabet
+  - alphabets
+  - boardgame
+  - boardgames
+  - book
+  - books
+  - card
+  - cardgame
+  - cardgames
+  - cards
+  - code
+  - codes
+  - fingerspelling
+  - game
+  - games
+  - hansen
+  - history
+  - letter
+  - letters
+  - love
+  - loveletter
+  - loveletters
+  - parlorgame
+  - parlorgames
+  - parlourgame
+  - parlourgames
+  - secret
+  - secretcode
+  - secretcodes
+  - secrets
+  - spelling
+  - valentine
+  - valentines
   last_post_language: ""
-  last_post_guid: 05efa9ca0ae0f6fe8a21d828e328ff51
+  last_post_guid: bb738a3496d4644d4304e6199baca0db
   score_criteria:
     cats: 0
     description: 3

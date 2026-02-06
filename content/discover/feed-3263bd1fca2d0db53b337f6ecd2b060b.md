@@ -16,18 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Lessons learned from 2 years of operating a teensy-tiny news archive
+  last_post_title: Claude Code disproportionately benefits those who touch type
   last_post_description: |-
-    I began running
-    Andrew’s Selkouutiset Archive
-    almost exactly two years ago, with a simple goal:
-    Create a straightforward way for Finnish language learners
-    to access the simple news broadcast by
-  last_post_date: "2025-10-27T00:00:00Z"
-  last_post_link: https://til.andrew-quinn.me/posts/lessons-learned-from-2-years-of-operating-a-tiny-news-archive/
+    I use Claude Code. I like Claude Code. According to
+    Steve Yegge’s
+    Eight-Circuit Model of Claudesciousness,
+    I’m a pretty solid Stage 6, edging into 7 on heavy days.
+    I think most engineers, most of
+  last_post_date: "2026-01-24T00:00:00Z"
+  last_post_link: https://til.andrew-quinn.me/posts/claude-code-disproportionately-benefits-those-who-touch-type/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6e00b82c7095f5998bdc16f8a35286a5
+  last_post_guid: 08c7179039997d4bb53044fda65855b4
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 77
+  postcount: 86
   avgpostlen: 0
 ---

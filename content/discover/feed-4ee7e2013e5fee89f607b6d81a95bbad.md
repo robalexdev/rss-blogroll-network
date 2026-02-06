@@ -19,32 +19,30 @@ params:
   - https://marisabel.nl/feeds/combined.php
   categories:
   - Life
-  - 稽古
   relme: {}
-  last_post_title: Come to dinner / 合宿
-  last_post_description: At the low, chestnut-colored table, trying to philosophize
-    in my broken Japanese, I realize that eventually you get old enough that your
-    goals become memories. You didn’t mean to leave them behind,
-  last_post_date: "2026-01-26T01:37:25Z"
-  last_post_link: https://www.conscienceround.com/archives/10191
+  last_post_title: Appeal of the appeal
+  last_post_description: Clever girl, but it’s a cleverer world. The television will
+    make you tremble with how little it makes you feel. Throw a throat punch. Come
+    back to reality, or its approximation. What’s the appeal
+  last_post_date: "2026-01-30T02:18:13Z"
+  last_post_link: https://www.conscienceround.com/archives/10168
   last_post_categories:
   - Life
-  - 稽古
   last_post_language: ""
-  last_post_guid: 9409d71b1920bfdf20f1484714317170
+  last_post_guid: 442cfc24da94c71b70ee211db0eb1d1e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

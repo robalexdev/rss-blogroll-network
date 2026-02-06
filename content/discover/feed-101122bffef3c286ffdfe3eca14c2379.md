@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: HN Personal Websites
+    description: ""
+    id: 2d06252d862b16b20bf508ffad823c50
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd
@@ -19,18 +22,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 20260120的胡言乱语
+  last_post_title: 20260205的胡言乱语
   last_post_description: |-
     简介
     欢迎关注我的频道，不时发送垃圾消息
     https://t.me/bboyapp
     或者关注我的 twitter
     https://twitter.com/bboysoulcn
-  last_post_date: "2026-01-20T14:22:00Z"
-  last_post_link: https://www.bboy.app/2026/01/20/20260120%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
+  last_post_date: "2026-02-05T16:37:00Z"
+  last_post_link: https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ea12009761db6f0797fea5a4a9c5cc16
+  last_post_guid: 947e59819e1c28da411c4eb1c714908b
   score_criteria:
     cats: 0
     description: 3

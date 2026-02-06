@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 230 - Snooker
-  last_post_description: 'This week, I went back up to Ally Pally for the Masters
-    snooker. I think this is the seventh year in a row (ignoring Covid) we''ve gone.
-    It was probably the closest match I''ve seen: John Higgins beat'
-  last_post_date: "2026-01-19T17:45:10Z"
-  last_post_link: https://barryfrost.com/2026/01/week-230-snooker
+  last_post_title: Week 231 - Key
+  last_post_description: I was back in our Cambridge office this week for a couple
+    of face-to-face chats and a free lunch. The company are announcing back-to-office
+    measures this year. I'm hoping to be granted an exception
+  last_post_date: "2026-01-26T14:22:25Z"
+  last_post_link: https://barryfrost.com/2026/01/week-231-key
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a6c3260794798df17b9710e54104e59e
+  last_post_guid: 8005e072be4c19f985b6ad3e66a617f2
   score_criteria:
     cats: 0
     description: 3

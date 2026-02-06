@@ -17,16 +17,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Recomendo
+  - Tools for Possibilities
   relme: {}
-  last_post_title: TeamLab Borderless / Listen to Whales / Kitchen drawer multitool
-  last_post_description: 'Recomendo - issue #498'
-  last_post_date: "2026-01-25T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/teamlab-borderless-listen-to-whales-kitchen-drawer-multitool/
+  last_post_title: Wealth Building
+  last_post_description: 'Tools for Possibilities: issue no. 174'
+  last_post_date: "2026-01-26T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/wealth-building/
   last_post_categories:
-  - Recomendo
+  - Tools for Possibilities
   last_post_language: ""
-  last_post_guid: fb1a7308a6441d5948ca07d23c8b066f
+  last_post_guid: ba0e4501f887be748554003b283bdae2
   score_criteria:
     cats: 0
     description: 3

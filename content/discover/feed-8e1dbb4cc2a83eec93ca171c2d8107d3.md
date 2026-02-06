@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2026-01-25T17:11:30-08:00"
+date: "2026-02-05T17:53:40-08:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -140,29 +140,27 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Internet Archive's Storage
+  last_post_title: Mind The GAAP Again
   last_post_description: ""
-  last_post_date: "2026-01-21T09:35:24-08:00"
-  last_post_link: https://blog.dshr.org/2026/01/internet-archives-storage.html
+  last_post_date: "2026-02-05T15:24:20-08:00"
+  last_post_link: https://blog.dshr.org/2026/02/mind-gaap-again.html
   last_post_categories:
-  - digital preservation
-  - storage costs
-  - storage media
+  - ai
   last_post_language: ""
-  last_post_guid: 147141e9236f28b4816f7c08006ac92b
+  last_post_guid: 3f2734c55e92aafa8655af5eae51e585
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 25
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

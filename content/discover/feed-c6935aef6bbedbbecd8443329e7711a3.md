@@ -16,38 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ai联盟营销
-  - ChatGPT
-  - Media Buy
-  - Niche站赚钱
-  - SEO赚钱
-  - 内容营销
-  - 市场调研
-  - 新手培训
-  - 新手网赚
-  - 营销推广
-  - 被动收入
+  - Claude skills
+  - skills
+  - 写作工作流
+  - 小红书工作流
+  - 微信写作工作流
+  - 杂谈
   - 项目实操案例
   relme: {}
-  last_post_title: 2026「人生没有杠杆，将工作至死」2.0 来了
-  last_post_description: 本期精心设计打磨了课程内容结构，在训练营1.0基础上，汲取大家的意见，训练营2
-  last_post_date: "2026-01-20T07:09:15Z"
-  last_post_link: https://www.fuyuzhe.com/2026-2-0.html
+  last_post_title: 我用14个AI Skills员工，建了一条会自我进化的写作流水线
+  last_post_description: |-
+    哪怕老富只是一个业余的自媒体，写作这些琐碎活儿也有一堆。整理素材、查资料、试不同的文章结构、找配图、...
+    我用14个AI
+  last_post_date: "2026-01-28T10:54:41Z"
+  last_post_link: https://www.fuyuzhe.com/ai-skills-writer-workflow.html
   last_post_categories:
-  - Ai联盟营销
-  - ChatGPT
-  - Media Buy
-  - Niche站赚钱
-  - SEO赚钱
-  - 内容营销
-  - 市场调研
-  - 新手培训
-  - 新手网赚
-  - 营销推广
-  - 被动收入
+  - Claude skills
+  - skills
+  - 写作工作流
+  - 小红书工作流
+  - 微信写作工作流
+  - 杂谈
   - 项目实操案例
   last_post_language: ""
-  last_post_guid: cf08a80dcc3bf99a860e1be7f785324b
+  last_post_guid: 3782a30b5c037c801e16771ba8feb096
   score_criteria:
     cats: 0
     description: 3

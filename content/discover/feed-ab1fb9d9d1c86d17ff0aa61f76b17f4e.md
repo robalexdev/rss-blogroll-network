@@ -19,15 +19,16 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: 'Alzheimer''s: from causes and risk factors to models and interventions'
-  last_post_description: Since the recent disappointingly small effects of monoclonal
-    antibodies on Alzheimer's Disease (AD) progression, there has been lots of discourse
-    around what the cause of Alzheimer's might be. "If
-  last_post_date: "2025-12-26T00:00:00Z"
-  last_post_link: https://nintil.com/alzheimers-cause/
+  last_post_title: Anthropic's Claude Constitution; or love as the solution to the
+    AI alignment problem
+  last_post_description: |-
+    "The Claude Constitution is a beautiful document. Incomplete and overly verbose in some ways, but in a necessary way", I said on Twitter.
+    It is beautiful in that it is self-aware, transparent, honest
+  last_post_date: "2026-01-26T00:00:00Z"
+  last_post_link: https://nintil.com/claude-constitution/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aba71464b4ae7abcf08ea783669af67c
+  last_post_guid: 9875d8327a8d94a758a72e9ea83f3824
   score_criteria:
     cats: 0
     description: 0

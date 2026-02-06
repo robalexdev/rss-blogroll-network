@@ -1,6 +1,6 @@
 ---
 title: 記緒漂流
-date: "2026-01-21T18:42:52Z"
+date: "2026-02-05T17:14:19Z"
 description: 于记忆之川，泛思绪之舟。
 params:
   feedlink: https://ttio.cc/feed.xml
@@ -21,31 +21,29 @@ params:
   - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
   categories:
-  - Mindset
-  - Relationship
+  - Network
   relme: {}
-  last_post_title: 社交距离
-  last_post_description: 本文描述了笔者与前女友出游的经历，并由此反思人际交往中的心理隔阂、社交距离的矛盾，以及对理想情感的向往和现实挑战。
-  last_post_date: "2026-01-21T18:32:46Z"
-  last_post_link: https://ttio.cc/note/social-distance
+  last_post_title: 使用 Tailscale 内网穿透
+  last_post_description: 本文介绍了笔者放弃 ZeroTier，改用 Tailscale 进行内网穿透，并概述其优势及在 NAS 上的配置过程。
+  last_post_date: "2026-02-01T19:36:23Z"
+  last_post_link: https://ttio.cc/jotting/tailscale
   last_post_categories:
-  - Mindset
-  - Relationship
+  - Network
   last_post_language: ""
-  last_post_guid: 2a16e73941ccd5a6bdaa0b5bf61e5c2c
+  last_post_guid: bd9d30e35b50c699255196f4e6e5e099
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

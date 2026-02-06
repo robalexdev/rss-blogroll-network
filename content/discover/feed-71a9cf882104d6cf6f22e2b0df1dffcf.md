@@ -15,17 +15,12 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
-  - 70smusic
-  - AfroBeat
-  - Nigeria
+  - 80smusic
+  - Live Music
   - Old African Music
+  - Tanzania
   relme:
     https://amf.didiermary.fr/: true
     https://amf.didiermary.fr/donate-support-amf/: true
@@ -34,19 +29,19 @@ params:
     https://masto.ai/@cybeardjm: true
     https://pixelfed.social/cybeardjm: true
     https://www.didiermary.fr/: true
-  last_post_title: Tabansi Studio Band
-  last_post_description: 'Tabansi Studio Band – Wakar Alhazai Kano & Mus’En Sofua:
-    four incredible tracks of late-70s/early 80s Afrobeat (almost-undiscovered) magic,
-    but not Fela’s Yoruba/Pidgin Afrobeat. This is Igbo'
-  last_post_date: "2026-01-25T16:31:52Z"
-  last_post_link: https://amf.didiermary.fr/tabansi-studio-band/
+  last_post_title: Songs For The Poor Man – Remmy Ongala
+  last_post_description: The Doctor Remmy Ongala, was a Tanzanian guitarist and singer.
+    “Songs for the Poor Man” is the first studio album and second album overall, released
+    in 1989. His audience saw his lyrics as
+  last_post_date: "2026-02-03T14:40:47Z"
+  last_post_link: https://amf.didiermary.fr/songs-poor-man-remmy-ongala/
   last_post_categories:
-  - 70smusic
-  - AfroBeat
-  - Nigeria
+  - 80smusic
+  - Live Music
   - Old African Music
+  - Tanzania
   last_post_language: ""
-  last_post_guid: 7bf75a21b67e47f3336e177a39656795
+  last_post_guid: 7e4fbcbf984655854f578f7799dd72bb
   score_criteria:
     cats: 0
     description: 3

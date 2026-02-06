@@ -17,46 +17,35 @@ params:
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
-  - Chrome
-  - UX
-  - browsers
-  - design
-  - security
+  - races
+  - running
   relme: {}
-  last_post_title: Security Surfaces
-  last_post_description: An important concept in Usable Security is whether a given
-    UI represents a “security surface.” Formally, a security surface is a User Interface
-    component in which the user is presented with
-  last_post_date: "2025-12-03T21:15:46Z"
-  last_post_link: https://textslashplain.com/2025/12/03/security-surfaces/
+  last_post_title: Winter 2026 Runs
+  last_post_description: I did a reasonably good job running on my treadmill throughout
+    the fall of 2025, in preparation for my second summit of Mount Kilimanjaro over
+    New Years (blog post to come). Run for the Water 10
+  last_post_date: "2026-02-03T23:59:04Z"
+  last_post_link: https://textslashplain.com/2026/02/03/winter-2026-runs/
   last_post_categories:
-  - Chrome
-  - UX
-  - browsers
-  - design
-  - security
+  - races
+  - running
   last_post_language: ""
-  last_post_guid: ea2e81b6ce988a4a6695dc6c3a0dda16
+  last_post_guid: 454d1b81d05a65ef0ba413bf6b428fbb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

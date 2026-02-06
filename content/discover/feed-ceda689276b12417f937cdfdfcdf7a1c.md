@@ -18,26 +18,22 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - CI/CD
-  - JavaScript
-  - Operations
-  - Security
-  - contributed-sysdig
+  - AI Agents
+  - Software Development
+  - Vibe Coding
   relme: {}
-  last_post_title: A security checklist for your React and Next.js apps
+  last_post_title: Where on Earth is vibe coding taking off the most?
   last_post_description: |-
-    Modern cloud native attacks don’t always rely on a single breakthrough exploit. Instead, threat actors chain together small assumptions, overlooked
-    The post A security checklist for your React and
-  last_post_date: "2026-01-26T15:00:40Z"
-  last_post_link: https://thenewstack.io/a-security-checklist-for-your-react-and-next-js-apps/
+    Despite talk of its impending demise, the vibe coding craze appears to be alive and well, particularly in Europe. A new study by
+    The post Where on Earth is vibe coding taking off the most?
+  last_post_date: "2026-02-05T21:03:54Z"
+  last_post_link: https://thenewstack.io/top-vibe-coding-countries/
   last_post_categories:
-  - CI/CD
-  - JavaScript
-  - Operations
-  - Security
-  - contributed-sysdig
+  - AI Agents
+  - Software Development
+  - Vibe Coding
   last_post_language: ""
-  last_post_guid: b3b19ac7b559b8caa3a89ccf5ceb8378
+  last_post_guid: 280ac6adc17e4f05460484172d537633
   score_criteria:
     cats: 0
     description: 0

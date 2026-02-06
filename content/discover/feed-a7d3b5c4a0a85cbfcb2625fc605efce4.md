@@ -20,38 +20,31 @@ params:
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
   - ARIA
+  - WCAG
   - Web
   - accessibility
-  - browser
   - html
   - standards
-  - usability
   relme:
     https://adrianroselli.com/: true
-  last_post_title: Barriers from Links with ARIA
-  last_post_description: 'Today Temani Afif asked a question: Are the below codes
-    equivalent if we consider all the aspects? (a11y, semantic, something else maybe?)
-    If not, what is missing (or should be changed) in the second'
-  last_post_date: "2026-01-23T01:53:22Z"
-  last_post_link: https://adrianroselli.com/2026/01/barriers-from-links-with-aria.html
+  last_post_title: You Know What? Just Don’t Split Words into Letters
+  last_post_description: This is an unplanned part two for Barriers from Links with
+    ARIA. The title reflects my exasperation because this isn’t new, I’ve simply failed
+    to be explicit about it over the last decade or so.
+  last_post_date: "2026-02-05T17:45:05Z"
+  last_post_link: https://adrianroselli.com/2026/02/you-know-what-just-dont-split-words-into-letters.html
   last_post_categories:
   - ARIA
+  - WCAG
   - Web
   - accessibility
-  - browser
   - html
   - standards
-  - usability
   last_post_language: ""
-  last_post_guid: 485c08495b45eb71ebdd47be6a9283be
+  last_post_guid: 07f7eeed5c311a02a68399184018d3ea
   score_criteria:
     cats: 0
     description: 3

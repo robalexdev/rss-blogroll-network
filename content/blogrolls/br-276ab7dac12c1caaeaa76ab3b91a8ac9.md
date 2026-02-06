@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Mon, 26 Jan 2026 10:36:37 GMT
+date: Tue, 27 Jan 2026 07:36:31 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml
@@ -263,6 +263,9 @@ params:
   - title: gvSIG Italia
     description: Il blog italiano di gvSIG
     id: d0a8a77cfad2c49632a2f7aaa259ac6e
+  - title: Orfeo ToolBox
+    description: Orfeo ToolBox is not a black box
+    id: dc0eaf675357fc599aeb8056aadadd7b
   - title: Geo on Jorge Sanz
     description: Recent content in Geo on Jorge Sanz
     id: dcda04f83ce5066a50a55024619b7ee5

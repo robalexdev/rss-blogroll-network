@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2025-07-24T19:30:24Z"
+date: "2026-02-05T19:13:19Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml
@@ -12,20 +12,20 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
   recommender:
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories: []
   relme: {}
-  last_post_title: 'Companion app for Android: It’s been a while'
+  last_post_title: '2026.2: Home, sweet overview'
   last_post_description: ""
-  last_post_date: "2025-07-23T00:00:01Z"
-  last_post_link: https://www.home-assistant.io/blog/2025/07/23/companion-app-for-android/
+  last_post_date: "2026-02-04T00:00:00Z"
+  last_post_link: https://www.home-assistant.io/blog/2026/02/04/release-20262/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 910c2d8aff6e0428b98250ef2f43d9e8
+  last_post_guid: d98c5268d34cc15ab33b6845529e3ecb
   score_criteria:
     cats: 0
     description: 0
@@ -44,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 295
+  avgpostlen: 296
 ---

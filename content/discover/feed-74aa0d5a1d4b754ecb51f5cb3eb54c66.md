@@ -6,8 +6,7 @@ params:
   feedlink: https://samdavies.me/feed.xml
   feedtype: rss
   feedid: 74aa0d5a1d4b754ecb51f5cb3eb54c66
-  websites:
-    https://samdavies.me/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Blogroll Network Seeds
@@ -16,8 +15,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://samdavies.me/: true
+  relme: {}
   last_post_title: More Cowardice from VCU Health Leadership
   last_post_description: Yesterday, VCU Health (my former employer), again cut off
     access to trans-affirming health care for both children and legal adults (aged
@@ -36,10 +34,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 0
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

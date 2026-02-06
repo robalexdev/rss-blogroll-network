@@ -20,23 +20,21 @@ params:
   - Blogging
   - Technology
   - Tools
-  - Web Development
   relme:
     https://chriswiegman.com/: true
     https://github.com/ChrisWiegman: true
     https://mastodon.chriswiegman.com/@chris: true
-  last_post_title: One Month Back on Hugo - It Was the Right Move
-  last_post_description: Reflections on using Hugo, one month after I moved this site
-    back to it from WordPress.
-  last_post_date: "2026-01-26T08:00:00-06:00"
-  last_post_link: https://chriswiegman.com/2026/01/one-month-back-on-hugo-it-was-the-right-move/
+  last_post_title: Better Taxonomy Management for Hugo with VS Code
+  last_post_description: Learn how to maintain consistent Hugo categories and tags
+    using VS Code snippets and autocomplete for better content organization.
+  last_post_date: "2026-02-02T08:00:00-06:00"
+  last_post_link: https://chriswiegman.com/2026/02/better-taxonomy-management-for-hugo-with-vs-code/
   last_post_categories:
   - Blogging
   - Technology
   - Tools
-  - Web Development
   last_post_language: ""
-  last_post_guid: 3e4dddf04e72b3b898c37b711b7a69da
+  last_post_guid: 250e130f41e68151f783821a2860d055
   score_criteria:
     cats: 0
     description: 3

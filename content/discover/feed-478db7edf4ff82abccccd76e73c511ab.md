@@ -19,27 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - PD
-  - eRDMA
-  - 分离
+  - AI
+  - AI Agent
+  - Cursor
   - 博文
-  - 应用
-  - 阿里云
+  - 思考
+  - 智能体
   relme: {}
-  last_post_title: 阿里云 eRDMA 测试及 PD 分离应用部署
-  last_post_description: PD 分离部署场景下，经常会采用异构型号的显卡，跨机进行部署模型，这会导致跨机通信压力倍增。通常会借助 RDMA
-    设备加速 kvcache
-  last_post_date: "2026-01-17T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/test-and-deploy-pd-disagg-app-with-erdma-on-aliyun.html
+  last_post_title: Cursor 之下，何以立足
+  last_post_description: 1. AI IDE 引起的量变 AI 生成了大量代码引入工程。AI IDE
+  last_post_date: "2026-02-01T10:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/how-to-survive-in-the-cursor-world.html
   last_post_categories:
-  - PD
-  - eRDMA
-  - 分离
+  - AI
+  - AI Agent
+  - Cursor
   - 博文
-  - 应用
-  - 阿里云
+  - 思考
+  - 智能体
   last_post_language: ""
-  last_post_guid: 69642ac6c77ffc7d8473595462f6d7f7
+  last_post_guid: 2e37dae1a589fc90daddc803735f7438
   score_criteria:
     cats: 0
     description: 3

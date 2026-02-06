@@ -8,6 +8,7 @@ params:
   feedid: ecaaeefee158a85e35c39efe8804c5fe
   websites:
     https://daveverse.org/: true
+    https://daveverse.wordpress.com/: false
   blogrolls: []
   in_blogrolls:
   - title: davewiner/blogroll
@@ -21,16 +22,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: BigCo companies and countries
-  last_post_description: Random ramblings with past experience dealing with tech power.
-    As I think about next steps for building out from WordPress to create a network
-    of users and their writing, I wanted to review how XML
-  last_post_date: "2026-01-25T16:39:46Z"
-  last_post_link: https://daveverse.org/2026/01/25/bigco-companies-and-countries/
+  last_post_title: Where is our Churchill?
+  last_post_description: I'm interested in the movie Darkest Hour. Specifically the
+    scene where Churchill is surprised by a visit from the king, who we learned earlier
+    is pissed off, while Churchill is morose and undecided
+  last_post_date: "2026-01-26T17:40:10Z"
+  last_post_link: https://daveverse.org/2026/01/26/where-is-our-churchill/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 4514fef83f1e86fc5d29bd0f9cf76736
+  last_post_guid: 74f4c335926a432d9b2fdea825c9359a
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Robb Knight • Posts • Atom Feed
-date: "2025-11-08T20:53:53Z"
+date: "2026-01-22T11:45:42Z"
 description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and human
   dad.
 params:
@@ -13,9 +13,6 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
-  - title: Shellsharks Blogroll OPML
-    description: ""
-    id: 9df4ddeec5c7409e22c95cf0424ff41d
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
@@ -23,26 +20,16 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
-  - https://shellsharks.com/feeds/all-feed.xml
-  - https://shellsharks.com/feeds/devlog-feed.xml
-  - https://shellsharks.com/feeds/feed.xml
-  - https://shellsharks.com/feeds/infosec-feed.xml
-  - https://shellsharks.com/feeds/life-feed.xml
-  - https://shellsharks.com/feeds/link-feed.xml
-  - https://shellsharks.com/feeds/log-feed.xml
-  - https://shellsharks.com/feeds/note-feed.xml
-  - https://shellsharks.com/feeds/scroll-feed.xml
-  - https://shellsharks.com/feeds/socialweb-feed.xml
   categories: []
   relme: {}
-  last_post_title: Now (November 2025)
-  last_post_description: What I'm doing now. November 2025 edition
-  last_post_date: "2025-11-08T20:53:53Z"
-  last_post_link: https://rknight.me/blog/now-november-2025/
+  last_post_title: Pilot Kire-na Highlighters Review
+  last_post_description: I bought all ten of the Kire-na highlighters so I figured
+    I should review them
+  last_post_date: "2026-01-22T11:45:42Z"
+  last_post_link: https://rknight.me/blog/pilot-kirena-highlighters-review/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd9b74a8bffb5d4da6c7f6dbdc3faeae
+  last_post_guid: 7baf87699db9e801a124fa7a1e98b918
   score_criteria:
     cats: 0
     description: 3
@@ -61,5 +48,5 @@ params:
   innetwork: true
   language: ""
   postcount: 50
-  avgpostlen: 296
+  avgpostlen: 295
 ---

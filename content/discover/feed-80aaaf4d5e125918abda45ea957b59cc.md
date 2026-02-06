@@ -15,25 +15,23 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories:
   - Health
   relme: {}
-  last_post_title: Demi-sapio? Suppressing lust? Cuffing season?
-  last_post_description: One of the aspects I have love most about Sexplanations is
-    the interactive curiosity we explore together. The audience shares their questions
-    and I investigate answers to share. In this case what
-  last_post_date: "2026-01-19T19:16:06Z"
-  last_post_link: https://nebula.tv/videos/sexplanations-demisapio-suppressing-lust-cuffing-season/
+  last_post_title: Sexual Medical Conditions You May Not Know About
+  last_post_description: |-
+    Brief mentions of the following medical sexual conditions:
+    Erotomania (de Clérambault's, old maid's insanity, and phantom lover syndrome) 
+    Sexsomnia
+    Coital Cephalgia
+    Post-Orgasmic Illness
+  last_post_date: "2026-01-27T23:35:57Z"
+  last_post_link: https://nebula.tv/videos/sexplanations-sexual-medical-conditions-you-may-not-know-about/
   last_post_categories:
   - Health
   last_post_language: ""
-  last_post_guid: a56e7d7e4e11d156a938dd7b12e56172
+  last_post_guid: 53565cf619bbfed8f2c585b8618202b0
   score_criteria:
     cats: 0
     description: 3

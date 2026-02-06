@@ -9,6 +9,7 @@ params:
   feedid: 5892b6dfe3d07e2288e58ac1bca8badc
   websites:
     https://gutenbergtimes.com/: true
+    https://gutenbergtimes.com/series/gutenberg-changelog/: false
   blogrolls: []
   in_blogrolls:
   - title: davewiner/blogroll
@@ -28,29 +29,31 @@ params:
   categories:
   - Artificial Intelligence (AI)
   - For Developers
+  - For Writers
+  - Full-Site Editing
   - Playground
-  - Site Editor
   - Updates
   - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: AI Experiments, WordPress 7.0, Gutenberg 22.3 and 22.4, Playground
-    for theme builders — Weekend Edition 354
-  last_post_description: Hi there! Yes, it’s been a while. Did you miss me? I hope
-    you and yours had a great start to the new year, and I wish you a healthy, happy
-    and prosperous 2026. I am infinitely grateful you are a
-  last_post_date: "2026-01-24T06:05:00Z"
-  last_post_link: https://gutenbergtimes.com/ai-experiments-wordpress-7-0-gutenberg-22-3-and-22-4-playground-for-theme-builders-weekend-edition-354/
+  last_post_title: 'Navigation Overlays, WordPress 7.0, Interactivity API Helper,
+    AI Skills, and  #WCAsia — Weekend Edition #355'
+  last_post_description: "Hi, there \U0001F44B this week, you’ll find a great mix
+    of new releases, new tools, new plugins and events. Outside the WordPress sphere
+    I signed up for the FediForum Un-Workshop, an event bringing"
+  last_post_date: "2026-01-31T03:50:00Z"
+  last_post_link: https://gutenbergtimes.com/navigation-overlays-wordpress-7-0-interactivity-api-helper-ai-skills-and-wcasia-weekend-edition-355/
   last_post_categories:
   - Artificial Intelligence (AI)
   - For Developers
+  - For Writers
+  - Full-Site Editing
   - Playground
-  - Site Editor
   - Updates
   - Weekend Edition
   last_post_language: ""
-  last_post_guid: 026500642530ae8999339a28549cc20e
+  last_post_guid: c46910f940856443cd58390db55aaa41
   score_criteria:
     cats: 0
     description: 3

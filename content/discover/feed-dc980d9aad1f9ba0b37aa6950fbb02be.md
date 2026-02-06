@@ -16,66 +16,33 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  categories:
-  - Posts
-  - annoying
-  - backseat
-  - enshittification
-  - frustration
-  - interruptions
-  - notifications
-  - onboarding
-  - products
-  - prompts
-  - quality
-  - software
-  - technology
+  recommender: []
+  categories: []
   relme:
     https://adactio.com/: true
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: Backseat Software – Mike Swanson’s Blog
-  last_post_description: People use “enshittification” to describe platform decay.
-    What I’m describing here is one of the mechanisms that makes that decay feel personal.
-    It’s the constant conversion of your attention
-  last_post_date: "2026-01-25T10:01:35Z"
-  last_post_link: https://blog.mikeswanson.com/backseat-software/
-  last_post_categories:
-  - Posts
-  - annoying
-  - backseat
-  - enshittification
-  - frustration
-  - interruptions
-  - notifications
-  - onboarding
-  - products
-  - prompts
-  - quality
-  - software
-  - technology
+  last_post_title: Thursday session
+  last_post_description: Thursday session
+  last_post_date: "2026-02-05T20:39:37Z"
+  last_post_link: https://adactio.com/notes/22387
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a17a5512a85aee034f05a3c7b29b078
+  last_post_guid: c4b5c2874fe25188434f528ee3700763
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

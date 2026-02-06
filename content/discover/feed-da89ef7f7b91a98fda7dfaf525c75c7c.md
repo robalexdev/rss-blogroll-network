@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: da89ef7f7b91a98fda7dfaf525c75c7c
   websites:
-    https://andregarzia.com/: true
+    https://andregarzia.com/: false
   blogrolls: []
   in_blogrolls:
   - title: Bacardi55's blogroll
@@ -16,8 +16,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://andregarzia.com/: true
+  relme: {}
   last_post_title: Three months of Poncho Wonky
   last_post_description: ""
   last_post_date: "2026-01-25T12:00:00Z"
@@ -34,10 +33,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

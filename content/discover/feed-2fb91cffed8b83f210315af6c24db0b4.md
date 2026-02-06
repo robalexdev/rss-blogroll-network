@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: A little bit uncomfortable
-  last_post_description: Fear is actually a pretty good signal that you are pushing
-    into the unknown, that real growth doesn’t happen without a bit of that associated
-    discomfort, and that it’s worth becoming aware when
-  last_post_date: "2025-12-16T04:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2025/12/a-little-bit-uncomfortable.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: Education is not one-size-fits-all for the latest CTO Fellows
+  last_post_description: Today, I’m honored to introduce you to the latest cohort
+    of Now Go Build CTO Fellows. Individuals from around the world with diverse backgrounds
+    (engineering, the humanities, business, healthcare,
+  last_post_date: "2026-01-27T06:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/01/education-cohort.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06c72118572859698f633516ba2ff525
+  last_post_guid: 5fc6726cf0b729174a05120542e303c7
   score_criteria:
     cats: 0
     description: 3

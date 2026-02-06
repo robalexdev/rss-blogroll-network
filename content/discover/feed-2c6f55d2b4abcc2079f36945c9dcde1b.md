@@ -8,7 +8,6 @@ params:
   feedid: 2c6f55d2b4abcc2079f36945c9dcde1b
   websites:
     https://evanhahn.com/: false
-    https://evanhahn.com/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: robalexdev
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

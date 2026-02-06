@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 2e0fdfe7c3508a161aec97ea11fb237f
   websites:
-    https://dylanbeattie.net/: true
     https://dylanbeattie.net/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -18,10 +17,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://dylanbeattie.net/: true
-    https://github.com/dylanbeattie: true
-    https://hachyderm.io/@dylanbeattie: true
+  relme: {}
   last_post_title: The Road to Excel
   last_post_description: Chris Rea’s “The Road to Hell” is one of my favourite albums
     of all time. You probably remember the title track, but the rest of the album
@@ -40,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

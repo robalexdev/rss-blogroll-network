@@ -16,6 +16,9 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: ""
+    description: ""
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -26,6 +29,8 @@ params:
   recommender:
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories: []
   relme: {}
   last_post_title: Oh Right, I Have A Blog

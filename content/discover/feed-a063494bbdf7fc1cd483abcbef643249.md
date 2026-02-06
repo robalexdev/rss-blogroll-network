@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Pass: The Standard Unix Password Manager - (Convenient Open Source)'
-  last_post_description: This is mostly a note to myself for the future, but I hope
-    this might be helpful for someone who wants to have an extremely convenient, configurable,
-    yet free and open source password manager
-  last_post_date: "2025-06-08T00:00:00Z"
-  last_post_link: https://paulefou.com/blog/pass-standard-unix-password-manager/
+  last_post_title: Rust Traits Design Trade-offs
+  last_post_description: |-
+    I’ve spent roughly 4 hours in one sitting trying to figure out this quiz, making all those notes, and I figured that it might make sense to publish them, since I already have them.
+    Question
+  last_post_date: "2025-12-27T00:00:00Z"
+  last_post_link: https://paulefou.com/blog/traits-design-trade-offs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6d8260673f4b956c4ddedbb784b28f07
+  last_post_guid: 3d6680d21dc3dca922941a8318d88251
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 7
   avgpostlen: 0
 ---

@@ -10,9 +10,6 @@ params:
     https://anniemueller.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -23,8 +20,7 @@ params:
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
+  recommender: []
   categories: []
   relme:
     https://anniemueller.com/: true

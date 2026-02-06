@@ -18,11 +18,6 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   categories: []

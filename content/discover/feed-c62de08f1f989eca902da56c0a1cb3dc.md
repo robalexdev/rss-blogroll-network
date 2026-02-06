@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Teaching Local Models to Call Tools Like Claude
-  last_post_description: |-
-    Ten months ago, DeepSeek collapsed AI training costs by 90% using distillation - transferring knowledge from larger models to smaller ones at a fraction of the cost.
-    Distillation works like a tutor
-  last_post_date: "2025-11-13T09:00:00-08:00"
-  last_post_link: https://www.tomtunguz.com/distilling-claude-into-local-models/
+  last_post_title: The Model T Comes to Silicon Valley
+  last_post_description: In 1908, 253 American automobile manufacturers competed for
+    the market1. By 1929, just 44 remained. The assembly line didn’t just change how
+    cars were made. It changed who got to make them
+  last_post_date: "2026-01-26T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/the-model-t-comes-to-silicon-valley/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a50b6f10719b60d32dd6b44116cb7714
+  last_post_guid: 94ef7809113e8ed33349fd64c88a4324
   score_criteria:
     cats: 0
     description: 3

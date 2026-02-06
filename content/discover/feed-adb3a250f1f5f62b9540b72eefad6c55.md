@@ -18,20 +18,22 @@ params:
   categories: []
   relme:
     https://osguider.com/blog/: true
-  last_post_title: Claude Skills 官方仓库：动态加载专业技能 | 开源日报 No.860
+  last_post_title: 以智能体为协作单元，打造跨模型协同生态 | 开源日报 No.872
   last_post_description: |-
-    angiejones/mcp-selenium
+    MoonshotAI/kimi-cli
 
 
 
 
 
-    mcp-selenium 是一个基于 Model Context Protocol (MCP) 的 Selenium WebDriver 服务器实现，旨在通过标准化的 MCP
-  last_post_date: "2026-01-25T07:36:12Z"
-  last_post_link: https://osguider.com/blog/post/daily/daily-860/
+    kimi-cli 是一个运行在终端中的 AI 代理工具，旨在辅助软件开发任务和终端操作的自动化完成。
+
+    支持代码读取与编辑、执行 shell
+  last_post_date: "2026-02-05T23:36:05Z"
+  last_post_link: https://osguider.com/blog/post/daily/daily-872/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b169f0a28c10a9581e1f1339e1348d2
+  last_post_guid: 1d0eeb3afb8eda595f72d505d381dad2
   score_criteria:
     cats: 0
     description: 3

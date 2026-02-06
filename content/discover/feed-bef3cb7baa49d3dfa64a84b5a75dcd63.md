@@ -10,9 +10,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: A list of sites Ethan likes
-    description: ""
-    id: 796603efcff00ba474bbbd88e566b727
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

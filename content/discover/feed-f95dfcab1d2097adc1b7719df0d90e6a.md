@@ -9,7 +9,6 @@ params:
   feedtype: rss
   feedid: f95dfcab1d2097adc1b7719df0d90e6a
   websites:
-    https://mikelikejordan.bearblog.dev/: true
     https://mikelikejordan.bearblog.dev/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -54,8 +53,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

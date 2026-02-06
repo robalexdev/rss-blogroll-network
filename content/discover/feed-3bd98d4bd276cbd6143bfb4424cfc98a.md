@@ -14,22 +14,22 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: A list of sites Ethan likes
+  - title: ""
     description: ""
-    id: 796603efcff00ba474bbbd88e566b727
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Cory Dransfeldt
+    description: ""
+    id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   categories:

@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Alex Honnold 與我的蝴蝶效應焦慮
-  last_post_description: 徒手攀岩大師 Alex Honnold 在昨天（2026-01-25）早上挑戰了徒手攀登 101。空手爬、沒有繩索、沒有安全網。Netflix
-    全程獨家直播了這場玩命秀。
-  last_post_date: "2026-01-26T06:00:00Z"
-  last_post_link: https://wiwi.blog/blog/alex-honnold-butterfly-effect
+  last_post_title: 乖乖詛咒
+  last_post_description: 台灣人一定都知道「乖乖」的神秘力量──在重要的機器旁邊放一包乖乖，機器就會乖乖運作。
+  last_post_date: "2026-02-05T05:53:00Z"
+  last_post_link: https://wiwi.blog/blog/guaiguai-curse
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d6401b37f25032d1f5a3cdf4bbf70aa5
+  last_post_guid: 010f9e97fab115830fa46e10b4685a60
   score_criteria:
     cats: 0
     description: 3

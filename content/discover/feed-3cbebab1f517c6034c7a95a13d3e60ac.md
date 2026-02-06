@@ -15,20 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - TrustTunnel
-  - VPN
+  - RustFS
+  - s3
   - 学无止境
+  - 对象存储
   relme: {}
-  last_post_title: 由AdGuard开源的VPN协议：TrustTunnel
-  last_post_description: TrustTunnel可以将任意网络流量（TCP/UDP/ICMP）通过加密的HTTP/2或HTTP/3连接进行隧道传输。该协议的设计目标如下：
-  last_post_date: "2026-01-25T13:32:12Z"
-  last_post_link: https://lala.im/9973.html
+  last_post_title: Docker部署单节点RustFS对象存储
+  last_post_description: 由于Garage S3没有版本控制的功能，最近部署的几个程序都需要用到这个功能，所以部署一个RustFS当作备用。
+  last_post_date: "2026-02-05T13:50:50Z"
+  last_post_link: https://lala.im/10007.html
   last_post_categories:
-  - TrustTunnel
-  - VPN
+  - RustFS
+  - s3
   - 学无止境
+  - 对象存储
   last_post_language: ""
-  last_post_guid: e0041fa6aaf3a8ff7964356809f65776
+  last_post_guid: 3cd3bb3690501f1b2c14318b2590778e
   score_criteria:
     cats: 0
     description: 3

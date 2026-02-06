@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://www.djangoproject.com/weblog/: true
-  last_post_title: Djangonaut Space - Session 6 Accepting Applications
-  last_post_description: "We are thrilled to announce that Djangonaut Space, a mentorship
-    program for contributing to Django, is open for applicants for our next cohort!
-    \U0001F680\nDjangonaut Space is holding a sixth session! This"
-  last_post_date: "2026-01-21T12:13:15-06:00"
-  last_post_link: https://www.djangoproject.com/weblog/2026/jan/21/djangonaut-space-session-6-accepting-applications/
+  last_post_title: Recent trends in the work of the Django Security Team
+  last_post_description: Yesterday, Django issued security releases mitigating six
+    vulnerabilities of varying severity. Django is a secure web framework, and that
+    hasn’t changed. What feels new is the remarkable
+  last_post_date: "2026-02-04T10:00:00-06:00"
+  last_post_link: https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f621b5683bbc33f89b8696bac662446
+  last_post_guid: 2028747b1b1d840c28a83acc4dc8c4d6
   score_criteria:
     cats: 0
     description: 3

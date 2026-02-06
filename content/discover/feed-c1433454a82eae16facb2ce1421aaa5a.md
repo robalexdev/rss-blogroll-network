@@ -16,23 +16,24 @@ params:
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Art
-  - Ethiek
-  - Privacy
+  - Digitale transformatie
+  - Geschiedenis
+  - Philips
   relme: {}
-  last_post_title: Kunst als tegenmacht in het digitale tijdperk
+  last_post_title: 'Van gloeilamp naar healthtech: de digitale transformatie van Philips'
   last_post_description: |-
-    Julia Janssen studeerde grafisch ontwerp aan ArtEZ University of the Arts in Arnhem en studeerde af in 2016. Tijdens haar […]
-    Het bericht Kunst als tegenmacht in het digitale tijdperk verscheen
-  last_post_date: "2026-01-25T10:28:53Z"
-  last_post_link: https://koneksa-mondo.nl/2026/01/25/kunst-als-tegenmacht-in-het-digitale-tijdperk/
+    Philips werd in 1891 opgericht door Gerard Philips, met financiële steun van vader Frederik en later commercieel bijgestaan door broer […]
+    Het bericht Van gloeilamp naar healthtech: de digitale
+  last_post_date: "2026-02-04T19:32:40Z"
+  last_post_link: https://koneksa-mondo.nl/2026/02/04/van-gloeilamp-naar-zorgplatform-de-digitale-transformatie-van-philips/
   last_post_categories:
-  - Art
-  - Ethiek
-  - Privacy
+  - Digitale transformatie
+  - Geschiedenis
+  - Philips
   last_post_language: ""
-  last_post_guid: 079eb3170f2e7f01b258d3dd757a1d01
+  last_post_guid: 952f9461848425ca7c0d2d2534c33b6b
   score_criteria:
     cats: 0
     description: 3

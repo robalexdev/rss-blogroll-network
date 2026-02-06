@@ -15,9 +15,6 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
-  - title: A list of sites Ethan likes
-    description: ""
-    id: 796603efcff00ba474bbbd88e566b727
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
@@ -34,8 +31,6 @@ params:
   recommender:
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
-  - https://ttntm.me/blog/feed.xml
-  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []

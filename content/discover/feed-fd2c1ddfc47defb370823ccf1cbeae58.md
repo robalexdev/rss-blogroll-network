@@ -6,8 +6,7 @@ params:
   feedlink: https://timur.hu/feed.xml
   feedtype: atom
   feedid: fd2c1ddfc47defb370823ccf1cbeae58
-  websites:
-    https://timur.hu/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -43,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 0
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

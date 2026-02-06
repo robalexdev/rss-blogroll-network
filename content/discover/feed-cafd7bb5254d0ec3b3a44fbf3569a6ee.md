@@ -1,6 +1,6 @@
 ---
 title: 很少明白
-date: "2026-01-26T11:45:58Z"
+date: "2026-01-30T12:20:37Z"
 description: 一切都在无可挽回地走向恰饭。
 params:
   feedlink: https://p0werdown.com/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://p0werdown.com/: true
-  last_post_title: 用卡介苗注射量估算新生儿数据是个极不靠谱的方式
-  last_post_description: ""
-  last_post_date: "2026-01-19T09:59:06Z"
-  last_post_link: https://p0werdown.com/posts/yong-qia-jie-miao-zhu-she-liang-gu-suan-xin-shen-f6fa74b1
+  last_post_title: 一代人有一代人的珍妮机，这个时代是电车与单踏板
+  last_post_description: 一些关于「单踏板模式」的思考
+  last_post_date: "2026-01-30T12:20:00Z"
+  last_post_link: https://p0werdown.com/posts/yi-xie-guan-yu-dan-ta-ban-mo-shi-de-si-kao-ef9623f1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7818e3678d8e38e2586d1c3802f5fbbc
+  last_post_guid: 6ddc197aadb8ffc6ca6f34a8d0582499
   score_criteria:
     cats: 0
     description: 3

@@ -26,71 +26,35 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - A Space Apart
-  - Best practices
-  - Coworking
-  - Design
-  - Free Advice
-  - Happy Cog™
-  - My Back Pages
-  - NYC
-  - New York City
-  - Stories
-  - UX
-  - User Experience
-  - Websites
-  - Working
-  - Zeldman
-  - books
-  - business
-  - client services
-  - ethics
-  - glamorous
-  - industry
-  - interface
-  - ripoffs
-  - software
-  - storage
-  - studio.zeldman
-  - studios
+  - Fascism Lite
+  - Meet John Doe
+  - News
+  - Washington Post
+  - classic film
+  - classic films
+  - democracy
+  - fascism
+  - film
   relme:
     https://zeldman.com/: true
-  last_post_title: Cold Storage
+  last_post_title: “A streamlined newspaper for a streamlined era”
   last_post_description: |-
-    Good UX is what companies do when they have to. A company that has your stuff locked away doesn’t have to.
-    The post Cold Storage appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2026-01-02T16:49:58Z"
-  last_post_link: https://zeldman.com/2026/01/02/cold-storage/
+    Posted today for no particular reason.
+    The post “A streamlined newspaper for a streamlined era” appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2026-02-04T15:56:48Z"
+  last_post_link: https://zeldman.com/2026/02/04/a-streamlined-newspaper-for-a-streamlined-era/
   last_post_categories:
-  - A Space Apart
-  - Best practices
-  - Coworking
-  - Design
-  - Free Advice
-  - Happy Cog™
-  - My Back Pages
-  - NYC
-  - New York City
-  - Stories
-  - UX
-  - User Experience
-  - Websites
-  - Working
-  - Zeldman
-  - books
-  - business
-  - client services
-  - ethics
-  - glamorous
-  - industry
-  - interface
-  - ripoffs
-  - software
-  - storage
-  - studio.zeldman
-  - studios
+  - Fascism Lite
+  - Meet John Doe
+  - News
+  - Washington Post
+  - classic film
+  - classic films
+  - democracy
+  - fascism
+  - film
   last_post_language: ""
-  last_post_guid: 66109df49958db0fe376a77ccbb00589
+  last_post_guid: 772a668eddc2e3678f0d270686ac3850
   score_criteria:
     cats: 0
     description: 3

@@ -20,14 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Was This a Murder Too Far?
-  last_post_description: The execution of Alex Pretti has made even some MAGA loyalists
-    waver
-  last_post_date: "2026-01-26T11:30:57Z"
-  last_post_link: https://paulkrugman.substack.com/p/was-this-a-murder-too-far
+  last_post_title: Cryptocrash
+  last_post_description: Notes on an interesting day
+  last_post_date: "2026-02-05T23:46:31Z"
+  last_post_link: https://paulkrugman.substack.com/p/crypotocrash
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b7fa8c8e4e1f0c5c9819729301d6f4fe
+  last_post_guid: 15189549604badf9f9b70f1e24b15aa5
   score_criteria:
     cats: 0
     description: 3

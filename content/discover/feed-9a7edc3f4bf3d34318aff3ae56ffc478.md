@@ -18,39 +18,47 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Bryan Wolfin
-  - Christopher Limbaugh
-  - Courts
-  - Jim Layton
-  - Kansas City Chiefs
+  - Betsy Fogle
+  - Bill Hardwick
+  - Catherine Hanaway
+  - Criminal Justice
+  - Don Mayhew
+  - FBI
+  - IRS
   - Legislature
-  - Mike Moon
-  - Ron Calzone
-  - property taxes
-  - stadium funding
-  - tax credits
+  - Steve Tilley
+  - Torch Electronics
+  - gray-market machines
+  - money laundering
+  - no chance gaming
+  - slot machines
+  - video lottery
   relme: {}
-  last_post_title: Judge weighing whether to allow April votes on new Missouri property
-    tax caps
-  last_post_description: While the Kansas City Chiefs are leaving Missouri and won’t
-    use the incentives lawmakers created for them last summer, the question of whether
-    other tax credits and property tax caps included in
-  last_post_date: "2026-01-26T15:00:42Z"
-  last_post_link: https://missouriindependent.com/2026/01/26/judge-weighing-whether-to-allow-april-votes-on-new-missouri-property-tax-caps/
+  last_post_title: Missouri attorney general says state and feds are investigating
+    ‘illegal’ slot machines
+  last_post_description: A state and federal investigation of “illegal” slot machines
+    is looking at how “billions” flow from Missourians to the companies that own the
+    games, Attorney General Catherine Hanaway told a
+  last_post_date: "2026-02-05T22:53:54Z"
+  last_post_link: https://missouriindependent.com/2026/02/05/missouri-attorney-general-says-state-and-feds-are-investigating-illegal-slot-machines/
   last_post_categories:
-  - Bryan Wolfin
-  - Christopher Limbaugh
-  - Courts
-  - Jim Layton
-  - Kansas City Chiefs
+  - Betsy Fogle
+  - Bill Hardwick
+  - Catherine Hanaway
+  - Criminal Justice
+  - Don Mayhew
+  - FBI
+  - IRS
   - Legislature
-  - Mike Moon
-  - Ron Calzone
-  - property taxes
-  - stadium funding
-  - tax credits
+  - Steve Tilley
+  - Torch Electronics
+  - gray-market machines
+  - money laundering
+  - no chance gaming
+  - slot machines
+  - video lottery
   last_post_language: ""
-  last_post_guid: 02026121dd0d8bfec1cfab72cab0ebb7
+  last_post_guid: 66a5c1e0199b487b5c5e1141f07e6c6d
   score_criteria:
     cats: 0
     description: 3

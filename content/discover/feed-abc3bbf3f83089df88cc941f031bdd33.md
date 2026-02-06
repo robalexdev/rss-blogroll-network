@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2026-01-12T06:00:00Z"
+date: "2026-02-28T06:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -16,13 +16,16 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Cory Dransfeldt
+    description: ""
+    id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender: []
   categories: []
   relme: {}
   last_post_title: State of the Browser 2026
   last_post_description: ""
-  last_post_date: "2026-01-12T06:00:00Z"
+  last_post_date: "2026-02-28T06:00:00Z"
   last_post_link: https://www.zachleat.com/web/state-of-the-browser/
   last_post_categories: []
   last_post_language: ""

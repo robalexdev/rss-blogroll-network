@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-01-26T17:44:50Z"
+date: "2026-02-06T06:31:22Z"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,15 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Clearleft wrapped: 2025''s best bits'
-  last_post_description: Before we fully tap out of 2025, we took a moment to look
-    back on a year shaped by long-running client partnerships, deep research, busy
-    event calendars, and the moments in between that made another
-  last_post_date: "2025-12-19T10:00:00Z"
-  last_post_link: https://clearleft.com/thinking/clearleft-wrapped-2025s-highlights
+  last_post_title: Rethinking legacy orgs at Leading Design
+  last_post_description: Towards the end of 2025, I hosted a table conversation over
+    lunch at Leading Design with ten other design leaders. We chatted around the meaty
+    topic of transformational design in legacy organisations
+  last_post_date: "2026-02-02T06:30:00Z"
+  last_post_link: https://clearleft.com/thinking/rethinking-legacy-orgs
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c0f8099d97244e6966bb390c5b91aa6
+  last_post_guid: 0e3354f853bd96f4a1d3c8689125cbb6
   score_criteria:
     cats: 0
     description: 3

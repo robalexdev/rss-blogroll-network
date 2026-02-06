@@ -14,22 +14,17 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: When Was I Happiest?
-  last_post_description: My wife recently asked me at what point in my life was I
-    the happiest. The answer surprised her.
-  last_post_date: "2026-01-18T13:21:00Z"
-  last_post_link: https://kevquirk.com/blog/when-was-i-happiest/
+  last_post_title: Will They Inherit Our Blogs?
+  last_post_description: I've been thinking about how this site may be able to live
+    on after I'm gone. Maybe it could become a family heirloom?
+  last_post_date: "2026-02-01T18:45:00Z"
+  last_post_link: https://kevquirk.com/blog/will-they-inherit-our-blogs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4fdfd7cc8724fb2a7535564f2d2275f4
+  last_post_guid: ed07a3e89a108ba3e37045662cc3ef1c
   score_criteria:
     cats: 0
     description: 3

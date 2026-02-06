@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2025-11-07T11:44:00Z"
+date: "2026-01-20T15:45:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'For sale: strong opinions; never published'
+  last_post_title: '''AI'' is a dick move, redux'
   last_post_description: ""
-  last_post_date: "2025-11-07T11:44:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2025/strong-opinions-never-published/
+  last_post_date: "2026-01-20T15:45:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5aaed0466312547570b3f92b8c0e81b9
+  last_post_guid: 49e5a9856cf0859d51fadac7b7c080e3
   score_criteria:
     cats: 0
     description: 3
@@ -45,5 +45,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 294
+  avgpostlen: 271
 ---

@@ -33,22 +33,17 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Double-Pronged Extension Cord
+  last_post_title: Early Arthropods
   last_post_description: ""
-  last_post_date: "2026-01-23T05:00:00Z"
-  last_post_link: https://xkcd.com/3198/
+  last_post_date: "2026-01-26T05:00:00Z"
+  last_post_link: https://xkcd.com/3199/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd94c0a9e78b95f01168f6f40168a911
+  last_post_guid: 05ee9b626b0ed7a224c28bd88ae5498f
   score_criteria:
     cats: 0
     description: 3

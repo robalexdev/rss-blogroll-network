@@ -143,8 +143,6 @@ params:
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/
   - https://chrishannah.me/feed
-  - https://danq.me/comments/feed/
-  - https://danq.me/home-2/feed/
   - https://darthmall.net/feed/all.xml
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
@@ -165,6 +163,7 @@ params:
   - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
+  - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
   - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
@@ -202,32 +201,41 @@ params:
   - https://www.wackomenace.co.uk/essays/atom.xml
   - https://www.wackomenace.co.uk/essays/rss.xml
   recommender: []
-  categories: []
+  categories:
+  - book log
+  - book review
+  - reading journal
+  - reading tracker
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: "\U0001F4AC Snippet!"
-  last_post_description: Thank you for following my feed! ♥  Leave a reply here.
-  last_post_date: "2026-01-25T08:10:08Z"
-  last_post_link: https://marisabel.nl/social/load_post.php?type=post&id=470
-  last_post_categories: []
+  last_post_title: "\U0001F4DA Books: LOG: On Tyranny by Timothy Snyder"
+  last_post_description: "audiobook started thanks to a podcast. \nURL for lessons:
+    On Tyranny: Twenty Lessons from the Twentieth Century"
+  last_post_date: "2026-02-03T00:00:00Z"
+  last_post_link: https://marisabel.nl/library/log.php?id=655998
+  last_post_categories:
+  - book log
+  - book review
+  - reading journal
+  - reading tracker
   last_post_language: ""
-  last_post_guid: c938122c0924ebbc2aabea8e7ea3847f
+  last_post_guid: de62ad6a8348f026d9e0dc9b86a5a247
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 28
+  score: 31
   ispodcast: false
   isnoarchive: false
   innetwork: true

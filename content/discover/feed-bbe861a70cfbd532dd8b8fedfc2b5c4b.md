@@ -1,6 +1,6 @@
 ---
 title: Etsy Engineering | Code as Craft
-date: "2026-01-26T11:31:12-05:00"
+date: "2026-02-05T23:39:05-05:00"
 description: 'The engineers who make Etsy make our living with a craft we love: software.
   This is where we''ll write about our craft and our collective experience building
   and running the world''s most vibrant'
@@ -18,9 +18,7 @@ params:
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
   recommended: []
-  recommender:
-  - https://philwilson.org/blog/feed
-  - https://philwilson.org/blog/feed/atom/
+  recommender: []
   categories: []
   relme: {}
   last_post_title: How Etsy Uses LLMs to Improve Search Relevance

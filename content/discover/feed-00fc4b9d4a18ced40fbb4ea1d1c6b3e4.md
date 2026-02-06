@@ -1,6 +1,6 @@
 ---
 title: Luke’s blog
-date: "2026-01-26T02:07:36+08:00"
+date: "2026-01-27T22:56:42+08:00"
 description: Blogging about compilers at Igalia.
 params:
   feedlink: https://lukelau.me/feed.xml

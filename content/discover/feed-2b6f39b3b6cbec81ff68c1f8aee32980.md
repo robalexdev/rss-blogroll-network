@@ -18,15 +18,14 @@ params:
   - https://kandr3s.co/.rss
   categories: []
   relme: {}
-  last_post_title: The Big Stories to watch this week in LATAM
-  last_post_description: Venezuela and Mexico release prisoners under US pressure.
-    Delcy says she has "had enough." Naboa starts a trade war and lightning zaps Bolsonaro
-    supporters
-  last_post_date: "2026-01-26T12:00:16Z"
-  last_post_link: https://www.piratewireservices.com/p/the-big-stories-to-watch-this-year-9dd
+  last_post_title: Enemigos reconcile over chocolate and dresses
+  last_post_description: Petro described a “confusing,” but “positive” meeting with
+    Trump after years-long tensions
+  last_post_date: "2026-02-04T14:14:42Z"
+  last_post_link: https://www.piratewireservices.com/p/enemigos-reconcile-over-chocolate
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: add3b2074c249aa1490510397d03888b
+  last_post_guid: 13ef2ff084ccc24990d5039e289370a9
   score_criteria:
     cats: 0
     description: 3

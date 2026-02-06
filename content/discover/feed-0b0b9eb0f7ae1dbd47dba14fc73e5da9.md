@@ -1,6 +1,6 @@
 ---
 title: BIRT World
-date: "2026-01-14T02:06:55-08:00"
+date: "2026-02-04T01:45:27-08:00"
 description: The Eclipse Business Intelligence and Reporting Tools project is an open-source
   project focused on the development and delivery of framework tools for reporting
   and business intelligence within the

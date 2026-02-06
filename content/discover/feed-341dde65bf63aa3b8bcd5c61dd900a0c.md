@@ -23,12 +23,12 @@ params:
   - opensource
   - outreachy
   relme: {}
-  last_post_title: Mid-Point Project Progress
-  last_post_description: "Halfway There Hurray! \U0001F389 I have officially reached
-    the 6-week mark, the halfway point of my Outreachy internship. The time has flown
-    by incredibly fast, yet it feels short because there is still so"
-  last_post_date: "2026-01-19T21:15:27Z"
-  last_post_link: https://isokenibizugbe.wordpress.com/2026/01/19/mid-point-project-progress/
+  last_post_title: How Open Source Contributions Define Your Career Path
+  last_post_description: Hi there, I’m more than halfway through (8 weeks) my Outreachy
+    internship with Debian, working on the openQA project to test Live Images. My
+    journey into tech began as a software engineering
+  last_post_date: "2026-02-02T21:49:21Z"
+  last_post_link: https://isokenibizugbe.wordpress.com/2026/02/02/how-open-source-contributions-define-your-career-path/
   last_post_categories:
   - Linux
   - Quality Assurance
@@ -37,7 +37,7 @@ params:
   - opensource
   - outreachy
   last_post_language: ""
-  last_post_guid: c03caf03daf4832d750f936f0b3d61bc
+  last_post_guid: a4aa6b091364c0105f52c0641cdedd57
   score_criteria:
     cats: 0
     description: 0

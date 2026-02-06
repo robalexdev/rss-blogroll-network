@@ -1,6 +1,6 @@
 ---
 title: deegree
-date: "2025-11-14T01:06:15Z"
+date: "2026-02-03T12:16:31Z"
 description: deegree is open source software for spatial data infrastructures and
   the geospatial web. deegree offers components for geospatial data management, including
   data access, visualization, discovery and

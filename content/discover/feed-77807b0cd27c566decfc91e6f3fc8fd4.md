@@ -16,18 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Maple Vanilla Mead
+  last_post_title: New music in 2026
   last_post_description: |-
-    My next experimental mead recipe is going to be a maple vanilla mead. Here's the base recipe: 
+    A lot of my favorite bands released new albums in 2025:
 
-    - 2lb raw acacia blossom honey (primary)
-    - 12oz Vermont maple syrup (primary)
-    - 1 vanilla bean
-  last_post_date: "2025-11-14T08:14:14-05:00"
-  last_post_link: https://cool-as-heck.blog/maple-vanilla-mead
+
+    Sleep Token
+    Spiritbox
+    Eidola
+    Thrice
+    Dance Gavin Dance
+    Architects
+    Dayseeker
+    Thornhill
+    Gore
+    Novelists
+    Ankor
+
+
+    But there are a few artists that
+  last_post_date: "2026-01-04T08:59:24-05:00"
+  last_post_link: https://cool-as-heck.blog/new-music-in-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6265f4195bddf19583764dabcaa701a9
+  last_post_guid: dc84d4a00622b69d178b4db224b9c335
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +57,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 13
+  postcount: 15
   avgpostlen: 0
 ---

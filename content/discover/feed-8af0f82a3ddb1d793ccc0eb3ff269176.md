@@ -20,15 +20,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: A healthy heart
-  last_post_description: |-
-    There were a few months, last year, when I couldn’t walk for a hundred meters without losing my breath.
-    It didn’t really matter what type of exertion I did—even going up the stairs at home or
-  last_post_date: "2026-01-09T14:56:00-05:00"
-  last_post_link: https://www.inthemargins.ca/healthy-heart-journey
+  last_post_title: Awash with glitter
+  last_post_description: One afternoon this past week, the sun was shining and there
+    was a light wind blowing across the neighborhood. It was bitterly cold outside,
+    but after the deluge of snow we’ve been getting over the
+  last_post_date: "2026-01-28T20:05:00-05:00"
+  last_post_link: https://www.inthemargins.ca/glitter-outside
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 391efc36f7cbeefce42ddcf6390de63d
+  last_post_guid: 53dc9e5d1957074d43f5b6b84662917c
   score_criteria:
     cats: 0
     description: 3

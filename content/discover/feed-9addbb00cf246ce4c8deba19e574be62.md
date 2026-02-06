@@ -66,6 +66,7 @@ params:
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed.xml
   categories: []
   relme:
     https://anniegreens.lol/: true

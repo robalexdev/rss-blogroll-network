@@ -1,6 +1,6 @@
 ---
-title: BinaryDigit's Creative Space
-date: "2026-01-26T15:00:27Z"
+title: BinaryDigit
+date: "2026-02-06T04:55:22Z"
 description: My space for tech, code, art and photography.
 params:
   feedlink: https://binarydigit.dev/feed/
@@ -13,32 +13,37 @@ params:
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
+  - title: Cory Dransfeldt
+    description: ""
+    id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender: []
   categories:
-  - writing
+  - nostalgia
+  - posts
   relme: {}
-  last_post_title: Trying to Blog More Often
-  last_post_description: ""
-  last_post_date: "2026-01-20T15:12:02Z"
-  last_post_link: https://binarydigit.dev/trying-to-blog-more-often/
+  last_post_title: The Internet Used to be a Place
+  last_post_description: We discovered things
+  last_post_date: "2026-02-05T15:39:07Z"
+  last_post_link: https://binarydigit.dev/the-internet-used-to-be-a-place/
   last_post_categories:
-  - writing
+  - nostalgia
+  - posts
   last_post_language: ""
-  last_post_guid: 8ce32fd2c86a354846a1ff22173a2ca8
+  last_post_guid: d76f491e0c73afe11be1df9aa3f6f6ca
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

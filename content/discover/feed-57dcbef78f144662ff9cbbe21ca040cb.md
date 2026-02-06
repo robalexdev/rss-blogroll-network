@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-01-25T13:27:30Z"
+date: "2026-02-01T12:47:57Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -19,33 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Java
+  - 小技巧
+  - 技巧
   relme: {}
-  last_post_title: 学习体验下Koupleless框架-浅析代码
-  last_post_description: !!binary |
-    5LiK5qyh566A5Y2V5L2T6aqM5LqG5LiLa291cGxlbGVzc+ahhuaetu+8jOWPr+S7peWPke
-    eOsGFya+aooeWdl+eahOWKoOi9vei/kOihjOaYr+mdnuW4uOacieS8mOWKv+eahO+8jOi/
-    measoeWwseadpeeci+S4i+i/meS4quaooeWdl+W8j+aAjuS5iOWKoOi9veeahOaIkeS7rO
-    WPr+S7pemAmui/h+WQr+WKqOWfuuW6p+S9v+eUqOiwg+ivleaooeW8j+8=
-  last_post_date: "2026-01-25T13:27:30Z"
-  last_post_link: https://nicksxs.me/2026/01/25/%E5%AD%A6%E4%B9%A0%E4%BD%93%E9%AA%8C%E4%B8%8BKoupleless%E6%A1%86%E6%9E%B6-%E6%B5%85%E6%9E%90%E4%BB%A3%E7%A0%81/
+  last_post_title: 分享个加速github访问的方法
+  last_post_description: 我们日常在使用github的时候经常会碰到访问比较慢的问题，一方面是github的打开慢，还有就是相关的数据传输很慢，比如从github上clone代码，有时候仓库
+  last_post_date: "2026-02-01T12:47:57Z"
+  last_post_link: https://nicksxs.me/2026/02/01/%E5%88%86%E4%BA%AB%E4%B8%AA%E5%8A%A0%E9%80%9Fgithub%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95/
   last_post_categories:
-  - Java
+  - 小技巧
+  - 技巧
   last_post_language: ""
-  last_post_guid: 2c7b1114aa59cef2baf2e733d7f3757e
+  last_post_guid: dd750d2c2011f97d21ae9291c349be91
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

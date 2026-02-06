@@ -19,24 +19,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Python
-  - 开往
-  - 流量
+  - Gin
+  - Golang
+  - Gorm
+  - 后端
+  - 开发
   - 网站
   relme: {}
-  last_post_title: 整活：基于对等原则的流量交换系统
+  last_post_title: 西电信安协会招新系统 Golang 后端开发小记
   last_post_description: |-
-    真正的链接，本不该是一场精打细算的生意。
-    整活：基于对等原则的流量交换系统最先出现在林林杂语。
-  last_post_date: "2026-01-16T09:18:10Z"
-  last_post_link: https://www.xiaozonglin.cn/swap-system-based-on-equality-principle/
+    跟 CopperKoi 同学用 Vite + Golang 写了信安协会一个新的招新系统，在过程中遇到 gin 的一些坑。
+    西电信安协会招新系统 Golang
+  last_post_date: "2026-02-05T10:07:31Z"
+  last_post_link: https://www.xiaozonglin.cn/xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
   last_post_categories:
-  - Python
-  - 开往
-  - 流量
+  - Gin
+  - Golang
+  - Gorm
+  - 后端
+  - 开发
   - 网站
   last_post_language: ""
-  last_post_guid: e171f72523864f740d7b1292a761268f
+  last_post_guid: f89c7cc48b991c848ef413427a6330bb
   score_criteria:
     cats: 0
     description: 3

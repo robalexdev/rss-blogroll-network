@@ -1,7 +1,7 @@
 ---
 title: Grant Slatton's Blog
 date: "1970-01-01T00:00:00Z"
-description: Recent notes and posts
+description: Grant Slatton's Blog
 params:
   feedlink: https://grantslatton.com/rss.xml
   feedtype: rss

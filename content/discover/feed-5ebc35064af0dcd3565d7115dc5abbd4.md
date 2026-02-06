@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 10月小结-行之有效
+  last_post_title: Astro-blog记录(8) - 主题半闭源/细节增加/评论迁移
   last_post_description: ""
-  last_post_date: "2025-10-30T21:10:00Z"
-  last_post_link: https://blog.asyncx.top/posts/2025-10-30/
+  last_post_date: "2026-01-28T21:01:00Z"
+  last_post_link: https://blog.asyncx.top/posts/2026-01-28/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2cf73e4f8b9b8a42ffde27bf65ab8409
+  last_post_guid: 40a6a0ca1f64f7cfa73035ec84573570
   score_criteria:
     cats: 0
     description: 3

@@ -18,15 +18,15 @@ params:
   - 知道点儿
   - 股票交流
   relme: {}
-  last_post_title: 行稳当能致远
-  last_post_description: 分析 沪指上周收涨0
-  last_post_date: "2026-01-25T15:36:00Z"
-  last_post_link: https://playet.cn/archives/019bf5c2-cec1-7335-bc0c-e08105effdc2
+  last_post_title: 注意短线风险
+  last_post_description: 分析
+  last_post_date: "2026-02-01T12:38:00Z"
+  last_post_link: https://playet.cn/archives/019c1a28-cbb0-707b-b725-0d2c24ea2df8
   last_post_categories:
   - 知道点儿
   - 股票交流
   last_post_language: ""
-  last_post_guid: 300462eba82aa875d63c443e3a6b3c2c
+  last_post_guid: 6229b17ea4d47c427e0fa47366d7dc82
   score_criteria:
     cats: 0
     description: 3

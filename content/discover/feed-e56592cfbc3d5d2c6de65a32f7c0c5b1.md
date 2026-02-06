@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A social filesystem
-  last_post_description: Formats over apps.
-  last_post_date: "2026-01-23T12:31:28Z"
-  last_post_link: https://overreacted.io/a-social-filesystem/
+  last_post_title: From prompt to several wireframe variations <10 seconds
+  last_post_description: UX Pilot AI speeds your design process by turning text or
+    sketches into UX/UI. Sync with Figma, upload guidelines, and start 100% for free.
+  last_post_date: "2026-01-26T12:25:00Z"
+  last_post_link: https://bit.ly/side-uxp1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa904afdbdf8ae5a43421fc7c265ce91
+  last_post_guid: cc920a9fa319b09ca6d72c0b42be8270
   score_criteria:
     cats: 0
     description: 3

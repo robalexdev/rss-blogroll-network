@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2026-01-26T11:01:48Z"
+date: "2026-02-05T17:29:41Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,26 +17,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Biz Circuit
-  - Biz Circuit & Dev Loop
-  - Dev Loop
-  - Qt Creator
-  - Releases
+  - Canvas Painter
+  - Graphics
+  - UI Development
   relme: {}
-  last_post_title: Qt Creator 18.0.2 released
-  last_post_description: "We are happy to announce the release of Qt Creator 18.0.2!
-    \nThis release fixes a range of smaller issues like the persistence of the \"Always
-    save files before build\" option and an issue that occurred"
-  last_post_date: "2026-01-26T11:01:48Z"
-  last_post_link: https://www.qt.io/blog/qt-creator-18.0.2-released
+  last_post_title: New Canvas Rendering Features in Qt
+  last_post_description: With the new canvas rendering module, Qt Canvas Painter,
+    we have the ambition to create the best modern C++ painting API achievable. This
+    blog post goes through some of the new innovative canvas
+  last_post_date: "2026-02-05T17:29:41Z"
+  last_post_link: https://www.qt.io/blog/new-canvas-rendering-features-in-qt
   last_post_categories:
-  - Biz Circuit
-  - Biz Circuit & Dev Loop
-  - Dev Loop
-  - Qt Creator
-  - Releases
+  - Canvas Painter
+  - Graphics
+  - UI Development
   last_post_language: ""
-  last_post_guid: 77a9d90a8faffbaf2f38320488cb4799
+  last_post_guid: 59924ae4f4049c7db757f4e45cd132cc
   score_criteria:
     cats: 0
     description: 3

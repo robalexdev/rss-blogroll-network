@@ -1,6 +1,6 @@
 ---
 title: Qt for Tizen Blog
-date: "2024-11-06T03:59:12+01:00"
+date: "2026-02-03T15:16:34+01:00"
 description: Community-driven port of Qt 5 to Tizen OS and devices. More »
 params:
   feedlink: https://qtfortizen.blogspot.com/feeds/posts/default/-/Qt

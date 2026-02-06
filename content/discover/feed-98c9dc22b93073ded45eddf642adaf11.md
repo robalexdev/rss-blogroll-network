@@ -1,6 +1,6 @@
 ---
 title: Paul Robert Lloyd
-date: "2026-01-26T00:46:34Z"
+date: "2026-02-02T13:02:24Z"
 description: The personal website of Paul Robert Lloyd
 params:
   feedlink: https://paulrobertlloyd.com/feed.xml

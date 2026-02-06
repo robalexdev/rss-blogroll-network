@@ -19,16 +19,15 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Technology that helps people, yet doesn''t get you
-    promotions'
-  last_post_description: I wrote about how to create faux-nested interactive controls
-    that are accessible, plus a few tangents about things like accessible name length
-    and progressive enhancement. You know, technology that
-  last_post_date: "2026-01-22T03:24:31Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-technology-that-helps-people-yet-doesnt/
+  last_post_title: '[SC 2.4.4] It''s a niche concern'
+  last_post_description: I wrote about how annotating focus order isn't an efficient
+    use of your time and how it might create more problems than it solves. It's a
+    niche concern, for sure. But also I think its a valid one
+  last_post_date: "2026-02-05T03:20:17Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-its-a-niche-concern/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ae3852fba2f7eaaa6eda936cfa0c075f
+  last_post_guid: afcb3ccfe515eeacbad0ea8241418786
   score_criteria:
     cats: 0
     description: 3

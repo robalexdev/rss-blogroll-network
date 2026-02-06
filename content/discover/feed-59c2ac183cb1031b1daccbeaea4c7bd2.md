@@ -16,21 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Infographics
-  - Our World in Data
-  - world
+  - Data Sources
+  - National Weather Service
+  - snow
+  - weather
   relme: {}
-  last_post_title: Awful and better, Venn diagram
-  last_post_description: 'We focus on the bad, because that’s where it can and will
-    get…Tags: Our World in Data, world'
-  last_post_date: "2026-01-23T18:09:58Z"
-  last_post_link: https://flowingdata.com/2026/01/23/awful-and-better-venn-diagram/
+  last_post_title: Gridded snowfall data
+  last_post_description: 'The National Weather Service has current and historical
+    snowfall data in various file…Tags: National Weather Service, snow, weather'
+  last_post_date: "2026-01-26T21:09:11Z"
+  last_post_link: https://flowingdata.com/2026/01/26/gridded-snowfall-data/
   last_post_categories:
-  - Infographics
-  - Our World in Data
-  - world
+  - Data Sources
+  - National Weather Service
+  - snow
+  - weather
   last_post_language: ""
-  last_post_guid: a0d9dad4963b8fa1f44b34bd3278d124
+  last_post_guid: 8761b06ffde77d7387304c3507d2ffcf
   score_criteria:
     cats: 0
     description: 3

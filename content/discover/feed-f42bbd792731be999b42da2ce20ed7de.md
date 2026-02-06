@@ -13,6 +13,7 @@ params:
     https://www.april.org/communiques: false
     https://www.april.org/event: false
     https://www.april.org/event/2026-01: false
+    https://www.april.org/event/2026-02: false
     https://www.april.org/revue-de-presse: false
   blogrolls: []
   in_blogrolls:
@@ -22,33 +23,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Article de presse
-  - Le Logiciel Libre
+  - Communiqué de presse
+  - Institutions
+  - Logiciel de caisse
   relme: {}
-  last_post_title: Revue de presse de l’April pour la semaine 4 de l’année 2026
-  last_post_description: "✍ Guillaume\n                  Belfiore, le lundi 19 janvier\n
-    \                 2026.\n                    \n                      Lancée début
-    janvier, la consultation\n                      publique"
-  last_post_date: "2026-01-26T11:00:25Z"
-  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-4-de-l-annee-2026
+  last_post_title: Rétablissement de l'« auto-attestation » pour les logiciels de
+    caisse, l'aboutissement d'une année de mobilisation
+  last_post_description: |-
+    Communiqué de presse : le 4 février 2026
+
+
+    Avec l'adoption du projet de loi de finances pour 2026, les éditeurs de logiciels de caisse ont retrouvé la faculté d'attester eux-mêmes de la
+  last_post_date: "2026-02-04T08:20:51Z"
+  last_post_link: https://www.april.org/retablissement-de-l-auto-attestation-pour-les-logiciels-de-caisse-l-aboutissement-d-une-annee-de-mob
   last_post_categories:
-  - Article de presse
-  - Le Logiciel Libre
+  - Communiqué de presse
+  - Institutions
+  - Logiciel de caisse
   last_post_language: ""
-  last_post_guid: 98c9362469ed19e16fe6e9315c43f4aa
+  last_post_guid: 7550fae5dbf4275593356b4a5c2a3362
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

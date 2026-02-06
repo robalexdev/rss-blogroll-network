@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-01-17T17:36:09+08:00"
+date: "2026-02-04T22:24:51+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -22,6 +22,7 @@ params:
   - https://blog.blueke.top/rss.xml
   - https://blog.fkun.tech/feed/
   - https://blog.glumi.cn/rss.xml
+  - https://blog.gxres.net/atom.xml
   - https://blog.hslzz.cn/atom.xml
   - https://blog.kingfish404.cn/index.xml
   - https://blog.vull.top/atom.xml

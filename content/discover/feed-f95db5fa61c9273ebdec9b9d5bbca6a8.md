@@ -1,14 +1,13 @@
 ---
 title: Andrew Nesbitt
-date: "2026-01-26T09:15:49Z"
+date: "2026-01-27T00:14:33Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
   feedlink: https://nesbitt.io/feed.xml
   feedtype: atom
   feedid: f95db5fa61c9273ebdec9b9d5bbca6a8
-  websites:
-    https://nesbitt.io/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: robalexdev
@@ -27,10 +26,7 @@ params:
   categories:
   - package-managers
   - satire
-  relme:
-    https://github.com/andrew: true
-    https://mastodon.social/@andrewnez: true
-    https://nesbitt.io/: true
+  relme: {}
   last_post_title: Introducing Package Chaos Monkey
   last_post_description: Resilience engineering for your software supply chain.
   last_post_date: "2026-01-26T08:00:00Z"
@@ -49,10 +45,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 23
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

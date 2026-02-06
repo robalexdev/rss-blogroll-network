@@ -1,6 +1,6 @@
 ---
 title: NHS notes
-date: "2026-01-24T00:00:00Z"
+date: "2026-01-31T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankieroberto.github.io/nhsnotes/posts/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Week 81: Do interrupt me'
+  last_post_title: 'Week 82: Beware the combine harvesters'
   last_post_description: ""
-  last_post_date: "2026-01-24T00:00:00Z"
-  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-81-do-interrupt-me/
+  last_post_date: "2026-01-31T00:00:00Z"
+  last_post_link: https://frankieroberto.github.io/nhsnotes/posts/week-82-beware-the-combine-harvesters/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ac33cf7e7a92eac92f97c65d264426de
+  last_post_guid: 698c15b57aa502f25918854616c264b2
   score_criteria:
     cats: 0
     description: 0

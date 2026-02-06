@@ -1,7 +1,7 @@
 ---
-title: Sean Voisen's Blog
-date: "2025-11-14T00:00:00Z"
-description: Thoughts about designing and making software, mostly.
+title: Sean Voisen
+date: "2026-01-12T00:00:00Z"
+description: Writing about design, philosophy, and technology.
 params:
   feedlink: https://sean.voisen.org/atom.xml
   feedtype: atom
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Not a hobby: Reflections on life habit experiment №2'
+  last_post_title: 'Cosmotechnics and AI: Reading Hamid Ismailov''s We Computers'
   last_post_description: ""
-  last_post_date: "2025-11-14T00:00:00Z"
-  last_post_link: https://seanvoisen.com/blog/not-a-hobby/
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://seanvoisen.com/writing/cosmotechnics-and-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d6d364443bcbcace1ec9098f2eac2415
+  last_post_guid: 53d93d5049ddc59b34c94db4fd29d2bf
   score_criteria:
     cats: 0
     description: 3
@@ -41,5 +41,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 295
 ---

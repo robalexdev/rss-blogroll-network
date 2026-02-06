@@ -19,19 +19,21 @@ params:
   - Evento
   - Hardware
   - Mezzora
+  - Software
   relme: {}
-  last_post_title: 'Mezz’ora d’amicizia: FPGA'
-  last_post_description: Per la nostra mezz’ora di amicizia del 4 dicembre il nostro
-    membro Mirko ci ha mostrato come si programma una FPGA, specificatamente questa
-    della Olimex, con una toolchain di soli software liberi
-  last_post_date: "2025-12-05T09:46:54Z"
-  last_post_link: https://casoratesempione.ils.org/2025/12/05/mezzora-damicizia-fpga/
+  last_post_title: 'Mezz’ora d’amicizia: Sound in Space'
+  last_post_description: Durante la nostra mezz’ora di amicizia del 15 gennaio abbiamo
+    ospitato Carlo Monti, che ci ha offerto una panoramica aggiornata sul tema dell’audio
+    spaziale. Dopo aver illustrato le tre
+  last_post_date: "2026-01-28T10:09:49Z"
+  last_post_link: https://casoratesempione.ils.org/2026/01/28/mezzora-damicizia-sound-in-space/
   last_post_categories:
   - Evento
   - Hardware
   - Mezzora
+  - Software
   last_post_language: ""
-  last_post_guid: bb1f412d66301527f15eadf11e4f767d
+  last_post_guid: a58f54affee99f61887943bc53d84c8e
   score_criteria:
     cats: 0
     description: 3

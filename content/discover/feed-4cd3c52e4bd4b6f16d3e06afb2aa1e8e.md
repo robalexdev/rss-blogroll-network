@@ -19,30 +19,40 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Morning Memo
+  - DOJ
+  - Elissa Slotkin
+  - Jeanine Pirro
+  - Pam Bondi
+  - Preet Bharara
+  - Where Things Stand
   relme: {}
-  last_post_title: When the Propagandists Are Armed and Dangerous
-  last_post_description: Morning Memo Live! Details and tickets here for the Thursday
-    evening event in D.C. (TPM members should look out for...
-  last_post_date: "2026-01-26T16:03:44Z"
-  last_post_link: https://talkingpointsmemo.com/morning-memo/alex-pretti-shooting-minneapolis-ice-bovino
+  last_post_title: Slotkin Hits Back as Trump DOJ Pushes for Retribution
+  last_post_description: ‘Own Their Choices’ Sen. Elissa Slotkin (D-MI) has refused
+    to meet for a voluntary interview with Jeanine Pirro, the former...
+  last_post_date: "2026-02-05T23:17:15Z"
+  last_post_link: https://talkingpointsmemo.com/where-things-stand/slotkin-hits-back-as-trump-doj-pushes-for-retribution
   last_post_categories:
-  - Morning Memo
+  - DOJ
+  - Elissa Slotkin
+  - Jeanine Pirro
+  - Pam Bondi
+  - Preet Bharara
+  - Where Things Stand
   last_post_language: ""
-  last_post_guid: 1f3c1d398dac58480e9b0c2dc224e16b
+  last_post_guid: 4c96466434820d716e88d5ca06210b3b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

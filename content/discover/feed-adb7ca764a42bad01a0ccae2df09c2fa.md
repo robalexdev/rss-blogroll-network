@@ -17,10 +17,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Show HN: Posts p/month more than doubled in the last year'
+  last_post_title: The state of Linux music players in 2026
   last_post_description: Comments
-  last_post_date: "2026-01-26T11:16:17Z"
-  last_post_link: https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/
+  last_post_date: "2026-01-27T07:26:36Z"
+  last_post_link: https://crescentro.se/posts/linux-music-players-2026/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

@@ -1,7 +1,7 @@
 ---
 title: 拾风草堂
 date: "1970-01-01T00:00:00Z"
-description: 人脑太复杂,时间过得久,记下来才是最真实的
+description: ""
 params:
   feedlink: https://www.leolin86.com/?feed=rss2
   feedtype: rss
@@ -17,18 +17,17 @@ params:
   categories:
   - 念念碎
   relme: {}
-  last_post_title: 杂记-20260126
-  last_post_description: 最近追剧《太平年》，每一集都在诉说“宁做太平狗不为乱世人”，26年短短1个月国内外大事有点多，和平不易。 金价 …
-    继续阅读杂记-20260126
-  last_post_date: "2026-01-25T16:59:32Z"
-  last_post_link: https://www.leolin86.com/?p=4041
+  last_post_title: 追剧有感
+  last_post_description: 追剧《太平年》，七郎兄终弟及接任吴越王，当看到因对权臣胡令公的处...
+  last_post_date: "2026-02-03T16:46:37Z"
+  last_post_link: https://www.leolin86.com/?p=4079
   last_post_categories:
   - 念念碎
   last_post_language: ""
-  last_post_guid: afa29f4ea0d7ce4fdc511f2112458ebc
+  last_post_guid: 517ea97237a6ce83209f827a186ac73d
   score_criteria:
     cats: 0
-    description: 3
+    description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -38,7 +37,7 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

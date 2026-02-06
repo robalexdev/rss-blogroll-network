@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An invite to bear lurkers
-  last_post_description: I used to lurk a lot, mainly on twitch streams, I remember
-    feeling like my comment wouldn't have any value, so why even say anything in the
-    first place? But aside from streams with so many people
-  last_post_date: "2026-01-25T20:46:00Z"
-  last_post_link: https://barrel.bearblog.dev/an-invite-to-bear-lurkers/
+  last_post_title: On Toasts and Trending
+  last_post_description: I recently read the wonderful "Don't Get Hung-up on Trending"
+    by Becky. It addressed something that I've been thinking about for a while with
+    my blog and the Discovery feed, and I wanted to add some
+  last_post_date: "2026-01-26T01:02:00Z"
+  last_post_link: https://syls.blog/on-toasts-and-trending/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 48d95d05dc434eb24b68abf89ecdfe2b
+  last_post_guid: d53a73a3e92cf32614a5f62c839e06f0
   score_criteria:
     cats: 0
     description: 3

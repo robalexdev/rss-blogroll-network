@@ -1,13 +1,12 @@
 ---
-title: Blog - Alex Strick van Linschoten
+title: Alex Strick van Linschoten
 date: "1970-01-01T00:00:00Z"
-description: ""
+description: Personal and technical writings from Alex Strick van Linschoten
 params:
   feedlink: https://www.alexstrick.com/blog?format=rss
   feedtype: rss
   feedid: be2d0c3b3ffb53ac971e8f20f99b8e12
-  websites:
-    https://www.alexstrick.com/blog/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -16,35 +15,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Crafting
+  - general
+  - tech
+  - writing
   relme: {}
-  last_post_title: 'First stitches: on learning to knit'
-  last_post_description: I previously learned how to crochet. I never made anything
-    too fancy or intricate but it was an easy way to make beautiful presents for special
-    occasions or individuals. This past christmas we
-  last_post_date: "2025-01-05T19:24:10Z"
-  last_post_link: https://www.alexstrick.com/blog/first-stitches-on-learning-to-knit
+  last_post_title: 'Choice Density: How I Think About AI and Authenticity'
+  last_post_description: 'I’ve been thinking about what it actually means to create
+    something “with AI” versus creating something “yourself.” The usual framing treats
+    this as binary: either you wrote it, or the'
+  last_post_date: "2026-01-20T23:00:00Z"
+  last_post_link: https://alexstrick.com/personal/2026-01-21-choice-density-ai-authenticity.html
   last_post_categories:
-  - Crafting
+  - general
+  - tech
+  - writing
   last_post_language: ""
-  last_post_guid: 73ba426fdb817615cdf950a9fd84681d
+  last_post_guid: 253bfed5cecd3e31ae5590dc23ffcd52
   score_criteria:
     cats: 0
-    description: 0
-    feedlangs: 1
+    description: 3
+    feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 15
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
+  language: ""
   postcount: 20
   avgpostlen: 0
 ---

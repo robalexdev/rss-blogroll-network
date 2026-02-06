@@ -1,6 +1,6 @@
 ---
 title: ʕ☞ᴥ ☜ʔ Kix's blog
-date: "2026-01-26T01:37:30Z"
+date: "2026-01-27T01:45:28Z"
 description: In the audacious pursuit of things that spark joy.
 params:
   feedlink: https://kix.dev/feed/

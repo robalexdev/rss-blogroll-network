@@ -16,6 +16,7 @@ params:
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed.xml
   categories:
   - zijperpost
   relme: {}

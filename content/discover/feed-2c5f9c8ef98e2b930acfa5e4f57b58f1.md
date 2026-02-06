@@ -13,6 +13,9 @@ params:
   - title: Frank McPherson - Blogroll
     description: ""
     id: 3c039ddf8649f01e6b341f6cea774be8
+  - title: HN Personal Websites
+    description: ""
+    id: 2d06252d862b16b20bf508ffad823c50
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -24,18 +27,16 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme:
-    https://github.com/geerlingguy: true
     https://www.jeffgeerling.com/: true
-    https://www.jeffgeerling.com/sponsor/: true
-  last_post_title: Migrating 13,000 Comments from Drupal to Hugo
-  last_post_description: |-
-    After 16 years on the LAMP stack, I finished migrating this website from Drupal to Hugo a few weeks ago.
-    What's old is new, as this blog was originally built with Thingamablog, a Java-based Static
-  last_post_date: "2026-01-20T20:43:00-06:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/
+  last_post_title: Recapping My 5 Year Old Studio Monitors
+  last_post_description: A few weeks ago, I started hearing a slight crackle at the
+    loudest parts of whenever sound was playing through my PreSonus Eris E3.5 speakers.
+    It was very faint, but quite annoying, especially when
+  last_post_date: "2026-01-26T17:05:00-06:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: edda456fb309a1089c6ca68212b5270e
+  last_post_guid: 98e0d73fd869c14f4b0ac2e14868885a
   score_criteria:
     cats: 0
     description: 3

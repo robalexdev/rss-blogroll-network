@@ -21,29 +21,32 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - AI
+  - Journalism
   relme: {}
-  last_post_title: The AI productivity paradox
-  last_post_description: Managers say it makes them more productive. Workers don't.
-    What gives?
-  last_post_date: "2026-01-23T01:28:42Z"
-  last_post_link: https://www.platformer.news/ai-productivity-paradox-metr-pwc-workday/
+  last_post_title: The reporter who tried to replace herself with a bot
+  last_post_description: 'Anxiety about AI replacing entry-level jobs is on the rise.
+    Could a state-of-the-art chatbot do the job of a Platformer fellow? PLUS: Anthropic
+    vs. OpenAI, and will AI kill SaaS?'
+  last_post_date: "2026-02-06T01:12:46Z"
+  last_post_link: https://www.platformer.news/journalism-job-automation-claude/
   last_post_categories:
   - AI
+  - Journalism
   last_post_language: ""
-  last_post_guid: 26b4357113186d216fd44c3191fbbc9f
+  last_post_guid: aac116c39e053d69e9deaf248f60ea23
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

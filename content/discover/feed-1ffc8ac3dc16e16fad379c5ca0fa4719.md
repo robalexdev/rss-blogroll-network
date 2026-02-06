@@ -22,14 +22,15 @@ params:
     https://builtbybuffalo.com/: true
     https://dystopianpresent.club/@jasper: true
     https://jasper.tandy.is/: true
-  last_post_title: Vein
-  last_post_description: Last U15's badminton match of the season. It's only been
-    5 weekends this year but it always feels like so much more!
-  last_post_date: "2026-01-25T18:30:00Z"
-  last_post_link: https://jasper.tandy.is/blogging/vein
+  last_post_title: Data Entry
+  last_post_description: I spent around 5 hours today doing data entry. I hate data
+    entry but it's really satisfying when it's done. I just wish you could get that
+    satisfaction without needing to do all the insufferable work
+  last_post_date: "2026-02-05T21:20:00Z"
+  last_post_link: https://jasper.tandy.is/blogging/data-entry
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1dc5c0edc8ab5cafa1e23aa8288a16bd
+  last_post_guid: d2b5ddd696e3c0fce2849bd366051d07
   score_criteria:
     cats: 0
     description: 3

@@ -16,20 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Making Maps
   - Mapping with AI
+  - Maps
   relme: {}
-  last_post_title: Elite Football in Europe – don’t rely on AI to compile data
-  last_post_description: Click on the image above to view the map Anyone who knows
-    me knows that two of my top passions are maps and football, more specifically
-    The Arsenal. Fans are always debating the historic achievements
-  last_post_date: "2026-01-15T18:32:26Z"
-  last_post_link: https://knowwhereconsulting.co.uk/blog/elite-football-in-europe/
+  last_post_title: Dead Reckoning – if Gemini was my employee, I’d fire him/her/them
+  last_post_description: Click on the image above to view Dead Reckoning This could
+    be a long post because this was an ambitious project that was full of challenges
+    and there are a few learnings, but first a bit of context.
+  last_post_date: "2026-02-02T18:37:34Z"
+  last_post_link: https://knowwhereconsulting.co.uk/blog/dead-reckoning/
   last_post_categories:
-  - Making Maps
   - Mapping with AI
+  - Maps
   last_post_language: ""
-  last_post_guid: b4edcf73b54af101ead4181f057a1058
+  last_post_guid: 198431e178f7ae3081aff6bd0936fb0e
   score_criteria:
     cats: 0
     description: 3

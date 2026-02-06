@@ -1,6 +1,6 @@
 ---
 title: Gitea Blog Blog
-date: "2025-07-15T16:45:00Z"
+date: "2026-01-22T18:32:00Z"
 description: Gitea Blog Blog
 params:
   feedlink: https://blog.gitea.com/atom.xml
@@ -12,22 +12,24 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
   recommender:
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories:
   - release
   relme: {}
-  last_post_title: Gitea 1.24.3 is released
-  last_post_description: We are excited to announce the release of Gitea version 1.24.3!
-  last_post_date: "2025-07-15T16:45:00Z"
-  last_post_link: https://blog.gitea.com/release-of-1.24.3
+  last_post_title: Gitea 1.25.4 is released
+  last_post_description: We're excited to announce the release of Gitea 1.25.4! We
+    strongly recommend all users upgrade to this version, as it includes important
+    security fixes, numerous bug fixes, and overall stability
+  last_post_date: "2026-01-22T18:32:00Z"
+  last_post_link: https://blog.gitea.com/release-of-1.25.4
   last_post_categories:
   - release
   last_post_language: ""
-  last_post_guid: 83fa53cc04134ea0b9626552ae0522cf
+  last_post_guid: 778fae76fced493c11d3ace7d2fd6b90
   score_criteria:
     cats: 0
     description: 3

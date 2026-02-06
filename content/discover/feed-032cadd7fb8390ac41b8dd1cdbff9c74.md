@@ -1,6 +1,6 @@
 ---
 title: EzraKnotLab
-date: "2025-12-28T10:50:29Z"
+date: "2026-02-02T12:50:54Z"
 description: "Bruno Leopold CHEM PhD |Energy Research|Data Viz|CmonCity|NASA|Tech|⚽\U0001F3C0\nI,
   a universe of atoms, an atom in the universe."
 params:
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "2025"
+  last_post_title: EKL 324 325
   last_post_description: ""
-  last_post_date: "2025-12-31T12:52:42Z"
-  last_post_link: https://ezraknotlab.github.io/post/2025/
+  last_post_date: "2026-02-01T04:55:43Z"
+  last_post_link: https://ezraknotlab.github.io/post/ekl-324/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06fce8a22657b6c3e9232c351f0bcd92
+  last_post_guid: e316bf026f0857fb0d6aea83fda6e84f
   score_criteria:
     cats: 0
     description: 3

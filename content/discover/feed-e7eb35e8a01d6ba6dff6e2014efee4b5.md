@@ -1,6 +1,6 @@
 ---
 title: Serge Beauchamp
-date: "2025-06-01T23:59:49-07:00"
+date: "2026-01-28T03:56:16-08:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/4308054958627207530/posts/default

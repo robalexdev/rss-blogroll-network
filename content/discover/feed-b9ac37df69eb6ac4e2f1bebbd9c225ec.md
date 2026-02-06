@@ -8,7 +8,7 @@ params:
   feedtype: atom
   feedid: b9ac37df69eb6ac4e2f1bebbd9c225ec
   websites:
-    https://davidwalsh.name/: true
+    https://davidwalsh.name/: false
   blogrolls: []
   in_blogrolls:
   - title: Front-end RSS Feeds
@@ -43,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 1
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

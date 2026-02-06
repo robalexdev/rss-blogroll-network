@@ -1,6 +1,6 @@
 ---
 title: ttntm.me - Likes
-date: "2025-09-27T20:30:00Z"
+date: "2026-02-06T10:30:00Z"
 description: Tom's homepage. A personal website, journal and playground.
 params:
   feedlink: https://ttntm.me/likes/feed.xml
@@ -8,8 +8,6 @@ params:
   feedid: 0dba63fe24212f27cfad9fdbe70c05ad
   websites:
     https://ttntm.me/: false
-    https://ttntm.me/blog/: false
-    https://ttntm.me/everything/: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true
     https://ttntm.me/notes/: false
@@ -45,13 +43,13 @@ params:
   categories: []
   relme:
     https://ttntm.me/likes/: true
-  last_post_title: Week 39, 2025
+  last_post_title: Week 06, 2026
   last_post_description: ""
-  last_post_date: "2025-09-27T20:30:00Z"
-  last_post_link: https://ttntm.me/likes/2025-w39/
+  last_post_date: "2026-02-06T10:30:00Z"
+  last_post_link: https://ttntm.me/likes/2026-w06/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e463e084cc81d17dfadcdb25b1223575
+  last_post_guid: 52d0b2f91d52999ce26b57be087642cf
   score_criteria:
     cats: 0
     description: 3

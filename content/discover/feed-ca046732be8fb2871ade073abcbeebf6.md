@@ -20,18 +20,18 @@ params:
   - Premium
   - federal reserve
   relme: {}
-  last_post_title: Practical Monetarism
-  last_post_description: The President is poised to announce his pick for Fed Chairman
-    as soon as this week and Kevin Warsh is now the leading contender. Warsh is a
-    former Fed governor and noted hawk, but his views on Fed
-  last_post_date: "2026-01-19T14:49:03Z"
-  last_post_link: https://fedguy.com/practical-monetarism/?utm_source=rss&utm_medium=rss&utm_campaign=practical-monetarism
+  last_post_title: Modern Fed Chair
+  last_post_description: Reider's jump to front runner in the Fed chair race is surprising,
+    but his long held views show that he is the candidate most suited to a fiscal
+    dominant world. Reider has a long career in asset
+  last_post_date: "2026-01-26T15:46:45Z"
+  last_post_link: https://fedguy.com/modern-fed-chair/?utm_source=rss&utm_medium=rss&utm_campaign=modern-fed-chair
   last_post_categories:
   - Notes
   - Premium
   - federal reserve
   last_post_language: ""
-  last_post_guid: 75bdcbfc67b7f80b1b46628b0bb2c46a
+  last_post_guid: 86118b5a0041c82a615d7ac514af25f2
   score_criteria:
     cats: 0
     description: 3

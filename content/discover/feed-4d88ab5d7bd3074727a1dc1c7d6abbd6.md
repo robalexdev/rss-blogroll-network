@@ -80,6 +80,7 @@ params:
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
   - https://intellectualoid.com/comments/feed/
+  - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
   - https://kimberlyhirsh.com/podcast.xml
   - https://ma.tt/comments/feed/
@@ -99,15 +100,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Accountability
-  last_post_description: Turns out that when you arm a group of men who has no accountability,
-    and the people who do the arming have no accountability, you get anarchy. The
-    first rule of supremacy is there is no
-  last_post_date: "2026-01-25T13:06:21-05:00"
-  last_post_link: https://frankmcpherson.blog/2026/01/25/accountability.html
+  last_post_title: Avoiding Dead Links
+  last_post_description: I currently subscribe to the basic micro.blog plan and I
+    have been monitoring the features that Manton adds to premium for any that I might
+    find useful. Today Manton posted a video demonstrating a
+  last_post_date: "2026-02-04T12:33:19-05:00"
+  last_post_link: https://frankmcpherson.blog/2026/02/04/avoiding-dead-links.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 415a3fc2c9af922b80df77f547356c42
+  last_post_guid: f45050b116cab110d9578d30dc2518f7
   score_criteria:
     cats: 0
     description: 0

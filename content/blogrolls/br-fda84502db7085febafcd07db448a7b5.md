@@ -18,6 +18,11 @@ params:
   - title: garrit.xyz
     description: Garrit Franke
     id: 08c9a1f191b05dfc5913700989658ade
+  - title: Kev Quirk
+    description: Welcome to Kev Quirk's little corner of the internet. Here you can
+      find out lots of information about me, how to contact me and, of course, my
+      blog.
+    id: 09cd3f10a54bd9ccc5caf48b9de69412
   - title: Filippo Valsorda
     description: ""
     id: 13fa1dbc7c4db6c364433da06e1896ec

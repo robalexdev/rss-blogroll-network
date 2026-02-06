@@ -16,21 +16,20 @@ params:
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
-  recommender:
-  - https://therealadam.com/feed.xml
+  recommender: []
   categories:
   - Management
   relme: {}
-  last_post_title: I’m Going to Dig a Hole
-  last_post_description: Many, many years ago, at my childhood house in the Santa
-    Cruz mountains, I grabbed a shovel and started to dig a hole. Why? Unclear. I
-    was six or seven. I’d seen what my Dad could do with a shovel,
-  last_post_date: "2026-01-19T15:20:57Z"
-  last_post_link: https://randsinrepose.com/archives/im-going-to-dig-a-hole/
+  last_post_title: Sometimes Your Job is to Stay the Hell Out of the Way
+  last_post_description: I wrote a piece a long time ago about The Wolf. It’s my personal
+    take on the mythical 10x engineer, except that they aren’t a myth. They exist.
+    I’ve seen them. Many of them. The article was
+  last_post_date: "2026-01-26T16:37:10Z"
+  last_post_link: https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/
   last_post_categories:
   - Management
   last_post_language: ""
-  last_post_guid: c76771cf9941841a0012a11f38fcf519
+  last_post_guid: 1d0335b283f7bedb4abe3ab7227b852d
   score_criteria:
     cats: 0
     description: 0

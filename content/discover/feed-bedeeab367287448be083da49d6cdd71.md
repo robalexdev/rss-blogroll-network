@@ -9,7 +9,7 @@ params:
   feedtype: rss
   feedid: bedeeab367287448be083da49d6cdd71
   websites:
-    https://parlonslinux.fr/@ParlonsLinuxFR: true
+    https://parlonslinux.fr/@ParlonsLinuxFR: false
   blogrolls: []
   in_blogrolls:
   - title: Planète April
@@ -41,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: true
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2025-11-11T17:14:11+01:00"
+date: "2026-02-03T13:37:34+01:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -18,11 +18,6 @@ params:
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   categories:
@@ -31,16 +26,16 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: The academic-hobbyist divide in fish keeping
-  last_post_description: Reddit and other online sources of aquarium info are both
-    vexing and all hobbyists really have access to. Reddit is dominated by a lot of
-    people who just repeat “rules” with no concept of whether
-  last_post_date: "2025-11-11T17:13:00+01:00"
-  last_post_link: https://derekkedziora.com/notes/2025-11-11-the-academic-hobbyist-divide-in-fish-keeping
+  last_post_title: Unintended values
+  last_post_description: Thereâ€™s a thoughtful piece making the rounds called Phantom
+    Obligation. The argument is that RSS readers took their design inspiration from
+    emails, thus ending up with an unspoken obligation
+  last_post_date: "2026-02-03T13:26:00+01:00"
+  last_post_link: https://derekkedziora.com/notes/2026-02-03-unintended-values
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: ac5a56827a41ac5dd1d6a91c61113901
+  last_post_guid: 16891acadf314e9563df7b932c3228a0
   score_criteria:
     cats: 0
     description: 3

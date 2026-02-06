@@ -10,23 +10,28 @@ params:
     https://stanislas.blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: ""
+    description: ""
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender: []
+  recommender:
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories: []
   relme:
     https://stanislas.blog/: true
-  last_post_title: Building a TUI to index and search my coding agent sessions
-  last_post_description: "This is the story of how fast-resume came to life and evolved,
-    as I was trying to search and resume my coding agent sessions more easily across
-    different local CLI agents.\n\n \n \n There should have"
-  last_post_date: "2026-01-17T17:22:33Z"
-  last_post_link: https://stanislas.blog/2026/01/tui-index-search-coding-agent-sessions/
+  last_post_title: Building a self-hosted cloud coding agent
+  last_post_description: |-
+    I’ve been building Netclode recently and it was a lot of fun! There are a lot of interesting parts, so I thought it would be nice to share a bit.
+    The use case #A lot of ideas for my projects come
+  last_post_date: "2026-02-03T00:18:18Z"
+  last_post_link: https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4077c48272935721b66bd691df78bd38
+  last_post_guid: 4d585aedebe88d9843c66c3cfa20fbba
   score_criteria:
     cats: 0
     description: 3

@@ -6,8 +6,7 @@ params:
   feedlink: https://josh.blog/feed
   feedtype: rss
   feedid: ff6ccbb786cfb42caf7e388f185a56d3
-  websites:
-    https://josh.blog/: true
+  websites: {}
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
   in_blogrolls:
@@ -22,34 +21,7 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
-  recommended:
-  - http://scripting.com/rss.xml
-  - https://aaron.blog/feed/
-  - https://auth0.com/blog/rss.xml
-  - https://automattic.com/feed/
-  - https://chriscoyier.net/feed/
-  - https://daringfireball.net/feeds/main
-  - https://github.blog/feed/
-  - https://jvns.ca/atom.xml
-  - https://kareem.substack.com/feed
-  - https://ma.tt/feed/
-  - https://ntietz.com/atom.xml
-  - https://simonwillison.net/atom/everything/
-  - https://stratechery.com/feed/
-  - https://taylorswift.tumblr.com/rss
-  - https://tins.rklau.com/feed/
-  - https://www.anildash.com/feed.xml
-  - https://www.nasa.gov/image-of-the-day/feed/
-  - https://www.nytimes.com/wirecutter/feed
-  - https://www.theverge.com/apple/rss/index.xml
-  - https://aaron.blog/rss/
-  - https://automattic.com/comments/feed/
-  - https://github.blog/comments/feed/
-  - https://ma.tt/comments/feed/
-  - https://tins.rklau.com/comments/feed/
-  - https://www.nasa.gov/feed/
-  - https://www.theverge.com/rss/apple/index.xml
-  - https://www.theverge.com/rss/index.xml
+  recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
@@ -58,8 +30,7 @@ params:
   - Life
   - dog
   - frank
-  relme:
-    https://josh.blog/: true
+  relme: {}
   last_post_title: Happy Birthday Frank
   last_post_description: Frank is 6 today. He loves his little brother so much and
     we love Frank.
@@ -79,11 +50,11 @@ params:
     hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 10
-    relme: 2
+    promotes: 0
+    relme: 0
     title: 3
-    website: 2
-  score: 32
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

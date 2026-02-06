@@ -12,33 +12,31 @@ params:
   in_blogrolls:
   - title: ""
     description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
+    id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
   recommender:
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  - https://janlukas.blog/.min.rss
+  - https://janlukas.blog/.rss
   categories:
-  - Chrome
-  - Feed
-  - Tech
-  - feedly
+  - Coding & Publishing
+  - LanguageTool
+  - adminForge
   relme:
     https://flip.de/: true
     https://mastodon.social/@hesse: true
     https://renehesse.de/: true
-  last_post_title: Feedly Notifier → Feedly Unread
-  last_post_description: Das Manifest V3-Update von Google Chrome hat Änderungen in
-    der Handhabung von Erweiterungen, insbesondere bei Hintergrundskripten und der
-    Ausführung von Remote-Code im Gepäck. Manifest V3 führt
-  last_post_date: "2025-07-16T06:09:27Z"
-  last_post_link: https://flip.de/feedly-notifier-feedly-unread/
+  last_post_title: LanguageTool Browser-Erweiterung kostenlos weiter benutzen
+  last_post_description: Die sehr gute Rechtschreibprüfung LanguageTool informiert
+    darüber, dass die hauseigene Browser-Erweiterung künftig nur noch Premium-Nutzern
+    zur Verfügung stehen soll. Als Begründung nennt das
+  last_post_date: "2026-01-05T07:59:47Z"
+  last_post_link: https://flip.de/languagetool-browser-erweiterung-weiter-benutzen/
   last_post_categories:
-  - Chrome
-  - Feed
-  - Tech
-  - feedly
+  - Coding & Publishing
+  - LanguageTool
+  - adminForge
   last_post_language: ""
-  last_post_guid: 7e2ed9bcf69ae0e35b9d0f5e49600e73
+  last_post_guid: cfd517fc18ec391c46ce6a6d838cde43
   score_criteria:
     cats: 0
     description: 3

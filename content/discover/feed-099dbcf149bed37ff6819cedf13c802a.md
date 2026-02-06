@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 099dbcf149bed37ff6819cedf13c802a
   websites:
-    https://dev.to/jody: true
+    https://dev.to/jody: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla
@@ -18,8 +18,7 @@ params:
   categories:
   - npm
   - typescript
-  relme:
-    https://dev.to/jody: true
+  relme: {}
   last_post_title: A tip on using peer dependencies with TypeScript
   last_post_description: |-
     I encountered this issue recently and felt pretty silly when I realized the simple mistake I was making, so allow me to share, in hopes that it saves someone else time...
@@ -41,10 +40,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

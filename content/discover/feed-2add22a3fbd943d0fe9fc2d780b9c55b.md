@@ -1,6 +1,6 @@
 ---
 title: Huon on the internet
-date: "2026-01-02T02:33:42Z"
+date: "2026-02-05T04:23:39Z"
 description: ""
 params:
   feedlink: https://huonw.github.io/blog/atom.xml
@@ -8,7 +8,6 @@ params:
   feedid: 2add22a3fbd943d0fe9fc2d780b9c55b
   websites:
     https://huonw.github.io/: false
-    https://huonw.github.io/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Engineering Blogs
@@ -18,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: magit-insert-worktrees improves status buffers
+  last_post_title: 'Staying engaged with AI plans: give inline feedback'
   last_post_description: ""
-  last_post_date: "2025-12-13T00:00:00Z"
-  last_post_link: https://huonw.github.io/blog/2025/12/magit-insert-worktrees/
+  last_post_date: "2026-02-05T00:00:00Z"
+  last_post_link: https://huonw.github.io/blog/2026/02/ai-plan/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 17f6a31050fd7fe3ce9d3ad7fbb58fe5
+  last_post_guid: 76f172d6345330e0753e64fc8f5a5903
   score_criteria:
     cats: 0
     description: 0

@@ -9,12 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.4.
+      by feedlandDatabase v0.8.14.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   - title: Jeroen Sangers - Blogroll
     description: ""
@@ -24,25 +21,19 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
-  - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: Paper Trails Weekoverzicht (1 november-12 november)
-  last_post_description: Ik heb een hulpvraag aan het einde van dit bericht! Want
-    soms vallen dingen goed op hun plek. Afgelopen weken waren gepland om veel te
-    schrijven. Dat begint nu redelijk op de rit te komen, maar
-  last_post_date: "2025-11-12T10:24:03+01:00"
-  last_post_link: https://blog.frankmeeuwsen.com/2025/11/12/paper-trails-weekoverzicht-november-november.html
+  last_post_title: Hoe mijn weken zijn gevuld
+  last_post_description: Wat heb ik de afgelopen twee weken gedaan dat het hier zo
+    stil is? Ik heb echt wel wat tijd gehad om korte posts te maken, maar het is niet
+    gebeurd. Een schrijfpauze? Nee, ik schrijf nog elke ochtend
+  last_post_date: "2026-01-24T09:02:11+01:00"
+  last_post_link: https://blog.frankmeeuwsen.com/2026/01/24/hoe-mijn-weken-zijn-gevuld.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1d24566eb4da2678d82e30e2ffcf5480
+  last_post_guid: e75cc51f2f1cbc15d12718bfba8ec712
   score_criteria:
     cats: 0
     description: 0

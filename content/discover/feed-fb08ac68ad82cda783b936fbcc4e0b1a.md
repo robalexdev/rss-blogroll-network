@@ -19,32 +19,26 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Policing
-  - Politics
-  - abolish the cruelty
-  - cbp
-  - fl
-  - ice
-  - reeducation
-  - sensible moderate policies
+  - 33 pomeranians
+  - Animals
+  - Life's Rich Pageant
+  - Westminster Dog Show
+  - dogs
   relme: {}
-  last_post_title: I Have A Great Idea For Retraining ICE Agents
-  last_post_description: The several thousand federal agents currently running rampant
-    in the Twin Cities have so far achieved little in the way of legitimate law enforcement
-    objectives, but they have been rather more
-  last_post_date: "2026-01-26T15:00:45Z"
-  last_post_link: https://defector.com/i-have-a-great-idea-for-retraining-ice-agents
+  last_post_title: My Life Among The 33 Pomeranians (And A Few Thousand Other Dogs)
+  last_post_description: NEW YORK — In the days before the Westminster Dog Show, I
+    could not stop saying the phrase "33 Pomeranians." There’s a pleasing rhythm to
+    the phrase—better spelled out as thirty-three
+  last_post_date: "2026-02-05T18:00:32Z"
+  last_post_link: https://defector.com/my-life-among-the-33-pomeranians-and-a-few-thousand-other-dogs
   last_post_categories:
-  - Policing
-  - Politics
-  - abolish the cruelty
-  - cbp
-  - fl
-  - ice
-  - reeducation
-  - sensible moderate policies
+  - 33 pomeranians
+  - Animals
+  - Life's Rich Pageant
+  - Westminster Dog Show
+  - dogs
   last_post_language: ""
-  last_post_guid: 0a8f38b82ab1f463355eed5983260e54
+  last_post_guid: 6124fbc4eae240719efd87da737c0b51
   score_criteria:
     cats: 0
     description: 3

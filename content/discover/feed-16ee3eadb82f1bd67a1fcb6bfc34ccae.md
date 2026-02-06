@@ -21,19 +21,20 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 316: Tuesday 13 – Monday 19 January 2026'
-  last_post_description: Garage completed. Hazel comes to stay. Rain. Fog. Got the
-    log stove going again on Tuesday, waiting for B’s plumber to return to reattach
-    the LPG tank to the boiler. Fog outside – silent and damp
-  last_post_date: "2026-01-20T09:18:20Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2026/01/20/herefordshire-week-316-tuesday-13-monday-19-january-2026/
+  last_post_title: 'Herefordshire Week 318: Tuesday 27 January 2026 – Monday 2 February
+    2026'
+  last_post_description: Birdsong. Flat tyre. Snowdrops and a daffodil. Lots of trips
+    into Hereford (all planned). Storm Chandra delivered heavy rain overnight, continuing
+    until mid morning on Tuesday. Flooding in Ewyas
+  last_post_date: "2026-02-03T12:28:31Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2026/02/03/herefordshire-week-318-tuesday-27-january-2026-monday-2-february-2026/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 27a3566fb359008f77977201cc9954ac
+  last_post_guid: 41b4c89616a2170bd1d7d3bfdf2fb040
   score_criteria:
     cats: 0
     description: 0

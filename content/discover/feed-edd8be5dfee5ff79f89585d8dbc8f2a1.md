@@ -1,6 +1,6 @@
 ---
 title: Kitty Giraudel
-date: "2026-01-26T10:18:09Z"
+date: "2026-02-03T12:56:13Z"
 description: I’m Kitty Giraudel, a transfeminine web engineer based in Berlin, focused
   on accessibility and inclusivity.
 params:
@@ -19,13 +19,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 2025 in review
+  last_post_title: Cursor for UI work
   last_post_description: ""
-  last_post_date: "2025-12-31T00:00:00Z"
-  last_post_link: https://kittygiraudel.com/2025/12/31/2025-in-review/
+  last_post_date: "2026-02-03T00:00:00Z"
+  last_post_link: https://kittygiraudel.com/2026/02/03/cursor-for-ui-work/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c0a2e4f965515a408c2fadeb1b54a7b8
+  last_post_guid: 636872ea4087b7ee185c63544265548b
   score_criteria:
     cats: 0
     description: 3

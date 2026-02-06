@@ -10,7 +10,6 @@ params:
   feedtype: rss
   feedid: 177fd9acc4a81a64a930eea9d660dad6
   websites:
-    https://blog.aurahack.jp/: true
     https://blog.aurahack.jp/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -41,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

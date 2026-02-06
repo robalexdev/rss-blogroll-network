@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-01-26T10:02:21Z"
+date: "2026-01-27T07:02:42Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:

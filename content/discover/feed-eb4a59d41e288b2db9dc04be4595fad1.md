@@ -21,34 +21,35 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - News
+  - electric vans
+  - volkswagen
   relme: {}
-  last_post_title: 'The Kia Seltos goes hybrid for the first time: Will we see an
-    EV version next?'
-  last_post_description: |-
-    Kia opened orders for the Seltos hybrid in South Korea, saying it lays the groundwork for the electric vehicle era. Does that mean the Seltos will get an EV version, too?
-
-
-
-     more…
-  last_post_date: "2026-01-26T15:42:29Z"
-  last_post_link: https://electrek.co/2026/01/26/kia-seltos-goes-hybrid-first-time-is-an-ev-version-next/
+  last_post_title: New VW Sportline is the 7-passenger electric GTi the ID.Buzz SHOULD
+    have been
+  last_post_description: VW have finally built the van enthusiasts have been asking
+    — and it’s not the ID.Buzz. Meet the new e-Transporter Sportline, the retro-tastic
+    people-mover with GTI-inspired styling, a proper
+  last_post_date: "2026-02-05T22:50:07Z"
+  last_post_link: https://electrek.co/2026/02/05/new-vw-sportline-is-the-7-passenger-electric-gti-the-id-buzz-should-have-been/
   last_post_categories:
   - News
+  - electric vans
+  - volkswagen
   last_post_language: ""
-  last_post_guid: f736a9d733ce31a888acbe6c4ec9a4fc
+  last_post_guid: 84f45ab00c2dee530166a035609309be
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

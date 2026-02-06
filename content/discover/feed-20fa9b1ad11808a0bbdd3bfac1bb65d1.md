@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2025-10-28T02:29:23Z"
+date: "2026-02-01T18:11:59Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: There is No Antimemetics Division
-  last_post_description: '"There is an invisible monster which follows me around and
-    likes to eat my memories," Marion explains, patiently. "SCP-4987. Don''t look
-    it up, it''s not there. I''ve learn'
-  last_post_date: "2025-10-12T15:47:43Z"
-  last_post_link: https://flowtwo.io/post/there-is-no-antimemetics-division
+  last_post_title: Stuff I Dug in 2025
+  last_post_description: The end of the year provides an opportunity to look back
+    on all the media and entertainment I enjoyed over the last 12 months. I like taking
+    some time to reflect on what had an impact on me, and wh
+  last_post_date: "2026-01-07T02:35:00Z"
+  last_post_link: https://flowtwo.io/post/stuff-i-dug-in-2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3e32d6953436d8d2786764fd61f1a99a
+  last_post_guid: 2f95b0a4ed7252a070edd776515ad510
   score_criteria:
     cats: 0
     description: 3
@@ -42,6 +42,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 43
+  postcount: 46
   avgpostlen: 0
 ---

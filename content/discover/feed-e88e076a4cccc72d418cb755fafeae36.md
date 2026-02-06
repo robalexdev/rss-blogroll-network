@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: e88e076a4cccc72d418cb755fafeae36
   websites:
-    https://jessitron.com/: true
     https://jessitron.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

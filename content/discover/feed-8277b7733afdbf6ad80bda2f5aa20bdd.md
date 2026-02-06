@@ -19,26 +19,22 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - City Department of Education
-  - Department of Education
-  - Public Schools
-  - Schools
-  - Zohran Mamdani
+  - Environment
+  - Streets
+  - Transit
   relme: {}
-  last_post_title: NYC Schools to Go Remote Monday as Snow Blankets City
-  last_post_description: Mayor Zohran Mamdani announced a remote learning day Monday
-    for nearly a million public school students, with up to a foot of snow expected
-    to fall on the city over the weekend. Frigid temperatures
-  last_post_date: "2026-01-25T14:48:34Z"
-  last_post_link: https://www.thecity.nyc/2026/01/25/nyc-schools-remote-monday-mamdani/
+  last_post_title: Frozen Piles in Bus Lanes Make ‘Obstacle Course’ for Commuters
+  last_post_description: With single-digit temperatures set to freeze New York City
+    again this weekend, bus operators are pushing City Hall to clear icy piles that
+    are still lingering in some bus lanes since a major
+  last_post_date: "2026-02-05T23:01:53Z"
+  last_post_link: https://www.thecity.nyc/2026/02/05/snow-bus-lanes-cold-weather-dsny-commute/
   last_post_categories:
-  - City Department of Education
-  - Department of Education
-  - Public Schools
-  - Schools
-  - Zohran Mamdani
+  - Environment
+  - Streets
+  - Transit
   last_post_language: ""
-  last_post_guid: 1e01dd5bb95b50f851e23a520ad4d017
+  last_post_guid: fc526252622ca832ab55facb20af1431
   score_criteria:
     cats: 0
     description: 3

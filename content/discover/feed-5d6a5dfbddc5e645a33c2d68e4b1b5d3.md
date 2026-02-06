@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-01-25T15:56:28Z"
+date: "2026-01-31T01:58:12Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -33,9 +33,9 @@ params:
     https://toot.community/@jenett: true
     https://wiki.joejenett.com/: true
   last_post_title: bad Apple…bad!
-  last_post_description: I find it hard to believe that Apple is programmatically
-    nagging users to update to Tahoe (despite compatibility issues) without giving
-    users the choice to say no. Some time ago, I learned the hard
+  last_post_description: '01/30/26-Update: Problem resolved. If you’ve experienced
+    similar issues, get in touch and I’ll point you to the solution I found. Thx.
+    I find it hard to believe that Apple is programmatically'
   last_post_date: "2026-01-13T19:02:39Z"
   last_post_link: https://simply.joejenett.com/bad-apple-bad/
   last_post_categories:

@@ -12,6 +12,9 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
+  - title: Dan Q's Blogroll
+    description: ""
+    id: efa39f8903d9f955318300588291f9c0
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
@@ -29,30 +32,32 @@ params:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   categories:
-  - bodysurfing
+  - Virginia
   - general
-  - stoke
-  - swim2026
+  - san-diego
+  - tourists
+  - uva
+  - vcu
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
-    https://github.com/artlung: true
-    https://tilde.club/~artlung/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: PB Today
-  last_post_description: Panorama From today at Pacific Beach It was a quiet weekend.
-    But a positive one. I have some interesting things coming up this week. I’m hoping
-    for the best. The world… is frustrating. I keep
-  last_post_date: "2026-01-26T06:12:35Z"
-  last_post_link: https://artlung.com/blog/2026/01/25/pb-today/
+  last_post_title: Virginia Hats
+  last_post_description: 'Last week the weather was mild. It’s almost always mild
+    here in San Diego. We were walking to the beach: Pacific Beach. We were headed
+    to the spot on the south side of Crystal Pier. It was Sunday:'
+  last_post_date: "2026-01-27T05:19:38Z"
+  last_post_link: https://artlung.com/blog/2026/01/26/virginia-hats/
   last_post_categories:
-  - bodysurfing
+  - Virginia
   - general
-  - stoke
-  - swim2026
+  - san-diego
+  - tourists
+  - uva
+  - vcu
   last_post_language: ""
-  last_post_guid: bd28fe8d149bf9e83494a7a6ff76ce5a
+  last_post_guid: ea7c08fbd49464648258a654df8bb21d
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Jonathan Almeida - mozilla
-date: "2026-01-22T16:28:43-05:00"
+date: "2026-01-29T16:39:59-05:00"
 description: Scribblings and nonsense
 params:
   feedlink: https://jonalmeida.com/tags/mozilla/atom.xml
@@ -18,7 +18,7 @@ params:
   relme: {}
   last_post_title: Test sites for browser developers
   last_post_description: ""
-  last_post_date: "2026-01-22T16:28:43-05:00"
+  last_post_date: "2026-01-29T16:39:59-05:00"
   last_post_link: https://jonalmeida.com/blog/browser-test-sites/
   last_post_categories: []
   last_post_language: ""

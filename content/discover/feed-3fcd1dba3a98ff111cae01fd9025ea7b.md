@@ -1,7 +1,7 @@
 ---
-title: blog - KRRD
+title: blog - krrd
 date: "1970-01-01T00:00:00Z"
-description: Sparking Curiousity One Thought At A Time
+description: Thoughts, stories and ideas.
 params:
   feedlink: https://krrd.ing/tag/blog/rss/
   feedtype: rss
@@ -11,9 +11,6 @@ params:
   in_blogrolls:
   - title: Cory Dransfeldt
     description: ""
-    id: d0a6b9c5f63a5b525a30929c47fc75e7
-  - title: Cory Dransfeldt
-    description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender: []
@@ -21,16 +18,15 @@ params:
   - blog
   - weeknotes
   relme: {}
-  last_post_title: week notes 11-8-25
-  last_post_description: November is fully here and fall is coming to a close. Here's
-    some of what I found interesting in the last week!
-  last_post_date: "2025-11-09T21:03:48Z"
-  last_post_link: https://krrd.ing/week-notes-11-8-25/
+  last_post_title: week notes - january
+  last_post_description: yeah i'm behind.
+  last_post_date: "2026-02-05T03:06:32Z"
+  last_post_link: https://krrd.ing/week-notes-january/
   last_post_categories:
   - blog
   - weeknotes
   last_post_language: ""
-  last_post_guid: cc90aab25f5759a3bed3218da6063f36
+  last_post_guid: 9e70b46ad0306dc0cf7dd4f747214852
   score_criteria:
     cats: 0
     description: 3

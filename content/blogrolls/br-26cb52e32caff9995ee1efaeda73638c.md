@@ -15,6 +15,9 @@ params:
   - title: Rust Blog
     description: Empowering everyone to build reliable and efficient software.
     id: 193221795d9755d84e234dc3323b9df3
+  - title: Snook.ca
+    description: Life and Times of a Web Developer
+    id: 1e9f7a892cc3a088f0d796a20def701d
   - title: Brendan Gregg's Blog
     description: ""
     id: 201ddc070f6fd19e8ccf4a4475fe84db
@@ -73,6 +76,9 @@ params:
   - title: Muffin Man
     description: FrontEnd & Creative Coding
     id: 7717c8a7a423be260f280b44c8436b11
+  - title: Stephen Colebourne's blog
+    description: Thoughts and Musings on the world of Java and beyond
+    id: 79a7e017a5615bb70dc38b0e27f69ef7
   - title: Rob Allen
     description: Pragmatism in today's world
     id: 81006d875e5df9f71a7743e81a2f70d8
@@ -83,6 +89,9 @@ params:
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech
       lead at Airtable in San Francisco.
     id: 8ae6984a7812d257eea643d4dc2ca54c
+  - title: Send More Paramedics
+    description: λ λ λ
+    id: 901e5c350fc13bcdffcfff68dd8e2535
   - title: Monica Dinculescu
     description: ""
     id: 9ed58f466104e74b8e5f8d7a32d0335c

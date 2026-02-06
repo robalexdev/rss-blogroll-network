@@ -20,14 +20,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: A Nation on Thin Ice
-  last_post_description: Your questions answered on Greenland, ICE, Canada, Minnesota,
-    Epstein, more.
-  last_post_date: "2026-01-23T21:44:06Z"
-  last_post_link: https://sarahkendzior.substack.com/p/a-nation-on-thin-ice
+  last_post_title: Jackhammering Into the Sewer
+  last_post_description: A look through the Epstein files.
+  last_post_date: "2026-02-04T00:37:13Z"
+  last_post_link: https://sarahkendzior.substack.com/p/jackhammering-into-the-sewer
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e0860d88f2ec598b3cc951f4868a22d
+  last_post_guid: 3290d990f6bfedc4dbc3d38a6402a3a2
   score_criteria:
     cats: 0
     description: 3

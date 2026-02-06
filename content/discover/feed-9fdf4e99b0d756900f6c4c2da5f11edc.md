@@ -6,8 +6,7 @@ params:
   feedlink: https://www.kmjn.org/notes/recent.atom
   feedtype: atom
   feedid: 9fdf4e99b0d756900f6c4c2da5f11edc
-  websites:
-    https://www.kmjn.org/notes/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -35,8 +34,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

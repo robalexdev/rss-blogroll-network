@@ -27,12 +27,12 @@ params:
   - outreachy
   - technology
   relme: {}
-  last_post_title: 'Internship Highlights at Outreachy: My Journey with Debian OpenQA'
-  last_post_description: "Highlights Hello world \U0001F600. I am an intern here at
-    Outreachy working with Debian OpenQA Image testing team. The work consists of
-    testing Images with OpenQA. The internship has reached midpoint and"
-  last_post_date: "2026-01-19T15:28:15Z"
-  last_post_link: https://hellenchemtai.wordpress.com/2026/01/19/internship-highlights-at-outreachy-my-journey-with-debian-openqa/
+  last_post_title: 'Career Growth Through Open Source: A Personal Journey'
+  last_post_description: "Hello world \U0001F600! I am an intern at Outreachy working
+    with the Debian OpenQA team on images testing. We get to know what career opportunities
+    awaits us when we work on open source projects. In open"
+  last_post_date: "2026-02-02T15:30:53Z"
+  last_post_link: https://hellenchemtai.wordpress.com/2026/02/02/career-growth-through-open-source-a-personal-journey/
   last_post_categories:
   - Uncategorized
   - career
@@ -45,7 +45,7 @@ params:
   - outreachy
   - technology
   last_post_language: ""
-  last_post_guid: 3aa2fcdf370329fc74925e1750039c08
+  last_post_guid: 17c586a5048430bb61caf005fd4b21a5
   score_criteria:
     cats: 0
     description: 0

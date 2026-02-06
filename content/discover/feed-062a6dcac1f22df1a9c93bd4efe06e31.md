@@ -26,15 +26,14 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: The Real Version
-  last_post_description: Lately, I’ve been scolded for using (American) English names
-    of Japanese video games. As a result, I’m calling Animal Crossing「どうぶつの森」now.
-    I don’t know if I have it in me to use
-  last_post_date: "2026-01-21T16:45:00+09:00"
-  last_post_link: https://lmnt.me/blog/the-real-version.html
+  last_post_title: Carbo
+  last_post_description: Proper Italians would probably scoff at Japanese carbonara,
+    but this Italian-American thinks it’s a damn delight.
+  last_post_date: "2026-01-25T13:45:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/carbo.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: da6d3f88bae1fe9ebd0c06969061d128
+  last_post_guid: 9e767b3c124b0390d2e9de8a06f7ca3e
   score_criteria:
     cats: 1
     description: 3

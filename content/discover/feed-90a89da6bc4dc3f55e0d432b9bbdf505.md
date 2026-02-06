@@ -15,9 +15,6 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
-  - title: A list of sites Ethan likes
-    description: ""
-    id: 796603efcff00ba474bbbd88e566b727
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -30,8 +27,6 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://philwilson.org/blog/feed
-  - https://philwilson.org/blog/feed/atom/
   categories:
   - brighton
   - clearleft

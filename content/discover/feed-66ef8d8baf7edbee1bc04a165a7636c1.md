@@ -1,6 +1,6 @@
 ---
 title: Aid's Little Site Updates
-date: "2026-01-25T03:41:17-05:00"
+date: "2026-02-04T18:36:07-05:00"
 description: A simple feed mostly centric around site updates with new content or
   fixes
 params:
@@ -14,21 +14,16 @@ params:
     description: ""
     id: efa39f8903d9f955318300588291f9c0
   recommended: []
-  recommender:
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/home-2/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Shrine Index Page
+  last_post_title: Food Log Update
   last_post_description: ""
-  last_post_date: "2026-01-25T03:41:17-05:00"
-  last_post_link: https://zhongvie.neocities.org/shrines/
+  last_post_date: "2026-02-04T18:36:07-05:00"
+  last_post_link: https://zhongvie.neocities.org/articles/food
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a67b4e9e4b5c669d4e0cec2761dc82c
+  last_post_guid: 54c1bed6ee8f6953c0f6b307b4cc2206
   score_criteria:
     cats: 0
     description: 3

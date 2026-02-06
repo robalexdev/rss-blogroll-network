@@ -1,6 +1,6 @@
 ---
 title: The Leafslug - All
-date: "2026-01-18T18:19:39+01:00"
+date: "2026-02-02T11:49:38+01:00"
 description: Slowly wandering Leafslug, eating away leaves and photosynthesizing under
   a mellow light.
 params:
@@ -17,8 +17,6 @@ params:
     id: cb5c5a7648ddde068f1d547585d9596c
   recommended: []
   recommender:
-  - https://ttntm.me/blog/feed.xml
-  - https://ttntm.me/everything.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories:

@@ -1,6 +1,6 @@
 ---
 title: The LibraryThing Blog
-date: "2026-01-12T16:04:31Z"
+date: "2026-02-04T19:14:01Z"
 description: ""
 params:
   feedlink: https://blog.librarything.com/feed/atom/
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - author interview
-  - interview
+  - LTER
+  - early reviewers
   relme: {}
-  last_post_title: 'Author Interview: Kelly Scarborough'
-  last_post_description: LibraryThing is pleased to sit down this month with Kelly
-    Scarborough, who makes her authorial debut this month with Butterfly Games, a
-    historical novel set in the Swedish royal court during the
-  last_post_date: "2026-01-12T16:04:31Z"
-  last_post_link: https://blog.librarything.com/2026/01/author-interview-kelly-scarborough/
+  last_post_title: February 2026 Early Reviewers Batch Is Live!
+  last_post_description: Win free books from the February 2026 batch of Early Reviewer
+    titles! We’ve got 255 books this month, and a grand total of 3,153 copies to give
+    out. Which books are you hoping to snag this month?
+  last_post_date: "2026-02-04T19:14:01Z"
+  last_post_link: https://blog.librarything.com/2026/02/february-2026-early-reviewers-batch-is-live/
   last_post_categories:
-  - author interview
-  - interview
+  - LTER
+  - early reviewers
   last_post_language: ""
-  last_post_guid: f345ea7e030e42bb09bb66b6658dfae0
+  last_post_guid: 7d4d845f92f23318467e334d6301554a
   score_criteria:
     cats: 0
     description: 0

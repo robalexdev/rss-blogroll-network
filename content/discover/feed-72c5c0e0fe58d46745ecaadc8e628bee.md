@@ -16,17 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Desktops
+  - Hardware
   relme: {}
-  last_post_title: 'The Golden Rule of Switching to Linux: Restructure Your Life'
-  last_post_description: Ditching Windows for good. That's the goal, at least -- and
-    we'll get there.
-  last_post_date: "2025-09-23T07:32:54Z"
-  last_post_link: https://thelibre.news/the-golden-rule-of-switching-to-linux-restructure-your-life/
+  last_post_title: We need devices like the StarLite
+  last_post_description: Though, we also need them to get better over time.
+  last_post_date: "2026-01-16T09:57:05Z"
+  last_post_link: https://thelibre.news/we-need-devices-like-the-starlite/
   last_post_categories:
-  - Desktops
+  - Hardware
   last_post_language: ""
-  last_post_guid: b40c7cb4438a20aed309179a3f2839a5
+  last_post_guid: 81c6282701a9a8a6a87c55f889d3f67f
   score_criteria:
     cats: 0
     description: 3
