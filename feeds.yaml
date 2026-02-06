@@ -8,6 +8,7 @@ feed_urls:
   - https://www.morerss.com/en.opml
   - https://www.morerss.com/zh.opml
   - https://blogs.hn/blogs.hn.opml
+  - https://hnpwd.github.io/hnpwd.opml
 
   #
   # Planets
