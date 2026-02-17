@@ -11,6 +11,9 @@ params:
     https://increment.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: QuiteRSS
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2

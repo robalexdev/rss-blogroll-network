@@ -12,6 +12,9 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []

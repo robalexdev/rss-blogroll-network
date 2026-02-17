@@ -1,6 +1,6 @@
 ---
 title: Mark Llobrera
-date: "2026-01-20T21:53:45Z"
+date: "2026-02-02T17:35:29Z"
 description: This is the online home for Mark Llobrera, housing his blog, reading
   log, and film log.
 params:
@@ -11,20 +11,20 @@ params:
     https://markllobrera.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: A list of sites Ethan likes
+  - title: Kagi Small Web OPML
     description: ""
-    id: 796603efcff00ba474bbbd88e566b727
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: HDC Nutcracker 2025
+  last_post_title: Persuasion
   last_post_description: ""
-  last_post_date: "2026-01-20T21:53:45Z"
-  last_post_link: https://www.markllobrera.com/posts/hdc-nutcracker-2025/
+  last_post_date: "2026-02-02T17:35:29Z"
+  last_post_link: https://www.markllobrera.com/reading/persuasion-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c354bf7f69e3ebb25cf425ba9a75ba5e
+  last_post_guid: 58ab75b42f246ae235535a3aabd6766a
   score_criteria:
     cats: 0
     description: 3

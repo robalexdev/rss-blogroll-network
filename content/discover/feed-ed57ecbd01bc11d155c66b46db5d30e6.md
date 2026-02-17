@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,18 +20,17 @@ params:
   categories:
   - Fact Sheets
   relme: {}
-  last_post_title: 'Fact Sheet: Following Trade Deal Announcements, President Donald
-    J. Trump Modifies the Scope of the Reciprocal Tariffs with Respect to Certain
-    Agricultural Products'
-  last_post_description: 'STRENGTHENING THE ECONOMY AND NATIONAL SECURITY THROUGH
-    TARIFFS AND TRADE DEALS: Today, President Donald J. Trump signed an Executive
-    Order modifying the scope of the reciprocal tariffs that he first'
-  last_post_date: "2025-11-14T21:53:39Z"
-  last_post_link: https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-following-trade-deal-announcements-president-donald-j-trump-modifies-the-scope-of-the-reciprocal-tariffs-with-respect-to-certain-agricultural-products/
+  last_post_title: 'Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to
+    Bring Lower Drug Prices to American Patients'
+  last_post_description: 'HISTORIC LAUNCH TO LOWER DRUG PRICES FOR AMERICAN PATIENTS:
+    Today, President Donald J. Trump announced the launch of TrumpRx.gov. Through
+    the website, patients will be able to access large discounts'
+  last_post_date: "2026-02-06T00:31:50Z"
+  last_post_link: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
   last_post_categories:
   - Fact Sheets
   last_post_language: ""
-  last_post_guid: 1183c700b5651c29ae0b90a4f21b0568
+  last_post_guid: 25deb4fa3f3e1a6320f27fa480d8f6db
   score_criteria:
     cats: 0
     description: 0

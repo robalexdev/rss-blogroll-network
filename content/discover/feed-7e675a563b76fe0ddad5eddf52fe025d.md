@@ -10,6 +10,9 @@ params:
     https://danwang.co/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a

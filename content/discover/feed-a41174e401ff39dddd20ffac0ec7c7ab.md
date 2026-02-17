@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,21 +19,31 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - history
-  - look back
+  - autism
+  - cdc
+  - health & human services
+  - jay bhattacharya
+  - nih
+  - rfk jr.
+  - vaccines
   relme: {}
-  last_post_title: 'This Week In Techdirt History: November 9th – 15th'
-  last_post_description: Five Years Ago This week in 2020, we looked at election polls
-    as an example of the challenges involved in defining and handling misinformation.
-    We noted how Trumpland seemed to have entirely
-  last_post_date: "2025-11-15T20:00:00Z"
-  last_post_link: https://www.techdirt.com/2025/11/15/this-week-in-techdirt-history-november-9th-15th/
+  last_post_title: NIH Boss Jay Bhattacharya Breaks With RFK Jr. On Vaccines
+  last_post_description: Echo chambers are generally bad. Any group making important
+    decisions should have a certain level of diversity of thought to avoid groupthink.
+    But I would argue that there are some stances that are
+  last_post_date: "2026-02-06T04:04:41Z"
+  last_post_link: https://www.techdirt.com/2026/02/05/nih-boss-jay-bhattacharya-breaks-with-rfk-jr-on-vaccines/
   last_post_categories:
   - "1"
-  - history
-  - look back
+  - autism
+  - cdc
+  - health & human services
+  - jay bhattacharya
+  - nih
+  - rfk jr.
+  - vaccines
   last_post_language: ""
-  last_post_guid: 810da4f15c9135345bc413fb7622fc31
+  last_post_guid: 19b49eb9146b6ba984d5a57a0777729c
   score_criteria:
     cats: 0
     description: 0

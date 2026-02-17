@@ -1,0 +1,1087 @@
+---
+title: Alabama Yesterdays
+date: "2026-02-15T07:28:01-08:00"
+description: 'Alabama Yesterdays: Random wanderings through Alabama history'
+params:
+  feedlink: https://alabamayesterdays.blogspot.com/atom.xml
+  feedtype: atom
+  feedid: cafeb70b83f716afe05fac0709d6a1f8
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - 1960s
+  - Advance
+  - African American
+  - Age-Herald
+  - Alabama
+  - Alabama Boys Industrial School
+  - Alabama City
+  - Alabama Hills
+  - Alabama Historical Association
+  - Alabama Mosaic
+  - Alabama Polytechnic Institute
+  - Alabama Theatre
+  - Alabama War Memorial
+  - Alabama history
+  - Alabaster. lime plant
+  - Albert Patterson
+  - Alberta
+  - Aldridge Gardens
+  - Alice McNeal
+  - Allan
+  - Allen Ginsberg
+  - Amazon
+  - Amelie Rivas
+  - Amia
+  - Amos J. Wright
+  - Amos Jasper Wright IV
+  - Andy Warhol
+  - Anne Goldthwaite
+  - Anne Royall
+  - Anniston
+  - Any Day Now
+  - April Fool's
+  - Arab
+  - Archelus H. Mitchell
+  - Arkadelphia
+  - Arthur Akers
+  - Arthur Conan Doyle
+  - Arthur Rothstein
+  - Arthur V. Deutcsh
+  - Asa Carter
+  - Attalla
+  - Auburn
+  - Auburn University
+  - Audie Murphy
+  - Augusta Jane Evans Wilson
+  - Augustus Thomas
+  - Avondale Mills
+  - B.J. Baker
+  - BBQ
+  - Babs Deal
+  - Bad Seed
+  - Baileyton
+  - Baldwin County
+  - Bankhead
+  - Baptist
+  - Bar-B-Q
+  - Barbara Billingsley
+  - Barbour County
+  - Bart Henson
+  - Bartee
+  - Basil Manly
+  - Bat Masterson
+  - Batman
+  - Battle House
+  - Bayou La Batre
+  - Bellingrath Gardens
+  - Benton County
+  - Bertolt Brecht
+  - Bessemer
+  - Bessie Smith
+  - Beth Jackson
+  - Betty Jane Phillips
+  - Beulah Vee Wright
+  - Billy the Kid
+  - Bing Crosby
+  - Birmigham
+  - Birmimgham
+  - Birmingham
+  - Birmingham Barons
+  - Birmingham Medical College
+  - Birmingham News
+  - Birmingham-Southern College
+  - Birmngham
+  - Black Belt
+  - Black Warrior River
+  - Blevins Gap
+  - Blue Star
+  - Bonnie Bolding
+  - Bonnie Plants
+  - Booklegger
+  - Boots Mallory
+  - Borden Deal
+  - Brad Watson
+  - Brasher
+  - Brenau College
+  - Bright Star
+  - Bruce Willis
+  - Brundidge
+  - Bruno's
+  - Bryant Museum
+  - Bryce Hospital
+  - Buffalo Bill
+  - Bug Tussle
+  - Bugs Bunny
+  - Bullock County
+  - C. Terry Cline
+  - C.E. Moore
+  - Caesar Blackwell
+  - Calhoun County
+  - California
+  - Camp Fire Girls
+  - Camp Hill
+  - Camp Sheridan
+  - Camp Sibert
+  - Capitol Park
+  - Cardiology
+  - Cardiovascular surgery
+  - Carlisle
+  - Carlyle Tillery
+  - Carnegie
+  - Carol Highsmith
+  - Caroline Lee Hentz
+  - Carolyn Shores Wright
+  - Carraway Hospital
+  - Carrie Tuggle
+  - Carson McCullers
+  - Cary Grant
+  - Cathy O'Donnell
+  - Cha-La-Kee
+  - Charles A. McCallum
+  - Charles Hubbert
+  - Charles Ireland
+  - Charles T. Jackson
+  - CharlesLoughton
+  - Childhaven
+  - Chilton County
+  - Christian
+  - Christmas
+  - Chuck Berry
+  - Chuck Connors
+  - City Hall
+  - City Stages
+  - Clanton
+  - Clarence Brown
+  - Clark Gable
+  - Clarke County
+  - Claudia Waddell Roberts
+  - Claudius Henry Mastin
+  - Clayton
+  - Cleburne County
+  - Cloverdale
+  - Cloverdale Drive
+  - Coca Cola
+  - Coden
+  - Colony
+  - Colorado
+  - Columbiana
+  - Concordia College
+  - Confederacy
+  - Confederate Memorial Park
+  - Cornelius Dorsette
+  - Cotaco
+  - Cotton Club
+  - Creek Indians
+  - Crestwood Medical Center
+  - Cub Scout
+  - Cullman
+  - Dadeville
+  - Dallas Stoudenmire
+  - Dan Dunn
+  - Daphne
+  - Dark Shawdows
+  - Dauphin Island
+  - Dauphin Street
+  - Davis Hills
+  - Davis Roberts
+  - Dean Martin
+  - Decatur
+  - Demopolis
+  - Desert Island Supply Company
+  - Doctor Who
+  - Don Downs
+  - Don Hutson
+  - Dorothea Lange
+  - Dorothy Sebastian
+  - Dothan
+  - East Lake
+  - Easter
+  - Eastwood Mall
+  - Eddie Rickenbacker
+  - Eddy Gilmore
+  - Edgewater Mine
+  - Elector
+  - Electrik Maid
+  - Elisabeth Hauptmann
+  - England
+  - Ensley
+  - Episcopal
+  - Etowah
+  - Eufaula
+  - Eutaw
+  - Exchange Bank
+  - Fairhope
+  - Faithless
+  - Falco
+  - Fannie Flagg
+  - Father's Day
+  - Fayette
+  - Fayette Art Museum
+  - Federal Theater Project
+  - Fish Market
+  - Five Points
+  - Five Points South
+  - Florence
+  - Florette
+  - Florida
+  - Forrest Carter
+  - Forrest Cemetery
+  - Forrest Gump
+  - Forrest James
+  - Fort Gaines
+  - Fort Morgan
+  - Fort Payne
+  - Frances Bergen
+  - Frances Nimmo Greene
+  - Francisco Aragon
+  - Frank Camper
+  - Fred Hamm
+  - Fred Shuttlesworth
+  - Fritz Woehle
+  - Gadsden
+  - Gail Patrick
+  - Gail Strickland
+  - Gaineswood
+  - Garden of the Gods
+  - Gardendale
+  - GaryCooper
+  - Gayety
+  - George Bridges
+  - George Harmon Coxe
+  - George Wallace
+  - George Washington Carver
+  - Gertrude Michael
+  - Gladys Baker
+  - Glen Iris
+  - Glencoe
+  - Glenn House
+  - Goodwill
+  - Grand Theater
+  - Grantchester
+  - Grapico
+  - Green Springs
+  - Greensboro
+  - Greyhound
+  - Grissom High School
+  - Gunsmoke
+  - Guntersville
+  - Guy Morton
+  - Gwen Bristow
+  - Hal Kemp
+  - Hale County
+  - Hale Infirmary
+  - Halle Tanner Dillon
+  - Halloween
+  - Hardyville
+  - Harmony Graveyard
+  - Harper Lee
+  - Harris Transfer
+  - Harry Townes
+  - Hartselle
+  - Have Gun Will Travel
+  - Helen Keller
+  - Helena
+  - Henry Walthall
+  - Herb Siler
+  - Herdman F. Cleland
+  - Hermes
+  - Highwaymen
+  - Hillman
+  - Hillman Hospital
+  - Hilton
+  - Historama
+  - Hobbs
+  - Hollywood
+  - Holy Family Hospital
+  - Hoover
+  - Hormel
+  - Horseshoe Bend
+  - Hotel Hillman
+  - Hotel Reich
+  - Houston
+  - Howard College
+  - Hudson Strode
+  - Hugh Bagley
+  - Huntsville
+  - Ideal building
+  - Independence Day
+  - Interstate
+  - Iron and Railroad Company
+  - Irving Berlin
+  - Irvington
+  - Italians
+  - Jackie Gleason
+  - Jackie Greene
+  - Jacksonville
+  - James Agee
+  - James Agree
+  - James Hardy
+  - James Jones
+  - James S. McLester
+  - James Saxon Childers
+  - James Wilson Shores
+  - Jasper
+  - Jefferson County
+  - Jefferson Hospital
+  - Jefferson Tower
+  - Jemison
+  - Joan Crawford
+  - Joe Hardin
+  - Joe Louis
+  - Joe Pullum
+  - John Collier
+  - John Coltrane
+  - John Dodge
+  - John Emmett Boozer
+  - John Patterson
+  - John Philip Sousa
+  - John Vachon
+  - John Wayne
+  - John Wesley Hardin
+  - Johnny Mack Brown
+  - Joiner
+  - Joppa
+  - Joseph Holt Ingraham
+  - Joseph M. Field
+  - Judith Richards
+  - Judson College
+  - Judy Garland
+  - July 4
+  - Justina Ford
+  - Kansas
+  - Kate Jackson
+  - Kate Warne
+  - Katherine Emery
+  - Keystone
+  - Kilby Prison
+  - Kildare
+  - Kirkwood
+  - Kracke Building
+  - Kurt Weill
+  - Kwik Chek
+  - Labor Day
+  - Lacey's Spring
+  - Laceys Spring
+  - Laicos Club
+  - Lakeview
+  - Lakewood
+  - Lamar County
+  - Langdon Hall
+  - Langston Hughes
+  - Lee High School
+  - Lelias E. Kirby
+  - Liberty Bell
+  - Little River Canyon
+  - Livingston
+  - Lloyd's
+  - Locust Fork Band
+  - Loew's Temple Theatre
+  - Loew's Theatre
+  - Lois Wilson
+  - Lola Montez
+  - London
+  - Lotte Lenya
+  - Lottice Howell
+  - Louisa Shepard
+  - Louise Fletcher
+  - Louisiana
+  - Lucille Ball
+  - Lydia Shores
+  - Lyric Theatre
+  - Maltese Falcon
+  - Mamie Stover
+  - Maple Hill Cemetery
+  - Mardi Gras
+  - Margaret Cleaves
+  - Margaret Walker
+  - Marie Layet Sheip
+  - Marie Stanley
+  - Marilyn McCoo
+  - Marilyn Monroe
+  - Marion
+  - Mark Twain
+  - Marshall Buell
+  - Martian Chronicles
+  - Mary Anderson
+  - Maverick
+  - McAdory
+  - McWane Center
+  - Medical Alumni Building
+  - Melinda Dillon
+  - Memorial Day
+  - Mentone
+  - Methodist
+  - Mexico
+  - Michael McDowell
+  - Michelle Richmond
+  - Mickey Rooney
+  - Milburn Stone
+  - Milford W. Howard
+  - Miss Fancy
+  - Mobile
+  - Montevallo
+  - Montgomery
+  - Moon Winx
+  - Morgan County
+  - Morris Hotel
+  - Mother's Day
+  - Mount Olive
+  - Mount Vernon Mills
+  - Nat King Cole
+  - Native American
+  - Navy
+  - Ned Beatty
+  - New Orleans
+  - New Year
+  - New Year's Eve
+  - New York
+  - New York City
+  - Newsboy
+  - Niki's West
+  - Noel Coward
+  - Normal
+  - Norman W. Marsh
+  - Northport
+  - Norwood Hospital
+  - O.Henry
+  - O.V. Hunt
+  - Oak Hill Cemetery
+  - Oak Mountain State Park
+  - Octagon House
+  - Octavus Roy Cohen
+  - Odetta
+  - Oklahoma
+  - Old Tavern
+  - One Clear Call
+  - Oscar Micheaux
+  - Owens Cross Roads
+  - Oxanna
+  - Oxford
+  - P.T. Barnum
+  - Patrick O'Neill
+  - Peerless Saloon
+  - Pelham
+  - Pelham Cemetery
+  - Pelham High School
+  - Pepsi
+  - Perry County
+  - Peter Petroff
+  - Phenix City
+  - Phynx
+  - Pinkertons
+  - Pollard
+  - Powell School
+  - Powhatan
+  - Praco
+  - Pratt Coal and Coke Company
+  - Prentiss Ingraham
+  - Presbyterian
+  - Priceville
+  - Princess Theatre
+  - Progressive Farmer
+  - Quinlan Castle
+  - R.G. Armstrong
+  - Railroad Bill
+  - Rainbow Division
+  - Ray Bradbury
+  - Raymond Weeks
+  - Red Eagle
+  - Redmont
+  - Redstone Arsenal
+  - Relay House
+  - Riverchase Galleria
+  - Riverchase Middle School
+  - Robert Henley
+  - Robert Hunter
+  - Robert Jemison
+  - Robert McCammon
+  - Rock Hudson
+  - Roland Harper
+  - Rosa Parks
+  - Rosenberger's
+  - Ross Chemical Building
+  - Rotary Trail
+  - Rube Burrow
+  - Rush Hotel
+  - Russia
+  - Rutherford High School
+  - Saint Louis Blues
+  - Sallie Howard
+  - Samford Hall
+  - Samford University
+  - Samuel Minturn Peck
+  - Sarah Bernhardt
+  - Sarah Henderson Hay
+  - Savannah
+  - Scottsboro
+  - Selma
+  - Sewanee
+  - Shelby County
+  - Shelbyville
+  - Sheraton
+  - Shirley Ann Grau
+  - Shubert Theatre
+  - Sibyl Pool
+  - Siluria
+  - Simmsville
+  - Skyline Farms
+  - Smuteye
+  - Socialist Union Party
+  - Somerville
+  - Sonia Sanchez
+  - South City Theatre
+  - SouthTrust
+  - Soviet Union
+  - Space Camp
+  - Spheeris
+  - Spoilers
+  - St. Bernard College
+  - St. Elmo
+  - St. Mary's Episcopal
+  - St. Patrick's Day
+  - St. Vincent's Hospital
+  - Stark Love
+  - Stay Hungry
+  - Stephen Gresham
+  - Steven Ford Brown
+  - Stewart
+  - Susan Hayward
+  - Sylacauga
+  - T.S. Stribling
+  - TV Guide
+  - Talladega
+  - Talladega Tuskegee
+  - Tallassee
+  - Tallulah Bankhead
+  - Taylor-Tot
+  - Ted's
+  - Temple Theater
+  - Tennessee Coal
+  - Terminal Station
+  - Thanksgiving
+  - Theodore
+  - Thomas M. Owen
+  - Thomas Vivian McCoo
+  - Thorsby
+  - Thunder City Press
+  - Tivoli Theater
+  - Tom Roan
+  - Townley
+  - Trader Joe's
+  - Trail of Tears
+  - Traveling Executioner
+  - Troy
+  - Truman Capote
+  - Tuggle Institute
+  - Tuscaloosa
+  - Tuskaloosa
+  - Tuskegee
+  - Tyrone Power
+  - U-Haul
+  - U.S.S. Alabama
+  - UAB
+  - US Navy
+  - US231
+  - USO
+  - USS Alabama
+  - USS Errol
+  - Unclaimed Baggage
+  - Union Springs
+  - Union Station
+  - University of Alabama
+  - Upton Sinclair
+  - Valentine's Day
+  - Valhermoso Springs
+  - Valley Elementary School
+  - Valley Intermediate School
+  - Verne Collier
+  - Vestavia
+  - Veterans Day
+  - Viola Allen
+  - Vulcan
+  - W.C. Handy
+  - W.S. Newell
+  - Waffle House
+  - Walk of Fame
+  - Walker Evans
+  - Walt Whitman
+  - Wanda McKay
+  - Warren Pratt
+  - Waymon McCoo
+  - Wayne Rogers
+  - Weiss Lake
+  - Welcome monument
+  - Wetumpka
+  - Whiplash
+  - Wild West
+  - William Bradford Huie
+  - William Chambers Morrow
+  - William E. Vance
+  - William E.B. Davis
+  - William Harding
+  - William Iucho
+  - William March
+  - William P. McGivern
+  - William Stanley Hoole
+  - Wilmay
+  - Wilsonville
+  - Winston Groom
+  - Woodlawn
+  - Woodmen of the World
+  - Woodrow Hall
+  - World War I
+  - World War II
+  - Worrell Building
+  - Wyatt Blassingame
+  - YMCA
+  - YWCA
+  - Zora Neale Hurston
+  - abandoned
+  - actor
+  - actress
+  - advertising
+  - airport
+  - albums
+  - amphitheater
+  - anesthesia
+  - anesthesia machine
+  - anesthesiologist
+  - anesthesiology
+  - anniversary
+  - anthology
+  - antiques
+  - archaeology
+  - arnold diethelm
+  - art
+  - artesian well
+  - artist
+  - author
+  - authors
+  - aviation
+  - award
+  - baby
+  - baby stroller
+  - bake shop
+  - bank
+  - bank robbery
+  - barber shop
+  - baseball
+  - baseball cards
+  - battleship
+  - beach
+  - beads
+  - beard
+  - beer
+  - bestseller
+  - bicentennial
+  - bicycles
+  - blog
+  - blues
+  - bog
+  - book
+  - book cover
+  - book covers
+  - book festival
+  - book store
+  - bookmark
+  - bookmobile
+  - bookplate
+  - books
+  - bookstore
+  - bookstores
+  - botanical gardens
+  - bottlers
+  - boxer
+  - boxing
+  - boys
+  - brewing
+  - cabin
+  - cafe
+  - calculator
+  - camp
+  - candy
+  - capitol
+  - cartoon
+  - cedar chest
+  - cemeteries
+  - cemetery
+  - centennial
+  - certification
+  - chapel
+  - check
+  - children
+  - cholera
+  - chorus
+  - church
+  - cinema
+  - circus
+  - city directory
+  - civil rights
+  - coal
+  - coal mining
+  - coaster
+  - cocaine
+  - coffee
+  - coin
+  - comedian
+  - comic book
+  - comic strip
+  - concrete
+  - convict-lease
+  - county seat
+  - courthouse
+  - cover
+  - covers
+  - culture
+  - cyclone
+  - dad
+  - dead town
+  - delivery
+  - demonstration farm
+  - dentist
+  - depot
+  - detective
+  - dictionary
+  - dime novel
+  - directory
+  - dispensary
+  - doctor
+  - doctors
+  - drawings
+  - drink
+  - drive-in
+  - drug store
+  - education
+  - elephant
+  - empty
+  - encyclopedia
+  - enslen
+  - erotica
+  - exam
+  - exploitation
+  - fabric
+  - fame
+  - family
+  - family medicine
+  - fan
+  - farmer
+  - father
+  - female
+  - festival
+  - fiction
+  - film
+  - film noir
+  - films
+  - fire
+  - flight
+  - flyer
+  - football
+  - fortune telling
+  - fox trot
+  - foxtrot
+  - frog
+  - furnace
+  - furniture
+  - future
+  - garden
+  - gas station
+  - gift
+  - golf
+  - gourd show
+  - governor
+  - grandmother
+  - grave
+  - grist mill
+  - grocery
+  - gun club
+  - gunman
+  - guns
+  - half dollar
+  - hardware
+  - hats
+  - health
+  - high school
+  - highway
+  - history
+  - hoax
+  - hockey
+  - hogs
+  - holiday
+  - homecoming
+  - homewood
+  - hospital
+  - hotel
+  - house
+  - hymnal
+  - ice storm'
+  - immigrants
+  - inauguration
+  - industry
+  - infirmary
+  - invention
+  - inventor
+  - iron
+  - jazz
+  - jewelry
+  - journal
+  - journalist
+  - labor
+  - landscape
+  - laureates
+  - letter
+  - letters
+  - libraries
+  - library
+  - light
+  - lighthouse
+  - literary journal
+  - literature
+  - luggage
+  - lumber
+  - luna moth
+  - lunch
+  - lynching
+  - lynchings
+  - magazine
+  - mansion
+  - map
+  - marble
+  - marshal
+  - matchbook
+  - matchbook covers
+  - mayor
+  - meat packing
+  - medical
+  - medicine
+  - memorial
+  - menu
+  - meteorite
+  - migrants
+  - mines
+  - mining
+  - minstrel show
+  - minstrel song
+  - missile
+  - missiles
+  - model
+  - modelling
+  - modern times
+  - moon
+  - motel
+  - mothers
+  - motorcycle
+  - movie
+  - movies
+  - murder
+  - museum
+  - music
+  - natural history
+  - newsboys
+  - newspaper
+  - newspapers
+  - nickel
+  - novel
+  - novelist
+  - nurse
+  - oil
+  - orchestra
+  - ornaments
+  - orphans
+  - outlaw
+  - package
+  - painter
+  - painting
+  - palmistry
+  - palmists
+  - park
+  - pasta
+  - peach
+  - pecan tree
+  - penal
+  - pharmacy
+  - philately
+  - photograph
+  - photographer
+  - physician
+  - pine barren
+  - pizza
+  - plantation
+  - play
+  - poems
+  - poet
+  - poetry
+  - police
+  - poll tax
+  - post
+  - post office
+  - postage
+  - postcard
+  - poultry
+  - power
+  - preacher
+  - premiere
+  - printing
+  - prison
+  - prisoner
+  - prisons
+  - quarry
+  - queen
+  - radio
+  - railroad
+  - railroad station
+  - rally
+  - rammed earth
+  - ration
+  - record
+  - record albums
+  - resort
+  - rest area
+  - restaurant
+  - riot
+  - river
+  - riverwalk
+  - road
+  - robbery
+  - rockets
+  - rumor
+  - saloon
+  - sandstone
+  - school
+  - schools
+  - sculpture
+  - seeds
+  - serum
+  - sesquicentennial
+  - sewing
+  - ship
+  - ships
+  - shopping
+  - short stories
+  - show
+  - sign
+  - silent film
+  - silent films
+  - slave
+  - slavery
+  - slaves
+  - snow
+  - socialism
+  - soft drink
+  - soil
+  - song
+  - songs
+  - souvenir
+  - sports cards
+  - spy
+  - square
+  - stained glass
+  - stamp
+  - stamps
+  - stars
+  - state capital
+  - statistical
+  - statue
+  - steel mill
+  - stock certificate
+  - store
+  - stores
+  - strange
+  - streetcar
+  - stub
+  - studies
+  - submarine
+  - swearing
+  - symphony
+  - t-shirt
+  - talking pictures
+  - teacher
+  - television
+  - television station
+  - terminal
+  - territory
+  - terror
+  - test
+  - theater
+  - theatre
+  - ticket
+  - tonsillectomy
+  - tornado
+  - torso murders
+  - tourism
+  - town
+  - trading stamp
+  - train
+  - train robbery
+  - train station
+  - transportation
+  - travel
+  - tree
+  - trees
+  - trolley
+  - trunk
+  - turpentine
+  - turtle
+  - tv
+  - typewriter
+  - underground
+  - video
+  - vineyard
+  - vinyl
+  - waltz
+  - war
+  - water filtration
+  - water tower
+  - watercolor
+  - wavaho
+  - weather
+  - weird
+  - western
+  - widows
+  - wine
+  - winery
+  - woman
+  - women
+  - writer
+  - writers
+  - yellow pages
+  - zoo
+  - zoo Avondale Zoo
+  relme: {}
+  last_post_title: A Trip Down Memory Lane
+  last_post_description: ""
+  last_post_date: "2026-02-09T07:03:15-08:00"
+  last_post_link: https://alabamayesterdays.blogspot.com/2026/02/a-trip-down-memory-lane.html
+  last_post_categories:
+  - McWane Center
+  - Pelham
+  - Riverchase Galleria
+  - Valley Elementary School
+  last_post_language: ""
+  last_post_guid: e3b2b4241db5c6c8f38724289593da34
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 25
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 295
+---

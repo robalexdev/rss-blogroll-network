@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,15 +19,16 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: “Ever wonder what this pocket’s for?”
-  last_post_description: Like many of you, I was skeptical of the iPhone Pocket when
-    I first laid my eyes on the press release from Apple last week. Now is sort of
-    a tone deaf time for a high fashion collaboration, but
-  last_post_date: "2025-11-15T16:03:57-05:00"
-  last_post_link: https://parkerortolani.blog/2025/11/15/ever-wonder-what-this-pockets.html
+  last_post_title: Why Does a Smartwatch that was Dead for 10 Years Still Have the
+    Best Software Ecosystem?
+  last_post_description: I love smartwatches. In fact I’ve loved wrist worn tech since
+    I was a little kid. I’ve owned more than a dozen Apple Watches, several Android
+    Wear based watches, a variety of fitness-focused
+  last_post_date: "2026-01-10T15:41:22-05:00"
+  last_post_link: https://parkerortolani.blog/2026/01/10/why-does-a-smartwatch-that.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d09397a5c351a59ed5b193e45a91db18
+  last_post_guid: 06264bb963fae09cbf561f04fe0ac41a
   score_criteria:
     cats: 0
     description: 0
@@ -45,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 25
+  postcount: 6
   avgpostlen: 0
 ---

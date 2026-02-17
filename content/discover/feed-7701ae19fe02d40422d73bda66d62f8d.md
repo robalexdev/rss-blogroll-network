@@ -12,6 +12,9 @@ params:
   - title: Blogroll Network Seeds
     description: ""
     id: c33ed4f6ab2b4055fadbfad39d41c36e
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []

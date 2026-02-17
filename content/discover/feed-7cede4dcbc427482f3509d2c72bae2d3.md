@@ -23,6 +23,9 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a
@@ -33,6 +36,7 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []

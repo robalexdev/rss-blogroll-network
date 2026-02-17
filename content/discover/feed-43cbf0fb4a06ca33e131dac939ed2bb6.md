@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: John Updike’s Vocation
-  last_post_description: We’re rediscovering John Updike in the afterlife of a great
-    writer. The Selected Letters of John Updike, just published, come to 800 pages
-    of unguarded messages to his wives and lovers, to his
-  last_post_date: "2025-11-15T00:54:10Z"
-  last_post_link: https://radioopensource.org/john-updikes-vocation/
+  last_post_title: George Saunders on Life and the Afterlife
+  last_post_description: We’re going off script out here in the afterlife, in the
+    imagination of the triple-threat novelist George Saunders. He’s eminent as a writer
+    of stories and novels, as a critical reader, and as a
+  last_post_date: "2026-02-05T23:52:52Z"
+  last_post_link: https://radioopensource.org/george-saunders-on-life-and-the-afterlife/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 6570f3ba194d53d1a6aeab003709d3ca
+  last_post_guid: 27c06de97dcc928da3b5241b5ce4ecae
   score_criteria:
     cats: 1
     description: 3

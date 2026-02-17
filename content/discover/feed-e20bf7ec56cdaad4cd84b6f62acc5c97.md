@@ -11,40 +11,42 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - pm
-  - values
+  - action
+  - politics
+  - society
   relme: {}
-  last_post_title: 'Philosophy Mondays: Renewed Energy'
-  last_post_description: Between work, projects and travel I have missed many weeks
-    of writing on Philosophy Mondays. Thankfully during this time I have also gained
-    clarity that my fundamental goal with this series, which is
-  last_post_date: "2025-10-06T11:53:34Z"
-  last_post_link: https://continuations.com/philosophy-mondays-renewed-energy
+  last_post_title: What Now? Slow down the Worst & Build the New
+  last_post_description: 'If you want inspiration for this moment in time I have two
+    recommendations: watch Babylon Berlin and read the Foundation Trilogy. They are
+    roadmaps for living a moral life in a time of profound'
+  last_post_date: "2026-01-25T01:45:36Z"
+  last_post_link: https://continuations.com/what-now-slow-down-the-worst-and-build-the-new
   last_post_categories:
-  - pm
-  - values
+  - action
+  - politics
+  - society
   last_post_language: ""
-  last_post_guid: bc74a71c5964f22edc28954ea8bc7c0a
+  last_post_guid: 2b93bceb4f1627a229ae54c8c3aecbcc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

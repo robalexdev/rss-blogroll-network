@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: I absolutely LOVE woodworking
-  last_post_description: I've been a homeowner for about 20 years, and in that time
-    I picked up a handful of DIY skills, but my work was always sloppy due to my limited
-    experience. I was envious of uncles or neighbors with
-  last_post_date: "2026-01-09T06:00:59Z"
-  last_post_link: https://a.wholelottanothing.org/i-absolutely-love-woodworking/
+  last_post_title: Heavyweight on Minnesota raids
+  last_post_description: One of the best podcasts on earth is Heavyweight, where a
+    guy named Jonathan helps people solve incredibly personal, difficult lifelong
+    problems. He does it with a staff of researchers, a tenacious
+  last_post_date: "2026-02-06T18:58:19Z"
+  last_post_link: https://a.wholelottanothing.org/heavyweight-on-minnesota-raids/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fc7f95a5a0e987f18d9dba5b69874836
+  last_post_guid: 8263e4a7c784911c7a9a31d7f207f0f8
   score_criteria:
     cats: 0
     description: 3

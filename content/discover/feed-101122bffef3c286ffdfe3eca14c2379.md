@@ -12,6 +12,9 @@ params:
   - title: HN Personal Websites
     description: ""
     id: 2d06252d862b16b20bf508ffad823c50
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd

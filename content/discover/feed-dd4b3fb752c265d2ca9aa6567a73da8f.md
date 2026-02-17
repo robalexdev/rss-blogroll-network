@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,15 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Elon Musk’s trillion-dollar paycheck depends on the markets he’s
-    losing
-  last_post_description: As Tesla struggles in markets beyond the U.S., Chinese automakers
-    are winning from Southeast Asia to Europe.
-  last_post_date: "2025-11-13T11:00:00Z"
-  last_post_link: https://restofworld.org/2025/elon-musk-trillionaire/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+  last_post_title: China’s AI giants launch “red envelope” marketing blitz for Lunar
+    New Year
+  last_post_description: Alibaba, Tencent, and Baidu pledge millions and race to release
+    new models before the holiday—fearing a new "DeepSeek shock" might steal the spotlight.
+  last_post_date: "2026-02-05T21:05:21Z"
+  last_post_link: https://restofworld.org/2026/chinas-ai-giants-launch-red-envelope-marketing-blitz-for-lunar-new-year/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69b2ccffcc0bf0c8f8043c025fadfdd4
+  last_post_guid: 11f64ed942e63aaccc1dccd891b09e88
   score_criteria:
     cats: 0
     description: 3

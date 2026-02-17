@@ -7,17 +7,22 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
+    https://www.nathalielawhead.com/candybox: true
     https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories:
   - Games
-  relme: {}
+  relme:
+    https://www.nathalielawhead.com/candybox: true
   last_post_title: One whole year of video game recommendations
   last_post_description: The EU game scene was always something I admired from a distance.
     All the quirky interesting events that you'd only hear about when you attended
@@ -37,10 +42,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 17
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,6 +19,9 @@ params:
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -27,10 +30,12 @@ params:
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
+  - https://jlelse.blog/.min.rss
   categories: []
   relme: {}
   last_post_title: Oh Right, I Have A Blog

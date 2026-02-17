@@ -10,6 +10,9 @@ params:
     https://rsms.me/: false
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Adam Keys - Blogroll
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099

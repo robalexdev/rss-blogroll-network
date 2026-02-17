@@ -13,6 +13,9 @@ params:
   - title: RSS Feeds for Clayton's Blogroll
     description: ""
     id: aaf2b657c92a09dcd64da99b46d7a193
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e

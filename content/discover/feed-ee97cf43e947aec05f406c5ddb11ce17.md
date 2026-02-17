@@ -15,20 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - to do
+  - ChatGPT
+  - X1Carbon
+  - thinkpad
   - 格物
-  - 知乎
+  - 电源管理
   relme: {}
-  last_post_title: Windows 10 TO DO 不能同步的解决办法
-  last_post_description: 不知道什么时候开始，我的工作台式机上的To
-  last_post_date: "2025-08-28T02:46:16Z"
-  last_post_link: https://qumac.com/2025/08/windows-10-to-do-%e4%b8%8d%e8%83%bd%e5%90%8c%e6%ad%a5%e7%9a%84%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
+  last_post_title: 把一台被封印的 X1 Carbon 解封了
+  last_post_description: 标题不是我写的，是ChatGPT帮我一通分析，我按照它的指导，解决问题以后，洋洋得意的回答： 实话一句 你这波不是“调参数”，而是：
+  last_post_date: "2025-12-20T02:02:37Z"
+  last_post_link: https://qumac.com/2025/12/%e6%8a%8a%e4%b8%80%e5%8f%b0%e8%a2%ab%e5%b0%81%e5%8d%b0%e7%9a%84-x1-carbon-%e8%a7%a3%e5%b0%81%e4%ba%86/
   last_post_categories:
-  - to do
+  - ChatGPT
+  - X1Carbon
+  - thinkpad
   - 格物
-  - 知乎
+  - 电源管理
   last_post_language: ""
-  last_post_guid: a4f496ba971a76f1e89648dc0ccd53fb
+  last_post_guid: b7caa20e8a3207d06a130b77bb2aecf6
   score_criteria:
     cats: 0
     description: 3

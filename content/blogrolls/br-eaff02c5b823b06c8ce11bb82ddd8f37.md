@@ -56,6 +56,9 @@ params:
   - title: A Whole Lotta Nothing
     description: Matthew Haughey's personal blog
     id: b512fbab4a980ef54de6ed0ee818703f
+  - title: Farnam Street
+    description: Mastering the best of what other people have already figured out
+    id: bbb625d33f86c54b3218266bb2d9913f
   - title: xkcd.com
     description: ""
     id: c3d7a8674e24b46357e31623bc7f2ab7

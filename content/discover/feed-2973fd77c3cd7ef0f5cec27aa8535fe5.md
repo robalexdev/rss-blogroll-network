@@ -1,13 +1,13 @@
 ---
 title: Chris Wiegman
 date: "1970-01-01T00:00:00Z"
-description: Technology | Leadership | Education
+description: Engineering manager, developer, teacher and mentor building teams and
+  products focused on humane and sustainable technology.
 params:
   feedlink: https://chriswiegman.com/feed/
   feedtype: rss
   feedid: 2973fd77c3cd7ef0f5cec27aa8535fe5
-  websites:
-    https://chriswiegman.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Ian Betteridge - Blogroll
@@ -16,24 +16,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Home
-  - Personal
-  - Reflection
-  - Work
+  - Blogging
+  - Technology
+  - Tools
   relme: {}
-  last_post_title: 2 Months, 2 Years and a Lifetime
-  last_post_description: This week marks a couple of anniversaries for me. Two years
-    ago yesterday we drove away from Sarasota for the first of 3 trips to move us
-    here to Chicago and two months ago yesterday was my last day
-  last_post_date: "2025-10-08T12:48:22Z"
-  last_post_link: https://chriswiegman.com/2025/10/2-months-2-years-and-a-lifetime/
+  last_post_title: Better Taxonomy Management for Hugo with VS Code
+  last_post_description: Learn how to maintain consistent Hugo categories and tags
+    using VS Code snippets and autocomplete for better content organization.
+  last_post_date: "2026-02-02T08:00:00-06:00"
+  last_post_link: https://chriswiegman.com/2026/02/better-taxonomy-management-for-hugo-with-vs-code/
   last_post_categories:
-  - Home
-  - Personal
-  - Reflection
-  - Work
+  - Blogging
+  - Technology
+  - Tools
   last_post_language: ""
-  last_post_guid: 91d9f5069007cd17554620745c095d7c
+  last_post_guid: 8e8d3f8eb132476a2c34b8bb47593a4e
   score_criteria:
     cats: 0
     description: 3
@@ -45,12 +42,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 20
+  postcount: 30
   avgpostlen: 0
 ---

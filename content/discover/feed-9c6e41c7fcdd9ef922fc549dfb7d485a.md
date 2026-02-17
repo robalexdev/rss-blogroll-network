@@ -12,7 +12,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -241,6 +241,7 @@ params:
   - 15 Avenue A
   - 15 Avenue B
   - 150 E. Second St.
+  - 150 Rivington St.
   - 151 Avenue A
   - 151 Avenue B
   - 151 Avenue C
@@ -414,6 +415,7 @@ params:
   - "2023"
   - "2024"
   - 2024 closings
+  - "2025"
   - 203 E. 13th St.
   - 204 Avenue A
   - 204 E. 13th St.
@@ -445,8 +447,10 @@ params:
   - 219 First Avenue
   - 21E12
   - 22 Bond St.
+  - 22 St. Mark's Place
   - 220 Avenue a
   - 220 E. 9th St.
+  - 221 2nd Ave.
   - 222 Bowery
   - 222 E. 12th St.
   - 222 E. 13th Street
@@ -573,6 +577,7 @@ params:
   - 302 Bowery
   - 302 E. Second St.
   - 303 E. 12th St.
+  - 303 E. 9th St.
   - 304 Mulberry St.
   - 305 E. 11th St. and 310 E. 12th St.
   - 306 Bowery
@@ -581,6 +586,7 @@ params:
   - 309 E. Eighth St.
   - 309 E. Houston St.
   - 31 Third Ave.
+  - 31-33 2nd Avenue
   - 31-33 Second Avenue
   - 310 E
   - 310 E. Ninth St.
@@ -841,6 +847,7 @@ params:
   - 57 Second Ave.
   - 57 St. Mark's Place
   - 57th Street
+  - 58 2nd Ave.
   - 58 3rd Ave.
   - 58 Avenue B
   - 58 E. 1st St.
@@ -966,6 +973,7 @@ params:
   - 80 E. Second St.
   - 80 St. Mark's Place
   - 809 Broadway
+  - 81 1St Ave.
   - 813 Broadway
   - 82 E. 10th St.
   - 82 E. Third St.
@@ -991,6 +999,7 @@ params:
   - "886"
   - 89 First Ave.
   - 8bc
+  - 8bit
   - 8th Street Winecellar
   - 9 Avenue B
   - 9 Bleecker St.
@@ -1013,6 +1022,7 @@ params:
   - 94 Avenue C
   - 94 St. Mark's Place
   - 94-96 Avenue A
+  - 95 2nd Ave.
   - 95 Avenue A
   - 95 Avenue B
   - 95 E. Seventh St.
@@ -1057,6 +1067,7 @@ params:
   - ': East Village history'
   - ': East Village streetscenes'
   - ': anniversaries'
+  - ': cannabis'
   - A
   - A & C Kitchen
   - A Building
@@ -1175,6 +1186,7 @@ params:
   - Aliens of Brooklyn
   - Alison
   - All Saints Ukrainian Orthodox Church
+  - All Street Gallery
   - All The King's Horses Cafe
   - All Tomorrow's Parties
   - All-Star game
@@ -1327,6 +1339,7 @@ params:
   - Arrow Bar
   - Art Around the Park
   - Art Bike Parade
+  - Art Bodega
   - Art Gotham
   - Art Loisaida Foundation
   - Art on A
@@ -1465,6 +1478,7 @@ params:
   - BRUD
   - Ba
   - Baar Baar
+  - Baba Doner
   - Babe Ruth
   - Babel Lounge
   - Babeland
@@ -1565,6 +1579,7 @@ params:
   - Barrier Free Living
   - Barry Manilow refrigerator magnets
   - Barry McGee
+  - Barryville General
   - Bars at dawn
   - Bartender Wars
   - Basic Plus
@@ -1638,6 +1653,7 @@ params:
   - Berlin — Under A
   - Bernie Madoff
   - Bernie Sanders
+  - Beron Beron
   - Beronberon
   - Berry Mania
   - Bespoke Chocolates
@@ -1665,6 +1681,7 @@ params:
   - Big Lee's
   - Big Pink
   - Big in England
+  - Biga Bite
   - BikeFix NYC
   - Biker Bill
   - Bikes by George
@@ -1920,6 +1937,7 @@ params:
   - Budget Mart
   - Budget car rental
   - Budweiser
+  - Buena Vista
   - Buffalo Exchange
   - Buffalo Wild Wings
   - Bugs
@@ -2376,6 +2394,7 @@ params:
   - Community Board 3
   - Community Council
   - Community Grocery & Candy
+  - Community Kitchen
   - Company
   - Company Bar and Grill
   - Compare Foods
@@ -2510,6 +2529,7 @@ params:
   - D.L. Cerney
   - DA Alvin Bragg
   - DBGB
+  - DEP
   - DEP shaft site
   - DF Mavens
   - DHS
@@ -2635,6 +2655,7 @@ params:
   - December 2021
   - December 2023
   - December 2024
+  - December 2025
   - Decision 2016
   - Dee Dee Ramone
   - Deep Playa Bike Ride
@@ -2799,6 +2820,7 @@ params:
   - Dry Dock Playground
   - Dry Dock Pool
   - Dryden Gallery
+  - Drāvida Indian Diaspora
   - Dua Kafe
   - Dua Kafe Wine + Beer
   - Dual Specialty Store
@@ -3613,6 +3635,7 @@ params:
   - Glizzy's
   - Globe Slicers
   - Glosslab
+  - Gnihton
   - Gnocchi on 9th
   - Gnocco
   - Go Nightclubbing
@@ -3621,6 +3644,7 @@ params:
   - God
   - God help us
   - Gods
+  - Godunk
   - Godzilla
   - Gold Street
   - Golden Cadillac
@@ -3692,6 +3716,7 @@ params:
   - Grassroots
   - Grassroots Tavern
   - Gratin
+  - Gray Art Museum
   - Great GoogaMooga
   - Great Jones
   - Great Jones Cafe
@@ -3702,6 +3727,7 @@ params:
   - Green Acres
   - Green Garden Buffet
   - Green Land Gourmet Deli
+  - Green Line
   - Green Oasis Community Garden
   - Green Thumb
   - Green Wave
@@ -3895,6 +3921,7 @@ params:
   - Hokkaido Baked Cheese Tart
   - Holiday
   - Holiday Cocktail Lounge
+  - Holiday Inn
   - Holland
   - Holland Bar
   - Holland Tunnel
@@ -4165,6 +4192,7 @@ params:
   - January 2023
   - January 2024
   - January 2025
+  - January 2026
   - Janus
   - Japadog
   - Japapdog
@@ -4378,6 +4406,7 @@ params:
   - Just for Fen
   - Justin Bieber
   - Justin Binder
+  - Justin's Salt Bread
   - K'ook
   - KC Gourmet Empanadas
   - KEBABISHQ
@@ -4548,6 +4577,7 @@ params:
   - Kurve
   - Kushner Cos.
   - Kushnerville
+  - Kyle de Vre
   - Kyp Malone
   - Kyu Ramen
   - Kyuramen
@@ -4652,6 +4682,7 @@ params:
   - Lazarides on the Bowery
   - Lazarides the Bowery
   - Lazy Bulldog Cafe
+  - Lazy Bulldog Coffee
   - Le Burger
   - Le Café Coffee
   - Le Fournil
@@ -4929,6 +4960,7 @@ params:
   - Madman Espresso
   - Madonna
   - Madonna's old house
+  - Mag New York City
   - Maggie Estep
   - Magnetic Fields
   - Magnolia Bakery
@@ -5155,6 +5187,7 @@ params:
   - Met Food
   - Met Foods
   - Met Fresh
+  - Metro Acres Market
   - MetroCard
   - MetroPCS
   - Metrograph
@@ -5281,6 +5314,7 @@ params:
   - Molecule
   - Molly Fitch
   - Molly Ringwald
+  - Molly's Coffee House
   - Mom's Liquor
   - Momofucko
   - Momofuko
@@ -5299,6 +5333,7 @@ params:
   - Montauk Salt Cave
   - Montessori school
   - Moody Tongue
+  - Moon Coffee Lab
   - Moonraker
   - Moonstruck Diner
   - Moonstruck Eatery
@@ -5349,6 +5384,7 @@ params:
   - Mr. Throwback
   - Mr. White
   - Mrs. Green
+  - Much Obliged
   - Mud Truck
   - Mudspot
   - Mudspot Café
@@ -5623,6 +5659,7 @@ params:
   - Northern Lights
   - Northern Spy
   - Northwest East Village
+  - Norwich Meadows Farm
   - Nostro
   - Not Jesus
   - Not as Bitter
@@ -5635,6 +5672,7 @@ params:
   - November 2022
   - November 2023
   - November 2024
+  - November 2025
   - Novum EV
   - Now I'm just being stupid
   - Now Now NoHo
@@ -5683,6 +5721,7 @@ params:
   - Octoberfest
   - Odd Eye NYC
   - OddFellows
+  - Oddball
   - Odessa
   - Odessa Cafe
   - Odessa Cafe and Bar
@@ -5733,6 +5772,7 @@ params:
   - Open Road Park
   - Open Strees
   - Open Your Lobby
+  - Opening the Edge
   - Ophelia
   - Opheum
   - Opportunity Zone
@@ -5754,6 +5794,7 @@ params:
   - Orologio
   - Orpheum
   - Orpheum Theatre
+  - Orthodox Cathedral of the Holy Virgin Protection
   - Os Gêmeos
   - Osaka Grub
   - Osakana
@@ -5874,6 +5915,7 @@ params:
   - Paul and Monica Shay
   - Paul's Boutique
   - Paul's Da Burger Joint
+  - Paulie Gee's East Village Slice Shop
   - Paulie Gee's Slice Shop
   - Pause Cafe
   - Pavlo Mochi
@@ -5982,11 +6024,13 @@ params:
   - Pitbull
   - Pizza Bagel Cafe
   - Pizza Girls
+  - Pizza Hut
   - Pizza Loves Sauce
   - Pizza Pazzo
   - Pizza Pusha
   - Pizza Rollio
   - Pizza Shop
+  - Pizza Studio Tamaki
   - Plado
   - Planet Fitness
   - Planet Rose
@@ -6375,12 +6419,14 @@ params:
   - Rynn
   - S & P Liquor & Wine
   - S Klein
+  - S&S Bliss
   - S'MAC
   - SAFH
   - SBJSA
   - SBS
   - SEO baby
   - SHI MIAODAO Yunnan Rice Noodle
+  - SKWR
   - SLA
   - SLCT Stock
   - SMØR
@@ -6430,7 +6476,6 @@ params:
   - Sam Rockwell
   - Same Old Gallery
   - Sami & Susu
-  - Sammy
   - Sammy L Coffee
   - Sammy's Halal
   - Sammy's Roumanian Steak House
@@ -6469,6 +6514,7 @@ params:
   - SantaCon 2022
   - SantaCon 2023
   - SantaCon 2024
+  - SantaCon 2025
   - SantaCon Detour
   - Santander
   - Santcon
@@ -6675,6 +6721,7 @@ params:
   - Sleepy's
   - Slider's
   - Sliders
+  - Slik
   - Slopey Joe
   - Slowear
   - Slum Goddess
@@ -6682,6 +6729,7 @@ params:
   - Smacked LLC
   - Smart Smokers
   - Smashed
+  - Smashed NYC
   - Smell it like Beckham
   - Smilers
   - Smileys
@@ -7194,6 +7242,7 @@ params:
   - The Beacon
   - The Best Damn Breakfast Burrito
   - The Big Dip
+  - The Big Johnson
   - The Big U
   - The Birdman
   - The Black 6 Coffee Trading Co.
@@ -7480,6 +7529,7 @@ params:
   - Thirstea Café tea shop
   - Thirteen East + West
   - Thirty Love
+  - Thirty Love Sports & Leisure
   - This Little Piggy Had Roast Beef
   - This could be Heaven or this could be Hell
   - This is what
@@ -7528,6 +7578,7 @@ params:
   - Tiny's
   - Tio Pio
   - Tipsy Shanghai
+  - Tipsy Village
   - Tish and Snooky
   - Titi's
   - Titi's Empanadas
@@ -7552,6 +7603,7 @@ params:
   - Tom Selleck
   - Tom Snyder
   - Tom Verlaine
+  - Tom Waits
   - Tom's Juice
   - Tommy Hilfiger
   - Tommy Ramone
@@ -7587,6 +7639,7 @@ params:
   - Tompkins Square Park quinzhee
   - Tompkins Square Park riots
   - Tompkins Square Park. Temperance Fountain
+  - Tompkins Square ParkGreenmarket
   - Tompkins Square Psrk
   - Tompkins Square Station
   - Tompkins Village Cafe
@@ -7632,6 +7685,7 @@ params:
   - Treasure Chest
   - Tree Bistro
   - Tree Riders
+  - Tree Riders NYC
   - Tree Tops
   - TreeCycle
   - Treeman
@@ -7877,6 +7931,7 @@ params:
   - Virgin Megastore
   - Virginia's
   - Virgola
+  - Visit Sicily NYC
   - Vita Rat
   - Vitamin Shop
   - Vitamin Shoppe
@@ -7935,6 +7990,7 @@ params:
   - Water Taxi Beach
   - Water Witch
   - Wattle Cafe
+  - Wayne & Co.
   - Wayne & Sons
   - Wayne Kramer
   - We pack and deliver like UPS trucks
@@ -8612,6 +8668,7 @@ params:
   - closings 2023
   - closings 2024
   - closings 2025
+  - closings 2026
   - closoings 2021
   - closures 2021
   - closures 2022
@@ -9519,6 +9576,7 @@ params:
   - leads
   - leaf blowers
   - leaks
+  - leaning bars
   - leaves
   - leg lights
   - legal washer dryers
@@ -10393,10 +10451,12 @@ params:
   - snow in October
   - snow man
   - snow news day
+  - snow people
   - snow squall
   - snow tires are for pussies
   - snowboarding
   - snowffiti
+  - snowing
   - snowmen
   - snowplow
   - snowplows
@@ -10658,6 +10718,7 @@ params:
   - the Blue Door
   - the Bowery
   - the Bowery Hotel
+  - the Bowery Palace
   - the Bowery Presents
   - the Bowery. zoning
   - the Breeders
@@ -11242,19 +11303,16 @@ params:
   - Íxta
   - Ănjelly
   relme: {}
-  last_post_title: The Tacos Nachos truck on 7th and B
-  last_post_description: |-
-    The Tacos Nachos truck recently arrived on the NW corner of Seventh Street and Avenue B. There is an extensive menu featuring tacos, burritos, tortas, nachos, quesadillas, and more.
-
-
-
-    We haven't
-  last_post_date: "2025-11-15T15:39:00Z"
-  last_post_link: http://evgrieve.com/2025/11/the-tacos-nachos-truck-on-7th-and-b.html
+  last_post_title: Memorial outside St. Mark’s Church in-the-Bowery defaced again
+  last_post_description: Last night, someone defaced the memorial outside St. Mark's
+    Church-in-the-Bowery at 10th Street and Second Avenue — crossing out the message
+    "Our dignity cannot be erased" and writing "Shame on
+  last_post_date: "2026-02-05T20:20:00Z"
+  last_post_link: http://evgrieve.com/2026/02/memorial-outside-st-marks-church-in.html
   last_post_categories:
-  - The Tacos Nachos truck
+  - St. Mark's Church-in-the-Bowery
   last_post_language: ""
-  last_post_guid: eb0c3ec162c7d03a3aecd9936a03383b
+  last_post_guid: 5a288697ad06f28f57df6d1e72cacf72
   score_criteria:
     cats: 5
     description: 3

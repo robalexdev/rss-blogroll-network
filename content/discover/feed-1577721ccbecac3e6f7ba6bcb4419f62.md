@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -19,24 +19,24 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - Inside Nelio
-  - Nelio A/B Testing
+  - Nelio Content
   - Plugin Releases & Updates
   - Plugins
   relme: {}
-  last_post_title: Nelio A/B Testing 8.1 – Improved Inline Tests and New Conversion
-    Actions
-  last_post_description: Nelio A/B Testing 8.1 is here! This update introduces CSS
-    and Text Tests for quick, on-the-fly tweaks without page redirects, plus new conversion
-    actions to track user engagement and form submissions
-  last_post_date: "2025-09-11T15:11:00Z"
-  last_post_link: https://neliosoftware.com/blog/nelio-ab-testing-8-1-improved-inline-tests-and-new-conversion-actions/
+  last_post_title: Nelio Content 4.2 — Faster onboarding and smarter links (with your
+    favorite shorteners)
+  last_post_description: |-
+    Nelio Content 4.2 introduces a three-step guided setup for faster onboarding and flexible link shortening with popular services, plus a tidy deactivation cleanup.
+    The post Nelio Content 4.2 —
+  last_post_date: "2026-01-23T16:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/nelio-content-4-2-guided-setup-link-shorteners/
   last_post_categories:
   - Inside Nelio
-  - Nelio A/B Testing
+  - Nelio Content
   - Plugin Releases & Updates
   - Plugins
   last_post_language: ""
-  last_post_guid: b7277ccf42e1b12a2e77e7870e4184ac
+  last_post_guid: 1d741713d5c03c76960eb7d806d053f4
   score_criteria:
     cats: 0
     description: 3

@@ -8,11 +8,17 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
+    https://frills.dev/blog: false
     https://frills.dev/blog/: false
+    https://frills.dev/bookmarks: false
     https://frills.dev/bookmarks/: false
+    https://frills.dev/changelog: false
     https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295

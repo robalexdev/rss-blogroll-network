@@ -27,12 +27,15 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
+  - https://jlelse.blog/.min.rss
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: When Was I Happiest?

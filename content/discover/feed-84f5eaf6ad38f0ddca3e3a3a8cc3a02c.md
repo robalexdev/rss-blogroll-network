@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
@@ -20,16 +20,16 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Rialto, XXVIII
+  last_post_title: Police station, I
   last_post_description: |-
-    Washington, October 2025.
-    From the video Pushing it a bit too far at the Olympic Peninsula coast.
-  last_post_date: "2025-11-15T20:00:00Z"
-  last_post_link: https://aows.co/blog/2025/11/15/rialto-xxviii
+    Michigan, January 2026.
+    From the video I made a rookie mistake.
+  last_post_date: "2026-02-04T20:21:21Z"
+  last_post_link: https://aows.co/blog/2026/2/4/police-station-i
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: 3dce5053afb5895f9fadef27c5ab1910
+  last_post_guid: 0296e3a2f4f757f01d902d15fd259471
   score_criteria:
     cats: 0
     description: 3

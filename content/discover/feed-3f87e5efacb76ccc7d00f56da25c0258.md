@@ -18,6 +18,9 @@ params:
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c
@@ -29,6 +32,7 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
   - https://ttntm.me/likes/feed.xml

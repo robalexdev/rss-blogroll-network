@@ -12,47 +12,42 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Boston
-  - News
-  - Politics
+  - Arts
   relme: {}
-  last_post_title: How federal policy changes may upend efforts to end homelessness
-    in Mass.
-  last_post_description: Joyce Tavon heads the nonprofit Massachusetts Housing and
-    Shelter Alliance. She joined WBUR's All Things Considered to explain why she thinks
-    new federal homelessness assistance requirements will
-  last_post_date: "2025-11-14T18:00:33-05:00"
-  last_post_link: https://www.wbur.org/upnext/2025/11/14/massachusetts-homelessness-federal-policy-changes
+  last_post_title: A new art exhibit centers women's experiences of the Holocaust
+  last_post_description: At Brandeis University, the exhibit "Who Will Draw Our History?"
+    features 10 female artists and their work depicting life during and after the
+    Holocaust. "I'm really struck by their call to duty and
+  last_post_date: "2026-02-05T19:04:38-05:00"
+  last_post_link: https://www.wbur.org/upnext/2026/02/05/womens-narratives-holocaust-exhibit-brandeis-university
   last_post_categories:
-  - Boston
-  - News
-  - Politics
+  - Arts
   last_post_language: ""
-  last_post_guid: 723da560299c6d943607b423bbcacbc8
+  last_post_guid: 9b307f1a4bd9e9eebd168000400a73a6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 20
+  postcount: 100
   avgpostlen: 0
 ---

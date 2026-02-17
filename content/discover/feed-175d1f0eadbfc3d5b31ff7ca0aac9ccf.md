@@ -9,13 +9,11 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Links for Josh Betz
+  - title: Kagi Small Web OPML
     description: ""
-    id: e95f4bbd4e48a622672e6ca597d8f4b3
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
-  recommender:
-  - https://josh.blog/comments/feed
-  - https://josh.blog/feed
+  recommender: []
   categories:
   - grief
   - philosophy

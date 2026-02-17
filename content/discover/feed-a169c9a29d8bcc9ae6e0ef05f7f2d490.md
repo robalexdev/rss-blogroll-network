@@ -13,6 +13,9 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
@@ -20,6 +23,7 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Made in 2025

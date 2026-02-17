@@ -11,7 +11,7 @@ params:
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.4.
+      by feedlandDatabase v0.8.14.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
   recommender:
@@ -20,20 +20,20 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - CogDog It
-  - Cool Tool Fool
+  - Doing It Daily
+  - Photography
   relme: {}
-  last_post_title: Weird Web Widgets Weally Work!
-  last_post_description: Now who the bleep is generating my titles? Oh (spotting a
-    mirror). This was a bit of sideways fun, but come to appreciate a bit of likely
-    Google actually goodness woven into my blog. Hang on,
-  last_post_date: "2025-11-15T23:53:38Z"
-  last_post_link: https://cogdogblog.com/2025/11/weird-web-widgets/
+  last_post_title: Thirst for the First (month of daily photos in 2026)
+  last_post_description: After 18 years of doing daily photos where many years they
+    were not done daily, 2025 was a return to form with not only a self high-fiving
+    it for going 365/365 (first time since 2018) but also 12/12
+  last_post_date: "2026-01-31T18:59:06Z"
+  last_post_link: https://cogdogblog.com/2026/01/thirst-first-daily-photos/
   last_post_categories:
-  - CogDog It
-  - Cool Tool Fool
+  - Doing It Daily
+  - Photography
   last_post_language: ""
-  last_post_guid: bd11fbe465c125325f17e544a6c2d92c
+  last_post_guid: 7bd886350f9208136832c2c6f0315b64
   score_criteria:
     cats: 0
     description: 3

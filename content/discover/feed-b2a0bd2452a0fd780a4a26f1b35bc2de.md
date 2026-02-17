@@ -10,41 +10,22 @@ params:
     https://colly.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
-    description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
+  recommender: []
   categories: []
   relme:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: The texture of the work
-  last_post_description: I’ve been drawing comfort from the way established artists
-    will typically vanish for a while and suddenly re-appear with a fully-formed new
-    body of work.          By established artists, I mean
-  last_post_date: "2025-11-11T14:00:00Z"
-  last_post_link: https://colly.com/journal/the-texture-of-the-work
+  last_post_title: 2025 in music
+  last_post_description: "Here’s my 22nd annual roundup: sixty short reviews across
+    five categories, plus shows, stats and playlists. It gets more ridiculous every
+    year, but I do it to myself, I do.          \nAppreciate"
+  last_post_date: "2025-12-20T15:40:00Z"
+  last_post_link: https://colly.com/journal/twenty-twentyfive-in-music
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9

@@ -11,13 +11,11 @@ params:
     https://alastairjohnston.com/hello/: false
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
+  - title: Kagi Small Web OPML
     description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
-  - https://colinwalker.blog/livefeed.xml
+  recommender: []
   categories:
   - unmachined
   relme: {}

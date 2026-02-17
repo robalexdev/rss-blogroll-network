@@ -12,7 +12,10 @@ params:
     https://marisabel.nl/: true
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
-  in_blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended:
   - https://100daysof.blog/feed.xml
   - https://alexandrawolfe.ca/feed/
@@ -130,6 +133,10 @@ params:
   - https://www.wackomenace.co.uk/blog/rss.xml
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/posts_feed
+  - https://ashk.au/atom-bookmarks.xml
+  - https://ashk.au/atom.xml
+  - https://bne.social/@ash.rss
+  - https://www.goodreads.com/review/list_rss/11559548
   - https://beccais.online/excerpts.xml
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
@@ -223,12 +230,12 @@ params:
     hasContent: 0
     hasPosts: 3
     postcats: 1
-    promoted: 0
+    promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 30
   ispodcast: false
   isnoarchive: false
   innetwork: true

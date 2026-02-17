@@ -8,9 +8,13 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
+    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
@@ -18,6 +22,7 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Much to the chagrin of all of my enemies, I am still alive and

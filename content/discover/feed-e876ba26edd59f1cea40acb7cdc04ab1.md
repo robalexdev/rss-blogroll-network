@@ -22,22 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 糖之妙效
-  last_post_description: |-
-    酸酸的桑葚
-    浸入醇甜的酒酿
-    清苦的苦瓜
-    敷上蜂蜜
-    腥的肉丝　抖进糖砂
-    大火中浓郁的香
-    无味的硬花生　搅进糖稀
-    停不下来的嘎嘣
-    煮开花的绿豆　冻进
-  last_post_date: "2022-07-20T00:00:00Z"
-  last_post_link: https://yihui.org/cn/2022/07/sugar-effect/
+  last_post_title: 我心似海洋
+  last_post_description: 淡淡的情感 / 有时候 / 却能绵绵 /
+  last_post_date: "2026-01-12T00:00:00Z"
+  last_post_link: https://yihui.org/cn/2026/01/heart-sea/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0682d4e9889106d6c6d5dc5687c6d40
+  last_post_guid: b819b3c9fd2e197148a577a700612fac
   score_criteria:
     cats: 0
     description: 3

@@ -11,38 +11,51 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - Sustainability
   - Uncategorized
+  - coops
+  - fediverse
+  - grant
+  - interledger
+  - webmonetization
   relme: {}
-  last_post_title: Building Human Rights Into the Social Web
-  last_post_description: Last week Mallory and the Internet Exchange team hosted a
-    series of events related to human rights and the social web at MozFest 2025 in
-    Barcelona. Mallory joined Rabble on the revolution.social
-  last_post_date: "2025-11-15T11:03:07Z"
-  last_post_link: https://socialwebfoundation.org/2025/11/15/building-human-rights-into-the-social-web/
+  last_post_title: Grant for the Web to Make the Fediverse More Sustainable, Democratic,
+    and Fun
+  last_post_description: Thanks to the Interledger Foundation for their generous Grant
+    for the Web to the Social Web Foundation. With the help of ILF, we are launching
+    a new program area focused on economic issues on the
+  last_post_date: "2026-02-04T14:50:52Z"
+  last_post_link: https://socialwebfoundation.org/2026/02/04/grant-for-the-web-to-make-the-fediverse-more-sustainable-democratic-and-fun/
   last_post_categories:
+  - Sustainability
   - Uncategorized
+  - coops
+  - fediverse
+  - grant
+  - interledger
+  - webmonetization
   last_post_language: ""
-  last_post_guid: 027881a30a13cd7423a64eafa1295064
+  last_post_guid: fd3c4d45f353a19394f8bf856d314da3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -44,6 +44,7 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
+  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
@@ -79,6 +80,8 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
+  - https://blog.citp.princeton.edu/comments/feed/
+  - https://blog.citp.princeton.edu/feed/
   - https://intellectualoid.com/comments/feed/
   - https://jabberwocking.com/comments/feed/
   - https://kimberlyhirsh.com/feed.xml
@@ -86,6 +89,7 @@ params:
   - https://ma.tt/comments/feed/
   - https://memex.naughtons.org/comments/feed/
   - https://memex.naughtons.org/feed/
+  - https://mitchwagner.com/feed.xml
   - https://om.co/comments/feed/
   - https://om.co/feed/podcast
   - https://pluralistic.net/comments/feed/

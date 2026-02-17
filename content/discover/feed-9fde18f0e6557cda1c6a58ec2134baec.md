@@ -7,10 +7,14 @@ params:
   feedtype: rss
   feedid: 9fde18f0e6557cda1c6a58ec2134baec
   websites:
+    https://trysmudford.com/: false
     https://www.trysmudford.com/: false
     https://www.trysmudford.com/blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e

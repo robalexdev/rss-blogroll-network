@@ -13,6 +13,9 @@ params:
   - title: Jakarta Blogs
     description: ""
     id: 30b01ccfd22b02c97d3e1c5222e14c24
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories:

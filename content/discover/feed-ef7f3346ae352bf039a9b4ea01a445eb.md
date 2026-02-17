@@ -14,6 +14,9 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender:
   - http://scripting.com/rss.xml

@@ -21,8 +21,12 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://feeds.feedburner.com/johnjohnston
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
+  - https://johnjohnston.info/blog/category/wwwd/feed/
+  - https://johnjohnston.info/blog/comments/feed/
+  - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
   last_post_title: Hoe mijn weken zijn gevuld

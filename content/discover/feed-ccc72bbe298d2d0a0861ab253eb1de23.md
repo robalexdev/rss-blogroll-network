@@ -20,6 +20,7 @@ params:
   recommender:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
+  - https://jlelse.blog/.min.rss
   categories: []
   relme:
     https://stanislas.blog/: true

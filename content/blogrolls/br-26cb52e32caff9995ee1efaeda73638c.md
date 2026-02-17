@@ -9,6 +9,9 @@ params:
   - title: Robin's Blog
     description: A remote-sensing PhD student talking about interesting things...
     id: 044061c47a1854a17fcb2094e7f699e7
+  - title: Aerotwist Blog
+    description: Pretty much whatever comes into my head.
+    id: 0773bb002aadbdcb66b098e7dad07d46
   - title: null program
     description: ""
     id: 17dd7afe54839563bc45bc1e7f82b945
@@ -27,9 +30,15 @@ params:
   - title: Engineering at Meta
     description: Engineering at Meta Blog
     id: 22ddc33b5fc962f534fcfd2f61a8b911
+  - title: Advanced Web Machinery
+    description: ""
+    id: 281188fe607dd32404c82820faa94d1b
   - title: Huon on the internet
     description: ""
     id: 2add22a3fbd943d0fe9fc2d780b9c55b
+  - title: Lacking Rhoticity
+    description: ""
+    id: 2edd1d4870356aa6c4fb1d058023c392
   - title: Evan Jones - Software Engineer | Computer Scientist
     description: I'm a software engineer at Datadog in New York. I previously worked
       at Bluecore, fixed interesting bugs at Twitter, and taught a database class
@@ -51,6 +60,10 @@ params:
   - title: Auth0 Blog
     description: Company Updates, Technology Articles from Auth0
     id: 57f38eb3c32795e22b046473279cd2c5
+  - title: Adam Bard writes about making websites on Adam Bard, Handsome Web Developer
+    description: Recent content in Adam Bard writes about making websites on Adam
+      Bard, Handsome Web Developer
+    id: 5dd4d4c2cd5e8c51716dd340c2c21a87
   - title: <antirez>
     description: Description pending
     id: 5f4a046e8951b2d2ca8434cc0fc34da2
@@ -67,6 +80,9 @@ params:
   - title: The Clean Code Blog
     description: ""
     id: 6a4fafe957952469db07d8a2d6e2b79f
+  - title: trivago tech blog
+    description: Insights, experiences and learnings from trivago's tech teams.
+    id: 6e0a2599987214658e500dcd8b4d3891
   - title: Marek's idea of the day
     description: ""
     id: 7355ee2ebb19333badfb0396a88dba9d
@@ -85,6 +101,13 @@ params:
   - title: daniel.haxx.se
     description: curl, open source and networking
     id: 8124fcbf635fbd84bfb08145027257d4
+  - title: Bad Concurrency
+    description: Misadventures in Concurrent and Parallel programming, plus random
+      comments on software performance and various OSS contributions.
+    id: 876bc10d3708d8dbdb5c1df8e99aa55c
+  - title: Life plus Linux
+    description: All about Machine Learning, Linux, Android, Web and of course Life
+    id: 888b8f1bb72be0ac495606db73f30be4
   - title: Mary Rose Cook
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech
       lead at Airtable in San Francisco.
@@ -92,12 +115,20 @@ params:
   - title: Send More Paramedics
     description: λ λ λ
     id: 901e5c350fc13bcdffcfff68dd8e2535
+  - title: Etsy Engineering | Code as Craft
+    description: 'The engineers who make Etsy make our living with a craft we love:
+      software. This is where we''ll write about our craft and our collective experience
+      building and running the world''s most vibrant'
+    id: 91817b8c91b3b13a6a287d547a4c4f30
   - title: Monica Dinculescu
     description: ""
     id: 9ed58f466104e74b8e5f8d7a32d0335c
   - title: ""
     description: Recent content on
     id: a16a577535e82033ae3b9d3848702dba
+  - title: Practically Efficient
+    description: Practically Efficient is Eddie Smith's personal blog.
+    id: a1960d80c5d70d411fffb0967bec4db3
   - title: Eli Bendersky's website
     description: ""
     id: a795eef34b13dabbc2a969386d47d9a8
@@ -138,6 +169,9 @@ params:
   - title: Real Python
     description: ""
     id: cab00c5269781af0520037cb759572f0
+  - title: Peter Norvig
+    description: Articles by Peter Norvig
+    id: cf5708e8bb0f98977ca83bdfcf9fb786
   - title: Julia Evans
     description: ""
     id: d90120327a3aa08790f4a1669c180620

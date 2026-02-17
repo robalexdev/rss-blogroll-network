@@ -6,6 +6,9 @@ params:
   link: https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Cryptography.opml
   blogroll_id: 8b5ebcdfeb57f68bea9d232e8fe6b4c2
   recommends:
+  - title: Frank DENIS random thoughts.
+    description: ""
+    id: 0a4abd3cb3e5f93839b08544b7970ea6
   - title: Tim Taubert
     description: ""
     id: 4ae1c0d993d1187120902c21a4c3b86d
@@ -35,6 +38,9 @@ params:
   - title: cr.yp.to blog
     description: D. J. Bernstein's personal weblog.
     id: aafbeb9953862b99aed13cd1cc07b499
+  - title: Adam Caudill
+    description: Recent content on Adam Caudill
+    id: d5a3ddb5dee7408697799d685767289f
   - title: Azimuth
     description: ""
     id: f7ebe004411ae79047320dca07bbc467

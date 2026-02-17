@@ -1,6 +1,6 @@
 ---
 title: Eleventy Blog
-date: "2025-11-03T00:00:00Z"
+date: "2026-01-05T00:00:00Z"
 description: News and updates about the Eleventy static site generator project.
 params:
   feedlink: https://11ty.dev/blog/feed.xml
@@ -19,13 +19,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: How We Use GitHub Issues and How That’s Changing
+  last_post_title: Eleventy, 2025 in Review
   last_post_description: ""
-  last_post_date: "2025-11-03T00:00:00Z"
-  last_post_link: https://www.11ty.dev/blog/github-issues/
+  last_post_date: "2026-01-05T00:00:00Z"
+  last_post_link: https://www.11ty.dev/blog/review-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b5505902eb72960f5658e55c90aa3074
+  last_post_guid: 9a586600bd78e4e192fedf988ebf63a0
   score_criteria:
     cats: 0
     description: 3
@@ -44,5 +44,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 262
+  avgpostlen: 263
 ---

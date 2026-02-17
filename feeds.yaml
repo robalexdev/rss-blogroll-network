@@ -9,6 +9,13 @@ feed_urls:
   - https://www.morerss.com/zh.opml
   - https://blogs.hn/blogs.hn.opml
   - https://hnpwd.github.io/hnpwd.opml
+  - https://kagi.com/smallweb/opml
+
+  # TODO
+  # https://github.com/usgpo/rss/tree/master/opml
+  # https://github.com/Martinviv/rss-sources/tree/main/recommended
+  # https://github.com/cudeso/OPML-Security-Feeds
+  # https://raw.githubusercontent.com/Identosphere/identity-blogcatcher/refs/heads/master/planetid.ini
 
   #
   # Planets
@@ -122,17 +129,47 @@ feed_urls:
   - https://redecentralize.org/redigest/2022/kthxbye/redigest_feed_recommendations.opml
 
   # Via repos
-  # https://raw.githubusercontent.com/Identosphere/identity-blogcatcher/refs/heads/master/planetid.ini
   - https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
+  - https://github.com/kilimchoi/engineering-blogs/raw/refs/heads/master/engineering_blogs.opml
   - https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
   - https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
+  - https://raw.githubusercontent.com/Ranchero-Software/NetNewsWire/refs/heads/main/Shared/Importers/DefaultFeeds.opml
+  - https://raw.githubusercontent.com/XXIIVV/webring/refs/heads/main/webring.opml
+  - https://raw.githubusercontent.com/Yegorov/awesome-ruby-blogs/refs/heads/master/opml/all.opml
+  - https://raw.githubusercontent.com/geekplux/share/refs/heads/main/RSS_subscriptions.opml
+  - https://raw.githubusercontent.com/ginobefun/BestBlogs/refs/heads/main/BestBlogs_RSS_ALL.opml
+  - https://raw.githubusercontent.com/heng30/rssbox-android/refs/heads/main/data/rss-cn.opml
+  - https://raw.githubusercontent.com/heng30/rssbox-android/refs/heads/main/data/rss-en.opml
+  - https://raw.githubusercontent.com/impressivewebs/frontend-feeds/refs/heads/master/frontend-feeds.opml
+  - https://raw.githubusercontent.com/itgoyo/Follow-RSS/refs/heads/master/Feeds.opml
+  - https://raw.githubusercontent.com/kaizensoze/security-blogs/refs/heads/master/security_blogs.opml
+  - https://raw.githubusercontent.com/llunbot/personal-feeds/refs/heads/main/feeds.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_bg.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_ca.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_de.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_en.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_es.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_eu.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_fa.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_fr.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_gl.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_he.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_hu.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_id.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_it.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_nl.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_no.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_pl.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_pt.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_pt_BR.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_sk.opml
+  - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_sv.opml
+  - https://raw.githubusercontent.com/peterc/engblogs/refs/heads/master/engblogs.opml
+  - https://raw.githubusercontent.com/rgnlax/Feeds-for-iOS-Developer/refs/heads/master/subscriptions.opml
   - https://raw.githubusercontent.com/ssnkhan/adversarial-threat-modelling/refs/heads/master/CTI-DFIR-Feeds.opml
   - https://raw.githubusercontent.com/timqian/chinese-independent-blogs/refs/heads/master/feed.opml
-  - https://raw.githubusercontent.com/peterc/engblogs/refs/heads/master/engblogs.opml
-  - https://raw.githubusercontent.com/Ranchero-Software/NetNewsWire/refs/heads/main/Shared/Importers/DefaultFeeds.opml
-  - https://raw.githubusercontent.com/geekplux/share/refs/heads/main/RSS_subscriptions.opml
-  - https://raw.githubusercontent.com/impressivewebs/frontend-feeds/refs/heads/master/frontend-feeds.opml
-  - https://github.com/kilimchoi/engineering-blogs/raw/refs/heads/master/engineering_blogs.opml
+  - https://raw.githubusercontent.com/ziem/android-development-blogs/refs/heads/master/android-development-blogs.opml
+
 
   # theplanetarium
   - https://davorg.theplanetarium.org/opml.xml
@@ -205,10 +242,6 @@ feed_urls:
   # https://github.com/Martinviv/rss-sources (low stars)
   # https://indieblog.page/all (no OPML)
 
-  # Kagi Small Web / Small Comics
-  # Kagi has an OPML, but the RSS field is incorrect. Fix that?
-  #- https://raw.githubusercontent.com/kagisearch/smallweb/refs/heads/main/smallcomic.txt
-  #- https://raw.githubusercontent.com/kagisearch/smallweb/refs/heads/main/smallweb.txt
 
 
 output_mode:

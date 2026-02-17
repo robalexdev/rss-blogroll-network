@@ -12,6 +12,9 @@ params:
   - title: Articles by Aaron Parecki
     description: ""
     id: 04771e3320b44a0e37cc8de8ad3d8722
+  - title: Stan's blog
+    description: Recent content on Stan's blog
+    id: 06ec1ee4eb49931cbb87a87747e6f5e7
   - title: Brain Baking
     description: Freshly Baked Thoughts by Wouter Groeneveld
     id: 089c9db489cfeaf58be3a5376674b2c2
@@ -27,7 +30,7 @@ params:
     description: ""
     id: 13fa1dbc7c4db6c364433da06e1896ec
   - title: Jan-Lukas Else
-    description: Thoughts of an IT expert
+    description: "just moved to janlukas.blog \U0001F4E6"
     id: 1573472a394e6160c361f1d49bc69148
   - title: zerokspot.com
     description: Recent content on zerokspot.com
@@ -58,6 +61,9 @@ params:
   - title: Tim Hårek
     description: ""
     id: 3f21dfb53e1d102a0f9c84a8a3cc151a
+  - title: Luke’s Wild Website
+    description: Now with more mayonnaise!
+    id: 4685ae84966feff5e12e3b849531b6ea
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
@@ -74,7 +80,7 @@ params:
     description: Ben Borgers’ personal website.
     id: 5d017cf3df4845836c01d3a419118726
   - title: Jon Worth
-    description: Independent railway commentator
+    description: Independent Railway Commentator
     id: 61a94025d87b544bb3104f1508c59c20
   - title: Herman's blog
     description: Hi I'm Herman Martinus. I'm a maker of things, rider of bikes, and

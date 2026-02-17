@@ -1,0 +1,47 @@
+---
+title: Zettelkasten.de
+date: "2026-02-03T17:29:12Z"
+description: ""
+params:
+  feedlink: https://zettelkasten.de/feed.atom
+  feedtype: atom
+  feedid: 3aa72bf9eb7a7e1f3ddb8462f4c11b01
+  websites:
+    https://zettelkasten.de/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories: []
+  relme: {}
+  last_post_title: Should You Have a Note Goal Per Day? How To Quantify Creativity
+    to Boost Creative Performance
+  last_post_description: ""
+  last_post_date: "2026-02-03T17:29:12Z"
+  last_post_link: https://zettelkasten.de/posts/should-you-have-a-note-goal-per-day/
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: 3a8ebac48213e0449f116e6284c7ca60
+  score_criteria:
+    cats: 0
+    description: 0
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 16
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 40
+  avgpostlen: 296
+---

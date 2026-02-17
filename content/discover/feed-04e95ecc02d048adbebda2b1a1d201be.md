@@ -1,6 +1,6 @@
 ---
 title: Lars-Christian's website - Posts
-date: "2025-11-15T21:30:03Z"
+date: "2026-02-05T21:30:29Z"
 description: Recent blog posts
 params:
   feedlink: https://lars-christian.com/feed/
@@ -12,18 +12,21 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Forty
+  last_post_title: It's disappointing every time
   last_post_description: ""
-  last_post_date: "2025-10-21T00:00:00Z"
-  last_post_link: https://lars-christian.com/posts/2025-10-21-forty//
+  last_post_date: "2026-02-05T00:00:00Z"
+  last_post_link: https://lars-christian.com/posts/2026-02-05-its-disappointing-every-time/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6dc9a302e6d69a56335e6e3fd1993249
+  last_post_guid: 376fc2623f366cae09de80136623405d
   score_criteria:
     cats: 0
     description: 3
@@ -42,5 +45,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 268
+  avgpostlen: 297
 ---

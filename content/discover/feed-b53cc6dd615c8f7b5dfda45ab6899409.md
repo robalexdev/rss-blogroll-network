@@ -18,6 +18,7 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
+  - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []

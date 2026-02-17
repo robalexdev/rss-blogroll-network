@@ -16,6 +16,9 @@ params:
   - title: A webring for ghosts, witches, and other mysterious creatures!
     description: ""
     id: e388f9734ab226df5402c97331110720
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295

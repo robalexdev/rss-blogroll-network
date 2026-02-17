@@ -30,8 +30,10 @@ params:
   recommender:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
+  - https://jlelse.blog/.min.rss
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
+  - https://marisabel.nl/rss.php
   categories:
   - development
   relme: {}

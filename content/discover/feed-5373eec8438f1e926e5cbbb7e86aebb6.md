@@ -12,28 +12,27 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.3.
+      feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Investigations
+  - News
   - Woodstock
   relme: {}
-  last_post_title: ‘Why Would We Pay to Live in Danger?’ Inside a Woodstock Building’s
-    Long Decline
-  last_post_description: Guinevere Sandy stood outside her apartment door at 6 Studio
-    Lane in Woodstock, her infant daughter Naliyah gazing up at the ceiling from her
-    hip. A sign on the wall read “you are loved,” but the
-  last_post_date: "2025-11-14T05:53:55Z"
-  last_post_link: https://theoverlooknews.com/why-would-we-pay-to-live-in-danger-inside-a-woodstock-buildings-long-decline/
+  last_post_title: Lizzie Vann Sells Former Tinker Street Cafe to Happylife for $999,000
+  last_post_description: The owners of Happylife Productions bought the former Tinker
+    Street Cafe at 59 Tinker St. from local entrepreneur Lizzie Vann for $999,000,
+    securing a long-term future for their Woodstock-based arts
+  last_post_date: "2026-02-05T21:37:15Z"
+  last_post_link: https://theoverlooknews.com/lizzie-vann-sells-former-tinker-street-cafe-to-happylife-for-999000/
   last_post_categories:
-  - Investigations
+  - News
   - Woodstock
   last_post_language: ""
-  last_post_guid: 86f1fc253efdc2b69e10aba30286b402
+  last_post_guid: 4b6e139136262f99700de934fa81102c
   score_criteria:
     cats: 0
     description: 3

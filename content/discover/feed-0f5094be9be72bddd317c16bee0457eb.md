@@ -1,0 +1,703 @@
+---
+title: A Radical Cut In The Texture Of Reality
+date: "2026-02-14T16:40:49-05:00"
+description: ""
+params:
+  feedlink: https://radicalcut.blogspot.com/atom.xml
+  feedtype: atom
+  feedid: 0f5094be9be72bddd317c16bee0457eb
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - 2500 Random Things About Me Too
+  - A Radical Cut in the Texture of Reality
+  - A User’s Guide to Authenticity is a Feeling
+  - A poem by Jacob Wren
+  - A.J.A. Symons
+  - AI
+  - Aaron Bushnell
+  - Aaron Kreuter
+  - Aase Berg
+  - Abdelaziz Baraka Sakin
+  - Abortion
+  - Adam Phillips
+  - Adventures Can Be Found Anywhere
+  - Adventures can be found anywhere même dans la mélancolie
+  - Alain Badiou
+  - Alban Lefranc
+  - Albert Camus
+  - Albert Cossery
+  - Alejandra Riera
+  - Aleksandr Solzhenitsyn
+  - Alessandro Yazbeck
+  - Alethea Arnaquq-Baril
+  - Alexander Melamid
+  - Alexandro Jodorowsky
+  - Alexei Perry Cox
+  - Alexis Pauline Gumbs
+  - Alicia Garza
+  - All That Jazz
+  - Allison Hargreaves
+  - Alvaro Mutis
+  - Ama Ata Aidoo
+  - Amna Elhassan
+  - Amy Fusselman
+  - An essay by Jacob Wren
+  - Anaïs Duplan
+  - Andrea Fraser
+  - Andrea Long Chu
+  - Andrew Solomon
+  - Andrzej Stasiuk
+  - André Forget
+  - Animism
+  - Ann Snitow
+  - Anne Boyer
+  - Anne Golden
+  - Anselm Franke
+  - Anthology of Optimism
+  - Antje Majewski
+  - Anton Chekhov
+  - Antonio Machado
+  - Aravinda Ananda
+  - Ariana Reines
+  - Art
+  - Art and Sport
+  - Arthur Ashe
+  - Artificial Respiration
+  - Assiyah Jamilla Touré
+  - Astrology
+  - Atelier populaire des Beaux-Arts
+  - Audre Lorde
+  - Authenticity is a Feeling
+  - Author Royalties
+  - Bandcamp
+  - Barbara Browning
+  - Barbara Taylor
+  - Bela Shayevich
+  - Belle & Sebastian
+  - Bernadette Mayer
+  - Bertolt Brecht
+  - Beth Loffreda
+  - Betsy Warland
+  - Beusoliel
+  - Bhanu Kapil
+  - Big Brother where art thou?
+  - Big Other Book Awards
+  - BigOther
+  - Black Lives Matter
+  - Blaise Cendrars
+  - Bobby Gillespie
+  - Books
+  - Books I Started But Couldn't Finish
+  - Boris Groys
+  - Boy George
+  - Boycott Giller
+  - Brian Holmes
+  - Brian Massumi
+  - Bridget Collins
+  - Bronfman Fellowship in Contemporary Art
+  - Bruno Latour
+  - Bureau de l’APA
+  - C Magazine
+  - C.E.
+  - Caetano Veloso
+  - Camilla Townsend
+  - Camp Migizi
+  - Carl Pope
+  - Carmen Faye Mathes
+  - Carmen Maria Machado
+  - Carol Treadwell
+  - Carolyn Forché
+  - Catherine Fatima
+  - Catherine Lacey
+  - Catherine Lord
+  - Catherine Valéry
+  - Chamber of Public Secrets
+  - Chaos & Star Records
+  - Chapel Road
+  - Cherríe Moraga
+  - Chris Finley
+  - Chris Kraus
+  - Christiana Figueres
+  - Christina Sharpe
+  - Claude Cahun
+  - Claudia La Rocco
+  - Claudia Rankine
+  - Coastal Lines Press
+  - Combahee River Collective
+  - Concentration
+  - Concept Touring
+  - Connie Bruck
+  - Cornel West
+  - Cornelius Cardew
+  - Cornelius Castoriadis
+  - Critical Optimism
+  - Curieux manuel de dramaturgie pour le théâtre la danse et autres matières à changement
+  - 'Cyclonopedia: Complicity with Anonymous Materials'
+  - César Aira
+  - Daft Punk
+  - Dan Graham
+  - Dana Inkster
+  - Daniel Canty
+  - Dark Money
+  - David Bowie
+  - David Garneau
+  - David Graeber
+  - David Grubbs
+  - David Jefferess
+  - David Markson
+  - David Shields
+  - David Smail
+  - David Velasco
+  - Demita Frazier
+  - Democracy
+  - Desire Without Expectation
+  - Diamela Eltit
+  - Disappearing Things
+  - Ditte Maria Bjerg
+  - Domenica Martinello
+  - Donald Trump
+  - Dora García
+  - Douglas A. Martin
+  - Dr. Ahmet Yusuf
+  - Drexel Burnham
+  - Dry Your Tears to Perfect Your Aim
+  - E.M. Cioran
+  - Eduardo Viveiros de Castro
+  - Edwyn Collins
+  - Elena Stoodley
+  - Elizabeth Grosz
+  - Elizabeth Martínez
+  - Elon Musk
+  - Emily Coyle
+  - Emily Gilbert
+  - Emma Murray
+  - Empire of Neomemory
+  - Enrique Vila-Matas
+  - Enters
+  - Erin Brubacher
+  - Erin Hill
+  - Erin Markey
+  - Eruditio ex Memoria
+  - Eugene Lim
+  - Eugene Thacker
+  - Eunsong Kim
+  - Eva Neklyaeva
+  - Evan Calder Williams
+  - Every Song I've Ever Written
+  - Every Song I’ve Ever Written
+  - Excerpts from Authenticity is a Feeling
+  - Excerpts from Jacob Wren novels
+  - FTA
+  - Facebook
+  - Failure
+  - Faithful Unbeliever
+  - Fame
+  - Families Are Formed Through Copulation
+  - Fanny Howe
+  - Favourite Things
+  - Felisberto Hernández
+  - Felix Guattari
+  - Feral Trade
+  - Fernando Pessoa
+  - Festspillene i Nord-Norge
+  - Four Sentences
+  - Fr. Rolfe
+  - Fragment
+  - France Daigle
+  - Frances Collins
+  - Frances Stark
+  - Francesca Albanese
+  - Francesca Polletta
+  - Francisco Goldman
+  - Franco Berardi
+  - Frank Sinatra
+  - Fred Moten
+  - Frederick Douglass
+  - Fredric Jameson
+  - Free Palestine
+  - Fuck Theory
+  - Gandhi
+  - Gang of Four
+  - Gavsborg
+  - Gene Ray
+  - Geneviève Robichaud
+  - Georges Bataille
+  - Gianni Celati
+  - Gianni Vattimo
+  - Giller Foundation
+  - Giller Prize
+  - Gilles Deleuze
+  - Giorgio Agamben
+  - Giovanni Arrighi
+  - Girls in Peacetime Want to Dance
+  - Global Warming
+  - Guillermo del Toro
+  - Gundega Laiviņa
+  - Gustav Mahler
+  - Gustavo Esteva
+  - Gustaw Herling
+  - Guy Debord
+  - Gwen MacGregor
+  - Gérard Fromanger
+  - HOSPITALITÉ / HOSPITALITY
+  - HOUSE Of ALL
+  - Hampton Fancher
+  - Hannah Black
+  - Hans Ruin
+  - Hans-Peter Feldmann
+  - Harmony Korine
+  - Harry Mathews
+  - Henri Michaux
+  - Henry Flynt
+  - Henry Green
+  - Henry Jaglom
+  - Henry Louis Gates Jr.
+  - Heriberto Yépez
+  - Hieronymus Bosch
+  - Hildegard Knef
+  - Hip Hop
+  - Hospitality
+  - How Literature Saved My Life
+  - Howard Becker
+  - Hugo Ball
+  - I Want To Start Again
+  - INVASORIX
+  - If our wealth is criminal then let’s live with the criminal joy of pirates
+  - Ihara Saikaku
+  - Immanuel Kant
+  - IndigoKillsKids
+  - Individualism
+  - Ingeborg  Bachmann
+  - Inger Christensen
+  - Ingo Niermann
+  - 'Inhabit: A Permaculture Perspective'
+  - Isabelle Stengers
+  - Islands of Decolonial Love
+  - J. C. Sutcliffe
+  - Jacob Wren
+  - Jacob Wren Chapbooks
+  - Jacob Wren One Page Bio
+  - Jacob Wren Patreon
+  - Jacob Wren YouTube Playlists
+  - Jacquelyn Zong-Li Ross
+  - Jacques Rancière
+  - Jacques Roubaud
+  - Jane Mayer
+  - Japan
+  - Jas M. Morgan
+  - Jasna Zmak
+  - Jasper Johns
+  - Jay-Z
+  - Jean Claude Fignolé
+  - Jean Renoir
+  - Jean-Luc Godard
+  - Jean-Luc Nancy
+  - Jef Ellise Barbara
+  - Jeff Parker
+  - Jehnny Beth
+  - Jenifa Mayanja
+  - Jennifer Lucy Allan
+  - Jens Peter Jacobsen
+  - Jeremy Gordon
+  - Jeremy M. Davies
+  - Jericho Brown
+  - Jessa Crispin
+  - Jesse B. Staniforth
+  - Jesse Eckerlin
+  - Jill Magid
+  - Jodi Dean
+  - Jody Chan
+  - John Ashbery
+  - John Cage
+  - John D. Rockefeller
+  - John Dewey
+  - John Gianvito
+  - John Prine
+  - Jordy Rosenberg
+  - Jorge Herralde
+  - Joseph Cohen
+  - Joshua Clover
+  - José María Arizmendiarrieta
+  - João Maria Gusmão + Pedro Paiva
+  - Juan de Mairena
+  - Juliana Spahr
+  - Julie Carr
+  - Junction Reads
+  - Junie Morrison
+  - Justice For Jermaine
+  - Kamissa Ma Koïta
+  - Karen Tei Yamashita
+  - Kari Marie Norgaard
+  - Karissa Chen
+  - Kate Valk
+  - Katherine Stewart
+  - Kathy Acker
+  - Keeanga-Yamahtta Taylor
+  - Keiji Haino
+  - Kevin Coval
+  - Kim Stanley Robinson
+  - Kirill Medvedev
+  - Kraftwerk
+  - Krakow
+  - Kristen Ross
+  - La Règle du jeu
+  - La famille se crée en copulant
+  - La joie criminelle des pirates
+  - Lance Olsen
+  - Laura Riding
+  - Lauren Berlant
+  - Le Quartanier
+  - Le génie des autres
+  - Leah Lakshmi Piepzna-Samarasinha
+  - Leanne Betasamosake Simpson
+  - Leanne Simpson
+  - Lee Ann Wang
+  - Lene Berg
+  - Leszek Kolakowski
+  - Leszek Kołakowski
+  - Lidija Haas
+  - Lilly Dancyger
+  - Links
+  - Lisa Cohen
+  - Lisa Robertson
+  - Lisa Wells
+  - Lisbon
+  - Lists
+  - Literature Will Be Tested
+  - Little Richard
+  - Liz Worth
+  - Lloyd Cole
+  - Loneliness
+  - Lonesome Leash
+  - Lorraine O’Grady
+  - Louis Paul Boon
+  - Louis Philippe
+  - Luc Boltanski
+  - Luigi Mangione
+  - Luther Konadu
+  - Lynne Tillman
+  - M. NourbeSe Philip
+  - MFAs Against Genocide
+  - Macedonio Fernández
+  - Macklemore
+  - Maggie Nelson
+  - Maher Shalal Hash Baz
+  - Mai-Thu Perret
+  - Malcolm Sutton
+  - Manifestos
+  - Manuela Pacella
+  - Marcia Tucker
+  - Marco Jacquemet
+  - Marco Roth
+  - Marguerite Duras
+  - Marguerite Young
+  - Maria Irene Fornes
+  - Mariame Kaba
+  - Marianne Faithfull
+  - Mark Fisher
+  - Mark White
+  - Mark von Schlegell
+  - Martin Aitken
+  - Martin Herbert
+  - Mary Zournazi
+  - Mascot Front
+  - Masha Tupitsyn
+  - 'Master of the Game: Steve Ross and the creation of Time Warner'
+  - Matias Viegener
+  - Mattilda Bernstein Sycamore
+  - Maurizio Cattelan
+  - May ’68 and Its Afterlives
+  - McKenzie Wark
+  - McNally Jackson
+  - Media Farzin
+  - Meet The Bug
+  - Metonymy Press
+  - Michael DeForge
+  - Michael Doucet
+  - Michael Eddy
+  - Michael Jordan
+  - Michael Wolff
+  - Michèle Le Doeuff
+  - Michèle Montrelay
+  - Mid-year list
+  - Miguel Gomes
+  - Miguel Gutierrez
+  - Mika Hannula
+  - Mina Loy
+  - Miranda July
+  - Mirjam Bayerdörfer
+  - Mistakist Declaration
+  - Modern Lovers
+  - Mois Multi
+  - Momus
+  - Mondragon
+  - Money Selling Poison
+  - Monica Byrne
+  - Monika Romstein
+  - Mopus
+  - Moyra Davey
+  - Mozart’s Sister
+  - Music
+  - My Apologies
+  - Myung Mi Kim
+  - Nantali Indongo
+  - National Arts Centre
+  - Nelson Rockefeller
+  - Neoliberalism
+  - Nicholas Mosley
+  - Nicholas Ridout
+  - Nick Romeo
+  - Nicolas Galeazzi
+  - Nina Power
+  - Nina Simone
+  - Nora Samaran
+  - Nuar Alsadir
+  - Oil
+  - Oisín Curran
+  - Olivier Assayas
+  - One Yes & Many Know
+  - Oral Method
+  - Out of Print
+  - PACBI
+  - PME-ART
+  - PYNE
+  - Palestine
+  - Pandemic
+  - Paragraphe Hugh MacLennan Prize for Fiction
+  - Parenthetical Girls
+  - Past Present Future Etc
+  - Patreon
+  - Patricia Boushel
+  - Patti Smith
+  - Paul Celan
+  - Paul Chan
+  - Paul Collins
+  - Paul Valéry
+  - Paul Williams
+  - Pavement
+  - Pedro Costa
+  - Per Højholt
+  - Percival Everett
+  - Perfect Performance Festival
+  - Permaculture
+  - Perverse Curating
+  - Pessimism
+  - Peter Linebaugh
+  - Peter Perrett
+  - Peter Pál Pelbart
+  - Peter Schjeldahl
+  - Phantom of the Paradise
+  - Picasso Baby
+  - Pier Paolo Pasolini
+  - Pierre Boulez
+  - Pierre Hadot
+  - Polyamorous Love Song
+  - Promiscuous Bewilderment
+  - PuSh International Performing Arts Festival
+  - Qiu Miaojin
+  - Quentin Crisp
+  - Quinton Barnes
+  - Quotations On
+  - Quotes
+  - Rachel Kaadzi Ghansah
+  - Radio alHara
+  - Rashayla Marie Brown
+  - Rashid Khalidi
+  - Ravicka
+  - Raymond Boisjoly
+  - Reiko Kudo
+  - Rejections Letters
+  - Relay-Interview
+  - Renee Gladman
+  - Revenge Fantasies of the Politically Dispossessed
+  - Reviews of Books by Jacob Wren
+  - Reza Negarestani
+  - Ricardo Piglia
+  - Rich and Poor
+  - Richard Beck
+  - Richard Fink
+  - Richard Hawkins
+  - Richard Russell
+  - Riches et pauvres
+  - Rita Felski
+  - Rob Horning
+  - Robert Bresson
+  - Robert Forster
+  - Robert J. Lifton
+  - Robert Majzels
+  - Robert Walser
+  - Robert Wyatt
+  - Roberto Arlt
+  - Robyn Hitchcock
+  - Roger Fry
+  - Rosi Braidotti
+  - Roxanne Dunbar-Ortiz
+  - Roy Arden
+  - Rum Music
+  - Réjean Ducharme
+  - S.D. Chrostowska
+  - Saelan Twerdy
+  - Sakine Cansız
+  - Sam Kriss
+  - Samson Young
+  - Sandra Semchuk
+  - Sarah Schulman
+  - Secret Pleasure Secret Poison
+  - Sergio Chejfec
+  - Sex
+  - Sharp Pink Claws
+  - Sheldon B. Kopp
+  - Shestov
+  - Shinjini Dey
+  - Sidney Monas
+  - Sigurd Hoel
+  - Silvia Federici
+  - Slavoj Zizek
+  - Sludge Utopia
+  - Sofia Ajram
+  - Soha Bechara
+  - Solar Energy
+  - Some Short Quotes
+  - Some favourite things from my year
+  - Some passages from
+  - Spartacus Chetwynd
+  - Sport
+  - Spots and Trouble Spots
+  - Sruti Islam
+  - Stacey D’Erasmo
+  - Stanley Kubrick
+  - Steffani Jemison
+  - Stella Gitano
+  - Stephen Thomas
+  - Steve Ross
+  - Steven Soderbergh
+  - Stuart Hall
+  - Stuart Moxham
+  - Suicide
+  - Summer of Hate
+  - Survival Technologies
+  - Susan Sontag
+  - Susanne Moser
+  - Sven Lutticken
+  - Sven Lütticken
+  - Sven Åge Birkeland
+  - Sylvère Lotringer
+  - T.J. Clark
+  - THEESatisfaction
+  - Tal R
+  - Tangentially yours
+  - Tania Canas
+  - Teaching for people who prefer not to teach
+  - Teatro do Bairro Alto
+  - Terence
+  - Terry Adkins
+  - Terry Root
+  - Terry Tempest Williams
+  - The Air Contains Honey
+  - The Besnard Lakes
+  - The Biography
+  - The Bridge
+  - The Coming Envelope
+  - The Conditions for Human Flourishing
+  - The DJ Who Gave Too Much Information
+  - The Fall
+  - The Hardy Rocks
+  - The Land We Are
+  - The Mekons
+  - The Museum of Art Kochi
+  - The Quest for Corvo
+  - The Rhubarb! Festival
+  - The Seagull
+  - The Society for the Diffusion of Useful Knowledge
+  - 'The Trouble with Tom: The Strange Afterlife and Times of Thomas Paine'
+  - The counter-literature prize
+  - Theatre
+  - Theatre Artists for Palestinian Voices
+  - Thomas Hirschhorn
+  - Three Trilogies
+  - Tilda Swinton
+  - Tim DeChristopher
+  - Timid Lust
+  - Titles
+  - Todd Lester
+  - Tony Allen
+  - Tori Kudo
+  - Toshiki Okada
+  - Touring Life
+  - Tumblr
+  - Twitter
+  - Ueinzz Theater Company
+  - Ursula K. Le Guin
+  - Valerie Solanas
+  - Viktor Shklovsky
+  - Vilma Espín
+  - Vivian Blaxell
+  - Vladimir Holan
+  - Vulnerable Paradoxes
+  - Walt McClements
+  - Walter Benjamin
+  - William H. Gass
+  - William S. Burroughs
+  - Wolfgang Tillmans
+  - World Stage
+  - Yahya Al Hamarna
+  - Yasmin Nair
+  - Zoe S.C. Todd
+  - above/ground press
+  - adrienne maree brown
+  - atmospheric quarterly
+  - chelfitsch
+  - claire rousay
+  - dHOUSE Magazine
+  - dian marino
+  - fascism
+  - keyon gaskin
+  - listeninghousemedia
+  - lowercase pamphlets
+  - male loneliness
+  - of the North
+  - solidarity
+  - the IPCC report
+  - the big beautiful bill
+  - Öyvind Fahlström
+  relme: {}
+  last_post_title: Adventures can be found anywhere, même dans un cauchemar at Mois
+    Multi in Quebec City.
+  last_post_description: ""
+  last_post_date: "2026-02-12T10:15:44-05:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/02/adventures-can-be-found-anywhere-meme.html
+  last_post_categories:
+  - Adventures Can Be Found Anywhere
+  - Bureau de l’APA
+  - Concept Touring
+  - Mois Multi
+  - PME-ART
+  last_post_language: ""
+  last_post_guid: ace90bd4aef8041da41e7ab3d37cff2b
+  score_criteria:
+    cats: 5
+    description: 0
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 22
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 257
+---

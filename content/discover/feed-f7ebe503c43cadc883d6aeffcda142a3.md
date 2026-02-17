@@ -1,0 +1,1227 @@
+---
+title: Wuthering Expectations
+date: "2026-02-15T16:30:11-06:00"
+description: A Distinguished Crankologist
+params:
+  feedlink: https://wutheringexpectations.blogspot.com/atom.xml
+  feedtype: atom
+  feedid: f7ebe503c43cadc883d6aeffcda142a3
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - ABBOTT Edwin
+  - ABISH Walter
+  - ACKERLEY J R
+  - ADAMS Henry
+  - ADAMS Robert M
+  - ADAMSON Peter
+  - AESCHYLUS
+  - AGEE James
+  - AIKEN Conrad
+  - AIRA César
+  - AITMATOV Chingiz
+  - AKHMATOVA Anna
+  - AKSAKOV Sergei
+  - AKUTAGAWA Ryunosuke
+  - AL-SHIDYAQ Ahmad Faris
+  - ALAIN-FOURNIER
+  - ALARCÓN Pedro Antonio de
+  - ALAS Leopoldo
+  - ALBANOV Valerian
+  - ALBERTI Rafael
+  - ALCOTT Louisa May
+  - ALEIXANDRE Vicente
+  - ALENCAR José de
+  - ALFAU Felipe
+  - ALFIERI Vittorio
+  - ALLAIS Alphonse
+  - ALLEN Jeffery Renard
+  - ALMQVIST Carl
+  - ALTENBERG Peter
+  - AMMONS A R
+  - AMUNDSEN Roald
+  - ANDERSEN Hans Christian
+  - ANDERSON Poul
+  - ANDERSON Sherwood
+  - ANDRADE Eugénio de
+  - ANDREYEV Leonid
+  - ANOUILH Jean
+  - ANSKY S
+  - ANTUNES António Lobo
+  - APOLLINAIRE Guillaume
+  - ARAGON Louis
+  - ARISTOPHANES
+  - ARISTOTLE
+  - ARLT Roberto
+  - ARMAH Ayi Kwei
+  - ARNOLD Matthew
+  - ASHFORD Daisy
+  - ASHVAGHOSHA
+  - ATXAGA Bernardo
+  - AUERBACH Erich
+  - AUGUSTINE St
+  - AUSTEN Jane
+  - American lit
+  - Arabian Nights
+  - Argentina
+  - Australia
+  - Austria
+  - BABEL Isaac
+  - BAKER Dorothy
+  - BALZAC Honoré
+  - BANG Herman
+  - BANVILLE John
+  - BARBAULD Anna Letitia
+  - BARRIE J M
+  - BATUMAN Elif
+  - BAUDELAIRE Charles
+  - BEAN Richard
+  - BECKETT Samuel
+  - BECQUER Gustavo Adolfo
+  - BEER Daniel
+  - BEERBOHM Max
+  - BELLI Giuseppe
+  - BELLOW Saul
+  - BELY Andrei
+  - BEN JELLOUN Tahar
+  - BENFEY Christopher
+  - BENJAMIN Walter
+  - BENN Gottfried
+  - BENNETT Arnold
+  - BERGELSON David
+  - BERGMAN Ingmar
+  - BERNANOS Georges
+  - BERNHARD Thomas
+  - BHATTACHARYA Nabarun
+  - BIALIK H
+  - BIERCE Ambrose
+  - BIRD Isabella
+  - BIRD Robert
+  - BISHOP Elizabeth
+  - BLAKE Nicholas
+  - BLAKE William
+  - BLAS de OTERO
+  - BLESSEBOIS Pierre-Corneille
+  - BLOK Alexander
+  - BLOOM Harold
+  - BOCCACCIO
+  - BOLAÑO Roberto
+  - BONNEFOY Yves
+  - BOOTH Michael
+  - BOOTH Wayne
+  - BORGES Jorge Luis
+  - BOSCH Hieronymus
+  - BOSCO Henri
+  - BOSWELL James
+  - BOTTO António
+  - BOVE Emmannuel
+  - BRADDON Mary Elizabeth
+  - BRANDÃO Raul
+  - BRECHT Bertolt
+  - BREITMANN Hans
+  - BRETON André
+  - BRIDGES Robert
+  - BROCH Hermann
+  - BRONTË Anne
+  - BRONTË Charlotte
+  - BRONTË Emily
+  - BROWN George Douglas
+  - BROWN Nancy Marie
+  - BROWNE Thomas
+  - BROWNING Elizabeth Barrett
+  - BROWNING Robert
+  - BRU Heðin
+  - BRUNO Giordano
+  - BUNIN Ivan
+  - BUNYAN John
+  - BURKE Edmund
+  - BURKE Kenneth
+  - BURNETT W R
+  - BURNEY Frances
+  - BURNS John Horne
+  - BURROUGHS Edgar Rice
+  - BUSCH Wilhelm
+  - BUTLER Samuel
+  - BYRON George Gordon
+  - Belgium
+  - Beowulf
+  - Berlin
+  - Bible
+  - Black Legend
+  - Blaue Reiter
+  - Brazil
+  - Brillat Savarin
+  - Buddha
+  - Byronism
+  - CABANEL Alexandre
+  - CABEZÓN CÁMARA Gabriela
+  - CAEIRO Alberto
+  - CAHAN Abraham
+  - CALASSO Roberto
+  - CALDERON DE LA BARCA Pedro
+  - CALLOT Jacques
+  - CALVINO Italo
+  - CAMILLERI Andrea
+  - CAMPANA Dino
+  - CANETTI Elias
+  - CAO Xueqin
+  - CARDUCCI Giosuè
+  - CARLYLE Thomas
+  - CARPENTIER Alejo
+  - CARRINGTON Leonora
+  - CARRIÉRE Jean-Claude
+  - CARROLL Lewis
+  - CARSON Anne
+  - CATHER Willa
+  - CATLIN George
+  - CAVAFY C P
+  - CAYRE Hannelore
+  - CENDRARS Blaise
+  - CERVANTES Miguel de
+  - CHAGALL Marc
+  - CHAPPELL Fred
+  - CHATEAUBRIAND
+  - CHEKHOV Anton
+  - CHERNYSHEVSKY Nikolai
+  - CHESNUTT Charles
+  - CHESTERTON G K
+  - CHEVILLARD Eric
+  - CHIKAMATSU
+  - CHILD Lydia Maria
+  - CHOPIN Kate
+  - CHRISTENSEN Inger
+  - CLARE John
+  - CLOUGH Arthur Hugh
+  - COCTEAU Jean
+  - COHEN Paula Marantz
+  - COLE Peter
+  - COLERIDGE Samuel T
+  - COLETTE
+  - COLL Aliocs
+  - COLLINS Wilkie
+  - COLLODI Carlo
+  - CONRAD Joseph
+  - CONSTANT Benjamin
+  - COOPER James Fenimore
+  - COOVER Robert
+  - CORBIÈRE Tristan
+  - CORNELL Joseph
+  - COWPER William
+  - CRABBE George
+  - CRANE Stephen
+  - CRAWFORD F Marion
+  - CROWLEY John
+  - CUMMINGS E E
+  - CUSK Rachel
+  - CUSTINE Marquis de
+  - CZAPSKI Jozef
+  - Canada
+  - China
+  - Christmas
+  - Conciergerie
+  - Corsica
+  - CÉLINE Louis-Ferdinand
+  - CÉSAIRE Aimé
+  - D'ARBAUD Joseph
+  - DANIEL Samuel
+  - DANTE
+  - DANTZIG Charles
+  - DARIO Rubén
+  - DARLEY George
+  - DARWIN Charles
+  - DAUDET Alphonse
+  - DAVENPORT Guy
+  - DAVIDSON John
+  - DAY-LEWIS Cecil
+  - DE CHIRICO Giorgio
+  - DE HAMEL Christopher
+  - DE LA MARE Walter
+  - DE LA PAVA Sergio
+  - DE LOS REYES Isabelo
+  - DE QUINCEY Thomas
+  - DE WAAL Edmund
+  - DEBUSSY Claude
+  - DELAY Florence
+  - DELEDDA Grazia
+  - DELERM Philippe
+  - DICKENS Charles
+  - DICKINSON Emily
+  - DILLARD Annie
+  - DINESEN Isak
+  - DIOGENES LAERTIUS
+  - DIOGENES the CYNIC
+  - DODDS E R
+  - DONIZETTI Gaetano
+  - DONOGHUE Denis
+  - DOSTOEVSKY Fyodor
+  - DOUGLASS Frederick
+  - DOWSON Ernest
+  - DOYLE Arthur Conan
+  - DOYLE Roddy
+  - DRAYTON Michael
+  - DREISER Theodore
+  - DREYER Carl
+  - DROSTE-HÜLSHOFF Annette von
+  - DU BELLAY Joachim
+  - DUCASSE Isidore
+  - DUCHAMP Marcel
+  - DUFY Raoul
+  - DUJARDIN Edouard
+  - DUMAS Alexandre
+  - DUMAS Alexandre fils
+  - DUTTON Danielle
+  - Dada
+  - Denmark
+  - Don Juan
+  - DÖBLIN Alfred
+  - EBERHART Richard
+  - ECHEVERRIA Esteban
+  - EDGEWORTH Maria
+  - ELIOT George
+  - ELIOT T S
+  - ELYTIS Odysseus
+  - EMERSON Ralph Waldo
+  - EMPEDOCLES
+  - ENGELS Friedrich
+  - EPSTEIN Joseph
+  - ERPENBECK Jenny
+  - EUCKEN Rudolf
+  - EURIPIDES
+  - EÇA DE QUEIRÓS
+  - FAULKNER William
+  - FAY Eliza
+  - FENG MENGLONG
+  - FERDOWSI
+  - FIELDING Henry
+  - FINNEY Charles
+  - FITZGERALD Edward
+  - FITZGERALD F Scott
+  - FITZGERALD Penelope
+  - FLANNER Janet
+  - FLAUBERT Gustave
+  - FOLLAIN Jean
+  - FONTANE Theodor
+  - FORD Ford Madox
+  - FORSTER E M
+  - FOSCOLO Ugo
+  - FOSSE Jon
+  - FOUNDS Kathleen
+  - FOUNTAIN Ben
+  - FRANCE Anatole
+  - FRANKLIN Miles
+  - FRANZEN Jonathan
+  - FRAY LUIS de Leon
+  - FREDERIC Harold
+  - FREEMAN Mary E WIlkins
+  - FREUD Sigmund
+  - FRISHMAN Dovid
+  - FROST Robert
+  - FRYE Northrop
+  - FUTABATEI Shimei
+  - France
+  - French
+  - French amateurs
+  - French roommates
+  - FÉNÉON Félix
+  - GABORIAU Émile
+  - GALDOS Benito Pérez
+  - GALSWORTHY John
+  - GALT John
+  - GANN Kyle
+  - GARNIER Robert
+  - GARY Romain
+  - GASKELL Elizabeth
+  - GAUTIER Théophile
+  - GEFFROY Gustave
+  - GEORGE Stefan
+  - GERCHUNOFF Alberto
+  - GIDE André
+  - GILBERT W S
+  - GILBERT William
+  - GILBERT and SULLIVAN
+  - GINSBERG Allen
+  - GINZBURG Carlo
+  - GINZBURG Natalia
+  - GIONO Jean
+  - GIRAUDOUX Jean
+  - GISSING George
+  - GLASGOW ELLEN
+  - GLATSEIN Jacob
+  - GLOB P V
+  - GOETHE Wolfgang
+  - GOGOL Nikolai
+  - GOLDONI Carlo
+  - GONCHAROV Ivan
+  - GONCOURTS Edmond & Jules de
+  - GONGORA Luis de
+  - GORDIN Jacob
+  - GORKY Maxim
+  - GOTTHELF Jeremias
+  - GOYA Francisco
+  - GRAHAME Kenneth
+  - GRASS Günter
+  - GRAVES Robert
+  - GRAY Thomas
+  - GREENBLATT Stephen
+  - GREENE Graham
+  - GREGG Josiah
+  - GRILLPARZER Franz
+  - GRIMM brothers
+  - GROSSMAN Edith
+  - GROSSMAN Vasily
+  - GURGANUS Allan
+  - GUSTAFSSON Lars
+  - German Romantics
+  - Germany
+  - Ghana
+  - Gilgamesh
+  - Great Man theory
+  - Greek plays
+  - H. D.
+  - HALE Edward Everett
+  - HALPERN Moishe Leib
+  - HAMM Justin
+  - HAMMETT Dashiell
+  - HAMSUN Knut
+  - HANDKE Peter
+  - HARDY Barbara
+  - HARDY Thomas
+  - HARRISON Jim
+  - HAUFF Wilhelm
+  - HAUPTMANN Gerhart
+  - HAWTHORNE Nathaniel
+  - HAZLITT William
+  - HEANEY Seamus
+  - HEBEL Johann Peter
+  - HEGEL G W F
+  - HEINE Heinrich
+  - HEMINGWAY Ernest
+  - HEMPEL Amy
+  - HERACLITUS
+  - HERNÁNDEZ José
+  - HERNÁNDEZ Miguel
+  - HERRICK Robert
+  - HERZEN Alexander
+  - HERZOG Maurice
+  - HESIOD
+  - HESSE Hermann
+  - HETI Sheila
+  - HILL Geoffrey
+  - HINTON David
+  - HOBAN Russell
+  - HOCHSCHILD Adam
+  - HOCKENSMITH Steve
+  - HODGSON William Hope
+  - HOFFMANN ETA
+  - HOFMANNSTHAL Hugo von
+  - HOGG James
+  - HOLBERG Ludvig
+  - HOLLANDER John
+  - HOLLINGHURST Alan
+  - HOMER
+  - HOOD Thomas
+  - HOPKINS Gerard Manley
+  - HOUSMAN AE
+  - HOWARD Richard
+  - HOWELLS William Dean
+  - HUDSON Mark
+  - HUGHES Langston
+  - HUGHES Richard
+  - HUGO VIctor
+  - HUNT Laird
+  - HUXLEY Aldous
+  - HUYSMANS J-K
+  - Hudson Review
+  - HÄMÄLÄINEN Pekka
+  - IBSEN Henrik
+  - ILF & PETROV
+  - IRVING Washington
+  - ISHERWOOD Christopher
+  - IVES Charles
+  - Icelandic sagas
+  - India
+  - Ireland
+  - Italy
+  - JACOB Max
+  - JACOBSEN Jens Peter
+  - JAHREN Hope
+  - JAMES Henry
+  - JAMES M R
+  - JAMES William
+  - JANSSON Tove
+  - JARRY Alfred
+  - JEFFERIES Richard
+  - JEKYLL Agnes
+  - JEWETT Sarah Orne
+  - JHABVALA Ruth Prawer
+  - JIMENEZ Juan Ramón
+  - JOHNSON Lionel
+  - JOHNSON Samuel
+  - JONQUET Thierry
+  - JONSON Ben
+  - JOUBERT Joseph
+  - JOYCE James
+  - JUNICHO Saga
+  - Jacobins
+  - Japan
+  - JÓZSEF Attila
+  - KAFKA Franz
+  - KAIKINI Jayant
+  - KAISER Georg
+  - KALIDASA
+  - KARINTHY Frigyes
+  - KAWABATA Yasunari
+  - KAZANTZAKIS Nikos
+  - KEATS John
+  - KEENE John
+  - KEHLMANN Daniel
+  - KELLER Gottfried
+  - KENNEDY X J
+  - KERMODE Frank
+  - KESSEL Joseph
+  - KHLEBNIKOV Velimir
+  - KHODASEVICH Vladislav
+  - KIELLAND Alexander
+  - KIERKEGAARD Søren
+  - KING Clarence
+  - KING Martin Luther
+  - KINGSLEY Charles
+  - KIPLING Rudyard
+  - KIRCHER Athanasius
+  - KIVI Aleksis
+  - KLEIST Heinrich
+  - KOLBAK Moshe
+  - KORNBLUTH C M
+  - KOSZTOLÁNYI Dezső
+  - KRASZNAHORKAI László
+  - KRAUS Karl
+  - KRÚDY Gyula
+  - KUNDERA Milan
+  - KUZMIN Mikhail
+  - KYD Thomas
+  - Kabuki
+  - LA FONTAINE Jean de
+  - LA ROCHEFOUCAULD
+  - LABATUT Benjamin
+  - LAFAYETTE Madame de
+  - LAFORGUE Jules
+  - LAGERKVIST Pär
+  - LAGERLÖF Selma
+  - LALAMI Laila
+  - LAMARTINE Alphonse de
+  - LAMPEDUSA Giuseppe di
+  - LANDOR Walter Savage
+  - LANDÍVAR Rafael
+  - LANG David
+  - LANGFORD Jon
+  - LANIER Sidney
+  - LAO SHE
+  - LAWRENCE D H
+  - LEAR Edward
+  - LEAVIS F R
+  - LEIVICK H
+  - LEOPARDI Giacomo
+  - LEOPOLD Aldo
+  - LERMONTOV Mikhail
+  - LESKOV Nikolai
+  - LEWIS Janet
+  - LEWIS Sinclair
+  - LEYS Simon
+  - LICHTENBERG G C
+  - LINCOLN Abraham
+  - LINDSAY David
+  - LINDSAY Vachel
+  - LISPECTOR Clarice
+  - LLOYD Harold
+  - LOGUE Christopher
+  - LONGFELLOW Henry
+  - LONGINUS
+  - LOPE DE VEGA
+  - LORCA Federico García
+  - LORRAIN Jean
+  - LOVECRAFT H P
+  - LOVELL-BEDDOES Thomas
+  - LUCARELLI Carlo
+  - LUCIAN
+  - LUCIER Alvin
+  - LUCRETIUS
+  - LUGONES Leopoldo
+  - LUMIERE Brothers
+  - Lenbachhaus
+  - Lyon
+  - LÖNNROT Elias
+  - MACDIARMID Hugh
+  - MACDONALD George
+  - MACFARLANE Robert
+  - MACHADO Antonio
+  - MACHADO DE ASSIS Joaquim
+  - MACHEN Arthur
+  - MACLENNAN Hugh
+  - MACNEICE Louis
+  - MAGRIS Claudio
+  - MALLARMÉ Stéphane
+  - MALRAUX André
+  - MAMET David
+  - MANDELSTAM Osip
+  - MANN Mary
+  - MANN Thomas
+  - MANRIQUE Jorge
+  - MANSFIELD Katherine
+  - MANZONI Alessandro
+  - MARCUS AURELIUS
+  - MARGUERITE de Navarre
+  - MARIVAUX Pierre de
+  - MARLOWE Christopher
+  - MARX Karl
+  - MARÍAS Javier
+  - MASSENET Jules
+  - MASTERS Edgar Lee
+  - MAUGHAM W Somerset
+  - MAUPASSANT Guy de
+  - MAYAKOVSKY Vladimir
+  - MCBAIN Ed
+  - MCCARTHY Cormac
+  - MELLO BREYNER ANDRESEN Sophia de
+  - MELVILLE Herman
+  - MENANDER
+  - MENDELE Mocher Sforim
+  - MEREDITH George
+  - MERRILL James
+  - MERWIN W S
+  - MESSINA Maria
+  - MEW Charlotte
+  - MEYRINK Gustav
+  - MICHELANGELO
+  - MICKIEWICZ Adam
+  - MIHM Stephen
+  - MILL John Stuart
+  - MILLER Perry
+  - MILLHAUSER Steven
+  - MODGLIANI Amedeo
+  - MOLIERE
+  - MOMMSEN Theodor
+  - MONTAIGNE Michel de
+  - MONTALE Eugenio
+  - MOORCOCK Michael
+  - MOORE C L
+  - MOORE George
+  - MOORE Marianne
+  - MORETTI Nanni
+  - MORGENSTERN Christian
+  - MORRIS William
+  - MORRIS Wright
+  - MORRISON Arthur
+  - MOTTE FOQUÉ Friedrich
+  - MUHLSTEIN Anka
+  - MUIR John
+  - MURNANE Gerald
+  - MURRAY William Henry Harrison
+  - MUSIL Robert
+  - MUSSET Alfred de
+  - MUÑOZ MOLINA Antonio
+  - MYERS D G
+  - Mali
+  - Mayans
+  - Mendoza
+  - Mexico
+  - Mithraism
+  - Morocco
+  - Munich
+  - MÉRIMÉE Prosper
+  - MÖRIKE Eduard
+  - NABHAN Gary Paul
+  - NABOKOV Vladimir
+  - NANSEN Fridtjof
+  - NERUDA Pablo
+  - NERVAL Gérard de
+  - NESCIO
+  - NESTROY Johann
+  - NEWMAN John Henry
+  - NEXØ Martin Andersen
+  - NIETZSCHE Friedrich
+  - NIEVO Ippolito
+  - NISTER Der
+  - NORRIS Frank
+  - NORSE Harold
+  - NOT SHAKESPEARE
+  - NOTEBOOM Cees
+  - NOTHOMB Amélie
+  - NOVALIS
+  - NUSSBAUM Martha
+  - Native Americans
+  - Nobel Prize
+  - Noh
+  - Norway
+  - O'BRIEN Flann
+  - O'CONNOR Flannery
+  - O'CONNOR Frank
+  - O'HARA John
+  - O'NEILL Joseph
+  - OGAWA Yoko
+  - OKAKURA Kazuko
+  - OLIPHANT Margaret
+  - ORWELL George
+  - OSARAGI Jiro
+  - OSOFISAN Femi
+  - OSTERHAMMEL Jürgen
+  - OSTROVSKY Alexander
+  - OVID
+  - OWEN Wilfred
+  - PAPADIAMANTIS Alexandros
+  - PARDO BAZAN Emilia
+  - PARKMAN Francis
+  - PARRA Nicanor
+  - PARRY Owen
+  - PASTERNAK Boris
+  - PATER Walter
+  - PATMORE Coventry
+  - PAUKETAT Timothy
+  - PAZ Octavio
+  - PEACOCK Molly
+  - PEACOCK Thomas Love
+  - PEARCE Michael
+  - PEREC Georges
+  - PERETZ I L
+  - PERRAULT Charles
+  - PESSOA Fernando
+  - PETRARCH
+  - PETRONIUS
+  - PICABIA Francis
+  - PINSKI David
+  - PIRANDELLO Luigi
+  - PIRES José Cardoso
+  - PLATO
+  - PLATONOV Andrey
+  - PLAUTUS
+  - PLUTARCH
+  - POE Edgar Allan
+  - POHL Frederik
+  - POLIDORI John
+  - PONTOPPIDAN Henrik
+  - POPA Vasko
+  - PORTER Katherine Anne
+  - POULIN Jacques
+  - POUND Ezra
+  - POUY Jean-Bernard
+  - POWELL Anthony
+  - POWYS John Cowper
+  - PRITCHARD William
+  - PROSE Francine
+  - PROUST Marcel
+  - PRÉVERT Jacques
+  - PUSHKIN Alexander
+  - PYNCHON Thomas
+  - Paris
+  - Persian
+  - Philippines
+  - Polar expeditions
+  - Polynesia
+  - Portugal
+  - Portuguese Reading Challenge
+  - Prayer of Jabez
+  - Proust questionnaire
+  - PÉGUY Charles
+  - QUEVEDO Francisco de
+  - QUIROGA Hiracio
+  - RABELAIS François
+  - RACINE Jean
+  - RADIGUET Raymond
+  - RAINE Craig
+  - RAMUZ Charles
+  - REDBONE Martha
+  - REED Ishmael
+  - REIS Ricardo
+  - REVERDY Pierre
+  - REXROTH Kenneth
+  - REYNOLDS William
+  - REZZORI Gregor von
+  - RIBA Carles
+  - RIBEMONT-DESSAIGNES Georges
+  - RICHARDSON Dorothy
+  - RICHARDSON Robert D
+  - RICHARDSON Samuel
+  - RICHEPIN Jean
+  - RILKE Rainer Maria
+  - RIMBAUD Arthur
+  - ROBBE-GRILLET Alain
+  - ROBINSON Edwin Arlington
+  - RODENBACH George
+  - ROHAN Koda
+  - RONSARD Pierre de
+  - ROSENBERG Isaac
+  - ROSSETTI Christina
+  - ROSSETTI Dante Gabriel
+  - ROSTAND Edmond
+  - ROTH Henry
+  - ROTH Joseph
+  - ROTH Philip
+  - ROUSSEAU Jean-Jacques
+  - ROWLAND Ingrid
+  - RULFO Juan
+  - RUSKIN John
+  - RUSSELL Osborne
+  - RUSSO Richard
+  - RUXTON George Frederick
+  - RYLANCE Mark
+  - Redmoon Theater
+  - Roman plays
+  - Romanticism
+  - Rome
+  - Rossini
+  - Russia
+  - Russian challenge
+  - RÉE Jonathan
+  - SABA Umberto
+  - SAER Juan José
+  - SAIKAKU Ihara
+  - SAKI
+  - SALINAS Pedro
+  - SALLIS  James
+  - SAN JUAN de la Cruz
+  - SAND George
+  - SANTE Luc
+  - SAPPHO
+  - SARAMAGO José
+  - SARMIENTO Domingo Faustino
+  - SARR Mohamed Mbougar
+  - SARTRE Jean-Paul
+  - SAUNDERS George
+  - SCARRY Richard
+  - SCEVE Maurice
+  - SCHEERBART Paul
+  - SCHNITZLER Arthur
+  - SCHOPENHAUER Arthur
+  - SCHORSKE Carl
+  - SCHULZ Bruno
+  - SCHUMANN Robert
+  - SCHWARTZ Lynne Sharon
+  - SCHWOB Marcel
+  - SCIASCIA Leonardo
+  - SCOTT Walter
+  - SCUDERY Mlle de
+  - SEBALD W G
+  - SEFERIS George
+  - SEIFERT Jaroslav
+  - SENA Jorge de
+  - SENECA
+  - SENGHOR Leopold
+  - SERAO Matilde
+  - SERENA Javier
+  - SHAKESPEARE William
+  - SHAPIRO Lamed
+  - SHAROV Vladimir
+  - SHAW George Bernard
+  - SHCHEDRIN
+  - SHELLEY Mary
+  - SHELLEY Percy
+  - SHOLEM Aleichem
+  - SIDNEY Mary
+  - SIMIC Charles
+  - SINGER I J
+  - SJÓN
+  - SLAVITT David R
+  - SMART Christopher
+  - SMITH Adam
+  - SMITH Michael Farris
+  - SOPHOCLES
+  - SOR JUANA Ines de la Cruz
+  - SOSEKI Natsume
+  - SPENCER Elizabeth
+  - SPENSER Edmund
+  - SPIOTTA Dana
+  - STAREWICZ Wladyslaw
+  - STARK Freya
+  - STEIN Gertrude
+  - STENDHAL
+  - STEPHENS John Lloyd
+  - STEVENS Francis
+  - STEVENSON Robert Louis
+  - STICKNEY Trumbull
+  - STIFTER Adalbert
+  - STOKER Bram
+  - STOPPARD Tom
+  - STORM Theodor
+  - STRINDBERG August
+  - STRUGATSKY Arkady and Boris
+  - STURLUSON Snorri
+  - SVEVO Italo
+  - SWIFT Jonathan
+  - SWINBURNE Algernon
+  - SYNGE John Millington
+  - Salzburg
+  - Sanskrit
+  - Scottish Literature Challenge
+  - Senegal
+  - Sikelianos Angelos
+  - Spanish Golden Age
+  - Switzerland
+  - SÁ-CARNEIRO Mario de
+  - SÖDERBERG Hjalmar
+  - TABUCCHI Antonio
+  - TAEUBER Sophie
+  - TALLIS Frank
+  - TANG Xianzu
+  - TANIZAKI Junichiro
+  - TARTT Donna
+  - TEFFI
+  - TENNYSON Alfred
+  - TERENCE
+  - TESSON Sylvain
+  - TEY Josephine
+  - THACKERAY William
+  - THOMAS Dylan
+  - THOMAS Edward
+  - THOMPSON Francis
+  - THOMPSON Jean
+  - THOMPSON Victoria
+  - THOREAU Henry David
+  - TIECK Ludwig
+  - TIRSO DE MOLINA
+  - TOCQUEVILLE Alexis de
+  - TOLSTOY Leo
+  - TOOMER Jean
+  - TOURNIER Michel
+  - TOWNSEND John Kirk
+  - TRAKL Georg
+  - TROLLOPE Anthony
+  - TSVETAYEVA Marina
+  - TSYPKIN Leonid
+  - TUCHMAN Barbara
+  - TUCKERMAN Frerderick Goddard
+  - TURGENEV Ivan
+  - TURNER JMW
+  - TWAIN Mark
+  - TYUTCHEV Fyodor
+  - TZARA Tristan
+  - Texas
+  - UDALL Nicholas
+  - UNAMUNO Miguel de
+  - UNDSET Sigrid
+  - UNGARETTI Giuseppe
+  - URMUZ
+  - Utopias
+  - VALLEJO César
+  - VALLÈS Jules
+  - VANOLIS Bysshe
+  - VARGAS LLOSA Mario
+  - VAZQUEZ MONTALBAN Manuel
+  - VEGA Garcilaso de la
+  - VENUTI Lawrence
+  - VERGA Giovanni
+  - VERISSIMO Luis Fernando
+  - VERLAINE Paul
+  - VERNE Jules
+  - VERY Jones
+  - VICENTE Gil
+  - VIGNY Alfred de
+  - VILLALOBOS Juan Pablo
+  - VILLIERS de l'Isle-Adam
+  - VILLON François
+  - VIRGIL
+  - VOLTAIRE
+  - VONDEL Joost van den
+  - VRUBEL Mikhail
+  - VVEDENSKY Alexander
+  - Valentine's Day
+  - Vienna
+  - WABERI Abdourahman
+  - WADE Thomas
+  - WAGNER Richard
+  - WALEY Arthur
+  - WALSER Robert
+  - WAUGH Evelyn
+  - WEDEKIND Frank
+  - WEI Wang
+  - WEINBERGER Eliot
+  - WELLS H G
+  - WELTY Eudora
+  - WEST Nathanael
+  - WHARTON Edith
+  - WHEELWRIGHT John
+  - WHITMAN Walt
+  - WHITTIER John Greenleaf
+  - WILDE Oscar
+  - WILDER Laura Ingalls
+  - WILDER Thornton
+  - WILLIAMS John
+  - WILLIAMS William Carlos
+  - WILSON E O
+  - WILSON Edmund
+  - WINTERS Yvor
+  - WITTGENSTEIN Ludwig
+  - WODEHOUSE P G
+  - WOLFF Tobias
+  - WOOD James
+  - WOOLF Virginia
+  - WORDSWORTH Dorothy
+  - WORDSWORTH William
+  - WRIGHT Richard
+  - Waterloo
+  - Wertherism
+  - World War I
+  - World War II
+  - XENOPHON
+  - YEATS William Butler
+  - YOUMANS Marly
+  - YOURCENAR Marguerite
+  - Yiddish
+  - Yucatan
+  - ZOLA Émile
+  - ZOSHCHENKO Mikhail
+  - ZWEIG Stefan
+  - acting
+  - adaptations
+  - aesthetic theory
+  - allegory
+  - angling
+  - anonymous
+  - anthologies
+  - ants
+  - aphorisms
+  - apocalypse
+  - appreciationism
+  - apricots
+  - archeology
+  - architecture
+  - art
+  - art history
+  - art museums
+  - ax murder
+  - ballads
+  - beavers
+  - bedbugs
+  - beheadings
+  - biography
+  - book history
+  - book reviewing
+  - bookshelves
+  - bookstores
+  - booze
+  - bread
+  - butter
+  - cacti
+  - camels
+  - canon
+  - carrion birds
+  - cats
+  - cemeteries
+  - censorship
+  - cesspools
+  - challenges
+  - characterization
+  - cheese
+  - choral music
+  - chronology
+  - cities
+  - columbines
+  - comets
+  - conceptual art
+  - counterfeiting
+  - criticism
+  - crocodiles
+  - dancing bears
+  - dancing goats
+  - death
+  - debtor's prison
+  - didactic novels
+  - dueling
+  - dumbo octopus
+  - eco-criticism
+  - education
+  - elephants
+  - epic
+  - epigraphs
+  - exhaustion
+  - exploration
+  - extinct birds
+  - fairies
+  - faith
+  - familiar essays
+  - fascism
+  - fashion
+  - fear
+  - figureheads
+  - film
+  - fishing
+  - flamenco
+  - folktales
+  - food
+  - foxes
+  - frustration
+  - gangsters
+  - gaps
+  - geological hammers
+  - ghosts
+  - golems
+  - grumpiness
+  - guitar-playing bears
+  - gymnastics
+  - hacks
+  - hedgehogs
+  - hiphop promotion
+  - hippies
+  - history
+  - horror
+  - humanitarianism
+  - humorists
+  - illness
+  - images
+  - indices
+  - influence
+  - intellectual flaws
+  - irritation
+  - jazz
+  - jokes
+  - journals
+  - jungles
+  - klezmer
+  - land crabs
+  - language
+  - lectures
+  - libraries
+  - light verse
+  - linguistics
+  - lists
+  - literary culture
+  - literary history
+  - long books
+  - madness
+  - magazines
+  - manifestos
+  - marketing
+  - math
+  - meat
+  - memoir
+  - mermaids
+  - mesmerism
+  - metaphor
+  - mice
+  - mirth
+  - misconceptions
+  - models
+  - mountaineering
+  - mowing
+  - mummified cats
+  - museums
+  - music
+  - mysteries
+  - myth
+  - narrators
+  - naturalists
+  - nature writing
+  - neo-Latin literature
+  - nests
+  - nonsense
+  - omnibooks
+  - opera
+  - owls
+  - painting
+  - pandemic
+  - panthers
+  - parody
+  - parties
+  - party games
+  - patriotism
+  - pets
+  - philosophy
+  - photography
+  - pie
+  - politicians
+  - predictions
+  - previews
+  - prison
+  - productivity
+  - publishing
+  - pudding
+  - puppets
+  - rabbits
+  - railroads
+  - rambling confusion
+  - ravens
+  - reading
+  - reading lists
+  - realism
+  - recipes
+  - religion
+  - riots
+  - roast lizard
+  - robots
+  - ruins
+  - salami
+  - sandwiches
+  - science
+  - science fiction
+  - sea cows
+  - sentiment
+  - shipwrecks
+  - short stories
+  - skimming
+  - skunks
+  - slavery
+  - snobbery
+  - sonnets
+  - spontaneous combustion
+  - statues
+  - storytelling
+  - street names
+  - style
+  - sunken cities
+  - tabloids
+  - taste
+  - theater
+  - toads
+  - tortoises
+  - trains
+  - transcendentalism
+  - translation
+  - travel
+  - travesties
+  - truffled turkeys
+  - unique specimens
+  - vacation
+  - villains
+  - voice
+  - walking eyeball cartoons
+  - weeding
+  - werebears
+  - wisdom
+  - wish list
+  - witches
+  - writing
+  - ČAPEK Karel
+  relme: {}
+  last_post_title: What I Read in January 2026 – Robustious rothers in rural rivo
+    rhapsodic.
+  last_post_description: ""
+  last_post_date: "2026-02-14T14:41:27-06:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/02/what-i-read-in-january-2026-robustious.html
+  last_post_categories:
+  - reading
+  last_post_language: ""
+  last_post_guid: 8c36b7a58127a9b11ec78df85c22ed79
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 23
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 294
+---

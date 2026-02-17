@@ -1,0 +1,1176 @@
+---
+title: ReynoldsRetro
+date: "2026-02-14T16:06:43-08:00"
+description: |-
+  "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
+  "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
+params:
+  feedlink: https://reynoldsretro.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: ee0164201ffbe18cb7dec0752fdcc042
+  websites:
+    https://reynoldsretro.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - .O.rang
+  - 100percent SILK
+  - 10TH ANNIVERSARY OF PUNK
+  - "1969"
+  - "1970"
+  - "1974"
+  - "1979"
+  - 1980S
+  - 1985-92
+  - "1986"
+  - "1988"
+  - "1989"
+  - "1990"
+  - "1991"
+  - "1992"
+  - "1993"
+  - "1994"
+  - 2 TONE
+  - 2-TONE
+  - "2011"
+  - 24 HOUR PARTY PEOPLE
+  - 2STEP
+  - 3RD BASS
+  - 4 HERO
+  - 4TH WORLD MUSIC
+  - A CERTAIN RATIO
+  - A TO Z OF THE EIGHTIES
+  - A WOEBOT TURN-ON
+  - A.R. Kane
+  - AALIYAH
+  - ABBA
+  - ABC
+  - ABJECTION
+  - ACID HOUSE
+  - ACID ROCK
+  - ADD N TO (X)
+  - ADELE
+  - ADELLE
+  - ADI NEWTON
+  - AFRO-FUTURISM
+  - AFX
+  - AGAINST HEALTH AND EFFICIENCY
+  - AGAINST RACE
+  - AGE OF CHANCE
+  - AL GREEN
+  - ALAN RANKINE
+  - ALICE COOPER
+  - ALTERED ZONES
+  - ALTERNATIVE ROCK
+  - ALVVAYS
+  - AMANDA BROWN
+  - AMBIENT
+  - AMBIENT DUB
+  - AMBIENT HOUSE
+  - AMBIENT JUNGLE
+  - AMBIENT MUSIC
+  - AMERICAN TELEVISION
+  - AMERICANA
+  - ANALOGUE FORMATS
+  - ANALOGUE SYSTEM
+  - ANALORD
+  - ANDY GILL
+  - ANGLOPHILIA
+  - ANIMAL COLLECTIVE
+  - ANNIE ANXIETY
+  - ANTHONY H. WILSON
+  - ANTI-GENRE
+  - ANTI-POSTGENRE
+  - ANTI-RETRO
+  - ANTI-ROCKISM
+  - ANTI-THEATRICALITY
+  - ANXIETY OF INFLUENCE
+  - APHEX TWIN
+  - ARDKORE
+  - ARIEL PINK
+  - ARIEL PINK'S HAUNTED GRAFFITI
+  - ARSEQUAKE
+  - ART AND BUSINESS
+  - ART OF NOISE
+  - ART OF NOISES
+  - ARTCORE
+  - ARTFORUM
+  - ASSOCIATES
+  - ATEMPORALITY
+  - ATOMS FOR PEACE
+  - AU PAIRS
+  - AUTECHRE
+  - AUTHORITARIANISM
+  - AUTO-TUNE
+  - AUTOBIOGRAPHY
+  - AUTOTUNE
+  - AVANTFUNK
+  - AXL ROSE
+  - BACKPACKER RAP
+  - BAD BRAINS
+  - BAD INFLUENCES
+  - BALIL
+  - BANDS AFTER THEIR PEAK
+  - BANDS AND THEIR SHITTY UNMEMORABLE LATER ALBUMS
+  - BANDS WOT SHAT ON THEIR OWN LEGEND
+  - BANGING TUNES
+  - BARACK OBAMA
+  - BARNEY HOSKYNS
+  - BARON MORDANT
+  - BASIC CHANNEL
+  - BASS
+  - BASTARD POP
+  - BAUHAUS
+  - BEAVER AND KRAUSE
+  - BEAVER TRAPPERS
+  - BELBURY POLY
+  - BELGIUM
+  - BELTRAM
+  - BEN RATLIFF
+  - BEST TECHNO ALBUMS
+  - BETA BAND
+  - BETWEEN CAMPS
+  - BEYONCE
+  - BIG BLACK
+  - BIG NOISES
+  - BIG YOUTH
+  - BILL CLINTON
+  - BILL DRUMMOND
+  - BILL WYMAN
+  - BILLY IDOL
+  - BILLY MACKENZIE
+  - BLACK SABBATH
+  - BLACK TO THE FUTURE
+  - BLAME & JUSTICE
+  - BLEEP
+  - BLEEP 'N' BASS
+  - BLISS ROCK
+  - BLISSED OUT
+  - BLISSROCK
+  - BLUE ORCHIDS
+  - BLUE VELVET
+  - BOARDS OF CANADA
+  - BODYSNATCH
+  - BOMB THE BASS
+  - BORN BAD
+  - BOSHING TUNES
+  - BRAND NUBIAN
+  - BREAKBEAT GARAGE
+  - BREAKSTEP
+  - BRIAN CROSS
+  - BRING THE NOISE
+  - BRITISH FOLK
+  - BRITISH MONARCHY
+  - BRITISH MUSIC PRESS
+  - BRITT BROWN
+  - BRUCE STERLING
+  - BRUZA
+  - BUTTERFLY CHILD
+  - BUTTHOLE SURFERS
+  - BUZZCOCKS
+  - BY THE TIME I GET TO ARIZONA
+  - Brazil
+  - Brazilian Nao Wave
+  - Brazilian Postpunk
+  - Buchla
+  - CABARET VOLTAIRE
+  - CAFE KAPUT
+  - CAJUAL
+  - CANADA
+  - CANNIBAL OX
+  - CANTERBURY SCENE
+  - CARICATURE
+  - CARL CRAIG
+  - CASH MONEY
+  - CASSETTES
+  - CEX
+  - CHAIN REACTION
+  - CHARISMA
+  - CHARLIE KEIGHER
+  - CHILL OUT
+  - CHILLWAVE
+  - CHRIS BLACKWELL
+  - CHRIS SCOTT
+  - CHRISTMAS SONGS
+  - CHUCK D
+  - CLASSICAL MUSIC
+  - CLOCK DVA
+  - COCTEAU TWINS
+  - COLDWAVE
+  - COMPANY FLOW
+  - COMSAT ANGELS
+  - CONCEPTRONICA
+  - CONSCIOUS RAP
+  - CONTORTIONS
+  - CONTROL
+  - CONVERSION EXPERIENCES
+  - COSMOPOLITANISM
+  - COUNTERFACTUALS
+  - COVER VERSIONS
+  - CRANES
+  - CRASS
+  - CRISTINA
+  - CRITICISM
+  - CRITICS MAKING MUSIC
+  - CRUEL WORLD
+  - CRUNK
+  - CURATOR VERSUS CREATOR
+  - CURTIS JONES
+  - CYLINDER RECORDING
+  - CYPRESS HILL
+  - Caja Negra
+  - D-GENERATION
+  - D.D. DENHAM
+  - DADA
+  - DAFT PUNK
+  - DAMON ALBARN
+  - DANCEHALL
+  - DANIEL CLOWES
+  - DANNY THOMPSON
+  - DARA
+  - DARK STAR
+  - DARKSIDE
+  - DARKWAVE
+  - DAVE BALL
+  - DAVID BOWIE
+  - DAVID LYNCH
+  - DAVID STUBBS
+  - DAVID THOMAS
+  - DAVID TOOP
+  - DB
+  - DE LA SOUL
+  - DEADHEADS
+  - DEATH
+  - DEATH IS NOT THE END
+  - DECADENCE
+  - DECADES
+  - DECONSTRUCTION
+  - DEEP BLUE
+  - DEEPFAKES
+  - DEEPNESS
+  - DEFACIALISATION
+  - DELTA 5
+  - DENNIS MORRIS
+  - DEPERSONALISATION
+  - DESTINYS CHILD
+  - DETAILS
+  - DEVO
+  - DFA
+  - DGENERATION
+  - DIGICULTURE
+  - DIGIDUB
+  - DIGITAL SYSTEM
+  - DINOSAUR JR
+  - DISCOVERY
+  - DISQUES DU CREPUSCULE
+  - DIY
+  - DIZZEE RASCAL
+  - DJ KRUSH
+  - DJ SHADOW
+  - DMX
+  - DO IT YOURSELF
+  - DON LETTS
+  - DOOMSCROLLING
+  - DRAKE
+  - DREAMPOP
+  - DRIFT AND DISCOVERY
+  - DRUM AND BASS
+  - DRY CLEANING
+  - DUB
+  - DUB REGGAE
+  - DUB TECHNO
+  - DUB VIRUS
+  - Defunkt
+  - EARACHE
+  - EARWIG
+  - EBM
+  - ECHO AND THE BUNNYMEN
+  - ECLECTICISM AS DEAD END
+  - ECM
+  - ECONOMICS
+  - ECSTASY
+  - EIGHTIES REVIVALISM
+  - EL P
+  - ELECTROCLASH
+  - ELECTRONIC BODY MUSIC
+  - ELECTRONIC MUSIC
+  - ELECTRONIC PANORAMA
+  - ELECTRONOUVEAU
+  - ELEPHANT MAN
+  - ELVIS COSTELLO
+  - ENERGY FLASH
+  - ENGINEER-POET
+  - ENGLANDS DREAMING
+  - ENGLISHNESS
+  - ENTROPY IN THE UK
+  - EON
+  - ERNEST HOOD
+  - ERYKAH BADU
+  - ESCAPE VELOCITY
+  - ETHEREAL
+  - EULOGIES
+  - EUROHARDCORE CONTINUUM
+  - EVE
+  - EXCESS
+  - EXCESS ALL AREAS
+  - EXOTICA
+  - EXTREME METAL
+  - Ezequiel Fanego
+  - FACEBOOK
+  - FACTORY
+  - FACTORY BENELUX
+  - FAIRY TALE VIEW OF UK
+  - FAITH NO MORE
+  - FASCISM
+  - FAUST
+  - FEAR OF A BLACK PLANET
+  - FIFTY FOOT HOSE
+  - FINE YOUNG CANNIBALS
+  - FIORUCCI MADE ME HARDCORE
+  - FISHBONE
+  - FLIRTING WITH FASCISM
+  - FLYBOY IN THE BUTTERMILK
+  - FOUL PLAY
+  - FOURTH WORLD MUSIC
+  - FRANKIE GOES TO HOLLYWOOD
+  - FRANKIE ROSE
+  - FREAKBEAT
+  - FREDRIC JAMESON
+  - FREQUENCIES
+  - FUN HOUSE
+  - FUNK METAL
+  - FUNKADELIC
+  - FUSE
+  - FUTURISM
+  - GABBA
+  - GABBER
+  - GANG GANG DANCE
+  - GANG OF FOUR
+  - GARAGE PUNK
+  - GARAGE RAP
+  - GARY NUMAN
+  - GENREMANIA
+  - GENREOLOGY
+  - GENTLE PUNK
+  - GEOFF NICHOLSON
+  - GEORGE CLINTON
+  - GHOST BOX
+  - GHOSTLY
+  - GLAM
+  - GLAM ROCK
+  - GLC
+  - GLOFI
+  - GLOOMCORE
+  - GOLDIE
+  - GOOD LOOKING RECORDS
+  - GOOD MUSIC SOCIETY
+  - GOTH
+  - GQ Style
+  - GRATEFUL DEAD
+  - GRAYFOLDED
+  - GREBO
+  - GREEN GARTSIDE
+  - GREEN VELVET
+  - GREG TATE
+  - GREIL MARCUS
+  - GRIME
+  - GRIMES
+  - GRINDCORE
+  - GRINDCRUSHER
+  - GRUNGE
+  - GUITAR SOLOS
+  - GUNS N ROSES
+  - Grieta Mag
+  - H.ARK
+  - HACIENDA
+  - HAPPY FLOWERS
+  - HAPPY HARDCORE
+  - HARDCORE
+  - HARDCORE CONTINUUM
+  - HARDCORE HEROES
+  - HARDCORE RAP
+  - HARDCORE TECHNO
+  - HARMONY KORINE
+  - HAROLD BLOOM
+  - HAROLD BUDD
+  - HARRY
+  - HAUNTOLOGY
+  - HAWKWIND
+  - HE WHO FUCKS NUNS WILL SOMEDAY JOIN THE CHURCH
+  - HEAVY METAL
+  - HEROIN HOUSE
+  - HIGH WOLF
+  - HILARY CLINTON
+  - HIP HOP
+  - HIP HOP BOOKS
+  - HIPPIE
+  - HIPPIES
+  - HIPSTAMATIC
+  - HITLER
+  - HOPESCROLLING
+  - HORRORIST
+  - HOSPITAL RECORDINGS
+  - HUMAN AFTER ALL
+  - HUMAN LEAGUE
+  - HYBRIDITY
+  - HYPERSTASIS
+  - HYPNAGOGIC POP
+  - Histrio-Mastix
+  - Honeymoon in Red
+  - I BE THE PROPHET
+  - I'D RATHER BE THE DEVIL
+  - IAN DURY
+  - IAN HODGSON
+  - IBIZA
+  - IBIZA RADIO
+  - IDM
+  - IGGY POP
+  - IMPROVISATION
+  - IMPURISM
+  - INDIE
+  - INDIE RAP
+  - INDUSTRIAL
+  - INDUSTRIAL TECHNO
+  - INFANTJOY
+  - INFINITE LIVEZ
+  - INSIDES
+  - INSTAGRAM
+  - INTELLIGENT DANCE MUSIC
+  - INTERSYSTEMS
+  - ISLAND
+  - ISLAND RECORDS
+  - ISOLEE
+  - ITAL
+  - Ice Queen
+  - JAH WOBBLE
+  - JAMAICA
+  - JAMES BROWN
+  - JAMES CHANCE
+  - JAMES KIRBY
+  - JAMES LAVELLE
+  - JAMES MURPHY
+  - JAMES WHITE
+  - JAMES WHITE AND THE BLACKS
+  - JANES ADDICTION
+  - JAY Z
+  - JEREMY CORBYN
+  - JEREMY DELLER
+  - JERRY GARCIA
+  - JG BALLARD
+  - JIM IRVIN
+  - JIM JUPP
+  - JIM STEINMAN
+  - JIMI HENDRIX
+  - JOE BOYD
+  - JOE CASSIDY
+  - JOEY BELTRAM
+  - JOHN BRANNON
+  - JOHN ENTWISTLE
+  - JOHN LENNON
+  - JOHN LYDON
+  - JOHN MARTYN
+  - JOHN MCKAY
+  - JOHN OSWALD
+  - JOHN PEEL
+  - JOHN ROBB
+  - JOHN'S CHILDREN
+  - JOHNNY ROTTEN
+  - JON BROOKS
+  - JON HASSELL
+  - JON SAVAGE
+  - JONAS BARISH
+  - JONATHAN SELZER
+  - JONNY TRUNK
+  - JOSEF K
+  - JOUISSANCE
+  - JOY DIVISION
+  - JOY PRESS
+  - JULEE CRUISE
+  - JULIAN HOUSE
+  - JULIAN WEBER
+  - JUNE TABOR
+  - JUNGLE
+  - JUNGLIST
+  - JUNKSPACE
+  - JUVENILE
+  - K-PUNK
+  - KANO
+  - KANYE WEST
+  - KATE BUSH
+  - KATE MIDDLETON
+  - KCRW
+  - KEIJI HAINO
+  - KEITH FLINT
+  - KEITH LEVENE
+  - KEN DOWNIE
+  - KENNETH ANGER
+  - KENNY MORRIS
+  - KEVIN AYERS
+  - KEVIN MARTIN
+  - KID 606
+  - KIKI
+  - KILLDOZER
+  - KILLING JOKE
+  - KING CRIMSON
+  - KING OF THE SLUMS
+  - KINGS
+  - KLAUS THEWELEIT
+  - KMFDM
+  - KODWO ESHUN
+  - KRAUTROCK
+  - Kaitlyn Aurelia Smith
+  - LA ROUX
+  - LADY SOVEREIGN
+  - LANA DEL REY
+  - LANDFILL INDIE
+  - LARGEHEARTED BOY
+  - LATE POSTPUNK
+  - LATE REGISTRATION
+  - LAUGHING HYENAS
+  - LAURIE ANDERSON
+  - LAWRENCE GROSSBERG
+  - LCD SOUNDSYSTEM
+  - LESTER BANGS
+  - LETHAL BIZZLE
+  - LFO
+  - LIAM HOWLETT
+  - LL COOL J
+  - LMC
+  - LONDON
+  - LONDON MUSICIANS COLLECTIVE
+  - LOSING MY EDGE
+  - LOST ERA
+  - LOVE AND ROCKETS
+  - LOW END THEORY
+  - LTJ BUKEM
+  - LTM
+  - LUKE OWEN
+  - LUKE VIBERT
+  - LUSCIOUS JACKSON
+  - LUSHNESS
+  - LYRICS
+  - Lydia Lunch
+  - MALARIA
+  - MALCOLM CECIL
+  - MANCHESTER
+  - MANTIQUING
+  - MANTRONIX
+  - MARC ACARDIPANE
+  - MARIA MINERVA
+  - MARINE
+  - MARINETTI
+  - MARK BELL
+  - MARK E. SMITH
+  - MARK FISHER
+  - MARK FISHER WAS DGENERATION
+  - MARK LECKEY
+  - MARK STEWART
+  - MARTIN AMIS
+  - MARTIN BRAMAH
+  - MARTIN LUTHER KING DAY
+  - MASSIVE ATTACK
+  - MASTERPIECES
+  - MATMOS
+  - MATTHEW INGRAM
+  - MAURIZIO
+  - MAXIMALISM
+  - MCS
+  - MDMA
+  - MEAT PUPPETS
+  - MEATLOAF
+  - MEATWHISTLE
+  - MEDIEVALISM
+  - MEGA MAN9
+  - MEGAN
+  - MEKONS
+  - MELODY MAKER
+  - MELODY MAKER 1986
+  - MELODY MAKER 1987
+  - MELODY MAKER 1989
+  - MELODY MAKER 1990
+  - MELODY MAKER 1991
+  - MELODY MAKER 1993
+  - MELODY MAKER 1994
+  - MELODY MAKER 1995
+  - MEMORADELIA
+  - MEMORY
+  - MENTASM
+  - MERCURY REV
+  - MESSIAH
+  - METAL BOX
+  - MICHAEL JACKSON
+  - MILES DAVIS
+  - MINIMALISM
+  - MISSY ELLIOTT
+  - MO WAX
+  - MO' WAX
+  - MOD
+  - MODERNISM
+  - MOKUM
+  - MONITOR
+  - MONOCULTURE
+  - MONOLAKE
+  - MOON WIRING CLUB
+  - MOPE ROCK
+  - MORDANT MUSIC
+  - MORE BRILLIANT THAN THE SUN
+  - MORONIC INFERNO
+  - MORRISSEY
+  - MOTOWN
+  - MOVING SHADOW
+  - MULTICULTURALISM
+  - MUSIC FOR FILM
+  - MUSIC FOR TELEVISION
+  - MUSIC PRESS
+  - MUSICALITY
+  - MUSICOVERLOAD
+  - MUSIQUE CONCRETE
+  - MUTANT DISCO
+  - MY BLOODY VALENTINE
+  - MYERSONJACOB'S OPTICAL STAIRWAY
+  - Melody Maker 1988
+  - N-JOI
+  - NARCISSISM
+  - NARCISSISTIC PERSONALITY DISORDER
+  - NAZISM
+  - NEGATIVE APPROACH
+  - NEIGHBOURHOODS
+  - NEIL COOPER
+  - NERD
+  - NERDTRONICA
+  - NEW AGE
+  - NEW AGE HOUSE
+  - NEW MUSICAL EXPRESS
+  - NEW POP
+  - NEW STATESMAN COLUMNS
+  - NEW WAVE OF NEW WAVE
+  - NEW YORK
+  - NEW YORK TIMES
+  - NEW ZEALAND
+  - NICK CAVE
+  - NICK CAVE AND THE BAD SEEDS
+  - NINA SIMONE
+  - NITZER EBB
+  - NME
+  - NO PIGEONS
+  - NO SCRUBS
+  - NO WAVE
+  - NOIR MOR
+  - NOISE
+  - NOISE ROCK
+  - NOODLING
+  - NOSTALGIA
+  - NOSTALGIA CONSPIRACY
+  - NOT NOT FUN
+  - NOTES FOR A STUDY OF NEW WAVE
+  - NOTES ON THE NOUGHTIES
+  - NUGGETS
+  - Neptunes
+  - OBITUARIES
+  - OBSERVER MUSIC MONTHLY
+  - OLD SKOOL RAVE
+  - OMNI TRIO
+  - ONEOHTRIX POINT NEVER
+  - OUTKAST
+  - OZZY OSBOURNE
+  - October 29 1988
+  - PAPA SPRAIN
+  - PARLIAMENT
+  - PAUL GILROY
+  - PAUL MORLEY
+  - PAUL OLDFIELD
+  - PAWN STARS
+  - PAY AS U GO KARTEL
+  - PAZZ AND JOP
+  - PCP
+  - PERE UBU
+  - PERNICIOUS INFLUENCES
+  - PESHAY
+  - PETE SHELLEY
+  - PETER STRICKLAND
+  - PFM
+  - PFUNK
+  - PHIL LESH
+  - PHUTURE
+  - PHUTURISM
+  - PIERRE HENRY
+  - PIRATE RADIO
+  - PIRATE RADIO ADVERTS
+  - PIRATE TAPES
+  - PITCHFORK
+  - PIXIES
+  - PLAID
+  - PLANET MU
+  - PLAYGROUP
+  - PLUG
+  - PLUNDERPHONICS
+  - PLUNDERPHONICS. GRATEFUL DEAD
+  - POLITICS AND POP
+  - POP MUSIC
+  - POPISM
+  - POPTIMISM
+  - PORTER RICKS
+  - POSITION NORMAL
+  - POSITIVE THINKING
+  - POST-GENRE
+  - POST-HARDCORE
+  - POST-INDIE
+  - POST-RAVE
+  - POSTDISCO
+  - POSTHUMANISM
+  - POSTINDIE
+  - POSTPUNK
+  - POSTPUNK REVIVAL
+  - PRAGVEC
+  - PRIMITIVE
+  - PRINCE CHARLES
+  - PRINCE FAR I
+  - PRINCE WILLIAM
+  - PRO-GENRE
+  - PRODIGY
+  - PROSPECTIVE 21E SIELCE
+  - PSYCHEDELIA
+  - PSYCHEDELICS
+  - PUBLIC ENEMY
+  - PUBLIC IMAGE LTD
+  - PUNK
+  - PURE MANIA
+  - Pharrell
+  - QUEEN
+  - QUEEN ELIZABETH II
+  - QUESTIONNAIRES
+  - QUINCY JONES
+  - R&B
+  - RACISM
+  - RAGGA
+  - RAP
+  - RAP CLANS
+  - RAP DYNASTIES
+  - RAP SING
+  - RAVE
+  - RAVE 'N' ROLL
+  - RECORD ARTWORK
+  - RECORD COLLECTION ROCK
+  - RECORD COVERS
+  - RECORD LABELS
+  - RECORD PACKAGING
+  - RED HOT CHILLI PEPPERS
+  - REGAL SYMBOLOGY
+  - REGGAE
+  - REGGAETON
+  - REGRESSION
+  - RELIEF
+  - REM KOOLHAAS
+  - REMIXOLOGY
+  - REPEATER
+  - RETRO CULTURE
+  - RETROMANIA
+  - RETROPOP
+  - RHIZOMATIC CULTURE
+  - RICHARD BRANSON
+  - RICHARD H. KIRK
+  - RICHARD NORRIS
+  - RIKO
+  - RIP
+  - RIP MARK BELL
+  - RIP MARTIN PHILLIPPS
+  - RISKY ROADZ
+  - ROAD TO DAMASCUS MOMENTS
+  - ROB HAIGH
+  - ROBERT SMITH
+  - ROBERT WYATT
+  - ROCKISM
+  - ROIR
+  - ROLAND BARTHES
+  - ROLLING STONES
+  - RON ASHETON
+  - ROOTS 'N' FUTURE
+  - ROOTS REGGAE
+  - ROUGH TRADE
+  - ROUTES FROM THE JUNGLE
+  - ROYAL FAMILY
+  - ROYAL TRUX
+  - ROYAL WEDDING
+  - RUFF RYDERS
+  - RUN THE ROAD
+  - RUSSOLO
+  - SAINT ETIENNE
+  - SAINT VITUS
+  - SALT N PEPA
+  - SAMPLADELIA
+  - SAN FRANCISCO
+  - SCIENCE FICTION
+  - SCOTT WALKER
+  - SCRITTI POLITTI
+  - SEEFEEL
+  - SELECTED AMBIENT WORKS
+  - SELF NON SELF
+  - SEX PISTOLS
+  - SEX REVOLTS
+  - SHEFFIELD
+  - SHEL TALMY
+  - SIGHT AND SOUND
+  - SILVER APPLES
+  - SILVER RECORDS
+  - SILVERFISH
+  - SIMON BIDDELL
+  - SIMON PRICE
+  - SINEAD O CONNOR
+  - SINGING
+  - SINGLES PAGE
+  - SIOUXSIE
+  - SIOUXSIE AND THE BANSHEES
+  - SKA
+  - SKINNY BOYS
+  - SKINNY PUPPY
+  - SKIP JAMES
+  - SLADE
+  - SLY AND THE FAMILY STONE
+  - SLY STONE
+  - SMASH
+  - SOHO
+  - SOLID AIR
+  - SONGWRITING
+  - SOUND SYSTEM CULTURE
+  - SOUNDTRACKISM
+  - SPIN
+  - SPORTY THIEVZ
+  - SPRING BREAKERS
+  - SST
+  - STANKONIA
+  - STEREOLAB
+  - STEVE ALBINI
+  - STEWART HOME
+  - STORAGE WARS
+  - STRANGLERS
+  - STREET RAP
+  - SUBURBAN BASE
+  - SUPERHYBRIDITY
+  - SUSAN MCLARY
+  - SWEET EXORCIST
+  - SWING OUT SISTER
+  - SWIZZ BEATZ
+  - SYNTHEDELIA
+  - SYRINX
+  - Seventies rock revivalism
+  - Sinéad O'Connor
+  - TAIO CRUZ
+  - TALKING HEADS
+  - TALKOVER
+  - TAPES
+  - TAZ
+  - TECHNO
+  - TECHNO HAUNTED BY THE GHOST OF PUNK
+  - TECHNO PUNK
+  - TECHNO-ANIMAL
+  - TELEVISION
+  - TERROR DANJAH
+  - TERRY HALL
+  - TEST DEPT
+  - THE ADVENT
+  - THE ADVISORY CIRCLE
+  - THE ASSOCIATES
+  - THE AVALANCHES
+  - THE BAND
+  - THE BIRTHDAY PARTY
+  - THE BLACK DOG
+  - THE BLACK EYED PEAS
+  - THE BLUEPRINT
+  - THE BRITISH CONTRIBUTION TO ROCK
+  - THE CARETAKER
+  - THE CHILLS
+  - THE CLASH
+  - THE CLEAN
+  - THE CLEMENT GREENBERG OF ROCKWRITE
+  - THE CORONATION
+  - THE CRAMPS
+  - THE CREATION
+  - THE CURE
+  - THE DEEEP
+  - THE EASYBEATS
+  - THE EXTRAS
+  - THE EYES
+  - THE FALL
+  - THE FEELIES
+  - THE FOCUS GROUP
+  - THE FUTURE
+  - THE GOOD THE BAD AND THE QUEEN
+  - THE GRAIN OF THE VOICE
+  - THE GRID
+  - THE GROUPIES
+  - THE HILLIARD ENSEMBLE
+  - THE IDOL
+  - THE JAMAICAN CONTRIBUTION
+  - THE KLF
+  - THE LOWER DEPTHS
+  - THE LOX
+  - THE MEME ABYSS
+  - THE MEN
+  - THE MOVER
+  - THE POLITICS OF SOUND
+  - THE POP GROUP
+  - THE PRODIGY
+  - THE RAPTURE
+  - THE RESIDENTS
+  - THE ROCKIST CRINGE
+  - THE SIXTIES
+  - THE SLITS
+  - THE SMITHS
+  - THE SOURCE
+  - THE SPECIALS
+  - THE STOOGES
+  - THE UNACCEPTABLE FACE OF FREEDOM
+  - THE UNDERGROUND
+  - THE WAITRESSES
+  - THE WEEKND
+  - THE WHITE NEGRO
+  - THE WHO
+  - THE WIRE
+  - THESE ANIMAL MEN
+  - THIS HEAT
+  - THROBBING GRISTLE
+  - TIM GOLDSWORTHY
+  - TIMBALAND
+  - TIME
+  - TIME OUT
+  - TINA WEYMOUTH
+  - TIPS FOR 1994
+  - TLC
+  - TOASTING
+  - TODD EDWARDS
+  - TODD RUNDGREN
+  - TODD TERRY
+  - TOM VERLAINE
+  - TONTO'S EXPANDING HEADBAND
+  - TONY MARCUS
+  - TOUCH & GO
+  - TRADADELIA
+  - TRADITIONAL MUSIC
+  - TRANCE
+  - TRAP
+  - TREVOR JACKSON
+  - TRIBUTES
+  - TRICIA ROSE
+  - TRICKY
+  - TRIP HOP
+  - TROJAN RECORDS
+  - TRUMP
+  - TRUNK RECORDS
+  - TWIN PEAKS
+  - TWO FINGAS
+  - TWO FINGERS
+  - TWO-TONE
+  - Talk Talk
+  - That Voice
+  - U2
+  - UK GARAGE
+  - UK HIP HOP
+  - UK RAP
+  - UK RAVE
+  - UNA BAINES
+  - UNCUT
+  - UNDERGROUND HIP HOP
+  - UNDIE RAP
+  - UNDIEGROUND
+  - UNIQUE 3
+  - UNITED STATES OF AMERICA
+  - UNKLE
+  - UTAH SAINTS
+  - V RECORDS
+  - VALERIO MATTIOLI
+  - VAMPIRE WEEKEND
+  - VANILLA ICE
+  - VERSION
+  - VERSIONING
+  - VERSUS
+  - VIBE MAGAZINE
+  - VICE VERSA
+  - VILLAGE VOICE
+  - VILLALOBOS
+  - VINTAGE
+  - VIOLENCE
+  - VIRGIN RECORDS
+  - VIVIEN GOLDMAN
+  - VIVIsectVI
+  - VOICE
+  - VOICES
+  - VOODOO MAGIC
+  - VS
+  - WAGON CHRIST
+  - WANKLE
+  - WARP
+  - WAX TRAX
+  - WEIMAR N B
+  - WHITE MUSIC
+  - WIGGAS
+  - WIGGERISM
+  - WIKIPEDIA
+  - WILSON NEATE
+  - WIZZARD
+  - WOEBOT
+  - WORLD DOMINATION ENTERPRISES
+  - WRITING ABOUT DANCE MUSIC
+  - WRITING ABOUT MUSIC
+  - WU TANG CLAN
+  - X PROJECT
+  - XENOMANIA
+  - XON
+  - YING YANG TWINS
+  - YOU'RE NOT ON THE LIST
+  - YOUNG BLACK TEENAGERS
+  - ZEITGEIST
+  - ananda project
+  - apopalypse now
+  - avant-funk
+  - beatniks
+  - black music
+  - blurbs
+  - boogie
+  - boogie woogie
+  - boris
+  - brian eno
+  - chris branna
+  - christmas
+  - chuck eddy
+  - comus
+  - cultural coleslaw
+  - david byrne
+  - disco
+  - durutti column
+  - déjà vu
+  - free folk
+  - funk
+  - glitter
+  - hardrock continuum
+  - house music
+  - iINTELLIGENT DANCE MUSIC
+  - innovation drought
+  - jim jarmusch
+  - joe carducci
+  - junkshop glam
+  - lameness on the horizon
+  - lou reed
+  - mash ups
+  - masters of reality
+  - music writing
+  - my life in the bush of ghosts
+  - negativland
+  - new weird america
+  - post-rock
+  - ps
+  - psych folk
+  - punk funk
+  - raging slab
+  - retro
+  - retro-mania
+  - retroactivity
+  - rip it up and start again.
+  - rock book overload
+  - roger trouman
+  - sampling
+  - seeds of Rip It Up and Start Again
+  - sharity blogs
+  - six finger satellite
+  - soul jazz
+  - soundtracks
+  - southern rock
+  - stasis
+  - synths
+  - the Ex
+  - the RZA
+  - the nineties
+  - thinking about music
+  - tom waits
+  - vini reilly
+  - vintage chic
+  - wooden wand
+  - zapp
+  - μ-Ziq. B.J. COLE
+  relme:
+    https://blissedoutbysimonreynolds.blogspot.com/: true
+    https://blissedoutinfohype.blogspot.com/: true
+    https://blissout.blogspot.com/: true
+    https://bringthenoiseinfohype.blogspot.com/: true
+    https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://dreamsbuiltbyhand.blogspot.com/: true
+    https://energyflashbysimonreynolds.blogspot.com/: true
+    https://energyflashdiscogbibliog.blogspot.com/: true
+    https://energyflashinfohype.blogspot.com/: true
+    https://futuromaniac.blogspot.com/: true
+    https://hardlybaked.blogspot.com/: true
+    https://hardlybaked2.blogspot.com/: true
+    https://musicpresspantheon.blogspot.com/: true
+    https://notesandscraps.blogspot.com/: true
+    https://postpunkbuennosairessantiago.blogspot.com/: true
+    https://retromaniabysimonreynolds.blogspot.com/: true
+    https://retromaniafootnotes.blogspot.com/: true
+    https://retromaniainformationandhype.blogspot.com/: true
+    https://reynoldscorcoran.blogspot.com/: true
+    https://reynoldsretro.blogspot.com/: true
+    https://ripitupandstartagainbysimonreynolds.blogspot.com/: true
+    https://ripitupfootnotes.blogspot.com/: true
+    https://ripitupinfohype.blogspot.com/: true
+    https://sexrevolts.blogspot.com/: true
+    https://sexrevoltsinfohype.blogspot.com/: true
+    https://shockandawesimonreynolds.blogspot.com/: true
+    https://shockandawesimonreynolds2.blogspot.com/: true
+    https://simonreynoldsfavesunfaves.blogspot.com/: true
+    https://simonreynoldslecture.blogspot.com/: true
+    https://simonreynoldsmylittleunderground.blogspot.com/: true
+    https://simonreynoldsstillinadream.blogspot.com/: true
+    https://simonreynoldssydneylecture.blogspot.com/: true
+    https://thinkigekru.blogspot.com/: true
+    https://thinkigekru2.blogspot.com/: true
+    https://totallywiredbysimonreynolds.blogspot.com/: true
+    https://totallywiredinfohype.blogspot.com/: true
+    https://twattersimonreynolds.blogspot.com/: true
+    https://www.blogger.com/profile/01282478701882900354: true
+  last_post_title: idm misc
+  last_post_description: ""
+  last_post_date: "2026-02-13T13:58:15-08:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/02/idm.html
+  last_post_categories:
+  - 1985-92
+  - AMBIENT MUSIC
+  - APHEX TWIN
+  - AUTECHRE
+  - BOARDS OF CANADA
+  - CONCEPTRONICA
+  - IDM
+  - ISOLEE
+  - MAXIMALISM
+  - MINIMALISM
+  - PITCHFORK
+  - SELECTED AMBIENT WORKS
+  - TRADADELIA
+  - TRAP
+  - VALERIO MATTIOLI
+  - iINTELLIGENT DANCE MUSIC
+  - the nineties
+  last_post_language: ""
+  last_post_guid: 774675594491b1ff8670267d332fc71b
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 269
+---

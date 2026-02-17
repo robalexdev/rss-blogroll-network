@@ -13,6 +13,9 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

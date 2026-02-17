@@ -1,10 +1,10 @@
 ---
 title: Andy Bell
-date: "2025-11-10T11:52:44Z"
-description: ""
+date: "1970-01-01T00:00:00Z"
+description: Get my posts as soon as they go live!
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
-  feedtype: atom
+  feedtype: rss
   feedid: c8acc64f2c073b44e9ec2d6e4ff9ca20
   websites: {}
   blogrolls: []
@@ -12,23 +12,26 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Get the core right and the resilient code will follow
+  last_post_title: I listen to a lot of I Prevail
   last_post_description: ""
-  last_post_date: "2025-11-10T11:52:44Z"
-  last_post_link: https://bell.bz/get-the-core-right-and-the-resilient-code-will-follow
+  last_post_date: "2026-02-03T17:32:58Z"
+  last_post_link: https://bell.bz/i-listen-to-a-lot-of-i-prevail/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1b42be83c3657a5434e850ae3d2a4bee
+  last_post_guid: f2f8a8b772b10b0170eaa0e1d99938a0
   score_criteria:
     cats: 0
-    description: 0
+    description: 3
     feedlangs: 0
-    hasContent: 3
+    hasContent: 0
     hasPosts: 3
     postcats: 0
     promoted: 5
@@ -41,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 3
-  avgpostlen: 296
+  postcount: 390
+  avgpostlen: 0
 ---

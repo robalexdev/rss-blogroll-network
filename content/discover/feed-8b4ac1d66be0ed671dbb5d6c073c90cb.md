@@ -1,6 +1,6 @@
 ---
 title: 保罗的小宇宙
-date: "2025-08-31T21:20:00+08:00"
+date: "2026-01-22T02:54:00+08:00"
 description: Still single, still lonely.
 params:
   feedlink: https://paugram.com/feed
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 将 MO3 音乐导出成 WAV/MP3/OGG 等格式
-  last_post_description: 近期开始回忆杀状态，在 Steam 上购买并游玩了一些以前玩过的经典小游戏，其中包括来自 PopCap
-  last_post_date: "2025-08-31T21:20:00+08:00"
-  last_post_link: https://paugram.com/tech/export-mo3-to-wav-file.html
+  last_post_title: 记一次移动端 Safari 调试踩坑
+  last_post_description: 最近在做公司项目一个 H5 版本的页面优化，合并到测试环境之后，在手机 Safari
+  last_post_date: "2026-01-22T02:54:00+08:00"
+  last_post_link: https://paugram.com/coding/troubleshooting-debugging-on-mobile-safari.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cc13ec3c52ffdb6feeccecba46e23e7a
+  last_post_guid: 0614d39d7ca67e83ece3ccd9af9d3cc4
   score_criteria:
     cats: 0
     description: 3

@@ -17,6 +17,7 @@ params:
   recommender:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
+  - https://jlelse.blog/.min.rss
   categories: []
   relme: {}
   last_post_title: '2026.2: Home, sweet overview'

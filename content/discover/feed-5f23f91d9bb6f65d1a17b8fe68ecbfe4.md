@@ -1,6 +1,6 @@
 ---
 title: diamond geezer
-date: "2025-11-16T00:17:12Z"
+date: "2026-02-06T01:00:00Z"
 description: Life viewed from London E3
 params:
   feedlink: https://diamondgeezer.blogspot.com/atom.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: blogroll.opml
     description: ""
     id: e7acde5ed1e3276a025694ed4d825e33
@@ -16,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Investigating London Near You
+  last_post_title: ABC map
   last_post_description: ""
-  last_post_date: "2025-11-15T16:27:11Z"
-  last_post_link: http://diamondgeezer.blogspot.com/2025/11/investigating-london-near-you.html
+  last_post_date: "2026-02-06T01:00:00Z"
+  last_post_link: http://diamondgeezer.blogspot.com/2026/02/abc-map.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c02108a75f085d266117562e4ae40a86
+  last_post_guid: 1260c54b1b4db214a3ba4e2beddf6dd4
   score_criteria:
     cats: 0
     description: 3
@@ -41,5 +44,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 289
+  avgpostlen: 288
 ---

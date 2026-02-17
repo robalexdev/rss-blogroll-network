@@ -23,6 +23,7 @@ params:
   - émotions
   relme:
     https://lalunemauve.fr/: true
+    https://lunem.fr/mastodon: true
   last_post_title: Les blogs que je lis en ce moment et que j’aime bien
   last_post_description: 'J’ai longtemps cru que les blogs personnels étaient morts,
     mais c’est faux : c’est juste moi qui ne savais pas où regarder. Telle un chien

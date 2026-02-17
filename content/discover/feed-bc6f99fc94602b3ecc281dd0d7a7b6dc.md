@@ -10,6 +10,9 @@ params:
     https://everythingchanges.us/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

@@ -10,6 +10,9 @@ params:
     https://blog.shrediverse.net/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -19,6 +22,7 @@ params:
   relme:
     https://blog.shrediverse.net/: true
     https://cool-as-heck.blog/: true
+    https://cool-as-heck.blog/about/: true
     https://dmv.community/@jcrabapple: true
   last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
     Work Yet'

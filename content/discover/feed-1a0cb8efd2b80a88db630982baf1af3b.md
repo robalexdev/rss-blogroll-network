@@ -10,13 +10,19 @@ params:
   feedid: 1a0cb8efd2b80a88db630982baf1af3b
   websites:
     https://reillyspitzfaden.com/: false
+    https://reillyspitzfaden.com/blog: true
     https://reillyspitzfaden.com/blog/: false
+    https://reillyspitzfaden.com/code: false
     https://reillyspitzfaden.com/code/: false
+    https://reillyspitzfaden.com/feeds: false
     https://reillyspitzfaden.com/feeds/: false
     https://reillyspitzfaden.com/interactions/: false
+    https://reillyspitzfaden.com/media: false
     https://reillyspitzfaden.com/media/: false
+    https://reillyspitzfaden.com/notes: false
     https://reillyspitzfaden.com/notes/: false
-  blogrolls: []
+  blogrolls:
+  - https://reillyspitzfaden.com/blogroll.opml
   in_blogrolls:
   - title: ""
     description: ""
@@ -24,7 +30,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://reillyspitzfaden.com/blog: true
   last_post_title: 'IndieWeb Movie Club: “Alien”'
   last_post_description: Re-watching a sci-fi classic to discuss with IndieWeb friends,
     and thinking about the music and sound design
@@ -42,10 +49,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

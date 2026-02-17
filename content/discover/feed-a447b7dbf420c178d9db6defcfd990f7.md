@@ -1,0 +1,499 @@
+---
+title: cultural snow
+date: "2026-02-15T19:30:54Z"
+description: a fourragère of snot and blutwurst
+params:
+  feedlink: https://culturalsnow.blogspot.com/atom.xml
+  feedtype: atom
+  feedid: a447b7dbf420c178d9db6defcfd990f7
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - 1920s
+  - 1960s
+  - 1980s
+  - 1990s
+  - "2016"
+  - "419"
+  - 9/11
+  - AI
+  - Adorno
+  - Alan Bennett
+  - Asia
+  - Austen
+  - BBC
+  - BNP
+  - Ballard
+  - Barthes
+  - Baudrillard
+  - Beatles
+  - Beckett
+  - Benjamin
+  - Big Brother
+  - Borat
+  - Borges
+  - Bourdieu
+  - Bowie
+  - Brecht
+  - Bret Easton Ellis
+  - Brexit
+  - Burma
+  - Burroughs
+  - CNN
+  - Cambodia
+  - Canada
+  - Chasms of the Earth
+  - China
+  - Christmas
+  - Comment is Free
+  - Cornwall
+  - Coupland
+  - DIY
+  - DLT
+  - DNA
+  - Dada
+  - Deleuze
+  - Derrida
+  - Diana
+  - Disney
+  - Don DeLillo
+  - Dr Who
+  - Duchamp
+  - Eliot
+  - Europe
+  - Facebook
+  - First Drafts
+  - Foucault
+  - France
+  - Germany
+  - Google
+  - Hornby
+  - House
+  - India
+  - Instagram
+  - Iran
+  - Iraq
+  - Italy
+  - Japan
+  - Jeffrey Archer
+  - Jimmy the Hoover
+  - Joyce
+  - Klout
+  - Korea
+  - Leonard Cohen
+  - London
+  - Luddism
+  - Magnusson
+  - Magritte
+  - Malaysia
+  - Manet
+  - McLuhan
+  - Miles Davis
+  - Mitchell
+  - Modernism
+  - Morrissey
+  - Murakami
+  - NIMBY
+  - Nazis
+  - Netherlands
+  - New Year
+  - Nordic pop classics
+  - Northern Ireland
+  - Olympics
+  - Orwell
+  - Oscars
+  - PC
+  - PR
+  - Parler
+  - Paul Morley
+  - Pelevin
+  - Perec
+  - Philippines
+  - Picasso
+  - Private Eye
+  - Radiohead
+  - Russell Brand
+  - Russia
+  - Saudi
+  - Scotland
+  - Seijun Suzuki
+  - Shakespeare
+  - Situationism
+  - Smiths
+  - Stalin
+  - Star Wars
+  - Surrealism
+  - Sweden
+  - Syd Barrett
+  - TV
+  - Tangents
+  - Thailand
+  - The Wire
+  - This Life
+  - Toby Young
+  - Torchwood
+  - Trump
+  - Tumblr
+  - Turkey
+  - Twitter
+  - UK
+  - US
+  - USA
+  - Warhol
+  - Wikipedia
+  - YouTube
+  - Zadie
+  - Zeitgeist
+  - a bit drunk
+  - absence
+  - accents
+  - actors
+  - advertising
+  - aesthetics
+  - age
+  - alienation
+  - anagrams
+  - anarchy
+  - anecdotage
+  - animals
+  - anniversaries
+  - anthropology
+  - anti-semitism
+  - apathy
+  - appropriation
+  - archaeology
+  - architecture
+  - art
+  - arts
+  - authenticity
+  - bastards
+  - birthday
+  - blandness
+  - blogging
+  - blogs
+  - books
+  - boredom
+  - branding
+  - bureaucracy
+  - business
+  - camp
+  - canon
+  - cars
+  - cartoons
+  - celebrity
+  - censorship
+  - charideee
+  - charity
+  - charts
+  - chess
+  - childhood
+  - children
+  - chocolate
+  - cinema
+  - class
+  - clf2018
+  - climate
+  - clo
+  - cocksplat
+  - colours
+  - comedy
+  - comics
+  - conspiracy
+  - consumerism
+  - copyright
+  - coup
+  - covid
+  - covid-19
+  - creationism
+  - creative sweariness
+  - creativity
+  - cricket
+  - crime
+  - criticism
+  - culture
+  - cycling
+  - dance
+  - death
+  - decade
+  - delusion
+  - design
+  - disability
+  - dog
+  - domestic upheaval
+  - domesticity
+  - doppelgangers
+  - dreams
+  - drink
+  - drivel
+  - drugs
+  - e-mail
+  - economics
+  - editing
+  - education
+  - elitism
+  - embarrassment
+  - ennui
+  - environment
+  - eschatology
+  - ethics
+  - events
+  - existentialism
+  - expat
+  - explosions
+  - fame
+  - fandom
+  - fanzines
+  - fashion
+  - fat
+  - feminism
+  - film
+  - fire
+  - food
+  - food.
+  - football
+  - footnotes
+  - footwear
+  - freebie
+  - funny
+  - furniture
+  - future
+  - futurology
+  - games
+  - gardening
+  - gender
+  - geopolitics
+  - globalisation
+  - glue
+  - graffiti
+  - happiness
+  - health
+  - history
+  - honours
+  - housing
+  - hypocrisy
+  - ice hockey
+  - identity
+  - ignorance
+  - illness
+  - immigration
+  - inconsistency
+  - indie
+  - industrial action
+  - intelligence
+  - interweb
+  - irony
+  - jobs
+  - jokes
+  - jokes about astronauts
+  - jokes about dentists
+  - journalism
+  - knives
+  - knob gag
+  - knowledge
+  - language
+  - law
+  - lesbians
+  - librarything
+  - lies
+  - life
+  - lifestyle
+  - lists
+  - log-rolling
+  - madness
+  - magazines
+  - magic
+  - marketing
+  - marriage
+  - martial arts
+  - masculinity
+  - maths
+  - meatspace
+  - media
+  - memes
+  - memories
+  - memory
+  - mental health
+  - metafiction
+  - metagoogle
+  - mime
+  - mistakes
+  - misunderstanding
+  - money
+  - morality
+  - museum
+  - music
+  - music. media
+  - names
+  - national identity
+  - neoblogs
+  - nephews
+  - news
+  - nightwear
+  - nocturnal idiosyncrasies
+  - nostalgia
+  - nudity
+  - numbers
+  - obituary
+  - old media
+  - opera
+  - originality
+  - pants
+  - parents
+  - patriotism
+  - pedant
+  - philosophy
+  - photography
+  - pigging out
+  - pith
+  - plagiarism
+  - plastic
+  - plumbing
+  - podcast
+  - poetry
+  - politics
+  - poo
+  - populism
+  - post-hippy self-indulgence
+  - posthumanism
+  - postmodernism
+  - prejudice
+  - prevalent misconceptions
+  - procrastination
+  - pronunciation
+  - protest
+  - psychiatry
+  - public humiliation
+  - publishing
+  - pudding
+  - punctuation
+  - punctured dreams
+  - punk
+  - questionable taste
+  - questions
+  - quiddity
+  - quiz
+  - quiz shows
+  - quotations
+  - race
+  - racism
+  - radio
+  - reading
+  - reality
+  - recuperation
+  - recycling
+  - redemption
+  - rejection
+  - religion
+  - retail
+  - royalty
+  - rules
+  - running
+  - sabotage
+  - science
+  - science fiction
+  - self-knowledge
+  - self-promotion (slightly more abashed than normal)
+  - sense of humour failure
+  - sex
+  - sexuality
+  - shit
+  - shoes
+  - shopping
+  - shpeech impedimentsh
+  - signs
+  - silence
+  - simulacrum
+  - slebs
+  - smoking
+  - snoring
+  - social apartheid
+  - social media
+  - society
+  - space
+  - spam
+  - spelling
+  - sport
+  - spotty virgins with too much time on their hands
+  - stamps
+  - strained Miltonic analogies
+  - strange combinations of racial stereotypes
+  - stunt
+  - stupidity
+  - subtitles
+  - symbols
+  - synergy
+  - tags
+  - talk
+  - taste
+  - tat
+  - tattoos
+  - teacher
+  - technology
+  - tennis
+  - terrorism
+  - testosterone
+  - the inevitable onset of senescence
+  - theatre
+  - theory
+  - time
+  - tourism
+  - towels
+  - toys
+  - transport
+  - travel
+  - trivia
+  - trousers
+  - truth
+  - typography
+  - ugliness
+  - unabashed self-promotion
+  - unable
+  - unclassifiable
+  - university administrators with amusing names
+  - up-its-own-arseness
+  - upgrade
+  - urban
+  - vanity
+  - video
+  - weather
+  - weight loss
+  - words
+  - work
+  - writing
+  relme: {}
+  last_post_title: About Sheffield
+  last_post_description: ""
+  last_post_date: "2026-02-13T07:29:56Z"
+  last_post_link: https://culturalsnow.blogspot.com/2026/02/about-sheffield.html
+  last_post_categories:
+  - UK
+  - music
+  - words
+  last_post_language: ""
+  last_post_guid: 57113c69f2cb670a72e66a79a1dbe904
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 25
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 290
+---
