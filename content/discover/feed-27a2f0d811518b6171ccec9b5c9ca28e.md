@@ -15,6 +15,10 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.8.14.
+    id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml

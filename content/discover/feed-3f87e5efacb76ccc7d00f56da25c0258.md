@@ -21,6 +21,12 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: 4fec48524a0a655ca9ae0e814e87c47b
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c
@@ -35,6 +41,7 @@ params:
   - https://blog.chriswm.com/.well-known/feed.xml
   - https://blog.chriswm.com/feed.xml
   - https://chrisburnell.com/feed.xml
+  - https://shellsharks.com/feeds/feed.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []

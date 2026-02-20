@@ -13,6 +13,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Blogroll
+    description: ""
+    id: 7b87285a8ddb3d5344849c363f0feee9
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

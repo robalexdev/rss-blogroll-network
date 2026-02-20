@@ -15,11 +15,21 @@ params:
     id: ec90496862be28875cc54bc36aa37ca7
   - title: Dan Q's Blogroll
     description: ""
+    id: 7e0e72d6fd1109a16363155b4cda88a8
+  - title: Dan Q's Blogroll
+    description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: Dan Q's Blogroll
+    description: ""
+    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.8.14.
+    id: 3aa0df25d16736cc58c03448d166adb5
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -29,6 +39,12 @@ params:
   - title: Subscriptions-iCloud.opml
     description: ""
     id: 2f70a6ce1879a8296b5ad597be193b3a
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: 4fec48524a0a655ca9ae0e814e87c47b
+  - title: Export from Plenary
+    description: ""
+    id: b4aa112c47ea6fa1d98538aee7d63d32
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

@@ -14,6 +14,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: SummaList feeds
+    description: ""
+    id: 6a2ff9ae46284d67b90575ded2f27f10
   recommended: []
   recommender: []
   categories: []

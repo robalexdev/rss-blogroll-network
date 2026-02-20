@@ -16,8 +16,12 @@ params:
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended: []
-  recommender: []
+  recommender:
+  - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
   last_post_title: Things I did in 2025 that have nothing to do with the internet

@@ -12,6 +12,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: FreshRSS
+    description: ""
+    id: 5a1c6ae0431c53f45dd7baba3b6f2126
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd

@@ -12,10 +12,19 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
+    id: 7e0e72d6fd1109a16363155b4cda88a8
+  - title: Dan Q's Blogroll
+    description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: Dan Q's Blogroll
+    description: ""
+    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: webring.opml
+    description: ""
+    id: b107e3282b633b1e704c60ff8805bdcc
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63

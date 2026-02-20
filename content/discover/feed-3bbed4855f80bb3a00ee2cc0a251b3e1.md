@@ -8,6 +8,7 @@ params:
   feedid: 3bbed4855f80bb3a00ee2cc0a251b3e1
   websites:
     https://lostechies.com/: true
+    https://lostechies.com/joshuaflanagan: false
     https://lostechies.com/joshuaflanagan/: false
   blogrolls: []
   in_blogrolls:

@@ -10,17 +10,25 @@ params:
     https://anniemueller.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Robert Birming - Blogroll
+    description: ""
+    id: a1b2ebb6df722e537b9d21639b1e0494
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
+  - title: The Art Of Not Asking Why - Blogroll
+    description: ""
+    id: e79d34746977a283ee12bf2f27dfee7a
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
-  recommender: []
+  recommender:
+  - https://birming.com/feed
+  - https://birming.com/feed/
   categories: []
   relme:
     https://anniemueller.com/: true

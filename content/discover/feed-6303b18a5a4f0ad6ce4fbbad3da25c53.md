@@ -13,9 +13,16 @@ params:
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.8.14.
     id: a5055187291ff08d5f2ce7e9d27f78cb
+  - title: johnjohnston/blogroll
+    description: johnjohnston's subscription list, blogroll category. List created
+      by feedlandDatabase v0.8.14.
+    id: fb1245ce7aff3fe4a4a5b347014f7cd5
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: 4fec48524a0a655ca9ae0e814e87c47b
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

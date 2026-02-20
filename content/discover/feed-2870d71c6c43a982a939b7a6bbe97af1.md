@@ -13,6 +13,9 @@ params:
   in_blogrolls:
   - title: English RSS collated by MoreRSS
     description: ""
+    id: 4fec48524a0a655ca9ae0e814e87c47b
+  - title: English RSS collated by MoreRSS
+    description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []

@@ -1,0 +1,2408 @@
+---
+title: A TRIP DOWN MEMORY LANE
+date: "2026-02-15T11:07:00-08:00"
+description: A nostalgic journey to the past to relive the golden days of entertainment!
+params:
+  feedlink: https://greatentertainersarchives.blogspot.com/atom.xml
+  feedtype: atom
+  feedid: 08beeb910fdecf1e7eb565f1e0d9bd02
+  websites: {}
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - "100"
+  - "1924"
+  - "1927"
+  - 1930s
+  - "1935"
+  - "1937"
+  - "1939"
+  - "1940"
+  - 1940s
+  - "1941"
+  - "1942"
+  - "1943"
+  - "1944"
+  - "1945"
+  - "1946"
+  - "1947"
+  - "1948"
+  - "1949"
+  - "1950"
+  - 1950s
+  - "1951"
+  - "1952"
+  - "1953"
+  - "1954"
+  - "1955"
+  - "1956"
+  - "1957"
+  - "1958"
+  - 1960s
+  - "1964"
+  - "1965"
+  - "1966"
+  - 1970s
+  - "1972"
+  - "1973"
+  - "1974"
+  - "1977"
+  - "1980"
+  - 1980s
+  - "1982"
+  - "1992"
+  - "2010"
+  - 2010-2020
+  - "2011"
+  - "2012"
+  - "2013"
+  - "2014"
+  - "2015"
+  - "2016"
+  - "2017"
+  - "2018"
+  - "2019"
+  - "2020"
+  - "2021"
+  - "2022"
+  - "2023"
+  - "2024"
+  - "2025"
+  - 20th Century Fox
+  - 78prm
+  - 9/11
+  - A Boy Named Charlie Brown
+  - A Chorus Line
+  - A Christmas Story
+  - A Kiss For Christmas
+  - A Man And His Dream
+  - A Night At The Opera
+  - A Pretty Girl Milking Her Cow
+  - A Star Is Born
+  - A Trip Down Memory Lane
+  - A Trip To The Moon
+  - AI
+  - AMC
+  - Aaron Slick From Punkin Crick
+  - Abe Vigoda
+  - Academy Awards
+  - Adam DeVine
+  - Adam Sandler
+  - Adele Astaire
+  - Adele Jergens
+  - Adele Mara
+  - African-American
+  - After Life
+  - Agnes Moorehead
+  - Ahna Capri
+  - Aileen Quinn
+  - Ain't That A Shame
+  - Al Alberts
+  - Al Bowlly
+  - Al Capone
+  - Al Donahue
+  - Al Jolson
+  - Al Molinaro
+  - Al Pacino
+  - Al Rinker
+  - Aladdin
+  - Alan Alda
+  - Alan Eichler
+  - Alan Ladd
+  - Alan Rickman
+  - Alan Young
+  - Albert Broccoli
+  - Albert Brooks
+  - Albert Einstein
+  - Albert Finney
+  - Albert Jolson
+  - Alec Baldwin
+  - Alex Karras
+  - Alexander's Ragtime Band
+  - Alexis Smith
+  - Alfie
+  - Alfred Hitchcock
+  - Alfred Molina
+  - Ali McGraw
+  - Alice Cooper
+  - Alice Faye
+  - Alla Nazimova
+  - Allan Jones
+  - Always Look On The Bright Side Of Life
+  - Amelia Earhart
+  - American Boy
+  - American Horror Story
+  - American Legion
+  - Ames Brothers
+  - An Affair To Remember
+  - Ana de Armas
+  - Anaheim
+  - Andre Previn
+  - Andrew Garfield
+  - Andrew Lincoln
+  - Andrews Sisters
+  - Andy Devine
+  - Andy Griffith
+  - Andy Kaufman
+  - Andy Russell
+  - Andy Williams
+  - Anerican Pie
+  - Angela Bassett
+  - Angela Lansbury
+  - Anita Page
+  - Ann Blyth
+  - Ann Miller
+  - Ann Reinking
+  - Ann Rutherford
+  - Ann Savage
+  - Ann Sheridan
+  - Ann Southern
+  - Ann-Margret
+  - Anna Massey
+  - Anna May Wong
+  - Anne Bancroft
+  - Anne Costello
+  - Anne Francis
+  - Anne Jeffreys
+  - Anne Lenner
+  - Anne Meara
+  - Anne Shelton
+  - Annette Charles
+  - Annette Funicello
+  - Annette Hanshaw
+  - Annie
+  - Annie Oakley
+  - Another Man's Poison
+  - Anthony Bourdain
+  - Anthony Hopkins
+  - Anthony Perkins
+  - Anthony Quinn
+  - Anything Goes
+  - April 12
+  - Aquaman
+  - Aretha Franklin
+  - Ariana Grande
+  - Arlene Dahl
+  - Arsenic And Old Lace
+  - Art Carney
+  - Art Lund
+  - Arthur Godfrey
+  - Arthur Lake
+  - Arthur Marx
+  - Arthur Treacher
+  - Artie Lange
+  - Artie Shaw
+  - At Last
+  - Audrey Hepburn
+  - Audrey Landers
+  - August 20
+  - Ava Astaire
+  - Ava Gardner
+  - B.D. Hyman
+  - BJ Novak
+  - Babe Ruth
+  - Babies For Sale
+  - Baby Face
+  - Back In Action
+  - Back To The Future
+  - Bad Taste
+  - Ballad For Americans
+  - Bamboozled
+  - Barbara Billingsley
+  - Barbara Cook
+  - Barbara Hale
+  - Barbara Rush
+  - Barbara Sinatra
+  - Barbara Thomason Rooney
+  - Barbie
+  - Barbra Streisand
+  - Barney Martin
+  - Barry Fitzgerald
+  - Basil Rathbone
+  - Batman
+  - Bea Arthur
+  - Bea Wain
+  - Beatrice Lillie
+  - Beau James
+  - Beaumont Sisters
+  - Bebe Daniels
+  - Beetlejuice Beetlejuice
+  - Bei Mir Bist Du Schoen
+  - Bela Lugosi
+  - Belle Baker
+  - Bells Are Ringing
+  - Ben
+  - Ben Blue
+  - Ben Stiller
+  - Benny Goodman
+  - Bernadette Peters
+  - Bert Gordon
+  - Bert Lahr
+  - Bert Parks
+  - Beryl Davis
+  - Bessie Love
+  - Bessie Smith
+  - Betsy Blair
+  - Betsy Drake
+  - Bette Davis
+  - Bette Midler
+  - Better Call Saul
+  - Betty Clooney
+  - Betty Garrett
+  - Betty Grable
+  - Betty Hutton
+  - Beverly Hillbillies
+  - Beverly Washburn
+  - Bewitched
+  - Big Band Alliance
+  - Big Boy
+  - Big Fish
+  - Bill Bojangles Robinson
+  - Bill Cardille
+  - Bill Clinton
+  - Bill Cobbs
+  - Bill Cosby
+  - Bill Macy
+  - Bill Marx
+  - Bill Murray
+  - Bill Paxton
+  - Billie Burke
+  - Billie Holiday
+  - Billie Rogers
+  - Billy Crystal
+  - Billy DeWolfe
+  - Billy Eckstine
+  - Billy Joel
+  - Billy Mumy
+  - Billy Wilder
+  - Bing Crosby
+  - Bing Crosby's Last Song
+  - Bix Biederbecke
+  - Blake Edwards
+  - Blazing Saddles
+  - Blonde
+  - Blondie
+  - Blue Christmas
+  - Blue Prelude
+  - Blue Skies
+  - Blueberry Hill
+  - Blues Skies
+  - Blythe Danner
+  - Bob Burns
+  - Bob Chester
+  - Bob Colonna
+  - Bob Cowley
+  - Bob Crosby
+  - Bob Cummings
+  - Bob Dorian
+  - Bob Eberle
+  - Bob Haymes
+  - Bob Hope
+  - Bob Newhart
+  - Bob Odenkirk
+  - Bob Wilber
+  - Bobby "Wheezer" Hutchins
+  - Bobby Breen
+  - Bobby Darin
+  - Bobby Driscoll
+  - Bobby Van
+  - Bonnie Baker
+  - Boris Karloff
+  - Born To Love
+  - Boulevard! A Hollywood Story
+  - Bradley Cooper
+  - Breakfast At Tiffanys
+  - Breaking Bad
+  - Brian Aherne
+  - Brian Cox
+  - Brian Donlevy
+  - Brian Gari
+  - Brian Sweeney
+  - Bride Of Frankenstein
+  - Brigadoon
+  - Brigitte Bardot
+  - Broadway Melody of 1938
+  - Bronco Billy Anderson
+  - Brook Benton
+  - Brox Sisters
+  - Bruce Cabot
+  - Bruce Kogan
+  - Bruce Willis
+  - Bryce Dallas Howard
+  - Bud Abbott
+  - Buddy Bregman
+  - Buddy Clark
+  - Buddy Doyle
+  - Buddy Ebsen
+  - Buddy Hackett
+  - Buddy Holly
+  - Buddy Moreno
+  - Buddy Rogers
+  - Bugs Bunny
+  - Bunny Berigan
+  - Burgess Meredith
+  - Burl Ives
+  - Burt Bacharach
+  - Burt Lancaster
+  - Burt Reynolds
+  - Buster Keaton
+  - 'Buttons: A Christmas Tale'
+  - Bye Bye Blackbird
+  - C. Aubrey Smith
+  - CD
+  - Cab Calloway
+  - Cabin In The Sky
+  - Cameron Diaz
+  - Canada Lee
+  - Caravan
+  - Carey Mulligan
+  - Carl Grayson
+  - Carl Reiner
+  - Carl Switzer
+  - Carl Weathers
+  - Carla Gugino
+  - Carlton Carpenter
+  - Carmen Chaplin
+  - Carmen Miranda
+  - Carol Burnett
+  - Carol Channing
+  - Carol Hughes
+  - Carole King
+  - Carole Landis
+  - Carole Lombard
+  - Caroline McWilliams
+  - Carrie Fisher
+  - Carroll O'Connor
+  - Cary Grant
+  - Casablanca
+  - Cate Blanchett
+  - Catharine Lorre
+  - Catherine O'Hara
+  - Catherine Scorsese
+  - Catherine Zeta Jones
+  - Cecil Kellaway
+  - Celeste Holm
+  - Celia Lipton
+  - Centennial Summer
+  - Cesar Romero
+  - Chaim Topol
+  - Chandler Riggs
+  - Chaplin
+  - Charles Boyer
+  - Charles Chaplin
+  - Charles Coburn
+  - Charles Durning
+  - Charles Lane
+  - Charles Laughton
+  - Charles Schultz
+  - Charlie Barnet
+  - Charlie Brown
+  - Charlie Callas
+  - Charlie Chaplin
+  - Charlotte Greenwood
+  - Charlton Heston
+  - Cheers
+  - Cheetah
+  - Chevy Chase
+  - Chick Henderson
+  - Chico Marx
+  - Chinatown
+  - Chord Overstreet
+  - Chris Farley
+  - Chris Pratt
+  - Chris Rock
+  - Christina Crawford
+  - Christina McGuire
+  - Christina Ricci
+  - Christine Chubbuck
+  - Christmas
+  - Christmas Eve In My Home Town
+  - Christmas Lullaby
+  - Christopher Lee
+  - Christopher Lloyd
+  - Christopher McDonald
+  - Christopher Plummer
+  - Christopher Reeve
+  - Christopher Walken
+  - Chuck Foster
+  - Cindy Williams
+  - Circus World
+  - Citizen Kane
+  - City Lights
+  - Civil War
+  - Claire Bloom
+  - Clara Blandick
+  - Clara Bow
+  - Clarence Armstrong
+  - Clarence Muse
+  - Clark Gable
+  - Claude Rains
+  - Claudette Colbert
+  - Cleavon Little
+  - Cleo Laine
+  - Cliff Edwards
+  - Cliff Robertson
+  - Clint Eastwood
+  - Cloris Leachman
+  - Cloverfield
+  - Club Crosby
+  - Coldplay
+  - Cole Porter
+  - Coleen Grey
+  - Colin Clive
+  - Colin Farrell
+  - Colleen Moore
+  - College Humor
+  - Come Rain Or Come Shine
+  - Confidential
+  - Connee Boswell
+  - Connie Francis
+  - Conrad Bain
+  - Conrad Nagel
+  - Constance Bennett
+  - Cool Hand Luke
+  - Cover Girl
+  - Cprt Theatre
+  - Craig Roberts
+  - Craig T. Nelson
+  - Cruella
+  - Curly Howard
+  - Curly Joe Derita
+  - Cyborg
+  - Cyd Charisse
+  - Cynthia Erivo
+  - DVD
+  - Dagmar
+  - Daisy Hilton
+  - Dale Abraham
+  - Dalton Trumbo
+  - Damn Yankees
+  - Dan Aykroyd
+  - Dan Dailey
+  - Dana Andrews
+  - Dana Plato
+  - Dane Clark
+  - Daniel Craig
+  - Daniel Stern
+  - Daniel Von Bargen
+  - Danny Aiello
+  - Danny DeVito
+  - Danny Kaye
+  - Danny Lloyd
+  - Danny Locklin
+  - Dark Shadows
+  - Darrell Hammond
+  - Dave Tough
+  - Davey Lee
+  - David Bowie
+  - David Brubeck
+  - David Duncan
+  - David Kelly
+  - David Nelson
+  - David Niven
+  - David Soren
+  - Davy Jones
+  - DeDe Ball
+  - Dean Martin
+  - Dean Stockwell
+  - Deanna Durbin
+  - Deanna Martin
+  - Dear Santa
+  - Debbie Reynolds
+  - Deborah Kerr
+  - Dee Keating
+  - Deep In The Heart Of Texas
+  - Del Courtney
+  - Della Reese
+  - Dena Kaye
+  - Dennis Crosby
+  - Dennis Day
+  - Dennis Farina
+  - Dennis Hopper
+  - Desi Arnaz
+  - Diahann Carroll
+  - Diana Ross
+  - Diane Keaton
+  - Diane Ladd
+  - Diane Rigg
+  - Dick Clark
+  - Dick Haymes
+  - Dick Powell
+  - Dick Stabile
+  - Dick Todd
+  - Dick Van Dyke
+  - Dick York
+  - Dickie Moore
+  - Dickie Valentine
+  - Different Strokes
+  - Dinah
+  - Dinah Shore
+  - Dinah Washington
+  - Dixie
+  - Dixie Carter
+  - Dixie Lee Crosby
+  - Dolores Hart
+  - Dolores Hope
+  - Dolores Moran
+  - Dom Deluise
+  - Don Ameche
+  - Don Cherry
+  - Don Ciccone
+  - Don Cornell
+  - Don Knotts
+  - Don McLean
+  - Don Rickles
+  - Don't Fence Me In
+  - Donald O'Connor
+  - Donald Sutherland
+  - Donna Douglas
+  - Donna Reed
+  - Doris Day
+  - Doris Eaton Travis
+  - Doris Roberts
+  - Dorothy Dandridge
+  - Dorothy Gish
+  - Dorothy Lamour
+  - Dorothy Mackaill
+  - Dorothy Malone
+  - Dorothy McGuire
+  - Dorothy Provine
+  - Douglas Dick
+  - Douglas Fairbanks Jr
+  - Douglas Fairbanks Sr
+  - Dr. Cook's Garden
+  - Dr. Jeykll & Mr. Hyde
+  - Dracula
+  - Drew Barrymore
+  - Duke Ellington
+  - Dumbo
+  - Dustin Hoffman
+  - Dwight Eisenhower
+  - Dyan Cannon
+  - Dyan Canova
+  - Eartha Kitt
+  - Easter
+  - Easter Parade
+  - Ed Ames
+  - Ed Asner
+  - Ed Helms
+  - Ed McMahon
+  - Ed Wood
+  - Ed Wynn
+  - Eddie Anderson
+  - Eddie Bracken
+  - Eddie Cantor
+  - Eddie Fisher
+  - Eddie Lang
+  - Eddie Murphy
+  - Eddy Arnold
+  - Eddy Duchin
+  - Eddy Howard
+  - Edelweiss
+  - Eden Ahbez
+  - Edgar Buchanan
+  - Edith Fellows
+  - Edith Piaf
+  - Edmond Hall
+  - Edmond O'Brien
+  - Edmund Gwenn
+  - Edward Andrews
+  - Edward Arnold
+  - Edward Everett Horton
+  - Edward G. Robinson
+  - Edward Herrmann
+  - Edythe Wright
+  - Elaine Stritch
+  - Eleanor Parker
+  - Eleanor Powell
+  - Elf
+  - Elizabeth Montgomery
+  - Elizabeth Taylor
+  - Ella Fitzgerald
+  - Ella Mae Morse
+  - Ellen Barkin
+  - Elsa Lancaster
+  - Elton John
+  - Elvis Presley
+  - Emma Stone
+  - Emma Thompson
+  - Eric Idle
+  - Eric Stonestreet
+  - Erin Fleming
+  - Ernest Borgnine
+  - Ernie Hudson
+  - Ernie Kovacs
+  - Errol Flynn
+  - Esther Williams
+  - Ethel Merman
+  - Ethel Waters
+  - Etta James
+  - Eugene Levy
+  - Eugenie Besserer
+  - Eva Marie Saint
+  - Eva Peron
+  - Evan Rachel Wood
+  - Eve Arden
+  - Evelyn Keyes
+  - Evelyn Nesbit
+  - Everett Sloane
+  - Everyone's Hero
+  - Eydie Gorme
+  - Ezra Miller
+  - Fabian
+  - Facebook
+  - Falling For Christmas
+  - Fanny Brice
+  - Farley Granger
+  - Farrah Fawcett
+  - Fats Domino
+  - Fats Waller
+  - Fatty Arbuckle
+  - Fay Wray
+  - Faye Dunaway
+  - Fear The Walking Dead
+  - February 27
+  - Feel My Pulse
+  - Feud
+  - Fiddler On The Roof
+  - Finding Nemo
+  - Flash
+  - Flo Ziegfeld
+  - Florence Henderson
+  - Florence Lawrence
+  - Food Network
+  - For Me And My Gal
+  - Ford Leary
+  - Four Aces
+  - Four Freshmen
+  - Fran Warren
+  - Frances Bavier
+  - Frances Farmer
+  - Frances Giffford
+  - Frances Langford
+  - Francesca Knittel Bowyer
+  - Francisco Quinn
+  - Frank Butler
+  - Frank Capra
+  - Frank Fontaine
+  - Frank Loesser
+  - Frank McHugh
+  - Frank Morgan
+  - Frank Rosolino
+  - Frank Sinatra
+  - Frank Sinatra Jr
+  - Frank Sutton
+  - Frank Wappat
+  - Frankenstein
+  - Frankie Laine
+  - Frankie Vaughan
+  - Franklin D. Roosevelt
+  - Freaks
+  - Fred Allen
+  - Fred Astaire
+  - Fred Foy
+  - Fred Gwynne
+  - Fred Kelly
+  - Fred MacMurray
+  - Fred Willard
+  - Fredric March
+  - Free Birds
+  - Frozen
+  - Frozen 2
+  - Gabriel Macht
+  - Gal Gadot
+  - Gale Gordon
+  - Game Night
+  - Garrett Morris
+  - Garry Marshall
+  - Gary Beach
+  - Gary Brumburgh
+  - Gary Coleman
+  - Gary Cooper
+  - Gary Crosby
+  - Gary Giddins
+  - Gary Merill
+  - Gavin MacLeod
+  - Gayla Peevey
+  - Geezer Music Club
+  - Gena Rowlands
+  - Gene Hackman
+  - Gene Kelly
+  - Gene Krupa
+  - Gene Nelson
+  - Gene Tierney
+  - Gene Wilder
+  - Geoffrey Owens
+  - George Burns
+  - George C. Scott
+  - George Chakaris
+  - George Cukor
+  - George Formby
+  - George Gaynes
+  - George Gershwin
+  - George Jessel
+  - George Kennedy
+  - George Lindsey
+  - George M. Cohen
+  - George Montgomery
+  - George Murphy
+  - George Nader
+  - George Reeves
+  - George Shearing
+  - George Washington Slept Here
+  - George Wendt
+  - George Zucco
+  - Georgia Carroll
+  - Georgie Price
+  - Geraldine Chaplin
+  - Geraldine Fitzgerald
+  - Geraldine Page
+  - Get Out
+  - Ghost Boy
+  - Ghost Story
+  - 'Ghostbusters: Afterlife'
+  - Gig Young
+  - Gigi
+  - Gigot
+  - Gilbert Gottfried
+  - Gilda Radner
+  - Gina Lollobrigida
+  - Ginger Mercer
+  - Ginger Rogers
+  - Ginny Mancini
+  - Ginny Simms
+  - Girl In The Basement
+  - Glen Campbell
+  - Glenda Jackson
+  - Glengary Glen Ross
+  - Glenn Ford
+  - Glenn Miller
+  - Glenn Strange
+  - Gloria Grahame
+  - Gloria Jean
+  - Gloria Lloyd
+  - Gloria Stewart
+  - Gloria Stuart
+  - Gloria Swanson
+  - Gloria Wood
+  - Glynis Johns
+  - Gnomeo And Juliet
+  - GoFundMe
+  - God Bless America
+  - Godzilla
+  - Gogi Grant
+  - Going Hollywood
+  - Going My Way
+  - Golden Wedding
+  - Gomer Pyle
+  - Gone With The Wind
+  - Gong Show
+  - Good News
+  - Goodbye Yellow Brick Road
+  - Goodfellas
+  - Gordon MacRae
+  - Gotta Get Me Sombody To Love
+  - Grace Bradley
+  - Grace Kelly
+  - Grace Louise Troxell
+  - Gracie Allen
+  - Graham Chapman
+  - Grease
+  - Greer Garson
+  - Greg Kinnear
+  - Gregory Peck
+  - Greta Garbo
+  - Groucho Marx
+  - Gumm Sisters
+  - Gummo Marx
+  - Guy Fieri
+  - Guy Lombardo
+  - Guy Mitchell
+  - Gwen Verdon
+  - Gypsy Rose Lee
+  - HBO
+  - Hal Kemp
+  - Hal Linden
+  - Haley Mills
+  - Halle Berry
+  - Halloween
+  - Hands Across The Table
+  - Hanging Up
+  - Hank Williams Sr
+  - Happy Birthday
+  - Happy Days
+  - Happy Feet
+  - Happy Gilmore 2
+  - Happy Talk
+  - Harlan Lattimore
+  - Harold Lloyd
+  - Harold Ramis
+  - Harold Switzer
+  - Harper Lee
+  - Harpo Marx
+  - Harriet Nelson
+  - Harrison Ford
+  - Harry And Tonto
+  - Harry Babbitt
+  - Harry Barris
+  - Harry Belafonte
+  - Harry Cohn
+  - Harry Einstein
+  - Harry James
+  - Harry Jolson
+  - Harry LeSueur
+  - Harry Morgan
+  - Harry Prime
+  - Harry Truman
+  - Harvey
+  - Harvey Korman
+  - Harvey Spencer Stephens
+  - Hattie McDaniel
+  - Have Yourself A Merry Little Christmas
+  - He Was Too Good To Me
+  - Heartbreaker
+  - Hedy Lamarr
+  - Helen Forrest
+  - Helen Mirren
+  - Helen Morgan
+  - Helen O' Connell
+  - Helen Reddy
+  - Helen Ward
+  - Hellfighters
+  - Hello Dolly
+  - Hello Young Lovers
+  - Henry Fonda
+  - Henry Mancini
+  - Henry Thies
+  - Henry Winkler
+  - Herb Jeffries
+  - Here In My Heart
+  - High Society
+  - High Time
+  - Hilary Swank
+  - Hildegarde
+  - History Of Music
+  - History Of The World - Part 1
+  - History Of The World - Part 2
+  - Hoagy Carmichael
+  - Hocus Pocus
+  - Hocus Pocus 2
+  - Holiday Inn
+  - Holly Hunter
+  - Hollywood Canteen
+  - Hollywood Squares
+  - Hollywood sign
+  - Home Alone 2
+  - Home For The Holidays
+  - Horace Heidt
+  - Hotel Transylvania 3 - Summer Vacation
+  - How The Grinch Stole Christmas
+  - How To Succeed In Business
+  - Howard Keel
+  - Howard Rollins
+  - Howard Stern
+  - Hubie Halloween
+  - Hugh Downs
+  - Hugh Hefner
+  - Hugh Martin
+  - Hulu
+  - Humphrey Bogart
+  - I Love Lucy
+  - I Married Joan
+  - I Saw What You Did
+  - I Used To Love You
+  - I Want A Hippopotamus For Christmas
+  - I'll Get By
+  - I'll Take Tallulah
+  - I'm A Dreamer Aren't We All
+  - I'm A Stranger Here Myself
+  - I've Got Plenty To Be Thankful For
+  - Ida Lupino
+  - If You Knew Susie
+  - In Cold Blood
+  - In The Good Old Summertime
+  - In The Mood
+  - In The Wee Small Hours
+  - Inger Stevens
+  - Ingrid Bergman
+  - Inside Out 2
+  - Invitation To The Dance
+  - Irene Castle
+  - Irene Daye
+  - Irene Dunne
+  - Irving Berlin
+  - Irving Kaufman
+  - Island Of Lost Souls
+  - It Happened One Night
+  - It's A Mad Mad Mad Mad World
+  - It's A Wonderful Life
+  - It's Beginning To Look A Lot Like Christmas
+  - It's Magic
+  - Jack
+  - Jack Benny
+  - Jack Black
+  - Jack Carson
+  - Jack Carter
+  - Jack Haley
+  - Jack Jackson
+  - Jack Jenney
+  - Jack Klugman
+  - Jack Lemmon
+  - Jack Leonard
+  - Jack Nicholson
+  - Jack Oakie
+  - Jack Paar
+  - Jack Teagarden
+  - Jack Warner
+  - Jackie Coogan
+  - Jackie Cooper
+  - Jackie Gleason
+  - Jackie Robinson
+  - James Arness
+  - James Baskett
+  - James Caan
+  - James Cagney
+  - James Darren
+  - James Dean
+  - James Earl Jones
+  - James Edwards
+  - James Franco
+  - James Gandolfini
+  - James Garner
+  - James Horner
+  - James Mason
+  - James Van Der Beek
+  - James Whale
+  - James Whitmore
+  - Jamie Farr
+  - Jamie Foxx
+  - Jamie Gertz
+  - Jamie Lee Curtis
+  - Jane Froman
+  - Jane Greer
+  - Jane Harvey
+  - Jane Morgan
+  - Jane Powell
+  - Jane Russell
+  - Jane Withers
+  - Jane Wyatt
+  - Jane Wyman
+  - Janet Cantor Gari
+  - Janet Gaynor
+  - Janet Leigh
+  - Janis Paige
+  - January 15
+  - January 7
+  - Jasmine
+  - Jason Alexander
+  - Jason Bateman
+  - Jason Yachanin
+  - Jaws
+  - Jay Popa
+  - Jaye P. Morgan
+  - Jayne Mansfield
+  - Jean Arthur
+  - Jean Hagen
+  - Jean Harlow
+  - Jean Simmons
+  - Jean Stapleton
+  - Jeanette MacDonald
+  - Jeanne Carmen
+  - Jeanne Crain
+  - Jeanne Decker
+  - Jeanne Martin
+  - Jeff Bridges
+  - Jeff Goldblum
+  - Jeff Hobbs
+  - Jenna Fischer
+  - Jenna Ortega
+  - Jennifer Anniston
+  - Jennifer Grant
+  - Jennifer Jones
+  - Jennifer Lawrence
+  - Jeri Southern
+  - Jerome Kern
+  - Jerry Colonna
+  - Jerry Herman
+  - Jerry Lewis
+  - Jerry Seinfeld
+  - Jerry Stiller
+  - Jerry Vale
+  - Jerry Van Dyke
+  - Jessica Lange
+  - Jill Clayburgh
+  - Jill Corey
+  - Jim Backus
+  - Jim Carrey
+  - Jim Nabors
+  - Jimmie Lunceford
+  - Jimmy Dean
+  - Jimmy Dorsey
+  - Jimmy Durante
+  - Jimmy Mesene
+  - Jimmy Rushing
+  - Jimmy Stewart
+  - Jingle Bell Rock
+  - Jo Ann Castle
+  - Jo Ann Marlowe
+  - Jo Stafford
+  - Joan Bayley
+  - Joan Bennett
+  - Joan Blondell
+  - Joan Carroll
+  - Joan Caulfield
+  - Joan Crawford
+  - Joan Davis
+  - Joan Edwards
+  - Joan Fontaine
+  - Joan Leslie
+  - Joan McCracken
+  - Joan Weber
+  - Joanne Woodward
+  - Joe Besser
+  - Joe DiMaggio
+  - Joe E. Brown
+  - Joe Franklin
+  - Joe Pesci
+  - Joel Gray
+  - Joel Grey
+  - Joel McCrea
+  - Joely FIsher
+  - Joey Bishop
+  - Joey Luft
+  - John Belushi
+  - John C McGinley
+  - John Candy
+  - John Cleese
+  - John Denver
+  - John F. Kennedy
+  - John Forsythe
+  - John Garfield
+  - John Houseman
+  - John Hurt
+  - John Kasinski
+  - John Lahr
+  - John Lennon
+  - John Lithgow
+  - John Mahoney
+  - John McGIver
+  - John Payne
+  - John Schalcosky
+  - John Scott Trotter
+  - John Tracy
+  - John Wayne
+  - Johnnie Johnston
+  - Johnnie Ray
+  - Johnny Apollo
+  - Johnny Carson
+  - Johnny Cash
+  - Johnny Depp
+  - Johnny Guarnieri Quartet
+  - Johnny Holiday
+  - Johnny Mathis
+  - Johnny Mercer
+  - Johnny Scat Davis
+  - Johnny Sheffield
+  - Johnny Wiessmuller
+  - Jon Lovitz
+  - Jon Provost
+  - Jonathan Hoss
+  - Jonathan Winters
+  - Joni James
+  - Joni Mitchell
+  - Joseph Cotten
+  - Joshua
+  - Juanita Moore
+  - Judd Nelson
+  - Judgment At Nurermberg
+  - Judy
+  - Judy Garland
+  - Judy Harriet
+  - Judy Holliday
+  - Judy Lewis
+  - Julia Louise-Dreyfuss
+  - Julia Roberts
+  - Julian Lennon
+  - Julie Adams
+  - Julie Allred
+  - Julie Andrews
+  - Julie Bowen
+  - Julie Sweeney
+  - Julius LaRosa
+  - July 12
+  - June Allyson
+  - June Carter Cash
+  - June Christy
+  - June Collyer
+  - June Haver
+  - June Havoc
+  - June In January
+  - June Lockhart
+  - June Travis
+  - Jupiter's Daughter
+  - Jurassic World
+  - Jurassic World - Fallen Kingdom
+  - Jurassic World-Dominion
+  - Jurrassic World Rebirth
+  - Just A Gigalo
+  - Justice League
+  - Karen Carpenter
+  - Karolyn Grimes
+  - Kate Graham
+  - Kate Smith
+  - Katharine Hepburn
+  - Kathleen Turner
+  - Kathryn Crosby
+  - Kathryn Grayson
+  - Kathy Bates
+  - Kathy Naijmy
+  - Kay Francis
+  - Kay Kyser
+  - Kay Starr
+  - Kaye Ballard
+  - Keefe Brasselle
+  - Keely Smith
+  - Keira Knightley
+  - Keith Thibodeux
+  - Kelsey Grammer
+  - Ken Barnes
+  - Ken Crawford
+  - Kenneth Mars
+  - Kenny Baker
+  - Kerry Bishe
+  - Kevin Spacey
+  - Kid Millions
+  - Kim Novak
+  - King Kong
+  - King Of The Hill
+  - Kirk Douglas
+  - Kiss The Boys Goodbye
+  - Kitty Carlisle Hart
+  - Kitty Kallen
+  - Kraft Music Hall
+  - Kyle Chandler
+  - La Vie En Rose
+  - Lady Gaga
+  - Lana Turner
+  - Lane Sisters
+  - Larceny
+  - Larry David
+  - Larry Fine
+  - Larry Parks
+  - Larry Rickles
+  - Larry Simms
+  - Lassie
+  - Laura
+  - Laura Dern
+  - Lauren Bacall
+  - Laurence Olivier
+  - Laverne Andrews
+  - Lawanda Page
+  - Lawrence Welk
+  - Lee J Cobb
+  - Lee Marvin
+  - Lee Remick
+  - Lee Wiley
+  - Leila Hyams
+  - Len Lesser
+  - Lena Horne
+  - Leo Robin
+  - Leon Errol
+  - Leonard Bernstein
+  - Leonard Maltin
+  - Leonard Nimoy
+  - Leota Lane
+  - Les Paul
+  - Lesley Gore
+  - Leslie Caron
+  - Leslie Nielsen
+  - Let Me Try Again
+  - Let's Dance
+  - Let's Face The Music And Dance
+  - Liberace
+  - Life Of Brian
+  - Life With Lucy
+  - Lillian Gish
+  - Lillian Harvey
+  - Lilo & Stich
+  - Lily Ann Carol
+  - Limehouse Blues
+  - Limelight
+  - Lina Romay
+  - Linda Darnell
+  - Linda Hope
+  - Lindsay Crosby
+  - Lindsay Lohan
+  - Lionel Barrymore
+  - Lisa Kudrow
+  - Lita Grey
+  - Little Miss Sunshine
+  - Little Nellie Kelly
+  - Liza Minnelli
+  - Lizabeth Scott
+  - Lizzy Caplan
+  - Lloyd Bochner
+  - Lloyd Bridges
+  - Lloyd Kaufman
+  - Lola Lane
+  - Lon Chaney Jr
+  - Lon Chaney Sr
+  - Long Long Ago
+  - Lorenz Hart
+  - Loretta Lynn
+  - Loretta Swit
+  - Loretta Young
+  - Lorne Michaels
+  - Lorraine Newman
+  - Lou Costello
+  - Lou Gehrig
+  - Louie Anderson
+  - Louis Armstrong
+  - Louis B. Mayer
+  - Louis Gossett Jr
+  - Louis Nye
+  - Louis Prima
+  - Louise Beavers
+  - Louise Brooks
+  - Louise Campbell
+  - Louise Tobin
+  - Love Is Strange
+  - Love Me Or Leave Me
+  - Lucille Ball
+  - Lucille Bremer
+  - Luise Rainer
+  - Luise Rainer My Mother The Journey
+  - Luke Evans
+  - Lupe Velez
+  - Lyda Roberti
+  - Lydia Reed
+  - Lyndon Johnson
+  - Lynn Bari
+  - M. Emmet Walsh
+  - MGM
+  - Ma And Pa Kettle Go To Town
+  - Mabel Normand
+  - Macaulay Culkin
+  - Mackenzie Foy
+  - Madeline Kahn
+  - Madison Square Garden
+  - Mae Clarke
+  - Mae West
+  - Maestro
+  - Maia Kealoha
+  - Maidie Norman
+  - Mame
+  - Mamie Van Doren
+  - Man On Fire
+  - March Of Dimes
+  - Marcia Ralston
+  - Margaret Dumont
+  - Margaret Hamilton
+  - Margaret M. Lenhart
+  - Margaret O' Brien
+  - Margaret Whiting
+  - Marge Champion
+  - Margot Kidder
+  - Margot Robbie
+  - Marguerite Haymes
+  - Maria Hawkins Cole
+  - Maria Pitillo
+  - Maria Stinger
+  - Maria Von Trapp
+  - Marie Osborne Yeats
+  - Marie Wilson
+  - Marie Windsor
+  - Marilyn Howard
+  - Marilyn Maxwell
+  - Marilyn Monroe
+  - Mario Lanza
+  - Marion Cotillard
+  - Marion Davies
+  - Marion Hutton
+  - Marion Ross
+  - Marisa Tomei
+  - Marjorie Lane
+  - Marjorie Main
+  - Marjorie Reynolds
+  - Mark Cederquist
+  - Mark Hamill
+  - Mark Wahlberg
+  - Marlene Dietrich
+  - Marlon Brando
+  - Marsha Hunt
+  - Martha Raye
+  - Martha Tilton
+  - Martha Vickers
+  - Martin Balsam
+  - Martin Landau
+  - Martin Luther King Jr
+  - Martin Pistorius
+  - Martin Scorsese
+  - Martin Short
+  - Marty
+  - Marty Feldman
+  - Marty Melcher
+  - Marx Brothers
+  - Mary Ann Jackson
+  - Mary Carlisle
+  - Mary Dee Dudley
+  - Mary Fickett
+  - Mary Ford
+  - Mary Frances Crosby
+  - Mary Livingstone
+  - Mary Martin
+  - Mary Pickford
+  - Mary Poppins
+  - Mary Tyler Moore
+  - Mary Wickes
+  - Mash
+  - Matilda The Musical
+  - Matthew Broderick
+  - Matthew Lillard
+  - Maureen McGovern
+  - Maureen O'Hara
+  - Maureen O'Sullivan
+  - Max Bygraves
+  - Max Rose
+  - Maxene Andrews
+  - Maximilian Schell
+  - May 11
+  - May McAvoy
+  - McGuire Sisters
+  - Mean Girls
+  - Meet Me In St. Louis
+  - Meg Ryan
+  - Mel Brooks
+  - Mel Torme
+  - Melinda Dillon
+  - Melissa Montgomery
+  - Melvyn Douglas
+  - Merrily We Live
+  - Merv Griffin
+  - Meryl Streep
+  - Mia Farrow
+  - Michael Beck
+  - Michael Clark Duncan
+  - Michael Curtiz
+  - Michael Douglas
+  - Michael Feinstein
+  - Michael J. Fox
+  - Michael Jackson
+  - Michael Keaton
+  - Michael Nesmith
+  - Michael Richards
+  - Michael T. Hopkins
+  - Michelle Lee
+  - Michelle Nichols
+  - Mickey Dolenz
+  - Mickey Mantle
+  - Mickey Rooney
+  - Mike Burstyn
+  - Mike Douglas
+  - Mike Farrell
+  - Mike Nesmith
+  - Mike Plaskett
+  - Mila Kunis
+  - Mildred Pierce
+  - Miles Mander
+  - Mills Brothers
+  - Milton Berle
+  - Minnie Marx
+  - Miracle On 34th Street
+  - Miriam Hopkins
+  - Miriam Marx
+  - Miriam Paar
+  - Miss America
+  - Mississippi
+  - Mississippi Mud
+  - Mister Cellophane
+  - Mitzi Gaynor
+  - Modern Family
+  - Modern Times
+  - Moe Howard
+  - Mommie Dearest
+  - Mona Freeman
+  - Monica Lewis
+  - Montgomery Clift
+  - Monty Python
+  - Moon River
+  - Moonlight Serenade
+  - More Than You Know
+  - Morgan Freeman
+  - Mountain Greenery
+  - Mr. Blandings Builds His Dream House
+  - Mr. Music
+  - Mrs. Doubtfire
+  - Muppet Babies
+  - Murder Mystery
+  - My Blue Heaven
+  - My Funny Valentine
+  - My Man
+  - My White Knight
+  - Myrna Loy
+  - Nancy Carroll
+  - Nancy Sinatra Sr
+  - Nancy Wilson
+  - Nanette Fabray
+  - Nat King Cole
+  - Natalie Cole
+  - Natalie Wood
+  - Nate Burlson
+  - Nathan Lane
+  - National Lampoon's Christmas Vacation
+  - Ned Sparks
+  - Nedra Sanders Broccoli
+  - Nedra Volz
+  - Neil Flynn
+  - Neil Patrick Harris
+  - Nelson Eddy
+  - Netflix
+  - Neva Patterson
+  - Nicholas Brothers
+  - Nick Nardella
+  - Nick Reiner
+  - Nico Charisse
+  - Nicole Dehuff
+  - Nicole Kidman
+  - Nicole Maurey
+  - Night At The Museum
+  - Nina Mae McKinley
+  - No Hard Feelings
+  - No Time For Sergeants
+  - Noel Coward
+  - Nora Ephron
+  - Nora Martin
+  - Norm MacDonald
+  - Norma Talmedge
+  - Norma Zimmer
+  - Norman Brooks
+  - Norman Lear
+  - North By Northwest
+  - Nothing In Common
+  - October 1
+  - October 11
+  - October 14
+  - Of Mice And Men
+  - Ol Man River
+  - Olga San Juan
+  - Oliver Hardy
+  - Olivia DeHavilland
+  - Olivia Newton-John
+  - On The Town
+  - Once A Thief
+  - Once And For Always
+  - Once In A While
+  - One Hour Photo
+  - One Sunday Afternoon
+  - Only Murders In The Building
+  - Only You
+  - Ordinary People
+  - Orrin Tucker
+  - Orson Welles
+  - Oscar
+  - Oscar Hammerstein
+  - Oscar Levant
+  - Otis Redding
+  - Our Gang
+  - Over The Rainbow
+  - Owen Moore
+  - Oz The Great And Powerful
+  - Ozzie And Harriet
+  - Ozzy Osbourne
+  - PBS
+  - Pal Joey
+  - Pam Dawber
+  - Papa Loves Mama
+  - Pat Boone
+  - Pat O'Brien
+  - Paths Of Glory
+  - Patricia Heaton
+  - Patricia Neal
+  - Patricia Rust
+  - Patrick Cranshaw
+  - Patrick J Adams
+  - Patsy Cline
+  - Patsy Kelly
+  - Patti Lewis
+  - Patti Page
+  - Patty Andrews
+  - Patty Duke
+  - Paul Bern
+  - Paul Ford
+  - Paul Lynde
+  - Paul Newman
+  - Paul Reubens
+  - Paul Robeson
+  - Paul Rudd
+  - Paul Sorvino
+  - Paul Tanner
+  - Paul Weston
+  - Paul Whiteman
+  - Paula Kelly Jr.
+  - Paulette Goddard
+  - Peanuts
+  - Pearl Bailey
+  - Peg Enwistle
+  - Peg LaCentra
+  - Peggy Day
+  - Peggy Hoover
+  - Peggy Lee
+  - Peggy Montgomery
+  - Penny Marshall
+  - Penny Serenade
+  - Penny Singleton
+  - Percy Kilbride
+  - Perry Como
+  - Perry Mason
+  - Pert Kelton
+  - Peter Boyle
+  - Peter Dinklage
+  - Peter Falk
+  - Peter Finch
+  - Peter Jackson
+  - Peter Lawford
+  - Peter Lorre
+  - Peter Marshall
+  - Peter O'Toole
+  - Peter Ostrum
+  - Peter Robbins
+  - Peter Shaw
+  - Peter Tork
+  - Peter Valiliant
+  - Petula Clark
+  - Phil Crosby
+  - Phil Harris
+  - Phil Harris Jr
+  - Phil Silvers
+  - Philco Radio
+  - Philip Baker Hall
+  - Philip Seymour Hoffman
+  - Phyllis Diller
+  - Phyllis McGuire
+  - Picnic
+  - Pierce Brosnan
+  - Pin Up Girl
+  - Pinky Tomlin
+  - Piper Laurie
+  - Pittsburgh
+  - Plainsman And The Lady
+  - Planet Of The Apes
+  - Pola Negri
+  - Polly Bergen
+  - Polly Holliday
+  - Poor Old Rover
+  - Portland Hoffa
+  - Possessed
+  - Post Malone
+  - 'Poultrygeist: Night Of The Chicken Dead'
+  - Preston Sturges
+  - Prince
+  - Priscilla Lane
+  - Project X
+  - Psycho
+  - Public Enemy
+  - Pure Imagination
+  - RV
+  - Rachel McAdams
+  - Rachel Zegler
+  - Radio City Revels
+  - Raging Bull
+  - Ragtime
+  - Rainn Wilson
+  - Ralph Bellamy
+  - Ralph Breaks The Internet
+  - Ralph Flanagan
+  - Ralph Meeker
+  - Ralph Rainger
+  - Randy Quaid
+  - Raquel Welch
+  - Rat Pack
+  - Ray Anthony
+  - Ray Bolger
+  - Ray Charles
+  - Ray Eberle
+  - Ray Liotta
+  - Ray McDonald
+  - Ray Milland
+  - Ray Romano
+  - Raymond Burr
+  - Raymond Massey
+  - Rear Window
+  - Red Foxx
+  - Red Ingle
+  - Red Skelton
+  - Regis Philbin
+  - Remembering Gene Wilder
+  - Renee Hewitt
+  - Renee Zellweger
+  - Rex Harrison
+  - Rhapsody In Blue
+  - Rhonda Fleming
+  - Rhythm On The Range
+  - Rhythm On The River
+  - Rhythm Sweet & Hot
+  - Ricci Martin
+  - Rich Little
+  - Richard Arlen
+  - Richard Attenborough
+  - Richard Barthelmess
+  - Richard Burton
+  - Richard Dawson
+  - Richard Dreyfuss
+  - Richard Haydn
+  - Richard Lewis
+  - Richard Nixon
+  - Richard Pryor
+  - Richard Rodgers
+  - Richard Widmark
+  - Richard Zoglin
+  - Rick Moranis
+  - Ricky Gervais
+  - Riding High
+  - Rio Bravo
+  - Rise of The Skywalker
+  - Rita Hayworth
+  - Rita Moreno
+  - Road To Utopia
+  - Road movies
+  - Rob Reiner
+  - Robert Armstrong
+  - Robert DeNiro
+  - Robert Downey Jr
+  - Robert Hutton
+  - Robert Kennedy
+  - Robert Levitt Jr
+  - Robert Loggia
+  - Robert Merrill
+  - Robert Mitchum
+  - Robert Morse
+  - Robert Osborne
+  - Robert Preston
+  - Robert Redford
+  - Robert Shaw
+  - Robert Stack
+  - Robert Taylor
+  - Robert Wagner
+  - Robert Walker
+  - Roberta Sherwood
+  - Robin Williams
+  - Rochelle Hudson
+  - Rock Hudson
+  - Rod Serling
+  - Rod Taylor
+  - Roger Maris
+  - Roger Williams
+  - Roman Holiday
+  - Roman Scandals
+  - Ron Howard
+  - Ron Hutchinson
+  - Ronald Como
+  - Ronald Reagan
+  - Roommates
+  - Rosalind Russell
+  - Rose Marie
+  - Rose Murphy
+  - Rose Of Mandalay
+  - Rose Of Washingon Square
+  - Rose Of Washington Square
+  - Rosemary Clooney
+  - Rosemary Lane
+  - Rosemary's Baby
+  - Ross Barbour
+  - Row Row Row
+  - Roy Clark
+  - Roy Scheider
+  - Ruby Dee
+  - Ruby Keeler
+  - Rudolph Valentino
+  - Rudy Vallee
+  - Russ Carlyle
+  - Russ Columbo
+  - Russ Morgan
+  - Ruth Etting
+  - Ruth Gordon
+  - Ryan Gossling
+  - Ryan O'Neal
+  - SZ Sakall
+  - Sally Field
+  - Sally Kirkland
+  - Sally Struthers
+  - Sam Neill
+  - Sammy Davis Jr.
+  - Samuel Goldywn
+  - San Francisco
+  - Sandra Dee
+  - Sanford & Son
+  - Santa Claus
+  - Sarah Bernhardt
+  - Sarah Jessica Parker
+  - Sarah Paulson
+  - Saturday Night
+  - Saturday Night Live
+  - Saturday morning
+  - Say It Isn't So
+  - Scarlett Johansson
+  - Scott Ables
+  - Scott Bakula
+  - Scott Cornman
+  - Scott Gimple
+  - Scott Joplin
+  - Scott Michaels
+  - Scott Wilson
+  - Scrooged
+  - Sean Connery
+  - Seasons
+  - Seinfeld
+  - Selena Gomez
+  - Sentimental Journey
+  - Sentimental Music
+  - Sepia Records
+  - September Song
+  - Seth MacFarlane
+  - Shadow Of A Doubt
+  - Sharon Stone
+  - Sharon Tate
+  - Sheldon Leonard
+  - Shelley Duvall
+  - Shelley Winters
+  - Shemp Howard
+  - Ship Of Fools
+  - Shirley Booth
+  - Shirley Jones
+  - Shirley MacLaine
+  - Shirley Ross
+  - Shirley Temple
+  - Shooting The Breeze With Baby Boomer Stars
+  - Show Boat
+  - Sid Caesar
+  - Sidney Blackmer
+  - Sidney Kibrick
+  - Sidney Lumet
+  - Sidney Poitier
+  - Silent Night
+  - Silk Stockings
+  - Since I Met You Baby
+  - Singin In The Rain
+  - Sinner's Holiday
+  - Skylark
+  - Sleepy Hollow
+  - Smile
+  - Smoke Gets In Your Eyes
+  - Smurfs 2
+  - Snow White
+  - Snowbound For CHristmas
+  - So Long Dearie
+  - Soldier In The Rain
+  - Some Like It Hot
+  - Somebody Loves Me
+  - Something To Remember You By
+  - Song Of The South
+  - Sophia Loren
+  - Sophie Tucker
+  - Soupy Sales
+  - South Park
+  - Spencer Tracy
+  - Spider-Man No Way Home
+  - Spike Jones
+  - Spirit Of St.Louis
+  - Springtime For Hitler
+  - St. Patrick's Day
+  - Stage Door
+  - Stalag 17
+  - Stan Laurel
+  - Stanley Kramer
+  - Star Spangled Banner
+  - Star Trek
+  - Star Wars
+  - Steel City Con
+  - Stefanie Scott
+  - Stella Stevens
+  - Stephen King
+  - Stephen Sondheim
+  - Sterling Holloway
+  - Steve Buscemi
+  - Steve Carell
+  - Steve Guttenberg
+  - Steve Lawrence
+  - Steve Martin
+  - Steve McQueen
+  - Stevie Wonder
+  - Strike Up The Band
+  - Stuart Erwin
+  - Stuart Erwin Jr
+  - Suicide Squad
+  - Suits
+  - Summer Stock
+  - Sunset Boulevard
+  - Super Friends
+  - Superman
+  - Susan Hayward
+  - Susan Luckey
+  - Susan Sarandon
+  - Susannah York
+  - Suspicion
+  - Suzanne Pleshette
+  - Swanee
+  - Sweeney Todd
+  - Swinging On A Star
+  - Sybil Jason
+  - Sylvestor Stallone
+  - Sylvia Fine
+  - TCM
+  - TIm Robbins
+  - TRACC
+  - Tab Hunter
+  - Take Me Out To The Ball Game
+  - Take My True Love By The Hand
+  - Tamara Drasin
+  - Tammy
+  - Tatum O'Neal
+  - Ted Danson
+  - Ted Healy
+  - Ted Lewis
+  - Tenement Symphony
+  - Teresa Brewer
+  - Teresa Wright
+  - Teri Garr
+  - Terri Garr
+  - Terry Jones
+  - Terry Melcher
+  - Terry Thomas
+  - Thanksgiving
+  - The Accused
+  - The Adominable Dr. Phibes
+  - The Apple
+  - The Band Wagon
+  - The Beach Boys
+  - The Beatles
+  - The Belle Of New York
+  - The Big Broadcast
+  - The Birdcage
+  - The Blues Brothers
+  - The Boy With The Green Hair
+  - The Boys From Brazil
+  - The Brown Derby
+  - The Buffalo Bills
+  - The Cat In The Hat
+  - The Christmas Song
+  - The Christmas Waltz
+  - The Clock
+  - The Conqueror
+  - The Country Girl
+  - The Day The Clown Cried
+  - The DeCastro Sisters
+  - The Dean Martin Show
+  - The Drifters
+  - The Eddie Cantor Story
+  - The Empire Strikes Back
+  - The End Of The Rainbow
+  - The Face Behind The Mask
+  - The Finger Of Suspicion
+  - The Flash
+  - The Freak
+  - The Giver
+  - The Godfather II
+  - The Great Dictator
+  - The Great Escape
+  - The Green Mile
+  - The Happening
+  - The Harvey Girls
+  - The Haunting of Hill House
+  - The Ink Spots
+  - The Jazz Singer
+  - The Jerk
+  - The King Of Comedy
+  - The Kingston Trio
+  - The Last Time I Saw Paris
+  - The Lennon Sisters
+  - The Limeliters
+  - The Little Mermaid
+  - The Little Rascals
+  - The Man I Love
+  - The Marx Brothers
+  - The Masked Singer
+  - The Merry Macs
+  - The Middle
+  - The Monkees
+  - The Munsters
+  - The Music Man
+  - The Night Is Blue
+  - The Nutcracker & The Four Realms
+  - The Office
+  - The Omen
+  - The Osmonds
+  - The Out-Laws
+  - The Platters
+  - The Producers
+  - The Quiet Man
+  - The Rhythm Boys
+  - The Right Kind Of Love
+  - The Ritz Brothers
+  - The Road To Bali
+  - The Sandlot
+  - The Shawshank Redemption
+  - The Shining
+  - The Short And Tragic Life of Robert Peace
+  - The Singing Nun
+  - The Smurfs
+  - The Sound Of Music
+  - The Star Maker
+  - The Statue
+  - The Time Machine
+  - The Towering Inferno
+  - The Under-Pup
+  - The Unguarded Moment
+  - The Walking Dead
+  - The Waltons
+  - The Weavers
+  - The Wizard Of Oz
+  - Theda Bara
+  - Thelma Harris
+  - Thelma Ritter
+  - Thelma Todd
+  - Theodore Healy
+  - They Can't Take That Away From Me
+  - Things Aint What They Used To Be
+  - This Is All I Ask
+  - This Is The Army
+  - This Is The Beginning Of The End
+  - Thomas Cunniffe
+  - Thora Birch
+  - Thousands Cheer
+  - Three Little Words
+  - Three Stooges
+  - Tim Burton
+  - Tim Conway
+  - Tim Curry
+  - Tim Janis
+  - Tim Meadows
+  - Time Magazine
+  - Time On My Hands
+  - Timmy Everett
+  - Timothy Busfield
+  - Timothy Hutton
+  - Tina Fey
+  - Tina Louise
+  - Tiny Hill
+  - Tiny Tim
+  - Tippi Hedren
+  - Titanic
+  - To Keep My Love Alive
+  - To Kill A Mockingbird
+  - Tobey McGuire
+  - Todd Bridges
+  - Tom Bosley
+  - Tom Dooley
+  - Tom Drake
+  - Tom Hanks
+  - Tom Holland
+  - Tom Mix
+  - Tom Neal
+  - Tom Poston
+  - Tommy Cook
+  - Tommy Dorsey
+  - Tommy Rall
+  - Tommy Rettig
+  - Tony Bennett
+  - Tony Capra
+  - Tony Curtis
+  - Tony Martin
+  - Tony Martin Jr
+  - Tony Randall
+  - Top Hat
+  - Top O' The Morning
+  - Torchy Smith
+  - Toto
+  - Toy Story 3
+  - Toy Story 4
+  - Tracy Davis
+  - Tracy Stratford
+  - Tron
+  - Tropic Thunder
+  - Trudy Erwin
+  - Tuesday Weld
+  - Twelve Angry Men
+  - Twilight Zone
+  - Ty Burrell
+  - Tyrone Power
+  - UFOs
+  - USO
+  - Una Merkel
+  - Universal Studios
+  - Up
+  - Val Kilmer
+  - Valentine's Day
+  - Valley Of The Dolls
+  - Valliant's Diner
+  - Van Heflin
+  - Van Johnson
+  - Vaughn De Leath
+  - Vaughn Monroe
+  - Vera Lynn
+  - Vera Ralston
+  - Vera-Ellen
+  - Vernon Castle
+  - Vernonica Lake
+  - Veronica Lake
+  - Vertigo
+  - Vic Damone
+  - Vic Morrow
+  - Victor Bruno
+  - Victor Garber
+  - Victor Mature
+  - Victor Moore
+  - Victor Rothschild
+  - Victor/Victoria
+  - Victoria Chaplin
+  - Victoria Price
+  - Village Of The Giants
+  - Vince Vaughn
+  - Vincent Price
+  - Vincente Minnelli
+  - Violet Hilton
+  - Virginia Cherrill
+  - Virginia Dale
+  - Virginia Holden
+  - Virginia Mayo
+  - Virginia O' Brien
+  - Viva Las Vegas
+  - Vivian Blaine
+  - Vivian Vance
+  - Vivien Leigh
+  - Vivienne Segal
+  - WC Fields
+  - Wagon Train
+  - Wally Cox
+  - Walt Disney
+  - Walter Brennan
+  - Walter Brennnan
+  - Walter Matthau
+  - Walter Pigeon
+  - Walter Winchell
+  - Warren Beatty
+  - Wayne Martin
+  - We're Not Dressing
+  - Wee Bonnie Baker
+  - Westworld
+  - What About Bob
+  - What Did I Have That I Don't Have
+  - What Dreams May Come
+  - What Ever Happened To Aunt Alice
+  - What'll I Do
+  - What's More American
+  - Whatever Happened To Baby Jane
+  - When Christmas Is Gone
+  - When I Leave The World Behind
+  - When You're Smiling
+  - Where Are You
+  - Where's That Rainbow
+  - White Christmas
+  - White Heat
+  - Who's Sorry Now
+  - Wicked
+  - Wicked For Good
+  - Wicked Stepmother
+  - Wild Harvest
+  - Will Ferrell
+  - Will Geer
+  - Will Smith
+  - William Bendix
+  - William Crocetti
+  - William Frawley
+  - William Holden
+  - William Hurt
+  - William Powell
+  - William Powell Jr
+  - William Randolph Hearst
+  - William S. Hart
+  - William Windom
+  - Willy Wonka And The Chocolate Factory
+  - Wings
+  - Wingy Manone
+  - Winona Ryder
+  - Without A Word Of Warning
+  - Wonder Woman
+  - Woody Harrelson
+  - Woody Herman
+  - Words And Music
+  - World War II
+  - Wouldn't It Be Nice
+  - Xanadu
+  - Yankee Doodle Dandy
+  - Ylenia Carrisi
+  - You Don't Own Me
+  - You Made Me Love You
+  - Young Frankenstein
+  - Young Man With A Horn
+  - Yves Montand
+  - Yvette Mimieux
+  - Yvonne DeCarlo
+  - Zeppo Marx
+  - Zero Day
+  - Zero Mostel
+  - Ziegfeld
+  - Ziegfeld Girl
+  - Zizi Jeanmaire
+  - Zooey Deschanel
+  - abuse
+  - accidental drug overdose
+  - acting
+  - action
+  - activist
+  - actors
+  - actress
+  - advertisement
+  - anniversary
+  - archives
+  - arrest
+  - article archive
+  - artificial intelligence
+  - ashes
+  - audio cassettes
+  - author
+  - autograph. Alanna Masterson
+  - automobile
+  - awards
+  - bad cinema
+  - baseball
+  - beauty
+  - behind the scenes
+  - big band
+  - billboard
+  - biography
+  - birthdays
+  - blackface
+  - blacklist
+  - blog news
+  - blogathon
+  - book
+  - book review
+  - box office
+  - broadway
+  - cartoon
+  - celebrity encounters
+  - cemetery
+  - censorship
+  - character
+  - chef
+  - child stars
+  - children
+  - classic movies
+  - comedian
+  - comedy
+  - coming soon
+  - composer
+  - concert
+  - conductor
+  - contest
+  - cooking
+  - covers
+  - dancer
+  - death certificates
+  - deaths
+  - decline
+  - died on this day
+  - director
+  - disappearance
+  - disaster
+  - disc jockey
+  - discography
+  - documentary
+  - drama
+  - drive up gas station
+  - drums
+  - duets
+  - early years
+  - editorial
+  - elder abuse
+  - entertainers
+  - estate
+  - family tree
+  - fan club
+  - fans
+  - fantasy
+  - fathers
+  - favorite songs
+  - favorites
+  - feuds
+  - film history
+  - final
+  - flashback
+  - football
+  - forgotten
+  - funeral
+  - ghost
+  - giveway
+  - golfer
+  - gossip
+  - grandchildren
+  - guest review
+  - haunted
+  - healthwatch
+  - hero
+  - highest grossing
+  - history
+  - history break
+  - home
+  - horror
+  - horses
+  - host
+  - husbands
+  - impressionists
+  - interview
+  - jazz
+  - journalist
+  - kidnapping
+  - last appearance
+  - last days
+  - last movie
+  - last will
+  - last words
+  - lawsuit
+  - letter
+  - local
+  - love stories
+  - lyricist
+  - magazine
+  - make up
+  - marriage
+  - memorabilia
+  - memories
+  - military
+  - missed obits
+  - model
+  - modern
+  - moment
+  - monsters
+  - mothers
+  - movie posters
+  - movie review
+  - movie roles
+  - munchkin
+  - murder
+  - music
+  - music break
+  - music review
+  - musical director
+  - musicals
+  - my father
+  - my grandfather
+  - my grandmother
+  - my wife
+  - mystery
+  - net worth
+  - news
+  - newspaper clippings
+  - nostalgia
+  - novelty songs
+  - odd pairings
+  - old time radio
+  - on this day
+  - opera
+  - original movie review
+  - parody
+  - passing scene
+  - past obits
+  - patriotic
+  - payola
+  - photo
+  - pianist
+  - plastic surgery
+  - politics
+  - poltical correctness
+  - producer
+  - quotes
+  - racism
+  - radio
+  - rare movies
+  - recently viewed
+  - record collector
+  - record store
+  - reflections
+  - remake
+  - remembering
+  - requests
+  - restaurants
+  - resting place
+  - retirement
+  - romantic
+  - rumor
+  - scandal
+  - science fiction
+  - sequel
+  - sex symbols
+  - silent
+  - singers
+  - song history
+  - songbook
+  - songwriter
+  - special
+  - spotlight
+  - spouse
+  - star friends
+  - story
+  - stripper
+  - studio system
+  - style
+  - suicide
+  - swimming pools
+  - technology
+  - television
+  - television review
+  - then and now
+  - thriller
+  - tidbits
+  - tracess
+  - trailer
+  - tribute
+  - tributes
+  - tuxedo
+  - tv
+  - urban legend
+  - vaudeville
+  - video
+  - video jukebox
+  - watching now
+  - web episode
+  - weddings
+  - westerns
+  - wit
+  - wives
+  - writer
+  relme: {}
+  last_post_title: 'HOLLYWOOD BEAUTY: ELEANOR POWELL'
+  last_post_description: ""
+  last_post_date: "2026-02-15T11:07:00-08:00"
+  last_post_link: http://greatentertainersarchives.blogspot.com/2026/02/hollywood-beauty-eleanor-powell.html
+  last_post_categories:
+  - Eleanor Powell
+  - actress
+  - beauty
+  - photo
+  last_post_language: ""
+  last_post_guid: aa462be010a40e89a6d32be029dec647
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 25
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 235
+---

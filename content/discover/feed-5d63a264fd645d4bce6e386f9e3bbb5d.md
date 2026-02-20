@@ -16,6 +16,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended:
   - https://100daysof.blog/feed.xml
   - https://alexandrawolfe.ca/feed/
@@ -205,7 +208,8 @@ params:
   - https://www.wackomenace.co.uk/blog/atom.xml
   - https://www.wackomenace.co.uk/essays/atom.xml
   - https://www.wackomenace.co.uk/essays/rss.xml
-  recommender: []
+  recommender:
+  - https://shellsharks.com/feeds/feed.xml
   categories:
   - reading
   relme:

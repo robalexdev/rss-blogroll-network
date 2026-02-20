@@ -243,6 +243,11 @@ feed_urls:
   # https://indieblog.page/all (no OPML)
 
 
+non_opml_blogroll_urls:
+  - url: https://lwindolf.github.io/rss-feed-index/data/blogroll.json
+    handler: jq
+    settings: ".blogrolls | keys | .[]"
+
 
 output_mode:
   - "SQL"

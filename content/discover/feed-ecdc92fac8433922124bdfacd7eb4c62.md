@@ -22,6 +22,9 @@ params:
   - title: RSS Feeds for all Robb Knight's Blogroll
     description: ""
     id: 6a72507ba2e935838f624759bf29fde4
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
@@ -29,6 +32,7 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   - https://rknight.me/subscribe/posts/rss.xml
+  - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
   last_post_title: Pinning homebrew dependencies

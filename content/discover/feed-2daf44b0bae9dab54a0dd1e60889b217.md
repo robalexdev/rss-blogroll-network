@@ -11,6 +11,9 @@ params:
     https://piccalil.li/: true
   blogrolls: []
   in_blogrolls:
+  - title: kiko.io's /Blogroll
+    description: ""
+    id: 5a699fe07181a17251b91d178b9b8f40
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

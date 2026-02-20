@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 45cdfbefbab2dd5d0fecd1adb6f0f072
   websites:
+    https://cosmicheroes.space/blog: true
     https://cosmicheroes.space/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -55,8 +56,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

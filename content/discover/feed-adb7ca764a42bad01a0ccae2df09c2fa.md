@@ -10,6 +10,9 @@ params:
     https://news.ycombinator.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Feeds
+    description: ""
+    id: 0df775e8ba7b2384cbdfcfc97aa7cf68
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

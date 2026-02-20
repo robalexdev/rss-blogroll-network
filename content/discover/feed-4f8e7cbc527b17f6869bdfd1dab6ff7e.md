@@ -9,8 +9,10 @@ params:
   feedid: 4f8e7cbc527b17f6869bdfd1dab6ff7e
   websites:
     https://aboutmonica.com/: true
+    https://aboutmonica.com/contact: false
     https://aboutmonica.com/contact/: false
     https://www.aboutmonica.com/: false
+    https://www.aboutmonica.com/contact: false
     https://www.aboutmonica.com/contact/: false
   blogrolls: []
   in_blogrolls:
@@ -22,10 +24,12 @@ params:
   categories: []
   relme:
     https://aboutmonica.com/: true
+    https://aboutmonica.com/contact: true
     https://github.com/M0nica: true
     https://github.com/m0nica: true
     https://hachyderm.io/@indigitalcolor: true
     https://www.aboutmonica.com/: true
+    https://www.aboutmonica.com/contact: true
   last_post_title: Hello, IndieWeb!
   last_post_description: Some thoughts on tinkering around with my digital playground
     and getting more involved with the IndieWeb.

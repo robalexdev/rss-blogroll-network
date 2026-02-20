@@ -14,9 +14,15 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: Design Blogs (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)
+    description: ""
+    id: 7e87b763d064f92ca61553342402178c
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -24,7 +30,8 @@ params:
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
-  recommender: []
+  recommender:
+  - https://lmika.org/feed.xml
   categories:
   - Technology
   relme:

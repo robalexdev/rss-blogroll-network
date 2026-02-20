@@ -23,6 +23,9 @@ params:
   - title: Cryptography
     description: ""
     id: 8b5ebcdfeb57f68bea9d232e8fe6b4c2
+  - title: Security Blogs
+    description: ""
+    id: 347ac8475245f2272b37ff1b3f2c8920
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

@@ -18,11 +18,15 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
+  - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
   last_post_title: Much to the chagrin of all of my enemies, I am still alive and

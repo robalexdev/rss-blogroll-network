@@ -15,13 +15,21 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.8.14.
+    id: 3aa0df25d16736cc58c03448d166adb5
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Leon Mika - Blogroll
+    description: ""
+    id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://lmika.org/feed.xml
   categories:
   - AI
   - Journalism

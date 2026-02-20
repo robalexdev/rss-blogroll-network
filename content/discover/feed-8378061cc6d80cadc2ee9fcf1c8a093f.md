@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 8378061cc6d80cadc2ee9fcf1c8a093f
   websites:
+    https://advisorator.com/: false
     https://advisorator.com/members/: true
     https://advisorator.com/members/signup/: false
   blogrolls: []

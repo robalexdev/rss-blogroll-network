@@ -10,6 +10,9 @@ params:
     https://mercurychong.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Feeds
+    description: ""
+    id: fbdba047e4b5e87d0d429b33c0204a84
   - title: 中文独立博客列表
     description: ""
     id: 7fb87e348a8211f4c19e4b0b0da225bd

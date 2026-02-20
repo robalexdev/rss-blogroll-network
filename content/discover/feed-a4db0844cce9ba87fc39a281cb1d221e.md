@@ -10,11 +10,15 @@ params:
     https://multiline.co/mment: false
   blogrolls: []
   in_blogrolls:
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
-  recommender: []
+  recommender:
+  - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
   last_post_title: Time Machine, January 2026

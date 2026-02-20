@@ -1,0 +1,1745 @@
+---
+title: Breaking More Waves
+date: "2026-02-12T10:05:46Z"
+description: An independent unfunded music blog from south-central UK.
+params:
+  feedlink: https://breakingmorewaves.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 43786d24d7b32542eaddab0bbbfcc15e
+  websites:
+    https://breakingmorewaves.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - "00000000"
+  - 2forJoy
+  - 3rd Culture Kid
+  - 4th Project
+  - A Camp
+  - A Girl Called Ruth
+  - A Winged Victory For The Sullen
+  - ADAL
+  - AK Paul
+  - AK/DK
+  - ASTR
+  - AVA
+  - AViVAA
+  - Abbey Bowden
+  - Abbie Ozard
+  - Abby Roberts
+  - Abigail Blake
+  - About Group
+  - Ace Marino
+  - Active Child
+  - Adele
+  - Admiral Fallow
+  - Adna
+  - Adria
+  - Affairs
+  - Aiden Grimshaw
+  - Ajimal
+  - Akine
+  - Al Costelloe
+  - Alabama Shakes
+  - Alan Pownall
+  - Albums of 2011
+  - Albums of 2012
+  - Albums of 2013
+  - Albums of 2014
+  - Albums of 2015
+  - Albums of 2016
+  - Albums of 2017
+  - Albums of 2019
+  - Albums of 2020
+  - Albums of 2021
+  - Albums of 2022
+  - Albums of 2024
+  - Albums of 2025
+  - Alessi's Ark
+  - Alex Cheatle
+  - Alex Vargas
+  - Alex Winston
+  - Algiers
+  - Alice Boman
+  - Alice Chater
+  - Alice Gold
+  - Alice Jemima
+  - Alice Low
+  - Alice Merton
+  - All We Are
+  - Allie X
+  - Alphabet Backwards
+  - Alpines
+  - Aluna George
+  - AlunaGeorge
+  - Alvvays
+  - Amanda Tenfjord
+  - Amelia Moore
+  - Amongst The Pigeons
+  - Amy Holford
+  - Amy Lyon
+  - Amy Montgomery
+  - An Experiment On A Bird In The Air Pump
+  - Anchor And The Wolf
+  - Andrew Foster
+  - Angel Pier
+  - Angie McMahon
+  - Angus & Julia Stone
+  - Animal Kingdom
+  - Anna McLuckie
+  - Annabel Jones
+  - Anne-Marie
+  - Anneka
+  - Another Sky
+  - Anteros
+  - Antibang
+  - Antony and the Johnsons
+  - Aosoon
+  - Aphex Twin
+  - Apples
+  - April Towers
+  - Aquilo
+  - Arborea
+  - Arcade Eden
+  - Arcade Fire
+  - Archis
+  - Arctic Lake
+  - Are You Listening
+  - Arlo Day
+  - Arlo Parks
+  - Arp Attack
+  - Arrows of Love
+  - Art School Girlfriend
+  - Arthur Beatrice
+  - Arthur Rigby And The Bakervylles
+  - Arxx
+  - Ary
+  - As Elephants Are
+  - Ashn
+  - Ashnikko
+  - Ashwarya
+  - Astronaut
+  - Attalie
+  - Aurora
+  - Austra
+  - Autumn Owls
+  - Ava Lily
+  - Avec Sans
+  - BASH!
+  - BBC Sound of 2015
+  - BBC Sound of 2017
+  - BBC Sound of 2018
+  - BEL
+  - BIGkids
+  - BLK JKS
+  - Babe Rainbow
+  - Baby Queen
+  - Babypink
+  - Bad Fit
+  - Bad Sounds
+  - Ballet School
+  - Banks
+  - Barry Peters Halifax Hospital Radio
+  - Basement Revolver
+  - Bastille
+  - Bat For Lashes
+  - Battlekat
+  - Battles
+  - Be Quiet. Shout Loud
+  - Bea
+  - Beach Baby
+  - Beach House
+  - Beans On Toast
+  - Bear Cavalry
+  - Bear's Den
+  - Beardyman
+  - Beat Connection
+  - Beatrice Eli
+  - Bebe Black
+  - Becky Jerams
+  - Beech
+  - Bellah Mae
+  - Belle and Sebastian
+  - Bellowhead
+  - Ben Khan
+  - BenZel
+  - Bentley Rhythm Ace
+  - Best Albums Of 2008
+  - Best Albums Of 2009
+  - Best Albums of 2010
+  - Beth Gibbons
+  - Beth Jeans Houghton
+  - Betsy
+  - Bien
+  - Big Deal
+  - Billie Eilish
+  - Billie Flynn
+  - Billie Marten
+  - Billy Bragg
+  - Billy Vincent
+  - Bishop Briggs
+  - Bjork
+  - Black Black Hills
+  - Black Coast
+  - Black Country New Road
+  - Black Fly
+  - Black Futures
+  - Black Honey
+  - Black Kids
+  - Black Light Dinner Party
+  - Blackeye
+  - Blaenavon
+  - Bleeding Heart Narrative
+  - Blessa
+  - Bloc Party
+  - Blog Sound of 2015
+  - Blog Sound of 2016
+  - Blogs
+  - Blood Diamonds
+  - Blood Orange
+  - Blooms
+  - Blossomer
+  - Bloxx
+  - Blu DeTiger
+  - Blue Roses
+  - Bluebell
+  - Blusher
+  - Bokito
+  - Bon Iver
+  - Boniface
+  - Bonnie Tyler
+  - Boxes
+  - Boy Friend
+  - Braids
+  - Breaking More Waves
+  - Breton
+  - Brian Eno
+  - Bridie Jackson and the Arbour
+  - Bright Light Bright Light
+  - Brika
+  - Brilliant Mind
+  - British Sea Power
+  - Britney Spears
+  - Broadcast
+  - Broken Records
+  - Brolin
+  - Bronski Beat
+  - Broods
+  - Brooke Bentham
+  - Brown Brogues
+  - Bry
+  - Bull
+  - Bully
+  - Burial
+  - Bushstock 2016
+  - Bushstock 2017
+  - Bye Bye Blackbird
+  - Bülow
+  - CHPLN
+  - CMAT
+  - Cabbage
+  - Cadet
+  - Caitlin Rose
+  - Caity Baser
+  - Calvin Harris
+  - Cameron Jones
+  - Candi Staton
+  - Candy Says
+  - Cape Cub
+  - Caribou
+  - Caroline Lazar
+  - Carosel
+  - Carousels
+  - Carter The Unstoppable Sex Machine
+  - Casi
+  - Casio Kids
+  - Cassie and the Cassettes
+  - Casual Sex
+  - Cat * Camell
+  - Cathedrals
+  - Cathy Jain
+  - Cats In Paris
+  - Cave Painting
+  - Celeste
+  - Celestial Trax
+  - Chad Valley
+  - Chai
+  - Chairlift
+  - Champagne Riot
+  - Champs
+  - Channel Swimmer
+  - Charles Cave
+  - Charli XCX
+  - Charlie Calleja
+  - Charlie Houston
+  - Chartreuse
+  - Chasing Grace
+  - Chateau Marmont
+  - Cheatahs
+  - Chelsea Wilson
+  - Cherbourg
+  - Chet Faker
+  - Chew Lips
+  - Childish Gambino
+  - Chimes
+  - Chinatown Slalom
+  - Chipmunk
+  - Chloe Black
+  - Chloe Qisha
+  - Chlöe Howl
+  - Chris T-T
+  - Christian AIDS
+  - Christine & The Queens
+  - Christy
+  - Chromeo
+  - Chuck Berry
+  - Chvrches
+  - Clairo
+  - Clare Maguire
+  - Clarence Clarity
+  - Claudia Kane
+  - Cliff Martinez
+  - Cliffords
+  - Clock Opera
+  - Clogs
+  - Cloud Boat
+  - Cloud Castle Lake
+  - Cloud Control
+  - Cloves
+  - Club Intl
+  - Coach Party
+  - Coastal Cities
+  - Coasts
+  - Codes
+  - Cold Courage
+  - Cold Pumas
+  - Cold Specks
+  - Colour Coding
+  - Colour the Atlas
+  - Compilations
+  - Confidence Man
+  - Connan Mockasin
+  - Connie Campsie
+  - Connie Constance
+  - Coronation Ball
+  - Cosmo Sheldrake
+  - Courting
+  - Courtney Marie Andrews
+  - Cousin Marnie
+  - Craft Spells
+  - Creatures
+  - Creatures Of Love
+  - Creep
+  - Cruel Sister
+  - Crybaby
+  - Crystal Castles
+  - Cuckoo Lander
+  - Cults
+  - Curtis Harding
+  - Curtis Mayfield
+  - Curxes
+  - D-E-W-L
+  - D/C
+  - D/R/U/G/S
+  - DIICE
+  - Daft Punk
+  - Dagny
+  - Daisy Brain
+  - Daisy Dares You
+  - Dan Black
+  - Dan Le Sac vs Scroobius Pip
+  - Dan Mangan
+  - Dan Smith
+  - Dancing Years
+  - Danielle Durack
+  - Dark Horses
+  - Darwin Deez
+  - Data Romance
+  - Daterape
+  - Daughter
+  - Dave
+  - David Bowie
+  - David Gray
+  - David Harks
+  - David Thomas Broughton
+  - Day Wave
+  - Deap Vally
+  - Dear Prudence
+  - Declan McKenna
+  - Deep Cut
+  - Dekade
+  - Delilah
+  - Delorean
+  - Delphic
+  - Delta Maid
+  - Dems
+  - Dennis Hopper Choppers
+  - Dent May
+  - Depeche Mode
+  - Desperate Journalist
+  - Dials 2019
+  - Dials Festival 2018
+  - Die Mason Die
+  - Disclosure
+  - Discopolis
+  - Discussions
+  - Disgusting Sisters
+  - Dive In
+  - Diving Station
+  - Dizzee Rascal
+  - Dizzy
+  - Dj Hojo Hits
+  - Django Django
+  - Dog Is Dead
+  - Dolly Rockers
+  - Donkeyboy
+  - Dot Rotten
+  - Dotter
+  - Doves
+  - Dre Skull
+  - Dreadnought
+  - Dream Harlowe
+  - Dream Wife
+  - Dreams
+  - Drew Citron
+  - Dry The River
+  - Dua Lipa
+  - Dua Saleh
+  - Duben Tosk
+  - Duffy
+  - Duologue
+  - Dutch Uncles
+  - Déjà Vega
+  - Déyyess
+  - E.M.M.A
+  - ELEL
+  - EMBRZ
+  - East India Youth
+  - Easy Life
+  - Easy listening
+  - Eaves Wilder
+  - Ed Sheeran
+  - Eddi Front
+  - Editors
+  - Efterklang
+  - Egyptian Hip Hop
+  - Eilidh Hadden
+  - Elan Tamara
+  - Elaskia
+  - Elbow
+  - Elderbrook
+  - Eliza And The Bear
+  - Ella Grace
+  - Elle Coves
+  - Elle King
+  - Elle Watson
+  - Ellen and the Escapades
+  - Ellie Bleach
+  - Ellie Dixon
+  - Ellie Goulding
+  - Elliott Power
+  - Elliphant
+  - Eloise Keating
+  - Elosie Keating
+  - Embers
+  - Emelie de Forest
+  - Emeralds
+  - Emilia Tarrant
+  - Emilie Nicolas
+  - Emily Barker and The Red Clay Halo - Calendar
+  - Emily Burns
+  - Emily and the Woods
+  - Emma Dewing
+  - Emma Jensen
+  - Emma McGrath
+  - Emma Pollock
+  - Emma-Louise
+  - Emmy The Great
+  - English Teacher
+  - Erik Hassle
+  - Erland Cooper
+  - Erland and the Carnival
+  - Erthlings
+  - Esben And The Witch
+  - Esse
+  - Esser
+  - Essie Jain
+  - Etta Marcus
+  - Euro 2016
+  - Eva Stone
+  - Eva Stone The Night VI
+  - Evans The Death
+  - Eve Owen
+  - Everything Everything
+  - Example
+  - Exlovers
+  - Eyedress
+  - Ezra Furman
+  - FFFRRANNNO
+  - FKA Twigs
+  - FLO
+  - FREJA
+  - Factory Floor
+  - Fairline
+  - Family of the Year
+  - Fanfarlo
+  - Farao
+  - Fast Trains
+  - Fat Dog
+  - Favourite songs 2022
+  - Faye Webster
+  - Fear Of Men
+  - Feathers
+  - Feet
+  - Feki
+  - Femme
+  - Fenech-Soler
+  - Fever 333
+  - Fever Ray
+  - Fickle Friends
+  - Fight Like Apes
+  - Findlay
+  - Firewoodisland
+  - First Aid Kit
+  - Fitness Club Fiasco
+  - Fixers
+  - Fizz
+  - Fjokra
+  - Flashguns
+  - Flawes
+  - Flip Top Head
+  - Flit
+  - Flo Morrissey
+  - Float Fall
+  - Floella Grace
+  - Flohio
+  - Florence and the Machine
+  - Florrie
+  - Flower Fellow
+  - Flowerovlove
+  - Flume
+  - Flyte
+  - Foals
+  - Foe
+  - Folly Group
+  - Fontaines D.C.
+  - Fontaines DC
+  - Fool's Gold
+  - Football
+  - For Those I Love
+  - Fours
+  - Foxes
+  - Franc Moody
+  - Frances
+  - Frank Turner
+  - Frankie
+  - Frankie Rose
+  - Franz Ferdinand
+  - French Wives
+  - Friendly Fires
+  - Friends
+  - Friends Electric
+  - Frost
+  - Fuck Buttons
+  - Furns
+  - Futuristic Retro Champions
+  - G Flip
+  - GIRLI
+  - Gabby Young and Other Animals
+  - Gabriel Bruce
+  - Gabrielle Aplin
+  - Gabriels
+  - Gaea Girls
+  - Gaggle
+  - Gang of Youths
+  - Garden Heart
+  - Gay Robots
+  - Gazelle Twin
+  - Geordie Greep
+  - George Cosby
+  - George Ezra
+  - George Maple
+  - George Michael
+  - Georgia
+  - Georgia Mason
+  - Georgia Ruth
+  - Ghost Bees
+  - Ghost Estates
+  - Ghost Loft
+  - Ghosting Season
+  - Ghostpoet
+  - Giant Fang
+  - Gibson Bull
+  - Gigs
+  - Gil Scott-Heron
+  - Giorgio Moroder
+  - Giovanna
+  - Girls Aloud
+  - Givers
+  - Glass
+  - Glasser
+  - Glastonbury Emerging Talent 2013
+  - Glastonbury Emerging Talent 2014
+  - Glastonbury Emerging Talent 2015
+  - Glastonbury Emerging Talent 2016
+  - Glastonbury Emerging Talent 2017
+  - Glastonbury Emerging Talent 2019
+  - Glasvegas
+  - Glüme
+  - Go Swim
+  - Gold Panda
+  - Gold Teeth
+  - Gold and Youth
+  - Golden Fable
+  - Golden Silvers
+  - Goldhawks
+  - Goldheart Assembly
+  - Goldie Lookin Chain
+  - Goldroom
+  - Goodbye Mr Mackenzie
+  - Gospel
+  - Grace Carter
+  - Grace Lightman
+  - Grace Mitchell
+  - Grace Sarah
+  - Grace Savage
+  - Gracey
+  - Grandbrothers
+  - Grasscut
+  - Great E Mail Challenge
+  - Great Escape 2015
+  - Great Escape 2016
+  - Great Escape 2017
+  - Great Escape 2018
+  - Great Escape 2023
+  - Great Escape 2025
+  - Great Skies
+  - Greta Isaac
+  - Griff
+  - Grimes
+  - Grizzly Bear
+  - Grouplove
+  - Grovesnor
+  - Guards
+  - Guilty Pleasures
+  - Gurriers
+  - HVOB
+  - Haarm
+  - Hachiku
+  - Haim
+  - Halie
+  - Hallan
+  - Halls
+  - Halsey
+  - Hana
+  - Hannah Grace
+  - Hannah Peel
+  - Happy Hunting
+  - Happy Mondays
+  - Harlea
+  - Hart
+  - Hatchie
+  - Hatis Noit
+  - Hayseed Dixie
+  - Haze
+  - Hazel English
+  - Heartworms
+  - Heaven 17
+  - Helen Love
+  - Her Habits
+  - Herve Vilard
+  - His Girl Friday
+  - Hockey
+  - Holdfast
+  - Hollow Coves
+  - Holly Humberstone
+  - Holly Macve
+  - Holly Miranda
+  - Holy Esque
+  - Holychild
+  - Home Counties
+  - Honeyblood
+  - Honeyglaze
+  - Honne
+  - Hookworms
+  - Hooray For Earth
+  - Hope Tala
+  - Host
+  - Hot Chip
+  - Hot Feet
+  - Houdini Dax
+  - Hourglvss
+  - House On Fire
+  - House Points
+  - Howard Jones
+  - Hugh
+  - Humans
+  - Huntar
+  - Hurts
+  - Husky Loops
+  - Hydra Lerna
+  - I Am Harlequin
+  - I Am In Love
+  - I Am Karate
+  - I Blame Coco
+  - I Dream In Colour
+  - INHEAVEN
+  - IYES
+  - Iain Archer
+  - Iamamiwhoami
+  - Ian William Craig
+  - Ibeyi
+  - Icebreaker
+  - Icebreaker 2018
+  - Icona Pop
+  - Ider
+  - Idiot Glee
+  - Idlewild
+  - Imogen and the Knife
+  - Imperial Leisure
+  - Indi
+  - Indiana
+  - Indy
+  - Ingrid Witt
+  - International Teachers Of Pop
+  - Iris
+  - Iris Gold
+  - Is Bliss
+  - Is Tropical
+  - Isabelle Brown
+  - Islet
+  - Islington Boys' Club
+  - Isobel Anderson
+  - Isobel Campbell and Mark Lanegan
+  - Ivorian Doll
+  - Ivy and Gold
+  - J-Treole
+  - JJ Rosa
+  - Jaakko and Jay
+  - Jack Garratt
+  - Jack Penate
+  - Jade Bird
+  - Jagaara
+  - Jagwar Ma
+  - Jai Paul
+  - Jain
+  - Jake Hart
+  - Jake Isaac
+  - Jamaica
+  - James
+  - James Blake
+  - James Vincent McMorrow
+  - James Yuill
+  - Jamie N Commons
+  - Janelle Monae
+  - Janelle Monáe
+  - Jay Jay Pistolet
+  - Jayla Kai
+  - Jazzi Bobbi
+  - Jean Michel Jarre
+  - Jeffe
+  - Jennifer Davies
+  - Jensen Sportag
+  - Jerry Williams
+  - Jess Mills
+  - Jesse Elvis
+  - Jessica Luise
+  - Jessica Winter
+  - Jessie J
+  - Jessie Ware
+  - Jetta
+  - Jevon
+  - Jim Jiminee
+  - Joe Unknown
+  - Johanna Bramli
+  - John Crampton
+  - John Hancock
+  - John Newman
+  - John Smith
+  - Johnny Flynn
+  - Johnny Foreigner
+  - Johnny Marr
+  - Joji
+  - Jon Hopkins
+  - Jones
+  - Jonny Kearney and Lucy Farrell
+  - Jorja Smith
+  - Josef Salvat
+  - Joseph J Jones
+  - Josh Barry
+  - Josh Record
+  - Joshua Burnside
+  - Joshua Idehen
+  - Journeaux
+  - Joy Crookes
+  - Joypopp
+  - Jude
+  - Julia Jacklin
+  - Julia Kent
+  - Julia Stone
+  - Julien Baker
+  - Jungle
+  - Just A Number 05272011
+  - K.I.D.S
+  - KEG
+  - KID 2
+  - Kacy Hill
+  - Kafka Tamura
+  - Kailee Morgue
+  - Kal Lavelle
+  - Kali
+  - Kamp
+  - Kassassin Street
+  - Kate Bush
+  - Kate Miller
+  - Kate Nash
+  - Kate Tempest
+  - Kate Walsh
+  - Kathleen Frances
+  - Kathryn Joseph
+  - Keir
+  - Kid Adrift
+  - Kid Kasio
+  - Kidnap
+  - Kids
+  - Kids On Bridges
+  - Kiiara
+  - Kill It Kid
+  - King
+  - King Charles
+  - King Hannah
+  - King Princess
+  - Kingfishr
+  - Kings
+  - Kites
+  - Kitty Daisy and Lewis
+  - Kiwi
+  - Klaus
+  - Klaxons
+  - Kloe
+  - Knesset
+  - Kolars
+  - Kraftwerk
+  - Kwaye
+  - Kyla La Grange
+  - Kyle Dixon & Michael Stein
+  - Kylie Minogue
+  - Kynsy
+  - LANY
+  - LVRA
+  - La Roux
+  - Labyrinth Ear
+  - Lady Bird
+  - Ladyhawke
+  - Lana Del Rey
+  - Lanikai
+  - Lanterns On The Lake
+  - Lapsley
+  - Lara Snow
+  - Laufey
+  - Laura Doggett
+  - Laura Groves
+  - Laura J Martin
+  - Laura Marling
+  - Laura Mvula
+  - Laura St Jude
+  - Laura Welsh
+  - Lauran Hibberd
+  - Laurel
+  - Lauren Aquilina
+  - Lauren Auder
+  - Lauren Scrivener
+  - Law
+  - Layla
+  - Le Corps Mince De Francoise
+  - Le Grind
+  - Le Plat Du Jour
+  - Lea Santee
+  - League
+  - Leaving Atlantis
+  - Leigh Mary Stokes
+  - Lemonade
+  - Lemondaze
+  - Len
+  - Les Demoniaques
+  - Les Mistons
+  - Let Em Riot
+  - Let's Buy Happiness
+  - Let's Eat Grandma
+  - Let's Wrestle
+  - Letters
+  - Lewis Watson
+  - Lexie Carroll
+  - Lexy and the Kill
+  - Lia Lia
+  - Lianne La Havas
+  - LibraLibra
+  - Lido
+  - Lif3blood
+  - Life
+  - Lighthouses
+  - Lights On Moscow
+  - Lightwaves
+  - Lilla Vargen
+  - Lilo's Wall
+  - Lily Allen
+  - Lily Moore
+  - Linus Young
+  - Lionel Richie
+  - Lisa Hannigan
+  - Lisa Mitchell
+  - Lissie
+  - Lite N Dark
+  - Little Boots
+  - Little Daylight
+  - Little Destroyer
+  - Liu Bei
+  - Liv
+  - Liv Dawson
+  - Lizzie and the Yes Men
+  - Lizzo
+  - Lo-Fye
+  - Local Natives
+  - Lolo
+  - London Grammar
+  - Lone Justice
+  - Longfellow
+  - Look Stranger
+  - Loose Tooth
+  - Lorde
+  - Loreen
+  - Los Bitchos
+  - Los Campesinos
+  - Los Campesions
+  - Loui Rose
+  - Louise and the Pins
+  - Lovejoy
+  - Lovestarrs
+  - Lowell
+  - Lowes
+  - Loyle Carner
+  - Loz Bridge and the Box Social
+  - Lucky Elephant
+  - Lucy Rose
+  - Luka
+  - Luke Haines
+  - Luke Sital-Singh
+  - Lulu James
+  - Lulu and the Lampshades
+  - Lxandra
+  - Lydiah
+  - Lykke Li
+  - Lynks
+  - Lynks Afrikka
+  - Lyra
+  - Lyza Jane
+  - Lüthian
+  - M+A
+  - M83
+  - MAY
+  - MK Grands
+  - MMX
+  - MNDR
+  - Madness
+  - Maggie Rogers
+  - Magic Man
+  - Maiians
+  - Maisie Peters
+  - Majik
+  - Maker
+  - Making Marks
+  - Malka
+  - Mammal Club
+  - Man Like Me
+  - Man/Woman/Chainsaw
+  - Manic Street Preachers
+  - Margaret Berger
+  - Margot
+  - Marie Naffah
+  - Marika Hackman
+  - Marina and the Diamonds
+  - Marques Toliver
+  - Marriages
+  - Marsheaux
+  - Martha
+  - Martin Green
+  - Masks
+  - Massive Attack
+  - Maths Time Joy
+  - Matt Corby
+  - Matthew E. White
+  - Maty Noyes
+  - Maude Latour
+  - Mausi
+  - Max Cooper
+  - Maximillian
+  - Mayfair
+  - Maz Totterdell
+  - Meadowlark
+  - Mealtime
+  - Meanwhile
+  - Mechanical Bride
+  - Medicine Cabinet
+  - Meg Myers
+  - Megan Lara Mae
+  - Megan Linford
+  - Melodica Melody and Me
+  - Memoryhouse
+  - Metronomy
+  - Mette
+  - Meursault
+  - Miami Horror
+  - Micachu And The Shapes
+  - Michael Kiwanuka
+  - Mickey Callisto
+  - Middle Class Rut
+  - Midlake
+  - Midst
+  - Miike Snow
+  - Mika
+  - Millie Turner
+  - Milly Upton
+  - Minnaars
+  - Minque
+  - Mirror Furies
+  - Mirror Fury
+  - Mirrors
+  - Miss Tiny
+  - Misty Miller
+  - Mmoths
+  - Mo
+  - Modern Woman
+  - Mogwai
+  - Moko
+  - Molly Burch
+  - Molly Payton
+  - Mona
+  - Monarchy
+  - Money
+  - Mono
+  - Mononoke
+  - Monotonix
+  - Moonrags
+  - Mopp
+  - Morgan Saint
+  - Morning Midnight
+  - Morning Parade
+  - Morphixx
+  - Morrissey
+  - Mosa Wild
+  - Motherhood
+  - Mount Kimbie
+  - Moyka
+  - Mr B The Gentleman Rhymer
+  - Mr Hudson
+  - Mr Little Jeans
+  - Ms D
+  - Mt Wolf
+  - Muchuu
+  - Mudi Sama
+  - Mulan
+  - Mumford and Sons
+  - Mura Masa
+  - Music Festivals
+  - Music That Made Me
+  - Music spending
+  - My First Tooth
+  - My Tiger My Timing
+  - Mystery Jets
+  - MØ
+  - MΛJIK
+  - NONONO
+  - NYTCLUB
+  - Naaz
+  - Nadine Shah
+  - Nao
+  - Napoleon IIIrd
+  - Nasty Cherry
+  - Natalie McCool
+  - Nedry
+  - Neighbors
+  - Neil Diamond
+  - Nell Mescall
+  - Nemo
+  - Neon Hitch
+  - Neue York
+  - Nevermind
+  - New
+  - New Look
+  - New Portals
+  - NewIslands
+  - Nicola Roberts
+  - Night Engine
+  - Night Flowers
+  - Night Games
+  - Nightbox
+  - Nightbus
+  - Nightjacket
+  - Nilüfer Yanya
+  - Nina
+  - Nina Cobham
+  - Nina Nesbitt
+  - "No"
+  - 'No Ceremony /// '
+  - Noah and the Whale
+  - Nomi
+  - Noonie Bao
+  - Noosa
+  - Norma Jean Martine
+  - Norman Jay
+  - Northeast Party House
+  - Novella
+  - Nullifier
+  - O Children
+  - OMD
+  - Odesza
+  - Odette
+  - Off Bloom
+  - Oh Atoms
+  - Oh Land
+  - Oh My
+  - Oh Wonder
+  - Ohbijou
+  - Oi Va Voi
+  - Olivia Dean
+  - Ones To Watch 2009
+  - Ones To Watch 2010
+  - Ones To Watch 2012
+  - Ones To Watch 2018
+  - Ones To Watch 2024
+  - Ones to Watch 2011
+  - Ones to Watch 2013
+  - Ones to Watch 2014
+  - Ones to Watch 2015
+  - Ones to Watch 2016
+  - Ones to Watch 2017
+  - Ones to Watch 2019
+  - Ones to Watch 2020
+  - Ones to Watch 2021
+  - Ones to Watch 2022
+  - Ones to Watch 2023
+  - Ones to Watch 2025
+  - Opus Kink
+  - Orbital
+  - Orchid
+  - Orla Gartland
+  - Orphans And Vandals
+  - Oscar Scheller
+  - Other Lives
+  - Ottilia
+  - Oupa
+  - Our Eyes
+  - Outfit
+  - PANES
+  - PBSR
+  - PJ Harvey
+  - Pale Waves
+  - Panic Shack
+  - Paper Boats
+  - Paper Crows
+  - Paperwhite
+  - Paradise
+  - Paradisia
+  - Parcels
+  - Park Hotel
+  - PartyClub
+  - Passion Pit
+  - Patawawa
+  - Patterns
+  - Pawws
+  - Peace
+  - Peggy Sue
+  - Pencil Stringhorn Project
+  - Penelope Isles
+  - Pepper
+  - Percival Elliott
+  - Perfume Genius
+  - Pet Shop Boys
+  - Peter Paul and Mary
+  - Petite Meller
+  - Pets
+  - Phantom Runners
+  - Philip Whitehead
+  - Phoebe Bridgers
+  - Phoenix
+  - Picture Book
+  - Picture Parlour
+  - Pink Kink
+  - Pins
+  - Pip Millett
+  - Pixey
+  - Planet Earth
+  - Plants Plants
+  - Plastic Mermaids
+  - Playlist
+  - Playlists
+  - Pleasure Beach
+  - Pocket Sun
+  - Pocketknife
+  - Polarbear
+  - Polarsets
+  - Police Car Collective
+  - Polly Scattergood
+  - Polo
+  - Polock
+  - Poppy
+  - Poppy Ackroyd
+  - Porchlight
+  - Portishead
+  - Powerlifter
+  - Prep
+  - Pretty Heart
+  - Pretty Vicious
+  - Prides
+  - Priestgate
+  - Prima Queen
+  - Princess Chelsea
+  - Pris
+  - Projectionists
+  - Propaganda
+  - Public Service Broadcasting
+  - Pulled Apart By Horses
+  - Pulp
+  - Puma Rosa
+  - Pumarosa
+  - Purity Ring
+  - Py
+  - Pylo
+  - Pyra
+  - Queen of Hearts
+  - RHAIN
+  - RINSE
+  - RIVRS
+  - ROCH
+  - ROE
+  - Race Horses
+  - Rachel Chinouriri
+  - Rachel Furner
+  - Rachel Sermanni
+  - Radio Appearances
+  - Radiohead
+  - Rae Morris
+  - Rag 'n' Bone Man
+  - Rat Boy
+  - Rationale
+  - Razmataz Lorry Excitement
+  - Real Fur
+  - Rebecca Black
+  - Rebecca Clements
+  - Rebecca Rivers
+  - Rebecca and Fiona
+  - Record Store Day
+  - Red Light Company
+  - Red Shoe Diaries
+  - Regina Spektor
+  - Remix Artist Collective
+  - Ren Harvieu
+  - Retrotation
+  - Revere
+  - Rhye
+  - Rianne Downey
+  - Rich Aucoin
+  - Richard Hawley
+  - Right Click Save As
+  - Rita Ora
+  - Rizzle Kicks
+  - Robin Sherwell
+  - Robinson
+  - Robyn Sherwell
+  - Rogues
+  - Roman Lewis
+  - Romy
+  - Roni Size and Reprazent
+  - Ronika
+  - Roots Manuva
+  - Rooue
+  - Rosalia
+  - Rosalía
+  - Rose Elinor Dougall
+  - Rosie Carney
+  - Rosie Lowe
+  - Royksopp
+  - Rozes
+  - Ruen Brothers
+  - Run Toto Run
+  - Ruok
+  - Ry X
+  - Ryn Weaver
+  - SAL
+  - SKOTT
+  - SPC ECO
+  - SURVIVE
+  - Sabrina
+  - Sad Palace
+  - Saint Etienne
+  - Saint Raymond
+  - Sake
+  - Salem
+  - Salt Ashes
+  - Saltwater Sun
+  - Sam Ryder
+  - Sam Ryder. New
+  - Samm Henshaw
+  - Sampha
+  - Samuel
+  - Samuel Chase
+  - Samuel and the Dragon
+  - San Cisco
+  - San Zhi
+  - Sansa
+  - Sarah Blasko
+  - Sarah Cracknell
+  - Saturday Night Gym Club
+  - Sault
+  - Savages
+  - Saya
+  - Sazzie
+  - Scarlett Johansson
+  - Scene Queen
+  - Scout
+  - Scum
+  - Seafowl
+  - Seasfire
+  - Seeker Lover Keeper
+  - Seinabo Sey
+  - Semi-Attractive Boy
+  - Seramic
+  - Seth Lakeman
+  - Shadow Orchestra
+  - Shaefri
+  - Shannon Saunders
+  - Shannon Wardrop
+  - She Drew The Gun
+  - Shells
+  - Shields
+  - Shivum Sharma
+  - Shona Foster
+  - Shura
+  - Shy Nature
+  - Sidney Gish
+  - Signals
+  - Sigrid
+  - Silk Cinema
+  - Silver Columns
+  - Siobahn Winifred
+  - Siobhan Wilson
+  - Siren
+  - Sivu
+  - Skinny Lister
+  - Skint and Demoralised
+  - Skream
+  - Skullcrusher
+  - Slang
+  - Sleater-Kinney
+  - Sleigh Bells
+  - Slinger
+  - Slow Club
+  - Slow Skies
+  - Small Black
+  - Smatka
+  - Smerins Anti Social Club
+  - Smoke Fairies
+  - Snakehips
+  - Snowbird
+  - So Below
+  - Soak
+  - Sody
+  - Sofi Tukker
+  - Sohn
+  - Solv
+  - Songs of 2017
+  - Sons and Lovers
+  - Sophie Ellis Bextor
+  - Sophie Jamieson
+  - Sophie-Rose
+  - Sound Of Rum
+  - Spark
+  - Spector
+  - Spectrals
+  - Spoort
+  - Spring King
+  - Squarepusher
+  - St Etienne
+  - St Lucia
+  - St. Jude The Obscure
+  - Star Slinger
+  - Starling
+  - Starlings
+  - Starsmith
+  - Stay Home Sound Machine
+  - Stay+
+  - Stealing Sheep
+  - Stereo Honey
+  - Steve Moore
+  - Stevie Parker
+  - Still Corners
+  - Stormzy
+  - Stornoway
+  - Strange Talk
+  - Strangers
+  - Streaming
+  - Subgiant
+  - Substatic
+  - Suede
+  - Sufjan Stevens
+  - Sugarhouse
+  - Sultan of the Disco
+  - Summer Camp
+  - Sun Up
+  - Sunday Best Forum Allstars
+  - Sunday Girl
+  - Sunflower Bean
+  - Sunken
+  - Super Furry Animals
+  - Superorganism
+  - Supersaurus
+  - Swimming
+  - Swimming Girls
+  - Swiss Lips
+  - Sylver Tongue
+  - Syron
+  - Sälen
+  - Sølv
+  - TV On The Radio
+  - TV Priest
+  - Talkboy
+  - Tall Ships
+  - Tasseomancy
+  - Taylor Swift
+  - Tears and Marble
+  - Teeth
+  - Telepathe
+  - Temper The Wolves
+  - Tempesst
+  - Temples of Youth
+  - Tender
+  - Tenderhost
+  - Tesla Boy
+  - The Agitator
+  - The Airbourne Toxic Event
+  - The Antlers
+  - The Autons
+  - The Avalanches
+  - The B Of The Bang
+  - The Bees
+  - The Big Heat
+  - The Big Moon
+  - The Blinders
+  - The Bog Rolling Stones
+  - The Cardigans
+  - The Chevin
+  - The Colourist
+  - The Concept
+  - The Cordelier Club
+  - The Cure
+  - The Dawn Chorus
+  - The Deads
+  - The Death Of Pop
+  - The Desert
+  - The Dinner Party
+  - The Drums
+  - The Dub Pistols
+  - The Dufflefolks
+  - The Flaming Lips
+  - The Folk
+  - The Futureheads
+  - The Gift
+  - The Goa Express
+  - The Golden Fable
+  - The Good Gods
+  - The Good Natured
+  - The Hall Of Mirrors
+  - The Hics
+  - The History Of Apple Pie
+  - The Hold Steady
+  - The Horrors
+  - The Hot Toddies
+  - The Itch
+  - The Japanese House
+  - The Jess Hall Band
+  - The Jessie Rose Trip
+  - The Jettes
+  - The Jezabels
+  - The Joy Formidable
+  - The Kite String Tangle
+  - The Knife
+  - The Lathums
+  - The Laurel Collective
+  - The Leisure Society
+  - The Levellers
+  - The Lyrebirds
+  - The Maccabees
+  - The Mae Shi
+  - The Marvellous Mechanical Band
+  - The Medicine Hat
+  - The Melodramas
+  - The Merrylees
+  - The Middle East
+  - The Milk
+  - The Miserable Rich
+  - The Modern
+  - The Momeraths
+  - The Mummers
+  - The Murder Capital
+  - The Naked and Famous
+  - The National
+  - The Neighbourhood
+  - The Night
+  - The Night VI
+  - The Notes
+  - The Orb
+  - The Other Tribe
+  - The Pains of Being Pure at Heart
+  - The Palpitations
+  - The Pill
+  - The Pixies
+  - The Primitives
+  - The Prodigy
+  - The Qemists
+  - The Queen's Head
+  - The RSPB
+  - The Ragamuffins
+  - The Retrospective Soundtrack Players
+  - The Rhythm Method
+  - The Royal Concept
+  - The School
+  - The Shacks
+  - The Shires
+  - The Slow Show
+  - The Sound Of Arrows
+  - The Staves
+  - The Stone Roses
+  - The Strange Death Of Liberal England
+  - The Streets
+  - The Sun Days
+  - The Sunday Surf
+  - The Sundays
+  - The Temper Trap
+  - The Unthanks
+  - The Vaccines
+  - The Very Best
+  - The Vestals
+  - The Victorian English Gentlemans Club
+  - The Weeknd
+  - The Woe Betides
+  - The Wombles
+  - The Wurzels
+  - The XX
+  - The Zutons
+  - Theme Park
+  - These Ghosts
+  - Thief
+  - Think About Life
+  - Thousand Yard Stare
+  - Three Trapped Tigers
+  - Throws
+  - Thrum
+  - Thrushes
+  - Thyla
+  - Tilly and the Wall
+  - Tinashe
+  - Tindersticks
+  - Tiny Giant
+  - Tits Up
+  - Todd Terje
+  - Tom Adams
+  - Tom Hickox
+  - Tom Jones
+  - Tom Odell
+  - Tom Tripp
+  - Too Many T's
+  - Too Young To Love
+  - Tor Miller
+  - Torches
+  - Totally Enormous Extinct Dinosaurs
+  - Tove Lo
+  - Toyboy & Robin
+  - Treefight for Sunlight
+  - Treetop Flyers
+  - Tristam
+  - Trophy Wife
+  - Troves
+  - True Cost Of Gig Going
+  - Trust
+  - Tunng
+  - Twigs
+  - Twin Brother
+  - Twin Caverns
+  - Twin Sister
+  - Twin Sun
+  - Twisted Wheel
+  - Tydes
+  - Tyne
+  - U2
+  - Ugly Ozo
+  - Ulla Nova
+  - Underworld
+  - Unicorn Kid
+  - VLURE
+  - VV Brown
+  - Valeras
+  - Valerie Francis
+  - Valerie June
+  - Vallis Alps
+  - Vampire Weekend
+  - Vanbot
+  - Various Cruelties
+  - Vaults
+  - Vaz
+  - Vegas Gold
+  - Vengeance of the Undead
+  - Veronica Falls
+  - Victoria
+  - Victorious Festival
+  - Vienna Ditto
+  - Vile Imbeciles
+  - Villa Nah
+  - Villagers
+  - Viola Beach
+  - Violet
+  - Violet Skies
+  - Visions of Trees
+  - Vlad Solojov
+  - Voids
+  - Walk The Moon
+  - Wall
+  - Wallice
+  - Walt Disco
+  - Wanderhouse
+  - War Of Words
+  - Ward Thomas
+  - Warm Digits
+  - Warpaint
+  - Warrington-Runcorn Newtown Development Plan
+  - Washed Out
+  - Washington
+  - Watsky
+  - We Are The Brave
+  - We Are The World
+  - We Have Band
+  - We Were Evergreen
+  - Weddings
+  - Wednesday's Wolves
+  - Weirdo
+  - Westlife
+  - Wet Leg
+  - Wham
+  - When 5AM
+  - Whenyoung
+  - White
+  - White Fever
+  - White Lies
+  - White Royal
+  - Whyte Horses
+  - Wild Beasts
+  - Wild Child
+  - Wild Nothing
+  - Wild Palms
+  - Wildes
+  - Wildest Dreams
+  - William Fitzsimmons
+  - Willis Earl Beal
+  - Willy Moon
+  - Wilsen
+  - Win
+  - Winnie Raeder
+  - Winston Marshall
+  - Winter Gardens
+  - Wintercoats
+  - Wolf Alice
+  - Wolf Gang
+  - Women
+  - Wonder Villains
+  - Woodpigeon
+  - Worship
+  - Wu Lyf
+  - Wyldest
+  - Wynona
+  - XYLØ
+  - Xylaroo
+  - Xylo
+  - Y Niwl
+  - Y.O.U
+  - Yaaks
+  - Yard Act
+  - Yassassin
+  - Yawwn
+  - Yeah Yeah Yeahs
+  - Years Away
+  - Years and Years
+  - Yeasayer
+  - Yelle
+  - Yellow Days
+  - Yes Giantess
+  - You
+  - Young Fathers
+  - Young Summer
+  - Young War
+  - Your Smith
+  - Yuck
+  - Yumi and the Weather
+  - Zeal & Ardor
+  - Zella Day
+  - Zhala
+  - Ziyad Al-Samman
+  - Zoe Nash
+  - Zola Blood
+  - Zola Jesus
+  - Zulu Winter
+  - Zuzu
+  - Zyra
+  - alt-j
+  - astronomyy
+  - blogathon
+  - darkDARK
+  - deep tan
+  - iZNiiK
+  - lilo
+  - mazie
+  - music
+  - poutyface
+  - ppcocaine
+  - rainbow frog biscuits
+  - salute
+  - songs of 2021
+  - sting Sisters
+  - t.A.T.u
+  - tUnE-yArDs
+  - twst
+  - Æ MAK
+  - Ørmstons
+  relme:
+    https://breakingmorewaves.blogspot.com/: true
+    https://www.blogger.com/profile/01678542701655601547: true
+  last_post_title: Ones to Watch 2026
+  last_post_description: ""
+  last_post_date: "2026-01-01T19:27:55Z"
+  last_post_link: http://breakingmorewaves.blogspot.com/2026/01/ones-to-watch-2026.html
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: 8a34b897beee94bc9b1eb86f4adf9fe0
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 26
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 30
+  avgpostlen: 296
+---

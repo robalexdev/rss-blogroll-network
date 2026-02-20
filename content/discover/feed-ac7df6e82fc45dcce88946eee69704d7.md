@@ -15,6 +15,12 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Subscriptions
+    description: ""
+    id: e064c43240ceec08277838fe0d39e9cd
+  - title: English RSS collated by MoreRSS
+    description: ""
+    id: 4fec48524a0a655ca9ae0e814e87c47b
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
