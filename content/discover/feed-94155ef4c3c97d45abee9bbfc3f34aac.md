@@ -15,37 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Citibank 信用卡
-  - ThankYou Points (TYP) 点数
-  - 无境外手续费
-  - 花旗银行 Citibank
-  - 高端信用卡
+  - 其他小银行信用卡
   relme: {}
-  last_post_title: Citi Strata Elite 信用卡【2026.2 更新：100k 开卡奖励 即将过期】
-  last_post_description: Citi Strata Elite℠ Card 信用卡简介 【2026.2 更新】现在正常的官网链接已经变成只有75k
-  last_post_date: "2026-02-05T15:00:15Z"
-  last_post_link: https://www.uscreditcardguide.com/citi-strata-elite/
+  last_post_title: Robinhood Platinum 信用卡：新卡发布，$695年费的Coupon Book
+  last_post_description: Robinhood Platinum Card 信用卡 特色 吃饭（包括堂食和外卖）5%返现，up to $50k一年；在他们家的travel
+  last_post_date: "2026-03-05T15:00:43Z"
+  last_post_link: https://www.uscreditcardguide.com/robinhood-platinum/
   last_post_categories:
-  - Citibank 信用卡
-  - ThankYou Points (TYP) 点数
-  - 无境外手续费
-  - 花旗银行 Citibank
-  - 高端信用卡
+  - 其他小银行信用卡
   last_post_language: ""
-  last_post_guid: bf2cad91c5f78d08ba29eae6bf99fca5
+  last_post_guid: ec89e6c296392fa1564462350a1b2aaf
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

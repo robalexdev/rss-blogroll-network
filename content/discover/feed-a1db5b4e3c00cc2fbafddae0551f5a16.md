@@ -18,23 +18,19 @@ params:
   categories: []
   relme: {}
   last_post_title: /reader
-  last_post_description: |-
+  last_post_description: |+
     These are the most recent articles from the blogs/sites I follow. Updated daily.
 
 
 
 
-      The AI Vampire simonwillison.net
+      Doing your own research sucks sometimes tracydurnell.com
 
 
-      Em dash simonwillison.net
+      Anti-patterns: things to avoid simonwillison.net
 
 
-      Deep Blue simonwillison.net
-
-
-      Step aside,
-  last_post_date: "2026-02-16T00:00:00Z"
+  last_post_date: "2026-03-05T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""

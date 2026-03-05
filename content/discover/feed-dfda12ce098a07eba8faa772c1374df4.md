@@ -1,6 +1,6 @@
 ---
 title: The website of Alice Bartlett
-date: "2026-02-05T19:51:46Z"
+date: "2026-03-01T16:03:31Z"
 description: "The home of typing by Alice Bartlett \U0001F469\U0001F3FB‍\U0001F4BB"
 params:
   feedlink: https://alicebartlett.co.uk/feed.xml
@@ -20,16 +20,16 @@ params:
   categories:
   - weaknotes
   relme: {}
-  last_post_title: 'Week 387: Very simple game'
-  last_post_description: Good evening. A lot of rain eh? I don’t recommend being the
-    only parent in a partnership with an intact pelvis and scapula, but the patient
-    is slowly recovering. Thanks to Denise I lost an
-  last_post_date: "2026-02-01T00:00:00Z"
-  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-387
+  last_post_title: 'Week 391: Proper tea'
+  last_post_description: So warm on Wednesday! 18 degrees! March is here! The mugs
+    at Rightmove all say “I’m a proper-tea expert” which is quite a good pun. The
+    frogs have spawned. I’m disappointed to have not caught
+  last_post_date: "2026-03-01T00:00:00Z"
+  last_post_link: https://alicebartlett.co.uk/blog/weaknotes-391
   last_post_categories:
   - weaknotes
   last_post_language: ""
-  last_post_guid: 30ac972c94067030687ef2045bae2c17
+  last_post_guid: 7b5bd25761eb911db6b7a0426ab0088b
   score_criteria:
     cats: 0
     description: 3

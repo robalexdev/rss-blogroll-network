@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Neuroscience as intuition
-  last_post_description: A reflection 1.5 years after my first blog post
-  last_post_date: "2025-05-01T09:00:49Z"
-  last_post_link: https://www.dissonances.blog/p/neuroscience-as-intuition
+  last_post_title: Invariance, equivariance, and factorization
+  last_post_description: Strategies for scene understanding
+  last_post_date: "2026-02-28T23:53:37Z"
+  last_post_link: https://www.dissonances.blog/p/invariance-equivariance-and-factorization
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e08fbbbe502fe3c3f88db1833c4db41c
+  last_post_guid: 57409a8d872ddd93b5571ba91e110056
   score_criteria:
     cats: 0
     description: 3

@@ -20,16 +20,16 @@ params:
   categories:
   - zijperpost
   relme: {}
-  last_post_title: Bibliothecaris
-  last_post_description: Ik ben, weliswaar slechts daadwerkelijk in m’n jeugd, tot
-    ik niet meer gratis met een ov-studentenkaart van A’dam naar Den Helder kon reizen
-    niet meer officieel, evengoed altijd een
-  last_post_date: "2026-01-25T21:38:08Z"
-  last_post_link: https://zijperspace.nl/bibliothecaris/
+  last_post_title: Economie
+  last_post_description: Ik heb mezelf overleefd, denk ik ondertussen. Hoewel burn-out,
+    maar zonder wroeging jegens wie dan ook (naast lastige klanten aan de bar). Ik
+    was een beproeving, denk ik tegelijkertijd over mijn
+  last_post_date: "2026-02-16T19:22:10Z"
+  last_post_link: https://zijperspace.nl/economie/
   last_post_categories:
   - zijperpost
   last_post_language: ""
-  last_post_guid: 67340bfa854d4a4a5033e726270a284c
+  last_post_guid: a6e2df13f92b29cddb0dc4bbccbf62b4
   score_criteria:
     cats: 0
     description: 3

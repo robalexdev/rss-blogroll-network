@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-01-27T00:14:33Z"
+date: "2026-03-05T12:16:56Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -35,17 +35,18 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories:
   - package-managers
-  - satire
+  - reference
   relme: {}
-  last_post_title: Introducing Package Chaos Monkey
-  last_post_description: Resilience engineering for your software supply chain.
-  last_post_date: "2026-01-26T08:00:00Z"
-  last_post_link: https://nesbitt.io/2026/01/26/introducing-package-chaos-monkey.html
+  last_post_title: Package Manager Magic Files
+  last_post_description: 'Package manager magic files and where to find them: .npmrc,
+    MANIFEST.in, Directory.Packages.props, .pnpmfile.cjs, and more.'
+  last_post_date: "2026-03-05T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/03/05/package-manager-magic-files.html
   last_post_categories:
   - package-managers
-  - satire
+  - reference
   last_post_language: ""
-  last_post_guid: ff5994d8872ccd5ac28c7e3fc38d6263
+  last_post_guid: 7faf32ceb442958cdb21be477e9f0b2d
   score_criteria:
     cats: 0
     description: 3

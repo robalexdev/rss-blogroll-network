@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-02-13T18:39:15-08:00"
+date: "2026-03-04T12:07:21-08:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml
@@ -22,13 +22,13 @@ params:
   - metal
   - poetry
   relme: {}
-  last_post_title: The happiest memories
+  last_post_title: Wed, mar-4. On game design, and other worldly affairs.
   last_post_description: ""
-  last_post_date: "2026-02-13T18:39:15-08:00"
-  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/02/the-happiest-memories.html
+  last_post_date: "2026-03-04T12:07:21-08:00"
+  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/03/wed-mar-4-on-game-design-and-other.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fea57fc44521e87de46f7fdf971dd654
+  last_post_guid: 4cf51af933aa18cd79bca938ba80b246
   score_criteria:
     cats: 5
     description: 3

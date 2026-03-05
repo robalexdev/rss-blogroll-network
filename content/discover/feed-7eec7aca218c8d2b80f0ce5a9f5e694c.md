@@ -1,6 +1,6 @@
 ---
 title: Tom Clancy
-date: "2026-01-18T00:00:00-05:00"
+date: "2026-02-12T00:00:00-05:00"
 description: ""
 params:
   feedlink: https://tomclancy.info/feeds/all.atom.xml
@@ -20,25 +20,26 @@ params:
   recommender: []
   categories:
   - Posts
-  - bash
-  - gifs
-  - whynot
+  - bluelink
+  - docker
+  - typescript
+  - vibecoding
   relme: {}
-  last_post_title: Automate MP4 to GIF
+  last_post_title: The Effect of Gas on a Marriage
   last_post_description: |-
-    Converting MP4 to GIF
-    Do you, like me, often find yourself in internet arguments for no good reason
-    and want to reply with a dead-perfect response GIF so everyone will clap and
-    love you even more but
-  last_post_date: "2026-01-18T00:00:00-05:00"
-  last_post_link: https://tomclancy.info/automate-mp4-to-gif.html
+    I was well into my 30s before I realized my mother’s aphorism on relationships,
+    “Fits find each other” had a positive meaning. Because my mother and her sister
+    both taught in special education
+  last_post_date: "2026-02-12T00:00:00-05:00"
+  last_post_link: https://tomclancy.info/marriage-and-gas.html
   last_post_categories:
   - Posts
-  - bash
-  - gifs
-  - whynot
+  - bluelink
+  - docker
+  - typescript
+  - vibecoding
   last_post_language: ""
-  last_post_guid: 3b63644e2c8374e6dbc2fd58ba6e20fc
+  last_post_guid: 64efd33da2a112c6d94d32b20d165623
   score_criteria:
     cats: 0
     description: 0

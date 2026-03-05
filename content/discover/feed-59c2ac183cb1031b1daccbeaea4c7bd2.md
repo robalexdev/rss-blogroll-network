@@ -19,23 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Data Sources
-  - National Weather Service
-  - snow
-  - weather
+  - Data Underload
+  - unemployment
+  - work
   relme: {}
-  last_post_title: Gridded snowfall data
-  last_post_description: 'The National Weather Service has current and historical
-    snowfall data in various file…Tags: National Weather Service, snow, weather'
-  last_post_date: "2026-01-26T21:09:11Z"
-  last_post_link: https://flowingdata.com/2026/01/26/gridded-snowfall-data/
+  last_post_title: Unemployment reasons, by age and education
+  last_post_description: 'Why Americans are unemployed varies across groups. Tags:
+    unemployment, work'
+  last_post_date: "2026-03-05T14:07:49Z"
+  last_post_link: https://flowingdata.com/2026/03/05/unemployment-reasons/
   last_post_categories:
-  - Data Sources
-  - National Weather Service
-  - snow
-  - weather
+  - Data Underload
+  - unemployment
+  - work
   last_post_language: ""
-  last_post_guid: 8761b06ffde77d7387304c3507d2ffcf
+  last_post_guid: 1c077624d74d2aa7e42da9b4a9fc5eaf
   score_criteria:
     cats: 0
     description: 3

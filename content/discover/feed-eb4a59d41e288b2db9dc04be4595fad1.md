@@ -25,35 +25,33 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - News
-  - electric vans
-  - volkswagen
   relme: {}
-  last_post_title: New VW Sportline is the 7-passenger electric GTi the ID.Buzz SHOULD
-    have been
-  last_post_description: VW have finally built the van enthusiasts have been asking
-    — and it’s not the ID.Buzz. Meet the new e-Transporter Sportline, the retro-tastic
-    people-mover with GTI-inspired styling, a proper
-  last_post_date: "2026-02-05T22:50:07Z"
-  last_post_link: https://electrek.co/2026/02/05/new-vw-sportline-is-the-7-passenger-electric-gti-the-id-buzz-should-have-been/
+  last_post_title: Lexus announces 2026 ES EV prices start at under $50,000
+  last_post_description: |-
+    The luxury electric sedan is more affordable than expected. Lexus revealed that the 2026 ES EV will be cheaper than the hybrid version, with prices starting under $50,000.
+
+
+
+     more…
+  last_post_date: "2026-03-05T17:42:58Z"
+  last_post_link: https://electrek.co/2026/03/05/lexus-announces-2026-es-ev-prices-start-at-under-50000/
   last_post_categories:
   - News
-  - electric vans
-  - volkswagen
   last_post_language: ""
-  last_post_guid: 84f45ab00c2dee530166a035609309be
+  last_post_guid: a295636bd2398652e2ba09c6702e98e0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

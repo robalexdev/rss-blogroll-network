@@ -39,6 +39,9 @@ params:
   - title: Lacking Rhoticity
     description: ""
     id: 2edd1d4870356aa6c4fb1d058023c392
+  - title: The Go Blog
+    description: ""
+    id: 2f02a05b9ae2b09d6abb5aa771db4a68
   - title: Evan Jones - Software Engineer | Computer Scientist
     description: I'm a software engineer at Datadog in New York. I previously worked
       at Bluecore, fixed interesting bugs at Twitter, and taught a database class
@@ -51,12 +54,22 @@ params:
     description: Addy Osmani is a Software Engineer at Google working on Google Cloud
       and Gemini.
     id: 3b2679e334f268455c31539dab7133ea
+  - title: eieio.games
+    description: A blog about weird games, internet social experiments, and other
+      stupid things I make my computer do.
+    id: 3c1144a1c8eb7deba937b1340eed70b0
   - title: Allison Kaptur
     description: ""
     id: 4277f44909cfffd36d5899cb1ed17376
   - title: the morning paper
     description: a random walk through Computer Science research, by Adrian Colyer
     id: 4743ba4839f82cb17b517f942a36ae4f
+  - title: APNIC Blog
+    description: Regional Internet Registry for the Asia Pacific
+    id: 4d7cb1f21b204e4b816050911d2de3d7
+  - title: wingolog
+    description: A mostly dorky weblog by Andy Wingo
+    id: 5637e1c3917f4c6ecedf374b393808f5
   - title: Auth0 Blog
     description: Company Updates, Technology Articles from Auth0
     id: 57f38eb3c32795e22b046473279cd2c5
@@ -83,6 +96,9 @@ params:
   - title: trivago tech blog
     description: Insights, experiences and learnings from trivago's tech teams.
     id: 6e0a2599987214658e500dcd8b4d3891
+  - title: Henrik Warne's blog
+    description: Thoughts on programming...
+    id: 72730b17818e7573fa10fd168f05b99d
   - title: Marek's idea of the day
     description: ""
     id: 7355ee2ebb19333badfb0396a88dba9d
@@ -98,6 +114,9 @@ params:
   - title: Rob Allen
     description: Pragmatism in today's world
     id: 81006d875e5df9f71a7743e81a2f70d8
+  - title: Jeffrey Zeldman Presents
+    description: Keeping you informed since 1995
+    id: 8100eb0c9a2e4d5c8f9d0ea80edc98ee
   - title: daniel.haxx.se
     description: curl, open source and networking
     id: 8124fcbf635fbd84bfb08145027257d4
@@ -108,6 +127,9 @@ params:
   - title: Life plus Linux
     description: All about Machine Learning, Linux, Android, Web and of course Life
     id: 888b8f1bb72be0ac495606db73f30be4
+  - title: Drew DeVault's blog
+    description: Recent content in Blogs on Drew DeVault's blog
+    id: 89dfddb8b11e5d1fc5ea6a87dbc9a071
   - title: Mary Rose Cook
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech
       lead at Airtable in San Francisco.
@@ -120,6 +142,11 @@ params:
       software. This is where we''ll write about our craft and our collective experience
       building and running the world''s most vibrant'
     id: 91817b8c91b3b13a6a287d547a4c4f30
+  - title: Daniel Lemire's blog
+    description: Daniel Lemire is a software performance expert. He ranks among the
+      top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's
+      top 1000 most followed developers.
+    id: 9487b279f12cdd7441659355be4e3176
   - title: Monica Dinculescu
     description: ""
     id: 9ed58f466104e74b8e5f8d7a32d0335c
@@ -144,6 +171,9 @@ params:
   - title: Preshing on Programming
     description: ""
     id: ade01429892bf7ea64a65f9c892cc573
+  - title: Susam Pal
+    description: Susam's Feed
+    id: af3999e5f61f20491fd5303115baa243
   - title: Writing - rachelbythebay
     description: ""
     id: b5969cc0079ee78195cf1f321ed8bde0
@@ -166,6 +196,10 @@ params:
   - title: Deep Thoughts by Raymond Hettinger
     description: Ruminations on Computers, Programming and Life
     id: be07e291fec893b0358c44392f8c4759
+  - title: swizec.com RSS Feed
+    description: Swizec shares software engineering lessons from production in his
+      books, articles, talks, and workshops
+    id: c3dbfdb6b54055b6a2aa26de21229509
   - title: Real Python
     description: ""
     id: cab00c5269781af0520037cb759572f0

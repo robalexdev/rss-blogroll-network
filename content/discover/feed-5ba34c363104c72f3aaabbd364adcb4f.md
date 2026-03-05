@@ -25,33 +25,37 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - BBC Micro
-  - Raspberry Pi 500+
+  - Cornell University
+  - RP2040
+  - Raspberry Pi Pico
+  - Raspberry Pi RP2040
   relme: {}
-  last_post_title: 'Beige is back: Remembering the BBC Micro with Raspberry Pi 500+'
+  last_post_title: Cornell students’ 2025 Pico projects
   last_post_description: |-
-    In a polite nod to four decades of British computing, we modified a Raspberry Pi 500+ to look like a BBC Micro.
-    The post Beige is back: Remembering the BBC Micro with Raspberry Pi 500+ appeared first
-  last_post_date: "2026-02-05T10:53:23Z"
-  last_post_link: https://www.raspberrypi.com/news/beige-is-back-remembering-the-bbc-micro-with-raspberry-pi-500-plus/
+    Professor V. Hunter Adams shows us what Cornell University's latest Electrical and Computer Engineering cohort built with Pico.
+    The post Cornell students’ 2025 Pico projects appeared first on
+  last_post_date: "2026-03-04T12:42:39Z"
+  last_post_link: https://www.raspberrypi.com/news/cornell-students-2025-pico-projects/
   last_post_categories:
-  - BBC Micro
-  - Raspberry Pi 500+
+  - Cornell University
+  - RP2040
+  - Raspberry Pi Pico
+  - Raspberry Pi RP2040
   last_post_language: ""
-  last_post_guid: ecd5ca3e07574af614848135e428cc97
+  last_post_guid: 9fe139c5a794d613efb0c79b3177646d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

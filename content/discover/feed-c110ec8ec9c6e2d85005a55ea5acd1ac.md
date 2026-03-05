@@ -20,31 +20,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ephemeral Scrapbook
+  - AI
+  - Anthropic
+  - ChatGPT
+  - OpenAI
+  - claudeAI
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — 2026.01.18
-  last_post_description: "First edition of 2026. I’m officially part of the Secret
-    Internet Curators or SIC. This newsletter is the fruit of my hard labour as a
-    member of the SIC team.\U0001F575\U0001F3FB‍♂️"
-  last_post_date: "2026-01-18T14:22:35Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-01-18/
+  last_post_title: Hitting Pause on ChatGPT
+  last_post_description: Always have an exit strategy at hand; you never know.
+  last_post_date: "2026-03-01T20:20:22Z"
+  last_post_link: https://numericcitizen.me/hitting-pause-on-chatgpt/
   last_post_categories:
-  - Ephemeral Scrapbook
+  - AI
+  - Anthropic
+  - ChatGPT
+  - OpenAI
+  - claudeAI
   last_post_language: ""
-  last_post_guid: 017430cffdfe932a4298db1088792816
+  last_post_guid: eb6b8487d802058d4b210068e2053464
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

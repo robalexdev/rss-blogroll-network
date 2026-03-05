@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Pushing the smallest possible change to production
+  last_post_title: I used a local LLM to analyze my journal entries
   last_post_description: ""
-  last_post_date: "2026-01-17T11:51:32Z"
-  last_post_link: https://ankursethi.com/blog/smallest-possible-change/
+  last_post_date: "2026-02-13T16:04:58Z"
+  last_post_link: https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b0acce8e55dd5cb4e7e7134b5f9537e9
+  last_post_guid: 4ff2d6e92f92aedeaa0f6434c258332e
   score_criteria:
     cats: 0
     description: 3

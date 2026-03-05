@@ -31,18 +31,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 20260205的胡言乱语
+  last_post_title: 我关注的项目这周更新了什么-20260225
   last_post_description: |-
     简介
-    欢迎关注我的频道，不时发送垃圾消息
+    每周五更新，所有的更新也会发送到我的频道
     https://t.me/bboyapp
-    或者关注我的 twitter
-    https://twitter.com/bboysoulcn
-  last_post_date: "2026-02-05T16:37:00Z"
-  last_post_link: https://www.bboy.app/2026/02/05/20260205%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
+    规则
+
+    pre
+  last_post_date: "2026-02-25T10:18:00Z"
+  last_post_link: https://www.bboy.app/2026/02/25/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260225/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 947e59819e1c28da411c4eb1c714908b
+  last_post_guid: fdf4b5848f57550650cfb60d1228cb16
   score_criteria:
     cats: 0
     description: 3

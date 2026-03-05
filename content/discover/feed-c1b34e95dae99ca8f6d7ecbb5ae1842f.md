@@ -20,16 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Access the Design-a-Study Workshop & become an advance reader for
-    my book!
-  last_post_description: I hosted another Developer Science Office Hour last month,
-    and for some reason, decided I needed to blackmail myself into making it a brief
-    (very brief!) workshop on research design. In general I am
-  last_post_date: "2025-12-04T20:06:34Z"
-  last_post_link: https://www.fightforthehuman.com/access-the-design-a-study-workshop-become-an-advance-reader-for-my-book/
+  last_post_title: How Not to Measure the ROI from AI in your Software Organization
+  last_post_description: 'You did your best, but it happened: somebody told you that
+    you are the one who has to measure the ROI of AI on the developers in your software
+    organization. I like to imagine that when this is your'
+  last_post_date: "2026-02-12T19:53:45Z"
+  last_post_link: https://www.fightforthehuman.com/how-not-to-measure-the-roi-from-ai-in-your-software-organization/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8018e9523040c7458e5765e7b1fd51e9
+  last_post_guid: 6179731e69604522990385e111930dc2
   score_criteria:
     cats: 0
     description: 3

@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Streaming Digits of Pi
-  last_post_description: This page describes a strategy for calculating pi one digit
-    at a time using a streaming algorithm that does not require floating point arithmetic.
-    Although there are more exotic strategies for
-  last_post_date: "2025-11-16T19:30:00Z"
-  last_post_link: https://swharden.com/blog/2025-11-16-streaming-pi-digits/
+  last_post_title: Merge External Repositories into GitHub Contribution Graph
+  last_post_description: I enjoy gazing at the green squares in my GitHub Contribution
+    Graph as a way to visualize the ebbs and flows of my development efforts over
+    the last decade. However, I’ve been working more in
+  last_post_date: "2026-03-05T01:15:00Z"
+  last_post_link: https://swharden.com/blog/2026-03-05-git-activity-merge/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0f02e962058220ea2f02a6dea2d41845
+  last_post_guid: 8537b409ecf63f09d58bc850ad012fd1
   score_criteria:
     cats: 0
     description: 3

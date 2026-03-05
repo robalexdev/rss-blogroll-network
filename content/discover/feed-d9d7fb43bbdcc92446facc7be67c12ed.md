@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-02-01T01:02:46Z"
+date: "2026-03-05T09:14:29Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,26 +18,22 @@ params:
   recommended: []
   recommender: []
   categories:
+  - buffering
   - devops
-  - linux
-  - md
-  - mdadm
-  - raid
-  - soft-raid
+  - nginx
+  - sse
   relme: {}
-  last_post_title: 记一次软 RAID1 坏盘的恢复过程
-  last_post_description: 记一次软 RAID1 坏盘的恢复过程¶ 背景¶ 最近遇到一个运维场景，两个 SATA 盘组了一个 RAID1，Linux
-  last_post_date: "2026-01-21T00:00:00Z"
-  last_post_link: https://jia.je/devops/2026/01/21/soft-raid-recovery/
+  last_post_title: Nginx 反代导致 SSE 延迟变高的问题与解决方法
+  last_post_description: 最近有同学遇到这么一个问题：在 Nginx 反代后面搭了一个使用 SSE（Server Sent
+  last_post_date: "2026-03-05T00:00:00Z"
+  last_post_link: https://jia.je/devops/2026/03/05/nginx-sse-buffering/
   last_post_categories:
+  - buffering
   - devops
-  - linux
-  - md
-  - mdadm
-  - raid
-  - soft-raid
+  - nginx
+  - sse
   last_post_language: ""
-  last_post_guid: 12d5b7c3d59841e401dee743b157a1ed
+  last_post_guid: 5d66bc82787e2b06ebdf65637f829485
   score_criteria:
     cats: 0
     description: 3

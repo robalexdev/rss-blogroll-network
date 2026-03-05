@@ -28,16 +28,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Building a Stronger Ecosystem
-  last_post_description: The events in the WordPress community since September have
-    shown how fragile the ecosystem can be. In A Stronger Foundation for the Ecosystem,
-    I laid out my core ideas of how we could move forward
-  last_post_date: "2025-06-07T10:47:05Z"
-  last_post_link: https://journal.rmccue.io/488/building-a-stronger-ecosystem/
+  last_post_title: The Next Era of FAIR
+  last_post_description: Ever since we first created the FAIR Project, it was designed
+    to be a project following the best practices for open source projects. We’ve had
+    the privilege of working with the Linux Foundation to
+  last_post_date: "2026-02-26T19:52:56Z"
+  last_post_link: https://journal.rmccue.io/492/the-next-era-of-fair/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 85e3583dd03cc37bae655c66c173de0d
+  last_post_guid: 987093a44f1dcde4e412b98481e97f4a
   score_criteria:
     cats: 0
     description: 3

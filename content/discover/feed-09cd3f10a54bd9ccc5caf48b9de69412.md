@@ -22,6 +22,9 @@ params:
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
+  - title: "\U0001F4AC John Philpin - Blogroll"
+    description: ""
+    id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: kiko.io's /Blogroll
     description: ""
     id: 5a699fe07181a17251b91d178b9b8f40

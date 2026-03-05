@@ -21,15 +21,16 @@ params:
   categories: []
   relme:
     https://www.david-amador.com/: true
-  last_post_title: Short Story - A Dog and a Backpack
-  last_post_description: John looked up, the sun was high and bright, scorching really,
-    if not for the contrast of the snow and ice covering the ground in every visible
-    direction as he looked down again. Up on the top of the
-  last_post_date: "2026-01-11T13:50:00Z"
-  last_post_link: https://www.david-amador.com/2026/01/short-story-a-dog-and-a-backpack/
+  last_post_title: Short Story - A Girl and a Railgun
+  last_post_description: |-
+    02h23m
+    She woke up …
+    Sweating… the ceiling fan was dead and the neon from the noodle shop across the alley kept the room in a constant state of artificial twilight, it was exhausting. Rane was
+  last_post_date: "2026-02-23T11:47:00Z"
+  last_post_link: https://www.david-amador.com/2026/02/short-story-a-girl-and-a-railgun/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86cc47234d16e962d74956f6347496d7
+  last_post_guid: 8f7a5c843de1a1f908fafea3b388d606
   score_criteria:
     cats: 0
     description: 3

@@ -21,16 +21,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: A Sketch of Isle Royale
-  last_post_description: It’s been a summer full of side projects here. Which is a
-    very good sign — I used to do many, many side projects, but for the last couple
-    of years, poor health has left me with reduced energy,
-  last_post_date: "2025-07-28T21:46:51Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2025/07/28/a-sketch-of-isle-royale/
+  last_post_title: 'Financial Transparency: Print Sales Edition'
+  last_post_description: I make most of my living doing freelance mapping and GIS
+    (and it’s been very busy lately, hence why I’ve not written here in months). Clients
+    come to me and ask me to deliver specific things, and
+  last_post_date: "2026-02-03T01:43:27Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/02/02/financial-transparency-print-sales-edition/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: ee0b34efe2424f1629b2730902e48b8c
+  last_post_guid: 9c39a1e6c96fab53c96368949f91a4c7
   score_criteria:
     cats: 0
     description: 0

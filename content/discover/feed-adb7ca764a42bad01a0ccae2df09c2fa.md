@@ -20,10 +20,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The state of Linux music players in 2026
+  last_post_title: Rising carbon dioxide levels now detected in human blood
   last_post_description: Comments
-  last_post_date: "2026-01-27T07:26:36Z"
-  last_post_link: https://crescentro.se/posts/linux-music-players-2026/
+  last_post_date: "2026-03-05T14:34:45Z"
+  last_post_link: https://phys.org/news/2026-02-carbon-dioxide-human-blood.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

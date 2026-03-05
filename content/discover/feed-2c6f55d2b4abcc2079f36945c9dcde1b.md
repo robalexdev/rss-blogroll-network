@@ -25,16 +25,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: A mental math heuristic to convert between Fahrenheit and Celsius
-  last_post_description: |-
-    I sometimes have to convert between Fahrenheit and Celsius. The actual formula is hard to do in my head, but someone once told me a useful approximation:
-
-    To convert from Celsius to Fahrenheit,
-  last_post_date: "2026-01-17T00:00:00Z"
-  last_post_link: https://evanhahn.com/fahrenheit-celsius-heuristic/
+  last_post_title: The two kinds of error
+  last_post_description: 'In short: in my mind, errors are divided into two categories.
+    Expected errors (think “user entered invalid data”), which are part of normal
+    operation, aren’t the developer’s fault, and should'
+  last_post_date: "2026-03-01T00:00:00Z"
+  last_post_link: https://evanhahn.com/the-two-kinds-of-error/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7e29436f3944bc281aeec4b03f8bb440
+  last_post_guid: 7be6772dbc0235ad9be80cb91d614081
   score_criteria:
     cats: 0
     description: 3

@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 继续买长电
-  last_post_description: 最近又买了些长电，拿腾讯换的。年初大概10%腾讯，现在卖了8%换了长电，还有2%。
-  last_post_date: "2026-01-23T08:54:17Z"
-  last_post_link: https://retire50blog.wang/invest/%e7%bb%a7%e7%bb%ad%e4%b9%b0%e9%95%bf%e7%94%b5.html
+  last_post_title: 门掉了
+  last_post_description: 前几天发生了一件稀罕事，小朋友轻轻一掌把门拍掉了。
+  last_post_date: "2026-03-05T03:15:03Z"
+  last_post_link: https://retire50blog.wang/invest/%e9%97%a8%e6%8e%89%e4%ba%86.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 33abd6372aa91763d9cfcf48d120c756
+  last_post_guid: 84ebacf64673866a5ef7a2835d72086b
   score_criteria:
     cats: 0
     description: 0

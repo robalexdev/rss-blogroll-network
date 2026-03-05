@@ -19,14 +19,15 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: Darwin El Naturalista
-  last_post_description: In His Own Words (Episode 5)
-  last_post_date: "2026-01-22T08:10:47Z"
-  last_post_link: https://aethermug.com/posts/darwin-el-naturalista?utm_source=rss&utm_campaign=rss
+  relme:
+    https://aethermug.com/: true
+  last_post_title: 'AeMug Chat #1 / Aether Mug Evolves'
+  last_post_description: I'll be posting less often and more in depth
+  last_post_date: "2026-02-26T02:38:16Z"
+  last_post_link: https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ce0c741fc9c386a725280b0f139599b5
+  last_post_guid: 510757f654b4a983a52c6f63b2930bba
   score_criteria:
     cats: 0
     description: 3
@@ -36,10 +37,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

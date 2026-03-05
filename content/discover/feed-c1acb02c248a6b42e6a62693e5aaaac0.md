@@ -20,13 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI浪潮下我的些许变化
-  last_post_description: 今天 (本文写自1月15日晚)
-  last_post_date: "2026-01-18T16:20:13+08:00"
-  last_post_link: https://demochen.com/posts/20260115/
+  last_post_title: 闪灵让我恐怖的是什么？
+  last_post_description: !!binary |
+    5pio5pma5Y2K5aSc5YyF5Zy65Yi36Zeq54G177yM5pyJ5pyf5b6F77yM5Lmf57Sn5byg77
+    yM6K6w5b2V5LiA5LiL5oOz5rOV44CCCuW/mOS6huS7gOS5iOaXtuWAme+8jOesrOS4gOas
+    oeeci+Wug++8jOaIkeiusOS9j+eahOWFqOaYr+eUu+mdoue6p+eahOWIuua/gO+8mueUte
+    air+mXqOS4gOW8gO+8jOihgOWDj+S4jeimgemSseS4gOagt+a2jOWHuuY=
+  last_post_date: "2026-02-07T11:11:05+08:00"
+  last_post_link: https://demochen.com/posts/20260207/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24e3a52096689d2130620c6d59069246
+  last_post_guid: 9e1a75e49a189acf3c4242cede5773e7
   score_criteria:
     cats: 0
     description: 3

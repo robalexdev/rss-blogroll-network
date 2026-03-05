@@ -1,6 +1,6 @@
 ---
 title: Daniel De Laney
-date: "2026-02-06T20:07:19Z"
+date: "2026-03-05T00:01:57Z"
 description: Daniel De Laney is a product manager with a design focus.
 params:
   feedlink: https://danieldelaney.net/feed.xml

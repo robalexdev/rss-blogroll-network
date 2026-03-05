@@ -1,6 +1,6 @@
 ---
 title: Los Techies
-date: "2026-02-11T00:16:54Z"
+date: "2026-02-23T00:25:29Z"
 description: ""
 params:
   feedlink: https://feeds.feedburner.com/LosTechies

@@ -14,30 +14,32 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - '#123'
   relme: {}
-  last_post_title: The Archeology of Art
-  last_post_description: When you’re working on a project you are like an archeologist,
-    uncovering what is already there. You might not be able to see the entirety of
-    the artefact you’re digging up, and you’re probably
-  last_post_date: "2026-02-08T00:00:00Z"
-  last_post_link: https://jetwilliams.com/blog/archeology/
-  last_post_categories: []
+  last_post_title: paris, claude code, price of certainty, luca maxim, important message
+  last_post_description: "Jet’s Journal - #123\nMarch 3, 2026\n \n\nHi All!\nHere’s
+    is your weekly roundup of what I’m pondering and exploring of course. Feel free
+    to forward along to a friend if you think they might enjoy"
+  last_post_date: "2026-03-02T00:00:00Z"
+  last_post_link: https://jetwilliams.com/news/123/
+  last_post_categories:
+  - '#123'
   last_post_language: ""
-  last_post_guid: 715dfa02808fa7edb8886d373010fd5a
+  last_post_guid: 3b12ea1ce0226e2bdebc6fb9ecc92a07
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

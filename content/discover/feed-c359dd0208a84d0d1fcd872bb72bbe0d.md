@@ -1,6 +1,6 @@
 ---
 title: Victor Blomqvist's blog
-date: "2026-01-21T00:00:00Z"
+date: "2026-02-10T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.viblo.se/feed.atom
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI Made Hobby Coding Expensive Again
+  last_post_title: Are AI SQL yet?
   last_post_description: ""
-  last_post_date: "2026-01-21T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/ai-hobbycoding/
+  last_post_date: "2026-02-10T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/are-ai-sql-yet/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bac74a85a9da682bee71c5685331ff90
+  last_post_guid: bd106af576f8183aa08dbf4b793cc980
   score_criteria:
     cats: 0
     description: 0

@@ -24,13 +24,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Jackhammering Into the Sewer
-  last_post_description: A look through the Epstein files.
-  last_post_date: "2026-02-04T00:37:13Z"
-  last_post_link: https://sarahkendzior.substack.com/p/jackhammering-into-the-sewer
+  last_post_title: Epstein and the Shadow World
+  last_post_description: Your questions answered on Epstein, AI, my career, and other
+    dystopian matters.
+  last_post_date: "2026-02-27T18:48:00Z"
+  last_post_link: https://sarahkendzior.substack.com/p/epstein-and-the-shadow-world
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3290d990f6bfedc4dbc3d38a6402a3a2
+  last_post_guid: 6964871d1eef6f37b64537d439e765e9
   score_criteria:
     cats: 0
     description: 3

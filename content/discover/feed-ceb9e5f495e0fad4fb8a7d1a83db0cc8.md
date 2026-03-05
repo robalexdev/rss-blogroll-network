@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: May The Odds Be Ever In Your Favor
-  last_post_description: A Guide To Sizing Macro Trades
-  last_post_date: "2026-01-19T08:46:05Z"
-  last_post_link: https://themacrocompass.substack.com/p/may-the-odds-be-ever-in-your-favor-576
+  last_post_title: All You Need To Know About Warsh
+  last_post_description: Let's Look Into The New Fed Chair
+  last_post_date: "2026-02-10T10:04:53Z"
+  last_post_link: https://themacrocompass.substack.com/p/all-you-need-to-know-about-warsh
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86ce7eaa94a95a1219385700b220ee60
+  last_post_guid: 43f4304bd0cc6fa54c9fab553760ace8
   score_criteria:
     cats: 0
     description: 3

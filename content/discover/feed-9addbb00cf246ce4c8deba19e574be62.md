@@ -8,14 +8,76 @@ params:
   feedid: 9addbb00cf246ce4c8deba19e574be62
   websites:
     https://weblog.anniegreens.lol/: true
+    https://weblog.anniegreens.lol/2023/01/fun-times-on-the-internet: false
+    https://weblog.anniegreens.lol/2023/01/pizza-sauce: false
+    https://weblog.anniegreens.lol/2023/03/hello-drafts: false
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: false
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: false
     https://weblog.anniegreens.lol/2023/09/works-in-progress: false
+    https://weblog.anniegreens.lol/2023/11/a-couple-domain-goodies: false
+    https://weblog.anniegreens.lol/2023/11/brain-space: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-i: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-ii: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iii: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iv: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-v: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vi: false
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vii: false
+    https://weblog.anniegreens.lol/2023/11/icons-fonts-svgsoh-my: false
+    https://weblog.anniegreens.lol/2023/11/is-your-blog-for-you-or-other-people: false
+    https://weblog.anniegreens.lol/2023/11/my-first-go-at-nablopomo: false
     https://weblog.anniegreens.lol/2023/11/my-switchboard: false
+    https://weblog.anniegreens.lol/2023/11/nablopomo-2023-wrap-up: false
+    https://weblog.anniegreens.lol/2023/11/responsive-images-with-flickr-sources-a-walkthrough: false
+    https://weblog.anniegreens.lol/2023/11/types-of-blog-posts: false
+    https://weblog.anniegreens.lol/2023/11/weblog-themes-for-humanity: false
+    https://weblog.anniegreens.lol/2023/11/weblog-themes-for-real: false
     https://weblog.anniegreens.lol/2023/11/weblog-todos-tada: false
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-i: false
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-ii: false
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-iii: false
     https://weblog.anniegreens.lol/2023/12/an-organized-head: false
+    https://weblog.anniegreens.lol/2023/12/diving-into-indiewebify-me-microformats-a-series: false
+    https://weblog.anniegreens.lol/2023/12/launching-with-styles: false
+    https://weblog.anniegreens.lol/2024/01/a-love-letter-to-omg-lol: false
+    https://weblog.anniegreens.lol/2024/02/adding-discuss-on-mastodon-web-component: false
+    https://weblog.anniegreens.lol/2024/02/diving-into-indiewebify-me-microformats-part-viii: false
+    https://weblog.anniegreens.lol/2024/02/small-web-small-life: false
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: false
+    https://weblog.anniegreens.lol/2024/04/owning-your-content-is-owning-yourself: false
+    https://weblog.anniegreens.lol/2024/04/weblog-publishing-workflow: false
+    https://weblog.anniegreens.lol/2024/04/weblogpomo-2024-and-tiny-pages: false
+    https://weblog.anniegreens.lol/2024/04/what-ive-learned-about-css-color-scheme-and-system-color: false
+    https://weblog.anniegreens.lol/2024/05/a-community-of-concerns: false
+    https://weblog.anniegreens.lol/2024/05/a-roadmap-and-changelog: false
+    https://weblog.anniegreens.lol/2024/05/a-slashes-page-for-my-slash-pages: false
+    https://weblog.anniegreens.lol/2024/05/adding-a-shareopenly-link-to-weblog-posts: false
+    https://weblog.anniegreens.lol/2024/05/ai-for-dummies: false
+    https://weblog.anniegreens.lol/2024/05/an-education-if-you-can-pay-for-it: false
+    https://weblog.anniegreens.lol/2024/05/blogroll-spin-5: false
+    https://weblog.anniegreens.lol/2024/05/blogroll-spin-6: false
+    https://weblog.anniegreens.lol/2024/05/brag-for-yourself: false
+    https://weblog.anniegreens.lol/2024/05/companies-are-made-of-and-for-people: false
+    https://weblog.anniegreens.lol/2024/05/css-color-modules-and-changes-part-i: false
+    https://weblog.anniegreens.lol/2024/05/favorites-part-i: false
+    https://weblog.anniegreens.lol/2024/05/favorites-part-ii: false
+    https://weblog.anniegreens.lol/2024/05/favorites-part-iii: false
+    https://weblog.anniegreens.lol/2024/05/fresh-fruit-cobbler: false
+    https://weblog.anniegreens.lol/2024/05/guilt-and-loathing-in-portland: false
+    https://weblog.anniegreens.lol/2024/05/how-often-do-you-redesign-your-site: false
+    https://weblog.anniegreens.lol/2024/05/improvements-to-citations-with-footnotes-and-endnotes: false
+    https://weblog.anniegreens.lol/2024/05/it-is-my-blog-and-i-will-cry-if-i-want-to: false
+    https://weblog.anniegreens.lol/2024/05/my-computer-origin-story: false
+    https://weblog.anniegreens.lol/2024/05/this-is-not-the-post-you-are-looking-for: false
+    https://weblog.anniegreens.lol/2024/05/tiny-pages-and-not-so-tiny-pages: false
+    https://weblog.anniegreens.lol/2024/05/weblog-top-posts: false
+    https://weblog.anniegreens.lol/2024/05/what-are-tiny-pages: false
+    https://weblog.anniegreens.lol/2024/05/working-for-a-living-when-your-living-isnt-working-part-iv: false
+    https://weblog.anniegreens.lol/2024/05/xoxo-2024-the-first-time-with-longing: false
     https://weblog.anniegreens.lol/2024/07/blogroll-spin-8: false
+    https://weblog.anniegreens.lol/2024/08/bookmarks-1: false
+    https://weblog.anniegreens.lol/2024/08/diving-into-indiewebify-me-microformats-part-ix: false
+    https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required: false
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: false
     https://weblog.anniegreens.lol/accessibility: false
     https://weblog.anniegreens.lol/accessibility-statement: false
@@ -58,6 +120,7 @@ params:
     https://weblog.anniegreens.lol/styleguide/replaced-elements: false
     https://weblog.anniegreens.lol/styleguide/tokens: false
     https://weblog.anniegreens.lol/switchboard: false
+    https://weblog.anniegreens.lol/tag/nablopomo: false
     https://weblog.anniegreens.lol/tags: false
     https://weblog.anniegreens.lol/todos: false
     https://weblog.anniegreens.lol/webrings: false
@@ -88,12 +151,75 @@ params:
     https://proven.lol/843a6f: true
     https://proven.lol/e60691: true
     https://weblog.anniegreens.lol/: true
+    https://weblog.anniegreens.lol/2023/01/fun-times-on-the-internet: true
+    https://weblog.anniegreens.lol/2023/01/pizza-sauce: true
+    https://weblog.anniegreens.lol/2023/03/hello-drafts: true
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: true
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: true
     https://weblog.anniegreens.lol/2023/09/works-in-progress: true
+    https://weblog.anniegreens.lol/2023/11/a-couple-domain-goodies: true
+    https://weblog.anniegreens.lol/2023/11/brain-space: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-i: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-ii: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iii: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-iv: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-v: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vi: true
+    https://weblog.anniegreens.lol/2023/11/diving-into-indiewebify-me-microformats-part-vii: true
+    https://weblog.anniegreens.lol/2023/11/icons-fonts-svgsoh-my: true
+    https://weblog.anniegreens.lol/2023/11/is-your-blog-for-you-or-other-people: true
+    https://weblog.anniegreens.lol/2023/11/my-first-go-at-nablopomo: true
     https://weblog.anniegreens.lol/2023/11/my-switchboard: true
+    https://weblog.anniegreens.lol/2023/11/nablopomo-2023-wrap-up: true
+    https://weblog.anniegreens.lol/2023/11/responsive-images-with-flickr-sources-a-walkthrough: true
+    https://weblog.anniegreens.lol/2023/11/types-of-blog-posts: true
+    https://weblog.anniegreens.lol/2023/11/weblog-themes-for-humanity: true
+    https://weblog.anniegreens.lol/2023/11/weblog-themes-for-real: true
+    https://weblog.anniegreens.lol/2023/11/weblog-todos-tada: true
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-i: true
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-ii: true
+    https://weblog.anniegreens.lol/2023/11/working-for-a-living-when-your-living-isnt-working-part-iii: true
     https://weblog.anniegreens.lol/2023/12/an-organized-head: true
+    https://weblog.anniegreens.lol/2023/12/diving-into-indiewebify-me-microformats-a-series: true
+    https://weblog.anniegreens.lol/2023/12/launching-with-styles: true
+    https://weblog.anniegreens.lol/2024/01/a-love-letter-to-omg-lol: true
+    https://weblog.anniegreens.lol/2024/02/adding-discuss-on-mastodon-web-component: true
+    https://weblog.anniegreens.lol/2024/02/diving-into-indiewebify-me-microformats-part-viii: true
+    https://weblog.anniegreens.lol/2024/02/small-web-small-life: true
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: true
+    https://weblog.anniegreens.lol/2024/04/owning-your-content-is-owning-yourself: true
+    https://weblog.anniegreens.lol/2024/04/weblog-publishing-workflow: true
+    https://weblog.anniegreens.lol/2024/04/weblogpomo-2024-and-tiny-pages: true
+    https://weblog.anniegreens.lol/2024/04/what-ive-learned-about-css-color-scheme-and-system-color: true
+    https://weblog.anniegreens.lol/2024/05/a-community-of-concerns: true
+    https://weblog.anniegreens.lol/2024/05/a-roadmap-and-changelog: true
+    https://weblog.anniegreens.lol/2024/05/a-slashes-page-for-my-slash-pages: true
+    https://weblog.anniegreens.lol/2024/05/adding-a-shareopenly-link-to-weblog-posts: true
+    https://weblog.anniegreens.lol/2024/05/ai-for-dummies: true
+    https://weblog.anniegreens.lol/2024/05/an-education-if-you-can-pay-for-it: true
+    https://weblog.anniegreens.lol/2024/05/blogroll-spin-5: true
+    https://weblog.anniegreens.lol/2024/05/blogroll-spin-6: true
+    https://weblog.anniegreens.lol/2024/05/brag-for-yourself: true
+    https://weblog.anniegreens.lol/2024/05/companies-are-made-of-and-for-people: true
+    https://weblog.anniegreens.lol/2024/05/css-color-modules-and-changes-part-i: true
+    https://weblog.anniegreens.lol/2024/05/favorites-part-i: true
+    https://weblog.anniegreens.lol/2024/05/favorites-part-ii: true
+    https://weblog.anniegreens.lol/2024/05/favorites-part-iii: true
+    https://weblog.anniegreens.lol/2024/05/fresh-fruit-cobbler: true
+    https://weblog.anniegreens.lol/2024/05/guilt-and-loathing-in-portland: true
+    https://weblog.anniegreens.lol/2024/05/how-often-do-you-redesign-your-site: true
+    https://weblog.anniegreens.lol/2024/05/improvements-to-citations-with-footnotes-and-endnotes: true
+    https://weblog.anniegreens.lol/2024/05/it-is-my-blog-and-i-will-cry-if-i-want-to: true
+    https://weblog.anniegreens.lol/2024/05/my-computer-origin-story: true
+    https://weblog.anniegreens.lol/2024/05/this-is-not-the-post-you-are-looking-for: true
+    https://weblog.anniegreens.lol/2024/05/tiny-pages-and-not-so-tiny-pages: true
+    https://weblog.anniegreens.lol/2024/05/weblog-top-posts: true
+    https://weblog.anniegreens.lol/2024/05/what-are-tiny-pages: true
+    https://weblog.anniegreens.lol/2024/05/working-for-a-living-when-your-living-isnt-working-part-iv: true
+    https://weblog.anniegreens.lol/2024/05/xoxo-2024-the-first-time-with-longing: true
+    https://weblog.anniegreens.lol/2024/08/bookmarks-1: true
+    https://weblog.anniegreens.lol/2024/08/diving-into-indiewebify-me-microformats-part-ix: true
+    https://weblog.anniegreens.lol/2024/08/weekly-links-or-as-required: true
     https://weblog.anniegreens.lol/2024/11/brussels-sprouts-casserole: true
     https://weblog.anniegreens.lol/accessibility: true
     https://weblog.anniegreens.lol/accessibility-statement: true
@@ -136,8 +262,11 @@ params:
     https://weblog.anniegreens.lol/styleguide/replaced-elements: true
     https://weblog.anniegreens.lol/styleguide/tokens: true
     https://weblog.anniegreens.lol/switchboard: true
+    https://weblog.anniegreens.lol/tag/nablopomo: true
     https://weblog.anniegreens.lol/tags: true
     https://weblog.anniegreens.lol/todos: true
+    https://weblog.anniegreens.lol/weblog-posting-month-2024: true
+    https://weblog.anniegreens.lol/weblog-posting-month-2024/participators: true
     https://weblog.anniegreens.lol/webrings: true
     https://weblog.anniegreens.lol/why: true
     https://weblog.anniegreens.lol/wips: true

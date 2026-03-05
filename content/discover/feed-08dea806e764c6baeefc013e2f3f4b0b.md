@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-02-14T16:02:48-08:00"
+date: "2026-03-05T05:47:41-08:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -2436,6 +2436,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true

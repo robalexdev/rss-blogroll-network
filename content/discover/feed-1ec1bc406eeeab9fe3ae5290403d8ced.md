@@ -10,6 +10,9 @@ params:
     https://tromey.com/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Planet Classpath
     description: ""
     id: efbed856305ac396c3f4926d6773bb9e

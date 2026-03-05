@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-02-04T22:24:51+08:00"
+date: "2026-03-04T20:02:42+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -45,35 +45,44 @@ params:
   - https://blog.hslzz.cn/rss2.xml
   - https://rpvvn.github.io/atom.xml
   - https://rpvvn.github.io/rss.xml
+  - https://coseroom.com/feed.xml
+  - https://geektutu.com/feed.xml
   - https://www.hansjack.com/feed
+  - https://www.hansjack.com/feed/atom/
   recommender: []
   categories:
-  - 总结
+  - AI
+  - LLM
+  - 使用体验
+  - 模型部署
   relme:
     https://github.com/Mabbs: true
     https://mabbs.github.io/: true
     https://mayx.eu.org/: true
-  last_post_title: 年终总结
-  last_post_description: 0 error(s), ∞ warning(s)
-  last_post_date: "2026-01-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/01/01/summary.html
+  last_post_title: 近期LLM的部署与应用经历(3)
+  last_post_description: 用更多的方式探索AI！
+  last_post_date: "2026-03-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/03/01/llm3.html
   last_post_categories:
-  - 总结
+  - AI
+  - LLM
+  - 使用体验
+  - 模型部署
   last_post_language: ""
-  last_post_guid: 4d7dccc72f749257de07d5f144913fba
+  last_post_guid: f8c806ebcc172e1ce58fc35b512a093a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 33
+  score: 35
   ispodcast: false
   isnoarchive: false
   innetwork: true

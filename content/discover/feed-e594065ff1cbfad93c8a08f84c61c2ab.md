@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2025-12-01T07:07:45Z"
+date: "2026-02-10T08:25:44Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -25,18 +25,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 与代码
-  - 知乎
+  - 思想汇报
+  - 说过的话
   relme: {}
-  last_post_title: "AI编程工具2025\U0001F916"
-  last_post_description: 谢邀，研发工作的变化，我觉得最大的变化就是从重「实现」，变为重「设计」了，从「写代码」，变为「教AI写代码」，而且要把它当一个有「实习生
-  last_post_date: "2025-12-01T07:07:45Z"
-  last_post_link: https://102no.com/2025/12/01/ai-bian-cheng-2025/
+  last_post_title: 第三十四年立春
+  last_post_description: !!binary |
+    56uL5pil5Lmf5omN5rKh6L+H5Y675Yeg5aSp77yM5bCx6L+Y5pyJ5Yeg5aSp6KaB6L+H5b
+    m05LqG77yM5LuK5bm06L+H5bm05q+U5Lul5b6A6YO95pma5LiA5Lqb77yM55yL5LqG55yL
+    5aSp5rCU6aKE5oql77yM6L+H5bm05pe25YCZ5LiN5aSq5Ya377yM5biM5pyb5LiN6KaB5L
+    iL6Zuo77yM5LiN6KaB6Zuo5aS56Zuq77yM6Zuq5Y+v5Lul5LiL5LiA5Lo=
+  last_post_date: "2026-02-10T08:25:44Z"
+  last_post_link: https://102no.com/2026/02/10/34th-lichun/
   last_post_categories:
-  - 与代码
-  - 知乎
+  - 思想汇报
+  - 说过的话
   last_post_language: ""
-  last_post_guid: 2af13b6cdee6d45d77cbd84713bc6499
+  last_post_guid: 37d76e04e72fcebe43d72db41b3f9e81
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2026-01-15T20:56:01Z"
+date: "2026-02-24T20:08:07Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: GCRA vs leaky / token buckets
+  last_post_title: nsnotifyd-2.4 released
   last_post_description: ""
-  last_post_date: "2026-01-15T20:56:01Z"
-  last_post_link: https://dotat.at/@/2026-01-15-gcra.html
+  last_post_date: "2026-02-24T20:08:07Z"
+  last_post_link: https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c555a5f6d5e6446c759394bc10b7ccc
+  last_post_guid: 5ee276bdbf3a9c0926fa839cfe8ca4b9
   score_criteria:
     cats: 0
     description: 0

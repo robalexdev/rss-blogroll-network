@@ -24,13 +24,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Cryptocrash
-  last_post_description: Notes on an interesting day
-  last_post_date: "2026-02-05T23:46:31Z"
-  last_post_link: https://paulkrugman.substack.com/p/crypotocrash
+  last_post_title: ONE BILLION DOLLARS
+  last_post_description: Attacking Iran versus defending Ukraine
+  last_post_date: "2026-03-05T13:53:23Z"
+  last_post_link: https://paulkrugman.substack.com/p/one-billion-dollars
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 15189549604badf9f9b70f1e24b15aa5
+  last_post_guid: 23c8b6dd06e20968a39a6f546407e389
   score_criteria:
     cats: 0
     description: 3

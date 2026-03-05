@@ -15,28 +15,57 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Canada
-  - European Union
-  - Marco Rubio
-  - Open Forum
-  - Transatlantic
-  - diversity
-  - free trade
+  - 82nd Airborne
+  - Cold War
+  - Commander-in-Chief
+  - Congress
+  - Democrats
+  - Government Shutdown
+  - Iran
+  - Military Affairs
+  - National Emergency
+  - National Security
+  - Opposition
+  - Rand Paul
+  - Richard Nixon
+  - The Presidency
+  - US Constitution
+  - US Politics
+  - Vietnam
+  - Vietnam War
+  - War Powers
+  - shutdown
+  - suicide
   relme: {}
-  last_post_title: The Odd State of the Transatlantic Alliance
-  last_post_description: Roles have been reversed.
-  last_post_date: "2026-02-15T15:21:11Z"
-  last_post_link: https://outsidethebeltway.com/the-odd-state-of-the-transatlantic-alliance/
+  last_post_title: War Powers Catch-22
+  last_post_description: They have a right to do anything we can't stop them from
+    doing.
+  last_post_date: "2026-03-05T12:51:52Z"
+  last_post_link: https://outsidethebeltway.com/war-powers-catch-22/
   last_post_categories:
-  - Canada
-  - European Union
-  - Marco Rubio
-  - Open Forum
-  - Transatlantic
-  - diversity
-  - free trade
+  - 82nd Airborne
+  - Cold War
+  - Commander-in-Chief
+  - Congress
+  - Democrats
+  - Government Shutdown
+  - Iran
+  - Military Affairs
+  - National Emergency
+  - National Security
+  - Opposition
+  - Rand Paul
+  - Richard Nixon
+  - The Presidency
+  - US Constitution
+  - US Politics
+  - Vietnam
+  - Vietnam War
+  - War Powers
+  - shutdown
+  - suicide
   last_post_language: ""
-  last_post_guid: 4fdd5193cc72ec7ce938e2f98932b4ae
+  last_post_guid: d6e24fbbb1dcd57fa753ce1d7887a489
   score_criteria:
     cats: 0
     description: 3

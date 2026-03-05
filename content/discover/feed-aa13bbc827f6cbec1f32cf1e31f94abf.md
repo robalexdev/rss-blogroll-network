@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-02-15T11:12:38-05:00"
+date: "2026-03-05T12:38:08-05:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Do You Feel About Assigning a Rating/ Grade to Action Figures?
-    Necessary, Meaningless, Arbitrary? Let me know!
+  last_post_title: 'Figure Review: Pirate Hunter Zoro from One Piece FigLife! by Bandai
+    Namco/ Banpresto'
   last_post_description: ""
-  last_post_date: "2026-02-12T17:00:00-05:00"
-  last_post_link: https://www.actionfigurebarbecue.com/2026/02/how-do-you-feel-about-assigning-rating.html
+  last_post_date: "2026-03-05T12:38:08-05:00"
+  last_post_link: https://www.actionfigurebarbecue.com/2026/03/figure-review-pirate-hunter-zoro-from.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b6ee95becd87767780239fec31a880d3
+  last_post_guid: db29233b207c20db14afdc4f9f9c4c93
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Agile Otter Blog
-date: "2026-02-13T01:34:28-08:00"
+date: "2026-03-04T16:08:03-08:00"
 description: Tim Ottinger's thoughts on Software Development.
 params:
   feedlink: https://agileotter.blogspot.com/feeds/posts/default
@@ -454,7 +454,7 @@ params:
     https://www.blogger.com/profile/10773578598860454277: true
   last_post_title: Believing In People
   last_post_description: ""
-  last_post_date: "2026-02-13T01:34:28-08:00"
+  last_post_date: "2026-02-16T08:23:00-08:00"
   last_post_link: https://agileotter.blogspot.com/2026/02/believing-in-people.html
   last_post_categories: []
   last_post_language: ""

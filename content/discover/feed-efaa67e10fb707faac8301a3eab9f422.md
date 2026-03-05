@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 用 AI Vibe Coding 第一次开发 App 的经验
+  last_post_title: Tradovate 平台使用指南：从入门到精通
   last_post_description: |-
     引言
-    我是一个拥有 10 年开发经验的 Web 开发工程师，主要专注于后端开发。虽然我也曾两次尝试学习开发
-  last_post_date: "2026-01-22T14:07:41+08:00"
-  last_post_link: https://blog.forecho.com/my-first-app-with-ai-vibe-coding.html
+    如果你正在参加 Topstep 考试，或者打算尝试海外期货交易，那么 Tradovate 是一个你绕不开的交易平台。Tradovate 不仅是 Topstep
+  last_post_date: "2026-02-04T20:55:00+08:00"
+  last_post_link: https://blog.forecho.com/tradovate-guide.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a78983f15bcdd13fcd726d33447f6de9
+  last_post_guid: 79f804a4d0407de0480b7ec81dbade1b
   score_criteria:
     cats: 0
     description: 3

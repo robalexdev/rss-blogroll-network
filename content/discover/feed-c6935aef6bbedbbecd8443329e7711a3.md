@@ -16,30 +16,48 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Claude skills
-  - skills
+  - Ai联盟营销
+  - ChatGPT
+  - Media Buy
+  - Niche站赚钱
   - 写作工作流
-  - 小红书工作流
-  - 微信写作工作流
+  - 国外Lead
+  - 实操案例
+  - 未分类
   - 杂谈
+  - 社交媒体推广
+  - 社交营销
+  - 自媒体工具
+  - 苏格拉底
+  - 被动收入
+  - 赚美金案例
   - 项目实操案例
   relme: {}
-  last_post_title: 我用14个AI Skills员工，建了一条会自我进化的写作流水线
+  last_post_title: 写作 Skills 迭代记：苏格拉底提问法让我的 AI 输出好了 10 倍
   last_post_description: |-
-    哪怕老富只是一个业余的自媒体，写作这些琐碎活儿也有一堆。整理素材、查资料、试不同的文章结构、找配图、...
-    我用14个AI
-  last_post_date: "2026-01-28T10:54:41Z"
-  last_post_link: https://www.fuyuzhe.com/ai-skills-writer-workflow.html
+    给 AI 下指令，要先让它思考，再让它写作
+    写作 Skills 迭代记：苏格拉底提问法让我的 AI 输出好了 10 倍最先出现在富裕者联盟国外网赚博客。
+  last_post_date: "2026-03-03T07:04:45Z"
+  last_post_link: https://www.fuyuzhe.com/skiils-su-ge-la-di-tishi.html
   last_post_categories:
-  - Claude skills
-  - skills
+  - Ai联盟营销
+  - ChatGPT
+  - Media Buy
+  - Niche站赚钱
   - 写作工作流
-  - 小红书工作流
-  - 微信写作工作流
+  - 国外Lead
+  - 实操案例
+  - 未分类
   - 杂谈
+  - 社交媒体推广
+  - 社交营销
+  - 自媒体工具
+  - 苏格拉底
+  - 被动收入
+  - 赚美金案例
   - 项目实操案例
   last_post_language: ""
-  last_post_guid: 3782a30b5c037c801e16771ba8feb096
+  last_post_guid: 512feb6009efad083bc16ac129ecff53
   score_criteria:
     cats: 0
     description: 3

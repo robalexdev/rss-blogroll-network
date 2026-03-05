@@ -31,46 +31,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Artificial Intelligence (AI)
-  - For Developers
-  - For Writers
-  - Full-Site Editing
-  - Playground
-  - Updates
-  - Weekend Edition
+  - News
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Navigation Overlays, WordPress 7.0, Interactivity API Helper,
-    AI Skills, and  #WCAsia — Weekend Edition #355'
-  last_post_description: "Hi, there \U0001F44B this week, you’ll find a great mix
-    of new releases, new tools, new plugins and events. Outside the WordPress sphere
-    I signed up for the FediForum Un-Workshop, an event bringing"
-  last_post_date: "2026-01-31T03:50:00Z"
-  last_post_link: https://gutenbergtimes.com/navigation-overlays-wordpress-7-0-interactivity-api-helper-ai-skills-and-wcasia-weekend-edition-355/
+  last_post_title: Schedule of WordCamp Asia Birgit’s selected sessions
+  last_post_description: This year’s WordCamp Asia just published the first version
+    of its schedule with sessions and workshops. Contributor Day also has a few workshop
+    slots. If you registered for Contributor Day you are
+  last_post_date: "2026-03-02T12:01:31Z"
+  last_post_link: https://gutenbergtimes.com/schedule-of-wordcamp-asia-birgits-selected-sessions/
   last_post_categories:
-  - Artificial Intelligence (AI)
-  - For Developers
-  - For Writers
-  - Full-Site Editing
-  - Playground
-  - Updates
-  - Weekend Edition
+  - News
   last_post_language: ""
-  last_post_guid: c46910f940856443cd58390db55aaa41
+  last_post_guid: c248692e246c7b65e4c7c716e21b7973
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

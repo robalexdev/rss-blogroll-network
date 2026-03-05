@@ -1,6 +1,6 @@
 ---
 title: The Adventurers' Guild
-date: "2026-02-16T08:17:23+11:00"
+date: "2026-03-06T04:55:05+11:00"
 description: ""
 params:
   feedlink: https://advgamer.blogspot.com/atom.xml
@@ -188,6 +188,7 @@ params:
   - 'King''s Quest IV: The Perils of Rosella'
   - 'King''s Quest V: Absence Makes the Heart Go Yonder'
   - 'King''s Quest VI: Heir Today Gone Tomorrow'
+  - 'King''s Quest VII: The Princeless Bride'
   - 'King''s Quest: Quest For the Crown'
   - Knight Orc
   - 'Kronolog: The Nazi Paradox'
@@ -405,16 +406,16 @@ params:
   - detective stories
   - limbeck
   relme: {}
-  last_post_title: 'Game 167: The Clue! (1994) - Introduction'
+  last_post_title: The Clue! - They Stole a Hundred Bucks
   last_post_description: ""
-  last_post_date: "2026-02-13T23:00:00+11:00"
-  last_post_link: https://advgamer.blogspot.com/2026/02/game-167-clue-1994-introduction.html
+  last_post_date: "2026-03-04T00:00:00+11:00"
+  last_post_link: https://advgamer.blogspot.com/2026/03/the-clue-they-stole-hundred-bucks.html
   last_post_categories:
   - "1994"
   - MenhirMike
   - The Clue
   last_post_language: ""
-  last_post_guid: bf662b89b4bedf7920e0333728382ed9
+  last_post_guid: 4a50d4d88045d338fe09897bb38a1f5d
   score_criteria:
     cats: 5
     description: 0

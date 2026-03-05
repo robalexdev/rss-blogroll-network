@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2025-12-26T04:19:06Z"
+date: "2026-02-28T16:22:15Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -21,15 +21,15 @@ params:
   categories: []
   relme:
     https://sneak.berlin/: true
-  last_post_title: Build / Buy / Bot
-  last_post_description: In the old days when you ran your startup, you had to focus
-    on your core objectives very closely in the early days. You had a limited number
-    of innovation tokens, and beyond that you had to focus on
-  last_post_date: "2025-12-26T04:18:36Z"
-  last_post_link: https://sneak.berlin/20251224/build-buy-bot/
+  last_post_title: Megalopolis
+  last_post_description: I’ve been in Bangkok the last two weeks, and three times
+    in the last six months. The city is incredible. It’s well over 10 million people,
+    approaching that of Istanbul, which is the largest city
+  last_post_date: "2026-02-28T16:21:54Z"
+  last_post_link: https://sneak.berlin/20260227/megalopolis/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d63dcfc4fa32a23dbbc07d01bbd4cc27
+  last_post_guid: a15d0806a3a7feaf9303deca12ada38a
   score_criteria:
     cats: 0
     description: 3

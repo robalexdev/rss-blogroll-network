@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Dropouts, December 31, 1971
-  last_post_description: Click the image to see a larger version. Howard Post is best
-    known for his work on various Harvey Comics publications, most notably Casper
-    the…
-  last_post_date: "2025-12-31T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/the-dropouts-1
+  last_post_title: Unexpected Comic Strip Creators - Charles Addams
+  last_post_description: Charles Addams is best known as the creator of The Addams
+    Family, a group of strange, monster movie adjacent characters who first appeared
+    as…
+  last_post_date: "2026-02-20T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/charles-addams
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c08f720fe4c62768f9e537e61f0b08e0
+  last_post_guid: a5177d1939bf54a4249ab8971765881c
   score_criteria:
     cats: 0
     description: 3

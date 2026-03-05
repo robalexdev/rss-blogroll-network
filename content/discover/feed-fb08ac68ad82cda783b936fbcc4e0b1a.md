@@ -26,26 +26,35 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - 33 pomeranians
-  - Animals
-  - Life's Rich Pageant
-  - Westminster Dog Show
-  - dogs
+  - Capital
+  - Interviews
+  - NBA
+  - defector at your service
+  - giannis antetokounmpo
+  - landlords
+  - milwaukee bucks
+  - new york city
+  - tenants
   relme: {}
-  last_post_title: My Life Among The 33 Pomeranians (And A Few Thousand Other Dogs)
-  last_post_description: NEW YORK — In the days before the Westminster Dog Show, I
-    could not stop saying the phrase "33 Pomeranians." There’s a pleasing rhythm to
-    the phrase—better spelled out as thirty-three
-  last_post_date: "2026-02-05T18:00:32Z"
-  last_post_link: https://defector.com/my-life-among-the-33-pomeranians-and-a-few-thousand-other-dogs
+  last_post_title: An Interview With A Tenant Who Doesn’t Have Heat In Giannis Antetokounmpo’s
+    Building
+  last_post_description: A tenant in a Brooklyn building owned by Milwaukee Bucks
+    star Giannis Antetokounmpo has not had heat in his apartment since Feb. 23, when
+    a blizzard dropped over 19 inches of snow on New York City.
+  last_post_date: "2026-03-05T17:41:32Z"
+  last_post_link: https://defector.com/an-interview-with-an-unhappy-tenant-in-giannis-antetokounmpo-building
   last_post_categories:
-  - 33 pomeranians
-  - Animals
-  - Life's Rich Pageant
-  - Westminster Dog Show
-  - dogs
+  - Capital
+  - Interviews
+  - NBA
+  - defector at your service
+  - giannis antetokounmpo
+  - landlords
+  - milwaukee bucks
+  - new york city
+  - tenants
   last_post_language: ""
-  last_post_guid: 6124fbc4eae240719efd87da737c0b51
+  last_post_guid: 100e78cecdefe72264bda118de758c13
   score_criteria:
     cats: 0
     description: 3

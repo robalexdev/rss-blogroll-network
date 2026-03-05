@@ -1,13 +1,13 @@
 ---
 title: Alliot's blog
-date: "2025-12-28T11:00:00Z"
+date: "2026-02-08T02:55:55Z"
 description: Maker & Developer
 params:
   feedlink: https://www.iots.vip/atom.xml
   feedtype: atom
   feedid: 0dff00e7b32a274f10e6efe3d2c59afe
   websites:
-    https://www.iots.vip/: false
+    https://www.iots.vip/: true
   blogrolls: []
   in_blogrolls:
   - title: FreshRSS
@@ -22,34 +22,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Android
-  - 折腾
-  - 硬件
-  relme: {}
-  last_post_title: 2025年底的安卓搞机备忘录
-  last_post_description: 在云服务高度绑定、系统权限不断收紧、厂商深度定制愈发封闭的今天，解锁 Bootloader、Root、刷 Rom
-    这些曾经被视为 Android
-  last_post_date: "2025-12-28T11:00:00Z"
-  last_post_link: https://www.iots.vip/post/android-root-hide-detection-2025
+  - Docker
+  - Linux
+  relme:
+    https://github.com/AlliotTech: true
+    https://www.iots.vip/: true
+  last_post_title: Docker 代理配置机制与作用域
+  last_post_description: Docker 中的代理配置存在多个作用层级, 不同配置方式影响的范围完全不同。本文基于官方文档，对各层代理机制梳理说明,
+    以便区分。
+  last_post_date: "2026-02-08T02:55:55Z"
+  last_post_link: https://www.iots.vip/post/docker-proxy-mechanism
   last_post_categories:
-  - Android
-  - 折腾
-  - 硬件
+  - Docker
+  - Linux
   last_post_language: ""
-  last_post_guid: 49cef93967e2270fa7e33e704887d081
+  last_post_guid: cc796887069abc2831bfbb6a4ee21471
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

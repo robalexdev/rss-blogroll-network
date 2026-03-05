@@ -25,15 +25,15 @@ params:
     https://remysharp.com/: true
     https://remysharp.com/books: true
     https://remysharp.com/speaking/: true
-  last_post_title: JS Bin down in 2026
-  last_post_description: January 27th I got an email notification saying that JS Bin
-    had become unavailable. Then next day real life human beings were asking what's
-    going on. By 11pm on the 30th the last of the issues were
-  last_post_date: "2026-02-02T00:00:00Z"
-  last_post_link: https://remysharp.com/2026/02/02/js-bin-down-in-2026
+  last_post_title: 'git recent: what branch did I work on?'
+  last_post_description: |-
+    Mega short blog post, mostly for me to remember, but also might be useful to you.
+    In a project I'll often work on and move around different branches throughout the day, and as the years wear on it's
+  last_post_date: "2026-02-12T00:00:00Z"
+  last_post_link: https://remysharp.com/2026/02/12/git-recent
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c1f089d7e5d8c655b4df02ccc8533369
+  last_post_guid: 4f5db779a498be8d10ec78cff1b50e44
   score_criteria:
     cats: 0
     description: 3

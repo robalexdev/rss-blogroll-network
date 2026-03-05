@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Road to Excel
-  last_post_description: Chris Rea’s “The Road to Hell” is one of my favourite albums
-    of all time. You probably remember the title track, but the rest of the album
-    is fantastic - great tunes, great production, and some
-  last_post_date: "2025-12-23T15:40:00Z"
-  last_post_link: https://dylanbeattie.net/2025/12/23/the-road-to-excel.html
+  last_post_title: State of the Browser 2026
+  last_post_description: Walking into London’s Barbican Estate is like stepping into
+    a parallel timeline, a concrete vision of what the 1960s thought the future would
+    look like. When people first encounter the term
+  last_post_date: "2026-02-28T18:21:00Z"
+  last_post_link: https://dylanbeattie.net/2026/02/28/state-of-the-browser-2026.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9e00bd2298b267ada7c9ccc7be3d3a32
+  last_post_guid: 1d6374c88abff02690a0f1cfd6f8f738
   score_criteria:
     cats: 0
     description: 3

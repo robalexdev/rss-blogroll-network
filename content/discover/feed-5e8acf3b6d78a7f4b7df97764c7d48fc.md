@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Interfaces and traits in C
-  last_post_description: Implemented with structs and function pointers.
-  last_post_date: "2026-01-22T12:00:00Z"
-  last_post_link: https://antonz.org/interfaces-in-c/
+  last_post_title: Allocators from C to Zig
+  last_post_description: Exploring allocator design in C, C3, Hare, Odin, Rust, and
+    Zig.
+  last_post_date: "2026-02-12T12:00:00Z"
+  last_post_link: https://antonz.org/allocators/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5301e6b7e5dbc23521c349bf3b4bfd05
+  last_post_guid: fa1c88bb0439a8ff24e2965b9eac95cb
   score_criteria:
     cats: 0
     description: 3

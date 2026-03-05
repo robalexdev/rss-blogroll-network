@@ -32,15 +32,18 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: Recapping My 5 Year Old Studio Monitors
-  last_post_description: A few weeks ago, I started hearing a slight crackle at the
-    loudest parts of whenever sound was playing through my PreSonus Eris E3.5 speakers.
-    It was very faint, but quite annoying, especially when
-  last_post_date: "2026-01-26T17:05:00-06:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/
+  last_post_title: I built a pint-sized Macintosh
+  last_post_description: |-
+    To kick off MARCHintosh, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:
+
+
+
+    This is not my own doing—I just assembled the parts to run Matt Evans' Pico Micro Mac firmware on a
+  last_post_date: "2026-03-02T15:15:00-06:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 98e0d73fd869c14f4b0ac2e14868885a
+  last_post_guid: 2aa4db021f6ffdd2620ee9451577ec39
   score_criteria:
     cats: 0
     description: 3

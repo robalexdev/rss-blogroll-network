@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://max-inden.de/: true
-  last_post_title: netstack.fm - Modern networking in Firefox with Max Inden
+  last_post_title: Talk "Intro to WebTransport - the next WebSocket?!" @FOSDEM
   last_post_description: |-
-    I joined Glen on the netstack.fm podcast to talk about modern networking in Firefox.
-    We discussed Mozilla ’s work on Firefox’s QUIC and HTTP/3 stack — improving UDP I/O, congestion control, and
-  last_post_date: "2025-10-29T00:00:00Z"
-  last_post_link: https://max-inden.de/post/modern-networking-in-firefox-podcast/
+    I gave a talk on the upcoming WebTransport protocol in the Browser Devroom at FOSDEM 2026.
+    WebTransport is an upcoming protocol (standardized by the IETF) and Web API (standardized by the W3C) for
+  last_post_date: "2026-01-31T00:00:00Z"
+  last_post_link: https://max-inden.de/post/intro-to-webtransport-the-next-websocket/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e46f02bc249b9705bb29bddb400b252
+  last_post_guid: 502f0ba6ebe2082d27572a186f084a64
   score_criteria:
     cats: 0
     description: 3

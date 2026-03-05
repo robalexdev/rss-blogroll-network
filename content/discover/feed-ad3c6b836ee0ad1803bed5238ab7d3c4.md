@@ -1,8 +1,9 @@
 ---
 title: Scott C. Richmond
 date: "1970-01-01T00:00:00Z"
-description: I am associate professor of cinema and digital media and Director of
-  the  at the . I teach, write, and work at the intersection of the history of computing,...
+description: |-
+  Hi, I'm Scott.
+  I am associate professor of cinema and digital media and Director of the Centre for Culture and Technology at the University of Toronto. I te...
 params:
   feedlink: https://scottrichmond.me/feed/?type=rss
   feedtype: rss

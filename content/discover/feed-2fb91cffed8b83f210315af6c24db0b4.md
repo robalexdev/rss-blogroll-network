@@ -23,15 +23,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Education is not one-size-fits-all for the latest CTO Fellows
-  last_post_description: Today, I’m honored to introduce you to the latest cohort
-    of Now Go Build CTO Fellows. Individuals from around the world with diverse backgrounds
-    (engineering, the humanities, business, healthcare,
-  last_post_date: "2026-01-27T06:00:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2026/01/education-cohort.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: A chat with Byron Cook on automated reasoning and trust in AI systems
+  last_post_description: Over the past decade, Byron's team has proven the correctness
+    of our authorization engine, our cryptographic implementations, and our virtualization
+    layer. Now they're taking those same techniques
+  last_post_date: "2026-02-17T06:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/02/a-chat-with-byron-cook-on-automated-reasoning-and-trust-in-ai-systems.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5fc6726cf0b729174a05120542e303c7
+  last_post_guid: d4e669988cf430628255b5d1dad0bfe8
   score_criteria:
     cats: 0
     description: 3

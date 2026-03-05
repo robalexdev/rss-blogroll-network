@@ -1,6 +1,6 @@
 ---
 title: Laura's Miscellaneous Musings
-date: "2026-02-15T17:27:31-08:00"
+date: "2026-03-05T09:26:17-08:00"
 description: ""
 params:
   feedlink: https://laurasmiscmusings.blogspot.com/atom.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Tonight''s Movie: My Man Godfrey (1936) at the Egyptian Theatre'
+  last_post_title: More Titles Announced for the 2026 TCM Classic Film Festival
   last_post_description: ""
-  last_post_date: "2026-02-15T16:00:00-08:00"
-  last_post_link: https://laurasmiscmusings.blogspot.com/2026/01/tonights-movie-my-man-godfrey-1936-at.html
+  last_post_date: "2026-03-03T23:34:13-08:00"
+  last_post_link: https://laurasmiscmusings.blogspot.com/2026/02/more-titles-announced-for-2026-tcm.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa0cac04e1f9b188b1e549455ba00852
+  last_post_guid: 976e6faaad9a392d615b83fa8b670ef0
   score_criteria:
     cats: 0
     description: 0

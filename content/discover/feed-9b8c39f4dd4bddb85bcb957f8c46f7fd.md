@@ -18,18 +18,18 @@ params:
   categories:
   - 醫療健康
   relme: {}
-  last_post_title: 心臟突然撐不住？急性心衰竭與葉克膜你一定要知道的事
+  last_post_title: 亞洲人風險較高的黃斑部病變！PCV治療與保養5大關鍵一次看
   last_post_description: !!binary |
-    5oCl5oCn5b+D6Ief6KGw56ut5bi46KaL55qE5Y6f5Zug5pyJ5bm+5YCL44CC5pyA5bi46K
-    aL55qE5piv5oCl5oCn5b+D6IKM5qKX5aGe5LmL5b6M6YCg5oiQ55qE5b+D5Zug5oCn5LyR
-    5YWL44CC5Y+m5aSW5LiA5YCL5bi46KaL55qE5piv5oWi5oCn5b+D6Ief6KGw56ut55eF5L
-    q655eF56iL56qB54S255qE5oOh5YyW44CC5Y+m5aSW5LiA5YCL5q+U6Lw=
-  last_post_date: "2026-02-05T06:27:09Z"
-  last_post_link: https://pansci.asia/archives/380437
+    6ICB5bm05oCn6buD5paR6YOo55eF6K6K5pyD5Zq06YeN5Y2x5a6z6KaW5Yqb77yM55Sa6I
+    ez5bCO6Ie05aSx5piO44CC5pys5qyh54m55Yil6YKA6KuL5Y+w54Gj5aSn5a246Yar5a24
+    6Zmi6ZmE6Kit6Yar6Zmi55y856eR5Li75rK76Yar5bir6LO05L2Q5bqt6Yar5bir5Zue56
+    2U6ICB5bm05oCn6buD5paR6YOo55eF6K6K55qE6Zec6Y215LqU5aSn5ZU=
+  last_post_date: "2026-03-05T04:56:10Z"
+  last_post_link: https://pansci.asia/archives/380640
   last_post_categories:
   - 醫療健康
   last_post_language: ""
-  last_post_guid: b773372e65d6cf756de5033df443aac0
+  last_post_guid: e393e03ace69d9b85d9a02f879b1ec76
   score_criteria:
     cats: 0
     description: 3

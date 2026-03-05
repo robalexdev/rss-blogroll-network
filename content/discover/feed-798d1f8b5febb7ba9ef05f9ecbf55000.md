@@ -19,38 +19,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BF4
-  - Customer Service
-  - Gaming
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: EA customer service don’t know what they’re talking about
-  last_post_description: A strong title, I’ll admit. But, as you’ll see, I’m not wrong.
-    I’ve been a massive fan of Battlefield 4 since it first came out. I bought it
-    for the PlayStation 3 and then upgraded to the
-  last_post_date: "2026-01-21T09:16:37Z"
-  last_post_link: https://artiss.blog/2026/01/ea-customer-service-dont-know-what-theyre-talking-about/
+  last_post_title: Fixing Amazon Kindle Freezing / Performance Issues
+  last_post_description: Now this is my own opinion, but Amazon seem to make their
+    hardware to an absolute price point. For the sake of keeping costs low, they will
+    produce something which is absolutely fine for the here-and
+  last_post_date: "2026-02-20T09:15:14Z"
+  last_post_link: https://artiss.blog/2026/02/fixing-amazon-kindle-freezing-performance-issues/
   last_post_categories:
-  - BF4
-  - Customer Service
-  - Gaming
   - Life
   last_post_language: ""
-  last_post_guid: 9a7743b48e5e49ce580e1a37a5e2599c
+  last_post_guid: 8322a3026faf870f73f470300f2d6dcd
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 乖乖詛咒
-  last_post_description: 台灣人一定都知道「乖乖」的神秘力量──在重要的機器旁邊放一包乖乖，機器就會乖乖運作。
-  last_post_date: "2026-02-05T05:53:00Z"
-  last_post_link: https://wiwi.blog/blog/guaiguai-curse
+  last_post_title: 我被碗公療癒了
+  last_post_description: 昨天去找超級有才華的朋友 Kenny。
+  last_post_date: "2026-03-05T07:10:00Z"
+  last_post_link: https://wiwi.blog/blog/singing-bowl-experience
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 010f9e97fab115830fa46e10b4685a60
+  last_post_guid: 4475f7c74b14d51ad2327e3e597bbba8
   score_criteria:
     cats: 0
     description: 3

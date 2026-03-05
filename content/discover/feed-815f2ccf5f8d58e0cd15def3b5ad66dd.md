@@ -26,16 +26,15 @@ params:
   categories: []
   relme:
     https://dizzy.zone/: true
-  last_post_title: About
-  last_post_description: |-
-    Hello!
-    I’m Vik, a software developer. I mostly work with Go on backend, implementing APIs, services and handling messages.
-    I enjoy digging into infrastructure as well - be it K8S, CI/CD,
-  last_post_date: "2025-10-02T13:35:05+03:00"
-  last_post_link: https://dizzy.zone/about/
+  last_post_title: Pangolin Private Resources With Domain Https
+  last_post_description: I’ve been moving slowly away from Cloudflare tunnels and
+    into a self hosted solution. For this, I use a self hosted instance of Pangolin.
+    Pangolin allows to expose services from my homelab for the
+  last_post_date: "2026-02-11T14:16:42+02:00"
+  last_post_link: https://dizzy.zone/2026/02/11/Pangolin-Private-Resources-With-Domain-Https/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f7adf250f3bbe245c29c08941a601396
+  last_post_guid: 64ff96f31b9a829d13e4b4ebf0e42ea6
   score_criteria:
     cats: 0
     description: 3

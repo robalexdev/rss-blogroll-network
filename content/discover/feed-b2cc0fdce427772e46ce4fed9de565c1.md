@@ -1,5 +1,5 @@
 ---
-title: Chris Warrick (Blog)
+title: Chris Warrick
 date: "1970-01-01T00:00:00Z"
 description: A rarely updated blog, mostly about programming.
 params:
@@ -19,28 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Django
   - Docker
-  - Fedora
   - Linux
-  - Python
-  - Ubuntu
+  - Programming
+  - WSL
+  - Windows
   relme: {}
-  last_post_title: Distro Hopping, Server Edition
-  last_post_description: I’ve recently migrated my VPS from Fedora to Ubuntu. Here’s
-    a list of things that might be useful to keep in mind before, during, and after
-    a migration of a server that hosts publicly accessible
-  last_post_date: "2025-11-09T18:00:00Z"
-  last_post_link: https://chriswarrick.com/blog/2025/11/09/distro-hopping-server-edition/
+  last_post_title: 'Docker In WSL: A No-Frills Guide'
+  last_post_description: Docker is great, but how do you run Linux containers on Windows?
+    In WSL, of course. The Docker Desktop application is certainly an option, but
+    it eats up a lot of RAM thanks to its Electron-based GUI
+  last_post_date: "2026-03-04T17:20:00Z"
+  last_post_link: https://chriswarrick.com/blog/2026/03/04/docker-in-wsl-a-no-frills-guide/
   last_post_categories:
-  - Django
   - Docker
-  - Fedora
   - Linux
-  - Python
-  - Ubuntu
+  - Programming
+  - WSL
+  - Windows
   last_post_language: ""
-  last_post_guid: 6d69c7536944fdb9726fe51d7132d76f
+  last_post_guid: 2eecc8b8f0fbdb48cb46058dc232be90
   score_criteria:
     cats: 0
     description: 3

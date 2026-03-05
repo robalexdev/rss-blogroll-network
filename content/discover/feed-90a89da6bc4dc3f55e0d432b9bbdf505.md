@@ -31,37 +31,63 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - brighton
-  - clearleft
-  - conferences
-  - discounts
-  - events
-  - london
-  - sotb2026
-  - stateofthebrowser
-  - tickets
-  - webdayout
+  - agile
+  - ai
+  - automation
+  - code
+  - coding
+  - cognitive
+  - computing
+  - cybernetics
+  - debt
+  - feedback
+  - generative
+  - language
+  - learning
+  - machinelearning
+  - models
+  - programming
+  - projects
+  - technical
+  - technology
+  - tools
+  - understanding
+  - waterfall
+  - work
   relme: {}
-  last_post_title: Web Day Out × State Of The Browser
+  last_post_title: Feedback
   last_post_description: |-
-    If you’re the kind of person who likes Web Day Out, you’re probably also the kind of person who likes State Of The Browser.
+    If you wanted to make a really crude approximation of project management, you could say there are two main styles: waterfall and agile.
 
-    Web Day Out is all about what you can in web browsers right now, with
-  last_post_date: "2026-01-21T15:53:59Z"
-  last_post_link: https://adactio.com/journal/22367
+    It’s not as simple as that by any means. And the two
+  last_post_date: "2026-03-04T16:33:19Z"
+  last_post_link: https://adactio.com/journal/22436
   last_post_categories:
-  - brighton
-  - clearleft
-  - conferences
-  - discounts
-  - events
-  - london
-  - sotb2026
-  - stateofthebrowser
-  - tickets
-  - webdayout
+  - agile
+  - ai
+  - automation
+  - code
+  - coding
+  - cognitive
+  - computing
+  - cybernetics
+  - debt
+  - feedback
+  - generative
+  - language
+  - learning
+  - machinelearning
+  - models
+  - programming
+  - projects
+  - technical
+  - technology
+  - tools
+  - understanding
+  - waterfall
+  - work
   last_post_language: ""
-  last_post_guid: e73f3b9613e63169b9bb5be0fde67aae
+  last_post_guid: da8baab58452052a1612174498e86083
   score_criteria:
     cats: 0
     description: 3

@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Zero-Click Search &amp; Featured Snippets: How to Still Get Traffic
-    in 2026'
-  last_post_description: In today's digital era, people are now getting answers directly
-    from Google without clicking on any website. This is called zero-click search.
-    Studies show that over half of all Google searches now
-  last_post_date: "2026-01-22T10:49:15Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/zero-click-search-featured-snippets-how-to-still-get-traffic-in-2026
+  last_post_title: SEO Isn’t Dead in 2026 — But This Is What’s Actually Ranking in
+    Google &amp; AI Search
+  last_post_description: SEO is not dead, but search is no longer the same as it used
+    to be. People no longer click on links as they used to; instead, they ask Google,
+    ChatGPT, and utilize tools like Gemini and Perplexity.
+  last_post_date: "2026-03-04T05:22:48Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/seo-isnt-dead-in-2026-but-this-is-whats-actually-ranking-in-google-ai-search
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a0624b95fd211dc4f7aed98e258db43a
+  last_post_guid: b06155f9168696361264274cdd35a4a2
   score_criteria:
     cats: 0
     description: 3

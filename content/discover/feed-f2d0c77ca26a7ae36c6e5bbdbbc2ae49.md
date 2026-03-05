@@ -30,25 +30,27 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI & ML
-  - Continuous AI
-  - Generative AI
-  - generative AI
+  - AI
+  - AI coding tools
+  - Career growth
+  - Developer skills
+  - GitHub Copilot
   relme: {}
-  last_post_title: 'Continuous AI in practice: What developers can automate today
-    with agentic CI'
+  last_post_title: 'Scaling AI opportunity across the globe: Learnings from GitHub
+    and Andela'
   last_post_description: |-
-    Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning.
-    The post Continuous AI in practice: What developers can automate today with agentic CI
-  last_post_date: "2026-02-05T17:00:00Z"
-  last_post_link: https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/
+    Developers connected to Andela share how they’re learning AI tools inside real production workflows.
+    The post Scaling AI opportunity across the globe: Learnings from GitHub and Andela appeared
+  last_post_date: "2026-03-05T17:00:00Z"
+  last_post_link: https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/
   last_post_categories:
-  - AI & ML
-  - Continuous AI
-  - Generative AI
-  - generative AI
+  - AI
+  - AI coding tools
+  - Career growth
+  - Developer skills
+  - GitHub Copilot
   last_post_language: ""
-  last_post_guid: 828a792c3fd5492232e9de28b6866cd2
+  last_post_guid: 7f4dee54bb8bf4565822054cf9d3c513
   score_criteria:
     cats: 0
     description: 3

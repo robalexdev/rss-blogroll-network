@@ -1,6 +1,6 @@
 ---
 title: Inside the head of Daniel Roy Greenfeld
-date: "2026-02-12T01:45:29Z"
+date: "2026-03-04T23:33:58Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/atom.xml
@@ -15,23 +15,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - audrey
-  - family
-  - health
-  - uma
+  - python
+  - terminal
+  - tools
   relme: {}
-  last_post_title: Concussion (I Hit My Head)
-  last_post_description: On January 16th, 2026 I suffered a a significant concussion
-    and I'm still recovering.
-  last_post_date: "2026-02-12T16:29:43Z"
-  last_post_link: https://daniel.feldroy.com/posts/2026-02-12-i-hit-my-head
+  last_post_title: Top Terminal Tools
+  last_post_description: The tools I use in my day-to-day coding efforts in early
+    2026.
+  last_post_date: "2026-03-05T07:30:50Z"
+  last_post_link: https://daniel.feldroy.com/posts/2026-03-command-line-tools-im-using
   last_post_categories:
-  - audrey
-  - family
-  - health
-  - uma
+  - python
+  - terminal
+  - tools
   last_post_language: ""
-  last_post_guid: b6900bc14bc13a378d59c311a28a61e1
+  last_post_guid: c75149980eac75430ef5569f5c118cb1
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Nadia Asparouhova
-date: "2025-09-04T00:01:15Z"
+date: "2026-02-24T22:43:47Z"
 description: Personal writing, links, and other things by Nadia Asparouhova.
 params:
   feedlink: https://nadia.xyz/feed.xml

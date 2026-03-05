@@ -1,6 +1,6 @@
 ---
 title: 2PM
-date: "2026-02-09T03:49:55Z"
+date: "2026-02-22T04:16:45Z"
 description: Studying where media meets commerce.
 params:
   feedlink: https://2pml.com/feed/atom/
@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Member Briefs
+  - Archives
   relme: {}
-  last_post_title: 'Member Brief: The Executive Order That Will Never Come'
-  last_post_description: I was at a hotel off Zilker Park, early enough that the coffee
-    shop was still quiet. Austin has this quality where even the lobby of a nice-tier
-    hotel feels like a coworking space by 8 AM. Laptops
-  last_post_date: "2026-02-09T03:49:55Z"
-  last_post_link: https://2pml.com/2026/02/08/never-coming/
+  last_post_title: 'NATSEC Roundtable No. 9: Capital, Cloud, and Commerce'
+  last_post_description: 'This is the new defense stack, and the best venture capital
+    firms in the country (re: world) enable it.  American military and intelligence
+    capabilities no longer originate solely in the Pentagon or'
+  last_post_date: "2026-02-22T04:16:45Z"
+  last_post_link: https://2pml.com/2026/01/17/capital-cloud-commerce/
   last_post_categories:
-  - Member Briefs
+  - Archives
   last_post_language: ""
-  last_post_guid: 2de275d403dc1822a12e3f5eaf106c0f
+  last_post_guid: e2f2e48c61c114a9977517ca99c75e0d
   score_criteria:
     cats: 0
     description: 3

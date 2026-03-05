@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Founders’ Guide to Comms
-  last_post_description: If you’re a founder, neglecting public communications is
-    a drag on your business. It’s not something you should focus on primarily (that’s
-    what rage baiters do), but you should use this channel
-  last_post_date: "2026-01-13T21:00:00Z"
-  last_post_link: https://molodtsov.me/2026/01/founders-guide-comms/
+  last_post_title: Building Personal Software
+  last_post_description: My feeds are filled with posts praising Claude Code. People
+    claim they feel bad if they don’t have an agent running 24/7. Developers are asking
+    for ways to manage more and more agents at once
+  last_post_date: "2026-02-04T18:30:00Z"
+  last_post_link: https://molodtsov.me/2026/02/buildai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16aed3a4dee73a765e94b7e5a1d6faa4
+  last_post_guid: 0524d4c227efada01020e17cc03299a7
   score_criteria:
     cats: 0
     description: 3

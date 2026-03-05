@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How shifting risk to users makes Claude Code more powerful
-  last_post_description: People are discovering that Claude Code isn’t just for code.
-  last_post_date: "2026-01-20T19:36:47Z"
-  last_post_link: https://www.understandingai.org/p/how-shifting-risk-to-users-makes
+  last_post_title: The Pentagon’s bombshell deal with OpenAI, explained
+  last_post_description: Only Congress can put meaningful limits on government abuse
+    of AI.
+  last_post_date: "2026-03-02T21:28:19Z"
+  last_post_link: https://www.understandingai.org/p/the-pentagons-bombshell-deal-with
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a999946f801fba6f527de692d67c65a
+  last_post_guid: fe982d1fea126ef16cf06c00d9badcdb
   score_criteria:
     cats: 0
     description: 3

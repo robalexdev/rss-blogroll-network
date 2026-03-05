@@ -20,18 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I built the worst Jellyfin media server
+  last_post_title: I gave the MacBook Pro a try
   last_post_description: |-
-    LattePanda V1. It’s been a while, huh?
-    I had it as a backup server (which I blew up).
-    Then it got promoted to… a backup server. But
-    then its PSU blew up.
-    Then it was waiting for some cool ideas
-  last_post_date: "2026-01-16T06:00:00+02:00"
-  last_post_link: https://ounapuu.ee/posts/2026/01/16/worst-media-server/
+    I got the opportunity to try out a MacBook Pro with the M3 Pro with 18GB RAM (not Pro).
+    I’ve been rocking a ThinkPad P14s gen 4
+    and am reasonably happy with it, but after realizing that I am the
+  last_post_date: "2026-03-04T06:00:00+02:00"
+  last_post_link: https://ounapuu.ee/posts/2026/03/04/apfel/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a593979aa9bac237c4b780eaa0502c3f
+  last_post_guid: cf78ec8bdba2ad573587721f13d00d1d
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-01-25T08:05:22Z"
+date: "2026-03-02T06:26:14Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -21,39 +21,28 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - 钱包
+  categories: []
   relme: {}
-  last_post_title: 硬件钱包与资产安全
-  last_post_description: |-
-    加密货币的资金管理，从最安全到最不安全的方式排名是：
-
-    家族信托
-    硬件钱包
-    MPC钱包
-    交易所托管
-    热钱包
-
-    如果你不在乔布斯排行榜上，家族信托就跟
-  last_post_date: "2026-01-25T08:05:22Z"
-  last_post_link: https://smallyu.net/2026/01/25/%E7%A1%AC%E4%BB%B6%E9%92%B1%E5%8C%85%E4%B8%8E%E8%B5%84%E4%BA%A7%E5%AE%89%E5%85%A8/
-  last_post_categories:
-  - 钱包
+  last_post_title: 利息，套利，交易策略，金融市场
+  last_post_description: 资金费率套利资金费率套利是一种没有风险、保本的套利方式。我一开始尝试自己写脚本来运行策略，然后发现 Binance
+  last_post_date: "2026-03-02T06:26:14Z"
+  last_post_link: https://smallyu.net/2026/03/02/%E5%88%A9%E6%81%AF%EF%BC%8C%E5%A5%97%E5%88%A9%EF%BC%8C%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%EF%BC%8C%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0760c0ab35f97b23488dc33f76f53504
+  last_post_guid: e1fe1c5bfbb776733fb30299854c941b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

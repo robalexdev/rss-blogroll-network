@@ -17,17 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 未完成的书单 2026
-  last_post_description: |-
-    历年未完成的书单见2025年、2024年、2023年、2022年及以前。
-    计算机
-
-     【美国】《关键迭代：可信赖的线上对照实验》Ron Kohavi 、Diana Tang 和 Ya Xu 著。
-  last_post_date: "2026-01-10T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2026/01/unfinished-book-list/
+  last_post_title: 我读书、买书和藏书的故事（Doing）
+  last_post_description: 我现在想，我2002年为什么得病？就是老想不该想的事情，现在为什么快乐，就是不想那些事，只想怎么把该做的事情做好，这一点可能更重要。
+  last_post_date: "2026-01-28T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/01/history-of-books/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d4c355e402a3b26d0f7fa92f24a9915f
+  last_post_guid: 3f4e6ad56983c6f20ad6acbe77e1bd17
   score_criteria:
     cats: 0
     description: 3

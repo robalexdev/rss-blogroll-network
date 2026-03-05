@@ -15,33 +15,31 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories:
-  - LP 12"
+  categories: []
   relme: {}
-  last_post_title: ”Love Dance” by Woody Shaw on Muse MR 5074
-  last_post_description: "A highlight in Woody’s discography.\n          \n        \n
-    \     \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n
-    \     \n\n        \n\n        \n\n        \n          \n            \n              \n
-    \    "
-  last_post_date: "2026-02-10T16:09:50Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/2/10/love-dance-by-woody-shaw-on-muse-mr-5074
-  last_post_categories:
-  - LP 12"
+  last_post_title: ”Multiple” by Joe Henderson on Milestone (M 9050)
+  last_post_description: "One of my favorite Henderson titles on Milestone.\n          \n
+    \       \n      \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n
+    \ \n    \n      \n\n        \n\n        \n\n        \n          \n            \n
+    \       "
+  last_post_date: "2026-02-20T22:18:56Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/2/20/multiple-by-joe-henderson-on-milestone-m-9050
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 051b4e0837208d731a43cebd77ee80d8
+  last_post_guid: f7fff82cf6a74191a34f437904c5b067
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

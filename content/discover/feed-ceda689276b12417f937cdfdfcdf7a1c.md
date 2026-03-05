@@ -22,35 +22,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI Agents
-  - Software Development
-  - Vibe Coding
+  - AI
+  - AI Models
   relme: {}
-  last_post_title: Where on Earth is vibe coding taking off the most?
+  last_post_title: OpenAI launches GPT-5.4 Thinking and Pro
   last_post_description: |-
-    Despite talk of its impending demise, the vibe coding craze appears to be alive and well, particularly in Europe. A new study by
-    The post Where on Earth is vibe coding taking off the most?
-  last_post_date: "2026-02-05T21:03:54Z"
-  last_post_link: https://thenewstack.io/top-vibe-coding-countries/
+    OpenAI on Thursday launched GPT-5.4, the next version of its frontier model. The company calls it its “most capable and
+    The post OpenAI launches GPT-5.4 Thinking and Pro appeared first on The New
+  last_post_date: "2026-03-05T18:00:26Z"
+  last_post_link: https://thenewstack.io/openai-launches-gpt-5-4/
   last_post_categories:
-  - AI Agents
-  - Software Development
-  - Vibe Coding
+  - AI
+  - AI Models
   last_post_language: ""
-  last_post_guid: 280ac6adc17e4f05460484172d537633
+  last_post_guid: 7c4f94510ce8a8944daca44266e0bbca
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

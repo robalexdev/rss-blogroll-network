@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-02-15T11:13:15-05:00"
+date: "2026-03-05T11:03:34-05:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -108,6 +108,7 @@ params:
   - A Touch of Stardust
   - A War of Wizards
   - A Wind From Nowhere
+  - A Wrinkle in Time
   - A.S. Byatt
   - ACC
   - AGO
@@ -205,6 +206,7 @@ params:
   - Amy Tinterra
   - An Air That Kills
   - Anastasia Krupnik
+  - Anatomy of an Alibi
   - Anbara Salam
   - Anchor Books
   - Ancient Rome
@@ -752,6 +754,7 @@ params:
   - Daisy Whitney
   - Dalemark
   - Dallas Public Library
+  - Dalton
   - Damar
   - Damien Boyd
   - Dan Elish
@@ -920,6 +923,7 @@ params:
   - Edith Olivier
   - Edith Wharton
   - Edmund Campion
+  - Edna O'Brien
   - Edna St. Vincent Millay
   - Education
   - Edward Ardizzone
@@ -961,6 +965,7 @@ params:
   - Elizabeth I
   - Elizabeth J. Duncan
   - Elizabeth Janet Gray
+  - Elizabeth Marie Pope
   - Elizabeth Penney
   - Elizabeth Peters
   - Elizabeth Riley
@@ -1019,6 +1024,7 @@ params:
   - Ernest Hemingway
   - Essie Summers
   - Ethel M. Dell
+  - Europa
   - Eva Ibbotson
   - Eva Jurczyk
   - Evan Commager
@@ -2182,6 +2188,7 @@ params:
   - Nina Bawden
   - Nina Willner
   - Nita Prose
+  - No Rest for the Wicked
   - Noah Isenberg
   - Noah Van Niel
   - Nobody's Girl
@@ -2404,6 +2411,7 @@ params:
   - RJ Palacio
   - RWA
   - Rachel Field
+  - Rachel Louise Adams
   - Rachel Solomon
   - Radcliffe
   - Radcliffe College
@@ -2431,6 +2439,7 @@ params:
   - Reading Wales Month
   - Reading the Theatre Month
   - ReadingIrelandMonth24
+  - ReadingIrelandMonth26
   - ReadingWales
   - ReadingWales23
   - ReadingtheMeow
@@ -2609,6 +2618,7 @@ params:
   - Shadow Castle
   - Shadow Spinner
   - Shakespeare
+  - Shannon Bowring
   - Shari Lapena
   - Sharon Bolton
   - Sharon Cameron
@@ -2789,6 +2799,7 @@ params:
   - Swedish fiction
   - Sweet Caroline
   - Sweet Valley High
+  - Switzerland
   - Swoon
   - Sydney
   - Sylvia Nilsen
@@ -2890,6 +2901,7 @@ params:
   - The Colony Club
   - The Company of Heaven
   - The Correspondent
+  - The Country Girls
   - The Couple in the Photo
   - The Covenant of Water
   - The Crime at Black Dudley
@@ -2945,6 +2957,7 @@ params:
   - The Girls I've Been
   - The Giver of Stars
   - The Glass-Blowers
+  - The Golden Collar
   - The Goldfinch
   - The Goldsmith's Treasure
   - The Good Ones
@@ -3238,6 +3251,7 @@ params:
   - Tonight the Streets Are Ours
   - Too Bright to See
   - Top 10
+  - Top 10 Tuesday
   - Top Ten Romantic Moments of Anne Shirley and Gilbert Blythe
   - Top Ten Tuesday
   - Toronto
@@ -3791,6 +3805,7 @@ params:
   - siblings
   - sisters
   - skating
+  - skiing
   - skin care
   - slavery
   - sleepy
@@ -3858,22 +3873,19 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: Tapestry by Fiona McIntosh
+  last_post_title: The Country Girls by Edna O'Brien - Read Ireland 2026
   last_post_description: ""
-  last_post_date: "2026-02-14T10:30:13-05:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/02/tapestry-by-fiona-mcintosh.html
+  last_post_date: "2026-03-05T11:00:49-05:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/03/the-country-girls-by-edna-obrien.html
   last_post_categories:
-  - 18th century
   - 20th century
-  - Fiona McIntosh
-  - Historical Fiction
-  - Historical Fiction Reading Challenge
-  - Jacobites
-  - Scotland
-  - dual time lines
-  - time travel
+  - Edna O'Brien
+  - Ireland
+  - ReadingIrelandMonth26
+  - The Country Girls
+  - book review
   last_post_language: ""
-  last_post_guid: 138fbe23660fdb98e4f70a3fc38cf61f
+  last_post_guid: 406cd34d641aaad2b8b3249620de531c
   score_criteria:
     cats: 5
     description: 3

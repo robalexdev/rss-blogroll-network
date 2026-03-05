@@ -1,6 +1,6 @@
 ---
 title: AndreGarzia.com
-date: "2026-01-25T12:00:00Z"
+date: "2026-02-24T12:00:00Z"
 description: ""
 params:
   feedlink: https://andregarzia.com/feeds/all.atom.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Three months of Poncho Wonky
+  last_post_title: Building your own blogging tools is a fun journey
   last_post_description: ""
-  last_post_date: "2026-01-25T12:00:00Z"
-  last_post_link: https://andregarzia.com/2026/01/three-months-of-poncho-wonky.html
+  last_post_date: "2026-02-24T12:00:00Z"
+  last_post_link: https://andregarzia.com/2026/02/building-your-own-blogging-tools-is-a-fun-journey.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36da768f7785c55509e3b244f0cbd323
+  last_post_guid: d78b40ff69ba2b37a3f64a5c3b0cdce1
   score_criteria:
     cats: 0
     description: 0

@@ -13,6 +13,9 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: "\U0001F4AC John Philpin - Blogroll"
+    description: ""
+    id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

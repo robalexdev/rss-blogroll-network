@@ -19,24 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - advertising
-  - gds
-  - peterspear
-  - russelldavies
+  - jonhicks
+  - musicplayers
+  - via:kottke
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: Russell Davies on Words & Strategy - by Peter Spear
-  last_post_description: Nice interview with Russell about advertising, early Government
-    Digital Service, blogging, interestingness, etc.
-  last_post_date: "2026-02-04T09:11:36Z"
-  last_post_link: https://thatbusinessofmeaning.substack.com/p/russell-davies-on-words-and-strategy
+  last_post_title: My perfect Music app doesn’t exist - Hicks.design
+  last_post_description: In-depth look at different music player apps from last year.
+    (via Kottke)
+  last_post_date: "2026-03-04T08:41:54Z"
+  last_post_link: https://hicks.design/journal/my-perfect-music-app-doesnt-exist
   last_post_categories:
-  - advertising
-  - gds
-  - peterspear
-  - russelldavies
+  - jonhicks
+  - musicplayers
+  - via:kottke
   last_post_language: ""
-  last_post_guid: b99bc9e58f2552e27e331a8791870e3e
+  last_post_guid: 49821026ac7e6e4018ae62f66882404a
   score_criteria:
     cats: 0
     description: 3

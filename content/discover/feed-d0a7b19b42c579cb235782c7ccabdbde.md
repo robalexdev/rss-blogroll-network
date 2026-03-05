@@ -19,22 +19,28 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Quantum Computing
   - Real science
   - Reflections
   - The expert's corner
+  - quantum advantage
+  - quantum verification
   relme: {}
-  last_post_title: 'Has quantum advantage been achieved? Part 2: Considering the evidence'
-  last_post_description: 'Welcome back to: Has quantum advantage been achieved? In
-    Part 1 of this mini-series on quantum advantage demonstrations, I told you about
-    the idea of random circuit sampling (RCS) and the'
-  last_post_date: "2026-01-25T14:59:11Z"
-  last_post_link: https://quantumfrontiers.com/2026/01/25/has-quantum-advantage-been-achieved-part-2-considering-the-evidence/
+  last_post_title: What is next in quantum advantage?
+  last_post_description: 'We are now at an exciting point in our process of developing
+    quantum computers and understanding their computational power: It has been demonstrated
+    that quantum computers can outperform classical'
+  last_post_date: "2026-02-28T20:01:25Z"
+  last_post_link: https://quantumfrontiers.com/2026/02/28/what-is-next-in-quantum-advantage/
   last_post_categories:
+  - Quantum Computing
   - Real science
   - Reflections
   - The expert's corner
+  - quantum advantage
+  - quantum verification
   last_post_language: ""
-  last_post_guid: 4c8decf9f05d590ecd09761394ff43d5
+  last_post_guid: fdee2a4df3128d53c50925e64b377c84
   score_criteria:
     cats: 0
     description: 3

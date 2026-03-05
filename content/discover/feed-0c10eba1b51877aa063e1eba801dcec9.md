@@ -26,11 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: TiDB 源码阅读（六）：TiDB Coprocessor 源码解析
-  last_post_description: 《TiDB 源码阅读（六）：TiDB Coprocessor 源码解析》TiDB 是存储和计算分离的设计，当 TiDB
-    的物理计划优化完成后，就需要将真正的取数请求发给
-  last_post_date: "2025-10-12T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html
+  last_post_title: 你好，2026！
+  last_post_description: !!binary |
+    44CK5L2g5aW977yMMjAyNu+8geOAi+acrOadpeaDs+WQg+edgOaxieWgoeWUseedgOatjO
+    +8jOWwsei3s+i/h+S7iuW5tOeahOaAu+e7k++8jOavleern+W3sue7j+i/n+WIsOS6huOA
+    guS9huWSseavj+W5tOmDveW+l+aAu+e7k++8jOS4jeiDveeziuW8hOiHquW3seOAguWFg+
+    aXpuayoeWGmeeahOaWh+eroO+8jOWSseS8oOe7n+WGnOWOhuaWsOW5tOU=
+  last_post_date: "2026-02-19T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

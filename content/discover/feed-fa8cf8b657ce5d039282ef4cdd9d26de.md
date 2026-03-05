@@ -1,7 +1,7 @@
 ---
 title: 胡涂说
-date: "2026-01-28T21:49:54+08:00"
-description: hutusi.com
+date: "1970-01-01T00:00:00Z"
+description: 胡涂说博客/好奇心周刊
 params:
   feedlink: https://hutusi.com/feed.xml
   feedtype: atom
@@ -24,28 +24,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '"Code'
   - AI
-  - Agent"
-  - weekly
+  - Code Agent
   - 周刊
   relme: {}
-  last_post_title: '好奇心周刊第24期: 关于AI编程的一些体会和设想'
-  last_post_description: '好奇心周刊第24期: 关于AI编程的一些体会和设想'
-  last_post_date: "2026-01-25T15:55:00+08:00"
-  last_post_link: https://hutusi.com/weeklies/24
+  last_post_title: '好奇心周刊第25期: 如何让AI写好代码'
+  last_post_description: 本文为好奇心周刊第25期，全部周刊参见：[周刊系列](https://hutusi.com/weeklies/)。
+    在[上一期周刊](https://hutusi.com/weeklies/24)中，我谈了下对AI编程 / Vibe Coding
+  last_post_date: "2026-02-26T00:00:00Z"
+  last_post_link: https://hutusi.com/weeklies/25
   last_post_categories:
-  - '"Code'
   - AI
-  - Agent"
-  - weekly
+  - Code Agent
   - 周刊
   last_post_language: ""
-  last_post_guid: fe958e42afdc2ee807047a7dc3a240c6
+  last_post_guid: 8c6ee75d00eee8b20bc9f6021e3e26db
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
     postcats: 3
@@ -54,11 +51,11 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: zh
   postcount: 20
   avgpostlen: 261
 ---

@@ -2,9 +2,9 @@
 title: ParaVocê Dev Blog
 date: "1970-01-01T00:00:00Z"
 description: |-
-  Hi, I'm Evan. I built Thankful to automate customer service for millions of people, which  acquired in 2023.
+  Hi, I'm Evan. I built Thankful to automate customer service for millions of people, which Gladly acquired in 2023.
 
-  Since then I started ParaVocê in the off-hour...
+  Since then I started ParaVocê in the of...
 params:
   feedlink: https://paravoce.bearblog.dev/feed/?type=rss
   feedtype: rss

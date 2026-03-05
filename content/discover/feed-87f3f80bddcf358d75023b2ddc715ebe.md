@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Conversations In Public"
-  last_post_description: You sit still long enough for the world to keep going without
-    you. Nothing asks for your attention. Everything leaves an impression anyway.
-  last_post_date: "2026-02-06T00:00:00Z"
-  last_post_link: https://aaronholbrookmusic.com/song/conversations-in-public/
+  last_post_title: "\U0001F3B5 Coming Soon: Exhale"
+  last_post_description: lofi, piano, bass, emotional, downtempo
+  last_post_date: "2026-03-04T18:43:58Z"
+  last_post_link: https://aaronholbrookmusic.com/song/exhale/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24b62a7905c301fe11e54571504ef785
+  last_post_guid: 2a7b74e0c89b6e526773cb3495dddf6d
   score_criteria:
     cats: 0
     description: 3

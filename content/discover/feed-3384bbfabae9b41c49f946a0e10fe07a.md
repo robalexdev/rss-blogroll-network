@@ -1,6 +1,6 @@
 ---
 title: Kleefeld on Comics
-date: "2026-02-15T18:41:38-05:00"
+date: "2026-03-05T09:30:00-05:00"
 description: |-
   Verbum et imago sicut unum.
   Word and picture as one.
@@ -54,27 +54,28 @@ params:
   relme:
     https://www.blogger.com/profile/10492399469370737192: true
     https://www.kleefeldoncomics.com/: true
-  last_post_title: Weekly Recap
+  last_post_title: Unintentional Media Literacy Lesson from Dark Horse
   last_post_description: ""
-  last_post_date: "2026-02-15T10:13:47-05:00"
-  last_post_link: https://www.kleefeldoncomics.com/2026/02/weekly-recap_0183889343.html
+  last_post_date: "2026-03-05T09:30:00-05:00"
+  last_post_link: https://www.kleefeldoncomics.com/2026/03/unintentional-media-literacy-lesson_0329634161.html
   last_post_categories:
-  - Recap
+  - business
+  - creator
   last_post_language: ""
-  last_post_guid: bd668011b7de4e2da7a6427b194d2c78
+  last_post_guid: 2a9663dcb7e21cfc19ebc7c4271c67a7
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

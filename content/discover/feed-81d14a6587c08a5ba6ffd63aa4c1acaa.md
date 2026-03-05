@@ -1,6 +1,6 @@
 ---
 title: Ruud van Asseldonk
-date: "2025-12-07T00:00:00Z"
+date: "2026-02-18T00:00:00Z"
 description: ""
 params:
   feedlink: https://ruudvanasseldonk.com/feed.xml
@@ -20,14 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Adding unpack syntax to RCL
-  last_post_description: In this post I explore the design space of adding unpack
-    syntax to RCL. Due to RCL having sets, there are interesting trade-offs here.
-  last_post_date: "2025-12-07T00:00:00Z"
-  last_post_link: https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl
+  last_post_title: AI is making me paranoid about contributions
+  last_post_description: AI has gotten to a point where I can no longer tell to what
+    extent I’m dealing with a human online, and it’s taking a toll on my mental health.
+  last_post_date: "2026-02-18T00:00:00Z"
+  last_post_link: https://ruudvanasseldonk.com/2026/ai-paranoia
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db6421f1c7c7d227642059edfbfd6166
+  last_post_guid: 0d83aed1256e593d3298091aa029dc41
   score_criteria:
     cats: 0
     description: 0

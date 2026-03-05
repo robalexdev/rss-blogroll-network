@@ -23,25 +23,27 @@ params:
   recommender: []
   categories:
   - AI
-  - AI Agent
-  - Cursor
-  - 博文
-  - 思考
-  - 智能体
+  - Agent
+  - Docker
+  - OpenClaw
+  - 容器化
+  - 运维
   relme: {}
-  last_post_title: Cursor 之下，何以立足
-  last_post_description: 1. AI IDE 引起的量变 AI 生成了大量代码引入工程。AI IDE
-  last_post_date: "2026-02-01T10:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/how-to-survive-in-the-cursor-world.html
+  last_post_title: 容器化部署 OpenClaw
+  last_post_description: 1. 启动容器 设置镜像 1 export IMAGE=ghcr.io/openclaw/openclaw:2026.3.2
+    生成随机 token 1 openssl rand -hex 32 设置网关 token 1 export OPENCLAW_GATEWAY_TOKEN=xxx
+    这个 token
+  last_post_date: "2026-03-04T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/deploy-openclaw-under-containers.html
   last_post_categories:
   - AI
-  - AI Agent
-  - Cursor
-  - 博文
-  - 思考
-  - 智能体
+  - Agent
+  - Docker
+  - OpenClaw
+  - 容器化
+  - 运维
   last_post_language: ""
-  last_post_guid: 2e37dae1a589fc90daddc803735f7438
+  last_post_guid: b843e296801cd2f28a70e300b06b0b68
   score_criteria:
     cats: 0
     description: 3

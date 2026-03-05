@@ -19,11 +19,15 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Simon Carstensen Blogroll
+    description: ""
+    id: ea1b7316b10d815081161f765266ec3c
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
-  recommender: []
+  recommender:
+  - https://simonbc.com/feed.xml
   categories: []
   relme: {}
   last_post_title: State of the Browser 2026

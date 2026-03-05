@@ -17,6 +17,9 @@ params:
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: Engineering Blogs
+    description: ""
+    id: 26cb52e32caff9995ee1efaeda73638c
   recommended: []
   recommender:
   - https://hacdias.com/articles/feed.xml

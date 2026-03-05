@@ -15,20 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
+  - 学习
+  - 工具
   - 杂谈
-  - 生活
-  - 系统
+  - 软件
   relme: {}
-  last_post_title: 220 年终总结的几种类型及我如何撰写年终总结
-  last_post_description: 大家好，我的 RSS 订阅了两个博客聚合平台： 十年之约 博友圈 在 2026 年元旦前后，我的RSS上出现了 […]
-  last_post_date: "2026-01-15T22:30:28Z"
-  last_post_link: http://ddw2019.com/220
+  last_post_title: 226 学位论文锦囊——Word篇
+  last_post_description: 很多小伙伴都是使用word来撰写的学位论文。2月28日和小伙伴们分享了一些方法，这里将其总结一下，辅助小伙伴们 […]
+  last_post_date: "2026-03-03T15:23:49Z"
+  last_post_link: http://ddw2019.com/226
   last_post_categories:
+  - 学习
+  - 工具
   - 杂谈
-  - 生活
-  - 系统
+  - 软件
   last_post_language: ""
-  last_post_guid: c8b1481eb034036142ebd84066a138de
+  last_post_guid: 89f00ef9c11546efcd6aad915d2aaeb8
   score_criteria:
     cats: 0
     description: 3

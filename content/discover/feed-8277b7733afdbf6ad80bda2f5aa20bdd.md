@@ -23,35 +23,31 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Environment
-  - Streets
-  - Transit
+  - Homelessness
   relme: {}
-  last_post_title: Frozen Piles in Bus Lanes Make ‘Obstacle Course’ for Commuters
-  last_post_description: With single-digit temperatures set to freeze New York City
-    again this weekend, bus operators are pushing City Hall to clear icy piles that
-    are still lingering in some bus lanes since a major
-  last_post_date: "2026-02-05T23:01:53Z"
-  last_post_link: https://www.thecity.nyc/2026/02/05/snow-bus-lanes-cold-weather-dsny-commute/
+  last_post_title: City Shutting Down Historic 30th Street Intake Shelter
+  last_post_description: New York City’s Department of Homeless Services is shutting
+    down Manhattan’s massive 30th Street Shelter — the main intake location for men
+    and adult families entering the city’s behemoth
+  last_post_date: "2026-03-05T13:57:48Z"
+  last_post_link: https://www.thecity.nyc/2026/03/05/city-shutting-down-historic-30th-street-shelter/
   last_post_categories:
-  - Environment
-  - Streets
-  - Transit
+  - Homelessness
   last_post_language: ""
-  last_post_guid: fc526252622ca832ab55facb20af1431
+  last_post_guid: b67b824685903f8a897d71db9456abc8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

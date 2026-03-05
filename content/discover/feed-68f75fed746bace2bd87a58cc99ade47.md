@@ -1,6 +1,6 @@
 ---
 title: Daniel Kennett
-date: "2026-01-19T19:30:00Z"
+date: "2026-02-07T18:30:00Z"
 description: ""
 params:
   feedlink: https://ikennd.ac/atom.xml
@@ -24,15 +24,15 @@ params:
   categories: []
   relme:
     https://ikennd.ac/: true
-  last_post_title: A Lament For Aperture, The App We'll Never Get Over Losing
-  last_post_description: I'm an old Mac-head at heart, and I've been using Macs since
-    the mid 1990s (the first Mac I used was an LC II with System 7.1 installed on
-    it). I don't tend to think that the computing experience was
-  last_post_date: "2026-01-19T19:30:00Z"
-  last_post_link: http://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/
+  last_post_title: 'Introducing Keyhole: An App I Shipped In A Week'
+  last_post_description: One of the benefits of being a developer is being able to
+    go 'F**k it, I'll just fix it myself!' when your computer is being annoying. In
+    this particular instance, it was my Mac's media keys
+  last_post_date: "2026-02-07T18:30:00Z"
+  last_post_link: http://ikennd.ac/blog/2026/02/keyhole-an-app-in-a-week/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ffda34ca3b4d01cd81afe52fbe8f31a9
+  last_post_guid: bbfc7bb4c15bb14e6cc6222db54be661
   score_criteria:
     cats: 0
     description: 0

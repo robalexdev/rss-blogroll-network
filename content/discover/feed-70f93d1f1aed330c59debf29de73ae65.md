@@ -1,13 +1,12 @@
 ---
-title: Asindu's Journal
-date: "1970-01-01T00:00:00Z"
-description: A public journal about thoughts going through Asindu's head.
+title: The Black Epicure
+date: "2026-03-03T11:19:46Z"
+description: Asindu's Personal Blog
 params:
   feedlink: https://asindu.xyz/atom.xml
-  feedtype: rss
+  feedtype: atom
   feedid: 70f93d1f1aed330c59debf29de73ae65
-  websites:
-    https://asindu.xyz/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: RSS feeds from Minifeed.net
@@ -17,32 +16,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Vibe Coding is Not an Advantage
-  last_post_description: |-
-    A few months ago, I was in a group chat with friends talking about some of the amazing stuff LLMs do.
-    I told them that I don’t do any “vibe coding”, that is, the building of software
-  last_post_date: "2025-05-27T00:00:00Z"
-  last_post_link: https://asindu.xyz/posts/vibe-coding-is-not-an-advantage/
+  last_post_title: A Single Reason To Not Vibe Code
+  last_post_description: Atrophy is defined on Wikipedia as the partial or complete
+    wasting away of a part of the body. [^1] This often happens when an organ is not
+    used as much. So maybe the body wastes it way
+  last_post_date: "2026-02-15T00:00:00Z"
+  last_post_link: http://asindu.xyz/a-single-reason-to-not-vibe-code
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e01986e9ab5aa6890c4683bd578f792d
+  last_post_guid: b13061f116d2920cda64ce59a54ac0ad
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 1
-    hasContent: 0
-    hasPosts: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
-  postcount: 8
-  avgpostlen: 0
+  language: ""
+  postcount: 2
+  avgpostlen: 294
 ---

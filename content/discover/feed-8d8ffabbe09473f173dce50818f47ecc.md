@@ -1,6 +1,6 @@
 ---
 title: 8th Light Insights
-date: "2026-02-15T20:09:42-06:00"
+date: "2026-03-05T12:15:26-06:00"
 description: Posts on software craftsmanship and consulting from 8th Light's designers
   and crafters.
 params:
@@ -21,19 +21,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Product Strategy Innovation
+  - AI and Emerging Tech
   relme: {}
-  last_post_title: 'Making Sense of Digital Transformation Initiatives: Seeing Past
-    the Fuzziness'
-  last_post_description: Digital transformation always sounds clear in an RFP or slide
-    deck, but in practice things can get fuzzy fast. What exactly are we transforming?
-    Is this about customers, or about ourselves? Are we
-  last_post_date: "2026-02-13T17:41:00-06:00"
-  last_post_link: https://8thlight.com/insights/making-sense-of-digital-transformation-initiatives
+  last_post_title: 'A Primer: MCP Servers and the Model Context Protocol'
+  last_post_description: Navigating ChangeThe way we interact with software is shifting.
+    Instead of clicking through web interfaces and learning different UIs for each
+    system, some people are moving toward natural language
+  last_post_date: "2026-02-25T00:00:00-06:00"
+  last_post_link: https://8thlight.com/insights/mcp-servers-and-the-model-context-protocol
   last_post_categories:
-  - Product Strategy Innovation
+  - AI and Emerging Tech
   last_post_language: ""
-  last_post_guid: aed9cad7ed99f3864c5ed5adee4878c4
+  last_post_guid: 74b21090a39f99d39b78e06b3b6d5a94
   score_criteria:
     cats: 0
     description: 3

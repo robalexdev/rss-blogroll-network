@@ -1,7 +1,7 @@
 ---
-title: 大象笔记 - Notes of Elephant Leg
-date: "2026-01-19T22:04:15+08:00"
-description: 大家好，我是生活在地球的一头大象。这里记录了我的每一天，有日记、有笔记、也有 wiki 和照片。
+title: 大象笔记
+date: "2026-03-05T23:22:05+08:00"
+description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
   feedtype: atom
@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 批量修改 AWS S3 挂载目录下文件权限
-  last_post_description: 先交代一下背景，在服务器上挂载了一个 S3 类似的对象存储，用于存放网站的图片。 现在需要把这个挂载目录下的所有文件权限改为
-  last_post_date: "2026-01-19T22:04:15+08:00"
-  last_post_link: https://www.sunzhongwei.com/batch-modify-file-permissions-aws-s3-mount-directory
+  last_post_title: 自动填充 PDF 交互式表单字段（AcroForms）
+  last_post_description: 今天在调研自动生成人事系统的入职文件时，我才知道 PDF 交互式表单字段（AcroForms）这个东东。我以为 PDF
+    格式就是不能编辑的。。。原来 PDF
+  last_post_date: "2026-03-05T14:54:11+08:00"
+  last_post_link: https://www.sunzhongwei.com/auto-fill-pdf-interactive-form-fields-acroforms
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9deffa9c7c234eef3c519bce48323725
+  last_post_guid: a257a5cc2f291606d62a0021cc0a90d1
   score_criteria:
     cats: 0
     description: 3

@@ -210,6 +210,7 @@ params:
   - Jack Gilbert
   - Jacob McArthur Mooney
   - Jacob Scheier
+  - Jacques J. Rancourt
   - James Baldwin
   - James Pollock
   - Jan Zwicky
@@ -535,17 +536,17 @@ params:
   - year in review
   relme:
     https://rollofnickels.blogspot.com/: true
-  last_post_title: the 2025 roll of nickels year in review
-  last_post_description: 2025 was a very quiet year here at Roll of Nickels, as life
-    and work demands derailed my grand ambitions. I only managed to post five quotes
-    on writing, and archive three of my favourite pieces of
-  last_post_date: "2026-01-04T00:10:00Z"
-  last_post_link: https://rollofnickels.blogspot.com/2026/01/the-2025-roll-of-nickels-year-in-review.html
+  last_post_title: your hand on someone else's heartbeat
+  last_post_description: When my husband was in the late stages of his terminal illness,
+    he asked me to read him poetry. He didn't ask for short stories, or essays, or
+    news articles, or the first crisp pages of a novel, with
+  last_post_date: "2026-02-09T17:00:00Z"
+  last_post_link: https://rollofnickels.blogspot.com/2026/02/your-hand-on-someone-elses-heartbeat.html
   last_post_categories:
-  - personal
-  - year in review
+  - Aislinn Hunter
+  - quote
   last_post_language: ""
-  last_post_guid: d6eb68402829a4b313faf3fb16f6e610
+  last_post_guid: d88771c165b1f3e6b40d4a179ebebeb7
   score_criteria:
     cats: 5
     description: 3

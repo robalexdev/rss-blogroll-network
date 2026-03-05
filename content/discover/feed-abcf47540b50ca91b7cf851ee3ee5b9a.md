@@ -1,6 +1,6 @@
 ---
 title: model ships in the cinema
-date: "2026-01-16T19:44:56+08:00"
+date: "2026-02-28T20:39:56+08:00"
 description: The technique of miniature ship visual effects.
 params:
   feedlink: https://www.modelshipsinthecinema.com/feeds/posts/default

@@ -1,6 +1,6 @@
 ---
 title: j3s.sh
-date: "2025-06-04T00:00:00Z"
+date: "2026-01-31T00:00:00Z"
 description: ""
 params:
   feedlink: https://j3s.sh/feed.atom
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: it took a big cup
+  last_post_title: all eyes on minneapolis
   last_post_description: ""
-  last_post_date: "2025-06-04T00:00:00Z"
-  last_post_link: https://j3s.sh/thought/it-took-a-big-cup.html
+  last_post_date: "2026-01-31T00:00:00Z"
+  last_post_link: https://j3s.sh/thought/all-eyes-on-minneapolis.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21a157aba66138a05d2153f10a8262e0
+  last_post_guid: 3a0f778e4fdbc2c4bcf0bf2a5fbb0bd7
   score_criteria:
     cats: 0
     description: 0

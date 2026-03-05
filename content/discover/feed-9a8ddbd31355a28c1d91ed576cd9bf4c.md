@@ -17,35 +17,23 @@ params:
   recommender: []
   categories:
   - Dark Days of Georgian Britain
-  - Edward Law
-  - Ellenborough
-  - Fanny Hill
   - Georgian
   - History
-  - crime
-  - law
-  - pornography
   - regency
   relme: {}
-  last_post_title: Georgian Judge Lord Ellenborough and his struggle against pornography.
-  last_post_description: First, a disclaimer. Pornography was not a word that was
-    used in the Georgian era; the first reference in any Victorian newspaper seems
-    to be the Hereford Times of 1858, when it is used in its
-  last_post_date: "2024-12-20T20:02:16Z"
-  last_post_link: https://about1816.wordpress.com/2024/12/20/georgian-judge-lord-ellenborough-and-his-struggle-against-pornography/
+  last_post_title: Snuff and the Regency Elite
+  last_post_description: Rather like today – arguably – the elite Regency drug of
+    choice went up the nose. When the Georgian ruling classes craved tobacco, they
+    reached for their snuffbox, very possibly from a pouch
+  last_post_date: "2026-02-16T19:40:13Z"
+  last_post_link: https://about1816.wordpress.com/2026/02/16/snuff-and-the-regency-elite/
   last_post_categories:
   - Dark Days of Georgian Britain
-  - Edward Law
-  - Ellenborough
-  - Fanny Hill
   - Georgian
   - History
-  - crime
-  - law
-  - pornography
   - regency
   last_post_language: ""
-  last_post_guid: 2f6d2e687dbb1f9c97691be7e5bd6101
+  last_post_guid: 5b6c2d91c606619bfcb8d81ede0bb454
   score_criteria:
     cats: 0
     description: 3

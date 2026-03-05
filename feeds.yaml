@@ -142,6 +142,7 @@ feed_urls:
   - https://raw.githubusercontent.com/heng30/rssbox-android/refs/heads/main/data/rss-en.opml
   - https://raw.githubusercontent.com/impressivewebs/frontend-feeds/refs/heads/master/frontend-feeds.opml
   - https://raw.githubusercontent.com/itgoyo/Follow-RSS/refs/heads/master/Feeds.opml
+  - https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/blogs.opml
   - https://raw.githubusercontent.com/kaizensoze/security-blogs/refs/heads/master/security_blogs.opml
   - https://raw.githubusercontent.com/llunbot/personal-feeds/refs/heads/main/feeds.opml
   - https://raw.githubusercontent.com/lwindolf/liferea/refs/heads/main/opml/feedlist_bg.opml

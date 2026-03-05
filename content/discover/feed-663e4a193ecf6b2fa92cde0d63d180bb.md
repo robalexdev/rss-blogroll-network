@@ -1,6 +1,6 @@
 ---
 title: West Coast Stat Views (on Observational Epidemiology and more)
-date: "2026-02-15T20:01:37-05:00"
+date: "2026-03-05T07:30:00-05:00"
 description: Comments, observations and thoughts from two bloggers on applied statistics,
   higher education and epidemiology.  Joseph is an associate professor.  Mark is a
   professional statistician and former math
@@ -684,14 +684,14 @@ params:
   - zombies
   - “Closing the Talent Gap”
   relme: {}
-  last_post_title: If you want to get a feel for the post–Musk Silicon Valley, you
-    really should watch these videos.
+  last_post_title: And to think of all the fun we made of Rumsfeld for known unknowns
+    -- mostly trivial items for the penultimatepost of the week
   last_post_description: ""
-  last_post_date: "2026-02-13T07:30:00-05:00"
-  last_post_link: https://observationalepidemiology.blogspot.com/2026/02/if-you-want-to-get-feel-for-postmusk.html
+  last_post_date: "2026-03-05T07:30:00-05:00"
+  last_post_link: https://observationalepidemiology.blogspot.com/2026/03/and-to-think-of-all-fun-we-made-of.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7cf76682a430456d9ea26632f360face
+  last_post_guid: 316e0ee995909f7c8d182d74fed0db69
   score_criteria:
     cats: 5
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Fri, 20 Feb 2026 02:55:04 GMT
+date: Thu, 05 Mar 2026 14:24:55 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.8.14.
 params:
@@ -140,6 +140,9 @@ params:
   - title: overreacted — A blog by Dan Abramov
     description: A blog by Dan Abramov
     id: b9f68a77f9d31e4a02f0b3d7ac10c372
+  - title: Aresluna
+    description: A feed of Marcin Wichary’s writing.
+    id: c08e27136a82a27de175927a7a95079f
   - title: the website of jyn
     description: i write about code, and things that bring me joy, and sometimes other
       things too
@@ -153,6 +156,9 @@ params:
   - title: Geoffrey Litt
     description: ""
     id: cbf6633c245cc5c455aec39e6cf3f36f
+  - title: Martin Alderson
+    description: Web development, AI tooling, and building better software
+    id: cf0de03559fbeaff297f59a2cd012471
   - title: Tom Renner on My place to put things
     description: Recent content in Tom Renner on My place to put things
     id: d255cbef66c405c747d4eb4492936ac7

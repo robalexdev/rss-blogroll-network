@@ -22,47 +22,35 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Betsy Fogle
-  - Bill Hardwick
-  - Catherine Hanaway
-  - Criminal Justice
-  - Don Mayhew
-  - FBI
-  - IRS
+  - Economy
+  - Education
+  - Jim Murphy
+  - Kathy Steinhoff
   - Legislature
-  - Steve Tilley
-  - Torch Electronics
-  - gray-market machines
-  - money laundering
-  - no chance gaming
-  - slot machines
-  - video lottery
+  - Tim Taylor
+  - minimum school levy
+  - property subclasses
+  - property tax
   relme: {}
-  last_post_title: Missouri attorney general says state and feds are investigating
-    ‘illegal’ slot machines
-  last_post_description: A state and federal investigation of “illegal” slot machines
-    is looking at how “billions” flow from Missourians to the companies that own the
-    games, Attorney General Catherine Hanaway told a
-  last_post_date: "2026-02-05T22:53:54Z"
-  last_post_link: https://missouriindependent.com/2026/02/05/missouri-attorney-general-says-state-and-feds-are-investigating-illegal-slot-machines/
+  last_post_title: Missouri House moves to cut minimum school levy in property tax
+    overhaul
+  last_post_description: A revised property tax overhaul proposes to lower the minimum
+    school levy — the lowest tax a district can impose and still qualify for state
+    aid — by up to 20%, the first cut since Missouri law
+  last_post_date: "2026-03-05T18:22:10Z"
+  last_post_link: https://missouriindependent.com/2026/03/05/missouri-house-moves-to-cut-minimum-school-levy-in-property-tax-overhaul/
   last_post_categories:
-  - Betsy Fogle
-  - Bill Hardwick
-  - Catherine Hanaway
-  - Criminal Justice
-  - Don Mayhew
-  - FBI
-  - IRS
+  - Economy
+  - Education
+  - Jim Murphy
+  - Kathy Steinhoff
   - Legislature
-  - Steve Tilley
-  - Torch Electronics
-  - gray-market machines
-  - money laundering
-  - no chance gaming
-  - slot machines
-  - video lottery
+  - Tim Taylor
+  - minimum school levy
+  - property subclasses
+  - property tax
   last_post_language: ""
-  last_post_guid: 66a5c1e0199b487b5c5e1141f07e6c6d
+  last_post_guid: 572cce3b8683b244893a5f7574b295f7
   score_criteria:
     cats: 0
     description: 3

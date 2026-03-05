@@ -1,6 +1,6 @@
 ---
 title: 哎呦不错网
-date: "2026-02-05T12:52:00+08:00"
+date: "2026-03-05T12:52:00+08:00"
 description: 每天看一看总有新东西
 params:
   feedlink: https://aiyoubucuo.com/feed
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026年2月每日分享
+  last_post_title: 2026年3月每日分享
   last_post_description: 关于哎呦不错每日分享栏目发现一些不错的资源，你有好的发现点击[这里])快速投稿，如需图文或其它建议可在[这里])回复反馈。声明:1
-  last_post_date: "2026-02-05T12:52:00+08:00"
-  last_post_link: https://aiyoubucuo.com/202602.html
+  last_post_date: "2026-03-05T12:52:00+08:00"
+  last_post_link: https://aiyoubucuo.com/202603.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 817087902ed20757ce90c40755b2fabc
+  last_post_guid: bbd14a214d30fc70619d555df6b3ec5a
   score_criteria:
     cats: 0
     description: 3

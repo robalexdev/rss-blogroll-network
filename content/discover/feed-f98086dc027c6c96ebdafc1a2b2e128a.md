@@ -1,6 +1,6 @@
 ---
 title: Mark Lawrence
-date: "2026-02-15T14:43:36-08:00"
+date: "2026-03-05T08:18:08-08:00"
 description: Click my name to navigate this blog.
 params:
   feedlink: https://mark---lawrence.blogspot.com/atom.xml
@@ -17,13 +17,13 @@ params:
   categories:
   - SPFBO
   relme: {}
-  last_post_title: SPFBO 11 - Phase 1
+  last_post_title: Daughter of Crows ... it's out this month!
   last_post_description: ""
-  last_post_date: "2026-02-11T03:10:51-08:00"
-  last_post_link: https://mark---lawrence.blogspot.com/2026/01/spfbo-11-phase-1.html
+  last_post_date: "2026-03-05T05:07:33-08:00"
+  last_post_link: https://mark---lawrence.blogspot.com/2026/03/daughter-of-crows-its-out-this-month.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 849c28b319bfbc5035efbd857c35bf79
+  last_post_guid: e6b55ae07a9fc53e36b41ee6b133af88
   score_criteria:
     cats: 1
     description: 3

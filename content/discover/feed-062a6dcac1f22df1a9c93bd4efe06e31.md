@@ -36,14 +36,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Carbo
-  last_post_description: Proper Italians would probably scoff at Japanese carbonara,
-    but this Italian-American thinks it’s a damn delight.
-  last_post_date: "2026-01-25T13:45:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/carbo.html
+  last_post_title: Have We Forgotten How to Design?
+  last_post_description: "Last week, I read a story about how Waymo (self-driving
+    taxi service) is partnering with Door Dash (food delivery service).\n\t\tAnd it
+    surprised me. I was genuinely shocked. I couldn’t believe it."
+  last_post_date: "2026-02-27T11:00:00+09:00"
+  last_post_link: https://lmnt.me/blog/have-we-forgotten-how-to-design.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9e767b3c124b0390d2e9de8a06f7ca3e
+  last_post_guid: a17279006f7c1ec2d3ab13874c8067af
   score_criteria:
     cats: 1
     description: 3

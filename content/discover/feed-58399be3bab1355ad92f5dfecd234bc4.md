@@ -22,14 +22,13 @@ params:
   categories: []
   relme:
     https://yieldcode.blog/: true
-  last_post_title: Isolating Claude Code
-  last_post_description: Being a paranoid vibe coder means you don't trust Claude
-    Code to not extract your secrets.
-  last_post_date: "2026-01-24T09:00:00Z"
-  last_post_link: https://yieldcode.blog/post/isolating-claude-code/
+  last_post_title: Farewell, Rust
+  last_post_description: For now...
+  last_post_date: "2026-02-19T18:00:00Z"
+  last_post_link: https://yieldcode.blog/post/farewell-rust/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f7836a2dabc6d57f0930252602d52f70
+  last_post_guid: 8d55bae85fc03de5aa24453b4d645323
   score_criteria:
     cats: 0
     description: 3

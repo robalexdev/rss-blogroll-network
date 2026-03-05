@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-01-27T06:24:48Z"
+date: "2026-03-05T07:36:45Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -24,29 +24,33 @@ params:
   categories:
   - "2026"
   - data protection
+  - tech
   relme: {}
-  last_post_title: privacy is a value we can lose
-  last_post_description: Weâ€™re taking data protection and privacy rights for granted.
-  last_post_date: "2026-01-27T06:24:28Z"
-  last_post_link: https://blog.avas.space/privacy-values/
+  last_post_title: AI clones and data protection
+  last_post_description: In times of voices and bodies getting digitally cloned and
+    used independently of the human, how is that compatible with data protection law
+    and privacy?
+  last_post_date: "2026-03-02T12:57:16Z"
+  last_post_link: https://blog.avas.space/ai-clones/
   last_post_categories:
   - "2026"
   - data protection
+  - tech
   last_post_language: ""
-  last_post_guid: db7674acea21e447e4ffda7948d173ea
+  last_post_guid: c79703b272189e0997b0fe2103b2c1ff
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

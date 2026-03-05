@@ -22,18 +22,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdout
+  - stderr
   relme: {}
-  last_post_title: AI搞不懂人称代词
-  last_post_description: |-
-    陪娃学英语，由于我没啥耐心，于是找了豆包跟他陪练。课程是New Concept English Book I Lesson 140（是的很old school），大概内容是：
-    A提问： Are you
-  last_post_date: "2026-01-25T16:13:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-06
+  last_post_title: AI 弑父
+  last_post_description: 大型语言模型（LLM）所谓的涌现能力，一般说成是随着模型规模的增长，突然出现新的技能，而非平滑提升。我对此有个疑惑。gpt1
+    gpt2
+  last_post_date: "2026-03-05T15:10:00+08:00"
+  last_post_link: https://blog.est.im/2026/stderr-17
   last_post_categories:
-  - stdout
+  - stderr
   last_post_language: ""
-  last_post_guid: 680a23edfbab9f0ed1467f190ba6f715
+  last_post_guid: 58ea78895987981b255c592977b169b9
   score_criteria:
     cats: 0
     description: 3

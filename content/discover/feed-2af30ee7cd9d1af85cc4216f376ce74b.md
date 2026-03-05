@@ -21,31 +21,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - minimalism
+  - health
+  - travel
   relme: {}
-  last_post_title: The best phone is the one you never use
-  last_post_description: I switched to a Nokia 3210 to break my phone addiction and
-    discovered why the best phone is the one you don’t use. Four months of travel
-    across Asia with a dumbphone changed how I see technology.
-  last_post_date: "2026-01-13T09:54:00Z"
-  last_post_link: https://shilin.ca/the-best-phone-is-the-one-you-never-use/
+  last_post_title: I have this gut feeling…
+  last_post_description: I spent two years struggling with bloating and IBS-like symptoms—until
+    traveling through Southeast Asia and Europe made them disappear. Here’s why I
+    think digestion can be country-dependent.
+  last_post_date: "2026-02-18T13:33:00Z"
+  last_post_link: https://shilin.ca/i-have-this-gut-feeling/
   last_post_categories:
-  - minimalism
+  - health
+  - travel
   last_post_language: ""
-  last_post_guid: dfed622120df1c8cc9ed7a7985061c21
+  last_post_guid: 365ce587efde4400f0e370511f60e74a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

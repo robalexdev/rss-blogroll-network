@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-02-03T17:29:12Z"
+date: "2026-03-03T14:48:51Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Should You Have a Note Goal Per Day? How To Quantify Creativity
-    to Boost Creative Performance
+  last_post_title: What and Where is a “Link Context”? Explained Using Citation Conventions
   last_post_description: ""
-  last_post_date: "2026-02-03T17:29:12Z"
-  last_post_link: https://zettelkasten.de/posts/should-you-have-a-note-goal-per-day/
+  last_post_date: "2026-03-03T14:48:51Z"
+  last_post_link: https://zettelkasten.de/posts/what-and-where-is-a-link-context-explained-using-citation-conventions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a8ebac48213e0449f116e6284c7ca60
+  last_post_guid: eda966e0aa1af834ae4f9cf34aa1c094
   score_criteria:
     cats: 0
     description: 0

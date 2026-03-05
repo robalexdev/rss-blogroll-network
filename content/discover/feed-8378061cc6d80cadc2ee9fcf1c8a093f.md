@@ -18,21 +18,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cord Cutter Weekly
+  - Cord Cutting Columns
   relme:
     https://advisorator.com/members/: true
-  last_post_title: Netflix gift cards have a catch
+  last_post_title: Does Paramount even have a plan for HBO?
   last_post_description: |-
-    Disney and Hulu have similar policies, which deplete your gift card balance every month even if you cancel.
+    Paramount's deal to absorb Warner Bros. Discovery leaves a lot of questions unanswered.
     Read more ›
 
-    The post Netflix gift cards have a catch appeared first on Advisorator.
-  last_post_date: "2026-02-13T14:26:42Z"
-  last_post_link: https://advisorator.com/members/2026/02/13/netflix-gift-cards-have-a-catch/
+    The post Does Paramount even have a plan for HBO? appeared first on Advisorator.
+  last_post_date: "2026-03-04T22:37:00Z"
+  last_post_link: https://advisorator.com/members/2026/03/04/does-paramount-even-have-a-plan-for-hbo/
   last_post_categories:
-  - Cord Cutter Weekly
+  - Cord Cutting Columns
   last_post_language: ""
-  last_post_guid: b1c18aa070ba30b77fa21d21aebb3d50
+  last_post_guid: 9006f93385dc8bd829fe7c37343b4ad2
   score_criteria:
     cats: 0
     description: 3

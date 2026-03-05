@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Keeping your own data LOCAL
+  last_post_title: Is AI making world a better place?
   last_post_description: ""
-  last_post_date: "2025-09-25T12:18:40+01:00"
-  last_post_link: https://yinan.me/your-own-data.html
+  last_post_date: "2026-02-10T22:00:47Z"
+  last_post_link: https://yinan.me/ai-world.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ee985fd4cdac63840a639d09103048c
+  last_post_guid: 5311d4086af34ffa9c9219657a0f6d58
   score_criteria:
     cats: 0
     description: 0

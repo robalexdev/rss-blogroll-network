@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'When Context Clicks: The Power of Anchor Moments at Work'
+  last_post_title: Project Management with Gemini CLI
   last_post_description: |-
-    When context clicks
-    I had one of those conversations today where, at first, nothing landed. We were discussing whether we could allow orders for items still in transit by estimating when they’d
-  last_post_date: "2025-10-16T11:35:05-04:00"
-  last_post_link: https://brettgfitzgerald.com/posts/when-context-clicks/
+    Project (or Task) Management
+    In my day job, I work as a product owner for an Advanced Analytics / Data Science team. It’s a bunch of really smart people that use many analytical techniques
+  last_post_date: "2026-02-11T00:00:00Z"
+  last_post_link: https://brettgfitzgerald.com/posts/project-management-with-gemini-cli/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 41c7ec8c36264154c46a6ab9e7577376
+  last_post_guid: 0760cce4b0d84fb03dd863fc5a9562d1
   score_criteria:
     cats: 0
     description: 3

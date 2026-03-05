@@ -1,8 +1,9 @@
 ---
 title: jngiam
-date: "2026-01-27T08:20:18Z"
+date: "2026-03-05T14:47:36Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
-  Brain, Coursera, Stanford. \n\n\n\n..."
+  Brain, Coursera, Stanford. \n\n linkedin @jngiam\n x/twitter @jiquanngiam\nlutra
+  ai\n\nsu..."
 params:
   feedlink: https://jngiam.bearblog.dev/feed/
   feedtype: atom
@@ -19,28 +20,38 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - agents
+  - claude-code
+  - latex
+  - pdf
+  - skills
   relme: {}
-  last_post_title: 'MCPs vs APIs: Why designing tools for LLMs is different'
+  last_post_title: LaTeX is a great hack for generating PDFs with Claude Code
   last_post_description: ""
-  last_post_date: "2025-10-30T16:18:30Z"
-  last_post_link: https://jngiam.bearblog.dev/llm-tool-handling-airtable-hubspot/
-  last_post_categories: []
+  last_post_date: "2026-02-03T00:42:24Z"
+  last_post_link: https://jngiam.bearblog.dev/latex-is-a-great-hack-for-generating-pdfs-with-claude-code/
+  last_post_categories:
+  - agents
+  - claude-code
+  - latex
+  - pdf
+  - skills
   last_post_language: ""
-  last_post_guid: de2bc843ee5f5367f6a03318600d0f08
+  last_post_guid: 1cd0c17ee259be6455668af77fa10ca6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

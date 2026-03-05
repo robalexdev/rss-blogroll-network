@@ -1,6 +1,6 @@
 ---
 title: GASERI
-date: "2026-02-05T14:06:57Z"
+date: "2026-02-19T10:28:40Z"
 description: Group for Apps and Services on Exascale Research Infrastructure is a
   research, development, and teaching unit at FIDIT + MedRi.
 params:

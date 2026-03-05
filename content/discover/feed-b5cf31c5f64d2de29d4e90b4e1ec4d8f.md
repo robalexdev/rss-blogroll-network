@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Iterating strings and manually decoding UTF-8
-  last_post_description: This post is an adapted excerpt from Understanding the Odin
-    Programming Language – the acclaimed eBook on learning Odin and understanding
-    low-level concepts. Visit https://odinbook.com for more
-  last_post_date: "2025-09-23T09:29:00+02:00"
-  last_post_link: https://zylinski.se/posts/iterating-strings-and-manually-decoding-utf8/
+  last_post_title: 'Audio in Karl2D: Software mixing, OS APIs and general design'
+  last_post_description: 'As I’ve been making my own game creation library Karl2D
+    I’ve noticed something about audio: While many people are fine with writing their
+    own rendering, they still go for some library when'
+  last_post_date: "2026-02-20T22:04:00+02:00"
+  last_post_link: https://zylinski.se/posts/audio-in-karl2d-software-mixing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a884ee005cb1c64fc8a544a19e8e9183
+  last_post_guid: c97bc0da4a19634d3c110aa8a74a7cdd
   score_criteria:
     cats: 0
     description: 3

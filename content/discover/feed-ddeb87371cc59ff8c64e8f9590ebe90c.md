@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 手工合集
+  last_post_title: 特别博物馆
   last_post_description: ""
-  last_post_date: "2026-01-31T20:00:37+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/manual-life/
+  last_post_date: "2026-02-10T22:16:48+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/special-museum/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3158d10fefab402637dd1c79c92d6ff9
+  last_post_guid: 6823edae641b86c10191d8cb9f65ba3f
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2026-01-12T23:35:38Z"
+date: "2026-02-15T18:20:44Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:
@@ -22,16 +22,16 @@ params:
   categories:
   - presortedness
   relme: {}
-  last_post_title: Relationship between Amp and Runs
-  last_post_description: In this article, we analyze the relationship between the
-    measure of disorder \(\mathit{Amp}\), which I introduced a while ago, and the
-    classic measure of presortedness \(\mathit{Runs}\), the number
-  last_post_date: "2025-11-09T00:00:00Z"
-  last_post_link: https://morwenn.github.io//presortedness/2025/11/09/TSB007-relationship-between-amp-and-runs.html
+  last_post_title: Amp and the partial ordering of measures of disorder, part 1
+  last_post_description: Shortly after computer scientists had proposed their first
+    few measures of disorder, they started feeling an urge to show that their favourite
+    measure was different from existing ones, and that they
+  last_post_date: "2026-02-15T00:00:00Z"
+  last_post_link: https://morwenn.github.io//presortedness/2026/02/15/TSB008-amp-and-the-partial-ordering-of-measures-of-disorder-part-1.html
   last_post_categories:
   - presortedness
   last_post_language: ""
-  last_post_guid: 55bd36aa79b555c6c7d88cbc86818655
+  last_post_guid: aad7b5c0d28b966945997f1b3b9f5242
   score_criteria:
     cats: 0
     description: 3

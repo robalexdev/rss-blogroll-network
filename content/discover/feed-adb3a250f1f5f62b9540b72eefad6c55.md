@@ -19,22 +19,20 @@ params:
   categories: []
   relme:
     https://osguider.com/blog/: true
-  last_post_title: 以智能体为协作单元，打造跨模型协同生态 | 开源日报 No.872
+  last_post_title: AI 对话克隆网站，快速重建为 React 应用 | 开源日报 No.884
   last_post_description: |-
-    MoonshotAI/kimi-cli
+    zyronon/TypeWords
 
 
 
 
 
-    kimi-cli 是一个运行在终端中的 AI 代理工具，旨在辅助软件开发任务和终端操作的自动化完成。
-
-    支持代码读取与编辑、执行 shell
-  last_post_date: "2026-02-05T23:36:05Z"
-  last_post_link: https://osguider.com/blog/post/daily/daily-872/
+    typing-word 是一款基于 Vue
+  last_post_date: "2026-03-05T15:35:51Z"
+  last_post_link: https://osguider.com/blog/post/daily/daily-884/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1d0eeb3afb8eda595f72d505d381dad2
+  last_post_guid: c219d7946819ade2c641bfad532048d3
   score_criteria:
     cats: 0
     description: 3

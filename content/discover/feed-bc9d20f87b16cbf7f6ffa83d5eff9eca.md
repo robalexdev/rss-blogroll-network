@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-01-19T23:21:56Z"
+date: "2026-02-21T17:05:57Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Vivo Time
+  last_post_title: Don't be a Process Zealot
   last_post_description: ""
-  last_post_date: "2026-01-19T00:00:00Z"
-  last_post_link: https://lopespm.com/product/2026/01/19/vivotime.html
+  last_post_date: "2026-02-21T00:00:00Z"
+  last_post_link: https://lopespm.com/notes/2026/02/21/process_dogmas.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 87c77175c4385eed7fc597af41e4bd44
+  last_post_guid: f76d98d0cf6f5eb58c782628cfc91e01
   score_criteria:
     cats: 0
     description: 0

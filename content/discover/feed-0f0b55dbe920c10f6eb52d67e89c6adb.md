@@ -1,8 +1,9 @@
 ---
 title: sankalp's blog
 date: "1970-01-01T00:00:00Z"
-description: "Hi, I am Sankalp. \n\nI go by  on X. I am into AI engineering and applied
-  LLM research. I maintain a pseudonymous profile. There are benefits to being select..."
+description: "Hi, I am Sankalp. \n\nI go by dejavucoder on X. I am into AI engineering
+  and applied LLM research. I maintain a pseudonymous profile on X but you can find
+  mo..."
 params:
   feedlink: https://sankalp.bearblog.dev/feed/?type=rss
   feedtype: rss

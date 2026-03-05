@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2026-01-26T16:11:34Z"
+date: "2026-03-02T08:43:10Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -26,13 +26,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: Why there’s no European Google?
+  last_post_title: Do not apologize for replying late to my email
   last_post_description: ""
-  last_post_date: "2026-01-22T00:00:00Z"
-  last_post_link: https://ploum.net/2026-01-22-why-no-european-google.html
+  last_post_date: "2026-02-11T00:00:00Z"
+  last_post_link: https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 96fb57721d3297a307f6121e539f7c99
+  last_post_guid: e23bede7161828b7555af30113a651e8
   score_criteria:
     cats: 0
     description: 3

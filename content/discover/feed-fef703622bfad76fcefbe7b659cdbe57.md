@@ -21,6 +21,9 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: "\U0001F4AC John Philpin - Blogroll"
+    description: ""
+    id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -42,32 +45,30 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories:
-  - Virginia
+  - "000"
+  - cosplay
   - general
-  - san-diego
-  - tourists
-  - uva
-  - vcu
+  - memories
+  - post-title-trade
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Virginia Hats
-  last_post_description: 'Last week the weather was mild. It’s almost always mild
-    here in San Diego. We were walking to the beach: Pacific Beach. We were headed
-    to the spot on the south side of Crystal Pier. It was Sunday:'
-  last_post_date: "2026-01-27T05:19:38Z"
-  last_post_link: https://artlung.com/blog/2026/01/26/virginia-hats/
+  last_post_title: My Favorite Cosplay
+  last_post_description: I am trading blog post titles with Sara. She gave me a few
+    suggestions for what to write about. I chose the title “My favorite cosplay”.
+    I like to dress up. And I like to dress up in costumes.
+  last_post_date: "2026-03-04T23:32:15Z"
+  last_post_link: https://artlung.com/blog/2026/03/04/my-favorite-cosplay/
   last_post_categories:
-  - Virginia
+  - "000"
+  - cosplay
   - general
-  - san-diego
-  - tourists
-  - uva
-  - vcu
+  - memories
+  - post-title-trade
   last_post_language: ""
-  last_post_guid: ea7c08fbd49464648258a654df8bb21d
+  last_post_guid: 1d54f18c2cdef8f7c5cd86e7eb6b64ee
   score_criteria:
     cats: 0
     description: 3

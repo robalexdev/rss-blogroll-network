@@ -23,12 +23,12 @@ params:
   - Prepared
   - Season6
   relme: {}
-  last_post_title: 'Explore Explain S6 E5: Chaz Hutton'
-  last_post_description: Welcome to episode 5 of season 6 of Explore Explain, a long-form
-    video and podcast series all about data visualisation design. IWelcome to episode
-    5 of season 6 of Explore Explain, a long-form video
-  last_post_date: "2026-02-03T17:05:51Z"
-  last_post_link: https://visualisingdata.com/2026/02/explore-explain-s6-e5-chaz-hutton/
+  last_post_title: Explore Explain S6E6 – Nicola Rennie & Ansgar Wolsing
+  last_post_description: Welcome to episode 6 of season 6 of Explore Explain, a long-form
+    video and podcast series all about data visualisation design. I am delighted to
+    welcome Nicola Rennie, Data Visualisation Specialist
+  last_post_date: "2026-02-25T20:33:15Z"
+  last_post_link: https://visualisingdata.com/2026/02/explore-explain-s6e6-nicola-rennie-ansgar-wolsing/
   last_post_categories:
   - Latest
   - LatestEpisode
@@ -36,7 +36,7 @@ params:
   - Prepared
   - Season6
   last_post_language: ""
-  last_post_guid: fbf3c4d6e354433164a541652ecf3888
+  last_post_guid: 988fd9745a48933bd8ee8aee69ef9d12
   score_criteria:
     cats: 0
     description: 3

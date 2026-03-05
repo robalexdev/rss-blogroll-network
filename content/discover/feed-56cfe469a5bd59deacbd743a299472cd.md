@@ -23,14 +23,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 小律师某音商城购物遭遇刷单商家假发货，职业病犯投诉追查后感叹套路太深
-  last_post_description: !!binary |
-    MeaciDXlj7fvvIzlnKjmn5Dpn7PllYbln47kubDkuobkuIDnrrHovabljpjlrZDjgIIxMj
-    nlnZfpkrHvvIw0Su+8jDXmlqTjgILov5nkuKrku7fpkrHkuI3nrpfotLXvvIzliLfkuobl
-    pb3lh6DkuKrnm7Tmkq3pl7TvvIwzSuWSjDRK55qE5pmu6YGN6YO96KaBMTQ55bem5Y+z44
-    CC6LCB5Lmw5Lic6KW/6YO95oOz5Lmw5Liq5L6/5a6c77yM5oiR5L6/5Zw=
-  last_post_date: "2026-01-10T01:30:58+08:00"
-  last_post_link: https://xingbianren.cn/post/324.html
+  last_post_title: 我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了
+  last_post_description: 刷到了所谓“好心扶起骑电车倒地老大娘，反被起诉索赔22万”的新闻。想起一桩陈年旧事。我骑电动车，走在通勤必经之路上。路段中有一截，有工地
+  last_post_date: "2026-02-21T23:36:12+08:00"
+  last_post_link: https://xingbianren.cn/post/325.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2

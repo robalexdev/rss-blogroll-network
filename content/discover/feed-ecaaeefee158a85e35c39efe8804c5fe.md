@@ -26,16 +26,14 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Where is our Churchill?
-  last_post_description: I'm interested in the movie Darkest Hour. Specifically the
-    scene where Churchill is surprised by a visit from the king, who we learned earlier
-    is pissed off, while Churchill is morose and undecided
-  last_post_date: "2026-01-26T17:40:10Z"
-  last_post_link: https://daveverse.org/2026/01/26/where-is-our-churchill/
+  last_post_title: Really Simple pizza
+  last_post_description: '"It really tastes like a pizza!!"'
+  last_post_date: "2026-03-03T19:31:01Z"
+  last_post_link: https://daveverse.org/2026/03/03/really-simple-pizza/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 74f4c335926a432d9b2fdea825c9359a
+  last_post_guid: beac0559c5f2fd32e555cf8dcb6e55ee
   score_criteria:
     cats: 0
     description: 3

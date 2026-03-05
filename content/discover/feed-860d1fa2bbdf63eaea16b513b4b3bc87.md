@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What’s up Python? Astral's new type checker, McGugan's new tool
-    and Django new CSRF protection
-  last_post_description: December 2025
-  last_post_date: "2025-12-30T11:07:52Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-astrals-new-type
+  last_post_title: 'exe.dev: a new hosting solution for your prototypes'
+  last_post_description: Being unproductive has never been so well instrumented
+  last_post_date: "2026-02-17T06:41:13Z"
+  last_post_link: https://www.bitecode.dev/p/exedev-a-new-hosting-solution-for
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6e95a3f4e774cb25224bf44ba15f3a25
+  last_post_guid: 4cfdff829cf1293817a2f4bf8c08dbea
   score_criteria:
     cats: 0
     description: 3

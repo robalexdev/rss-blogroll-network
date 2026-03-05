@@ -1,6 +1,6 @@
 ---
-title: TLDR Tech Newsletter Bridge
-date: "2026-01-26T22:51:12Z"
+title: TLDR Tech Newsletter
+date: "2026-03-05T05:53:00Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Inside Apple AI \U0001F4F1, ChatGPT lead shrinks \U0001F4C9, Claude
-    Code&#x27;s hidden feature \U0001F468‍\U0001F4BB"
+  last_post_title: "M5 Max MacBooks \U0001F4BB, GPT-5.3 Instant \U0001F916, end of
+    code reviews \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-01-25T23:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-01-26
+  last_post_date: "2026-03-03T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-03-04
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bc7fb322b84f728b84b92eec3456e876
+  last_post_guid: 4e3aa2f8e8de58a88403e430b8557a22
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-02-14T16:06:43-08:00"
+date: "2026-03-02T15:24:40-08:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -109,6 +109,7 @@ params:
   - AUTO-TUNE
   - AUTOBIOGRAPHY
   - AUTOTUNE
+  - AVANT-ROCK
   - AVANTFUNK
   - AXL ROSE
   - BACKPACKER RAP
@@ -202,6 +203,7 @@ params:
   - CLOCK DVA
   - COCTEAU TWINS
   - COLDWAVE
+  - COMEDY AND ROCK
   - COMPANY FLOW
   - COMSAT ANGELS
   - CONCEPTRONICA
@@ -681,6 +683,8 @@ params:
   - October 29 1988
   - PAPA SPRAIN
   - PARLIAMENT
+  - PARODY
+  - PASTICHE
   - PAUL GILROY
   - PAUL MORLEY
   - PAUL OLDFIELD
@@ -720,6 +724,7 @@ params:
   - POST-GENRE
   - POST-HARDCORE
   - POST-INDIE
+  - POST-PSYCHEDELIC
   - POST-RAVE
   - POSTDISCO
   - POSTHUMANISM
@@ -1097,6 +1102,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -1130,30 +1136,20 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: idm misc
+  last_post_title: The Residents
   last_post_description: ""
-  last_post_date: "2026-02-13T13:58:15-08:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/02/idm.html
+  last_post_date: "2026-02-24T10:14:31-08:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/02/the-residents.html
   last_post_categories:
-  - 1985-92
-  - AMBIENT MUSIC
-  - APHEX TWIN
-  - AUTECHRE
-  - BOARDS OF CANADA
-  - CONCEPTRONICA
-  - IDM
-  - ISOLEE
-  - MAXIMALISM
-  - MINIMALISM
-  - PITCHFORK
-  - SELECTED AMBIENT WORKS
-  - TRADADELIA
-  - TRAP
-  - VALERIO MATTIOLI
-  - iINTELLIGENT DANCE MUSIC
-  - the nineties
+  - AVANT-ROCK
+  - COMEDY AND ROCK
+  - PARODY
+  - PASTICHE
+  - POST-PSYCHEDELIC
+  - POSTPUNK
+  - THE RESIDENTS
   last_post_language: ""
-  last_post_guid: 774675594491b1ff8670267d332fc71b
+  last_post_guid: 71135d649fef65e66055f16154ef4220
   score_criteria:
     cats: 5
     description: 3

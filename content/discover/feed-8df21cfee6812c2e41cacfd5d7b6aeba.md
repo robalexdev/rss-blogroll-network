@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '2025 In Review: A Year of Immersion'
-  last_post_description: |-
-    Last year I wrote that 2024 was a “massive year” and that “even that feels like an understatement”. I had no idea what was coming.
-    2025 was bigger. It challenged me in ways I hadn’t
-  last_post_date: "2026-01-02T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/2025-in-review/
+  last_post_title: Finding Comfort in the Uncertainty
+  last_post_description: I’m writing this having just landed back in New Zealand after
+    a very long journey home from Utah. On the final leg from Houston to Auckland,
+    I found myself wedged between a retired industrial
+  last_post_date: "2026-02-06T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/finding-comfort-in-the-uncertainty/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 52cbf423bcb0bc35584d61c58918fc50
+  last_post_guid: bc591acc575b3c4c2ad3794d9fc8329a
   score_criteria:
     cats: 0
     description: 3

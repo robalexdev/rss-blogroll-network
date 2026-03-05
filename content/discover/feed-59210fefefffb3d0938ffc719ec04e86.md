@@ -19,15 +19,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: On Toasts and Trending
-  last_post_description: I recently read the wonderful "Don't Get Hung-up on Trending"
-    by Becky. It addressed something that I've been thinking about for a while with
-    my blog and the Discovery feed, and I wanted to add some
-  last_post_date: "2026-01-26T01:02:00Z"
-  last_post_link: https://syls.blog/on-toasts-and-trending/
+  last_post_title: Richest blogger in the cemetery
+  last_post_description: |-
+    I read this great quote shared by Prasatt:
+
+    Be more generous than necessary. No one on their deathbed has ever regretted giving too much away. There is no point to being the richest person in the
+  last_post_date: "2026-03-04T13:24:00Z"
+  last_post_link: https://robertbirming.com/richest-blogger-cemetery/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d53a73a3e92cf32614a5f62c839e06f0
+  last_post_guid: f052a7e1eb2f5d41e88b9f4c7dcecb5a
   score_criteria:
     cats: 0
     description: 3

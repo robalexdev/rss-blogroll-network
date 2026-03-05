@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-02-03T00:43:22Z"
+date: "2026-03-02T01:01:32Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,36 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
+  - ADHD
   - 历史
   - 小说
-  - 育儿
+  - 心理学
   - 读书
   - 读书笔记
+  - 跑步
   - 阅读
   relme: {}
-  last_post_title: 2025 十二月读 革命历史 诗歌小说 放手育儿 过敏 08 本
+  last_post_title: 2026 一月读 史学理论 心理学 亲密关系 灵性 运动 12 本
   last_post_description: |-
     引子
 
 
     引子
 
-    年末年初，辞旧迎新，适合反思。
-
-    可，感觉真就拿不出时间写的点儿年末总结啥的。
-
-    时光如水之骨，滑的很。一下子都滑入2026年9天了。
-  last_post_date: "2026-01-09T15:53:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/01/09/reading_summary/
+    活到 40 多岁，发觉自己的主人格，有
+  last_post_date: "2026-02-26T23:55:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/02/26/reading_summary/
   last_post_categories:
+  - ADHD
   - 历史
   - 小说
-  - 育儿
+  - 心理学
   - 读书
   - 读书笔记
+  - 跑步
   - 阅读
   last_post_language: ""
-  last_post_guid: d3b9d8450a35d2a7daeb72b0ca222999
+  last_post_guid: 10d2140f268ceaf15028b51946354309
   score_criteria:
     cats: 0
     description: 0

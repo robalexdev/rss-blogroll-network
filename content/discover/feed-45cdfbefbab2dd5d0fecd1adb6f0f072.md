@@ -17,34 +17,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - CoMix
   - Comic
-  - Crime
   - Data Science
-  - analysis
-  - comic-creators
+  - Science Fiction
+  - comics
   - gemini
-  - murder-inc-jagger-rose
-  - word embeddings
+  - mysta
+  - nano-banana
+  - planet-comics
   relme: {}
-  last_post_title: Comic Creator Analysis
-  last_post_description: Have been working on a comics project for some time based
-    on CoMix repo. This morning I thought – what if we added writer and artist into
-    vlm analysis based embeddings – and other creators too.
-  last_post_date: "2025-10-25T05:38:31Z"
-  last_post_link: https://cosmicheroes.space/blog/index.php/2025/10/25/comic-creator-analysis/
+  last_post_title: Mysta of the Moon Transformation
+  last_post_description: ""
+  last_post_date: "2026-02-22T02:13:08Z"
+  last_post_link: https://cosmicheroes.space/blog/index.php/2026/02/22/mysta-of-the-moon-transformation/
   last_post_categories:
-  - CoMix
   - Comic
-  - Crime
   - Data Science
-  - analysis
-  - comic-creators
+  - Science Fiction
+  - comics
   - gemini
-  - murder-inc-jagger-rose
-  - word embeddings
+  - mysta
+  - nano-banana
+  - planet-comics
   last_post_language: ""
-  last_post_guid: 9c70c1bcddcb951c76c049841333f3d2
+  last_post_guid: 6eec2dca54b0e764dace0fcaf3504626
   score_criteria:
     cats: 0
     description: 3

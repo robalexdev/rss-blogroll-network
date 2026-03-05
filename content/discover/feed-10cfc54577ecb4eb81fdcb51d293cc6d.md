@@ -1,6 +1,6 @@
 ---
 title: Tony Alicea
-date: "2025-11-27T00:00:00Z"
+date: "2026-03-03T00:00:00Z"
 description: JavaScript, HTML, CSS, NodeJS, UX
 params:
   feedlink: https://tonyalicea.dev/feed/feed.xml
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: We're Losing Our Voice to LLMs
+  last_post_title: 'Trace: Declarative Modeling for the AI Age'
   last_post_description: ""
-  last_post_date: "2025-11-27T00:00:00Z"
-  last_post_link: https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/
+  last_post_date: "2026-03-03T00:00:00Z"
+  last_post_link: https://tonyalicea.dev/blog/trace-declarative-modeling-ai-age/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 427adf877e14189a5d3d5b485f3576ac
+  last_post_guid: f85f28f2cae1bdf601834f6cff1fa640
   score_criteria:
     cats: 0
     description: 3

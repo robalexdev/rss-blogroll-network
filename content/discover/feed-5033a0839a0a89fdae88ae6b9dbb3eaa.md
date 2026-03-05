@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-01-02T21:04:46Z"
+date: "2026-02-11T00:23:18Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -32,15 +32,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: To be defeated by ever greater things
-  last_post_description: For the new year, a resolution“How small that is, with which
-    we wrestle, what wrestles with us, how immense; were we to let ourselves, the
-    way things do, be conquered...
-  last_post_date: "2026-01-02T21:38:33Z"
-  last_post_link: https://anniemueller.com/posts/to-be-defeated-by-ever-greater-things
+  last_post_title: Contentment is a spectrum, too
+  last_post_description: I am quite content to be alone except on a mild evening at
+    twilight.  During the quick hours of the day I am busy. Busy with things I enjoy
+    doing,...
+  last_post_date: "2026-02-11T00:23:18Z"
+  last_post_link: https://anniemueller.com/posts/contentment-is-a-spectrum-too
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: be040d7ed6a2eee5bd652ba88e530c7b
+  last_post_guid: bb061027c5e0a7de5b8a880328187f58
   score_criteria:
     cats: 0
     description: 0

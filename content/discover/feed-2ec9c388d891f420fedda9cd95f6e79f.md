@@ -1,7 +1,8 @@
 ---
 title: Another Dayu
-date: "1970-01-01T00:00:00Z"
-description: '"Seize the day, gather ye rosebuds while ye may."'
+date: "2026-03-05T11:56:12Z"
+description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
+  闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
   feedlink: https://anotherdayu.com/feed/
   feedtype: rss
@@ -22,29 +23,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - bearblog
+  - plugin
   relme: {}
-  last_post_title: 在 AI 浪潮中迷失的 Setapp
-  last_post_description: 引 看到 Setapp 要求新上架的软件具备 AI 功能，忍不住吐槽几句。 过去两年上线的新工具里，我印象较好 […]
-  last_post_date: "2026-01-26T16:58:55Z"
-  last_post_link: https://anotherdayu.com/2026/7686/
+  last_post_title: Show Random posts in Bear Blog
+  last_post_description: This post shows how to add a “Random posts” section to Bear
+    Blog using a small JavaScript plugin that shuffles and displays posts while preserving
+    the platform’s default post list layout.
+  last_post_date: "2026-03-04T11:55:50Z"
+  last_post_link: https://anotherdayu.com/random-posts/
   last_post_categories:
-  - Uncategorized
+  - bearblog
+  - plugin
   last_post_language: ""
-  last_post_guid: 0e2fed412c5f6a6b83ffe4b6cacc175f
+  last_post_guid: 0e651d2d9d5bf05e3ca455fb00139eae
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

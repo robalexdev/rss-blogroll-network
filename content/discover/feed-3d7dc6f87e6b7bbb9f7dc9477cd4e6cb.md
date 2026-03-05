@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2025-08-09T23:18:34Z"
+date: "2026-02-22T16:11:26Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -23,18 +23,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Little Learner and hotel room hacking
+  last_post_title: A letter from 2016 to 2026
   last_post_description: |-
-    Right now I'm reading The Little Learner.
-    Like how The Little Schemer
-    introduces fundamental concepts of how computing and programming languages work,
-    and The Reasoned Schemer
-    teaches logic
-  last_post_date: "2025-06-20T19:23:00Z"
-  last_post_link: https://dustycloud.org/blog/the-little-learner-and-hotel-room-hacking/
+    This is a fictional letter, grown out of me musing about "what would
+    a person ten years ago think about 2026? What would they expect?" No
+    time travelers were hurt in the making of this letter.Hey
+  last_post_date: "2026-02-22T16:10:00Z"
+  last_post_link: https://dustycloud.org/blog/a-letter-from-2016-to-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e7f382c99e478dfce45c975529a81e10
+  last_post_guid: e374ad5fd09aeabb889169f8dd064d62
   score_criteria:
     cats: 0
     description: 3

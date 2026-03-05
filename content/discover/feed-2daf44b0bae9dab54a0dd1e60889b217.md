@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-01-27T07:02:42Z"
+date: "2026-03-05T14:02:04Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -26,16 +26,15 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #158'
+  last_post_title: 'The Index: Issue #169'
   last_post_description: |-
-    Understanding the fundamentals of CSS Layout
-    Quite possibly one of the most thorough articles on layout I've ever read. It's long, but definitely worth your time.
-    When will CSS Grid Lanes arrive? How
-  last_post_date: "2026-01-23T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/158/?ref=main-rss-feed
+    Beyond the blur: a quick guide to the css backdrop-filter property
+    The backdrop-filter CSS property can do a heck of a lot more than you probably think it can. Stu expertly shows you with this in
+  last_post_date: "2026-03-04T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/169/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c21210d452d36ff082e82d4fdc68aa1
+  last_post_guid: 8b6dafd09fe2313cedf6a4dbf0290db6
   score_criteria:
     cats: 0
     description: 3

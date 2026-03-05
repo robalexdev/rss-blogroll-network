@@ -1,6 +1,6 @@
 ---
 title: Nat Tarnoff
-date: "2026-02-06T21:25:17Z"
+date: "2026-03-04T13:57:12Z"
 description: Accessibility, Artist, Music, Philosophy
 params:
   feedlink: https://tarnoff.info/feed/atom/
@@ -15,44 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - a11y
-  - a11y 101
-  - accessibility
-  - blind
-  - cognition
-  - color
-  - contrast
-  - deaf
-  - development
-  - disability
+  - Mental Health
+  - buddhism
+  - coping
   - empathy
-  - hearing impaired
-  - physical impairment
-  - technology
+  - grief
+  - humanity
+  - loss
+  - love
+  - meditation
+  - rant
   relme: {}
-  last_post_title: 'Quick Tip: Do Not Replicate OS Behavior'
-  last_post_description: This applies to browser behavior as well. I’ve been encountering
-    a significant number of sites recently where the site tries to offer the user
-    ways to make the site more accessible. Sometimes these
-  last_post_date: "2026-02-06T21:25:17Z"
-  last_post_link: http://tarnoff.info/2026/02/05/quick-tip-do-not-replicate-os-behavior/
+  last_post_title: Grief is an Odd Duck
+  last_post_description: If you’ve been following me you’ll know I lost my father
+    six weeks ago. Today marks his 83rd birthday. Mine is tomorrow. He was 32 when
+    I was born and we had a family joke that he gave up his
+  last_post_date: "2026-03-04T13:57:12Z"
+  last_post_link: http://tarnoff.info/2026/03/04/grief-is-an-odd-duck/
   last_post_categories:
-  - a11y
-  - a11y 101
-  - accessibility
-  - blind
-  - cognition
-  - color
-  - contrast
-  - deaf
-  - development
-  - disability
+  - Mental Health
+  - buddhism
+  - coping
   - empathy
-  - hearing impaired
-  - physical impairment
-  - technology
+  - grief
+  - humanity
+  - loss
+  - love
+  - meditation
+  - rant
   last_post_language: ""
-  last_post_guid: dedf5f4dc1e140df3fac81817e21ee8f
+  last_post_guid: 69cc62439496a83b8d15b6b5fc01afc4
   score_criteria:
     cats: 0
     description: 3

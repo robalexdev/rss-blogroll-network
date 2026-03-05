@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: (Un)portable defer in C
-  last_post_description: Eight ways to implement defer in C.
-  last_post_date: "2026-02-05T12:00:00Z"
-  last_post_link: https://antonz.org/defer-in-c/
+  last_post_title: Allocators from C to Zig
+  last_post_description: Exploring allocator design in C, C3, Hare, Odin, Rust, and
+    Zig.
+  last_post_date: "2026-02-12T12:00:00Z"
+  last_post_link: https://antonz.org/allocators/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4f9f1496acfb89fd8eaa50b26308561
+  last_post_guid: cfeee90b0a5ca9f7b1a78d665299cb2d
   score_criteria:
     cats: 0
     description: 3

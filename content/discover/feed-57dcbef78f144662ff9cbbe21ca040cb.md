@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-02-01T12:47:57Z"
+date: "2026-03-01T15:18:45Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,31 +22,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 小技巧
-  - 技巧
+  - iPhone
   relme: {}
-  last_post_title: 分享个加速github访问的方法
-  last_post_description: 我们日常在使用github的时候经常会碰到访问比较慢的问题，一方面是github的打开慢，还有就是相关的数据传输很慢，比如从github上clone代码，有时候仓库
-  last_post_date: "2026-02-01T12:47:57Z"
-  last_post_link: https://nicksxs.me/2026/02/01/%E5%88%86%E4%BA%AB%E4%B8%AA%E5%8A%A0%E9%80%9Fgithub%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95/
+  last_post_title: 较早代iPhone更换新iPhone的一些小指南
+  last_post_description: 我跟LD一直在用的是比较古早iPhone7
+  last_post_date: "2026-03-01T15:18:45Z"
+  last_post_link: https://nicksxs.me/2026/03/01/%E8%BE%83%E6%97%A9%E4%BB%A3iPhone%E6%9B%B4%E6%8D%A2%E6%96%B0iPhone%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8C%87%E5%8D%97/
   last_post_categories:
-  - 小技巧
-  - 技巧
+  - iPhone
   last_post_language: ""
-  last_post_guid: dd750d2c2011f97d21ae9291c349be91
+  last_post_guid: 9c99b4444b2ef251ec377edc8c799d6b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

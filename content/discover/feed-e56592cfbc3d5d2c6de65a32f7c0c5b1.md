@@ -20,29 +20,41 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - career
+  - culture
+  - engineering
+  - leadership
+  - opinion
+  - teams
   relme: {}
-  last_post_title: From prompt to several wireframe variations <10 seconds
-  last_post_description: UX Pilot AI speeds your design process by turning text or
-    sketches into UX/UI. Sync with Figma, upload guidelines, and start 100% for free.
-  last_post_date: "2026-01-26T12:25:00Z"
-  last_post_link: https://bit.ly/side-uxp1
-  last_post_categories: []
+  last_post_title: Nobody gets promoted for simplicity
+  last_post_description: We reward complexity and ignore simplicity. In interviews,
+    design reviews, and promotions.
+  last_post_date: "2026-03-05T08:37:36Z"
+  last_post_link: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
+  last_post_categories:
+  - career
+  - culture
+  - engineering
+  - leadership
+  - opinion
+  - teams
   last_post_language: ""
-  last_post_guid: cc920a9fa319b09ca6d72c0b42be8270
+  last_post_guid: 8b78619f378bab4740e0da570612204e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

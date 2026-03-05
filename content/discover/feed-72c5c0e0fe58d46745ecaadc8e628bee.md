@@ -21,14 +21,14 @@ params:
   categories:
   - Hardware
   relme: {}
-  last_post_title: We need devices like the StarLite
-  last_post_description: Though, we also need them to get better over time.
-  last_post_date: "2026-01-16T09:57:05Z"
-  last_post_link: https://thelibre.news/we-need-devices-like-the-starlite/
+  last_post_title: My childhood dream laptop
+  last_post_description: If only more laptops were like this...
+  last_post_date: "2026-02-27T10:14:52Z"
+  last_post_link: https://thelibre.news/my-childhood-dream-laptop/
   last_post_categories:
   - Hardware
   last_post_language: ""
-  last_post_guid: 81c6282701a9a8a6a87c55f889d3f67f
+  last_post_guid: 0bc50fb9536228e5d9a572d59d200eb3
   score_criteria:
     cats: 0
     description: 3

@@ -33,13 +33,13 @@ params:
   - https://jlelse.blog/.min.rss
   categories: []
   relme: {}
-  last_post_title: Things that work (for me)
-  last_post_description: A list of tools and items that JustWork (tm)
-  last_post_date: "2026-01-20T08:30:00Z"
-  last_post_link: https://herman.bearblog.dev/things-that-work/
+  last_post_title: Vulnerability as a Service
+  last_post_description: OpenClaw being dumb
+  last_post_date: "2026-02-24T11:43:00Z"
+  last_post_link: https://herman.bearblog.dev/vulnerability-as-a-service/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 649081aa88a3ef4f16981b4ca1ce065d
+  last_post_guid: 25f0a45b306a2c74417cdfa3272efd69
   score_criteria:
     cats: 0
     description: 3

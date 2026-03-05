@@ -21,15 +21,15 @@ params:
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: Heavyweight on Minnesota raids
-  last_post_description: One of the best podcasts on earth is Heavyweight, where a
-    guy named Jonathan helps people solve incredibly personal, difficult lifelong
-    problems. He does it with a staff of researchers, a tenacious
-  last_post_date: "2026-02-06T18:58:19Z"
-  last_post_link: https://a.wholelottanothing.org/heavyweight-on-minnesota-raids/
+  last_post_title: Random bits and bobs
+  last_post_description: Over the last week I've jotted down a bunch of notes in a
+    "Things to Blog" text file so I'm just gonna dump them here in no particular order.Bleeding
+    edge, AI-fueled fraudOne of my favorite mountain
+  last_post_date: "2026-03-03T06:27:18Z"
+  last_post_link: https://a.wholelottanothing.org/random-bits-and-bobs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8263e4a7c784911c7a9a31d7f207f0f8
+  last_post_guid: cb2288e028c34fc79dc6c656f687ce60
   score_criteria:
     cats: 0
     description: 3

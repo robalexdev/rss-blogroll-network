@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-02-06T06:31:22Z"
+date: "2026-03-05T19:34:08Z"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,15 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Rethinking legacy orgs at Leading Design
-  last_post_description: Towards the end of 2025, I hosted a table conversation over
-    lunch at Leading Design with ten other design leaders. We chatted around the meaty
-    topic of transformational design in legacy organisations
-  last_post_date: "2026-02-02T06:30:00Z"
-  last_post_link: https://clearleft.com/thinking/rethinking-legacy-orgs
+  last_post_title: A considered approach to generative AI in front-end development
+  last_post_description: As a developer working in a design consultancy - where we're
+    ultimately in the business of offering as much value to our clients as possible
+    within a fixed budget/time frame - generative AI presents
+  last_post_date: "2026-02-19T11:35:00Z"
+  last_post_link: https://clearleft.com/thinking/a-considered-use-of-generative-ai-in-front-end-development
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0e3354f853bd96f4a1d3c8689125cbb6
+  last_post_guid: 28ee22cc3ab15a8cd5702885894edd08
   score_criteria:
     cats: 0
     description: 3

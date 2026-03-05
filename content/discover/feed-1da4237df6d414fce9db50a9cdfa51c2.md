@@ -17,13 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 从物业小区管理来看，什么是民主
-  last_post_description: 通过一次普通小区物业投票事件，反思民主决策中“议题设置”的结构性影响，并对比中国古代民本思想，讨论民主在不同社会文化中的适用边界。
-  last_post_date: "2026-01-26T11:00:00+08:00"
-  last_post_link: https://lawtee.com/article/democracy-from-community-governance/
+  last_post_title: 为什么美国选择“史诗狂怒”这个名称发动对伊朗的战争？
+  last_post_description: !!binary |
+    5b2T576O5Zu95bCG5a+55LyK5pyX55qE5Yab5LqL6KGM5Yqo5ZG95ZCN5Li64oCc5Y+y6K
+    +X54uC5oCS4oCd5pe277yM6K+t6KiA5pys6Lqr5bey6LaF5Ye65Yab5LqL6IyD55W044CC
+    5LuO5oiY5LqJ5ZG95ZCN5Lyg57uf44CB5Yab6Zif5YaF6YOo55qE5a6X5pWZ5YyW5LqJ6K
+    6u77yM5Yiw576O5Lul5YWz57O76IOM5ZCO55qE56We5a2m57uT5p6E77w=
+  last_post_date: "2026-03-04T09:00:00+08:00"
+  last_post_link: https://lawtee.com/article/epic-fury-us-iran-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4195a974ada5dda1af28a6527e1d9791
+  last_post_guid: b51071d0970f9da168d07e7a80765545
   score_criteria:
     cats: 0
     description: 3

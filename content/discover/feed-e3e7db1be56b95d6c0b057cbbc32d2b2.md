@@ -16,33 +16,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - economics
-  - ideas
+  - AI
+  - data science
+  - guest post
+  - machine learning
+  - vision
   relme: {}
-  last_post_title: One trick to stop ticket touts
-  last_post_description: What can be done to stop the ticket resellers?1 Artists don’t
-    want to charge the maximum they can, perhaps because they want all of their fans
-    to have a chance to attend their gigs, or perhaps
-  last_post_date: "2025-10-22T23:00:00Z"
-  last_post_link: https://www.aeturrell.com/blog/posts/one-trick-to-stop-ticket-touts/
+  last_post_title: 'Guest post: Experimenting with Vision AI to recognise digits on
+    an odometer reading from a photo'
+  last_post_description: |-
+    Today, I’m excited to feature a guest post from Dr Katie Russell, another No10 Innovation Fellow. You can find more information about Katie and her work over at her LinkedIn page.
+    OCR has been
+  last_post_date: "2026-02-26T00:00:00Z"
+  last_post_link: https://www.aeturrell.com/blog/posts/vision-ai-for-odometer-reading/
   last_post_categories:
-  - economics
-  - ideas
+  - AI
+  - data science
+  - guest post
+  - machine learning
+  - vision
   last_post_language: ""
-  last_post_guid: fe415ff16bfcb66578553c71066d07d1
+  last_post_guid: 1f5b0a13d4a1eb65c24398e5dfb779b2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -15,22 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - RustFS
-  - s3
+  - BT
+  - BitTorrent
+  - PT
+  - PT作弊
+  - VPN
+  - WARP
+  - WireGuard
+  - gluetun
+  - rustatio
+  - wgcf
   - 学无止境
-  - 对象存储
   relme: {}
-  last_post_title: Docker部署单节点RustFS对象存储
-  last_post_description: 由于Garage S3没有版本控制的功能，最近部署的几个程序都需要用到这个功能，所以部署一个RustFS当作备用。
-  last_post_date: "2026-02-05T13:50:50Z"
-  last_post_link: https://lala.im/10007.html
+  last_post_title: Rustatio：Modern BitTorrent Ratio Faker
+  last_post_description: Rustatio是一款现代化的跨平台BitTorrent
+  last_post_date: "2026-02-27T02:56:25Z"
+  last_post_link: https://lala.im/10050.html
   last_post_categories:
-  - RustFS
-  - s3
+  - BT
+  - BitTorrent
+  - PT
+  - PT作弊
+  - VPN
+  - WARP
+  - WireGuard
+  - gluetun
+  - rustatio
+  - wgcf
   - 学无止境
-  - 对象存储
   last_post_language: ""
-  last_post_guid: 3cd3bb3690501f1b2c14318b2590778e
+  last_post_guid: 57cca08d534ebaf44228531b1a77d0c0
   score_criteria:
     cats: 0
     description: 3

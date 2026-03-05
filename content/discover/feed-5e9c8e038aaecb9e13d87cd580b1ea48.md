@@ -22,7 +22,7 @@ params:
   relme: {}
   last_post_title: 哲学家如何度过一生
   last_post_description: 哲学是一种生活方式，永远面对问题，面向世界，只对自己的信念负责。
-  last_post_date: "2026-01-17T02:23:00+08:00"
+  last_post_date: "2026-01-16T18:23:00Z"
   last_post_link: https://pathos.page/blog/philosophy-declare/
   last_post_categories:
   - Blog

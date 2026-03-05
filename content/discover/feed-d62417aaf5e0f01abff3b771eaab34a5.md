@@ -1,7 +1,8 @@
 ---
 title: Raj Patel
 date: "1970-01-01T00:00:00Z"
-description: Website of author, film-maker and academic, Raj Patel
+description: Film-maker, academic, author of Stuffed & Starved, A History of the World
+  In Seven Cheap Things, and Inflamed
 params:
   feedlink: https://rajpatel.org/feed/
   feedtype: rss
@@ -19,16 +20,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: 'Polycrisis: A Breviary'
-  last_post_description: This short essay, first published by the Transition Security
-    Project, offers a short introduction to the idea of ‘Polycrisis’, which I’m using
-    to think through some ideas around systems change.
-  last_post_date: "2026-01-12T16:52:47Z"
-  last_post_link: https://rajpatel.org/2026/01/12/polycrisis-a-breviary/
+  last_post_title: What Is Innovation in Agriculture?
+  last_post_description: I’ll dig into this a bit more next week in the newsletter,
+    but here’s a report to which I contributed, just out from IPES-Food, on what counts
+    as agricultural innovation, and what the future of
+  last_post_date: "2026-02-28T18:16:45Z"
+  last_post_link: https://rajpatel.org/2026/02/28/what-is-innovation-in-agriculture/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 4c3fd756b05b65fb79b8af90d2bdec7b
+  last_post_guid: cfb998d2cd0db681316ca5f2c6eadffc
   score_criteria:
     cats: 0
     description: 3

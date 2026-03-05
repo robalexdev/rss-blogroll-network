@@ -33,6 +33,9 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: "\U0001F4AC John Philpin - Blogroll"
+    description: ""
+    id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -57,13 +60,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Early Arthropods
+  last_post_title: Solar Warning
   last_post_description: ""
-  last_post_date: "2026-01-26T05:00:00Z"
-  last_post_link: https://xkcd.com/3199/
+  last_post_date: "2026-03-04T05:00:00Z"
+  last_post_link: https://xkcd.com/3215/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 05ee9b626b0ed7a224c28bd88ae5498f
+  last_post_guid: cf5b847cd2d8c10fb1627aa676bdf0b3
   score_criteria:
     cats: 0
     description: 3

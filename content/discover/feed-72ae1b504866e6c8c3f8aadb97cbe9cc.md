@@ -9,7 +9,9 @@ params:
   feedid: 72ae1b504866e6c8c3f8aadb97cbe9cc
   websites:
     https://500ish.com/: false
+    https://500ish.com/?gi=86cf40fbf985: false
     https://500ish.com/?gi=b4585eb73f21&source=rss----662a29c3b19e---4: false
+    https://500ish.com/?gi=d4acd8fbcd4f&source=rss----662a29c3b19e---4: false
     https://500ish.com/?gi=dfb69bd8d2d6: false
     https://500ish.com/?source=rss----662a29c3b19e---4: true
   blogrolls: []

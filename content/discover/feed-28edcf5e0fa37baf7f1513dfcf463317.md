@@ -22,41 +22,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Gin
-  - Golang
-  - Gorm
-  - 后端
-  - 开发
-  - 网站
+  - 折腾
+  - 生活
   relme: {}
-  last_post_title: 西电信安协会招新系统 Golang 后端开发小记
-  last_post_description: |-
-    跟 CopperKoi 同学用 Vite + Golang 写了信安协会一个新的招新系统，在过程中遇到 gin 的一些坑。
-    西电信安协会招新系统 Golang
-  last_post_date: "2026-02-05T10:07:31Z"
-  last_post_link: https://www.xiaozonglin.cn/xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
+  last_post_title: 都市天际线2：通过优化设计路网解决拥堵
+  last_post_description: 摒弃简单的道路拓宽方法，通过采用“高速公路-主干道-次干道
+  last_post_date: "2026-02-26T10:17:05Z"
+  last_post_link: https://www.xiaozonglin.cn/solves-congestion-by-optimizing-road-network-design/
   last_post_categories:
-  - Gin
-  - Golang
-  - Gorm
-  - 后端
-  - 开发
-  - 网站
+  - 折腾
+  - 生活
   last_post_language: ""
-  last_post_guid: f89c7cc48b991c848ef413427a6330bb
+  last_post_guid: 32f8d0edd62c22817402143052dfd2e2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

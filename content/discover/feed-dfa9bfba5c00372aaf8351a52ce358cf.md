@@ -1,6 +1,6 @@
 ---
 title: Adam's Apples
-date: "2026-02-15T14:01:52-05:00"
+date: "2026-03-05T11:58:37-05:00"
 description: An amateur explores the pomaceous fruit
 params:
   feedlink: https://adamapples.blogspot.com/atom.xml
@@ -712,7 +712,7 @@ params:
   relme: {}
   last_post_title: 'Apples on the Web: Chuck&nbsp;Wendig'
   last_post_description: ""
-  last_post_date: "2026-02-15T14:01:52-05:00"
+  last_post_date: "2026-02-28T11:57:59-05:00"
   last_post_link: https://adamapples.blogspot.com/2026/02/apples-on-web-chuck.html
   last_post_categories:
   - commentary

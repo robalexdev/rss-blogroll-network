@@ -24,16 +24,15 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: It goes without saying
-  last_post_description: I don’t like writing, or thinking, about Donald Trump and
-    everything is presidency represents. First of all, it’s gross. He’s awful. Second,
-    the situation seems so obviously terrible that my
-  last_post_date: "2026-01-20T21:13:52Z"
-  last_post_link: https://actsofvolition.com/2026/01/it-goes-without-saying/
+  last_post_title: Shipping a button in 2026
+  last_post_description: 'Every web developer should enjoy this (and if you’re not
+    a web develop, skip it):'
+  last_post_date: "2026-03-04T20:05:19Z"
+  last_post_link: https://actsofvolition.com/2026/03/shipping-a-button-in-2026/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 11d48fdc1c21e2381b2c01262a10ec0d
+  last_post_guid: ffca2333059a529e227238900c1b5421
   score_criteria:
     cats: 0
     description: 0

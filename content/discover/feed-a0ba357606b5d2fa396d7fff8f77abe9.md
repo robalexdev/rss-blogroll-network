@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-02-13T15:29:45-08:00"
+date: "2026-03-03T17:40:31-08:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,13 +40,13 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: My *Armed With A Book* Interview
+  last_post_title: My Thumbnail History of Fantasy on Fantasy Cafe--Also, a Book Giveaway!
   last_post_description: ""
-  last_post_date: "2026-02-10T08:00:12-08:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/02/my-armed-with-book-interview.html
+  last_post_date: "2026-02-24T06:32:28-08:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/02/my-thumbnail-history-of-fantasy-on.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 058b88c8f89b4c52cb9cd8886fc00591
+  last_post_guid: 804e98c560186351c01186d83c2c7853
   score_criteria:
     cats: 5
     description: 0

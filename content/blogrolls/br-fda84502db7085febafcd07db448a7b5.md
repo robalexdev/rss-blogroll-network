@@ -142,8 +142,8 @@ params:
     description: ""
     id: badae9597eb9cd1621f2c0656f62d2a5
   - title: Robb Knight • Posts • Atom Feed
-    description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and
-      human dad.
+    description: Maker of web things, sticker merchant, viral toot-based business
+      man, blogger, podcaster, and pizzaiolo. Human dad.
     id: beb57c334e61d6ec968b6685ea8ba92b
   - title: Dame's Blog
     description: A blog about technology, social media, and mindful digital living

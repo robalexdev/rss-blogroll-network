@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-02-15T16:16:39-08:00"
+date: "2026-03-03T18:19:35-08:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -128,17 +128,19 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: The Manitou
+  last_post_title: Blue Sunshine
   last_post_description: ""
-  last_post_date: "2026-02-15T16:14:28-08:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/02/the-manitou.html
+  last_post_date: "2026-03-01T19:21:52-08:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/03/blue-sunshine.html
   last_post_categories:
+  - Drama
   - Horror
   - Movies
+  - Psychological Thrillers
   - Reviews
   - Weirdness
   last_post_language: ""
-  last_post_guid: b991787e5885e5cc58ef3a30a04aae64
+  last_post_guid: eb8086117ddb8cafaa3f0c23da54ef5b
   score_criteria:
     cats: 5
     description: 3

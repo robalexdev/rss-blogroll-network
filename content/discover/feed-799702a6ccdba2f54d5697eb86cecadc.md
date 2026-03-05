@@ -22,22 +22,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Webdesign
+  - Coding
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: CSS Optical Illusions
-  last_post_description: |-
-    CSS Optical Illusions
-
-    Thanks for reading this post via RSS. You're awesome ♥️
-  last_post_date: "2026-01-22T22:22:52+01:00"
-  last_post_link: https://blog.x-way.org/Webdesign/2026/01/22/CSS-Optical-Illusions.html
+  last_post_title: The Work Moved
+  last_post_description: "The work moved.\n\tIt didn't disappear.\n\tWhether your
+    organization thrives or drowns depends on whether you've moved with it upstream
+    into design, specifications, guardrails, and the messy human work"
+  last_post_date: "2026-02-17T23:38:36+01:00"
+  last_post_link: https://blog.x-way.org/Coding/2026/02/17/The-Work-Moved.html
   last_post_categories:
-  - Webdesign
+  - Coding
   last_post_language: ""
-  last_post_guid: f55469bceaf682cec8a5b7028af954c1
+  last_post_guid: 4ecc65677454d6d9373c2ef77d6bcbb5
   score_criteria:
     cats: 0
     description: 3

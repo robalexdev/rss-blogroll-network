@@ -1,6 +1,6 @@
 ---
 title: Toomanywires
-date: "2026-02-12T21:11:33+09:00"
+date: "2026-03-05T20:49:05+09:00"
 description: All About Video Games
 params:
   feedlink: https://www.toomanywires.co.uk/feeds/posts/default
@@ -79,6 +79,7 @@ params:
   - PlayStation 2
   - PlayStation 3
   - PlayStation 3 Retrospective
+  - PlayStation 4
   - PlayStation 5
   - Resident Evil
   - Retro Gaming
@@ -110,18 +111,16 @@ params:
     https://holdingcourt-nba.blogspot.com/: true
     https://www.blogger.com/profile/03238261341419099883: true
     https://www.toomanywires.co.uk/: true
-  last_post_title: Final Fantasy V and Ghost of Yotei - A Sense of Direction
+  last_post_title: Bloodborne and Fading Memories
   last_post_description: ""
-  last_post_date: "2026-01-29T10:07:26+09:00"
-  last_post_link: https://www.toomanywires.co.uk/2026/01/final-fantasy-v-and-ghost-of-yotei.html
+  last_post_date: "2026-02-27T09:10:41+09:00"
+  last_post_link: https://www.toomanywires.co.uk/2026/02/bloodborne-and-fading-memories.html
   last_post_categories:
-  - Analogue
   - Contemporary Games
-  - Final Fantasy
-  - PlayStation 5
+  - PlayStation 4
   - Retro Gaming
   last_post_language: ""
-  last_post_guid: 4632fb9b37040c6900c4d77f686c5f03
+  last_post_guid: 8f7b982c2e2d9b1e1e6b893b6e3f7397
   score_criteria:
     cats: 5
     description: 3

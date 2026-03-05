@@ -1,6 +1,6 @@
 ---
 title: Heather Buchel
-date: "2026-01-12T00:00:00Z"
+date: "2026-02-02T00:00:00Z"
 description: Heather Buchel is a front-end engineer who likes writing about accessibility,
   web tech, cooking, living in Brooklyn, and her dog Pepper.
 params:
@@ -24,13 +24,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A reset
+  last_post_title: Accessibility progress and healthy engineering teams
   last_post_description: ""
-  last_post_date: "2026-01-12T00:00:00Z"
-  last_post_link: https://heather-buchel.com/blog/2026/01/a-reset/
+  last_post_date: "2026-02-02T00:00:00Z"
+  last_post_link: https://heather-buchel.com/blog/2026/02/accessibility-is-an-engineering-health-indicator/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66ae2693e7c7ba3fcd6ec0840a6b957e
+  last_post_guid: cb27dfe37809f500ccf66e3d7e6374c9
   score_criteria:
     cats: 0
     description: 3

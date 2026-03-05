@@ -1,6 +1,6 @@
 ---
 title: After Hours Academic
-date: "2026-02-16T01:56:26Z"
+date: "2026-03-05T14:30:16Z"
 description: An engineer moonlighting as an academic
 params:
   feedlink: https://afterhoursacademic.com/atom/
@@ -16,32 +16,30 @@ params:
   recommender: []
   categories:
   - computer-science
-  - dbms
-  - lsm-trees
+  - life
   relme: {}
-  last_post_title: A brief introduction to LSM trees
+  last_post_title: Notes from FAST 2026
   last_post_description: ""
-  last_post_date: "2026-02-16T00:54:50Z"
-  last_post_link: https://afterhoursacademic.com/lsm-trees-intro/
+  last_post_date: "2026-03-02T20:50:24Z"
+  last_post_link: https://afterhoursacademic.com/fast-2026/
   last_post_categories:
   - computer-science
-  - dbms
-  - lsm-trees
+  - life
   last_post_language: ""
-  last_post_guid: 8864e7279049df9e50734d73732e7717
+  last_post_guid: 4ef90b0c86de9558d30ba0f130c59288
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

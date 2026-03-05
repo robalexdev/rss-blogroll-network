@@ -33,7 +33,7 @@ params:
     Spiritual Life
 
     I've been keeping track of prayer requests this year. As of this
-  last_post_date: "2025-12-30T16:30:47Z"
+  last_post_date: "2026-02-26T10:26:39Z"
   last_post_link: https://evantravers.com/articles/2025/12/30/2025/
   last_post_categories: []
   last_post_language: ""

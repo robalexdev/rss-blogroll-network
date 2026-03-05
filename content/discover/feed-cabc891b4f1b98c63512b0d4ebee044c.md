@@ -28,19 +28,18 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for November 2025
+  last_post_title: Summary of changes for February 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of November.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of February.
 
 
 
-
-      Thousand Rooms, added an English version with one type of dyslexia-friendly typeface. A
-  last_post_date: "2025-12-02T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#nov2025
+      Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new
+  last_post_date: "2026-03-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#feb2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e64f3d04387df35c08727f6527e4718a
+  last_post_guid: 2fb3075e449a1223ffed449a4d7f6117
   score_criteria:
     cats: 0
     description: 3

@@ -23,27 +23,28 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - DOJ
-  - Elissa Slotkin
-  - Jeanine Pirro
-  - Pam Bondi
-  - Preet Bharara
-  - Where Things Stand
+  - 2020 elections
+  - DOGE
+  - Donald Trump
+  - Fulton County
+  - The Franchise
+  - redisricting
   relme: {}
-  last_post_title: Slotkin Hits Back as Trump DOJ Pushes for Retribution
-  last_post_description: ‘Own Their Choices’ Sen. Elissa Slotkin (D-MI) has refused
-    to meet for a voluntary interview with Jeanine Pirro, the former...
-  last_post_date: "2026-02-05T23:17:15Z"
-  last_post_link: https://talkingpointsmemo.com/where-things-stand/slotkin-hits-back-as-trump-doj-pushes-for-retribution
+  last_post_title: Of Course the Notoriously MAGA Georgia Election Board Was Involved
+    in the Fulton County Raid
+  last_post_description: Hello, happy Thursday! This week, we’ll be revisiting the
+    very bizarre and sinister revelation from a few months ago involving...
+  last_post_date: "2026-03-05T19:07:05Z"
+  last_post_link: https://talkingpointsmemo.com/the-franchise/of-course-the-notoriously-maga-georgia-election-board-was-involved-in-the-fulton-county-raid
   last_post_categories:
-  - DOJ
-  - Elissa Slotkin
-  - Jeanine Pirro
-  - Pam Bondi
-  - Preet Bharara
-  - Where Things Stand
+  - 2020 elections
+  - DOGE
+  - Donald Trump
+  - Fulton County
+  - The Franchise
+  - redisricting
   last_post_language: ""
-  last_post_guid: 4c96466434820d716e88d5ca06210b3b
+  last_post_guid: 8eb3f0cfd5103ef58cb7fb0b956aa1dc
   score_criteria:
     cats: 0
     description: 3

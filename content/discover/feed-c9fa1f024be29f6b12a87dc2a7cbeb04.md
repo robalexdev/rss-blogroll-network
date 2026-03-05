@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Model T Comes to Silicon Valley
-  last_post_description: In 1908, 253 American automobile manufacturers competed for
-    the market1. By 1929, just 44 remained. The assembly line didn’t just change how
-    cars were made. It changed who got to make them
-  last_post_date: "2026-01-26T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/the-model-t-comes-to-silicon-valley/
+  last_post_title: Not Prompts, Blueprints
+  last_post_description: |-
+    I hate to micromanage & I’ve been micromanaging AI.
+    A few months ago, I’d use Claude for a familiar workflow : capturing notes from a meeting, drafting a follow-up email, updating the CRM,
+  last_post_date: "2026-03-04T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/filling-the-queue-for-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30b581d2afa068338075264143ff93a8
+  last_post_guid: 7152d2c468ffda10b07ef46a4bff549e
   score_criteria:
     cats: 0
     description: 3

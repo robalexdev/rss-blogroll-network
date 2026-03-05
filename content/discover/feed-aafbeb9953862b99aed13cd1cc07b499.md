@@ -25,19 +25,19 @@ params:
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#dodging'
+  - '#chart'
   relme: {}
-  last_post_title: NSA and IETF, part 3
-  last_post_description: 'Dodging the issues at hand. #pqcrypto #hybrids #nsa #ietf
-    #dodging'
-  last_post_date: "2025-12-01T17:36:05Z"
-  last_post_link: http://blog.cr.yp.to/20251123-dodging.html
+  last_post_title: NSA and IETF, part 6
+  last_post_description: 'The structure of the debate. #pqcrypto #hybrids #nsa #ietf
+    #chart'
+  last_post_date: "2026-02-21T19:12:46Z"
+  last_post_link: http://blog.cr.yp.to/20260221-structure.html
   last_post_categories:
   - '#pqcrypto'
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#dodging'
+  - '#chart'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:

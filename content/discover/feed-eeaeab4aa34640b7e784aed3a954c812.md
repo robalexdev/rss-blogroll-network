@@ -20,16 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Gemini-Powered Stock Analysis: Parsing Financial News for Automated
-    Trading Decisions'
-  last_post_description: Over the past weeks I built a small Go service that reads
-    Italian finance RSS feeds, extracts the article body, and asks Gemini for a buy/sell/hold
-    view for the tickers it finds. Below I show the
-  last_post_date: "2025-10-20T02:00:00Z"
-  last_post_link: https://pgaleone.eu/golang/vertexai/trading/2025/10/20/gemini-powered-stock-analysis-news-feeds/
+  last_post_title: Digital Excommunication
+  last_post_description: I was listening to a Radio24 program1 and the topic immediately
+    struck me. The episode is titled “La scomunica digitale”2 (Italian for Digital
+    Excommunication). In that episode, the radio host
+  last_post_date: "2026-01-27T08:00:00Z"
+  last_post_link: https://pgaleone.eu/europe/2026/01/27/digital-excommunication/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cfcaf27e69b22469118d6750602dd22a
+  last_post_guid: b0a7d840480a2cf1d4a4f727e7fc6358
   score_criteria:
     cats: 0
     description: 3

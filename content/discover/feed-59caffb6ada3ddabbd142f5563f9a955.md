@@ -1,6 +1,6 @@
 ---
 title: Weird and Deadly Interesting
-date: "2026-02-10T10:17:05Z"
+date: "2026-03-04T13:18:44Z"
 description: Personal blog and homepage of Ahmet Alphan Sabancı.
 params:
   feedlink: https://ahmetasabanci.com/feed/atom/
@@ -15,35 +15,40 @@ params:
   recommended: []
   recommender: []
   categories:
+  - AI
+  - Futures & Foresight
   - In English
+  - Linkler | Links
   - Not Defteri | Notebook
-  - Status Updates
-  - Weekstarter
-  - china
-  - globalism
-  - status report
-  - tigran hamasyan
-  - usa
-  - weekstarter
+  - citrini
+  - financial times
+  - foresight
+  - futures
+  - johannes kleske
+  - paul graham raven
+  - scenario planning
   relme: {}
-  last_post_title: Which Globalism? &#124; Weekstarter 07-2026
-  last_post_description: Weekstarter is here. This week's main topic is what we talk
-    about when we talk about globalism and which globalism is the one actually dying.
-  last_post_date: "2026-02-10T10:17:05Z"
-  last_post_link: https://ahmetasabanci.com/which-globalism-weekstarter-07-2026/
+  last_post_title: Notes On That 2028 Prediction
+  last_post_description: Let's talk about why the Citrini "scenario" falls short on
+    being a proper and useful scenario and why you shouldn't try to market your predictions
+    as scenarios — especially in times like these.
+  last_post_date: "2026-03-04T13:18:44Z"
+  last_post_link: https://ahmetasabanci.com/notes-on-that-2028-prediction/
   last_post_categories:
+  - AI
+  - Futures & Foresight
   - In English
+  - Linkler | Links
   - Not Defteri | Notebook
-  - Status Updates
-  - Weekstarter
-  - china
-  - globalism
-  - status report
-  - tigran hamasyan
-  - usa
-  - weekstarter
+  - citrini
+  - financial times
+  - foresight
+  - futures
+  - johannes kleske
+  - paul graham raven
+  - scenario planning
   last_post_language: ""
-  last_post_guid: cce0ad1112ef00c1056081e98d8a1d81
+  last_post_guid: 8c417be839d2bb7316fad668120bc8d7
   score_criteria:
     cats: 0
     description: 3

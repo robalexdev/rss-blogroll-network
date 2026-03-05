@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-01-24T13:12:08Z"
+date: "2026-03-04T01:53:08Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -30,14 +30,14 @@ params:
   categories:
   - 桌面游戏
   relme: {}
-  last_post_title: 介绍几款单人桌游
-  last_post_description: 上个月我花了不少时间在 dotAge 这个游戏中。我很喜欢这种通过精算规划应对确定风险的感觉。由于 dotAge
-  last_post_date: "2026-01-24T13:12:08Z"
-  last_post_link: https://blog.codingnow.com/2026/01/solo_boardgame.html
+  last_post_title: 'Star Trek : Captain''s Chair 初体验'
+  last_post_description: '今年过年，我沉迷于 Star Trek : Captain''s Chair 这款 2025'
+  last_post_date: "2026-03-04T01:53:08Z"
+  last_post_link: https://blog.codingnow.com/2026/03/star_trek_captains_chair.html
   last_post_categories:
   - 桌面游戏
   last_post_language: ""
-  last_post_guid: be999b66512993787bb19d38436bd168
+  last_post_guid: ef7aa7c27e8e6882f2cde18e978092f2
   score_criteria:
     cats: 0
     description: 3

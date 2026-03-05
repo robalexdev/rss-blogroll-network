@@ -20,22 +20,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
+  - RBAC
+  - SELinux
   - Software
-  - Virtualization
+  - Sysadmin
   relme: {}
-  last_post_title: Install a custom Kernel inside a VM
-  last_post_description: When debugging Qemu, it might be helpoful to instrument Linux
-    Kernel to see when interrupts get received, or see data on the other side of a
-    transfer. If you have to modify the Kernel on a regular
-  last_post_date: "2026-01-23T03:43:55Z"
-  last_post_link: https://adam.younglogic.com/2026/01/install-a-custom-kernel-inside-a-vm/
+  last_post_title: LImiting What an Agent can do
+  last_post_description: I do not work with AI tools. This is not advice from experience
+    of working with AI. It is advice from working with access controls in general.
+    Any agent has responsibility and authority.
+  last_post_date: "2026-03-02T22:40:38Z"
+  last_post_link: https://adam.younglogic.com/2026/03/limiting-what-an-agent-can-do/
   last_post_categories:
-  - Linux
+  - RBAC
+  - SELinux
   - Software
-  - Virtualization
+  - Sysadmin
   last_post_language: ""
-  last_post_guid: f8291303b4c6a3fcd662bd1c50b034a9
+  last_post_guid: 5d5e623f786d035f51e169994f7a42b5
   score_criteria:
     cats: 0
     description: 3

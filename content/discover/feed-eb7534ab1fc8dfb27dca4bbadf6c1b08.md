@@ -21,11 +21,12 @@ params:
   categories: []
   relme:
     https://danielprindii.com/blog: true
-  last_post_title: 'Miscellanea no 1: Hello World!'
+  last_post_title: 'Miscellanea no 3: About walled gardens, digital gardens and the
+    Web'
   last_post_description: Welcome to Miscellanea- a bi-weekly newsletter at the intersection
     of art, tech, and culture and how they influence …
-  last_post_date: "2026-01-22T11:00:00+01:00"
-  last_post_link: https://danielprindii.com/blog/miscellanea-no-1-hello-world
+  last_post_date: "2026-02-20T18:00:00+01:00"
+  last_post_link: https://danielprindii.com/blog/miscellanea-no-3-walled-gardens
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 6786701fb7219b464eb585f6456da80c

@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-02-14T16:40:49-05:00"
+date: "2026-03-03T06:46:52-05:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -457,6 +457,7 @@ params:
   - Nicolas Galeazzi
   - Nina Power
   - Nina Simone
+  - No Arms In The Arts
   - Nora Samaran
   - Nuar Alsadir
   - Oil
@@ -647,6 +648,7 @@ params:
   - William S. Burroughs
   - Wolfgang Tillmans
   - World Stage
+  - Xu Shaoyang
   - Yahya Al Hamarna
   - Yasmin Nair
   - Zoe S.C. Todd
@@ -668,32 +670,27 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: Adventures can be found anywhere, même dans un cauchemar at Mois
-    Multi in Quebec City.
+  last_post_title: Xu Shaoyang is coming to Montreal on March 6th!
   last_post_description: ""
-  last_post_date: "2026-02-12T10:15:44-05:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/02/adventures-can-be-found-anywhere-meme.html
+  last_post_date: "2026-03-01T13:55:58-05:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/02/xu-shaoyang-is-coming-to-montreal-on.html
   last_post_categories:
-  - Adventures Can Be Found Anywhere
-  - Bureau de l’APA
-  - Concept Touring
-  - Mois Multi
-  - PME-ART
+  - Xu Shaoyang
   last_post_language: ""
-  last_post_guid: ace90bd4aef8041da41e7ab3d37cff2b
+  last_post_guid: 8658e150c54b6804d17f263011417c99
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

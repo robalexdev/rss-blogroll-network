@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Astro-blog记录(8) - 主题半闭源/细节增加/评论迁移
+  last_post_title: Astro-blog记录(9) - 添加Webmention
   last_post_description: ""
-  last_post_date: "2026-01-28T21:01:00Z"
-  last_post_link: https://blog.asyncx.top/posts/2026-01-28/
+  last_post_date: "2026-02-25T17:02:00Z"
+  last_post_link: https://blog.asyncx.top/posts/2026-02-25/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 40a6a0ca1f64f7cfa73035ec84573570
+  last_post_guid: 7b1392fa60b8e58d51ddd0c46304b91e
   score_criteria:
     cats: 0
     description: 3

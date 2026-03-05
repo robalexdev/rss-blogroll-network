@@ -19,24 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Low Level Performance
   - Performance
-  - garbage-collector
-  - java
-  - jvm
+  - Vectorization
+  - binary search
+  - instruction level parallelism
+  - memory level parallelism
+  - outer loop vectorization
   relme: {}
-  last_post_title: Deep Dive in Java vs C++ Performance
-  last_post_description: For most of my career I lived in the world of C and C++,
-    and I honestly believed that these languages are the pinnacle of software performance.
-    But two months ago I started working at Azul, the maker
-  last_post_date: "2025-11-30T13:15:00Z"
-  last_post_link: https://johnnysswlab.com/deep-dive-in-java-vs-c-performance/?utm_source=rss&utm_medium=rss&utm_campaign=deep-dive-in-java-vs-c-performance
+  last_post_title: Exposing More Parallelism Is the Hidden Reason Why Some Vectorized
+    Loops Are Faster – Not Vectorization per se
+  last_post_description: I was preparing an article about Highway – portable vectorization
+    library by Google – so I ported a few examples from my vectorization workshop
+    from AVX to Highway. One of the examples was
+  last_post_date: "2026-02-26T22:39:52Z"
+  last_post_link: https://johnnysswlab.com/exposing-more-parallelism-is-the-hidden-reason-why-some-vectorized-loops-are-faster-not-vectorization-per-se/?utm_source=rss&utm_medium=rss&utm_campaign=exposing-more-parallelism-is-the-hidden-reason-why-some-vectorized-loops-are-faster-not-vectorization-per-se
   last_post_categories:
+  - Low Level Performance
   - Performance
-  - garbage-collector
-  - java
-  - jvm
+  - Vectorization
+  - binary search
+  - instruction level parallelism
+  - memory level parallelism
+  - outer loop vectorization
   last_post_language: ""
-  last_post_guid: dd88a29464d4bc49cc437d323853a6ac
+  last_post_guid: 8c80354b6a1351e5d36530a7297f7575
   score_criteria:
     cats: 0
     description: 3

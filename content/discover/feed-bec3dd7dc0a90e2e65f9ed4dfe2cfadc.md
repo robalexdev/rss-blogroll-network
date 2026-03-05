@@ -1,6 +1,6 @@
 ---
 title: Dante's Lab.
-date: "2026-02-11T18:14:51+01:00"
+date: "2026-02-26T21:08:48+01:00"
 description: A blog about development, IT security, Linux, Unity and geeky things.
 params:
   feedlink: https://feeds.feedburner.com/blogspot/joCgv
@@ -43,18 +43,20 @@ params:
   - virtualization
   - viruses
   relme: {}
-  last_post_title: Creating Packages for Unity
-  last_post_description: Reusability is key in software development. Unity is no exception.
-    After you’ve spent some time developing games, sooner or later you’ll come across
-    problems you solved previously and you’ll
-  last_post_date: "2026-02-11T18:14:51+01:00"
-  last_post_link: http://www.dlab.ninja/2026/02/creating-packages-for-unity.html
+  last_post_title: My Impressions of Zenva Courses
+  last_post_description: As many of you know, on my X profile I usually share packs
+    of assets, courses, and books that I find online at good prices. Some time ago,
+    a pack of Zenva courses appeared on Humble Bundle. Based on
+  last_post_date: "2026-02-26T21:08:48+01:00"
+  last_post_link: http://www.dlab.ninja/2026/02/my-impressions-of-zenva-courses.html
   last_post_categories:
-  - C#
+  - Godot
   - Unity
+  - course
+  - game design
   - game development
   last_post_language: ""
-  last_post_guid: caea888434e6ac0007f718f1fca8f135
+  last_post_guid: 3765847a47a6ec610fd4c8f8ad1de161
   score_criteria:
     cats: 5
     description: 3

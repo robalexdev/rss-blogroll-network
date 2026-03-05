@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Broken proofs and broken provers
-  last_post_description: "People expect perfection. Consider the reaction when someone
-    who has been vaccinated \nagainst a particular disease nevertheless dies of it.\nMathematical
-    proof carries the aura of perfection, but"
-  last_post_date: "2026-01-15T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/01/15/Broken_proofs.html
+  last_post_title: 'Memories: doing my PhD at Stanford, under John L Hennessy'
+  last_post_description: "When young researchers get together, one topic of conversation
+    is “who supervised your PhD?”\nBack in the day, Rod Burstall was often named.
+    \nAlso mentioned were Robin Milner, Dana Scott and"
+  last_post_date: "2026-02-13T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/02/13/John_Hennessy.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6cdf698f6fa88262db09205f65c631ea
+  last_post_guid: 62cbd66961518515180b79079e4cdbaf
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
 title: Rands in Repose
 date: "1970-01-01T00:00:00Z"
-description: ""
+description: Stories about the humans who build software
 params:
   feedlink: https://randsinrepose.com/feed/
   feedtype: rss
@@ -23,19 +23,19 @@ params:
   categories:
   - Management
   relme: {}
-  last_post_title: Sometimes Your Job is to Stay the Hell Out of the Way
-  last_post_description: I wrote a piece a long time ago about The Wolf. It’s my personal
-    take on the mythical 10x engineer, except that they aren’t a myth. They exist.
-    I’ve seen them. Many of them. The article was
-  last_post_date: "2026-01-26T16:37:10Z"
-  last_post_link: https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/
+  last_post_title: The Complicators, The Drama Aggregators, and The Avoiders
+  last_post_description: It’s hard to tell what drives each human. This is why my
+    usual last interview question is a very blunt, “What do you want to be when you
+    grow up?” I ask everyone regardless of the amount of
+  last_post_date: "2026-03-02T15:46:39Z"
+  last_post_link: https://randsinrepose.com/archives/the-complicators-the-drama-aggregators-and-the-avoiders/
   last_post_categories:
   - Management
   last_post_language: ""
-  last_post_guid: 1d0335b283f7bedb4abe3ab7227b852d
+  last_post_guid: 5a02f804dfc9b7b0215406b7fe3b5e39
   score_criteria:
     cats: 0
-    description: 0
+    description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -45,7 +45,7 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

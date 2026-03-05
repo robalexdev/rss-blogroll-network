@@ -17,32 +17,31 @@ params:
   recommender: []
   categories:
   - AIGC
-  - AI对话隐私风险
-  - AI模型激励机制
-  - Anthropic超级碗广告
-  - ChatGPT商业化
-  - Claude嘲讽OpenAI
-  - OpenAI加广告
-  - 山姆奥特曼
-  - 谷歌Meta用户画像
+  - ChatGPT退订风暴
+  - Claude Code对比Openclaw
+  - GPT5.3 Instant
+  - OpenAI国防部合同争议
+  - Sam Altman骑墙派
+  - 幻觉降低与信息整合
+  - 成人模式与年龄验证
+  - 拒答减少与安全策略
   relme: {}
-  last_post_title: Anthropic硬刚OpenAI：2000万超级碗广告引发的AI伦理战
-  last_post_description: 你是否担心未来的 **ChatGPT对话充满广告**？Anthropic豪掷2000万美金投放 **超级碗广告**，无情嘲讽OpenAI的商业化野心，引发
-    **山姆奥特曼**
-  last_post_date: "2026-02-06T00:56:03Z"
-  last_post_link: https://lukefan.com/2026/02/06/anthropic-vs-openai-super-bowl-ads-controversy/
+  last_post_title: GPT5.3 Instant 背后风暴：QuitGPT 潮、国防合同争议与奥特曼骑墙
+  last_post_description: OpenAI 紧急上线 GPT5.3 Instant，被视为应对“quit
+  last_post_date: "2026-03-05T00:55:13Z"
+  last_post_link: https://lukefan.com/2026/03/05/openai-gpt-5-3-instant-launch-faster-chat-pricing-quit-gpt-response/
   last_post_categories:
   - AIGC
-  - AI对话隐私风险
-  - AI模型激励机制
-  - Anthropic超级碗广告
-  - ChatGPT商业化
-  - Claude嘲讽OpenAI
-  - OpenAI加广告
-  - 山姆奥特曼
-  - 谷歌Meta用户画像
+  - ChatGPT退订风暴
+  - Claude Code对比Openclaw
+  - GPT5.3 Instant
+  - OpenAI国防部合同争议
+  - Sam Altman骑墙派
+  - 幻觉降低与信息整合
+  - 成人模式与年龄验证
+  - 拒答减少与安全策略
   last_post_language: ""
-  last_post_guid: 29e86a1975c6d4aecb841f5aaf60c639
+  last_post_guid: 778b3124da1155fb758bbe33840d1eb4
   score_criteria:
     cats: 0
     description: 3

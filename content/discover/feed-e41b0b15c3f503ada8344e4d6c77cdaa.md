@@ -19,30 +19,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Adolphus Bussing
   - Cat Stories
-  - Cats in the Mews
-  - Father Divine
-  - Harlem history
-  - King Towers
-  - Sweet Daddy Grace
+  - Cats of Old New York
+  - Columbia University
+  - Elgin Botanic Garden
+  - Margaret Olivia Slocum Sage
+  - New York City History
+  - Russell Sage
   relme: {}
-  last_post_title: '1908: Haggerino the Harlem Tramp Cat of West 115th Street'
-  last_post_description: "A tale of cats, spiritual leaders, a war on rats, and a
-    baptism by fire hose. In other words, this is not your average cat story. \nThe
-    post 1908: Haggerino the Harlem Tramp Cat of West 115th Street"
-  last_post_date: "2026-01-10T23:06:43Z"
-  last_post_link: https://hatchingcatnyc.com/2026/01/10/haggerino-harlem-cat-west-115th-street/?utm_source=rss&utm_medium=rss&utm_campaign=haggerino-harlem-cat-west-115th-street
+  last_post_title: '1905: Malta, the Wandering Cat of NYC Financier Russell Sage'
+  last_post_description: New York City financier Russell Sage, aka Uncle Russell,
+    had a reputation on Wall Street as being a spendthrift, a workaholic, and a ruthless
+    money lender without emotion. So when he failed to show
+  last_post_date: "2026-02-20T23:53:48Z"
+  last_post_link: https://hatchingcatnyc.com/2026/02/20/malta-wandering-cat-nyc-financier-russell-sage/?utm_source=rss&utm_medium=rss&utm_campaign=malta-wandering-cat-nyc-financier-russell-sage
   last_post_categories:
-  - Adolphus Bussing
   - Cat Stories
-  - Cats in the Mews
-  - Father Divine
-  - Harlem history
-  - King Towers
-  - Sweet Daddy Grace
+  - Cats of Old New York
+  - Columbia University
+  - Elgin Botanic Garden
+  - Margaret Olivia Slocum Sage
+  - New York City History
+  - Russell Sage
   last_post_language: ""
-  last_post_guid: c125cf5d8cc030f427d29f391f64b2e1
+  last_post_guid: 7fdf8e7969cc81dbd68117de5aed9fa0
   score_criteria:
     cats: 0
     description: 3

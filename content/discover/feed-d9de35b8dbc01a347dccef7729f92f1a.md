@@ -1,6 +1,6 @@
 ---
 title: Secret Weblog
-date: "2025-03-27T00:00:00Z"
+date: "2026-02-11T00:00:00Z"
 description: Martijn Faassen's secret weblog
 params:
   feedlink: https://blog.startifact.com/atom.xml
@@ -19,14 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Xee: A Modern XPath and XSLT Engine in Rust'
-  last_post_description: I announce Xee, the implementation of XPath and XSLT in Rust
-    that I've been working on for the last two years.
-  last_post_date: "2025-03-27T00:00:00Z"
-  last_post_link: https://blog.startifact.com/posts/xee/
+  last_post_title: Becoming More
+  last_post_description: Empowering developers in ways that matter.
+  last_post_date: "2026-02-11T00:00:00Z"
+  last_post_link: https://blog.startifact.com/posts/becoming-more/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d09e5cd4327e916959f285c05c4a6049
+  last_post_guid: 78e2393bb4e342872f9d6538a7b16bd8
   score_criteria:
     cats: 0
     description: 3

@@ -22,15 +22,14 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: when rust ≠ performance. a lesson in devex.
-  last_post_description: |-
-    I love working at oxen because we strive to be the fastest data versioning tool in the market. Which is why we often do multi terabyte benchmarks on each commands that we support
-    , (add, commit, etc
-  last_post_date: "2026-02-02T00:00:00Z"
-  last_post_link: https://suriya.cc/tech/performance/oxen-add/
+  last_post_title: (mostly) successful cases of software rewrites with agents in 2026
+  last_post_description: In the past few weeks there have been examples of successful
+    agent usage at a shocking scale. some in production no less.
+  last_post_date: "2026-02-26T00:00:00Z"
+  last_post_link: https://suriya.cc/essays/agents/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fda3361fdaf491e7d7b0066726ffe34
+  last_post_guid: 5668fb1ca9cdeeb10235bf8d4e98dd57
   score_criteria:
     cats: 0
     description: 3

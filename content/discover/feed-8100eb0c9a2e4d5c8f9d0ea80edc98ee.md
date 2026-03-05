@@ -27,41 +27,44 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Engineering Blogs
+    description: ""
+    id: 26cb52e32caff9995ee1efaeda73638c
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Fascism Lite
-  - Meet John Doe
-  - News
-  - Washington Post
-  - classic film
-  - classic films
-  - democracy
-  - fascism
-  - film
+  - Pete Zeldman
+  - brother
+  - composers
+  - drummers
+  - drumming
+  - drums
+  - glamorous
+  - music
+  - polyrhythms
   relme:
     https://zeldman.com/: true
-  last_post_title: “A streamlined newspaper for a streamlined era”
+  last_post_title: My brother, the rhythmic conceptualist
   last_post_description: |-
-    Posted today for no particular reason.
-    The post “A streamlined newspaper for a streamlined era” appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2026-02-04T15:56:48Z"
-  last_post_link: https://zeldman.com/2026/02/04/a-streamlined-newspaper-for-a-streamlined-era/
+    Remembrance of beats passed.
+    The post My brother, the rhythmic conceptualist appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2026-03-05T12:45:11Z"
+  last_post_link: https://zeldman.com/2026/03/05/my-brother-the-rhythmic-conceptualist/
   last_post_categories:
-  - Fascism Lite
-  - Meet John Doe
-  - News
-  - Washington Post
-  - classic film
-  - classic films
-  - democracy
-  - fascism
-  - film
+  - Pete Zeldman
+  - brother
+  - composers
+  - drummers
+  - drumming
+  - drums
+  - glamorous
+  - music
+  - polyrhythms
   last_post_language: ""
-  last_post_guid: 772a668eddc2e3678f0d270686ac3850
+  last_post_guid: 7ca64cf49b677b86555506fff98317af
   score_criteria:
     cats: 0
     description: 3

@@ -15,16 +15,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 教程
+  - 资讯
   relme: {}
-  last_post_title: 如何为 YouTube 视频创作寻找源源不断的创意？
-  last_post_description: 作为一名 YouTube 创作者，你是否也经历过这种时刻：上一个视频刚发布，喜悦还没散去，焦虑感却随之而来——“下一个视频该做什么？”
-  last_post_date: "2026-01-29T03:01:54Z"
-  last_post_link: https://topstip.com/how-to-find-an-endless-stream-of-creative-ideas-for-youtube-videos/
+  last_post_title: CALAI 卡路里追踪APP深度调研报告及产品逻辑空白市场分析
+  last_post_description: CAL AI 深度调研报告 产品逻辑 · 市场逻辑 · 用户逻辑 · 空白机会识别 面向独立开发者的高 ARR 产品机会研究
+    $34M ARR（2025年） 5M+ 注册用户 4.9★ App Store
+  last_post_date: "2026-03-05T08:25:33Z"
+  last_post_link: https://topstip.com/cal-ai-in-depth-research-report-and-market-analysis-of-product-logic-gaps/
   last_post_categories:
-  - 教程
+  - 资讯
   last_post_language: ""
-  last_post_guid: 4a01d27a1a35172e136d841cfcb6c3b0
+  last_post_guid: 5e64b0388357f3965b689296b9cfa1ac
   score_criteria:
     cats: 0
     description: 3

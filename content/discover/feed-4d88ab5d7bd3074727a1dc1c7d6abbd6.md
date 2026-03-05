@@ -104,15 +104,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Avoiding Dead Links
-  last_post_description: I currently subscribe to the basic micro.blog plan and I
-    have been monitoring the features that Manton adds to premium for any that I might
-    find useful. Today Manton posted a video demonstrating a
-  last_post_date: "2026-02-04T12:33:19-05:00"
-  last_post_link: https://frankmcpherson.blog/2026/02/04/avoiding-dead-links.html
+  last_post_title: What Is Low Cost?
+  last_post_description: Do you think $599 is a low price? One cannot answer this
+    question without knowing for what and in how that what compares to others in the
+    market. Today Apple announced the MacBook Neo, which as Wired
+  last_post_date: "2026-03-04T11:44:40-05:00"
+  last_post_link: https://frankmcpherson.blog/2026/03/04/what-is-low-cost.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f45050b116cab110d9578d30dc2518f7
+  last_post_guid: 0ef28b6de4d2cd4475e00ea715778aaa
   score_criteria:
     cats: 0
     description: 0

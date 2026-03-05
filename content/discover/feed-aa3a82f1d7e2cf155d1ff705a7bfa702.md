@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2026-01-21T18:30:56+01:00"
+date: "2026-02-02T19:16:23+01:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -18,38 +18,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - CPython
-  - Concurrency
-  - Concurrency Models
-  - Dynamic Languages
-  - Interpreters
-  - Language Design
-  - Language Implementation
-  - Parallelism
-  - Presentation
-  - Python
+  - Linz
+  - Personal
   - Research
+  - Teaching
   relme: {}
-  last_post_title: Python, Is It Being Killed by Incremental Improvements?
-  last_post_description: Over the past years, two major players invested into the
-    future of Python. Microsoft’s Faster CPython team has pushed ahead with impressive
-    performance improvements for the CPython interpreter,
-  last_post_date: "2026-01-20T14:02:15+01:00"
-  last_post_link: https://stefan-marr.de/2026/01/python-killed-by-incremental-improvements-questionmark/
+  last_post_title: 'Programming Language Implementation: In Theory, We Understand.
+    In Practice, We Wish We Would.'
+  last_post_description: It’s February! This means I have been at the JKU for four
+    months. Four months with teaching Compiler Construction and System Software, lots
+    of new responsibilities (most notably signing off on
+  last_post_date: "2026-02-02T15:15:10+01:00"
+  last_post_link: https://stefan-marr.de/2026/02/programming-language-implementation-in-theory-we-understand-in-practice-we-wish-we-would/
   last_post_categories:
-  - CPython
-  - Concurrency
-  - Concurrency Models
-  - Dynamic Languages
-  - Interpreters
-  - Language Design
-  - Language Implementation
-  - Parallelism
-  - Presentation
-  - Python
+  - Linz
+  - Personal
   - Research
+  - Teaching
   last_post_language: ""
-  last_post_guid: 2f928d428ef356d3f148090285aff503
+  last_post_guid: 93a17698b11f4c214c996f55dcf24773
   score_criteria:
     cats: 0
     description: 3

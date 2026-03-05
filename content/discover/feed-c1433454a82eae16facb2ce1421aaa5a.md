@@ -19,21 +19,21 @@ params:
   - https://frankmeeuwsen.com/feed.xml
   categories:
   - Digitale transformatie
-  - Geschiedenis
-  - Philips
+  - Klantenservice
+  - Kunstmatige Intelligentie
   relme: {}
-  last_post_title: 'Van gloeilamp naar healthtech: de digitale transformatie van Philips'
+  last_post_title: De Customer Service Transformation van Lufthansa
   last_post_description: |-
-    Philips werd in 1891 opgericht door Gerard Philips, met financiële steun van vader Frederik en later commercieel bijgestaan door broer […]
-    Het bericht Van gloeilamp naar healthtech: de digitale
-  last_post_date: "2026-02-04T19:32:40Z"
-  last_post_link: https://koneksa-mondo.nl/2026/02/04/van-gloeilamp-naar-zorgplatform-de-digitale-transformatie-van-philips/
+    De bijdrage van Wirths en Noack laat zien hoe een traditionele luchtvaartmaatschappij haar serviceorganisatie opnieuw vormgeeft in een sector die […]
+    Het bericht De Customer Service Transformation
+  last_post_date: "2026-03-04T07:53:06Z"
+  last_post_link: https://koneksa-mondo.nl/2026/03/04/de-customer-service-transformation-van-lufthansa/
   last_post_categories:
   - Digitale transformatie
-  - Geschiedenis
-  - Philips
+  - Klantenservice
+  - Kunstmatige Intelligentie
   last_post_language: ""
-  last_post_guid: 952f9461848425ca7c0d2d2534c33b6b
+  last_post_guid: a9fa9c668ec40fdc60b315a2e036ebfd
   score_criteria:
     cats: 0
     description: 3

@@ -1,18 +1,10 @@
 ---
 title: Nate Meyvis
-date: "2026-02-05T20:21:34Z"
+date: "2026-03-05T14:26:38Z"
 description: |-
   I am an itinerant software engineer who likes to raise children, read, and memorize things.
 
-  If you're not sure whether you should email me, you .
-
-
-
-
-
-
-
-  ...
+  If you're not sure whether you should email me, you probably s...
 params:
   feedlink: https://www.natemeyvis.com/feed/
   feedtype: atom
@@ -30,20 +22,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - nuts and bolts
+  - Codex
+  - future of work
+  - generative AI
   - software
-  - testing
   relme: {}
-  last_post_title: Beware fake code
+  last_post_title: Codex, Poincare, and living through the early days
   last_post_description: ""
-  last_post_date: "2026-02-05T20:18:55Z"
-  last_post_link: https://www.natemeyvis.com/beware-fake-code/
+  last_post_date: "2026-03-05T02:24:36Z"
+  last_post_link: https://www.natemeyvis.com/codex-poincare-and-living-through-the-early-days/
   last_post_categories:
-  - nuts and bolts
+  - Codex
+  - future of work
+  - generative AI
   - software
-  - testing
   last_post_language: ""
-  last_post_guid: 2968c90a609b88bec334030c19dc6c61
+  last_post_guid: ba71d16b81520f22a0b4a433baccd2f4
   score_criteria:
     cats: 0
     description: 3

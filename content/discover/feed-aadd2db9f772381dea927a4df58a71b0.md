@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Can I finally start using Wayland in 2026?
+  last_post_title: Coding Agent VMs on NixOS with microvm.nix
   last_post_description: ""
-  last_post_date: "2026-01-04T08:55:00+01:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/
+  last_post_date: "2026-02-01T09:00:00+01:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0eb07d85016d2ab3394ae1ec7b38d039
+  last_post_guid: 722912d89c6c9d3da67dcff10d3dba4c
   score_criteria:
     cats: 0
     description: 0

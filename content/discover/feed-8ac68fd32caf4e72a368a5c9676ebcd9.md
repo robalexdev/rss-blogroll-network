@@ -1,6 +1,6 @@
 ---
 title: Andrew Ayer - Blog
-date: "2025-12-10T18:36:52Z"
+date: "2026-02-19T12:25:21Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
@@ -33,14 +33,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Certificate Authorities Are Once Again Issuing Certificates That
-    Don't Work
+  last_post_title: Why IP Address Certificates Are Dangerous and Usually Unnecessary
   last_post_description: ""
-  last_post_date: "2025-12-10T18:36:52Z"
-  last_post_link: https://www.agwa.name/blog/post/cas_are_issuing_broken_certificates_again
+  last_post_date: "2026-02-19T12:25:21Z"
+  last_post_link: https://www.agwa.name/blog/post/ip_address_certs
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 48e4b9408f3e6d506b39adb62e14b4a8
+  last_post_guid: 422fbdfefdfe420e01ca84544695e27d
   score_criteria:
     cats: 0
     description: 0

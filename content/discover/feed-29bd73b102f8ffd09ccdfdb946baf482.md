@@ -19,16 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why Logic Matters for Philosophy, and why Philosophy Matters for
-    Logic
-  last_post_description: This is a longer, more relaxed and interactive version of
-    the talk â€œWhy Logic Matters for Philosophy, and why Philosophy Matters for Logicâ€�
-    that I first gave as a part of the Inaugural
-  last_post_date: "2025-11-18T19:30:00Z"
-  last_post_link: https://consequently.org/presentation/2025/wlmfp-wpmfl-p/
+  last_post_title: Must Do &ldquo;Must Do Better&rdquo; Better
+  last_post_description: 'Abstract: Starting with the his much-discussed 2006 paper
+    “Must Do Better,’ Timothy Williamson has offered a series of methodological reflections
+    and recommendations for philosophers. Good'
+  last_post_date: "2026-03-03T15:00:00Z"
+  last_post_link: https://consequently.org/presentation/2026/must-do-mdb-better-glasgow/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08671471c9f34c28eaf47a5e24994790
+  last_post_guid: 2d1d36645c0e36e3d6e881086238a50f
   score_criteria:
     cats: 0
     description: 3

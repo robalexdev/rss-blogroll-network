@@ -34,34 +34,32 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://alexsci.com/blog/rss.xml
   categories:
-  - Life
-  - dog
-  - frank
+  - Links
+  - harrison ford
   relme: {}
-  last_post_title: Happy Birthday Frank
-  last_post_description: Frank is 6 today. He loves his little brother so much and
-    we love Frank.
-  last_post_date: "2025-12-08T16:00:00Z"
-  last_post_link: https://josh.blog/2025/12/happy-birthday-frank-2
+  last_post_title: Harrison Ford Lifetime Achievement Award
+  last_post_description: This is a really touching speech by Harrison Ford. I grew
+    up with Han Solo and Indiana Jones and now I’m enjoying his performance in Shrinking.
+  last_post_date: "2026-03-03T17:18:13Z"
+  last_post_link: https://josh.blog/2026/03/harrison-ford-lifetime-achievement-award
   last_post_categories:
-  - Life
-  - dog
-  - frank
+  - Links
+  - harrison ford
   last_post_language: ""
-  last_post_guid: 7b19dba3786eb90ff43bd72a05911797
+  last_post_guid: 3dfa5e7cddbd6a9aa60c99e880f83135
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

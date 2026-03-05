@@ -18,22 +18,22 @@ params:
   recommender: []
   categories:
   - 全部笔记
-  - 工具repo
-  - 绘画工具
+  - 网站/课程repo
+  - 网课
   relme:
     https://heiheihei.ca/: true
-  last_post_title: 2023-2026 爱用材料总结
+  last_post_title: 油画色彩练习课程repo（ painting without drawing）
   last_post_description: |-
-    新的一年，新的绘画材料！！！！
-    2023-2026 爱用材料总结最先出现在小触手的书房。
-  last_post_date: "2026-01-18T21:32:20Z"
-  last_post_link: https://heiheihei.ca/2024-my-fav-materials/
+    虽然是illustration major毕业的，但是我几乎没有学过painting，大学的课程里，我感觉只有 […]
+    油画色彩练习课程repo（ painting without
+  last_post_date: "2026-02-24T23:48:41Z"
+  last_post_link: https://heiheihei.ca/painting-without-drawing/
   last_post_categories:
   - 全部笔记
-  - 工具repo
-  - 绘画工具
+  - 网站/课程repo
+  - 网课
   last_post_language: ""
-  last_post_guid: 87a2360681433e93761811b7beca33cd
+  last_post_guid: ba225d3a0404baca5a9d12fbb88b9e87
   score_criteria:
     cats: 0
     description: 3

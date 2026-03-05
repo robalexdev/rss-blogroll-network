@@ -22,16 +22,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Anthropic's Claude Constitution; or love as the solution to the
-    AI alignment problem
+  last_post_title: Links (95)
   last_post_description: |-
-    "The Claude Constitution is a beautiful document. Incomplete and overly verbose in some ways, but in a necessary way", I said on Twitter.
-    It is beautiful in that it is self-aware, transparent, honest
-  last_post_date: "2026-01-26T00:00:00Z"
-  last_post_link: https://nintil.com/claude-constitution/
+    The use of the Forced Perspective Technique in Lord of the Rings
+    To my surprise, OpenAI seemingly didn't get their money back for GPT5's training if one includes the costs of running the org. I have
+  last_post_date: "2026-02-28T00:00:00Z"
+  last_post_link: https://nintil.com/links-95/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9875d8327a8d94a758a72e9ea83f3824
+  last_post_guid: 7ae960fbd8439d9dad04d9156261e9d5
   score_criteria:
     cats: 0
     description: 0

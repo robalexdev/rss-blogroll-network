@@ -21,6 +21,9 @@ params:
   - title: Kernel Planet
     description: ""
     id: 6e33b4599e9d3daca1002bbfb71ba180
+  - title: Dev Links
+    description: ""
+    id: ea93cf1ff83750f05626970fb8075275
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
@@ -28,15 +31,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Leaving Intel
-  last_post_description: I've resigned from Intel and accepted a new opportunity.
-    If you are an Intel employee, you might have seen my fairly long email that summarized
-    what I did in my 3.5 years. Much of this is public
-  last_post_date: "2025-12-05T00:00:00+11:00"
-  last_post_link: http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+  last_post_title: Why I joined OpenAI
+  last_post_description: The staggering and fast-growing cost of AI datacenters is
+    a call for performance engineering like no other in history; it's not just about
+    saving costs – it's about saving the planet. I have joined
+  last_post_date: "2026-02-07T00:00:00+11:00"
+  last_post_link: http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f0fe1b0706a9f3ea71d63ec3fdf0d262
+  last_post_guid: 47a0210c82de071ff9916df77eff8745
   score_criteria:
     cats: 0
     description: 0

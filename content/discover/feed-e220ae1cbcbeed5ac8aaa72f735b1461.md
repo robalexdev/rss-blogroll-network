@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-02-15T00:32:27-05:00"
+date: "2026-03-01T15:23:02-05:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://feeds.feedburner.com/NerdlyPleasures
@@ -132,16 +132,16 @@ params:
   relme:
     https://nerdlypleasures.blogspot.com/: true
     https://www.blogger.com/profile/04409413307024477304: true
-  last_post_title: 'DOS Commands Across Home Computers: Apple, IBM & Commodore'
+  last_post_title: Observations on Early Versions of Wizardry
   last_post_description: ""
-  last_post_date: "2026-02-07T15:41:51-05:00"
-  last_post_link: http://nerdlypleasures.blogspot.com/2025/06/dos-commands-across-home-computers.html
+  last_post_date: "2026-03-01T15:23:02-05:00"
+  last_post_link: http://nerdlypleasures.blogspot.com/2026/03/observations-on-early-versions-of.html
   last_post_categories:
   - Apple II
-  - Commodore
-  - DOS
+  - IBM PC
+  - RPG
   last_post_language: ""
-  last_post_guid: 0cc9b2e4055dc4ed8fa612067989cccc
+  last_post_guid: b4f75aa4e403a8bdb5209a6fc733a4a8
   score_criteria:
     cats: 5
     description: 3

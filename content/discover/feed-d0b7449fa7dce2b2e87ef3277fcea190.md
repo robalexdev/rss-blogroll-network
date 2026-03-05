@@ -16,21 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Act V
   - Comics
-  - Dark Science
+  - DC Minis
+  - Dark Science High School
   relme: {}
-  last_post_title: 'Dark Science #179 – Shadows of the Old War'
-  last_post_description: 'The post Dark Science #179 – Shadows of the Old War appeared
-    first on Dresden Codak.'
-  last_post_date: "2026-02-11T01:10:06Z"
-  last_post_link: https://dresdencodak.com/2026/02/10/dark-science-179-shadows-of-the-old-war/
+  last_post_title: 'DC Minis #18 – Dark Science High School (Part 11)'
+  last_post_description: |-
+    New to Dresden Codak? These mini-comics alternate with my MEGA-COMICS! The current storyline is Dark Science and you can catch up right here.  
+    The post DC Minis #18 – Dark Science High School
+  last_post_date: "2026-03-02T07:13:55Z"
+  last_post_link: https://dresdencodak.com/2026/03/02/dc-minis-18-dark-science-high-school-part-11/
   last_post_categories:
-  - Act V
   - Comics
-  - Dark Science
+  - DC Minis
+  - Dark Science High School
   last_post_language: ""
-  last_post_guid: c27c195127ddd5aff14f3db0e41b9164
+  last_post_guid: 4d05aac9bae1c23d8f0b16a642732095
   score_criteria:
     cats: 0
     description: 3

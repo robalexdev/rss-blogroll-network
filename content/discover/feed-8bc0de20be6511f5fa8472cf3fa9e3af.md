@@ -26,15 +26,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Casteist by Design: How Discrimination Configures India’s Platform
-    Economy'
-  last_post_description: Caste driven development, implementation and popularity of
-    Indian worker management and delivery apps.
-  last_post_date: "2025-11-04T15:48:06Z"
-  last_post_link: https://logicmag.io/land/casteist-by-design-how-discrimination-configures-indias-platform-economy
+  last_post_title: the joke / less hope by Danez Smith
+  last_post_description: Two poems from Smith’s latest collection, Bluff.
+  last_post_date: "2026-03-04T17:00:06Z"
+  last_post_link: https://logicmag.io/land/the-joke-less-hope-by-danez-smith
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c35f39e4455335a54558fa6cd59797e1
+  last_post_guid: beb84d4edebb1594dae0ba9b4b704a91
   score_criteria:
     cats: 0
     description: 3

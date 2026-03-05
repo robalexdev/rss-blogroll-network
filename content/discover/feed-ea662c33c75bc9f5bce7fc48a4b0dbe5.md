@@ -1,6 +1,6 @@
 ---
 title: Sweeping The Nation
-date: "2026-01-30T00:34:56Z"
+date: "2026-02-25T12:01:36Z"
 description: UK-originating new music-slanted hullabaloo. Est. 2005
 params:
   feedlink: https://sweepingthenation.blogspot.com/atom.xml

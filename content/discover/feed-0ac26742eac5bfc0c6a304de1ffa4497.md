@@ -1,13 +1,12 @@
 ---
-title: THE NON-TECHNICAL FOUNDER
+title: THE STRATEGIC NON-TECHNICAL FOUNDER
 date: "1970-01-01T00:00:00Z"
-description: Build Solo and Ship Fast with No-Code Tools and AI Agents
+description: Decision intelligence before building with AI
 params:
   feedlink: https://abechallah.com/feed/
   feedtype: rss
   feedid: 0ac26742eac5bfc0c6a304de1ffa4497
-  websites:
-    https://abechallah.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-02-10T10:59:53-08:00"
+date: "2026-03-02T02:35:03-08:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:

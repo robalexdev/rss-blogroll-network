@@ -1,9 +1,8 @@
 ---
 title: Mike's Blog
 date: "1970-01-01T00:00:00Z"
-description: Hi there, I’m Mike—a former middle school teacher pivoting into tech,
-  trading lesson plans for Python scripts and classrooms for variables. Much like
-  MJ, ...
+description: "MikeLikeJordan coming through! \n\nHi there, I’m Mike—a former middle
+  school teacher pivoting into tech, trading lesson plans for Python scripts and classroo..."
 params:
   feedlink: https://mikelikejordan.bearblog.dev/feed/?type=rss
   feedtype: rss

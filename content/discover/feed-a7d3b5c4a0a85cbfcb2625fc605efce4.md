@@ -34,30 +34,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ARIA
-  - WCAG
+  - UX
   - Web
   - accessibility
-  - html
-  - standards
+  - browser
+  - rant
+  - usability
   relme:
     https://adrianroselli.com/: true
     https://toot.cafe/@aardrian: true
-  last_post_title: You Know What? Just Don’t Split Words into Letters
-  last_post_description: This is an unplanned part two for Barriers from Links with
-    ARIA. The title reflects my exasperation because this isn’t new, I’ve simply failed
-    to be explicit about it over the last decade or so.
-  last_post_date: "2026-02-05T17:45:05Z"
-  last_post_link: https://adrianroselli.com/2026/02/you-know-what-just-dont-split-words-into-letters.html
+  last_post_title: Your Browser Can Already Speak a Page
+  last_post_description: Users can customize the features built into the browser,
+    something not often available from third-party approaches. Is an “AI” company
+    offering to provide spoken versions of your pages for users?
+  last_post_date: "2026-03-05T14:13:59Z"
+  last_post_link: https://adrianroselli.com/2026/03/your-browser-can-already-speak-a-page.html
   last_post_categories:
-  - ARIA
-  - WCAG
+  - UX
   - Web
   - accessibility
-  - html
-  - standards
+  - browser
+  - rant
+  - usability
   last_post_language: ""
-  last_post_guid: 07f7eeed5c311a02a68399184018d3ea
+  last_post_guid: e4cb901b894fe55784cd8b80bda5b275
   score_criteria:
     cats: 0
     description: 3

@@ -24,13 +24,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLM Memory
-  last_post_description: Some thoughts on implementations
-  last_post_date: "2025-05-19T15:07:00Z"
-  last_post_link: https://grantslatton.com/llm-memory
+  last_post_title: Every Man a Microservice
+  last_post_description: Contra Conway
+  last_post_date: "2026-02-08T17:54:20Z"
+  last_post_link: https://grantslatton.com/every-man-a-microservice
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3cdb939a7331d57191cb998e48ea5b67
+  last_post_guid: 13952ba2bb7d735564f7051406bac25f
   score_criteria:
     cats: 0
     description: 3

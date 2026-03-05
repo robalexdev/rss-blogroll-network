@@ -16,22 +16,25 @@ params:
   recommended: []
   recommender: []
   categories:
+  - AI
+  - Business
+  - Entrepreneur
   - Expertise
-  - Public speaking
-  - Tech
   relme: {}
-  last_post_title: How to speak at conferences?
-  last_post_description: If you’ve ever wondered how people end up on stage speaking
-    at conferences, this article is for you. I’m going to describe the different steps
-    and share some tips & tricks to increase your odds
-  last_post_date: "2026-02-02T17:28:39Z"
-  last_post_link: https://www.alainchautard.com/how-to-speak-at-conferences/
+  last_post_title: 'The Architecture of Adaptability: 6 Quotes on Resilience as the
+    New Intelligence'
+  last_post_description: I have collected hundreds of quotes over the years for inspiration.
+    I wanted to share a few of these and my comments on how these quotes help me shape
+    my business and design my lifestyle. “We are
+  last_post_date: "2026-02-27T10:34:16Z"
+  last_post_link: https://www.alainchautard.com/the-architecture-of-adaptability-6-quotes-on-resilience-as-the-new-intelligence/
   last_post_categories:
+  - AI
+  - Business
+  - Entrepreneur
   - Expertise
-  - Public speaking
-  - Tech
   last_post_language: ""
-  last_post_guid: 66f3a142de4b5e948402dacb55c7631e
+  last_post_guid: e59c3d1125d57579f28506104cc8f90b
   score_criteria:
     cats: 0
     description: 3

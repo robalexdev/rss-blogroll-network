@@ -1,9 +1,8 @@
 ---
-title: 42ZERO | A Digital Publishing Studio for Bold, Open, and Impact
+title: 42ZERO | Independent Digital Publishing Studio
 date: "1970-01-01T00:00:00Z"
-description: 42zero.org is an independent digital publishing studio showcasing technology,
-  digital culture, open-source tools, gaming, creativity, and innovation driven by
-  creators shaping the future.
+description: 42zero.org is an independent digital publishing studio covering technology,
+  digital culture, open-source tools, gaming, and creator-driven innovation.
 params:
   feedlink: https://42zero.org/rss/
   feedtype: rss
@@ -18,17 +17,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Tech
+  - Gaming
   relme: {}
-  last_post_title: How Axiom Space Is Reinventing Cloud Computing in Earth Orbit
-  last_post_description: Orbital data centers could shape how governments, industries,
-    and future space missions operate both in orbit and on distant worlds.
-  last_post_date: "2026-02-10T03:38:54Z"
-  last_post_link: https://42zero.org/how-axiom-space-is-reinventing-cloud-computing-in-earth-orbit/
+  last_post_title: 'Downward Spear: One of the Most Brutal Action Experiences You’ll
+    Play in 2026'
+  last_post_description: Forget everything you think you know about indie games there’s
+    a dark, twisted world waiting inside that one unassuming Steam page everyone’s
+    sleeping on.
+  last_post_date: "2026-03-05T05:51:25Z"
+  last_post_link: https://42zero.org/downward-spear-one-of-the-most-brutal-action-experiences-youll-play-in-2026/
   last_post_categories:
-  - Tech
+  - Gaming
   last_post_language: ""
-  last_post_guid: f78e0689abee3a6242c9330437106d7f
+  last_post_guid: 80391492e4836f30833a9fbf6c01ee86
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Abstract Factory
-date: "2025-12-29T12:35:58-08:00"
+date: "2026-02-25T00:15:45-08:00"
 description: |-
   in a city of the future
   it is difficult to concentrate

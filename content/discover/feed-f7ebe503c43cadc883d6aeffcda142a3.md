@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-02-15T16:30:11-06:00"
+date: "2026-03-05T05:54:31-06:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -578,6 +578,7 @@ params:
   - MARGUERITE de Navarre
   - MARIVAUX Pierre de
   - MARLOWE Christopher
+  - MARSTON John
   - MARX Karl
   - MARÍAS Javier
   - MASSENET Jules
@@ -1196,15 +1197,15 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: What I Read in January 2026 – Robustious rothers in rural rivo
-    rhapsodic.
+  last_post_title: What I Read in February 2026 – Mouek mouek mouek… Ma-a-a-a… Ma-aa-a…
+    said Saha
   last_post_description: ""
-  last_post_date: "2026-02-14T14:41:27-06:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/02/what-i-read-in-january-2026-robustious.html
+  last_post_date: "2026-02-28T23:16:31-06:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/02/what-i-read-in-february-2026-mouek.html
   last_post_categories:
   - reading
   last_post_language: ""
-  last_post_guid: 8c36b7a58127a9b11ec78df85c22ed79
+  last_post_guid: 7dbe15d1f2f5afd10671ffad140ec0d7
   score_criteria:
     cats: 5
     description: 3

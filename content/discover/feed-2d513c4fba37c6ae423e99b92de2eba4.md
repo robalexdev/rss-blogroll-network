@@ -18,17 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·01·21
+  last_post_title: 安妮薇看看 №26·02·28
   last_post_description: |-
-    本田官宣全面启用新 Logo
-    这个去掉了外框的 H 造型之前还只是新能源概念车专属，现在官宣了，所有汽车业务都会用这个，摩托车不变~
-    AI
-  last_post_date: "2026-01-21T07:25:15Z"
+    Ryo 专访：少用 Figma，多操作代码
+    年前跟群友约好新年要录一期节目，名字也想好了——《To Figma, or not to Figma, that is the question》，不用录了，听这个
+  last_post_date: "2026-02-28T07:10:45Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 14f67514d3847ab3bea3be2475354b99
+  last_post_guid: 9589fd8564804aa893c860978a195ee7
   score_criteria:
     cats: 0
     description: 3

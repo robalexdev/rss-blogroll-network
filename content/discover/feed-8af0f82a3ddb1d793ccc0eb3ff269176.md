@@ -31,15 +31,16 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Awash with glitter
-  last_post_description: One afternoon this past week, the sun was shining and there
-    was a light wind blowing across the neighborhood. It was bitterly cold outside,
-    but after the deluge of snow we’ve been getting over the
-  last_post_date: "2026-01-28T20:05:00-05:00"
-  last_post_link: https://www.inthemargins.ca/glitter-outside
+  last_post_title: De La Soul at the Tiny Desk
+  last_post_description: |-
+    This has been going viral across the internet, so you’ve probably seen it already, but it would be remiss for me not to share it: De La Soul did an NPR Tiny Desk Concert on March 3.
+
+    This
+  last_post_date: "2026-03-04T12:19:00-05:00"
+  last_post_link: https://www.inthemargins.ca/de-la-soul-tiny-desk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53dc9e5d1957074d43f5b6b84662917c
+  last_post_guid: 6ef2c2e3d44da73b4a7c85fbd55f6d44
   score_criteria:
     cats: 0
     description: 3

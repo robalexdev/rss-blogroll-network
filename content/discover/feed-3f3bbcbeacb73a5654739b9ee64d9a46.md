@@ -1,6 +1,6 @@
 ---
 title: The Pub Curmudgeon
-date: "2026-02-09T02:23:08Z"
+date: "2026-03-04T19:25:52Z"
 description: A jaundiced view of life from the darkest recess of the saloon bar...
 params:
   feedlink: https://pubcurmudgeon.blogspot.com/feeds/posts/default
@@ -19,6 +19,7 @@ params:
   relme:
     https://closedpubs.blogspot.com/: true
     https://curmudgeoncolumns.blogspot.com/: true
+    https://draft.blogger.com/profile/02558747878308766840: true
     https://pubcurmudgeon.blogspot.com/: true
     https://realpubsuk.blogspot.com/: true
     https://www.blogger.com/profile/02558747878308766840: true

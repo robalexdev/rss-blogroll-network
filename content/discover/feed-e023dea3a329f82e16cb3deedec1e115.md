@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-01-20T15:45:00Z"
+date: "2026-02-27T13:10:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://feedpress.me/baldurbjarnason
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '''AI'' is a dick move, redux'
+  last_post_title: 'Objects not data: a photography and illustration print experiment'
   last_post_description: ""
-  last_post_date: "2026-01-20T15:45:00Z"
-  last_post_link: https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/
+  last_post_date: "2026-02-27T13:10:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2026/objects-not-data-art-prints/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9a2b7e1866d96f7c109081aa1655ba57
+  last_post_guid: 2aac70f2d1ddb298a42899e2bf8fb91f
   score_criteria:
     cats: 0
     description: 3

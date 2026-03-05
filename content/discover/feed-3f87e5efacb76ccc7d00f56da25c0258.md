@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2026-01-10T00:00:00Z"
+date: "2026-02-23T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -46,13 +46,13 @@ params:
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Projects Recap 2025
+  last_post_title: Weeknotes 37
   last_post_description: ""
-  last_post_date: "2026-01-10T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2025/projects-recap-2025/
+  last_post_date: "2026-02-23T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2026/weeknotes-37/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1c51e309f8338609c2a63565b7de266e
+  last_post_guid: 026b0627edea81689bc3e1b069721b2c
   score_criteria:
     cats: 0
     description: 3

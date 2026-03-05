@@ -1,6 +1,6 @@
 ---
 title: marcoshplace
-date: "2025-11-20T16:45:42Z"
+date: "2026-02-16T14:28:12Z"
 description: A place to store my thoughts and ideas about programming and related
   stuff
 params:

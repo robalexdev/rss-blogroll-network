@@ -19,18 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Notes
+  - China
   relme: {}
-  last_post_title: Kunshan Diorama
-  last_post_description: Today, I’m visiting Zhengyi Old Street (正仪老街) in Kunshan
-    — a city wedged in between Suzhou and Shanghai. This old street is a leftover
-    slice in between other parts properly planned by the
-  last_post_date: "2026-01-17T07:51:35Z"
-  last_post_link: https://jaapgrolleman.com/choosing-focus/
+  last_post_title: Cobblestones and Lions in Longmen
+  last_post_description: I know I take too many photos, and I know I should remove
+    some for brevity. But it feels to me that each of these views is worth capturing,
+    as if to store it in a jar for storage. When I no longer
+  last_post_date: "2026-02-18T10:29:16Z"
+  last_post_link: https://jaapgrolleman.com/cobblestones-in-longmen/
   last_post_categories:
-  - Notes
+  - China
   last_post_language: ""
-  last_post_guid: eea86ee92cf8d4b34296d0c8eda13371
+  last_post_guid: bd0bb368930f37837f867e9b1cadc942
   score_criteria:
     cats: 0
     description: 3

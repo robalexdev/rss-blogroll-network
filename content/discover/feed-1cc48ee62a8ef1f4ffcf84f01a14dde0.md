@@ -1,6 +1,6 @@
 ---
 title: 記緒漂流
-date: "2026-02-05T17:14:19Z"
+date: "2026-03-05T14:07:59Z"
 description: 于记忆之川，泛思绪之舟。
 params:
   feedlink: https://ttio.cc/feed.xml
@@ -21,29 +21,31 @@ params:
   - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
   categories:
-  - Network
+  - Anime
+  - Comic
   relme: {}
-  last_post_title: 使用 Tailscale 内网穿透
-  last_post_description: 本文介绍了笔者放弃 ZeroTier，改用 Tailscale 进行内网穿透，并概述其优势及在 NAS 上的配置过程。
-  last_post_date: "2026-02-01T19:36:23Z"
-  last_post_link: https://ttio.cc/jotting/tailscale
+  last_post_title: 相反的你和我・同频的心与心
+  last_post_description: 本文中，笔者赞誉《相反的你和我》为恋爱作品天花板，通过分析三段相反性格的恋爱关系，探讨青春与现实的共鸣，并分享个人深刻观感。
+  last_post_date: "2026-02-23T01:26:55Z"
+  last_post_link: https://ttio.cc/note/seihantai
   last_post_categories:
-  - Network
+  - Anime
+  - Comic
   last_post_language: ""
-  last_post_guid: bd9d30e35b50c699255196f4e6e5e099
+  last_post_guid: 10b72b8204ef74b47d9bab3e52cc50b5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

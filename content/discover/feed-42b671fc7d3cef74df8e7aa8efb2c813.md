@@ -23,7 +23,7 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Testing Opus 4.5 For C Programming
+  last_post_title: Testing AI For C Programming
   last_post_description: |-
     A grumpy C programmer sees what all the fuss is about
           Read the whole article on danielchasehooper.com →

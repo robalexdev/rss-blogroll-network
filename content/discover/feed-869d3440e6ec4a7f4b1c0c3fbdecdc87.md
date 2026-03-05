@@ -23,60 +23,25 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - AI
-  - AI Glasses
-  - Accessibility
-  - Creators
-  - Data Centers
-  - Edits
-  - Facebook
-  - Infrastructure
-  - Instagram
-  - Meta
-  - Oakley Meta Glasses
-  - Open Source
   - Product News
-  - Ray-Ban Meta Glasses
   - Recent News
-  - Reels
   - Sidebar - Featured
-  - Sustainability
-  - Technology and Innovation
   - Threads
-  - WhatsApp
-  - Youth Well-Being Resources
   relme: {}
-  last_post_title: 'AI Breakthroughs, Our Most Advanced Glasses, and More: Meta’s
-    2025 Highlights'
-  last_post_description: "We’re looking back at Meta's biggest moments of 2025, including
-    our vision for superintelligence, new AI glasses, strengthened protections for
-    teens, and more. \nThe post AI Breakthroughs, Our Most"
-  last_post_date: "2025-12-19T20:00:59Z"
-  last_post_link: https://about.fb.com/news/2025/12/ai-breakthroughs-advanced-ai-glasses-meta-2025-highlights/
+  last_post_title: Control Your Threads Feed With New Dear Algo Feature
+  last_post_description: |-
+    Dear Algo adjusts your feed based on what you want to see more or less of on Threads.
+    The post Control Your Threads Feed With New Dear Algo Feature appeared first on Meta Newsroom.
+  last_post_date: "2026-02-11T18:00:48Z"
+  last_post_link: https://about.fb.com/news/2026/02/threads-dear-algo/
   last_post_categories:
   - AI
-  - AI Glasses
-  - Accessibility
-  - Creators
-  - Data Centers
-  - Edits
-  - Facebook
-  - Infrastructure
-  - Instagram
-  - Meta
-  - Oakley Meta Glasses
-  - Open Source
   - Product News
-  - Ray-Ban Meta Glasses
   - Recent News
-  - Reels
   - Sidebar - Featured
-  - Sustainability
-  - Technology and Innovation
   - Threads
-  - WhatsApp
-  - Youth Well-Being Resources
   last_post_language: ""
-  last_post_guid: 716dbbc384281aa9ef5aba9bdc47d1be
+  last_post_guid: 1662c9dc9c6d31854909f1b195c1a620
   score_criteria:
     cats: 0
     description: 0

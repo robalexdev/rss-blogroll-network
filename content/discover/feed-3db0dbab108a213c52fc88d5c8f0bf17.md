@@ -26,23 +26,23 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - disaster
-  - flood
-  - floods
+  - dogs
+  - flood 2026
+  - walking
   relme: {}
-  last_post_title: '[Note] Normal life'
-  last_post_description: I want normal life back now, please. I appreciate that it’s
-    only 40-ish hours since my house flooded and we had to move out. But with all
-    the stress and activity that’s necessarily followed, it
-  last_post_date: "2026-02-15T07:48:58Z"
-  last_post_link: https://danq.me/2026/02/15/normal-life/
+  last_post_title: '[Note]'
+  last_post_description: One last outing for the dog and I along the Cotswold lane
+    we’ve been living on, before we move to different temporary accommodation tomorrow.
+    We’re hoping soon to no-longer have to move every
+  last_post_date: "2026-03-05T09:32:45Z"
+  last_post_link: https://danq.me/2026/03/05/28424/
   last_post_categories:
   - Personal
-  - disaster
-  - flood
-  - floods
+  - dogs
+  - flood 2026
+  - walking
   last_post_language: ""
-  last_post_guid: fdd12ca75667336c8b0609318aa8aaac
+  last_post_guid: cac9c93b3f61235b24298e1f5d4108f9
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ed-Tech Dragnet
-  last_post_description: “With Ring, American Consumers Built a Surveillance Dragnet”
-    writes 404 Media co-founder Jason Koebler, in response to Amazon’s ad in the Super
-    Bowl promising that its front poor camera could
-  last_post_date: "2026-02-13T10:00:07Z"
-  last_post_link: https://2ndbreakfast.audreywatters.com/ed-tech-dragnet/
+  last_post_title: '"AI" is Yesterday''s News'
+  last_post_description: I gave this talk yesterday to the Massachusetts Teachers
+    Association, as part of the MTA Retired First Wednesday Speaker Series.Thank you
+    very much for inviting me to speak to you today. I’m
+  last_post_date: "2026-03-05T10:00:23Z"
+  last_post_link: https://2ndbreakfast.audreywatters.com/ai-is-yesterdays-news/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cbec9b2ae46ca59a985fb59d6b7fab40
+  last_post_guid: 60ca68d7b93ff8ae026f9fb19083b56f
   score_criteria:
     cats: 0
     description: 3

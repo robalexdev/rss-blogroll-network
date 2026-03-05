@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-01-31T01:58:12Z"
+date: "2026-02-21T17:20:16Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -28,7 +28,7 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - '["personal"]'
+  - '["giggles"]'
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
@@ -38,6 +38,7 @@ params:
     https://ideas.joejenett.com/: true
     https://iwebthings.jenett.org/: true
     https://iwebthings.joejenett.com/: true
+    https://jenett.nekoweb.org/: true
     https://jenett.org/: true
     https://joe.jenett.org/: true
     https://joe.joejenett.com/: true
@@ -54,18 +55,18 @@ params:
     https://simply.micro.jenett.org/: true
     https://simply.personal.jenett.org/: true
     https://toot.community/@jenett: true
+    https://toot.community/@jenett2: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: bad Apple…bad!
-  last_post_description: '01/30/26-Update: Problem resolved. If you’ve experienced
-    similar issues, get in touch and I’ll point you to the solution I found. Thx.
-    I find it hard to believe that Apple is programmatically'
-  last_post_date: "2026-01-13T19:02:39Z"
-  last_post_link: https://simply.joejenett.com/bad-apple-bad/
+  last_post_title: M.A.Q.A.
+  last_post_description: Re-labeled Elmer's Washable School Glue Stick Package © 2025
+    Newell Office Brands.
+  last_post_date: "2026-02-21T12:31:53Z"
+  last_post_link: https://simply.joejenett.com/maqa/
   last_post_categories:
-  - '["personal"]'
+  - '["giggles"]'
   last_post_language: ""
-  last_post_guid: b7e0ec8d8bab99273cb55ebb0f522fce
+  last_post_guid: 0706bc7ae5cc403933d892c1e2d49eb0
   score_criteria:
     cats: 0
     description: 3

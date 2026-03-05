@@ -17,13 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ted
-  last_post_description: ""
-  last_post_date: "2026-02-05T11:37:00+01:00"
-  last_post_link: https://alienlebarge.ch/jams/clark-ted
+  last_post_title: 2026-03-05-10-06
+  last_post_description: |-
+    On Monday, our son broke his tibia while skiing, and it showed me that people are good and kind. Thank you to them.
+
+    The skier who helped me move him off the slope to safety on the terrace of the
+  last_post_date: "2026-03-05T10:05:00+01:00"
+  last_post_link: https://alienlebarge.ch/notes/2026-03-05-10-06
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26277d83cc4cde4f9c54f15266b9405b
+  last_post_guid: 450470e0992c4cea02eeea0bfb203a8b
   score_criteria:
     cats: 0
     description: 0

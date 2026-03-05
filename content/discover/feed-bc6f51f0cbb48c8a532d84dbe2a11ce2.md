@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-02-13T23:30:54Z"
+date: "2026-03-05T17:30:00Z"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -290,6 +290,7 @@ params:
   - chublet
   - cocoons
   - cold
+  - coloured
   - cormarants
   - cornwall
   - corwall
@@ -481,22 +482,24 @@ params:
   - whisky
   - wild boar
   - wildfowl
+  - wine
   - worms
   - wrasse
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: Warwickshire Avon - Subconspiratorialism and Seclusionaryness
+  last_post_title: Warwickshire Avon - Chubulence and Contemplation
   last_post_description: ""
-  last_post_date: "2026-02-11T20:29:09Z"
-  last_post_link: https://calamitymn.blogspot.com/2026/02/warwickshire-avon-subconspiratorialism.html
+  last_post_date: "2026-03-05T17:30:00Z"
+  last_post_link: https://calamitymn.blogspot.com/2026/03/warwickshire-avon-chubulence-and.html
   last_post_categories:
-  - Bread
-  - Cheese paste
+  - Barbel
   - Chub
   - Warwickshire Avon
+  - paste
+  - pellet
   last_post_language: ""
-  last_post_guid: 69367ab3f3bbe50be7c3f8dae7a9cfc3
+  last_post_guid: 1498fdfa030bbde2d89ae48f625fc7fd
   score_criteria:
     cats: 5
     description: 0
