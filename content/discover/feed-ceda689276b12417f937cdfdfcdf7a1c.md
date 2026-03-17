@@ -25,17 +25,18 @@ params:
   - AI
   - AI Models
   relme: {}
-  last_post_title: OpenAI launches GPT-5.4 Thinking and Pro
+  last_post_title: Nvidia brings together AI labs to build the next generation of
+    open base models
   last_post_description: |-
-    OpenAI on Thursday launched GPT-5.4, the next version of its frontier model. The company calls it its “most capable and
-    The post OpenAI launches GPT-5.4 Thinking and Pro appeared first on The New
-  last_post_date: "2026-03-05T18:00:26Z"
-  last_post_link: https://thenewstack.io/openai-launches-gpt-5-4/
+    Nvidia on Monday announced the Nemotron Coalition at its GTC conference. This new coalition of AI labs will pool expertise,
+    The post Nvidia brings together AI labs to build the next generation of
+  last_post_date: "2026-03-16T20:20:18Z"
+  last_post_link: https://thenewstack.io/nvidia-tier2-nemotron-coalition/
   last_post_categories:
   - AI
   - AI Models
   last_post_language: ""
-  last_post_guid: 7c4f94510ce8a8944daca44266e0bbca
+  last_post_guid: be70282208d533dbf42cbbdfb1024823
   score_criteria:
     cats: 0
     description: 0

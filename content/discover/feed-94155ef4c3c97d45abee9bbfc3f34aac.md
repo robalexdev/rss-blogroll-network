@@ -15,29 +15,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 其他小银行信用卡
+  - Chase 信用卡
+  - IHG 优悦会 IHG One Rewards
+  - 摩根大通 Chase
+  - 无境外手续费
+  - 酒店卡
   relme: {}
-  last_post_title: Robinhood Platinum 信用卡：新卡发布，$695年费的Coupon Book
-  last_post_description: Robinhood Platinum Card 信用卡 特色 吃饭（包括堂食和外卖）5%返现，up to $50k一年；在他们家的travel
-  last_post_date: "2026-03-05T15:00:43Z"
-  last_post_link: https://www.uscreditcardguide.com/robinhood-platinum/
+  last_post_title: Chase IHG Premier 信用卡【2026.3 更新：175k 开卡奖励 即将过期】
+  last_post_description: Chase IHG One Rewards Premier Credit Card 洲际酒店信用卡简介 【2026.1
+    更新】新的开卡奖励是 175k。截止日期 2026.3.18. 【2025.9 更新】新的开卡奖励是 165k。【2025
+  last_post_date: "2026-03-16T14:30:29Z"
+  last_post_link: https://www.uscreditcardguide.com/chase-ihg-premier/
   last_post_categories:
-  - 其他小银行信用卡
+  - Chase 信用卡
+  - IHG 优悦会 IHG One Rewards
+  - 摩根大通 Chase
+  - 无境外手续费
+  - 酒店卡
   last_post_language: ""
-  last_post_guid: ec89e6c296392fa1564462350a1b2aaf
+  last_post_guid: 264469f61777b2bebc2b72d997f4103a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

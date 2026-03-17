@@ -18,25 +18,22 @@ params:
   categories:
   - AI
   - data science
-  - guest post
-  - machine learning
-  - vision
+  - llm
+  - open-source
   relme: {}
-  last_post_title: 'Guest post: Experimenting with Vision AI to recognise digits on
-    an odometer reading from a photo'
-  last_post_description: |-
-    Today, I’m excited to feature a guest post from Dr Katie Russell, another No10 Innovation Fellow. You can find more information about Katie and her work over at her LinkedIn page.
-    OCR has been
-  last_post_date: "2026-02-26T00:00:00Z"
-  last_post_link: https://www.aeturrell.com/blog/posts/vision-ai-for-odometer-reading/
+  last_post_title: The era of local agents is here
+  last_post_description: Local models—that is, large language models you can run on
+    your own computer—have been okay for chat for a while even if they’re typically
+    some way behind the frontier. I can’t now remember
+  last_post_date: "2026-03-09T00:00:00Z"
+  last_post_link: https://www.aeturrell.com/blog/posts/era_local_agentic_llms/
   last_post_categories:
   - AI
   - data science
-  - guest post
-  - machine learning
-  - vision
+  - llm
+  - open-source
   last_post_language: ""
-  last_post_guid: 1f5b0a13d4a1eb65c24398e5dfb779b2
+  last_post_guid: e21ac2d8b41951f870e8d51efe6c7349
   score_criteria:
     cats: 0
     description: 3

@@ -1,8 +1,8 @@
 ---
-title: 42ZERO | Independent Digital Publishing Studio
+title: 42ZERO | Where the next indie hit begins
 date: "1970-01-01T00:00:00Z"
-description: 42zero.org is an independent digital publishing studio covering technology,
-  digital culture, open-source tools, gaming, and creator-driven innovation.
+description: 42zero.org is a discovery platform where players and devs find the next
+  indie game hits before they go viral, spotlighting projects early and first.
 params:
   feedlink: https://42zero.org/rss/
   feedtype: rss
@@ -19,17 +19,16 @@ params:
   categories:
   - Gaming
   relme: {}
-  last_post_title: 'Downward Spear: One of the Most Brutal Action Experiences You’ll
-    Play in 2026'
-  last_post_description: Forget everything you think you know about indie games there’s
-    a dark, twisted world waiting inside that one unassuming Steam page everyone’s
-    sleeping on.
-  last_post_date: "2026-03-05T05:51:25Z"
-  last_post_link: https://42zero.org/downward-spear-one-of-the-most-brutal-action-experiences-youll-play-in-2026/
+  last_post_title: This Indie Shooter Feels Like DOOM Trapped in a Lovecraft Nightmare
+  last_post_description: Forgive Me Father 2 is a comic-style Lovecraftian FPS where
+    players battle cultists and monsters, using madness as a weapon in chaotic retro
+    gameplay.
+  last_post_date: "2026-03-16T03:54:28Z"
+  last_post_link: https://42zero.org/this-indie-shooter-feels-like-doom-trapped-in-a-lovecraft-nightmare/
   last_post_categories:
   - Gaming
   last_post_language: ""
-  last_post_guid: 80391492e4836f30833a9fbf6c01ee86
+  last_post_guid: fa639f04d973dfb0a77aa3b4eb70ffe8
   score_criteria:
     cats: 0
     description: 3

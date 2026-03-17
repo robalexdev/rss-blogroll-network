@@ -1,6 +1,6 @@
 ---
 title: Adam's Apples
-date: "2026-03-05T11:58:37-05:00"
+date: "2026-03-16T10:06:58-04:00"
 description: An amateur explores the pomaceous fruit
 params:
   feedlink: https://adamapples.blogspot.com/atom.xml
@@ -710,15 +710,15 @@ params:
   - winter apples
   - year of apples
   relme: {}
-  last_post_title: 'Apples on the Web: Chuck&nbsp;Wendig'
+  last_post_title: The big melt
   last_post_description: ""
-  last_post_date: "2026-02-28T11:57:59-05:00"
-  last_post_link: https://adamapples.blogspot.com/2026/02/apples-on-web-chuck.html
+  last_post_date: "2026-03-12T13:11:08-04:00"
+  last_post_link: https://adamapples.blogspot.com/2026/03/the-big-melt.html
   last_post_categories:
+  - Winter
   - commentary
-  - links
   last_post_language: ""
-  last_post_guid: 0a6a0686ab460768624c31f67e26c9f2
+  last_post_guid: 2b0b8d5716f64be004f4222ee341a8a5
   score_criteria:
     cats: 5
     description: 3

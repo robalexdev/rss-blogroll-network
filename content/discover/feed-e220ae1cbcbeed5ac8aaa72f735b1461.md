@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-03-01T15:23:02-05:00"
+date: "2026-03-16T01:54:56-04:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://feeds.feedburner.com/NerdlyPleasures
@@ -132,16 +132,16 @@ params:
   relme:
     https://nerdlypleasures.blogspot.com/: true
     https://www.blogger.com/profile/04409413307024477304: true
-  last_post_title: Observations on Early Versions of Wizardry
+  last_post_title: The Ultimate Commodore 64? - The Commodore 64 Ultimate Review
   last_post_description: ""
-  last_post_date: "2026-03-01T15:23:02-05:00"
-  last_post_link: http://nerdlypleasures.blogspot.com/2026/03/observations-on-early-versions-of.html
+  last_post_date: "2026-03-15T15:14:27-04:00"
+  last_post_link: http://nerdlypleasures.blogspot.com/2026/03/the-ultimate-commodore-64-commodore-64.html
   last_post_categories:
-  - Apple II
-  - IBM PC
-  - RPG
+  - Commodore
+  - FPGA Console
+  - Product Review
   last_post_language: ""
-  last_post_guid: b4f75aa4e403a8bdb5209a6fc733a4a8
+  last_post_guid: 406f2bb865d19e155ddb9240addf1b2f
   score_criteria:
     cats: 5
     description: 3

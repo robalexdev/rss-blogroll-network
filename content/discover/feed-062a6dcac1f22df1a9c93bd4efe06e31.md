@@ -14,7 +14,10 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Design Blogs (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)
+  - title: Goblin Gumbo - Blogroll
+    description: ""
+    id: fba95217f7d9c7c26c5a9f717740f80e
+  - title: Design Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
     description: ""
     id: 7e87b763d064f92ca61553342402178c
   - title: Kagi Small Web OPML
@@ -36,15 +39,14 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Have We Forgotten How to Design?
-  last_post_description: "Last week, I read a story about how Waymo (self-driving
-    taxi service) is partnering with Door Dash (food delivery service).\n\t\tAnd it
-    surprised me. I was genuinely shocked. I couldn’t believe it."
-  last_post_date: "2026-02-27T11:00:00+09:00"
-  last_post_link: https://lmnt.me/blog/have-we-forgotten-how-to-design.html
+  last_post_title: PDX
+  last_post_description: "So iconic that they had to bring it back.\n\t\t\tDownload
+    wallpaper from LMNT"
+  last_post_date: "2026-03-12T10:40:00+09:00"
+  last_post_link: https://lmnt.me/blog/wallpapers/pdx.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a17279006f7c1ec2d3ab13874c8067af
+  last_post_guid: 2530f1b0218ea0fe8783969c92544a95
   score_criteria:
     cats: 1
     description: 3

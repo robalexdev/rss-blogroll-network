@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-03-04T03:39:03+08:00"
+date: "2026-03-10T11:30:03+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -22,40 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - OpenClaw
+  - 旅游
   relme: {}
-  last_post_title: 自建OpenClaw
+  last_post_title: 烟花三月下扬州
   last_post_description: |-
     Foreword
 
-    之前实践了MCP、Skills，最近又出来了OpenClaw，大火了一把，再来看一下OpenClaw又能干些啥吧
-
-    OpenClaw
-
-    历史
-
-    OpenClaw之前叫ClawdBot，是单独对接Claude的
-  last_post_date: "2026-02-25T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/02/25/OpenClaw/
+    “烟花三月下扬州”，但我去的是公历 3
+  last_post_date: "2026-03-09T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/03/09/Yangzhou-Travel/
   last_post_categories:
-  - AI
-  - OpenClaw
+  - 旅游
   last_post_language: ""
-  last_post_guid: 95c210706c60acbf8c11787b99e3b59e
+  last_post_guid: 6cc7ada093c23eefe7810e3c9eb6a70d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

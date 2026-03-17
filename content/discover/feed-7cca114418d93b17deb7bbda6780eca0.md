@@ -16,6 +16,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Myles Braithwaite - Blogroll
+    description: ""
+    id: eff7941d4d2da2c45abbb0d814d0e374
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

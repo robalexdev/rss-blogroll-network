@@ -1,6 +1,6 @@
 ---
 title: West Coast Stat Views (on Observational Epidemiology and more)
-date: "2026-03-05T07:30:00-05:00"
+date: "2026-03-16T07:30:00-04:00"
 description: Comments, observations and thoughts from two bloggers on applied statistics,
   higher education and epidemiology.  Joseph is an associate professor.  Mark is a
   professional statistician and former math
@@ -684,14 +684,14 @@ params:
   - zombies
   - “Closing the Talent Gap”
   relme: {}
-  last_post_title: And to think of all the fun we made of Rumsfeld for known unknowns
-    -- mostly trivial items for the penultimatepost of the week
+  last_post_title: Patrick Boyle lays out the ugly details of Elon Musk’s ultimate
+    scam (perhaps in both senses of the word).
   last_post_description: ""
-  last_post_date: "2026-03-05T07:30:00-05:00"
-  last_post_link: https://observationalepidemiology.blogspot.com/2026/03/and-to-think-of-all-fun-we-made-of.html
+  last_post_date: "2026-03-16T07:30:00-04:00"
+  last_post_link: https://observationalepidemiology.blogspot.com/2026/03/patrick-boyle-lays-out-ugly-details-of.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 316e0ee995909f7c8d182d74fed0db69
+  last_post_guid: 834cb28b28c7aa213832591e040d3247
   score_criteria:
     cats: 5
     description: 3

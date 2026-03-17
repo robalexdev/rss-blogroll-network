@@ -24,15 +24,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Shipping a button in 2026
-  last_post_description: 'Every web developer should enjoy this (and if you’re not
-    a web develop, skip it):'
-  last_post_date: "2026-03-04T20:05:19Z"
-  last_post_link: https://actsofvolition.com/2026/03/shipping-a-button-in-2026/
+  last_post_title: The Web is a Guitar Amp Now (Literally)
+  last_post_description: I’ve been working with the web platform for years – and I
+    was pretty blown-away to be able play my guitar through a website, and have it
+    processed like a vintage amp. I wrote about it over at the
+  last_post_date: "2026-03-11T16:15:19Z"
+  last_post_link: https://actsofvolition.com/2026/03/the-web-is-a-guitar-amp-now-literally/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: ffca2333059a529e227238900c1b5421
+  last_post_guid: 327047e55ff774272172a50ceb481c4f
   score_criteria:
     cats: 0
     description: 0

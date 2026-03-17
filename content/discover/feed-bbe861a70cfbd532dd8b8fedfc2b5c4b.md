@@ -11,9 +11,12 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Company Blogs (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)
+  - title: Company Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
     description: ""
     id: 24dd9711abbe52f7e27dc960b366588b
+  - title: DevOps Blogroll
+    description: ""
+    id: 308ebd11533bc596af7d7447bbb10ff1
   - title: QuiteRSS
     description: ""
     id: 2b43f27f9bb72cd22eed5f2cc6628aa2

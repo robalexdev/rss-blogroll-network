@@ -31,19 +31,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我关注的项目这周更新了什么-20260225
+  last_post_title: Vibe Coding with GitHub Copilot
   last_post_description: |-
-    简介
-    每周五更新，所有的更新也会发送到我的频道
-    https://t.me/bboyapp
-    规则
-
-    pre
-  last_post_date: "2026-02-25T10:18:00Z"
-  last_post_link: https://www.bboy.app/2026/02/25/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20260225/
+    Introduction
+    I’ve been using GitHub Copilot on and off to build a few small projects lately, and I’ve picked up quite a few lessons along the way. This post is a summary of that experience,
+  last_post_date: "2026-03-16T16:38:00Z"
+  last_post_link: https://www.bboy.app/2026/03/16/vibe-coding-with-github-copilot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fdf4b5848f57550650cfb60d1228cb16
+  last_post_guid: 6f99970617f27e47a8e84a3bb2691506
   score_criteria:
     cats: 0
     description: 3

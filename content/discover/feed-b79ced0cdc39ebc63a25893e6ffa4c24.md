@@ -16,16 +16,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: musql
+  last_post_title: I beg you to follow Crocker's Rules, even if you will be rude to
+    me
   last_post_description: |-
-    musql
+    spoiler: you probably won't!
 
-    Years ago I was building my own music aggregation interface called musql, I called it the intentional play on music and SQL. Later I eventually moved to Apple Music largely because smart
-  last_post_date: "2026-02-10T00:00:00Z"
-  last_post_link: https://lr0.org/blog/p/musql/
+
+
+    [2026-03-16 Mon 03:09] Since this might be prone to misinterpretation as an excuse to treat people rudely, a clarification is warranted. Being direct is not rude, and
+  last_post_date: "2026-03-08T00:00:00Z"
+  last_post_link: https://lr0.org/blog/p/crocker/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e3fe3821a0c8d27fdd781e6b2a46449a
+  last_post_guid: 186b2a453d6eb369fba252de04004251
   score_criteria:
     cats: 0
     description: 3

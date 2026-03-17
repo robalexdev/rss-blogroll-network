@@ -1,6 +1,6 @@
 ---
 title: Toomanywires
-date: "2026-03-05T20:49:05+09:00"
+date: "2026-03-12T16:17:11+09:00"
 description: All About Video Games
 params:
   feedlink: https://www.toomanywires.co.uk/feeds/posts/default

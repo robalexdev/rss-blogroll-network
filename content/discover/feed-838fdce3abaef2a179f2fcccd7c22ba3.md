@@ -21,6 +21,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: nathanUpchurchBlogroll.opml
+    description: ""
+    id: 48ae6ab9ce91c04f77f8c740eaa6a958
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

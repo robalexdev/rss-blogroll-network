@@ -23,15 +23,15 @@ params:
   relme:
     https://github.com/Lruihao: true
     https://lruihao.cn/: true
-  last_post_title: A Christmas Easter Egg by JavaScript.
-  last_post_description: "特性\n \n \n \n\n\n\U0001F385 自动在圣诞节期间（12 月 20 日至 26 日）为网站
-    Logo 添加圣诞帽装饰\n\U0001F3AF 自动检测当前日期，无需手动开关\n\U0001F4AB"
-  last_post_date: "2025-12-24T03:31:47Z"
-  last_post_link: https://lruihao.cn/projects/hugo-fixit/cmpt-santa-hat/
+  last_post_title: 一个轻量化 Tooltip 组件。
+  last_post_description: "一个基于 TypeScript + Vite 的轻量化 Tooltip 组件，交互模型参考 Bootstrap
+    tooltip.js，保留常用能力并尽量减少体积与依赖。\n特性\n \n \n \n\n支持触发方式：hover /"
+  last_post_date: "2026-03-06T06:58:23Z"
+  last_post_link: https://lruihao.cn/projects/lruihao/cell-tooltip/
   last_post_categories:
   - GitHub
   last_post_language: ""
-  last_post_guid: 3929e14b47895e2d2b02738a4dba1b94
+  last_post_guid: 59d22a3eacf5adfe06998d01454b6211
   score_criteria:
     cats: 0
     description: 3

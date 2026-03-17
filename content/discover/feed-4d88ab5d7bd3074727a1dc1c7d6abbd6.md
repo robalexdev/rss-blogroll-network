@@ -104,15 +104,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: What Is Low Cost?
-  last_post_description: Do you think $599 is a low price? One cannot answer this
-    question without knowing for what and in how that what compares to others in the
-    market. Today Apple announced the MacBook Neo, which as Wired
-  last_post_date: "2026-03-04T11:44:40-05:00"
-  last_post_link: https://frankmcpherson.blog/2026/03/04/what-is-low-cost.html
+  last_post_title: Computer Industry Pricing
+  last_post_description: My opinion is that $599 is a lot of money, and I cannot call
+    anything that costs $599 as cheap. It is not surprising to me that the computer
+    industry that thinks that $1,000 phones, monthly
+  last_post_date: "2026-03-13T12:47:20-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/03/13/computer-industry-pricing.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ef28b6de4d2cd4475e00ea715778aaa
+  last_post_guid: 418b93fa9a9fb8603adcf0a000c5af91
   score_criteria:
     cats: 0
     description: 0

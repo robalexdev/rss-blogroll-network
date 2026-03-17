@@ -1,6 +1,6 @@
 ---
 title: jack.bonatak.is
-date: "2026-02-15T04:34:11Z"
+date: "2026-03-08T18:40:51Z"
 description: Half-baked thoughts on whatever I feel like writing about
 params:
   feedlink: https://jack.bonatak.is/feed.xml
@@ -10,24 +10,27 @@ params:
     https://jack.bonatak.is/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
-  - projects
+  - experiments
   relme: {}
-  last_post_title: Differ
-  last_post_description: 'One thing I’ve noticed as I’ve been using AI more and more
-    to build projects and features: there’s often just a lot of code. And not only
-    source code, but tests, specs, docs, diagrams, etc. It'
-  last_post_date: "2026-02-14T00:00:00Z"
-  last_post_link: https://jack.bonatak.is/blah/differ/
+  last_post_title: Fixing Postgres table bloat with pg_repack
+  last_post_description: 'Crash Course: Postgres data storage topology Every row in
+    a table in Postgres is stored as a tuple. Tuples are stored in an 8 KB container
+    referred to as a page. A page is a range of space within an'
+  last_post_date: "2026-03-07T00:00:00Z"
+  last_post_link: https://jack.bonatak.is/blah/table-bloat-pg-repack/
   last_post_categories:
-  - projects
+  - experiments
   last_post_language: ""
-  last_post_guid: fabb86f358fd0d16bbacf88fc7c43d17
+  last_post_guid: 9212c94559fbaf5e8b562613d1382990
   score_criteria:
     cats: 0
     description: 3

@@ -15,6 +15,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: nathanUpchurchBlogroll.opml
+    description: ""
+    id: 48ae6ab9ce91c04f77f8c740eaa6a958
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml

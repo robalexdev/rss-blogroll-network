@@ -17,21 +17,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2025 in Review
+  last_post_title: Feature Flagging at Databricks
   last_post_description: |-
-    Previously: 2024, 2023, 2022,
-    2021,
-    2020,
-    2019,
-    2018,
-    2017
-    A surprisingly persistent personality quirk I have is that I care a lot about
-    the changeover of the new year. I quite like consuming yearly
-  last_post_date: "2025-12-31T21:00:00-08:00"
-  last_post_link: https://benjamincongdon.me/blog/2025/12/31/2025-in-Review/
+    In late January, I published a
+    post1
+    (archive) on the Databricks engineering blog about
+    “SAFE”, the feature flagging and experimentation platform I’ve been working on
+    for the past few years.
+  last_post_date: "2026-03-12T06:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2026/03/12/Feature-Flagging-at-Databricks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0afd60e4305127b09ef624ee29816eb0
+  last_post_guid: 4b8b8197bc48b4fd5642d4b74b3d8552
   score_criteria:
     cats: 0
     description: 3

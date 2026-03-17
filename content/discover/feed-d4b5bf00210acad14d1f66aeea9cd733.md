@@ -1,6 +1,6 @@
 ---
 title: 2PM
-date: "2026-02-22T04:16:45Z"
+date: "2026-03-09T18:55:10Z"
 description: Studying where media meets commerce.
 params:
   feedlink: https://2pml.com/feed/atom/
@@ -16,15 +16,17 @@ params:
   recommender: []
   categories:
   - Archives
+  - NATSEC
   relme: {}
   last_post_title: 'NATSEC Roundtable No. 9: Capital, Cloud, and Commerce'
   last_post_description: 'This is the new defense stack, and the best venture capital
     firms in the country (re: world) enable it.  American military and intelligence
     capabilities no longer originate solely in the Pentagon or'
-  last_post_date: "2026-02-22T04:16:45Z"
+  last_post_date: "2026-03-09T18:55:10Z"
   last_post_link: https://2pml.com/2026/01/17/capital-cloud-commerce/
   last_post_categories:
   - Archives
+  - NATSEC
   last_post_language: ""
   last_post_guid: e2f2e48c61c114a9977517ca99c75e0d
   score_criteria:
@@ -33,13 +35,13 @@ params:
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Accidental Woodworker
-date: "2026-03-05T06:26:42-05:00"
+date: "2026-03-16T18:13:36-04:00"
 description: The daily dribble from my workshop
 params:
   feedlink: https://accidentalwoodworker.blogspot.com/atom.xml
@@ -208,13 +208,13 @@ params:
   - workshop tool
   - xmas
   relme: {}
-  last_post_title: Mile's desk pt II.........
+  last_post_title: Hall of Fame picture frames........
   last_post_description: ""
-  last_post_date: "2026-03-05T06:26:41-05:00"
-  last_post_link: https://accidentalwoodworker.blogspot.com/2026/03/miles-desk-pt-ii.html
+  last_post_date: "2026-03-16T06:36:14-04:00"
+  last_post_link: https://accidentalwoodworker.blogspot.com/2026/03/hall-of-fame-picture-frames.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e4516a2cb198254905906c1976faae8
+  last_post_guid: 00afa2c802802c0b77b6f4207b521ae0
   score_criteria:
     cats: 5
     description: 3

@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我读书、买书和藏书的故事（Doing）
-  last_post_description: 我现在想，我2002年为什么得病？就是老想不该想的事情，现在为什么快乐，就是不想那些事，只想怎么把该做的事情做好，这一点可能更重要。
-  last_post_date: "2026-01-28T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2026/01/history-of-books/
+  last_post_title: 陈忠实与《白鹿原》
+  last_post_description: 按语：这绝对是一篇迟到的读后感，我今天从未发布的博客里翻出来，起因是 earfanfan
+  last_post_date: "2026-03-15T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/03/the-plain-of-white-deer/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3f4e6ad56983c6f20ad6acbe77e1bd17
+  last_post_guid: eb337e84678aa357149a31585300a4bc
   score_criteria:
     cats: 0
     description: 3

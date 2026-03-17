@@ -23,28 +23,30 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - 2020 elections
-  - DOGE
-  - Donald Trump
-  - Fulton County
-  - The Franchise
-  - redisricting
+  - Brendan Carr
+  - FCC
+  - Iran
+  - RonJohn
+  - Trump II
+  - Where Things Stand
+  - media
   relme: {}
-  last_post_title: Of Course the Notoriously MAGA Georgia Election Board Was Involved
-    in the Fulton County Raid
-  last_post_description: Hello, happy Thursday! This week, we’ll be revisiting the
-    very bizarre and sinister revelation from a few months ago involving...
-  last_post_date: "2026-03-05T19:07:05Z"
-  last_post_link: https://talkingpointsmemo.com/the-franchise/of-course-the-notoriously-maga-georgia-election-board-was-involved-in-the-fulton-county-raid
+  last_post_title: Brendan Carr Wants to Make All of Trump’s ‘Fake News’ Retribution
+    Dreams Come True
+  last_post_description: ‘Grounded in Neither Reality Nor Law’ At least one Republican
+    member of Congress is pushing back against Federal Communications Commission...
+  last_post_date: "2026-03-16T22:17:48Z"
+  last_post_link: https://talkingpointsmemo.com/where-things-stand/brendan-carr-wants-to-make-all-of-trumps-fake-news-retribution-dreams-come-true
   last_post_categories:
-  - 2020 elections
-  - DOGE
-  - Donald Trump
-  - Fulton County
-  - The Franchise
-  - redisricting
+  - Brendan Carr
+  - FCC
+  - Iran
+  - RonJohn
+  - Trump II
+  - Where Things Stand
+  - media
   last_post_language: ""
-  last_post_guid: 8eb3f0cfd5103ef58cb7fb0b956aa1dc
+  last_post_guid: 073cb2706104f961928249815fb3fc87
   score_criteria:
     cats: 0
     description: 3

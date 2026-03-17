@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-03-01T14:40:07-08:00"
+date: "2026-03-16T10:38:08-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'

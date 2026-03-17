@@ -3,7 +3,7 @@ title: The Macro Compass
 date: "1970-01-01T00:00:00Z"
 description: |-
   Financial education, macro insights & actionable investment ideas.
-  From Alf's desk - CIO of macro hedge fund Palinuro Capital - straight to your inbox.
+  From Alf's desk - Founder & CEO of The Macro Compass - straight to your inbox.
 params:
   feedlink: https://themacrocompass.substack.com/feed
   feedtype: rss

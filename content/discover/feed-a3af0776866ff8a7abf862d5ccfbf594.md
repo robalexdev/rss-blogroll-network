@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: all eyes on minneapolis
+  last_post_title: tree-style invite systems reduce AI slop
   last_post_description: ""
-  last_post_date: "2026-01-31T00:00:00Z"
-  last_post_link: https://j3s.sh/thought/all-eyes-on-minneapolis.html
+  last_post_date: "2026-03-14T00:00:00Z"
+  last_post_link: https://abyss.fish/tree-style_invite_systems_reduce_AI_slop
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a0f778e4fdbc2c4bcf0bf2a5fbb0bd7
+  last_post_guid: 49b4db1d55a05cd4fd2df738e69a127d
   score_criteria:
     cats: 0
     description: 0

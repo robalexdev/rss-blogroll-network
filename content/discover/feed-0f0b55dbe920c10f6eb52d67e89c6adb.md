@@ -20,31 +20,28 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - featured
+  categories: []
   relme: {}
-  last_post_title: Ideas to grow on X the everything app (formerly Twitter)
-  last_post_description: Practical ideas on growing on Twitter from 4+ years of regular
-    posting and observing the timeline.
-  last_post_date: "2026-01-08T20:09:00Z"
-  last_post_link: https://sankalp.bearblog.dev/ideastogrowontwitter/
-  last_post_categories:
-  - featured
+  last_post_title: songs to wind down
+  last_post_description: "vibes\n  \n\n\n\n  \n    now playing"
+  last_post_date: "2026-03-11T20:22:00Z"
+  last_post_link: https://sankalp.bearblog.dev/songs-to-wind-down/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fc4846182117a8722feb6048a7931a9
+  last_post_guid: 63153ad137a0fc306501d1fb22e8183c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

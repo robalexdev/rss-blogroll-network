@@ -13,6 +13,9 @@ params:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
+  - title: Ryan M. - Blogroll
+    description: ""
+    id: aefe458d084b844b7c2a6e71b48776ee
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

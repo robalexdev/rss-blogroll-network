@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2026-03-05T16:07:00Z"
+date: "2026-03-09T08:04:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -24,14 +24,14 @@ params:
   categories:
   - /tech/gpt
   relme: {}
-  last_post_title: Documentation is a message in a bottle
+  last_post_title: Programmers will document for Claude, but not for each other
   last_post_description: ""
-  last_post_date: "2026-03-05T16:07:00Z"
-  last_post_link: https://blog.plover.com/tech/gpt/documentation-wins.html
+  last_post_date: "2026-03-09T08:04:00Z"
+  last_post_link: https://blog.plover.com/tech/gpt/documentation-wins-2.html
   last_post_categories:
   - /tech/gpt
   last_post_language: ""
-  last_post_guid: 3db558356ad1ff89c42d67029f4a2660
+  last_post_guid: 29755c759568c2080719a63e9d834946
   score_criteria:
     cats: 0
     description: 3

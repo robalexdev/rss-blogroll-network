@@ -23,31 +23,34 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Homelessness
+  - Department of Sanitation
+  - Weather
   relme: {}
-  last_post_title: City Shutting Down Historic 30th Street Intake Shelter
-  last_post_description: New York City’s Department of Homeless Services is shutting
-    down Manhattan’s massive 30th Street Shelter — the main intake location for men
-    and adult families entering the city’s behemoth
-  last_post_date: "2026-03-05T13:57:48Z"
-  last_post_link: https://www.thecity.nyc/2026/03/05/city-shutting-down-historic-30th-street-shelter/
+  last_post_title: Nearly Impossible to Enforce City Pooper Scooper Law, Sanitation
+    Official Says
+  last_post_description: Dog poop is everywhere, city sanitation officials acknowledge.
+    But when it comes to ticketing offending pooch owners, enforcement officers may
+    be barking up the wrong tree. Javier Lojan, the acting
+  last_post_date: "2026-03-16T21:08:26Z"
+  last_post_link: https://www.thecity.nyc/2026/03/16/dog-poop-sanitation-enforcement/
   last_post_categories:
-  - Homelessness
+  - Department of Sanitation
+  - Weather
   last_post_language: ""
-  last_post_guid: b67b824685903f8a897d71db9456abc8
+  last_post_guid: 618586a4d83e9658f4037793cc83878c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

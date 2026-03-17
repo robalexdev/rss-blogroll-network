@@ -14,6 +14,10 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.8.14.
+    id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
@@ -23,16 +27,16 @@ params:
   relme:
     https://jakesav.in/: true
     https://mastodon.social/@jsavin: true
-  last_post_title: I’ve Migrated to WordPress.com
-  last_post_description: I’ve been meaning to do this forever, and now the deed is
-    done. I’ve been self-hosting my blog in one way or another, across many platforms
-    and machines since 1997(!), and though I still run my
-  last_post_date: "2026-03-05T02:26:00Z"
-  last_post_link: https://jakesav.in/2026/03/04/ive-migrated-to-wordpress-com/
+  last_post_title: RIP Pickles
+  last_post_description: Today we said goodbye to Pickles the Wonder Pug, aka Black
+    Lightning. He gave our family nine years of unconditional love, snugs, snorts,
+    and romps—guarding our safety, and protecting us from
+  last_post_date: "2026-03-08T20:54:43Z"
+  last_post_link: https://jakesav.in/2026/03/08/rip-pickles/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 627d3ef1aea7645a58632e793e917461
+  last_post_guid: 9c0ea8ca43fa2d898fb40a1bf722771c
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Adventurers' Guild
-date: "2026-03-06T04:55:05+11:00"
+date: "2026-03-17T06:21:48+11:00"
 description: ""
 params:
   feedlink: https://advgamer.blogspot.com/atom.xml
@@ -406,16 +406,16 @@ params:
   - detective stories
   - limbeck
   relme: {}
-  last_post_title: The Clue! - They Stole a Hundred Bucks
+  last_post_title: The Clue! - One Fish, Two Fish, Red Fish, Blue Fish
   last_post_description: ""
-  last_post_date: "2026-03-04T00:00:00+11:00"
-  last_post_link: https://advgamer.blogspot.com/2026/03/the-clue-they-stole-hundred-bucks.html
+  last_post_date: "2026-03-17T00:00:00+11:00"
+  last_post_link: https://advgamer.blogspot.com/2026/03/the-clue-one-fish-two-fish-red-fish.html
   last_post_categories:
   - "1994"
   - MenhirMike
   - The Clue
   last_post_language: ""
-  last_post_guid: 4a50d4d88045d338fe09897bb38a1f5d
+  last_post_guid: 01851e9db3a83d88d83dd4ef15ccae8f
   score_criteria:
     cats: 5
     description: 0

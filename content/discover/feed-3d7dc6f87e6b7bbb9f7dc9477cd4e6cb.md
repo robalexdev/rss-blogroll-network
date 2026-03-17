@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2026-02-22T16:11:26Z"
+date: "2026-03-06T12:34:04Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -23,16 +23,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A letter from 2016 to 2026
+  last_post_title: Reflections, shattered by a thousand faces
   last_post_description: |-
-    This is a fictional letter, grown out of me musing about "what would
-    a person ten years ago think about 2026? What would they expect?" No
-    time travelers were hurt in the making of this letter.Hey
-  last_post_date: "2026-02-22T16:10:00Z"
-  last_post_link: https://dustycloud.org/blog/a-letter-from-2016-to-2026/
+    I posted
+    something
+    about the challenge with my writing that seemed worth capturing:A wise person tumbles a stone until smooth, makes a few choice cuts.I foolishly chisel so many facets into it again
+  last_post_date: "2026-03-06T12:30:00Z"
+  last_post_link: https://dustycloud.org/blog/reflections-shattered-by-a-thousand-faces/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e374ad5fd09aeabb889169f8dd064d62
+  last_post_guid: e25c6efe09172a668c32669244601148
   score_criteria:
     cats: 0
     description: 3

@@ -45,30 +45,26 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories:
-  - "000"
-  - cosplay
   - general
-  - memories
-  - post-title-trade
+  - musings
+  - swim2026
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: My Favorite Cosplay
-  last_post_description: I am trading blog post titles with Sara. She gave me a few
-    suggestions for what to write about. I chose the title “My favorite cosplay”.
-    I like to dress up. And I like to dress up in costumes.
-  last_post_date: "2026-03-04T23:32:15Z"
-  last_post_link: https://artlung.com/blog/2026/03/04/my-favorite-cosplay/
+  last_post_title: Safety Warning
+  last_post_description: The panorama from today There were a couple on the edge of
+    the small cliff that overlooks PB. It’s a part of the landscape that collapses.
+    There’s signage that says “UNSTABLE CLIFFS.”
+  last_post_date: "2026-03-16T03:11:09Z"
+  last_post_link: https://artlung.com/blog/2026/03/15/safety-warning/
   last_post_categories:
-  - "000"
-  - cosplay
   - general
-  - memories
-  - post-title-trade
+  - musings
+  - swim2026
   last_post_language: ""
-  last_post_guid: 1d54f18c2cdef8f7c5cd86e7eb6b64ee
+  last_post_guid: fa5e6ccbdc82c89aa22412f982dd3268
   score_criteria:
     cats: 0
     description: 3

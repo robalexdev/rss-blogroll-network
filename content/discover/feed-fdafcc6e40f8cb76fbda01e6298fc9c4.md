@@ -1,6 +1,6 @@
 ---
 title: Advantage on Arcana
-date: "2026-03-05T10:03:55Z"
+date: "2026-03-16T22:23:50Z"
 description: Welcome to my blog Advantage on Arcana. Here I intend to think about
   tabletop roleplaying games and perhaps provide some resources for players and GMs.
   A fun...

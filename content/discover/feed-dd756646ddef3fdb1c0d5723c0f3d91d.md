@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Pentagon’s bombshell deal with OpenAI, explained
-  last_post_description: Only Congress can put meaningful limits on government abuse
-    of AI.
-  last_post_date: "2026-03-02T21:28:19Z"
-  last_post_link: https://www.understandingai.org/p/the-pentagons-bombshell-deal-with
+  last_post_title: It still doesn’t look like there’s an AI bubble
+  last_post_description: Anthropic's annualized revenue doubled in just two months.
+  last_post_date: "2026-03-16T15:26:57Z"
+  last_post_link: https://www.understandingai.org/p/it-still-doesnt-look-like-theres
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fe982d1fea126ef16cf06c00d9badcdb
+  last_post_guid: 159142ebe1bfbed1338942c665d1838d
   score_criteria:
     cats: 0
     description: 3

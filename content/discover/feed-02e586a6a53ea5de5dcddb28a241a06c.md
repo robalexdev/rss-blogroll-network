@@ -22,17 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stderr
+  - stdout
   relme: {}
-  last_post_title: AI 弑父
-  last_post_description: 大型语言模型（LLM）所谓的涌现能力，一般说成是随着模型规模的增长，突然出现新的技能，而非平滑提升。我对此有个疑惑。gpt1
-    gpt2
-  last_post_date: "2026-03-05T15:10:00+08:00"
-  last_post_link: https://blog.est.im/2026/stderr-17
+  last_post_title: chat.est.im launches at 3.14
+  last_post_description: |-
+    Long over due. But finally, it's here.
+    Last year I saw an interesting thread on V2EX that utilize curl -N to display cool ANSI art, and I wondered how to make it "interactive". After a series of
+  last_post_date: "2026-03-14T12:04:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-10
   last_post_categories:
-  - stderr
+  - stdout
   last_post_language: ""
-  last_post_guid: 58ea78895987981b255c592977b169b9
+  last_post_guid: 6790b4e427c8d280c135ce5920b666e8
   score_criteria:
     cats: 0
     description: 3

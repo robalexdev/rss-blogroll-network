@@ -1,6 +1,6 @@
 ---
 title: jngiam
-date: "2026-03-05T14:47:36Z"
+date: "2026-03-16T17:04:18Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
   Brain, Coursera, Stanford. \n\n linkedin @jngiam\n x/twitter @jiquanngiam\nlutra
   ai\n\nsu..."
@@ -23,22 +23,24 @@ params:
   categories:
   - agents
   - claude-code
-  - latex
-  - pdf
+  - cli
+  - enterprise
+  - mcp
   - skills
   relme: {}
-  last_post_title: LaTeX is a great hack for generating PDFs with Claude Code
+  last_post_title: 'MCPs, CLIs, and skills: when to use what?'
   last_post_description: ""
-  last_post_date: "2026-02-03T00:42:24Z"
-  last_post_link: https://jngiam.bearblog.dev/latex-is-a-great-hack-for-generating-pdfs-with-claude-code/
+  last_post_date: "2026-03-16T03:27:45Z"
+  last_post_link: https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/
   last_post_categories:
   - agents
   - claude-code
-  - latex
-  - pdf
+  - cli
+  - enterprise
+  - mcp
   - skills
   last_post_language: ""
-  last_post_guid: 1cd0c17ee259be6455668af77fa10ca6
+  last_post_guid: 06ce1241e998701b45c9a3bd4784df6d
   score_criteria:
     cats: 0
     description: 3

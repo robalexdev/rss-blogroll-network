@@ -10,6 +10,9 @@ params:
     https://paulstamatiou.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Miloš Miljković - Blogroll
+    description: ""
+    id: ffa5e63462db333bc9076d25a3826098
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5

@@ -20,31 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - What&#039;s in my NOW?
-  - What's in My Bag
+  - Tools for Possibilities
   relme: {}
-  last_post_title: What’s in my NOW? — Amanda McClendon
-  last_post_description: 'issue #244'
-  last_post_date: "2026-03-04T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/whats-in-my-now-amanda-mcclendon/
+  last_post_title: Beekeeping
+  last_post_description: 'Tools for Possibilities: issue no. 181'
+  last_post_date: "2026-03-16T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/beekeeping/
   last_post_categories:
-  - What&#039;s in my NOW?
-  - What's in My Bag
+  - Tools for Possibilities
   last_post_language: ""
-  last_post_guid: ca4add7d6dd1e33eb856bd78201bd8e6
+  last_post_guid: 0966a7ffe2df03bf9088d2bec909b257
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

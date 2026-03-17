@@ -52,6 +52,10 @@ params:
   - title: The Go Blog
     description: ""
     id: 2f02a05b9ae2b09d6abb5aa771db4a68
+  - title: Rakhim's blog
+    description: Hi, my name is Rakhim. I'm a staff engineer at IQM Quantum Computers.
+      I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Twitter.
+    id: 331af3de3ac9ed88c90a647edd72f284
   - title: Home on Rakhim's homepage
     description: Recent content in Home on Rakhim's homepage
     id: 3ac6ac83d1b44027b98144cdb85443c1

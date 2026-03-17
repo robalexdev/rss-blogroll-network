@@ -18,6 +18,9 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
     id: 3aa0df25d16736cc58c03448d166adb5
+  - title: Craig Pilcher - Blogroll
+    description: ""
+    id: 95bd7e73716c40b23e77ae9e0ad9d8c8
   - title: Sam Fiske - Blogroll
     description: ""
     id: 48bfd0207cfcbebb598acb065ff02b62
@@ -26,35 +29,24 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Capital
-  - Interviews
-  - NBA
-  - defector at your service
-  - giannis antetokounmpo
-  - landlords
-  - milwaukee bucks
-  - new york city
-  - tenants
+  - Everton
+  - Max Dowman
+  - Soccer
+  - arsenal
   relme: {}
-  last_post_title: An Interview With A Tenant Who Doesn’t Have Heat In Giannis Antetokounmpo’s
-    Building
-  last_post_description: A tenant in a Brooklyn building owned by Milwaukee Bucks
-    star Giannis Antetokounmpo has not had heat in his apartment since Feb. 23, when
-    a blizzard dropped over 19 inches of snow on New York City.
-  last_post_date: "2026-03-05T17:41:32Z"
-  last_post_link: https://defector.com/an-interview-with-an-unhappy-tenant-in-giannis-antetokounmpo-building
+  last_post_title: Teenager Max Dowman Gave Arsenal A Major Coolness Boost
+  last_post_description: Arsenal's blunt-object dominance of the Premier League has
+    given non-Gooners little to enjoy this season. It's not much fun to watch a team
+    set-piece and defend its way to a title, even if the whole
+  last_post_date: "2026-03-16T18:00:08Z"
+  last_post_link: https://defector.com/teenager-max-dowman-gave-arsenal-a-major-coolness-boost
   last_post_categories:
-  - Capital
-  - Interviews
-  - NBA
-  - defector at your service
-  - giannis antetokounmpo
-  - landlords
-  - milwaukee bucks
-  - new york city
-  - tenants
+  - Everton
+  - Max Dowman
+  - Soccer
+  - arsenal
   last_post_language: ""
-  last_post_guid: 100e78cecdefe72264bda118de758c13
+  last_post_guid: 574713250ec916b125064c03de0a6a75
   score_criteria:
     cats: 0
     description: 3

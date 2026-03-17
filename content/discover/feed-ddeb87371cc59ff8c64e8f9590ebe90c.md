@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 特别博物馆
-  last_post_description: ""
-  last_post_date: "2026-02-10T22:16:48+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/special-museum/
+  last_post_title: 从平行世界的幻梦里借点能量吧
+  last_post_description: 我最近总感觉穿越到了一个平行世界里，对时间的感觉不再是线性的，因为每天都会无数次回到那一天。
+  last_post_date: "2026-03-15T12:48:40+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/teyvat/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6823edae641b86c10191d8cb9f65ba3f
+  last_post_guid: 2a965a1a0e02beebdc1cf7c28af6c99f
   score_criteria:
     cats: 0
     description: 3

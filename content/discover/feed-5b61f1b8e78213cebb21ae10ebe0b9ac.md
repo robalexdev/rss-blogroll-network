@@ -1,6 +1,6 @@
 ---
 title: Ratfactor Feed
-date: "2026-02-28T00:12:00Z"
+date: "2026-03-15T00:12:00Z"
 description: Dave Gauer's personal website. Mostly technical articles.
 params:
   feedlink: https://ratfactor.com/atom.xml
@@ -25,17 +25,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Fitted sheet update: Unfolding a professionally folded fitted
-    sheet!'
-  last_post_description: |-
-    SECRETS REVEALED!!! I know a lot of you have been waiting for this
-                update. The unfolding of a brand-new fitted sheet set. What will
-                we discover? Let's find out...
-  last_post_date: "2026-03-02T00:00:00Z"
-  last_post_link: http://ratfactor.com/cards/fitted-sheets-pro-unfold
+  last_post_title: 'OpenBSD Blog #13: Moving ratfactor.com to OpenBSD.amsterdam'
+  last_post_description: This website has moved to a new OS and web server and host!
+    You shouldn't really notice anything different, but there are probably more broken
+    links than usual...
+  last_post_date: "2026-03-15T00:00:00Z"
+  last_post_link: http://ratfactor.com/openbsd/blog-13-moving-to-openbsd-dot-amsterdam
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 10c0b73cd7e1b8cfdcd7d26e1d1ffac4
+  last_post_guid: c0a1b633f92f57997e5ee89572397d84
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
-title: "\U0001F469‍\U0001F4BB Ellie's Notes"
-date: "1970-01-01T00:00:00Z"
-description: "Last 10 notes on \U0001F469‍\U0001F4BB Ellie's Notes"
+title: Ellie's Notes
+date: "2026-02-16T00:00:00Z"
+description: Personal site of Ellie Huxtable
 params:
   feedlink: https://ellie.wtf/index.xml
   feedtype: rss
@@ -24,17 +24,19 @@ params:
   categories: []
   relme:
     https://ellie.wtf/: true
-  last_post_title: projects
+    https://github.com/ellie: true
+    https://hachyderm.io/@ellie: true
+  last_post_title: Spegel for p2p docker registries in k3s
   last_post_description: ""
-  last_post_date: "2025-11-06T20:54:32Z"
-  last_post_link: https://ellie.wtf/projects
+  last_post_date: "2026-02-16T00:00:00Z"
+  last_post_link: https://ellie.wtf/notes/spegel/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f77f43dd22860a04cf051fb9ddeacbab
+  last_post_guid: ae71a6c3b9a0476befb22013e2918f0f
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -43,11 +45,11 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 0
 ---

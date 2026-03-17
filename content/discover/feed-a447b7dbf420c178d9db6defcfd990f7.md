@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-03-04T06:46:22Z"
+date: "2026-03-16T06:53:26Z"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -467,17 +467,16 @@ params:
   - work
   - writing
   relme: {}
-  last_post_title: About Cosmic John
+  last_post_title: About unread books
   last_post_description: ""
-  last_post_date: "2026-03-04T06:46:22Z"
-  last_post_link: https://culturalsnow.blogspot.com/2026/03/about-cosmic-john.html
+  last_post_date: "2026-03-14T07:58:38Z"
+  last_post_link: https://culturalsnow.blogspot.com/2026/03/about-unread-books.html
   last_post_categories:
-  - Radiohead
+  - AI
+  - absence
   - books
-  - music
-  - questions
   last_post_language: ""
-  last_post_guid: 4c9b1c97d50831cf0f57064a3d786327
+  last_post_guid: de8b983bb985313c39cee412dbfb4987
   score_criteria:
     cats: 5
     description: 3

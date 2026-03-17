@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-03-04T01:53:08Z"
+date: "2026-03-11T10:05:45Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,16 +28,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 桌面游戏
+  - lua与虚拟机
   relme: {}
-  last_post_title: 'Star Trek : Captain''s Chair 初体验'
-  last_post_description: '今年过年，我沉迷于 Star Trek : Captain''s Chair 这款 2025'
-  last_post_date: "2026-03-04T01:53:08Z"
-  last_post_link: https://blog.codingnow.com/2026/03/star_trek_captains_chair.html
+  last_post_title: soluna 外挂 C 模块
+  last_post_description: soluna 集成了 lua 虚拟机，但默认构建方式是将 lua 库静态链接到唯一的执行文件中。这将导致无法以动态库的形式外挂
+    Lua 的 C 扩展。
+  last_post_date: "2026-03-11T10:05:45Z"
+  last_post_link: https://blog.codingnow.com/2026/03/soluna_external_lib.html
   last_post_categories:
-  - 桌面游戏
+  - lua与虚拟机
   last_post_language: ""
-  last_post_guid: ef7aa7c27e8e6882f2cde18e978092f2
+  last_post_guid: 88810b2639bf9f4fe697c677f5efda24
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-02-21T17:05:57Z"
+date: "2026-03-15T16:27:11Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml

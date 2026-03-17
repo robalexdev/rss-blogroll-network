@@ -20,37 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Anthropic
-  - ChatGPT
-  - OpenAI
-  - claudeAI
+  - Ephemeral Scrapbook
   relme: {}
-  last_post_title: Hitting Pause on ChatGPT
-  last_post_description: Always have an exit strategy at hand; you never know.
-  last_post_date: "2026-03-01T20:20:22Z"
-  last_post_link: https://numericcitizen.me/hitting-pause-on-chatgpt/
+  last_post_title: The Ephemeral Scrapbook — 2026.03.08
+  last_post_description: Say Hello to Lil Finder Guy!
+  last_post_date: "2026-03-09T00:11:54Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-03-08/
   last_post_categories:
-  - AI
-  - Anthropic
-  - ChatGPT
-  - OpenAI
-  - claudeAI
+  - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: eb6b8487d802058d4b210068e2053464
+  last_post_guid: c0a3e0bae1750fabec621a06787cd433
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

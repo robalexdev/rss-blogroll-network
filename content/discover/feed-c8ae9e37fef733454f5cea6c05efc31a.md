@@ -1,6 +1,6 @@
 ---
 title: iPotato
-date: "2025-03-09T12:50:40Z"
+date: "2026-03-09T14:30:37Z"
 description: ""
 params:
   feedlink: https://ipotato.me/feed
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 使用 Cloudflare Workers 搭建轻量级 LLM API 网关
+  last_post_title: Intention Is All You Need
   last_post_description: ""
-  last_post_date: "2025-03-09T12:50:40Z"
-  last_post_link: https://ipotato.me/article/build-lightweight-llm-api-gateway-using-cloudflare-workers
+  last_post_date: "2026-03-09T14:30:37Z"
+  last_post_link: https://ipotato.me/article/intention-is-all-you-need
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a4a5372c054f1590db5d10dd7772e972
+  last_post_guid: f3b7f27fb654fb86856ed31ed6424a22
   score_criteria:
     cats: 0
     description: 0

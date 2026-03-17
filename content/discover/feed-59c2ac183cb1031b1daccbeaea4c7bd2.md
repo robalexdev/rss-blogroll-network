@@ -19,21 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Data Underload
-  - unemployment
-  - work
+  - Bureau of Economic Analysis
+  - New York Times
+  - Statistics
+  - economy
+  - inflation
   relme: {}
-  last_post_title: Unemployment reasons, by age and education
-  last_post_description: 'Why Americans are unemployed varies across groups. Tags:
-    unemployment, work'
-  last_post_date: "2026-03-05T14:07:49Z"
-  last_post_link: https://flowingdata.com/2026/03/05/unemployment-reasons/
+  last_post_title: Subbed data source, lower inflation estimate
+  last_post_description: 'For the New York Times, Ben Casselman reports on a previously
+    undisclosed change…Tags: Bureau of Economic Analysis, economy, inflation, New
+    York Times'
+  last_post_date: "2026-03-16T17:46:46Z"
+  last_post_link: https://flowingdata.com/2026/03/16/subbed-data-source-lower-inflation-estimate/
   last_post_categories:
-  - Data Underload
-  - unemployment
-  - work
+  - Bureau of Economic Analysis
+  - New York Times
+  - Statistics
+  - economy
+  - inflation
   last_post_language: ""
-  last_post_guid: 1c077624d74d2aa7e42da9b4a9fc5eaf
+  last_post_guid: 3aee52bc9afffbdcd567d295387430b6
   score_criteria:
     cats: 0
     description: 3

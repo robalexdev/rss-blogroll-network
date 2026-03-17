@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Thu, 05 Mar 2026 14:24:55 GMT
+date: Mon, 16 Mar 2026 18:21:51 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.8.14.
 params:
@@ -163,10 +163,9 @@ params:
     description: Recent content in Tom Renner on My place to put things
     id: d255cbef66c405c747d4eb4492936ac7
   - title: Computer Things
-    description: |-
-      Hi, I'm Hillel. This is the newsletter version of [my website](https://www.hillelwayne.com). I post all website updates here. I also post weekly content just for the newsletter, on topics like
-
-      *
+    description: Hi, I'm Hillel. This is the newsletter version of my website. I post
+      all website updates here. I also post weekly content just for the newsletter,
+      on topics likeFormal MethodsSoftware History and
     id: d65ec855d472147d01bb32c6dccae847
   - title: seangoedecke.com RSS feed
     description: Sean Goedecke's personal blog

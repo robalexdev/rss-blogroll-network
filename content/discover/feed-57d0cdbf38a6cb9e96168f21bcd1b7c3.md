@@ -10,6 +10,9 @@ params:
     https://derekkedziora.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Miloš Miljković - Blogroll
+    description: ""
+    id: ffa5e63462db333bc9076d25a3826098
   - title: Dan Q's Blogroll
     description: ""
     id: 7e0e72d6fd1109a16363155b4cda88a8

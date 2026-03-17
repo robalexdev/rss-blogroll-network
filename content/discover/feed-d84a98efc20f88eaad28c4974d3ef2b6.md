@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Time to move on: n8n vs code for SaaS builders'
-  last_post_description: 'n8n is a no-code (low-code) automation platform - similar
-    to Zapier but more technical - and it can be self-hosted. I love n8n (read my
-    older detailed writeup about it): it makes you feel powerful on'
-  last_post_date: "2025-11-03T13:46:52Z"
-  last_post_link: https://pixeljets.com/blog/n8n-vs-code/
+  last_post_title: 'Launching ModelRift: a web-based IDE for parametric 3D modeling'
+  last_post_description: 'Last week I got a message from a parent: "Hey, my 9 year
+    old son uses ModelRift for creating things for his 3D printer, it''s great! Product
+    feedback: You should probably ask me to pay now, I feel'
+  last_post_date: "2026-03-06T17:13:27Z"
+  last_post_link: https://pixeljets.com/blog/modelrift-ide-for-parametric-3d-modeling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 682c89bdbcbbdc5af5e4d0a88618010f
+  last_post_guid: 6b58799488eff25977c109bcd12c7732
   score_criteria:
     cats: 0
     description: 3

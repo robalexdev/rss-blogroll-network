@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I used a local LLM to analyze my journal entries
+  last_post_title: I built a programming language using Claude Code
   last_post_description: ""
-  last_post_date: "2026-02-13T16:04:58Z"
-  last_post_link: https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/
+  last_post_date: "2026-03-10T16:23:25Z"
+  last_post_link: https://ankursethi.com/blog/programming-language-claude-code/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4ff2d6e92f92aedeaa0f6434c258332e
+  last_post_guid: 0e7cab8f98d6f7c95956674fdcdad555
   score_criteria:
     cats: 0
     description: 3

@@ -30,34 +30,33 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories:
-  - News
+  categories: []
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: Schedule of WordCamp Asia Birgit’s selected sessions
-  last_post_description: This year’s WordCamp Asia just published the first version
-    of its schedule with sessions and workshops. Contributor Day also has a few workshop
-    slots. If you registered for Contributor Day you are
-  last_post_date: "2026-03-02T12:01:31Z"
-  last_post_link: https://gutenbergtimes.com/schedule-of-wordcamp-asia-birgits-selected-sessions/
-  last_post_categories:
-  - News
+  last_post_title: 'Gutenberg Changelog #128 – Gutenberg 22.7 Version and Dev Notes
+    for 7.0'
+  last_post_description: "\U0001F389 Announcing GT Changelog Podcast Episode 128:
+    Deep Dive Into Gutenberg 22.7 & WordPress 7.0 Dev Notes! \U0001F389 We’re back
+    with another packed episode of the GT Changelog Podcast! In episode 128,"
+  last_post_date: "2026-03-15T04:58:16Z"
+  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-128-gutenberg-22-7-version-and-dev-notes-for-7-0/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: c248692e246c7b65e4c7c716e21b7973
+  last_post_guid: 610c495ff26b47f6db97126d73f9d7f5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

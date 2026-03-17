@@ -19,39 +19,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - capability
-  - continuous delivery
-  - productivity
+  - a.i.
   - software development
-  - teams
   relme: {}
-  last_post_title: A New DORA Performance Level – Catastrophically Bad
-  last_post_description: 'DORA (DevOps Research & Assessment) has 4 broad levels for
-    dev team performance: Elite, High, Medium, and Low. A Low-Performing team deploys
-    less than once a month, has lead times for changes > 1'
-  last_post_date: "2026-03-04T04:46:54Z"
-  last_post_link: https://codemanship.wordpress.com/2026/03/04/a-new-dora-performance-level-catastrophically-bad/
+  last_post_title: 'The AI-Ready Software Developer #21 – Stuck In A “Doom Loop”?
+    Drop A Gear'
+  last_post_description: I find it helpful to visualise agentic workflows as sequences
+    of dice throws. Take the now-popular “Ralph Wiggum loop“. You want 7. The agent
+    throws the dice, and it’s 5. That fails your test
+  last_post_date: "2026-03-11T07:14:14Z"
+  last_post_link: https://codemanship.wordpress.com/2026/03/11/the-ai-ready-software-developer-21-stuck-in-a-doom-loop-drop-a-gear/
   last_post_categories:
-  - capability
-  - continuous delivery
-  - productivity
+  - a.i.
   - software development
-  - teams
   last_post_language: ""
-  last_post_guid: 3fb05420f82c36b33cd5ae2f11f47036
+  last_post_guid: ee0b31c7eb9733c7733bb0eff7edeacc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

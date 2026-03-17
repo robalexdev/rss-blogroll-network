@@ -32,18 +32,18 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: I built a pint-sized Macintosh
+  last_post_title: 'Restoring an Xserve G5: When Apple built real servers'
   last_post_description: |-
-    To kick off MARCHintosh, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:
+    Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, RackMac3,1, which was built when Apple at the top—and bottom—of it's PowerPC era.
 
 
 
-    This is not my own doing—I just assembled the parts to run Matt Evans' Pico Micro Mac firmware on a
-  last_post_date: "2026-03-02T15:15:00-06:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/
+    This isn't
+  last_post_date: "2026-03-13T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2aa4db021f6ffdd2620ee9451577ec39
+  last_post_guid: 21e44a99528b9cbb393d3062ec8b135a
   score_criteria:
     cats: 0
     description: 3

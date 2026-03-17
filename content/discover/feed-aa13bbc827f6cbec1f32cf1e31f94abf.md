@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-03-05T12:38:08-05:00"
+date: "2026-03-16T16:32:25-04:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Figure Review: Pirate Hunter Zoro from One Piece FigLife! by Bandai
-    Namco/ Banpresto'
+  last_post_title: 'Action Figure Review: Kyle Katarn from Star Wars: The Black Series
+    Phase IV by Hasbro'
   last_post_description: ""
-  last_post_date: "2026-03-05T12:38:08-05:00"
-  last_post_link: https://www.actionfigurebarbecue.com/2026/03/figure-review-pirate-hunter-zoro-from.html
+  last_post_date: "2026-03-14T20:20:22-04:00"
+  last_post_link: https://www.actionfigurebarbecue.com/2026/03/action-figure-review-kyle-katarn-from.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db29233b207c20db14afdc4f9f9c4c93
+  last_post_guid: 05d5e6355d61fa5c9a65f7ec18caabed
   score_criteria:
     cats: 0
     description: 3

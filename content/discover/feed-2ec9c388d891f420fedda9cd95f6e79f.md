@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-03-05T11:56:12Z"
+date: "2026-03-16T13:00:13Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -23,33 +23,45 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bearblog
-  - plugin
+  - newsletter
+  - pokemon
+  - 宝可梦
+  - 搬家
+  - 摄影
+  - 日常
+  - 游戏
+  - 漫画
+  - 英国
   relme: {}
-  last_post_title: Show Random posts in Bear Blog
-  last_post_description: This post shows how to add a “Random posts” section to Bear
-    Blog using a small JavaScript plugin that shuffles and displays posts while preserving
-    the platform’s default post list layout.
-  last_post_date: "2026-03-04T11:55:50Z"
-  last_post_link: https://anotherdayu.com/random-posts/
+  last_post_title: Plog 6 搬家啦
+  last_post_description: ""
+  last_post_date: "2026-03-06T13:32:22Z"
+  last_post_link: https://anotherdayu.com/plog-6/
   last_post_categories:
-  - bearblog
-  - plugin
+  - newsletter
+  - pokemon
+  - 宝可梦
+  - 搬家
+  - 摄影
+  - 日常
+  - 游戏
+  - 漫画
+  - 英国
   last_post_language: ""
-  last_post_guid: 0e651d2d9d5bf05e3ca455fb00139eae
+  last_post_guid: 0b683eff672155426979f3bc04eea021
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

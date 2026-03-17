@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我被碗公療癒了
-  last_post_description: 昨天去找超級有才華的朋友 Kenny。
-  last_post_date: "2026-03-05T07:10:00Z"
-  last_post_link: https://wiwi.blog/blog/singing-bowl-experience
+  last_post_title: 離線 AI 好爽（2026 年版）
+  last_post_description: 2024 年九月時，我寫過一篇〈離線 AI 好爽！〉。
+  last_post_date: "2026-03-16T05:30:00Z"
+  last_post_link: https://wiwi.blog/blog/offline-ai-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4475f7c74b14d51ad2327e3e597bbba8
+  last_post_guid: fb86c7fe2bd9244ee9dfeac17f868c41
   score_criteria:
     cats: 0
     description: 3

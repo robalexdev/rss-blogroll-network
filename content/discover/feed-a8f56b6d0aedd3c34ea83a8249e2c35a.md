@@ -1,6 +1,6 @@
 ---
 title: itsamadmadblog
-date: "2026-02-13T03:07:55-08:00"
+date: "2026-03-12T03:13:21-07:00"
 description: ""
 params:
   feedlink: https://itsamadmadblog2.blogspot.com/feeds/posts/default

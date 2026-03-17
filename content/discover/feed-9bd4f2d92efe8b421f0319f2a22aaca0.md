@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Bernie’s Journey
-  last_post_description: We’re tracking the Bernie Sanders story from a Brooklyn boyhood
-    to the Green Mountain socialism that he implanted in Vermont, and then to his
-    two offbeat campaigns for the Democratic presidential
-  last_post_date: "2026-02-19T19:15:12Z"
-  last_post_link: https://radioopensource.org/bernies-journey/
+  last_post_title: Sleepwalking into World War III
+  last_post_description: I must say, among all the wise people commenting on this
+    world’s situation, I honor Jeffrey Sachs especially for being relentless on the
+    dangers out there, going back to the Biden years. Jeffrey
+  last_post_date: "2026-03-11T00:19:17Z"
+  last_post_link: https://radioopensource.org/sleepwalking-into-world-war-iii/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 86ad6752ccb7c0fed50b67d01227105d
+  last_post_guid: 46679531d309b9a1139309c711d8fa25
   score_criteria:
     cats: 1
     description: 3

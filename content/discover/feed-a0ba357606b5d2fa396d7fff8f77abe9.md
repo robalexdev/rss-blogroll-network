@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-03-03T17:40:31-08:00"
+date: "2026-03-14T20:31:54-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml

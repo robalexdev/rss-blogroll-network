@@ -1,8 +1,8 @@
 ---
 title: Raj Patel
 date: "1970-01-01T00:00:00Z"
-description: Film-maker, academic, author of Stuffed & Starved, A History of the World
-  In Seven Cheap Things, and Inflamed
+description: Film-maker, academic, author of Stuffed & Starved, co-author of A History
+  of the World In Seven Cheap Things, and Inflamed
 params:
   feedlink: https://rajpatel.org/feed/
   feedtype: rss
@@ -20,16 +20,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: What Is Innovation in Agriculture?
-  last_post_description: I’ll dig into this a bit more next week in the newsletter,
-    but here’s a report to which I contributed, just out from IPES-Food, on what counts
-    as agricultural innovation, and what the future of
-  last_post_date: "2026-02-28T18:16:45Z"
-  last_post_link: https://rajpatel.org/2026/02/28/what-is-innovation-in-agriculture/
+  last_post_title: A Fertilizer Import Vulnerability Map
+  last_post_description: This widget shows the chokepoints and seasonal vulnerability
+    of different countries to import shocks. Slide across the months to see how imports
+    change across the seasons. Each bubble represents a
+  last_post_date: "2026-03-06T14:51:02Z"
+  last_post_link: https://rajpatel.org/2026/03/06/fertiliser-import-vulnerability-map/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: cfb998d2cd0db681316ca5f2c6eadffc
+  last_post_guid: e19c70493ac8572f634b0285f5157368
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-03-03T18:19:35-08:00"
+date: "2026-03-15T15:46:59-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -128,19 +128,18 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: Blue Sunshine
+  last_post_title: Magic
   last_post_description: ""
-  last_post_date: "2026-03-01T19:21:52-08:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/03/blue-sunshine.html
+  last_post_date: "2026-03-10T19:28:44-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/03/magic.html
   last_post_categories:
   - Drama
   - Horror
   - Movies
   - Psychological Thrillers
   - Reviews
-  - Weirdness
   last_post_language: ""
-  last_post_guid: eb8086117ddb8cafaa3f0c23da54ef5b
+  last_post_guid: abe894a88d9dee659e999c97f287d38d
   score_criteria:
     cats: 5
     description: 3

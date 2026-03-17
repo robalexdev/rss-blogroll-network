@@ -1,5 +1,5 @@
 ---
-title: YouTube Channels (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)
+title: YouTube Channels (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
 date: ""
 description: ""
 params:

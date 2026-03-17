@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Finding Comfort in the Uncertainty
-  last_post_description: I’m writing this having just landed back in New Zealand after
-    a very long journey home from Utah. On the final leg from Houston to Auckland,
-    I found myself wedged between a retired industrial
-  last_post_date: "2026-02-06T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/finding-comfort-in-the-uncertainty/
+  last_post_title: The Middle Loop
+  last_post_description: Early in my career, I took a job as a software developer
+    at a large consultancy. Turns out the work mostly involved fixing other people’s
+    Access databases by right-clicking and hitting “repair”
+  last_post_date: "2026-03-13T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/the-middle-loop/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bc591acc575b3c4c2ad3794d9fc8329a
+  last_post_guid: ca64e79215a401dea3acb15dd72c11db
   score_criteria:
     cats: 0
     description: 3

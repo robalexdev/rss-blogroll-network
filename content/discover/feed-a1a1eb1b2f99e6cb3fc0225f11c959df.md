@@ -20,16 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I gave the MacBook Pro a try
+  last_post_title: Server room? No, I have a server pantry.
   last_post_description: |-
-    I got the opportunity to try out a MacBook Pro with the M3 Pro with 18GB RAM (not Pro).
-    I’ve been rocking a ThinkPad P14s gen 4
-    and am reasonably happy with it, but after realizing that I am the
-  last_post_date: "2026-03-04T06:00:00+02:00"
-  last_post_link: https://ounapuu.ee/posts/2026/03/04/apfel/
+    The apartment that I live in right now has two small rooms with doors on them.
+    One of them is like a normal closet and that’s where the ISP passive fiber optic line comes in.
+    The other one is a
+  last_post_date: "2026-03-11T06:00:00+02:00"
+  last_post_link: https://ounapuu.ee/posts/2026/03/11/server-pantry/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cf78ec8bdba2ad573587721f13d00d1d
+  last_post_guid: 0ca7846d82a6e09392daef26659cb451
   score_criteria:
     cats: 0
     description: 3

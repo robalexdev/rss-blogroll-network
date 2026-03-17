@@ -22,48 +22,34 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Economy
-  - Education
-  - Jim Murphy
-  - Kathy Steinhoff
-  - Legislature
-  - Tim Taylor
-  - minimum school levy
-  - property subclasses
-  - property tax
+  - DC Bureau
+  - Immigration
   relme: {}
-  last_post_title: Missouri House moves to cut minimum school levy in property tax
-    overhaul
-  last_post_description: A revised property tax overhaul proposes to lower the minimum
-    school levy — the lowest tax a district can impose and still qualify for state
-    aid — by up to 20%, the first cut since Missouri law
-  last_post_date: "2026-03-05T18:22:10Z"
-  last_post_link: https://missouriindependent.com/2026/03/05/missouri-house-moves-to-cut-minimum-school-levy-in-property-tax-overhaul/
+  last_post_title: US Supreme Court will hear case on end of legal protections for
+    350,000 Haitians
+  last_post_description: WASHINGTON — The U.S. Supreme Court Monday said it will hear
+    oral arguments in April in two cases brought by immigrants hailing from Syria
+    and Haiti after the Trump administration tried to end
+  last_post_date: "2026-03-16T20:28:41Z"
+  last_post_link: https://missouriindependent.com/2026/03/16/repub/us-supreme-court-will-hear-case-on-end-of-legal-protections-for-350000-haitians/
   last_post_categories:
-  - Economy
-  - Education
-  - Jim Murphy
-  - Kathy Steinhoff
-  - Legislature
-  - Tim Taylor
-  - minimum school levy
-  - property subclasses
-  - property tax
+  - DC Bureau
+  - Immigration
   last_post_language: ""
-  last_post_guid: 572cce3b8683b244893a5f7574b295f7
+  last_post_guid: 887821a5a846a8715f7ec8c51b5f1504
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

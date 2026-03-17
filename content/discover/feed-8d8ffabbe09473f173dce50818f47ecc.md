@@ -1,6 +1,6 @@
 ---
 title: 8th Light Insights
-date: "2026-03-05T12:15:26-06:00"
+date: "2026-03-16T17:15:03-05:00"
 description: Posts on software craftsmanship and consulting from 8th Light's designers
   and crafters.
 params:
@@ -21,18 +21,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI and Emerging Tech
+  - Healthtech
   relme: {}
-  last_post_title: 'A Primer: MCP Servers and the Model Context Protocol'
-  last_post_description: Navigating ChangeThe way we interact with software is shifting.
-    Instead of clicking through web interfaces and learning different UIs for each
-    system, some people are moving toward natural language
-  last_post_date: "2026-02-25T00:00:00-06:00"
-  last_post_link: https://8thlight.com/insights/mcp-servers-and-the-model-context-protocol
+  last_post_title: Reframing Healthcare Technology in the AI Era
+  last_post_description: At 8th Light, we help healthcare organizations design and
+    build AI-enabled systems that put people first, combining product strategy, human-centered
+    design, and technology leadership to create
+  last_post_date: "2026-03-06T16:14:00-06:00"
+  last_post_link: https://8thlight.com/insights/reframing-healthcare-technology-in-the-ai-era
   last_post_categories:
-  - AI and Emerging Tech
+  - Healthtech
   last_post_language: ""
-  last_post_guid: 74b21090a39f99d39b78e06b3b6d5a94
+  last_post_guid: c1cf1d2e04362c8ee3672e98c7abc499
   score_criteria:
     cats: 0
     description: 3

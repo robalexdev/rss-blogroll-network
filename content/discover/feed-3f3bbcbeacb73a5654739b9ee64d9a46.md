@@ -1,6 +1,6 @@
 ---
 title: The Pub Curmudgeon
-date: "2026-03-04T19:25:52Z"
+date: "2026-03-16T11:17:56Z"
 description: A jaundiced view of life from the darkest recess of the saloon bar...
 params:
   feedlink: https://pubcurmudgeon.blogspot.com/feeds/posts/default

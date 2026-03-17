@@ -19,23 +19,25 @@ params:
   - Art
   - Photos
   - graffiti
-  - spray paint
+  - illustration
+  - stencil
   - street art
   relme: {}
-  last_post_title: Shelter
-  last_post_description: An older photo I found in the archives that never got posted.
-    It looks to be a commission from TotemGraffx for a cannabis shop next door. I
-    recall it being a bit hidden with an overpass (maybe the
-  last_post_date: "2026-02-28T15:48:34Z"
-  last_post_link: https://blog.strengthofone.com/2026/02/28/shelter/
+  last_post_title: We’re Still Children
+  last_post_description: It’s always nice to find street art in a neighborhood filled
+    with high end art galleries. A good sized stencil piece tucked inside a loading
+    dock reminiscent in subject matter of that other famous,
+  last_post_date: "2026-03-09T00:44:12Z"
+  last_post_link: https://blog.strengthofone.com/2026/03/08/were-still-children/
   last_post_categories:
   - Art
   - Photos
   - graffiti
-  - spray paint
+  - illustration
+  - stencil
   - street art
   last_post_language: ""
-  last_post_guid: b16612bead2a116e64d90a9cd817af8d
+  last_post_guid: a78606796aa7d042781657efbb44947d
   score_criteria:
     cats: 0
     description: 3

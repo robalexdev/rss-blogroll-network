@@ -1,6 +1,6 @@
 ---
 title: 31 Days of Vibe Coding
-date: "2026-03-05T09:58:02-05:00"
+date: "2026-03-16T01:36:23-04:00"
 description: Learn to ship production features faster with AI. Real tactics from building
   collectyourcards.com - no hype, no theory, just what actually works.
 params:
@@ -18,14 +18,14 @@ params:
   categories:
   - blog
   relme: {}
-  last_post_title: Card Games
-  last_post_description: Building a card game scoring app.
-  last_post_date: "2026-02-13T00:00:00-05:00"
-  last_post_link: https://31daysofvibecoding.com/blog/2026/02/13/weekly-update/
+  last_post_title: Walking With Claude
+  last_post_description: Writing code from the comfort of anywhere
+  last_post_date: "2026-03-06T00:00:00-05:00"
+  last_post_link: https://31daysofvibecoding.com/blog/2026/03/06/walking-with-claude/
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 253a387594601171050db914fbdfe2cd
+  last_post_guid: 491ece769f8cac33b1ee413e13b7fe79
   score_criteria:
     cats: 0
     description: 3

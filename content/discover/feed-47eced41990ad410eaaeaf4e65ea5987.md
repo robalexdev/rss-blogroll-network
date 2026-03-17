@@ -22,14 +22,15 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: (mostly) successful cases of software rewrites with agents in 2026
-  last_post_description: In the past few weeks there have been examples of successful
-    agent usage at a shocking scale. some in production no less.
-  last_post_date: "2026-02-26T00:00:00Z"
-  last_post_link: https://suriya.cc/essays/agents/
+  last_post_title: recursions
+  last_post_description: Recursion is often taught in Computer Science 101 as an elegant,
+    mathematically pure way to solve problems and used widely in leetcode style problems.
+    However, in production environments using
+  last_post_date: "2026-03-04T00:00:00Z"
+  last_post_link: https://suriya.cc/tech/tinkering/recursions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5668fb1ca9cdeeb10235bf8d4e98dd57
+  last_post_guid: e97604cbe80155c827640ce7a3824169
   score_criteria:
     cats: 0
     description: 3

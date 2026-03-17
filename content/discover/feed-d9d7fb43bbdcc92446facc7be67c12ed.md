@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-03-05T09:14:29Z"
+date: "2026-03-09T06:52:24Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml

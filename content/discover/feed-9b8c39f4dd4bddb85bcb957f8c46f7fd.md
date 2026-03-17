@@ -16,33 +16,43 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 醫療健康
+  - 來自台灣
+  - 共軛焦顯微鏡
+  - 微縮世界
+  - 林明德
+  - 楊曼妙
+  - 米爾頓釉小蜂
+  - 自然 / 科學攝影
+  - 自然生態
   relme: {}
-  last_post_title: 亞洲人風險較高的黃斑部病變！PCV治療與保養5大關鍵一次看
-  last_post_description: !!binary |
-    6ICB5bm05oCn6buD5paR6YOo55eF6K6K5pyD5Zq06YeN5Y2x5a6z6KaW5Yqb77yM55Sa6I
-    ez5bCO6Ie05aSx5piO44CC5pys5qyh54m55Yil6YKA6KuL5Y+w54Gj5aSn5a246Yar5a24
-    6Zmi6ZmE6Kit6Yar6Zmi55y856eR5Li75rK76Yar5bir6LO05L2Q5bqt6Yar5bir5Zue56
-    2U6ICB5bm05oCn6buD5paR6YOo55eF6K6K55qE6Zec6Y215LqU5aSn5ZU=
-  last_post_date: "2026-03-05T04:56:10Z"
-  last_post_link: https://pansci.asia/archives/380640
+  last_post_title: 研究途中，遇上的那些驚喜──林明德與米爾頓釉小蜂
+  last_post_description: 每年，日本光學大廠Olympus都會舉辦「年度影像大賽」（Image of the
+  last_post_date: "2026-03-13T03:57:15Z"
+  last_post_link: https://pansci.asia/archives/380687
   last_post_categories:
-  - 醫療健康
+  - 來自台灣
+  - 共軛焦顯微鏡
+  - 微縮世界
+  - 林明德
+  - 楊曼妙
+  - 米爾頓釉小蜂
+  - 自然 / 科學攝影
+  - 自然生態
   last_post_language: ""
-  last_post_guid: e393e03ace69d9b85d9a02f879b1ec76
+  last_post_guid: a6c033390e9bcbb488358c25c200d9d7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

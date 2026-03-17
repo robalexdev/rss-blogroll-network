@@ -31,16 +31,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: De La Soul at the Tiny Desk
+  last_post_title: Passing thoughts as I have reconnected with old friends
   last_post_description: |-
-    This has been going viral across the internet, so you’ve probably seen it already, but it would be remiss for me not to share it: De La Soul did an NPR Tiny Desk Concert on March 3.
-
-    This
-  last_post_date: "2026-03-04T12:19:00-05:00"
-  last_post_link: https://www.inthemargins.ca/de-la-soul-tiny-desk
+    Over the past week, I’ve had the chance to run into, and connect with, people I haven’t seen in decades.
+    In many cases, these were once close friends in my teens and early twenties. Through the
+  last_post_date: "2026-03-12T13:01:00-04:00"
+  last_post_link: https://www.inthemargins.ca/reconnecting-and-comparison
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ef2c2e3d44da73b4a7c85fbd55f6d44
+  last_post_guid: 3008491c895f33d5a21468758c79a692
   score_criteria:
     cats: 0
     description: 3

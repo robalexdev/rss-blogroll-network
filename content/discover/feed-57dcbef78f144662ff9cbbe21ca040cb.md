@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-03-01T15:18:45Z"
+date: "2026-03-15T15:48:10Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - iPhone
+  - traefik
   relme: {}
-  last_post_title: 较早代iPhone更换新iPhone的一些小指南
-  last_post_description: 我跟LD一直在用的是比较古早iPhone7
-  last_post_date: "2026-03-01T15:18:45Z"
-  last_post_link: https://nicksxs.me/2026/03/01/%E8%BE%83%E6%97%A9%E4%BB%A3iPhone%E6%9B%B4%E6%8D%A2%E6%96%B0iPhone%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8C%87%E5%8D%97/
+  last_post_title: 解答一下关于traefik的一点疑惑
+  last_post_description: 之前跟着大佬的脚步用上了traefik，但是对具体的原理不太理解，或者说比较疑惑因为这个具体的配置是在后面服务的docker
+  last_post_date: "2026-03-15T15:48:10Z"
+  last_post_link: https://nicksxs.me/2026/03/15/%E8%A7%A3%E7%AD%94%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8Etraefik%E7%9A%84%E4%B8%80%E7%82%B9%E7%96%91%E6%83%91/
   last_post_categories:
-  - iPhone
+  - traefik
   last_post_language: ""
-  last_post_guid: 9c99b4444b2ef251ec377edc8c799d6b
+  last_post_guid: 6c4e5d6260bfb94108fc3b1b29ac735c
   score_criteria:
     cats: 0
     description: 3

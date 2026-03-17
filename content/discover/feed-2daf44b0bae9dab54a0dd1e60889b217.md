@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-03-05T14:02:04Z"
+date: "2026-03-16T18:01:58Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -26,15 +26,17 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #169'
+  last_post_title: 'The Index: Issue #172'
   last_post_description: |-
-    Beyond the blur: a quick guide to the css backdrop-filter property
-    The backdrop-filter CSS property can do a heck of a lot more than you probably think it can. Stu expertly shows you with this in
-  last_post_date: "2026-03-04T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/169/?ref=main-rss-feed
+    NES.css
+    A NES-themed CSS framework and it looks exactly as you'd expect it to.
+    An immersive personal site
+    We're all out here building blogs, while Jonathan is here building an immersive first-person
+  last_post_date: "2026-03-13T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/172/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b6dafd09fe2313cedf6a4dbf0290db6
+  last_post_guid: 58b56397578383891fe62f91d8959d94
   score_criteria:
     cats: 0
     description: 3

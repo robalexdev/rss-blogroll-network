@@ -1,6 +1,6 @@
 ---
 title: After Hours Academic
-date: "2026-03-05T14:30:16Z"
+date: "2026-03-16T13:25:48Z"
 description: An engineer moonlighting as an academic
 params:
   feedlink: https://afterhoursacademic.com/atom/

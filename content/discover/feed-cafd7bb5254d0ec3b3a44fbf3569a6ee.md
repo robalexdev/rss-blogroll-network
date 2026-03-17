@@ -1,6 +1,6 @@
 ---
 title: 很少明白
-date: "2026-03-03T13:34:58Z"
+date: "2026-03-11T18:59:58Z"
 description: 一切都在无可挽回地走向恰饭。
 params:
   feedlink: https://p0werdown.com/feed.xml
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://p0werdown.com/: true
-  last_post_title: 一代人有一代人的珍妮机，这个时代是电车与单踏板
-  last_post_description: 一些关于「单踏板模式」的思考
-  last_post_date: "2026-01-30T12:20:00Z"
-  last_post_link: https://p0werdown.com/posts/yi-xie-guan-yu-dan-ta-ban-mo-shi-de-si-kao-ef9623f1
+  last_post_title: 致@六层楼先生：男性也关注 HPV 疫苗，只是不想被 PUA 和收割
+  last_post_description: 我很想知道，他敢当着他爸的面放这个视频吗？
+  last_post_date: "2026-03-08T20:32:50Z"
+  last_post_link: https://p0werdown.com/posts/male-hpv-vaccine-truth
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ddc197aadb8ffc6ca6f34a8d0582499
+  last_post_guid: d68844b7cc1c19b414eb06b22eee8b1b
   score_criteria:
     cats: 0
     description: 3

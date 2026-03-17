@@ -1,6 +1,6 @@
 ---
 title: 13th Dimension, Comics, Creators, Culture
-date: "2026-03-05T01:35:01Z"
+date: "2026-03-15T23:09:43Z"
 description: Comics, Creators, Culture
 params:
   feedlink: https://13thdimension.com/feed/atom/
@@ -15,29 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 13 COVERS
-  - COMICS HISTORY
   - DC
-  - Green Lantern
-  - Lanterns
-  - MOVIES & TV
+  - Dark Horse
+  - HOT PICKS!
+  - Marvel
   relme: {}
-  last_post_title: 'LANTERNS: 13 COVERS of HAL JORDAN and JOHN STEWART Doing Earth
-    Stuff'
-  last_post_description: 'Seen the trailer for this August’s new show on HBO? Well,
-    here it is: I’ve heard Lanterns described as kind of True Detective-ish, and I
-    dig that, because I dig Earthbound Green Lantern'
-  last_post_date: "2026-03-05T01:35:01Z"
-  last_post_link: https://13thdimension.com/lanterns-13-covers-of-hal-jordan-and-john-stewart-doing-earth-stuff/
+  last_post_title: HOT PICKS! On Sale This Week!
+  last_post_description: 'Scott and Dan pick the comics they’re most looking forward
+    to… — Dan Greenfield, editor, 13th Dimension Batman/Superman: World’s Finest #49,
+    DC. Last issue’s first part of this Crime'
+  last_post_date: "2026-03-15T23:09:43Z"
+  last_post_link: https://13thdimension.com/hot-picks-on-sale-this-week-605/
   last_post_categories:
-  - 13 COVERS
-  - COMICS HISTORY
   - DC
-  - Green Lantern
-  - Lanterns
-  - MOVIES & TV
+  - Dark Horse
+  - HOT PICKS!
+  - Marvel
   last_post_language: ""
-  last_post_guid: feda00a25ae4bfcbc5be2baae0e2c025
+  last_post_guid: 22eb1eee612c32411986b30e286f4b7f
   score_criteria:
     cats: 0
     description: 3

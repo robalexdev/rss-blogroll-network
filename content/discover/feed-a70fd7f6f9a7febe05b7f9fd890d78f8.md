@@ -1,6 +1,6 @@
 ---
 title: Nate Meyvis
-date: "2026-03-05T14:26:38Z"
+date: "2026-03-16T19:58:55Z"
 description: |-
   I am an itinerant software engineer who likes to raise children, read, and memorize things.
 
@@ -22,22 +22,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Codex
   - future of work
   - generative AI
+  - psychology of software
   - software
   relme: {}
-  last_post_title: Codex, Poincare, and living through the early days
+  last_post_title: Observability first
   last_post_description: ""
-  last_post_date: "2026-03-05T02:24:36Z"
-  last_post_link: https://www.natemeyvis.com/codex-poincare-and-living-through-the-early-days/
+  last_post_date: "2026-03-15T17:23:26Z"
+  last_post_link: https://www.natemeyvis.com/observability-first/
   last_post_categories:
-  - Codex
   - future of work
   - generative AI
+  - psychology of software
   - software
   last_post_language: ""
-  last_post_guid: ba71d16b81520f22a0b4a433baccd2f4
+  last_post_guid: 0ee41216e34cca3e28b8f3e46793ef61
   score_criteria:
     cats: 0
     description: 3

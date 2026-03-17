@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: 为什么美国选择“史诗狂怒”这个名称发动对伊朗的战争？
-  last_post_description: !!binary |
-    5b2T576O5Zu95bCG5a+55LyK5pyX55qE5Yab5LqL6KGM5Yqo5ZG95ZCN5Li64oCc5Y+y6K
-    +X54uC5oCS4oCd5pe277yM6K+t6KiA5pys6Lqr5bey6LaF5Ye65Yab5LqL6IyD55W044CC
-    5LuO5oiY5LqJ5ZG95ZCN5Lyg57uf44CB5Yab6Zif5YaF6YOo55qE5a6X5pWZ5YyW5LqJ6K
-    6u77yM5Yiw576O5Lul5YWz57O76IOM5ZCO55qE56We5a2m57uT5p6E77w=
-  last_post_date: "2026-03-04T09:00:00+08:00"
-  last_post_link: https://lawtee.com/article/epic-fury-us-iran-2026/
+  relme:
+    https://github.com/h2dcc: true
+    https://lawtee.com/: true
+  last_post_title: PocketHugo：为告别在手机上用 IDE 工具写博客，我专门写了个 Hugo 发布工具
+  last_post_description: |-
+    一切要从一个想在手机上发文章的念头说起
+    如果以 Hugo
+  last_post_date: "2026-03-15T11:11:17+08:00"
+  last_post_link: https://lawtee.com/article/pocket-hugo/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b51071d0970f9da168d07e7a80765545
+  last_post_guid: c278a9d63ad3d1853dbf257f8c1dbe38
   score_criteria:
     cats: 0
     description: 3
@@ -37,10 +37,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

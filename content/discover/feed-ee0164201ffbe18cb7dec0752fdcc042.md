@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-03-02T15:24:40-08:00"
+date: "2026-03-15T18:31:41-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>

@@ -1,6 +1,6 @@
 ---
 title: Tolkien and Fantasy
-date: "2026-02-22T20:19:06-05:00"
+date: "2026-03-16T12:21:41-04:00"
 description: Musings on Tolkien and modern fantasy literature.
 params:
   feedlink: https://tolkienandfantasy.blogspot.com/feeds/posts/default

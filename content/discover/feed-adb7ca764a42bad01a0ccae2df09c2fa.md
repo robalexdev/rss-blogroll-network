@@ -20,10 +20,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Rising carbon dioxide levels now detected in human blood
+  last_post_title: Palestinian boy, 12, describes how Israeli forces killed his family
+    in car
   last_post_description: Comments
-  last_post_date: "2026-03-05T14:34:45Z"
-  last_post_link: https://phys.org/news/2026-02-carbon-dioxide-human-blood.html
+  last_post_date: "2026-03-16T18:38:14Z"
+  last_post_link: https://www.bbc.com/news/articles/c70n2x7p22do
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-03-05T23:22:05+08:00"
+date: "2026-03-17T03:15:43+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,14 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 自动填充 PDF 交互式表单字段（AcroForms）
-  last_post_description: 今天在调研自动生成人事系统的入职文件时，我才知道 PDF 交互式表单字段（AcroForms）这个东东。我以为 PDF
-    格式就是不能编辑的。。。原来 PDF
-  last_post_date: "2026-03-05T14:54:11+08:00"
-  last_post_link: https://www.sunzhongwei.com/auto-fill-pdf-interactive-form-fields-acroforms
+  last_post_title: GEO 学习：Bing Webmaster 的 AI Performance 指标 Total Citations 和 Avg.
+    Cited Pages 分别是什么意思
+  last_post_description: 我发现 Bing Webmaster Tool 中新增了一个 AI Performance 功能。可以显示你的网站内容被
+    AI
+  last_post_date: "2026-03-16T10:51:17+08:00"
+  last_post_link: https://www.sunzhongwei.com/geo-bing-webmaster-ai-performance-citations-avg-cited
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a257a5cc2f291606d62a0021cc0a90d1
+  last_post_guid: 8b42d236cdf90fe42bd1d433af1374c6
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-03-05T17:30:00Z"
+date: "2026-03-16T20:53:49Z"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -259,6 +259,7 @@ params:
   - baitfish
   - bangers
   - barbara
+  - barbel. dave
   - beach
   - beaver
   - ben
@@ -410,6 +411,7 @@ params:
   - river stour
   - river teme
   - roach bream hybrid
+  - robin red
   - rock
   - rock pool
   - rolling
@@ -436,6 +438,7 @@ params:
   - shoot
   - shrewley pools
   - silver bream
+  - simon
   - skimmer
   - slow sinking
   - slugs
@@ -488,18 +491,18 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: Warwickshire Avon - Chubulence and Contemplation
+  last_post_title: Warwickshire Avon - Barbelistic and Bedraggled
   last_post_description: ""
-  last_post_date: "2026-03-05T17:30:00Z"
-  last_post_link: https://calamitymn.blogspot.com/2026/03/warwickshire-avon-chubulence-and.html
+  last_post_date: "2026-03-15T11:01:02Z"
+  last_post_link: https://calamitymn.blogspot.com/2026/03/warwickshire-avon-barbelistic-and.html
   last_post_categories:
   - Barbel
   - Chub
   - Warwickshire Avon
   - paste
-  - pellet
+  - robin red
   last_post_language: ""
-  last_post_guid: 1498fdfa030bbde2d89ae48f625fc7fd
+  last_post_guid: 884f11485ffad68ee037e1937f076a2b
   score_criteria:
     cats: 5
     description: 0

@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'exe.dev: a new hosting solution for your prototypes'
-  last_post_description: Being unproductive has never been so well instrumented
-  last_post_date: "2026-02-17T06:41:13Z"
-  last_post_link: https://www.bitecode.dev/p/exedev-a-new-hosting-solution-for
+  last_post_title: What’s up Python? d-strings, SSE in Pydantic and... a new Python?
+  last_post_description: Not sure if LLM or aging make time go faster
+  last_post_date: "2026-03-10T08:55:37Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-d-strings-sse-in
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4cfdff829cf1293817a2f4bf8c08dbea
+  last_post_guid: 960e6646cba3d8b8bdb7c968500a5b5f
   score_criteria:
     cats: 0
     description: 3

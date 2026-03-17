@@ -15,14 +15,14 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 硬件快讯
+  - 移动数码
   relme: {}
-  last_post_title: x86处理器2025Q3市场份额报告：AMD迎来双里程碑，台式机和总份额均创新高
-  last_post_description: 近日，研究分析公司Mercury
-  last_post_date: "2025-11-15T18:01:00Z"
-  last_post_link: http://www.expreview.com/102755.html
+  last_post_title: 苹果发布AirPods Max 2：加入多项智能功能，H2带来更好音质和主动降噪效果
+  last_post_description: 苹果宣布，推出AirPods Max 2，为标志性包耳式设计带来更强的主动降噪（ANC）、更出色的音质和多项智能功能。在H2芯片驱动下，新款AirPods
+  last_post_date: "2026-03-16T23:55:00Z"
+  last_post_link: http://www.expreview.com/104721.html
   last_post_categories:
-  - 硬件快讯
+  - 移动数码
   last_post_language: ""
   last_post_guid: 8570c3e04efa0177949be6f856f3a213
   score_criteria:

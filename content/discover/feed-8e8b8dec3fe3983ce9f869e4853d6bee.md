@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-03-02T06:26:14Z"
+date: "2026-03-15T15:36:39Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -21,13 +21,15 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - 投资
   relme: {}
   last_post_title: 利息，套利，交易策略，金融市场
-  last_post_description: 资金费率套利资金费率套利是一种没有风险、保本的套利方式。我一开始尝试自己写脚本来运行策略，然后发现 Binance
-  last_post_date: "2026-03-02T06:26:14Z"
+  last_post_description: 资金费率套利资金费率套利是一种没有风险、保本的套利方式。我一开始尝试自己写脚本来运行策略，后来发现 Binance
+  last_post_date: "2026-03-15T15:36:39Z"
   last_post_link: https://smallyu.net/2026/03/02/%E5%88%A9%E6%81%AF%EF%BC%8C%E5%A5%97%E5%88%A9%EF%BC%8C%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%EF%BC%8C%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/
-  last_post_categories: []
+  last_post_categories:
+  - 投资
   last_post_language: ""
   last_post_guid: e1fe1c5bfbb776733fb30299854c941b
   score_criteria:
@@ -36,13 +38,13 @@ params:
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

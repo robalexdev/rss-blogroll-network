@@ -17,16 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026-03-05-10-06
-  last_post_description: |-
-    On Monday, our son broke his tibia while skiing, and it showed me that people are good and kind. Thank you to them.
-
-    The skier who helped me move him off the slope to safety on the terrace of the
-  last_post_date: "2026-03-05T10:05:00+01:00"
-  last_post_link: https://alienlebarge.ch/notes/2026-03-05-10-06
+  last_post_title: 2026-03-16-11-03
+  last_post_description: I was looking to test a manual lens for everyday carry. It’s
+    not the right color but it gives it a certain style…
+  last_post_date: "2026-03-16T11:05:00+01:00"
+  last_post_link: https://alienlebarge.ch/notes/2026-03-16-11-03
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 450470e0992c4cea02eeea0bfb203a8b
+  last_post_guid: 2ce02466b98b6623939eca8a521172b4
   score_criteria:
     cats: 0
     description: 0

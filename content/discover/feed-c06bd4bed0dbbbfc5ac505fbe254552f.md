@@ -163,6 +163,7 @@ params:
   - https://immerweiterlaufen.de/feed/
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
+  - https://iwebthings.joejenett.com/titles.atom
   - https://jamesg.blog/feeds/posts.xml
   - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/

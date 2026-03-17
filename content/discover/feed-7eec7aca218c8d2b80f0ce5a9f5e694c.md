@@ -1,6 +1,6 @@
 ---
 title: Tom Clancy
-date: "2026-02-12T00:00:00-05:00"
+date: "2026-03-15T00:00:00-04:00"
 description: ""
 params:
   feedlink: https://tomclancy.info/feeds/all.atom.xml
@@ -20,26 +20,25 @@ params:
   recommender: []
   categories:
   - Posts
-  - bluelink
-  - docker
-  - typescript
-  - vibecoding
+  - art
+  - movies
+  - politics
   relme: {}
-  last_post_title: The Effect of Gas on a Marriage
+  last_post_title: Harold and George Destroy the World!
   last_post_description: |-
-    I was well into my 30s before I realized my mother’s aphorism on relationships,
-    “Fits find each other” had a positive meaning. Because my mother and her sister
-    both taught in special education
-  last_post_date: "2026-02-12T00:00:00-05:00"
-  last_post_link: https://tomclancy.info/marriage-and-gas.html
+    I have been thinking a lot lately about these two fellows.
+
+    If you are not lucky enough to know them already, those are Harold and George
+    from the Captain Underpants series of books (among others).
+  last_post_date: "2026-03-15T00:00:00-04:00"
+  last_post_link: https://tomclancy.info/harold-and-george.html
   last_post_categories:
   - Posts
-  - bluelink
-  - docker
-  - typescript
-  - vibecoding
+  - art
+  - movies
+  - politics
   last_post_language: ""
-  last_post_guid: 64efd33da2a112c6d94d32b20d165623
+  last_post_guid: 0249f510ee313b3c0156c12953a5301e
   score_criteria:
     cats: 0
     description: 0

@@ -36,35 +36,33 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Pete Zeldman
-  - brother
-  - composers
-  - drummers
-  - drumming
-  - drums
+  - Blogs and Blogging
+  - Career
+  - Ideas
+  - Working
   - glamorous
-  - music
-  - polyrhythms
+  - social media
+  - work
+  - writing
   relme:
     https://zeldman.com/: true
-  last_post_title: My brother, the rhythmic conceptualist
-  last_post_description: |-
-    Remembrance of beats passed.
-    The post My brother, the rhythmic conceptualist appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2026-03-05T12:45:11Z"
-  last_post_link: https://zeldman.com/2026/03/05/my-brother-the-rhythmic-conceptualist/
+  last_post_title: Too Many Notes
+  last_post_description: Lately, in work conversations, I find myself fighting a lifelong
+    tendency to provide way more context than is absolutely required. If you ask me
+    to okay your work, for example, I may respond with an
+  last_post_date: "2026-03-16T10:28:29Z"
+  last_post_link: https://zeldman.com/2026/03/16/too-many-notes/
   last_post_categories:
-  - Pete Zeldman
-  - brother
-  - composers
-  - drummers
-  - drumming
-  - drums
+  - Blogs and Blogging
+  - Career
+  - Ideas
+  - Working
   - glamorous
-  - music
-  - polyrhythms
+  - social media
+  - work
+  - writing
   last_post_language: ""
-  last_post_guid: 7ca64cf49b677b86555506fff98317af
+  last_post_guid: 0c775641093c24fdf2c179ba7a17900f
   score_criteria:
     cats: 0
     description: 3

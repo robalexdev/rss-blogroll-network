@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-03-05T10:40:36Z"
+date: "2026-03-16T11:01:07Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -18,32 +18,28 @@ params:
   recommender: []
   categories:
   - blog-carnival
-  - movies
-  - science-fiction
   relme: {}
-  last_post_title: 'Intersecting interests: movies and science fiction'
+  last_post_title: Feeling too old for memes
   last_post_description: ""
-  last_post_date: "2026-02-28T22:25:55Z"
-  last_post_link: https://winther.sysctl.dk/intersecting-interests-movies-and-science-fiction/
+  last_post_date: "2026-03-14T10:56:10Z"
+  last_post_link: https://winther.sysctl.dk/feeling-too-old-for-memes/
   last_post_categories:
   - blog-carnival
-  - movies
-  - science-fiction
   last_post_language: ""
-  last_post_guid: a0eeac9b26d907294f18167720a9a31e
+  last_post_guid: 1eae8f6e432f172f2d1e828437ce036a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

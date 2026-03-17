@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-03-05T05:53:00Z"
+date: "2026-03-16T11:14:06Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "M5 Max MacBooks \U0001F4BB, GPT-5.3 Instant \U0001F916, end of
-    code reviews \U0001F468‍\U0001F4BB"
+  last_post_title: "Meta&#x27;s AI flop \U0001F916, Google Maps redesign \U0001F5FA️,
+    Perplexity Agent API \U0001F9D1‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-03-03T23:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-03-04
+  last_post_date: "2026-03-12T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-03-13
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e3aa2f8e8de58a88403e430b8557a22
+  last_post_guid: 3ce75d26c0dc9e5a98d508ecbb1b9ede
   score_criteria:
     cats: 0
     description: 0

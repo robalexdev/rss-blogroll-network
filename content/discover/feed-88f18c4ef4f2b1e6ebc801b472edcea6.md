@@ -10,6 +10,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Doug Jones - Blogroll
+    description: ""
+    id: b489e65247baaf7f30a88a3424ab043b
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f

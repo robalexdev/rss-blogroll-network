@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-03-05T11:03:34-05:00"
+date: "2026-03-16T11:43:17-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -763,6 +763,7 @@ params:
   - Dancing Girl
   - Dancing Shoes
   - Danger Calling
+  - Danger Point
   - Danny Ainge
   - Danny Dunn
   - Daphne du Maurier
@@ -1403,6 +1404,7 @@ params:
   - Imogen Robertson
   - In Her Father's Footsteps
   - In Her Skin
+  - In the Balance
   - In the Blink of an Eye
   - Inauguration
   - India
@@ -1534,6 +1536,7 @@ params:
   - Johanna Reiss
   - John Adams
   - John Alan Maxwell
+  - John Boyne
   - John Dee
   - John Donne
   - John Feinstein
@@ -1719,9 +1722,11 @@ params:
   - Laura Lippman
   - Laura Spence-Ash
   - Laura Steven
+  - Laura Wilson
   - Laura Wood
   - Laura Zigman
   - Laurel Snyder
+  - Lauren Barndholt
   - Lauren Graham
   - Lauren Kate
   - Lauren Spieller
@@ -1930,6 +1935,7 @@ params:
   - Mark Bittman
   - Mark Weiner
   - Marsha On-Stage
+  - Marsha Qualey
   - Martha Washington
   - Martha's Vineyard
   - Martin Boyd
@@ -2924,6 +2930,7 @@ params:
   - The Dutch House
   - The Eagle of the Ninth
   - The Eights
+  - The Elements
   - The Emerald City of Oz
   - The English Wife
   - The Exact Opposite of Okay
@@ -2936,6 +2943,7 @@ params:
   - The Family from One End Street
   - The Far Country
   - The Far Pavilions
+  - The Final Target
   - The First Law
   - The First Wives Club
   - The Flatshare
@@ -3845,6 +3853,7 @@ params:
   - timeslip
   - to all my fans with love from sylvie
   - trading books
+  - trauma
   - travel
   - travelJ.T. Williams
   - treasure
@@ -3873,19 +3882,20 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: The Country Girls by Edna O'Brien - Read Ireland 2026
+  last_post_title: The Elements by John Boyne - Reading Ireland Month 2026
   last_post_description: ""
-  last_post_date: "2026-03-05T11:00:49-05:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/03/the-country-girls-by-edna-obrien.html
+  last_post_date: "2026-03-16T11:43:17-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/03/the-elements-by-john-boyne-reading.html
   last_post_categories:
-  - 20th century
-  - Edna O'Brien
   - Ireland
+  - John Boyne
   - ReadingIrelandMonth26
-  - The Country Girls
+  - The Elements
   - book review
+  - fiction
+  - trauma
   last_post_language: ""
-  last_post_guid: 406cd34d641aaad2b8b3249620de531c
+  last_post_guid: 82f0b6825e7d4c449482b79209fd8c4e
   score_criteria:
     cats: 5
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Nat Tarnoff
-date: "2026-03-04T13:57:12Z"
+date: "2026-03-16T14:37:07Z"
 description: Accessibility, Artist, Music, Philosophy
 params:
   feedlink: https://tarnoff.info/feed/atom/
@@ -15,36 +15,54 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Mental Health
-  - buddhism
-  - coping
-  - empathy
-  - grief
+  - ADA
+  - ARIA
+  - EAA
+  - EN 301 549
+  - W3C
+  - WCAG
+  - Web Content Accessibility Guidelines
+  - a11y
+  - a11y 101
+  - accessibility
+  - blind
+  - button
+  - cognition
+  - dagturallyspeaking
+  - development
+  - dictation
   - humanity
-  - loss
-  - love
-  - meditation
-  - rant
+  - label in name
+  - physical impairment
   relme: {}
-  last_post_title: Grief is an Odd Duck
-  last_post_description: If you’ve been following me you’ll know I lost my father
-    six weeks ago. Today marks his 83rd birthday. Mine is tomorrow. He was 32 when
-    I was born and we had a family joke that he gave up his
-  last_post_date: "2026-03-04T13:57:12Z"
-  last_post_link: http://tarnoff.info/2026/03/04/grief-is-an-odd-duck/
+  last_post_title: 'A11y 101: 2.5.3 Label in Name'
+  last_post_description: We all navigate the internet and computers in different ways.
+    Some use screen readers, others keyboard, and some people by voice. Success Criterion
+    2.5.3 was created to support these diverse methods.
+  last_post_date: "2026-03-16T14:37:07Z"
+  last_post_link: http://tarnoff.info/2026/03/16/a11y-101-2-5-3-label-in-name/
   last_post_categories:
-  - Mental Health
-  - buddhism
-  - coping
-  - empathy
-  - grief
+  - ADA
+  - ARIA
+  - EAA
+  - EN 301 549
+  - W3C
+  - WCAG
+  - Web Content Accessibility Guidelines
+  - a11y
+  - a11y 101
+  - accessibility
+  - blind
+  - button
+  - cognition
+  - dagturallyspeaking
+  - development
+  - dictation
   - humanity
-  - loss
-  - love
-  - meditation
-  - rant
+  - label in name
+  - physical impairment
   last_post_language: ""
-  last_post_guid: 69cc62439496a83b8d15b6b5fc01afc4
+  last_post_guid: 9e6e7795d61ca9c310e5253c2430444e
   score_criteria:
     cats: 0
     description: 3

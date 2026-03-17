@@ -37,6 +37,7 @@ params:
   - https://theleafslug.com/posts/feed.xml
   - https://theleafslug.com/recommendations/feed.xml
   - https://theleafslug.com/tils/feed.xml
+  - https://andreinc.net/feed.xml
   - https://www.lkhrs.com/blog/rss/
   - https://www.mikestreety.co.uk/rss-notes.xml
   - https://www.mikestreety.co.uk/rss.xml

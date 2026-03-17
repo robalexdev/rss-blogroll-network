@@ -1,6 +1,6 @@
 ---
 title: 記緒漂流
-date: "2026-03-05T14:07:59Z"
+date: "2026-03-11T14:19:19Z"
 description: 于记忆之川，泛思绪之舟。
 params:
   feedlink: https://ttio.cc/feed.xml
@@ -20,32 +20,28 @@ params:
   - https://mabbs.github.io/atom.xml
   - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
-  categories:
-  - Anime
-  - Comic
+  categories: []
   relme: {}
-  last_post_title: 相反的你和我・同频的心与心
-  last_post_description: 本文中，笔者赞誉《相反的你和我》为恋爱作品天花板，通过分析三段相反性格的恋爱关系，探讨青春与现实的共鸣，并分享个人深刻观感。
-  last_post_date: "2026-02-23T01:26:55Z"
-  last_post_link: https://ttio.cc/note/seihantai
-  last_post_categories:
-  - Anime
-  - Comic
+  last_post_title: 三月自白
+  last_post_description: ""
+  last_post_date: "2026-03-11T14:14:44Z"
+  last_post_link: https://ttio.cc/note/2026-03
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 10b72b8204ef74b47d9bab3e52cc50b5
+  last_post_guid: 5d3d9559f13d90a34f8d0eb9cdc96160
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

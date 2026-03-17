@@ -20,41 +20,29 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
-  categories:
-  - career
-  - culture
-  - engineering
-  - leadership
-  - opinion
-  - teams
+  categories: []
   relme: {}
-  last_post_title: Nobody gets promoted for simplicity
-  last_post_description: We reward complexity and ignore simplicity. In interviews,
-    design reviews, and promotions.
-  last_post_date: "2026-03-05T08:37:36Z"
-  last_post_link: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
-  last_post_categories:
-  - career
-  - culture
-  - engineering
-  - leadership
-  - opinion
-  - teams
+  last_post_title: Prototype faster with AI — program starts Mar 21
+  last_post_description: Learn modern AI prototyping workflows with tools like Figma
+    Make and Lovable. Camp starts Mar 21. Save $200 with code SIDEBAR.
+  last_post_date: "2026-03-16T09:53:00Z"
+  last_post_link: https://bit.ly/side-lab4
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b78619f378bab4740e0da570612204e
+  last_post_guid: a0b0edc2f244c473eac7a5f8feb74f97
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

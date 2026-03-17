@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-03-05T07:36:45Z"
+date: "2026-03-16T11:57:18Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -24,33 +24,29 @@ params:
   categories:
   - "2026"
   - data protection
-  - tech
   relme: {}
-  last_post_title: AI clones and data protection
-  last_post_description: In times of voices and bodies getting digitally cloned and
-    used independently of the human, how is that compatible with data protection law
-    and privacy?
-  last_post_date: "2026-03-02T12:57:16Z"
-  last_post_link: https://blog.avas.space/ai-clones/
+  last_post_title: how i stay up-to-date on data protection & privacy law
+  last_post_description: Some website, newsletter and RSS feed recommendations.
+  last_post_date: "2026-03-12T16:23:14Z"
+  last_post_link: https://blog.avas.space/data-protection-recs/
   last_post_categories:
   - "2026"
   - data protection
-  - tech
   last_post_language: ""
-  last_post_guid: c79703b272189e0997b0fe2103b2c1ff
+  last_post_guid: b66090b521c7682c5655a7d648d0c8b7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,8 +1,8 @@
 ---
 title: EzraKnotLab
-date: "2026-02-20T08:02:44Z"
-description: "Bruno Leopold CHEM PhD |Energy Research|Data Viz|CmonCity|NASA|Tech|⚽\U0001F3C0\nI,
-  a universe of atoms, an atom in the universe."
+date: "2026-03-09T02:12:22Z"
+description: Once you know the right question to ask, the answer is the easiest part.
+  --DNA
 params:
   feedlink: https://ezraknotlab.github.io/atom
   feedtype: atom
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: EKL The Fall-Off
+  last_post_title: EKL 326
   last_post_description: ""
-  last_post_date: "2026-02-20T09:15:24Z"
-  last_post_link: https://ezraknotlab.github.io/post/ekl-the-fall-off2/
+  last_post_date: "2026-03-08T10:35:39Z"
+  last_post_link: https://ezraknotlab.github.io/post/ekl-326/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 44d679b7d917aaa1b817da8e37838129
+  last_post_guid: bf5dad000dabe68a00231facd333da1d
   score_criteria:
     cats: 0
     description: 3

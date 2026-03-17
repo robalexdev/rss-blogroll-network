@@ -17,30 +17,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Comic
+  - AI
   - Data Science
   - Science Fiction
-  - comics
-  - gemini
-  - mysta
-  - nano-banana
-  - planet-comics
+  - golden-earring
+  - music
+  - radar-love
   relme: {}
-  last_post_title: Mysta of the Moon Transformation
-  last_post_description: ""
-  last_post_date: "2026-02-22T02:13:08Z"
-  last_post_link: https://cosmicheroes.space/blog/index.php/2026/02/22/mysta-of-the-moon-transformation/
+  last_post_title: Clanker Love
+  last_post_description: https://suno.com/song/e8b10d06-8730-4f0a-b9fe-23750f645f02?sh=A7aMEzpBsie58lY5
+    CLANKER LOVE(Parody of Radar Love by Golden Earring) [Verse 1]I’ve been drivin’
+    all night, my hands wet on the
+  last_post_date: "2026-03-14T02:58:16Z"
+  last_post_link: https://cosmicheroes.space/blog/index.php/2026/03/14/clanker-love/
   last_post_categories:
-  - Comic
+  - AI
   - Data Science
   - Science Fiction
-  - comics
-  - gemini
-  - mysta
-  - nano-banana
-  - planet-comics
+  - golden-earring
+  - music
+  - radar-love
   last_post_language: ""
-  last_post_guid: 6eec2dca54b0e764dace0fcaf3504626
+  last_post_guid: 7c8ecfc48f92210a1dbb57aa79a4889e
   score_criteria:
     cats: 0
     description: 3

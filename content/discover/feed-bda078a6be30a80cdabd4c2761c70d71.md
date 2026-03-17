@@ -13,12 +13,27 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
+  - title: Miloš Miljković - Blogroll
+    description: ""
+    id: ffa5e63462db333bc9076d25a3826098
+  - title: David Blue - Blogroll
+    description: ""
+    id: 9c63a330f8aae6a841fde4549cc968dc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Mark Stoneman - Blogroll
+    description: ""
+    id: 96df92b4be0ff09ba6ecee1ab4f16618
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
+  - title: OPML Feeds
+    description: ""
+    id: a98bd8c7e3df2c041d264f717f14ba3b
+  - title: Feeds
+    description: ""
+    id: 569a496b78951329c0069eafd7755a79
   recommended: []
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml

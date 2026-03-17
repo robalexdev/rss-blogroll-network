@@ -24,14 +24,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Epstein and the Shadow World
-  last_post_description: Your questions answered on Epstein, AI, my career, and other
-    dystopian matters.
-  last_post_date: "2026-02-27T18:48:00Z"
-  last_post_link: https://sarahkendzior.substack.com/p/epstein-and-the-shadow-world
+  last_post_title: Weathering the Storm
+  last_post_description: How did we get here? How do we get out? Take a dive into
+    the archive!
+  last_post_date: "2026-03-15T13:02:31Z"
+  last_post_link: https://sarahkendzior.substack.com/p/weathering-the-storm
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6964871d1eef6f37b64537d439e765e9
+  last_post_guid: 510c6b7db88ec22c83613758eeb48971
   score_criteria:
     cats: 0
     description: 3

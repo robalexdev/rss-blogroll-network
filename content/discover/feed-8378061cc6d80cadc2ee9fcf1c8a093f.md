@@ -18,21 +18,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cord Cutting Columns
+  - Cord Cutter Weekly
   relme:
     https://advisorator.com/members/: true
-  last_post_title: Does Paramount even have a plan for HBO?
+  last_post_title: Your 2026 baseball streaming guide
   last_post_description: |-
-    Paramount's deal to absorb Warner Bros. Discovery leaves a lot of questions unanswered.
+    How to watch MLB games in 2026 without losing your sanity.
     Read more ›
 
-    The post Does Paramount even have a plan for HBO? appeared first on Advisorator.
-  last_post_date: "2026-03-04T22:37:00Z"
-  last_post_link: https://advisorator.com/members/2026/03/04/does-paramount-even-have-a-plan-for-hbo/
+    The post Your 2026 baseball streaming guide appeared first on Advisorator.
+  last_post_date: "2026-03-13T13:34:31Z"
+  last_post_link: https://advisorator.com/members/2026/03/13/your-2026-baseball-streaming-guide/
   last_post_categories:
-  - Cord Cutting Columns
+  - Cord Cutter Weekly
   last_post_language: ""
-  last_post_guid: 9006f93385dc8bd829fe7c37343b4ad2
+  last_post_guid: 20c99dbfff6507a3d00a74193a034eb6
   score_criteria:
     cats: 0
     description: 3

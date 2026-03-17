@@ -18,19 +18,20 @@ params:
   categories: []
   relme: {}
   last_post_title: /reader
-  last_post_description: |+
+  last_post_description: |-
     These are the most recent articles from the blogs/sites I follow. Updated daily.
 
 
 
 
-      Doing your own research sucks sometimes tracydurnell.com
+      What is agentic engineering? simonwillison.net
 
 
-      Anti-patterns: things to avoid simonwillison.net
+      Remember the future nomad.blog
 
 
-  last_post_date: "2026-03-05T00:00:00Z"
+      Watched Mickey 17
+  last_post_date: "2026-03-16T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""

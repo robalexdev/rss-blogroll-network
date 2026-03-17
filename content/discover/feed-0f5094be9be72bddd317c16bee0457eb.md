@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-03-03T06:46:52-05:00"
+date: "2026-03-15T17:54:18-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -107,6 +107,7 @@ params:
   - C Magazine
   - C.E.
   - Caetano Veloso
+  - Call for Participants
   - Camilla Townsend
   - Camp Migizi
   - Carl Pope
@@ -264,6 +265,7 @@ params:
   - Hildegard Knef
   - Hip Hop
   - Hospitality
+  - How Does Change Happen?
   - How Literature Saved My Life
   - Howard Becker
   - Hugo Ball
@@ -670,27 +672,29 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: Xu Shaoyang is coming to Montreal on March 6th!
+  last_post_title: PME-ART's How Does Change Happen? Call for Participants
   last_post_description: ""
-  last_post_date: "2026-03-01T13:55:58-05:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/02/xu-shaoyang-is-coming-to-montreal-on.html
+  last_post_date: "2026-03-14T07:50:31-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/03/pme-arts-how-does-change-happen-call.html
   last_post_categories:
-  - Xu Shaoyang
+  - Call for Participants
+  - How Does Change Happen?
+  - PME-ART
   last_post_language: ""
-  last_post_guid: 8658e150c54b6804d17f263011417c99
+  last_post_guid: edfa97600e2d362cb246d1fbe0ce1a1c
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

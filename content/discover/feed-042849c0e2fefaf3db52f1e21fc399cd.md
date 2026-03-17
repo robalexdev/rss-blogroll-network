@@ -19,23 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Devops
-  - Entra ID
-  - Nomad
+  - Conference
+  - Sylius
+  - e-commerce
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: How to update the OIDC config in Nomad?
-  last_post_description: Learn how to refresh your OpenID Connect (OIDC) configuration
-    in Nomad when your OIDC secret expires, with a step-by-step guide on updating
-    the auth method with a new client secret.
-  last_post_date: "2026-02-26T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/nomad_update_oidc_config
+  last_post_title: Ecommerce Open Source Summit 2026
+  last_post_description: Join me at the Ecommerce Open Source Summit in Paris on March
+    26th, where I'll be sharing expert insights on how to accelerate development with
+    the powerful Sylius Stack components.
+  last_post_date: "2026-03-16T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/ecommerce_opensource_summit_2026
   last_post_categories:
-  - Devops
-  - Entra ID
-  - Nomad
+  - Conference
+  - Sylius
+  - e-commerce
   last_post_language: ""
-  last_post_guid: 6741ce118cde473fc45ebd7138dccf04
+  last_post_guid: c3d5502fba09b9cc1d04f395aa07a710
   score_criteria:
     cats: 0
     description: 3

@@ -25,15 +25,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: The two kinds of error
-  last_post_description: 'In short: in my mind, errors are divided into two categories.
-    Expected errors (think “user entered invalid data”), which are part of normal
-    operation, aren’t the developer’s fault, and should'
-  last_post_date: "2026-03-01T00:00:00Z"
-  last_post_link: https://evanhahn.com/the-two-kinds-of-error/
+  last_post_title: human.json
+  last_post_description: human.json is a protocol for humans to assert authorship
+    of their site content and vouch for the humanity of others. It uses URL ownership
+    as identity, and trust propagates through a crawlable web of
+  last_post_date: "2026-03-14T00:00:00Z"
+  last_post_link: https://evanhahn.com/human-dot-json/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7be6772dbc0235ad9be80cb91d614081
+  last_post_guid: 16e10bac99ad3c2c4b811f5cf89a9681
   score_criteria:
     cats: 0
     description: 3

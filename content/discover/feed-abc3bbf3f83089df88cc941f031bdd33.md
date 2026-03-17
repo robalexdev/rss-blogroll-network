@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2026-02-28T06:00:00Z"
+date: "2026-03-06T06:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -30,13 +30,13 @@ params:
   - https://simonbc.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: State of the Browser 2026
+  last_post_title: Eleventy is now Build Awesome
   last_post_description: ""
-  last_post_date: "2026-02-28T06:00:00Z"
-  last_post_link: https://www.zachleat.com/web/state-of-the-browser/
+  last_post_date: "2026-03-06T06:00:00Z"
+  last_post_link: https://www.zachleat.com/web/build-awesome/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 12ddb0e4c5fbf7d64e59b8b6d8fdf35b
+  last_post_guid: 2a25d5335182b5913354907d71733fa5
   score_criteria:
     cats: 0
     description: 3

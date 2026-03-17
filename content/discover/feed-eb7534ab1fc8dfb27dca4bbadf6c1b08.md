@@ -21,12 +21,11 @@ params:
   categories: []
   relme:
     https://danielprindii.com/blog: true
-  last_post_title: 'Miscellanea no 3: About walled gardens, digital gardens and the
-    Web'
-  last_post_description: Welcome to Miscellanea- a bi-weekly newsletter at the intersection
-    of art, tech, and culture and how they influence …
-  last_post_date: "2026-02-20T18:00:00+01:00"
-  last_post_link: https://danielprindii.com/blog/miscellanea-no-3-walled-gardens
+  last_post_title: A starter guide for RSS feeds
+  last_post_description: A starting guide on how to discover RSS feeds, what apps
+    to use, and how to escape the digital algo world.
+  last_post_date: "2026-03-06T17:00:00+01:00"
+  last_post_link: https://danielprindii.com/blog/guide-rss-feeds
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 6786701fb7219b464eb585f6456da80c

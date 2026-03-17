@@ -19,41 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Quantum Computing
-  - Real science
-  - Reflections
-  - The expert's corner
-  - quantum advantage
-  - quantum verification
+  - Uncategorized
   relme: {}
-  last_post_title: What is next in quantum advantage?
-  last_post_description: 'We are now at an exciting point in our process of developing
-    quantum computers and understanding their computational power: It has been demonstrated
-    that quantum computers can outperform classical'
-  last_post_date: "2026-02-28T20:01:25Z"
-  last_post_link: https://quantumfrontiers.com/2026/02/28/what-is-next-in-quantum-advantage/
+  last_post_title: The FeMo-cofactor and classical and quantum computing
+  last_post_description: Recently, my coworkers and I put out a preprint “Classical
+    solution of the FeMo-cofactor model to chemical accuracy and its implications’’ (Zhai
+    et al. 2026). It is a bit unusual to write
+  last_post_date: "2026-03-13T05:16:00Z"
+  last_post_link: https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/
   last_post_categories:
-  - Quantum Computing
-  - Real science
-  - Reflections
-  - The expert's corner
-  - quantum advantage
-  - quantum verification
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: fdee2a4df3128d53c50925e64b377c84
+  last_post_guid: 9e2dc1b233a2fa0c45f42169008fd6a9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

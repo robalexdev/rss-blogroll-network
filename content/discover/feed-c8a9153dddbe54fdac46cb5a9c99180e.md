@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Exploding Comma on Tech people
+  last_post_title: 404 Media on People Hate Datacenters
   last_post_description: |-
-    Tech people keep falling for the same scam.
+    People Hate Datacenters, Survey Finds
 
-    I just don’t understand how anyone who has paid even the slightest bit of attention to the tech industry for the last thirty years can look at any of
-  last_post_date: "2026-02-26T18:27:07-08:00"
-  last_post_link: https://www.onfocus.com/2026/02/9040/tech-people-keep-falling-for-the-same-scam?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+    Most of the Americans surveyed believe that datacenters are bad for the environment, home energy costs, and the quality of life of people living nearby and the
+  last_post_date: "2026-03-15T08:01:45-07:00"
+  last_post_link: https://www.onfocus.com/2026/03/9054/people-hate-datacenters-survey-finds?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

@@ -27,6 +27,7 @@ params:
   - Artificial Intelligence
   - Blogs
   - Dave Winer
+  - MacArthur Foundation
   - RSS
   - ai-action-summit
   - current-ai
@@ -43,7 +44,7 @@ params:
   last_post_title: Notes from AI Action Summit in Delhi, India, February 2026
   last_post_description: It’s been a long time since I sat down to write a blog post
     like this. Why did I open my computer this morning and log in to WordPress? Somewhat
-    to my surprise, a few people who saw I had …
+    to my surprise, a few people who saw I had been to
   last_post_date: "2026-03-01T17:45:11Z"
   last_post_link: https://jpalfrey.blog/2026/03/01/notes-from-ai-action-summit-in-delhi-india-february-2026/
   last_post_categories:
@@ -51,6 +52,7 @@ params:
   - Artificial Intelligence
   - Blogs
   - Dave Winer
+  - MacArthur Foundation
   - RSS
   - ai-action-summit
   - current-ai

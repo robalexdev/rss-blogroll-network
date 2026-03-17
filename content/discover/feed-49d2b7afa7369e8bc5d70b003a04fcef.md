@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2026-02-24T20:08:07Z"
+date: "2026-03-14T18:50:11Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: nsnotifyd-2.4 released
+  last_post_title: poached eggs
   last_post_description: ""
-  last_post_date: "2026-02-24T20:08:07Z"
-  last_post_link: https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html
+  last_post_date: "2026-03-14T18:50:11Z"
+  last_post_link: https://dotat.at/@/2026-03-14-eggs.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5ee276bdbf3a9c0926fa839cfe8ca4b9
+  last_post_guid: a1ba3176c7a7dadb32c6f1096ba62bea
   score_criteria:
     cats: 0
     description: 0

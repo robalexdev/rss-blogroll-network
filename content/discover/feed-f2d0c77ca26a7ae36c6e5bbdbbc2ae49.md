@@ -25,32 +25,34 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Feeds
+    description: ""
+    id: 569a496b78951329c0069eafd7755a79
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - AI
-  - AI coding tools
-  - Career growth
   - Developer skills
-  - GitHub Copilot
+  - GitHub
+  - GitHub Actions
+  - GitHub Skills
+  - GitHub for beginners
   relme: {}
-  last_post_title: 'Scaling AI opportunity across the globe: Learnings from GitHub
-    and Andela'
+  last_post_title: 'GitHub for Beginners: Getting started with GitHub Actions'
   last_post_description: |-
-    Developers connected to Andela share how they’re learning AI tools inside real production workflows.
-    The post Scaling AI opportunity across the globe: Learnings from GitHub and Andela appeared
-  last_post_date: "2026-03-05T17:00:00Z"
-  last_post_link: https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/
+    Set up your first GitHub Actions workflow in this how-to guide.
+    The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.
+  last_post_date: "2026-03-16T16:00:00Z"
+  last_post_link: https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/
   last_post_categories:
-  - AI
-  - AI coding tools
-  - Career growth
   - Developer skills
-  - GitHub Copilot
+  - GitHub
+  - GitHub Actions
+  - GitHub Skills
+  - GitHub for beginners
   last_post_language: ""
-  last_post_guid: 7f4dee54bb8bf4565822054cf9d3c513
+  last_post_guid: 99d40b44e1079267b763b8032c23ab06
   score_criteria:
     cats: 0
     description: 3

@@ -18,6 +18,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: nathanUpchurchBlogroll.opml
+    description: ""
+    id: 48ae6ab9ce91c04f77f8c740eaa6a958
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

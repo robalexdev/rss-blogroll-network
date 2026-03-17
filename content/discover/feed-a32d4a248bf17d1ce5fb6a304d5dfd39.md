@@ -17,39 +17,33 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - antony gormley
+  - acton
+  - architecture
+  - art deco
   - blog
   - blogger
   - blogging
-  - cast iron
-  - euston road
-  - illusion
-  - london
-  - reflection
-  - regents place
-  - sculpture
+  - haiku
+  - haiku and photography
+  - west london
   relme: {}
-  last_post_title: It looked like a reflection but that was an illusion
-  last_post_description: WHEN WALKING ALONG the north side of London’s Euston Road
-    between Albany Street and Hampstead Road, I passed a metal sculpture of a man,
-    life-size, looking into the ground floor plate glass window
-  last_post_date: "2026-03-05T08:34:00Z"
-  last_post_link: https://adam-yamey-writes.com/2026/03/05/it-looked-like-a-reflection-but-that-was-an-illusion/
+  last_post_title: Modernism in West London
+  last_post_description: A modern style It was so several years back Art Deco it is
+  last_post_date: "2026-03-16T08:27:00Z"
+  last_post_link: https://adam-yamey-writes.com/2026/03/16/modernism-in-west-london/
   last_post_categories:
   - Uncategorized
-  - antony gormley
+  - acton
+  - architecture
+  - art deco
   - blog
   - blogger
   - blogging
-  - cast iron
-  - euston road
-  - illusion
-  - london
-  - reflection
-  - regents place
-  - sculpture
+  - haiku
+  - haiku and photography
+  - west london
   last_post_language: ""
-  last_post_guid: 217f8574aed3e28ef73df3243ffbd84d
+  last_post_guid: a1a7cf25dace9b0b30721b270c24cdef
   score_criteria:
     cats: 0
     description: 3

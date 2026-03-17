@@ -34,17 +34,18 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://lmika.org/feed.xml
   categories:
-  - Anthropic
+  - AI
   relme: {}
-  last_post_title: Where does Anthropic go from here?
-  last_post_description: Shunned by the government, and newly appealing to consumers,
-    the company is at a crossroads
-  last_post_date: "2026-03-04T01:00:58Z"
-  last_post_link: https://www.platformer.news/anthropic-future-pentagon-supply-chain/
+  last_post_title: I have been released from my responsibilities as an unwilling editor
+    for Grammarly
+  last_post_description: Some overdue reflections by its CEO, and a class-action lawsuit,
+    bring an end to “expert review”
+  last_post_date: "2026-03-13T00:01:06Z"
+  last_post_link: https://www.platformer.news/grammarly-expert-review-lawsuit/
   last_post_categories:
-  - Anthropic
+  - AI
   last_post_language: ""
-  last_post_guid: 293ea1ed2e795142b02ffc0726e0b540
+  last_post_guid: ad48e9a00df55d398dd7800baa29553e
   score_criteria:
     cats: 0
     description: 3

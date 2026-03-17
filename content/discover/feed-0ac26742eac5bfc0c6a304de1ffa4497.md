@@ -1,7 +1,7 @@
 ---
 title: THE STRATEGIC NON-TECHNICAL FOUNDER
 date: "1970-01-01T00:00:00Z"
-description: Decision intelligence before building with AI
+description: Foresight for founders before they build in the age of AI
 params:
   feedlink: https://abechallah.com/feed/
   feedtype: rss

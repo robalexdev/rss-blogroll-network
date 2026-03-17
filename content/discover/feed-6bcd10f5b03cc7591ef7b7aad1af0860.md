@@ -1,6 +1,6 @@
 ---
 title: achyut
-date: "2026-03-05T18:21:27Z"
+date: "2026-03-16T22:17:40Z"
 description: I am building an AI company to help automate repetitive data-intensive
   workflows. Learning and breaking things everyday is fun, challenging and fulfilling.  ...
 params:

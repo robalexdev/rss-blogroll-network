@@ -32,56 +32,36 @@ params:
     id: 7b87285a8ddb3d5344849c363f0feee9
   recommended: []
   recommender: []
-  categories:
-  - ai
-  - effort
-  - generative
-  - humanity
-  - language
-  - machinelearning
-  - models
-  - technology
-  - thinking
-  - tools
-  - writing
+  categories: []
   relme:
     https://adactio.com/: true
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: LLMs Are Antithetical to Writing and Humanity
-  last_post_description: If you’re dyslexic and just trying to communicate more clearly
-    in writing, or you’ve got a bullshit job and you just want to get your bullshit
-    job’s bullshit tasks out of the way so you can
-  last_post_date: "2026-03-05T10:59:15Z"
-  last_post_link: https://theprogressnetwork.org/ai-llms-writing-humanity/
-  last_post_categories:
-  - ai
-  - effort
-  - generative
-  - humanity
-  - language
-  - machinelearning
-  - models
-  - technology
-  - thinking
-  - tools
-  - writing
+  last_post_title: Just heard the sad news of Dolores Keane’s passing. Ar dheis Dé
+    go raibh a hanam.
+  last_post_description: |-
+    Just heard the sad news of Dolores Keane’s passing.
+
+    Ar dheis Dé go raibh a hanam.
+  last_post_date: "2026-03-16T17:22:05Z"
+  last_post_link: https://adactio.com/notes/22460
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 812ec90e8ea54cfe13c7e3dba487bb46
+  last_post_guid: 7a37a338e31c983a8a4c27b55dce107d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

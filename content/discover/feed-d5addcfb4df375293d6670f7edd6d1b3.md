@@ -1,6 +1,6 @@
 ---
 title: Ian Cooper - Staccato Signals
-date: "2026-03-05T14:00:48Z"
+date: "2026-03-16T18:06:40Z"
 description: These are the days of miracle and wonder
 params:
   feedlink: https://ian-cooper.writeas.com/feed/
@@ -23,13 +23,13 @@ params:
   categories: []
   relme:
     https://ian-cooper.writeas.com/: true
-  last_post_title: Is AI a Silver Bullet?
+  last_post_title: Coding Is Dead, Long Live Programming
   last_post_description: ""
-  last_post_date: "2024-06-24T10:01:15Z"
-  last_post_link: https://ian-cooper.writeas.com/is-ai-a-silver-bullet?pk_campaign=rss-feed
+  last_post_date: "2026-03-10T12:57:01Z"
+  last_post_link: https://ian-cooper.writeas.com/coding-is-dead-long-live-programming?pk_campaign=rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d5e4c22d07ceb228fd9f8d52744b7e9
+  last_post_guid: 6303a576594774963f3001bcc8697033
   score_criteria:
     cats: 0
     description: 3

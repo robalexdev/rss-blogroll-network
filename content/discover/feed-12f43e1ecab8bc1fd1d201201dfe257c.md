@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '"AI" is Yesterday''s News'
-  last_post_description: I gave this talk yesterday to the Massachusetts Teachers
-    Association, as part of the MTA Retired First Wednesday Speaker Series.Thank you
-    very much for inviting me to speak to you today. I’m
-  last_post_date: "2026-03-05T10:00:23Z"
-  last_post_link: https://2ndbreakfast.audreywatters.com/ai-is-yesterdays-news/
+  last_post_title: False Spring
+  last_post_description: ""
+  last_post_date: "2026-03-16T13:18:49Z"
+  last_post_link: https://2ndbreakfast.audreywatters.com/false-spring/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 60ca68d7b93ff8ae026f9fb19083b56f
+  last_post_guid: 201c6f41d808fd8381c91fc217dfd3e6
   score_criteria:
     cats: 0
     description: 3

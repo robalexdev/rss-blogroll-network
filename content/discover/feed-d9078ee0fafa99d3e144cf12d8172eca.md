@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Miloš Miljković - Blogroll
+    description: ""
+    id: ffa5e63462db333bc9076d25a3826098
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -21,18 +24,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Management
+  - The Important Thing
   relme: {}
-  last_post_title: The Complicators, The Drama Aggregators, and The Avoiders
-  last_post_description: It’s hard to tell what drives each human. This is why my
-    usual last interview question is a very blunt, “What do you want to be when you
-    grow up?” I ask everyone regardless of the amount of
-  last_post_date: "2026-03-02T15:46:39Z"
-  last_post_link: https://randsinrepose.com/archives/the-complicators-the-drama-aggregators-and-the-avoiders/
+  last_post_title: The One About In Real Life
+  last_post_description: 'In our 97th episode, we talk about how much more we learn
+    in person and why the last 10% of anything is the most important part. Things
+    we mentioned: Rands Leadership Slack South by Southwest Jony'
+  last_post_date: "2026-03-13T03:07:50Z"
+  last_post_link: https://randsinrepose.com/archives/the-one-about-in-real-life/
   last_post_categories:
-  - Management
+  - The Important Thing
   last_post_language: ""
-  last_post_guid: 5a02f804dfc9b7b0215406b7fe3b5e39
+  last_post_guid: 9cd3703ea5b4318503f7ff6ebb173c02
   score_criteria:
     cats: 0
     description: 3

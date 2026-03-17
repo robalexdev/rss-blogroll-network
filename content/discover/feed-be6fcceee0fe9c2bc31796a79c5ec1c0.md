@@ -1,6 +1,6 @@
 ---
 title: Airing 的博客
-date: "2026-03-02T01:05:00Z"
+date: "2026-03-15T06:59:32Z"
 description: 哲学硕士｜小学老师 ｜终端全栈
 params:
   feedlink: https://blog.ursb.me/feed.xml

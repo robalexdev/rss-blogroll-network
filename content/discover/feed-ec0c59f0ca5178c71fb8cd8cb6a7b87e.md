@@ -1,6 +1,6 @@
 ---
 title: I Hear of Sherlock Everywhere
-date: "2026-03-04T15:15:59-05:00"
+date: "2026-03-16T14:24:29-04:00"
 description: The definitive Sherlock Holmes show and website at the intersection of
   news and popular culture.
 params:
@@ -167,16 +167,16 @@ params:
   - travel
   - video
   relme: {}
-  last_post_title: 221B Con Panels Are Up
+  last_post_title: 'Episode 330: And It Is Always 1895'
   last_post_description: ""
-  last_post_date: "2026-03-04T15:15:59-05:00"
-  last_post_link: https://feeds.feedblitz.com/~/949520576/0/ihearofsherlock.html
+  last_post_date: "2026-03-16T14:24:29-04:00"
+  last_post_link: https://feeds.feedblitz.com/~/950568485/0/ihearofsherlock.html
   last_post_categories:
-  - News
-  - blog
+  - episodes
   - events
+  - interview
   last_post_language: ""
-  last_post_guid: 23145052e82fafdafedbe73c4bab9605
+  last_post_guid: d9161cb91bae0be17495dceb34f73bf7
   score_criteria:
     cats: 5
     description: 3

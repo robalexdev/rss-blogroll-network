@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Upgrading Python Packages (pip-tools and uv)
-  last_post_description: The django project announced some important security releases
-    today. I have a few production applications running django, and while none of
-    them were due for a release today, these updates seem like
-  last_post_date: "2026-02-03T13:22:01-05:00"
-  last_post_link: https://geoff.tuxpup.com/posts/upgrading-python-packages/
+  last_post_title: Read QR codes from your Mac Screen
+  last_post_description: More and more school flyers are sent home with QR codes instead
+    of clickable links lately. Since I usually read these flyers on my laptop (currently
+    running Mac OS Sequoia) that introduces an
+  last_post_date: "2026-03-11T10:30:07-04:00"
+  last_post_link: https://geoff.tuxpup.com/posts/read-qr-codes-mac-screen/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9f1e5904e9252e2093a4db60afeac2b9
+  last_post_guid: f55143ce9512ba7ce887ac82d69fd506
   score_criteria:
     cats: 0
     description: 3

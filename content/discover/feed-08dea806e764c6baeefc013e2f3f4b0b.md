@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-03-05T05:47:41-08:00"
+date: "2026-03-16T10:36:48-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -67,6 +67,7 @@ params:
   - A JUICY RED APPLE
   - A LITTLE MORE RESPECT
   - A LONG SHOUT
+  - A TROVE OF TITLES
   - A ZONE
   - A.R. KANE
   - AALIYAH
@@ -719,6 +720,7 @@ params:
   - EXPERIMENTAL RAWYSTYLE
   - EYE CANDY
   - EZ ROLLERS
+  - EZEE D
   - Ed Rush
   - Englishness
   - Eugeniusz Rudnik
@@ -2182,6 +2184,7 @@ params:
   - WEST MIDLANDS
   - WHAT THE FUTURE HOLDS
   - WHAT YA GONNA DO
+  - WHAT'S IN A NAME
   - WHATEVER HAPPENED TO DEEP TECH THEN?
   - WHEN BELGIUM RULED THE WORLD
   - WHERE TECHNOTRONICA STARTED
@@ -2470,23 +2473,18 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Up Middle Finger
+  last_post_title: We Can Be Freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
   last_post_description: ""
-  last_post_date: "2026-02-09T09:56:58-08:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/02/up-middle-finger.html
+  last_post_date: "2026-03-14T15:14:30-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/03/we-can-be-freeeeeeeeeeeeeeeeeeeeeeeeeee.html
   last_post_categories:
-  - GARAGE RAP
-  - HYPERDUB
-  - MARK DE ROSARIO
-  - MARK FISHER
-  - PROTO-GRIME
-  - THE COMMITTEE
-  - THE COUNCIL
-  - UK GARAGE
-  - UP MIDDLE FINGER
-  - oxide and neutrino
+  - "1993"
+  - DON FM
+  - EZEE D
+  - MICHAELANGELO MATOS
+  - PIRATE RADIO
   last_post_language: ""
-  last_post_guid: 847b825c94ee7d0ccdc315163bce8904
+  last_post_guid: 396eac3fbfe27c6e81f6d6e382ff15f6
   score_criteria:
     cats: 5
     description: 3

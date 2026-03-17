@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-03-01T00:00:00+01:00"
+date: "2026-03-09T00:00:00+01:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -22,16 +22,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Retrospectiva #5'
-  last_post_description: Happy February! Just like that, we are close to wrapping
-    up the first quarter of 2026. After quite some time roaming around, we finally
-    flew back home to Copenhagen. It's cold, windy, and grey, but
-  last_post_date: "2026-03-01T00:00:00+01:00"
-  last_post_link: https://duarteocarmo.com/blog/retrospectiva-5.html
+  last_post_title: 'Portuguese variety identification: The bitter lesson'
+  last_post_description: "Given some text in Portuguese, how easy is it to determine
+    if it's from Brazil or Portugal1? For native speakers, this is pretty easy – it's
+    almost a feeling. But for machines: not so much. \nThis"
+  last_post_date: "2026-03-09T00:00:00+01:00"
+  last_post_link: https://duarteocarmo.com/blog/portuguese-variety-identification-the-bitter-lesson.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 5a7f739c9959147003873595aee59305
+  last_post_guid: 5f0a8ff3b1f4342154317d2f461b2006
   score_criteria:
     cats: 0
     description: 0

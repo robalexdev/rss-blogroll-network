@@ -13,6 +13,9 @@ params:
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37
+  - title: Ryan M. - Blogroll
+    description: ""
+    id: aefe458d084b844b7c2a6e71b48776ee
   recommended: []
   recommender:
   - https://jeroensangers.com/feed.xml

@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Building Personal Software
-  last_post_description: My feeds are filled with posts praising Claude Code. People
-    claim they feel bad if they don’t have an agent running 24/7. Developers are asking
-    for ways to manage more and more agents at once
-  last_post_date: "2026-02-04T18:30:00Z"
-  last_post_link: https://molodtsov.me/2026/02/buildai/
+  last_post_title: AI Won’t Kill SaaS But It Might Kill The Messy Middle
+  last_post_description: AI won’t kill the SaaS models. OpenAI itself famously runs
+    on Slack and uses countless off-the-shelf tools. There’s simply no point in rebuilding
+    key apps your entire workflow depends on with
+  last_post_date: "2026-03-16T16:50:00Z"
+  last_post_link: https://molodtsov.me/2026/03/ai-wont-kill-saas-but-it-might-kill-the-messy-middle/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0524d4c227efada01020e17cc03299a7
+  last_post_guid: efad3356299138dd1413d53988115792
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2025-12-30T12:08:00-06:00"
+date: "2026-03-09T20:11:00-05:00"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -26,18 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "2025"
-  last_post_description: |-
-    This was a pretty wild year all 'round. Birth of a child, caught in a layoff, freelancing, working in a startup.
-
-    Spiritual Life
-
-    I've been keeping track of prayer requests this year. As of this
-  last_post_date: "2026-02-26T10:26:39Z"
-  last_post_link: https://evantravers.com/articles/2025/12/30/2025/
+  last_post_title: AI in the City of God
+  last_post_description: Theological evaluation begins and ends with the sovereignty
+    of God. A technology is more than a tool, more than a technique, more than a telos.
+    It is all three, and all three must be asked together.
+  last_post_date: "2026-03-09T20:16:23Z"
+  last_post_link: https://evantravers.com/articles/2026/03/09/a-theological-understanding-of-technology/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37a94af85cabbe1e75f8d662b48f2d2e
+  last_post_guid: 0d2bf20689c3aa999fb43ce10e852179
   score_criteria:
     cats: 0
     description: 3

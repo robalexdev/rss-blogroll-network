@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Astro-blog记录(9) - 添加Webmention
+  last_post_title: 第八期-Openclaw实现的运动/睡眠向导(非教程)
   last_post_description: ""
-  last_post_date: "2026-02-25T17:02:00Z"
-  last_post_link: https://blog.asyncx.top/posts/2026-02-25/
+  last_post_date: "2026-03-05T22:30:00Z"
+  last_post_link: https://blog.asyncx.top/posts/2026-03-05/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7b1392fa60b8e58d51ddd0c46304b91e
+  last_post_guid: f0d6dc263ab6d449cdbf0dcb356916eb
   score_criteria:
     cats: 0
     description: 3

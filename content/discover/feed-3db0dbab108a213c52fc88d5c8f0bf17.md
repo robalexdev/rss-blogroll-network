@@ -26,23 +26,29 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - dogs
+  - complaints
+  - flood
   - flood 2026
-  - walking
+  - floods
+  - houses
+  - pizza
   relme: {}
-  last_post_title: '[Note]'
-  last_post_description: One last outing for the dog and I along the Cotswold lane
-    we’ve been living on, before we move to different temporary accommodation tomorrow.
-    We’re hoping soon to no-longer have to move every
-  last_post_date: "2026-03-05T09:32:45Z"
-  last_post_link: https://danq.me/2026/03/05/28424/
+  last_post_title: '[Article] A Hundred Inconveniences'
+  last_post_description: It's F-Day plus 31, and our flood-disrupted lives have become
+    defined by the hundred or so daily inconveniences that are imposed by our accidentally-nomadic
+    lifestyle. Here's hoping we can sort-out
+  last_post_date: "2026-03-16T14:42:22Z"
+  last_post_link: https://danq.me/2026/03/16/a-hundred-inconveniences/
   last_post_categories:
   - Personal
-  - dogs
+  - complaints
+  - flood
   - flood 2026
-  - walking
+  - floods
+  - houses
+  - pizza
   last_post_language: ""
-  last_post_guid: cac9c93b3f61235b24298e1f5d4108f9
+  last_post_guid: d20886c403114a5e6b598cbbfbf9d448
   score_criteria:
     cats: 0
     description: 3

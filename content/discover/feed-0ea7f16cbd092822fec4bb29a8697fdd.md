@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2025-09-27T00:00:00Z"
+date: "2026-03-13T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Fir formats comments
-  last_post_description: Fir formats comments by assigning comment tokens to non-comment
-    tokens (only conceptually, not in the implementation, see below), and generating
-    comments when formatting the tokens that “own”
-  last_post_date: "2025-09-27T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2025-09-27-fir-formatter.html
+  last_post_title: Exceptions as shared secrets, demonstrated
+  last_post_description: Robert Harper’s “Exceptions Are Shared Secrets” is an intriguing
+    blog post, but it may come as a bit abstract unless you’re already familiar with
+    the idea of accidental exception (or more
+  last_post_date: "2026-03-13T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-03-13-exceptions-as-shared-secrets.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7a60b75da62dd69733166f7417b3b2d
+  last_post_guid: 9ea54f151571ba31c197fe9fb49bd2c7
   score_criteria:
     cats: 0
     description: 0

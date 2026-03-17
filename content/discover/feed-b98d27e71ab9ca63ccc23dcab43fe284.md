@@ -1,6 +1,6 @@
 ---
 title: Alastair Johnston
-date: "2025-06-13T14:35:33+01:00"
+date: "2026-03-13T14:08:44Z"
 description: ""
 params:
   feedlink: https://alastairjohnston.com/feed.xml
@@ -16,32 +16,30 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories:
-  - unmachined
+  categories: []
   relme: {}
-  last_post_title: Un-optimising Dog Walks
-  last_post_description: I was enjoying the sunshine and taking my hounds for their
-    lunchtime walk. One of them did what all dogs (and humans) need to do, poo. Being
-    a responsible owner I fished out a poo bag from my pocket
-  last_post_date: "2025-06-10T15:24:57+01:00"
-  last_post_link: https://alastairjohnston.com/un-optimising-dog-walks/
-  last_post_categories:
-  - unmachined
+  last_post_title: Goodbye Toto, Goodbye Peep
+  last_post_description: Totino gently warbled his last quiet song as he rested in
+    my son's cupped hand. Half an hour later he would close his eyes to drift away
+    from being that soft, warm, beautiful blue and yellow
+  last_post_date: "2026-02-14T12:00:00Z"
+  last_post_link: https://alastairjohnston.com/goodbye-toto-goodbye-peep/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1691a11933de305e71758ade3126234d
+  last_post_guid: fb997fba75f6d7f46e1d3b339da9549a
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

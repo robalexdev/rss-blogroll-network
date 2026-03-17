@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SEO Isn’t Dead in 2026 — But This Is What’s Actually Ranking in
-    Google &amp; AI Search
-  last_post_description: SEO is not dead, but search is no longer the same as it used
-    to be. People no longer click on links as they used to; instead, they ask Google,
-    ChatGPT, and utilize tools like Gemini and Perplexity.
-  last_post_date: "2026-03-04T05:22:48Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/seo-isnt-dead-in-2026-but-this-is-whats-actually-ranking-in-google-ai-search
+  last_post_title: 'AI SEO Performance Measurement: Is Your Brand Fading into the
+    Shadows in 2026?'
+  last_post_description: Have you seen how different our search habits are these days?
+    No longer do we just type in a phrase and scroll through ten blue links. Today,
+    Google gives answers directly through AI Overviews, and a
+  last_post_date: "2026-03-16T06:14:39Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/ai-seo-performance-measurement-is-your-brand-fading-into-the-shadows-in-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b06155f9168696361264274cdd35a4a2
+  last_post_guid: 30bc3014b67a16679f7376588405a250
   score_criteria:
     cats: 0
     description: 3

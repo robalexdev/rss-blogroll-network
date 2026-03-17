@@ -25,37 +25,34 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Cornell University
-  - RP2040
-  - Raspberry Pi Pico
-  - Raspberry Pi RP2040
+  - Powered by Raspberry Pi
+  - Raspberry Pi Official Magazine
   relme: {}
-  last_post_title: Cornell students’ 2025 Pico projects
+  last_post_title: 'Powered by Raspberry Pi: Singing fish, educational synths, and
+    agile robots'
   last_post_description: |-
-    Professor V. Hunter Adams shows us what Cornell University's latest Electrical and Computer Engineering cohort built with Pico.
-    The post Cornell students’ 2025 Pico projects appeared first on
-  last_post_date: "2026-03-04T12:42:39Z"
-  last_post_link: https://www.raspberrypi.com/news/cornell-students-2025-pico-projects/
+    This Maker Monday, we present some of the newest additions to our suite of Powered by Raspberry Pi partner products.
+    The post Powered by Raspberry Pi: Singing fish, educational synths, and agile
+  last_post_date: "2026-03-16T11:58:06Z"
+  last_post_link: https://www.raspberrypi.com/news/powered-by-raspberry-pi-singing-fish-educational-synths-and-agile-robots/
   last_post_categories:
-  - Cornell University
-  - RP2040
-  - Raspberry Pi Pico
-  - Raspberry Pi RP2040
+  - Powered by Raspberry Pi
+  - Raspberry Pi Official Magazine
   last_post_language: ""
-  last_post_guid: 9fe139c5a794d613efb0c79b3177646d
+  last_post_guid: 437e4c0bce4bb83cc7d8761f6703500b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

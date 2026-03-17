@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Not Prompts, Blueprints
+  last_post_title: You Are Responsible for Your Agent
   last_post_description: |-
-    I hate to micromanage & I’ve been micromanaging AI.
-    A few months ago, I’d use Claude for a familiar workflow : capturing notes from a meeting, drafting a follow-up email, updating the CRM,
-  last_post_date: "2026-03-04T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/filling-the-queue-for-ai/
+    “What happens when a new employee brings their agent to work?”
+    An executive asked this recently. Imagine a few years from now : a student graduates, having trained their own agent through
+  last_post_date: "2026-03-15T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/you-are-responsible-your-agent/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7152d2c468ffda10b07ef46a4bff549e
+  last_post_guid: 782718f02c8c1ef3495e74e885593c45
   score_criteria:
     cats: 0
     description: 3

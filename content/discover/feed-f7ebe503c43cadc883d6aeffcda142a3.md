@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-03-05T05:54:31-06:00"
+date: "2026-03-13T15:00:42-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -1197,28 +1197,29 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: What I Read in February 2026 – Mouek mouek mouek… Ma-a-a-a… Ma-aa-a…
-    said Saha
+  last_post_title: Ben Jonson's Sejanus His Fall - Is there not something more, than
+    to be Caesar?
   last_post_description: ""
-  last_post_date: "2026-02-28T23:16:31-06:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/02/what-i-read-in-february-2026-mouek.html
+  last_post_date: "2026-03-09T07:00:00-05:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/03/ben-jonsons-sejanus-his-fall-is-there.html
   last_post_categories:
-  - reading
+  - JONSON Ben
+  - NOT SHAKESPEARE
   last_post_language: ""
-  last_post_guid: 7dbe15d1f2f5afd10671ffad140ec0d7
+  last_post_guid: 3cd11419a91c21f3bfcf16ed3962d0f8
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 23
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

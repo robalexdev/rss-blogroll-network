@@ -27,67 +27,61 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Simon Carstensen Blogroll
+    description: ""
+    id: ea1b7316b10d815081161f765266ec3c
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://simonbc.com/feed.xml
   categories:
-  - agile
-  - ai
-  - automation
-  - code
-  - coding
-  - cognitive
-  - computing
-  - cybernetics
-  - debt
-  - feedback
-  - generative
-  - language
-  - learning
-  - machinelearning
-  - models
-  - programming
-  - projects
-  - technical
-  - technology
-  - tools
-  - understanding
-  - waterfall
-  - work
+  - browsers
+  - design
+  - development
+  - enhancement
+  - fallbacks
+  - fonts
+  - frontend
+  - loading
+  - performance
+  - progressive
+  - speed
+  - standards
+  - subsetting
+  - thesession
+  - type
+  - typography
+  - variable
+  - webfonts
   relme: {}
-  last_post_title: Feedback
+  last_post_title: A web font strategy
   last_post_description: |-
-    If you wanted to make a really crude approximation of project management, you could say there are two main styles: waterfall and agile.
+    The Session has been online in some form since the late 1990s. That’s long before web fonts existed.
 
-    It’s not as simple as that by any means. And the two
-  last_post_date: "2026-03-04T16:33:19Z"
-  last_post_link: https://adactio.com/journal/22436
+    To begin with, Times New Roman was the only game in town if you wanted serif type on a website.
+  last_post_date: "2026-03-11T14:17:39Z"
+  last_post_link: https://adactio.com/journal/22450
   last_post_categories:
-  - agile
-  - ai
-  - automation
-  - code
-  - coding
-  - cognitive
-  - computing
-  - cybernetics
-  - debt
-  - feedback
-  - generative
-  - language
-  - learning
-  - machinelearning
-  - models
-  - programming
-  - projects
-  - technical
-  - technology
-  - tools
-  - understanding
-  - waterfall
-  - work
+  - browsers
+  - design
+  - development
+  - enhancement
+  - fallbacks
+  - fonts
+  - frontend
+  - loading
+  - performance
+  - progressive
+  - speed
+  - standards
+  - subsetting
+  - thesession
+  - type
+  - typography
+  - variable
+  - webfonts
   last_post_language: ""
-  last_post_guid: da8baab58452052a1612174498e86083
+  last_post_guid: bbfcd7a74b2a2c1041d87dfe9a6c9005
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-01-03T10:32:19Z"
+date: "2026-03-10T05:53:23Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The current Cybershard layout
+  last_post_title: A work week one bag travel
   last_post_description: ""
-  last_post_date: "2026-01-03T10:32:19Z"
-  last_post_link: https://www.jonashietala.se/blog/2024/11/26/the_current_cybershard_layout
+  last_post_date: "2026-03-10T05:53:23Z"
+  last_post_link: https://www.jonashietala.se/blog/2026/03/10/a_work_week_one_bag_travel
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: faab763772b49979da570136ae6aedf8
+  last_post_guid: cb2d22f6f6a853a7704de83c5ed7c799
   score_criteria:
     cats: 0
     description: 0

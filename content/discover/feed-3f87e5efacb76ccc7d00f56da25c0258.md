@@ -21,6 +21,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Ryan M. - Blogroll
+    description: ""
+    id: aefe458d084b844b7c2a6e71b48776ee
   - title: English RSS collated by MoreRSS
     description: ""
     id: 4fec48524a0a655ca9ae0e814e87c47b

@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Miloš Miljković - Blogroll
+    description: ""
+    id: ffa5e63462db333bc9076d25a3826098
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

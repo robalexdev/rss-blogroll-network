@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2026-03-05T09:16:59Z"
+date: "2026-03-16T09:20:44Z"
 description: Independent software developer
 params:
   feedlink: https://albertogalca.com/feed.xml

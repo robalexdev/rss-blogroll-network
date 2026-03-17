@@ -19,22 +19,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - jonhicks
-  - musicplayers
-  - via:kottke
+  - bobbigg
+  - london
+  - permanentstyle
+  - savillerow
+  - simoncrompton
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: My perfect Music app doesn’t exist - Hicks.design
-  last_post_description: In-depth look at different music player apps from last year.
-    (via Kottke)
-  last_post_date: "2026-03-04T08:41:54Z"
-  last_post_link: https://hicks.design/journal/my-perfect-music-app-doesnt-exist
+  last_post_title: 'Savile Row back in the day: Bob Bigg part 2 – Permanent Style'
+  last_post_description: Some good anecdotes here.
+  last_post_date: "2026-03-16T09:06:41Z"
+  last_post_link: https://www.permanentstyle.com/2026/03/savile-row-back-in-the-day-bob-bigg-part-2.html
   last_post_categories:
-  - jonhicks
-  - musicplayers
-  - via:kottke
+  - bobbigg
+  - london
+  - permanentstyle
+  - savillerow
+  - simoncrompton
   last_post_language: ""
-  last_post_guid: 49821026ac7e6e4018ae62f66882404a
+  last_post_guid: b3a75bad590bc2f6593437353f6386f0
   score_criteria:
     cats: 0
     description: 3

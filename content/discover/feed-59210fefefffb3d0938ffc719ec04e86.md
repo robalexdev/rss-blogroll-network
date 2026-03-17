@@ -19,16 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Richest blogger in the cemetery
-  last_post_description: |-
-    I read this great quote shared by Prasatt:
-
-    Be more generous than necessary. No one on their deathbed has ever regretted giving too much away. There is no point to being the richest person in the
-  last_post_date: "2026-03-04T13:24:00Z"
-  last_post_link: https://robertbirming.com/richest-blogger-cemetery/
+  last_post_title: New Yuki Art for Noodlist
+  last_post_description: I've been researching how to do that whole V-tuber animated
+    character modeling thing. Given most of my work is done in vector format in Illustrator
+    I think I can get a decent animation from the
+  last_post_date: "2026-03-16T06:02:00Z"
+  last_post_link: https://jetgirl.art/new-art-for-noodlist-mascot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f052a7e1eb2f5d41e88b9f4c7dcecb5a
+  last_post_guid: 0715ea0575697ee7dfd7402f5846fa68
   score_criteria:
     cats: 0
     description: 3

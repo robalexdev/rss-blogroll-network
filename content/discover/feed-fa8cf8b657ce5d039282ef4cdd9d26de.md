@@ -6,7 +6,8 @@ params:
   feedlink: https://hutusi.com/feed.xml
   feedtype: atom
   feedid: fa8cf8b657ce5d039282ef4cdd9d26de
-  websites: {}
+  websites:
+    https://hutusi.com/: true
   blogrolls: []
   in_blogrolls:
   - title: FreshRSS
@@ -29,8 +30,7 @@ params:
   - 周刊
   relme: {}
   last_post_title: '好奇心周刊第25期: 如何让AI写好代码'
-  last_post_description: 本文为好奇心周刊第25期，全部周刊参见：[周刊系列](https://hutusi.com/weeklies/)。
-    在[上一期周刊](https://hutusi.com/weeklies/24)中，我谈了下对AI编程 / Vibe Coding
+  last_post_description: 苏格拉底式编程 + Claude/Gemini/Codex 的专家级协同，100% AI 编程的个人项目经验总结
   last_post_date: "2026-02-26T00:00:00Z"
   last_post_link: https://hutusi.com/weeklies/25
   last_post_categories:
@@ -50,8 +50,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 21
+    website: 2
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

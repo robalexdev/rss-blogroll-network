@@ -21,15 +21,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 236 - Glasses
-  last_post_description: |-
-    I heard more squeaking in the walls of my garden office. I put down a couple of traps in the air gap underneath, and within an hour I heard two loud bangs. No more mice. Brutal but effective.
-    H's
-  last_post_date: "2026-03-02T14:12:05Z"
-  last_post_link: https://barryfrost.com/2026/03/week-236-glasses
+  last_post_title: Week 238 - Streak
+  last_post_description: I picked up my two new pairs of reading glasses from Boots.
+    I now have glasses by my bed and on my desk. I can manage fine without them, but
+    reading and laptopping is noticeably clearer. I just need
+  last_post_date: "2026-03-16T14:43:36Z"
+  last_post_link: https://barryfrost.com/2026/03/week-238-streak
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f096639469acb1c792d3fe270e16c7be
+  last_post_guid: 66ffac21d05872438a108e22df015206
   score_criteria:
     cats: 0
     description: 3

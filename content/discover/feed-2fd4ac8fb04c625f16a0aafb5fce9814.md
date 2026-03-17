@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-03-02T02:35:03-08:00"
+date: "2026-03-10T00:17:17-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -32,6 +32,7 @@ params:
   - 95th Academy Awards
   - 96th Academy Awards
   - 97th Academy Awards
+  - 98th Academy Awards
   - A Fish Called Wanda
   - AV Club
   - Academy Awards
@@ -308,7 +309,7 @@ params:
   relme: {}
   last_post_title: Why Didn’t They “Just” Film on Location?
   last_post_description: ""
-  last_post_date: "2026-02-02T09:28:03-08:00"
+  last_post_date: "2026-03-09T20:31:42-07:00"
   last_post_link: https://fxrant.blogspot.com/2026/01/why-didnt-they-just-film-on-location.html
   last_post_categories: []
   last_post_language: ""

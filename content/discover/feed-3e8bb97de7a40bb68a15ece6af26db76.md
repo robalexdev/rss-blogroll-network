@@ -15,57 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 82nd Airborne
-  - Cold War
   - Commander-in-Chief
-  - Congress
-  - Democrats
-  - Government Shutdown
-  - Iran
-  - Military Affairs
-  - National Emergency
   - National Security
-  - Opposition
-  - Rand Paul
-  - Richard Nixon
-  - The Presidency
-  - US Constitution
+  - Photography
+  - Trump
   - US Politics
-  - Vietnam
-  - Vietnam War
-  - War Powers
-  - shutdown
-  - suicide
   relme: {}
-  last_post_title: War Powers Catch-22
-  last_post_description: They have a right to do anything we can't stop them from
-    doing.
-  last_post_date: "2026-03-05T12:51:52Z"
-  last_post_link: https://outsidethebeltway.com/war-powers-catch-22/
+  last_post_title: A Few Thousand Words About Our Very Serious Commander-in-Chief
+  last_post_description: Or "Things to do while the military has an excursion."
+  last_post_date: "2026-03-16T15:22:39Z"
+  last_post_link: https://outsidethebeltway.com/a-few-thousand-words-about-our-very-serious-commander-in-chief/
   last_post_categories:
-  - 82nd Airborne
-  - Cold War
   - Commander-in-Chief
-  - Congress
-  - Democrats
-  - Government Shutdown
-  - Iran
-  - Military Affairs
-  - National Emergency
   - National Security
-  - Opposition
-  - Rand Paul
-  - Richard Nixon
-  - The Presidency
-  - US Constitution
+  - Photography
+  - Trump
   - US Politics
-  - Vietnam
-  - Vietnam War
-  - War Powers
-  - shutdown
-  - suicide
   last_post_language: ""
-  last_post_guid: d6e24fbbb1dcd57fa753ce1d7887a489
+  last_post_guid: f330bb56d54f12e4ef90ea4280153f15
   score_criteria:
     cats: 0
     description: 3

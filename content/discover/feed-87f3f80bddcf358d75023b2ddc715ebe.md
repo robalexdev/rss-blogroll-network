@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 Coming Soon: Exhale"
-  last_post_description: lofi, piano, bass, emotional, downtempo
-  last_post_date: "2026-03-04T18:43:58Z"
-  last_post_link: https://aaronholbrookmusic.com/song/exhale/
+  last_post_title: "\U0001F3B5 New Release: Sonder"
+  last_post_description: lofi, emotional, synth, worldbuilding
+  last_post_date: "2026-03-13T00:00:00Z"
+  last_post_link: https://aaronholbrookmusic.com/song/sonder/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a7b74e0c89b6e526773cb3495dddf6d
+  last_post_guid: 54816b6499ebe64bf1e89baf232dc282
   score_criteria:
     cats: 0
     description: 3
