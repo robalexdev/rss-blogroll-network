@@ -23,31 +23,36 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - autism
-  - cdc
-  - health & human services
-  - jay bhattacharya
-  - nih
-  - rfk jr.
-  - vaccines
+  - ai
+  - california
+  - citations
+  - dog custody
+  - hallucinations
+  - joan pablo torres
+  - lawyers
+  - leslie munoz
+  - sassafras patterdale
   relme: {}
-  last_post_title: NIH Boss Jay Bhattacharya Breaks With RFK Jr. On Vaccines
-  last_post_description: Echo chambers are generally bad. Any group making important
-    decisions should have a certain level of diversity of thought to avoid groupthink.
-    But I would argue that there are some stances that are
-  last_post_date: "2026-02-06T04:04:41Z"
-  last_post_link: https://www.techdirt.com/2026/02/05/nih-boss-jay-bhattacharya-breaks-with-rfk-jr-on-vaccines/
+  last_post_title: A Reddit Post, An AI Hallucination, And Two Lawyers Who Never Checked
+    Citations Walk Into A Dog Custody Case
+  last_post_description: We’ve been covering the growing parade of lawyers submitting
+    AI-hallucinated case citations to courts for a while now. It keeps happening,
+    and courts keep having to deal with it. But the pattern is
+  last_post_date: "2026-03-16T20:57:05Z"
+  last_post_link: https://www.techdirt.com/2026/03/16/a-reddit-post-an-ai-hallucination-and-two-lawyers-who-never-checked-citations-walk-into-a-dog-custody-case/
   last_post_categories:
   - "1"
-  - autism
-  - cdc
-  - health & human services
-  - jay bhattacharya
-  - nih
-  - rfk jr.
-  - vaccines
+  - ai
+  - california
+  - citations
+  - dog custody
+  - hallucinations
+  - joan pablo torres
+  - lawyers
+  - leslie munoz
+  - sassafras patterdale
   last_post_language: ""
-  last_post_guid: 19b49eb9146b6ba984d5a57a0777729c
+  last_post_guid: 75975ef662269097cfbbd84d2fe16910
   score_criteria:
     cats: 0
     description: 0

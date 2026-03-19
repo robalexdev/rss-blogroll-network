@@ -14,6 +14,9 @@ params:
   - title: Frank McPherson - Blogroll
     description: ""
     id: 3c039ddf8649f01e6b341f6cea774be8
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   recommended:
   - http://scripting.com/rss.xml
   - https://andysylvester.com/feed/

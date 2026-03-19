@@ -1,6 +1,6 @@
 ---
 title: Dying Words
-date: "2026-02-07T16:26:52Z"
+date: "2026-03-07T20:03:23Z"
 description: Provoking Thoughts on Life, Death, and Writing
 params:
   feedlink: https://dyingwords.net/atom/
@@ -15,36 +15,58 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Epstein Files
-  - Evidence
-  - Ghislaine Maxwell
-  - Investigation
-  - Jeffrey Epstein
-  - Library
-  - Little St. James Island
-  - US Virgin Islands
+  - Armaments
+  - Arsenal
+  - Ballistic
+  - Canada
+  - Execution
+  - Experimental
+  - Gerald Bull
+  - Hit
+  - Iraq
+  - Israel
+  - Mass Destruction
+  - Missile
+  - Mossad
+  - Murder
+  - Saddam Hussein
+  - Supergun
   - Uncategorized
-  - United States Deaprtment of Justice
+  - United States
+  - Warhead
+  - Weapon
+  - unsolved
   relme: {}
-  last_post_title: WHAT DO THE EPSTEIN FILES REALLY TELL US?
-  last_post_description: On January 30, 2026, the United States Department of Justice
-    released a massive info-dump pursuant to the Epstein Files Transparency Act. The
-    DOJ created an on-line library containing 3.5 million
-  last_post_date: "2026-02-07T16:26:52Z"
-  last_post_link: https://dyingwords.net/what-do-the-epstein-files-really-tell-us/
+  last_post_title: 'GERALD BULL: MURDER, SADDAM HUSSEIN, AND THE IRAQ SUPERGUN'
+  last_post_description: On March 22, 1990, Canadian aerospace engineer Gerald Bull
+    was shot to death outside his apartment in Brussels, Belgium. The hit was the
+    hallmark of a foreign intelligence agency—the Mossad. And
+  last_post_date: "2026-03-07T20:03:23Z"
+  last_post_link: https://dyingwords.net/gerald-bull-murder-saddam-hussein-and-the-iraq-supergun/
   last_post_categories:
-  - Epstein Files
-  - Evidence
-  - Ghislaine Maxwell
-  - Investigation
-  - Jeffrey Epstein
-  - Library
-  - Little St. James Island
-  - US Virgin Islands
+  - Armaments
+  - Arsenal
+  - Ballistic
+  - Canada
+  - Execution
+  - Experimental
+  - Gerald Bull
+  - Hit
+  - Iraq
+  - Israel
+  - Mass Destruction
+  - Missile
+  - Mossad
+  - Murder
+  - Saddam Hussein
+  - Supergun
   - Uncategorized
-  - United States Deaprtment of Justice
+  - United States
+  - Warhead
+  - Weapon
+  - unsolved
   last_post_language: ""
-  last_post_guid: 3b3ce2f407bfebb821ec3d2f5464274c
+  last_post_guid: a8d99fb7f2768873e3362226f0e8f998
   score_criteria:
     cats: 0
     description: 3

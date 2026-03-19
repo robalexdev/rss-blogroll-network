@@ -1,7 +1,7 @@
 ---
-title: 老范讲故事的博客站
+title: 老范讲故事｜AI、大模型与商业世界的故事
 date: "1970-01-01T00:00:00Z"
-description: 老范的博客主站，时而会发些东西。
+description: 这里是老范讲故事的主站，持续更新 AIGC、大模型、互联网平台、商业冲突与资本市场观察，帮你看清热点背后的底层逻辑。
 params:
   feedlink: https://lukefan.com/?feed=rss2
   feedtype: rss
@@ -18,76 +18,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 24/7 AI Assistant
-  - AI Agent
-  - AI Long-term Memory
-  - AI Productivity Tools
-  - AI Token Cost
   - AIGC
-  - Anthropic Claude
-  - Automated Workflow
-  - Claude 4.5 Opus
-  - Clawdbot
-  - Clawdbot Setup
-  - Discord AI Bot
-  - GitHub AI Project
-  - Home Server AI
-  - LLM Integration
-  - Mac Mini Farm
-  - Mac Mini Server
-  - Mac mini
-  - Mac mini M4
-  - Messaging-first AI
-  - Open Source AI Assistant
-  - Personal AI Assistant
-  - Peter Steinberger
-  - Private AI Cloud
-  - Proactive AI
-  - Self-hosted AI
-  - Smart Home AI
-  - Telegram Bot
-  - Vibe Coding
-  - WhatsApp Integration
-  - iMessage AI
+  - AI越用越累
+  - GPT Gemini工具使用焦虑
+  - OpenClaw
+  - YouTube收入下降
+  - setup tax
+  - 专业任务反向降效
+  - 信息焦虑
+  - 配置税setup tax
+  - 验证地狱
   relme: {}
-  last_post_title: Clawdbot深度评测：全能AI助理的成本与实战避坑
-  last_post_description: 你是否好奇最近 Mac mini 为何销量暴增？全新开源 AI 助理 Clawdbot 横空出世，以
-  last_post_date: "2026-01-27T00:47:48Z"
-  last_post_link: https://lukefan.com/2026/01/27/clawdbot-open-source-ai-assistant-mac-mini/
+  last_post_title: AI 越用越累的真相：配置税与验证地狱
+  last_post_description: AI 越用越累、钱反而变少？本文用亲身经历拆解：信息焦虑如何把注意力榨干，配置税（setup tax）让你开工前就先被消耗，验证地狱逼你不断核实
+    AI
+  last_post_date: "2026-03-16T13:37:33Z"
+  last_post_link: https://lukefan.com/2026/03/16/ai-fatigue-income-drop-work-creep-verification-hell-youtube-2025/
   last_post_categories:
-  - 24/7 AI Assistant
-  - AI Agent
-  - AI Long-term Memory
-  - AI Productivity Tools
-  - AI Token Cost
   - AIGC
-  - Anthropic Claude
-  - Automated Workflow
-  - Claude 4.5 Opus
-  - Clawdbot
-  - Clawdbot Setup
-  - Discord AI Bot
-  - GitHub AI Project
-  - Home Server AI
-  - LLM Integration
-  - Mac Mini Farm
-  - Mac Mini Server
-  - Mac mini
-  - Mac mini M4
-  - Messaging-first AI
-  - Open Source AI Assistant
-  - Personal AI Assistant
-  - Peter Steinberger
-  - Private AI Cloud
-  - Proactive AI
-  - Self-hosted AI
-  - Smart Home AI
-  - Telegram Bot
-  - Vibe Coding
-  - WhatsApp Integration
-  - iMessage AI
+  - AI越用越累
+  - GPT Gemini工具使用焦虑
+  - OpenClaw
+  - YouTube收入下降
+  - setup tax
+  - 专业任务反向降效
+  - 信息焦虑
+  - 配置税setup tax
+  - 验证地狱
   last_post_language: ""
-  last_post_guid: 5bdf590cb69ec1ba47139139572a6d6b
+  last_post_guid: da7e131c969c41d40959f4739f47bc2f
   score_criteria:
     cats: 0
     description: 3

@@ -16,25 +16,31 @@ params:
   recommender: []
   categories:
   - Amateur Radio
-  - Coolmine
-  - cw
+  - Coding
+  - Computing
+  - LLOTA
+  - artificial intelligence
+  - coding
+  - llota
   - radio
-  - rally report
   relme: {}
-  last_post_title: Radio Rummaging at Coolmine Radio Rally.
-  last_post_description: …and what I found in a junk box. The soggy start to 2026
-    continued unabated, Saturday February 15th was no different. Thank goodness then
-    that one of the first rallies of the year was to be held
-  last_post_date: "2026-02-15T17:30:59Z"
-  last_post_link: https://ei3lh.eu/2026/02/15/radio-rummaging-at-coolmine-radio-rally/
+  last_post_title: Vibe Coding LLOTA to Aid The Clueless Developer. Aka, Me.
+  last_post_description: 10 PRINT “HELLO WORLD”, 20 GOTO10. I’m not a developer. I
+    am not a programmer. Hand me a sheet of code and it looks like mumbo jumbo to
+    me. If anything it brings back the horrors of the late
+  last_post_date: "2026-03-16T13:21:09Z"
+  last_post_link: https://ei3lh.eu/2026/03/16/vibe-coding-llota-to-aid-the-clueless-developer-aka-me/
   last_post_categories:
   - Amateur Radio
-  - Coolmine
-  - cw
+  - Coding
+  - Computing
+  - LLOTA
+  - artificial intelligence
+  - coding
+  - llota
   - radio
-  - rally report
   last_post_language: ""
-  last_post_guid: a712ef3d7c1b42211d882cb82d25e29a
+  last_post_guid: 242483cbc8280f8e23ea498262d17104
   score_criteria:
     cats: 0
     description: 3

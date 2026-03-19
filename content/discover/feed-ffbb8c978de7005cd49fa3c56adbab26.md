@@ -16,6 +16,9 @@ params:
   - title: A webring for ghosts, witches, and other mysterious creatures!
     description: ""
     id: e388f9734ab226df5402c97331110720
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

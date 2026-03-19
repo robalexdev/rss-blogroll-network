@@ -1,6 +1,6 @@
 ---
 title: 为也行
-date: "2026-02-05T21:28:09Z"
+date: "2026-03-16T15:49:36Z"
 description: 行，为也
 params:
   feedlink: https://weiyexing.win/feed
@@ -15,16 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Readlog
+  - Review
   relme: {}
-  last_post_title: 读记｜二〇二六・一：纳瓦尔、孟岩、刘震云等
-  last_post_description: 好资产 + 好价格 + 长期持有
-  last_post_date: "2026-02-01T09:17:36Z"
-  last_post_link: https://weiyexing.win/read-202601/
+  last_post_title: 2025 很棒的一些东西
+  last_post_description: 2025 年一些值得记录的东西
+  last_post_date: "2026-02-09T06:20:33Z"
+  last_post_link: https://weiyexing.win/review-2025/
   last_post_categories:
-  - Readlog
+  - Review
   last_post_language: ""
-  last_post_guid: b60148030a170fddcf1b64fd05a933f2
+  last_post_guid: 995d8672935586496b4c81c0b3ffe139
   score_criteria:
     cats: 0
     description: 3

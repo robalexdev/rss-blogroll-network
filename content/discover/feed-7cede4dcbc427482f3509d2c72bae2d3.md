@@ -54,6 +54,9 @@ params:
   - title: Export from Plenary
     description: ""
     id: b4aa112c47ea6fa1d98538aee7d63d32
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

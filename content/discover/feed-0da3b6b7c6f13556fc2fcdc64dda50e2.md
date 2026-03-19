@@ -23,22 +23,25 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories:
   - Games
   relme:
     https://www.nathalielawhead.com/candybox: true
-  last_post_title: One whole year of video game recommendations
-  last_post_description: The EU game scene was always something I admired from a distance.
-    All the quirky interesting events that you'd only hear about when you attended
-    GDC for your once-a-year catchup with friends that
-  last_post_date: "2025-12-20T14:43:24Z"
-  last_post_link: https://www.nathalielawhead.com/candybox/one-whole-year-of-video-game-recommendations
+  last_post_title: Steam, Moderation, Toxicity, and “this shouldn’t be normal”
+  last_post_description: I guess I’m going to be here to vent a little, about culture
+    in general, because I’m doing a bunch of maintenance and have to watch status
+    bars go up… It’s been an interesting past few weeks.
+  last_post_date: "2026-02-20T13:47:08Z"
+  last_post_link: https://www.nathalielawhead.com/candybox/steam-moderation-toxicity-and-this-shouldnt-be-normal
   last_post_categories:
   - Games
   last_post_language: ""
-  last_post_guid: da6922a3c8ec6a2c1d103984053c7818
+  last_post_guid: 0476327129351acfe9a3b2929710b609
   score_criteria:
     cats: 0
     description: 3

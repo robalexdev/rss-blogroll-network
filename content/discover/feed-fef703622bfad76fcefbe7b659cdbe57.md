@@ -21,6 +21,9 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: "\U0001F4AC John Philpin - Blogroll"
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
@@ -33,6 +36,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295

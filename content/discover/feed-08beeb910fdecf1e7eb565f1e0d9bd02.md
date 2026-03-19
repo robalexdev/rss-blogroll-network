@@ -1,6 +1,6 @@
 ---
 title: A TRIP DOWN MEMORY LANE
-date: "2026-02-15T11:07:00-08:00"
+date: "2026-03-15T14:51:38-07:00"
 description: A nostalgic journey to the past to relive the golden days of entertainment!
 params:
   feedlink: https://greatentertainersarchives.blogspot.com/atom.xml
@@ -56,6 +56,7 @@ params:
   - 1980s
   - "1982"
   - "1992"
+  - "1998"
   - "2010"
   - 2010-2020
   - "2011"
@@ -102,6 +103,7 @@ params:
   - Ahna Capri
   - Aileen Quinn
   - Ain't That A Shame
+  - Airplane
   - Al Alberts
   - Al Bowlly
   - Al Capone
@@ -113,6 +115,7 @@ params:
   - Aladdin
   - Alan Alda
   - Alan Eichler
+  - Alan Hale Jr
   - Alan Ladd
   - Alan Rickman
   - Alan Young
@@ -503,6 +506,7 @@ params:
   - David Brubeck
   - David Duncan
   - David Kelly
+  - David Lobosco
   - David Nelson
   - David Niven
   - David Soren
@@ -631,6 +635,7 @@ params:
   - Elvis Presley
   - Emma Stone
   - Emma Thompson
+  - Emmy Awards
   - Eric Idle
   - Eric Stonestreet
   - Erin Fleming
@@ -660,6 +665,7 @@ params:
   - Fanny Brice
   - Farley Granger
   - Farrah Fawcett
+  - Father Knows Best
   - Fats Domino
   - Fats Waller
   - Fatty Arbuckle
@@ -771,6 +777,7 @@ params:
   - Gigot
   - Gilbert Gottfried
   - Gilda Radner
+  - Gilligan's Island
   - Gina Lollobrigida
   - Ginger Mercer
   - Ginger Rogers
@@ -1200,6 +1207,7 @@ params:
   - Laura
   - Laura Dern
   - Lauren Bacall
+  - Lauren Chapin
   - Laurence Olivier
   - Laverne Andrews
   - Lawanda Page
@@ -1689,6 +1697,7 @@ params:
   - Robert Taylor
   - Robert Wagner
   - Robert Walker
+  - Robert Young
   - Roberta Sherwood
   - Robin Williams
   - Rochelle Hudson
@@ -2085,6 +2094,7 @@ params:
   - Walter Pigeon
   - Walter Winchell
   - Warren Beatty
+  - Warwick Davis
   - Wayne Martin
   - We're Not Dressing
   - Wee Bonnie Baker
@@ -2375,17 +2385,18 @@ params:
   - wives
   - writer
   relme: {}
-  last_post_title: 'HOLLYWOOD BEAUTY: ELEANOR POWELL'
+  last_post_title: 'THE RISE AND FALL OF BETTY HUTTON: A STORY OF STARDOM, STRUGGLE,
+    AND ESTRANGEMENT'
   last_post_description: ""
-  last_post_date: "2026-02-15T11:07:00-08:00"
-  last_post_link: http://greatentertainersarchives.blogspot.com/2026/02/hollywood-beauty-eleanor-powell.html
+  last_post_date: "2026-03-15T08:55:00-07:00"
+  last_post_link: http://greatentertainersarchives.blogspot.com/2026/03/the-rise-and-fall-of-betty-hutton-story.html
   last_post_categories:
-  - Eleanor Powell
+  - Betty Hutton
   - actress
-  - beauty
-  - photo
+  - children
+  - singers
   last_post_language: ""
-  last_post_guid: aa462be010a40e89a6d32be029dec647
+  last_post_guid: 83bd75bf781797cbda3c13a9faf43172
   score_criteria:
     cats: 5
     description: 3

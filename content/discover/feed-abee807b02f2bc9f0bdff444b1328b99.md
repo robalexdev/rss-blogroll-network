@@ -10,6 +10,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 4f9c05f836dbd67951ea4fd0d091fcca

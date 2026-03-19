@@ -15,6 +15,9 @@ params:
   - title: Doug Jones - Blogroll
     description: ""
     id: b489e65247baaf7f30a88a3424ab043b
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: jabel - Blogroll
     description: ""
     id: 2e8b4a6208d056910776755f53a45433

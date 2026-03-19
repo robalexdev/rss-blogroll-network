@@ -20,27 +20,20 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
-  recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
-  - https://danq.me/comments/feed/
-  - https://danq.me/feed/
-  - https://danq.me/kind/article/feed/
-  - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: John's 9th birthday is in 7 days
-  last_post_description: |-
-    It's on Wednesday 19 November 2025.
-                On WhatsApp? Send greetings via Dan or JTA.
-  last_post_date: "2025-11-12T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#john-2025-7@birthdays.abnib.co.uk
+  last_post_title: Kit's 46th birthday is in 7 days
+  last_post_description: It's on Thursday 26 March 2026.
+  last_post_date: "2026-03-19T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#kit-2026-7@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: de24d4eda6e9503f2e351358d5088b1c
+  last_post_guid: 189761de10e7b727e946962202e9d109
   score_criteria:
     cats: 0
     description: 3

@@ -12,6 +12,9 @@ params:
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
@@ -171,8 +174,11 @@ params:
   - https://kevquirk.com/feed.php
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://mattstein.com/books/rss.xml
+  - https://mattstein.com/thoughts/rss.xml
   - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss

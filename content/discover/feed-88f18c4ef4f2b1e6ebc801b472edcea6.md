@@ -1,8 +1,8 @@
 ---
 title: Robb Knight • Posts • Atom Feed
-date: "2026-01-22T11:45:42Z"
-description: Maker of web things, blogger, podcaster, and pizzaiolo. Cat dad and human
-  dad.
+date: "2026-03-06T08:41:23Z"
+description: Maker of web things, sticker merchant, viral toot-based business man,
+  blogger, podcaster, and pizzaiolo. Human dad.
 params:
   feedlink: https://rknight.me/feed.xml
   feedtype: atom
@@ -13,6 +13,9 @@ params:
   - title: Doug Jones - Blogroll
     description: ""
     id: b489e65247baaf7f30a88a3424ab043b
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
@@ -29,14 +32,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Pilot Kire-na Highlighters Review
-  last_post_description: I bought all ten of the Kire-na highlighters so I figured
-    I should review them
-  last_post_date: "2026-01-22T11:45:42Z"
-  last_post_link: https://rknight.me/blog/pilot-kirena-highlighters-review/
+  last_post_title: Ash Fetchum
+  last_post_description: A library to fetch all your repositories to another machine
+  last_post_date: "2026-03-06T08:41:23Z"
+  last_post_link: https://rknight.me/blog/ash-fetchum/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7baf87699db9e801a124fa7a1e98b918
+  last_post_guid: f753853534ea9f740d4d4bf09d276838
   score_criteria:
     cats: 0
     description: 3

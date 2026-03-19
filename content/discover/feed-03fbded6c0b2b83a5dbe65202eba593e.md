@@ -16,15 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Inside an alpha-beta scintillator:'
-  last_post_description: "Just a heads up: this post is incomplete. \nHowever, it
-    may be a while before I am able to finish it.\nI am publishing it early in hopes
-    that you will still find it somewhat interesting. \n\n\nI've"
-  last_post_date: "2026-02-12T00:00:00Z"
-  last_post_link: https://maurycyz.com/misc/ah_teardown/
+  last_post_title: The web in 1000 lines of C
+  last_post_description: |-
+    Modern browsers are hugely complex:
+    Chromium (the open source portion of google chrome) currently has 49 millions lines of code,
+    making it bigger then any other program on my machine.
+
+    ... but how
+  last_post_date: "2026-03-12T00:00:00Z"
+  last_post_link: https://maurycyz.com/projects/tinyweb/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c83d7cdda6be37154a1641bbaab16a8
+  last_post_guid: 80c7644d078eaa5e456f8bf53e65fa8d
   score_criteria:
     cats: 0
     description: 3

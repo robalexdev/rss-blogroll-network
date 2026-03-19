@@ -17,6 +17,9 @@ params:
   - title: Goblin Gumbo - Blogroll
     description: ""
     id: fba95217f7d9c7c26c5a9f717740f80e
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Design Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
     description: ""
     id: 7e87b763d064f92ca61553342402178c

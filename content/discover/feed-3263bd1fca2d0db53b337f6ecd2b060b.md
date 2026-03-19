@@ -19,18 +19,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Claude Code disproportionately benefits those who touch type
+  last_post_title: The long death of programming languages
   last_post_description: |-
-    I use Claude Code. I like Claude Code. According to
-    Steve Yegge’s
-    Eight-Circuit Model of Claudesciousness,
-    I’m a pretty solid Stage 6, edging into 7 on heavy days.
-    I think most engineers, most of
-  last_post_date: "2026-01-24T00:00:00Z"
-  last_post_link: https://til.andrew-quinn.me/posts/claude-code-disproportionately-benefits-those-who-touch-type/
+    I wrote my first Clojure program in anger a few months ago.
+    Only, it’s not accurate to
+    say that I wrote it; AI did most of the writing, and I directed it on what my
+    design goals were and why
+  last_post_date: "2026-02-25T00:00:00Z"
+  last_post_link: https://til.andrew-quinn.me/posts/the-long-death-of-programming-languages/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08c7179039997d4bb53044fda65855b4
+  last_post_guid: 993b14f4b1e577e0c5b0426cf7d6ff8d
   score_criteria:
     cats: 0
     description: 3

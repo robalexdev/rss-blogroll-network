@@ -1,6 +1,6 @@
 ---
 title: Probably Overthinking It
-date: "2026-02-14T16:06:32-08:00"
+date: "2026-03-11T17:09:46-07:00"
 description: A blog by Allen Downey.
 params:
   feedlink: https://allendowney.blogspot.com/feeds/posts/default

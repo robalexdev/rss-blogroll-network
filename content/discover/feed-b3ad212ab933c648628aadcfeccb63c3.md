@@ -1,6 +1,6 @@
 ---
 title: Gurney Journey
-date: "2026-02-15T09:59:08-05:00"
+date: "2026-03-16T16:13:15-04:00"
 description: This daily weblog by Dinotopia creator James Gurney is for illustrators,
   plein-air painters, sketchers, comic artists, animators, art students, and writers.
   You'll find practical studio tips,

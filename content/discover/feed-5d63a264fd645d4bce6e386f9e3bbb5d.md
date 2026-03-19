@@ -175,8 +175,11 @@ params:
   - https://kevquirk.com/feed.php
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
+  - https://mattstein.com/books/rss.xml
+  - https://mattstein.com/thoughts/rss.xml
   - https://mijndertstuij.nl/
   - https://mijndertstuij.nl/posts-feed.xml
+  - https://mijndertstuij.nl/weeknotes-feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://notes.jeddacp.com/feed/
   - https://notes.jeddacp.com/feed/?type=rss

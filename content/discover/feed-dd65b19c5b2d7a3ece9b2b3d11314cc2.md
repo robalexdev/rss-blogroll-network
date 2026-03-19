@@ -16,9 +16,15 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -39,6 +45,7 @@ params:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
   categories: []
   relme: {}
   last_post_title: Oh Right, I Have A Blog

@@ -25,17 +25,16 @@ params:
   - Hudson Valley News
   - New York News
   relme: {}
-  last_post_title: New York Sues To End ‘Horrific’ Crisis In Hudson Valley
-  last_post_description: New York State just dropped a massive lawsuit to end the
-    'inhumane' conditions some Hudson Valley families have endured for years." Continue
-    reading…
-  last_post_date: "2026-02-06T03:00:48Z"
-  last_post_link: https://hudsonvalleycountry.com/ixp/854/p/new-york-ag-sues-to-fix-horrific-hudson-valley-housing-crisis/
+  last_post_title: 'Navy: China’s Massive New Nuclear Threats To New Yorkers'
+  last_post_description: The ongoing Iran conflict has nuclear fears skyrocketing.
+    Now, the Navy is warning about China's new nuclear capabilities. Continue reading…
+  last_post_date: "2026-03-16T20:00:59Z"
+  last_post_link: https://hudsonvalleycountry.com/ixp/854/p/nuclear-threat-china-iran-new-york/
   last_post_categories:
   - Hudson Valley News
   - New York News
   last_post_language: ""
-  last_post_guid: d5ce66098c249b2786025930f5c1be99
+  last_post_guid: 61f4886c19ab1ed436ae0ffb48e54d8f
   score_criteria:
     cats: 0
     description: 3

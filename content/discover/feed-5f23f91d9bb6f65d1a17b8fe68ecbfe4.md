@@ -1,6 +1,6 @@
 ---
 title: diamond geezer
-date: "2026-02-06T01:00:00Z"
+date: "2026-03-16T21:09:04Z"
 description: Life viewed from London E3
 params:
   feedlink: https://diamondgeezer.blogspot.com/atom.xml
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ABC map
+  last_post_title: Shrewsbury
   last_post_description: ""
-  last_post_date: "2026-02-06T01:00:00Z"
-  last_post_link: http://diamondgeezer.blogspot.com/2026/02/abc-map.html
+  last_post_date: "2026-03-16T07:59:13Z"
+  last_post_link: http://diamondgeezer.blogspot.com/2026/03/shrewsbury.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1260c54b1b4db214a3ba4e2beddf6dd4
+  last_post_guid: e3f4ed4073130b62e5dc45680446eef0
   score_criteria:
     cats: 0
     description: 3

@@ -16,6 +16,9 @@ params:
   - title: HN Personal Websites
     description: ""
     id: 2d06252d862b16b20bf508ffad823c50
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
       by feedlandDatabase v0.8.14.

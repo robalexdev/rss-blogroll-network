@@ -10,6 +10,9 @@ params:
     https://erinkissane.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: David Blue - Blogroll
+    description: ""
+    id: 0d79e28512744ac26e97a0d0bc9d6e90
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
@@ -19,6 +22,9 @@ params:
   - title: David Blue - Blogroll
     description: ""
     id: 9c63a330f8aae6a841fde4549cc968dc
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -38,6 +44,7 @@ params:
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
   - https://frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed/
   categories: []
   relme: {}
   last_post_title: ATConf

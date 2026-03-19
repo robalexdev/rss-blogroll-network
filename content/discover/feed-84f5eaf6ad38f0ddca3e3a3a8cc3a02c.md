@@ -24,16 +24,16 @@ params:
   categories:
   - photographs
   relme: {}
-  last_post_title: Police station, I
-  last_post_description: |-
-    Michigan, January 2026.
-    From the video I made a rookie mistake.
-  last_post_date: "2026-02-04T20:21:21Z"
-  last_post_link: https://aows.co/blog/2026/2/4/police-station-i
+  last_post_title: Snake River, VI
+  last_post_description: "Wyoming, February 2026. Image from the video Photographing
+    a snowstorm in Jackson, Wyoming.\n          \n        \n      \n        \n      \n\n
+    \   \n  \n\n\n  \n\n\nNot far from Jackson, the Snake River Overlook"
+  last_post_date: "2026-03-16T19:39:09Z"
+  last_post_link: https://aows.co/blog/2026/3/16/snake-river-vi
   last_post_categories:
   - photographs
   last_post_language: ""
-  last_post_guid: 0296e3a2f4f757f01d902d15fd259471
+  last_post_guid: 2a1cae750e58d198f763e1e3c19bce77
   score_criteria:
     cats: 0
     description: 3

@@ -19,9 +19,15 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2026-02-03T13:37:34+01:00"
+date: "2026-02-26T14:37:31+01:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -22,12 +22,18 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
@@ -39,16 +45,16 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: Unintended values
-  last_post_description: Thereâ€™s a thoughtful piece making the rounds called Phantom
-    Obligation. The argument is that RSS readers took their design inspiration from
-    emails, thus ending up with an unspoken obligation
-  last_post_date: "2026-02-03T13:26:00+01:00"
-  last_post_link: https://derekkedziora.com/notes/2026-02-03-unintended-values
+  last_post_title: Beyond the ken of mortals
+  last_post_description: The reading for my MA programme in Buddhist studies took
+    an interesting turn to Don Cupitt, who was something of an intellectual for the
+    idea of Christian atheism. The concept is less absurd than it
+  last_post_date: "2026-02-12T22:45:00+01:00"
+  last_post_link: https://derekkedziora.com/notes/2026-02-12--the-ken-of-mortals
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 16891acadf314e9563df7b932c3228a0
+  last_post_guid: 7c0845f59ebe164c7808ee26d2b91460
   score_criteria:
     cats: 0
     description: 3

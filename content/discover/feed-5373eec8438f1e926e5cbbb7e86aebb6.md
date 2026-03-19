@@ -1,8 +1,8 @@
 ---
 title: The Overlook
 date: "1970-01-01T00:00:00Z"
-description: Your Voice in the Catskills. Community journalism serving Woodstock,
-  Olive, Shandaken, Saugerties, Hunter, and Hurley
+description: Your Voice in the Catskills. Community journalism serving Hunter, Hurley,
+  Olive, Saugerties, Shandaken, Windham, Woodstock.
 params:
   feedlink: https://theoverlooknews.com/feed
   feedtype: rss
@@ -23,20 +23,20 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - News
-  - Woodstock
+  - Breaking News
+  - Olive
   relme: {}
-  last_post_title: Lizzie Vann Sells Former Tinker Street Cafe to Happylife for $999,000
-  last_post_description: The owners of Happylife Productions bought the former Tinker
-    Street Cafe at 59 Tinker St. from local entrepreneur Lizzie Vann for $999,000,
-    securing a long-term future for their Woodstock-based arts
-  last_post_date: "2026-02-05T21:37:15Z"
-  last_post_link: https://theoverlooknews.com/lizzie-vann-sells-former-tinker-street-cafe-to-happylife-for-999000/
+  last_post_title: Olive Home Explodes, Leaving One Resident Hurt, Minimal Fire
+  last_post_description: A separate building on the property of a one-bedroom home
+    at 16 Mulrooney Road in West Shokan exploded on Monday, injuring a person who
+    was inside at the time, local firefighters said. The person’s
+  last_post_date: "2026-03-16T18:15:40Z"
+  last_post_link: https://theoverlooknews.com/olive-home-explodes-leaving-one-resident-hurt-minimal-fire/
   last_post_categories:
-  - News
-  - Woodstock
+  - Breaking News
+  - Olive
   last_post_language: ""
-  last_post_guid: 4b6e139136262f99700de934fa81102c
+  last_post_guid: cba7c1d169e4c309384a5d4c9335134d
   score_criteria:
     cats: 0
     description: 3

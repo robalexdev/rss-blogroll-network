@@ -24,17 +24,17 @@ params:
   categories:
   - Fact Sheets
   relme: {}
-  last_post_title: 'Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to
-    Bring Lower Drug Prices to American Patients'
-  last_post_description: 'HISTORIC LAUNCH TO LOWER DRUG PRICES FOR AMERICAN PATIENTS:
-    Today, President Donald J. Trump announced the launch of TrumpRx.gov. Through
-    the website, patients will be able to access large discounts'
-  last_post_date: "2026-02-06T00:31:50Z"
-  last_post_link: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
+  last_post_title: 'Fact Sheet: President Donald J. Trump Establishes the Task Force
+    to Eliminate Fraud'
+  last_post_description: 'ESTABLISHING THE TASK FORCE TO ELIMINATE FRAUD: Today, President
+    Donald J. Trump signed an Executive Order creating the Task Force to Eliminate
+    Fraud, which will advise the President and coordinate'
+  last_post_date: "2026-03-16T20:53:17Z"
+  last_post_link: https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/
   last_post_categories:
   - Fact Sheets
   last_post_language: ""
-  last_post_guid: 25deb4fa3f3e1a6320f27fa480d8f6db
+  last_post_guid: dff819c83e7631f2108a9bc633047b71
   score_criteria:
     cats: 0
     description: 0

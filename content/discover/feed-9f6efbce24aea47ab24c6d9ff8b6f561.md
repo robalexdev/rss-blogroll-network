@@ -21,19 +21,22 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Link Roundup 005
-  last_post_description: First of all, allow me to wish you all a very happy new year!
-    2026, blimey. We're only two years away from the setting of a futuristic story
-    I remember writing as a child. But let's turn our
-  last_post_date: "2026-01-11T18:40:00Z"
-  last_post_link: https://seryndelle.neocities.org/thoughts/link-roundup-005
+  last_post_title: All sorted!
+  last_post_description: <p>I was a dope! As my Status Cafe widget on the homepage
+    has mentioned this past week, website updates have been delayed for a few weeks
+    because until yesterday, I'd been unable to open my code
+  last_post_date: "2026-02-25T21:25:00Z"
+  last_post_link: https://seryndelle.neocities.org/thoughts/all-sorted
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5fee1f093faaa881aed8a710d27f4809
+  last_post_guid: 207eb4cfd443fa32b0bc0414149f2138
   score_criteria:
     cats: 0
     description: 3

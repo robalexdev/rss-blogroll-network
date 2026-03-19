@@ -20,21 +20,24 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories:
   - Culture
   relme: {}
-  last_post_title: LIVE Romcom About Parasocial Relationships! | 2026 Casting Announcement
-  last_post_description: |-
-    BLINK is on at the King’s Head Theatre from February! Get exclusive front row tickets: https://kingsheadtheatre.com/whats-on/blink-df19
-    Unlock the front two rows with code FRONTROW
-  last_post_date: "2026-01-21T13:52:24Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-live-romcom-about-parasocial-relationships-2026-casting-announcement/
+  last_post_title: How To Ban Conversion Therapy
+  last_post_description: Where did conversion therapy come from, why is it so difficult
+    to ban, and SURPRISE - why the hell is it so accepted in British politics and
+    media??? Strap in.
+  last_post_date: "2026-02-22T18:35:38Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-how-to-ban-conversion-therapy/
   last_post_categories:
   - Culture
   last_post_language: ""
-  last_post_guid: 20abd7b09949d42dea3e0c0a74b2ecbf
+  last_post_guid: e7339fbc25bc685a22d0e1288cfb1d68
   score_criteria:
     cats: 0
     description: 3

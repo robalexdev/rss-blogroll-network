@@ -1,6 +1,6 @@
 ---
 title: Breaking More Waves
-date: "2026-02-12T10:05:46Z"
+date: "2026-03-15T11:05:12Z"
 description: An independent unfunded music blog from south-central UK.
 params:
   feedlink: https://breakingmorewaves.blogspot.com/feeds/posts/default

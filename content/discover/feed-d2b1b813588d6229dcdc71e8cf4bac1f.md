@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-02-15T00:32:27-05:00"
+date: "2026-03-16T01:54:56-04:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://nerdlypleasures.blogspot.com/atom.xml
@@ -129,16 +129,16 @@ params:
   - Windows Gaming
   - Yamaha
   relme: {}
-  last_post_title: 'DOS Commands Across Home Computers: Apple, IBM & Commodore'
+  last_post_title: The Ultimate Commodore 64? - The Commodore 64 Ultimate Review
   last_post_description: ""
-  last_post_date: "2026-02-07T15:41:51-05:00"
-  last_post_link: http://nerdlypleasures.blogspot.com/2025/06/dos-commands-across-home-computers.html
+  last_post_date: "2026-03-15T15:14:27-04:00"
+  last_post_link: http://nerdlypleasures.blogspot.com/2026/03/the-ultimate-commodore-64-commodore-64.html
   last_post_categories:
-  - Apple II
   - Commodore
-  - DOS
+  - FPGA Console
+  - Product Review
   last_post_language: ""
-  last_post_guid: 374a218b2335430a05ca45ec8b3e9fef
+  last_post_guid: b932f6490efe0cad8299ebdabe973d73
   score_criteria:
     cats: 5
     description: 3

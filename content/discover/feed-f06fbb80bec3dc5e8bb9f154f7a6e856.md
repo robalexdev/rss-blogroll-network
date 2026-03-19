@@ -1,7 +1,7 @@
 ---
 title: small cypress
 date: "1970-01-01T00:00:00Z"
-description: '...'
+description: back to neocities...
 params:
   feedlink: https://smallcypress.bearblog.dev/feed/?type=rss
   feedtype: rss
@@ -18,19 +18,22 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: weeknotes 5 (media, snow, sewing)
-  last_post_description: Baltimore is sitting under the most snow the city has had
-    in a decade, and I was out of work for the past week (other than some "virtual
-    learning" with my kids, and my fifth graders got to see my
-  last_post_date: "2026-02-01T23:42:00Z"
-  last_post_link: https://smallcypress.bearblog.dev/weeknotes-5-media-snow-sewing/
+  last_post_title: 'weeknotes 7: Homewood Museum'
+  last_post_description: |-
+    This post is also linked from the Homewood Museum entry on my Baltimore page in the digital garden. I am trying to weave the blog and the garden together a little better
+    Homewood Museum at Johns
+  last_post_date: "2026-02-22T18:40:00Z"
+  last_post_link: https://smallcypress.bearblog.dev/weeknotes-7-homewood-museum/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72853da84daa3387a9156edd2c3c75a5
+  last_post_guid: 544dd969e861f052ac05c553e5c59854
   score_criteria:
     cats: 0
     description: 3

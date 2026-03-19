@@ -1,6 +1,6 @@
 ---
 title: 1000 Awesome Things
-date: "2026-02-04T23:52:25Z"
+date: "2026-02-19T22:51:17Z"
 description: A time-ticking countdown of 1000 awesome things by Neil Pasricha
 params:
   feedlink: https://1000awesomethings.com/atom/
@@ -17,16 +17,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#745 When someone gives you their last piece of gum'
-  last_post_description: 'When someone offers to crack that final white chicklet out
-    of their crinkly plastic checkerboard, it just sort of dawns on you: you’ve got
-    a new best friend. AWESOME! Make your inbox awesome:'
-  last_post_date: "2026-02-04T23:52:25Z"
-  last_post_link: https://1000awesomethings.com/2026/02/13/745-when-someone-gives-you-their-last-piece-of-gum-4/
+  last_post_title: '#735 Doing the moonwalk in your socks'
+  last_post_description: Between clanging gongs at the beginning of Beat It my fellow
+    six-year-old cousins and I would strike star poses, fling our hats, and blast
+    fist-pumps to the sky. As the bass kicked in and the songs
+  last_post_date: "2026-02-19T22:51:17Z"
+  last_post_link: https://1000awesomethings.com/2026/02/27/735-doing-the-moonwalk-in-your-socks-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: b3c3d0f640f4dda305c138508b3f0967
+  last_post_guid: 9359db82274f6e15e7372ee7d3820744
   score_criteria:
     cats: 0
     description: 3

@@ -147,6 +147,7 @@ params:
   - A Most Violent Year
   - A Mouthful of Air
   - A Place at the Table
+  - A Poet
   - A Private Life
   - A Private War
   - A Quiet Passion
@@ -232,6 +233,7 @@ params:
   - Adam Busch
   - Adam Cook
   - Adam Cooper
+  - Adam DiMarco
   - Adam Driver
   - Adam Horovitz
   - Adam MacDonald
@@ -303,6 +305,7 @@ params:
   - Agnieszka Zulewska
   - Ah-sung Ko
   - Aharon Keshales
+  - Ahmad Qase
   - Ahmir Khalib Thompson
   - Ai Weiwei
   - 'Ai Weiwei: Never Sorry'
@@ -514,6 +517,7 @@ params:
   - Alison Pill
   - Alison Sudol
   - Alissa Maiga
+  - Alisson Correa
   - Alistair Cheng
   - Alistair McGowan
   - Alistair Petrie
@@ -915,6 +919,7 @@ params:
   - Aubrey Joseph
   - Aubrey Plaza
   - Aubry Dullin
+  - Aud Mason-Hyde
   - Audra McDonald
   - Audrey Diwan
   - Audrey Tautou
@@ -981,6 +986,7 @@ params:
   - Ballad of a Small Player
   - Baltasar Kormakur
   - Baltimore Leadership School for Young Women
+  - Baneen Ahmed Nayef
   - Bangladesh
   - Barak Goodman
   - Barak Obama
@@ -1927,6 +1933,7 @@ params:
   - Colin West
   - Collapse
   - Collateral Beauty
+  - Colleen Hoover
   - Colm Bairead
   - Colman Domingo
   - Color Out of Space
@@ -2114,6 +2121,7 @@ params:
   - Daniel Blumberg
   - Daniel Bruhl
   - Daniel Castaneda Rincon
+  - Daniel Chong
   - Daniel Craig
   - Daniel Dae Kim
   - Daniel Day-Lewis
@@ -2506,6 +2514,7 @@ params:
   - Doug Nichols
   - Douglas Booth
   - Douglas Henshall
+  - Douglas Hodge
   - Douglas Limon
   - Douglas M. Kelley
   - Douglas Triola
@@ -3485,6 +3494,7 @@ params:
   - Harry Styles
   - Harvey Keitel
   - Harvey Scrimshaw
+  - Hasan Hadi
   - Hasan Minhaj
   - Hassam Ghancy
   - Hateship Loveship
@@ -3597,6 +3607,7 @@ params:
   - Hope Davis
   - Hope Springs
   - Hope and Glory
+  - Hoppers
   - 'Horizon: An American Saga -- Chapter 1'
   - Horrible Bosses
   - Hossein Amini
@@ -3612,6 +3623,7 @@ params:
   - How to Be Single
   - How to Build a Girl
   - How to Have Sex
+  - How to Make a Killing
   - Howard Hughes
   - Hoyte van Hoytema
   - Hridhu Haroon
@@ -3676,6 +3688,7 @@ params:
   - Ian McShaine
   - Ian McShane
   - Ian Nelson
+  - Ian Tuason
   - Iazua Larios
   - Ibelin
   - Ibrahim Ahmed
@@ -4076,6 +4089,7 @@ params:
   - Jay Ellis
   - Jay Maisel
   - Jay Myself
+  - Jay Patton Ford
   - Jay Pharoah
   - Jay Roach
   - Jay Ryan
@@ -4201,6 +4215,7 @@ params:
   - Jessica Chastain
   - Jessica Clement
   - Jessica Cressy
+  - Jessica Hanwick
   - Jessica Harper
   - Jessica Hausner
   - Jessica Hecht
@@ -4254,6 +4269,7 @@ params:
   - Jimmy Kimmel
   - Jimmy O. Yang
   - Jimmy Strong
+  - Jimpa
   - Jing Tian
   - Jo Ellen Pellman
   - Jo Yang
@@ -4749,6 +4765,7 @@ params:
   - Kate Beckinsale
   - Kate Beecroft
   - Kate Bosworth
+  - Kate Box
   - Kate Dickie
   - Kate Drummond
   - Kate Hudson
@@ -4786,6 +4803,7 @@ params:
   - Kathy Baker
   - Kathy Bates
   - Kathy Cash Tittle
+  - Kathy Najimy
   - Katia Krafft
   - Katia Pascariu
   - Katie Chang
@@ -5132,6 +5150,7 @@ params:
   - Lauren Graham
   - Lauren Greenfield
   - Lauren Hadaway
+  - Lauren Levine
   - Lauren London
   - Lauren Southern
   - Lauren Weedman
@@ -5214,6 +5233,7 @@ params:
   - Lesley Ann Warren
   - Lesley Mannville
   - Lesley Manville
+  - Lesley Sharp
   - Leslie
   - Leslie Bibb
   - Leslie Grace
@@ -5545,6 +5565,7 @@ params:
   - Maggie Grace
   - Maggie Gyllenhaal
   - Maggie Gyllenhall
+  - Maggie Gylllenhaal
   - Maggie Kemper
   - Maggie Mulubwa
   - Maggie Q
@@ -6082,6 +6103,7 @@ params:
   - Michele Austin
   - Michele Civetta
   - Michele De Lucchi
+  - Michele Duquet
   - Michele Morrone
   - Michelle Alexander
   - Michelle Dockery
@@ -6232,6 +6254,7 @@ params:
   - Monica Babaro
   - Monica Barbaro
   - Monica Bellucci
+  - Monika Meyers. Vanessa Caswill
   - Monique Rockman
   - Monkey Man
   - Monolith
@@ -6489,6 +6512,7 @@ params:
   - Nimrat Kaur
   - Nina Arianda
   - Nina Hoss
+  - Nina Kiri
   - Nina Kunzendorf
   - Nina Ye
   - Nine Days
@@ -6689,6 +6713,7 @@ params:
   - Oscar Isaac
   - Oscar Martinez
   - Oscar Wilde
+  - Oscar commentary
   - Oscar de la Fuente
   - Oscar mix-up
   - Oscar nominated documentary shorts
@@ -6716,6 +6741,7 @@ params:
   - 'Oscar-nominated shorts: live action'
   - Oscars
   - Oscars 2021
+  - Oscars 2026
   - Osgood Perkins
   - Oskar Rohler
   - Ottavia Busia-Bourdain
@@ -6746,6 +6772,7 @@ params:
   - Pablo Schreiber
   - Pacific Rim
   - Pacific Rim Uprising
+  - Packy Lee
   - Paddy Breathnach
   - Paddy Considine
   - 'Page One: Inside the New York Times'
@@ -6885,6 +6912,7 @@ params:
   - Payman Maadi
   - Paz Vega
   - Peak Season
+  - 'Peaky Blinders: The Immortal Man'
   - Peanut Butter Falcon
   - Pearl
   - Pedro Almodovar
@@ -7016,11 +7044,13 @@ params:
   - Pieta
   - Pietro Marcello
   - Pig
+  - Pillion
   - Pilou Asback
   - Pilou Asbaek
   - Pina
   - Pina Bausch
   - Ping Pong Summer
+  - Piper Curda
   - Piper Laurie
   - Piranhas
   - 'Pirates of the Caribbean: Dead Men Tell No Tales'
@@ -7138,6 +7168,7 @@ params:
   - Rafe Spall
   - Raffey Cassidy
   - Rafi Gavron
+  - Rahim Al Haj
   - Raiders of the Lost Ark
   - Raimi Malek
   - Raine Allen-Miller
@@ -7195,6 +7226,7 @@ params:
   - Ready Player One
   - Real Steel
   - Reality
+  - Rebeca Andrade
   - Rebecca Da Costa
   - Rebecca Danigelis
   - Rebecca Ferguson
@@ -7242,6 +7274,7 @@ params:
   - Reinaldo Marcus Green
   - Relic
   - Remember
+  - Reminders of Him
   - Reminiscence
   - Remo Girone
   - Remy Edgerly
@@ -7593,6 +7626,7 @@ params:
   - Saim Sadiq
   - Saint Frances
   - Saint Omer
+  - Sajad Mohamad Qasem
   - Sakari Kuosmanen
   - Sakura Ando
   - Saleka Shyamalan
@@ -7713,6 +7747,7 @@ params:
   - Savanah Leaf
   - Saving Face
   - Saving Mr. Banks
+  - Saywan
   - Scarlett
   - Scarlett Johansson
   - School Life
@@ -7947,6 +7982,7 @@ params:
   - Simone
   - Sims Liu
   - Simu Liu
+  - Simón Mesa Soto
   - 'Sin City: A Dame To Kill For'
   - Sinead Cusack
   - Sing
@@ -8036,6 +8072,7 @@ params:
   - Sophie McShera
   - Sophie Nelisse
   - Sophie Okonedo
+  - Sophie Rundle
   - Sophie Tatcher
   - Sophie Turner
   - Sora Wong[[
@@ -8458,6 +8495,7 @@ params:
   - The Boy and the Heron
   - The Boys in the Boat
   - The Breadwinner
+  - The Bride!
   - The Brink
   - The Bronze
   - The Brutalist
@@ -8775,6 +8813,7 @@ params:
   - The Possession
   - The Possessor
   - The Post
+  - The President’s Cake
   - The Prince and the Showgirl
   - The Princess of Montpensier
   - The Prom
@@ -9258,9 +9297,11 @@ params:
   - Tyne Daly
   - Tyree Henry
   - Tyrese Gibson
+  - Tyriq Withers
   - Tzahi Grad
   - Tzi Ma
   - UFC fighting
+  - Ubeimar Rios
   - Udo Kier
   - Ulrich Seidl
   - Ulrich Thomsen
@@ -9271,6 +9312,7 @@ params:
   - Unbroken
   - Uncut Gems
   - Under the Skin
+  - Undertone
   - Underwater
   - Undine
   - Unfinished Song
@@ -9412,6 +9454,7 @@ params:
   - Véronique Ruggia Saura
   - W.E.
   - Wagner Moura
+  - Waheed Thabet  Khreibat
   - Wai Ching Ho
   - Waiting for Lightning
   - Waiting for Superman
@@ -9773,6 +9816,7 @@ params:
   - border crossings
   - box office
   - bullying
+  - childhood in Iraq
   - commentary
   - cop movies
   - cop-buddy comedy
@@ -9838,6 +9882,7 @@ params:
   - outsider art
   - peak oil
   - post-Soviet Russia
+  - post-show review
   - post-war Denmark
   - post-war Hungry
   - predictions
@@ -9891,22 +9936,18 @@ params:
   - year-end awards
   - Łoić Pech
   relme: {}
-  last_post_title: A tasty heist movie set in LA
-  last_post_description: Chris Hemsworth sheds Thor's hammer, and Halle Berry gives
-    one of her best performances in the new heist thriller, Crime 101. In adapting
-    a 2021 novella by Don Winslow, director Bart Layton delivers
-  last_post_date: "2026-02-12T00:30:00Z"
-  last_post_link: http://denersteinunleashed.blogspot.com/2026/02/a-tasty-heist-movie-set-in-la.html
+  last_post_title: Goodbye, Oscar. Let's move on
+  last_post_description: Somebody mentioned that the 98th edition of the Academy Awards
+    happened Sunday night.     I heard the show went long (3 hours and 32 minutes),
+     that one group of recipients got played off the
+  last_post_date: "2026-03-16T17:00:00Z"
+  last_post_link: http://denersteinunleashed.blogspot.com/2026/03/goodbye-oscar-lets-move-on.html
   last_post_categories:
-  - Barry Keoghan
-  - Bart Layton
-  - Chris Hemswroth
-  - Crime 101
-  - Halle Berry
-  - Mark Ruffalo
-  - Monica Barbaro
+  - Oscar commentary
+  - Oscars 2026
+  - post-show review
   last_post_language: ""
-  last_post_guid: bc64ed1d39cc002f87fd7d8374a2c278
+  last_post_guid: b4d347bc699cff797d36050724c976b7
   score_criteria:
     cats: 5
     description: 3

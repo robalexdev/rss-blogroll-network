@@ -23,15 +23,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: China’s AI giants launch “red envelope” marketing blitz for Lunar
-    New Year
-  last_post_description: Alibaba, Tencent, and Baidu pledge millions and race to release
-    new models before the holiday—fearing a new "DeepSeek shock" might steal the spotlight.
-  last_post_date: "2026-02-05T21:05:21Z"
-  last_post_link: https://restofworld.org/2026/chinas-ai-giants-launch-red-envelope-marketing-blitz-for-lunar-new-year/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+  last_post_title: Can Africa succeed where India failed with the $40 smartphone?
+  last_post_description: Mobile operators and global groups are testing ultracheap
+    4G phones across six African countries, hoping to close the continent’s device
+    affordability gap.
+  last_post_date: "2026-03-16T10:00:00Z"
+  last_post_link: https://restofworld.org/2026/gsma-cheap-smartphone-africa/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11f64ed942e63aaccc1dccd891b09e88
+  last_post_guid: 42a6902dafc13303256874e3deece5f7
   score_criteria:
     cats: 0
     description: 3

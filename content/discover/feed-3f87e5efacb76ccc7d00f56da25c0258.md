@@ -15,6 +15,9 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde

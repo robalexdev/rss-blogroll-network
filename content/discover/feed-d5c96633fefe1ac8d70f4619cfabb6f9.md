@@ -1,7 +1,7 @@
 ---
 title: 罗磊的独立博客
 date: "1970-01-01T00:00:00Z"
-description: My Personal Blog
+description: 罗磊的独立博客。全栈开发者、ZUOLUOTV 创作者、摄影师和马拉松跑者，分享编程开发、AI 与出海、数码科技、摄影旅行和跑步生活。
 params:
   feedlink: https://luolei.org/feed/
   feedtype: rss
@@ -28,13 +28,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '我的新电脑: 2025 年 MATX 小主机'
-  last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://luolei.org/pc-2025
+  last_post_title: 开启我的「人生 AI」计划
+  last_post_description: '- [YouTube: 2026 年，我把自己做成了一个 AI](https://www.youtube.com/watch?v=_uj7sQ7CvQw)'
+  last_post_date: "2026-03-10T00:00:00Z"
+  last_post_link: https://luolei.org/life-ai
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4f1bc4f0db48d3919c549142a87af0e
+  last_post_guid: 9b7acd4739a543c05448c624e61a31b9
   score_criteria:
     cats: 0
     description: 3

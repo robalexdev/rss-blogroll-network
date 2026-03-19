@@ -17,6 +17,9 @@ params:
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.8.14.
     id: fb1245ce7aff3fe4a4a5b347014f7cd5
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37
@@ -36,15 +39,15 @@ params:
   - https://johnjohnston.info/blog/feed/
   categories: []
   relme: {}
-  last_post_title: Hoe mijn weken zijn gevuld
-  last_post_description: Wat heb ik de afgelopen twee weken gedaan dat het hier zo
-    stil is? Ik heb echt wel wat tijd gehad om korte posts te maken, maar het is niet
-    gebeurd. Een schrijfpauze? Nee, ik schrijf nog elke ochtend
-  last_post_date: "2026-01-24T09:02:11+01:00"
-  last_post_link: https://blog.frankmeeuwsen.com/2026/01/24/hoe-mijn-weken-zijn-gevuld.html
+  last_post_title: Als AI je welterusten wenst en feliciteert
+  last_post_description: Ik weet het dondersgoed. Het is gewoon een computer in een
+    server-rack ergens in een datacenter die staat op een plek waar het niet hoort
+    te staan omdat het teveel water, energie en lokale
+  last_post_date: "2026-02-25T22:37:14+01:00"
+  last_post_link: https://blog.frankmeeuwsen.com/2026/02/25/als-ai-je-welterusten-wenst.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e75cc51f2f1cbc15d12718bfba8ec712
+  last_post_guid: 7ecfd9ca173bbf5516831281c6456751
   score_criteria:
     cats: 0
     description: 0

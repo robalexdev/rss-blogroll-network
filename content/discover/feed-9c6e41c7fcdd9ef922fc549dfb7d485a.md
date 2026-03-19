@@ -760,6 +760,7 @@ params:
   - 444 E. 13th St.
   - 445 E. 9th St.
   - 448 E. 13th St.
+  - 45 1st Avenue
   - 45 Bond St.
   - 45 E. 1st St.
   - 45 E. 7th St.
@@ -843,6 +844,7 @@ params:
   - 55 Express Tailor Repair
   - 55 Third Avenue
   - 56 E. 1st St.
+  - 56 Great Jones St.
   - 56 Leonard Street
   - 56 St. Mark's Place
   - 57 1st Ave.
@@ -1020,8 +1022,10 @@ params:
   - 92 Seventh Street
   - 92 St. Mark's Place
   - 92-94 Second Avenue
+  - 93 1st Ave.
   - 93 Avenue A
   - 93 E. 7th St.
+  - 93 First Ave.
   - 9300 Realty
   - 94 Avenue C
   - 94 St. Mark's Place
@@ -1237,6 +1241,7 @@ params:
   - American Deli & Grocery
   - American Dream Gourmet Deli
   - American Felt Building
+  - American Love Story
   - American elm
   - Amigo
   - Amona Deli & Grocery
@@ -1301,6 +1306,7 @@ params:
   - Aoi Kitchen
   - Apartment 13
   - Apiary
+  - Apna Pind
   - Apollo Bagels
   - Appas Pizza
   - Apple
@@ -1448,6 +1454,7 @@ params:
   - Avenue D
   - Avenue D and 3rd Street
   - Avenues
+  - Avenues for Justice
   - Avenues for Justice Way
   - Avrenue B
   - Avänt Candle
@@ -2445,6 +2452,7 @@ params:
   - Cooper Square Residence Hall
   - Cooper Station
   - Cooper Station Post Office
+  - Cooper Still
   - Cooper Union
   - Cooper Union Engineering Building
   - Copper Square Hotel
@@ -3355,6 +3363,7 @@ params:
   - February 2023
   - February 2024
   - February 2025
+  - February 2026
   - FedEx
   - Federal Cafe
   - Federal Hall
@@ -3534,6 +3543,7 @@ params:
   - FryGuysNYC
   - Fu Sushi
   - Fucking Awesome
+  - Fujisan Japanese Mart
   - Fuku
   - Full Tank Moto Cafe
   - Fulton Street
@@ -3672,6 +3682,7 @@ params:
   - Good Night Sonny
   - Good Old Lower East Side
   - Good Records NYC
+  - Good Time Country Buffet
   - Good Time Pilates
   - GoodFellas
   - Goodbye New York
@@ -4155,6 +4166,7 @@ params:
   - J. Crew
   - JAM Paper & Envelope
   - JAPAN Fes
+  - JASA
   - JQK Floral Tea
   - JR
   - JUICE Gallery
@@ -4624,6 +4636,7 @@ params:
   - La Fleur Café
   - La Isla
   - La La Laundromat
+  - La La Laundry x Atelier
   - La Linea
   - La Lucha
   - La MaMa Galleria
@@ -4879,6 +4892,7 @@ params:
   - Lucinda’s Honky Tonk + Juke Joint
   - Luckin Coffee
   - Lucky
+  - Lucky Cafe
   - Lucky Cheng's
   - Lucky Chengs
   - Lucky Star
@@ -5206,6 +5220,7 @@ params:
   - Mi Tea
   - MiGarba
   - MiMa
+  - Miami Convenience
   - Michael "Bao" Huynh
   - Michael Alan Alien
   - Michael Bao Huynh
@@ -5330,6 +5345,7 @@ params:
   - Mona's Bar
   - Mondo Kim's
   - Monk
+  - Monk Thrift Shop
   - Monkey Sushi
   - Mono + Mono
   - Monsieur
@@ -5498,6 +5514,7 @@ params:
   - New Double Dragon
   - New Herbal World
   - New Jersey
+  - New Mott Cleaners
   - New Order
   - New Post
   - New Swan Valet Cleaners
@@ -6053,6 +6070,7 @@ params:
   - Plump Dumpling
   - Poco
   - Podunk
+  - Poetica
   - Poetica Coffee
   - Poetry Project
   - Pogopalooza 10
@@ -6275,6 +6293,7 @@ params:
   - Rent Guidelines Board
   - Rent Guidleines Board
   - Rent is too Damn High
+  - Rep. Dan Goldman
   - Restaurant (turnover) Row
   - Restaurant Week
   - Retna
@@ -6731,6 +6750,7 @@ params:
   - Slum Goddess
   - Sly Fox
   - Smacked LLC
+  - Small Village Deli
   - Smart Smokers
   - Smashed
   - Smashed NYC
@@ -6833,6 +6853,7 @@ params:
   - Spring 2025
   - Spring Into Pride
   - Spring Spa
+  - Square Coffee
   - Squatter's Opera
   - Squeaky fences
   - Squeegee men
@@ -6888,6 +6909,7 @@ params:
   - St.Mark's Place
   - Stable Court
   - Stacie Joy
+  - Stackie Doughnuts
   - Stage
   - Stage Restaurant
   - Stairs Bar
@@ -7076,6 +7098,7 @@ params:
   - SweetHaus
   - Sweetgreen
   - Sweetie
+  - Sweetie's
   - Sweetooth
   - Swift Hibernian Lounge
   - Swiss Institute
@@ -7448,6 +7471,7 @@ params:
   - The Shaloms
   - The Shell-Shocked Nut
   - The Shining
+  - The Shrimp
   - The Sidewalk Gardners
   - The Simpsons
   - The Slipper Room
@@ -7838,6 +7862,7 @@ params:
   - Vampire Freaks
   - Van Da
   - Van Leeuwen
+  - Van Leeuwen Ice Cream
   - Vandaag
   - Vaness Hudgens
   - Vanessa's Dumpling House
@@ -8041,6 +8066,7 @@ params:
   - Whitehouse Hotel
   - Whitmans
   - Whitney Houston
+  - Whits
   - Who killed Heath Ledger
   - Whodini
   - Whole Earth Bakery and Kitchen
@@ -8107,6 +8133,7 @@ params:
   - World Series
   - World Trade Center
   - Wowfulls
+  - Wuthering Heights
   - Wylie Dufresne
   - Wyndham Garden Hotel
   - X-Files
@@ -8678,6 +8705,7 @@ params:
   - closures 2022
   - closures 2024
   - closures 2025
+  - closures 2026
   - clothes make the man
   - clothing exchange
   - clouds
@@ -10882,6 +10910,7 @@ params:
   - the bad old days
   - the barricaded chair of 5th Street
   - the beginning of the end
+  - the blizzard of Feb. 22
   - the book man
   - the boot
   - the bull
@@ -11307,16 +11336,17 @@ params:
   - Íxta
   - Ănjelly
   relme: {}
-  last_post_title: Memorial outside St. Mark’s Church in-the-Bowery defaced again
-  last_post_description: Last night, someone defaced the memorial outside St. Mark's
-    Church-in-the-Bowery at 10th Street and Second Avenue — crossing out the message
-    "Our dignity cannot be erased" and writing "Shame on
-  last_post_date: "2026-02-05T20:20:00Z"
-  last_post_link: http://evgrieve.com/2026/02/memorial-outside-st-marks-church-in.html
+  last_post_title: Dana Beal, longtime marijuana activist, serving months-long prison
+    sentence in Idaho
+  last_post_description: Dana Beal, a longtime marijuana activist with strong ties
+    to the East Village, is currently serving a four-month prison sentence in Idaho. Beal,
+    79, is being held at the Idaho State Correctional
+  last_post_date: "2026-03-16T10:00:00Z"
+  last_post_link: http://evgrieve.com/2026/03/dana-beal-longtime-marijuana-activist.html
   last_post_categories:
-  - St. Mark's Church-in-the-Bowery
+  - Dana Beal
   last_post_language: ""
-  last_post_guid: 5a288697ad06f28f57df6d1e72cacf72
+  last_post_guid: 94c98bbcee44de59c0ab7e54c6b9eafe
   score_criteria:
     cats: 5
     description: 3

@@ -15,31 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Friends
+  - Music
+  - Personal
+  - Travel
   relme: {}
-  last_post_title: Cancer Founder Mode
-  last_post_description: Sid Sijbrandi, a friend and a former CEO of Gitlab, has started
-    to share some of the story of his journey with cancer. Manager mode assumes that
-    existing systems will surface the best options. When
-  last_post_date: "2026-01-21T06:14:30Z"
-  last_post_link: https://ma.tt/2026/01/cancer-founder-mode/
+  last_post_title: Song Creation
+  last_post_description: I’m in New Orleans for the first time in 7 years for a beautiful
+    wedding. My Mom’s side of the family emigrated here in the 1860s, and there’s
+    a deep comfort in the art, traditions, and
+  last_post_date: "2026-03-15T05:23:55Z"
+  last_post_link: https://ma.tt/2026/03/song-creation/
   last_post_categories:
-  - Friends
+  - Music
+  - Personal
+  - Travel
   last_post_language: ""
-  last_post_guid: 5cc5c5f7ad57f5e6f34364c32c51428d
+  last_post_guid: a4450f7387204ca517e2528cb6d23f25
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

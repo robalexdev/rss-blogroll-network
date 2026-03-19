@@ -1,8 +1,7 @@
 ---
 title: Kev Quirk
 date: "1970-01-01T00:00:00Z"
-description: Welcome to Kev Quirk's little corner of the internet. Here you can find
-  out lots of information about me, how to contact me and, of course, my blog.
+description: Proudly ruining the web since 2012.
 params:
   feedlink: https://kevquirk.com/feed
   feedtype: rss
@@ -16,9 +15,15 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
@@ -50,20 +55,22 @@ params:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
   - https://lmika.org/feed.xml
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: When Was I Happiest?
-  last_post_description: My wife recently asked me at what point in my life was I
-    the happiest. The answer surprised her.
-  last_post_date: "2026-01-18T13:21:00Z"
-  last_post_link: https://kevquirk.com/blog/when-was-i-happiest/
+  last_post_title: Fat Boy - Round 2
+  last_post_description: |-
+    Back in 2024 I went through the process of losing weight, and was fairly successful. I went from ~111kg (244lbs) to ~103kg (226lbs). My target was 100kg (220lbs), so I got very close.
+    But then, in
+  last_post_date: "2026-03-16T13:47:00Z"
+  last_post_link: https://kevquirk.com/fat-boy-round-2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a419b7c7ab0a6c879ec8f52a5a1613c6
+  last_post_guid: b5531e9b3146b776cc395cff636bd66e
   score_criteria:
     cats: 0
     description: 3

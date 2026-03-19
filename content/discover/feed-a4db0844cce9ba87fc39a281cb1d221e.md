@@ -10,6 +10,12 @@ params:
     https://multiline.co/mment: false
   blogrolls: []
   in_blogrolls:
+  - title: Cory Dransfeldt
+    description: ""
+    id: d0a6b9c5f63a5b525a30929c47fc75e7
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Shellsharks Blogroll
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d

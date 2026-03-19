@@ -17,6 +17,9 @@ params:
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
@@ -28,6 +31,7 @@ params:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
   categories: []
   relme: {}
   last_post_title: Results from the 2025 Go Developer Survey

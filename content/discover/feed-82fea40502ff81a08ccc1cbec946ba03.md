@@ -24,33 +24,42 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Doing It Daily
-  - Photography
+  - 50ways
+  - Presenting
+  - Reclaiming Your Web
+  - Storying
+  - cooliris
+  - storytelling
   relme: {}
-  last_post_title: Thirst for the First (month of daily photos in 2026)
-  last_post_description: After 18 years of doing daily photos where many years they
-    were not done daily, 2025 was a return to form with not only a self high-fiving
-    it for going 365/365 (first time since 2018) but also 12/12
-  last_post_date: "2026-01-31T18:59:06Z"
-  last_post_link: https://cogdogblog.com/2026/01/thirst-first-daily-photos/
+  last_post_title: 50 Ways To Tell A Story (at almost 20) Gets the CoolIris Update
+    Treatment
+  last_post_description: I have been head drafting posts (where the ideas just swirl
+    around, sometimes slipping down the drain) I have been contemplating one about
+    my now long path with digital storytelling. That one will be
+  last_post_date: "2026-03-16T17:16:13Z"
+  last_post_link: https://cogdogblog.com/2026/03/50-ways-cooliris/
   last_post_categories:
-  - Doing It Daily
-  - Photography
+  - 50ways
+  - Presenting
+  - Reclaiming Your Web
+  - Storying
+  - cooliris
+  - storytelling
   last_post_language: ""
-  last_post_guid: 7bd886350f9208136832c2c6f0315b64
+  last_post_guid: 965d5c8dee88240068d8e010d3f3f0f1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

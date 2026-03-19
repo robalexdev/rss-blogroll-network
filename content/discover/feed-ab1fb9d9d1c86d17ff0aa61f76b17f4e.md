@@ -13,6 +13,9 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37

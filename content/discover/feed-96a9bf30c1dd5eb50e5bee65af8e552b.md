@@ -23,16 +23,16 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Why Does a Smartwatch that was Dead for 10 Years Still Have the
-    Best Software Ecosystem?
-  last_post_description: I love smartwatches. In fact I’ve loved wrist worn tech since
-    I was a little kid. I’ve owned more than a dozen Apple Watches, several Android
-    Wear based watches, a variety of fitness-focused
-  last_post_date: "2026-01-10T15:41:22-05:00"
-  last_post_link: https://parkerortolani.blog/2026/01/10/why-does-a-smartwatch-that.html
+  last_post_title: Apple Kicks Off its Golden Anniversary with an Unforgettable Concert
+    in Grand Central Station
+  last_post_description: On Thursday afternoon, I wandered over to Grand Central to
+    pick up lunch. Immediately after walking into the terminal I noticed that the
+    Apple Store that overlooks the main hall was closed off and
+  last_post_date: "2026-03-14T16:15:27-04:00"
+  last_post_link: https://parkerortolani.blog/2026/03/14/apple-kicks-off-its-golden.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 06264bb963fae09cbf561f04fe0ac41a
+  last_post_guid: e7893e9de9e8e6d608fe5b0d8f370a94
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Mijndert Stuij
-date: "2026-01-11T09:10:00Z"
+date: "2026-03-18T09:02:00Z"
 description: Lead platform engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -22,12 +22,18 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
@@ -35,13 +41,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Just run
+  last_post_title: Introducing CalAction Beta
   last_post_description: ""
-  last_post_date: "2026-01-11T09:10:00Z"
-  last_post_link: https://mijndertstuij.nl/posts/just-run/
+  last_post_date: "2026-03-18T09:02:00Z"
+  last_post_link: https://mijndertstuij.nl/posts/introducing-calaction-beta/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 131b46b6da920ea6e3a51313137aa8dd
+  last_post_guid: 9eae33300fbc131ae654eabced0c8e86
   score_criteria:
     cats: 0
     description: 3

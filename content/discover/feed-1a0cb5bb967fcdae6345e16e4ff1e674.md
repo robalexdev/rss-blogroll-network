@@ -15,6 +15,12 @@ params:
   - title: Alexandra Wolfe - Blogroll
     description: ""
     id: 9e14f09b7cc29b9fc93c45948dc2990a
+  - title: Alexandra Wolfe - Blogroll
+    description: ""
+    id: 123f5f19a0f94b64245ea922e415d2d5
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

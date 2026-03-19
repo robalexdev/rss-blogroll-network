@@ -1,6 +1,6 @@
 ---
 title: Teacher Tom
-date: "2026-02-15T11:35:39-08:00"
+date: "2026-03-16T08:13:19-07:00"
 description: Teaching and learning from preschoolers
 params:
   feedlink: https://teachertomsblog.blogspot.com/atom.xml
@@ -64,20 +64,18 @@ params:
   - teaching
   - traditions/rituals
   relme: {}
-  last_post_title: Play Has No Plan or Purpose
+  last_post_title: 'This is Personal: Your Help Needed!'
   last_post_description: ""
-  last_post_date: "2026-02-14T10:32:44-08:00"
-  last_post_link: http://teachertomsblog.blogspot.com/2026/02/play-has-no-plan-or-purpose.html
+  last_post_date: "2026-03-16T07:17:30-07:00"
+  last_post_link: http://teachertomsblog.blogspot.com/2026/03/this-is-personal-your-help-needed.html
   last_post_categories:
+  - Woodland Park
   - community
-  - dramatic play
-  - education transformation
-  - emotions
-  - love
-  - science
+  - cooperative
+  - parenting
   - teaching
   last_post_language: ""
-  last_post_guid: 3b1c54e366e1a2ff0d61584e76d6e1d2
+  last_post_guid: e00bfd671684db9b41bc6c6f95947b9b
   score_criteria:
     cats: 5
     description: 3

@@ -1,12 +1,14 @@
 ---
 title: MetaFilter
-date: "2026-02-06T05:03:49Z"
+date: "2026-03-19T06:24:10Z"
 description: The past 24 hours of MetaFilter
 params:
   feedlink: https://rss.metafilter.com/metafilter.rss
   feedtype: rss
   feedid: f9baeb23d0ac2c57f30403ccc44b8ca7
-  websites: {}
+  websites:
+    https://www.metafilter.com/: true
+    https://www.metafilter.com/favorites/all: false
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll
@@ -21,89 +23,36 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories:
-  - MarianneHansen
-  - ValentinesDay
-  - alphabet
-  - alphabets
-  - boardgame
-  - boardgames
-  - book
-  - books
-  - card
-  - cardgame
-  - cardgames
-  - cards
-  - code
-  - codes
-  - fingerspelling
-  - game
-  - games
-  - hansen
-  - history
-  - letter
-  - letters
-  - love
-  - loveletter
-  - loveletters
-  - parlorgame
-  - parlorgames
-  - parlourgame
-  - parlourgames
-  - secret
-  - secretcode
-  - secretcodes
-  - secrets
-  - spelling
-  - valentine
-  - valentines
+  - award
+  - compsci
+  - computing
+  - quantum
+  - science
+  - turing
+  - turingaward
   relme: {}
-  last_post_title: '"Valuable information for the use of those who need friendly guidance"'
-  last_post_description: 'Marianne Hansen (Bryn Mawr Special Collections Blog, 2/14/2022),
-    "Love Letters": "you think you should write a love letter? ... you may want books
-    that have stood the test of time." Celebrino''s'
-  last_post_date: "2026-02-06T05:03:49Z"
-  last_post_link: https://www.metafilter.com/212096/Valuable-information-for-the-use-of-those-who-need-friendly-guidance
+  last_post_title: 2025 ACM Turing Award awarded for quantum information science
+  last_post_description: 2025 ACM Turing Award has been awarded to Charles H. Bennett
+    and Gilles Brassard for "their essential role in establishing the foundations
+    of quantum information science and transforming secure
+  last_post_date: "2026-03-19T06:24:10Z"
+  last_post_link: https://www.metafilter.com/212592/2025-ACM-Turing-Award-awarded-for-quantum-information-science
   last_post_categories:
-  - MarianneHansen
-  - ValentinesDay
-  - alphabet
-  - alphabets
-  - boardgame
-  - boardgames
-  - book
-  - books
-  - card
-  - cardgame
-  - cardgames
-  - cards
-  - code
-  - codes
-  - fingerspelling
-  - game
-  - games
-  - hansen
-  - history
-  - letter
-  - letters
-  - love
-  - loveletter
-  - loveletters
-  - parlorgame
-  - parlorgames
-  - parlourgame
-  - parlourgames
-  - secret
-  - secretcode
-  - secretcodes
-  - secrets
-  - spelling
-  - valentine
-  - valentines
+  - award
+  - compsci
+  - computing
+  - quantum
+  - science
+  - turing
+  - turingaward
   last_post_language: ""
-  last_post_guid: bb738a3496d4644d4304e6199baca0db
+  last_post_guid: 2ae39498b199d63254385df8460982cb
   score_criteria:
     cats: 0
     description: 3
@@ -115,8 +64,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 18
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

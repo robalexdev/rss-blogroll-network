@@ -19,12 +19,18 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: webring.opml
     description: ""
     id: b107e3282b633b1e704c60ff8805bdcc
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
@@ -35,14 +41,15 @@ params:
   relme:
     https://github.com/ribozone: true
     https://ribo.zone/: true
-  last_post_title: 'new gallery page: bug grid'
-  last_post_description: the photos from my abandoned insect photography account on
-    instagram have a new home on my site! check out the bug grid to see some bugs.
-  last_post_date: "2025-11-25T22:24:00-05:00"
-  last_post_link: https://ribo.zone/bugs/grid/
+  last_post_title: one billion questions for webmasters
+  last_post_description: "on version control\n\t\t\tlots of people swear by git, but
+    i've tried it and it's too much fuss for me. i work alone, so i don't need to
+    worry about merging conflicts, and it feels excessive to keep a"
+  last_post_date: "2026-02-16T17:21:00-05:00"
+  last_post_link: https://ribo.zone/blog/100q
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11fc39882892215e4ed26e15a9baa8bf
+  last_post_guid: 87521ee894cc9644a185675cb58937e8
   score_criteria:
     cats: 1
     description: 3

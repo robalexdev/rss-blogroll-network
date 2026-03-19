@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Model T Comes to Silicon Valley
-  last_post_description: In 1908, 253 American automobile manufacturers competed for
-    the market1. By 1929, just 44 remained. The assembly line didn’t just change how
-    cars were made. It changed who got to make them
-  last_post_date: "2026-01-26T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/the-model-t-comes-to-silicon-valley/
+  last_post_title: You Are Responsible for Your Agent
+  last_post_description: |-
+    “What happens when a new employee brings their agent to work?”
+    An executive asked this recently. Imagine a few years from now : a student graduates, having trained their own agent through
+  last_post_date: "2026-03-15T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/you-are-responsible-your-agent/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 94ef7809113e8ed33349fd64c88a4324
+  last_post_guid: e2ecf73ac0f509e3cfcd2145e9e7361f
   score_criteria:
     cats: 0
     description: 3

@@ -10,9 +10,15 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -21,6 +27,7 @@ params:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
   categories:
   - "2026"
   - data protection

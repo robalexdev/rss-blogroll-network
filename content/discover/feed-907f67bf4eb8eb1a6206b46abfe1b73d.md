@@ -12,6 +12,9 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Heavyweight on Minnesota raids
-  last_post_description: One of the best podcasts on earth is Heavyweight, where a
-    guy named Jonathan helps people solve incredibly personal, difficult lifelong
-    problems. He does it with a staff of researchers, a tenacious
-  last_post_date: "2026-02-06T18:58:19Z"
-  last_post_link: https://a.wholelottanothing.org/heavyweight-on-minnesota-raids/
+  last_post_title: Random bits and bobs
+  last_post_description: Over the last week I've jotted down a bunch of notes in a
+    "Things to Blog" text file so I'm just gonna dump them here in no particular order.Bleeding
+    edge, AI-fueled fraudOne of my favorite mountain
+  last_post_date: "2026-03-03T06:27:18Z"
+  last_post_link: https://a.wholelottanothing.org/random-bits-and-bobs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e7da841a834795050d7d74810aaa7b3
+  last_post_guid: 5b952f83d2b21bd01ad760ef53e0407b
   score_criteria:
     cats: 0
     description: 3

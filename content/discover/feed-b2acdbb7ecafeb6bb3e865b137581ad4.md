@@ -20,6 +20,7 @@ params:
   recommender:
   - https://blog.frankmeeuwsen.com/feed.xml
   - https://frankmeeuwsen.com/feed.xml
+  - https://frankmeeuwsen.com/feed/
   categories:
   - 3D Printing
   - Rheinturm

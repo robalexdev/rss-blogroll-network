@@ -20,13 +20,21 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
+  - title: Dan Q's Blogroll
+    description: ""
+    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories:
-  - 80smusic
-  - Live Music
+  - 60smusic
+  - 70smusic
+  - AfroLatino
+  - Compilation
+  - Guinea
   - Old African Music
-  - Tanzania
   relme:
     https://amf.didiermary.fr/: true
     https://amf.didiermary.fr/donate-support-amf/: true
@@ -35,19 +43,21 @@ params:
     https://masto.ai/@cybeardjm: true
     https://pixelfed.social/cybeardjm: true
     https://www.didiermary.fr/: true
-  last_post_title: Songs For The Poor Man – Remmy Ongala
-  last_post_description: The Doctor Remmy Ongala, was a Tanzanian guitarist and singer.
-    “Songs for the Poor Man” is the first studio album and second album overall, released
-    in 1989. His audience saw his lyrics as
-  last_post_date: "2026-02-03T14:40:47Z"
-  last_post_link: https://amf.didiermary.fr/songs-poor-man-remmy-ongala/
+  last_post_title: Music For A Revolution Vol 1 & 2
+  last_post_description: 'Music For A Revolution: Guinea’s Syliphone Recording Label,
+    a compilation in 2 volumes with Balla et ses Balladins, Bembeya Jazz National,
+    Keletigui et ses Tambourinis & many more…– Vol 1 –'
+  last_post_date: "2026-03-12T15:51:04Z"
+  last_post_link: https://amf.didiermary.fr/music-revolution-syliphone-vol-1-2/
   last_post_categories:
-  - 80smusic
-  - Live Music
+  - 60smusic
+  - 70smusic
+  - AfroLatino
+  - Compilation
+  - Guinea
   - Old African Music
-  - Tanzania
   last_post_language: ""
-  last_post_guid: 7e4fbcbf984655854f578f7799dd72bb
+  last_post_guid: 2ba137826e3e78e846263b18409e4f2b
   score_criteria:
     cats: 0
     description: 3

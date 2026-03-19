@@ -11,6 +11,9 @@ params:
     https://piccalil.li/: true
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: kiko.io's /Blogroll
     description: ""
     id: 5a699fe07181a17251b91d178b9b8f40

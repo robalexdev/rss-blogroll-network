@@ -22,22 +22,23 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - action
-  - politics
-  - society
+  - morality
+  - pm
+  - theory
   relme: {}
-  last_post_title: What Now? Slow down the Worst & Build the New
-  last_post_description: 'If you want inspiration for this moment in time I have two
-    recommendations: watch Babylon Berlin and read the Foundation Trilogy. They are
-    roadmaps for living a moral life in a time of profound'
-  last_post_date: "2026-01-25T01:45:36Z"
-  last_post_link: https://continuations.com/what-now-slow-down-the-worst-and-build-the-new
+  last_post_title: 'Philosophy Mondays: From Is to Ought - Toward a Universal Moral
+    Core (Part III)'
+  last_post_description: In the two prior posts in Philosophy Mondays I have argued
+    for a universal moral core centered on knowledge. The first post shows how absorbing
+    states curtail the growth of knowledge. The second post
+  last_post_date: "2026-02-24T01:05:58Z"
+  last_post_link: https://continuations.com/philosophy-mondays-from-is-to-ought-toward-a-universal-moral-core-part-iii
   last_post_categories:
-  - action
-  - politics
-  - society
+  - morality
+  - pm
+  - theory
   last_post_language: ""
-  last_post_guid: 2b93bceb4f1627a229ae54c8c3aecbcc
+  last_post_guid: 8093f783de5278ddadc7c67cbb437dbb
   score_criteria:
     cats: 0
     description: 3

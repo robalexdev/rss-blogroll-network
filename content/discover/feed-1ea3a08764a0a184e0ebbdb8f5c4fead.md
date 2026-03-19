@@ -11,6 +11,9 @@ params:
     https://winther.sysctl.dk/: true
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

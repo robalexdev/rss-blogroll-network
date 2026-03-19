@@ -16,25 +16,25 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - coding
-  - copilot
-  - nodejs
-  - vim
+  - fado
+  - lisbon
+  - portugal
+  - traveling
   relme: {}
-  last_post_title: Copilot in vim when using multiple node versions
-  last_post_description: This is just a quick note to myself and to fellow people
-    who may encounter this issue. If you use a node version manager such as nvm/asdf/mise,
-    you may have a situation where you need a given version
-  last_post_date: "2026-01-26T10:34:16Z"
-  last_post_link: https://riffraff.info/2026/01/copilot-in-vim-when-using-multiple-node-versions/
+  last_post_title: 'On Lisbon: of hills and water and sadness'
+  last_post_description: I meant to write this for a long time, but I kept putting
+    it off, cause I’m lazy. It’s almost a year now, and I think it’s about time. 6
+    kids in an apartment When I was an exchange student, I
+  last_post_date: "2026-03-11T16:59:20Z"
+  last_post_link: https://riffraff.info/2026/03/on-lisbon/
   last_post_categories:
   - Uncategorized
-  - coding
-  - copilot
-  - nodejs
-  - vim
+  - fado
+  - lisbon
+  - portugal
+  - traveling
   last_post_language: ""
-  last_post_guid: fd4dffb314f94a6807c30606aeb382d1
+  last_post_guid: 79d420a68d48cb0a245bdf4252286a9c
   score_criteria:
     cats: 0
     description: 3

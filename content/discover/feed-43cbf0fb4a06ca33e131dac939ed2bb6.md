@@ -24,19 +24,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: George Saunders on Life and the Afterlife
-  last_post_description: We’re going off script out here in the afterlife, in the
-    imagination of the triple-threat novelist George Saunders. He’s eminent as a writer
-    of stories and novels, as a critical reader, and as a
-  last_post_date: "2026-02-05T23:52:52Z"
-  last_post_link: https://radioopensource.org/george-saunders-on-life-and-the-afterlife/
+  last_post_title: Sleepwalking into World War III
+  last_post_description: I must say, among all the wise people commenting on this
+    world’s situation, I honor Jeffrey Sachs especially for being relentless on the
+    dangers out there, going back to the Biden years. Jeffrey
+  last_post_date: "2026-03-11T00:19:17Z"
+  last_post_link: https://radioopensource.org/sleepwalking-into-world-war-iii/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 27c06de97dcc928da3b5241b5ce4ecae
+  last_post_guid: 2f2f973ab6a3c0019e16e62ab2de898a
   score_criteria:
     cats: 1
     description: 3

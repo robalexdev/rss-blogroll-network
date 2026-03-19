@@ -75,7 +75,7 @@ params:
     description: tap into the free of mind
     id: 542cefdb4a86d5e2da40545e47496b74
   - title: Jan-Lukas Else
-    description: Thoughts of an IT expert
+    description: Tech, life and everything else
     id: 5625d1465bb184f305476707bd1c1364
   - title: Elly Loel
     description: Web Designer. Accessibility Specialist. Neurodivergent. Disabled.

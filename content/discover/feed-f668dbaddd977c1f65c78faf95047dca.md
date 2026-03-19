@@ -23,31 +23,34 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Arts
+  - News
+  - Politics
   relme: {}
-  last_post_title: A new art exhibit centers women's experiences of the Holocaust
-  last_post_description: At Brandeis University, the exhibit "Who Will Draw Our History?"
-    features 10 female artists and their work depicting life during and after the
-    Holocaust. "I'm really struck by their call to duty and
-  last_post_date: "2026-02-05T19:04:38-05:00"
-  last_post_link: https://www.wbur.org/upnext/2026/02/05/womens-narratives-holocaust-exhibit-brandeis-university
+  last_post_title: US judge in Massachusetts pauses end of deportation protections
+    for some Somali immigrants
+  last_post_description: A federal judge in Massachusetts is temporarily blocking
+    the Trump administration from ending Temporary Protected Status for Somalis in
+    the U.S. The judge issued an administrative stay on Friday.
+  last_post_date: "2026-03-14T13:56:57Z"
+  last_post_link: https://www.wbur.org/news/2026/03/14/us-judge-in-massachusetts-pauses-end-of-deportation-protections-for-some-somali-immigrants
   last_post_categories:
-  - Arts
+  - News
+  - Politics
   last_post_language: ""
-  last_post_guid: 9b307f1a4bd9e9eebd168000400a73a6
+  last_post_guid: 2c636957ba6b69380927e182e27e1e4d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

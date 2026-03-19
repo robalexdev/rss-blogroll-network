@@ -23,31 +23,39 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - 30DaysOfWatercoloring
+  - WN-11
   - Weekly Notes
+  - Workout Journal
+  - Workouts
   relme: {}
-  last_post_title: Weekly Notes 05/2026
-  last_post_description: I attended the Reclaim Constitution Quiz at the Sabha on
-    Sunday. I thoroughly enjoyed the quiz, conversation, and the meal post the quiz.
-    You can see the highlights of the quiz here. I also made a
-  last_post_date: "2026-01-30T17:29:09Z"
-  last_post_link: https://thejeshgn.com/2026/01/30/weekly-notes-05-2026/
+  last_post_title: Weekly Notes 11/2026
+  last_post_description: It’s been a hectic week. Most of the things I had planned
+    have been done, but there are always things left to do! Visas are here. All of
+    us got 3-year multiple-entry travel visas. Maybe we can make
+  last_post_date: "2026-03-13T17:50:06Z"
+  last_post_link: https://thejeshgn.com/2026/03/13/weekly-notes-11-2026/
   last_post_categories:
+  - 30DaysOfWatercoloring
+  - WN-11
   - Weekly Notes
+  - Workout Journal
+  - Workouts
   last_post_language: ""
-  last_post_guid: 47e53939592dbaeecbdc9a2c9696fe1f
+  last_post_guid: 89d1410ec6f63759b5fcb41e983ee4f3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

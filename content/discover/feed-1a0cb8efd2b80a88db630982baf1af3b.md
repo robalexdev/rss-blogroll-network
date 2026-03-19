@@ -24,6 +24,9 @@ params:
   blogrolls:
   - https://reillyspitzfaden.com/blogroll.opml
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04

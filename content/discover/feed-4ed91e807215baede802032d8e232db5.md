@@ -14,6 +14,9 @@ params:
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.
     id: 7def71058aaab40ff83909b86eff9005
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   recommended: []
   recommender:
   - https://alexsci.com/blog/rss.xml

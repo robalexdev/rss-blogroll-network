@@ -10,6 +10,9 @@ params:
     https://danq.me/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -26,29 +29,35 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - complaints
-  - flood
-  - flood 2026
-  - floods
-  - houses
-  - pizza
+  - art
+  - austalia
+  - exhibitions
+  - games
+  - museum
+  - museums
+  - telephone
+  - telephones
+  - video games
   relme: {}
-  last_post_title: '[Article] A Hundred Inconveniences'
-  last_post_description: It's F-Day plus 31, and our flood-disrupted lives have become
-    defined by the hundred or so daily inconveniences that are imposed by our accidentally-nomadic
-    lifestyle. Here's hoping we can sort-out
-  last_post_date: "2026-03-16T14:42:22Z"
-  last_post_link: https://danq.me/2026/03/16/a-hundred-inconveniences/
+  last_post_title: '[Repost] Hint Line 93'
+  last_post_description: Hint Line 93 is an amazing interactive exhibit about the
+    experience of working on a computer games hint line. It's a deeply-researched,
+    immersive, and clever piece of art... and even though the real
+  last_post_date: "2026-03-18T19:47:58Z"
+  last_post_link: https://danq.me/2026/03/18/hint-line-93/
   last_post_categories:
   - Personal
-  - complaints
-  - flood
-  - flood 2026
-  - floods
-  - houses
-  - pizza
+  - art
+  - austalia
+  - exhibitions
+  - games
+  - museum
+  - museums
+  - telephone
+  - telephones
+  - video games
   last_post_language: ""
-  last_post_guid: d20886c403114a5e6b598cbbfbf9d448
+  last_post_guid: 33d3f7de7cb847c7e7bcbfe58ac51caf
   score_criteria:
     cats: 0
     description: 3

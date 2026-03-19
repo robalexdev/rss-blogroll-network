@@ -1,6 +1,6 @@
 ---
 title: Sean Voisen
-date: "2026-01-12T00:00:00Z"
+date: "2026-02-12T00:00:00Z"
 description: Writing about design, philosophy, and technology.
 params:
   feedlink: https://sean.voisen.org/atom.xml
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Cosmotechnics and AI: Reading Hamid Ismailov''s We Computers'
+  last_post_title: Programming in the swamp
   last_post_description: ""
-  last_post_date: "2026-01-12T00:00:00Z"
-  last_post_link: https://seanvoisen.com/writing/cosmotechnics-and-ai/
+  last_post_date: "2026-02-12T00:00:00Z"
+  last_post_link: https://seanvoisen.com/writing/programming-in-the-swamp/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53d93d5049ddc59b34c94db4fd29d2bf
+  last_post_guid: de98cd1953025536914834aabc238d09
   score_criteria:
     cats: 0
     description: 3

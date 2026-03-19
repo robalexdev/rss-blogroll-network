@@ -18,6 +18,7 @@ params:
   - https://janlukas.blog/.min.rss
   - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
   categories:
   - release
   relme: {}

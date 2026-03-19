@@ -10,6 +10,9 @@ params:
     https://binarydigit.dev: false
   blogrolls: []
   in_blogrolls:
+  - title: Cory Dransfeldt
+    description: ""
+    id: d0a6b9c5f63a5b525a30929c47fc75e7
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295

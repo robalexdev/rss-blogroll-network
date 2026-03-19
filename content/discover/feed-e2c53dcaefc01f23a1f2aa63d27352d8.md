@@ -13,6 +13,9 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   recommended: []
   recommender: []
   categories: []

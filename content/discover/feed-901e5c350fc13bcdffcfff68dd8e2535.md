@@ -25,16 +25,16 @@ params:
   - as-presaged
   - computing
   relme: {}
-  last_post_title: As Presaged in January 1996
-  last_post_description: Whereby I read the January 1996 issue of Byte and talk about
+  last_post_title: As Presaged in March 1993
+  last_post_description: Whereby I read the March 1993 issue of Byte and talk about
     it...
-  last_post_date: "2026-01-09T13:17:49Z"
-  last_post_link: https://blog.fogus.me/as-presaged/jan1996.html
+  last_post_date: "2026-03-16T13:27:49Z"
+  last_post_link: https://blog.fogus.me/as-presaged/mar1993.html
   last_post_categories:
   - as-presaged
   - computing
   last_post_language: ""
-  last_post_guid: 19a2dec83021b54caff2357f6120a732
+  last_post_guid: 5982eabfcabe5b379c8bbbcbe0caa15c
   score_criteria:
     cats: 0
     description: 3

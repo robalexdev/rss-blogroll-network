@@ -13,6 +13,12 @@ params:
   - title: RSS Feeds for Clayton's Blogroll
     description: ""
     id: aaf2b657c92a09dcd64da99b46d7a193
+  - title: Cory Dransfeldt
+    description: ""
+    id: d0a6b9c5f63a5b525a30929c47fc75e7
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

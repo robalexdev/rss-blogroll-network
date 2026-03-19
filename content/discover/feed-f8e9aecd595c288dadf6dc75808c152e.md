@@ -12,6 +12,9 @@ params:
     https://wiwi.blog/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: 中文 RSS 聚合 by MoreRSS
     description: ""
     id: c4e30b2e549839519f2711d98fed209e

@@ -1,6 +1,6 @@
 ---
 title: The Aesthetics of Joy
-date: "2026-02-04T20:26:54Z"
+date: "2026-03-05T22:13:16Z"
 description: The Aesthetics of Joy by Ingrid Fetell Lee
 params:
   feedlink: https://aestheticsofjoy.com/atom/
@@ -40,7 +40,7 @@ params:
   last_post_description: Struggling to focus isn’t always a willpower problem — sometimes
     it’s a design problem. Here’s what research reveals about how your environment
     can quietly boost productivity, clarity, and
-  last_post_date: "2026-02-04T20:26:54Z"
+  last_post_date: "2026-03-05T22:13:16Z"
   last_post_link: https://aestheticsofjoy.com/create-a-productive-workspace-according-to-psychology/
   last_post_categories:
   - Abundance

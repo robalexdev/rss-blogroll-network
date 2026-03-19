@@ -27,20 +27,20 @@ params:
   - Plugin Releases & Updates
   - Plugins
   relme: {}
-  last_post_title: Nelio Content 4.2 — Faster onboarding and smarter links (with your
-    favorite shorteners)
+  last_post_title: Nelio Content 4.3 — Webhooks, Facebook Page videos, richer placeholders,
+    and more extensible analytics
   last_post_description: |-
-    Nelio Content 4.2 introduces a three-step guided setup for faster onboarding and flexible link shortening with popular services, plus a tidy deactivation cleanup.
-    The post Nelio Content 4.2 —
-  last_post_date: "2026-01-23T16:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/nelio-content-4-2-guided-setup-link-shorteners/
+    Nelio Content 4.3 introduces webhooks, Facebook Page video posting, plugin-aware placeholders, and new analytics hooks for developers
+    The post Nelio Content 4.3 — Webhooks, Facebook Page videos,
+  last_post_date: "2026-03-05T16:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/nelio-content-4-3-webhooks-facebook-page-videos-richer-placeholders-and-more-extensible-analytics/
   last_post_categories:
   - Inside Nelio
   - Nelio Content
   - Plugin Releases & Updates
   - Plugins
   last_post_language: ""
-  last_post_guid: 1d741713d5c03c76960eb7d806d053f4
+  last_post_guid: a3eaa315a731ff94a2e2393bd1d45c48
   score_criteria:
     cats: 0
     description: 3

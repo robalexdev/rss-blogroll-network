@@ -1,7 +1,10 @@
 ---
 title: Cool As Heck
 date: "1970-01-01T00:00:00Z"
-description: Latest posts from Cool As Heck
+description: |-
+  Husband, father, music lover, and tech enthusiast.
+  Follow me on Mastodon!
+  Subscribe via RSS!
 params:
   feedlink: https://cool-as-heck.blog/feed/?type=rss
   feedtype: rss
@@ -19,30 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: New music in 2026
-  last_post_description: |-
-    A lot of my favorite bands released new albums in 2025:
-
-
-    Sleep Token
-    Spiritbox
-    Eidola
-    Thrice
-    Dance Gavin Dance
-    Architects
-    Dayseeker
-    Thornhill
-    Gore
-    Novelists
-    Ankor
-
-
-    But there are a few artists that
-  last_post_date: "2026-01-04T08:59:24-05:00"
-  last_post_link: https://cool-as-heck.blog/new-music-in-2026
+  last_post_title: Weekend Happenings
+  last_post_description: Friday night, my wife had book club here. Only a few of the
+    ladies were able to make it. They brought their kids, most of whom are the same
+    age as our youngest, 13, so they had a good time taking
+  last_post_date: "2026-02-23T08:19:31-05:00"
+  last_post_link: https://cool-as-heck.blog/weekend-happenings
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dc84d4a00622b69d178b4db224b9c335
+  last_post_guid: e15181a3faba49e89a35df1a860c4e73
   score_criteria:
     cats: 0
     description: 3

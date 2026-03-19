@@ -22,44 +22,32 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Sustainability
   - Uncategorized
-  - coops
-  - fediverse
-  - grant
-  - interledger
-  - webmonetization
   relme: {}
-  last_post_title: Grant for the Web to Make the Fediverse More Sustainable, Democratic,
-    and Fun
-  last_post_description: Thanks to the Interledger Foundation for their generous Grant
-    for the Web to the Social Web Foundation. With the help of ILF, we are launching
-    a new program area focused on economic issues on the
-  last_post_date: "2026-02-04T14:50:52Z"
-  last_post_link: https://socialwebfoundation.org/2026/02/04/grant-for-the-web-to-make-the-fediverse-more-sustainable-democratic-and-fun/
+  last_post_title: 'Automating Justice, Designing Power: Reflections from the Commission
+    on the Status of Women'
+  last_post_description: 'By Mallory Knodel This week I spoke at the United Nations
+    70th Commission on the Status of Women in a session titled “Automating Justice:
+    Can Artificial Intelligence Increase Women’s and Girls’'
+  last_post_date: "2026-03-14T14:47:15Z"
+  last_post_link: https://socialwebfoundation.org/2026/03/14/automating-justice-designing-power-reflections-from-the-commission-on-the-status-of-women/
   last_post_categories:
-  - Sustainability
   - Uncategorized
-  - coops
-  - fediverse
-  - grant
-  - interledger
-  - webmonetization
   last_post_language: ""
-  last_post_guid: fd3c4d45f353a19394f8bf856d314da3
+  last_post_guid: 0b8c65cfcc857da1fa896ca302f4249f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

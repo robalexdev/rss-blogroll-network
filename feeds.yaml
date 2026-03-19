@@ -10,12 +10,18 @@ feed_urls:
   - https://blogs.hn/blogs.hn.opml
   - https://hnpwd.github.io/hnpwd.opml
   - https://kagi.com/smallweb/opml
+  - https://indieblog.page/opml
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml
   # https://github.com/Martinviv/rss-sources/tree/main/recommended
   # https://github.com/cudeso/OPML-Security-Feeds
   # https://raw.githubusercontent.com/Identosphere/identity-blogcatcher/refs/heads/master/planetid.ini
+  
+  #
+  # Wander support!
+  # https://susam.net/wander/wander.js
+  #
 
   #
   # Planets
@@ -241,7 +247,6 @@ feed_urls:
 
   # Others
   # https://github.com/Martinviv/rss-sources (low stars)
-  # https://indieblog.page/all (no OPML)
 
 
 non_opml_blogroll_urls:
