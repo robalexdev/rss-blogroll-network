@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5

@@ -13,12 +13,18 @@ params:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
   - title: Ryan M. - Blogroll
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee
+  - title: Blogroll
+    description: ""
+    id: 27c857e6f00c0b69f7475ffbbd36c933
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

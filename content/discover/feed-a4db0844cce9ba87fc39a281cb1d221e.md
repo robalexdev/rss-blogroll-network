@@ -10,6 +10,9 @@ params:
     https://multiline.co/mment: false
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Cory Dransfeldt
     description: ""
     id: d0a6b9c5f63a5b525a30929c47fc75e7

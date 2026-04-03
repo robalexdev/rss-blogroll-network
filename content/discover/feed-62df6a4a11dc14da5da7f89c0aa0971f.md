@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to block Googlebot impersonators
-  last_post_description: Apache snippets to block fake Googlebots
-  last_post_date: "2025-11-08T00:00:00Z"
-  last_post_link: https://op111.net/posts/2025/11/block-googlebot-impersonators/
+  last_post_title: I released nobot, a detection system for low-effort bots
+  last_post_description: ""
+  last_post_date: "2026-02-15T00:00:00Z"
+  last_post_link: https://op111.net/posts/2026/02/nobot-detection-system-for-low-effort-bots/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4517c443292abcabfcd5056ba80eb52
+  last_post_guid: 7d8fc537f2af2adb265acbb373d0d541
   score_criteria:
     cats: 0
     description: 3

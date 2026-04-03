@@ -13,6 +13,9 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -25,6 +28,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Phil Bowell - Blogroll
+    description: ""
+    id: 9342e2c9fad7bf68687fab207d1c4b11
   recommended: []
   recommender:
   - https://hacdias.com/articles/feed.xml

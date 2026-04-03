@@ -1,0 +1,1044 @@
+---
+title: PANTHEON
+date: "2026-03-14T12:37:13-07:00"
+description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
+  NOW, WITHOUT A DELAY
+params:
+  feedlink: https://musicpresspantheon.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: dead6b1e4718daa10a7ffc7804507cda
+  websites:
+    https://musicpresspantheon.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  recommended: []
+  recommender: []
+  categories:
+  - '"Shame'
+  - "1960"
+  - "1969"
+  - "1970"
+  - "1971"
+  - "1973"
+  - "1975"
+  - "1976"
+  - "1977"
+  - "1978"
+  - "1979"
+  - "1980"
+  - 1980S
+  - "1981"
+  - "1982"
+  - "1983"
+  - "1984"
+  - "1985"
+  - "1986"
+  - "1987"
+  - "1988"
+  - 1988 as the Best Year for Rock Ever
+  - "1989"
+  - 1990. Godflesh
+  - "1991"
+  - "1992"
+  - "1993"
+  - "1994"
+  - "1995"
+  - "1999"
+  - "2001"
+  - "2021"
+  - 23 Skidoo
+  - 40 YEARS AT IPC MAN AND BOY
+  - 4TH WORLD FUNK
+  - 808 STATE
+  - A CERTAIN RATIO
+  - A GUY CALLED GERALD
+  - A LOVER'S DISCOURSE
+  - A.R. Kane
+  - ABBA
+  - ABC
+  - AC/DC
+  - ADAM ANT
+  - ADAM PARFREY
+  - ADAMSKI
+  - ADORNO
+  - AFTER-ROCK
+  - AGAINST HEALTH AND EFFICIENCY
+  - AGE OF CHANCE
+  - AIR GUITAR
+  - AL GOLDSTEIN
+  - ALIASES
+  - ALL TIME FUNNIEST ROCKWRITE
+  - ALTER-EGOS
+  - AMBIENT
+  - AMERICA
+  - AMOK PRESS
+  - AMPHETAMINE REPTILE
+  - ANDI SEX-GANG
+  - ANDREW KOPKIND
+  - ANDREW RIDGELY
+  - ANDY GILL
+  - ANDY SHEPPARD
+  - ANGUS MACKINNON
+  - ANTI-CULTURE
+  - ANTI-PANTHEON
+  - ANTI-THEATRICALITY
+  - APHASIA
+  - APPOLLONIAN POP
+  - ARCADE FIRE
+  - ARDKORE
+  - ARNOLD SHAW
+  - ARSEQUAKE
+  - ART OF NOISE
+  - ART SCHOOL ROCK
+  - ART-ROCK
+  - ARTHUR BAKER
+  - AU PAIRS
+  - AUGUST DARNELL
+  - AWOPBOPALOOBOP ALOPBAMBOOM
+  - AXIS ME NO QUESTIONS
+  - AZTEC CAMERA
+  - Acid Beats One
+  - Acid House
+  - Acid House compilation
+  - Afrika Bambaataa album
+  - Afterpunk
+  - Altered Images
+  - Anthrax
+  - Apocalypse Culture
+  - Aswad
+  - Author! Author!
+  - BAD MUSIC ERA
+  - BARNEY HOSKYN S
+  - BARNEY HOSKYNS
+  - BARRACUDAS
+  - BARRY MANILOW
+  - BAT OUT OF HELL
+  - BAUHAUS
+  - BEASTIE BOYS
+  - BEAT HAPPENING
+  - BELGIAN NEW BEAT
+  - BELGIAN TECHNO
+  - BELITTLING GOTHS
+  - BEN STUD
+  - BERLIN
+  - BIG BEAT
+  - BIOGRAPHY
+  - BIRTHDAY PARTY
+  - BJORK
+  - BLACK MUSIC
+  - BLACK MUSIC IN THE ROCK PRESS
+  - BLACK SABBATH
+  - BLANCMANGE
+  - BLISSROCK
+  - BLOW MONKEYS
+  - BOB DYLAN
+  - BOB MACK
+  - BOMB THE BASS
+  - BON JOVI
+  - BORING OLDS FARTS VERSUS BORING NEW FARTS
+  - BOURGEOIS CUL-DE-SAC
+  - BOW WOW WOW
+  - BRECHT
+  - BRIAN CASE
+  - BRUCE GILBERT
+  - BUSHELLISM
+  - BUTSKELLISM
+  - Band of Susans
+  - Bill Laswell
+  - Biota
+  - Bootsy Collins
+  - Brian Eno
+  - Britpop
+  - Bros
+  - Bryan Ferry
+  - Butthole Surfers
+  - C81
+  - CABARET VOLTAIRE
+  - CAN
+  - CAPTAIN BEEFHEART
+  - CARMEL
+  - CAROL CLERK
+  - CARTOONS
+  - CASTLE DONINGTON
+  - CHAKA KHAN
+  - CHANNEL 4
+  - CHARLES SHAAR MURRAY
+  - CHEMICAL BROTHERS
+  - CHRIS BOHN
+  - CHRIS CUTLER
+  - CHRIS D
+  - CHRIS DESJARDINS
+  - CHRIS PETIT
+  - CHRIS ROBERTS
+  - CHRISTIAN MARCLAY
+  - CHRISTMAS ISSUE
+  - CHUCK BERRY
+  - CLASSIX NOUVEAUX
+  - CLOSER
+  - CLUB LICKS
+  - CLUB TRAX
+  - COCTEAU TWINS
+  - COLIN NEWMAN
+  - COMMUNIST EAST
+  - CONCEPTUALISM
+  - CONFRONTATIONAL INTERVIEW
+  - CONSERVATISM
+  - CONTORTIONS
+  - CONTRARIAN TAKES
+  - COUNTERCULTURE
+  - COVER VERSIONS
+  - COWBOY JUNKIES
+  - COWS
+  - CRANES
+  - CRASS
+  - CREEM
+  - CRIME AND THE CITY SOLUTION
+  - CRITICAL BLUNDERS
+  - CRITICAL MISFIRES
+  - CRITICAL TRANSVALUATION
+  - CRITICS  WRONGFOOTED IN REAL TIME
+  - CRITICS GETTING IT RIGHT
+  - CRITICS GETTING IT WRONG
+  - CRITICS RIGHTFOOTED IN REALTIME
+  - CROTCHQUAKE
+  - CULTURAL POLITICS
+  - CZECHOSLOVAKIA
+  - Charlies Keigher
+  - Cheryl Pepsii Riley
+  - Clare Grogan
+  - Consuming Passion column
+  - Creation Records compilation
+  - D-GENERATION
+  - DAMNED WITH FAINT ABUSE
+  - DANCE MUSIC
+  - DANCEHALL
+  - DANDYISM
+  - DARE
+  - DARK AGE OF ROCKISM
+  - DARKCORE
+  - DARKSIDE HARDCORE
+  - DAVE HILL
+  - DAVE McCULLOUGH
+  - DAVID BOWIE
+  - DAVID STUBBS
+  - DAVID'S FIRST MELODY MAKER REVIEW
+  - DAVITT SIGERSON
+  - DEACON BLUE
+  - DEATH OF ROCK
+  - DEATH ROCK
+  - DECENCY
+  - DECIDEDLY DECIDED VIEWPOINTS
+  - DEFUNKT
+  - DEPARTMENT S
+  - DEPECHE MODE
+  - DETAILS
+  - DEVO
+  - DEXYS MIDNIGHT RUNNERS
+  - DIONYSIAN ROCK
+  - DISAPPEARED LEGENDS OF THE BRITISH ROCK PRESS
+  - DISC
+  - DISCO
+  - DISCO INFERNO
+  - DOBBIN THE TALKING MULE
+  - DREAM WARRIORS
+  - DREAMPOP
+  - DROWNED IN SOUND
+  - DUB
+  - DUBLIN
+  - Das Damen
+  - David Sylvian
+  - Daydream Nation
+  - Detroit Techno
+  - Diamanda Galas
+  - Dingwalls
+  - Dinosaur Jr
+  - Durutti Column
+  - E
+  - EASTERN BLOC ROCK
+  - EBM
+  - ECHO AND THE BUNNYMEN
+  - ECM
+  - ECSTASY
+  - ED WARD
+  - EDWIN POUNCEY
+  - EINAR
+  - ELECTRO
+  - ELECTRONIC MUSIC
+  - ELECTRONIC ROCK
+  - ELTON JOHN
+  - ELVIS COSTELLO
+  - ELVIS COSTELLO AND THE CONFEDERATES
+  - ENTERTAINMENT!
+  - ERIC FULLER
+  - ERIC TAMM
+  - ERIC'S
+  - ESKIMO
+  - EUGENE CHADBOURNE
+  - EUPHORIA
+  - Echo City
+  - Electronic Body Music
+  - Erasure
+  - Everything But The Girl
+  - FANDEMONIUM
+  - FANTAZIA
+  - FANZINES
+  - FATBOY SLIM
+  - FAUST
+  - FIRST-RATE SECOND-RATE THIRD-RATE
+  - FLOWERS OF ROMANCE
+  - FLUORO
+  - FORCED EXPOSURE
+  - FORGOTTEN WEEKLY DANCE MAGAZINE THAT DIDN'T LAST LONG
+  - FRAGRANCE
+  - FRANK OWEN
+  - FRANKIE GOES TO HOLLYWOOD
+  - FRED FRITH
+  - FRED VERMOREL
+  - FUN HOUSE
+  - FUNK
+  - FUSION
+  - GANG OF FOUR
+  - GARAGE
+  - GARAGE BANDS
+  - GARRY BUSHELL
+  - GARY NUMAN
+  - GAY LIBERATION
+  - GEDDY LEE
+  - GENERATION X
+  - GEOFF DYER
+  - GEORGE MICHAEL
+  - GEORGES BATAILLE
+  - GERMANY
+  - GET UP WITH IT
+  - GLAM
+  - GLAM ROCK
+  - GLASTONBURY FESTIVAL
+  - GLITTERBEAT
+  - GO WEST
+  - GOD
+  - GOD BULLIES
+  - GODFLESH
+  - GONG
+  - GOTH
+  - GRACE JONES
+  - GRAND ROYAL
+  - GREEN GARTSIDE
+  - GREG TATE
+  - GREIL MARCUS
+  - GRUNGE
+  - GUARDIAN
+  - Give 'Em Enough Rope
+  - God live
+  - Gore
+  - Greater Than One
+  - HAIRCUT 100
+  - HALFWAY TO PARADISE
+  - HAPPY MONDAYS
+  - HARD HOUSE
+  - HARDCORE
+  - HE HAS WAYS OF MAKING YOU TALK
+  - HEAD OVER HEELS
+  - HEAVY METAL
+  - HEAVY METAL HOLOCAUST
+  - HEAVY ROCK
+  - HELEN FITZGERALD
+  - HELLO
+  - HIPPIES
+  - HIT PARADER
+  - HOLGER CZUKAY
+  - HOUSE
+  - HUMAN LEAGUE
+  - Harry Enfield
+  - Hothouse Flowers
+  - House of Love
+  - Hugo Largo
+  - Humility
+  - Hüsker Dü
+  - I PUNMAN
+  - IAN CURTIS
+  - IAN PENMAN
+  - ICA ROCK WEEK
+  - IDRIS WALTERS
+  - IGGY POP
+  - IMMACULATE FOOLS
+  - IN A SILENT WAY
+  - INSIDES
+  - INSTRUMENTS OF DISCOURSE
+  - INTERNATIONAL TIMES
+  - INTERNICINE ROCK CRITIC DISPUTES
+  - IVOR CUTLER
+  - Ian Penman - singles - April 3 1982 NME
+  - Iggy Pop & the Stooges
+  - Indie
+  - Industrial
+  - JACK BARRON
+  - JACK GOOD
+  - JACOBEAN THEATRE
+  - JAMAICA
+  - JAMES
+  - JAMES BLOOD ULMER
+  - JAMES CHANCE
+  - JAMES TAYLOR QUARTET
+  - JAMES WHITE
+  - JAMES WHITE AND THE BLACKS
+  - JAMES WHITE AND THE CONTORTIONS
+  - JAMMING!
+  - JAMMS
+  - JAN GARBAREK
+  - JANE DARK
+  - JANE SOLANAS
+  - JANE SUCK
+  - JAPAN
+  - JARVIS COCKER
+  - JILTED JOHN
+  - JIM STEINMAN
+  - JIMI HENDRIX
+  - JOE CARDUCCI
+  - JOE STRUMMER
+  - JOHN FOXX
+  - JOHN GILL
+  - JOHN MARTYN
+  - JOHN MCGEOCH
+  - JOHN MENDELSOHN
+  - JOHN ZORN
+  - JON SAVAGE
+  - JON WILDE
+  - JONATHAN RICHMAN
+  - JONESY
+  - JONH INGHAM
+  - JONI MITCHELL
+  - JOSEF K
+  - JOSHUA CLOVER
+  - JOURNALIST BYLINES
+  - JOY DIVISION
+  - JOY PRESS
+  - JUDY VERMOREL
+  - JULIAN COPE
+  - JULIE BURCHILL
+  - JULIE KRISTEVA
+  - JUNGLE
+  - JUNGLE TECHNO
+  - JUSTIFIED ANCIENTS OF MU MU
+  - Jackmaster Volume 2
+  - Ji
+  - Jimmy Somerville
+  - John Lydon
+  - John's Children
+  - Johnny Rotten
+  - Jonh Wilde
+  - Joyce Sims
+  - Juju
+  - Junior Giscombe
+  - KAJAGOOGOO
+  - KATE BUSH
+  - KEVIN PEARCE
+  - KID CREOLE AND THE COCONUTS
+  - KILLDOZER
+  - KING CRIMSON
+  - KING OF THE SLUMS
+  - KIRK BRANDON
+  - KLEENEX
+  - KODWO ESHUN
+  - KRAUTROCK
+  - KURT COBAIN
+  - Kevin Ayers
+  - LADDISM
+  - LAMBERT AND BUTLER
+  - LEFTISM
+  - LESLIE WEST
+  - LESTER BANGS
+  - LETTERS PAGE
+  - LETTERS TO MUSIC PAPERS
+  - LIGHT ENTERTAINMENT
+  - LILLIAN ROXON
+  - LINER NOTES
+  - LIVE SKULL
+  - LIVERPOOL
+  - LIVING COLOUR
+  - LIVING IN A BOX
+  - LOL COXHILL
+  - LONDON CALLING
+  - LONDON LOATHING
+  - LOOMPANICS UNLIMITED
+  - LOS ANGELES
+  - LOST SOUL
+  - LOU REED
+  - LOVERS ROCK
+  - LYNDEN BARBER
+  - Laibach
+  - Lee Ranaldo
+  - Leni Riefenstahl
+  - Let It Be
+  - Lettrisme
+  - Lightning Strike
+  - Loop
+  - Love From Lead City
+  - MAGAZINE
+  - MAGIC BAND
+  - MAGMA
+  - MAIN
+  - MALCOLM MCLAREN
+  - MALCOLM OWEN
+  - MALE SEX OBJECT
+  - MANCHESTER
+  - MANCHESTER INDIE
+  - MARC BOLAN
+  - MARK CORDERY
+  - MARK FISHER
+  - MARQUEE MOON
+  - MARXISM
+  - MAX BELL
+  - MAXWELL TAPE AD
+  - MEAT BEAT MANIFESTO
+  - MEATLOAF
+  - MEDIOCRITY
+  - MELODY MAKER
+  - MELODY MAKER 1970
+  - MELODY MAKER 1979
+  - MELODY MAKER 1982
+  - MELODY MAKER 1986
+  - MELODY MAKER 1987
+  - MELODY MAKER 1990
+  - MELODY MAKER 1991
+  - MELODY MAKER 1992
+  - MELODY MAKER 1995
+  - MELODY MAKER 1996
+  - MELODY MAKER 1999
+  - MELODY MAKER PARTY 1987
+  - META-MUSIC
+  - METAL BOX
+  - METTLE
+  - MICK FARREN
+  - MIKE RUBIN
+  - MILES DAVIS
+  - MILES DAVIS LIVE
+  - MILITANT ENTERTAINMENT
+  - MOD
+  - MOEBIUS & PLANK
+  - MONITOR
+  - MONSTERS OF ROCK
+  - MORGAN FISHER
+  - MORRISSEY
+  - MURDEROUS ELEGANCE
+  - MUSIC JOURNALISM
+  - MUSIC PAPERS
+  - MUSIC TV
+  - MUSICIANS AS CRITICS
+  - MUSICIANS DO THE SINGLES
+  - MUTE
+  - Melody Maker 1988
+  - Melody Maker 1989
+  - Melody Maker April 2 1988
+  - Metallic KO
+  - Metallica
+  - Microdisney
+  - Midge Ure
+  - Miloš Hroch
+  - Music For Films
+  - NATIONAL SCREW
+  - NEO-PSYCHEDELIA
+  - NEON JUDGEMENT
+  - NEUROSIS
+  - NEUROTIC BOY OUTSIDER
+  - NEVER MIND THE BOLLOCKS
+  - NEW AGE
+  - NEW FAST AUTOMATIC DAFFODILS
+  - NEW MUSICAL EXPRESS
+  - NEW MUSICK
+  - NEW MUSIK
+  - NEW ORDER
+  - NEW POP
+  - NEW RACE
+  - NEW WAVE
+  - NEW YORK
+  - NEW YORK DOLLS
+  - NICK CAVE
+  - NICK HEYWARD
+  - NICK KENT
+  - NIETZCHE
+  - NIK COHN
+  - NIK HAEFFNER
+  - NME
+  - NME 1975
+  - NME 1976
+  - NME 1977
+  - NME 1980
+  - NME 1981
+  - NME 1982
+  - NME 1983
+  - NME 1984
+  - NME. 1983
+  - NOMS DE PLUME
+  - NORTHERN SOUL
+  - NUGGETS
+  - NUGLAM
+  - Neil Kulkarni
+  - Neu!
+  - Neville Brody
+  - New Statesman
+  - Nitro Deluxe
+  - Nitzer Ebb
+  - OFFICE ON HIGH HOLBORN
+  - OHIO PLAYERS
+  - OI
+  - OI!
+  - OLD FOGEYISM
+  - ON THE CORNER
+  - ORANGE JUICE
+  - ORPHIC EGG
+  - OUTSKIRTS OF INFINITY
+  - Oceanic Rock
+  - Olympia
+  - PADDY MACALOON
+  - PASTICHE
+  - PAUL JOHNSON
+  - PAUL MATHUR
+  - PAUL MORLEY
+  - PAUL NELSON
+  - PAUL RAMBALI
+  - PAUL WELLER
+  - PAUL YOUNG
+  - PEBBLES
+  - PERE UBU
+  - PERFUME
+  - PET SILVERTON
+  - PETER HAMMILL
+  - PETER SHAPIRO
+  - PETER YORK
+  - PHANTOM TOLLBOOTH
+  - PHOSOPHORESCENT RATS
+  - PIECES THAT MOLDED MY MIND
+  - PILLS
+  - PINK MILITARY
+  - PJ PROBY
+  - PLAY HARD
+  - POP FROM THE BEGINNING
+  - POP GROUPS REVIEWING THE SINGLES
+  - POP JOURNALISM
+  - POP MUSICIANS AS ROCK CRITICS
+  - PORNOGRAPHY
+  - POSITIVE PUNK
+  - POST-STRUCTURALISM
+  - POSTCARD
+  - POSTPUNK
+  - PREDICTIONS
+  - PREFAB SPROUT
+  - PRINCE
+  - PROTO-HAUNTOLOGY
+  - PROTO-PUNK
+  - PROVOCATION
+  - PSEUDONYMS
+  - PSYCHEDELIA
+  - PSYCHEDELIC TRANCE
+  - PUBLIC IMAGE LTD
+  - PULP
+  - PUNK NEVER HAPPENED
+  - PUNK ROCK
+  - PUNKADELIA
+  - PUNKS
+  - Paul Oldfield  - a;GRUMH interview
+  - Paul Oldfield - The Mighty Lemon Drops - interview - Melody Maker - April 16
+  - Peter Murphy
+  - Public Enemy
+  - Punk
+  - Pussy Galore
+  - R.E.M.
+  - RADIO ON
+  - RAINCOATS
+  - RANTS AND INCENDIARY TRACTS
+  - RAVE
+  - RAVERS
+  - RAY LOWRY
+  - REACTIVATE
+  - REAL PUNK
+  - RECOMMENDED RECORDS
+  - RECORD MIRROR
+  - REFERENTIALITY
+  - REGGAE
+  - RETRO
+  - RETROFUTURISM
+  - REVISIONISM
+  - RICHARD COOK
+  - RICHARD MELTZER
+  - RICHARD WILLIAMS
+  - RIDE
+  - RIP
+  - RIP RIG AND PANIC
+  - ROBERT SMITH
+  - ROCK AND ROLL
+  - ROCK AS SHOWBIZ
+  - ROCK CRITICISM
+  - ROCK DISCOURSE
+  - ROCK FOULIES
+  - ROCK LITERATURE IN THE BEGINNING
+  - ROCK REBORN
+  - ROCK RIFFS
+  - ROCKISM
+  - ROIR
+  - ROLAND BARTHES
+  - ROLLERCOASTER TOUR
+  - ROLLING STONE
+  - ROLLING STONE 1969
+  - ROLLING STONE 1976
+  - ROLLING STONES
+  - ROMO
+  - ROOTS
+  - ROSE ROUSE
+  - ROUGH TRADE
+  - ROWLAND S HOWARD
+  - ROXY MUSIC
+  - ROY HOLLINGWORTH
+  - ROYAL FESTIVAL HALL
+  - ROYAL HOUSE
+  - RUSH
+  - Rattle and Hum
+  - Revenge"
+  - Robert Lloyd and the New Four Seasons
+  - Run DMC
+  - SAINTS
+  - SANDY ROBERTSON
+  - SAVOY RECORDS
+  - SCENTS
+  - SCOTLAND
+  - SCOTT WALKER
+  - SCREW MAGAZINE
+  - SCRITTI POLITTI
+  - SEBADOH
+  - SELF NON SELF
+  - SEVEN DWARVES
+  - SEVENTEEN SECONDS
+  - SEX GANG CHILDREN
+  - SEX MANIACS DIARY
+  - SEX PISTOLS
+  - SHARPE AND NUMAN
+  - SHITEWRITE
+  - SHOEGAZE
+  - SICK NOISE VERSUS NEW POP
+  - SIGNELS
+  - SILVERFISH
+  - SIMON FRITH
+  - SIMON PRICE
+  - SIMON REYNOLDS
+  - SIMPLE MINDS
+  - SINGELS
+  - SINGING
+  - SINGLES COLUMN
+  - SINGLES PAGE
+  - SIOUSXIE AND THE BANSHEES
+  - SIOUXSIE SIOUX
+  - SIXTIES POP
+  - SIXTIES PUNK
+  - SKINT RECORDS
+  - SLADE
+  - SLAG OFFS
+  - SLAUGHTERING THE SACRED COW
+  - SLINT
+  - SMASH HITS
+  - SNAKEFINGER
+  - SOFT CELL
+  - SOULCIALISM
+  - SOUND
+  - SOUNDS
+  - SOUNDS 1975
+  - SOUNDS 1977
+  - SOUNDS 1978
+  - SOUNDS 1979
+  - SOUNDS 1980
+  - SOUNDS 1982
+  - SOUNDS 1983
+  - SOUP MUSEUMS
+  - SOUTH BANK SHOW
+  - SPACEMEN 3
+  - SPEAR OF DESTINY
+  - SPIN
+  - SQUATTERS
+  - STARLUST
+  - STATE OF THE NATION ADDRESSES
+  - STEPHEN DAVIS
+  - STEPHEN HOLDEN
+  - STEPHEN STILLS
+  - STEVE ALBINI
+  - STEVE HARLEY
+  - STEVE SUTHERLAND
+  - STEVEN WELLS
+  - STRANDED GENERATION
+  - STRONG OPINIONS
+  - STUART COSGROVE
+  - STUD BROS
+  - STUD BROTHERS
+  - STUDENTPHOBIA
+  - STYLE COUNCIL
+  - SUEDE
+  - SUICIDE
+  - SULK
+  - SUN RA
+  - SUPERPOP
+  - SUZI QUATRO
+  - SWELL MAPS
+  - SYNTHESIZER POP
+  - Saxon
+  - September 1988
+  - Siouxsie and the Banshees
+  - Situationism
+  - Skin
+  - Skinny Boys
+  - Sky Sunlight Saxon
+  - Sleeper
+  - Sonic Youth
+  - Stewart Home
+  - Stump
+  - TALES FROM THE DRUG ATTIC
+  - TALES FROM THE DRUG ATTICE
+  - TALKING HEADS
+  - TAYLOR PARKES
+  - TEARDROP EXPLODES
+  - TECHNO
+  - TELEVISION
+  - TELEX
+  - TENKO
+  - TH FALL
+  - THE ASSOCIATES
+  - THE BEATLES
+  - THE BIBLE
+  - THE BLUE ORCHIDS
+  - THE BRITISH MUSIC PRESS
+  - THE CHILLS
+  - THE CONTORTIONS
+  - THE CREATURES
+  - THE CURE
+  - THE DOORS
+  - THE DREAMING
+  - THE DURUTTI COLUMN
+  - THE FALL
+  - THE FIRST ROCK BOOKS
+  - THE FOUR TOPS
+  - THE GAP BAND
+  - THE GRAIN OF THE VOICE
+  - THE HISSING OF SUMMER LAWNS
+  - THE HOUSEMARTINS
+  - THE JAM
+  - THE LEGENDARY STUD BROTHERS
+  - THE MEKONS
+  - THE MUSICAL HEAD
+  - THE ONLY ONES
+  - THE PIECES THAT CHANGED MY LIFE
+  - THE POGUES
+  - THE POP GROUP
+  - THE POSTPUNK DIALECTIC
+  - THE RAINCOATS
+  - THE REHEARSAL OF PUNK
+  - THE RESIDENTS
+  - THE ROCK DISCOURSE
+  - THE ROCK REVOLUTION
+  - THE ROCK YEARBOOK
+  - THE RUTS
+  - THE SCREAMING TREES
+  - THE SINGLE GREATEST PIECE OF POP WRITING EVER
+  - THE SKIDS
+  - THE SLITS
+  - THE SMITHS
+  - THE SPECIALS
+  - THE STATE OF FUNK
+  - THE STOOGES
+  - THE STUD BROTHERS
+  - THE STUDIO AS INSTRUMENT
+  - THE SUGARCUBES
+  - THE TEXT
+  - THE TEXTS OF FESTIVAL
+  - THE TITANIC SAILS AT DAWN
+  - THE UNDERTONES
+  - THE VERY EARLY ROCK BOOKS
+  - THE WEATHERMEN
+  - THE WEDDING PRESENT
+  - THE WHO
+  - THE WIDER THE FLARES THE BADDER THE FUNK
+  - THE WIRE
+  - THE WOOD CHILDREN
+  - THE YOUNG GODS
+  - THEATRE OF HATE
+  - THINKPIECES
+  - THIS CHARMING MAN
+  - THIS PIECE CHANGED MY LIFE
+  - THOMAS LEER
+  - THROBBING GRISTLE
+  - TIBET
+  - TIM BUCKLEY
+  - TIN MACHINE
+  - TITANIC METAPHORS
+  - TODAY THERE ARE NO GENTLEMEN
+  - TOM JOHNSTON
+  - TONY MARCUS
+  - TONY PARSONS
+  - TRACIE
+  - TRACY PEW
+  - TRANSVALUTION
+  - TRAVELERS
+  - TRIBUNE
+  - TRICKY
+  - TYREE
+  - The Assault on Culture
+  - The Birthday Party
+  - The Bolshoi
+  - The Clash
+  - The Colorblind James Experience
+  - The Emergent Underground
+  - The Face
+  - The Face 100th Issue critique
+  - The John McCarthy Benefit
+  - The Noseflutes
+  - The Rainmakers
+  - The Scars
+  - The Soup Dragons
+  - The Walking Seeds
+  - Three Wize Men
+  - Tuxedomoon
+  - U2
+  - UK rap
+  - ULTRAVOX
+  - UNATTENDED LEGENDS
+  - UNDER NEATH WHAT
+  - UNDERWHELMED REVIEWS
+  - UNPUNKING
+  - VALUE THEORY
+  - VAN DER GRAAF GENERATOR
+  - VERY ILL PEOPLE
+  - VICE SQUAD
+  - VILLAGE VOICE
+  - VINY REILLY
+  - VIOLENT SILENCE
+  - VIVA HATE
+  - VIVIEN GOLDMAN
+  - VLADIMIR NABOKOV
+  - VOICES
+  - Vini Reilly
+  - WAH! HEAT
+  - WAR ON POP
+  - WATCH OUT KIDS
+  - WE WILL FALL
+  - WEATHER REPORT
+  - WESTERN CANON
+  - WHAM!
+  - WHEN AN OLD CRICKETER LEAVES THE CREASE
+  - WHITE ZOMBIE
+  - WIRE
+  - WRECKLESS ERIC
+  - WRITING ABOUT MUSIC
+  - WRONGFOOTED IN REAL TIME
+  - Walking Seeds
+  - Will To Power
+  - World Domination Enterprises
+  - X
+  - XMAS
+  - XMAS 1982
+  - XMAS 1988
+  - XMOX
+  - Xmas issue 1988
+  - Xmas overviews
+  - YELLO
+  - YIPPIES
+  - YOB ROCK
+  - YOUTH TV
+  - Yargo
+  - ZTT
+  - Zapp
+  - Zodiac Mindwarp and the Love Reaction
+  - '[POSTPUNK'
+  - a-Ha
+  - ambient house
+  - anti-rockism
+  - blogging
+  - graphic design
+  - howard devoto solo
+  - late 1988
+  - my bloody valentine
+  - paul oldfield
+  - paul oldfield - Kingdom come interview
+  - popism
+  - poptimism
+  - post-rock
+  - rap
+  - style bibles
+  - style culture
+  - style magazines
+  - sugharhigh!
+  relme:
+    https://blissedoutbysimonreynolds.blogspot.com/: true
+    https://blissedoutinfohype.blogspot.com/: true
+    https://blissout.blogspot.com/: true
+    https://bringthenoiseinfohype.blogspot.com/: true
+    https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
+    https://dreamsbuiltbyhand.blogspot.com/: true
+    https://energyflashbysimonreynolds.blogspot.com/: true
+    https://energyflashdiscogbibliog.blogspot.com/: true
+    https://energyflashinfohype.blogspot.com/: true
+    https://futuromaniac.blogspot.com/: true
+    https://hardlybaked.blogspot.com/: true
+    https://hardlybaked2.blogspot.com/: true
+    https://musicpresspantheon.blogspot.com/: true
+    https://notesandscraps.blogspot.com/: true
+    https://postpunkbuennosairessantiago.blogspot.com/: true
+    https://retromaniabysimonreynolds.blogspot.com/: true
+    https://retromaniafootnotes.blogspot.com/: true
+    https://retromaniainformationandhype.blogspot.com/: true
+    https://reynoldscorcoran.blogspot.com/: true
+    https://reynoldsretro.blogspot.com/: true
+    https://ripitupandstartagainbysimonreynolds.blogspot.com/: true
+    https://ripitupfootnotes.blogspot.com/: true
+    https://ripitupinfohype.blogspot.com/: true
+    https://sexrevolts.blogspot.com/: true
+    https://sexrevoltsinfohype.blogspot.com/: true
+    https://shockandawesimonreynolds.blogspot.com/: true
+    https://shockandawesimonreynolds2.blogspot.com/: true
+    https://simonreynoldsfavesunfaves.blogspot.com/: true
+    https://simonreynoldslecture.blogspot.com/: true
+    https://simonreynoldsmylittleunderground.blogspot.com/: true
+    https://simonreynoldsstillinadream.blogspot.com/: true
+    https://simonreynoldssydneylecture.blogspot.com/: true
+    https://thinkigekru.blogspot.com/: true
+    https://thinkigekru2.blogspot.com/: true
+    https://totallywiredbysimonreynolds.blogspot.com/: true
+    https://totallywiredinfohype.blogspot.com/: true
+    https://twattersimonreynolds.blogspot.com/: true
+    https://www.blogger.com/profile/01282478701882900354: true
+  last_post_title: Musicians review the Singles!
+  last_post_description: ""
+  last_post_date: "2026-03-12T17:48:19-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
+  last_post_categories:
+  - 1980S
+  - Brian Eno
+  - MELODY MAKER
+  - MORRISSEY
+  - MUSICIANS AS CRITICS
+  - MUSICIANS DO THE SINGLES
+  - POP MUSICIANS AS ROCK CRITICS
+  - PREFAB SPROUT
+  - RECORD MIRROR
+  - SMASH HITS
+  - WHAM!
+  last_post_language: ""
+  last_post_guid: c0d7705816b9688440c403d9795c195c
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 101
+---

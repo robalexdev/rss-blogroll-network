@@ -13,6 +13,9 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
     description: ""
     id: 7e0e72d6fd1109a16363155b4cda88a8

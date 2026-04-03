@@ -1,0 +1,265 @@
+---
+title: the one and I
+date: "2026-03-15T15:51:25+02:00"
+description: notes on love and light
+params:
+  feedlink: https://the1andi.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: dafb0fa980d15a9c41fd2230d3fa0fd8
+  websites:
+    https://the1andi.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  recommended: []
+  recommender: []
+  categories:
+  - '''flu'
+  - 1Q84
+  - ABBA
+  - Christianity
+  - Dreams
+  - ECT
+  - Elizabeth
+  - Finland
+  - French
+  - God
+  - HIV
+  - Jurie Els
+  - Mini
+  - Nan Hua
+  - Pan's Labyrinth
+  - Pope
+  - Queen
+  - The End
+  - Titanic
+  - accidents
+  - addiction
+  - adventure
+  - ageing
+  - alcohol
+  - antisocial
+  - apartment life
+  - apology
+  - art
+  - autumn
+  - baggage
+  - beards
+  - birthday
+  - blog
+  - blood
+  - books
+  - boss
+  - braai
+  - buddhism
+  - cannabis
+  - car
+  - cards
+  - cat litter
+  - catching up
+  - cats
+  - celebration
+  - change
+  - chaos
+  - chocolate
+  - christmas
+  - circles
+  - cleaning
+  - clothes
+  - clouds
+  - cold
+  - coming home
+  - compliments
+  - computers
+  - connected
+  - control
+  - cooking
+  - coprophobia
+  - couch
+  - craziness
+  - crickets
+  - crime
+  - crossroads
+  - dancing
+  - de-worming
+  - death
+  - decline
+  - depression
+  - desk
+  - diy
+  - dogs
+  - dvd
+  - electricity
+  - errands
+  - exercise
+  - existentialism
+  - family
+  - farewell
+  - fashion
+  - father
+  - fear
+  - films
+  - fire
+  - floor
+  - flowers
+  - food
+  - fortune
+  - friends
+  - funny
+  - gadgets
+  - games
+  - garbage
+  - gardening
+  - genealogy
+  - grandfather
+  - grandmother
+  - gratitude
+  - greed
+  - hair
+  - hallucination
+  - hands
+  - happiness
+  - health
+  - heat
+  - holiday
+  - homosexuality
+  - house
+  - house hunting
+  - humour
+  - illness
+  - infestation
+  - insanity
+  - insect
+  - inspiration
+  - internet
+  - karma
+  - kittens
+  - la dolce vita
+  - landlords
+  - life
+  - life lessons
+  - light
+  - lights
+  - load shedding
+  - lockdown
+  - loneliness
+  - love
+  - machines
+  - mask
+  - meme
+  - memories
+  - missing
+  - monday
+  - money
+  - moon
+  - mother
+  - moving
+  - music
+  - natural
+  - nature
+  - new job
+  - new look
+  - new year
+  - new year resolutions
+  - noise
+  - normality
+  - nostalgia
+  - note
+  - paranoia
+  - paranormal activity
+  - party
+  - peace
+  - pens
+  - people
+  - pets
+  - phones
+  - photographs
+  - picasso
+  - poetry
+  - pregnancy
+  - public transport
+  - puppies
+  - rain
+  - recovering
+  - reflections
+  - rejection
+  - rejuvenation
+  - relationship
+  - religion
+  - retrospective
+  - routine
+  - rudeness
+  - rugby
+  - sadness
+  - satchel
+  - schizo-affective disorder
+  - scooter
+  - security guard
+  - shaving
+  - sies
+  - sims
+  - sleep
+  - smoking
+  - snot
+  - snow
+  - spring
+  - stars
+  - stress
+  - suicide
+  - sun
+  - survival
+  - technology
+  - teleportation
+  - thoughts
+  - time
+  - toilet paper
+  - traffic
+  - travel
+  - tv
+  - twins
+  - unthankful
+  - war
+  - washing powder
+  - water
+  - weather
+  - weddings
+  - wild animals
+  - winter
+  - words
+  - work
+  - worries
+  - writing
+  - year end
+  relme: {}
+  last_post_title: sonder
+  last_post_description: ""
+  last_post_date: "2026-03-15T15:51:25+02:00"
+  last_post_link: http://the1andi.blogspot.com/2026/03/sonder.html
+  last_post_categories:
+  - depression
+  - life lessons
+  - rain
+  last_post_language: ""
+  last_post_guid: 055f22794b36b4ca57d8c47c94543436
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 27
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 296
+---

@@ -13,6 +13,9 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
     description: ""
     id: 7e0e72d6fd1109a16363155b4cda88a8

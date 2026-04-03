@@ -10,9 +10,15 @@ params:
     https://frankchimero.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 395b60e61088f5df8289dde57880ff9b
   - title: Jeffrey Inscho - Blogroll
     description: ""
     id: 2302e193996057a443a3a6d12fe1dc63

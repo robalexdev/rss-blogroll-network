@@ -1,6 +1,6 @@
 ---
 title: mgx
-date: "2026-03-05T17:37:40Z"
+date: "2026-04-03T16:02:59Z"
 description: the bear blog of mgx
 params:
   feedlink: https://mgx.bearblog.dev/feed/

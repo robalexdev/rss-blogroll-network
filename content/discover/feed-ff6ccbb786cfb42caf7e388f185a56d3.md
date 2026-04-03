@@ -13,6 +13,9 @@ params:
   - title: Blogroll Network Seeds
     description: ""
     id: c33ed4f6ab2b4055fadbfad39d41c36e
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.

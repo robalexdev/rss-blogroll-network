@@ -11,6 +11,9 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
     description: ""
     id: 3c039ddf8649f01e6b341f6cea774be8

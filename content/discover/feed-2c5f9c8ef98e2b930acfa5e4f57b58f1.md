@@ -10,6 +10,9 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
     description: ""
     id: 3c039ddf8649f01e6b341f6cea774be8
@@ -19,6 +22,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: 'Just a Gwai Lo: Blogroll'
+    description: ""
+    id: f897b7ddc89263f7c8905cadafc81159
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
       by feedlandDatabase v0.8.14.

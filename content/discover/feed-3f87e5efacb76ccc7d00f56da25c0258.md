@@ -12,6 +12,9 @@ params:
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
+  - title: Bubbles — 4238 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06

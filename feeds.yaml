@@ -11,6 +11,7 @@ feed_urls:
   - https://hnpwd.github.io/hnpwd.opml
   - https://kagi.com/smallweb/opml
   - https://indieblog.page/opml
+  - https://bubbles.town/blogs.opml
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml
