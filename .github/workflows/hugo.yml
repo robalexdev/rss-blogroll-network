@@ -40,7 +40,7 @@ jobs:
           set -e
           hugo \
             --minify \
-            --baseURL "https://alexsci.com/rss-blogroll-network/"
+            --baseURL "https://robalexdev.github.io/rss-blogroll-network/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
