@@ -10,6 +10,9 @@ params:
     https://chriswarrick.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,26 +22,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Docker
-  - Linux
+  - AI
+  - Claude
+  - Copilot
+  - GitHub
+  - LLM
   - Programming
-  - WSL
-  - Windows
+  - programming
   relme: {}
-  last_post_title: 'Docker In WSL: A No-Frills Guide'
-  last_post_description: Docker is great, but how do you run Linux containers on Windows?
-    In WSL, of course. The Docker Desktop application is certainly an option, but
-    it eats up a lot of RAM thanks to its Electron-based GUI
-  last_post_date: "2026-03-04T17:20:00Z"
-  last_post_link: https://chriswarrick.com/blog/2026/03/04/docker-in-wsl-a-no-frills-guide/
+  last_post_title: Certified 100% Slop
+  last_post_description: Recently, a port of Notepad++ to macOS has been making the
+    rounds online, mainly due to the project using the Notepad++ name without permission
+    and in breach of the original author’s trademark. But
+  last_post_date: "2026-05-06T19:00:00Z"
+  last_post_link: https://chriswarrick.com/blog/2026/05/06/certified-100-percent-slop/
   last_post_categories:
-  - Docker
-  - Linux
+  - AI
+  - Claude
+  - Copilot
+  - GitHub
+  - LLM
   - Programming
-  - WSL
-  - Windows
+  - programming
   last_post_language: ""
-  last_post_guid: 2eecc8b8f0fbdb48cb46058dc232be90
+  last_post_guid: 1f97243e4bef506367bdbabe90f63387
   score_criteria:
     cats: 0
     description: 3

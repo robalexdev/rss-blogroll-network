@@ -29,35 +29,23 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - art
-  - austalia
-  - exhibitions
-  - games
-  - museum
-  - museums
-  - telephone
-  - telephones
-  - video games
+  - dog
+  - dogs
+  - walking
   relme: {}
-  last_post_title: '[Repost] Hint Line 93'
-  last_post_description: Hint Line 93 is an amazing interactive exhibit about the
-    experience of working on a computer games hint line. It's a deeply-researched,
-    immersive, and clever piece of art... and even though the real
-  last_post_date: "2026-03-18T19:47:58Z"
-  last_post_link: https://danq.me/2026/03/18/hint-line-93/
+  last_post_title: '[Repost] Thames Path 7'
+  last_post_description: Ruth's completed yet another stretch of the Thames Path,
+    continuing at what could literally be described as a glacial pace, and she's written
+    another part in what's turning out to be a wonderful blog
+  last_post_date: "2026-05-07T10:24:39+01:00"
+  last_post_link: https://danq.me/2026/05/07/thames-path-7/
   last_post_categories:
   - Personal
-  - art
-  - austalia
-  - exhibitions
-  - games
-  - museum
-  - museums
-  - telephone
-  - telephones
-  - video games
+  - dog
+  - dogs
+  - walking
   last_post_language: ""
-  last_post_guid: 33d3f7de7cb847c7e7bcbfe58ac51caf
+  last_post_guid: 2eb61ec66e9c4483d6915cd83237f16f
   score_criteria:
     cats: 0
     description: 3

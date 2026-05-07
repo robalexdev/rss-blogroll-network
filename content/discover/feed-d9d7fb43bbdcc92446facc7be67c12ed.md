@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-03-09T06:52:24Z"
+date: "2026-05-07T12:14:16Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,22 +18,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - buffering
   - devops
-  - nginx
-  - sse
+  - esxi
+  - vcsa
   relme: {}
-  last_post_title: Nginx 反代导致 SSE 延迟变高的问题与解决方法
-  last_post_description: 最近有同学遇到这么一个问题：在 Nginx 反代后面搭了一个使用 SSE（Server Sent
-  last_post_date: "2026-03-05T00:00:00Z"
-  last_post_link: https://jia.je/devops/2026/03/05/nginx-sse-buffering/
+  last_post_title: 记一次循环依赖导致的运维小事故
+  last_post_description: 记一次循环依赖导致的运维小事故¶ 背景¶ 每次没有 UPS 或 UPS
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: https://jia.je/devops/2026/05/07/ring-dependency/
   last_post_categories:
-  - buffering
   - devops
-  - nginx
-  - sse
+  - esxi
+  - vcsa
   last_post_language: ""
-  last_post_guid: 5d66bc82787e2b06ebdf65637f829485
+  last_post_guid: a81910d5a0cea6e8c1efde18ffbe06ce
   score_criteria:
     cats: 0
     description: 3

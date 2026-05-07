@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-03-16T18:01:58Z"
+date: "2026-05-07T14:06:09Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,23 +23,24 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories: []
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #172'
-  last_post_description: |-
-    NES.css
-    A NES-themed CSS framework and it looks exactly as you'd expect it to.
-    An immersive personal site
-    We're all out here building blogs, while Jonathan is here building an immersive first-person
-  last_post_date: "2026-03-13T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/172/?ref=main-rss-feed
+  last_post_title: Introducing the Mindful Design Toolkit with even more free lessons
+  last_post_description: The Mindful Design Toolkit is a collection of free, open
+    source templates, workshops, and resources, built to empower your design journey.
+    To coincide with the launch, we’ve also opened up over two
+  last_post_date: "2026-05-06T11:55:00Z"
+  last_post_link: https://piccalil.li/links/the-mindful-design-toolkit-free-lessons/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58b56397578383891fe62f91d8959d94
+  last_post_guid: 6af405d43bc41304eecdde15d6e81bb4
   score_criteria:
     cats: 0
     description: 3

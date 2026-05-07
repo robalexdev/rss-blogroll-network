@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: dc980d9aad1f9ba0b37aa6950fbb02be
   websites:
-    https://adactio.com/: true
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
@@ -36,11 +35,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://adactio.com/: true
-    https://github.com/adactio: true
-    https://mastodon.social/@adactio: true
-    https://resilientwebdesign.com/: true
+  relme: {}
   last_post_title: Just heard the sad news of Dolores Keane’s passing. Ar dheis Dé
     go raibh a hanam.
   last_post_description: |-
@@ -61,10 +56,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

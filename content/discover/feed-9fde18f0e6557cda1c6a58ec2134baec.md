@@ -12,7 +12,7 @@ params:
     https://www.trysmudford.com/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -24,6 +24,9 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories: []

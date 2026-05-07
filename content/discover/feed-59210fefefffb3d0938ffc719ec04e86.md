@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: New Yuki Art for Noodlist
-  last_post_description: I've been researching how to do that whole V-tuber animated
-    character modeling thing. Given most of my work is done in vector format in Illustrator
-    I think I can get a decent animation from the
-  last_post_date: "2026-03-16T06:02:00Z"
-  last_post_link: https://jetgirl.art/new-art-for-noodlist-mascot/
+  last_post_title: Let others know you blog
+  last_post_description: |-
+    Who knows that you blog? David recently asked this question on his blog.
+    Most people who know me are also aware that I have a blog. It's not like I shout it out every time I meet someone, but it
+  last_post_date: "2026-05-06T16:27:00Z"
+  last_post_link: https://robertbirming.com/let-others-know-blog/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0715ea0575697ee7dfd7402f5846fa68
+  last_post_guid: 549fdd984b184e53a75c9263fb237194
   score_criteria:
     cats: 0
     description: 3

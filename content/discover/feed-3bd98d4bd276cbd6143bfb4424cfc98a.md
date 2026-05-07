@@ -11,7 +11,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Cory Dransfeldt
@@ -49,8 +49,6 @@ params:
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://marisabel.nl/feeds/blog.php

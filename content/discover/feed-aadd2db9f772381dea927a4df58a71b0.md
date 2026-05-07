@@ -12,6 +12,9 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -29,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Coding Agent VMs on NixOS with microvm.nix
+  last_post_title: Stamp It! All Programs Must Report Their Version
   last_post_description: ""
-  last_post_date: "2026-02-01T09:00:00+01:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/
+  last_post_date: "2026-04-05T16:20:00+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 722912d89c6c9d3da67dcff10d3dba4c
+  last_post_guid: cb8e10b169f68b9c73217b7e87318167
   score_criteria:
     cats: 0
     description: 0

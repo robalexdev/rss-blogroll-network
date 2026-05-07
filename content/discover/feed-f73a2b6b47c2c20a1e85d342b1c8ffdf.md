@@ -14,11 +14,7 @@ params:
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
-  recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
+  recommender: []
   categories:
   - release
   relme: {}

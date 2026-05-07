@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: meshoptimizer 1.0 released
-  last_post_description: A short post today. If you’re following me on any of the
-    vast array of social accounts then you’re probably aware, but if you’re reading
-    this blog through the ancient technology otherwise known
-  last_post_date: "2025-12-09T00:00:00Z"
-  last_post_link: https://zeux.io/2025/12/09/meshoptimizer-v1/
+  last_post_title: Quantizing tangent frames
+  last_post_description: I’ve been working on tangent space generation recently, and
+    also pondering the tradeoffs between QTangent and normal-angle storage. So when,
+    in a completely unrelated discussion, someone said
+  last_post_date: "2026-04-30T00:00:00Z"
+  last_post_link: https://zeux.io/2026/04/30/quantizing-tangent-frames/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c4e8c8763ad886a1fbbd9bb23373c3f
+  last_post_guid: 4df926bcf3a295dbf24a4ff16f1887ef
   score_criteria:
     cats: 0
     description: 0

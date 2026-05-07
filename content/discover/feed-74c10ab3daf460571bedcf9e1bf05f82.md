@@ -1,6 +1,6 @@
 ---
 title: 浮云游子意 Floating Cloud on Journey
-date: "2026-01-11T00:18:21Z"
+date: "2026-03-30T16:35:35Z"
 description: Leonson's personal blog
 params:
   feedlink: https://leonson.me/feed.xml
@@ -28,15 +28,16 @@ params:
   - 教育
   - 辩论
   relme: {}
-  last_post_title: 辩裁无须七年期
-  last_post_description: 现在时间是2026年1月10日下午2
-  last_post_date: "2026-01-10T00:00:00Z"
-  last_post_link: https://leonson.me/2026/01/debate-judge
+  last_post_title: 小山辩论
+  last_post_description: 现在是2026年3月28日早上11:54，我坐在小山高中图书馆。如果讲英语，这里其实叫做El Cerrito High
+    School，不过El
+  last_post_date: "2026-03-28T00:00:00Z"
+  last_post_link: https://leonson.me/2026/03/el-cerrito-debate
   last_post_categories:
   - 教育
   - 辩论
   last_post_language: ""
-  last_post_guid: b81fab8f2ac4acac2b735774ea34bd53
+  last_post_guid: f2a9d793979c4515c0e4999c510be526
   score_criteria:
     cats: 0
     description: 3

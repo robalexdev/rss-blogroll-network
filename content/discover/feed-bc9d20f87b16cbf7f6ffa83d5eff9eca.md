@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-03-15T16:27:11Z"
+date: "2026-05-04T15:18:58Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -10,7 +10,7 @@ params:
     https://lopespm.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Don't be a Process Zealot
+  last_post_title: Lateral thinking using existing technologies
   last_post_description: ""
-  last_post_date: "2026-02-21T00:00:00Z"
-  last_post_link: https://lopespm.com/notes/2026/02/21/process_dogmas.html
+  last_post_date: "2026-05-01T00:00:00Z"
+  last_post_link: https://lopespm.com/notes/2026/05/01/lateral-thinking.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f76d98d0cf6f5eb58c782628cfc91e01
+  last_post_guid: d1cbcc3980cae91d88580fe22abb6eef
   score_criteria:
     cats: 0
     description: 0

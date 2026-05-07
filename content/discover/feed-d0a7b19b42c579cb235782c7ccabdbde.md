@@ -19,31 +19,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - News
+  - Real science
+  - Reflections
+  - Theoretical highlights
   relme: {}
-  last_post_title: The FeMo-cofactor and classical and quantum computing
-  last_post_description: Recently, my coworkers and I put out a preprint “Classical
-    solution of the FeMo-cofactor model to chemical accuracy and its implications’’ (Zhai
-    et al. 2026). It is a bit unusual to write
-  last_post_date: "2026-03-13T05:16:00Z"
-  last_post_link: https://quantumfrontiers.com/2026/03/12/the-femo-cofactor-and-classical-and-quantum-computing/
+  last_post_title: How I learned to stop worrying and…no, I’ve always adored entropy
+  last_post_description: When I was pursuing a PhD at Caltech, so was my friend Jeremy.
+    He used to throw a dinner party every few months. The email invitations welcomed
+    friends to partake of his cooking and, if we wished, to
+  last_post_date: "2026-04-13T00:06:06Z"
+  last_post_link: https://quantumfrontiers.com/2026/04/12/how-i-learned-to-stop-worrying-andno-ive-always-adored-entropy/
   last_post_categories:
-  - Uncategorized
+  - News
+  - Real science
+  - Reflections
+  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: 9e2dc1b233a2fa0c45f42169008fd6a9
+  last_post_guid: e0756a971a6b8a94f0c935d7d8b2dbd7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How PlayStation Graphics & Visual Artefacts Work
-  last_post_description: The PlayStation has some unorthodox methods for generating
-    3D graphics. This article explains how PS1 graphics work & covers some important
-    visual artefacts that are associated with Sony's console.
-  last_post_date: "2024-08-08T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/how-to-make-ps1-graphics
+  last_post_title: Using the 'Sandwich Method' to Teach Mathematics
+  last_post_description: Many students have asked me if I'll ever record a course
+    called 'Math for Programmers.' I am inclined to say that won't happen anytime
+    soon... or at least not the way most people expect it.
+  last_post_date: "2026-05-03T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/sandwich-method-math-education
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f9f53b6e096edef9f439e0092857177
+  last_post_guid: 3b893ec83358e0a68a497edd48627418
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-03-16T13:00:13Z"
+date: "2026-05-07T04:34:08Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -22,46 +22,29 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - newsletter
-  - pokemon
-  - 宝可梦
-  - 搬家
-  - 摄影
-  - 日常
-  - 游戏
-  - 漫画
-  - 英国
+  categories: []
   relme: {}
-  last_post_title: Plog 6 搬家啦
-  last_post_description: ""
-  last_post_date: "2026-03-06T13:32:22Z"
-  last_post_link: https://anotherdayu.com/plog-6/
-  last_post_categories:
-  - newsletter
-  - pokemon
-  - 宝可梦
-  - 搬家
-  - 摄影
-  - 日常
-  - 游戏
-  - 漫画
-  - 英国
+  last_post_title: 'Cloud gaming: Shadow vs GeForce Now'
+  last_post_description: Cloud gaming is changing so quickly that even Reddit discussions
+    from just seven months ago already feel outdated.
+  last_post_date: "2026-04-17T16:27:12Z"
+  last_post_link: https://anotherdayu.com/shadow-vs-geforcenow/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0b683eff672155426979f3bc04eea021
+  last_post_guid: 62f19088e47b6b16c77766d621a9c1a9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

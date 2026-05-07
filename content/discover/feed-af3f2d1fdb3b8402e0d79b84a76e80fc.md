@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2026-03-16T19:50:46Z"
+date: "2026-05-07T15:58:37Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
-  last_post_description: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
-  last_post_date: "2026-01-31T15:23:08Z"
-  last_post_link: https://baiyun.me/zhejiang-hangzhou-telecom-iptv
+  last_post_title: 在国内如何购买比特币和投资加密货币
+  last_post_description: 在国内如何购买比特币和投资加密货币
+  last_post_date: "2026-04-14T15:15:35Z"
+  last_post_link: https://baiyun.me/buy-bitcoin-in-china
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6567cf14a37a76a5cbbca502a22e6394
+  last_post_guid: a910733e6d190bfeccc8fe7afc170355
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
-title: 特立独行的异类
+title: 陈杨树下
 date: "1970-01-01T00:00:00Z"
-description: Recent content on 特立独行的异类
+description: Recent content on 陈杨树下
 params:
   feedlink: https://demochen.com/atom.xml
   feedtype: rss
@@ -20,17 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 闪灵让我恐怖的是什么？
-  last_post_description: !!binary |
-    5pio5pma5Y2K5aSc5YyF5Zy65Yi36Zeq54G177yM5pyJ5pyf5b6F77yM5Lmf57Sn5byg77
-    yM6K6w5b2V5LiA5LiL5oOz5rOV44CCCuW/mOS6huS7gOS5iOaXtuWAme+8jOesrOS4gOas
-    oeeci+Wug++8jOaIkeiusOS9j+eahOWFqOaYr+eUu+mdoue6p+eahOWIuua/gO+8mueUte
-    air+mXqOS4gOW8gO+8jOihgOWDj+S4jeimgemSseS4gOagt+a2jOWHuuY=
-  last_post_date: "2026-02-07T11:11:05+08:00"
-  last_post_link: https://demochen.com/posts/20260207/
+  last_post_title: 习惯了语音输入后，再也不想打字了
+  last_post_description: |-
+    开启口喷时代把，本文主要分享我为什么会使用语音输入法？为什么会选择 Typeless？现在给我带来了哪些正向的反馈。
+    我最早使用语音输入法是在 2024
+  last_post_date: "2026-04-04T21:06:57+08:00"
+  last_post_link: https://demochen.com/posts/20260404/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9e1a75e49a189acf3c4242cede5773e7
+  last_post_guid: 08c252a1b844f5b231ba2eb858330686
   score_criteria:
     cats: 0
     description: 3

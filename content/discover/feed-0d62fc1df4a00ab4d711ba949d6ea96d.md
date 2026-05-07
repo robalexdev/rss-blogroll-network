@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-03-16T01:08:03Z"
+date: "2026-05-04T01:21:39Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,36 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ADHD
-  - 历史
+  - 国际关系
   - 小说
-  - 心理学
   - 读书
   - 读书笔记
-  - 跑步
   - 阅读
   relme: {}
-  last_post_title: 2026 一月读 史学理论 心理学 亲密关系 灵性 运动 12 本
+  last_post_title: 2026年三月 读国际关系 活着 2本
   last_post_description: |-
     引子
 
 
     引子
 
-    活到 40 多岁，发觉自己的主人格，有
-  last_post_date: "2026-02-26T23:55:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/02/26/reading_summary/
+    三月份，读书真的慢下来了，只翻开四本，读完两本。
+
+    《争论中的国际关系理论》是国际关系学科的经典教材，对截止2000的国际关系学的
+  last_post_date: "2026-04-01T22:17:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/04/01/reading_summary/
   last_post_categories:
-  - ADHD
-  - 历史
+  - 国际关系
   - 小说
-  - 心理学
   - 读书
   - 读书笔记
-  - 跑步
   - 阅读
   last_post_language: ""
-  last_post_guid: 10d2140f268ceaf15028b51946354309
+  last_post_guid: bd042ead722fe4363b69606ddc53e94d
   score_criteria:
     cats: 0
     description: 0

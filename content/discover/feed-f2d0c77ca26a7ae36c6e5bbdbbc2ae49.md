@@ -11,6 +11,9 @@ params:
     https://github.blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
@@ -25,13 +28,18 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   - title: Feeds
     description: ""
     id: 569a496b78951329c0069eafd7755a79
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   categories:
   - Developer skills
   - GitHub

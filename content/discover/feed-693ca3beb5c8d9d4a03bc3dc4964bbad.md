@@ -21,7 +21,6 @@ params:
   categories:
   - GitHub
   relme:
-    https://github.com/Lruihao: true
     https://lruihao.cn/: true
   last_post_title: 一个轻量化 Tooltip 组件。
   last_post_description: "一个基于 TypeScript + Vite 的轻量化 Tooltip 组件，交互模型参考 Bootstrap

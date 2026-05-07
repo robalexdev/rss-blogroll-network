@@ -14,6 +14,9 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender:
   - https://hacdias.com/articles/feed.xml

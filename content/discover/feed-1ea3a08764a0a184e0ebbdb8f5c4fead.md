@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-03-16T11:01:07Z"
+date: "2026-05-07T07:46:31Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -11,7 +11,7 @@ params:
     https://winther.sysctl.dk/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,29 +23,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blog-carnival
+  - nostalgia
+  - personal
   relme: {}
-  last_post_title: Feeling too old for memes
+  last_post_title: Nostalgia for Calvin and Hobbes
   last_post_description: ""
-  last_post_date: "2026-03-14T10:56:10Z"
-  last_post_link: https://winther.sysctl.dk/feeling-too-old-for-memes/
+  last_post_date: "2026-05-05T17:43:43Z"
+  last_post_link: https://winther.sysctl.dk/nostalgia-for-calvin-and-hobbes/
   last_post_categories:
-  - blog-carnival
+  - nostalgia
+  - personal
   last_post_language: ""
-  last_post_guid: 1eae8f6e432f172f2d1e828437ce036a
+  last_post_guid: 31f751eda85c70a9bf4525fa80282024
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

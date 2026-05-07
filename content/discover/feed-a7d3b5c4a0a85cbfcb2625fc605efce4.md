@@ -13,7 +13,7 @@ params:
   - title: Ben Myers's Blogroll
     description: Blogs and newsletters I check on the regular.
     id: bf95fc3fe734baa4e4fdf4b50381791c
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -37,6 +37,9 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   - title: Dan Q's Blogroll
     description: ""
     id: cf55eb3ed10628f3d87eaf0ddb80287f

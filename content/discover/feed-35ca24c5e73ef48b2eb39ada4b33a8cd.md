@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2026-03-06T22:48:55Z"
+date: "2026-05-04T16:10:55Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:
@@ -11,6 +11,9 @@ params:
     https://morwenn.github.io/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,18 +23,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - presortedness
+  - c++
   relme: {}
-  last_post_title: Amp and the partial ordering of measures of disorder, part 1
-  last_post_description: Shortly after computer scientists had proposed their first
-    few measures of disorder, they started feeling an urge to show that their favourite
-    measure was different from existing ones, and that they
-  last_post_date: "2026-02-15T00:00:00Z"
-  last_post_link: https://morwenn.github.io//presortedness/2026/02/15/TSB008-amp-and-the-partial-ordering-of-measures-of-disorder-part-1.html
+  last_post_title: Quantity-safe analog literals
+  last_post_description: Analog literals Analog literals are a cute C++ gadget proposed
+    by Eelis in the seminal article Multi-Dimensional Analog Literals. That forward-thinking
+    monument to human mischief finally allowed C++
+  last_post_date: "2026-05-02T00:00:00Z"
+  last_post_link: https://morwenn.github.io//c++/2026/05/02/TSB011-quantity-safe-analog-literals.html
   last_post_categories:
-  - presortedness
+  - c++
   last_post_language: ""
-  last_post_guid: aad7b5c0d28b966945997f1b3b9f5242
+  last_post_guid: 04d8ab896ef85b9ac444e2816f4749b3
   score_criteria:
     cats: 0
     description: 3

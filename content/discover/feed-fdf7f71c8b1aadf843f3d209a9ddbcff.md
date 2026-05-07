@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-03-16T11:57:18Z"
+date: "2026-05-07T14:31:56Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -10,7 +10,7 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,36 +27,30 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
-  categories:
-  - "2026"
-  - data protection
+  categories: []
   relme: {}
-  last_post_title: how i stay up-to-date on data protection & privacy law
-  last_post_description: Some website, newsletter and RSS feed recommendations.
-  last_post_date: "2026-03-12T16:23:14Z"
-  last_post_link: https://blog.avas.space/data-protection-recs/
-  last_post_categories:
-  - "2026"
-  - data protection
+  last_post_title: cutting off my mother was so worth it!
+  last_post_description: If you consider it, I wanna encourage you.
+  last_post_date: "2026-05-07T14:18:15Z"
+  last_post_link: https://blog.avas.space/cutoff/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: b66090b521c7682c5655a7d648d0c8b7
+  last_post_guid: d42c184d1aa0f9bff02718c2aebd1b95
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 21
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

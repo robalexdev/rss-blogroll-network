@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-03-10T11:30:03+08:00"
+date: "2026-05-07T21:00:09+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -22,32 +22,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 旅游
+  - Car
+  - Su7 Ultra
   relme: {}
-  last_post_title: 烟花三月下扬州
+  last_post_title: Su7 Ultra U南向北
   last_post_description: |-
     Foreword
 
-    “烟花三月下扬州”，但我去的是公历 3
-  last_post_date: "2026-03-09T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/03/09/Yangzhou-Travel/
+    由于保时捷包场，珠海赛道没机会玩，五月前我基本没去过其他赛道。四月初得知五一有U南向北活动，三天连刷北京三个赛道，这种强度很少见
+  last_post_date: "2026-05-06T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/05/06/Su7-Ultra-UN2S/
   last_post_categories:
-  - 旅游
+  - Car
+  - Su7 Ultra
   last_post_language: ""
-  last_post_guid: 6cc7ada093c23eefe7810e3c9eb6a70d
+  last_post_guid: acdcc284d63c0b488f493307442b152f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

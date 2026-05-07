@@ -19,6 +19,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Frontend Dev Feeds
+    description: ""
+    id: 38149979474709d3c2d6dd1d0b7b71f0
   recommended: []
   recommender: []
   categories: []

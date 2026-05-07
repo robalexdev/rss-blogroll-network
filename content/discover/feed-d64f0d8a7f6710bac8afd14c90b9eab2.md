@@ -11,6 +11,9 @@ params:
     https://ankursethi.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -21,13 +24,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I built a programming language using Claude Code
+  last_post_title: A broken 404 template in Django can swallow your backtraces
   last_post_description: ""
-  last_post_date: "2026-03-10T16:23:25Z"
-  last_post_link: https://ankursethi.com/blog/programming-language-claude-code/
+  last_post_date: "2026-04-18T11:26:00Z"
+  last_post_link: https://ankursethi.com/blog/a-broken-404-template-in-django-can-swallow-your-backtraces/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0e7cab8f98d6f7c95956674fdcdad555
+  last_post_guid: 1c94a873581d7c835dde9ad6db12d9c8
   score_criteria:
     cats: 0
     description: 3

@@ -24,15 +24,13 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 大连之行
-  last_post_description: |-
-    6月底，趁着娃刚考完试，学校也没课了，请假带娃去大连玩了一趟。
-    这次是跟娃好朋友一起出行，人两口子以前做旅行社的，直接搞了一个行程表，我
-  last_post_date: "2025-08-03T20:55:36+08:00"
-  last_post_link: https://liudon.com/posts/dalian-trip/
+  last_post_title: AI Agent折腾记（OpenClaw / Hermes Agent）
+  last_post_description: AI 智能体（AI Agent）是一种能够感知环境、进行推理并自主行动以实现特定目标的智能系统。
+  last_post_date: "2026-04-14T22:12:17+08:00"
+  last_post_link: https://liudon.com/posts/deploy-ai-agent/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dbe5ed5b10c3817e4b10a6f4275693dd
+  last_post_guid: 72827f2665277e39196820875c3bba61
   score_criteria:
     cats: 0
     description: 3

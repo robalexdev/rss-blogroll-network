@@ -1,6 +1,6 @@
 ---
 title: Victor Poughon
-date: "2026-03-16T16:01:38Z"
+date: "2026-05-07T06:18:01Z"
 description: Victor Poughon personal website
 params:
   feedlink: https://victorpoughon.fr/feed/

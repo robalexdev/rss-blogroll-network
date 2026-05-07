@@ -10,6 +10,9 @@ params:
     https://sheaves.github.io/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Planet Sage
     description: ""
     id: 64213fc10c2a5c9ef73b084d5765e429

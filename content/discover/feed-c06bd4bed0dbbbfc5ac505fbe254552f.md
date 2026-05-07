@@ -12,7 +12,7 @@ params:
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -174,7 +174,9 @@ params:
   - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
+  - https://kevquirk.com/books-feed
   - https://kevquirk.com/feed.php
+  - https://kevquirk.com/notes-feed
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
   - https://mattstein.com/books/rss.xml

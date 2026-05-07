@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -41,18 +41,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: 'Restoring an Xserve G5: When Apple built real servers'
+  last_post_title: SBC Clusters are a terrible value, but they're fun anyway
   last_post_description: |-
-    Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, RackMac3,1, which was built when Apple at the top—and bottom—of it's PowerPC era.
-
-
-
-    This isn't
-  last_post_date: "2026-03-13T09:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/
+    Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C.
+    I was testing
+  last_post_date: "2026-05-01T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 21e44a99528b9cbb393d3062ec8b135a
+  last_post_guid: f466a5581d05de0de766c0ffa8871f86
   score_criteria:
     cats: 0
     description: 3

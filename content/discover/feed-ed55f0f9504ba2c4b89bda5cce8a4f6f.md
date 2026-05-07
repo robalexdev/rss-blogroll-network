@@ -10,7 +10,7 @@ params:
     https://benjamincongdon.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,18 +23,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Feature Flagging at Databricks
+  last_post_title: Thoughts on Marginal Token Spend
   last_post_description: |-
-    In late January, I published a
-    post1
-    (archive) on the Databricks engineering blog about
-    “SAFE”, the feature flagging and experimentation platform I’ve been working on
-    for the past few years.
-  last_post_date: "2026-03-12T06:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2026/03/12/Feature-Flagging-at-Databricks/
+    The rise of coding agents has made it easy for a single engineer to spend
+    thousands of dollars a day in LLM tokens. This is a new class of expense, and it
+    will change the future cost structure of
+  last_post_date: "2026-04-30T07:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2026/04/30/Thoughts-on-Marginal-Token-Spend/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b8b8197bc48b4fd5642d4b74b3d8552
+  last_post_guid: b75874871b1b7e58b10c70864633b0eb
   score_criteria:
     cats: 0
     description: 3

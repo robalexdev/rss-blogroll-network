@@ -10,6 +10,9 @@ params:
     https://hatchingcatnyc.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,30 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Albert Bierstadt
   - Cat Stories
-  - Cats of Old New York
-  - Columbia University
-  - Elgin Botanic Garden
-  - Margaret Olivia Slocum Sage
+  - Charlotte Augusta Astor
+  - Fifth Avenue
+  - Hallet Alsop Borrowe
+  - James Coleman Drayton
+  - Mary Bell
   - New York City History
-  - Russell Sage
   relme: {}
-  last_post_title: '1905: Malta, the Wandering Cat of NYC Financier Russell Sage'
-  last_post_description: New York City financier Russell Sage, aka Uncle Russell,
-    had a reputation on Wall Street as being a spendthrift, a workaholic, and a ruthless
-    money lender without emotion. So when he failed to show
-  last_post_date: "2026-02-20T23:53:48Z"
-  last_post_link: https://hatchingcatnyc.com/2026/02/20/malta-wandering-cat-nyc-financier-russell-sage/?utm_source=rss&utm_medium=rss&utm_campaign=malta-wandering-cat-nyc-financier-russell-sage
+  last_post_title: '1894: The Astor Kitten Who Caused a Stir at 320 Fifth Avenue'
+  last_post_description: When a little black and white kitten fell from a ledge on
+    Fifth Avenue, everyone who witnessed the event placed the blame on the ASPCA and
+    the fire department. We’ll never know who was at fault,
+  last_post_date: "2026-05-07T01:59:33Z"
+  last_post_link: https://hatchingcatnyc.com/2026/05/07/astor-kitten-320-fifth-avenue/?utm_source=rss&utm_medium=rss&utm_campaign=astor-kitten-320-fifth-avenue
   last_post_categories:
+  - Albert Bierstadt
   - Cat Stories
-  - Cats of Old New York
-  - Columbia University
-  - Elgin Botanic Garden
-  - Margaret Olivia Slocum Sage
+  - Charlotte Augusta Astor
+  - Fifth Avenue
+  - Hallet Alsop Borrowe
+  - James Coleman Drayton
+  - Mary Bell
   - New York City History
-  - Russell Sage
   last_post_language: ""
-  last_post_guid: 7fdf8e7969cc81dbd68117de5aed9fa0
+  last_post_guid: 90d5b1b7b8a2a436cc6070a56cd1ed7d
   score_criteria:
     cats: 0
     description: 3

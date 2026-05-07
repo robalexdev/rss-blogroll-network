@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2026-03-15T12:31:13Z"
+date: "2026-05-04T13:08:45Z"
 description: 欲种嘉蔬 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -25,37 +25,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - journal
-  - 故乡
-  - 生活
+  - essay
+  - 杂谈
   relme: {}
-  last_post_title: 春节杂记
+  last_post_title: 凭感觉炒股
   last_post_description: !!binary |
-    5Zug5Li655+l6YGT55u46IGa5piv55+t5pqC55qE77yM5q+P6L+H5LiA5pel77yM56a75Y
-    ir5pu06L+R5LiA5pel77yM5pil6IqC5Zyo5a6255qE5pel5a2Q5Y+N6ICM5pu05re75oOG
-    5oCF44CCCuaAu+ivtOW5tOWRs+i2iuadpei2iua3oe+8jOaYr+aIkeWvueS6juaYpeiKgu
-    eahOiupOivhuWSjOiusOW/hu+8jOi/mOWBnOeVmeWcqOW5vOaXtueJqeg=
-  last_post_date: "2026-03-15T20:25:42+08:00"
-  last_post_link: https://jubeny.com/2026/03/spring-festival-miscellany/
+    5Zub5pyI5LiK6K+B5oyH5pWw5Y+I5rao5LiK5LqGNDEwMOeCue+8jOWcqOaEn+inieS5sO
+    S7gOS5iOmDveWPr+S7pei1mueahOihjOaDhemHjO+8jOaIkeWNtOaYr+S6j+aNn+eahOOA
+    gumHjeS7k+iCoeavlOS6mui/queUu+S6huS4gOS4quW3pumrmOWPs+S9jueahOKAnVfigJ
+    zvvIzomb3nhLblgZpU6ZmN5LqG5LiA54K55oiQ5pys77yM55u45q+U6II=
+  last_post_date: "2026-05-04T21:03:47+08:00"
+  last_post_link: https://jubeny.com/2026/05/trade-stocks-based-on-intuition/
   last_post_categories:
-  - journal
-  - 故乡
-  - 生活
+  - essay
+  - 杂谈
   last_post_language: ""
-  last_post_guid: ffc774e11eb97ae02750de95414d5fa3
+  last_post_guid: d1ad4e91392e11674c5ed7f804bb5beb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

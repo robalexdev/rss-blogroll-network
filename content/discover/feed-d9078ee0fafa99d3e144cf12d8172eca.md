@@ -12,7 +12,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -30,18 +30,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - The Important Thing
+  - Guides
   relme: {}
-  last_post_title: The One About In Real Life
-  last_post_description: 'In our 97th episode, we talk about how much more we learn
-    in person and why the last 10% of anything is the most important part. Things
-    we mentioned: Rands Leadership Slack South by Southwest Jony'
-  last_post_date: "2026-03-13T03:07:50Z"
-  last_post_link: https://randsinrepose.com/archives/the-one-about-in-real-life/
+  last_post_title: The USB Situation
+  last_post_description: I write this from the latest MacBook Pro. I’ve been running
+    this as my primary machine for almost a month. When I’m not grinding out the latest
+    soon-to-be-released I-swear-I-am-on-schedule book
+  last_post_date: "2026-04-29T15:47:39Z"
+  last_post_link: https://randsinrepose.com/archives/the-usb-situation/
   last_post_categories:
-  - The Important Thing
+  - Guides
   last_post_language: ""
-  last_post_guid: 9cd3703ea5b4318503f7ff6ebb173c02
+  last_post_guid: 17426a91c1c34d78e5c5f9022dfd3550
   score_criteria:
     cats: 0
     description: 3

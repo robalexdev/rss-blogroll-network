@@ -19,23 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Conference
+  - PHP
   - Sylius
-  - e-commerce
+  - Symfony
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Ecommerce Open Source Summit 2026
-  last_post_description: Join me at the Ecommerce Open Source Summit in Paris on March
-    26th, where I'll be sharing expert insights on how to accelerate development with
-    the powerful Sylius Stack components.
-  last_post_date: "2026-03-16T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/ecommerce_opensource_summit_2026
+  last_post_title: How to autocomplete translatable entities in Sylius
+  last_post_description: Learn how to seamlessly integrate the autocomplete feature
+    with translatable entities in Sylius by leveraging the Sylius TranslatableAutocompleteType.
+  last_post_date: "2026-05-05T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/sylius_translations_autocomplete
   last_post_categories:
-  - Conference
+  - PHP
   - Sylius
-  - e-commerce
+  - Symfony
   last_post_language: ""
-  last_post_guid: c3d5502fba09b9cc1d04f395aa07a710
+  last_post_guid: 50eb1717367a720d67c66b2f1012c93a
   score_criteria:
     cats: 0
     description: 3

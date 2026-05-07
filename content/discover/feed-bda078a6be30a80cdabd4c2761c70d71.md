@@ -41,10 +41,7 @@ params:
     description: ""
     id: 569a496b78951329c0069eafd7755a79
   recommended: []
-  recommender:
-  - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed/
+  recommender: []
   categories: []
   relme: {}
   last_post_title: ATConf

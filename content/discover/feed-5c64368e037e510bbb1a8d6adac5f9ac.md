@@ -15,31 +15,32 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - AI
   relme:
     https://newslttrs.com/: true
-  last_post_title: 'Language translation: an actually useful AI'
-  last_post_description: I started writing this Newslttr in a hotel in Hong Kong where
-    I was on a mixed working/chilling trip. Between the amazing cuisine and bustling
-    street markets of this Chinese Special Administrative
-  last_post_date: "2025-12-02T18:59:48Z"
-  last_post_link: https://newslttrs.com/language-translation-an-actually-useful-ai/
-  last_post_categories: []
+  last_post_title: '"Scheming" AI bots must be real, someone on X said so.'
+  last_post_description: AI bots are "scheming in the wild". This supposed research
+    report is based on some of the flimsiest research you're likely to see.
+  last_post_date: "2026-03-27T14:56:11Z"
+  last_post_link: https://newslttrs.com/scheming-ai-bots-must-be-real-someone-on-x-said-so/
+  last_post_categories:
+  - AI
   last_post_language: ""
-  last_post_guid: 5ad10b40f2dd1e5a880513d2774218e8
+  last_post_guid: b6281c3a9166397a60f2f9ea3ab5d59f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

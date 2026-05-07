@@ -1,6 +1,6 @@
 ---
 title: Ahmad Alfy
-date: "2025-10-31T23:00:00+02:00"
+date: "2026-05-07T12:41:17+03:00"
 description: Blog about front-end development and the web
 params:
   feedlink: https://alfy.blog/feed.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -22,15 +25,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Your URL Is Your State
-  last_post_description: 'URL design impacts application architecture, performance,
-    and costs. Case study: how flat URLs caused 2x backend load and how we optimized
-    it.'
-  last_post_date: "2025-10-31T02:00:00+02:00"
-  last_post_link: https://alfy.blog/2025/10/31/your-url-is-your-state.html
+  last_post_title: The HTML Sanitizer API
+  last_post_description: The HTML Sanitizer API is a new browser feature that helps
+    developers prevent XSS vulnerabilities by safely sanitizing HTML content.
+  last_post_date: "2026-05-07T03:00:00+03:00"
+  last_post_link: https://alfy.blog/2026/05/07/html-sanitizer-api.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 73111e98a0d353e77847813435b361cb
+  last_post_guid: 5de2eb6f9a9f386320415e59d401b42b
   score_criteria:
     cats: 0
     description: 3

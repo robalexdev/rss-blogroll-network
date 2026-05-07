@@ -137,11 +137,11 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
-  recommender:
-  - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed/
+  recommender: []
   categories: []
   relme:
     https://anniegreens.lol/: true

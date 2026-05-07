@@ -1,7 +1,7 @@
 ---
-title: Joshleeb
-date: "1970-01-01T00:00:00Z"
-description: Recent content on Joshleeb
+title: Joshleeb's Blog
+date: "2025-07-29T00:00:00Z"
+description: ""
 params:
   feedlink: https://joshleeb.com/index.xml
   feedtype: rss
@@ -34,7 +34,7 @@ params:
   last_post_guid: 421feaccef490eaaa9fcfb619357fb00
   score_criteria:
     cats: 0
-    description: 3
+    description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -44,7 +44,7 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

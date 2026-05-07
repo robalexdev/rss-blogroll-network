@@ -14,36 +14,28 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - Blog
-  - 学术之路
-  - 学术话题
-  - 非学术话题
+  categories: []
   relme: {}
-  last_post_title: 哲学家如何度过一生
-  last_post_description: 哲学是一种生活方式，永远面对问题，面向世界，只对自己的信念负责。
-  last_post_date: "2026-01-16T18:23:00Z"
-  last_post_link: https://pathos.page/blog/philosophy-declare/
-  last_post_categories:
-  - Blog
-  - 学术之路
-  - 学术话题
-  - 非学术话题
+  last_post_title: 下一代人有可能是人类演化的又一次分叉：论 AI 对教育和人性的威胁
+  last_post_description: AI让“说出正确句子”的传统教育失去动力，但人类理解的根基在于试错，它是思想与神经秩序的塑造过程。若下一代放弃这种痛苦的学习，将丧失人性
+  last_post_date: "2026-04-26T04:25:00+08:00"
+  last_post_link: https://pathos.page/blog/ai-education-humanity/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca34f6a0e76b547bc98fe274e172b16c
+  last_post_guid: a551c122f355b6d15f161234d13b0c71
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

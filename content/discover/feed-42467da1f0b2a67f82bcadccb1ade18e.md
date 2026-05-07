@@ -15,16 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 机器学习
+  - Linux
   relme: {}
-  last_post_title: 给论坛用上了文本嵌入模型
-  last_post_description: "本文来自依云's Blog，转载请注明。\n\t偶然间发现Discourse论坛支持利用文本嵌入模型来生成「相关话题」列表、提供语义化搜索。于是我给Arch"
-  last_post_date: "2025-11-11T15:14:52+08:00"
-  last_post_link: https://blog.lilydjwg.me/posts/216954.html
+  last_post_title: Wayfire支持不缩放Xwayland啦
+  last_post_description: "本文来自依云's Blog，转载请注明。\n\tWayland协议会告诉客户端程序缩放比率应该是多少，支持的就按指定的来，不支持的Wayland"
+  last_post_date: "2026-04-18T21:22:54+08:00"
+  last_post_link: https://blog.lilydjwg.me/posts/217024.html
   last_post_categories:
-  - 机器学习
+  - Linux
   last_post_language: ""
-  last_post_guid: 15efa1006acd06d0c941d7d7d8267997
+  last_post_guid: f6bf42fe7c8510b6cbd0ea4499ebd879
   score_criteria:
     cats: 0
     description: 0

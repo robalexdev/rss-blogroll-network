@@ -28,15 +28,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: human.json
-  last_post_description: human.json is a protocol for humans to assert authorship
-    of their site content and vouch for the humanity of others. It uses URL ownership
-    as identity, and trust propagates through a crawlable web of
-  last_post_date: "2026-03-14T00:00:00Z"
-  last_post_link: https://evanhahn.com/human-dot-json/
+  last_post_title: 'png-cmp: like cmp for PNGs'
+  last_post_description: |-
+    png-cmp is a program I built that checks if two PNGs are visually equivalent. It’s inspired by the cmp command. Here’s how you use it:
+    Like cmp, it silently exits if the images are identical, and
+  last_post_date: "2026-05-03T00:00:00Z"
+  last_post_link: https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16e10bac99ad3c2c4b811f5cf89a9681
+  last_post_guid: 0afd288f17113cc58a0793432f72d7f5
   score_criteria:
     cats: 0
     description: 3

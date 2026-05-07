@@ -10,6 +10,9 @@ params:
     https://jaapgrolleman.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,18 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - China
+  - Essays
   relme: {}
-  last_post_title: Cobblestones and Lions in Longmen
-  last_post_description: I know I take too many photos, and I know I should remove
-    some for brevity. But it feels to me that each of these views is worth capturing,
-    as if to store it in a jar for storage. When I no longer
-  last_post_date: "2026-02-18T10:29:16Z"
-  last_post_link: https://jaapgrolleman.com/cobblestones-in-longmen/
+  last_post_title: Clothes Making Clouds
+  last_post_description: There are so many ways to define Shanghai, yet a few popular
+    icons do a lot of the talking. As the international metropolis and a symbol of
+    China’s rising economic power, there’s the Lujiazui
+  last_post_date: "2026-05-05T05:32:02Z"
+  last_post_link: https://jaapgrolleman.com/clothes-making-clouds/
   last_post_categories:
-  - China
+  - Essays
   last_post_language: ""
-  last_post_guid: bd0bb368930f37837f867e9b1cadc942
+  last_post_guid: 4b7e5ad654693200724c1ed3a2b2a3ad
   score_criteria:
     cats: 0
     description: 3

@@ -10,6 +10,9 @@ params:
     https://blog.arkholt.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,15 +23,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Unexpected Comic Strip Creators - Charles Addams
-  last_post_description: Charles Addams is best known as the creator of The Addams
-    Family, a group of strange, monster movie adjacent characters who first appeared
-    as…
-  last_post_date: "2026-02-20T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/charles-addams
+  last_post_title: Comic Strip History - The Grawlix
+  last_post_description: In times past, when I've covered words or phrases that originated
+    in a comic strip, generally they had a major effect only on the English language,…
+  last_post_date: "2026-04-25T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/grawlix
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5177d1939bf54a4249ab8971765881c
+  last_post_guid: 8b1b2f450e8d6c3fd15df37c2c33a5b8
   score_criteria:
     cats: 0
     description: 3

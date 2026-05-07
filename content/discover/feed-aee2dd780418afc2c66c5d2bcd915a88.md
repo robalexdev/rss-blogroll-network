@@ -11,7 +11,7 @@ params:
     https://jamesvandyne.com/runs/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,8 +31,6 @@ params:
     id: 4f9c05f836dbd67951ea4fd0d091fcca
   recommended: []
   recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://kandr3s.co/.rss

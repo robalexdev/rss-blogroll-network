@@ -1,102 +1,40 @@
 ---
 title: shellsharks All Content
-date: "2025-11-15T16:03:37-05:00"
+date: "2026-03-16T17:12:57-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
   feedtype: rss
   feedid: caa52475b03fdeb3c4b02dc2d6104e8b
   websites:
-    https://shellsharks.com/: true
-  blogrolls:
-  - https://shellsharks.com/assets/rsrc/shellsharks-blogroll.opml
-  in_blogrolls: []
-  recommended:
-  - https://aaronparecki.com/articles.atom
-  - https://adepts.of0x.cc/feed.xml
-  - https://blog.trailofbits.com/feed/
-  - https://cool-as-heck.blog/feed.atom
-  - https://destructured.net/feed.xml
-  - https://feedpress.me/coryd
-  - https://feeds.feedburner.com/GynvaelColdwindEN
-  - https://flamedfury.com/feed.xml/
-  - https://grepjason.sh/rss.xml
-  - https://jamesg.blog/feeds/posts.xml
-  - https://joanwestenberg.com/blog?format=rss
-  - https://joelchrono.xyz/feed.xml
-  - https://kevq.uk/feed/
-  - https://localghost.dev/feed.xml
-  - https://rknight.me/feed.xml
-  - https://rys.io/en/feed.rss
-  - https://shkspr.mobi/blog/feed/
-  - https://tantek.com/updates.atom
-  - https://wedistribute.org/feed/
-  - https://werd.io/content/all?_t=rss
-  - https://www.macstories.net/feed/
-  - https://www.vzqk50.com/index.xml
-  - https://blog.trailofbits.com/index.xml
-  - https://cool-as-heck.blog/feed.xml
-  - https://www.coryd.dev/feeds/books.xml
-  - https://www.coryd.dev/feeds/links.xml
-  - https://www.coryd.dev/feeds/movies.xml
-  - https://www.coryd.dev/feeds/posts.xml
-  - https://flamedfury.com/bookmarks-feed.xml
-  - https://flamedfury.com/feed.xml
-  - https://flamedfury.com/feeds/bookmarks/atom.xml
-  - https://flamedfury.com/feeds/bookmarks/rss.xml
-  - https://flamedfury.com/feeds/posts/atom.xml
-  - https://flamedfury.com/feeds/posts/rss.xml
-  - https://grepjason.sh/atom.xml
-  - https://gynvael.coldwind.pl/rss_en.php
-  - https://gynvael.coldwind.pl/rss_pl.php
-  - https://kevquirk.com/feed
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
-  - https://localghost.dev/articles.xml
-  - https://localghost.dev/books.xml
-  - https://localghost.dev/games.xml
-  - https://localghost.dev/linkss.xml
-  - https://localghost.dev/musics.xml
-  - https://localghost.dev/podcasts.xml
-  - https://localghost.dev/recipes.xml
-  - https://rknight.me/subscribe/posts/atom.xml
-  - https://rknight.me/subscribe/posts/rss.xml
-  - https://rys.io/es/feed.atom
-  - https://rys.io/es/feed.rss
-  - https://rys.io/feed.atom
-  - https://rys.io/feed.rss
-  - https://rys.io/pl/feed.atom
-  - https://rys.io/pl/feed.rss
-  - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom
-  - https://wedistribute.org/comments/feed/
-  - https://wedistribute.org/feed/podcast
-  - https://wedistribute.org/web-stories/feed/
-  - https://www.macstories.net/?feed=articles-only
+    https://shellsharks.com/: false
+  blogrolls: []
+  in_blogrolls:
+  - title: The Art Of Not Asking Why - Blogroll
+    description: ""
+    id: e79d34746977a283ee12bf2f27dfee7a
+  recommended: []
   recommender: []
   categories:
-  - fediverse
-  - indieweb
-  - infosec
-  relme:
-    https://github.com/shellsharks: true
-    https://infosec.exchange/@shellsharks: true
-    https://mastodon.social/@sass: true
-    https://shellsharks.com/: true
-    https://shellsharks.social/@shellsharks: true
-  last_post_title: Scroll vīgintī et trēs
-  last_post_description: Welcome to volume twenty-three of Scrolls, a newsletter for
-    sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week
-    we make the web better, learn “how to Fedi”, and feed
-  last_post_date: "2025-10-17T08:37:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2025-10-17
+  - ai
+  - blog
+  - list
+  - technology
+  relme: {}
+  last_post_title: "Beep, Boop, Sad \U0001F916 \U0001F61E"
+  last_post_description: |-
+    “AI” is making me, and a lot of other people sad. This collection of links will give you an idea why…
+
+    ⚠️ WARNING!: Click on these links at your own peril. They’re likely to make you even
+  last_post_date: "2026-03-13T10:07:00-04:00"
+  last_post_link: https://shellsharks.com/ai-wall-of-sad
   last_post_categories:
-  - fediverse
-  - indieweb
-  - infosec
+  - ai
+  - blog
+  - list
+  - technology
   last_post_language: ""
-  last_post_guid: 8efbdbc6ba5a7b621b4b11724658a49f
+  last_post_guid: 985c4ea38a71c0b3fecac5d0bd34d1d1
   score_criteria:
     cats: 0
     description: 3
@@ -104,16 +42,16 @@ params:
     hasContent: 0
     hasPosts: 3
     postcats: 3
-    promoted: 0
-    promotes: 10
-    relme: 2
+    promoted: 5
+    promotes: 0
+    relme: 0
     title: 3
-    website: 2
-  score: 27
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 98
+  postcount: 100
   avgpostlen: 0
 ---

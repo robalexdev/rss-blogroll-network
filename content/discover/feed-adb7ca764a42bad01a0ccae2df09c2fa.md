@@ -10,9 +10,18 @@ params:
     https://news.ycombinator.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
+  - title: Jared subscriptions in feedly Cloud
+    description: ""
+    id: 6b39e96ce2ceb8d2b345d8e2a92bcbe9
   - title: Feeds
     description: ""
     id: 0df775e8ba7b2384cbdfcfc97aa7cf68
+  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
@@ -20,11 +29,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Palestinian boy, 12, describes how Israeli forces killed his family
-    in car
+  last_post_title: 'AlphaEvolve: Gemini-powered coding agent scaling impact across
+    fields'
   last_post_description: Comments
-  last_post_date: "2026-03-16T18:38:14Z"
-  last_post_link: https://www.bbc.com/news/articles/c70n2x7p22do
+  last_post_date: "2026-05-07T15:02:20Z"
+  last_post_link: https://deepmind.google/blog/alphaevolve-impact/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

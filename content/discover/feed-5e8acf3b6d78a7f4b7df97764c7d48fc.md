@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Allocators from C to Zig
-  last_post_description: Exploring allocator design in C, C3, Hare, Odin, Rust, and
-    Zig.
-  last_post_date: "2026-02-12T12:00:00Z"
-  last_post_link: https://antonz.org/allocators/
+  last_post_title: 'Solod v0.1: Go ergonomics, practical stdlib, native C interop'
+  last_post_description: A system-level language with Go syntax and zero runtime.
+  last_post_date: "2026-05-06T11:00:00Z"
+  last_post_link: https://antonz.org/solod-v0-1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fa1c88bb0439a8ff24e2965b9eac95cb
+  last_post_guid: f9d33956a94b31fb1b728caad2f73f0f
   score_criteria:
     cats: 0
     description: 3

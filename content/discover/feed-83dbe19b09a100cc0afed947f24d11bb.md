@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2026-01-31T17:25:52+01:00"
+date: "2026-04-23T10:45:34+02:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml
@@ -10,26 +10,32 @@ params:
     https://molily.de/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories: []
   relme:
     https://molily.de/: true
-  last_post_title: On the environmental impact of AI
-  last_post_description: "Recently, two articles were published and widely shared:\n\n\n
-    \ \n    How much energy does ChatGPT use?\n    Why using ChatGPT is not bad for
-    the environment\n  \n\n\nWhat these articles show is that the"
-  last_post_date: "2025-05-10T00:00:00+02:00"
-  last_post_link: https://molily.de/ai-environment/
+  last_post_title: The Power of Understanding
+  last_post_description: This post describes my personal approach to software development.
+    It highlights different aspects that are not strongly connected but all affected
+    by generative AI – a topic I’m not particularly
+  last_post_date: "2026-04-08T00:00:00+02:00"
+  last_post_link: https://molily.de/understanding/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0246bed9df097c7097a8e963ee4d74f
+  last_post_guid: ee0c01f565f939236700ab067a7c0c52
   score_criteria:
     cats: 0
     description: 3

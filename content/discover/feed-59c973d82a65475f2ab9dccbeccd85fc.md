@@ -25,6 +25,9 @@ params:
   - title: Fever // Security
     description: ""
     id: 22a3d734be523c81d57cd4e2221c5d3e
+  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
   recommended: []
   recommender: []
   categories: []

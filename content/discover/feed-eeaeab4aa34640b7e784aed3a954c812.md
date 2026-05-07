@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Digital Excommunication
-  last_post_description: I was listening to a Radio24 program1 and the topic immediately
-    struck me. The episode is titled “La scomunica digitale”2 (Italian for Digital
-    Excommunication). In that episode, the radio host
-  last_post_date: "2026-01-27T08:00:00Z"
-  last_post_link: https://pgaleone.eu/europe/2026/01/27/digital-excommunication/
+  last_post_title: Paying Google to Hack macOS Users?
+  last_post_description: 'There is a horrible trend in the software industry: installing
+    software with curl | shell. People are encouraged to blindly execute scripts downloaded
+    from the internet. What could go'
+  last_post_date: "2026-04-12T01:00:00Z"
+  last_post_link: https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b0a7d840480a2cf1d4a4f727e7fc6358
+  last_post_guid: 4c035ac891aa8f436dd721e37f9f27fd
   score_criteria:
     cats: 0
     description: 3

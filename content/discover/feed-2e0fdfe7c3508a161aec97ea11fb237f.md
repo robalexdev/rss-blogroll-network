@@ -11,6 +11,9 @@ params:
     https://dylanbeattie.net/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: Wikidata Web Feed Export
+    description: An export of all web feeds seen in the Wikidata dataset
+    id: c5982e7d50e6132f3bca6cb24d3d0c18
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -21,15 +24,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Learning Claude Code, Part 1
-  last_post_description: I’ve been doing a series of live streams with Emmz Rendle
-    over the last few weeks, getting up and running with Claude Code and using AI
-    agents to write software. It’s been really interesting, but
-  last_post_date: "2026-03-10T12:30:00Z"
-  last_post_link: https://dylanbeattie.net/2026/03/10/learning-claude-code-part-1.html
+  last_post_title: 'Don''t Reinvent The Wheel: Use What Works'
+  last_post_description: |-
+    “Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.”
+
+
+    When Jeff Goldblum’s rock star mathematician - sorry, chaotician - spoke
+  last_post_date: "2026-04-09T11:19:00Z"
+  last_post_link: https://dylanbeattie.net/2026/04/09/don-t-reinvent-the-wheel-use-what-works.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 87560cde40cb029c6aff0b75f59f12b7
+  last_post_guid: f3149c454a2bd385e1a60ef9379f0455
   score_criteria:
     cats: 0
     description: 3

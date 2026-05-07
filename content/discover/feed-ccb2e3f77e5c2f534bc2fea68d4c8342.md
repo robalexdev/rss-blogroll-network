@@ -1,6 +1,6 @@
 ---
 title: lottia notes
-date: "2025-07-26T05:10:00Z"
+date: "2026-04-19T02:10:00Z"
 description: ""
 params:
   feedlink: https://lottia.net/notes/atom.xml
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://lottia.net/notes/: true
-  last_post_title: Fortune habits in Nix
+  last_post_title: Fluent jj / aggressive aliasing
   last_post_description: ""
-  last_post_date: "2025-07-26T05:10:00Z"
-  last_post_link: https://lottia.net/notes/0017-fortune-habits-in-nix.html
+  last_post_date: "2026-04-19T02:10:00Z"
+  last_post_link: https://lottia.net/notes/0018-fluent-jj.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26b96453a89e94f1417c2c73266745ef
+  last_post_guid: 7bf916bd97455ff9ef1455641d1fa4da
   score_criteria:
     cats: 0
     description: 0

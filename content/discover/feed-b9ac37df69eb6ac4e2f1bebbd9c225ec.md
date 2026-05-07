@@ -11,6 +11,12 @@ params:
     https://davidwalsh.name/: false
   blogrolls: []
   in_blogrolls:
+  - title: Engineering Blogs
+    description: ""
+    id: 1b0144a91f411625c83bbd47a9f5ef9e
+  - title: Engineering Blogs
+    description: ""
+    id: 317142854d8813fd4e5e51d1a364b681
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -23,6 +29,9 @@ params:
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories:

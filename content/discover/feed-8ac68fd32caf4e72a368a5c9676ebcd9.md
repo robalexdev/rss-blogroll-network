@@ -1,6 +1,6 @@
 ---
 title: Andrew Ayer - Blog
-date: "2026-02-19T12:25:21Z"
+date: "2026-04-29T15:55:13Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
@@ -33,13 +33,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why IP Address Certificates Are Dangerous and Usually Unnecessary
+  last_post_title: 'FastCGI: 30 Years Old and Still the Better Protocol for Reverse
+    Proxies'
   last_post_description: ""
-  last_post_date: "2026-02-19T12:25:21Z"
-  last_post_link: https://www.agwa.name/blog/post/ip_address_certs
+  last_post_date: "2026-04-29T15:55:13Z"
+  last_post_link: https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 422fbdfefdfe420e01ca84544695e27d
+  last_post_guid: e07a032cd456477ebd6b9489c611d5d1
   score_criteria:
     cats: 0
     description: 0

@@ -10,7 +10,7 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,20 +28,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Webdesign
+  - Misc
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: How to Create Wavy Shapes & Patterns in CSS
-  last_post_description: "How to Create Wavy Shapes & Patterns in CSS\n\n\n\t(via)\n\nThanks
-    for reading this post via RSS. You're awesome ♥️"
-  last_post_date: "2026-03-07T18:05:34+01:00"
-  last_post_link: https://blog.x-way.org/Webdesign/2026/03/07/How-to-Create-Wavy-Shapes-amp-Patterns-in-CSS.html
+  last_post_title: '"Nothing" is the secret to structuring your work'
+  last_post_description: "The next time you begin your workday, try this: clear your
+    work surface completely. Close all browser tabs. Create a fresh page in your notebook.
+    Open only the one file you need.\n\tIt might feel"
+  last_post_date: "2026-05-07T16:25:06+02:00"
+  last_post_link: https://blog.x-way.org/Misc/2026/05/07/Nothing-is-the-secret-to-structuring-your-work.html
   last_post_categories:
-  - Webdesign
+  - Misc
   last_post_language: ""
-  last_post_guid: cd3b3e2ee743971fbde0b637d676cfcf
+  last_post_guid: 9a70a353c7370cebd3d73aa75124f492
   score_criteria:
     cats: 0
     description: 3

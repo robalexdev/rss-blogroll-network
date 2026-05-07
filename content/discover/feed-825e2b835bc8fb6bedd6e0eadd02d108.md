@@ -14,7 +14,7 @@ params:
     https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll

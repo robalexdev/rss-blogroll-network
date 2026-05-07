@@ -20,7 +20,6 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   categories:
   - Hudson Valley News
   - New York News

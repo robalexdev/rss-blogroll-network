@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2026-02-02T19:16:23+01:00"
+date: "2026-04-03T18:54:03+02:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/

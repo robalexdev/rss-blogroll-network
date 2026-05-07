@@ -20,7 +20,6 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
   last_post_title: Can Africa succeed where India failed with the $40 smartphone?

@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2026-03-06T12:34:04Z"
+date: "2026-03-29T09:45:05Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -10,6 +10,9 @@ params:
     https://dustycloud.org/: false
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

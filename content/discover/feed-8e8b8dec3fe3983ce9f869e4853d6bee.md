@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-03-15T15:36:39Z"
+date: "2026-04-24T12:41:19Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -22,16 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 投资
+  - 区块链
   relme: {}
-  last_post_title: 利息，套利，交易策略，金融市场
-  last_post_description: 资金费率套利资金费率套利是一种没有风险、保本的套利方式。我一开始尝试自己写脚本来运行策略，后来发现 Binance
-  last_post_date: "2026-03-15T15:36:39Z"
-  last_post_link: https://smallyu.net/2026/03/02/%E5%88%A9%E6%81%AF%EF%BC%8C%E5%A5%97%E5%88%A9%EF%BC%8C%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%EF%BC%8C%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/
+  last_post_title: RISC-V 虚拟机无法代替 EVM 虚拟机
+  last_post_description: |-
+    RISC-V 太复杂，非常依赖于虚拟机沙盒环境的标准化，但是现在还没有统一的规范
+    EVM
+  last_post_date: "2026-04-24T12:41:19Z"
+  last_post_link: https://smallyu.net/2026/04/24/RISC-V%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%97%A0%E6%B3%95%E4%BB%A3%E6%9B%BFEVM%E8%99%9A%E6%8B%9F%E6%9C%BA/
   last_post_categories:
-  - 投资
+  - 区块链
   last_post_language: ""
-  last_post_guid: e1fe1c5bfbb776733fb30299854c941b
+  last_post_guid: 167f4be8b13b90cf976581852f4cc767
   score_criteria:
     cats: 0
     description: 3

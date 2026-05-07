@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: It still doesn’t look like there’s an AI bubble
-  last_post_description: Anthropic's annualized revenue doubled in just two months.
-  last_post_date: "2026-03-16T15:26:57Z"
-  last_post_link: https://www.understandingai.org/p/it-still-doesnt-look-like-theres
+  last_post_title: I don’t think we are close to “AI scientists”
+  last_post_description: Today's AI agents are not designed to extract deep insights
+    from new observations.
+  last_post_date: "2026-05-06T20:31:32Z"
+  last_post_link: https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 159142ebe1bfbed1338942c665d1838d
+  last_post_guid: 193f2fa04e21bae4f726775e594fb7e0
   score_criteria:
     cats: 0
     description: 3

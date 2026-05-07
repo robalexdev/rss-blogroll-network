@@ -10,6 +10,9 @@ params:
     https://p4bl0.net/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Planète April
     description: ""
     id: 02d0c8b82c7ee834d3f2cfb7fec70c04

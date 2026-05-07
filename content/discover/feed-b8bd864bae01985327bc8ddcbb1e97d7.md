@@ -16,10 +16,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '#css-hacks #bookmarklets #style…'
-  last_post_description: "I'm modding website! \n I don't know you, but browsing the
-    web I'm very often landing on a website or a web-app where I'd really like to
-    be able to tweak the design, or even add a feature or a new"
+  last_post_title: I'm customizing websites, addin…
+  last_post_description: "I'm customizing websites, adding moddified look and feel
+    and behaviours to them \n I don't know you, but browsing the web I'm very often
+    landing on a website or a web-app where I'd really like to be"
   last_post_date: "2026-03-10T00:00:00Z"
   last_post_link: https://villepreux.net/blog/webdev/web-apps-modding
   last_post_categories: []

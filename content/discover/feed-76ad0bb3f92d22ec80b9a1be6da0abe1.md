@@ -15,34 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - emacs
-  - org
+  - french
   relme: {}
-  last_post_title: 'Org Mode: Export HTML, copy files, and serve the results via simple-httpd
-    so that media files work'
-  last_post_description: In Org Mode, when you use "Export to HTML - As HTML file
-    and open", the resulting HTML file is loaded using a file:// URL. This means you
-    can't load any media files. In my post about pronunciation
-  last_post_date: "2026-03-14T20:43:37Z"
-  last_post_link: https://sachachua.com/blog/2026/03/org-mode-export-html-copy-files-and-serve-the-results-via-simple-httpd-so-that-media-files-work/
+  last_post_title: La semaine du 27 avril au 3 mai
+  last_post_description: |-
+    Pour le petit-déjeuner, ma fille a préparé une grande omelette en utilisant six œufs. On s'est régalés.
+
+
+
+    Ma fille était grincheuse parce que j'ai attiré son attention sur son agitation et
+  last_post_date: "2026-05-06T10:16:43Z"
+  last_post_link: https://sachachua.com/blog/2026/05/la-semaine-du-27-avril-au-3-mai/
   last_post_categories:
-  - emacs
-  - org
+  - french
   last_post_language: ""
-  last_post_guid: c62a9e6d49bb151b2baf7c0426292d1d
+  last_post_guid: bd009616d6f149a6eabef7c51c4f62b6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,6 +10,9 @@ params:
     https://barryfrost.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -21,15 +24,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 238 - Streak
-  last_post_description: I picked up my two new pairs of reading glasses from Boots.
-    I now have glasses by my bed and on my desk. I can manage fine without them, but
-    reading and laptopping is noticeably clearer. I just need
-  last_post_date: "2026-03-16T14:43:36Z"
-  last_post_link: https://barryfrost.com/2026/03/week-238-streak
+  last_post_title: Week 245 - Lights
+  last_post_description: For L's birthday in February I bought her outdoor string
+    lights for the garden. This weekend her festoon poles arrived so we could experiment
+    with hanging them along one hedge. She now wants more for
+  last_post_date: "2026-05-04T17:17:46Z"
+  last_post_link: https://barryfrost.com/2026/05/week-245-lights
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66ffac21d05872438a108e22df015206
+  last_post_guid: b78a4dec9361bcf040b105dcc106e69b
   score_criteria:
     cats: 0
     description: 3

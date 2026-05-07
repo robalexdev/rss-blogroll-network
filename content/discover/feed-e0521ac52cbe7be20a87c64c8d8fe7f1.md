@@ -10,7 +10,10 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: Podcast Subscriptions
+    description: ""
+    id: 9eef477b7832eb8b3bfff0632096240c
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   recommended: []

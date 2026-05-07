@@ -19,18 +19,21 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: Orchid ORC—1
+  last_post_title: brrr
   last_post_description: ""
-  last_post_date: "2025-11-16T12:51:43Z"
-  last_post_link: https://telepathicinstruments.com/products/orchid-orc-1
+  last_post_date: "2026-03-25T19:51:38Z"
+  last_post_link: https://brrr.now/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 786b8e9dc0f4a2d8992bf32b3497bb6b
+  last_post_guid: 0e9b13df3b470567a183f7e0619dd345
   score_criteria:
     cats: 0
     description: 3

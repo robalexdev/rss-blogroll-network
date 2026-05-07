@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2025-12-29T00:00:00Z"
+date: "2026-04-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://log.schemescape.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,13 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Beating myself at chess
-  last_post_description: 'Or: programming a chess AI without any preparation whatsoever.'
-  last_post_date: "2025-12-29T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/diy/beating-myself-at-chess.html
+  last_post_title: Personal web apps, part 1
+  last_post_description: These are my thoughts on choosing infrastructure for personal
+    web apps.
+  last_post_date: "2026-04-01T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/diy/personal-web-apps.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7597398ecd290ca3a6a9f26873977f02
+  last_post_guid: 4bb79003ab4ac808d32b2d945565b10d
   score_criteria:
     cats: 0
     description: 0

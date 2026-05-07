@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2026-03-16T09:20:44Z"
+date: "2026-05-07T09:50:05Z"
 description: Independent software developer
 params:
   feedlink: https://albertogalca.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://albertogalca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

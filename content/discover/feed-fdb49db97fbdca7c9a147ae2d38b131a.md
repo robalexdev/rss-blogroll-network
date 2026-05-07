@@ -15,11 +15,12 @@ params:
   - title: Frank Meeuwsen - Blogroll
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
+  - title: Ton's Blogroll (human and machine readable, you can import this file into
+      your feed reader)
+    description: ""
+    id: 03553abc85517218f421d95a82a6f691
   recommended: []
-  recommender:
-  - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed/
+  recommender: []
   categories:
   - Algemeen
   relme:

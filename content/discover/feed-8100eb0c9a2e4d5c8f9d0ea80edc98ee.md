@@ -10,12 +10,15 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
+  - title: Engineering Blogs
+    description: ""
+    id: 317142854d8813fd4e5e51d1a364b681
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.14.
@@ -39,36 +42,43 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Blogs and Blogging
+  - Apple
   - Career
-  - Ideas
-  - Working
+  - Compatibility
+  - Information architecture
+  - OSX
+  - UX
+  - Usability
+  - User Experience
+  - Zeldman
+  - architecture
   - glamorous
-  - social media
-  - work
-  - writing
+  - webdesign
   relme:
     https://zeldman.com/: true
-  last_post_title: Too Many Notes
-  last_post_description: Lately, in work conversations, I find myself fighting a lifelong
-    tendency to provide way more context than is absolutely required. If you ask me
-    to okay your work, for example, I may respond with an
-  last_post_date: "2026-03-16T10:28:29Z"
-  last_post_link: https://zeldman.com/2026/03/16/too-many-notes/
+  last_post_title: 'My UX Superpower: Nothing Works!'
+  last_post_description: Maybe I’m special. Or unlucky. But things that supposedly
+    work intuitively for most users tend to fail spectacularly for me.  After stints
+    in academia, journalism, advertising, and music, I poured
+  last_post_date: "2026-04-20T15:48:32Z"
+  last_post_link: https://zeldman.com/2026/04/20/my-ux-superpower-nothing-works/
   last_post_categories:
-  - Blogs and Blogging
+  - Apple
   - Career
-  - Ideas
-  - Working
+  - Compatibility
+  - Information architecture
+  - OSX
+  - UX
+  - Usability
+  - User Experience
+  - Zeldman
+  - architecture
   - glamorous
-  - social media
-  - work
-  - writing
+  - webdesign
   last_post_language: ""
-  last_post_guid: 0c775641093c24fdf2c179ba7a17900f
+  last_post_guid: bf46f3caef2b4a10c858b0acf66fd0a2
   score_criteria:
     cats: 0
     description: 3

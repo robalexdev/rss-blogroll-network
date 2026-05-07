@@ -26,15 +26,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Tradovate 平台使用指南：从入门到精通
+  last_post_title: 介绍一下我做的 AI 中转站 4AICode
   last_post_description: |-
     引言
-    如果你正在参加 Topstep 考试，或者打算尝试海外期货交易，那么 Tradovate 是一个你绕不开的交易平台。Tradovate 不仅是 Topstep
-  last_post_date: "2026-02-04T20:55:00+08:00"
-  last_post_link: https://blog.forecho.com/tradovate-guide.html
+    先上地址：
+
+    网站：4aicode.com
+
+    4AICode 是我新做的一个 AI 中转站，主要面向 Vibe Coding 场景，目前支持 ChatGPT AI 模型和 gpt-image-2
+  last_post_date: "2026-05-05T10:00:00+08:00"
+  last_post_link: https://blog.forecho.com/introducing-4aicode-ai-proxy.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 79f804a4d0407de0480b7ec81dbade1b
+  last_post_guid: 79d5da549bb9d6807f38eb9eeec76319
   score_criteria:
     cats: 0
     description: 3

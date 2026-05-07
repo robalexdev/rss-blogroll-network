@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2026-03-16T09:45:44Z"
+date: "2026-04-29T12:20:30Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -29,13 +29,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: How I fought my smartphone addiction
+  last_post_title: The Social Smolnet
   last_post_description: ""
-  last_post_date: "2026-03-13T00:00:00Z"
-  last_post_link: https://ploum.net/2026-03-13-phone_addiction.html
+  last_post_date: "2026-03-20T00:00:00Z"
+  last_post_link: https://ploum.net/2026-03-20-social-smolnet.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e4f551a8fb91beeba0206ae64aa4625e
+  last_post_guid: 5322d2621878b73e4e70fe6ba577fc70
   score_criteria:
     cats: 0
     description: 3

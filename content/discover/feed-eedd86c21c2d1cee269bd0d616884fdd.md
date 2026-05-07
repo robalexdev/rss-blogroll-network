@@ -11,6 +11,9 @@ params:
     https://adam.younglogic.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,24 +23,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - RBAC
-  - SELinux
+  - Linux
   - Software
-  - Sysadmin
+  - shell
   relme: {}
-  last_post_title: LImiting What an Agent can do
-  last_post_description: I do not work with AI tools. This is not advice from experience
-    of working with AI. It is advice from working with access controls in general.
-    Any agent has responsibility and authority.
-  last_post_date: "2026-03-02T22:40:38Z"
-  last_post_link: https://adam.younglogic.com/2026/03/limiting-what-an-agent-can-do/
+  last_post_title: Selecting a subset of files for ctags
+  last_post_description: 'I usually don’t want all of the files in the linux Kernel
+    for my ctags. Sometimes I want a cvery small subset: a set of C files and the
+    included header files. #!/bin/sh for CFILE in'
+  last_post_date: "2026-04-23T17:11:24Z"
+  last_post_link: https://adam.younglogic.com/2026/04/selecting-a-subset-of-files-for-ctags/
   last_post_categories:
-  - RBAC
-  - SELinux
+  - Linux
   - Software
-  - Sysadmin
+  - shell
   last_post_language: ""
-  last_post_guid: 5d5e623f786d035f51e169994f7a42b5
+  last_post_guid: 02c1ac79db7f0973c2726268083e5946
   score_criteria:
     cats: 0
     description: 3

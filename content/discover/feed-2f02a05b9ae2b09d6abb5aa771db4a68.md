@@ -11,6 +11,12 @@ params:
     https://go.dev/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
+  - title: Engineering Blogs
+    description: ""
+    id: 317142854d8813fd4e5e51d1a364b681
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -28,8 +34,6 @@ params:
   - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   categories: []

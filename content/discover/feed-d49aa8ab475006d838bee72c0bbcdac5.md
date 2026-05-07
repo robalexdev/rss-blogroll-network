@@ -10,6 +10,9 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,33 +23,42 @@ params:
   recommender: []
   categories:
   - a.i.
-  - software development
+  - context engineering
+  - cress
+  - goals
+  - requirements
+  - tdd
+  - testing
   relme: {}
-  last_post_title: 'The AI-Ready Software Developer #21 – Stuck In A “Doom Loop”?
-    Drop A Gear'
-  last_post_description: I find it helpful to visualise agentic workflows as sequences
-    of dice throws. Take the now-popular “Ralph Wiggum loop“. You want 7. The agent
-    throws the dice, and it’s 5. That fails your test
-  last_post_date: "2026-03-11T07:14:14Z"
-  last_post_link: https://codemanship.wordpress.com/2026/03/11/the-ai-ready-software-developer-21-stuck-in-a-doom-loop-drop-a-gear/
+  last_post_title: CRESS Principles for Context Engineering – R is for Refutable
+  last_post_description: If speculative ideas can not be tested, they’re not science;
+    they don’t even rise to the level of being wrong. Wolfgang Pauli When we interact
+    with a language model, we’re communicating in
+  last_post_date: "2026-05-07T06:39:13Z"
+  last_post_link: https://codemanship.wordpress.com/2026/05/07/cress-principles-for-context-engineering-r-is-for-refutable/
   last_post_categories:
   - a.i.
-  - software development
+  - context engineering
+  - cress
+  - goals
+  - requirements
+  - tdd
+  - testing
   last_post_language: ""
-  last_post_guid: ee0b31c7eb9733c7733bb0eff7edeacc
+  last_post_guid: b8321925e71426c1124b4307ff6c8521
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

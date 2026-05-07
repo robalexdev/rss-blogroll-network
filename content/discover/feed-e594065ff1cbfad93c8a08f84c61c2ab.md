@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2026-02-10T08:25:44Z"
+date: "2026-04-13T07:42:58Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -25,35 +25,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 思想汇报
-  - 说过的话
+  - Hexo
+  - Valine
+  - Waline
+  - 与代码
   relme: {}
-  last_post_title: 第三十四年立春
-  last_post_description: !!binary |
-    56uL5pil5Lmf5omN5rKh6L+H5Y675Yeg5aSp77yM5bCx6L+Y5pyJ5Yeg5aSp6KaB6L+H5b
-    m05LqG77yM5LuK5bm06L+H5bm05q+U5Lul5b6A6YO95pma5LiA5Lqb77yM55yL5LqG55yL
-    5aSp5rCU6aKE5oql77yM6L+H5bm05pe25YCZ5LiN5aSq5Ya377yM5biM5pyb5LiN6KaB5L
-    iL6Zuo77yM5LiN6KaB6Zuo5aS56Zuq77yM6Zuq5Y+v5Lul5LiL5LiA5Lo=
-  last_post_date: "2026-02-10T08:25:44Z"
-  last_post_link: https://102no.com/2026/02/10/34th-lichun/
+  last_post_title: "博客评论从 Valine 迁移 到 Waline\U0001F4AC"
+  last_post_description: 前些日子收到了一个「关于 LeanCloud
+  last_post_date: "2026-04-13T07:42:58Z"
+  last_post_link: https://102no.com/2026/04/10/blog-comment-Valine-to-Waline/
   last_post_categories:
-  - 思想汇报
-  - 说过的话
+  - Hexo
+  - Valine
+  - Waline
+  - 与代码
   last_post_language: ""
-  last_post_guid: 37d76e04e72fcebe43d72db41b3f9e81
+  last_post_guid: d667cc5d8f3cf00e9c7c31d6b7c14a0f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 8d429bbca05cb036d3dfd4e02f94acfb
   websites:
-    https://www.moserware.com/: true
+    https://www.moserware.com/: false
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -38,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 13
+    website: 1
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

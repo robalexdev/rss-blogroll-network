@@ -25,7 +25,6 @@ params:
   - Docker
   - Linux
   relme:
-    https://github.com/AlliotTech: true
     https://www.iots.vip/: true
   last_post_title: Docker 代理配置机制与作用域
   last_post_description: Docker 中的代理配置存在多个作用层级, 不同配置方式影响的范围完全不同。本文基于官方文档，对各层代理机制梳理说明,

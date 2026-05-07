@@ -19,24 +19,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 互联网
-  - 域名
-  - 术说
+  - 哲学
+  - 图个乐
+  - 形下
   relme: {}
-  last_post_title: 为什么域名没用了，还是那么多人抢？
+  last_post_title: 把“表达”当成交差，就已经没什么表达了
   last_post_description: !!binary |
-    5q+P5b2T5pyJ5Lq65Zyo6K665Z2b5LiK5Y+R6LW35YWz5LqO5Z+f5ZCN55qE6K6o6K665p
-    e277yM5aSn5qaC5bCx5pyJ5Lq656uZ5Ye65p2l6K+077ya546w5Zyo5piv56e75Yqo5LqS
-    6IGU572R5pe25Luj77yM5Z+f5ZCN5rKh55So5LqG77yM6LCB6L+Y5Lya5omL6L6T5Z+f5Z
-    CN5ZGi77yf5Lul5q2k5p2l5ZCm5a6a5Z+f5ZCN55qE5Lu35YC844CC6L8=
-  last_post_date: "2026-01-03T06:24:55Z"
-  last_post_link: https://www.ntiy.com/2326.html
+    5pyJ5Lqb5Lq65YaZ5LqG5b6I5aSa5Lic6KW/77yM5L2G5Y205LiN5piv5Li65LqG6KGo6L
+    6+77yM5pu05YOP5piv5Li65LqG5a6M5oiQ5p+Q56eN5Lu75Yqh44CC5LuK5aSp5YaZ5LiA
+    56+H77yM6K+B5piO6Ieq5bex6L+Y5rKh5q2744CC5piO5aSp5Y+R5LiA5p2h77yM6K+B5p
+    iO6Ieq5bex6L+Y5Zyo5pu05paw44CC6Iez5LqO5Yiw5bqV5pyJ5rKh5pw=
+  last_post_date: "2026-03-24T13:02:05Z"
+  last_post_link: https://www.ntiy.com/2348.html
   last_post_categories:
-  - 互联网
-  - 域名
-  - 术说
+  - 哲学
+  - 图个乐
+  - 形下
   last_post_language: ""
-  last_post_guid: 6ca67940135365283003f70fab3a0eb3
+  last_post_guid: 94890250c3207532d0adf2a9e2d77032
   score_criteria:
     cats: 0
     description: 3

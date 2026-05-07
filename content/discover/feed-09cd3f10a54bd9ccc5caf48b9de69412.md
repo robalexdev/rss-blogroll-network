@@ -6,15 +6,19 @@ params:
   feedlink: https://kevquirk.com/feed
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
-  websites: {}
+  websites:
+    https://kevquirk.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -30,7 +34,7 @@ params:
   - title: Blogroll OPML
     description: ""
     id: 19ff37d265d6a31551a5d17493886dde
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: kiko.io's /Blogroll
@@ -55,8 +59,6 @@ params:
   - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://lmika.org/feed.xml
@@ -64,7 +66,9 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories: []
-  relme: {}
+  relme:
+    https://fosstodon.org/@kev: true
+    https://kevquirk.com/: true
   last_post_title: Fat Boy - Round 2
   last_post_description: |-
     Back in 2024 I went through the process of losing weight, and was fairly successful. I went from ~111kg (244lbs) to ~103kg (226lbs). My target was 100kg (220lbs), so I got very close.
@@ -83,10 +87,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

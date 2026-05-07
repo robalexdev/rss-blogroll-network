@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   recommended: []

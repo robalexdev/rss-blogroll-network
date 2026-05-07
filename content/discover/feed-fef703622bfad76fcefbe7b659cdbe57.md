@@ -12,7 +12,7 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -27,7 +27,7 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
@@ -55,38 +55,36 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - general
-  - musings
-  - swim2026
+  - misc
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Safety Warning
-  last_post_description: The panorama from today There were a couple on the edge of
-    the small cliff that overlooks PB. It’s a part of the landscape that collapses.
-    There’s signage that says “UNSTABLE CLIFFS.”
-  last_post_date: "2026-03-16T03:11:09Z"
-  last_post_link: https://artlung.com/blog/2026/03/15/safety-warning/
+  last_post_title: “You were due”
+  last_post_description: I went to the beach Saturday. We washed Gwen Saturday. She
+    was delighted. We watched Groundhog Day and it was–as always–excellent. Again.
+    My art piece Galletas de Mar pero no comer sold Sunday.
+  last_post_date: "2026-05-04T04:07:41Z"
+  last_post_link: https://artlung.com/blog/2026/05/03/you-were-due/
   last_post_categories:
   - general
-  - musings
-  - swim2026
+  - misc
   last_post_language: ""
-  last_post_guid: fa5e6ccbdc82c89aa22412f982dd3268
+  last_post_guid: 289c922d90d8926579bf72feed775800
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

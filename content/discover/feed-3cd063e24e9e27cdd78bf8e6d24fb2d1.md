@@ -22,17 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 业余无线电入门
-  last_post_description: !!binary |
-    57yY6LW3CuS7juWGm+S6i+mihuWfn+S4reeahOmAmuS/oe+8jOWIsOacq+S4lumimOadkO
-    W9seinhuS4reeahOmAmuiBlO+8jOWGjeWIsOi2iumHjuS4reeahOi9pumYn+mAmuivne+8
-    jOmDveiuqeaIkeWvueOAjOaXoOe6v+eUteOAjei/memhueaKgOacr+aEn+WIsOmrmOe6p+
-    WSjOeCq+mFt+OAguWPr+iDveWcqOabtOWkmuS6uueahOecvOS4reaXoOc=
-  last_post_date: "2025-10-25T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2025/10/amateur-radio-introduction/
+  last_post_title: LLM Token 消耗节省计划
+  last_post_description: |-
+    模型价格
+    我在之前的文章「AI
+  last_post_date: "2026-04-25T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2026/04/how-to-save-token-for-llm/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66e9a6dda346bf0dbb086db6b7481b1d
+  last_post_guid: 1e7faa7f7aa90e8a9413bd7c1ba53ae1
   score_criteria:
     cats: 0
     description: 3

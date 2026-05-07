@@ -1,5 +1,5 @@
 ---
-title: Paranoid Android
+title: A Matriz
 date: "2025-08-04T00:00:00Z"
 description: ""
 params:

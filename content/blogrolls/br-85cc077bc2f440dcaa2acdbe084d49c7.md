@@ -1,5 +1,5 @@
 ---
-title: Liferea Default Feed List
+title: Liferea Default Feed List - English
 date: ""
 description: ""
 params:

@@ -8,13 +8,15 @@ params:
   feedtype: rss
   feedid: 90a89da6bc4dc3f55e0d432b9bbdf505
   websites:
-    https://adactio.com/: false
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
@@ -36,58 +38,48 @@ params:
   - title: Simon Carstensen Blogroll
     description: ""
     id: ea1b7316b10d815081161f765266ec3c
+  - title: Ton's Blogroll (human and machine readable, you can import this file into
+      your feed reader)
+    description: ""
+    id: 03553abc85517218f421d95a82a6f691
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
   - https://simonbc.com/feed.xml
   categories:
-  - browsers
+  - clearleft
+  - conferences
+  - delivery
   - design
-  - development
-  - enhancement
-  - fallbacks
-  - fonts
-  - frontend
-  - loading
-  - performance
-  - progressive
-  - speed
-  - standards
-  - subsetting
-  - thesession
-  - type
-  - typography
-  - variable
-  - webfonts
+  - discovery
+  - events
+  - lineup
+  - schedule
+  - talks
+  - uxlondon
+  - workshops
   relme: {}
-  last_post_title: A web font strategy
+  last_post_title: The schedule for UX London 2026
   last_post_description: |-
-    The Session has been online in some form since the late 1990s. That’s long before web fonts existed.
+    There’s just under a month to go until UX London 2026—exciting!
 
-    To begin with, Times New Roman was the only game in town if you wanted serif type on a website.
-  last_post_date: "2026-03-11T14:17:39Z"
-  last_post_link: https://adactio.com/journal/22450
+    You can peruse the full schedule if you need to decide wether you’re coming for just one day or for all three. The event is
+  last_post_date: "2026-05-06T13:36:10Z"
+  last_post_link: https://adactio.com/journal/22554
   last_post_categories:
-  - browsers
+  - clearleft
+  - conferences
+  - delivery
   - design
-  - development
-  - enhancement
-  - fallbacks
-  - fonts
-  - frontend
-  - loading
-  - performance
-  - progressive
-  - speed
-  - standards
-  - subsetting
-  - thesession
-  - type
-  - typography
-  - variable
-  - webfonts
+  - discovery
+  - events
+  - lineup
+  - schedule
+  - talks
+  - uxlondon
+  - workshops
   last_post_language: ""
-  last_post_guid: bbfcd7a74b2a2c1041d87dfe9a6c9005
+  last_post_guid: cbb06f46467f766c122f8f7478e40aa6
   score_criteria:
     cats: 0
     description: 3

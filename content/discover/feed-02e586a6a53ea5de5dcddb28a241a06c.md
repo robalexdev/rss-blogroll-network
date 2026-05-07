@@ -27,16 +27,17 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: chat.est.im launches at 3.14
+  last_post_title: Sentry 替代品 Bugsink 安装配置
   last_post_description: |-
-    Long over due. But finally, it's here.
-    Last year I saw an interesting thread on V2EX that utilize curl -N to display cool ANSI art, and I wondered how to make it "interactive". After a series of
-  last_post_date: "2026-03-14T12:04:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-10
+    如果你像我一样需要一个线上异常 traceback 跟踪工具，又没法忍受 Kafka/ClickHouse/Snuba/Zookeeper 这一坨依赖，那么归根结底有三个选择：
+
+    sentry<10.0
+  last_post_date: "2026-05-06T16:21:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-15
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: 6790b4e427c8d280c135ce5920b666e8
+  last_post_guid: 11d896698af956cc9eecaf5f2204499f
   score_criteria:
     cats: 0
     description: 3

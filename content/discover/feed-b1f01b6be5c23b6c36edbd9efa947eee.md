@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,15 +25,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI Won’t Kill SaaS But It Might Kill The Messy Middle
-  last_post_description: AI won’t kill the SaaS models. OpenAI itself famously runs
-    on Slack and uses countless off-the-shelf tools. There’s simply no point in rebuilding
-    key apps your entire workflow depends on with
-  last_post_date: "2026-03-16T16:50:00Z"
-  last_post_link: https://molodtsov.me/2026/03/ai-wont-kill-saas-but-it-might-kill-the-messy-middle/
+  last_post_title: Readr, Safari-like Reading Mode for Chrome
+  last_post_description: One thing that Safari does well is its Reading Mode. The
+    people who built it are brilliant, and no other browser can truly match the beauty
+    and seamlessness. But I prefer Dia (or any other Chromium
+  last_post_date: "2026-04-29T20:24:00Z"
+  last_post_link: https://molodtsov.me/2026/04/readr-safari-like-reading-mode-for-chrome/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: efad3356299138dd1413d53988115792
+  last_post_guid: d694ed00d9edda8af07629b01133afe3
   score_criteria:
     cats: 0
     description: 3

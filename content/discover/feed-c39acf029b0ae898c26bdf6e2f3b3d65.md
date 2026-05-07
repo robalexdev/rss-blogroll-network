@@ -16,10 +16,11 @@ params:
   - title: ""
     description: ""
     id: 4e2ec23ac536a5d58f2702b4603e3554
+  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
   recommended: []
   recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   categories: []

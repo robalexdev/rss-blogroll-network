@@ -1,7 +1,7 @@
 ---
 title: Drew DeVault's blog
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Blogs on Drew DeVault's blog
+description: Drew DeVault's blog - Blog
 params:
   feedlink: https://drewdevault.com/blog/index.xml
   feedtype: rss
@@ -13,9 +13,12 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Engineering Blogs
+    description: ""
+    id: 317142854d8813fd4e5e51d1a364b681
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -32,16 +35,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The cults of TDD and GenAI
-  last_post_description: |-
-    I’ve gotten a lot of flack throughout my career over my disdain towards
-    test-driven development (TDD). I have met a lot of people who swear by it! And,
-    I have also met a lot of people who insisted
-  last_post_date: "2026-01-29T00:00:00Z"
-  last_post_link: https://drewdevault.com/2026/01/29/2026-01-29-Cult-of-TDD-and-LLMs.html
+  last_post_title: I can't cancel GitHub Copilot
+  last_post_description: Back when Copilot first came out, I immediately disliked
+    it. But I decided to give it a fair shake and tried to evaulate it in good faith.
+    I wasn’t interested in paying for it, but they had a form
+  last_post_date: "2026-05-01T00:00:00Z"
+  last_post_link: https://drewdevault.com/blog/I-cant-cancel-Copilot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 729f991841b2ff3dccfe8af263305c75
+  last_post_guid: bb63803d9396981cccb15fd4abd071b4
   score_criteria:
     cats: 0
     description: 3

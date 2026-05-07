@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://www.davd.io/: true
-  last_post_title: My Linux Setup 2025/2026
-  last_post_description: It’s been a while since I posted my last update on my current
-    hardware and software setup, and there’s a good reason for that. For years, I’ve
-    been stuck in this odd pendulum, switching between
-  last_post_date: "2025-12-02T00:00:00Z"
-  last_post_link: https://www.davd.io/posts/2025-12-02-my-linux-setup-2025-2026/
+  last_post_title: Back on GrapheneOS in 2026
+  last_post_description: |-
+    I have somewhat of a pendulum going on between iOS and GrapheneOS. But just like I switched from macOS to Linux some time ago, I want to run GrapheneOS as my daily driver as well.
+    Part of that is
+  last_post_date: "2026-03-21T00:00:00Z"
+  last_post_link: https://www.davd.io/posts/2026-03-21-back-on-grapheneos-in-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a1f4c80587fb3d9c10c9f46b38f6ba0e
+  last_post_guid: 6db0c2135137606d4548cd130a76d02d
   score_criteria:
     cats: 0
     description: 3

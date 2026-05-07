@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2026-03-16T00:02:14Z"
+date: "2026-05-07T00:02:19Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -20,22 +20,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2026-03-15
+  last_post_title: Daily Hacker News for 2026-05-06
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on March 15, 2026 which have not appeared on any previous
+    on May 06, 2026 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    Python: The Optimization Ladder
+    CARA 2.0 – “I Built a Better Robot Dog”
     (comments)
 
 
-    Baochip-1x: What it is,
-  last_post_date: "2026-03-16T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2026-03-15.html
+    The bottleneck
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2026-05-06.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

@@ -12,6 +12,9 @@ params:
   - title: Blogroll Network Seeds
     description: ""
     id: c33ed4f6ab2b4055fadbfad39d41c36e
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
@@ -20,7 +23,7 @@ params:
   last_post_description: Yesterday, VCU Health (my former employer), again cut off
     access to trans-affirming health care for both children and legal adults (aged
     18). I’m angry and disappointed, and I’m feeling extremely
-  last_post_date: "2025-07-30T07:46:37-05:00"
+  last_post_date: "2025-07-30T08:46:37-04:00"
   last_post_link: https://samdavies.me/2025/07/30/more-cowardice-from-vcu-health.html
   last_post_categories: []
   last_post_language: ""

@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-03-09T00:00:00+01:00"
+date: "2026-05-04T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,6 +10,9 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -22,16 +25,18 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Portuguese variety identification: The bitter lesson'
-  last_post_description: "Given some text in Portuguese, how easy is it to determine
-    if it's from Brazil or Portugal1? For native speakers, this is pretty easy – it's
-    almost a feeling. But for machines: not so much. \nThis"
-  last_post_date: "2026-03-09T00:00:00+01:00"
-  last_post_link: https://duarteocarmo.com/blog/portuguese-variety-identification-the-bitter-lesson.html
+  last_post_title: 'Retrospectiva #7'
+  last_post_description: |-
+    My Hermes agent â€“ Saramago â€“ giving me coaching feedback and looking for the ideal flights for an upcoming trip.
+
+
+    Another month bites the dust. We've been back in Denmark for the past
+  last_post_date: "2026-05-04T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/retrospectiva-7.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 5f0a8ff3b1f4342154317d2f461b2006
+  last_post_guid: 27fdb1d9bc06e202f4c35b07d1940d04
   score_criteria:
     cats: 0
     description: 0

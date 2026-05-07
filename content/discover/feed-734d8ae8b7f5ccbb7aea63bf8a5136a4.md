@@ -10,7 +10,7 @@ params:
     https://somethingaboutmaps.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,16 +24,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: 'Financial Transparency: Print Sales Edition'
-  last_post_description: I make most of my living doing freelance mapping and GIS
-    (and it’s been very busy lately, hence why I’ve not written here in months). Clients
-    come to me and ask me to deliver specific things, and
-  last_post_date: "2026-02-03T01:43:27Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2026/02/02/financial-transparency-print-sales-edition/
+  last_post_title: Urban Relativity
+  last_post_description: It’s been a good while since I wrote a tutorial, so let’s
+    take a moment to learn something new! Today, I’ll show you a way to create scale
+    rankings for cities. This is a technique I have been
+  last_post_date: "2026-03-23T21:59:55Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/03/23/urban-relativity/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 9c39a1e6c96fab53c96368949f91a4c7
+  last_post_guid: 1560d5ef91aac25c21557427d175d370
   score_criteria:
     cats: 0
     description: 0

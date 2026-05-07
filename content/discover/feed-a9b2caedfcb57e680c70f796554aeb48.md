@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Project Management with Gemini CLI
+  last_post_title: Building a Medallion Data Pipeline in Azure with Data Factory,
+    Databricks, and Power BI
   last_post_description: |-
-    Project (or Task) Management
-    In my day job, I work as a product owner for an Advanced Analytics / Data Science team. It’s a bunch of really smart people that use many analytical techniques
-  last_post_date: "2026-02-11T00:00:00Z"
-  last_post_link: https://brettgfitzgerald.com/posts/project-management-with-gemini-cli/
+    Why?
+    I have done very little work in Microsoft Azure. I’m very familiar with Google Cloud Platform and the data analytics and AI tools available there, and I’m somewhat familiar with similar AWS
+  last_post_date: "2026-04-14T16:10:56-04:00"
+  last_post_link: https://brettgfitzgerald.com/posts/first-steps-in-azure/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0760cce4b0d84fb03dd863fc5a9562d1
+  last_post_guid: c1820b77fe9f42117bad54e0c963c816
   score_criteria:
     cats: 0
     description: 3

@@ -21,8 +21,6 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender:
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   categories: []

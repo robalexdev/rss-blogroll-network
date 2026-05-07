@@ -10,6 +10,9 @@ params:
     https://artiss.blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -22,16 +25,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Fixing Amazon Kindle Freezing / Performance Issues
-  last_post_description: Now this is my own opinion, but Amazon seem to make their
-    hardware to an absolute price point. For the sake of keeping costs low, they will
-    produce something which is absolutely fine for the here-and
-  last_post_date: "2026-02-20T09:15:14Z"
-  last_post_link: https://artiss.blog/2026/02/fixing-amazon-kindle-freezing-performance-issues/
+  last_post_title: 'Liverpool: A Magical Mystery Tour'
+  last_post_description: I’ve been to Liverpool once before – back in the early 1990s
+    to watch a football match. I don’t think I saw much of the city, and I have very
+    little memory of it other than the match itself. My
+  last_post_date: "2026-04-12T10:00:13Z"
+  last_post_link: https://artiss.blog/2026/04/liverpool-a-magical-mystery-tour/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: 8322a3026faf870f73f470300f2d6dcd
+  last_post_guid: f5c6dd2318ce08b34cf1113ac5e486da
   score_criteria:
     cats: 0
     description: 3

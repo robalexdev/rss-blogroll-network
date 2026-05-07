@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2026-02-01T18:11:59Z"
+date: "2026-03-31T22:00:30Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss
@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stuff I Dug in 2025
-  last_post_description: The end of the year provides an opportunity to look back
-    on all the media and entertainment I enjoyed over the last 12 months. I like taking
-    some time to reflect on what had an impact on me, and wh
-  last_post_date: "2026-01-07T02:35:00Z"
-  last_post_link: https://flowtwo.io/post/stuff-i-dug-in-2025
+  last_post_title: Fundamentals of Software Architecture
+  last_post_description: A handshake should be firm, but not overpowering. Look the
+    person in the eye; looking away while shaking someone’s hand is a sign of disrespect,
+    and most people will notice that. Also,
+  last_post_date: "2026-03-21T19:02:50Z"
+  last_post_link: https://flowtwo.io/post/fundamentals-of-software-architecture
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2f95b0a4ed7252a070edd776515ad510
+  last_post_guid: 2690d016d9885ddf365eb228239752bf
   score_criteria:
     cats: 0
     description: 3

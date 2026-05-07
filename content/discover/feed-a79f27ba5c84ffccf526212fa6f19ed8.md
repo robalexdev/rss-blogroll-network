@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: a79f27ba5c84ffccf526212fa6f19ed8
   websites:
-    https://chrisbathgate.blogspot.com/: true
+    https://chrisbathgate.blogspot.com/: false
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -16,9 +16,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://chrisbathgate.blogspot.com/: true
-    https://www.blogger.com/profile/06934430413099713038: true
+  relme: {}
   last_post_title: Tac B
   last_post_description: ""
   last_post_date: "2026-02-19T15:31:50-05:00"
@@ -35,10 +33,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

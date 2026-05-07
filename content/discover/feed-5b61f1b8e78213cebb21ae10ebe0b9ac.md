@@ -1,6 +1,6 @@
 ---
 title: Ratfactor Feed
-date: "2026-03-15T00:12:00Z"
+date: "2026-05-03T00:12:00Z"
 description: Dave Gauer's personal website. Mostly technical articles.
 params:
   feedlink: https://ratfactor.com/atom.xml
@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,15 +31,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'OpenBSD Blog #13: Moving ratfactor.com to OpenBSD.amsterdam'
-  last_post_description: This website has moved to a new OS and web server and host!
-    You shouldn't really notice anything different, but there are probably more broken
-    links than usual...
-  last_post_date: "2026-03-15T00:00:00Z"
-  last_post_link: http://ratfactor.com/openbsd/blog-13-moving-to-openbsd-dot-amsterdam
+  last_post_title: The First of a Double-Take
+  last_post_description: |-
+    A fun little creativity/art tip I've been wanting to write for
+                a while...
+  last_post_date: "2026-05-03T00:00:00Z"
+  last_post_link: http://ratfactor.com/cards/first-of-a-double
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c0a1b633f92f57997e5ee89572397d84
+  last_post_guid: 9fd2d72b8d4c29b48e67d44e9cf481fd
   score_criteria:
     cats: 0
     description: 3

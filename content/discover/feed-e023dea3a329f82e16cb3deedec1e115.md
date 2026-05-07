@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-03-16T12:56:30Z"
+date: "2026-03-31T20:16:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://feedpress.me/baldurbjarnason
@@ -15,18 +15,20 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'The two worlds of programming: why developers who make the same
-    observations about LLMs come to opposite conclusions'
+  last_post_title: A massive Easter sale and a preview of my next book (out late 2026)
   last_post_description: ""
-  last_post_date: "2026-03-16T12:56:30Z"
-  last_post_link: https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/
+  last_post_date: "2026-03-31T20:16:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2026/easter-sale-and-the-toy-factory/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0c728cf393fadf2706aa41e5517b1cf9
+  last_post_guid: d53a14530cb844769b65e3e2b1e1b158
   score_criteria:
     cats: 0
     description: 3

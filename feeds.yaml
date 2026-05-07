@@ -12,6 +12,7 @@ feed_urls:
   - https://kagi.com/smallweb/opml
   - https://indieblog.page/opml
   - https://bubbles.town/blogs.opml
+  - https://alexsci.com/opml-exports/wikidata/export.opml
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml

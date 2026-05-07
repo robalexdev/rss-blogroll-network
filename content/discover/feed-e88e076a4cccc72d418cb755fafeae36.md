@@ -10,7 +10,7 @@ params:
     https://jessitron.com/blog/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,33 +25,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - concrete example
+  - Uncategorized
+  - observability
+  - reference
   relme: {}
-  last_post_title: 'Working with AI: Do Things Right'
-  last_post_description: Today, a quick example of introducing determinism when an
-    AI struggles. I give it a simple instruction, it screws it up, I tell it to write
-    a program to do things right.
-  last_post_date: "2026-01-12T18:00:00Z"
-  last_post_link: https://jessitron.com/2026/01/12/making-ai-do-things-right-introduce-determinism/
+  last_post_title: Span or Attribute? in OpenTelemetry custom instrumentation
+  last_post_description: Instead of emitting a log, add attributes to the current
+    span. OpenTelemetry makes this easy, and Honeycomb makes it free. This gets you
+    more data correlation.
+  last_post_date: "2026-04-29T14:38:34Z"
+  last_post_link: https://jessitron.com/2026/04/29/span-or-attribute-in-opentelemetry-custom-instrumentation/
   last_post_categories:
-  - ai
-  - concrete example
+  - Uncategorized
+  - observability
+  - reference
   last_post_language: ""
-  last_post_guid: fc69044e2c0ecc3ca2d52b7b87500b23
+  last_post_guid: 50f2e358e1f7bf7751da8740e0c78562
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

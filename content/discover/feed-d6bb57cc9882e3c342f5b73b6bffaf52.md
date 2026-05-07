@@ -10,7 +10,7 @@ params:
     https://jeffbridgforth.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -22,6 +22,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

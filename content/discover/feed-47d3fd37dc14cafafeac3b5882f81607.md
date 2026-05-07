@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Memories: doing my PhD at Stanford, under John L Hennessy'
-  last_post_description: "When young researchers get together, one topic of conversation
-    is “who supervised your PhD?”\nBack in the day, Rod Burstall was often named.
-    \nAlso mentioned were Robin Milner, Dana Scott and"
-  last_post_date: "2026-02-13T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/02/13/John_Hennessy.html
+  last_post_title: 'Mizar: the first usable proof assistant for mathematics'
+  last_post_description: "In two recent blogposts I have outlined the history of our
+    field,\none on the history of proof assistants and another specifically about
+    earlier work on the \nformalisation of mathematics by machine"
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/05/07/Mizar.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 62cbd66961518515180b79079e4cdbaf
+  last_post_guid: 792507905f4c56b704206e0ab8fde93a
   score_criteria:
     cats: 0
     description: 3

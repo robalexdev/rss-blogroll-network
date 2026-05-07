@@ -34,19 +34,17 @@ params:
   - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
-  - https://janlukas.blog/.min.rss
-  - https://janlukas.blog/.rss
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   categories: []
   relme: {}
-  last_post_title: Vulnerability as a Service
-  last_post_description: OpenClaw being dumb
-  last_post_date: "2026-02-24T11:43:00Z"
-  last_post_link: https://herman.bearblog.dev/vulnerability-as-a-service/
+  last_post_title: The commodification of travel
+  last_post_description: How travel has become an act of collection
+  last_post_date: "2026-04-22T01:28:00Z"
+  last_post_link: https://herman.bearblog.dev/the-commodification-of-travel/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 25f0a45b306a2c74417cdfa3272efd69
+  last_post_guid: 76d164f12f2c948c075f926e7c83c4f4
   score_criteria:
     cats: 0
     description: 3

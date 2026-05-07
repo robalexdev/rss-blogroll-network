@@ -1,6 +1,6 @@
 ---
 title: Lara Callender Hogan
-date: "2026-02-19T17:01:34Z"
+date: "2026-04-22T21:47:05Z"
 description: Lara Hogan, Management Coach and Trainer
 params:
   feedlink: https://larahogan.me/feed.xml
@@ -19,36 +19,42 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender: []
   categories:
   - communication
+  - influence
   - management
   relme: {}
-  last_post_title: Creating momentum when an employee is stuck
-  last_post_description: Many of us are feeling stuck. We’re managing through crisis
-    after crisis, and we’re watching our leaders and our teammates burn out and not
-    be their best selves. I don’t know anybody who’s
-  last_post_date: "2026-01-20T00:00:00Z"
-  last_post_link: http://larahogan.github.io/blog/creating-momentum-when-an-employee-is-stuck/
+  last_post_title: Why can't they just...? Revisited
+  last_post_description: |-
+    (This is an updated version of a post I first wrote in 2017. Given everything happening in tech today, it felt worth dusting off.)
+
+    The question “Why can’t they just…” has been a common
+  last_post_date: "2026-04-22T00:00:00Z"
+  last_post_link: http://larahogan.github.io/blog/why-cant-they-just-revisited/
   last_post_categories:
   - communication
+  - influence
   - management
   last_post_language: ""
-  last_post_guid: 9353db65204bf8a486d38f34681b4ada
+  last_post_guid: acda404f1868aa091738454c212007b8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

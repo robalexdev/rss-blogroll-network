@@ -16,6 +16,9 @@ params:
   - title: ""
     description: ""
     id: 4f9c05f836dbd67951ea4fd0d091fcca
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender:
   - https://kandr3s.co/.rss

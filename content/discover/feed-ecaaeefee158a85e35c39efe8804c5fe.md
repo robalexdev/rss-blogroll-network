@@ -22,18 +22,19 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Really Simple pizza
-  last_post_description: '"It really tastes like a pizza!!"'
-  last_post_date: "2026-03-03T19:31:01Z"
-  last_post_link: https://daveverse.org/2026/03/03/really-simple-pizza/
+  last_post_title: Jeff Bezos as a celebrity
+  last_post_description: Jeff Bezos is of course one of the biggest names in tech,
+    but he doesn’t have much of a public personality. I saw him speak in the early
+    days of Amazon, and in that role, he came off as a great but
+  last_post_date: "2026-05-05T16:05:50Z"
+  last_post_link: https://daveverse.org/2026/05/05/jeff-bezos-as-a-celebrity/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: beac0559c5f2fd32e555cf8dcb6e55ee
+  last_post_guid: 7d8b0dba15687fe4f797613ce1975f83
   score_criteria:
     cats: 0
     description: 3

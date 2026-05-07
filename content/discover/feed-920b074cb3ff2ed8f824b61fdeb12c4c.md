@@ -17,34 +17,37 @@ params:
   recommender: []
   categories:
   - AIGC
-  - AI越用越累
-  - GPT Gemini工具使用焦虑
-  - OpenClaw
-  - YouTube收入下降
-  - setup tax
-  - 专业任务反向降效
-  - 信息焦虑
-  - 配置税setup tax
-  - 验证地狱
+  - AI算力成本和Token消耗
+  - 中国AI免费时代结束
+  - 字节跳动
+  - 字节跳动，故事多
+  - 豆包68元200元500元订阅
+  - 豆包App付费订阅测试
+  - 豆包会员价格
+  - 豆包免费版会降级吗
+  - 豆包收费
   relme: {}
-  last_post_title: AI 越用越累的真相：配置税与验证地狱
-  last_post_description: AI 越用越累、钱反而变少？本文用亲身经历拆解：信息焦虑如何把注意力榨干，配置税（setup tax）让你开工前就先被消耗，验证地狱逼你不断核实
-    AI
-  last_post_date: "2026-03-16T13:37:33Z"
-  last_post_link: https://lukefan.com/2026/03/16/ai-fatigue-income-drop-work-creep-verification-hell-youtube-2025/
+  last_post_title: 豆包68到500元：5层认知差看懂AI收费！
+  last_post_description: !!binary |
+    6LGG5YyF5pS26LS55byV5Y+R5LqJ6K6u77yM5L2G55yf5q2j5YC85b6X5YWz5rOo55qE5L
+    iN5pivNjjlhYPjgIEyMDDlhYPmiJY1MDDlhYPmnIjotLnvvIzogIzmmK/kuK3lm71BSeWF
+    jei0ueaXtuS7o+WPr+iDvei/m+WFpeWIhuWxgumYtuauteOAguacrOaWh+S7juixhuWMhe
+    WFjei0ueeJiOS8muS4jeS8mumZjee6p+OAgUFJ566X5Yqb5oiQ5pys5Lg=
+  last_post_date: "2026-05-07T00:48:50Z"
+  last_post_link: https://lukefan.com/2026/05/07/bytedance-doubao-ai-subscription-pricing/
   last_post_categories:
   - AIGC
-  - AI越用越累
-  - GPT Gemini工具使用焦虑
-  - OpenClaw
-  - YouTube收入下降
-  - setup tax
-  - 专业任务反向降效
-  - 信息焦虑
-  - 配置税setup tax
-  - 验证地狱
+  - AI算力成本和Token消耗
+  - 中国AI免费时代结束
+  - 字节跳动
+  - 字节跳动，故事多
+  - 豆包68元200元500元订阅
+  - 豆包App付费订阅测试
+  - 豆包会员价格
+  - 豆包免费版会降级吗
+  - 豆包收费
   last_post_language: ""
-  last_post_guid: bab3c265eb1ae8b15d56d5606458eab6
+  last_post_guid: 99e5914a837bffe89afe6eb67600d6dc
   score_criteria:
     cats: 0
     description: 3

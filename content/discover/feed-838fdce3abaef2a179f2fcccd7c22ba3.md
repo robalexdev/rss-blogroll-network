@@ -12,7 +12,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
@@ -24,6 +24,9 @@ params:
   - title: nathanUpchurchBlogroll.opml
     description: ""
     id: 48ae6ab9ce91c04f77f8c740eaa6a958
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

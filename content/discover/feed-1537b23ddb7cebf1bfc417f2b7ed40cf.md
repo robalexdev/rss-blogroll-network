@@ -6,10 +6,12 @@ params:
   feedlink: https://jack.bonatak.is/feed.xml
   feedtype: atom
   feedid: 1537b23ddb7cebf1bfc417f2b7ed40cf
-  websites:
-    https://jack.bonatak.is/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -42,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

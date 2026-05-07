@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2026-02-12T13:53:23-05:00"
+date: "2026-05-01T06:53:49-04:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -10,7 +10,7 @@ params:
     https://everythingchanges.us/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,13 +24,13 @@ params:
   categories: []
   relme:
     https://everythingchanges.us/: true
-  last_post_title: Come back
-  last_post_description: A habit is built on the movement of return.
-  last_post_date: "2026-01-20T07:42:00-05:00"
-  last_post_link: https://everythingchanges.us/blog/come-back/
+  last_post_title: Ways of moving
+  last_post_description: Patterns for exploring.
+  last_post_date: "2026-04-14T13:35:00-04:00"
+  last_post_link: https://everythingchanges.us/blog/ways-of-moving/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9b1a4696612fb578fb9d05255943a31e
+  last_post_guid: 573240adcacb2a10ca3d2719587b9ba6
   score_criteria:
     cats: 0
     description: 3

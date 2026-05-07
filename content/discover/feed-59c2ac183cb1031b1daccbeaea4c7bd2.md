@@ -19,26 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bureau of Economic Analysis
-  - New York Times
-  - Statistics
-  - economy
-  - inflation
+  - Bloomberg
+  - Data Sharing
+  - government
+  - privacy
   relme: {}
-  last_post_title: Subbed data source, lower inflation estimate
-  last_post_description: 'For the New York Times, Ben Casselman reports on a previously
-    undisclosed change…Tags: Bureau of Economic Analysis, economy, inflation, New
-    York Times'
-  last_post_date: "2026-03-16T17:46:46Z"
-  last_post_link: https://flowingdata.com/2026/03/16/subbed-data-source-lower-inflation-estimate/
+  last_post_title: State healthcare sites sending data to tech companies
+  last_post_description: 'For Bloomberg, Tanaz Meghjani, Dhruv Mehrotra, and Surya
+    Mattu report sharing of private…Tags: Bloomberg, government, privacy'
+  last_post_date: "2026-05-07T12:15:58Z"
+  last_post_link: https://flowingdata.com/2026/05/07/state-healthcare-sites-sending-data-to-tech-companies/
   last_post_categories:
-  - Bureau of Economic Analysis
-  - New York Times
-  - Statistics
-  - economy
-  - inflation
+  - Bloomberg
+  - Data Sharing
+  - government
+  - privacy
   last_post_language: ""
-  last_post_guid: 3aee52bc9afffbdcd567d295387430b6
+  last_post_guid: bb99b88f558fb563146a26e5fae6df37
   score_criteria:
     cats: 0
     description: 3

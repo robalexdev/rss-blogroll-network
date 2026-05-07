@@ -18,7 +18,6 @@ params:
   recommended: []
   recommender:
   - https://mabbs.github.io/atom.xml
-  - https://mabbs.github.io/rss.xml
   - https://mayx.eu.org/atom.xml
   categories: []
   relme: {}

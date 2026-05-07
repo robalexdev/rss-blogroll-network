@@ -20,7 +20,6 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
   last_post_title: Apple Kicks Off its Golden Anniversary with an Unforgettable Concert

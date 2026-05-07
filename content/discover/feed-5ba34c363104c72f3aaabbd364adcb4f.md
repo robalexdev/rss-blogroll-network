@@ -10,6 +10,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
       by feedlandDatabase v0.8.14.

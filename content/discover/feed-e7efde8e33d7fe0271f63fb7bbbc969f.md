@@ -1,6 +1,6 @@
 ---
 title: Kaffa.im
-date: "2025-10-20T01:59:00+08:00"
+date: "2026-04-15T21:52:00+08:00"
 description: ""
 params:
   feedlink: https://kaffa.im/feeds/all.atom.xml
@@ -19,31 +19,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai-doctor
-  - reading
+  - digital
   relme: {}
-  last_post_title: AI 在常见病上取代医生
-  last_post_description: 试了试 AI 的诊疗水平
-  last_post_date: "2025-10-20T01:59:00+08:00"
-  last_post_link: https://kaffa.im/ai-replace-doctors-common-illness-care.html
+  last_post_title: 寻找数据源头
+  last_post_description: 本文记录了我花费两小时寻找数据源头的事。
+  last_post_date: "2026-04-15T21:52:00+08:00"
+  last_post_link: https://kaffa.im/find-data-source.html
   last_post_categories:
-  - ai-doctor
-  - reading
+  - digital
   last_post_language: ""
-  last_post_guid: 0846cb2082da6ac097dd9fa4529e4bb0
+  last_post_guid: 9391a64802beb7e478e5456b2710c1c1
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

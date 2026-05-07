@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I write my blogs in Obsidian and publish instantly
-  last_post_description: I’ve been using Obsidian for all my writing lately, and it’s
-    been a game changer. The local-first model means everything lives as plain text
-    on my machine, and with the Minimal theme, the
-  last_post_date: "2025-04-23T00:00:00Z"
-  last_post_link: https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/
+  last_post_title: Enough with the echo chambers
+  last_post_description: |-
+    social media is one of the worst things that has happened to humanity. everything was fine until youtube and the old facebook. the algorithm has deteriorated the human mind.
+    llms and chatbots pose an
+  last_post_date: "2026-04-27T00:00:00Z"
+  last_post_link: https://ingau.me/blog/enough-with-the-echo-chambers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c74e141e8b921a6a7ba15ab9547e842
+  last_post_guid: 812d8ecc501820284fa933c631682916
   score_criteria:
     cats: 0
     description: 3

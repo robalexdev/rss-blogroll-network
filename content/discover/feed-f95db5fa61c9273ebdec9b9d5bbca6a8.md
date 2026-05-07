@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-03-16T10:31:18Z"
+date: "2026-05-07T10:51:28Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -34,20 +34,22 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
+  - dependencies
   - open-source
-  - package-managers
-  - satire
+  - security
+  - supply-chain
   relme: {}
-  last_post_title: Guided Meditation for Developers
-  last_post_description: A practice for finding peace in your dependency tree.
-  last_post_date: "2026-03-15T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html
+  last_post_title: Free as in Tribbles
+  last_post_description: The next metaphor after free-as-in-puppy
+  last_post_date: "2026-05-07T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/05/07/free-as-in-tribbles.html
   last_post_categories:
+  - dependencies
   - open-source
-  - package-managers
-  - satire
+  - security
+  - supply-chain
   last_post_language: ""
-  last_post_guid: 464811478e058d2c8717a91d3283c642
+  last_post_guid: 0b178e90768b99b8111da7539a385625
   score_criteria:
     cats: 0
     description: 3

@@ -10,9 +10,18 @@ params:
     https://aerotwist.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Engineering Blogs
+    description: ""
+    id: 1b0144a91f411625c83bbd47a9f5ef9e
+  - title: Engineering Blogs
+    description: ""
+    id: 317142854d8813fd4e5e51d1a364b681
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Frontend Dev Feeds
+    description: ""
+    id: 38149979474709d3c2d6dd1d0b7b71f0
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c

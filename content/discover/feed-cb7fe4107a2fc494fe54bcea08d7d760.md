@@ -1,6 +1,6 @@
 ---
 title: 拾月
-date: "2026-02-23T16:19:00+08:00"
+date: "2026-04-12T16:39:00+08:00"
 description: PC互联网遗民feedId:41359648680482843+userId:44033302527024128
 params:
   feedlink: https://www.skyue.com/feed/
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 回阿里
-  last_post_description: 1月初的微言小义中，我提到从字节离职。这篇文章详细聊聊这事。
-  last_post_date: "2026-02-23T16:19:00+08:00"
-  last_post_link: https://www.skyue.com/26022316.html
+  last_post_title: 春天
+  last_post_description: 上一篇我分享了「一周换三个育儿嫂」的混乱经历，而这段经历的结局，是第三个育儿嫂也于3月29日悻然离场。
+  last_post_date: "2026-04-12T16:39:00+08:00"
+  last_post_link: https://www.skyue.com/26041216.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e2a4a2278594e21e02a1cd790169da0d
+  last_post_guid: 3689d8c0d486d8b512e0a3992c9574ea
   score_criteria:
     cats: 0
     description: 3

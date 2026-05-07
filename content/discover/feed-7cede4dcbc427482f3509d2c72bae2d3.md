@@ -10,9 +10,15 @@ params:
     https://xkcd.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Wikidata Web Feed Export
+    description: An export of all web feeds seen in the Wikidata dataset
+    id: c5982e7d50e6132f3bca6cb24d3d0c18
   - title: Alex Zee Comedy Blogroll
     description: ""
     id: ec90496862be28875cc54bc36aa37ca7
+  - title: Blogs read by Marco d'Itri
+    description: ""
+    id: f860159e5c62745be6a70f22969a801a
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
@@ -36,7 +42,7 @@ params:
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML
@@ -63,19 +69,18 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  - http://scripting.com/rssNightly.xml
   - https://hacdias.com/articles/feed.xml
   - https://hacdias.com/feed.xml
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Planets and Bright Stars
+  last_post_title: Aperiodic Table
   last_post_description: ""
-  last_post_date: "2026-03-13T04:00:00Z"
-  last_post_link: https://xkcd.com/3219/
+  last_post_date: "2026-05-06T04:00:00Z"
+  last_post_link: https://xkcd.com/3242/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5c67a8b358afdba3f6a4540e6590f7c6
+  last_post_guid: 41d39724e241540b840f7efa0acf0e7a
   score_criteria:
     cats: 0
     description: 3

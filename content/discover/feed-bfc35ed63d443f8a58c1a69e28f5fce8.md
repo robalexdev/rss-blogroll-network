@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'AI SEO Performance Measurement: Is Your Brand Fading into the
-    Shadows in 2026?'
-  last_post_description: Have you seen how different our search habits are these days?
-    No longer do we just type in a phrase and scroll through ten blue links. Today,
-    Google gives answers directly through AI Overviews, and a
-  last_post_date: "2026-03-16T06:14:39Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/ai-seo-performance-measurement-is-your-brand-fading-into-the-shadows-in-2026
+  last_post_title: How to Prove Marketing ROI With Pipeline Data (Not Opinions)
+  last_post_description: Most marketing teams are sitting on the wrong proof. They
+    walk into budget meetings with click-through rates, impressions, and MQL counts
+    — and wonder why finance still treats them like a cost
+  last_post_date: "2026-05-07T03:41:40Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/how-to-prove-marketing-roi-with-pipeline-data
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30bc3014b67a16679f7376588405a250
+  last_post_guid: f65e51a81eef3fd1658b4eea7b58916a
   score_criteria:
     cats: 0
     description: 3

@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 三无（无工作、无社保、无纳税）港澳开户经验
-  last_post_description: 上周心血来潮从上海去了一趟香港和澳门，开了工银亚洲、中银香港、澳门国际，以及众安、蚂蚁、天星等虚拟行。
-  last_post_date: "2026-03-16T13:54:41Z"
-  last_post_link: https://retire50blog.wang/invest/%e4%b8%89%e6%97%a0%ef%bc%88%e6%97%a0%e4%b8%9a%e3%80%81%e6%97%a0%e7%a4%be%e4%bf%9d%e3%80%81%e6%97%a0%e7%ba%b3%e7%a8%8e%ef%bc%89%e6%b8%af%e6%be%b3%e5%bc%80%e6%88%b7%e7%bb%8f%e9%aa%8c.html
+  last_post_title: 25年年报出来了
+  last_post_description: 长电挺好的，分红终于到了一元，扣除中期的0.21，还能领0.79，比预期的0.77多了两分。
+  last_post_date: "2026-04-29T13:52:51Z"
+  last_post_link: https://retire50blog.wang/invest/25%e5%b9%b4%e5%b9%b4%e6%8a%a5%e5%87%ba%e6%9d%a5%e4%ba%86.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: c7967ea4bbe1be8e97898d05575ffb24
+  last_post_guid: 23c15135dc94d7534c1e763c97a5fdc9
   score_criteria:
     cats: 0
     description: 0

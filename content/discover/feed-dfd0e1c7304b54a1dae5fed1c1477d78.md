@@ -19,9 +19,11 @@ params:
   - https://82mhz.net/index.xml
   - https://anhvn.com/feed.xml
   - https://antfu.me/feed.xml
+  - https://bfloeser.de/index.xml
   - https://boehs.org/in/blog.xml
   - https://chrisburnell.com/feed.xml
   - https://garrit.xyz/rss.xml
+  - https://geff.re/feed.xml
   - https://home.hedy.dev/posts/index.xml
   - https://kayserifserif.place/feed.xml
   - https://kld.dev/rss.xml

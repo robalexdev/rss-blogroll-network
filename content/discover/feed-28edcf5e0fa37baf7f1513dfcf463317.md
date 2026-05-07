@@ -22,31 +22,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 折腾
+  - 南京
+  - 旅行
   - 生活
   relme: {}
-  last_post_title: 都市天际线2：通过优化设计路网解决拥堵
-  last_post_description: 摒弃简单的道路拓宽方法，通过采用“高速公路-主干道-次干道
-  last_post_date: "2026-02-26T10:17:05Z"
-  last_post_link: https://www.xiaozonglin.cn/solves-congestion-by-optimizing-road-network-design/
+  last_post_title: 五一假期：南京之行
+  last_post_description: |-
+    游玩南京，拍了一些照片。
+    五一假期：南京之行最先出现在林林杂语。
+  last_post_date: "2026-05-05T00:28:13Z"
+  last_post_link: https://www.xiaozonglin.cn/labor-day-nanjing-tour/
   last_post_categories:
-  - 折腾
+  - 南京
+  - 旅行
   - 生活
   last_post_language: ""
-  last_post_guid: 32f8d0edd62c22817402143052dfd2e2
+  last_post_guid: 37923381d7b520f2dc3afa48fff5e011
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

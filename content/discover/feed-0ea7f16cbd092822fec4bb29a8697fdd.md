@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2026-03-13T00:00:00Z"
+date: "2026-05-07T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -10,6 +10,9 @@ params:
     https://osa1.net/: false
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Exceptions as shared secrets, demonstrated
-  last_post_description: Robert Harper’s “Exceptions Are Shared Secrets” is an intriguing
-    blog post, but it may come as a bit abstract unless you’re already familiar with
-    the idea of accidental exception (or more
-  last_post_date: "2026-03-13T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2026-03-13-exceptions-as-shared-secrets.html
+  last_post_title: A text editor I worked on in 2021-2023
+  last_post_description: |-
+    I was just going through old files and saw a cool video of an old project that I thought I should share.
+    In January 2021 I started working on a new text editor. Zed didn’t exist publicly at the
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-05-07-my-text-editor.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9ea54f151571ba31c197fe9fb49bd2c7
+  last_post_guid: c9e0a377e1fe70dcb45ac4e99d5f5f3b
   score_criteria:
     cats: 0
     description: 0

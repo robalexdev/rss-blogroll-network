@@ -14,10 +14,7 @@ params:
     description: ""
     id: 376fcaa433eaea9f886962009443cbff
   recommended: []
-  recommender:
-  - https://blog.frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed.xml
-  - https://frankmeeuwsen.com/feed/
+  recommender: []
   categories:
   - zijperpost
   relme: {}

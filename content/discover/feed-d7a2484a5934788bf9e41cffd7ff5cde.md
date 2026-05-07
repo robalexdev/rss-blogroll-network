@@ -10,6 +10,9 @@ params:
     https://nemanjatrifunovic.substack.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -17,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Gary Kildall, Bill Gates and the "Gentleman's Agreement"
-  last_post_description: '"According to industry sources" the two had an informal
-    non‑compete deal.'
-  last_post_date: "2026-03-08T01:17:01Z"
-  last_post_link: https://nemanjatrifunovic.substack.com/p/gary-kildall-bill-gates-and-the-gentlemans
+  last_post_title: Why IBM Turned to Microsoft for BASIC
+  last_post_description: Not Because of Bill Gates’ Mother
+  last_post_date: "2026-04-11T19:36:42Z"
+  last_post_link: https://nemanjatrifunovic.substack.com/p/why-ibm-turned-to-microsoft-for-basic
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5729b458b7d82dbba279fbeabc2f4f2e
+  last_post_guid: 520cd2019e790b3c6a536111964111bb
   score_criteria:
     cats: 0
     description: 3

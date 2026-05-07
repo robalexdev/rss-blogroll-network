@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -37,18 +37,18 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for February 2026
+  last_post_title: Summary of changes for April 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of February.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of April.
 
 
-
-      Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new
-  last_post_date: "2026-03-01T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#feb2026
+      Wiki, documented the replacement of Pino's headstay.
+      Rabbit Waves, added a new page about
+  last_post_date: "2026-04-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#apr2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2fb3075e449a1223ffed449a4d7f6117
+  last_post_guid: 8de5c7db065a820bffb69595d98df908
   score_criteria:
     cats: 0
     description: 3

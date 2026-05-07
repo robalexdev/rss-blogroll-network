@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2026-03-15T08:00:00Z"
+date: "2026-05-03T08:00:00Z"
 description: 欢迎来到莫尔索随笔，这里是我的数字实验室，也是一个关于成长与好奇心的长期主义计划。
 params:
   feedlink: https://liduos.com/atom.xml
@@ -21,14 +21,14 @@ params:
   categories:
   - AI 周刊
   relme: {}
-  last_post_title: Vol.94 AI智能体与消费级应用趋势：GPT-5.4、OpenClaw与Agent工程化实践
-  last_post_description: 本期内容聚焦AI智能体技术演进与消费级应用市场趋势，涵盖GPT-5
-  last_post_date: "2026-03-15T08:00:00Z"
-  last_post_link: https://liduos.com/weekly/the-weekly-gradient-94
+  last_post_title: Vol.101 AI次方变革：组织中年撞上技术青春期，Harness Engineering与Agent系统重塑工程范式
+  last_post_description: 本期内容围绕杨斌提出的AI次方变革概念，探讨组织如何应对技术青春期；涵盖Karpathy的Software 3
+  last_post_date: "2026-05-03T08:00:00Z"
+  last_post_link: https://liduos.com/weekly/the-weekly-gradient-101
   last_post_categories:
   - AI 周刊
   last_post_language: ""
-  last_post_guid: 844158719ca862df684cdccbb434c1a9
+  last_post_guid: 6c3f8c3a043c188a262804234909cf51
   score_criteria:
     cats: 0
     description: 3

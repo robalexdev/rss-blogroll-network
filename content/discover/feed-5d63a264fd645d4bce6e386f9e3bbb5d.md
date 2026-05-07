@@ -172,7 +172,9 @@ params:
   - https://jasonjournals.com/feed.xml
   - https://jeffbridgforth.com/comments/feed/
   - https://kevingimbel.de/feed
+  - https://kevquirk.com/books-feed
   - https://kevquirk.com/feed.php
+  - https://kevquirk.com/notes-feed
   - https://manuelmoreale.com/feed/instagram
   - https://matanabudy.com/feed/?type=rss
   - https://mattstein.com/books/rss.xml

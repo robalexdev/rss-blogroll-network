@@ -15,6 +15,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Frontend Dev Feeds
+    description: ""
+    id: 38149979474709d3c2d6dd1d0b7b71f0
   recommended: []
   recommender: []
   categories: []

@@ -19,107 +19,82 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ArrayIndexOutOfBounds
-  - BufferOverflow
-  - CompilerOptimization
-  - Concurrency
-  - DataRace
-  - DaveCheney
-  - Determinism
-  - EngineeringTradeoffs
+  - Ahmetb
+  - AsyncProgramming
+  - Channel
+  - ConcurrencyModel
+  - ConnectionPool
+  - DistributedSystems
+  - EffectSystem
+  - Effect系统
   - Go
   - GoLanguage
   - Golang
   - Go语言
-  - IanLanceTaylor
-  - IntegerOverflow
-  - Interface
-  - MemorySafety
-  - MultiwordDataStructures
-  - NilPointerDereference
-  - RaceDetection
-  - RuntimeChecks
-  - Slice
-  - TypeConfusion
-  - UndefinedBehavior
-  - UnspecifiedBehavior
-  - memorymodel
-  - 内存安全
-  - 内存模型
-  - 切片
-  - 多字数据结构
-  - 工程权衡
-  - 并发
+  - HighConcurrency
+  - JVM
+  - JamesWard
+  - Java
+  - PerformanceTuning
+  - StructuredConcurrency
+  - ThreadSafety
+  - VirtualThreads
+  - goroutine
+  - latency
+  - 分布式系统
+  - 并发模型
+  - 异步编程
+  - 性能延迟
+  - 性能调优
   - 技术志
-  - 接口
-  - 数据竞争
-  - 数组越界
-  - 整数溢出
-  - 未定义行为
-  - 未指明行为
-  - 确定性
-  - 空指针解引用
-  - 竞态检测
-  - 类型混淆
-  - 缓冲区溢出
-  - 编译器优化
-  - 运行时检查
+  - 线程安全
+  - 结构化并发
+  - 虚拟线程
+  - 连接池
+  - 高并发
   relme:
-    https://github.com/bigwhite: true
     https://tonybai.com/: true
-  last_post_title: 真相调查：Go 语言真的消灭了 Undefined Behavior 吗？
-  last_post_description: 本文永久链接 – https://tonybai.com/2026/03/16/go-language-eliminated-undefined-behavior-truth-investigation
+  last_post_title: AWS 大神发文炮轰：Go 的并发就是个“笑话”，JVM 的方案要更优越
+  last_post_description: 本文永久链接 – https://tonybai.com/2026/05/07/aws-guru-slams-go-concurrency-as-a-joke-vs-jvm
     大家好，我是Tony Bai。
-  last_post_date: "2026-03-16T00:27:35Z"
-  last_post_link: https://tonybai.com/2026/03/16/go-language-eliminated-undefined-behavior-truth-investigation/
+  last_post_date: "2026-05-06T23:10:44Z"
+  last_post_link: https://tonybai.com/2026/05/07/aws-guru-slams-go-concurrency-as-a-joke-vs-jvm/
   last_post_categories:
-  - ArrayIndexOutOfBounds
-  - BufferOverflow
-  - CompilerOptimization
-  - Concurrency
-  - DataRace
-  - DaveCheney
-  - Determinism
-  - EngineeringTradeoffs
+  - Ahmetb
+  - AsyncProgramming
+  - Channel
+  - ConcurrencyModel
+  - ConnectionPool
+  - DistributedSystems
+  - EffectSystem
+  - Effect系统
   - Go
   - GoLanguage
   - Golang
   - Go语言
-  - IanLanceTaylor
-  - IntegerOverflow
-  - Interface
-  - MemorySafety
-  - MultiwordDataStructures
-  - NilPointerDereference
-  - RaceDetection
-  - RuntimeChecks
-  - Slice
-  - TypeConfusion
-  - UndefinedBehavior
-  - UnspecifiedBehavior
-  - memorymodel
-  - 内存安全
-  - 内存模型
-  - 切片
-  - 多字数据结构
-  - 工程权衡
-  - 并发
+  - HighConcurrency
+  - JVM
+  - JamesWard
+  - Java
+  - PerformanceTuning
+  - StructuredConcurrency
+  - ThreadSafety
+  - VirtualThreads
+  - goroutine
+  - latency
+  - 分布式系统
+  - 并发模型
+  - 异步编程
+  - 性能延迟
+  - 性能调优
   - 技术志
-  - 接口
-  - 数据竞争
-  - 数组越界
-  - 整数溢出
-  - 未定义行为
-  - 未指明行为
-  - 确定性
-  - 空指针解引用
-  - 竞态检测
-  - 类型混淆
-  - 缓冲区溢出
-  - 编译器优化
-  - 运行时检查
+  - 线程安全
+  - 结构化并发
+  - 虚拟线程
+  - 连接池
+  - 高并发
   last_post_language: ""
-  last_post_guid: ef1ada1e93cb5b903461230004b42ce6
+  last_post_guid: da2872667d684b84deaebfbe47829d4e
   score_criteria:
     cats: 0
     description: 3

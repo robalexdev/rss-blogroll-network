@@ -106,7 +106,7 @@ params:
     description: ""
     id: 7442b861c8b93736ae46e3de651c0227
   - title: Muffin Man
-    description: FrontEnd & Creative Coding
+    description: Making visual and interactive stuff
     id: 7717c8a7a423be260f280b44c8436b11
   - title: Stephen Colebourne's blog
     description: Thoughts and Musings on the world of Java and beyond
@@ -128,7 +128,7 @@ params:
     description: All about Machine Learning, Linux, Android, Web and of course Life
     id: 888b8f1bb72be0ac495606db73f30be4
   - title: Drew DeVault's blog
-    description: Recent content in Blogs on Drew DeVault's blog
+    description: Drew DeVault's blog - Blog
     id: 89dfddb8b11e5d1fc5ea6a87dbc9a071
   - title: Mary Rose Cook
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech

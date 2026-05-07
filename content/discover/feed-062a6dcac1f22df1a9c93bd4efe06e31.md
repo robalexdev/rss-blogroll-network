@@ -14,9 +14,12 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: Goblin Gumbo - Blogroll
     description: ""
     id: fba95217f7d9c7c26c5a9f717740f80e
@@ -45,14 +48,14 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: PDX
-  last_post_description: "So iconic that they had to bring it back.\n\t\t\tDownload
-    wallpaper from LMNT"
-  last_post_date: "2026-03-12T10:40:00+09:00"
-  last_post_link: https://lmnt.me/blog/wallpapers/pdx.html
+  last_post_title: Kakigori
+  last_post_description: It’s finally warm enough for Ayano to consider eating kakigori.
+    I’ve been waiting for this.
+  last_post_date: "2026-05-02T16:20:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/kakigori.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2530f1b0218ea0fe8783969c92544a95
+  last_post_guid: 5271cd1d928702b01d4d291c427d52ea
   score_criteria:
     cats: 1
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-03-15T15:48:10Z"
+date: "2026-05-03T13:28:56Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - traefik
+  - llm
   relme: {}
-  last_post_title: 解答一下关于traefik的一点疑惑
-  last_post_description: 之前跟着大佬的脚步用上了traefik，但是对具体的原理不太理解，或者说比较疑惑因为这个具体的配置是在后面服务的docker
-  last_post_date: "2026-03-15T15:48:10Z"
-  last_post_link: https://nicksxs.me/2026/03/15/%E8%A7%A3%E7%AD%94%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8Etraefik%E7%9A%84%E4%B8%80%E7%82%B9%E7%96%91%E6%83%91/
+  last_post_title: 使用xiaomi mimo大模型api运行Hermes Agent
+  last_post_description: 前阵子在openclaw热度之后，又出来个hermes agent，主打个更高效智能的agent，我们就来体验试下其实挺久之前就开始运行了，但是因为大部分的coding
+  last_post_date: "2026-05-03T13:28:56Z"
+  last_post_link: https://nicksxs.me/2026/05/03/%E4%BD%BF%E7%94%A8xiaomi-mimo%E5%A4%A7%E6%A8%A1%E5%9E%8Bapi%E8%BF%90%E8%A1%8CHermes-Agent/
   last_post_categories:
-  - traefik
+  - llm
   last_post_language: ""
-  last_post_guid: 6c4e5d6260bfb94108fc3b1b29ac735c
+  last_post_guid: ceaffa13d4bb9f77f4bf9b68c0eea242
   score_criteria:
     cats: 0
     description: 3

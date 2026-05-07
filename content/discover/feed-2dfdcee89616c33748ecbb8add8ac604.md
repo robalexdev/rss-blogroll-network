@@ -10,6 +10,9 @@ params:
     https://www.baldurbjarnason.com/: false
   blogrolls: []
   in_blogrolls:
+  - title: Blogroll for blog.zgp.org
+    description: ""
+    id: 87f3469da8045de1c428b0cba25cf65f
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

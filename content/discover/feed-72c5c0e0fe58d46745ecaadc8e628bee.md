@@ -19,16 +19,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hardware
+  - Open Source World
   relme: {}
-  last_post_title: My childhood dream laptop
-  last_post_description: If only more laptops were like this...
-  last_post_date: "2026-02-27T10:14:52Z"
-  last_post_link: https://thelibre.news/my-childhood-dream-laptop/
+  last_post_title: I Made the "Next-Level" Camera and I love it
+  last_post_description: There's A LOT of explaining to do if I want you to understand
+    what's happening here. Hold tight.
+  last_post_date: "2026-04-16T17:16:37Z"
+  last_post_link: https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/
   last_post_categories:
-  - Hardware
+  - Open Source World
   last_post_language: ""
-  last_post_guid: 0bc50fb9536228e5d9a572d59d200eb3
+  last_post_guid: 5929b08eeaee70ae554c67f04fcd0f6b
   score_criteria:
     cats: 0
     description: 3

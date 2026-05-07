@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Kernel Planet
     description: ""
     id: 461c587f59e455c54ff44a73dbd6fc67

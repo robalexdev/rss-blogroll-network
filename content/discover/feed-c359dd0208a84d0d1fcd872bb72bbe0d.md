@@ -1,6 +1,6 @@
 ---
 title: Victor Blomqvist's blog
-date: "2026-02-10T00:00:00Z"
+date: "2026-05-03T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.viblo.se/feed.atom
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Are AI SQL yet?
+  last_post_title: Packages release more often than ever. Or do they?
   last_post_description: ""
-  last_post_date: "2026-02-10T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/are-ai-sql-yet/
+  last_post_date: "2026-05-03T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/oss-releases-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd106af576f8183aa08dbf4b793cc980
+  last_post_guid: e6de5c43447dee7cc60be3ecb183728e
   score_criteria:
     cats: 0
     description: 0

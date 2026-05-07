@@ -1,7 +1,7 @@
 ---
 title: Johnny's Software Lab
 date: "1970-01-01T00:00:00Z"
-description: We help you deliver fast software
+description: Resources for Software Performance Engineers
 params:
   feedlink: https://johnnysswlab.com/feed/
   feedtype: rss
@@ -10,6 +10,9 @@ params:
     https://johnnysswlab.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5343 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

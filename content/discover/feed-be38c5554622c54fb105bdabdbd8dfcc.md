@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-03-11T10:05:45Z"
+date: "2026-04-29T02:30:31Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,17 +28,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - lua与虚拟机
+  - 游戏
   relme: {}
-  last_post_title: soluna 外挂 C 模块
-  last_post_description: soluna 集成了 lua 虚拟机，但默认构建方式是将 lua 库静态链接到唯一的执行文件中。这将导致无法以动态库的形式外挂
-    Lua 的 C 扩展。
-  last_post_date: "2026-03-11T10:05:45Z"
-  last_post_link: https://blog.codingnow.com/2026/03/soluna_external_lib.html
+  last_post_title: 我对《缺氧》的游戏理解
+  last_post_description: 最近一个月，我一直在玩《缺氧》(Oxygen Not Included) 。前几年玩过 100 多小时，算是比较熟悉了。但这个月又高强度的玩了
+    300
+  last_post_date: "2026-04-29T02:30:31Z"
+  last_post_link: https://blog.codingnow.com/2026/04/oxygen_not_included.html
   last_post_categories:
-  - lua与虚拟机
+  - 游戏
   last_post_language: ""
-  last_post_guid: 88810b2639bf9f4fe697c677f5efda24
+  last_post_guid: 04dc947a391d7635982e3a2a4428cb8e
   score_criteria:
     cats: 0
     description: 3

@@ -11,7 +11,7 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,6 +23,10 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Ton's Blogroll (human and machine readable, you can import this file into
+      your feed reader)
+    description: ""
+    id: 03553abc85517218f421d95a82a6f691
   recommended: []
   recommender: []
   categories:
@@ -30,16 +34,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: The Web is a Guitar Amp Now (Literally)
-  last_post_description: I’ve been working with the web platform for years – and I
-    was pretty blown-away to be able play my guitar through a website, and have it
-    processed like a vintage amp. I wrote about it over at the
-  last_post_date: "2026-03-11T16:15:19Z"
-  last_post_link: https://actsofvolition.com/2026/03/the-web-is-a-guitar-amp-now-literally/
+  last_post_title: Connections Band Names
+  last_post_description: 'When playing the New York Times Connections game, it occurred
+    to me that it would be a good band name generator. This day in particular had
+    some great band names: I’d go see Hobo Mosey opening for'
+  last_post_date: "2026-04-25T13:38:37Z"
+  last_post_link: https://actsofvolition.com/2026/04/connections-band-names/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 327047e55ff774272172a50ceb481c4f
+  last_post_guid: 7603aefb88b3e1c5c97866d493f0feee
   score_criteria:
     cats: 0
     description: 0

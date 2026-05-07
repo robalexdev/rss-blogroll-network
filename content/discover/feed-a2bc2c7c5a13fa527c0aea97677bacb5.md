@@ -7,8 +7,7 @@ params:
   feedlink: https://f2r.github.io/feed/en.xml
   feedtype: atom
   feedid: a2bc2c7c5a13fa527c0aea97677bacb5
-  websites:
-    https://f2r.github.io/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: this css proves me human
-  last_post_description: ""
-  last_post_date: "2026-03-06T00:00:00Z"
-  last_post_link: https://will-keleher.com/posts/this-css-makes-me-human/
+  last_post_title: ChatGPT Images 2.0 Still Can't Draw the Seven-legged Spider I Want
+  last_post_description: ChatGPT Images 2.0 is able to generate a seven-legged spider,
+    but it's not missing the leg I asked for.
+  last_post_date: "2026-04-23T00:00:00Z"
+  last_post_link: https://will-keleher.com/posts/chatgpt-image-2-still-cant-draw-a-seven-legged-spider/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e250c76f86e1e53ac24dee7ac81f00e7
+  last_post_guid: dcc6684fdb8ba69467c35768a7ed3e64
   score_criteria:
     cats: 0
     description: 3

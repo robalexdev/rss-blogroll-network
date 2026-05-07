@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -22,14 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Prototype faster with AI — program starts Mar 21
-  last_post_description: Learn modern AI prototyping workflows with tools like Figma
-    Make and Lovable. Camp starts Mar 21. Save $200 with code SIDEBAR.
-  last_post_date: "2026-03-16T09:53:00Z"
-  last_post_link: https://bit.ly/side-lab4
+  last_post_title: Collected consciousness
+  last_post_description: AI product design for empowering human creativity.
+  last_post_date: "2026-05-07T06:19:56Z"
+  last_post_link: https://www.doc.cc/articles/consciousness
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a0b0edc2f244c473eac7a5f8feb74f97
+  last_post_guid: ad3d0bf68fa725bc9b96460eb1419790
   score_criteria:
     cats: 0
     description: 3

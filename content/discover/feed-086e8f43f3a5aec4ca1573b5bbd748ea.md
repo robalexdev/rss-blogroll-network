@@ -21,7 +21,7 @@ params:
   - title: jabel - Blogroll
     description: ""
     id: 2e8b4a6208d056910776755f53a45433
-  - title: "\U0001F4AC John Philpin - Blogroll"
+  - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
   - title: Kagi Small Web OPML

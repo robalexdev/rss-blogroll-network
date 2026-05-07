@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Not to Measure the ROI from AI in your Software Organization
-  last_post_description: 'You did your best, but it happened: somebody told you that
-    you are the one who has to measure the ROI of AI on the developers in your software
-    organization. I like to imagine that when this is your'
-  last_post_date: "2026-02-12T19:53:45Z"
-  last_post_link: https://www.fightforthehuman.com/how-not-to-measure-the-roi-from-ai-in-your-software-organization/
+  last_post_title: Psychology of Software Teams Cover reveal!
+  last_post_description: 'My upcoming book, The Psychology of Software Teams, exists
+    in the eyes of the International ISBN Agency, various book sellers, and most importantly
+    my publisher: it''s coming out July 14th!  That'
+  last_post_date: "2026-04-15T22:49:14Z"
+  last_post_link: https://www.fightforthehuman.com/psychology-of-software-teams-cover-reveal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6179731e69604522990385e111930dc2
+  last_post_guid: e38851a1a36a74cdeffb3b605adaf275
   score_criteria:
     cats: 0
     description: 3

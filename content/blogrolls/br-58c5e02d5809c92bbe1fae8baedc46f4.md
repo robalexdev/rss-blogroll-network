@@ -1,5 +1,5 @@
 ---
-title: Lista de Fontes de Notícias
+title: "Liferea Lista de Fontes de Notícias \U0001F1E7\U0001F1F7"
 date: ""
 description: ""
 params:

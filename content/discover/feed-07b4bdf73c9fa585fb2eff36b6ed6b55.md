@@ -1,13 +1,12 @@
 ---
 title: technicalwriting.dev
-date: "2025-10-29T21:47:07-07:00"
+date: "2026-04-29T22:23:07Z"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
   feedtype: rss
   feedid: 07b4bdf73c9fa585fb2eff36b6ed6b55
   websites:
-    https://technicalwriting.dev/: true
     https://technicalwriting.dev/index.html: false
   blogrolls: []
   in_blogrolls:
@@ -42,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

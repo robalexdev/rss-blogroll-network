@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-03-15T04:05:36+08:00"
+date: "2026-05-05T20:23:30+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -52,27 +52,25 @@ params:
   - https://geektutu.com/feed.xml
   - https://www.hansjack.com/feed
   - https://www.hansjack.com/feed/atom/
+  - https://www.wikimoe.com/rss/blog
+  - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - AI
-  - LLM
-  - 使用体验
-  - 模型部署
+  - WireGuard
+  - 异地组网
+  - 虚拟网络
   relme:
-    https://github.com/Mabbs: true
     https://mabbs.github.io/: true
-    https://mayx.eu.org/: true
-  last_post_title: 近期LLM的部署与应用经历(3)
-  last_post_description: 用更多的方式探索AI！
-  last_post_date: "2026-03-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/03/01/llm3.html
+  last_post_title: 虚拟局域网的组网探索记录
+  last_post_description: 异地组网，有多少种选择？
+  last_post_date: "2026-05-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/05/01/virtual-net.html
   last_post_categories:
-  - AI
-  - LLM
-  - 使用体验
-  - 模型部署
+  - WireGuard
+  - 异地组网
+  - 虚拟网络
   last_post_language: ""
-  last_post_guid: f8c806ebcc172e1ce58fc35b512a093a
+  last_post_guid: 127a1249cb71c861d17852e4406780e2
   score_criteria:
     cats: 0
     description: 3

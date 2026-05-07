@@ -1,6 +1,6 @@
 ---
 title: 逸文笔记 | EvenNotes
-date: "2025-07-13T01:09:16Z"
+date: "2026-03-23T09:10:09Z"
 description: 见天地，见众生，见自己
 params:
   feedlink: https://www.evennotes.cn/atom.xml
@@ -27,7 +27,7 @@ params:
   relme: {}
   last_post_title: 风格、妥协和坚持——从妙控鼠标聊起
   last_post_description: 经过这样的回顾和观察，我想我们都能体会到苹果的独特风格。
-  last_post_date: "2025-07-13T01:09:16Z"
+  last_post_date: "2026-03-23T09:10:09Z"
   last_post_link: https://www.evennotes.cn/2024/323GHCP/
   last_post_categories:
   - 互联网

@@ -66,7 +66,7 @@ params:
   - title: Phil Bowell
     description: ""
     id: efb76afd8707aa6853b0d62a6c9af7e6
-  - title: Robert Alexander's Tech Blog
+  - title: 'Built on Shards of Silicon: Robert Alexander''s Tech Blog'
     description: 'A personal blog featuring nuanced deep dives into #Tech, #Security,
       and the #Cloud'
     id: fa0b115a98a2db75b61d52ca6e8c7846

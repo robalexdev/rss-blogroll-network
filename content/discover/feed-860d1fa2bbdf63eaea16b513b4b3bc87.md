@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What’s up Python? d-strings, SSE in Pydantic and... a new Python?
-  last_post_description: Not sure if LLM or aging make time go faster
-  last_post_date: "2026-03-10T08:55:37Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-d-strings-sse-in
+  last_post_title: What’s up Python? Frame pointers, sentinel values, venv discovery,
+    more rust in Python...
+  last_post_description: April, 2026
+  last_post_date: "2026-04-28T10:20:53Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-frame-pointers-sentinel
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 960e6646cba3d8b8bdb7c968500a5b5f
+  last_post_guid: 428bedc6c725a74b557e05560ec4669e
   score_criteria:
     cats: 0
     description: 3

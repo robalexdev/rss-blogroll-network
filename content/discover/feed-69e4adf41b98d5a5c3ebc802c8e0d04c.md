@@ -10,7 +10,7 @@ params:
     https://aethermug.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,13 +27,13 @@ params:
   categories: []
   relme:
     https://aethermug.com/: true
-  last_post_title: 'AeMug Chat #1 / Aether Mug Evolves'
-  last_post_description: I'll be posting less often and more in depth
-  last_post_date: "2026-02-26T02:38:16Z"
-  last_post_link: https://aethermug.com/posts/ae-mug-chat-1-aether-mug-evolves?utm_source=rss&utm_campaign=rss
+  last_post_title: 'AeMug Chat #2 / Experience.Computer Interview'
+  last_post_description: Scientific or Manifest or...?
+  last_post_date: "2026-03-19T01:54:56Z"
+  last_post_link: https://aethermug.com/posts/ae-mug-chat-2-experience-computer-interview?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 510757f654b4a983a52c6f63b2930bba
+  last_post_guid: 0126b4dbecbe015e061635301ad3f893
   score_criteria:
     cats: 0
     description: 3

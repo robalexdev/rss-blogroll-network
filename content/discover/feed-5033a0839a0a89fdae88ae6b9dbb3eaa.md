@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-02-11T00:23:18Z"
+date: "2026-04-23T02:41:22Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -13,7 +13,7 @@ params:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -44,15 +44,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: Contentment is a spectrum, too
-  last_post_description: I am quite content to be alone except on a mild evening at
-    twilight.  During the quick hours of the day I am busy. Busy with things I enjoy
-    doing,...
-  last_post_date: "2026-02-11T00:23:18Z"
-  last_post_link: https://anniemueller.com/posts/contentment-is-a-spectrum-too
+  last_post_title: It’s a lot to process
+  last_post_description: … everything. I need to know less, but I know more.  Trying
+    to cultivate a life which allows me to know less while still participating in
+    society requires me to...
+  last_post_date: "2026-04-23T02:41:22Z"
+  last_post_link: https://anniemueller.com/posts/its-a-lot-to-process
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bb061027c5e0a7de5b8a880328187f58
+  last_post_guid: 148a0b36a8237325e495ef44e12d3426
   score_criteria:
     cats: 0
     description: 0

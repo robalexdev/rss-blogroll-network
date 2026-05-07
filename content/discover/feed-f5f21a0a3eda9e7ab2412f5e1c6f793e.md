@@ -17,26 +17,23 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Announcements
   - Latest
-  - LatestEpisode
-  - Podcast
   - Prepared
-  - Season6
   relme: {}
-  last_post_title: Explore Explain S6E6 – Nicola Rennie & Ansgar Wolsing
-  last_post_description: Welcome to episode 6 of season 6 of Explore Explain, a long-form
-    video and podcast series all about data visualisation design. I am delighted to
-    welcome Nicola Rennie, Data Visualisation Specialist
-  last_post_date: "2026-02-25T20:33:15Z"
-  last_post_link: https://visualisingdata.com/2026/02/explore-explain-s6e6-nicola-rennie-ansgar-wolsing/
+  last_post_title: 'New Course: ‘Masterclass in Data Visualisation’ (London, July
+    2026)'
+  last_post_description: I'm happy to announce details of a new public training course,
+    the two-day classroom-based 'Masterclass in Data Visualisation' will take place
+    in London, on 7-8 July 2026. This is an essential non
+  last_post_date: "2026-04-21T00:00:35Z"
+  last_post_link: https://visualisingdata.com/2026/04/new-course-masterclass-in-data-visualisation-london-july-2026/
   last_post_categories:
+  - Announcements
   - Latest
-  - LatestEpisode
-  - Podcast
   - Prepared
-  - Season6
   last_post_language: ""
-  last_post_guid: 988fd9745a48933bd8ee8aee69ef9d12
+  last_post_guid: 34179882b1ae1a70ece63413a2e80990
   score_criteria:
     cats: 0
     description: 3

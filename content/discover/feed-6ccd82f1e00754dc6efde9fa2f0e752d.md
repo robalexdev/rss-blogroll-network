@@ -11,23 +11,26 @@ params:
     https://www.feld.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: The Looking Glass Musubi
-  last_post_description: Looking Glass just launched Musubi on Kickstarter - a $99
-    holographic photo frame that has raised over $140K on a $10K goal in its first
-    day.
-  last_post_date: "2026-03-11T19:30:48-07:00"
-  last_post_link: https://feld.com/archives/2026/03/the-looking-glass-musubi/
+  last_post_title: Burn Bright, Not Out
+  last_post_description: For the month of May, I'm matching donations to the Kabila
+    Founder Mental Health Fund. Plus a free chapter from a new book on founder mental
+    health in tech startups.
+  last_post_date: "2026-05-01T12:12:26-07:00"
+  last_post_link: https://feld.com/archives/2026/05/burn-bright-not-out/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 95a3497fe3f6970394d3e4c2ac3df929
+  last_post_guid: c0bc7b1b78974dd01b4f107d6606a1b0
   score_criteria:
     cats: 0
     description: 3

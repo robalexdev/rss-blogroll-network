@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: You Are Responsible for Your Agent
+  last_post_title: Optimizing Software Factories
   last_post_description: |-
-    “What happens when a new employee brings their agent to work?”
-    An executive asked this recently. Imagine a few years from now : a student graduates, having trained their own agent through
-  last_post_date: "2026-03-15T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/you-are-responsible-your-agent/
+    What happens when a startup employee leaves on a Monday?
+    In a twenty-person engineering team, one resignation is a 5% headcount loss. The remaining nineteen absorb the work.
+    In an AI-pilled three
+  last_post_date: "2026-05-05T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/optimizing-software-factories/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 782718f02c8c1ef3495e74e885593c45
+  last_post_guid: fa492e57a0c16d84965b4e111956834f
   score_criteria:
     cats: 0
     description: 3

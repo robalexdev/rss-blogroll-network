@@ -1,6 +1,6 @@
 ---
 title: Mark's Notes
-date: "2025-11-29T12:00:00Z"
+date: "2026-04-30T12:00:00Z"
 description: ""
 params:
   feedlink: https://www.kmjn.org/notes/recent.atom
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Shohei Fujimoto exhibition
+  last_post_title: Porting microgpt to Futhark, Part I
   last_post_description: ""
-  last_post_date: "2025-11-29T12:00:00Z"
-  last_post_link: https://www.kmjn.org/notes/shohei_fujimoto_exhibition.html
+  last_post_date: "2026-05-02T12:00:00Z"
+  last_post_link: https://www.kmjn.org/notes/microgpt_futhark.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b0682caf03af4c767f30580177bc0847
+  last_post_guid: 67f583ddeb8c6506f1b3e4d63ef8abad
   score_criteria:
     cats: 0
     description: 0

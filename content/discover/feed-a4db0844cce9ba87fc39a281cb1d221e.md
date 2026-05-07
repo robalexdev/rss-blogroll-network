@@ -10,7 +10,7 @@ params:
     https://multiline.co/mment: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 4238 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Cory Dransfeldt
@@ -19,6 +19,12 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: RSS subscriptions for stu@alwaystwisted.com
+    description: ""
+    id: 11fe580930b6a693dba9a3372a800841
   - title: Shellsharks Blogroll
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d
