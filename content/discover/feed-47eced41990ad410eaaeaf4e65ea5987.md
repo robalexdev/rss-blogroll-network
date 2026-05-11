@@ -22,15 +22,18 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: recursions
-  last_post_description: Recursion is often taught in Computer Science 101 as an elegant,
-    mathematically pure way to solve problems and used widely in leetcode style problems.
-    However, in production environments using
-  last_post_date: "2026-03-04T00:00:00Z"
-  last_post_link: https://suriya.cc/tech/tinkering/recursions/
+  last_post_title: Cloud intro
+  last_post_description: |-
+    What is the cloud ?
+    essentially a bunch of server running in a random datacenter.
+
+
+    These racks and racks of servers can run cohesively together as one simple computer using the Internet. by
+  last_post_date: "2026-04-28T00:00:00Z"
+  last_post_link: https://suriya.cc/tech/tinkering/cloud/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e97604cbe80155c827640ce7a3824169
+  last_post_guid: 17b6fcb5a91b50bfc2180d90bb50bbad
   score_criteria:
     cats: 0
     description: 3

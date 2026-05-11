@@ -19,15 +19,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Journeys in Hosting 1/x - Precomputed SSH Host Keys
-  last_post_description: In what I hope will be the debut of many in a series to come,
-    I want to share my experience and musings as a frequent traveler in the world
-    of hosting providers. Sometimes it will be just curious
-  last_post_date: "2025-09-22T00:00:00Z"
-  last_post_link: https://dataplane.org/jtk/blog/2025/09/hosting-stories-1/
+  last_post_title: Journeys in Hosting 2/x - OS template considerations
+  last_post_description: When you lease a virtual machine (VM), virtual private server
+    (VPS), dedicated server, container, or similar system, you are usually given a
+    choice of operating system to install. Most hosting
+  last_post_date: "2026-03-31T00:00:00Z"
+  last_post_link: https://dataplane.org/jtk/blog/2026/03/hosting-stories-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 14de7fe2ef296c8302564095edcfbf2b
+  last_post_guid: 62c9a3d9c61f06f108e9b13c5c31868e
   score_criteria:
     cats: 0
     description: 3

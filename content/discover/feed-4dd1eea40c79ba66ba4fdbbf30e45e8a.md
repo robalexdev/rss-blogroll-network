@@ -1,6 +1,6 @@
 ---
 title: NoRecess - News
-date: "2025-12-19T05:48:39-08:00"
+date: "2026-04-01T05:58:21-07:00"
 description: News
 params:
   feedlink: https://norecess464.weebly.com/3/feed
@@ -17,16 +17,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Retrospective 2025
-  last_post_description: Like every December for the past three years, it has become
-    a small ritual for me to write about what I have been doing with my Amstrad CPC/Plus
-    hobby during the year. I already wrote retrospectives
-  last_post_date: "2025-12-19T02:34:43Z"
-  last_post_link: http://norecess464.weebly.com/news/retrospective-2025
+  last_post_title: 'PiStudio: a Raspberry Pi-powered IDE for the Amstrad CPC'
+  last_post_description: I've been working on a personal project for some time now
+    called PiStudio.It's a new development environment that runs on a Raspberry Pi
+    and connects to an Amstrad CPC through the CPC-CPLINK from
+  last_post_date: "2026-03-30T01:17:46Z"
+  last_post_link: http://norecess464.weebly.com/news/pistudio-a-raspberry-pi-powered-ide-for-the-amstrad-cpc
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 80e8964d3df18cc22e1c09c5a936b879
+  last_post_guid: 417437893a7b6659aa3df83df34767c3
   score_criteria:
     cats: 0
     description: 3

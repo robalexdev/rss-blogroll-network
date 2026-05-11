@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -41,15 +41,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: SBC Clusters are a terrible value, but they're fun anyway
+  last_post_title: HomePod mini feels like magic, but it's just good timing
   last_post_description: |-
-    Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C.
-    I was testing
-  last_post_date: "2026-05-01T09:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/
+    Apple introduced the HomePod mini six years ago, in 2020.
+    I'm not one into smart speakers, but the feature that made me take a closer look was their ability to form stereo pairs, without any direct
+  last_post_date: "2026-05-08T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f466a5581d05de0de766c0ffa8871f86
+  last_post_guid: b461347c59dda72dc31704bb2c6a6659
   score_criteria:
     cats: 0
     description: 3

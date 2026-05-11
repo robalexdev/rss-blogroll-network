@@ -10,7 +10,7 @@ params:
     https://acesounderglass.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,17 +25,17 @@ params:
   - Uncategorized
   - lw-recirculate
   relme: {}
-  last_post_title: Things I learned from reddit fashion
-  last_post_description: When it comes to clothes, I live at the “low cost/low time/low
-    quality” end of the pareto frontier. But the bay area had a sudden attack of weather
-    this December, and the cheap sweaters on Amazon
-  last_post_date: "2026-01-26T01:05:44Z"
-  last_post_link: https://acesounderglass.com/2026/01/25/things-i-learned-from-reddit-fashion/
+  last_post_title: Dairy cows make their misery expensive (but their calves can’t)
+  last_post_description: How much do cows suffer in the production of milk? I can’t
+    answer that; understanding animal experience is hard. But I can at least provide
+    some facts about the conditions dairy cows live in, which
+  last_post_date: "2026-05-01T23:45:01Z"
+  last_post_link: https://acesounderglass.com/2026/05/01/dairy-cows-make-their-misery-expensive-but-their-calves-cant/
   last_post_categories:
   - Uncategorized
   - lw-recirculate
   last_post_language: ""
-  last_post_guid: 2de1e5ae35e21dceb6b8990a8e954798
+  last_post_guid: 67bece53519539d967e75b188a7895e2
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: model ships in the cinema
-date: "2026-03-16T05:53:53+08:00"
+date: "2026-04-13T06:29:16+08:00"
 description: The technique of miniature ship visual effects.
 params:
   feedlink: https://www.modelshipsinthecinema.com/feeds/posts/default
@@ -344,6 +344,7 @@ params:
   - whaler
   - wind machine
   relme:
+    https://draft.blogger.com/profile/11833483639783575804: true
     https://modelaircraftinthecinema.blogspot.com/: true
     https://modelspaceshipsinthecinema.blogspot.com/: true
     https://rcscifi.blogspot.com/: true

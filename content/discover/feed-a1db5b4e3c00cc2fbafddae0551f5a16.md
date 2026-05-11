@@ -16,7 +16,9 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://aaron.com.es/: true
+    https://mastodon.social/@aaronfc: true
   last_post_title: /reader
   last_post_description: |-
     These are the most recent articles from the blogs/sites I follow. Updated daily.
@@ -24,14 +26,14 @@ params:
 
 
 
-      What is agentic engineering? simonwillison.net
+      Quoting New York Times Editors’ Note simonwillison.net
 
 
-      Remember the future nomad.blog
+      Seoul, South Korea xn--gckvb8fzb.com
 
 
-      Watched Mickey 17
-  last_post_date: "2026-03-16T00:00:00Z"
+      Quoting
+  last_post_date: "2026-05-11T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""
@@ -45,10 +47,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -8,12 +8,14 @@ params:
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
     https://kevquirk.com/: true
+    https://kevquirk.com/books: false
+    https://kevquirk.com/notes: false
   blogrolls: []
   in_blogrolls:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -49,6 +51,9 @@ params:
   - title: Paweł Orzech - Blogroll
     description: ""
     id: b86e787f4dec9664c18325c959c782ee
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

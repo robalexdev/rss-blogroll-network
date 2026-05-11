@@ -19,82 +19,92 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ahmetb
-  - AsyncProgramming
-  - Channel
+  - BackendArchitecture
+  - BusinessLogic
   - ConcurrencyModel
-  - ConnectionPool
-  - DistributedSystems
-  - EffectSystem
-  - Effect系统
+  - DevelopmentEfficiency
+  - EngineeringTradeoffs
+  - ExtremeControl
+  - GarbageCollection
   - Go
   - GoLanguage
   - Golang
   - Go语言
-  - HighConcurrency
-  - JVM
-  - JamesWard
-  - Java
-  - PerformanceTuning
-  - StructuredConcurrency
-  - ThreadSafety
-  - VirtualThreads
-  - goroutine
+  - MemorySafety
+  - Microservices
+  - Performance
+  - Rust
+  - SystemsProgramming
+  - TechSelection
+  - Throughput
+  - cloudnative
+  - infrastructure
   - latency
-  - 分布式系统
+  - 业务逻辑
+  - 云原生
+  - 内存安全
+  - 后端架构
+  - 吞吐量
+  - 响应时间
+  - 垃圾回收
+  - 基础设施
+  - 工程权衡
   - 并发模型
-  - 异步编程
-  - 性能延迟
-  - 性能调优
+  - 开发效率
+  - 微服务
+  - 性能
   - 技术志
-  - 线程安全
-  - 结构化并发
-  - 虚拟线程
-  - 连接池
-  - 高并发
+  - 技术选型
+  - 极致控制
+  - 系统编程
   relme:
     https://tonybai.com/: true
-  last_post_title: AWS 大神发文炮轰：Go 的并发就是个“笑话”，JVM 的方案要更优越
-  last_post_description: 本文永久链接 – https://tonybai.com/2026/05/07/aws-guru-slams-go-concurrency-as-a-joke-vs-jvm
+  last_post_title: “用 Go 打天下，用 Rust 救火”：这才是 2026 年后端架构的唯一正解
+  last_post_description: 本文永久链接 – https://tonybai.com/2026/05/11/go-vs-rust-backend-architecture-the-2026-strategy
     大家好，我是Tony Bai。
-  last_post_date: "2026-05-06T23:10:44Z"
-  last_post_link: https://tonybai.com/2026/05/07/aws-guru-slams-go-concurrency-as-a-joke-vs-jvm/
+  last_post_date: "2026-05-10T22:58:44Z"
+  last_post_link: https://tonybai.com/2026/05/11/go-vs-rust-backend-architecture-the-2026-strategy/
   last_post_categories:
-  - Ahmetb
-  - AsyncProgramming
-  - Channel
+  - BackendArchitecture
+  - BusinessLogic
   - ConcurrencyModel
-  - ConnectionPool
-  - DistributedSystems
-  - EffectSystem
-  - Effect系统
+  - DevelopmentEfficiency
+  - EngineeringTradeoffs
+  - ExtremeControl
+  - GarbageCollection
   - Go
   - GoLanguage
   - Golang
   - Go语言
-  - HighConcurrency
-  - JVM
-  - JamesWard
-  - Java
-  - PerformanceTuning
-  - StructuredConcurrency
-  - ThreadSafety
-  - VirtualThreads
-  - goroutine
+  - MemorySafety
+  - Microservices
+  - Performance
+  - Rust
+  - SystemsProgramming
+  - TechSelection
+  - Throughput
+  - cloudnative
+  - infrastructure
   - latency
-  - 分布式系统
+  - 业务逻辑
+  - 云原生
+  - 内存安全
+  - 后端架构
+  - 吞吐量
+  - 响应时间
+  - 垃圾回收
+  - 基础设施
+  - 工程权衡
   - 并发模型
-  - 异步编程
-  - 性能延迟
-  - 性能调优
+  - 开发效率
+  - 微服务
+  - 性能
   - 技术志
-  - 线程安全
-  - 结构化并发
-  - 虚拟线程
-  - 连接池
-  - 高并发
+  - 技术选型
+  - 极致控制
+  - 系统编程
   last_post_language: ""
-  last_post_guid: da2872667d684b84deaebfbe47829d4e
+  last_post_guid: d902bc2f038565e9bccabc2d4ee53d0b
   score_criteria:
     cats: 0
     description: 3

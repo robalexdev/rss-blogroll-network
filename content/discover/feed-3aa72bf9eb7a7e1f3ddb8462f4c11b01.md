@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-03-03T14:48:51Z"
+date: "2026-03-31T12:14:38Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What and Where is a “Link Context”? Explained Using Citation Conventions
+  last_post_title: What About Mnemonics?
   last_post_description: ""
-  last_post_date: "2026-03-03T14:48:51Z"
-  last_post_link: https://zettelkasten.de/posts/what-and-where-is-a-link-context-explained-using-citation-conventions/
+  last_post_date: "2026-03-31T12:14:38Z"
+  last_post_link: https://zettelkasten.de/posts/what-about-mnemonics/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eda966e0aa1af834ae4f9cf34aa1c094
+  last_post_guid: a44ee5b2f882f984d6cb634aee4308a0
   score_criteria:
     cats: 0
     description: 0

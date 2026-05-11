@@ -18,16 +18,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: TorBox v.0.5.5 – Debian 13 (Trixie) Update, 01 December 2025
-  last_post_description: Debian 13 (Trixie) was released in August 2025. Raspberry
-    Pi OS 6.x, based on Debian 13, was released in October 2025. As a result, the
-    TorBox installation scripts no longer ran properly. At the
-  last_post_date: "2025-12-22T15:12:59Z"
-  last_post_link: https://www.torbox.ch/?p=3978
+  last_post_title: TorBox v.0.5.5 – OpenVPN Update, 22 March 2026
+  last_post_description: This release brings a major overhaul of the OpenVPN integration,
+    improved bridge support, better TorBox on a Cloud compatibility, and numerous
+    security dependency updates. TorBox Image (about 2 GB)
+  last_post_date: "2026-04-06T19:30:28Z"
+  last_post_link: https://www.torbox.ch/?p=4081
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 422f8dbde19684a28013d68362ec1cf4
+  last_post_guid: d2ae570b01c07dbb4eadf99c648e1977
   score_criteria:
     cats: 0
     description: 3

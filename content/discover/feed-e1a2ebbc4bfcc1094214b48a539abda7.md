@@ -31,6 +31,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: Ton's Blogroll (human and machine readable, you can import this file into
       your feed reader)
     description: ""

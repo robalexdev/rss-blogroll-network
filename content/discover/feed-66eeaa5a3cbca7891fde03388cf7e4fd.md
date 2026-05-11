@@ -14,6 +14,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: FreshRSS
     description: ""
     id: 5a1c6ae0431c53f45dd7baba3b6f2126
@@ -46,6 +49,7 @@ params:
   - https://www.yunyoujun.cn/atom.xml
   - https://blog.fkun.tech/feed/atom/
   - https://blog.hslzz.cn/rss2.xml
+  - https://blog.vull.top/rss.xml
   - https://rpvvn.github.io/atom.xml
   - https://rpvvn.github.io/rss.xml
   - https://coseroom.com/feed.xml

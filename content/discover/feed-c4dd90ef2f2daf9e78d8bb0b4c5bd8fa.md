@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-03-16T11:43:17-04:00"
+date: "2026-05-10T23:54:34-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -42,6 +42,7 @@ params:
   - 1952Club
   - 1954Club
   - 1956Club
+  - 1961Club
   - 1962Club
   - 1965Club
   - 1968 Club
@@ -69,6 +70,7 @@ params:
   - A Botanist's Guide to Parties and Poisons
   - A Brush With Death
   - A Bullet in the Ballet
+  - A Caribbean Mystery
   - A Case of Mice and Men
   - A Child's History of the World
   - A Coronet for Cathie
@@ -194,6 +196,7 @@ params:
   - American Heiress
   - American History
   - American Spy
+  - American West
   - Amistad
   - Amor Towles
   - Amos Fortune Free Man
@@ -257,6 +260,7 @@ params:
   - Annette Meyers
   - Annie Ernaux
   - Annie Lennox
+  - Annie Murray
   - Annie Sullivan
   - Another Place Another Spring
   - Antarctica
@@ -282,6 +286,7 @@ params:
   - Apsley House
   - Arabella
   - Are You My Mother
+  - Ariel Lawhon
   - Arlen Specter
   - Arles
   - Armando Lucas Correa
@@ -325,12 +330,14 @@ params:
   - BEA 2009
   - Babbacombe's
   - Babe Ruth
+  - Babs H. Deal
   - Baby Island
   - Bach
   - Back to School
   - Backwater War
   - Bacn
   - Baker Books
+  - Ballantine
   - Ballet Shoes
   - Band of Sisters
   - BandN.com
@@ -375,6 +382,7 @@ params:
   - Benazir Bhutto
   - Benbow Smith
   - Bergdorf Blondes
+  - Berkley Highland
   - Berkley Publishing
   - Bermuda
   - Bernard Berenson
@@ -384,6 +392,7 @@ params:
   - Beth Gutcheon
   - Beth O'Leary
   - Beth Teitell
+  - Beth and Joe Krush
   - Betrayal at Ravenswick
   - Betsy Prioleau
   - Betsy Ray
@@ -632,6 +641,7 @@ params:
   - 'Cher: The Memoir'
   - Cherry Ames
   - Chesapeake Diaries
+  - Cheshire
   - Chicago
   - Chicago Stars
   - Chief Justice John Roberts
@@ -812,6 +822,7 @@ params:
   - Debutante Hill
   - December 2024
   - Deception Island
+  - Decoration Day
   - Decoy Ducks
   - Deep State
   - Deep Summer
@@ -832,6 +843,7 @@ params:
   - Detroit Tigers
   - Deva Fagan
   - Devices and Desires
+  - Devil Water
   - Devil's Cub
   - Devon
   - Dewithon
@@ -874,6 +886,7 @@ params:
   - Dorothy Gilman
   - Dorothy L. Sayers
   - Dorothy and the Wizard in Oz
+  - Doubleday
   - Down Cemetery Road
   - Down Under
   - Down in the Cellar
@@ -949,6 +962,7 @@ params:
   - Elinor Brent-Dyer
   - Elinor Lipman
   - Elinor Lyon
+  - Elisabeth Hamilton Friermood
   - Elisabeth Kyle
   - Elisabeth Ogilvie
   - Elise Hooper
@@ -1324,6 +1338,7 @@ params:
   - Helen Simonson
   - Helen Vendler
   - Helene Pecheux
+  - Hello Summer
   - Hello Transcriber
   - Hemingford Grey
   - Henry David Thoreau
@@ -1570,6 +1585,7 @@ params:
   - Josephine Elder
   - Josephine Tey
   - Joshua Feldman
+  - Joyce Dennys
   - Jr
   - Jr.
   - Judge Gordon A. Martin
@@ -1580,6 +1596,7 @@ params:
   - Judith O'Brien
   - Judith Rossell
   - Judy Blume
+  - Judy Garland
   - Jules Pfeiffer
   - Julia Blythe
   - Julia Child
@@ -1766,6 +1783,7 @@ params:
   - Linda Barlow
   - Linda Castillo
   - Linda Newbery
+  - Linda Wilgus
   - Linda Williams Jackson
   - Lindchester
   - Lindsey Kelk
@@ -1934,6 +1952,7 @@ params:
   - Marjory Hall
   - Mark Bittman
   - Mark Weiner
+  - Marry in Haste
   - Marsha On-Stage
   - Marsha Qualey
   - Martha Washington
@@ -1952,6 +1971,7 @@ params:
   - Mary Essex
   - Mary Higgins Clark
   - Mary Hooper
+  - Mary Kay Andrews
   - Mary Kubica
   - Mary Lawrence
   - Mary Magdalene
@@ -2036,6 +2056,7 @@ params:
   - Mira
   - Mira Books
   - Miranda Malins
+  - Miranda Welch
   - Miss Austen
   - Miss Buncle's Book
   - Miss Hargreaves
@@ -2130,6 +2151,7 @@ params:
   - Nancy Pearl
   - Nancy Thayer
   - Nancy and Plum
+  - Naomi Novik
   - Narnia
   - Narniathon21
   - Nashville
@@ -2246,6 +2268,7 @@ params:
   - Once a Midwife
   - One Fine Day
   - One Two Buckle My Shoe
+  - One of Fred's Girls
   - Ontario
   - Open Books
   - Oprah
@@ -2253,10 +2276,12 @@ params:
   - Orbital
   - Orchard House
   - Ordeal by Innocence
+  - Oregon
   - Oreos
   - Orion
   - Orphan X
   - Oscars
+  - Other People's Houses
   - Our Castle by the Sea
   - Our Town
   - Out of Town News
@@ -2448,9 +2473,11 @@ params:
   - ReadingIrelandMonth26
   - ReadingWales
   - ReadingWales23
+  - ReadingWales26
   - ReadingtheMeow
   - ReadingtheMeow2024
   - Rebecca
+  - Rebecca Armitage
   - Rebecca Rego Barry
   - Rebecca Ross
   - Rebecca Shaw
@@ -2487,6 +2514,8 @@ params:
   - Rilla of Ingleside
   - Rinkitink of Oz
   - Rise of the Black Quarterback
+  - River Lodge
+  - Roald Dahl
   - Robert Burns
   - Robert Caro
   - Robert Coles
@@ -2539,6 +2568,7 @@ params:
   - Ruta Sepetys
   - Ruth Langland Holberg
   - Ruth M. Arthur
+  - Ruth Reichl
   - Ruth Ware
   - Ruthless
   - Rye
@@ -2625,6 +2655,7 @@ params:
   - Shadow Spinner
   - Shakespeare
   - Shannon Bowring
+  - Shannon Hale
   - Shari Lapena
   - Sharon Bolton
   - Sharon Cameron
@@ -2693,6 +2724,7 @@ params:
   - Sophie Irwin
   - Sophie Kinsella
   - Sophie Perinot
+  - Sorcery & Cecelia
   - Sororities
   - Sourcebooks
   - South Cove Summer
@@ -2717,6 +2749,7 @@ params:
   - Spoiler Alert
   - Sports Guy
   - Spring Dream
+  - Spring Magic
   - St. Albans
   - St. Bartholomew the Great
   - St. Baudile
@@ -2865,6 +2898,7 @@ params:
   - The Art of Alice and Martin Provensen
   - The Ash Grove
   - The Astonishing Adventure of Jane Smith
+  - The Astral Library
   - The Baby Plan
   - The Barbican Library
   - The Bass Rock
@@ -2961,6 +2995,7 @@ params:
   - The Gilded Girl
   - The Gilded Years
   - The Girl With the Silver Eyes
+  - The Girl in the Cellar
   - The Girl with a Clock for a Heart
   - The Girls I've Been
   - The Giver of Stars
@@ -2981,6 +3016,7 @@ params:
   - The Gypsy Bridle
   - The Hamptons
   - The Hanging Wood
+  - The Harvey Girls
   - The Hate U Give
   - The Hating Game
   - The Haunted Bookshop
@@ -3006,6 +3042,7 @@ params:
   - The Innocents from Indiana
   - The Island of Adventure
   - The It Girl
+  - The Ivy Tree
   - The Jazz Barn
   - The Juvenile Novels of World War II
   - The King's Daughter
@@ -3097,6 +3134,7 @@ params:
   - The One and Only Ivan
   - The Only Black Girls in Town
   - The Parasites
+  - The Paris Novel
   - The Patchwork Girl of Oz
   - The Perfect Couple
   - The Perfect Lie
@@ -3132,6 +3170,7 @@ params:
   - The School Run
   - The School at the Chalet
   - The Score
+  - The Sea Child
   - The Searcher
   - The Second Midnight
   - The Secret Keeper
@@ -3214,6 +3253,7 @@ params:
   - The Young Unicorns
   - Theater Shoes
   - Theodore Roosevelt
+  - Theodore White
   - Theodosia Burr Alston
   - There is a Tide
   - These Old Shades
@@ -3402,6 +3442,7 @@ params:
   - Westminster Press
   - What Angels Fear
   - What to read when it's snowing
+  - When Love Speaks
   - When Marnie Was There
   - When You Trap a Tiger
   - When the Lights Go Out
@@ -3499,6 +3540,7 @@ params:
   - ballet
   - banana bread
   - baseball
+  - beach
   - bedtime
   - biblical fiction
   - blizzard
@@ -3792,6 +3834,7 @@ params:
   - road trip
   - robins
   - romance
+  - romance. army
   - romantic comedy
   - rude children
   - sad but true
@@ -3882,20 +3925,19 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: The Elements by John Boyne - Reading Ireland Month 2026
+  last_post_title: River Lodge by Elizabeth Cadell
   last_post_description: ""
-  last_post_date: "2026-03-16T11:43:17-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/03/the-elements-by-john-boyne-reading.html
+  last_post_date: "2026-05-10T06:00:00-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/05/river-lodge-by-elizabeth-cadell.html
   last_post_categories:
-  - Ireland
-  - John Boyne
-  - ReadingIrelandMonth26
-  - The Elements
+  - 20th century England
+  - Elizabeth Cadell
+  - River Lodge
   - book review
   - fiction
-  - trauma
+  - hotel
   last_post_language: ""
-  last_post_guid: 82f0b6825e7d4c449482b79209fd8c4e
+  last_post_guid: d88f2d7be1b219e611f512572d1d1fd8
   score_criteria:
     cats: 5
     description: 3

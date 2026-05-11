@@ -18,33 +18,31 @@ params:
   categories:
   - Comics
   - DC Minis
-  - Dark Science High School
   relme: {}
-  last_post_title: 'DC Minis #20 – Dark Science High School (Part 13)'
-  last_post_description: The end! For now, at least! Tune in next time for… a surprise!
-    -SEN New to Dresden Codak? These mini-comics alternate with my MEGA-COMICS! The
-    current storyline is Dark Science and you can catch up
-  last_post_date: "2026-03-16T07:50:46Z"
-  last_post_link: https://dresdencodak.com/2026/03/16/dc-minis-20-dark-science-high-school-part-13/
+  last_post_title: 'DC Minis #23 – SenCon 2026'
+  last_post_description: |-
+    New to Dresden Codak? These mini-comics alternate with my MEGA-COMICS! The current storyline is Dark Science and you can catch up right here.  
+    The post DC Minis #23 – SenCon 2026 appeared first
+  last_post_date: "2026-05-06T00:19:57Z"
+  last_post_link: https://dresdencodak.com/2026/05/05/dc-minis-23-sencon-2026/
   last_post_categories:
   - Comics
   - DC Minis
-  - Dark Science High School
   last_post_language: ""
-  last_post_guid: caaefeae7c5f0e2af696b7533a312f3e
+  last_post_guid: 8d2733a2e6569fb3393c1340d7f32417
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

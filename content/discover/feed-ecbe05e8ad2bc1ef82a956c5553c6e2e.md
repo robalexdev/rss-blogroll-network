@@ -1,12 +1,13 @@
 ---
 title: Daniel De Laney
-date: "2026-03-10T15:53:08Z"
-description: Daniel De Laney is a product manager with a design focus.
+date: "2026-05-05T20:49:29Z"
+description: I turn ambiguous technical problems into shipped products.
 params:
   feedlink: https://danieldelaney.net/feed.xml
   feedtype: rss
   feedid: ecbe05e8ad2bc1ef82a956c5553c6e2e
-  websites: {}
+  websites:
+    https://danieldelaney.net/: true
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -39,8 +40,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

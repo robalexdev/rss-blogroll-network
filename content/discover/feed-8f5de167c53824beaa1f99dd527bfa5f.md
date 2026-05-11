@@ -10,7 +10,7 @@ params:
     https://blog.strengthofone.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -19,31 +19,32 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
   categories:
   - Art
   - Photos
-  - graffiti
   - illustration
-  - stencil
+  - paste up
   - street art
   relme: {}
-  last_post_title: We’re Still Children
-  last_post_description: It’s always nice to find street art in a neighborhood filled
-    with high end art galleries. A good sized stencil piece tucked inside a loading
-    dock reminiscent in subject matter of that other famous,
-  last_post_date: "2026-03-09T00:44:12Z"
-  last_post_link: https://blog.strengthofone.com/2026/03/08/were-still-children/
+  last_post_title: Silent Witness
+  last_post_description: Found this beautiful old paste up from Dylan Egon that strikes
+    so many chords with me. Which chords? It’s black and white with simple, clean
+    lines. It’s full of small symbolic details that many
+  last_post_date: "2026-05-09T12:59:29Z"
+  last_post_link: https://blog.strengthofone.com/2026/05/09/silent-witness/
   last_post_categories:
   - Art
   - Photos
-  - graffiti
   - illustration
-  - stencil
+  - paste up
   - street art
   last_post_language: ""
-  last_post_guid: a78606796aa7d042781657efbb44947d
+  last_post_guid: 05c42defca2b7408dc2611a771ea0055
   score_criteria:
     cats: 0
     description: 3

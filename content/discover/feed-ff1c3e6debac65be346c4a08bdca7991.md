@@ -1,6 +1,6 @@
 ---
 title: Matte Shot - a tribute to Golden Era special fx
-date: "2026-03-16T20:40:22+13:00"
+date: "2026-05-08T22:54:30+12:00"
 description: |-
   This blog is intended primarily as a tribute to the inventiveness and ingenuity of the craft of the matte painter during Hollywoods' Golden Era.
 
@@ -28,6 +28,7 @@ params:
   - Alfred Hitchcock
   - Anita Ekberg
   - Anna Osbourne
+  - Apogee
   - Art Cruickshank
   - Art Smith
   - Arthur Day
@@ -105,6 +106,7 @@ params:
   - Derek Meddings
   - Devereaux Jennings
   - Disney
+  - Don Siegel
   - Donald Glouner
   - Donald Jahraus
   - Dorothy Holt
@@ -150,6 +152,7 @@ params:
   - Garson Citron
   - Gaumont British
   - Gene Hackman
+  - Gene Roddenberry
   - Gene Warren
   - Gene Warren jnr
   - Geoffrey Dickinson
@@ -224,6 +227,7 @@ params:
   - Joe Musso
   - John Crouse
   - John DeCuir
+  - John Dykstra
   - John Grant
   - John Hench
   - John Holden
@@ -267,6 +271,7 @@ params:
   - Lyle Wheeler
   - Lynn Ledgerwood
   - MGM
+  - Magicam
   - Marcel Delgado
   - Mario Bava
   - Mario Castegnaro
@@ -349,6 +354,7 @@ params:
   - Robert R.Hoag
   - Robert Skotak
   - Robert Stromberg
+  - Robert Swarthe
   - Robin Browne
   - Rocco Gioffre
   - Roger Dicken
@@ -440,25 +446,28 @@ params:
   - special photographic effects
   - wide screen
   relme: {}
-  last_post_title: 'MATTE & EFFECTS FILMS CELEBRATED: Part Eleven'
+  last_post_title: 'MATTE & EFFECTS FILMS CELEBRATED:  Part Twelve'
   last_post_description: ""
-  last_post_date: "2025-10-16T16:28:12+13:00"
-  last_post_link: https://nzpetesmatteshot.blogspot.com/2025/10/matte-effects-films-celebrated-part.html
+  last_post_date: "2026-04-04T15:20:10+13:00"
+  last_post_link: https://nzpetesmatteshot.blogspot.com/2026/04/matte-effects-films-celebrated-part.html
   last_post_categories:
-  - Albert Maxwell Simpson
-  - Albert Whitlock
-  - Brian Flora
-  - Cliff Richardson
-  - Emil Kosa
-  - George Gibson
-  - Jules Verne
-  - L.B Abbott
-  - Mark Sullivan
-  - Matthew Yuricich
-  - Menrad von Muldorfer
-  - Roy Kellino
+  - Apogee
+  - Byron Haskin
+  - Cliff Culley
+  - Don Siegel
+  - Douglas Trumbull
+  - Entertainment Effects Group
+  - Gene Roddenberry
+  - Jim Danforth
+  - John Dykstra
+  - Magicam
+  - Neil McGuire
+  - Paul Detlefsen
+  - Robert Abel
+  - Robert Swarthe
+  - Steve Begg
   last_post_language: ""
-  last_post_guid: 0eedf42256384a7bbb078dfa46ff7166
+  last_post_guid: fa1213f00e6c5891e7abbd541fa1408a
   score_criteria:
     cats: 5
     description: 3

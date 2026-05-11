@@ -23,14 +23,13 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: Weathering the Storm
-  last_post_description: How did we get here? How do we get out? Take a dive into
-    the archive!
-  last_post_date: "2026-03-15T13:02:31Z"
-  last_post_link: https://sarahkendzior.substack.com/p/weathering-the-storm
+  last_post_title: The Last Incorruptible Thing
+  last_post_description: Life lessons from the morel majority.
+  last_post_date: "2026-05-04T15:46:18Z"
+  last_post_link: https://sarahkendzior.substack.com/p/the-last-incorruptible-thing
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 510c6b7db88ec22c83613758eeb48971
+  last_post_guid: 816f18367fae7200baecf0d01ef10a43
   score_criteria:
     cats: 0
     description: 3

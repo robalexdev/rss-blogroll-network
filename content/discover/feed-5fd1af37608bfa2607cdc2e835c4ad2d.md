@@ -1,6 +1,6 @@
 ---
 title: Mijndert Stuij
-date: "2026-03-18T09:02:00Z"
+date: "2026-04-15T14:12:00Z"
 description: Lead platform engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -34,6 +34,9 @@ params:
   - title: ""
     description: ""
     id: 2b4c94bc1b8b6c8483882e4beaedc16f
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: Dan Q's Blogroll
     description: ""
     id: cf55eb3ed10628f3d87eaf0ddb80287f
@@ -44,13 +47,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Introducing CalAction Beta
-  last_post_description: ""
-  last_post_date: "2026-03-18T09:02:00Z"
-  last_post_link: https://mijndertstuij.nl/posts/introducing-calaction-beta/
+  last_post_title: Weeknotes 16 - 2026
+  last_post_description: A proud dad moment at a dance show, running progress, getting
+    hooked on Shelldiver, new Jack White music, and a week off with family.
+  last_post_date: "2026-04-15T14:12:00Z"
+  last_post_link: https://mijndertstuij.nl/weeknotes/16-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9eae33300fbc131ae654eabced0c8e86
+  last_post_guid: 738815b52fd5292a35d54e12b58689e8
   score_criteria:
     cats: 0
     description: 3

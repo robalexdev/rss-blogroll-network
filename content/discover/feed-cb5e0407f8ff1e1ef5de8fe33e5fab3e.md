@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2025-12-10T00:00:00Z"
+date: "2026-05-07T00:00:00Z"
 description: ""
 params:
   feedlink: https://gregat.es/atom.xml
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Trumpiest baby names of 2024
+  last_post_title: Pivot is more than a shorter, fatter group by
   last_post_description: ""
-  last_post_date: "2025-12-10T00:00:00Z"
-  last_post_link: https://gregat.es/baby-names-trumpiest/
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: https://gregat.es/pivot-not-groupby/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08caa4ce85da3fbb954a30176dfbe2d5
+  last_post_guid: fadf22250fd17264eca6657e63c96cae
   score_criteria:
     cats: 0
     description: 0

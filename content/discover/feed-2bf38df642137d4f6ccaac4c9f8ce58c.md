@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Merge External Repositories into GitHub Contribution Graph
-  last_post_description: I enjoy gazing at the green squares in my GitHub Contribution
-    Graph as a way to visualize the ebbs and flows of my development efforts over
-    the last decade. However, I’ve been working more in
-  last_post_date: "2026-03-05T01:15:00Z"
-  last_post_link: https://swharden.com/blog/2026-03-05-git-activity-merge/
+  last_post_title: Embed Arbitrary Payloads into JPEGs without Special Tools
+  last_post_description: Arbitrary binary data can be hidden at the end of JPEG files
+    which otherwise behave normally. This article explores strategies for packing
+    and unpacking payloads into JPEG images using standard
+  last_post_date: "2026-05-02T11:04:00Z"
+  last_post_link: https://swharden.com/blog/2026-05-02-jpeg-payload/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8537b409ecf63f09d58bc850ad012fd1
+  last_post_guid: 858a0a75d9a6be64556631cb00a62efa
   score_criteria:
     cats: 0
     description: 3

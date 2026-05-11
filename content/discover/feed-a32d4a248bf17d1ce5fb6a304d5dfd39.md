@@ -17,33 +17,34 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - acton
-  - architecture
-  - art deco
   - blog
   - blogger
   - blogging
+  - colour
+  - flowers
   - haiku
   - haiku and photography
-  - west london
+  - isabella plantation
+  - richmond park
   relme: {}
-  last_post_title: Modernism in West London
-  last_post_description: A modern style It was so several years back Art Deco it is
-  last_post_date: "2026-03-16T08:27:00Z"
-  last_post_link: https://adam-yamey-writes.com/2026/03/16/modernism-in-west-london/
+  last_post_title: The Isabella Plantation in Richmond Park
+  last_post_description: Bursts of colour In the Isabella Plantation Bring us great
+    joy
+  last_post_date: "2026-05-10T08:25:00Z"
+  last_post_link: https://adam-yamey-writes.com/2026/05/10/the-isabella-plantation-in-richmond-park/
   last_post_categories:
   - Uncategorized
-  - acton
-  - architecture
-  - art deco
   - blog
   - blogger
   - blogging
+  - colour
+  - flowers
   - haiku
   - haiku and photography
-  - west london
+  - isabella plantation
+  - richmond park
   last_post_language: ""
-  last_post_guid: a1a7cf25dace9b0b30721b270c24cdef
+  last_post_guid: 5831f086260ee18072f81b7177fcb65d
   score_criteria:
     cats: 0
     description: 3

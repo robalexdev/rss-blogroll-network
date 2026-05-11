@@ -12,7 +12,7 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -22,13 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How PyTorch Generates Random Numbers in Parallel on the GPU
-  last_post_description: A deep dive into Philox and counter-based RNGs
-  last_post_date: "2025-12-18T10:26:29Z"
-  last_post_link: https://blog.codingconfessions.com/p/how-pytorch-generates-random-numbers
+  last_post_title: 'Virtual Memory: A Deep Dive into Page Tables, TLBs, and Linux
+    Internals'
+  last_post_description: 'From page faults to NUMA topology: how the Linux kernel
+    manages memory, and what that means for the performance of data-intensive systems.'
+  last_post_date: "2026-05-10T17:51:01Z"
+  last_post_link: https://blog.codingconfessions.com/p/virtual-memory
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e7a3f397f1534b64e437e2676ee5812
+  last_post_guid: 8b1983df0e21c11dc17e0e286c6da630
   score_criteria:
     cats: 0
     description: 3

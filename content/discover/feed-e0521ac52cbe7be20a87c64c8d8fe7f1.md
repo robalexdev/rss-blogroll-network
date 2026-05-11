@@ -23,16 +23,16 @@ params:
   - Music
   - Society & Culture
   relme: {}
-  last_post_title: 'Song 183: “Pinball Wizard” by the Who, part 1: Always Playing
-    Clean'
-  last_post_description: |-
-    Apologies for the delay in posting this episode — I had a chronic illness flare-up and a frankly awful January. With luck, part two of this story will be up before the end of February.
-    For those
-  last_post_date: "2026-02-12T19:20:21Z"
-  last_post_link: https://500songs.com/podcast/song-183-pinball-wizard-by-the-who-part-1-always-playing-clean/
+  last_post_title: 'Song 183: “Pinball Wizard” by the Who, Part 2: “His Disciples
+    Lead Him In”'
+  last_post_description: Apologies for the delay in posting this episode — health
+    issues have continued to affect me. They *seem* to be improving, but I should
+    also mention here that some of the guitar demonstrations in
+  last_post_date: "2026-03-22T22:38:17Z"
+  last_post_link: https://500songs.com/podcast/song-183-pinball-wizard-by-the-who-part-2-led-by-his-disciples/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3eed6f3e929c8e69efa374809f72d97e
+  last_post_guid: bfa40591b9f854beb7e5638e4f8d4595
   score_criteria:
     cats: 3
     description: 3

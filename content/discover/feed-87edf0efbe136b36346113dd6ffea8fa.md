@@ -10,7 +10,7 @@ params:
     https://scottnesbitt.online/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,13 +29,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: My Writing Setup
-  last_post_description: What I use, both physical and digital, to write
-  last_post_date: "2026-01-23T06:04:00Z"
-  last_post_link: https://scottnesbitt.online/setup.html
+  last_post_title: On Nostalgia
+  last_post_description: Some thoughts about the past and dwelling on it
+  last_post_date: "2026-05-08T07:07:00Z"
+  last_post_link: https://scottnesbitt.online/nostalgia.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7d277b56b07c6acc322bf72ba6104a37
+  last_post_guid: 68a7e4e14b0f2ac7ab04a0c977fd477e
   score_criteria:
     cats: 0
     description: 3

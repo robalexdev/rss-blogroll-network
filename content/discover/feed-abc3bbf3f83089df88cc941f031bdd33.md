@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2026-03-06T06:00:00Z"
+date: "2026-04-29T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -10,7 +10,7 @@ params:
     https://www.zachleat.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS Feeds for Clayton's Blogroll
@@ -28,6 +28,9 @@ params:
   - title: Frontend Dev Feeds
     description: ""
     id: 38149979474709d3c2d6dd1d0b7b71f0
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
@@ -49,13 +52,13 @@ params:
   - https://simonbc.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Eleventy is now Build Awesome
+  last_post_title: Back Build Awesome Pro and make it easier to build for the web!
   last_post_description: ""
-  last_post_date: "2026-03-06T06:00:00Z"
-  last_post_link: https://www.zachleat.com/web/build-awesome/
+  last_post_date: "2026-04-29T05:00:00Z"
+  last_post_link: https://www.zachleat.com/web/build-awesome-pro/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a25d5335182b5913354907d71733fa5
+  last_post_guid: 7a907af52cc18c74ab02a69b4aef0932
   score_criteria:
     cats: 0
     description: 3

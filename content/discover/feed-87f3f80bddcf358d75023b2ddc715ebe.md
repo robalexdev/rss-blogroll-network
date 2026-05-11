@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Sonder"
-  last_post_description: lofi, emotional, synth, worldbuilding
-  last_post_date: "2026-03-13T00:00:00Z"
-  last_post_link: https://aaronholbrookmusic.com/song/sonder/
+  last_post_title: "\U0001F3B5 New Release: Float Away"
+  last_post_description: sparkly, ethereal, jam session
+  last_post_date: "2026-05-08T00:00:00Z"
+  last_post_link: https://aaronholbrookmusic.com/song/float-away/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54816b6499ebe64bf1e89baf232dc282
+  last_post_guid: 7241f8b53dee0383c6497f5571c9634d
   score_criteria:
     cats: 0
     description: 3

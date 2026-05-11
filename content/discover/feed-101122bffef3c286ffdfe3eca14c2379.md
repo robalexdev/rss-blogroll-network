@@ -34,15 +34,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Vibe Coding with GitHub Copilot
+  last_post_title: 20260509的胡言乱语
   last_post_description: |-
-    Introduction
-    I’ve been using GitHub Copilot on and off to build a few small projects lately, and I’ve picked up quite a few lessons along the way. This post is a summary of that experience,
-  last_post_date: "2026-03-16T16:38:00Z"
-  last_post_link: https://www.bboy.app/2026/03/16/vibe-coding-with-github-copilot/
+    简介
+    欢迎关注我的频道，不时发送垃圾消息
+    https://t.me/bboyapp
+    或者关注我的 twitter
+    https://twitter.com/bboysoulcn
+  last_post_date: "2026-05-09T15:54:00Z"
+  last_post_link: https://www.bboy.app/2026/05/09/20260509%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f99970617f27e47a8e84a3bb2691506
+  last_post_guid: eea9cf730e2e4fd6c6cfcddd528f19ae
   score_criteria:
     cats: 0
     description: 3

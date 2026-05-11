@@ -1,6 +1,6 @@
 ---
 title: Phil's Workbench
-date: "2026-03-16T11:12:27Z"
+date: "2026-05-11T04:30:00Z"
 description: A daily updated blog typed by someone with painty hands, oil under his
   fingernails and the smell of solder in his nostrils who likes making all sort of
   models and miniatures. And fixing things.
@@ -12,7 +12,7 @@ params:
     https://philsworkbench.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -115,6 +115,7 @@ params:
   - Foxdale
   - Furniture making
   - G Van
+  - G1 Manvers Main
   - G1 Pannier Tank
   - G1MRA wagon
   - G2
@@ -359,27 +360,28 @@ params:
   - wooden toilet
   - yacht
   relme: {}
-  last_post_title: Abrail haul
+  last_post_title: Key Model World haul
   last_post_description: ""
-  last_post_date: "2026-03-16T05:30:00Z"
-  last_post_link: https://philsworkbench.blogspot.com/2026/03/abrail-haul.html
+  last_post_date: "2026-05-11T04:30:00Z"
+  last_post_link: https://philsworkbench.blogspot.com/2026/05/key-model-world-haul.html
   last_post_categories:
-  - model railway
+  - model railways
+  - plastic kits
   last_post_language: ""
-  last_post_guid: f20a37d75ba11524500efa781e3af883
+  last_post_guid: 5d61b264a78312de3c795f03ba79511a
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 25
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

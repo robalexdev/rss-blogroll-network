@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Software 2.0: Code is Cheap, Good Taste is Not'
-  last_post_description: "42 minutes to read\n\n        \n          \n\n          \n
-    \            I’ve been using LLMs to help me develop software in earnest since
-    the original releases of GitHub CoPilot. The earliest talk I gave"
-  last_post_date: "2026-01-26T14:00:00Z"
-  last_post_link: https://aaronstannard.com/beginning-of-software-2.0/
+  last_post_title: 'Software 2.0: Planning and Verifying a Greenfield Project'
+  last_post_description: "26 minutes to read\n\n        \n          \n\n          \n
+    \           In “Software 2.0: Code is Cheap, Good Taste is Not” I introduced “Software
+    2.0,” broadly, as an emerging practice in software"
+  last_post_date: "2026-03-13T14:00:00Z"
+  last_post_link: https://aaronstannard.com/software-2.0-case-study-textforge/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a37814de2ade8feb13519333f57a9c9a
+  last_post_guid: 1edbc51a74b4d332766b2473c29cbf1b
   score_criteria:
     cats: 0
     description: 3

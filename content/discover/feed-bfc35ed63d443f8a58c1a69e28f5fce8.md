@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to Prove Marketing ROI With Pipeline Data (Not Opinions)
-  last_post_description: Most marketing teams are sitting on the wrong proof. They
-    walk into budget meetings with click-through rates, impressions, and MQL counts
-    — and wonder why finance still treats them like a cost
-  last_post_date: "2026-05-07T03:41:40Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/how-to-prove-marketing-roi-with-pipeline-data
+  last_post_title: Generative Engine vs Traditional SEO Guide
+  last_post_description: |-
+    Is Generative Engine Optimization replacing SEO in 2026?
+    Not exactly. What appears to be happening is a shift in how visibility is earned. Traditional SEO still helps pages get indexed, ranked, and
+  last_post_date: "2026-05-10T04:07:29Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/generative-engine-vs-traditional-seo-guide
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f65e51a81eef3fd1658b4eea7b58916a
+  last_post_guid: 251a10acbb4f1f4cba4d85cf833677fc
   score_criteria:
     cats: 0
     description: 3

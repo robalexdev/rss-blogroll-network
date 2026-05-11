@@ -29,11 +29,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'AlphaEvolve: Gemini-powered coding agent scaling impact across
-    fields'
+  last_post_title: I'm going back to writing code by hand
   last_post_description: Comments
-  last_post_date: "2026-05-07T15:02:20Z"
-  last_post_link: https://deepmind.google/blog/alphaevolve-impact/
+  last_post_date: "2026-05-11T01:23:51Z"
+  last_post_link: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

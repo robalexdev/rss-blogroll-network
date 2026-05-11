@@ -22,34 +22,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Commentary
-  - Markets
+  - Guest Notes
   - Policy
   relme: {}
-  last_post_title: It’s Toasted
-  last_post_description: Meta is taking a page out of Big Tobacco's PR playbook, and
-    legislators are responding.
-  last_post_date: "2026-05-01T06:02:14Z"
-  last_post_link: https://yadin.com/notes/toasted/
+  last_post_title: Regulatory Shaming and Climate Obstruction
+  last_post_description: Policymakers need to seriously consider shaming for dealing
+    with climate change. (Guest note by Dr. Sharon Yadin)
+  last_post_date: "2026-05-10T05:28:16Z"
+  last_post_link: https://yadin.com/notes/regulatory-shaming/
   last_post_categories:
-  - Commentary
-  - Markets
+  - Guest Notes
   - Policy
   last_post_language: ""
-  last_post_guid: 0f158248a703f73f01489904d5d72c1f
+  last_post_guid: 2676e083faf8a02a2e97c38e88f4407c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

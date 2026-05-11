@@ -16,7 +16,9 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://frytea.com/: true
+    https://github.com/songtianlun: true
   last_post_title: 终极指南：在 Linux 裸机服务器上快速部署 Moltbot (原 Clawbot) 并集成飞书
   last_post_description: 引言2026 年初，一个名为 Moltbot（前身为 Clawbot）的开源 AI 代理（Agent）框架席卷了开发者社区。该框架允许用户将强大的
     AI 模型（例如 OpenAI 的 GPT 系..
@@ -34,10 +36,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

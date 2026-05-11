@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Forgejo 14.0
+  last_post_title: Forgejo 15.0
   last_post_description: ""
-  last_post_date: "2026-01-15T21:17:54Z"
-  last_post_link: https://0.0.0.0:3000/blog/forgejo-14
+  last_post_date: "2026-04-18T05:05:56Z"
+  last_post_link: https://0.0.0.0:3000/blog/forgejo-15
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11ac9077760664ca6baa064d23876107
+  last_post_guid: 5f81bf15625b4bea55bc35e18e81c869
   score_criteria:
     cats: 0
     description: 3

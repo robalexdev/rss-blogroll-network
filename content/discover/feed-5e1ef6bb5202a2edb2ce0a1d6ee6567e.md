@@ -13,7 +13,7 @@ params:
     https://mequito.org/stories/series/es-regnet: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []

@@ -12,7 +12,7 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -39,6 +39,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: Dan Q's Blogroll
     description: ""
     id: cf55eb3ed10628f3d87eaf0ddb80287f
@@ -55,36 +58,36 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - general
-  - misc
+  - swim2026
+  - via-instagram
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: “You were due”
-  last_post_description: I went to the beach Saturday. We washed Gwen Saturday. She
-    was delighted. We watched Groundhog Day and it was–as always–excellent. Again.
-    My art piece Galletas de Mar pero no comer sold Sunday.
-  last_post_date: "2026-05-04T04:07:41Z"
-  last_post_link: https://artlung.com/blog/2026/05/03/you-were-due/
+  last_post_title: Party
+  last_post_description: ""
+  last_post_date: "2026-05-10T05:07:15Z"
+  last_post_link: https://artlung.com/blog/2026/05/09/party/
   last_post_categories:
   - general
-  - misc
+  - swim2026
+  - via-instagram
   last_post_language: ""
-  last_post_guid: 289c922d90d8926579bf72feed775800
+  last_post_guid: 79b46295a53614418dcee11dd031eb8a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -16,18 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Culture / Notes on Hollywood
+  - Puzzles & Games Dept. / Shuffalo
   relme: {}
-  last_post_title: Were the 2026 Oscars a Swan Song for Warner Bros.?
-  last_post_description: In the Dolby Theatre, I saw a win-win night for the studio
-    behind “Sinners” and “One Battle After Another”—and a lose-lose situation for
-    the industry.
-  last_post_date: "2026-03-16T20:24:06Z"
-  last_post_link: https://www.newyorker.com/culture/notes-on-hollywood/were-the-2026-oscars-a-swan-song-for-warner-bros
+  last_post_title: 'Play Shuffalo: Sunday, May 10, 2026'
+  last_post_description: Can you make a longer word with each new letter?
+  last_post_date: "2026-05-10T10:00:00Z"
+  last_post_link: https://www.newyorker.com/puzzles-and-games-dept/shuffalo/2026/05/10
   last_post_categories:
-  - Culture / Notes on Hollywood
+  - Puzzles & Games Dept. / Shuffalo
   last_post_language: ""
-  last_post_guid: 4a0849a368c7bdaf3ec3e48ad1c4e779
+  last_post_guid: 677e0340a8f6b162b8b1dd29682f9923
   score_criteria:
     cats: 0
     description: 3

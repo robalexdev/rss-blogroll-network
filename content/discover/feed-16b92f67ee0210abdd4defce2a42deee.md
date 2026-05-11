@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2026-05-07T09:50:05Z"
+date: "2026-05-10T09:30:31Z"
 description: Independent software developer
 params:
   feedlink: https://albertogalca.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://albertogalca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -19,6 +19,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2

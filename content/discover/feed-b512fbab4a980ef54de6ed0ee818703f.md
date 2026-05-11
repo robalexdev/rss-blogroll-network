@@ -20,32 +20,36 @@ params:
   recommender:
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
-  categories: []
+  categories:
+  - oregon
+  - science!
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: Random bits and bobs
-  last_post_description: Over the last week I've jotted down a bunch of notes in a
-    "Things to Blog" text file so I'm just gonna dump them here in no particular order.Bleeding
-    edge, AI-fueled fraudOne of my favorite mountain
-  last_post_date: "2026-03-03T06:27:18Z"
-  last_post_link: https://a.wholelottanothing.org/random-bits-and-bobs/
-  last_post_categories: []
+  last_post_title: Why do Oregon farms plant red clover every spring?
+  last_post_description: If you’re ever out on a bike ride with me and you ask an
+    innocent question like “hey, what’s with all the red plants on farms?” I must
+    warn you that because of my masters degree in soil
+  last_post_date: "2026-05-08T23:45:25Z"
+  last_post_link: https://a.wholelottanothing.org/why-do-oregon-farms-plant-red-clover-every-spring/
+  last_post_categories:
+  - oregon
+  - science!
   last_post_language: ""
-  last_post_guid: cb2288e028c34fc79dc6c656f687ce60
+  last_post_guid: 8d75deb62a91abc45c7a2c98ea7207d8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

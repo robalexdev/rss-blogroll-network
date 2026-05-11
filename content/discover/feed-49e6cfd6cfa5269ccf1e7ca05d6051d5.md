@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-05-07T05:41:06Z"
+date: "2026-05-10T18:48:53Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "iOS 3rd party AI \U0001F916, OpenAI phone 2027 \U0001F4F1, compounding
-    AI work \U0001F4C8"
+  last_post_title: "AirPod cameras \U0001F3A7, GPT-Realtime-2 \U0001F916, Cloudflare&#x27;s
+    AI layoffs \U0001F4BC"
   last_post_description: ""
-  last_post_date: "2026-05-05T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-05-06
+  last_post_date: "2026-05-07T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-05-08
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f60ad2790bfac211ca3c6881a6af9b5d
+  last_post_guid: 0c7c1ad0b40cd81c4aaf12a2f79c7da2
   score_criteria:
     cats: 0
     description: 0

@@ -25,7 +25,7 @@ params:
   relme: {}
   last_post_title: （整活）用29行C++代码写一个Deepseek
   last_post_description: 这篇文章纯属整整活儿
-  last_post_date: "2026-03-15T11:00:09Z"
+  last_post_date: "2026-04-30T17:42:56Z"
   last_post_link: https://blog.hslzz.cn/posts/3.html
   last_post_categories:
   - 整活

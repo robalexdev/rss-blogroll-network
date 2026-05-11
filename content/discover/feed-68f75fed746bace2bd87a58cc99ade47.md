@@ -10,7 +10,7 @@ params:
     https://ikennd.ac/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Development Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)

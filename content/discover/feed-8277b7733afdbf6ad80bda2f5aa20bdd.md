@@ -22,34 +22,54 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Department of Sanitation
-  - Weather
+  - Affordable Housing
+  - Brooklyn
+  - City Government
+  - Courts
+  - FDNY
+  - Housing
+  - Manhattan
+  - Public Safety
+  - Queens
+  - Real Estate
+  - Zohran Mamdani
+  - landlords
   relme: {}
-  last_post_title: Nearly Impossible to Enforce City Pooper Scooper Law, Sanitation
-    Official Says
-  last_post_description: Dog poop is everywhere, city sanitation officials acknowledge.
-    But when it comes to ticketing offending pooch owners, enforcement officers may
-    be barking up the wrong tree. Javier Lojan, the acting
-  last_post_date: "2026-03-16T21:08:26Z"
-  last_post_link: https://www.thecity.nyc/2026/03/16/dog-poop-sanitation-enforcement/
+  last_post_title: City Sued Landlords of Inwood Fatal Fire Building 16 Times Over
+    Violations Across NYC
+  last_post_description: Three days before a fatal fire May 4th at 207 Dyckman St.
+    in Inwood, housing inspectors appeared at the six-story walkup and issued a dozen
+    code violations. One of those was for a non-functioning
+  last_post_date: "2026-05-10T23:05:19Z"
+  last_post_link: https://www.thecity.nyc/2026/05/10/city-sued-fatal-fire-dyckman-landlords-janjan/
   last_post_categories:
-  - Department of Sanitation
-  - Weather
+  - Affordable Housing
+  - Brooklyn
+  - City Government
+  - Courts
+  - FDNY
+  - Housing
+  - Manhattan
+  - Public Safety
+  - Queens
+  - Real Estate
+  - Zohran Mamdani
+  - landlords
   last_post_language: ""
-  last_post_guid: 618586a4d83e9658f4037793cc83878c
+  last_post_guid: 154d9852e0021b76dbe9034ca9f1366e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

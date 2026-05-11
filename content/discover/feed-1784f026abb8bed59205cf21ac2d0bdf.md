@@ -1,7 +1,7 @@
 ---
 title: TopsTip
 date: "1970-01-01T00:00:00Z"
-description: "互联网新鲜见闻\U0001F525"
+description: 互联网新鲜见闻
 params:
   feedlink: https://topstip.com/feed/
   feedtype: rss
@@ -15,17 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 资讯
+  - Auto News
   relme: {}
-  last_post_title: CALAI 卡路里追踪APP深度调研报告及产品逻辑空白市场分析
-  last_post_description: CAL AI 深度调研报告 产品逻辑 · 市场逻辑 · 用户逻辑 · 空白机会识别 面向独立开发者的高 ARR 产品机会研究
-    $34M ARR（2025年） 5M+ 注册用户 4.9★ App Store
-  last_post_date: "2026-03-05T08:25:33Z"
-  last_post_link: https://topstip.com/cal-ai-in-depth-research-report-and-market-analysis-of-product-logic-gaps/
+  last_post_title: 用M4跑本地模型？Hacker News上的这波操作值得深思
+  last_post_description: 在Hacker
+  last_post_date: "2026-05-11T03:03:37Z"
+  last_post_link: https://topstip.com/m4-local-model-hacker-news-operation-thoughtful/
   last_post_categories:
-  - 资讯
+  - Auto News
   last_post_language: ""
-  last_post_guid: 5e64b0388357f3965b689296b9cfa1ac
+  last_post_guid: 0341e39280ec43640c380d1ce74c1ba9
   score_criteria:
     cats: 0
     description: 3

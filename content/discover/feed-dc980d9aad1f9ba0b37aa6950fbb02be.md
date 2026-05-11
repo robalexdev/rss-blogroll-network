@@ -34,32 +34,43 @@ params:
     id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - book
+  - fantasty
+  - gothic
+  - review
+  - sci-fi
+  - sciencefiction
   relme: {}
-  last_post_title: Just heard the sad news of Dolores Keane’s passing. Ar dheis Dé
-    go raibh a hanam.
+  last_post_title: Gideon The Ninth by Tamsyn Muir
   last_post_description: |-
-    Just heard the sad news of Dolores Keane’s passing.
+    Lesbian necromancers in space. That’s the usual pitch for Gideon The Ninth and it’s not wrong. Though there’s a lot more necromancy than space or lesbianism.
 
-    Ar dheis Dé go raibh a hanam.
-  last_post_date: "2026-03-16T17:22:05Z"
-  last_post_link: https://adactio.com/notes/22460
-  last_post_categories: []
+    The book begins in an environment
+  last_post_date: "2026-05-09T23:31:24Z"
+  last_post_link: https://adactio.com/journal/22560
+  last_post_categories:
+  - book
+  - fantasty
+  - gothic
+  - review
+  - sci-fi
+  - sciencefiction
   last_post_language: ""
-  last_post_guid: 7a37a338e31c983a8a4c27b55dce107d
+  last_post_guid: 14f02524ea70e162db22212c92379862
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

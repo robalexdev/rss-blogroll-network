@@ -22,35 +22,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 南京
-  - 旅行
-  - 生活
+  - Python
+  - 开发
   relme: {}
-  last_post_title: 五一假期：南京之行
+  last_post_title: 小东西：用FreshRSS实现带AI摘要的订阅推送
   last_post_description: |-
-    游玩南京，拍了一些照片。
-    五一假期：南京之行最先出现在林林杂语。
-  last_post_date: "2026-05-05T00:28:13Z"
-  last_post_link: https://www.xiaozonglin.cn/labor-day-nanjing-tour/
+    用FreshRSS + Python + Napcat实现带AI摘要的订阅QQ群推送
+    小东西：用FreshRSS实现带AI摘要的订阅推送最先出现在林林杂语。
+  last_post_date: "2026-05-10T04:38:40Z"
+  last_post_link: https://www.xiaozonglin.cn/xdsec-push-bot/
   last_post_categories:
-  - 南京
-  - 旅行
-  - 生活
+  - Python
+  - 开发
   last_post_language: ""
-  last_post_guid: 37923381d7b520f2dc3afa48fff5e011
+  last_post_guid: 2a244d45da71cc433e1529639a1aaa1e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

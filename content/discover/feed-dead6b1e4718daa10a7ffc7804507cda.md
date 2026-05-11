@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-03-14T12:37:13-07:00"
+date: "2026-05-10T15:07:21-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -80,6 +80,7 @@ params:
   - ANDREW KOPKIND
   - ANDREW RIDGELY
   - ANDY GILL
+  - ANDY KERSHAW
   - ANDY SHEPPARD
   - ANGUS MACKINNON
   - ANTI-CULTURE
@@ -125,6 +126,7 @@ params:
   - BEN STUD
   - BERLIN
   - BIG BEAT
+  - BILLY MACKENZIE
   - BIOGRAPHY
   - BIRTHDAY PARTY
   - BJORK
@@ -231,6 +233,7 @@ params:
   - DEATH ROCK
   - DECENCY
   - DECIDEDLY DECIDED VIEWPOINTS
+  - DEEJAYS REVIEW THE SINGLES
   - DEFUNKT
   - DEPARTMENT S
   - DEPECHE MODE
@@ -313,6 +316,7 @@ params:
   - GEORGES BATAILLE
   - GERMANY
   - GET UP WITH IT
+  - GINGER BAKER
   - GLAM
   - GLAM ROCK
   - GLASTONBURY FESTIVAL
@@ -393,6 +397,7 @@ params:
   - JANE SUCK
   - JAPAN
   - JARVIS COCKER
+  - JEAN-JACQUES BURNEL
   - JILTED JOHN
   - JIM STEINMAN
   - JIMI HENDRIX
@@ -440,6 +445,7 @@ params:
   - KING CRIMSON
   - KING OF THE SLUMS
   - KIRK BRANDON
+  - KISS
   - KLEENEX
   - KODWO ESHUN
   - KRAUTROCK
@@ -843,6 +849,7 @@ params:
   - THE SPECIALS
   - THE STATE OF FUNK
   - THE STOOGES
+  - THE STRANGLERS
   - THE STUD BROTHERS
   - THE STUDIO AS INSTRUMENT
   - THE SUGARCUBES
@@ -861,6 +868,7 @@ params:
   - THEATRE OF HATE
   - THINKPIECES
   - THIS CHARMING MAN
+  - THIS ONE'S FOR PHIL KNIGHT
   - THIS PIECE CHANGED MY LIFE
   - THOMAS LEER
   - THROBBING GRISTLE
@@ -938,6 +946,7 @@ params:
   - Xmas issue 1988
   - Xmas overviews
   - YELLO
+  - YESTERDAY'S PAPERS
   - YIPPIES
   - YOB ROCK
   - YOUTH TV
@@ -1004,24 +1013,18 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Musicians review the Singles!
+  last_post_title: Andy does the singles!
   last_post_description: ""
-  last_post_date: "2026-03-12T17:48:19-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
+  last_post_date: "2026-05-08T15:52:35-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/05/andy-does-singles.html
   last_post_categories:
-  - 1980S
-  - Brian Eno
-  - MELODY MAKER
-  - MORRISSEY
-  - MUSICIANS AS CRITICS
-  - MUSICIANS DO THE SINGLES
-  - POP MUSICIANS AS ROCK CRITICS
-  - PREFAB SPROUT
-  - RECORD MIRROR
+  - "1984"
+  - "1985"
+  - ANDY KERSHAW
+  - DEEJAYS REVIEW THE SINGLES
   - SMASH HITS
-  - WHAM!
   last_post_language: ""
-  last_post_guid: c0d7705816b9688440c403d9795c195c
+  last_post_guid: 2638719e52ee5f4e4194d3e6fbc3abac
   score_criteria:
     cats: 5
     description: 3

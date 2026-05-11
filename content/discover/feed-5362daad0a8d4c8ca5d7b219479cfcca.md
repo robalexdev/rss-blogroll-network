@@ -1,6 +1,6 @@
 ---
 title: Toomanywires
-date: "2026-03-12T16:17:11+09:00"
+date: "2026-05-08T19:57:09+09:00"
 description: All About Video Games
 params:
   feedlink: https://www.toomanywires.co.uk/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://www.toomanywires.co.uk/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -114,29 +114,28 @@ params:
     https://holdingcourt-nba.blogspot.com/: true
     https://www.blogger.com/profile/03238261341419099883: true
     https://www.toomanywires.co.uk/: true
-  last_post_title: Bloodborne and Fading Memories
+  last_post_title: Max Avoidance of 2026
   last_post_description: ""
-  last_post_date: "2026-02-27T09:10:41+09:00"
-  last_post_link: https://www.toomanywires.co.uk/2026/02/bloodborne-and-fading-memories.html
+  last_post_date: "2026-04-10T08:54:53+09:00"
+  last_post_link: https://www.toomanywires.co.uk/2026/04/max-avoidance-of-2026.html
   last_post_categories:
-  - Contemporary Games
-  - PlayStation 4
   - Retro Gaming
+  - Xbox
   last_post_language: ""
-  last_post_guid: 8f7b982c2e2d9b1e1e6b893b6e3f7397
+  last_post_guid: 8d6fec5f9495f5fafa4f740b0e10b242
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: GASERI
-date: "2026-02-19T10:28:40Z"
+date: "2026-05-08T19:42:17Z"
 description: Group for Apps and Services on Exascale Research Infrastructure is a
   research, development, and teaching unit at FIDIT + MedRi.
 params:
@@ -27,7 +27,7 @@ params:
   last_post_description: 'Browser wars   Photo source: Ray Hennessy (@rayhennessy)
     | Unsplash  Last week in Rijeka we held Science festival 2015. This is the (hopefully
     not unlucky) 13th instance of the festival that started'
-  last_post_date: "2026-02-05T14:00:50Z"
+  last_post_date: "2026-05-08T19:41:37Z"
   last_post_link: https://group.miletic.net/en/blog/2015-05-01-browser-wars/
   last_post_categories:
   - free and open-source software

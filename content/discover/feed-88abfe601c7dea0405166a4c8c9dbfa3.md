@@ -22,7 +22,7 @@ params:
   last_post_description: After I drafted this blog post, the part that follows the
     horizontal rule in a moment, I wasn’t sure I would publish it. Then I read this
     post by Thomas Ptacek. This line resonated with me
-  last_post_date: "2025-06-04T08:44:32-06:00"
+  last_post_date: "2025-06-04T12:44:32-02:00"
   last_post_link: https://www.manton.org/2025/06/04/not-today-but-eventually.html
   last_post_categories: []
   last_post_language: ""

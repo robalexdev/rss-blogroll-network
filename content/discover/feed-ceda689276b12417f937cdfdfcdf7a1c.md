@@ -21,34 +21,35 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI
-  - AI Models
+  - AI Agents
+  - Developer tools
+  - Open Source
   relme: {}
-  last_post_title: Nvidia brings together AI labs to build the next generation of
-    open base models
+  last_post_title: Why 157,000 developers are hedging against Anthropic with OpenCode
   last_post_description: |-
-    Nvidia on Monday announced the Nemotron Coalition at its GTC conference. This new coalition of AI labs will pool expertise,
-    The post Nvidia brings together AI labs to build the next generation of
-  last_post_date: "2026-03-16T20:20:18Z"
-  last_post_link: https://thenewstack.io/nvidia-tier2-nemotron-coalition/
+    Anthropic spent its biggest developer day of the year showing what a managed coding harness looks like at full scale.
+    The post Why 157,000 developers are hedging against Anthropic with OpenCode
+  last_post_date: "2026-05-10T16:36:15Z"
+  last_post_link: https://thenewstack.io/anthropic-claudecode-opencode-split/
   last_post_categories:
-  - AI
-  - AI Models
+  - AI Agents
+  - Developer tools
+  - Open Source
   last_post_language: ""
-  last_post_guid: be70282208d533dbf42cbbdfb1024823
+  last_post_guid: 5e53ba5e026335193dc5a6babf8d60d8
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -20,18 +20,15 @@ params:
     https://72.peteashton.com/: true
     https://notes.peteashton.com/: true
     https://social.coop/@pete: true
-  last_post_title: Notes from Monday 16 March
+  last_post_title: Notes and links from Sun 10 May
   last_post_description: |-
     Status:
-    Rather sleepy day. My quick afternoon nap turned into a long snooze-fest. Must have needed it.
-    Overnight listening:
-
-    Dream Time: All Queens Day - Celebrating Alice Coltrane - Major confession
-  last_post_date: "2026-03-16T21:41:38Z"
-  last_post_link: https://notes.peteashton.com/2026/03/16/notes-from-monday-march.html
+    Well, this is the first time in a while I’ve come to my text document at the end of the day to find it completely empty. It seems I read, listened and saw nothing I felt was worth noting
+  last_post_date: "2026-05-10T21:42:16+01:00"
+  last_post_link: https://notes.peteashton.com/2026/05/10/notes-and-links-from-sun.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78ee129300dc99f27bbd184b94ff1cde
+  last_post_guid: c9ff2b81924291f9e0189b953911781f
   score_criteria:
     cats: 0
     description: 0

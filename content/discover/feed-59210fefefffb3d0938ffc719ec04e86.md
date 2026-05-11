@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Let others know you blog
+  last_post_title: How Nuking My PKM Paralyzed My Productivity for 6 Months
   last_post_description: |-
-    Who knows that you blog? David recently asked this question on his blog.
-    Most people who know me are also aware that I have a blog. It's not like I shout it out every time I meet someone, but it
-  last_post_date: "2026-05-06T16:27:00Z"
-  last_post_link: https://robertbirming.com/let-others-know-blog/
+    A bit of backstoryOk, I gotta come clean. This is a clickbait title. It is misleading if understood literally. But it is actually true if interpreted right. Let me explain.
+    I stopped trying to write
+  last_post_date: "2026-05-10T13:31:44Z"
+  last_post_link: https://savvynormie.com/how-nuking-my-pkm-paralyzed-my-productivity-for-6-months/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 549fdd984b184e53a75c9263fb237194
+  last_post_guid: ff3e9ffec27fcf4f0b03925df63c0538
   score_criteria:
     cats: 0
     description: 3

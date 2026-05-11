@@ -22,15 +22,15 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Adding Radio To An Ambient Music Server
-  last_post_description: Earlier this year, I wrote about expanding my ambient music
-    server, using AudioBookShelf to play both podcasts and audio content downloaded
-    from YouTube via PinchFlat - mostly relaxing music, guided
-  last_post_date: "2025-07-09T00:00:00Z"
-  last_post_link: https://jessicajournals.com/adding-radio-to-an-ambient-music-server/
+  last_post_title: AOTY 2025
+  last_post_description: In this post extremely belated post, I’ll look back on the
+    music I’ve listened to in 2025 and what ended up on my list of top fifty albums.
+    I’ll be counting down to my favourite album of the
+  last_post_date: "2026-04-17T00:00:00Z"
+  last_post_link: https://jessicajournals.com/aoty-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 665e976809c9e40f13e979976aa98652
+  last_post_guid: cd28720eb8d8e558b41b3adbd959b327
   score_criteria:
     cats: 0
     description: 3

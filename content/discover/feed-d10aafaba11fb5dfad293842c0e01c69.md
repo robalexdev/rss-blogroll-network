@@ -1,6 +1,6 @@
 ---
 title: Talospace
-date: "2026-03-14T04:56:26-07:00"
+date: "2026-05-03T15:52:58-07:00"
 description: The free computing frontier
 params:
   feedlink: https://www.talospace.com/feeds/posts/default
@@ -54,16 +54,16 @@ params:
     https://www.blogger.com/profile/17331846076856918359: true
     https://www.jerkmusiccritic.com/: true
     https://www.talospace.com/: true
-  last_post_title: FreeBSD considering end of ppc64 support
+  last_post_title: CopyFail works on ppc64le
   last_post_description: ""
-  last_post_date: "2025-11-21T09:26:49-08:00"
-  last_post_link: https://www.talospace.com/2025/11/freebsd-considering-end-of-ppc64-support.html
+  last_post_date: "2026-04-29T18:17:19-07:00"
+  last_post_link: https://www.talospace.com/2026/04/copyfail-works-on-ppc64le.html
   last_post_categories:
-  - BSD
   - Distros
-  - News
+  - Security
+  - Wall of Shame Dept.
   last_post_language: ""
-  last_post_guid: 56cef758ac97227dcefa37b25c105645
+  last_post_guid: 4490549ca53aca47211c682a6e084716
   score_criteria:
     cats: 5
     description: 3

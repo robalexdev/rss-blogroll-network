@@ -20,28 +20,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Data Science
-  - Science Fiction
-  - golden-earring
-  - music
-  - radar-love
+  - Sport
+  - american
+  - board-game
+  - football
+  - statis-pro
   relme: {}
-  last_post_title: Clanker Love
-  last_post_description: https://suno.com/song/e8b10d06-8730-4f0a-b9fe-23750f645f02?sh=A7aMEzpBsie58lY5
-    CLANKER LOVE(Parody of Radar Love by Golden Earring) [Verse 1]I’ve been drivin’
-    all night, my hands wet on the
-  last_post_date: "2026-03-14T02:58:16Z"
-  last_post_link: https://cosmicheroes.space/blog/index.php/2026/03/14/clanker-love/
+  last_post_title: Statis-Pro Football
+  last_post_description: Resources for the old Avalon Hill board game. https://static.sycarion.com/statis-pro-football/
+    https://boardgamegeek.com/thread/2594838/the-complete-guide-to-statis-pro-football-formatio
+    https
+  last_post_date: "2026-04-11T07:54:54Z"
+  last_post_link: https://cosmicheroes.space/blog/index.php/2026/04/11/statis-pro-football/
   last_post_categories:
-  - AI
-  - Data Science
-  - Science Fiction
-  - golden-earring
-  - music
-  - radar-love
+  - Sport
+  - american
+  - board-game
+  - football
+  - statis-pro
   last_post_language: ""
-  last_post_guid: 7c8ecfc48f92210a1dbb57aa79a4889e
+  last_post_guid: e45bdd396ef68086decfc27c7e43d9de
   score_criteria:
     cats: 0
     description: 3

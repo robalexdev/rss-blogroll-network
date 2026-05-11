@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-03-13T15:00:42-05:00"
+date: "2026-05-10T20:56:34-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -191,6 +191,7 @@ params:
   - CHERNYSHEVSKY Nikolai
   - CHESNUTT Charles
   - CHESTERTON G K
+  - CHETTLE Henry
   - CHEVILLARD Eric
   - CHIKAMATSU
   - CHILD Lydia Maria
@@ -412,6 +413,7 @@ params:
   - HESIOD
   - HESSE Hermann
   - HETI Sheila
+  - HEYWOOD Thomas
   - HILL Geoffrey
   - HINTON David
   - HOBAN Russell
@@ -712,6 +714,7 @@ params:
   - POUY Jean-Bernard
   - POWELL Anthony
   - POWYS John Cowper
+  - PRIESTLY J B
   - PRITCHARD William
   - PROSE Francine
   - PROUST Marcel
@@ -1098,6 +1101,7 @@ params:
   - marketing
   - math
   - meat
+  - melodrama
   - memoir
   - mermaids
   - mesmerism
@@ -1197,16 +1201,15 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: Ben Jonson's Sejanus His Fall - Is there not something more, than
-    to be Caesar?
+  last_post_title: The hilarious Doctor Faustus - I am not so very fond of laughter
   last_post_description: ""
-  last_post_date: "2026-03-09T07:00:00-05:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/03/ben-jonsons-sejanus-his-fall-is-there.html
+  last_post_date: "2026-05-09T07:00:00-05:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/05/the-hilarious-doctor-faustus-i-am-not.html
   last_post_categories:
-  - JONSON Ben
-  - NOT SHAKESPEARE
+  - MANN Thomas
+  - fascism
   last_post_language: ""
-  last_post_guid: 3cd11419a91c21f3bfcf16ed3962d0f8
+  last_post_guid: 90ff16d21b8e810b975f2a26ac2bbb05
   score_criteria:
     cats: 5
     description: 3

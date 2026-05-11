@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-03-16T10:38:08-07:00"
+date: "2026-05-09T21:31:41-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -71,12 +71,14 @@ params:
   - BIDEN
   - BIFF! RECORDS
   - BIG BEAT
+  - BILLY BRAGG
   - BILLY LIAR
   - BILLY'S
   - BLACK FLAG
   - BLACK SABBATH
   - BLITZ
   - BLUE MINK
+  - BLUES
   - BLUES ROCK
   - BOGAN BOOGIE
   - BOOGIE
@@ -109,13 +111,16 @@ params:
   - CLOWN SHOW
   - CLOWNS
   - CLUB 57
+  - CLUB CULTURE
   - COCKNEY REBEL
   - COCKNEY REJECTS
   - COIL
   - COLIN ALLRED
   - COLLECTING PERSONALITIES
   - COMMEDIA D'ELL ARTE
+  - CONTEMPT
   - CORIN REDGRAVE
+  - COSMIC WHEELS
   - COSPLAY
   - COVERS OF COVERS
   - CREEM
@@ -137,6 +142,7 @@ params:
   - DAVID LITVINOFF
   - DAVID SYLVIAN
   - DEATH
+  - DEBONAIR ROCK
   - DEF LEPPARD
   - DEXYS MIDNIGHT RUNNERS
   - DICTATORSHIP
@@ -150,9 +156,11 @@ params:
   - DISCOURSE
   - DONALD CAMMETT
   - DONALD TRUMP
+  - DONOVAN
   - DOROTHY SQUIRES
   - DR. MARTENS
   - DRAG
+  - DUNCAN BROWNE
   - Decadence
   - EL CID
   - ELECTRIC WARRIOR
@@ -172,7 +180,9 @@ params:
   - FEMINISM
   - FINITUDE
   - FLO & EDDIE
+  - FOLK
   - FOLK ART SHOWBIZ
+  - FOLK VERSUS GLAM
   - FRANK SINATRA
   - FRED VERMOREL
   - FUTURISTS
@@ -189,6 +199,7 @@ params:
   - GLAM AND GRIME
   - GLAM AND NEW WAVE
   - GLAM AND PROG
+  - GLAM BANDWAGON JUMPERS
   - GLAM FANS
   - GLAM METAL
   - GLAM RENAISSANCE
@@ -204,6 +215,7 @@ params:
   - GOTH
   - GOTH'S PREMIUM ON PHYSICAL BEAUTY
   - GRACE JONES
+  - GREEN GARTSIDE
   - GUNS N' ROSES
   - GURU GURU
   - GURU JOSH
@@ -214,6 +226,7 @@ params:
   - HARDCORE PORN
   - HARLEQUIN
   - HAUNTOLOGY
+  - HAUTEUR
   - HEAVY METAL KIDS
   - HELLO
   - HERBIE FLOWERS
@@ -275,14 +288,17 @@ params:
   - KRISTIAN HOFFMANN
   - LADDISM
   - LADPOP
+  - LAGGING BEHIND THE TIMES
   - LATE EIGHTIES GLAM REVIVAL
   - LATE GLAM
   - LAW AS THEATRE
+  - LEADBELLY
   - LIBERACE
   - LINDSEY KEMP
   - LITTLE WONDER
   - LLOYD COLE
   - LOBBY LOYDE AND THE COLOURED BALLS
+  - LONDON
   - LONDON BOYS
   - LOS ANGELES
   - LOU REED
@@ -307,6 +323,8 @@ params:
   - META
   - META-THEATRE
   - METAL GURU
+  - METRO
+  - MICHAELANGELO MATOS
   - MICK JAGGER
   - MIKE CHAPMAN
   - MIME
@@ -319,6 +337,7 @@ params:
   - MORTALITY
   - MOSLEY
   - MOTT THE HOOPLE
+  - MOVING WITH THE TIMES
   - MUMMERY
   - MUSICAL THEATRE
   - MUSICALS
@@ -327,6 +346,7 @@ params:
   - Marc Bölan
   - McDONALDS
   - NARCISSISM
+  - NATURALISM
   - NEO-GLAM
   - NEW PURITANISM
   - NEW ROMANTICS
@@ -339,6 +359,7 @@ params:
   - NEW ZEALAND
   - NICK COLEMAN
   - NICOLAS ROEG
+  - NIGHTCLUBS
   - NIK COHN
   - NILSSON
   - NINA HAGEN
@@ -351,6 +372,7 @@ params:
   - OLIVIA POPE
   - OMIKRON
   - ONE WOMAN ROMO RENAISSANCE
+  - OPPORTUNISM
   - PAUL OLDFIELD
   - PAUL STUMP
   - PC MUSIC
@@ -358,6 +380,7 @@ params:
   - PERFORMANCE
   - PERFORMANCE ART
   - PERFORMATIVITY
+  - PETER GODWIN
   - PHILP AUSLANDER
   - PHOTOGRAPHY
   - PIERROT
@@ -372,12 +395,14 @@ params:
   - POPERA
   - POSITIVE THINKING
   - POSTPUNK
+  - PRE-RAPHAELITE ROCK
   - PRETENTIOUSNESS
   - PRINCE CHARLES
   - PRINCESS DIANA
   - PRO-THEATRICALITY
   - PROG
   - PROSPERITY GOSPEL
+  - PROTEST
   - PROTO-GLAM
   - PULP
   - PUNK
@@ -406,6 +431,7 @@ params:
   - ROXY MUSIC
   - ROY HOLLINGWORTH
   - ROY WIZZARD
+  - RUSSELL HARTY
   - RUSSELL MAEL
   - SCARLET FANTASTIC
   - SCHAFFEL
@@ -430,9 +456,11 @@ params:
   - SIMULATION POP
   - SIOUXSIE AND THE BANSHEES
   - SITUATIONISM
+  - SKIFFLE
   - SKINHEADS
   - SKINT
   - SLADE
+  - SNOOTINESS
   - SOCIAL MEDIA
   - SOPHIE
   - SOUTHERN ROCK
@@ -462,6 +490,7 @@ params:
   - TED CRUZ
   - TEETH
   - THE 1975
+  - THE 1980S
   - THE APPRENTICE
   - THE BOLLOCK BROTHERS
   - THE BUMP
@@ -518,6 +547,7 @@ params:
   - WHITE TRASH
   - WINDING DOWN
   - WOLFGANG VOIGT
+  - WOODY GUTHRIE
   - WRESTLING
   - X-RAY SPEX
   - YOB ROCK
@@ -567,27 +597,38 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: anti-theatricality in politics (slight return)
+  last_post_title: Hauteur Theory (1 + 2)
   last_post_description: ""
-  last_post_date: "2026-02-13T10:24:32-08:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/02/anti-theatricality-in-politics-slight.html
+  last_post_date: "2026-05-07T15:11:45-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/05/unfamiliarity-breeds-contempt.html
   last_post_categories:
-  - ANTI-THEATRICALITY AND POLITICS
+  - CONTEMPT
+  - DEBONAIR ROCK
+  - DUNCAN BROWNE
+  - HAUTEUR
+  - LAGGING BEHIND THE TIMES
+  - LATE GLAM
+  - METRO
+  - MOVING WITH THE TIMES
+  - OPPORTUNISM
+  - PETER GODWIN
+  - PRE-RAPHAELITE ROCK
+  - SNOOTINESS
   last_post_language: ""
-  last_post_guid: 9cb4b5f747dfe8f0622fec6af2489df8
+  last_post_guid: 58ad97111dd4d3551328b629f56f1c7c
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

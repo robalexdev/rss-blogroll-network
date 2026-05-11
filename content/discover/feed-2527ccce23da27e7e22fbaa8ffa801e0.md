@@ -88,6 +88,7 @@ params:
   - 非洲生活
   - 面书分享
   relme:
+    https://draft.blogger.com/profile/08751867098140741554: true
     https://mercurychong.blogspot.com/: true
     https://www.blogger.com/profile/08751867098140741554: true
   last_post_title: 習慣成自然

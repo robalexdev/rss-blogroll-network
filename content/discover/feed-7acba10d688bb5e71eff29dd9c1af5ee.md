@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-03-16T12:16:39Z"
+date: "2026-05-11T05:51:04Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I’ll clarify that I’m absolutely gonna be journeying. I’m in too
-    deep now. A unicycle, a tent, a ...
+  last_post_title: A lot of developers mistakenly think that the code is the product.
+    In reality, for most businesse...
   last_post_description: ""
-  last_post_date: "2026-03-16T12:16:39Z"
-  last_post_link: https://fedi.vale.rocks/objects/f43ee833-5649-4427-8262-f905a179742f
+  last_post_date: "2026-05-11T05:51:04Z"
+  last_post_link: https://fedi.vale.rocks/objects/97b95049-99b4-420b-a196-fc98dcdae850
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 478a0ed7457cb13027185ff54cfc057b
+  last_post_guid: 444f9945900d0ad535aaef49e29473c7
   score_criteria:
     cats: 0
     description: 0

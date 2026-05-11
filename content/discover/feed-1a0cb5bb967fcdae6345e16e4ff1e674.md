@@ -1,6 +1,6 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2026-01-21T12:44:00Z"
+date: "2026-05-04T08:30:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
@@ -41,14 +41,13 @@ params:
   - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
-  last_post_title: Much to the chagrin of all of my enemies, I am still alive and
-    thriving
+  last_post_title: I leave the US in less than three weeks
   last_post_description: ""
-  last_post_date: "2026-01-21T12:44:00Z"
-  last_post_link: https://gkeenan.co/avgb/much-to-the-chagrin-of-all-of-my-enemies-i-am-still-alive-and-thriving/
+  last_post_date: "2026-05-04T08:30:00Z"
+  last_post_link: https://gkeenan.co/avgb/i-leave-the-us-in-less-than-three-weeks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ff0b0ef33204bcc3f66a2600403093c2
+  last_post_guid: 9ee9a7c788dbe92eb12c38b418ac48ff
   score_criteria:
     cats: 0
     description: 3

@@ -74,13 +74,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Aperiodic Table
+  last_post_title: Crystal Gazing
   last_post_description: ""
-  last_post_date: "2026-05-06T04:00:00Z"
-  last_post_link: https://xkcd.com/3242/
+  last_post_date: "2026-05-08T04:00:00Z"
+  last_post_link: https://xkcd.com/3243/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 41d39724e241540b840f7efa0acf0e7a
+  last_post_guid: 8b908907baee41ea6bdf735e1176ce69
   score_criteria:
     cats: 0
     description: 3

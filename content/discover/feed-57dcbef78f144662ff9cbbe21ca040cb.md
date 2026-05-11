@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-05-03T13:28:56Z"
+date: "2026-05-10T15:27:52Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,16 +22,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - llm
+  - 系统架构师
   relme: {}
-  last_post_title: 使用xiaomi mimo大模型api运行Hermes Agent
-  last_post_description: 前阵子在openclaw热度之后，又出来个hermes agent，主打个更高效智能的agent，我们就来体验试下其实挺久之前就开始运行了，但是因为大部分的coding
-  last_post_date: "2026-05-03T13:28:56Z"
-  last_post_link: https://nicksxs.me/2026/05/03/%E4%BD%BF%E7%94%A8xiaomi-mimo%E5%A4%A7%E6%A8%A1%E5%9E%8Bapi%E8%BF%90%E8%A1%8CHermes-Agent/
+  last_post_title: 一些设计模式的记忆点
+  last_post_description: |-
+    一、先看总原则
+
+    创建对象麻烦
+
+      用创建型模式
+
+    类或对象的组合关系复杂
+
+      用结构型模式
+  last_post_date: "2026-05-10T15:27:52Z"
+  last_post_link: https://nicksxs.me/2026/05/10/%E4%B8%80%E4%BA%9B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E8%AE%B0%E5%BF%86%E7%82%B9/
   last_post_categories:
-  - llm
+  - 系统架构师
   last_post_language: ""
-  last_post_guid: ceaffa13d4bb9f77f4bf9b68c0eea242
+  last_post_guid: 46daeaab3a67cda2cbd63686f2fb4e1b
   score_criteria:
     cats: 0
     description: 3

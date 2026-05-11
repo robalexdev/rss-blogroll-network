@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2026-05-07T00:00:00Z"
+date: "2026-05-10T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -10,7 +10,7 @@ params:
     https://osa1.net/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A text editor I worked on in 2021-2023
-  last_post_description: |-
-    I was just going through old files and saw a cool video of an old project that I thought I should share.
-    In January 2021 I started working on a new text editor. Zed didn’t exist publicly at the
-  last_post_date: "2026-05-07T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2026-05-07-my-text-editor.html
+  last_post_title: Languages should have opinionated interop features
+  last_post_description: A lesson we can derive from Rust’s error handling and async
+    libraries, and Haskell’s effect system libraries, is that languages need to have
+    opinionated (and efficient, flexible) interop features
+  last_post_date: "2026-05-10T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-05-10-interop-features.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c9e0a377e1fe70dcb45ac4e99d5f5f3b
+  last_post_guid: e1f0606170a57f558665a815d2e76a2c
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-03-16T10:39:02-04:00"
+date: "2026-05-10T18:06:06-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -164,19 +164,22 @@ params:
   - writing retreat
   relme:
     https://berkey-abbotttemplate.blogspot.com/: true
+    https://draft.blogger.com/profile/16841824206762029363: true
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: Early Morning Music and the Writing Tasks of the Day
+  last_post_title: On Mother's Day, Vacations, and Work
   last_post_description: ""
-  last_post_date: "2026-03-14T07:25:14-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/03/early-morning-music-and-writing-tasks.html
+  last_post_date: "2026-05-10T07:19:48-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/05/on-mothers-day-vacations-and-work.html
   last_post_categories:
-  - good music
-  - health
-  - modern life
+  - History
+  - Work Life
+  - disease
+  - holidays
+  - travel
   last_post_language: ""
-  last_post_guid: 0278e8faf7afaeb327889c46e9ec44bc
+  last_post_guid: 6608c101cf9829a0141ad0ef34ea7111
   score_criteria:
     cats: 5
     description: 0

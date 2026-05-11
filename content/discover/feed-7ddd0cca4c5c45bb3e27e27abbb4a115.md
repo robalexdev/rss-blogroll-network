@@ -8,67 +8,17 @@ params:
   feedtype: rss
   feedid: 7ddd0cca4c5c45bb3e27e27abbb4a115
   websites:
-    https://lmika.org/: true
-  blogrolls:
-  - https://lmika.org/.well-known/recommendations.opml
-  in_blogrolls: []
-  recommended:
-  - https://birchtree.me/rss/
-  - https://birming.com/feed/
-  - https://bjhess.com/posts_feed
-  - https://blog.jim-nielsen.com/feed.xml
-  - https://cabel.com/feed/
-  - https://chriscoyier.net/feed/
-  - https://chrismcleod.dev/feed.xml
-  - https://critter.blog/feed/
-  - https://daringfireball.net/feeds/main
-  - https://heydingus.net/feed.rss
-  - https://hypercritical.co/feeds/main
-  - https://inessential.com/xml/rss.xml
-  - https://kevquirk.com/feed
-  - https://lmnt.me/feed.xml
-  - https://mandarismoore.com/feed.xml
-  - https://manuelmoreale.com/feed/rss
-  - https://marco.org/rss
-  - https://pxlnv.com/feed/
-  - https://rknight.me/subscribe/posts/atom.xml
-  - https://robinrendle.com/feed.xml
-  - https://simonwillison.net/atom/everything/
-  - https://spyglass.org/rss/
-  - https://wongm.com/feed/
-  - https://world.hey.com/jason/feed.atom
-  - https://www.caseyliss.com/rss
-  - https://www.manton.org/feed.xml
-  - https://www.platformer.news/rss/
-  - https://birming.com/feed.xml
-  - https://birming.com/feed/?type=rss
-  - https://birming.com/podcast.xml
-  - https://cabel.com/comments/feed/
-  - https://chrismcleod.dev/follow/blog/feed.atom
-  - https://chrismcleod.dev/follow/blog/feed.rss
-  - https://chrismcleod.dev/follow/bookmarks/feed.atom
-  - https://chrismcleod.dev/follow/bookmarks/feed.rss
-  - https://chrismcleod.dev/follow/notes/feed.atom
-  - https://chrismcleod.dev/follow/notes/feed.rss
-  - https://critter.blog/comments/feed/
-  - https://kevquirk.com/notes-feed
-  - https://kevquirk.com/posts-feed
-  - https://kevquirk.com/watch-log-feed
-  - https://mandarismoore.com/podcast.xml
-  - https://feedbin.com/starred/562eb7c2771610642074405e8a72d2c6.xml
-  - https://manuelmoreale.com/feed/instagram
-  - https://rknight.me/subscribe/posts/rss.xml
-  - https://robinrendle.com/cascadefeed.xml
-  - https://robinrendle.com/essayfeed.xml
-  - https://robinrendle.com/newsletterfeed.xml
-  - https://wongm.com/feed/atom/
-  - https://www.caseyliss.com/rss-alternate
-  - https://www.manton.org/podcast.xml
+    https://lmika.org/: false
+  blogrolls: []
+  in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
   recommender: []
   categories:
   - Society & Culture
-  relme:
-    https://lmika.org/: true
+  relme: {}
   last_post_title: A Summer Theme
   last_post_description: |-
     Made a slight tweak to my blog’s theme today, to “celebrate” the start of summer.
@@ -85,12 +35,12 @@ params:
     hasContent: 0
     hasPosts: 3
     postcats: 0
-    promoted: 0
-    promotes: 10
-    relme: 2
+    promoted: 5
+    promotes: 0
+    relme: 0
     title: 3
-    website: 2
-  score: 25
+    website: 1
+  score: 17
   ispodcast: true
   isnoarchive: false
   innetwork: true

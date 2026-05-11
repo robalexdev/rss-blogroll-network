@@ -9,6 +9,7 @@ params:
   websites:
     https://wukaipeng.com/: false
     https://wukaipeng.com/blog: true
+    https://wukaipeng.com/whale-gems: false
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -18,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 内部分享：开发利器 React Query
-  last_post_description: 背景
-  last_post_date: "2025-11-05T00:00:00Z"
-  last_post_link: https://wukaipeng.com/blog/2025/11/05/2025/ React Qeury
+  last_post_title: 如何画好流程图
+  last_post_description: 俗话说，字不如表，表不如图。
+  last_post_date: "2026-04-29T00:00:00Z"
+  last_post_link: https://wukaipeng.com/blog/flowchart
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dae59edeb376f7e7a636d8a1e8284a09
+  last_post_guid: aedcc9c711842e735a732d5a2f538d54
   score_criteria:
     cats: 0
     description: 3

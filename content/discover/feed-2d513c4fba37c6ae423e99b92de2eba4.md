@@ -18,16 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·02·28
+  last_post_title: 安妮薇看看 №26·04·01
   last_post_description: |-
-    Ryo 专访：少用 Figma，多操作代码
-    年前跟群友约好新年要录一期节目，名字也想好了——《To Figma, or not to Figma, that is the question》，不用录了，听这个
-  last_post_date: "2026-02-28T07:10:45Z"
+    「摸摸鱼计时器」即日起升级为「冲冲鸭计时器」
+    LV 26 展会上，JJ
+  last_post_date: "2026-04-01T03:03:25Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 9589fd8564804aa893c860978a195ee7
+  last_post_guid: 23b2acb0f3d367a7664891c4987b639a
   score_criteria:
     cats: 0
     description: 3

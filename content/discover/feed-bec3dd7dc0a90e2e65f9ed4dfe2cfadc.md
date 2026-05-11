@@ -1,6 +1,6 @@
 ---
 title: Dante's Lab.
-date: "2026-03-14T12:59:58+01:00"
+date: "2026-05-01T14:39:29+02:00"
 description: A blog about development, IT security, Linux, Unity and geeky things.
 params:
   feedlink: https://feeds.feedburner.com/blogspot/joCgv
@@ -43,20 +43,22 @@ params:
   - virtualization
   - viruses
   relme: {}
-  last_post_title: My Impressions of Zenva Courses
-  last_post_description: As many of you know, on my X profile I usually share packs
-    of assets, courses, and books that I find online at good prices. Some time ago,
-    a pack of Zenva courses appeared on Humble Bundle. Based on
-  last_post_date: "2026-02-26T21:08:48+01:00"
-  last_post_link: http://www.dlab.ninja/2026/02/my-impressions-of-zenva-courses.html
+  last_post_title: Analysis of the book “Unity 6 Editor Tools Essentials – Vol. 1”
+    by Harrison Ferrone
+  last_post_description: The publisher Jettelly is very young, but it is releasing
+    some very interesting titles. They started with books about shading in Unity and
+    Godot, and little by little they have been expanding the
+  last_post_date: "2026-04-26T09:34:52+02:00"
+  last_post_link: http://www.dlab.ninja/2026/04/analysis-of-book-unity-6-editor-tools.html
   last_post_categories:
-  - Godot
+  - C#
   - Unity
-  - course
+  - books
   - game design
   - game development
+  - programming
   last_post_language: ""
-  last_post_guid: 3765847a47a6ec610fd4c8f8ad1de161
+  last_post_guid: 06171621abf25917ffef6f87087eea25
   score_criteria:
     cats: 5
     description: 3

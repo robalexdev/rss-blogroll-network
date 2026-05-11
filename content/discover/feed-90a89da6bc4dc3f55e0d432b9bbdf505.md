@@ -11,7 +11,7 @@ params:
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -47,39 +47,29 @@ params:
   - https://chrisburnell.com/feed.xml
   - https://simonbc.com/feed.xml
   categories:
-  - clearleft
-  - conferences
-  - delivery
-  - design
-  - discovery
-  - events
-  - lineup
-  - schedule
-  - talks
-  - uxlondon
-  - workshops
+  - book
+  - fantasty
+  - gothic
+  - review
+  - sci-fi
+  - sciencefiction
   relme: {}
-  last_post_title: The schedule for UX London 2026
+  last_post_title: Gideon The Ninth by Tamsyn Muir
   last_post_description: |-
-    There’s just under a month to go until UX London 2026—exciting!
+    Lesbian necromancers in space. That’s the usual pitch for Gideon The Ninth and it’s not wrong. Though there’s a lot more necromancy than space or lesbianism.
 
-    You can peruse the full schedule if you need to decide wether you’re coming for just one day or for all three. The event is
-  last_post_date: "2026-05-06T13:36:10Z"
-  last_post_link: https://adactio.com/journal/22554
+    The book begins in an environment
+  last_post_date: "2026-05-09T23:31:24Z"
+  last_post_link: https://adactio.com/journal/22560
   last_post_categories:
-  - clearleft
-  - conferences
-  - delivery
-  - design
-  - discovery
-  - events
-  - lineup
-  - schedule
-  - talks
-  - uxlondon
-  - workshops
+  - book
+  - fantasty
+  - gothic
+  - review
+  - sci-fi
+  - sciencefiction
   last_post_language: ""
-  last_post_guid: cbb06f46467f766c122f8f7478e40aa6
+  last_post_guid: 11bb39a6ec91f1fb6bc968a64ca40edf
   score_criteria:
     cats: 0
     description: 3

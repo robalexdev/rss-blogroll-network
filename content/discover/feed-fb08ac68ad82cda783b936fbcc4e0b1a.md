@@ -28,24 +28,30 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Everton
-  - Max Dowman
-  - Soccer
-  - arsenal
+  - Arts And Culture
+  - Jeff Probst
+  - Survivor
+  - Survivor 50
+  - TV
+  - biggest twist ever
+  - reality television
   relme: {}
-  last_post_title: Teenager Max Dowman Gave Arsenal A Major Coolness Boost
-  last_post_description: Arsenal's blunt-object dominance of the Premier League has
-    given non-Gooners little to enjoy this season. It's not much fun to watch a team
-    set-piece and defend its way to a title, even if the whole
-  last_post_date: "2026-03-16T18:00:08Z"
-  last_post_link: https://defector.com/teenager-max-dowman-gave-arsenal-a-major-coolness-boost
+  last_post_title: Jeff Probst Is Ruining ‘Survivor 50’
+  last_post_description: There is nothing that sucks the life out of a good time like
+    someone self-consciously asking whether you are having fun. Maybe a moment ago,
+    you were having fun, but now, faced with their anxiety (or
+  last_post_date: "2026-05-10T18:39:07Z"
+  last_post_link: https://defector.com/jeff-probst-is-ruining-survivor-50
   last_post_categories:
-  - Everton
-  - Max Dowman
-  - Soccer
-  - arsenal
+  - Arts And Culture
+  - Jeff Probst
+  - Survivor
+  - Survivor 50
+  - TV
+  - biggest twist ever
+  - reality television
   last_post_language: ""
-  last_post_guid: 574713250ec916b125064c03de0a6a75
+  last_post_guid: 299fb16d19968c476d7bc29324d9eaa7
   score_criteria:
     cats: 0
     description: 3

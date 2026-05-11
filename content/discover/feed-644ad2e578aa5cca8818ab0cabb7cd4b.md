@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-05-07T21:00:09+08:00"
+date: "2026-05-11T02:21:03+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -22,34 +22,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Car
-  - Su7 Ultra
+  - 旅游
   relme: {}
-  last_post_title: Su7 Ultra U南向北
-  last_post_description: |-
-    Foreword
-
-    由于保时捷包场，珠海赛道没机会玩，五月前我基本没去过其他赛道。四月初得知五一有U南向北活动，三天连刷北京三个赛道，这种强度很少见
-  last_post_date: "2026-05-06T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/05/06/Su7-Ultra-UN2S/
+  last_post_title: 北京自驾游
+  last_post_description: !!binary |
+    Rm9yZXdvcmQKCui9puWcqOWMl+S6rO+8jOmhuuS+v+WRqOi+ueiHqumpvui9rOi9rO+8jO
+    eci+eci+WMl+aWueWPkeWxleaIkOS7gOS5iOagt+S6huOAguS7juWMl+S6rOWOu+S6huS/
+    neWumu+8jOaJk+eul+S7juilv+WNl+i+uemAm+i1t++8jOWGjeWbnuWMl+S6rOingeWQjO
+    Wtpu+8jOaOpeedgOW+gOilv+WMl+i+uemAm+S6huS4gOWciO+8jOeEtuU=
+  last_post_date: "2026-05-11T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/05/11/Beijing-Self-driving-Travel/
   last_post_categories:
-  - Car
-  - Su7 Ultra
+  - 旅游
   last_post_language: ""
-  last_post_guid: acdcc284d63c0b488f493307442b152f
+  last_post_guid: 95a1d38ea1f76f02d42909a77aab98f1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

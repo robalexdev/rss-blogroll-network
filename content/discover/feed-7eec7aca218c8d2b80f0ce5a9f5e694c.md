@@ -1,6 +1,6 @@
 ---
 title: Tom Clancy
-date: "2026-03-15T00:00:00-04:00"
+date: "2026-05-09T17:00:00-04:00"
 description: ""
 params:
   feedlink: https://tomclancy.info/feeds/all.atom.xml
@@ -20,38 +20,35 @@ params:
   recommender: []
   categories:
   - Posts
-  - art
-  - movies
-  - politics
+  - wig
   relme: {}
-  last_post_title: Harold and George Destroy the World!
+  last_post_title: What is Good? 2026-05-09
   last_post_description: |-
-    I have been thinking a lot lately about these two fellows.
+    ❧ "What is good, Phaedrus, and what is not good?" ❦
+    Good in the last however long it has been
 
-    If you are not lucky enough to know them already, those are Harold and George
-    from the Captain Underpants series of books (among others).
-  last_post_date: "2026-03-15T00:00:00-04:00"
-  last_post_link: https://tomclancy.info/harold-and-george.html
+    Perry Mason - trigger warnings, but cool story, good acting and amazing cinematography.
+    This and
+  last_post_date: "2026-05-09T17:00:00-04:00"
+  last_post_link: https://tomclancy.info/wig-260509.html
   last_post_categories:
   - Posts
-  - art
-  - movies
-  - politics
+  - wig
   last_post_language: ""
-  last_post_guid: 0249f510ee313b3c0156c12953a5301e
+  last_post_guid: d136b7a2d3491aa6d1da3ed457418551
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

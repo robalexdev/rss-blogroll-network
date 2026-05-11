@@ -1,6 +1,6 @@
 ---
 title: Inside the head of Daniel Roy Greenfeld
-date: "2026-03-13T01:10:51Z"
+date: "2026-05-07T00:44:21Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/atom.xml
@@ -16,18 +16,17 @@ params:
   recommender: []
   categories:
   - python
-  - rant
+  - writing
   relme: {}
-  last_post_title: To return a value or not return a value
-  last_post_description: I believe operations that change things should always return
-    values.
-  last_post_date: "2026-03-13T02:41:19Z"
-  last_post_link: https://daniel.feldroy.com/posts/2026-03-to-return-a-value-or-not-return-a-value
+  last_post_title: Word counter that ignores Markdown
+  last_post_description: For when I want a word count that ignores Markdown symbols
+  last_post_date: "2026-05-04T11:55:23Z"
+  last_post_link: https://daniel.feldroy.com/posts/2026-05-word-counter-that-ignores-markdown
   last_post_categories:
   - python
-  - rant
+  - writing
   last_post_language: ""
-  last_post_guid: 1332cb4dd26f44bc25abdfe458781572
+  last_post_guid: a24969b465d73bfed43c7ab5ec8b729c
   score_criteria:
     cats: 0
     description: 0

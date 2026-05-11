@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-02-21T17:20:16Z"
+date: "2026-04-29T14:25:28Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -28,7 +28,7 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - '["giggles"]'
+  - '["personal", "art"]'
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
@@ -58,15 +58,14 @@ params:
     https://toot.community/@jenett2: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: M.A.Q.A.
-  last_post_description: Re-labeled Elmer's Washable School Glue Stick Package © 2025
-    Newell Office Brands.
-  last_post_date: "2026-02-21T12:31:53Z"
-  last_post_link: https://simply.joejenett.com/maqa/
+  last_post_title: art cleanup (2 and 3)
+  last_post_description: ""
+  last_post_date: "2026-04-27T12:00:40Z"
+  last_post_link: https://simply.joejenett.com/art-cleanup-2-and-3/
   last_post_categories:
-  - '["giggles"]'
+  - '["personal", "art"]'
   last_post_language: ""
-  last_post_guid: 0706bc7ae5cc403933d892c1e2d49eb0
+  last_post_guid: 88713bba9c38bf5e690b9b021fb2758e
   score_criteria:
     cats: 0
     description: 3

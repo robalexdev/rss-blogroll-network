@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-03-16T20:53:49Z"
+date: "2026-05-10T23:08:27+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -282,6 +282,7 @@ params:
   - canal bream
   - canal pike
   - canal roach
+  - canal tench
   - canoe
   - caster
   - caught in the act
@@ -308,6 +309,7 @@ params:
   - devon
   - diawa
   - dog fish
+  - dog poo
   - dogfish
   - dogging
   - dry
@@ -357,6 +359,7 @@ params:
   - king carp. Snitterfield
   - kingfisher
   - length-weight relationship
+  - lift method
   - lilypad
   - liq
   - little geary's
@@ -411,6 +414,7 @@ params:
   - river stour
   - river teme
   - roach bream hybrid
+  - roach deadbait
   - robin red
   - rock
   - rock pool
@@ -486,23 +490,24 @@ params:
   - wild boar
   - wildfowl
   - wine
+  - womery
   - worms
   - wrasse
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: Warwickshire Avon - Barbelistic and Bedraggled
+  last_post_title: 'Canal Roach: Trapped in a Sisyphean Loop - Pt.11'
   last_post_description: ""
-  last_post_date: "2026-03-15T11:01:02Z"
-  last_post_link: https://calamitymn.blogspot.com/2026/03/warwickshire-avon-barbelistic-and.html
+  last_post_date: "2026-05-10T13:05:27+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/05/canal-roach-trapped-in-sisyphean-loop_10.html
   last_post_categories:
-  - Barbel
-  - Chub
-  - Warwickshire Avon
-  - paste
-  - robin red
+  - Tench
+  - canal roach
+  - canal tench
+  - ground bait
+  - maggots
   last_post_language: ""
-  last_post_guid: 884f11485ffad68ee037e1937f076a2b
+  last_post_guid: 3063f68a9e04132578605c2ec6ecc330
   score_criteria:
     cats: 5
     description: 0

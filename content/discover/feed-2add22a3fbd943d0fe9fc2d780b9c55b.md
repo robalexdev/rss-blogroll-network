@@ -1,6 +1,6 @@
 ---
 title: Huon on the internet
-date: "2026-02-05T04:23:39Z"
+date: "2026-04-21T00:22:42Z"
 description: ""
 params:
   feedlink: https://huonw.github.io/blog/atom.xml
@@ -10,7 +10,7 @@ params:
     https://huonw.github.io/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -32,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Staying engaged with AI plans: give inline feedback'
+  last_post_title: Gell-Mann AImnesia
   last_post_description: ""
-  last_post_date: "2026-02-05T00:00:00Z"
-  last_post_link: https://huonw.github.io/blog/2026/02/ai-plan/
+  last_post_date: "2026-04-21T00:00:00Z"
+  last_post_link: https://huonw.github.io/blog/2026/04/gell-mann-aimnesia/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 76f172d6345330e0753e64fc8f5a5903
+  last_post_guid: afaef02527558c40bdf6bd0d22cfa025
   score_criteria:
     cats: 0
     description: 0

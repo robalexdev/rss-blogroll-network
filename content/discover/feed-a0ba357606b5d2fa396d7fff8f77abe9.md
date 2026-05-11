@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-03-14T20:31:54-07:00"
+date: "2026-05-09T04:53:40-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,13 +40,13 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: My Thumbnail History of Fantasy on Fantasy Cafe--Also, a Book Giveaway!
+  last_post_title: LOONG'S TALES, edited by Lynn Sunn
   last_post_description: ""
-  last_post_date: "2026-02-24T06:32:28-08:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/02/my-thumbnail-history-of-fantasy-on.html
+  last_post_date: "2026-05-08T11:58:02-07:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/05/loongs-tales-edited-by-lynn-sunn.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 804e98c560186351c01186d83c2c7853
+  last_post_guid: 64e177fade3f3b6dabd06eedc93918c8
   score_criteria:
     cats: 5
     description: 0

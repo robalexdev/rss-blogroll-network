@@ -25,16 +25,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Jeff Bezos as a celebrity
-  last_post_description: Jeff Bezos is of course one of the biggest names in tech,
-    but he doesn’t have much of a public personality. I saw him speak in the early
-    days of Amazon, and in that role, he came off as a great but
-  last_post_date: "2026-05-05T16:05:50Z"
-  last_post_link: https://daveverse.org/2026/05/05/jeff-bezos-as-a-celebrity/
+  last_post_title: Routing around the algorithms
+  last_post_description: AOC in an interview nailed everything in one brief answer
+    to a question from the audience. You can watch it here. It was so good and quotable
+    that I recorded it and created a transcript via Google
+  last_post_date: "2026-05-10T13:47:38Z"
+  last_post_link: https://daveverse.org/2026/05/10/routing-around-the-algorithms/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 7d8b0dba15687fe4f797613ce1975f83
+  last_post_guid: c354ce472f927af409137c7beb96f582
   score_criteria:
     cats: 0
     description: 3

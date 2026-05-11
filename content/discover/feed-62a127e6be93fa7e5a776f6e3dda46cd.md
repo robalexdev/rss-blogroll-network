@@ -18,15 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'The VC''s Waterloo Coffee Tour: Where to Find Canada''s Next Unicorn'
-  last_post_description: 90% of Waterloo's top deals happened at these 6 coffee shops.
-    Skip this? You'll miss Canada's next unicorn. Proven VC secrets to find the billion-dollar
-    star...
-  last_post_date: "2026-03-23T14:48:23Z"
-  last_post_link: https://stevehanov.ca/blog/the-vcs-waterloo-coffee-tour-where-to-find-canadas-next-unicorn
+  last_post_title: I learned Mandarin. Here's what it taught me about B2C SaaS.
+  last_post_description: ""
+  last_post_date: "2026-05-09T12:29:15Z"
+  last_post_link: https://stevehanov.ca/blog/i-learned-mandarin-heres-what-it-taught-me-about-b2c-saas
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 94ac234e13c43583a67d0c38bcea01c1
+  last_post_guid: 99e2851191af3a387837a941d911b58a
   score_criteria:
     cats: 0
     description: 3

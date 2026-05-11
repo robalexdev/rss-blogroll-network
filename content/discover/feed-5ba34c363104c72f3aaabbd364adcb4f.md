@@ -28,34 +28,32 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Powered by Raspberry Pi
-  - Raspberry Pi Official Magazine
+  - Raspberry Pi Connect
   relme: {}
-  last_post_title: 'Powered by Raspberry Pi: Singing fish, educational synths, and
-    agile robots'
+  last_post_title: 'Raspberry Pi Connect: Device tags, required 2FA, and a mobile
+    keyboard'
   last_post_description: |-
-    This Maker Monday, we present some of the newest additions to our suite of Powered by Raspberry Pi partner products.
-    The post Powered by Raspberry Pi: Singing fish, educational synths, and agile
-  last_post_date: "2026-03-16T11:58:06Z"
-  last_post_link: https://www.raspberrypi.com/news/powered-by-raspberry-pi-singing-fish-educational-synths-and-agile-robots/
+    Tag and filter your devices, require two-factor authentication for your organisation, and type from a phone keyboard.
+    The post Raspberry Pi Connect: Device tags, required 2FA, and a mobile keyboard
+  last_post_date: "2026-05-06T08:05:05Z"
+  last_post_link: https://www.raspberrypi.com/news/raspberry-pi-connect-device-tags-required-2fa-and-a-mobile-keyboard/
   last_post_categories:
-  - Powered by Raspberry Pi
-  - Raspberry Pi Official Magazine
+  - Raspberry Pi Connect
   last_post_language: ""
-  last_post_guid: 437e4c0bce4bb83cc7d8761f6703500b
+  last_post_guid: c9e54237121f44137f293ce0dfb55508
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

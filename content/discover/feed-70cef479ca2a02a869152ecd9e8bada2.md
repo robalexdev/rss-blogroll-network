@@ -1,6 +1,6 @@
 ---
 title: Abhijith PA | അഭിജിത്ത് പി എ
-date: "2025-07-23T08:43:57Z"
+date: "2026-04-28T09:22:55Z"
 description: Hello, I'm Abhijith. A Free Software enthusiast.
 params:
   feedlink: https://abhijithpa.in/feed.xml
@@ -16,26 +16,24 @@ params:
   recommender: []
   categories:
   - debian
-  - hack
-  - mails
-  - rspamd
+  - mail
+  - notmuch
   relme: {}
-  last_post_title: Removing spams from your local maildir
+  last_post_title: Patience could've saved me time.
   last_post_description: |-
-    I have been using Disroot as my primary email ever since
-    openmailbox.org stopped. I am very grateful for Disroot’s service and
-    I occasionally donate to them.
+    If I had been patient, it would have saved me time. One such instance
+    is following.
 
-    Recently, my Disroot inbox has been
-  last_post_date: "2025-07-23T08:26:00Z"
-  last_post_link: https://abhijithpa.in/2025/removing-spams-from-local-maildir/
+    From my early blogs, you might know I am using mutt to do email. Just
+    after I get along with mutt, I started using
+  last_post_date: "2026-04-28T06:33:00Z"
+  last_post_link: https://abhijithpa.in/2026/patience-time-saver/
   last_post_categories:
   - debian
-  - hack
-  - mails
-  - rspamd
+  - mail
+  - notmuch
   last_post_language: ""
-  last_post_guid: cdd11300335ed69a58107057f3374c68
+  last_post_guid: 15871a7e9b4b0ae149449cd7e42a5628
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-05-07T10:40:00+02:00"
+date: "2026-05-10T13:45:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Star Fox
-  last_post_description: Excuse me, what?! I absolutely loved Star Fox 64 back in
-    the good old days. I used to spend a lot of time with my grandparents, where I
-    had a Nintendo 64. I played countless hours of this and Ocarina
-  last_post_date: "2026-05-07T10:40:00+02:00"
-  last_post_link: https://overkill.wtf/notes/star-fox
+  last_post_title: 'Diablo IV: Season 13 is awesome'
+  last_post_description: "In case you were wondering if I like the new season of Diablo
+    IV, this is my current character:\n\nI am following this guide. \n\nIt is the
+    first time since release that I touched the game, and back then"
+  last_post_date: "2026-05-10T13:45:00+02:00"
+  last_post_link: https://overkill.wtf/notes/diablo4-s13
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 631ce4c264ba55a5f8133dff8847acc5
+  last_post_guid: 424f6158b011276d8d79cdfdf779b636
   score_criteria:
     cats: 0
     description: 3

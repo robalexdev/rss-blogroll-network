@@ -19,25 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bobbigg
-  - london
-  - permanentstyle
-  - savillerow
-  - simoncrompton
+  - finance
+  - monevator
+  - pensions
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: 'Savile Row back in the day: Bob Bigg part 2 – Permanent Style'
-  last_post_description: Some good anecdotes here.
-  last_post_date: "2026-03-16T09:06:41Z"
-  last_post_link: https://www.permanentstyle.com/2026/03/savile-row-back-in-the-day-bob-bigg-part-2.html
+  last_post_title: 'Pension drawdown rules: what are they? - Monevator'
+  last_post_description: Trying to get to grips with this.
+  last_post_date: "2026-04-27T13:10:50Z"
+  last_post_link: https://monevator.com/pension-drawdown-rules/
   last_post_categories:
-  - bobbigg
-  - london
-  - permanentstyle
-  - savillerow
-  - simoncrompton
+  - finance
+  - monevator
+  - pensions
   last_post_language: ""
-  last_post_guid: b3a75bad590bc2f6593437353f6386f0
+  last_post_guid: ccd1d8260b5bbf90b06a726daa9058a5
   score_criteria:
     cats: 0
     description: 3

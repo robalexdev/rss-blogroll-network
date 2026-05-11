@@ -1,6 +1,6 @@
 ---
 title: I Hear of Sherlock Everywhere
-date: "2026-03-16T14:24:29-04:00"
+date: "2026-05-11T02:21:00-04:00"
 description: The definitive Sherlock Holmes show and website at the intersection of
   news and popular culture.
 params:
@@ -167,16 +167,17 @@ params:
   - travel
   - video
   relme: {}
-  last_post_title: 'Episode 330: And It Is Always 1895'
+  last_post_title: Remembering Michael Pennington
   last_post_description: ""
-  last_post_date: "2026-03-16T14:24:29-04:00"
-  last_post_link: https://feeds.feedblitz.com/~/950568485/0/ihearofsherlock.html
+  last_post_date: "2026-05-11T02:21:00-04:00"
+  last_post_link: https://feeds.feedblitz.com/~/955723610/0/ihearofsherlock.html
   last_post_categories:
-  - episodes
-  - events
-  - interview
+  - News
+  - audio
+  - blog
+  - television
   last_post_language: ""
-  last_post_guid: d9161cb91bae0be17495dceb34f73bf7
+  last_post_guid: 072396f7dd066c07ade23010acc6ba79
   score_criteria:
     cats: 5
     description: 3

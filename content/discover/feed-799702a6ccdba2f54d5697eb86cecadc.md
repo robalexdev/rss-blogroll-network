@@ -10,7 +10,7 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,6 +25,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
   categories:
@@ -33,16 +36,16 @@ params:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: '"Nothing" is the secret to structuring your work'
-  last_post_description: "The next time you begin your workday, try this: clear your
-    work surface completely. Close all browser tabs. Create a fresh page in your notebook.
-    Open only the one file you need.\n\tIt might feel"
-  last_post_date: "2026-05-07T16:25:06+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/05/07/Nothing-is-the-secret-to-structuring-your-work.html
+  last_post_title: Google Sign-in Popup Blocker
+  last_post_description: "zkbro explains in a post how to configure Librewolf.\n\tOne
+    of the mentioned add-ons catched my eye: Google Sign-in Popup Blocker\n\tThis
+    should block the annoying sign-in with Google dialogs that popup"
+  last_post_date: "2026-05-09T22:58:11+02:00"
+  last_post_link: https://blog.x-way.org/Misc/2026/05/09/Google-Sign-in-Popup-Blocker.html?utm_medium=rss
   last_post_categories:
   - Misc
   last_post_language: ""
-  last_post_guid: 9a70a353c7370cebd3d73aa75124f492
+  last_post_guid: ad471c73d7a8adf079b9466c920f30ad
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Create a YUM Repo on S3
-  last_post_description: Learn how to host a YUM/DNF repository on AWS S3—no web server
-    needed. The guide walks through bucket creation, policy setup, and static‑site
-    hosting, then shows how to generate repository
-  last_post_date: "2026-01-26T00:00:00Z"
-  last_post_link: https://adair.tech/posts/create-yum-repo-s3.html
+  last_post_title: My Thoughts on AI
+  last_post_description: I explore AI's evolving impact on productivity and daily
+    tasks, acknowledging both benefits and challenges. While AI handles coding and
+    administrative work effectively, concerns include security
+  last_post_date: "2026-04-15T00:00:00Z"
+  last_post_link: https://adair.tech/posts/my-ai-thoughts.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b87d1010f4ba2d89f4baa14d3e8e9a78
+  last_post_guid: 76995d0158793c0f5a238cb4037198ba
   score_criteria:
     cats: 0
     description: 3

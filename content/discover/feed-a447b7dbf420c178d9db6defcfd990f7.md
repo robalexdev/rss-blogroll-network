@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-03-16T06:53:26Z"
+date: "2026-05-10T23:07:00+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -467,16 +467,16 @@ params:
   - work
   - writing
   relme: {}
-  last_post_title: About unread books
+  last_post_title: About speaking English
   last_post_description: ""
-  last_post_date: "2026-03-14T07:58:38Z"
-  last_post_link: https://culturalsnow.blogspot.com/2026/03/about-unread-books.html
+  last_post_date: "2026-05-06T06:38:20+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/05/about-speaking-english.html
   last_post_categories:
-  - AI
-  - absence
-  - books
+  - film
+  - language
+  - race
   last_post_language: ""
-  last_post_guid: de8b983bb985313c39cee412dbfb4987
+  last_post_guid: fb0b3e300a67b1b89bad8d50361c3d8d
   score_criteria:
     cats: 5
     description: 3

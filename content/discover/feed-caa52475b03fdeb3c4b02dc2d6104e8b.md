@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-03-16T17:12:57-04:00"
+date: "2026-05-11T00:26:34-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -15,39 +15,30 @@ params:
     id: e79d34746977a283ee12bf2f27dfee7a
   recommended: []
   recommender: []
-  categories:
-  - ai
-  - blog
-  - list
-  - technology
+  categories: []
   relme: {}
-  last_post_title: "Beep, Boop, Sad \U0001F916 \U0001F61E"
-  last_post_description: |-
-    “AI” is making me, and a lot of other people sad. This collection of links will give you an idea why…
-
-    ⚠️ WARNING!: Click on these links at your own peril. They’re likely to make you even
-  last_post_date: "2026-03-13T10:07:00-04:00"
-  last_post_link: https://shellsharks.com/ai-wall-of-sad
-  last_post_categories:
-  - ai
-  - blog
-  - list
-  - technology
+  last_post_title: Scroll quadrāgintā
+  last_post_description: Welcome to volume forty of Scrolls, a newsletter for sharing
+    cool stuff from the IndieWeb and the Fediverse. This week I celebrate and boost
+    content from across the web that is exclusively from women
+  last_post_date: "2026-05-08T08:53:00-04:00"
+  last_post_link: https://shellsharks.com/scrolls/scroll/2026-05-08
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 985c4ea38a71c0b3fecac5d0bd34d1d1
+  last_post_guid: 09cea43a42278852ee6846d64ec06dc6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

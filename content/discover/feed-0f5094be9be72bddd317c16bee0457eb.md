@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-03-15T17:54:18-04:00"
+date: "2026-05-10T19:25:33-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -70,6 +70,7 @@ params:
   - Art and Sport
   - Arthur Ashe
   - Artificial Respiration
+  - Artistic Jealousy
   - Assiyah Jamilla Touré
   - Astrology
   - Atelier populaire des Beaux-Arts
@@ -82,6 +83,7 @@ params:
   - Bela Shayevich
   - Belle & Sebastian
   - Bernadette Mayer
+  - Bernie Sanders
   - Bertolt Brecht
   - Beth Loffreda
   - Betsy Warland
@@ -158,6 +160,7 @@ params:
   - David Velasco
   - Demita Frazier
   - Democracy
+  - Democratic Socialists of America
   - Desire Without Expectation
   - Diamela Eltit
   - Disappearing Things
@@ -175,6 +178,7 @@ params:
   - Elena Stoodley
   - Elizabeth Grosz
   - Elizabeth Martínez
+  - Elle Barbara
   - Elon Musk
   - Emily Coyle
   - Emily Gilbert
@@ -198,6 +202,7 @@ params:
   - FTA
   - Facebook
   - Failure
+  - Failure Finds its Happy End
   - Faithful Unbeliever
   - Fame
   - Families Are Formed Through Copulation
@@ -297,6 +302,7 @@ params:
   - Jasna Zmak
   - Jasper Johns
   - Jay-Z
+  - Jealousy
   - Jean Claude Fignolé
   - Jean Renoir
   - Jean-Luc Godard
@@ -462,6 +468,7 @@ params:
   - No Arms In The Arts
   - Nora Samaran
   - Nuar Alsadir
+  - Occupy Wall Street
   - Oil
   - Oisín Curran
   - Olivier Assayas
@@ -511,6 +518,7 @@ params:
   - Quotes
   - Rachel Kaadzi Ghansah
   - Radio alHara
+  - Raja Feather Kelly
   - Rashayla Marie Brown
   - Rashid Khalidi
   - Ravicka
@@ -662,6 +670,7 @@ params:
   - dHOUSE Magazine
   - dian marino
   - fascism
+  - keiyaA
   - keyon gaskin
   - listeninghousemedia
   - lowercase pamphlets
@@ -672,16 +681,16 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: PME-ART's How Does Change Happen? Call for Participants
+  last_post_title: Excerpt from the novel-in-progress Failure Finds its Happy End
   last_post_description: ""
-  last_post_date: "2026-03-14T07:50:31-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/03/pme-arts-how-does-change-happen-call.html
+  last_post_date: "2026-05-10T19:25:33-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/05/excerpt-from-novel-in-progress-failure.html
   last_post_categories:
-  - Call for Participants
-  - How Does Change Happen?
-  - PME-ART
+  - Excerpts from Jacob Wren novels
+  - Failure Finds its Happy End
+  - Three Trilogies
   last_post_language: ""
-  last_post_guid: edfa97600e2d362cb246d1fbe0ce1a1c
+  last_post_guid: 36308e5ec28803451c2b05d81b7bef83
   score_criteria:
     cats: 5
     description: 0

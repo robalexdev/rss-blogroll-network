@@ -16,30 +16,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 來自台灣
-  - 共軛焦顯微鏡
-  - 微縮世界
-  - 林明德
-  - 楊曼妙
-  - 米爾頓釉小蜂
-  - 自然 / 科學攝影
-  - 自然生態
+  - IPF
+  - Promo
+  - Sponsored
+  - 人體解析
+  - 健康養生
+  - 生命奧祕
+  - 社會群體
+  - 科學傳播
+  - 肺纖維化
+  - 菜瓜布肺
+  - 醫療健康
   relme: {}
-  last_post_title: 研究途中，遇上的那些驚喜──林明德與米爾頓釉小蜂
-  last_post_description: 每年，日本光學大廠Olympus都會舉辦「年度影像大賽」（Image of the
-  last_post_date: "2026-03-13T03:57:15Z"
-  last_post_link: https://pansci.asia/archives/380687
+  last_post_title: 肺部為何會「結疤」？揭開比癌症更致命的「菜瓜布肺」，科學家如何找到破解惡性循環的新契機
+  last_post_description: !!binary |
+    5Zyo54++5Luj6Yar5a2455qE6K2m56S65riF5Zau6KOh77yM5Lmz55mM44CB5aSn6IW455
+    mM6YCZ5Lqb55a+55eF5aSn5a626YO95LiN6ZmM55Sf77yb5L2G5pyJ5LiA5YCL44CM6Zqx
+    6JS95LiU6Ie05ZG944CN55qE5aiB6ISF5Y275bi46KKr5b+96KaW77yM6YKj5bCx5piv44
+    CM6IK657qW57at5YyW44CN44CC5YW25Lit5pyA5bi46KaL55qE6aGe5Z4=
+  last_post_date: "2026-05-08T04:00:00Z"
+  last_post_link: https://pansci.asia/archives/380778
   last_post_categories:
-  - 來自台灣
-  - 共軛焦顯微鏡
-  - 微縮世界
-  - 林明德
-  - 楊曼妙
-  - 米爾頓釉小蜂
-  - 自然 / 科學攝影
-  - 自然生態
+  - IPF
+  - Promo
+  - Sponsored
+  - 人體解析
+  - 健康養生
+  - 生命奧祕
+  - 社會群體
+  - 科學傳播
+  - 肺纖維化
+  - 菜瓜布肺
+  - 醫療健康
   last_post_language: ""
-  last_post_guid: a6c033390e9bcbb488358c25c200d9d7
+  last_post_guid: 37208834505baf7047f1658bbc05c73b
   score_criteria:
     cats: 0
     description: 3

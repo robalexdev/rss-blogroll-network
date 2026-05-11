@@ -10,7 +10,7 @@ params:
     https://www.conscienceround.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,18 +28,18 @@ params:
   - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/rss.php
   categories:
-  - Life
+  - Stories
   relme: {}
-  last_post_title: Appeal of the appeal
-  last_post_description: Clever girl, but it’s a cleverer world. The television will
-    make you tremble with how little it makes you feel. Throw a throat punch. Come
-    back to reality, or its approximation. What’s the appeal
-  last_post_date: "2026-01-30T02:18:13Z"
-  last_post_link: https://www.conscienceround.com/archives/10168
+  last_post_title: Best, your loving peptide dealer
+  last_post_description: Against my best judgment, I am sending you a message. I hope
+    you are proud of yourself because I don’t send messages to just anybody. But yes,
+    you insulted my vanity and no, I am not able to let
+  last_post_date: "2026-04-18T03:55:25Z"
+  last_post_link: https://www.conscienceround.com/archives/10396
   last_post_categories:
-  - Life
+  - Stories
   last_post_language: ""
-  last_post_guid: 442cfc24da94c71b70ee211db0eb1d1e
+  last_post_guid: 4ac6cc3a3c9c78dfd1e5485e3ba92c8f
   score_criteria:
     cats: 0
     description: 3

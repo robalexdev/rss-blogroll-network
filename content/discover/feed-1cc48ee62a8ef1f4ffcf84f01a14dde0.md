@@ -1,6 +1,6 @@
 ---
 title: 記緒漂流
-date: "2026-03-11T14:19:19Z"
+date: "2026-05-01T05:29:51Z"
 description: 于记忆之川，泛思绪之舟。
 params:
   feedlink: https://ttio.cc/feed.xml
@@ -19,28 +19,31 @@ params:
   recommender:
   - https://mabbs.github.io/atom.xml
   - https://mayx.eu.org/atom.xml
-  categories: []
+  categories:
+  - OAuth
   relme: {}
-  last_post_title: 三月自白
-  last_post_description: ""
-  last_post_date: "2026-03-11T14:14:44Z"
-  last_post_link: https://ttio.cc/note/2026-03
-  last_post_categories: []
+  last_post_title: Cloudflare One 集成 OAuth 访问控制
+  last_post_description: 本文介绍笔者使用 Cloudflare One 集成 GitHub OAuth 访问控制，为无认证的记账 Web
+    端添加简洁身份验证，保障个人应用安全。
+  last_post_date: "2026-05-01T05:26:55Z"
+  last_post_link: https://ttio.cc/jotting/cloudflare-one-oauth
+  last_post_categories:
+  - OAuth
   last_post_language: ""
-  last_post_guid: 5d3d9559f13d90a34f8d0eb9cdc96160
+  last_post_guid: f43fd4ab820917dc42f68071cfa46ea9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

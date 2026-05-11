@@ -25,13 +25,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Collected consciousness
-  last_post_description: AI product design for empowering human creativity.
-  last_post_date: "2026-05-07T06:19:56Z"
-  last_post_link: https://www.doc.cc/articles/consciousness
+  last_post_title: Appearing productive in the workplace
+  last_post_description: AI can produce work that looks expert without being expert.
+    The failure arrives in two shapes, and both are reshaping the workplace.
+  last_post_date: "2026-05-08T08:17:31Z"
+  last_post_link: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad3d0bf68fa725bc9b96460eb1419790
+  last_post_guid: e0392683f24659ec3428db1567005213
   score_criteria:
     cats: 0
     description: 3

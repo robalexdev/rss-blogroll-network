@@ -1,7 +1,7 @@
 ---
 title: THE STRATEGIC NON-TECHNICAL FOUNDER
 date: "1970-01-01T00:00:00Z"
-description: Foresight for founders before they build in the age of AI
+description: Playbook for founders before they build in the age of AI
 params:
   feedlink: https://abechallah.com/feed/
   feedtype: rss
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SaaS Product Analysis
-  last_post_description: Explore in-depth analyses of SaaS products, showcasing comprehensive
-    evaluations of features, usability, market positioning, and business impact. These
-    reviews highlight a keen understanding of the
-  last_post_date: "2025-01-05T04:55:01Z"
-  last_post_link: https://abechallah.com/saas-product-analysis/
+  last_post_title: 'Field Notes – 31/03/2026: Amical + AIWriteBook'
+  last_post_description: Today, I came across an interesting dictation tool, and a
+    very cool AI book writing application. Amical It’s somewhat differentiated from
+    some of the other dictation tools that I’ve seen. It’s
+  last_post_date: "2026-03-31T22:09:36Z"
+  last_post_link: https://abechallah.com/field-notes-31-03-2026-amical-aiwritebook/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bee02cd3a1a2805df44cac3e0536c093
+  last_post_guid: 7cf17699f72a727acb8b74f68becbbf7
   score_criteria:
     cats: 0
     description: 3

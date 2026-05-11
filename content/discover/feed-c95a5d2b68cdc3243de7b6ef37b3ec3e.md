@@ -1,6 +1,6 @@
 ---
 title: ordinaryangler
-date: "2026-03-13T03:51:44-07:00"
+date: "2026-05-08T16:28:26-07:00"
 description: Hello, my name is Ian Firkins and I am a very ordinary angler. If there
   was a school report for fishing, mine would read "tries hard, could do better"!
   See below my attempts to catch big fish (well,
@@ -170,15 +170,15 @@ params:
   - wrasse
   - zander
   relme: {}
-  last_post_title: 10/03/2026 - Last chance saloon
+  last_post_title: 07/04/2026 - Change of plans
   last_post_description: ""
-  last_post_date: "2026-03-12T15:20:46-07:00"
-  last_post_link: https://ordinaryangler.blogspot.com/2026/03/10032026-last-chance-saloon.html
+  last_post_date: "2026-04-09T15:54:40-07:00"
+  last_post_link: https://ordinaryangler.blogspot.com/2026/04/07042026-change-of-plans.html
   last_post_categories:
-  - River Derwent
-  - grayling
+  - Pembrokeshire
+  - brown trout
   last_post_language: ""
-  last_post_guid: 2c63caca2fd1caa342eae0abfd75356f
+  last_post_guid: a9798e68bfa6e9f66c83c98641ca0f6a
   score_criteria:
     cats: 5
     description: 3

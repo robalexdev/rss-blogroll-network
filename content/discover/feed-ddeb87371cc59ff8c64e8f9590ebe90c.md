@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 从平行世界的幻梦里借点能量吧
-  last_post_description: 我最近总感觉穿越到了一个平行世界里，对时间的感觉不再是线性的，因为每天都会无数次回到那一天。
-  last_post_date: "2026-03-15T12:48:40+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/teyvat/
+  last_post_title: 永生锁
+  last_post_description: ""
+  last_post_date: "2026-05-09T22:17:43+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/after-life/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2a965a1a0e02beebdc1cf7c28af6c99f
+  last_post_guid: 3fc5edae949b5a68cd52fc43ce2578f9
   score_criteria:
     cats: 0
     description: 3

@@ -25,49 +25,31 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI
-  - Artificial Intelligence
-  - Blogs
-  - Dave Winer
-  - MacArthur Foundation
-  - RSS
-  - ai-action-summit
-  - current-ai
-  - delhi
-  - humanity-ai
-  - india
-  - macron
-  - martin-tisne
-  - modi
-  - podcasts
-  - technology
+  - Advice
+  - Essays
+  - Hard Questions
+  - High School
+  - Phillips Academy
+  - Writing
+  - students
   relme:
     https://jpalfrey.blog/: true
-  last_post_title: Notes from AI Action Summit in Delhi, India, February 2026
-  last_post_description: It’s been a long time since I sat down to write a blog post
-    like this. Why did I open my computer this morning and log in to WordPress? Somewhat
-    to my surprise, a few people who saw I had been to
-  last_post_date: "2026-03-01T17:45:11Z"
-  last_post_link: https://jpalfrey.blog/2026/03/01/notes-from-ai-action-summit-in-delhi-india-february-2026/
+  last_post_title: What I look for in a short essay
+  last_post_description: Guidance on Writing Short EssaysFirst written in 2012 for
+    high school students in my courses at Andover, lightly edited in 2026 to share
+    for no particular reason other than a student somewhere might
+  last_post_date: "2026-04-12T23:23:24Z"
+  last_post_link: https://jpalfrey.blog/2026/04/12/what-i-look-for-in-a-short-essay/
   last_post_categories:
-  - AI
-  - Artificial Intelligence
-  - Blogs
-  - Dave Winer
-  - MacArthur Foundation
-  - RSS
-  - ai-action-summit
-  - current-ai
-  - delhi
-  - humanity-ai
-  - india
-  - macron
-  - martin-tisne
-  - modi
-  - podcasts
-  - technology
+  - Advice
+  - Essays
+  - Hard Questions
+  - High School
+  - Phillips Academy
+  - Writing
+  - students
   last_post_language: ""
-  last_post_guid: fdb016301b1d44fb326d550a81efa719
+  last_post_guid: 38ff0f77966b625756ad975918c276d9
   score_criteria:
     cats: 0
     description: 3

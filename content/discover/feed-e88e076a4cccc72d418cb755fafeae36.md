@@ -10,7 +10,7 @@ params:
     https://jessitron.com/blog/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,21 +26,23 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - observability
-  - reference
+  - accountability
+  - connection
+  - symmathesy
   relme: {}
-  last_post_title: Span or Attribute? in OpenTelemetry custom instrumentation
-  last_post_description: Instead of emitting a log, add attributes to the current
-    span. OpenTelemetry makes this easy, and Honeycomb makes it free. This gets you
-    more data correlation.
-  last_post_date: "2026-04-29T14:38:34Z"
-  last_post_link: https://jessitron.com/2026/04/29/span-or-attribute-in-opentelemetry-custom-instrumentation/
+  last_post_title: What is it like to be you?
+  last_post_description: 'This is what I want to know when I get to know someone.
+    What is the experience of being alive in your body, in your world? This is the
+    definition of consciousness: there is something it is like to be'
+  last_post_date: "2026-05-10T12:24:44Z"
+  last_post_link: https://jessitron.com/2026/05/10/what-is-it-like-to-be-you/
   last_post_categories:
   - Uncategorized
-  - observability
-  - reference
+  - accountability
+  - connection
+  - symmathesy
   last_post_language: ""
-  last_post_guid: 50f2e358e1f7bf7751da8740e0c78562
+  last_post_guid: c9f9dfcdbe15497484b7ce73210d78bb
   score_criteria:
     cats: 0
     description: 3

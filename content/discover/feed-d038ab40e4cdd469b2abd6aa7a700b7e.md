@@ -23,14 +23,14 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: No, America is Not Respected
-  last_post_description: Thanks to Trump, we’re held in contempt even by our closest
-    allies
-  last_post_date: "2026-03-16T10:31:15Z"
-  last_post_link: https://paulkrugman.substack.com/p/no-america-is-not-respected
+  last_post_title: Is Europe in Economic Decline?
+  last_post_description: Interrogating the conventional wisdom that Europe is lagging
+    America
+  last_post_date: "2026-05-10T11:25:13Z"
+  last_post_link: https://paulkrugman.substack.com/p/is-europe-in-economic-decline
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ecc5ca2e6cab3d7051564c61e2071eec
+  last_post_guid: 8e87f186e15f55202db57228c7c9d10b
   score_criteria:
     cats: 0
     description: 3

@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Optimizing Software Factories
+  last_post_title: Securing the Agentic Enterprise
   last_post_description: |-
-    What happens when a startup employee leaves on a Monday?
-    In a twenty-person engineering team, one resignation is a 5% headcount loss. The remaining nineteen absorb the work.
-    In an AI-pilled three
-  last_post_date: "2026-05-05T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/optimizing-software-factories/
+    Enterprises run on AI agents. So do the attackers.
+    What does it mean to build, secure, and operate AI systems when both sides - defenders and attackers - are automated?
+    Jonathan Jaffe, CISO at
+  last_post_date: "2026-05-08T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/jonathan-jaffe-office-hours/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fa492e57a0c16d84965b4e111956834f
+  last_post_guid: c1f8b3a8e76f28517f10274f321883d3
   score_criteria:
     cats: 0
     description: 3

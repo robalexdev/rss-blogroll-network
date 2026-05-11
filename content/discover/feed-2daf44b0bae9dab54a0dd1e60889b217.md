@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-05-07T14:06:09Z"
+date: "2026-05-11T01:06:29Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -32,15 +32,16 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: Introducing the Mindful Design Toolkit with even more free lessons
-  last_post_description: The Mindful Design Toolkit is a collection of free, open
-    source templates, workshops, and resources, built to empower your design journey.
-    To coincide with the launch, we’ve also opened up over two
-  last_post_date: "2026-05-06T11:55:00Z"
-  last_post_link: https://piccalil.li/links/the-mindful-design-toolkit-free-lessons/?ref=main-rss-feed
+  last_post_title: 'The Index: Issue #181'
+  last_post_description: |-
+    Before we get into this issue, I thought I'd just let you know that Scott has launched a free Mindful Design Toolkit, packed with good stuff for you.
+    Polypane snippets store
+    Polypane is already the
+  last_post_date: "2026-05-08T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/181/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6af405d43bc41304eecdde15d6e81bb4
+  last_post_guid: ef399e934daf3fdbc3c3047ed34835f0
   score_criteria:
     cats: 0
     description: 3

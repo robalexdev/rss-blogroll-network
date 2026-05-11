@@ -20,31 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - What&#039;s in my NOW?
-  - What's in My Bag
+  - Recomendo
   relme: {}
-  last_post_title: What’s in my NOW? — Erik Schneider
-  last_post_description: 'issue #253'
-  last_post_date: "2026-05-06T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/whats-in-my-now-erik-schneider/
+  last_post_title: Stillgram / Echoes of Genius / Magnified Sand
+  last_post_description: 'Recomendo - issue #513'
+  last_post_date: "2026-05-10T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/stillgram-echoes-of-genius-magnified-sand/
   last_post_categories:
-  - What&#039;s in my NOW?
-  - What's in My Bag
+  - Recomendo
   last_post_language: ""
-  last_post_guid: e721ab7ae4d218a5de488c2557fdb2f1
+  last_post_guid: 43301b64ae9978ad58cedbd22ffa656d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

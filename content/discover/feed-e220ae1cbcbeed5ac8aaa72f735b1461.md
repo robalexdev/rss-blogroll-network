@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-03-16T01:54:56-04:00"
+date: "2026-05-09T17:52:47-04:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://feeds.feedburner.com/NerdlyPleasures
@@ -132,16 +132,16 @@ params:
   relme:
     https://nerdlypleasures.blogspot.com/: true
     https://www.blogger.com/profile/04409413307024477304: true
-  last_post_title: The Ultimate Commodore 64? - The Commodore 64 Ultimate Review
+  last_post_title: Adapting Apple's RGB Color Monitor for Analogue & MiSTer
   last_post_description: ""
-  last_post_date: "2026-03-15T15:14:27-04:00"
-  last_post_link: http://nerdlypleasures.blogspot.com/2026/03/the-ultimate-commodore-64-commodore-64.html
+  last_post_date: "2026-05-07T01:14:50-04:00"
+  last_post_link: http://nerdlypleasures.blogspot.com/2026/05/adapting-apples-rgb-color-monitor-for.html
   last_post_categories:
-  - Commodore
+  - Apple II
   - FPGA Console
-  - Product Review
+  - Game Video
   last_post_language: ""
-  last_post_guid: 406f2bb865d19e155ddb9240addf1b2f
+  last_post_guid: c052a867823c1339f08093f45ef2a170
   score_criteria:
     cats: 5
     description: 3

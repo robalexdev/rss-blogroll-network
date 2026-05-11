@@ -1,6 +1,6 @@
 ---
 title: Tolkien and Fantasy
-date: "2026-03-16T12:21:41-04:00"
+date: "2026-05-04T18:41:41-04:00"
 description: Musings on Tolkien and modern fantasy literature.
 params:
   feedlink: https://tolkienandfantasy.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://tolkienandfantasy.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -39,6 +39,7 @@ params:
   - Basil Davenport
   - Beowulf
   - Bernhardt J. Hurwood
+  - Books Dedicated to Tolkien
   - Boris Artzybasheff
   - Breton ballads
   - C.H. Dodd
@@ -210,6 +211,7 @@ params:
   - Thomas Honegger
   - Timothy P. Wickham-Crowley
   - Tolkien
+  - Tolkien Oddments substack
   - Tolkien On Fairy-stories
   - Tolkien Society
   - Tolkien Studies
@@ -236,39 +238,36 @@ params:
     https://bafcovers.blogspot.com/: true
     https://blinksread.blogspot.com/: true
     https://desturmobed.blogspot.com/: true
+    https://jdrclassics.blogspot.com/: true
     https://kennethvennormorris.blogspot.com/: true
     https://leonardcline.blogspot.com/: true
     https://tolkienandfantasy.blogspot.com/: true
     https://wormwoodiana.blogspot.com/: true
     https://www.blogger.com/profile/16844859516228160123: true
-  last_post_title: Correcting the “Facts” about A. Merritt’s Autobiographical Writings
-  last_post_description: |-
-    A. Merritt (1877-1943)For anyone interested in the life and works of A. Merritt,
-    the book A. Merritt: Reflections in the Moon Pool (1985), edited by Sam
-    Moskowitz, is an extremely frustrating
-  last_post_date: "2025-09-02T09:19:42-04:00"
-  last_post_link: https://tolkienandfantasy.blogspot.com/2025/08/correcting-facts-about-merritts.html
+  last_post_title: Books Dedicated to J.R.R. Tolkien During His Lifetime
+  last_post_description: Okay, I'm experimenting. My post on "Books Dedicated to J.R.R.
+    Tolkien During His Lifetime" is freely available at my (new) Tolkien Oddments
+    substack  I think you can link to it here.  For now I
+  last_post_date: "2026-05-02T20:50:00-04:00"
+  last_post_link: https://tolkienandfantasy.blogspot.com/2026/05/books-dedicated-to-jrr-tolkien-during.html
   last_post_categories:
-  - A
-  - Douglas A. Anderson
-  - Eleanore Merritt
-  - Merritt
-  - Mrs. Eleanor Merritt
+  - Books Dedicated to Tolkien
+  - Tolkien Oddments substack
   last_post_language: ""
-  last_post_guid: 1e6102c703ddaf7ebd454c04150fb236
+  last_post_guid: b6b46d1d69f758871ce8b3610ebca288
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

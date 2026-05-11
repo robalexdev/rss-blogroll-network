@@ -15,25 +15,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Chase 信用卡
-  - IHG 优悦会 IHG One Rewards
-  - 摩根大通 Chase
-  - 无境外手续费
-  - 酒店卡
+  - AmEx 相关总结
+  - Rewards Abuse Team (RAT)
+  - 美国运通 American Express (AmEx)
   relme: {}
-  last_post_title: Chase IHG Premier 信用卡【2026.3 更新：175k 开卡奖励 即将过期】
-  last_post_description: Chase IHG One Rewards Premier Credit Card 洲际酒店信用卡简介 【2026.1
-    更新】新的开卡奖励是 175k。截止日期 2026.3.18. 【2025.9 更新】新的开卡奖励是 165k。【2025
-  last_post_date: "2026-03-16T14:30:29Z"
-  last_post_link: https://www.uscreditcardguide.com/chase-ihg-premier/
+  last_post_title: AmEx Clawback 退订后的 Hilton Resort 报销和航空报销【2026.5 更新：之前被clawback的credit居然又返还了】
+  last_post_description: 【2026.5 更新】 这几天美卡论坛上有一些数据点说，之前因为退订而被clawback的 Hilton Resort
+    credit，又被返还了！这是AmEx的IT
+  last_post_date: "2026-05-10T14:00:39Z"
+  last_post_link: https://www.uscreditcardguide.com/amex-clawback-tuidinghoude-hilton-resort-baoxiaohehangkongbaoxiao/
   last_post_categories:
-  - Chase 信用卡
-  - IHG 优悦会 IHG One Rewards
-  - 摩根大通 Chase
-  - 无境外手续费
-  - 酒店卡
+  - AmEx 相关总结
+  - Rewards Abuse Team (RAT)
+  - 美国运通 American Express (AmEx)
   last_post_language: ""
-  last_post_guid: 264469f61777b2bebc2b72d997f4103a
+  last_post_guid: 7ae19880cd6dbdb990cce5f6d276065d
   score_criteria:
     cats: 0
     description: 3

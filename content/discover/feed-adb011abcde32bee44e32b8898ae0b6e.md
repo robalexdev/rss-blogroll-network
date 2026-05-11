@@ -1,6 +1,6 @@
 ---
 title: Pydong
-date: "2026-04-27T08:00:40+02:00"
+date: "2026-05-08T21:33:49+02:00"
 description: A blog about interesting things you can do in Python, C++ and other languages.
 params:
   feedlink: https://pydong.org/feed.xml

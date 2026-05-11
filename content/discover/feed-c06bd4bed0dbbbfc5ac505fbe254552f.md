@@ -12,7 +12,7 @@ params:
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -146,6 +146,7 @@ params:
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
   - https://birming.com/podcast.xml
+  - https://blog.pcora.eu/posts_feed
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://branch.climateaction.tech/comments/feed/
@@ -157,7 +158,9 @@ params:
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://darthmall.net/feed/photographs.xml
+  - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
+  - https://degruchy.org/rss.xml
   - https://dominikhofer.me/rss
   - https://fs.blog/comments/feed/
   - https://www.farnamstreetblog.com/feed/
@@ -199,6 +202,7 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   - https://rachsmith.com/rss/
+  - https://rahim.li/rss
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
   - https://rscottjones.com/comments/feed/
@@ -228,18 +232,18 @@ params:
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: "\U0001F4DA Books: LOG: On Tyranny by Timothy Snyder"
-  last_post_description: "audiobook started thanks to a podcast. \nURL for lessons:
-    On Tyranny: Twenty Lessons from the Twentieth Century"
-  last_post_date: "2026-02-03T00:00:00Z"
-  last_post_link: https://marisabel.nl/library/log.php?id=655998
+  last_post_title: "\U0001F4DA Books: REVIEW: In So Deep, It's Love Already, Volume
+    1 by Reida Soragaki"
+  last_post_description: This is a very very cute manga!
+  last_post_date: "2026-05-10T00:00:00Z"
+  last_post_link: https://marisabel.nl/library/review.php?isbn=9781427888655
   last_post_categories:
   - book log
   - book review
   - reading journal
   - reading tracker
   last_post_language: ""
-  last_post_guid: de62ad6a8348f026d9e0dc9b86a5a247
+  last_post_guid: 8c0077c5a07485889b3cb2448996db8b
   score_criteria:
     cats: 0
     description: 3

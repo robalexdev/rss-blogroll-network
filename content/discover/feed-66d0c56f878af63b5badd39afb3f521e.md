@@ -1,6 +1,6 @@
 ---
 title: chrisfun
-date: "2025-07-26T23:06:20Z"
+date: "2026-05-05T03:05:24Z"
 description: My not-a-professional website
 params:
   feedlink: https://chrisfun.xyz/feed.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I’ve returned to Linux but I miss PowerShell
-  last_post_description: At my previous job, we all used Windows. At first I insisted
-    on doing everything in Windows Subsystem for Linux (WSL) or Linux-based Docker
-    containers, but eventually I gave in and went native.
-  last_post_date: "2025-07-26T00:00:00Z"
-  last_post_link: http://chrisfun.xyz/PowerShell/
+  last_post_title: My letter to my reps regarding California’s age verification law
+  last_post_description: My name’s Chris Taylor. I’m a software engineer and a constituent
+    in your district. I grew up in California and got a computer engineering degree
+    from UCSB (the one by the beach). I’ve worked
+  last_post_date: "2026-03-30T00:00:00Z"
+  last_post_link: http://chrisfun.xyz/letter
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3906b8952e33b1558cfc2f10e192a0bc
+  last_post_guid: db1dd85fcf5763d39d6033fd7d0b0fc1
   score_criteria:
     cats: 0
     description: 3

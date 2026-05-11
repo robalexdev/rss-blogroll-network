@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2026-02-26T14:37:31+01:00"
+date: "2026-05-10T22:06:43+02:00"
 description: Notes about tech, design, culture, and faith
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -48,16 +48,15 @@ params:
     https://derekkedziora.com/: true
     https://github.com/derekkedziora: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: Beyond the ken of mortals
-  last_post_description: The reading for my MA programme in Buddhist studies took
-    an interesting turn to Don Cupitt, who was something of an intellectual for the
-    idea of Christian atheism. The concept is less absurd than it
-  last_post_date: "2026-02-12T22:45:00+01:00"
-  last_post_link: https://derekkedziora.com/notes/2026-02-12--the-ken-of-mortals
+  last_post_title: 'Solar power in Amsterdam: the numbers'
+  last_post_description: There’s promise, potential, and some reality checks if you
+    want to go all in on solar power in famously unsunny places like Amsterdam
+  last_post_date: "2026-05-10T22:05:00+02:00"
+  last_post_link: https://derekkedziora.com/notes/solar-power-in-amsterdam
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 7c0845f59ebe164c7808ee26d2b91460
+  last_post_guid: cc40813e90da2a9e84499edbf13d44f0
   score_criteria:
     cats: 0
     description: 3

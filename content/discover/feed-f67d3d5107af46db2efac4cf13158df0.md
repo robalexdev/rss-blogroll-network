@@ -1,6 +1,6 @@
 ---
 title: a flophouse is not a home
-date: "2026-03-13T03:43:13-07:00"
+date: "2026-05-01T05:38:49-07:00"
 description: ""
 params:
   feedlink: https://flophouse777.blogspot.com/feeds/posts/default
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://flophouse777.blogspot.com/: true
-  last_post_title: '"Diamond Jim"'
+  last_post_title: '"Chicken à la King"'
   last_post_description: ""
-  last_post_date: "2026-03-04T07:45:56-08:00"
-  last_post_link: https://flophouse777.blogspot.com/2026/03/diamond-jim.html
+  last_post_date: "2026-04-29T06:56:20-07:00"
+  last_post_link: https://flophouse777.blogspot.com/2026/04/chicken-la-king.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 47a9f18414f0448801fe824750260b12
+  last_post_guid: 430e96624630d48af8594f0ff1dc62dc
   score_criteria:
     cats: 0
     description: 0

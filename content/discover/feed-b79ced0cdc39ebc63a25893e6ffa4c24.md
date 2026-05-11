@@ -16,19 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I beg you to follow Crocker's Rules, even if you will be rude to
-    me
-  last_post_description: |-
-    spoiler: you probably won't!
-
-
-
-    [2026-03-16 Mon 03:09] Since this might be prone to misinterpretation as an excuse to treat people rudely, a clarification is warranted. Being direct is not rude, and
-  last_post_date: "2026-03-08T00:00:00Z"
-  last_post_link: https://lr0.org/blog/p/crocker/
+  last_post_title: '"Open" doesn''t mean what it used to'
+  last_post_description: 'In the future I will storytell to my childern about how
+    the word open in computing, someday, did actually mean things, some of them you
+    could be certain about: source was there, or the protocol was'
+  last_post_date: "2026-05-04T00:00:00Z"
+  last_post_link: https://lr0.org/blog/p/open/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 186b2a453d6eb369fba252de04004251
+  last_post_guid: 92a22443d374a3d6d8f2f1e63d003734
   score_criteria:
     cats: 0
     description: 3

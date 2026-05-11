@@ -17,13 +17,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 陈忠实与《白鹿原》
-  last_post_description: 按语：这绝对是一篇迟到的读后感，我今天从未发布的博客里翻出来，起因是 earfanfan
-  last_post_date: "2026-03-15T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2026/03/the-plain-of-white-deer/
+  last_post_title: 一道医疗背景的笔试题
+  last_post_description: |-
+    1 探索性数据分析
+
+    1.1 等待时间的分布
+    1.2 等待时间与门诊次的关系
+    1.3 等待时间与住院次的关系
+    1.4 等待时间随性别的分布
+    1.5
+  last_post_date: "2026-05-02T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/05/hospital/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eb337e84678aa357149a31585300a4bc
+  last_post_guid: db1d9aa7f353f2f23f68e720acbd6f8e
   score_criteria:
     cats: 0
     description: 3

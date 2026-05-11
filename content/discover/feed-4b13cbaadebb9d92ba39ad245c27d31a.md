@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-03-16T20:58:52Z"
+date: "2026-05-10T23:10:44+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -223,6 +223,7 @@ params:
   - Andrew Scott
   - Andy Hay
   - Andy Serkis
+  - Andy Weir
   - Angela Bassett
   - Angela Douglas
   - Angela Down
@@ -282,12 +283,15 @@ params:
   - Armie Hammer
   - Art Malik
   - Arthur Conan Doyle
+  - Arthur Darvill
   - Arthur Miller
   - Article 50
+  - Aruna Jalloh
   - Asa Butterfield
   - Asda
   - Asher Angel
   - Ashley Walters
+  - Ass Kanoute
   - Assassin
   - Asteroid City
   - Astronomy Photographer of the Year 2019
@@ -300,6 +304,7 @@ params:
   - Aubrey Plaza
   - Aubrey Powell
   - Audi
+  - Audrey Hepburn
   - August Ferrara
   - Austerity
   - Austin Abrams
@@ -443,6 +448,7 @@ params:
   - Blogs
   - Blue Beetle film
   - Blue Sky Black
+  - Boarders
   - Bob Baker and Dave Martin
   - Bob Geldof
   - Bognor
@@ -467,6 +473,7 @@ params:
   - Brad's Status review
   - Bradley Cooper
   - Bradley Walsh
+  - Bram Stoker
   - Brave New World
   - Breakdown
   - Breakfast
@@ -553,6 +560,7 @@ params:
   - Captain Zep
   - Caren Pistorious
   - Carey Mulligan
+  - Carmel Laniado
   - Carol Kane
   - Caroline Graham
   - Caroline John
@@ -695,6 +703,7 @@ params:
   - Colm McCarthy
   - Colm Meaney
   - Comes A Bright Day
+  - ComicCon Liverpool
   - Compare the Market
   - Compare the Meerkat
   - Con O'Neill
@@ -730,6 +739,7 @@ params:
   - Craig Robinson
   - Craig Viveiros
   - Crispian Mills
+  - Crookhaven
   - Cucumber
   - Cucumber tv show Henry
   - Cucumber tv show review
@@ -776,6 +786,7 @@ params:
   - Daniel Craig
   - Daniel David Stewart
   - Daniel Day Lewis
+  - Daniel Lawrence  Taylor
   - Daniel Mays
   - Daniel Radcliffe
   - Daniel Weyman
@@ -1040,6 +1051,8 @@ params:
   - Douglas Camfield
   - Douglas Henshall
   - Douglas McKinnon
+  - Dougray Scott
+  - Dracula
   - Dream A Little Dream review
   - Driverless cars
   - Duck
@@ -1586,6 +1599,7 @@ params:
   - Jacob Batalon
   - Jacob Elordi
   - Jacob Romero
+  - Jacob Romero Gibson
   - Jacqueline King
   - Jake Curran
   - James Bond
@@ -1601,6 +1615,7 @@ params:
   - James Gunn
   - James McAvoy
   - James Nesbitt
+  - James Ortiz
   - James Payne
   - Jamie Adams
   - Jamie Bell
@@ -1662,6 +1677,7 @@ params:
   - Joanna Lumley
   - Joanne Whalley
   - Joaquin Phoenix
+  - Jodie Campbell
   - Jodie Comer
   - Jodie Whittaker
   - Joe Biden
@@ -1757,6 +1773,7 @@ params:
   - Josh Brolin
   - Josh O'Connor
   - Josh Safdie
+  - Josh Tedeku
   - Josh Wardle
   - Joshua Jackson
   - Joss Whedon
@@ -1815,6 +1832,7 @@ params:
   - Kedgeree
   - Keeley Hawes
   - Keith Allan
+  - Keith Allen
   - Keith Barnfather
   - Kelli Garner
   - Kellita Smith
@@ -1854,6 +1872,7 @@ params:
   - Kingsman The Golden Circle review
   - Kingsman The Secret Service
   - Kingsman The Secret Service review
+  - Kip Williams
   - Kippers
   - Kirby Howell Baptiste
   - Kirsten Dunst
@@ -1903,6 +1922,7 @@ params:
   - Lee Ingleby
   - Lee Walters
   - Leicester University
+  - Leila Khan
   - Lena Headley
   - Lennie Mayne
   - Lenny Abrahamson
@@ -1990,6 +2010,7 @@ params:
   - Love it or List It
   - Luc Besson
   - Luca Guadagnino
+  - Lucas Leach
   - Lucia Moniz
   - Lucien Carr
   - Lucy Boynton
@@ -2172,6 +2193,7 @@ params:
   - Midsomer Murders The Scarecrow Murders
   - Midsomer Murders The Sting of Death
   - Midsomer Murders Wild Harvest review
+  - Mikaela Hooper
   - Mike Bailey
   - Mike Barson
   - Mike Carey
@@ -2318,6 +2340,7 @@ params:
   - Nigel Davenport
   - Nigel Kneale
   - Night Terrors
+  - Niki Wardley
   - Nikki Amuka Bird
   - Nina Sosanya
   - Ninja
@@ -2542,6 +2565,7 @@ params:
   - Professor Xavier
   - Prog rock
   - Project Avalon
+  - Project Hail Mary
   - Prometheus
   - Prunella Scales
   - Public Art
@@ -2609,6 +2633,7 @@ params:
   - Richard Harris
   - Richard Holthouse
   - Richard Jordan
+  - Richard Lester
   - Richard Linklater
   - Richard Loncraine
   - Richard Madden
@@ -2638,6 +2663,7 @@ params:
   - Robert Pattinson
   - Robert Peston
   - Robert Redford
+  - Robert Shaw
   - Robert Sheehan
   - Robert Stephens
   - Robert Stromberg
@@ -2647,6 +2673,7 @@ params:
   - Robin Hood 2018 review
   - Robin Hood review
   - Robin Wright
+  - Robin and Marian
   - Robin of Sherwood
   - Robot of Sherwood
   - Robson Broad
@@ -2729,6 +2756,7 @@ params:
   - Samuel Blenkin
   - Samuel L Jackson
   - Sand
+  - Sandra Huller
   - Sanna Neilson
   - Santiago Cabrera
   - Saoirse Ronan
@@ -2767,6 +2795,7 @@ params:
   - Second Coming
   - Seeds of Doom
   - Seek- Locate - Destroy
+  - Sekou Diaby
   - Self Service Chekouts
   - Self drive cars
   - Self isolation
@@ -3028,6 +3057,7 @@ params:
   - Storm Thorgerson
   - Strange BBC series
   - Strange food
+  - Stranger Things
   - Streaming
   - Strictly 2018
   - Strictly Come Dancing
@@ -3646,6 +3676,7 @@ params:
   - William Hartnell
   - William Ivory
   - William Kove
+  - William Shatner
   - William Thomas
   - William Willett
   - William Witney
@@ -3760,25 +3791,22 @@ params:
   - waffle
   - zombies
   relme:
+    https://draft.blogger.com/profile/16168072529186067346: true
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: One Piece Season 2 Eps 1 to 4 reviews
+  last_post_title: Top of the Pops 25th April 1991
   last_post_description: ""
-  last_post_date: "2026-03-16T20:58:52Z"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/03/one-piece-season-2-eps-1-to-4-review.html
+  last_post_date: "2026-05-08T18:59:07+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/05/top-of-pops-25th-april-1991.html
   last_post_categories:
-  - Charitha Chandran
-  - Emily Rudd
-  - Inaki Godoy
-  - Jacob Romero
-  - Mackenyu
-  - One Piece season two
-  - One Piece tv series
+  - '#TOTP'
+  - Music
   - TV
-  - Taz Skylar
+  - Top of the Pops
+  - Top of the Pops 1991
   last_post_language: ""
-  last_post_guid: 8f470183d5c7eaac26b3f53bf7cbe40a
+  last_post_guid: 57f4bd49f1c5ac1176d148526d61efb9
   score_criteria:
     cats: 5
     description: 3

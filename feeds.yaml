@@ -13,12 +13,19 @@ feed_urls:
   - https://indieblog.page/opml
   - https://bubbles.town/blogs.opml
   - https://alexsci.com/opml-exports/wikidata/export.opml
+  - https://blogscroll.com/index.opml
+  - https://personalsit.es/feed/opml.opml
+  - https://ooh.directory/feeds/cats/n7yp7q/opml/personal.xml
+  - https://ooh.directory/feeds/cats/b7q2w7/opml/technology.xml
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml
   # https://github.com/Martinviv/rss-sources/tree/main/recommended
   # https://github.com/cudeso/OPML-Security-Feeds
   # https://raw.githubusercontent.com/Identosphere/identity-blogcatcher/refs/heads/master/planetid.ini
+  # https://collection.mataroa.blog/
+  # Lots more here:
+  # https://ooh.directory/feeds/cats/d6ky72/opml/arts.xml
   
   #
   # Wander support!

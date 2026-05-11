@@ -22,30 +22,22 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Brendan Carr
-  - FCC
-  - Iran
-  - RonJohn
-  - Trump II
-  - Where Things Stand
-  - media
+  - 2026 midterms
+  - SCOTUS
+  - gerrymandering
   relme: {}
-  last_post_title: Brendan Carr Wants to Make All of Trump’s ‘Fake News’ Retribution
-    Dreams Come True
-  last_post_description: ‘Grounded in Neither Reality Nor Law’ At least one Republican
-    member of Congress is pushing back against Federal Communications Commission...
-  last_post_date: "2026-03-16T22:17:48Z"
-  last_post_link: https://talkingpointsmemo.com/where-things-stand/brendan-carr-wants-to-make-all-of-trumps-fake-news-retribution-dreams-come-true
+  last_post_title: Virginia Supreme Court Deals Democrats Big Setback in Redistricting
+    Wars
+  last_post_description: The fairly conservative Virginia Supreme Court overturned
+    the will of the voters Friday, dealing Democrats a huge setback in the...
+  last_post_date: "2026-05-10T00:01:10Z"
+  last_post_link: https://talkingpointsmemo.com/live-blog/scotus-helps-louisiana-republicans-obliterate-black-dem-district-ahead-of-midterms
   last_post_categories:
-  - Brendan Carr
-  - FCC
-  - Iran
-  - RonJohn
-  - Trump II
-  - Where Things Stand
-  - media
+  - 2026 midterms
+  - SCOTUS
+  - gerrymandering
   last_post_language: ""
-  last_post_guid: 073cb2706104f961928249815fb3fc87
+  last_post_guid: 1bb30f75ddf13feb1ba5add9be80731f
   score_criteria:
     cats: 0
     description: 3

@@ -34,30 +34,34 @@ params:
   - https://lmika.org/feed.xml
   categories:
   - AI
+  - Anthropic
+  - Grok
   relme: {}
-  last_post_title: I have been released from my responsibilities as an unwilling editor
-    for Grammarly
-  last_post_description: Some overdue reflections by its CEO, and a class-action lawsuit,
-    bring an end to “expert review”
-  last_post_date: "2026-03-13T00:01:06Z"
-  last_post_link: https://www.platformer.news/grammarly-expert-review-lawsuit/
+  last_post_title: Did xAI just concede the AI race?
+  last_post_description: 'Elon Musk had lots of reasons to make a deal with Anthropic
+    — but he wouldn’t have done it if he were ahead. PLUS: The incredible testimony
+    of Shivon Zilis, and a big new study on school phone'
+  last_post_date: "2026-05-08T00:00:47Z"
+  last_post_link: https://www.platformer.news/did-xai-just-concede-the-ai-race/
   last_post_categories:
   - AI
+  - Anthropic
+  - Grok
   last_post_language: ""
-  last_post_guid: ad48e9a00df55d398dd7800baa29553e
+  last_post_guid: e9bb7a4d6cef4867d7d0a1a2db552f33
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

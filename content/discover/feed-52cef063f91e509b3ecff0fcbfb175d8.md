@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-03-15T15:46:59-07:00"
+date: "2026-05-10T12:51:22-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -74,6 +74,7 @@ params:
   - Martial Arts
   - Mexico
   - Misc.
+  - Mockumentaries
   - Movies
   - Music and Musicals
   - Mystery
@@ -107,6 +108,7 @@ params:
   - Swashbucklers
   - Sweden
   - Sword & Sorcery
+  - Taiwan
   - Technology
   - Television
   - Thailand
@@ -128,18 +130,19 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: Magic
+  last_post_title: 'The Rutles: All You Need is Cash'
   last_post_description: ""
-  last_post_date: "2026-03-10T19:28:44-07:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/03/magic.html
+  last_post_date: "2026-05-08T20:41:06-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/05/the-rutles-all-you-need-is-cash.html
   last_post_categories:
-  - Drama
-  - Horror
+  - Comedy
+  - Mockumentaries
   - Movies
-  - Psychological Thrillers
+  - Music and Musicals
   - Reviews
+  - Television
   last_post_language: ""
-  last_post_guid: abe894a88d9dee659e999c97f287d38d
+  last_post_guid: 05a252f9f752f40a4cbce1a6274cb8dd
   score_criteria:
     cats: 5
     description: 3

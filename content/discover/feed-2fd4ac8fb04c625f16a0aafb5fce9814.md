@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-03-10T00:17:17-07:00"
+date: "2026-05-03T15:12:21-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -100,6 +100,7 @@ params:
   - Hulu
   - Hypercritical
   - ILM
+  - IMAX
   - Inception
   - Indiana Jones
   - Iron Man 2
@@ -307,26 +308,27 @@ params:
   - writing
   - zune
   relme: {}
-  last_post_title: Why Didn’t They “Just” Film on Location?
+  last_post_title: What Does “IMAX” Mean?
   last_post_description: ""
-  last_post_date: "2026-03-09T20:31:42-07:00"
-  last_post_link: https://fxrant.blogspot.com/2026/01/why-didnt-they-just-film-on-location.html
-  last_post_categories: []
+  last_post_date: "2026-04-07T14:10:50-07:00"
+  last_post_link: https://fxrant.blogspot.com/2026/04/what-does-imax-mean.html
+  last_post_categories:
+  - IMAX
   last_post_language: ""
-  last_post_guid: c9f94b1b18896a2874a307de084e5867
+  last_post_guid: cdda316e2033cdd7b8d5273ae7556c55
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

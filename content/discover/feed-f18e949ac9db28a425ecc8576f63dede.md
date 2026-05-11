@@ -1,6 +1,6 @@
 ---
 title: Laura's Miscellaneous Musings
-date: "2026-03-16T12:55:20-07:00"
+date: "2026-05-10T20:48:31-07:00"
 description: ""
 params:
   feedlink: https://laurasmiscmusings.blogspot.com/atom.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Around the Blogosphere This Week
+  last_post_title: Around the Blogosphere This Week...
   last_post_description: ""
-  last_post_date: "2026-03-16T11:20:15-07:00"
-  last_post_link: https://laurasmiscmusings.blogspot.com/2026/03/around-blogosphere-this-week_0912024406.html
+  last_post_date: "2026-05-10T14:24:04-07:00"
+  last_post_link: https://laurasmiscmusings.blogspot.com/2026/05/around-blogosphere-this-week_01901508455.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0a59ef9f059bab6d4102f658254c45be
+  last_post_guid: 6b3dce8b6cb0e8edb4c8ebfb8002d237
   score_criteria:
     cats: 0
     description: 0

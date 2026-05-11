@@ -29,23 +29,21 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - dog
-  - dogs
-  - walking
+  - cars
+  - user interface
   relme: {}
-  last_post_title: '[Repost] Thames Path 7'
-  last_post_description: Ruth's completed yet another stretch of the Thames Path,
-    continuing at what could literally be described as a glacial pace, and she's written
-    another part in what's turning out to be a wonderful blog
-  last_post_date: "2026-05-07T10:24:39+01:00"
-  last_post_link: https://danq.me/2026/05/07/thames-path-7/
+  last_post_title: '[Note] Car Climate Control UI'
+  last_post_description: Why, when I change the temperature on the thermostat of my
+    Renault Zoe does it change the fan direction, too? Is this a UI affordance for
+    people who want their faces colder but their feet warmer? I
+  last_post_date: "2026-05-10T14:32:51+01:00"
+  last_post_link: https://danq.me/2026/05/10/car-climate-control-ui/
   last_post_categories:
   - Personal
-  - dog
-  - dogs
-  - walking
+  - cars
+  - user interface
   last_post_language: ""
-  last_post_guid: 2eb61ec66e9c4483d6915cd83237f16f
+  last_post_guid: b1e7550798545b3aa1601191f00c89c8
   score_criteria:
     cats: 0
     description: 3

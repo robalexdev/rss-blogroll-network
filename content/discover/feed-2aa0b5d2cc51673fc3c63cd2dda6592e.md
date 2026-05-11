@@ -24,15 +24,15 @@ params:
   categories: []
   relme:
     https://newsletter.ownyourweb.site/: true
-  last_post_title: 'Own Your Web – Issue 17: Jump Start'
-  last_post_description: "Hi All! \U0001F917\nAnd then, one cold evening in December,
-    my car broke down. In the middle of the intersection, right when the traffic lights
-    turned green and I was about to leave. The engine, which had"
-  last_post_date: "2025-01-01T18:03:52Z"
-  last_post_link: https://newsletter.ownyourweb.site/archive/issue-17/
+  last_post_title: 'Own Your Web – Issue 18: Curators'
+  last_post_description: "Hi All! \U0001F917\nThe Latin word curare means “to take
+    care of.” It’s the root of curator – a person whose work is not to create, but
+    to care. To select, to arrange, to provide context. In a"
+  last_post_date: "2026-04-22T22:43:17Z"
+  last_post_link: https://newsletter.ownyourweb.site/archive/own-your-web-issue-18-curators/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 328ee91a6b726d5f8f9dd3f52dfb4dd0
+  last_post_guid: 1aa26be09bcc316e1778f00bd7f07f45
   score_criteria:
     cats: 0
     description: 3

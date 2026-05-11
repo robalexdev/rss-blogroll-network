@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 離線 AI 好爽（2026 年版）
-  last_post_description: 2024 年九月時，我寫過一篇〈離線 AI 好爽！〉。
-  last_post_date: "2026-03-16T05:30:00Z"
-  last_post_link: https://wiwi.blog/blog/offline-ai-2026
+  last_post_title: 卡了菜渣
+  last_post_description: Kobe Bryant 在 Jimmy Kimmel 的節目中說過一段話：
+  last_post_date: "2026-05-11T00:01:00Z"
+  last_post_link: https://wiwi.blog/blog/something-in-your-teeth
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb86c7fe2bd9244ee9dfeac17f868c41
+  last_post_guid: 993debdffc26a8b04a5087e5905e66bb
   score_criteria:
     cats: 0
     description: 3

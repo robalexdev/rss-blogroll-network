@@ -1,6 +1,6 @@
 ---
 title: itsamadmadblog
-date: "2026-03-12T03:13:21-07:00"
+date: "2026-04-01T18:41:39-07:00"
 description: ""
 params:
   feedlink: https://itsamadmadblog2.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://itsamadmadblog2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -104,26 +104,28 @@ params:
     https://dfwmovierelease.blogspot.com/: true
     https://itsamadmadblog2.blogspot.com/: true
     https://www.blogger.com/profile/10160822944514723178: true
-  last_post_title: Discoveries of 2025
+  last_post_title: 'Cinema Obscura: "Vento del Sud" aka "South Wind"'
   last_post_description: ""
-  last_post_date: "2026-01-25T22:31:21-08:00"
-  last_post_link: https://itsamadmadblog2.blogspot.com/2026/01/discoveries-of-2025.html
-  last_post_categories: []
+  last_post_date: "2026-04-01T18:41:39-07:00"
+  last_post_link: https://itsamadmadblog2.blogspot.com/2026/04/cinema-obscura-vento-del-sud-aka-south.html
+  last_post_categories:
+  - my fav movies
+  - reviews
   last_post_language: ""
-  last_post_guid: b1cc599090aeb73d51441d65d11559cf
+  last_post_guid: 246ff9968ab73302ddf033ca3f04a3e2
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

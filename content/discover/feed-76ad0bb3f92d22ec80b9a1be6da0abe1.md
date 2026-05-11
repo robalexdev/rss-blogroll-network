@@ -15,34 +15,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - french
+  - emacs
+  - emacs-chat
+  - emacs-chat-podcast
   relme: {}
-  last_post_title: La semaine du 27 avril au 3 mai
-  last_post_description: |-
-    Pour le petit-déjeuner, ma fille a préparé une grande omelette en utilisant six œufs. On s'est régalés.
-
-
-
-    Ma fille était grincheuse parce que j'ai attiré son attention sur son agitation et
-  last_post_date: "2026-05-06T10:16:43Z"
-  last_post_link: https://sachachua.com/blog/2026/05/la-semaine-du-27-avril-au-3-mai/
+  last_post_title: 'Emacs Chat 22: Shae Erisson'
+  last_post_description: '0:00 IntroSacha: Okay, so I''m going to actually remember
+    to hit go live. I''ve got a 10 second delay, so if we need to panic, we can panic.
+    Okay, so let''s see. I think we are live. Hi, everyone. This'
+  last_post_date: "2026-05-07T18:55:38Z"
+  last_post_link: https://sachachua.com/blog/2026/05/may-7-emacs-chat-with-shae-erisson/
   last_post_categories:
-  - french
+  - emacs
+  - emacs-chat
+  - emacs-chat-podcast
   last_post_language: ""
-  last_post_guid: bd009616d6f149a6eabef7c51c4f62b6
+  last_post_guid: 250befd1186ba4ca306bf3787e559969
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

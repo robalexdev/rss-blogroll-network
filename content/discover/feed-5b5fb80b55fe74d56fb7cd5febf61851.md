@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -19,15 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How webring scripts can be dangerous
-  last_post_description: collaboration w. PatRyk | There's people who add webrings
-    to their own websites, but unfortunately there are cases that those webring links
-    get hijacked somehow.
-  last_post_date: "2026-02-01T22:41:00Z"
-  last_post_link: https://32enoki.net/notebook/indie-web-danger
+  last_post_title: changelog v4.1
+  last_post_description: proper site changelog this time
+  last_post_date: "2026-04-14T15:50:00Z"
+  last_post_link: https://32enoki.net/notebook/changelog-v4.1
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a717872ffbebfb4c54253d60b7e06c0
+  last_post_guid: edaad5d4f9c4d012601ee2044833c0ca
   score_criteria:
     cats: 0
     description: 3

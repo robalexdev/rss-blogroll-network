@@ -19,23 +19,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bloomberg
-  - Data Sharing
-  - government
-  - privacy
+  - Infographics
+  - New York Times
+  - Strait of Hormuz
+  - illustration
+  - oil
   relme: {}
-  last_post_title: State healthcare sites sending data to tech companies
-  last_post_description: 'For Bloomberg, Tanaz Meghjani, Dhruv Mehrotra, and Surya
-    Mattu report sharing of private…Tags: Bloomberg, government, privacy'
-  last_post_date: "2026-05-07T12:15:58Z"
-  last_post_link: https://flowingdata.com/2026/05/07/state-healthcare-sites-sending-data-to-tech-companies/
+  last_post_title: Getting oil to the gas tank from the Strait of Hormuz
+  last_post_description: 'For the New York Times, Agnes Chang and Pablo Robles illustrate
+    the journey…Tags: illustration, New York Times, oil, Strait of Hormuz'
+  last_post_date: "2026-05-08T09:55:15Z"
+  last_post_link: https://flowingdata.com/2026/05/08/getting-oil-to-the-gas-tank-from-the-strait-of-hormuz/
   last_post_categories:
-  - Bloomberg
-  - Data Sharing
-  - government
-  - privacy
+  - Infographics
+  - New York Times
+  - Strait of Hormuz
+  - illustration
+  - oil
   last_post_language: ""
-  last_post_guid: bb99b88f558fb563146a26e5fae6df37
+  last_post_guid: fa9d2fd7398174d5a603aee2cfbec2a7
   score_criteria:
     cats: 0
     description: 3

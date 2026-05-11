@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2026-04-01T00:00:00Z"
+date: "2026-05-10T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://log.schemescape.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Personal web apps, part 1
-  last_post_description: These are my thoughts on choosing infrastructure for personal
-    web apps.
-  last_post_date: "2026-04-01T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/diy/personal-web-apps.html
+  last_post_title: Self-hosted services, in a box?
+  last_post_description: I want a box that I can just plug in that hosts private services
+    for me.
+  last_post_date: "2026-05-10T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/diy/selfhosting-in-a-box.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4bb79003ab4ac808d32b2d945565b10d
+  last_post_guid: b4d6a5ece009e7462c20b2525f04fcfd
   score_criteria:
     cats: 0
     description: 0

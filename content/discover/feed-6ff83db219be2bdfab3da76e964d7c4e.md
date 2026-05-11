@@ -20,39 +20,30 @@ params:
   recommender: []
   categories:
   - "1"
-  - congress
-  - donald trump
-  - impeachment
-  - reputation
   relme: {}
-  last_post_title: America’s Diminished Place In The World And The Consequences Of
-    Not Impeaching
-  last_post_description: 'It has long been clear: Trump needs to be removed from office
-    before he can inflict even more damage than he already has. But he doesn’t just
-    need to be stopped; for America to have a future he'
-  last_post_date: "2026-03-16T22:57:11Z"
-  last_post_link: https://www.techdirt.com/2026/03/16/americas-diminished-place-in-the-world-and-the-consequences-of-not-impeaching/
+  last_post_title: Funniest/Most Insightful Comments Of The Week At Techdirt
+  last_post_description: It’s a multi-win week for MrWilson, who takes both top spots
+    on the insightful side with one serving as a double-winner at the top of the funny
+    side too. In first place for both insightful and
+  last_post_date: "2026-05-10T19:00:00Z"
+  last_post_link: https://www.techdirt.com/2026/05/10/funniest-most-insightful-comments-of-the-week-at-techdirt-207/
   last_post_categories:
   - "1"
-  - congress
-  - donald trump
-  - impeachment
-  - reputation
   last_post_language: ""
-  last_post_guid: bbe6ba96263408cd2a03e771f5fb157f
+  last_post_guid: dbeb76b7d5d4e0574caf389e4ea9d127
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

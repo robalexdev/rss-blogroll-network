@@ -13,6 +13,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c

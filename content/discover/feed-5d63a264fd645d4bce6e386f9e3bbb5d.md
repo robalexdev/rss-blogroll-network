@@ -144,6 +144,7 @@ params:
   - https://beccais.online/rss.xml
   - https://birming.com/feed.xml
   - https://birming.com/podcast.xml
+  - https://blog.pcora.eu/posts_feed
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://branch.climateaction.tech/comments/feed/
@@ -155,7 +156,9 @@ params:
   - https://darthmall.net/feed/essays.xml
   - https://darthmall.net/feed/notes.xml
   - https://darthmall.net/feed/photographs.xml
+  - https://degruchy.org/atom.xml
   - https://degruchy.org/index.xml
+  - https://degruchy.org/rss.xml
   - https://dominikhofer.me/rss
   - https://fs.blog/comments/feed/
   - https://www.farnamstreetblog.com/feed/
@@ -197,6 +200,7 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   - https://rachsmith.com/rss/
+  - https://rahim.li/rss
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml
   - https://rscottjones.com/comments/feed/
@@ -218,20 +222,20 @@ params:
   recommender:
   - https://shellsharks.com/feeds/feed.xml
   categories:
-  - reading
+  - updates
+  - website
   relme:
     https://github.com/immarisabel: true
     https://im.marisabel.nl/: true
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
-  last_post_title: January 2026 Reading Recap
-  last_post_description: I began the month without much intention to read. My focus
-    was the Book Club, since the book was rather big compared to other months. However,
-    I ended up finishing five books and still reading two.
-  last_post_date: "2026-01-31T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/January_2026_Reading_Recap
+  last_post_title: Updates and Bot Wars
+  last_post_description: "\uFEFF\n\x49\u2019\x76\x65\x20\x62\x65\x65\x6E\x20\x70\x6C\x61\x79\x69\x6E\x67\x20\x77\x69\x74\x68\x20\x73\x65\x63\x75\x72\x69\x74\x79\x20\x63\x6F\x6E\x66\x69\x67\x75\x72\x61\x74\x69\x6F\x6E\x73\x20\x74\x68\x69\x73\x20\x6D\x6F\x6E\x74\x68\x2C\x20\x74\x72\x79\x69\x6E\x67\x20\x74\x6F\x20\x6F\x70\x74\x69\x6D\x69\x7A\x65\x20\x77\x68\x61\x74\x20\x49\x20\x61\x6C\x72\x65\x61\x64\x79\x20\x68\x61\x64\x2E\x20\x57\x68\x69\x6C\x65\x20\x77\x6F\x72\x6B\x69\x6E\x67\x20\x77\x69\x74\x68\x20\x4C\x69\x6E\x6B\x65\x64\x20\x44\x61\x74\x61\x20\x61\x6E\x64\x20\x57\x69\x6B\x69\x64\x61\x74\x61\x2C\x20\x49\x20\x68\x61\x64\x20\x74\x68\x65\x20\x69\x64\x65\x61\x20\x74\x6F\x20\x62\x6C\x6F\x63\x6B\x20\x61\x6C\x6C\x20\x75\x6E\x69\x64\x65\x6E\x74\x69\x66\x69\x65\x64\x20\x62\x6F\x74\x73\x2E\x20\x49"
+  last_post_date: "2026-02-08T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/Updates_and_Bot_Wars
   last_post_categories:
-  - reading
+  - updates
+  - website
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
@@ -240,13 +244,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 30
+  score: 31
   ispodcast: false
   isnoarchive: false
   innetwork: true

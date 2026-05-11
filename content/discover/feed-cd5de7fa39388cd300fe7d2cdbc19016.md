@@ -34,15 +34,15 @@ params:
     https://mylastntwentyads.blogspot.com/: true
     https://rovingravingrabbi.blogspot.com/: true
     https://www.blogger.com/profile/10974259094860905139: true
-  last_post_title: Sold. Out.
-  last_post_description: If you've ever had a mortgage, one of the felicities of having
-    one is getting an envelope in the mail with an unknown letterhead. I'm usually
-    loathe to open things I don't recognize. I figure it's
-  last_post_date: "2026-03-16T11:10:00Z"
-  last_post_link: https://adaged.blogspot.com/2026/03/sold-out.html
+  last_post_title: Three-Fer Friday.
+  last_post_description: PART 1.It's your job, if you're a functioning human, to be
+    present.Present at home.Present when you're at work.Present with your loved ones.Present
+    with your friends. And your puppy.It's your job, if
+  last_post_date: "2026-05-08T10:52:00Z"
+  last_post_link: https://adaged.blogspot.com/2026/05/two-fer-friday.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69905e4256c9ab61e75219c9f06a0e7f
+  last_post_guid: 46caf58bef11f66dd1ebfc4e74d31556
   score_criteria:
     cats: 5
     description: 3

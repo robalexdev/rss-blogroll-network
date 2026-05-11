@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -110,15 +110,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Computer Industry Pricing
-  last_post_description: My opinion is that $599 is a lot of money, and I cannot call
-    anything that costs $599 as cheap. It is not surprising to me that the computer
-    industry that thinks that $1,000 phones, monthly
-  last_post_date: "2026-03-13T12:47:20-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/03/13/computer-industry-pricing.html
+  last_post_title: Streaking Baseball Players
+  last_post_description: The Chicago Cubs have won ten games in a row, which is their
+    second ten game winning streak of this season. Right now it is fun to be a fan
+    of the Chicago Cubs given that their entire lineup is
+  last_post_date: "2026-05-09T12:20:53-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/05/09/streaking-baseball-players.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 418b93fa9a9fb8603adcf0a000c5af91
+  last_post_guid: cfd98b2992100e78463e6b5ee4bded43
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Adam's Apples
-date: "2026-03-16T10:06:58-04:00"
+date: "2026-05-10T22:45:11-04:00"
 description: An amateur explores the pomaceous fruit
 params:
   feedlink: https://adamapples.blogspot.com/atom.xml
@@ -710,28 +710,30 @@ params:
   - winter apples
   - year of apples
   relme: {}
-  last_post_title: The big melt
+  last_post_title: The King blossoms
   last_post_description: ""
-  last_post_date: "2026-03-12T13:11:08-04:00"
-  last_post_link: https://adamapples.blogspot.com/2026/03/the-big-melt.html
+  last_post_date: "2026-05-05T22:05:55-04:00"
+  last_post_link: https://adamapples.blogspot.com/2026/05/the-king-blossoms.html
   last_post_categories:
-  - Winter
+  - May
+  - Spring
+  - blossoms
   - commentary
   last_post_language: ""
-  last_post_guid: 2b0b8d5716f64be004f4222ee341a8a5
+  last_post_guid: dcd2983e6ab819564bc822f022b485c3
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 24
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

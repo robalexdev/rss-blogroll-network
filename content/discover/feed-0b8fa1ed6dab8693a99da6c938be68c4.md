@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-03-16T23:10:02Z"
+date: "2026-05-11T07:37:37+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,15 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: A considered approach to generative AI in front-end development
-  last_post_description: As a developer working in a design consultancy - where we're
-    ultimately in the business of offering as much value to our clients as possible
-    within a fixed budget/time frame - generative AI presents
-  last_post_date: "2026-02-19T11:35:00Z"
-  last_post_link: https://clearleft.com/thinking/a-considered-use-of-generative-ai-in-front-end-development
+  last_post_title: That was Web Day Out
+  last_post_description: 'On March 12th, 1989, Tim Berners-Lee submitted Information
+    Management: A Proposal. This would form the basis of what became the World Wide
+    Web.On March 12th, 2026, Web Day Out happened in Brighton.'
+  last_post_date: "2026-03-26T11:55:00Z"
+  last_post_link: https://clearleft.com/thinking/that-was-web-day-out
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 28ee22cc3ab15a8cd5702885894edd08
+  last_post_guid: 27cc9062c10d94a676c1be1b02de3a6a
   score_criteria:
     cats: 0
     description: 3

@@ -17,6 +17,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c

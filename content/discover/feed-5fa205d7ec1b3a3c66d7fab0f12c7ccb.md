@@ -1,6 +1,6 @@
 ---
 title: 13th Dimension, Comics, Creators, Culture
-date: "2026-03-15T23:09:43Z"
+date: "2026-05-10T15:04:53Z"
 description: Comics, Creators, Culture
 params:
   feedlink: https://13thdimension.com/feed/atom/
@@ -15,24 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - DC
-  - Dark Horse
-  - HOT PICKS!
-  - Marvel
+  - COMICS HISTORY
+  - MOVIES & TV
+  - Tex Avery
   relme: {}
-  last_post_title: HOT PICKS! On Sale This Week!
-  last_post_description: 'Scott and Dan pick the comics they’re most looking forward
-    to… — Dan Greenfield, editor, 13th Dimension Batman/Superman: World’s Finest #49,
-    DC. Last issue’s first part of this Crime'
-  last_post_date: "2026-03-15T23:09:43Z"
-  last_post_link: https://13thdimension.com/hot-picks-on-sale-this-week-605/
+  last_post_title: 'Tex Avery&#8217;s RED HOT RIDING HOOD: Still Red Hot After More
+    Than 80 Years'
+  last_post_description: MORRISON MONDAYS! By BILL MORRISON On May 8, 1943, Metro-Goldwyn-Mayer
+    released director Tex Avery’s classic animated cartoon, Red Hot Riding Hood. The
+    feature film it was released with, an entry
+  last_post_date: "2026-05-10T15:04:53Z"
+  last_post_link: https://13thdimension.com/tex-averys-red-hot-riding-hood-still-red-hot-after-more-than-80-years/
   last_post_categories:
-  - DC
-  - Dark Horse
-  - HOT PICKS!
-  - Marvel
+  - COMICS HISTORY
+  - MOVIES & TV
+  - Tex Avery
   last_post_language: ""
-  last_post_guid: 22eb1eee612c32411986b30e286f4b7f
+  last_post_guid: 4d470ef2496981ac9e692baf932f5ed9
   score_criteria:
     cats: 0
     description: 3

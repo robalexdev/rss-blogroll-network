@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Human Responsibility in Agentic AI feedback loops
-  last_post_description: I’m a volunteer maintainer for matplotlib, python’s go-to
-    plotting library. At ~130 million downloads each month it’s some of the most widely
-    used software in the world. We, like many other
-  last_post_date: "2026-02-13T00:00:00Z"
-  last_post_link: https://skushagra.com/posts/2026-02-13-ai-agents-human-responsibility/
+  last_post_title: The Greater Boston Mesh Network.
+  last_post_description: 'Disclaimer: Mesh networks over LoRa as described here (MeshCore/Meshtastic)
+    do not require a license in the US, since they operate on the unlicensed & public
+    domain 915 MHz ISM band under FCC Part 15'
+  last_post_date: "2026-05-07T00:00:00Z"
+  last_post_link: https://skushagra.com/posts/2026-05-07-bostonmesh/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a682ea8246b494cb5bcf260749713e9a
+  last_post_guid: 82246998478bc6e546286cb754d564a8
   score_criteria:
     cats: 0
     description: 3

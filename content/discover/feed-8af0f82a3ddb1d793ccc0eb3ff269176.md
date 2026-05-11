@@ -10,7 +10,7 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -44,15 +44,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Passing thoughts as I have reconnected with old friends
+  last_post_title: 'Media Diet: March and April 2026'
   last_post_description: |-
-    Over the past week, I’ve had the chance to run into, and connect with, people I haven’t seen in decades.
-    In many cases, these were once close friends in my teens and early twenties. Through the
-  last_post_date: "2026-03-12T13:01:00-04:00"
-  last_post_link: https://www.inthemargins.ca/reconnecting-and-comparison
+    A quick look at the movies, television shows, music, and books that have captured my attention over the past two months.
+    On Earth We’re Briefly Gorgeous, Ocean Vuong (Re-read; originally read in
+  last_post_date: "2026-04-29T09:38:00-04:00"
+  last_post_link: https://www.inthemargins.ca/media-diet-0426
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3008491c895f33d5a21468758c79a692
+  last_post_guid: 5da0015906b5c25ddbad441eef299b21
   score_criteria:
     cats: 0
     description: 3

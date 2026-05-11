@@ -16,36 +16,48 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 3D printing
-  - DIY
-  - FreeCAD
-  - easy
-  - fx
-  - guitar
-  - hacks
-  - low noise
-  - music related tech
-  - power
+  - Analog Devices
+  - LT
+  - Linear Technology
+  - OpAmp
+  - Operation Amplifier
+  - SPICE
+  - TI
+  - Texas Instruments
+  - analog
+  - export
+  - macro
+  - model
+  - reuse
+  - simulation
+  - software hacks and fixes
+  - symbol
   relme: {}
-  last_post_title: IKEA cordless drill battery powering guitar pedalboard
-  last_post_description: Motivation Guitar effect pedalboards … If this post is for
-    you, I guess I don’t have to explain this concept in great detail here. Most of
-    us have a USB […]
-  last_post_date: "2025-05-05T12:08:52Z"
-  last_post_link: https://acidbourbon.wordpress.com/2025/05/05/ikea-cordless-drill-battery-powering-guitar-pedalboard/
+  last_post_title: Using Texas Instruments OpAmps in LTspice
+  last_post_description: This is a quick guide to gaining access to a large variety
+    of TI parts – in particular operational amplifiers – in LTspice. We’re going to
+    export the SPICE macro […]
+  last_post_date: "2026-04-30T11:18:42Z"
+  last_post_link: https://acidbourbon.wordpress.com/2026/04/30/using-texas-instruments-opamps-in-ltspice/
   last_post_categories:
-  - 3D printing
-  - DIY
-  - FreeCAD
-  - easy
-  - fx
-  - guitar
-  - hacks
-  - low noise
-  - music related tech
-  - power
+  - Analog Devices
+  - LT
+  - Linear Technology
+  - OpAmp
+  - Operation Amplifier
+  - SPICE
+  - TI
+  - Texas Instruments
+  - analog
+  - export
+  - macro
+  - model
+  - reuse
+  - simulation
+  - software hacks and fixes
+  - symbol
   last_post_language: ""
-  last_post_guid: 4f6d664fc2299e856a6c898e4a3eb07c
+  last_post_guid: 662670a0d0923a1f0df1bbc76bf727e3
   score_criteria:
     cats: 0
     description: 3

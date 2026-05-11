@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-03-16T10:36:48-07:00"
+date: "2026-05-09T15:30:46-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -188,6 +188,7 @@ params:
   - Analyser EP
   - Anti Rave Society
   - B BOYS ON E
+  - B-12
   - B15 project
   - BABY GIRL
   - BABY YOUR
@@ -678,6 +679,7 @@ params:
   - ELDERS REACT TO DUBSTEP SKRILLEX
   - ELECTRIC DAISY CARNIVAL
   - ELECTRO HOUSE
+  - ELECTRO-SOMA
   - ELECTROHOUSE
   - ELECTRONIC BEATS
   - ELECTRONIC BODY MUSIC
@@ -904,6 +906,7 @@ params:
   - HARDCORE ARTWORK
   - HARDCORE CONTINUEM
   - HARDCORE CONTINUUM
+  - HARDCORE CONTINUUM.REFIXES
   - HARDCORE DISCONTINUUM
   - HARDCORE HERO
   - HARDCORE HEROES
@@ -1061,6 +1064,7 @@ params:
   - JESUS MASSIVE
   - JIMMY JAM AND TERRY LEWIS
   - JIMMY LOW
+  - JIMMY RYAN
   - JMJ & RICHIE
   - JO
   - JOAN ARMATRADING
@@ -1333,6 +1337,7 @@ params:
   - MUSEUMS
   - MUSIC FOR THE AFTERGLOW
   - MUSIC POWER RECORDS
+  - MUSICOLOGY
   - MUSICOPHILIA
   - MUSINGS OF A SOCIALIST JAPANOLOGIST
   - MUSIQUE CONCRETE
@@ -1736,6 +1741,7 @@ params:
   - RUDE BOY
   - RUDEWHY
   - RUFF BEATS PRODUCING THE BASS
+  - RUFF KUT! RECORDS
   - RUFIGE
   - RUFIGE CRU
   - RUGGED VINYL
@@ -1851,6 +1857,7 @@ params:
   - SONIC TRUTH
   - SONS OF BUNGLE
   - SONZ OF A LOOP DA LOOP ERA
+  - SOPORIFICS
   - SOUL WEEKENDERS
   - SOULJAZZ
   - SOULWAX
@@ -1889,6 +1896,7 @@ params:
   - STEPPERS
   - STEVE GOODMAN
   - STEVE GURLEY
+  - STEVENAGE
   - STEVIE HYPER D
   - STEVIE NICKS
   - STING
@@ -2029,6 +2037,7 @@ params:
   - THE TRIPPER
   - THE TYP MIX
   - THE TYPO MIX
+  - THE VAST SINISTER INFLUENCE OF SIMON REYNOLDS
   - THE WINSTONS
   - THE WIRE
   - THE WOLF
@@ -2209,6 +2218,7 @@ params:
   - WUBSTEP
   - Warwick University
   - X PROJECT
+  - X-RAY EXPERIMENTS
   - XENOGOTHIC
   - XENOMANIA
   - XENOPHOBIA
@@ -2476,18 +2486,25 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: We Can Be Freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  last_post_title: don't B ridiculous
   last_post_description: ""
-  last_post_date: "2026-03-14T15:14:30-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/03/we-can-be-freeeeeeeeeeeeeeeeeeeeeeeeeee.html
+  last_post_date: "2026-05-08T15:59:15-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/05/dont-b-ridiculous.html
   last_post_categories:
-  - "1993"
-  - DON FM
-  - EZEE D
-  - MICHAELANGELO MATOS
-  - PIRATE RADIO
+  - ARTIFICIAL INTELLIGENCE
+  - AVANT-LUMPEN
+  - B-12
+  - ELECTRO-SOMA
+  - ELECTRONIC LISTENING MUSIC
+  - HARDCORE
+  - IDM
+  - MUSICOLOGY
+  - SOPORIFICS
+  - THE VAST SINISTER INFLUENCE OF SIMON REYNOLDS
+  - X-RAY EXPERIMENTS
+  - bleep
   last_post_language: ""
-  last_post_guid: 396eac3fbfe27c6e81f6d6e382ff15f6
+  last_post_guid: 8bcf8ccc47e61f75969ada6a0408e7af
   score_criteria:
     cats: 5
     description: 3

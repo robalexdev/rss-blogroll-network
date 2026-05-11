@@ -29,33 +29,35 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  categories: []
+  categories:
+  - News
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Gutenberg Changelog #128 – Gutenberg 22.7 Version and Dev Notes
-    for 7.0'
-  last_post_description: "\U0001F389 Announcing GT Changelog Podcast Episode 128:
-    Deep Dive Into Gutenberg 22.7 & WordPress 7.0 Dev Notes! \U0001F389 We’re back
-    with another packed episode of the GT Changelog Podcast! In episode 128,"
-  last_post_date: "2026-03-15T04:58:16Z"
-  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-128-gutenberg-22-7-version-and-dev-notes-for-7-0/
-  last_post_categories: []
+  last_post_title: 'Block Format Bridge: A Practical Solution for AI-Generated Content
+    in WordPress'
+  last_post_description: 'Chris Huber, developer at Automattic, released Block Format
+    Bridge, an open-source plugin that addresses one of the more persistent friction
+    points in AI-assisted WordPress workflows: getting AI'
+  last_post_date: "2026-05-02T19:23:14Z"
+  last_post_link: https://gutenbergtimes.com/block-format-bridge-a-practical-solution-for-ai-generated-content-in-wordpress/
+  last_post_categories:
+  - News
   last_post_language: ""
-  last_post_guid: 610c495ff26b47f6db97126d73f9d7f5
+  last_post_guid: 45ffe4477cb366395adac29dcfd3c193
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,37 +17,32 @@ params:
   recommender: []
   categories:
   - AIGC
-  - AI算力成本和Token消耗
-  - 中国AI免费时代结束
-  - 字节跳动
-  - 字节跳动，故事多
-  - 豆包68元200元500元订阅
-  - 豆包App付费订阅测试
-  - 豆包会员价格
-  - 豆包免费版会降级吗
-  - 豆包收费
+  - Anthropic 1.2万亿估值
+  - Anthropic tokenized stock
+  - Anthropic上市前股票怎么买
+  - Anthropic估值争议
+  - PreStocks
+  - SPV代币化股票风险
+  - 代币化Pre-IPO交易
+  - 链上Pre-IPO隐含估值
   relme: {}
-  last_post_title: 豆包68到500元：5层认知差看懂AI收费！
-  last_post_description: !!binary |
-    6LGG5YyF5pS26LS55byV5Y+R5LqJ6K6u77yM5L2G55yf5q2j5YC85b6X5YWz5rOo55qE5L
-    iN5pivNjjlhYPjgIEyMDDlhYPmiJY1MDDlhYPmnIjotLnvvIzogIzmmK/kuK3lm71BSeWF
-    jei0ueaXtuS7o+WPr+iDvei/m+WFpeWIhuWxgumYtuauteOAguacrOaWh+S7juixhuWMhe
-    WFjei0ueeJiOS8muS4jeS8mumZjee6p+OAgUFJ566X5Yqb5oiQ5pys5Lg=
-  last_post_date: "2026-05-07T00:48:50Z"
-  last_post_link: https://lukefan.com/2026/05/07/bytedance-doubao-ai-subscription-pricing/
+  last_post_title: Anthropic Pre-IPO 估值 1.2 万亿美金，超过 OpenAI 成为估值最高的 AI 企业，三层误解，一个风险
+  last_post_description: 本文拆解Anthropic 1.2万亿估值的来源，帮你看懂链上Pre-IPO与真实融资估值的差别。围绕tokenized
+    Pre-IPO风险、SPV代币化敞口、OpenAI估值对比和Claude
+  last_post_date: "2026-05-11T01:12:19Z"
+  last_post_link: https://lukefan.com/2026/05/11/anthropic-tokenized-pre-ipo-valuation-misleading/
   last_post_categories:
   - AIGC
-  - AI算力成本和Token消耗
-  - 中国AI免费时代结束
-  - 字节跳动
-  - 字节跳动，故事多
-  - 豆包68元200元500元订阅
-  - 豆包App付费订阅测试
-  - 豆包会员价格
-  - 豆包免费版会降级吗
-  - 豆包收费
+  - Anthropic 1.2万亿估值
+  - Anthropic tokenized stock
+  - Anthropic上市前股票怎么买
+  - Anthropic估值争议
+  - PreStocks
+  - SPV代币化股票风险
+  - 代币化Pre-IPO交易
+  - 链上Pre-IPO隐含估值
   last_post_language: ""
-  last_post_guid: 99e5914a837bffe89afe6eb67600d6dc
+  last_post_guid: 8c5fa87ca33f7f6d7ba716c4b25c8aa0
   score_criteria:
     cats: 0
     description: 3

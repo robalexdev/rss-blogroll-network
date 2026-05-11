@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Sleepwalking into World War III
-  last_post_description: I must say, among all the wise people commenting on this
-    world’s situation, I honor Jeffrey Sachs especially for being relentless on the
-    dangers out there, going back to the Biden years. Jeffrey
-  last_post_date: "2026-03-11T00:19:17Z"
-  last_post_link: https://radioopensource.org/sleepwalking-into-world-war-iii/
+  last_post_title: The Pope and the President
+  last_post_description: "We’re tuning in on the Pope and the President in what can
+    sound like a historic showdown. Are we in the first rounds of an epic struggle
+    between church and empire? Are we perhaps looking ... \nThe"
+  last_post_date: "2026-04-23T20:04:24Z"
+  last_post_link: https://radioopensource.org/the-pope-and-the-president/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 46679531d309b9a1139309c711d8fa25
+  last_post_guid: 42eb44e5cb3abdadb8099c9db9bd5ab4
   score_criteria:
     cats: 1
     description: 3

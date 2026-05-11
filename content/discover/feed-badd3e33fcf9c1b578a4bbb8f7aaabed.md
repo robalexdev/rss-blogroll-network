@@ -15,35 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 学习
-  - 工具
   - 杂谈
-  - 软件
+  - 生活
   relme: {}
-  last_post_title: 226 学位论文锦囊——Word篇
-  last_post_description: 很多小伙伴都是使用word来撰写的学位论文。2月28日和小伙伴们分享了一些方法，这里将其总结一下，辅助小伙伴们 […]
-  last_post_date: "2026-03-03T15:23:49Z"
-  last_post_link: http://ddw2019.com/226
+  last_post_title: 259 滴水湖的水系介绍
+  last_post_description: 之前对于滴水湖有了一些介绍，具体内容如下： 2026.02.08 222 滴水湖的风水：一座被精心设计的“城市 […]
+  last_post_date: "2026-05-10T13:50:25Z"
+  last_post_link: http://ddw2019.com/259
   last_post_categories:
-  - 学习
-  - 工具
   - 杂谈
-  - 软件
+  - 生活
   last_post_language: ""
-  last_post_guid: 89f00ef9c11546efcd6aad915d2aaeb8
+  last_post_guid: c6a88e9c58500ed4fb2ca394da740dd5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

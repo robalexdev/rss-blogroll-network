@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-05-07T10:51:28Z"
+date: "2026-05-10T10:34:00Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -34,35 +34,31 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - dependencies
-  - open-source
-  - security
-  - supply-chain
+  - package-managers
+  - satire
   relme: {}
-  last_post_title: Free as in Tribbles
-  last_post_description: The next metaphor after free-as-in-puppy
-  last_post_date: "2026-05-07T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/05/07/free-as-in-tribbles.html
+  last_post_title: Madame Semver Will See You Now
+  last_post_description: The cards do not lie.
+  last_post_date: "2026-05-10T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html
   last_post_categories:
-  - dependencies
-  - open-source
-  - security
-  - supply-chain
+  - package-managers
+  - satire
   last_post_language: ""
-  last_post_guid: 0b178e90768b99b8111da7539a385625
+  last_post_guid: bb430d3421afbc446a5c466961456f4b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

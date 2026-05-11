@@ -10,7 +10,7 @@ params:
     https://www.fwrarejazzvinylcollector.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -18,31 +18,32 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - LP 12"
   relme: {}
-  last_post_title: ”Multiple” by Joe Henderson on Milestone (M 9050)
-  last_post_description: "One of my favorite Henderson titles on Milestone.\n          \n
-    \       \n      \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n
-    \ \n    \n      \n\n        \n\n        \n\n        \n          \n            \n
-    \       "
-  last_post_date: "2026-02-20T22:18:56Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/2/20/multiple-by-joe-henderson-on-milestone-m-9050
-  last_post_categories: []
+  last_post_title: ”Heavy!!!” by The Booker Ervin Sextet on Prestige PRST 7499
+  last_post_description: "A favorite Booker Ervin.\n          \n        \n      \n
+    \       \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n      \n\n
+    \       \n\n        \n\n        \n          \n            \n              \n                \n "
+  last_post_date: "2026-05-09T20:31:12Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/5/9/heavy-by-the-booker-ervin-sextet-on-prestige-prst-7499
+  last_post_categories:
+  - LP 12"
   last_post_language: ""
-  last_post_guid: f7fff82cf6a74191a34f437904c5b067
+  last_post_guid: 46ab387d4902c759472ba6a1dd5f2a9d
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

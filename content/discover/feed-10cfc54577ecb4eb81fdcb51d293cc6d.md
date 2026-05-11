@@ -1,6 +1,6 @@
 ---
 title: Tony Alicea
-date: "2026-03-03T00:00:00Z"
+date: "2026-04-13T00:00:00Z"
 description: JavaScript, HTML, CSS, NodeJS, UX
 params:
   feedlink: https://tonyalicea.dev/feed/feed.xml
@@ -19,13 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Trace: Declarative Modeling for the AI Age'
+  last_post_title: 'The Evaluability Gap: Designing for Scalable Human Review of AI
+    Output'
   last_post_description: ""
-  last_post_date: "2026-03-03T00:00:00Z"
-  last_post_link: https://tonyalicea.dev/blog/trace-declarative-modeling-ai-age/
+  last_post_date: "2026-04-13T00:00:00Z"
+  last_post_link: https://tonyalicea.dev/blog/the-evaluability-gap/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f85f28f2cae1bdf601834f6cff1fa640
+  last_post_guid: f3353768b0f9fa277059049b576b9a5b
   score_criteria:
     cats: 0
     description: 3

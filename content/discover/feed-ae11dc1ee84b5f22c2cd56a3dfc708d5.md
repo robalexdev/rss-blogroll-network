@@ -1,6 +1,6 @@
 ---
 title: Observational Hazard
-date: "2026-03-11T05:21:04-04:00"
+date: "2026-04-04T05:11:01-04:00"
 description: David Kopec's Blog
 params:
   feedlink: https://www.observationalhazard.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://www.observationalhazard.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

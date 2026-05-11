@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-03-14T16:46:11Z"
+date: "2026-05-07T08:26:22+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,7 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -99,6 +99,7 @@ params:
   - PhysOrgChem
   - Practical Cheminformatics
   - QSAR
+  - QSPR
   - Ro3
   - Ro5
   - Roche
@@ -225,19 +226,19 @@ params:
   relme:
     https://fbdd-lit.blogspot.com/: true
     https://www.blogger.com/profile/12180360326821860667: true
-  last_post_title: Hit to Lead best practice?
+  last_post_title: Comparing ML models in small molecule drug discovery
   last_post_description: ""
-  last_post_date: "2026-01-30T22:57:40Z"
-  last_post_link: https://fbdd-lit.blogspot.com/2026/01/hit-to-lead-best-practice.html
+  last_post_date: "2026-04-28T07:33:47+01:00"
+  last_post_link: https://fbdd-lit.blogspot.com/2026/04/comparing-ml-models-in-small-molecule.html
   last_post_categories:
-  - ChemMedChem
-  - H2L
-  - MedChem
+  - AI
+  - JCIM
+  - ML
+  - QSAR
+  - QSPR
   - cheminformatics
-  - hit-to-lead
-  - pour encourager les autres
   last_post_language: ""
-  last_post_guid: fc8d6efd636049476c1cc42176125312
+  last_post_guid: 125961041dd77e9497e9380c39dee4f2
   score_criteria:
     cats: 5
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Nate Meyvis
-date: "2026-03-16T19:58:55Z"
+date: "2026-05-10T19:30:09Z"
 description: |-
   I am an itinerant software engineer who likes to raise children, read, and memorize things.
 
@@ -13,7 +13,7 @@ params:
     https://www.natemeyvis.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites
@@ -25,22 +25,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - future of work
   - generative AI
+  - nuts and bolts
   - psychology of software
   - software
   relme: {}
-  last_post_title: Observability first
+  last_post_title: On using worktrees
   last_post_description: ""
-  last_post_date: "2026-03-15T17:23:26Z"
-  last_post_link: https://www.natemeyvis.com/observability-first/
+  last_post_date: "2026-05-10T17:14:01Z"
+  last_post_link: https://www.natemeyvis.com/on-using-worktrees/
   last_post_categories:
-  - future of work
   - generative AI
+  - nuts and bolts
   - psychology of software
   - software
   last_post_language: ""
-  last_post_guid: 0ee41216e34cca3e28b8f3e46793ef61
+  last_post_guid: 9d8d1b7a21390f9560b6a6b24c812334
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: marcoshplace
-date: "2026-02-16T14:28:12Z"
+date: "2026-05-08T12:53:22Z"
 description: A place to store my thoughts and ideas about programming and related
   stuff
 params:
@@ -17,28 +17,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - functional
+  - category-theory
   - haskell
-  - lens
-  - optics
   - post
-  - prism
+  - transformers
   relme: {}
-  last_post_title: The Mondrian introduction to functional optics
-  last_post_description: In this post I’d like to try to discuss what functional optics
-    are, without going too much into why they are so cool, and you should use them,
-    or how they are implemented1 and should be used with a
-  last_post_date: "2025-10-07T06:06:42Z"
-  last_post_link: http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html
+  last_post_title: Categorical transformers
+  last_post_description: Haskell is a programming language well known for its usage
+    of monads and for the over-abundance of tutorials trying to explain them. This
+    is not one of those posts. On the other hand, in this post
+  last_post_date: "2026-05-08T06:06:42Z"
+  last_post_link: http://marcosh.github.io/post/2026/05/08/categorical-transformers.html
   last_post_categories:
-  - functional
+  - category-theory
   - haskell
-  - lens
-  - optics
   - post
-  - prism
+  - transformers
   last_post_language: ""
-  last_post_guid: 616fd793a17b76da1b76a2ab272ce69c
+  last_post_guid: 14f42d5958e448b6448830ea22915f67
   score_criteria:
     cats: 0
     description: 3

@@ -41,26 +41,26 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Developer skills
-  - GitHub
-  - GitHub Actions
-  - GitHub Skills
-  - GitHub for beginners
+  - News & insights
+  - Policy
+  - maintainers
+  - open source
+  - policy
   relme: {}
-  last_post_title: 'GitHub for Beginners: Getting started with GitHub Actions'
-  last_post_description: |-
-    Set up your first GitHub Actions workflow in this how-to guide.
-    The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.
-  last_post_date: "2026-03-16T16:00:00Z"
-  last_post_link: https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/
+  last_post_title: Why age assurance laws matter for developers
+  last_post_description: "Youth safety requirements are moving down the tech stack
+    to operating systems and app stores—raising new questions for open source developers.
+    \nThe post Why age assurance laws matter for developers"
+  last_post_date: "2026-05-08T16:30:00Z"
+  last_post_link: https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/
   last_post_categories:
-  - Developer skills
-  - GitHub
-  - GitHub Actions
-  - GitHub Skills
-  - GitHub for beginners
+  - News & insights
+  - Policy
+  - maintainers
+  - open source
+  - policy
   last_post_language: ""
-  last_post_guid: 99d40b44e1079267b763b8032c23ab06
+  last_post_guid: 1354dfa655521f99544b25e4240426d8
   score_criteria:
     cats: 0
     description: 3

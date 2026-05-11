@@ -17,19 +17,23 @@ params:
   recommender: []
   categories:
   - Uncategorized
+  - arm64
+  - debian
   - floss
-  - security
+  - gaming
   relme: {}
-  last_post_title: Storing GPG private keys on a dedicated device
+  last_post_title: 'Arm64 Linux Desktop: one year after, all systems up'
   last_post_description: ""
-  last_post_date: "2026-01-03T10:07:20Z"
-  last_post_link: https://00formicapunk00.wordpress.com/2026/01/03/storing-gpg-private-keys-on-a-dedicated-device/
+  last_post_date: "2026-05-03T12:33:53Z"
+  last_post_link: https://00formicapunk00.wordpress.com/2026/05/03/arm64-linux-desktop-one-year-after-all-systems-up/
   last_post_categories:
   - Uncategorized
+  - arm64
+  - debian
   - floss
-  - security
+  - gaming
   last_post_language: ""
-  last_post_guid: e23f0c252d637829fd79025bb0e6872a
+  last_post_guid: e1a45eb2d655db4042bdd942ed903b12
   score_criteria:
     cats: 0
     description: 3

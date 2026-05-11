@@ -20,22 +20,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - John Ternus
-  - Leadership
-  - Tim Cook
+  - AI
+  - Apple Intelligence
+  - Apple Silicon
+  - photography
   relme: {}
-  last_post_title: 'Tim Cook’s Apple: Operational Mastery, Strategic Restraint—and
-    the Cost of Playing It Safe'
-  last_post_description: Bye Tim, thank you. Time for a change. Many changes. More
-    than ever, I’m hopeful for the future.
-  last_post_date: "2026-04-21T00:46:43Z"
-  last_post_link: https://numericcitizen.me/tim-cooks-apple-operational-mastery-strategic-restraintand-the-cost-of-playing-it-safe/
+  last_post_title: Apple Has Always Been at War with Physics — and It's Happening
+    Again
+  last_post_description: There is a pattern to how Apple makes its most interesting
+    bets. It finds a hard physical constraint, something that looks like an immovable
+    wall, and decides that software is the answer. It happened
+  last_post_date: "2026-05-10T23:40:33Z"
+  last_post_link: https://numericcitizen.me/apple-has-always-been-at-war-with-physics-and-its-happening-again/
   last_post_categories:
-  - John Ternus
-  - Leadership
-  - Tim Cook
+  - AI
+  - Apple Intelligence
+  - Apple Silicon
+  - photography
   last_post_language: ""
-  last_post_guid: 61a9442deafcceba10b80870e1d6da95
+  last_post_guid: 08d43b44b4f4fe6aa0b7b826084f00c4
   score_criteria:
     cats: 0
     description: 3

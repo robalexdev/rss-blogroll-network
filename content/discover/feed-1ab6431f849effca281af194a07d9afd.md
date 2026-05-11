@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-05-07T23:20:56+08:00"
+date: "2026-05-11T10:43:01+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 枯燥的生活需要多一些夸奖
-  last_post_description: 昨晚写代码到 22 点，本来想看会网飞讲 Spotify 的神剧《串流先锋 The
-  last_post_date: "2026-05-07T10:53:28+08:00"
-  last_post_link: https://www.sunzhongwei.com/more-praise-is-needed-dull-life
+  last_post_title: MES Hold 信息报表开发的相关概念，预 Hold、在制 Hold、解 Hold
+  last_post_description: 这周收到一个半导体产线 MES 系统的二次开发需求，即，增加一个 Hold 信息报表，展示预 Hold、在制 Hold、解
+    Hold 信息，信息展示包括时间、人、Hold
+  last_post_date: "2026-05-08T14:01:07+08:00"
+  last_post_link: https://www.sunzhongwei.com/mes-hold-vs-pre-hold-release
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16a7591bb68a5056db4bffd45e5a7fca
+  last_post_guid: 87f19e2ef7c9e00a09dffd41ac525f05
   score_criteria:
     cats: 0
     description: 3

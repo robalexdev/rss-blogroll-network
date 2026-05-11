@@ -10,7 +10,7 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,29 +23,27 @@ params:
   recommender: []
   categories:
   - a.i.
-  - context engineering
-  - cress
-  - goals
-  - requirements
-  - tdd
-  - testing
+  - people
+  - productivity
+  - software development
+  - teams
+  - trends
   relme: {}
-  last_post_title: CRESS Principles for Context Engineering – R is for Refutable
-  last_post_description: If speculative ideas can not be tested, they’re not science;
-    they don’t even rise to the level of being wrong. Wolfgang Pauli When we interact
-    with a language model, we’re communicating in
-  last_post_date: "2026-05-07T06:39:13Z"
-  last_post_link: https://codemanship.wordpress.com/2026/05/07/cress-principles-for-context-engineering-r-is-for-refutable/
+  last_post_title: Slow. The. F**k. Down.
+  last_post_description: “Slow is smooth, and smooth is fast.” US Navy SEALS training
+    mantra Another day, another data set telling us what we already knew. In the latest
+    AI Engineering Report from Faros, the software
+  last_post_date: "2026-05-10T05:22:33Z"
+  last_post_link: https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/
   last_post_categories:
   - a.i.
-  - context engineering
-  - cress
-  - goals
-  - requirements
-  - tdd
-  - testing
+  - people
+  - productivity
+  - software development
+  - teams
+  - trends
   last_post_language: ""
-  last_post_guid: b8321925e71426c1124b4307ff6c8521
+  last_post_guid: afd8867a2416030f3d6ba8a0f9e98919
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,16 +18,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#735 Doing the moonwalk in your socks'
-  last_post_description: Between clanging gongs at the beginning of Beat It my fellow
-    six-year-old cousins and I would strike star poses, fling our hats, and blast
-    fist-pumps to the sky. As the bass kicked in and the songs
-  last_post_date: "2026-02-27T17:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/02/27/735-doing-the-moonwalk-in-your-socks-4/
+  last_post_title: '#685 Taking the stairs beside somebody taking the escalator'
+  last_post_description: Coming out of the subway, heading to the airport gates, or
+    moseying back to the office after lunch, you occasionally walk with a friend and
+    hit this classic fork in the road. On the right is a smooth
+  last_post_date: "2026-05-08T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/05/08/685-taking-the-stairs-beside-somebody-taking-the-escalator-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: e163be5cee10f274622870443d527a86
+  last_post_guid: 999d55aee959da4fb3ce9556cf577ffc
   score_criteria:
     cats: 0
     description: 3

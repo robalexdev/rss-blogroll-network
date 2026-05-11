@@ -1,6 +1,6 @@
 ---
 title: 2PM
-date: "2026-03-09T18:55:10Z"
+date: "2026-05-08T17:27:09Z"
 description: Studying where media meets commerce.
 params:
   feedlink: https://2pml.com/feed/atom/
@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Archives
+  - Member Briefs
   - NATSEC
   relme: {}
-  last_post_title: 'NATSEC Roundtable No. 9: Capital, Cloud, and Commerce'
-  last_post_description: 'This is the new defense stack, and the best venture capital
-    firms in the country (re: world) enable it.  American military and intelligence
-    capabilities no longer originate solely in the Pentagon or'
-  last_post_date: "2026-03-09T18:55:10Z"
-  last_post_link: https://2pml.com/2026/01/17/capital-cloud-commerce/
+  last_post_title: 'Member Brief: Monitoring The Situation'
+  last_post_description: There is a meme, and then there is what the meme actually
+    marks. This member brief is designed exclusively for Executive Members, to make
+    membership easy, you can click below and gain access to
+  last_post_date: "2026-05-08T17:27:09Z"
+  last_post_link: https://2pml.com/2026/05/08/mts/
   last_post_categories:
-  - Archives
+  - Member Briefs
   - NATSEC
   last_post_language: ""
-  last_post_guid: e2f2e48c61c114a9977517ca99c75e0d
+  last_post_guid: c2d08067b88dd51243529642c94542a1
   score_criteria:
     cats: 0
     description: 3

@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 404 Media on People Hate Datacenters
+  last_post_title: The Guardian on Supreme Court’s VRA Data
   last_post_description: |-
-    People Hate Datacenters, Survey Finds
+    Supreme court's Voting Rights Act ruling cited misleading data from DoJ
 
-    Most of the Americans surveyed believe that datacenters are bad for the environment, home energy costs, and the quality of life of people living nearby and the
-  last_post_date: "2026-03-15T08:01:45-07:00"
-  last_post_link: https://www.onfocus.com/2026/03/9054/people-hate-datacenters-survey-finds?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+    “They had to fudge how they’re calculating the turnout rate to get there, and they’re not even taking into account
+  last_post_date: "2026-05-08T08:04:16-07:00"
+  last_post_link: https://www.onfocus.com/2026/05/9076/supreme-courts-voting-rights-act-ruling-cited?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

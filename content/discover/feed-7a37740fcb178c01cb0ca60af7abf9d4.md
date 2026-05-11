@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026-03-16-11-03
-  last_post_description: I was looking to test a manual lens for everyday carry. It’s
-    not the right color but it gives it a certain style…
-  last_post_date: "2026-03-16T11:05:00+01:00"
-  last_post_link: https://alienlebarge.ch/notes/2026-03-16-11-03
+  last_post_title: Coupe des bains 2026 jeunesse
+  last_post_description: La Gym Ursy Ã  la Coupe des Bains
+  last_post_date: "2026-05-10T21:55:00+02:00"
+  last_post_link: https://alienlebarge.ch/photos/2026-05-10-21-53
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2ce02466b98b6623939eca8a521172b4
+  last_post_guid: a8dd0bae7a545f23c9a276313b0aa6fa
   score_criteria:
     cats: 0
     description: 0

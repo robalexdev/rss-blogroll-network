@@ -1,6 +1,6 @@
 ---
 title: flurdy’s ranting
-date: "2026-02-05T10:00:46Z"
+date: "2026-05-06T10:16:33Z"
 description: The ramblings and ranting of Ivar Abrahamsen at flurdy.com. Contain ideas,
   ranting at innocents, blinkered sporting opinions, tech bable, and probably not
   enough to be interesting.
@@ -12,7 +12,7 @@ params:
     https://blog.flurdy.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites

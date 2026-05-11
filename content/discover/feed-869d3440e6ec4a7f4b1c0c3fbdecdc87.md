@@ -21,26 +21,24 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
   relme: {}
-  last_post_title: Control Your Threads Feed With New Dear Algo Feature
+  last_post_title: 'Live Chats on Threads: Because Big Moments Are Better Together'
   last_post_description: |-
-    Dear Algo adjusts your feed based on what you want to see more or less of on Threads.
-    The post Control Your Threads Feed With New Dear Algo Feature appeared first on Meta Newsroom.
-  last_post_date: "2026-02-11T18:00:48Z"
-  last_post_link: https://about.fb.com/news/2026/02/threads-dear-algo/
+    Creators and fans can now connect in real-time, public group conversations during the biggest cultural events.
+    The post Live Chats on Threads: Because Big Moments Are Better Together appeared first
+  last_post_date: "2026-04-22T17:00:40Z"
+  last_post_link: https://about.fb.com/news/2026/04/threads-live-chats/
   last_post_categories:
-  - AI
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
   last_post_language: ""
-  last_post_guid: 1662c9dc9c6d31854909f1b195c1a620
+  last_post_guid: 3b545a2ab64fe30985fb24c79dc4d676
   score_criteria:
     cats: 0
     description: 0

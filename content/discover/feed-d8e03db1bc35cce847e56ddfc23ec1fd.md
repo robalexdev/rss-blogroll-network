@@ -1,6 +1,6 @@
 ---
 title: a.tulv.in
-date: "2024-06-19T07:00:00Z"
+date: "2026-03-28T07:00:00Z"
 description: ""
 params:
   feedlink: https://a.tulv.in/feeds/all.atom.xml
@@ -15,33 +15,37 @@ params:
   recommended: []
   recommender: []
   categories:
+  - AI
+  - LLM
   - Programming
-  - math
+  - Wikipedia
   relme: {}
-  last_post_title: Tupper's self-referential formula
-  last_post_description: Tupper's self-referential formula is a formula that visually
-    represents itself when graphed at a specific location in the (x, y) plane. pic.twitter.com/R0L3ZjqcyP—
-    Fermat's Library
-  last_post_date: "2024-06-19T07:00:00Z"
-  last_post_link: https://a.tulv.in/tuppers-self-referential-formula.html
+  last_post_title: Mining for wikipedia gold with LLMs
+  last_post_description: Wikipedia is awesome. One if the greatest things we have
+    ever done as a civilization. If you know what you want, there's a good chance
+    you can find it on wikipedia. But what if you don't know what
+  last_post_date: "2026-03-28T07:00:00Z"
+  last_post_link: https://a.tulv.in/mining-for-wikipedia-gold-with-llms.html
   last_post_categories:
+  - AI
+  - LLM
   - Programming
-  - math
+  - Wikipedia
   last_post_language: ""
-  last_post_guid: d1900c1ddee3600b3f930b8b708bd2f0
+  last_post_guid: 3312e39c739cfffb6a3736005edb27f1
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

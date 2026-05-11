@@ -1,6 +1,6 @@
 ---
 title: ADD / XOR / ROL
-date: "2026-03-14T00:00:30-07:00"
+date: "2026-04-23T03:43:41-07:00"
 description: A blog about reverse engineering, mathematics, politics, economics and
   more ...
 params:
@@ -23,14 +23,13 @@ params:
   - vpn
   - vulnerability researc
   relme: {}
-  last_post_title: 'Ask your LLM for receipts: What I learned teaching Claude C++
-    crash triage'
+  last_post_title: Slightly safer vibecoding by adopting old hacker habits
   last_post_description: ""
-  last_post_date: "2025-12-12T03:17:04-08:00"
-  last_post_link: https://addxorrol.blogspot.com/2025/12/ask-your-llm-for-receipts-what-i.html
+  last_post_date: "2026-03-24T21:02:32-07:00"
+  last_post_link: https://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5d4db7936ffa9e07b418363bef57d1d5
+  last_post_guid: 03c862c28c1c00d625c230cacc0f9c59
   score_criteria:
     cats: 5
     description: 3

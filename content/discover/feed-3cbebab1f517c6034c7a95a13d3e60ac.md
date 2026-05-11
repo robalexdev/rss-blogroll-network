@@ -15,36 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BT
-  - BitTorrent
-  - PT
-  - PT作弊
-  - VPN
-  - WARP
-  - WireGuard
-  - gluetun
-  - rustatio
-  - wgcf
+  - zulip
+  - 团队协作
   - 学无止境
+  - 聊天
+  - 聊天软件
   relme: {}
-  last_post_title: Rustatio：Modern BitTorrent Ratio Faker
-  last_post_description: Rustatio是一款现代化的跨平台BitTorrent
-  last_post_date: "2026-02-27T02:56:25Z"
-  last_post_link: https://lala.im/10050.html
+  last_post_title: Docker部署Zulip团队协作平台
+  last_post_description: !!binary |
+    WnVsaXDmmK/lrozlhajlvIDmupDnmoTvvIzkvYbmmK/oh6rmiZjnrqHniYjmnKzmnInkuI
+    DkupvpmZDliLbvvIzor6bnu4blr7nmr5Tlj6/mtY/op4jov5nkuKrnvZHpobXmn6XnnIvj
+    gILkvLzkuY7lj6rmnInnp7vliqjmjqjpgIHpgJrnn6XpmZDliLYxMOS4queUqOaIt+acie
+    eCueibi+eWvO+8jOWFtuS7lueahOmDveS4jeaAjuS5iOW9seWTjeS9k+k=
+  last_post_date: "2026-04-19T07:54:12Z"
+  last_post_link: https://lala.im/10092.html
   last_post_categories:
-  - BT
-  - BitTorrent
-  - PT
-  - PT作弊
-  - VPN
-  - WARP
-  - WireGuard
-  - gluetun
-  - rustatio
-  - wgcf
+  - zulip
+  - 团队协作
   - 学无止境
+  - 聊天
+  - 聊天软件
   last_post_language: ""
-  last_post_guid: 57cca08d534ebaf44228531b1a77d0c0
+  last_post_guid: af48aebbd6abfcd448fe238f52e5eafe
   score_criteria:
     cats: 0
     description: 3

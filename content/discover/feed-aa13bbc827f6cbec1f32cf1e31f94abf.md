@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-03-16T16:32:25-04:00"
+date: "2026-05-10T18:10:45-04:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Action Figure Review: Kyle Katarn from Star Wars: The Black Series
-    Phase IV by Hasbro'
+  last_post_title: 'Action Figure Review: Akuma from Ultra Street Fighter II: The
+    New Challengers by Jada Toys'
   last_post_description: ""
-  last_post_date: "2026-03-14T20:20:22-04:00"
-  last_post_link: https://www.actionfigurebarbecue.com/2026/03/action-figure-review-kyle-katarn-from.html
+  last_post_date: "2026-05-08T15:00:00-04:00"
+  last_post_link: https://www.actionfigurebarbecue.com/2026/05/action-figure-review-akuma-from-ultra.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 05d5e6355d61fa5c9a65f7ec18caabed
+  last_post_guid: 4df9b2cff7a390d67d41eab387e7d011
   score_criteria:
     cats: 0
     description: 3

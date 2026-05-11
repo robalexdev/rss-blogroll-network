@@ -1,6 +1,6 @@
 ---
 title: Winston Cooke - Blog
-date: "2024-12-06T00:00:00Z"
+date: "2026-05-09T00:00:00Z"
 description: A collection of musings on tech, art, and more.
 params:
   feedlink: https://www.winstoncooke.com/blog/atom.xml
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Accounting for Fixed Assets
+  last_post_title: On AI Coding Assistants
   last_post_description: ""
-  last_post_date: "2024-12-06T00:00:00Z"
-  last_post_link: https://www.winstoncooke.com/blog/accounting-for-fixed-assets/
+  last_post_date: "2026-05-09T00:00:00Z"
+  last_post_link: https://www.winstoncooke.com/blog/on-ai-coding-assistants/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 20829c8f95d3d1dca7c78d8f56e72152
+  last_post_guid: 6b399153903319716803d22e62244c39
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-03-16T06:53:26Z"
+date: "2026-05-10T23:07:00+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://culturalsnow.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -470,18 +470,19 @@ params:
   relme:
     https://chasmsoftheearth.blogspot.com/: true
     https://culturalsnow.blogspot.com/: true
+    https://draft.blogger.com/profile/14681067872556519250: true
     https://lookinginfinite.blogspot.com/: true
     https://www.blogger.com/profile/14681067872556519250: true
-  last_post_title: About unread books
+  last_post_title: About speaking English
   last_post_description: ""
-  last_post_date: "2026-03-14T07:58:38Z"
-  last_post_link: https://culturalsnow.blogspot.com/2026/03/about-unread-books.html
+  last_post_date: "2026-05-06T06:38:20+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/05/about-speaking-english.html
   last_post_categories:
-  - AI
-  - absence
-  - books
+  - film
+  - language
+  - race
   last_post_language: ""
-  last_post_guid: d9098d3f9376af67e85cb5ca716361db
+  last_post_guid: fcd6c55148cb68697ef384dd5f0d5fe9
   score_criteria:
     cats: 5
     description: 3

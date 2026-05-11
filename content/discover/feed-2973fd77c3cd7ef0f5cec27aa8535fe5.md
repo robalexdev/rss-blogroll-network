@@ -10,6 +10,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: Ian Betteridge - Blogroll
     description: ""
     id: 20be0e144911eab9897246dd2b0bce2a

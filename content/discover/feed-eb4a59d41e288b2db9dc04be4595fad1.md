@@ -24,33 +24,36 @@ params:
   - http://scripting.com/rss.xml
   categories:
   - News
+  - home battery
+  - home solar
+  - survey sunday
   relme: {}
-  last_post_title: Lexus announces 2026 ES EV prices start at under $50,000
-  last_post_description: |-
-    The luxury electric sedan is more affordable than expected. Lexus revealed that the 2026 ES EV will be cheaper than the hybrid version, with prices starting under $50,000.
-
-
-
-     more…
-  last_post_date: "2026-03-05T17:42:58Z"
-  last_post_link: https://electrek.co/2026/03/05/lexus-announces-2026-es-ev-prices-start-at-under-50000/
+  last_post_title: 'Survey Sunday: How much home battery backup do YOU need?'
+  last_post_description: Home batteries are getting a lot of attention lately, but
+    are people really looking for a full “whole home” setup, or are they just interested
+    in keeping their phones alive for some post
+  last_post_date: "2026-05-11T01:55:22Z"
+  last_post_link: https://electrek.co/2026/05/10/survey-sunday-how-much-home-battery-backup-do-you-need/
   last_post_categories:
   - News
+  - home battery
+  - home solar
+  - survey sunday
   last_post_language: ""
-  last_post_guid: a295636bd2398652e2ba09c6702e98e0
+  last_post_guid: 1ca8bc04686eb342c02567e8643eb41d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

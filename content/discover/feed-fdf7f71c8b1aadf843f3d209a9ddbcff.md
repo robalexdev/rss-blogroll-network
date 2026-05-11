@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-05-07T14:31:56Z"
+date: "2026-05-10T18:57:13Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -10,7 +10,7 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,28 +29,32 @@ params:
   recommender:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
-  categories: []
+  categories:
+  - "2026"
+  - health
   relme: {}
-  last_post_title: cutting off my mother was so worth it!
-  last_post_description: If you consider it, I wanna encourage you.
-  last_post_date: "2026-05-07T14:18:15Z"
-  last_post_link: https://blog.avas.space/cutoff/
-  last_post_categories: []
+  last_post_title: '#LiegendDemo - protesting for ME/CFS treatment & visibility'
+  last_post_description: Showing up for those who can't.
+  last_post_date: "2026-05-09T15:32:02Z"
+  last_post_link: https://blog.avas.space/protest-mecfs/
+  last_post_categories:
+  - "2026"
+  - health
   last_post_language: ""
-  last_post_guid: d42c184d1aa0f9bff02718c2aebd1b95
+  last_post_guid: c649dc65f9f6324efe11ec50ec990513
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

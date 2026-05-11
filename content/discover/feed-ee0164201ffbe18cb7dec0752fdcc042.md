@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-03-15T18:31:41-07:00"
+date: "2026-05-10T03:31:31-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5322 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -850,6 +850,7 @@ params:
   - SPORTY THIEVZ
   - SPRING BREAKERS
   - SST
+  - SST RECORDS
   - STANKONIA
   - STEREOLAB
   - STEVE ALBINI
@@ -1139,20 +1140,16 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: The Residents
+  last_post_title: RIP David Thomas
   last_post_description: ""
-  last_post_date: "2026-02-24T10:14:31-08:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/02/the-residents.html
+  last_post_date: "2026-04-19T15:31:18-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2025/04/rip-david-thomas.html
   last_post_categories:
-  - AVANT-ROCK
-  - COMEDY AND ROCK
-  - PARODY
-  - PASTICHE
-  - POST-PSYCHEDELIC
-  - POSTPUNK
-  - THE RESIDENTS
+  - DAVID THOMAS
+  - PERE UBU
+  - RIP
   last_post_language: ""
-  last_post_guid: 71135d649fef65e66055f16154ef4220
+  last_post_guid: 843c72b3f4d986b51f05e4a659cec92e
   score_criteria:
     cats: 5
     description: 3

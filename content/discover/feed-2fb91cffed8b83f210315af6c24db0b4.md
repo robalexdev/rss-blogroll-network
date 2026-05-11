@@ -22,15 +22,14 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: A chat with Byron Cook on automated reasoning and trust in AI systems
-  last_post_description: Over the past decade, Byron's team has proven the correctness
-    of our authorization engine, our cryptographic implementations, and our virtualization
-    layer. Now they're taking those same techniques
-  last_post_date: "2026-02-17T06:00:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2026/02/a-chat-with-byron-cook-on-automated-reasoning-and-trust-in-ai-systems.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: The invisible engineering behind Lambda’s network
+  last_post_description: The subtle inventiveness that reduced cold start setup from
+    seconds to 200μs.
+  last_post_date: "2026-04-22T06:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d4e669988cf430628255b5d1dad0bfe8
+  last_post_guid: 2ed58ec02e89bad3915645b0f46a534b
   score_criteria:
     cats: 0
     description: 3
