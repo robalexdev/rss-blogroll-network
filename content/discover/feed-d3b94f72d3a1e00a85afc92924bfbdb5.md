@@ -1,6 +1,6 @@
 ---
 title: Accidental Woodworker
-date: "2026-05-10T18:09:50-04:00"
+date: "2026-06-11T13:29:13-04:00"
 description: The daily dribble from my workshop
 params:
   feedlink: https://accidentalwoodworker.blogspot.com/atom.xml
@@ -208,13 +208,13 @@ params:
   - workshop tool
   - xmas
   relme: {}
-  last_post_title: Leo's desk pt X.........
+  last_post_title: Lenox spice cabinet
   last_post_description: ""
-  last_post_date: "2026-05-10T06:30:30-04:00"
-  last_post_link: https://accidentalwoodworker.blogspot.com/2026/05/leos-desk-pt-x.html
+  last_post_date: "2026-06-11T09:11:56-04:00"
+  last_post_link: https://accidentalwoodworker.blogspot.com/2026/06/lenox-spice-cabinet.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a1ece9f915fee8c422faf957a6165f5
+  last_post_guid: 36aa0bc71dcdf02fa180cc9a848885ed
   score_criteria:
     cats: 5
     description: 3

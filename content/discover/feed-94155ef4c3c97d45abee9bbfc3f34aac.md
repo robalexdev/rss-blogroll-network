@@ -15,34 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AmEx 相关总结
-  - Rewards Abuse Team (RAT)
-  - 美国运通 American Express (AmEx)
+  - 星空联盟 Star Alliance
+  - 美联航 United Airlines (UA)
   relme: {}
-  last_post_title: AmEx Clawback 退订后的 Hilton Resort 报销和航空报销【2026.5 更新：之前被clawback的credit居然又返还了】
-  last_post_description: 【2026.5 更新】 这几天美卡论坛上有一些数据点说，之前因为退订而被clawback的 Hilton Resort
-    credit，又被返还了！这是AmEx的IT
-  last_post_date: "2026-05-10T14:00:39Z"
-  last_post_link: https://www.uscreditcardguide.com/amex-clawback-tuidinghoude-hilton-resort-baoxiaohehangkongbaoxiao/
+  last_post_title: United MileagePlus 里程全家桶功能 (Miles Pooling) 简介【2026.6 更新：可以用于兑换伙伴机票了】
+  last_post_description: 【2026.6 更新】 之前pool的UA里程只能换自家的票不能换伙伴票，现在可以用于兑换伙伴机票了：”Pooled
+    miles can be used to book award tickets on United, United
+  last_post_date: "2026-06-11T14:25:07Z"
+  last_post_link: https://www.uscreditcardguide.com/united-airlines-introduces-miles-pooling/
   last_post_categories:
-  - AmEx 相关总结
-  - Rewards Abuse Team (RAT)
-  - 美国运通 American Express (AmEx)
+  - 星空联盟 Star Alliance
+  - 美联航 United Airlines (UA)
   last_post_language: ""
-  last_post_guid: 7ae19880cd6dbdb990cce5f6d276065d
+  last_post_guid: a6777af6db2aad6ff0539af978831a73
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

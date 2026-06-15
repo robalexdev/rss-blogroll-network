@@ -1,6 +1,6 @@
 ---
 title: bulltown.2022
-date: "2026-05-10T19:22:19Z"
+date: "2026-06-11T11:14:32Z"
 description: ""
 params:
   feedlink: https://bulltown.joejenett.com/feed.atom
@@ -10,7 +10,7 @@ params:
     https://bulltown.joejenett.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -45,13 +45,13 @@ params:
     https://toot.community/@jenett2: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: bulltown updates 02-25-26
+  last_post_title: somethin’ new
   last_post_description: ""
-  last_post_date: "2026-02-25T16:36:56Z"
-  last_post_link: https://bulltown.joejenett.com/bulltown-updates-02-25-26/
+  last_post_date: "2026-06-05T10:48:52Z"
+  last_post_link: https://bulltown.joejenett.com/somethin%E2%80%99-new/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9995cf34d69629e908274bbb27386619
+  last_post_guid: 8eeac039877621f8744c9e1a648b56b2
   score_criteria:
     cats: 0
     description: 0

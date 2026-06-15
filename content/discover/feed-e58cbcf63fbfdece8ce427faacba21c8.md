@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An AI agent coding skeptic tries AI agent coding, in excessive
-    detail
-  last_post_description: No vagueposting here, just look at the Estimated Read Time.
-  last_post_date: "2026-02-27T10:00:00-08:00"
-  last_post_link: https://minimaxir.com/2026/02/ai-agent-coding/
+  last_post_title: The mysterious Hy3 LLM is topping OpenRouter Model Rankings by
+    a large margin
+  last_post_description: Why Hy3?
+  last_post_date: "2026-05-26T08:30:00-07:00"
+  last_post_link: https://minimaxir.com/2026/05/openrouter-hy3/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b0c2127594f183d4fb19141e264049bd
+  last_post_guid: c71ba8761f6f7bf3e9e0870fa23530b7
   score_criteria:
     cats: 0
     description: 3

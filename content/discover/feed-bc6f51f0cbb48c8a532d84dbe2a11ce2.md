@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-05-10T23:08:27+01:00"
+date: "2026-06-11T14:14:06+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -134,6 +134,7 @@ params:
   - Lanzarote
   - Lesney Bread Bait Press
   - Liquidised
+  - Liquidised bread
   - Livebait
   - Lobworm
   - Longbridge
@@ -359,6 +360,7 @@ params:
   - king carp. Snitterfield
   - kingfisher
   - length-weight relationship
+  - lift bite
   - lift method
   - lilypad
   - liq
@@ -496,18 +498,19 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: 'Canal Roach: Trapped in a Sisyphean Loop - Pt.11'
+  last_post_title: 'Canal Roach: Trapped in a Sisyphean Loop - Pt.19'
   last_post_description: ""
-  last_post_date: "2026-05-10T13:05:27+01:00"
-  last_post_link: https://calamitymn.blogspot.com/2026/05/canal-roach-trapped-in-sisyphean-loop_10.html
+  last_post_date: "2026-06-11T07:45:26+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/06/canal-roach-trapped-in-sisyphean-loop_01548225987.html
   last_post_categories:
-  - Tench
-  - canal roach
-  - canal tench
-  - ground bait
-  - maggots
+  - Bread
+  - Canal
+  - Liquidised bread
+  - canal Carp
+  - lift method
+  - skimmer
   last_post_language: ""
-  last_post_guid: 3063f68a9e04132578605c2ec6ecc330
+  last_post_guid: c0e28edd7e5b106930378d22f4c17918
   score_criteria:
     cats: 5
     description: 0

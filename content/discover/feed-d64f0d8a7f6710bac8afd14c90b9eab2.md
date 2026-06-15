@@ -11,7 +11,7 @@ params:
     https://ankursethi.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,13 +24,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A broken 404 template in Django can swallow your backtraces
+  last_post_title: So you want to write a GUI framework
   last_post_description: ""
-  last_post_date: "2026-04-18T11:26:00Z"
-  last_post_link: https://ankursethi.com/blog/a-broken-404-template-in-django-can-swallow-your-backtraces/
+  last_post_date: "2026-06-11T09:17:34Z"
+  last_post_link: https://ankursethi.com/links/so-you-want-to-write-a-gui-framework/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1c94a873581d7c835dde9ad6db12d9c8
+  last_post_guid: f905e413637979a16a1a8333da80ffd2
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-05-07T18:01:15-07:00"
+date: "2026-06-09T17:57:52-07:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml
@@ -22,13 +22,13 @@ params:
   - metal
   - poetry
   relme: {}
-  last_post_title: 'Kill bill vol 1 and vol 2: thoughts and impressions.'
+  last_post_title: 'English as she is spoke:  or seranade me casanova.'
   last_post_description: ""
-  last_post_date: "2026-04-13T22:08:02-07:00"
-  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/04/kill-bill-vol-1-and-vol-2-thoughts-and.html
+  last_post_date: "2026-05-30T18:31:11-07:00"
+  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/05/english-as-she-is-spoke-or-seranade-me.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e33ea74bab1b60503faac77f84b7db2
+  last_post_guid: 381b0bd0abc9082ae2c49809c6ece8fa
   score_criteria:
     cats: 5
     description: 3

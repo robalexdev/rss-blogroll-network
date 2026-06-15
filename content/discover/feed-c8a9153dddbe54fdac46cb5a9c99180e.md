@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Guardian on Supreme Court’s VRA Data
+  last_post_title: pivot-to-ai.com on rsync goes AI slop, breaks
   last_post_description: |-
-    Supreme court's Voting Rights Act ruling cited misleading data from DoJ
+    rsync goes AI slop, breaks your backups
 
-    “They had to fudge how they’re calculating the turnout rate to get there, and they’re not even taking into account
-  last_post_date: "2026-05-08T08:04:16-07:00"
-  last_post_link: https://www.onfocus.com/2026/05/9076/supreme-courts-voting-rights-act-ruling-cited?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+    Tridgell has the right to run the rsync project his way, and nobody can tell him not to. But also, other people do have the right to say: this broke our stuff
+  last_post_date: "2026-06-04T05:26:12-07:00"
+  last_post_link: https://www.onfocus.com/2026/06/9088/rsync-goes-ai-slop-breaks-your-backups?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

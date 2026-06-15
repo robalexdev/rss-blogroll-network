@@ -9,37 +9,28 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Colin Walker's readroll
+  - title: Bubbles — 5303 blogs
     description: ""
-    id: e6f62030c0a74fdcd1c99a1b492f6d21
+    id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
-  recommender:
-  - https://colinwalker.blog/dailyfeed.xml
+  recommender: []
   categories:
   - Personal
-  - caddy
-  - debian
-  - linux
-  - php
-  - technology
-  - web
+  - openbenches
+  - tenerife 2026
   relme: {}
-  last_post_title: '[Article] PHP 8.4 on Caddy on Debian 13… in Three Minutes'
-  last_post_description: I just needed to spin up a new PHP webserver and I was amazed
-    how fast and easy it was, nowadays. Just the stock package repositories and around
-    five commands and my fresh box and it was serving PHP
-  last_post_date: "2026-01-21T15:12:27Z"
-  last_post_link: https://danq.me/2026/01/21/php-caddy-debian-13/
+  last_post_title: '[Article] OpenBenches reaches Tenerife'
+  last_post_description: This weekend, I helped OpenBenches extend its reach to Tenerife,
+    by finding and photographing a bench in the memorial garden for the Dan-Air Flight
+    1008 disaster. Almost-simultaneously, Terence Eden
+  last_post_date: "2026-02-04T15:29:58Z"
+  last_post_link: https://danq.me/2026/02/04/openbenches-tenerife/
   last_post_categories:
   - Personal
-  - caddy
-  - debian
-  - linux
-  - php
-  - technology
-  - web
+  - openbenches
+  - tenerife 2026
   last_post_language: ""
-  last_post_guid: 1b7f1449ff8077d143e6914202e183a6
+  last_post_guid: d2059ee582adf70d04060736b7385f0a
   score_criteria:
     cats: 0
     description: 3

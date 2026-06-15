@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-05-10T19:25:33-04:00"
+date: "2026-06-10T23:59:41-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -471,6 +471,7 @@ params:
   - Occupy Wall Street
   - Oil
   - Oisín Curran
+  - Oliver Fugler
   - Olivier Assayas
   - One Yes & Many Know
   - Oral Method
@@ -485,6 +486,7 @@ params:
   - Past Present Future Etc
   - Patreon
   - Patricia Boushel
+  - Patrick Cottrell
   - Patti Smith
   - Paul Celan
   - Paul Chan
@@ -681,29 +683,26 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: Excerpt from the novel-in-progress Failure Finds its Happy End
+  last_post_title: IMAGINE UPWARDS / June 3rd at CCOV
   last_post_description: ""
-  last_post_date: "2026-05-10T19:25:33-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/05/excerpt-from-novel-in-progress-failure.html
-  last_post_categories:
-  - Excerpts from Jacob Wren novels
-  - Failure Finds its Happy End
-  - Three Trilogies
+  last_post_date: "2026-06-03T10:19:35-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/05/imagine-upwards-june-3rd-at-ccov.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36308e5ec28803451c2b05d81b7bef83
+  last_post_guid: 7fabca16b86d389bd8cf1c916bd9243b
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

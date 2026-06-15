@@ -20,38 +20,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Apple Intelligence
-  - Apple Silicon
-  - photography
+  - Ephemeral Scrapbook
   relme: {}
-  last_post_title: Apple Has Always Been at War with Physics — and It's Happening
-    Again
-  last_post_description: There is a pattern to how Apple makes its most interesting
-    bets. It finds a hard physical constraint, something that looks like an immovable
-    wall, and decides that software is the answer. It happened
-  last_post_date: "2026-05-10T23:40:33Z"
-  last_post_link: https://numericcitizen.me/apple-has-always-been-at-war-with-physics-and-its-happening-again/
+  last_post_title: The Ephemeral Scrapbook — 2026.06.07
+  last_post_description: Pre-WWDC26 edition. Will Apple finally deliver Apple Intelligence
+    to their devices and users? Let’s pray, shall we? Enjoy your WWDC pre-recorded
+    (!) show.
+  last_post_date: "2026-06-07T20:01:29Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-06-07-2/
   last_post_categories:
-  - AI
-  - Apple Intelligence
-  - Apple Silicon
-  - photography
+  - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: 08d43b44b4f4fe6aa0b7b826084f00c4
+  last_post_guid: fad05c8e8134da6d5fdbdf16b62b4e8e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

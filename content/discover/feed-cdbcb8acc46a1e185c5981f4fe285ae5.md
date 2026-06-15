@@ -17,20 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 一道医疗背景的笔试题
-  last_post_description: |-
-    1 探索性数据分析
-
-    1.1 等待时间的分布
-    1.2 等待时间与门诊次的关系
-    1.3 等待时间与住院次的关系
-    1.4 等待时间随性别的分布
-    1.5
-  last_post_date: "2026-05-02T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2026/05/hospital/
+  last_post_title: 《白痴》
+  last_post_description: !!binary |
+    5LuK5bm077yM57un5byA5bm06K+75a6M44CK5Y2h5ouJ6ams5L2Q5aSr5YWE5byf44CL5L
+    mL5ZCO77yM5oiR5Lmw5LqG6ZmA5oCd5aal6IC25aSr5pav5Y+m5LiA6YOo6ZW/56+H5bCP
+    6K+044CK55m955e044CL77yM5oiR5oSf6KeJ5oiR5piv55yf55qE5Zac5qyi6ZmA57+B55
+    qE5bCP6K+077yM5bey6L+e552A6K+75LqG5Zub6YOo6ZW/56+H5LqG77w=
+  last_post_date: "2026-06-07T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/06/idiot/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db1d9aa7f353f2f23f68e720acbd6f8e
+  last_post_guid: 7c988ebf385149fd82be56db4286df9b
   score_criteria:
     cats: 0
     description: 3

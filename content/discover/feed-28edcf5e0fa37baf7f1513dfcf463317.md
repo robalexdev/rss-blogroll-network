@@ -22,20 +22,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Python
   - 开发
+  - 项目
   relme: {}
-  last_post_title: 小东西：用FreshRSS实现带AI摘要的订阅推送
+  last_post_title: 「进行中」XDSec SSO开发小记
   last_post_description: |-
-    用FreshRSS + Python + Napcat实现带AI摘要的订阅QQ群推送
-    小东西：用FreshRSS实现带AI摘要的订阅推送最先出现在林林杂语。
-  last_post_date: "2026-05-10T04:38:40Z"
-  last_post_link: https://www.xiaozonglin.cn/xdsec-push-bot/
+    因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […]
+    「进行中」XDSec
+  last_post_date: "2026-05-17T03:22:57Z"
+  last_post_link: https://www.xiaozonglin.cn/xdsec-sso-dev-notes/
   last_post_categories:
-  - Python
   - 开发
+  - 项目
   last_post_language: ""
-  last_post_guid: 2a244d45da71cc433e1529639a1aaa1e
+  last_post_guid: 75cfddba7dde3edd7dac382774b716d8
   score_criteria:
     cats: 0
     description: 3

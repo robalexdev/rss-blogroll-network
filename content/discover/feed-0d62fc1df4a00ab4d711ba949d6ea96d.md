@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-05-11T01:28:33Z"
+date: "2026-06-08T01:37:45Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,32 +15,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 国际关系
+  - 医疗卫生
   - 小说
   - 读书
   - 读书笔记
   - 阅读
   relme: {}
-  last_post_title: 2026年三月 读国际关系 活着 2本
+  last_post_title: 2026年四月 读医疗卫生 小说 3本
   last_post_description: |-
     引子
 
 
     引子
 
-    三月份，读书真的慢下来了，只翻开四本，读完两本。
-
-    《争论中的国际关系理论》是国际关系学科的经典教材，对截止2000的国际关系学的
-  last_post_date: "2026-04-01T22:17:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/04/01/reading_summary/
+    公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的
+  last_post_date: "2026-05-18T20:01:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/05/18/reading_summary/
   last_post_categories:
-  - 国际关系
+  - 医疗卫生
   - 小说
   - 读书
   - 读书笔记
   - 阅读
   last_post_language: ""
-  last_post_guid: bd042ead722fe4363b69606ddc53e94d
+  last_post_guid: 86620422f2cb05747b9bf62494b51127
   score_criteria:
     cats: 0
     description: 0

@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 让 AI 戴着镣铐跳舞
+  last_post_title: 高考随想
   last_post_description: ""
-  last_post_date: "2025-12-27T00:00:00Z"
-  last_post_link: https://lutaonan.com/blog/ai-coding-principle
+  last_post_date: "2026-06-10T00:00:00Z"
+  last_post_link: https://lutaonan.com/blog/undefined
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e5052cb2c0adaaf5ae225dc677a86193
+  last_post_guid: 19fbb91eb280c84ecb18e01fc3dada61
   score_criteria:
     cats: 0
     description: 3

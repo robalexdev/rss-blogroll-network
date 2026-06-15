@@ -10,7 +10,7 @@ params:
     https://barryfrost.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,15 +24,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 245 - Lights
-  last_post_description: For L's birthday in February I bought her outdoor string
-    lights for the garden. This weekend her festoon poles arrived so we could experiment
-    with hanging them along one hedge. She now wants more for
-  last_post_date: "2026-05-04T17:17:46Z"
-  last_post_link: https://barryfrost.com/2026/05/week-245-lights
+  last_post_title: Week 250 - Coffee
+  last_post_description: It's been a less hectic week after our Disneyland holiday.
+    The boys had an INSET day on Friday, so L drove them to her parents' for the weekend,
+    while I stayed behind to work (and enjoy the peace and
+  last_post_date: "2026-06-07T11:19:17Z"
+  last_post_link: https://barryfrost.com/2026/06/week-250-coffee
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b78a4dec9361bcf040b105dcc106e69b
+  last_post_guid: 5ef62cd2e7fb2cf1ba4dfa0f4177b491
   score_criteria:
     cats: 0
     description: 3

@@ -12,7 +12,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,7 +23,7 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.8.16.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -32,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stamp It! All Programs Must Report Their Version
+  last_post_title: How my minimal, memory-safe Go rsync steers clear of vulnerabilities
   last_post_description: ""
-  last_post_date: "2026-04-05T16:20:00+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/
+  last_post_date: "2026-05-24T16:20:22+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb8e10b169f68b9c73217b7e87318167
+  last_post_guid: 4a58f44d2a75dcccaf667b4b3e39967d
   score_criteria:
     cats: 0
     description: 0

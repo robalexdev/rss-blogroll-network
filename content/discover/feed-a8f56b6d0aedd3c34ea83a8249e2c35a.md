@@ -1,6 +1,6 @@
 ---
 title: itsamadmadblog
-date: "2026-04-01T18:41:39-07:00"
+date: "2026-05-23T14:28:33-07:00"
 description: ""
 params:
   feedlink: https://itsamadmadblog2.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://itsamadmadblog2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

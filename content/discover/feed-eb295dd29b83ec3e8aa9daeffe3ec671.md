@@ -10,7 +10,7 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,16 +18,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#685 Taking the stairs beside somebody taking the escalator'
-  last_post_description: Coming out of the subway, heading to the airport gates, or
-    moseying back to the office after lunch, you occasionally walk with a friend and
-    hit this classic fork in the road. On the right is a smooth
-  last_post_date: "2026-05-08T04:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/05/08/685-taking-the-stairs-beside-somebody-taking-the-escalator-4/
+  last_post_title: '#661 When you drive from a rough road onto a smooth one'
+  last_post_description: Cruising onto a fresh black road when you’ve been scraping
+    on top of a rough one is a mighty fine feeling. Yes, when you get off that chopped-up
+    construction meat or swerve out of Pothole Alley
+  last_post_date: "2026-06-11T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/06/11/661-when-you-drive-from-a-rough-road-onto-a-smooth-one-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: 999d55aee959da4fb3ce9556cf577ffc
+  last_post_guid: 2e68fb27b8f1ff79ff0ec67c6ef3bf51
   score_criteria:
     cats: 0
     description: 3

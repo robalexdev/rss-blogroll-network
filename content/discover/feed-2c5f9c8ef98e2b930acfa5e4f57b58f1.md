@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -27,7 +27,7 @@ params:
     id: f897b7ddc89263f7c8905cadafc81159
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.8.16.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -41,15 +41,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: HomePod mini feels like magic, but it's just good timing
+  last_post_title: I tested every IP KVM in my Homelab
   last_post_description: |-
-    Apple introduced the HomePod mini six years ago, in 2020.
-    I'm not one into smart speakers, but the feature that made me take a closer look was their ability to form stereo pairs, without any direct
-  last_post_date: "2026-05-08T09:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/
+    Since the PiKVM came out in 2017, there's been an explosion of IP KVMs. I've tested almost every one. But what are they good for?
+    You can use Remote Desktop, Screen Sharing, or VNC to remote control
+  last_post_date: "2026-06-05T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b461347c59dda72dc31704bb2c6a6659
+  last_post_guid: dab41c5a33e26af619da0ef5e0aca122
   score_criteria:
     cats: 0
     description: 3

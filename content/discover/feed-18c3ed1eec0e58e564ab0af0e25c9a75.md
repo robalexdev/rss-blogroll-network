@@ -1,6 +1,6 @@
 ---
 title: Jeffrey Paul
-date: "2026-02-28T16:22:15Z"
+date: "2026-06-01T19:12:03Z"
 description: The personal website of Jeffrey Paul.
 params:
   feedlink: https://sneak.berlin/feed.xml
@@ -10,7 +10,7 @@ params:
     https://sneak.berlin/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,7 +31,7 @@ params:
   last_post_description: I’ve been in Bangkok the last two weeks, and three times
     in the last six months. The city is incredible. It’s well over 10 million people,
     approaching that of Istanbul, which is the largest city
-  last_post_date: "2026-02-28T16:21:54Z"
+  last_post_date: "2026-06-01T19:11:34Z"
   last_post_link: https://sneak.berlin/20260227/megalopolis/
   last_post_categories: []
   last_post_language: ""

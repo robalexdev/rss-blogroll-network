@@ -1,6 +1,6 @@
 ---
 title: cyan's blog
-date: "2026-04-11T00:01:05Z"
+date: "2026-06-03T05:46:02Z"
 description: silly kitty blog :3
 params:
   feedlink: https://blog.cyan.pet/feed.xml

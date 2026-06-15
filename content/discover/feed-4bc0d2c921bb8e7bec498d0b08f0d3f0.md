@@ -1,6 +1,6 @@
 ---
 title: El's Blog
-date: "2026-04-12T00:00:00Z"
+date: "2026-05-15T00:00:00Z"
 description: El is blogging about tech and life.
 params:
   feedlink: https://2bab.me/en/rss.xml
@@ -16,14 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Harness Engineering Essentials: Nine Practices for Taming AI Coding
-    Agents'
+  last_post_title: A2UI, AG-UI, and GenUI Beyond the Chat Box
   last_post_description: ""
-  last_post_date: "2026-04-12T00:00:00Z"
-  last_post_link: https://2bab.me/en/blog/2026-04-12-harness-engineering-best-practices/
+  last_post_date: "2026-05-15T00:00:00Z"
+  last_post_link: https://2bab.me/en/blog/2026-05-15-a2ui-agui-surface-spec/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c06af7f0d17064b7631ad967e0138dd
+  last_post_guid: f3a936acd1602f1f694582badcf06701
   score_criteria:
     cats: 0
     description: 3

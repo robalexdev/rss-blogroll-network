@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -37,18 +37,18 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for April 2026
+  last_post_title: Summary of changes for May 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of April.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of May.
 
 
-      Wiki, documented the replacement of Pino's headstay.
-      Rabbit Waves, added a new page about
-  last_post_date: "2026-04-01T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#apr2026
+
+      Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and
+  last_post_date: "2026-05-31T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#may2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8de5c7db065a820bffb69595d98df908
+  last_post_guid: 2454cf47a27f6e85e130187d737081b4
   score_criteria:
     cats: 0
     description: 3

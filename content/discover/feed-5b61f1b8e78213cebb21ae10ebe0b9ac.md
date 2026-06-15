@@ -1,6 +1,6 @@
 ---
 title: Ratfactor Feed
-date: "2026-05-03T00:12:00Z"
+date: "2026-05-17T00:00:00Z"
 description: Dave Gauer's personal website. Mostly technical articles.
 params:
   feedlink: https://ratfactor.com/atom.xml
@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,15 +31,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The First of a Double-Take
+  last_post_title: Project Inbox 2026
   last_post_description: |-
-    A fun little creativity/art tip I've been wanting to write for
-                a while...
-  last_post_date: "2026-05-03T00:00:00Z"
-  last_post_link: http://ratfactor.com/cards/first-of-a-double
+    It's starting! Those sweet, sweet email replies shall
+                begin to make their way starting now...
+  last_post_date: "2026-05-17T00:00:00Z"
+  last_post_link: http://ratfactor.com/inbox2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9fd2d72b8d4c29b48e67d44e9cf481fd
+  last_post_guid: 7fdc32556a8a4129888b325f50dca880
   score_criteria:
     cats: 0
     description: 3

@@ -17,34 +17,28 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - Next
-  - 小程序
-  - 项目
+  categories: []
   relme: {}
-  last_post_title: 鱼高高 - 一个无广告的微信小程序二维码生成器
-  last_post_description: YuGaoGao是一款开源免费无广告的微信小程序跳转二维码生成工具，源于Heo因群内扫码跳转需求发现现有工具（如C1N）有广告而开发。它支持自定义样式（
-  last_post_date: "2026-01-21T07:27:39Z"
-  last_post_link: https://blog.anheyu.com/posts/MrnO
-  last_post_categories:
-  - Next
-  - 小程序
-  - 项目
+  last_post_title: 鱼鱼API 激活与使用指导
+  last_post_description: ""
+  last_post_date: "2026-06-07T02:50:00Z"
+  last_post_link: https://blog.anheyu.com/posts/gJHa
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: b051f608d3a13e11f8c686a465bbfb96
+  last_post_guid: c9e7095a0693c5f8dfdc972fd5122a2d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

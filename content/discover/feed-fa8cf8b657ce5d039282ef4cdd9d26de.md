@@ -24,34 +24,32 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - AI
-  - Code Agent
-  - 周刊
+  categories: []
   relme: {}
-  last_post_title: '好奇心周刊第25期: 如何让AI写好代码'
-  last_post_description: 苏格拉底式编程 + Claude/Gemini/Codex 的专家级协同，100% AI 编程的个人项目经验总结
-  last_post_date: "2026-02-26T00:00:00Z"
-  last_post_link: https://hutusi.com/weeklies/25
-  last_post_categories:
-  - AI
-  - Code Agent
-  - 周刊
+  last_post_title: 当心流量别被 Agent 都吃了
+  last_post_description: !!binary |
+    5aSn57qm5LuO5Y675bm05bqV5byA5aeL77yM5oiR5oC76IO95pS25Yiw6Zi/6YeM5LqR5Z
+    KM5LiD54mb5LqR55qE6YCa55+l77yM5ZGK55+l5oiR5rWB6YeP5LiN6Laz77yM5bu66K6u
+    5oiR5Lmw5rWB6YeP5YyF44CC6LW35Yid5oiR5rKh5aSq5rOo5oSP77yM5Lmw5LqG5Yeg5Y
+    2B5Z2X6ZKx55qE5rWB6YeP5YyF77yM6IO955So5Yeg5Liq5pyI44CC5Ls=
+  last_post_date: "2026-06-07T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/06/07
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c6ee75d00eee8b20bc9f6021e3e26db
+  last_post_guid: e635fe233ff17ea533a4e6ab29d4d0ab
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 23
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

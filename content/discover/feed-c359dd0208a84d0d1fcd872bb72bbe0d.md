@@ -1,6 +1,6 @@
 ---
 title: Victor Blomqvist's blog
-date: "2026-05-03T00:00:00Z"
+date: "2026-05-19T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.viblo.se/feed.atom
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Packages release more often than ever. Or do they?
+  last_post_title: Scheduled GitHub Actions are now useless
   last_post_description: ""
-  last_post_date: "2026-05-03T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/oss-releases-ai/
+  last_post_date: "2026-05-19T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/scheduled-gh-actions/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e6de5c43447dee7cc60be3ecb183728e
+  last_post_guid: e812343ef108f16d4b9484f1ebab9a93
   score_criteria:
     cats: 0
     description: 0

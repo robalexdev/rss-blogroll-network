@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-05-10T12:51:22-07:00"
+date: "2026-06-10T17:37:27-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -130,19 +130,20 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: 'The Rutles: All You Need is Cash'
+  last_post_title: Musical May Quick Picks and Pans
   last_post_description: ""
-  last_post_date: "2026-05-08T20:41:06-07:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/05/the-rutles-all-you-need-is-cash.html
+  last_post_date: "2026-06-02T14:25:54-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/05/musical-may-quick-picks-and-pans.html
   last_post_categories:
   - Comedy
-  - Mockumentaries
+  - Drama
+  - Fantasy
   - Movies
   - Music and Musicals
-  - Reviews
-  - Television
+  - Romance
+  - Satire
   last_post_language: ""
-  last_post_guid: 05a252f9f752f40a4cbce1a6274cb8dd
+  last_post_guid: 32c33ce5961bd6118ebaf7a85596694f
   score_criteria:
     cats: 5
     description: 3

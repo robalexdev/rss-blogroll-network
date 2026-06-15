@@ -22,33 +22,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Docker
-  - Linux
+  - 杂谈
   relme:
     https://www.iots.vip/: true
-  last_post_title: Docker 代理配置机制与作用域
-  last_post_description: Docker 中的代理配置存在多个作用层级, 不同配置方式影响的范围完全不同。本文基于官方文档，对各层代理机制梳理说明,
-    以便区分。
-  last_post_date: "2026-02-08T02:55:55Z"
-  last_post_link: https://www.iots.vip/post/docker-proxy-mechanism
+  last_post_title: 验光配镜扫盲
+  last_post_description: !!binary |
+    55y86ZWc5piv5b+D54G155qE56qX5oi377yM5LiN5ben77yM5oiR55qE56qX5oi35LiN5p
+    iv5b6I5qCH5YeG77yM5LuO5bCP5Yiw5aSn77yM5oi06L+H5b6I5aSa5Ymv55y86ZWc77yM
+    5LuO5LiJ55Sy5Yiw54ix5p+Q55y856eR44CB5a6d5p+Q44CB5Y2a5p+Q77yM5ZGx5ZGx5Z
+    Gx5LiA6aG/5pON5L2c5LiL5p2l6Ieq5bex5ZWl5Lmf5LiN5oeC5piv5Ls=
+  last_post_date: "2026-04-04T16:00:00Z"
+  last_post_link: https://www.iots.vip/post/choose-glasses
   last_post_categories:
-  - Docker
-  - Linux
+  - 杂谈
   last_post_language: ""
-  last_post_guid: cc796887069abc2831bfbb6a4ee21471
+  last_post_guid: 1dcfd8ec0948ca9b5ea650d181c28e0b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

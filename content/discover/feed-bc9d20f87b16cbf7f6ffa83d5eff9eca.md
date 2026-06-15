@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-05-04T15:18:58Z"
+date: "2026-06-07T20:06:37Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -10,7 +10,7 @@ params:
     https://lopespm.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -32,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Lateral thinking using existing technologies
+  last_post_title: Using AI to Revive Old Projects [Part 1]
   last_post_description: ""
-  last_post_date: "2026-05-01T00:00:00Z"
-  last_post_link: https://lopespm.com/notes/2026/05/01/lateral-thinking.html
+  last_post_date: "2026-06-07T00:00:00Z"
+  last_post_link: https://lopespm.com/notes/2026/06/07/ai_revive_old_projects_part_one.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d1cbcc3980cae91d88580fe22abb6eef
+  last_post_guid: 1fa76c6aebe88826a208ddb5720f0dca
   score_criteria:
     cats: 0
     description: 0

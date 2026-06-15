@@ -1,6 +1,6 @@
 ---
 title: ParaVocê Dev Blog
-date: "2026-05-10T22:49:09Z"
+date: "2026-06-11T12:53:48Z"
 description: |-
   Hi, I'm Evan. I built Thankful to automate customer service for millions of people, which Gladly acquired in 2023.
 

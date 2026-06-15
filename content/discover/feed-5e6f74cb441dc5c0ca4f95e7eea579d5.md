@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-05-10T16:07:43Z"
+date: "2026-06-09T20:48:16Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,7 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -764,6 +764,7 @@ params:
   - Pepys Road
   - Percy Bradshaw
   - Peter Flack
+  - Peter J Carroll
   - Peter Kennard
   - Peter Linebaugh
   - Peter Perrett
@@ -905,6 +906,7 @@ params:
   - Spare Rib
   - Speakers Corner Quartet
   - Specials
+  - Speedwell House
   - Spike Milligan
   - Spiritualized
   - Split Enz
@@ -1124,6 +1126,7 @@ params:
   - casuals
   - cats
   - cemeteries
+  - chaos magic
   - charity shops
   - children
   - children's literature
@@ -1250,6 +1253,7 @@ params:
   - novels
   - nuclear weapons
   - nurses strike
+  - occultism
   - occupations
   - pacifsts
   - paganism
@@ -1392,18 +1396,21 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: Deptford May Day Festival and Jack in the Green 2026
+  last_post_title: Peter J Carroll (RIP) , Speedwell House sorcerer  & co-creator
+    of Chaos Magic in 1970s Deptford
   last_post_description: ""
-  last_post_date: "2026-04-30T06:33:33Z"
-  last_post_link: https://transpont.blogspot.com/2026/04/deptford-may-day-festival-and-jack-in.html
+  last_post_date: "2026-05-15T13:58:19Z"
+  last_post_link: https://transpont.blogspot.com/2026/05/peter-j-carroll-rip-speedwell-house.html
   last_post_categories:
+  - 1970s
   - Deptford
-  - Fowlers Troop
-  - Jack in the Green
-  - May Day
-  - Woolwich
+  - Peter J Carroll
+  - Speedwell House
+  - chaos magic
+  - occultism
+  - squatting
   last_post_language: ""
-  last_post_guid: 5cb84686e1504e1e75b6544e0cb83ba9
+  last_post_guid: 88e4949e80a0197a1f4e137f7d371835
   score_criteria:
     cats: 5
     description: 3

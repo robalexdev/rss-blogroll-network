@@ -17,6 +17,7 @@ feed_urls:
   - https://personalsit.es/feed/opml.opml
   - https://ooh.directory/feeds/cats/n7yp7q/opml/personal.xml
   - https://ooh.directory/feeds/cats/b7q2w7/opml/technology.xml
+  - https://feedland.org/opmlhotlist
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml
@@ -259,7 +260,7 @@ feed_urls:
 
 
 non_opml_blogroll_urls:
-  - url: https://lwindolf.github.io/rss-feed-index/data/blogroll.json
+  - url: https://lzone.de/rss-feed-index/data/blogroll.json
     handler: jq
     settings: ".blogrolls | keys | .[]"
 

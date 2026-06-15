@@ -16,36 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI SKills
+  - Affiliate经验
   - Ai联盟营销
-  - ChatGPT
   - Media Buy
-  - Niche站赚钱
-  - SEO赚钱
-  - Wealthy Affiliate老牌联盟
-  - 内容营销
-  - 市场调研
-  - 微信聊天记录转PDF
-  - 营销推广
+  - Zeydoo
+  - media buy
+  - 被动收入
+  - 赚美金案例
+  - 赚钱指南
+  - 项目实操案例
   relme: {}
-  last_post_title: 如何优雅地把混乱的聊天记录打包成精美的PDF
-  last_post_description: 从我输入那句话到PDF出来，中间没有任何手动操作，从微信聊天记录一句话生成精美PDF。这就是Skill和提示词的本质区别。提示词是一次性的，你每次都
-  last_post_date: "2026-03-16T01:14:45Z"
-  last_post_link: https://www.fuyuzhe.com/wechat-chat-to-pdf.html
+  last_post_title: 为什么大多数Facebook广告都会死掉？—而这个Campaigns却持续5个月保持盈利
+  last_post_description: Bin，一位来自中国的普通联盟营销从业者，拥有近六年的Affiliate业内经验。在2020年进入联..
+  last_post_date: "2026-05-22T08:17:41Z"
+  last_post_link: https://www.fuyuzhe.com/zeydoo-facebook.html
   last_post_categories:
-  - AI SKills
+  - Affiliate经验
   - Ai联盟营销
-  - ChatGPT
   - Media Buy
-  - Niche站赚钱
-  - SEO赚钱
-  - Wealthy Affiliate老牌联盟
-  - 内容营销
-  - 市场调研
-  - 微信聊天记录转PDF
-  - 营销推广
+  - Zeydoo
+  - media buy
+  - 被动收入
+  - 赚美金案例
+  - 赚钱指南
+  - 项目实操案例
   last_post_language: ""
-  last_post_guid: e2d644a43ee5672972dea068d07ab599
+  last_post_guid: e61c93c5b03809acf72b56485d043995
   score_criteria:
     cats: 0
     description: 3

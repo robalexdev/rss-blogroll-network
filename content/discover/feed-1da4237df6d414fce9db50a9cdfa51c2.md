@@ -18,17 +18,13 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 如果医生知道你看病时带了摄像头，会发生什么？
-  last_post_description: !!binary |
-    6L+Z56+H5paH56ug5Y+N6amz5LqG4oCc5oKj6ICF5b2V5YOP5Lya6K6p5Yy755Sf5Y+Y4o
-    CY5ZGG4oCZ4oCd55qE6K+05rOV44CC5oKj6ICF5b2V6Z+z5aSa5Zug5oCV6K6w5LiN5L2P
-    77yM6ICM6Z2e5om+6Iys77yb5oyJ5oyH5Y2X55yL55eF5LiN5piv4oCc5ZGG5a2Q6KGM5L
-    i64oCd77yM6ICM5piv5Li657y65LmP56S+5Lya5YWz57O755qE5pmu6YA=
-  last_post_date: "2026-05-06T19:14:30Z"
-  last_post_link: https://lawtee.com/article/record-videos-in-hostital/
+  last_post_title: 什么是“穷尽法律程序”？
+  last_post_description: “穷尽法律程序”并非问题解决的宣告，而是程序尽头的无奈收束。从诉讼、信访到依法终结，三层递进揭示穷尽法律程序的概念以及局限性。
+  last_post_date: "2026-06-08T01:43:35Z"
+  last_post_link: https://lawtee.com/article/end-of-legal-proceedings/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fa4856f4404dd48595884f51875bbda
+  last_post_guid: 42c50ad6cc1e645208b220a6dbca8f85
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Nuking My PKM Paralyzed My Productivity for 6 Months
+  last_post_title: The three lines of CSS that saved me 40kb and might do the same
+    for you
   last_post_description: |-
-    A bit of backstoryOk, I gotta come clean. This is a clickbait title. It is misleading if understood literally. But it is actually true if interpreted right. Let me explain.
-    I stopped trying to write
-  last_post_date: "2026-05-10T13:31:44Z"
-  last_post_link: https://savvynormie.com/how-nuking-my-pkm-paralyzed-my-productivity-for-6-months/
+    Custom fonts are a boon for usability and they can give your blog that extra bit
+    of oomf. But fonts can really hurt performance if you're not heavy. A single
+    font can take up 40kb or more.1 That's
+  last_post_date: "2026-06-10T21:11:00Z"
+  last_post_link: https://blog.welcomehome.city/b/three-lines/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ff3e9ffec27fcf4f0b03925df63c0538
+  last_post_guid: db6d92c6010403a37c66c4b505d4518e
   score_criteria:
     cats: 0
     description: 3

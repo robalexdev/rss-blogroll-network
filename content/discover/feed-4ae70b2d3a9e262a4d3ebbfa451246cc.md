@@ -1,6 +1,6 @@
 ---
 title: Thoughts to blogs
-date: "2026-03-02T04:02:54+08:00"
+date: "2026-05-24T15:49:22+08:00"
 description: 53 years thoughts blended with 6 years blog.
 params:
   feedlink: https://chriskong57.blogspot.com/feeds/posts/default

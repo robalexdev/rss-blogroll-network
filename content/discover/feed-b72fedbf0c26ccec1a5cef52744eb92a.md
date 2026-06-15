@@ -10,6 +10,9 @@ params:
     https://yadin.com/notes/: false
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5303 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -22,19 +25,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Guest Notes
-  - Policy
+  - Commentary
+  - Culture
   relme: {}
-  last_post_title: Regulatory Shaming and Climate Obstruction
-  last_post_description: Policymakers need to seriously consider shaming for dealing
-    with climate change. (Guest note by Dr. Sharon Yadin)
-  last_post_date: "2026-05-10T05:28:16Z"
-  last_post_link: https://yadin.com/notes/regulatory-shaming/
+  last_post_title: Beyond Nostalgia
+  last_post_description: The growing popularity of 8-bit computers is a living critique
+    of the world we have created.
+  last_post_date: "2026-05-23T17:34:34Z"
+  last_post_link: https://yadin.com/notes/nostalgia/
   last_post_categories:
-  - Guest Notes
-  - Policy
+  - Commentary
+  - Culture
   last_post_language: ""
-  last_post_guid: 2676e083faf8a02a2e97c38e88f4407c
+  last_post_guid: 0e6ecdaafed68964fe5656d8e886e482
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-05-11T05:51:04Z"
+date: "2026-06-11T11:58:46Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A lot of developers mistakenly think that the code is the product.
-    In reality, for most businesse...
+  last_post_title: '@robinwhittleton Tested it in the emulator Flycast. You absolutely
+    can control the browser with t...'
   last_post_description: ""
-  last_post_date: "2026-05-11T05:51:04Z"
-  last_post_link: https://fedi.vale.rocks/objects/97b95049-99b4-420b-a196-fc98dcdae850
+  last_post_date: "2026-06-11T11:58:46Z"
+  last_post_link: https://fedi.vale.rocks/objects/4988e98c-23ef-4958-af2a-2dde040e53cc
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 444f9945900d0ad535aaef49e29473c7
+  last_post_guid: 95c421ee158bcea840330435bbd19f20
   score_criteria:
     cats: 0
     description: 0

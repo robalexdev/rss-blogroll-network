@@ -20,16 +20,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: A Fertilizer Import Vulnerability Map
-  last_post_description: This widget shows the chokepoints and seasonal vulnerability
-    of different countries to import shocks. Slide across the months to see how imports
-    change across the seasons. Each bubble represents a
-  last_post_date: "2026-03-06T14:51:02Z"
-  last_post_link: https://rajpatel.org/2026/03/06/fertiliser-import-vulnerability-map/
+  last_post_title: Joy’s Great Democrat
+  last_post_description: Here’s an appreciation of Carlo Petrini and his politics
+    from my newsletter. If you’re not signed up, join in here! Carlo Petrini died
+    on the evening of 21 May, at home in Bra, the small
+  last_post_date: "2026-05-29T15:47:15Z"
+  last_post_link: https://rajpatel.org/2026/05/29/joys-great-democrat/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: e19c70493ac8572f634b0285f5157368
+  last_post_guid: 93f98fc8a11c7df6be1a0d1cf48f232d
   score_criteria:
     cats: 0
     description: 3

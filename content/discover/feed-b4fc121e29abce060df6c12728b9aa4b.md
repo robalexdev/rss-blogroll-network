@@ -1,6 +1,6 @@
 ---
 title: Bits, Bobs & Breakpoints — Aaron Holmes
-date: "2026-04-01T20:35:35Z"
+date: "2026-06-01T17:07:44Z"
 description: Bits, Bobs & Breakpoints — Aaron Holmes
 params:
   feedlink: https://aaronholmes.net/rss.xml
@@ -15,20 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Interviewing
-  - Programming
-  - Software
+  - Frontend
+  - JavaScript
+  - QR Code
+  - SVG
+  - Utility
   relme: {}
-  last_post_title: 'Interview Coding Take-Homes: Part 3'
+  last_post_title: Browser-Based URL and vCard QR Code Generator
   last_post_description: ""
-  last_post_date: "2026-01-17T01:50:22Z"
-  last_post_link: https://aaronholmes.net/2025/interview_coding_take_homes_part_3.html
+  last_post_date: "2026-06-01T17:06:58Z"
+  last_post_link: https://aaronholmes.net/2026/browser_based_vcard_qr_code_generator.html
   last_post_categories:
-  - Interviewing
-  - Programming
-  - Software
+  - Frontend
+  - JavaScript
+  - QR Code
+  - SVG
+  - Utility
   last_post_language: ""
-  last_post_guid: 89396f4a4f6397ce49be4dde0af62ca2
+  last_post_guid: 56996286862b00013bd5a54e5234d463
   score_criteria:
     cats: 0
     description: 3

@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What’s up Python? Frame pointers, sentinel values, venv discovery,
-    more rust in Python...
-  last_post_description: April, 2026
-  last_post_date: "2026-04-28T10:20:53Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-frame-pointers-sentinel
+  last_post_title: What’s up Python? Pip supports locking, .pth files deprecated
+  last_post_description: May 2026
+  last_post_date: "2026-06-08T11:42:14Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-pip-supports-locking
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 428bedc6c725a74b557e05560ec4669e
+  last_post_guid: c9c62c774c5b3d6d7112a3b4e7bb0f53
   score_criteria:
     cats: 0
     description: 3

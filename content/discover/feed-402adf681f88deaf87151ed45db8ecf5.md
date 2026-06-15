@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2026-05-10T08:00:00Z"
+date: "2026-06-07T08:00:00Z"
 description: 欢迎来到莫尔索随笔，这里是我的数字实验室，也是一个关于成长与好奇心的长期主义计划。
 params:
   feedlink: https://liduos.com/atom.xml
@@ -21,18 +21,14 @@ params:
   categories:
   - AI 周刊
   relme: {}
-  last_post_title: Vol.102 语音AI迈向核心交互界面，模型与工程实践深度解析
-  last_post_description: !!binary |
-    5pys5pyf5YaF5a656IGa54Sm6K+t6Z+zQUnmiJDkuLrkurrnsbvkuI7mnLrlmajkuqTkup
-    LnmoTov5vljJbmlrnlkJHvvIzmtrXnm5ZPcGVuQUnlrp7ml7bpn7PpopHmqKHlnovjgIFB
-    bnRocm9waWPoh6rnhLbor63oqIDoh6rnvJbnoIHlmajjgIFBSee8lueggeS4juW3peeoi+
-    Wunui3teOAgeaZuuiDveS9k+WvuUdpdEh1Yui0n+i9veW9seWTjeetieU=
-  last_post_date: "2026-05-10T08:00:00Z"
-  last_post_link: https://liduos.com/weekly/the-weekly-gradient-102
+  last_post_title: Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革
+  last_post_description: 本期内容聚焦Agent技术从讨论到产品落地，涵盖Kimi Work、扣子3.0、Claude
+  last_post_date: "2026-06-07T08:00:00Z"
+  last_post_link: https://liduos.com/weekly/the-weekly-gradient-106
   last_post_categories:
   - AI 周刊
   last_post_language: ""
-  last_post_guid: 4b95916fc93d95ae2755748581081270
+  last_post_guid: 9fc0d6ffd2c3bde012a96f8f2bc221b4
   score_criteria:
     cats: 0
     description: 3

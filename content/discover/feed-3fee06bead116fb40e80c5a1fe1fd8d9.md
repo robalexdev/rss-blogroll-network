@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 25年年报出来了
-  last_post_description: 长电挺好的，分红终于到了一元，扣除中期的0.21，还能领0.79，比预期的0.77多了两分。
-  last_post_date: "2026-04-29T13:52:51Z"
-  last_post_link: https://retire50blog.wang/invest/25%e5%b9%b4%e5%b9%b4%e6%8a%a5%e5%87%ba%e6%9d%a5%e4%ba%86.html
+  last_post_title: 全都违法
+  last_post_description: 最近监管又升级了，富途、老虎、长桥这三家头部港美股券商，被点名处罚。 这里是官方资料：
+  last_post_date: "2026-05-27T05:19:05Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%85%a8%e9%83%bd%e8%bf%9d%e6%b3%95.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 23c15135dc94d7534c1e763c97a5fdc9
+  last_post_guid: 8ca22d31d3fef3db3992ad1eaf16b495
   score_criteria:
     cats: 0
     description: 0

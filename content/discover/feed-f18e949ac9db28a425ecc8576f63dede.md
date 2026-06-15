@@ -1,6 +1,6 @@
 ---
 title: Laura's Miscellaneous Musings
-date: "2026-05-10T20:48:31-07:00"
+date: "2026-06-11T09:44:36-07:00"
 description: ""
 params:
   feedlink: https://laurasmiscmusings.blogspot.com/atom.xml
@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Around the Blogosphere This Week...
+  last_post_title: 'Tonight''s Movie: Three Smart Girls (1936) - A Universal Blu-ray
+    Review'
   last_post_description: ""
-  last_post_date: "2026-05-10T14:24:04-07:00"
-  last_post_link: https://laurasmiscmusings.blogspot.com/2026/05/around-blogosphere-this-week_01901508455.html
+  last_post_date: "2026-06-08T13:26:21-07:00"
+  last_post_link: https://laurasmiscmusings.blogspot.com/2026/05/tonights-movie-three-smart-girls-1936.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6b3dce8b6cb0e8edb4c8ebfb8002d237
+  last_post_guid: a898923fd0a624da12e5b01a12a65623
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-05-09T04:53:40-07:00"
+date: "2026-06-08T23:41:10-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,13 +40,14 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: LOONG'S TALES, edited by Lynn Sunn
+  last_post_title: 'Coming Soon: Basil, Pepper, Salt, and Garlic Greens: A Year in
+    a Witch''s Kitchen'
   last_post_description: ""
-  last_post_date: "2026-05-08T11:58:02-07:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/05/loongs-tales-edited-by-lynn-sunn.html
+  last_post_date: "2026-05-26T07:21:50-07:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/05/coming-soon-basil-pepper-salt-and.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 64e177fade3f3b6dabd06eedc93918c8
+  last_post_guid: a533bbd4a6ceef785f6eddfbeea413c9
   score_criteria:
     cats: 5
     description: 0

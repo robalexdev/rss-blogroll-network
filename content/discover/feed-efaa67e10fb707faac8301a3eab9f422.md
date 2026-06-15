@@ -26,19 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 介绍一下我做的 AI 中转站 4AICode
+  last_post_title: Rectangle Pro 使用教程：买了之后才搞懂
   last_post_description: |-
     引言
-    先上地址：
-
-    网站：4aicode.com
-
-    4AICode 是我新做的一个 AI 中转站，主要面向 Vibe Coding 场景，目前支持 ChatGPT AI 模型和 gpt-image-2
-  last_post_date: "2026-05-05T10:00:00+08:00"
-  last_post_link: https://blog.forecho.com/introducing-4aicode-ai-proxy.html
+    之前稀里糊涂买了 Rectangle
+  last_post_date: "2026-06-10T14:27:48+08:00"
+  last_post_link: https://blog.forecho.com/rectangle-pro-usage-guide.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 79d5da549bb9d6807f38eb9eeec76319
+  last_post_guid: 84107fcd1f15a2dd9e15ea42314f8dd5
   score_criteria:
     cats: 0
     description: 3

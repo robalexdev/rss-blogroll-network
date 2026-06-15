@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-05-10T18:06:06-04:00"
+date: "2026-06-11T07:52:44-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -168,18 +168,16 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: On Mother's Day, Vacations, and Work
+  last_post_title: All the Battles Worth Watching, One after Another
   last_post_description: ""
-  last_post_date: "2026-05-10T07:19:48-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/05/on-mothers-day-vacations-and-work.html
+  last_post_date: "2026-06-11T07:52:44-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/06/all-battles-worth-watching-one-after.html
   last_post_categories:
-  - History
-  - Work Life
-  - disease
-  - holidays
-  - travel
+  - movie reviews
+  - politics
+  - social justice
   last_post_language: ""
-  last_post_guid: 6608c101cf9829a0141ad0ef34ea7111
+  last_post_guid: c57c1892b6c6a6156fef2381f998925d
   score_criteria:
     cats: 5
     description: 0

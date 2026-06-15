@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Generative Engine vs Traditional SEO Guide
+  last_post_title: 'SEO Strategy 2026: Rank Higher with AI &amp; AEO'
   last_post_description: |-
-    Is Generative Engine Optimization replacing SEO in 2026?
-    Not exactly. What appears to be happening is a shift in how visibility is earned. Traditional SEO still helps pages get indexed, ranked, and
-  last_post_date: "2026-05-10T04:07:29Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/generative-engine-vs-traditional-seo-guide
+    Will traditional SEO still work to get you to the top of Google in 2026? Not really. The way we search has changed.
+    There are more than just blue links now. You now have to compete with AI answers,
+  last_post_date: "2026-06-08T10:54:23Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/seo-strategy-2026-rank-higher-with-ai-aeo
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 251a10acbb4f1f4cba4d85cf833677fc
+  last_post_guid: 3874fb518d54e14dafb81e340507f82d
   score_criteria:
     cats: 0
     description: 3

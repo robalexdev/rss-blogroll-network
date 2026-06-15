@@ -15,14 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 移动数码
+  - 硬件快讯
   relme: {}
-  last_post_title: 苹果发布AirPods Max 2：加入多项智能功能，H2带来更好音质和主动降噪效果
-  last_post_description: 苹果宣布，推出AirPods Max 2，为标志性包耳式设计带来更强的主动降噪（ANC）、更出色的音质和多项智能功能。在H2芯片驱动下，新款AirPods
-  last_post_date: "2026-03-16T23:55:00Z"
-  last_post_link: http://www.expreview.com/104721.html
+  last_post_title: AOC AGP277QKP显示器开卖：2K@425Hz，支持圆偏光技术，首发价2699元
+  last_post_description: !!binary |
+    5LiK5Liq5pyI77yMQU9D5o6o5Ye65LqGQUdQMjc3UUtQ5pi+56S65Zmo77yM5YW35aSH56
+    Gs5Lu25L2O6JOd5YWJ44CB5peg6Zeq54OB44CB5ZyG5YGP5YWJ5LiJ5aSn5oqA5pyv77yM
+    5qih5ouf6Ieq54S25YWJ77yM5a6e546w5LqG5pu06ZW/5LmF44CB6IiS6YCC55qE6KeC5b
+    2x5L2T6aqM44CC55uu5YmN5paw5Lqn5ZOB5bey55m76ZmG55S15ZWG5bk=
+  last_post_date: "2026-06-11T23:37:00Z"
+  last_post_link: http://www.expreview.com/106423.html
   last_post_categories:
-  - 移动数码
+  - 硬件快讯
   last_post_language: ""
   last_post_guid: 8570c3e04efa0177949be6f856f3a213
   score_criteria:

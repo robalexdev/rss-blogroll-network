@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-05-10T15:07:21-07:00"
+date: "2026-06-07T17:54:13-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -64,6 +64,7 @@ params:
   - ADAM PARFREY
   - ADAMSKI
   - ADORNO
+  - ADVERTISEMENTS FOR THE WEEKLY MUSIC PAPERS
   - AFTER-ROCK
   - AGAINST HEALTH AND EFFICIENCY
   - AGE OF CHANCE
@@ -163,6 +164,7 @@ params:
   - CAPTAIN BEEFHEART
   - CARMEL
   - CAROL CLERK
+  - CAROLINE COON
   - CARTOONS
   - CASTLE DONINGTON
   - CHAKA KHAN
@@ -218,6 +220,7 @@ params:
   - DANCE MUSIC
   - DANCEHALL
   - DANDYISM
+  - DANNY BAKER
   - DARE
   - DARK AGE OF ROCKISM
   - DARKCORE
@@ -231,6 +234,7 @@ params:
   - DEACON BLUE
   - DEATH OF ROCK
   - DEATH ROCK
+  - DECADENCE
   - DECENCY
   - DECIDEDLY DECIDED VIEWPOINTS
   - DEEJAYS REVIEW THE SINGLES
@@ -441,6 +445,7 @@ params:
   - KATE BUSH
   - KEVIN PEARCE
   - KID CREOLE AND THE COCONUTS
+  - KIDS ON THE STREETS
   - KILLDOZER
   - KING CRIMSON
   - KING OF THE SLUMS
@@ -531,6 +536,7 @@ params:
   - MURDEROUS ELEGANCE
   - MUSIC JOURNALISM
   - MUSIC PAPERS
+  - MUSIC PRESS ADVERTISEMENTS
   - MUSIC TV
   - MUSICIANS AS CRITICS
   - MUSICIANS DO THE SINGLES
@@ -607,6 +613,7 @@ params:
   - PAUL RAMBALI
   - PAUL WELLER
   - PAUL YOUNG
+  - PAULMORLEY
   - PEBBLES
   - PERE UBU
   - PERFUME
@@ -1013,18 +1020,27 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Andy does the singles!
+  last_post_title: rock writers on the teevee
   last_post_description: ""
-  last_post_date: "2026-05-08T15:52:35-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/05/andy-does-singles.html
+  last_post_date: "2026-05-30T11:12:53-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/05/rock-writers-on-teevee.html
   last_post_categories:
-  - "1984"
-  - "1985"
-  - ANDY KERSHAW
-  - DEEJAYS REVIEW THE SINGLES
-  - SMASH HITS
+  - CAROLINE COON
+  - CHARLES SHAAR MURRAY
+  - DANNY BAKER
+  - GARRY BUSHELL
+  - GREG TATE
+  - GREIL MARCUS
+  - KODWO ESHUN
+  - LESTER BANGS
+  - MICK FARREN
+  - NICK KENT
+  - PAULMORLEY
+  - RICHARD WILLIAMS
+  - THE STUD BROTHERS
+  - TONY PARSONS
   last_post_language: ""
-  last_post_guid: 2638719e52ee5f4e4194d3e6fbc3abac
+  last_post_guid: 515c6fc02892e795730a6cedb634c64f
   score_criteria:
     cats: 5
     description: 3

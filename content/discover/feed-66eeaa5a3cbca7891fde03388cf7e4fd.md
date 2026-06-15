@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-05-05T20:23:30+08:00"
+date: "2026-06-09T15:44:18+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -34,6 +34,7 @@ params:
   - https://blog.gxres.net/atom.xml
   - https://blog.hslzz.cn/atom.xml
   - https://blog.kingfish404.cn/index.xml
+  - https://blog.verdant.ee/atom.xml
   - https://blog.vull.top/atom.xml
   - https://chise.hachiroku.com/zh/feed/
   - https://emohe.cn/rss.xml
@@ -41,12 +42,15 @@ params:
   - https://mozz.ie/index.xml
   - https://note.redcha.cn/rss.xml
   - https://pinpe.top/rss.xml
+  - https://ravelloh.com/feed.xml
   - https://sinofine.me/atom.xml
   - https://ttio.cc/feed.xml
   - https://www.glowisle.me/atom.xml
   - https://www.hansjack.com/feed/
+  - https://www.imcry.vip/index.xml
   - https://www.wikimoe.com/rss
   - https://www.yunyoujun.cn/atom.xml
+  - https://xingwangzhe.fun/rss.xml
   - https://blog.fkun.tech/feed/atom/
   - https://blog.hslzz.cn/rss2.xml
   - https://blog.vull.top/rss.xml
@@ -60,21 +64,21 @@ params:
   - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - WireGuard
-  - 异地组网
-  - 虚拟网络
+  - RPG制作大师
+  - dedupe
+  - 游戏
   relme:
     https://mabbs.github.io/: true
-  last_post_title: 虚拟局域网的组网探索记录
-  last_post_description: 异地组网，有多少种选择？
-  last_post_date: "2026-05-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/05/01/virtual-net.html
+  last_post_title: 如何节约游戏占用的硬盘空间？
+  last_post_description: 浪费硬盘空间是可耻的！
+  last_post_date: "2026-06-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/06/01/dedupe.html
   last_post_categories:
-  - WireGuard
-  - 异地组网
-  - 虚拟网络
+  - RPG制作大师
+  - dedupe
+  - 游戏
   last_post_language: ""
-  last_post_guid: 127a1249cb71c861d17852e4406780e2
+  last_post_guid: fb290be3a4b21301b58afe117f938bee
   score_criteria:
     cats: 0
     description: 3

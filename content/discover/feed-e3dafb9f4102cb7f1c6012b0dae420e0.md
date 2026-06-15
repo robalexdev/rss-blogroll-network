@@ -1,6 +1,6 @@
 ---
 title: The Glyos News Dump
-date: "2026-04-30T15:49:47-07:00"
+date: "2026-05-12T03:36:39-07:00"
 description: "Unofficial action figure news from everybody's unofficial favorite indie
   toy lines!   Got a new release, custom part, or toy drop coming up?  Let us know!
   \nadam [at] 16bit [dot] com"

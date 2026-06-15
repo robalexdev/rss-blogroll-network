@@ -16,33 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AIGC
-  - Anthropic 1.2万亿估值
-  - Anthropic tokenized stock
-  - Anthropic上市前股票怎么买
-  - Anthropic估值争议
-  - PreStocks
-  - SPV代币化股票风险
-  - 代币化Pre-IPO交易
-  - 链上Pre-IPO隐含估值
+  - 1260H名单解读
+  - BIS实体清单OFAC SDN区别
+  - DoD 1260H
+  - 中国故事
+  - 中国涉军企业名单
+  - 比亚迪宁德时代上榜影响
+  - 美国制裁中国企业
+  - 美国国防部
+  - 美国国防部1260H清单
   relme: {}
-  last_post_title: Anthropic Pre-IPO 估值 1.2 万亿美金，超过 OpenAI 成为估值最高的 AI 企业，三层误解，一个风险
-  last_post_description: 本文拆解Anthropic 1.2万亿估值的来源，帮你看懂链上Pre-IPO与真实融资估值的差别。围绕tokenized
-    Pre-IPO风险、SPV代币化敞口、OpenAI估值对比和Claude
-  last_post_date: "2026-05-11T01:12:19Z"
-  last_post_link: https://lukefan.com/2026/05/11/anthropic-tokenized-pre-ipo-valuation-misleading/
+  last_post_title: 美国国防部 1260H 清单，仅仅是一种羞辱吗？
+  last_post_description: 本文解析美国国防部1260H清单为何把188家中国企业推入合规风暴，并说明它与BIS实体清单、OFAC
+  last_post_date: "2026-06-11T01:04:23Z"
+  last_post_link: https://lukefan.com/2026/06/11/pentagon-1260h-china-military-company-list-supply-chain-risks/
   last_post_categories:
-  - AIGC
-  - Anthropic 1.2万亿估值
-  - Anthropic tokenized stock
-  - Anthropic上市前股票怎么买
-  - Anthropic估值争议
-  - PreStocks
-  - SPV代币化股票风险
-  - 代币化Pre-IPO交易
-  - 链上Pre-IPO隐含估值
+  - 1260H名单解读
+  - BIS实体清单OFAC SDN区别
+  - DoD 1260H
+  - 中国故事
+  - 中国涉军企业名单
+  - 比亚迪宁德时代上榜影响
+  - 美国制裁中国企业
+  - 美国国防部
+  - 美国国防部1260H清单
   last_post_language: ""
-  last_post_guid: 8c5fa87ca33f7f6d7ba716c4b25c8aa0
+  last_post_guid: 4dcd4c4b903a6393aa4e2a7789c22597
   score_criteria:
     cats: 0
     description: 3

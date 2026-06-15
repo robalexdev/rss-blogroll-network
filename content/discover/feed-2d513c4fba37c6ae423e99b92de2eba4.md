@@ -18,16 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·04·01
+  last_post_title: 安妮薇看看 №26·05·25
   last_post_description: |-
-    「摸摸鱼计时器」即日起升级为「冲冲鸭计时器」
-    LV 26 展会上，JJ
-  last_post_date: "2026-04-01T03:03:25Z"
+    Racing Cars 赛车图鉴
+    Codex 重置得太频繁了，用不完根本用不完，所以 JJ
+  last_post_date: "2026-05-25T07:54:50Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 23b2acb0f3d367a7664891c4987b639a
+  last_post_guid: 71847cca7a6460c593f1ebd7d935e436
   score_criteria:
     cats: 0
     description: 3

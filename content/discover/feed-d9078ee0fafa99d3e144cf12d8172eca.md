@@ -12,7 +12,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -30,18 +30,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Guides
+  - Management
   relme: {}
-  last_post_title: The USB Situation
-  last_post_description: I write this from the latest MacBook Pro. I’ve been running
-    this as my primary machine for almost a month. When I’m not grinding out the latest
-    soon-to-be-released I-swear-I-am-on-schedule book
-  last_post_date: "2026-04-29T15:47:39Z"
-  last_post_link: https://randsinrepose.com/archives/the-usb-situation/
+  last_post_title: The Ask
+  last_post_description: Coffee in hand, I sit down in the Cave. Any Tuesday during
+    the work week, a sip, and I parse the calendar. 1:1 — he’s fine. Status meeting
+    — listen. Staff meeting — read the notes from last
+  last_post_date: "2026-05-25T14:05:19Z"
+  last_post_link: https://randsinrepose.com/archives/the-ask/
   last_post_categories:
-  - Guides
+  - Management
   last_post_language: ""
-  last_post_guid: 17426a91c1c34d78e5c5f9022dfd3550
+  last_post_guid: c6027a1b6b5b4495fe69f1e3682703a8
   score_criteria:
     cats: 0
     description: 3

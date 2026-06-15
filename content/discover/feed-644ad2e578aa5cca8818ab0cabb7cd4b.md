@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-05-11T02:21:03+08:00"
+date: "2026-06-11T10:31:02+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -22,20 +22,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 旅游
+  - AI
   relme: {}
-  last_post_title: 北京自驾游
-  last_post_description: !!binary |
-    Rm9yZXdvcmQKCui9puWcqOWMl+S6rO+8jOmhuuS+v+WRqOi+ueiHqumpvui9rOi9rO+8jO
-    eci+eci+WMl+aWueWPkeWxleaIkOS7gOS5iOagt+S6huOAguS7juWMl+S6rOWOu+S6huS/
-    neWumu+8jOaJk+eul+S7juilv+WNl+i+uemAm+i1t++8jOWGjeWbnuWMl+S6rOingeWQjO
-    Wtpu+8jOaOpeedgOW+gOilv+WMl+i+uemAm+S6huS4gOWciO+8jOeEtuU=
-  last_post_date: "2026-05-11T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/05/11/Beijing-Self-driving-Travel/
+  last_post_title: AI自进化
+  last_post_description: |-
+    Foreword
+
+    最近看了一个文章，有点意思，有点想法，记录下来。
+
+    AI自我迭代
+
+
+      https://mp.weixin.qq.com/s/AXyCo0RRwW_HKLpkUx1jUg
+
+
+    这篇文章是 CSDN 编译的 Anthropic
+  last_post_date: "2026-06-11T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/
   last_post_categories:
-  - 旅游
+  - AI
   last_post_language: ""
-  last_post_guid: 95a1d38ea1f76f02d42909a77aab98f1
+  last_post_guid: 30f592195e2486ca085b525f06ecfa25
   score_criteria:
     cats: 0
     description: 3

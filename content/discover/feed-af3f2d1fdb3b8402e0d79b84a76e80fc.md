@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2026-05-11T03:18:32Z"
+date: "2026-06-11T15:27:28Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 在国内如何购买比特币和投资加密货币
-  last_post_description: 在国内如何购买比特币和投资加密货币
-  last_post_date: "2026-04-14T15:15:35Z"
-  last_post_link: https://baiyun.me/buy-bitcoin-in-china
+  last_post_title: 国内注册币安账号并通过 KYC 教程
+  last_post_description: 国内注册币安账号并通过 KYC 教程
+  last_post_date: "2026-05-28T16:25:26Z"
+  last_post_link: https://baiyun.me/how-to-sign-up-binance-account-and-pass-kyc
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a910733e6d190bfeccc8fe7afc170355
+  last_post_guid: 91f1bda8a0d7344f41ec8b25ab53210d
   score_criteria:
     cats: 0
     description: 3

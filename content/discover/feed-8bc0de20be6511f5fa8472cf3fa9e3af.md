@@ -14,24 +14,24 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: the joke / less hope by Danez Smith
-  last_post_description: Two poems from Smith’s latest collection, Bluff.
-  last_post_date: "2026-03-04T17:00:06Z"
-  last_post_link: https://logicmag.io/land/the-joke-less-hope-by-danez-smith
+  last_post_title: 'Logic(s): The Next Chapter'
+  last_post_description: The Logic founding manifesto, 2.0.
+  last_post_date: "2026-05-14T18:55:08Z"
+  last_post_link: https://logicmag.io/pivot/logic-s-the-next-chapter
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: beb84d4edebb1594dae0ba9b4b704a91
+  last_post_guid: b10c1f19e6a8a0de62715a53f4e6c92f
   score_criteria:
     cats: 0
     description: 3

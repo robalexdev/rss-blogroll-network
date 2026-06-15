@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-05-10T19:53:58Z"
+date: "2026-06-11T08:59:37Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -11,7 +11,7 @@ params:
     https://winther.sysctl.dk/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,18 +23,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - nostalgia
-  - personal
+  - blog-carnival
+  - movies
   relme: {}
-  last_post_title: Nostalgia for Calvin and Hobbes
+  last_post_title: A love letter to Isabelle Huppert
   last_post_description: ""
-  last_post_date: "2026-05-05T17:43:43Z"
-  last_post_link: https://winther.sysctl.dk/nostalgia-for-calvin-and-hobbes/
+  last_post_date: "2026-05-31T11:33:22Z"
+  last_post_link: https://winther.sysctl.dk/a-love-letter-to-isabelle-huppert/
   last_post_categories:
-  - nostalgia
-  - personal
+  - blog-carnival
+  - movies
   last_post_language: ""
-  last_post_guid: 31f751eda85c70a9bf4525fa80282024
+  last_post_guid: 60813b06781eafd15a5c33f9897171ea
   score_criteria:
     cats: 0
     description: 3

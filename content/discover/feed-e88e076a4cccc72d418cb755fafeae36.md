@@ -10,7 +10,7 @@ params:
     https://jessitron.com/blog/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,24 +25,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
-  - accountability
-  - connection
+  - Software Development
+  - ai
+  - ai-assisted
+  - coding with AI
+  - domain driven design
+  - newsletter
   - symmathesy
+  - tistil
   relme: {}
-  last_post_title: What is it like to be you?
-  last_post_description: 'This is what I want to know when I get to know someone.
-    What is the experience of being alive in your body, in your world? This is the
-    definition of consciousness: there is something it is like to be'
-  last_post_date: "2026-05-10T12:24:44Z"
-  last_post_link: https://jessitron.com/2026/05/10/what-is-it-like-to-be-you/
+  last_post_title: Verum Factum and the Creator’s Confidence
+  last_post_description: |-
+    Verum Factum: we only really know what we made.
+    Dang, I know that feeling with software! And I miss it, now that AI is doing the coding.
+    But sometimes I still get it...
+  last_post_date: "2026-06-06T14:38:08Z"
+  last_post_link: https://jessitron.com/2026/06/06/verum-factum-and-the-creators-confidence/
   last_post_categories:
-  - Uncategorized
-  - accountability
-  - connection
+  - Software Development
+  - ai
+  - ai-assisted
+  - coding with AI
+  - domain driven design
+  - newsletter
   - symmathesy
+  - tistil
   last_post_language: ""
-  last_post_guid: c9f9dfcdbe15497484b7ce73210d78bb
+  last_post_guid: 7f210fd349b0a02c95e18a7e21c060cc
   score_criteria:
     cats: 0
     description: 3

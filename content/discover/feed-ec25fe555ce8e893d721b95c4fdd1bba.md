@@ -24,16 +24,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: How to Travel Pockets-Only
-  last_post_description: Updated February 2025 Traveling by plane doesn’t inherently
-    require anything other than what’s in your pockets right now. Everything else
-    can be purchased when needed (e.g. umbrella, clothes) or
-  last_post_date: "2025-02-04T16:37:04Z"
-  last_post_link: https://jeremymaluf.com/pockets-only/
+  last_post_title: Personal Data Framework
+  last_post_description: Updated May 2026 As some of you may know, I carry everything
+    I own in my backpack every day. Recently, that backpack was stolen. Replacing
+    my passport took some time, but replacing my laptop did not,
+  last_post_date: "2026-05-23T17:58:01Z"
+  last_post_link: https://jeremymaluf.com/personal-data/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 76978842364444b46158942b0da34210
+  last_post_guid: 9ef658fe38bdef78b568edd67e1eca4a
   score_criteria:
     cats: 0
     description: 0

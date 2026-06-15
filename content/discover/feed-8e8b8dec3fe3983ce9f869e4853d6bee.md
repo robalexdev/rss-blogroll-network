@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-04-24T12:41:19Z"
+date: "2026-06-04T09:19:27Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -22,18 +22,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 区块链
+  - AI
   relme: {}
-  last_post_title: RISC-V 虚拟机无法代替 EVM 虚拟机
-  last_post_description: |-
-    RISC-V 太复杂，非常依赖于虚拟机沙盒环境的标准化，但是现在还没有统一的规范
-    EVM
-  last_post_date: "2026-04-24T12:41:19Z"
-  last_post_link: https://smallyu.net/2026/04/24/RISC-V%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%97%A0%E6%B3%95%E4%BB%A3%E6%9B%BFEVM%E8%99%9A%E6%8B%9F%E6%9C%BA/
+  last_post_title: 被 AI 工具裹挟的程序员
+  last_post_description: 6月1日，GitHub Copilot 换成了根据使用量计费的模式。按照我原本的使用习惯，新的计费模式下，一个月至少得花
+    800
+  last_post_date: "2026-06-04T09:19:27Z"
+  last_post_link: https://smallyu.net/2026/06/04/%E8%A2%ABAI%E5%B7%A5%E5%85%B7%E8%A3%B9%E6%8C%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/
   last_post_categories:
-  - 区块链
+  - AI
   last_post_language: ""
-  last_post_guid: 167f4be8b13b90cf976581852f4cc767
+  last_post_guid: 79e8e995f8adf318a44409d9e24018d3
   score_criteria:
     cats: 0
     description: 3

@@ -1,10 +1,12 @@
 ---
 title: Port 1/PT
-date: "2026-05-11T05:37:16Z"
+date: "2026-06-11T17:52:29Z"
 description: |-
-  2026-05-10 03:12
+  2026-06-02 15:02 update
 
-  ileyener
+  designer - eats
+
+  2026-05-03 10:39
 params:
   feedlink: https://1pt.bearblog.dev/feed/
   feedtype: atom
@@ -20,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '- - -'
+  last_post_title: designer - eats
   last_post_description: ""
-  last_post_date: "2026-05-10T15:42:20Z"
-  last_post_link: https://1pt.bearblog.dev/---/
+  last_post_date: "2026-05-27T14:29:59Z"
+  last_post_link: https://1pt.bearblog.dev/designer-eats/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f64da6538fd4c28c6127a29d5e29e5af
+  last_post_guid: ca06542693cb1e9dad306d1d276deb55
   score_criteria:
     cats: 0
     description: 3

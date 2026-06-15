@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 2fa649a072fb1f8bc9f8dfbc40afdb9f
   websites:
-    https://horse.im/: true
+    https://horse.im/: false
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -41,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 1
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

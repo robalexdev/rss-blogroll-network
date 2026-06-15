@@ -28,15 +28,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: 'png-cmp: like cmp for PNGs'
+  last_post_title: '"Sixteenth of a year", a 1.8 KiB art piece'
   last_post_description: |-
-    png-cmp is a program I built that checks if two PNGs are visually equivalent. It’s inspired by the cmp command. Here’s how you use it:
-    Like cmp, it silently exits if the images are identical, and
-  last_post_date: "2026-05-03T00:00:00Z"
-  last_post_link: https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/
+    As I write this, we’re about 7 sixteenths through 2026, and it’s about 14 sixteenths through the day.
+    For the sixteenth issue of the Taper online magazine, I split time into sixteenths to think
+  last_post_date: "2026-06-03T00:00:00Z"
+  last_post_link: https://evanhahn.com/sixteenth-of-a-year/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0afd288f17113cc58a0793432f72d7f5
+  last_post_guid: 4c4ef0a14cf6f179cd82b9a3cc385d03
   score_criteria:
     cats: 0
     description: 3

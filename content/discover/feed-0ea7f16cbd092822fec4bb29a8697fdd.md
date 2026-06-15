@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2026-05-10T00:00:00Z"
+date: "2026-05-12T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -10,7 +10,7 @@ params:
     https://osa1.net/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Languages should have opinionated interop features
-  last_post_description: A lesson we can derive from Rust’s error handling and async
-    libraries, and Haskell’s effect system libraries, is that languages need to have
-    opinionated (and efficient, flexible) interop features
-  last_post_date: "2026-05-10T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2026-05-10-interop-features.html
+  last_post_title: Macros in Fir
+  last_post_description: |-
+    Fir macros are fully deterministic programs that are distributed separately and that can introspect into the using program’s type-checked AST definitions.
+    Deterministic execution of macros is
+  last_post_date: "2026-05-12T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-05-12-fir-macros.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e1f0606170a57f558665a815d2e76a2c
+  last_post_guid: c04fade9fa0e14476d2979b763f19fa2
   score_criteria:
     cats: 0
     description: 0

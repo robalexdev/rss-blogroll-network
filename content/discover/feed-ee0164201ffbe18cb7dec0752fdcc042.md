@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-05-10T03:31:31-07:00"
+date: "2026-06-11T11:15:40-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -67,6 +67,7 @@ params:
   - AGE OF CHANCE
   - AL GREEN
   - ALAN RANKINE
+  - ALAN VEGA
   - ALICE COOPER
   - ALTERED ZONES
   - ALTERNATIVE ROCK
@@ -98,9 +99,11 @@ params:
   - ARIEL PINK
   - ARIEL PINK'S HAUNTED GRAFFITI
   - ARSEQUAKE
+  - ART
   - ART AND BUSINESS
   - ART OF NOISE
   - ART OF NOISES
+  - ART ROCK
   - ARTCORE
   - ARTFORUM
   - ASSOCIATES
@@ -130,6 +133,7 @@ params:
   - BASS
   - BASTARD POP
   - BAUHAUS
+  - BEATLES
   - BEAVER AND KRAUSE
   - BEAVER TRAPPERS
   - BELBURY POLY
@@ -280,6 +284,7 @@ params:
   - DMX
   - DO IT YOURSELF
   - DON LETTS
+  - DONALD KUSPIT
   - DOOMSCROLLING
   - DRAKE
   - DREAMPOP
@@ -342,6 +347,7 @@ params:
   - FLYBOY IN THE BUTTERMILK
   - FOUL PLAY
   - FOURTH WORLD MUSIC
+  - FRANK KOGAN
   - FRANKIE GOES TO HOLLYWOOD
   - FRANKIE ROSE
   - FREAKBEAT
@@ -562,6 +568,7 @@ params:
   - Lydia Lunch
   - MALARIA
   - MALCOLM CECIL
+  - MALCOLM MCLAREN
   - MANCHESTER
   - MANTIQUING
   - MANTRONIX
@@ -659,6 +666,7 @@ params:
   - NEW ZEALAND
   - NICK CAVE
   - NICK CAVE AND THE BAD SEEDS
+  - NIK COHN
   - NINA SIMONE
   - NITZER EBB
   - NME
@@ -674,6 +682,7 @@ params:
   - NOT NOT FUN
   - NOTES FOR A STUDY OF NEW WAVE
   - NOTES ON THE NOUGHTIES
+  - NPR
   - NUGGETS
   - Neptunes
   - OBITUARIES
@@ -844,6 +853,7 @@ params:
   - SOHO
   - SOLID AIR
   - SONGWRITING
+  - SONIC YOUTH
   - SOUND SYSTEM CULTURE
   - SOUNDTRACKISM
   - SPIN
@@ -1140,29 +1150,26 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: RIP David Thomas
+  last_post_title: Robert Wyatt
   last_post_description: ""
-  last_post_date: "2026-04-19T15:31:18-07:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2025/04/rip-david-thomas.html
-  last_post_categories:
-  - DAVID THOMAS
-  - PERE UBU
-  - RIP
+  last_post_date: "2026-06-09T18:25:02-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/06/robert-wyatt.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 843c72b3f4d986b51f05e4a659cec92e
+  last_post_guid: 6d0d5e3d86ab8e46731599c5afaa6412
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

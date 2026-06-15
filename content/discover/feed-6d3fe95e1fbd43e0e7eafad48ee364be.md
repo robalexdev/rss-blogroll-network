@@ -16,29 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Puzzles & Games Dept. / Shuffalo
+  - Cartoons / Daily Cartoon
+  - Humor
   relme: {}
-  last_post_title: 'Play Shuffalo: Sunday, May 10, 2026'
-  last_post_description: Can you make a longer word with each new letter?
-  last_post_date: "2026-05-10T10:00:00Z"
-  last_post_link: https://www.newyorker.com/puzzles-and-games-dept/shuffalo/2026/05/10
+  last_post_title: 'Daily Cartoon: Thursday, June 11th'
+  last_post_description: A drawing that riffs on the latest news and happenings.
+  last_post_date: "2026-06-11T16:46:08Z"
+  last_post_link: https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-11th-knicks-game-four
   last_post_categories:
-  - Puzzles & Games Dept. / Shuffalo
+  - Cartoons / Daily Cartoon
+  - Humor
   last_post_language: ""
-  last_post_guid: 677e0340a8f6b162b8b1dd29682f9923
+  last_post_guid: 4554f122a32588a3e5e87b34f8264ebc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

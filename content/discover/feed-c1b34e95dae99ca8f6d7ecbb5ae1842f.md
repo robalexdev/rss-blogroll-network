@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Psychology of Software Teams Cover reveal!
-  last_post_description: 'My upcoming book, The Psychology of Software Teams, exists
-    in the eyes of the International ISBN Agency, various book sellers, and most importantly
-    my publisher: it''s coming out July 14th!  That'
-  last_post_date: "2026-04-15T22:49:14Z"
-  last_post_link: https://www.fightforthehuman.com/psychology-of-software-teams-cover-reveal/
+  last_post_title: On science teaching and science teachers
+  last_post_description: 'I expected to love Project Hail Mary (this was an easy prediction.
+    Things I like: space movies, puppets, problem-solving, emotional soundtracks,
+    plots that revolve around solving problems, people who'
+  last_post_date: "2026-06-04T17:00:40Z"
+  last_post_link: https://www.fightforthehuman.com/on-science-teaching-and-science-teachers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e38851a1a36a74cdeffb3b605adaf275
+  last_post_guid: aab100e6c8258f15d24cc1ecc5c38c38
   score_criteria:
     cats: 0
     description: 3

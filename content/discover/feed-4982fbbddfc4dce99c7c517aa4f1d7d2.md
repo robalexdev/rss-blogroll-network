@@ -19,92 +19,68 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BackendArchitecture
-  - BusinessLogic
-  - ConcurrencyModel
-  - DevelopmentEfficiency
-  - EngineeringTradeoffs
-  - ExtremeControl
-  - GarbageCollection
+  - ErrorHandling
   - Go
-  - GoLanguage
   - Golang
-  - Go语言
-  - MemorySafety
-  - Microservices
-  - Performance
+  - HexagonalArchitecture
+  - IdiomaticGo
+  - Java
+  - Overengineering
+  - Python
   - Rust
-  - SystemsProgramming
-  - TechSelection
-  - Throughput
-  - cloudnative
-  - infrastructure
-  - latency
-  - 业务逻辑
-  - 云原生
-  - 内存安全
-  - 后端架构
-  - 吞吐量
-  - 响应时间
-  - 垃圾回收
-  - 基础设施
-  - 工程权衡
-  - 并发模型
-  - 开发效率
-  - 微服务
-  - 性能
+  - StructuralSubtyping
+  - TypeScript
+  - composition
+  - 六边形架构
+  - 可维护性
+  - 可读性
+  - 地道编程
   - 技术志
-  - 技术选型
-  - 极致控制
-  - 系统编程
+  - 显式错误
+  - 架构妄想症
+  - 系统工程
+  - 组合
+  - 软件工程师
+  - 过度设计
+  - 错误处理
+  - 隐式接口
+  - 鸭子类型
   relme:
     https://tonybai.com/: true
-  last_post_title: “用 Go 打天下，用 Rust 救火”：这才是 2026 年后端架构的唯一正解
-  last_post_description: 本文永久链接 – https://tonybai.com/2026/05/11/go-vs-rust-backend-architecture-the-2026-strategy
-    大家好，我是Tony Bai。
-  last_post_date: "2026-05-10T22:58:44Z"
-  last_post_link: https://tonybai.com/2026/05/11/go-vs-rust-backend-architecture-the-2026-strategy/
+  last_post_title: 写地道的 Go 语言，是否能让你成为了一个更好的开发者？
+  last_post_description: 本文永久链接 – https://tonybai.com/2026/06/11/writing-idiomatic-go-make-you-better
+    大家好，我是Tony Bai。 在技术圈里，Go
+  last_post_date: "2026-06-11T00:18:00Z"
+  last_post_link: https://tonybai.com/2026/06/11/writing-idiomatic-go-make-you-better/
   last_post_categories:
-  - BackendArchitecture
-  - BusinessLogic
-  - ConcurrencyModel
-  - DevelopmentEfficiency
-  - EngineeringTradeoffs
-  - ExtremeControl
-  - GarbageCollection
+  - ErrorHandling
   - Go
-  - GoLanguage
   - Golang
-  - Go语言
-  - MemorySafety
-  - Microservices
-  - Performance
+  - HexagonalArchitecture
+  - IdiomaticGo
+  - Java
+  - Overengineering
+  - Python
   - Rust
-  - SystemsProgramming
-  - TechSelection
-  - Throughput
-  - cloudnative
-  - infrastructure
-  - latency
-  - 业务逻辑
-  - 云原生
-  - 内存安全
-  - 后端架构
-  - 吞吐量
-  - 响应时间
-  - 垃圾回收
-  - 基础设施
-  - 工程权衡
-  - 并发模型
-  - 开发效率
-  - 微服务
-  - 性能
+  - StructuralSubtyping
+  - TypeScript
+  - composition
+  - 六边形架构
+  - 可维护性
+  - 可读性
+  - 地道编程
   - 技术志
-  - 技术选型
-  - 极致控制
-  - 系统编程
+  - 显式错误
+  - 架构妄想症
+  - 系统工程
+  - 组合
+  - 软件工程师
+  - 过度设计
+  - 错误处理
+  - 隐式接口
+  - 鸭子类型
   last_post_language: ""
-  last_post_guid: d902bc2f038565e9bccabc2d4ee53d0b
+  last_post_guid: 0ede2eeb8fd4024935a987201b34aa40
   score_criteria:
     cats: 0
     description: 3

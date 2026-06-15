@@ -1,6 +1,6 @@
 ---
 title: Abuse of Notation
-date: "2026-03-25T08:03:24Z"
+date: "2026-05-27T10:16:08Z"
 description: writings on math, logic, philosophy and art
 params:
   feedlink: https://abuseofnotation.github.io/feed.xml

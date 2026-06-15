@@ -1,7 +1,8 @@
 ---
 title: alienlebarge
 date: "1970-01-01T00:00:00Z"
-description: ""
+description: 'Flux RSS agrégé de tous les contenus : articles, notes, photos, bookmarks
+  et jams'
 params:
   feedlink: https://alienlebarge.ch/feed.rss
   feedtype: rss
@@ -17,16 +18,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Coupe des bains 2026 jeunesse
-  last_post_description: La Gym Ursy Ã  la Coupe des Bains
-  last_post_date: "2026-05-10T21:55:00+02:00"
-  last_post_link: https://alienlebarge.ch/photos/2026-05-10-21-53
+  last_post_title: More Dance Music
+  last_post_description: This masterpiece is 25 years old !!!
+  last_post_date: "2026-06-10T10:00:00+02:00"
+  last_post_link: https://alienlebarge.ch/jams/kid-koala-more-dance-music
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a8dd0bae7a545f23c9a276313b0aa6fa
+  last_post_guid: 399ff35e538be20e8fb7f77e6c751e34
   score_criteria:
     cats: 0
-    description: 0
+    description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -36,7 +37,7 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

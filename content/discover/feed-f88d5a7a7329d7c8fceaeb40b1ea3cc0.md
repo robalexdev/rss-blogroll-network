@@ -1,6 +1,6 @@
 ---
 title: ananya ayasi
-date: "2026-05-11T05:41:38Z"
+date: "2026-06-11T17:56:41Z"
 description: |-
   Hello! I am Ananya Ayasi.
 
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Before CUDA: Learning to See Parallelism'
+  last_post_title: Speech Models
   last_post_description: ""
-  last_post_date: "2026-04-24T13:22:22Z"
-  last_post_link: https://aayasi.bearblog.dev/before-cuda-learning-to-see-parallelism/
+  last_post_date: "2026-05-25T22:13:45Z"
+  last_post_link: https://aayasi.bearblog.dev/speech-models/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e8ba87f6c82b8ea91f216dfdad934bed
+  last_post_guid: 904df31f25d6b8c35b44f1e191b469a9
   score_criteria:
     cats: 0
     description: 3

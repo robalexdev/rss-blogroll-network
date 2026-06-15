@@ -148,6 +148,7 @@ params:
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://branch.climateaction.tech/comments/feed/
+  - https://buttondown.com/rss
   - https://buttondown.com/rss.xml
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/

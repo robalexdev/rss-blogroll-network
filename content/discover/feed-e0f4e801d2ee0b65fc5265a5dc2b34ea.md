@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Greater Boston Mesh Network.
-  last_post_description: 'Disclaimer: Mesh networks over LoRa as described here (MeshCore/Meshtastic)
-    do not require a license in the US, since they operate on the unlicensed & public
-    domain 915 MHz ISM band under FCC Part 15'
-  last_post_date: "2026-05-07T00:00:00Z"
-  last_post_link: https://skushagra.com/posts/2026-05-07-bostonmesh/
+  last_post_title: 'WWDC 2026: Apple Foundation Models (& Anarlog)'
+  last_post_description: 'Disclaimer: This article uses an example transcript from
+    a simulated call with dummy data. No confidential data with regards to any institution
+    or lab is included in this writeup. This project was'
+  last_post_date: "2026-06-09T00:00:00Z"
+  last_post_link: https://skushagra.com/posts/2026-06-09-wwdc26-ai-tinkering/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 82246998478bc6e546286cb754d564a8
+  last_post_guid: df5d02b616b47f314c500b0e3e876f81
   score_criteria:
     cats: 0
     description: 3

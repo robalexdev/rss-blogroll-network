@@ -1,6 +1,6 @@
 ---
 title: Lloyd of Gamebooks
-date: "2026-04-16T12:36:27+01:00"
+date: "2026-05-30T11:28:10+01:00"
 description: A blog about writing gamebooks.  My musings on how to write a gamebook
   and what makes a good gamebook. Create your story here!
 params:
@@ -311,27 +311,26 @@ params:
   - zines
   - zombie exodus
   relme: {}
-  last_post_title: Entries are now being accepted for the 2026 Lindenbaum competition!
+  last_post_title: Submissions are now closed for the 2026 Lindenbaum competition
   last_post_description: ""
-  last_post_date: "2026-02-20T18:05:40Z"
-  last_post_link: http://www.lloydofgamebooks.com/2026/02/voting-is-now-open-for-2026-lindenbaum.html
-  last_post_categories:
-  - lindenbaum
+  last_post_date: "2026-05-20T07:54:54+01:00"
+  last_post_link: http://www.lloydofgamebooks.com/2026/05/submissions-are-now-closed-for-2026.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: d11c0df39fc2e2a4aa366476a1a6c7d5
+  last_post_guid: d05a748c149f17a1c43126d01e659476
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 23
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

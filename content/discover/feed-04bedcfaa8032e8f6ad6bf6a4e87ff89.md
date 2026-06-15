@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Using the 'Sandwich Method' to Teach Mathematics
-  last_post_description: Many students have asked me if I'll ever record a course
-    called 'Math for Programmers.' I am inclined to say that won't happen anytime
-    soon... or at least not the way most people expect it.
-  last_post_date: "2026-05-03T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/sandwich-method-math-education
+  last_post_title: Navigation Systems in Video Games
+  last_post_description: Navigation is the set of systems & techniques enabling characters
+    to move efficiently through virtual environments. This post explores navigation
+    systems in games & how they work under the hood.
+  last_post_date: "2026-05-20T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/navigation-systems-in-video-games
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b893ec83358e0a68a497edd48627418
+  last_post_guid: 83c6a658b0955d4f0c0c3e8889b7f579
   score_criteria:
     cats: 0
     description: 3

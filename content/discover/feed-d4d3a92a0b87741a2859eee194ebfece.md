@@ -1,6 +1,6 @@
 ---
 title: Astroblog
-date: "2026-05-10T08:02:26+09:30"
+date: "2026-06-09T23:22:23+09:30"
 description: Obscured by Clouds. The rough and ready blog of a cloud benighted biologist
   and amateur astronomer. Astroblog will cover my interests in astronomy, biology
   and Life, the Universe and Everything.
@@ -12,7 +12,7 @@ params:
     https://astroblogger.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -30,6 +30,7 @@ params:
   - 45P
   - 46P
   - 67P
+  - Antares
   - Apollo
   - Asteroid
   - Astronomy
@@ -325,29 +326,27 @@ params:
     https://astroblogger.blogspot.com/: true
     https://vpudebate.blogspot.com/: true
     https://www.blogger.com/profile/05010720416554077787: true
-  last_post_title: UPDATE on Comet C/2025 R2 (PANSTARRS)
+  last_post_title: Thursday June 11 to Thursday June 18
   last_post_description: ""
-  last_post_date: "2026-05-05T19:41:33+09:30"
-  last_post_link: https://astroblogger.blogspot.com/2026/05/update-on-comet-c2025-r2-panstarrs.html
+  last_post_date: "2026-06-09T23:22:23+09:30"
+  last_post_link: https://astroblogger.blogspot.com/2026/06/thursday-june-11-to-thursday-june-18.html
   last_post_categories:
-  - C/2025 R3
-  - binocular
-  - comet
+  - weekly sky
   last_post_language: ""
-  last_post_guid: 312f6ecbc46d9dbeffa001d2659b5798
+  last_post_guid: ce86422ed7318248dfcb26d3f8536018
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

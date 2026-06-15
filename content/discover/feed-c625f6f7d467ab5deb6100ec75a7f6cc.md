@@ -17,14 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ChatGPT Images 2.0 Still Can't Draw the Seven-legged Spider I Want
-  last_post_description: ChatGPT Images 2.0 is able to generate a seven-legged spider,
-    but it's not missing the leg I asked for.
-  last_post_date: "2026-04-23T00:00:00Z"
-  last_post_link: https://will-keleher.com/posts/chatgpt-image-2-still-cant-draw-a-seven-legged-spider/
+  last_post_title: Your dashes suggest which model you're copy-pasting from
+  last_post_description: Not tired of the em dash discourse yet? Different LLMs use
+    different dash patterns -- which means you can identify some models' output based
+    on em/en dash spacing.
+  last_post_date: "2026-05-26T00:00:00Z"
+  last_post_link: https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dcc6684fdb8ba69467c35768a7ed3e64
+  last_post_guid: f191a71e638ec43d754ef84975094dc5
   score_criteria:
     cats: 0
     description: 3

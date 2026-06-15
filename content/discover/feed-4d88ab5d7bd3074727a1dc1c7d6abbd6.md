@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -110,15 +110,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Streaking Baseball Players
-  last_post_description: The Chicago Cubs have won ten games in a row, which is their
-    second ten game winning streak of this season. Right now it is fun to be a fan
-    of the Chicago Cubs given that their entire lineup is
-  last_post_date: "2026-05-09T12:20:53-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/05/09/streaking-baseball-players.html
+  last_post_title: Idol Of Intelligence
+  last_post_description: I am fascinated by the number of reactions to Pope Leo’s
+    encyclical, Magnifica Humanitas, in my technology feeds. It’s the first time that
+    I can recall of seeing so many technologists spend any
+  last_post_date: "2026-05-28T15:04:40-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/05/28/idol-of-intelligence.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cfd98b2992100e78463e6b5ee4bded43
+  last_post_guid: 24c52c12a17503260706affcec7bdaea
   score_criteria:
     cats: 0
     description: 0

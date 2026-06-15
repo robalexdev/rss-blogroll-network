@@ -20,34 +20,29 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - health
-  - travel
+  categories: []
   relme: {}
-  last_post_title: I have this gut feeling…
-  last_post_description: I spent two years struggling with bloating and IBS-like symptoms—until
-    traveling through Southeast Asia and Europe made them disappear. Here’s why I
-    think digestion can be country-dependent.
-  last_post_date: "2026-02-18T13:33:00Z"
-  last_post_link: https://shilin.ca/i-have-this-gut-feeling/
-  last_post_categories:
-  - health
-  - travel
+  last_post_title: A short film for my friend's birthday
+  last_post_description: A short film I made for my best friend's birthday, revisiting
+    the camping trip where our friendship first took root three years ago
+  last_post_date: "2026-06-11T12:53:00Z"
+  last_post_link: https://shilin.ca/a-short-film-for-my-friends-birthday/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 365ce587efde4400f0e370511f60e74a
+  last_post_guid: 75e9ebd43e589c7ee10221d9d626d16f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -14,7 +14,7 @@ params:
     id: c73a5d7ed11ab5cccdf6cf0663e70d51
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.8.16.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""

@@ -1,6 +1,6 @@
 ---
 title: Kia.
-date: "2026-05-05T12:24:04Z"
+date: "2026-06-08T05:34:41Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -24,13 +24,13 @@ params:
   categories: []
   relme:
     https://kiakamgar.com/: true
-  last_post_title: Sharp as a knife
+  last_post_title: Less tech is always the best tech
   last_post_description: ""
-  last_post_date: "2026-05-05T17:30:06Z"
-  last_post_link: https://kiakamgar.com/posts/sharp-as-a-knife
+  last_post_date: "2026-06-08T07:28:31Z"
+  last_post_link: https://kiakamgar.com/posts/less-tech-is-always-the-best-tech
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 97593f3e1e88713f0a4d15e57ee624d3
+  last_post_guid: fb1d957ad6986776a39c96d753c3dc6b
   score_criteria:
     cats: 0
     description: 0

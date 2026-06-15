@@ -16,61 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Analog Devices
-  - LT
-  - Linear Technology
-  - OpAmp
-  - Operation Amplifier
-  - SPICE
-  - TI
-  - Texas Instruments
-  - analog
-  - export
-  - macro
-  - model
-  - reuse
-  - simulation
-  - software hacks and fixes
-  - symbol
+  - Uncategorized
   relme: {}
-  last_post_title: Using Texas Instruments OpAmps in LTspice
-  last_post_description: This is a quick guide to gaining access to a large variety
-    of TI parts – in particular operational amplifiers – in LTspice. We’re going to
-    export the SPICE macro […]
-  last_post_date: "2026-04-30T11:18:42Z"
-  last_post_link: https://acidbourbon.wordpress.com/2026/04/30/using-texas-instruments-opamps-in-ltspice/
+  last_post_title: Full Duplex over Coax – a Budget Cable Modem for your Arduino
+  last_post_description: 'Documentation for the project shown at Hackaday Europe 2026
+    in Lecco. Link to paper pre-print: https://arxiv.org/abs/2603.18848 Find the KiCAD
+    project for both 50 Ohms and 75 Ohms versions here'
+  last_post_date: "2026-05-13T16:06:35Z"
+  last_post_link: https://acidbourbon.wordpress.com/2026/05/13/full-duplex-over-coax-a-budget-cable-modem-for-your-arduino/
   last_post_categories:
-  - Analog Devices
-  - LT
-  - Linear Technology
-  - OpAmp
-  - Operation Amplifier
-  - SPICE
-  - TI
-  - Texas Instruments
-  - analog
-  - export
-  - macro
-  - model
-  - reuse
-  - simulation
-  - software hacks and fixes
-  - symbol
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 662670a0d0923a1f0df1bbc76bf727e3
+  last_post_guid: 76b4e3258f7afcfc4b304eb8f4406084
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

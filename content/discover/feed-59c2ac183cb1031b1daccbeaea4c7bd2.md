@@ -19,25 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Infographics
-  - New York Times
-  - Strait of Hormuz
-  - illustration
-  - oil
+  - The Process
+  - difference
+  - highlight
   relme: {}
-  last_post_title: Getting oil to the gas tank from the Strait of Hormuz
-  last_post_description: 'For the New York Times, Agnes Chang and Pablo Robles illustrate
-    the journey…Tags: illustration, New York Times, oil, Strait of Hormuz'
-  last_post_date: "2026-05-08T09:55:15Z"
-  last_post_link: https://flowingdata.com/2026/05/08/getting-oil-to-the-gas-tank-from-the-strait-of-hormuz/
+  last_post_title: ✚ Showing when the data flips
+  last_post_description: 'This week, we focus on when there is a sudden change or
+    flip in the data that you want to highlight.Tags: difference, highlight'
+  last_post_date: "2026-06-11T12:05:15Z"
+  last_post_link: https://flowingdata.com/2026/06/11/process-392-flips/
   last_post_categories:
-  - Infographics
-  - New York Times
-  - Strait of Hormuz
-  - illustration
-  - oil
+  - The Process
+  - difference
+  - highlight
   last_post_language: ""
-  last_post_guid: fa9d2fd7398174d5a603aee2cfbec2a7
+  last_post_guid: 0bd6d665d6e320ad17510436577546dc
   score_criteria:
     cats: 0
     description: 3

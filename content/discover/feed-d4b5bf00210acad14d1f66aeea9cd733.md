@@ -1,6 +1,6 @@
 ---
 title: 2PM
-date: "2026-05-08T17:27:09Z"
+date: "2026-05-18T21:41:01Z"
 description: Studying where media meets commerce.
 params:
   feedlink: https://2pml.com/feed/atom/
@@ -15,33 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Member Briefs
   - NATSEC
   relme: {}
-  last_post_title: 'Member Brief: Monitoring The Situation'
-  last_post_description: There is a meme, and then there is what the meme actually
-    marks. This member brief is designed exclusively for Executive Members, to make
-    membership easy, you can click below and gain access to
-  last_post_date: "2026-05-08T17:27:09Z"
-  last_post_link: https://2pml.com/2026/05/08/mts/
+  last_post_title: 'NATSEC Roundtable No. 14: Civilian Drone Defense'
+  last_post_description: You could say that we are incredibly privileged. We are consumers
+    consumed by all of what makes America, America. Sports, short-form media, reality
+    television, politics, sensational news, social
+  last_post_date: "2026-05-18T21:41:01Z"
+  last_post_link: https://2pml.com/2026/05/16/drone-defense/
   last_post_categories:
-  - Member Briefs
   - NATSEC
   last_post_language: ""
-  last_post_guid: c2d08067b88dd51243529642c94542a1
+  last_post_guid: ba3b1575da3f645fbfae6932adac673e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

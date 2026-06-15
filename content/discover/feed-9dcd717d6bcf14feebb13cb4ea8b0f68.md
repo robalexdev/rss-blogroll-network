@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-05-10T13:45:00+02:00"
+date: "2026-06-09T17:00:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Diablo IV: Season 13 is awesome'
-  last_post_description: "In case you were wondering if I like the new season of Diablo
-    IV, this is my current character:\n\nI am following this guide. \n\nIt is the
-    first time since release that I touched the game, and back then"
-  last_post_date: "2026-05-10T13:45:00+02:00"
-  last_post_link: https://overkill.wtf/notes/diablo4-s13
+  last_post_title: Ocarina of Time Remake
+  last_post_description: Holy shit, holy shit, holy shit, holy shit, holy shit, holy
+    shit holy shit, holy shit, holy shit, holy shit, holy shit, holy shit, holy shit,
+    holy shit!
+  last_post_date: "2026-06-09T17:00:00+02:00"
+  last_post_link: https://overkill.wtf/notes/ocarina-of-time-remake
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 424f6158b011276d8d79cdfdf779b636
+  last_post_guid: 25a34b499efd3e88971411d379ccb1eb
   score_criteria:
     cats: 0
     description: 3

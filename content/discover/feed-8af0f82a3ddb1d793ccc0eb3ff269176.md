@@ -10,7 +10,7 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -44,15 +44,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: 'Media Diet: March and April 2026'
+  last_post_title: Canadian stamp stories
   last_post_description: |-
-    A quick look at the movies, television shows, music, and books that have captured my attention over the past two months.
-    On Earth We’re Briefly Gorgeous, Ocean Vuong (Re-read; originally read in
-  last_post_date: "2026-04-29T09:38:00-04:00"
-  last_post_link: https://www.inthemargins.ca/media-diet-0426
+    For a four-year span starting in 2020, Canada Post told stories about its stamps.
+    The premise of the Canadian stamp stories section of the website was simple: take a deeper look into the new series
+  last_post_date: "2026-06-04T20:45:00-04:00"
+  last_post_link: https://www.inthemargins.ca/canadian-stamp-stories
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5da0015906b5c25ddbad441eef299b21
+  last_post_guid: 9044347021c020334f2616583ae3f979
   score_criteria:
     cats: 0
     description: 3

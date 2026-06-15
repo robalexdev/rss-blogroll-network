@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: You Do Not Need an AI Policy
-  last_post_description: You do not need an AI policy.Forget the crisis in plagiarism
-    and cheating; that’s yesterday’s news. It is becoming increasingly common for
-    my colleagues, both within my own university and
-  last_post_date: "2026-04-17T13:36:18Z"
-  last_post_link: http://sonjadrimmer.com/blog-1/2026/4/17/you-do-not-need-an-ai-policy
+  last_post_title: '"Employers Want Applicants with AI Skills": How Hearsay Manufactures
+    Reality'
+  last_post_description: I recently had an informative and valuable conversation with
+    someone who works in career services. The conversation was wide-ranging but among
+    the more mutually illuminating parts of our conversation
+  last_post_date: "2026-05-22T17:51:16Z"
+  last_post_link: http://sonjadrimmer.com/blog-1/2026/5/22/employers-want-applicants-with-ai-skills-how-hearsay-manufactures-reality
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 227147c5816a0fcc68ef510da0f3a57e
+  last_post_guid: df3c67aff23301379d2363df1a2ab24c
   score_criteria:
     cats: 0
     description: 0

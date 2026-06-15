@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-04-29T02:30:31Z"
+date: "2026-06-11T10:52:20Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,17 +28,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游戏
+  - 算法与数据结构
   relme: {}
-  last_post_title: 我对《缺氧》的游戏理解
-  last_post_description: 最近一个月，我一直在玩《缺氧》(Oxygen Not Included) 。前几年玩过 100 多小时，算是比较熟悉了。但这个月又高强度的玩了
-    300
-  last_post_date: "2026-04-29T02:30:31Z"
-  last_post_link: https://blog.codingnow.com/2026/04/oxygen_not_included.html
+  last_post_title: 对基本有序的序列排序算法
+  last_post_description: quicksort 是基于比较的排序中表现最好的算法，它在大多数情况下都能接近时间复杂度 O(n log n) ，所以
+    qsort() 也是 C
+  last_post_date: "2026-06-11T10:52:20Z"
+  last_post_link: https://blog.codingnow.com/2026/06/powersort.html
   last_post_categories:
-  - 游戏
+  - 算法与数据结构
   last_post_language: ""
-  last_post_guid: 04dc947a391d7635982e3a2a4428cb8e
+  last_post_guid: daf066fd2d3819cc4e8c994e3a5770ec
   score_criteria:
     cats: 0
     description: 3

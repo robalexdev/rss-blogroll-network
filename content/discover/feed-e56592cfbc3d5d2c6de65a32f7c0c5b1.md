@@ -25,14 +25,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Appearing productive in the workplace
-  last_post_description: AI can produce work that looks expert without being expert.
-    The failure arrives in two shapes, and both are reshaping the workplace.
-  last_post_date: "2026-05-08T08:17:31Z"
-  last_post_link: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+  last_post_title: Discovery vs Delivery
+  last_post_description: A personal perspective on AI, product quality and the growing
+    divide between deciding what should exist and efficiently building it.
+  last_post_date: "2026-06-11T06:32:02Z"
+  last_post_link: https://buzzusborne.com/writing/discovery-delivery/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e0392683f24659ec3428db1567005213
+  last_post_guid: 39d025e825142bbf77a0ff19916b2481
   score_criteria:
     cats: 0
     description: 3

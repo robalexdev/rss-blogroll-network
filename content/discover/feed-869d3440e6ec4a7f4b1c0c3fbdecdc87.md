@@ -11,34 +11,44 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories:
+  - Facebook
+  - Instagram
+  - Messenger
+  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
+  - WhatsApp
   relme: {}
-  last_post_title: 'Live Chats on Threads: Because Big Moments Are Better Together'
+  last_post_title: Going All in for Global Football Fans Across Meta Apps
   last_post_description: |-
-    Creators and fans can now connect in real-time, public group conversations during the biggest cultural events.
-    The post Live Chats on Threads: Because Big Moments Are Better Together appeared first
-  last_post_date: "2026-04-22T17:00:40Z"
-  last_post_link: https://about.fb.com/news/2026/04/threads-live-chats/
+    We’re bringing new football features and experiences to Threads, Instagram, Facebook, and WhatsApp, including athlete content, match content, and in-product activations.
+    The post Going All in for
+  last_post_date: "2026-06-11T12:00:40Z"
+  last_post_link: https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/
   last_post_categories:
+  - Facebook
+  - Instagram
+  - Messenger
+  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
+  - WhatsApp
   last_post_language: ""
-  last_post_guid: 3b545a2ab64fe30985fb24c79dc4d676
+  last_post_guid: 0d94722ab5b3015436a658d22beeef22
   score_criteria:
     cats: 0
     description: 0

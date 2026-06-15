@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-05-09T15:30:46-07:00"
+date: "2026-06-08T05:38:21-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -64,6 +64,7 @@ params:
   - 808 State
   - 90s cyberbollix
   - 98 BPM MOVEMENT
+  - A BAFFLED REPUBLIC
   - A BIG SHOUT
   - A EUROHARDCORE CONTINUUM
   - A GUY CALLED GERALD
@@ -169,6 +170,7 @@ params:
   - ASTORIA
   - ASTRIX & SPACE
   - ASTROPHONICA
+  - ATEMPORALITY
   - AUDIMAT EDITIONS
   - AUDIOPHILIA
   - AUNTOLOGIKAL ARDKORE
@@ -368,6 +370,7 @@ params:
   - CHANGING SAME
   - CHANTAL PASSAMONTE
   - CHANTELLE FIDDY
+  - CHARLIE xcx
   - CHARLY
   - CHARTCORE
   - CHARVA
@@ -600,6 +603,7 @@ params:
   - DJ TRAX
   - DJ WRONGSPEED
   - DJ YT
+  - DJ ZINC
   - DJ magazine
   - DNA
   - DO IT TOGETHER
@@ -661,6 +665,7 @@ params:
   - EBM
   - ECHO
   - ECHO CHAMBER
+  - ECLECTICIST
   - ECLECTRONICA
   - ECLIPSE
   - ECSTASY SAFETY LEAFLETS
@@ -811,6 +816,7 @@ params:
   - FUTUROID
   - FUTUROMANIA
   - FWD
+  - Fish56Octagon
   - G-SPOT RECORDS
   - G.O.D.
   - GABBER
@@ -986,6 +992,7 @@ params:
   - IBIZA
   - ICE CREAM RECORDS
   - ICE CREAM VANS
+  - ICONA POP
   - ICRATES
   - IDM
   - IMPACT FM
@@ -997,8 +1004,10 @@ params:
   - INDUSTRIAL TECHNO
   - INFERNO BROS
   - INFESTUS
+  - INFLUENCERIZATION
   - INHABIT
   - INNER CITY
+  - INSTAGRAM
   - INTELLIGENT
   - INTELLIGENT DANCE MUSIC
   - INTELLIGENT HARDCORE
@@ -1143,6 +1152,7 @@ params:
   - Koh Tao
   - LA RAVE
   - LABELLO BLANCO
+  - LADETTE POP
   - LADY LESHURR
   - LANDLORD
   - LARRY LEVAN
@@ -1348,6 +1358,7 @@ params:
   - Mc McKinley
   - Medieval rave
   - N JOI
+  - N'JOI
   - NAMEOLOGY
   - NAMES
   - NAPA-TAC
@@ -1483,6 +1494,7 @@ params:
   - PEANUT PETE
   - PEARSALL
   - PERCEPTION FM
+  - PERFORMATIVITY
   - PERIPHERAL ELEMENTS
   - PERMARETRO
   - PERSISTENCE
@@ -1534,6 +1546,7 @@ params:
   - POSH SPICE
   - POSITIVE FASCISM
   - POSITIVE UNORIGINALITY
+  - POST-GEOGRAPHICAL
   - POSTDISCO
   - POSTDUBSTEP
   - POSTPOSTDUBSTEP
@@ -1673,6 +1686,7 @@ params:
   - REPEATER BOOKS
   - REPLICA NUUM
   - REPLICA RAVE
+  - REPUBLICA
   - RESIDENT ADVISOR
   - RESPECT
   - RESPECT TO THE FOLLOWING
@@ -1723,6 +1737,7 @@ params:
   - ROGUE UNIT
   - ROLAND 303
   - ROLAND BARTHES
+  - ROLL DEEP
   - ROMANTICISM
   - ROMFORD
   - RONI SIZE
@@ -1742,6 +1757,7 @@ params:
   - RUDEWHY
   - RUFF BEATS PRODUCING THE BASS
   - RUFF KUT! RECORDS
+  - RUFF SQWAD
   - RUFIGE
   - RUFIGE CRU
   - RUGGED VINYL
@@ -1762,6 +1778,7 @@ params:
   - SACRED
   - SACRED DANCE
   - SADMANBARTY
+  - SAFFRON
   - SAINT ETIENNE
   - SALT TANK
   - SAM PURCELL
@@ -2037,6 +2054,8 @@ params:
   - THE TRIPPER
   - THE TYP MIX
   - THE TYPO MIX
+  - THE UNTOUCHABLES
+  - THE VAST BENIGN INFLUENCE OF SIMON REYNOLDS
   - THE VAST SINISTER INFLUENCE OF SIMON REYNOLDS
   - THE WINSTONS
   - THE WIRE
@@ -2486,25 +2505,26 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: don't B ridiculous
+  last_post_title: Of Instagrammatology
   last_post_description: ""
-  last_post_date: "2026-05-08T15:59:15-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/05/dont-b-ridiculous.html
+  last_post_date: "2026-06-04T16:45:39-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/06/had-instagram-for-ages-but-never-got.html
   last_post_categories:
-  - ARTIFICIAL INTELLIGENCE
-  - AVANT-LUMPEN
-  - B-12
-  - ELECTRO-SOMA
-  - ELECTRONIC LISTENING MUSIC
-  - HARDCORE
-  - IDM
-  - MUSICOLOGY
-  - SOPORIFICS
-  - THE VAST SINISTER INFLUENCE OF SIMON REYNOLDS
-  - X-RAY EXPERIMENTS
-  - bleep
+  - A BAFFLED REPUBLIC
+  - ATEMPORALITY
+  - CHRIS LIEBING
+  - DJ ZINC
+  - Fish56Octagon
+  - HYPERSTASIS
+  - INFLUENCERIZATION
+  - INSTAGRAM
+  - NU-UKG
+  - PERFORMATIVITY
+  - POST-GEOGRAPHICAL
+  - archive fever
+  - deejays
   last_post_language: ""
-  last_post_guid: 8bcf8ccc47e61f75969ada6a0408e7af
+  last_post_guid: 7fd7d03d12d214328912ee1febaa1e0a
   score_criteria:
     cats: 5
     description: 3

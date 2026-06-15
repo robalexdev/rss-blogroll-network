@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-05-11T00:26:34-04:00"
+date: "2026-06-11T12:23:07-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -10,6 +10,9 @@ params:
     https://shellsharks.com/: false
   blogrolls: []
   in_blogrolls:
+  - title: Ryan M. - Blogroll
+    description: ""
+    id: aefe458d084b844b7c2a6e71b48776ee
   - title: The Art Of Not Asking Why - Blogroll
     description: ""
     id: e79d34746977a283ee12bf2f27dfee7a
@@ -17,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Scroll quadrāgintā
-  last_post_description: Welcome to volume forty of Scrolls, a newsletter for sharing
-    cool stuff from the IndieWeb and the Fediverse. This week I celebrate and boost
-    content from across the web that is exclusively from women
-  last_post_date: "2026-05-08T08:53:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2026-05-08
+  last_post_title: 'Wonders of Web Weaving #5: Mike'
+  last_post_description: I was a guest on James’ fantastic Wonders of Web Weaving
+    podcast!We talk about, among other things, balancing personal and professional
+    identities on personal websites, curating interesting content
+  last_post_date: "2026-06-09T10:13:00-04:00"
+  last_post_link: https://web-weaving.jamesg.blog/5
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 09cea43a42278852ee6846d64ec06dc6
+  last_post_guid: 752a672f5525def3e4bbb24df37bc7b4
   score_criteria:
     cats: 0
     description: 3

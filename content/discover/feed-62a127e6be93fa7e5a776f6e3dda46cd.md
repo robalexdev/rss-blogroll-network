@@ -18,13 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I learned Mandarin. Here's what it taught me about B2C SaaS.
+  last_post_title: How to Run a Fellowship Program Into the Ground (and get 18M impressions
+    in the process)
   last_post_description: ""
-  last_post_date: "2026-05-09T12:29:15Z"
-  last_post_link: https://stevehanov.ca/blog/i-learned-mandarin-heres-what-it-taught-me-about-b2c-saas
+  last_post_date: "2026-05-26T22:20:27Z"
+  last_post_link: https://stevehanov.ca/blog/how-to-run-a-fellowship
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 99e2851191af3a387837a941d911b58a
+  last_post_guid: 11d25d07460c91a60658b9e08a72ed56
   score_criteria:
     cats: 0
     description: 3

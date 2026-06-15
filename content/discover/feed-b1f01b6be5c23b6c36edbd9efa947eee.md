@@ -6,10 +6,11 @@ params:
   feedlink: https://molodtsov.me/blog/index.xml
   feedtype: rss
   feedid: b1f01b6be5c23b6c36edbd9efa947eee
-  websites: {}
+  websites:
+    https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -24,16 +25,17 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: Readr, Safari-like Reading Mode for Chrome
-  last_post_description: One thing that Safari does well is its Reading Mode. The
-    people who built it are brilliant, and no other browser can truly match the beauty
-    and seamlessness. But I prefer Dia (or any other Chromium
-  last_post_date: "2026-04-29T20:24:00Z"
-  last_post_link: https://molodtsov.me/2026/04/readr-safari-like-reading-mode-for-chrome/
+  relme:
+    https://molodtsov.me/blog/: true
+  last_post_title: How to Solve AI's Messaging Problem
+  last_post_description: |-
+    Today, AI is being framed as an entity that takes away things: jobs, chips, energy, water, or even creativity. Right as the major labs are about to go public.
+    It has become such a divisive technology
+  last_post_date: "2026-06-09T19:44:00Z"
+  last_post_link: https://molodtsov.me/2026/06/how-to-solve-ai-s-messaging-problem/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d694ed00d9edda8af07629b01133afe3
+  last_post_guid: a30f8b58e568c6e2ab5111df9ee3f3a1
   score_criteria:
     cats: 0
     description: 3
@@ -43,10 +45,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: This Cute World
-date: "2026-05-10T17:41:51Z"
+date: "2026-05-30T13:53:10Z"
 description: ""
 params:
   feedlink: https://thiscute.world/index.xml
@@ -21,41 +21,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '%E6%80%BB%E7%BB%93'
-  - '%E6%80%BB%E7%BB%93%E5%9B%9E%E9%A1%BE'
-  - life
   - ryan4yin
   - tech
   relme: {}
-  last_post_title: 我的 2025 - 步履不停
+  last_post_title: 我看见的世界
   last_post_description: |-
-    今年不论是生活上还是工作上都变化颇多。
-
-    2025 年 Highlights
-    工作如同我 11 月份写的 大梦一场，我在今年 1 月份辞职后 gap 了几个月，在 5
-  last_post_date: "2026-01-07T22:08:00+08:00"
-  last_post_link: https://thiscute.world/posts/2025-summary/?utm_source=atom_feed
+    AI 与纺织女工2026 年 2 月 1 6日，除夕夜。
+    0 点 11 分，窗外鞭炮声还没停，我在本地跑起了 Qwen3.5-397B-A17B 的 2bits 量化版，尝试发了一张经典的 NixOS
+  last_post_date: "2026-05-30T15:22:30+08:00"
+  last_post_link: https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed
   last_post_categories:
-  - '%E6%80%BB%E7%BB%93'
-  - '%E6%80%BB%E7%BB%93%E5%9B%9E%E9%A1%BE'
-  - life
   - ryan4yin
   - tech
   last_post_language: ""
-  last_post_guid: 83ca60780fbd138c7e3d2f1ef28a6f58
+  last_post_guid: 0de8895e801f6b8041ffa96866cca976
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

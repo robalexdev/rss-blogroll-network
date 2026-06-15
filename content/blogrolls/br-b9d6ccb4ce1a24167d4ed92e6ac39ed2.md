@@ -1,6 +1,6 @@
 ---
 title: Planet Bugzilla
-date: Mon, 11 May 2026 00:24:18 GMT
+date: Thu, 11 Jun 2026 11:25:38 GMT
 description: ""
 params:
   link: https://planet.bugzilla.org/opml.xml

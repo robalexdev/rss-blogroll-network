@@ -19,16 +19,13 @@ params:
   categories: []
   relme:
     https://mitchwagner.com/: true
-  last_post_title: Meet your new phone away from phone
-  last_post_description: |-
-    A roundup of phones designed to be used as second phones, to minimize distraction. By Allison Johnson at The Verge.
-    This is an idea that seems stupid to me at first, but now I find it intriguing.
-    I
-  last_post_date: "2026-03-07T10:07:55-08:00"
-  last_post_link: https://mitchwagner.com/2026/03/07/meet-your-new-phone-away.html
+  last_post_title: "\U0001F98D Mitchellaneous 6.11.2026"
+  last_post_description: ""
+  last_post_date: "2026-06-11T08:55:00-07:00"
+  last_post_link: https://mitchwagner.com/2026/06/11/mitchellaneous.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0c43b69a0e47ffe9afc978bdfa7048a2
+  last_post_guid: 083f1c122438b2be2e90cde60a9672ca
   score_criteria:
     cats: 0
     description: 0

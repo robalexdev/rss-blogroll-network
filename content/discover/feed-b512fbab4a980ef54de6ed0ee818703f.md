@@ -21,35 +21,42 @@ params:
   - https://jeroensangers.com/feed.xml
   - https://jeroensangers.com/podcast.xml
   categories:
+  - EV
+  - camping
   - oregon
-  - science!
+  - road trip
+  - travel
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
-  last_post_title: Why do Oregon farms plant red clover every spring?
-  last_post_description: If you’re ever out on a bike ride with me and you ask an
-    innocent question like “hey, what’s with all the red plants on farms?” I must
-    warn you that because of my masters degree in soil
-  last_post_date: "2026-05-08T23:45:25Z"
-  last_post_link: https://a.wholelottanothing.org/why-do-oregon-farms-plant-red-clover-every-spring/
+    https://xoxo.zone/@mathowie: true
+  last_post_title: EV camping at the coast
+  last_post_description: Earlier this week we decided to try out a quick camping trip
+    in our VW Buzz EV at Beverly Beach State Park, just outside of Newport, Oregon.It's
+    only 75 miles away from home so with our 230mi battery
+  last_post_date: "2026-06-11T04:04:41Z"
+  last_post_link: https://a.wholelottanothing.org/ev-camping-at-the-coast/
   last_post_categories:
+  - EV
+  - camping
   - oregon
-  - science!
+  - road trip
+  - travel
   last_post_language: ""
-  last_post_guid: 8d75deb62a91abc45c7a2c98ea7207d8
+  last_post_guid: faa5817872ef560b21e1ca9182ec9e18
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

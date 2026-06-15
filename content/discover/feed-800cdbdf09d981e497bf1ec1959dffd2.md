@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-05-09T21:31:41-07:00"
+date: "2026-06-07T12:50:00-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -476,7 +476,9 @@ params:
   - STEVIE STREETER
   - STREET CREDIBILITY
   - STYLE
+  - STYLE BIBLES
   - STYLE CULTURE
+  - STYLE MAGAZINES
   - STYLE PRESS
   - STYLISTIC FLEXIBILITY
   - SWEENEY TODD
@@ -597,25 +599,18 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Hauteur Theory (1 + 2)
+  last_post_title: Secret thesis (style bible slight return)
   last_post_description: ""
-  last_post_date: "2026-05-07T15:11:45-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/05/unfamiliarity-breeds-contempt.html
+  last_post_date: "2026-06-07T12:50:00-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/06/secret-thesis-style-bible-slight-return.html
   last_post_categories:
-  - CONTEMPT
-  - DEBONAIR ROCK
-  - DUNCAN BROWNE
-  - HAUTEUR
-  - LAGGING BEHIND THE TIMES
-  - LATE GLAM
-  - METRO
-  - MOVING WITH THE TIMES
-  - OPPORTUNISM
-  - PETER GODWIN
-  - PRE-RAPHAELITE ROCK
-  - SNOOTINESS
+  - ID
+  - SECRET THESIS
+  - SECRETED THESIS
+  - STYLE BIBLES
+  - STYLE MAGAZINES
   last_post_language: ""
-  last_post_guid: 58ad97111dd4d3551328b629f56f1c7c
+  last_post_guid: fad3cc810b422aa0f4b86ebf88f152c1
   score_criteria:
     cats: 5
     description: 3

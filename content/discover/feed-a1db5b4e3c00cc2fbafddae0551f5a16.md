@@ -26,14 +26,14 @@ params:
 
 
 
-      Quoting New York Times Editors’ Note simonwillison.net
+      datasette-agent 0.2a0 simonwillison.net
 
 
-      Seoul, South Korea xn--gckvb8fzb.com
+      Home Brew Presents: Last Week flamedfury.com
 
 
-      Quoting
-  last_post_date: "2026-05-11T00:00:00Z"
+      DiffusionGemma
+  last_post_date: "2026-06-11T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""

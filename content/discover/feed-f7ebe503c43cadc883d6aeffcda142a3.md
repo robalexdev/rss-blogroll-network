@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-05-10T20:56:34-05:00"
+date: "2026-06-10T19:53:52-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -185,6 +185,7 @@ params:
   - CENDRARS Blaise
   - CERVANTES Miguel de
   - CHAGALL Marc
+  - CHAPMAN George
   - CHAPPELL Fred
   - CHATEAUBRIAND
   - CHEKHOV Anton
@@ -1201,28 +1202,27 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: The hilarious Doctor Faustus - I am not so very fond of laughter
+  last_post_title: The Dutch Courtesan by John Marston - They sell their bodies; do
+    not better persons sell their souls?
   last_post_description: ""
-  last_post_date: "2026-05-09T07:00:00-05:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/05/the-hilarious-doctor-faustus-i-am-not.html
-  last_post_categories:
-  - MANN Thomas
-  - fascism
+  last_post_date: "2026-06-09T15:52:27-05:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/06/the-dutch-courtesan-by-john-marston.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 90ff16d21b8e810b975f2a26ac2bbb05
+  last_post_guid: cbd26db10cf81dc248c597ccc0716bb3
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 24
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

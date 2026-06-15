@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-05-10T10:34:00Z"
+date: "2026-06-11T11:41:26Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -19,7 +19,7 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.8.16.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -34,31 +34,33 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
+  - deep-dive
   - package-managers
-  - satire
+  - supply-chain
   relme: {}
-  last_post_title: Madame Semver Will See You Now
-  last_post_description: The cards do not lie.
-  last_post_date: "2026-05-10T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html
+  last_post_title: What Happened to tea.xyz
+  last_post_description: Reading the tea leaves
+  last_post_date: "2026-06-11T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/06/11/what-happened-to-tea.html
   last_post_categories:
+  - deep-dive
   - package-managers
-  - satire
+  - supply-chain
   last_post_language: ""
-  last_post_guid: bb430d3421afbc446a5c466961456f4b
+  last_post_guid: fbefb076cfe017ce998b78e14714718a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

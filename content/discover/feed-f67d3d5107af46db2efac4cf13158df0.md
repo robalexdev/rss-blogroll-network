@@ -1,6 +1,6 @@
 ---
 title: a flophouse is not a home
-date: "2026-05-01T05:38:49-07:00"
+date: "2026-06-10T08:40:07-07:00"
 description: ""
 params:
   feedlink: https://flophouse777.blogspot.com/feeds/posts/default
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://flophouse777.blogspot.com/: true
-  last_post_title: '"Chicken à la King"'
+  last_post_title: '"Eight Billion Stories in the Naked City"'
   last_post_description: ""
-  last_post_date: "2026-04-29T06:56:20-07:00"
-  last_post_link: https://flophouse777.blogspot.com/2026/04/chicken-la-king.html
+  last_post_date: "2026-06-10T08:40:07-07:00"
+  last_post_link: https://flophouse777.blogspot.com/2026/06/eight-billion-stories-in-naked-city.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 430e96624630d48af8594f0ff1dc62dc
+  last_post_guid: b514d10973c218161f4963a73d2bb607
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2026-04-29T12:20:30Z"
+date: "2026-06-01T08:27:43Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml

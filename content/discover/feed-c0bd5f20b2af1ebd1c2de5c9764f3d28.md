@@ -20,15 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLMs can write code, but they can't design systems
-  last_post_description: LLMs excel at writing code but collapse when asked to design
-    or reason about complex systems. They are only great at generating code, drafting
-    documentation, and accelerating prototypes.
-  last_post_date: "2025-11-23T00:00:00Z"
-  last_post_link: https://nabraj.com/blog/llms-can-code-not-generate-systems
+  last_post_title: 'React at 1,000 updates per second: Streaming market data'
+  last_post_description: Architect a high-frequency financial ticker in React by decoupling
+    WebSocket streaming from React rendering loops to eliminate main-thread lag.
+  last_post_date: "2026-06-01T00:00:00Z"
+  last_post_link: https://nabraj.com/blog/react-at-1000-updates-per-second
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 76acf292ed7f7a653bab97dd3038186d
+  last_post_guid: 8ebab5205348afede9591d2dcbaaa8d3
   score_criteria:
     cats: 0
     description: 3

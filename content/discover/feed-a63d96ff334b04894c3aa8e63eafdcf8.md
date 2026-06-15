@@ -22,13 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: WSL 2 使用 Docker 桥接模式网络访问 HTTPS 超时的解决方法
-  last_post_description: 本文介绍在 WSL 2 中使用 Docker 的桥接模式（bridge network）访问 HTTPS 时出现超时问题的解决方法。
-  last_post_date: "2026-01-21T00:00:00Z"
-  last_post_link: https://u.sb/fix-wsl-2-docker-network/
+  last_post_title: Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute
+  last_post_description: 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute
+    Raccoon。
+  last_post_date: "2026-05-19T19:12:04Z"
+  last_post_link: https://u.sb/ubuntu-upgrade-2604/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 415d5d8e492dae87fc9c406e4999eb48
+  last_post_guid: c429069007c0d468744a30ace9563632
   score_criteria:
     cats: 0
     description: 3

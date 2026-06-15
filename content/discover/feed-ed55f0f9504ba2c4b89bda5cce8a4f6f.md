@@ -10,7 +10,7 @@ params:
     https://benjamincongdon.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,16 +23,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Thoughts on Marginal Token Spend
+  last_post_title: 'To the Agents: "This place is not a place of honor"'
   last_post_description: |-
-    The rise of coding agents has made it easy for a single engineer to spend
-    thousands of dollars a day in LLM tokens. This is a new class of expense, and it
-    will change the future cost structure of
-  last_post_date: "2026-04-30T07:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2026/04/30/Thoughts-on-Marginal-Token-Spend/
+    TL;DR: “Private by obscurity” has been dissolved.
+    Internal tools often have layering boundaries that are enforced only by
+    convention. It’s natural to assume a “high trust environment”,
+  last_post_date: "2026-05-15T07:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2026/05/15/To-the-Agents-This-place-is-not-a-place-of-honor/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b75874871b1b7e58b10c70864633b0eb
+  last_post_guid: 92193c9a0b53e25ddde64a7d82d45fbc
   score_criteria:
     cats: 0
     description: 3

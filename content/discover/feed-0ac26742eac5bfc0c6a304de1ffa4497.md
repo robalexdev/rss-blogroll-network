@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Field Notes – 31/03/2026: Amical + AIWriteBook'
-  last_post_description: Today, I came across an interesting dictation tool, and a
-    very cool AI book writing application. Amical It’s somewhat differentiated from
-    some of the other dictation tools that I’ve seen. It’s
-  last_post_date: "2026-03-31T22:09:36Z"
-  last_post_link: https://abechallah.com/field-notes-31-03-2026-amical-aiwritebook/
+  last_post_title: 'Field Notes – 09/04/2026: Postbeam'
+  last_post_description: Warm prospecting tools for LinkedIn are great. And today,
+    I came across an interesting LinkedIn Warm Prospecting tool called PostBeam. My
+    impression on PostBeam is that it’s not just another
+  last_post_date: "2026-05-12T06:54:59Z"
+  last_post_link: https://abechallah.com/field-notes-09-04-2026-postbeam/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7cf17699f72a727acb8b74f68becbbf7
+  last_post_guid: 3ca470979ac56626f6c49ff003a6f224
   score_criteria:
     cats: 0
     description: 3

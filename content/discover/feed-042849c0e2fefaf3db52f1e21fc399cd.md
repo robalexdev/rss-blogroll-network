@@ -20,34 +20,31 @@ params:
   recommender: []
   categories:
   - PHP
-  - Sylius
   - Symfony
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: How to autocomplete translatable entities in Sylius
-  last_post_description: Learn how to seamlessly integrate the autocomplete feature
-    with translatable entities in Sylius by leveraging the Sylius TranslatableAutocompleteType.
-  last_post_date: "2026-05-05T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/sylius_translations_autocomplete
+  last_post_title: Symfony UX Calendar Links
+  last_post_description: ""
+  last_post_date: "2026-06-10T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/symfony_ux_calendar_links
   last_post_categories:
   - PHP
-  - Sylius
   - Symfony
   last_post_language: ""
-  last_post_guid: 50eb1717367a720d67c66b2f1012c93a
+  last_post_guid: ac7c8920f90cf17e7821b9fb3601f285
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

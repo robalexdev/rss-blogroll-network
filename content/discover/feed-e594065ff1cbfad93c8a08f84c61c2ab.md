@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2026-04-13T07:42:58Z"
+date: "2026-06-05T07:50:37Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -25,22 +25,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hexo
-  - Valine
-  - Waline
-  - 与代码
+  - 生活经验
+  - 美食
+  - 说过的话
   relme: {}
-  last_post_title: "博客评论从 Valine 迁移 到 Waline\U0001F4AC"
-  last_post_description: 前些日子收到了一个「关于 LeanCloud
-  last_post_date: "2026-04-13T07:42:58Z"
-  last_post_link: https://102no.com/2026/04/10/blog-comment-Valine-to-Waline/
+  last_post_title: 干煸藕丝
+  last_post_description: !!binary |
+    6JeV6L+Z5Liq546p5oSP5YS/77yM5Zyo5rmW5YyX55yB5YaF5ZKM5rmW5YyX55yB5aSW5o
+    Sf6KeJ5bCx5LiN5YOP5piv5ZCM5LiA56eN5qSN54mp77yM5bCk5YW25piv5ZCD6LW35p2l
+    55qE5oSf6KeJ77yM5LiA6Iis6JeV57KX57KX5YiG57G75Li644CM6ISG6JeV44CN5ZKM44
+    CM6Z2i6JeV44CN77yM6Z2i6JeV5LiA6Iis5ou/5p2l5YGa5rGk77yM57s=
+  last_post_date: "2026-06-05T07:50:37Z"
+  last_post_link: https://102no.com/2026/06/05/gan-bian-ou-si/
   last_post_categories:
-  - Hexo
-  - Valine
-  - Waline
-  - 与代码
+  - 生活经验
+  - 美食
+  - 说过的话
   last_post_language: ""
-  last_post_guid: d667cc5d8f3cf00e9c7c31d6b7c14a0f
+  last_post_guid: ef35d110ee0e6c7fb415893a16a5adce
   score_criteria:
     cats: 0
     description: 3

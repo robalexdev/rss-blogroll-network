@@ -1,6 +1,6 @@
 ---
 title: 13th Dimension, Comics, Creators, Culture
-date: "2026-05-10T15:04:53Z"
+date: "2026-06-11T11:41:29Z"
 description: Comics, Creators, Culture
 params:
   feedlink: https://13thdimension.com/feed/atom/
@@ -15,23 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Abrams ComicArts
   - COMICS HISTORY
-  - MOVIES & TV
-  - Tex Avery
+  - John Byrne
+  - Marvel
+  - PREVIEWS
+  - the X-Men
   relme: {}
-  last_post_title: 'Tex Avery&#8217;s RED HOT RIDING HOOD: Still Red Hot After More
-    Than 80 Years'
-  last_post_description: MORRISON MONDAYS! By BILL MORRISON On May 8, 1943, Metro-Goldwyn-Mayer
-    released director Tex Avery’s classic animated cartoon, Red Hot Riding Hood. The
-    feature film it was released with, an entry
-  last_post_date: "2026-05-10T15:04:53Z"
-  last_post_link: https://13thdimension.com/tex-averys-red-hot-riding-hood-still-red-hot-after-more-than-80-years/
+  last_post_title: 'SNEAK PEEK: Inside JOHN BYRNE&#8217;s Long-Awaited X-MEN: ELSEWHEN'
+  last_post_description: 'One of the most anticipated books of the year… The first
+    volume of John Byrne’s long-awaited three-part graphic novel X-Men: Elsewhen is
+    due June 23. Published through Abrams ComicArts under'
+  last_post_date: "2026-06-11T11:41:29Z"
+  last_post_link: https://13thdimension.com/sneak-peek-inside-john-byrnes-long-awaited-x-men-elsewhen/
   last_post_categories:
+  - Abrams ComicArts
   - COMICS HISTORY
-  - MOVIES & TV
-  - Tex Avery
+  - John Byrne
+  - Marvel
+  - PREVIEWS
+  - the X-Men
   last_post_language: ""
-  last_post_guid: 4d470ef2496981ac9e692baf932f5ed9
+  last_post_guid: 797253c4070576cf58c99e5b23f93e25
   score_criteria:
     cats: 0
     description: 3

@@ -1,8 +1,8 @@
 ---
 title: davewiner/hackerNewsStars
-date: Mon, 11 May 2026 01:55:09 GMT
+date: Thu, 11 Jun 2026 13:53:03 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
-  by feedlandDatabase v0.8.14.
+  by feedlandDatabase v0.8.16.
 params:
   link: https://lists.opml.org/hackerNewsStars.xml
   blogroll_id: cfe5a7ae939fff5aad389dd1866e5efb
@@ -35,7 +35,7 @@ params:
   - title: Fabien Sanglard
     description: Chronicles of software wizardry
     id: 450437068bfded92e150da9996c5c34d
-  - title: iDiallo.com
+  - title: Software and Tech stories from an Insider - iDiallo.com
     description: Throughout the years, I have decide to put all my the knowledge I
       have accumulated in my Blog. Hopefully it will serve others as well as it serves
       me.

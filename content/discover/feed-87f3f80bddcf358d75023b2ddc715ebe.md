@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Float Away"
-  last_post_description: sparkly, ethereal, jam session
-  last_post_date: "2026-05-08T00:00:00Z"
-  last_post_link: https://aaronholbrookmusic.com/song/float-away/
+  last_post_title: "\U0001F3B5 Coming Soon: Adventure Start"
+  last_post_description: nostalgic, video game, emotional, retro, synth
+  last_post_date: "2026-06-10T14:58:25Z"
+  last_post_link: https://aaronholbrookmusic.com/song/adventure-start/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7241f8b53dee0383c6497f5571c9634d
+  last_post_guid: 0004528dd459f94d64155fd36be236e0
   score_criteria:
     cats: 0
     description: 3

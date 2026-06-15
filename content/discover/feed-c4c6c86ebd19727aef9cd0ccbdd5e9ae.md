@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2026-05-11T00:02:16Z"
+date: "2026-06-11T00:02:20Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -20,18 +20,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2026-05-10
+  last_post_title: Daily Hacker News for 2026-06-10
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on May 10, 2026 which have not appeared on any previous
+    on June 10, 2026 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    EU Parliamentary Research Service calls VPNs \"a loophole that needs
-  last_post_date: "2026-05-11T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2026-05-10.html
+    FCC wants to kill burner phones by forcing telecoms to get all
+  last_post_date: "2026-06-11T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2026-06-10.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

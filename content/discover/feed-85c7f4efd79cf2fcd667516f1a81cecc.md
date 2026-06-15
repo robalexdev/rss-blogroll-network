@@ -22,23 +22,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blog
-  - tech
-  - writing
+  - ai-tools
+  - chrome-extension
+  - frontend
+  - wanxing
+  - wechat-editor
   relme: {}
-  last_post_title: 我把博客重新整理了很多遍哈哈哈
-  last_post_description: |-
-    上一篇算是重新开门。
-    这一篇，就简单说一下这个博客这次都改了什么。
-    我最早用的是 WordPress，后来也用过
-  last_post_date: "2026-05-07T00:00:00+08:00"
-  last_post_link: https://blog.zopiya.com/blog-reorganized-again-19fc343e/
+  last_post_title: 基于万形做的一些小玩意儿
+  last_post_description: 把自己的审美沉淀成一套工具之后，又做了更多开发，也尝试做了一个 MVP，但后续发现所有的想法和功能几乎与 Claude
+    Design
+  last_post_date: "2026-06-10T00:00:00+08:00"
+  last_post_link: https://blog.zopiya.com/wanxing-tools-73e886c7/
   last_post_categories:
-  - blog
-  - tech
-  - writing
+  - ai-tools
+  - chrome-extension
+  - frontend
+  - wanxing
+  - wechat-editor
   last_post_language: ""
-  last_post_guid: 202f361619bd1c4fce0dd604ba32eda7
+  last_post_guid: 689556a8e02a963d1ee381754d859b29
   score_criteria:
     cats: 0
     description: 3

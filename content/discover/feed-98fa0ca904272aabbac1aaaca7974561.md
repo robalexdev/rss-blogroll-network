@@ -1,6 +1,6 @@
 ---
 title: Mad Man with a Compiler
-date: "2025-12-05T20:36:10-08:00"
+date: "2026-05-29T18:51:59-07:00"
 description: ""
 params:
   feedlink: https://madcompiler.blogspot.com/feeds/posts/default

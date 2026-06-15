@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-05-09T13:57:58Z"
+date: "2026-06-10T08:13:22Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,20 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - devops
-  - esxi
-  - vcsa
+  - benchmark
+  - software
+  - spec
+  - speccpu2026
   relme: {}
-  last_post_title: 记一次循环依赖导致的运维小事故
-  last_post_description: 记一次循环依赖导致的运维小事故¶ 背景¶ 每次没有 UPS 或 UPS
-  last_post_date: "2026-05-07T00:00:00Z"
-  last_post_link: https://jia.je/devops/2026/05/07/ring-dependency/
+  last_post_title: SPEC CPU 2026 负载特性分析（FP Rate 篇）
+  last_post_description: 背景¶ 继 INT Rate 篇 后，本文继续分析 SPEC FP 2026 Rate 的负载特性。  测试环境与先前的
+    INT Rate 篇 相同，这里不再赘述。 推荐阅读：Evaluating SPEC CPU2026
+  last_post_date: "2026-05-29T00:00:00Z"
+  last_post_link: https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/
   last_post_categories:
-  - devops
-  - esxi
-  - vcsa
+  - benchmark
+  - software
+  - spec
+  - speccpu2026
   last_post_language: ""
-  last_post_guid: a81910d5a0cea6e8c1efde18ffbe06ce
+  last_post_guid: df1629db4bfabd77f69849dd974a30bb
   score_criteria:
     cats: 0
     description: 3

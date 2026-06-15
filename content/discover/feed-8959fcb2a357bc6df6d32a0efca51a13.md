@@ -10,7 +10,7 @@ params:
     https://grantslatton.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -21,7 +21,7 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.8.16.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -30,10 +30,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Every Man a Microservice
-  last_post_description: Contra Conway
-  last_post_date: "2026-02-08T17:54:20Z"
-  last_post_link: https://grantslatton.com/every-man-a-microservice
+  last_post_title: Solving the board game Quoridor
+  last_post_description: Algorithmic and optimization playtime
+  last_post_date: "2026-05-25T20:01:38Z"
+  last_post_link: https://grantslatton.com/solving-quoridor
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 13952ba2bb7d735564f7051406bac25f

@@ -20,15 +20,15 @@ params:
     https://72.peteashton.com/: true
     https://notes.peteashton.com/: true
     https://social.coop/@pete: true
-  last_post_title: Notes and links from Sun 10 May
+  last_post_title: Notes and links from Wed 10 June
   last_post_description: |-
     Status:
-    Well, this is the first time in a while I’ve come to my text document at the end of the day to find it completely empty. It seems I read, listened and saw nothing I felt was worth noting
-  last_post_date: "2026-05-10T21:42:16+01:00"
-  last_post_link: https://notes.peteashton.com/2026/05/10/notes-and-links-from-sun.html
+    Was determined to resume pottering today, a medically prescribed activity which keeps me moving in a non-fatiguing way. In other words, get off the fucking sofa. The best pottering activity
+  last_post_date: "2026-06-10T20:15:02+01:00"
+  last_post_link: https://notes.peteashton.com/2026/06/10/notes-and-links-from-wed.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c9ff2b81924291f9e0189b953911781f
+  last_post_guid: 837a11db20dd826f4ceccfb235f27fac
   score_criteria:
     cats: 0
     description: 0

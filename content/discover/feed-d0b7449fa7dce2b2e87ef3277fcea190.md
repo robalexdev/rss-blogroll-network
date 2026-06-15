@@ -17,32 +17,34 @@ params:
   recommender: []
   categories:
   - Comics
-  - DC Minis
+  - Dark Science
+  - Stories
   relme: {}
-  last_post_title: 'DC Minis #23 – SenCon 2026'
+  last_post_title: 'Dark Science #185 – Twilight’s End'
   last_post_description: |-
-    New to Dresden Codak? These mini-comics alternate with my MEGA-COMICS! The current storyline is Dark Science and you can catch up right here.  
-    The post DC Minis #23 – SenCon 2026 appeared first
-  last_post_date: "2026-05-06T00:19:57Z"
-  last_post_link: https://dresdencodak.com/2026/05/05/dc-minis-23-sencon-2026/
+    Happy Pride!
+    The post Dark Science #185 – Twilight’s End appeared first on Dresden Codak.
+  last_post_date: "2026-06-08T06:10:18Z"
+  last_post_link: https://dresdencodak.com/2026/06/07/dark-science-185-twilights-end/
   last_post_categories:
   - Comics
-  - DC Minis
+  - Dark Science
+  - Stories
   last_post_language: ""
-  last_post_guid: 8d2733a2e6569fb3393c1340d7f32417
+  last_post_guid: 62a43615fb75301a941bf34b518b6110
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Ellie's Notes
-date: "2026-02-16T00:00:00Z"
+date: "2026-05-13T00:00:00Z"
 description: Personal site of Ellie Huxtable
 params:
   feedlink: https://ellie.wtf/index.xml
@@ -29,13 +29,13 @@ params:
     https://ellie.wtf/: true
     https://github.com/ellie: true
     https://hachyderm.io/@ellie: true
-  last_post_title: Spegel for p2p docker registries in k3s
+  last_post_title: Advancing bookmarks with jj
   last_post_description: ""
-  last_post_date: "2026-02-16T00:00:00Z"
-  last_post_link: https://ellie.wtf/notes/spegel/
+  last_post_date: "2026-05-13T00:00:00Z"
+  last_post_link: https://ellie.wtf/notes/jj-bookmark-advance/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ae71a6c3b9a0476befb22013e2918f0f
+  last_post_guid: b3010c7b497c38f78c0d131493139f2e
   score_criteria:
     cats: 0
     description: 3

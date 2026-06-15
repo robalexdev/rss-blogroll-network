@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-05-03T15:12:21-07:00"
+date: "2026-05-29T18:44:33-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -19,6 +19,7 @@ params:
   - 1-18-08
   - "2001"
   - "300"
+  - 35mm
   - 3D
   - 5by5
   - 87th Academy Awards
@@ -241,6 +242,7 @@ params:
   - correcting the record
   - credits
   - dedioptered
+  - digital
   - dolly zoom
   - dr. weil
   - drone
@@ -287,6 +289,7 @@ params:
   - ratatouille
   - ratings
   - recap montage
+  - scan
   - sequels
   - shouldabeen
   - sound design
@@ -308,14 +311,14 @@ params:
   - writing
   - zune
   relme: {}
-  last_post_title: What Does “IMAX” Mean?
+  last_post_title: The "Mad Men" in 4K on HBO Max Debacle
   last_post_description: ""
-  last_post_date: "2026-04-07T14:10:50-07:00"
-  last_post_link: https://fxrant.blogspot.com/2026/04/what-does-imax-mean.html
+  last_post_date: "2026-05-24T12:40:52-07:00"
+  last_post_link: https://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html
   last_post_categories:
-  - IMAX
+  - Mad Men
   last_post_language: ""
-  last_post_guid: cdda316e2033cdd7b8d5273ae7556c55
+  last_post_guid: 3b4719ba786c5cc970964caec799eb2a
   score_criteria:
     cats: 5
     description: 3

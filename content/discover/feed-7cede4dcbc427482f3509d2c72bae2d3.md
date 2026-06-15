@@ -13,7 +13,7 @@ params:
   - title: Wikidata Web Feed Export
     description: An export of all web feeds seen in the Wikidata dataset
     id: c5982e7d50e6132f3bca6cb24d3d0c18
-  - title: Alex Zee Comedy Blogroll
+  - title: Newsboat - Exported Feeds
     description: ""
     id: ec90496862be28875cc54bc36aa37ca7
   - title: Blogs read by Marco d'Itri
@@ -31,13 +31,16 @@ params:
   - title: Dan Q's Blogroll
     description: ""
     id: 42e729b4ed4d139b08eaa2f55f3a9b49
+  - title: FeedLand hotlist in OPML
+    description: The most popular feeds on FeedLand, as an OPML subscription list.
+    id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Blogroll
     description: ""
@@ -74,13 +77,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Crystal Gazing
+  last_post_title: Beam Pipe
   last_post_description: ""
-  last_post_date: "2026-05-08T04:00:00Z"
-  last_post_link: https://xkcd.com/3243/
+  last_post_date: "2026-06-10T04:00:00Z"
+  last_post_link: https://xkcd.com/3257/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b908907baee41ea6bdf735e1176ce69
+  last_post_guid: c4f72c27a30d28957b1b6656d10df04e
   score_criteria:
     cats: 0
     description: 3

@@ -19,37 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - News
-  - Real science
-  - Reflections
-  - Theoretical highlights
+  - Uncategorized
   relme: {}
-  last_post_title: How I learned to stop worrying and…no, I’ve always adored entropy
-  last_post_description: When I was pursuing a PhD at Caltech, so was my friend Jeremy.
-    He used to throw a dinner party every few months. The email invitations welcomed
-    friends to partake of his cooking and, if we wished, to
-  last_post_date: "2026-04-13T00:06:06Z"
-  last_post_link: https://quantumfrontiers.com/2026/04/12/how-i-learned-to-stop-worrying-andno-ive-always-adored-entropy/
+  last_post_title: Nicole’s guide to handling failure and rejection
+  last_post_description: It’s happening.  Your inbox registers an email from the chair
+    of a faculty-hiring committee. With trembling fingers, you click on the message.
+    “We’ve been grateful for the opportunity to learn
+  last_post_date: "2026-05-21T00:20:32Z"
+  last_post_link: https://quantumfrontiers.com/2026/05/20/nicoles-guide-to-handling-failure-and-rejection/
   last_post_categories:
-  - News
-  - Real science
-  - Reflections
-  - Theoretical highlights
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: e0756a971a6b8a94f0c935d7d8b2dbd7
+  last_post_guid: d9815aef3a2eee8f8febe309fa7a869c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

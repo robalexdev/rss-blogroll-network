@@ -11,7 +11,7 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,16 +34,15 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Connections Band Names
-  last_post_description: 'When playing the New York Times Connections game, it occurred
-    to me that it would be a good band name generator. This day in particular had
-    some great band names: I’d go see Hobo Mosey opening for'
-  last_post_date: "2026-04-25T13:38:37Z"
-  last_post_link: https://actsofvolition.com/2026/04/connections-band-names/
+  last_post_title: AI floss
+  last_post_description: Saying “I always review what the AI gives me and I don’t
+    let it write for me” is the new “yes, dentist, I do floss every day.”
+  last_post_date: "2026-05-11T13:28:16Z"
+  last_post_link: https://actsofvolition.com/2026/05/ai-floss/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 7603aefb88b3e1c5c97866d493f0feee
+  last_post_guid: bd5d739899d836baca2efbce3c56a433
   score_criteria:
     cats: 0
     description: 0

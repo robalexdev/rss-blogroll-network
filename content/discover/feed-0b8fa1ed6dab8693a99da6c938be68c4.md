@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-05-11T07:37:37+01:00"
+date: "2026-06-11T19:52:14+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,15 +17,17 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: That was Web Day Out
-  last_post_description: 'On March 12th, 1989, Tim Berners-Lee submitted Information
-    Management: A Proposal. This would form the basis of what became the World Wide
-    Web.On March 12th, 2026, Web Day Out happened in Brighton.'
-  last_post_date: "2026-03-26T11:55:00Z"
-  last_post_link: https://clearleft.com/thinking/that-was-web-day-out
+  last_post_title: 'Announcing Clear Insight: A conference about understanding people
+    more deeply'
+  last_post_description: |-
+    A conference for UX researchers who want to become better at understanding people, not just better at running research.
+
+          Over the past two years, I’ve been running the Bridging the gap
+  last_post_date: "2026-05-29T15:58:00+01:00"
+  last_post_link: https://clearleft.com/thinking/announcing-clear-insight-a-conference-about-understanding-people-more-deeply
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 27cc9062c10d94a676c1be1b02de3a6a
+  last_post_guid: a8f91df9d8be1fc82f64f0f38ca8343c
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Giovanni Cappellotto's Blog
-date: "2026-05-01T13:21:00Z"
+date: "2026-06-01T17:42:07Z"
 description: ""
 params:
   feedlink: https://giovanni.curlybrackets.it/atom.xml

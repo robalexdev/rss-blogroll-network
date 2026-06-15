@@ -10,7 +10,7 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -36,16 +36,16 @@ params:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: Google Sign-in Popup Blocker
-  last_post_description: "zkbro explains in a post how to configure Librewolf.\n\tOne
-    of the mentioned add-ons catched my eye: Google Sign-in Popup Blocker\n\tThis
-    should block the annoying sign-in with Google dialogs that popup"
-  last_post_date: "2026-05-09T22:58:11+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/05/09/Google-Sign-in-Popup-Blocker.html?utm_medium=rss
+  last_post_title: DuckDuckGo No-AI Search
+  last_post_description: "Volker explains in a post how he uses the Brave Browser.\n\tThe
+    DuckDuckGo No-AI Search extension sounds intrigueing and thus I installed it for
+    my Brave Browser.\n\tWill see how this performs in the"
+  last_post_date: "2026-06-11T08:12:15+02:00"
+  last_post_link: https://blog.x-way.org/Misc/2026/06/11/DuckDuckGo-No-AI-Search.html?utm_medium=rss
   last_post_categories:
   - Misc
   last_post_language: ""
-  last_post_guid: ad471c73d7a8adf079b9466c920f30ad
+  last_post_guid: 6d985a2f21ce06cfa065d271408ac676
   score_criteria:
     cats: 0
     description: 3

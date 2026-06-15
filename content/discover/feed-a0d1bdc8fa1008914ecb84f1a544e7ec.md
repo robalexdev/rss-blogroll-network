@@ -10,7 +10,7 @@ params:
     https://jaapgrolleman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,31 +22,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Essays
+  - Books
+  - Movies
+  - USA
   relme: {}
-  last_post_title: Clothes Making Clouds
-  last_post_description: There are so many ways to define Shanghai, yet a few popular
-    icons do a lot of the talking. As the international metropolis and a symbol of
-    China’s rising economic power, there’s the Lujiazui
-  last_post_date: "2026-05-05T05:32:02Z"
-  last_post_link: https://jaapgrolleman.com/clothes-making-clouds/
+  last_post_title: Revisiting Columbine
+  last_post_description: Growing up in the Netherlands, it’s not immediately obvious
+    (even to myself) that the history of the United States is also partly mine, but
+    through TV series and movies — as well as the news —
+  last_post_date: "2026-06-08T18:20:09Z"
+  last_post_link: https://jaapgrolleman.com/elephant-a-mothers-reckoning-review/
   last_post_categories:
-  - Essays
+  - Books
+  - Movies
+  - USA
   last_post_language: ""
-  last_post_guid: 4b7e5ad654693200724c1ed3a2b2a3ad
+  last_post_guid: f2930274279ab397684e5663ce1a8b9a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

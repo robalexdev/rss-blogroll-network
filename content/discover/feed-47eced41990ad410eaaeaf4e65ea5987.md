@@ -22,18 +22,18 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: Cloud intro
+  last_post_title: the great shrinkening
   last_post_description: |-
-    What is the cloud ?
-    essentially a bunch of server running in a random datacenter.
+    When traced through literary history, there’s a clear trend of smaller and smaller books,
 
-
-    These racks and racks of servers can run cohesively together as one simple computer using the Internet. by
-  last_post_date: "2026-04-28T00:00:00Z"
-  last_post_link: https://suriya.cc/tech/tinkering/cloud/
+    War and Peace (Leo Tolstoy, 1869): ~587,000 words.
+    Ulysses (James Joyce, 1922): ~265,000 words.
+    Harry
+  last_post_date: "2026-05-30T00:00:00Z"
+  last_post_link: https://suriya.cc/essays/shrinkening/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 17b6fcb5a91b50bfc2180d90bb50bbad
+  last_post_guid: 640da99a078a54c8724a179f470b4305
   score_criteria:
     cats: 0
     description: 3

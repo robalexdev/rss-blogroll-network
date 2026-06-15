@@ -1,6 +1,6 @@
 ---
 title: Daniel De Laney
-date: "2026-05-05T20:49:29Z"
+date: "2026-05-27T19:41:04Z"
 description: I turn ambiguous technical problems into shipped products.
 params:
   feedlink: https://danieldelaney.net/feed.xml
@@ -18,17 +18,16 @@ params:
   categories:
   - blog
   relme: {}
-  last_post_title: I built a timer I can’t fail to set
-  last_post_description: |-
-    Have you ever gotten to the end of a long work day and realized you’re no closer to your goals? I have.
-
-    Sure, I was doing a lot of stuff. But I wasn’t pausing to ask whether I was doing the
-  last_post_date: "2025-12-02T00:00:00Z"
-  last_post_link: http://danieldelaney.net/timer/
+  last_post_title: Linux was accidentally designed for agents
+  last_post_description: I recently built a home theater PC on Linux. In years gone
+    by this would have been much harder than doing the same thing on Windows or macOS.
+    Today it’s easier, because my agent can do it without
+  last_post_date: "2026-05-19T00:00:00Z"
+  last_post_link: https://danieldelaney.net/fourth-era/
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: d6c233923e2996f189ec4d7d7a819cc6
+  last_post_guid: 3060b070014095cd7376e64b0a547b1d
   score_criteria:
     cats: 0
     description: 3

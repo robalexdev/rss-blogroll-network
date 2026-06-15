@@ -24,14 +24,14 @@ params:
   categories:
   - Linux & homelab
   relme: {}
-  last_post_title: 虚拟机检测绕过和nvme性能优化的libvirt配置
-  last_post_description: 免责声明：我只是为了在自建的云游戏串流虚拟机上进行远程游戏，用虚拟机是因为All-in-boom宿主机还要跑别…
-  last_post_date: "2026-01-23T19:36:41Z"
-  last_post_link: https://wusiyu.me/anti-cheat-virtual-machine-bypass-nvme-performance-optimize/
+  last_post_title: 让UniFi中的拓扑图正确显示第三方交换机和虚拟机
+  last_post_description: 众所周知买UniFi一半的价钱是为了这张拓扑图。。。但前提是你得买官方的AP和死贵的交换机（同样的RTL930
+  last_post_date: "2026-06-09T19:21:32Z"
+  last_post_link: https://wusiyu.me/unifi-topology-thirdparty-switch/
   last_post_categories:
   - Linux & homelab
   last_post_language: ""
-  last_post_guid: ac3ed6b2b4132c641b8719f557847876
+  last_post_guid: b85538d93c9612010e59546a025a17e9
   score_criteria:
     cats: 0
     description: 3

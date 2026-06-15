@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-05-10T23:07:00+01:00"
+date: "2026-06-11T18:15:59+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -467,16 +467,16 @@ params:
   - work
   - writing
   relme: {}
-  last_post_title: About speaking English
+  last_post_title: About the structural monotonists
   last_post_description: ""
-  last_post_date: "2026-05-06T06:38:20+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/05/about-speaking-english.html
+  last_post_date: "2026-06-11T18:15:59+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/06/about-structural-monotonists.html
   last_post_categories:
-  - film
-  - language
-  - race
+  - AI
+  - blogging
+  - words
   last_post_language: ""
-  last_post_guid: fb0b3e300a67b1b89bad8d50361c3d8d
+  last_post_guid: c303b969978f7ff6b7ce8925cc72d75e
   score_criteria:
     cats: 5
     description: 3

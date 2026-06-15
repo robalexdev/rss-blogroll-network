@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 卡了菜渣
-  last_post_description: Kobe Bryant 在 Jimmy Kimmel 的節目中說過一段話：
-  last_post_date: "2026-05-11T00:01:00Z"
-  last_post_link: https://wiwi.blog/blog/something-in-your-teeth
+  last_post_title: 不想拿東西
+  last_post_description: 我很不喜歡拿著或戴著東西。不覺得身上多一樣東西就多一個煩惱嗎？
+  last_post_date: "2026-06-11T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/hands-free
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 993debdffc26a8b04a5087e5905e66bb
+  last_post_guid: 44f13d981dcf1acee36e2a1df59f9113
   score_criteria:
     cats: 0
     description: 3

@@ -19,13 +19,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Claude Code 完美接入 Ollama 指南
-  last_post_description: 作为 Anthropic 官方推出的命令行编码助手（coding assistant），Claude Code
-  last_post_date: "2026-01-22T17:56:41+08:00"
-  last_post_link: https://data4fun.cc/blog/2026/01/post-20260122/
+  last_post_title: 模型 API 地址配置管理
+  last_post_description: |-
+    注册使用过的第三方中转站太多了，如何管理成了一个问题。
+    今天调研使用了一下 cc switch，感觉还可以。
+    下载地址：https://github.com/farion1231/cc
+  last_post_date: "2026-05-28T11:33:02+08:00"
+  last_post_link: https://data4fun.cc/blog/2026/05/post-20260528/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08028ca2d1f02198c2218fcbfea04ef7
+  last_post_guid: 65ae2da615ed06d4173ee8efdc10be78
   score_criteria:
     cats: 0
     description: 3

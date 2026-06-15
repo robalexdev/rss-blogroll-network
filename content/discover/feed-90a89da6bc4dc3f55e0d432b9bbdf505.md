@@ -11,7 +11,7 @@ params:
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -47,29 +47,27 @@ params:
   - https://chrisburnell.com/feed.xml
   - https://simonbc.com/feed.xml
   categories:
-  - book
-  - fantasty
-  - gothic
-  - review
-  - sci-fi
-  - sciencefiction
+  - amsterdam
+  - cssday
+  - events
+  - speaking
+  - talks
   relme: {}
-  last_post_title: Gideon The Ninth by Tamsyn Muir
+  last_post_title: Amsterdamming
   last_post_description: |-
-    Lesbian necromancers in space. That’s the usual pitch for Gideon The Ninth and it’s not wrong. Though there’s a lot more necromancy than space or lesbianism.
+    I’m heading to Amsterdam for CSS Day. It’s one of those events I try my best to get to every single year. I have no doubt that this year will be brilliant as usual.
 
-    The book begins in an environment
-  last_post_date: "2026-05-09T23:31:24Z"
-  last_post_link: https://adactio.com/journal/22560
+    There’s another event the
+  last_post_date: "2026-06-08T15:53:53Z"
+  last_post_link: https://adactio.com/journal/22595
   last_post_categories:
-  - book
-  - fantasty
-  - gothic
-  - review
-  - sci-fi
-  - sciencefiction
+  - amsterdam
+  - cssday
+  - events
+  - speaking
+  - talks
   last_post_language: ""
-  last_post_guid: 11bb39a6ec91f1fb6bc968a64ca40edf
+  last_post_guid: 750ab58bd466888b7a4752490cf56a38
   score_criteria:
     cats: 0
     description: 3

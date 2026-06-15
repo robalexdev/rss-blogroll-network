@@ -28,32 +28,34 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Raspberry Pi Connect
+  - Industry
+  - Raspberry Pi Podcast
   relme: {}
-  last_post_title: 'Raspberry Pi Connect: Device tags, required 2FA, and a mobile
-    keyboard'
+  last_post_title: 'Small device, big business: can a Raspberry Pi replace your desktop
+    PC?'
   last_post_description: |-
-    Tag and filter your devices, require two-factor authentication for your organisation, and type from a phone keyboard.
-    The post Raspberry Pi Connect: Device tags, required 2FA, and a mobile keyboard
-  last_post_date: "2026-05-06T08:05:05Z"
-  last_post_link: https://www.raspberrypi.com/news/raspberry-pi-connect-device-tags-required-2fa-and-a-mobile-keyboard/
+    The latest episode of the Raspberry Pi Podcast reveals how our small devices support big business at home and at work
+    The post Small device, big business: can a Raspberry Pi replace your desktop PC?
+  last_post_date: "2026-06-10T12:20:07Z"
+  last_post_link: https://www.raspberrypi.com/news/small-device-big-business-can-a-raspberry-pi-replace-your-desktop-pc/
   last_post_categories:
-  - Raspberry Pi Connect
+  - Industry
+  - Raspberry Pi Podcast
   last_post_language: ""
-  last_post_guid: c9e54237121f44137f293ce0dfb55508
+  last_post_guid: 094c5835f823277364bb51afe99cd17c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

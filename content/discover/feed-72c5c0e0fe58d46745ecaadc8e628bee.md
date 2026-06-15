@@ -19,17 +19,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Open Source World
+  - Legislation
   relme: {}
-  last_post_title: I Made the "Next-Level" Camera and I love it
-  last_post_description: There's A LOT of explaining to do if I want you to understand
-    what's happening here. Hold tight.
-  last_post_date: "2026-04-16T17:16:37Z"
-  last_post_link: https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/
+  last_post_title: Android prefers vibecoders over open-source developers
+  last_post_description: Google wants apps to be AI-generated and shared between friends,
+    whilst locking down the developer environment.
+  last_post_date: "2026-05-28T14:40:24Z"
+  last_post_link: https://thelibre.news/android-prefers-vibecoders-over-open-source-developers/
   last_post_categories:
-  - Open Source World
+  - Legislation
   last_post_language: ""
-  last_post_guid: 5929b08eeaee70ae554c67f04fcd0f6b
+  last_post_guid: ddde98b5d3d2de9e1692f375f5d926f9
   score_criteria:
     cats: 0
     description: 3

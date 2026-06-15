@@ -1,6 +1,6 @@
 ---
 title: Martin Drashkov
-date: "2026-03-11T22:46:27-04:00"
+date: "2026-05-18T09:40:49-04:00"
 description: ""
 params:
   feedlink: https://martin.drashkov.com/atom.xml

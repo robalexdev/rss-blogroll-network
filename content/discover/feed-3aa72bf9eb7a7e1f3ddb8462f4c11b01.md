@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-03-31T12:14:38Z"
+date: "2026-05-27T10:57:26Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What About Mnemonics?
+  last_post_title: Let’s Roll the Dice to Have Awesome Ideas
   last_post_description: ""
-  last_post_date: "2026-03-31T12:14:38Z"
-  last_post_link: https://zettelkasten.de/posts/what-about-mnemonics/
+  last_post_date: "2026-05-27T10:57:26Z"
+  last_post_link: https://zettelkasten.de/posts/strategic-gambling-valuable-ideas/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a44ee5b2f882f984d6cb634aee4308a0
+  last_post_guid: a34b528e75c76b3b353392171158a438
   score_criteria:
     cats: 0
     description: 0

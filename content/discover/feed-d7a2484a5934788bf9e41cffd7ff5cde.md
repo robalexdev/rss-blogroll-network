@@ -10,7 +10,7 @@ params:
     https://nemanjatrifunovic.substack.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why IBM Turned to Microsoft for BASIC
-  last_post_description: Not Because of Bill Gates’ Mother
-  last_post_date: "2026-04-11T19:36:42Z"
-  last_post_link: https://nemanjatrifunovic.substack.com/p/why-ibm-turned-to-microsoft-for-basic
+  last_post_title: Inside MP/M's Process Dispatcher
+  last_post_description: A look at internal design and source code of the most popular
+    8-bit multitasking OS
+  last_post_date: "2026-05-31T19:34:56Z"
+  last_post_link: https://nemanjatrifunovic.substack.com/p/inside-mpms-process-dispatcher
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 520cd2019e790b3c6a536111964111bb
+  last_post_guid: c8a6745a4030e7d8f8519c04d1dcca71
   score_criteria:
     cats: 0
     description: 3

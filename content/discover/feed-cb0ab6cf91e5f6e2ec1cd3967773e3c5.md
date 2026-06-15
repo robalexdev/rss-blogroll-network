@@ -1,6 +1,6 @@
 ---
 title: 嵌入式工程猫的博客
-date: "2024-10-06T14:44:05Z"
+date: "2026-05-20T06:58:31Z"
 description: 嵌入式工程猫的博客
 params:
   feedlink: https://blog.vvzero.com/atom.xml
@@ -21,20 +21,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - Nginx
-  - 攻玉计划
+  - Moonlight
+  - TECHNOLOGY
+  - 树莓派
   relme: {}
-  last_post_title: 维护 Nginx 时，什么时候应该用 reload，什么时候应该用 restart？
-  last_post_description: 本文是“攻玉计划”的一部分，翻译自 https
-  last_post_date: "2024-10-06T14:44:05Z"
-  last_post_link: https://blog.vvzero.com/2024/10/06/when-to-restart-and-not-reload-nginx/
+  last_post_title: 使用树莓派 4 和 Moonlight 串流游戏的实践
+  last_post_description: 家庭内网，串流打游戏是真需求，电脑放书房，在客厅电视玩，真的爽。
+  last_post_date: "2026-05-20T06:58:31Z"
+  last_post_link: https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/
   last_post_categories:
-  - Linux
-  - Nginx
-  - 攻玉计划
+  - Moonlight
+  - TECHNOLOGY
+  - 树莓派
   last_post_language: ""
-  last_post_guid: bf3a36d3364663f35a7c69744dd6264f
+  last_post_guid: 8209409b5643a92553b8526b47e2cc14
   score_criteria:
     cats: 0
     description: 3

@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I don’t think we are close to “AI scientists”
-  last_post_description: Today's AI agents are not designed to extract deep insights
-    from new observations.
-  last_post_date: "2026-05-06T20:31:32Z"
-  last_post_link: https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists
+  last_post_title: Anthropic has caught up to OpenAI in image understanding
+  last_post_description: But neither one is all that good.
+  last_post_date: "2026-06-10T19:21:18Z"
+  last_post_link: https://www.understandingai.org/p/anthropic-has-caught-up-to-openai
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 193f2fa04e21bae4f726775e594fb7e0
+  last_post_guid: fce0e9b01a942d5f21651acade80f559
   score_criteria:
     cats: 0
     description: 3

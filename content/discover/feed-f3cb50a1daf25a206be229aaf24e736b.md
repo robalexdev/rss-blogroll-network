@@ -24,13 +24,14 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: AI Agent折腾记（OpenClaw / Hermes Agent）
-  last_post_description: AI 智能体（AI Agent）是一种能够感知环境、进行推理并自主行动以实现特定目标的智能系统。
-  last_post_date: "2026-04-14T22:12:17+08:00"
-  last_post_link: https://liudon.com/posts/deploy-ai-agent/
+  last_post_title: 2026 音色克隆方案对比：IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 部署与实测
+  last_post_description: 系统对比 IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 四大音色克隆方案，详解部署步骤、测试方法、硬件要求、CPU
+    支持、优缺点与选型建议。
+  last_post_date: "2026-05-18T15:19:23+08:00"
+  last_post_link: https://liudon.com/posts/voice-cloning-solution-comparison/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72827f2665277e39196820875c3bba61
+  last_post_guid: 5f35773f508118da7923c3b93ee53553
   score_criteria:
     cats: 0
     description: 3

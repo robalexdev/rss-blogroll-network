@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-05-07T08:26:22+01:00"
+date: "2026-06-09T09:12:10+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,7 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -44,6 +44,7 @@ params:
   - ChemMedChem
   - ChemRxiv
   - Collander
+  - CompChem
   - Curitiba
   - DDT
   - DFT
@@ -226,19 +227,20 @@ params:
   relme:
     https://fbdd-lit.blogspot.com/: true
     https://www.blogger.com/profile/12180360326821860667: true
-  last_post_title: Comparing ML models in small molecule drug discovery
+  last_post_title: Property Forecast Index Validated
   last_post_description: ""
-  last_post_date: "2026-04-28T07:33:47+01:00"
-  last_post_link: https://fbdd-lit.blogspot.com/2026/04/comparing-ml-models-in-small-molecule.html
+  last_post_date: "2026-06-09T09:12:10+01:00"
+  last_post_link: https://fbdd-lit.blogspot.com/2025/04/property-forecast-index-validated.html
   last_post_categories:
-  - AI
-  - JCIM
-  - ML
-  - QSAR
-  - QSPR
-  - cheminformatics
+  - ADME
+  - BEG
+  - PFI
+  - SFI
+  - drug design
+  - metrics
+  - pour encourager les autres
   last_post_language: ""
-  last_post_guid: 125961041dd77e9497e9380c39dee4f2
+  last_post_guid: e2a254a44cc937a1a8df902660706f7b
   score_criteria:
     cats: 5
     description: 3

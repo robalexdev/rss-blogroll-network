@@ -31,15 +31,15 @@ params:
     https://settheory4themasses.blogspot.com/: true
     https://www.blogger.com/profile/01336528462208811726: true
     https://zaenenfest.blogspot.com/: true
-  last_post_title: Problems, Problems Everywhere
-  last_post_description: There’s a particular kind of mathematical paper that begins
-    with a modest goal and ends up quietly connecting half a century of ideas across
-    logic, category theory, and the philosophy of
-  last_post_date: "2026-04-30T00:22:00Z"
-  last_post_link: https://logic-forall.blogspot.com/2026/04/problems-problems-everywhere.html
+  last_post_title: Synthetic Mathematics in the Amazon
+  last_post_description: Talking about Synthetic Mathematics in the middle of the
+    Amazon rainforest felt slightly surreal.Parintins is famous for the Festival do
+    Boi-Bumbá, for the river, for the forest, for the
+  last_post_date: "2026-05-31T03:01:59Z"
+  last_post_link: https://logic-forall.blogspot.com/2026/05/synthetic-mathematics-in-amazon.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d57abff18c0183b6df1a7a6163d3f553
+  last_post_guid: 51baa1ceca0f8af3bc1a428e9a4cc11e
   score_criteria:
     cats: 0
     description: 3

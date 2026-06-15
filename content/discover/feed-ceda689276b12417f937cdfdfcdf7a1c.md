@@ -11,32 +11,35 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI Agents
-  - Developer tools
-  - Open Source
+  - AI
+  - AI Engineering
+  - Software Development
+  - Tech Careers
   relme: {}
-  last_post_title: Why 157,000 developers are hedging against Anthropic with OpenCode
+  last_post_title: '“AI is disrupting everything”: Where do entry-level tech jobs
+    go now?'
   last_post_description: |-
-    Anthropic spent its biggest developer day of the year showing what a managed coding harness looks like at full scale.
-    The post Why 157,000 developers are hedging against Anthropic with OpenCode
-  last_post_date: "2026-05-10T16:36:15Z"
-  last_post_link: https://thenewstack.io/anthropic-claudecode-opencode-split/
+    The impact AI is making on the world’s workforce is being felt across every industry, but perhaps nowhere more acutely
+    The post “AI is disrupting everything”: Where do entry-level tech jobs go
+  last_post_date: "2026-06-11T18:34:19Z"
+  last_post_link: https://thenewstack.io/ai-junior-developer-hiring/
   last_post_categories:
-  - AI Agents
-  - Developer tools
-  - Open Source
+  - AI
+  - AI Engineering
+  - Software Development
+  - Tech Careers
   last_post_language: ""
-  last_post_guid: 5e53ba5e026335193dc5a6babf8d60d8
+  last_post_guid: 4e98bf8bbdbe58762c51ecdf18e4332a
   score_criteria:
     cats: 0
     description: 0

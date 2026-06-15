@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-03-16T12:56:30Z"
+date: "2026-05-14T14:34:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -26,14 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'The two worlds of programming: why developers who make the same
-    observations about LLMs come to opposite conclusions'
+  last_post_title: The old world of tech is dying and the new cannot be born
   last_post_description: ""
-  last_post_date: "2026-03-16T12:56:30Z"
-  last_post_link: https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/
+  last_post_date: "2026-05-14T14:34:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6d218ab0fe760493e0d459c509932e2a
+  last_post_guid: 6fea4dad4edcacfa34bdf114c69ec86f
   score_criteria:
     cats: 0
     description: 3

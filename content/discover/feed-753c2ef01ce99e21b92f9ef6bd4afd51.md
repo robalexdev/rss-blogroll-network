@@ -1,6 +1,6 @@
 ---
 title: Lara Callender Hogan
-date: "2026-04-22T21:47:05Z"
+date: "2026-05-29T19:06:30Z"
 description: Lara Hogan, Management Coach and Trainer
 params:
   feedlink: https://larahogan.me/feed.xml

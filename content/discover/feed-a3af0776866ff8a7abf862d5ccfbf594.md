@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: tree-style invite systems reduce AI slop
+  last_post_title: omarchy is not a distro
   last_post_description: ""
-  last_post_date: "2026-03-14T00:00:00Z"
-  last_post_link: https://abyss.fish/tree-style_invite_systems_reduce_AI_slop
+  last_post_date: "2026-05-23T00:00:00Z"
+  last_post_link: https://abyss.fish/your_dotfiles_are_not_a_distro
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 49b4db1d55a05cd4fd2df738e69a127d
+  last_post_guid: 96435bcc471d5caa338686410645be65
   score_criteria:
     cats: 0
     description: 0

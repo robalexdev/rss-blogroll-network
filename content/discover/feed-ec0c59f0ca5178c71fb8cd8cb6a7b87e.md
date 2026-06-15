@@ -1,6 +1,6 @@
 ---
 title: I Hear of Sherlock Everywhere
-date: "2026-05-11T02:21:00-04:00"
+date: "2026-06-06T11:47:30-04:00"
 description: The definitive Sherlock Holmes show and website at the intersection of
   news and popular culture.
 params:
@@ -167,30 +167,26 @@ params:
   - travel
   - video
   relme: {}
-  last_post_title: Remembering Michael Pennington
+  last_post_title: New Series on Professor Moriarty Is in the Works
   last_post_description: ""
-  last_post_date: "2026-05-11T02:21:00-04:00"
-  last_post_link: https://feeds.feedblitz.com/~/955723610/0/ihearofsherlock.html
-  last_post_categories:
-  - News
-  - audio
-  - blog
-  - television
+  last_post_date: "2026-06-01T14:21:00-04:00"
+  last_post_link: https://feeds.feedblitz.com/~/957621278/0/ihearofsherlock.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 072396f7dd066c07ade23010acc6ba79
+  last_post_guid: 44ace24ace064b1017c3d75da6f409bd
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 25
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,7 @@ params:
     https://hatchingcatnyc.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,32 +22,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Albert Bierstadt
   - Cat Stories
-  - Charlotte Augusta Astor
-  - Fifth Avenue
-  - Hallet Alsop Borrowe
-  - James Coleman Drayton
-  - Mary Bell
+  - Cats of Old New York
   - New York City History
   relme: {}
-  last_post_title: '1894: The Astor Kitten Who Caused a Stir at 320 Fifth Avenue'
-  last_post_description: When a little black and white kitten fell from a ledge on
-    Fifth Avenue, everyone who witnessed the event placed the blame on the ASPCA and
-    the fire department. We’ll never know who was at fault,
-  last_post_date: "2026-05-07T01:59:33Z"
-  last_post_link: https://hatchingcatnyc.com/2026/05/07/astor-kitten-320-fifth-avenue/?utm_source=rss&utm_medium=rss&utm_campaign=astor-kitten-320-fifth-avenue
+  last_post_title: Hatching Cat Talks Grimalkins on the Gilded Gentleman
+  last_post_description: 'A few months ago, I had the pleasure of being the guest
+    of Carl Raymond on his popular podcast, The Gilded Gentleman. Carl started his
+    podcast in 2021, and it is now at an impressive #21 on Apple’s'
+  last_post_date: "2026-05-22T08:00:00Z"
+  last_post_link: https://hatchingcatnyc.com/2026/05/22/hatching-cat-nyc-gilded-gentleman-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=hatching-cat-nyc-gilded-gentleman-podcast
   last_post_categories:
-  - Albert Bierstadt
   - Cat Stories
-  - Charlotte Augusta Astor
-  - Fifth Avenue
-  - Hallet Alsop Borrowe
-  - James Coleman Drayton
-  - Mary Bell
+  - Cats of Old New York
   - New York City History
   last_post_language: ""
-  last_post_guid: 90d5b1b7b8a2a436cc6070a56cd1ed7d
+  last_post_guid: 18e8907fafff6553c5949426a76322d7
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-05-10T18:57:13Z"
+date: "2026-06-11T08:48:36Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -10,7 +10,7 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,17 +31,18 @@ params:
   - https://jlelse.blog/.rss
   categories:
   - "2026"
-  - health
+  - tech
   relme: {}
-  last_post_title: '#LiegendDemo - protesting for ME/CFS treatment & visibility'
-  last_post_description: Showing up for those who can't.
-  last_post_date: "2026-05-09T15:32:02Z"
-  last_post_link: https://blog.avas.space/protest-mecfs/
+  last_post_title: our workplace LLM mass delusion
+  last_post_description: The in-house sessions showing off the tech are embarrassing;
+    led by the wrong people, and should likely not even happen in the first place.
+  last_post_date: "2026-06-10T15:04:23Z"
+  last_post_link: https://blog.avas.space/llm-circus/
   last_post_categories:
   - "2026"
-  - health
+  - tech
   last_post_language: ""
-  last_post_guid: c649dc65f9f6324efe11ec50ec990513
+  last_post_guid: 365d17f6f3088e810bc4391990ddf676
   score_criteria:
     cats: 0
     description: 3

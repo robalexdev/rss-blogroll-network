@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'AWS Serverless: Still the Boring Correct Choice'
-  last_post_description: 'In the last 6 months, I’ve helped 3 AI startups migrate
-    from Vercel or Cloudflare to AWS Lambda. The pattern is the same: they start on
-    a platform with great DX. Then the wall shows up: background'
-  last_post_date: "2026-01-13T23:40:49Z"
-  last_post_link: https://nexo.sh/posts/aws-serverless-boring-correct-choice/
+  last_post_title: I Wanted Reproducible AI Coding Environments, So I Built agentpack
+  last_post_description: Modern agents like Claude Code, Codex, Cursor and OpenCode
+    need skills, hooks and MCPs, but they load them differently. I made a tool that
+    creates an ephemeral staging configuration that loads into
+  last_post_date: "2026-05-31T16:03:30+02:00"
+  last_post_link: https://nexo.sh/posts/agentpack/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0b33f9bd78f7689e71949dadf9ec73c1
+  last_post_guid: f6a1abd333b5c9f0f440c8a55639acfc
   score_criteria:
     cats: 0
     description: 3

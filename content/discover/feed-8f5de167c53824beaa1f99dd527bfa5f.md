@@ -10,7 +10,7 @@ params:
     https://blog.strengthofone.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,24 +27,24 @@ params:
   categories:
   - Art
   - Photos
-  - illustration
-  - paste up
+  - graffiti
+  - spray paint
   - street art
   relme: {}
-  last_post_title: Silent Witness
-  last_post_description: Found this beautiful old paste up from Dylan Egon that strikes
-    so many chords with me. Which chords? It’s black and white with simple, clean
-    lines. It’s full of small symbolic details that many
-  last_post_date: "2026-05-09T12:59:29Z"
-  last_post_link: https://blog.strengthofone.com/2026/05/09/silent-witness/
+  last_post_title: Keep Lifting
+  last_post_description: A wonderful example of taking cues from the environment to
+    tell a story. Seeing what others may miss and expressing it in a new way. We tell
+    our stories every day and leave them open to
+  last_post_date: "2026-06-07T13:15:20Z"
+  last_post_link: https://blog.strengthofone.com/2026/06/07/keep-lifting/
   last_post_categories:
   - Art
   - Photos
-  - illustration
-  - paste up
+  - graffiti
+  - spray paint
   - street art
   last_post_language: ""
-  last_post_guid: 05c42defca2b7408dc2611a771ea0055
+  last_post_guid: 98649d25798e89e0200a3ee7fe82105c
   score_criteria:
     cats: 0
     description: 3

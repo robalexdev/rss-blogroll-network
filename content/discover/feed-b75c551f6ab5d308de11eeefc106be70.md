@@ -12,24 +12,25 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: The Last Incorruptible Thing
-  last_post_description: Life lessons from the morel majority.
-  last_post_date: "2026-05-04T15:46:18Z"
-  last_post_link: https://sarahkendzior.substack.com/p/the-last-incorruptible-thing
+  last_post_title: The Truth Is in Here
+  last_post_description: Well, my answers to your questions, anyway. On Epstein, The
+    X-Files, voting rights, more!
+  last_post_date: "2026-06-11T14:06:17Z"
+  last_post_link: https://sarahkendzior.substack.com/p/the-truth-is-in-here
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 816f18367fae7200baecf0d01ef10a43
+  last_post_guid: 350efe51b9351ce777602075ecbbbb58
   score_criteria:
     cats: 0
     description: 3

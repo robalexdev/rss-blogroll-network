@@ -1,6 +1,6 @@
 ---
 title: Nate Meyvis
-date: "2026-05-10T19:30:09Z"
+date: "2026-06-11T17:21:11Z"
 description: |-
   I am an itinerant software engineer who likes to raise children, read, and memorize things.
 
@@ -13,7 +13,7 @@ params:
     https://www.natemeyvis.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites
@@ -25,22 +25,20 @@ params:
   recommended: []
   recommender: []
   categories:
+  - feelings
   - generative AI
-  - nuts and bolts
-  - psychology of software
   - software
   relme: {}
-  last_post_title: On using worktrees
+  last_post_title: Humanistic reactions to Fable
   last_post_description: ""
-  last_post_date: "2026-05-10T17:14:01Z"
-  last_post_link: https://www.natemeyvis.com/on-using-worktrees/
+  last_post_date: "2026-06-11T17:17:05Z"
+  last_post_link: https://www.natemeyvis.com/humanistic-reactions-to-fable/
   last_post_categories:
+  - feelings
   - generative AI
-  - nuts and bolts
-  - psychology of software
   - software
   last_post_language: ""
-  last_post_guid: 9d8d1b7a21390f9560b6a6b24c812334
+  last_post_guid: ea6077fbfdb180541edd5d7704d89c32
   score_criteria:
     cats: 0
     description: 3

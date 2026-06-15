@@ -20,29 +20,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Recomendo
+  - What's in My Bag
+  - What's in my bag
   relme: {}
-  last_post_title: Stillgram / Echoes of Genius / Magnified Sand
-  last_post_description: 'Recomendo - issue #513'
-  last_post_date: "2026-05-10T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/stillgram-echoes-of-genius-magnified-sand/
+  last_post_title: What’s in my NOW? — Jordan Meyers
+  last_post_description: 'issue #257'
+  last_post_date: "2026-06-10T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/whats-in-my-now-jordan-meyers/
   last_post_categories:
-  - Recomendo
+  - What's in My Bag
+  - What's in my bag
   last_post_language: ""
-  last_post_guid: 43301b64ae9978ad58cedbd22ffa656d
+  last_post_guid: 0b50ea783e72bce6095ff6f6ec6ffce5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

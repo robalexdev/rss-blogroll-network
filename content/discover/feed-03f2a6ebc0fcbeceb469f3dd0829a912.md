@@ -1,6 +1,6 @@
 ---
 title: marcoshplace
-date: "2026-05-08T12:53:22Z"
+date: "2026-05-22T08:54:37Z"
 description: A place to store my thoughts and ideas about programming and related
   stuff
 params:
@@ -22,19 +22,19 @@ params:
   - post
   - transformers
   relme: {}
-  last_post_title: Categorical transformers
-  last_post_description: Haskell is a programming language well known for its usage
-    of monads and for the over-abundance of tutorials trying to explain them. This
-    is not one of those posts. On the other hand, in this post
-  last_post_date: "2026-05-08T06:06:42Z"
-  last_post_link: http://marcosh.github.io/post/2026/05/08/categorical-transformers.html
+  last_post_title: Homomorphic static analysis
+  last_post_description: It is somehow shared knowledge among Haskellers that applicatives
+    allow performing static analysis, while monads do not. But what does it mean in
+    practice? And what kind of static analysis is this
+  last_post_date: "2026-05-21T06:06:42Z"
+  last_post_link: http://marcosh.github.io/post/2026/05/21/homomorphic-static-analysis.html
   last_post_categories:
   - category-theory
   - haskell
   - post
   - transformers
   last_post_language: ""
-  last_post_guid: 14f42d5958e448b6448830ea22915f67
+  last_post_guid: 485b257009ddad2d43d5f73c576fdc9d
   score_criteria:
     cats: 0
     description: 3

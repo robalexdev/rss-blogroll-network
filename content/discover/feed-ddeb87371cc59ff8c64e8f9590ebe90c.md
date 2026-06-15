@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 永生锁
+  last_post_title: 2026年高考作文题目
   last_post_description: ""
-  last_post_date: "2026-05-09T22:17:43+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/after-life/
+  last_post_date: "2026-06-08T19:29:03+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/meaning-change/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fc5edae949b5a68cd52fc43ce2578f9
+  last_post_guid: 76a4114311a3cd4c2dce3c7a77e1f15b
   score_criteria:
     cats: 0
     description: 3

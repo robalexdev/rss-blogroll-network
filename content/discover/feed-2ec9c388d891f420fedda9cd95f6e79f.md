@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-05-10T16:35:21Z"
+date: "2026-06-11T08:49:31Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -22,29 +22,36 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Steam
+  - game
+  - mmorpg
+  - 游戏
   relme: {}
-  last_post_title: 'Cloud gaming: Shadow vs GeForce Now'
-  last_post_description: Cloud gaming is changing so quickly that even Reddit discussions
-    from just seven months ago already feel outdated.
-  last_post_date: "2026-04-17T16:27:12Z"
-  last_post_link: https://anotherdayu.com/shadow-vs-geforcenow/
-  last_post_categories: []
+  last_post_title: '2026年 激战2 常用网站和工具 #Guild wars 2'
+  last_post_description: ""
+  last_post_date: "2026-06-10T20:49:15Z"
+  last_post_link: https://anotherdayu.com/guild-wars-2/
+  last_post_categories:
+  - Steam
+  - game
+  - mmorpg
+  - 游戏
   last_post_language: ""
-  last_post_guid: 62f19088e47b6b16c77766d621a9c1a9
+  last_post_guid: 30be9bb865a86777605d0820a45b0b31
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

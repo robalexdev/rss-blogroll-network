@@ -25,18 +25,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdin
+  - stdout
   relme: {}
-  last_post_title: Predict Next Word
-  last_post_description: |
-    妈妈：NOR FLASH；姐姐：NAND FLASH；小孩：磁带
-    链式存储，不支持随机查找
-  last_post_date: "2026-05-10T16:52:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdin-13
+  last_post_title: 基于 git 的零拷贝静态web服务器
+  last_post_description: |-
+    无聊，产生了个crazy的想法。
+    git 内部用 zlib 压缩文件内容
+    Content-Encoding: gzip 也是
+    如果web服务器输出 .git 里的 静态
+  last_post_date: "2026-06-10T23:21:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-22
   last_post_categories:
-  - stdin
+  - stdout
   last_post_language: ""
-  last_post_guid: 90b638a3b7941df5dbc8252da2b59617
+  last_post_guid: c50b8442debdd21552554d2aec9a21af
   score_criteria:
     cats: 0
     description: 3

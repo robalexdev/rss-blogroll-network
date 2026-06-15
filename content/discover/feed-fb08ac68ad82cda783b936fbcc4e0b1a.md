@@ -12,11 +12,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Craig Pilcher - Blogroll
     description: ""
@@ -28,30 +28,42 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Arts And Culture
-  - Jeff Probst
-  - Survivor
-  - Survivor 50
-  - TV
-  - biggest twist ever
-  - reality television
+  - 2026 NBA Playoffs
+  - Jalen Brunson
+  - Johnny Tremain
+  - Karl-Anthony Towns
+  - NBA
+  - New York Knicks
+  - Podcasts
+  - Risotto
+  - Tennis
+  - The Distraction
+  - french open
+  - san antonio spurs
+  - victor wembanyama
   relme: {}
-  last_post_title: Jeff Probst Is Ruining ‘Survivor 50’
-  last_post_description: There is nothing that sucks the life out of a good time like
-    someone self-consciously asking whether you are having fun. Maybe a moment ago,
-    you were having fun, but now, faced with their anxiety (or
-  last_post_date: "2026-05-10T18:39:07Z"
-  last_post_link: https://defector.com/jeff-probst-is-ruining-survivor-50
+  last_post_title: Guttural Fan Noises And Exceptional Risottos, With Giri Nathan
+  last_post_description: There are many people who are capable of watching dramatic
+    sporting events in crowded bars and enjoying themselves. You may be one of them,
+    and you have almost certainly seen them out there erupting
+  last_post_date: "2026-06-11T17:56:54Z"
+  last_post_link: https://defector.com/guttural-fan-noises-and-exceptional-risottos-with-giri-nathan
   last_post_categories:
-  - Arts And Culture
-  - Jeff Probst
-  - Survivor
-  - Survivor 50
-  - TV
-  - biggest twist ever
-  - reality television
+  - 2026 NBA Playoffs
+  - Jalen Brunson
+  - Johnny Tremain
+  - Karl-Anthony Towns
+  - NBA
+  - New York Knicks
+  - Podcasts
+  - Risotto
+  - Tennis
+  - The Distraction
+  - french open
+  - san antonio spurs
+  - victor wembanyama
   last_post_language: ""
-  last_post_guid: 299fb16d19968c476d7bc29324d9eaa7
+  last_post_guid: a557d7f763b4ed01f8f48bc6d5affd0d
   score_criteria:
     cats: 0
     description: 3

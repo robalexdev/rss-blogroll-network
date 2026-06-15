@@ -22,15 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLM Token 消耗节省计划
-  last_post_description: |-
-    模型价格
-    我在之前的文章「AI
-  last_post_date: "2026-04-25T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2026/04/how-to-save-token-for-llm/
+  last_post_title: 确定性和掌控欲
+  last_post_description: 最近观察自己和团队在使用 AI
+  last_post_date: "2026-05-23T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2026/05/certainty-and-control-your-ai-is-not-your-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e7faa7f7aa90e8a9413bd7c1ba53ae1
+  last_post_guid: 908f7f9df3447566a1f17b38ca08ca71
   score_criteria:
     cats: 0
     description: 3

@@ -13,7 +13,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -35,15 +35,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I can't cancel GitHub Copilot
-  last_post_description: Back when Copilot first came out, I immediately disliked
-    it. But I decided to give it a fair shake and tried to evaulate it in good faith.
-    I wasn’t interested in paying for it, but they had a form
-  last_post_date: "2026-05-01T00:00:00Z"
-  last_post_link: https://drewdevault.com/blog/I-cant-cancel-Copilot/
+  last_post_title: The circus freaks of open source
+  last_post_description: The masterwork of Terry A. Davis is his eclectic operating
+    system, TempleOS, which he worked on until his tragic death in 2018. In terms
+    of technical excellence, TempleOS rates well in some respects
+  last_post_date: "2026-06-05T00:00:00Z"
+  last_post_link: https://drewdevault.com/blog/Circus-freaks-of-FOSS/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bb63803d9396981cccb15fd4abd071b4
+  last_post_guid: d30b2f760f5aad212e39aa483d0a86b2
   score_criteria:
     cats: 0
     description: 3

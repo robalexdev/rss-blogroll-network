@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-05-11T10:43:01+08:00"
+date: "2026-06-11T22:46:06+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,14 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: MES Hold 信息报表开发的相关概念，预 Hold、在制 Hold、解 Hold
-  last_post_description: 这周收到一个半导体产线 MES 系统的二次开发需求，即，增加一个 Hold 信息报表，展示预 Hold、在制 Hold、解
-    Hold 信息，信息展示包括时间、人、Hold
-  last_post_date: "2026-05-08T14:01:07+08:00"
-  last_post_link: https://www.sunzhongwei.com/mes-hold-vs-pre-hold-release
+  last_post_title: 基于 CRM 实现外贸站的在线客服组件
+  last_post_description: '## 需求 实现一个外贸网站的在线客服功能，访客可以通过网站右下角的在线聊天窗口与客服人员进行沟通。 这里使用的是
+    Whatsapp'
+  last_post_date: "2026-06-08T17:32:17+08:00"
+  last_post_link: https://www.sunzhongwei.com/online-customer-service-component-based-crm
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 87f19e2ef7c9e00a09dffd41ac525f05
+  last_post_guid: 063dd34e0c757c56a725d313aa53eb3b
   score_criteria:
     cats: 0
     description: 3

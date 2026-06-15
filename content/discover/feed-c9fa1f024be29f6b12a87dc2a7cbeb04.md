@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Securing the Agentic Enterprise
+  last_post_title: The AI Glass Ceiling
   last_post_description: |-
-    Enterprises run on AI agents. So do the attackers.
-    What does it mean to build, secure, and operate AI systems when both sides - defenders and attackers - are automated?
-    Jonathan Jaffe, CISO at
-  last_post_date: "2026-05-08T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/jonathan-jaffe-office-hours/
+    We’ve reached the upper bound of AI.
+    Not in the sense that performance won’t improve. On the contrary, AI will improve AI.
+    But Anthropic’s Fable release has imposed a glass ceiling. How do you
+  last_post_date: "2026-06-10T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/upper-bound-corporate-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c1f8b3a8e76f28517f10274f321883d3
+  last_post_guid: 6e0b081a269cf4836639688be74cc228
   score_criteria:
     cats: 0
     description: 3

@@ -19,21 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - finance
-  - monevator
-  - pensions
+  - via:peteashton
+  - webdesign
+  - webdevelopment
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: 'Pension drawdown rules: what are they? - Monevator'
-  last_post_description: Trying to get to grips with this.
-  last_post_date: "2026-04-27T13:10:50Z"
-  last_post_link: https://monevator.com/pension-drawdown-rules/
+  last_post_title: 'Dan Fixes Coin-Ops: "It''s 1998, you make a website …" - Retro
+    Social'
+  last_post_description: Entertaining thread about making early websites. (via Pete
+    Ashton)
+  last_post_date: "2026-06-09T14:32:56Z"
+  last_post_link: https://retro.social/@ifixcoinops/116711332505710610
   last_post_categories:
-  - finance
-  - monevator
-  - pensions
+  - via:peteashton
+  - webdesign
+  - webdevelopment
   last_post_language: ""
-  last_post_guid: ccd1d8260b5bbf90b06a726daa9058a5
+  last_post_guid: 94a6f36b10d16ab9fd55544e4fe5bdc4
   score_criteria:
     cats: 0
     description: 3

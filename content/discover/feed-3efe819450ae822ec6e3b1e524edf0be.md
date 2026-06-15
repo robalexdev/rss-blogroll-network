@@ -1,6 +1,6 @@
 ---
 title: Abstract Heresies
-date: "2026-05-07T15:37:43-07:00"
+date: "2026-06-07T17:56:01-07:00"
 description: Unorthodox opinions on computer science and programming.
 params:
   feedlink: https://funcall.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://funcall.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Liferea Feed List Export
@@ -99,17 +99,16 @@ params:
     https://funcall.blogspot.com/: true
     https://jrms-random-blog.blogspot.com/: true
     https://www.blogger.com/profile/03233353484280456977: true
-  last_post_title: Echoes of the Lisp Listener
+  last_post_title: Regression
   last_post_description: ""
-  last_post_date: "2026-05-01T10:29:30-07:00"
-  last_post_link: https://funcall.blogspot.com/2026/05/echoes-of-lisp-listener.html
+  last_post_date: "2026-06-01T00:00:00-07:00"
+  last_post_link: https://funcall.blogspot.com/2026/06/regression.html
   last_post_categories:
-  - Emacs
-  - Emacs Lisp
-  - LLM
-  - Lisp Machine
+  - AI coding
+  - Vibe coding
+  - war story
   last_post_language: ""
-  last_post_guid: d1c8e9d960cf0cbddee753433477b652
+  last_post_guid: 59fd031e614bbaf040d379996fc751f8
   score_criteria:
     cats: 5
     description: 3

@@ -10,7 +10,7 @@ params:
     https://ounapuu.ee/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,16 +26,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I self-host this blog at home with a dynamic IPv4 address,
-    IPv6 prefix, and a dash of Wireguard
+  last_post_title: My experience with LLM-assisted tools in software development
   last_post_description: |-
-    Networking has long been my Achilles heel. I know the very basics, but the more complex areas of networking have been a
-    bit puzzling to me. By the time I figured out how IPv4 works, I found IPv6 and
-  last_post_date: "2026-05-06T06:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2026/05/06/self-host-at-home/
+    It’s no secret that I was highly skeptical of LLM-s.
+    Cool, there is this new thing that can spit out plausible text and create cheap-looking images and videos, resulting in
+    a lot of low-quality
+  last_post_date: "2026-06-08T09:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2026/06/08/llm/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 387c8eeea166b0559ea7061550084598
+  last_post_guid: e446b0330d30f273b4234e64267a338c
   score_criteria:
     cats: 0
     description: 3

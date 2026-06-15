@@ -21,7 +21,8 @@ params:
   categories:
   - Posts
   - wig
-  relme: {}
+  relme:
+    https://tomclancy.info/: true
   last_post_title: What is Good? 2026-05-09
   last_post_description: |-
     ❧ "What is good, Phaedrus, and what is not good?" ❦
@@ -45,10 +46,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

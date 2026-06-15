@@ -16,40 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - IPF
-  - Promo
-  - Sponsored
-  - 人體解析
-  - 健康養生
-  - 生命奧祕
-  - 社會群體
-  - 科學傳播
-  - 肺纖維化
-  - 菜瓜布肺
+  - 心臟
+  - 血管
   - 醫療健康
   relme: {}
-  last_post_title: 肺部為何會「結疤」？揭開比癌症更致命的「菜瓜布肺」，科學家如何找到破解惡性循環的新契機
+  last_post_title: 心血管大手術後別慌！專科醫師傳授術後飲食與復健黃金指南
   last_post_description: !!binary |
-    5Zyo54++5Luj6Yar5a2455qE6K2m56S65riF5Zau6KOh77yM5Lmz55mM44CB5aSn6IW455
-    mM6YCZ5Lqb55a+55eF5aSn5a626YO95LiN6ZmM55Sf77yb5L2G5pyJ5LiA5YCL44CM6Zqx
-    6JS95LiU6Ie05ZG944CN55qE5aiB6ISF5Y275bi46KKr5b+96KaW77yM6YKj5bCx5piv44
-    CM6IK657qW57at5YyW44CN44CC5YW25Lit5pyA5bi46KaL55qE6aGe5Z4=
-  last_post_date: "2026-05-08T04:00:00Z"
-  last_post_link: https://pansci.asia/archives/380778
+    5b+D6Ief5omL6KGT5b6M55qE5b6p5Y6f77yM5q2j56K66aOy6aOf6IiH6YGL5YuV5piv6Z
+    ec6Y2177yB5bCI56eR6Yar5bir5YKz5o6I5riF5reh5L2O6bm96aOy6aOf6IiH5YSq6LOq
+    6JuL55m955qE5pSd5Y+W6KaB6Kij77yM5Lim6Kej5p6Q5aaC5L2V6YCP6YGO5b6q5bqP5r
+    y46YCy55qE5b6p5YGl6YGL5YuV44CB5ZG85ZC46KiT57e06IiH5a6J5YU=
+  last_post_date: "2026-06-11T00:00:35Z"
+  last_post_link: https://pansci.asia/archives/381418
   last_post_categories:
-  - IPF
-  - Promo
-  - Sponsored
-  - 人體解析
-  - 健康養生
-  - 生命奧祕
-  - 社會群體
-  - 科學傳播
-  - 肺纖維化
-  - 菜瓜布肺
+  - 心臟
+  - 血管
   - 醫療健康
   last_post_language: ""
-  last_post_guid: 37208834505baf7047f1658bbc05c73b
+  last_post_guid: c95b486fdc269c00006a0064e90c1c56
   score_criteria:
     cats: 0
     description: 3

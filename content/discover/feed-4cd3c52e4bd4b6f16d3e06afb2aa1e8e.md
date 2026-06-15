@@ -10,34 +10,44 @@ params:
     https://talkingpointsmemo.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: FeedLand hotlist in OPML
+    description: The most popular feeds on FeedLand, as an OPML subscription list.
+    id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - 2026 midterms
-  - SCOTUS
-  - gerrymandering
+  - 2020 elections
+  - Donald Trump
+  - Election Conspiracies
+  - Georgia Election Board
+  - Nevada
+  - The Franchise
+  - Todd Blanche
   relme: {}
-  last_post_title: Virginia Supreme Court Deals Democrats Big Setback in Redistricting
-    Wars
-  last_post_description: The fairly conservative Virginia Supreme Court overturned
-    the will of the voters Friday, dealing Democrats a huge setback in the...
-  last_post_date: "2026-05-10T00:01:10Z"
-  last_post_link: https://talkingpointsmemo.com/live-blog/scotus-helps-louisiana-republicans-obliterate-black-dem-district-ahead-of-midterms
+  last_post_title: A Seasoned Big Liar May Soon be Running Elections in Nevada
+  last_post_description: Hello, and welcome back to The Franchise! We don’t yet have
+    official results for Nevada’s secretary of state primary this...
+  last_post_date: "2026-06-11T18:00:28Z"
+  last_post_link: https://talkingpointsmemo.com/the-franchise/a-seasoned-big-liar-may-soon-be-running-elections-in-nevada
   last_post_categories:
-  - 2026 midterms
-  - SCOTUS
-  - gerrymandering
+  - 2020 elections
+  - Donald Trump
+  - Election Conspiracies
+  - Georgia Election Board
+  - Nevada
+  - The Franchise
+  - Todd Blanche
   last_post_language: ""
-  last_post_guid: 1bb30f75ddf13feb1ba5add9be80731f
+  last_post_guid: 6959e277bdc246eeec0a66663804e2f9
   score_criteria:
     cats: 0
     description: 3

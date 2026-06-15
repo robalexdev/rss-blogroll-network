@@ -11,7 +11,7 @@ params:
     https://www.feld.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -22,15 +22,15 @@ params:
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: Burn Bright, Not Out
-  last_post_description: For the month of May, I'm matching donations to the Kabila
-    Founder Mental Health Fund. Plus a free chapter from a new book on founder mental
-    health in tech startups.
-  last_post_date: "2026-05-01T12:12:26-07:00"
-  last_post_link: https://feld.com/archives/2026/05/burn-bright-not-out/
+  last_post_title: Phil Weiser For Colorado Governor
+  last_post_description: I'm good friends with Phil Weiser and Michael Bennet, and
+    I think the world of both. Colorado wins either way. Here's why I think Phil is
+    the right fit for the next four years.
+  last_post_date: "2026-06-08T12:43:16-06:00"
+  last_post_link: https://feld.com/archives/2026/06/phil-weiser-for-colorado-governor/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c0bc7b1b78974dd01b4f107d6606a1b0
+  last_post_guid: 2e1e05ab94caada583a1dbe0bfe56783
   score_criteria:
     cats: 0
     description: 3

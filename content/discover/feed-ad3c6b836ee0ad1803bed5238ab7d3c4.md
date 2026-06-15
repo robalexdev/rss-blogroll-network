@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A view from the north
-  last_post_description: I'm both American and Canadian. I immigrated to Canada in
-    summer of 2016, a few months before Trump won the 2016 election (and have since
-    become a Canadian citizen). It was a weird time to have
-  last_post_date: "2025-03-11T16:21:00Z"
-  last_post_link: https://scottrichmond.me/a-view-from-the-north/
+  last_post_title: Moral Education and Critical Thinking
+  last_post_description: |-
+    On Technology, Systems, and AgencyThis year, I taught my first large undergraduate lecture course since the advent of LLMs.
+    I reworked the assessment structure not so much to discourage use of LLMs,
+  last_post_date: "2026-05-30T19:01:00Z"
+  last_post_link: https://scottrichmond.me/moral-education-and-critical-thinking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c36822426472a02f40307180627a7c5a
+  last_post_guid: 1ceed51fc1daba979f906dd613ea0a3a
   score_criteria:
     cats: 0
     description: 3

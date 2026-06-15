@@ -12,7 +12,7 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Virtual Memory: A Deep Dive into Page Tables, TLBs, and Linux
-    Internals'
-  last_post_description: 'From page faults to NUMA topology: how the Linux kernel
-    manages memory, and what that means for the performance of data-intensive systems.'
-  last_post_date: "2026-05-10T17:51:01Z"
-  last_post_link: https://blog.codingconfessions.com/p/virtual-memory
+  last_post_title: Understanding a Process’s Address Space Layout
+  last_post_description: 'In this video, we look at how a process’s virtual address
+    space is laid out: code, data, heap, stack, shared libraries, mmap regions, and
+    more.'
+  last_post_date: "2026-06-06T15:18:47Z"
+  last_post_link: https://blog.codingconfessions.com/p/understanding-a-processs-address
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b1983df0e21c11dc17e0e286c6da630
+  last_post_guid: 32aa16adddd8b6f560f858f76db2f851
   score_criteria:
     cats: 0
     description: 3

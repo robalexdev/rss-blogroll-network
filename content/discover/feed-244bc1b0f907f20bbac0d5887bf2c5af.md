@@ -1,7 +1,7 @@
 ---
 title: Jake Savin
 date: "1970-01-01T00:00:00Z"
-description: “Have no fear of perfection—you'll never reach it.” – Salvador Dalí
+description: '“Have no fear of perfection: you''ll never reach it.” – Salvador Dalí'
 params:
   feedlink: https://jakesav.in/feed/
   feedtype: rss
@@ -12,30 +12,30 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Uncategorized
+  - AI Coding
   relme:
     https://jakesav.in/: true
     https://mastodon.social/@jsavin: true
-  last_post_title: RIP Pickles
-  last_post_description: Today we said goodbye to Pickles the Wonder Pug, aka Black
-    Lightning. He gave our family nine years of unconditional love, snugs, snorts,
-    and romps—guarding our safety, and protecting us from
-  last_post_date: "2026-03-08T20:54:43Z"
-  last_post_link: https://jakesav.in/2026/03/08/rip-pickles/
+  last_post_title: The Real AI Moat
+  last_post_description: In the AI online space lots of folks are arguing about models. Which
+    one codes better. Which one has the bigger context window. Which one wins the
+    benchmark this week. Which one halucinates less. Is
+  last_post_date: "2026-05-31T04:05:48Z"
+  last_post_link: https://jakesav.in/2026/05/30/the-real-ai-moat/
   last_post_categories:
-  - Uncategorized
+  - AI Coding
   last_post_language: ""
-  last_post_guid: 9c0ea8ca43fa2d898fb40a1bf722771c
+  last_post_guid: 25c39d79aca3020cbea02d5a6d95e5d1
   score_criteria:
     cats: 0
     description: 3

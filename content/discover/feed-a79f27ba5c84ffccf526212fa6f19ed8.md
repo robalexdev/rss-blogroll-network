@@ -1,6 +1,6 @@
 ---
 title: My Sculpture Blog
-date: "2026-04-18T03:38:43-04:00"
+date: "2026-06-09T02:44:11-04:00"
 description: ""
 params:
   feedlink: https://feeds.feedburner.com/BathgateSculptureBlog

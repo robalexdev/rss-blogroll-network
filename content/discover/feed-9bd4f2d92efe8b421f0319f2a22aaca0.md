@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: The Pope and the President
-  last_post_description: "We’re tuning in on the Pope and the President in what can
-    sound like a historic showdown. Are we in the first rounds of an epic struggle
-    between church and empire? Are we perhaps looking ... \nThe"
-  last_post_date: "2026-04-23T20:04:24Z"
-  last_post_link: https://radioopensource.org/the-pope-and-the-president/
+  last_post_title: Here Where We Live Is Our Country
+  last_post_description: We’re entranced in Molly Crabapple’s reanimation of the Jewish
+    Labour Bund in Europe and Russia, of a century ago. Yiddish Socialism was a nickname.
+    You could plausibly describe that old Bund as
+  last_post_date: "2026-05-29T00:56:51Z"
+  last_post_link: https://radioopensource.org/here-where-we-live-is-our-country/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 42eb44e5cb3abdadb8099c9db9bd5ab4
+  last_post_guid: 9edbdf89ccea6da2eb5254230ec34c86
   score_criteria:
     cats: 1
     description: 3

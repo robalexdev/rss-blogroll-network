@@ -20,20 +20,20 @@ params:
   - arm64
   - debian
   - floss
-  - gaming
+  - linuxgaming
   relme: {}
-  last_post_title: 'Arm64 Linux Desktop: one year after, all systems up'
+  last_post_title: Running Linux i386 binary (steamcmd) via debootstrap foreign chroot
   last_post_description: ""
-  last_post_date: "2026-05-03T12:33:53Z"
-  last_post_link: https://00formicapunk00.wordpress.com/2026/05/03/arm64-linux-desktop-one-year-after-all-systems-up/
+  last_post_date: "2026-06-03T08:50:29Z"
+  last_post_link: https://00formicapunk00.wordpress.com/2026/06/03/running-linux-i386-binary-steamcmd-via-debootstrap-foreign-chroot/
   last_post_categories:
   - Uncategorized
   - arm64
   - debian
   - floss
-  - gaming
+  - linuxgaming
   last_post_language: ""
-  last_post_guid: e1a45eb2d655db4042bdd942ed903b12
+  last_post_guid: 30f1a39e2944a49b8d7b38028590701f
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -21,11 +21,11 @@ params:
     id: 317142854d8813fd4e5e51d1a364b681
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: indieblog.page
     description: ""
@@ -44,54 +44,32 @@ params:
   - http://scripting.com/rss.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Apple
-  - Career
-  - Compatibility
-  - Information architecture
-  - OSX
-  - UX
-  - Usability
-  - User Experience
-  - Zeldman
-  - architecture
-  - glamorous
-  - webdesign
+  - Design
   relme:
     https://zeldman.com/: true
-  last_post_title: 'My UX Superpower: Nothing Works!'
-  last_post_description: Maybe I’m special. Or unlucky. But things that supposedly
-    work intuitively for most users tend to fail spectacularly for me.  After stints
-    in academia, journalism, advertising, and music, I poured
-  last_post_date: "2026-04-20T15:48:32Z"
-  last_post_link: https://zeldman.com/2026/04/20/my-ux-superpower-nothing-works/
+  last_post_title: Remembrance of zeldman.coms past
+  last_post_description: |-
+    Look back in anchor tags: a partial review of my site’s 31-year visual history before diving into the new design.
+    The post Remembrance of zeldman.coms past appeared first on Jeffrey Zeldman
+  last_post_date: "2026-06-04T14:35:27Z"
+  last_post_link: https://zeldman.com/2026/06/04/remembrance-of-zeldman-coms-past/
   last_post_categories:
-  - Apple
-  - Career
-  - Compatibility
-  - Information architecture
-  - OSX
-  - UX
-  - Usability
-  - User Experience
-  - Zeldman
-  - architecture
-  - glamorous
-  - webdesign
+  - Design
   last_post_language: ""
-  last_post_guid: bf46f3caef2b4a10c858b0acf66fd0a2
+  last_post_guid: 497130577ec10e9e3ed32ae396a218ee
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

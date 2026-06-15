@@ -10,7 +10,7 @@ params:
     https://dmitry.gr/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,14 +24,15 @@ params:
   categories:
   - Projects
   relme: {}
-  last_post_title: rePalm
-  last_post_description: PalmOS on new hardware!
-  last_post_date: "2025-12-05T00:00:00Z"
-  last_post_link: https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
+  last_post_title: Preserving Pixter
+  last_post_description: 'Fisher-Price Pixter: From unknown and obscure to fully documented,
+    emulated, and preserved'
+  last_post_date: "2026-05-29T00:00:00Z"
+  last_post_link: https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter
   last_post_categories:
   - Projects
   last_post_language: ""
-  last_post_guid: 400ec8dd12b634e422d8fa1c4d59ad1a
+  last_post_guid: 7a84a5b68d3091f6f32791d2820fe1bf
   score_criteria:
     cats: 0
     description: 3

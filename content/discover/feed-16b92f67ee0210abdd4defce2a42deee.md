@@ -1,7 +1,8 @@
 ---
 title: Alberto Gallego
-date: "2026-05-10T09:30:31Z"
-description: Independent software developer
+date: "2026-06-05T17:32:17Z"
+description: Independent software developer. I build Mac and web apps like Picmal
+  and Cozy Journal, and write essays on making things, curiosity, and philosophy.
 params:
   feedlink: https://albertogalca.com/feed.xml
   feedtype: rss
@@ -10,7 +11,7 @@ params:
     https://albertogalca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,7 +28,8 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - philosophy
   relme: {}
   last_post_title: Why Not Live?
   last_post_description: |-
@@ -38,7 +40,8 @@ params:
     I see myself
   last_post_date: "2026-02-07T00:00:00Z"
   last_post_link: https://albertogalca.com/why-not-live
-  last_post_categories: []
+  last_post_categories:
+  - philosophy
   last_post_language: ""
   last_post_guid: e105170077c425a76455caaf11c65e55
   score_criteria:
@@ -47,13 +50,13 @@ params:
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

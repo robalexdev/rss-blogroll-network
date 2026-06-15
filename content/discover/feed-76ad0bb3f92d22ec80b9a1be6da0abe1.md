@@ -15,35 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - emacs
-  - emacs-chat
-  - emacs-chat-podcast
+  - french
   relme: {}
-  last_post_title: 'Emacs Chat 22: Shae Erisson'
-  last_post_description: '0:00 IntroSacha: Okay, so I''m going to actually remember
-    to hit go live. I''ve got a 10 second delay, so if we need to panic, we can panic.
-    Okay, so let''s see. I think we are live. Hi, everyone. This'
-  last_post_date: "2026-05-07T18:55:38Z"
-  last_post_link: https://sachachua.com/blog/2026/05/may-7-emacs-chat-with-shae-erisson/
+  last_post_title: La semaine du 1 au 7 juin
+  last_post_description: |-
+    Ma fille a séché les cours et elle n'a pas non plus voulu aller à son cours de gymnastique parce qu'elle a eu une mauvaise nuit et elle était toujours grincheuse.
+
+
+
+    Au lieu de la harceler, j'ai
+  last_post_date: "2026-06-10T15:05:24Z"
+  last_post_link: https://sachachua.com/blog/2026/06/la-semaine-du-1-au-7-juin/
   last_post_categories:
-  - emacs
-  - emacs-chat
-  - emacs-chat-podcast
+  - french
   last_post_language: ""
-  last_post_guid: 250befd1186ba4ca306bf3787e559969
+  last_post_guid: de51a64e41d3c404f2593779d9e8c8b8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

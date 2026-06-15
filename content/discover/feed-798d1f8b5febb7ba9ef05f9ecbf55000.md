@@ -10,7 +10,7 @@ params:
     https://artiss.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,16 +25,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: 'Liverpool: A Magical Mystery Tour'
-  last_post_description: I’ve been to Liverpool once before – back in the early 1990s
-    to watch a football match. I don’t think I saw much of the city, and I have very
-    little memory of it other than the match itself. My
-  last_post_date: "2026-04-12T10:00:13Z"
-  last_post_link: https://artiss.blog/2026/04/liverpool-a-magical-mystery-tour/
+  last_post_title: Boots, BST and the time of day
+  last_post_description: Whilst it’s been 9 years since I worked there, I’d bet good
+    money that Boots The Chemist’s POS (Point of Sale) system hasn’t changed. In which
+    case, every time it changes from GMT to BST or
+  last_post_date: "2026-06-08T15:17:17Z"
+  last_post_link: https://artiss.blog/2026/06/boots-bst-and-the-time-of-day/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: f5c6dd2318ce08b34cf1113ac5e486da
+  last_post_guid: 2e423c20204c35d112efe1572b17838d
   score_criteria:
     cats: 0
     description: 3

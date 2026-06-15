@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: GameBox - A new game launcher and tracker for Mac OS
-  last_post_description: ""
-  last_post_date: "2025-12-23T13:03:00+13:00"
-  last_post_link: https://mac-classic.com/news/gamebox-a-new-game-launcher-and-tracker-for-mac-os/
+  last_post_title: MacSurf - A new web browser for Mac OS 9
+  last_post_description: A new web browser for Mac OS 9 has been released that supports
+    CSS3, JS and HTTPS
+  last_post_date: "2026-05-21T15:40:11+12:00"
+  last_post_link: https://mac-classic.com/news/macsurf-a-new-web-browser-for-mac-os-9/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3891aec6c374b232d2662a8fb02ae1c3
+  last_post_guid: e60298ee7f658306ac31945356358836
   score_criteria:
     cats: 0
     description: 3

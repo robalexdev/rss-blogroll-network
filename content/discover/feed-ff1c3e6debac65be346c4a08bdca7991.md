@@ -1,6 +1,6 @@
 ---
 title: Matte Shot - a tribute to Golden Era special fx
-date: "2026-05-08T22:54:30+12:00"
+date: "2026-06-10T04:11:13+12:00"
 description: |-
   This blog is intended primarily as a tribute to the inventiveness and ingenuity of the craft of the matte painter during Hollywoods' Golden Era.
 

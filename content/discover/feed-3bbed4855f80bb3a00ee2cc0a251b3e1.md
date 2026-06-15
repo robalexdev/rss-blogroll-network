@@ -1,6 +1,6 @@
 ---
 title: Los Techies
-date: "2026-05-04T16:20:57Z"
+date: "2026-06-11T13:07:06Z"
 description: ""
 params:
   feedlink: https://feeds.feedburner.com/LosTechies
@@ -22,15 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Pragmatic Deferral
-  last_post_description: Software engineering is often about selecting the right trade
-    offs. While deferring feature development is often somewhat straight-forward,
-    based upon a speculation about the return on investment,
-  last_post_date: "2022-05-31T13:00:00Z"
-  last_post_link: https://lostechies.com/derekgreer/2022/05/31/pragmatic-deferral/
+  last_post_title: 23 Models, One Weekend, Final Picks
+  last_post_description: Part 5 of 5 in the Local LLM Bench series.
+  last_post_date: "2026-06-06T12:00:00Z"
+  last_post_link: https://lostechies.com/erichexter/2026/06/06/local-llm-bench-part-5-final-picks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e8312e6e00b18616493bb26564e3bf7d
+  last_post_guid: 63094079074f68a08010d70784fd297a
   score_criteria:
     cats: 0
     description: 0

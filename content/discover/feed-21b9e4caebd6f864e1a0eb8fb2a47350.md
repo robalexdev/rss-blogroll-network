@@ -16,25 +16,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GTK
+  - GNOME
   - Linux
-  - Vala
+  - Opinion
   relme:
     https://codeberg.org/GeopJr: true
     https://geopjr.dev/: true
     https://github.com/GeopJr: true
-  last_post_title: Tuba's New Composer
-  last_post_description: This week, after ~8 months, I made another Tuba release.
-    v0.10.0 is now available! Tuba releases are huuuuuuuuuuuuuge and this one is not
-    different. The main reason for that is that the Fediverse as
-  last_post_date: "2025-08-11T00:00:00Z"
-  last_post_link: https://geopjr.dev/blog/tubas-new-composer
+  last_post_title: My first in-person talk
+  last_post_description: |-
+    Photo by Liaizon Wakest
+
+    Traveling is scary
+    I don't really travel outside Greece. Not for any specific reasons, it's just that there's no reason to. So last year, when Linux App Summit 2025 announced
+  last_post_date: "2026-05-31T00:00:00Z"
+  last_post_link: https://geopjr.dev/blog/my-first-in-person-talk
   last_post_categories:
-  - GTK
+  - GNOME
   - Linux
-  - Vala
+  - Opinion
   last_post_language: ""
-  last_post_guid: e86da1a324758ea8e6e14a8096ccc1c8
+  last_post_guid: 1a4bf631f89145b300fac51fea8029f0
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: F2R Articles | En
-date: "2026-03-03T21:44:28Z"
+date: "2026-05-27T13:28:47Z"
 description: 'All articles wrote by F2R: PHP, methodology, web, architecture, development,
   programming, and so.'
 params:
@@ -21,15 +21,16 @@ params:
   categories:
   - en
   relme: {}
-  last_post_title: Why use static closures?
-  last_post_description: Why use static closures? (Published on March 3, 2026 - Version
-    française)
-  last_post_date: "2026-03-03T00:00:00Z"
-  last_post_link: https://f2r.github.io/en/static-closures.html
+  last_post_title: I'm Becoming a Markdown Developer
+  last_post_description: I've been coding since 1983. Today, my primary tool isn't
+    an IDE — it's a Markdown file. That's not surrender; it's moving up an abstraction
+    level. And strangely, I've never felt more like I'm
+  last_post_date: "2026-05-27T00:00:00Z"
+  last_post_link: https://f2r.github.io/en/markdown-developer.html
   last_post_categories:
   - en
   last_post_language: ""
-  last_post_guid: 27025ca62fe92817fa61a6e478121393
+  last_post_guid: 95148d8479ab6a70a27f8e1b66123273
   score_criteria:
     cats: 0
     description: 3

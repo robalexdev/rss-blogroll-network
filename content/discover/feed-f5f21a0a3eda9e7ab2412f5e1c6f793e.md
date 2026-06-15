@@ -17,23 +17,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Announcements
+  - "2026"
   - Latest
+  - Newsletter
   - Prepared
   relme: {}
-  last_post_title: 'New Course: ‘Masterclass in Data Visualisation’ (London, July
-    2026)'
-  last_post_description: I'm happy to announce details of a new public training course,
-    the two-day classroom-based 'Masterclass in Data Visualisation' will take place
-    in London, on 7-8 July 2026. This is an essential non
-  last_post_date: "2026-04-21T00:00:35Z"
-  last_post_link: https://visualisingdata.com/2026/04/new-course-masterclass-in-data-visualisation-london-july-2026/
+  last_post_title: The May 2026 newsletter is now open to all
+  last_post_description: My May newsletter, sent out to subscribers at the end of
+    last month, is now open for all to read. You can access this issue, as well as
+    visit the growing catalogue of previous issues, on the
+  last_post_date: "2026-06-10T15:32:44Z"
+  last_post_link: https://visualisingdata.com/2026/06/the-may-2026-newsletter-is-now-open-to-all/
   last_post_categories:
-  - Announcements
+  - "2026"
   - Latest
+  - Newsletter
   - Prepared
   last_post_language: ""
-  last_post_guid: 34179882b1ae1a70ece63413a2e80990
+  last_post_guid: 2740d5d9c65a4f38fed78ca615a7c01f
   score_criteria:
     cats: 0
     description: 3

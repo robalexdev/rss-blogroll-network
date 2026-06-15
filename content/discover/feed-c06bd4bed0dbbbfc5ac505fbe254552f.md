@@ -12,7 +12,7 @@ params:
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -150,6 +150,7 @@ params:
   - https://bmcr.brynmawr.edu/comments/feed/
   - https://bmcr.brynmawr.edu/feed/
   - https://branch.climateaction.tech/comments/feed/
+  - https://buttondown.com/rss
   - https://buttondown.com/rss.xml
   - https://chavanniclass.wordpress.com/comments/feed/
   - https://chias.blog/comments/feed/

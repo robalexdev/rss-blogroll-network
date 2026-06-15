@@ -14,11 +14,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Planet FAIR
     description: ""
@@ -30,34 +30,36 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - News
+  - Block Editor
+  - Gutenberg
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Block Format Bridge: A Practical Solution for AI-Generated Content
-    in WordPress'
-  last_post_description: 'Chris Huber, developer at Automattic, released Block Format
-    Bridge, an open-source plugin that addresses one of the more persistent friction
-    points in AI-assisted WordPress workflows: getting AI'
-  last_post_date: "2026-05-02T19:23:14Z"
-  last_post_link: https://gutenbergtimes.com/block-format-bridge-a-practical-solution-for-ai-generated-content-in-wordpress/
+  last_post_title: 'Gutenberg Changelog #131 – Gutenberg Plugin Releases 23.1 – 23.3,
+    Calls for Testing for 7.1 and more'
+  last_post_description: In episode 131 of the Gutenberg Changelog, Birgit Pauli-Haack
+    welcomes Isabel Brison to discuss the latest developments in Gutenberg plugin
+    releases 23.1, 23.2, and 23.3, as well as progress leading
+  last_post_date: "2026-06-07T10:03:25Z"
+  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-131/
   last_post_categories:
-  - News
+  - Block Editor
+  - Gutenberg
   last_post_language: ""
-  last_post_guid: 45ffe4477cb366395adac29dcfd3c193
+  last_post_guid: 436701be4a3680d783b0cbef44cafee6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

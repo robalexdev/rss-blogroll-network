@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-04-23T02:41:22Z"
+date: "2026-06-08T00:31:20Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -13,7 +13,7 @@ params:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -44,15 +44,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: It’s a lot to process
-  last_post_description: … everything. I need to know less, but I know more.  Trying
-    to cultivate a life which allows me to know less while still participating in
-    society requires me to...
-  last_post_date: "2026-04-23T02:41:22Z"
-  last_post_link: https://anniemueller.com/posts/its-a-lot-to-process
+  last_post_title: A solid tradition // Week 23 — 2026
+  last_post_description: 'A week in which some things happen and some things do not
+    happen, much like other weeks.  Current situation: The pain of having children
+    who become driving teenagers is the...'
+  last_post_date: "2026-06-08T05:08:09Z"
+  last_post_link: https://anniemueller.com/posts/a-solid-tradition-week-23-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 148a0b36a8237325e495ef44e12d3426
+  last_post_guid: 6dbfd0f4499cfdcb69e8fbf5a5fc6974
   score_criteria:
     cats: 0
     description: 0

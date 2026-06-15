@@ -1,6 +1,6 @@
 ---
 title: model ships in the cinema
-date: "2026-04-13T06:29:16+08:00"
+date: "2026-06-11T23:59:47+08:00"
 description: The technique of miniature ship visual effects.
 params:
   feedlink: https://www.modelshipsinthecinema.com/feeds/posts/default
@@ -136,6 +136,7 @@ params:
   - Gene Warren Jr.
   - Gene Warren Sr.
   - Gentlemen Prefer Blondes
+  - Gentlemen Prefer Blondes. Fox Ranch
   - George Blackwell
   - George Gibbs
   - George Samuels
@@ -290,6 +291,7 @@ params:
   - Tidal Wave
   - Time Guardian
   - Titanic
+  - Titanic 1953
   - Toho
   - Toho Studios
   - Tom Davies
@@ -350,16 +352,16 @@ params:
     https://rcscifi.blogspot.com/: true
     https://www.blogger.com/profile/11833483639783575804: true
     https://www.modelshipsinthecinema.com/: true
-  last_post_title: The Key 1958
+  last_post_title: Model ships stored at 20th Century Fox Ranch
   last_post_description: ""
-  last_post_date: "2025-11-15T10:52:34+08:00"
-  last_post_link: https://www.modelshipsinthecinema.com/2025/11/the-key-1958.html
+  last_post_date: "2026-06-09T17:03:06+08:00"
+  last_post_link: https://www.modelshipsinthecinema.com/2026/06/model-ships-stored-at-20th-century-fox.html
   last_post_categories:
   - 1950s'
-  - Carol Reed
-  - Tug boat
+  - Gentlemen Prefer Blondes. Fox Ranch
+  - Titanic 1953
   last_post_language: ""
-  last_post_guid: 63b8ac7752c7051a5010575195b45cbc
+  last_post_guid: c9584a472ccad0cb60dd0adc8b74d918
   score_criteria:
     cats: 5
     description: 3

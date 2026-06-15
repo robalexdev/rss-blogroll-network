@@ -20,15 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: MacBook YubiKey Induced Insomnia
+  last_post_title: Detecting and removing dangerous secrets on dev workstations before
+    Shai-Hulud does
   last_post_description: |-
-    Nothing beats realizing your MacBook is out of battery on a Monday morning at the airport when you take it out of the bag. Free adrenaline!
-    You’re not alone, this is widely reported by Mac users
-  last_post_date: "2025-02-13T00:00:00Z"
-  last_post_link: https://recyclebin.zip/posts/yubisleep/
+    Credential theft from developer workstations
+    Let’s use a combination of open-source tools to detect problematic clear-text secrets on workstations and to ensure they’re not so easy for
+  last_post_date: "2026-05-25T00:00:00Z"
+  last_post_link: https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c7c721fcbb28c55be369f91d53fc4ae7
+  last_post_guid: 5c4dad98cc9fc7e9777b6bb1985a42eb
   score_criteria:
     cats: 0
     description: 3

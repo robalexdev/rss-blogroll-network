@@ -22,13 +22,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: songs to wind down
-  last_post_description: "vibes\n  \n\n\n\n  \n    now playing"
-  last_post_date: "2026-03-11T20:22:00Z"
-  last_post_link: https://sankalp.bearblog.dev/songs-to-wind-down/
+  last_post_title: 'To-loop or not loop: figuring out the context behind agent usage
+    and automation patterns'
+  last_post_description: There was a lot of discourse around Peter's recent tweet.
+    I think the main driver behind this was most people not taking the time to think
+    about Peter's context before comparing it with their own. In
+  last_post_date: "2026-06-10T12:49:00Z"
+  last_post_link: https://sankalp.bearblog.dev/agent-context/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63153ad137a0fc306501d1fb22e8183c
+  last_post_guid: 59317af1b9fc825ae8e573b47a6e8453
   score_criteria:
     cats: 0
     description: 3

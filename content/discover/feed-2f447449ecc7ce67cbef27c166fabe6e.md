@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-05-04T00:00:00+02:00"
+date: "2026-06-04T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,18 +25,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Retrospectiva #7'
+  last_post_title: 'Retrospectiva #8'
   last_post_description: |-
-    My Hermes agent â€“ Saramago â€“ giving me coaching feedback and looking for the ideal flights for an upcoming trip.
-
-
-    Another month bites the dust. We've been back in Denmark for the past
-  last_post_date: "2026-05-04T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/retrospectiva-7.html
+    If there's one thing Retrospectiva does for me - other than giving me an excuse to write for you of course - it's making me realise how fast time moves.
+    It's June already - and May was – well –
+  last_post_date: "2026-06-04T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/retrospectiva-8.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 27fdb1d9bc06e202f4c35b07d1940d04
+  last_post_guid: d06a9d0353f1dea33bc2d619cde098a6
   score_criteria:
     cats: 0
     description: 0

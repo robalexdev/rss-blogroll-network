@@ -1,6 +1,6 @@
 ---
 title: Inside the head of Daniel Roy Greenfeld
-date: "2026-05-07T00:44:21Z"
+date: "2026-06-09T10:43:00Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/atom.xml
@@ -15,18 +15,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - python
-  - writing
+  - family
+  - uma
   relme: {}
-  last_post_title: Word counter that ignores Markdown
-  last_post_description: For when I want a word count that ignores Markdown symbols
-  last_post_date: "2026-05-04T11:55:23Z"
-  last_post_link: https://daniel.feldroy.com/posts/2026-05-word-counter-that-ignores-markdown
+  last_post_title: A week in the life of a seven year old
+  last_post_description: Documenting the typical schedule of my daughter in 2026.
+  last_post_date: "2026-05-26T15:14:07Z"
+  last_post_link: https://daniel.feldroy.com/posts/2026-05-a-week-in-the-life-of-a-seven-year-old
   last_post_categories:
-  - python
-  - writing
+  - family
+  - uma
   last_post_language: ""
-  last_post_guid: a24969b465d73bfed43c7ab5ec8b729c
+  last_post_guid: 38807880a40f198a509b5de9fffe379e
   score_criteria:
     cats: 0
     description: 0

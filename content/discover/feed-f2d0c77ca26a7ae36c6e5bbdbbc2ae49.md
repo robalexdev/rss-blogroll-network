@@ -14,13 +14,16 @@ params:
   - title: Following
     description: ""
     id: 3ab37f775eca10153e3c7a600b2fbe77
+  - title: FeedLand hotlist in OPML
+    description: The most popular feeds on FeedLand, as an OPML subscription list.
+    id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: All RSS Subscriptions for bestblogs.dev
     description: ""
@@ -41,26 +44,25 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - News & insights
-  - Policy
-  - maintainers
-  - open source
-  - policy
+  - AI & ML
+  - LLMs
+  - Secret Scanning
+  - Security
   relme: {}
-  last_post_title: Why age assurance laws matter for developers
-  last_post_description: "Youth safety requirements are moving down the tech stack
-    to operating systems and app stores—raising new questions for open source developers.
-    \nThe post Why age assurance laws matter for developers"
-  last_post_date: "2026-05-08T16:30:00Z"
-  last_post_link: https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/
+  last_post_title: 'Making secret scanning more trustworthy: Reducing false positives
+    at scale'
+  last_post_description: |-
+    Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning.
+    The post Making secret scanning more trustworthy:
+  last_post_date: "2026-06-11T16:00:00Z"
+  last_post_link: https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/
   last_post_categories:
-  - News & insights
-  - Policy
-  - maintainers
-  - open source
-  - policy
+  - AI & ML
+  - LLMs
+  - Secret Scanning
+  - Security
   last_post_language: ""
-  last_post_guid: 1354dfa655521f99544b25e4240426d8
+  last_post_guid: 4c646b3464d95eb49a9058a23b1a8f2f
   score_criteria:
     cats: 0
     description: 3

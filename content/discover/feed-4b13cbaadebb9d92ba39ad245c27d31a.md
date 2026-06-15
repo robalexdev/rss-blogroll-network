@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-05-10T23:10:44+01:00"
+date: "2026-06-11T17:10:02+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -36,6 +36,7 @@ params:
   - '#XFactor'
   - '#declanmckenna'
   - '#eurovision'
+  - '#eurovision202'
   - '#eurovision2023'
   - '#ripfootball'
   - (not responding)
@@ -46,6 +47,7 @@ params:
   - 1917 movie
   - "1963"
   - 1972 singles
+  - 1973 Films
   - 1973 Music
   - 1974 films
   - 1976 films
@@ -344,6 +346,7 @@ params:
   - BT Plus
   - Babou Ceesay
   - Baby Groot
+  - Backrooms movie
   - Ballad of Midsomer County
   - Band Aid
   - Bands reforming
@@ -522,6 +525,7 @@ params:
   - Bud Cort
   - Bud Light Dilly Dilly
   - Building
+  - Bulgaria
   - Bullet Train film
   - Burt Bacharach
   - Burtons Menswear
@@ -608,6 +612,7 @@ params:
   - Charlize Theron
   - Charlotte Rampling
   - Charlotte Ritchie
+  - Charlton Heston
   - Chartjackers
   - Cheese
   - Chella Man
@@ -1045,6 +1050,7 @@ params:
   - Doomwatch You Killed Toby Wren
   - Doomwatch flight into yesterday
   - Doomwatch reviews
+  - Doon Mackichan
   - Dorothy Atkinson
   - Doug McClure
   - Douglas Adams
@@ -1104,6 +1110,7 @@ params:
   - Edi Gathegi
   - Edinburgh Gin
   - Editor
+  - Edward G Robinson
   - Edward Norton
   - Edward Scissorhands
   - Eighties music
@@ -1177,6 +1184,8 @@ params:
   - Euros Lynn
   - Eurovision
   - Eurovision 2025
+  - Eurovision 2026
+  - Eurovision 2026 Final
   - Eurovision Liverpool
   - Eurovision Song Contest
   - Eurovision Song Contest 2014
@@ -1369,6 +1378,7 @@ params:
   - Going For The One
   - Gold
   - Good Omens
+  - Good Omens finale
   - Good Omens season two
   - Goodbye Christopher Robin review
   - Goodbye Sarah Jane Smith
@@ -1655,6 +1665,7 @@ params:
   - Jeremy Corbyn Question Time
   - Jeremy Corbyn retains Labour leadership
   - Jeremy Corbyn wins
+  - Jeremy Cox
   - Jeremy Piven
   - Jeremy Silbertson
   - Jesse Eisenberg
@@ -1748,6 +1759,7 @@ params:
   - Joker film review
   - Joker movie
   - Joker review
+  - Jon Favreau
   - Jon Hamm
   - Jon Pertwee
   - Jon Pointing
@@ -1810,6 +1822,7 @@ params:
   - KSI
   - KSI leaving The Sidemen
   - Kalush Orchestra
+  - Kane Parsons
   - Karate Kid
   - Karate Kid Legends
   - Karen Carpenter
@@ -1899,6 +1912,7 @@ params:
   - Lady Gaga
   - Lady Leshurr
   - Lalla Ward
+  - Lamorne Morris
   - Larissa Wilson
   - Lars Mikkelsen
   - Lars Van Trier
@@ -1922,6 +1936,7 @@ params:
   - Lee Ingleby
   - Lee Walters
   - Leicester University
+  - Leigh Taylor Young
   - Leila Khan
   - Lena Headley
   - Lennie Mayne
@@ -1941,6 +1956,7 @@ params:
   - Lewis
   - Lewis McDougall
   - Lewis Pullman
+  - Li Jun Li
   - Liam Lau Fernandez
   - Liberal Democrats
   - Licence to Drive movie
@@ -2335,6 +2351,7 @@ params:
   - Nick Thurston
   - Nicol Williamson
   - Nicola Coughlan
+  - Nicolas Cage
   - Nicole Lecky
   - Nicole Scherzinger
   - Nigel Davenport
@@ -2615,6 +2632,7 @@ params:
   - Reflections in the Water
   - Reg Varney
   - Remoaners
+  - Renate Reinsve
   - Renny Rye
   - Rescue
   - Resident Swan
@@ -2630,6 +2648,7 @@ params:
   - Richard Clark
   - Richard Coyle
   - Richard Curtis
+  - Richard Fleischer
   - Richard Harris
   - Richard Holthouse
   - Richard Jordan
@@ -2928,6 +2947,7 @@ params:
   - Soronprfbs
   - Soul Boys of the Western World
   - South Downs
+  - Soylent Green
   - Space 1999
   - Space 1999 A Matter of Balance
   - Space 1999 A Matter of Life and Death
@@ -2992,6 +3012,7 @@ params:
   - Spider-Man
   - Spider-Man Far From Home
   - Spider-Man Far From Home review
+  - Spider-Noir
   - Spiderman
   - Spiderman Homecoming
   - Spiderman Homecoming review
@@ -3279,6 +3300,7 @@ params:
   - The Magic Flute film
   - The Malus
   - The Man Who Came Back
+  - The Mandalorian and Groku
   - The Marvels
   - The Midnight Beast
   - The Mind of Mr JG Reeder
@@ -3586,6 +3608,7 @@ params:
   - Veg Power
   - Verity Lambert
   - Vicky McClure
+  - Vienna
   - Vin Diesel
   - Vince Gilligan
   - Vincent D'Onofrio
@@ -3670,6 +3693,7 @@ params:
   - Will Gluck
   - Will Keen
   - Will Smith
+  - Will Soodik
   - Willem Defoe
   - William F Nolan
   - William Gao
@@ -3795,18 +3819,20 @@ params:
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Top of the Pops 25th April 1991
+  last_post_title: Backrooms review
   last_post_description: ""
-  last_post_date: "2026-05-08T18:59:07+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/05/top-of-pops-25th-april-1991.html
+  last_post_date: "2026-06-09T19:00:31+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/06/backrooms-review.html
   last_post_categories:
-  - '#TOTP'
-  - Music
-  - TV
-  - Top of the Pops
-  - Top of the Pops 1991
+  - Backrooms movie
+  - Chiwetel Ejiofor
+  - Films
+  - Jeremy Cox
+  - Kane Parsons
+  - Renate Reinsve
+  - Will Soodik
   last_post_language: ""
-  last_post_guid: 57f4bd49f1c5ac1176d148526d61efb9
+  last_post_guid: 82f4aff39cb96bd76fb13ff171054ebf
   score_criteria:
     cats: 5
     description: 3

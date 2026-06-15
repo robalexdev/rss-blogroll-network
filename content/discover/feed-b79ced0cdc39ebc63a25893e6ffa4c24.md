@@ -16,15 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '"Open" doesn''t mean what it used to'
-  last_post_description: 'In the future I will storytell to my childern about how
-    the word open in computing, someday, did actually mean things, some of them you
-    could be certain about: source was there, or the protocol was'
-  last_post_date: "2026-05-04T00:00:00Z"
-  last_post_link: https://lr0.org/blog/p/open/
+  last_post_title: An interactive introduction to the terrific experience of rendering
+    Arabic typography and its technical debt
+  last_post_description: Once upon a time, a frontend ticket landed on my queue which
+    was not properly mine, but the only other Arabic reader on the team was on leave.
+    It went roughly as follows; a block of mixed-content
+  last_post_date: "2026-06-10T00:00:00Z"
+  last_post_link: https://lr0.org/blog/p/arabic/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 92a22443d374a3d6d8f2f1e63d003734
+  last_post_guid: f18bd6739a78411e1c1e79d841508dd3
   score_criteria:
     cats: 0
     description: 3

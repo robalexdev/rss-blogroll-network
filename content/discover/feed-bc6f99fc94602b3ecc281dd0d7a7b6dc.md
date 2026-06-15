@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2026-05-01T06:53:49-04:00"
+date: "2026-05-13T19:15:41-04:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -10,7 +10,7 @@ params:
     https://everythingchanges.us/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

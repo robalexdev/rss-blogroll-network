@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-05-10T23:54:34-04:00"
+date: "2026-06-11T09:55:15-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://perfectretort.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -54,6 +54,7 @@ params:
   - 19th century
   - 19th century England
   - 20 Books of Summer
+  - 20 Books of Summer 2026
   - "2008"
   - "2021"
   - "2025"
@@ -96,6 +97,7 @@ params:
   - A Patent Lie
   - A Perfect Gentle Knight
   - A Piece of the World
+  - A Place Beyond Courage
   - A Place to Hang the Moon
   - A Pledge of Better Times
   - A Relative Stranger
@@ -487,6 +489,7 @@ params:
   - Boston history
   - Boston politics
   - Both Sides Now
+  - Bowling Green
   - Boxing Day
   - Brandeis University Press
   - Brandy Colbert
@@ -497,6 +500,7 @@ params:
   - Brian Cook
   - Brian Cox
   - Brian Jacques
+  - Brian White
   - Briar Rose
   - Brideshead Revisited
   - Bridge Collapse
@@ -584,6 +588,7 @@ params:
   - Caroline Kennedy
   - Caroline Llewellyn
   - Carolyn Haywood
+  - Carolyn Keene
   - Carolyn Wells
   - Carrie Fisher
   - Carrie Smith
@@ -618,6 +623,7 @@ params:
   - Celia's House
   - Chains
   - Chalet School
+  - Change of Plans
   - Charles Barkley
   - Charles Cumming
   - Charles Darwin
@@ -677,6 +683,7 @@ params:
   - Chronicle Books
   - Church of Our Lady and the English Martyrs
   - Churchill War Rooms
+  - Cinderella
   - Citizens of London
   - City of Liars and Thieves
   - Civil Rights
@@ -970,6 +977,7 @@ params:
   - Elizabeth Barrett Browning
   - Elizabeth Bird
   - Elizabeth Cadell
+  - Elizabeth Chadwick
   - Elizabeth Corbett
   - Elizabeth Enright
   - Elizabeth Eulberg
@@ -1439,6 +1447,7 @@ params:
   - Irving Wallace
   - Isaac's Storm
   - Isabella Stewart Gardner
+  - Isabelle Broom
   - Istanbul
   - It is Better to Be Feared
   - Italy
@@ -1519,6 +1528,7 @@ params:
   - Jeremy Lin
   - Jerusalem
   - Jessa Maxwell
+  - Jessica Brockmole
   - Jessica Chiarella
   - Jesuits
   - Jezebel
@@ -1727,6 +1737,7 @@ params:
   - Lady Hamilton
   - Lady Jane Grey
   - Lady Jersey
+  - Lady Tremaine
   - Laid off and loving it
   - Lake District
   - Lake Muskoka
@@ -2443,6 +2454,8 @@ params:
   - RJ Palacio
   - RWA
   - Rachel Field
+  - Rachel Gibson
+  - Rachel Hochhauser
   - Rachel Louise Adams
   - Rachel Solomon
   - Radcliffe
@@ -2599,6 +2612,7 @@ params:
   - San Francisco
   - Sandi Ward
   - Sandra Boynton
+  - Sandra Brown
   - Sandra Bullock
   - Santa
   - Saoirse Ronan
@@ -2936,6 +2950,7 @@ params:
   - The Children on the Top Floor
   - The Christmas Party
   - The City Baker's Guide to Country Living
+  - The Clairvoyant Countess
   - The Classics Circuit
   - The Close
   - The Coincidence of Coconut Cake
@@ -3029,6 +3044,7 @@ params:
   - The Hobbit
   - The Holiday Swap
   - The Horse and His Boy
+  - The House of Hidden Letters
   - The House of Niccolo
   - The House of Niccolò
   - The House of the Deer
@@ -3040,6 +3056,7 @@ params:
   - The Imitation Game
   - The Importance of Being Earnest
   - The In-Between Hour
+  - The Infamous Gilberts
   - The Innocents from Indiana
   - The Island of Adventure
   - The It Girl
@@ -3072,6 +3089,7 @@ params:
   - The Listening Eye
   - The Little Wartime Library
   - The Lizzie and Belle Mysteries
+  - The Locker Room Is Not For Sale
   - The London Library
   - The London Restoration
   - The Lonely Doll
@@ -3152,6 +3170,7 @@ params:
   - The Precious One
   - The Preppy Handbook
   - The Proper Place
+  - The Pumpkin Spice Cafe
   - The Puritan Princess
   - The Reb and the Redcoats
   - The Renegade
@@ -3512,6 +3531,7 @@ params:
   - Yas Imamura
   - Yealand Conyers
   - Yealand Manor
+  - Yesteryear
   - Yorkshire
   - Yorkshire Pudding
   - You and Me and Us
@@ -3929,19 +3949,19 @@ params:
     https://clmsalelist.blogspot.com/: true
     https://perfectretort.blogspot.com/: true
     https://www.blogger.com/profile/03595294217111602231: true
-  last_post_title: River Lodge by Elizabeth Cadell
+  last_post_title: The Locker Room Is Not for Sale by Brian White
   last_post_description: ""
-  last_post_date: "2026-05-10T06:00:00-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/05/river-lodge-by-elizabeth-cadell.html
+  last_post_date: "2026-06-10T21:49:09-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/06/the-locker-room-is-not-for-sale-by.html
   last_post_categories:
-  - 20th century England
-  - Elizabeth Cadell
-  - River Lodge
+  - Bowling Green
+  - Brian White
+  - Harvard football
+  - The Locker Room Is Not For Sale
   - book review
-  - fiction
-  - hotel
+  - nonfiction
   last_post_language: ""
-  last_post_guid: d4089718e550430482850826ae90c985
+  last_post_guid: c24984feb0bda6f2eadec67f03e831bf
   score_criteria:
     cats: 5
     description: 3

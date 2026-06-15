@@ -24,17 +24,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Don''t Reinvent The Wheel: Use What Works'
-  last_post_description: |-
-    “Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should.”
-
-
-    When Jeff Goldblum’s rock star mathematician - sorry, chaotician - spoke
-  last_post_date: "2026-04-09T11:19:00Z"
-  last_post_link: https://dylanbeattie.net/2026/04/09/don-t-reinvent-the-wheel-use-what-works.html
+  last_post_title: “Like Somebody’s Been Practising Prison Tattoos on a Dwarf Aubergine”
+  last_post_description: Krakow airport. Or, to give it its full official name, Krakow
+    Balice John Paul II International Airport. Or, to give it its full name in Polish,
+    which we probably should, because it is in Poland,
+  last_post_date: "2026-05-15T19:26:00Z"
+  last_post_link: https://dylanbeattie.net/2026/05/15/like-somebody-s-been-practising-prison-tattoos-on-a-dwarf-aubergine.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f3149c454a2bd385e1a60ef9379f0455
+  last_post_guid: 7628834f6fd2eca28ac3426d424f1427
   score_criteria:
     cats: 0
     description: 3

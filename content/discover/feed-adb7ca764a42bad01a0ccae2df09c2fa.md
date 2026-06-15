@@ -13,6 +13,9 @@ params:
   - title: Following
     description: ""
     id: 3ab37f775eca10153e3c7a600b2fbe77
+  - title: FeedLand hotlist in OPML
+    description: The most popular feeds on FeedLand, as an OPML subscription list.
+    id: caef69628aa6c48ab75aa8701352b695
   - title: Jared subscriptions in feedly Cloud
     description: ""
     id: 6b39e96ce2ceb8d2b345d8e2a92bcbe9
@@ -29,10 +32,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I'm going back to writing code by hand
+  last_post_title: 'Nextcloud Hub 26 Spring: Built together, designed for the future'
   last_post_description: Comments
-  last_post_date: "2026-05-11T01:23:51Z"
-  last_post_link: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+  last_post_date: "2026-06-11T14:17:47Z"
+  last_post_link: https://nextcloud.com/blog/nextcloud-hub26-spring/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

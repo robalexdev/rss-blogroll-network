@@ -1,5 +1,5 @@
 ---
-title: 2750 words
+title: 揆机
 date: "1970-01-01T00:00:00Z"
 description: 一个法哲学研究者的博客，记录了他的学术之路和社会观察
 params:

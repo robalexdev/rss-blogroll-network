@@ -19,31 +19,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "1"
+  - ai
+  - google
+  - links
+  - open web
+  - search
   relme: {}
-  last_post_title: Funniest/Most Insightful Comments Of The Week At Techdirt
-  last_post_description: It’s a multi-win week for MrWilson, who takes both top spots
-    on the insightful side with one serving as a double-winner at the top of the funny
-    side too. In first place for both insightful and
-  last_post_date: "2026-05-10T19:00:00Z"
-  last_post_link: https://www.techdirt.com/2026/05/10/funniest-most-insightful-comments-of-the-week-at-techdirt-207/
+  last_post_title: Why Google’s New AI-Saturated Search Page Will Be A Disaster
+  last_post_description: Google didn’t invent full-text search of the Internet – that
+    honor belongs to early pioneers such as WebCrawler, Lycos and AltaVista. But for
+    the last 25 years or so, Google has been
+  last_post_date: "2026-06-11T18:05:57Z"
+  last_post_link: https://www.techdirt.com/2026/06/11/why-googles-new-ai-saturated-search-page-will-be-a-disaster/
   last_post_categories:
-  - "1"
+  - ai
+  - google
+  - links
+  - open web
+  - search
   last_post_language: ""
-  last_post_guid: dbeb76b7d5d4e0574caf389e4ea9d127
+  last_post_guid: 448e82330198a7eb2f80c31e389cf443
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

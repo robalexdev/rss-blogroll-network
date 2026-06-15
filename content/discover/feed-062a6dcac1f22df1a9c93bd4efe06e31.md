@@ -14,7 +14,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -48,14 +48,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Kakigori
-  last_post_description: It’s finally warm enough for Ayano to consider eating kakigori.
-    I’ve been waiting for this.
-  last_post_date: "2026-05-02T16:20:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/kakigori.html
+  last_post_title: Torigoe Matsuri 2026
+  last_post_description: Last week, the neighborhood started preparing for 鳥越祭り (Torigoe
+    Matsuri), setting out 新鮮 (shinsen, offering) in front of the 浅三 (Asakusabashi
+    san-chōme) mikoshi. When the weekend
+  last_post_date: "2026-06-07T21:00:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/torigoe-matsuri-2026.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5271cd1d928702b01d4d291c427d52ea
+  last_post_guid: 38de27271e7c1364fa4db50eb18b75f7
   score_criteria:
     cats: 1
     description: 3

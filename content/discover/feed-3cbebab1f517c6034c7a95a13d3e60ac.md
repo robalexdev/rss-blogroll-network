@@ -15,28 +15,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - zulip
+  - sync-in
   - 团队协作
   - 学无止境
-  - 聊天
-  - 聊天软件
+  - 文件同步
+  - 文档编辑
+  - 网盘
   relme: {}
-  last_post_title: Docker部署Zulip团队协作平台
-  last_post_description: !!binary |
-    WnVsaXDmmK/lrozlhajlvIDmupDnmoTvvIzkvYbmmK/oh6rmiZjnrqHniYjmnKzmnInkuI
-    DkupvpmZDliLbvvIzor6bnu4blr7nmr5Tlj6/mtY/op4jov5nkuKrnvZHpobXmn6XnnIvj
-    gILkvLzkuY7lj6rmnInnp7vliqjmjqjpgIHpgJrnn6XpmZDliLYxMOS4queUqOaIt+acie
-    eCueibi+eWvO+8jOWFtuS7lueahOmDveS4jeaAjuS5iOW9seWTjeS9k+k=
-  last_post_date: "2026-04-19T07:54:12Z"
-  last_post_link: https://lala.im/10092.html
+  last_post_title: Sync-in：自托管文件存储、同步、协作平台
+  last_post_description: Sync-in介绍（摘自项目页面） Sync
+  last_post_date: "2026-06-07T14:17:51Z"
+  last_post_link: https://lala.im/10145.html
   last_post_categories:
-  - zulip
+  - sync-in
   - 团队协作
   - 学无止境
-  - 聊天
-  - 聊天软件
+  - 文件同步
+  - 文档编辑
+  - 网盘
   last_post_language: ""
-  last_post_guid: af48aebbd6abfcd448fe238f52e5eafe
+  last_post_guid: 3995f8cf0a8a4191cfc90e169e129fcd
   score_criteria:
     cats: 0
     description: 3

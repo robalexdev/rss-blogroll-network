@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: All You Need To Know About Warsh
-  last_post_description: Let's Look Into The New Fed Chair
-  last_post_date: "2026-02-10T10:04:53Z"
-  last_post_link: https://themacrocompass.substack.com/p/all-you-need-to-know-about-warsh
+  last_post_title: Run It Hot, Yet Again
+  last_post_description: I am back with a healthy dose of macro analysis for you
+  last_post_date: "2026-05-26T06:18:58Z"
+  last_post_link: https://themacrocompass.substack.com/p/run-it-hot-yet-again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43f4304bd0cc6fa54c9fab553760ace8
+  last_post_guid: 96de5a75219d4387e365200a468b691c
   score_criteria:
     cats: 0
     description: 3

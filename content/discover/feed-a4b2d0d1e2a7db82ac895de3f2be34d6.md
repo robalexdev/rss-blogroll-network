@@ -13,11 +13,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.14.
+      feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender:
@@ -25,14 +25,14 @@ params:
   categories:
   - Daily Rundown
   relme: {}
-  last_post_title: "\U0001F6CE️ The First Post Human Lab"
-  last_post_description: 'Plus: BCI Factory, Biology Has Its Garage-Computer Moment'
-  last_post_date: "2026-05-08T10:00:55Z"
-  last_post_link: https://aisecret.us/the-first-post-human-lab/
+  last_post_title: "\U0001F6CE️ Americans Fear AI Most"
+  last_post_description: 'Plus: OpenAI Wants a Price War, AI Broke Our Lie Detector'
+  last_post_date: "2026-06-11T10:00:36Z"
+  last_post_link: https://aisecret.us/americans-fear-ai-most/
   last_post_categories:
   - Daily Rundown
   last_post_language: ""
-  last_post_guid: 724ae66000a0298781ca477c853c536a
+  last_post_guid: bf7b818896d4dee5da930a20180d4bdc
   score_criteria:
     cats: 0
     description: 3

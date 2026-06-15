@@ -1,6 +1,6 @@
 ---
 title: Church of BSD
-date: "2026-03-08T05:34:38-07:00"
+date: "2026-06-07T13:59:42-07:00"
 description: This was Intended to be a BSD only blog, but now it's about all Unix
   Like Free Operating Systems, Linux, FreeBSD etc.
 params:
@@ -43,6 +43,7 @@ params:
   - C++
   - CLI
   - CUDA
+  - China
   - Chrome
   - Clang
   - Commodore
@@ -52,6 +53,7 @@ params:
   - Diaspora
   - Dtrace
   - Emscripten
+  - EulerOS
   - FOSS
   - FPGA
   - FreeBSD
@@ -62,6 +64,7 @@ params:
   - Government
   - GunDB
   - HP
+  - HarmonyOS
   - Haskell
   - Hollow core fibers
   - Humor
@@ -96,6 +99,8 @@ params:
   - Open Source
   - OpenBSD
   - OpenDarwin
+  - OpenHarmony
+  - OpenHarmony.
   - OpenVPN
   - Oracle
   - PC Speaker
@@ -250,27 +255,29 @@ params:
     https://thegreentank.blogspot.com/: true
     https://videotechnology.blogspot.com/: true
     https://www.blogger.com/profile/17719400170309249969: true
-  last_post_title: Unix Man
+  last_post_title: OpenHarmony
   last_post_description: ""
-  last_post_date: "2026-02-10T07:38:28-08:00"
-  last_post_link: https://churchofbsd.blogspot.com/2026/02/unix-man.html
+  last_post_date: "2026-06-05T19:38:28-07:00"
+  last_post_link: https://churchofbsd.blogspot.com/2026/06/openharmony.html
   last_post_categories:
-  - joke
+  - China
+  - HarmonyOS
+  - OpenHarmony
   last_post_language: ""
-  last_post_guid: eeb9e369e26f19204db68ff9c5ce9c29
+  last_post_guid: 5e49df04054d6dd97168f204b74a4b51
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

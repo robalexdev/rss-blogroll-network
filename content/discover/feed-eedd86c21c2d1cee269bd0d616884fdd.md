@@ -11,7 +11,7 @@ params:
     https://adam.younglogic.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5322 blogs
+  - title: Bubbles — 5303 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,35 +23,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
+  - Rust
   - Software
-  - shell
   relme: {}
-  last_post_title: Selecting a subset of files for ctags
-  last_post_description: 'I usually don’t want all of the files in the linux Kernel
-    for my ctags. Sometimes I want a cvery small subset: a set of C files and the
-    included header files. #!/bin/sh for CFILE in'
-  last_post_date: "2026-04-23T17:11:24Z"
-  last_post_link: https://adam.younglogic.com/2026/04/selecting-a-subset-of-files-for-ctags/
+  last_post_title: Debugging Rust in Vim
+  last_post_description: 'On Fedora: in ~/.vimrc Inside vim: Use Ctrl-W DownArrow
+    to switch between windows Use :Break to set a breakpoint in the code window Use
+    Ctrl-W UpArrow to go to the gdb window use run to run the'
+  last_post_date: "2026-05-27T22:34:57Z"
+  last_post_link: https://adam.younglogic.com/2026/05/debugging-rust-in-vim/
   last_post_categories:
-  - Linux
+  - Rust
   - Software
-  - shell
   last_post_language: ""
-  last_post_guid: 02c1ac79db7f0973c2726268083e5946
+  last_post_guid: e0aecb981893061aa6bc7c091073df1c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

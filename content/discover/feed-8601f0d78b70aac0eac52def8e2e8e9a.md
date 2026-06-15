@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Guidance From Ancient Egypt
-  last_post_description: Selected maxims and passages from ancient Egyptian compilation
-    of proverbs.
-  last_post_date: "2026-05-08T00:00:00Z"
-  last_post_link: https://blog.ptrottier.com/blog/egypian-maxims/
+  last_post_title: Avoiding the AI pitfall of uniformity
+  last_post_description: An exploration of astrology as a way to make AI behave creatively.
+  last_post_date: "2026-05-31T00:00:00Z"
+  last_post_link: https://blog.ptrottier.com/blog/may31/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d3255917e2d683a4ab5a75a3f43dcd71
+  last_post_guid: d8e580137defec7a68aefb00a8142860
   score_criteria:
     cats: 0
     description: 3
