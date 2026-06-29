@@ -1,6 +1,6 @@
 ---
 title: a smol miscellanea
-date: "2026-06-11T10:44:31Z"
+date: "2026-06-28T21:44:22Z"
 description: 73% geek, the rest is girly bits
 params:
   feedlink: https://73pctgeek.com/feed/
@@ -10,44 +10,42 @@ params:
     https://73pctgeek.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories:
-  - Daily Drawing
-  - My Art
-  - Procreate
+  - Blog Post
+  - Links
   relme:
     https://73pctgeek.com/: true
     https://pixelfed.art/@73pctGeek: true
     https://pixelfed.social/@73pctGeek: true
     https://social.lol/@73pctGeek: true
     https://www.73pctgeek.com/: true
-  last_post_title: "893"
-  last_post_description: Daily Drawing 893
-  last_post_date: "2026-06-11T10:39:12Z"
-  last_post_link: https://73pctgeek.com/893/
+  last_post_title: Weekly Links 26-26
+  last_post_description: Links I found interesting in week 26 of 2026
+  last_post_date: "2026-06-28T09:23:13Z"
+  last_post_link: https://73pctgeek.com/weekly-links-26-26/
   last_post_categories:
-  - Daily Drawing
-  - My Art
-  - Procreate
+  - Blog Post
+  - Links
   last_post_language: ""
-  last_post_guid: 85a229776932d74bb7863f6dbc11f39f
+  last_post_guid: 778c5638226f0bc153645d7f6a69a1d2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

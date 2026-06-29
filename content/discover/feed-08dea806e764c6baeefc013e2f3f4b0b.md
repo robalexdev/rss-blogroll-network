@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-06-08T05:38:21-07:00"
+date: "2026-06-27T06:53:54-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

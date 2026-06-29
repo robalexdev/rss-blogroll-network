@@ -19,13 +19,15 @@ params:
   categories: []
   relme:
     https://mitchwagner.com/: true
-  last_post_title: "\U0001F98D Mitchellaneous 6.11.2026"
-  last_post_description: ""
-  last_post_date: "2026-06-11T08:55:00-07:00"
-  last_post_link: https://mitchwagner.com/2026/06/11/mitchellaneous.html
+  last_post_title: "\U0001F680 Mitchipedia 6.28.2026"
+  last_post_description: 'The initial joy of the thing is visual: dog head, train
+    body, the proportions of both wildly, delightfully amiss. Art critics might see,
+    in Train Dog’s awkwardness, a bit of sprezzatura—the'
+  last_post_date: "2026-06-28T08:55:00-07:00"
+  last_post_link: https://mitchwagner.com/2026/06/28/mitchipedia.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 083f1c122438b2be2e90cde60a9672ca
+  last_post_guid: 68505ef97014c890254c82cdeabdae79
   score_criteria:
     cats: 0
     description: 0

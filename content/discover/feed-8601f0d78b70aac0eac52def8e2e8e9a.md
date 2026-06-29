@@ -18,13 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Avoiding the AI pitfall of uniformity
-  last_post_description: An exploration of astrology as a way to make AI behave creatively.
-  last_post_date: "2026-05-31T00:00:00Z"
-  last_post_link: https://blog.ptrottier.com/blog/may31/
+  last_post_title: Business Nutshell update
+  last_post_description: Quick update on Business Nutshell and its latest Anticafé
+    Montréal entry.
+  last_post_date: "2026-06-19T00:00:00Z"
+  last_post_link: https://blog.ptrottier.com/blog/businessnutshell/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d8e580137defec7a68aefb00a8142860
+  last_post_guid: deea38e650cfd741ef17fca1b7ebde61
   score_criteria:
     cats: 0
     description: 3

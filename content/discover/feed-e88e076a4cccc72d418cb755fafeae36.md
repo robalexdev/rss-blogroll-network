@@ -10,7 +10,7 @@ params:
     https://jessitron.com/blog/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,46 +25,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Software Development
-  - ai
-  - ai-assisted
-  - coding with AI
-  - domain driven design
-  - newsletter
-  - symmathesy
-  - tistil
+  - external publication
+  - podcast
   relme: {}
-  last_post_title: Verum Factum and the Creator’s Confidence
-  last_post_description: |-
-    Verum Factum: we only really know what we made.
-    Dang, I know that feeling with software! And I miss it, now that AI is doing the coding.
-    But sometimes I still get it...
-  last_post_date: "2026-06-06T14:38:08Z"
-  last_post_link: https://jessitron.com/2026/06/06/verum-factum-and-the-creators-confidence/
+  last_post_title: Symmathesy and Ai with Kent Beck
+  last_post_description: ""
+  last_post_date: "2026-06-17T13:43:45Z"
+  last_post_link: https://jessitron.com/2026/06/17/symmathesy-and-ai-with-kent-beck/
   last_post_categories:
-  - Software Development
-  - ai
-  - ai-assisted
-  - coding with AI
-  - domain driven design
-  - newsletter
-  - symmathesy
-  - tistil
+  - external publication
+  - podcast
   last_post_language: ""
-  last_post_guid: 7f210fd349b0a02c95e18a7e21c060cc
+  last_post_guid: b03fc77e3b23ceb5948e7a770ff69dff
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,23 +19,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - via:peteashton
-  - webdesign
-  - webdevelopment
+  - bobdylan
+  - greilmarcus
+  - music
+  - rollingstone
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: 'Dan Fixes Coin-Ops: "It''s 1998, you make a website …" - Retro
-    Social'
-  last_post_description: Entertaining thread about making early websites. (via Pete
-    Ashton)
-  last_post_date: "2026-06-09T14:32:56Z"
-  last_post_link: https://retro.social/@ifixcoinops/116711332505710610
+  last_post_title: 'Ask Greil: June 26, 2026'
+  last_post_description: I always enjoy these and this is a good one. Greil Marcus
+    on, as so often, Bob Dylan, Rolling Stone of old, and more.
+  last_post_date: "2026-06-27T08:49:48Z"
+  last_post_link: https://greilmarcus.substack.com/p/ask-greil-june-26-2026
   last_post_categories:
-  - via:peteashton
-  - webdesign
-  - webdevelopment
+  - bobdylan
+  - greilmarcus
+  - music
+  - rollingstone
   last_post_language: ""
-  last_post_guid: 94a6f36b10d16ab9fd55544e4fe5bdc4
+  last_post_guid: 03853f8b0be5c8ec1a71c2e8cb1a88a9
   score_criteria:
     cats: 0
     description: 3

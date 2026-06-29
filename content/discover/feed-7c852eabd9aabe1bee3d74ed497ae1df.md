@@ -18,6 +18,7 @@ params:
   categories:
   - property
   relme:
+    https://draft.blogger.com/profile/15629979615332893780: true
     https://reflectionsonfilmandtelevision.blogspot.com/: true
     https://vampirehotelqueencity.blogspot.com/: true
     https://woodpyremill.blogspot.com/: true

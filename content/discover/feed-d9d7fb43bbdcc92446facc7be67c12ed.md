@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-06-10T08:13:22Z"
+date: "2026-06-28T07:49:51Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,23 +18,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - benchmark
-  - software
-  - spec
-  - speccpu2026
+  - arm
+  - cpu
+  - hardware
+  - neoverse
+  - performance
+  - uarch-review
   relme: {}
-  last_post_title: SPEC CPU 2026 负载特性分析（FP Rate 篇）
-  last_post_description: 背景¶ 继 INT Rate 篇 后，本文继续分析 SPEC FP 2026 Rate 的负载特性。  测试环境与先前的
-    INT Rate 篇 相同，这里不再赘述。 推荐阅读：Evaluating SPEC CPU2026
-  last_post_date: "2026-05-29T00:00:00Z"
-  last_post_link: https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/
+  last_post_title: ARM Neoverse V3 (代号 Poseidon) 微架构评测
+  last_post_description: '背景¶ 使用 ARM Neoverse V3 核心的 AWS Graviton 5 最近上线了，相比之前的 Neoverse
+    V2 应该有一些改进，所以测试一下这个微架构在各个方面的表现。 '
+  last_post_date: "2026-06-13T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2026/06/13/arm-neoverse-v3/
   last_post_categories:
-  - benchmark
-  - software
-  - spec
-  - speccpu2026
+  - arm
+  - cpu
+  - hardware
+  - neoverse
+  - performance
+  - uarch-review
   last_post_language: ""
-  last_post_guid: df1629db4bfabd77f69849dd974a30bb
+  last_post_guid: 8268d1d7e8ef4e9e1579978d9c703990
   score_criteria:
     cats: 0
     description: 3

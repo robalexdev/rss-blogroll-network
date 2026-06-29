@@ -13,7 +13,7 @@ params:
   - title: Newsboat - Exported Feeds
     description: ""
     id: ec90496862be28875cc54bc36aa37ca7
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll

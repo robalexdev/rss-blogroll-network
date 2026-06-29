@@ -1,9 +1,8 @@
 ---
 title: Confessions of a Code Addict
 date: "1970-01-01T00:00:00Z"
-description: Deep dives into compilers, performance optimization, Linux internals,
-  and low-level programming. For engineers who love understanding systems at a fundamental
-  level.
+description: 'I write about how computers work underneath the abstractions: compilers,
+  operating systems, memory, performance, and low-level programming.'
 params:
   feedlink: https://blog.codingconfessions.com/feed
   feedtype: rss
@@ -12,7 +11,7 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -22,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Understanding a Process’s Address Space Layout
-  last_post_description: 'In this video, we look at how a process’s virtual address
-    space is laid out: code, data, heap, stack, shared libraries, mmap regions, and
-    more.'
-  last_post_date: "2026-06-06T15:18:47Z"
-  last_post_link: https://blog.codingconfessions.com/p/understanding-a-processs-address
+  last_post_title: How Big Is a Physical Address?
+  last_post_description: A short aside from the virtual memory series on physical
+    address size, why it differs from virtual address size, and why different CPUs
+    expose different limits.
+  last_post_date: "2026-06-22T17:05:03Z"
+  last_post_link: https://blog.codingconfessions.com/p/how-big-is-a-physical-address
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 32aa16adddd8b6f560f858f76db2f851
+  last_post_guid: e3cba87b683e4ff3fd1b04a9f079dc55
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
-title: THE STRATEGIC NON-TECHNICAL FOUNDER
+title: THE STRATEGIC SAAS FOUNDER
 date: "1970-01-01T00:00:00Z"
-description: Playbook for founders before they build in the age of AI
+description: Build something worth selling
 params:
   feedlink: https://abechallah.com/feed/
   feedtype: rss

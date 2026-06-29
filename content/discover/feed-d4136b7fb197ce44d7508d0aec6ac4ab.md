@@ -10,7 +10,7 @@ params:
     https://blog.arkholt.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,14 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comic Strip History - The Grawlix
-  last_post_description: In times past, when I've covered words or phrases that originated
-    in a comic strip, generally they had a major effect only on the English language,…
-  last_post_date: "2026-04-25T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/grawlix
+  last_post_title: Comic Strip History - Dinty Moore
+  last_post_description: Once again, coming to you from the "I had no idea how complicated
+    this would be when I started" department, we have Dinty Moore, the well known
+    brand…
+  last_post_date: "2026-06-27T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/dinty-moore
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b1b2f450e8d6c3fd15df37c2c33a5b8
+  last_post_guid: 1ce6b02f67be657eafb9a679aaeedfbd
   score_criteria:
     cats: 0
     description: 3

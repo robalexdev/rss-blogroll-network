@@ -103,6 +103,9 @@ params:
   - title: mtlynch.io
     description: Recent content on mtlynch.io
     id: 853181e6754bb2dbd37a6b974beb15c2
+  - title: Jan-Lukas Else
+    description: "just moved to janlukas.blog \U0001F4E6"
+    id: 8ee6660fdfcfc06a5f91f2830ba54ebb
   - title: Simon Safar
     description: All recent entries from simonsafar.com
     id: 90854f1f0dae048e656814729f666c81

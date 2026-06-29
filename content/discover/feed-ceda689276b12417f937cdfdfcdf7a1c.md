@@ -21,25 +21,23 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI
-  - AI Engineering
-  - Software Development
-  - Tech Careers
+  - AI Agents
+  - AI Infrastructure
+  - Model Context Protocol (MCP)
   relme: {}
-  last_post_title: '“AI is disrupting everything”: Where do entry-level tech jobs
-    go now?'
+  last_post_title: '“Bring it to our shop”: Workday’s pitch for keeping AI agents
+    close to your most valuable data'
   last_post_description: |-
-    The impact AI is making on the world’s workforce is being felt across every industry, but perhaps nowhere more acutely
-    The post “AI is disrupting everything”: Where do entry-level tech jobs go
-  last_post_date: "2026-06-11T18:34:19Z"
-  last_post_link: https://thenewstack.io/ai-junior-developer-hiring/
+    Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses
+    The post “Bring it to our shop”: Workday’s pitch for keeping AI agents close
+  last_post_date: "2026-06-28T15:00:00Z"
+  last_post_link: https://thenewstack.io/workday-ai-inference-guardrails/
   last_post_categories:
-  - AI
-  - AI Engineering
-  - Software Development
-  - Tech Careers
+  - AI Agents
+  - AI Infrastructure
+  - Model Context Protocol (MCP)
   last_post_language: ""
-  last_post_guid: 4e98bf8bbdbe58762c51ecdf18e4332a
+  last_post_guid: 3a21a32ae11458f1c2f2cf39f43dc010
   score_criteria:
     cats: 0
     description: 0

@@ -30,7 +30,7 @@ params:
   last_post_title: NSA and IETF, part 6
   last_post_description: 'The structure of the debate. #pqcrypto #hybrids #nsa #ietf
     #chart'
-  last_post_date: "2026-04-18T03:49:52Z"
+  last_post_date: "2026-06-25T09:32:44Z"
   last_post_link: http://blog.cr.yp.to/20260221-structure.html
   last_post_categories:
   - '#pqcrypto'

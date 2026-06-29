@@ -13,21 +13,27 @@ params:
   - title: HN Personal Websites
     description: ""
     id: 2d06252d862b16b20bf508ffad823c50
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'React at 1,000 updates per second: Streaming market data'
-  last_post_description: Architect a high-frequency financial ticker in React by decoupling
-    WebSocket streaming from React rendering loops to eliminate main-thread lag.
-  last_post_date: "2026-06-01T00:00:00Z"
-  last_post_link: https://nabraj.com/blog/react-at-1000-updates-per-second
+  last_post_title: Building runtime-controlled AI agents
+  last_post_description: What happens when you strip an LLM of its autonomy? An experiment
+    where the LLM is stripped of its autonomy and have a small runtime force the boundaries.
+  last_post_date: "2026-06-14T00:00:00Z"
+  last_post_link: https://nabraj.com/blog/building-runtime-controlled-ai-agents
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ebab5205348afede9591d2dcbaaa8d3
+  last_post_guid: 9adbbac06e3e1489dc48593f38a3a8c8
   score_criteria:
     cats: 0
     description: 3

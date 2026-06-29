@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-06-11T14:14:06+01:00"
+date: "2026-06-28T16:17:55+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -254,16 +254,19 @@ params:
   - Zandervan
   - ale
   - appledore
+  - avon float
   - bait dropper
   - bait-tech hybrid barbel hookbait
   - baitcaster
   - baitfish
+  - banded
   - bangers
   - barbara
   - barbel. dave
   - beach
   - beaver
   - ben
+  - beth
   - bleak
   - blenny
   - bobby moore
@@ -286,11 +289,13 @@ params:
   - canal tench
   - canoe
   - caster
+  - casters
   - caught in the act
   - chatubate
   - cheesepaste
   - chevin
   - chublet
+  - chublets
   - cocoons
   - cold
   - coloured
@@ -465,6 +470,7 @@ params:
   - stream
   - sunrise
   - surface
+  - surface bread
   - surface popper
   - swan
   - sweetcorn
@@ -498,19 +504,21 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: 'Canal Roach: Trapped in a Sisyphean Loop - Pt.19'
+  last_post_title: Warwickshire Avon - Synchronised and Subterfuge
   last_post_description: ""
-  last_post_date: "2026-06-11T07:45:26+01:00"
-  last_post_link: https://calamitymn.blogspot.com/2026/06/canal-roach-trapped-in-sisyphean-loop_01548225987.html
+  last_post_date: "2026-06-28T14:12:13+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/06/warwickshire-avon-synchronised-and.html
   last_post_categories:
-  - Bread
-  - Canal
-  - Liquidised bread
-  - canal Carp
-  - lift method
-  - skimmer
+  - Chub
+  - Perch
+  - Roach
+  - Trotting
+  - banded
+  - chublet
+  - dace
+  - pellet
   last_post_language: ""
-  last_post_guid: c0e28edd7e5b106930378d22f4c17918
+  last_post_guid: 4c8036030fa6e7217300e63ba4032ba2
   score_criteria:
     cats: 5
     description: 0

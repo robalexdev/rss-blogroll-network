@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-06-11T08:49:31Z"
+date: "2026-06-28T18:30:05Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -30,7 +30,7 @@ params:
   relme: {}
   last_post_title: '2026年 激战2 常用网站和工具 #Guild wars 2'
   last_post_description: ""
-  last_post_date: "2026-06-10T20:49:15Z"
+  last_post_date: "2026-06-25T18:29:44Z"
   last_post_link: https://anotherdayu.com/guild-wars-2/
   last_post_categories:
   - Steam

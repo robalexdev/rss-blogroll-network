@@ -28,42 +28,25 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - 2026 NBA Playoffs
-  - Jalen Brunson
-  - Johnny Tremain
-  - Karl-Anthony Towns
-  - NBA
-  - New York Knicks
-  - Podcasts
-  - Risotto
-  - Tennis
-  - The Distraction
-  - french open
-  - san antonio spurs
-  - victor wembanyama
+  - Gaelic Football
+  - all-ireland football championship
+  - dublin
+  - galway
   relme: {}
-  last_post_title: Guttural Fan Noises And Exceptional Risottos, With Giri Nathan
-  last_post_description: There are many people who are capable of watching dramatic
-    sporting events in crowded bars and enjoying themselves. You may be one of them,
-    and you have almost certainly seen them out there erupting
-  last_post_date: "2026-06-11T17:56:54Z"
-  last_post_link: https://defector.com/guttural-fan-noises-and-exceptional-risottos-with-giri-nathan
+  last_post_title: Dublin Pulls Off Comeback To Beat Galway In All-Ireland Quarterfinal
+  last_post_description: |-
+    Dublin closed out a thrilling All-Ireland football quarterfinal weekend with a massive and penalty-aided comeback to beat Galway Sunday afternoon in Croke Park, 1-25 to 1-21.
+
+    Galway was up by six
+  last_post_date: "2026-06-28T20:45:45Z"
+  last_post_link: https://defector.com/dublin-pulls-off-comeback-to-beat-galway-in-all-ireland-quarterfinal
   last_post_categories:
-  - 2026 NBA Playoffs
-  - Jalen Brunson
-  - Johnny Tremain
-  - Karl-Anthony Towns
-  - NBA
-  - New York Knicks
-  - Podcasts
-  - Risotto
-  - Tennis
-  - The Distraction
-  - french open
-  - san antonio spurs
-  - victor wembanyama
+  - Gaelic Football
+  - all-ireland football championship
+  - dublin
+  - galway
   last_post_language: ""
-  last_post_guid: a557d7f763b4ed01f8f48bc6d5affd0d
+  last_post_guid: c1e19902805b1037e6ab5a7c13f336b1
   score_criteria:
     cats: 0
     description: 3

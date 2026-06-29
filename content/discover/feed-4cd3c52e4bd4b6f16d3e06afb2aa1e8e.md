@@ -25,42 +25,30 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - 2020 elections
-  - Donald Trump
-  - Election Conspiracies
-  - Georgia Election Board
-  - Nevada
-  - The Franchise
-  - Todd Blanche
+  - Editors' Blog
   relme: {}
-  last_post_title: A Seasoned Big Liar May Soon be Running Elections in Nevada
-  last_post_description: Hello, and welcome back to The Franchise! We don’t yet have
-    official results for Nevada’s secretary of state primary this...
-  last_post_date: "2026-06-11T18:00:28Z"
-  last_post_link: https://talkingpointsmemo.com/the-franchise/a-seasoned-big-liar-may-soon-be-running-elections-in-nevada
+  last_post_title: Google, AI, Oligarchy and the End of the ‘Open Web’
+  last_post_description: I wanted to share a small observation about the interweaving
+    worlds of AI, oligarchy, monopoly and – more distantly, but...
+  last_post_date: "2026-06-27T22:54:59Z"
+  last_post_link: https://talkingpointsmemo.com/edblog/google-ai-oligarchy-and-the-end-of-the-open-web
   last_post_categories:
-  - 2020 elections
-  - Donald Trump
-  - Election Conspiracies
-  - Georgia Election Board
-  - Nevada
-  - The Franchise
-  - Todd Blanche
+  - Editors' Blog
   last_post_language: ""
-  last_post_guid: 6959e277bdc246eeec0a66663804e2f9
+  last_post_guid: 6bd5f86bd0a10e6effee34f0cf9e24d2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

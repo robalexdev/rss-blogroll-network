@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -41,15 +41,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: I tested every IP KVM in my Homelab
+  last_post_title: Quickly apply LUTs (color grading) with ffmpeg
   last_post_description: |-
-    Since the PiKVM came out in 2017, there's been an explosion of IP KVMs. I've tested almost every one. But what are they good for?
-    You can use Remote Desktop, Screen Sharing, or VNC to remote control
-  last_post_date: "2026-06-05T09:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/
+    This is a quick post, mostly for my own reference.
+    I've avoided LUTs and 'Log' video footage for years1, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage
+  last_post_date: "2026-06-25T21:23:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dab41c5a33e26af619da0ef5e0aca122
+  last_post_guid: d7e9fad8ed1fbe175bff640287601e2a
   score_criteria:
     cats: 0
     description: 3

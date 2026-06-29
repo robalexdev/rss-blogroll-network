@@ -10,7 +10,7 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -44,32 +44,38 @@ params:
   - http://scripting.com/rss.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Design
+  - My Glamorous Life
+  - Pete Zeldman
+  - glamorous
+  - music
   relme:
     https://zeldman.com/: true
-  last_post_title: Remembrance of zeldman.coms past
-  last_post_description: |-
-    Look back in anchor tags: a partial review of my site’s 31-year visual history before diving into the new design.
-    The post Remembrance of zeldman.coms past appeared first on Jeffrey Zeldman
-  last_post_date: "2026-06-04T14:35:27Z"
-  last_post_link: https://zeldman.com/2026/06/04/remembrance-of-zeldman-coms-past/
+  last_post_title: Underdubbed
+  last_post_description: When my brother Pete and I were kids, and our parents were
+    out of town, we ditched school for a week and cut an “album” by recording backing
+    tracks to my dad’s reel-to-reel, then live
+  last_post_date: "2026-06-17T13:04:20Z"
+  last_post_link: https://zeldman.com/2026/06/17/underdubbed/
   last_post_categories:
-  - Design
+  - My Glamorous Life
+  - Pete Zeldman
+  - glamorous
+  - music
   last_post_language: ""
-  last_post_guid: 497130577ec10e9e3ed32ae396a218ee
+  last_post_guid: 08a2f27b404f2f0c18fad68f3d535202
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

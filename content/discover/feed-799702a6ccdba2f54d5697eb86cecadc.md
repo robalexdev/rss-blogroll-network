@@ -10,7 +10,7 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,21 +31,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Misc
+  - Mac
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: DuckDuckGo No-AI Search
-  last_post_description: "Volker explains in a post how he uses the Brave Browser.\n\tThe
-    DuckDuckGo No-AI Search extension sounds intrigueing and thus I installed it for
-    my Brave Browser.\n\tWill see how this performs in the"
-  last_post_date: "2026-06-11T08:12:15+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/06/11/DuckDuckGo-No-AI-Search.html?utm_medium=rss
+  last_post_title: Change the folder for Screenshots on Mac OS
+  last_post_description: "Another quick trick from Practical Betterments: Create a
+    default folder for screenshots\n\n\n\t\n\t\tPress Shift + Command + 5 to open
+    the screen capture interface.\n\t\tClick the Options dropdown.\n\t\tUnder"
+  last_post_date: "2026-06-21T08:35:44+02:00"
+  last_post_link: https://blog.x-way.org/Mac/2026/06/21/Change-the-folder-for-Screenshots-on-Mac-OS.html?utm_medium=rss
   last_post_categories:
-  - Misc
+  - Mac
   last_post_language: ""
-  last_post_guid: 6d985a2f21ce06cfa065d271408ac676
+  last_post_guid: 7582cc8d8c552ceeff14343a33a6e0fe
   score_criteria:
     cats: 0
     description: 3

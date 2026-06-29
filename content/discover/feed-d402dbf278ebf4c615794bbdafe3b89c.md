@@ -1,7 +1,10 @@
 ---
 title: Port 1/PT
-date: "2026-06-11T17:52:29Z"
+date: "2026-06-28T22:21:23Z"
 description: |-
+  2026-06-18 12:03
+  this blog has been decommissioned
+
   2026-06-02 15:02 update
 
   designer - eats

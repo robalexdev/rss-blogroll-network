@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Anthropic has caught up to OpenAI in image understanding
-  last_post_description: But neither one is all that good.
-  last_post_date: "2026-06-10T19:21:18Z"
-  last_post_link: https://www.understandingai.org/p/anthropic-has-caught-up-to-openai
+  last_post_title: The MAGA power struggle that could decide the fate of Anthropic
+  last_post_description: It may not be easy for Anthropic to escape the Trump export
+    ban.
+  last_post_date: "2026-06-15T21:08:45Z"
+  last_post_link: https://www.understandingai.org/p/the-maga-power-struggle-that-could
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fce0e9b01a942d5f21651acade80f559
+  last_post_guid: d7b5ff72c9648c35305c495b74e13e12
   score_criteria:
     cats: 0
     description: 3

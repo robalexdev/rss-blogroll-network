@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-06-11T07:52:44-04:00"
+date: "2026-06-28T11:14:31-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -168,29 +168,28 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: All the Battles Worth Watching, One after Another
+  last_post_title: Harrowing Drive Home
   last_post_description: ""
-  last_post_date: "2026-06-11T07:52:44-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/06/all-battles-worth-watching-one-after.html
+  last_post_date: "2026-06-28T05:26:40-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/06/harrowing-drive-home.html
   last_post_categories:
-  - movie reviews
-  - politics
-  - social justice
+  - travel
+  - weather
   last_post_language: ""
-  last_post_guid: c57c1892b6c6a6156fef2381f998925d
+  last_post_guid: 979f146a44ba8ae52c25f1e53402e4c7
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

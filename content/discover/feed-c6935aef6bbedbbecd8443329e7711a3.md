@@ -16,32 +16,51 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Affiliate经验
   - Ai联盟营销
+  - CAPI
+  - Facebook广告
   - Media Buy
-  - Zeydoo
-  - media buy
+  - Meta广告
+  - Niche站赚钱
+  - Pixel追踪
+  - 内容营销
+  - 实操案例
+  - 广告优化
+  - 广告归因
+  - 归因功能
+  - 数据丢失
+  - 服务器端追踪
+  - 浏览器像素
+  - 联盟营销
   - 被动收入
-  - 赚美金案例
-  - 赚钱指南
-  - 项目实操案例
+  - 转化数据
   relme: {}
-  last_post_title: 为什么大多数Facebook广告都会死掉？—而这个Campaigns却持续5个月保持盈利
-  last_post_description: Bin，一位来自中国的普通联盟营销从业者，拥有近六年的Affiliate业内经验。在2020年进入联..
-  last_post_date: "2026-05-22T08:17:41Z"
-  last_post_link: https://www.fuyuzhe.com/zeydoo-facebook.html
+  last_post_title: 如何通过Pixel、CAPI和归因功能在Meta上防止转化数据丢失
+  last_post_description: 写一篇 关于CAPI功能的讨论 简短教程，向大家展示如何在Facebook广告中改善统计分析工作。 如果你曾盯着你的
+    追踪器 显示40个转化，而Ads
+  last_post_date: "2026-06-26T06:57:05Z"
+  last_post_link: https://www.fuyuzhe.com/meta-conversion-data-loss-prevention.html
   last_post_categories:
-  - Affiliate经验
   - Ai联盟营销
+  - CAPI
+  - Facebook广告
   - Media Buy
-  - Zeydoo
-  - media buy
+  - Meta广告
+  - Niche站赚钱
+  - Pixel追踪
+  - 内容营销
+  - 实操案例
+  - 广告优化
+  - 广告归因
+  - 归因功能
+  - 数据丢失
+  - 服务器端追踪
+  - 浏览器像素
+  - 联盟营销
   - 被动收入
-  - 赚美金案例
-  - 赚钱指南
-  - 项目实操案例
+  - 转化数据
   last_post_language: ""
-  last_post_guid: e61c93c5b03809acf72b56485d043995
+  last_post_guid: c1f4dcfaad9184af2ec0d480f9c66e6b
   score_criteria:
     cats: 0
     description: 3

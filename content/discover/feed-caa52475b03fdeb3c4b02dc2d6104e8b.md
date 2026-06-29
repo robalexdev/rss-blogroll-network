@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-06-11T12:23:07-04:00"
+date: "2026-06-28T20:42:50-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Wonders of Web Weaving #5: Mike'
-  last_post_description: I was a guest on James’ fantastic Wonders of Web Weaving
-    podcast!We talk about, among other things, balancing personal and professional
-    identities on personal websites, curating interesting content
-  last_post_date: "2026-06-09T10:13:00-04:00"
-  last_post_link: https://web-weaving.jamesg.blog/5
+  last_post_title: Scroll quadrāgintā quīnque
+  last_post_description: Welcome to volume forty-five of Scrolls, a newsletter for
+    sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week
+    we’re doing whatever we want on the web (because we can),
+  last_post_date: "2026-06-12T10:40:00-04:00"
+  last_post_link: https://shellsharks.com/scrolls/scroll/2026-06-12
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 752a672f5525def3e4bbb24df37bc7b4
+  last_post_guid: 5250e2c32b540e91c810da8f1e87fac0
   score_criteria:
     cats: 0
     description: 3

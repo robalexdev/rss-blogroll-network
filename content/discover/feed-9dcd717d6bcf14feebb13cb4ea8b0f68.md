@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-06-09T17:00:00+02:00"
+date: "2026-06-23T12:20:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ocarina of Time Remake
-  last_post_description: Holy shit, holy shit, holy shit, holy shit, holy shit, holy
-    shit holy shit, holy shit, holy shit, holy shit, holy shit, holy shit, holy shit,
-    holy shit!
-  last_post_date: "2026-06-09T17:00:00+02:00"
-  last_post_link: https://overkill.wtf/notes/ocarina-of-time-remake
+  last_post_title: Fuck you, Polygon!
+  last_post_description: Fuck you, Polygon, for spoiling the latest six-hour episode
+    of Critical Role less than 24 hours after its release. Kicked you out of my RSS
+    reader, what a dick move!
+  last_post_date: "2026-06-23T12:20:00+02:00"
+  last_post_link: https://overkill.wtf/notes/polygon-critical-role-spoiler
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 25a34b499efd3e88971411d379ccb1eb
+  last_post_guid: b5d112370b27a31a5f77528f44502047
   score_criteria:
     cats: 0
     description: 3

@@ -22,13 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 确定性和掌控欲
-  last_post_description: 最近观察自己和团队在使用 AI
-  last_post_date: "2026-05-23T00:00:00Z"
-  last_post_link: https://leovan.me/cn/2026/05/certainty-and-control-your-ai-is-not-your-ai/
+  last_post_title: 多智能体系统
+  last_post_description: |-
+    单智能体
+    在单智能体中，ReAct 框架 1 作为当前智能体的一个核心设计模式，其通过 Reasoning（推理）和
+  last_post_date: "2026-06-20T00:00:00Z"
+  last_post_link: https://leovan.me/cn/2026/06/multi-agent-system/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 908f7f9df3447566a1f17b38ca08ca71
+  last_post_guid: 4b18234cd45ab20b31909ccdb1ddb0ec
   score_criteria:
     cats: 0
     description: 3

@@ -77,13 +77,13 @@ params:
   - https://hacdias.com/writings/feed.xml
   categories: []
   relme: {}
-  last_post_title: Beam Pipe
+  last_post_title: 720 Ollie
   last_post_description: ""
-  last_post_date: "2026-06-10T04:00:00Z"
-  last_post_link: https://xkcd.com/3257/
+  last_post_date: "2026-06-26T04:00:00Z"
+  last_post_link: https://xkcd.com/3264/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c4f72c27a30d28957b1b6656d10df04e
+  last_post_guid: 9d8113fdb2c8ecbd34b144351cd00c35
   score_criteria:
     cats: 0
     description: 3

@@ -1,5 +1,5 @@
 ---
-title: Ankur Sethi's Internet Website
+title: Ankur Sethi
 date: "1970-01-01T00:00:00Z"
 description: Personal website of Ankur Sethi, writer and independent frontend engineer
   living in Bangalore, India.
@@ -11,7 +11,7 @@ params:
     https://ankursethi.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,14 +23,15 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: So you want to write a GUI framework
+  relme:
+    https://ankursethi.com/: true
+  last_post_title: Your analytics are lying to you
   last_post_description: ""
-  last_post_date: "2026-06-11T09:17:34Z"
-  last_post_link: https://ankursethi.com/links/so-you-want-to-write-a-gui-framework/
+  last_post_date: "2026-06-26T15:37:36Z"
+  last_post_link: https://ankursethi.com/blog/your-analytics-are-lying-to-you/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f905e413637979a16a1a8333da80ffd2
+  last_post_guid: 217cef6a80dce0a2dec0184ecd10ff4c
   score_criteria:
     cats: 0
     description: 3
@@ -40,10 +41,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -16,29 +16,23 @@ params:
   recommender: []
   categories:
   - Ausfahrten
-  - Ausflug
-  - Deutschland
-  - Gedanken
-  - Leben
-  - Nordsee
-  - Philosophische Tankstellen
+  - Fahrradtour
+  - Karlsruhe
+  - Kraichgau
   relme: {}
-  last_post_title: Am Deich
-  last_post_description: Ein paar Tage an der See. Gedanken in der Stille In einer
-    der letzten Ausgaben des Magazins der „SÃ¼ddeutschen Zeitung“ verfing sich mein
-    Blick in einer Anzeige. Ganzseitig. Schicke Bilder,
-  last_post_date: "2026-06-09T10:00:51Z"
-  last_post_link: https://1000huegelmomente.de/am-deich/
+  last_post_title: Alles in Ordnung
+  last_post_description: 'Diese Welt ist alles andere als leicht zu ertragen: Aus
+    einer ursprünglichen Momentaufnahme des Wahnsinns und der Irren ist ein Standbild
+    geworden. Nichts für schwache Gemüter. Für mich'
+  last_post_date: "2026-06-19T10:54:21Z"
+  last_post_link: https://1000huegelmomente.de/alles-in-ordnung/
   last_post_categories:
   - Ausfahrten
-  - Ausflug
-  - Deutschland
-  - Gedanken
-  - Leben
-  - Nordsee
-  - Philosophische Tankstellen
+  - Fahrradtour
+  - Karlsruhe
+  - Kraichgau
   last_post_language: ""
-  last_post_guid: 59008082dcc73d71a8659a430a637b8f
+  last_post_guid: 3d8e79d5278d66e7d3a38460215c8e0e
   score_criteria:
     cats: 0
     description: 3

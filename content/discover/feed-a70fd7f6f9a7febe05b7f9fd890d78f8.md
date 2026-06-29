@@ -1,10 +1,10 @@
 ---
 title: Nate Meyvis
-date: "2026-06-11T17:21:11Z"
+date: "2026-06-28T23:41:42Z"
 description: |-
-  I am an itinerant software engineer who likes to raise children, read, and memorize things.
+  Pulpit! Canst thou not make a pulpit, by simply inverting the nearest tub...[^1]
 
-  If you're not sure whether you should email me, you probably s...
+  I am an itinerant software engineer who likes to raise children, read, an...
 params:
   feedlink: https://www.natemeyvis.com/feed/
   feedtype: atom
@@ -13,7 +13,7 @@ params:
     https://www.natemeyvis.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites
@@ -25,33 +25,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - feelings
-  - generative AI
-  - software
+  - reading notes
+  - writing
   relme: {}
-  last_post_title: Humanistic reactions to Fable
+  last_post_title: '"Write for one person"'
   last_post_description: ""
-  last_post_date: "2026-06-11T17:17:05Z"
-  last_post_link: https://www.natemeyvis.com/humanistic-reactions-to-fable/
+  last_post_date: "2026-06-24T12:16:33Z"
+  last_post_link: https://www.natemeyvis.com/write-for-one-person/
   last_post_categories:
-  - feelings
-  - generative AI
-  - software
+  - reading notes
+  - writing
   last_post_language: ""
-  last_post_guid: ea6077fbfdb180541edd5d7704d89c32
+  last_post_guid: 81b9c9d1ea47fb775f6dc7fb3c9eaa30
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

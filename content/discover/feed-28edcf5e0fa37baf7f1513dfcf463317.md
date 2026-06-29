@@ -22,33 +22,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 开发
-  - 项目
+  - 生活
+  - 随笔
+  - 高考
   relme: {}
-  last_post_title: 「进行中」XDSec SSO开发小记
-  last_post_description: |-
-    因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […]
-    「进行中」XDSec
-  last_post_date: "2026-05-17T03:22:57Z"
-  last_post_link: https://www.xiaozonglin.cn/xdsec-sso-dev-notes/
+  last_post_title: 高考之后（贰）
+  last_post_description: 西安的天逐渐热了起来，太阳大，云少，空气都是热的。相比于福建的桑拿天，貌似这里的天气比较好。前段时间没了解过我
+  last_post_date: "2026-06-15T08:44:41Z"
+  last_post_link: https://www.xiaozonglin.cn/after-gaokao-secondary/
   last_post_categories:
-  - 开发
-  - 项目
+  - 生活
+  - 随笔
+  - 高考
   last_post_language: ""
-  last_post_guid: 75cfddba7dde3edd7dac382774b716d8
+  last_post_guid: 3fd231ab8a7f14fb7b2abac648f4ce43
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

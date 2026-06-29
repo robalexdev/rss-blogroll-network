@@ -10,7 +10,7 @@ params:
     https://blog.strengthofone.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,23 +28,25 @@ params:
   - Art
   - Photos
   - graffiti
+  - lettering
   - spray paint
   - street art
   relme: {}
-  last_post_title: Keep Lifting
-  last_post_description: A wonderful example of taking cues from the environment to
-    tell a story. Seeing what others may miss and expressing it in a new way. We tell
-    our stories every day and leave them open to
-  last_post_date: "2026-06-07T13:15:20Z"
-  last_post_link: https://blog.strengthofone.com/2026/06/07/keep-lifting/
+  last_post_title: Monuments
+  last_post_description: I’m not sure if it’s a New York thing or not, but I love
+    that small business owners have artists paint the sides of their trucks with absolutely
+    outlandish graffiti scenes. These panel trucks
+  last_post_date: "2026-06-28T11:54:05Z"
+  last_post_link: https://blog.strengthofone.com/2026/06/28/monuments/
   last_post_categories:
   - Art
   - Photos
   - graffiti
+  - lettering
   - spray paint
   - street art
   last_post_language: ""
-  last_post_guid: 98649d25798e89e0200a3ee7fe82105c
+  last_post_guid: 5d9750892980a80bf7bee253486ea39f
   score_criteria:
     cats: 0
     description: 3

@@ -24,16 +24,14 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Personal Data Framework
-  last_post_description: Updated May 2026 As some of you may know, I carry everything
-    I own in my backpack every day. Recently, that backpack was stolen. Replacing
-    my passport took some time, but replacing my laptop did not,
-  last_post_date: "2026-05-23T17:58:01Z"
-  last_post_link: https://jeremymaluf.com/personal-data/
+  last_post_title: 'Protected: City Walks'
+  last_post_description: There is no excerpt because this is a protected post.
+  last_post_date: "2026-06-24T17:27:11Z"
+  last_post_link: https://jeremymaluf.com/routes/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 9ef658fe38bdef78b568edd67e1eca4a
+  last_post_guid: 14210bc67e12c8e79a51e6f7d64957a9
   score_criteria:
     cats: 0
     description: 0

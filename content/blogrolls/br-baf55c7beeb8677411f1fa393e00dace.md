@@ -1,6 +1,6 @@
 ---
 title: Planet Mageia (Italiano)
-date: "2026-06-04T04:54:18+00:00"
+date: "2026-06-21T17:25:42+00:00"
 description: ""
 params:
   link: https://planet.mageia.org/it/custom/people.opml

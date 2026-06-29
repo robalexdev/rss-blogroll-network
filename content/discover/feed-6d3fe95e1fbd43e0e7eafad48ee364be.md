@@ -16,31 +16,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cartoons / Daily Cartoon
-  - Humor
+  - Puzzles & Games Dept. / Catalogues
   relme: {}
-  last_post_title: 'Daily Cartoon: Thursday, June 11th'
-  last_post_description: A drawing that riffs on the latest news and happenings.
-  last_post_date: "2026-06-11T16:46:08Z"
-  last_post_link: https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-11th-knicks-game-four
+  last_post_title: 'Play Catalogues: Sunday, June 28, 2026'
+  last_post_description: Can you sort the items into the correct order?
+  last_post_date: "2026-06-28T10:00:00Z"
+  last_post_link: https://www.newyorker.com/puzzles-and-games-dept/catalogues/2026/06/28
   last_post_categories:
-  - Cartoons / Daily Cartoon
-  - Humor
+  - Puzzles & Games Dept. / Catalogues
   last_post_language: ""
-  last_post_guid: 4554f122a32588a3e5e87b34f8264ebc
+  last_post_guid: d011bc30cadf734f0688b6a38b86a5fe
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

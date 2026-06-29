@@ -20,31 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - What's in My Bag
-  - What's in my bag
+  - Recomendo
   relme: {}
-  last_post_title: What’s in my NOW? — Jordan Meyers
-  last_post_description: 'issue #257'
-  last_post_date: "2026-06-10T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/whats-in-my-now-jordan-meyers/
+  last_post_title: Works in Progress / 100 greatest bird names / Cat water fountain
+  last_post_description: 'Recomendo - issue #520'
+  last_post_date: "2026-06-28T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/works-in-progress-100-greatest-bird-names-cat-water-fountain/
   last_post_categories:
-  - What's in My Bag
-  - What's in my bag
+  - Recomendo
   last_post_language: ""
-  last_post_guid: 0b50ea783e72bce6095ff6f6ec6ffce5
+  last_post_guid: 34246cff354ca09aaeb69dc8a4419240
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

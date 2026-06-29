@@ -10,6 +10,9 @@ params:
     https://notes.peteashton.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5348 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -20,15 +23,16 @@ params:
     https://72.peteashton.com/: true
     https://notes.peteashton.com/: true
     https://social.coop/@pete: true
-  last_post_title: Notes and links from Wed 10 June
+  last_post_title: Notes and links from Sun 28 June
   last_post_description: |-
     Status:
-    Was determined to resume pottering today, a medically prescribed activity which keeps me moving in a non-fatiguing way. In other words, get off the fucking sofa. The best pottering activity
-  last_post_date: "2026-06-10T20:15:02+01:00"
-  last_post_link: https://notes.peteashton.com/2026/06/10/notes-and-links-from-wed.html
+    Spent a lovely afternoon in the garden enjoying the cool breeze, at one point considering fetching a hoodie. Madness.
+    Have been thinking about this blog a fair bit this week. Nothing too
+  last_post_date: "2026-06-28T22:21:36+01:00"
+  last_post_link: https://notes.peteashton.com/2026/06/28/notes-and-links-from-sun.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 837a11db20dd826f4ceccfb235f27fac
+  last_post_guid: 5ef79d13160159bb73e14c76f8898b64
   score_criteria:
     cats: 0
     description: 0

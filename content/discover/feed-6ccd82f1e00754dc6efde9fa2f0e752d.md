@@ -11,7 +11,7 @@ params:
     https://www.feld.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -22,15 +22,15 @@ params:
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: Phil Weiser For Colorado Governor
-  last_post_description: I'm good friends with Phil Weiser and Michael Bennet, and
-    I think the world of both. Colorado wins either way. Here's why I think Phil is
-    the right fit for the next four years.
-  last_post_date: "2026-06-08T12:43:16-06:00"
-  last_post_link: https://feld.com/archives/2026/06/phil-weiser-for-colorado-governor/
+  last_post_title: Read Zero Knowledge As I Write It
+  last_post_description: Zero Knowledge, the crypto-thriller I'm co-writing with my
+    AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up
+    any sentence, and the whole thing is being built in the open
+  last_post_date: "2026-06-19T17:04:06-06:00"
+  last_post_link: https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e1e05ab94caada583a1dbe0bfe56783
+  last_post_guid: 26d6eb367fe40f26bbfc18d5eb05b12b
   score_criteria:
     cats: 0
     description: 3

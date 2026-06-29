@@ -26,14 +26,13 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: Social Security is Facing a Political Crisis
-  last_post_description: America can afford to keep paying full benefits. But will
-    we?
-  last_post_date: "2026-06-11T10:31:27Z"
-  last_post_link: https://paulkrugman.substack.com/p/social-security-is-facing-a-political
+  last_post_title: Corruption for Make Benefit Glorious Family of Trump
+  last_post_description: The emoluments are the message
+  last_post_date: "2026-06-28T19:27:12Z"
+  last_post_link: https://paulkrugman.substack.com/p/corruption-for-make-benefit-glorious
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ccbe34b4c489816f6d74f29d4019636d
+  last_post_guid: 71dfa238c4e123a4f632ab49fa6efe2e
   score_criteria:
     cats: 0
     description: 3

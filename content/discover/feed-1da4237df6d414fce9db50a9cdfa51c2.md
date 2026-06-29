@@ -18,13 +18,17 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 什么是“穷尽法律程序”？
-  last_post_description: “穷尽法律程序”并非问题解决的宣告，而是程序尽头的无奈收束。从诉讼、信访到依法终结，三层递进揭示穷尽法律程序的概念以及局限性。
-  last_post_date: "2026-06-08T01:43:35Z"
-  last_post_link: https://lawtee.com/article/end-of-legal-proceedings/
+  last_post_title: 哪吒探针风波之后，如何用 AI 自建服务器探针避免服务器被一锅端
+  last_post_description: !!binary |
+    5ZOq5ZCS5o6i6ZKI5ryP5rSe5byV5Y+R5Yig5bqT5oGQ5oWM77yM5LiN5oeC57yW56iL55
+    qE5L2c6ICF5Yip55SoRGVlcHNlZWvnrYlBSeW3peWFt+aKgOacr+iHquaVke+8jOS4jeWI
+    sOS4gOWwj+aXtuS+v+iHquW7uuWHuumbtuWQjumXqOOAgeaegeeugOeahOacjeWKoeWZqO
+    ebkeaOp+ezu+e7n+OAguaWh+eroOWIhuS6q+S6huaMh+aMpeWkmkFJ6IE=
+  last_post_date: "2026-06-18T00:50:00Z"
+  last_post_link: https://lawtee.com/article/simple-server-monitor/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 42c50ad6cc1e645208b220a6dbca8f85
+  last_post_guid: 7070adffc40e2a8528a17f9b8413cf89
   score_criteria:
     cats: 0
     description: 3

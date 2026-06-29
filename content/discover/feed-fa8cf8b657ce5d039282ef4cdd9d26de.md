@@ -26,17 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 当心流量别被 Agent 都吃了
-  last_post_description: !!binary |
-    5aSn57qm5LuO5Y675bm05bqV5byA5aeL77yM5oiR5oC76IO95pS25Yiw6Zi/6YeM5LqR5Z
-    KM5LiD54mb5LqR55qE6YCa55+l77yM5ZGK55+l5oiR5rWB6YeP5LiN6Laz77yM5bu66K6u
-    5oiR5Lmw5rWB6YeP5YyF44CC6LW35Yid5oiR5rKh5aSq5rOo5oSP77yM5Lmw5LqG5Yeg5Y
-    2B5Z2X6ZKx55qE5rWB6YeP5YyF77yM6IO955So5Yeg5Liq5pyI44CC5Ls=
-  last_post_date: "2026-06-07T00:00:00Z"
-  last_post_link: https://hutusi.com/flows/2026/06/07
+  last_post_title: 'Claude Fable 5: 短暂的寓言'
+  last_post_description: 今天早上，Anthropic 发布了一则[新闻告示](https://www.anthropic.com/news/fable-mythos-access)，表明收到美国政府出口管制要求，禁止所有非美国国籍用户访问
+    Fable
+  last_post_date: "2026-06-13T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/06/13
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e635fe233ff17ea533a4e6ab29d4d0ab
+  last_post_guid: 6036424f3c04b5e03687b17ed96d636d
   score_criteria:
     cats: 0
     description: 3

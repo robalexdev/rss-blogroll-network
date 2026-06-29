@@ -29,26 +29,23 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - Personal
-  - history
-  - indieweb
-  - sociology
-  - web
+  - caffeine
+  - coffee
+  - heatwave
   relme: {}
-  last_post_title: '[Note] Remembering the 90s Web'
+  last_post_title: '[Note] A Litre of Coffee'
   last_post_description: |-
-    This morning I had a lovely meeting with Andreas Marakis, who's researching the sociological impact of the Web of the 1990s on people who experienced it first-hand.
-
-    I'm seeing more and more interest
-  last_post_date: "2026-06-11T12:40:09+01:00"
-  last_post_link: https://danq.me/2026/06/11/remembering-the-90s-web/
+    Some mornings... you just gotta make a whole damn litre of coffee.
+    (for iced coffee purposes, of course; and definitely not just for me!)
+  last_post_date: "2026-06-26T08:27:56+01:00"
+  last_post_link: https://danq.me/2026/06/26/a-litre-of-coffee/
   last_post_categories:
   - Personal
-  - history
-  - indieweb
-  - sociology
-  - web
+  - caffeine
+  - coffee
+  - heatwave
   last_post_language: ""
-  last_post_guid: 96df8618814a25fb6fe7d5bd0b44ee22
+  last_post_guid: 8ef37aaf2e3585a9481a7859338a0953
   score_criteria:
     cats: 0
     description: 3

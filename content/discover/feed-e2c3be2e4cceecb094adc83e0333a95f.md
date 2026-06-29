@@ -10,7 +10,7 @@ params:
     https://aaronjz.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,16 +21,16 @@ params:
   categories:
   - books
   relme: {}
-  last_post_title: Aaron Zavala - June 10, 2026 23:05
-  last_post_description: Working my way through The Last Battle now by C.S. Lewis,
-    the seventh and final book in the Chronicles of Narnia series. So good. I had
-    mentioned recently how The Silver Chair might be my favorite of
-  last_post_date: "2026-06-10T23:05:00-05:00"
-  last_post_link: https://aaronjz.com/b88b84e1
+  last_post_title: Aaron Zavala - June 19, 2026 12:33
+  last_post_description: 'I just finished Malcolm Guite''s Galahad and the Grail is
+    this morning. I was so moved by the beauty of the ending, the way it weaves its
+    way with the beginning lines of the prologue: "Poet, take up'
+  last_post_date: "2026-06-19T12:33:00-05:00"
+  last_post_link: https://aaronjz.com/6bcef067
   last_post_categories:
   - books
   last_post_language: ""
-  last_post_guid: af44e67f21cc8c37615c1266ffd48181
+  last_post_guid: 1206db632966e1084b5ab85a1d9218a6
   score_criteria:
     cats: 0
     description: 3

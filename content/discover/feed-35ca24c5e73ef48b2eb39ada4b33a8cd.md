@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2026-05-04T16:10:55Z"
+date: "2026-06-28T16:31:03Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:
@@ -11,7 +11,7 @@ params:
     https://morwenn.github.io/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

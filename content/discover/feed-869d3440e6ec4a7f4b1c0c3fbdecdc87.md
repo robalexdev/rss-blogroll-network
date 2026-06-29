@@ -21,34 +21,24 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - Facebook
-  - Instagram
-  - Messenger
-  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
-  - WhatsApp
   relme: {}
-  last_post_title: Going All in for Global Football Fans Across Meta Apps
-  last_post_description: |-
-    We’re bringing new football features and experiences to Threads, Instagram, Facebook, and WhatsApp, including athlete content, match content, and in-product activations.
-    The post Going All in for
-  last_post_date: "2026-06-11T12:00:40Z"
-  last_post_link: https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/
+  last_post_title: New Features to Celebrate 500 Million Monthly Users on Threads
+  last_post_description: "We're launching new communities features on Threads to celebrate
+    reaching 500 million monthly active users. \nThe post New Features to Celebrate
+    500 Million Monthly Users on Threads appeared first on"
+  last_post_date: "2026-06-16T11:00:31Z"
+  last_post_link: https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/
   last_post_categories:
-  - Facebook
-  - Instagram
-  - Messenger
-  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
-  - WhatsApp
   last_post_language: ""
-  last_post_guid: 0d94722ab5b3015436a658d22beeef22
+  last_post_guid: 90974454af45899147a2672685bbf988
   score_criteria:
     cats: 0
     description: 0

@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026年高考作文题目
+  last_post_title: 我还是怕它
   last_post_description: ""
-  last_post_date: "2026-06-08T19:29:03+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/meaning-change/
+  last_post_date: "2026-06-15T19:22:25+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/my-terrible-fear/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 76a4114311a3cd4c2dce3c7a77e1f15b
+  last_post_guid: 30befbf3805cd3a8783bc31de7800ebe
   score_criteria:
     cats: 0
     description: 3

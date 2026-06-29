@@ -1,6 +1,6 @@
 ---
 title: Lara Callender Hogan
-date: "2026-05-29T19:06:30Z"
+date: "2026-06-22T23:18:45Z"
 description: Lara Hogan, Management Coach and Trainer
 params:
   feedlink: https://larahogan.me/feed.xml
@@ -25,36 +25,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - communication
-  - influence
-  - management
+  - leadership
   relme: {}
-  last_post_title: Why can't they just...? Revisited
-  last_post_description: |-
-    (This is an updated version of a post I first wrote in 2017. Given everything happening in tech today, it felt worth dusting off.)
-
-    The question “Why can’t they just…” has been a common
-  last_post_date: "2026-04-22T00:00:00Z"
-  last_post_link: http://larahogan.github.io/blog/why-cant-they-just-revisited/
+  last_post_title: Find a new role - worksheet
+  last_post_description: Almost everybody I know is doing some math on longevity in
+    their current role. Whether it’s moral math (should I go work for a place that’s
+    doing more good in the world, despite it being less
+  last_post_date: "2026-06-22T00:00:00Z"
+  last_post_link: http://larahogan.github.io/blog/identify-new-role/
   last_post_categories:
-  - communication
-  - influence
-  - management
+  - leadership
   last_post_language: ""
-  last_post_guid: acda404f1868aa091738454c212007b8
+  last_post_guid: 6152e4fa94813c30c88142716e9b76c2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

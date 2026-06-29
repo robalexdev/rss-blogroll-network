@@ -1,6 +1,6 @@
 ---
 title: Dante's Lab.
-date: "2026-05-08T12:58:05+02:00"
+date: "2026-06-25T04:05:36+02:00"
 description: A blog about development, IT security, Linux, Unity and geeky things.
 params:
   feedlink: https://feeds.feedburner.com/blogspot/joCgv

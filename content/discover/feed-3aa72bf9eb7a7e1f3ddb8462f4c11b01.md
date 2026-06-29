@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-05-27T10:57:26Z"
+date: "2026-06-16T18:20:00Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Let’s Roll the Dice to Have Awesome Ideas
+  last_post_title: Stop Merely Pointing at Ideas
   last_post_description: ""
-  last_post_date: "2026-05-27T10:57:26Z"
-  last_post_link: https://zettelkasten.de/posts/strategic-gambling-valuable-ideas/
+  last_post_date: "2026-06-16T18:20:00Z"
+  last_post_link: https://zettelkasten.de/posts/stop-merely-pointing-at-ideas/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a34b528e75c76b3b353392171158a438
+  last_post_guid: 585c134ebbd2c4d0231cc13acb357b21
   score_criteria:
     cats: 0
     description: 0

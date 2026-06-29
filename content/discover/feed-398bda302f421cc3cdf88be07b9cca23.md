@@ -1,6 +1,6 @@
 ---
 title: Vladimir Klepov as a Coder
-date: "2024-04-18T00:00:00Z"
+date: "2026-06-22T00:00:00Z"
 description: ""
 params:
   feedlink: https://thoughtspile.github.io/atom.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Growing my team 4x has been a pain. Can we do better?
+  last_post_title: The systemic decay of tech hiring
   last_post_description: ""
-  last_post_date: "2024-04-18T00:00:00Z"
-  last_post_link: https://thoughtspile.github.io/2024/04/18/team-scaling/
+  last_post_date: "2026-06-22T00:00:00Z"
+  last_post_link: https://thoughtspile.github.io/2026/06/22/systemic-decay-of-hiring/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5cb1e220f45c5ad0a2ef9117136a418d
+  last_post_guid: 2c0a69e06943e40ec1ba80dc96962fe5
   score_criteria:
     cats: 0
     description: 0

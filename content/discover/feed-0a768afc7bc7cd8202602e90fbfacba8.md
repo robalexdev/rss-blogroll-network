@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-06-11T18:15:59+01:00"
+date: "2026-06-29T00:22:26+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://culturalsnow.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -473,16 +473,19 @@ params:
     https://draft.blogger.com/profile/14681067872556519250: true
     https://lookinginfinite.blogspot.com/: true
     https://www.blogger.com/profile/14681067872556519250: true
-  last_post_title: About the structural monotonists
+  last_post_title: About Shiloh
   last_post_description: ""
-  last_post_date: "2026-06-11T18:15:59+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/06/about-structural-monotonists.html
+  last_post_date: "2026-06-28T19:57:05+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/06/about-shiloh.html
   last_post_categories:
   - AI
-  - blogging
+  - France
+  - books
+  - celebrity
+  - poetry
   - words
   last_post_language: ""
-  last_post_guid: 9746b95fad083f9ae7c8e3bcfabb2e89
+  last_post_guid: 623ed3931183a6e48c515ffc4c56918c
   score_criteria:
     cats: 5
     description: 3

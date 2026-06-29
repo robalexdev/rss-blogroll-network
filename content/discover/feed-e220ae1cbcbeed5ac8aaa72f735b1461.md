@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-06-11T12:48:10-04:00"
+date: "2026-06-28T14:35:00-04:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://feeds.feedburner.com/NerdlyPleasures

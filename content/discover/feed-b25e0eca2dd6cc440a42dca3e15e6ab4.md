@@ -1,6 +1,6 @@
 ---
 title: Teacher's Notes
-date: "2026-05-27T03:10:17-07:00"
+date: "2026-06-27T06:50:09-07:00"
 description: ""
 params:
   feedlink: https://mrscspalding.blogspot.com/feeds/posts/default

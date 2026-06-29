@@ -37,19 +37,20 @@ params:
   - https://lmika.org/feed.xml
   categories:
   - AI
-  - Platformer Pod
+  - Amazon
   relme: {}
-  last_post_title: How to help knowledge workers who lose their jobs to AI
-  last_post_description: 'Brookings Institution researcher Molly Kinder on why she''s
-    leaving her job to create solution for AI''s "messy middle." PLUS: Claude Fable
-    arrives'
-  last_post_date: "2026-06-10T00:00:34Z"
-  last_post_link: https://www.platformer.news/how-to-help-knowledge-workers-who-lose-their-jobs-to-ai/
+  last_post_title: The CEO of AWS on why Amazon is hiring 11,000 interns and junior
+    employees
+  last_post_description: Matt Garman argues that junior employees are as necessary
+    as ever. But AWS now sells agents that can recruit, code, and process claims.
+    Will the balance hold?
+  last_post_date: "2026-06-24T00:00:32Z"
+  last_post_link: https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/
   last_post_categories:
   - AI
-  - Platformer Pod
+  - Amazon
   last_post_language: ""
-  last_post_guid: ebf918b7b094a054e606245f5ef2a831
+  last_post_guid: 747b354913e8cbd74b7ee8c1c95a153a
   score_criteria:
     cats: 0
     description: 3

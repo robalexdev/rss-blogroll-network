@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Mizar: the first usable proof assistant for mathematics'
-  last_post_description: "In two recent blogposts I have outlined the history of our
-    field,\none on the history of proof assistants and another specifically about
-    earlier work on the \nformalisation of mathematics by machine"
-  last_post_date: "2026-05-07T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/05/07/Mizar.html
+  last_post_title: The Dottie Number
+  last_post_description: "Once upon a time, goes the story, \na lady named Dottie
+    got bored and started playing with her calculator,\npressing the cosine key over
+    and over again.\nAt first the numbers fluctuated wildly, \nbut"
+  last_post_date: "2026-06-26T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 792507905f4c56b704206e0ab8fde93a
+  last_post_guid: f2abfc59e7530db7bf2d6150962d73e4
   score_criteria:
     cats: 0
     description: 3

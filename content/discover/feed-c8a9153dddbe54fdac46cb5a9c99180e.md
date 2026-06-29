@@ -16,13 +16,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: pivot-to-ai.com on rsync goes AI slop, breaks
-  last_post_description: |-
-    rsync goes AI slop, breaks your backups
-
-    Tridgell has the right to run the rsync project his way, and nobody can tell him not to. But also, other people do have the right to say: this broke our stuff
-  last_post_date: "2026-06-04T05:26:12-07:00"
-  last_post_link: https://www.onfocus.com/2026/06/9088/rsync-goes-ai-slop-breaks-your-backups?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+  last_post_title: karlbode.com on The SpaceX IPO Is a Con
+  last_post_description: This sort of journalism doesn't really care about real consumers,
+    labor, technology, or even whether the technology even works. Its focus is propping
+    up extraction class narratives surrounding
+  last_post_date: "2026-06-19T13:03:28-07:00"
+  last_post_link: https://www.onfocus.com/2026/06/9094/the-spacex-ipo-is-a-giant-unworkable-con?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

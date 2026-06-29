@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-06-11T10:31:02+08:00"
+date: "2026-06-26T19:47:03+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -23,39 +23,33 @@ params:
   recommender: []
   categories:
   - AI
+  - Agent
   relme: {}
-  last_post_title: AI自进化
+  last_post_title: AI工作流
   last_post_description: |-
     Foreword
 
-    最近看了一个文章，有点意思，有点想法，记录下来。
-
-    AI自我迭代
-
-
-      https://mp.weixin.qq.com/s/AXyCo0RRwW_HKLpkUx1jUg
-
-
-    这篇文章是 CSDN 编译的 Anthropic
-  last_post_date: "2026-06-11T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/
+    前段时间在 wolai 里把一套「一个人带 Agent 做产品」的流程摸清楚了，顺手画了一张图，又写了一份更偏团队协作的 Agent
+  last_post_date: "2026-06-26T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/06/26/Agent-Workflow/
   last_post_categories:
   - AI
+  - Agent
   last_post_language: ""
-  last_post_guid: 30f592195e2486ca085b525f06ecfa25
+  last_post_guid: 8cd808d83cfbf18fc6344f0e41b214ed
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

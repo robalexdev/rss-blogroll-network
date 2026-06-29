@@ -1,6 +1,6 @@
 ---
 title: a bit of a jumble
-date: "2026-06-11T17:57:35Z"
+date: "2026-06-28T22:32:36Z"
 description: Welcome to my website! Here you'll find an array of bits and bobs, truly
   making it a bit of a jumble.
 params:
@@ -19,14 +19,14 @@ params:
   categories:
   - career updates
   relme: {}
-  last_post_title: Promoted to Funeral Director
+  last_post_title: My Twelve Month Career Break
   last_post_description: ""
-  last_post_date: "2026-06-07T00:51:06Z"
-  last_post_link: https://abitofajumble.bearblog.dev/promoted-to-funeral-director/
+  last_post_date: "2026-06-19T14:37:01Z"
+  last_post_link: https://abitofajumble.bearblog.dev/my-twelve-month-career-break/
   last_post_categories:
   - career updates
   last_post_language: ""
-  last_post_guid: a4b31926c07a2fd533d2a4e3f62225ab
+  last_post_guid: ad7694f3da73987d561a4217b200cf46
   score_criteria:
     cats: 0
     description: 3

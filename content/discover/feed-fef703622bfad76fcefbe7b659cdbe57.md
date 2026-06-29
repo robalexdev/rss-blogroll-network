@@ -12,7 +12,7 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -58,24 +58,25 @@ params:
   - https://marisabel.nl/rss.php
   categories:
   - general
-  - swim2026
-  - via-instagram
+  - indieweb
+  - neocities
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: There’s enough swell in the water for me to lose a fin (DaFin,
-    XL, blue with white tip) during a wipeout. I know that much. But I have no complaints.
-  last_post_description: ""
-  last_post_date: "2026-06-10T05:44:57Z"
-  last_post_link: https://artlung.com/blog/2026/06/09/fin-lost-swell/
+  last_post_title: Neocities
+  last_post_description: Screenshot of the default view of a new website on Neocities
+    Note that it helps a newbie visualize a website as a set of files. Note that it
+    includes a link to download the entire site. This came up
+  last_post_date: "2026-06-27T10:25:00Z"
+  last_post_link: https://artlung.com/blog/2026/06/27/neocities/
   last_post_categories:
   - general
-  - swim2026
-  - via-instagram
+  - indieweb
+  - neocities
   last_post_language: ""
-  last_post_guid: dbbec70e911b0e583eae900628f3ac96
+  last_post_guid: f85268843b6512aa34682e50fe9213e1
   score_criteria:
     cats: 0
     description: 3

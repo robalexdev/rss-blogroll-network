@@ -19,35 +19,42 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#code'
+  - '#forbidden-knowledge'
+  - '#politics'
   - '#project'
   relme: {}
-  last_post_title: Web Applications
+  last_post_title: Prairieland Zines
   last_post_description: |-
-    #code #project
+    #forbidden-knowledge #politics #project June 15, 2026
+    Download all: git.gay · Codeberg · Github
 
-    maRRRshmallow breath counter: JavaScript tool for measuring my cat's resting respiratory rate.
-    nagi miniweb: minimalist version of Kagi Small Web. An experiment in brute force. Does
-  last_post_date: "2026-06-10T11:58:55-04:00"
-  last_post_link: http://pnppl.cc/app
+    Against Prisons (Catherine Baker, 1996) 1
+
+    screen · print
+
+
+    Another Critique of Insurrectionalism
+  last_post_date: "2026-06-28T09:05:22-04:00"
+  last_post_link: http://pnppl.cc/prairieland
   last_post_categories:
-  - '#code'
+  - '#forbidden-knowledge'
+  - '#politics'
   - '#project'
   last_post_language: ""
-  last_post_guid: 0a5353ed50160c23f01cd58630f47315
+  last_post_guid: fef62bd4d3178f1950ed7d3929313e64
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

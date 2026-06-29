@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-06-11T13:11:59Z"
+date: "2026-06-28T20:03:30Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -32,17 +32,16 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #185'
+  last_post_title: 'The Index: Issue #188'
   last_post_description: |-
-    eyeball
-    Incredibly addictive game. Best to use a mouse/trackpad than a touch device to give yourself a chance too!
-    Dollar Slice Surf Report, New York City
-    A cool project by Scott Jehl as, using pen,
-  last_post_date: "2026-06-05T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/185/?ref=main-rss-feed
+    By humans, for humans
+
+    We’re approaching—or arguably are in—an era where ‘made by humans’ is a differentiator. A notion that something beyond money and prompts was put into whatever the
+  last_post_date: "2026-06-26T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/188/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 819b7448948573a7572b668b61c27aaf
+  last_post_guid: 1eaaf48f8b5f5006260cc6f97d193f87
   score_criteria:
     cats: 0
     description: 3

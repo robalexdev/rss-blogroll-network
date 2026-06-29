@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-12-02T14:54:34Z"
+date: "2025-08-06T17:41:09Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -10,7 +10,7 @@ params:
     https://lowpolybrainblasts.pika.page/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

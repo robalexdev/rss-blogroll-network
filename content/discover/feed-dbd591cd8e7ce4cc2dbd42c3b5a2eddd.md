@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Quantizing tangent frames
-  last_post_description: I’ve been working on tangent space generation recently, and
-    also pondering the tradeoffs between QTangent and normal-angle storage. So when,
-    in a completely unrelated discussion, someone said
-  last_post_date: "2026-04-30T00:00:00Z"
-  last_post_link: https://zeux.io/2026/04/30/quantizing-tangent-frames/
+  last_post_title: Zigzag decoding with AVX-512
+  last_post_description: I’ve been working on speeding up AVX-512 vertex decoding
+    in meshoptimizer recently; in the process I stumbled upon two optimizations that
+    I did not end up using but I thought they might be fun to
+  last_post_date: "2026-06-17T00:00:00Z"
+  last_post_link: https://zeux.io/2026/06/17/zigzag-decoding-avx512/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4df926bcf3a295dbf24a4ff16f1887ef
+  last_post_guid: 8f590d9b9f1add5b0f49feaa4be3351f
   score_criteria:
     cats: 0
     description: 0

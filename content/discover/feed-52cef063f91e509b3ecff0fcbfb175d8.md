@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-06-10T17:37:27-07:00"
+date: "2026-06-28T16:22:04-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -130,20 +130,19 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: Musical May Quick Picks and Pans
+  last_post_title: The Man Who Could Cheat Death
   last_post_description: ""
-  last_post_date: "2026-06-02T14:25:54-07:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/05/musical-may-quick-picks-and-pans.html
+  last_post_date: "2026-06-11T19:41:33-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/06/the-man-who-could-cheat-death.html
   last_post_categories:
-  - Comedy
   - Drama
-  - Fantasy
+  - Hammer
+  - Horror
   - Movies
-  - Music and Musicals
-  - Romance
-  - Satire
+  - Reviews
+  - Suspense
   last_post_language: ""
-  last_post_guid: 32c33ce5961bd6118ebaf7a85596694f
+  last_post_guid: 1485b1776db15908018a1bf05691eb4b
   score_criteria:
     cats: 5
     description: 3

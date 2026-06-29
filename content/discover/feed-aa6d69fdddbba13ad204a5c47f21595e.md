@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-06-09T09:12:10+01:00"
+date: "2026-06-28T09:26:05+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,7 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -225,22 +225,23 @@ params:
   - voodoo thermodynamics
   - x-ray crystallography
   relme:
+    https://draft.blogger.com/profile/12180360326821860667: true
     https://fbdd-lit.blogspot.com/: true
     https://www.blogger.com/profile/12180360326821860667: true
-  last_post_title: Property Forecast Index Validated
+  last_post_title: The OpenBind initiative
   last_post_description: ""
-  last_post_date: "2026-06-09T09:12:10+01:00"
-  last_post_link: https://fbdd-lit.blogspot.com/2025/04/property-forecast-index-validated.html
+  last_post_date: "2026-06-23T08:41:29+01:00"
+  last_post_link: https://fbdd-lit.blogspot.com/2026/06/the-openbind-initiative.html
   last_post_categories:
-  - ADME
-  - BEG
-  - PFI
-  - SFI
-  - drug design
-  - metrics
-  - pour encourager les autres
+  - AI
+  - CompChem
+  - ML
+  - QSAR
+  - cheminformatics
+  - machine learning
+  - open science
   last_post_language: ""
-  last_post_guid: e2a254a44cc937a1a8df902660706f7b
+  last_post_guid: 3f9ece31920e5f293fde872dcbff9f48
   score_criteria:
     cats: 5
     description: 3

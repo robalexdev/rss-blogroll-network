@@ -23,23 +23,22 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - WordPress
-  - skip-home
+  - Personal Life
+  - Sports
   relme:
     https://jonathandesrosiers.com/: true
     https://mastodon.social/@Desrosj: true
-  last_post_title: 'Reblog of Boston WordPress: April 2026 Meetup: Ethan Marcotte
-    & Mary Hubbard'
-  last_post_description: Reblog via Jonathan Desrosiers WordPress is software with
-    limitless potential and a mission to make publishing accessible to the whole world.
-    Boston is a city with prolific, world-renowned
-  last_post_date: "2026-04-20T19:45:01Z"
-  last_post_link: https://jonathandesrosiers.com/2026/04/reblog-of-boston-wordpress-april-2026-meetup-ethan-marcotte-mary-hubbard/
+  last_post_title: Baseball Is The Best
+  last_post_description: Another season of coaching my son's instructional baseball
+    team is in the books. It had its share of ice packs and bloody lips, but the moment
+    that stuck with me had less to do with baseball and more
+  last_post_date: "2026-06-19T15:08:22Z"
+  last_post_link: https://jonathandesrosiers.com/2026/06/baseball-is-the-best/
   last_post_categories:
-  - WordPress
-  - skip-home
+  - Personal Life
+  - Sports
   last_post_language: ""
-  last_post_guid: 19f0b76351f81fcd31c4a08e8c87ed29
+  last_post_guid: c8713fea9741a5ce8195600bd06691f2
   score_criteria:
     cats: 0
     description: 3

@@ -11,7 +11,7 @@ params:
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -47,27 +47,27 @@ params:
   - https://chrisburnell.com/feed.xml
   - https://simonbc.com/feed.xml
   categories:
-  - amsterdam
-  - cssday
-  - events
-  - speaking
-  - talks
+  - book
+  - ireland
+  - review
+  - short
+  - stories
   relme: {}
-  last_post_title: Amsterdamming
+  last_post_title: Stories Of Ireland by Brian Friel
   last_post_description: |-
-    I’m heading to Amsterdam for CSS Day. It’s one of those events I try my best to get to every single year. I have no doubt that this year will be brilliant as usual.
+    This is a collection of short stories by one of Ireland’s best playwrights.
 
-    There’s another event the
-  last_post_date: "2026-06-08T15:53:53Z"
-  last_post_link: https://adactio.com/journal/22595
+    I think you can tell that these stories were written by someone who’s at home with the stage. The dialogue really
+  last_post_date: "2026-06-17T19:18:29Z"
+  last_post_link: https://adactio.com/journal/22619
   last_post_categories:
-  - amsterdam
-  - cssday
-  - events
-  - speaking
-  - talks
+  - book
+  - ireland
+  - review
+  - short
+  - stories
   last_post_language: ""
-  last_post_guid: 750ab58bd466888b7a4752490cf56a38
+  last_post_guid: cef894a68ab04aa3aafc1f1795616839
   score_criteria:
     cats: 0
     description: 3

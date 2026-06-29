@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-06-04T09:19:27Z"
+date: "2026-06-18T14:21:51Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -24,15 +24,15 @@ params:
   categories:
   - AI
   relme: {}
-  last_post_title: 被 AI 工具裹挟的程序员
-  last_post_description: 6月1日，GitHub Copilot 换成了根据使用量计费的模式。按照我原本的使用习惯，新的计费模式下，一个月至少得花
-    800
-  last_post_date: "2026-06-04T09:19:27Z"
-  last_post_link: https://smallyu.net/2026/06/04/%E8%A2%ABAI%E5%B7%A5%E5%85%B7%E8%A3%B9%E6%8C%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/
+  last_post_title: AI Agent 看板
+  last_post_description: 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude
+    Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给
+  last_post_date: "2026-06-18T14:21:51Z"
+  last_post_link: https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/
   last_post_categories:
   - AI
   last_post_language: ""
-  last_post_guid: 79e8e995f8adf318a44409d9e24018d3
+  last_post_guid: ccf2877724df4d82d527115201450259
   score_criteria:
     cats: 0
     description: 3

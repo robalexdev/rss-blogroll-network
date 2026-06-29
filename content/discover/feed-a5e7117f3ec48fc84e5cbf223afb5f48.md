@@ -10,7 +10,7 @@ params:
     https://www.fwrarejazzvinylcollector.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,14 +21,17 @@ params:
   categories:
   - LP 12"
   relme: {}
-  last_post_title: Blue Notes
-  last_post_description: A few from the 4000 series.
-  last_post_date: "2026-06-01T20:08:25Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/6/1/blue-notes-
+  last_post_title: ”Live at the Lighthouse” by Lee Morgan on Blue Note BST 89906
+  last_post_description: "Morgan live and at his very best.\n          \n        \n
+    \     \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n
+    \     \n\n        \n\n        \n\n        \n          \n            \n              \n
+    \        "
+  last_post_date: "2026-06-26T15:20:43Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/6/26/live-at-the-lighthouse-by-lee-morgan-on-blue-note-bst-89906
   last_post_categories:
   - LP 12"
   last_post_language: ""
-  last_post_guid: 9c9549076ff891994a86b9e6e6c77601
+  last_post_guid: 5c6cb3560f49bf395cdf959ea0039f73
   score_criteria:
     cats: 0
     description: 0

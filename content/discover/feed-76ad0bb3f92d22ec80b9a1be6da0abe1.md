@@ -17,19 +17,16 @@ params:
   categories:
   - french
   relme: {}
-  last_post_title: La semaine du 1 au 7 juin
-  last_post_description: |-
-    Ma fille a séché les cours et elle n'a pas non plus voulu aller à son cours de gymnastique parce qu'elle a eu une mauvaise nuit et elle était toujours grincheuse.
-
-
-
-    Au lieu de la harceler, j'ai
-  last_post_date: "2026-06-10T15:05:24Z"
-  last_post_link: https://sachachua.com/blog/2026/06/la-semaine-du-1-au-7-juin/
+  last_post_title: La semaine du 15 juin au 21 juin
+  last_post_description: "J'ai corrigé la transcription de ma conversation avec Ross
+    A. Baker sur Emacs. \n\n\n\nJ'ai rendez-vous avec un nouveau tuteur français qui
+    habite au Cameroun. Il m'a donné des épreuves du DELF A2."
+  last_post_date: "2026-06-25T15:04:10Z"
+  last_post_link: https://sachachua.com/blog/2026/06/la-semaine-du-15-juin-au-21-juin/
   last_post_categories:
   - french
   last_post_language: ""
-  last_post_guid: de51a64e41d3c404f2593779d9e8c8b8
+  last_post_guid: dcd9f038cf4e1fc945c117d2e956ddd2
   score_criteria:
     cats: 0
     description: 3

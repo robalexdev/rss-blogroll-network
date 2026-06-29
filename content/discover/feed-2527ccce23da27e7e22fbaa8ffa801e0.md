@@ -1,6 +1,6 @@
 ---
 title: 知足常乐-水星投资理财的基本意念
-date: "2026-06-05T00:31:45-07:00"
+date: "2026-06-23T23:24:02-07:00"
 description: 享受单身生活的小孩子
 params:
   feedlink: https://mercurychong.blogspot.com/feeds/posts/default
@@ -91,19 +91,17 @@ params:
     https://draft.blogger.com/profile/08751867098140741554: true
     https://mercurychong.blogspot.com/: true
     https://www.blogger.com/profile/08751867098140741554: true
-  last_post_title: 偶爾的零收入
+  last_post_title: 最後的備戰
   last_post_description: ""
-  last_post_date: "2026-06-05T00:31:45-07:00"
-  last_post_link: https://mercurychong.blogspot.com/2026/06/blog-post.html
+  last_post_date: "2026-06-23T23:24:02-07:00"
+  last_post_link: https://mercurychong.blogspot.com/2026/06/blog-post_23.html
   last_post_categories:
-  - 投资-股息篇
-  - 投资理念
-  - 投资理财心态
-  - 理财-收入篇
-  - 股票投资记录
+  - 励志
+  - 心情故事
+  - 運動
   - 面书分享
   last_post_language: ""
-  last_post_guid: 3ac92af81721fa0231a8a203091c16a9
+  last_post_guid: d1354bb9f47ec38ef56558d2b18e1c1e
   score_criteria:
     cats: 5
     description: 3

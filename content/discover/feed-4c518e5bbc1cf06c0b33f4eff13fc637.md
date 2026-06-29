@@ -12,7 +12,7 @@ params:
     https://www.lloydatkinson.net/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,14 +29,14 @@ params:
   categories: []
   relme:
     https://www.lloydatkinson.net/: true
-  last_post_title: Motivation in an Absurd System
-  last_post_description: 'The struggle to find meaning in meaningless work. - Tagged:
-    Philosophy, Rant'
-  last_post_date: "2025-05-13T01:21:40Z"
-  last_post_link: https://www.lloydatkinson.net/posts/2025/motivation-in-an-absurd-system/
+  last_post_title: '2025: Year in Review'
+  last_post_description: 'Reflecting on my year - Tagged: Year in review, Gardening,
+    Programming, Portugal, Poland, Slovakia'
+  last_post_date: "2025-12-30T00:10:01Z"
+  last_post_link: https://www.lloydatkinson.net/posts/2025/year-in-review/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 33a6184254ebc3de13ca423cf6bc653b
+  last_post_guid: b17aa71054ae016bd9367dcbc0c643c6
   score_criteria:
     cats: 0
     description: 3

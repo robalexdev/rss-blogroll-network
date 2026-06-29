@@ -16,16 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The AI Glass Ceiling
-  last_post_description: |-
-    We’ve reached the upper bound of AI.
-    Not in the sense that performance won’t improve. On the contrary, AI will improve AI.
-    But Anthropic’s Fable release has imposed a glass ceiling. How do you
-  last_post_date: "2026-06-10T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/upper-bound-corporate-ai/
+  last_post_title: What If There Is No Moat Yet?
+  last_post_description: At the application layer, moats are lagging, earned through
+    scale & brand. At infrastructure, capital intensity demands a leading moat at
+    founding.
+  last_post_date: "2026-06-26T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/what-if-there-is-no-moat/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6e0b081a269cf4836639688be74cc228
+  last_post_guid: ae3a5e24aac04f9b9372bf49f1764a71
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2026-05-10T14:45:11Z"
+date: "2026-06-28T13:38:21Z"
 description: 欲种嘉蔬 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -25,22 +25,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - essay
-  - 杂谈
+  - journal
+  - 生活
   relme: {}
-  last_post_title: 凭感觉炒股
+  last_post_title: 静待植物生长
   last_post_description: !!binary |
-    5Zub5pyI5LiK6K+B5oyH5pWw5Y+I5rao5LiK5LqGNDEwMOeCue+8jOWcqOaEn+inieS5sO
-    S7gOS5iOmDveWPr+S7pei1mueahOihjOaDhemHjO+8jOaIkeWNtOaYr+S6j+aNn+eahOOA
-    gumHjeS7k+iCoeavlOS6mui/queUu+S6huS4gOS4quW3pumrmOWPs+S9jueahOKAnVfigJ
-    zvvIzomb3nhLblgZpU6ZmN5LqG5LiA54K55oiQ5pys77yM55u45q+U6II=
-  last_post_date: "2026-05-04T21:03:47+08:00"
-  last_post_link: https://jubeny.com/2026/05/trade-stocks-based-on-intuition/
+    56ys5LiA5aSp5Z+L5LiL56eN5a2Q77yM56ys5LqM5aSp5bCx5biM5pyb5a6D5Y+R6Iq977
+    yM6L+Z56eN5LiN5YiH5a6e6ZmF55qE55u85pyb77yM5piv5ZCm5piv5q+P5Liq5Yid5L6N
+    6Iqx6I2J5LmL5Lq655qE5b+F57uP5LmL6Lev5ZGi77yfCuakjeeJqeacieiHquW3seeahO
+    inhOW+i++8jOWNs+S+v+avj+aXpeaut+WLpOaOouacm++8jOWug+S5n+Q=
+  last_post_date: "2026-06-28T16:26:11+08:00"
+  last_post_link: https://jubeny.com/2026/06/watch-the-plants-grow/
   last_post_categories:
-  - essay
-  - 杂谈
+  - journal
+  - 生活
   last_post_language: ""
-  last_post_guid: d1ad4e91392e11674c5ed7f804bb5beb
+  last_post_guid: 255d8f6471f2dbeb6267ff41f4948830
   score_criteria:
     cats: 0
     description: 3

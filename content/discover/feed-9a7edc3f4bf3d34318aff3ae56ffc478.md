@@ -20,30 +20,33 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  categories: []
+  categories:
+  - DC Bureau
   relme: {}
-  last_post_title: Trump administration proposes new rules for prediction markets
-  last_post_description: The Trump administration Wednesday proposed new regulations
-    for online prediction markets that would ban bets on war, assassination and other
-    extreme events, but still allow many sports bets to
-  last_post_date: "2026-06-11T16:58:22Z"
-  last_post_link: https://missouriindependent.com/2026/06/11/repub/trump-administration-proposes-new-rules-for-prediction-markets/
-  last_post_categories: []
+  last_post_title: Former Trump adviser John Bolton pleads guilty to mishandling sensitive
+    documents
+  last_post_description: John Bolton, a national security adviser to President Donald
+    Trump in his first term, pleaded guilty Friday to a federal charge of mishandling
+    classified information, the Department of Justice said
+  last_post_date: "2026-06-26T20:03:36Z"
+  last_post_link: https://missouriindependent.com/2026/06/26/repub/former-trump-adviser-john-bolton-pleads-guilty-to-mishandling-sensitive-documents/
+  last_post_categories:
+  - DC Bureau
   last_post_language: ""
-  last_post_guid: 43baa52778ccb3f294bb4542a3f2f65d
+  last_post_guid: ab5d1e60eb77467fdfdf7147a8104706
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

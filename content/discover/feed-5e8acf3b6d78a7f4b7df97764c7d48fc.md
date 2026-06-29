@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Solod v0.1: Go ergonomics, practical stdlib, native C interop'
-  last_post_description: A system-level language with Go syntax and zero runtime.
-  last_post_date: "2026-05-06T11:00:00Z"
-  last_post_link: https://antonz.org/solod-v0-1/
+  last_post_title: 'Solod v0.2: Networking, new targets, friendlier interop'
+  last_post_description: A system-level language with Go syntax and a familiar standard
+    library.
+  last_post_date: "2026-06-26T12:30:00Z"
+  last_post_link: https://antonz.org/solod-v0-2/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f9d33956a94b31fb1b728caad2f73f0f
+  last_post_guid: 7388fe70bdad245d2f9e22295be550c6
   score_criteria:
     cats: 0
     description: 3

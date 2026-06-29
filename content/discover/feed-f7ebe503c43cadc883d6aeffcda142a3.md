@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-06-10T19:53:52-05:00"
+date: "2026-06-28T19:35:36-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml

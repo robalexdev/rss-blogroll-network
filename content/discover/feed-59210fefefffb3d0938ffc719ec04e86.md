@@ -19,17 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The three lines of CSS that saved me 40kb and might do the same
-    for you
+  last_post_title: Cultures, not Games
   last_post_description: |-
-    Custom fonts are a boon for usability and they can give your blog that extra bit
-    of oomf. But fonts can really hurt performance if you're not heavy. A single
-    font can take up 40kb or more.1 That's
-  last_post_date: "2026-06-10T21:11:00Z"
-  last_post_link: https://blog.welcomehome.city/b/three-lines/
+    Alright, imagine two groups of friends who both come together to play, let's say Dolmenwood.
+    The first group's referee is well versed in the OSR. She has run a few campaigns and her players know what
+  last_post_date: "2026-06-28T16:30:00Z"
+  last_post_link: https://elmc.at/cultures-not-games/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db6d92c6010403a37c66c4b505d4518e
+  last_post_guid: 2d2a22244ae158cf60be27a82c38ac16
   score_criteria:
     cats: 0
     description: 3

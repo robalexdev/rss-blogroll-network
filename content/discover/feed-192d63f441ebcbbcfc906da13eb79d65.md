@@ -1,6 +1,6 @@
 ---
 title: "Chip \U000131FC<br>Chirp"
-date: "2026-06-10T04:52:10Z"
+date: "2026-06-13T23:38:36Z"
 description: "\U000133DE Audio, oddware, and more"
 params:
   feedlink: https://chipchirp.digital/feed.xml
@@ -25,9 +25,9 @@ params:
     https://github.com/KO0I: true
     https://ioc.exchange/@chipchirp: true
   last_post_title: Teasing A Game Concept
-  last_post_description: |-
-    Motivation
-    I have had this game idea bouncing around in my head for a long time. Expressive movement, open-world, low-res to permit a lot of speed, and a variety of celestial objects to zip in and
+  last_post_description: "Playtest\n\nRound 1 Starting June 13, 2026\n\nCheck it out
+    here!\nTargeted towards Linux users for now. If you are on Windows, the game should
+    run in WSL 2 in a distro of your choice. \nConsiderable effort"
   last_post_date: "2026-06-03T00:00:00Z"
   last_post_link: https://chipchirp.digital/teaser_new_game
   last_post_categories:

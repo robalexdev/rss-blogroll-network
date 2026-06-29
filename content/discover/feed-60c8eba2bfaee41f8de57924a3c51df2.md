@@ -1,6 +1,6 @@
 ---
 title: bulltown.2022
-date: "2026-06-11T11:14:32Z"
+date: "2026-06-27T11:42:32Z"
 description: ""
 params:
   feedlink: https://bulltown.joejenett.com/feed.atom
@@ -10,7 +10,7 @@ params:
     https://bulltown.joejenett.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []

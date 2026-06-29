@@ -23,14 +23,13 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: The Truth Is in Here
-  last_post_description: Well, my answers to your questions, anyway. On Epstein, The
-    X-Files, voting rights, more!
-  last_post_date: "2026-06-11T14:06:17Z"
-  last_post_link: https://sarahkendzior.substack.com/p/the-truth-is-in-here
+  last_post_title: The Dirty Bill
+  last_post_description: Making a clean break with the technofascist economy.
+  last_post_date: "2026-06-25T16:34:24Z"
+  last_post_link: https://sarahkendzior.substack.com/p/the-dirty-bill
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 350efe51b9351ce777602075ecbbbb58
+  last_post_guid: b7d5c3a8b130890e1c09ad8c140e1663
   score_criteria:
     cats: 0
     description: 3

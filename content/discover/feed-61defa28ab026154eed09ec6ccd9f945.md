@@ -22,16 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux & homelab
+  - 智能硬件 & IOT
   relme: {}
-  last_post_title: 让UniFi中的拓扑图正确显示第三方交换机和虚拟机
-  last_post_description: 众所周知买UniFi一半的价钱是为了这张拓扑图。。。但前提是你得买官方的AP和死贵的交换机（同样的RTL930
-  last_post_date: "2026-06-09T19:21:32Z"
-  last_post_link: https://wusiyu.me/unifi-topology-thirdparty-switch/
+  last_post_title: Arduino UNO Q 开发板初体验
+  last_post_description: |-
+    已经快成路边的Arduino官方去年底出的最新的UNO系列，但这次又是个高通SoC+STM32的缝合怪。先说前 […]
+    Arduino UNO Q 开发板初体验最先出现在WuSiYu Blog。
+  last_post_date: "2026-06-23T22:01:31Z"
+  last_post_link: https://wusiyu.me/arduino-uno-q-board-first-look/
   last_post_categories:
-  - Linux & homelab
+  - 智能硬件 & IOT
   last_post_language: ""
-  last_post_guid: b85538d93c9612010e59546a025a17e9
+  last_post_guid: bebd6706fe7a8615a096fa73ebd356e9
   score_criteria:
     cats: 0
     description: 3

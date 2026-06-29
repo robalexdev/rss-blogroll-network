@@ -1,6 +1,6 @@
 ---
 title: jngiam
-date: "2026-06-11T10:06:40Z"
+date: "2026-06-28T11:20:44Z"
 description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
   Brain, Coursera, Stanford. \n\n linkedin @jngiam\n x/twitter @jiquanngiam\nlutra
   ai\n\nsu..."
@@ -12,7 +12,7 @@ params:
     https://jngiam.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

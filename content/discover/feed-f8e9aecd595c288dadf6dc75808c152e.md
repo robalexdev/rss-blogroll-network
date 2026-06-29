@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 不想拿東西
-  last_post_description: 我很不喜歡拿著或戴著東西。不覺得身上多一樣東西就多一個煩惱嗎？
-  last_post_date: "2026-06-11T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/hands-free
+  last_post_title: 水溝消毒
+  last_post_description: 你有沒有遇過家裡附近的水溝消毒？就是每隔兩到三個月，環保局的清潔人員背著噴霧器、朝水溝裡噴藥的儀式。
+  last_post_date: "2026-06-29T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/gutter-disinfection
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 44f13d981dcf1acee36e2a1df59f9113
+  last_post_guid: 16ef554569aea593ddfe8dab7c821b5f
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-06-07T17:54:13-07:00"
+date: "2026-06-25T20:41:57-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -1020,27 +1020,24 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: rock writers on the teevee
+  last_post_title: Musicians review the Singles!
   last_post_description: ""
-  last_post_date: "2026-05-30T11:12:53-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/05/rock-writers-on-teevee.html
+  last_post_date: "2026-06-25T20:41:57-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
   last_post_categories:
-  - CAROLINE COON
-  - CHARLES SHAAR MURRAY
-  - DANNY BAKER
-  - GARRY BUSHELL
-  - GREG TATE
-  - GREIL MARCUS
-  - KODWO ESHUN
-  - LESTER BANGS
-  - MICK FARREN
-  - NICK KENT
-  - PAULMORLEY
-  - RICHARD WILLIAMS
-  - THE STUD BROTHERS
-  - TONY PARSONS
+  - 1980S
+  - Brian Eno
+  - MELODY MAKER
+  - MORRISSEY
+  - MUSICIANS AS CRITICS
+  - MUSICIANS DO THE SINGLES
+  - POP MUSICIANS AS ROCK CRITICS
+  - PREFAB SPROUT
+  - RECORD MIRROR
+  - SMASH HITS
+  - WHAM!
   last_post_language: ""
-  last_post_guid: 515c6fc02892e795730a6cedb634c64f
+  last_post_guid: c0d7705816b9688440c403d9795c195c
   score_criteria:
     cats: 5
     description: 3

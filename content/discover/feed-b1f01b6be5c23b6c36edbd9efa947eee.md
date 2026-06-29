@@ -1,7 +1,7 @@
 ---
 title: Yury Molodtsov
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Blogs on Yury Molodtsov
+description: Startups comms, essays on tech and great curated links.
 params:
   feedlink: https://molodtsov.me/blog/index.xml
   feedtype: rss
@@ -10,7 +10,7 @@ params:
     https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

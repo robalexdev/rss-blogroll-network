@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2026-04-03T18:54:03+02:00"
+date: "2026-06-17T11:17:50+02:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -18,25 +18,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linz
-  - Personal
+  - Benchmarking
+  - Debugging
+  - Metacompilation
   - Research
-  - Teaching
+  - compilation
+  - garbage collection
   relme: {}
-  last_post_title: 'Programming Language Implementation: In Theory, We Understand.
-    In Practice, We Wish We Would.'
-  last_post_description: It’s February! This means I have been at the JKU for four
-    months. Four months with teaching Compiler Construction and System Software, lots
-    of new responsibilities (most notably signing off on
-  last_post_date: "2026-02-02T15:15:10+01:00"
-  last_post_link: https://stefan-marr.de/2026/02/programming-language-implementation-in-theory-we-understand-in-practice-we-wish-we-would/
+  last_post_title: 'SSW@ECOOP’26: On Debugging, Benchmarking and (Meta-)Compilation'
+  last_post_description: At this year’s ECOOP, the Institute for System Software will
+    be attending with the almost complete team and we’re going to present on a variety
+    of topics. Come and talk to us at ICOOOLPS, MPLR,
+  last_post_date: "2026-06-16T09:47:00+02:00"
+  last_post_link: https://stefan-marr.de/2026/06/ssw-at-ecoop-compilers-gc-debugging-meta-compilation/
   last_post_categories:
-  - Linz
-  - Personal
+  - Benchmarking
+  - Debugging
+  - Metacompilation
   - Research
-  - Teaching
+  - compilation
+  - garbage collection
   last_post_language: ""
-  last_post_guid: 93a17698b11f4c214c996f55dcf24773
+  last_post_guid: d719fb8de075f0779e8e11232be93f40
   score_criteria:
     cats: 0
     description: 3

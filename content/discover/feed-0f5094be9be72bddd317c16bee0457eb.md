@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-06-10T23:59:41-04:00"
+date: "2026-06-28T17:49:45-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -347,6 +347,7 @@ params:
   - Kate Valk
   - Katherine Stewart
   - Kathy Acker
+  - Kawai Shen
   - Keeanga-Yamahtta Taylor
   - Keiji Haino
   - Kevin Coval
@@ -575,6 +576,7 @@ params:
   - Slavoj Zizek
   - Sludge Utopia
   - Sofia Ajram
+  - Sofia Mostaghimi
   - Soha Bechara
   - Solar Energy
   - Some Short Quotes
@@ -620,6 +622,7 @@ params:
   - The Coming Envelope
   - The Conditions for Human Flourishing
   - The DJ Who Gave Too Much Information
+  - The Ex
   - The Fall
   - The Hardy Rocks
   - The Land We Are
@@ -683,26 +686,30 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: IMAGINE UPWARDS / June 3rd at CCOV
+  last_post_title: one big project per year
   last_post_description: ""
-  last_post_date: "2026-06-03T10:19:35-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/05/imagine-upwards-june-3rd-at-ccov.html
-  last_post_categories: []
+  last_post_date: "2026-06-28T17:49:45-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/06/one-big-project-per-year.html
+  last_post_categories:
+  - Desire Without Expectation
+  - How Does Change Happen?
+  - PME-ART
+  - The Air Contains Honey
   last_post_language: ""
-  last_post_guid: 7fabca16b86d389bd8cf1c916bd9243b
+  last_post_guid: fb9de370a11de01618f70e0b48dcf74b
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

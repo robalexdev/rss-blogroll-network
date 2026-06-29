@@ -14,7 +14,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -48,15 +48,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Torigoe Matsuri 2026
-  last_post_description: Last week, the neighborhood started preparing for 鳥越祭り (Torigoe
-    Matsuri), setting out 新鮮 (shinsen, offering) in front of the 浅三 (Asakusabashi
-    san-chōme) mikoshi. When the weekend
-  last_post_date: "2026-06-07T21:00:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/torigoe-matsuri-2026.html
+  last_post_title: Guava Soda & Flamin’ Hot Cheetos
+  last_post_description: Back on my bullshit. This guava soda is good, maybe too sweet?
+    But these “New” (new to Japan) Flamin’ Hot Cheetos? Guys, these are not “Flamin’
+    Hot.” They are barely spicy. Also,
+  last_post_date: "2026-06-27T07:55:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/guava-soda-flamin-hot.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38de27271e7c1364fa4db50eb18b75f7
+  last_post_guid: 1f00c755a06cd21c6ac6ab981cda133c
   score_criteria:
     cats: 1
     description: 3

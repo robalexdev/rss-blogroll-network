@@ -19,32 +19,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - PHP
-  - Symfony
+  - Devops
+  - Nomad
+  - linux
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Symfony UX Calendar Links
-  last_post_description: ""
-  last_post_date: "2026-06-10T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/symfony_ux_calendar_links
+  last_post_title: Nomad Rescheduling Error
+  last_post_description: Troubleshooting a mysterious error in Nomad? This post shares
+    a personal experience with a puzzling issue and the simple solution that resolved
+    it.
+  last_post_date: "2026-06-23T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/nomad_rescheduling_error
   last_post_categories:
-  - PHP
-  - Symfony
+  - Devops
+  - Nomad
+  - linux
   last_post_language: ""
-  last_post_guid: ac7c8920f90cf17e7821b9fb3601f285
+  last_post_guid: f3719dfc07b82315c1940807e8f25340
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

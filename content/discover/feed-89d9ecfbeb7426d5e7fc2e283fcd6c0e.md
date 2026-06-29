@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-06-03T07:27:35Z"
+date: "2026-06-26T14:10:53Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SOPS + Age and Sealed Secrets
+  last_post_title: Designing a personal Pebble watchface
   last_post_description: ""
-  last_post_date: "2026-06-03T07:27:35Z"
-  last_post_link: https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets
+  last_post_date: "2026-06-26T14:10:53Z"
+  last_post_link: https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5e7de844c0ce226290177e48e22a2329
+  last_post_guid: 896a6e624e7e7a2b43c47370a973712d
   score_criteria:
     cats: 0
     description: 0

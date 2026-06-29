@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-06-09T15:44:18+08:00"
+date: "2026-06-25T15:50:55+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -38,6 +38,7 @@ params:
   - https://blog.vull.top/atom.xml
   - https://chise.hachiroku.com/zh/feed/
   - https://emohe.cn/rss.xml
+  - https://exyon.ee/feed.xml
   - https://geektutu.com/atom.xml
   - https://mozz.ie/index.xml
   - https://note.redcha.cn/rss.xml

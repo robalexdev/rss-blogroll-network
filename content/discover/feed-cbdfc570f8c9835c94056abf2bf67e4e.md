@@ -1,6 +1,6 @@
 ---
 title: 夜海行舟
-date: "2026-06-02T10:24:00+08:00"
+date: "2026-06-22T17:29:00+08:00"
 description: 坎坷之路，终抵群星。夜海行舟，不知归处。
 params:
   feedlink: https://brocalife.com/feed/atom/
@@ -18,18 +18,14 @@ params:
   categories:
   - 随笔
   relme: {}
-  last_post_title: 记梦一则
-  last_post_description: !!binary |
-    5bey5piv5YeM5pmo5LiJ54K55aSa77yM5py15py1Mei/mOi3n+S4pOS4quWQjOWtpuWcqO
-    aIkeWutumHjOeOqea4uOaIj++8jOWkp+WQteWkp+mXueeahO+8jOaIkeWunuWcqOWPl+S4
-    jeS6huS6hu+8jOS7juWNp+WupOW6iuS4iueIrOi1t+adpe+8jOWGsuWHuuWOu+WPq+S7lu
-    S7rOWuiemdmeeCue+8jOimgeS7luS7rOi1tue0p+a7muWbnuWutuOAguU=
-  last_post_date: "2026-06-02T10:24:00+08:00"
-  last_post_link: https://brocalife.com/2026/06/02/2254/
+  last_post_title: 2026年6月16日~19日：杭州四日游
+  last_post_description: 我和小蛇是前两年通过QQ空间扩列认识的，她昵称结尾是「想要语音版」。某天我打了个语音电话过去，聊过之后觉得挺合拍，两人顺理成章地成了很要
+  last_post_date: "2026-06-22T17:29:00+08:00"
+  last_post_link: https://brocalife.com/2026/06/22/2255/
   last_post_categories:
   - 随笔
   last_post_language: ""
-  last_post_guid: 1ab67013df4fe8d6b195ff0d7b41c69f
+  last_post_guid: 4f7a73fb4905ce3ba5ff8fdc9e44c1fc
   score_criteria:
     cats: 0
     description: 3

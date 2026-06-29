@@ -16,20 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - life
-  - summary
+  - ai
+  - tech
   - thought
   relme: {}
-  last_post_title: 2024 年记
-  last_post_description: 通往幸福的道路并不存在，幸福本身就是道路。
-  last_post_date: "2025-02-10T00:00:00Z"
-  last_post_link: https://ceynri.cn/blog/2024-summary/
+  last_post_title: AI Coding 的人文思考
+  last_post_description: 当 Coding 的终局指向高度的去人类化，我们还能做什么？
+  last_post_date: "2026-06-26T00:00:00Z"
+  last_post_link: https://ceynri.cn/blog/thoughts-in-ai-coding/
   last_post_categories:
-  - life
-  - summary
+  - ai
+  - tech
   - thought
   last_post_language: ""
-  last_post_guid: 03df7ad1bc3ad3ff0398760927c17724
+  last_post_guid: 4d630864dbbe2b6fce36d060626768c6
   score_criteria:
     cats: 0
     description: 3

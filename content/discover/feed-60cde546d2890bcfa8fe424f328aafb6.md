@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-05-29T18:44:33-07:00"
+date: "2026-06-28T08:14:25-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -11,7 +11,7 @@ params:
     https://fxrant.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []

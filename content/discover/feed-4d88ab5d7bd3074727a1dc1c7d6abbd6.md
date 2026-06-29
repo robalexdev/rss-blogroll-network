@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -110,15 +110,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Idol Of Intelligence
-  last_post_description: I am fascinated by the number of reactions to Pope Leo’s
-    encyclical, Magnifica Humanitas, in my technology feeds. It’s the first time that
-    I can recall of seeing so many technologists spend any
-  last_post_date: "2026-05-28T15:04:40-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/05/28/idol-of-intelligence.html
+  last_post_title: A Look To The Future With AI In It
+  last_post_description: Read a really good essay titled After AI Takes Everything
+    written by a software engineer based in Singapore who goes by Airing. The link
+    I am providing is to a copy of the essay I have in Readwise
+  last_post_date: "2026-06-18T12:56:06-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/06/18/a-look-to-the-future.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24c52c12a17503260706affcec7bdaea
+  last_post_guid: a789fa4dbb1debcf9d50f83e18fbaafe
   score_criteria:
     cats: 0
     description: 0

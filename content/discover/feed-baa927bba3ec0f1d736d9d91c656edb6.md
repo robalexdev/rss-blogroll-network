@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2026-03-17T13:28:00Z"
+date: "2026-06-27T13:33:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /math
+  - /lang
   relme: {}
-  last_post_title: Did Ahmes find the best expansions for 2/n?
+  last_post_title: It's our language now!
   last_post_description: ""
-  last_post_date: "2026-03-17T13:28:00Z"
-  last_post_link: https://blog.plover.com/math/egyptian-fractions-2.html
+  last_post_date: "2026-06-27T13:33:00Z"
+  last_post_link: https://blog.plover.com/lang/who-owns-english.html
   last_post_categories:
-  - /math
+  - /lang
   last_post_language: ""
-  last_post_guid: 345eb1784a0beb8a8c05657fc56bbef8
+  last_post_guid: a3d7a198ff89d688af8d8f088e898d63
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Emilian Bold's blog
-date: "2026-06-07T05:31:39+03:00"
+date: "2026-06-24T16:28:50+03:00"
 description: Broadcasting from the Romanian trenches
 params:
   feedlink: https://blog.emilianbold.ro/atom.xml

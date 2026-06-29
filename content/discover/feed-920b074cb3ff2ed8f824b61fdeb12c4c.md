@@ -16,32 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 1260H名单解读
-  - BIS实体清单OFAC SDN区别
-  - DoD 1260H
+  - AIGC
+  - El Capitan
+  - LINPACK
+  - TOP500榜单解读
   - 中国故事
-  - 中国涉军企业名单
-  - 比亚迪宁德时代上榜影响
-  - 美国制裁中国企业
-  - 美国国防部
-  - 美国国防部1260H清单
+  - 中国超算TOP500
+  - 中国超算排名
+  - 灵晟超算FP64双精度
+  - 灵晟超算世界第一
+  - 超算和AI算力区别
   relme: {}
-  last_post_title: 美国国防部 1260H 清单，仅仅是一种羞辱吗？
-  last_post_description: 本文解析美国国防部1260H清单为何把188家中国企业推入合规风暴，并说明它与BIS实体清单、OFAC
-  last_post_date: "2026-06-11T01:04:23Z"
-  last_post_link: https://lukefan.com/2026/06/11/pentagon-1260h-china-military-company-list-supply-chain-risks/
+  last_post_title: 中国超算重回全球第一，超算和AI算力中心不是一回事，英伟达为什么在这一块不灵了？
+  last_post_description: 中国超算灵晟重夺 TOP500 世界第一，但这并不等于 AI 算力领先。本文拆解 TOP500 榜单、FP64 双精度测试、纯
+    CPU 超算和 GPU AI
+  last_post_date: "2026-06-29T00:56:07Z"
+  last_post_link: https://lukefan.com/2026/06/29/china-top500-supercomputer-linpack-benchmark-analysis/
   last_post_categories:
-  - 1260H名单解读
-  - BIS实体清单OFAC SDN区别
-  - DoD 1260H
+  - AIGC
+  - El Capitan
+  - LINPACK
+  - TOP500榜单解读
   - 中国故事
-  - 中国涉军企业名单
-  - 比亚迪宁德时代上榜影响
-  - 美国制裁中国企业
-  - 美国国防部
-  - 美国国防部1260H清单
+  - 中国超算TOP500
+  - 中国超算排名
+  - 灵晟超算FP64双精度
+  - 灵晟超算世界第一
+  - 超算和AI算力区别
   last_post_language: ""
-  last_post_guid: 4dcd4c4b903a6393aa4e2a7789c22597
+  last_post_guid: cd2df26b2058f37e28e09fcfccde485d
   score_criteria:
     cats: 0
     description: 3

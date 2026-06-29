@@ -1,6 +1,6 @@
 ---
 title: I Hear of Sherlock Everywhere
-date: "2026-06-06T11:47:30-04:00"
+date: "2026-06-28T12:54:48-04:00"
 description: The definitive Sherlock Holmes show and website at the intersection of
   news and popular culture.
 params:
@@ -167,26 +167,28 @@ params:
   - travel
   - video
   relme: {}
-  last_post_title: New Series on Professor Moriarty Is in the Works
+  last_post_title: Baker Street Elementary – FDS
   last_post_description: ""
-  last_post_date: "2026-06-01T14:21:00-04:00"
-  last_post_link: https://feeds.feedblitz.com/~/957621278/0/ihearofsherlock.html
-  last_post_categories: []
+  last_post_date: "2026-06-28T12:54:25-04:00"
+  last_post_link: https://feeds.feedblitz.com/~/958637618/0/ihearofsherlock.html
+  last_post_categories:
+  - Baker Street Elementary
+  - blog
   last_post_language: ""
-  last_post_guid: 44ace24ace064b1017c3d75da6f409bd
+  last_post_guid: 92452fddcf82ff5c4e6a89f4f7622551
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

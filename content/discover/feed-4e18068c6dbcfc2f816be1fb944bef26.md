@@ -10,7 +10,7 @@ params:
     https://tolkienandfantasy.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -243,6 +243,7 @@ params:
     https://jdrclassics.blogspot.com/: true
     https://kennethvennormorris.blogspot.com/: true
     https://leonardcline.blogspot.com/: true
+    https://templkw.blogspot.com/: true
     https://tolkienandfantasy.blogspot.com/: true
     https://wormwoodiana.blogspot.com/: true
     https://www.blogger.com/profile/16844859516228160123: true

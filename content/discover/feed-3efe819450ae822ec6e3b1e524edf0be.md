@@ -1,6 +1,6 @@
 ---
 title: Abstract Heresies
-date: "2026-06-07T17:56:01-07:00"
+date: "2026-06-28T15:52:33-07:00"
 description: Unorthodox opinions on computer science and programming.
 params:
   feedlink: https://funcall.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://funcall.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Liferea Feed List Export
@@ -99,16 +99,24 @@ params:
     https://funcall.blogspot.com/: true
     https://jrms-random-blog.blogspot.com/: true
     https://www.blogger.com/profile/03233353484280456977: true
-  last_post_title: Regression
+  last_post_title: New chatbot
   last_post_description: ""
-  last_post_date: "2026-06-01T00:00:00-07:00"
-  last_post_link: https://funcall.blogspot.com/2026/06/regression.html
+  last_post_date: "2026-06-28T15:52:33-07:00"
+  last_post_link: https://funcall.blogspot.com/2026/06/new-chatbot.html
   last_post_categories:
   - AI coding
+  - CLOS
+  - Co-pilot
+  - Common Lisp
+  - Gemini
+  - LLM
+  - MCP
   - Vibe coding
-  - war story
+  - ai
+  - recursion
+  - sbcl
   last_post_language: ""
-  last_post_guid: 59fd031e614bbaf040d379996fc751f8
+  last_post_guid: c8d68eb6d81c7567a4d2543f24fcdaf4
   score_criteria:
     cats: 5
     description: 3

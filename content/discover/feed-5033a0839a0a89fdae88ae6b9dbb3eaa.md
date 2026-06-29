@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-06-08T00:31:20Z"
+date: "2026-06-23T01:58:11Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -13,7 +13,7 @@ params:
   - title: Robert Birming - Blogroll
     description: ""
     id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -44,15 +44,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: A solid tradition // Week 23 — 2026
-  last_post_description: 'A week in which some things happen and some things do not
-    happen, much like other weeks.  Current situation: The pain of having children
-    who become driving teenagers is the...'
-  last_post_date: "2026-06-08T05:08:09Z"
-  last_post_link: https://anniemueller.com/posts/a-solid-tradition-week-23-2026
+  last_post_title: A bundle of bones // W24 + 25 — 2026
+  last_post_description: 'I have to publish this now, we’re already halfway through
+    W26. Current situation: Monday 08 June: The U of Ark college visit. Zeke really
+    likes it and they have a...'
+  last_post_date: "2026-06-24T21:29:53Z"
+  last_post_link: https://anniemueller.com/posts/a-bundle-of-bones-w24-plus-25-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6dbfd0f4499cfdcb69e8fbf5a5fc6974
+  last_post_guid: b4a6bb582c12196fdf81ed7d9ff1f5f0
   score_criteria:
     cats: 0
     description: 0

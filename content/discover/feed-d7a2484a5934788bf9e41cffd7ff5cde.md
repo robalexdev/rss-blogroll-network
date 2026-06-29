@@ -10,7 +10,7 @@ params:
     https://nemanjatrifunovic.substack.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Inside MP/M's Process Dispatcher
-  last_post_description: A look at internal design and source code of the most popular
-    8-bit multitasking OS
-  last_post_date: "2026-05-31T19:34:56Z"
-  last_post_link: https://nemanjatrifunovic.substack.com/p/inside-mpms-process-dispatcher
+  last_post_title: The Peak and Collapse of Digital Research
+  last_post_description: The History of the Decline and Fall of Digital Research Inc
+  last_post_date: "2026-06-28T17:07:45Z"
+  last_post_link: https://nemanjatrifunovic.substack.com/p/the-peak-and-collapse-of-digital
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c8a6745a4030e7d8f8519c04d1dcca71
+  last_post_guid: 822705b1c793b0dd8d988f4e678b790d
   score_criteria:
     cats: 0
     description: 3

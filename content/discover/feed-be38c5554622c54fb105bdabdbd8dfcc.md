@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-06-11T10:52:20Z"
+date: "2026-06-25T14:47:53Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,17 +28,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 算法与数据结构
+  - 游戏
   relme: {}
-  last_post_title: 对基本有序的序列排序算法
-  last_post_description: quicksort 是基于比较的排序中表现最好的算法，它在大多数情况下都能接近时间复杂度 O(n log n) ，所以
-    qsort() 也是 C
-  last_post_date: "2026-06-11T10:52:20Z"
-  last_post_link: https://blog.codingnow.com/2026/06/powersort.html
+  last_post_title: 从猎户座之王到群星
+  last_post_description: !!binary |
+    5q+P5Liq57uP5YW455S15a2Q5ri45oiP55qE5ri45oiP6K6+6K6h6YO95aSa5bCR5pyJ5L
+    iA5Lqb5LmL5YmN5L2c5ZOB55qE55eV6L+544CC5oiR6K6k5Li65Y6f5Zug5pyJ5LqM77ya
+    5oiQ5Yqf55qE546p5rOV5b+F6aG75pyJ5aSn6YeP546p5a625a6e6ZmF5ri45oiP5L2T6a
+    qM55qE5omT56Oo6K+B5piO5YW25pyJ5pWI77yM5Zyo57uP5YW4546p5rM=
+  last_post_date: "2026-06-25T14:47:53Z"
+  last_post_link: https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html
   last_post_categories:
-  - 算法与数据结构
+  - 游戏
   last_post_language: ""
-  last_post_guid: daf066fd2d3819cc4e8c994e3a5770ec
+  last_post_guid: 7d9feec9932bf84ff355d40837d90bd6
   score_criteria:
     cats: 0
     description: 3

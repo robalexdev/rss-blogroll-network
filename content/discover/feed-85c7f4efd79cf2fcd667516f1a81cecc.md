@@ -22,25 +22,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai-tools
-  - chrome-extension
-  - frontend
-  - wanxing
-  - wechat-editor
+  - blog
+  - knowledge-management
+  - writing
   relme: {}
-  last_post_title: 基于万形做的一些小玩意儿
-  last_post_description: 把自己的审美沉淀成一套工具之后，又做了更多开发，也尝试做了一个 MVP，但后续发现所有的想法和功能几乎与 Claude
-    Design
-  last_post_date: "2026-06-10T00:00:00+08:00"
-  last_post_link: https://blog.zopiya.com/wanxing-tools-73e886c7/
+  last_post_title: 知识花园：构建你的第二大脑
+  last_post_description: !!binary |
+    5oiR5LmL5YmN5o+Q5Yiw6L+H6Ieq5bex5YaZ5LqG5LiA5pys5Lmm77yM6L+Z5qyh5bCx5p
+    2l6IGK6IGK5a6D44CC6L+Z5piv5LiA5pys55+l6K+G566h55CG5Li76aKY55qE5bel5YW3
+    5Lmm77yM5piv5oiR5oqK6L+Z5Lqb5bm056ev57Sv55qE57uP6aqM5LiA54K554K55pW055
+    CG44CB5oC757uT44CB5omT56Oo5Ye65p2l55qE5LiA5aWX5oCd5oOz5ZI=
+  last_post_date: "2026-06-23T00:00:00+08:00"
+  last_post_link: https://blog.zopiya.com/knowledge-garden-book-68f62572/
   last_post_categories:
-  - ai-tools
-  - chrome-extension
-  - frontend
-  - wanxing
-  - wechat-editor
+  - blog
+  - knowledge-management
+  - writing
   last_post_language: ""
-  last_post_guid: 689556a8e02a963d1ee381754d859b29
+  last_post_guid: 8de556f53f0ded80ffff98165086890c
   score_criteria:
     cats: 0
     description: 3

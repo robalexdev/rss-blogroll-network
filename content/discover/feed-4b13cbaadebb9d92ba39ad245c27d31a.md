@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-06-11T17:10:02+01:00"
+date: "2026-06-29T00:24:55+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -912,6 +912,7 @@ params:
   - Dipo Ola
   - Dirk Gentlys Holistic Detective Agency Season 1
   - Disclosure
+  - Disclosure Day
   - Disney
   - Diversity
   - Do They Know It's Christmas
@@ -1195,6 +1196,7 @@ params:
   - Eurovision Song Contest 2025
   - Eve Hewson
   - Eve Myles
+  - Eve Ridley
   - Events
   - Everything Everywhere All at Once
   - Everything Is Illuminated
@@ -1470,6 +1472,7 @@ params:
   - Heisenberg
   - Helen Mirren
   - Helena Bonham Carter
+  - Helena Carter
   - Helma Hilmar
   - Henrik Ibsen
   - Henry Cavill
@@ -1483,6 +1486,7 @@ params:
   - Heycar
   - Hide
   - High Streets
+  - Hillary Brooke
   - Hipgnosis
   - Hirondelle
   - His Dark Materials
@@ -1573,6 +1577,7 @@ params:
   - Interstellar movie review
   - Into The Dalek
   - Inua Ellams
+  - Invaders from Mars
   - Invading Earth
   - Invention of chicken nuggets
   - Ireland
@@ -1682,6 +1687,7 @@ params:
   - Jim Broadbent
   - Jim Lea
   - Jim Sturgess
+  - Jimmy Hunt
   - Jimmy Webb
   - Jingle Bell Heist
   - Jinkx Monsoon
@@ -1936,6 +1942,7 @@ params:
   - Lee Ingleby
   - Lee Walters
   - Leicester University
+  - Leif Erickson
   - Leigh Taylor Young
   - Leila Khan
   - Lena Headley
@@ -2122,6 +2129,7 @@ params:
   - Matthew James Thomas
   - Matthew McConaughey
   - Matthew Vaughn
+  - Matthias Schoenaerts
   - Maurice Flitcroft
   - Maurice Gibb
   - Maverick
@@ -2228,6 +2236,7 @@ params:
   - Millie Bobbie Brown
   - Millie Bobby Brown
   - Millie Gibson
+  - Milly Alcock
   - Milos Forman
   - Milton Johns
   - Mindbender
@@ -3097,6 +3106,7 @@ params:
   - Summer in the City 2014
   - Sunshine on Leith
   - Super 8
+  - Supergirl
   - Superman
   - Superstar
   - Suranne Jones
@@ -3695,6 +3705,7 @@ params:
   - Will Smith
   - Will Soodik
   - Willem Defoe
+  - William Cameron Menzies
   - William F Nolan
   - William Gao
   - William Hartnell
@@ -3730,6 +3741,7 @@ params:
   - Wreck season two
   - Wreck tv series
   - Wyatt Oleff
+  - Wyatt Russell
   - Wynona Ryder
   - X
   - X Men
@@ -3819,20 +3831,20 @@ params:
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Backrooms review
+  last_post_title: Supergirl review
   last_post_description: ""
-  last_post_date: "2026-06-09T19:00:31+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/06/backrooms-review.html
+  last_post_date: "2026-06-26T19:37:39+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/06/supergirl-review.html
   last_post_categories:
-  - Backrooms movie
-  - Chiwetel Ejiofor
-  - Films
-  - Jeremy Cox
-  - Kane Parsons
-  - Renate Reinsve
-  - Will Soodik
+  - Craig Gillespie
+  - DC movies
+  - Eve Ridley
+  - Film
+  - Matthias Schoenaerts
+  - Milly Alcock
+  - Supergirl
   last_post_language: ""
-  last_post_guid: 82f4aff39cb96bd76fb13ff171054ebf
+  last_post_guid: 3246ece5e4871ae4dda0c2e12363360a
   score_criteria:
     cats: 5
     description: 3

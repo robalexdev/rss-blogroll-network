@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-06-11T08:59:37Z"
+date: "2026-06-28T09:34:39Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -11,7 +11,7 @@ params:
     https://winther.sysctl.dk/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

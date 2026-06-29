@@ -16,22 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Act V
   - Comics
   - Dark Science
   - Stories
   relme: {}
-  last_post_title: 'Dark Science #185 – Twilight’s End'
-  last_post_description: |-
-    Happy Pride!
-    The post Dark Science #185 – Twilight’s End appeared first on Dresden Codak.
-  last_post_date: "2026-06-08T06:10:18Z"
-  last_post_link: https://dresdencodak.com/2026/06/07/dark-science-185-twilights-end/
+  last_post_title: 'Dark Science #186 – Cleaving Day From Night'
+  last_post_description: 'The post Dark Science #186 – Cleaving Day From Night appeared
+    first on Dresden Codak.'
+  last_post_date: "2026-06-22T07:09:36Z"
+  last_post_link: https://dresdencodak.com/2026/06/22/dark-science-186-cleaving-day-from-night/
   last_post_categories:
+  - Act V
   - Comics
   - Dark Science
   - Stories
   last_post_language: ""
-  last_post_guid: 62a43615fb75301a941bf34b518b6110
+  last_post_guid: 5598961f34a2da74c6f5841be583c7ea
   score_criteria:
     cats: 0
     description: 3

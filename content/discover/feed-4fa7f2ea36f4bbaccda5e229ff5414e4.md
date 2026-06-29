@@ -1,6 +1,6 @@
 ---
 title: Memo's Island
-date: "2026-03-03T13:41:56-08:00"
+date: "2026-06-27T12:29:26-07:00"
 description: "The art of data science and  scientific computing  \n by Mehmet Süzen
   \nSee also:  Science Memo"
 params:

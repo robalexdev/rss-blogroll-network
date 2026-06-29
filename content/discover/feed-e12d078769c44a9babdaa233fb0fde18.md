@@ -1,6 +1,6 @@
 ---
 title: Software, Simplicity, Sustainability and Stuff
-date: "2026-06-11T17:54:45Z"
+date: "2026-06-28T22:24:11Z"
 description: Software, Simplicity, Sustainability, Stuff
 params:
   feedlink: https://4s.bearblog.dev/feed/
@@ -10,7 +10,7 @@ params:
     https://4s.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -19,22 +19,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - amateurhourphilosophy
-  - johnrawls
+  - Russians
+  - USA
+  - dominion
+  - doomandgloom
+  - empathy
   - stuff
-  - veilofignorance
   relme: {}
-  last_post_title: What the Veil Reveals
+  last_post_title: Empathy
   last_post_description: ""
-  last_post_date: "2026-06-04T03:40:58Z"
-  last_post_link: https://4s.bearblog.dev/what-the-veil-reveals/
+  last_post_date: "2026-06-26T06:45:16Z"
+  last_post_link: https://4s.bearblog.dev/empathy/
   last_post_categories:
-  - amateurhourphilosophy
-  - johnrawls
+  - Russians
+  - USA
+  - dominion
+  - doomandgloom
+  - empathy
   - stuff
-  - veilofignorance
   last_post_language: ""
-  last_post_guid: 56fd44087a9ac15bde7e5292725e0e62
+  last_post_guid: 7274cf568b928c7f3d470ed615e62723
   score_criteria:
     cats: 0
     description: 3

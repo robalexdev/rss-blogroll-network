@@ -28,34 +28,35 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Industry
-  - Raspberry Pi Podcast
+  - Education
+  - Raspberry Pi Official Magazine
+  - education
   relme: {}
-  last_post_title: 'Small device, big business: can a Raspberry Pi replace your desktop
-    PC?'
+  last_post_title: LEAP – Low-bandwidth Educational Access Platform
   last_post_description: |-
-    The latest episode of the Raspberry Pi Podcast reveals how our small devices support big business at home and at work
-    The post Small device, big business: can a Raspberry Pi replace your desktop PC?
-  last_post_date: "2026-06-10T12:20:07Z"
-  last_post_link: https://www.raspberrypi.com/news/small-device-big-business-can-a-raspberry-pi-replace-your-desktop-pc/
+    Using a Raspberry Pi to provide digital education to remote rural classrooms.
+    The post LEAP – Low-bandwidth Educational Access Platform appeared first on Raspberry Pi.
+  last_post_date: "2026-06-25T10:37:07Z"
+  last_post_link: https://www.raspberrypi.com/news/leap-low-bandwidth-educational-access-platform/
   last_post_categories:
-  - Industry
-  - Raspberry Pi Podcast
+  - Education
+  - Raspberry Pi Official Magazine
+  - education
   last_post_language: ""
-  last_post_guid: 094c5835f823277364bb51afe99cd17c
+  last_post_guid: 65c200cfc8c903daa959c78e1d7ac90c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

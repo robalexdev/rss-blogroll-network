@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-06-11T11:58:46Z"
+date: "2026-06-27T13:43:43Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '@robinwhittleton Tested it in the emulator Flycast. You absolutely
-    can control the browser with t...'
+  last_post_title: '@villapirorum @piccalilli Translates very nicely.'
   last_post_description: ""
-  last_post_date: "2026-06-11T11:58:46Z"
-  last_post_link: https://fedi.vale.rocks/objects/4988e98c-23ef-4958-af2a-2dde040e53cc
+  last_post_date: "2026-06-27T13:43:43Z"
+  last_post_link: https://fedi.vale.rocks/objects/fbc1b47f-e862-4df4-bf46-c410b8afbbb5
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 95c421ee158bcea840330435bbd19f20
+  last_post_guid: 2e7c93a27b662ced9c521375b97fc0e4
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-06-07T12:50:00-07:00"
+date: "2026-06-28T17:19:51-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -190,6 +190,7 @@ params:
   - GARY GLITTER
   - GARY NUMAN
   - GENA ROWLANDS
+  - GENE LOVES JEZEBEL
   - GENEVA JACUZZI
   - GEORGE CLOONEY
   - GET IN THE SWING
@@ -302,6 +303,7 @@ params:
   - LONDON BOYS
   - LOS ANGELES
   - LOU REED
+  - LOVE AND ROCKETS
   - LOVE INC
   - LOW SELF ESTEEM
   - LUKE HAINES
@@ -599,18 +601,20 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Secret thesis (style bible slight return)
+  last_post_title: Goth goes Glam
   last_post_description: ""
-  last_post_date: "2026-06-07T12:50:00-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/06/secret-thesis-style-bible-slight-return.html
+  last_post_date: "2026-06-26T17:07:46-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/06/goth-goes-glam.html
   last_post_categories:
-  - ID
-  - SECRET THESIS
-  - SECRETED THESIS
-  - STYLE BIBLES
-  - STYLE MAGAZINES
+  - GENE LOVES JEZEBEL
+  - GLAM
+  - GLAM METAL
+  - GOTH
+  - HAIR METAL
+  - LOS ANGELES
+  - LOVE AND ROCKETS
   last_post_language: ""
-  last_post_guid: fad3cc810b422aa0f4b86ebf88f152c1
+  last_post_guid: 73c1fb5e76b715618a802caaf855eab4
   score_criteria:
     cats: 5
     description: 3

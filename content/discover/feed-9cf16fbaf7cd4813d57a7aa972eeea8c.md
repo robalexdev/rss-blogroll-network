@@ -22,21 +22,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 清华大学
+  - 复盘与总结
+  - 年终总结
   - 生活与世界
-  - 紫荆公寓
   relme: {}
-  last_post_title: 紫15旧寓的最后一晚
-  last_post_description: 本文的作者是博主的一位发小。 半年前，hl 回清华，我们一同在五道口的意大利面馆吃了一顿，饭后一路走回学校。我…
-    继续阅读紫15旧寓的最后一晚
-  last_post_date: "2025-10-16T15:21:27Z"
-  last_post_link: https://dgideas.net/2025/zi15-the-last-night/
+  last_post_title: 那就再开一次落日飞车——我的二零二五年
+  last_post_description: 二零二五年真是过得飞快。重新翻看日历，才意识到这一整年自己竟然做过这么多的事情。在赤道线上的小岛待久了，对时间…
+  last_post_date: "2026-06-12T19:17:45Z"
+  last_post_link: https://dgideas.net/2026/one-more-sunset-ride-my-2025/
   last_post_categories:
-  - 清华大学
+  - 复盘与总结
+  - 年终总结
   - 生活与世界
-  - 紫荆公寓
   last_post_language: ""
-  last_post_guid: 059e24a7403dc154e0f7459b6a1c2479
+  last_post_guid: f9e7f98ad3db43cf8c37d03e71941eb9
   score_criteria:
     cats: 0
     description: 3

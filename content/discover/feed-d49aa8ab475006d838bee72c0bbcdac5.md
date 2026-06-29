@@ -10,7 +10,7 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,19 +23,20 @@ params:
   recommender: []
   categories:
   - a.i.
-  - software development
+  - feedback loops
   relme: {}
-  last_post_title: Return of the Revenge of the Son of Software Process Engineering
-  last_post_description: I watched an interview recently with Claude Code creator
-    Boris Cherny where he talked about how he doesn’t prompt anymore, he just “writes
-    loops” that do the prompting for him. Putting aside
-  last_post_date: "2026-06-10T06:00:19Z"
-  last_post_link: https://codemanship.wordpress.com/2026/06/10/return-of-the-revenge-of-the-son-of-software-process-engineering/
+  last_post_title: Even If We Could Extend The Horizons of Autonomous Coding Agents,
+    Does That Mean We Should?
+  last_post_description: Thinking about the horizon of autonomous agentic workflows.
+    I visualise them as sequences of decisions that are dependent. If decision D1
+    is correct, D2 is more likely to be correct. If D1 is wrong,
+  last_post_date: "2026-06-24T07:51:48Z"
+  last_post_link: https://codemanship.wordpress.com/2026/06/24/even-if-we-could-extend-the-horizons-of-autonomous-coding-agents-does-that-mean-we-should/
   last_post_categories:
   - a.i.
-  - software development
+  - feedback loops
   last_post_language: ""
-  last_post_guid: 1019bf2c6a99aeaeafd7d4b3a3f3c6d3
+  last_post_guid: 702f2897db4a9177278e42a78171fd1f
   score_criteria:
     cats: 0
     description: 3

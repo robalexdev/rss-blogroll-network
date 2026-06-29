@@ -24,16 +24,15 @@ params:
   - 'Software/ '
   - Vale Programming Language
   relme: {}
-  last_post_title: The Impossible Optimization, and the Metaprogramming To Achieve
-    It
+  last_post_title: 'Ante: A New Way to Blend Borrow Checking and Reference Counting'
   last_post_description: ""
-  last_post_date: "2025-08-28T01:20:00-05:00"
-  last_post_link: https://verdagon.dev/blog/impossible-optimization
+  last_post_date: "2026-06-28T01:20:00-05:00"
+  last_post_link: https://verdagon.dev/blog/ante-blending-borrowing-rc
   last_post_categories:
   - Mojo Programming Language
   - Programming Languages
   last_post_language: ""
-  last_post_guid: 5c3a41de252309b0e71fbeb14e378d9a
+  last_post_guid: b11a24f0a53f0ed977d1cbed20b6266b
   score_criteria:
     cats: 4
     description: 3

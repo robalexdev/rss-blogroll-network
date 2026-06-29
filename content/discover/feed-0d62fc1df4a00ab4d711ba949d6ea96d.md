@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-06-08T01:37:45Z"
+date: "2026-06-28T01:10:47Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,30 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 医疗卫生
   - 小说
+  - 心理学
+  - 整理
+  - 设计学
   - 读书
   - 读书笔记
   - 阅读
   relme: {}
-  last_post_title: 2026年四月 读医疗卫生 小说 3本
+  last_post_title: 2026年五月 读设计学 心理学 整理术 小说 7 本
   last_post_description: |-
     引子
 
 
     引子
 
-    公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的
-  last_post_date: "2026-05-18T20:01:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/05/18/reading_summary/
+    这个月读的书，有设计学，心理学，整理术。读来读去，感觉都是一回事儿呀。介绍设计原则的两本书，基本上就是心理学中视知觉部分的
+  last_post_date: "2026-06-11T22:26:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/06/11/reading_summary/
   last_post_categories:
-  - 医疗卫生
   - 小说
+  - 心理学
+  - 整理
+  - 设计学
   - 读书
   - 读书笔记
   - 阅读
   last_post_language: ""
-  last_post_guid: 86620422f2cb05747b9bf62494b51127
+  last_post_guid: aac1733ad6b9fb076ec7b9e4671e026f
   score_criteria:
     cats: 0
     description: 0

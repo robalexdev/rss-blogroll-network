@@ -19,21 +19,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - The Process
-  - difference
-  - highlight
+  - Data Art
+  - Elon Musk
+  - Mona Chalabi
+  - scale
+  - trillion
   relme: {}
-  last_post_title: ✚ Showing when the data flips
-  last_post_description: 'This week, we focus on when there is a sudden change or
-    flip in the data that you want to highlight.Tags: difference, highlight'
-  last_post_date: "2026-06-11T12:05:15Z"
-  last_post_link: https://flowingdata.com/2026/06/11/process-392-flips/
+  last_post_title: Ridiculous trillionaire scales
+  last_post_description: 'I missed these illustrations by Mona Chalabi showing the
+    ridiculous scale of one…Tags: Elon Musk, Mona Chalabi, scale, trillion'
+  last_post_date: "2026-06-26T07:49:59Z"
+  last_post_link: https://flowingdata.com/2026/06/26/ridiculous-trillionaire-scales/
   last_post_categories:
-  - The Process
-  - difference
-  - highlight
+  - Data Art
+  - Elon Musk
+  - Mona Chalabi
+  - scale
+  - trillion
   last_post_language: ""
-  last_post_guid: 0bd6d665d6e320ad17510436577546dc
+  last_post_guid: 4415df389e2e80bf0bf9104cd63a2545
   score_criteria:
     cats: 0
     description: 3

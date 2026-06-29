@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何画好流程图
-  last_post_description: 俗话说，字不如表，表不如图。
-  last_post_date: "2026-04-29T00:00:00Z"
-  last_post_link: https://wukaipeng.com/blog/flowchart
+  last_post_title: '注意力革命: 微信'
+  last_post_description: 注意力透支，是现代人的新型亚健康。
+  last_post_date: "2026-06-21T00:00:00Z"
+  last_post_link: https://wukaipeng.com/blog/attention-revolution
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aedcc9c711842e735a732d5a2f538d54
+  last_post_guid: 6da7f81fbfb0525a665e6649d4fa3a73
   score_criteria:
     cats: 0
     description: 3

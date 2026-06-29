@@ -15,18 +15,14 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 硬件快讯
+  - 游戏快讯
   relme: {}
-  last_post_title: AOC AGP277QKP显示器开卖：2K@425Hz，支持圆偏光技术，首发价2699元
-  last_post_description: !!binary |
-    5LiK5Liq5pyI77yMQU9D5o6o5Ye65LqGQUdQMjc3UUtQ5pi+56S65Zmo77yM5YW35aSH56
-    Gs5Lu25L2O6JOd5YWJ44CB5peg6Zeq54OB44CB5ZyG5YGP5YWJ5LiJ5aSn5oqA5pyv77yM
-    5qih5ouf6Ieq54S25YWJ77yM5a6e546w5LqG5pu06ZW/5LmF44CB6IiS6YCC55qE6KeC5b
-    2x5L2T6aqM44CC55uu5YmN5paw5Lqn5ZOB5bey55m76ZmG55S15ZWG5bk=
-  last_post_date: "2026-06-11T23:37:00Z"
-  last_post_link: http://www.expreview.com/106423.html
+  last_post_title: Valve称Steam Machine的HDMI 2.1问题以解决，短时间内不太可能下调设备定价
+  last_post_description: 几天前，Valve宣布Steam Machine正式上市，并开始接受预订。其提供了四个不同的存储选项，分别是512GB或2TB的SSD，另外可以选择搭配Steam
+  last_post_date: "2026-06-28T00:07:00Z"
+  last_post_link: http://www.expreview.com/106718.html
   last_post_categories:
-  - 硬件快讯
+  - 游戏快讯
   last_post_language: ""
   last_post_guid: 8570c3e04efa0177949be6f856f3a213
   score_criteria:

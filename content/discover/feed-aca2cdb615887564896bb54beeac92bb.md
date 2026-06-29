@@ -10,7 +10,7 @@ params:
     https://abouthalf.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 8 Pieces
-  last_post_description: Highlighting my favorite 8 pieces at the 2026 Oregon Contemporary
-    Artists’ Biennial
-  last_post_date: "2026-06-07T00:00:00Z"
-  last_post_link: https://abouthalf.com/writing/8-pieces/
+  last_post_title: David Hockney at the Portland Art Museum
+  last_post_description: Seeing the David Hockney retrospective at the Portland Art
+    Museum felt personal. His lifelong embrace of technology as an artistic tool mirrors
+    my own scrappy history with photocopiers and inkjet
+  last_post_date: "2026-06-15T00:00:00Z"
+  last_post_link: https://abouthalf.com/writing/david-hockney-at-pam/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ac80403fb2e0d94a68a31dfab910280f
+  last_post_guid: e0bccc12710658d88fde2e1541f7dd59
   score_criteria:
     cats: 0
     description: 3

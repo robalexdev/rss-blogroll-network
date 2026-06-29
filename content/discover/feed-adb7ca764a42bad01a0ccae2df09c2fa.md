@@ -32,10 +32,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Nextcloud Hub 26 Spring: Built together, designed for the future'
+  last_post_title: 'Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper
+    for LLM APIs'
   last_post_description: Comments
-  last_post_date: "2026-06-11T14:17:47Z"
-  last_post_link: https://nextcloud.com/blog/nextcloud-hub26-spring/
+  last_post_date: "2026-06-28T19:43:10Z"
+  last_post_link: https://github.com/kamaludu/bash4llm/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

@@ -1,6 +1,6 @@
 ---
 title: Inside the head of Daniel Roy Greenfeld
-date: "2026-06-09T10:43:00Z"
+date: "2026-06-19T04:47:00Z"
 description: ""
 params:
   feedlink: https://daniel.feldroy.com/feeds/atom.xml
@@ -15,18 +15,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - family
-  - uma
+  - england
+  - fiction
   relme: {}
-  last_post_title: A week in the life of a seven year old
-  last_post_description: Documenting the typical schedule of my daughter in 2026.
-  last_post_date: "2026-05-26T15:14:07Z"
-  last_post_link: https://daniel.feldroy.com/posts/2026-05-a-week-in-the-life-of-a-seven-year-old
+  last_post_title: Farewell, Doctor Who
+  last_post_description: My rambling thoughts about the increasingly poor storytelling
+    of Doctor Who, which has led to its cancellation.
+  last_post_date: "2026-06-19T00:42:59Z"
+  last_post_link: https://daniel.feldroy.com/posts/2026-06-farewell-doctor-who
   last_post_categories:
-  - family
-  - uma
+  - england
+  - fiction
   last_post_language: ""
-  last_post_guid: 38807880a40f198a509b5de9fffe379e
+  last_post_guid: 475f37edff4600d846e5685c4cf63111
   score_criteria:
     cats: 0
     description: 0

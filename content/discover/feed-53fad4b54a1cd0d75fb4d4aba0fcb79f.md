@@ -10,7 +10,7 @@ params:
     https://countingfromzero.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,23 +23,27 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - chi2026
-  - conference
-  - research
+  - diabetes
+  - diet
+  - health
+  - nutrition
+  - wellness
   relme: {}
-  last_post_title: Four CHI ’26 papers I wish I wrote
-  last_post_description: In the very first paper session at CHI 2026, I found myself
-    thinking, “I wish I wrote this paper!” And then I found myself thinking that a
-    few times more. Since I’m on the hunt for new research
-  last_post_date: "2026-04-24T14:38:32Z"
-  last_post_link: https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/
+  last_post_title: Comparing OTC continuous glucose monitors
+  last_post_description: And now for something completely different! I was diagnosed
+    with type 2 diabetes about two years ago, just before SIGCSE 2024 in Portland.
+    It seems like it’s been much longer. After my PCP told me
+  last_post_date: "2026-06-25T16:13:52Z"
+  last_post_link: https://countingfromzero.blog/2026/06/25/comparing-otc-continuous-glucose-monitors/
   last_post_categories:
   - Uncategorized
-  - chi2026
-  - conference
-  - research
+  - diabetes
+  - diet
+  - health
+  - nutrition
+  - wellness
   last_post_language: ""
-  last_post_guid: fcf2dbe2d49ce7acfe6afedb405751a1
+  last_post_guid: 6e5f38055ff67849e91631379f4eec96
   score_criteria:
     cats: 0
     description: 3

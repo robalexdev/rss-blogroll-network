@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-06-09T17:57:52-07:00"
+date: "2026-06-28T14:14:23-07:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml
@@ -22,13 +22,13 @@ params:
   - metal
   - poetry
   relme: {}
-  last_post_title: 'English as she is spoke:  or seranade me casanova.'
+  last_post_title: depresssion, and not smoking again....
   last_post_description: ""
-  last_post_date: "2026-05-30T18:31:11-07:00"
-  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/05/english-as-she-is-spoke-or-seranade-me.html
+  last_post_date: "2026-06-28T14:14:23-07:00"
+  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/06/depresssion-and-not-smoking-again.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 381b0bd0abc9082ae2c49809c6ece8fa
+  last_post_guid: 64ac7e7d1b189eb5cf0f475c5b5476ab
   score_criteria:
     cats: 5
     description: 3

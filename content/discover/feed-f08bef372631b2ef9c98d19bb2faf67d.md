@@ -1,6 +1,6 @@
 ---
 title: 哎呦不错网
-date: "2026-06-11T08:46:00+08:00"
+date: "2026-06-29T07:00:00+08:00"
 description: 每天看一看总有新东西
 params:
   feedlink: https://aiyoubucuo.com/feed
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026年6月每日分享
-  last_post_description: 关于哎呦不错每日分享栏目发现一些不错的资源，你有好的发现点击[这里])快速投稿，如需图文或其它建议可在[这里])回复反馈。声明:1
-  last_post_date: "2026-06-11T08:46:00+08:00"
-  last_post_link: https://aiyoubucuo.com/202606.html
+  last_post_title: 哎呦不错：第1345期
+  last_post_description: '@ 巍克思： 一个法国网友分享来中国旅行经验：来之前读旅行指南说中国人喜欢吃热的菜比如火锅，她觉得不可能。中国气温不低，30°C'
+  last_post_date: "2026-06-29T07:00:00+08:00"
+  last_post_link: https://aiyoubucuo.com/5996.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ef3e6c80e86f90259a290baee11b8056
+  last_post_guid: e498a8643e7c63b3f5111bf8f8e70193
   score_criteria:
     cats: 0
     description: 3

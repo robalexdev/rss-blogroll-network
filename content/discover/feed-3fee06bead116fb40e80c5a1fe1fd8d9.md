@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 全都违法
-  last_post_description: 最近监管又升级了，富途、老虎、长桥这三家头部港美股券商，被点名处罚。 这里是官方资料：
-  last_post_date: "2026-05-27T05:19:05Z"
-  last_post_link: https://retire50blog.wang/invest/%e5%85%a8%e9%83%bd%e8%bf%9d%e6%b3%95.html
+  last_post_title: 算算账，做好准备
+  last_post_description: 之前你们牛市我旁观，感觉还可以。因为我觉得自己赚得也够了，反正时间多。现在怎么变了，变成了你们牛市我熊市？
+  last_post_date: "2026-06-18T07:25:44Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%9b%9e%e6%92%a4%e8%ae%a1%e7%ae%97%e5%92%8c%e5%af%b9%e6%af%94.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 8ca22d31d3fef3db3992ad1eaf16b495
+  last_post_guid: fff05a834a3cdc79a86a10aaebf2291d
   score_criteria:
     cats: 0
     description: 0

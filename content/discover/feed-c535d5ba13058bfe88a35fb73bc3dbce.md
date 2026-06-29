@@ -1,6 +1,6 @@
 ---
 title: Gustavo’s Blog
-date: "2024-02-26T13:56:42Z"
+date: "2026-06-23T16:04:09Z"
 description: Doing the thing, doing it well.
 params:
   feedlink: https://gustavohidalgo.com/feed.xml
@@ -16,33 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - python,
-  - tools
+  - sailing
   relme:
     https://github.com/ghidalgo3: true
     https://gustavohidalgo.com/: true
-  last_post_title: 5-minutes to Python packaging
-  last_post_description: Collection of trivial Python package ecosystem tidbits.
-  last_post_date: "2024-02-04T12:34:23Z"
-  last_post_link: http://gustavohidalgo.com/python,/tools/2024/02/04/5-mins-for-python.html
+  last_post_title: Sailboat Trim Trainer
+  last_post_description: Trimming sails is the art of reading wind you can’t see.
+    The wind gives you a handful of clues — the way little yarn tell-tales stream
+    off the sail, the shape the sail takes, how hard the boat
+  last_post_date: "2026-06-17T13:00:00Z"
+  last_post_link: http://gustavohidalgo.com/sailing/2026/06/17/sailboat-trim-trainer.html
   last_post_categories:
-  - python,
-  - tools
+  - sailing
   last_post_language: ""
-  last_post_guid: ff8d586dbe81a3ea8c011f39e6c0af4f
+  last_post_guid: 5a97cf124d2d9a25e7fe10ea490381c1
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

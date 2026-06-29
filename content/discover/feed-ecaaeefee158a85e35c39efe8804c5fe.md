@@ -25,16 +25,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Routing around the algorithms
-  last_post_description: AOC in an interview nailed everything in one brief answer
-    to a question from the audience. You can watch it here. It was so good and quotable
-    that I recorded it and created a transcript via Google
-  last_post_date: "2026-05-10T13:47:38Z"
-  last_post_link: https://daveverse.org/2026/05/10/routing-around-the-algorithms/
+  last_post_title: A project I wanted to do with WordPress
+  last_post_description: I was on Slack chatting with a friend from WordCamp Canada
+    last year, and by accident (I guess) Slack sent me the first message they sent
+    after coming home about all the things we’d do. It reminded
+  last_post_date: "2026-06-26T14:07:44Z"
+  last_post_link: https://daveverse.org/2026/06/26/a-project-i-wanted-to-do-with-wordpress/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: c354ce472f927af409137c7beb96f582
+  last_post_guid: 42cb18d11502d2cae97db769b48dd0ef
   score_criteria:
     cats: 0
     description: 3

@@ -44,25 +44,23 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   categories:
-  - AI & ML
-  - LLMs
-  - Secret Scanning
-  - Security
+  - Open Source
+  - Social impact
+  - open source
   relme: {}
-  last_post_title: 'Making secret scanning more trustworthy: Reducing false positives
-    at scale'
-  last_post_description: |-
-    Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning.
-    The post Making secret scanning more trustworthy:
-  last_post_date: "2026-06-11T16:00:00Z"
-  last_post_link: https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/
+  last_post_title: GitHub and UNDP team up to advance development priorities in Ghana
+    with open source
+  last_post_description: "GitHub joined the United Nations Development Programme in
+    Ghana to explore how open source governance can support one of West Africa's most
+    ambitious digital reform efforts. \nThe post GitHub and UNDP"
+  last_post_date: "2026-06-26T16:53:57Z"
+  last_post_link: https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/
   last_post_categories:
-  - AI & ML
-  - LLMs
-  - Secret Scanning
-  - Security
+  - Open Source
+  - Social impact
+  - open source
   last_post_language: ""
-  last_post_guid: 4c646b3464d95eb49a9058a23b1a8f2f
+  last_post_guid: c0381039c544dd819ebc7e9b6ec61ba9
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Can we have the day off?
-  last_post_description: So, apparently we are at the cusp of the entire world’s white
-    collar workforce (and, by extension, much of the US workforce) undergoing a revolution
-    in productivity. AI is the technology that is
-  last_post_date: "2026-05-27T00:00:00Z"
-  last_post_link: http://mlsu.io/posts/day-off/
+  last_post_title: Phone-Thing, Self-Thing
+  last_post_description: We discover our sense of self in steps starting in early
+    childhood. It is between 2-3 months, at some point during infancy, when we first
+    realize that the actions of “me”, the self-thing, produce
+  last_post_date: "2026-06-17T00:00:00Z"
+  last_post_link: http://mlsu.io/posts/phone-thing-self-thing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ff4f5b50fc8310a706ae7ae7ef7be820
+  last_post_guid: 660bf6a9b2c68c5442a9d23839828b62
   score_criteria:
     cats: 0
     description: 3

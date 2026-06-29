@@ -1,6 +1,6 @@
 ---
 title: Toomanywires
-date: "2026-06-10T15:51:57+09:00"
+date: "2026-06-24T22:27:29+09:00"
 description: All About Video Games
 params:
   feedlink: https://www.toomanywires.co.uk/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://www.toomanywires.co.uk/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

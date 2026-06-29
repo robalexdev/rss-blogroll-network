@@ -1,6 +1,6 @@
 ---
 title: 13th Dimension, Comics, Creators, Culture
-date: "2026-06-11T11:41:29Z"
+date: "2026-06-27T16:39:13Z"
 description: Comics, Creators, Culture
 params:
   feedlink: https://13thdimension.com/feed/atom/
@@ -15,28 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Abrams ComicArts
+  - ACTION FIGURES & MERCH
   - COMICS HISTORY
-  - John Byrne
-  - Marvel
-  - PREVIEWS
-  - the X-Men
+  - KERRY CALLEN
   relme: {}
-  last_post_title: 'SNEAK PEEK: Inside JOHN BYRNE&#8217;s Long-Awaited X-MEN: ELSEWHEN'
-  last_post_description: 'One of the most anticipated books of the year… The first
-    volume of John Byrne’s long-awaited three-part graphic novel X-Men: Elsewhen is
-    due June 23. Published through Abrams ComicArts under'
-  last_post_date: "2026-06-11T11:41:29Z"
-  last_post_link: https://13thdimension.com/sneak-peek-inside-john-byrnes-long-awaited-x-men-elsewhen/
+  last_post_title: It&#8217;s the Great 1970s DC SUPERHERO BIRTHDAY CARD Guessing
+    Game
+  last_post_description: SUNDAY FUNNIES WITH KERRY CALLEN! By KERRY CALLEN My birthday
+    was a week ago. Let’s play a game—! Below are vintage DC superhero birthday cards
+    (printed by a company named Mark 1 in 1978). I’ve
+  last_post_date: "2026-06-27T16:39:13Z"
+  last_post_link: https://13thdimension.com/its-the-great-1970s-dc-superhero-birthday-card-guessing-game/
   last_post_categories:
-  - Abrams ComicArts
+  - ACTION FIGURES & MERCH
   - COMICS HISTORY
-  - John Byrne
-  - Marvel
-  - PREVIEWS
-  - the X-Men
+  - KERRY CALLEN
   last_post_language: ""
-  last_post_guid: 797253c4070576cf58c99e5b23f93e25
+  last_post_guid: df613a9f0a614a70fc76f9a7b8e57405
   score_criteria:
     cats: 0
     description: 3

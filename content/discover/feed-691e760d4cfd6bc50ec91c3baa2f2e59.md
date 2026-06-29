@@ -20,13 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2025 in review
-  last_post_description: I look back on everything I did in 2025.
-  last_post_date: "2026-01-11T16:59:06Z"
-  last_post_link: https://josephpetitti.com/blog/2025-in-review
+  last_post_title: Heat wave hiking in the Gila Wilderness
+  last_post_description: Last week I flew out to New Mexico to spend 4 days backpacking
+    in America's oldest wilderness area. It would be my first backpacking trip outside
+    the Northeastern US, and my first time hiking in
+  last_post_date: "2026-06-17T22:25:27Z"
+  last_post_link: https://josephpetitti.com/blog/heat-wave-hiking-in-the-gila-wilderness
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36a563bcca3e57e743ede866e2b2d59e
+  last_post_guid: 68c2be0ec547962a0abf942fde3b1dd2
   score_criteria:
     cats: 0
     description: 3

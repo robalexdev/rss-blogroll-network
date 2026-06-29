@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-06-08T23:41:10-07:00"
+date: "2026-06-28T16:25:24-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,14 +40,13 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: 'Coming Soon: Basil, Pepper, Salt, and Garlic Greens: A Year in
-    a Witch''s Kitchen'
+  last_post_title: Two Notebooks
   last_post_description: ""
-  last_post_date: "2026-05-26T07:21:50-07:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/05/coming-soon-basil-pepper-salt-and.html
+  last_post_date: "2026-06-24T05:37:31-07:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/06/two-notebooks.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a533bbd4a6ceef785f6eddfbeea413c9
+  last_post_guid: 467f7957eeefe2679d6052c56f8abd9e
   score_criteria:
     cats: 5
     description: 0

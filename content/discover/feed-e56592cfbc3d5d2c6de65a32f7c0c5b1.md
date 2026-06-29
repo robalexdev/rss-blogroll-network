@@ -25,14 +25,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Discovery vs Delivery
-  last_post_description: A personal perspective on AI, product quality and the growing
-    divide between deciding what should exist and efficiently building it.
-  last_post_date: "2026-06-11T06:32:02Z"
-  last_post_link: https://buzzusborne.com/writing/discovery-delivery/
+  last_post_title: Rethinking Figma in an AI world
+  last_post_description: Config 2026 reveals Figma’s high-stakes gamble to survive
+    an era of agentic workflows in a code-native environment.
+  last_post_date: "2026-06-26T08:05:34Z"
+  last_post_link: https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39d025e825142bbf77a0ff19916b2481
+  last_post_guid: 7ee25bca45f434247c63c68ec1804316
   score_criteria:
     cats: 0
     description: 3

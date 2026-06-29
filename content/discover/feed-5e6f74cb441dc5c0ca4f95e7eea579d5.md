@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-06-09T20:48:16Z"
+date: "2026-06-28T23:22:35Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,7 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -38,6 +38,7 @@ params:
   - 1900s
   - 1910s
   - 1920s
+  - "1926"
   - 1930s
   - "1936"
   - 1940s
@@ -57,6 +58,7 @@ params:
   - 2010s
   - "2011"
   - 2011 Census
+  - 56a Infoshop
   - A2
   - APT Gallery
   - Abbey Wood
@@ -382,6 +384,7 @@ params:
   - Gary Oldman
   - Gavin Bryars
   - Gellatly Road
+  - General Strike
   - George Michael
   - Ghetto Priest
   - Ghostpoet
@@ -1396,34 +1399,28 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: Peter J Carroll (RIP) , Speedwell House sorcerer  & co-creator
-    of Chaos Magic in 1970s Deptford
+  last_post_title: Happy 35th birthday 56a Infoshop
   last_post_description: ""
-  last_post_date: "2026-05-15T13:58:19Z"
-  last_post_link: https://transpont.blogspot.com/2026/05/peter-j-carroll-rip-speedwell-house.html
+  last_post_date: "2026-06-28T19:43:21Z"
+  last_post_link: https://transpont.blogspot.com/2026/06/happy-35th-birthday-56a-infoshop.html
   last_post_categories:
-  - 1970s
-  - Deptford
-  - Peter J Carroll
-  - Speedwell House
-  - chaos magic
-  - occultism
-  - squatting
+  - 56a Infoshop
+  - Elephant and Castle
   last_post_language: ""
-  last_post_guid: 88e4949e80a0197a1f4e137f7d371835
+  last_post_guid: 04b3c3951016e7c6003164e7e9cee7c7
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 27
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

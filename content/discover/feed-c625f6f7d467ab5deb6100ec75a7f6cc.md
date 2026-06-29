@@ -17,15 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Your dashes suggest which model you're copy-pasting from
-  last_post_description: Not tired of the em dash discourse yet? Different LLMs use
-    different dash patterns -- which means you can identify some models' output based
-    on em/en dash spacing.
-  last_post_date: "2026-05-26T00:00:00Z"
-  last_post_link: https://will-keleher.com/posts/your-dashes-suggest-which-model-youre-copy-pasting-from/
+  last_post_title: Backfills should fail in minutes, not days
+  last_post_description: Without fast feedback loops, backfills and data migrations
+    can be some of the slowest work that a team does.
+  last_post_date: "2026-06-22T00:00:00Z"
+  last_post_link: https://will-keleher.com/posts/backfills-should-fail-in-minutes-not-days/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f191a71e638ec43d754ef84975094dc5
+  last_post_guid: d8a86b195f10bd79e971c90e8042ee8c
   score_criteria:
     cats: 0
     description: 3

@@ -23,32 +23,34 @@ params:
   - http://scripting.com/rss.xml
   categories:
   - AI Coding
+  - Frontier
   relme:
     https://jakesav.in/: true
     https://mastodon.social/@jsavin: true
-  last_post_title: The Real AI Moat
-  last_post_description: In the AI online space lots of folks are arguing about models. Which
-    one codes better. Which one has the bigger context window. Which one wins the
-    benchmark this week. Which one halucinates less. Is
-  last_post_date: "2026-05-31T04:05:48Z"
-  last_post_link: https://jakesav.in/2026/05/30/the-real-ai-moat/
+  last_post_title: 'A new Frontier: An Inscrutable Tangle of State Management'
+  last_post_description: 'Previously: Frontier in the Terminal With a REPL By this
+    point, the easy parts were mostly already over. Frontier was no longer a pile
+    of old source to coax into compiling. It was running headless.'
+  last_post_date: "2026-06-18T06:26:42Z"
+  last_post_link: https://jakesav.in/2026/06/17/a-new-frontier-an-inscrutable-tangle-of-state-management/
   last_post_categories:
   - AI Coding
+  - Frontier
   last_post_language: ""
-  last_post_guid: 25c39d79aca3020cbea02d5a6d95e5d1
+  last_post_guid: 8d6e7f913f5486cb826c494c3cd4ba7d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

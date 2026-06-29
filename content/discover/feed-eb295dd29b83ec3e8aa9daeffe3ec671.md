@@ -10,7 +10,7 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,16 +18,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#661 When you drive from a rough road onto a smooth one'
-  last_post_description: Cruising onto a fresh black road when you’ve been scraping
-    on top of a rough one is a mighty fine feeling. Yes, when you get off that chopped-up
-    construction meat or swerve out of Pothole Alley
-  last_post_date: "2026-06-11T04:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/06/11/661-when-you-drive-from-a-rough-road-onto-a-smooth-one-4/
+  last_post_title: '#650 The first couple hours of the roadtrip'
+  last_post_description: Full boxes of granola bars, fresh mix tapes, and the heady
+    thrill of anticipation get your body ready for a nice long ride. AWESOME! Access
+    my all-new awesome things when you sign-up for the daily
+  last_post_date: "2026-06-26T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/06/26/650-the-first-couple-hours-of-the-roadtrip-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: 2e68fb27b8f1ff79ff0ec67c6ef3bf51
+  last_post_guid: 45f8a53889ed6ef06e43e0f2bde579a2
   score_criteria:
     cats: 0
     description: 3

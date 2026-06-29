@@ -1,6 +1,6 @@
 ---
 title: West Coast Stat Views (on Observational Epidemiology and more)
-date: "2026-06-11T07:30:00-04:00"
+date: "2026-06-28T19:24:16-04:00"
 description: Comments, observations and thoughts from two bloggers on applied statistics,
   higher education and epidemiology.  Joseph is an associate professor.  Mark is a
   professional statistician and former math
@@ -684,13 +684,14 @@ params:
   - zombies
   - “Closing the Talent Gap”
   relme: {}
-  last_post_title: It turns out that dumb money isn't an unlimited resource...
+  last_post_title: Another one of those stories that we really need Patrick Boyle
+    for.
   last_post_description: ""
-  last_post_date: "2026-06-11T07:30:00-04:00"
-  last_post_link: https://observationalepidemiology.blogspot.com/2026/06/it-turns-out-that-dumb-money-isnt.html
+  last_post_date: "2026-06-26T07:30:00-04:00"
+  last_post_link: https://observationalepidemiology.blogspot.com/2026/06/another-one-of-those-stories-that-we.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9d7e2d3a5665fb5703ab117fc708d6f8
+  last_post_guid: 0def39b447adc736a8d8d03be5b67e7d
   score_criteria:
     cats: 5
     description: 3

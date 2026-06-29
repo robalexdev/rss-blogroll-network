@@ -15,31 +15,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - 人生
   - 杂谈
   - 生活
   relme: {}
-  last_post_title: 259 滴水湖的水系介绍
-  last_post_description: 之前对于滴水湖有了一些介绍，具体内容如下： 2026.02.08 222 滴水湖的风水：一座被精心设计的“城市 […]
-  last_post_date: "2026-05-10T13:50:25Z"
-  last_post_link: http://ddw2019.com/259
+  last_post_title: 261 端午节期间干的三件事情
+  last_post_description: 端午节期间，本来准备出去骑车的。结果一连下了三天的雨。那就找点其他的事情干吧。 第一件事情，清理小窝。把小窝的 […]
+  last_post_date: "2026-06-22T16:37:38Z"
+  last_post_link: http://ddw2019.com/261
   last_post_categories:
+  - 人生
   - 杂谈
   - 生活
   last_post_language: ""
-  last_post_guid: c6a88e9c58500ed4fb2ca394da740dd5
+  last_post_guid: e98d73ec07cc2704b59b3c213fe93644
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

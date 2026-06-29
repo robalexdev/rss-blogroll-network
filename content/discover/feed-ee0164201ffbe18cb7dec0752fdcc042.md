@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-06-11T11:15:40-07:00"
+date: "2026-06-28T08:17:17-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

@@ -1,6 +1,6 @@
 ---
 title: An Ode to Commies
-date: "2026-04-26T03:14:12-07:00"
+date: "2026-06-26T01:46:11-07:00"
 description: The journeys of a Commodore computer collector.  A celebration of the
   products of Commodore Business Machines.  And also a blog.
 params:

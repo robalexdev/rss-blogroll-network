@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-06-11T22:46:06+08:00"
+date: "2026-06-29T05:30:48+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 基于 CRM 实现外贸站的在线客服组件
-  last_post_description: '## 需求 实现一个外贸网站的在线客服功能，访客可以通过网站右下角的在线聊天窗口与客服人员进行沟通。 这里使用的是
-    Whatsapp'
-  last_post_date: "2026-06-08T17:32:17+08:00"
-  last_post_link: https://www.sunzhongwei.com/online-customer-service-component-based-crm
+  last_post_title: Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫
+  last_post_description: 之前整理了一期 [Magento 服务器负载居高不下问题排除](https://www.sunzhongwei.com/troubleshooting-issue-of-high-load-magento-server)，没想到观察了几天发
+  last_post_date: "2026-06-28T13:21:31+08:00"
+  last_post_link: https://www.sunzhongwei.com/magento-server-high-load-problem-elimination-series-2-blocking-malicious-crawlers
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 063dd34e0c757c56a725d313aa53eb3b
+  last_post_guid: 98410b33f567b4e448fb0e2bf160767f
   score_criteria:
     cats: 0
     description: 3

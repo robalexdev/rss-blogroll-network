@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-05-22T04:00:00Z"
+date: "2026-06-12T03:34:59Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Writing for Emotional Impact - by Karl Iglesias
-  last_post_description: About the craft of writing a great film screenplay. A bit
-    tedious (with sloppy repetitive writing) but I always love these books for making
-    me see the craft behind movies I know well, and pointing
-  last_post_date: "2026-05-22T04:00:00Z"
-  last_post_link: https://sive.rs/book/WritEmotionImpact
+  last_post_title: tweet
+  last_post_description: 'India tech friends: I just bought my ticket to IndiaFOSS
+    in BLR Sept 26-27: https://fossunited.org/indiafoss/2026  Want to meet? Email
+    me: https://sive.rs/contact'
+  last_post_date: "2026-06-12T03:34:59Z"
+  last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bf48f4619dfa880c1db39799726d5530
+  last_post_guid: 48a5b185d324ecd2f6c9b053f0b1664e
   score_criteria:
     cats: 0
     description: 3

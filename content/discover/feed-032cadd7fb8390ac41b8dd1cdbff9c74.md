@@ -1,6 +1,6 @@
 ---
 title: EzraKnotLab
-date: "2026-06-07T15:50:20Z"
+date: "2026-06-27T17:03:31Z"
 description: Once you know the right question to ask, the answer is the easiest part.
   --DNA
 params:
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: EKL 20260607
+  last_post_title: EKL 20260628
   last_post_description: ""
-  last_post_date: "2026-06-07T13:50:24Z"
-  last_post_link: https://ezraknotlab.github.io/post/ekl-20260607/
+  last_post_date: "2026-06-28T07:18:15Z"
+  last_post_link: https://ezraknotlab.github.io/post/ekl-20260628/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1713e0f60db839d08774a81d1bea439b
+  last_post_guid: bc46f2a8d2fa8df48c8e898ffcd1ae3a
   score_criteria:
     cats: 0
     description: 3

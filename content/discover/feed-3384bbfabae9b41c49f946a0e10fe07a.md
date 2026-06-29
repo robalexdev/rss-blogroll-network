@@ -1,6 +1,6 @@
 ---
 title: Kleefeld on Comics
-date: "2026-06-11T09:30:00-04:00"
+date: "2026-06-28T20:58:23-04:00"
 description: |-
   Verbum et imago sicut unum.
   Word and picture as one.
@@ -54,14 +54,14 @@ params:
   relme:
     https://www.blogger.com/profile/10492399469370737192: true
     https://www.kleefeldoncomics.com/: true
-  last_post_title: Seuss Political Cartoons
+  last_post_title: Weekly Recap
   last_post_description: ""
-  last_post_date: "2026-06-11T09:30:00-04:00"
-  last_post_link: https://www.kleefeldoncomics.com/2026/06/seuss-political-cartoons.html
+  last_post_date: "2026-06-28T10:04:00-04:00"
+  last_post_link: https://www.kleefeldoncomics.com/2026/06/weekly-recap_01202431069.html
   last_post_categories:
-  - history
+  - Recap
   last_post_language: ""
-  last_post_guid: 39406b3ccd267baf9ae1508f1d840cd0
+  last_post_guid: 2547e56a45da42213017ffb946467ee6
   score_criteria:
     cats: 5
     description: 3

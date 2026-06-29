@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-06-11T11:41:26Z"
+date: "2026-06-28T20:48:26Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -34,33 +34,32 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - deep-dive
   - package-managers
-  - supply-chain
+  - weekly
   relme: {}
-  last_post_title: What Happened to tea.xyz
-  last_post_description: Reading the tea leaves
-  last_post_date: "2026-06-11T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/06/11/what-happened-to-tea.html
+  last_post_title: 'This Week in Package Management: 27 June 2026'
+  last_post_description: Releases, advisories, and articles from across the package
+    management world
+  last_post_date: "2026-06-27T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/06/27/this-week-in-package-management.html
   last_post_categories:
-  - deep-dive
   - package-managers
-  - supply-chain
+  - weekly
   last_post_language: ""
-  last_post_guid: fbefb076cfe017ce998b78e14714718a
+  last_post_guid: b4aa8e9162ab4c882a09af45a3e3726d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

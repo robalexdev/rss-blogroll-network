@@ -25,14 +25,15 @@ params:
   categories:
   - Daily Rundown
   relme: {}
-  last_post_title: "\U0001F6CE️ Americans Fear AI Most"
-  last_post_description: 'Plus: OpenAI Wants a Price War, AI Broke Our Lie Detector'
-  last_post_date: "2026-06-11T10:00:36Z"
-  last_post_link: https://aisecret.us/americans-fear-ai-most/
+  last_post_title: "\U0001F6CE️ Stanford: No Fresh Start"
+  last_post_description: 'Plus: Grok Took the "Dirty" Money, SoftBank Is Just an OpenAI
+    Bet Now'
+  last_post_date: "2026-06-26T10:00:54Z"
+  last_post_link: https://aisecret.us/stanford-no-fresh-start/
   last_post_categories:
   - Daily Rundown
   last_post_language: ""
-  last_post_guid: bf7b818896d4dee5da930a20180d4bdc
+  last_post_guid: 92c15d2311a9a971fdecae0e250765ac
   score_criteria:
     cats: 0
     description: 3

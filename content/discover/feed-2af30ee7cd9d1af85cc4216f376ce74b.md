@@ -22,7 +22,7 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A short film for my friend's birthday
+  last_post_title: I made a film for my friend's birthday
   last_post_description: A short film I made for my best friend's birthday, revisiting
     the camping trip where our friendship first took root three years ago
   last_post_date: "2026-06-11T12:53:00Z"

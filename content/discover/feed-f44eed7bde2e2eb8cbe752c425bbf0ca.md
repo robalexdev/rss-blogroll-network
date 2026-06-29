@@ -1,6 +1,6 @@
 ---
 title: Giovanni Cappellotto's Blog
-date: "2026-06-01T17:42:07Z"
+date: "2026-06-25T05:25:43Z"
 description: ""
 params:
   feedlink: https://giovanni.curlybrackets.it/atom.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: PO-33 K.O.! Easter egg
+  last_post_title: An Engine for Multiple Adventures
   last_post_description: ""
-  last_post_date: "2026-03-28T00:00:00Z"
-  last_post_link: http://giovanni.curlybrackets.it/2026/03/28/po-33-ko-easter-egg.html
+  last_post_date: "2026-06-24T00:00:00Z"
+  last_post_link: http://giovanni.curlybrackets.it/sdl-adventure-game/2026/06/24/an-engine-for-multiple-adventures.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7445be7cc2b6c60d5960f89b06bf14cf
+  last_post_guid: 1a9f5b1166f71b208c57f08382c23174
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-06-11T13:00:58-04:00"
+date: "2026-06-28T19:22:02-04:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Action Figure Review: Count Ironmoon from The Order of the Crimson
-    Moon by Fresh Monkey Fiction & Big Bad Workshop'
+  last_post_title: 'Action Figure Review: E. Honda from Ultra Street Fighter II: The
+    New Challengers by Jada Toys'
   last_post_description: ""
-  last_post_date: "2026-06-11T13:00:58-04:00"
-  last_post_link: https://www.actionfigurebarbecue.com/2026/06/action-figure-review-count-ironmoon.html
+  last_post_date: "2026-06-26T17:30:00-04:00"
+  last_post_link: https://www.actionfigurebarbecue.com/2026/06/action-figure-review-e-honda-from-ultra.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e87774b11cb1997197b12b6f9c21f81
+  last_post_guid: 62ec25064f2bac4968396ac978b14c5f
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: ADD / XOR / ROL
-date: "2026-06-04T09:02:44-07:00"
+date: "2026-06-28T08:17:01-07:00"
 description: A blog about reverse engineering, mathematics, politics, economics and
   more ...
 params:
@@ -23,13 +23,13 @@ params:
   - vpn
   - vulnerability researc
   relme: {}
-  last_post_title: Slightly safer vibecoding by adopting old hacker habits
+  last_post_title: RL economics, morally charged terms, and "distillation"
   last_post_description: ""
-  last_post_date: "2026-03-24T21:02:32-07:00"
-  last_post_link: https://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html
+  last_post_date: "2026-06-15T01:49:25-07:00"
+  last_post_link: https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 03c862c28c1c00d625c230cacc0f9c59
+  last_post_guid: fe5a89f3b47c87b30b45c393fea458c6
   score_criteria:
     cats: 5
     description: 3

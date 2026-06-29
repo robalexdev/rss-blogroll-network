@@ -23,27 +23,24 @@ params:
   recommender: []
   categories:
   - AI
-  - Agent
-  - Docker
-  - Hermes
-  - 容器化
-  - 运维
+  - LLM
+  - LiteLLM
+  - 研发
+  - 网关
   relme: {}
-  last_post_title: 容器化部署 Hermes Agent
-  last_post_description: 1. 启动容器 设置镜像 1 export IMAGE=nousresearch/hermes-agent:v2026.4.16
-    设置目录权限 1 2 mkdir -p hermes-agent-home chmod -R 777 hermes-agent-home 设置环境变量 1
-    2 3 cat <<EOF >
-  last_post_date: "2026-04-19T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/deploy-hermes-agent-under-containers.html
+  last_post_title: LiteLLM - 提供统一的模型接口格式
+  last_post_description: 1. LiteLLM 是什么 LiteLLM 是开源 LLM 适配器：用 OpenAI 标准格式调用 100+ 种
+    API（OpenAI、Anthropic、Gemini、Bedrock、Azure、Ollama、vLLM、通义千问等）。
+  last_post_date: "2026-06-24T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/litellm-unified-model-api-format.html
   last_post_categories:
   - AI
-  - Agent
-  - Docker
-  - Hermes
-  - 容器化
-  - 运维
+  - LLM
+  - LiteLLM
+  - 研发
+  - 网关
   last_post_language: ""
-  last_post_guid: 7bf4e48872366bbb9a0c81647af83106
+  last_post_guid: 3512f9d1e6aaa4495f07bbcc043a7965
   score_criteria:
     cats: 0
     description: 3

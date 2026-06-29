@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-06-04T00:00:00+02:00"
+date: "2026-06-13T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,16 +25,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Retrospectiva #8'
-  last_post_description: |-
-    If there's one thing Retrospectiva does for me - other than giving me an excuse to write for you of course - it's making me realise how fast time moves.
-    It's June already - and May was – well –
-  last_post_date: "2026-06-04T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/retrospectiva-8.html
+  last_post_title: How I Hermes
+  last_post_description: "In January this year, OpenClaw went viral. You probably
+    heard about it. My guess is some of you even use it - or at least tried to. I
+    certainly did. \nI remember it clearly. I installed it, and very"
+  last_post_date: "2026-06-13T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/how-i-hermes.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: d06a9d0353f1dea33bc2d619cde098a6
+  last_post_guid: 7405d2316b393a8c0b7ff33adb28e775
   score_criteria:
     cats: 0
     description: 0

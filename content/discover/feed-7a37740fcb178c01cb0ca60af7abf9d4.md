@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: More Dance Music
-  last_post_description: This masterpiece is 25 years old !!!
-  last_post_date: "2026-06-10T10:00:00+02:00"
-  last_post_link: https://alienlebarge.ch/jams/kid-koala-more-dance-music
+  last_post_title: Oh No! Not You Again!
+  last_post_description: ""
+  last_post_date: "2026-06-25T15:55:00+02:00"
+  last_post_link: https://alienlebarge.ch/jams/the-heavy-oh-no-not-you-again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 399ff35e538be20e8fb7f77e6c751e34
+  last_post_guid: fd2a43d3db99d425e0712c7abb973e63
   score_criteria:
     cats: 0
     description: 3

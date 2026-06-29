@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-06-11T06:09:15Z"
+date: "2026-06-28T13:21:59Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Claude Fable \U0001F916, SpaceX AI1 \U0001F6F0️, Apple container
-    \U0001F468‍\U0001F4BB"
+  last_post_title: "Apple price hikes \U0001F4C8, US restricts GPT-5.6 \U0001F6AB,
+    repricing software engineers \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-06-09T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-06-10
+  last_post_date: "2026-06-25T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-06-26
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 666a97438a4405415dafe6f51f2df5e2
+  last_post_guid: f230cf6ddc211861ba818f28fffe383d
   score_criteria:
     cats: 0
     description: 0

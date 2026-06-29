@@ -15,26 +15,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - sync-in
-  - 团队协作
+  - typetype
+  - youtube
   - 学无止境
-  - 文件同步
-  - 文档编辑
-  - 网盘
   relme: {}
-  last_post_title: Sync-in：自托管文件存储、同步、协作平台
-  last_post_description: Sync-in介绍（摘自项目页面） Sync
-  last_post_date: "2026-06-07T14:17:51Z"
-  last_post_link: https://lala.im/10145.html
+  last_post_title: 自建视频聚合平台TypeType（支持B站/油管/NicoNico）
+  last_post_description: TypeType功能： 通过自托管的 Web 应用程序播放 YouTube、NicoNico 和 BiliBili
+    视频。
+  last_post_date: "2026-06-13T22:32:10Z"
+  last_post_link: https://lala.im/10176.html
   last_post_categories:
-  - sync-in
-  - 团队协作
+  - typetype
+  - youtube
   - 学无止境
-  - 文件同步
-  - 文档编辑
-  - 网盘
   last_post_language: ""
-  last_post_guid: 3995f8cf0a8a4191cfc90e169e129fcd
+  last_post_guid: 03e15872ea29f93815873a4961cf9bcd
   score_criteria:
     cats: 0
     description: 3

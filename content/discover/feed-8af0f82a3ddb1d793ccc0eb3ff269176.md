@@ -10,7 +10,7 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -44,15 +44,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Canadian stamp stories
+  last_post_title: The Knicks, and perseverance
   last_post_description: |-
-    For a four-year span starting in 2020, Canada Post told stories about its stamps.
-    The premise of the Canadian stamp stories section of the website was simple: take a deeper look into the new series
-  last_post_date: "2026-06-04T20:45:00-04:00"
-  last_post_link: https://www.inthemargins.ca/canadian-stamp-stories
+    The Knicks won!
+    It’s old news by now, but I’m still riding the high of the Knicks winning the NBA Championship. The last time they won, I wasn’t alive, and the last time they even came close
+  last_post_date: "2026-06-23T14:18:00-04:00"
+  last_post_link: https://www.inthemargins.ca/knicks-won
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9044347021c020334f2616583ae3f979
+  last_post_guid: 0a9201bd374a26ba40cae45ecfeb29c9
   score_criteria:
     cats: 0
     description: 3

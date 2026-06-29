@@ -27,18 +27,17 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: 基于 git 的零拷贝静态web服务器
+  last_post_title: 我的 Vibe Coding 最佳实践——ADR文档
   last_post_description: |-
-    无聊，产生了个crazy的想法。
-    git 内部用 zlib 压缩文件内容
-    Content-Encoding: gzip 也是
-    如果web服务器输出 .git 里的 静态
-  last_post_date: "2026-06-10T23:21:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-22
+    工作和业余也用AI写代码，大大小小项目都经历了。从 rules, skills, spec, agent 到  harness 都玩过了
+    从AI嘴里发现一条比较稳的套路——ADR文档
+    rule, skills,
+  last_post_date: "2026-06-26T09:40:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-24
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: c50b8442debdd21552554d2aec9a21af
+  last_post_guid: f0a29de84d91d6c1b13120258b21662c
   score_criteria:
     cats: 0
     description: 3

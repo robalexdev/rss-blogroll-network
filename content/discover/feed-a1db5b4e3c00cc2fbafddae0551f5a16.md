@@ -15,7 +15,8 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - '#29:'
   relme:
     https://aaron.com.es/: true
     https://mastodon.social/@aaronfc: true
@@ -26,16 +27,25 @@ params:
 
 
 
-      datasette-agent 0.2a0 simonwillison.net
+      Town Hall #29: Revolution taylor.town
 
 
-      Home Brew Presents: Last Week flamedfury.com
 
 
-      DiffusionGemma
-  last_post_date: "2026-06-11T00:00:00Z"
+
+
+      Weeknotes: June 20-26, 2026 tracydurnell.com
+
+
+
+
+
+
+      Guava Soda &
+  last_post_date: "2026-06-28T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
-  last_post_categories: []
+  last_post_categories:
+  - '#29:'
   last_post_language: ""
   last_post_guid: 01d1f14f6b56aa3423f2e6d554f08c8b
   score_criteria:
@@ -44,13 +54,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

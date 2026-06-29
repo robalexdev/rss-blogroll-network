@@ -11,7 +11,7 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5303 blogs
+  - title: Bubbles — 5348 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,15 +34,15 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: AI floss
-  last_post_description: Saying “I always review what the AI gives me and I don’t
-    let it write for me” is the new “yes, dentist, I do floss every day.”
-  last_post_date: "2026-05-11T13:28:16Z"
-  last_post_link: https://actsofvolition.com/2026/05/ai-floss/
+  last_post_title: The Goalkeeper’s Parent
+  last_post_description: The most difficult position in soccer must be the goalkeeper’s
+    parent.
+  last_post_date: "2026-06-27T14:13:28Z"
+  last_post_link: https://actsofvolition.com/2026/06/the-goalkeepers-parent/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: bd5d739899d836baca2efbce3c56a433
+  last_post_guid: 1687d061cfd7df7f78ad355850830d59
   score_criteria:
     cats: 0
     description: 0

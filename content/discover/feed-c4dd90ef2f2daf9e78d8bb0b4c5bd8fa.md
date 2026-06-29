@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-06-11T09:55:15-04:00"
+date: "2026-06-28T20:23:32-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -78,6 +78,7 @@ params:
   - A Dangerous Duet
   - A Darker Domain
   - A Dream of Sadler's Wells
+  - A Far-flung Life
   - A Flicker in the Dark
   - A Game of Lies
   - A Game of Snakes and Ladders
@@ -92,6 +93,7 @@ params:
   - A Lion in the Way
   - A Little Princess
   - A Long Way to Go
+  - A Murder in Marylebone
   - A Parcel of Rogues
   - A Patent Lie
   - A Perfect Gentle Knight
@@ -1019,9 +1021,11 @@ params:
   - Emily Henry
   - Emily Jenkins
   - Emily Kimbrough
+  - Emily Sullivan
   - Emily Winslow
   - Emily of Deep Valley
   - Emily's Runaway Imagination
+  - Emma Garman
   - Emma Healey
   - Emma Lord
   - Emma Tupper's Diary
@@ -1177,6 +1181,7 @@ params:
   - Galveston
   - Galway
   - Game of Thrones
+  - Garth Nix
   - Garth Williams
   - Gary Francione
   - Geekarella
@@ -1258,6 +1263,7 @@ params:
   - Gregg Hurwitz
   - Grey Mask
   - Grey's Anatomy
+  - Grimbold's Other World
   - Group Read
   - Guernsey
   - Guilty by Definition
@@ -2481,6 +2487,7 @@ params:
   - Reading Wales 2024
   - Reading Wales 2025
   - Reading Wales Month
+  - Reading the Meow
   - Reading the Theatre Month
   - ReadingIrelandMonth24
   - ReadingIrelandMonth26
@@ -2590,6 +2597,7 @@ params:
   - S.J. Simon
   - SLIS
   - SLIS Connecting
+  - Sabriel
   - Sabrina
   - Sacré-Cœur
   - Sad Cypress
@@ -3945,19 +3953,24 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: The Locker Room Is Not for Sale by Brian White
+  last_post_title: 'Sabriel by Garth Nix   #20BOS26-6'
   last_post_description: ""
-  last_post_date: "2026-06-10T21:49:09-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/06/the-locker-room-is-not-for-sale-by.html
+  last_post_date: "2026-06-28T18:26:11-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/06/sabriel-by-garth-nix-20bos26-6.html
   last_post_categories:
-  - Bowling Green
-  - Brian White
-  - Harvard football
-  - The Locker Room Is Not For Sale
+  - 20 Books of Summer 2026
+  - Garth Nix
+  - Grimbold's Other World
+  - HarperCollins
+  - Nicholas Stuart Gray
+  - Reading the Meow
+  - Sabriel
   - book review
-  - nonfiction
+  - fantasy
+  - magic
+  - series
   last_post_language: ""
-  last_post_guid: a647284028e30f8b2bef8e8bd716a6d6
+  last_post_guid: 740ee279e69a597ec0ffc7a22f9057b5
   score_criteria:
     cats: 5
     description: 3

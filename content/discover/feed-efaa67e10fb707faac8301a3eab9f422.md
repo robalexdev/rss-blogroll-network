@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Rectangle Pro 使用教程：买了之后才搞懂
+  last_post_title: 看懂 z 说交易的「缺口」：那根线到底画在哪
   last_post_description: |-
     引言
-    之前稀里糊涂买了 Rectangle
-  last_post_date: "2026-06-10T14:27:48+08:00"
-  last_post_link: https://blog.forecho.com/rectangle-pro-usage-guide.html
+    最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K
+  last_post_date: "2026-06-23T10:00:00+08:00"
+  last_post_link: https://blog.forecho.com/price-action-gap-zshuo-trading.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 84107fcd1f15a2dd9e15ea42314f8dd5
+  last_post_guid: 239914cbb47c5a2f5440c4f69d870d67
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Kia.
-date: "2026-06-08T05:34:41Z"
+date: "2026-06-28T04:59:43Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -24,13 +24,14 @@ params:
   categories: []
   relme:
     https://kiakamgar.com/: true
-  last_post_title: Less tech is always the best tech
-  last_post_description: ""
-  last_post_date: "2026-06-08T07:28:31Z"
-  last_post_link: https://kiakamgar.com/posts/less-tech-is-always-the-best-tech
+  last_post_title: I’m done with having two newsletters
+  last_post_description: I’ve had an email list for years, mostly for my business.
+    But it’s time to consolidate my output and get rid of the old list.
+  last_post_date: "2026-06-28T10:26:37Z"
+  last_post_link: https://kiakamgar.com/posts/im-done-with-having-two-newsletters
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb1d957ad6986776a39c96d753c3dc6b
+  last_post_guid: f2ef162699402e035f3740e179f5c51a
   score_criteria:
     cats: 0
     description: 0
