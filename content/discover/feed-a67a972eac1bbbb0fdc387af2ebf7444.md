@@ -1,6 +1,6 @@
 ---
 title: Lloyd of Gamebooks
-date: "2026-06-06T20:24:59+01:00"
+date: "2026-06-27T03:51:12+01:00"
 description: A blog about writing gamebooks.  My musings on how to write a gamebook
   and what makes a good gamebook. Create your story here!
 params:

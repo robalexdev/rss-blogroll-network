@@ -1,6 +1,6 @@
 ---
 title: Phil's Workbench
-date: "2026-06-28T23:25:00Z"
+date: "2026-07-12T04:30:00Z"
 description: A daily updated blog typed by someone with painty hands, oil under his
   fingernails and the smell of solder in his nostrils who likes making all sort of
   models and miniatures. And fixing things.
@@ -12,7 +12,7 @@ params:
     https://philsworkbench.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -360,31 +360,32 @@ params:
   - wooden toilet
   - yacht
   relme: {}
-  last_post_title: Bournville open garden 2026
+  last_post_title: Covrail 2026
   last_post_description: ""
-  last_post_date: "2026-06-28T04:30:00Z"
-  last_post_link: https://philsworkbench.blogspot.com/2026/06/bournville-open-garden-2026.html
+  last_post_date: "2026-07-12T04:30:00Z"
+  last_post_link: https://philsworkbench.blogspot.com/2026/07/covrail-2026.html
   last_post_categories:
-  - garden railway
+  - exhibitions
+  - model railway
   last_post_language: ""
-  last_post_guid: f71fa5a565bf6221b5afaaff80b9f8d1
+  last_post_guid: 0810c67527eef09cb7bae89438d27c61
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 25
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 270
+  avgpostlen: 260
 ---

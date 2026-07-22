@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to Think About AI in Your Product
-  last_post_description: AI is a real and useful set of technologies. It is not magic,
-    and it is not a product strategy by itself. The useful question is not ‘how do
-    we add AI?’ but ‘what problem are we trying to solve
-  last_post_date: "2026-05-17T00:00:00Z"
-  last_post_link: https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/
+  last_post_title: 'Darmok and Jalad at the Terminal: A Negotiation in Tamarian'
+  last_post_description: Two engineers negotiate the rules of agentic AI coding entirely
+    in Tamarian metaphor. The Universal Translator runs underneath, with a lexicon
+    for those who would speak the language.
+  last_post_date: "2026-06-30T00:00:00Z"
+  last_post_link: https://abgoyal.com/posts/darmok-and-jalad-at-the-terminal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 446e6bc4a056c341a12ef367e848fade
+  last_post_guid: 827ad783a1435feb418776ee6d5a704d
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 8
+  postcount: 9
   avgpostlen: 0
 ---

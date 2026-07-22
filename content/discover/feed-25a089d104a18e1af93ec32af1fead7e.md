@@ -6,9 +6,7 @@ params:
   feedlink: https://flandre-scarlet.moe/blog/feed/
   feedtype: rss
   feedid: 25a089d104a18e1af93ec32af1fead7e
-  websites:
-    https://flandre-scarlet.moe/blog: true
-    https://flandre-scarlet.moe/blog/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -17,23 +15,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 乌伦古湖
-  - 和田二街
+  - G218
+  - 伊犁
   - 新疆
   - 旅行游记
+  - 独库公路
   relme: {}
-  last_post_title: 新疆阿勒泰 8
-  last_post_description: Day 9 今天开始从布尔津返回乌鲁木齐了，安排不多，起床吃个饭，大概十一点前往乌伦古湖观景台，从布尔津开车大...
+  last_post_title: 新疆伊犁 10
+  last_post_description: Day 10 昨天三点多才到酒店，早上也是十一点多才起来。听老板的建议，在出门后的小巷子里找到一家本地餐馆，吃...
     阅读更多
-  last_post_date: "2025-10-18T06:51:16Z"
-  last_post_link: https://flandre-scarlet.moe/blog/2483/
+  last_post_date: "2026-07-19T09:38:37Z"
+  last_post_link: https://flandre-scarlet.moe/blog/2653/
   last_post_categories:
-  - 乌伦古湖
-  - 和田二街
+  - G218
+  - 伊犁
   - 新疆
   - 旅行游记
+  - 独库公路
   last_post_language: ""
-  last_post_guid: 7a9e64e0fa3284136d9c4254abacbe22
+  last_post_guid: 9c897be19c3db7a5b42e2f4bb6f27b45
   score_criteria:
     cats: 0
     description: 0
@@ -45,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

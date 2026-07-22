@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-06-28T07:49:51Z"
+date: "2026-07-06T17:30:58Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,27 +18,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - arm
+  - ampere
   - cpu
   - hardware
-  - neoverse
   - performance
+  - skylark
   - uarch-review
   relme: {}
-  last_post_title: ARM Neoverse V3 (代号 Poseidon) 微架构评测
-  last_post_description: '背景¶ 使用 ARM Neoverse V3 核心的 AWS Graviton 5 最近上线了，相比之前的 Neoverse
-    V2 应该有一些改进，所以测试一下这个微架构在各个方面的表现。 '
-  last_post_date: "2026-06-13T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2026/06/13/arm-neoverse-v3/
+  last_post_title: Ampere Skylark 微架构评测
+  last_post_description: Ampere Skylark 微架构评测¶ 背景¶ Ampere eMAG 采用的是 Ampere Skylark
+    微架构，虽然是 2018 年的处理器了，但也顺带评测一下。其前身是 AppliedMicro 的 X-Gene 3
+  last_post_date: "2026-07-07T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2026/07/07/ampere-skylark/
   last_post_categories:
-  - arm
+  - ampere
   - cpu
   - hardware
-  - neoverse
   - performance
+  - skylark
   - uarch-review
   last_post_language: ""
-  last_post_guid: 8268d1d7e8ef4e9e1579978d9c703990
+  last_post_guid: 8c24e252ccef16ee2a93d3ac8b4d6800
   score_criteria:
     cats: 0
     description: 3

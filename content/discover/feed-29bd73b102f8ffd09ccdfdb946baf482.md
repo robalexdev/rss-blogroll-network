@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LP as a substructural logic
+  last_post_title: LP as a substructural logic, bilaterally
   last_post_description: 'Abstract: Graham Priest’s simple three-valued logic LP has
     many curious properties. It has the same valid formulas as classical logic, but
     differs from classical logic when it comes to valid'
-  last_post_date: "2026-05-22T09:30:00+01:00"
-  last_post_link: https://consequently.org/presentation/2026/lp-subst-logica/
+  last_post_date: "2026-07-10T15:15:00+01:00"
+  last_post_link: https://consequently.org/presentation/2026/lp-subst-bochum/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4336e89b509d5db6e94c092b63166230
+  last_post_guid: 25e0e44bda9e7d3532fa8d7a888c1ca1
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 710
+  postcount: 720
   avgpostlen: 0
 ---

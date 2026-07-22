@@ -7,7 +7,6 @@ params:
   feedtype: atom
   feedid: 8ac68fd32caf4e72a368a5c9676ebcd9
   websites:
-    https://www.agwa.name/blog: true
     https://www.agwa.name/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -52,12 +51,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
   postcount: 30
-  avgpostlen: 294
+  avgpostlen: 295
 ---

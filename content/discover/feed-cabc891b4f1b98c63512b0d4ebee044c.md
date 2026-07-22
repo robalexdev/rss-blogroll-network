@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -21,6 +21,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Blogroll
+    description: ""
+    id: 5d1b42843d1c99888f01a5fa806f0033
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -31,24 +34,21 @@ params:
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
-  recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/writings/feed.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Summary of changes for May 2026
+  last_post_title: Summary of changes for June 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of May.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of June.
 
 
 
-      Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and
-  last_post_date: "2026-05-31T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#may2026
+      Wiki, we had a few things fail this month, see: solar cooking experiment, and ipad media
+  last_post_date: "2026-07-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#jun2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2454cf47a27f6e85e130187d737081b4
+  last_post_guid: 8ce08ee87794d75023ce9723652a2e7b
   score_criteria:
     cats: 0
     description: 3
@@ -66,6 +66,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 82
+  postcount: 88
   avgpostlen: 0
 ---

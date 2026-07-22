@@ -17,17 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 《白痴》
-  last_post_description: !!binary |
-    5LuK5bm077yM57un5byA5bm06K+75a6M44CK5Y2h5ouJ6ams5L2Q5aSr5YWE5byf44CL5L
-    mL5ZCO77yM5oiR5Lmw5LqG6ZmA5oCd5aal6IC25aSr5pav5Y+m5LiA6YOo6ZW/56+H5bCP
-    6K+044CK55m955e044CL77yM5oiR5oSf6KeJ5oiR5piv55yf55qE5Zac5qyi6ZmA57+B55
-    qE5bCP6K+077yM5bey6L+e552A6K+75LqG5Zub6YOo6ZW/56+H5LqG77w=
-  last_post_date: "2026-06-07T00:00:00Z"
-  last_post_link: https://xiangyun.rbind.io/2026/06/idiot/
+  last_post_title: 《战争与和平》
+  last_post_description: "第一卷\n      \n        第一部：四大家族粉墨登场\n        第二部：军队生活中的办公室政治\n
+    \       （联想）中俄文艺作品中的贵族和爱国\n       "
+  last_post_date: "2026-07-20T00:00:00Z"
+  last_post_link: https://xiangyun.rbind.io/2026/07/war-and-peace/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7c988ebf385149fd82be56db4286df9b
+  last_post_guid: 97283ff972e7d62e4df21a73b2ba9192
   score_criteria:
     cats: 0
     description: 3

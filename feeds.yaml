@@ -152,6 +152,7 @@ feed_urls:
   - https://raw.githubusercontent.com/Ranchero-Software/NetNewsWire/refs/heads/main/Shared/Importers/DefaultFeeds.opml
   - https://raw.githubusercontent.com/XXIIVV/webring/refs/heads/main/webring.opml
   - https://raw.githubusercontent.com/Yegorov/awesome-ruby-blogs/refs/heads/master/opml/all.opml
+  - https://raw.githubusercontent.com/ecosyste-ms/package-managers-opml/refs/heads/main/package-manager.opml
   - https://raw.githubusercontent.com/geekplux/share/refs/heads/main/RSS_subscriptions.opml
   - https://raw.githubusercontent.com/ginobefun/BestBlogs/refs/heads/main/BestBlogs_RSS_ALL.opml
   - https://raw.githubusercontent.com/heng30/rssbox-android/refs/heads/main/data/rss-cn.opml

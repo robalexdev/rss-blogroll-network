@@ -15,31 +15,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - french
+  - emacs
+  - emacs-news
   relme: {}
-  last_post_title: La semaine du 15 juin au 21 juin
-  last_post_description: "J'ai corrigé la transcription de ma conversation avec Ross
-    A. Baker sur Emacs. \n\n\n\nJ'ai rendez-vous avec un nouveau tuteur français qui
-    habite au Cameroun. Il m'a donné des épreuves du DELF A2."
-  last_post_date: "2026-06-25T15:04:10Z"
-  last_post_link: https://sachachua.com/blog/2026/06/la-semaine-du-15-juin-au-21-juin/
+  last_post_title: 2026-07-20 Emacs news
+  last_post_description: |-
+    Completion seems to be the topic of the day. Check out the new videos
+    and resources people have shared on both completion in buffer and in
+    the mini-buffer. Also, there's been lots of discussion for
+  last_post_date: "2026-07-20T12:27:43Z"
+  last_post_link: https://sachachua.com/blog/2026/07/2026-07-20-emacs-news/
   last_post_categories:
-  - french
+  - emacs
+  - emacs-news
   last_post_language: ""
-  last_post_guid: dcd9f038cf4e1fc945c117d2e956ddd2
+  last_post_guid: 5c55f257f820bc708983bcd10bc400ca
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

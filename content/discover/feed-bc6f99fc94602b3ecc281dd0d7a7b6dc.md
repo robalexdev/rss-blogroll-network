@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2026-06-20T15:21:49-04:00"
+date: "2026-07-21T12:27:05-04:00"
 description: Work coaching with mandy brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -10,7 +10,7 @@ params:
     https://everythingchanges.us/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,15 +22,14 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://everythingchanges.us/: true
-  last_post_title: Ways of moving
-  last_post_description: Patterns for exploring.
-  last_post_date: "2026-04-14T13:35:00-04:00"
-  last_post_link: https://everythingchanges.us/blog/ways-of-moving/
+  relme: {}
+  last_post_title: Break what should be broken
+  last_post_description: Anarchist calisthenics.
+  last_post_date: "2026-07-21T12:09:00-04:00"
+  last_post_link: https://everythingchanges.us/blog/break-what-should-be-broken/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 573240adcacb2a10ca3d2719587b9ba6
+  last_post_guid: 27a082521f0b3dc2097a3f891215b57f
   score_criteria:
     cats: 0
     description: 3
@@ -40,10 +39,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 21
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -22,33 +22,44 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
+  - Donald Trump
   - Editors' Blog
+  - John McCain
+  - Lindsey Graham
+  - Newt Gingrich
+  - Republicans
+  - obituary
   relme: {}
-  last_post_title: Google, AI, Oligarchy and the End of the ‘Open Web’
-  last_post_description: I wanted to share a small observation about the interweaving
-    worlds of AI, oligarchy, monopoly and – more distantly, but...
-  last_post_date: "2026-06-27T22:54:59Z"
-  last_post_link: https://talkingpointsmemo.com/edblog/google-ai-oligarchy-and-the-end-of-the-open-web
+  last_post_title: Lindsey Graham Always Needed a Daddy
+  last_post_description: There’s not a lot I have to add to the reporting on Lindsey
+    Graham’s sudden and unexpected death. The longtime...
+  last_post_date: "2026-07-12T14:14:12Z"
+  last_post_link: https://talkingpointsmemo.com/edblog/lindsey-graham-always-needed-a-daddy
   last_post_categories:
+  - Donald Trump
   - Editors' Blog
+  - John McCain
+  - Lindsey Graham
+  - Newt Gingrich
+  - Republicans
+  - obituary
   last_post_language: ""
-  last_post_guid: 6bd5f86bd0a10e6effee34f0cf9e24d2
+  last_post_guid: be8cb44040e7ae251ff4ee81133f6523
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

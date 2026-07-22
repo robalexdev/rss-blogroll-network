@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-06-28T23:22:35Z"
+date: "2026-07-10T10:48:32Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,7 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -1111,6 +1111,7 @@ params:
   - biscuit factory
   - blogs
   - blues
+  - bookfairs
   - books
   - bookshops
   - boris
@@ -1399,32 +1400,33 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: Happy 35th birthday 56a Infoshop
+  last_post_title: Comic, Zine and Bookfairs, Summer 2026
   last_post_description: ""
-  last_post_date: "2026-06-28T19:43:21Z"
-  last_post_link: https://transpont.blogspot.com/2026/06/happy-35th-birthday-56a-infoshop.html
+  last_post_date: "2026-07-09T21:24:16Z"
+  last_post_link: https://transpont.blogspot.com/2026/07/comic-zine-and-bookfairs-summer-2026.html
   last_post_categories:
-  - 56a Infoshop
-  - Elephant and Castle
+  - bookfairs
+  - comics
+  - zines
   last_post_language: ""
-  last_post_guid: 04b3c3951016e7c6003164e7e9cee7c7
+  last_post_guid: 10e3da5a24519e5a98e6ec4acef2d1d3
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 26
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 291
+  avgpostlen: 295
 ---

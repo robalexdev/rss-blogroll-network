@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-06-28T20:23:32-04:00"
+date: "2026-07-12T14:24:14-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -156,6 +156,7 @@ params:
   - Alan Turing
   - Alex Biega
   - Alex Flinn
+  - Alex Hay
   - Alex Marwood
   - Alexander Hamilton
   - Alexandra Benedict
@@ -1552,6 +1553,7 @@ params:
   - Joan Hiatt Harlow
   - Joan Howard
   - Joan Lingard
+  - Joan North
   - Joanna Miller
   - Joanna Quinn
   - Joanna Schaffhausen
@@ -1563,7 +1565,6 @@ params:
   - Joe Krush
   - Joe Wikert
   - Joe Willard
-  - Joe and Beth Krush
   - Johanna Reiss
   - John Adams
   - John Alan Maxwell
@@ -1650,6 +1651,7 @@ params:
   - Kate Atkinson
   - Kate Charles
   - Kate DiCamillo
+  - Kate Douglas Wiggin
   - Kate Fenton
   - Kate Grenville
   - Kate Hardy
@@ -1704,6 +1706,7 @@ params:
   - Kim Savage
   - Kimberly Brubaker Bradley
   - Kimothy Joy
+  - Kindred Schemes
   - King Arthur
   - King Cake
   - King Kong
@@ -1731,6 +1734,7 @@ params:
   - L'Arc de Triomphe
   - L. Frank Baum
   - L.M. Boston
+  - L.M. Kemp
   - L.M. Montgomery
   - LA Personalities Examiner
   - LSU football
@@ -2964,6 +2968,7 @@ params:
   - The Colony Club
   - The Company of Heaven
   - The Correspondent
+  - The Count of Monte Cristo
   - The Country Girls
   - The Couple in the Photo
   - The Covenant of Water
@@ -2983,6 +2988,7 @@ params:
   - The Diamond in the Window
   - The Dinosaur Club
   - The Door-to-Door Bookstore
+  - The Double Image
   - The Dower House
   - The Dutch House
   - The Eagle of the Ninth
@@ -3260,6 +3266,7 @@ params:
   - The War That Saved My Life
   - The Wedding People
   - The Whalebone Theatre
+  - The Whirling Shapes
   - The Wicked Girls
   - The Widow's House
   - The Wild Woman's Guide to Traveling the World
@@ -3953,24 +3960,23 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: 'Sabriel by Garth Nix   #20BOS26-6'
+  last_post_title: June 2026 Reading
   last_post_description: ""
-  last_post_date: "2026-06-28T18:26:11-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/06/sabriel-by-garth-nix-20bos26-6.html
+  last_post_date: "2026-07-12T14:24:14-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/07/june-2026-reading.html
   last_post_categories:
-  - 20 Books of Summer 2026
+  - Dorothy Gilman
+  - Edith Wharton
+  - Elizabeth Chadwick
   - Garth Nix
-  - Grimbold's Other World
-  - HarperCollins
+  - Joan North
+  - Kazuo Ishiguro
+  - Kindred Schemes
+  - L.M. Kemp
   - Nicholas Stuart Gray
-  - Reading the Meow
-  - Sabriel
-  - book review
-  - fantasy
-  - magic
-  - series
+  - Ruth Ware
   last_post_language: ""
-  last_post_guid: 740ee279e69a597ec0ffc7a22f9057b5
+  last_post_guid: e76b8b581ea3e2f18928b8f8dc645f3b
   score_criteria:
     cats: 5
     description: 3
@@ -3989,5 +3995,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 289
 ---

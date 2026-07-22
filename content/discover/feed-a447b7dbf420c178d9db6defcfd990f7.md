@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-06-29T00:22:26+01:00"
+date: "2026-07-12T11:06:43+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -36,6 +36,7 @@ params:
   - Beckett
   - Benjamin
   - Big Brother
+  - Blake
   - Borat
   - Borges
   - Bourdieu
@@ -469,10 +470,11 @@ params:
   relme: {}
   last_post_title: About Shiloh
   last_post_description: ""
-  last_post_date: "2026-06-28T19:57:05+01:00"
+  last_post_date: "2026-07-12T11:01:42+01:00"
   last_post_link: https://culturalsnow.blogspot.com/2026/06/about-shiloh.html
   last_post_categories:
   - AI
+  - Blake
   - France
   - books
   - celebrity
@@ -498,5 +500,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 290
+  avgpostlen: 283
 ---

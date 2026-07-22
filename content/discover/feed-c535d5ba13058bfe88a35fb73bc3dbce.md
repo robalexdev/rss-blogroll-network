@@ -18,7 +18,6 @@ params:
   categories:
   - sailing
   relme:
-    https://github.com/ghidalgo3: true
     https://gustavohidalgo.com/: true
   last_post_title: Sailboat Trim Trainer
   last_post_description: Trimming sails is the art of reading wind you can’t see.

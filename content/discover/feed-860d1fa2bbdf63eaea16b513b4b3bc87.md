@@ -10,6 +10,9 @@ params:
     https://www.bitecode.dev/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -17,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Scripting good practices in Python
-  last_post_description: And a lot of it works in other languages too
-  last_post_date: "2026-06-21T16:31:49Z"
-  last_post_link: https://www.bitecode.dev/p/scripting-good-practices-in-python
+  last_post_title: What’s up Python? Wheels in the browser, astral still moves fast,
+    and my new favorite @
+  last_post_description: June 2026
+  last_post_date: "2026-07-01T11:51:55Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-wheels-in-the-browser
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11e7026a6e6e33204e6668df23e4cc57
+  last_post_guid: 8fe64c5f474fb51dd3785524d0d30b43
   score_criteria:
     cats: 0
     description: 3

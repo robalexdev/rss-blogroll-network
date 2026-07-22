@@ -10,7 +10,7 @@ params:
     https://geoff.tuxpup.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -49,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 67
+  postcount: 72
   avgpostlen: 0
 ---

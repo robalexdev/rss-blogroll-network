@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 算算账，做好准备
-  last_post_description: 之前你们牛市我旁观，感觉还可以。因为我觉得自己赚得也够了，反正时间多。现在怎么变了，变成了你们牛市我熊市？
-  last_post_date: "2026-06-18T07:25:44Z"
-  last_post_link: https://retire50blog.wang/invest/%e5%9b%9e%e6%92%a4%e8%ae%a1%e7%ae%97%e5%92%8c%e5%af%b9%e6%af%94.html
+  last_post_title: 嘉信理财限制登录
+  last_post_description: 上周改了schwab嘉信理财的密码，当时登录没问题。 周末再次登录时，提示“此账户访问已被终止”。
+  last_post_date: "2026-07-20T13:59:04Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%98%89%e4%bf%a1%e7%90%86%e8%b4%a2%e9%99%90%e5%88%b6%e7%99%bb%e5%bd%95.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: fff05a834a3cdc79a86a10aaebf2291d
+  last_post_guid: e2f00e07944a733f68e6ad7f3b4b87ad
   score_criteria:
     cats: 0
     description: 0

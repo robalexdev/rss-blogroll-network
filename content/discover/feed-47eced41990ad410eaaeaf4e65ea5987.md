@@ -1,7 +1,7 @@
 ---
-title: suriya on Suriya's site
+title: surya on Suriya's site
 date: "1970-01-01T00:00:00Z"
-description: Recent content in suriya on Suriya's site
+description: Recent content in surya on Suriya's site
 params:
   feedlink: https://suriya.cc/index.xml
   feedtype: rss
@@ -22,18 +22,15 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: the great shrinkening
-  last_post_description: |-
-    When traced through literary history, there’s a clear trend of smaller and smaller books,
-
-    War and Peace (Leo Tolstoy, 1869): ~587,000 words.
-    Ulysses (James Joyce, 1922): ~265,000 words.
-    Harry
-  last_post_date: "2026-05-30T00:00:00Z"
-  last_post_link: https://suriya.cc/essays/shrinkening/
+  last_post_title: Memetic transfer
+  last_post_description: back in 2012 when I moved from pattiveeranpatti, a small
+    village to Chennai, a city in Tamil Nadu. there was something interesting, the
+    kids there had no mental model of villages, farming or the
+  last_post_date: "2026-06-22T00:00:00Z"
+  last_post_link: https://suriya.cc/essays/memetic/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 640da99a078a54c8724a179f470b4305
+  last_post_guid: 35f003d216a25e3d1457b64b2cbe4f8b
   score_criteria:
     cats: 0
     description: 3
@@ -51,6 +48,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 203
+  postcount: 239
   avgpostlen: 0
 ---

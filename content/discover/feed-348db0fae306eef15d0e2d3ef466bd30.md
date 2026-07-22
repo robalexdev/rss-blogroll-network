@@ -1,6 +1,6 @@
 ---
 title: Ayman Nadeem
-date: "2025-08-03T19:22:15Z"
+date: "2026-06-29T17:02:50Z"
 description: Programming Languages, Static Analysis, Mathematics, Functional Programming,
   Haskell, Developer Tools, HCI, criminally bad puns.
 params:
@@ -16,38 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial
-  - Intelligence,
-  - Languages
-  - Programming
+  - Founders
+  - Startups,
   relme: {}
-  last_post_title: 'Vibe coding to Chomksy: will linguistics pop off in a world full
-    of prompting?'
-  last_post_description: 'Like many developers, I’ve spent most of the past year vibe
-    coding. Across the many tools I’ve tried, my workflow looks something like this:
-    I prompt AI agents in natural-language and hope they'
-  last_post_date: "2025-08-01T22:22:00Z"
-  last_post_link: http://aymannadeem.github.io/artificial/intelligence,/programming/languages/2025/08/01/vibe-coding-to-chomsky.html
+  last_post_title: I am hospitalized with a high-risk pregnancy. Here’s how running
+    a startup is going.
+  last_post_description: Last week, I launched my new product from my hospital room
+    in the antepartum unit.
+  last_post_date: "2026-06-28T16:00:00Z"
+  last_post_link: http://aymannadeem.github.io/startups,/founders/2026/06/28/hospitalized-high-risk-pregnancy-running-a-startup.html
   last_post_categories:
-  - Artificial
-  - Intelligence,
-  - Languages
-  - Programming
+  - Founders
+  - Startups,
   last_post_language: ""
-  last_post_guid: d307942e7d5f933a031e6fb69365f40f
+  last_post_guid: b9e836b7db91f5d7d0b6a0dd2386fa2f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

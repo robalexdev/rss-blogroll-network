@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-06-28T20:23:32-04:00"
+date: "2026-07-12T14:24:14-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://perfectretort.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -157,6 +157,7 @@ params:
   - Alan Turing
   - Alex Biega
   - Alex Flinn
+  - Alex Hay
   - Alex Marwood
   - Alexander Hamilton
   - Alexandra Benedict
@@ -1553,6 +1554,7 @@ params:
   - Joan Hiatt Harlow
   - Joan Howard
   - Joan Lingard
+  - Joan North
   - Joanna Miller
   - Joanna Quinn
   - Joanna Schaffhausen
@@ -1564,7 +1566,6 @@ params:
   - Joe Krush
   - Joe Wikert
   - Joe Willard
-  - Joe and Beth Krush
   - Johanna Reiss
   - John Adams
   - John Alan Maxwell
@@ -1651,6 +1652,7 @@ params:
   - Kate Atkinson
   - Kate Charles
   - Kate DiCamillo
+  - Kate Douglas Wiggin
   - Kate Fenton
   - Kate Grenville
   - Kate Hardy
@@ -1705,6 +1707,7 @@ params:
   - Kim Savage
   - Kimberly Brubaker Bradley
   - Kimothy Joy
+  - Kindred Schemes
   - King Arthur
   - King Cake
   - King Kong
@@ -1732,6 +1735,7 @@ params:
   - L'Arc de Triomphe
   - L. Frank Baum
   - L.M. Boston
+  - L.M. Kemp
   - L.M. Montgomery
   - LA Personalities Examiner
   - LSU football
@@ -2965,6 +2969,7 @@ params:
   - The Colony Club
   - The Company of Heaven
   - The Correspondent
+  - The Count of Monte Cristo
   - The Country Girls
   - The Couple in the Photo
   - The Covenant of Water
@@ -2984,6 +2989,7 @@ params:
   - The Diamond in the Window
   - The Dinosaur Club
   - The Door-to-Door Bookstore
+  - The Double Image
   - The Dower House
   - The Dutch House
   - The Eagle of the Ninth
@@ -3261,6 +3267,7 @@ params:
   - The War That Saved My Life
   - The Wedding People
   - The Whalebone Theatre
+  - The Whirling Shapes
   - The Wicked Girls
   - The Widow's House
   - The Wild Woman's Guide to Traveling the World
@@ -3953,28 +3960,24 @@ params:
   - work
   - yarn
   - you're welcome
-  relme:
-    https://clmsalelist.blogspot.com/: true
-    https://perfectretort.blogspot.com/: true
-    https://www.blogger.com/profile/03595294217111602231: true
-  last_post_title: 'Sabriel by Garth Nix   #20BOS26-6'
+  relme: {}
+  last_post_title: June 2026 Reading
   last_post_description: ""
-  last_post_date: "2026-06-28T18:26:11-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/06/sabriel-by-garth-nix-20bos26-6.html
+  last_post_date: "2026-07-12T14:24:14-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/07/june-2026-reading.html
   last_post_categories:
-  - 20 Books of Summer 2026
+  - Dorothy Gilman
+  - Edith Wharton
+  - Elizabeth Chadwick
   - Garth Nix
-  - Grimbold's Other World
-  - HarperCollins
+  - Joan North
+  - Kazuo Ishiguro
+  - Kindred Schemes
+  - L.M. Kemp
   - Nicholas Stuart Gray
-  - Reading the Meow
-  - Sabriel
-  - book review
-  - fantasy
-  - magic
-  - series
+  - Ruth Ware
   last_post_language: ""
-  last_post_guid: dbe31b90eb68d2a0304570f28547ae2d
+  last_post_guid: be19f3548bc5a8ffcef5bb2b811120eb
   score_criteria:
     cats: 5
     description: 3
@@ -3984,14 +3987,14 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 29
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 289
 ---

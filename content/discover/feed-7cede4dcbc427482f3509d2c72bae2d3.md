@@ -24,13 +24,7 @@ params:
     id: ffa5e63462db333bc9076d25a3826098
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: FeedLand hotlist in OPML
     description: The most popular feeds on FeedLand, as an OPML subscription list.
     id: caef69628aa6c48ab75aa8701352b695
@@ -63,27 +57,20 @@ params:
   - title: Export from Plenary
     description: ""
     id: b4aa112c47ea6fa1d98538aee7d63d32
-  - title: Dan Q's Blogroll
-    description: ""
-    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/writings/feed.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: 720 Ollie
+  last_post_title: Arthurian Connector
   last_post_description: ""
-  last_post_date: "2026-06-26T04:00:00Z"
-  last_post_link: https://xkcd.com/3264/
+  last_post_date: "2026-07-20T04:00:00Z"
+  last_post_link: https://xkcd.com/3274/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9d8113fdb2c8ecbd34b144351cd00c35
+  last_post_guid: 5426566a52105dc6a0da2afa7af8f3f8
   score_criteria:
     cats: 0
     description: 3

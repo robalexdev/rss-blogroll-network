@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -41,15 +41,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: Quickly apply LUTs (color grading) with ffmpeg
+  last_post_title: QuadRF can spot drones and see WiFi through my wall
   last_post_description: |-
-    This is a quick post, mostly for my own reference.
-    I've avoided LUTs and 'Log' video footage for years1, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage
-  last_post_date: "2026-06-25T21:23:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/
+    The QuadRF (pictured above) a phased-array radio built around a Raspberry Pi 5 and an FPGA board with picosecond-level timing. It does advanced signal processing and beamforming.
+    It can see WiFi
+  last_post_date: "2026-07-10T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7e9fad8ed1fbe175bff640287601e2a
+  last_post_guid: 057f8b3c8393d1ba664b87b24ead5ad8
   score_criteria:
     cats: 0
     description: 3

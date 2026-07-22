@@ -6,8 +6,7 @@ params:
   feedlink: https://kevquirk.com/feed.php
   feedtype: rss
   feedid: 58c09366fab0de242acfa6e4b5cef1fc
-  websites:
-    https://kevquirk.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Simon Carstensen Blogroll
@@ -17,20 +16,19 @@ params:
   recommender:
   - https://simonbc.com/feed.xml
   categories:
-  - link
-  relme:
-    https://fosstodon.org/@kev: true
-    https://kevquirk.com/: true
-  last_post_title: The Laziest Generation
-  last_post_description: The Laziest GenerationIbrahim talks about house prices in
-    the US, how it's only getting worse, and the perception from previous generations
-    that kids today are somehow lazy because they can't afford
-  last_post_date: "2026-06-28T09:01:00+01:00"
-  last_post_link: https://kevquirk.com/the-laziest-generation
+  - notes
+  relme: {}
+  last_post_title: "\U0001F4DD 2026-07-12 10:08: It's a beautiful morning here in
+    North Wales. My wife has taken our youngest to..."
+  last_post_description: |-
+    It's a beautiful morning here in North Wales. My wife has taken our youngest to his cricket match, and our oldest is upstairs playing with his Lego out of the heat.
+    Me? I'm sitting in the sunroom,
+  last_post_date: "2026-07-12T10:08:00+01:00"
+  last_post_link: https://kevquirk.com/2026-07-12-1008
   last_post_categories:
-  - link
+  - notes
   last_post_language: ""
-  last_post_guid: ad19903cfb53a9b2cbb060738094948b
+  last_post_guid: 2c8afba9ca10b0585c7d17eb6c9be060
   score_criteria:
     cats: 0
     description: 3
@@ -40,10 +38,10 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

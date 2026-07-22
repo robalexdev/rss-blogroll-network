@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Solod v0.2: Networking, new targets, friendlier interop'
-  last_post_description: A system-level language with Go syntax and a familiar standard
-    library.
-  last_post_date: "2026-06-26T12:30:00Z"
-  last_post_link: https://antonz.org/solod-v0-2/
+  last_post_title: On interactive Go tours
+  last_post_description: Wrapping up the series.
+  last_post_date: "2026-07-11T12:30:00Z"
+  last_post_link: https://antonz.org/on-go-tours/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7388fe70bdad245d2f9e22295be550c6
+  last_post_guid: 9de3be8b644ebcaff1630f4010a988ea
   score_criteria:
     cats: 0
     description: 3

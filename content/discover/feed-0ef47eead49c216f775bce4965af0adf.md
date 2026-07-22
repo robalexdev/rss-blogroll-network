@@ -19,22 +19,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 小说
-  - 致肖邦
+  - 学术
+  - 学术垃圾
   relme: {}
-  last_post_title: 离别（未完待续）
-  last_post_description: !!binary |
-    5rKI5b2S6L+Y6K6w5b6X6YKj5Liq5Yas5pil5LmL5Lqk55qE5riF5pmo44CC5aW55Zyo5p
-    el5Ye65YmN6IuP6YaS77yM552B55y855qE5LiA5Yi56YKj5oSf5Yiw5omL5oyH5YWz6IqC
-    5aSE5Lyg5p2l5pKV6KOC6Iis55qE55eb5qWa77yM5L2G6L2s556s5Y2z6YCd44CC5LiO5q
-    2k5ZCM5pe25aW55ZCs6KeB5LiA5aOw5riF6ISG55qE5aOw5ZON77yM54o=
-  last_post_date: "2024-03-14T14:18:38Z"
-  last_post_link: https://phoenixrain-pku.github.io/2022/06/15/%E7%A6%BB%E5%88%AB/
+  last_post_title: Private Sequential Learning 论文详解
+  last_post_description: '本文介绍了一篇有趣的机器学习理论工作: Private Sequential Learning. 这篇文章在 Sequential
+    Learning 中引入了隐私保护的目标,'
+  last_post_date: "2026-06-29T12:07:58Z"
+  last_post_link: https://blog.lhp-pku.top/2021/07/08/PSL/
   last_post_categories:
-  - 小说
-  - 致肖邦
+  - 学术
+  - 学术垃圾
   last_post_language: ""
-  last_post_guid: 2ed5fcb02c8132e80df17337da71ae64
+  last_post_guid: 9cc37167b56cd231ff5f45b87378a4c7
   score_criteria:
     cats: 0
     description: 0
@@ -53,5 +50,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 270
+  avgpostlen: 264
 ---

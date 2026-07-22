@@ -1,13 +1,12 @@
 ---
 title: 莫尔索随笔
-date: "2026-06-28T08:00:00Z"
+date: "2026-07-19T08:00:00Z"
 description: 欢迎来到莫尔索随笔，这里是我的数字实验室，也是一个关于成长与好奇心的长期主义计划。
 params:
   feedlink: https://liduos.com/atom.xml
   feedtype: atom
   feedid: 402adf681f88deaf87151ed45db8ecf5
-  websites:
-    https://liduos.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -21,14 +20,18 @@ params:
   categories:
   - AI 周刊
   relme: {}
-  last_post_title: Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查
-  last_post_description: 本期内容聚焦AI编程提速后的真正瓶颈——验证、审查与判断，涵盖代码评审工程化、Agent协作、安全攻防、评估与知识底座、底层基建及产品哲学。
-  last_post_date: "2026-06-28T08:00:00Z"
-  last_post_link: https://liduos.com/weekly/the-weekly-gradient-109
+  last_post_title: Vol.112 模型能力扩张之外：判断力、可靠性与AI原生组织的核心议题
+  last_post_description: !!binary |
+    5pys5pyf5YaF5a656IGa54SmQUnmqKHlnovku47og73lipvmianlvKDovazlkJHliKTmlq
+    3lipvkuI7lj6/pnaDmgKfnmoTlhbPplK7ovazlj5jvvIzmtrXnm5bkuJbnlYzmqKHlnovl
+    iIbnsbvjgIHpgJLlvZLmlLnov5vpo57ova7jgIHkvIHkuJrnuqdBZ2VudOaetuaehOOAge
+    WuieWFqOiHquWvueW8iOOAgeS7o+eggei/geenu+Wunui3teWPikFJ5a8=
+  last_post_date: "2026-07-19T08:00:00Z"
+  last_post_link: https://liduos.com/weekly/the-weekly-gradient-112
   last_post_categories:
   - AI 周刊
   last_post_language: ""
-  last_post_guid: a4130e5dc8951c6f31002d6753754c01
+  last_post_guid: 4125dd1e46c35afed31c19df9612620d
   score_criteria:
     cats: 0
     description: 3
@@ -40,12 +43,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 5
+  postcount: 132
   avgpostlen: 0
 ---

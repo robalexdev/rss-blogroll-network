@@ -20,14 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: MacSurf - A new web browser for Mac OS 9
-  last_post_description: A new web browser for Mac OS 9 has been released that supports
-    CSS3, JS and HTTPS
-  last_post_date: "2026-05-21T15:40:11+12:00"
-  last_post_link: https://mac-classic.com/news/macsurf-a-new-web-browser-for-mac-os-9/
+  last_post_title: OS9 Map, PlatinumSky, Paleomastodon release
+  last_post_description: New software releases for Mac OS 9 - An OpenStreetMap viewer,
+    BlueSky and Mastodon clients
+  last_post_date: "2026-07-03T14:32:06+12:00"
+  last_post_link: https://mac-classic.com/news/os9-map-platinumsky-paleomastodon-release/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e60298ee7f658306ac31945356358836
+  last_post_guid: 8cf113be02d0978afa12f2c619bb23da
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 64
+  postcount: 66
   avgpostlen: 0
 ---

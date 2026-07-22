@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2025-08-06T17:41:09Z"
+date: "2026-07-20T14:50:53Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -10,7 +10,7 @@ params:
     https://lowpolybrainblasts.pika.page/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 25 in ’25 - November
-  last_post_description: 'One left! At the beginning of 2025, I set a goal: to achieve 25
-    Actionable Items in 2025. Thus far, I’ve been keeping tabs on my journey each
-    month in the...'
-  last_post_date: "2025-12-02T15:43:37Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-november
+  last_post_title: Feeling For A Pulse
+  last_post_description: Resuming a regular practice of public reflection With the
+    return of the Pika Pulse, I return to blogging, and ultimately, return to the
+    act of public reflection. This differs from...
+  last_post_date: "2026-07-20T14:53:41Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/feeling-for-a-pulse
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 526eec09d63bbfe36739a3779ebd0908
+  last_post_guid: 9cae1e9f8f8ae4348c98bb28594f5589
   score_criteria:
     cats: 0
     description: 0
@@ -50,5 +50,5 @@ params:
   innetwork: true
   language: en
   postcount: 25
-  avgpostlen: 294
+  avgpostlen: 293
 ---

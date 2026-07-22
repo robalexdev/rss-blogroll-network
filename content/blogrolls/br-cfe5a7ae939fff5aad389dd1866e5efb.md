@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Sun, 28 Jun 2026 20:41:21 GMT
+date: Tue, 21 Jul 2026 20:29:08 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.8.16.
 params:
@@ -10,9 +10,6 @@ params:
   - title: Terence Eden’s Blog
     description: "Regular nonsense about tech and its effects \U0001F643"
     id: 1efefff9b841c584b6a0572f00ca77b3
-  - title: Anil Dash
-    description: A blog about making culture. Since 1999.
-    id: 26bbe268cb02f2a5ca657fab9985ddaa
   - title: Krebs on Security
     description: In-depth security news and investigation
     id: 27cf5ce3f0747a1ebd39345cad612a52
@@ -81,10 +78,6 @@ params:
   - title: Terrible Software
     description: Software | Engineering Leadership | Tech
     id: 77cc810c3dfc7c5275a82db361873ac2
-  - title: Mahad Kalam
-    description: Mahad Kalam (@skyfall)'s personal website. I ramble about Rust, TypeScript,
-      web dev, and more!
-    id: 7b1bcd05cf67e0eae99531b1108f466c
   - title: Mitchell Hashimoto
     description: Mitchell Hashimoto's personal website.
     id: 84b337879415d9cd68a87c3775a93fa0
@@ -101,9 +94,6 @@ params:
     description: '1) Find what''s true and make it useful. 2) Publish every other
       Tuesday. 3) Photo cred: my dad.'
     id: 982bf4f8bd35ecc5e377cf99578e2971
-  - title: Daring Fireball
-    description: By John Gruber
-    id: 9a8beca635082f03992038bfdab4d14d
   - title: 'Tedium: The Dull Side of the Internet.'
     description: A twice-weekly newsletter that takes a deep-dive into the depths
       of the long tail. Our goal with Tedium? We're trying to reach the bottom.

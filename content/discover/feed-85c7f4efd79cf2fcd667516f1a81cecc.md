@@ -23,23 +23,25 @@ params:
   recommender: []
   categories:
   - blog
-  - knowledge-management
+  - decision-making
+  - reflection
   - writing
   relme: {}
-  last_post_title: 知识花园：构建你的第二大脑
+  last_post_title: 论第一性原理
   last_post_description: !!binary |
-    5oiR5LmL5YmN5o+Q5Yiw6L+H6Ieq5bex5YaZ5LqG5LiA5pys5Lmm77yM6L+Z5qyh5bCx5p
-    2l6IGK6IGK5a6D44CC6L+Z5piv5LiA5pys55+l6K+G566h55CG5Li76aKY55qE5bel5YW3
-    5Lmm77yM5piv5oiR5oqK6L+Z5Lqb5bm056ev57Sv55qE57uP6aqM5LiA54K554K55pW055
-    CG44CB5oC757uT44CB5omT56Oo5Ye65p2l55qE5LiA5aWX5oCd5oOz5ZI=
-  last_post_date: "2026-06-23T00:00:00+08:00"
-  last_post_link: https://blog.zopiya.com/knowledge-garden-book-68f62572/
+    5YWz5LqO56ys5LiA5oCn5Y6f55CG77yM5Y675bm05oiR6L+b6KGM5LqG5Li76aKY6ZiF6K
+    +777yM5oqK5biC6Z2i5LiK6aOO6K+E5LiN6ZSZ55qE5Lmm6YCa6K+75LqG5Y2B5pys77yM
+    5YyF5ous6ams5pav5YWL55qE57qi55qu5Lmm562J55u45YWz5p2Q5paZ5Lmf6YO955yL6L
+    +H44CC5L2G5pyJ5LiA5Liq6Zeu6aKY77yM5b6I5aSa5Lq66K6y552A6K4=
+  last_post_date: "2026-07-13T00:00:00+08:00"
+  last_post_link: https://blog.zopiya.com/lun-di-yi-xing-yuan-li-e156f9c0/
   last_post_categories:
   - blog
-  - knowledge-management
+  - decision-making
+  - reflection
   - writing
   last_post_language: ""
-  last_post_guid: 8de556f53f0ded80ffff98165086890c
+  last_post_guid: 96fd690f68ab38de22d1f0875cf0e9a2
   score_criteria:
     cats: 0
     description: 3
@@ -57,6 +59,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 7
+  postcount: 10
   avgpostlen: 0
 ---

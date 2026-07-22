@@ -1,6 +1,6 @@
 ---
 title: notes.xdavidhu.me
-date: "2026-01-04T15:05:26Z"
+date: "2026-07-04T00:56:58Z"
 description: David's notes.
 params:
   feedlink: https://notes.xdavidhu.me/feed.xml

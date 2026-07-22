@@ -1,6 +1,6 @@
 ---
 title: a flophouse is not a home
-date: "2026-06-26T07:51:16-07:00"
+date: "2026-07-08T08:49:40-07:00"
 description: ""
 params:
   feedlink: https://flophouse777.blogspot.com/feeds/posts/default
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://flophouse777.blogspot.com/: true
-  last_post_title: '"The Ancestral Manse"'
+  last_post_title: '"The Benighted Hearth"'
   last_post_description: ""
-  last_post_date: "2026-06-24T13:51:15-07:00"
-  last_post_link: https://flophouse777.blogspot.com/2026/06/the-ancestral-manse.html
+  last_post_date: "2026-07-08T08:49:40-07:00"
+  last_post_link: https://flophouse777.blogspot.com/2026/07/the-benighted-hearth.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0f135508f4d0f2a355581a0f7fccb7d2
+  last_post_guid: 4e29b596a278e80904c3563bbf223751
   score_criteria:
     cats: 0
     description: 0
@@ -43,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 295
 ---

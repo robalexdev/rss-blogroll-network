@@ -1,6 +1,6 @@
 ---
 title: Church of BSD
-date: "2026-06-23T17:18:11-07:00"
+date: "2026-07-11T01:45:31-07:00"
 description: This was Intended to be a BSD only blog, but now it's about all Unix
   Like Free Operating Systems, Linux, FreeBSD etc.
 params:
@@ -283,5 +283,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 226
+  avgpostlen: 237
 ---

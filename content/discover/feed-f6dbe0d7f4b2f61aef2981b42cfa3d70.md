@@ -16,7 +16,6 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Computer
   - computer
   relme:
     https://notes.crab.farm/: true
@@ -27,7 +26,6 @@ params:
   last_post_date: "2024-05-08T02:56:42Z"
   last_post_link: https://notes.crab.farm/post/enshittification-strikes-again
   last_post_categories:
-  - Computer
   - computer
   last_post_language: ""
   last_post_guid: ae00faf74064cd3ffd321750131fe0c1
@@ -37,13 +35,13 @@ params:
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

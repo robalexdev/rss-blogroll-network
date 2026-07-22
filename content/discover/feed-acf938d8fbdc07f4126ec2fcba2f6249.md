@@ -1,6 +1,6 @@
 ---
 title: Kia.
-date: "2026-06-28T04:59:43Z"
+date: "2026-07-20T11:32:39Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -24,14 +24,14 @@ params:
   categories: []
   relme:
     https://kiakamgar.com/: true
-  last_post_title: I’m done with having two newsletters
-  last_post_description: I’ve had an email list for years, mostly for my business.
-    But it’s time to consolidate my output and get rid of the old list.
-  last_post_date: "2026-06-28T10:26:37Z"
-  last_post_link: https://kiakamgar.com/posts/im-done-with-having-two-newsletters
+  last_post_title: I prefer light mode.
+  last_post_description: I hate dark more. It’s no secret. I’ve written about it in
+    the past. But I do see the need for people to have the option. So I added it...
+  last_post_date: "2026-07-20T11:32:39Z"
+  last_post_link: https://kiakamgar.com/posts/i-prefer-light-mode
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f2ef162699402e035f3740e179f5c51a
+  last_post_guid: c050ace78f5bcaeae76e07b2e9ad2510
   score_criteria:
     cats: 0
     description: 0
@@ -50,5 +50,5 @@ params:
   innetwork: true
   language: en
   postcount: 25
-  avgpostlen: 197
+  avgpostlen: 133
 ---

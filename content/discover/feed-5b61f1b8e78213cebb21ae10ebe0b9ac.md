@@ -1,6 +1,6 @@
 ---
 title: Ratfactor Feed
-date: "2026-05-17T00:00:00Z"
+date: "2026-07-13T00:00:00Z"
 description: Dave Gauer's personal website. Mostly technical articles.
 params:
   feedlink: https://ratfactor.com/atom.xml
@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,15 +31,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Project Inbox 2026
+  last_post_title: Two month calendar format for pocket notebooks
   last_post_description: |-
-    It's starting! Those sweet, sweet email replies shall
-                begin to make their way starting now...
-  last_post_date: "2026-05-17T00:00:00Z"
-  last_post_link: http://ratfactor.com/inbox2026
+    Hello RSS readers! Project Inbox 2026 is coming along very nicely,
+                thank you. Don't worry, that's still my only MAIN project. I do
+                other small things in parallel with the main
+  last_post_date: "2026-07-13T00:00:00Z"
+  last_post_link: http://ratfactor.com/cards/pocket-notebook-calendar
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7fdc32556a8a4129888b325f50dca880
+  last_post_guid: 4c29734818d6e08e4b58d8c5fd6e4b65
   score_criteria:
     cats: 0
     description: 3
@@ -57,6 +58,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 120
+  postcount: 130
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-06-29T00:24:55+01:00"
+date: "2026-07-12T19:33:12+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -811,6 +811,7 @@ params:
   - Darren Aronofsky
   - Daryl McCormack
   - Data theft
+  - Dating Amber
   - Dave Bautista
   - Dave Franco
   - Dave Hill
@@ -830,6 +831,7 @@ params:
   - David Coronswet
   - David Daker
   - David Duchovny
+  - David Freyne
   - David Harbour
   - David Hare
   - David Hedison
@@ -1165,6 +1167,7 @@ params:
   - English language
   - Enola Holmes
   - Enola Holmes 2
+  - Enola Holmes 3
   - Environment
   - Errol Brown
   - Esai Morales
@@ -1487,6 +1490,7 @@ params:
   - Hide
   - High Streets
   - Hillary Brooke
+  - Himesh Patel
   - Hipgnosis
   - Hirondelle
   - His Dark Materials
@@ -2011,6 +2015,7 @@ params:
   - Logan's Run
   - Lois Partridge
   - Loius Marks
+  - Lola Petticrew
   - London
   - London Aquarium
   - London Olympics Closing Ceremony
@@ -2023,6 +2028,7 @@ params:
   - Lou Pucci
   - Louis Ashbourne Serkis
   - Louis Letterier
+  - Louis Partidge
   - Louis Tomlinson
   - Louise Fox
   - Louise Jameson
@@ -2535,6 +2541,7 @@ params:
   - Phil Collins
   - Phil Daniels
   - Phil Ford
+  - Philip Barantini
   - Philip Pullman
   - Phoebe Fox
   - Phoebe Waller Bridge
@@ -2850,6 +2857,8 @@ params:
   - Sharaz Jek
   - Sharks
   - Sharlto Copley
+  - Sharon Duncan Brewster
+  - Sharon Horgan
   - Shaun Evans
   - Shaun Levy
   - Shaya Costallion
@@ -3827,24 +3836,22 @@ params:
   - waffle
   - zombies
   relme:
-    https://draft.blogger.com/profile/16168072529186067346: true
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Supergirl review
+  last_post_title: Dating Amber (2020)
   last_post_description: ""
-  last_post_date: "2026-06-26T19:37:39+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/06/supergirl-review.html
+  last_post_date: "2026-07-12T19:22:17+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/07/dating-amber-2020.html
   last_post_categories:
-  - Craig Gillespie
-  - DC movies
-  - Eve Ridley
+  - Dating Amber
+  - David Freyne
   - Film
-  - Matthias Schoenaerts
-  - Milly Alcock
-  - Supergirl
+  - Fionn O'Shea
+  - Lola Petticrew
+  - Sharon Horgan
   last_post_language: ""
-  last_post_guid: 3246ece5e4871ae4dda0c2e12363360a
+  last_post_guid: 4277114c281e997941f0b1f6a0c53167
   score_criteria:
     cats: 5
     description: 3

@@ -10,7 +10,7 @@ params:
     https://blog.mikeswanson.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -19,9 +19,6 @@ params:
   - title: Development Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
     description: ""
     id: 26254e76c799d5ec67d183472d72e563
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -29,18 +26,6 @@ params:
   recommender: []
   categories:
   - Posts
-  - annoying
-  - backseat
-  - enshittification
-  - frustration
-  - interruptions
-  - notifications
-  - onboarding
-  - products
-  - prompts
-  - quality
-  - software
-  - technology
   relme: {}
   last_post_title: Backseat Software
   last_post_description: 'What if your car worked like so many apps? You’re driving
@@ -50,18 +35,6 @@ params:
   last_post_link: https://blog.mikeswanson.com/backseat-software/
   last_post_categories:
   - Posts
-  - annoying
-  - backseat
-  - enshittification
-  - frustration
-  - interruptions
-  - notifications
-  - onboarding
-  - products
-  - prompts
-  - quality
-  - software
-  - technology
   last_post_language: ""
   last_post_guid: 64762dfff7311897e7c7deb0190f71c5
   score_criteria:
@@ -70,13 +43,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

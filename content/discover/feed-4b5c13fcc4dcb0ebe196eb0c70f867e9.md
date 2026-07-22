@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://aimerneige.com/zh/: true
-  last_post_title: Install Atlas
-  last_post_description: F**k Windows Upgrade to Atlas
-  last_post_date: "2024-02-06T08:06:29Z"
-  last_post_link: https://aimerneige.com/zh/post/others/install-atlas/
+  last_post_title: 使用 Linux TPM 托管 SSH 密钥和 Git 签名
+  last_post_description: 记录在 Linux 设备上使用 TPM 生成 SSH key、配置 ssh-tpm-agent，以及它和指纹识别、磁盘加密的关系
+  last_post_date: "2026-07-12T18:11:00+08:00"
+  last_post_link: https://aimerneige.com/zh/post/linux/use-tpm-for-ssh-and-git-signing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ecb4c2e6852e8e24ee022ea108eeebcd
+  last_post_guid: 4d38830984ccca2b9e0f18fe64ec8da4
   score_criteria:
     cats: 0
     description: 3

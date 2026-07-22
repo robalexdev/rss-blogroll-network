@@ -15,21 +15,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - typetype
-  - youtube
+  - Chatto
   - 学无止境
+  - 聊天
+  - 聊天应用
+  - 聊天系统
+  - 聊天软件
   relme: {}
-  last_post_title: 自建视频聚合平台TypeType（支持B站/油管/NicoNico）
-  last_post_description: TypeType功能： 通过自托管的 Web 应用程序播放 YouTube、NicoNico 和 BiliBili
-    视频。
-  last_post_date: "2026-06-13T22:32:10Z"
-  last_post_link: https://lala.im/10176.html
+  last_post_title: Chatto自托管聊天服务部署指南
+  last_post_description: Chatto是一款功能齐全的基于Web的聊天应用程序，您可以使用自己的服务器来托管它。 Chatto主要特点：
+  last_post_date: "2026-07-11T09:44:19Z"
+  last_post_link: https://lala.im/10226.html
   last_post_categories:
-  - typetype
-  - youtube
+  - Chatto
   - 学无止境
+  - 聊天
+  - 聊天应用
+  - 聊天系统
+  - 聊天软件
   last_post_language: ""
-  last_post_guid: 03e15872ea29f93815873a4961cf9bcd
+  last_post_guid: 9ae497f514db1196836650081bb51212
   score_criteria:
     cats: 0
     description: 3

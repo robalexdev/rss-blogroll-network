@@ -47,6 +47,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 72
-  avgpostlen: 245
+  postcount: 20
+  avgpostlen: 227
 ---

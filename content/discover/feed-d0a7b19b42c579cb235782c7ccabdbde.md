@@ -10,27 +10,24 @@ params:
     https://quantumfrontiers.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Reflections
   relme: {}
-  last_post_title: Nicole’s guide to handling failure and rejection
-  last_post_description: It’s happening.  Your inbox registers an email from the chair
-    of a faculty-hiring committee. With trembling fingers, you click on the message.
-    “We’ve been grateful for the opportunity to learn
-  last_post_date: "2026-05-21T00:20:32Z"
-  last_post_link: https://quantumfrontiers.com/2026/05/20/nicoles-guide-to-handling-failure-and-rejection/
+  last_post_title: My friend Mark Wise
+  last_post_description: Mark Wise, the John A. McCone Professor of High Energy Physics
+    at Caltech, passed away on July 10 at age 72. At a recent memorial service, John
+    Preskill made these remarks. I’m John Preskill,
+  last_post_date: "2026-07-18T14:51:44Z"
+  last_post_link: https://quantumfrontiers.com/2026/07/18/my-friend-mark-wise/
   last_post_categories:
-  - Uncategorized
+  - Reflections
   last_post_language: ""
-  last_post_guid: d9815aef3a2eee8f8febe309fa7a869c
+  last_post_guid: 2d45a19c1090f40fc22aea5c29683d7d
   score_criteria:
     cats: 0
     description: 3

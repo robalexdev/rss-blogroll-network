@@ -7,19 +7,18 @@ params:
   feedlink: https://adactio.com/journal/rss
   feedtype: rss
   feedid: 90a89da6bc4dc3f55e0d432b9bbdf505
-  websites:
-    https://adactio.com/articles/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
     description: ""
     id: 3ab37f775eca10153e3c7a600b2fbe77
-  - title: Chris Burnell Blogroll
+  - title: A list of sites Ethan likes
     description: ""
-    id: 7becef5fc95d0b51be024a2830568f06
+    id: 796603efcff00ba474bbbd88e566b727
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -44,30 +43,59 @@ params:
     id: 03553abc85517218f421d95a82a6f691
   recommended: []
   recommender:
-  - https://chrisburnell.com/feed.xml
   - https://simonbc.com/feed.xml
   categories:
-  - book
-  - ireland
-  - review
-  - short
-  - stories
+  - a11y
+  - accessibility
+  - ai
+  - alt
+  - coding
+  - development
+  - ethics
+  - frontend
+  - generative
+  - huggingface
+  - images
+  - machinelearning
+  - models
+  - photos
+  - programming
+  - python
+  - script
+  - text
+  - thesession
+  - transformation
   relme: {}
-  last_post_title: Stories Of Ireland by Brian Friel
+  last_post_title: Image to text
   last_post_description: |-
-    This is a collection of short stories by one of Ireland’s best playwrights.
+    At The Web You Want event in Amsterdam last month, Léonie gave an absolutely fantastic talk. You can now read the whole thing: Accessibility is resistance!
 
-    I think you can tell that these stories were written by someone who’s at home with the stage. The dialogue really
-  last_post_date: "2026-06-17T19:18:29Z"
-  last_post_link: https://adactio.com/journal/22619
+    She makes the very good point that
+  last_post_date: "2026-07-15T20:08:34Z"
+  last_post_link: https://adactio.com/journal/22657
   last_post_categories:
-  - book
-  - ireland
-  - review
-  - short
-  - stories
+  - a11y
+  - accessibility
+  - ai
+  - alt
+  - coding
+  - development
+  - ethics
+  - frontend
+  - generative
+  - huggingface
+  - images
+  - machinelearning
+  - models
+  - photos
+  - programming
+  - python
+  - script
+  - text
+  - thesession
+  - transformation
   last_post_language: ""
-  last_post_guid: cef894a68ab04aa3aafc1f1795616839
+  last_post_guid: cf175668248272bf8726cb7e4ecf25a8
   score_criteria:
     cats: 0
     description: 3
@@ -79,8 +107,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

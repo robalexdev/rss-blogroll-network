@@ -17,14 +17,18 @@ params:
   categories:
   - Auto News
   relme: {}
-  last_post_title: 用M4跑本地模型？Hacker News上的这波操作值得深思
-  last_post_description: 在Hacker
-  last_post_date: "2026-05-11T03:03:37Z"
-  last_post_link: https://topstip.com/m4-local-model-hacker-news-operation-thoughtful/
+  last_post_title: 山西煤矿惨剧：这次的教训有多沉重？
+  last_post_description: !!binary |
+    ODLmnaHnlJ/lkb3mtojpgJ3lnKjlsbHopb/nmoTnn7/kupXkuIvvvIwy5Lq65LuN5p2z5p
+    eg6Z+z6K6v77yM6L+Z5Liq5pWw5a2X5Ya35Yaw5Yaw5Zyw5oyC5Zyo5oqW6Z+z54Ot5pCc
+    5qac55qE56ys5LiA5L2N44CC5pWw5a2X6IOM5ZCO77yM5piv5peg5pWw5a625bqt55qE5p
+    KV5b+D6KOC6IK644CC6Z2i5a+56L+Z5qC355qE5oOo5Ymn77yM5oiR5Ls=
+  last_post_date: "2026-05-23T23:03:28Z"
+  last_post_link: https://topstip.com/shanxi-coal-mine-tragedy-lessons-learned/
   last_post_categories:
   - Auto News
   last_post_language: ""
-  last_post_guid: 0341e39280ec43640c380d1ce74c1ba9
+  last_post_guid: 25459b5fc4c22bb6bbedbaf9309f722b
   score_criteria:
     cats: 0
     description: 3

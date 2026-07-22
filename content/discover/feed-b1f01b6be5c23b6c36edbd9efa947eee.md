@@ -10,7 +10,7 @@ params:
     https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: How to Solve AI's Messaging Problem
-  last_post_description: |-
-    Today, AI is being framed as an entity that takes away things: jobs, chips, energy, water, or even creativity. Right as the major labs are about to go public.
-    It has become such a divisive technology
-  last_post_date: "2026-06-09T19:44:00Z"
-  last_post_link: https://molodtsov.me/2026/06/how-to-solve-ai-s-messaging-problem/
+  last_post_title: On Moral Panics
+  last_post_description: “There is not the slightest doubt that bicycle riding, if
+    persisted in, leads to weakness of mind, general lunacy, and homicidal mania,”
+    says The New York Times article titled “Lunacy in
+  last_post_date: "2026-07-06T16:45:56+01:00"
+  last_post_link: https://molodtsov.me/2026/07/on-moral-panics/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a30f8b58e568c6e2ab5111df9ee3f3a1
+  last_post_guid: f5ab68e9454cc0f860abfc9dbaa63f17
   score_criteria:
     cats: 0
     description: 3

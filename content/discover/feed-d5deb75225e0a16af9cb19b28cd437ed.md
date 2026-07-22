@@ -11,7 +11,7 @@ params:
     https://map.simonsarris.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,14 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Veganism and Moral Intuitions
-  last_post_description: Inspecting some ethical claims, in the hope you might revisit
-    some of your own intuitions
-  last_post_date: "2026-06-24T02:05:32Z"
-  last_post_link: https://map.simonsarris.com/p/veganism-and-moral-intuitions
+  last_post_title: Fujifilm X100 vs Leica Q vs Ricoh GR
+  last_post_description: Notes on three fixed-lens camera lines
+  last_post_date: "2026-07-18T22:24:50Z"
+  last_post_link: https://map.simonsarris.com/p/fujifilm-x100-vs-leica-q-vs-ricoh
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8b98f52d89bcc3e5998638e2aae385b9
+  last_post_guid: ed5e36e8a21955b4224774307434c911
   score_criteria:
     cats: 0
     description: 3

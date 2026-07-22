@@ -1,6 +1,6 @@
 ---
 title: Nerdly Pleasures
-date: "2026-06-28T14:35:00-04:00"
+date: "2026-07-12T10:28:44-04:00"
 description: You say "obsessed" as if it is a bad thing.
 params:
   feedlink: https://feeds.feedburner.com/NerdlyPleasures
@@ -132,16 +132,16 @@ params:
   relme:
     https://nerdlypleasures.blogspot.com/: true
     https://www.blogger.com/profile/04409413307024477304: true
-  last_post_title: Adapting Apple's RGB Color Monitor for Analogue & MiSTer
+  last_post_title: Taking Color out of the Color Graphics Adapter
   last_post_description: ""
-  last_post_date: "2026-05-07T01:14:50-04:00"
-  last_post_link: http://nerdlypleasures.blogspot.com/2026/05/adapting-apples-rgb-color-monitor-for.html
+  last_post_date: "2026-07-11T18:33:36-04:00"
+  last_post_link: http://nerdlypleasures.blogspot.com/2026/07/taking-color-out-of-color-graphics.html
   last_post_categories:
-  - Apple II
-  - FPGA Console
-  - Game Video
+  - IBM PC
+  - Monochrome & Hercules Graphics
+  - Tandy 1000
   last_post_language: ""
-  last_post_guid: c052a867823c1339f08093f45ef2a170
+  last_post_guid: 8b4d78b002edf2a06d2a1174a85bb50b
   score_criteria:
     cats: 5
     description: 3

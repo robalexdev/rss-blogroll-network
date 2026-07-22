@@ -1,6 +1,6 @@
 ---
 title: '@gurupanguji'
-date: "2026-06-28T20:51:18Z"
+date: "2026-07-21T14:18:10Z"
 description: Photography reviews, visual essays, and blog writing.
 params:
   feedlink: https://gurupanguji.com/feed.xml
@@ -29,18 +29,19 @@ params:
   - opinion
   - ramblings
   relme: {}
-  last_post_title: "\U0001F517 I was obsessed with money… then I found philosophy"
-  last_post_description: They rush through everything. Not because they need to, but
-    because slowing down means confronting an emptiness they’ve been running from.
-  last_post_date: "2026-06-28T12:00:00Z"
-  last_post_link: https://gurupanguji.com/blog/2026/06/28/i-was-obsessed-with-money-then-i-found-philosophy/
+  last_post_title: More support for Helium
+  last_post_description: I generally try and avoid Chromium-based browsers. I use
+    Vivaldi quite a lot, because I’m keen to encourage European-based development
+    and because (especially in its latest release) it’s super
+  last_post_date: "2026-07-21T12:00:00Z"
+  last_post_link: https://gurupanguji.com/blog/2026/07/21/more-support-for-helium/
   last_post_categories:
   - clippings
   - external
   - opinion
   - ramblings
   last_post_language: ""
-  last_post_guid: 7ccda4f72b3aa0d262aca1302499c363
+  last_post_guid: a2d19143bd21c6208f31713dcffa86d7
   score_criteria:
     cats: 0
     description: 3
@@ -59,5 +60,5 @@ params:
   innetwork: true
   language: ""
   postcount: 50
-  avgpostlen: 278
+  avgpostlen: 276
 ---

@@ -16,28 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AEC
-  - IC 設計
-  - 半導體
-  - 專欄
-  - 能源動力
-  - 車用電子
-  - 電腦資訊
+  - 老化
+  - 醫療健康
+  - 骨折
+  - 骨質疏鬆
   relme: {}
-  last_post_title: 車用晶片要求超嚴格！沒有工廠的IC設計公司，該怎麼讓一線車廠點頭買單？
-  last_post_description: 想打入熱門的車用半導體供應鏈，對沒有自家晶圓廠的 IC 設計公司來說，最大的挑戰就是：如何向一線車廠證明自家的晶片具備零缺陷（Zero
-  last_post_date: "2026-06-26T05:44:39Z"
-  last_post_link: https://pansci.asia/archives/381511
+  last_post_title: 爸媽縮水不是老態！當心沉默殺手「骨質疏鬆」，熟記駝、矮、痛3招防骨折
+  last_post_description: !!binary |
+    54i45aq957iu5rC044CB6aed6IOM5Lim6Z2e6Ieq54S26ICB5YyW77yM55W25b+D5piv6a
+    qo6LOq55aP6ayG5oO556aN77yB6aqo6ayG5piT6Ie06aqo5oqY5aSx6IO977yM55Sa6Iez
+    5aiB6ISF55Sf5ZG944CC5b+r55So44CM6aed44CB55+u44CB55eb44CN5LiJ5oub5bmr6Z
+    W36Lyp5qqi5ris77yM5Y+K5pep5a6J5o6S6aqo5a+G5bqm5qqi5p+l6Ig=
+  last_post_date: "2026-07-09T00:00:49Z"
+  last_post_link: https://pansci.asia/archives/381534
   last_post_categories:
-  - AEC
-  - IC 設計
-  - 半導體
-  - 專欄
-  - 能源動力
-  - 車用電子
-  - 電腦資訊
+  - 老化
+  - 醫療健康
+  - 骨折
+  - 骨質疏鬆
   last_post_language: ""
-  last_post_guid: f06fa246605e937555861777740a80ef
+  last_post_guid: 5c9a26bd0390401357b94eb264feb1c7
   score_criteria:
     cats: 0
     description: 3

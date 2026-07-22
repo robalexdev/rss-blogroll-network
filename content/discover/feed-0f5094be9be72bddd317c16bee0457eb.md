@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-06-28T17:49:45-04:00"
+date: "2026-07-11T20:45:11-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -473,6 +473,7 @@ params:
   - Oil
   - Oisín Curran
   - Oliver Fugler
+  - Olivia Laing
   - Olivier Assayas
   - One Yes & Many Know
   - Oral Method
@@ -603,6 +604,7 @@ params:
   - Sven Lutticken
   - Sven Lütticken
   - Sven Åge Birkeland
+  - Sylvie Lachance
   - Sylvère Lotringer
   - T.J. Clark
   - THEESatisfaction
@@ -686,17 +688,18 @@ params:
   - the big beautiful bill
   - Öyvind Fahlström
   relme: {}
-  last_post_title: one big project per year
+  last_post_title: '"...even more immediacy, connection, and public life in art and
+    in performance."'
   last_post_description: ""
-  last_post_date: "2026-06-28T17:49:45-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/06/one-big-project-per-year.html
+  last_post_date: "2026-07-11T20:40:17-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/07/even-more-immediacy-connection-and.html
   last_post_categories:
-  - Desire Without Expectation
-  - How Does Change Happen?
+  - Geneviève Robichaud
   - PME-ART
-  - The Air Contains Honey
+  - Quotes
+  - Sylvie Lachance
   last_post_language: ""
-  last_post_guid: fb9de370a11de01618f70e0b48dcf74b
+  last_post_guid: bb34964ee103a3ff6173ee45ee935be5
   score_criteria:
     cats: 5
     description: 0
@@ -715,5 +718,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 257
+  avgpostlen: 277
 ---

@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2026-03-28T22:32:52Z"
+date: "2026-07-21T11:31:30Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml
@@ -9,12 +9,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Mayx Blogroll
-    description: ""
-    id: 5fffc50926876056bde70973d462a6cf
-  - title: Mayx Blogroll
-    description: ""
-    id: 74d419ad47375950f8898bd6e9ad9734
   - title: FreshRSS
     description: ""
     id: 5a1c6ae0431c53f45dd7baba3b6f2126
@@ -28,9 +22,7 @@ params:
     description: ""
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
-  recommender:
-  - https://mabbs.github.io/atom.xml
-  - https://mayx.eu.org/atom.xml
+  recommender: []
   categories: []
   relme: {}
   last_post_title: 开源项目的「死与新生」

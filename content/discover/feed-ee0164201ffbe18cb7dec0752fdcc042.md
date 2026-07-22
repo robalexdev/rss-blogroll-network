@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-06-28T08:17:17-07:00"
+date: "2026-07-11T19:54:51-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,8 +24,6 @@ params:
   - .O.rang
   - 100percent SILK
   - 10TH ANNIVERSARY OF PUNK
-  - "1969"
-  - "1970"
   - "1974"
   - "1979"
   - 1980S
@@ -113,7 +111,6 @@ params:
   - AUTECHRE
   - AUTHORITARIANISM
   - AUTO-TUNE
-  - AUTOBIOGRAPHY
   - AUTOTUNE
   - AVANT-ROCK
   - AVANTFUNK
@@ -157,7 +154,6 @@ params:
   - BLAME & JUSTICE
   - BLEEP
   - BLEEP 'N' BASS
-  - BLISS ROCK
   - BLISSED OUT
   - BLISSROCK
   - BLUE ORCHIDS
@@ -178,7 +174,6 @@ params:
   - BRITT BROWN
   - BRUCE STERLING
   - BRUZA
-  - BUTTERFLY CHILD
   - BUTTHOLE SURFERS
   - BUZZCOCKS
   - BY THE TIME I GET TO ARIZONA
@@ -209,7 +204,6 @@ params:
   - CLASSICAL MUSIC
   - CLOCK DVA
   - COCTEAU TWINS
-  - COLDWAVE
   - COMEDY AND ROCK
   - COMPANY FLOW
   - COMSAT ANGELS
@@ -221,7 +215,6 @@ params:
   - COSMOPOLITANISM
   - COUNTERFACTUALS
   - COVER VERSIONS
-  - CRANES
   - CRASS
   - CRISTINA
   - CRITICISM
@@ -244,7 +237,6 @@ params:
   - DARA
   - DARK STAR
   - DARKSIDE
-  - DARKWAVE
   - DAVE BALL
   - DAVID BOWIE
   - DAVID LYNCH
@@ -287,7 +279,6 @@ params:
   - DONALD KUSPIT
   - DOOMSCROLLING
   - DRAKE
-  - DREAMPOP
   - DRIFT AND DISCOVERY
   - DRUM AND BASS
   - DRY CLEANING
@@ -316,13 +307,11 @@ params:
   - ENERGY FLASH
   - ENGINEER-POET
   - ENGLANDS DREAMING
-  - ENGLISHNESS
   - ENTROPY IN THE UK
   - EON
   - ERNEST HOOD
   - ERYKAH BADU
   - ESCAPE VELOCITY
-  - ETHEREAL
   - EULOGIES
   - EUROHARDCORE CONTINUUM
   - EVE
@@ -331,7 +320,6 @@ params:
   - EXOTICA
   - EXTREME METAL
   - Ezequiel Fanego
-  - FACEBOOK
   - FACTORY
   - FACTORY BENELUX
   - FAIRY TALE VIEW OF UK
@@ -350,13 +338,11 @@ params:
   - FRANK KOGAN
   - FRANKIE GOES TO HOLLYWOOD
   - FRANKIE ROSE
-  - FREAKBEAT
   - FREDRIC JAMESON
   - FREQUENCIES
   - FUN HOUSE
   - FUNK METAL
   - FUNKADELIC
-  - FUSE
   - FUTURISM
   - GABBA
   - GABBER
@@ -396,8 +382,8 @@ params:
   - GRUNGE
   - GUITAR SOLOS
   - GUNS N ROSES
+  - GUY DEBORD
   - Grieta Mag
-  - H.ARK
   - HACIENDA
   - HAPPY FLOWERS
   - HAPPY HARDCORE
@@ -478,9 +464,7 @@ params:
   - JIM STEINMAN
   - JIMI HENDRIX
   - JOE BOYD
-  - JOE CASSIDY
   - JOEY BELTRAM
-  - JOHN BRANNON
   - JOHN ENTWISTLE
   - JOHN LENNON
   - JOHN LYDON
@@ -489,13 +473,11 @@ params:
   - JOHN OSWALD
   - JOHN PEEL
   - JOHN ROBB
-  - JOHN'S CHILDREN
   - JOHNNY ROTTEN
   - JON BROOKS
   - JON HASSELL
   - JON SAVAGE
   - JONAS BARISH
-  - JONATHAN SELZER
   - JONNY TRUNK
   - JOSEF K
   - JOUISSANCE
@@ -542,7 +524,6 @@ params:
   - LARGEHEARTED BOY
   - LATE POSTPUNK
   - LATE REGISTRATION
-  - LAUGHING HYENAS
   - LAURIE ANDERSON
   - LAWRENCE GROSSBERG
   - LCD SOUNDSYSTEM
@@ -603,7 +584,6 @@ params:
   - MELODY MAKER
   - MELODY MAKER 1986
   - MELODY MAKER 1987
-  - MELODY MAKER 1989
   - MELODY MAKER 1990
   - MELODY MAKER 1991
   - MELODY MAKER 1993
@@ -612,7 +592,6 @@ params:
   - MEMORADELIA
   - MEMORY
   - MENTASM
-  - MERCURY REV
   - MESSIAH
   - METAL BOX
   - MICHAEL JACKSON
@@ -621,7 +600,6 @@ params:
   - MISSY ELLIOTT
   - MO WAX
   - MO' WAX
-  - MOD
   - MODERNISM
   - MOKUM
   - MONITOR
@@ -650,7 +628,6 @@ params:
   - NARCISSISM
   - NARCISSISTIC PERSONALITY DISORDER
   - NAZISM
-  - NEGATIVE APPROACH
   - NEIGHBOURHOODS
   - NEIL COOPER
   - NERD
@@ -663,7 +640,6 @@ params:
   - NEW WAVE OF NEW WAVE
   - NEW YORK
   - NEW YORK TIMES
-  - NEW ZEALAND
   - NICK CAVE
   - NICK CAVE AND THE BAD SEEDS
   - NIK COHN
@@ -683,7 +659,6 @@ params:
   - NOTES FOR A STUDY OF NEW WAVE
   - NOTES ON THE NOUGHTIES
   - NPR
-  - NUGGETS
   - Neptunes
   - OBITUARIES
   - OBSERVER MUSIC MONTHLY
@@ -693,7 +668,6 @@ params:
   - OUTKAST
   - OZZY OSBOURNE
   - October 29 1988
-  - PAPA SPRAIN
   - PARLIAMENT
   - PARODY
   - PASTICHE
@@ -719,7 +693,6 @@ params:
   - PIRATE RADIO ADVERTS
   - PIRATE TAPES
   - PITCHFORK
-  - PIXIES
   - PLAID
   - PLANET MU
   - PLAYGROUP
@@ -795,7 +768,6 @@ params:
   - RIKO
   - RIP
   - RIP MARK BELL
-  - RIP MARTIN PHILLIPPS
   - RISKY ROADZ
   - ROAD TO DAMASCUS MOMENTS
   - ROB HAIGH
@@ -826,22 +798,19 @@ params:
   - SCRITTI POLITTI
   - SEEFEEL
   - SELECTED AMBIENT WORKS
-  - SELF NON SELF
   - SEX PISTOLS
   - SEX REVOLTS
   - SHEFFIELD
-  - SHEL TALMY
   - SIGHT AND SOUND
   - SILVER APPLES
   - SILVER RECORDS
   - SILVERFISH
   - SIMON BIDDELL
-  - SIMON PRICE
   - SINEAD O CONNOR
   - SINGING
-  - SINGLES PAGE
   - SIOUXSIE
   - SIOUXSIE AND THE BANSHEES
+  - SITUATIONISM
   - SKA
   - SKINNY BOYS
   - SKINNY PUPPY
@@ -850,6 +819,7 @@ params:
   - SLY AND THE FAMILY STONE
   - SLY STONE
   - SMASH
+  - SOCIETY OF THE SPECTACLE
   - SOHO
   - SOLID AIR
   - SONGWRITING
@@ -862,7 +832,6 @@ params:
   - SST
   - SST RECORDS
   - STANKONIA
-  - STEREOLAB
   - STEVE ALBINI
   - STEWART HOME
   - STORAGE WARS
@@ -900,20 +869,14 @@ params:
   - THE BLACK DOG
   - THE BLACK EYED PEAS
   - THE BLUEPRINT
-  - THE BRITISH CONTRIBUTION TO ROCK
   - THE CARETAKER
-  - THE CHILLS
   - THE CLASH
   - THE CLEAN
-  - THE CLEMENT GREENBERG OF ROCKWRITE
   - THE CORONATION
   - THE CRAMPS
-  - THE CREATION
   - THE CURE
   - THE DEEEP
-  - THE EASYBEATS
   - THE EXTRAS
-  - THE EYES
   - THE FALL
   - THE FEELIES
   - THE FOCUS GROUP
@@ -1012,7 +975,6 @@ params:
   - VILLAGE VOICE
   - VILLALOBOS
   - VINTAGE
-  - VIOLENCE
   - VIRGIN RECORDS
   - VIVIEN GOLDMAN
   - VIVIsectVI
@@ -1057,7 +1019,6 @@ params:
   - christmas
   - chuck eddy
   - comus
-  - cultural coleslaw
   - david byrne
   - disco
   - durutti column
@@ -1078,7 +1039,6 @@ params:
   - masters of reality
   - music writing
   - my life in the bush of ghosts
-  - negativland
   - new weird america
   - post-rock
   - ps
@@ -1105,7 +1065,6 @@ params:
   - the nineties
   - thinking about music
   - tom waits
-  - vini reilly
   - vintage chic
   - wooden wand
   - zapp
@@ -1116,7 +1075,6 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
-    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -1150,30 +1108,33 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Robert Wyatt
+  last_post_title: Take Care
   last_post_description: ""
-  last_post_date: "2026-06-09T18:25:02-07:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/06/robert-wyatt.html
-  last_post_categories: []
+  last_post_date: "2026-07-05T13:44:09-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/07/take-care.html
+  last_post_categories:
+  - HAUNTOLOGY
+  - JAMES KIRBY
+  - THE CARETAKER
   last_post_language: ""
-  last_post_guid: 6d0d5e3d86ab8e46731599c5afaa6412
+  last_post_guid: 15181d02a0835cc33b1d5ae0b9375b47
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 269
+  avgpostlen: 280
 ---

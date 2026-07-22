@@ -10,12 +10,9 @@ params:
     https://somethingaboutmaps.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -24,16 +21,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Urban Relativity
-  last_post_description: It’s been a good while since I wrote a tutorial, so let’s
-    take a moment to learn something new! Today, I’ll show you a way to create scale
-    rankings for cities. This is a technique I have been
-  last_post_date: "2026-03-23T21:59:55Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2026/03/23/urban-relativity/
+  last_post_title: On Sin
+  last_post_description: To make maps, we must sin against the landscape. We distort
+    the earth’s roundness, and we simplify complex realities down to a series of colors
+    and symbols. Ancient trees become a scattering of
+  last_post_date: "2026-07-20T01:27:05Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/07/19/on-sin/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 1560d5ef91aac25c21557427d175d370
+  last_post_guid: d9472ba503b1a79dff96d36cf1cb845d
   score_criteria:
     cats: 0
     description: 0

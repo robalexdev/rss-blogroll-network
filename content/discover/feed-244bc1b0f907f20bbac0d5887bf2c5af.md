@@ -19,8 +19,7 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
   - AI Coding
   - Frontier

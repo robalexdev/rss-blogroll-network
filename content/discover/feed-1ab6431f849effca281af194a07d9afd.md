@@ -1,13 +1,12 @@
 ---
 title: 大象笔记
-date: "2026-06-29T05:30:48+08:00"
+date: "2026-07-22T05:48:35+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
   feedtype: atom
   feedid: 1ab6431f849effca281af194a07d9afd
-  websites:
-    https://www.sunzhongwei.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: FreshRSS
@@ -20,13 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Magento 服务器负载居高不下问题排除系列之二，屏蔽恶意爬虫
-  last_post_description: 之前整理了一期 [Magento 服务器负载居高不下问题排除](https://www.sunzhongwei.com/troubleshooting-issue-of-high-load-magento-server)，没想到观察了几天发
-  last_post_date: "2026-06-28T13:21:31+08:00"
-  last_post_link: https://www.sunzhongwei.com/magento-server-high-load-problem-elimination-series-2-blocking-malicious-crawlers
+  last_post_title: Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg
+  last_post_description: 想在一个现有的 golang 后台服务里增加一个 Excel 文件转换 PDF 的功能。但是调研了一圈，并没有很好的
+    golang 或者 Python
+  last_post_date: "2026-07-19T11:20:32+08:00"
+  last_post_link: https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 98410b33f567b4e448fb0e2bf160767f
+  last_post_guid: 24a05ddf9ede4057a3ba938832e6481d
   score_criteria:
     cats: 0
     description: 3
@@ -38,12 +38,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 18
+    website: 0
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 257
+  avgpostlen: 251
 ---

@@ -1,6 +1,6 @@
 ---
 title: I Hear of Sherlock Everywhere
-date: "2026-06-28T12:54:48-04:00"
+date: "2026-07-12T12:50:19-04:00"
 description: The definitive Sherlock Holmes show and website at the intersection of
   news and popular culture.
 params:
@@ -167,28 +167,29 @@ params:
   - travel
   - video
   relme: {}
-  last_post_title: Baker Street Elementary – FDS
+  last_post_title: 'Episode 337: The Great Game'
   last_post_description: ""
-  last_post_date: "2026-06-28T12:54:25-04:00"
-  last_post_link: https://feeds.feedblitz.com/~/958637618/0/ihearofsherlock.html
+  last_post_date: "2026-06-30T23:53:24-04:00"
+  last_post_link: https://feeds.feedblitz.com/~/958814738/0/ihearofsherlock.html
   last_post_categories:
-  - Baker Street Elementary
-  - blog
+  - episodes
+  - interview
+  - pastiche
   last_post_language: ""
-  last_post_guid: 92452fddcf82ff5c4e6a89f4f7622551
+  last_post_guid: 325461abea7ee6e30e2975474118c30c
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 24
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

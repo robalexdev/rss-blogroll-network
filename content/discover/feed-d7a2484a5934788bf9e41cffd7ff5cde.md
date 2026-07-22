@@ -10,7 +10,7 @@ params:
     https://nemanjatrifunovic.substack.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Peak and Collapse of Digital Research
-  last_post_description: The History of the Decline and Fall of Digital Research Inc
-  last_post_date: "2026-06-28T17:07:45Z"
-  last_post_link: https://nemanjatrifunovic.substack.com/p/the-peak-and-collapse-of-digital
+  last_post_title: StarLink from 1984
+  last_post_description: In good old times, StarLink was a board that turned an IBM
+    PC into a multiuser system.
+  last_post_date: "2026-07-11T22:04:55Z"
+  last_post_link: https://nemanjatrifunovic.substack.com/p/starlink-from-1984
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 822705b1c793b0dd8d988f4e678b790d
+  last_post_guid: c5ca9c668c9930d4cf602ea36b06b397
   score_criteria:
     cats: 0
     description: 3

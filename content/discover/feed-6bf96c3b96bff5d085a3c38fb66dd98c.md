@@ -6,8 +6,7 @@ params:
   feedlink: https://www.evennotes.cn/atom.xml
   feedtype: atom
   feedid: 6bf96c3b96bff5d085a3c38fb66dd98c
-  websites:
-    https://www.evennotes.cn/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: FreshRSS
@@ -45,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 17
+    website: 0
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

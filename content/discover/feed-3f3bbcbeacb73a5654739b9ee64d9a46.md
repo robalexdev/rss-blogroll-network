@@ -1,6 +1,6 @@
 ---
 title: The Pub Curmudgeon
-date: "2026-06-28T16:20:34+01:00"
+date: "2026-07-02T05:02:39+01:00"
 description: A jaundiced view of life from the darkest recess of the saloon bar...
 params:
   feedlink: https://pubcurmudgeon.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://pubcurmudgeon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,7 +22,6 @@ params:
   relme:
     https://closedpubs.blogspot.com/: true
     https://curmudgeoncolumns.blogspot.com/: true
-    https://draft.blogger.com/profile/02558747878308766840: true
     https://pubcurmudgeon.blogspot.com/: true
     https://realpubsuk.blogspot.com/: true
     https://www.blogger.com/profile/02558747878308766840: true

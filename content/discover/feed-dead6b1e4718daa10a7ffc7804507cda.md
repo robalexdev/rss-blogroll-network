@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-06-25T20:41:57-07:00"
+date: "2026-07-09T16:57:56-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -577,6 +577,7 @@ params:
   - NME 1975
   - NME 1976
   - NME 1977
+  - NME 1978
   - NME 1980
   - NME 1981
   - NME 1982
@@ -986,7 +987,6 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
-    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -1022,7 +1022,7 @@ params:
     https://www.blogger.com/profile/01282478701882900354: true
   last_post_title: Musicians review the Singles!
   last_post_description: ""
-  last_post_date: "2026-06-25T20:41:57-07:00"
+  last_post_date: "2026-07-09T16:57:13-07:00"
   last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
   last_post_categories:
   - 1980S
@@ -1056,5 +1056,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 101
+  avgpostlen: 133
 ---

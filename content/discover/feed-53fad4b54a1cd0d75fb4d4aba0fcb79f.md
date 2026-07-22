@@ -10,40 +10,35 @@ params:
     https://countingfromzero.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
+  - Culture
   - Uncategorized
-  - diabetes
-  - diet
-  - health
-  - nutrition
-  - wellness
+  - cambridge
+  - graduation
+  - kings-college
   relme: {}
-  last_post_title: Comparing OTC continuous glucose monitors
-  last_post_description: And now for something completely different! I was diagnosed
-    with type 2 diabetes about two years ago, just before SIGCSE 2024 in Portland.
-    It seems like it’s been much longer. After my PCP told me
-  last_post_date: "2026-06-25T16:13:52Z"
-  last_post_link: https://countingfromzero.blog/2026/06/25/comparing-otc-continuous-glucose-monitors/
+  last_post_title: 'Photo essay: My first graduation at King’s College Graduation'
+  last_post_description: This week, I participated in my first graduation at King’s
+    College, Cambridge. As Director of Studies for the new graduates in computer science,
+    it seemed important for me to be there. It was very
+  last_post_date: "2026-07-02T14:17:14Z"
+  last_post_link: https://countingfromzero.blog/2026/07/02/photo-essay-my-first-graduation-at-kings-college-graduation/
   last_post_categories:
+  - Culture
   - Uncategorized
-  - diabetes
-  - diet
-  - health
-  - nutrition
-  - wellness
+  - cambridge
+  - graduation
+  - kings-college
   last_post_language: ""
-  last_post_guid: 6e5f38055ff67849e91631379f4eec96
+  last_post_guid: a946588b884ed0ee3425bf966883f407
   score_criteria:
     cats: 0
     description: 3

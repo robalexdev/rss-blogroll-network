@@ -25,6 +25,9 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
+  - title: Links for Josh Betz
+    description: ""
+    id: e95f4bbd4e48a622672e6ca597d8f4b3
   - title: All RSS Subscriptions for bestblogs.dev
     description: ""
     id: 151d7b0ce1ff661eac57b594dbb6c5aa
@@ -42,25 +45,35 @@ params:
     id: 569a496b78951329c0069eafd7755a79
   recommended: []
   recommender:
-  - http://scripting.com/rss.xml
+  - https://josh.blog/feed
   categories:
-  - Open Source
-  - Social impact
-  - open source
+  - AI & ML
+  - Architecture & optimization
+  - Engineering
+  - GitHub Copilot
+  - GitHub Copilot code review
+  - LLMs
+  - agentic workflows
+  - developer tools
   relme: {}
-  last_post_title: GitHub and UNDP team up to advance development priorities in Ghana
-    with open source
-  last_post_description: "GitHub joined the United Nations Development Programme in
-    Ghana to explore how open source governance can support one of West Africa's most
-    ambitious digital reform efforts. \nThe post GitHub and UNDP"
-  last_post_date: "2026-06-26T16:53:57Z"
-  last_post_link: https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/
+  last_post_title: Better tools made Copilot code review worse. Here’s how we actually
+    improved it.
+  last_post_description: |-
+    How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.
+    The post Better tools made Copilot code
+  last_post_date: "2026-07-10T15:57:47Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/
   last_post_categories:
-  - Open Source
-  - Social impact
-  - open source
+  - AI & ML
+  - Architecture & optimization
+  - Engineering
+  - GitHub Copilot
+  - GitHub Copilot code review
+  - LLMs
+  - agentic workflows
+  - developer tools
   last_post_language: ""
-  last_post_guid: c0381039c544dd819ebc7e9b6ec61ba9
+  last_post_guid: 60a3eaa2e6343611ff105951ec201f4c
   score_criteria:
     cats: 0
     description: 3

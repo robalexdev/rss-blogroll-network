@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: The Boston Watch Party
-  last_post_description: We’re in a sort of watch party for a season when World Cup
-    soccer, championship basketball, sports of every kind, all seem to run deeper,
-    more believable, much better played than the rest of our ..
-  last_post_date: "2026-06-19T01:03:27Z"
-  last_post_link: https://radioopensource.org/the-boston-watch-party/
+  last_post_title: After the Fireworks
+  last_post_description: 'We’re still in the Fourth of July spirit around the 250th
+    birthday of our nation, hooked in particular by one grand American historian’s
+    question to it: is the United States on the road to a ...'
+  last_post_date: "2026-07-09T19:14:11Z"
+  last_post_link: https://radioopensource.org/after-the-fireworks/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 054ed037d5b837de757eb36699c85da8
+  last_post_guid: 976846f8c93fba895a7dc316cfe0f171
   score_criteria:
     cats: 1
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: ananya ayasi
-date: "2026-06-28T22:29:47Z"
+date: "2026-07-12T19:34:30Z"
 description: |-
   Hello! I am Ananya Ayasi.
 
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 3
-  avgpostlen: 197
+  postcount: 4
+  avgpostlen: 151
 ---

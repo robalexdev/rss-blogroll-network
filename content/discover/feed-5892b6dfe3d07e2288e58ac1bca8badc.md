@@ -27,26 +27,25 @@ params:
     description: ""
     id: c8f6d92430a541485f160ef920ae0896
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
-  - Block Editor
+  - Full Site Editing
   - Gutenberg
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Gutenberg Changelog #131 – Gutenberg Plugin Releases 23.1 – 23.3,
-    Calls for Testing for 7.1 and more'
-  last_post_description: In episode 131 of the Gutenberg Changelog, Birgit Pauli-Haack
-    welcomes Isabel Brison to discuss the latest developments in Gutenberg plugin
-    releases 23.1, 23.2, and 23.3, as well as progress leading
-  last_post_date: "2026-06-07T10:03:25Z"
-  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-131/
+  last_post_title: 'Gutenberg Changelog #132 – Proposals for Core, Calls for Testing,
+    WordPress 7.1 and Gutenberg 23.4 and 23.5'
+  last_post_description: In episode 132 of the Gutenberg Changelog podcast, host Birgit
+    Pauli-Haack and guest Ellen Bauer explore the latest updates within the WordPress
+    ecosystem. The conversation centers on the releases
+  last_post_date: "2026-07-12T10:57:10Z"
+  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-132/
   last_post_categories:
-  - Block Editor
+  - Full Site Editing
   - Gutenberg
   last_post_language: ""
-  last_post_guid: 436701be4a3680d783b0cbef44cafee6
+  last_post_guid: 8bb452323ecd988efb1462adcf6e8a19
   score_criteria:
     cats: 0
     description: 3

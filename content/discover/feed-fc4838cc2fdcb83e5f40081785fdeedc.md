@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-06-28T14:14:23-07:00"
+date: "2026-07-03T21:22:25-07:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml
@@ -22,13 +22,13 @@ params:
   - metal
   - poetry
   relme: {}
-  last_post_title: depresssion, and not smoking again....
+  last_post_title: Primeval maximum (the first four or five pages.)
   last_post_description: ""
-  last_post_date: "2026-06-28T14:14:23-07:00"
-  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/06/depresssion-and-not-smoking-again.html
+  last_post_date: "2026-07-03T21:22:25-07:00"
+  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/07/primeval-maximum-first-four-or-five.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 64ac7e7d1b189eb5cf0f475c5b5476ab
+  last_post_guid: dd4e2664a25465fece2ba4268ad1ae3b
   score_criteria:
     cats: 5
     description: 3
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 292
 ---

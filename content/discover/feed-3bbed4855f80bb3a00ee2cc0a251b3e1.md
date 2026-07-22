@@ -1,6 +1,6 @@
 ---
 title: Los Techies
-date: "2026-06-28T12:22:18Z"
+date: "2026-07-12T12:48:18Z"
 description: ""
 params:
   feedlink: https://feeds.feedburner.com/LosTechies
@@ -8,13 +8,9 @@ params:
   feedid: 3bbed4855f80bb3a00ee2cc0a251b3e1
   websites:
     https://lostechies.com/: true
-    https://lostechies.com/joshuaflanagan: false
     https://lostechies.com/joshuaflanagan/: false
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Frontend Dev Feeds
     description: ""
     id: 38149979474709d3c2d6dd1d0b7b71f0
@@ -47,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 296
+  avgpostlen: 294
 ---

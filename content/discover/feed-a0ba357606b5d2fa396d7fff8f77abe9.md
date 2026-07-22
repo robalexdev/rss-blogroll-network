@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-06-28T16:25:24-07:00"
+date: "2026-07-11T19:54:20-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,13 +40,13 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: Two Notebooks
+  last_post_title: HAPPY BIRTHDAY,  CORDWAINER SMITH!!!
   last_post_description: ""
-  last_post_date: "2026-06-24T05:37:31-07:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/06/two-notebooks.html
+  last_post_date: "2026-07-11T19:54:20-07:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/07/happy-birthday-cordwainer-smith.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 467f7957eeefe2679d6052c56f8abd9e
+  last_post_guid: 30dc659c1c987fb47e4b2f59e9a2f843
   score_criteria:
     cats: 5
     description: 0
@@ -65,5 +65,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 297
 ---

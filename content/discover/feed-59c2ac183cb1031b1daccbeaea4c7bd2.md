@@ -6,8 +6,7 @@ params:
   feedlink: https://flowingdata.com/feed
   feedtype: rss
   feedid: 59c2ac183cb1031b1daccbeaea4c7bd2
-  websites:
-    https://flowingdata.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: English RSS collated by MoreRSS
@@ -19,25 +18,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Data Art
-  - Elon Musk
-  - Mona Chalabi
-  - scale
-  - trillion
+  - Maps
+  - proximity
+  - walking
   relme: {}
-  last_post_title: Ridiculous trillionaire scales
-  last_post_description: 'I missed these illustrations by Mona Chalabi showing the
-    ridiculous scale of one…Tags: Elon Musk, Mona Chalabi, scale, trillion'
-  last_post_date: "2026-06-26T07:49:59Z"
-  last_post_link: https://flowingdata.com/2026/06/26/ridiculous-trillionaire-scales/
+  last_post_title: Mapping what is close to you
+  last_post_description: 'When deciding where to live, most people want to know what’s
+    nearby so…Tags: proximity, walking'
+  last_post_date: "2026-07-21T09:12:54Z"
+  last_post_link: https://flowingdata.com/2026/07/21/mapping-what-is-close-to-you/
   last_post_categories:
-  - Data Art
-  - Elon Musk
-  - Mona Chalabi
-  - scale
-  - trillion
+  - Maps
+  - proximity
+  - walking
   last_post_language: ""
-  last_post_guid: 4415df389e2e80bf0bf9104cd63a2545
+  last_post_guid: 911c3f5735a43dc8927e80e25cc58dc0
   score_criteria:
     cats: 0
     description: 3
@@ -49,8 +44,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 0
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

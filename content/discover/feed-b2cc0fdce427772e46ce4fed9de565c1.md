@@ -10,7 +10,7 @@ params:
     https://chriswarrick.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -49,7 +49,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 1
+    feedlangs: 0
     hasContent: 0
     hasPosts: 3
     postcats: 3
@@ -58,11 +58,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
+  language: ""
   postcount: 10
   avgpostlen: 0
 ---

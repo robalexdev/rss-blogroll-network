@@ -1,6 +1,6 @@
 ---
 title: West Coast Stat Views (on Observational Epidemiology and more)
-date: "2026-06-28T19:24:16-04:00"
+date: "2026-07-11T22:59:11-04:00"
 description: Comments, observations and thoughts from two bloggers on applied statistics,
   higher education and epidemiology.  Joseph is an associate professor.  Mark is a
   professional statistician and former math
@@ -684,14 +684,14 @@ params:
   - zombies
   - “Closing the Talent Gap”
   relme: {}
-  last_post_title: Another one of those stories that we really need Patrick Boyle
-    for.
+  last_post_title: A lack of qualifications is not a qualification and other thoughts
+    on Platner
   last_post_description: ""
-  last_post_date: "2026-06-26T07:30:00-04:00"
-  last_post_link: https://observationalepidemiology.blogspot.com/2026/06/another-one-of-those-stories-that-we.html
+  last_post_date: "2026-07-10T07:30:00-04:00"
+  last_post_link: https://observationalepidemiology.blogspot.com/2026/07/a-lack-of-qualifications-is-not.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0def39b447adc736a8d8d03be5b67e7d
+  last_post_guid: cbd1393b237e1c62daf7248dddafd416
   score_criteria:
     cats: 5
     description: 3
@@ -710,5 +710,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 283
+  avgpostlen: 295
 ---

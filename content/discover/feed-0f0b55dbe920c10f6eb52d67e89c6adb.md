@@ -12,9 +12,6 @@ params:
     https://sankalp.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -22,16 +19,23 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'To-loop or not loop: figuring out the context behind agent usage
-    and automation patterns'
-  last_post_description: There was a lot of discourse around Peter's recent tweet.
-    I think the main driver behind this was most people not taking the time to think
-    about Peter's context before comparing it with their own. In
-  last_post_date: "2026-06-10T12:49:00Z"
-  last_post_link: https://sankalp.bearblog.dev/agent-context/
+  last_post_title: 'Auto-research with codex: How I achieved a 232x Faster Kernel
+    over baseline with Codex in GPU Mode''s qr_v2 problem'
+  last_post_description: |-
+    Table of Contents
+    Intro
+    Contest in short
+    Problem intro
+
+
+    Why this problem is auto-research-able
+    Learning Enough to Ask Better Questions
+    (Optional) Math for QR decomposition: Householder
+  last_post_date: "2026-07-08T14:35:00Z"
+  last_post_link: https://sankalp.bearblog.dev/autoresearch/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 59317af1b9fc825ae8e573b47a6e8453
+  last_post_guid: fb9994481cfdfb7a2947946f3e563036
   score_criteria:
     cats: 0
     description: 3

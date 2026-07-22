@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2026-06-21T00:00:00Z"
+date: "2026-07-10T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -12,12 +12,12 @@ params:
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Chris Burnell Blogroll
+  - title: A list of sites Ethan likes
     description: ""
-    id: 7becef5fc95d0b51be024a2830568f06
+    id: 796603efcff00ba474bbbd88e566b727
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -50,21 +50,18 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
-  - https://blog.chriswm.com/.well-known/feed.xml
-  - https://blog.chriswm.com/feed.xml
-  - https://chrisburnell.com/feed.xml
   - https://shellsharks.com/feeds/feed.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes 41
+  last_post_title: Weeknotes 43
   last_post_description: ""
-  last_post_date: "2026-06-21T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2026/weeknotes-41/
+  last_post_date: "2026-07-10T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2026/weeknotes-43/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e0233ed075adba03592e2d6dec24c579
+  last_post_guid: 4c45ac361869e47f5f3ae7bee2a16763
   score_criteria:
     cats: 0
     description: 3
@@ -82,6 +79,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 97
+  postcount: 104
   avgpostlen: 285
 ---

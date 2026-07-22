@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-06-28T11:14:31-04:00"
+date: "2026-07-12T05:24:48-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -56,6 +56,7 @@ params:
   - Possible Titles
   - Reading Life
   - Sealey Challenge
+  - TEEM experience
   - Teaching Ideas
   - Work Life
   - Writing Exercise
@@ -164,36 +165,36 @@ params:
   - writing retreat
   relme:
     https://berkey-abbotttemplate.blogspot.com/: true
-    https://draft.blogger.com/profile/16841824206762029363: true
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: Harrowing Drive Home
+  last_post_title: A Quick Tour of Spartanburg with My Parents
   last_post_description: ""
-  last_post_date: "2026-06-28T05:26:40-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/06/harrowing-drive-home.html
+  last_post_date: "2026-07-12T05:24:48-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/07/a-quick-tour-of-spartanburg-with-my.html
   last_post_categories:
-  - travel
-  - weather
+  - education
+  - housing
+  - teaching life
   last_post_language: ""
-  last_post_guid: 979f146a44ba8ae52c25f1e53402e4c7
+  last_post_guid: cd3d43f2e1fb92d34e3e6b3824e54c91
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 295
 ---

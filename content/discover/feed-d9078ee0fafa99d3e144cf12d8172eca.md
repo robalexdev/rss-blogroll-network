@@ -12,7 +12,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -30,18 +30,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Management
+  - The Important Thing
   relme: {}
-  last_post_title: 'Here’s The Rub: We Don’t Believe You'
-  last_post_description: Welcome, new leader. We’re glad that you are here. Your arrival
-    fills a critical vacancy in our team, and we can’t wait to see what you can do
-    at this company. We’re going to say that we’re
-  last_post_date: "2026-06-15T18:29:20Z"
-  last_post_link: https://randsinrepose.com/archives/heres-the-rub-we-dont-believe-you/
+  last_post_title: The One About The Important Thing
+  last_post_description: One hundred episodes. For this occasion, years in the coming,
+    Lyle and I talk about the thing itself — the nuts and bolts of the podcast, including
+    how the robots now do an alarming amount of the
+  last_post_date: "2026-07-13T14:46:16Z"
+  last_post_link: https://randsinrepose.com/archives/the-one-about-the-important-thing/
   last_post_categories:
-  - Management
+  - The Important Thing
   last_post_language: ""
-  last_post_guid: a310b10169872b88d8fa3eef15feb138
+  last_post_guid: 9864cd1e1de12a5689ff838ff65712d1
   score_criteria:
     cats: 0
     description: 3

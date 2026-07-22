@@ -20,40 +20,34 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
   - News
-  - china
-  - ev sales
-  - ferrari
   relme: {}
-  last_post_title: Controversial Ferrari Luce EV is an instant sellout in China
-  last_post_description: All the controversy surrounding the launch of the first all-electric
-    sedan to ever wear the Ferrari badge hasn’t slowed down sales any – every single
-    Ferrari Luce allocated to the Chinese market
-  last_post_date: "2026-06-28T19:27:52Z"
-  last_post_link: https://electrek.co/2026/06/28/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/
+  last_post_title: VMAX launches new full-suspension VX2 Lite e-scooter for a mere
+    $799
+  last_post_description: Swiss electric scooter maker VMAX has launched the new VX2
+    Lite, a commuter-focused electric scooter that packs premium features like full
+    suspension, a 56-mile (90 km) maximum range, and up to 1
+  last_post_date: "2026-07-12T13:43:00Z"
+  last_post_link: https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/
   last_post_categories:
   - News
-  - china
-  - ev sales
-  - ferrari
   last_post_language: ""
-  last_post_guid: ec8c8a1a7e410a28f02400c3a5138feb
+  last_post_guid: b8886c7ddd2e7592a3b12a6c2af803c5
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

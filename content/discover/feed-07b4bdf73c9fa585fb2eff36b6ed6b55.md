@@ -21,15 +21,13 @@ params:
   categories: []
   relme: {}
   last_post_title: word2vec-style vector arithmetic on docs embeddings
-  last_post_description: |-
-    Does word2vec-style vector arithmetic (e.g. vector("King") -
-            vector("Man") + vector("Woman") = vector("Queen")) work in technical
-            writing contexts?
-  last_post_date: "2025-10-29T21:47:07-07:00"
-  last_post_link: https://technicalwriting.dev/embeddings/arithmetic/index.html
+  last_post_description: Does vector("king") - vector("man") + vector("woman") ≈ vector("queen")
+    work in technical writing contexts?
+  last_post_date: "2025-10-29T00:00:00Z"
+  last_post_link: https://technicalwriting.dev/2025/10/arithmetic/index.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3930f484f77af971854ea2aca5540e3c
+  last_post_guid: fd3af59ec11b81499d5de92fbeb57864
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 14
+  postcount: 10
   avgpostlen: 0
 ---

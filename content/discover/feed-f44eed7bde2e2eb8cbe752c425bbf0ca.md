@@ -1,6 +1,6 @@
 ---
 title: Giovanni Cappellotto's Blog
-date: "2026-06-25T05:25:43Z"
+date: "2026-07-12T17:09:46Z"
 description: ""
 params:
   feedlink: https://giovanni.curlybrackets.it/atom.xml
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An Engine for Multiple Adventures
+  last_post_title: From Imperative Click Handlers to Declarative Hotspots
   last_post_description: ""
-  last_post_date: "2026-06-24T00:00:00Z"
-  last_post_link: http://giovanni.curlybrackets.it/sdl-adventure-game/2026/06/24/an-engine-for-multiple-adventures.html
+  last_post_date: "2026-07-12T00:00:00Z"
+  last_post_link: http://giovanni.curlybrackets.it/sdl-adventure-game/2026/07/12/from-imperative-click-handlers-to-declarative-hotspots.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a9f5b1166f71b208c57f08382c23174
+  last_post_guid: 95104fd0687d3fa90dadde943856bb12
   score_criteria:
     cats: 0
     description: 0
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 60
-  avgpostlen: 286
+  postcount: 75
+  avgpostlen: 288
 ---

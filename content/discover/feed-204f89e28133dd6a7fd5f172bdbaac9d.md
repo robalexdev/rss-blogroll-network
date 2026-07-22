@@ -21,14 +21,14 @@ params:
   categories:
   - chuan
   relme: {}
-  last_post_title: 王川：每天睡到自然醒你就赢了 – 美国电信泡沫之回顾
-  last_post_description: 1/  词云：“ 千古伤心旧事，一场谈笑春风。残编断简记英雄。总为功名引动。 个个轰轰烈烈，人人扰扰匆匆。荣华富贵转头空。恰似南柯一梦。”
-  last_post_date: "2026-03-04T05:00:19Z"
-  last_post_link: https://chuan.us/archives/985?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%258e%258b%25e5%25b7%259d%25ef%25bc%259a%25e6%25af%258f%25e5%25a4%25a9%25e7%259d%25a1%25e5%2588%25b0%25e8%2587%25aa%25e7%2584%25b6%25e9%2586%2592%25e4%25bd%25a0%25e5%25b0%25b1%25e8%25b5%25a2%25e4%25ba%2586-%25e7%25be%258e%25e5%259b%25bd%25e7%2594%25b5%25e4%25bf%25a1%25e6%25b3%25a1%25e6%25b2%25ab%25e4%25b9%258b
+  last_post_title: 王川：当隔壁老王投资存储股票赚了三十倍后，如何还能不焦虑 (七）- 四分之一世纪的轮回
+  last_post_description: 1/ 软件服务行业有个词叫做 Net Dollar Retention rate, 直译为
+  last_post_date: "2026-07-12T22:16:49Z"
+  last_post_link: https://chuan.us/archives/1013?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%258e%258b%25e5%25b7%259d%25ef%25bc%259a%25e5%25bd%2593%25e9%259a%2594%25e5%25a3%2581%25e8%2580%2581%25e7%258e%258b%25e6%258a%2595%25e8%25b5%2584%25e5%25ad%2598%25e5%2582%25a8%25e8%2582%25a1%25e7%25a5%25a8%25e8%25b5%259a%25e4%25ba%2586%25e4%25b8%2589%25e5%258d%2581%25e5%2580%258d%25e5%2590%258e%25ef%25bc%258c%25e5%25a6%2582-7
   last_post_categories:
   - chuan
   last_post_language: ""
-  last_post_guid: 11e9a8a44a7043552c3f77923ffe2cf6
+  last_post_guid: c2875c29a8f83a37efe667bf6a9406f3
   score_criteria:
     cats: 0
     description: 0

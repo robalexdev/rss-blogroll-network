@@ -10,7 +10,7 @@ params:
     https://huonw.github.io/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -56,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 41
+  postcount: 45
   avgpostlen: 295
 ---

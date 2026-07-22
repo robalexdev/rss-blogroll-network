@@ -11,49 +11,29 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Cory Dransfeldt
-    description: ""
-    id: d0a6b9c5f63a5b525a30929c47fc75e7
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
+  - title: A list of sites Ethan likes
     description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
+    id: 796603efcff00ba474bbbd88e566b727
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
-  - title: ""
-    description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Dan Q's Blogroll
-    description: ""
-    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: Cory Dransfeldt
     description: ""
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
-  recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
+  recommender: []
   categories:
   - development
   relme: {}

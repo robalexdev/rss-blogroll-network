@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-06-13T00:00:00+02:00"
+date: "2026-07-06T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,16 +25,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: How I Hermes
-  last_post_description: "In January this year, OpenClaw went viral. You probably
-    heard about it. My guess is some of you even use it - or at least tried to. I
-    certainly did. \nI remember it clearly. I installed it, and very"
-  last_post_date: "2026-06-13T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/how-i-hermes.html
+  last_post_title: 'Retrospectiva #9'
+  last_post_description: This month's Retrospectiva comes a little later than usual.
+    The whole house got sick battling the flu the past couple weeks. Mixed with a
+    small heatwave here in Copenhagen, means summer hasn't
+  last_post_date: "2026-07-06T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/retrospectiva-9.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: 7405d2316b393a8c0b7ff33adb28e775
+  last_post_guid: dd0888e1f74b1658820df343eb472066
   score_criteria:
     cats: 0
     description: 0
@@ -52,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 63
-  avgpostlen: 272
+  postcount: 68
+  avgpostlen: 274
 ---

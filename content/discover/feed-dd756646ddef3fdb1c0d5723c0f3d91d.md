@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The MAGA power struggle that could decide the fate of Anthropic
-  last_post_description: It may not be easy for Anthropic to escape the Trump export
-    ban.
-  last_post_date: "2026-06-15T21:08:45Z"
-  last_post_link: https://www.understandingai.org/p/the-maga-power-struggle-that-could
+  last_post_title: An OpenAI model crushed top human programmers at a world coding
+    competition
+  last_post_description: But human programmers aren’t obsolete — at least not yet.
+  last_post_date: "2026-07-10T18:16:14Z"
+  last_post_link: https://www.understandingai.org/p/an-openai-model-crushed-top-human
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d7b5ff72c9648c35305c495b74e13e12
+  last_post_guid: 58f715d3db6823d192ce1f6eba46df91
   score_criteria:
     cats: 0
     description: 3

@@ -32,8 +32,8 @@ params:
   categories: []
   relme: {}
   last_post_title: Build GPUI + Ghostty without writing code
-  last_post_description: Hello everyone. Over the New Year holiday, I built gpui-ghostty.
-    It wo...
+  last_post_description: Hello everyone. Over the New Year holiday, I built gpui-ghostty
+    . It w...
   last_post_date: "2026-01-01T01:00:00Z"
   last_post_link: https://xuanwo.io/2026/01-gpui-ghostty/
   last_post_categories: []

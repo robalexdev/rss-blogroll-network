@@ -17,10 +17,10 @@ params:
   categories:
   - 游戏快讯
   relme: {}
-  last_post_title: Valve称Steam Machine的HDMI 2.1问题以解决，短时间内不太可能下调设备定价
-  last_post_description: 几天前，Valve宣布Steam Machine正式上市，并开始接受预订。其提供了四个不同的存储选项，分别是512GB或2TB的SSD，另外可以选择搭配Steam
-  last_post_date: "2026-06-28T00:07:00Z"
-  last_post_link: http://www.expreview.com/106718.html
+  last_post_title: 微软Xbox或改变Game Pass政策，不再为第三方工作室提供相关资金支持
+  last_post_description: 今年2月，微软任命Asha Sharma为Xbox业务新的掌舵人，接替Phil
+  last_post_date: "2026-06-30T11:51:00Z"
+  last_post_link: http://www.expreview.com/106752.html
   last_post_categories:
   - 游戏快讯
   last_post_language: ""

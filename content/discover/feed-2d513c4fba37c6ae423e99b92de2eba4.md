@@ -18,16 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·05·25
+  last_post_title: 安妮薇看看 №26·07·02
   last_post_description: |-
-    Racing Cars 赛车图鉴
-    Codex 重置得太频繁了，用不完根本用不完，所以 JJ
-  last_post_date: "2026-05-25T07:54:50Z"
+    星河有迹：把我台每个听众画成一个星系
+    受到到之前推荐的「诗云」项目的启发，我 vibe
+  last_post_date: "2026-07-02T03:10:36Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 71847cca7a6460c593f1ebd7d935e436
+  last_post_guid: 71f69e7fbc59ec9613b09d3ebe89f336
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 32
+  postcount: 36
   avgpostlen: 0
 ---

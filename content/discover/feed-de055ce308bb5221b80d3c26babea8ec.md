@@ -1,6 +1,6 @@
 ---
 title: This Cute World
-date: "2026-06-25T13:28:22Z"
+date: "2026-06-30T13:00:14Z"
 description: ""
 params:
   feedlink: https://thiscute.world/index.xml
@@ -26,7 +26,7 @@ params:
   relme: {}
   last_post_title: 我看见的世界
   last_post_description: |-
-    AI 与纺织女工2026 年 2 月 1 6日，除夕夜。
+    AI 与纺织女工2026 年 2 月 16 日，除夕夜。
     0 点 11 分，窗外鞭炮声还没停，我在本地跑起了 Qwen3.5-397B-A17B 的 2bits 量化版，尝试发了一张经典的 NixOS
   last_post_date: "2026-05-30T15:22:30+08:00"
   last_post_link: https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed
@@ -53,5 +53,5 @@ params:
   innetwork: true
   language: zh
   postcount: 30
-  avgpostlen: 236
+  avgpostlen: 239
 ---

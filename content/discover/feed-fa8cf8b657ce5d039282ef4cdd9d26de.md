@@ -4,7 +4,7 @@ date: "1970-01-01T00:00:00Z"
 description: 胡涂说博客/好奇心周刊
 params:
   feedlink: https://hutusi.com/feed.xml
-  feedtype: atom
+  feedtype: rss
   feedid: fa8cf8b657ce5d039282ef4cdd9d26de
   websites:
     https://hutusi.com/: true
@@ -26,19 +26,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Claude Fable 5: 短暂的寓言'
-  last_post_description: 今天早上，Anthropic 发布了一则[新闻告示](https://www.anthropic.com/news/fable-mythos-access)，表明收到美国政府出口管制要求，禁止所有非美国国籍用户访问
-    Fable
-  last_post_date: "2026-06-13T00:00:00Z"
-  last_post_link: https://hutusi.com/flows/2026/06/13
+  last_post_title: 《认知觉醒》
+  last_post_description: !!binary |
+    5pyA6L+R5Zyo6YeN6K+744CK6K6k55+l6KeJ6YaS44CL6L+Z5pys5Lmm77yM6Kem5Y+R55
+    qE5Yqo5py65Lmf5piv5YmN5q615pe26Ze05Y+I5YiG5Yir57uZ5LiA5Lqb5pyL5Y+L5a6J
+    5Yip5LqG6L+Z5pys5Lmm44CC5LiO44CK57qz55Om5bCU5a6d5YW444CL5LiA5qC377yM6L
+    +Z5Lmf5piv5LiA5pys6KKr5Lmm5ZCN6IC96K+v55qE5aW95Lmm77yM5Lk=
+  last_post_date: "2026-07-11T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/07/11
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6036424f3c04b5e03687b17ed96d636d
+  last_post_guid: ad233159be57862522cdf8a90bf72c1c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    hasContent: 3
+    hasContent: 0
     hasPosts: 3
     postcats: 0
     promoted: 5
@@ -46,11 +49,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
   postcount: 20
-  avgpostlen: 261
+  avgpostlen: 0
 ---

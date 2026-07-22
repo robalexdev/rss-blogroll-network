@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,7 +23,7 @@ params:
   categories: []
   relme: {}
   last_post_title: Le Madonne dot com
-  last_post_description: A brand new pet project
+  last_post_description: A brand new pet project.
   last_post_date: "2026-06-25T23:26:48Z"
   last_post_link: https://cedmax.net/blog/le-madonne-dot-com/
   last_post_categories: []

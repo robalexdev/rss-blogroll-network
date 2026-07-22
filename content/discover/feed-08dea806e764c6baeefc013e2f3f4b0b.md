@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-06-27T06:53:54-07:00"
+date: "2026-07-10T17:05:27-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -398,6 +398,7 @@ params:
   - CHRIS RICHARDS
   - CHRIS WHITE
   - CHRISTIAN RAVE
+  - CINDY ECSTASY
   - CIRCLES
   - CITADEL OF KAOS
   - CJ BOLLAND
@@ -485,6 +486,7 @@ params:
   - DANCE ROCK
   - DANCECULT
   - DANCEHALL
+  - DANCETERIA
   - DANCING
   - DANGERBASS
   - DANIEL DYLAN WRAY
@@ -995,6 +997,7 @@ params:
   - ICONA POP
   - ICRATES
   - IDM
+  - IMMACULATE CONSUMPTIVE
   - IMPACT FM
   - IMPROV
   - INDEX FM
@@ -1083,6 +1086,7 @@ params:
   - JOHNNY DEPP
   - JOHNNY JUNGLE
   - JOHNNY OSBOURNE
+  - JOHNNY ROTTEN
   - JON DALE
   - JONES
   - JONNY L
@@ -1225,6 +1229,7 @@ params:
   - LUNA C PROJECT
   - LUSH
   - LUTON
+  - LYDIA LUNCH
   - LYRICS
   - Lacan
   - Lazy Sunday
@@ -1239,6 +1244,7 @@ params:
   - MAD PROFESSOR
   - MADCHESTER
   - MADNESS ON THE STREET
+  - MADONNA
   - MAGICK
   - MAGNETIC MAGAZINE
   - MAINFRAME
@@ -1252,6 +1258,7 @@ params:
   - MARC ACARDIPANEM THE MOVER
   - MARCUS INTALEX
   - MARIE ANTOINETTE
+  - MARK ALMOND
   - MARK DE ROSARIO
   - MARK FELL
   - MARK FISHER
@@ -1290,6 +1297,7 @@ params:
   - MELODIC SPACING
   - MELODY MAKER
   - MELODYNE
+  - MEMORABILIA
   - MEMORY WORK
   - MENT 4 BASS
   - METAL DANCE
@@ -1463,6 +1471,7 @@ params:
   - ONE TRIBE
   - ONEMIND
   - ONENESS OF JUJU
+  - ORAL HISTORY
   - ORBITAL
   - ORCA
   - ORIGIN UNKNOWN
@@ -1528,6 +1537,7 @@ params:
   - PIRATE'S ANTHEM
   - PIRATES
   - PIRATES ANTHEM
+  - PISS WAND
   - PITCHFORK
   - PLANET CORE PRODUCTIONS
   - PLANET MU
@@ -1869,6 +1879,7 @@ params:
   - SMOKEY JOE
   - SMOKIN BEATS
   - SNAPBACKS AND TATTOOS
+  - SOFT CELL
   - SOFT SKULL
   - SOME TREAT
   - SONIC TRUTH
@@ -2471,7 +2482,6 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
-    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -2505,26 +2515,29 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Of Instagrammatology
+  last_post_title: When Freaks Were Chic - Danceteria remembered
   last_post_description: ""
-  last_post_date: "2026-06-04T16:45:39-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/06/had-instagram-for-ages-but-never-got.html
+  last_post_date: "2026-06-29T14:37:26-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/06/when-freaks-were-chic-danceteria.html
   last_post_categories:
-  - A BAFFLED REPUBLIC
-  - ATEMPORALITY
-  - CHRIS LIEBING
-  - DJ ZINC
-  - Fish56Octagon
-  - HYPERSTASIS
-  - INFLUENCERIZATION
-  - INSTAGRAM
-  - NU-UKG
-  - PERFORMATIVITY
-  - POST-GEOGRAPHICAL
-  - archive fever
-  - deejays
+  - BUTTHOLE SURFERS
+  - CINDY ECSTASY
+  - CLUB CULTURE
+  - DANCETERIA
+  - IMMACULATE CONSUMPTIVE
+  - JOHNNY ROTTEN
+  - JOY PRESS
+  - LYDIA LUNCH
+  - MADONNA
+  - MARK ALMOND
+  - MDMA
+  - MEMORABILIA
+  - NEW YORK
+  - ORAL HISTORY
+  - PISS WAND
+  - SOFT CELL
   last_post_language: ""
-  last_post_guid: 7fd7d03d12d214328912ee1febaa1e0a
+  last_post_guid: 1174e4634868d53d3b52e6143c3b39f0
   score_criteria:
     cats: 5
     description: 3
@@ -2543,5 +2556,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 236
+  avgpostlen: 275
 ---

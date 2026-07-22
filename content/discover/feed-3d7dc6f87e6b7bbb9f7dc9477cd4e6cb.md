@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2026-03-29T09:45:05Z"
+date: "2026-07-17T17:31:53Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -10,7 +10,7 @@ params:
     https://dustycloud.org/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -26,16 +26,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reflections, shattered by a thousand faces
+  last_post_title: Faulty Towers, vibe sickness, and the vibe bobsled
   last_post_description: |-
-    I posted
-    something
-    about the challenge with my writing that seemed worth capturing:A wise person tumbles a stone until smooth, makes a few choice cuts.I foolishly chisel so many facets into it again
-  last_post_date: "2026-03-06T12:30:00Z"
-  last_post_link: https://dustycloud.org/blog/reflections-shattered-by-a-thousand-faces/
+    I know. As if what the world needed was yet another blogpost about
+    LLMs and AI tech. Yet there is a pile of things which have been on my
+    mind, and I haven't seen them laid out elsewhere in the way
+  last_post_date: "2026-07-17T14:45:00Z"
+  last_post_link: https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e25c6efe09172a668c32669244601148
+  last_post_guid: 2062b426677cec5297f32dbdacd83c2f
   score_criteria:
     cats: 0
     description: 3

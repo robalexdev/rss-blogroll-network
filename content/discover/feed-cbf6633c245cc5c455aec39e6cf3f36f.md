@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Litt
-date: "2025-10-24T14:59:00Z"
+date: "2026-07-02T10:00:00Z"
 description: ""
 params:
   feedlink: https://www.geoffreylitt.com/feed.xml
@@ -29,18 +29,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Code like a surgeon
+  last_post_title: Understanding is the new bottleneck
   last_post_description: |-
-    A lot of people say AI will make us all “managers” or “editors”…but I think this is a dangerously incomplete view!
+    July 2026
 
-    Personally, I’m trying to code like a surgeon.
 
-    A surgeon isn’t a
-  last_post_date: "2025-10-24T14:59:00Z"
-  last_post_link: https://geoffreylitt.com/2025/10/24/code-like-a-surgeon.html
+    This is a written version of a talk I gave at the
+    AI Engineer
+    conference in July 2026, also shared as
+    a tweet thread.
+  last_post_date: "2026-07-02T10:00:00Z"
+  last_post_link: https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3a794a07bc84aac37ad6e8123c7b6584
+  last_post_guid: 68d5ba84b95fb6e5269eaeccfc09f32d
   score_criteria:
     cats: 0
     description: 0
@@ -59,5 +61,5 @@ params:
   innetwork: true
   language: ""
   postcount: 11
-  avgpostlen: 294
+  avgpostlen: 270
 ---

@@ -10,7 +10,7 @@ params:
     https://barryfrost.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,15 +24,15 @@ params:
   categories: []
   relme:
     https://barryfrost.com/: true
-  last_post_title: Week 252 - Pigeon
-  last_post_description: We paid for our very overgrown hedges to be cut back and
-    shaped. It's not cheap, but the garden instantly looks smarter. It also means
-    I can drive onto the street without risking scratches from bush
-  last_post_date: "2026-06-22T11:15:12Z"
-  last_post_link: https://barryfrost.com/2026/06/week-252-pigeon
+  last_post_title: Week 256 - Crayons
+  last_post_description: |-
+    Week 2^8
+    So, England failed to beat Argentina in their World Cup semi-final, owing to a tactical cock-up from our supposed super-tactician head coach. Irritating. No "second star" this time, then.
+  last_post_date: "2026-07-20T16:03:57Z"
+  last_post_link: https://barryfrost.com/2026/07/week-256-crayons
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c33496117eb10ae3fdcf38b2ba139624
+  last_post_guid: cfb17b2eb5ab74cbae3d11ff1671ca61
   score_criteria:
     cats: 0
     description: 3

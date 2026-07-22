@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-06-28T16:17:55+01:00"
+date: "2026-07-12T19:06:45+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -504,21 +504,18 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: Warwickshire Avon - Synchronised and Subterfuge
+  last_post_title: The River Arrow - Gonktastrophication and Gobbledegook
   last_post_description: ""
-  last_post_date: "2026-06-28T14:12:13+01:00"
-  last_post_link: https://calamitymn.blogspot.com/2026/06/warwickshire-avon-synchronised-and.html
+  last_post_date: "2026-07-11T12:21:42+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/07/the-river-arrow-gonktastrophication-and.html
   last_post_categories:
   - Chub
-  - Perch
-  - Roach
-  - Trotting
-  - banded
-  - chublet
-  - dace
-  - pellet
+  - Gonk
+  - Gudgeon
+  - River Arrow
+  - chublets
   last_post_language: ""
-  last_post_guid: 4c8036030fa6e7217300e63ba4032ba2
+  last_post_guid: de379f8c93847b9f2d2e1c57ba0a7b92
   score_criteria:
     cats: 5
     description: 0
@@ -537,5 +534,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 295
 ---

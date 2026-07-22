@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Higher-Order Functions
-  last_post_description: Introduction Functions are the building blocks of JavaScript.
-    By defining a block of code and executing it when we choose, we can build complex
-    applications whilst keeping our code clean, easy to
-  last_post_date: "2026-03-02T19:14:00Z"
-  last_post_link: http://localhost:1313/posts/2023-04-22-javascript-101-higher-order-functions/
+  last_post_title: Creating a Daily Review Template in Obsidian
+  last_post_description: Start and end each day with intention.
+  last_post_date: "2026-07-09T07:00:00Z"
+  last_post_link: http://localhost:1313/posts/2025-01-03-creating-a-daily-review-template-in-obsidian/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 731a9a5c3c2e939c22fee643eb677095
+  last_post_guid: 73eb3eeeb9c8e958c05635978d087688
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 15
+  postcount: 49
   avgpostlen: 0
 ---

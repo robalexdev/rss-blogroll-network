@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Oh No! Not You Again!
-  last_post_description: ""
-  last_post_date: "2026-06-25T15:55:00+02:00"
-  last_post_link: https://alienlebarge.ch/jams/the-heavy-oh-no-not-you-again
+  last_post_title: Huelgoat
+  last_post_description: In the mysterious forests of Huelgoat.
+  last_post_date: "2026-07-12T15:00:00+02:00"
+  last_post_link: https://alienlebarge.ch/photos/2026-07-07-15-01
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd2a43d3db99d425e0712c7abb973e63
+  last_post_guid: 9ee90dfd2e227a9b412e45b77f2e7aa6
   score_criteria:
     cats: 0
     description: 3
@@ -41,7 +41,7 @@ params:
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: fr
+  language: en
   postcount: 20
   avgpostlen: 0
 ---

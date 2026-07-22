@@ -19,17 +19,16 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: The Dirty Bill
-  last_post_description: Making a clean break with the technofascist economy.
-  last_post_date: "2026-06-25T16:34:24Z"
-  last_post_link: https://sarahkendzior.substack.com/p/the-dirty-bill
+  last_post_title: Stop, Collaborator, and Listen!
+  last_post_description: On stolen sovereignty and Americans fighting back.
+  last_post_date: "2026-07-03T22:03:08Z"
+  last_post_link: https://sarahkendzior.substack.com/p/stop-collaborator-and-listen
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b7d5c3a8b130890e1c09ad8c140e1663
+  last_post_guid: d571e0d25f1856b72823a00c6b2dfe57
   score_criteria:
     cats: 0
     description: 3

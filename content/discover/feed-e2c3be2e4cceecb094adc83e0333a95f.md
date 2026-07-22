@@ -10,7 +10,7 @@ params:
     https://aaronjz.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -19,31 +19,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - books
+  - movies
+  - music
   relme: {}
-  last_post_title: Aaron Zavala - June 19, 2026 12:33
-  last_post_description: 'I just finished Malcolm Guite''s Galahad and the Grail is
-    this morning. I was so moved by the beauty of the ending, the way it weaves its
-    way with the beginning lines of the prologue: "Poet, take up'
-  last_post_date: "2026-06-19T12:33:00-05:00"
-  last_post_link: https://aaronjz.com/6bcef067
+  last_post_title: 4th of July weekend reflections
+  last_post_description: Over 4th of July weekend, I introduced my son to the movie
+    An American Tail. He loved it! (even though those wave monsters and that machine
+    mouse are still pretty scary…) Didn’t realize until we
+  last_post_date: "2026-07-05T16:09:00-05:00"
+  last_post_link: https://aaronjz.com/4th-of-july-weekend-reflections
   last_post_categories:
-  - books
+  - movies
+  - music
   last_post_language: ""
-  last_post_guid: 1206db632966e1084b5ab85a1d9218a6
+  last_post_guid: 2c04405c20d77abbc40b306d4c708e3f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

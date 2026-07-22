@@ -8,7 +8,6 @@ params:
   feedid: 0dba63fe24212f27cfad9fdbe70c05ad
   websites:
     https://ttntm.me/: false
-    https://ttntm.me/hello: false
     https://ttntm.me/hello/: false
     https://ttntm.me/likes/: true
     https://ttntm.me/notes/: false
@@ -18,31 +17,17 @@ params:
   recommended:
   - https://82mhz.net/index.xml
   - https://anhvn.com/feed.xml
-  - https://antfu.me/feed.xml
   - https://bfloeser.de/index.xml
   - https://boehs.org/in/blog.xml
   - https://chrisburnell.com/feed.xml
-  - https://garrit.xyz/rss.xml
   - https://geff.re/feed.xml
-  - https://home.hedy.dev/posts/index.xml
   - https://kayserifserif.place/feed.xml
-  - https://kld.dev/rss.xml
   - https://melkat.blog/rss.xml
   - https://theleafslug.com/feed.xml
   - https://www.andreinc.net/feed.xml
   - https://www.lkhrs.com/blog/index.xml
   - https://www.markpitblado.me/feed.xml
-  - https://www.mikestreety.co.uk/rss-all.xml
-  - https://home.hedy.dev/posts/atom.xml
-  - https://theleafslug.com/dailies/feed.xml
-  - https://theleafslug.com/photos/feed.xml
-  - https://theleafslug.com/posts/feed.xml
-  - https://theleafslug.com/recommendations/feed.xml
-  - https://theleafslug.com/tils/feed.xml
   - https://andreinc.net/feed.xml
-  - https://www.lkhrs.com/blog/rss/
-  - https://www.mikestreety.co.uk/rss-notes.xml
-  - https://www.mikestreety.co.uk/rss.xml
   recommender: []
   categories: []
   relme:
@@ -62,15 +47,15 @@ params:
     hasPosts: 3
     postcats: 0
     promoted: 0
-    promotes: 10
+    promotes: 6
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 55
-  avgpostlen: 254
+  postcount: 58
+  avgpostlen: 256
 ---

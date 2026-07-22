@@ -20,7 +20,6 @@ params:
     https://dev.to/maco: true
     https://github.com/maco: true
     https://mackenzie.morgan.name/: true
-    https://stackoverflow.com/users/418929/maco: true
   last_post_title: See you in New York
   last_post_description: The schedule for Code BEAM Lite NYC has been posted, and
     I’m on it. I will be the first talk after the keynote, so that’s exciting! I’ll

@@ -10,7 +10,7 @@ params:
     https://max-inden.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -23,22 +23,21 @@ params:
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/writings/feed.xml
+  recommender: []
   categories: []
   relme:
     https://max-inden.de/: true
-  last_post_title: Working Draft - HTTP/3 und WebTransport mit Max Inden
+  last_post_title: Slides from the HTTP Workshop 2026
   last_post_description: |-
-    I joined the Working Draft podcast to talk about HTTP/3 and WebTransport.
-    We traced the evolution from HTTP/1 through HTTP/2 to HTTP/3, why head-of-line blocking pushed the web toward QUIC, and how
-  last_post_date: "2026-04-21T00:00:00Z"
-  last_post_link: https://max-inden.de/post/working-draft-http3-and-webtransport-podcast/
+    I gave three short talks at this year’s HTTP Workshop.
+    Increase and evolve HTTP/3 & QUIC
+    Slides: mxinden-bot.github.io/slides/04-quic-discussion
+    A discussion deck. HTTP/3 sits around 30% and has
+  last_post_date: "2026-07-17T00:00:00Z"
+  last_post_link: https://max-inden.de/post/http-workshop-2026-slides/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ebb7f9a5c7e10243a81b62870a503d42
+  last_post_guid: 743485ef5a7a148baaf33178c347d5a1
   score_criteria:
     cats: 0
     description: 3
@@ -56,6 +55,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 85
+  postcount: 88
   avgpostlen: 0
 ---

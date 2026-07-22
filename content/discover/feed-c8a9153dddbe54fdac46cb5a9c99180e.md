@@ -16,12 +16,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: karlbode.com on The SpaceX IPO Is a Con
-  last_post_description: This sort of journalism doesn't really care about real consumers,
-    labor, technology, or even whether the technology even works. Its focus is propping
-    up extraction class narratives surrounding
-  last_post_date: "2026-06-19T13:03:28-07:00"
-  last_post_link: https://www.onfocus.com/2026/06/9094/the-spacex-ipo-is-a-giant-unworkable-con?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+  last_post_title: Techdirt on The Party That Screams
+  last_post_description: Literally a couple months ago Marc Andreessen was on Joe
+    Rogan talking about how these dumb young progressive kids support “socialism”
+    even though “it never works.” Meanwhile, Andreessen was
+  last_post_date: "2026-07-12T11:52:34-07:00"
+  last_post_link: https://www.onfocus.com/2026/07/9101/the-party-that-screams-about-the-evils-of?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

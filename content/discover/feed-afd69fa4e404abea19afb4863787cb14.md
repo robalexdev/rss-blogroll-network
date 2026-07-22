@@ -10,7 +10,7 @@ params:
     https://bryanhogan.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Every blog post I have shared until 2026
-  last_post_description: In my monthly email newsletter I share cool things I came
-    across on the internet, which so far has included the following blog posts!
-  last_post_date: "2026-02-12T15:42:57Z"
-  last_post_link: https://bryanhogan.com/blog/other-cool-blog-posts-2026
+  last_post_title: How to Use AI Coding Tools Well
+  last_post_description: How to use AI for coding well? Practical tips for using AI
+    coding tools, including context management, AGENTS.md files, planning, reviews,
+    tests, and MCPs.
+  last_post_date: "2026-07-08T08:13:20Z"
+  last_post_link: https://bryanhogan.com/blog/ai-code-well
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 62c0b0888b6efeab0c2843bdb1e0e64e
+  last_post_guid: 577e01da54c9838cecb605af4ed0fcfe
   score_criteria:
     cats: 0
     description: 3
@@ -51,6 +52,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 25
+  postcount: 29
   avgpostlen: 0
 ---

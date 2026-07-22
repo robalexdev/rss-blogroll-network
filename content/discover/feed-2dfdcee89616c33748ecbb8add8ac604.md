@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-05-14T14:34:00Z"
+date: "2026-07-20T11:15:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The old world of tech is dying and the new cannot be born
+  last_post_title: Long-delayed summer 2026 photos
   last_post_description: ""
-  last_post_date: "2026-05-14T14:34:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/
+  last_post_date: "2026-07-20T11:15:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/photos/long-delayed-summer-2026-photos/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6fea4dad4edcacfa34bdf114c69ec86f
+  last_post_guid: 4ce6c9340e1db8de4322edca5f49c182
   score_criteria:
     cats: 0
     description: 3
@@ -51,5 +51,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 271
+  avgpostlen: 270
 ---

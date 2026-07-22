@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-06-16T18:20:00Z"
+date: "2026-07-07T14:00:00Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -13,20 +13,17 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stop Merely Pointing at Ideas
+  last_post_title: We Need a Gym for the Mind
   last_post_description: ""
-  last_post_date: "2026-06-16T18:20:00Z"
-  last_post_link: https://zettelkasten.de/posts/stop-merely-pointing-at-ideas/
+  last_post_date: "2026-07-07T14:00:00Z"
+  last_post_link: https://zettelkasten.de/posts/we-need-a-gym-for-the-mind/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 585c134ebbd2c4d0231cc13acb357b21
+  last_post_guid: f2be112369e7c1c47a975a2648364e5e
   score_criteria:
     cats: 0
     description: 0

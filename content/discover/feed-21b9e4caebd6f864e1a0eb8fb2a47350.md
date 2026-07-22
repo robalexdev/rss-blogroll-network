@@ -1,7 +1,8 @@
 ---
 title: GeopJr's Blog
 date: "1970-01-01T00:00:00Z"
-description: Blog posts about programming, tech, ethics, climate, politics & more
+description: Blog posts about programming, tech, security, politics & more, but mostly
+  yelling at clouds
 params:
   feedlink: https://geopjr.dev/rss.xml
   feedtype: rss
@@ -16,44 +17,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GNOME
+  - Flathub
   - Linux
-  - Opinion
   relme:
     https://codeberg.org/GeopJr: true
     https://geopjr.dev/: true
     https://github.com/GeopJr: true
-  last_post_title: My first in-person talk
+  last_post_title: Democratizing Abandonware
   last_post_description: |-
-    Photo by Liaizon Wakest
+    DisclaimerI am not part of Flathub, I do not represent Flathub or anyone but myself.
 
-    Traveling is scary
-    I don't really travel outside Greece. Not for any specific reasons, it's just that there's no reason to. So last year, when Linux App Summit 2025 announced
-  last_post_date: "2026-05-31T00:00:00Z"
-  last_post_link: https://geopjr.dev/blog/my-first-in-person-talk
+    On May 29, 2026, Bart announced that Flathub would no longer accept LLM-generated submissions and codebases.
+  last_post_date: "2026-07-05T00:00:00Z"
+  last_post_link: https://geopjr.dev/blog/democratizing-abandonware
   last_post_categories:
-  - GNOME
+  - Flathub
   - Linux
-  - Opinion
   last_post_language: ""
-  last_post_guid: 1a4bf631f89145b300fac51fea8029f0
+  last_post_guid: 6c524597b9e5e4b128a3d79659ffb66f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 8
   avgpostlen: 0
 ---

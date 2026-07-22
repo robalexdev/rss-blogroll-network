@@ -1,6 +1,6 @@
 ---
 title: My Sculpture Blog
-date: "2026-06-16T07:47:06-04:00"
+date: "2026-07-06T17:52:46-04:00"
 description: ""
 params:
   feedlink: https://feeds.feedburner.com/BathgateSculptureBlog
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 296
 ---

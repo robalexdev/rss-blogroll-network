@@ -21,17 +21,17 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Logic(s): The Next Chapter'
-  last_post_description: The Logic founding manifesto, 2.0.
-  last_post_date: "2026-05-14T18:55:08Z"
-  last_post_link: https://logicmag.io/pivot/logic-s-the-next-chapter
+  last_post_title: Where Deer Stroll Peacefully Past Computers
+  last_post_description: Moments of social mobilization enliven and expand our political
+    imagination. Among the things that sorely need reimagining is our technology.
+  last_post_date: "2026-07-03T16:26:24Z"
+  last_post_link: https://logicmag.io/care/where-deer-stroll-peacefully-past-computers
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b10c1f19e6a8a0de62715a53f4e6c92f
+  last_post_guid: 22923787bd4e367b2c7901b5694b1944
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: "Chip \U000131FC<br>Chirp"
-date: "2026-06-13T23:38:36Z"
+date: "2026-07-08T18:30:14Z"
 description: "\U000133DE Audio, oddware, and more"
 params:
   feedlink: https://chipchirp.digital/feed.xml

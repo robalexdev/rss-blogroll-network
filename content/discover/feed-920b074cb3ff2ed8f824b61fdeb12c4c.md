@@ -17,34 +17,36 @@ params:
   recommender: []
   categories:
   - AIGC
-  - El Capitan
-  - LINPACK
-  - TOP500榜单解读
-  - 中国故事
-  - 中国超算TOP500
-  - 中国超算排名
-  - 灵晟超算FP64双精度
-  - 灵晟超算世界第一
-  - 超算和AI算力区别
+  - AI血汗工厂
+  - AI裁员
+  - Goodhart定律
+  - Meta
+  - Meta的故事
+  - Meta裁员案
+  - 休假被算低绩效
+  - 员工算法管理
+  - 算法裁员歧视
   relme: {}
-  last_post_title: 中国超算重回全球第一，超算和AI算力中心不是一回事，英伟达为什么在这一块不灵了？
-  last_post_description: 中国超算灵晟重夺 TOP500 世界第一，但这并不等于 AI 算力领先。本文拆解 TOP500 榜单、FP64 双精度测试、纯
-    CPU 超算和 GPU AI
-  last_post_date: "2026-06-29T00:56:07Z"
-  last_post_link: https://lukefan.com/2026/06/29/china-top500-supercomputer-linpack-benchmark-analysis/
+  last_post_title: Meta裁员案里的AI血汗工厂
+  last_post_description: |-
+    Meta裁员案里的AI血汗工厂
+
+    26名前Meta员工为何把AI裁员告上法庭？本期从休假、怀孕和残障便利被算法算成低绩效的指控讲起，拆解Meta裁员案的举证难题
+  last_post_date: "2026-07-21T00:30:00Z"
+  last_post_link: https://lukefan.com/2026/07/21/meta-ai-layoffs-algorithmic-sweatshop/
   last_post_categories:
   - AIGC
-  - El Capitan
-  - LINPACK
-  - TOP500榜单解读
-  - 中国故事
-  - 中国超算TOP500
-  - 中国超算排名
-  - 灵晟超算FP64双精度
-  - 灵晟超算世界第一
-  - 超算和AI算力区别
+  - AI血汗工厂
+  - AI裁员
+  - Goodhart定律
+  - Meta
+  - Meta的故事
+  - Meta裁员案
+  - 休假被算低绩效
+  - 员工算法管理
+  - 算法裁员歧视
   last_post_language: ""
-  last_post_guid: cd2df26b2058f37e28e09fcfccde485d
+  last_post_guid: 7c8d51737a26e9ac09dd5e05bc5ab235
   score_criteria:
     cats: 0
     description: 3

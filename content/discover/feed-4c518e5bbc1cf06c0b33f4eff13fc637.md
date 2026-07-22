@@ -12,9 +12,6 @@ params:
     https://www.lloydatkinson.net/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
-    description: ""
-    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -54,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 42
+  postcount: 41
   avgpostlen: 0
 ---

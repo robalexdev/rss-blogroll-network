@@ -12,39 +12,24 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
   - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   - title: Personal sites are awesome!
     description: ""
     id: 2561079dc6b23262f5202eb5bc528075
-  - title: Dan Q's Blogroll
-    description: ""
-    id: cf55eb3ed10628f3d87eaf0ddb80287f
   - title: Feeds for cssjoy webri.ng
     description: ""
     id: 56fb5d46572d863c78edd7bd5bd25295
@@ -52,31 +37,27 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
+  recommender: []
   categories:
   - general
-  - indieweb
-  - neocities
+  - swim2026
+  - via-instagram
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Neocities
-  last_post_description: Screenshot of the default view of a new website on Neocities
-    Note that it helps a newbie visualize a website as a set of files. Note that it
-    includes a link to download the entire site. This came up
-  last_post_date: "2026-06-27T10:25:00Z"
-  last_post_link: https://artlung.com/blog/2026/06/27/neocities/
+  last_post_title: First time in Oceanside in a good while. Excellent dawn patrol
+    morning.
+  last_post_description: ""
+  last_post_date: "2026-07-19T21:01:55Z"
+  last_post_link: https://artlung.com/blog/2026/07/19/oceanside-dawn-patrol/
   last_post_categories:
   - general
-  - indieweb
-  - neocities
+  - swim2026
+  - via-instagram
   last_post_language: ""
-  last_post_guid: f85268843b6512aa34682e50fe9213e1
+  last_post_guid: 9c48811c445653bc9adb7cfaf2eb64c4
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://ounapuu.ee/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,16 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: These cheap USB-to-HDMI adapters are terrible, and yet incredibly
-    useful
-  last_post_description: |-
-    In 2023, I ordered a cheap piece of crap USB to HDMI adapter. From time to time, I dabble with computers, but I don’t
-    always have a convenient display at hand. Capture cards aren’t anything new,
-  last_post_date: "2026-06-22T20:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2026/06/22/usb-hdmi-adapter/
+  last_post_title: The 'free' server build
+  last_post_description: Man takes old computer, turns it into a home server again.
+    Man happy.
+  last_post_date: "2026-07-09T06:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2026/07/09/free-server/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0053287748ec729e646c1a341f6e64a6
+  last_post_guid: 4b6024f6ea3288a2a0da1166b1f48cbf
   score_criteria:
     cats: 0
     description: 3
@@ -53,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 139
+  postcount: 153
   avgpostlen: 0
 ---

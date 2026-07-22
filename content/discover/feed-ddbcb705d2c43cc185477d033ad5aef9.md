@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: ddbcb705d2c43cc185477d033ad5aef9
   websites:
-    https://www.neelc.org/: true
+    https://www.neelc.org/: false
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
@@ -39,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

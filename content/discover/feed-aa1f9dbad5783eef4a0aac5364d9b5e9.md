@@ -20,11 +20,13 @@ params:
   - https://amf.didiermary.fr/feed/
   - https://anthony-louis-johnson.tumblr.com/rss
   - https://arcadiapage.com/feed.xml
+  - https://artlung.com/feed/
   - https://beelzebabe.neocities.org/Blog/Rss.xml
   - https://bekianee.art/rss.xml
   - https://benfrain.com/feed/
   - https://binarydigit.city/feed/
   - https://blazingcobaltx.neocities.org/feed.xml
+  - https://blog.cemunalan.com.tr/feed/
   - https://blog.chriswm.com/feed.xml
   - https://blog.codinghorror.com/rss/
   - https://blog.darylsun.page/rss.xml
@@ -41,8 +43,10 @@ params:
   - https://candyether.space/comic/rss
   - https://cheapycore.com/feed.xml
   - https://colly.com/articles/feed
+  - https://cones.lol/feed.xml
   - https://corvidae.digital/feed.xml
   - https://crazyroostereye.de/blog/rss.xml
+  - https://darekkay.com/atom.xml
   - https://daverupert.com/atom.xml
   - https://delovely.neocities.org/feed.xml
   - https://derekkedziora.com/feed.xml
@@ -57,6 +61,7 @@ params:
   - https://entropically.neocities.org/rss.xml
   - https://evantravers.com/feed.xml
   - https://exclave.city/rss.xml
+  - https://feeds.feedburner.com/InformationIsBeautiful
   - https://feeds.feedburner.com/Optipess
   - https://feeds.feedburner.com/robweychert
   - https://feeds.feedburner.com/thewikiman
@@ -71,6 +76,7 @@ params:
   - https://giuliodematte.is/blog/rss.xml
   - https://goeshard.org/feed_rss_updated.xml
   - https://gomakethings.com/feed/index.xml
+  - https://goodinternetmagazine.com/rss/
   - https://granary.io/url?input=html
   - https://hikatamika.com/feed.xml
   - https://hisvirusness.com/feed/
@@ -80,10 +86,9 @@ params:
   - https://joekrall.com/atom.xml
   - https://juuyondaime.net/rss.xml
   - https://jvns.ca/atom.xml
-  - https://kevquirk.com/feed.xml
+  - https://kevquirk.com/feed/
   - https://lalunemauve.fr/feed/
   - https://larvapuppy.neocities.org/rss.xml
-  - https://laserboy.nekoweb.org/rss.xml
   - https://leonia.neocities.org/NiaRSS.xml
   - https://levimcg.com/feed.xml
   - https://loebas.boykisser.nl/blog/?x=feed%3Arss2
@@ -189,7 +194,6 @@ params:
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCEmCXnbNYz-MOtXi3lZ7W1Q
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCGCe_sFWL22uFs9f03mSZAA
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCGm3CO6LPcN-Y7HIuyE0Rew
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
@@ -218,87 +222,17 @@ params:
   - https://xkcd.com/rss.xml
   - https://yel1low.neocities.org/RSS/blog.xml
   - https://zhongvie.neocities.org/feed.xml
-  - https://adactio.com/articles/rss
-  - https://adactio.com/journal/rss
-  - https://adactio.com/links/rss
-  - https://adactio.com/notes/rss
-  - https://alexzeecomedy.com/atom.xml
-  - https://alexzeecomedy.com/pages/feeds/Alex_Zee_Comedy_notes_atom.xml
-  - https://alexzeecomedy.com/pages/feeds/Alex_Zee_Comedy_notes_rss.xml
-  - https://benfrain.com/comments/feed/
-  - https://benfrain.com/home/feed/
   - https://blog.darylsun.page/atom.xml
-  - https://blog.humblebundle.com/comments/feed/
-  - https://crazyroostereye.de/blog/atom.xml
-  - https://crazyroostereye.de/master-rss.xml
-  - https://crazyroostereye.de/media/tv-atom.xml
-  - https://crazyroostereye.de/media/tv-rss.xml
-  - https://devnel.blog/comments/feed/
-  - https://devnel.blog/type/aside/feed/
-  - https://devnel.blog/type/audio/feed/
-  - https://devnel.blog/type/chat/feed/
-  - https://devnel.blog/type/gallery/feed/
-  - https://devnel.blog/type/image/feed/
-  - https://devnel.blog/type/link/feed/
-  - https://devnel.blog/type/quote/feed/
-  - https://devnel.blog/type/standard/feed/
-  - https://devnel.blog/type/status/feed/
-  - https://devnel.blog/type/video/feed/
-  - https://drikkes.com/?feed=comments-rss2
-  - https://drikkes.com/?feed=rss2&page_id=16885
-  - https://eev.ee/feeds/rss.xml
-  - https://evantravers.com/essays.xml
-  - https://github.com/FreshRSS/FreshRSS/releases.atom
-  - https://frittiert.es/feed/page:feed.xml
-  - https://geoffgraham.me/comments/feed/
-  - https://jbuller.com/comments/feed/
-  - https://lalunemauve.fr/comments/feed/
+  - https://kevquirk.com/feed
   - https://ma.tt/comments/feed/
-  - https://matty.blog/comments/feed/
-  - https://mijndertstuij.nl/
-  - https://mijndertstuij.nl/posts-feed.xml
-  - https://rss.nebula.app/video/channels/jetlag.rss?plus=true
-  - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
-  - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
-  - https://rss.nebula.app/video/channels/realengineering.rss?plus=true
-  - https://rss.nebula.app/video/channels/sexplanations.rss?plus=true
-  - https://granary-demo.appspot.com/url?input=html&output=atom&url=https%3A//news.indieweb.org/en
-  - https://notiz.blog/comments/feed/
-  - https://notiz.blog/type/aside/feed/
-  - https://notiz.blog/type/audio/feed/
-  - https://notiz.blog/type/chat/feed/
-  - https://notiz.blog/type/gallery/feed/
-  - https://notiz.blog/type/image/feed/
-  - https://notiz.blog/type/link/feed/
-  - https://notiz.blog/type/quote/feed/
-  - https://notiz.blog/type/standard/feed/
-  - https://notiz.blog/type/status/feed/
-  - https://notiz.blog/type/video/feed/
-  - https://polytechnic.co.uk/blog/rss
   - https://rachsmith.com/rss/
-  - https://rsdoiel.github.io/archive.xml
-  - https://rsdoiel.github.io/index.xml
-  - https://sfss.space/feed/
-  - https://shiflett.org/feeds/links
-  - https://listenbrainz.org/syndication-feed/user/starbreaker5150/listens?minutes=480
-  - https://starbreaker.org/feed.xml
-  - https://starbreaker.org/follow/headlines.xml
-  - https://stefanbohacek.com/feed
-  - https://stoutsytail.blogspot.com/feeds/posts/default
-  - https://stoutsytail.blogspot.com/feeds/posts/default?alt=rss
-  - https://textslashplain.com/comments/feed/
+  - https://roboticarts.zoness.com/comments/feed/
   - https://the1andi.blogspot.com/feeds/posts/default
   - https://the1andi.blogspot.com/feeds/posts/default?alt=rss
   - https://tracydurnell.com/comments/feed/
-  - https://www.alchemists.io/feeds/articles.xml
-  - https://www.alchemists.io/feeds/projects.xml
-  - https://www.alchemists.io/feeds/talks.xml
-  - https://www.classicpress.net/comments/feed/
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
-  - https://zhongvie.neocities.org/rss.xml
   recommender: []
   categories: []
   relme:
@@ -309,16 +243,17 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Note] MegaConLive London by Colin Walker
+  last_post_title: "Comment on [Article] Your ‘App’ Could Have Been a Webpage (so
+    I fixed it for you…) by \U0001F338 lumi-nhac \U0001F331"
   last_post_description: |-
-    If it's anything like the ComicCons I've been to at the Excel, prepare for massive crowds, big queues, overpriced food, annoying people walking too slow.
+    all services should be available via the web, without any smartphone. having an app is fine, but the website should have all of the features
 
-    But forget all that, just immerse yourself,
-  last_post_date: "2026-01-23T19:54:19Z"
-  last_post_link: https://danq.me/2026/01/23/megaconlive-london/#comment-297026
+    also none of that remote attestation drm bullshit. fuck
+  last_post_date: "2026-07-12T19:23:28+01:00"
+  last_post_link: https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/#comment-309671
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5befc99ef1d92b7aaba0de3e702d9bdb
+  last_post_guid: f3feff2a4855d4821d24bbc4b7682584
   score_criteria:
     cats: 0
     description: 3

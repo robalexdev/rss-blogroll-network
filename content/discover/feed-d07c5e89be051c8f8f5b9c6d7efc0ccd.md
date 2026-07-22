@@ -16,16 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 随笔
+  - 旅游
   relme: {}
-  last_post_title: 十月份已读乱回
-  last_post_description: English Translation Here 小红书上时不时会看到一些感叹美国生活无聊的帖子，讨论的焦点往往是回国生活是否会更好。我自己经历过H
-  last_post_date: "2025-10-13T04:13:46Z"
-  last_post_link: https://wukan.me/?p=2686
+  last_post_title: 班夫国家公园
+  last_post_description: 趁着公司年中假期，全家人一起去了加拿大的班夫国家公园。
+  last_post_date: "2026-07-06T05:19:34Z"
+  last_post_link: https://wukan.me/?p=2718
   last_post_categories:
-  - 随笔
+  - 旅游
   last_post_language: ""
-  last_post_guid: 1c4e096e0971b1b10d797d4b21d47a3a
+  last_post_guid: b2da1d86fa60c5acf2cce9119715188f
   score_criteria:
     cats: 0
     description: 3

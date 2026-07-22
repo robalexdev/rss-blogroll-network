@@ -28,12 +28,12 @@ params:
   last_post_description: |-
     已经快成路边的Arduino官方去年底出的最新的UNO系列，但这次又是个高通SoC+STM32的缝合怪。先说前 […]
     Arduino UNO Q 开发板初体验最先出现在WuSiYu Blog。
-  last_post_date: "2026-06-23T22:01:31Z"
+  last_post_date: "2026-06-23T21:32:49Z"
   last_post_link: https://wusiyu.me/arduino-uno-q-board-first-look/
   last_post_categories:
   - 智能硬件 & IOT
   last_post_language: ""
-  last_post_guid: bebd6706fe7a8615a096fa73ebd356e9
+  last_post_guid: 4cde00d9946946541ee8f14302255333
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: ADD / XOR / ROL
-date: "2026-06-28T08:17:01-07:00"
+date: "2026-07-07T02:28:14-07:00"
 description: A blog about reverse engineering, mathematics, politics, economics and
   more ...
 params:

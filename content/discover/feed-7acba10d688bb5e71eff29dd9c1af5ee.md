@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-06-27T13:43:43Z"
+date: "2026-07-11T15:15:33Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '@villapirorum @piccalilli Translates very nicely.'
+  last_post_title: It should be illegal to have hold music with an imperfect loop,
+    such that it cuts off for a brief...
   last_post_description: ""
-  last_post_date: "2026-06-27T13:43:43Z"
-  last_post_link: https://fedi.vale.rocks/objects/fbc1b47f-e862-4df4-bf46-c410b8afbbb5
+  last_post_date: "2026-07-11T15:15:33Z"
+  last_post_link: https://fedi.vale.rocks/objects/b25fc2f2-4b00-4b3f-88a0-32d6f0b4bc84
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e7c93a27b662ced9c521375b97fc0e4
+  last_post_guid: f070884425903011da4a8e95a3f4b3eb
   score_criteria:
     cats: 0
     description: 0
@@ -42,5 +43,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 185
+  avgpostlen: 169
 ---

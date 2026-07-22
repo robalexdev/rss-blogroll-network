@@ -1,6 +1,6 @@
 ---
 title: bulltown.2022
-date: "2026-06-27T11:42:32Z"
+date: "2026-07-11T18:45:14Z"
 description: ""
 params:
   feedlink: https://bulltown.joejenett.com/feed.atom
@@ -10,7 +10,7 @@ params:
     https://bulltown.joejenett.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -19,31 +19,17 @@ params:
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
-    https://directory.jenett.org/: true
     https://directory.joejenett.com/: true
     https://github.com/joejenett: true
     https://ideas.joejenett.com/: true
-    https://iwebthings.jenett.org/: true
     https://iwebthings.joejenett.com/: true
     https://jenett.nekoweb.org/: true
-    https://jenett.org/: true
-    https://joe.jenett.org/: true
-    https://joe.joejenett.com/: true
     https://joejenett.com/: true
-    https://joejenett.github.io/i.webthings/: true
-    https://linkscatter.jenett.org/: true
     https://linkscatter.joejenett.com/: true
-    https://mastodon.online/@iwebthings: true
-    https://mastodon.online/@jenett: true
-    https://photo.jenett.org/: true
     https://photo.joejenett.com/: true
-    https://simply.jenett.org/: true
     https://simply.joejenett.com/: true
-    https://simply.micro.jenett.org/: true
-    https://simply.personal.jenett.org/: true
     https://toot.community/@jenett: true
     https://toot.community/@jenett2: true
-    https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
   last_post_title: somethin’ new
   last_post_description: ""
@@ -56,19 +42,19 @@ params:
     cats: 0
     description: 0
     feedlangs: 0
-    hasContent: 0
-    hasPosts: 0
+    hasContent: 3
+    hasPosts: 1
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 0
-  avgpostlen: 0
+  postcount: 1
+  avgpostlen: 290
 ---

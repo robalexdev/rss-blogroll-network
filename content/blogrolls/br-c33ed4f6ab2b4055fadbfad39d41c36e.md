@@ -28,9 +28,6 @@ params:
   - title: Sam’s Webzone
     description: ""
     id: 74aa0d5a1d4b754ecb51f5cb3eb54c66
-  - title: Ian Betteridge
-    description: ""
-    id: 7701ae19fe02d40422d73bda66d62f8d
   - title: philwilson.org
     description: ""
     id: 80da2f8d9cbc4746cecf23da8a754702

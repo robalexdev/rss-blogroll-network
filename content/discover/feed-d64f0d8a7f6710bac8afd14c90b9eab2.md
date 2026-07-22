@@ -11,7 +11,7 @@ params:
     https://ankursethi.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,13 +25,13 @@ params:
   categories: []
   relme:
     https://ankursethi.com/: true
-  last_post_title: Your analytics are lying to you
+  last_post_title: Data locality (sometimes) beats algorithmic complexity
   last_post_description: ""
-  last_post_date: "2026-06-26T15:37:36Z"
-  last_post_link: https://ankursethi.com/blog/your-analytics-are-lying-to-you/
+  last_post_date: "2026-07-10T11:09:46Z"
+  last_post_link: https://ankursethi.com/blog/data-locality-sometimes-beats-algorithmic-complexity/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 217cef6a80dce0a2dec0184ecd10ff4c
+  last_post_guid: dbd8d44749114595604ae8f2bd4f10dc
   score_criteria:
     cats: 0
     description: 3
@@ -49,6 +49,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 10
+  postcount: 20
   avgpostlen: 0
 ---

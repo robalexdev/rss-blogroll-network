@@ -16,19 +16,19 @@ params:
   recommender: []
   categories:
   - 人生
-  - 杂谈
+  - 工具
   - 生活
   relme: {}
-  last_post_title: 261 端午节期间干的三件事情
-  last_post_description: 端午节期间，本来准备出去骑车的。结果一连下了三天的雨。那就找点其他的事情干吧。 第一件事情，清理小窝。把小窝的 […]
-  last_post_date: "2026-06-22T16:37:38Z"
-  last_post_link: http://ddw2019.com/261
+  last_post_title: 263 三例生活中美好巧思
+  last_post_description: 近一个月，发现了很多美好之处，但是有三处特别深入我的心中。 第一个，共享单车的手机支架。近期发现，附近部分共享 […]
+  last_post_date: "2026-07-20T16:58:21Z"
+  last_post_link: http://ddw2019.com/263
   last_post_categories:
   - 人生
-  - 杂谈
+  - 工具
   - 生活
   last_post_language: ""
-  last_post_guid: e98d73ec07cc2704b59b3c213fe93644
+  last_post_guid: 75c3a3592c377d8e619c7290e8b970db
   score_criteria:
     cats: 0
     description: 3

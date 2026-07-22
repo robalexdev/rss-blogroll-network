@@ -19,46 +19,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#forbidden-knowledge'
   - '#politics'
-  - '#project'
   relme: {}
-  last_post_title: Prairieland Zines
+  last_post_title: The Best President
   last_post_description: |-
-    #forbidden-knowledge #politics #project June 15, 2026
-    Download all: git.gay · Codeberg · Github
-
-    Against Prisons (Catherine Baker, 1996) 1
-
-    screen · print
-
-
-    Another Critique of Insurrectionalism
-  last_post_date: "2026-06-28T09:05:22-04:00"
-  last_post_link: http://pnppl.cc/prairieland
+    #politics
+    It's unclear who the worst U.S. president was. While it's tempting to select Donald Trump, that might be a little unfair to the many scumbags who ruled the country before it became a
+  last_post_date: "2026-07-11T00:00:00Z"
+  last_post_link: http://pnppl.cc/2026-07-11_president
   last_post_categories:
-  - '#forbidden-knowledge'
   - '#politics'
-  - '#project'
   last_post_language: ""
-  last_post_guid: fef62bd4d3178f1950ed7d3929313e64
+  last_post_guid: 484bfb82760bd86ecfcb8d6ab39222c8
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 29
+  postcount: 28
   avgpostlen: 0
 ---

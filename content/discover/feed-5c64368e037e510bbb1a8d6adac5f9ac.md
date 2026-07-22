@@ -15,32 +15,31 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - AI
+  categories: []
   relme:
     https://newslttrs.com/: true
-  last_post_title: '"Scheming" AI bots must be real, someone on X said so.'
-  last_post_description: AI bots are "scheming in the wild". This supposed research
-    report is based on some of the flimsiest research you're likely to see.
-  last_post_date: "2026-03-27T14:56:11Z"
-  last_post_link: https://newslttrs.com/scheming-ai-bots-must-be-real-someone-on-x-said-so/
-  last_post_categories:
-  - AI
+  last_post_title: AI has lost all meaning
+  last_post_description: You know how sometimes you say a word too many times and
+    it starts to sound like it's not a real word and loses all meaning? That's where
+    we are with "AI"."Artificial intelligence" has always been
+  last_post_date: "2026-07-10T12:41:44Z"
+  last_post_link: https://newslttrs.com/ai-has-lost-all-meaning/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: b6281c3a9166397a60f2f9ea3ab5d59f
+  last_post_guid: 8224f1af6b3c9863506812adef897a42
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

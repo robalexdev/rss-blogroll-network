@@ -12,9 +12,6 @@ params:
   - title: Following
     description: ""
     id: 3ab37f775eca10153e3c7a600b2fbe77
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: English RSS collated by MoreRSS
     description: ""
     id: 4fec48524a0a655ca9ae0e814e87c47b
@@ -25,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Rethinking Figma in an AI world
-  last_post_description: Config 2026 reveals Figma’s high-stakes gamble to survive
-    an era of agentic workflows in a code-native environment.
-  last_post_date: "2026-06-26T08:05:34Z"
-  last_post_link: https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5
+  last_post_title: AI mania is eviscerating global decisionmaking
+  last_post_description: The reality of how much damage AI mania is doing to our ability
+    to run institutions effectively.
+  last_post_date: "2026-07-21T07:15:12Z"
+  last_post_link: https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7ee25bca45f434247c63c68ec1804316
+  last_post_guid: f6eff691a21467fbae118a062f2797b9
   score_criteria:
     cats: 0
     description: 3

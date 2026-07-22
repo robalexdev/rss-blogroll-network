@@ -13,9 +13,6 @@ params:
   - title: Following
     description: ""
     id: 3ab37f775eca10153e3c7a600b2fbe77
-  - title: Chris Burnell Blogroll
-    description: ""
-    id: 7becef5fc95d0b51be024a2830568f06
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -39,11 +36,7 @@ params:
     description: ""
     id: 03553abc85517218f421d95a82a6f691
   recommended: []
-  recommender:
-  - https://chrisburnell.com/feed.xml
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/writings/feed.xml
+  recommender: []
   categories: []
   relme:
     https://mxb.dev/: true

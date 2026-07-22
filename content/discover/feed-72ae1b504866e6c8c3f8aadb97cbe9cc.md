@@ -8,12 +8,8 @@ params:
   feedtype: rss
   feedid: 72ae1b504866e6c8c3f8aadb97cbe9cc
   websites:
-    https://500ish.com/: false
-    https://500ish.com/?gi=86cf40fbf985: false
-    https://500ish.com/?gi=b4585eb73f21&source=rss----662a29c3b19e---4: false
-    https://500ish.com/?gi=d4acd8fbcd4f&source=rss----662a29c3b19e---4: false
-    https://500ish.com/?gi=dfb69bd8d2d6: false
-    https://500ish.com/?source=rss----662a29c3b19e---4: true
+    https://500ish.com/?gi=64c026363b5f&source=rss----662a29c3b19e---4: false
+    https://500ish.com/?gi=fae1d3de5fbe: false
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -51,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

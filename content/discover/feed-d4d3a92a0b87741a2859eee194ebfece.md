@@ -1,6 +1,6 @@
 ---
 title: Astroblog
-date: "2026-06-27T00:18:43+09:30"
+date: "2026-07-12T06:05:30+09:30"
 description: Obscured by Clouds. The rough and ready blog of a cloud benighted biologist
   and amateur astronomer. Astroblog will cover my interests in astronomy, biology
   and Life, the Universe and Everything.
@@ -12,7 +12,7 @@ params:
     https://astroblogger.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -327,14 +327,14 @@ params:
     https://astroblogger.blogspot.com/: true
     https://vpudebate.blogspot.com/: true
     https://www.blogger.com/profile/05010720416554077787: true
-  last_post_title: Thursday June 25 to Thursday July 2
+  last_post_title: Thursday July 9 to Thursday July 16
   last_post_description: ""
-  last_post_date: "2026-06-22T17:55:49+09:30"
-  last_post_link: https://astroblogger.blogspot.com/2026/06/thursday-june-25-to-thursday-july-2.html
+  last_post_date: "2026-07-07T23:53:23+09:30"
+  last_post_link: https://astroblogger.blogspot.com/2026/07/thursday-july-9-to-thursday-july-16.html
   last_post_categories:
   - weekly sky
   last_post_language: ""
-  last_post_guid: dae874eb2d0c862bff9b2d07da5fc1c3
+  last_post_guid: 639e2dec71c51f5ccee2cd4f0e2cc740
   score_criteria:
     cats: 5
     description: 3

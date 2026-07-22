@@ -19,23 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Devops
-  - Nomad
-  - linux
+  - AI
+  - Onyx
+  - Postgresql
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Nomad Rescheduling Error
-  last_post_description: Troubleshooting a mysterious error in Nomad? This post shares
-    a personal experience with a puzzling issue and the simple solution that resolved
-    it.
-  last_post_date: "2026-06-23T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/nomad_rescheduling_error
+  last_post_title: Connection Pooling for Onyx AI
+  last_post_description: Discover how I optimized Onyx's PostgreSQL connection management
+    to prevent deployment issues, and learn how to tweak its internal settings for
+    a seamless experience.
+  last_post_date: "2026-07-17T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/onyx_connection_pooling
   last_post_categories:
-  - Devops
-  - Nomad
-  - linux
+  - AI
+  - Onyx
+  - Postgresql
   last_post_language: ""
-  last_post_guid: f3719dfc07b82315c1940807e8f25340
+  last_post_guid: a39083478fe8f8e9ad23ef4254d00e28
   score_criteria:
     cats: 0
     description: 3

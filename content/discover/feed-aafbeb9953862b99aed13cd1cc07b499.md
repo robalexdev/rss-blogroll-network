@@ -25,19 +25,18 @@ params:
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#chart'
+  - '#riskmanagement'
   relme: {}
-  last_post_title: NSA and IETF, part 6
-  last_post_description: 'The structure of the debate. #pqcrypto #hybrids #nsa #ietf
-    #chart'
-  last_post_date: "2026-06-25T09:32:44Z"
-  last_post_link: http://blog.cr.yp.to/20260221-structure.html
+  last_post_title: NSA and IETF, part 8
+  last_post_description: 'Fairness. #pqcrypto #hybrids #nsa #ietf #riskmanagement'
+  last_post_date: "2026-07-07T22:27:38Z"
+  last_post_link: http://blog.cr.yp.to/20260706-fairness.html
   last_post_categories:
   - '#pqcrypto'
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#chart'
+  - '#riskmanagement'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:
@@ -57,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 38
+  postcount: 46
   avgpostlen: 0
 ---

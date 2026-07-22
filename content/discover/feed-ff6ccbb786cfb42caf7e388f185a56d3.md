@@ -13,7 +13,11 @@ params:
   - title: Blogroll Network Seeds
     description: ""
     id: c33ed4f6ab2b4055fadbfad39d41c36e
-  - title: Bubbles — 5348 blogs
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.8.14.
+    id: 4245e42f2d95b58713124e48e7ed0b3c
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: robalexdev
@@ -34,9 +38,30 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  recommended: []
-  recommender:
+  recommended:
   - http://scripting.com/rss.xml
+  - https://aaron.blog/feed/
+  - https://auth0.com/blog/rss.xml
+  - https://automattic.com/feed/
+  - https://chriscoyier.net/feed/
+  - https://daringfireball.net/feeds/main
+  - https://github.blog/feed/
+  - https://jvns.ca/atom.xml
+  - https://kareem.substack.com/feed
+  - https://ma.tt/feed/
+  - https://ntietz.com/atom.xml
+  - https://simonwillison.net/atom/everything/
+  - https://stratechery.com/feed/
+  - https://taylorswift.tumblr.com/rss
+  - https://tins.rklau.com/feed/
+  - https://www.anildash.com/feed.xml
+  - https://www.nasa.gov/image-of-the-day/feed/
+  - https://www.nytimes.com/wirecutter/feed
+  - https://www.theverge.com/apple/rss/index.xml
+  - https://aaron.blog/index.xml
+  - https://github.blog/comments/feed/
+  - https://ma.tt/comments/feed/
+  recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
   - Twitter
@@ -67,11 +92,11 @@ params:
     hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 0
+    promotes: 10
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

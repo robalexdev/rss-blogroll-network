@@ -10,7 +10,7 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -35,24 +35,20 @@ params:
     description: ""
     id: 03553abc85517218f421d95a82a6f691
   recommended: []
-  recommender:
-  - https://feeds.feedburner.com/johnjohnston
-  - https://johnjohnston.info/blog/category/wwwd/feed/
-  - https://johnjohnston.info/blog/comments/feed/
-  - https://johnjohnston.info/blog/feed/
+  recommender: []
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: The Knicks, and perseverance
+  last_post_title: Things I learned these past few months
   last_post_description: |-
-    The Knicks won!
-    It’s old news by now, but I’m still riding the high of the Knicks winning the NBA Championship. The last time they won, I wasn’t alive, and the last time they even came close
-  last_post_date: "2026-06-23T14:18:00-04:00"
-  last_post_link: https://www.inthemargins.ca/knicks-won
+    Below, a quick roundup of a few of the things I learned over the past few months.
+    Migratory freshwater fish are in steep decline, with populations down roughly 81% since 1970. These species depend on
+  last_post_date: "2026-06-30T14:00:00-04:00"
+  last_post_link: https://www.inthemargins.ca/til-2026-q2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0a9201bd374a26ba40cae45ecfeb29c9
+  last_post_guid: f80ed435bc45fb68e938b7cad9fa3a12
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-06-28T17:19:51-07:00"
+date: "2026-07-12T12:54:18-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,6 +25,7 @@ params:
   - "2016"
   - 2016 ELECTION
   - 2024 ELECTION
+  - A.O. SCOTT
   - AARON SORKIN
   - ACT
   - ACTING
@@ -141,6 +142,7 @@ params:
   - DAVID JOHANSEN
   - DAVID LITVINOFF
   - DAVID SYLVIAN
+  - DAVID THOMSON
   - DEATH
   - DEBONAIR ROCK
   - DEF LEPPARD
@@ -178,6 +180,7 @@ params:
   - FASHION
   - FASSBINDER
   - FEMINISM
+  - FILM
   - FINITUDE
   - FLO & EDDIE
   - FOLK
@@ -234,6 +237,7 @@ params:
   - HIERARCHY
   - HIGH SELF ESTEEM
   - HILARY CLINTON
+  - HOLLYWOOD
   - HOTPANTS
   - HOUND DOG
   - HOWLROUND
@@ -308,6 +312,7 @@ params:
   - LOW SELF ESTEEM
   - LUKE HAINES
   - MAG
+  - MAGA
   - MAGIC UNREALISM
   - MAKE-UP
   - MALCOLM MCLAREN
@@ -320,6 +325,7 @@ params:
   - MASQUERADE
   - MASQUES
   - MATT HEALEY
+  - MEGAN GARBER
   - MELODY MAKER
   - MERGER OF POLITICS AND ENTERTAINMENT
   - META
@@ -339,6 +345,8 @@ params:
   - MORTALITY
   - MOSLEY
   - MOTT THE HOOPLE
+  - MOVIE
+  - MOVIES
   - MOVING WITH THE TIMES
   - MUMMERY
   - MUSICAL THEATRE
@@ -408,6 +416,7 @@ params:
   - PROTO-GLAM
   - PULP
   - PUNK
+  - PURITANISM
   - Paul Morley
   - Propaganda
   - QUENTIN CRISP
@@ -437,6 +446,7 @@ params:
   - RUSSELL MAEL
   - SCARLET FANTASTIC
   - SCHAFFEL
+  - SCREENS
   - SCRITTI POLITTI
   - SECRET THESIS
   - SECRETED THESIS
@@ -567,7 +577,6 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
-    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -601,20 +610,27 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Goth goes Glam
+  last_post_title: All the World’s a Screen (anti-theatricality’s eternal returns)
   last_post_description: ""
-  last_post_date: "2026-06-26T17:07:46-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/06/goth-goes-glam.html
+  last_post_date: "2026-07-12T12:54:18-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/07/anti-theatricality-its-only-movie.html
   last_post_categories:
-  - GENE LOVES JEZEBEL
-  - GLAM
-  - GLAM METAL
-  - GOTH
-  - HAIR METAL
-  - LOS ANGELES
-  - LOVE AND ROCKETS
+  - A.O. SCOTT
+  - ANTI-THEATRICALITY
+  - CINEMA
+  - DAVID THOMSON
+  - FILM
+  - HOLLYWOOD
+  - MAGA
+  - MEGAN GARBER
+  - MOVIE
+  - MOVIES
+  - PURITANISM
+  - SCREENS
+  - SPECTACLE
+  - TRUMP
   last_post_language: ""
-  last_post_guid: 73c1fb5e76b715618a802caaf855eab4
+  last_post_guid: 33ae66b2a3b0a2e15d23202f4796827f
   score_criteria:
     cats: 5
     description: 3
@@ -633,5 +649,5 @@ params:
   innetwork: true
   language: ""
   postcount: 24
-  avgpostlen: 257
+  avgpostlen: 269
 ---

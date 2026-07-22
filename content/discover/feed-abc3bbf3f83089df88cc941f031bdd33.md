@@ -10,21 +10,15 @@ params:
     https://www.zachleat.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS Feeds for Clayton's Blogroll
     description: ""
     id: aaf2b657c92a09dcd64da99b46d7a193
-  - title: Cory Dransfeldt
-    description: ""
-    id: d0a6b9c5f63a5b525a30929c47fc75e7
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Frontend Dev Feeds
     description: ""
     id: 38149979474709d3c2d6dd1d0b7b71f0
@@ -77,5 +71,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 245
+  avgpostlen: 248
 ---

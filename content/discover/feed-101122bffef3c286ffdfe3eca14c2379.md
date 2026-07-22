@@ -15,9 +15,6 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: FreshRSS
     description: ""
     id: 5a1c6ae0431c53f45dd7baba3b6f2126
@@ -34,18 +31,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 20260622的胡言乱语
+  last_post_title: 20260708的胡言乱语
   last_post_description: |-
     简介
     欢迎关注我的频道，不时发送垃圾消息
     https://t.me/bboyapp
     或者关注我的 twitter
     https://twitter.com/bboysoulcn
-  last_post_date: "2026-06-22T14:06:54Z"
-  last_post_link: https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
+  last_post_date: "2026-07-08T10:05:00Z"
+  last_post_link: https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08b3f106fbc583df2dbdda4a1a0f7e37
+  last_post_guid: fd680a82dfe769a08abdd1c654ae935c
   score_criteria:
     cats: 0
     description: 3

@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -50,10 +50,6 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
-  - https://baty.net/posts/index.xml
-  - https://blog.penelopetrunk.com/comments/feed/
-  - https://blog.penelopetrunk.com/feed/
-  - https://blog.scottlowe.org/feed.xml
   - https://boffosocko.com/category/mathematics/feed/
   - https://boffosocko.com/category/microcast/feed/
   - https://boffosocko.com/category/podcast/feed/
@@ -86,39 +82,29 @@ params:
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://doc.searls.com/comments/feed/
   - https://doc.searls.com/feed/
-  - https://blog.citp.princeton.edu/comments/feed/
-  - https://blog.citp.princeton.edu/feed/
-  - https://intellectualoid.com/comments/feed/
   - https://jabberwocking.com/comments/feed/
-  - https://kimberlyhirsh.com/feed.xml
-  - https://kimberlyhirsh.com/podcast.xml
   - https://ma.tt/comments/feed/
   - https://memex.naughtons.org/comments/feed/
   - https://memex.naughtons.org/feed/
-  - https://mitchwagner.com/feed.xml
   - https://om.co/comments/feed/
   - https://om.co/feed/podcast
   - https://pluralistic.net/comments/feed/
-  - https://prologuist.blogspot.com/feeds/posts/default
-  - https://prologuist.blogspot.com/feeds/posts/default?alt=rss
-  - https://taoofmac.com/atom.xml
   - https://www.manton.org/feed.xml
   - https://www.manton.org/podcast.xml
-  - https://www.stonekettle.com/feeds/posts/default?alt=rss
   recommender:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: A Look To The Future With AI In It
-  last_post_description: Read a really good essay titled After AI Takes Everything
-    written by a software engineer based in Singapore who goes by Airing. The link
-    I am providing is to a copy of the essay I have in Readwise
-  last_post_date: "2026-06-18T12:56:06-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/06/18/a-look-to-the-future.html
+  last_post_title: A Method For Quoteblogs
+  last_post_description: Among the many RSS feeds that I subscribe to there are a
+    few that contain posts that share other people’s writing. I find the posts valuable
+    because they provide me links to articles to read that I
+  last_post_date: "2026-07-04T13:00:06-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/07/04/a-method-for-quoteblogs.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a789fa4dbb1debcf9d50f83e18fbaafe
+  last_post_guid: 185cd3dc9216119372e8a89f75dbb9b5
   score_criteria:
     cats: 0
     description: 0
@@ -136,6 +122,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 7
+  postcount: 8
   avgpostlen: 0
 ---

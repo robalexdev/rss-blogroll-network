@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-06-28T16:22:04-07:00"
+date: "2026-07-10T13:09:53-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -130,19 +130,19 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: The Man Who Could Cheat Death
+  last_post_title: Dead Ringers
   last_post_description: ""
-  last_post_date: "2026-06-11T19:41:33-07:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/06/the-man-who-could-cheat-death.html
+  last_post_date: "2026-07-10T13:09:53-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/07/dead-ringers.html
   last_post_categories:
   - Drama
-  - Hammer
   - Horror
   - Movies
+  - Psychological Thrillers
   - Reviews
   - Suspense
   last_post_language: ""
-  last_post_guid: 1485b1776db15908018a1bf05691eb4b
+  last_post_guid: d7513b7d9a66731d1ab3f630f556fcea
   score_criteria:
     cats: 5
     description: 3

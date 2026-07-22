@@ -17,40 +17,35 @@ params:
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee
   recommended: []
-  recommender:
-  - https://jeroensangers.com/feed.xml
-  - https://jeroensangers.com/podcast.xml
-  categories:
-  - apps
-  - iPhone
+  recommender: []
+  categories: []
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
     https://xoxo.zone/@mathowie: true
-  last_post_title: 'Coming Soon: SoshVault'
-  last_post_description: I enjoy social media, and one thing I love seeing is when
-    people play in the space and do things the tools weren't necessarily designed
-    for. Back in good old days of Twitter (maybe 2012-2104), people
-  last_post_date: "2026-06-24T05:02:00Z"
-  last_post_link: https://a.wholelottanothing.org/coming-soon-soshvault/
-  last_post_categories:
-  - apps
-  - iPhone
+  last_post_title: The AirPods Max 2 are better at noise cancellation than the previous
+    version
+  last_post_description: I've long been a big fan of over-the-ear, old-school big
+    headphones for comfort and sound quality reasons. It's also because I generally
+    don't like to stick things inside my ears. Apple's ear buds
+  last_post_date: "2026-07-09T03:42:21Z"
+  last_post_link: https://a.wholelottanothing.org/the-airpods-max-2-are-better-at-noise-cancellation-than-the-previous-version/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: a583b0fc465d40736da9faea02fc8690
+  last_post_guid: f7fefd2847ba63b8a3a9efe4a3617c48
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

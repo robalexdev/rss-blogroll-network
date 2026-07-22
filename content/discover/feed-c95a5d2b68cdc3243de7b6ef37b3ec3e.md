@@ -1,6 +1,6 @@
 ---
 title: ordinaryangler
-date: "2026-06-28T08:24:21-07:00"
+date: "2026-06-29T05:49:06-07:00"
 description: Hello, my name is Ian Firkins and I am a very ordinary angler. If there
   was a school report for fishing, mine would read "tries hard, could do better"!
   See below my attempts to catch big fish (well,

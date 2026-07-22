@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-06-25T14:47:53Z"
+date: "2026-07-19T01:15:04Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,20 +28,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游戏
+  - 杂记
   relme: {}
-  last_post_title: 从猎户座之王到群星
-  last_post_description: !!binary |
-    5q+P5Liq57uP5YW455S15a2Q5ri45oiP55qE5ri45oiP6K6+6K6h6YO95aSa5bCR5pyJ5L
-    iA5Lqb5LmL5YmN5L2c5ZOB55qE55eV6L+544CC5oiR6K6k5Li65Y6f5Zug5pyJ5LqM77ya
-    5oiQ5Yqf55qE546p5rOV5b+F6aG75pyJ5aSn6YeP546p5a625a6e6ZmF5ri45oiP5L2T6a
-    qM55qE5omT56Oo6K+B5piO5YW25pyJ5pWI77yM5Zyo57uP5YW4546p5rM=
-  last_post_date: "2026-06-25T14:47:53Z"
-  last_post_link: https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html
+  last_post_title: 高尿酸血症确诊
+  last_post_description: 我在 2024 年底左脚大拇指根部曾肿痛一周 ，结合多年体检高尿酸结果，怀疑是痛风。但后来没有什么症状，身体也一直很好，就没去医院看。
+  last_post_date: "2026-07-19T01:15:04Z"
+  last_post_link: https://blog.codingnow.com/2026/07/hyperuricemia.html
   last_post_categories:
-  - 游戏
+  - 杂记
   last_post_language: ""
-  last_post_guid: 7d9feec9932bf84ff355d40837d90bd6
+  last_post_guid: da1e4ac9cfdf4aa776323cf292b68810
   score_criteria:
     cats: 0
     description: 3
@@ -60,5 +56,5 @@ params:
   innetwork: true
   language: ""
   postcount: 15
-  avgpostlen: 215
+  avgpostlen: 236
 ---

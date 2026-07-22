@@ -22,25 +22,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - LLM
-  - LiteLLM
-  - 研发
-  - 网关
+  - Linux
+  - loop
+  - 存储
+  - 运维
   relme: {}
-  last_post_title: LiteLLM - 提供统一的模型接口格式
-  last_post_description: 1. LiteLLM 是什么 LiteLLM 是开源 LLM 适配器：用 OpenAI 标准格式调用 100+ 种
-    API（OpenAI、Anthropic、Gemini、Bedrock、Azure、Ollama、vLLM、通义千问等）。
-  last_post_date: "2026-06-24T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/litellm-unified-model-api-format.html
+  last_post_title: loop device 生命周期管理
+  last_post_description: 1. 创建镜像文件 1.1 loop存储适用场景 把普通文件当成 /dev/loopN 块设备来用，读写走块设备接口，backing
+    file 仍是宿主机上的一个文件 挂载 ISO
+  last_post_date: "2026-07-13T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/loop-device-lifecycle-management.html
   last_post_categories:
-  - AI
-  - LLM
-  - LiteLLM
-  - 研发
-  - 网关
+  - Linux
+  - loop
+  - 存储
+  - 运维
   last_post_language: ""
-  last_post_guid: 3512f9d1e6aaa4495f07bbcc043a7965
+  last_post_guid: 5598b137a14fc40ff802ca58c8c8e984
   score_criteria:
     cats: 0
     description: 3
@@ -58,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 668
+  postcount: 700
   avgpostlen: 0
 ---

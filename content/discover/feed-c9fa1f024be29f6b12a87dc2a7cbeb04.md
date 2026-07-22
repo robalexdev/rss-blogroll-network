@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What If There Is No Moat Yet?
-  last_post_description: At the application layer, moats are lagging, earned through
-    scale & brand. At infrastructure, capital intensity demands a leading moat at
-    founding.
-  last_post_date: "2026-06-26T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/what-if-there-is-no-moat/
+  last_post_title: AI Engineering Productivity is Anything But Normal
+  last_post_description: 'AI engineering productivity outcomes cluster in three tiers:
+    a mean of 20-46% from distributing an IDE, a frontier of 2.5-3x from companies
+    building the operating layer around agents (Replit, NVIDIA,'
+  last_post_date: "2026-07-21T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/ai-engineering-productivity-anything-but-normal/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ae3a5e24aac04f9b9372bf49f1764a71
+  last_post_guid: 5d3d88e4e99550694b66fd3cd034ce23
   score_criteria:
     cats: 0
     description: 3

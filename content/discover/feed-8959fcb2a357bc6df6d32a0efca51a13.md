@@ -10,7 +10,7 @@ params:
     https://grantslatton.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -40,7 +40,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 1
+    feedlangs: 0
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -49,11 +49,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
-  postcount: 46
+  language: ""
+  postcount: 39
   avgpostlen: 0
 ---

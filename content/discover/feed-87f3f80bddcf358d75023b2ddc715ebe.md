@@ -18,14 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Letters Never Sent"
-  last_post_description: guitar, synth, atmospheric, ambient, lofi melancholy, lofi,
-    cinematic, nostalgic, mystery, piano, reflective, sad, solitude, soundscape, melancholy
-  last_post_date: "2026-06-26T00:00:00Z"
-  last_post_link: https://aaronholbrookmusic.com/song/letters-never-sent/
+  last_post_title: "\U0001F3B5 New Release: Things That Almost Happened"
+  last_post_description: regret, 80s, nostalgia, retro, remorse, sad, synth, bass,
+    mournful, melancholy, love
+  last_post_date: "2026-07-10T21:00:41Z"
+  last_post_link: https://aaronholbrookmusic.com/song/things-that-almost-happened/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c792db3b328d91741cb50f5fc03b330d
+  last_post_guid: 83e2564078d65bd3ed08c84d22256264
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 33
+  postcount: 56
   avgpostlen: 0
 ---

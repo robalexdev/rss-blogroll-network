@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-06-23T12:20:00+02:00"
+date: "2026-07-20T11:10:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fuck you, Polygon!
-  last_post_description: Fuck you, Polygon, for spoiling the latest six-hour episode
-    of Critical Role less than 24 hours after its release. Kicked you out of my RSS
-    reader, what a dick move!
-  last_post_date: "2026-06-23T12:20:00+02:00"
-  last_post_link: https://overkill.wtf/notes/polygon-critical-role-spoiler
+  last_post_title: Austrian Audio Composer are haunting me
+  last_post_description: |-
+    Austrian AudioThe Composer | Premium Reference Headphones by Austrian Audio
+            Rediscover your music with The Composer by Austrian Audio. Premium open-back reference headphones offering
+  last_post_date: "2026-07-20T11:10:00+02:00"
+  last_post_link: https://overkill.wtf/notes/austrian-audio-composer-haunting
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b5d112370b27a31a5f77528f44502047
+  last_post_guid: cd50cfca08fe919a0339b1899c7da4ee
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 15
+  postcount: 10
   avgpostlen: 0
 ---

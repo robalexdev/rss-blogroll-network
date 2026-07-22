@@ -1,6 +1,6 @@
 ---
 title: a bit of a jumble
-date: "2026-06-28T22:32:36Z"
+date: "2026-07-12T19:35:21Z"
 description: Welcome to my website! Here you'll find an array of bits and bobs, truly
   making it a bit of a jumble.
 params:
@@ -17,33 +17,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - career updates
+  - shop echidna
   relme: {}
-  last_post_title: My Twelve Month Career Break
+  last_post_title: Echidna Painting and Poem - Original Artwork For Sale
   last_post_description: ""
-  last_post_date: "2026-06-19T14:37:01Z"
-  last_post_link: https://abitofajumble.bearblog.dev/my-twelve-month-career-break/
+  last_post_date: "2026-07-08T07:50:29Z"
+  last_post_link: https://abitofajumble.bearblog.dev/echidna-painting-and-poem-original-artwork-for-sale/
   last_post_categories:
-  - career updates
+  - shop echidna
   last_post_language: ""
-  last_post_guid: ad7694f3da73987d561a4217b200cf46
+  last_post_guid: e0015256c76df2f9220f04e2fcb104e6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
-    hasPosts: 2
+    hasPosts: 3
     postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 2
-  avgpostlen: 295
+  postcount: 9
+  avgpostlen: 296
 ---

@@ -15,8 +15,7 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories:
-  - '#29:'
+  categories: []
   relme:
     https://aaron.com.es/: true
     https://mastodon.social/@aaronfc: true
@@ -27,25 +26,20 @@ params:
 
 
 
-      Town Hall #29: Revolution taylor.town
+      sqlite-utils 4.1 simonwillison.net
+
+
+      -pede taylor.town
 
 
 
 
 
 
-      Weeknotes: June 20-26, 2026 tracydurnell.com
-
-
-
-
-
-
-      Guava Soda &
-  last_post_date: "2026-06-28T00:00:00Z"
+      Designing a listen later pipeline www.coryd
+  last_post_date: "2026-07-12T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
-  last_post_categories:
-  - '#29:'
+  last_post_categories: []
   last_post_language: ""
   last_post_guid: 01d1f14f6b56aa3423f2e6d554f08c8b
   score_criteria:
@@ -54,17 +48,17 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 46
+  postcount: 47
   avgpostlen: 0
 ---

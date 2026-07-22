@@ -10,7 +10,11 @@ params:
     https://dizzy.zone/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.8.14.
+    id: 4245e42f2d95b58713124e48e7ed0b3c
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: robalexdev
@@ -58,6 +62,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 33
+  postcount: 34
   avgpostlen: 0
 ---

@@ -11,15 +11,12 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -34,15 +31,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: The Goalkeeper’s Parent
-  last_post_description: The most difficult position in soccer must be the goalkeeper’s
-    parent.
-  last_post_date: "2026-06-27T14:13:28Z"
-  last_post_link: https://actsofvolition.com/2026/06/the-goalkeepers-parent/
+  last_post_title: You want ghosts?
+  last_post_description: 'CBC: Underwater images reveal 1st look at Quest, the final
+    ship of Antarctic explorer Ernest Shackleton You want ghosts? Because that’s how
+    you get ghosts.'
+  last_post_date: "2026-07-08T14:15:49Z"
+  last_post_link: https://actsofvolition.com/2026/07/you-want-ghosts/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 1687d061cfd7df7f78ad355850830d59
+  last_post_guid: 8968050e07ed99fdf6ce130f0269e5fb
   score_criteria:
     cats: 0
     description: 0

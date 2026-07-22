@@ -10,7 +10,7 @@ params:
     https://lopespm.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -57,5 +57,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 296
+  avgpostlen: 295
 ---

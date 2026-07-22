@@ -16,51 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ai联盟营销
-  - CAPI
-  - Facebook广告
-  - Media Buy
-  - Meta广告
-  - Niche站赚钱
-  - Pixel追踪
-  - 内容营销
-  - 实操案例
-  - 广告优化
-  - 广告归因
-  - 归因功能
-  - 数据丢失
-  - 服务器端追踪
-  - 浏览器像素
-  - 联盟营销
-  - 被动收入
-  - 转化数据
+  - Affiliate经验
+  - Affiliate营销圈
+  - China Joy 2026
+  - propellerads
+  - 未分类
   relme: {}
-  last_post_title: 如何通过Pixel、CAPI和归因功能在Meta上防止转化数据丢失
-  last_post_description: 写一篇 关于CAPI功能的讨论 简短教程，向大家展示如何在Facebook广告中改善统计分析工作。 如果你曾盯着你的
-    追踪器 显示40个转化，而Ads
-  last_post_date: "2026-06-26T06:57:05Z"
-  last_post_link: https://www.fuyuzhe.com/meta-conversion-data-loss-prevention.html
+  last_post_title: PropellerAds亮相China Joy 2026！并举办上海After Hours私享交流之夜
+  last_post_description: |-
+    想在 China Joy 2026 让你的营销活动更上一层台阶？欢迎来到 PropellerAds ...
+    PropellerAds亮相China Joy 2026！并举办上海After
+  last_post_date: "2026-07-18T03:01:53Z"
+  last_post_link: https://www.fuyuzhe.com/propellerads-china-joy-2026.html
   last_post_categories:
-  - Ai联盟营销
-  - CAPI
-  - Facebook广告
-  - Media Buy
-  - Meta广告
-  - Niche站赚钱
-  - Pixel追踪
-  - 内容营销
-  - 实操案例
-  - 广告优化
-  - 广告归因
-  - 归因功能
-  - 数据丢失
-  - 服务器端追踪
-  - 浏览器像素
-  - 联盟营销
-  - 被动收入
-  - 转化数据
+  - Affiliate经验
+  - Affiliate营销圈
+  - China Joy 2026
+  - propellerads
+  - 未分类
   last_post_language: ""
-  last_post_guid: c1f4dcfaad9184af2ec0d480f9c66e6b
+  last_post_guid: 7b47f7ebd38195fe1de9e57a1ac87382
   score_criteria:
     cats: 0
     description: 3

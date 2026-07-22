@@ -18,35 +18,38 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
-  - DC Bureau
+  - Criminal Justice
+  - Education
+  - Health Care
   relme: {}
-  last_post_title: Former Trump adviser John Bolton pleads guilty to mishandling sensitive
-    documents
-  last_post_description: John Bolton, a national security adviser to President Donald
-    Trump in his first term, pleaded guilty Friday to a federal charge of mishandling
-    classified information, the Department of Justice said
-  last_post_date: "2026-06-26T20:03:36Z"
-  last_post_link: https://missouriindependent.com/2026/06/26/repub/former-trump-adviser-john-bolton-pleads-guilty-to-mishandling-sensitive-documents/
+  last_post_title: 15 states sue Trump administration to block school mental health
+    funding cuts
+  last_post_description: Fifteen states on Friday sued the Trump administration to
+    prevent millions of dollars in cuts to school-based mental health funding. The
+    new lawsuit is part of an ongoing legal battle between
+  last_post_date: "2026-07-10T21:51:49Z"
+  last_post_link: https://missouriindependent.com/2026/07/10/repub/15-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/
   last_post_categories:
-  - DC Bureau
+  - Criminal Justice
+  - Education
+  - Health Care
   last_post_language: ""
-  last_post_guid: ab5d1e60eb77467fdfdf7147a8104706
+  last_post_guid: b11847373c39118a04eb4d29c8d7495f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

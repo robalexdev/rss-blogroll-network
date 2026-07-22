@@ -1,6 +1,6 @@
 ---
 title: Matte Shot - a tribute to Golden Era &amp; Traditional Special Effects
-date: "2026-06-28T11:17:43+12:00"
+date: "2026-07-13T03:55:54+12:00"
 description: |-
   This blog is intended as a tribute to the ingenuity of the traditional matte painter where movie magic was created entirely by hand.
 

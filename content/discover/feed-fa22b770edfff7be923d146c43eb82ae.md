@@ -10,7 +10,7 @@ params:
     https://47nil.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I have tried...
+  last_post_title: Kaizen
   last_post_description: ""
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://47nil.com/tried
+  last_post_link: https://47nil.com/kaizen
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: da41cdac1fbf7b04061d1e66dede9f66
+  last_post_guid: d47b74756c8b735ba00a8af027db43b0
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 235
+  postcount: 242
   avgpostlen: 0
 ---

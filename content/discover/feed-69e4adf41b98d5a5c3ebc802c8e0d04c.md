@@ -10,7 +10,7 @@ params:
     https://aethermug.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,13 +27,13 @@ params:
   categories: []
   relme:
     https://aethermug.com/: true
-  last_post_title: Anatomy of Augmented Thought
-  last_post_description: There is no magic wand
-  last_post_date: "2026-06-18T00:38:33Z"
-  last_post_link: https://aethermug.com/posts/aat?utm_source=rss&utm_campaign=rss
+  last_post_title: The King's Great Fortune
+  last_post_description: ""
+  last_post_date: "2026-07-16T10:45:13Z"
+  last_post_link: https://aethermug.com/posts/kings-great-fortune?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 058663b11edcd25042b1634def83d4de
+  last_post_guid: 0402042b67f5da6b33249bcb83dc3b30
   score_criteria:
     cats: 0
     description: 3
@@ -51,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 94
+  postcount: 102
   avgpostlen: 0
 ---

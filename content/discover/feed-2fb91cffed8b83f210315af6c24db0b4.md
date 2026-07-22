@@ -18,18 +18,18 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: The invisible engineering behind Lambda’s network
-  last_post_description: The subtle inventiveness that reduced cold start setup from
-    seconds to 200μs.
-  last_post_date: "2026-04-22T06:00:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: 'Now Go Build CTO Fellowship: Season 2'
+  last_post_description: Today, we're releasing the second season of the Now Go Build
+    documentary series. Five episodes featuring technology leaders from around the
+    world solving the hardest problems in healthcare and
+  last_post_date: "2026-07-08T01:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2ed58ec02e89bad3915645b0f46a534b
+  last_post_guid: e8e0eee1e76e310bfbebc90c8e64c9b5
   score_criteria:
     cats: 0
     description: 3

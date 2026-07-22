@@ -15,24 +15,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ausfahrten
-  - Fahrradtour
-  - Karlsruhe
+  - Bretten
+  - Heimat
   - Kraichgau
+  - Landdertausendhügel
+  - Peterundpaul
+  - Peterundpaulfest
   relme: {}
-  last_post_title: Alles in Ordnung
-  last_post_description: 'Diese Welt ist alles andere als leicht zu ertragen: Aus
-    einer ursprünglichen Momentaufnahme des Wahnsinns und der Irren ist ein Standbild
-    geworden. Nichts für schwache Gemüter. Für mich'
-  last_post_date: "2026-06-19T10:54:21Z"
-  last_post_link: https://1000huegelmomente.de/alles-in-ordnung/
+  last_post_title: Ein starkes Wir
+  last_post_description: Ich sitze vor einem weiÃŸen Blatt Papier (in Bildern gesprochen)
+    und frage mich, was ich Ã¼ber das zurÃ¼ckliegende Wochenende zum „Peter-und-Paul-Fest“
+    in Bretten schreiben kann. Vieles
+  last_post_date: "2026-07-10T13:49:15Z"
+  last_post_link: https://1000huegelmomente.de/ein-starkes-wir/
   last_post_categories:
-  - Ausfahrten
-  - Fahrradtour
-  - Karlsruhe
+  - Bretten
+  - Heimat
   - Kraichgau
+  - Landdertausendhügel
+  - Peterundpaul
+  - Peterundpaulfest
   last_post_language: ""
-  last_post_guid: 3d8e79d5278d66e7d3a38460215c8e0e
+  last_post_guid: 9e2aaf281949338103970180d7c55f1c
   score_criteria:
     cats: 0
     description: 3

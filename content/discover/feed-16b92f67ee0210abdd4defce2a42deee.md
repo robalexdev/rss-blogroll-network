@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2026-06-28T09:59:52Z"
+date: "2026-07-21T11:12:59Z"
 description: Independent software developer. I build Mac and web apps like Picmal
   and Cozy Journal, and write essays on making things, curiosity, and philosophy.
 params:
@@ -11,7 +11,7 @@ params:
     https://albertogalca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

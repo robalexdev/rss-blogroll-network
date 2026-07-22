@@ -1,6 +1,6 @@
 ---
 title: Bits, Bobs & Breakpoints — Aaron Holmes
-date: "2026-06-01T17:07:44Z"
+date: "2026-07-06T18:09:48Z"
 description: Bits, Bobs & Breakpoints — Aaron Holmes
 params:
   feedlink: https://aaronholmes.net/rss.xml
@@ -50,6 +50,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 28
-  avgpostlen: 273
+  postcount: 29
+  avgpostlen: 274
 ---

@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2026-06-28T22:07:09Z"
+date: "2026-07-22T11:57:49Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 国内注册币安账号并通过 KYC 教程
-  last_post_description: 国内注册币安账号并通过 KYC 教程
-  last_post_date: "2026-05-28T16:25:26Z"
-  last_post_link: https://baiyun.me/how-to-sign-up-binance-account-and-pass-kyc
+  last_post_title: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
+  last_post_description: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
+  last_post_date: "2026-07-19T10:04:37Z"
+  last_post_link: https://baiyun.me/zhejiang-hangzhou-telecom-iptv
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 91f1bda8a0d7344f41ec8b25ab53210d
+  last_post_guid: 6567cf14a37a76a5cbbca502a22e6394
   score_criteria:
     cats: 0
     description: 3
@@ -46,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 57
-  avgpostlen: 246
+  postcount: 58
+  avgpostlen: 245
 ---

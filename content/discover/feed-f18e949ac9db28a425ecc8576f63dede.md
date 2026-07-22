@@ -1,6 +1,6 @@
 ---
 title: Laura's Miscellaneous Musings
-date: "2026-06-28T17:38:41-07:00"
+date: "2026-07-12T12:06:58-07:00"
 description: ""
 params:
   feedlink: https://laurasmiscmusings.blogspot.com/atom.xml
@@ -16,14 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Tonight''s Movie: The Big Combo (1955) - An Ignite Films Blu-ray
-    Review'
+  last_post_title: Around the Blogosphere This Week
   last_post_description: ""
-  last_post_date: "2026-06-28T17:12:52-07:00"
-  last_post_link: https://laurasmiscmusings.blogspot.com/2026/06/tonights-movie-big-combo-1955-ignite.html
+  last_post_date: "2026-07-12T10:38:17-07:00"
+  last_post_link: https://laurasmiscmusings.blogspot.com/2026/07/around-blogosphere-this-week_01627377431.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3aaedb10bf1b0b22d111207735232719
+  last_post_guid: b91a660c880dd71b9bf0455055064d4e
   score_criteria:
     cats: 0
     description: 0

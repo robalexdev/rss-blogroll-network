@@ -1,5 +1,5 @@
 ---
-title: Shilin typing...
+title: Shilin typing
 date: "1970-01-01T00:00:00Z"
 description: 'Hi, I’m Sergei! I’m an entrepreneur, musician, rock climber, and thinker
   who writes about what matters most to me: startups, health, and always sleeping

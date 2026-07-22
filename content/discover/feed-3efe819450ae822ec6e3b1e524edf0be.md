@@ -1,6 +1,6 @@
 ---
 title: Abstract Heresies
-date: "2026-06-28T15:52:33-07:00"
+date: "2026-07-12T04:48:45-07:00"
 description: Unorthodox opinions on computer science and programming.
 params:
   feedlink: https://funcall.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://funcall.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Liferea Feed List Export
@@ -135,5 +135,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 294
 ---

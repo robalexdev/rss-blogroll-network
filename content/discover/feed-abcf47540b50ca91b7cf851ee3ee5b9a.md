@@ -346,7 +346,6 @@ params:
   - whaler
   - wind machine
   relme:
-    https://draft.blogger.com/profile/11833483639783575804: true
     https://modelaircraftinthecinema.blogspot.com/: true
     https://modelspaceshipsinthecinema.blogspot.com/: true
     https://rcscifi.blogspot.com/: true

@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-06-23T01:58:11Z"
+date: "2026-07-14T03:56:57Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -10,12 +10,12 @@ params:
     https://anniemueller.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Robert Birming - Blogroll
-    description: ""
-    id: a1b2ebb6df722e537b9d21639b1e0494
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -31,28 +31,25 @@ params:
   - title: feeds.opml
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
-  - title: The Art Of Not Asking Why - Blogroll
-    description: ""
-    id: e79d34746977a283ee12bf2f27dfee7a
   - title: English RSS collated by MoreRSS
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
-  - https://birming.com/feed
-  - https://birming.com/feed/
+  - https://colinwalker.blog/dailyfeed.xml
+  - https://colinwalker.blog/livefeed.xml
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: A bundle of bones // W24 + 25 — 2026
-  last_post_description: 'I have to publish this now, we’re already halfway through
-    W26. Current situation: Monday 08 June: The U of Ark college visit. Zeke really
-    likes it and they have a...'
-  last_post_date: "2026-06-24T21:29:53Z"
-  last_post_link: https://anniemueller.com/posts/a-bundle-of-bones-w24-plus-25-2026
+  last_post_title: I have no idea who celebrities are anymore
+  last_post_description: Julia Roberts? She was in that one movie with that guy, and
+    the other one with the other guy, and like 100 more. Whatever. But sheâ€™s old
+    news. Like all...
+  last_post_date: "2026-07-14T03:56:57Z"
+  last_post_link: https://anniemueller.com/posts/i-have-no-idea-who-celebrities-are-anymore
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4a6bb582c12196fdf81ed7d9ff1f5f0
+  last_post_guid: 24a7fec6734dfb1aa979363f28ecccc8
   score_criteria:
     cats: 0
     description: 0
@@ -71,5 +68,5 @@ params:
   innetwork: true
   language: en
   postcount: 25
-  avgpostlen: 296
+  avgpostlen: 295
 ---

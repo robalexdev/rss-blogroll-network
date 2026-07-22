@@ -13,9 +13,6 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -23,32 +20,32 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: No Instagram, no privacy
+  last_post_title: Park Privé
   last_post_description: |-
-    I somehow escaped having an Instagram account.
-    This means that I am oblivious to all of my friends’ fun broadcasted on Instagram. I don’t feel pressured either to update the abstract audience of
-  last_post_date: "2025-05-05T00:00:00Z"
-  last_post_link: https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/
+    Gele dranghekken versperren de toegang tot het Ossegempark aan het Amerikaans theater. Met mijn fiets glip ik er gemakkelijk tussen, helaas niet onopgemerkt.
+    “Il faut faire le tour monsieur”,
+  last_post_date: "2026-06-29T00:00:00Z"
+  last_post_link: https://blog.wouterjanleys.com/blog/park-prive-nl/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ae4d6de634812d7f1b9214377765a1d9
+  last_post_guid: 9020b7ca5108c927ee9f3e6afd12d0bc
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
-    hasPosts: 1
+    hasPosts: 2
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 1
+  postcount: 2
   avgpostlen: 0
 ---

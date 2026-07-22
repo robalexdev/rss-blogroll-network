@@ -1,7 +1,7 @@
 ---
 title: 烧饼博客
 date: "1970-01-01T00:00:00Z"
-description: 烧饼博客是一个专注于服务器运维、专业域名投资分析的网站
+description: 烧饼博客是一个专注于服务器运维、专业域名投资分析的网站。
 params:
   feedlink: https://u.sb/rss.xml
   feedtype: rss
@@ -22,14 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute
-  last_post_description: 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute
-    Raccoon。
-  last_post_date: "2026-05-19T19:12:04Z"
-  last_post_link: https://u.sb/ubuntu-upgrade-2604/
+  last_post_title: 博客大联盟：一个给独立博客的收录与聚合站
+  last_post_description: 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。
+  last_post_date: "2026-07-11T12:39:00Z"
+  last_post_link: https://u.sb/boke/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c429069007c0d468744a30ace9563632
+  last_post_guid: 5f35c4d3d86726f6d49a0c0953af7263
   score_criteria:
     cats: 0
     description: 3
@@ -47,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 15
+  postcount: 20
   avgpostlen: 0
 ---

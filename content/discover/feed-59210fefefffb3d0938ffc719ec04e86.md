@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Cultures, not Games
-  last_post_description: |-
-    Alright, imagine two groups of friends who both come together to play, let's say Dolmenwood.
-    The first group's referee is well versed in the OSR. She has run a few campaigns and her players know what
-  last_post_date: "2026-06-28T16:30:00Z"
-  last_post_link: https://elmc.at/cultures-not-games/
+  last_post_title: I Miss Edinburgh
+  last_post_description: I took this video from the balcony of my last flat. A storm
+    had just passed and my wife excitedly called me out to see the rainbow. This is
+    overlooking Goldenacre Playing Fields, where we had the
+  last_post_date: "2026-07-20T23:11:00Z"
+  last_post_link: https://householderkarl.com/i-miss-edinburgh/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d2a22244ae158cf60be27a82c38ac16
+  last_post_guid: d3fa5e8f1f05eaa6775214e22a581d90
   score_criteria:
     cats: 0
     description: 3

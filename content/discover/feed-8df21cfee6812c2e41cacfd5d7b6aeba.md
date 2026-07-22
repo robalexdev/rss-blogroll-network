@@ -10,7 +10,7 @@ params:
     https://annievella.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Middle Loop
-  last_post_description: Early in my career, I took a job as a software developer
-    at a large consultancy. Turns out the work mostly involved fixing other people’s
-    Access databases by right-clicking and hitting “repair”
-  last_post_date: "2026-03-13T00:00:00+13:00"
-  last_post_link: http://annievella.com/posts/the-middle-loop/
+  last_post_title: The Productivity-Experience Paradox
+  last_post_description: This is the second post in a series I’m writing about the
+    most interesting findings from my Masters research on the impact of AI on software
+    engineering, as well as some of the thoughts I’ve had
+  last_post_date: "2026-07-21T00:00:00+12:00"
+  last_post_link: http://annievella.com/posts/the-productivity-experience-paradox/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca64e79215a401dea3acb15dd72c11db
+  last_post_guid: fb63827869940654e0d5ae5b7d7ee4c4
   score_criteria:
     cats: 0
     description: 3

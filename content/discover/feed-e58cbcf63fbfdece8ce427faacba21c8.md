@@ -17,14 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The mysterious Hy3 LLM is topping OpenRouter Model Rankings by
-    a large margin
-  last_post_description: Why Hy3?
-  last_post_date: "2026-05-26T08:30:00-07:00"
-  last_post_link: https://minimaxir.com/2026/05/openrouter-hy3/
+  last_post_title: What's the deal with all the random weekly quota resets for agents
+    lately?
+  last_post_description: I’m going to be the weirdo who complains about literally
+    getting free stuff.
+  last_post_date: "2026-07-18T12:00:00-07:00"
+  last_post_link: https://minimaxir.com/2026/07/agent-quota-reset/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c71ba8761f6f7bf3e9e0870fa23530b7
+  last_post_guid: 6159f133b53984cb4f2c236b02597f10
   score_criteria:
     cats: 0
     description: 3

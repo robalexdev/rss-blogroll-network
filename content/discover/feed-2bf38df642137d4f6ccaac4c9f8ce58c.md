@@ -13,9 +13,6 @@ params:
   - title: HN Personal Websites
     description: ""
     id: 2d06252d862b16b20bf508ffad823c50
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
@@ -46,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 630
+  postcount: 632
   avgpostlen: 0
 ---

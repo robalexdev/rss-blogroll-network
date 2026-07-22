@@ -18,26 +18,28 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
-  - AI Agents
-  - AI Infrastructure
+  - AI Operations
+  - API Management
   - Model Context Protocol (MCP)
+  - sponsor-pagerduty
+  - sponsored-post-contributed
   relme: {}
-  last_post_title: '“Bring it to our shop”: Workday’s pitch for keeping AI agents
-    close to your most valuable data'
+  last_post_title: APIs aren’t dead. Here’s where MCP fits alongside them.
   last_post_description: |-
-    Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses
-    The post “Bring it to our shop”: Workday’s pitch for keeping AI agents close
-  last_post_date: "2026-06-28T15:00:00Z"
-  last_post_link: https://thenewstack.io/workday-ai-inference-guardrails/
+    The allure of emerging technology is undeniable, but adopting it rarely means completely ripping out what already works. Instead, new
+    The post APIs aren’t dead. Here’s where MCP fits alongside
+  last_post_date: "2026-07-12T18:00:00Z"
+  last_post_link: https://thenewstack.io/api-vs-mcp-incident-management/
   last_post_categories:
-  - AI Agents
-  - AI Infrastructure
+  - AI Operations
+  - API Management
   - Model Context Protocol (MCP)
+  - sponsor-pagerduty
+  - sponsored-post-contributed
   last_post_language: ""
-  last_post_guid: 3a21a32ae11458f1c2f2cf39f43dc010
+  last_post_guid: 58e2c7401d7efb3ed7e80e3d05e066af
   score_criteria:
     cats: 0
     description: 0

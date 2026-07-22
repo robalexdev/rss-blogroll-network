@@ -8,10 +8,9 @@ params:
   feedid: 6ccd82f1e00754dc6efde9fa2f0e752d
   websites:
     https://feld.com/: true
-    https://www.feld.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net

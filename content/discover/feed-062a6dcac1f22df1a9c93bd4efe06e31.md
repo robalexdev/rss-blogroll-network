@@ -14,15 +14,9 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Following
-    description: ""
-    id: 3ab37f775eca10153e3c7a600b2fbe77
-  - title: Goblin Gumbo - Blogroll
-    description: ""
-    id: fba95217f7d9c7c26c5a9f717740f80e
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -48,15 +42,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Guava Soda & Flamin’ Hot Cheetos
-  last_post_description: Back on my bullshit. This guava soda is good, maybe too sweet?
-    But these “New” (new to Japan) Flamin’ Hot Cheetos? Guys, these are not “Flamin’
-    Hot.” They are barely spicy. Also,
-  last_post_date: "2026-06-27T07:55:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/guava-soda-flamin-hot.html
+  last_post_title: Server Migration
+  last_post_description: When I woke up on Saturday at 4am to use the toilet, I made
+    the mistake of picking up my phone. Instead of sleeping, I opened a conversation
+    from the day before. I clicked a link to Parakeet only to
+  last_post_date: "2026-07-20T08:35:00+09:00"
+  last_post_link: https://lmnt.me/blog/server-migration.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1f00c755a06cd21c6ac6ab981cda133c
+  last_post_guid: ba284c267535b73e0d892af6f1b167cf
   score_criteria:
     cats: 1
     description: 3
@@ -74,6 +68,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 320
+  postcount: 390
   avgpostlen: 0
 ---

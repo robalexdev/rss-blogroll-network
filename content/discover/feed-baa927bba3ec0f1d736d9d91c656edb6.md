@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2026-06-27T13:33:00Z"
+date: "2026-07-10T23:04:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /lang
+  - /math
   relme: {}
-  last_post_title: It's our language now!
+  last_post_title: Starting to understand epsilon-zero
   last_post_description: ""
-  last_post_date: "2026-06-27T13:33:00Z"
-  last_post_link: https://blog.plover.com/lang/who-owns-english.html
+  last_post_date: "2026-07-10T23:04:00Z"
+  last_post_link: https://blog.plover.com/math/epsilon-zero.html
   last_post_categories:
-  - /lang
+  - /math
   last_post_language: ""
-  last_post_guid: a3d7a198ff89d688af8d8f088e898d63
+  last_post_guid: b6ee53a522d4e4e3e51aa0e65aab0315
   score_criteria:
     cats: 0
     description: 3
@@ -50,5 +50,5 @@ params:
   innetwork: true
   language: ""
   postcount: 12
-  avgpostlen: 296
+  avgpostlen: 295
 ---

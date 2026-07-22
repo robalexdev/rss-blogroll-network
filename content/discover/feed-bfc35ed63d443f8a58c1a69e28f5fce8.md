@@ -16,15 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'SEO Strategy 2026: Rank Higher with AI &amp; AEO'
+  last_post_title: 'Email Marketing Trends 2026: What Actually Works (According to
+    the People Doing It)'
   last_post_description: |-
-    Will traditional SEO still work to get you to the top of Google in 2026? Not really. The way we search has changed.
-    There are more than just blue links now. You now have to compete with AI answers,
-  last_post_date: "2026-06-08T10:54:23Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/seo-strategy-2026-rank-higher-with-ai-aeo
+    The biggest email marketing trend of 2026 is a shift from
+    copy to infrastructure. Reply rates have fallen to 5.8% on average, open
+    rates are no longer trustworthy, and Gmail, Yahoo, and Microsoft
+  last_post_date: "2026-07-11T10:34:02Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/email-marketing-trends-2026-what-actually-works-according-to-the-people-doing-it
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3874fb518d54e14dafb81e340507f82d
+  last_post_guid: a5f7ed6a84fd1394458dce3c68051523
   score_criteria:
     cats: 0
     description: 3

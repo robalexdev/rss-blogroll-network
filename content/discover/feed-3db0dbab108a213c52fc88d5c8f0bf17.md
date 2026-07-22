@@ -13,39 +13,38 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
+  recommender: []
   categories:
   - Personal
-  - caffeine
-  - coffee
-  - heatwave
+  - buses
+  - europe
+  - france
+  - london
+  - public transport
+  - trains
+  - travel
   relme: {}
-  last_post_title: '[Note] A Litre of Coffee'
-  last_post_description: |-
-    Some mornings... you just gotta make a whole damn litre of coffee.
-    (for iced coffee purposes, of course; and definitely not just for me!)
-  last_post_date: "2026-06-26T08:27:56+01:00"
-  last_post_link: https://danq.me/2026/06/26/a-litre-of-coffee/
+  last_post_title: '[Article] Contactless Transport in London vs Paris'
+  last_post_description: Paris is rolling-out contactless tap-in payments for its
+    transport network. Sounds like London's... except that Paris's includes a "convenience
+    tax" that seems to disproportionately target short-term
+  last_post_date: "2026-07-21T12:06:52+01:00"
+  last_post_link: https://danq.me/2026/07/21/contactless-transport-in-london-vs-paris/
   last_post_categories:
   - Personal
-  - caffeine
-  - coffee
-  - heatwave
+  - buses
+  - europe
+  - france
+  - london
+  - public transport
+  - trains
+  - travel
   last_post_language: ""
-  last_post_guid: 8ef37aaf2e3585a9481a7859338a0953
+  last_post_guid: 0f0f50d3a83536f677430f4ef70142e6
   score_criteria:
     cats: 0
     description: 3

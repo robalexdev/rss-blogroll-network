@@ -11,40 +11,33 @@ params:
     https://numericcitizen.me/: true
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories:
-  - Ephemeral Scrapbook
+  categories: []
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — 2026.06.07
-  last_post_description: Pre-WWDC26 edition. Will Apple finally deliver Apple Intelligence
-    to their devices and users? Let’s pray, shall we? Enjoy your WWDC pre-recorded
-    (!) show.
-  last_post_date: "2026-06-07T20:01:29Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-06-07-2/
-  last_post_categories:
-  - Ephemeral Scrapbook
+  last_post_title: The Ephemeral Scrapbook — 2026.07.12
+  last_post_description: Bye bye Om Malik. Hello Apple price hikes. Yikes.
+  last_post_date: "2026-07-13T11:16:35Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-07-12/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: fad05c8e8134da6d5fdbdf16b62b4e8e
+  last_post_guid: 23bae0e89c2d7a55032d6271da44bb9f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -32,11 +32,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper
-    for LLM APIs'
+  last_post_title: '"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok'
   last_post_description: Comments
-  last_post_date: "2026-06-28T19:43:10Z"
-  last_post_link: https://github.com/kamaludu/bash4llm/
+  last_post_date: "2026-07-21T21:13:20Z"
+  last_post_link: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

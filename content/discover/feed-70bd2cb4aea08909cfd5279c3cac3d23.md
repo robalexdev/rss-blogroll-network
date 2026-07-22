@@ -23,19 +23,8 @@ params:
   - title: ""
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
-  - title: ""
-    description: ""
-    id: 4e2ec23ac536a5d58f2702b4603e3554
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
-  recommender:
-  - https://hacdias.com/articles/feed.xml
-  - https://hacdias.com/feed.xml
-  - https://hacdias.com/writings/feed.xml
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
+  recommender: []
   categories: []
   relme: {}
   last_post_title: Active recall

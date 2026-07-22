@@ -10,12 +10,9 @@ params:
     https://artiss.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -25,16 +22,16 @@ params:
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Boots, BST and the time of day
-  last_post_description: Whilst it’s been 9 years since I worked there, I’d bet good
-    money that Boots The Chemist’s POS (Point of Sale) system hasn’t changed. In which
-    case, every time it changes from GMT to BST or
-  last_post_date: "2026-06-08T15:17:17Z"
-  last_post_link: https://artiss.blog/2026/06/boots-bst-and-the-time-of-day/
+  last_post_title: 'Center Parcs UK: Quick tips for first time visitors'
+  last_post_description: If you’re visiting Center Parcs in the UK anytime soon, here
+    are a few quick tips that may help you out, based on my own experience. My last
+    visit was 2026, so are relevant at that time. Since 2001
+  last_post_date: "2026-07-04T07:11:34Z"
+  last_post_link: https://artiss.blog/2026/07/center-parcs-uk-quick-tips-for-first-time-visitors/
   last_post_categories:
   - Life
   last_post_language: ""
-  last_post_guid: 2e423c20204c35d112efe1572b17838d
+  last_post_guid: e3c0765da9d6beb4828eba5ea0cfbbdb
   score_criteria:
     cats: 0
     description: 3

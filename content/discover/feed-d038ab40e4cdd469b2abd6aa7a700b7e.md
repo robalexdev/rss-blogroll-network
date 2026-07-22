@@ -22,17 +22,17 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Corruption for Make Benefit Glorious Family of Trump
-  last_post_description: The emoluments are the message
-  last_post_date: "2026-06-28T19:27:12Z"
-  last_post_link: https://paulkrugman.substack.com/p/corruption-for-make-benefit-glorious
+  last_post_title: AI in an Age of Oligarchy
+  last_post_description: Why extreme inequality will magnify the social, political
+    and economic downside of technology
+  last_post_date: "2026-07-12T10:30:26Z"
+  last_post_link: https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 71dfa238c4e123a4f632ab49fa6efe2e
+  last_post_guid: 7af6505f1ca203e9a7fe9bdddf017c3e
   score_criteria:
     cats: 0
     description: 3

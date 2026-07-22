@@ -8,7 +8,6 @@ params:
   feedid: da345d35bab8ae2555d6c7c1b514aac6
   websites:
     https://100r.ca/: true
-    https://100r.ca/site/support.html: false
     https://100r.co/: false
   blogrolls: []
   in_blogrolls:
@@ -20,22 +19,21 @@ params:
   categories: []
   relme:
     https://100r.ca/: true
-    https://100r.ca/site/support.html: true
     https://kokorobot.ca/: true
     https://merveilles.town/@rek: true
     https://rabbitwaves.ca/: true
-  last_post_title: Summary of changes for May 2026
+  last_post_title: Summary of changes for June 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of May.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of June.
 
 
 
-      Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and
-  last_post_date: "2026-05-31T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#may2026
+      Wiki, we had a few things fail this month, see: solar cooking experiment, and ipad media
+  last_post_date: "2026-07-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#jun2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e8ccaea86ea82ce31c4f7c91776c34b5
+  last_post_guid: 0ae2af6777c7abd592f489992744a53e
   score_criteria:
     cats: 0
     description: 3
@@ -53,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 82
+  postcount: 88
   avgpostlen: 0
 ---

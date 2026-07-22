@@ -20,20 +20,19 @@ params:
       feedlandDatabase v0.8.16.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
   - Daily Rundown
   relme: {}
-  last_post_title: "\U0001F6CE️ Stanford: No Fresh Start"
-  last_post_description: 'Plus: Grok Took the "Dirty" Money, SoftBank Is Just an OpenAI
-    Bet Now'
-  last_post_date: "2026-06-26T10:00:54Z"
-  last_post_link: https://aisecret.us/stanford-no-fresh-start/
+  last_post_title: "\U0001F6CE️ GPT Works For Everything"
+  last_post_description: 'Plus: The Algorithms Couldn''t Read AI, Zuckerberg Crawled
+    Back to X'
+  last_post_date: "2026-07-10T10:00:59Z"
+  last_post_link: https://aisecret.us/gpt-works-for-everything/
   last_post_categories:
   - Daily Rundown
   last_post_language: ""
-  last_post_guid: 92c15d2311a9a971fdecae0e250765ac
+  last_post_guid: 495ae30438be2e087631cd50f1fd885f
   score_criteria:
     cats: 0
     description: 3

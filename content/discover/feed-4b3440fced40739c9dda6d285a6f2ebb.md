@@ -10,9 +10,6 @@ params:
     https://jpalfrey.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: FeedLand hotlist in OPML
-    description: The most popular feeds on FeedLand, as an OPML subscription list.
-    id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.8.16.
@@ -25,8 +22,7 @@ params:
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
   - "2026"
   - Harvard
@@ -34,8 +30,7 @@ params:
   - Radcliffe
   - Radcliffe Medal
   - Ruth J. Simmons
-  relme:
-    https://jpalfrey.blog/: true
+  relme: {}
   last_post_title: 'Radcliffe Day 2026: Honoring Dr. Ruth Simmons'
   last_post_description: John Palfrey, May 29, 2026, Cambridge, MA, USA Thank you,
     Dean Brown-Nagin, and all Radcliffe Institute staff for putting on such a wonderful
@@ -60,10 +55,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

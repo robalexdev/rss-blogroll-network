@@ -1,6 +1,6 @@
 ---
 title: Kleefeld on Comics
-date: "2026-06-28T20:58:23-04:00"
+date: "2026-07-12T10:18:33-04:00"
 description: |-
   Verbum et imago sicut unum.
   Word and picture as one.
@@ -56,12 +56,12 @@ params:
     https://www.kleefeldoncomics.com/: true
   last_post_title: Weekly Recap
   last_post_description: ""
-  last_post_date: "2026-06-28T10:04:00-04:00"
-  last_post_link: https://www.kleefeldoncomics.com/2026/06/weekly-recap_01202431069.html
+  last_post_date: "2026-07-12T10:18:33-04:00"
+  last_post_link: https://www.kleefeldoncomics.com/2026/07/weekly-recap_01128008204.html
   last_post_categories:
   - Recap
   last_post_language: ""
-  last_post_guid: 2547e56a45da42213017ffb946467ee6
+  last_post_guid: c036176ee95d5f533255000df9f2fbfd
   score_criteria:
     cats: 5
     description: 3
@@ -80,5 +80,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 252
+  avgpostlen: 251
 ---

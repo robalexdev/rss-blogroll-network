@@ -8,7 +8,6 @@ params:
   feedid: f8e9aecd595c288dadf6dc75808c152e
   websites:
     https://wiwi.blog/: false
-    https://wiwi.blog/blog: true
     https://wiwi.blog/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -22,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 水溝消毒
-  last_post_description: 你有沒有遇過家裡附近的水溝消毒？就是每隔兩到三個月，環保局的清潔人員背著噴霧器、朝水溝裡噴藥的儀式。
-  last_post_date: "2026-06-29T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/gutter-disinfection
+  last_post_title: 1 = 5,000
+  last_post_description: YouTuber 可以拿到的廣告分潤範圍非常大，會根據你所在的國家、影片主題等等因素有很大的差異。
+  last_post_date: "2026-07-22T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/1-vs-5000
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16ef554569aea593ddfe8dab7c821b5f
+  last_post_guid: 9d34ed0386141bdcb9485c811e50ac36
   score_criteria:
     cats: 0
     description: 3
@@ -40,12 +39,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 675
+  postcount: 875
   avgpostlen: 0
 ---

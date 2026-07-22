@@ -22,17 +22,15 @@ params:
   relme:
     https://blog.shrediverse.net/: true
     https://cool-as-heck.blog/: true
-    https://cool-as-heck.blog/about/: true
     https://dmv.community/@jcrabapple: true
-  last_post_title: 'Sleep Token’s ‘Even In Arcadia’: A Deep Dive Into Their Most Ambitious
-    Work Yet'
-  last_post_description: Sleep Token's fourth album "Even In Arcadia" marks their
-    RCA Records debut with 10 tracks blending R&B, hip hop, alt-pop, and metal.
-  last_post_date: "2025-05-28T15:53:03Z"
-  last_post_link: https://blog.shrediverse.net/posts/sleep-tokens-even-in-arcadia-a-deep-dive-into-their-most-ambitious-work-yet
+  last_post_title: Deep Dive Into Sleep Token’s “Sundowning” Album
+  last_post_description: Recently one of my favorite YouTubers, Steve O’G, did a deep
+    dive relisten of Sleep Token’s 2019 debut full length album “Sundowning”.
+  last_post_date: "2026-07-02T15:42:53Z"
+  last_post_link: https://blog.shrediverse.net/posts/deep-dive-into-sleep-tokens-sundowning-album
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 17523b8441c42fc712011bc372a1e2ff
+  last_post_guid: d4db223e7c76d4ae1c727fe6d0bd2fd9
   score_criteria:
     cats: 0
     description: 0

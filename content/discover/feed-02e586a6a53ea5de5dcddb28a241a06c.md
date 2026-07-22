@@ -27,17 +27,16 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: 我的 Vibe Coding 最佳实践——ADR文档
+  last_post_title: 为什么 Github OAuth 故意拦截 CORS
   last_post_description: |-
-    工作和业余也用AI写代码，大大小小项目都经历了。从 rules, skills, spec, agent 到  harness 都玩过了
-    从AI嘴里发现一条比较稳的套路——ADR文档
-    rule, skills,
-  last_post_date: "2026-06-26T09:40:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-24
+    Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the Web flow from a browser:
+    And this would mean that you're hard-coding your client_id and client_secret
+  last_post_date: "2026-07-18T19:32:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-29
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: f0a29de84d91d6c1b13120258b21662c
+  last_post_guid: 4b697fc059a53ec7fbac114dea854df8
   score_criteria:
     cats: 0
     description: 3

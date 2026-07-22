@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Run It Hot, Yet Again
-  last_post_description: I am back with a healthy dose of macro analysis for you
-  last_post_date: "2026-05-26T06:18:58Z"
-  last_post_link: https://themacrocompass.substack.com/p/run-it-hot-yet-again
+  last_post_title: The Maradona Theory of Interest Rates
+  last_post_description: Yes, seriously
+  last_post_date: "2026-07-13T07:14:51Z"
+  last_post_link: https://themacrocompass.substack.com/p/the-maradona-theory-of-interest-rates
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 96de5a75219d4387e365200a468b691c
+  last_post_guid: f75c433aab242101453b5169f374a246
   score_criteria:
     cats: 0
     description: 3

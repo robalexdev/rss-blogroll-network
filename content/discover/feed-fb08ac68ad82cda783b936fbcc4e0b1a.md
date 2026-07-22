@@ -25,28 +25,32 @@ params:
     description: ""
     id: 48bfd0207cfcbebb598acb065ff02b62
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
+  recommender: []
   categories:
-  - Gaelic Football
-  - all-ireland football championship
-  - dublin
-  - galway
+  - 2026 World Cup
+  - Andres Cantor
+  - Internationals
+  - Soccer
+  - Telemundo
+  - fox
+  - media business
   relme: {}
-  last_post_title: Dublin Pulls Off Comeback To Beat Galway In All-Ireland Quarterfinal
-  last_post_description: |-
-    Dublin closed out a thrilling All-Ireland football quarterfinal weekend with a massive and penalty-aided comeback to beat Galway Sunday afternoon in Croke Park, 1-25 to 1-21.
-
-    Galway was up by six
-  last_post_date: "2026-06-28T20:45:45Z"
-  last_post_link: https://defector.com/dublin-pulls-off-comeback-to-beat-galway-in-all-ireland-quarterfinal
+  last_post_title: Telemundo Is The Real Winner Of This Year’s World Cup
+  last_post_description: It was Sunday night in Los Angeles and streets of the city
+    legendary for its traffic sat empty. Even Trader Joe's—the beloved grocery chain
+    known as much for its tiny parking lots as its low
+  last_post_date: "2026-07-12T19:14:35Z"
+  last_post_link: https://defector.com/telemundo-is-the-real-winner-of-this-years-world-cup
   last_post_categories:
-  - Gaelic Football
-  - all-ireland football championship
-  - dublin
-  - galway
+  - 2026 World Cup
+  - Andres Cantor
+  - Internationals
+  - Soccer
+  - Telemundo
+  - fox
+  - media business
   last_post_language: ""
-  last_post_guid: c1e19902805b1037e6ab5a7c13f336b1
+  last_post_guid: 8d68fcb128aef93ea7d1a80fbfc20527
   score_criteria:
     cats: 0
     description: 3

@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Add an Uno Tarot card: Wild Draw Four (December 20, 2025)'
-  last_post_description: 'Add an Uno Tarot card: Wild Draw Four'
+  last_post_title: 'Watercolor from February: 23 Church Street, Cambridge MA (June
+    30, 2026)'
+  last_post_description: 'Watercolor from February: 23 Church Street, Cambridge MA'
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://www.suberic.net/~dmm/graphics/unotarot/unotarot.html#UnoWildDrawFour
+  last_post_link: https://www.suberic.net/~dmm/graphics/watercolor/watercolor.html#23Church
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aed6a7c92a785fcd066738286ea0a90f
+  last_post_guid: f71d8a55a437e3288cf59c0524a0dfd7
   score_criteria:
     cats: 0
     description: 3
@@ -40,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 125
+  postcount: 128
   avgpostlen: 0
 ---

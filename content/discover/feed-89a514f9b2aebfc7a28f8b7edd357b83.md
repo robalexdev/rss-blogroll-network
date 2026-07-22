@@ -10,7 +10,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,24 +26,29 @@ params:
   recommender: []
   categories:
   - ai
-  - generative-ai
-  - health
-  - midjourney
-  - privacy
+  - anthropic
+  - claude
+  - cursor
+  - monthly-dispatch
+  - openai
+  - regulations
   relme: {}
-  last_post_title: Wait, Midjourney Is Building a What Now?
-  last_post_description: Midjourney is apparently building a full-body ultrasonic
-    scanner spa. It sounds ridiculous, inspiring, and a little too Gattaca for comfort.
-  last_post_date: "2026-06-20T00:00:00Z"
-  last_post_link: https://theaspiringnerd.com/wait-midjourney-is-building-a-what-now/
+  last_post_title: The Monthly Dispatch - June 2026
+  last_post_description: US government restricts frontier AI models while Anthropic
+    and OpenAI file for IPO, SpaceX acquires Cursor , and Claude caught embedding
+    fingerprinting us.
+  last_post_date: "2026-07-03T00:00:00Z"
+  last_post_link: https://theaspiringnerd.com/the-monthly-dispatch-june-2026/
   last_post_categories:
   - ai
-  - generative-ai
-  - health
-  - midjourney
-  - privacy
+  - anthropic
+  - claude
+  - cursor
+  - monthly-dispatch
+  - openai
+  - regulations
   last_post_language: ""
-  last_post_guid: 5f6bf55329f04a2859cba55050721aa5
+  last_post_guid: 859b9fcff8d785c18a3e1568a6ce401a
   score_criteria:
     cats: 0
     description: 3
@@ -61,6 +66,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 137
+  postcount: 138
   avgpostlen: 0
 ---

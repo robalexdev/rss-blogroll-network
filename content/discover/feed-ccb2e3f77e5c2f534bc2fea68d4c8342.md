@@ -7,7 +7,7 @@ params:
   feedtype: atom
   feedid: ccb2e3f77e5c2f534bc2fea68d4c8342
   websites:
-    https://lottia.net/notes/: false
+    https://lottia.net/notes/: true
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -19,7 +19,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://lottia.net/notes/: true
   last_post_title: Fluent jj / aggressive aliasing
   last_post_description: ""
   last_post_date: "2026-04-19T02:10:00Z"
@@ -36,14 +37,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 17
-  avgpostlen: 286
+  postcount: 18
+  avgpostlen: 287
 ---

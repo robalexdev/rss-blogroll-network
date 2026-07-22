@@ -1,6 +1,6 @@
 ---
 title: Tolkien and Fantasy
-date: "2026-05-22T07:04:29-04:00"
+date: "2026-07-09T00:37:28-04:00"
 description: Musings on Tolkien and modern fantasy literature.
 params:
   feedlink: https://tolkienandfantasy.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://tolkienandfantasy.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -112,6 +112,7 @@ params:
   - John Wm. Houghton
   - John-Henri Holmberg
   - Jorge Luis Borges
+  - Josef Madlener
   - Journal of Tolkien Research
   - Keith Henderson
   - Ken Slater
@@ -239,7 +240,6 @@ params:
     https://bafcovers.blogspot.com/: true
     https://blinksread.blogspot.com/: true
     https://desturmobed.blogspot.com/: true
-    https://draft.blogger.com/profile/16844859516228160123: true
     https://jdrclassics.blogspot.com/: true
     https://kennethvennormorris.blogspot.com/: true
     https://leonardcline.blogspot.com/: true
@@ -247,17 +247,17 @@ params:
     https://tolkienandfantasy.blogspot.com/: true
     https://wormwoodiana.blogspot.com/: true
     https://www.blogger.com/profile/16844859516228160123: true
-  last_post_title: Books Dedicated to J.R.R. Tolkien During His Lifetime
-  last_post_description: Okay, I'm experimenting. My post on "Books Dedicated to J.R.R.
-    Tolkien During His Lifetime" is freely available at my (new) Tolkien Oddments
-    substack  I think you can link to it here.  For now I
-  last_post_date: "2026-05-02T20:50:00-04:00"
-  last_post_link: https://tolkienandfantasy.blogspot.com/2026/05/books-dedicated-to-jrr-tolkien-during.html
+  last_post_title: More on Josef Madlener
+  last_post_description: I've just posted a new piece at Tolkien Oddments substack.
+    Here is the beginning.  You can read the entire piece freely at this link.More
+    on MadlenerLast summer, I published a piece in The Journal
+  last_post_date: "2026-07-09T00:37:28-04:00"
+  last_post_link: https://tolkienandfantasy.blogspot.com/2026/07/more-on-josef-madlener.html
   last_post_categories:
-  - Books Dedicated to Tolkien
+  - Josef Madlener
   - Tolkien Oddments substack
   last_post_language: ""
-  last_post_guid: b6b46d1d69f758871ce8b3610ebca288
+  last_post_guid: 809feb83fa54dc35c7b9d392de5ba3f9
   score_criteria:
     cats: 5
     description: 3

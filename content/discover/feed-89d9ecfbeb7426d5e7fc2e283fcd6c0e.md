@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-06-26T14:10:53Z"
+date: "2026-07-07T13:25:44Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -28,7 +28,7 @@ params:
   relme: {}
   last_post_title: Designing a personal Pebble watchface
   last_post_description: ""
-  last_post_date: "2026-06-26T14:10:53Z"
+  last_post_date: "2026-07-07T13:25:44Z"
   last_post_link: https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface
   last_post_categories: []
   last_post_language: ""
@@ -50,6 +50,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 299
+  postcount: 306
   avgpostlen: 291
 ---

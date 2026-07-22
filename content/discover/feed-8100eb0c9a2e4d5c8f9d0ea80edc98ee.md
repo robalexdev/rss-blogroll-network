@@ -10,12 +10,9 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5343 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Chris Burnell Blogroll
-    description: ""
-    id: 7becef5fc95d0b51be024a2830568f06
   - title: Engineering Blogs
     description: ""
     id: 317142854d8813fd4e5e51d1a364b681
@@ -30,9 +27,6 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -40,29 +34,45 @@ params:
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
   recommended: []
-  recommender:
-  - http://scripting.com/rss.xml
-  - https://chrisburnell.com/feed.xml
+  recommender: []
   categories:
-  - My Glamorous Life
-  - Pete Zeldman
-  - glamorous
+  - Apple Logic Pro
+  - DAW
+  - Logic Pro
+  - ambient
+  - beats
+  - creativity
+  - digital recording
+  - electronic
+  - funk
+  - hip hop
+  - multitrack
   - music
+  - recording studio
   relme:
     https://zeldman.com/: true
-  last_post_title: Underdubbed
-  last_post_description: When my brother Pete and I were kids, and our parents were
-    out of town, we ditched school for a week and cut an “album” by recording backing
-    tracks to my dad’s reel-to-reel, then live
-  last_post_date: "2026-06-17T13:04:20Z"
-  last_post_link: https://zeldman.com/2026/06/17/underdubbed/
+  last_post_title: The name of this LP is “Side One.”
+  last_post_description: On Sunday, I published Side One of my album on Bandcamp.
+    The name of the album is also “Side One.” It is instrumental music with roots
+    in Soundtrack, hip-hop, funk, jazz, 19th Century Romantic
+  last_post_date: "2026-07-21T14:57:02Z"
+  last_post_link: https://zeldman.com/2026/07/21/the-name-of-this-lp-is-side-one/
   last_post_categories:
-  - My Glamorous Life
-  - Pete Zeldman
-  - glamorous
+  - Apple Logic Pro
+  - DAW
+  - Logic Pro
+  - ambient
+  - beats
+  - creativity
+  - digital recording
+  - electronic
+  - funk
+  - hip hop
+  - multitrack
   - music
+  - recording studio
   last_post_language: ""
-  last_post_guid: 08a2f27b404f2f0c18fad68f3d535202
+  last_post_guid: eb6647cc9354b4cd4780486576193429
   score_criteria:
     cats: 0
     description: 3

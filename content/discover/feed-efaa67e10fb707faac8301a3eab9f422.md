@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 看懂 z 说交易的「缺口」：那根线到底画在哪
+  last_post_title: 从 400U 到 800U：小账户做短线时，我这周学到的几件事
   last_post_description: |-
     引言
-    最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K
-  last_post_date: "2026-06-23T10:00:00+08:00"
-  last_post_link: https://blog.forecho.com/price-action-gap-zshuo-trading.html
+    上一篇写完的时候，我的实盘账户从 100U 做到了
+  last_post_date: "2026-07-15T11:00:00+08:00"
+  last_post_link: https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 239914cbb47c5a2f5440c4f69d870d67
+  last_post_guid: 2f1ae7f0295cdd766bf6896218cca050
   score_criteria:
     cats: 0
     description: 3

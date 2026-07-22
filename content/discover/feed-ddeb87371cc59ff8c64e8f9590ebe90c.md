@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我还是怕它
+  last_post_title: 使用 Docker 装 Python 环境
   last_post_description: ""
-  last_post_date: "2026-06-15T19:22:25+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/my-terrible-fear/
+  last_post_date: "2026-07-15T21:04:12+08:00"
+  last_post_link: https://yuanfan.rbind.io/project/docker-python/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30befbf3805cd3a8783bc31de7800ebe
+  last_post_guid: 46d483e97e1a0798962c30b1351153f8
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: zh
-  postcount: 348
+  postcount: 368
   avgpostlen: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-06-12T03:34:59Z"
+date: "2026-07-03T14:52:25Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -17,14 +17,12 @@ params:
   categories: []
   relme: {}
   last_post_title: tweet
-  last_post_description: 'India tech friends: I just bought my ticket to IndiaFOSS
-    in BLR Sept 26-27: https://fossunited.org/indiafoss/2026  Want to meet? Email
-    me: https://sive.rs/contact'
-  last_post_date: "2026-06-12T03:34:59Z"
+  last_post_description: '17 conversations in Jakarta, Indonesia: https://sive.rs/met/at-14'
+  last_post_date: "2026-07-03T14:52:25Z"
   last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 48a5b185d324ecd2f6c9b053f0b1664e
+  last_post_guid: 2fb0333ce21f1fd93d6a039cfdab43ad
   score_criteria:
     cats: 0
     description: 3
@@ -43,5 +41,5 @@ params:
   innetwork: true
   language: en
   postcount: 100
-  avgpostlen: 207
+  avgpostlen: 210
 ---

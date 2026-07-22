@@ -1,6 +1,6 @@
 ---
 title: 拾月的博客
-date: "2026-06-28T13:12:00Z"
+date: "2026-07-12T10:36:00Z"
 description: PC互联网遗民
 params:
   feedlink: https://www.skyue.com/feed/
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 折腾
+  - 日记
   relme: {}
-  last_post_title: vibe coding上瘾，真上瘾
-  last_post_description: 周末两天继续Vibe
-  last_post_date: "2026-06-28T13:12:00Z"
-  last_post_link: https://www.skyue.com/26062821.html
+  last_post_title: 搬家
+  last_post_description: 在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年
+  last_post_date: "2026-07-12T10:36:00Z"
+  last_post_link: https://www.skyue.com/26071218.html
   last_post_categories:
-  - 折腾
+  - 日记
   last_post_language: ""
-  last_post_guid: e7dfb99c2c8fa30905d179a82d876baf
+  last_post_guid: 6c0b90206a9e7556c07f461e920ff2ef
   score_criteria:
     cats: 0
     description: 3

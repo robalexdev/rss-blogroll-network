@@ -15,26 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 储蓄账户 Savings Accounts / 货币市场账户 MMA
-  - 支票账户
-  - 支票账户 Checking Accounts
-  - 活期储蓄账户/货币市场账户
+  - 已绝版信用卡
+  - 无年费信用卡
+  - 美国运通 American Express (AmEx)
+  - 返现信用卡
   relme: {}
-  last_post_title: 最新银行账户开户奖励汇总【2026.6 更新】
-  last_post_description: !!binary |
-    6L+R5bm05p2l77yM6ZO26KGM6LSm5oi355qE5byA5oi35aWW5Yqx5byA5aeL5Y+Y5b6X6L
-    aK5p2l6LaK6auY6LaK5p2l6LaK6aKR57mB77yM5oiQ5LqG5pK4576K5q+b55qE5LiA56eN
-    5paw55qE5Li76KaB6YCU5b6E77yM5Zug5q2k5pys5paH5rGH5oC75LiA5LiL5q+U6L6D5a
-    W955qE5byA5oi35aWW5Yqx44CC5pys5paH5YyF5ous5pSv56Wo6LSm5og=
-  last_post_date: "2026-06-28T14:00:50Z"
-  last_post_link: https://www.uscreditcardguide.com/checking-savings-mma-bonus-summary/
+  last_post_title: AmEx Old Blue Cash (OBC) 信用卡【已绝版】【2026.7 更新：即将强制转卡为BCE】
+  last_post_description: 'Blue Cash from American Express (Old Blue Cash, OBC) 信用卡简介
+    【2026.7 更新】这张卡的持卡人收到了email说，March 4, 2027 起这张卡就要被强制转卡为BCE了（HT:'
+  last_post_date: "2026-07-12T14:32:18Z"
+  last_post_link: https://www.uscreditcardguide.com/amex-old-blue-cash-obc/
   last_post_categories:
-  - 储蓄账户 Savings Accounts / 货币市场账户 MMA
-  - 支票账户
-  - 支票账户 Checking Accounts
-  - 活期储蓄账户/货币市场账户
+  - 已绝版信用卡
+  - 无年费信用卡
+  - 美国运通 American Express (AmEx)
+  - 返现信用卡
   last_post_language: ""
-  last_post_guid: 239f743567f84dfc7e382257945435b2
+  last_post_guid: a8508db38c4e929d50c5541a6dc672b0
   score_criteria:
     cats: 0
     description: 3

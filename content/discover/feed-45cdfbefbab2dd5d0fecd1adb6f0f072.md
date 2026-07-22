@@ -7,16 +7,12 @@ params:
   feedtype: rss
   feedid: 45cdfbefbab2dd5d0fecd1adb6f0f072
   websites:
-    https://cosmicheroes.space/blog: true
     https://cosmicheroes.space/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories:
@@ -51,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 20
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

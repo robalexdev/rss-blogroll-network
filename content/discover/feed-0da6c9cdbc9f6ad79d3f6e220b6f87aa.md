@@ -25,45 +25,42 @@ params:
   - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Leon Mika - Blogroll
     description: ""
     id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
-  - http://scripting.com/rss.xml
   - https://lmika.org/feed.xml
   categories:
   - AI
-  - Amazon
+  - Meta
+  - OpenAI
   relme: {}
-  last_post_title: The CEO of AWS on why Amazon is hiring 11,000 interns and junior
-    employees
-  last_post_description: Matt Garman argues that junior employees are as necessary
-    as ever. But AWS now sells agents that can recruit, code, and process claims.
-    Will the balance hold?
-  last_post_date: "2026-06-24T00:00:32Z"
-  last_post_link: https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/
+  last_post_title: OpenAI's big launch — and bigger departure
+  last_post_description: 'GPT-5.6 impresses the critics, but Fidji Simo''s exit leaves
+    OpenAI''s focus — and its org chart — in flux. PLUS: Meta plays catch-up, and
+    the "AI 2027" authors present "AI 2040."'
+  last_post_date: "2026-07-10T00:18:21Z"
+  last_post_link: https://www.platformer.news/openai-gpt-5-6-simo-meta-muse-spark-1-1/
   last_post_categories:
   - AI
-  - Amazon
+  - Meta
+  - OpenAI
   last_post_language: ""
-  last_post_guid: 747b354913e8cbd74b7ee8c1c95a153a
+  last_post_guid: 8da0ab4ac9eda4fc1f8393f646383fb3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

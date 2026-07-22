@@ -16,14 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Aliases I Have Known, 2026 Edition
-  last_post_description: 'Revisiting my shell aliases five years on: the Rust rewrites
-    that ate my coreutils, swapping git for jj, and letting Nix generate the lot.'
-  last_post_date: "2026-06-05T00:00:00Z"
-  last_post_link: https://kartar.net/2026/6/aliases-i-have-known-2026/
+  last_post_title: Engineering Jobs I Might Apply For
+  last_post_description: What makes an engineering job ad I'd apply for?
+  last_post_date: "2026-06-30T00:00:00Z"
+  last_post_link: https://kartar.net/2026/6/engineering-jobs-i-might-apply-for/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e98aadefcfcf18529f99d37c92fe1620
+  last_post_guid: afb40c32edf1d0074631d09b0f8909f8
   score_criteria:
     cats: 0
     description: 3
@@ -41,6 +40,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 271
+  postcount: 272
   avgpostlen: 0
 ---

@@ -9,9 +9,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Following
-    description: ""
-    id: 3ab37f775eca10153e3c7a600b2fbe77
   - title: Engineering Blogs
     description: ""
     id: 1b0144a91f411625c83bbd47a9f5ef9e

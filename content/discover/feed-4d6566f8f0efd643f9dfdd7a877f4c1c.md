@@ -1,6 +1,6 @@
 ---
 title: Joshleeb's Blog
-date: "2025-07-29T00:00:00Z"
+date: "2026-07-15T00:00:00Z"
 description: ""
 params:
   feedlink: https://joshleeb.com/index.xml
@@ -21,21 +21,17 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: 'Status Update: August 2025'
-  last_post_description: |-
-    G’day!
-    This month I’ve been working on Ohm, a fuzzy finder based on
-    Orderless. I introduced Ohm in the last update, and
-    I’ll be writing a dedicated post including motivations and usage examples
-  last_post_date: "2025-08-28T00:00:00Z"
-  last_post_link: https://joshleeb.com/posts/status-update-2025-aug.html
+  last_post_title: 'Log Entry: July 2026'
+  last_post_description: ""
+  last_post_date: "2026-07-15T00:00:00Z"
+  last_post_link: https://joshleeb.com/logs/202607.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 421feaccef490eaaa9fcfb619357fb00
+  last_post_guid: 2e86aceefb5c9758d1393dabc3983fde
   score_criteria:
     cats: 0
     description: 0
-    feedlangs: 1
+    feedlangs: 0
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -44,11 +40,11 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: en
-  postcount: 34
+  language: ""
+  postcount: 30
   avgpostlen: 0
 ---

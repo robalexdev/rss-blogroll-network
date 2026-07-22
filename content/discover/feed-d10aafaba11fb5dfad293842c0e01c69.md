@@ -48,7 +48,6 @@ params:
   - YourHeadAsplode
   - aix
   relme:
-    https://draft.blogger.com/profile/17331846076856918359: true
     https://oldvcr.blogspot.com/: true
     https://tenfourfox.blogspot.com/: true
     https://www.blogger.com/profile/17331846076856918359: true

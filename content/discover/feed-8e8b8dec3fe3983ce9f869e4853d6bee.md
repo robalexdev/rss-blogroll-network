@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-06-18T14:21:51Z"
+date: "2026-07-21T10:52:55Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -22,17 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
+  - 策略
   relme: {}
-  last_post_title: AI Agent 看板
-  last_post_description: 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude
-    Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给
-  last_post_date: "2026-06-18T14:21:51Z"
-  last_post_link: https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/
+  last_post_title: 200 美元买来的教训
+  last_post_description: |-
+    其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。
+    但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket
+  last_post_date: "2026-07-21T10:52:55Z"
+  last_post_link: https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/
   last_post_categories:
-  - AI
+  - 策略
   last_post_language: ""
-  last_post_guid: ccf2877724df4d82d527115201450259
+  last_post_guid: f1aaaace320f568b49a877400b89d32b
   score_criteria:
     cats: 0
     description: 3
@@ -50,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 101
-  avgpostlen: 241
+  postcount: 106
+  avgpostlen: 242
 ---
