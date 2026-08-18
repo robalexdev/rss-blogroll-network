@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-07-12T05:24:48-04:00"
+date: "2026-08-17T06:24:54-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -168,16 +168,16 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: A Quick Tour of Spartanburg with My Parents
+  last_post_title: A Week-end in Books and Sermons
   last_post_description: ""
-  last_post_date: "2026-07-12T05:24:48-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/07/a-quick-tour-of-spartanburg-with-my.html
+  last_post_date: "2026-08-17T06:24:54-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/08/a-week-end-in-books-and-sermons.html
   last_post_categories:
-  - education
-  - housing
-  - teaching life
+  - Reading Life
+  - good books
+  - spiritual connections
   last_post_language: ""
-  last_post_guid: cd3d43f2e1fb92d34e3e6b3824e54c91
+  last_post_guid: 2f6a38f67681b599733ae4bf9f16c7e0
   score_criteria:
     cats: 5
     description: 0

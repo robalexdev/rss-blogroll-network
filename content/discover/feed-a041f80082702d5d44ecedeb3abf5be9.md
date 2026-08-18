@@ -20,14 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: OS9 Map, PlatinumSky, Paleomastodon release
-  last_post_description: New software releases for Mac OS 9 - An OpenStreetMap viewer,
-    BlueSky and Mastodon clients
-  last_post_date: "2026-07-03T14:32:06+12:00"
-  last_post_link: https://mac-classic.com/news/os9-map-platinumsky-paleomastodon-release/
+  last_post_title: Transport Tycoon English Patch (FAT) for Macintosh
+  last_post_description: 28 years later, an English release of Transport Tycoon is
+    finally here!
+  last_post_date: "2026-08-06T11:15:47+12:00"
+  last_post_link: https://mac-classic.com/news/transport-tycoon-english-patch-fat-for-macintosh/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8cf113be02d0978afa12f2c619bb23da
+  last_post_guid: 8ae168de76499998c23a8a2508ba76d0
   score_criteria:
     cats: 0
     description: 3

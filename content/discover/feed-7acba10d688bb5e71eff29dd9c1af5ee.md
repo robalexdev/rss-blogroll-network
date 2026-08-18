@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-07-11T15:15:33Z"
+date: "2026-08-17T14:16:18Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: It should be illegal to have hold music with an imperfect loop,
-    such that it cuts off for a brief...
+  last_post_title: https://guthib.com is still up though.
   last_post_description: ""
-  last_post_date: "2026-07-11T15:15:33Z"
-  last_post_link: https://fedi.vale.rocks/objects/b25fc2f2-4b00-4b3f-88a0-32d6f0b4bc84
+  last_post_date: "2026-08-17T14:16:18Z"
+  last_post_link: https://fedi.vale.rocks/objects/a7c1bb2f-2f0c-44e4-a1a5-9a9d883740ac
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f070884425903011da4a8e95a3f4b3eb
+  last_post_guid: 269aaae41188b11f789dfe93a86cc2d7
   score_criteria:
     cats: 0
     description: 0

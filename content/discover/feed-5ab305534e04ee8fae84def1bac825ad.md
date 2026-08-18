@@ -1,6 +1,6 @@
 ---
 title: Ken Albala's Food Rant
-date: "2026-07-12T02:17:40-07:00"
+date: "2026-08-17T02:18:33-07:00"
 description: ""
 params:
   feedlink: https://kenalbala.blogspot.com/feeds/posts/default

@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 习惯了语音输入后，再也不想打字了
+  last_post_title: 探索 AI 时代的人机协作
   last_post_description: |-
-    开启口喷时代把，本文主要分享我为什么会使用语音输入法？为什么会选择 Typeless？现在给我带来了哪些正向的反馈。
-    我最早使用语音输入法是在 2024
-  last_post_date: "2026-04-04T21:06:57+08:00"
-  last_post_link: https://demochen.com/posts/20260404/
+    人和 AI 的协作关系是我一直关注的主题。
+    这个主题包含三层关系：人跟人如何协作？人跟 AI 如何协作？AI 和 AI
+  last_post_date: "2026-07-22T22:36:47+08:00"
+  last_post_link: https://demochen.com/posts/20260722/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08c252a1b844f5b231ba2eb858330686
+  last_post_guid: a5c3ea1abce86057a2188ebb2c392f4b
   score_criteria:
     cats: 0
     description: 3

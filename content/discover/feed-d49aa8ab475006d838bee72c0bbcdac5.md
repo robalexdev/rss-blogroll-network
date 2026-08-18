@@ -10,7 +10,7 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -19,37 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - feedback latency
-  - feedback loops
-  - goals
-  - requirements
+  - a.i.
   relme: {}
-  last_post_title: The Power Of “Why?”
-  last_post_description: How many times in your career as a software developer have
-    you been handed a “requirement” that turned out to be difficult and costly to
-    fulfil? I’ve been there many times, and I imagine you
-  last_post_date: "2026-07-19T06:40:10Z"
-  last_post_link: https://codemanship.wordpress.com/2026/07/19/the-power-of-why/
+  last_post_title: AI Software Development – What Does The Data Say?
+  last_post_description: I’m currently pulling together a bunch of sources – that
+    are mostly recent – on the topic of LLMs and their use in software development.
+    Some are peer-reviewed studies. Some are industry
+  last_post_date: "2026-08-12T17:41:50Z"
+  last_post_link: https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/
   last_post_categories:
-  - feedback latency
-  - feedback loops
-  - goals
-  - requirements
+  - a.i.
   last_post_language: ""
-  last_post_guid: 8d5104a932a18622f55bcdb1c0b65b91
+  last_post_guid: a5be31ac23b145b1c11febe9e4184580
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

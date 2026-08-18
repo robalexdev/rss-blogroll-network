@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-07-19T01:15:04Z"
+date: "2026-08-09T02:56:43Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,16 +28,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 杂记
+  - 算法与数据结构
   relme: {}
-  last_post_title: 高尿酸血症确诊
-  last_post_description: 我在 2024 年底左脚大拇指根部曾肿痛一周 ，结合多年体检高尿酸结果，怀疑是痛风。但后来没有什么症状，身体也一直很好，就没去医院看。
-  last_post_date: "2026-07-19T01:15:04Z"
-  last_post_link: https://blog.codingnow.com/2026/07/hyperuricemia.html
+  last_post_title: 用地标改进 A star 寻路的启发函数
+  last_post_description: 今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进
+    A star
+  last_post_date: "2026-08-09T02:56:43Z"
+  last_post_link: https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html
   last_post_categories:
-  - 杂记
+  - 算法与数据结构
   last_post_language: ""
-  last_post_guid: da1e4ac9cfdf4aa776323cf292b68810
+  last_post_guid: 59be95566106693346a283ca0b9ac2f1
   score_criteria:
     cats: 0
     description: 3

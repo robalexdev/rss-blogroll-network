@@ -16,12 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Techdirt on The Party That Screams
-  last_post_description: Literally a couple months ago Marc Andreessen was on Joe
-    Rogan talking about how these dumb young progressive kids support “socialism”
-    even though “it never works.” Meanwhile, Andreessen was
-  last_post_date: "2026-07-12T11:52:34-07:00"
-  last_post_link: https://www.onfocus.com/2026/07/9101/the-party-that-screams-about-the-evils-of?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+  last_post_title: NPR on West Africa
+  last_post_description: |-
+    Kasoa is a snapshot of how unplanned urbanization is unfolding in the region. Its population growth is far outpacing the creation of new roads and other public development.
+
+    “In Kasoa, things are
+  last_post_date: "2026-08-16T08:54:24-07:00"
+  last_post_link: https://www.onfocus.com/2026/08/9106/apps-npr-org-on?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: After the Fireworks
-  last_post_description: 'We’re still in the Fourth of July spirit around the 250th
-    birthday of our nation, hooked in particular by one grand American historian’s
-    question to it: is the United States on the road to a ...'
-  last_post_date: "2026-07-09T19:14:11Z"
-  last_post_link: https://radioopensource.org/after-the-fireworks/
+  last_post_title: Christopher Nolan’s Odyssey
+  last_post_description: 'We’re at sea this time on our own Odyssey, a voyage between
+    the ancient epic that refuses to die and Christopher Nolan’s blockbuster movie
+    version for us in this summer of 2026. It’s the story '
+  last_post_date: "2026-08-06T21:03:49Z"
+  last_post_link: https://radioopensource.org/christopher-nolans-odyssey/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 976846f8c93fba895a7dc316cfe0f171
+  last_post_guid: 55419e634a92f06598caaadf250b5826
   score_criteria:
     cats: 1
     description: 3

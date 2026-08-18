@@ -1,6 +1,6 @@
 ---
 title: Accidental Woodworker
-date: "2026-06-11T13:29:13-04:00"
+date: "2026-08-17T15:56:00-04:00"
 description: The daily dribble from my workshop
 params:
   feedlink: https://accidentalwoodworker.blogspot.com/atom.xml
@@ -208,13 +208,13 @@ params:
   - workshop tool
   - xmas
   relme: {}
-  last_post_title: Lenox spice cabinet
+  last_post_title: honey can you pt III
   last_post_description: ""
-  last_post_date: "2026-06-11T09:11:56-04:00"
-  last_post_link: https://accidentalwoodworker.blogspot.com/2026/06/lenox-spice-cabinet.html
+  last_post_date: "2026-08-17T06:35:16-04:00"
+  last_post_link: https://accidentalwoodworker.blogspot.com/2026/08/honey-can-you-pt-iii.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36aa0bc71dcdf02fa180cc9a848885ed
+  last_post_guid: 585c15729f1fc9d781dcb912e884b9e0
   score_criteria:
     cats: 5
     description: 3
@@ -233,5 +233,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 297
+  avgpostlen: 296
 ---

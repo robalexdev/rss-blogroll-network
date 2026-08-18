@@ -19,18 +19,22 @@ params:
   relme:
     https://hachyderm.io/@mitch: true
     https://mitchwagner.com/: true
-  last_post_title: "\U0001F98D Mitchellaneous 7.10.2026"
+  last_post_title: "\U0001F98D Mitchellaneous 8.16.2026"
   last_post_description: |-
-    19th Century etiquette manuals were woke.
-    www.tumblr.com/atomic-tw…
+    You’re not? Who knew?
 
-    Small otter thinks it’s a cat but nobody minds and everybody has a good time (video)
-    www.threads.com/@darren
-  last_post_date: "2026-07-10T18:30:00-07:00"
-  last_post_link: https://mitchwagner.com/2026/07/10/mitchellaneous.html
+
+
+
+    at the Western Hills Inn in Euless, Texas - 1960 reddit.com/r/TheWayW…
+
+
+    Earle Bergey: Journey for Seven - Thrilling Wonder Stories, April 1950 reddit
+  last_post_date: "2026-08-16T23:16:50-07:00"
+  last_post_link: https://mitchwagner.com/2026/08/16/mitchellaneous.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c3613bcccd52adf92939830057e9d707
+  last_post_guid: 65ce1c52cbdcd4d67c2a4431500dbe68
   score_criteria:
     cats: 0
     description: 0

@@ -27,13 +27,13 @@ params:
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: brrr
+  last_post_title: APIs are cool
   last_post_description: ""
-  last_post_date: "2026-03-25T19:51:38Z"
-  last_post_link: https://brrr.now/
+  last_post_date: "2026-08-11T21:52:00Z"
+  last_post_link: https://www.kooslooijesteijn.net/blog/apis-are-cool
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0e9b13df3b470567a183f7e0619dd345
+  last_post_guid: 5948e9c7bf4d3162e2d07be774101e04
   score_criteria:
     cats: 0
     description: 3

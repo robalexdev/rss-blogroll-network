@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-07-07T14:00:00Z"
+date: "2026-07-28T14:00:00Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -13,17 +13,21 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: We Need a Gym for the Mind
+  last_post_title: 'Supercharging Long Thinking: What Cal Newport''s Notebook Method
+    Leaves Out'
   last_post_description: ""
-  last_post_date: "2026-07-07T14:00:00Z"
-  last_post_link: https://zettelkasten.de/posts/we-need-a-gym-for-the-mind/
+  last_post_date: "2026-07-28T14:00:00Z"
+  last_post_link: https://zettelkasten.de/posts/supercharging-long-thinking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f2be112369e7c1c47a975a2648364e5e
+  last_post_guid: d2a54ef35c2e6f88f87668105e82a5de
   score_criteria:
     cats: 0
     description: 0

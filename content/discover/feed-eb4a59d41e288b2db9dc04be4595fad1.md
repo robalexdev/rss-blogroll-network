@@ -13,28 +13,26 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories:
   - News
   relme: {}
-  last_post_title: VMAX launches new full-suspension VX2 Lite e-scooter for a mere
-    $799
-  last_post_description: Swiss electric scooter maker VMAX has launched the new VX2
-    Lite, a commuter-focused electric scooter that packs premium features like full
-    suspension, a 56-mile (90 km) maximum range, and up to 1
-  last_post_date: "2026-07-12T13:43:00Z"
-  last_post_link: https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/
+  last_post_title: 2027 Hyundai IONIQ 5 prices revealed, starting at $35,000
+  last_post_description: Starting at $35,000, the 2027 Hyundai IONIQ 5 will remain
+    among the most affordable EVs in the US.
+  last_post_date: "2026-08-17T19:19:18Z"
+  last_post_link: https://electrek.co/2026/08/17/2027-hyundai-ioniq-5-prices-revealed-starting-35000/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: b8886c7ddd2e7592a3b12a6c2af803c5
+  last_post_guid: a396aef6d5e9959e96600ffd6b710f2a
   score_criteria:
     cats: 0
     description: 3

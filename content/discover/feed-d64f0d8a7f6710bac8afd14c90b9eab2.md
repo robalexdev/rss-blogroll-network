@@ -1,5 +1,5 @@
 ---
-title: Ankur Sethi
+title: Ankur Sethi's Lab Notebook
 date: "1970-01-01T00:00:00Z"
 description: Personal website of Ankur Sethi, writer and independent frontend engineer
   living in Bangalore, India.
@@ -11,7 +11,7 @@ params:
     https://ankursethi.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,13 +25,13 @@ params:
   categories: []
   relme:
     https://ankursethi.com/: true
-  last_post_title: Data locality (sometimes) beats algorithmic complexity
+  last_post_title: Prevent cognitive debt by manually retyping LLM-generated code
   last_post_description: ""
-  last_post_date: "2026-07-10T11:09:46Z"
-  last_post_link: https://ankursethi.com/blog/data-locality-sometimes-beats-algorithmic-complexity/
+  last_post_date: "2026-08-02T09:23:36Z"
+  last_post_link: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dbd8d44749114595604ae8f2bd4f10dc
+  last_post_guid: c91f447f9865730e9b2591d13ea23beb
   score_criteria:
     cats: 0
     description: 3

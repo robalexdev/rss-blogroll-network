@@ -16,33 +16,36 @@ params:
   recommender: []
   categories:
   - emacs
-  - emacs-news
+  - emacs-chat
+  - emacs-chat-podcast
+  - french
   relme: {}
-  last_post_title: 2026-07-20 Emacs news
-  last_post_description: |-
-    Completion seems to be the topic of the day. Check out the new videos
-    and resources people have shared on both completion in buffer and in
-    the mini-buffer. Also, there's been lots of discussion for
-  last_post_date: "2026-07-20T12:27:43Z"
-  last_post_link: https://sachachua.com/blog/2026/07/2026-07-20-emacs-news/
+  last_post_title: 'Emacs Chat 28: Fabrice Niessen (en français)'
+  last_post_description: '0:00 IntroductionSacha:  Ça marche!Prot:  Maintenant, nous
+    sommes en direct.Sacha:  Succès! Bonjour à toutes et à tous et bienvenue dans
+    le deuxième épisode d''Emacs Chat en français. C''est le'
+  last_post_date: "2026-08-14T00:13:37Z"
+  last_post_link: https://sachachua.com/blog/2026/08/13-aout-emacs-chat-fabrice-niessen/
   last_post_categories:
   - emacs
-  - emacs-news
+  - emacs-chat
+  - emacs-chat-podcast
+  - french
   last_post_language: ""
-  last_post_guid: 5c55f257f820bc708983bcd10bc400ca
+  last_post_guid: b5e630b8ba32296a7a5c06652f02ff79
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

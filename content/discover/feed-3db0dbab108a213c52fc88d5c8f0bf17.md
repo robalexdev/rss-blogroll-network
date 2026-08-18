@@ -20,31 +20,21 @@ params:
   recommender: []
   categories:
   - Personal
-  - buses
-  - europe
-  - france
-  - london
-  - public transport
-  - trains
-  - travel
+  - geocaching
+  - indieweb
   relme: {}
-  last_post_title: '[Article] Contactless Transport in London vs Paris'
-  last_post_description: Paris is rolling-out contactless tap-in payments for its
-    transport network. Sounds like London's... except that Paris's includes a "convenience
-    tax" that seems to disproportionately target short-term
-  last_post_date: "2026-07-21T12:06:52+01:00"
-  last_post_link: https://danq.me/2026/07/21/contactless-transport-in-london-vs-paris/
+  last_post_title: '[Article] Geocaching.com Can’t Count? (my 1000+ geocache finds!)'
+  last_post_description: After finding over a thousand geocaches, I wanted to check
+    my total with the largest of the geocache listing sites I use, and discovered
+    that you can't get the same answer twice from it even if you
+  last_post_date: "2026-08-14T15:35:00+01:00"
+  last_post_link: https://danq.me/2026/08/14/gccom-cant-count/
   last_post_categories:
   - Personal
-  - buses
-  - europe
-  - france
-  - london
-  - public transport
-  - trains
-  - travel
+  - geocaching
+  - indieweb
   last_post_language: ""
-  last_post_guid: 0f0f50d3a83536f677430f4ef70142e6
+  last_post_guid: 0ee309342a32bbd7069122907ab9d9e7
   score_criteria:
     cats: 0
     description: 3

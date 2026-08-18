@@ -18,21 +18,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Maps
-  - proximity
-  - walking
+  - Bloomberg
+  - China
+  - Statistical Visualization
+  - solar
+  - tariff
   relme: {}
-  last_post_title: Mapping what is close to you
-  last_post_description: 'When deciding where to live, most people want to know what’s
-    nearby so…Tags: proximity, walking'
-  last_post_date: "2026-07-21T09:12:54Z"
-  last_post_link: https://flowingdata.com/2026/07/21/mapping-what-is-close-to-you/
+  last_post_title: Tariff avoidance in solar manufacturing from China
+  last_post_description: 'To avoid heavy solar tariffs, China allegedly moved manufacturing
+    to other countries. When…Tags: Bloomberg, China, solar, tariff'
+  last_post_date: "2026-08-17T10:04:59Z"
+  last_post_link: https://flowingdata.com/2026/08/17/tariff-avoidance-in-solar-manufacturing-from-china/
   last_post_categories:
-  - Maps
-  - proximity
-  - walking
+  - Bloomberg
+  - China
+  - Statistical Visualization
+  - solar
+  - tariff
   last_post_language: ""
-  last_post_guid: 911c3f5735a43dc8927e80e25cc58dc0
+  last_post_guid: 4c4f6645db8ba19519a6cdbd5fc63460
   score_criteria:
     cats: 0
     description: 3

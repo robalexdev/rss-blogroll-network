@@ -1,7 +1,7 @@
 ---
 title: Neatnik
 date: "2026-04-29T15:33:53Z"
-description: The Neatnik Feed
+description: The online home of Neatnik LLC
 params:
   feedlink: https://neatnik.net/feed.xml
   feedtype: atom
@@ -16,30 +16,30 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Remembering Anne Studivant
+  last_post_title: Single Page Plaintext Caddy Sites
   last_post_description: ""
-  last_post_date: "2025-11-13T21:13:41Z"
-  last_post_link: https://www.neatnik.net/blog/remembering-anne-sturdivant/
+  last_post_date: "2026-06-16T00:34:55Z"
+  last_post_link: https://www.neatnik.net/blog/single-page-plaintext-caddy-sites/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 27de9b1d6d9864d784f7cb33d2d349c1
+  last_post_guid: c2a981866e91132e0b40e1e78bf58581
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
-    hasPosts: 1
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 1
-  avgpostlen: 299
+  postcount: 4
+  avgpostlen: 296
 ---

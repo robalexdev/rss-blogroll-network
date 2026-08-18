@@ -1,6 +1,6 @@
 ---
 title: Abstract Heresies
-date: "2026-07-12T04:48:45-07:00"
+date: "2026-08-17T12:30:21-07:00"
 description: Unorthodox opinions on computer science and programming.
 params:
   feedlink: https://funcall.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://funcall.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Liferea Feed List Export
@@ -41,6 +41,7 @@ params:
   - Lisp Machine
   - MCP
   - Monads
+  - OpenAPI
   - Quicklisp
   - REBOL
   - S&ICP
@@ -99,37 +100,27 @@ params:
     https://funcall.blogspot.com/: true
     https://jrms-random-blog.blogspot.com/: true
     https://www.blogger.com/profile/03233353484280456977: true
-  last_post_title: New chatbot
+  last_post_title: Coding with an East Coast Vibe
   last_post_description: ""
-  last_post_date: "2026-06-28T15:52:33-07:00"
-  last_post_link: https://funcall.blogspot.com/2026/06/new-chatbot.html
+  last_post_date: "2026-08-17T05:48:25-07:00"
+  last_post_link: https://funcall.blogspot.com/2026/08/coding-with-east-coast-vibe.html
   last_post_categories:
-  - AI coding
-  - CLOS
-  - Co-pilot
-  - Common Lisp
-  - Gemini
-  - LLM
-  - MCP
   - Vibe coding
-  - ai
-  - recursion
-  - sbcl
   last_post_language: ""
-  last_post_guid: c8d68eb6d81c7567a4d2543f24fcdaf4
+  last_post_guid: 31e8ac917789e18113e94fe6a7424312
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

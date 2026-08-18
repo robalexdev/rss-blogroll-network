@@ -1,8 +1,8 @@
 ---
 title: Platformer
 date: "1970-01-01T00:00:00Z"
-description: News at the intersection of Silicon Valley and democracy. On Monday,
-  Tuesday, and Thursday at 5PM Pacific.
+description: Independent reporting on AI, social platforms, and the people shaping
+  technology.
 params:
   feedlink: https://www.platformer.news/rss/
   feedtype: rss
@@ -16,11 +16,11 @@ params:
     id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: John PHI⑊PIN - Blogroll
     description: ""
@@ -32,35 +32,32 @@ params:
   recommender:
   - https://lmika.org/feed.xml
   categories:
-  - AI
-  - Meta
-  - OpenAI
+  - Platformer Pod
+  - Productivity
   relme: {}
-  last_post_title: OpenAI's big launch — and bigger departure
-  last_post_description: 'GPT-5.6 impresses the critics, but Fidji Simo''s exit leaves
-    OpenAI''s focus — and its org chart — in flux. PLUS: Meta plays catch-up, and
-    the "AI 2027" authors present "AI 2040."'
-  last_post_date: "2026-07-10T00:18:21Z"
-  last_post_link: https://www.platformer.news/openai-gpt-5-6-simo-meta-muse-spark-1-1/
+  last_post_title: Town's CEO on the self-organizing company
+  last_post_description: Jean-Denis Greze on AI assistants, building a better corporate
+    workspace, and avoiding "egg on face"
+  last_post_date: "2026-08-14T00:12:33Z"
+  last_post_link: https://www.platformer.news/town-interview-jean-denis-greze-assistants/
   last_post_categories:
-  - AI
-  - Meta
-  - OpenAI
+  - Platformer Pod
+  - Productivity
   last_post_language: ""
-  last_post_guid: 8da0ab4ac9eda4fc1f8393f646383fb3
+  last_post_guid: ac34c1d224b6b16d28430a7da86bc48c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

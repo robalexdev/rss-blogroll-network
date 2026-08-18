@@ -9,45 +9,72 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
+  - Abel Góngora
   - Analysis
   - Anime Industry
-  - DEEN
+  - Bruno Carvalho
+  - Eitetsu
   - Essay
-  - Gimai Seikatsu
-  - Kiyoshi Kurosawa
-  - Shiboyugi
-  - Shinya Kawabe
-  - Souta Ueno
-  - Tae Sakurai
-  - Yui Kamura
+  - Hayao Miyazaki
+  - Jaadugar
+  - Kenichi Yoshida
+  - Kotaro Matsunaga
+  - Masashi Ando
+  - Mitsuo Iso
+  - Naoko Yamada
+  - Science Saru
+  - Shinsaku Sasaki
+  - Shuto Enomoto
+  - The Deer King
+  - Tomato Soup
+  - Tomohisa Shimoyama
+  - Toshiyuki Inoue
+  - Weekly Coverage
+  - Yujiro Abe
+  - Yuki Hayashi
   relme: {}
-  last_post_title: 'Shiboyugi: Playing Death Games To Put Food On The Table And Souta
-    Ueno’s Deranged World'
-  last_post_description: Souta Ueno is one of the most radical rising figures not
-    just in anime, but commercial animation altogether. With his latest work Shiboyugi,
-    his unorthodox influences ranging from French
-  last_post_date: "2026-04-10T13:00:29Z"
-  last_post_link: https://blog.sakugabooru.com/2026/04/10/shiboyugi-souta-ueno/
+  last_post_title: 'Jaadugar: A Witch In Mongolia Production Notes #01-06 – Historically
+    Accurate Animation Meets Compelling Artifice'
+  last_post_description: 'Jaadugar: A Witch in Mongolia is a one-of-a-kind effort
+    in historical and cultural accuracy in TV anime, but also smart enough to introduce
+    pointed, imaginative deceit to make for a more compelling'
+  last_post_date: "2026-08-07T18:35:19Z"
+  last_post_link: https://blog.sakugabooru.com/2026/08/07/jaadugar-production-notes-01-06/
   last_post_categories:
+  - Abel Góngora
   - Analysis
   - Anime Industry
-  - DEEN
+  - Bruno Carvalho
+  - Eitetsu
   - Essay
-  - Gimai Seikatsu
-  - Kiyoshi Kurosawa
-  - Shiboyugi
-  - Shinya Kawabe
-  - Souta Ueno
-  - Tae Sakurai
-  - Yui Kamura
+  - Hayao Miyazaki
+  - Jaadugar
+  - Kenichi Yoshida
+  - Kotaro Matsunaga
+  - Masashi Ando
+  - Mitsuo Iso
+  - Naoko Yamada
+  - Science Saru
+  - Shinsaku Sasaki
+  - Shuto Enomoto
+  - The Deer King
+  - Tomato Soup
+  - Tomohisa Shimoyama
+  - Toshiyuki Inoue
+  - Weekly Coverage
+  - Yujiro Abe
+  - Yuki Hayashi
   last_post_language: ""
-  last_post_guid: f3065fd4db8adee542135a3a79016d23
+  last_post_guid: f222680044586c2f4ea1aa5a9af423ca
   score_criteria:
     cats: 0
     description: 3

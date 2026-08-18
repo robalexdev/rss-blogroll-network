@@ -16,26 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Affiliate经验
-  - Affiliate营销圈
-  - China Joy 2026
+  - AI Affiliate Marketing
+  - Ads network
+  - Affiliate marketing
+  - Ai联盟营销
   - propellerads
-  - 未分类
+  - 流量平台
   relme: {}
-  last_post_title: PropellerAds亮相China Joy 2026！并举办上海After Hours私享交流之夜
-  last_post_description: |-
-    想在 China Joy 2026 让你的营销活动更上一层台阶？欢迎来到 PropellerAds ...
-    PropellerAds亮相China Joy 2026！并举办上海After
-  last_post_date: "2026-07-18T03:01:53Z"
-  last_post_link: https://www.fuyuzhe.com/propellerads-china-joy-2026.html
+  last_post_title: 【全新广告形式】扩量卡住了？Paid Social Traffic 已上线
+  last_post_description: Paid Social
+  last_post_date: "2026-07-31T03:54:03Z"
+  last_post_link: https://www.fuyuzhe.com/paid-social-traffic.html
   last_post_categories:
-  - Affiliate经验
-  - Affiliate营销圈
-  - China Joy 2026
+  - AI Affiliate Marketing
+  - Ads network
+  - Affiliate marketing
+  - Ai联盟营销
   - propellerads
-  - 未分类
+  - 流量平台
   last_post_language: ""
-  last_post_guid: 7b47f7ebd38195fe1de9e57a1ac87382
+  last_post_guid: 49cdfa06a4bd78055cbe0fef79133a1c
   score_criteria:
     cats: 0
     description: 3

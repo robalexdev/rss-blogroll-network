@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-07-09T16:57:56-07:00"
+date: "2026-08-17T10:40:22-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -83,6 +83,7 @@ params:
   - ANDY GILL
   - ANDY KERSHAW
   - ANDY SHEPPARD
+  - ANGLOPHOBIA
   - ANGUS MACKINNON
   - ANTI-CULTURE
   - ANTI-PANTHEON
@@ -93,6 +94,7 @@ params:
   - ARDKORE
   - ARNOLD SHAW
   - ARSEQUAKE
+  - ART ENSEMBLE OF CHICAGO
   - ART OF NOISE
   - ART SCHOOL ROCK
   - ART-ROCK
@@ -135,6 +137,7 @@ params:
   - BLACK MUSIC IN THE ROCK PRESS
   - BLACK SABBATH
   - BLANCMANGE
+  - BLIND DATE
   - BLISSROCK
   - BLOW MONKEYS
   - BOB DYLAN
@@ -170,6 +173,7 @@ params:
   - CHAKA KHAN
   - CHANNEL 4
   - CHARLES SHAAR MURRAY
+  - CHARLIE MINGUS
   - CHEMICAL BROTHERS
   - CHRIS BOHN
   - CHRIS CUTLER
@@ -226,6 +230,7 @@ params:
   - DARKCORE
   - DARKSIDE HARDCORE
   - DAVE HILL
+  - DAVE MARSH
   - DAVE McCULLOUGH
   - DAVID BOWIE
   - DAVID STUBBS
@@ -347,6 +352,7 @@ params:
   - HAPPY MONDAYS
   - HARD HOUSE
   - HARDCORE
+  - HARMONIUM
   - HE HAS WAYS OF MAKING YOU TALK
   - HEAD OVER HEELS
   - HEAVY METAL
@@ -367,6 +373,7 @@ params:
   - Hüsker Dü
   - I PUNMAN
   - IAN CURTIS
+  - IAN DURY AND THE BLOCKHEADS
   - IAN PENMAN
   - ICA ROCK WEEK
   - IDRIS WALTERS
@@ -377,6 +384,7 @@ params:
   - INSTRUMENTS OF DISCOURSE
   - INTERNATIONAL TIMES
   - INTERNICINE ROCK CRITIC DISPUTES
+  - INVISIBLE JUKEBOX
   - IVOR CUTLER
   - Ian Penman - singles - April 3 1982 NME
   - Iggy Pop & the Stooges
@@ -387,6 +395,7 @@ params:
   - JACOBEAN THEATRE
   - JAMAICA
   - JAMES
+  - JAMES 'BLOOD' ULMER
   - JAMES BLOOD ULMER
   - JAMES CHANCE
   - JAMES TAYLOR QUARTET
@@ -407,6 +416,7 @@ params:
   - JIMI HENDRIX
   - JOE CARDUCCI
   - JOE STRUMMER
+  - JOHN CALE
   - JOHN FOXX
   - JOHN GILL
   - JOHN MARTYN
@@ -508,6 +518,7 @@ params:
   - MEDIOCRITY
   - MELODY MAKER
   - MELODY MAKER 1970
+  - MELODY MAKER 1971
   - MELODY MAKER 1979
   - MELODY MAKER 1982
   - MELODY MAKER 1986
@@ -533,6 +544,7 @@ params:
   - MONSTERS OF ROCK
   - MORGAN FISHER
   - MORRISSEY
+  - MTV
   - MURDEROUS ELEGANCE
   - MUSIC JOURNALISM
   - MUSIC PAPERS
@@ -564,12 +576,14 @@ params:
   - NEW ORDER
   - NEW POP
   - NEW RACE
+  - NEW ROMANTICS
   - NEW WAVE
   - NEW YORK
   - NEW YORK DOLLS
   - NICK CAVE
   - NICK HEYWARD
   - NICK KENT
+  - NICO
   - NIETZCHE
   - NIK COHN
   - NIK HAEFFNER
@@ -601,6 +615,7 @@ params:
   - OLD FOGEYISM
   - ON THE CORNER
   - ORANGE JUICE
+  - ORNETTE COLEMAN
   - ORPHIC EGG
   - OUTSKIRTS OF INFINITY
   - Oceanic Rock
@@ -629,6 +644,7 @@ params:
   - PINK MILITARY
   - PJ PROBY
   - PLAY HARD
+  - POGUES
   - POP FROM THE BEGINNING
   - POP GROUPS REVIEWING THE SINGLES
   - POP JOURNALISM
@@ -647,6 +663,7 @@ params:
   - PSEUDONYMS
   - PSYCHEDELIA
   - PSYCHEDELIC TRANCE
+  - PUBES ON FIRE
   - PUBLIC IMAGE LTD
   - PULP
   - PUNK NEVER HAPPENED
@@ -682,6 +699,8 @@ params:
   - RIP
   - RIP RIG AND PANIC
   - ROBERT SMITH
+  - ROBYN HITCHCOCK
+  - ROCK & ROLL CONFIDENTIAL REPORT
   - ROCK AND ROLL
   - ROCK AS SHOWBIZ
   - ROCK CRITICISM
@@ -721,12 +740,14 @@ params:
   - SCREW MAGAZINE
   - SCRITTI POLITTI
   - SEBADOH
+  - SECOND BRITISH INVASION
   - SELF NON SELF
   - SEVEN DWARVES
   - SEVENTEEN SECONDS
   - SEX GANG CHILDREN
   - SEX MANIACS DIARY
   - SEX PISTOLS
+  - SHANE MACGOWAN
   - SHARPE AND NUMAN
   - SHITEWRITE
   - SHOEGAZE
@@ -753,6 +774,9 @@ params:
   - SMASH HITS
   - SNAKEFINGER
   - SOFT CELL
+  - SOFT MACHINE
+  - SONGS ABOUT CRITICS
+  - SONGS ABOUT MUSIC JOURNALISTS
   - SOULCIALISM
   - SOUND
   - SOUNDS
@@ -813,6 +837,7 @@ params:
   - TELEVISION
   - TELEX
   - TENKO
+  - TERRY RILEY
   - TH FALL
   - THE ASSOCIATES
   - THE BEATLES
@@ -854,6 +879,7 @@ params:
   - THE SKIDS
   - THE SLITS
   - THE SMITHS
+  - THE SOFT BOYS
   - THE SPECIALS
   - THE STATE OF FUNK
   - THE STOOGES
@@ -864,6 +890,7 @@ params:
   - THE TEXT
   - THE TEXTS OF FESTIVAL
   - THE TITANIC SAILS AT DAWN
+  - THE UNDERGROUND
   - THE UNDERTONES
   - THE VERY EARLY ROCK BOOKS
   - THE WEATHERMEN
@@ -875,6 +902,7 @@ params:
   - THE YOUNG GODS
   - THEATRE OF HATE
   - THINKPIECES
+  - THIRD WORLD WAR
   - THIS CHARMING MAN
   - THIS ONE'S FOR PHIL KNIGHT
   - THIS PIECE CHANGED MY LIFE
@@ -922,6 +950,7 @@ params:
   - VAN DER GRAAF GENERATOR
   - VERY ILL PEOPLE
   - VICE SQUAD
+  - VIDEO
   - VILLAGE VOICE
   - VINY REILLY
   - VIOLENT SILENCE
@@ -933,6 +962,7 @@ params:
   - WAH! HEAT
   - WAR ON POP
   - WATCH OUT KIDS
+  - WAYNE SHORTER
   - WE WILL FALL
   - WEATHER REPORT
   - WESTERN CANON
@@ -1020,24 +1050,28 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Musicians review the Singles!
+  last_post_title: RIP Dave Marsh
   last_post_description: ""
-  last_post_date: "2026-07-09T16:57:13-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
+  last_post_date: "2026-08-16T10:15:41-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/08/rip-dave-marsh.html
   last_post_categories:
-  - 1980S
-  - Brian Eno
-  - MELODY MAKER
-  - MORRISSEY
-  - MUSICIANS AS CRITICS
-  - MUSICIANS DO THE SINGLES
-  - POP MUSICIANS AS ROCK CRITICS
-  - PREFAB SPROUT
-  - RECORD MIRROR
-  - SMASH HITS
-  - WHAM!
+  - AMERICA
+  - ANGLOPHOBIA
+  - DAVE MARSH
+  - DAVID BOWIE
+  - DEVO
+  - MTV
+  - NEW POP
+  - NEW ROMANTICS
+  - RIP
+  - ROCK & ROLL CONFIDENTIAL REPORT
+  - ROCK CRITICISM
+  - ROXY MUSIC
+  - SECOND BRITISH INVASION
+  - THE WHO
+  - VIDEO
   last_post_language: ""
-  last_post_guid: c0d7705816b9688440c403d9795c195c
+  last_post_guid: 2f2cc27b77a2d9143ac52929bdaea19d
   score_criteria:
     cats: 5
     description: 3

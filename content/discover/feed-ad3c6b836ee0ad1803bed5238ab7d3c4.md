@@ -22,15 +22,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Moral Education and Critical Thinking
+  last_post_title: On Programming Pedagogy
   last_post_description: |-
-    On Technology, Systems, and AgencyThis year, I taught my first large undergraduate lecture course since the advent of LLMs.
-    I reworked the assessment structure not so much to discourage use of LLMs,
-  last_post_date: "2026-05-30T19:01:00Z"
-  last_post_link: https://scottrichmond.me/moral-education-and-critical-thinking/
+    A Response to Carson GrossI've been watching the videos coming out of the Software Should Work conference.
+    They've mostly been mostly good.
+    Carson Gross gave a talk called AI & the University
+  last_post_date: "2026-08-08T03:57:00Z"
+  last_post_link: https://scottrichmond.me/on-programming-pedagogy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ceed51fc1daba979f906dd613ea0a3a
+  last_post_guid: fc0b8d831bd604485434680736f65caa
   score_criteria:
     cats: 0
     description: 3

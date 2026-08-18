@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-07-11T21:50:18-05:00"
+date: "2026-08-16T15:56:25-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -1202,27 +1202,28 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: The Dutch Courtesan by John Marston - They sell their bodies; do
-    not better persons sell their souls?
+  last_post_title: What I Read in July 2026 – Some links found verbal form, others
+    remained mere promises, mist, soft approximations of thought.
   last_post_description: ""
-  last_post_date: "2026-06-09T15:52:27-05:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/06/the-dutch-courtesan-by-john-marston.html
-  last_post_categories: []
+  last_post_date: "2026-08-14T16:01:48-05:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/08/what-i-read-in-july-2026-some-links.html
+  last_post_categories:
+  - reading
   last_post_language: ""
-  last_post_guid: cbd26db10cf81dc248c597ccc0716bb3
+  last_post_guid: 783e93b6e9062f606facb1a4d1a7e884
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

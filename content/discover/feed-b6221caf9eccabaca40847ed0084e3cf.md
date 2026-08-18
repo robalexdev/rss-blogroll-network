@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Dialogue System Part One
+  last_post_title: Uses
   last_post_description: |-
-    Something I’ve been thinking about and working on is a node-based dialogue system.
-    I’ve just begun writing my own isometric, story-driven RPG, and found that managing and writing dialogue to be a
-  last_post_date: "2025-05-14T17:21:41-04:00"
-  last_post_link: http://www.weakphi.sh/posts/dialogue-system-part-one/
+    Digital Tools My minor contribution to uses.tech
+    Hardware Computers At work, I use MacOS primarily, but the tools listed below I use both at work and at home.
+    At home, I use MacOS on my personal
+  last_post_date: "2025-08-10T19:31:55-04:00"
+  last_post_link: http://www.weakphi.sh/uses/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b110272472a45a4b36a94c6a51d2b44
+  last_post_guid: d1a39598ece26d296deb6f1610e65e66
   score_criteria:
     cats: 0
     description: 3

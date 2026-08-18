@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-07-22T02:59:39Z"
+date: "2026-08-17T02:10:46Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml

@@ -19,20 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 互联网
   - 形下
+  - 心灵鸡汤
   - 生活
+  - 躺平
   relme: {}
-  last_post_title: “散帅”成违禁词？我不理解
-  last_post_description: 上周我学到一个新词：散帅。
-  last_post_date: "2026-07-11T15:34:13Z"
-  last_post_link: https://www.ntiy.com/2365.html
+  last_post_title: 普通的蠢人
+  last_post_description: 在我上班的公司，有这样一个人。她的很多言行都让人费解，就叫她“迷惑姐”吧。
+  last_post_date: "2026-08-04T13:01:23Z"
+  last_post_link: https://www.ntiy.com/2370.html
   last_post_categories:
-  - 互联网
   - 形下
+  - 心灵鸡汤
   - 生活
+  - 躺平
   last_post_language: ""
-  last_post_guid: 0d440a77ddf8b3fe7b8a003acfeee915
+  last_post_guid: e4419503529c233188b1d3edc397eb8b
   score_criteria:
     cats: 0
     description: 3

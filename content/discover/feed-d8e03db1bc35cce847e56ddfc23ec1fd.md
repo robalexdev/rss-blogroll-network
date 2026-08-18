@@ -21,9 +21,9 @@ params:
   - Wikipedia
   relme: {}
   last_post_title: Mining for wikipedia gold with LLMs
-  last_post_description: Wikipedia is awesome. One if the greatest things we have
-    ever done as a civilization. If you know what you want, there's a good chance
-    you can find it on wikipedia. But what if you don't know what
+  last_post_description: Wikipedia has Special:Random which will take you to a random
+    article. I thought these random articles would be a great way to explore wikipedia
+    and discover new things, But because of the scale of
   last_post_date: "2026-03-28T07:00:00Z"
   last_post_link: https://a.tulv.in/mining-for-wikipedia-gold-with-llms.html
   last_post_categories:

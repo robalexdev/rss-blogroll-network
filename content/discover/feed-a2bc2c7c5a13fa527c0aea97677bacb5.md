@@ -1,6 +1,6 @@
 ---
 title: F2R Articles | En
-date: "2026-05-27T13:28:47Z"
+date: "2026-08-02T21:59:30Z"
 description: 'All articles wrote by F2R: PHP, methodology, web, architecture, development,
   programming, and so.'
 params:
@@ -21,16 +21,16 @@ params:
   categories:
   - en
   relme: {}
-  last_post_title: I'm Becoming a Markdown Developer
-  last_post_description: I've been coding since 1983. Today, my primary tool isn't
-    an IDE — it's a Markdown file. That's not surrender; it's moving up an abstraction
-    level. And strangely, I've never felt more like I'm
-  last_post_date: "2026-05-27T00:00:00Z"
-  last_post_link: https://f2r.github.io/en/markdown-developer.html
+  last_post_title: I Stopped Running Several Agents
+  last_post_description: Waiting isn't wasting. I was filling every second of generation
+    time by opening one more agent, until I became the single point every one of their
+    questions had to pass through. What it cost me, and
+  last_post_date: "2026-08-02T00:00:00Z"
+  last_post_link: https://f2r.github.io/en/stopped-running-several-agents.html
   last_post_categories:
   - en
   last_post_language: ""
-  last_post_guid: 95148d8479ab6a70a27f8e1b66123273
+  last_post_guid: 2a25f1923a6a668338dcb3b187b326df
   score_criteria:
     cats: 0
     description: 3

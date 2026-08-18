@@ -1,6 +1,6 @@
 ---
 title: The Universe of Discourse
-date: "2026-07-10T23:04:00Z"
+date: "2026-08-13T23:30:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -22,16 +22,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /math
+  - /math/ordinals
   relme: {}
-  last_post_title: Starting to understand epsilon-zero
+  last_post_title: 'The road to epsilon-zero: Productive programs and well-founded
+    orders'
   last_post_description: ""
-  last_post_date: "2026-07-10T23:04:00Z"
-  last_post_link: https://blog.plover.com/math/epsilon-zero.html
+  last_post_date: "2026-08-13T23:30:00Z"
+  last_post_link: https://blog.plover.com/math/ordinals/05-shortlex.html
   last_post_categories:
-  - /math
+  - /math/ordinals
   last_post_language: ""
-  last_post_guid: b6ee53a522d4e4e3e51aa0e65aab0315
+  last_post_guid: a93b4b52020ecb5e044009d9ff787075
   score_criteria:
     cats: 0
     description: 3

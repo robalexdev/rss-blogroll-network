@@ -1,7 +1,7 @@
 ---
 title: Programming at the right level
 date: "1970-01-01T00:00:00Z"
-description: Short posts about programming, computer history and retro computing.
+description: Posts about programming, computer history and retro computing.
 params:
   feedlink: https://nemanjatrifunovic.substack.com/feed
   feedtype: rss
@@ -10,7 +10,7 @@ params:
     https://nemanjatrifunovic.substack.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: StarLink from 1984
-  last_post_description: In good old times, StarLink was a board that turned an IBM
-    PC into a multiuser system.
-  last_post_date: "2026-07-11T22:04:55Z"
-  last_post_link: https://nemanjatrifunovic.substack.com/p/starlink-from-1984
+  last_post_title: Twenty Years of my Open Source Project
+  last_post_description: Unicode, C++, and the Long Life of utfcpp
+  last_post_date: "2026-08-13T22:48:22Z"
+  last_post_link: https://nemanjatrifunovic.substack.com/p/twenty-years-of-my-open-source-project
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c5ca9c668c9930d4cf602ea36b06b397
+  last_post_guid: 909757193264b302842844315a1ac568
   score_criteria:
     cats: 0
     description: 3

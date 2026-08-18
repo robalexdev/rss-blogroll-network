@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What’s up Python? Wheels in the browser, astral still moves fast,
-    and my new favorite @
-  last_post_description: June 2026
-  last_post_date: "2026-07-01T11:51:55Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-wheels-in-the-browser
+  last_post_title: What’s up Python? __json__, __export__ and Astral stuff
+  last_post_description: July, 2026
+  last_post_date: "2026-08-06T16:48:43Z"
+  last_post_link: https://www.bitecode.dev/p/whats-up-python-__json__-__export__
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8fe64c5f474fb51dd3785524d0d30b43
+  last_post_guid: dc16dc3c8c2477ce94dfc8732a18104b
   score_criteria:
     cats: 0
     description: 3

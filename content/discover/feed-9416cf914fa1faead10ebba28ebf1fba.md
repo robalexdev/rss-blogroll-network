@@ -2,7 +2,7 @@
 title: Adam Bronte
 date: "1970-01-01T00:00:00Z"
 description: "I'm Adam Bronte, a long time software engineer based out of San Diego,
-  CA. \n\nCurrently I'm working on using AI to find and fix vulnerable code at Corgea.\n..."
+  CA. \n\nCurrently I'm building an AI agent for HR and people teams at Paradigm.\nRecen..."
 params:
   feedlink: https://adam.bronte.me/feed/?type=rss
   feedtype: rss

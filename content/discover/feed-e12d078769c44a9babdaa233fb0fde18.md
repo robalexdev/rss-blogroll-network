@@ -1,6 +1,6 @@
 ---
 title: Software, Simplicity, Sustainability and Stuff
-date: "2026-07-12T11:53:47Z"
+date: "2026-08-17T11:24:40Z"
 description: Software, Simplicity, Sustainability, Stuff
 params:
   feedlink: https://4s.bearblog.dev/feed/
@@ -10,7 +10,7 @@ params:
     https://4s.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -18,36 +18,28 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories:
-  - WWIII
-  - nightmare
-  - stuff
-  - worldwar3
+  categories: []
   relme: {}
-  last_post_title: When the Mushroom Cloud Rose Again
-  last_post_description: A recurring dream of nuclear war
-  last_post_date: "2026-07-11T09:47:46Z"
-  last_post_link: https://4s.bearblog.dev/when-the-mushroom-cloud-rose-again/
-  last_post_categories:
-  - WWIII
-  - nightmare
-  - stuff
-  - worldwar3
+  last_post_title: Bye, bye, Bear Blog!
+  last_post_description: ""
+  last_post_date: "2026-07-28T10:23:06Z"
+  last_post_link: https://4s.bearblog.dev/bye-bye-bear-blog/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: c18ba1bb966085e20c611f73991141cd
+  last_post_guid: 85e1abc6fcee7f13fc285ffdef2a2096
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

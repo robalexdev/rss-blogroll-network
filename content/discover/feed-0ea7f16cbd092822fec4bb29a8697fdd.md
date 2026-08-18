@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2026-05-12T00:00:00Z"
+date: "2026-07-31T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -10,7 +10,7 @@ params:
     https://osa1.net/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Macros in Fir
+  last_post_title: Unification and impl search
   last_post_description: |-
-    Fir macros are fully deterministic programs that are distributed separately and that can introspect into the using program’s type-checked AST definitions.
-    Deterministic execution of macros is
-  last_post_date: "2026-05-12T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2026-05-12-fir-macros.html
+    At a high level Haskell’s typeclasses and Rust’s traits are the same feature, but they also differ quite a bit in details. Here’s an example:
+    struct A;
+
+    trait C<T> {}
+
+    impl<T> C<T> for
+  last_post_date: "2026-07-31T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-07-31-impl-search-unification.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c04fade9fa0e14476d2979b763f19fa2
+  last_post_guid: 736b67039d731b75aca486b55e92bcdb
   score_criteria:
     cats: 0
     description: 0

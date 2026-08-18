@@ -26,18 +26,11 @@ params:
 
 
 
-      sqlite-utils 4.1 simonwillison.net
+      Markdown SVG upgrades simonwillison.net
 
 
-      -pede taylor.town
-
-
-
-
-
-
-      Designing a listen later pipeline www.coryd
-  last_post_date: "2026-07-12T00:00:00Z"
+      Qwen 3.8 27B is excellent, but it defaults to wildly overthinking
+  last_post_date: "2026-08-17T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""

@@ -11,11 +11,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
@@ -24,20 +24,22 @@ params:
   - Recent News
   - Sidebar - Featured
   - Threads
+  - Youth Well-Being Resources
   relme: {}
-  last_post_title: New Features to Celebrate 500 Million Monthly Users on Threads
-  last_post_description: "We're launching new communities features on Threads to celebrate
-    reaching 500 million monthly active users. \nThe post New Features to Celebrate
-    500 Million Monthly Users on Threads appeared first on"
-  last_post_date: "2026-06-16T11:00:31Z"
-  last_post_link: https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/
+  last_post_title: New Parental Supervision Tools Coming To Threads
+  last_post_description: |-
+    We're rolling out parental supervision on Threads, giving parents even more tools to support their teens across Meta's apps.
+    The post New Parental Supervision Tools Coming To Threads appeared first
+  last_post_date: "2026-07-21T16:00:19Z"
+  last_post_link: https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads/
   last_post_categories:
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
+  - Youth Well-Being Resources
   last_post_language: ""
-  last_post_guid: 90974454af45899147a2672685bbf988
+  last_post_guid: c63cbd4c81e2826a15b2c1da3c7d92aa
   score_criteria:
     cats: 0
     description: 0

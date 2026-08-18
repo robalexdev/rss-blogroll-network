@@ -12,11 +12,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Craig Pilcher - Blogroll
     description: ""
@@ -27,30 +27,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 2026 World Cup
-  - Andres Cantor
-  - Internationals
-  - Soccer
-  - Telemundo
-  - fox
-  - media business
+  - NBA
+  - Sports
+  - Steve Ballmer
+  - adam silver
+  - aspiration
+  - aspiration scandal
+  - kawhi leonard
+  - moments of solidarity between labor and managament
+  - salary cap circumvention
+  - steve ballmer is my favorite person to do getty images searches for
   relme: {}
-  last_post_title: Telemundo Is The Real Winner Of This Year’s World Cup
-  last_post_description: It was Sunday night in Los Angeles and streets of the city
-    legendary for its traffic sat empty. Even Trader Joe's—the beloved grocery chain
-    known as much for its tiny parking lots as its low
-  last_post_date: "2026-07-12T19:14:35Z"
-  last_post_link: https://defector.com/telemundo-is-the-real-winner-of-this-years-world-cup
+  last_post_title: ESPN Reports Steve Ballmer Cleared By NBA’s Kawhi Leonard Investigation,
+    NBA Says Otherwise
+  last_post_description: According to a report from ESPN, the NBA hasn't found any
+    evidence that Los Angeles Clippers owner Steve Ballmer arranged to pay Kawhi Leonard
+    in excess of salary-cap rules via the fraudulent green
+  last_post_date: "2026-08-17T19:19:37Z"
+  last_post_link: https://defector.com/espn-reports-steve-ballmer-cleared-by-nbas-kawhi-leonard-investigation-nba-says-otherwise
   last_post_categories:
-  - 2026 World Cup
-  - Andres Cantor
-  - Internationals
-  - Soccer
-  - Telemundo
-  - fox
-  - media business
+  - NBA
+  - Sports
+  - Steve Ballmer
+  - adam silver
+  - aspiration
+  - aspiration scandal
+  - kawhi leonard
+  - moments of solidarity between labor and managament
+  - salary cap circumvention
+  - steve ballmer is my favorite person to do getty images searches for
   last_post_language: ""
-  last_post_guid: 8d68fcb128aef93ea7d1a80fbfc20527
+  last_post_guid: 4ecc3de2db60428186a072a4c70be51f
   score_criteria:
     cats: 0
     description: 3

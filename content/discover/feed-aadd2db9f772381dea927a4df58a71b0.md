@@ -12,7 +12,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,7 +23,7 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.16.
+      by feedlandDatabase v0.9.3.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -32,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How my minimal, memory-safe Go rsync steers clear of vulnerabilities
+  last_post_title: "Tracking down a Zsh history data loss bug \U0001F41E"
   last_post_description: ""
-  last_post_date: "2026-05-24T16:20:22+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/
+  last_post_date: "2026-08-09T10:13:00+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a58f44d2a75dcccaf667b4b3e39967d
+  last_post_guid: 4898c893f0b72c873afc87cc391dacd1
   score_criteria:
     cats: 0
     description: 0

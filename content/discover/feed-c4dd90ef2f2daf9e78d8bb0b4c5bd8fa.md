@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-07-12T14:24:14-04:00"
+date: "2026-08-17T13:25:50-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/atom.xml
@@ -127,6 +127,7 @@ params:
   - Aaron Burr
   - Aaron C. Davis
   - Abba
+  - Abbey Theatre
   - Abby Jimenez
   - Abby Spencer Goes to Bollywood
   - Abigail
@@ -263,6 +264,7 @@ params:
   - Anne Youngson
   - Anne of Green Gables
   - Annette Meyers
+  - Annette Motley
   - Annie Ernaux
   - Annie Lennox
   - Annie Murray
@@ -703,6 +705,7 @@ params:
   - Claudia Mills
   - Clemence Dane
   - Clifford the Big Red Dog
+  - Cliffs of Moher
   - Clive D. L. Wynne
   - Cloak and Dagger Reading Challenge
   - Close Contact
@@ -732,6 +735,7 @@ params:
   - Converted Churches
   - Cookie Craft
   - Corfu
+  - Cork
   - Cornell
   - Cornered
   - Cornwall
@@ -742,6 +746,7 @@ params:
   - Counterpoint
   - Countess of Shrewsbury
   - Counting Down with You
+  - County Cavan
   - Cousin Kate
   - Covert
   - Crayola
@@ -752,6 +757,7 @@ params:
   - Crown Publishing
   - Crusades
   - Crying in H Mart
+  - Crêpes by Suzette
   - Cuba
   - Culloden
   - Cumbria
@@ -1421,6 +1427,7 @@ params:
   - I Know You Know
   - I Need You to Read This
   - I Now Pronounce You Someone Else
+  - I Spy
   - I wanna be in the room where it happens
   - I'd Know You Anywhere
   - I'm Deborah Sampson
@@ -1450,12 +1457,14 @@ params:
   - Intrigue via BlackBerry
   - Iona Whishaw
   - Ireland
+  - Ireland 2026
   - Irving Wallace
   - Isaac's Storm
   - Isabella Stewart Gardner
   - Isabelle Broom
   - Istanbul
   - It is Better to Be Feared
+  - It's a Great World
   - Italy
   - Ivy League
   - J. Anthony Lukas
@@ -1466,6 +1475,7 @@ params:
   - JD Robb
   - Jaci Burton
   - Jackie Kabler
+  - Jackie Khalilieh
   - Jaclyn Moriarty
   - Jacobites
   - Jacqueline Onassis
@@ -1531,11 +1541,13 @@ params:
   - Jennifer Worth
   - Jenny Colgan
   - Jenny Glanfield
+  - Jenny Jackson
   - Jeremy Lin
   - Jerusalem
   - Jessa Maxwell
   - Jessica Brockmole
   - Jessica Chiarella
+  - Jessica Shattuck
   - Jesuits
   - Jezebel
   - Jia Tolentino
@@ -1571,6 +1583,7 @@ params:
   - John Boyne
   - John Dee
   - John Donne
+  - John F. Kennedy
   - John Feinstein
   - John Gennari
   - John Grisham
@@ -1618,11 +1631,13 @@ params:
   - Julia Blythe
   - Julia Child
   - Julia Gooden
+  - Julia Keller
   - Julia Kelly
   - Julia Nobel
   - Julia Spencer- Fleming
   - Julia Spencer-Fleming
   - Julie James
+  - Julie Olivia
   - Junie B. Jones
   - Just Another Missing Person
   - Just Dial a Number
@@ -1703,6 +1718,7 @@ params:
   - Kew
   - Khalil Gibran
   - Kiley Reid
+  - Kilkenny
   - Kim Savage
   - Kimberly Brubaker Bradley
   - Kimothy Joy
@@ -2102,6 +2118,7 @@ params:
   - Molly Pitcher
   - Mona Molarsky
   - Monica Redlich
+  - Monica Wellington
   - Montreal
   - Moomaid
   - Moray Dalton
@@ -2607,6 +2624,7 @@ params:
   - Sad Cypress
   - Sadler's Wells
   - Sailing Out of Darkness
+  - Saint Fin Barre
   - Saint Spyridon
   - Sainte-Chappelle
   - Salem
@@ -3197,6 +3215,7 @@ params:
   - The Rose Revived
   - The Royal Order of Fighting Dragons
   - The Rules
+  - The Rúin
   - The Saracen Lamp
   - The Scarecrow of Oz
   - The Scarlet Pimpernel
@@ -3216,6 +3235,7 @@ params:
   - The Seduction of Miriam Cross
   - The Serial Garden
   - The Seven Dials Mystery
+  - The Shampoo Effect
   - The Shell House Detectives
   - The Shell Seekers
   - The Sherwood Ring
@@ -3345,6 +3365,7 @@ params:
   - Traveler Restaurant
   - Travelers Restaurant
   - Trespasses
+  - Trinity College
   - Trollope
   - Trophy House
   - Trumpets in the West
@@ -3425,6 +3446,7 @@ params:
   - Virginia Evans
   - Virginia Hume
   - Virginia Lee Burton
+  - Virginia Park Lodge
   - Virginia Pye
   - Virginia Sorensen
   - Virtual Advent Calendar
@@ -3459,6 +3481,7 @@ params:
   - Washington DC
   - Washington Post
   - Watch Us Shine
+  - Waterford
   - Waterstone's
   - Wayne Family
   - We Didn't Mean to Start a School
@@ -3960,23 +3983,20 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: June 2026 Reading
+  last_post_title: County Cavan and Dublin, Ireland 2026
   last_post_description: ""
-  last_post_date: "2026-07-12T14:24:14-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/07/june-2026-reading.html
+  last_post_date: "2026-08-17T10:12:48-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/08/county-cavan-and-dublin-ireland-2026.html
   last_post_categories:
-  - Dorothy Gilman
-  - Edith Wharton
-  - Elizabeth Chadwick
-  - Garth Nix
-  - Joan North
-  - Kazuo Ishiguro
-  - Kindred Schemes
-  - L.M. Kemp
-  - Nicholas Stuart Gray
-  - Ruth Ware
+  - Abbey Theatre
+  - County Cavan
+  - Dublin
+  - Ireland
+  - Ireland 2026
+  - Trinity College
+  - Virginia Park Lodge
   last_post_language: ""
-  last_post_guid: e76b8b581ea3e2f18928b8f8dc645f3b
+  last_post_guid: 9cf0b8dc94e83ce82d049ab0b1399b65
   score_criteria:
     cats: 5
     description: 3

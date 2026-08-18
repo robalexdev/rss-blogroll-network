@@ -20,7 +20,11 @@ params:
   recommender: []
   categories: []
   relme:
+    https://dj_link.itch.io/: true
+    https://itch.io/profile/dj_link: true
+    https://mastodon.gamedev.place/@djlink: true
     https://www.david-amador.com/: true
+    https://www.upfallstudios.com/: true
   last_post_title: Short Story - A Girl and a Railgun
   last_post_description: |-
     02h23m

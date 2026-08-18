@@ -1,7 +1,7 @@
 ---
 title: Counting From Zero
 date: "1970-01-01T00:00:00Z"
-description: Building a liberal arts CS program in the age of ubiquity
+description: ""
 params:
   feedlink: https://countingfromzero.blog/feed/
   feedtype: rss
@@ -10,38 +10,39 @@ params:
     https://countingfromzero.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
-  - Culture
+  - Scholarship
+  - Teaching
   - Uncategorized
   - cambridge
-  - graduation
-  - kings-college
   relme: {}
-  last_post_title: 'Photo essay: My first graduation at King’s College Graduation'
-  last_post_description: This week, I participated in my first graduation at King’s
-    College, Cambridge. As Director of Studies for the new graduates in computer science,
-    it seemed important for me to be there. It was very
-  last_post_date: "2026-07-02T14:17:14Z"
-  last_post_link: https://countingfromzero.blog/2026/07/02/photo-essay-my-first-graduation-at-kings-college-graduation/
+  last_post_title: First impressions of life as a Fellow at King’s
+  last_post_description: Similar to my prior faculty position at Whitman, my position
+    as a College Teaching Officer at King’s is donor-supported. The difference is
+    that Whitman’s CS positions are supported through
+  last_post_date: "2026-07-26T12:48:55Z"
+  last_post_link: https://countingfromzero.blog/2026/07/26/first-impressions-of-life-as-a-fellow-at-kings/
   last_post_categories:
-  - Culture
+  - Scholarship
+  - Teaching
   - Uncategorized
   - cambridge
-  - graduation
-  - kings-college
   last_post_language: ""
-  last_post_guid: a946588b884ed0ee3425bf966883f407
+  last_post_guid: 72df06eb17ec48e04cb741ac7a5fd211
   score_criteria:
     cats: 0
-    description: 3
+    description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -51,7 +52,7 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

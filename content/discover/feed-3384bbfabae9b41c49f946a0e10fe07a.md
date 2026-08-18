@@ -1,6 +1,6 @@
 ---
 title: Kleefeld on Comics
-date: "2026-07-12T10:18:33-04:00"
+date: "2026-08-17T09:30:00-04:00"
 description: |-
   Verbum et imago sicut unum.
   Word and picture as one.
@@ -54,14 +54,14 @@ params:
   relme:
     https://www.blogger.com/profile/10492399469370737192: true
     https://www.kleefeldoncomics.com/: true
-  last_post_title: Weekly Recap
+  last_post_title: Better or Worse?
   last_post_description: ""
-  last_post_date: "2026-07-12T10:18:33-04:00"
-  last_post_link: https://www.kleefeldoncomics.com/2026/07/weekly-recap_01128008204.html
+  last_post_date: "2026-08-17T09:30:00-04:00"
+  last_post_link: https://www.kleefeldoncomics.com/2026/08/better-or-worse.html
   last_post_categories:
-  - Recap
+  - fandom
   last_post_language: ""
-  last_post_guid: c036176ee95d5f533255000df9f2fbfd
+  last_post_guid: f879fca41be747688eb908f7d5656974
   score_criteria:
     cats: 5
     description: 3

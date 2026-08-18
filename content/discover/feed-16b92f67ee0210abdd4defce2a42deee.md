@@ -1,6 +1,6 @@
 ---
 title: Alberto Gallego
-date: "2026-07-21T11:12:59Z"
+date: "2026-08-17T09:30:16Z"
 description: Independent software developer. I build Mac and web apps like Picmal
   and Cozy Journal, and write essays on making things, curiosity, and philosophy.
 params:
@@ -11,7 +11,7 @@ params:
     https://albertogalca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,21 +29,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - philosophy
+  - building
   relme: {}
-  last_post_title: Why Not Live?
-  last_post_description: |-
-    On these rainy days, I am reading two books that are shaping me more than I expected. Or maybe they are simply putting words to things I already felt.
-
-    One of them is Anna Karenina.
-
-    I see myself
-  last_post_date: "2026-02-07T00:00:00Z"
-  last_post_link: https://albertogalca.com/why-not-live
+  last_post_title: Notes From Five Months of Building
+  last_post_description: It’s been five months since my last entry. I’ve been busy,
+    but I guess that’s life. I’ve really wanted to write, and I’ve done a lot of it
+    privately. So, I’m going to try again to pick up
+  last_post_date: "2026-07-29T00:00:00Z"
+  last_post_link: https://albertogalca.com/notes-from-five-months-of-building
   last_post_categories:
-  - philosophy
+  - building
   last_post_language: ""
-  last_post_guid: e105170077c425a76455caaf11c65e55
+  last_post_guid: f6914b16433421863368feac1007d22b
   score_criteria:
     cats: 0
     description: 3

@@ -32,10 +32,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '"Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok'
+  last_post_title: Meta faces 'astronomical' consequences as legal fight reaches critical
+    moment
   last_post_description: Comments
-  last_post_date: "2026-07-21T21:13:20Z"
-  last_post_link: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
+  last_post_date: "2026-08-17T18:06:30Z"
+  last_post_link: https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

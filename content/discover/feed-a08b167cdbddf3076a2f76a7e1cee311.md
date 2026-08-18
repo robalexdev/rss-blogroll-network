@@ -17,10 +17,11 @@ params:
   categories:
   - 游戏快讯
   relme: {}
-  last_post_title: 微软Xbox或改变Game Pass政策，不再为第三方工作室提供相关资金支持
-  last_post_description: 今年2月，微软任命Asha Sharma为Xbox业务新的掌舵人，接替Phil
-  last_post_date: "2026-06-30T11:51:00Z"
-  last_post_link: http://www.expreview.com/106752.html
+  last_post_title: 《永劫无间》已集成AMD FSR光线再生技术：针对RX 9000系列显卡新增选项
+  last_post_description: AMD宣布，网易旗下游戏《永劫无间》已集成 AMD FSR光线再生技术。近日网易对《永劫无间》进行了更新，显示升级AMD
+    FidelityFX SDK到2.3
+  last_post_date: "2026-08-17T17:32:00Z"
+  last_post_link: http://www.expreview.com/107632.html
   last_post_categories:
   - 游戏快讯
   last_post_language: ""

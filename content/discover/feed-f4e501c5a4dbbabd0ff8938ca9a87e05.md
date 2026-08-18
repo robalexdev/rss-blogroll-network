@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Nineteen Septillion Addresses - Setting up an ASN, obtaining IP
-    addresses, and finding my way around the internet
-  last_post_description: |-
-    Here’s the story of AS202858.
-    Recently I got curious as to where exactly IP addresses came from, and how does ’the internet’ know where packets addressed to one should actually end up. This
-  last_post_date: "2026-01-06T19:50:00Z"
-  last_post_link: https://alastairbarber.com/Setting-Up-ASN-IPv6-Routing-BIRD-Teltonika-Router-Wireguard/
+  last_post_title: The Fast Way to Sweden - BGP Routing Experiments
+  last_post_description: I set up a VPS in Stockholm, but was a little surprised by
+    the ping times from here in Helsinki to the server. It turns out that, just as
+    in the physical world - there’s more than one way to get
+  last_post_date: "2026-05-09T20:00:00Z"
+  last_post_link: https://alastairbarber.com/Fast-Way-to-Sweden-Optimal-BGP-Prefix-Announcement/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8540f1cca7507e122e678920c3592882
+  last_post_guid: 27f8331982a2496d22dad916f4a914b1
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +43,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 12
+  postcount: 14
   avgpostlen: 0
 ---

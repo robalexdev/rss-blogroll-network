@@ -10,7 +10,7 @@ params:
     https://bryanhogan.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to Use AI Coding Tools Well
-  last_post_description: How to use AI for coding well? Practical tips for using AI
-    coding tools, including context management, AGENTS.md files, planning, reviews,
-    tests, and MCPs.
-  last_post_date: "2026-07-08T08:13:20Z"
-  last_post_link: https://bryanhogan.com/blog/ai-code-well
+  last_post_title: 'Working Holiday in Japan: My Experience and Practical Tips'
+  last_post_description: My experience living in Osaka and Tokyo on a Working Holiday
+    visa, with practical advice on preparation, housing, work, useful apps, and places
+    to eat.
+  last_post_date: "2026-08-02T07:26:43Z"
+  last_post_link: https://bryanhogan.com/blog/working-holiday-japan
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 577e01da54c9838cecb605af4ed0fcfe
+  last_post_guid: 901161b7fd3b913ebf1f611c6aceea35
   score_criteria:
     cats: 0
     description: 3

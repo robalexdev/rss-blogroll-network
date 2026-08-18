@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: changelog v4.1
-  last_post_description: proper site changelog this time
-  last_post_date: "2026-04-14T15:50:00Z"
-  last_post_link: https://32enoki.net/notebook/changelog-v4.1
+  last_post_title: changelog v4.2
+  last_post_description: my Awesome Changelog, with some future plans ja ja
+  last_post_date: "2026-08-04T15:50:00Z"
+  last_post_link: https://32enoki.net/notebook/changelog-v4.2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: edaad5d4f9c4d012601ee2044833c0ca
+  last_post_guid: fa3333b54963d588ceeec9dd0c4f9353
   score_criteria:
     cats: 0
     description: 3

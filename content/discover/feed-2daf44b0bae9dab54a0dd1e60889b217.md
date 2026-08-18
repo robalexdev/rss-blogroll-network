@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-07-21T20:06:52Z"
+date: "2026-08-17T17:11:06Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -32,15 +32,15 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #191'
-  last_post_description: "Howdy! Before we get into the links, we're going to take
-    a break next week, so we'll see you on July 31 \U0001F334\nArt as resistence\nMore
-    of this please!\nMildliner reference\nIf you've ever thought \"I wish"
-  last_post_date: "2026-07-17T11:55:00Z"
-  last_post_link: https://piccalil.li/the-index/191/?ref=main-rss-feed
+  last_post_title: 'The Index: Issue #194'
+  last_post_description: |-
+    Cooking Notebook
+    Josh Nesbitt is an immense cook, trust us, and they've compiled some great recipes for this very nice website. They're using tabular recipe layouts, which is also a nice touch
+  last_post_date: "2026-08-14T11:55:00Z"
+  last_post_link: https://piccalil.li/the-index/194/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bf4b21ee5fc0fccef6c626155884ed8d
+  last_post_guid: 8da21803826d53f8270636965c9452ee
   score_criteria:
     cats: 0
     description: 3

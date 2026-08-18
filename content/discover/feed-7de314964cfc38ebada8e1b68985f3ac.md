@@ -1,6 +1,6 @@
 ---
 title: Andre Franca
-date: "2026-05-31T23:34:32-03:00"
+date: "2026-07-19T22:22:58-03:00"
 description: ""
 params:
   feedlink: https://afranca.com.br/feed.xml
@@ -16,23 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - sports
+  - RSS-only
   relme:
     https://afranca.com.br/: true
     https://codeberg.org/abf: true
     https://git.sr.ht/~abf/: true
     https://github.com/andrefcodes: true
     https://mas.to/@abf: true
-  last_post_title: Convocação da Seleção Brasileira
-  last_post_description: A convocação da Seleção Brasileira para a Copa do Mundo de
-    2026 saiu há alguns dias e, como sempre, a cobertura da mídia vem sendo um show
-    de horrores à parte. Impressiona como a imprensa
-  last_post_date: "2026-05-31T23:34:32-03:00"
-  last_post_link: https://afranca.com.br/convocacao-da-selecao-brasileira/
+  last_post_title: 'Brazilian Elections Around the Corner: My Thoughts on the Main
+    Candidates.'
+  last_post_description: This post is only available to RSS subscribers. This post
+    is RSS-only because I don’t trust the current climate in Brazil. Call it paranoia
+    if you want. I call it pattern recognition. People who
+  last_post_date: "2026-07-19T22:22:58-03:00"
+  last_post_link: https://afranca.com.br/brazilian-elections-around-the-corner-my-thoughts-on-the-main-candidates/
   last_post_categories:
-  - sports
+  - RSS-only
   last_post_language: ""
-  last_post_guid: d2db67392d4bdd8fd2ceeef2d0f7c9d4
+  last_post_guid: c95975085c03016ba96d6b1a77c1042f
   score_criteria:
     cats: 0
     description: 0

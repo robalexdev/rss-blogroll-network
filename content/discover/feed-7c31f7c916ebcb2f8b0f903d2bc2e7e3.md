@@ -10,7 +10,7 @@ params:
     https://ianthehenry.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,19 +27,16 @@ params:
   categories: []
   relme:
     https://ianthehenry.com/: true
-  last_post_title: Periodic Spaces
+  last_post_title: Keyboardion
   last_post_description: |-
-    One of my favorite SDF techniques is domain repetition:
-    (def eye-center [35 82 62])
-    (def eyes (ball 39 | move eye-center | mirror x :r 10))
-    (def eye-angle [0 0 0])
-    (defn pupils [target]
-    (def left
-  last_post_date: "2025-11-30T00:00:00Z"
-  last_post_link: https://ianthehenry.com/posts/periodic-spaces/
+    I had another idea for a musical instrument, and I think it worked out pretty well.
+
+    It’s sort of a cross between a chromatic button accordion and a keytar. Or maybe it’s a digital Chapman
+  last_post_date: "2026-07-27T00:00:00Z"
+  last_post_link: https://ianthehenry.com/posts/keyboardion/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1da47651f61e4fb68e93a7dc03873fc3
+  last_post_guid: 2c521c0de34776f6e785a9ad4b7150fd
   score_criteria:
     cats: 0
     description: 3

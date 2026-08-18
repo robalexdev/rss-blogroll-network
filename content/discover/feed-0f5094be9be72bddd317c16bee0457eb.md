@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-07-11T20:45:11-04:00"
+date: "2026-08-16T06:23:29-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -70,6 +70,7 @@ params:
   - Art and Sport
   - Arthur Ashe
   - Artificial Respiration
+  - Artist Residency
   - Artistic Jealousy
   - Assiyah Jamilla Touré
   - Astrology
@@ -137,6 +138,8 @@ params:
   - Concentration
   - Concept Touring
   - Connie Bruck
+  - Constant
+  - Constant Nieuwenhuys
   - Cornel West
   - Cornelius Cardew
   - Cornelius Castoriadis
@@ -199,6 +202,7 @@ params:
   - Every Song I’ve Ever Written
   - Excerpts from Authenticity is a Feeling
   - Excerpts from Jacob Wren novels
+  - Extremely Online
   - FTA
   - Facebook
   - Failure
@@ -285,6 +289,7 @@ params:
   - Inger Christensen
   - Ingo Niermann
   - 'Inhabit: A Permaculture Perspective'
+  - Instagram
   - Isabelle Stengers
   - Islands of Decolonial Love
   - J. C. Sutcliffe
@@ -614,6 +619,7 @@ params:
   - Teaching for people who prefer not to teach
   - Teatro do Bairro Alto
   - Terence
+  - Terrains Vacants
   - Terry Adkins
   - Terry Root
   - Terry Tempest Williams
@@ -659,6 +665,7 @@ params:
   - Vivian Blaxell
   - Vladimir Holan
   - Vulnerable Paradoxes
+  - WIELS
   - Walt McClements
   - Walter Benjamin
   - William H. Gass
@@ -686,33 +693,31 @@ params:
   - solidarity
   - the IPCC report
   - the big beautiful bill
+  - Écotone - Espace d'expérimentation
   - Öyvind Fahlström
   relme: {}
-  last_post_title: '"...even more immediacy, connection, and public life in art and
-    in performance."'
+  last_post_title: Excerpt from the novel-in-progress Failure Finds its Happy End
   last_post_description: ""
-  last_post_date: "2026-07-11T20:40:17-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/07/even-more-immediacy-connection-and.html
+  last_post_date: "2026-08-13T18:21:39-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/05/excerpt-from-novel-in-progress-failure.html
   last_post_categories:
-  - Geneviève Robichaud
-  - PME-ART
-  - Quotes
-  - Sylvie Lachance
+  - Excerpts from Jacob Wren novels
+  - Failure Finds its Happy End
   last_post_language: ""
-  last_post_guid: bb34964ee103a3ff6173ee45ee935be5
+  last_post_guid: 36308e5ec28803451c2b05d81b7bef83
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Flogging Babel
-date: "2026-07-11T19:54:20-07:00"
+date: "2026-08-16T05:35:15-07:00"
 description: ""
 params:
   feedlink: https://floggingbabel.blogspot.com/atom.xml
@@ -40,13 +40,13 @@ params:
   - electric pickles
   - iJason
   relme: {}
-  last_post_title: HAPPY BIRTHDAY,  CORDWAINER SMITH!!!
+  last_post_title: John Crowley (1942-2026)
   last_post_description: ""
-  last_post_date: "2026-07-11T19:54:20-07:00"
-  last_post_link: https://floggingbabel.blogspot.com/2026/07/happy-birthday-cordwainer-smith.html
+  last_post_date: "2026-08-09T06:19:09-07:00"
+  last_post_link: https://floggingbabel.blogspot.com/2026/08/john-crowley-1942-2026.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 30dc659c1c987fb47e4b2f59e9a2f843
+  last_post_guid: 34956c7def8bb6de6609fcf87f3a1456
   score_criteria:
     cats: 5
     description: 0

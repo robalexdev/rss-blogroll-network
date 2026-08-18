@@ -10,7 +10,7 @@ params:
     https://www.fwrarejazzvinylcollector.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,17 +21,16 @@ params:
   categories:
   - LP 12"
   relme: {}
-  last_post_title: ”Live at the Lighthouse” by Lee Morgan on Blue Note BST 89906
-  last_post_description: "Morgan live and at his very best.\n          \n        \n
-    \     \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n
-    \     \n\n        \n\n        \n\n        \n          \n            \n              \n
-    \        "
-  last_post_date: "2026-06-26T15:20:43Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/6/26/live-at-the-lighthouse-by-lee-morgan-on-blue-note-bst-89906
+  last_post_title: ”Juju” by Wayne Shorter on Blue Note BLP 4182
+  last_post_description: "Here’s some good juju.\n          \n        \n      \n        \n
+    \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n      \n\n        \n\n
+    \       \n\n        \n          \n            \n              \n                \n "
+  last_post_date: "2026-08-15T19:34:10Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/8/15/juju-by-wayne-shorter-on-blue-note-blp-4182
   last_post_categories:
   - LP 12"
   last_post_language: ""
-  last_post_guid: 5c6cb3560f49bf395cdf959ea0039f73
+  last_post_guid: a08ff1370b6d5f810750c616a6a99b0a
   score_criteria:
     cats: 0
     description: 0

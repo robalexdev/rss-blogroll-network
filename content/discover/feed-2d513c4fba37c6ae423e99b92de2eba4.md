@@ -18,16 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·07·02
+  last_post_title: 安妮薇看看 №26·07·29
   last_post_description: |-
-    星河有迹：把我台每个听众画成一个星系
-    受到到之前推荐的「诗云」项目的启发，我 vibe
-  last_post_date: "2026-07-02T03:10:36Z"
+    Enigma 工作室操刀的 Glyphs 4 品牌更新
+    怎么感觉 Glyphs 这么有钱啊，Pentagram 做的 3.x 新 logo 也是 2023 年才换上的，新版本迅速改掉了，不过 case study
+  last_post_date: "2026-07-29T06:58:10Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 71f69e7fbc59ec9613b09d3ebe89f336
+  last_post_guid: 60365838d62bd12d9353edc9e3d80a0e
   score_criteria:
     cats: 0
     description: 3

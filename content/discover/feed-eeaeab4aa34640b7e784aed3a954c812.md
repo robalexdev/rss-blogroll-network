@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Paying Google to Hack macOS Users?
-  last_post_description: 'There is a horrible trend in the software industry: installing
-    software with curl | shell. People are encouraged to blindly execute scripts downloaded
-    from the internet. What could go'
-  last_post_date: "2026-04-12T01:00:00Z"
-  last_post_link: https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/
+  last_post_title: 'Use Your Brain: Engineering Standards in the Age of LLMs'
+  last_post_description: Software development is not a niche anymore. The advent of
+    LLMs made it possible for everyone to write their own software - and this is a
+    good thing. However, I see a huge number of software
+  last_post_date: "2026-07-26T12:00:00Z"
+  last_post_link: https://pgaleone.eu/ai/2026/07/26/use-your-brain/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4c035ac891aa8f436dd721e37f9f27fd
+  last_post_guid: b1eb9b6da870503cb68ed09e1984f53a
   score_criteria:
     cats: 0
     description: 3

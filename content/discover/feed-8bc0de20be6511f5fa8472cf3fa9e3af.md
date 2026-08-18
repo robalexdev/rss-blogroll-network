@@ -14,24 +14,24 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Where Deer Stroll Peacefully Past Computers
-  last_post_description: Moments of social mobilization enliven and expand our political
-    imagination. Among the things that sorely need reimagining is our technology.
-  last_post_date: "2026-07-03T16:26:24Z"
-  last_post_link: https://logicmag.io/care/where-deer-stroll-peacefully-past-computers
+  last_post_title: Meditations on Life and Logic(s)
+  last_post_description: This essay is part memoir, quarterly report, love letter
+    and mourning.
+  last_post_date: "2026-08-11T00:00:00Z"
+  last_post_link: https://logicmag.io/2026/meditations-on-life-and-logics
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 22923787bd4e367b2c7901b5694b1944
+  last_post_guid: c3739ebc51fd283c60b446e8968b14a4
   score_criteria:
     cats: 0
     description: 3

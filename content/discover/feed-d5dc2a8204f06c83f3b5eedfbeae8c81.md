@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Peak Load vs Base Load AV Networks
-  last_post_description: 'When Uber introduced surge pricing in 2011, many condemned
-    it as merely a price gouging tactic. But consumers eventually realized its primary
-    benefit: unlike fixed supply networks such as hotel rooms'
-  last_post_date: "2025-03-08T00:00:00-05:00"
-  last_post_link: https://reillybrennan.com/peak-load-vs-base-load-av-networks
+  last_post_title: Pauking
+  last_post_description: |-
+    This originally appeared as a column in Why Is This Interesting on Feb 12, 2026
+    When an Uber arrives, I don’t like to keep the driver waiting: it doesn’t feel considerate, plus I don’t want it
+  last_post_date: "2026-08-15T00:00:00-04:00"
+  last_post_link: https://reillybrennan.com/pauking
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5df2c848c33d8f102ad32dad23c0341a
+  last_post_guid: 8eba67f64780e857e56c0902bb21e606
   score_criteria:
     cats: 0
     description: 3

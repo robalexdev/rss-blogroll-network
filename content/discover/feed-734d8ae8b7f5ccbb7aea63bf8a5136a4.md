@@ -10,9 +10,12 @@ params:
     https://somethingaboutmaps.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -21,16 +24,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: On Sin
-  last_post_description: To make maps, we must sin against the landscape. We distort
-    the earth’s roundness, and we simplify complex realities down to a series of colors
-    and symbols. Ancient trees become a scattering of
-  last_post_date: "2026-07-20T01:27:05Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2026/07/19/on-sin/
+  last_post_title: A Few Minor Niceties
+  last_post_description: I recently finished up a first draft of a piece for a client,
+    a map that gave me a chance to try some new things and also exercise some cartographic
+    muscles that I haven’t for a while. So, today, I
+  last_post_date: "2026-08-04T00:20:44Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/08/03/a-few-minor-niceties/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: d9472ba503b1a79dff96d36cf1cb845d
+  last_post_guid: 47d4e290597c43daec3a84fe7ed84284
   score_criteria:
     cats: 0
     description: 0

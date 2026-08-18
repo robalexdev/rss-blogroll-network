@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-07-21T20:51:05Z"
+date: "2026-08-17T17:41:00Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -16,14 +16,14 @@ params:
     id: 4245e42f2d95b58713124e48e7ed0b3c
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.8.14.
+      v0.9.3.
     id: 7def71058aaab40ff83909b86eff9005
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.16.
+      by feedlandDatabase v0.9.3.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -38,33 +38,32 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - git
   - package-managers
-  - security
+  - weekly
   relme: {}
-  last_post_title: –end-of-options
-  last_post_description: The git flag I assumed was an LLM hallucination
-  last_post_date: "2026-07-21T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/07/21/end-of-options.html
+  last_post_title: 'This Week in Package Management: 15 August 2026'
+  last_post_description: Releases, advisories, and articles from across the package
+    management world
+  last_post_date: "2026-08-15T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/08/15/this-week-in-package-management.html
   last_post_categories:
-  - git
   - package-managers
-  - security
+  - weekly
   last_post_language: ""
-  last_post_guid: fb046fb2845082062a1fce60c000954c
+  last_post_guid: e482539eaca05274c3747accd0f19368
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

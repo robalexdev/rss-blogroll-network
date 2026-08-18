@@ -15,7 +15,7 @@ params:
     id: 4245e42f2d95b58713124e48e7ed0b3c
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
-      v0.8.14.
+      v0.9.3.
     id: 7def71058aaab40ff83909b86eff9005
   - title: indieblog.page
     description: ""

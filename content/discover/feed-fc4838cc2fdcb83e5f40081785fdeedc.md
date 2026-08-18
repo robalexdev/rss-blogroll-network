@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-07-03T21:22:25-07:00"
+date: "2026-08-13T06:24:16-07:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml

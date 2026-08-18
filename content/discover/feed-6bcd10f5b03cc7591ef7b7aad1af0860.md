@@ -1,6 +1,6 @@
 ---
 title: achyut
-date: "2026-06-11T17:58:48Z"
+date: "2026-08-17T20:03:44Z"
 description: I am building an AI company to help automate repetitive data-intensive
   workflows. Learning and breaking things everyday is fun, challenging and fulfilling.  ...
 params:
@@ -42,5 +42,5 @@ params:
   innetwork: true
   language: ""
   postcount: 10
-  avgpostlen: 276
+  avgpostlen: 296
 ---

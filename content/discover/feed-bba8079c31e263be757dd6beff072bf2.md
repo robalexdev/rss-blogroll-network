@@ -17,15 +17,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Software 2.0: Planning and Verifying a Greenfield Project'
-  last_post_description: "26 minutes to read\n\n        \n          \n\n          \n
-    \           In “Software 2.0: Code is Cheap, Good Taste is Not” I introduced “Software
-    2.0,” broadly, as an emerging practice in software"
-  last_post_date: "2026-03-13T14:00:00Z"
-  last_post_link: https://aaronstannard.com/software-2.0-case-study-textforge/
+  last_post_title: 'Software 2.0: a Security-Critical Project Where I Don''t Read
+    the Code'
+  last_post_description: "12 minutes to read\n\n        \n          \n\n          \n
+    \           \n\nThere’s been lots of rancor online about whether you should read
+    and review LLM-authored code. I wanted to share a project we’ve"
+  last_post_date: "2026-08-10T14:00:00Z"
+  last_post_link: https://aaronstannard.com/a-security-critical-project-where-i-dont-read-the-code/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1edbc51a74b4d332766b2473c29cbf1b
+  last_post_guid: ec7ce7533069b37ad2af36928f838606
   score_criteria:
     cats: 0
     description: 3

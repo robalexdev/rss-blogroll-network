@@ -26,17 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 《认知觉醒》
-  last_post_description: !!binary |
-    5pyA6L+R5Zyo6YeN6K+744CK6K6k55+l6KeJ6YaS44CL6L+Z5pys5Lmm77yM6Kem5Y+R55
-    qE5Yqo5py65Lmf5piv5YmN5q615pe26Ze05Y+I5YiG5Yir57uZ5LiA5Lqb5pyL5Y+L5a6J
-    5Yip5LqG6L+Z5pys5Lmm44CC5LiO44CK57qz55Om5bCU5a6d5YW444CL5LiA5qC377yM6L
-    +Z5Lmf5piv5LiA5pys6KKr5Lmm5ZCN6IC96K+v55qE5aW95Lmm77yM5Lk=
-  last_post_date: "2026-07-11T00:00:00Z"
-  last_post_link: https://hutusi.com/flows/2026/07/11
+  last_post_title: Jeff Dean 离开 Google，以及关于他的传说
+  last_post_description: 几日前，Google DeepMind 人事震动，哈萨比斯卸任 CEO，而更重磅的新闻是： [[Jeff Dean]]
+    从 Google 离职了。 Jeff Dean 是 Google 的元老之一，他与 1999 年作为第
+  last_post_date: "2026-08-08T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/08/08
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad233159be57862522cdf8a90bf72c1c
+  last_post_guid: 0a8b56fbcff00ae2cc79950c16129667
   score_criteria:
     cats: 0
     description: 3

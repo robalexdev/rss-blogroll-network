@@ -24,13 +24,15 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 2026年对口型视频合成方案对比：Wav2Lip、VideoReTalking、 MuseTalk 部署与实测
-  last_post_description: 实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。
-  last_post_date: "2026-06-17T15:45:03+08:00"
-  last_post_link: https://liudon.com/posts/lip-sync-video-synthesis-comparison/
+  last_post_title: 我做了一个口播短视频二创工具：VideoRemaker
+  last_post_description: |-
+    做自媒体的同学，有个口播视频的需求，希望能帮忙搞个工具出来。
+    以前没有 AI 的时候，我还真不敢接这活，现在有了
+  last_post_date: "2026-08-10T11:09:27+08:00"
+  last_post_link: https://liudon.com/posts/video-remaker-talking-head-video/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e886c0f408109d04a5967277541cbc5
+  last_post_guid: 206adef5f644a22ffff189ea8ed6eeae
   score_criteria:
     cats: 0
     description: 3

@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://aimerneige.com/zh/: true
-  last_post_title: 使用 Linux TPM 托管 SSH 密钥和 Git 签名
-  last_post_description: 记录在 Linux 设备上使用 TPM 生成 SSH key、配置 ssh-tpm-agent，以及它和指纹识别、磁盘加密的关系
-  last_post_date: "2026-07-12T18:11:00+08:00"
-  last_post_link: https://aimerneige.com/zh/post/linux/use-tpm-for-ssh-and-git-signing/
+  last_post_title: ZFS 存储池与 Dataset 基础操作
+  last_post_description: 在 Ubuntu 上创建 ZFS 存储池，并管理 dataset、属性、配额、加密、快照和数据同步。
+  last_post_date: "2026-07-26T00:00:00+08:00"
+  last_post_link: https://aimerneige.com/zh/post/linux/zfs-pool-and-dataset-basics/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d38830984ccca2b9e0f18fe64ec8da4
+  last_post_guid: b77c00c9b6f2f5f3d347d68674eb829a
   score_criteria:
     cats: 0
     description: 3

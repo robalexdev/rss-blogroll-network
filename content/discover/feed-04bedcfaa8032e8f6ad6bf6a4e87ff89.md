@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Navigation Systems in Video Games
-  last_post_description: Navigation is the set of systems & techniques enabling characters
-    to move efficiently through virtual environments. This post explores navigation
-    systems in games & how they work under the hood.
-  last_post_date: "2026-05-20T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/navigation-systems-in-video-games
+  last_post_title: 'SIMD in the 90s: Programming Intel''s Pentium MMX'
+  last_post_description: If you used PCs in the 90s, you probably remember the 'Intel
+    Inside MMX' stickers. This article explores Intel's major attempt at bringing
+    SIMD instructions to mainstream desktop CPUs.
+  last_post_date: "2026-08-12T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 83c6a658b0955d4f0c0c3e8889b7f579
+  last_post_guid: 6f944cf41a38d6b89464792eeea9ac40
   score_criteria:
     cats: 0
     description: 3

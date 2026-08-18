@@ -19,37 +19,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - bobdylan
-  - greilmarcus
-  - music
-  - rollingstone
+  - ai
+  - linocuts
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: 'Ask Greil: June 26, 2026'
-  last_post_description: I always enjoy these and this is a good one. Greil Marcus
-    on, as so often, Bob Dylan, Rolling Stone of old, and more.
-  last_post_date: "2026-06-27T08:49:48Z"
-  last_post_link: https://greilmarcus.substack.com/p/ask-greil-june-26-2026
+  last_post_title: 'A post on the stance of r/Linocuts and Generative AI use. : r/Linocuts'
+  last_post_description: Nicely-worded post banning use of AI in r/Linocuts, r/printmaking
+    and r/lithography. "No one was instantaneously amazing at any aspect in art. Making
+    shit art is part of the process…"
+  last_post_date: "2026-08-06T16:32:38Z"
+  last_post_link: https://www.reddit.com/r/Linocuts/comments/1vduyu0/a_post_on_the_stance_of_rlinocuts_and_generative/
   last_post_categories:
-  - bobdylan
-  - greilmarcus
-  - music
-  - rollingstone
+  - ai
+  - linocuts
   last_post_language: ""
-  last_post_guid: 03853f8b0be5c8ec1a71c2e8cb1a88a9
+  last_post_guid: 49e270445bd9dfae69e792f4961a9326
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

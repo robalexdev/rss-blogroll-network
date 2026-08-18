@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我的笔记系统
-  last_post_description: 最近梳理了一下自己在 onsidian
-  last_post_date: "2026-07-22T10:48:46+08:00"
-  last_post_link: https://data4fun.cc/blog/2026/07/post-20260722/
+  last_post_title: AI 新手村：让大模型学会操作浏览器
+  last_post_description: 传统的 LLM 只是一个文本语言模型，只能以 chat bot
+  last_post_date: "2026-08-07T14:57:11+08:00"
+  last_post_link: https://data4fun.cc/blog/2026/08/post-20260807/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db668c5e61958aa5279b0caa4accd69f
+  last_post_guid: e245649ae567449ccf8bf706383f86df
   score_criteria:
     cats: 0
     description: 3

@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 嘉信理财限制登录
-  last_post_description: 上周改了schwab嘉信理财的密码，当时登录没问题。 周末再次登录时，提示“此账户访问已被终止”。
-  last_post_date: "2026-07-20T13:59:04Z"
-  last_post_link: https://retire50blog.wang/invest/%e5%98%89%e4%bf%a1%e7%90%86%e8%b4%a2%e9%99%90%e5%88%b6%e7%99%bb%e5%bd%95.html
+  last_post_title: 再退一步
+  last_post_description: 最近这两年我基本是满仓持股，在这基础上，如果要做超额收益，我用过下面这些方法。 1长电大跌时候融资买进，然后短线卖出薅羊毛。
+  last_post_date: "2026-08-03T07:43:18Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%86%8d%e9%80%80%e4%b8%80%e6%ad%a5.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: e2f00e07944a733f68e6ad7f3b4b87ad
+  last_post_guid: 6fdbd60362bfc58de10955f48a2b20ff
   score_criteria:
     cats: 0
     description: 0

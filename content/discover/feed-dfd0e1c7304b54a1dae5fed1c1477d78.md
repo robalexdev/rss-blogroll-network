@@ -27,6 +27,7 @@ params:
   - https://www.andreinc.net/feed.xml
   - https://www.lkhrs.com/blog/index.xml
   - https://www.markpitblado.me/feed.xml
+  - https://82mhz.net/linkdumps.xml
   - https://andreinc.net/feed.xml
   recommender: []
   categories: []
@@ -47,11 +48,11 @@ params:
     hasPosts: 3
     postcats: 0
     promoted: 0
-    promotes: 6
+    promotes: 7
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

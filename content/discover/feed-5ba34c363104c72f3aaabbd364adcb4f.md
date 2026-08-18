@@ -12,33 +12,33 @@ params:
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: fb1245ce7aff3fe4a4a5b347014f7cd5
   recommended: []
   recommender: []
   categories:
-  - Agentic AI
-  - OpenClaw
-  - Raspberry Pi AI
-  - Raspberry Pi Official Magazine
+  - Maker Monday
+  - Raspberry Pi 3B+
+  - Raspberry Pi Camera
+  - Raspberry Pi Cameras
   relme: {}
-  last_post_title: Set up OpenClaw on your Raspberry Pi
+  last_post_title: Iris colour detection with Raspberry Pi
   last_post_description: |-
-    Turn Raspberry Pi into a powerful AI assistant that can do anything on your computer and keep it safely contained.
-    The post Set up OpenClaw on your Raspberry Pi appeared first on Raspberry Pi.
-  last_post_date: "2026-07-09T11:40:51Z"
-  last_post_link: https://www.raspberrypi.com/news/set-up-openclaw-on-your-raspberry-pi/
+    This computer vision project helps explain the genetic mechanisms underlying the inheritance of eye colour.
+    The post Iris colour detection with Raspberry Pi appeared first on Raspberry Pi.
+  last_post_date: "2026-08-17T11:27:06Z"
+  last_post_link: https://www.raspberrypi.com/news/iris-colour-detection-with-raspberry-pi/
   last_post_categories:
-  - Agentic AI
-  - OpenClaw
-  - Raspberry Pi AI
-  - Raspberry Pi Official Magazine
+  - Maker Monday
+  - Raspberry Pi 3B+
+  - Raspberry Pi Camera
+  - Raspberry Pi Cameras
   last_post_language: ""
-  last_post_guid: 917c0ed6e2af105a5a26528d501067f7
+  last_post_guid: d70838d46febfa6e27d000b79e817e44
   score_criteria:
     cats: 0
     description: 3

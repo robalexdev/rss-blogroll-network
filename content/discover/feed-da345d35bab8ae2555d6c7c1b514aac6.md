@@ -22,18 +22,20 @@ params:
     https://kokorobot.ca/: true
     https://merveilles.town/@rek: true
     https://rabbitwaves.ca/: true
-  last_post_title: Summary of changes for June 2026
+  last_post_title: Summary of changes for July 2026
   last_post_description: |-
     Hey everyone!This is the list of all the changes we've done to our projects during the month of June.
 
 
 
-      Wiki, we had a few things fail this month, see: solar cooking experiment, and ipad media
-  last_post_date: "2026-07-01T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#jun2026
+
+
+      Wiki, updated ipad media station and solar cooking experiment. Added new information for
+  last_post_date: "2026-07-30T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#jul2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ae2af6777c7abd592f489992744a53e
+  last_post_guid: 365385d2f5a11b3c48b6cfa0a6d282bc
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: On Moral Panics
-  last_post_description: “There is not the slightest doubt that bicycle riding, if
-    persisted in, leads to weakness of mind, general lunacy, and homicidal mania,”
-    says The New York Times article titled “Lunacy in
-  last_post_date: "2026-07-06T16:45:56+01:00"
-  last_post_link: https://molodtsov.me/2026/07/on-moral-panics/
+  last_post_title: How beehiiv Sold the Morning Brew Playbook to Everyone
+  last_post_description: My work is helping technology companies decide how to explain
+    themselves and shape their story. This is something I care deeply about. I followed
+    Tyler and beehiiv since their early days. Few
+  last_post_date: "2026-08-11T13:30:00Z"
+  last_post_link: https://molodtsov.me/2026/08/how-beehiiv-sold-the-morning-brew-playbook-to-everyone/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f5ab68e9454cc0f860abfc9dbaa63f17
+  last_post_guid: 981cb497afcc1f5ecd3824d53dad634f
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: End Over End
-  last_post_description: The Atlantic has pronounced that “The End of Reading is Here,”
-    the latest in a long series of stories, there and elsewhere, that lament that
-    no one -- but specifically no student -- reads anymore
-  last_post_date: "2026-07-11T18:01:57Z"
-  last_post_link: https://2ndbreakfast.audreywatters.com/end-over-end/
+  last_post_title: Reading Notes
+  last_post_description: ""
+  last_post_date: "2026-08-17T09:00:48Z"
+  last_post_link: https://2ndbreakfast.audreywatters.com/reading-notes/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb8576da9ef2b954c789c1f2a95f4736
+  last_post_guid: e59ddbf8d96b37727139f11b254ff24c
   score_criteria:
     cats: 0
     description: 3

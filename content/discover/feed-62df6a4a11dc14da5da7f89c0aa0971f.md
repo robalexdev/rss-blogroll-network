@@ -6,12 +6,10 @@ params:
   feedlink: https://op111.net/feed.xml
   feedtype: rss
   feedid: 62df6a4a11dc14da5da7f89c0aa0971f
-  websites: {}
+  websites:
+    https://op111.net/: true
   blogrolls: []
   in_blogrolls:
-  - title: indieblog.page
-    description: ""
-    id: 57d1158260fb39257e0d42e895822952
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -40,12 +38,12 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 14
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 34
+  postcount: 35
   avgpostlen: 0
 ---

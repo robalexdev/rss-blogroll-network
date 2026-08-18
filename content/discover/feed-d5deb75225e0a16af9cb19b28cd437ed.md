@@ -11,7 +11,7 @@ params:
     https://map.simonsarris.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,13 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fujifilm X100 vs Leica Q vs Ricoh GR
-  last_post_description: Notes on three fixed-lens camera lines
-  last_post_date: "2026-07-18T22:24:50Z"
-  last_post_link: https://map.simonsarris.com/p/fujifilm-x100-vs-leica-q-vs-ricoh
+  last_post_title: An interview about parenting, some tidings, and [paid subscribers]
+    Ask Me Anything about parenting
+  last_post_description: I was interviewed by Nicole Ruiz for The Third Oikos, mostly
+    about my life as it relates to parenting.
+  last_post_date: "2026-07-25T13:53:41Z"
+  last_post_link: https://map.simonsarris.com/p/an-interview-about-parenting-some
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ed5e36e8a21955b4224774307434c911
+  last_post_guid: 366425c252c4faf67b918472fa728946
   score_criteria:
     cats: 0
     description: 3

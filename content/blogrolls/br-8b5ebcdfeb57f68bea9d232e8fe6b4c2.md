@@ -32,4 +32,7 @@ params:
   - title: Logic ForAll
     description: 'Forro'' Logico: A blog to keep things.'
     id: ae789ef04efe18e5b0cbf3c752aaa08f
+  - title: Adam Caudill
+    description: Recent content on Adam Caudill
+    id: d5a3ddb5dee7408697799d685767289f
 ---

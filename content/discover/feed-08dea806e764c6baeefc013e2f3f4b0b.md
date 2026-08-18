@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-07-10T17:05:27-07:00"
+date: "2026-08-16T21:08:49-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -100,6 +100,7 @@ params:
   - AL GREEN
   - ALARMS
   - ALBERT GOLDMAN
+  - ALBUM ORIENTED TECHNO ARTISTS
   - ALEC EMPIRE
   - ALEX BANKS
   - ALEX LEE
@@ -215,6 +216,7 @@ params:
   - BASIC CHANNEL
   - BASS
   - BASS SELECTIVE
+  - BASS-O-MATIC
   - BASSBINS
   - BASSLINE
   - BASSLINE JUNKIE
@@ -237,6 +239,7 @@ params:
   - BENNY B
   - BERKHAMSTED
   - BERT RANDOM
+  - BEST BOOKS
   - BEVERLEY CRAVEN
   - BEYOND BASS
   - BIG BEAT
@@ -371,6 +374,7 @@ params:
   - CHANTAL PASSAMONTE
   - CHANTELLE FIDDY
   - CHARLIE xcx
+  - CHARLOTTE DE WITTE
   - CHARLY
   - CHARTCORE
   - CHARVA
@@ -565,6 +569,7 @@ params:
   - DISTILLATION
   - DIVAS
   - DIVERSIONS
+  - DIVIA BLISS
   - DIY
   - DIY DANCE
   - DIZZEE RASCAL
@@ -714,6 +719,7 @@ params:
   - ESTONIA
   - ET
   - ETHAN HEIN
+  - ETHEREAL DIVAS OF RAVE
   - ETYMOLOGY
   - EUPHORIA
   - EURO
@@ -764,6 +770,7 @@ params:
   - FINLAND
   - FIRST CHOICE
   - FIRST FLOOR
+  - FLASH IT
   - FLATUSTEP
   - FLEX
   - FLEX FM
@@ -892,6 +899,8 @@ params:
   - GWEN McCRAE
   - Georgia Brown
   - Gothic voices
+  - HAKKEN
+  - HAKKUH
   - HALL
   - HALLO
   - HANDSUP
@@ -1011,6 +1020,7 @@ params:
   - INHABIT
   - INNER CITY
   - INSTAGRAM
+  - INSTAGRAMMATOLOGY
   - INTELLIGENT
   - INTELLIGENT DANCE MUSIC
   - INTELLIGENT HARDCORE
@@ -1187,6 +1197,7 @@ params:
   - LIQUID
   - LIQUID SKY
   - LISA BLANNING
+  - LISA GERRARD
   - LISTEN & LEARN
   - LITTLE BIT LEAVE IT
   - LITTLE MAT
@@ -1299,6 +1310,7 @@ params:
   - MELODYNE
   - MEMORABILIA
   - MEMORY WORK
+  - MENACE
   - MENT 4 BASS
   - METAL DANCE
   - METALHEADS
@@ -1329,6 +1341,7 @@ params:
   - MIXRACE
   - MIXTAPES
   - MJ COLE
+  - MOBILE DISCOTHEQUES
   - MOBY
   - MOD
   - MODERN DANCE EPIDEMICS
@@ -1430,6 +1443,7 @@ params:
   - NOT A DIVING PODCAST
   - NOT CONVINCED
   - NOUGHTIES
+  - NOUVEAU ACID
   - NOW THAT'S WHY THEY CALL IT A CONTINUUM FOLKS
   - NOWISM
   - NOWTRO
@@ -1499,6 +1513,7 @@ params:
   - PAUL WOOLFORD
   - PCP
   - PCPSTEP
+  - PEACE SIGN
   - PEAK JUNGLE
   - PEANUT PETE
   - PEARSALL
@@ -1526,6 +1541,7 @@ params:
   - PIERRE SCHAEFFER
   - PIFS
   - PILLS
+  - PINK FLOYD
   - PINK PANTHERESS
   - PINKPANTHERESS
   - PIOTR GWADERA
@@ -1586,6 +1602,7 @@ params:
   - PROTO PROPS
   - PROTO-GRIME
   - PROTO-JUNGLE
+  - PSEUDO 3
   - PSYCHEDELIA
   - PSYCHO & MR MAN
   - PSYCHOGEOGRAPHY
@@ -1735,12 +1752,14 @@ params:
   - ROBBIE SHAKESPEARE
   - ROBERT BARRY
   - ROBERT HAIGH
+  - ROBERT S
   - ROBIN JAMES
   - ROBIN THE FOG
   - ROCHELLE FLEMING
   - ROCK 'N' ROLL
   - ROCK AND ROLL
   - ROCK PRESS
+  - ROCKCRIT CARDINAL ERRORS
   - ROCKSTEADY
   - ROCKTRONICA
   - ROGER TROUTMAN
@@ -1889,6 +1908,7 @@ params:
   - SOUL WEEKENDERS
   - SOULJAZZ
   - SOULWAX
+  - SOUND OF EDEN
   - SOUNDS NEVER SEEN
   - SOUNDS OF THE FUTURE
   - SOURCE DIRECT
@@ -1969,12 +1989,14 @@ params:
   - TAPES
   - TASTY FLANGE
   - TEACHERS
+  - TECHHOUSE
   - TECHNO BEFORE TECHNO.[POLAND
   - TECHNO CONVERSATION
   - TECHNO GROOVES
   - TECHNO SLAM
   - TECHNO THEORY
   - TECHNO-ROLL
+  - TECHNOPTIMISM
   - TECHNORAVE KITSCH
   - TECHNOROMANTICISM
   - TECHNOSTALGIA
@@ -2050,6 +2072,7 @@ params:
   - THE ORIGINALS
   - THE OTHER HARDCORE
   - THE POLITICS OF DANCE MUSIC
+  - THE PREHISTORY OF DISCO
   - THE PRIMITIVE PAINTER
   - THE RANSOM NOTE
   - THE RAVERS
@@ -2177,6 +2200,7 @@ params:
   - UPTOWN TOP RANKING
   - URBAN FOXES
   - URBAN SHAKEDOWN
+  - URBAN SOUL
   - URGE TO NEWNESS
   - US RAVE SCENE
   - USA
@@ -2202,6 +2226,7 @@ params:
   - VOCAL SCIENCE
   - VODKA RED BULL
   - VOODOO
+  - VOX SOUND LTD
   - VYBZ KARTEL
   - Vice
   - WAGON CHRIST
@@ -2229,6 +2254,7 @@ params:
   - WHAT'S IN A NAME
   - WHATEVER HAPPENED TO DEEP TECH THEN?
   - WHEN BELGIUM RULED THE WORLD
+  - WHEN DEEJAYS WERE UNCOOL
   - WHERE TECHNOTRONICA STARTED
   - WHITE DOVES
   - WHITE LOVE
@@ -2236,6 +2262,7 @@ params:
   - WICKAMAN
   - WICKY LINDOWS
   - WILEY
+  - WILLIAM ORBIT
   - WILLY WONKA
   - WINDY MILLA
   - WOBBLE
@@ -2515,29 +2542,30 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: When Freaks Were Chic - Danceteria remembered
+  last_post_title: Of Instagrammatology (slight return) (the eternal returns of....)
+    (unOriginal Mix)
   last_post_description: ""
-  last_post_date: "2026-06-29T14:37:26-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/06/when-freaks-were-chic-danceteria.html
+  last_post_date: "2026-08-13T15:00:02-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/08/instagrammatology-slight-return-eternal.html
   last_post_categories:
-  - BUTTHOLE SURFERS
-  - CINDY ECSTASY
-  - CLUB CULTURE
-  - DANCETERIA
-  - IMMACULATE CONSUMPTIVE
-  - JOHNNY ROTTEN
-  - JOY PRESS
-  - LYDIA LUNCH
-  - MADONNA
-  - MARK ALMOND
-  - MDMA
-  - MEMORABILIA
-  - NEW YORK
-  - ORAL HISTORY
-  - PISS WAND
-  - SOFT CELL
+  - CHANGING SAME
+  - CHARLOTTE DE WITTE
+  - ETHEREAL DIVAS OF RAVE
+  - GABBER
+  - HAKKEN
+  - HAKKUH
+  - HYPERSTASIS
+  - INSTAGRAM
+  - INSTAGRAMMATOLOGY
+  - JUMPSTYLE
+  - LISA GERRARD
+  - NOUVEAU ACID
+  - ROBERT S
+  - TECHHOUSE
+  - UK GARAGE
+  - folk dance
   last_post_language: ""
-  last_post_guid: 1174e4634868d53d3b52e6143c3b39f0
+  last_post_guid: 7b2ba5e709c1cf02758cc0774273fa14
   score_criteria:
     cats: 5
     description: 3

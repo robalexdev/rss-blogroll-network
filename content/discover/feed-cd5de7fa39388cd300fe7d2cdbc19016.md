@@ -34,15 +34,15 @@ params:
     https://mylastntwentyads.blogspot.com/: true
     https://rovingravingrabbi.blogspot.com/: true
     https://www.blogger.com/profile/10974259094860905139: true
-  last_post_title: Three-Fer Friday.
-  last_post_description: PART 1.It's your job, if you're a functioning human, to be
-    present.Present at home.Present when you're at work.Present with your loved ones.Present
-    with your friends. And your puppy.It's your job, if
-  last_post_date: "2026-05-08T10:52:00Z"
-  last_post_link: https://adaged.blogspot.com/2026/05/two-fer-friday.html
+  last_post_title: The Irrelevancing of the Ad Industry. (And Us.)
+  last_post_description: Last week, you couldn’t spit without hitting about 97,000
+    posts on LinkedIn and the bought-and-paid-for trade press about last week’s most
+    important advertising topic. Or the most important topic
+  last_post_date: "2026-08-17T10:47:38Z"
+  last_post_link: https://adaged.blogspot.com/2026/08/the-irrelevancing-of-ad-industry-and-us.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 46caf58bef11f66dd1ebfc4e74d31556
+  last_post_guid: 2bee873cfe8d5a8cc58435764aad54c0
   score_criteria:
     cats: 5
     description: 3

@@ -10,38 +10,43 @@ params:
     https://blog.strengthofone.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Personal sites are awesome!
     description: ""
     id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
   categories:
-  - Art
-  - Photos
-  - graffiti
-  - spray paint
-  - street art
+  - Design
+  - Inspiration
+  - UI
+  - UX
+  - Web Development
+  - web design
   relme: {}
-  last_post_title: Nineteen
-  last_post_description: Oh to be nineteen again. Oh wait, nineteen and angry? Maybe
-    not. There’s a bit of 1950’s nostalgia in this character. The line work in the
-    eyes and nose remind me of those “learn to draw
-  last_post_date: "2026-07-11T13:06:31Z"
-  last_post_link: https://blog.strengthofone.com/2026/07/11/nineteen/
+  last_post_title: Tactile
+  last_post_description: Recreating the joy of physical buttons View the project Sometimes
+    you find a design that strikes a chord of wonder and nostalgia. As we race to
+    put glossy, glassy touch screens on everything around
+  last_post_date: "2026-08-09T16:25:20Z"
+  last_post_link: https://blog.strengthofone.com/2026/08/09/tactile/
   last_post_categories:
-  - Art
-  - Photos
-  - graffiti
-  - spray paint
-  - street art
+  - Design
+  - Inspiration
+  - UI
+  - UX
+  - Web Development
+  - web design
   last_post_language: ""
-  last_post_guid: 399370e8aa7eeb97dda467694dea2d82
+  last_post_guid: 0db95700f06051db75930a9927a229d0
   score_criteria:
     cats: 0
     description: 3

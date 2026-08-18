@@ -1,6 +1,6 @@
 ---
 title: Phil's Workbench
-date: "2026-07-12T04:30:00Z"
+date: "2026-08-17T04:30:00Z"
 description: A daily updated blog typed by someone with painty hands, oil under his
   fingernails and the smell of solder in his nostrils who likes making all sort of
   models and miniatures. And fixing things.
@@ -12,7 +12,7 @@ params:
     https://philsworkbench.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -54,6 +54,7 @@ params:
   - Bantam Tug
   - Barclay
   - Barclay 0-4-0T
+  - Barge (1/48)
   - Beach Buggy
   - Beam Engine
   - Beatties collection
@@ -261,6 +262,7 @@ params:
   - art
   - ask phil
   - bantam
+  - binnie slate wagon
   - bismark
   - blog
   - book
@@ -360,28 +362,29 @@ params:
   - wooden toilet
   - yacht
   relme: {}
-  last_post_title: Covrail 2026
+  last_post_title: Binnie slate wagon
   last_post_description: ""
-  last_post_date: "2026-07-12T04:30:00Z"
-  last_post_link: https://philsworkbench.blogspot.com/2026/07/covrail-2026.html
+  last_post_date: "2026-08-17T04:30:00Z"
+  last_post_link: https://philsworkbench.blogspot.com/2026/08/binnie-slate-wagon.html
   last_post_categories:
-  - exhibitions
-  - model railway
+  - binnie slate wagon
+  - garden railway
+  - kitbuilding
   last_post_language: ""
-  last_post_guid: 0810c67527eef09cb7bae89438d27c61
+  last_post_guid: fea6617e5d4de431254517449f80eb0f
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 26
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Ahmad Alfy
-date: "2026-05-07T12:41:17+03:00"
+date: "2026-07-25T03:45:26+03:00"
 description: Blog about front-end development and the web
 params:
   feedlink: https://alfy.blog/feed.xml
@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,14 +25,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The HTML Sanitizer API
-  last_post_description: The HTML Sanitizer API is a new browser feature that helps
-    developers prevent XSS vulnerabilities by safely sanitizing HTML content.
-  last_post_date: "2026-05-07T03:00:00+03:00"
-  last_post_link: https://alfy.blog/2026/05/07/html-sanitizer-api.html
+  last_post_title: Testing Google’s “modern-web-guidance” skill against a real React
+    app
+  last_post_description: A test of the `modern-web-guidance` skill against a real
+    React app, to see whether it actually catches stale frontend patterns and surfaces
+    current best practices.
+  last_post_date: "2026-07-25T03:00:00+03:00"
+  last_post_link: https://alfy.blog/2026/07/25/modern-web-guidance.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5de2eb6f9a9f386320415e59d401b42b
+  last_post_guid: 872d0150b82adb60ce266e6d9ce78d96
   score_criteria:
     cats: 0
     description: 3

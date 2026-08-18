@@ -1,6 +1,6 @@
 ---
 title: Adam's Apples
-date: "2026-05-10T22:45:11-04:00"
+date: "2026-08-15T18:20:58-04:00"
 description: An amateur explores the pomaceous fruit
 params:
   feedlink: https://adamapples.blogspot.com/atom.xml
@@ -710,17 +710,16 @@ params:
   - winter apples
   - year of apples
   relme: {}
-  last_post_title: The King blossoms
+  last_post_title: Nothing like the first
   last_post_description: ""
-  last_post_date: "2026-05-05T22:05:55-04:00"
-  last_post_link: https://adamapples.blogspot.com/2026/05/the-king-blossoms.html
+  last_post_date: "2026-08-07T22:53:56-04:00"
+  last_post_link: https://adamapples.blogspot.com/2026/08/nothing-like-first.html
   last_post_categories:
-  - May
-  - Spring
-  - blossoms
+  - August
+  - Summer
   - commentary
   last_post_language: ""
-  last_post_guid: dcd2983e6ab819564bc822f022b485c3
+  last_post_guid: 5b49aae3293500c243d376d17d8720d5
   score_criteria:
     cats: 5
     description: 3
@@ -739,5 +738,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 264
+  avgpostlen: 276
 ---

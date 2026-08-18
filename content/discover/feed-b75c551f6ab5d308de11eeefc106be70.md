@@ -12,23 +12,23 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Stop, Collaborator, and Listen!
-  last_post_description: On stolen sovereignty and Americans fighting back.
-  last_post_date: "2026-07-03T22:03:08Z"
-  last_post_link: https://sarahkendzior.substack.com/p/stop-collaborator-and-listen
+  last_post_title: Covering Crime with Scandal
+  last_post_description: The oldest, and deadliest, trick in the book.
+  last_post_date: "2026-08-07T12:43:40Z"
+  last_post_link: https://sarahkendzior.substack.com/p/covering-crime-with-scandal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d571e0d25f1856b72823a00c6b2dfe57
+  last_post_guid: bc7e7499f44348e98f7e727e1974c6d0
   score_criteria:
     cats: 0
     description: 3

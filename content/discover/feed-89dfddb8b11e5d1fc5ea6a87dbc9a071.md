@@ -13,7 +13,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -38,15 +38,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The circus freaks of open source
-  last_post_description: The masterwork of Terry A. Davis is his eclectic operating
-    system, TempleOS, which he worked on until his tragic death in 2018. In terms
-    of technical excellence, TempleOS rates well in some respects
-  last_post_date: "2026-06-05T00:00:00Z"
-  last_post_link: https://drewdevault.com/blog/Circus-freaks-of-FOSS/
+  last_post_title: AI in Linux
+  last_post_description: The role of AI tools (LLMs, mainly) in Linux is under discussion,
+    or it was, until Linus Torvalds “put his foot down” in support of the use of AI
+    in Linux kernel development.I can identify two
+  last_post_date: "2026-07-23T00:00:00Z"
+  last_post_link: https://drewdevault.com/blog/AI-in-Linux/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d30b2f760f5aad212e39aa483d0a86b2
+  last_post_guid: 2b70a89b9fef7a54a1f9af78e8b2ad66
   score_criteria:
     cats: 0
     description: 3

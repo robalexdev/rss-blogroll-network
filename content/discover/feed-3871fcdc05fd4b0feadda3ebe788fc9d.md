@@ -10,7 +10,7 @@ params:
     https://notes.peteashton.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,15 +23,15 @@ params:
     https://72.peteashton.com/: true
     https://notes.peteashton.com/: true
     https://social.coop/@pete: true
-  last_post_title: Notes and links from Sun 12 July
+  last_post_title: Notes and links from 17 Aug
   last_post_description: |-
-    Status:
-    Over the last week the rabbits' biological systems have been instructing a significant amount of their fur to leave the building and as such we have had some buns with rather tufty butts.
-  last_post_date: "2026-07-12T21:05:03+01:00"
-  last_post_link: https://notes.peteashton.com/2026/07/12/notes-and-links-from-sun.html
+    Taking things a bit easier today, after the crash. Pottering around the house and looking the Eleventy docs right from the beginning (rather than trying to reverse engineer). This was helpful.
+    One of
+  last_post_date: "2026-08-17T19:03:12+01:00"
+  last_post_link: https://notes.peteashton.com/2026/08/17/notes-and-links-from-aug.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c718af66a163d511ff85a6a167077e8d
+  last_post_guid: c2898a5446aef3ea44f4097cb5e55fca
   score_criteria:
     cats: 0
     description: 0

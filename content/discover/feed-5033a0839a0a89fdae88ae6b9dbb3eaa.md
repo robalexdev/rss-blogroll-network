@@ -1,6 +1,6 @@
 ---
 title: annie's blog
-date: "2026-07-14T03:56:57Z"
+date: "2026-08-04T03:04:48Z"
 description: ""
 params:
   feedlink: https://anniemueller.com/posts_feed
@@ -10,7 +10,7 @@ params:
     https://anniemueller.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Colin Walker's readroll
@@ -19,6 +19,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Ryan M. - Blogroll
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee
@@ -41,15 +44,15 @@ params:
   categories: []
   relme:
     https://anniemueller.com/: true
-  last_post_title: I have no idea who celebrities are anymore
-  last_post_description: Julia Roberts? She was in that one movie with that guy, and
-    the other one with the other guy, and like 100 more. Whatever. But sheâ€™s old
-    news. Like all...
-  last_post_date: "2026-07-14T03:56:57Z"
-  last_post_link: https://anniemueller.com/posts/i-have-no-idea-who-celebrities-are-anymore
+  last_post_title: Waiting to be found by only you
+  last_post_description: Who knows how reality will continue to develop? There’s no
+    way to prepare. When you can’t be prepared, be prepared to find poetry in the
+    chaos. Secret messages, serendipitous grace,...
+  last_post_date: "2026-08-04T03:04:48Z"
+  last_post_link: https://anniemueller.com/posts/waiting-to-be-found-by-only-you
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24a7fec6734dfb1aa979363f28ecccc8
+  last_post_guid: 669dad5f6ddee0477ead8ccdba238970
   score_criteria:
     cats: 0
     description: 0

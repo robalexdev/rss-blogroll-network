@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-07-12T11:06:43+01:00"
+date: "2026-08-12T16:01:57+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://culturalsnow.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -473,20 +473,16 @@ params:
     https://culturalsnow.blogspot.com/: true
     https://lookinginfinite.blogspot.com/: true
     https://www.blogger.com/profile/14681067872556519250: true
-  last_post_title: About Shiloh
+  last_post_title: About Anish Kapoor
   last_post_description: ""
-  last_post_date: "2026-07-12T11:01:42+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/06/about-shiloh.html
+  last_post_date: "2026-08-12T16:01:57+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-anish-kapoor.html
   last_post_categories:
-  - AI
-  - Blake
-  - France
-  - books
-  - celebrity
-  - poetry
-  - words
+  - art
+  - photography
+  - social media
   last_post_language: ""
-  last_post_guid: 623ed3931183a6e48c515ffc4c56918c
+  last_post_guid: 9a8c05cb3deb659af051800e3efda64a
   score_criteria:
     cats: 5
     description: 3

@@ -14,7 +14,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -42,15 +42,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Server Migration
-  last_post_description: When I woke up on Saturday at 4am to use the toilet, I made
-    the mistake of picking up my phone. Instead of sleeping, I opened a conversation
-    from the day before. I clicked a link to Parakeet only to
-  last_post_date: "2026-07-20T08:35:00+09:00"
-  last_post_link: https://lmnt.me/blog/server-migration.html
+  last_post_title: This Set Was Made for Me
+  last_post_description: "Look, I don’t buy LEGO sets that much anymore. I fawn over
+    them, look at photos of them, but resist the urge to buy them. But this one got
+    me. I could not resist.\n\t\tOne hour ago, I didn't know this"
+  last_post_date: "2026-08-17T18:25:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/this-set-was-made-for-me.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ba284c267535b73e0d892af6f1b167cf
+  last_post_guid: 42d1aa46f7f155fe04c532b05fa65d98
   score_criteria:
     cats: 1
     description: 3

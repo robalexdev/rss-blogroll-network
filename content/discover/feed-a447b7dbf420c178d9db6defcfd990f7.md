@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-07-12T11:06:43+01:00"
+date: "2026-08-12T16:01:57+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -468,20 +468,16 @@ params:
   - work
   - writing
   relme: {}
-  last_post_title: About Shiloh
+  last_post_title: About Anish Kapoor
   last_post_description: ""
-  last_post_date: "2026-07-12T11:01:42+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/06/about-shiloh.html
+  last_post_date: "2026-08-12T16:01:57+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-anish-kapoor.html
   last_post_categories:
-  - AI
-  - Blake
-  - France
-  - books
-  - celebrity
-  - poetry
-  - words
+  - art
+  - photography
+  - social media
   last_post_language: ""
-  last_post_guid: e48ec702569e9b90b0e5c063f94cc60f
+  last_post_guid: 4acb77a8b0da94edd84c0aa2e7b8226d
   score_criteria:
     cats: 5
     description: 3

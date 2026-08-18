@@ -12,6 +12,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: FreshRSS
     description: ""
     id: 5a1c6ae0431c53f45dd7baba3b6f2126

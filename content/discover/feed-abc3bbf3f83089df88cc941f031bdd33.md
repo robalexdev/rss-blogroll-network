@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2026-04-29T05:00:00Z"
+date: "2026-08-10T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -10,7 +10,7 @@ params:
     https://www.zachleat.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS Feeds for Clayton's Blogroll
@@ -46,13 +46,13 @@ params:
   - https://simonbc.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Back Build Awesome Pro and make it easier to build for the web!
+  last_post_title: Am I neglecting my open source projects?
   last_post_description: ""
-  last_post_date: "2026-04-29T05:00:00Z"
-  last_post_link: https://www.zachleat.com/web/build-awesome-pro/
+  last_post_date: "2026-08-10T05:00:00Z"
+  last_post_link: https://www.zachleat.com/web/is-this-still-being-maintained/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7a907af52cc18c74ab02a69b4aef0932
+  last_post_guid: 6a762e520e4b581bb1eaa534b60533ac
   score_criteria:
     cats: 0
     description: 3

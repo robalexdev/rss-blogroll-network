@@ -16,17 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Email Marketing Trends 2026: What Actually Works (According to
-    the People Doing It)'
-  last_post_description: |-
-    The biggest email marketing trend of 2026 is a shift from
-    copy to infrastructure. Reply rates have fallen to 5.8% on average, open
-    rates are no longer trustworthy, and Gmail, Yahoo, and Microsoft
-  last_post_date: "2026-07-11T10:34:02Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/email-marketing-trends-2026-what-actually-works-according-to-the-people-doing-it
+  last_post_title: 'Cold Email in 2026: The Deliverability-First System That Books
+    Meetings'
+  last_post_description: 'Quick answer: A deliverability-first cold email system protects
+    sender reputation before it tries to scale. It uses authenticated domains, verified
+    and relevant contacts, controlled sending patterns,'
+  last_post_date: "2026-08-17T12:42:59Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/cold-email-deliverability-system-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5f7ed6a84fd1394458dce3c68051523
+  last_post_guid: 16ff624a5b0ce02c15ff88bc4608b88e
   score_criteria:
     cats: 0
     description: 3

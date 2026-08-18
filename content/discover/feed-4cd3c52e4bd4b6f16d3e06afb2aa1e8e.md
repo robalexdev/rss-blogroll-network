@@ -15,38 +15,35 @@ params:
     id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories:
-  - Donald Trump
-  - Editors' Blog
-  - John McCain
-  - Lindsey Graham
-  - Newt Gingrich
-  - Republicans
-  - obituary
+  - AI
+  - Cafe
+  - Pentagon
+  - Pete Hegseth
+  - democracy
   relme: {}
-  last_post_title: Lindsey Graham Always Needed a Daddy
-  last_post_description: There’s not a lot I have to add to the reporting on Lindsey
-    Graham’s sudden and unexpected death. The longtime...
-  last_post_date: "2026-07-12T14:14:12Z"
-  last_post_link: https://talkingpointsmemo.com/edblog/lindsey-graham-always-needed-a-daddy
+  last_post_title: Anthropic’s Fight With the Pentagon Shows How AI Could Threaten
+    a Crucial Safeguard of Democracy
+  last_post_description: This article is part of TPM Cafe, TPM’s home for opinion
+    and news analysis. It was originally published at The...
+  last_post_date: "2026-08-17T18:20:21Z"
+  last_post_link: https://talkingpointsmemo.com/cafe/anthropics-fight-with-the-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy
   last_post_categories:
-  - Donald Trump
-  - Editors' Blog
-  - John McCain
-  - Lindsey Graham
-  - Newt Gingrich
-  - Republicans
-  - obituary
+  - AI
+  - Cafe
+  - Pentagon
+  - Pete Hegseth
+  - democracy
   last_post_language: ""
-  last_post_guid: be8cb44040e7ae251ff4ee81133f6523
+  last_post_guid: 5872c99857f66438f41cd5e75a05c0fa
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -36,16 +36,16 @@ params:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: Making the bees walk in line
-  last_post_description: "Try staying still and \"doing nothing\" when your head is
-    a beehive of thoughts, ideas, emotions, intentions, and desires.\n\t\tSadly, I
-    often end up scrolling.\n\t\tIt gives the illusion of \"stopping\", but"
-  last_post_date: "2026-07-11T13:10:43+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/07/11/Making-the-bees-walk-in-line.html?utm_medium=rss
+  last_post_title: Firefox settings for a security-/privacy-conscious user
+  last_post_description: "Will Dormann made a nice post with Firefox settings that
+    a security-/privacy-conscious user may want to enable:\n\n\t\n\t\tIf anybody else
+    is making the switch to (or back to) Firefox, there are a few"
+  last_post_date: "2026-08-07T19:18:30+02:00"
+  last_post_link: https://blog.x-way.org/Misc/2026/08/07/Firefox-settings-for-a-security-privacy-conscious-user.html?utm_medium=rss
   last_post_categories:
   - Misc
   last_post_language: ""
-  last_post_guid: c281cba45446a85e71281c2a7be13d07
+  last_post_guid: c0f6cb194f348f29a58cda47c8f67d76
   score_criteria:
     cats: 0
     description: 3

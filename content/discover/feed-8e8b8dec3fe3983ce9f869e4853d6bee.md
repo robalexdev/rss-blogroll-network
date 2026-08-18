@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-07-21T10:52:55Z"
+date: "2026-08-09T15:14:12Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -22,18 +22,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 策略
+  - 工作
   relme: {}
-  last_post_title: 200 美元买来的教训
+  last_post_title: 预测市场生态的项目为什么难做
   last_post_description: |-
-    其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。
-    但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket
-  last_post_date: "2026-07-21T10:52:55Z"
-  last_post_link: https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/
+    前情提要：
+
+    《
+  last_post_date: "2026-08-09T15:14:12Z"
+  last_post_link: https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/
   last_post_categories:
-  - 策略
+  - 工作
   last_post_language: ""
-  last_post_guid: f1aaaace320f568b49a877400b89d32b
+  last_post_guid: 1be15c2549ebf133bbaa78d22d9314b1
   score_criteria:
     cats: 0
     description: 3

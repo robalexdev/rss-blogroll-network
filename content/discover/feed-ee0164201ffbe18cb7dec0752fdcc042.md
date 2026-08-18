@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-07-11T19:54:51-07:00"
+date: "2026-08-05T14:47:47-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -213,6 +213,8 @@ params:
   - CONTROL
   - CONVERSION EXPERIENCES
   - COSMOPOLITANISM
+  - COUNTER-REVOLUTION
+  - COUNTER-UTOPIANISM
   - COUNTERFACTUALS
   - COVER VERSIONS
   - CRASS
@@ -310,6 +312,7 @@ params:
   - ENTROPY IN THE UK
   - EON
   - ERNEST HOOD
+  - ERNST BLOCH
   - ERYKAH BADU
   - ESCAPE VELOCITY
   - EULOGIES
@@ -438,6 +441,7 @@ params:
   - INSIDES
   - INSTAGRAM
   - INTELLIGENT DANCE MUSIC
+  - INTERNATIONALIZATION OF TRAP
   - INTERSYSTEMS
   - ISLAND
   - ISLAND RECORDS
@@ -595,6 +599,7 @@ params:
   - MESSIAH
   - METAL BOX
   - MICHAEL JACKSON
+  - MIGOS
   - MILES DAVIS
   - MINIMALISM
   - MISSY ELLIOTT
@@ -877,6 +882,7 @@ params:
   - THE CURE
   - THE DEEEP
   - THE EXTRAS
+  - THE FACE
   - THE FALL
   - THE FEELIES
   - THE FOCUS GROUP
@@ -896,6 +902,8 @@ params:
   - THE MOVER
   - THE POLITICS OF SOUND
   - THE POP GROUP
+  - THE PRINCIPLE OF HOPE
+  - THE PRINCIPLE OF HOPELESSNESS
   - THE PRODIGY
   - THE RAPTURE
   - THE RESIDENTS
@@ -935,6 +943,7 @@ params:
   - TRADITIONAL MUSIC
   - TRANCE
   - TRAP
+  - TRAP INTERNATIONALE
   - TREVOR JACKSON
   - TRIBUTES
   - TRICIA ROSE
@@ -1108,16 +1117,25 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Take Care
+  last_post_title: The Trap Internationale
   last_post_description: ""
-  last_post_date: "2026-07-05T13:44:09-07:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/07/take-care.html
+  last_post_date: "2026-08-02T12:23:37-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/08/the-trap-internationale.html
   last_post_categories:
-  - HAUNTOLOGY
-  - JAMES KIRBY
-  - THE CARETAKER
+  - AUTOTUNE
+  - COUNTER-REVOLUTION
+  - COUNTER-UTOPIANISM
+  - ERNST BLOCH
+  - INTERNATIONALIZATION OF TRAP
+  - MARK FISHER
+  - MIGOS
+  - THE FACE
+  - THE PRINCIPLE OF HOPE
+  - THE PRINCIPLE OF HOPELESSNESS
+  - TRAP
+  - TRAP INTERNATIONALE
   last_post_language: ""
-  last_post_guid: 15181d02a0835cc33b1d5ae0b9375b47
+  last_post_guid: 221a4d49b638dab77e8ac74d8ccbed54
   score_criteria:
     cats: 5
     description: 3

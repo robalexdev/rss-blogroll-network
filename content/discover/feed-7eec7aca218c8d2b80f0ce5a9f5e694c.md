@@ -1,6 +1,6 @@
 ---
 title: Tom Clancy
-date: "2026-06-05T17:00:00-04:00"
+date: "2026-08-11T17:00:00-04:00"
 description: ""
 params:
   feedlink: https://tomclancy.info/feeds/all.atom.xml
@@ -23,21 +23,20 @@ params:
   - wig
   relme:
     https://tomclancy.info/: true
-  last_post_title: What is Good? 2026-06-05
+  last_post_title: What is Good? 2026-08-11
   last_post_description: |-
     ❧ "What is good, Phaedrus, and what is not good?" ❦
     Good in the last month
 
-
-    Good Luck, Have Fun, Don’t Die - terrific science fiction, only downside was it
-    left me annoyed with everyone who
-  last_post_date: "2026-06-05T17:00:00-04:00"
-  last_post_link: https://tomclancy.info/wig-2600705.html
+    Step bits: how did I not know about these? Bought a small set to put holes in a metal
+    planter and they worked
+  last_post_date: "2026-08-11T17:00:00-04:00"
+  last_post_link: https://tomclancy.info/wig-2600811.html
   last_post_categories:
   - Posts
   - wig
   last_post_language: ""
-  last_post_guid: e45aa3137f1ac7f7815cbe6f691b19d9
+  last_post_guid: 507cc73b983e419b6ddff02ce6a43716
   score_criteria:
     cats: 0
     description: 0

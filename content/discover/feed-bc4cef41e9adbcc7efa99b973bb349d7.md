@@ -1,8 +1,8 @@
 ---
 title: Ethan Hawksley's Blog
 date: "1970-01-01T00:00:00Z"
-description: Technical blog of Ethan Hawksley, a UK-based CS student. Articles on
-  systems programming, low-level computing, cybersecurity, and computer science.
+description: A blog by Ethan Hawksley, a Computer Science student in the UK. Articles
+  on systems programming, cybersecurity, and whatever else grabs my attention.
 params:
   feedlink: https://hawksley.dev/rss.xml
   feedtype: rss
@@ -11,7 +11,7 @@ params:
     https://hawksley.dev/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,20 +29,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - seo
-  - web
+  - hack-club
+  - hackathon
   relme:
     https://hawksley.dev/: true
-  last_post_title: JSON-LD Explained for Personal Websites
-  last_post_description: Everything you need to know about JSON-LD and how to implement
-    it.
-  last_post_date: "2026-06-21T00:00:00Z"
-  last_post_link: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
+    https://mastodon.social/@ethanhawksley: true
+  last_post_title: My Experience with Hack Club Horizons Europa
+  last_post_description: I had a great time at a 3-day hackathon
+  last_post_date: "2026-07-30T00:00:00Z"
+  last_post_link: https://hawksley.dev/blog/hack-club-horizons/
   last_post_categories:
-  - seo
-  - web
+  - hack-club
+  - hackathon
   last_post_language: ""
-  last_post_guid: cc587604b24b79e00e14a9213905d693
+  last_post_guid: 4cd9b79634e0814863d129a23023ef78
   score_criteria:
     cats: 0
     description: 3

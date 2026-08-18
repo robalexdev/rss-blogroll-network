@@ -18,13 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Huelgoat
-  last_post_description: In the mysterious forests of Huelgoat.
-  last_post_date: "2026-07-12T15:00:00+02:00"
-  last_post_link: https://alienlebarge.ch/photos/2026-07-07-15-01
+  last_post_title: 2026-08-15-17-04
+  last_post_description: Today is a good day because there’s a new Matthew Herbert
+    track
+  last_post_date: "2026-08-15T17:05:00+02:00"
+  last_post_link: https://alienlebarge.ch/notes/2026-08-15-17-04
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9ee90dfd2e227a9b412e45b77f2e7aa6
+  last_post_guid: fc3efed0a5755f82a595d2152eb55b7e
   score_criteria:
     cats: 0
     description: 3

@@ -17,15 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's the deal with all the random weekly quota resets for agents
-    lately?
-  last_post_description: I’m going to be the weirdo who complains about literally
-    getting free stuff.
-  last_post_date: "2026-07-18T12:00:00-07:00"
-  last_post_link: https://minimaxir.com/2026/07/agent-quota-reset/
+  last_post_title: LLMs break down in funny ways when told the Jacobian Conjecture
+    counterargument
+  last_post_description: Cognitohazards can affect machines too.
+  last_post_date: "2026-07-23T09:15:00-07:00"
+  last_post_link: https://minimaxir.com/2026/07/jacobian-conjecture/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6159f133b53984cb4f2c236b02597f10
+  last_post_guid: 75e83601ff73ec84b9b35b4e9f104da8
   score_criteria:
     cats: 0
     description: 3

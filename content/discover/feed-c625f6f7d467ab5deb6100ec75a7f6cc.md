@@ -17,14 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Backfills should fail in minutes, not days
-  last_post_description: Without fast feedback loops, backfills and data migrations
-    can be some of the slowest work that a team does.
-  last_post_date: "2026-06-22T00:00:00Z"
-  last_post_link: https://will-keleher.com/posts/backfills-should-fail-in-minutes-not-days/
+  last_post_title: That Test isn't Flaky. It's Broken.
+  last_post_description: An engineering culture that treats test failures as re-runnable
+    "flakes" rather than errors is an engineering culture that will create an inconsistent
+    test suite. Improving test assertions and
+  last_post_date: "2026-08-12T00:00:00Z"
+  last_post_link: https://will-keleher.com/posts/its-broken-not-flaky/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d8a86b195f10bd79e971c90e8042ee8c
+  last_post_guid: f665724d623c0c894e6332436b98d388
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-07-12T12:54:18-07:00"
+date: "2026-08-17T11:32:21-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -39,6 +39,7 @@ params:
   - ALL THE YOUNG DUDES
   - AMANDA LEAR
   - AMBIGUITY
+  - AMBITION
   - AMERICAN RECEPTION OF GLAM
   - AMERICAN ROCK CRITICS
   - ANDROGYNY
@@ -311,6 +312,7 @@ params:
   - LOVE INC
   - LOW SELF ESTEEM
   - LUKE HAINES
+  - MADONNA
   - MAG
   - MAGA
   - MAGIC UNREALISM
@@ -318,6 +320,7 @@ params:
   - MALCOLM MCLAREN
   - MAN-MADE MATERIALS
   - MANIFESTING
+  - MAR-A-LAGO FACE
   - MARC BOLAN
   - MARILYN MANSON
   - MARK FISHER
@@ -610,40 +613,26 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: All the World’s a Screen (anti-theatricality’s eternal returns)
+  last_post_title: Bubblegum Revolution
   last_post_description: ""
-  last_post_date: "2026-07-12T12:54:18-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/07/anti-theatricality-its-only-movie.html
-  last_post_categories:
-  - A.O. SCOTT
-  - ANTI-THEATRICALITY
-  - CINEMA
-  - DAVID THOMSON
-  - FILM
-  - HOLLYWOOD
-  - MAGA
-  - MEGAN GARBER
-  - MOVIE
-  - MOVIES
-  - PURITANISM
-  - SCREENS
-  - SPECTACLE
-  - TRUMP
+  last_post_date: "2026-08-13T12:07:07-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/08/bubblegum-revolution.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 33ae66b2a3b0a2e15d23202f4796827f
+  last_post_guid: 32c2b44eaf9852bb248478e0cbc2b960
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

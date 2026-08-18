@@ -10,7 +10,7 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -25,9 +25,12 @@ params:
   - title: 'Just a Gwai Lo: Blogroll'
     description: ""
     id: f897b7ddc89263f7c8905cadafc81159
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: davewiner/hackerNewsStars
     description: davewiner's subscription list, hackerNewsStars category. List created
-      by feedlandDatabase v0.8.16.
+      by feedlandDatabase v0.9.3.
     id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: RSS feeds from Minifeed.net
     description: ""
@@ -41,15 +44,18 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: QuadRF can spot drones and see WiFi through my wall
+  last_post_title: I'm excited for Intel after testing the XPS 13
   last_post_description: |-
-    The QuadRF (pictured above) a phased-array radio built around a Raspberry Pi 5 and an FPGA board with picosecond-level timing. It does advanced signal processing and beamforming.
-    It can see WiFi
-  last_post_date: "2026-07-10T09:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+    Shortly after Apple launched the budget MacBook Neo, Dell announced their response, a new low-end XPS 13.
+
+
+
+    Matching the Neo's current pricing, it starts at $699, or $599 with an educational
+  last_post_date: "2026-08-07T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 057f8b3c8393d1ba664b87b24ead5ad8
+  last_post_guid: b9e69cd19645144e9abf025fd0b173ed
   score_criteria:
     cats: 0
     description: 3

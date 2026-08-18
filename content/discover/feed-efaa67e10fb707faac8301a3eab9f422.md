@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 从 400U 到 800U：小账户做短线时，我这周学到的几件事
+  last_post_title: 从 800U 到爆仓：过度交易和扛单，最后还是把账户做没了
   last_post_description: |-
     引言
-    上一篇写完的时候，我的实盘账户从 100U 做到了
-  last_post_date: "2026-07-15T11:00:00+08:00"
-  last_post_link: https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html
+    上一篇写完的时候，账户从 400U 做到了
+  last_post_date: "2026-07-24T10:00:00+08:00"
+  last_post_link: https://blog.forecho.com/from-800u-to-liquidation-overtrading-countertrend.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2f1ae7f0295cdd766bf6896218cca050
+  last_post_guid: d7caab33ac4617befeff5bdf7b6ada26
   score_criteria:
     cats: 0
     description: 3

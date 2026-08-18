@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-07-21T13:36:18Z"
+date: "2026-08-17T13:25:47Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Google&#x27;s Gemini chip \U0001F916, AMD vs Nvidia ⚡, agent economics
-    \U0001F4B0"
+  last_post_title: "Stripe buys OpenRouter \U0001F500, Anthropic Model 2 \U0001F916,
+    zero knowledge proofs \U0001F9E0"
   last_post_description: ""
-  last_post_date: "2026-07-20T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-07-21
+  last_post_date: "2026-08-16T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-08-17
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d5480cfd32b848528d1626dde8741826
+  last_post_guid: cb8d0d5e5765c6e26327e7e10693d5c6
   score_criteria:
     cats: 0
     description: 0

@@ -13,13 +13,7 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -29,48 +23,30 @@ params:
   - title: Blogroll
     description: ""
     id: 7b87285a8ddb3d5344849c363f0feee9
-  - title: Dan Q's Blogroll
-    description: ""
-    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
-  categories:
-  - book
-  - fantasty
-  - gothic
-  - review
-  - sci-fi
-  - sciencefiction
+  categories: []
   relme: {}
-  last_post_title: Gideon The Ninth by Tamsyn Muir
-  last_post_description: |-
-    Lesbian necromancers in space. That’s the usual pitch for Gideon The Ninth and it’s not wrong. Though there’s a lot more necromancy than space or lesbianism.
-
-    The book begins in an environment
-  last_post_date: "2026-05-09T23:31:24Z"
-  last_post_link: https://adactio.com/journal/22560
-  last_post_categories:
-  - book
-  - fantasty
-  - gothic
-  - review
-  - sci-fi
-  - sciencefiction
+  last_post_title: Monday session
+  last_post_description: Monday session
+  last_post_date: "2026-08-17T19:53:47Z"
+  last_post_link: https://adactio.com/notes/22719
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 14f02524ea70e162db22212c92379862
+  last_post_guid: acfbee09147659c5cfcf2c4e7bb5979c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

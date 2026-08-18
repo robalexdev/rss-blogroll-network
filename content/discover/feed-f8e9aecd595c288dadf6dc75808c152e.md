@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 1 = 5,000
-  last_post_description: YouTuber 可以拿到的廣告分潤範圍非常大，會根據你所在的國家、影片主題等等因素有很大的差異。
-  last_post_date: "2026-07-22T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/1-vs-5000
+  last_post_title: 把影音檔案壓小小
+  last_post_description: 因為「荒島筆電」實驗的關係，我最近在測試，利用新一代的編碼器 Opus 和 AV1，到底能把影音檔案壓縮到多小，還能保持我能接受的音質和畫質。
+  last_post_date: "2026-08-17T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/desert-island-bitrate
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9d34ed0386141bdcb9485c811e50ac36
+  last_post_guid: c151f7c3451566a3403aca7b5408ea44
   score_criteria:
     cats: 0
     description: 3

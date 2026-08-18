@@ -1,6 +1,6 @@
 ---
 title: a bit of a jumble
-date: "2026-07-12T19:35:21Z"
+date: "2026-08-17T20:02:48Z"
 description: Welcome to my website! Here you'll find an array of bits and bobs, truly
   making it a bit of a jumble.
 params:

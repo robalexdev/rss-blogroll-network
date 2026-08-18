@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-07-09T19:57:04+08:00"
+date: "2026-08-12T23:42:12+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -25,18 +25,24 @@ params:
   - AI
   - Agent
   relme: {}
-  last_post_title: 理想的AI工作流
+  last_post_title: Cursor、Claude、CodeX深度体验、对比
   last_post_description: |-
     Foreword
 
-    上一篇那套 Agent 工作流其实并不完善，它只是当下妥协出来的一套流程——文档先行、人卡在几个关口审一审、task.md
-  last_post_date: "2026-07-02T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/07/02/Agent-Workflow2/
+    最近把几个比较强的AI工具都试用了一下，对比一下
+
+    Cursor
+
+    我用的最多，也是相对比较传统的代码工具，理解和使用门槛都是以程序为基准的
+
+    Cu
+  last_post_date: "2026-07-30T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/07/30/Agent-IDE-Compare/
   last_post_categories:
   - AI
   - Agent
   last_post_language: ""
-  last_post_guid: b244b12d9d2b899a2b9f37df2354a101
+  last_post_guid: 4f9bc4b68d8c42bfee350f9bd33ce9a1
   score_criteria:
     cats: 0
     description: 3

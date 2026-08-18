@@ -23,16 +23,15 @@ params:
   - Music
   - Society & Culture
   relme: {}
-  last_post_title: 'Song 183: “Pinball Wizard” by the Who, Part 2: “His Disciples
-    Lead Him In”'
-  last_post_description: Apologies for the delay in posting this episode — health
-    issues have continued to affect me. They *seem* to be improving, but I should
-    also mention here that some of the guitar demonstrations in
-  last_post_date: "2026-03-22T22:38:17Z"
-  last_post_link: https://500songs.com/podcast/song-183-pinball-wizard-by-the-who-part-2-led-by-his-disciples/
+  last_post_title: 'Song 185: “Peaches En Regalia” by Frank Zappa'
+  last_post_description: This episode follows on from the episode on the GTOs. These
+    two make up two parts of a three-part story, and I’m hoping to have part three,
+    on Captain Beefheart, up before the end of the month
+  last_post_date: "2026-07-21T00:15:17Z"
+  last_post_link: https://500songs.com/podcast/song-185-peaches-en-regalia-by-frank-zappa/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bfa40591b9f854beb7e5638e4f8d4595
+  last_post_guid: c0cf8578896e2eb02001cc60c8288ce5
   score_criteria:
     cats: 3
     description: 3

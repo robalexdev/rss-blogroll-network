@@ -1,6 +1,6 @@
 ---
 title: bulltown.2022
-date: "2026-07-11T18:45:14Z"
+date: "2026-08-17T12:00:55Z"
 description: ""
 params:
   feedlink: https://bulltown.joejenett.com/feed.atom
@@ -10,9 +10,12 @@ params:
     https://bulltown.joejenett.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
@@ -26,6 +29,8 @@ params:
     https://jenett.nekoweb.org/: true
     https://joejenett.com/: true
     https://linkscatter.joejenett.com/: true
+    https://mastodon.social/@joejenett: true
+    https://mastodon.social/@joejenett2: true
     https://photo.joejenett.com/: true
     https://simply.joejenett.com/: true
     https://toot.community/@jenett: true

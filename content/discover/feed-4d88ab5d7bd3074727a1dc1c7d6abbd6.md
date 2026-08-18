@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -20,6 +20,9 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended:
   - http://scripting.com/rss.xml
   - https://andysylvester.com/feed/
@@ -96,15 +99,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: A Method For Quoteblogs
-  last_post_description: Among the many RSS feeds that I subscribe to there are a
-    few that contain posts that share other people’s writing. I find the posts valuable
-    because they provide me links to articles to read that I
-  last_post_date: "2026-07-04T13:00:06-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/07/04/a-method-for-quoteblogs.html
+  last_post_title: Winning The Trade Deadline Doesn't Matter
+  last_post_description: Trades at the Major League Baseball deadline do not make
+    champions, championship teams are built during the off season and through development
+    of young players. Good teams that need one or two
+  last_post_date: "2026-08-04T14:36:33-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/08/04/winning-the-trade-deadline-doesnt.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 185cd3dc9216119372e8a89f75dbb9b5
+  last_post_guid: 8e7b933844086a3b2a9d3479a2d365a9
   score_criteria:
     cats: 0
     description: 0

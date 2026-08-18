@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-07-20T11:10:00+02:00"
+date: "2026-08-17T15:00:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Austrian Audio Composer are haunting me
-  last_post_description: |-
-    Austrian AudioThe Composer | Premium Reference Headphones by Austrian Audio
-            Rediscover your music with The Composer by Austrian Audio. Premium open-back reference headphones offering
-  last_post_date: "2026-07-20T11:10:00+02:00"
-  last_post_link: https://overkill.wtf/notes/austrian-audio-composer-haunting
+  last_post_title: The smell of AI
+  last_post_description: When any piece of art, no matter the format, has the slightest
+    smell of AI, I'm out. It doesn't even matter if any AI was actually used.
+  last_post_date: "2026-08-17T15:00:00+02:00"
+  last_post_link: https://overkill.wtf/posts/the-smell-of-ai
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cd50cfca08fe919a0339b1899c7da4ee
+  last_post_guid: 11071a75d58a940202f7e31ab49d892f
   score_criteria:
     cats: 0
     description: 3

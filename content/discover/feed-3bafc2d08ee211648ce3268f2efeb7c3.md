@@ -1,6 +1,6 @@
 ---
 title: P̴̜̋̿̆̎̇͝i̴̘͉̮̦̕ŗ̷̤̲̊͛͝a̶̢̖̞̼̖͌̀́͘ ̶̫͝H̷͚̩̼͂̏̂̽͘͘x̷̤́͐̈́̀C̷̰͉̼̯̫̉͑ͅx̷̼̩̮̹̥̺͆̐̀
-date: "2026-07-20T23:15:00Z"
+date: "2026-08-13T15:00:00Z"
 description: ""
 params:
   feedlink: https://pirahxcx.neocities.org/atom.xml
@@ -10,7 +10,7 @@ params:
     https://pirahxcx.neocities.org/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -22,19 +22,20 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: If commercial success mattered, one would think Fast & Furious
-    10 is better than the whole filmography of Kubrick, Bergman, Kurosawa, Fellini,
-    and Tarkovsky combined, so fuck Stan Lee, the British
+  last_post_title: 'Journal: 2026/08/13 Thursday (Misc)'
   last_post_description: ""
-  last_post_date: "2026-07-20T23:15:00Z"
-  last_post_link: https://pirahxcx.neocities.org/
+  last_post_date: "2026-08-13T15:00:00Z"
+  last_post_link: https://pirahxcx.neocities.org/journal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 31cb08c4e937f4898aeaf891c8829007
+  last_post_guid: cce01d82641766bcb0deea35a2bf8625
   score_criteria:
     cats: 0
     description: 0

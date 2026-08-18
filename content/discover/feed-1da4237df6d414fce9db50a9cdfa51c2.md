@@ -18,17 +18,17 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 14亿中国人在世界的位置
+  last_post_title: 跟印度人接触几个月后我发现“印度赢学”没那么简单
   last_post_description: !!binary |
-    5pys5paH5piv5oiR5a+55LiA5byg5LiW55WM5Lq65Y+j5pWw5o2u5Zu+55qE6L+95a+777
-    yM5Zyo6YGN5a+75peg5p6c5ZCO77yM5Yaz5a6a55So6Ieq6KGM57uY5Yi244CC57uY5Zu+
-    5L2/55So5LiW55WM6ZO26KGM5pyA5paw5pWw5o2u77yM5Y6G57uP5pWw5Y2B5qyh6LCD5p
-    W077yM5pyA57uI6L+t5Luj5Ye65LiJ5Liq54mI5pys55qE56Gs5qC45Zs=
-  last_post_date: "2026-07-16T18:24:30Z"
-  last_post_link: https://lawtee.com/article/economic-status-of-chinese/
+    6Lef5Y2w5bqm572R5Y+L5omT5Yeg5Liq5pyI5Lqk6YGT5ZCO77yM5Y+R546w5Y2w5bqm6L
+    Wi5a2m6L+c5q+U5oOz6LGh5aSN5p2C44CC57uP6L+H6K6k55yf56CU56m277yM5oiR6K6k
+    5Li65Y2w5bqm6LWi5a2m55qE5bqV5bGC5Luj56CB5bCx5piv4oCc5a6J5YiG4oCd5LqM5a
+    2X77yM5L2G5Lmf5q2j5piv55Sx5LqO4oCc5a6J5YiG4oCd5LqM5a2X5Zw=
+  last_post_date: "2026-08-16T18:30:00Z"
+  last_post_link: https://lawtee.com/article/india-win-narrative/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f6e5f231e26bfea72403d3425d65e029
+  last_post_guid: 86a65733cdaa52594f6d6a9de69ceb8c
   score_criteria:
     cats: 0
     description: 3

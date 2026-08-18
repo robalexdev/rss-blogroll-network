@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-07-07T13:25:44Z"
+date: "2026-08-07T07:38:00Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Designing a personal Pebble watchface
+  last_post_title: Domains, certificates, and DNS
   last_post_description: ""
-  last_post_date: "2026-07-07T13:25:44Z"
-  last_post_link: https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface
+  last_post_date: "2026-08-07T07:38:00Z"
+  last_post_link: https://www.jonashietala.se/blog/2026/08/06/domains_certificates_and_dns
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 896a6e624e7e7a2b43c47370a973712d
+  last_post_guid: e03339b3aa3eaa26d32e8ce27db78287
   score_criteria:
     cats: 0
     description: 0

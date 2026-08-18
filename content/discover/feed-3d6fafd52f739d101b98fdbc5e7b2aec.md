@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-07-03T14:52:25Z"
+date: "2026-07-27T15:56:23Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -12,17 +12,21 @@ params:
   - title: Newsboat - Exported Feeds
     description: ""
     id: ec90496862be28875cc54bc36aa37ca7
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories: []
   relme: {}
   last_post_title: tweet
-  last_post_description: '17 conversations in Jakarta, Indonesia: https://sive.rs/met/at-14'
-  last_post_date: "2026-07-03T14:52:25Z"
+  last_post_description: I write to see what I can write. I code to see what I can
+    code.
+  last_post_date: "2026-07-27T15:56:23Z"
   last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2fb0333ce21f1fd93d6a039cfdab43ad
+  last_post_guid: 5af6e26068eeca11f029b44246de6ef7
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2026-06-28T16:31:03Z"
+date: "2026-07-27T18:12:19Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:
@@ -11,7 +11,7 @@ params:
     https://morwenn.github.io/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,18 +23,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - c++
+  - presortedness
   relme: {}
-  last_post_title: Quantity-safe analog literals
-  last_post_description: Analog literals Analog literals are a cute C++ gadget proposed
-    by Eelis in the seminal article Multi-Dimensional Analog Literals. That forward-thinking
-    monument to human mischief finally allowed C++
-  last_post_date: "2026-05-02T00:00:00Z"
-  last_post_link: https://morwenn.github.io//c++/2026/05/02/TSB011-quantity-safe-analog-literals.html
+  last_post_title: Relationship between Amp and Mono
+  last_post_description: 'In this article, we analyze the relationship between the
+    measure of disorder \(\mathit{Amp}\), which I introduced a while ago, and another
+    measure of disorder: \(\mathit{Mono}\), the number of'
+  last_post_date: "2026-07-26T00:00:00Z"
+  last_post_link: https://morwenn.github.io//presortedness/2026/07/26/TSB012-relationship-between-amp-and-mono.html
   last_post_categories:
-  - c++
+  - presortedness
   last_post_language: ""
-  last_post_guid: 04d8ab896ef85b9ac444e2816f4749b3
+  last_post_guid: da6d7f8772cf82dc2a937e6cd76129ce
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I Miss Edinburgh
-  last_post_description: I took this video from the balcony of my last flat. A storm
-    had just passed and my wife excitedly called me out to see the rainbow. This is
-    overlooking Goldenacre Playing Fields, where we had the
-  last_post_date: "2026-07-20T23:11:00Z"
-  last_post_link: https://householderkarl.com/i-miss-edinburgh/
+  last_post_title: GitHub Has an Availability Problem. Is It Time to Look Elsewhere?
+  last_post_description: |-
+    GitHub has been having enough outages lately that people are starting to ask whether it makes sense to look elsewhere.
+    Ever since Github got acquired by Microsoft it started getting bloated and
+  last_post_date: "2026-08-17T16:25:06Z"
+  last_post_link: https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d3fa5e8f1f05eaa6775214e22a581d90
+  last_post_guid: 2195b49dc48d45a2ac283fafe8f2f6c9
   score_criteria:
     cats: 0
     description: 3

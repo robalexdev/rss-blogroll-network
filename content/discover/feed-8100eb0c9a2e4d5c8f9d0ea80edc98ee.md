@@ -10,7 +10,7 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -18,15 +18,18 @@ params:
     id: 317142854d8813fd4e5e51d1a364b681
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -36,43 +39,53 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apple Logic Pro
-  - DAW
-  - Logic Pro
-  - ambient
-  - beats
+  - Blogs and Blogging
+  - Career
+  - Community
+  - Education
+  - Free
+  - Platforms
+  - Publishing
+  - automattic
+  - courseware
   - creativity
-  - digital recording
-  - electronic
-  - funk
-  - hip hop
-  - multitrack
-  - music
-  - recording studio
+  - free software
+  - launches
+  - learning
+  - open source
+  - software
+  - students
+  - teaching
+  - wordpress
   relme:
     https://zeldman.com/: true
-  last_post_title: The name of this LP is “Side One.”
-  last_post_description: On Sunday, I published Side One of my album on Bandcamp.
-    The name of the album is also “Side One.” It is instrumental music with roots
-    in Soundtrack, hip-hop, funk, jazz, 19th Century Romantic
-  last_post_date: "2026-07-21T14:57:02Z"
-  last_post_link: https://zeldman.com/2026/07/21/the-name-of-this-lp-is-side-one/
+  last_post_title: For students who make websites
+  last_post_description: |-
+    Meet WordPress.com Education, a new, free product for teachers and students.
+    The post For students who make websites appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2026-08-17T15:12:09Z"
+  last_post_link: https://zeldman.com/2026/08/17/for-students-who-make-websites/
   last_post_categories:
-  - Apple Logic Pro
-  - DAW
-  - Logic Pro
-  - ambient
-  - beats
+  - Blogs and Blogging
+  - Career
+  - Community
+  - Education
+  - Free
+  - Platforms
+  - Publishing
+  - automattic
+  - courseware
   - creativity
-  - digital recording
-  - electronic
-  - funk
-  - hip hop
-  - multitrack
-  - music
-  - recording studio
+  - free software
+  - launches
+  - learning
+  - open source
+  - software
+  - students
+  - teaching
+  - wordpress
   last_post_language: ""
-  last_post_guid: eb6647cc9354b4cd4780486576193429
+  last_post_guid: 70c1076be7e83f4dadcd2eb78c3fbd45
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
 title: '@gurupanguji'
-date: "2026-07-21T14:18:10Z"
-description: Photography reviews, visual essays, and blog writing.
+date: "1970-01-01T00:00:00Z"
+description: Recent content on @gurupanguji
 params:
   feedlink: https://gurupanguji.com/feed.xml
   feedtype: atom
@@ -23,42 +23,34 @@ params:
     id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender: []
-  categories:
-  - clippings
-  - external
-  - opinion
-  - ramblings
+  categories: []
   relme: {}
-  last_post_title: More support for Helium
-  last_post_description: I generally try and avoid Chromium-based browsers. I use
-    Vivaldi quite a lot, because I’m keen to encourage European-based development
-    and because (especially in its latest release) it’s super
-  last_post_date: "2026-07-21T12:00:00Z"
-  last_post_link: https://gurupanguji.com/blog/2026/07/21/more-support-for-helium/
-  last_post_categories:
-  - clippings
-  - external
-  - opinion
-  - ramblings
+  last_post_title: "\U0001F517 They don’t make ’em like Sublime Text anymore"
+  last_post_description: Sublime Text is still around. The last stable build was released
+    May 2025. There are dev builds as recent as July this year. I don’t know who develops
+    it and I don’t care. All I know is that I
+  last_post_date: "2026-08-09T12:00:00Z"
+  last_post_link: https://gurupanguji.com/blog/2026/08/09/they-dont-make-em-like-sublime-text-anymore/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: a2d19143bd21c6208f31713dcffa86d7
+  last_post_guid: 12d2c2a322794dabbc06f905adcb06f2
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 50
   avgpostlen: 276
 ---

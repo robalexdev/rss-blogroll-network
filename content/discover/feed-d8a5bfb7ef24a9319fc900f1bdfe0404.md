@@ -1,6 +1,6 @@
 ---
 title: secret club
-date: "2025-06-03T21:06:26Z"
+date: "2026-05-21T12:13:36Z"
 description: Blog about reverse-engineering, hacking and breaking your software in
   every way imaginable.
 params:
@@ -18,40 +18,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blue-pill
-  - bootkit
-  - hypervisors
-  - intel
-  - kernel
-  - memory-introspection
-  - reverse-engineering
-  - rootkit
-  - rust
-  - uefi
-  - virtualization
-  - vt-x
-  - windows
+  - lifting
+  - llvm
+  - obfuscation
   relme: {}
-  last_post_title: Hypervisors for Memory Introspection and Reverse Engineering
-  last_post_description: Introduction
-  last_post_date: "2025-06-02T00:00:00Z"
-  last_post_link: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html
+  last_post_title: 'Striga: Lifting x86 to LLVM IR with Python'
+  last_post_description: Background While discussing with eversinc33 about lifting
+    BinaryShield to LLVM IR I decided it would be useful to write a basic lifter in
+    Python that can lift x86_64 instructions to LLVM IR. He has
+  last_post_date: "2026-05-21T11:00:00Z"
+  last_post_link: https://secret.club/2026/05/21/striga.html
   last_post_categories:
-  - blue-pill
-  - bootkit
-  - hypervisors
-  - intel
-  - kernel
-  - memory-introspection
-  - reverse-engineering
-  - rootkit
-  - rust
-  - uefi
-  - virtualization
-  - vt-x
-  - windows
+  - lifting
+  - llvm
+  - obfuscation
   last_post_language: ""
-  last_post_guid: 30d541783a56df6b397050e9e7590abc
+  last_post_guid: ec37b5c9a19b23375d246c37dfac6e0e
   score_criteria:
     cats: 0
     description: 3

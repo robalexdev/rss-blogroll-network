@@ -18,6 +18,8 @@ feed_urls:
   - https://ooh.directory/feeds/cats/n7yp7q/opml/personal.xml
   - https://ooh.directory/feeds/cats/b7q2w7/opml/technology.xml
   - https://feedland.org/opmlhotlist
+  - https://iheartrss.com/subscriptions.opml
+  - https://rss.chat/data/subs.opml
 
   # TODO
   # https://github.com/usgpo/rss/tree/master/opml

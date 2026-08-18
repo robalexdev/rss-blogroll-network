@@ -22,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI mania is eviscerating global decisionmaking
-  last_post_description: The reality of how much damage AI mania is doing to our ability
-    to run institutions effectively.
-  last_post_date: "2026-07-21T07:15:12Z"
-  last_post_link: https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking
+  last_post_title: Take your meeting context to new places
+  last_post_description: Granola's new Model Context Protocol (MCP) integration connects
+    your meeting notes to your AI app of choice.
+  last_post_date: "2026-08-17T07:53:00Z"
+  last_post_link: https://bit.ly/side-gra2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f6eff691a21467fbae118a062f2797b9
+  last_post_guid: 4eb7b77bde088237f557a508f4b6ccc9
   score_criteria:
     cats: 0
     description: 3

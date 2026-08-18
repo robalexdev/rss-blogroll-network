@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-07-10T10:48:32Z"
+date: "2026-08-17T05:22:57Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,7 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -314,6 +314,7 @@ params:
   - Dewa
   - Dewdrop Inn
   - Dexys Midnight Runners
+  - Dickie Dirts
   - Dilston Grove
   - Dire Straits
   - Dissident
@@ -887,6 +888,8 @@ params:
   - Silwood Estate
   - Siouxsie and the Banshees
   - Siouxsie and the Banshees; South Bank
+  - Sister Midnight
+  - Skalah
   - Skehans
   - Skinny Lister
   - Slaithwaite Road
@@ -1141,6 +1144,7 @@ params:
   - clapham
   - classical music
   - club nights
+  - coffee shop
   - comedy
   - comics
   - commons
@@ -1174,6 +1178,7 @@ params:
   - fashion
   - feminism
   - feminists and suffragists
+  - fiction
   - film
   - films
   - fire brigade
@@ -1400,16 +1405,22 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: Comic, Zine and Bookfairs, Summer 2026
+  last_post_title: 'Music Monday: South of the Thames - Skalah ft. Novelist'
   last_post_description: ""
-  last_post_date: "2026-07-09T21:24:16Z"
-  last_post_link: https://transpont.blogspot.com/2026/07/comic-zine-and-bookfairs-summer-2026.html
+  last_post_date: "2026-08-17T00:01:00Z"
+  last_post_link: https://transpont.blogspot.com/2026/08/music-monday-south-of-thames-skalah-ft.html
   last_post_categories:
-  - bookfairs
-  - comics
-  - zines
+  - Blue Borough
+  - Brockley
+  - Elephant and Castle
+  - Lewisham
+  - Music Monday
+  - Novelist
+  - Skalah
+  - grime
+  - ladywell
   last_post_language: ""
-  last_post_guid: 10e3da5a24519e5a98e6ec4acef2d1d3
+  last_post_guid: 52ffe59659fbe604d5fe903955b89e7b
   score_criteria:
     cats: 5
     description: 3

@@ -21,6 +21,10 @@ params:
   - title: zerokspot.com
     description: Recent content on zerokspot.com
     id: 1c35c2dfa456afc138e9782bc5058db8
+  - title: Hi, I'm Brunty on Matt Brunt - Developer & Problem Solver
+    description: Recent content in Hi, I'm Brunty on Matt Brunt - Developer & Problem
+      Solver
+    id: 20f62b55eea3e9d4d7d6268a8b62b3dd
   - title: benjojo blog
     description: Programming, Networking and some things I found hard to fix at some
       point
@@ -38,6 +42,9 @@ params:
   - title: Interdependent Thoughts
     description: by Ton Zĳlstra
     id: 4885168a08f63515b272c7bf57237d0d
+  - title: Paul Stamatiou
+    description: PaulStamatiou.com - Technology, Design and Photography
+    id: 5b45a0e2030c6f76fa7ddd7b62cde4b3
   - title: niqwithq
     description: A personal blog about design, travel and life as a software user.
     id: 5cd3085a60f3bae159ce042035a1e3de
@@ -65,8 +72,7 @@ params:
       The Moon
     id: 92d88f2edab0b8aa31f9169c372e7245
   - title: Manuel Moreale — Everything Feed
-    description: Thoughts, Pictures, Interviews, and everything else I publish on
-      my blog
+    description: Thoughts, Pictures, Walks, and everything else I publish on my blog
     id: 9417e92ed42b42a9df3959016838f82d
   - title: Ben Werdmuller
     description: Writing at the intersection of technology, journalism, and community.

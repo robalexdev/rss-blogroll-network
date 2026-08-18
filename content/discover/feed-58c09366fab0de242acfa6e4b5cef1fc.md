@@ -18,17 +18,17 @@ params:
   categories:
   - notes
   relme: {}
-  last_post_title: "\U0001F4DD 2026-07-12 10:08: It's a beautiful morning here in
-    North Wales. My wife has taken our youngest to..."
+  last_post_title: '2026-08-17 11:29: I regularly get marketing emails off the back
+    of this site. "Here''s a free license...'
   last_post_description: |-
-    It's a beautiful morning here in North Wales. My wife has taken our youngest to his cricket match, and our oldest is upstairs playing with his Lego out of the heat.
-    Me? I'm sitting in the sunroom,
-  last_post_date: "2026-07-12T10:08:00+01:00"
-  last_post_link: https://kevquirk.com/2026-07-12-1008
+    I regularly get marketing emails off the back of this site. "Here's a free license for our tool" or "can we put a link to our service in a post?" At least back then they were slightly human.
+    Now all
+  last_post_date: "2026-08-17T11:29:00+01:00"
+  last_post_link: https://kevquirk.com/2026-08-17-1129
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 2c8afba9ca10b0585c7d17eb6c9be060
+  last_post_guid: 4850cb6b47e0bd1e40c6b5f8223faacb
   score_criteria:
     cats: 0
     description: 3

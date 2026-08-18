@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-07-12T19:33:12+01:00"
+date: "2026-08-17T05:14:45+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -240,6 +240,7 @@ params:
   - Anna Maxwell Martin
   - Anna Ularu
   - Anna and the Apocalypse
+  - Anne Hathaway
   - Anne Marie Duff
   - Anne Reid
   - Annette Badland
@@ -283,6 +284,7 @@ params:
   - Arlyon Bakare
   - Armando Iannucci
   - Armie Hammer
+  - Art
   - Art Malik
   - Arthur Conan Doyle
   - Arthur Darvill
@@ -364,6 +366,7 @@ params:
   - Barry Lowe
   - Barry Morse
   - Barry White
+  - Basz Design
   - Batman
   - Batman Forever
   - Batman Live
@@ -831,6 +834,7 @@ params:
   - David Coronswet
   - David Daker
   - David Duchovny
+  - David Fleck
   - David Freyne
   - David Harbour
   - David Hare
@@ -894,6 +898,8 @@ params:
   - Department stores
   - Depeche Mode
   - Derek Martinus
+  - Design
+  - Destin Daniel Cretton
   - Destruction
   - Detectorists
   - Dev Patel
@@ -1468,6 +1474,7 @@ params:
   - Hear'Say It's Saturday
   - Heart of the World
   - Heartstopper
+  - Heartstopper Forever
   - Heartstopper season 3
   - Heartstopper tv series
   - Heather Graham
@@ -2046,6 +2053,7 @@ params:
   - Lucy Punch
   - Lucy film
   - Lucy film review
+  - Ludwig Goransson
   - Luke Arnold
   - Luke Newberry
   - Luke Pasqualino
@@ -2127,6 +2135,7 @@ params:
   - 'Masterchef: The Professionals'
   - Mat Whitecross
   - Matt Carter
+  - Matt Damon
   - Matt Reeves
   - Matt Rixon
   - Matt Smith
@@ -2773,6 +2782,7 @@ params:
   - SS Pendleton
   - Sacha Baron Cohen
   - Sacha Dhawan
+  - Sadie Sink
   - Sadie Stanley
   - Salamander
   - Sally Adcock
@@ -3027,7 +3037,9 @@ params:
   - Special Clogs
   - Spelling of sulfur
   - Spencer Quist
+  - Spider- Man
   - Spider-Man
+  - Spider-Man Brand New Day
   - Spider-Man Far From Home
   - Spider-Man Far From Home review
   - Spider-Noir
@@ -3350,6 +3362,7 @@ params:
   - The Night of the Doctor
   - The Nightmare Man
   - The Ocean at the end of the Lane
+  - The Odyssey
   - The Owners movie
   - The Perks of Being a Wallflower
   - The Personal History of David Copperfield review
@@ -3839,19 +3852,18 @@ params:
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Dating Amber (2020)
+  last_post_title: Top of the Pops 15th August 1991
   last_post_description: ""
-  last_post_date: "2026-07-12T19:22:17+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/07/dating-amber-2020.html
+  last_post_date: "2026-08-16T18:55:40+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/08/top-of-pops-15th-august-1991.html
   last_post_categories:
-  - Dating Amber
-  - David Freyne
-  - Film
-  - Fionn O'Shea
-  - Lola Petticrew
-  - Sharon Horgan
+  - '#TOTP'
+  - Music
+  - TV
+  - Top of the Pops
+  - Top of the Pops 1981
   last_post_language: ""
-  last_post_guid: 4277114c281e997941f0b1f6a0c53167
+  last_post_guid: 90e4a045d9df30540fc7e825af90b235
   score_criteria:
     cats: 5
     description: 3

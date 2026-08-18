@@ -19,18 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#politics'
+  - '#personal'
   relme: {}
-  last_post_title: The Best President
+  last_post_title: Degenerate Dissonance
   last_post_description: |-
-    #politics
-    It's unclear who the worst U.S. president was. While it's tempting to select Donald Trump, that might be a little unfair to the many scumbags who ruled the country before it became a
-  last_post_date: "2026-07-11T00:00:00Z"
-  last_post_link: http://pnppl.cc/2026-07-11_president
+    #personal
+    Why does everyone care about work and money so much? It's so fucking boring. Surely I can find a better way...?
+
+    ...eventually?
+
+    People are getting... married? Married. What the hell? That
+  last_post_date: "2026-08-15T00:00:00Z"
+  last_post_link: http://pnppl.cc/2026-08-15_dissonance
   last_post_categories:
-  - '#politics'
+  - '#personal'
   last_post_language: ""
-  last_post_guid: 484bfb82760bd86ecfcb8d6ab39222c8
+  last_post_guid: 1d32a97fe9e87283723913615ef0a06f
   score_criteria:
     cats: 0
     description: 0

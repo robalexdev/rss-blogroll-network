@@ -1,6 +1,6 @@
 ---
 title: Pete
-date: "2026-01-26T19:13:08Z"
+date: "2026-07-22T18:05:12Z"
 description: Software Developer living in Kassel, Germany
 params:
   feedlink: https://petesprojects.net/feed.xml

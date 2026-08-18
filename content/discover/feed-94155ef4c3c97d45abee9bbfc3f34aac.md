@@ -15,36 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 已绝版信用卡
-  - 无年费信用卡
-  - 美国运通 American Express (AmEx)
-  - 返现信用卡
+  - 摩根大通 Chase
+  - 酒店综述
   relme: {}
-  last_post_title: AmEx Old Blue Cash (OBC) 信用卡【已绝版】【2026.7 更新：即将强制转卡为BCE】
-  last_post_description: 'Blue Cash from American Express (Old Blue Cash, OBC) 信用卡简介
-    【2026.7 更新】这张卡的持卡人收到了email说，March 4, 2027 起这张卡就要被强制转卡为BCE了（HT:'
-  last_post_date: "2026-07-12T14:32:18Z"
-  last_post_link: https://www.uscreditcardguide.com/amex-old-blue-cash-obc/
+  last_post_title: 一个 Chase The Edit 酒店地图【2026.8 更新：不再允许 back to back 的方式拿两次 Credit】
+  last_post_description: 【2026.8 更新】有人发现 Chase 对这个一年两次的 $250 The Edit credit 做了个很小但有点重要的限制：不再允许
+    back to back
+  last_post_date: "2026-08-17T14:00:27Z"
+  last_post_link: https://www.uscreditcardguide.com/yige-chase-the-edit-jiudianditu/
   last_post_categories:
-  - 已绝版信用卡
-  - 无年费信用卡
-  - 美国运通 American Express (AmEx)
-  - 返现信用卡
+  - 摩根大通 Chase
+  - 酒店综述
   last_post_language: ""
-  last_post_guid: a8508db38c4e929d50c5541a6dc672b0
+  last_post_guid: d671986f3c49a5ab65d60cbe955ca003
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -22,7 +22,6 @@ params:
   relme:
     https://adambennett.dev/: true
     https://github.com/ditn: true
-    https://stackoverflow.com/users/3245482/ditn: true
   last_post_title: Using feature flags in GraphQL
   last_post_description: I’ve been using GraphQL in some form or another for a couple
     of years now, and I have… opinions about it. Opinions notwithstanding, it’s a

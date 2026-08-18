@@ -25,18 +25,18 @@ params:
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#riskmanagement'
+  - '#procedures'
   relme: {}
-  last_post_title: NSA and IETF, part 8
-  last_post_description: 'Fairness. #pqcrypto #hybrids #nsa #ietf #riskmanagement'
-  last_post_date: "2026-07-07T22:27:38Z"
-  last_post_link: http://blog.cr.yp.to/20260706-fairness.html
+  last_post_title: NSA and IETF, part 9
+  last_post_description: 'An update. #pqcrypto #hybrids #nsa #ietf #procedures'
+  last_post_date: "2026-08-14T18:42:43Z"
+  last_post_link: http://blog.cr.yp.to/20260814-update.html
   last_post_categories:
   - '#pqcrypto'
   - '#hybrids'
   - '#nsa'
   - '#ietf'
-  - '#riskmanagement'
+  - '#procedures'
   last_post_language: ""
   last_post_guid: dc935e4320703f664a5b650a665c073d
   score_criteria:

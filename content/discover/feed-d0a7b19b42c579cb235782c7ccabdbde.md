@@ -16,31 +16,41 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Quantum
+  - Real science
   - Reflections
+  - Theoretical highlights
+  - cellular automata
+  - physics
   relme: {}
-  last_post_title: My friend Mark Wise
-  last_post_description: Mark Wise, the John A. McCone Professor of High Energy Physics
-    at Caltech, passed away on July 10 at age 72. At a recent memorial service, John
-    Preskill made these remarks. I’m John Preskill,
-  last_post_date: "2026-07-18T14:51:44Z"
-  last_post_link: https://quantumfrontiers.com/2026/07/18/my-friend-mark-wise/
+  last_post_title: Interacting collaborators reveal noninteracting fermions
+  last_post_description: By day, I work as an experimentalist on laser-cooling molecules,
+    but I’ve never fully surrendered my theoretical-physics license. I started as
+    an undergraduate in Lincoln Carr’s group at the
+  last_post_date: "2026-08-10T04:34:38Z"
+  last_post_link: https://quantumfrontiers.com/2026/08/09/interacting-collaborators-reveal-noninteracting-fermions/
   last_post_categories:
+  - Quantum
+  - Real science
   - Reflections
+  - Theoretical highlights
+  - cellular automata
+  - physics
   last_post_language: ""
-  last_post_guid: 2d45a19c1090f40fc22aea5c29683d7d
+  last_post_guid: b949a610ccf9a82a62dcd49a46528e1c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,7 @@ params:
     https://annievella.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Productivity-Experience Paradox
-  last_post_description: This is the second post in a series I’m writing about the
-    most interesting findings from my Masters research on the impact of AI on software
-    engineering, as well as some of the thoughts I’ve had
-  last_post_date: "2026-07-21T00:00:00+12:00"
-  last_post_link: http://annievella.com/posts/the-productivity-experience-paradox/
+  last_post_title: Verification Without Inspection
+  last_post_description: A week ago I finished up at Westpac NZ. I was fortunate to
+    spend the last few years there as a Distinguished Engineer, a role with an unusually
+    wide and undefined remit. It was the perfect playground
+  last_post_date: "2026-07-31T05:00:00+12:00"
+  last_post_link: http://annievella.com/posts/verification-without-inspection/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb63827869940654e0d5ae5b7d7ee4c4
+  last_post_guid: 2d4957bdcf8ded8e0c5a9ee91325dceb
   score_criteria:
     cats: 0
     description: 3

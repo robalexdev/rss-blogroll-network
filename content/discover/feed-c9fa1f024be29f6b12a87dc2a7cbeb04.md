@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI Engineering Productivity is Anything But Normal
-  last_post_description: 'AI engineering productivity outcomes cluster in three tiers:
-    a mean of 20-46% from distributing an IDE, a frontier of 2.5-3x from companies
-    building the operating layer around agents (Replit, NVIDIA,'
-  last_post_date: "2026-07-21T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/ai-engineering-productivity-anything-but-normal/
+  last_post_title: When Models Learn
+  last_post_description: 'Explains test-time training through the analogy of a GPS
+    learning a persistent shortcut around daily traffic rather than a one-time reroute:
+    the model takes a gradient step on the prompt it''s'
+  last_post_date: "2026-08-17T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/test-time-training-impact/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5d3d88e4e99550694b66fd3cd034ce23
+  last_post_guid: 0db68e3b82a4934033bbc2973fdaa452
   score_criteria:
     cats: 0
     description: 3

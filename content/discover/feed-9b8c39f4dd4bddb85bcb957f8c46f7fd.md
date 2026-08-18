@@ -16,26 +16,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 老化
+  - 神經發炎
   - 醫療健康
-  - 骨折
-  - 骨質疏鬆
+  - 黴菌毒素
   relme: {}
-  last_post_title: 爸媽縮水不是老態！當心沉默殺手「骨質疏鬆」，熟記駝、矮、痛3招防骨折
-  last_post_description: !!binary |
-    54i45aq957iu5rC044CB6aed6IOM5Lim6Z2e6Ieq54S26ICB5YyW77yM55W25b+D5piv6a
-    qo6LOq55aP6ayG5oO556aN77yB6aqo6ayG5piT6Ie06aqo5oqY5aSx6IO977yM55Sa6Iez
-    5aiB6ISF55Sf5ZG944CC5b+r55So44CM6aed44CB55+u44CB55eb44CN5LiJ5oub5bmr6Z
-    W36Lyp5qqi5ris77yM5Y+K5pep5a6J5o6S6aqo5a+G5bqm5qqi5p+l6Ig=
-  last_post_date: "2026-07-09T00:00:49Z"
-  last_post_link: https://pansci.asia/archives/381534
+  last_post_title: 睡越久還是越累？科學家警告：房間裡的「隱形殺手」正在吃掉你的深層睡眠！
+  last_post_description: 深度睡眠是身體的「超級修復期」。如果我們睡覺時一直處於淺眠狀態，身體不僅無法恢復疲勞，還會付出慘痛的健康代價
+  last_post_date: "2026-08-15T07:30:45Z"
+  last_post_link: https://pansci.asia/archives/381643
   last_post_categories:
-  - 老化
+  - 神經發炎
   - 醫療健康
-  - 骨折
-  - 骨質疏鬆
+  - 黴菌毒素
   last_post_language: ""
-  last_post_guid: 5c9a26bd0390401357b94eb264feb1c7
+  last_post_guid: eed9e34d94866d66f7e52d613d04c7ae
   score_criteria:
     cats: 0
     description: 3

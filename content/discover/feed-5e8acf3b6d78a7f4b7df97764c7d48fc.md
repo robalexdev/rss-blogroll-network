@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: On interactive Go tours
-  last_post_description: Wrapping up the series.
-  last_post_date: "2026-07-11T12:30:00Z"
-  last_post_link: https://antonz.org/on-go-tours/
+  last_post_title: Relying on Go
+  last_post_description: Reusing Go's tooling and standard library for a systems language.
+  last_post_date: "2026-08-09T12:00:00Z"
+  last_post_link: https://antonz.org/relying-on-go/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9de3be8b644ebcaff1630f4010a988ea
+  last_post_guid: ccf2977a643a66bb1bf56cbc1b0ea140
   score_criteria:
     cats: 0
     description: 3

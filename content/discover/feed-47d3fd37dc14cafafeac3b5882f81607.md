@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Dottie Number
-  last_post_description: "Once upon a time, goes the story, \na lady named Dottie
-    got bored and started playing with her calculator,\npressing the cosine key over
-    and over again.\nAt first the numbers fluctuated wildly, \nbut"
-  last_post_date: "2026-06-26T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/06/26/Dottie_Number.html
+  last_post_title: Why is it all in the kernel?
+  last_post_description: "Sensational news! The Collatz conjecture \nhas just been
+    refuted. Ramana Kumar has proved its negation. \nThe proof has been checked in
+    Lean and double‑checked using the independent Nanoda type"
+  last_post_date: "2026-07-30T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/07/30/Collatz.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f2abfc59e7530db7bf2d6150962d73e4
+  last_post_guid: b64889dbea52be286c2648a746e8fd91
   score_criteria:
     cats: 0
     description: 3

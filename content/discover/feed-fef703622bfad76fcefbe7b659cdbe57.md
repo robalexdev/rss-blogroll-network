@@ -12,7 +12,7 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -24,6 +24,9 @@ params:
   - title: John PHI⑊PIN - Blogroll
     description: ""
     id: 9eb1f500234dbb6f984644f2f28ee47a
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -39,25 +42,28 @@ params:
   recommended: []
   recommender: []
   categories:
+  - art
+  - comics
+  - film
   - general
-  - swim2026
-  - via-instagram
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: First time in Oceanside in a good while. Excellent dawn patrol
-    morning.
-  last_post_description: ""
-  last_post_date: "2026-07-19T21:01:55Z"
-  last_post_link: https://artlung.com/blog/2026/07/19/oceanside-dawn-patrol/
+  last_post_title: Moving Water
+  last_post_description: Yesterday I went to the beach. Water is always in motion.
+    I have many opinions and intuitions about the motion of water. I go to the beach
+    when I am likely to be able to ride waves. I make myself
+  last_post_date: "2026-08-16T20:03:24Z"
+  last_post_link: https://artlung.com/blog/2026/08/16/moving-water/
   last_post_categories:
+  - art
+  - comics
+  - film
   - general
-  - swim2026
-  - via-instagram
   last_post_language: ""
-  last_post_guid: 9c48811c445653bc9adb7cfaf2eb64c4
+  last_post_guid: 09274216271f5a1e2cf455d63efe42b7
   score_criteria:
     cats: 0
     description: 3

@@ -15,26 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Chatto
+  - BT
+  - BT下载
+  - BT客户端
+  - BitTorrent
+  - rqbit
   - 学无止境
-  - 聊天
-  - 聊天应用
-  - 聊天系统
-  - 聊天软件
+  - 流式传输
   relme: {}
-  last_post_title: Chatto自托管聊天服务部署指南
-  last_post_description: Chatto是一款功能齐全的基于Web的聊天应用程序，您可以使用自己的服务器来托管它。 Chatto主要特点：
-  last_post_date: "2026-07-11T09:44:19Z"
-  last_post_link: https://lala.im/10226.html
+  last_post_title: rqbit：用Rust打造的高性能、可流式播放的BitTorrent客户端
+  last_post_description: !!binary |
+    5YmN5Yeg5aSp6YCa6L+H5LiA5Liq5YG254S255qE5pa55byP5LqG6Kej5Yiw6L+Z5qy+Ql
+    TlrqLmiLfnq6/vvIzor5XnlKjkuoblh6DlpKnvvIzmiJHlj6rmg7Por7Tov5nkuKrkuIvo
+    vb3pgJ/luqblkozkuIrkvKDpgJ/luqbmmK/nnJ/nmoTniZvmibnvvIzlhaznvZFCVOi9u+
+    i9u+advuadvui3kea7oTJHYnBz77yM6L+Y5pSv5oyB5rWB5byP5Lyg6L4=
+  last_post_date: "2026-08-17T07:37:17Z"
+  last_post_link: https://lala.im/10374.html
   last_post_categories:
-  - Chatto
+  - BT
+  - BT下载
+  - BT客户端
+  - BitTorrent
+  - rqbit
   - 学无止境
-  - 聊天
-  - 聊天应用
-  - 聊天系统
-  - 聊天软件
+  - 流式传输
   last_post_language: ""
-  last_post_guid: 9ae497f514db1196836650081bb51212
+  last_post_guid: 56049c61484a1dc3a6810c349141d689
   score_criteria:
     cats: 0
     description: 3

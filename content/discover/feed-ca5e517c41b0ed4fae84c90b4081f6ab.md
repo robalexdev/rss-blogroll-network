@@ -10,7 +10,7 @@ params:
     https://blog.mikeswanson.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -19,6 +19,9 @@ params:
   - title: Development Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
     description: ""
     id: 26254e76c799d5ec67d183472d72e563
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

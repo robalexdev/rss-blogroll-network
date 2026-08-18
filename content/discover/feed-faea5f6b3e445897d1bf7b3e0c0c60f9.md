@@ -11,12 +11,15 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
@@ -31,16 +34,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: You want ghosts?
-  last_post_description: 'CBC: Underwater images reveal 1st look at Quest, the final
-    ship of Antarctic explorer Ernest Shackleton You want ghosts? Because that’s how
-    you get ghosts.'
-  last_post_date: "2026-07-08T14:15:49Z"
-  last_post_link: https://actsofvolition.com/2026/07/you-want-ghosts/
+  last_post_title: Beach Offsides
+  last_post_description: 'I have invented a new rule for swimming at the beach: When
+    swimming at the beach, you can never be the furthest from the shore. Frequently
+    asked questions (probably):'
+  last_post_date: "2026-08-05T15:12:36Z"
+  last_post_link: https://actsofvolition.com/2026/08/beach-offsides/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 8968050e07ed99fdf6ce130f0269e5fb
+  last_post_guid: 85bfeca3ba0cfa25f57c5b7d552330ba
   score_criteria:
     cats: 0
     description: 0

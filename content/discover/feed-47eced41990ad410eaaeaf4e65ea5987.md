@@ -22,15 +22,15 @@ params:
   relme:
     https://github.com/subygan/: true
     https://suriya.cc/: true
-  last_post_title: Memetic transfer
-  last_post_description: back in 2012 when I moved from pattiveeranpatti, a small
-    village to Chennai, a city in Tamil Nadu. there was something interesting, the
-    kids there had no mental model of villages, farming or the
-  last_post_date: "2026-06-22T00:00:00Z"
-  last_post_link: https://suriya.cc/essays/memetic/
+  last_post_title: Performance Hints, notes
+  last_post_description: |-
+    There’s a fantastic performance article
+     by the legendary Jeff Dean, Sanjay Ghemawat that covers the vast span of Performance optimizations that captures a good mental model for performance
+  last_post_date: "2026-08-04T00:00:00Z"
+  last_post_link: https://suriya.cc/tech/performance/abseil/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 35f003d216a25e3d1457b64b2cbe4f8b
+  last_post_guid: 849e13416aa595bf1429db7e77e29e64
   score_criteria:
     cats: 0
     description: 3

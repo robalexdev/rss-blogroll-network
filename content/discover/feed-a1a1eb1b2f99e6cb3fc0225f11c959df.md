@@ -10,7 +10,7 @@ params:
     https://ounapuu.ee/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The 'free' server build
-  last_post_description: Man takes old computer, turns it into a home server again.
-    Man happy.
-  last_post_date: "2026-07-09T06:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2026/07/09/free-server/
+  last_post_title: I guess I'm a cactus farmer now
+  last_post_description: Send help. Or at the very least clay pots and cactus soil,
+    I'm running out.
+  last_post_date: "2026-07-31T23:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2026/07/31/cactus/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b6024f6ea3288a2a0da1166b1f48cbf
+  last_post_guid: 4f5dac39022114183fa0ac38cb745902
   score_criteria:
     cats: 0
     description: 3

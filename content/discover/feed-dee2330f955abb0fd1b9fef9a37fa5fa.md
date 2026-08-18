@@ -1,6 +1,6 @@
 ---
 title: eighty-twenty news
-date: "2026-07-16T15:30:03Z"
+date: "2026-08-10T12:12:38Z"
 description: ""
 params:
   feedlink: https://eighty-twenty.org/index.atom
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Loading Ian Piumarta's Smalltalk terminal emulator code
+  last_post_title: 'Modelling Actors with Redex: Part III'
   last_post_description: ""
-  last_post_date: "2025-09-04T07:06:29Z"
-  last_post_link: https://eighty-twenty.org/2025/09/04/ian-piumarta-smalltalk-terminal-emulator
+  last_post_date: "2026-08-03T13:10:46Z"
+  last_post_link: https://eighty-twenty.org/2026/08/03/redex-iswim-actors-efficient
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37b525e183ac17897259edf1a90582f2
+  last_post_guid: b4f87b354c49bb1596820fa0619911c6
   score_criteria:
     cats: 0
     description: 0

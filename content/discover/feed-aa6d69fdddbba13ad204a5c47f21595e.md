@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-07-12T07:43:57+01:00"
+date: "2026-08-12T10:17:39+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,7 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -186,6 +186,7 @@ params:
   - off-rate
   - on-rate
   - open access
+  - open data
   - open science
   - pKa
   - partition coefficient
@@ -204,6 +205,7 @@ params:
   - property forecast index
   - reversibility
   - rhodanine
+  - safety
   - sampling
   - schrodinger
   - screening libraries
@@ -218,6 +220,7 @@ params:
   - tetrazole
   - theory
   - thermodynamics
+  - toxicity
   - travel
   - units
   - update
@@ -227,33 +230,26 @@ params:
   relme:
     https://fbdd-lit.blogspot.com/: true
     https://www.blogger.com/profile/12180360326821860667: true
-  last_post_title: The OpenBind initiative
+  last_post_title: 'OpenADMET: Response to Pat Walters'
   last_post_description: ""
-  last_post_date: "2026-07-12T07:43:57+01:00"
-  last_post_link: https://fbdd-lit.blogspot.com/2026/06/the-openbind-initiative.html
-  last_post_categories:
-  - AI
-  - CompChem
-  - ML
-  - QSAR
-  - cheminformatics
-  - machine learning
-  - open science
+  last_post_date: "2026-08-12T10:17:39+01:00"
+  last_post_link: https://fbdd-lit.blogspot.com/2026/08/openadmet-response-to-pat-walters.html
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3f9ece31920e5f293fde872dcbff9f48
+  last_post_guid: 13e7fc93ca79b3e6301205fc27da3ca6
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

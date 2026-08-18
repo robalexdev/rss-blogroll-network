@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-07-18T17:40:24+08:00"
+date: "2026-08-06T18:51:06+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -41,6 +41,7 @@ params:
   - https://exyon.ee/feed.xml
   - https://geektutu.com/atom.xml
   - https://geektutu.com/feed.xml
+  - https://jingyuan-zheng.github.io/zh/index.xml
   - https://mozz.ie/index.xml
   - https://note.redcha.cn/rss.xml
   - https://pinpe.top/rss.xml
@@ -60,23 +61,23 @@ params:
   - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - AI
-  - PJAX
-  - Vibe Coding
-  - 麻将
+  - Linux
+  - WASM
+  - 博客
+  - 终端
   relme:
     https://mabbs.github.io/: true
-  last_post_title: Vibe Coding新体验
-  last_post_description: All in AI!
-  last_post_date: "2026-07-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/07/01/vibe-coding.html
+  last_post_title: 一次制作终端版博客的经历
+  last_post_description: 在浏览器上用真的Linux访问博客会是什么样的感觉？
+  last_post_date: "2026-08-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/08/01/terminal.html
   last_post_categories:
-  - AI
-  - PJAX
-  - Vibe Coding
-  - 麻将
+  - Linux
+  - WASM
+  - 博客
+  - 终端
   last_post_language: ""
-  last_post_guid: d44cbb9b5298111bf3a3331abc3fb0eb
+  last_post_guid: 53fba1f73eda2bd74cc26b79a9881db6
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,17 +18,17 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#640 Whipping down the hill really fast after pedaling hard all
-    the way up'
-  last_post_description: |-
-    Wind whips through your hair and smacks your cheeks as you scream down the slope at the rip-rocketing speed of AWESOME! All-new awesome things posted daily here: Illustration from: here
-    The post #640
-  last_post_date: "2026-07-10T04:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/07/10/640-whipping-down-the-hill-really-fast-after-pedaling-hard-all-the-way-up-3/
+  last_post_title: '#614 When you tune the radio station perfectly so there’s absolutely
+    no static'
+  last_post_description: I’m a terrible tuner. Yeah, I’m the guy twiddling clock radio
+    dials before bed every night with scrunched up eyebrows. Usually I end up on a
+    crystal-clear station that I quickly realize isn’t
+  last_post_date: "2026-08-17T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/08/17/614-when-you-tune-the-radio-station-perfectly-so-theres-absolutely-no-static-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: 2d5e104deb60da2154eff7c2a9992a9f
+  last_post_guid: 204bec0699012ae31548339cfb87ec8b
   score_criteria:
     cats: 0
     description: 3

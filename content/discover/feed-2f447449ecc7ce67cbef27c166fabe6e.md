@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-07-06T00:00:00+02:00"
+date: "2026-08-10T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,16 +25,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Retrospectiva #9'
-  last_post_description: This month's Retrospectiva comes a little later than usual.
-    The whole house got sick battling the flu the past couple weeks. Mixed with a
-    small heatwave here in Copenhagen, means summer hasn't
-  last_post_date: "2026-07-06T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/retrospectiva-9.html
+  last_post_title: 'Retrospectiva #10'
+  last_post_description: July was busy — like always — but we made sure to take some
+    time and touch some grass. Or mountains in our case. With the high temperatures
+    across Europe we went to the Trentino region and hiked
+  last_post_date: "2026-08-10T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/retrospectiva-10.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: dd0888e1f74b1658820df343eb472066
+  last_post_guid: 708914d34d04d1e95b17e98deada3710
   score_criteria:
     cats: 0
     description: 0

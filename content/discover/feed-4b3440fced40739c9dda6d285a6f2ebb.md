@@ -12,11 +12,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Kagi Small Web OPML
     description: ""
@@ -24,28 +24,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "2026"
-  - Harvard
-  - Harvard University
-  - Radcliffe
-  - Radcliffe Medal
-  - Ruth J. Simmons
+  - AI
+  - AIxGEO
+  - Artificial Intelligence
+  - Bennett School
+  - Current AI
+  - Geopolitics
+  - Humanity AI
+  - University of Cambridge
+  - Verity Harding
   relme: {}
-  last_post_title: 'Radcliffe Day 2026: Honoring Dr. Ruth Simmons'
-  last_post_description: John Palfrey, May 29, 2026, Cambridge, MA, USA Thank you,
-    Dean Brown-Nagin, and all Radcliffe Institute staff for putting on such a wonderful
-    day for us all. Thank you for the invitation to moderate
-  last_post_date: "2026-05-31T20:33:57Z"
-  last_post_link: https://jpalfrey.blog/2026/05/31/radcliffe-day-2026-honoring-dr-ruth-simmons/
+  last_post_title: 'Reimagining AI: Philanthropy’s Role in Global Collaboration'
+  last_post_description: Verity Harding of the University of Cambridge pulled together
+    an anthology of essays about Artificial Intelligence and Geopolitics as of early
+    2026. I urge you to read everyone’s essays. I re-post
+  last_post_date: "2026-07-12T23:17:51Z"
+  last_post_link: https://jpalfrey.blog/2026/07/12/essays-on-ai-and-geopolitics/
   last_post_categories:
-  - "2026"
-  - Harvard
-  - Harvard University
-  - Radcliffe
-  - Radcliffe Medal
-  - Ruth J. Simmons
+  - AI
+  - AIxGEO
+  - Artificial Intelligence
+  - Bennett School
+  - Current AI
+  - Geopolitics
+  - Humanity AI
+  - University of Cambridge
+  - Verity Harding
   last_post_language: ""
-  last_post_guid: fb93966902455ee5edbd50eb0cae2894
+  last_post_guid: c1716157d1727a8771489c7368322c94
   score_criteria:
     cats: 0
     description: 3

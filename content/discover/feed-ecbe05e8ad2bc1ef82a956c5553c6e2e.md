@@ -1,6 +1,6 @@
 ---
 title: Daniel De Laney
-date: "2026-06-26T21:55:18Z"
+date: "2026-07-15T23:14:43Z"
 description: I turn ambiguous technical problems into shipped products.
 params:
   feedlink: https://danieldelaney.net/feed.xml

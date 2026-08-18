@@ -10,7 +10,7 @@ params:
     https://feld.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,15 +21,15 @@ params:
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: Read Zero Knowledge As I Write It
-  last_post_description: Zero Knowledge, the crypto-thriller I'm co-writing with my
-    AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up
-    any sentence, and the whole thing is being built in the open
-  last_post_date: "2026-06-19T17:04:06-06:00"
-  last_post_link: https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/
+  last_post_title: The Argument Against AI Writing Is At Least 2,400 Years Old
+  last_post_description: Bret Stephens says never write with AI. Reid Hoffman says
+    judge the work, not the tool. I'm with Reid, and the argument Stephens is making
+    has been made about every writing technology we've ever
+  last_post_date: "2026-08-09T11:22:09-06:00"
+  last_post_link: https://feld.com/archives/2026/08/ai-writing-2400-years-old/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 26d6eb367fe40f26bbfc18d5eb05b12b
+  last_post_guid: 4a22aaaff9218d953b1131af26497b9c
   score_criteria:
     cats: 0
     description: 3

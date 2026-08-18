@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-07-21T16:51:01Z"
+date: "2026-08-17T12:31:21Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -10,7 +10,7 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,28 +26,31 @@ params:
   recommender: []
   categories:
   - "2026"
+  - social media
   relme: {}
-  last_post_title: the first six months of 2026
-  last_post_description: Assessing how my year went so far.
-  last_post_date: "2026-06-30T16:00:20Z"
-  last_post_link: https://blog.avas.space/half-year-assessment-2026/
+  last_post_title: shop milking their customers for social media content
+  last_post_description: New business models emerge in which your shopping experience
+    gets recorded and cut for social media money.
+  last_post_date: "2026-08-17T12:27:07Z"
+  last_post_link: https://blog.avas.space/shop-social-media/
   last_post_categories:
   - "2026"
+  - social media
   last_post_language: ""
-  last_post_guid: a4f0cd51986613f57df43c35686f6ffe
+  last_post_guid: 0a72472db32bff57aad2cbf3819fca7d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

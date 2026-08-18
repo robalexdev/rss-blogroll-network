@@ -1,6 +1,6 @@
 ---
 title: 拾月的博客
-date: "2026-07-12T10:36:00Z"
+date: "2026-08-09T07:53:00Z"
 description: PC互联网遗民
 params:
   feedlink: https://www.skyue.com/feed/
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 日记
+  - 旅行
   relme: {}
-  last_post_title: 搬家
-  last_post_description: 在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年
-  last_post_date: "2026-07-12T10:36:00Z"
-  last_post_link: https://www.skyue.com/26071218.html
+  last_post_title: 成都outing
+  last_post_description: 公司outing，7月30日（周四）至8月3日（周一）在成都玩耍。大体上，周四晚上至周五下午是集体活动，之后则是自由活动。
+  last_post_date: "2026-08-09T07:53:00Z"
+  last_post_link: https://www.skyue.com/26080915.html
   last_post_categories:
-  - 日记
+  - 旅行
   last_post_language: ""
-  last_post_guid: 6c0b90206a9e7556c07f461e920ff2ef
+  last_post_guid: 47738ee2e822a31dbe8b0c353724c347
   score_criteria:
     cats: 0
     description: 3

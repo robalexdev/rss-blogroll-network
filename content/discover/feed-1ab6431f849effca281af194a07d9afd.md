@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-07-22T05:48:35+08:00"
+date: "2026-08-18T02:27:09+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -19,14 +19,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg
-  last_post_description: 想在一个现有的 golang 后台服务里增加一个 Excel 文件转换 PDF 的功能。但是调研了一圈，并没有很好的
-    golang 或者 Python
-  last_post_date: "2026-07-19T11:20:32+08:00"
-  last_post_link: https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg
+  last_post_title: 给领导写汇报的 AI Skill
+  last_post_description: !!binary |
+    5b6I5aSa5bm05rKh5pyJ57uZ6aKG5a+85YaZ6L+H6aG555uu5byA5Y+R5rGH5oql5paH5L
+    u25LqG77yM5q+V56uf5LmL5YmN6YO95piv55u05o6l5byA5bmy77yM5Lmf5LiN6ZyA6KaB
+    56iL5bqP5ZGY5Y676K+E5Lyw44CC5Zyo5YaZ5LqG5LiA54mI5LmL5ZCO77yM5Y+R546w6Y
+    GX5ryP5LqG5LiN5bCR5YWz6ZSu54K577yM5L6L5aaC77ya5pyN5Yqh5Zk=
+  last_post_date: "2026-08-16T16:55:26+08:00"
+  last_post_link: https://www.sunzhongwei.com/report-ai-skills
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24a05ddf9ede4057a3ba938832e6481d
+  last_post_guid: 9aaaf4eab74c351baca2eb35357ce22b
   score_criteria:
     cats: 0
     description: 3

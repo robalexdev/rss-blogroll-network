@@ -1,6 +1,6 @@
 ---
 title: ImperialViolet
-date: "2025-07-27T22:35:43Z"
+date: "2026-07-27T13:23:23Z"
 description: ""
 params:
   feedlink: https://www.imperialviolet.org/iv-rss.xml
@@ -32,13 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: TRMNL
+  last_post_title: We have proof automation now
   last_post_description: ""
-  last_post_date: "2025-07-27T00:00:00Z"
-  last_post_link: http://www.imperialviolet.org/2025/07/27/trmnl.html
+  last_post_date: "2026-07-26T00:00:00Z"
+  last_post_link: http://www.imperialviolet.org/2026/07/26/zstd-lean.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d98d2afa3c3c0c15f3f54f8596b87288
+  last_post_guid: ef9efe40418a11c58800777c61823a91
   score_criteria:
     cats: 0
     description: 0

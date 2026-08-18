@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Posts
 date: "1970-01-01T00:00:00Z"
 description: Open Source Software & Hardware
 params:

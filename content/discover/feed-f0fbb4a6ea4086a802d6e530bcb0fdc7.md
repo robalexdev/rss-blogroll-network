@@ -10,7 +10,7 @@ params:
     https://acesounderglass.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,32 +23,30 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - lw-recirculate
   relme: {}
-  last_post_title: Dairy cows make their misery expensive (but their calves can’t)
-  last_post_description: How much do cows suffer in the production of milk? I can’t
-    answer that; understanding animal experience is hard. But I can at least provide
-    some facts about the conditions dairy cows live in, which
-  last_post_date: "2026-05-01T23:45:01Z"
-  last_post_link: https://acesounderglass.com/2026/05/01/dairy-cows-make-their-misery-expensive-but-their-calves-cant/
+  last_post_title: Why can’t we have nice things? Like, specifically?
+  last_post_description: The world doesn’t need another op-ed on how building things
+    is illegal in San Francisco. But it does need more specifics on exactly how that
+    plays out (this is the same instinct that led me to
+  last_post_date: "2026-08-12T15:55:47Z"
+  last_post_link: https://acesounderglass.com/2026/08/12/why-cant-we-have-nice-things-like-specifically/
   last_post_categories:
   - Uncategorized
-  - lw-recirculate
   last_post_language: ""
-  last_post_guid: 67bece53519539d967e75b188a7895e2
+  last_post_guid: bf83c1da6f4c14e4873ecea77333c8fc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

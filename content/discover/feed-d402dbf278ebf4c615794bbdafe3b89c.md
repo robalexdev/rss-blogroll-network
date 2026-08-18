@@ -1,6 +1,6 @@
 ---
 title: Port 1/PT
-date: "2026-06-28T22:21:23Z"
+date: "2026-08-17T19:58:23Z"
 description: |-
   2026-06-18 12:03
   this blog has been decommissioned
@@ -37,18 +37,18 @@ params:
     description: 3
     feedlangs: 0
     hasContent: 3
-    hasPosts: 1
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 1
-  avgpostlen: 295
+  postcount: 3
+  avgpostlen: 294
 ---

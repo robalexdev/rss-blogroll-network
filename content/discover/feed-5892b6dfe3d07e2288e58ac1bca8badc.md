@@ -14,11 +14,11 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Planet FAIR
     description: ""
@@ -29,36 +29,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Full Site Editing
-  - Gutenberg
+  - Artificial Intelligence (AI)
+  - News
+  - Updates
+  - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Gutenberg Changelog #132 – Proposals for Core, Calls for Testing,
-    WordPress 7.1 and Gutenberg 23.4 and 23.5'
-  last_post_description: In episode 132 of the Gutenberg Changelog podcast, host Birgit
-    Pauli-Haack and guest Ellen Bauer explore the latest updates within the WordPress
-    ecosystem. The conversation centers on the releases
-  last_post_date: "2026-07-12T10:57:10Z"
-  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-132/
+  last_post_title: 'WordPress 7.1 arrives at WordCamp US, Abilities API for developers,
+    and a new theme for Gutenberg Times and more — Weekend Edition #373'
+  last_post_description: 'Hi there, Before you read any further, another security
+    updates needs your attention: WordPress 7.0.4 is out. Update now! ⚠️ You might
+    have noticed, that the Gutenberg Times website has a new'
+  last_post_date: "2026-08-15T04:10:00Z"
+  last_post_link: https://gutenbergtimes.com/wordpress-7-1-arrives-at-wordcamp-us-abilities-api-for-developers-and-a-new-theme-for-gutenberg-times-and-more-weekend-edition-373/
   last_post_categories:
-  - Full Site Editing
-  - Gutenberg
+  - Artificial Intelligence (AI)
+  - News
+  - Updates
+  - Weekend Edition
   last_post_language: ""
-  last_post_guid: 8bb452323ecd988efb1462adcf6e8a19
+  last_post_guid: 9407723cb79f86a81804177acf30c3dc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -22,23 +22,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Linux
-  - loop
-  - 存储
-  - 运维
+  - AI
+  - Claude Code
+  - Cursor
+  - OpenSpec
+  - 研发
   relme: {}
-  last_post_title: loop device 生命周期管理
-  last_post_description: 1. 创建镜像文件 1.1 loop存储适用场景 把普通文件当成 /dev/loopN 块设备来用，读写走块设备接口，backing
-    file 仍是宿主机上的一个文件 挂载 ISO
-  last_post_date: "2026-07-13T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/loop-device-lifecycle-management.html
+  last_post_title: OpenSpec：给 AI 编程加一层轻量规格契约
+  last_post_description: 1. OpenSpec 是什么 OpenSpec 是一个开源的规格驱动开发（Spec-Driven Development）框架，由
+    Fission-AI 维护。它不试图教会 AI 新的编程技巧，而是在人和 AI
+  last_post_date: "2026-07-31T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/openspec-spec-driven-development-for-ai.html
   last_post_categories:
-  - Linux
-  - loop
-  - 存储
-  - 运维
+  - AI
+  - Claude Code
+  - Cursor
+  - OpenSpec
+  - 研发
   last_post_language: ""
-  last_post_guid: 5598b137a14fc40ff802ca58c8c8e984
+  last_post_guid: 6cd96ee013b471a81bf96113dbba8453
   score_criteria:
     cats: 0
     description: 3

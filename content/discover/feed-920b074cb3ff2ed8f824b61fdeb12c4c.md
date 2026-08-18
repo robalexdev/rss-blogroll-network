@@ -16,37 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AIGC
-  - AI血汗工厂
-  - AI裁员
-  - Goodhart定律
-  - Meta
-  - Meta的故事
-  - Meta裁员案
-  - 休假被算低绩效
-  - 员工算法管理
-  - 算法裁员歧视
+  - AI算力资金下游转移
+  - Musk传奇
+  - SpaceX股价分析
+  - SpaceX资本局
+  - SpaceX重资产数据中心
+  - Terafab与Starlink
+  - 航天，星辰大海
+  - 马斯克
+  - 马斯克AI战略
+  - 马斯克内部讲话
   relme: {}
-  last_post_title: Meta裁员案里的AI血汗工厂
+  last_post_title: 马斯克内部讲话与SpaceX资本局
   last_post_description: |-
-    Meta裁员案里的AI血汗工厂
+    马斯克内部讲话与SpaceX资本局
 
-    26名前Meta员工为何把AI裁员告上法庭？本期从休假、怀孕和残障便利被算法算成低绩效的指控讲起，拆解Meta裁员案的举证难题
-  last_post_date: "2026-07-21T00:30:00Z"
-  last_post_link: https://lukefan.com/2026/07/21/meta-ai-layoffs-algorithmic-sweatshop/
+    马斯克内部讲话为何由 SpaceX 官方完整公开，五年后 AI 占公司价值 99% 又该怎样理解？本文沿着 SpaceX
+  last_post_date: "2026-08-17T10:30:00Z"
+  last_post_link: https://lukefan.com/2026/08/17/musk-spacex-ai-capital-strategy/
   last_post_categories:
-  - AIGC
-  - AI血汗工厂
-  - AI裁员
-  - Goodhart定律
-  - Meta
-  - Meta的故事
-  - Meta裁员案
-  - 休假被算低绩效
-  - 员工算法管理
-  - 算法裁员歧视
+  - AI算力资金下游转移
+  - Musk传奇
+  - SpaceX股价分析
+  - SpaceX资本局
+  - SpaceX重资产数据中心
+  - Terafab与Starlink
+  - 航天，星辰大海
+  - 马斯克
+  - 马斯克AI战略
+  - 马斯克内部讲话
   last_post_language: ""
-  last_post_guid: 7c8d51737a26e9ac09dd5e05bc5ab235
+  last_post_guid: 36b16b37ffc1a86ee2510f227c04f628
   score_criteria:
     cats: 0
     description: 3

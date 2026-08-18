@@ -20,31 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Books That Belong On Paper
-  - Paper World
+  - Tools for Possibilities
   relme: {}
-  last_post_title: Mary Wept Over the Feet of Jesus / Rad American Women A-Z
-  last_post_description: Issue No. 127
-  last_post_date: "2026-07-21T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/mary-wept-over-the-feet-of-jesus-rad-american-women-a-z/
+  last_post_title: Making Fun
+  last_post_description: 'Tools for Possibilities: issue no. 203'
+  last_post_date: "2026-08-17T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/making-fun/
   last_post_categories:
-  - Books That Belong On Paper
-  - Paper World
+  - Tools for Possibilities
   last_post_language: ""
-  last_post_guid: 7eb534b3fd5fd97c76b2b59104cbdaf0
+  last_post_guid: 0688ec8843854ae75c91079a7225f92e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

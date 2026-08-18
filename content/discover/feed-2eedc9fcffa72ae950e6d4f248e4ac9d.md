@@ -1,6 +1,6 @@
 ---
 title: Qt, linux and everything
-date: "2026-07-21T06:46:48+10:00"
+date: "2026-08-01T04:46:08+10:00"
 description: |-
   thoughts from a developer.
   Author of Hands-on Mobile and Embedded Development with Qt 5 http://bit.ly/HandsOnMobileEmbedded
@@ -58,13 +58,13 @@ params:
   - web
   relme:
     https://qtandeverything.blogspot.com/: true
-  last_post_title: Debugging Qt WebAssembly - DWARF
+  last_post_title: QtMultimedia 6.12 for WebAssembly
   last_post_description: ""
-  last_post_date: "2025-12-09T10:23:35+10:00"
-  last_post_link: https://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html
+  last_post_date: "2026-07-23T05:57:43+10:00"
+  last_post_link: https://qtandeverything.blogspot.com/2026/07/qtmultimedia-612-for-webassembly.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 65f6fec954bebfdc50e31c1ff1c6da36
+  last_post_guid: f416cef2a9b81caf781a241637170d57
   score_criteria:
     cats: 5
     description: 3

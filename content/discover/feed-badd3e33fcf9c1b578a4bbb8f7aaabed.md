@@ -15,33 +15,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 人生
-  - 工具
   - 生活
   relme: {}
-  last_post_title: 263 三例生活中美好巧思
-  last_post_description: 近一个月，发现了很多美好之处，但是有三处特别深入我的心中。 第一个，共享单车的手机支架。近期发现，附近部分共享 […]
-  last_post_date: "2026-07-20T16:58:21Z"
-  last_post_link: http://ddw2019.com/263
+  last_post_title: 264 海关收缴的货物都去哪儿了？
+  last_post_description: 前几天有人询问了一个问题：听说海关因为种种原因可能会收缴一些东西，海关的东西能不能够买下来？ 经过和朋友的交流 […]
+  last_post_date: "2026-08-11T15:32:22Z"
+  last_post_link: http://ddw2019.com/264-%E6%B5%B7%E5%85%B3%E6%94%B6%E7%BC%B4%E7%9A%84%E8%B4%A7%E7%89%A9%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86
   last_post_categories:
-  - 人生
-  - 工具
   - 生活
   last_post_language: ""
-  last_post_guid: 75c3a3592c377d8e619c7290e8b970db
+  last_post_guid: 26a71f10b4b5fc4e48f3a08aba369e41
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

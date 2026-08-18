@@ -10,7 +10,7 @@ params:
     https://blog.arkholt.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comic Strip History - Dinty Moore
-  last_post_description: Once again, coming to you from the "I had no idea how complicated
-    this would be when I started" department, we have Dinty Moore, the well known
-    brand…
-  last_post_date: "2026-06-27T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/dinty-moore
+  last_post_title: Comic Strip History - Jiggs Dinner
+  last_post_description: This is a short follow-up to my previous post. Last month,
+    while researching Dinty Moore specifically and Bringing Up Father generally, I
+    came across…
+  last_post_date: "2026-08-01T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/jiggs-dinner
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ce6b02f67be657eafb9a679aaeedfbd
+  last_post_guid: 2730f8ab5c4aecb853e5aa9aa0060ac2
   score_criteria:
     cats: 0
     description: 3

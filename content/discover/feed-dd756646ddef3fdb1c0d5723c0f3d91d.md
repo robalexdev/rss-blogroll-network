@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An OpenAI model crushed top human programmers at a world coding
-    competition
-  last_post_description: But human programmers aren’t obsolete — at least not yet.
-  last_post_date: "2026-07-10T18:16:14Z"
-  last_post_link: https://www.understandingai.org/p/an-openai-model-crushed-top-human
+  last_post_title: Labs are struggling to keep frontier models under control
+  last_post_description: OpenAI and Anthropic may have accidentally trained models
+    to get better at hacking.
+  last_post_date: "2026-08-13T16:28:51Z"
+  last_post_link: https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58f715d3db6823d192ce1f6eba46df91
+  last_post_guid: 10bd2e50b50dc807b445e3a50a277c7f
   score_criteria:
     cats: 0
     description: 3

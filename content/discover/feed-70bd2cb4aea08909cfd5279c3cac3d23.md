@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Active recall
-  last_post_description: Improving memory though writing
-  last_post_date: "2026-06-09T14:50:00Z"
-  last_post_link: https://herman.bearblog.dev/active-recall/
+  last_post_title: Committing to creativity
+  last_post_description: The fine line between commitment and motivation
+  last_post_date: "2026-08-05T12:04:00Z"
+  last_post_link: https://herman.bearblog.dev/creativity/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f49c0d204d5efa392eac529fccd74b29
+  last_post_guid: aa2cbde0ae152d45f7222440a8e0f651
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Nat Tarnoff
-date: "2026-03-16T14:37:07Z"
+date: "2026-08-11T19:31:42Z"
 description: Accessibility, Artist, Music, Philosophy
 params:
   feedlink: https://tarnoff.info/feed/atom/
@@ -15,10 +15,9 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ADA
-  - ARIA
   - EAA
   - EN 301 549
+  - Testing
   - W3C
   - WCAG
   - Web Content Accessibility Guidelines
@@ -26,26 +25,24 @@ params:
   - a11y 101
   - accessibility
   - blind
-  - button
   - cognition
-  - dagturallyspeaking
+  - design
   - development
-  - dictation
+  - disability
+  - empathy
   - humanity
-  - label in name
   - physical impairment
   relme: {}
-  last_post_title: 'A11y 101: 2.5.3 Label in Name'
-  last_post_description: We all navigate the internet and computers in different ways.
-    Some use screen readers, others keyboard, and some people by voice. Success Criterion
-    2.5.3 was created to support these diverse methods.
-  last_post_date: "2026-03-16T14:37:07Z"
-  last_post_link: http://tarnoff.info/2026/03/16/a11y-101-2-5-3-label-in-name/
+  last_post_title: A11y 101 – 3.3.7 Redundant Entry
+  last_post_description: You’re shopping online at your favorite store. You set up
+    an account for future visits. You fill out your name, email, shipping address,
+    billing info, card details. You save the info. You start
+  last_post_date: "2026-08-11T19:31:42Z"
+  last_post_link: http://tarnoff.info/2026/08/10/a11y-101-3-3-7-redundant-entry/
   last_post_categories:
-  - ADA
-  - ARIA
   - EAA
   - EN 301 549
+  - Testing
   - W3C
   - WCAG
   - Web Content Accessibility Guidelines
@@ -53,16 +50,15 @@ params:
   - a11y 101
   - accessibility
   - blind
-  - button
   - cognition
-  - dagturallyspeaking
+  - design
   - development
-  - dictation
+  - disability
+  - empathy
   - humanity
-  - label in name
   - physical impairment
   last_post_language: ""
-  last_post_guid: 9e6e7795d61ca9c310e5253c2430444e
+  last_post_guid: b8343812e7093c716d52538ea838fdf4
   score_criteria:
     cats: 0
     description: 3

@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Le Madonne dot com
-  last_post_description: A brand new pet project.
-  last_post_date: "2026-06-25T23:26:48Z"
-  last_post_link: https://cedmax.net/blog/le-madonne-dot-com/
+  last_post_title: An idiot in fancy dress
+  last_post_description: and, to be clear, I don't have any particular idiot in mind
+  last_post_date: "2026-08-04T14:27:43Z"
+  last_post_link: https://cedmax.net/blog/an-idiot-in-fancy-dress/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fafa53d1dc39866fb2bef3caaec0d4e4
+  last_post_guid: 67eaccc71e4c11cf103a3c0ee8491e86
   score_criteria:
     cats: 0
     description: 3

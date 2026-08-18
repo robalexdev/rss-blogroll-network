@@ -10,7 +10,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,27 +28,25 @@ params:
   - ai
   - anthropic
   - claude
-  - cursor
   - monthly-dispatch
   - openai
   - regulations
   relme: {}
-  last_post_title: The Monthly Dispatch - June 2026
-  last_post_description: US government restricts frontier AI models while Anthropic
-    and OpenAI file for IPO, SpaceX acquires Cursor , and Claude caught embedding
-    fingerprinting us.
-  last_post_date: "2026-07-03T00:00:00Z"
-  last_post_link: https://theaspiringnerd.com/the-monthly-dispatch-june-2026/
+  last_post_title: The Monthly Dispatch - The Lighter Summer Edition
+  last_post_description: Major model releases while an OpenAI test agent escaped its
+    sandbox to hack Hugging Face and 1,300+ frontier lab employees called for slowing
+    AI progress.
+  last_post_date: "2026-08-06T00:00:00Z"
+  last_post_link: https://theaspiringnerd.com/the-monthly-dispatch-july-2026/
   last_post_categories:
   - ai
   - anthropic
   - claude
-  - cursor
   - monthly-dispatch
   - openai
   - regulations
   last_post_language: ""
-  last_post_guid: 859b9fcff8d785c18a3e1568a6ce401a
+  last_post_guid: 6f70a8131cca79225eae37518bee6e75
   score_criteria:
     cats: 0
     description: 3

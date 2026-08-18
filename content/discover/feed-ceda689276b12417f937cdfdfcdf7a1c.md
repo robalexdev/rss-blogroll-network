@@ -11,35 +11,31 @@ params:
   in_blogrolls:
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories:
+  - AI Agents
   - AI Operations
-  - API Management
-  - Model Context Protocol (MCP)
-  - sponsor-pagerduty
-  - sponsored-post-contributed
+  - Model Context Protocol
   relme: {}
-  last_post_title: APIs aren’t dead. Here’s where MCP fits alongside them.
+  last_post_title: Claude can now delete your production voice agent from a chat window
   last_post_description: |-
-    The allure of emerging technology is undeniable, but adopting it rarely means completely ripping out what already works. Instead, new
-    The post APIs aren’t dead. Here’s where MCP fits alongside
-  last_post_date: "2026-07-12T18:00:00Z"
-  last_post_link: https://thenewstack.io/api-vs-mcp-incident-management/
+    Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or
+    The post Claude can now delete your production voice agent from a chat
+  last_post_date: "2026-08-17T19:51:01Z"
+  last_post_link: https://thenewstack.io/elevenlabs-mcp-voice-agents/
   last_post_categories:
+  - AI Agents
   - AI Operations
-  - API Management
-  - Model Context Protocol (MCP)
-  - sponsor-pagerduty
-  - sponsored-post-contributed
+  - Model Context Protocol
   last_post_language: ""
-  last_post_guid: 58e2c7401d7efb3ed7e80e3d05e066af
+  last_post_guid: f20f72e7fce88064afd3d8a9382d8bcf
   score_criteria:
     cats: 0
     description: 0

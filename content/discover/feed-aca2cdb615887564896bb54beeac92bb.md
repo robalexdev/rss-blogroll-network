@@ -10,7 +10,7 @@ params:
     https://abouthalf.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: David Hockney at the Portland Art Museum
-  last_post_description: Seeing the David Hockney retrospective at the Portland Art
-    Museum felt personal. His lifelong embrace of technology as an artistic tool mirrors
-    my own scrappy history with photocopiers and inkjet
-  last_post_date: "2026-06-15T00:00:00Z"
-  last_post_link: https://abouthalf.com/writing/david-hockney-at-pam/
+  last_post_title: This is the end, isn’t ‘it?
+  last_post_description: When I got started in my career I called myself a _web designer_.
+    I was fresh out of my MFA program and teaching part-time in an Interior Architecture
+    department. I felt closer to design than
+  last_post_date: "2026-08-14T00:00:00Z"
+  last_post_link: https://abouthalf.com/writing/this-is-the-end-isn-t-it/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e0bccc12710658d88fde2e1541f7dd59
+  last_post_guid: 6980a81b9f271dc6271f84f3e5cb04eb
   score_criteria:
     cats: 0
     description: 3

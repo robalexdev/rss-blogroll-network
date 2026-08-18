@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2026-03-14T18:50:11Z"
+date: "2026-08-09T04:46:52Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -11,7 +11,7 @@ params:
     https://dotat.at/social.html: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: poached eggs
+  last_post_title: Counting the days, revisited
   last_post_description: ""
-  last_post_date: "2026-03-14T18:50:11Z"
-  last_post_link: https://dotat.at/@/2026-03-14-eggs.html
+  last_post_date: "2026-08-09T04:46:52Z"
+  last_post_link: https://dotat.at/@/2026-08-09-rata-die.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a1ba3176c7a7dadb32c6f1096ba62bea
+  last_post_guid: d51a17485071f2f1ba288c078adcde7b
   score_criteria:
     cats: 0
     description: 0

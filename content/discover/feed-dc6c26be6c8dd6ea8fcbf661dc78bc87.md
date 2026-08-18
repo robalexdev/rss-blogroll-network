@@ -21,14 +21,14 @@ params:
   - https://mayx.eu.org/atom.xml
   categories: []
   relme: {}
-  last_post_title: 用树莓派给 iMac 加上 Face ID
-  last_post_description: 最近，为了开发和调试 OpenTrace 的 macOS 版本，我从早苗那获得了一台 iMac (24-inch,
-    M1, 2021)
-  last_post_date: "2026-01-02T00:00:00Z"
-  last_post_link: https://mozz.ie/posts/add-face-id-to-imac-with-a-raspberry-pi/
+  last_post_title: CodeAct 与 TS Skills
+  last_post_description: 简单地说你可以理解为只提供一个 tool，就是 exec。至于 exec 的是 Shell（执行CLI命令）、Python
+    还是 TypeScript，则取决于你的审美，都可以。而在
+  last_post_date: "2026-08-07T00:00:00Z"
+  last_post_link: https://mozz.ie/posts/what-is-ts-skills-and-codeact/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ab471a839a95ca6f6cab200d820b2ff
+  last_post_guid: 25c5ef7aa9369410dc97966268ec0963
   score_criteria:
     cats: 0
     description: 3

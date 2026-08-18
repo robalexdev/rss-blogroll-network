@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2026-06-17T11:17:50+02:00"
+date: "2026-08-17T14:34:05+02:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

@@ -19,11 +19,11 @@ params:
     id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Links for Josh Betz
     description: ""
@@ -48,32 +48,27 @@ params:
   - https://josh.blog/feed
   categories:
   - AI & ML
-  - Architecture & optimization
-  - Engineering
   - GitHub Copilot
-  - GitHub Copilot code review
-  - LLMs
-  - agentic workflows
-  - developer tools
+  - GitHub Copilot app
+  - awesome-copilot
+  - canvases
+  - developer productivity
   relme: {}
-  last_post_title: Better tools made Copilot code review worse. Here’s how we actually
-    improved it.
+  last_post_title: How canvases make agentic workflows visible, steerable, and cost-efficient
   last_post_description: |-
-    How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.
-    The post Better tools made Copilot code
-  last_post_date: "2026-07-10T15:57:47Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/
+    Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.
+    The post How canvases make
+  last_post_date: "2026-08-17T16:00:00Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/
   last_post_categories:
   - AI & ML
-  - Architecture & optimization
-  - Engineering
   - GitHub Copilot
-  - GitHub Copilot code review
-  - LLMs
-  - agentic workflows
-  - developer tools
+  - GitHub Copilot app
+  - awesome-copilot
+  - canvases
+  - developer productivity
   last_post_language: ""
-  last_post_guid: 60a3eaa2e6343611ff105951ec201f4c
+  last_post_guid: 47ec675ff68a3cec9f28b30b15b94211
   score_criteria:
     cats: 0
     description: 3

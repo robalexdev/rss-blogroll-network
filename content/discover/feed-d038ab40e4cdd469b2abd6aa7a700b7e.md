@@ -15,24 +15,23 @@ params:
     id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI in an Age of Oligarchy
-  last_post_description: Why extreme inequality will magnify the social, political
-    and economic downside of technology
-  last_post_date: "2026-07-12T10:30:26Z"
-  last_post_link: https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy
+  last_post_title: The Misery Will Continue Until Morale Improves
+  last_post_description: Why Trump is eviscerating the military
+  last_post_date: "2026-08-17T10:28:26Z"
+  last_post_link: https://paulkrugman.substack.com/p/the-misery-will-continue-until-morale
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7af6505f1ca203e9a7fe9bdddf017c3e
+  last_post_guid: 9f66748def13f8b90df640b29e953fd7
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-07-08T11:24:43Z"
+date: "2026-08-07T22:51:41Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -12,11 +12,11 @@ params:
   in_blogrolls:
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: fb1245ce7aff3fe4a4a5b347014f7cd5
   recommended: []
   recommender: []
@@ -32,6 +32,8 @@ params:
     https://jenett.nekoweb.org/: true
     https://joejenett.com/: true
     https://linkscatter.joejenett.com/: true
+    https://mastodon.social/@joejenett: true
+    https://mastodon.social/@joejenett2: true
     https://photo.joejenett.com/: true
     https://simply.joejenett.com/: true
     https://toot.community/@jenett: true

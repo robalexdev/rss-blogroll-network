@@ -19,9 +19,8 @@ params:
   - Uncategorized
   relme: {}
   last_post_title: Full Duplex over Coax – a Budget Cable Modem for your Arduino
-  last_post_description: 'Documentation for the project shown at Hackaday Europe 2026
-    in Lecco. Link to paper pre-print: https://arxiv.org/abs/2603.18848 Find the KiCAD
-    project for both 50 Ohms and 75 Ohms versions here'
+  last_post_description: 'Update: Meanwhile the video of the talk at Hackaday Europe
+    is online: And there is an article on Hackaday.com https://hackaday.com/2026/07/16/hackaday-europe-2026-build-a-cable-modem-for-your'
   last_post_date: "2026-05-13T16:06:35Z"
   last_post_link: https://acidbourbon.wordpress.com/2026/05/13/full-duplex-over-coax-a-budget-cable-modem-for-your-arduino/
   last_post_categories:

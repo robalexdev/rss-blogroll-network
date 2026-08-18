@@ -24,7 +24,7 @@ params:
     https://lruihao.cn/: true
   last_post_title: 一个轻量化 Tooltip 组件。
   last_post_description: "一个基于 TypeScript + Vite 的轻量化 Tooltip 组件，交互模型参考 Bootstrap
-    tooltip.js，保留常用能力并尽量减少体积与依赖。\n特性\n \n \n \n\n支持触发方式：hover /"
+    tooltip.js，保留常用能力并尽量减少体积与依赖。\n特性\n \n\n支持触发方式：hover / focus"
   last_post_date: "2026-03-06T06:58:23Z"
   last_post_link: https://lruihao.cn/projects/lruihao/cell-tooltip/
   last_post_categories:

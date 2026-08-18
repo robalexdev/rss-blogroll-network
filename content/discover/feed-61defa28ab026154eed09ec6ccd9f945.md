@@ -22,18 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 智能硬件 & IOT
+  - 杂谈
   relme: {}
-  last_post_title: Arduino UNO Q 开发板初体验
+  last_post_title: X1 Presenter鼠标的macOS版虚拟激光笔软件
   last_post_description: |-
-    已经快成路边的Arduino官方去年底出的最新的UNO系列，但这次又是个高通SoC+STM32的缝合怪。先说前 […]
-    Arduino UNO Q 开发板初体验最先出现在WuSiYu Blog。
-  last_post_date: "2026-06-23T21:32:49Z"
-  last_post_link: https://wusiyu.me/arduino-uno-q-board-first-look/
+    最近买了个联想的ThinkPad X1 Presenter鼠标（冲着这经典ThinkPad logo来的），设 […]
+    X1 Presenter鼠标的macOS版虚拟激光笔软件最先出现在WuSiYu Blog。
+  last_post_date: "2026-08-05T18:34:12Z"
+  last_post_link: https://wusiyu.me/thinkpad-x1-presenter-mouse-for-macos/
   last_post_categories:
-  - 智能硬件 & IOT
+  - 杂谈
   last_post_language: ""
-  last_post_guid: 4cde00d9946946541ee8f14302255333
+  last_post_guid: 5accd3624c8bf8e3973d2dce25f68b2d
   score_criteria:
     cats: 0
     description: 3

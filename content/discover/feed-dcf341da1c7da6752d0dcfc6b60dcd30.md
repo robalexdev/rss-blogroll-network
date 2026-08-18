@@ -15,24 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Adam Fortuna
   - Betterment
   - Canonical
-  - Claude Code
-  - dev
+  - Mindfulness
+  - Personal
   relme: {}
-  last_post_title: 'How to Be a Wizard: AI-Assisted Coding and the Art of Leverage'
-  last_post_description: A few thoughts on coding in the year of our LLM, 2026.
-  last_post_date: "2026-03-13T22:20:38Z"
-  last_post_link: https://adamfortuna.com/how-to-be-a-wizard
+  last_post_title: The Personal Reset
+  last_post_description: How to use a personal reset to mix up your schedule and realign
+    your goals.
+  last_post_date: "2026-08-01T17:42:48Z"
+  last_post_link: https://adamfortuna.com/reset
   last_post_categories:
-  - Adam Fortuna
   - Betterment
   - Canonical
-  - Claude Code
-  - dev
+  - Mindfulness
+  - Personal
   last_post_language: ""
-  last_post_guid: 4900bede9ce26d853dbe78995df9a731
+  last_post_guid: f5d4525066527ac0bbac646fcf3e8187
   score_criteria:
     cats: 0
     description: 3

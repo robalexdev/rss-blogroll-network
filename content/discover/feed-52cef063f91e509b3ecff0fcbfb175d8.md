@@ -1,6 +1,6 @@
 ---
 title: Cinematic Catharsis
-date: "2026-07-10T13:09:53-07:00"
+date: "2026-08-15T11:41:33-07:00"
 description: Reflections on film from a pseudo-intellectual perspective
 params:
   feedlink: https://cinematiccatharsis.blogspot.com/atom.xml
@@ -130,19 +130,18 @@ params:
   - movie
   - special effects
   relme: {}
-  last_post_title: Dead Ringers
+  last_post_title: Santo vs. the Riders of Terror
   last_post_description: ""
-  last_post_date: "2026-07-10T13:09:53-07:00"
-  last_post_link: https://cinematiccatharsis.blogspot.com/2026/07/dead-ringers.html
+  last_post_date: "2026-08-10T19:56:53-07:00"
+  last_post_link: https://cinematiccatharsis.blogspot.com/2026/08/santo-vs-riders-of-terror.html
   last_post_categories:
+  - Action
   - Drama
-  - Horror
+  - Mexico
   - Movies
-  - Psychological Thrillers
-  - Reviews
-  - Suspense
+  - Westerns
   last_post_language: ""
-  last_post_guid: d7513b7d9a66731d1ab3f630f556fcea
+  last_post_guid: 971a5750aafa8ddf747e46ec32c2d174
   score_criteria:
     cats: 5
     description: 3

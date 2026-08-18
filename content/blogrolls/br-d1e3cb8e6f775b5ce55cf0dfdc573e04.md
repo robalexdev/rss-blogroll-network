@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2026-07-21T14:46:18.668+00:00"
+date: "2026-08-17T03:32:19.671+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -26,8 +26,7 @@ params:
     description: Journal of Rek
     id: 57dcf8543cbb02ab0d37b0d8115735a4
   - title: Manuel Moreale — Everything Feed
-    description: Thoughts, Pictures, Interviews, and everything else I publish on
-      my blog
+    description: Thoughts, Pictures, Walks, and everything else I publish on my blog
     id: 9417e92ed42b42a9df3959016838f82d
   - title: shellsharks Posts
     description: Writings on infosec, technology and life

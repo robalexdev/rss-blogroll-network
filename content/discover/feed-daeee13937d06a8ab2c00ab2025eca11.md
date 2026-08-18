@@ -11,7 +11,7 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,15 +21,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Big Is a Physical Address?
-  last_post_description: A short aside from the virtual memory series on physical
-    address size, why it differs from virtual address size, and why different CPUs
-    expose different limits.
-  last_post_date: "2026-06-22T17:05:03Z"
-  last_post_link: https://blog.codingconfessions.com/p/how-big-is-a-physical-address
+  last_post_title: 'x86 Addressing Modes, Part 2: Indirect, Indexed, and Offset-based
+    Modes'
+  last_post_description: In this final part on addressing modes, we learn about indirect,
+    indexed and offset-based addressing modes along with some interesting examples
+    and exercises.
+  last_post_date: "2026-08-09T15:58:52Z"
+  last_post_link: https://blog.codingconfessions.com/p/x86-addressing-modes-part-2-indirect
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e3cba87b683e4ff3fd1b04a9f079dc55
+  last_post_guid: 6d9a28ab6f98eb074af84443ae86fbe2
   score_criteria:
     cats: 0
     description: 3

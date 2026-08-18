@@ -11,33 +11,39 @@ params:
     https://numericcitizen.me/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Ephemeral Scrapbook
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — 2026.07.12
-  last_post_description: Bye bye Om Malik. Hello Apple price hikes. Yikes.
-  last_post_date: "2026-07-13T11:16:35Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-07-12/
-  last_post_categories: []
+  last_post_title: The Ephemeral Scrapbook — 2026.08.02
+  last_post_description: I read and write about AI way too much, but AI is everywhere
+    now, so hard to escape! I’m so sorry.
+  last_post_date: "2026-08-02T21:21:37Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-08-02/
+  last_post_categories:
+  - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: 23bae0e89c2d7a55032d6271da44bb9f
+  last_post_guid: f21002774e1e57dcb4ffb2075bf9e738
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

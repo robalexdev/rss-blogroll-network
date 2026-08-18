@@ -27,16 +27,14 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: 为什么 Github OAuth 故意拦截 CORS
-  last_post_description: |-
-    Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the Web flow from a browser:
-    And this would mean that you're hard-coding your client_id and client_secret
-  last_post_date: "2026-07-18T19:32:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-29
+  last_post_title: git fetch 实现断点续传
+  last_post_description: git fetch origin main --depth=1 一次只下一个
+  last_post_date: "2026-08-16T14:06:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-33
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: 4b697fc059a53ec7fbac114dea854df8
+  last_post_guid: 2b62a177aef0137681c9973aa1a911f1
   score_criteria:
     cats: 0
     description: 3

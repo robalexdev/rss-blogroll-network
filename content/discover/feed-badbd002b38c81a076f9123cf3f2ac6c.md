@@ -1,6 +1,6 @@
 ---
 title: "\U0001F506 the annap chronicles \U0001F300"
-date: "2026-07-12T19:35:30Z"
+date: "2026-08-17T20:03:01Z"
 description: "she/her | so i just really love artsy things and love and joy and whimsy
   and also am a severely depressed jawnson :3 \U0001F506\U0001F300\n\nsmol rectangle
   (for blog)\n\nsome ..."

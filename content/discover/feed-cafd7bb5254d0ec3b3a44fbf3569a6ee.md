@@ -1,6 +1,6 @@
 ---
 title: 很少明白
-date: "2026-07-17T08:13:20Z"
+date: "2026-08-17T08:15:24Z"
 description: 一切都在无可挽回地走向恰饭。
 params:
   feedlink: https://p0werdown.com/feed.xml
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://p0werdown.com/: true
-  last_post_title: 一点关于泡泡玛特的想法
-  last_post_description: ""
-  last_post_date: "2026-04-14T06:17:52Z"
-  last_post_link: https://p0werdown.com/posts/something-about-pop-mart
+  last_post_title: 当创作开始讲「公式」，离成功学就不远了
+  last_post_description: 旁听别人聊视频创作节奏的时候，突然想到的
+  last_post_date: "2026-07-31T11:46:08Z"
+  last_post_link: https://p0werdown.com/posts/short-video-creation-formula-storyclock-hkrr
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2785f55c2c3252b3fc8e8218ef7e14a5
+  last_post_guid: 2894a40d227fe1dc60826dadf6cae40b
   score_criteria:
     cats: 0
     description: 3

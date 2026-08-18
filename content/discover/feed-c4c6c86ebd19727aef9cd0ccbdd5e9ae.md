@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2026-07-21T00:02:25Z"
+date: "2026-08-17T00:02:36Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -20,22 +20,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2026-07-20
+  last_post_title: Daily Hacker News for 2026-08-16
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on July 20, 2026 which have not appeared on any previous
+    on August 16, 2026 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    Minecraft: Java Edition now uses SDL3
+    Asus Bike Booster
     (comments)
 
 
-    Claude Fable produced
-  last_post_date: "2026-07-21T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2026-07-20.html
+    RISC-V: They Should Have Known
+  last_post_date: "2026-08-17T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2026-08-16.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

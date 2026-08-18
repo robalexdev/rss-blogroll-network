@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-07-04T00:05:31-07:00"
+date: "2026-08-04T21:15:01-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -11,7 +11,7 @@ params:
     https://fxrant.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -314,27 +314,28 @@ params:
   relme:
     https://fxrant.blogspot.com/: true
     https://www.blogger.com/profile/09098040041978835594: true
-  last_post_title: The "Mad Men" in 4K on HBO Max Debacle
+  last_post_title: Todd Vaziri on Ian Failes' Befores & Afters Podcast
   last_post_description: ""
-  last_post_date: "2026-05-24T12:40:52-07:00"
-  last_post_link: https://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html
+  last_post_date: "2026-07-16T12:18:04-07:00"
+  last_post_link: https://fxrant.blogspot.com/2026/07/todd-vaziri-on-ian-failes-befores.html
   last_post_categories:
-  - Mad Men
+  - favorite interviews
+  - podcast
   last_post_language: ""
-  last_post_guid: 118feacacfef362181d81673f4a6938d
+  last_post_guid: 4b29c0f02958c8362b53cffad582357e
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

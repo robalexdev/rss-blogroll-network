@@ -1,6 +1,6 @@
 ---
 title: Talospace
-date: "2026-06-20T23:18:53-07:00"
+date: "2026-08-15T00:56:51-07:00"
 description: The free computing frontier
 params:
   feedlink: https://www.talospace.com/feeds/posts/default

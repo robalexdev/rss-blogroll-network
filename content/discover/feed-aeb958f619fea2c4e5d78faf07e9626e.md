@@ -20,20 +20,20 @@ params:
   - arm64
   - debian
   - floss
-  - linuxgaming
+  - gaming
   relme: {}
-  last_post_title: Running Linux i386 binary (steamcmd) via debootstrap foreign chroot
-  last_post_description: ""
-  last_post_date: "2026-06-03T08:50:29Z"
-  last_post_link: https://00formicapunk00.wordpress.com/2026/06/03/running-linux-i386-binary-steamcmd-via-debootstrap-foreign-chroot/
+  last_post_title: Opensource gaming with nouveau nvidia driver
+  last_post_description: Games you can play with the nouveau 3d driver on Linux.
+  last_post_date: "2026-07-24T15:31:24Z"
+  last_post_link: https://00formicapunk00.wordpress.com/2026/07/24/opensource-gaming-with-nouveau-nvidia-driver/
   last_post_categories:
   - Uncategorized
   - arm64
   - debian
   - floss
-  - linuxgaming
+  - gaming
   last_post_language: ""
-  last_post_guid: 30f1a39e2944a49b8d7b38028590701f
+  last_post_guid: 76a29c3965249958dd1d7f94124a5496
   score_criteria:
     cats: 0
     description: 3

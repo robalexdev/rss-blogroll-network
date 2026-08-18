@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-07-12T19:06:45+01:00"
+date: "2026-08-17T05:07:56+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -294,6 +294,7 @@ params:
   - chatubate
   - cheesepaste
   - chevin
+  - chris
   - chublet
   - chublets
   - cocoons
@@ -323,6 +324,7 @@ params:
   - dusk
   - elvedon
   - farmer
+  - fishing
   - floating
   - floating lobworm
   - flood
@@ -504,18 +506,17 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: The River Arrow - Gonktastrophication and Gobbledegook
+  last_post_title: Warwickshire Avon - Madhouses and Mega Dinghies
   last_post_description: ""
-  last_post_date: "2026-07-11T12:21:42+01:00"
-  last_post_link: https://calamitymn.blogspot.com/2026/07/the-river-arrow-gonktastrophication-and.html
+  last_post_date: "2026-08-14T18:29:38+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/08/warwickshire-avon-madhouses-and-mega.html
   last_post_categories:
+  - Bread
   - Chub
-  - Gonk
-  - Gudgeon
-  - River Arrow
-  - chublets
+  - Warwickshire Avon
+  - fishing
   last_post_language: ""
-  last_post_guid: de379f8c93847b9f2d2e1c57ba0a7b92
+  last_post_guid: 9a678b88531bd051dc861279af6857cd
   score_criteria:
     cats: 5
     description: 0

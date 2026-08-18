@@ -8,8 +8,7 @@ params:
   feedlink: https://www.lloydatkinson.net/rss.xml
   feedtype: rss
   feedid: 4c518e5bbc1cf06c0b33f4eff13fc637
-  websites:
-    https://www.lloydatkinson.net/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
@@ -24,8 +23,7 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://www.lloydatkinson.net/: true
+  relme: {}
   last_post_title: '2025: Year in Review'
   last_post_description: 'Reflecting on my year - Tagged: Year in review, Gardening,
     Programming, Portugal, Poland, Slovakia'
@@ -43,10 +41,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

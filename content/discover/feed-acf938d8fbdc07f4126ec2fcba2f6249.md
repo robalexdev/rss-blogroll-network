@@ -1,6 +1,6 @@
 ---
-title: Kia.
-date: "2026-07-20T11:32:39Z"
+title: Kia Kamgar
+date: "2026-08-16T06:45:41Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -24,14 +24,13 @@ params:
   categories: []
   relme:
     https://kiakamgar.com/: true
-  last_post_title: I prefer light mode.
-  last_post_description: I hate dark more. It’s no secret. I’ve written about it in
-    the past. But I do see the need for people to have the option. So I added it...
-  last_post_date: "2026-07-20T11:32:39Z"
-  last_post_link: https://kiakamgar.com/posts/i-prefer-light-mode
+  last_post_title: Dark sky
+  last_post_description: ""
+  last_post_date: "2026-08-16T06:52:04Z"
+  last_post_link: https://kiakamgar.com/posts/dark-sky
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c050ace78f5bcaeae76e07b2e9ad2510
+  last_post_guid: 34300543797c3bc80b0ac884c2c6db93
   score_criteria:
     cats: 0
     description: 0

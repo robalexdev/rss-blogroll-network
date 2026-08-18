@@ -30,11 +30,11 @@ params:
     id: caef69628aa6c48ab75aa8701352b695
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 8da940851a665bf7e2ba1a0682fc7fa7
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
-      feedlandDatabase v0.8.16.
+      feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
   - title: Blogroll
     description: ""
@@ -64,13 +64,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Arthurian Connector
+  last_post_title: Accretionary Arc
   last_post_description: ""
-  last_post_date: "2026-07-20T04:00:00Z"
-  last_post_link: https://xkcd.com/3274/
+  last_post_date: "2026-08-14T04:00:00Z"
+  last_post_link: https://xkcd.com/3285/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5426566a52105dc6a0da2afa7af8f3f8
+  last_post_guid: 08e88e718af5195ff2d9f91a70f21806
   score_criteria:
     cats: 0
     description: 3

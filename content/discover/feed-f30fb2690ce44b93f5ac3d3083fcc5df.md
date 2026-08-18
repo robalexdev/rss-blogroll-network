@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://www.davd.io/: true
-  last_post_title: Back on GrapheneOS in 2026
-  last_post_description: |-
-    I have somewhat of a pendulum going on between iOS and GrapheneOS. But just like I switched from macOS to Linux some time ago, I want to run GrapheneOS as my daily driver as well.
-    Part of that is
-  last_post_date: "2026-03-21T00:00:00Z"
-  last_post_link: https://www.davd.io/posts/2026-03-21-back-on-grapheneos-in-2026/
+  last_post_title: Buy, Own, Stream - The "Rip, Mix, Burn" of 2026
+  last_post_description: This month marks my eleventh year with Apple Music. I’ve
+    been a customer pretty much since the service started, which back in the day finally
+    let me get into music streaming. I was reluctant to use
+  last_post_date: "2026-08-02T00:00:00Z"
+  last_post_link: https://www.davd.io/posts/2026-08-02-buy-own-stream/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6db0c2135137606d4548cd130a76d02d
+  last_post_guid: 6ac5f4552c03225df67fcb0cd9d34617
   score_criteria:
     cats: 0
     description: 3

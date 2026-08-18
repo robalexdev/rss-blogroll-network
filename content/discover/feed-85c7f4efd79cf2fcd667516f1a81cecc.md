@@ -1,7 +1,7 @@
 ---
-title: 仲平
+title: 仲平 · 文辑
 date: "1970-01-01T00:00:00Z"
-description: 仲平的个人博客，记录思考、旅行与创作。
+description: 仲平（Zopiya）的个人博客，记录基础设施、软件开发、AI 产品构建、旅行、创作与持续思考。
 params:
   feedlink: https://blog.7wate.com/rss.xml
   feedtype: rss
@@ -23,25 +23,23 @@ params:
   recommender: []
   categories:
   - blog
-  - decision-making
   - reflection
   - writing
   relme: {}
-  last_post_title: 论第一性原理
+  last_post_title: 吹箫人
   last_post_description: !!binary |
-    5YWz5LqO56ys5LiA5oCn5Y6f55CG77yM5Y675bm05oiR6L+b6KGM5LqG5Li76aKY6ZiF6K
-    +777yM5oqK5biC6Z2i5LiK6aOO6K+E5LiN6ZSZ55qE5Lmm6YCa6K+75LqG5Y2B5pys77yM
-    5YyF5ous6ams5pav5YWL55qE57qi55qu5Lmm562J55u45YWz5p2Q5paZ5Lmf6YO955yL6L
-    +H44CC5L2G5pyJ5LiA5Liq6Zeu6aKY77yM5b6I5aSa5Lq66K6y552A6K4=
-  last_post_date: "2026-07-13T00:00:00+08:00"
-  last_post_link: https://blog.zopiya.com/lun-di-yi-xing-yuan-li-e156f9c0/
+    5p2R5Lic5aS05L2P552A5LiA5Liq5ZC5566r5Lq644CCCuWktOS4gOW5tO+8jOS7luWPqu
+    WcqOiHquW3seWxi+mHjOWQue+8jOeql+WtkOWFs+W+l+S4peS4peWunuWunu+8jOS4gOS4
+    neWjsOmfs+S5n+a8j+S4jeWHuuWOu+OAguWQueWIsOWFtOWkhO+8jOaRh+WktOaZg+iEke
+    +8jOmUmeS6humfs+S5n+S4jeaBvO+8jOS4gOabsuWQuee9ou+8jOWAkuU=
+  last_post_date: "2026-07-31T00:00:00+08:00"
+  last_post_link: https://blog.zopiya.com/chui-xiao-ren-91eca469/
   last_post_categories:
   - blog
-  - decision-making
   - reflection
   - writing
   last_post_language: ""
-  last_post_guid: 96fd690f68ab38de22d1f0875cf0e9a2
+  last_post_guid: e5b838c576e16d76acc3a4b2c4813445
   score_criteria:
     cats: 0
     description: 3

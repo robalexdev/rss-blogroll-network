@@ -1,6 +1,6 @@
 ---
 title: Church of BSD
-date: "2026-07-11T01:45:31-07:00"
+date: "2026-08-07T02:12:59-07:00"
 description: This was Intended to be a BSD only blog, but now it's about all Unix
   Like Free Operating Systems, Linux, FreeBSD etc.
 params:

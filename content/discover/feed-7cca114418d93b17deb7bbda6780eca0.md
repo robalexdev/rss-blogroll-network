@@ -1,6 +1,6 @@
 ---
 title: okayfail.com
-date: "2026-06-08T00:00:00Z"
+date: "2026-08-11T00:00:00Z"
 description: ""
 params:
   feedlink: https://okayfail.com/atom.xml
@@ -10,7 +10,7 @@ params:
     https://okayfail.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -35,13 +35,13 @@ params:
     https://github.com/phillmv: true
     https://hachyderm.io/@phillmv: true
     https://okayfail.com/: true
-  last_post_title: Dear Margo Wildman,
+  last_post_title: What Do We Do When We Read The Code?
   last_post_description: ""
-  last_post_date: "2026-06-08T00:00:00Z"
-  last_post_link: http://okayfail.com/2026/dear-margo-wildman.html
+  last_post_date: "2026-08-11T00:00:00Z"
+  last_post_link: http://okayfail.com/2026/what-do-we-do-when-we-read-the-code.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1f05358496335905a5e5e3a761e6112d
+  last_post_guid: fe3c0fb5d9843d1aa46b88143cea9daf
   score_criteria:
     cats: 0
     description: 0

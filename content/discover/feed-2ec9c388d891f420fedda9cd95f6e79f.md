@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-07-21T11:00:04Z"
+date: "2026-08-17T10:09:58Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -22,28 +22,30 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - 日常
   relme: {}
-  last_post_title: macOS 使用 Crossover 游戏中文输入显示问号乱码问题
+  last_post_title: 我的背包
   last_post_description: ""
-  last_post_date: "2026-07-20T11:00:02Z"
-  last_post_link: https://anotherdayu.com/crossover-macos-chinese/
-  last_post_categories: []
+  last_post_date: "2026-08-12T10:08:28Z"
+  last_post_link: https://anotherdayu.com/my-backpack/
+  last_post_categories:
+  - 日常
   last_post_language: ""
-  last_post_guid: 45676c15f449cf4160575ce322d888ed
+  last_post_guid: d90e492f218b8f37de7d2d5b69e97ad8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

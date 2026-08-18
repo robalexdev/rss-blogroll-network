@@ -16,7 +16,6 @@ params:
     description: Jason Kottke's weblog, home of fine hypertext products since 1998
     id: 7626d2d6fa86e02e6ad59760e54e7c54
   - title: Manuel Moreale — Everything Feed
-    description: Thoughts, Pictures, Interviews, and everything else I publish on
-      my blog
+    description: Thoughts, Pictures, Walks, and everything else I publish on my blog
     id: 9417e92ed42b42a9df3959016838f82d
 ---

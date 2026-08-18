@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-07-19T12:53:14Z"
+date: "2026-08-16T15:08:30Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - git
+  - LLM
   relme: {}
-  last_post_title: 记一个gitea推送失败的问题
-  last_post_description: 我的博客的推送一份是在github作为github
-  last_post_date: "2026-07-19T12:53:14Z"
-  last_post_link: https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/
+  last_post_title: 让chatgpt来给我讲解下deepseek harness的插件体系
+  last_post_description: 最近deepseek发布了harness，试用了一下结合deepseek-4
+  last_post_date: "2026-08-16T15:08:30Z"
+  last_post_link: https://nicksxs.me/2026/08/16/%E8%AE%A9chatgpt%E6%9D%A5%E7%BB%99%E6%88%91%E8%AE%B2%E8%A7%A3%E4%B8%8Bdeepseek-harness%E7%9A%84%E6%8F%92%E4%BB%B6%E4%BD%93%E7%B3%BB/
   last_post_categories:
-  - git
+  - LLM
   last_post_language: ""
-  last_post_guid: 5ea60399c604f7a717d8ddbc3aefe21e
+  last_post_guid: c5d8fe0b434c6238a3e5a46f6c7d80c4
   score_criteria:
     cats: 0
     description: 3

@@ -13,6 +13,9 @@ params:
   - title: Jeroen Sangers - Blogroll
     description: ""
     id: eaff02c5b823b06c8ce11bb82ddd8f37
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Ryan M. - Blogroll
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee
@@ -23,16 +26,15 @@ params:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
     https://xoxo.zone/@mathowie: true
-  last_post_title: The AirPods Max 2 are better at noise cancellation than the previous
-    version
-  last_post_description: I've long been a big fan of over-the-ear, old-school big
-    headphones for comfort and sound quality reasons. It's also because I generally
-    don't like to stick things inside my ears. Apple's ear buds
-  last_post_date: "2026-07-09T03:42:21Z"
-  last_post_link: https://a.wholelottanothing.org/the-airpods-max-2-are-better-at-noise-cancellation-than-the-previous-version/
+  last_post_title: Feeling the burn
+  last_post_description: When the pandemic hit, the gym I worked out at closed down
+    for almost a year. I was used to working out a couple times a week with a trainer
+    leading me and it wasn't about huge gains or getting
+  last_post_date: "2026-08-17T19:25:22Z"
+  last_post_link: https://a.wholelottanothing.org/feeling-the-burn/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f7fefd2847ba63b8a3a9efe4a3617c48
+  last_post_guid: 67d57bd877883a0e213242f1c4e033ea
   score_criteria:
     cats: 0
     description: 3

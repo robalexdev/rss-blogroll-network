@@ -11,31 +11,34 @@ params:
     https://adam.younglogic.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:
-  - Family
-  - Gadgets
-  - Woodworking
+  - Python
+  - Software
+  - revision control
   relme: {}
-  last_post_title: Father’s day project
-  last_post_description: Getting a little more organized in my workshop. My pain point
-    was boxes of nails or screws falling off shelves. And, of course, I wanted an
-    excuse to use the laser cutter. I took a lesson from
-  last_post_date: "2026-06-22T04:13:13Z"
-  last_post_link: https://adam.younglogic.com/2026/06/fathers-day-project/
+  last_post_title: Teaching Python using a Caesar Cipher
+  last_post_description: A Caesar cipher is a letter for letter exchange from a clear
+    text to a encrypted text by shifting a set distance in the alphabet. Thus, if
+    your set distance is 2, the letter A becomes C, the letter X
+  last_post_date: "2026-07-27T19:58:19Z"
+  last_post_link: https://adam.younglogic.com/2026/07/teaching-python-using-a-ceasar-cipher/
   last_post_categories:
-  - Family
-  - Gadgets
-  - Woodworking
+  - Python
+  - Software
+  - revision control
   last_post_language: ""
-  last_post_guid: e09feb03edec5c7662019fb4ebf794b2
+  last_post_guid: 4408a257878982d041fa4e8a123d692e
   score_criteria:
     cats: 0
     description: 3

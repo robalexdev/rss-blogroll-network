@@ -1,6 +1,6 @@
 ---
 title: FXRant
-date: "2026-07-04T00:05:31-07:00"
+date: "2026-08-04T21:15:01-07:00"
 description: A blogtacular blog filled with words, images, and whipped cream on top.  Written
   by Todd Vaziri.
 params:
@@ -311,27 +311,28 @@ params:
   - writing
   - zune
   relme: {}
-  last_post_title: The "Mad Men" in 4K on HBO Max Debacle
+  last_post_title: Todd Vaziri on Ian Failes' Befores & Afters Podcast
   last_post_description: ""
-  last_post_date: "2026-05-24T12:40:52-07:00"
-  last_post_link: https://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html
+  last_post_date: "2026-07-16T12:18:04-07:00"
+  last_post_link: https://fxrant.blogspot.com/2026/07/todd-vaziri-on-ian-failes-befores.html
   last_post_categories:
-  - Mad Men
+  - favorite interviews
+  - podcast
   last_post_language: ""
-  last_post_guid: 3b4719ba786c5cc970964caec799eb2a
+  last_post_guid: d5c42882f6326b6d61553b2c6901feb6
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 23
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

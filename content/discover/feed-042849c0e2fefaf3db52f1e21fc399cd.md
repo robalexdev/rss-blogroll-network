@@ -20,35 +20,33 @@ params:
   recommender: []
   categories:
   - AI
-  - Onyx
-  - Postgresql
+  - OpenCode
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Connection Pooling for Onyx AI
-  last_post_description: Discover how I optimized Onyx's PostgreSQL connection management
-    to prevent deployment issues, and learn how to tweak its internal settings for
-    a seamless experience.
-  last_post_date: "2026-07-17T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/onyx_connection_pooling
+  last_post_title: Give your coding agent a memory
+  last_post_description: Boost your coding agent's capabilities with Engram, a powerful
+    tool that provides long-term memory and seamless integration, enabling agents
+    to learn and remember over time.
+  last_post_date: "2026-08-14T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/engram_agent_memory
   last_post_categories:
   - AI
-  - Onyx
-  - Postgresql
+  - OpenCode
   last_post_language: ""
-  last_post_guid: a39083478fe8f8e9ad23ef4254d00e28
+  last_post_guid: d56da668d93ef68770972e01056f8c50
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

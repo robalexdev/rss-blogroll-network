@@ -10,16 +10,16 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5343 blogs
+  - title: Bubbles — 5367 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: a5055187291ff08d5f2ce7e9d27f78cb
   - title: johnjohnston/blogroll
     description: johnjohnston's subscription list, blogroll category. List created
-      by feedlandDatabase v0.8.14.
+      by feedlandDatabase v0.9.3.
     id: fb1245ce7aff3fe4a4a5b347014f7cd5
   - title: indieblog.page
     description: ""
@@ -40,15 +40,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Things I learned these past few months
+  last_post_title: Birthday celebration
   last_post_description: |-
-    Below, a quick roundup of a few of the things I learned over the past few months.
-    Migratory freshwater fish are in steep decline, with populations down roughly 81% since 1970. These species depend on
-  last_post_date: "2026-06-30T14:00:00-04:00"
-  last_post_link: https://www.inthemargins.ca/til-2026-q2
+    This weekend, we celebrate.
+    Zoya is turning six years old, and this Saturday we have planned a small party to celebrate. There will be a few kids, a few grownups, good food, a space-themed cake,
+  last_post_date: "2026-07-21T17:35:00-04:00"
+  last_post_link: https://www.inthemargins.ca/sixth-birthday-celebration
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f80ed435bc45fb68e938b7cad9fa3a12
+  last_post_guid: 07585e24b6b3194119fad588fb77ab5a
   score_criteria:
     cats: 0
     description: 3

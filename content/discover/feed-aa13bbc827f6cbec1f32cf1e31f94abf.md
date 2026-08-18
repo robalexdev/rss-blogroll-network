@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-07-12T00:11:39-04:00"
+date: "2026-08-17T14:54:56-04:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Action Figure Review: Order of the Crimson Moon from The Order
-    of the Crimson Moon by Fresh Monkey Fiction & Big Bad Workshop'
+  last_post_title: 'Playset Review: Fright Pit from Masters of the Universe Origins
+    by Mattel'
   last_post_description: ""
-  last_post_date: "2026-07-12T00:11:39-04:00"
-  last_post_link: https://www.actionfigurebarbecue.com/2026/07/action-figure-review-order-of-crimson.html
+  last_post_date: "2026-08-07T16:00:00-04:00"
+  last_post_link: https://www.actionfigurebarbecue.com/2026/08/playset-review-fright-pit-from-masters.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3c6f021f28010383825cec351e404d24
+  last_post_guid: d79a7b8d96fc8a1e13d74009d48069ab
   score_criteria:
     cats: 0
     description: 3
