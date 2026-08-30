@@ -1,6 +1,6 @@
 ---
 title: zwiener.org
-date: "2026-08-17T21:57:34+02:00"
+date: "2026-08-29T00:14:42+02:00"
 description: Jan Zwiener's Blog
 params:
   feedlink: https://zwiener.org/rss2feed.php

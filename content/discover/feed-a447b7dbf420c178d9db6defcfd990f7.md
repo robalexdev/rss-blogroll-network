@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-08-12T16:01:57+01:00"
+date: "2026-08-27T20:33:27+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/atom.xml
@@ -468,29 +468,28 @@ params:
   - work
   - writing
   relme: {}
-  last_post_title: About Anish Kapoor
+  last_post_title: About dead famous people
   last_post_description: ""
-  last_post_date: "2026-08-12T16:01:57+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-anish-kapoor.html
+  last_post_date: "2026-08-27T20:33:27+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-dead-famous-people.html
   last_post_categories:
-  - art
-  - photography
-  - social media
+  - celebrity
+  - death
   last_post_language: ""
-  last_post_guid: 4acb77a8b0da94edd84c0aa2e7b8226d
+  last_post_guid: c975b8c218f52d90143256362f06c64d
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 25
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,7 @@ params:
     https://artiss.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,32 +22,34 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Boots
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: 'Cleaning a PS4 Pro: Visit to a Weird Planet Revisited'
-  last_post_description: Back in 2021 I detailed how I cleaned out the PS4 Pro that
-    I’d bought uses and, seemingly, had nothing more than a damp cloth rubbed over
-    it. 14 months later, in 2023, I had to do it again. It
-  last_post_date: "2026-08-01T15:40:53Z"
-  last_post_link: https://artiss.blog/2026/08/cleaning-a-ps4-pro-visit-to-a-weird-planet-revisited/
+  last_post_title: Mole and eMon – the forgotten support software at Boots
+  last_post_description: Back in the early/mid-1990s I’d been working on the IT (then
+    IS) Help Desk at Boots the Chemist, supporting store’s POS (Point of Sale) systems.
+    After a few years, my existing development chops
+  last_post_date: "2026-08-25T18:35:38Z"
+  last_post_link: https://artiss.blog/2026/08/mole-and-emon-the-forgotten-support-software-at-boots/
   last_post_categories:
+  - Boots
   - Life
   last_post_language: ""
-  last_post_guid: a14e4316839c31ecfdc62405cfd2fa4d
+  last_post_guid: 9d3b1be8a88f49f7a5795d0afb35c2e0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

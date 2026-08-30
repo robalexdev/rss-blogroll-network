@@ -21,15 +21,15 @@ params:
     https://abhi.now/: true
     https://github.com/abhigyantrips: true
     https://gitlab.com/abhigyantrips: true
-  last_post_title: (#2026-W32) ghar ka khaana and dil ki shaanti
-  last_post_description: This weeknote covers the week of August 2, 2026 – August
-    8, 2026.
-  last_post_date: "2026-08-08T00:00:00Z"
-  last_post_link: https://abhi.now/weeknotes/2026/32/
+  last_post_title: (#2026-W34) work and sleep and work and sleep
+  last_post_description: This weeknote covers the week of August 16, 2026 – August
+    22, 2026.
+  last_post_date: "2026-08-24T00:00:00Z"
+  last_post_link: https://abhi.now/weeknotes/2026/34/
   last_post_categories:
   - weeknotes
   last_post_language: ""
-  last_post_guid: de6fbf22b6b040ad5d23f26c36a7749b
+  last_post_guid: 2a2e7dcb6633999335a8c7482071cb32
   score_criteria:
     cats: 0
     description: 3

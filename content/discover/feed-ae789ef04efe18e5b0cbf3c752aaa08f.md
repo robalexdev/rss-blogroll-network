@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://draft.blogger.com/profile/01336528462208811726: true
     https://equipetartaruguinha.blogspot.com/: true
     https://ibourbaki.blogspot.com/: true
     https://lineartypetheory.blogspot.com/: true

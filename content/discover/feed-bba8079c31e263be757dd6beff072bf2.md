@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Software 2.0: a Security-Critical Project Where I Don''t Read
-    the Code'
-  last_post_description: "12 minutes to read\n\n        \n          \n\n          \n
-    \           \n\nThere’s been lots of rancor online about whether you should read
-    and review LLM-authored code. I wanted to share a project we’ve"
-  last_post_date: "2026-08-10T14:00:00Z"
-  last_post_link: https://aaronstannard.com/a-security-critical-project-where-i-dont-read-the-code/
+  last_post_title: The .NET OSS Relicensing Panic Is an Incentives Problem
+  last_post_description: "17 minutes to read\n\n        \n          \n\n          \n
+    \           A couple of popular open source projects in the .NET ecosystem, first
+    Verify and now Polly - have adopted (or are thinking about"
+  last_post_date: "2026-08-21T11:45:00Z"
+  last_post_link: https://aaronstannard.com/oss-relicensing-is-an-incentives-problem/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ec7ce7533069b37ad2af36928f838606
+  last_post_guid: 267ce04f9a1701ad686c6165c8039eed
   score_criteria:
     cats: 0
     description: 3

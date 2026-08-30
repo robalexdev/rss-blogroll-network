@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reading Notes
+  last_post_title: Take the Cannoli
   last_post_description: ""
-  last_post_date: "2026-08-17T09:00:48Z"
-  last_post_link: https://2ndbreakfast.audreywatters.com/reading-notes/
+  last_post_date: "2026-08-24T09:00:18Z"
+  last_post_link: https://2ndbreakfast.audreywatters.com/take-the-cannoli/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e59ddbf8d96b37727139f11b254ff24c
+  last_post_guid: a4ca22bf85e5149e36b12e2380f9bc43
   score_criteria:
     cats: 0
     description: 3

@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: When Models Learn
-  last_post_description: 'Explains test-time training through the analogy of a GPS
-    learning a persistent shortcut around daily traffic rather than a one-time reroute:
-    the model takes a gradient step on the prompt it''s'
-  last_post_date: "2026-08-17T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/test-time-training-impact/
+  last_post_title: NVIDIA's $108b Quarter
+  last_post_description: NVIDIA's Q2 FY27 revenue reached $96b with a $108b Q3 guide,
+    but hyperscale revenue grew only 13% sequentially against 25% for everyone else.
+    To fund the buyers filling that gap, NVIDIA extended
+  last_post_date: "2026-08-26T00:00:00Z"
+  last_post_link: https://www.tomtunguz.com/nvidia-q2-fy27-earnings/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0db68e3b82a4934033bbc2973fdaa452
+  last_post_guid: 922e2251993e25c000c1a9faa5dccda6
   score_criteria:
     cats: 0
     description: 3

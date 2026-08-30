@@ -1,6 +1,6 @@
 ---
 title: Wuthering Expectations
-date: "2026-08-16T15:56:25-05:00"
+date: "2026-08-28T10:19:46-05:00"
 description: A Distinguished Crankologist
 params:
   feedlink: https://wutheringexpectations.blogspot.com/atom.xml
@@ -1202,15 +1202,15 @@ params:
   - writing
   - ČAPEK Karel
   relme: {}
-  last_post_title: What I Read in July 2026 – Some links found verbal form, others
-    remained mere promises, mist, soft approximations of thought.
+  last_post_title: Not Shakespeare for the fall - Ben Jonson's best, plenty of revenge,
+    and the New Shakespeareans
   last_post_description: ""
-  last_post_date: "2026-08-14T16:01:48-05:00"
-  last_post_link: https://wutheringexpectations.blogspot.com/2026/08/what-i-read-in-july-2026-some-links.html
+  last_post_date: "2026-08-21T16:52:26-05:00"
+  last_post_link: https://wutheringexpectations.blogspot.com/2026/08/not-shakespeare-for-fall-ben-jonsons.html
   last_post_categories:
-  - reading
+  - NOT SHAKESPEARE
   last_post_language: ""
-  last_post_guid: 783e93b6e9062f606facb1a4d1a7e884
+  last_post_guid: 854ccbfb0d3f92b4241b1ee52261f652
   score_criteria:
     cats: 5
     description: 3

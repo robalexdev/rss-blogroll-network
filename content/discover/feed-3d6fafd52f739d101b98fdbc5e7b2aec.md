@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-07-27T15:56:23Z"
+date: "2026-08-18T21:57:17Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -20,13 +20,13 @@ params:
   categories: []
   relme: {}
   last_post_title: tweet
-  last_post_description: I write to see what I can write. I code to see what I can
-    code.
-  last_post_date: "2026-07-27T15:56:23Z"
+  last_post_description: Building without predicting. (The story of how I built my
+    perfect home.) https://sive.rs/fit
+  last_post_date: "2026-08-18T21:57:17Z"
   last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5af6e26068eeca11f029b44246de6ef7
+  last_post_guid: 7523bcc71c456492887ecca2b6dc8dd9
   score_criteria:
     cats: 0
     description: 3

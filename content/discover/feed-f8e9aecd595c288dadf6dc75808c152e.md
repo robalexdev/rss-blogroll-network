@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 把影音檔案壓小小
-  last_post_description: 因為「荒島筆電」實驗的關係，我最近在測試，利用新一代的編碼器 Opus 和 AV1，到底能把影音檔案壓縮到多小，還能保持我能接受的音質和畫質。
-  last_post_date: "2026-08-17T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/desert-island-bitrate
+  last_post_title: 對 AI 圖過敏
+  last_post_description: 八月 BlogBlog 同樂會的主持人 Ikuka，在「一期一會」的主題頁面有個小小的請求：
+  last_post_date: "2026-08-29T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/ai-image-allergy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c151f7c3451566a3403aca7b5408ea44
+  last_post_guid: 0a43cbf43c12c2aff36c3e98f051bbba
   score_criteria:
     cats: 0
     description: 3

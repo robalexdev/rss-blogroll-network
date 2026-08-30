@@ -22,7 +22,7 @@ params:
   - title: Feeds
     description: ""
     id: 0df775e8ba7b2384cbdfcfc97aa7cf68
-  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+  - title: Information and Cyber Security RSS/Atom Feeds
     description: ""
     id: c2fcb03cb60f31fe2922a3fc129cd838
   - title: English RSS collated by MoreRSS
@@ -32,11 +32,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Meta faces 'astronomical' consequences as legal fight reaches critical
-    moment
+  last_post_title: The OG Creator of Task Manager on Windows Built a New Task Manager
   last_post_description: Comments
-  last_post_date: "2026-08-17T18:06:30Z"
-  last_post_link: https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html
+  last_post_date: "2026-08-28T19:35:18Z"
+  last_post_link: https://tmog.org
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

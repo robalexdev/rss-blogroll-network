@@ -20,22 +20,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI Agents
-  - AI Operations
-  - Model Context Protocol
+  - CI/CD
+  - Cloud Services
+  - Security
   relme: {}
-  last_post_title: Claude can now delete your production voice agent from a chat window
+  last_post_title: JetBrains told everyone to patch. It didn’t patch itself.
   last_post_description: |-
-    Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or
-    The post Claude can now delete your production voice agent from a chat
-  last_post_date: "2026-08-17T19:51:01Z"
-  last_post_link: https://thenewstack.io/elevenlabs-mcp-voice-agents/
+    JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs
+    The post JetBrains told everyone to patch. It didn’t patch
+  last_post_date: "2026-08-28T20:51:48Z"
+  last_post_link: https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/
   last_post_categories:
-  - AI Agents
-  - AI Operations
-  - Model Context Protocol
+  - CI/CD
+  - Cloud Services
+  - Security
   last_post_language: ""
-  last_post_guid: f20f72e7fce88064afd3d8a9382d8bcf
+  last_post_guid: 54c64a2498956473ad8d98d7debf96bd
   score_criteria:
     cats: 0
     description: 0

@@ -11,7 +11,7 @@ params:
     https://adactio.com/articles/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -46,39 +46,27 @@ params:
   recommender:
   - https://simonbc.com/feed.xml
   categories:
-  - adaptation
-  - film
-  - greek
-  - homer
-  - interpretation
-  - legends
-  - myths
-  - narrative
-  - odyssey
-  - poem
-  - structure
+  - irish
+  - italy
+  - mandolins
+  - music
+  - travel
   relme: {}
-  last_post_title: Polytropus
+  last_post_title: Mandolino
   last_post_description: |-
-    Christopher Nolan’s adaptation of The Odyssey comes at just at the right time for me. I spent the last two years reading the Robert Fagles translation, finishing it just a few months ago.
+    I try to see my friends Dan and Sue as often as I can. The problem is that I live in Brighton and they live in Baltimore (that’s Baltimore, Maryland not Baltimore, West Cork).
 
-    When I
-  last_post_date: "2026-08-16T11:08:10Z"
-  last_post_link: https://adactio.com/journal/22717
+    We sometimes make it
+  last_post_date: "2026-08-27T14:37:07Z"
+  last_post_link: https://adactio.com/journal/22738
   last_post_categories:
-  - adaptation
-  - film
-  - greek
-  - homer
-  - interpretation
-  - legends
-  - myths
-  - narrative
-  - odyssey
-  - poem
-  - structure
+  - irish
+  - italy
+  - mandolins
+  - music
+  - travel
   last_post_language: ""
-  last_post_guid: 193b505c32bb6d8e13c502e799d6fb3e
+  last_post_guid: 9a6502a5e940543e9862078ada90c12b
   score_criteria:
     cats: 0
     description: 3

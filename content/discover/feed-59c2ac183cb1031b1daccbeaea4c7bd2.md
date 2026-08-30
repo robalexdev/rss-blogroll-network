@@ -18,25 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Bloomberg
-  - China
-  - Statistical Visualization
-  - solar
-  - tariff
+  - Artificial Intelligence
+  - Internet
+  - Pew Research
+  - writing
   relme: {}
-  last_post_title: Tariff avoidance in solar manufacturing from China
-  last_post_description: 'To avoid heavy solar tariffs, China allegedly moved manufacturing
-    to other countries. When…Tags: Bloomberg, China, solar, tariff'
-  last_post_date: "2026-08-17T10:04:59Z"
-  last_post_link: https://flowingdata.com/2026/08/17/tariff-avoidance-in-solar-manufacturing-from-china/
+  last_post_title: A third of new webpages written with AI
+  last_post_description: 'It is trivial to generate bodies of text on infinite topics,
+    so of…Tags: Internet, Pew Research, writing'
+  last_post_date: "2026-08-28T09:51:34Z"
+  last_post_link: https://flowingdata.com/2026/08/28/a-third-of-new-webpages-written-with-ai/
   last_post_categories:
-  - Bloomberg
-  - China
-  - Statistical Visualization
-  - solar
-  - tariff
+  - Artificial Intelligence
+  - Internet
+  - Pew Research
+  - writing
   last_post_language: ""
-  last_post_guid: 4c4f6645db8ba19519a6cdbd5fc63460
+  last_post_guid: 65292ef1f50776e5b1a542512d74b37c
   score_criteria:
     cats: 0
     description: 3

@@ -19,21 +19,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - linocuts
+  - dashboards
+  - eink
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: 'A post on the stance of r/Linocuts and Generative AI use. : r/Linocuts'
-  last_post_description: Nicely-worded post banning use of AI in r/Linocuts, r/printmaking
-    and r/lithography. "No one was instantaneously amazing at any aspect in art. Making
-    shit art is part of the process…"
-  last_post_date: "2026-08-06T16:32:38Z"
-  last_post_link: https://www.reddit.com/r/Linocuts/comments/1vduyu0/a_post_on_the_stance_of_rlinocuts_and_generative/
+  last_post_title: Tesserae · Self-hosted dashboards for e-ink displays
+  last_post_description: For possible future reference.
+  last_post_date: "2026-08-26T08:46:52Z"
+  last_post_link: https://tesserae.ink/
   last_post_categories:
-  - ai
-  - linocuts
+  - dashboards
+  - eink
   last_post_language: ""
-  last_post_guid: 49e270445bd9dfae69e792f4961a9326
+  last_post_guid: 5dfa841cb1c9f539885f196f676cf778
   score_criteria:
     cats: 0
     description: 3

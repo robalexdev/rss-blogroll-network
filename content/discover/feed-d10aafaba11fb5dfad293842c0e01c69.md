@@ -1,6 +1,6 @@
 ---
 title: Talospace
-date: "2026-08-15T00:56:51-07:00"
+date: "2026-08-20T20:07:58-07:00"
 description: The free computing frontier
 params:
   feedlink: https://www.talospace.com/feeds/posts/default
@@ -48,6 +48,7 @@ params:
   - YourHeadAsplode
   - aix
   relme:
+    https://draft.blogger.com/profile/17331846076856918359: true
     https://oldvcr.blogspot.com/: true
     https://tenfourfox.blogspot.com/: true
     https://www.blogger.com/profile/17331846076856918359: true

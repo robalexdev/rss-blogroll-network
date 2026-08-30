@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-08-17T13:25:47Z"
+date: "2026-08-28T18:02:23Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Stripe buys OpenRouter \U0001F500, Anthropic Model 2 \U0001F916,
-    zero knowledge proofs \U0001F9E0"
+  last_post_title: "Anthropic&#x27;s hardware standard \U0001F916, Meta&#x27;s Claude
+    spend \U0001F4B0, agent files \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-08-16T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-08-17
+  last_post_date: "2026-08-27T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-08-28
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb8d0d5e5765c6e26327e7e10693d5c6
+  last_post_guid: fe8afc317d2da71288951dd22bba73df
   score_criteria:
     cats: 0
     description: 0

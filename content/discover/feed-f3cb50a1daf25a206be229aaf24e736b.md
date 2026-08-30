@@ -24,15 +24,16 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 我做了一个口播短视频二创工具：VideoRemaker
+  last_post_title: 广府古城一日游
   last_post_description: |-
-    做自媒体的同学，有个口播视频的需求，希望能帮忙搞个工具出来。
-    以前没有 AI 的时候，我还真不敢接这活，现在有了
-  last_post_date: "2026-08-10T11:09:27+08:00"
-  last_post_link: https://liudon.com/posts/video-remaker-talking-head-video/
+    6月底给家里添置了辆车，还在磨合期。
+    平时爸妈开的不多，这次暑假回家，想着找一天带爸妈出门逛逛。
+    上午带老妈去医院做了个CT检查，检查完结果
+  last_post_date: "2026-08-27T13:59:14+08:00"
+  last_post_link: https://liudon.com/posts/guangfu-ancient-city-day-trip/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 206adef5f644a22ffff189ea8ed6eeae
+  last_post_guid: 423fddadcbf626cdbdd99fd105ff4bfc
   score_criteria:
     cats: 0
     description: 3

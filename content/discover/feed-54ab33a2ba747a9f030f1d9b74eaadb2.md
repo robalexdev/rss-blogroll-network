@@ -18,21 +18,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - birds
+  - food
   relme: {}
-  last_post_title: Dan's guide to common birds of Morocco
-  last_post_description: |-
-    Morocco has a nice set of birds - fun to encounter, for a European. Easy to get to know them even in the cities. Here's my hit list:
-
-
-    Moussier's redstart - This comes top of the list because
-    (a)
-  last_post_date: "2026-05-21T17:53:00+01:00"
-  last_post_link: http://mcld.co.uk/blog/2026/dans-guide-to-common-birds-of-morocco.html
+  last_post_title: 'Dutch-grown tea: Het Zuyderblad - tasting notes'
+  last_post_description: Tea grown in the Netherlands! It's real! Earlier this month
+    we visited Het Zuyderblad near Eindhoven. The tour was very informative (NB it
+    was in Dutch). We encountered live tea plants for the first
+  last_post_date: "2026-08-09T19:19:00+01:00"
+  last_post_link: http://mcld.co.uk/blog/2026/dutch-grown-tea-het-zuyderblad-tasting-notes.html
   last_post_categories:
-  - birds
+  - food
   last_post_language: ""
-  last_post_guid: 6117f3ce7095a3de8d5c68e45effdaf4
+  last_post_guid: bdcefe810e2a782b0d557d9915398b8e
   score_criteria:
     cats: 0
     description: 0

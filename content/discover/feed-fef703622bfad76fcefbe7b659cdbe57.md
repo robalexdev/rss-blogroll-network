@@ -12,7 +12,7 @@ params:
     https://artlung.com/links/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -43,27 +43,29 @@ params:
   recommender: []
   categories:
   - art
-  - comics
-  - film
   - general
+  - misc
+  - music
+  - videos
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Moving Water
-  last_post_description: Yesterday I went to the beach. Water is always in motion.
-    I have many opinions and intuitions about the motion of water. I go to the beach
-    when I am likely to be able to ride waves. I make myself
-  last_post_date: "2026-08-16T20:03:24Z"
-  last_post_link: https://artlung.com/blog/2026/08/16/moving-water/
+  last_post_title: Friday, variance
+  last_post_description: I will be showing at WOCA again this weekend. Saturday. A
+    selection of works made from found objects at the beach. I’ll post photos in the
+    future. But come on down to WOCA and I’ll be there. I
+  last_post_date: "2026-08-28T14:37:52Z"
+  last_post_link: https://artlung.com/blog/2026/08/28/friday-variance/
   last_post_categories:
   - art
-  - comics
-  - film
   - general
+  - misc
+  - music
+  - videos
   last_post_language: ""
-  last_post_guid: 09274216271f5a1e2cf455d63efe42b7
+  last_post_guid: b3807b908c54a85a9586c4d17d5252ab
   score_criteria:
     cats: 0
     description: 3

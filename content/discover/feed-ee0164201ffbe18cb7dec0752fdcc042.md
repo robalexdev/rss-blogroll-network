@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-08-05T14:47:47-07:00"
+date: "2026-08-28T08:13:29-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,7 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -158,6 +158,7 @@ params:
   - BLISSROCK
   - BLUE ORCHIDS
   - BLUE VELVET
+  - BLUES ROCK
   - BOARDS OF CANADA
   - BODYSNATCH
   - BOMB THE BASS
@@ -338,7 +339,9 @@ params:
   - FLYBOY IN THE BUTTERMILK
   - FOUL PLAY
   - FOURTH WORLD MUSIC
+  - FRANK BEARD
   - FRANK KOGAN
+  - FRANK OWEN
   - FRANKIE GOES TO HOLLYWOOD
   - FRANKIE ROSE
   - FREDRIC JAMESON
@@ -747,6 +750,7 @@ params:
   - RAP CLANS
   - RAP DYNASTIES
   - RAP SING
+  - RAUNCH
   - RAVE
   - RAVE 'N' ROLL
   - RECORD ARTWORK
@@ -936,6 +940,7 @@ params:
   - TODD RUNDGREN
   - TODD TERRY
   - TOM VERLAINE
+  - TOMMY VANCE
   - TONTO'S EXPANDING HEADBAND
   - TONY MARCUS
   - TOUCH & GO
@@ -1014,6 +1019,7 @@ params:
   - YOU'RE NOT ON THE LIST
   - YOUNG BLACK TEENAGERS
   - ZEITGEIST
+  - ZZ TOP
   - ananda project
   - apopalypse now
   - avant-funk
@@ -1084,6 +1090,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -1117,25 +1124,22 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: The Trap Internationale
+  last_post_title: RIP Frank Beard
   last_post_description: ""
-  last_post_date: "2026-08-02T12:23:37-07:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/08/the-trap-internationale.html
+  last_post_date: "2026-08-25T14:52:52-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/08/rip-frank-beard.html
   last_post_categories:
-  - AUTOTUNE
-  - COUNTER-REVOLUTION
-  - COUNTER-UTOPIANISM
-  - ERNST BLOCH
-  - INTERNATIONALIZATION OF TRAP
-  - MARK FISHER
-  - MIGOS
-  - THE FACE
-  - THE PRINCIPLE OF HOPE
-  - THE PRINCIPLE OF HOPELESSNESS
-  - TRAP
-  - TRAP INTERNATIONALE
+  - BLUES ROCK
+  - FRANK BEARD
+  - FRANK OWEN
+  - RAUNCH
+  - RIP
+  - TOMMY VANCE
+  - ZZ TOP
+  - boogie
+  - joe carducci
   last_post_language: ""
-  last_post_guid: 221a4d49b638dab77e8ac74d8ccbed54
+  last_post_guid: 578503bf251b00770f3db8bb7167e5cd
   score_criteria:
     cats: 5
     description: 3

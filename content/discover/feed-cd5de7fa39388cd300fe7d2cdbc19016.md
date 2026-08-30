@@ -34,15 +34,15 @@ params:
     https://mylastntwentyads.blogspot.com/: true
     https://rovingravingrabbi.blogspot.com/: true
     https://www.blogger.com/profile/10974259094860905139: true
-  last_post_title: The Irrelevancing of the Ad Industry. (And Us.)
-  last_post_description: Last week, you couldn’t spit without hitting about 97,000
-    posts on LinkedIn and the bought-and-paid-for trade press about last week’s most
-    important advertising topic. Or the most important topic
-  last_post_date: "2026-08-17T10:47:38Z"
-  last_post_link: https://adaged.blogspot.com/2026/08/the-irrelevancing-of-ad-industry-and-us.html
+  last_post_title: The Perfect Friday Post.
+  last_post_description: My wife, L, believes there is something called "the perfect
+    Friday post" and that I have it in me to write such a post.Though L has never
+    fully-articulated its particular construction, I think that
+  last_post_date: "2026-08-28T10:53:02Z"
+  last_post_link: https://adaged.blogspot.com/2026/08/the-perfect-friday-post.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2bee873cfe8d5a8cc58435764aad54c0
+  last_post_guid: 019ac5ddf5928f1a5a5b0eadb34380d9
   score_criteria:
     cats: 5
     description: 3

@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: On building scalable control planes
-  last_post_description: 'Zak van der Merwe has spent his entire career at AWS building
-    control planes. First for EC2 and now for DSQL. On the surface, the control plane
-    looks quite boring: it records what should exist and'
-  last_post_date: "2026-08-04T06:00:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: DuckDB and the changing physics of analytics
+  last_post_description: In this post, Andy Warfield explains how databases like DuckDB
+    are enabling a new way to build with data, why they matter right now, and how
+    they complement the work we’ve been doing in S3 (e.g.,
+  last_post_date: "2026-08-26T06:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7d797a06535a6c54e9cf00c140027935
+  last_post_guid: 070bab68a2820155e8511bff012403df
   score_criteria:
     cats: 0
     description: 3

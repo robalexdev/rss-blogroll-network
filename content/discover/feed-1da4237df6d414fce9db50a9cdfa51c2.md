@@ -18,17 +18,13 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 跟印度人接触几个月后我发现“印度赢学”没那么简单
-  last_post_description: !!binary |
-    6Lef5Y2w5bqm572R5Y+L5omT5Yeg5Liq5pyI5Lqk6YGT5ZCO77yM5Y+R546w5Y2w5bqm6L
-    Wi5a2m6L+c5q+U5oOz6LGh5aSN5p2C44CC57uP6L+H6K6k55yf56CU56m277yM5oiR6K6k
-    5Li65Y2w5bqm6LWi5a2m55qE5bqV5bGC5Luj56CB5bCx5piv4oCc5a6J5YiG4oCd5LqM5a
-    2X77yM5L2G5Lmf5q2j5piv55Sx5LqO4oCc5a6J5YiG4oCd5LqM5a2X5Zw=
-  last_post_date: "2026-08-16T18:30:00Z"
-  last_post_link: https://lawtee.com/article/india-win-narrative/
+  last_post_title: 越南拟将死刑罪名砍到只剩4个，到底发生了什么
+  last_post_description: 越南国会正在审议一份刑法修正案草案，提议把贩毒、强奸未成年人等罪名的死刑都废掉，全国保留死刑的罪名将从目前的10项锐减到4项。
+  last_post_date: "2026-08-27T22:22:55Z"
+  last_post_link: https://lawtee.com/article/vietnam-crime-law/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86a65733cdaa52594f6d6a9de69ceb8c
+  last_post_guid: 047a7a11c03022347c2a9b9407d896d9
   score_criteria:
     cats: 0
     description: 3

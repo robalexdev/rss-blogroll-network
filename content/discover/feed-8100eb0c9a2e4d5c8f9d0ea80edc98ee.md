@@ -10,7 +10,7 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -39,53 +39,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Blogs and Blogging
-  - Career
-  - Community
-  - Education
-  - Free
-  - Platforms
-  - Publishing
-  - automattic
-  - courseware
-  - creativity
-  - free software
-  - launches
-  - learning
-  - open source
-  - software
-  - students
-  - teaching
-  - wordpress
+  - My Glamorous Life
+  - Snow White
+  - cats
+  - glamorous
   relme:
     https://zeldman.com/: true
-  last_post_title: For students who make websites
-  last_post_description: |-
-    Meet WordPress.com Education, a new, free product for teachers and students.
-    The post For students who make websites appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2026-08-17T15:12:09Z"
-  last_post_link: https://zeldman.com/2026/08/17/for-students-who-make-websites/
+  last_post_title: Her Glamorous Life
+  last_post_description: Snow White—17 years old—didn’t come meowing for food when
+    I entered the kitchen at 6 a.m. An hour later I found her lying motionless on
+    the sofa. I stared until she moved, slightly, nestling
+  last_post_date: "2026-08-24T11:15:39Z"
+  last_post_link: https://zeldman.com/2026/08/24/her-glamorous-life/
   last_post_categories:
-  - Blogs and Blogging
-  - Career
-  - Community
-  - Education
-  - Free
-  - Platforms
-  - Publishing
-  - automattic
-  - courseware
-  - creativity
-  - free software
-  - launches
-  - learning
-  - open source
-  - software
-  - students
-  - teaching
-  - wordpress
+  - My Glamorous Life
+  - Snow White
+  - cats
+  - glamorous
   last_post_language: ""
-  last_post_guid: 70c1076be7e83f4dadcd2eb78c3fbd45
+  last_post_guid: 064c19df7c125645d8df97af84a6f9e1
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-08-16T21:08:49-07:00"
+date: "2026-08-25T20:43:03-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,7 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -2509,6 +2509,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -2542,30 +2543,18 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Of Instagrammatology (slight return) (the eternal returns of....)
-    (unOriginal Mix)
+  last_post_title: Before the Deejay Was Cool (slight return)
   last_post_description: ""
-  last_post_date: "2026-08-13T15:00:02-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/08/instagrammatology-slight-return-eternal.html
+  last_post_date: "2026-08-25T12:29:27-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/07/before-deejay-was-cool-slight-return.html
   last_post_categories:
-  - CHANGING SAME
-  - CHARLOTTE DE WITTE
-  - ETHEREAL DIVAS OF RAVE
-  - GABBER
-  - HAKKEN
-  - HAKKUH
-  - HYPERSTASIS
-  - INSTAGRAM
-  - INSTAGRAMMATOLOGY
-  - JUMPSTYLE
-  - LISA GERRARD
-  - NOUVEAU ACID
-  - ROBERT S
-  - TECHHOUSE
-  - UK GARAGE
-  - folk dance
+  - DISCO
+  - MOBILE DISCOTHEQUES
+  - THE PREHISTORY OF DISCO
+  - VOX SOUND LTD
+  - WHEN DEEJAYS WERE UNCOOL
   last_post_language: ""
-  last_post_guid: 7b2ba5e709c1cf02758cc0774273fa14
+  last_post_guid: 87caab5235fe6a1c0ad768a593d67fd7
   score_criteria:
     cats: 5
     description: 3

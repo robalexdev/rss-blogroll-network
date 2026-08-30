@@ -34,15 +34,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I Use Hermes
+  last_post_title: Introduction Finger
   last_post_description: |-
     Introduction
-    I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I can’t live without it. Today I’ll talk
-  last_post_date: "2026-08-11T11:26:00Z"
-  last_post_link: https://www.bboy.app/2026/08/11/how-i-use-hermes/
+    Today I stumbled on an article about the Finger protocol (Finger: the 1971 social network that never died, written by Andros Fenollosa at en.andros.dev) and learned there was a social
+  last_post_date: "2026-08-20T10:47:00Z"
+  last_post_link: https://www.bboy.app/2026/08/20/introduction-finger/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b9486c634012fe33c3ffae88c16ec520
+  last_post_guid: 54f740c5a610d40990b4b793be8dc8a7
   score_criteria:
     cats: 0
     description: 3

@@ -17,31 +17,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Aftermath
+  - Media
+  - War
   relme: {}
-  last_post_title: The Tragically Complex Life of General Tang Pao-huang
-  last_post_description: 'Behind every great literary epic, there are real, deeply
-    human ghosts. For the internationally acclaimed Eurasian author and physician
-    Han Suyin, that ghost was her first husband: General Tang Pao'
-  last_post_date: "2026-06-26T12:40:14Z"
-  last_post_link: https://www.chinaww2.com/2026/06/26/the-tragically-complex-life-of-general-tang-pao-huang/
+  last_post_title: When Chiang Kai-shek overlooked Tiananmen
+  last_post_description: Most are familiar with the portrait of Mao Zedong, the founder
+    of communist China, hanging over the entrance of Tiananmen, the Gate of Heavenly
+    Peace, in Beijing. It was not … Continue Reading →
+  last_post_date: "2026-08-24T10:06:04Z"
+  last_post_link: https://www.chinaww2.com/2026/08/24/when-chiang-kai-shek-overlooked-tiananmen/
   last_post_categories:
-  - Uncategorized
+  - Aftermath
+  - Media
+  - War
   last_post_language: ""
-  last_post_guid: 00615183a650e23995d4932bf27f20fb
+  last_post_guid: dbe4fd20b04acc65045f1f8e0a0a548c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

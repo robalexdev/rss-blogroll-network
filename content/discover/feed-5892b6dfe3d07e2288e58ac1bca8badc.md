@@ -29,40 +29,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence (AI)
-  - News
-  - Updates
-  - Weekend Edition
+  - Gutenberg
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'WordPress 7.1 arrives at WordCamp US, Abilities API for developers,
-    and a new theme for Gutenberg Times and more — Weekend Edition #373'
-  last_post_description: 'Hi there, Before you read any further, another security
-    updates needs your attention: WordPress 7.0.4 is out. Update now! ⚠️ You might
-    have noticed, that the Gutenberg Times website has a new'
-  last_post_date: "2026-08-15T04:10:00Z"
-  last_post_link: https://gutenbergtimes.com/wordpress-7-1-arrives-at-wordcamp-us-abilities-api-for-developers-and-a-new-theme-for-gutenberg-times-and-more-weekend-edition-373/
+  last_post_title: 'Gutenberg Changelog #134 – Gutenberg 23.7, 23.8, WordPress 7.1
+    and more'
+  last_post_description: In this 134th episode of the Gutenberg Changelog Podcast,
+    Birgit Pauli-Haack hosts Jessica Lyschik , senior developer at Greyd, to discuss
+    recent Gutenberg and WordPress developments. The
+  last_post_date: "2026-08-23T08:46:09Z"
+  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-134-gutenberg-23-7-23-8-wordpress-7-1/
   last_post_categories:
-  - Artificial Intelligence (AI)
-  - News
-  - Updates
-  - Weekend Edition
+  - Gutenberg
   last_post_language: ""
-  last_post_guid: 9407723cb79f86a81804177acf30c3dc
+  last_post_guid: 250276a8ea2b5b0cb6891fe42f435cf3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

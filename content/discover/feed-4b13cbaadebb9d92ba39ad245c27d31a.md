@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-08-17T05:14:45+01:00"
+date: "2026-08-28T19:35:29+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,7 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -640,6 +640,7 @@ params:
   - Chloe Zhao
   - Chocolate
   - Chocolate cake
+  - Chris Bauer
   - Chris Carter
   - Chris Chibnall
   - Chris Coghill
@@ -652,6 +653,7 @@ params:
   - Chris Pratt
   - Chris Sanders
   - Chris Squire
+  - Christian Convery
   - Christine McVie obituary
   - Christmas
   - Christmas Adverts
@@ -740,6 +742,7 @@ params:
   - Countdown
   - Court Martial
   - Covid 19
+  - Coyote vs Acme
   - Cozy Powell
   - Craig Fairbrass
   - Craig Gillespie
@@ -817,6 +820,7 @@ params:
   - Dating Amber
   - Dave Bautista
   - Dave Franco
+  - Dave Green
   - Dave Hill
   - Dave Robinson
   - David Bowie
@@ -846,6 +850,7 @@ params:
   - David Mitchell
   - David Neal
   - David Nicholls
+  - David Robert Mitchell
   - David Suchet
   - David Swift
   - David Tennant
@@ -1211,6 +1216,7 @@ params:
   - Everything Is Illuminated
   - Evita
   - Evita 2025 London
+  - Ewan McGregor
   - Exhibitions
   - Exposed
   - Extinction Corner
@@ -1627,6 +1633,7 @@ params:
   - Jacob Romero
   - Jacob Romero Gibson
   - Jacqueline King
+  - Jaeden Martell
   - Jake Curran
   - James Bond
   - James Cameron
@@ -1930,6 +1937,7 @@ params:
   - Lady Leshurr
   - Lalla Ward
   - Lamorne Morris
+  - Lana Condor
   - Larissa Wilson
   - Lars Mikkelsen
   - Lars Van Trier
@@ -2084,6 +2092,7 @@ params:
   - Maigret Night at the Crossroads review
   - Maimie McCoy
   - Maisie Williams
+  - Maisy Stella
   - Makalla McPherson
   - Maleficent
   - Man Like Me
@@ -2441,11 +2450,13 @@ params:
   - Ordeal
   - Origin of flying reindeer
   - Origins of Halloween
+  - Oscar Boysen
   - Oscar Isaac
   - Oscar Kennedy
   - Osokool
   - Otto Bathurst
   - Otto Farrant
+  - Our Hero Balthazar
   - Our Zoo
   - Our Zoo review
   - Outfit shops
@@ -2687,6 +2698,7 @@ params:
   - Richard Willis
   - Richard Willis Q&A
   - Richard the Third
+  - Ricky Camilleri
   - Ridley Scott
   - Rightmove advert
   - Rise of the Planet of the Apes
@@ -3262,6 +3274,7 @@ params:
   - The Empty Hearse
   - The Empty Planet
   - The Enchanted House
+  - The End of Oak Street
   - The Exiles
   - The Fantastic Four First Steps
   - The Feathered Serpent
@@ -3721,7 +3734,9 @@ params:
   - Wicked For Good
   - Wicked movie
   - Wicker basket
+  - Wile E Coyote
   - Will Ferrell
+  - Will Fort
   - Will Gluck
   - Will Keen
   - Will Smith
@@ -3852,18 +3867,20 @@ params:
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Top of the Pops 15th August 1991
+  last_post_title: Coyote vs. Acme review
   last_post_description: ""
-  last_post_date: "2026-08-16T18:55:40+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/08/top-of-pops-15th-august-1991.html
+  last_post_date: "2026-08-28T19:16:38+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/08/coyote-vs-acme-review.html
   last_post_categories:
-  - '#TOTP'
-  - Music
-  - TV
-  - Top of the Pops
-  - Top of the Pops 1981
+  - Coyote vs Acme
+  - Dave Green
+  - Film
+  - John Cena
+  - Lana Condor
+  - Wile E Coyote
+  - Will Fort
   last_post_language: ""
-  last_post_guid: 90e4a045d9df30540fc7e825af90b235
+  last_post_guid: 8b40fdfe8071997f33bd1f623b20dc85
   score_criteria:
     cats: 5
     description: 3

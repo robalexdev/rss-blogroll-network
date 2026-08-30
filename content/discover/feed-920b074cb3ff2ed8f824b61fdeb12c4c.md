@@ -16,37 +16,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI算力资金下游转移
-  - Musk传奇
-  - SpaceX股价分析
-  - SpaceX资本局
-  - SpaceX重资产数据中心
-  - Terafab与Starlink
-  - 航天，星辰大海
-  - 马斯克
-  - 马斯克AI战略
-  - 马斯克内部讲话
+  - 127.5%中国电动车关税
+  - Covered List机器人禁令
+  - Google的故事
+  - Waymo极氪合作
+  - 中国汽车小批量定制
+  - 新能源智能汽车
+  - 极氪CM1e
+  - 极氪MIX
+  - 极氪裸车无人出租车
+  - 谷歌购买极氪
   relme: {}
-  last_post_title: 马斯克内部讲话与SpaceX资本局
+  last_post_title: 谷歌为何买下中国月销4辆的极氪
   last_post_description: |-
-    马斯克内部讲话与SpaceX资本局
+    谷歌为何买下中国月销4辆的极氪
 
-    马斯克内部讲话为何由 SpaceX 官方完整公开，五年后 AI 占公司价值 99% 又该怎样理解？本文沿着 SpaceX
-  last_post_date: "2026-08-17T10:30:00Z"
-  last_post_link: https://lukefan.com/2026/08/17/musk-spacex-ai-capital-strategy/
+    谷歌旗下Waymo为何顶着127.5%的中国电动车关税，仍进口超过3
+  last_post_date: "2026-08-28T00:30:00Z"
+  last_post_link: https://lukefan.com/2026/08/28/waymo-zeekr-bare-car-custom-manufacturing/
   last_post_categories:
-  - AI算力资金下游转移
-  - Musk传奇
-  - SpaceX股价分析
-  - SpaceX资本局
-  - SpaceX重资产数据中心
-  - Terafab与Starlink
-  - 航天，星辰大海
-  - 马斯克
-  - 马斯克AI战略
-  - 马斯克内部讲话
+  - 127.5%中国电动车关税
+  - Covered List机器人禁令
+  - Google的故事
+  - Waymo极氪合作
+  - 中国汽车小批量定制
+  - 新能源智能汽车
+  - 极氪CM1e
+  - 极氪MIX
+  - 极氪裸车无人出租车
+  - 谷歌购买极氪
   last_post_language: ""
-  last_post_guid: 36b16b37ffc1a86ee2510f227c04f628
+  last_post_guid: 1e0b0e247a29e410bac7769e8ae993e4
   score_criteria:
     cats: 0
     description: 3

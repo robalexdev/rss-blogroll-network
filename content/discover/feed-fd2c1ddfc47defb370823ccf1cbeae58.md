@@ -1,6 +1,6 @@
 ---
 title: Timur’s blog
-date: "2026-01-01T19:39:31-06:00"
+date: "2026-08-27T14:32:05+02:00"
 description: Engineer who prefers quality over quantity.
 params:
   feedlink: https://timur.hu/feed.xml
@@ -22,18 +22,18 @@ params:
   - graphics
   - work
   relme: {}
-  last_post_title: A love song for Linux gamers with old GPUs (EOY 2025)
-  last_post_description: AMD GPUs are famous for working very well on Linux. However,
-    what about the very first GCN GPUs? Are they working as well as the new ones?
-    In this post, I’m going to summarize how well these old
-  last_post_date: "2025-12-31T18:00:00-06:00"
-  last_post_link: https://timur.hu/blog/2025/love-song-for-linux-gamers-with-old-gpus-eoy2025
+  last_post_title: The GCN outcast - Radeon HD 7870 XT
+  last_post_description: AMD is known to be Linux friendly and has had an open source
+    driver stack for their GPUs for more than a decade. However, there was one GPU
+    that has always been an outcast on Linux because it has
+  last_post_date: "2026-08-27T14:00:00+02:00"
+  last_post_link: https://timur.hu/blog/2026/the-gcn-outcast-radeon-hd-7870-xt
   last_post_categories:
   - freedesktop
   - graphics
   - work
   last_post_language: ""
-  last_post_guid: 934947572b4df4a77ffa75a188ca6539
+  last_post_guid: 2a383d5e0f618f5106f4cacb54a31105
   score_criteria:
     cats: 0
     description: 3

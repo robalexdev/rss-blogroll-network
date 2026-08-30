@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What’s up Python? __json__, __export__ and Astral stuff
-  last_post_description: July, 2026
-  last_post_date: "2026-08-06T16:48:43Z"
-  last_post_link: https://www.bitecode.dev/p/whats-up-python-__json__-__export__
+  last_post_title: Moving out of Substack and Linkedin
+  last_post_description: Notes on those platforms are underwhelming, and new.bitecode.dev
+    is live
+  last_post_date: "2026-08-25T14:13:15Z"
+  last_post_link: https://www.bitecode.dev/p/moving-out-of-substack-and-linkedin
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dc16dc3c8c2477ce94dfc8732a18104b
+  last_post_guid: b0d6c6d3e08d79b09c709068d6bb8fae
   score_criteria:
     cats: 0
     description: 3

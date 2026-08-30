@@ -15,21 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Links
+  - Belgium
+  - Brussels
   - Personal
-  - Weekly Notes
+  - Photos
+  - Vacation
   relme: {}
-  last_post_title: 'Week-and-a-half-ish-ly Notes: August 3–13, 2026'
-  last_post_description: A week and a half or so in the life of…. Thoughts, photos,
-    links, and miscellany from the past eleven days.
-  last_post_date: "2026-08-13T23:23:07Z"
-  last_post_link: https://michaelhans.com/eclecticism/2026/08/13/week-and-a-half-ish-ly-notes-august-3-13-2026/
+  last_post_title: 'Vacation Log Part 5: Brussels'
+  last_post_description: 'Part five of our summer adventures: Brussels, Belgium!'
+  last_post_date: "2026-08-27T15:45:26Z"
+  last_post_link: https://michaelhans.com/eclecticism/2026/08/27/vacation-log-part-5-brussels/
   last_post_categories:
-  - Links
+  - Belgium
+  - Brussels
   - Personal
-  - Weekly Notes
+  - Photos
+  - Vacation
   last_post_language: ""
-  last_post_guid: 61f644569be3b9460bdd1b8ffa8753fd
+  last_post_guid: 8be871e8de14c36f8459b761376d3d54
   score_criteria:
     cats: 0
     description: 3

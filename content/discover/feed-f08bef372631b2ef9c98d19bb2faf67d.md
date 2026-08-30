@@ -1,6 +1,6 @@
 ---
 title: 哎呦不错网
-date: "2026-08-17T09:37:00+08:00"
+date: "2026-08-28T10:27:00+08:00"
 description: 每天看一看总有新东西
 params:
   feedlink: https://aiyoubucuo.com/feed
@@ -22,7 +22,7 @@ params:
     SZ55qE6LWE5rqQ77yM5L2g5pyJ5aW955qE5Y+R546w54K55Ye76L+Z6YeM5b+r6YCf5oqV
     56i/77yM5oiW5YW25a6D5bu66K6u5Y+v5Zyo6L+Z6YeM5Zue5aSN5Y+N6aaI44CC5Zyo5L
     qS6IGU572R566X5rOV5o6o6YCB5pe25Luj77yM5oiR5Lus5q2j6Z2i5Lg=
-  last_post_date: "2026-08-17T09:37:00+08:00"
+  last_post_date: "2026-08-28T10:27:00+08:00"
   last_post_link: https://aiyoubucuo.com/202608.html
   last_post_categories: []
   last_post_language: ""

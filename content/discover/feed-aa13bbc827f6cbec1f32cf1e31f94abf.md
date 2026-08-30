@@ -1,6 +1,6 @@
 ---
 title: Action Figure Barbecue
-date: "2026-08-17T14:54:56-04:00"
+date: "2026-08-27T12:41:43-04:00"
 description: Layers of Action Figures, Pumpkins, and Masters of the Universe toys
   in a rich, chocolatey coating!
 params:

@@ -18,23 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - cybersecurity
-  - regulation and compliance
+  - machine learning
+  - mathematics
   - "\U0001F1EC\U0001F1E7"
   relme: {}
-  last_post_title: 'A CVE Is Not an Article 14 Report: What Actually Makes a Vulnerability
-    Reportable?'
-  last_post_description: A practical guide to deciding when a CVE, supplier advisory,
-    KEV entry, scanner result, or zero-day becomes a mandatory vulnerability report
-    under Article 14 of the Cyber Resilience Act.
-  last_post_date: "2026-08-16T22:00:00Z"
-  last_post_link: https://antomon.github.io/posts/a-cve-is-not-an-article-14-report-what-makes-a-vulnerability-reportable/
+  last_post_title: 'After Proof Abundance: Palomar and the New Infrastructure of Mathematical
+    Trust'
+  last_post_description: A technical and institutional analysis of Palomar as an emerging
+    verification layer for AI-assisted formal mathematics, and of the new scarcities
+    that appear when proofs become abundant.
+  last_post_date: "2026-08-22T22:00:00Z"
+  last_post_link: https://antomon.github.io/posts/after-proof-abundance-palomar-and-the-new-infrastructure-of-mathematical-trust/
   last_post_categories:
-  - cybersecurity
-  - regulation and compliance
+  - machine learning
+  - mathematics
   - "\U0001F1EC\U0001F1E7"
   last_post_language: ""
-  last_post_guid: 123f3e2f31234f8c4ebfedce10ecaf9d
+  last_post_guid: 63232d62e7991ba4181215a61f65f302
   score_criteria:
     cats: 0
     description: 3

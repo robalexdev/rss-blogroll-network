@@ -13,7 +13,7 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -31,7 +31,7 @@ params:
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
-  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+  - title: Information and Cyber Security RSS/Atom Feeds
     description: ""
     id: c2fcb03cb60f31fe2922a3fc129cd838
   recommended: []

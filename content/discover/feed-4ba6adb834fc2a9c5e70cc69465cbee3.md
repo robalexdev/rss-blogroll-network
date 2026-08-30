@@ -1,6 +1,6 @@
 ---
 title: a smol miscellanea
-date: "2026-08-17T10:51:56Z"
+date: "2026-08-28T22:58:23Z"
 description: 73% geek, the rest is girly bits
 params:
   feedlink: https://73pctgeek.com/feed/
@@ -10,7 +10,7 @@ params:
     https://73pctgeek.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -21,17 +21,19 @@ params:
   - Procreate
   relme:
     https://73pctgeek.com/: true
+    https://codeberg.org/73pctGeek: true
+    https://github.com/73pctGeek: true
     https://social.lol/@73pctGeek: true
-  last_post_title: "960"
-  last_post_description: Daily Drawing 960
-  last_post_date: "2026-08-17T10:48:45Z"
-  last_post_link: https://73pctgeek.com/960/
+  last_post_title: "971"
+  last_post_description: Daily Drawing 971
+  last_post_date: "2026-08-28T10:42:58Z"
+  last_post_link: https://73pctgeek.com/971/
   last_post_categories:
   - Daily Drawing
   - My Art
   - Procreate
   last_post_language: ""
-  last_post_guid: 92469d5ef831aec9157d42f5d987ef1b
+  last_post_guid: 601a0ee7d0ec410b1e4711a6a574372e
   score_criteria:
     cats: 0
     description: 3

@@ -6,13 +6,14 @@ params:
   feedlink: https://randsinrepose.com/feed/
   feedtype: rss
   feedid: d9078ee0fafa99d3e144cf12d8172eca
-  websites: {}
+  websites:
+    https://randsinrepose.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -30,18 +31,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - The Important Thing
+  - Rands
   relme: {}
-  last_post_title: The Promotion Paradox
-  last_post_description: In our 101st episode, we kick off a new era of episode titles
-    as your best engineer becomes the interim manager of their own team — delegation,
-    one-on-ones, the three-year rule, a visit from Chili
-  last_post_date: "2026-08-14T19:19:44Z"
-  last_post_link: https://randsinrepose.com/archives/the-promotion-paradox/
+  last_post_title: How Grumbles Helps
+  last_post_description: Having been robot-wrangling for a solid year now, I continue
+    to feel like they give me superpowers. However, like all of us, I have a front-row
+    seat to increasingly attractive garbage the robots are
+  last_post_date: "2026-08-19T15:26:15Z"
+  last_post_link: https://randsinrepose.com/archives/how-grumbles-helps/
   last_post_categories:
-  - The Important Thing
+  - Rands
   last_post_language: ""
-  last_post_guid: e6d36aaabb9870100562d5ea9873ab34
+  last_post_guid: 99fec2ae294a4e0a34685d5148097783
   score_criteria:
     cats: 0
     description: 3
@@ -53,8 +54,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 16
+    website: 2
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

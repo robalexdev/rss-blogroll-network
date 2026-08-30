@@ -16,20 +16,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 神經發炎
+  - GPV381
+  - 口腔微生態
+  - 牙周病疫苗
+  - 牙齦素
   - 醫療健康
-  - 黴菌毒素
   relme: {}
-  last_post_title: 睡越久還是越累？科學家警告：房間裡的「隱形殺手」正在吃掉你的深層睡眠！
-  last_post_description: 深度睡眠是身體的「超級修復期」。如果我們睡覺時一直處於淺眠狀態，身體不僅無法恢復疲勞，還會付出慘痛的健康代價
-  last_post_date: "2026-08-15T07:30:45Z"
-  last_post_link: https://pansci.asia/archives/381643
+  last_post_title: 打破洗牙無效循環！全球首款「牙周病疫苗」如何沒收細菌武器，保衛大腦與心血管？
+  last_post_description: !!binary |
+    6ZW35LmF5Lul5L6G77yM5oiR5YCR5bCN5LuY54mZ5ZGo55eF55qE5qiZ5rqW5rWB56iL5L
+    iN5aSW5LmO5piv5rSX54mZ44CB54mZ5qC55pW05bmz6KGT77yM5Zq06YeN5LiA6bue55Sa
+    6Iez6KaB57+755Oj5omL6KGT5oiW5ouU54mZ6YeN5bu644CC54S26ICM77yM6YCZ56iu5L
+    ul44CM54mp55CG5riF5Ym16IiH5YyW5a245q666I+M44CN54K65qC45b8=
+  last_post_date: "2026-08-27T07:31:15Z"
+  last_post_link: https://pansci.asia/archives/381628
   last_post_categories:
-  - 神經發炎
+  - GPV381
+  - 口腔微生態
+  - 牙周病疫苗
+  - 牙齦素
   - 醫療健康
-  - 黴菌毒素
   last_post_language: ""
-  last_post_guid: eed9e34d94866d66f7e52d613d04c7ae
+  last_post_guid: c4b990ba673fe5f45e9d7310b6c234cf
   score_criteria:
     cats: 0
     description: 3

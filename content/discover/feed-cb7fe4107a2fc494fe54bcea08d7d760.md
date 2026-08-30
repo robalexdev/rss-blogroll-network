@@ -1,6 +1,6 @@
 ---
 title: 拾月的博客
-date: "2026-08-09T07:53:00Z"
+date: "2026-08-27T13:05:00Z"
 description: PC互联网遗民
 params:
   feedlink: https://www.skyue.com/feed/
@@ -23,28 +23,30 @@ params:
   recommender: []
   categories:
   - 旅行
+  - 通讯
   relme: {}
-  last_post_title: 成都outing
-  last_post_description: 公司outing，7月30日（周四）至8月3日（周一）在成都玩耍。大体上，周四晚上至周五下午是集体活动，之后则是自由活动。
-  last_post_date: "2026-08-09T07:53:00Z"
-  last_post_link: https://www.skyue.com/26080915.html
+  last_post_title: 高加索三国旅行
+  last_post_description: 本文作者：南瓜2026年6月16日 — 6月30日 · 阿塞拜疆 / 格鲁吉亚 /
+  last_post_date: "2026-08-27T13:05:00Z"
+  last_post_link: https://www.skyue.com/26082721.html
   last_post_categories:
   - 旅行
+  - 通讯
   last_post_language: ""
-  last_post_guid: 47738ee2e822a31dbe8b0c353724c347
+  last_post_guid: 3c5c895f286044a802ca3c1fbffc6bc7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

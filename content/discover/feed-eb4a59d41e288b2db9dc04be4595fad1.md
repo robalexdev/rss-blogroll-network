@@ -24,15 +24,15 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: 2027 Hyundai IONIQ 5 prices revealed, starting at $35,000
-  last_post_description: Starting at $35,000, the 2027 Hyundai IONIQ 5 will remain
-    among the most affordable EVs in the US.
-  last_post_date: "2026-08-17T19:19:18Z"
-  last_post_link: https://electrek.co/2026/08/17/2027-hyundai-ioniq-5-prices-revealed-starting-35000/
+  last_post_title: Kia is recalling over 21,000 EV9 SUVs over a faulty airbag issue
+  last_post_description: Kia issued a recall affecting more than 21,000 EV9 SUVs because
+    the airbag system may fail to detect a child in the front seat.
+  last_post_date: "2026-08-28T21:06:03Z"
+  last_post_link: https://electrek.co/2026/08/28/kia-is-recalling-over-21000-ev9-suvs-over-a-faulty-airbag-issue/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: a396aef6d5e9959e96600ffd6b710f2a
+  last_post_guid: 94c0425db2599ef26e52f0a91274a8a2
   score_criteria:
     cats: 0
     description: 3

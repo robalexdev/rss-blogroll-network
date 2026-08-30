@@ -1,6 +1,6 @@
 ---
 title: Marek's homepage
-date: "2026-08-17T21:40:04+02:00"
+date: "2026-08-28T23:50:04+02:00"
 description: Dies ist mein persönlicher Blog. Hier findest du ganz unterschiedliche
   Dinge. Manche auf Deutsch, manche auf Englisch, manche dumm, manche witzung und
   mache informativ.

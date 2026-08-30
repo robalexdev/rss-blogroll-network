@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why is it all in the kernel?
-  last_post_description: "Sensational news! The Collatz conjecture \nhas just been
-    refuted. Ramana Kumar has proved its negation. \nThe proof has been checked in
-    Lean and double‑checked using the independent Nanoda type"
-  last_post_date: "2026-07-30T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/07/30/Collatz.html
+  last_post_title: How I came to write THAT paper with Leslie Lamport
+  last_post_description: "As people grow older, they grow wiser, or at least they
+    think they do. \nThen it becomes their duty to impart their accumulated wisdom
+    to the younger generation. \nLeslie Lamport made his name in"
+  last_post_date: "2026-08-21T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/08/21/Lamport.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b64889dbea52be286c2648a746e8fd91
+  last_post_guid: bba35865dfa8564aee03b273ba9d5816
   score_criteria:
     cats: 0
     description: 3

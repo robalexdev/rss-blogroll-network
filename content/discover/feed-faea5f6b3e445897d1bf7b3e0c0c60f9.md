@@ -11,7 +11,7 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,16 +34,16 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Beach Offsides
-  last_post_description: 'I have invented a new rule for swimming at the beach: When
-    swimming at the beach, you can never be the furthest from the shore. Frequently
-    asked questions (probably):'
-  last_post_date: "2026-08-05T15:12:36Z"
-  last_post_link: https://actsofvolition.com/2026/08/beach-offsides/
+  last_post_title: Retroactive Sentiment
+  last_post_description: If you enjoy some piece of media (a story, a song, an image),
+    and then find out it was created with AI, is it reasonable to have your enjoyment
+    impacted in retrospect? It sure is. John Gruber wrote
+  last_post_date: "2026-08-22T18:30:31Z"
+  last_post_link: https://actsofvolition.com/2026/08/retroactive-sentiment/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 85bfeca3ba0cfa25f57c5b7d552330ba
+  last_post_guid: 0118f89dbaf2e332e87c76845c1f8587
   score_criteria:
     cats: 0
     description: 0

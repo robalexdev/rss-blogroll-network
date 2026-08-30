@@ -19,22 +19,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#personal'
+  - '#meta'
   relme: {}
-  last_post_title: Degenerate Dissonance
+  last_post_title: Compatibility with pnppl.cc
   last_post_description: |-
-    #personal
-    Why does everyone care about work and money so much? It's so fucking boring. Surely I can find a better way...?
-
-    ...eventually?
-
-    People are getting... married? Married. What the hell? That
-  last_post_date: "2026-08-15T00:00:00Z"
-  last_post_link: http://pnppl.cc/2026-08-15_dissonance
+    #meta
+    If you encounter a compatibility issue, first try disabling CSS. If you still can't browse the site with CSS disabled, or the issue is with a feed reader, please hit the feedback button and let
+  last_post_date: "2026-08-21T09:57:16-04:00"
+  last_post_link: http://pnppl.cc/compat
   last_post_categories:
-  - '#personal'
+  - '#meta'
   last_post_language: ""
-  last_post_guid: 1d32a97fe9e87283723913615ef0a06f
+  last_post_guid: 5df9b3103789448ddc034518e5f2f448
   score_criteria:
     cats: 0
     description: 0

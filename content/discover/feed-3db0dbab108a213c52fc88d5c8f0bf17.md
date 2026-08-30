@@ -20,21 +20,31 @@ params:
   recommender: []
   categories:
   - Personal
-  - geocaching
-  - indieweb
+  - dns
+  - domain names
+  - internet
+  - nostalgia
+  - published on gemini
+  - technology
+  - vanity
   relme: {}
-  last_post_title: '[Article] Geocaching.com Can’t Count? (my 1000+ geocache finds!)'
-  last_post_description: After finding over a thousand geocaches, I wanted to check
-    my total with the largest of the geocache listing sites I use, and discovered
-    that you can't get the same answer twice from it even if you
-  last_post_date: "2026-08-14T15:35:00+01:00"
-  last_post_link: https://danq.me/2026/08/14/gccom-cant-count/
+  last_post_title: '[Article] Vanity Nameservers (White-Label DNS) in 2026'
+  last_post_description: Back in 2006, adding vanity nameservers to my personal domains
+    was just something I did as a matter of course, but - like most of the Internet
+    - I don't bother any more. Until today, when I switched
+  last_post_date: "2026-08-28T12:08:06+01:00"
+  last_post_link: https://danq.me/2026/08/28/white-label-dns/
   last_post_categories:
   - Personal
-  - geocaching
-  - indieweb
+  - dns
+  - domain names
+  - internet
+  - nostalgia
+  - published on gemini
+  - technology
+  - vanity
   last_post_language: ""
-  last_post_guid: 0ee309342a32bbd7069122907ab9d9e7
+  last_post_guid: 5a720422ad12db912024a425bce20392
   score_criteria:
     cats: 0
     description: 3

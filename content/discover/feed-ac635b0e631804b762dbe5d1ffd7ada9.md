@@ -1,6 +1,6 @@
 ---
 title: 熊猫不是猫
-date: "2026-08-16T15:54:27+08:00"
+date: "2026-08-26T12:01:47+08:00"
 description: 平平无奇小熊猫
 params:
   feedlink: https://panda995.xyz/feed/
@@ -20,17 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NAS又能干新活了！Docker部署So Novel，网页搜书、在线下载
-  last_post_description: !!binary |
-    TkFT44CB6ZSu55uY44CB6Lev55Sx5ZmowrfCt8K3wrfCt8K35bm06L275bCx6KaB5aSa5o
-    qY6IW+44CC54ix5oqY6IW+55qE54aK54yr77yM5LuK5aSp5Y+I57uZ5aSn5a625YiG5Lqr
-    5pyA6L+R5oqY6IW+55qE5YaF5a655LqG44CC5YWz5rOo5piv5a+55oiR5pyA5aSn55qE5p
-    Sv5oyB77yM6Zi/6YeM5ZiO5aSafuaAlemUmei/h+eGiueMq+eahOeyvuU=
-  last_post_date: "2026-08-16T15:54:27+08:00"
-  last_post_link: https://panda995.xyz/archives/1003/
+  last_post_title: 3D打印最后一道门槛，被AI拆了？氪金500元替大家试了试
+  last_post_description: 现在入手一台3D打印机，门槛已经比几年前低太多了。自动调平、厂商预设、自动支撑、远程监控，过去那些能把小白劝退的步骤，正在被一点点塞进“
+  last_post_date: "2026-08-26T12:01:47+08:00"
+  last_post_link: https://panda995.xyz/archives/1008/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7319674a764ed4cb2d930f1e6ea5412f
+  last_post_guid: 58050fe56b87831376e2f085cd9e09fd
   score_criteria:
     cats: 0
     description: 3

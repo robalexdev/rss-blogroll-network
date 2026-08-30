@@ -10,7 +10,7 @@ params:
     https://acesounderglass.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,6 +23,7 @@ params:
   recommender: []
   categories:
   - Uncategorized
+  - lw-recirculate
   relme: {}
   last_post_title: Why can’t we have nice things? Like, specifically?
   last_post_description: The world doesn’t need another op-ed on how building things
@@ -32,6 +33,7 @@ params:
   last_post_link: https://acesounderglass.com/2026/08/12/why-cant-we-have-nice-things-like-specifically/
   last_post_categories:
   - Uncategorized
+  - lw-recirculate
   last_post_language: ""
   last_post_guid: bf83c1da6f4c14e4873ecea77333c8fc
   score_criteria:
@@ -40,13 +42,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

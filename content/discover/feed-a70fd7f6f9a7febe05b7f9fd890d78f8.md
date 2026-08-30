@@ -1,6 +1,6 @@
 ---
 title: Nate Meyvis
-date: "2026-08-17T08:07:09Z"
+date: "2026-08-28T14:10:56Z"
 description: |-
   Pulpit! Canst thou not make a pulpit, by simply inverting the nearest tub...[^1]
 
@@ -13,7 +13,7 @@ params:
     https://www.natemeyvis.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites
@@ -25,20 +25,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - encapsulation
-  - sociology of software
+  - generative AI
+  - lifestyle
+  - philosophy
   - software
   relme: {}
-  last_post_title: Some failures of encapsulation
+  last_post_title: AI skepticism in philosophy
   last_post_description: ""
-  last_post_date: "2026-08-14T19:56:56Z"
-  last_post_link: https://www.natemeyvis.com/some-failures-of-encapsulation/
+  last_post_date: "2026-08-28T14:10:48Z"
+  last_post_link: https://www.natemeyvis.com/ai-skepticism-in-philosophy/
   last_post_categories:
-  - encapsulation
-  - sociology of software
+  - generative AI
+  - lifestyle
+  - philosophy
   - software
   last_post_language: ""
-  last_post_guid: b803a2dbb781b445ec9f9fea3c948586
+  last_post_guid: d60fc9642b9531e72b55bf43cca463eb
   score_criteria:
     cats: 0
     description: 3

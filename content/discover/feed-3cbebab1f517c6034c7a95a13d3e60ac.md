@@ -15,32 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - BT
-  - BT下载
-  - BT客户端
-  - BitTorrent
-  - rqbit
+  - IM系统
+  - armada
+  - e2ee
+  - nostr
+  - 即时通讯
+  - 去中心化
   - 学无止境
-  - 流式传输
+  - 端到端加密
+  - 聊天应用
   relme: {}
-  last_post_title: rqbit：用Rust打造的高性能、可流式播放的BitTorrent客户端
-  last_post_description: !!binary |
-    5YmN5Yeg5aSp6YCa6L+H5LiA5Liq5YG254S255qE5pa55byP5LqG6Kej5Yiw6L+Z5qy+Ql
-    TlrqLmiLfnq6/vvIzor5XnlKjkuoblh6DlpKnvvIzmiJHlj6rmg7Por7Tov5nkuKrkuIvo
-    vb3pgJ/luqblkozkuIrkvKDpgJ/luqbmmK/nnJ/nmoTniZvmibnvvIzlhaznvZFCVOi9u+
-    i9u+advuadvui3kea7oTJHYnBz77yM6L+Y5pSv5oyB5rWB5byP5Lyg6L4=
-  last_post_date: "2026-08-17T07:37:17Z"
-  last_post_link: https://lala.im/10374.html
+  last_post_title: Armada：基于Nostr的开源端到端加密聊天应用
+  last_post_description: 本文仅记录Armada的部署过程，有关具体的技术细节（如Nostr、Concord），这里只简单介绍一下，如果你对Armada背后的这些技术感兴趣，可以Google或者AI探索
+  last_post_date: "2026-08-21T09:10:22Z"
+  last_post_link: https://lala.im/10388.html
   last_post_categories:
-  - BT
-  - BT下载
-  - BT客户端
-  - BitTorrent
-  - rqbit
+  - IM系统
+  - armada
+  - e2ee
+  - nostr
+  - 即时通讯
+  - 去中心化
   - 学无止境
-  - 流式传输
+  - 端到端加密
+  - 聊天应用
   last_post_language: ""
-  last_post_guid: 56049c61484a1dc3a6810c349141d689
+  last_post_guid: ad07f1ec1ffc1519431a4d7bec6a5cd9
   score_criteria:
     cats: 0
     description: 3

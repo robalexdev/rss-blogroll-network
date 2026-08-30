@@ -22,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Take your meeting context to new places
-  last_post_description: Granola's new Model Context Protocol (MCP) integration connects
-    your meeting notes to your AI app of choice.
-  last_post_date: "2026-08-17T07:53:00Z"
-  last_post_link: https://bit.ly/side-gra2
+  last_post_title: Software for one
+  last_post_description: Robin Sloan wished for a HyperCard that could build a family
+    app in a day. That world showed up.
+  last_post_date: "2026-08-28T05:33:07Z"
+  last_post_link: https://www.ajwaxman.com/writing/software-for-one
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4eb7b77bde088237f557a508f4b6ccc9
+  last_post_guid: d0c004bb25b83b1f11bd9000f3ce90f6
   score_criteria:
     cats: 0
     description: 3

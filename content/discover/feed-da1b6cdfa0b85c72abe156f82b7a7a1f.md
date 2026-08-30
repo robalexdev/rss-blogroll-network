@@ -18,7 +18,10 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Digital Minimalism
+  - Interesting Reads
+  - Productivity
   relme: {}
   last_post_title: 'Interesting Reads: On Beethoven and the Gifts of Silence'
   last_post_description: I’ve read On Beethoven and the Gifts of Silence by Cal Newport
@@ -26,7 +29,10 @@ params:
     and unplugging from the...
   last_post_date: "2025-05-18T21:31:11Z"
   last_post_link: https://cassiel.pika.page/posts/interesting-reads-on-beethoven-and-the-gifts-of-silence
-  last_post_categories: []
+  last_post_categories:
+  - Digital Minimalism
+  - Interesting Reads
+  - Productivity
   last_post_language: ""
   last_post_guid: 3fb92544bcdc2d7ff6bb006623af73c7
   score_criteria:
@@ -35,13 +41,13 @@ params:
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -19,23 +19,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Auto-research with codex: How I achieved a 232x Faster Kernel
-    over baseline with Codex in GPU Mode''s qr_v2 problem'
-  last_post_description: |-
-    Table of Contents
-    Intro
-    Contest in short
-    Problem intro
-
-
-    Why this problem is auto-research-able
-    Learning Enough to Ask Better Questions
-    (Optional) Math for QR decomposition: Householder
-  last_post_date: "2026-07-08T14:35:00Z"
-  last_post_link: https://sankalp.bearblog.dev/autoresearch/
+  last_post_title: kpop videos that go insanely hard
+  last_post_description: "Kpop\n  \nThis blog is my list of K-pop music videos that
+    go really hard.\n\n\n\n    \n      Now playing"
+  last_post_date: "2026-08-27T07:43:00Z"
+  last_post_link: https://sankalp.bearblog.dev/kpop-videos-that-go-insanely-hard/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb9994481cfdfb7a2947946f3e563036
+  last_post_guid: 935218638f0a08f899239d4bbea172bb
   score_criteria:
     cats: 0
     description: 3

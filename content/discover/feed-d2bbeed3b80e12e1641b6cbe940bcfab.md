@@ -19,16 +19,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'COLEwebdev.org: Adding AI-Powered SEO and Speed Audits to a No-Build
-    React App'
-  last_post_description: How COLEwebdev.org's July–August 2026 update adds AI SEO
-    audits that ingest live Google Analytics and Search Console data before generating
-    recommendations, and a platform-agnostic AI speed audit
-  last_post_date: "2026-08-11T00:00:00Z"
-  last_post_link: https://josefresco.com/blog/colewebdev-ai-seo-speed-audits.html
+  last_post_title: 'JF Hosting Command: A Unified CLI for Managing WordPress Sites
+    Across WP Engine and PressWP'
+  last_post_description: How jf-hosting-command wraps the WP Engine and PressWP REST
+    APIs behind a single command surface — jf-host sites list pulls installs from
+    both platforms into one table, jf-host cache flush detects
+  last_post_date: "2026-08-25T00:00:00Z"
+  last_post_link: https://josefresco.com/blog/jf-hosting-command.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a40f4243d9be561fddd6db3ce30a94f
+  last_post_guid: 95c18e228192e8f0722495ccacaf5eab
   score_criteria:
     cats: 0
     description: 3

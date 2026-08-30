@@ -26,10 +26,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 我也曾为避让电动车而摔个狗啃屎，但我还是觉得自己享福了
-  last_post_description: 刷到了所谓“好心扶起骑电车倒地老大娘，反被起诉索赔22万”的新闻。想起一桩陈年旧事。我骑电动车，走在通勤必经之路上。路段中有一截，有工地
-  last_post_date: "2026-02-21T23:36:12+08:00"
-  last_post_link: https://xingbianren.cn/post/325.html
+  last_post_title: 与牛牛的碎碎念之趁机荐书《平面国》
+  last_post_description: 跟牛牛说话特别费token。牛牛是我闺女，正是最天马行空，奇思妙想的年龄。我想原因可能有两个：一是小孩子的语言组织形式跟大人不太一样，大人讲
+  last_post_date: "2026-08-20T09:38:55+08:00"
+  last_post_link: https://xingbianren.cn/post/326.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2

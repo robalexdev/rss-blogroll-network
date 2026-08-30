@@ -20,19 +20,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Criminal Justice
+  - Uncategorized
   relme: {}
-  last_post_title: Parents are being held responsible for their kids' crimes under
-    new laws
-  last_post_description: 'When young children and teenagers get into trouble, the
-    question often comes quickly: Where were their parents? That question is again
-    shaping public policy in communities across the country, as'
-  last_post_date: "2026-08-17T18:00:12Z"
-  last_post_link: https://missouriindependent.com/2026/08/17/repub/parents-are-being-held-responsible-for-their-kids-crimes-under-new-laws/
+  last_post_title: Democrats aim to emulate Republicans in building state power
+  last_post_description: Progressive activist Gaby Goldstein thinks her opponents
+    are brilliant. Despite her deeply held liberal politics, she admires the work
+    of conservative groups that for decades have built influence in
+  last_post_date: "2026-08-28T17:00:05Z"
+  last_post_link: https://missouriindependent.com/2026/08/28/repub/democrats-aim-to-emulate-republicans-in-building-state-power/
   last_post_categories:
-  - Criminal Justice
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: c754980677ab8ec0b7359de2e82958d2
+  last_post_guid: d403a33bcba3a34ed918d70302d55293
   score_criteria:
     cats: 0
     description: 3

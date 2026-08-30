@@ -15,29 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 生活
+  - 学习
+  - 杂谈
   relme: {}
-  last_post_title: 264 海关收缴的货物都去哪儿了？
-  last_post_description: 前几天有人询问了一个问题：听说海关因为种种原因可能会收缴一些东西，海关的东西能不能够买下来？ 经过和朋友的交流 […]
-  last_post_date: "2026-08-11T15:32:22Z"
-  last_post_link: http://ddw2019.com/264-%E6%B5%B7%E5%85%B3%E6%94%B6%E7%BC%B4%E7%9A%84%E8%B4%A7%E7%89%A9%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86
+  last_post_title: 266 博客价值被认可，后续要在知乎更新一些内容
+  last_post_description: 昨天收到了一封邮件，邮件内容如下。 突然觉得，自己写博客还是有人能够看见的呀。 加了右下角的企业微信之后，今天 […]
+  last_post_date: "2026-08-26T14:56:52Z"
+  last_post_link: http://ddw2019.com/266
   last_post_categories:
-  - 生活
+  - 学习
+  - 杂谈
   last_post_language: ""
-  last_post_guid: 26a71f10b4b5fc4e48f3a08aba369e41
+  last_post_guid: 6921d0beffb55bb3a8ae7feb381858cf
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

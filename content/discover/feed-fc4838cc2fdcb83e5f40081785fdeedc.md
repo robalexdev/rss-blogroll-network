@@ -1,6 +1,6 @@
 ---
 title: The Sock-Monkey As Alone
-date: "2026-08-13T06:24:16-07:00"
+date: "2026-08-24T03:20:58-07:00"
 description: This is a sandbox for society's damage.
 params:
   feedlink: https://m1a1-thesockmonkey.blogspot.com/atom.xml
@@ -22,13 +22,13 @@ params:
   - metal
   - poetry
   relme: {}
-  last_post_title: Primeval maximum (the first four or five pages.)
+  last_post_title: Grim metal bedlam and compatibility with Mork Borg.
   last_post_description: ""
-  last_post_date: "2026-07-03T21:22:25-07:00"
-  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/07/primeval-maximum-first-four-or-five.html
+  last_post_date: "2026-08-24T03:20:58-07:00"
+  last_post_link: https://m1a1-thesockmonkey.blogspot.com/2026/08/grim-metal-bedlam-and-compatibility.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dd4e2664a25465fece2ba4268ad1ae3b
+  last_post_guid: 549b786dffffda63bc39a5d2fe812f99
   score_criteria:
     cats: 5
     description: 3

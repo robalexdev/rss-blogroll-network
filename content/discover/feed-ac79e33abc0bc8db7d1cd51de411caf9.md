@@ -20,14 +20,14 @@ params:
   categories:
   - 博客
   relme: {}
-  last_post_title: 为什么不晒娃
-  last_post_description: 为了提高弟弟（6岁）吃饭速度，每天晚上我都和他单独在一个小桌子上吃饭，监督他吃饭不要走神。在这段属于我俩的独处 […]
-  last_post_date: "2026-08-15T03:53:30Z"
-  last_post_link: https://happyxiao.com/kids/
+  last_post_title: 鼓励是一种超级能力
+  last_post_description: JR 的桌上放着一张卡片，卡片上是初衷英语老师写给 JR 的一段鼓励的话。尽管这段话里的每一个字，作为父亲的我 […]
+  last_post_date: "2026-08-28T00:58:09Z"
+  last_post_link: https://happyxiao.com/encourage/
   last_post_categories:
   - 博客
   last_post_language: ""
-  last_post_guid: 91a1a9bb493feacf06fea0ae6f6f03ec
+  last_post_guid: 2d7d23e1054ccd4f377b3d33037d34cf
   score_criteria:
     cats: 0
     description: 3

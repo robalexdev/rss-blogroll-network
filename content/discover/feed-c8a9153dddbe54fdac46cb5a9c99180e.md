@@ -16,13 +16,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NPR on West Africa
-  last_post_description: |-
-    Kasoa is a snapshot of how unplanned urbanization is unfolding in the region. Its population growth is far outpacing the creation of new roads and other public development.
-
-    “In Kasoa, things are
-  last_post_date: "2026-08-16T08:54:24-07:00"
-  last_post_link: https://www.onfocus.com/2026/08/9106/apps-npr-org-on?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
+  last_post_title: Talking Points Memo on The Supreme Court Thinks...
+  last_post_description: “The President is only conceivably harmed by an injunction
+    barring executive action if that court order is preventing him from doing something the
+    law permits him to do,” she wrote. Given that
+  last_post_date: "2026-08-26T21:27:38-07:00"
+  last_post_link: https://www.onfocus.com/2026/08/9107/the-supreme-court-thinks-you-are-stupid?owa_source=onfocus&owa_medium=RSS&owa_campaign=feed
   last_post_categories: []
   last_post_language: ""
   last_post_guid: b3a16c6315fb48f7a57a469b2929cac8

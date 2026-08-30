@@ -15,32 +15,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 摩根大通 Chase
-  - 酒店综述
+  - AmEx 信用卡
+  - 无境外手续费
+  - 美国运通 American Express (AmEx)
+  - 航空卡
+  - 达美航空 Delta Air Lines (DL)
   relme: {}
-  last_post_title: 一个 Chase The Edit 酒店地图【2026.8 更新：不再允许 back to back 的方式拿两次 Credit】
-  last_post_description: 【2026.8 更新】有人发现 Chase 对这个一年两次的 $250 The Edit credit 做了个很小但有点重要的限制：不再允许
-    back to back
-  last_post_date: "2026-08-17T14:00:27Z"
-  last_post_link: https://www.uscreditcardguide.com/yige-chase-the-edit-jiudianditu/
+  last_post_title: AmEx Delta SkyMiles Gold 信用卡【2026.8 更新：AS HIGH AS 80k+$250 开卡奖励！】
+  last_post_description: Delta SkyMiles® Gold Card from American Express 信用卡简介 【2026.8
+    更新】新的开卡奖励是 AS HIGH AS 80k+$250！史高了！截止日期 11/04/2026。 【2026.7
+  last_post_date: "2026-08-28T14:03:30Z"
+  last_post_link: https://www.uscreditcardguide.com/amex-gold-delta-skymiles/
   last_post_categories:
-  - 摩根大通 Chase
-  - 酒店综述
+  - AmEx 信用卡
+  - 无境外手续费
+  - 美国运通 American Express (AmEx)
+  - 航空卡
+  - 达美航空 Delta Air Lines (DL)
   last_post_language: ""
-  last_post_guid: d671986f3c49a5ab65d60cbe955ca003
+  last_post_guid: 85ee14b6002853d5b469780483824463
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 博客大联盟：一个给独立博客的收录与聚合站
-  last_post_description: 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。
-  last_post_date: "2026-07-11T12:39:00Z"
-  last_post_link: https://u.sb/boke/
+  last_post_title: 烧饼论坛正式开业
+  last_post_description: 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。
+  last_post_date: "2026-08-21T00:27:59Z"
+  last_post_link: https://u.sb/sb-sb/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5f35c4d3d86726f6d49a0c0953af7263
+  last_post_guid: 6afe57fd1ffb531226ae182bc71a210d
   score_criteria:
     cats: 0
     description: 3

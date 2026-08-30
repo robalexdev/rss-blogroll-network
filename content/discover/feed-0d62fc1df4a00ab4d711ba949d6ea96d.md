@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-08-17T02:10:46Z"
+date: "2026-08-24T22:31:36Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,24 +15,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 儿子
-  - 女儿
-  - 父范学堂
+  - 觉醒
+  - 读书
+  - 读书笔记
+  - 金融学
+  - 阅读
   relme: {}
-  last_post_title: 父范学堂 2630 动脑还是动气
-  last_post_description: !!binary |
-    6Kej5Yaz5aeQ5byf6Ze055qE5LiA5qyh5Yay56qBCgoK6Kej5Yaz5aeQ5byf6Ze055qE5L
-    iA5qyh5Yay56qBCgrmmKjlpKnvvIzlhL/lrZDlkozlpbPlhL/kupLnm7jnlJ/msJTvvIzp
-    g73op4nlvpflr7nmlrnlv4XpobvlkJHoh6rlt7HpgZPmrYnjgIIKCuaIkeWIhuWIq+WSjO
-    S7luS7rOiwiOivne+8jOeUqOaPkOmXrueahOaWueW8j+iuqeS7luS7rOc=
-  last_post_date: "2026-07-21T10:50:20Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/07/21/NewDaddy-conflicts/
+  last_post_title: 2026 年七月 读基层生计，理财育儿 7 本
+  last_post_description: |-
+    引子
+
+
+    引子
+
+    七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后
+  last_post_date: "2026-08-24T22:08:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/08/24/reading_summary/
   last_post_categories:
-  - 儿子
-  - 女儿
-  - 父范学堂
+  - 觉醒
+  - 读书
+  - 读书笔记
+  - 金融学
+  - 阅读
   last_post_language: ""
-  last_post_guid: 8c967f1845a6b8b81f329c1d118889ef
+  last_post_guid: d084c23973fafec38c0cf5714ff0d2e4
   score_criteria:
     cats: 0
     description: 0

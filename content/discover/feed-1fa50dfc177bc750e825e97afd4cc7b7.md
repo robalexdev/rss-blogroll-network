@@ -1,6 +1,6 @@
 ---
 title: 1klb
-date: "2026-06-26T09:08:53Z"
+date: "2026-08-28T08:24:00Z"
 description: ""
 params:
   feedlink: https://1klb.com/blog.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F4EF Five books I enjoyed, Spring/Summer 2025"
+  last_post_title: "\U0001F4EF Twenty books I enjoyed: Patrick O&#39;Brian edition"
   last_post_description: ""
-  last_post_date: "2026-01-02T00:00:00Z"
-  last_post_link: https://1klb.com/www.1klb.com/posts/2026/01/02/five_books_i_enjoyed_spring_summer_2025/
+  last_post_date: "2026-08-26T00:00:00Z"
+  last_post_link: https://1klb.com/www.1klb.com/posts/2026/08/26/twenty_books_i_enjoyed_patrick_o_brian_edition/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3363bb0393efd66c6f828ac436b2f1d0
+  last_post_guid: 464522490e65461cdf2e3f502615750d
   score_criteria:
     cats: 0
     description: 0

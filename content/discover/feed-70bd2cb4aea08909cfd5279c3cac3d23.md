@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Committing to creativity
-  last_post_description: The fine line between commitment and motivation
-  last_post_date: "2026-08-05T12:04:00Z"
-  last_post_link: https://herman.bearblog.dev/creativity/
+  last_post_title: Extending life perception
+  last_post_description: How to make life feel long and rich
+  last_post_date: "2026-08-25T11:59:44Z"
+  last_post_link: https://herman.bearblog.dev/extending-life-perception/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa2cbde0ae152d45f7222440a8e0f651
+  last_post_guid: 4d725f29ab6d01b7a0e1f6005b67d156
   score_criteria:
     cats: 0
     description: 3

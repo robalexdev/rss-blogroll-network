@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-08-14T03:54:47Z"
+date: "2026-08-18T07:21:27Z"
 description: 杰哥的{运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,27 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ampere
   - cpu
   - hardware
-  - performance
-  - skylark
-  - uarch-review
+  - loongarch
+  - loongson
   relme: {}
-  last_post_title: Ampere Skylark 微架构评测
-  last_post_description: Ampere Skylark 微架构评测¶ 背景¶ Ampere eMAG 采用的是 Ampere Skylark
-    微架构，虽然是 2018 年的处理器了，但也顺带评测一下。其前身是 AppliedMicro 的 X-Gene 3
-  last_post_date: "2026-07-07T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2026/07/07/ampere-skylark/
+  last_post_title: 谈谈龙芯的 LoongLeak 漏洞
+  last_post_description: 谈谈龙芯的 LoongLeak 漏洞¶ 背景¶ 近日，龙芯龙架构 CPU LA464/LA664 微架构部分步进的漏洞
+    LoongLeak 正式披露，龙芯官方也发布了
+  last_post_date: "2026-08-18T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2026/08/18/loongleak-loongbleed/
   last_post_categories:
-  - ampere
   - cpu
   - hardware
-  - performance
-  - skylark
-  - uarch-review
+  - loongarch
+  - loongson
   last_post_language: ""
-  last_post_guid: 8c24e252ccef16ee2a93d3ac8b4d6800
+  last_post_guid: 06dd56f2f072ad3d94e4af1df9718eb3
   score_criteria:
     cats: 0
     description: 3

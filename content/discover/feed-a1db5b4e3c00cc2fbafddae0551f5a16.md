@@ -26,11 +26,18 @@ params:
 
 
 
-      Markdown SVG upgrades simonwillison.net
+      How to find your focus psyche.co
 
 
-      Qwen 3.8 27B is excellent, but it defaults to wildly overthinking
-  last_post_date: "2026-08-17T00:00:00Z"
+
+
+
+
+      Breaking Claude Code Opus 5 Auto Mode simonwillison.net
+
+
+      What I read
+  last_post_date: "2026-08-28T00:00:00Z"
   last_post_link: https://aaron.com.es/reader/
   last_post_categories: []
   last_post_language: ""

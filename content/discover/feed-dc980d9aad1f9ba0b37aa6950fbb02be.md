@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Monday session
-  last_post_description: Monday session
-  last_post_date: "2026-08-17T19:53:47Z"
-  last_post_link: https://adactio.com/notes/22719
+  last_post_title: Met up with brainbox Steven Pemberton for coffee and a chat.
+  last_post_description: Met up with brainbox Steven Pemberton for coffee and a chat.
+  last_post_date: "2026-08-28T17:17:07Z"
+  last_post_link: https://adactio.com/notes/22740
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: acfbee09147659c5cfcf2c4e7bb5979c
+  last_post_guid: a6d6f8c090942e2db3f59d596f93a3f6
   score_criteria:
     cats: 0
     description: 3

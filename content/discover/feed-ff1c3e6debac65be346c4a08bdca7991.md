@@ -1,6 +1,6 @@
 ---
 title: Matte Shot - a tribute to Golden Era &amp; Traditional Special Effects
-date: "2026-08-17T20:00:03+12:00"
+date: "2026-08-29T06:05:36+12:00"
 description: |-
   This blog is intended as a tribute to the ingenuity of the traditional matte painter where movie magic was created entirely by hand.
 
@@ -446,28 +446,26 @@ params:
   - special photographic effects
   - wide screen
   relme: {}
-  last_post_title: 'MATTE & EFFECTS FILMS CELEBRATED:  Part Twelve'
+  last_post_title: 'MATTE & EFFECTS FILMS CELEBRATED: Part Thirteen'
   last_post_description: ""
-  last_post_date: "2026-04-04T15:20:10+13:00"
-  last_post_link: https://nzpetesmatteshot.blogspot.com/2026/04/matte-effects-films-celebrated-part.html
+  last_post_date: "2026-08-21T16:52:51+12:00"
+  last_post_link: https://nzpetesmatteshot.blogspot.com/2026/08/matte-effects-films-celebrated-part.html
   last_post_categories:
-  - Apogee
-  - Byron Haskin
-  - Cliff Culley
-  - Don Siegel
-  - Douglas Trumbull
-  - Entertainment Effects Group
-  - Gene Roddenberry
-  - Jim Danforth
-  - John Dykstra
-  - Magicam
-  - Neil McGuire
-  - Paul Detlefsen
-  - Robert Abel
-  - Robert Swarthe
-  - Steve Begg
+  - A.Arnold Gillespie
+  - Alan Maley
+  - Bob Cuff
+  - Clarence Slifer
+  - Emil Kosa
+  - Hans Koenekamp
+  - Jack Cosgrove
+  - Jack Shaw
+  - Jan Domela
+  - John P.Fulton
+  - Lee LeBlanc
+  - Louis Litchtenfield
+  - Warren Newcombe
   last_post_language: ""
-  last_post_guid: fa1213f00e6c5891e7abbd541fa1408a
+  last_post_guid: bc8332276a42d6eebbaa330e5fe09afe
   score_criteria:
     cats: 5
     description: 3

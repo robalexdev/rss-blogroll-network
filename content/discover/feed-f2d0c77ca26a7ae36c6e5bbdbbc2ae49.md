@@ -34,7 +34,7 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
-  - title: Feeds of Federico Maggi from Inoreader [https://www.inoreader.com]
+  - title: Information and Cyber Security RSS/Atom Feeds
     description: ""
     id: c2fcb03cb60f31fe2922a3fc129cd838
   - title: RSS subscriptions for stu@alwaystwisted.com
@@ -47,28 +47,29 @@ params:
   recommender:
   - https://josh.blog/feed
   categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub Copilot app
-  - awesome-copilot
-  - canvases
-  - developer productivity
+  - Maintainers
+  - Open Source
+  - OpenClaw
+  - Security
+  - maintainers
+  - open source
   relme: {}
-  last_post_title: How canvases make agentic workflows visible, steerable, and cost-efficient
+  last_post_title: OpenClaw went viral. Meet the maintainers building and securing
+    it.
   last_post_description: |-
-    Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.
-    The post How canvases make
-  last_post_date: "2026-08-17T16:00:00Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/
+    OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.
+    The post OpenClaw went viral. Meet the
+  last_post_date: "2026-08-27T16:00:00Z"
+  last_post_link: https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/
   last_post_categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub Copilot app
-  - awesome-copilot
-  - canvases
-  - developer productivity
+  - Maintainers
+  - Open Source
+  - OpenClaw
+  - Security
+  - maintainers
+  - open source
   last_post_language: ""
-  last_post_guid: 47ec675ff68a3cec9f28b30b15b94211
+  last_post_guid: 514dd74823fe7d7fc8aecf9c0b4acb5e
   score_criteria:
     cats: 0
     description: 3

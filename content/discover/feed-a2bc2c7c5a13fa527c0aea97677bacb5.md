@@ -1,6 +1,6 @@
 ---
 title: F2R Articles | En
-date: "2026-08-02T21:59:30Z"
+date: "2026-08-19T08:10:15Z"
 description: 'All articles wrote by F2R: PHP, methodology, web, architecture, development,
   programming, and so.'
 params:
@@ -21,16 +21,16 @@ params:
   categories:
   - en
   relme: {}
-  last_post_title: I Stopped Running Several Agents
-  last_post_description: Waiting isn't wasting. I was filling every second of generation
-    time by opening one more agent, until I became the single point every one of their
-    questions had to pass through. What it cost me, and
-  last_post_date: "2026-08-02T00:00:00Z"
-  last_post_link: https://f2r.github.io/en/stopped-running-several-agents.html
+  last_post_title: Those Who Removed Code Review Are Right
+  last_post_description: Developers showed up on my MR with an AI doing the review
+    in their place. The ones who removed code review altogether are almost more honest,
+    because they saw it had lost the race. What remains is
+  last_post_date: "2026-08-17T00:00:00Z"
+  last_post_link: https://f2r.github.io/en/removed-code-review.html
   last_post_categories:
   - en
   last_post_language: ""
-  last_post_guid: 2a25f1923a6a668338dcb3b187b326df
+  last_post_guid: 8645685d72a0a742f188ad632e89dd26
   score_criteria:
     cats: 0
     description: 3

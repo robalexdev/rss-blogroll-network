@@ -1,6 +1,6 @@
 ---
 title: Stefan-Marr.de
-date: "2026-08-17T14:34:05+02:00"
+date: "2026-08-21T14:34:58+02:00"
 description: personal and research notes
 params:
   feedlink: https://stefan-marr.de/feed/
@@ -19,27 +19,25 @@ params:
   recommender: []
   categories:
   - Benchmarking
-  - Debugging
-  - Metacompilation
+  - Methodology
   - Research
-  - compilation
-  - garbage collection
+  - Science
+  - summer school
   relme: {}
-  last_post_title: 'SSW@ECOOP’26: On Debugging, Benchmarking and (Meta-)Compilation'
-  last_post_description: At this year’s ECOOP, the Institute for System Software will
-    be attending with the almost complete team and we’re going to present on a variety
-    of topics. Come and talk to us at ICOOOLPS, MPLR,
-  last_post_date: "2026-06-16T09:47:00+02:00"
-  last_post_link: https://stefan-marr.de/2026/06/ssw-at-ecoop-compilers-gc-debugging-meta-compilation/
+  last_post_title: Pitfalls of Benchmarking on Modern Systems
+  last_post_description: Modern computer systems are quite fascinating. They are highly
+    complex, run a lot of software, and their performance characteristics are hard
+    or impossible to predict.
+  last_post_date: "2026-08-20T10:37:47+02:00"
+  last_post_link: https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/
   last_post_categories:
   - Benchmarking
-  - Debugging
-  - Metacompilation
+  - Methodology
   - Research
-  - compilation
-  - garbage collection
+  - Science
+  - summer school
   last_post_language: ""
-  last_post_guid: d719fb8de075f0779e8e11232be93f40
+  last_post_guid: 2d986f2339282681593701f9ba055c86
   score_criteria:
     cats: 0
     description: 3

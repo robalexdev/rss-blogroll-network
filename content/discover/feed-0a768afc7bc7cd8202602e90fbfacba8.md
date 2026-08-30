@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-08-12T16:01:57+01:00"
+date: "2026-08-27T20:33:27+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://culturalsnow.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -473,29 +473,28 @@ params:
     https://culturalsnow.blogspot.com/: true
     https://lookinginfinite.blogspot.com/: true
     https://www.blogger.com/profile/14681067872556519250: true
-  last_post_title: About Anish Kapoor
+  last_post_title: About dead famous people
   last_post_description: ""
-  last_post_date: "2026-08-12T16:01:57+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-anish-kapoor.html
+  last_post_date: "2026-08-27T20:33:27+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-dead-famous-people.html
   last_post_categories:
-  - art
-  - photography
-  - social media
+  - celebrity
+  - death
   last_post_language: ""
-  last_post_guid: 9a8c05cb3deb659af051800e3efda64a
+  last_post_guid: fac54abe0163b4e45450f9d1e9ce704e
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

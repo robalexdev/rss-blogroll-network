@@ -19,13 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI 新手村：让大模型学会操作浏览器
-  last_post_description: 传统的 LLM 只是一个文本语言模型，只能以 chat bot
-  last_post_date: "2026-08-07T14:57:11+08:00"
-  last_post_link: https://data4fun.cc/blog/2026/08/post-20260807/
+  last_post_title: 要不要把大模型搬回本地
+  last_post_description: 用过云端大模型的人，大概都撞过两堵墙：一是账单——哪怕用最便宜的
+  last_post_date: "2026-08-21T22:27:42+08:00"
+  last_post_link: https://data4fun.cc/blog/2026/08/post-20260821/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e245649ae567449ccf8bf706383f86df
+  last_post_guid: 1087134066b32f9214c9dccc2f2c70fe
   score_criteria:
     cats: 0
     description: 3

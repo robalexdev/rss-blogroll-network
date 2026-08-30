@@ -1,6 +1,6 @@
 ---
 title: Piscatorial Quagswagging
-date: "2026-08-17T05:07:56+01:00"
+date: "2026-08-27T22:01:29+01:00"
 description: ""
 params:
   feedlink: https://calamitymn.blogspot.com/atom.xml
@@ -506,17 +506,19 @@ params:
   - zanderman roll over
   - zed
   relme: {}
-  last_post_title: Warwickshire Avon - Madhouses and Mega Dinghies
+  last_post_title: The River Severn - Moles and Melee's
   last_post_description: ""
-  last_post_date: "2026-08-14T18:29:38+01:00"
-  last_post_link: https://calamitymn.blogspot.com/2026/08/warwickshire-avon-madhouses-and-mega.html
+  last_post_date: "2026-08-18T11:16:02+01:00"
+  last_post_link: https://calamitymn.blogspot.com/2026/08/the-river-severn-moles-and-melees.html
   last_post_categories:
-  - Bread
+  - Barbel
   - Chub
-  - Warwickshire Avon
-  - fishing
+  - River Severn
+  - Roach
+  - dace
+  - weir pool
   last_post_language: ""
-  last_post_guid: 9a678b88531bd051dc861279af6857cd
+  last_post_guid: f50d7cac1e58e2142386f1f8a1e20265
   score_criteria:
     cats: 5
     description: 0

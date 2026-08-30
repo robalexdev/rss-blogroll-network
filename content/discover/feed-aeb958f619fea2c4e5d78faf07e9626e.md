@@ -17,23 +17,23 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - arm64
+  - cloud
   - debian
   - floss
-  - gaming
+  - virtualization
   relme: {}
-  last_post_title: Opensource gaming with nouveau nvidia driver
-  last_post_description: Games you can play with the nouveau 3d driver on Linux.
-  last_post_date: "2026-07-24T15:31:24Z"
-  last_post_link: https://00formicapunk00.wordpress.com/2026/07/24/opensource-gaming-with-nouveau-nvidia-driver/
+  last_post_title: Create a development VM using Debian cloud images
+  last_post_description: ""
+  last_post_date: "2026-08-22T08:39:33Z"
+  last_post_link: https://00formicapunk00.wordpress.com/2026/08/22/create-a-development-vm-using-debian-cloud-images/
   last_post_categories:
   - Uncategorized
-  - arm64
+  - cloud
   - debian
   - floss
-  - gaming
+  - virtualization
   last_post_language: ""
-  last_post_guid: 76a29c3965249958dd1d7f94124a5496
+  last_post_guid: 4ad9c9fa9b1640607ba2b14843d19795
   score_criteria:
     cats: 0
     description: 3

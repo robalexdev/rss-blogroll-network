@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-08-16T15:08:30Z"
+date: "2026-08-23T14:47:18Z"
 description: What hurts more, the pain of hard work or the pain of regret?
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,29 +22,33 @@ params:
   recommended: []
   recommender: []
   categories:
+  - FreeToken
   - LLM
+  - llama.cpp
   relme: {}
-  last_post_title: 让chatgpt来给我讲解下deepseek harness的插件体系
-  last_post_description: 最近deepseek发布了harness，试用了一下结合deepseek-4
-  last_post_date: "2026-08-16T15:08:30Z"
-  last_post_link: https://nicksxs.me/2026/08/16/%E8%AE%A9chatgpt%E6%9D%A5%E7%BB%99%E6%88%91%E8%AE%B2%E8%A7%A3%E4%B8%8Bdeepseek-harness%E7%9A%84%E6%8F%92%E4%BB%B6%E4%BD%93%E7%B3%BB/
+  last_post_title: 8GB显存如何跑35B：深入理解FreeToken的专家缓存与CPU-GPU协同
+  last_post_description: ""
+  last_post_date: "2026-08-23T14:47:18Z"
+  last_post_link: https://nicksxs.me/2026/08/23/8GB%E6%98%BE%E5%AD%98%E5%A6%82%E4%BD%95%E8%B7%9135B-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3FreeToken%E7%9A%84%E4%B8%93%E5%AE%B6%E7%BC%93%E5%AD%98%E4%B8%8ECPU-GPU%E5%8D%8F%E5%90%8C/
   last_post_categories:
+  - FreeToken
   - LLM
+  - llama.cpp
   last_post_language: ""
-  last_post_guid: c5d8fe0b434c6238a3e5a46f6c7d80c4
+  last_post_guid: 938936c2004f5acbe60deac3eae2c45f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

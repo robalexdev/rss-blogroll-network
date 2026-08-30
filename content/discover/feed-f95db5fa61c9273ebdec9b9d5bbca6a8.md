@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-08-17T17:41:00Z"
+date: "2026-08-28T16:38:06Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -38,32 +38,34 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - package-managers
-  - weekly
+  - maintainers
+  - open-source
+  - satire
   relme: {}
-  last_post_title: 'This Week in Package Management: 15 August 2026'
-  last_post_description: Releases, advisories, and articles from across the package
-    management world
-  last_post_date: "2026-08-15T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/08/15/this-week-in-package-management.html
+  last_post_title: 'Now Hiring: Senior Open Source Maintainer'
+  last_post_description: A rare opportunity to make a real impact in a fast-paced,
+    high-visibility role.
+  last_post_date: "2026-08-28T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html
   last_post_categories:
-  - package-managers
-  - weekly
+  - maintainers
+  - open-source
+  - satire
   last_post_language: ""
-  last_post_guid: e482539eaca05274c3747accd0f19368
+  last_post_guid: a87d413ffb3731725ee90dc8ddd907db
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

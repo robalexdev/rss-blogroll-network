@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2026-08-16T00:00:00Z"
+date: "2026-08-21T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -12,7 +12,7 @@ params:
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: A list of sites Ethan likes
@@ -55,13 +55,13 @@ params:
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes 44
+  last_post_title: Media Recap 2025
   last_post_description: ""
-  last_post_date: "2026-08-16T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2026/weeknotes-44/
+  last_post_date: "2026-08-21T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2026/media-recap-2025/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3aa3fef506e03e5e2aeece6717053508
+  last_post_guid: 45361f8609a0639b432663a10ec9c5b9
   score_criteria:
     cats: 0
     description: 3

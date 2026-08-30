@@ -18,17 +18,16 @@ params:
   categories:
   - notes
   relme: {}
-  last_post_title: '2026-08-17 11:29: I regularly get marketing emails off the back
-    of this site. "Here''s a free license...'
-  last_post_description: |-
-    I regularly get marketing emails off the back of this site. "Here's a free license for our tool" or "can we put a link to our service in a post?" At least back then they were slightly human.
-    Now all
-  last_post_date: "2026-08-17T11:29:00+01:00"
-  last_post_link: https://kevquirk.com/2026-08-17-1129
+  last_post_title: "2026-08-27 12:35: This is what rainy days were made for. \U0001F327️\U0001F436"
+  last_post_description: "This is what rainy days were made for. \U0001F327️\U0001F436\n
+    \                       \n                        Thanks for reading this post
+    via RSS. RSS is ace, and so are you. ❤️\n                       "
+  last_post_date: "2026-08-27T12:35:00+01:00"
+  last_post_link: https://kevquirk.com/2026-08-27-1235
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 4850cb6b47e0bd1e40c6b5f8223faacb
+  last_post_guid: 4249ee848c5ad38dd8c3975c2c9c8cd6
   score_criteria:
     cats: 0
     description: 3

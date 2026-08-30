@@ -64,13 +64,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Accretionary Arc
+  last_post_title: Launchpad
   last_post_description: ""
-  last_post_date: "2026-08-14T04:00:00Z"
-  last_post_link: https://xkcd.com/3285/
+  last_post_date: "2026-08-28T04:00:00Z"
+  last_post_link: https://xkcd.com/3291/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08e88e718af5195ff2d9f91a70f21806
+  last_post_guid: a5b954054a16f6f676cc4efb7c2622aa
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-08-17T10:40:22-07:00"
+date: "2026-08-28T02:43:11-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,7 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -498,6 +498,8 @@ params:
   - Loop
   - Love From Lead City
   - MAGAZINE
+  - MAGAZINES THAT DIED
+  - MAGAZINES THAT LIVE
   - MAGIC BAND
   - MAGMA
   - MAIN
@@ -703,6 +705,7 @@ params:
   - ROCK & ROLL CONFIDENTIAL REPORT
   - ROCK AND ROLL
   - ROCK AS SHOWBIZ
+  - ROCK BOOKS
   - ROCK CRITICISM
   - ROCK DISCOURSE
   - ROCK FOULIES
@@ -854,6 +857,7 @@ params:
   - THE FALL
   - THE FIRST ROCK BOOKS
   - THE FOUR TOPS
+  - THE FUTURE FOR MUSIC CRITICISM
   - THE GAP BAND
   - THE GRAIN OF THE VOICE
   - THE HISSING OF SUMMER LAWNS
@@ -861,6 +865,7 @@ params:
   - THE JAM
   - THE LEGENDARY STUD BROTHERS
   - THE MEKONS
+  - THE MUSIC PRESS
   - THE MUSICAL HEAD
   - THE ONLY ONES
   - THE PIECES THAT CHANGED MY LIFE
@@ -1017,6 +1022,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -1050,28 +1056,19 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: RIP Dave Marsh
+  last_post_title: Magazines that died
   last_post_description: ""
-  last_post_date: "2026-08-16T10:15:41-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/08/rip-dave-marsh.html
+  last_post_date: "2026-08-27T11:44:52-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/08/magazines-that-died.html
   last_post_categories:
-  - AMERICA
-  - ANGLOPHOBIA
-  - DAVE MARSH
-  - DAVID BOWIE
-  - DEVO
-  - MTV
-  - NEW POP
-  - NEW ROMANTICS
-  - RIP
-  - ROCK & ROLL CONFIDENTIAL REPORT
-  - ROCK CRITICISM
-  - ROXY MUSIC
-  - SECOND BRITISH INVASION
-  - THE WHO
-  - VIDEO
+  - MAGAZINES THAT DIED
+  - MAGAZINES THAT LIVE
+  - MUSIC JOURNALISM
+  - ROCK BOOKS
+  - THE FUTURE FOR MUSIC CRITICISM
+  - THE MUSIC PRESS
   last_post_language: ""
-  last_post_guid: 2f2cc27b77a2d9143ac52929bdaea19d
+  last_post_guid: 7cd7faaa98240b989871bd3f9961268c
   score_criteria:
     cats: 5
     description: 3

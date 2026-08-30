@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-08-17T15:00:00+02:00"
+date: "2026-08-27T00:00:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,14 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The smell of AI
-  last_post_description: When any piece of art, no matter the format, has the slightest
-    smell of AI, I'm out. It doesn't even matter if any AI was actually used.
-  last_post_date: "2026-08-17T15:00:00+02:00"
-  last_post_link: https://overkill.wtf/posts/the-smell-of-ai
+  last_post_title: Brightly Shining by Ingvild H. Rishøi
+  last_post_description: "Book title: Brightly Shining\n            Author: Ingvild
+    H. Rishøi\n            Rating: 3.5/5\n        \n        \n        A short, sad
+    book with beautiful prose.        \n                Where to buy"
+  last_post_date: "2026-08-27T00:00:00+02:00"
+  last_post_link: https://overkill.wtf/reading/brightly-shining-ingvild-h-rishoi
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11071a75d58a940202f7e31ab49d892f
+  last_post_guid: efc076516ca3806b660bd0df662d8559
   score_criteria:
     cats: 0
     description: 3

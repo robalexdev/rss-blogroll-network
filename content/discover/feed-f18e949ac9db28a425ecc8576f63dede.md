@@ -1,6 +1,6 @@
 ---
 title: Laura's Miscellaneous Musings
-date: "2026-08-16T22:42:07-07:00"
+date: "2026-08-28T08:35:04-07:00"
 description: ""
 params:
   feedlink: https://laurasmiscmusings.blogspot.com/atom.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Off to the 2026 D23 Expo!
+  last_post_title: TCM Announces 2027 Festival Dates
   last_post_description: ""
-  last_post_date: "2026-08-13T22:05:18-07:00"
-  last_post_link: https://laurasmiscmusings.blogspot.com/2026/08/off-to-2026-d23-expo.html
+  last_post_date: "2026-08-27T09:42:42-07:00"
+  last_post_link: https://laurasmiscmusings.blogspot.com/2026/08/tcm-announces-2027-festival-dates.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a42e5dcb2ce422db54e81feb3a02262d
+  last_post_guid: 51a31d7f9d083cf5234d5dc83996211b
   score_criteria:
     cats: 0
     description: 0

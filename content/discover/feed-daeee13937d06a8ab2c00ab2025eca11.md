@@ -11,7 +11,7 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,16 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'x86 Addressing Modes, Part 2: Indirect, Indexed, and Offset-based
-    Modes'
-  last_post_description: In this final part on addressing modes, we learn about indirect,
-    indexed and offset-based addressing modes along with some interesting examples
-    and exercises.
-  last_post_date: "2026-08-09T15:58:52Z"
-  last_post_link: https://blog.codingconfessions.com/p/x86-addressing-modes-part-2-indirect
+  last_post_title: 'Demand Paging: What Happens When Linux Handles a Page Fault'
+  last_post_description: Understand what happens when you allocate memory versus when
+    you actually access it, what a VMA is, and how the Linux kernel uses VMAs to handle
+    page faults.
+  last_post_date: "2026-08-23T14:22:13Z"
+  last_post_link: https://blog.codingconfessions.com/p/demand-paging-what-happens-when-linux
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6d9a28ab6f98eb074af84443ae86fbe2
+  last_post_guid: caa8d51b1f9cce7798a291d7f19665a2
   score_criteria:
     cats: 0
     description: 3

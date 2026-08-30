@@ -10,7 +10,7 @@ params:
     https://countingfromzero.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,24 +22,40 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Scholarship
+  - Analysis
+  - Faculty
+  - Habits
+  - Musings
+  - Stories
   - Teaching
-  - Uncategorized
-  - cambridge
+  - Whitman College
+  - Work-life balance
+  - education
+  - kings-college
+  - life
+  - travel
   relme: {}
-  last_post_title: First impressions of life as a Fellow at King’s
-  last_post_description: Similar to my prior faculty position at Whitman, my position
-    as a College Teaching Officer at King’s is donor-supported. The difference is
-    that Whitman’s CS positions are supported through
-  last_post_date: "2026-07-26T12:48:55Z"
-  last_post_link: https://countingfromzero.blog/2026/07/26/first-impressions-of-life-as-a-fellow-at-kings/
+  last_post_title: 'Time use: King’s College vs Whitman'
+  last_post_description: It’s been several weeks since I promised a blog post on time
+    use. Somehow I overcommitted myself with scholarly projects and travel – in fact,
+    I drafted this post at 8 pm British Summer Time, in
+  last_post_date: "2026-08-28T02:54:40Z"
+  last_post_link: https://countingfromzero.blog/2026/08/27/time-use-kings-college-vs-whitman/
   last_post_categories:
-  - Scholarship
+  - Analysis
+  - Faculty
+  - Habits
+  - Musings
+  - Stories
   - Teaching
-  - Uncategorized
-  - cambridge
+  - Whitman College
+  - Work-life balance
+  - education
+  - kings-college
+  - life
+  - travel
   last_post_language: ""
-  last_post_guid: 72df06eb17ec48e04cb741ac7a5fd211
+  last_post_guid: bb17b6f651d3423c427adb34c1908b8c
   score_criteria:
     cats: 0
     description: 0

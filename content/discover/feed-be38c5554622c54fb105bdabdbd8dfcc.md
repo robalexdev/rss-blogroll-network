@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-08-09T02:56:43Z"
+date: "2026-08-20T12:13:19Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,17 +28,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 算法与数据结构
+  - 桌面游戏
   relme: {}
-  last_post_title: 用地标改进 A star 寻路的启发函数
-  last_post_description: 今天读到 redblobgames 写的关于如何改进寻路算法中启发式函数的文章 ，感觉很棒。我们可以用很简单的方法改进
-    A star
-  last_post_date: "2026-08-09T02:56:43Z"
-  last_post_link: https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html
+  last_post_title: 银河竞逐的乐趣和策略
+  last_post_description: 银河竞逐是我最喜欢的桌游之一。我曾经为它写过两篇 blog ：银河竞逐的设计 及 如何教人玩银河竞逐 。
+  last_post_date: "2026-08-20T12:13:19Z"
+  last_post_link: https://blog.codingnow.com/2026/08/rftg_strategy.html
   last_post_categories:
-  - 算法与数据结构
+  - 桌面游戏
   last_post_language: ""
-  last_post_guid: 59be95566106693346a283ca0b9ac2f1
+  last_post_guid: a60a84825c79692ba8330edfb8711c49
   score_criteria:
     cats: 0
     description: 3

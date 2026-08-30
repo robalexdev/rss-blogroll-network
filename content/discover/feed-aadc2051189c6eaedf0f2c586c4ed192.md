@@ -10,7 +10,7 @@ params:
     https://lowpolybrainblasts.pika.page/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,7 +21,8 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - reflection
   relme: {}
   last_post_title: Feeling For A Pulse
   last_post_description: Resuming a regular practice of public reflection With the
@@ -29,7 +30,8 @@ params:
     act of public reflection. This differs from...
   last_post_date: "2026-07-20T14:53:41Z"
   last_post_link: https://lowpolybrainblasts.pika.page/posts/feeling-for-a-pulse
-  last_post_categories: []
+  last_post_categories:
+  - reflection
   last_post_language: ""
   last_post_guid: 9cae1e9f8f8ae4348c98bb28594f5589
   score_criteria:
@@ -38,13 +40,13 @@ params:
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,7 +10,7 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -40,15 +40,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Birthday celebration
+  last_post_title: Wind turbines
   last_post_description: |-
-    This weekend, we celebrate.
-    Zoya is turning six years old, and this Saturday we have planned a small party to celebrate. There will be a few kids, a few grownups, good food, a space-themed cake,
-  last_post_date: "2026-07-21T17:35:00-04:00"
-  last_post_link: https://www.inthemargins.ca/sixth-birthday-celebration
+    Just as you enter Chatham-Kent, they rise into the sky. They are majestic.
+    The first part of the drive to Essex County from London along the 401 is soporific. In most cases, the highway is empty, the
+  last_post_date: "2026-08-27T16:27:00-04:00"
+  last_post_link: https://www.inthemargins.ca/wind-turbines
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 07585e24b6b3194119fad588fb77ab5a
+  last_post_guid: 2010306f4609ba06938c4f83d171ba39
   score_criteria:
     cats: 0
     description: 3

@@ -35,17 +35,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Notes from July 2026
+  last_post_title: Vim's UserGettingBored autocmd
   last_post_description: |-
-    My favorite read this month: a detailed history of Arabic text rendering, which includes (truly) ancient history.
-
-
-    “In the near future, AI-powered surveillance systems will be able to track
-  last_post_date: "2026-07-31T06:00:00Z"
-  last_post_link: https://evanhahn.com/notes-from-july-2026/
+    In short: Vim has a joke autocmd called UserGettingBored that doesn’t do anything.
+    Vim’s automatic commands feature, usually shortened to “autocmd”, lets you run code when various events
+  last_post_date: "2026-08-22T00:00:00Z"
+  last_post_link: https://evanhahn.com/usergettingbored-vim/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54e1cb702a509f10239de040a1136494
+  last_post_guid: cddd2867029b6d913446c92abf320975
   score_criteria:
     cats: 0
     description: 3

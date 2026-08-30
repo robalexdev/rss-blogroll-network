@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: GitHub Has an Availability Problem. Is It Time to Look Elsewhere?
-  last_post_description: |-
-    GitHub has been having enough outages lately that people are starting to ask whether it makes sense to look elsewhere.
-    Ever since Github got acquired by Microsoft it started getting bloated and
-  last_post_date: "2026-08-17T16:25:06Z"
-  last_post_link: https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/
+  last_post_title: Correcting confusion
+  last_post_description: Donald Trump doesn't seem to understand that the Great Lakes,
+    with the exception of Superior, were named for native tribes and that those names
+    are fixed by international agreement. They are not
+  last_post_date: "2026-08-28T11:53:25Z"
+  last_post_link: https://itsme.bearblog.dev/correcting-confusion/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2195b49dc48d45a2ac283fafe8f2f6c9
+  last_post_guid: ad978ff1098f3fc46f494d16032988ac
   score_criteria:
     cats: 0
     description: 3

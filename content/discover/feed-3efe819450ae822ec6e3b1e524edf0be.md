@@ -1,6 +1,6 @@
 ---
 title: Abstract Heresies
-date: "2026-08-17T12:30:21-07:00"
+date: "2026-08-28T05:18:28-07:00"
 description: Unorthodox opinions on computer science and programming.
 params:
   feedlink: https://funcall.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://funcall.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Liferea Feed List Export
@@ -23,6 +23,7 @@ params:
   - ActiveScripting
   - Advent of Code
   - Bloom filter
+  - Boltzmann
   - C#
   - CLOS
   - Co-pilot
@@ -30,6 +31,7 @@ params:
   - Copilot
   - DotNet
   - Dvorak
+  - Einstein
   - Emacs
   - Emacs Lisp
   - Gemini
@@ -37,6 +39,7 @@ params:
   - Google
   - Java
   - LLM
+  - Landauer
   - Lisp
   - Lisp Machine
   - MCP
@@ -55,6 +58,7 @@ params:
   - animation
   - autodoc
   - blacksmithing
+  - charts
   - compiling
   - continuation passing style
   - continuations
@@ -100,27 +104,32 @@ params:
     https://funcall.blogspot.com/: true
     https://jrms-random-blog.blogspot.com/: true
     https://www.blogger.com/profile/03233353484280456977: true
-  last_post_title: Coding with an East Coast Vibe
+  last_post_title: Will it CPS?
   last_post_description: ""
-  last_post_date: "2026-08-17T05:48:25-07:00"
-  last_post_link: https://funcall.blogspot.com/2026/08/coding-with-east-coast-vibe.html
+  last_post_date: "2026-08-27T04:24:29-07:00"
+  last_post_link: https://funcall.blogspot.com/2026/08/will-it-cps.html
   last_post_categories:
+  - Common Lisp
+  - Gemini
+  - LLM
   - Vibe coding
+  - continuation passing style
+  - dynamic types
   last_post_language: ""
-  last_post_guid: 31e8ac917789e18113e94fe6a7424312
+  last_post_guid: b9f774abdff9b30c4672a09aaec40871
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

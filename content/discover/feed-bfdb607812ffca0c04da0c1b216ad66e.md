@@ -18,16 +18,16 @@ params:
   categories:
   - stuff
   relme: {}
-  last_post_title: 'Dexy’s Midnight Runners: Come On Eileen'
-  last_post_description: 'Remarks: What an earworm! This was ringing in my head mercilessly
-    the other week. It was the best-selling song in the UK in 1982 and a number-one
-    hit throughout the Anglosphere – except in Canada'
-  last_post_date: "2026-08-16T12:00:10Z"
-  last_post_link: https://abagond.wordpress.com/2026/08/16/dexys-midnight-runners-come-on-eileen/
+  last_post_title: 'Deee-Lite: Groove is in the Heart'
+  last_post_description: 'Remarks: This was a hit song throughout the Anglosphere
+    in 1990, especially in dance clubs. What a work of genius. It features a recorded
+    rap by Q-Tip, back before he became famous. The video shows a'
+  last_post_date: "2026-08-23T12:00:06Z"
+  last_post_link: https://abagond.wordpress.com/2026/08/23/deee-lite-groove-is-in-the-heart/
   last_post_categories:
   - stuff
   last_post_language: ""
-  last_post_guid: a220890ef9393711331b5673cfd82f5e
+  last_post_guid: cdcbd4d9a8aad164c8fac8f0df455176
   score_criteria:
     cats: 0
     description: 3

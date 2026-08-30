@@ -24,15 +24,14 @@ params:
   categories:
   - Daily Rundown
   relme: {}
-  last_post_title: "\U0001F6CE️ Stripe Acquires OpenRouter"
-  last_post_description: 'Plus: The Last 1% Is Still Human, Google Chose Nvidia Over
-    TPU'
-  last_post_date: "2026-08-17T10:00:02Z"
-  last_post_link: https://aisecret.us/stripe-acquires-openrouter/
+  last_post_title: "\U0001F6CE️ Claude Just Killed The World Models"
+  last_post_description: 'Plus: AGI Means Nothing Now, Agents Hit The Insurance Table'
+  last_post_date: "2026-08-28T10:00:15Z"
+  last_post_link: https://aisecret.us/claude-just-kill-the-world-models/
   last_post_categories:
   - Daily Rundown
   last_post_language: ""
-  last_post_guid: 076c4d6859af0dd3e829c9ac2e2a9e5d
+  last_post_guid: 17e690aedeb637469626e7b6f099eb48
   score_criteria:
     cats: 0
     description: 3

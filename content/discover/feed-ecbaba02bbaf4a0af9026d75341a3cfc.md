@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-08-17T13:25:50-04:00"
+date: "2026-08-28T09:58:39-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://perfectretort.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -78,6 +78,7 @@ params:
   - A Coronet for Cathie
   - A Dangerous Duet
   - A Darker Domain
+  - A Deceptive Devotion
   - A Dream of Sadler's Wells
   - A Far-flung Life
   - A Flicker in the Dark
@@ -1459,6 +1460,7 @@ params:
   - Iona Whishaw
   - Ireland
   - Ireland 2026
+  - Iris in Winter
   - Irving Wallace
   - Isaac's Storm
   - Isabella Stewart Gardner
@@ -1538,6 +1540,7 @@ params:
   - Jennifer Enderlin
   - Jennifer Genat
   - Jennifer Kloester
+  - Jennifer N. Brown
   - Jennifer Ryan
   - Jennifer Worth
   - Jenny Colgan
@@ -1639,6 +1642,7 @@ params:
   - Julia Spencer-Fleming
   - Julie James
   - Julie Olivia
+  - July 2026
   - Junie B. Jones
   - Just Another Missing Person
   - Just Dial a Number
@@ -2009,6 +2013,7 @@ params:
   - Mary Essex
   - Mary Higgins Clark
   - Mary Hooper
+  - Mary Jane Staples
   - Mary Kay Andrews
   - Mary Kubica
   - Mary Lawrence
@@ -2424,6 +2429,7 @@ params:
   - Plaid and Plagiarism
   - Plantation Trilogy
   - Plum Sykes
+  - Plume
   - Poisoned Pen Press
   - Poland
   - Poldark
@@ -3110,6 +3116,7 @@ params:
   - The Last Housewife
   - The Last Hurrah
   - The Last Party
+  - The Last Runaway
   - The Last Thing He Told Me
   - The Laughing Cavalier
   - The Librarians
@@ -3127,6 +3134,7 @@ params:
   - The Lonely Doll
   - The Long Call
   - The Lord of the Rings
+  - The Lost Book of Elizabeth Barton
   - The Lost Girls
   - The Lost Library
   - The Lost Passenger
@@ -3409,6 +3417,7 @@ params:
   - Valentine's Day
   - Valerie Anand
   - Van Gogh
+  - Vancouver
   - Vanishing Point
   - Varina Davis
   - Varsha Bajaj
@@ -3984,20 +3993,20 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: County Cavan and Dublin, Ireland 2026
+  last_post_title: The Lost Book of Elizabeth Barton by Jennifer N. Brown (Guest Review)
   last_post_description: ""
-  last_post_date: "2026-08-17T10:12:48-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/08/county-cavan-and-dublin-ireland-2026.html
+  last_post_date: "2026-08-28T00:31:55-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/08/the-lost-book-of-elizabeth-barton-by.html
   last_post_categories:
-  - Abbey Theatre
-  - County Cavan
-  - Dublin
-  - Ireland
-  - Ireland 2026
-  - Trinity College
-  - Virginia Park Lodge
+  - 16th century
+  - Historical Fiction
+  - Jennifer N. Brown
+  - St. Martin's Press
+  - The Lost Book of Elizabeth Barton
+  - dual time lines
+  - mystery
   last_post_language: ""
-  last_post_guid: 8cd4f8ebc045b816efdad764a2e86374
+  last_post_guid: a155ac61cdcfc0a47d6823ddc35027d8
   score_criteria:
     cats: 5
     description: 3

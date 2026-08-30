@@ -10,7 +10,7 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,30 +20,34 @@ params:
   recommender: []
   categories:
   - a.i.
+  - continuous inspection
+  - testing
   relme: {}
-  last_post_title: AI Software Development – What Does The Data Say?
-  last_post_description: I’m currently pulling together a bunch of sources – that
-    are mostly recent – on the topic of LLMs and their use in software development.
-    Some are peer-reviewed studies. Some are industry
-  last_post_date: "2026-08-12T17:41:50Z"
-  last_post_link: https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/
+  last_post_title: The Wall Confronting Reliable Coding Agent Autonomy
+  last_post_description: It’s a classic mistake. We develop a technology in N years
+    for X dollars that’s 90% reliable, and extrapolate that traversing that final
+    10% will only take another 0.1N years and 0.1X dollars.
+  last_post_date: "2026-08-28T05:54:09Z"
+  last_post_link: https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/
   last_post_categories:
   - a.i.
+  - continuous inspection
+  - testing
   last_post_language: ""
-  last_post_guid: a5be31ac23b145b1c11febe9e4184580
+  last_post_guid: ce8b129d48e796851aa1b27c908b55f7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

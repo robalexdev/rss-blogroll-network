@@ -27,15 +27,16 @@ params:
   categories: []
   relme:
     https://www.davd.io/: true
-  last_post_title: Buy, Own, Stream - The "Rip, Mix, Burn" of 2026
-  last_post_description: This month marks my eleventh year with Apple Music. I’ve
-    been a customer pretty much since the service started, which back in the day finally
-    let me get into music streaming. I was reluctant to use
-  last_post_date: "2026-08-02T00:00:00Z"
-  last_post_link: https://www.davd.io/posts/2026-08-02-buy-own-stream/
+  last_post_title: 'Project Announcement: Klanghaus - The Missing Piece of My Music
+    Setup'
+  last_post_description: This is a follow-up to my post Buy, Own, Stream - The “Rip,
+    Mix, Burn” of 2026 from earlier this month. There, I documented how I found the
+    perfect setup for my music library and while that
+  last_post_date: "2026-08-20T00:00:00Z"
+  last_post_link: https://www.davd.io/posts/2026-08-20-klanghaus-native-ios-macos-client-for-music-assistant/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6ac5f4552c03225df67fcb0cd9d34617
+  last_post_guid: 71dce8734d2d9f82790970f2afce7554
   score_criteria:
     cats: 0
     description: 3

@@ -10,41 +10,41 @@ params:
     https://eliseomartelli.it/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories:
   - Misc
-  - Music
+  - Programming
+  - repost
   relme: {}
-  last_post_title: They put AI on the radio
-  last_post_description: |-
-    Last Thursday, my brother and I were driving and decided to put on the FM
-    radio.
-    We don’t usually listen to it because of the audio quality, but it suited the
-    chill drive. After a few songs, we
-  last_post_date: "2026-08-08T12:00:00Z"
-  last_post_link: https://eliseomartelli.it/blog/2026-08-08-gisele-midi-pile/
+  last_post_title: Freedom to Handcraft Software
+  last_post_description: From individual perspective, software development is not
+    less than any other art form. Then why is it that we the Software developers do
+    not have the same freedom as the artists? Why are we being
+  last_post_date: "2026-08-26T08:00:00+02:00"
+  last_post_link: https://eliseomartelli.it/blog/2026-08-26-freedom-handcraft-software/
   last_post_categories:
   - Misc
-  - Music
+  - Programming
+  - repost
   last_post_language: ""
-  last_post_guid: 76639199577ee8a582c7a4a3a770a43d
+  last_post_guid: a34d8f25a9564b436cbafe7d24b1ae3b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -782,6 +782,7 @@ params:
   - Bob Odenkirk
   - Boba Fett
   - Bobby Flay
+  - Bobby Moynihan
   - Bobs Burgers
   - Bodak Yellow
   - Boktai
@@ -1531,6 +1532,7 @@ params:
   - Deathstroke
   - Debbie Fong
   - Debbie Harry
+  - Debora Lancianese
   - Deborah Dugan
   - Debra Wilson
   - Declan Shalvey
@@ -1696,6 +1698,7 @@ params:
   - Dunkin'
   - Dustin Milligan
   - Dustin Nguyen
+  - Dustin Rhodes
   - Dustin Weaver
   - Dutch Bros
   - Dwarf Fortress
@@ -2236,6 +2239,7 @@ params:
   - Grant Morrison
   - Grapes Games
   - Grateful Dead
+  - Grave Brigade
   - Gravel
   - Graveland
   - Gray Worry
@@ -2429,6 +2433,7 @@ params:
   - Holy Terror
   - Homage Studios
   - Home
+  - Home Alone 2
   - Home Movies
   - Home Sweet Hell
   - Homecoming
@@ -2590,6 +2595,7 @@ params:
   - Irv Gotti
   - Irvin Rodriguez
   - Isaiah Bradley Project
+  - Islam
   - Island
   - Island Companion Planner
   - Israel
@@ -2805,6 +2811,7 @@ params:
   - Jimmy Olsen
   - Jimmy Palmiotti
   - 'Jimmy''s Vendetta: Part One'
+  - Jinny Lu
   - Jinx Freeze
   - Jo Mi-Gyeong
   - Joaquin Phoenix
@@ -2861,6 +2868,7 @@ params:
   - John L Davis IV
   - John Lees
   - John Legend
+  - John Leguizamo
   - John Lewis
   - John Lucas
   - John Malkovich
@@ -3249,6 +3257,7 @@ params:
   - Len Wein
   - Lenny Kravitz
   - Lenticular Covers
+  - Leo Waters
   - Leomacs
   - Leonard Kirk
   - Leonardo Dicaprio
@@ -3668,6 +3677,7 @@ params:
   - Michael Caine
   - Michael Calero
   - Michael Cera
+  - Michael Clarke Duncan
   - Michael Cray
   - Michael Crichton
   - Michael Davis
@@ -3721,6 +3731,7 @@ params:
   - Mike Cavallaro
   - Mike Cole
   - Mike Costa
+  - Mike Dean
   - Mike Diana
   - Mike Dowling
   - Mike Furth
@@ -3845,6 +3856,7 @@ params:
   - Murray Bartlett
   - Muscle and Fitness
   - Music Mondays
+  - Mustafa Ali
   - Mutopia X
   - My Big Fat Fabulous Life
   - My Brother's Husband
@@ -4570,6 +4582,7 @@ params:
   - Rockpapershotgun
   - Rockstar
   - Rocksteady
+  - Rocky Horror
   - Rod Serling
   - Roger Michell
   - Roger Stone
@@ -5494,6 +5507,7 @@ params:
   - Tim Leong
   - Tim Meadows
   - Tim Proctor
+  - Tim Radecki
   - Tim Sale
   - Tim Seeley
   - Tim Seeley's Lucky
@@ -5954,6 +5968,7 @@ params:
   - World War Two
   - World of Warcraft
   - World's Finest
+  - World's Ugliest Dog
   - WorldBox
   - Worldtr33
   - Worldwatch
@@ -6330,21 +6345,25 @@ params:
   - zombies
   - '|'
   relme: {}
-  last_post_title: DSTLRY is Still Doing Single Issues, but Also Plans to Release
-    Inexpensive Trade Paperback Collections Sooner than Later
-  last_post_description: DSTLRY is an interesting publisher. They arrived with a splash,
-    struggled a bit, but survived and have been putting out quality comics. They generally
-    use a big oversized format for single issues,
-  last_post_date: "2026-08-17T19:32:09Z"
-  last_post_link: https://www.thenewestrant.com/2026/08/dstlry-is-still-doing-single-issues-but.html
+  last_post_title: Netflix Unveiled an (Official) Big Look at, "Grand Theft Auto VI,"
+    Today
+  last_post_description: It was annouced awhile ago that on August 27th, Netflix would
+    host a special 26-minute-ish release of, "Grand Theft Auto VI," footage. It would
+    feature actual gameplay and the like running on a PS5.
+  last_post_date: "2026-08-27T22:56:11Z"
+  last_post_link: https://www.thenewestrant.com/2026/08/netflix-unveiled-official-big-look-at.html
   last_post_categories:
-  - DSTLRY
-  - comics
+  - Bobby Moynihan
+  - Grand Theft Auto 6
+  - John Leguizamo
+  - Netflix
+  - Rockstar
+  - Youtube
   - internet
-  - magazine
   - news
+  - video-games
   last_post_language: ""
-  last_post_guid: 8d0ddaeac2bf8a2e243cd06598584a61
+  last_post_guid: 5a9c9ce61af1e5e8429823cf3a2f7d34
   score_criteria:
     cats: 5
     description: 3

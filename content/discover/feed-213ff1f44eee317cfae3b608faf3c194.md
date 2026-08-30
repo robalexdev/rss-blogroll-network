@@ -1,6 +1,6 @@
 ---
 title: 4TH MAGENTA
-date: "2026-08-17T20:00:04Z"
+date: "2026-08-28T22:19:32Z"
 description: A digital storage of things I'd like to share & remember, including research
   rabbit holes, recipes, & etc. It's probably be a lot of things related to my bod...
 params:

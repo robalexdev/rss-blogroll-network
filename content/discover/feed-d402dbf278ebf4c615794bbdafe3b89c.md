@@ -1,6 +1,6 @@
 ---
 title: Port 1/PT
-date: "2026-08-17T19:58:23Z"
+date: "2026-08-28T22:17:31Z"
 description: |-
   2026-06-18 12:03
   this blog has been decommissioned

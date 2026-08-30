@@ -1,6 +1,6 @@
 ---
 title: Phil's Workbench
-date: "2026-08-17T04:30:00Z"
+date: "2026-08-28T22:21:09Z"
 description: A daily updated blog typed by someone with painty hands, oil under his
   fingernails and the smell of solder in his nostrils who likes making all sort of
   models and miniatures. And fixing things.
@@ -12,7 +12,7 @@ params:
     https://philsworkbench.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -362,29 +362,27 @@ params:
   - wooden toilet
   - yacht
   relme: {}
-  last_post_title: Binnie slate wagon
+  last_post_title: Another Lego Santa
   last_post_description: ""
-  last_post_date: "2026-08-17T04:30:00Z"
-  last_post_link: https://philsworkbench.blogspot.com/2026/08/binnie-slate-wagon.html
+  last_post_date: "2026-08-28T04:30:00Z"
+  last_post_link: https://philsworkbench.blogspot.com/2026/08/another-lego-santa.html
   last_post_categories:
-  - binnie slate wagon
-  - garden railway
-  - kitbuilding
+  - lego
   last_post_language: ""
-  last_post_guid: fea6617e5d4de431254517449f80eb0f
+  last_post_guid: 19f75eccf5f63beb69976638e072dcc4
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 27
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,16 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '"Employers Want Applicants with AI Skills": How Hearsay Manufactures
-    Reality'
-  last_post_description: I recently had an informative and valuable conversation with
-    someone who works in career services. The conversation was wide-ranging but among
-    the more mutually illuminating parts of our conversation
-  last_post_date: "2026-05-22T17:51:16Z"
-  last_post_link: http://sonjadrimmer.com/blog-1/2026/5/22/employers-want-applicants-with-ai-skills-how-hearsay-manufactures-reality
+  last_post_title: The End of Trust
+  last_post_description: We need peer review for lettuce and for letters.It’s been
+    a bad summer.Today I read that jalapeños have been recalled. I checked FDA dot
+    gov and saw it's the thirteenth recall in a week. During
+  last_post_date: "2026-08-20T21:49:28Z"
+  last_post_link: http://sonjadrimmer.com/blog-1/2026/8/20/the-end-of-trust
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df3c67aff23301379d2363df1a2ab24c
+  last_post_guid: f846809ccc896b9c7017c2cbe26c6ad5
   score_criteria:
     cats: 0
     description: 0

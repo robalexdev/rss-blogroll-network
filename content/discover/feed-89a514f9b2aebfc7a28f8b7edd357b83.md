@@ -10,7 +10,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,28 +25,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - anthropic
-  - claude
-  - monthly-dispatch
-  - openai
-  - regulations
+  - javascript
+  - music
+  - tools
   relme: {}
-  last_post_title: The Monthly Dispatch - The Lighter Summer Edition
-  last_post_description: Major model releases while an OpenAI test agent escaped its
-    sandbox to hack Hugging Face and 1,300+ frontier lab employees called for slowing
-    AI progress.
-  last_post_date: "2026-08-06T00:00:00Z"
-  last_post_link: https://theaspiringnerd.com/the-monthly-dispatch-july-2026/
+  last_post_title: Turn Apple Music Playlists into mixtapes with AppleScript, Markdown
+    & JavaScript
+  last_post_description: Convert Apple Music playlists into shareable website using
+    AppleScript, Markdown, and JavaScript—no database, no API, just simple scripts
+    and HTML.
+  last_post_date: "2026-08-24T00:00:00Z"
+  last_post_link: https://theaspiringnerd.com/turn-apple-music-playlists-into-mixtapes-with-applescript-markdown-javascript/
   last_post_categories:
-  - ai
-  - anthropic
-  - claude
-  - monthly-dispatch
-  - openai
-  - regulations
+  - javascript
+  - music
+  - tools
   last_post_language: ""
-  last_post_guid: 6f70a8131cca79225eae37518bee6e75
+  last_post_guid: 1e02768296c68811813f862dbc99a27d
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-08-12T10:17:39+01:00"
+date: "2026-08-28T08:54:06+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,7 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -230,26 +230,32 @@ params:
   relme:
     https://fbdd-lit.blogspot.com/: true
     https://www.blogger.com/profile/12180360326821860667: true
-  last_post_title: 'OpenADMET: Response to Pat Walters'
+  last_post_title: The objectives of drug design
   last_post_description: ""
-  last_post_date: "2026-08-12T10:17:39+01:00"
-  last_post_link: https://fbdd-lit.blogspot.com/2026/08/openadmet-response-to-pat-walters.html
-  last_post_categories: []
+  last_post_date: "2026-08-24T06:50:26+01:00"
+  last_post_link: https://fbdd-lit.blogspot.com/2026/05/the-objectives-of-drug-design.html
+  last_post_categories:
+  - ADME
+  - MedChem
+  - cheminformatics
+  - drug design
+  - drug discovery
+  - pharmacokinetics
   last_post_language: ""
-  last_post_guid: 13e7fc93ca79b3e6301205fc27da3ca6
+  last_post_guid: 57a3696733a72c120721f9f9d80b8761
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -18,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2026-08-15-17-04
-  last_post_description: Today is a good day because there’s a new Matthew Herbert
-    track
-  last_post_date: "2026-08-15T17:05:00+02:00"
-  last_post_link: https://alienlebarge.ch/notes/2026-08-15-17-04
+  last_post_title: Limbo
+  last_post_description: ""
+  last_post_date: "2026-08-28T09:20:00+02:00"
+  last_post_link: https://alienlebarge.ch/jams/jessy-lanza-limbo
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fc3efed0a5755f82a595d2152eb55b7e
+  last_post_guid: b97bb54664676adddf67442c21a99854
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: 31 Days of Vibe Coding
-date: "2026-08-17T01:26:51-04:00"
+date: "2026-08-28T13:02:50-04:00"
 description: Learn to ship production features faster with AI. Real tactics from building
   collectyourcards.com - no hype, no theory, just what actually works.
 params:

@@ -32,32 +32,34 @@ params:
   recommender:
   - https://lmika.org/feed.xml
   categories:
+  - Labor
+  - Meta
   - Platformer Pod
-  - Productivity
   relme: {}
-  last_post_title: Town's CEO on the self-organizing company
-  last_post_description: Jean-Denis Greze on AI assistants, building a better corporate
-    workspace, and avoiding "egg on face"
-  last_post_date: "2026-08-14T00:12:33Z"
-  last_post_link: https://www.platformer.news/town-interview-jean-denis-greze-assistants/
+  last_post_title: How AI agents "radicalized" a top Meta exec into quitting her job
+  last_post_description: Clara Shih on how AI will soon displace the first few rungs
+    on the career ladder — and why she left Big Tech to do something about it
+  last_post_date: "2026-08-28T00:00:14Z"
+  last_post_link: https://www.platformer.news/clara-shih-new-work-dear-cc-interview-meta-salesforce/
   last_post_categories:
+  - Labor
+  - Meta
   - Platformer Pod
-  - Productivity
   last_post_language: ""
-  last_post_guid: ac34c1d224b6b16d28430a7da86bc48c
+  last_post_guid: 3c6ec9b7e1745b400e407c11e6fa9f63
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

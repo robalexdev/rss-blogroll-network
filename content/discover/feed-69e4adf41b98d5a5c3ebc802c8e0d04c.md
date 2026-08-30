@@ -10,7 +10,7 @@ params:
     https://aethermug.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,13 +27,13 @@ params:
   categories: []
   relme:
     https://aethermug.com/: true
-  last_post_title: GenAI Is a Lens into Humanity
-  last_post_description: not a person!
-  last_post_date: "2026-08-13T03:55:59Z"
-  last_post_link: https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity?utm_source=rss&utm_campaign=rss
+  last_post_title: Presenting the Foldable Tractatus
+  last_post_description: An interactive Wittgensteinian tool for thought
+  last_post_date: "2026-08-27T04:58:30Z"
+  last_post_link: https://aethermug.com/posts/tract?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e8395ec181d160af4a5761cfc764e1d6
+  last_post_guid: 7cf6966c6f640e5dbc50a3ad18437e99
   score_criteria:
     cats: 0
     description: 3

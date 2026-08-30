@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'SIMD in the 90s: Programming Intel''s Pentium MMX'
-  last_post_description: If you used PCs in the 90s, you probably remember the 'Intel
-    Inside MMX' stickers. This article explores Intel's major attempt at bringing
-    SIMD instructions to mainstream desktop CPUs.
-  last_post_date: "2026-08-12T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
+  last_post_title: 'From Front Panel to Program: Thinking Like a PDP-8'
+  last_post_description: Transistors, logic gates, flip-flops, full adders, memory,
+    and blinking LEDs. The PDP-8 is a great computer to learn about traditional digital
+    electronics and simple computer architecture.
+  last_post_date: "2026-08-20T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/pdp-8-minicomputer
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f944cf41a38d6b89464792eeea9ac40
+  last_post_guid: b07af908a7ffa11184cebdc2845dc2e5
   score_criteria:
     cats: 0
     description: 3

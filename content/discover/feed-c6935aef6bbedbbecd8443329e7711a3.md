@@ -16,26 +16,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI Affiliate Marketing
-  - Ads network
-  - Affiliate marketing
   - Ai联盟营销
-  - propellerads
-  - 流量平台
+  - Media Buy
+  - Niche站赚钱
+  - 付费流量
+  - 内容营销
+  - 媒体购买
+  - 实操案例
+  - 广告优化
+  - 投资回报率
+  - 数字营销
+  - 点击套利
+  - 点击成本
+  - 直接买家关系
+  - 联盟营销
+  - 自有产品
+  - 行业趋势
+  - 被动收入
+  - 转化率优化
   relme: {}
-  last_post_title: 【全新广告形式】扩量卡住了？Paid Social Traffic 已上线
-  last_post_description: Paid Social
-  last_post_date: "2026-07-31T03:54:03Z"
-  last_post_link: https://www.fuyuzhe.com/paid-social-traffic.html
+  last_post_title: 从点击套利到构建自有资产：Joey Babineau 解读 2026 年联盟营销
+  last_post_description: '.framer-text { scroll-margin-top: 120px; } Joey Babineau'
+  last_post_date: "2026-08-28T02:58:03Z"
+  last_post_link: https://www.fuyuzhe.com/affiliate-marketing-trends-2026.html
   last_post_categories:
-  - AI Affiliate Marketing
-  - Ads network
-  - Affiliate marketing
   - Ai联盟营销
-  - propellerads
-  - 流量平台
+  - Media Buy
+  - Niche站赚钱
+  - 付费流量
+  - 内容营销
+  - 媒体购买
+  - 实操案例
+  - 广告优化
+  - 投资回报率
+  - 数字营销
+  - 点击套利
+  - 点击成本
+  - 直接买家关系
+  - 联盟营销
+  - 自有产品
+  - 行业趋势
+  - 被动收入
+  - 转化率优化
   last_post_language: ""
-  last_post_guid: 49cdfa06a4bd78055cbe0fef79133a1c
+  last_post_guid: 750581d2740118f31f42e97e0c088d4f
   score_criteria:
     cats: 0
     description: 3

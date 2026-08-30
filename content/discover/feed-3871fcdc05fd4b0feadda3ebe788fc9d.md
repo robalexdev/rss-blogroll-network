@@ -10,7 +10,7 @@ params:
     https://notes.peteashton.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,15 +23,15 @@ params:
     https://72.peteashton.com/: true
     https://notes.peteashton.com/: true
     https://social.coop/@pete: true
-  last_post_title: Notes and links from 17 Aug
-  last_post_description: |-
-    Taking things a bit easier today, after the crash. Pottering around the house and looking the Eleventy docs right from the beginning (rather than trying to reverse engineer). This was helpful.
-    One of
-  last_post_date: "2026-08-17T19:03:12+01:00"
-  last_post_link: https://notes.peteashton.com/2026/08/17/notes-and-links-from-aug.html
+  last_post_title: Notes and links from 28 Aug
+  last_post_description: "This is being stored here before installing and I thought
+    it looked aesthetically pleasing. \nSpent a reasonable amount of time pottering
+    around in the garden today, along with a trip out to the local"
+  last_post_date: "2026-08-28T21:51:03+01:00"
+  last_post_link: https://notes.peteashton.com/2026/08/28/notes-and-links-from-aug.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c2898a5446aef3ea44f4097cb5e55fca
+  last_post_guid: 8e38b7cb2e68952927d521b5210038f6
   score_criteria:
     cats: 0
     description: 0

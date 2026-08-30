@@ -1,6 +1,6 @@
 ---
 title: technicalwriting.dev
-date: "2026-08-17T17:02:43Z"
+date: "2026-08-27T20:39:37Z"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
@@ -21,7 +21,7 @@ params:
   categories: []
   relme: {}
   last_post_title: word2vec-style vector arithmetic on docs embeddings
-  last_post_description: Does vector("king") - vector("man") + vector("woman") ≈ vector("queen")
+  last_post_description: Does vector(“king”) - vector(“man”) + vector(“woman”) ≈ vector(“queen”)
     work in technical writing contexts?
   last_post_date: "2025-10-29T00:00:00Z"
   last_post_link: https://technicalwriting.dev/2025/10/arithmetic/index.html

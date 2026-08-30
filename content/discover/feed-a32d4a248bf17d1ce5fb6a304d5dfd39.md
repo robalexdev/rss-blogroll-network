@@ -17,39 +17,37 @@ params:
   recommender: []
   categories:
   - Uncategorized
-  - albania
+  - art gallery
+  - art market
+  - artists
+  - beers london
   - blog
   - blogger
   - blogging
-  - falooda
-  - falooda & Co
-  - indian
-  - pakistani
-  - restaurant
-  - slough
-  - south asian
+  - farewell
+  - london
+  - smithfield market
   relme: {}
-  last_post_title: Falooda far west of India and Pakistan
-  last_post_description: 'THIS MORNING WE ate chaats (spicy South Asian snacks): dahi
-    vada (aka: ‘curd vada’ or ‘dahi balla’) and pani puri (aka: ‘puchka’ or ‘gol gappa’).
-    We were not in Mumbai nor in Kolkata'
-  last_post_date: "2026-08-17T08:31:00Z"
-  last_post_link: https://adam-yamey-writes.com/2026/08/17/falooda-far-west-of-india-and-pakistan/
+  last_post_title: End of an era near Smithfield Market
+  last_post_description: SAYING GOODBYE IS not always easy. Soon, the Beers London
+    art gallery in Little Britain (near London’s Smithfield Market) will be closing
+    its doors for the last time. Its final exhibition, works by
+  last_post_date: "2026-08-28T08:33:00Z"
+  last_post_link: https://adam-yamey-writes.com/2026/08/28/end-of-an-era-near-smithfield-market/
   last_post_categories:
   - Uncategorized
-  - albania
+  - art gallery
+  - art market
+  - artists
+  - beers london
   - blog
   - blogger
   - blogging
-  - falooda
-  - falooda & Co
-  - indian
-  - pakistani
-  - restaurant
-  - slough
-  - south asian
+  - farewell
+  - london
+  - smithfield market
   last_post_language: ""
-  last_post_guid: 877b65f798af8c48e45ba2a88c03aff5
+  last_post_guid: 52ff8a270cb11e7e0413f1f1d28b1b1b
   score_criteria:
     cats: 0
     description: 3

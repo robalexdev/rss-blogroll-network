@@ -10,7 +10,7 @@ params:
     https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,15 +27,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: How beehiiv Sold the Morning Brew Playbook to Everyone
-  last_post_description: My work is helping technology companies decide how to explain
-    themselves and shape their story. This is something I care deeply about. I followed
-    Tyler and beehiiv since their early days. Few
-  last_post_date: "2026-08-11T13:30:00Z"
-  last_post_link: https://molodtsov.me/2026/08/how-beehiiv-sold-the-morning-brew-playbook-to-everyone/
+  last_post_title: How Linear Turned Craft Into a B2B Growth Strategy
+  last_post_description: Linear is an opinionated project management platform designed
+    for high-performing software development and product teams. It was built as an
+    opposition to JIRA, the “most hated software” ever
+  last_post_date: "2026-08-20T13:15:00Z"
+  last_post_link: https://molodtsov.me/2026/08/how-linear-turned-craft-a-b2b-growth-strategy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 981cb497afcc1f5ecd3824d53dad634f
+  last_post_guid: 9cc905ecd03b57730ace77b7a0d1989f
   score_criteria:
     cats: 0
     description: 3

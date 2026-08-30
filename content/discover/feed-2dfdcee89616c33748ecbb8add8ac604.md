@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-07-20T11:15:00Z"
+date: "2026-08-27T16:15:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://www.baldurbjarnason.com/feed.xml
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Long-delayed summer 2026 photos
+  last_post_title: Images of Hveragerði
   last_post_description: ""
-  last_post_date: "2026-07-20T11:15:00Z"
-  last_post_link: https://www.baldurbjarnason.com/notes/photos/long-delayed-summer-2026-photos/
+  last_post_date: "2026-08-27T16:15:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/photos/images-of-the-town/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4ce6c9340e1db8de4322edca5f49c182
+  last_post_guid: 6d647257ce5d001fb064906cbaa3a957
   score_criteria:
     cats: 0
     description: 3

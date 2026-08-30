@@ -21,33 +21,37 @@ params:
     id: aefe458d084b844b7c2a6e71b48776ee
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - games
+  - reviews
   relme:
     https://a.wholelottanothing.org/: true
     https://github.com/mathowie: true
     https://xoxo.zone/@mathowie: true
-  last_post_title: Feeling the burn
-  last_post_description: When the pandemic hit, the gym I worked out at closed down
-    for almost a year. I was used to working out a couple times a week with a trainer
-    leading me and it wasn't about huge gains or getting
-  last_post_date: "2026-08-17T19:25:22Z"
-  last_post_link: https://a.wholelottanothing.org/feeling-the-burn/
-  last_post_categories: []
+  last_post_title: Big Walk game review
+  last_post_description: Nearly a month ago, Big Walk debuted and I wrote a quick
+    post after having only played a beta version of it for an hour with a small group.
+    Since then, I've played the game in a variety of groups,
+  last_post_date: "2026-08-27T21:14:36Z"
+  last_post_link: https://a.wholelottanothing.org/big-walk-game-review/
+  last_post_categories:
+  - games
+  - reviews
   last_post_language: ""
-  last_post_guid: 67d57bd877883a0e213242f1c4e033ea
+  last_post_guid: 1592fb03c90f6147c451006f8eacd166
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Ellie's Notes
-date: "2026-05-13T00:00:00Z"
+date: "2026-08-24T00:00:00Z"
 description: Personal site of Ellie Huxtable
 params:
   feedlink: https://ellie.wtf/index.xml
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Advancing bookmarks with jj
+  last_post_title: The Lost Coast
   last_post_description: ""
-  last_post_date: "2026-05-13T00:00:00Z"
-  last_post_link: https://ellie.wtf/notes/jj-bookmark-advance/
+  last_post_date: "2026-08-24T00:00:00Z"
+  last_post_link: https://ellie.wtf/posts/the-lost-coast/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3010c7b497c38f78c0d131493139f2e
+  last_post_guid: 2d663341ff0a7e89fb0fea87f0cca1b3
   score_criteria:
     cats: 0
     description: 3

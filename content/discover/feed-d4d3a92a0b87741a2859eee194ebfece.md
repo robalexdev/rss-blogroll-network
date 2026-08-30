@@ -1,6 +1,6 @@
 ---
 title: Astroblog
-date: "2026-08-17T23:07:41+09:30"
+date: "2026-08-28T18:52:03+09:30"
 description: Obscured by Clouds. The rough and ready blog of a cloud benighted biologist
   and amateur astronomer. Astroblog will cover my interests in astronomy, biology
   and Life, the Universe and Everything.
@@ -12,7 +12,7 @@ params:
     https://astroblogger.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -127,6 +127,7 @@ params:
   - Moonbow
   - NEO
   - Neptune
+  - Nova Sge 2026
   - Observational Astronomy
   - Occultation
   - Open Laboratory
@@ -327,31 +328,28 @@ params:
     https://astroblogger.blogspot.com/: true
     https://vpudebate.blogspot.com/: true
     https://www.blogger.com/profile/05010720416554077787: true
-  last_post_title: Seeing Venus in the daylight, 16 August 2026
+  last_post_title: My Images of Venus in the daylight, and more August 16, 2026
   last_post_description: ""
-  last_post_date: "2026-08-15T12:19:02+09:30"
-  last_post_link: https://astroblogger.blogspot.com/2026/08/seeing-venus-in-daylight-16-august-2026.html
+  last_post_date: "2026-08-27T22:04:46+09:30"
+  last_post_link: https://astroblogger.blogspot.com/2026/08/my-images-of-venus-in-daylight-and-more.html
   last_post_categories:
-  - Daylight
-  - Daytime
   - Moon
   - Venus
-  - unaided eye
   last_post_language: ""
-  last_post_guid: 3426105968ad155a60a9945fd7bcc904
+  last_post_guid: 38c000f933f5446a8d30c41f51272066
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

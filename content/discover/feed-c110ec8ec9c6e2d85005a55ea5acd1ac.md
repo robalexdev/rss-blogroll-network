@@ -20,30 +20,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ephemeral Scrapbook
+  - Quick Reads
+  - Read Later
+  - Reading
+  - Workflow
+  - review
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — 2026.08.02
-  last_post_description: I read and write about AI way too much, but AI is everywhere
-    now, so hard to escape! I’m so sorry.
-  last_post_date: "2026-08-02T21:21:37Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-08-02/
+  last_post_title: On Integrating Quick Reads Into My Digital Ecosystem
+  last_post_description: Quick Reads is a read-it-later service built by one person
+    who made the app he wished existed. What makes it worth writing about isn't what
+    it does; it's how it connects openly to the rest of my
+  last_post_date: "2026-08-23T13:40:17Z"
+  last_post_link: https://numericcitizen.me/on-integrating-quick-reads-into-my-digital-ecosystem/
   last_post_categories:
-  - Ephemeral Scrapbook
+  - Quick Reads
+  - Read Later
+  - Reading
+  - Workflow
+  - review
   last_post_language: ""
-  last_post_guid: f21002774e1e57dcb4ffb2075bf9e738
+  last_post_guid: 7de965f07213f7cc54746fe4bbbc47d0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,12 +7,11 @@ params:
   feedtype: rss
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
+    https://www.pythonmorsels.com/: false
     https://www.pythonmorsels.com/articles/: false
+    https://www.pythonmorsels.com/newsletter/: false
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Planet Python
     description: ""
     id: 63826648a34be342fc027f97571f1a6c
@@ -20,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Self-concatenation
-  last_post_description: "Strings and other sequences can be multiplied by numbers
-    to self-concatenate them.\n  \n    Concatenating strings to numbers doesn't work\n
-    \   \n      \n        You can't use the plus sign (+) between a"
-  last_post_date: "2026-01-16T14:15:00Z"
-  last_post_link: https://www.pythonmorsels.com/self-concatenation/
+  last_post_title: When to use NotImplemented
+  last_post_description: "When should you return NotImplemented from a dunder method?
+    Why not return False or raise an exception instead?\n  \n    Dunder methods return
+    NotImplemented\n    \n      \n        Integers and floating"
+  last_post_date: "2026-08-27T21:45:00Z"
+  last_post_link: https://www.pythonmorsels.com/when-to-use-notimplemented/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0afa74404da15d186a0ce9f38dcd7b28
+  last_post_guid: 86ea40db0944c900b93cfb1c039d2741
   score_criteria:
     cats: 0
     description: 3

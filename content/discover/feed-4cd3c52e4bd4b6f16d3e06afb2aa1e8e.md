@@ -24,26 +24,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Cafe
-  - Pentagon
-  - Pete Hegseth
-  - democracy
+  - 2026 midterm elections
+  - News
+  - Supreme Court
   relme: {}
-  last_post_title: Anthropic’s Fight With the Pentagon Shows How AI Could Threaten
-    a Crucial Safeguard of Democracy
-  last_post_description: This article is part of TPM Cafe, TPM’s home for opinion
-    and news analysis. It was originally published at The...
-  last_post_date: "2026-08-17T18:20:21Z"
-  last_post_link: https://talkingpointsmemo.com/cafe/anthropics-fight-with-the-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy
+  last_post_title: Trump Appeals Newest Block on His Attempt to Take Over Mail-In
+    Voting
+  last_post_description: The Trump administration wasted no time appealing a district
+    judge’s Thursday night order temporarily keeping it from enforcing an executive...
+  last_post_date: "2026-08-28T19:58:43Z"
+  last_post_link: https://talkingpointsmemo.com/news/trump-appeals-injunction-mail-in-voting-executive-order
   last_post_categories:
-  - AI
-  - Cafe
-  - Pentagon
-  - Pete Hegseth
-  - democracy
+  - 2026 midterm elections
+  - News
+  - Supreme Court
   last_post_language: ""
-  last_post_guid: 5872c99857f66438f41cd5e75a05c0fa
+  last_post_guid: 63496000c7004f7730ddcd4b8ef8f268
   score_criteria:
     cats: 0
     description: 3

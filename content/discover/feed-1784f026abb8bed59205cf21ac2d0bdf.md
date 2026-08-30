@@ -19,17 +19,16 @@ params:
   - macOS
   - 科技与产品
   relme: {}
-  last_post_title: macOS Golden Gate Beta 6 发布：现在能装吗，怎么装，怎么回退
-  last_post_description: 从开发者实际安装决策出发，厘清 Beta 6 的安装条件、测试版风险与回退成本，同时区分 Golden Gate
-    整体功能与 Beta 6 本身的变化
-  last_post_date: "2026-08-17T18:35:37Z"
-  last_post_link: https://topstip.com/p998158/
+  last_post_title: 哪些 Mac 会用上 M6？Mac mini 已确定，高端机型可能直接等 M7
+  last_post_description: Apple 已确认 M6 与 M5 Pro 版 Mac mini 跨代并行；其余 Mac 的 M6 更新仍属媒体路线图，专业用户应按内存、带宽和接口需求判断。
+  last_post_date: "2026-08-28T21:14:04Z"
+  last_post_link: https://topstip.com/p156773/
   last_post_categories:
   - Apple
   - macOS
   - 科技与产品
   last_post_language: ""
-  last_post_guid: 61e795ad15ccf19b42c6a1b16af50a09
+  last_post_guid: 5c7ef0d358c606891c57b4355c648a18
   score_criteria:
     cats: 0
     description: 3

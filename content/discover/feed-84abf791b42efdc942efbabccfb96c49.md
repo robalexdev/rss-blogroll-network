@@ -16,17 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What's new in pip 26.2 - only-deps and venv isolation!
+  last_post_title: It's been three months, what happened in pip?
   last_post_description: |-
-    On July 29, 2026, I1 released pip 26.2.
-    Compared to a typical pip release, this release is huge with many changes.
-    This was largely made possible by the paid time I’ve had
-    to work on pip (and
-  last_post_date: "2026-07-29T00:00:00-04:00"
-  last_post_link: https://sichard.ca/blog/2026/07/whats-new-in-pip-26.2/
+    As I announced in a previous post, the pip project secured funding to have me
+    work on pip on a part-time basis from June to August this year.
+    The contract period is now finished, so it’s time to
+  last_post_date: "2026-08-24T00:00:00-04:00"
+  last_post_link: https://sichard.ca/blog/2026/08/pip-contract-finish/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b1808ff0694410301f949df481a152e9
+  last_post_guid: f9d52a0b97e61526a0ea9a0e43824d77
   score_criteria:
     cats: 0
     description: 3

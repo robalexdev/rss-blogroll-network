@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-08-17T05:22:57Z"
+date: "2026-08-28T14:43:23Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,7 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -207,6 +207,7 @@ params:
   - Cat Bear Tree
   - Cat Stevens
   - Catford
+  - Catford Bridge Tavern
   - Catford Constitutional Club
   - Catford Stadium
   - Ceri James
@@ -475,6 +476,7 @@ params:
   - Isle of Sheppey
   - Ivy House
   - Jack in the Green
+  - Jackson C Frank
   - Jah Shaka
   - Jam Circus
   - James Maker
@@ -754,6 +756,7 @@ params:
   - Paul Hendrich
   - Paul McCartney
   - Paul Oestreicher
+  - Paul Simon
   - Paynes & Borthwick Wharves
   - Pearce Signs
   - Peckham
@@ -1405,22 +1408,19 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: 'Music Monday: South of the Thames - Skalah ft. Novelist'
+  last_post_title: Paul Simon in Catford, August 1965 (and other Catford folk tales)
   last_post_description: ""
-  last_post_date: "2026-08-17T00:01:00Z"
-  last_post_link: https://transpont.blogspot.com/2026/08/music-monday-south-of-thames-skalah-ft.html
+  last_post_date: "2026-08-23T11:39:16Z"
+  last_post_link: https://transpont.blogspot.com/2026/08/paul-simon-in-catford-august-1965-and.html
   last_post_categories:
-  - Blue Borough
-  - Brockley
-  - Elephant and Castle
+  - Catford
+  - Catford Bridge Tavern
+  - Jackson C Frank
   - Lewisham
-  - Music Monday
-  - Novelist
-  - Skalah
-  - grime
-  - ladywell
+  - Paul Simon
+  - folk music
   last_post_language: ""
-  last_post_guid: 52ffe59659fbe604d5fe903955b89e7b
+  last_post_guid: 9eafc76f37d3a21741a998c58d8f4ed8
   score_criteria:
     cats: 5
     description: 3

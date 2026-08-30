@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-08-17T12:31:21Z"
+date: "2026-08-28T18:50:37Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -10,7 +10,7 @@ params:
     https://blog.avas.space/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,18 +26,17 @@ params:
   recommender: []
   categories:
   - "2026"
-  - social media
+  - books
   relme: {}
-  last_post_title: shop milking their customers for social media content
-  last_post_description: New business models emerge in which your shopping experience
-    gets recorded and cut for social media money.
-  last_post_date: "2026-08-17T12:27:07Z"
-  last_post_link: https://blog.avas.space/shop-social-media/
+  last_post_title: 'book: the ethical slut by dossie easton and janet hardy'
+  last_post_description: Another book I've read.
+  last_post_date: "2026-08-26T06:49:09Z"
+  last_post_link: https://blog.avas.space/the-ethical-slut/
   last_post_categories:
   - "2026"
-  - social media
+  - books
   last_post_language: ""
-  last_post_guid: 0a72472db32bff57aad2cbf3819fca7d
+  last_post_guid: 29a5b318a963c88457c4b1b7c136b9fc
   score_criteria:
     cats: 0
     description: 3

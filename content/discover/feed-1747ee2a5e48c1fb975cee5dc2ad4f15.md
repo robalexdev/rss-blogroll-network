@@ -19,13 +19,13 @@ params:
   categories: []
   relme:
     https://anselm-hannemann.com/writings: true
-  last_post_title: Negotiating with CSS
+  last_post_title: On the suggested CSS Universal Class Selector `*-`
   last_post_description: ""
-  last_post_date: "2026-08-07T00:00:00+02:00"
-  last_post_link: https://anselm-hannemann.com/writings/negotiating-with-css
+  last_post_date: "2026-08-21T00:00:00+02:00"
+  last_post_link: https://anselm-hannemann.com/writings/on-the-suggested-css-universal-class-selector
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3ce80b863f96bbe7ea5bc0626e8e128
+  last_post_guid: 2d2bb432b8d447671328767be7bc769d
   score_criteria:
     cats: 0
     description: 3

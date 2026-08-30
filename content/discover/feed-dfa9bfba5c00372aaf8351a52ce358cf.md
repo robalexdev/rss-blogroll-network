@@ -1,6 +1,6 @@
 ---
 title: Adam's Apples
-date: "2026-08-15T18:20:58-04:00"
+date: "2026-08-28T15:24:27-04:00"
 description: An amateur explores the pomaceous fruit
 params:
   feedlink: https://adamapples.blogspot.com/atom.xml
@@ -36,6 +36,7 @@ params:
   - 2023 apples
   - 2024 apples
   - 2025 apples
+  - 2026 apples
   - 2nd bite
   - AAX 11
   - Adams Pearmain
@@ -154,6 +155,7 @@ params:
   - Dandee Red
   - Davey
   - Dayton
+  - Dazzle
   - Deacon Jones
   - Deane
   - December
@@ -710,16 +712,16 @@ params:
   - winter apples
   - year of apples
   relme: {}
-  last_post_title: Nothing like the first
+  last_post_title: Dazzle
   last_post_description: ""
-  last_post_date: "2026-08-07T22:53:56-04:00"
-  last_post_link: https://adamapples.blogspot.com/2026/08/nothing-like-first.html
+  last_post_date: "2026-08-27T12:52:56-04:00"
+  last_post_link: https://adamapples.blogspot.com/2026/08/dazzle-apple-review-taste.html
   last_post_categories:
-  - August
-  - Summer
-  - commentary
+  - 2026 apples
+  - Dazzle
+  - apple review
   last_post_language: ""
-  last_post_guid: 5b49aae3293500c243d376d17d8720d5
+  last_post_guid: 8cacc949fcf40835b3ad849a89b3f425
   score_criteria:
     cats: 5
     description: 3

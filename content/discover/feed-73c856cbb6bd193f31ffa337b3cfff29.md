@@ -25,16 +25,16 @@ params:
     https://mastodon.gamedev.place/@djlink: true
     https://www.david-amador.com/: true
     https://www.upfallstudios.com/: true
-  last_post_title: Short Story - A Girl and a Railgun
-  last_post_description: |-
-    02h23m
-    She woke up …
-    Sweating… the ceiling fan was dead and the neon from the noodle shop across the alley kept the room in a constant state of artificial twilight, it was exhausting. Rane was
-  last_post_date: "2026-02-23T11:47:00Z"
-  last_post_link: https://www.david-amador.com/2026/02/short-story-a-girl-and-a-railgun/
+  last_post_title: Quest of Dungeons launching for Nintendo Switch 2 with mouse mode
+    and new content
+  last_post_description: "Hello! \U0001F44B\nFor several months now, I’ve been working
+    on a brand new surprise update.\nQuest of Dungeons is coming to Nintendo Switch
+    2! And it’s not just a straight port, I wanted to take"
+  last_post_date: "2026-08-27T05:47:00Z"
+  last_post_link: https://www.david-amador.com/2026/08/quest-of-dungeons-for-nintendo-switch-2-mouse-mode-update/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f7a5c843de1a1f908fafea3b388d606
+  last_post_guid: fddb7c0e79b8d68eebc462910367ac27
   score_criteria:
     cats: 0
     description: 3

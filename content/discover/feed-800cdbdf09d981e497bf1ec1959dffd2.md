@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-08-17T11:32:21-07:00"
+date: "2026-08-27T15:01:19-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,7 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -199,6 +199,7 @@ params:
   - GEORGE CLOONEY
   - GET IN THE SWING
   - GHOSTS
+  - GILDED AGE
   - GLAM
   - GLAM AND GLITTER
   - GLAM AND GRIME
@@ -215,7 +216,9 @@ params:
   - GLAMOUR
   - GLAMOUR STOCKS
   - GLITTER
+  - GLITZ
   - GLOW-UPS
+  - GOLD
   - GOP
   - GOTH
   - GOTH'S PREMIUM ON PHYSICAL BEAUTY
@@ -312,6 +315,7 @@ params:
   - LOVE INC
   - LOW SELF ESTEEM
   - LUKE HAINES
+  - LUXURY
   - MADONNA
   - MAG
   - MAGA
@@ -386,6 +390,7 @@ params:
   - OMIKRON
   - ONE WOMAN ROMO RENAISSANCE
   - OPPORTUNISM
+  - PATTI LUPONE
   - PAUL OLDFIELD
   - PAUL STUMP
   - PC MUSIC
@@ -527,6 +532,7 @@ params:
   - THE SWEET
   - THE TRIANGLE
   - THEATER OF THE RIDICULOUS
+  - THEATRE KID TROPE
   - THEATRICALITY
   - THEATRICALITY AND POLITICS
   - THEMODEL
@@ -580,6 +586,7 @@ params:
     https://blissout.blogspot.com/: true
     https://bringthenoiseinfohype.blogspot.com/: true
     https://bringthenoisesimonreynolds.blogspot.com/: true
+    https://draft.blogger.com/profile/01282478701882900354: true
     https://dreamsbuiltbyhand.blogspot.com/: true
     https://energyflashbysimonreynolds.blogspot.com/: true
     https://energyflashdiscogbibliog.blogspot.com/: true
@@ -613,26 +620,39 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Bubblegum Revolution
+  last_post_title: anti-theatricality in politics (the theatre kid trope) (the bling
+    king) (the throne of illusion)
   last_post_description: ""
-  last_post_date: "2026-08-13T12:07:07-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/08/bubblegum-revolution.html
-  last_post_categories: []
+  last_post_date: "2026-08-27T15:01:19-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/08/anti-theatricality-in-politics-theatre.html
+  last_post_categories:
+  - ANTI-THEATRICALITY AND POLITICS
+  - DICTATORSHIP
+  - Decadence
+  - GILDED AGE
+  - GLITZ
+  - GOLD
+  - LUXURY
+  - MUSICALS
+  - PATTI LUPONE
+  - SPECTACLE
+  - THEATRE KID TROPE
+  - TRUMP
   last_post_language: ""
-  last_post_guid: 32c2b44eaf9852bb248478e0cbc2b960
+  last_post_guid: 6ff0f06b86f9b9699f852eecb85b4ac7
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

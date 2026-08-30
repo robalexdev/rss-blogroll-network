@@ -1,6 +1,6 @@
 ---
 title: P̴̜̋̿̆̎̇͝i̴̘͉̮̦̕ŗ̷̤̲̊͛͝a̶̢̖̞̼̖͌̀́͘ ̶̫͝H̷͚̩̼͂̏̂̽͘͘x̷̤́͐̈́̀C̷̰͉̼̯̫̉͑ͅx̷̼̩̮̹̥̺͆̐̀
-date: "2026-08-13T15:00:00Z"
+date: "2026-08-26T15:00:00Z"
 description: ""
 params:
   feedlink: https://pirahxcx.neocities.org/atom.xml
@@ -10,7 +10,7 @@ params:
     https://pirahxcx.neocities.org/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Journal: 2026/08/13 Thursday (Misc)'
+  last_post_title: 'Journal: 2026/08/26 Wednesday (Misc)'
   last_post_description: ""
-  last_post_date: "2026-08-13T15:00:00Z"
+  last_post_date: "2026-08-26T15:00:00Z"
   last_post_link: https://pirahxcx.neocities.org/journal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cce01d82641766bcb0deea35a2bf8625
+  last_post_guid: 99c30daa9608729cb93a396fc91a2844
   score_criteria:
     cats: 0
     description: 0

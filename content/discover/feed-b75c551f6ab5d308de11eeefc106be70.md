@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Covering Crime with Scandal
-  last_post_description: The oldest, and deadliest, trick in the book.
-  last_post_date: "2026-08-07T12:43:40Z"
-  last_post_link: https://sarahkendzior.substack.com/p/covering-crime-with-scandal
+  last_post_title: 'Just Answering Questions: Summertime Blues'
+  last_post_description: Got a question? Send it to the Q & A!
+  last_post_date: "2026-08-27T12:36:48Z"
+  last_post_link: https://sarahkendzior.substack.com/p/just-answering-questions-summertime
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bc7e7499f44348e98f7e727e1974c6d0
+  last_post_guid: d42b0a8382522c2d27a6447f0633b852
   score_criteria:
     cats: 0
     description: 3

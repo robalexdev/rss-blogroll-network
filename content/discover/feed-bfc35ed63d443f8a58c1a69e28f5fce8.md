@@ -16,16 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Cold Email in 2026: The Deliverability-First System That Books
-    Meetings'
-  last_post_description: 'Quick answer: A deliverability-first cold email system protects
-    sender reputation before it tries to scale. It uses authenticated domains, verified
-    and relevant contacts, controlled sending patterns,'
-  last_post_date: "2026-08-17T12:42:59Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/cold-email-deliverability-system-2026
+  last_post_title: What Is a B2B Growth Engine? How Data, Outreach, SEO, Web, and
+    Social Work Together
+  last_post_description: A B2B growth engine is a connected system that helps the
+    right buyers find, trust, and respond to your company. It is not one campaign.
+    It combines clean data, focused outreach, useful content,
+  last_post_date: "2026-08-25T11:41:19Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/b2b-growth-engine-data-outreach-seo-web-social
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16ff624a5b0ce02c15ff88bc4608b88e
+  last_post_guid: 207b0fdde418b8988702b8c05c971de2
   score_criteria:
     cats: 0
     description: 3

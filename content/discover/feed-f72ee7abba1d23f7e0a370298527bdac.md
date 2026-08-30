@@ -20,6 +20,7 @@ params:
   relme:
     https://alex-verkhovsky.blogspot.com/: true
     https://draft.blogger.com/profile/00949972013936326795: true
+    https://www.blogger.com/profile/00949972013936326795: true
   last_post_title: Goodbye ThoughtWorks, hello Scribd
   last_post_description: ""
   last_post_date: "2009-05-07T14:45:58-06:00"

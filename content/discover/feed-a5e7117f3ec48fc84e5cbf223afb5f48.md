@@ -10,7 +10,7 @@ params:
     https://www.fwrarejazzvinylcollector.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,16 +21,17 @@ params:
   categories:
   - LP 12"
   relme: {}
-  last_post_title: ”Juju” by Wayne Shorter on Blue Note BLP 4182
-  last_post_description: "Here’s some good juju.\n          \n        \n      \n        \n
-    \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n  \n    \n      \n\n        \n\n
-    \       \n\n        \n          \n            \n              \n                \n "
-  last_post_date: "2026-08-15T19:34:10Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/8/15/juju-by-wayne-shorter-on-blue-note-blp-4182
+  last_post_title: ”Earth Blossom” by The John Betsch Society on Strata-East SES-19748
+  last_post_description: "A rare bird and gem in the Strata-East catalogue.\n          \n
+    \       \n      \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n
+    \ \n    \n      \n\n        \n\n        \n\n        \n          \n            \n
+    \       "
+  last_post_date: "2026-08-18T19:51:48Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/8/18/earth-blossom-by-the-john-betsch-society-on-strata-east-ses-19748
   last_post_categories:
   - LP 12"
   last_post_language: ""
-  last_post_guid: a08ff1370b6d5f810750c616a6a99b0a
+  last_post_guid: 1fda7d4cbf6621941c8af5917af352f8
   score_criteria:
     cats: 0
     description: 0

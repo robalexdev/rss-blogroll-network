@@ -10,7 +10,7 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,17 +18,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#614 When you tune the radio station perfectly so there’s absolutely
-    no static'
-  last_post_description: I’m a terrible tuner. Yeah, I’m the guy twiddling clock radio
-    dials before bed every night with scrunched up eyebrows. Usually I end up on a
-    crystal-clear station that I quickly realize isn’t
-  last_post_date: "2026-08-17T04:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/08/17/614-when-you-tune-the-radio-station-perfectly-so-theres-absolutely-no-static-4/
+  last_post_title: '#605 Christmas hugs'
+  last_post_description: |-
+    AWESOME! Make your inbox awesome: Photos from: here, here, here, here, here, and here
+    The post #605 Christmas hugs appeared first on 1000 Awesome Things.
+  last_post_date: "2026-08-28T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/08/28/605-christmas-hugs-3/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: 204bec0699012ae31548339cfb87ec8b
+  last_post_guid: a3a4bc350865bfc78d3c4ef6a8c045fd
   score_criteria:
     cats: 0
     description: 3

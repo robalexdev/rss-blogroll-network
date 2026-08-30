@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Misery Will Continue Until Morale Improves
-  last_post_description: Why Trump is eviscerating the military
-  last_post_date: "2026-08-17T10:28:26Z"
-  last_post_link: https://paulkrugman.substack.com/p/the-misery-will-continue-until-morale
+  last_post_title: Make Geography Great Again
+  last_post_description: What’s in a name?
+  last_post_date: "2026-08-28T10:30:23Z"
+  last_post_link: https://paulkrugman.substack.com/p/make-geography-great-again
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9f66748def13f8b90df640b29e953fd7
+  last_post_guid: 681fd9dfa71edeec32ed67b8375df61c
   score_criteria:
     cats: 0
     description: 3

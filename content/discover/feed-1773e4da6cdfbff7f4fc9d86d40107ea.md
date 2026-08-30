@@ -1,6 +1,6 @@
 ---
 title: Abuse of Notation
-date: "2026-05-27T10:16:08Z"
+date: "2026-08-26T11:43:36Z"
 description: writings on math, logic, philosophy and art
 params:
   feedlink: https://abuseofnotation.github.io/feed.xml
@@ -16,32 +16,30 @@ params:
   recommender: []
   categories:
   - microblog
-  - philosophy
   relme: {}
-  last_post_title: True and correct
-  last_post_description: In the 19th century, Copernicus, Newton, Galilei et al pushed
-    a revolutionary new idea that reshaped the way we think… but no, it’s not talking
-    about cosmology, but about theology. This idea,
-  last_post_date: "2026-02-22T00:00:00Z"
-  last_post_link: http://abuseofnotation.github.io/true-correct/
+  last_post_title: Entropy
+  last_post_description: 'Weird places where I encounter the concept of #entropy Value,
+    according to some theory of economics, is created by rearranging the natural resources,
+    given to us in a special way. Computation'
+  last_post_date: "2026-08-26T00:00:00Z"
+  last_post_link: http://abuseofnotation.github.io/entropy/
   last_post_categories:
   - microblog
-  - philosophy
   last_post_language: ""
-  last_post_guid: 78a37edb739ed329fd67f71e7fb293e5
+  last_post_guid: ef8296d3f592547d33373f033be09e54
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

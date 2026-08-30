@@ -10,7 +10,7 @@ params:
     https://danielprindii.com/blog: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,11 +27,11 @@ params:
   categories: []
   relme:
     https://danielprindii.com/blog: true
-  last_post_title: The European landscape of social media platforms
-  last_post_description: An overview of the most discussed social media platforms
-    launched in Europe, or with their infrastructure hosted in …
-  last_post_date: "2026-07-21T16:00:00+02:00"
-  last_post_link: https://danielprindii.com/blog/european-social-platforms
+  last_post_title: How to keep track of authorship with Obsidian in GenAI times
+  last_post_description: My system for keeping a history of my writing and research
+    within Obsidian.
+  last_post_date: "2026-08-25T13:00:00+02:00"
+  last_post_link: https://danielprindii.com/blog/authorship-obsidian
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 6786701fb7219b464eb585f6456da80c

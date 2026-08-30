@@ -1,6 +1,6 @@
 ---
 title: A Radical Cut In The Texture Of Reality
-date: "2026-08-16T06:23:29-04:00"
+date: "2026-08-28T14:22:43-04:00"
 description: ""
 params:
   feedlink: https://radicalcut.blogspot.com/atom.xml
@@ -193,6 +193,7 @@ params:
   - Erin Hill
   - Erin Markey
   - Eruditio ex Memoria
+  - Etna Pastificio
   - Eugene Lim
   - Eugene Thacker
   - Eunsong Kim
@@ -696,15 +697,15 @@ params:
   - Écotone - Espace d'expérimentation
   - Öyvind Fahlström
   relme: {}
-  last_post_title: Excerpt from the novel-in-progress Failure Finds its Happy End
+  last_post_title: Past Making workshop-fundraiser with PME-ART & Etna Pastificio
   last_post_description: ""
-  last_post_date: "2026-08-13T18:21:39-04:00"
-  last_post_link: https://radicalcut.blogspot.com/2026/05/excerpt-from-novel-in-progress-failure.html
+  last_post_date: "2026-08-27T16:36:18-04:00"
+  last_post_link: https://radicalcut.blogspot.com/2026/08/past-making-workshop-fundraiser-with.html
   last_post_categories:
-  - Excerpts from Jacob Wren novels
-  - Failure Finds its Happy End
+  - Etna Pastificio
+  - PME-ART
   last_post_language: ""
-  last_post_guid: 36308e5ec28803451c2b05d81b7bef83
+  last_post_guid: fa40fb49baede9d7312955f1e0c44a7a
   score_criteria:
     cats: 5
     description: 0

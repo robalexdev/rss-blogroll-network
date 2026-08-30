@@ -1,6 +1,6 @@
 ---
 title: Bruce Charlton's Notions
-date: "2026-08-17T08:27:52+01:00"
+date: "2026-08-27T21:18:13+01:00"
 description: ""
 params:
   feedlink: https://charltonteaching.blogspot.com/feeds/posts/default
@@ -48,13 +48,13 @@ params:
     https://thoughtprison-pc.blogspot.com/: true
     https://williamarkle.blogspot.com/: true
     https://www.blogger.com/profile/09615189090601688535: true
-  last_post_title: The Battle of Britain was the last group goodness at a large scale
+  last_post_title: The rise and fall of totalitarian projects is just Office Politics
   last_post_description: ""
-  last_post_date: "2026-08-17T08:27:52+01:00"
-  last_post_link: https://charltonteaching.blogspot.com/2026/08/the-battle-of-britain-was-last-group.html
+  last_post_date: "2026-08-26T15:20:05+01:00"
+  last_post_link: https://charltonteaching.blogspot.com/2026/08/the-rise-and-fall-of-totalitarian.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c8f911739f7bb009934e0e4970db9b7c
+  last_post_guid: 157c8a3c84fa1aabb16ff7c09ab1997f
   score_criteria:
     cats: 0
     description: 0

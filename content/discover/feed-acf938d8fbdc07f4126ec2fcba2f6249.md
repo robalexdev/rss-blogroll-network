@@ -21,14 +21,16 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - photo
   relme:
     https://kiakamgar.com/: true
   last_post_title: Dark sky
   last_post_description: ""
   last_post_date: "2026-08-16T06:52:04Z"
   last_post_link: https://kiakamgar.com/posts/dark-sky
-  last_post_categories: []
+  last_post_categories:
+  - photo
   last_post_language: ""
   last_post_guid: 34300543797c3bc80b0ac884c2c6db93
   score_criteria:
@@ -37,13 +39,13 @@ params:
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

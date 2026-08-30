@@ -22,25 +22,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Claude Code
-  - Cursor
-  - OpenSpec
-  - 研发
+  - InfiniBand
+  - RDMA
+  - RoCE
+  - 网络
+  - 运维
+  - 高性能计算
   relme: {}
-  last_post_title: OpenSpec：给 AI 编程加一层轻量规格契约
-  last_post_description: 1. OpenSpec 是什么 OpenSpec 是一个开源的规格驱动开发（Spec-Driven Development）框架，由
-    Fission-AI 维护。它不试图教会 AI 新的编程技巧，而是在人和 AI
-  last_post_date: "2026-07-31T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/openspec-spec-driven-development-for-ai.html
+  last_post_title: RDMA 运维
+  last_post_description: '1. RoCE 1.1 连接要求 RDMA 要求端到端同一类网络，比如同一个 B 段网。 单交换机。 RoCE:
+    主机 NIC ── 以太交换机(PFC) ── 对端 NIC 多台交换机。 RoCE:'
+  last_post_date: "2026-08-22T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/rdma-ops.html
   last_post_categories:
-  - AI
-  - Claude Code
-  - Cursor
-  - OpenSpec
-  - 研发
+  - InfiniBand
+  - RDMA
+  - RoCE
+  - 网络
+  - 运维
+  - 高性能计算
   last_post_language: ""
-  last_post_guid: 6cd96ee013b471a81bf96113dbba8453
+  last_post_guid: 3564f732db2059e6e745ffe6a3fa2574
   score_criteria:
     cats: 0
     description: 3

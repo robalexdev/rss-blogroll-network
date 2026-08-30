@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-08-07T22:51:41Z"
+date: "2026-08-22T22:13:40Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml

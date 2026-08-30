@@ -1,6 +1,6 @@
 ---
 title: chrisfun
-date: "2026-05-05T03:05:24Z"
+date: "2026-08-18T12:52:00Z"
 description: My not-a-professional website
 params:
   feedlink: https://chrisfun.xyz/feed.xml
@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My letter to my reps regarding California’s age verification law
-  last_post_description: My name’s Chris Taylor. I’m a software engineer and a constituent
-    in your district. I grew up in California and got a computer engineering degree
-    from UCSB (the one by the beach). I’ve worked
-  last_post_date: "2026-03-30T00:00:00Z"
-  last_post_link: http://chrisfun.xyz/letter
+  last_post_title: My crash course in lobbying for open source
+  last_post_description: 'One morning, this headline greeted me: “California’s AB
+    1043 could regulate every Linux command[…]” It seemed like clickbait. I thought
+    California was good at regulating technology. Why would'
+  last_post_date: "2026-08-15T00:00:00Z"
+  last_post_link: http://chrisfun.xyz/daaa
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: db1dd85fcf5763d39d6033fd7d0b0fc1
+  last_post_guid: d70a4f26477676ccf480fa36bdb8f581
   score_criteria:
     cats: 0
     description: 3

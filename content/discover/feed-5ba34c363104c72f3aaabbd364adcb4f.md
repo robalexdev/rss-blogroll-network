@@ -21,24 +21,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Maker Monday
-  - Raspberry Pi 3B+
-  - Raspberry Pi Camera
-  - Raspberry Pi Cameras
+  - Industry
+  - Raspberry Pi Silicon
+  - Research
   relme: {}
-  last_post_title: Iris colour detection with Raspberry Pi
+  last_post_title: 'A better model for silicon: quantifying chip carbon with Columbia
+    and Cornell'
   last_post_description: |-
-    This computer vision project helps explain the genetic mechanisms underlying the inheritance of eye colour.
-    The post Iris colour detection with Raspberry Pi appeared first on Raspberry Pi.
-  last_post_date: "2026-08-17T11:27:06Z"
-  last_post_link: https://www.raspberrypi.com/news/iris-colour-detection-with-raspberry-pi/
+    MicroGreen and ACT were built to enable engineers to quantify the embodied carbon of their hardware.
+    The post A better model for silicon: quantifying chip carbon with Columbia and Cornell appeared
+  last_post_date: "2026-08-28T09:33:07Z"
+  last_post_link: https://www.raspberrypi.com/news/a-better-model-for-silicon-quantifying-chip-carbon-with-columbia-and-cornell/
   last_post_categories:
-  - Maker Monday
-  - Raspberry Pi 3B+
-  - Raspberry Pi Camera
-  - Raspberry Pi Cameras
+  - Industry
+  - Raspberry Pi Silicon
+  - Research
   last_post_language: ""
-  last_post_guid: d70838d46febfa6e27d000b79e817e44
+  last_post_guid: 6cf6601261e3fec1b518bd8151330797
   score_criteria:
     cats: 0
     description: 3

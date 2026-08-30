@@ -10,7 +10,7 @@ params:
     https://hatchingcatnyc.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,22 +22,28 @@ params:
   recommended: []
   recommender: []
   categories:
+  - 62 Montague Street
+  - Anna Juliette Osborn
   - Cat Stories
   - Cats of Old New York
-  - New York City History
+  - Jane Donaldson Myers
+  - Lady Mary wortley Montagu
   relme: {}
-  last_post_title: Hatching Cat Talks Grimalkins on the Gilded Gentleman
-  last_post_description: 'A few months ago, I had the pleasure of being the guest
-    of Carl Raymond on his popular podcast, The Gilded Gentleman. Carl started his
-    podcast in 2021, and it is now at an impressive #21 on Apple’s'
-  last_post_date: "2026-05-22T08:00:00Z"
-  last_post_link: https://hatchingcatnyc.com/2026/05/22/hatching-cat-nyc-gilded-gentleman-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=hatching-cat-nyc-gilded-gentleman-podcast
+  last_post_title: '1930s: Johnny and Snooky, the Aristocratic Cats of Montague Street'
+  last_post_description: Johnny was a fancy-schmancy feline. So it’s no surprise that
+    the pampered pet lived in one of the fanciest apartment buildings in Brooklyn
+    Heights, at 62 Montague Street. Johnny was a black Persian
+  last_post_date: "2026-08-20T23:26:46Z"
+  last_post_link: https://hatchingcatnyc.com/2026/08/20/johnny-snooky-cats-montague-street/?utm_source=rss&utm_medium=rss&utm_campaign=johnny-snooky-cats-montague-street
   last_post_categories:
+  - 62 Montague Street
+  - Anna Juliette Osborn
   - Cat Stories
   - Cats of Old New York
-  - New York City History
+  - Jane Donaldson Myers
+  - Lady Mary wortley Montagu
   last_post_language: ""
-  last_post_guid: 18e8907fafff6553c5949426a76322d7
+  last_post_guid: 89aef74a13579b7eda2be2eb6f962c25
   score_criteria:
     cats: 0
     description: 3

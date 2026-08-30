@@ -17,7 +17,7 @@ params:
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.
     id: 4245e42f2d95b58713124e48e7ed0b3c
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: robalexdev
@@ -64,6 +64,7 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
+  - AI
   - Tech
   relme: {}
   last_post_title: Did OpenAI hack Hugging Face or didn’t they?
@@ -73,6 +74,7 @@ params:
   last_post_date: "2026-08-01T20:06:45Z"
   last_post_link: https://josh.blog/2026/08/did-openai-hack-hugging-face-or-didnt-they
   last_post_categories:
+  - AI
   - Tech
   last_post_language: ""
   last_post_guid: dc57190a1142f16d50266faf84b937d6
@@ -82,13 +84,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 10
     relme: 0
     title: 3
     website: 0
-  score: 26
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

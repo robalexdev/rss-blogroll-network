@@ -16,41 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Quantum
-  - Real science
   - Reflections
-  - Theoretical highlights
-  - cellular automata
-  - physics
+  - The expert's corner
   relme: {}
-  last_post_title: Interacting collaborators reveal noninteracting fermions
-  last_post_description: By day, I work as an experimentalist on laser-cooling molecules,
-    but I’ve never fully surrendered my theoretical-physics license. I started as
-    an undergraduate in Lincoln Carr’s group at the
-  last_post_date: "2026-08-10T04:34:38Z"
-  last_post_link: https://quantumfrontiers.com/2026/08/09/interacting-collaborators-reveal-noninteracting-fermions/
+  last_post_title: Nicole’s guide to writing and editing
+  last_post_description: Freshman year of college, I took a writing seminar from German-literature
+    professor Ellis Shookman. Professor Shookman loved Mozart’s music, he told us
+    early in the term. He listened to Mozart on
+  last_post_date: "2026-08-26T23:53:01Z"
+  last_post_link: https://quantumfrontiers.com/2026/08/26/nicoles-guide-to-writing-and-editing/
   last_post_categories:
-  - Quantum
-  - Real science
   - Reflections
-  - Theoretical highlights
-  - cellular automata
-  - physics
+  - The expert's corner
   last_post_language: ""
-  last_post_guid: b949a610ccf9a82a62dcd49a46528e1c
+  last_post_guid: 52722ea43340d36059f243ea2cf1e47f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

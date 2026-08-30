@@ -1,6 +1,6 @@
 ---
 title: Kristin Berkey-Abbott
-date: "2026-08-17T06:24:54-04:00"
+date: "2026-08-28T05:54:00-04:00"
 description: ""
 params:
   feedlink: https://kristinberkey-abbott.blogspot.com/feeds/posts/default
@@ -10,7 +10,7 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5367 blogs
+  - title: Bubbles — 5347 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -168,29 +168,28 @@ params:
     https://kristinberkey-abbott.blogspot.com/: true
     https://liberationtheologylutheran.blogspot.com/: true
     https://www.blogger.com/profile/16841824206762029363: true
-  last_post_title: A Week-end in Books and Sermons
+  last_post_title: First Full Day of Summer 2026 Quilt Camp
   last_post_description: ""
-  last_post_date: "2026-08-17T06:24:54-04:00"
-  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/08/a-week-end-in-books-and-sermons.html
+  last_post_date: "2026-08-28T05:54:00-04:00"
+  last_post_link: https://kristinberkey-abbott.blogspot.com/2026/08/first-full-day-of-summer-2026-quilt-camp.html
   last_post_categories:
-  - Reading Life
-  - good books
-  - spiritual connections
+  - fabric arts
+  - quilting
   last_post_language: ""
-  last_post_guid: 2f6a38f67681b599733ae4bf9f16c7e0
+  last_post_guid: 802f91a1caea1a27954c3809746c253d
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 25
   ispodcast: false
   isnoarchive: false
   innetwork: true
