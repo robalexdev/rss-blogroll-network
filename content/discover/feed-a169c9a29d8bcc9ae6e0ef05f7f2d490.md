@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2026-05-04T10:53:06-04:00"
+date: "2026-08-26T12:00:38-04:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -13,7 +13,10 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -22,25 +25,18 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
-  recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Quality vs quantity in the age of AI
-  last_post_description: Over the last four months I’ve increased my use of AI for
-    web dev work pretty dramatically. I use it every day at work, as do most of my
-    coworkers. I don’t think it’s disputed anymore that AI
-  last_post_date: "2026-04-27T00:00:00-04:00"
-  last_post_link: https://www.bryanbraun.com/2026/04/27/quality-vs-quantity-in-the-age-of-ai/
+  last_post_title: Klara and the gift of curiosity
+  last_post_description: In October, a new movie will be released based on one of
+    my favorite books, Klara and the Sun.
+  last_post_date: "2026-08-26T00:00:00-04:00"
+  last_post_link: https://www.bryanbraun.com/2026/08/26/klara-and-the-gift-of-curiosity/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 962f4f9eaa148aaa444ef416926a285a
+  last_post_guid: 486bc86e90dbcb4f1a5fb89a9b7a1296
   score_criteria:
     cats: 0
     description: 3

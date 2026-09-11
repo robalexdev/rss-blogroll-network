@@ -10,7 +10,10 @@ params:
     https://artiss.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,34 +25,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Boots
   - Life
   relme:
     https://artiss.blog/: true
-  last_post_title: Mole and eMon – the forgotten support software at Boots
-  last_post_description: Back in the early/mid-1990s I’d been working on the IT (then
-    IS) Help Desk at Boots the Chemist, supporting store’s POS (Point of Sale) systems.
-    After a few years, my existing development chops
-  last_post_date: "2026-08-25T18:35:38Z"
-  last_post_link: https://artiss.blog/2026/08/mole-and-emon-the-forgotten-support-software-at-boots/
+  last_post_title: Nextbase Dashcam – Battery replacement that’s not very repair,
+    or pocket, friendly
+  last_post_description: So many people have dashcams in their car, and I’m no exception.
+    I have a Nextbase model but, recently, it’s been randomly restarting during journeys.
+    After discussion with the AI support bot (I
+  last_post_date: "2026-09-06T13:13:11Z"
+  last_post_link: https://artiss.blog/2026/09/nextbase-dashcam-battery-replacement-thats-not-very-repair-or-pocket-friendly/
   last_post_categories:
-  - Boots
   - Life
   last_post_language: ""
-  last_post_guid: 9d3b1be8a88f49f7a5795d0afb35c2e0
+  last_post_guid: f4dd66759b25feb0fd30bc820e6aefc6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

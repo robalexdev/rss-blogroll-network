@@ -24,15 +24,20 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: Kia is recalling over 21,000 EV9 SUVs over a faulty airbag issue
-  last_post_description: Kia issued a recall affecting more than 21,000 EV9 SUVs because
-    the airbag system may fail to detect a child in the front seat.
-  last_post_date: "2026-08-28T21:06:03Z"
-  last_post_link: https://electrek.co/2026/08/28/kia-is-recalling-over-21000-ev9-suvs-over-a-faulty-airbag-issue/
+  last_post_title: Nissan undercuts Kia to retake the crown as Canada’s most affordable
+    EV
+  last_post_description: |-
+    The Kia EV3 is no longer Canada’s most affordable electric vehicle with the new 2027 Nissan Leaf S starting at under CA$35,000.
+
+
+
+     more…
+  last_post_date: "2026-09-11T16:03:20Z"
+  last_post_link: https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: 94c0425db2599ef26e52f0a91274a8a2
+  last_post_guid: 55bb03f44c22cb6d76f9ea1ea7696479
   score_criteria:
     cats: 0
     description: 3

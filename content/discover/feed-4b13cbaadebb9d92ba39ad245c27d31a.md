@@ -1,6 +1,6 @@
 ---
 title: This Way Up
-date: "2026-08-28T19:35:29+01:00"
+date: "2026-09-11T14:24:47+01:00"
 description: 'Reviewing new and old  tv, film and other stuff / Website: www.johnconnorswriter.com
   / Instagram: johnconnors100 / X: @JohnConnors100  /'
 params:
@@ -11,7 +11,10 @@ params:
     https://thiswayupzine.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -493,6 +496,7 @@ params:
   - Brenock O'Connor
   - Brenton Thwaites
   - Brett   Morgen
+  - Brewster McCloud
   - Brexit
   - Brexit Day
   - Brexit Fifty Pence Coin
@@ -2102,6 +2106,7 @@ params:
   - Marc Warren
   - Marc Webb
   - Marcquelle Ward
+  - Margaret Hamilton
   - Margot Robbie
   - Maria Carey
   - Mariah Carey
@@ -2200,6 +2205,7 @@ params:
   - Michael Keaton
   - Michael Kitchen
   - Michael Lindley
+  - Michael Murphy
   - Michael Palin
   - Michael Rennie
   - Michael Shannon
@@ -2669,6 +2675,7 @@ params:
   - Reg Varney
   - Remoaners
   - Renate Reinsve
+  - Rene Auberjonois
   - Renny Rye
   - Rescue
   - Resident Swan
@@ -2710,6 +2717,7 @@ params:
   - Riz Ahmed
   - Rob Lieber
   - Robbie Williams
+  - Robert Altman
   - Robert Aramayo
   - Robert C Baker
   - Robert Downey Jr
@@ -2799,6 +2807,7 @@ params:
   - Salamander
   - Sally Adcock
   - Sally Hawkins
+  - Sally Kellerman
   - Saltburn review
   - Sam Bailey
   - Sam Mendes
@@ -2891,6 +2900,7 @@ params:
   - Shazam! movie review
   - Sheila Steafel
   - Sheila Steafel on The Ghosts of Motley Hall
+  - Shelley Duvall
   - Sheree Folkson
   - Sherlock
   - Sherlock Holmes
@@ -3073,6 +3083,7 @@ params:
   - St Brigid
   - St Patrick
   - St Patrick's Day
+  - Stacey Keach
   - Stacy Dooley
   - Stanley Tucci
   - Star One
@@ -3867,20 +3878,23 @@ params:
     https://thiswayup2zine.blogspot.com/: true
     https://thiswayupzine.blogspot.com/: true
     https://www.blogger.com/profile/16168072529186067346: true
-  last_post_title: Coyote vs. Acme review
+  last_post_title: Brewster McCloud (1970)
   last_post_description: ""
-  last_post_date: "2026-08-28T19:16:38+01:00"
-  last_post_link: https://thiswayupzine.blogspot.com/2026/08/coyote-vs-acme-review.html
+  last_post_date: "2026-09-06T19:11:28+01:00"
+  last_post_link: https://thiswayupzine.blogspot.com/2026/09/brewster-mccloud-1970.html
   last_post_categories:
-  - Coyote vs Acme
-  - Dave Green
+  - Brewster McCloud
+  - Bud Cort
   - Film
-  - John Cena
-  - Lana Condor
-  - Wile E Coyote
-  - Will Fort
+  - Margaret Hamilton
+  - Michael Murphy
+  - Rene Auberjonois
+  - Robert Altman
+  - Sally Kellerman
+  - Shelley Duvall
+  - Stacey Keach
   last_post_language: ""
-  last_post_guid: 8b40fdfe8071997f33bd1f623b20dc85
+  last_post_guid: 5c92988ccdf4fc2bd7762ec8609ef10b
   score_criteria:
     cats: 5
     description: 3

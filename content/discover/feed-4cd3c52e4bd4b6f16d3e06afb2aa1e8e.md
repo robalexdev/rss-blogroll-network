@@ -24,35 +24,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 2026 midterm elections
-  - News
-  - Supreme Court
+  - Editors' Blog
   relme: {}
-  last_post_title: Trump Appeals Newest Block on His Attempt to Take Over Mail-In
-    Voting
-  last_post_description: The Trump administration wasted no time appealing a district
-    judge’s Thursday night order temporarily keeping it from enforcing an executive...
-  last_post_date: "2026-08-28T19:58:43Z"
-  last_post_link: https://talkingpointsmemo.com/news/trump-appeals-injunction-mail-in-voting-executive-order
+  last_post_title: 'YouTube Live: Join Joe Ragazzo, Nicole LaFond and Kate Riga at
+    1 PM ET'
+  last_post_description: Our publisher Joe Ragazzo is going to be hosting biweekly
+    YouTube lives with members of our team, on Tuesdays and...
+  last_post_date: "2026-09-11T16:21:05Z"
+  last_post_link: https://talkingpointsmemo.com/edblog/youtube-live-join-joe-ragazzo-nicole-lafond-and-kate-riga-at-1-pm-et
   last_post_categories:
-  - 2026 midterm elections
-  - News
-  - Supreme Court
+  - Editors' Blog
   last_post_language: ""
-  last_post_guid: 63496000c7004f7730ddcd4b8ef8f268
+  last_post_guid: afb03ebba5b9c2c2c514b4a80708714b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,0 +1,780 @@
+---
+title: coastrider
+date: "2026-09-07T17:01:27+01:00"
+description: coastal cycling in East Lothian, Scotland and related outdoor interests
+params:
+  feedlink: https://coastkid.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: baafdc2959ac04a2c08f4a7cc64033cd
+  websites:
+    https://coastkid.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - '"29+ On the Coast?'
+  - 10 Years of Fatbikes in Scotland
+  - "11"
+  - "1745"
+  - 1945 U Boat Surrender
+  - 1970`s East Lothian Archaeological Motor Trail.
+  - 1974 Dawes Galaxy
+  - 1980s Peugot Trialthlon
+  - 1985 Muddy Fox Courier
+  - "1987"
+  - "2010"
+  - 2013 Photo Dump
+  - 2013 Retrospect
+  - 2014 Bikes line up
+  - 2015 Bikes Line up
+  - "2016"
+  - 2016 Retrospect
+  - 2017 Bikes line up
+  - 2017 Retrospect
+  - 2018 Retrospect
+  - 2019 Retrospect
+  - 2020 Retrospect
+  - 2021 Lockdown
+  - 2021 Retrospect
+  - 2023 - bikes in use
+  - 25 Pounder Gun
+  - 27.5+
+  - 29+
+  - 29+ Harvest cycling
+  - 29+ The Future
+  - 29er
+  - 50mm wide rims for XC riding
+  - 5th November
+  - 69er
+  - 6th June D Day
+  - 9zero7
+  - Aberdeenshire
+  - Aberlady
+  - Agriculture
+  - Airshow
+  - Al Murray
+  - Alfine IGH
+  - Alfine Pugsley
+  - An Everest of Allermuirs
+  - An old spoon with a story
+  - Angus cycling Festival
+  - Anthrax Island
+  - Apocalypse Pugsley
+  - Archie Mathieson Countryside Ranger
+  - Argyll
+  - Argyll.Kintyre
+  - Army Pugsley
+  - Army Surplus Store
+  - Army Torches
+  - Ash Lagoons
+  - Aux Units
+  - Aviemore
+  - B17
+  - B17 Wreck site
+  - B24 Liberator crash site
+  - BBC Countryfile
+  - Balgone Windmill
+  - Balnakeil
+  - Barns Ness Lighthouse
+  - Barony Castle
+  - Bass Rock
+  - Battle of Britain
+  - Beach Art
+  - Belhaven bay
+  - Ben Lomond
+  - Ben Nevis & Glencoe...1976... history
+  - Ben Wyvis
+  - Beta Band
+  - Bewickshire
+  - Bi Plane Flight
+  - Bikes Update;
+  - Bikes for sale
+  - Biking the Kintyre Way
+  - Binning Woods
+  - Blair Atholl
+  - Blog update
+  - Boards of Canada
+  - Bomber Command
+  - Booze
+  - Broadsands
+  - Brocken Spectre
+  - Brompton
+  - Brooks Saddles
+  - Built`s Embankment
+  - Burghead Bay
+  - Bute
+  - Caithness
+  - Callander
+  - Campusbarron
+  - Can you really make worthwhile income from YouTube Films?
+  - Canon Compact camera
+  - Canty Bay
+  - Capital Trail
+  - Capital Trail- Edinburgh`s Festive Cycling Week
+  - Carnoustie
+  - Carr Rocks
+  - Chain Bridge Honey Farm
+  - Charge Cooker
+  - Charlie the Bikemonger
+  - Christian Around Britain
+  - Christmas 1914 gift box
+  - Classic Cars
+  - Coast to Coast SUW
+  - Cockenzie
+  - Combine Harvester
+  - Cool Vimeo Films
+  - Corona Apocalypse
+  - Corrour Station
+  - Cotic Rocket
+  - Cove Harbour
+  - Crammond Island
+  - Cramond Island
+  - Cromarty Firth
+  - Crovie
+  - Culbin Forest
+  - Cycling The Southern Upland Way
+  - Cycling on sand
+  - DIY Fatbike stand
+  - DIY mono pod
+  - Dad
+  - Dakar Rally
+  - Danny Macaskill
+  - Dawes Super Galaxy
+  - Dawes Ultra Galaxy
+  - Day Trip
+  - Dere Street
+  - Dock Museum
+  - Drone Hill
+  - Drone films
+  - Drop Bar 29er
+  - Drop Bar`s off road
+  - Drumlandrig
+  - Drunk Cyclist
+  - Dunbar
+  - Dunbar 25 Pounder Gun
+  - Dunbar Cycling Group
+  - Dunbar on Yer Bike
+  - Dune Surfing
+  - Dunglass
+  - Dunkirk
+  - Dunnet Head
+  - Duns
+  - Durness
+  - EL MTB
+  - ELMTB
+  - East Fortune
+  - East Lothian Harvest
+  - East Lothian Whisky Galore
+  - East Lothian at War
+  - East Lothian from the air
+  - East Lothians Golf Heritage
+  - Easter
+  - Edinburgh
+  - Edinburgh Festival fringe
+  - Endurance Horse Riding
+  - Equinox
+  - Evening News Fatbike article
+  - Everest
+  - Exmoor Pony`s
+  - 'FAT-BIKE.COM Radio Show # 103'
+  - FORTH FAT
+  - FORTH FAT 2016
+  - FORTH FAT 2017
+  - FORTH FAT 2018
+  - FORTH FAT 2019
+  - Fairy Loch
+  - Fairy Lochs wreck site
+  - Faraid Head
+  - Fat BOB Trailer
+  - FatBike Tours
+  - Fatbike
+  - Fatbike Preperation for beach riding
+  - Fatbike Rock Crawling
+  - Fatbike Tubeless set up
+  - Fatbike wash stand
+  - Fatbikes
+  - Favourite and popular blogs
+  - Favourite outdoor clothing
+  - Findhorn
+  - First real snow ride on a Fatbike
+  - Fixie
+  - Flight over Everest 1933
+  - Flying Scotsman
+  - Forth Bridge
+  - Forth Fatbike Gathering
+  - Fraserburgh
+  - Freedom Weekend
+  - Fuji XP80
+  - Fun films with cheap camera`s
+  - GEAR REVIEWS
+  - GT Hardtail
+  - Garleton Ridge Road
+  - Garletons
+  - Genesis Caribou
+  - Genesis Cdf 13
+  - Genesis Prototype Fatbike
+  - Genesis Scottish Open 2024
+  - Ghetto Split Tube -  Tubeless
+  - Ghetto tubeless
+  - Gifford
+  - Gin Head
+  - Glenfinnan
+  - Glenmore
+  - Global Fat Bike Day 2013
+  - Global Fat Bike Day 2017
+  - Global Fat Bike day 2012
+  - Global Fatbike Day 2014
+  - Global Fatbike Day 2015
+  - Global Fatbike Day 2016
+  - Global Fatbike Day 2022
+  - Global Fatbike Day; Dec 7th 2013
+  - Go Pro Camera
+  - Go Pro HERO 10
+  - Goblin Castle
+  - Golf
+  - Gordon Highlanders
+  - Gosford
+  - Gosford Bay
+  - Greenkeeping
+  - Gullane
+  - Gullane Sandy Single track
+  - HBT
+  - HMS Ludlow Wreck
+  - Haar
+  - Half hour fix
+  - Halloween
+  - Harr
+  - Heated Gloves
+  - Help For Heroes
+  - Heron
+  - Herring Road
+  - Highland Clearances
+  - Hill walks Scotland
+  - Hillfoots
+  - Hispano 20mm
+  - Hitchcocks Performance Camshaft - J Series
+  - Home Chain Radar
+  - Hope Hubs
+  - Horror Films
+  - Hotchkiss Willys M201 Jeep
+  - How i was drawn to the `fat side`
+  - Hungry House
+  - Ideal Coastal cycling drive chains
+  - Indian Summer
+  - Innerwick castle
+  - JMCP
+  - JMW
+  - Jeff Jones
+  - Joey Tully Photography
+  - John Deere
+  - John Deere Green Surly Moonlander
+  - John o Groats
+  - Jones Truss Fork
+  - Keela Scuffer Trousers
+  - Killin
+  - Kilspindie
+  - Klunker
+  - KramPug
+  - Krampus 29+
+  - LEGO
+  - LOMO Gear
+  - La Gruta Memorial
+  - Lammermuirs Hills 5 Reservoirs loop
+  - Lancaster Bomber
+  - Landrover Defender
+  - Lanoguard
+  - Last build of a new Surly Pugsley 2.0
+  - Leuchars Air Show
+  - Life
+  - Life is Good.
+  - Life is Good. Autumn
+  - Lily Cam
+  - Lincolnshire
+  - Lindesfarne
+  - Lindisfarne
+  - Local Hero
+  - Loch Eriboll
+  - Loch Ewe
+  - Loch Morlich
+  - Longyester
+  - Lord Lucas Price of Darkness
+  - Lossiemouth
+  - Lowry Trail
+  - Lowther Hills
+  - Luffness
+  - Lunan bay
+  - MG42
+  - MK1 Pugsley Refit
+  - MTBscotland forun ride
+  - Maczeck`s Map of Scotland
+  - Made Like A Gun
+  - Made in Britain
+  - Magicshine lights
+  - Making as film
+  - ManCave
+  - Mark Thomas
+  - Memphis Belle
+  - Metal Detecting
+  - Microlight flight
+  - Microshift Acolyte
+  - Midweek films
+  - Military Museum Scotland
+  - Military Vehicle meet up
+  - Mongoose Fatbike
+  - Montrose Air Heritage Centre
+  - Moonlander
+  - Moonlandings
+  - Moray Coast
+  - Moray Way
+  - Motorcycle Scramble
+  - Mowgli
+  - Mukluk
+  - Munros
+  - Murphy dog
+  - Museum of Flight
+  - Music and films
+  - NC500
+  - Nate Tyres
+  - Never enough bikes!
+  - Newbury Beach
+  - Nigel Tranter
+  - No Through Road
+  - Northumberland
+  - Norwegian Wood
+  - Old Maps
+  - Old Tools
+  - On One Inbred 29er
+  - Operation Bigfoot
+  - PUBLIC SERVICE BROADCASTING
+  - Pashley Speed 5
+  - Pease Bay
+  - Pembleton car
+  - Pencaitland
+  - Pennan
+  - Phontaine
+  - Pics by Sanny
+  - Pill Box
+  - Pimp your Pug!
+  - Pitmedden Forest
+  - Port Seaton
+  - Prestongrange
+  - Prestonpans murals
+  - Preventive maintenance
+  - Progect Excelsior
+  - PugLander!
+  - Pugsley; Fit for Purpose
+  - Pumpkin Pugsley
+  - Purple Pugsley
+  - Purple Surly Pugsley
+  - Pylon Road
+  - Quadangle
+  - Quadcopter
+  - RAF Crosslaw
+  - RAF Drem
+  - RAF Leuchars Airshow
+  - RAF Macmerry
+  - ROC
+  - ROTOR Bunker visit
+  - Rabbit Holes
+  - Radio Scotland Out of Doors Beachride
+  - 'Radio; FAT-BIKE.COM Radio show #27'
+  - Raleigh vintage steel
+  - Ravensheugh
+  - Redheugh Salmon Station
+  - Redpoint Beach
+  - Reiss Beachride
+  - Remembrance Day
+  - Retro Fatbike
+  - Retro mtb
+  - Retrospect 2010
+  - Retrospect 2011
+  - Retrospect 2012
+  - Retrospect 2014
+  - Retrospect 2015
+  - Ritchey Commando
+  - Roadbike
+  - Roadtrip 2011
+  - Roadtrip 2013
+  - Roadtrip 2015
+  - Roadtrip2011
+  - Robert Lewis Stevenson
+  - Rogue Hoodie
+  - Roughstuff
+  - Royal Enfield 350 meets a 500 Bullet!
+  - Royal Enfield Classic 350
+  - Royal Observer Corps
+  - Ruins of Seacliff House
+  - Rusty Gold
+  - Ryvoan Pass
+  - SAS
+  - SE BMX
+  - SE Bikes. BMX
+  - SE Racing
+  - SS Poderosa Wreck
+  - SSEC17
+  - SSUK
+  - SURLY KramPug
+  - Salsa
+  - Salsa Bucksaw
+  - Salsa Fargo
+  - Salsa Fargo Review
+  - Salsa Muckluk
+  - Salsa Mukluk 3
+  - Salt Marsh cycling
+  - Saltire Flag
+  - Saltwater exposure on Fatbikes
+  - Sandblasted cc  Beach race
+  - Sandwood Bay
+  - Saturday
+  - Saturdays
+  - Schools out... forever
+  - Scottish Borders
+  - Scottish Fatbike History...
+  - Sea Haar. coast
+  - Seacliff House.Urbex
+  - Secret trail
+  - Segways
+  - September
+  - Showers Pass Cloud Cover review
+  - Showers pass clothing
+  - Shut up and ride
+  - Singular Puffin
+  - Singular Puffin Gen 2 Review
+  - Skateraw
+  - Skiff racing
+  - Slaggin Bay
+  - Sloe Gin
+  - Smoo Cave
+  - Snake Plissken
+  - Solomon GTX Review
+  - Space
+  - Special Air Service
+  - Speyside Way
+  - Spitfire Ace
+  - Split tube Tubeless
+  - Spookywood
+  - St Andrews
+  - St Kilda
+  - Star Wars
+  - Steampunk
+  - Storm Arwen 2021
+  - Summer Solstice
+  - Summer time
+  - Supermarine Spitfire
+  - Supermarine Spitfire P9374
+  - Surly Bikes
+  - Surly Cross-Check
+  - Surly Disc Trucker
+  - Surly ECR
+  - Surly Ice Cream Truck
+  - Surly Karate Monkey
+  - Surly KramPug 2.0
+  - Surly Krampus
+  - Surly Krampus with FOX fork
+  - Surly Moonlander
+  - Surly Moonlander 2.0 REVIEW
+  - Surly Moonlander Resurrection
+  - Surly Moonlander review
+  - Surly PugLander
+  - Surly Pugsley
+  - Surly Pugsley 2.0
+  - Surly Pugsley 2.0 Update
+  - Surly Pugsley; 5 Years on...
+  - Surly Wednesday
+  - Surly Wednesday 6 years on Review
+  - Surly Wednesday Update
+  - Sutherland
+  - Tandem MTB
+  - Tank blocks
+  - Tantallon
+  - Tarus 2x2 Russia motorcycle
+  - Tentsmuir
+  - Teva shoes
+  - The Bonk
+  - The Borders Abbeys Way (Walking Route)
+  - The Dambusters
+  - The Green Pugsley (No3). 29+
+  - The Jerry Can
+  - The Kelpies
+  - The Lighthouse
+  - The North Berwick Heinkel
+  - The Pink Pugsley
+  - The Rigs of Nigg
+  - The `FAT SIDE`
+  - The classic subs wrecks beach ride...
+  - The subs
+  - Threshing machines
+  - Tomorrow`s Harvest
+  - Tomorrows Harvest
+  - Total Warrior
+  - Tracks
+  - Trainspotting
+  - Tyne
+  - Tyninghame
+  - Tyninghame woods
+  - UCI down hill
+  - UK FAT BIKE Gathering
+  - UK Fat Bike Forum
+  - URBEX
+  - Vanlife
+  - Vintage Cars
+  - Visit Scotland
+  - Vityaz ATV
+  - Vulcan Bomber
+  - WE3FAT
+  - WHO DARES WINS
+  - WW 1
+  - WW1
+  - WW1 War Records of my Great Grandfather
+  - WW2
+  - WW2 Coastal Defences
+  - WW2 Flame Fougasse
+  - WW2 German POW Camp Cooler Explore
+  - WW2 The Auxiliary Army
+  - WW2 aircraft crash site
+  - WW2 defences
+  - WW2 german spoon
+  - WW2; The Aux Units
+  - Wanlockhead
+  - West Barnes Ranges
+  - Whisky galore
+  - Whiteadder
+  - Whitekirk
+  - Why we are here today
+  - Willys Jeep
+  - Windfarm
+  - Winton
+  - Winton Massif
+  - Wojtek Soldier Bear
+  - Woodburning Stove
+  - Workshop tools
+  - World Wars Experiance
+  - XT Class Submarine Wrecks
+  - Xmas hols ride
+  - Yester
+  - York Roadtrip
+  - ZAJO clothing
+  - Zombie a
+  - '`Becky`s Strip`  Byway - Whitekirk'
+  - aberlady bay
+  - ancient monuments
+  - applecross
+  - arts
+  - autumn
+  - bal
+  - barnes ness
+  - beach riding
+  - beachcombing
+  - beachride
+  - beachride and SUP
+  - beachriding
+  - beachridng
+  - berwickshire
+  - big blue sky
+  - big sky day
+  - bike films
+  - bike maintenance
+  - bike packing
+  - bike parts
+  - bikepacking
+  - bivvy
+  - bling
+  - blogs
+  - bmx
+  - bob trailer
+  - books
+  - bunkers
+  - cake
+  - camping
+  - cannondale uber v
+  - cheap cycling
+  - cheviot hills
+  - cider
+  - clothing
+  - coast
+  - coast running
+  - coastal car parks and motorcycle parking fees?
+  - coastal defences
+  - cold war
+  - coldingham
+  - commuting
+  - commuting and shopping best bike
+  - computer
+  - cycling
+  - cycling to the shops
+  - dream homes
+  - dreaming
+  - dunes
+  - eBikes
+  - east coast
+  - east lothian
+  - epic ride
+  - erosion
+  - exploring
+  - fat bikes
+  - firewood
+  - fort william
+  - freeheat
+  - friends
+  - friends Balgone Lake
+  - fun
+  - garden
+  - garleton hills
+  - garlton hills
+  - glentress
+  - gravel
+  - gravel bikes?
+  - greenlanes
+  - gullane bents
+  - harvest
+  - hennessy hammock
+  - high tide
+  - highest road in UK!
+  - highland clans
+  - history
+  - holy island
+  - how to film
+  - human endurance
+  - ice cream
+  - industrial
+  - innerliethen
+  - inventions
+  - isle of harris
+  - isle of skye
+  - john muir park
+  - john muir trail
+  - karate monkey
+  - lam
+  - lammermuirs
+  - lano
+  - law cycles
+  - local history
+  - local scenery
+  - local trails
+  - low tides
+  - maps
+  - me time
+  - messing around in the garage
+  - micro adventure
+  - mid lothian
+  - midweek cycle
+  - motorbike
+  - motorcycle
+  - mud
+  - music
+  - nature
+  - netherlands
+  - nightride
+  - north berwick
+  - north berwick law
+  - nostalgia
+  - old bikes
+  - old buildings
+  - old roads
+  - old trees
+  - one on 456
+  - passion
+  - peffersands
+  - pentlands
+  - pugsley
+  - rain cycle
+  - real fire
+  - retrospect 2009
+  - road trip
+  - roadside history
+  - roadtrip
+  - rock riding
+  - running
+  - sandy single track
+  - scen
+  - scenery
+  - scotland
+  - seacliff
+  - single
+  - singlespeed
+  - singlespeed around the world
+  - singletrack
+  - singletrack forum meet
+  - singletrack magazine beach riding article
+  - snowride
+  - spitfires
+  - sprin
+  - springtime
+  - steel is real
+  - storm
+  - stoves
+  - summer
+  - sunrise
+  - sunset
+  - surly pugsley review
+  - tachyon 2010  xc camera
+  - the highlands
+  - timelapse
+  - trail centres
+  - trails
+  - traprain law
+  - travel
+  - trees
+  - tv
+  - tweed vally
+  - tyres
+  - urban exploration
+  - victorians
+  - views
+  - walks
+  - wave therapy
+  - weather
+  - whitesands
+  - wildlife
+  - winter
+  - winter solstice
+  - winter sun
+  - woods
+  - work
+  - wrecks
+  - yelllowcraig
+  - yellowcraig
+  - youtube film
+  - youtube films
+  - £500 Fatbike!
+  relme:
+    https://coastkid.blogspot.com/: true
+    https://nothroughroad-coastkid.blogspot.com/: true
+    https://www.blogger.com/profile/06722983165386248189: true
+  last_post_title: SURLY MOONLANDER 2.0 Day ride on the coast and first ride review!
+  last_post_description: ""
+  last_post_date: "2025-02-01T08:36:05Z"
+  last_post_link: https://coastkid.blogspot.com/2025/01/surly-moonlander-20-day-ride-on-coast.html
+  last_post_categories:
+  - Fatbike Rock Crawling
+  - Surly Moonlander 2.0 REVIEW
+  - beach riding
+  last_post_language: ""
+  last_post_guid: f55d264f4d153c2a7e11ac14c51e2115
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 178
+---

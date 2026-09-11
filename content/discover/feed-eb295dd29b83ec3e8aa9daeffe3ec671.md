@@ -10,7 +10,10 @@ params:
     https://1000awesomethings.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -18,16 +21,16 @@ params:
   categories:
   - Awesome Things
   relme: {}
-  last_post_title: '#605 Christmas hugs'
-  last_post_description: |-
-    AWESOME! Make your inbox awesome: Photos from: here, here, here, here, here, and here
-    The post #605 Christmas hugs appeared first on 1000 Awesome Things.
-  last_post_date: "2026-08-28T04:01:00Z"
-  last_post_link: https://1000awesomethings.com/2026/08/28/605-christmas-hugs-3/
+  last_post_title: '#595 Anything on tap'
+  last_post_description: Once upon a time my friend Chad went to college. Now, Chad
+    likes to tell people what made him decide to go to school and the reasons why
+    he traded in a job at Best Buy for a few hard years of hitting
+  last_post_date: "2026-09-11T04:01:00Z"
+  last_post_link: https://1000awesomethings.com/2026/09/11/595-anything-on-tap-4/
   last_post_categories:
   - Awesome Things
   last_post_language: ""
-  last_post_guid: a3a4bc350865bfc78d3c4ef6a8c045fd
+  last_post_guid: b362a1cafc7ab5372571a7f6fbb9dc14
   score_criteria:
     cats: 0
     description: 3

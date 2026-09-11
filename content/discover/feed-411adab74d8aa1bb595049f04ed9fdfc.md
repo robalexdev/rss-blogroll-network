@@ -8,15 +8,15 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
-    https://frills.dev/blog: false
     https://frills.dev/blog/: false
-    https://frills.dev/bookmarks: false
     https://frills.dev/bookmarks/: false
-    https://frills.dev/changelog: false
     https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -44,13 +44,13 @@ params:
   relme:
     https://frills.dev/: true
     https://indieweb.social/@frills: true
-  last_post_title: Actual Burnout
-  last_post_description: Processing my time spent signed off work
-  last_post_date: "2025-11-28T13:01:43Z"
-  last_post_link: https://frills.dev/blog/2025/november/actual-burnout/
+  last_post_title: Stardew Valley, In Person
+  last_post_description: ""
+  last_post_date: "2026-02-15T00:00:00Z"
+  last_post_link: https://frills.dev/blog/2026/february/stardew-valley/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c238a0c9ae6475e991bf874c05a6d29d
+  last_post_guid: b76d4d41b3ab002d658909fcaf1a0025
   score_criteria:
     cats: 0
     description: 3
@@ -68,6 +68,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 115
+  postcount: 117
   avgpostlen: 0
 ---

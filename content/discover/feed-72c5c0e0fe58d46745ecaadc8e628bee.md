@@ -16,17 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Legislation
+  - Open Source World
   relme: {}
-  last_post_title: Android prefers vibecoders over open-source developers
-  last_post_description: Google wants apps to be AI-generated and shared between friends,
-    whilst locking down the developer environment.
-  last_post_date: "2026-05-28T14:40:24Z"
-  last_post_link: https://thelibre.news/android-prefers-vibecoders-over-open-source-developers/
+  last_post_title: Announcing Plasma Studio
+  last_post_description: Plasma Studio is a multimedia handling application that features
+    video editing capabilities, raw photo editing, vector graphics, animations, audio
+    editing, recording and streaming, and 3D modeling.
+  last_post_date: "2026-09-07T14:10:13Z"
+  last_post_link: https://thelibre.news/announcing-plasma-studio/
   last_post_categories:
-  - Legislation
+  - Open Source World
   last_post_language: ""
-  last_post_guid: ddde98b5d3d2de9e1692f375f5d926f9
+  last_post_guid: 06110a7a85005645935103bc58ccd146
   score_criteria:
     cats: 0
     description: 3

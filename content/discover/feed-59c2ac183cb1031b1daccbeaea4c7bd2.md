@@ -9,6 +9,12 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: English RSS collated by MoreRSS
     description: ""
     id: 4fec48524a0a655ca9ae0e814e87c47b
@@ -18,23 +24,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Artificial Intelligence
-  - Internet
-  - Pew Research
-  - writing
+  - Infographics
+  - politizane
+  - wealth
   relme: {}
-  last_post_title: A third of new webpages written with AI
-  last_post_description: 'It is trivial to generate bodies of text on infinite topics,
-    so of…Tags: Internet, Pew Research, writing'
-  last_post_date: "2026-08-28T09:51:34Z"
-  last_post_link: https://flowingdata.com/2026/08/28/a-third-of-new-webpages-written-with-ai/
+  last_post_title: Wealth inequality in America, updated for 2026
+  last_post_description: 'In 2013, a video on U.S. wealth inequality was posted to
+    YouTube by…Tags: politizane, wealth'
+  last_post_date: "2026-09-11T09:46:17Z"
+  last_post_link: https://flowingdata.com/2026/09/11/wealth-inequality-in-america-updated-for-2026/
   last_post_categories:
-  - Artificial Intelligence
-  - Internet
-  - Pew Research
-  - writing
+  - Infographics
+  - politizane
+  - wealth
   last_post_language: ""
-  last_post_guid: 65292ef1f50776e5b1a542512d74b37c
+  last_post_guid: 47b42fe51c19bcecea3cb852fd426fcd
   score_criteria:
     cats: 0
     description: 3

@@ -14,6 +14,9 @@ params:
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.
     id: 4245e42f2d95b58713124e48e7ed0b3c
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.9.3.

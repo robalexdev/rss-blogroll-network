@@ -10,7 +10,10 @@ params:
     https://somethingaboutmaps.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -24,16 +27,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: A Few Minor Niceties
-  last_post_description: I recently finished up a first draft of a piece for a client,
-    a map that gave me a chance to try some new things and also exercise some cartographic
-    muscles that I haven’t for a while. So, today, I
-  last_post_date: "2026-08-04T00:20:44Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2026/08/03/a-few-minor-niceties/
+  last_post_title: GenAI for the Static Cartographer
+  last_post_description: It’s finally time for me to write something about generative
+    AI. While I’ve made occasional comments on social media, I haven’t spoken in any
+    detail. I touched on some colleagues’ genAI work
+  last_post_date: "2026-09-08T21:21:10Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/09/08/genai-for-the-static-cartographer/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 47d4e290597c43daec3a84fe7ed84284
+  last_post_guid: aed4a7a11b3a5fe44cefe2d6fd2c042c
   score_criteria:
     cats: 0
     description: 0

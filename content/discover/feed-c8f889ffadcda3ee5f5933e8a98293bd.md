@@ -19,32 +19,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - dashboards
-  - eink
+  - ai
+  - mattmay
+  - via:adactio
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: Tesserae · Self-hosted dashboards for e-ink displays
-  last_post_description: For possible future reference.
-  last_post_date: "2026-08-26T08:46:52Z"
-  last_post_link: https://tesserae.ink/
+  last_post_title: On artificial intelligence by Matt May
+  last_post_description: '"I have been searching for a bright line, one where I can
+    say that this subset of AI usage is ethical, or at least ethical enough for me
+    to use. I have reached the point where I don’t think that'
+  last_post_date: "2026-09-09T12:56:35Z"
+  last_post_link: https://buttondown.com/practicaltips/archive/on-artificial-intelligence/
   last_post_categories:
-  - dashboards
-  - eink
+  - ai
+  - mattmay
+  - via:adactio
   last_post_language: ""
-  last_post_guid: 5dfa841cb1c9f539885f196f676cf778
+  last_post_guid: 4db5beec2f5b7213077b2816aac7fa95
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

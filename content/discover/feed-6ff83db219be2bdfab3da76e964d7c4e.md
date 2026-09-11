@@ -16,36 +16,44 @@ params:
   - title: nathanUpchurchBlogroll.opml
     description: ""
     id: 48ae6ab9ce91c04f77f8c740eaa6a958
+  - title: blogrolle englischsprachige blogs
+    description: ""
+    id: 8562a0ef3be9c20980f963e66c66da1b
+  - title: blogrolle(n)
+    description: ""
+    id: 0e6688bac0e3388cb2ded610be79da60
   recommended: []
-  recommender: []
+  recommender:
+  - https://wirres.net/feed/
+  - https://wirres.net/feed/river/
   categories:
   - "1"
-  - consumers
-  - hardware
-  - independent repair
-  - right to repair
-  - software
-  - state law
-  - tractors
+  - 9/11
+  - donald trump
+  - nyc
+  - politics
+  - surveillance
+  - tragedy
+  - zohran mamdani
   relme: {}
-  last_post_title: ‘Right To Repair’ State Laws Continue To Surge, But Enforcement
-    Remains Nonexistent
-  last_post_description: There’s still a massive effort afoot to implement statewide
-    “right to repair” laws that try to make it cheaper, easier, and environmentally
-    friendlier for you to repair the technology you own
-  last_post_date: "2026-08-28T22:12:01Z"
-  last_post_link: https://www.techdirt.com/2026/08/28/right-to-repair-state-laws-continue-to-surge-but-enforcement-remains-nonexistent/
+  last_post_title: Since 9/11, Fear Has Driven Our Politics. Don’t Let It Drive The
+    Next 25 Years.
+  last_post_description: Twenty-five years ago today I was woken up by a phone call
+    from a close friend, who, like me, grew up in New York and, like me, was now living
+    in California. She told me that something horrible had
+  last_post_date: "2026-09-11T16:23:48Z"
+  last_post_link: https://www.techdirt.com/2026/09/11/since-9-11-fear-has-driven-our-politics-dont-let-it-drive-the-next-25-years/
   last_post_categories:
   - "1"
-  - consumers
-  - hardware
-  - independent repair
-  - right to repair
-  - software
-  - state law
-  - tractors
+  - 9/11
+  - donald trump
+  - nyc
+  - politics
+  - surveillance
+  - tragedy
+  - zohran mamdani
   last_post_language: ""
-  last_post_guid: f5e8a11544dc36d16c6f8d2ecf455ee1
+  last_post_guid: 9b26ccc2397a364aee0d68b9e8004923
   score_criteria:
     cats: 0
     description: 0

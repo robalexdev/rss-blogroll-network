@@ -1,49 +1,63 @@
 ---
 title: es regnet
 date: "1970-01-01T00:00:00Z"
-description: 'Ich lese Texte vor. Meist aus meinem Blog. Ab und spiele ich etwas dazu.
-  Anleitung: dieser Podcast ist ein literarisches Weberzeugnis. Oder wie jemand mal
-  gesagt hat: “Das ist ein semi'
+description: ""
 params:
   feedlink: https://mequito.org/feed
   feedtype: rss
   feedid: 5e1ef6bb5202a2edb2ce0a1d6ee6567e
   websites:
-    https://mequito.org/: false
-    https://mequito.org/stories/series/es-regnet: true
+    https://mequito.org/: true
+    https://mequito.org/stories/series/es-regnet: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Die Blogroll by Nico
+    description: ""
+    id: 44e00e3f3f32b13ff6e674173d68f45b
+  - title: Blogroll - Olbertz.de
+    description: ""
+    id: c5b65df0d258a2561913c9a7a33a2723
+  - title: ix’ starterpack blogrolle deutschsprachige blogs
+    description: ""
+    id: 50395e15eb5d9f8ad32c963f3ca94f17
+  - title: blogrolle(n)
+    description: ""
+    id: 0e6688bac0e3388cb2ded610be79da60
   recommended: []
-  recommender: []
+  recommender:
+  - https://couchblog.de/feed/
+  - https://wirres.net/feed/
+  - https://wirres.net/feed/river/
   categories:
-  - Arts
+  - TBB21
   relme: {}
-  last_post_title: '[Mi, 4.2.2026 – wohngemeinschaft]'
-  last_post_description: Abends liege ich dann im Bett und schaue die Storys der Hundesitterin
-    an. Das sind Videos, auf denen meine Hündin mit den anderen Hunden durch den Wald
-    cruist und Spaß hat. An manchen Tagen warte
-  last_post_date: "2026-02-05T07:21:51Z"
-  last_post_link: https://mequito.org/stories/15005
-  last_post_categories: []
+  last_post_title: '[Textilien aufräumen]'
+  last_post_description: |-
+    Sie macht das jeden Abend. Ich kÃ¶nnte eine Serie beginnen. Sobald das Duschwasser angeht, kommt sie rein, schnappt sich meine Unterhose und stiehlt sich davon. Jeden Abend.
+    The post [Textilien
+  last_post_date: "2026-09-10T06:28:45Z"
+  last_post_link: https://mequito.org/stories/16070
+  last_post_categories:
+  - TBB21
   last_post_language: ""
-  last_post_guid: e77bc47ea1b9dff3b35252b6514a69ad
+  last_post_guid: cfcda103a7afb468d0ed59c299d9f59c
   score_criteria:
-    cats: 1
-    description: 3
+    cats: 0
+    description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
-  ispodcast: true
+  score: 15
+  ispodcast: false
   isnoarchive: false
   innetwork: true
   language: de

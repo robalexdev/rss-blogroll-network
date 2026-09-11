@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-08-07T07:38:00Z"
+date: "2026-09-10T12:39:22Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -10,6 +10,9 @@ params:
     https://www.jonashietala.se/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -26,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Domains, certificates, and DNS
+  last_post_title: 'Game Design Analysis: World of Goo'
   last_post_description: ""
-  last_post_date: "2026-08-07T07:38:00Z"
-  last_post_link: https://www.jonashietala.se/blog/2026/08/06/domains_certificates_and_dns
+  last_post_date: "2026-09-10T12:39:22Z"
+  last_post_link: https://www.jonashietala.se/blog/2010/06/01/game_design_analysis_world_of_goo
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e03339b3aa3eaa26d32e8ce27db78287
+  last_post_guid: 1a23c1239b8d3f4c2958e28306f39334
   score_criteria:
     cats: 0
     description: 0

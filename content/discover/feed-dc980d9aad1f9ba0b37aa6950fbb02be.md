@@ -27,13 +27,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Met up with brainbox Steven Pemberton for coffee and a chat.
-  last_post_description: Met up with brainbox Steven Pemberton for coffee and a chat.
-  last_post_date: "2026-08-28T17:17:07Z"
-  last_post_link: https://adactio.com/notes/22740
+  last_post_title: Today I’ll mostly be listening to The Bothy Band, in memory of
+    Paddy Keenan—what a piper! Ar dheis Dé go raibh a anam.
+  last_post_description: |-
+    Today I’ll mostly be listening to The Bothy Band, in memory of Paddy Keenan—what a piper!
+
+    Ar dheis Dé go raibh a anam.
+  last_post_date: "2026-09-10T07:58:47Z"
+  last_post_link: https://adactio.com/notes/22755
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a6d6f8c090942e2db3f59d596f93a3f6
+  last_post_guid: 466807b85aae70a8a36217d8149b6942
   score_criteria:
     cats: 0
     description: 3

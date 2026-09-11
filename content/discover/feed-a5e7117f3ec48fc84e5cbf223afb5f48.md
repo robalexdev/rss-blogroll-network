@@ -10,7 +10,10 @@ params:
     https://www.fwrarejazzvinylcollector.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -21,17 +24,17 @@ params:
   categories:
   - LP 12"
   relme: {}
-  last_post_title: ”Earth Blossom” by The John Betsch Society on Strata-East SES-19748
-  last_post_description: "A rare bird and gem in the Strata-East catalogue.\n          \n
-    \       \n      \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n  \n\n  \n\n\n\n
-    \ \n    \n      \n\n        \n\n        \n\n        \n          \n            \n
-    \       "
-  last_post_date: "2026-08-18T19:51:48Z"
-  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/8/18/earth-blossom-by-the-john-betsch-society-on-strata-east-ses-19748
+  last_post_title: Eric Dolphy in Europe on Debut DEB-136
+  last_post_description: "Elusive title with Dolphy perfoming live in Copenhagen in
+    1961.\n          \n        \n      \n        \n      \n\n    \n  \n\n\n  \n\n\n\n\n\n
+    \ \n\n  \n\n\n\n  \n    \n      \n\n        \n\n        \n\n        \n          \n
+    \      "
+  last_post_date: "2026-09-09T17:11:50Z"
+  last_post_link: http://www.fwrarejazzvinylcollector.com/blog/2026/9/9/eric-dolphy-in-europe-on-debut-deb-136
   last_post_categories:
   - LP 12"
   last_post_language: ""
-  last_post_guid: 1fda7d4cbf6621941c8af5917af352f8
+  last_post_guid: 24071a6dcc2f34cb6dfcc7970b8dbc6f
   score_criteria:
     cats: 0
     description: 0

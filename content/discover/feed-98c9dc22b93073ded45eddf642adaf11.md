@@ -1,6 +1,6 @@
 ---
 title: Paul Robert Lloyd
-date: "2026-02-02T13:02:24Z"
+date: "2026-09-10T21:27:55Z"
 description: The personal website of Paul Robert Lloyd
 params:
   feedlink: https://paulrobertlloyd.com/feed.xml
@@ -10,7 +10,10 @@ params:
     https://paulrobertlloyd.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -33,15 +36,14 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme:
-    https://github.com/paulrobertlloyd: true
     https://paulrobertlloyd.com/: true
-  last_post_title: ♫ Change by Tears for Fears
+  last_post_title: Nostalgia is a terrible drug
   last_post_description: ""
-  last_post_date: "2026-01-12T22:30:48Z"
-  last_post_link: https://paulrobertlloyd.com/2026/012/j1/
+  last_post_date: "2026-08-07T15:05:09Z"
+  last_post_link: https://iandunt.substack.com/p/nostalgia-is-a-terrible-drug-9e2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cbced3f539d18243f7be18162ea887b0
+  last_post_guid: a5c17aab3e98e1527815d11f7dce2743
   score_criteria:
     cats: 0
     description: 3
@@ -59,6 +61,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 10
-  avgpostlen: 225
+  postcount: 7
+  avgpostlen: 219
 ---

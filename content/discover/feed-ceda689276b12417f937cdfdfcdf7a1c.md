@@ -20,22 +20,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - CI/CD
-  - Cloud Services
-  - Security
+  - Rust
+  - Serverless
+  - eBPF
+  - sponsor-aws-marketplace
+  - sponsored-post-contributed
   relme: {}
-  last_post_title: JetBrains told everyone to patch. It didn’t patch itself.
+  last_post_title: How AWS Lambda logs every flow across thousands of microVMs per
+    host with eBPF and Rust
   last_post_description: |-
-    JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs
-    The post JetBrains told everyone to patch. It didn’t patch
-  last_post_date: "2026-08-28T20:51:48Z"
-  last_post_link: https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/
+    On any compute platform, when a security alert fires, the question is always the same. Which workload talked to that
+    The post How AWS Lambda logs every flow across thousands of microVMs per host with
+  last_post_date: "2026-09-11T12:00:00Z"
+  last_post_link: https://thenewstack.io/aws-lambda-ebpf-rust/
   last_post_categories:
-  - CI/CD
-  - Cloud Services
-  - Security
+  - Rust
+  - Serverless
+  - eBPF
+  - sponsor-aws-marketplace
+  - sponsored-post-contributed
   last_post_language: ""
-  last_post_guid: 54c64a2498956473ad8d98d7debf96bd
+  last_post_guid: 6813aa0ccc1b5d3e472b0ed33354000e
   score_criteria:
     cats: 0
     description: 0

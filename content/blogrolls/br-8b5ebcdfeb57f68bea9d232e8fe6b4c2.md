@@ -19,6 +19,9 @@ params:
   - title: Schneier on Security
     description: ""
     id: 6607bb13cd87a6636c1bb6b9c82e2b3c
+  - title: Dhole Moments
+    description: Software, Security, Cryptography, and Furries
+    id: 81dc9f6f6a7542f3cc653ee1f2f60e62
   - title: Algorithmic Assertions - Craig Gidney's Computer Science Blog
     description: A blog about computer science, software engineering, quantum computing,
       mathematical puzzles, and so forth.
@@ -26,6 +29,12 @@ params:
   - title: Andrew Ayer - Blog
     description: ""
     id: 8ac68fd32caf4e72a368a5c9676ebcd9
+  - title: Tony Arcieri
+    description: ""
+    id: 91c1ab6eb54e23ba1f2476e67e3e7688
+  - title: Not Even Wrong
+    description: ""
+    id: 937d9544c63d6c067b38db7946f15eed
   - title: cr.yp.to blog
     description: D. J. Bernstein's personal weblog.
     id: aafbeb9953862b99aed13cd1cc07b499
@@ -35,6 +44,9 @@ params:
   - title: Adam Caudill
     description: Recent content on Adam Caudill
     id: d5a3ddb5dee7408697799d685767289f
+  - title: Hanno's blog
+    description: ""
+    id: e9457f790d1396ab78a00a333e808b8e
   - title: Azimuth
     description: ""
     id: f7ebe004411ae79047320dca07bbc467

@@ -10,11 +10,18 @@ params:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: false
     https://artlung.com/links/: false
+    https://artlung.com/newsletter/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
   - title: Dan Q's Blogroll
     description: ""
     id: efa39f8903d9f955318300588291f9c0
@@ -40,32 +47,34 @@ params:
     description: ""
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
-  recommender: []
+  recommender:
+  - https://chrisburnell.com/feed.xml
   categories:
-  - art
+  - bodysurfing
   - general
-  - misc
-  - music
-  - videos
+  - gwenthegoblin
+  - llm
+  - smorgasborg
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
+    https://artlung.com/newsletter/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Friday, variance
-  last_post_description: I will be showing at WOCA again this weekend. Saturday. A
-    selection of works made from found objects at the beach. I’ll post photos in the
-    future. But come on down to WOCA and I’ll be there. I
-  last_post_date: "2026-08-28T14:37:52Z"
-  last_post_link: https://artlung.com/blog/2026/08/28/friday-variance/
+  last_post_title: Gwen; AI; Fins
+  last_post_description: I updated gwenthegoblin.com with a backup of everything (from
+    the beginning to May) using Memento Mori. Here’s the GitHub issue I participated
+    in. I will be doing this again. I added to a page I
+  last_post_date: "2026-09-11T14:35:27Z"
+  last_post_link: https://artlung.com/blog/2026/09/11/gwen-ai-fins/
   last_post_categories:
-  - art
+  - bodysurfing
   - general
-  - misc
-  - music
-  - videos
+  - gwenthegoblin
+  - llm
+  - smorgasborg
   last_post_language: ""
-  last_post_guid: b3807b908c54a85a9586c4d17d5252ab
+  last_post_guid: 382dd2e769e1f50b6b8047e1e01e0163
   score_criteria:
     cats: 0
     description: 3

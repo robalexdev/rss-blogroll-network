@@ -1,0 +1,1992 @@
+---
+title: The Dusty Bookcase
+date: "2026-09-10T17:23:25-04:00"
+description: A JOURNEY THROUGH CANADA'S FORGOTTEN, NEGLECTED AND SUPPRESSED WRITING
+params:
+  feedlink: https://brianbusby.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 49f25bffc8f9165eb467eb2bd274aecd
+  websites:
+    https://brianbusby.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - A List
+  - Abade
+  - Abley
+  - Abridgements
+  - Acknowledgements
+  - Acland (F.A.)
+  - Acland (Peregrine)
+  - Acorn
+  - Adams (Claude)
+  - Adams (Ian)
+  - Adams (Melva E)
+  - Adamson
+  - Adderson
+  - Advance review copies
+  - Advertisements
+  - Aitken
+  - Al White Publications
+  - Alcuin Society
+  - Alderman
+  - Alexis
+  - All Lit Up
+  - All Star Western Stories
+  - Allan (Luke)
+  - Allan (Norman)
+  - Allan (Ted)
+  - Allan (Tony)
+  - Allen (Barney)
+  - Allen (Grant)
+  - Allen (Leslie)
+  - Allen (Ralph)
+  - Allen (Richard)
+  - Allen (Sol)
+  - Allison
+  - Allo Police
+  - Allusifs
+  - Alward
+  - Amazon customer reviews
+  - Ambassador Books
+  - Amiel
+  - Amtmann
+  - Amy
+  - Anand
+  - Anansi
+  - Anderson
+  - Andrew
+  - Andrew Books
+  - Angers
+  - Annuals
+  - Anonymous
+  - Anthologies
+  - Antigonish Review
+  - Antsee
+  - Anvil Press
+  - Aphrodite Collection
+  - Apt 9
+  - Aquin
+  - Arbre
+  - Arcan
+  - Archibald
+  - Ardies
+  - Arnold
+  - Aronoff
+  - Arrow Publishing
+  - Arsenal Pulp
+  - Arthur
+  - Aspler
+  - Athabaska University Press
+  - Atlantic Guardian
+  - Atlee
+  - Atwood
+  - Aubert
+  - Aubert de Gaspé (Philippe)
+  - Aubert de Gaspé (Philippe-Ignace-François)
+  - Aubert de Gaspé (Philippe-Joseph)
+  - Audiobooks
+  - Autobiography
+  - Avison
+  - Axe
+  - B.D.Simpson
+  - BC Bookworld
+  - BMG Publishing
+  - BMI Canada
+  - Badini
+  - Baird
+  - Baker
+  - Ball
+  - Ballem
+  - Ballingall
+  - Balser
+  - Bandersnatch
+  - Banned books
+  - Bantey
+  - Barber
+  - Barclay (Linwood)
+  - Barclay (Pat)
+  - Barette
+  - Barnes
+  - Barr
+  - Barrington
+  - Barry
+  - Barthe
+  - Bartyzel
+  - Basile
+  - Basilières
+  - Bassett
+  - Bataille
+  - Bates
+  - Battered Silicon Dispatch Box
+  - Baudry
+  - Baxter
+  - Beale
+  - Beasley
+  - Beattie (Gwen)
+  - Beattie (Jeann)
+  - Beattie (Jessie)
+  - Beattie (Kim)
+  - Beattie (Steven W.)
+  - Beauchemin
+  - Beauregard-Champagne
+  - Beck
+  - Bedard et Gagne
+  - Bedford-Jones
+  - Beissel
+  - Belair
+  - Belier
+  - Bell and Cockburn
+  - Bellow
+  - Benedict
+  - Bengough
+  - Benjamin News
+  - Bennet
+  - Bennett
+  - Benoit
+  - Benson
+  - Bentley
+  - Benvie
+  - Beny
+  - Beresford-Howe
+  - Berger
+  - Berglund
+  - Bertin
+  - Berton
+  - Bessette
+  - Bethune
+  - Betts
+  - Between the Lines
+  - Beynon
+  - Biblioasis
+  - Biblioasis Short Fiction
+  - Bibliographies
+  - Bibliophile
+  - Bibliothèque Québécoise
+  - Bibliothèque de l'Action française
+  - Bick
+  - Binsse
+  - Biography
+  - Bird
+  - Birney
+  - Birrell
+  - Bissell
+  - Black (Dan)
+  - Black (Hawley)
+  - Blackfish
+  - Blais
+  - Blaise
+  - Blake
+  - Blanchont
+  - Bland
+  - Blewett
+  - Bloomers
+  - Bock
+  - Bodero
+  - Bodero Editions
+  - Bodsworth
+  - Boisvenu
+  - Bombardier Guide to Canadian Authors
+  - Book Society of Canada
+  - Book and Periodical Council
+  - Book burning
+  - BookLand Press
+  - Booklets
+  - Bookplates
+  - Books in Canada
+  - Bookseller & Stationer
+  - Booksellers
+  - Boone
+  - Booth
+  - Borden
+  - Border Cities Star
+  - Borealis Press
+  - Boréal
+  - Bosco
+  - Boswell
+  - Bouchard
+  - Bouchercon
+  - Bourgeois-Doyle
+  - Bourrie
+  - Bowdlerization
+  - Bowen
+  - Bowering
+  - Bowker
+  - Boyagoda
+  - Boyd
+  - Boyden
+  - Boyko
+  - Boyle
+  - Boyle (Joyce)
+  - Bradbury
+  - Bradley-St-Cyr
+  - Braithwaite (Lawrence)
+  - Braithwaite (Max)
+  - Bray
+  - Brebner
+  - Breslin
+  - Brett (Brian)
+  - Brett (Martin)
+  - Brierley
+  - Brietzche
+  - Brigden
+  - Brisco
+  - Broadsides
+  - Broadview Press
+  - Brock
+  - Brooker
+  - Brooks
+  - Brothers-in-Law
+  - Brouilly
+  - Brouse
+  - Brown (Alan)
+  - Brown (George)
+  - Brown (Horace)
+  - Brown (Huntley)
+  - Brown (Jamie)
+  - Brown (Jeremy)
+  - Brown (John Price)
+  - Brown (Joy)
+  - Browne
+  - Bruce (Charles)
+  - Bruce (Vida)
+  - Bruchesi
+  - Bruchési
+  - Bruneau
+  - Brunswick
+  - Bryan
+  - Buckler
+  - Buckley
+  - Buell
+  - Buller
+  - Bullock
+  - Burke
+  - Burnford
+  - Burns and MacEachern
+  - Burpee
+  - Busby (Anyès Kadowaki)
+  - Busby (Astrid)
+  - Bush
+  - Bushell
+  - Byers
+  - Byfield
+  - C. Blackett Robinson
+  - CBC Books
+  - CBC Enterprises
+  - CBC Times
+  - CLIK
+  - CLIK!
+  - CULT MTL
+  - Cahill
+  - Cahén
+  - Caledonian Society of Toronto
+  - Calgary Herald
+  - Calhoun
+  - Callaghan
+  - Cambron
+  - Cameron (Agnes Deans)
+  - Cameron (Elspeth)
+  - Cameron (Silver Donald)
+  - Campbell
+  - Campone
+  - Canada (Le)
+  - Canada Council
+  - Canada Monthly
+  - Canada Post
+  - Canada Reads
+  - Canada's Early Women Writers
+  - Canadian Authors Association
+  - Canadian Best-Seller Library
+  - Canadian Bookman
+  - Canadian Bookseller
+  - Canadian Bookshelf
+  - Canadian Broadcasting Corporation
+  - Canadian Catholic Historical Association
+  - Canadian Children's Literature
+  - Canadian Critical Editions
+  - Canadian Encyclopedia
+  - Canadian Fandom
+  - Canadian Forum
+  - Canadian Golfer
+  - Canadian Grocer
+  - Canadian Illustrated News
+  - Canadian Jewish Congress Bulletin
+  - Canadian Jewish Review
+  - Canadian Journal of Irish Studies
+  - Canadian Law Review
+  - Canadian Literature Collection
+  - Canadian Magazine
+  - Canadian Methodist Magazine.
+  - Canadian Notes and Queries
+  - Canadian Nurse
+  - Canadian Pacific Railway
+  - Canadian Poetry Press
+  - Canadian Presbyterian
+  - Canadian Preview Book Society
+  - Canadian Railroader
+  - Canadian Television Network
+  - Canadian Writer's Journal
+  - Canadian Writers and their Works
+  - Cannon
+  - Cappon
+  - Cardinal-Corriveau
+  - Cards
+  - Cardwell
+  - Carleton
+  - Carleton University Press
+  - Carman
+  - Carrier
+  - Carrier (René)
+  - Carrier (Roch)
+  - Carroll (Jock)
+  - Carroll (Joy)
+  - Carré
+  - Carter
+  - Cartier
+  - Caruso
+  - Cassel
+  - Caswell
+  - Catalogues
+  - Catholic Women's League
+  - Cecil-Smith
+  - Censorship
+  - Centennial Press
+  - Centre for Editing Early Canadian Texts
+  - Chabot
+  - Chambers
+  - Champagne
+  - Chanteclerc
+  - Chapbooks
+  - Chapman (Ethel M)
+  - Chapman (Mary)
+  - Chapman (William)
+  - Chaput-Rolland
+  - Character Parts
+  - Charbonneau
+  - Charlebois
+  - Charnel House
+  - Chase
+  - Chatelaine
+  - Chic
+  - Child
+  - Children's literature
+  - Children's verse
+  - Chiniquy
+  - Chisolm
+  - Cho
+  - Christie
+  - Christmas verse
+  - Christy
+  - Clare
+  - Clarke (Austin)
+  - Clarke (George Elliott)
+  - Clarke (George Frederick)
+  - Clarke (George Herbert)
+  - Clarke (Violet Alice)
+  - Clarke Irwin
+  - Clarkson (Adrienne)
+  - Clarkson (Stephen)
+  - Clayton
+  - Cloutier
+  - Coach House
+  - Coalfleet
+  - Cochrane
+  - Cocking
+  - Cody
+  - Coffin
+  - Cogswell
+  - Cohen (Leonard)
+  - Cohen (Matt)
+  - Cohen (Sheldon)
+  - Colby
+  - Cole
+  - Coleman
+  - Coles Canadiana Collection
+  - Coles Notes
+  - Colistro
+  - Collard
+  - Collins
+  - Collins (J. E.)
+  - Collins (Robert G.)
+  - Collins White Circle
+  - Colombo
+  - Colouring books
+  - Columns
+  - Comic books
+  - Comic strips
+  - Comité de la St Jean-Baptiste
+  - Commonwealth
+  - Conan
+  - Conant
+  - Concordia University Magazine
+  - Connor
+  - Conservative Party of Canada
+  - Constantine
+  - Contemporary
+  - Cook
+  - Cookbooks
+  - Cooke
+  - Cooper
+  - Copp Clark
+  - Coren (Michael)
+  - Coren (Stanley)
+  - Cormorant
+  - Cornell
+  - Cosgrove
+  - Costain
+  - Cotes (Mrs Everard)
+  - Coulter
+  - Coutts
+  - Couture
+  - Cowan
+  - Cowie
+  - Cowley
+  - Cox (Amy)
+  - Cox (Leo)
+  - Cox (Palmer)
+  - Craig
+  - Creelman
+  - Creighton
+  - Cremazie
+  - Cresswell
+  - Criticism
+  - Cronenberg (David)
+  - Cronenberg (Milton)
+  - Cruickshank
+  - Currie
+  - Cushing
+  - Dailey
+  - Dalton
+  - Dana
+  - Dandurand
+  - Daniells
+  - Dardick
+  - Daring Crime Cases
+  - Darling
+  - Darling Terrace
+  - Davey
+  - Davidson
+  - Davies (Gwendolyn)
+  - Davies (Robertson)
+  - Davies (Will)
+  - Davis-Lisson
+  - Davus
+  - Dawson Brothers
+  - Day
+  - Deacon
+  - Dedications
+  - Delorme
+  - Delta Canada
+  - Deneau
+  - Deneault
+  - Denison
+  - Dennis
+  - Dent
+  - Dent (John Charles)
+  - Des Roches
+  - DesRoches
+  - Desclez
+  - Desmond
+  - Devoir
+  - Dewar
+  - Dewart
+  - Dialect poetry
+  - Dianna
+  - Diaries
+  - Dickson (Jason)
+  - Dickson (Lovat)
+  - Dictionary of Canadian Biography
+  - Diespecker
+  - Dill
+  - Dion
+  - Dionne
+  - Dixon (Ellen M.)
+  - Dixon (Frank P.)
+  - Dixon (Franklin W.)
+  - Djwa
+  - Doherty
+  - Donaldson (Daniel)
+  - Donaldson (Emily)
+  - Donato
+  - Donnell
+  - Donnelly
+  - Donovan
+  - Dooley
+  - Dorchester Review
+  - Dorset
+  - Dorwald
+  - Doubleday Canada
+  - Dougall
+  - Douglas (Malcolm)
+  - Douglas (Milton)
+  - Douglas and McIntyre
+  - Drew
+  - Drummond
+  - Drysdale
+  - Dubé
+  - Ducharme
+  - Dudek
+  - Duff
+  - Dumbrille
+  - Duncan (Helen)
+  - Duncan (Norman)
+  - Duncan (Sara Jeannette)
+  - Dundurn
+  - Durie
+  - Durkin
+  - Dustiest Bookcase
+  - Dusty Bookcase Book
+  - Duval
+  - Dwan
+  - Dyer
+  - Dyke
+  - ECW
+  - ETR
+  - Earle
+  - Early Canadian Literature
+  - Early Canadian Women Writers
+  - Easter verse
+  - Eastman
+  - Easton
+  - Eaton
+  - Eaton (Edith)
+  - Eaton (Evelyn)
+  - Eaton (Flora McCrae)
+  - Eaton (Winnifred)
+  - Ecosociété
+  - Edel
+  - Edgar
+  - Edinborough
+  - Edith L. Groves Memorial Fund for Underprivileged Children
+  - Editions du Jour
+  - Editorial Associates
+  - Editorial cartoons
+  - Edmonton Journal
+  - Educational Book Co.
+  - Edwards
+  - Elie
+  - Ellipse
+  - Ellis
+  - Empire Club of Canada
+  - Engel (Howard)
+  - Engel (June V.)
+  - Engel (Marian)
+  - English
+  - Ephemera
+  - Epigraphs
+  - Epps
+  - Erotica
+  - Essays
+  - Evans (Allen Ray)
+  - Evans (Hubert)
+  - Ex-library books
+  - Exile Editions
+  - Export Publishing Enterprises
+  - F.E. Howard
+  - Fagan
+  - Famous Crime Cases
+  - Favreau
+  - Fawkes
+  - Fay
+  - Fazakas
+  - Fenwick
+  - Ferguson (Jack)
+  - Ferguson (Trevor)
+  - Fernby
+  - Ferron
+  - Fetherling
+  - Fides
+  - Fife
+  - Fifth House
+  - Filewod
+  - Film
+  - Financial Post
+  - Finch
+  - Findley
+  - Fink
+  - Firefly
+  - Fireside Publications
+  - First Statement
+  - Fischman
+  - Fiset
+  - Fisher
+  - Fitz
+  - Fitzgerald
+  - Fitzhenry and Whiteside
+  - Fleming (Jack C.)
+  - Fleming (May Agnes)
+  - Flint
+  - Flood
+  - Folk tales
+  - Fontaine
+  - Footner
+  - Foran (Charles)
+  - Foran (Ethel Ursula)
+  - Foran (J.K.)
+  - Ford (Doug)
+  - Ford (Rob)
+  - Forge
+  - Forget
+  - Formac
+  - Formac Fiction Treasures
+  - Forrest
+  - Fort Frances Times
+  - Fort William Times-Journal
+  - Forum House
+  - Foster
+  - Foster Poetry Conference
+  - Fowler
+  - Fowles
+  - Foy
+  - Francis (Diane)
+  - Francis (Lloyd)
+  - Francoeur
+  - Franklin-McInnis
+  - Fraser (Alexander)
+  - Fraser (D.M.)
+  - Fraser (Keath)
+  - Fraser (Sylvia)
+  - Fraser (W.A.)
+  - Fraser-Hickson Library
+  - Frayne
+  - Frechette
+  - Freedom to Read Week
+  - Freeland
+  - French
+  - French Writers of Canada
+  - Friskney
+  - Frum
+  - Fry (Alan)
+  - Fry (Pamela)
+  - Frye
+  - Fulford (Paul)
+  - Fulford (Robert)
+  - Fullerton
+  - Furlani
+  - Gabrielle Roy Prize
+  - Gage Publishing
+  - Gagnier
+  - Gagnon
+  - Galbraith
+  - Gallant
+  - Galt
+  - Galt (George)
+  - Garneau (François-Xavier)
+  - Garneau (Michel)
+  - Garner
+  - Garvin
+  - Gaspereau
+  - Gatenby
+  - Gauthier
+  - Gay
+  - Gedge
+  - Gelinas
+  - Genand
+  - Genaud
+  - General Publishing
+  - General Store Publishing
+  - George
+  - George H. Doran
+  - Gerin-Lajoie
+  - Gerson
+  - Ghostwriting
+  - Gibbon
+  - Gibson (Graeme)
+  - Gibson (William)
+  - Gignac
+  - Gillis
+  - Gimby
+  - Gladwell
+  - Glassco
+  - Glickman
+  - Glicksohn
+  - Global Publishing
+  - Globe and Mail
+  - Glover
+  - Glyn
+  - Gnarowski
+  - Goblin
+  - Godbout (Jacques)
+  - Godbout (Patricia)
+  - Godin
+  - Godkin
+  - Godsell
+  - Going Underground
+  - Goldberg
+  - Golden Dog Press
+  - Goldsmith
+  - Goldstein
+  - Good
+  - Goodchild
+  - Goodspeed
+  - Goose Lane
+  - Gordon (Ariel)
+  - Gordon (Charles W.)
+  - Gordon (Sidney)
+  - Gordon Soules
+  - Gothic novels
+  - Gotlieb
+  - Gould
+  - Gourlay
+  - Government publications
+  - Governor General's Awards
+  - Gowdy
+  - Graham (Charles Ross)
+  - Graham (Gwethalyn)
+  - Graham (Roger)
+  - Grain Growers' Guide
+  - Grainger
+  - Grant
+  - Grant (Hilda Kay)
+  - Grant (Kay)
+  - Graphic Publishers
+  - Graphic novels
+  - Gray
+  - Great Stories of Canada
+  - Greatest Detective Cases
+  - Green
+  - Green (Terence M.)
+  - Greenaway
+  - Greene
+  - Greenshade
+  - Greenslade
+  - Gregory
+  - Grenfell
+  - Grenier
+  - Greve
+  - Grewal
+  - Grey Owl
+  - Greystone
+  - Greywood Publishing
+  - Griffin House
+  - Groulx
+  - Grove
+  - Groves
+  - Grubisic
+  - Grumbler
+  - Guernica Editions
+  - Guides
+  - Guriel
+  - Gustafson
+  - HMH
+  - Habib
+  - Haig
+  - Hailey
+  - Haliburton
+  - Halperin
+  - Hambleton
+  - Hamilton (Peter Stevens)
+  - Hamilton (Pierce Stevens)
+  - Hamilton News
+  - Hamilton Spectator
+  - Hammond (Arthur)
+  - Hammond (M.O.)
+  - Hancock
+  - Handbills
+  - Hansard
+  - Hardy
+  - Harlequin Enterprises
+  - Harlequin Vintage Collection
+  - Harlequin halloween
+  - Harlequin valentines
+  - Harper (J.M.)
+  - Harper (Stephen)
+  - Harper Hockey Book Watch
+  - HarperCollins Canada
+  - Harris
+  - Harris (John Norman)
+  - Harris (Lawren)
+  - Harris (Michael)
+  - Harrison (Charles Yale)
+  - Harrison (Dick)
+  - Harrison (S. Frances)
+  - Hart
+  - Hart and Company
+  - Harvest House
+  - Harvey
+  - Hashmi
+  - Hatzen
+  - Hawkshead
+  - Hay
+  - Hays
+  - Heaps
+  - Hebert (Anne)
+  - Hebert (Chantal)
+  - Hebert (Jacques)
+  - Hebert (Maurice)
+  - Hebert-Duguay
+  - Heeney
+  - Heighington
+  - Heighton
+  - Heimskringlu
+  - Heine
+  - Heliotrope
+  - Helwig
+  - Hemon
+  - Hendrym Rekai
+  - Henighan
+  - Henry
+  - Herbert
+  - Herbert (John)
+  - Heshka
+  - Hexagone
+  - Hickson
+  - Hiebert
+  - High Hill
+  - Hill (Colin)
+  - Hill (Dan)
+  - Hill (Harriet)
+  - Hill (Lawrence)
+  - Hilliard
+  - Hine
+  - Historical novellas
+  - Historical novels
+  - Hoaxes
+  - Hodder and Stoughton Canada
+  - Hodgins
+  - Hoffer
+  - Holland
+  - Hollands
+  - Holliday
+  - Holmes (Michael)
+  - Holmes (Raymond)
+  - Holmgren
+  - Holz
+  - Homme
+  - Honeyman
+  - Hood (Hugh)
+  - Hood (Robert Allison)
+  - Hoodless
+  - Hopper
+  - Horror
+  - Hospital
+  - Houghton
+  - Hubbard
+  - Huebert
+  - Huenemann
+  - Hughes
+  - Hume
+  - Hunt
+  - Hunter Rose
+  - Huot
+  - Hurlow
+  - Hurtig
+  - Hurtubise
+  - Huston
+  - Ignatieff
+  - Imrie
+  - Imrie and Graham
+  - Indian File Books
+  - Indigo customer reviews
+  - Ingersoll Chronicle
+  - Ingersoll Tribune
+  - Ingluvin
+  - Initiative Productions
+  - Insomniac
+  - Institut littéraire du Québec
+  - Intermedia
+  - International Detective Cases
+  - International Fiction List
+  - Interviews
+  - Invisible
+  - Ireland
+  - Irimia
+  - Irving
+  - Irwin
+  - Irwin Publishing
+  - Ivison
+  - J Lewis & Samuel
+  - J Theo Robinson
+  - J.S. Robertson
+  - Jack
+  - Jackson
+  - Jackson (John)
+  - Jacob
+  - James Murray
+  - Jaques
+  - Jarman
+  - Jean Bruchési
+  - Jefferys
+  - Jenkins
+  - Jiles
+  - John Glassco Translation Prize
+  - John Lovell and Sons
+  - John Wiley and Sons Canada
+  - Johnson (Bruce)
+  - Johnson (Douglas)
+  - Johnson (Lee)
+  - Johnson (Pauline)
+  - Johnson (Wayne)
+  - Johnston (Gordon)
+  - Johnston (Wayne)
+  - Joly
+  - Jonas
+  - Jones
+  - Jones (James edmund)
+  - Jordan
+  - Jour
+  - Journalism
+  - Journals
+  - Joynt
+  - Justice Weekly
+  - Kane
+  - Kaufman (Brian)
+  - Kaufman (Louis)
+  - Keene
+  - Keith
+  - Keller (Betty)
+  - Keller (Dan)
+  - Kelley
+  - Kellough
+  - Kelly (Cathal)
+  - Kelly (Chris)
+  - Kelly (Peggy Lynne)
+  - Kelly (Sean)
+  - Kennedy (Mark)
+  - Kennedy (Michael P.J.)
+  - Kerby
+  - Kerr
+  - Ketchum
+  - Key Porter Books
+  - Keywan
+  - Kiakshuk
+  - Kilodney
+  - Kimball
+  - King (Basil)
+  - King (Carlyle)
+  - King (James)
+  - King (John)
+  - King (William Lyon Mackenzie)
+  - King(Thomas)
+  - Kirby
+  - Kirkconnell
+  - Klein (A.M.)
+  - Klein (Jeff Z)
+  - Knickerbocker
+  - Knight
+  - Knopf Canada
+  - Knott
+  - Knowles
+  - Knowlton Wordfest
+  - Knox
+  - Koch
+  - Kroetsch
+  - L'Opinion publique
+  - La Ferrière
+  - La Presse
+  - Laberge
+  - Lacourcière
+  - Laing
+  - Lalonde
+  - Lamarche
+  - Lambert (Betty)
+  - Lambert (R.S.)
+  - Lambert (Shaena)
+  - Lamontagne
+  - Lampman
+  - Landon
+  - Langevin
+  - Langstaff
+  - Lapointe
+  - Laporte
+  - Latulippe
+  - Laurence
+  - Laurentian Library
+  - Laurentian Press Syndicate
+  - Laurier
+  - Laurin
+  - Lauriston
+  - Laut
+  - Lauzon
+  - Law
+  - Layhew
+  - Layton (Aviva)
+  - Layton (Irving)
+  - Layton (Jack)
+  - Le Grand
+  - Le Moine
+  - Le Moyne
+  - Le Normand
+  - LeBourdais (D.M.)
+  - LeBourdais (Eric)
+  - Lea
+  - Leacock
+  - League of Canadian Poets
+  - Learning
+  - Lebel
+  - Leblanc
+  - Lecker
+  - Leclerc
+  - Lederman
+  - Lefollii
+  - Legate
+  - Leith
+  - Lemelin
+  - Lemieux
+  - Leméac
+  - Lepine
+  - Leprohon
+  - Lesik
+  - Lesperance
+  - Lessard
+  - Lester & Orpen Dennys
+  - Letters
+  - Leurin-Young
+  - Levant
+  - Leveridge
+  - Levesque
+  - Levine
+  - Lewis (David)
+  - Lewis (Stephen)
+  - Lewis (Wyndham)
+  - Liberal Federation of Canada
+  - Libre Expression
+  - Lightfoot
+  - Lighthall
+  - Lilley
+  - Limited editions
+  - Linder
+  - Lisson
+  - Literary  Review of Canada
+  - Little Brown
+  - Livesay (Dorothy)
+  - Livesay (Florence Randal)
+  - Lobdell
+  - Lockwood
+  - Logan
+  - London Free Press
+  - Longmans Canada
+  - Lorrain
+  - Lotz
+  - Loupos
+  - Love
+  - Lovell (John)
+  - Low
+  - Lowrey
+  - Lubrin
+  - Lussier
+  - Lyman
+  - Lynch
+  - Lyon
+  - Lysenko
+  - MacAskill
+  - MacColl
+  - MacCuaig
+  - MacDonald (Elizabeth Roberts)
+  - MacDonald (J.E.H.)
+  - MacDonald (John J.)
+  - MacDonald (John)
+  - MacDonald (Wilson)
+  - MacDougall
+  - MacEwen
+  - MacGregor
+  - MacInnes
+  - MacKendrick
+  - MacKeracher
+  - MacKinnon (J.B.)
+  - MacKinnon (Ken)
+  - MacKinnon (Lillian Vaux)
+  - MacKinnon Lillian Vaux)
+  - MacLennan (Hugh)
+  - MacLeod (Charlotte)
+  - MacLeod (Margaret Furness)
+  - MacMillan (Margaret)
+  - MacRae
+  - Macbeth
+  - Macdonald (Capt. John A.)
+  - Macdonald (D.C.)
+  - Macdonald (Ross)
+  - Macdonald (Sir John A.)
+  - Machar
+  - Machin
+  - Mackay (Claire)
+  - Mackay (Isabel Ecclestone)
+  - Mackenzie (D.S.S.)
+  - Mackenzie (William Lyon)
+  - Maclean (J.B.)
+  - Maclean (John Philip)
+  - Maclean's
+  - Maclean-Hunter
+  - Macmillan (Carrie)
+  - Macmillan of Canada
+  - Macphail
+  - Maggs
+  - Maharaj
+  - Maher
+  - Mainer
+  - Mainroads Productions
+  - Mair
+  - Maisonneuve
+  - Maitland
+  - Major
+  - Malston
+  - Manguel
+  - Mann
+  - Manning
+  - Mantley
+  - Mara
+  - Mark
+  - Marrelli
+  - Marston
+  - Martel
+  - Martin (Claire)
+  - Martin (Gerry)
+  - Martin (Paul)
+  - Martin (Sandra)
+  - Mason (David)
+  - Mason (H.C.)
+  - Mason (Leonie)
+  - Maxwell
+  - Maxwell (L.M.B.)
+  - May
+  - Mayr
+  - Mayse (Arthur)
+  - Mayse (Susan)
+  - Mayse (Win)
+  - McAree
+  - McCall
+  - McClelland (Jack)
+  - McClelland and Stewart
+  - McCormick
+  - McCourt
+  - McCrae
+  - McCrossan
+  - McDonald
+  - McDougall
+  - McDowell
+  - McEwen
+  - McFarlane (Amy)
+  - McFarlane (Leslie)
+  - McFetridge
+  - McGee (Bob)
+  - McGee (D'Arcy)
+  - McGill Daily
+  - McGill Fortnightly Review
+  - McGill Magazine
+  - McGill University Magazine
+  - McGill-Queen's University Press
+  - McGillis
+  - McGraw-Hill Ryerson
+  - McIlroy
+  - McInnes
+  - McIntyre
+  - McKellar
+  - McKillop
+  - McKinnon
+  - McLachlan
+  - McLeod
+  - McLeod & Allen
+  - McLeod (Gordon D.)
+  - McMullen
+  - McNally
+  - McPherson
+  - McQuaig
+  - McSherry
+  - Medicine Hat News
+  - Meighen
+  - Meister
+  - Melgaard
+  - Memoirs
+  - Memorial verse
+  - Menzies
+  - Mercer
+  - Mernin
+  - Merril
+  - Metcalf
+  - Methuen Publications
+  - Metropolitan
+  - Meyer
+  - Michaels
+  - Middleton
+  - Mierau
+  - Milewski
+  - Millar (Kenneth)
+  - Millar (Margaret)
+  - Miller (K.D.)
+  - Miller (Mary Jane)
+  - Miller (Orlo)
+  - Mistry
+  - Mitchell (John)
+  - Mitchell (W.O.)
+  - Mode + Musik
+  - Modern Canadian Library
+  - Modern Press
+  - Moffatt
+  - Mon roman d'amour
+  - Monk (Lorraine)
+  - Monk (Maria)
+  - Montagnes
+  - Montgomery
+  - Montreal Daily News
+  - Montreal Daily Witness
+  - Montreal Gazette
+  - Montreal Mirror
+  - Montreal News Company
+  - Montreal Review of Books
+  - Montreal Star
+  - Montrealer
+  - Montreuil
+  - Montrose
+  - Moodie
+  - Moody
+  - Moody-Corbett
+  - Moore
+  - Moore (Brian)
+  - Moore (Gwendolyn)
+  - Moore (H. Napier)
+  - Moore (William H.)
+  - Moorhouse
+  - Moose Jaw Times Herald
+  - Mootoo
+  - Morang
+  - Morf
+  - Morgan (Brian)
+  - Morgan (Henry J.)
+  - Morgan (Henry James)
+  - Morgan (Mary)
+  - Morgan-Powell
+  - Morin
+  - Moritz (Albert)
+  - Moritz (Theresa)
+  - Morris
+  - Morris  (Alexander)
+  - Morris (Charles)
+  - Morris (Eric Cecil)
+  - Morriseau
+  - Morrissey
+  - Morton
+  - Mowat
+  - Mowat (Angus)
+  - MuchMusic
+  - Muir
+  - Mulroney
+  - Munch
+  - Munro (Alice)
+  - Munro (Angus)
+  - Munro (Ross)
+  - Munroe
+  - Murphy (Dan)
+  - Murphy (Emily)
+  - Murray
+  - Murtagh
+  - Music
+  - Musson
+  - My Secret Marriage
+  - Mysteries
+  - NC Press
+  - Nablo
+  - Napier
+  - Nash
+  - National Film Board
+  - National Magazine Awards
+  - National Poetry Month
+  - National Post
+  - National Publishing
+  - Nationaliste
+  - Nature writing
+  - Neatby
+  - Nelligan
+  - Nelson Foster and Scott
+  - New Canadian Library
+  - New Liberty
+  - New Year's verse
+  - Newfeld
+  - Newman
+  - News Stand Library
+  - Newton
+  - Nguyen
+  - Nightwood Editions
+  - Nimbus
+  - Niven
+  - Noms de plume
+  - Norris
+  - Northern Journey
+  - Northern Review
+  - Norwood
+  - Notar
+  - Novelizations
+  - Novellas
+  - Novels
+  - Nowlan
+  - O'Flaherty
+  - O'Hagan
+  - O'Hearne
+  - O'Meara
+  - O'Neill
+  - Oberon
+  - Obituaries
+  - Odell
+  - Ogilvie
+  - Oh-Oh Canada
+  - Old McGill
+  - Oliver
+  - Olympia Press
+  - Ondaatje (Christopher)
+  - Ondaatje (David)
+  - Ondaatje (Michael)
+  - Ontario News Now
+  - Ontario Publishing Co.
+  - Optimum Publishing
+  - Orchard
+  - Orenstein
+  - Original Detective Stories
+  - Orvis
+  - Osler
+  - Ostenso
+  - Ottawa Citizen
+  - Ottawa Free Press
+  - Ottawa Times
+  - Owens
+  - Oxford University Press
+  - Oxley
+  - P (A.G.)
+  - POD cover of the month
+  - Packard
+  - Padzer
+  - Page
+  - Pagurian
+  - Palmer
+  - Pamphlets
+  - Panofsky
+  - Paperjacks
+  - Papers of the Bibliographical Society of Canada
+  - Pariseau
+  - Parker
+  - Parmelee
+  - Parodies
+  - Partisan
+  - Pastime Press
+  - Patch
+  - Patrie
+  - Paull
+  - Payne
+  - Pazder
+  - Peacock
+  - Pearson
+  - Peat
+  - Pedley
+  - Peladeau
+  - Pelletier
+  - Pelrine (Dennis)
+  - Pelrine (Eleanor)
+  - Pembroke
+  - Pembroke (Nora)
+  - Penguin Books
+  - Pennée
+  - Pepki
+  - Perrin
+  - Peter Martin Associates
+  - Peterman
+  - Petersen
+  - Peterson
+  - Peterson (Len)
+  - Phillips
+  - Philpott
+  - Phtography
+  - Picard
+  - Pickthall
+  - Pierce
+  - Pinsent
+  - Pirated books
+  - Pirie
+  - Plagiarism
+  - Plant
+  - Plaques
+  - Plourde
+  - Plummer
+  - Pocket Books
+  - Poetry
+  - Political novels
+  - Politics
+  - Polk
+  - Pollock
+  - Popular Library
+  - Porcupine's Quill
+  - Portal
+  - Porter (Anna)
+  - Porter (Mackenzie)
+  - Porter (McKenzie)
+  - Post Millennial
+  - Postmedia News
+  - Poulin
+  - Powe
+  - Powell
+  - Power
+  - Pratt
+  - Prentice-Hall Canada
+  - Presses a Vapeur de la Minerve
+  - Prewett
+  - Price-Brown
+  - Prince George Citizen
+  - Print on demand
+  - Prior
+  - Programs
+  - Progress Books
+  - Propaganda
+  - Prospero
+  - Prototype
+  - Proulx
+  - Pulp Content
+  - Pulp magazines
+  - Pulp novels
+  - Purdy
+  - Pyper
+  - Quarrington
+  - Quarry
+  - Quebec Amerique
+  - Quebec Chronicle-Telegraph
+  - Quebec Reads
+  - Quebec Saturday Budget
+  - Queen's Printer
+  - Queryas
+  - Quesnel
+  - Quill
+  - Quill and Quire
+  - Quotidien
+  - Raddall
+  - Raddisson
+  - Radio
+  - RailCore Press
+  - Randall
+  - Random House of Canada
+  - Rasky (Frank)
+  - Ravvin
+  - Raynor
+  - ReSet
+  - Reader's Digest
+  - Readings
+  - Reaney (James)
+  - Rebel Media
+  - Red Deer College Press
+  - Red She Said
+  - Reed Books Canada
+  - Reeve
+  - Reference books
+  - Regina Leader-Post
+  - Reid
+  - Reid (Mark)
+  - Religion
+  - Religious novels
+  - Religious verse
+  - Renouf
+  - Reprint Society of Canada
+  - Revised works
+  - Reynolds (Dickson)
+  - Reynolds (Helen Dickson)
+  - Reynolds (Mark)
+  - Ricci
+  - Richardson (Evelyn M.)
+  - Richardson (John)
+  - Richler (Daniel)
+  - Richler (Mordecai)
+  - Rickard
+  - Ricochet Books
+  - Rider
+  - Riel
+  - Ringuet
+  - Rivard
+  - Roadbuilder
+  - Robb
+  - Robert
+  - Roberts (Charles G.D.)
+  - Roberts (John H.)
+  - Roberts (Theodore Goodridge)
+  - Robertson (George)
+  - Robertson (Margaret Murray)
+  - Robertson (Patricia)
+  - Robertson (Ray)
+  - Robertson (Robbie)
+  - Robertson (W.C)
+  - Robinson
+  - Robinson (eden)
+  - Robitaille
+  - Rock Publishing
+  - Roddick
+  - Rohmer
+  - Romaine
+  - Romance novels
+  - Romans à clef
+  - Ronsdale Press
+  - Rooke
+  - Rose
+  - Rose Publishing
+  - Rose-Belford
+  - Rosenberg
+  - Rosenblum
+  - Rosenthal
+  - Ross (James A.)
+  - Ross (Marilyn)
+  - Ross (Olin)
+  - Ross (Sinclair)
+  - Ross (W.E.D.)
+  - Rossi
+  - Rossiter
+  - Rothman
+  - Rousseau
+  - Roxborough
+  - Roy (Gabrielle)
+  - Roy (Katherine)
+  - Roy (Yvon)
+  - Royer
+  - Ru-Mi-Lou Books
+  - Rubicon
+  - Ruddick
+  - Ruetger
+  - Rule
+  - Ruthig
+  - Ruttan
+  - Ryan
+  - Ryerson
+  - Ryerson Fiction Award
+  - Ryerson Press
+  - S.B. Gundy
+  - S.E. Mitchell
+  - Sacher
+  - Sadlier
+  - Sadlier (Anna T.)
+  - Saint Marys Journal-Argus
+  - Saint-Denys-Garneau
+  - Sallans
+  - Salvation Army
+  - Salverson
+  - Sampson (Denis)
+  - Sampson (Mark)
+  - Sanderson
+  - Sandiford
+  - Sangster
+  - Sarah
+  - Sarsfield
+  - Saskatoon Star-Phoenix
+  - Saturday Night
+  - Saunders
+  - Savard
+  - Savigny
+  - Schnurmacher
+  - Schofield
+  - Scholastic
+  - School
+  - Schulz
+  - Schwartz
+  - Science
+  - Science fiction
+  - Scoffield
+  - Scott (Duncan Campbell)
+  - Scott (F.G.)
+  - Scott (F.R.)
+  - Scott (Jay)
+  - Scott (Margerie)
+  - Scott (R.T.M.)
+  - Seal
+  - Seal Books First Novel Award
+  - Secret Circle
+  - Segbingway
+  - Self-published books
+  - Selley
+  - Sentes
+  - Seranus
+  - Sermons
+  - Service
+  - Servos
+  - Seth
+  - Seton
+  - Seuil
+  - Shadd
+  - Shaidle
+  - Shane
+  - Shapiro
+  - Sheard
+  - Shein
+  - Sheppard
+  - Sherbrooke Daily Record
+  - Sherk
+  - Sherman
+  - Shields
+  - Ship
+  - Short stories
+  - Shortliffe
+  - Shrapnel
+  - Shulman
+  - Shuster
+  - Siebrasse
+  - Signal
+  - Signet
+  - Silver
+  - Sime
+  - Simon and Pierre
+  - Simon and Schuster Canada
+  - Simpkins
+  - Simpson (David)
+  - Sinclair (Bertrand W.)
+  - Sinclair (Gordon)
+  - Skene-Melvin
+  - Skinazi
+  - Slater
+  - Slocum
+  - Sloniowski
+  - Smart (Elizabeth)
+  - Smart (Leslie)
+  - Smith (A.J.M.)
+  - Smith (Cameron)
+  - Smith (David)
+  - Smith (John)
+  - Smith (Kevin Burton)
+  - Smith (Michelle)
+  - Smith (Ray)
+  - Smith (Ronald R.)
+  - Smith (Winston)
+  - Social History of Canada
+  - Société St-Jean-Baptiste d'Ottawa
+  - Solecki
+  - Souaid
+  - Soucy
+  - Souster
+  - Southern
+  - Souvenir albums
+  - Special Detective Cases
+  - Spectrum Poetry Series
+  - Speeches
+  - Speller
+  - Sports
+  - Spragge
+  - St Andrew's College Review
+  - St Catharines Constitutional
+  - St Marys Journal-Argus
+  - St Pierre
+  - St-Germain
+  - Stacey
+  - Stafford
+  - Staines
+  - Stamps
+  - Standard
+  - Stanké
+  - Star Weekly Magazine
+  - Starkins
+  - Starnino
+  - Starrett
+  - Stead
+  - Steele (Harwood)
+  - Steele (John)
+  - Steele (Sam)
+  - Steele (Tedd)
+  - Stefan
+  - Stein
+  - Steinberg
+  - Steinmetz
+  - Stenson
+  - Stephen
+  - Stephen Leacock Memorial Medal
+  - Stephens
+  - Steven
+  - Stewart (A.C.)
+  - Stewart (J.W.)
+  - Stewart (Robert Earl)
+  - Stewe
+  - Stockdale
+  - Stoddart
+  - Stoicoiu
+  - Storey
+  - Stormont
+  - Stovel-Advocate
+  - Strand
+  - Stratford
+  - Stratford Festival
+  - Straw
+  - Stringer
+  - Strong (Phil)
+  - Strong (Ruth)
+  - Studio Publications
+  - Stuewe
+  - Sudbury Star
+  - Sugar Diet
+  - Sui Sin Far
+  - Sullivan (Alan)
+  - Sullivan (Rosemary)
+  - Sulte
+  - Sun News Network
+  - Suranyi
+  - Sutcliffe
+  - Suter
+  - Sutherland (Fraser)
+  - Sutherland (John)
+  - Suthren
+  - Swan Publishing
+  - Swanson
+  - Swift (Sherman C.)
+  - Swift (Todd)
+  - Switzer
+  - Symons
+  - T.C. Allen
+  - T.H. Warren
+  - Taafe
+  - Taber
+  - Tache
+  - Tardivel
+  - Taviner
+  - Taylor (Abra)
+  - Taylor (Drew Hayden)
+  - Taylor (Gladys)
+  - Taylor (Graeme)
+  - Tecumseh Press
+  - Teit
+  - Television
+  - Temperance poetry
+  - Templeton
+  - Textbooks
+  - Thanksgiving verse
+  - Theatre
+  - Theatre Canadien
+  - Thomas (Audrey)
+  - Thomas (Clara)
+  - Thomas (Hartley Munro)
+  - Thomas (William)
+  - Thomas Allen
+  - Thomas Nelson
+  - Thompson
+  - Three Bats Press
+  - Thrillers
+  - Throwback
+  - Thunder Bay Historical Society
+  - Thériault
+  - Tilbrook
+  - Todd
+  - Toews
+  - Torch
+  - Torchwood
+  - Toronto Life
+  - Toronto News Company
+  - Toronto Star
+  - Toronto Sun
+  - Toronto Sunday World
+  - Toronto Telegram
+  - Toronto Telegraph
+  - Toronto World
+  - Torontonensis
+  - Totem
+  - Totem (Editions du)
+  - Tracy
+  - Traill
+  - Translation
+  - Tranter
+  - Traprock
+  - Travel guides
+  - Travel writing
+  - Treherne
+  - Tremblay
+  - Trembles
+  - Trolley
+  - Trotter
+  - Trudeau (Justin)
+  - Trudeau (Margaret)
+  - Trudeau (Pierre Elliott)
+  - True Crime Cases
+  - True crime
+  - Trueman
+  - Truss
+  - Tundra Books
+  - Turcotte and Menard
+  - Tushingham
+  - Tutis Classics
+  - Typo
+  - Umezawa
+  - Uncanny Tales
+  - Uncollected writings
+  - Underwood
+  - University Magazine
+  - University of Alberta Press
+  - University of Manitoba Press
+  - University of Ottawa Press
+  - University of Toronto Libraries
+  - University of Toronto Press
+  - University of Toronto Quarterly
+  - Unpublished works
+  - Urquhart
+  - Valentine
+  - Vallières
+  - Vancouver Daily World
+  - Vancouver Herald
+  - Vancouver Province
+  - Vancouver Sun
+  - Vanderhaeghe
+  - Vanstone
+  - Vehicule Press
+  - Vermandel
+  - Vesta Publications
+  - Vicars
+  - Vichert
+  - Victoria Day verse
+  - Victoria Times-Colonist
+  - Viersen
+  - Viking Canada
+  - Virgo
+  - Vizinczey
+  - Voyageur Classics
+  - Voyageur Press
+  - Wachtel
+  - Waddington
+  - Wade
+  - Walker (David)
+  - Walker (Joan)
+  - Walker (Kathleen)
+  - Wallace
+  - Wallin
+  - Walrus
+  - Waples
+  - War novels
+  - War poetry
+  - Ward (Arthur Henry)
+  - Ward (Keith)
+  - Ward (Norman)
+  - Warfield
+  - Warren (John)
+  - Warren (Laura)
+  - Warwick
+  - Watanna
+  - Waterston
+  - Watson (Albert Durrant)
+  - Watson (James Wreford)
+  - Watson (Sheila)
+  - Watson (Wilfred)
+  - Watteyne
+  - Wayne
+  - Webster
+  - Week
+  - Weekend Magazine
+  - Wees
+  - Weintraub
+  - Weir (Arthur)
+  - Weir (Robert Stanley)
+  - Wells (Daniel)
+  - Wells (Halls)
+  - Wells (Zachariah)
+  - West
+  - Westacott
+  - Western Review
+  - Westminster
+  - Westmount Examiner
+  - Weston
+  - Westwood Creative Agency
+  - Whalley
+  - Whitaker
+  - White (Bob)
+  - White (John Wesley)
+  - Whiteman
+  - Whyte
+  - Wicks
+  - Wickson
+  - Wicksteed
+  - Wiersema
+  - Wilfrid Laurier University Press
+  - William Briggs
+  - Williams
+  - Williams (Carol)
+  - Willison
+  - Wilson (Betty)
+  - Wilson (Ethel)
+  - Wilson (Julie)
+  - Wilson (Milton)
+  - Wilson (W.A.)
+  - Windsor Centennial Festival
+  - Windsor Star
+  - Winnipeg Tribune
+  - Winter
+  - Wiseman
+  - Withrow
+  - Wolfe
+  - Wood (Harold S.)
+  - Wood (Joanna E.)
+  - Wood (T.S.)
+  - Wood (William)
+  - Wood Lake
+  - Woodrow
+  - Woods (Grahame)
+  - Woods (Rex)
+  - Worthington
+  - Wreford
+  - Wright (Glenn)
+  - Wright (L.R)
+  - Wright (Lauralie)
+  - Writers' Chapel
+  - Writers' Trust
+  - X X X
+  - Yeung
+  - Yewdewit Books
+  - York
+  - Young (Egerton Ryerson)
+  - Young (Kendal)
+  - Young (Michael)
+  - Young (Neil)
+  - Young (Phyllis Brett)
+  - Young (Roly)
+  - Young (Scott)
+  - Young (T.F.)
+  - Young and McCarthy
+  - Yukon Sun
+  - Zink
+  - Zippy
+  - Zolf
+  - Zoomer
+  - al Rabeeah
+  - bissett
+  - blewointment
+  - de  Malijay
+  - de Mille
+  - de Niverville
+  - de Plour
+  - de Vernal
+  - de la Roche
+  - eBooks
+  - maclennan (rob)
+  - subTerrain
+  - van Daalen
+  - van Herk
+  - van Vogt
+  - van de Todd
+  relme:
+    https://brianbusby.blogspot.com/: true
+    https://gentlemanofpleasure.blogspot.com/: true
+    https://readingrichardrohmer.blogspot.com/: true
+    https://www.blogger.com/profile/04120341319506205062: true
+  last_post_title: 'Our Little Life: Dressmaker Meet Cheesemonger'
+  last_post_description: ""
+  last_post_date: "2026-09-08T06:43:29-04:00"
+  last_post_link: https://brianbusby.blogspot.com/2026/09/our-little-life-dressmaker-meet.html
+  last_post_categories:
+  - Early Canadian Women Writers
+  - Goodchild
+  - Hamilton Spectator
+  - Novels
+  - Sime
+  - Tecumseh Press
+  last_post_language: ""
+  last_post_guid: a08308cc6b4ed96604b9a2a54a552968
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 296
+---

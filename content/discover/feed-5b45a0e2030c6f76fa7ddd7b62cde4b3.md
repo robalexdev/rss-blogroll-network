@@ -13,6 +13,9 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
@@ -32,7 +35,8 @@ params:
     description: ""
     id: 9342e2c9fad7bf68687fab207d1c4b11
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme: {}
   last_post_title: "2025"

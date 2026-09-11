@@ -11,7 +11,10 @@ params:
     https://sallylait.com/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -35,15 +38,15 @@ params:
   categories: []
   relme:
     https://sallylait.com/blog/: true
-  last_post_title: 'LDX3 CRG: Connecting leaders with disabilities'
-  last_post_description: After the first iteration at LeadDev last year, I was thrilled
-    to be invited back as one of the co-facilitators of the "Connecting Leaders with
-    Disabilities" community representation group (CRG) at
-  last_post_date: "2025-06-22T10:00:00Z"
-  last_post_link: https://sallylait.com/blog/2025/06/22/ldx3-crg/
+  last_post_title: Leading through challenging times
+  last_post_description: 'In my career I’ve seen a wide range of what could generically
+    be considered “challenging times”: layoffs, a pandemic, complete C-suite overhauls,
+    political instability and wars, reorgs and'
+  last_post_date: "2026-03-26T01:00:00Z"
+  last_post_link: https://sallylait.com/blog/2026/03/26/leading-through-challenging-times/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 921519a66c2fc2616a1cf49a3c4f3bef
+  last_post_guid: 32ac2db5d948720168cedf10d0137c25
   score_criteria:
     cats: 0
     description: 3
@@ -61,6 +64,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 155
+  postcount: 157
   avgpostlen: 0
 ---

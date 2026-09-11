@@ -10,9 +10,9 @@ params:
     https://2ndfrombottom.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
+  - title: blogs.hn
     description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
+    id: a46959e4e956c5003fc65cbc7e49dffc
   recommended: []
   recommender: []
   categories:

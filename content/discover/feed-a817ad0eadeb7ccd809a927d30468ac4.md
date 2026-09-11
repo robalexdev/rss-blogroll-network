@@ -1,0 +1,984 @@
+---
+title: bushcooks kitchen
+date: "2026-09-11T17:02:20+02:00"
+description: ""
+params:
+  feedlink: https://www.bushcook.de/feeds/posts/default
+  feedtype: atom
+  feedid: a817ad0eadeb7ccd809a927d30468ac4
+  websites:
+    https://www.bushcook.de/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Foodblog Blogroll by Martha
+    description: ""
+    id: 639cf599ff7bab86f28279d20b7d89e7
+  - title: Blogroll by kuechenlatein
+    description: ""
+    id: 1c6ae6b7966aca82d4f6cbcef0a996f3
+  recommended: []
+  recommender:
+  - https://bunte-kuechenabenteuer.de/feed/
+  - https://kuechenlatein.com/comments/feed/
+  - https://kuechenlatein.com/feed/
+  categories:
+  - '#bärlauch'
+  - '#fcfr14'
+  - '#fenchelfreude'
+  - '#gurkengrün'
+  - '#gutbeihitze'
+  - '#jteb'
+  - '#kaltesuppen'
+  - '#kürbiszeit'
+  - '#lilafreude'
+  - '#lunchtapas'
+  - '#quittengold'
+  - '#rotebeteglück'
+  - '#spargelzeit'
+  - '#tomatenliebe'
+  - '#zitrusliebe'
+  - '#zucchinischwemme'
+  - Achim Schwekendiek
+  - Adrian Krieg
+  - Adrien Hurnungee
+  - Afrika
+  - Ahr
+  - Alex Högner
+  - Alex Sallustio
+  - Alexander Ebert
+  - Alexander Fankenhauser
+  - Alexander Herrmann
+  - Alexander Huber
+  - Alexander Krankl
+  - Alexander Kumptner
+  - Alexander Oos
+  - Alexander Ruhland
+  - Alfred Biolek
+  - Algen
+  - Algerien
+  - Ali Güngörmüs
+  - Alice Waters
+  - Allegra McEvedy
+  - Allgäu
+  - Alltagsküche
+  - Alois Lageder
+  - Amerika
+  - Amuse
+  - Anatoly Kazakov
+  - Andi Neumayr
+  - Andi Schweiger
+  - Andrea Bavestrello
+  - Andrea Boscagli
+  - Andrea Giuseppucci
+  - Andrea Vestri
+  - Andreas Caminada
+  - Andreas Döllerer
+  - Andreas Hillejan
+  - Andreas Hoppe
+  - Andreas Krolik
+  - Andreas Leib
+  - Andreas Schaidhauf
+  - Andreas Schießel
+  - Andreas Senn
+  - Andreas Wojta
+  - Andree Köthe
+  - André Jaeger
+  - André Rickert
+  - Andy Vorbusch
+  - Angela Rücker
+  - Angelo Fonti
+  - Angelo Zicaro
+  - Angie Geißler
+  - Anna Matscher
+  - Anna Pearson
+  - Anna Sgroi
+  - Annette Huber
+  - Anthony Sarpong
+  - Antje de Vries
+  - Anton Gschwendtner
+  - Anton Pozeg
+  - Anton Schmaus
+  - Antonino Cannavacciuolo
+  - Antonio Wanner
+  - Apicius
+  - App
+  - April Bloomfield
+  - Arvin Kalsi
+  - Aserbaidschan
+  - Asia
+  - Asien
+  - Atalay Aktas
+  - Atsushi Sugimoto
+  - Auflauf
+  - Australien
+  - Award
+  - Aylin Weirowski
+  - Baden-Württemberg
+  - Balthasar Ress
+  - Bar
+  - Barbara Schlachter-Ebert
+  - Bastian Ebert
+  - Bastian Falkenroth
+  - Bastian Jordan
+  - Bayern
+  - Beate Wöllstein
+  - Beeren
+  - Beilage
+  - Ben Chmura
+  - Ben Gal Moshe
+  - Benedikt Faust
+  - Benedikt Hierl
+  - Benjamin Kunz
+  - Benjamin Schuster
+  - Benjamin Unger
+  - Benny Gallein
+  - Berlin
+  - Bernd Arold
+  - Bernd Neuner-Duttenhofer
+  - Bernd Pulker
+  - Bernd Siefert
+  - Bernhard Meßmer
+  - Bernie Rieder
+  - Beth Liston
+  - Bier
+  - Bill Granger
+  - Billy Wagner
+  - Björn Freitag
+  - Blog-Event
+  - Blüten
+  - Bobby Bräuer
+  - Bodensee
+  - Bowle
+  - Brasilien
+  - Bremen
+  - Brot
+  - Brotaufstrich
+  - Buch
+  - Buffet
+  - Burkhard Schork
+  - Bürogarten
+  - Carlo Bernasconi
+  - Carmelo Greco
+  - Catherine Pearson
+  - Cathrin Brandes
+  - Cettina Vicenzino
+  - Chakall
+  - Champagner
+  - Charlotte Pike
+  - Chayawee Sutcharitchan
+  - China
+  - Chiori Kudo
+  - Chris Friedrich
+  - Christian Bau
+  - Christian Baur
+  - Christian Fleischmann
+  - Christian Grainer
+  - Christian Hümbs
+  - Christian Jürgens
+  - Christian Kosmak
+  - Christian L. Stahl
+  - Christian Lohse
+  - Christian Mittermeier
+  - Christian Petz
+  - Christian Schagerl
+  - Christian Stahl
+  - Christian Sturm-Wilms
+  - Christian Unterholzer
+  - Christian Wonka
+  - Christina Fischer
+  - Christina Richon
+  - Christine Robert
+  - Christl Kurz
+  - Christoph Brand
+  - Christoph Gelder
+  - Christoph Hauser
+  - Christoph Kunz
+  - Christoph Lindpointner
+  - Christoph Mezger
+  - Christoph Moser
+  - Christoph Rainer
+  - Christoph Rüffer
+  - Christophe Muller
+  - Christopher Jahn
+  - Chutney
+  - Cihan Anadologlu
+  - Clare Lattin
+  - Claudia Zaltenbach
+  - Claudio del Principe
+  - Claus Böbel
+  - Claus Curn
+  - Claus Dieter Barth
+  - Claus-Peter Lumpp
+  - Clemens Huber
+  - Clemens Rambichler
+  - Cocktail
+  - Cornelia Fischer
+  - Cornelia Haberl
+  - Cornelia Schinharl
+  - Cristiano Rienzner
+  - Dallmayr
+  - Damien Plaisant
+  - Daniel Achilles
+  - Daniel Bodamer
+  - Daniel Fehrenbacher
+  - Daniel Gschwandtner
+  - Daniel Humm
+  - Daniel Klein
+  - Daniel Pietsch
+  - Daniel Rebert
+  - Daniel Schimkowitsch
+  - Daniel Stübler
+  - Darina Allen
+  - David Kikillus
+  - David Seidel
+  - David Thompson
+  - Dennis Brunner
+  - Dessert
+  - Destillerie
+  - Deutsche Bahn
+  - Deutschland
+  - Dieter Fembacher
+  - Dieter Koschina
+  - Dieter Müller
+  - Diethard Urbansky
+  - Dip
+  - Dirk Würtz
+  - Dodo Liadé
+  - Dominik Flammer
+  - Dominik Käppeler
+  - Dominik Lobentanzer
+  - Douce Steiner
+  - Dänemark
+  - Désirée Eser
+  - Eckart Witzigmann
+  - Edip Sigl
+  - Eier
+  - Einkaufen
+  - Eintopf
+  - Eis
+  - Eiweißverwertung
+  - Elisabeth Fischer
+  - Elsass
+  - Elsaß
+  - Emmanuel Renault
+  - Eneko Atxa
+  - Enis Topalovic
+  - Eric Kröber
+  - Eric Menchon
+  - Erik van Loo
+  - Ernst Spreitzer
+  - Eschi Fiege
+  - Espuma
+  - Essig
+  - Eugen von Heider
+  - Event
+  - Ewald Plachutta
+  - Fabian Beck
+  - Fabian Höckenreiner
+  - Fabian Rastorfer
+  - Fabio Haebel
+  - Fabrice Kieffer
+  - Familie Geisel
+  - Felicitas Then
+  - Felix Adebahr
+  - Felix Haiderer
+  - Felix Schneider
+  - Fingerfood
+  - Finkus Bripp
+  - Fisch
+  - Fisch Witte
+  - Fleisch
+  - Flora Hohmann
+  - Florian Berger
+  - Florian Glauert
+  - Florian Gleibs
+  - Florian Karrer
+  - Florian Knecht
+  - Florian Rottensteiner
+  - Food-Pairing
+  - Forstwirt
+  - Frank Buchholz
+  - Frank Heppner
+  - Frank Oehler
+  - Frank Rosin
+  - Franken
+  - Frankfurt
+  - Frankreich
+  - Franz Fuiko
+  - Franz Keller
+  - Franz Kotteder
+  - Franz Kuplent
+  - Franz Xaver Clement
+  - Franz-Josef Unterlechner
+  - Franzi Schweiger
+  - Freiburg
+  - Fritz Keller
+  - Frühling
+  - Frühstück
+  - Gabi Kurz
+  - Gabriel Arendt
+  - Gabriele Halper
+  - Gambia
+  - Gastbeitrag
+  - Gastronomie
+  - Gebäck
+  - Geflügel
+  - Gemüse
+  - Genussreise
+  - Genußkomplizen
+  - Georg Friedl
+  - Georg Mayrhofer
+  - Georg Schweisfurth
+  - Georgien
+  - Gerald Fraidl
+  - Gerald Zogbaum
+  - Gerrit Wagner
+  - Getreide
+  - Getränk
+  - Gewürze
+  - Ghillie Basan
+  - Giorgio Maetzke
+  - Giuseppe Messina
+  - Gottfried Prantl
+  - Graciela Cucchiara
+  - Griechenland
+  - Grillen
+  - Gérard Depardieu
+  - Hackfleisch
+  - Hamburg
+  - Hannes Reckziegel
+  - Hannover
+  - Hans Gerlach
+  - Hans Haas
+  - Hans Horberth
+  - Hans Jörg Bachmeier
+  - Hans Lugstein
+  - Hans Reisinger
+  - Hans Stefan Steinheuer
+  - Hao Jin
+  - Harald Irka
+  - Harald Rüssel
+  - Harald Schultes
+  - Harald Wohlfahrt
+  - Hauptgang
+  - Heike Philipp
+  - Heiko Antoniewicz
+  - Heiko Arndt
+  - Heiko Lacher
+  - Heiko Nieder
+  - Heiko Schulz
+  - Heinz Beck
+  - Heinz Reitbauer
+  - Heinz Winkler
+  - Helen Mol
+  - Helmut Schwögler
+  - Helmut Thieltges
+  - Herbert Hintner
+  - Herbert Zillinger
+  - Herbst
+  - Hermann Retzer
+  - Hessen
+  - Hiroyasu Kawate
+  - Hiu Bao Pham
+  - Holger Stromberg
+  - Horst Sauer
+  - Hotel
+  - Hubert Buckl
+  - Hubert Obendorfer
+  - Hubert Wallner
+  - Hubertus Tzschirner
+  - Hülsenfrüchte
+  - Indien
+  - Indonesien
+  - Ingalena Heuck
+  - Ingeborg Daberer
+  - Ingo Holland
+  - Innereien
+  - Irland
+  - Italien
+  - Ivan Matarese
+  - Jacob Weis
+  - Jacqueline Amirfallah
+  - Jakob Stüttgen
+  - Jamie Oliver
+  - Jan Cornelius Maier
+  - Jan Hartwig
+  - Japan
+  - Jean-Georges Klein
+  - Jean-Marie Dumaine
+  - Jean-Michel Feret
+  - Jeden Tag ein Buch
+  - Jemen
+  - Jens Hacker
+  - Jens Hoferer
+  - Jens Madsen
+  - Jens Priewe
+  - Jens Rittmeyer
+  - Jeremias Riezler
+  - Jianhua Wu
+  - Joachim Gradwohl
+  - Joachim Jaud
+  - Joachim Kaiser
+  - Joachim Wissler
+  - Joan Roca
+  - Jochen Helfesrieder
+  - Jochen Kreppel
+  - Jochim Busch
+  - Jockl Kaiser
+  - Joe Woodel
+  - Johann Lafer
+  - Johann Rappenglück
+  - Johanna Maier
+  - Johannes King
+  - Johannes Maria Kneip
+  - Johannes Schwarz
+  - Joji Hachimure
+  - Jolly Roger Cooking Gang
+  - Jonnie Boer
+  - Jordi Roca
+  - Jorge Balbontin
+  - Joshua Leise
+  - Josip Roca
+  - Juan Amador
+  - Julia Pleintinger
+  - Julian Fritz
+  - Julian Schwamberger
+  - Julien Morlat
+  - Justin Leone
+  - Jörg Sackmann
+  - Jürgen Vigné
+  - Jürgen Wolfsgruber
+  - Kaffee
+  - Kai Weise
+  - Kalb
+  - Kalifornien
+  - Kambodscha
+  - Kaninchen
+  - Karibik
+  - Karim Schumann
+  - Karl Baumgartner
+  - Karl Ederer
+  - Karl Obauer
+  - Karl-Josef Fuchs
+  - Karlheinz Hauser
+  - Kartoffel
+  - Katharina Holz
+  - Katharina Seiser
+  - Kaviar
+  - Kevin Fehling
+  - Kilian Angermeyer
+  - Kim Thuy
+  - Kirill Kinfelt
+  - Klaus Erfort
+  - Klaus St. Rainer
+  - Kloster Hornbach
+  - Kochbuch
+  - Kochbuch-Rezensionen
+  - Kochkurs
+  - Kochshow
+  - Kolja Kleeberg
+  - Konditorei
+  - Konrad Geiger
+  - Korea
+  - Korsika
+  - Kräuter
+  - Kuba
+  - Kuchen
+  - Kustermann
+  - Kärnten
+  - Käse
+  - Köln
+  - Küchengeräte
+  - Küchentips
+  - Lamm
+  - Laos
+  - Lars Fumic
+  - Lea Linster
+  - Leander Bauer
+  - Leo Mauerer
+  - Leo Robitschek
+  - Libanon
+  - Likör
+  - Lilian Schumann
+  - Lisa Angermann
+  - Lisl Wagner-Bacher
+  - London
+  - Lucki Maurer
+  - Ludwig Maurer
+  - Luise Kinseher
+  - Lukas Adebahr
+  - Lukas Gietl
+  - Lukas Nagl
+  - Lukas Zellermayr
+  - MOK
+  - Maike Menzel
+  - Mainz
+  - Mais
+  - Malakeh
+  - Malediven
+  - Manfred Kurz
+  - Manuel Faltermeier
+  - Manuel Reheis
+  - Manuel Schmuck
+  - Manuela Holzbauer
+  - Manuela Rüther
+  - Marc Fosh
+  - Marc Haeberlin
+  - Marcel Görke
+  - Marcel Ragger
+  - Marcel Tauschek
+  - Marcel von Winckelmann
+  - Marco Akuzun
+  - Marco Giovanni Zanetti
+  - Marco Kaluscha
+  - Marco Pesce
+  - Marcus Andre Janzen
+  - Marcus G. Lindner
+  - Marcus Müller
+  - Margot Van Assche
+  - Maria Groß
+  - Marianus von Hörsten
+  - Marie Rausch
+  - Mario Corti
+  - Mario Gamba
+  - Mario Lohninger
+  - Marius Wittur
+  - Markus Berl
+  - Markus Meier
+  - Markus Resch
+  - Marokko
+  - Martin Baudrexel
+  - Martin Fauster
+  - Martin Gruß
+  - Martin Göttlinger
+  - Martin Morales
+  - Martin Pham
+  - Martin Rehmann
+  - Martin Schönleben
+  - Martin Stopp
+  - Martina Meuth
+  - Martina Willmann
+  - Marvin Böhm
+  - Mathias Mittermeier
+  - Mathias Seidel
+  - Mathias Stolze
+  - Matthias Brenner
+  - Matthias Brust
+  - Matthias Gfrörer
+  - Matthias Maucher
+  - Maurice Kriegs
+  - Mauritius
+  - Maurizio Oster
+  - Mauro Colagreco
+  - Max Natmessnig
+  - Max Schmidt
+  - Max Strohe
+  - Max Süber
+  - Max Waldhauser
+  - Maximilian Huber
+  - Maximilian Moser
+  - Mecklenburg-Vorpommern
+  - Meeresfrüchte
+  - Meike Zimmermann
+  - Meinhard Tschurtschentaler
+  - Meinrad Neunkirchner
+  - Menü
+  - Menübaustein
+  - Messe
+  - Meta Hiltebrand
+  - Mexiko
+  - Micha Ammon
+  - Micha Schäfer
+  - Michael Bader
+  - Michael Fell
+  - Michael Hoffmann
+  - Michael Huber
+  - Michael Hüsken
+  - Michael Kammermeier
+  - Michael Köhle
+  - Michael Langoth
+  - Michael Philipp
+  - Michael Riedl
+  - Michael Schwarzenbacher
+  - Michael Simon Reis
+  - Michael Sobota
+  - Michael Wurm
+  - Michaela Hager
+  - Michel Constantin
+  - Michel Dupuis
+  - Michi Seitz
+  - Mike Süsser
+  - Mike's Whiskey Akademie
+  - Mikkel Karstad
+  - Milchprodukte
+  - Mitsutoshi Sugiyama
+  - Moritz Schmid
+  - Mosel
+  - Mun Kim
+  - Muschel
+  - Museum
+  - Myrtle Allen
+  - Mühlviertel
+  - München
+  - Natalie Lumpp
+  - Nathalie Leblond
+  - Nelson Müller
+  - Nenad Mlinarevic
+  - Nicklas Rausch
+  - Nico Sackmann
+  - Nico Sartor
+  - Nicolas La Rocca
+  - Nicolas Stromboni
+  - Niederbayern
+  - Niedersachsen
+  - Nigel Slater
+  - Nils Egtermeyer
+  - Nils Henkel
+  - Nobu Matsuhisa
+  - Norbert Niederkofler
+  - Nordic Cuisine
+  - Nordrhein-Westfalen
+  - Nudeln
+  - Nürnberg
+  - Nüsse
+  - Oberbayern
+  - Oberpfalz
+  - Obst
+  - Ochse
+  - Office-Food
+  - Olaf Baumeister
+  - Ole Plogstedt
+  - Olivenöl
+  - Oliver Kirschner
+  - Oliver Schols
+  - Oliver Trific
+  - Oliver von Carnap
+  - Olivier Fabing
+  - Orhan Tancgil
+  - Orient
+  - Oriol Castro
+  - Ostern
+  - Ostsee
+  - Othmar Raich
+  - Otto Koch
+  - Outdoor-Küche
+  - Partygericht
+  - Pascal Fembacher
+  - Patrick Grieshaber
+  - Patrick Hemminger
+  - Patrik Kimpel
+  - Paul Bocuse
+  - Paul Ivic
+  - Paula Bosch
+  - Peet Schütte
+  - Pellegrino Artusi
+  - Persien
+  - Peru
+  - Pesto
+  - Peter Jauch
+  - Peter Knogl
+  - Peter Maria Schnurr
+  - Peter Vögele
+  - Peter Wagner
+  - Petra Hammerstein
+  - Pflanzen
+  - Philip Jaeger
+  - Philipp Ertl
+  - Philipp Künemund
+  - Philipp Rümmele
+  - Philippinen
+  - Phillip Sigwart
+  - Philp Jaeger
+  - Piemont
+  - Pilze
+  - Plätzchen
+  - Polen
+  - Portugal
+  - Pralinen
+  - Quique Dacosta
+  - Rachel Khoo
+  - Raffaele Troisi
+  - Raffaele de Luca
+  - Rainer Stranzinger
+  - Rainer Unglaub
+  - Rakhshan Zouleh
+  - Ralf Bos
+  - Ralf Frenzel
+  - Ralf Jakumeit
+  - Ralf Zacherl
+  - Reh
+  - Reinhard Angerer
+  - Reis
+  - Reise
+  - Relish
+  - Rene Kalobius
+  - René Frank
+  - Restaurant
+  - Resteverwertung
+  - Rezension
+  - Rezeptsammlung
+  - Rheingau
+  - Rheinhessen
+  - Rheinland-Pfalz
+  - Richard Rauch
+  - Ricky Saward
+  - Rico Birndt
+  - Rind
+  - Robert Geißler
+  - Robert Speth
+  - Robin Hofmann
+  - Roland Trettl
+  - Rolf Köster
+  - Roman Kotte
+  - Ronny Pester
+  - Rosanna Marziale
+  - Rosina Ostler
+  - Ruben Wester-Ebbinghaus
+  - Rudi Obauer
+  - Rudolf Schneider
+  - Saarland
+  - Sachsen
+  - Salat
+  - Salvatore Gala
+  - Salzburg
+  - Sammlung
+  - Sandra Hofer
+  - Sarah Henke
+  - Sascha Bulander
+  - Sascha Mörz
+  - Sascha Stemberg
+  - Sauce
+  - Schmidt Max
+  - Schokolade
+  - Schorsch Ertl
+  - Schwaben
+  - Schwarzwald
+  - Schwein
+  - Schweiz
+  - Schwemme
+  - Sebastian Bordthäuser
+  - Sebastian Class
+  - Sebastian Copien
+  - Sebastian Dickhaut
+  - Sebastian Fasching
+  - Sebastian Ferk
+  - Sebastian Frank
+  - Sebastian Heil
+  - Sebastian Kunkel
+  - Sebastian Mattis
+  - Sebastian Mundstock
+  - Sebastian Obendorfer
+  - Sebastian Rumpf
+  - Sebastian Völkl
+  - Sebastian Völz
+  - Sekt.
+  - Senf
+  - Serkan Güzelcoban
+  - Seychellen
+  - Shane McMahon
+  - Shu Han Lee
+  - Siegi Augscheller
+  - Sigi Schelling
+  - Silvester
+  - Silvio Nickol
+  - Simon Lares
+  - Simon Stirnal
+  - Simon Taxacher
+  - Simon Tress
+  - Simon Xie Hong
+  - Simone Beckenbauer
+  - Sinar Tayyara
+  - Sirup
+  - Sissy Sonnleitner
+  - Sizilien
+  - Smut
+  - Snack
+  - Sohyi Kim
+  - Sommer
+  - Sophie Mussotter
+  - Sorbet
+  - Sous-Vide
+  - Spanien
+  - Spirituose
+  - Spyridoula Kagiaoglou
+  - Sri Lanka
+  - Stefan Ladenberger
+  - Stefan Lemberger
+  - Stefan Marquard
+  - Stefan Neugebauer
+  - Stefan Retzer
+  - Stefan Scheib
+  - Stefan Schneider
+  - Stefan Schütz
+  - Stefan Wiesner
+  - Stefanie Hiekmann
+  - Steffen Henssler
+  - Steffen Mezger
+  - Steffen Prase
+  - Steffen Sinzinger
+  - Steffen Szabo
+  - Steiermark
+  - Stephan Brandl
+  - Stephan Fischer
+  - Stephan Hinz
+  - Stevan Paul
+  - Steven Raichlen
+  - Steven Schneider
+  - Streetfood
+  - Stuttgart
+  - Suppe
+  - Supper-Club
+  - Sven Elverfeld
+  - Sven Segler
+  - Swahili
+  - Sylt
+  - Sylvan Müller
+  - Syrien
+  - Südafrika
+  - Südtirol
+  - Tanja Grandits
+  - Tanzania
+  - Tarik Rose
+  - Tee
+  - Tegernsee
+  - Thailand
+  - The Duc Ngo
+  - Thomas Bühner
+  - Thomas Dorfer
+  - Thomas Gruber
+  - Thomas Haus
+  - Thomas Hermersdorfer
+  - Thomas Kahl
+  - Thomas Kellermann
+  - Thomas Merkle
+  - Thomas Schanz
+  - Thomas Schindler
+  - Thomas Thielemann
+  - Thomas Vierich
+  - Thomas Vilgis
+  - Thomas Zwink
+  - Tillmann Hahn
+  - Tim Meier
+  - Tim Mälzer
+  - Tim Raue
+  - Timo Fritsche
+  - Timon Kaufmann
+  - Tino Nawrocki
+  - Tirol
+  - Tobi Stegmann
+  - Tobias Becker
+  - Tobias Bätz
+  - Tobias Jochim
+  - Tobias Pecher
+  - Tobias Peyerl
+  - Tofu
+  - Tohru Nakamura
+  - Tom Heinzle
+  - Tom Hill
+  - Tom Häusler
+  - Toni Krank
+  - Toni Mörwald
+  - Tony Hohlfeld
+  - Torte
+  - Toskana
+  - Türkei
+  - Uli Stein
+  - Uli Wüllenweber
+  - Ulrich Heimann
+  - Ulrich Jahn
+  - Ungarn
+  - Valerie Kitzinger
+  - Vegan
+  - Vegetarisch
+  - Veronique Witzigmann
+  - Victoria Lorenz
+  - Vietnam
+  - Viki Fuchs
+  - Vincent Klink
+  - Violante Gonzaga
+  - Virgilio Martinez
+  - Vitus Winkler
+  - Vivi D'Angelo
+  - Viviane Richter
+  - Vorarlberg
+  - Vorspeise
+  - Vreni Giger
+  - Vroni Siflinger-Lutz
+  - Véronique Witzigmann
+  - Wahabi Nouri
+  - Walde Müller
+  - Walter Augscheller
+  - Walter Leufen
+  - Weihnachten
+  - Wein
+  - Wein am Berg
+  - Weinrallye
+  - Whiskey
+  - Whisky
+  - Wien
+  - Wild
+  - Wildpflanzen
+  - William Semen
+  - Willibald Reinbacher
+  - Winepunk
+  - Winter
+  - Winzerdinner
+  - Wolfgang Becker
+  - Wolfgang Hingerl
+  - Wolfgang Laschtowitz
+  - Wolfgang Marquart
+  - Wolfgang Müller
+  - Wolfgang Ponier
+  - Wurst
+  - Xiao Wang
+  - Yohanis Gebreyesus
+  - Yotam Ottolenghi
+  - Yves Ollech
+  - Zen Signatures
+  - Zitrusfrüchte
+  - Zsolt Fodor
+  - Zwischengericht
+  - Zürich
+  - backen
+  - cross-over
+  - dean und david
+  - einfach
+  - einmachen
+  - glutenfrei
+  - kochevent
+  - schnell
+  - slow food
+  - Äthiopien
+  - Öl
+  - Österreich
+  relme:
+    https://www.blogger.com/profile/07431738547643883832: true
+    https://www.bushcook.de/: true
+  last_post_title: Wegweiser durchs Kochbuchregal
+  last_post_description: ""
+  last_post_date: "2026-09-11T09:00:00+02:00"
+  last_post_link: https://www.bushcook.de/2026/08/von-der-kochbuchsammlung-zur.html
+  last_post_categories:
+  - Kochbuch
+  last_post_language: ""
+  last_post_guid: acdc175082ddf64ba2e5014776efc55e
+  score_criteria:
+    cats: 5
+    description: 0
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 24
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 295
+---

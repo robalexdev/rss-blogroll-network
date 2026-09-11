@@ -6,9 +6,22 @@ params:
   link: https://raw.githubusercontent.com/peterc/engblogs/refs/heads/master/engblogs.opml
   blogroll_id: 26cb52e32caff9995ee1efaeda73638c
   recommends:
+  - title: Domenico Luciani
+    description: Thoughts about life, tech and everything
+    id: 035868b09705289814c7e6f350f4ef9a
+  - title: Robin's Blog
+    description: A remote-sensing PhD student talking about interesting things...
+    id: 044061c47a1854a17fcb2094e7f699e7
+  - title: Tom's Blog
+    description: Recent content on Tom's Blog
+    id: 04d8c0218779b5ae3995c206223e220f
   - title: null program
     description: ""
     id: 17dd7afe54839563bc45bc1e7f82b945
+  - title: Scott Hanselman's Blog
+    description: Scott Hanselman on Programming, User Experience, The Zen of Computers
+      and Life in General
+    id: 1ce23f65715a3fadd5af87c1e54516fa
   - title: Snook.ca
     description: Life and Times of a Web Developer
     id: 1e9f7a892cc3a088f0d796a20def701d
@@ -21,6 +34,12 @@ params:
   - title: Huon on the internet
     description: ""
     id: 2add22a3fbd943d0fe9fc2d780b9c55b
+  - title: begriffs.com
+    description: ""
+    id: 2b1a345b93e0e6f2fb2c5de4b1b728df
+  - title: HookRace Blog
+    description: ""
+    id: 2dd223fa017cdd55088c1d166b2a6a1d
   - title: Lacking Rhoticity
     description: ""
     id: 2edd1d4870356aa6c4fb1d058023c392
@@ -29,6 +48,9 @@ params:
       at Bluecore, fixed interesting bugs at Twitter, and taught a database class
       at Columbia as an adjunct. I was a co-founder and CTO
     id: 3014ac2f35d66f77d633a5da926d827d
+  - title: pamela fox's blog
+    description: ""
+    id: 34fb5878d7ae8adb6974b9e1be6f588b
   - title: Armin Ronacher's Thoughts and Writings
     description: ""
     id: 3a7ccb04f317dc55ab2c53591a057188
@@ -41,6 +63,9 @@ params:
     description: A blog about weird games, internet social experiments, and other
       stupid things I make my computer do.
     id: 3c1144a1c8eb7deba937b1340eed70b0
+  - title: Evan Miller’s News
+    description: Evan Miller’s News
+    id: 3df94b8bba4faadad01a2c3e56704be0
   - title: Allison Kaptur
     description: ""
     id: 4277f44909cfffd36d5899cb1ed17376
@@ -95,11 +120,17 @@ params:
     description: Mary Rose Cook's website.  I'm a staff product engineer and tech
       lead at Airtable in San Francisco.
     id: 8ae6984a7812d257eea643d4dc2ca54c
+  - title: Josh Haberman
+    description: Parsing, performance, and low-level programming.
+    id: 9209f49730e55dc0c3b5d2563cb1e538
   - title: Daniel Lemire's blog
     description: Daniel Lemire is a software performance expert. He ranks among the
       top 2% of scientists globally (Stanford/Elsevier 2025) and is one of GitHub's
       top 1000 most followed developers.
     id: 9487b279f12cdd7441659355be4e3176
+  - title: morling.dev -- Blog
+    description: Recent content in Blogs on Gunnar Morling
+    id: 9517621d6a65bdb179de136180d34e33
   - title: Monica Dinculescu
     description: ""
     id: 9ed58f466104e74b8e5f8d7a32d0335c
@@ -133,6 +164,9 @@ params:
   - title: code.dblock.org | tech blog
     description: ""
     id: b5997debf4f556172dc53b03e4823dee
+  - title: Ruslan's Blog
+    description: ""
+    id: b651bd51957a663d685dd204e3da5e5c
   - title: David Walsh Blog
     description: A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS,
       WordPress, and everything else development.
@@ -140,6 +174,9 @@ params:
   - title: overreacted — A blog by Dan Abramov
     description: A blog by Dan Abramov
     id: b9f68a77f9d31e4a02f0b3d7ac10c372
+  - title: Robin Wieruch
+    description: Articles about React, Next.js, TypeScript, JavaScript, and web development.
+    id: bcd1cc040a7d7ff19ce7b9c86dceeb36
   - title: Swizec Teller
     description: A geek with a hat
     id: c3dbfdb6b54055b6a2aa26de21229509
@@ -149,4 +186,10 @@ params:
   - title: Programming in the 21st Century
     description: ""
     id: ddd7cc2046a39564250419de5dddd8fe
+  - title: Performance is a Feature!
+    description: ""
+    id: e056cb2361c324db1dadf34d10b79e1f
+  - title: absorptions
+    description: a blog about sound & signals by windytan [oona räisänen]
+    id: e963e991a5aab6628341e5ed7a588617
 ---

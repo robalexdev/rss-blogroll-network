@@ -64,6 +64,9 @@ params:
   - title: xkcd.com
     description: 'xkcd.com: A webcomic of romance and math humor.'
     id: 7cede4dcbc427482f3509d2c72bae2d3
+  - title: mtlynch.io
+    description: Recent content on mtlynch.io
+    id: 853181e6754bb2dbd37a6b974beb15c2
   - title: Simon Safar
     description: All recent entries from simonsafar.com
     id: 90854f1f0dae048e656814729f666c81

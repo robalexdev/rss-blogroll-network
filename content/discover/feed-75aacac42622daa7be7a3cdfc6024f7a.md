@@ -19,15 +19,15 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] It''s a niche concern'
-  last_post_description: I wrote about how annotating focus order isn't an efficient
-    use of your time and how it might create more problems than it solves. It's a
-    niche concern, for sure. But also I think its a valid one
-  last_post_date: "2026-02-05T03:20:17Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-its-a-niche-concern/
+  last_post_title: '[SC 2.4.4] Letting go of something'
+  last_post_description: "I'm on day two of my new job. It's a return to what I was
+    initially doing at GitHub, which is deep accessibility support for design systems.
+    \nLetting go of something that may have never existed"
+  last_post_date: "2026-09-10T00:14:51Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-letting-go-of-something/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: afcb3ccfe515eeacbad0ea8241418786
+  last_post_guid: b3d066b7686d417001ec463249472a99
   score_criteria:
     cats: 0
     description: 3

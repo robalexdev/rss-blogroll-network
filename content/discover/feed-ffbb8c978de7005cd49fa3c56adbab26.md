@@ -1,6 +1,6 @@
 ---
 title: Leilukin's Hub
-date: "2026-02-01T11:16:10Z"
+date: "2026-09-05T14:26:49Z"
 description: Leilukin's personal website.
 params:
   feedlink: https://leilukin.com/feed.xml
@@ -10,7 +10,7 @@ params:
     https://leilukin.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -36,13 +36,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Changelog: 1 February 2026'
+  last_post_title: 'Changelog: 5 September 2026'
   last_post_description: ""
-  last_post_date: "2026-02-01T11:16:10Z"
+  last_post_date: "2026-09-05T14:26:49Z"
   last_post_link: https://leilukin.com/changelogs/2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f0bbce9d22f8405feb4a273cf28ccb7d
+  last_post_guid: b5010208cb3c45b4c328f7228408ff2b
   score_criteria:
     cats: 0
     description: 3
@@ -61,5 +61,5 @@ params:
   innetwork: true
   language: en
   postcount: 15
-  avgpostlen: 157
+  avgpostlen: 179
 ---

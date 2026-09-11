@@ -11,7 +11,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -23,7 +23,7 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: ""
+  - title: Blogroll - Jan-Lukas Else
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: Kagi Small Web OPML

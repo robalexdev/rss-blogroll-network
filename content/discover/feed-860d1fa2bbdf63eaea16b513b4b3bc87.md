@@ -10,6 +10,9 @@ params:
     https://www.bitecode.dev/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,14 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Moving out of Substack and Linkedin
-  last_post_description: Notes on those platforms are underwhelming, and new.bitecode.dev
-    is live
-  last_post_date: "2026-08-25T14:13:15Z"
-  last_post_link: https://www.bitecode.dev/p/moving-out-of-substack-and-linkedin
+  last_post_title: RSS doesn’t have to be boring
+  last_post_description: Ok, it’s pretty boring. But we can do a makeover.
+  last_post_date: "2026-09-08T16:32:50Z"
+  last_post_link: https://www.bitecode.dev/p/rss-doesnt-have-to-be-boring
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b0d6c6d3e08d79b09c709068d6bb8fae
+  last_post_guid: b08ba63a1a14ee12a29e7453642d80c6
   score_criteria:
     cats: 0
     description: 3

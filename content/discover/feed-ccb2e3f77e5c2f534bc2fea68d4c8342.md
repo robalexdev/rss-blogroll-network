@@ -1,6 +1,6 @@
 ---
 title: lottia notes
-date: "2026-04-19T02:10:00Z"
+date: "2026-08-30T01:50:00Z"
 description: ""
 params:
   feedlink: https://lottia.net/notes/atom.xml
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://lottia.net/notes/: true
-  last_post_title: Fluent jj / aggressive aliasing
+  last_post_title: Minimally-capable Qwen
   last_post_description: ""
-  last_post_date: "2026-04-19T02:10:00Z"
-  last_post_link: https://lottia.net/notes/0018-fluent-jj.html
+  last_post_date: "2026-08-30T01:50:00Z"
+  last_post_link: https://lottia.net/notes/0019-minimally-capable-qwen.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7bf916bd97455ff9ef1455641d1fa4da
+  last_post_guid: b5ffe7dea129fa97f3709fffe6a95877
   score_criteria:
     cats: 0
     description: 0

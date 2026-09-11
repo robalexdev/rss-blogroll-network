@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-08-28T19:02:37Z"
+date: "2026-09-11T14:04:25Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -32,16 +32,16 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #196'
+  last_post_title: 'The Index: Issue #197'
   last_post_description: |-
-    Before we get into this week's links, I just thought I'd let you know we're having a summer break next week, so the next issue won't be with you until September 11!
-    Midnight Vinyl Club
-    A handy
-  last_post_date: "2026-08-28T09:55:00Z"
-  last_post_link: https://piccalil.li/the-index/196/?ref=main-rss-feed
+    Mindful Design Products
+    This is exactly what we need to counter the great slopification of what used to be useful products. Calm, considered and above all, useful.
+    Scott's written about the why here,
+  last_post_date: "2026-09-11T00:00:00Z"
+  last_post_link: https://piccalil.li/the-index/197/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8392a81de1849bf24b21104cd305f59a
+  last_post_guid: 2f78bb8040d8fe01f357d2d9f118f4dc
   score_criteria:
     cats: 0
     description: 3

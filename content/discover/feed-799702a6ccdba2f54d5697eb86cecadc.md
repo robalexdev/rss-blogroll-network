@@ -10,7 +10,10 @@ params:
     https://blog.x-way.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,21 +34,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Misc
+  - Networking
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: "Happy 25th Birthday kniebes.com \U0001F973"
-  last_post_description: "Mit ein paar Tagen Verspätung wünsche ich dem Journal von
-    Markus alles Gute zum 25. Jubiläum.\n\n\n\tEs ist immer wieder eine Freude einen
-    neuen Post im Feedreader zu sehen.\n\tAuch die kurzen Einträge"
-  last_post_date: "2026-08-28T17:07:25+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/08/28/Happy-25th-Birthday-kniebes-com.html?utm_medium=rss
+  last_post_title: Fix radvd warning invalid MTU 1500 on MikroTik
+  last_post_description: |-
+    After upgrading to the latest stable RouterOS, I suddenly got many of the following log entries:
+
+    Sep  9 06:09:43 fw-router-1-wan.example.lan radvd,warning invalid mtu 1500 on vpn_tunnel_45 from fe80
+  last_post_date: "2026-09-09T07:32:36+02:00"
+  last_post_link: https://blog.x-way.org/Networking/2026/09/09/Fix-radvd-warning-invalid-MTU-1500-on-MikroTik.html?utm_medium=rss
   last_post_categories:
-  - Misc
+  - Networking
   last_post_language: ""
-  last_post_guid: 5a51cb2a60f0ab1d69d8ad46ccee2bf4
+  last_post_guid: 9ee39ee6ac6da8f72b18b86d2858da95
   score_criteria:
     cats: 0
     description: 3

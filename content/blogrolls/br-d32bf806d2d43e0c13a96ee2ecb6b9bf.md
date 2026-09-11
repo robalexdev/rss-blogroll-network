@@ -1,0 +1,56 @@
+---
+title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star Trek
+  & SciFi, Eigene Podcasts
+date: Fri, 21 Aug 2026 15:08:01 +0000
+description: ""
+params:
+  link: https://hnz.io/podroll?opml=
+  blogroll_id: d32bf806d2d43e0c13a96ee2ecb6b9bf
+  recommends:
+  - title: Methodisch inkorrekt!
+    description: |-
+      Der methodisch inkorrekte Wissenschaftspodcast
+
+      Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos & Rabatte: https://linktr.ee/methodischinkorrekt
+
+      Du möchtest Werbung
+    id: 2262b333a83d9b755e2fdf7c7ab6ec48
+  - title: Alles gesagt?
+    description: |-
+      Wir befragen außergewöhnliche Menschen – so lange, bis sie selbst erklären, dass jetzt “alles gesagt” sei. Ein Gespräch kann also zwölf Minuten oder drei Stunden dauern.
+
+      Die Interviewer,
+    id: 35a52dc366e8890a81912dba93c0bd27
+  - title: Baywatch Berlin
+    description: "Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast
+      nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen.
+      \nWie einst in der Weihnachtsgeschichte wird er"
+    id: 5ca0fc9d0c7835b18bf9a20f66be0d7b
+  - title: Die Rückspultaste
+    description: Der Retro-Podcast. Popkultur und Persönliches von gestern, vorgestern
+      und vorvorgestern.
+    id: 61131867db59b9891d0aa1a4b16c7f8b
+  - title: 'termfrequenz: Online Marketing & SEO Podcasts'
+    description: Online Marketing Podcasts
+    id: 6aade3b095af19403c0b81a285fbd53a
+  - title: Chateau Picard – Star Trek Podcast
+    description: Ein Podcast von Pia & Florian
+    id: 850822063333e3e4c1cacf9704a249e4
+  - title: Trek am Dienstag – Der Star-Trek-Podcast
+    description: Trek am Dienstag ist der Star-Trek-Podcast mit Retro-Schlagseite.
+      Mal scharfzüngig lästernd, mal voll nerdiger Detailbesessenheit – aber immer
+      gut gelaunt, mit einer riesigen Portion Humor und
+    id: 95165947735fa591fb414ff98ba71fac
+  - title: Discovery Panel
+    description: DISCOVER STAR TREK
+    id: c2c9f78db19ebf958d4fce2e68b8603a
+  - title: Kack & Sachgeschichten
+    description: Der Podcast mit Klugschiss!
+    id: dd63a2f20607c4db45db4afb8c6cad06
+  - title: Logbuch:Netzpolitik
+    description: Der Netzpolitik-Podcast mit Linus Neumann und Tim Pritlove
+    id: dda5a3d79f20add905804fe4c5bf8a3d
+  - title: Freak Show
+    description: Menschen! Technik! Sensationen!
+    id: e4d43da789339b4a6e7ff9b1d744722d
+---

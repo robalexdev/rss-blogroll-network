@@ -12,7 +12,7 @@ params:
     https://remysharp.com/speaking/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -28,15 +28,15 @@ params:
     https://remysharp.com/: true
     https://remysharp.com/books: true
     https://remysharp.com/speaking/: true
-  last_post_title: 'git recent: what branch did I work on?'
+  last_post_title: text-decoration-thickness discrepancies
   last_post_description: |-
-    Mega short blog post, mostly for me to remember, but also might be useful to you.
-    In a project I'll often work on and move around different branches throughout the day, and as the years wear on it's
-  last_post_date: "2026-02-12T00:00:00Z"
-  last_post_link: https://remysharp.com/2026/02/12/git-recent
+    I'm in the process of (attempting) to redesign this blog, and in doing so, I'm using a few of the new bits (to me) of CSS to make things fancy.
+    In this instance, I'm using text-decoration-thickness
+  last_post_date: "2026-09-10T21:00:00Z"
+  last_post_link: https://remysharp.com/2026/09/10/text-decoration-thickness-discrepancies
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f5db779a498be8d10ec78cff1b50e44
+  last_post_guid: 49dec8c84297e3febab7ec571241d3b5
   score_criteria:
     cats: 0
     description: 3

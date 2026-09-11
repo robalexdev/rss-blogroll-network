@@ -23,15 +23,15 @@ params:
   - Music
   - Society & Culture
   relme: {}
-  last_post_title: 'Song 185: “Peaches En Regalia” by Frank Zappa'
-  last_post_description: This episode follows on from the episode on the GTOs. These
-    two make up two parts of a three-part story, and I’m hoping to have part three,
-    on Captain Beefheart, up before the end of the month
-  last_post_date: "2026-07-21T00:15:17Z"
-  last_post_link: https://500songs.com/podcast/song-185-peaches-en-regalia-by-frank-zappa/
+  last_post_title: 'Song 186: “Frownland” by Captain Beefheart and His Magic Band'
+  last_post_description: This episode is on “Frownland” by Captain Beefheart and His
+    Magic Band, and is the third part of a trilogy following the episodes on the GTOs
+    and Frank Zappa. Click the full post to read liner
+  last_post_date: "2026-09-03T10:46:07Z"
+  last_post_link: https://500songs.com/podcast/song-186-frownland-by-captain-beefheart-and-his-magic-band/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c0cf8578896e2eb02001cc60c8288ce5
+  last_post_guid: d07219fe74f4a808eeb49a793d068493
   score_criteria:
     cats: 3
     description: 3

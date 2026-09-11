@@ -10,6 +10,9 @@ params:
     https://pgaleone.eu/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Use Your Brain: Engineering Standards in the Age of LLMs'
-  last_post_description: Software development is not a niche anymore. The advent of
-    LLMs made it possible for everyone to write their own software - and this is a
-    good thing. However, I see a huge number of software
-  last_post_date: "2026-07-26T12:00:00Z"
-  last_post_link: https://pgaleone.eu/ai/2026/07/26/use-your-brain/
+  last_post_title: LLMs are making me lose my savviness
+  last_post_description: I don’t know what’s going on. I always wanted to solve problems
+    and create things, but now that I have access to a tool that’s able to speed up
+    the whole design and development process… I’m
+  last_post_date: "2026-08-29T12:00:00Z"
+  last_post_link: https://pgaleone.eu/ai/2026/08/29/losing-savviness/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b1eb9b6da870503cb68ed09e1984f53a
+  last_post_guid: 28ba980e115920a45fd5c96730de7b86
   score_criteria:
     cats: 0
     description: 3

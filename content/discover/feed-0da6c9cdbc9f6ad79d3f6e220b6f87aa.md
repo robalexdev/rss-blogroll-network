@@ -32,34 +32,32 @@ params:
   recommender:
   - https://lmika.org/feed.xml
   categories:
-  - Labor
-  - Meta
-  - Platformer Pod
+  - AI Safety
+  - Anthropic
   relme: {}
-  last_post_title: How AI agents "radicalized" a top Meta exec into quitting her job
-  last_post_description: Clara Shih on how AI will soon displace the first few rungs
-    on the career ladder — and why she left Big Tech to do something about it
-  last_post_date: "2026-08-28T00:00:14Z"
-  last_post_link: https://www.platformer.news/clara-shih-new-work-dear-cc-interview-meta-salesforce/
+  last_post_title: The AI  safety vibe shift
+  last_post_description: Once a fringe obsession of Bay Area rationalists, existential
+    risk is suddenly all anyone is talking about
+  last_post_date: "2026-09-11T01:04:25Z"
+  last_post_link: https://www.platformer.news/ai-safety-vibe-shift-coxon-anthropic/
   last_post_categories:
-  - Labor
-  - Meta
-  - Platformer Pod
+  - AI Safety
+  - Anthropic
   last_post_language: ""
-  last_post_guid: 3c6ec9b7e1745b400e407c11e6fa9f63
+  last_post_guid: f0edb4a8ffd36499143a7aac961e1ffc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2026-01-26T13:15:56+01:00"
+date: "2026-08-28T11:21:53+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -10,6 +10,9 @@ params:
     https://p4bl0.net/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,27 +22,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - librisme
-  - politique
-  - réseau
+  - blockchain
+  - podcast
+  - vidéo
   relme:
-    https://github.com/p4bl0-: true
-    https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
-    https://pablo.plus/: true
-    https://pablockchain.fr/: true
-  last_post_title: 'Consommer et produire : l''essence de la prison numérique'
-  last_post_description: 'Je reproduis ci-dessous un article intitulé “Consommer et
-    produire : l''essence de la prison numérique” que j''ai initialement soumis à
-    la revue Contretemps qui l''a fait paraître le 2 janvier.'
-  last_post_date: "2026-01-05T13:12:00+01:00"
-  last_post_link: https://p4bl0.net/post/2026/01/Consommer-et-produire-essence-prison-numerique
+  last_post_title: 'Cyber Révolution : briser les chaînes… de la blockchain !'
+  last_post_description: Je suis intervenu dans un épisode du podcast Cyber Révolution
+    d'Espaces Marx pour parler des aspects politiques de la technologie des blockchains.
+    Pour l'instant ce podcast n'est disponible que sur
+  last_post_date: "2026-06-12T13:12:00+02:00"
+  last_post_link: https://p4bl0.net/post/2026/06/Cyber-Revolution-briser-les-chaines-de-la-blockchain
   last_post_categories:
-  - librisme
-  - politique
-  - réseau
+  - blockchain
+  - podcast
+  - vidéo
   last_post_language: ""
-  last_post_guid: 965b2cfb6044ad5bbcd7996746f48879
+  last_post_guid: 4f59590d10dfd03b2a3a003578538054
   score_criteria:
     cats: 0
     description: 3

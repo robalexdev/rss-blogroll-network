@@ -1,18 +1,23 @@
 ---
 title: Frank Chimero
 date: "1970-01-01T00:00:00Z"
-description: Frank Chimero’s Personal Website
+description: Personal site of designer Frank Chimero
 params:
   feedlink: https://frankchimero.com/feed.xml
   feedtype: rss
   feedid: 6736a1b4cfe7b37dfe8a471b5feb8e7e
-  websites:
-    https://frankchimero.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: A list of sites Ethan likes
+    description: ""
+    id: 796603efcff00ba474bbbd88e566b727
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -25,8 +30,17 @@ params:
   - title: Jeffrey Inscho - Blogroll
     description: ""
     id: 2302e193996057a443a3a6d12fe1dc63
+  - title: blogrolle englischsprachige blogs
+    description: ""
+    id: 8562a0ef3be9c20980f963e66c66da1b
+  - title: blogrolle(n)
+    description: ""
+    id: 0e6688bac0e3388cb2ded610be79da60
   recommended: []
-  recommender: []
+  recommender:
+  - https://roytang.net/index.xml
+  - https://wirres.net/feed/
+  - https://wirres.net/feed/river/
   categories: []
   relme: {}
   last_post_title: Beyond the Machine Extras
@@ -50,8 +64,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 0
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

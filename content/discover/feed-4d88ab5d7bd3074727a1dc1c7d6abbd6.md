@@ -11,7 +11,10 @@ params:
   blogrolls:
   - https://frankmcpherson.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -99,15 +102,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Winning The Trade Deadline Doesn't Matter
-  last_post_description: Trades at the Major League Baseball deadline do not make
-    champions, championship teams are built during the off season and through development
-    of young players. Good teams that need one or two
-  last_post_date: "2026-08-04T14:36:33-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/08/04/winning-the-trade-deadline-doesnt.html
+  last_post_title: Extinction
+  last_post_description: We have known since August, 1945 that humanity has the power
+    and the willingness to destroy all life on earth. Humanity’s ability for this
+    destruction comes from our development of tools, all of
+  last_post_date: "2026-09-10T17:15:54-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/09/10/extinction.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8e7b933844086a3b2a9d3479a2d365a9
+  last_post_guid: d368af79440165c6b10e7daedab381c4
   score_criteria:
     cats: 0
     description: 0

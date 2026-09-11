@@ -1,6 +1,6 @@
 ---
 title: Rasmus Andersson
-date: "2025-05-26T18:01:03Z"
+date: "2026-07-26T01:38:17Z"
 description: ""
 params:
   feedlink: https://rsms.me/atom.xml
@@ -10,6 +10,9 @@ params:
     https://rsms.me/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

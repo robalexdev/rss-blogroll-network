@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RIP To My Favorite Tree in GGP
-  last_post_description: My favorite tree was cut down, but I commiserated on reddit
-    and someone hooked me up with a beautiful print.
-  last_post_date: "2026-06-16T00:00:00Z"
-  last_post_link: https://aaronstrick.com/ggp-tree-reddit
+  last_post_title: Peter, I Meant To Say This
+  last_post_description: I ran into my buddy this morning and I want to change my
+    parting words to him.
+  last_post_date: "2026-09-09T00:00:00Z"
+  last_post_link: https://aaronstrick.com/peter-finsta
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4342a9f0b09b31dbd644f021ba0d615
+  last_post_guid: d4d6c24cacf5b3fcf874b28dd7d572ae
   score_criteria:
     cats: 0
     description: 3

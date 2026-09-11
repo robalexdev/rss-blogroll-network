@@ -19,14 +19,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: kpop videos that go insanely hard
-  last_post_description: "Kpop\n  \nThis blog is my list of K-pop music videos that
-    go really hard.\n\n\n\n    \n      Now playing"
-  last_post_date: "2026-08-27T07:43:00Z"
-  last_post_link: https://sankalp.bearblog.dev/kpop-videos-that-go-insanely-hard/
+  last_post_title: songs with immaculate vibes only
+  last_post_description: ""
+  last_post_date: "2026-09-05T20:10:00Z"
+  last_post_link: https://sankalp.bearblog.dev/songs-with-immaculate-vibes-only/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 935218638f0a08f899239d4bbea172bb
+  last_post_guid: 2353143c250ef5adee31aa1d84419f0b
   score_criteria:
     cats: 0
     description: 3

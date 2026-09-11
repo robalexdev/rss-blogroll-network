@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: When to use NotImplemented
-  last_post_description: "When should you return NotImplemented from a dunder method?
-    Why not return False or raise an exception instead?\n  \n    Dunder methods return
-    NotImplemented\n    \n      \n        Integers and floating"
-  last_post_date: "2026-08-27T21:45:00Z"
-  last_post_link: https://www.pythonmorsels.com/when-to-use-notimplemented/
+  last_post_title: Creating temporary files in Python
+  last_post_description: "How to create temporary files and directories in Python
+    using the tempfile module's NamedTemporaryFile and TemporaryDirectory.\n  \n    Making
+    a temporary file\n    \n      \n        To make a temporary"
+  last_post_date: "2026-09-04T14:30:00Z"
+  last_post_link: https://www.pythonmorsels.com/temporary-files/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86ea40db0944c900b93cfb1c039d2741
+  last_post_guid: be45b6d14628934557343e8f24ad062d
   score_criteria:
     cats: 0
     description: 3

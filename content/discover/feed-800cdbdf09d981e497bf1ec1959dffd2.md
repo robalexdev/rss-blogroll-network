@@ -1,6 +1,6 @@
 ---
 title: Shock and Awe 2
-date: "2026-08-27T15:01:19-07:00"
+date: "2026-09-06T21:46:50-07:00"
 description: 'successor to Shock and Awe whose feed no longer seems to be working
   properly - original blog + archive remains here: http://shockandawesimonreynolds.blogspot.com/
   ^^^^^^^^^^^^^^^^ the blog of the'
@@ -12,7 +12,10 @@ params:
     https://shockandawesimonreynolds2.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -92,6 +95,7 @@ params:
   - BRITPOP
   - BRYAN FERRY
   - Beyoncé
+  - CAMP
   - CANADA
   - CAPITALISM UNREALISM
   - CAPTAIN BEEFHEART
@@ -187,6 +191,7 @@ params:
   - FOLK
   - FOLK ART SHOWBIZ
   - FOLK VERSUS GLAM
+  - FRANK N FUTURE
   - FRANK SINATRA
   - FRED VERMOREL
   - FUTURISTS
@@ -434,6 +439,7 @@ params:
   - REAGAN
   - REALISM
   - REFLEXIVITY
+  - RICHARD O'BRIEN
   - RINGMASTER
   - RIP
   - ROBBIE WILLIAMS
@@ -527,11 +533,13 @@ params:
   - THE LAW OF ATTRACTION
   - THE LONDON BOYS
   - THE NEXT DAY
+  - THE ROCKY HORROR PICTURE SHOW
   - THE SPECTACLE
   - THE STOOGES
   - THE SWEET
   - THE TRIANGLE
   - THEATER OF THE RIDICULOUS
+  - THEATRE
   - THEATRE KID TROPE
   - THEATRICALITY
   - THEATRICALITY AND POLITICS
@@ -620,26 +628,24 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: anti-theatricality in politics (the theatre kid trope) (the bling
-    king) (the throne of illusion)
+  last_post_title: RIP Tim Curry
   last_post_description: ""
-  last_post_date: "2026-08-27T15:01:19-07:00"
-  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/08/anti-theatricality-in-politics-theatre.html
+  last_post_date: "2026-09-02T21:09:18-07:00"
+  last_post_link: https://shockandawesimonreynolds2.blogspot.com/2026/09/rip-tim-curry.html
   last_post_categories:
-  - ANTI-THEATRICALITY AND POLITICS
-  - DICTATORSHIP
-  - Decadence
-  - GILDED AGE
-  - GLITZ
-  - GOLD
-  - LUXURY
-  - MUSICALS
-  - PATTI LUPONE
-  - SPECTACLE
-  - THEATRE KID TROPE
-  - TRUMP
+  - ANTI-THEATRICALITY
+  - CAMP
+  - FRANK N FUTURE
+  - REALISM
+  - RICHARD O'BRIEN
+  - RIP
+  - ROCK FOLLIES
+  - STEVIE STREETER
+  - THE ROCKY HORROR PICTURE SHOW
+  - THEATRE
+  - TIM CURRY
   last_post_language: ""
-  last_post_guid: 6ff0f06b86f9b9699f852eecb85b4ac7
+  last_post_guid: b9c8825bff2f4145e439982c5c0f8a9a
   score_criteria:
     cats: 5
     description: 3

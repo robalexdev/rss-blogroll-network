@@ -11,6 +11,9 @@ params:
     https://numericcitizen.me/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,39 +23,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Quick Reads
-  - Read Later
-  - Reading
-  - Workflow
-  - review
+  - Ephemeral Scrapbook
   relme: {}
-  last_post_title: On Integrating Quick Reads Into My Digital Ecosystem
-  last_post_description: Quick Reads is a read-it-later service built by one person
-    who made the app he wished existed. What makes it worth writing about isn't what
-    it does; it's how it connects openly to the rest of my
-  last_post_date: "2026-08-23T13:40:17Z"
-  last_post_link: https://numericcitizen.me/on-integrating-quick-reads-into-my-digital-ecosystem/
+  last_post_title: The Ephemeral Scrapbook — 2026.08.30
+  last_post_description: The header image is a teaser of a new experiment with a new
+    photo-sharing service. And a bit of Apple and AI ranting.
+  last_post_date: "2026-08-31T02:09:19Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-08-30/
   last_post_categories:
-  - Quick Reads
-  - Read Later
-  - Reading
-  - Workflow
-  - review
+  - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: 7de965f07213f7cc54746fe4bbbc47d0
+  last_post_guid: f1f90b208e7b2888425338d1d70dc989
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

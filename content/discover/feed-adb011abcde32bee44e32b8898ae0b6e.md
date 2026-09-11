@@ -1,6 +1,6 @@
 ---
 title: Pydong
-date: "2026-05-12T16:44:11+02:00"
+date: "2026-08-29T06:37:01+02:00"
 description: A blog about interesting things you can do in Python, C++ and other languages.
 params:
   feedlink: https://pydong.org/feed.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -24,7 +27,7 @@ params:
   last_post_description: Several years back I found an interesting question on Reddit.
     Essentially the author asks why there is no way to expand a pack into a sequence
     of case labels followed by a statement. It was
-  last_post_date: "2025-05-13T06:22:29+02:00"
+  last_post_date: "2026-08-29T06:36:39+02:00"
   last_post_link: https://pydong.org/posts/variadic-switch/
   last_post_categories:
   - C++

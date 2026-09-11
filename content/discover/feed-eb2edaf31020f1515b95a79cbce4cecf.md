@@ -1,15 +1,18 @@
 ---
 title: Popcar's Blog
-date: "2026-03-05T08:15:53Z"
+date: "2026-09-11T09:34:42Z"
 description: Popcar's blog on tech and gamedev!
 params:
   feedlink: https://popcar.bearblog.dev/feed/
   feedtype: atom
   feedid: eb2edaf31020f1515b95a79cbce4cecf
   websites:
-    https://popcar.bearblog.dev/: false
+    https://popcar.bearblog.dev/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -19,32 +22,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - guide
+  - gaming
+  - opinion
   - tech
   relme: {}
-  last_post_title: How to Set Up Linux Gaming on an NTFS Drive
-  last_post_description: Despite popular belief, you can run games off an NTFS drive
-    - as long as you've set it up properly and are willing to take a risk.
-  last_post_date: "2025-11-06T21:41:11Z"
-  last_post_link: https://popcar.bearblog.dev/how-to-set-up-linux-gaming-on-an-ntfs-drive/
+  last_post_title: It's not about physical vs digital games, it's about ownership
+  last_post_description: PlayStation announced that they will stop making discs. People
+    are rightfully mad about this, but it's not actually about physical media. It's
+    about owning your games.
+  last_post_date: "2026-07-07T10:50:57Z"
+  last_post_link: https://popcar.bearblog.dev/its-about-ownership/
   last_post_categories:
-  - guide
+  - gaming
+  - opinion
   - tech
   last_post_language: ""
-  last_post_guid: b55041fb750f207b2e11ccb9748b952b
+  last_post_guid: 1e26474a545568be1f0f7da587fffc8e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 20
+    website: 2
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

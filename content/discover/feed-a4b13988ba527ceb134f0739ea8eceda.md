@@ -1,38 +1,50 @@
 ---
 title: Liss is More
-date: "2025-07-25T02:31:38Z"
+date: "2026-09-11T15:16:44Z"
 description: Posts to Liss is More
 params:
   feedlink: https://www.caseyliss.com/rss
   feedtype: rss
   feedid: a4b13988ba527ceb134f0739ea8eceda
   websites:
+    https://caseyliss.com/: false
     https://www.caseyliss.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Following
+    description: ""
+    id: 3ab37f775eca10153e3c7a600b2fbe77
+  - title: Watts Martin's Blogroll
+    description: ""
+    id: 42f68713311ee4050d68c34cae1602ea
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Leon Mika - Blogroll
     description: ""
     id: 833a660b960ed1b9aee9740f9df08e00
   recommended: []
   recommender:
   - https://lmika.org/feed.xml
-  - https://lmika.org/podcast.xml
   categories: []
   relme:
     https://github.com/cliss: true
     https://mastodon.social/@caseyliss: true
     https://mastodon.social/@caseylisscom: true
     https://www.caseyliss.com/: true
-  last_post_title: 'Appearance: The Incomparable 775'
+  last_post_title: Sending Files Securely but Quickly
   last_post_description: |-
-    In the final (?) edition of our three-part Summer of Subs miniseries, I joined
-    the panel on The Incomparable to discuss the three-and-a-half-hour epic submarine
-    film, Das Boot. Somehow, despite
-  last_post_date: "2025-07-22T13:30:00Z"
-  last_post_link: https://www.theincomparable.com/theincomparable/775/
+    Since I’m, well, me, I often find that I want to send multi-gigabyte files to
+    others. I want to do this quickly, but also securely. About eleventy years ago,
+    I got a deal on a lifetime Droplr
+  last_post_date: "2026-09-01T16:15:00Z"
+  last_post_link: https://www.caseyliss.com/2026/9/1/sending-files-securely-but-quickly
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 049c50ccf073dc5a31c5f48ee16e8af7
+  last_post_guid: 7eef5b71740acf62533d9d3f7658ab05
   score_criteria:
     cats: 0
     description: 3

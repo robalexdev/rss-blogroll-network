@@ -10,6 +10,9 @@ params:
     https://adventures.michaelfbryan.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -17,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Obsidian Tricks: Daily Notes'
-  last_post_description: 'If you’re new to Personal Knowledge Management, let me share
-    something that took me years to fully appreciate: daily notes are the secret sauce
-    that transforms a collection of random notes into a'
-  last_post_date: "2025-07-28T12:00:00+08:00"
-  last_post_link: https://adventures.michaelfbryan.com/posts/obsidian-tricks/daily-notes/
+  last_post_title: Run Your Code Generator as a Test
+  last_post_description: At some point in a project’s life, somebody runs a code generator.
+    Maybe they point a client generator at an OpenAPI document, or feed a .proto file
+    to protoc, or write a small script that turns a
+  last_post_date: "2026-08-23T22:05:47+08:00"
+  last_post_link: https://adventures.michaelfbryan.com/posts/run-your-code-generator-as-a-test/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f958a52ec5032483e6b81a43da59ad81
+  last_post_guid: f269c84062fd1974fb25aa569b84f6e3
   score_criteria:
     cats: 0
     description: 3
@@ -43,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 47
+  postcount: 50
   avgpostlen: 0
 ---

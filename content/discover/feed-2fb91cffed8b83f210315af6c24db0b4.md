@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: DuckDB and the changing physics of analytics
-  last_post_description: In this post, Andy Warfield explains how databases like DuckDB
-    are enabling a new way to build with data, why they matter right now, and how
-    they complement the work we’ve been doing in S3 (e.g.,
-  last_post_date: "2026-08-26T06:00:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: The oldest architecture in computing
+  last_post_description: A GPU burns 700 watts and hundreds of thousands of tries
+    to learn Pong. A human brain does it on 20 watts in a handful of attempts. So
+    what can the oldest architecture in computing teach us about
+  last_post_date: "2026-09-08T06:00:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2026/09/the-oldest-architecture-in-computing.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 070bab68a2820155e8511bff012403df
+  last_post_guid: 845498ec406b4ee1bbcd9f769c5a72c1
   score_criteria:
     cats: 0
     description: 3

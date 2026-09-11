@@ -1,6 +1,6 @@
 ---
 title: Kia Kamgar
-date: "2026-08-16T06:45:41Z"
+date: "2026-08-31T08:01:27Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -10,6 +10,9 @@ params:
     https://kiakamgar.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -22,17 +25,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - photo
+  - monday muse
   relme:
     https://kiakamgar.com/: true
-  last_post_title: Dark sky
-  last_post_description: ""
-  last_post_date: "2026-08-16T06:52:04Z"
-  last_post_link: https://kiakamgar.com/posts/dark-sky
+  last_post_title: How to spot an online guru video
+  last_post_description: Why the absolute FUCK does every FUCKING editor or 'content
+    creator' feel the FUCKING need to start their videos with a FUCKING zoom effect?!
+    STOP THAT SHIT YOU CUNTS!! You...
+  last_post_date: "2026-08-31T08:03:18Z"
+  last_post_link: https://kiakamgar.com/posts/how-to-spot-an-online-guru-video
   last_post_categories:
-  - photo
+  - monday muse
   last_post_language: ""
-  last_post_guid: 34300543797c3bc80b0ac884c2c6db93
+  last_post_guid: 17796930c36052568a409716f73c66d6
   score_criteria:
     cats: 0
     description: 0

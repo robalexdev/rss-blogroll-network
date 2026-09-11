@@ -1,6 +1,6 @@
 ---
 title: a flophouse is not a home
-date: "2026-07-08T08:49:40-07:00"
+date: "2026-09-07T08:51:44-07:00"
 description: ""
 params:
   feedlink: https://flophouse777.blogspot.com/feeds/posts/default
@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://flophouse777.blogspot.com/: true
-  last_post_title: '"The Benighted Hearth"'
+  last_post_title: '"Tosspots"'
   last_post_description: ""
-  last_post_date: "2026-07-08T08:49:40-07:00"
-  last_post_link: https://flophouse777.blogspot.com/2026/07/the-benighted-hearth.html
+  last_post_date: "2026-09-02T07:31:55-07:00"
+  last_post_link: https://flophouse777.blogspot.com/2026/09/tosspots.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4e29b596a278e80904c3563bbf223751
+  last_post_guid: d56d3b55cd7afff9ff0f6a2479a32e0c
   score_criteria:
     cats: 0
     description: 0

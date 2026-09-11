@@ -20,18 +20,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Education
   relme: {}
-  last_post_title: Democrats aim to emulate Republicans in building state power
-  last_post_description: Progressive activist Gaby Goldstein thinks her opponents
-    are brilliant. Despite her deeply held liberal politics, she admires the work
-    of conservative groups that for decades have built influence in
-  last_post_date: "2026-08-28T17:00:05Z"
-  last_post_link: https://missouriindependent.com/2026/08/28/repub/democrats-aim-to-emulate-republicans-in-building-state-power/
+  last_post_title: Schools, libraries sound alarm over potential changes to federal
+    internet program
+  last_post_description: A multi-billion-dollar federal program that helps schools
+    and libraries afford broadband internet is under review by the Trump administration,
+    leaving education officials and advocates worried about
+  last_post_date: "2026-09-11T15:00:46Z"
+  last_post_link: https://missouriindependent.com/2026/09/11/repub/schools-libraries-sound-alarm-over-potential-changes-to-federal-internet-program/
   last_post_categories:
-  - Uncategorized
+  - Education
   last_post_language: ""
-  last_post_guid: d403a33bcba3a34ed918d70302d55293
+  last_post_guid: 09b3ed7e00cb7517f281df454ab0b352
   score_criteria:
     cats: 0
     description: 3

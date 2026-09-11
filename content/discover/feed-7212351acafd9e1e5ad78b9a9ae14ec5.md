@@ -9,7 +9,10 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -22,15 +25,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Custom-for-1 software
-  last_post_description: CodeMine https://blog.codemine.be/posts/2026/20260610-custom-software/
-    -Using LLMs for vibe agentic coding teaches you some things. For example, building
-    working prototypes doesn’t require you to
-  last_post_date: "2026-06-28T00:00:00Z"
-  last_post_link: https://blog.codemine.be/posts/2026/20260610-custom-software/
+  last_post_title: Reviving dead things is easy now
+  last_post_description: CodeMine https://blog.codemine.be/posts/2026/20260903-reviving-dead-things-is-easy-now/
+    -I recently came across this blogpost where someone ported their old Amiga game
+    to the recent Godot Engine
+  last_post_date: "2026-09-03T00:00:00Z"
+  last_post_link: https://blog.codemine.be/posts/2026/20260903-reviving-dead-things-is-easy-now/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9212ce281fab7cc6109b9e3bb93bf868
+  last_post_guid: 35163937eb620daf18a68d8d44e4a6a8
   score_criteria:
     cats: 0
     description: 3

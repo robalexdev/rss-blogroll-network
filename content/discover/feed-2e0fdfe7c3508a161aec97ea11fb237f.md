@@ -8,6 +8,7 @@ params:
   feedtype: rss
   feedid: 2e0fdfe7c3508a161aec97ea11fb237f
   websites:
+    http://dylanbeattie.net/blog/: false
     https://dylanbeattie.net/blog/: false
   blogrolls: []
   in_blogrolls:

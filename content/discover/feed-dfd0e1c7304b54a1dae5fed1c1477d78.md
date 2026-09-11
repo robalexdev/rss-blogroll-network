@@ -29,6 +29,7 @@ params:
   - https://www.markpitblado.me/feed.xml
   - https://82mhz.net/linkdumps.xml
   - https://andreinc.net/feed.xml
+  - https://www.lkhrs.com/blog/rss/
   recommender: []
   categories: []
   relme:

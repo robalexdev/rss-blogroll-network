@@ -10,9 +10,15 @@ params:
     https://zeldman.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
   - title: Engineering Blogs
     description: ""
     id: 317142854d8813fd4e5e51d1a364b681
@@ -33,31 +39,65 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Blogrolle by Matthias Pfefferle
+    description: ""
+    id: 464155480e592e37a73fd8ed85cdd145
   - title: Engineering Blogs
     description: ""
     id: 26cb52e32caff9995ee1efaeda73638c
   recommended: []
-  recommender: []
+  recommender:
+  - https://chrisburnell.com/feed.xml
+  - https://notiz.blog/comments/feed/
+  - https://notiz.blog/feed/
+  - https://notiz.blog/type/aside/feed/
+  - https://notiz.blog/type/audio/feed/
+  - https://notiz.blog/type/chat/feed/
+  - https://notiz.blog/type/gallery/feed/
+  - https://notiz.blog/type/image/feed/
+  - https://notiz.blog/type/link/feed/
+  - https://notiz.blog/type/quote/feed/
+  - https://notiz.blog/type/standard/feed/
+  - https://notiz.blog/type/status/feed/
+  - https://notiz.blog/type/video/feed/
   categories:
-  - My Glamorous Life
-  - Snow White
-  - cats
-  - glamorous
+  - AI
+  - Appearances
+  - Best practices
+  - Design
+  - Designers
+  - Formats
+  - Standards
+  - UX
+  - Web Standards
+  - architecture
+  - ethics
+  - video
+  - webstandards
   relme:
     https://zeldman.com/: true
-  last_post_title: Her Glamorous Life
-  last_post_description: Snow White—17 years old—didn’t come meowing for food when
-    I entered the kitchen at 6 a.m. An hour later I found her lying motionless on
-    the sofa. I stared until she moved, slightly, nestling
-  last_post_date: "2026-08-24T11:15:39Z"
-  last_post_link: https://zeldman.com/2026/08/24/her-glamorous-life/
+  last_post_title: AI, Disruption, and Standards
+  last_post_description: Individually, we have very little power, but together we
+    have a great deal of power. In response to a series of Medium articles by Patrick
+    Neeman—like this one that addressed issues of AI
+  last_post_date: "2026-09-10T16:12:17Z"
+  last_post_link: https://zeldman.com/2026/09/10/ai-disruption-and-standards/
   last_post_categories:
-  - My Glamorous Life
-  - Snow White
-  - cats
-  - glamorous
+  - AI
+  - Appearances
+  - Best practices
+  - Design
+  - Designers
+  - Formats
+  - Standards
+  - UX
+  - Web Standards
+  - architecture
+  - ethics
+  - video
+  - webstandards
   last_post_language: ""
-  last_post_guid: 064c19df7c125645d8df97af84a6f9e1
+  last_post_guid: cd39a0681fed819abdeb367d899dbfa3
   score_criteria:
     cats: 0
     description: 3

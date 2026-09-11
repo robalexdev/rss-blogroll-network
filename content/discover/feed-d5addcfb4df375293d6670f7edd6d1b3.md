@@ -1,6 +1,6 @@
 ---
 title: Ian Cooper - Staccato Signals
-date: "2026-08-28T19:12:38Z"
+date: "2026-09-11T13:55:42Z"
 description: These are the days of miracle and wonder
 params:
   feedlink: https://ian-cooper.writeas.com/feed/
@@ -11,7 +11,10 @@ params:
     https://ian-cooper.writeas.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

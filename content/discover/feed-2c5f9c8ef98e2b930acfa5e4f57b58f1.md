@@ -10,7 +10,10 @@ params:
     https://www.jeffgeerling.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -44,15 +47,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: Building a mini Homelab that fits in my carry-on
-  last_post_description: I'm traveling to Chicago for VCF Midwest next month. I'll
-    be demoing NTP time history on vintage Macs, with my own GPS-derived NTP service
-    hosted on an Xserve G5, synced via NTP or a strange
-  last_post_date: "2026-08-28T10:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/
+  last_post_title: OpenNMC is an open replacement for expensive APC management cards
+  last_post_description: UPSes are typically the most boring part of your homelab,
+    but they're important. One of their main jobs is to give servers time to shut
+    down safely if the power goes out. Another job is to condition
+  last_post_date: "2026-09-08T11:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5247d0d6ed41c914c13a09d739e2f7f5
+  last_post_guid: 766ceb3086ea8af4c3bd9dc9b1df3052
   score_criteria:
     cats: 0
     description: 3

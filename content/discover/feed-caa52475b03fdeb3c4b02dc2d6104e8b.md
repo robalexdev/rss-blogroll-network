@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-08-28T10:49:11-04:00"
+date: "2026-09-11T09:10:44-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -10,6 +10,9 @@ params:
     https://shellsharks.com/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Ryan M. - Blogroll
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee

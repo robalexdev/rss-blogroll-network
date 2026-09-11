@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2026-08-22T22:13:40Z"
+date: "2026-09-06T13:55:30Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -21,7 +21,7 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '["personal", "art"]'
+  - '["web", "personal"]'
   relme:
     https://bulltown.joejenett.com/: true
     https://bulltown.neocities.org/: true
@@ -39,14 +39,16 @@ params:
     https://toot.community/@jenett: true
     https://toot.community/@jenett2: true
     https://wiki.joejenett.com/: true
-  last_post_title: art cleanup (2 and 3)
-  last_post_description: ""
-  last_post_date: "2026-04-27T12:00:40Z"
-  last_post_link: https://simply.joejenett.com/art-cleanup-2-and-3/
+  last_post_title: too much time on my hands
+  last_post_description: '(09/06/26, 7:04 AM: written in the throes of an extended
+    internet outage) When you live on the web and the connection stops, watch out!
+    The daily challenges keeping your mind fit suddenly disappear'
+  last_post_date: "2026-09-06T13:41:59Z"
+  last_post_link: https://simply.joejenett.com/too-much-time-on-my-hands/
   last_post_categories:
-  - '["personal", "art"]'
+  - '["web", "personal"]'
   last_post_language: ""
-  last_post_guid: 88713bba9c38bf5e690b9b021fb2758e
+  last_post_guid: 7a5c87b6e653fe0eda7acd0356d5b0d6
   score_criteria:
     cats: 0
     description: 3

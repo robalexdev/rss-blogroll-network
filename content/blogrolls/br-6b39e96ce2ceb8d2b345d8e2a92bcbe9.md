@@ -12,6 +12,10 @@ params:
   - title: Ars Technica - All content
     description: All Ars Technica stories
     id: 3eb333a179a7c3abc342013e1091d18b
+  - title: Techmeme
+    description: Top news and commentary for technology's leaders, from all around
+      the web
+    id: 8449acad376c5da243bdb394b248d9a7
   - title: Hacker News
     description: Links for the intellectually curious, ranked by readers.
     id: adb7ca764a42bad01a0ccae2df09c2fa

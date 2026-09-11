@@ -32,10 +32,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The OG Creator of Task Manager on Windows Built a New Task Manager
+  last_post_title: Matt Mullenweg tells Automattic staff in Slack he's back in control
+    after ouster
   last_post_description: Comments
-  last_post_date: "2026-08-28T19:35:18Z"
-  last_post_link: https://tmog.org
+  last_post_date: "2026-09-11T15:29:35Z"
+  last_post_link: https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

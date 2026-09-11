@@ -1,0 +1,1541 @@
+---
+title: Found Objects
+date: "2026-09-07T01:54:26+01:00"
+description: Hauntological dumping ground.
+params:
+  feedlink: https://f0und0bjects.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: c4f0209e3a962f705bcda6cbb493ca9b
+  websites:
+    https://f0und0bjects.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  recommended: []
+  recommender: []
+  categories:
+  - '"double exposure"'
+  - '"mancunian way"'
+  - '"train set"'
+  - '#doodle #collage #dailydoodle #sketchbook #found #papers #glue #drivel #shed
+    #etc.'
+  - '''zine'
+  - 1920s
+  - "1923"
+  - 1930s
+  - "1938"
+  - 1940s
+  - "1947"
+  - "1950"
+  - 1950's
+  - 1950s
+  - "1951"
+  - "1954"
+  - "1958"
+  - "1960"
+  - 1960's
+  - 1960s
+  - "1961"
+  - "1962"
+  - "1965"
+  - "1966"
+  - "1967"
+  - "1968"
+  - "1969"
+  - "1970"
+  - 1970 1974
+  - 1970's
+  - 1970S GRAPHIC DESIGN
+  - 1970s
+  - "1971"
+  - "1972"
+  - "1973"
+  - "1975"
+  - "1976"
+  - "1977"
+  - "1978"
+  - "1979"
+  - 1980s
+  - "1981"
+  - "1982"
+  - "1986"
+  - "1987"
+  - 1990s
+  - "1993"
+  - "1996"
+  - 19th Century
+  - "2010"
+  - "2019"
+  - "2020"
+  - 20th july
+  - 40s
+  - 45RPM
+  - 45p
+  - 5 legged Stag
+  - 50 years
+  - 50's
+  - 50's 60's
+  - 50s
+  - 60's
+  - 60s
+  - 7 inch record
+  - 7"
+  - 7" singles
+  - 70s
+  - 80's
+  - 80s
+  - 90's
+  - 90s
+  - A1
+  - A31
+  - ACADEMIA
+  - ACCENTS
+  - AI HAUNTOLOGY
+  - ALBUM ARTWORK
+  - ARTS IN SOCIETY
+  - AVANT-GARDE MUSIC
+  - AVANT-GOD
+  - Aberdeen
+  - Ace of Wands
+  - Actionman
+  - Alain Delon
+  - Alan Garner
+  - Alan Gubby
+  - Alchemy
+  - Aldermaston
+  - Alfred Burke
+  - Alfriston Church
+  - Amiga
+  - Ann Arbor
+  - Apollo
+  - Argentina
+  - Australia
+  - Avebury
+  - Aztec gods
+  - B picture
+  - B&W
+  - B.C.S.A.
+  - BBC
+  - BBC Ghost Story for Christmas
+  - BBC RECORDS
+  - BBC Radio Tees
+  - BCSA
+  - BFI
+  - BOB APPLEYARD
+  - BOB APPLEYARDM GEORGE BUTTERWORTH
+  - BOOKSHOPS
+  - BRIAN ENO
+  - BRITISH FOLK
+  - BRITISH REGIONAL ACCENTS
+  - Basic Design Slides
+  - Bedham Church
+  - Beezer
+  - Beginner Books
+  - Belbury Poly
+  - Belmont
+  - Bibliothèque de Travail
+  - Biddy Baxter
+  - Bird Watching
+  - Bird recognition
+  - Birmingham
+  - Blast - Off
+  - Blue Peter
+  - Bob Fischer
+  - Bob Fisher
+  - Bob Sharples
+  - Brading
+  - Brian Aldiss
+  - Brian Hodgson
+  - Brigitte Bardot
+  - Bristol
+  - British
+  - British Folk Customs
+  - Broken Britain Cassettes
+  - Brussels
+  - Buddhism
+  - Bulgaria
+  - Buried Treasure Records
+  - Burnt Offerings
+  - BurryMan
+  - Buttons
+  - C astles in Space
+  - CB Radio
+  - CD
+  - CECIL SHARP
+  - CLASSICAL EYE CANDY
+  - CONFESSIONS FILMS
+  - CONTACT
+  - Caldey Island
+  - California
+  - Camelot
+  - Camlann
+  - Candy and Andy
+  - Cardiacs
+  - Carl Orff
+  - Carousel
+  - Castle Sound Effects EP
+  - Castles Records
+  - Castles in Space
+  - Channel 4
+  - Charborough House
+  - Charles Baudelaire
+  - Charles McKean
+  - Children's book
+  - Childrens TV
+  - Chockablock
+  - Chris Fairclough
+  - Chris Lambert
+  - Christina Hole
+  - Christine Sandeman
+  - Clarence Daniel
+  - Clarks Wayfiners Moonshot
+  - Clash
+  - Claude Friese Greene
+  - Clay Pipe
+  - Cleveland Ohio
+  - Cobblestones Cottages & Castles
+  - Cold War
+  - Coldwar
+  - Colin Morrison
+  - Colourmatch
+  - Columbia Records
+  - Commodore
+  - Commons
+  - Concretism
+  - Cornwall
+  - Crown
+  - Cycle Trails
+  - DAILY MIRROR
+  - DIAL-A-DISC
+  - DIALECTS
+  - DISCLINE
+  - DIY
+  - DJ Food
+  - Dalesman books
+  - Dandy
+  - Dario Argento
+  - Darryl Hutton
+  - David Essex
+  - David Hemmings
+  - David Youg
+  - Dead of Night
+  - Decorations
+  - Deleware Road
+  - Derbyshire
+  - Derwent Tower
+  - Design
+  - Devil Movies
+  - Devo
+  - Devon
+  - Dion Fortune
+  - Doll Dolly
+  - Dolly Dolly
+  - Don Lawrence
+  - Donald Ackerman
+  - Donald Pleasence
+  - Dorothy Edwards
+  - Dorset
+  - Douglas E Powell
+  - Dozmary Pool
+  - Dr Who
+  - Drax Estate
+  - Drone
+  - Dulux
+  - Durham
+  - ECCLESIASTICAL MODERNISM
+  - EDWARD DE BONO
+  - ENGLISH WITH A DIALECT
+  - ESP
+  - EXPERIMENTAL MUSIC
+  - EXPERIMENTAL THEATRE
+  - Edgar Allan Poe
+  - Edward Chitham
+  - Electronic Sound Magazine
+  - Electronic music
+  - Elisabeth Sladen
+  - Encyclopedia
+  - Enfield
+  - Eric Ravilious
+  - Europe
+  - Eye of the Devil
+  - Eyeball cards
+  - F C Judd
+  - FANFARE
+  - FAWLEY REFINERY
+  - FC Judd
+  - FLINTLOCK
+  - FOLK MUSIC
+  - FONTANA PAPERBACKS
+  - FRINGE THEATRE
+  - Fairy Tales
+  - Fantasy
+  - Fay Weldon
+  - Fedrico Fellini
+  - Festival of Britain
+  - Festive Lights
+  - Field Hedgerows
+  - Film Monthly
+  - Focal Point Educational Filmstrip
+  - Folk Customs
+  - Folk Horror
+  - Folklore
+  - Folklore Society
+  - Folktronic
+  - Forteen Times
+  - Found photographs
+  - Four Corners Books
+  - Four Square
+  - Francis Wallace
+  - Frank Marker
+  - Fraser Range
+  - Fredric Hobbs
+  - Fritz Genschow
+  - GPO
+  - Galaksija
+  - Garland day
+  - Geg Palmer
+  - Geiger Counter
+  - Gen X
+  - Geraldine Rachel Hardy
+  - Gerry Anderson
+  - Ghostbox Records
+  - Ghosts
+  - Gillian Hills
+  - Glastonbury
+  - Granada
+  - Granada TV
+  - Gus Honeybun
+  - HEMEL HEMPSTEAD
+  - HMS Seasprite
+  - HOLLIS-SCHWARTZ
+  - HOMEBUILT INSTRUMENTS
+  - Harold Baim
+  - Haunted England
+  - Hauntology
+  - Hawick
+  - Haxy on Humberside
+  - Hays Wharf
+  - Headline Decca
+  - Heaths
+  - Heinrich Hoffman
+  - Highdown test site
+  - His Masters Voice
+  - Holland
+  - Horn Dance
+  - Howlround
+  - Hygena
+  - IBM
+  - INSTRUCTIONAL TELEVISION
+  - IOW
+  - ITV
+  - Ian Helliwell
+  - Imperial Leather
+  - Isle of Man
+  - Isle of Wight
+  - Italy
+  - J.B.Priestley
+  - J.G. Ballard
+  - JEO
+  - JOSEPH TAYLOR
+  - JUNE TABOR
+  - Jan Carew
+  - Jane Fonda
+  - Jet Packs
+  - Jim Jupp
+  - Jim Jupp Ghostbox
+  - Joan Aiken
+  - John Baker
+  - John Foxx
+  - John Noakes
+  - John O'Groats
+  - Jon Pertwee
+  - Jonathan Cape
+  - Julian House
+  - Justin Hopper
+  - KEITH WATERHOUSE
+  - KEN RUSSELL
+  - Kaj Himmelstrup
+  - Karen Black
+  - Kate Binchy
+  - Kathleen Eyre
+  - Katy Manning
+  - Kelvedon Hatch Bunker
+  - Kensington
+  - Kids TV
+  - King Arthur
+  - Knockouts
+  - Kurt Rowland
+  - LABOUR
+  - LATERAL THINKING
+  - Ladybird
+  - Lancashire
+  - Lands End
+  - Lee Ames
+  - Loch Lomond
+  - London
+  - Longman
+  - Look and Learn
+  - Look and Read
+  - Looking and Seeing
+  - Louis Malle
+  - MASTURBATION
+  - MERCIER CATHOLIC RECORD CLUB
+  - MERO
+  - MIKE LEIGH
+  - MMU
+  - MODERNIST CHURCHES
+  - MUSIC ROOM
+  - Madelon Vriesendorp
+  - Major Matt Mason
+  - Malcolm Leigh
+  - Marshall Cavendish
+  - Martha and Charles Shapp
+  - Mass Destruction
+  - Matchboxes
+  - Math Son of Mathonwy
+  - Mauricio Kagel
+  - Max Bygraves
+  - Maxine Gordon
+  - Mechanix Illustrated
+  - Meon Valley Railway
+  - Meon Valley Trail
+  - Mercury Capsule
+  - Michael Holden
+  - Michigan
+  - Mieczyslaw Waskowski
+  - Mike Butterworth
+  - Mike Ellis
+  - Milton Cohen
+  - Mind Alive
+  - Minehead
+  - Mitzengerstein
+  - Modern Movement
+  - Molly Cox
+  - Movies
+  - Mr Stabs
+  - Music for Children
+  - Mysterious Britain
+  - NEW SOCIETY
+  - NKT Records
+  - NOSTALGIA
+  - Needles Headland
+  - New English Library
+  - New York
+  - Nikola Mihov
+  - Nikolai Lutohin
+  - Nina Conti
+  - Noah Doely
+  - Nokuit
+  - Nuclear Weapons
+  - ONCE Group
+  - ORTF
+  - OU
+  - Odinism
+  - Old Twelve night
+  - Olli Reed
+  - Oroglas
+  - Osborn Smith
+  - Ossian Brown
+  - Owen Lunder Partnership
+  - Owl Service
+  - PALADIN
+  - PANTHER BOOKS
+  - PANTHER MODERN SOCIETY
+  - PERCY GRAINGER
+  - PICADOR
+  - PLAY FOR TODAY
+  - POP MUSIC
+  - PUNKETTES
+  - Padstow
+  - Panther
+  - Parka
+  - Partial Objects
+  - Pattern Under the Plough
+  - Pattern and Shape
+  - Paul Ciani
+  - Paul Jones
+  - Paul Mount
+  - Pelican Books
+  - Penguin
+  - Penguin books
+  - Peter Bowles
+  - Peter Fonda
+  - Peter Laurie
+  - Peter Naylor
+  - Peter Purvis
+  - Peter Redgrove
+  - Peter Sykes
+  - Peter Warner
+  - Peterlee
+  - Philip O'Connor
+  - Photoplay
+  - Pifco
+  - Pinball
+  - Pink Floyd
+  - Play School
+  - Portsmouth
+  - Post War
+  - Postman Pat
+  - Practical Electronica
+  - Project Club
+  - Project Sword Triang Space X
+  - Public Eye
+  - Public Library Buildings
+  - Puffin
+  - Punk
+  - Pushing the Envelope
+  - Pye Corner Audio
+  - QUATERMASS
+  - Quota Quickies
+  - R.I.P.
+  - RADICAL THEATRE
+  - RALPH LUNDSTEN
+  - RAY GOSLING
+  - RECORD COVERS
+  - REGIONAL IDENTITY
+  - RELIGIOUS PAMPHLETS
+  - REVIVALISM
+  - RIP
+  - ROBIN ASKWITH
+  - Radio Times
+  - Radiograms
+  - Radiophonic
+  - Radiophonic Workshop
+  - Radiophonics
+  - Railways
+  - Recorded Tuition Ltd
+  - Redditch
+  - Redheads
+  - Retro Lighting
+  - Richard Carpenter
+  - Rob Young
+  - Robert Aickman
+  - Robert Eardley
+  - Robert Lloyd
+  - Robin the Fog
+  - Roger Vadim
+  - Roman Polanski
+  - Rosalind Heywood
+  - Roscoe Howells
+  - Ruins
+  - Russian illustrators
+  - SCARFOLK BEFORE SCARFOLK
+  - SCARY ADVERTISEMENTS
+  - SEX MANIACS
+  - SEXUAL EDUCATION
+  - SIR BOBBY CHARLTON
+  - SOCIAL COMMENT
+  - SOME BRITISH ACCENTS AND DIALECTS
+  - SOUNDS MAGAZINE
+  - SPINNERS
+  - STEELEYE SPAN
+  - SWEDISH ELECTRONIC MUSIC
+  - SYNTHESISERS
+  - Sainsburys
+  - Satan
+  - Scamp
+  - School Music
+  - Science
+  - Scott Walker
+  - Scottish Aviation
+  - Sea Devils
+  - Sealink
+  - Sex Pistols
+  - Shadows
+  - Shapes
+  - Sharon Kraus
+  - Shire books
+  - Sight and Sound
+  - Slides
+  - Snorkel Coat
+  - Solent Sea Forts
+  - Somerset
+  - Something Wicked this way comes
+  - Soul Cakers
+  - Soundcarriers
+  - South Bank
+  - Space Capsule
+  - 'Space: 1999'
+  - Speakers
+  - Spirits of the Dead
+  - Star Books
+  - Stigma
+  - Stranglers
+  - Struwwelpeter
+  - Summerland
+  - Supernatural
+  - Superstition
+  - Susan Cooper
+  - Swedish
+  - Sylvia Engdahl
+  - THE ARTS LAB
+  - THE COMB-OVER
+  - THE CORBYN CLASS
+  - THE ENGLISH FOLK SONG
+  - THE MIDDLE CLASS
+  - THE MUSICALITY OF SPEECH
+  - THE NEW POLYOCRATS
+  - THE PERMISSIVE SOCIETY
+  - THE POLYOCRACY
+  - THE SEVENTIES
+  - THESPS
+  - TITLE SEQUENCES
+  - TK Maxx
+  - TRADITIONAL MUSIC
+  - TSW
+  - TV
+  - TV THEMES
+  - TV listings
+  - Tales from the Black Meadow
+  - Tape Recorders
+  - Tape Recording for Everyone
+  - Tar Barrel Parade
+  - Technology
+  - Ted Hughes
+  - Telly Savalas
+  - Tenby
+  - Terence Stamp
+  - Thames TV
+  - The Committee
+  - The Cramps
+  - The Crooked Circle
+  - The Deamons
+  - The Deleware Road
+  - The Haunted Generation
+  - The Ministry of War
+  - The Open Road
+  - The Shapes we Need
+  - The Soulless Party
+  - The Stone of Gronw
+  - The Sweeney
+  - The Trigan Empire
+  - The Yardbirds
+  - This Country
+  - Threads
+  - Tintagel
+  - Tooting
+  - Topper
+  - Tottenham Ayatollah
+  - Traditions
+  - Tristram & Iseult
+  - True Detective
+  - Trunk Records
+  - Turin
+  - VANISHING FOLKWAYS
+  - VENEREAL DISEASE
+  - Valerie Singleton
+  - Vent Haven
+  - Victor C Lewis
+  - Victor Pasmore
+  - Victoriana
+  - WESTMINSTER GOLD
+  - Waddingtons
+  - Wales
+  - Wassailing
+  - Wax Museum
+  - Wells
+  - West Country
+  - West Country Tales
+  - West Sussex
+  - West Yorkshire
+  - Which Magazine
+  - Wickham
+  - William Mayne
+  - William Townley
+  - William Wilson
+  - Wiltshire
+  - Winter
+  - Wireless World
+  - World's Fair
+  - Wrd Britannia
+  - XRay Spex
+  - XTC
+  - Yugoslavia
+  - Yukio Tashiro
+  - Zbigniew Rybczynski
+  - Zeroids
+  - Zokko
+  - abandoned buildings
+  - abrasives
+  - abstract
+  - accident
+  - acrylic paint
+  - activities
+  - ads
+  - advertising
+  - adverts
+  - aggregates
+  - agrifax
+  - aku
+  - alan resnick
+  - alfred bester
+  - alive
+  - alsager
+  - alternative publishing
+  - aluminium railings
+  - american
+  - amplifier
+  - anarchy
+  - anatomy
+  - animal masks
+  - animation
+  - anne sylvestre
+  - anniversary
+  - annual
+  - annuals
+  - ant-gravity
+  - apocalypse
+  - apollo 11
+  - april
+  - architecture
+  - archive
+  - art
+  - art a level exam paper
+  - arthur c clarke
+  - artifact
+  - artistamps
+  - artwork
+  - arty bollocks
+  - astrology
+  - astronauts
+  - audio
+  - audio art
+  - audio equipment
+  - auto-jumble
+  - automaton
+  - autonomous terrace
+  - avant garde
+  - avante garde
+  - award
+  - bandcamp
+  - bar codes
+  - barbara jones
+  - barbara plumb
+  - barcode
+  - barry gurbutt
+  - basic design
+  - basingstoke
+  - bastard kestrel
+  - battersea park
+  - beauty parlours
+  - big
+  - bill chambers
+  - biro
+  - bits
+  - black
+  - black panthers
+  - blackout
+  - blandford
+  - blender
+  - blobs water
+  - blog
+  - blogger
+  - bloody brilliant
+  - bobs
+  - bogshed
+  - bollops
+  - book
+  - books
+  - booze
+  - boring old book
+  - boring old books
+  - bottles
+  - bourgoise
+  - bournemouth
+  - brass monkey
+  - bridges
+  - britain
+  - british water tower appreciation society
+  - broadcasts
+  - brochure
+  - brown
+  - brutalism
+  - brutalist
+  - bubble
+  - building supplies
+  - buildings
+  - bulletin 27
+  - bunker
+  - bunkers
+  - burial mounds
+  - c h w roles and associates limited
+  - cameras
+  - camp
+  - cans
+  - captain busby
+  - captain video
+  - caravans
+  - carol fijan
+  - cars
+  - cartoon
+  - cartoons
+  - cassettes
+  - castings
+  - catalogue
+  - catalogues
+  - cats
+  - caxton
+  - cement
+  - cement & concrete association
+  - cement and concrete association
+  - cemeteries
+  - charity shop find
+  - charles jencks
+  - charles platt
+  - chemicals
+  - cheshire
+  - chester college
+  - chicken
+  - childhood nightmares
+  - childish
+  - children
+  - children's art
+  - children's books
+  - children's comics
+  - children's television
+  - children's university
+  - cinema
+  - cities
+  - civil defence
+  - civil engineering
+  - clay tablet
+  - claymation
+  - clear channel
+  - cliffhanger
+  - clown
+  - cohen-solal
+  - collage
+  - collages
+  - collectables
+  - collection
+  - collections
+  - colony
+  - colour
+  - comic
+  - comic strip
+  - comics
+  - common pitfalls in historical writing
+  - compact discs
+  - compendium
+  - compilation
+  - compilations
+  - computer graphics
+  - concept albums
+  - concrete
+  - concrete footbridge
+  - conspiracy theory
+  - construction toy
+  - contact book
+  - controversy
+  - council for colony holidays for schoolchildren
+  - council housing
+  - covid19
+  - crap
+  - crematorium
+  - culture
+  - dada
+  - dalek city
+  - dance
+  - daring-do
+  - dates
+  - dave brubeck
+  - deadline
+  - deleted
+  - department of the environment
+  - derrida
+  - detritus
+  - diabolical
+  - digital
+  - dinosaurs
+  - disasters
+  - discarded
+  - disco
+  - divining
+  - do it yourself
+  - doctor snuggles
+  - documentary
+  - dolls
+  - dolls house
+  - dowsing
+  - dr seuss
+  - dragon paths
+  - drama
+  - drawing
+  - driving
+  - duck
+  - duck & cover
+  - dummies
+  - dutch
+  - dystopian visions
+  - ears
+  - eating bison
+  - education
+  - educational
+  - eerie tones
+  - ekranoplane
+  - electric cars
+  - electricity
+  - electron beam
+  - electronics
+  - emotive
+  - empty places
+  - endless summer
+  - engineering
+  - engines
+  - enormous
+  - ep
+  - ernest benn
+  - events
+  - evoluon
+  - ex-library books
+  - exhibition
+  - experimental
+  - expo 67
+  - expo 70
+  - eyeball
+  - fabulettes
+  - faces
+  - factory
+  - fags
+  - fall
+  - fallout
+  - family
+  - farming
+  - farnborough
+  - farts
+  - felt
+  - fernand leger
+  - ferrers young
+  - festival of britain. south bank
+  - film
+  - film locations
+  - finland
+  - finnish
+  - fire
+  - first post
+  - fischer
+  - fischertechnik
+  - fittings
+  - flies
+  - floppy disks
+  - flu pandemic
+  - fluid
+  - folk
+  - footbridges
+  - for schools
+  - found
+  - found objects
+  - foundry
+  - france
+  - frederick pohl
+  - freebies
+  - french
+  - french tv
+  - friends
+  - frightening mannequins
+  - fruity flavours
+  - fsg
+  - fun
+  - fun fair
+  - furniture
+  - future
+  - future hauntology
+  - futurism
+  - gallery
+  - gardening
+  - gas mask
+  - gas masks
+  - gatwick
+  - geodesic domes
+  - gerard bell
+  - german
+  - gew gaws
+  - ghost dance
+  - giallo
+  - glahss
+  - glarse
+  - glass
+  - golden
+  - google maps
+  - gothic
+  - gouache
+  - grandmother lucy and her hats
+  - graphics
+  - grinding wheel company ltd
+  - groovy pads
+  - hammacher
+  - hampshire
+  - hanging gardens
+  - hats
+  - haunting
+  - health and safety
+  - heat
+  - heath
+  - heinz kurth
+  - helter skelter
+  - herts
+  - hexagon
+  - hexagonal
+  - hi-fis
+  - higher education
+  - hijack
+  - hippies
+  - history
+  - hmv
+  - hobbies
+  - holiday snaps
+  - holidays
+  - home computing
+  - home movies
+  - home recordings
+  - homes
+  - horror
+  - housing estates
+  - hovercraft
+  - huge
+  - hugh casson
+  - humanities foundation course unit 8
+  - hydrofoils
+  - hypno-wheels
+  - ideas
+  - illusions
+  - illustration
+  - improvisation and conflict
+  - industrial
+  - industrial farming
+  - infrastructure
+  - ingot
+  - ink
+  - instructions
+  - interior decor
+  - interiors
+  - invention
+  - islands
+  - issue
+  - issue labels
+  - it's fun to read
+  - jake thackray
+  - james tiptree jr
+  - japes
+  - jazz
+  - jg ballard
+  - jive
+  - joan miller
+  - john cameron
+  - john harries
+  - john peel
+  - johnny
+  - jokes
+  - junior record club
+  - junk
+  - k-punk
+  - keith seatman
+  - kennedy's
+  - king crimson
+  - kitchens
+  - kitten
+  - kpm 1000 series
+  - kurt vonnegut
+  - labels
+  - lambs
+  - largest
+  - larry engler
+  - laughs
+  - leaflets
+  - learning
+  - lebbeus woods
+  - lego
+  - leicester polytechnic
+  - leisure centres
+  - leon garfield
+  - leonard rosoman
+  - les shadoks
+  - letraset
+  - letters
+  - levitation
+  - ley lines
+  - library
+  - library music
+  - life science library
+  - light shows
+  - lime lizard
+  - lincolnshire life
+  - literature
+  - lo-fi
+  - loan
+  - lobster claw
+  - local campaigns
+  - logos
+  - lokal
+  - lollipop
+  - love
+  - lp
+  - lunar
+  - lunar landings
+  - lust for life
+  - lynn chadwick
+  - machinery
+  - magazine
+  - magazines
+  - magic
+  - mail art
+  - marie laforet
+  - mark fisher
+  - mark hamill
+  - mary mungo and midge
+  - masks
+  - massive
+  - maurice de sausmarez
+  - max ernst
+  - maximalist
+  - maya
+  - maybe early 80s
+  - mead-quaffing
+  - measurements
+  - meccano magazine
+  - melody maker
+  - memorials
+  - mes "mark e smith" "the fall"
+  - metal
+  - metal man
+  - metal woman
+  - metalwork
+  - metrication
+  - mice
+  - michael leigh
+  - michael moorcock
+  - micronauts
+  - miniatures2020
+  - minimalism
+  - minimalist
+  - minis
+  - mirror
+  - mix
+  - mix tape
+  - mixcloud
+  - mixes
+  - mixtape
+  - model towns
+  - modern art
+  - modern practical building
+  - modernism
+  - modernist principles
+  - monks
+  - moominmama
+  - moominpappa
+  - moomins
+  - moomintroll
+  - moon
+  - morganfisher
+  - motoring
+  - motorway
+  - mouse trap
+  - mouth puppets
+  - mr benn
+  - mr corbett's ghost
+  - mumbo jumbo
+  - municipal
+  - murals
+  - museum
+  - mushbuh
+  - music
+  - music and movement
+  - music for pleasure
+  - music press
+  - musical equipment
+  - musique concrete
+  - mystery
+  - nasa
+  - national grid
+  - nature
+  - negatives
+  - neil jones
+  - nelson
+  - neo-primitivism
+  - networking
+  - new age
+  - new universal library
+  - new universal library 1971 yearbook
+  - newspaper cuttings
+  - newsreel
+  - nicolas schoffer
+  - nixon
+  - noel coward
+  - nonsense
+  - northern plum
+  - norton
+  - noughties
+  - novelties
+  - nuclear war
+  - numbers letters
+  - nursery rhymes
+  - obituary
+  - occult
+  - oddments
+  - offices
+  - oil
+  - oiva toikka
+  - oliver and boyd
+  - one minute wonders
+  - op art
+  - open university
+  - ottery st mary
+  - packaging
+  - paganism
+  - paint
+  - paintings
+  - pamphlet architecture 15
+  - pandas
+  - pants
+  - paperbacks
+  - paranoia
+  - parapsychology
+  - past futures
+  - pastoral
+  - pathe
+  - patterns
+  - pavements
+  - pavilions
+  - perfume
+  - periodical
+  - phantom circuit
+  - philips
+  - photocopies
+  - photography
+  - photos
+  - picture worm
+  - pierre henry
+  - pif
+  - pil
+  - pippin
+  - pk dick
+  - planning
+  - plaster casting
+  - plastic
+  - plastics
+  - play
+  - playset
+  - plugs
+  - pods
+  - poem
+  - poetry
+  - pogles
+  - polich
+  - polish
+  - politics
+  - poltergeists
+  - polymer
+  - pop art
+  - popular culture
+  - postal art
+  - postcards
+  - prediction
+  - present day
+  - presents
+  - primitive
+  - primitivism
+  - princeton architectural press
+  - print
+  - printing
+  - prog
+  - progress
+  - projector
+  - projects
+  - promotional
+  - promotional materials
+  - psychedelia
+  - public art
+  - public information film
+  - public sector
+  - public's progress
+  - publication
+  - pulp
+  - punch
+  - puppets
+  - puppy
+  - pylons
+  - quentin crisp
+  - ra Freeman
+  - radar
+  - radio
+  - radios
+  - railway
+  - ranger
+  - rare boys
+  - ray guns
+  - record
+  - record design
+  - recording
+  - recordings
+  - records
+  - red shift
+  - religion
+  - removed
+  - renewal
+  - repair
+  - reprint
+  - republic
+  - research
+  - resonance extra
+  - resurrection
+  - return
+  - revival
+  - rhodesia settlement
+  - richard gardner
+  - riots
+  - rise of the machines
+  - ritual magic
+  - road safety
+  - roads
+  - roads in residential areas
+  - robin's nest
+  - robot
+  - robots
+  - rockets
+  - rocking horse
+  - rockism
+  - romance of science and the supernatural
+  - romo
+  - rowland emmett
+  - rubber stamps
+  - rubbing
+  - rubbish
+  - rural
+  - s Brutalist
+  - sad
+  - salesman
+  - samplers
+  - sampling
+  - satellites
+  - saturday morning
+  - saturn v
+  - sawing
+  - sc-fi
+  - school
+  - schools
+  - sci-fi
+  - science fact
+  - science fiction
+  - scorched earth
+  - sculpture
+  - secret
+  - secret tunnels
+  - self promotion
+  - self-isolating
+  - semantics
+  - serial
+  - serials
+  - shed
+  - shelter
+  - shock-headed" Peter
+  - shopping centres
+  - shops
+  - shrunken heads
+  - signage
+  - signs
+  - silos
+  - simon heartfield
+  - single
+  - skulls
+  - sleeve
+  - small print
+  - smallfilms
+  - snake women
+  - snobbery
+  - society
+  - sociology
+  - soft toys
+  - software
+  - something strange
+  - sound
+  - sound and hearing
+  - sounds
+  - space
+  - space frame
+  - space programme
+  - space ships
+  - space travel
+  - spatiodynamism
+  - special collections
+  - speculation
+  - spelunking
+  - spider elephant
+  - spirits
+  - spoken word
+  - sponge caves
+  - spooky
+  - spring
+  - springboards
+  - stamps
+  - standard metric brick
+  - star wars
+  - stately homo
+  - stationary
+  - statues
+  - status symbols
+  - steel
+  - stereo
+  - stewart
+  - stickers
+  - stone circles
+  - strange days
+  - studio vista
+  - sub pop
+  - submarines
+  - substation
+  - suburbia
+  - subverted
+  - sugar paper
+  - sun ra
+  - supermarkets
+  - supersonic jets
+  - supplementary
+  - surface effect
+  - surprises
+  - surreal
+  - surrealism
+  - synth-pop
+  - synthetic textiles
+  - t-shirts
+  - table of contents
+  - tadley
+  - tammo de jongh
+  - tape
+  - tapes
+  - taping the radio
+  - teaching
+  - technik
+  - technology 1960s
+  - teddy
+  - telescope
+  - television
+  - thames valley water board
+  - the aesthetics of boring
+  - the fall
+  - the future
+  - the ghost hunter's road book
+  - the healing power of sirop
+  - the man of property
+  - the mayor is silly
+  - the moon
+  - the practical infant teacher
+  - the town engineer
+  - the woman of taste
+  - theatre
+  - thingies
+  - things to make and do
+  - think metric
+  - time travel
+  - time tunnel
+  - tog
+  - toilet roll holder with ashtray
+  - toilets
+  - tony britton
+  - totem poles
+  - totp
+  - tourism
+  - tove jansson
+  - tower blocks
+  - tower of the sun
+  - toy
+  - toys
+  - track
+  - trade test film
+  - train
+  - transformer
+  - transparancies
+  - trash
+  - tree of life
+  - trends
+  - tricks
+  - trigonal system
+  - true crime
+  - u r dead
+  - uncanny valley
+  - underground complexes
+  - underpass
+  - urban decay
+  - urban dereliction
+  - urban planning
+  - urbanisation
+  - urbanization
+  - usa
+  - utter terror
+  - v&a
+  - v-v-v-villagers
+  - van nostrand reinhold company
+  - ventriloquism
+  - victoria wood
+  - victorian education department
+  - vintage
+  - vinyl
+  - visual
+  - wake of poseidon
+  - wallpaper
+  - wannamarchi.club
+  - war
+  - water tower
+  - water works
+  - we came in peace for all mankind
+  - weed control
+  - weidenfeld
+  - weirdness
+  - welwyn garden city
+  - what happens when
+  - wheat
+  - whirly eye pop
+  - white
+  - william sansom
+  - windmill press
+  - witches
+  - withcraft
+  - withdrawn
+  - wombles
+  - wonder ball
+  - work library
+  - workbooks
+  - world war 2
+  - world's work ltd
+  - wrinkles
+  - xmas
+  - yellow
+  - yellow submarine
+  - yeractualfrench
+  - yorkshire
+  - yoshi's woolly world
+  - your madly modern moments
+  - zine
+  relme:
+    https://f0und0bjects.blogspot.com/: true
+  last_post_title: Vittles of Yore
+  last_post_description: ""
+  last_post_date: "2026-09-07T01:54:26+01:00"
+  last_post_link: https://f0und0bjects.blogspot.com/2026/09/vittles-of-yore.html
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: 4505e267e0c2beec64299cc8427c9445
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 26
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 223
+---

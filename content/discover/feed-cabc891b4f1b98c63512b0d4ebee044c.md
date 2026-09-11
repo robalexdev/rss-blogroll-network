@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -34,23 +34,22 @@ params:
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for July 2026
+  last_post_title: Summary of changes for August 2026
   last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of June.
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of August.
 
 
-
-
-
-      Wiki, updated ipad media station and solar cooking experiment. Added new information for
-  last_post_date: "2026-07-30T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#jul2026
+      Wiki, updated various sections in solar cooking experiment.
+      Donsol, putting some final
+  last_post_date: "2026-09-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#aug2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16b771f8ab0910dddde7ab58d3bafa54
+  last_post_guid: 7b4a0bb6ff880683ec8d98d63976447d
   score_criteria:
     cats: 0
     description: 3

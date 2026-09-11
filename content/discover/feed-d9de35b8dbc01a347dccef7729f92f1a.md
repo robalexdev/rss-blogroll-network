@@ -1,6 +1,6 @@
 ---
 title: Secret Weblog
-date: "2026-02-11T00:00:00Z"
+date: "2026-09-04T00:00:00Z"
 description: Martijn Faassen's secret weblog
 params:
   feedlink: https://blog.startifact.com/atom.xml
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -19,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Becoming More
-  last_post_description: Empowering developers in ways that matter.
-  last_post_date: "2026-02-11T00:00:00Z"
-  last_post_link: https://blog.startifact.com/posts/becoming-more/
+  last_post_title: Software to the People
+  last_post_description: What if your phone was like a 1980s home computer?
+  last_post_date: "2026-09-04T00:00:00Z"
+  last_post_link: https://blog.startifact.com/posts/software-to-the-people/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 78e2393bb4e342872f9d6538a7b16bd8
+  last_post_guid: 0ad0c6c29ebcf2daf9af5ab086e8cc01
   score_criteria:
     cats: 0
     description: 3

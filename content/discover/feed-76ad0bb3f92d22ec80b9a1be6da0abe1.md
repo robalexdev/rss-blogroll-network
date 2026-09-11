@@ -18,20 +18,20 @@ params:
   - emacs
   - emacs-news
   relme: {}
-  last_post_title: 2026-08-24 Emacs news
+  last_post_title: 2026-09-07 Emacs news
   last_post_description: |-
-    Emacs 31.1 has been released, whee! Also, Divya's post An Introduction to Canvas in GNU Emacs is really cool and I'm looking forward to that becoming generally available in Emacs 32. =)
+    The Emacs Carnival theme for September is "Games". Enjoy! Other really cool uses of graphics in Emacs: org-timegrid, poimap, canvas-minimap.
 
 
 
-    Emacs 31
-  last_post_date: "2026-08-24T12:37:18Z"
-  last_post_link: https://sachachua.com/blog/2026/08/2026-08-24-emacs-news/
+    Also, public service announcement: doomemacs.com is not
+  last_post_date: "2026-09-07T23:44:14Z"
+  last_post_link: https://sachachua.com/blog/2026/09/2026-09-07-emacs-news/
   last_post_categories:
   - emacs
   - emacs-news
   last_post_language: ""
-  last_post_guid: a6d6c39338688b0193dd47d3f63e4f4b
+  last_post_guid: f63f875760ef4f24dbf99337733c725a
   score_criteria:
     cats: 0
     description: 3

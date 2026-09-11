@@ -17,30 +17,32 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - music
   relme: {}
-  last_post_title: Mead Recipe - Smoldering Pear & Star Anise Bochet
-  last_post_description: Every month I do some research and get inspired by other
-    brewers and mead makers and try to come up with an interesting mead recipe. Here's
-    my idea for August 2026. This doesn't mean I'll be making
-  last_post_date: "2026-08-01T10:38:00-04:00"
-  last_post_link: https://cool-as-heck.blog/mead-recipe-smoldering-pear-star-anise-bochet
-  last_post_categories: []
+  last_post_title: Nine Fifth Wave Emo Bands Worth Checking Out​
+  last_post_description: Emo has a habit of being pronounced dead every few years,
+    right before a new crop of bands revives it under a slightly different name. The
+    current revival is no exception. People call it the fifth
+  last_post_date: "2026-08-31T10:53:17-04:00"
+  last_post_link: https://cool-as-heck.blog/nine-fifth-wave-emo-bands-worth-checking-out
+  last_post_categories:
+  - music
   last_post_language: ""
-  last_post_guid: 9dc83a328bb79baa01ae4c0f6ffb0a76
+  last_post_guid: c134b8cc1ae3c1b4736a84c1a0e71e20
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

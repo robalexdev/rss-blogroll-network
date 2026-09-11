@@ -19,7 +19,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://zettelkasten.de/: true
   last_post_title: 'Supercharging Long Thinking: What Cal Newport''s Notebook Method
     Leaves Out'
   last_post_description: ""
@@ -37,10 +38,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -10,28 +10,33 @@ params:
     https://eliseomartelli.it/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories:
-  - Misc
-  - Programming
-  - repost
+  - Apple
+  - Keynote
+  - Short
   relme: {}
-  last_post_title: Freedom to Handcraft Software
-  last_post_description: From individual perspective, software development is not
-    less than any other art form. Then why is it that we the Software developers do
-    not have the same freedom as the artists? Why are we being
-  last_post_date: "2026-08-26T08:00:00+02:00"
-  last_post_link: https://eliseomartelli.it/blog/2026-08-26-freedom-handcraft-software/
+  last_post_title: John Apple, Apple Ternus?
+  last_post_description: |-
+    I’m looking forward to the September 9 Apple event, but this year I don’t think
+    I’ll be buying any more hardware beyond the AirPods Max
+    2 I picked up before the summer.
+    The real reason I’ll
+  last_post_date: "2026-09-04T10:11:33+02:00"
+  last_post_link: https://eliseomartelli.it/blog/2026-09-04-john-apple-apple-ternus/
   last_post_categories:
-  - Misc
-  - Programming
-  - repost
+  - Apple
+  - Keynote
+  - Short
   last_post_language: ""
-  last_post_guid: a34d8f25a9564b436cbafe7d24b1ae3b
+  last_post_guid: 86bb8e872eadfbd7d77b5d6a2afa2cf3
   score_criteria:
     cats: 0
     description: 3

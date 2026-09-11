@@ -1,6 +1,6 @@
 ---
 title: Tolkien and Fantasy
-date: "2026-08-13T09:32:17-04:00"
+date: "2026-09-11T03:38:38-04:00"
 description: Musings on Tolkien and modern fantasy literature.
 params:
   feedlink: https://tolkienandfantasy.blogspot.com/feeds/posts/default
@@ -10,7 +10,10 @@ params:
     https://tolkienandfantasy.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

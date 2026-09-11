@@ -19,23 +19,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Devops
-  - Nomad
-  - Vault
+  - AI
+  - OpenCode
+  - PHP
+  - Sylius
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Improving Cert Handling in Nomad
-  last_post_description: Learn how to streamline certificate management in Nomad and
-    Vault by leveraging a template-driven approach that automates certificate updates
-    and reduces deployment errors.
-  last_post_date: "2026-08-26T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/nomad_improved_cert_handling
+  last_post_title: 'The WebMCP Challenge: Wishlist Concierge'
+  last_post_description: Discover how I leveraged the OpenAI WebMCP Challenge to create
+    an innovative Sylius plugin, streamlining e-commerce integrations with AI-powered
+    wishlist management, and explore the technical details
+  last_post_date: "2026-09-02T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/webmcp_challenge_sylius_wishlist_concierge
   last_post_categories:
-  - Devops
-  - Nomad
-  - Vault
+  - AI
+  - OpenCode
+  - PHP
+  - Sylius
   last_post_language: ""
-  last_post_guid: bbeb444a4d56e3b4ec1e79890283705f
+  last_post_guid: 9afefa7b0d332aa268fad30eb7f9cc67
   score_criteria:
     cats: 0
     description: 3

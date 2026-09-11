@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-06-29T03:06:43+01:00"
+date: "2026-09-11T17:29:54+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,17 +17,16 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Announcing Clear Insight: A conference about understanding people
-    more deeply'
+  last_post_title: Content auditing at scale
   last_post_description: |-
-    A conference for UX researchers who want to become better at understanding people, not just better at running research.
+    When faced with a large website, or multiple websites, auditing content can feel daunting. There are steps you can take to make it more manageable.
 
-          Over the past two years, I’ve been running the Bridging the gap
-  last_post_date: "2026-05-29T15:58:00+01:00"
-  last_post_link: https://clearleft.com/thinking/announcing-clear-insight-a-conference-about-understanding-people-more-deeply
+          Content auditing is a practice that
+  last_post_date: "2026-09-03T09:32:00+01:00"
+  last_post_link: https://clearleft.com/thinking/content-auditing-at-scale
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a8f91df9d8be1fc82f64f0f38ca8343c
+  last_post_guid: f73a37fc07795b9e42bd263c5044fb9e
   score_criteria:
     cats: 0
     description: 3

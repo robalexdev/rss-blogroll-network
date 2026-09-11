@@ -1,7 +1,7 @@
 ---
 title: Lindsay Wardell
 date: "1970-01-01T00:00:00Z"
-description: Programmer, writer, and mother.
+description: Programmer and writer.
 params:
   feedlink: https://www.lindsaykwardell.com/rss.xml
   feedtype: rss
@@ -20,13 +20,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Moments and Moonlight
+  last_post_title: For the Love of Language
   last_post_description: ""
-  last_post_date: "2026-02-05T00:00:00Z"
-  last_post_link: https://lindsaykwardell.com/blog/moments-and-moonlight/
+  last_post_date: "2026-08-08T00:00:00Z"
+  last_post_link: https://lindsaykwardell.com/blog/for-the-love-of-language/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 90dc276778f789a54ff949ae39b67af8
+  last_post_guid: bbb891d1f8b0dd3d7164f620c484c24a
   score_criteria:
     cats: 0
     description: 3
@@ -44,6 +44,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 49
+  postcount: 234
   avgpostlen: 0
 ---

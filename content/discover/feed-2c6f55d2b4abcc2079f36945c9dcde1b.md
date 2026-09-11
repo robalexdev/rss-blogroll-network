@@ -14,6 +14,9 @@ params:
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.
     id: 4245e42f2d95b58713124e48e7ed0b3c
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.9.3.
@@ -35,15 +38,16 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Vim's UserGettingBored autocmd
+  last_post_title: Notes from August 2026
   last_post_description: |-
-    In short: Vim has a joke autocmd called UserGettingBored that doesn’t do anything.
-    Vim’s automatic commands feature, usually shortened to “autocmd”, lets you run code when various events
-  last_post_date: "2026-08-22T00:00:00Z"
-  last_post_link: https://evanhahn.com/usergettingbored-vim/
+    Since last month, I released some new stuff at work, clicked a bunch of links, and wrote a little bit.
+
+    “Libertarian futurists weren’t the only people proposing new rules for cyberspace; they
+  last_post_date: "2026-08-31T06:00:00Z"
+  last_post_link: https://evanhahn.com/notes-from-august-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cddd2867029b6d913446c92abf320975
+  last_post_guid: 69c90f4e6a119d872023e62749e9ba19
   score_criteria:
     cats: 0
     description: 3

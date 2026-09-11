@@ -21,16 +21,14 @@ params:
     https://ada.is/: true
     https://github.com/adarosecannon: true
     https://mastodon.social/@ada: true
-  last_post_title: Integrating Augmented Reality Objects into the Real World with
-    Light and Shadows
-  last_post_description: Using the WebXR Light Estimation API we can make 3D objects
-    appear to be physical parts of our real environment by having real lights affect
-    virtual objects and virtual objects casting shadows onto
-  last_post_date: "2022-04-06T00:00:00Z"
-  last_post_link: http://ada.is//blog/2022/04/06/integrating-augmented-reality-objects-into-the-real-world/
+  last_post_title: Try out your website in the spatial web
+  last_post_description: A guide to testing and debugging websites for Safari in visionOS,
+    including using the simulator and Web Inspector with Apple Vision Pro.
+  last_post_date: "2024-06-12T00:00:00Z"
+  last_post_link: https://webkit.org/blog/15421/try-out-your-website-in-the-spatial-web/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0db7929b06e7d74845fb60c8f05ed4a5
+  last_post_guid: 7effe8375c97992b6a2a82a0d7689e88
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +46,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 82
+  postcount: 84
   avgpostlen: 0
 ---

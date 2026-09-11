@@ -1,6 +1,6 @@
 ---
 title: Trey Hunner - Python
-date: "2026-08-12T17:30:00-07:00"
+date: "2026-09-03T17:30:00-07:00"
 description: I help developers level-up their Python skills
 params:
   feedlink: https://treyhunner.com/python.xml
@@ -16,33 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
+  - learning
   - python
   relme:
     https://mastodon.social/@PythonMorsels: true
     https://mastodon.social/@treyhunner: true
     https://treyhunner.com/: true
     https://www.pythonmorsels.com/: true
-  last_post_title: Reorganizing Python's sys module
+  last_post_title: Python Morsels now has spaced repetition
   last_post_description: ""
-  last_post_date: "2026-08-12T17:30:00-07:00"
-  last_post_link: https://treyhunner.com/2026/08/reorganizing-pythons-sys-module/
+  last_post_date: "2026-09-03T17:30:00-07:00"
+  last_post_link: https://treyhunner.com/2026/09/python-morsels-now-has-spaced-repetition/
   last_post_categories:
+  - learning
   - python
   last_post_language: ""
-  last_post_guid: b40278ef51bfd5a06f82b2f483599fad
+  last_post_guid: 714f96979870494115598314f7608834
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

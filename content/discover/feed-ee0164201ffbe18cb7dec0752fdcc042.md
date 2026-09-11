@@ -1,6 +1,6 @@
 ---
 title: ReynoldsRetro
-date: "2026-08-28T08:13:29-07:00"
+date: "2026-09-11T00:38:23-07:00"
 description: |-
   "there are immaturities, but there are immensities" -  Bright Star (dir. Jane Campion)>>>>>>>>>>>>>>
   "the fear of being wrong can keep you from being anything at all" - Nayland Blake >>>>>>>>>>>>>>>>
@@ -12,7 +12,10 @@ params:
     https://reynoldsretro.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -45,6 +48,7 @@ params:
   - 4 HERO
   - 4TH WORLD MUSIC
   - A CERTAIN RATIO
+  - A GUY CALLED GERALD
   - A TO Z OF THE EIGHTIES
   - A WOEBOT TURN-ON
   - A.R. Kane
@@ -79,9 +83,11 @@ params:
   - AMERICAN TELEVISION
   - AMERICANA
   - ANALOGUE FORMATS
+  - ANALOGUE SYNTH GODS
   - ANALOGUE SYSTEM
   - ANALORD
   - ANDY GILL
+  - ANGELO BADALAMENTI
   - ANGLOPHILIA
   - ANIMAL COLLECTIVE
   - ANNIE ANXIETY
@@ -116,6 +122,7 @@ params:
   - AVANTFUNK
   - AXL ROSE
   - BACKPACKER RAP
+  - BACKWARDS DRUMS
   - BAD BRAINS
   - BAD INFLUENCES
   - BALIL
@@ -133,6 +140,7 @@ params:
   - BEATLES
   - BEAVER AND KRAUSE
   - BEAVER TRAPPERS
+  - BECK
   - BELBURY POLY
   - BELGIUM
   - BELTRAM
@@ -205,19 +213,24 @@ params:
   - CLASSICAL MUSIC
   - CLOCK DVA
   - COCTEAU TWINS
+  - COLDWAVE
   - COMEDY AND ROCK
   - COMPANY FLOW
   - COMSAT ANGELS
   - CONCEPTRONICA
+  - CONCEPTS INVENTED BY ME
   - CONSCIOUS RAP
   - CONTORTIONS
   - CONTROL
   - CONVERSION EXPERIENCES
+  - COOL CINEMA
+  - COPYEDITING MISTAKES
   - COSMOPOLITANISM
   - COUNTER-REVOLUTION
   - COUNTER-UTOPIANISM
   - COUNTERFACTUALS
   - COVER VERSIONS
+  - CRANES
   - CRASS
   - CRISTINA
   - CRITICISM
@@ -240,6 +253,7 @@ params:
   - DARA
   - DARK STAR
   - DARKSIDE
+  - DARKWAVE
   - DAVE BALL
   - DAVID BOWIE
   - DAVID LYNCH
@@ -292,12 +306,14 @@ params:
   - Defunkt
   - EARACHE
   - EARWIG
+  - EASY LISTENING
   - EBM
   - ECHO AND THE BUNNYMEN
   - ECLECTICISM AS DEAD END
   - ECM
   - ECONOMICS
   - ECSTASY
+  - EDGAR FROESE
   - EIGHTIES REVIVALISM
   - EL P
   - ELECTROCLASH
@@ -307,15 +323,18 @@ params:
   - ELECTRONOUVEAU
   - ELEPHANT MAN
   - ELVIS COSTELLO
+  - END OF YEAR OVERVIEW
   - ENERGY FLASH
   - ENGINEER-POET
   - ENGLANDS DREAMING
+  - ENGLISHNESS
   - ENTROPY IN THE UK
   - EON
   - ERNEST HOOD
   - ERNST BLOCH
   - ERYKAH BADU
   - ESCAPE VELOCITY
+  - ETHEREAL
   - EULOGIES
   - EUROHARDCORE CONTINUUM
   - EVE
@@ -324,6 +343,7 @@ params:
   - EXOTICA
   - EXTREME METAL
   - Ezequiel Fanego
+  - FACEBOOK
   - FACTORY
   - FACTORY BENELUX
   - FAIRY TALE VIEW OF UK
@@ -344,11 +364,13 @@ params:
   - FRANK OWEN
   - FRANKIE GOES TO HOLLYWOOD
   - FRANKIE ROSE
+  - FREAKBEAT
   - FREDRIC JAMESON
   - FREQUENCIES
   - FUN HOUSE
   - FUNK METAL
   - FUNKADELIC
+  - FUSE
   - FUTURISM
   - GABBA
   - GABBER
@@ -357,6 +379,7 @@ params:
   - GARAGE PUNK
   - GARAGE RAP
   - GARY NUMAN
+  - GENERATION X
   - GENREMANIA
   - GENREOLOGY
   - GENTLE PUNK
@@ -448,6 +471,7 @@ params:
   - INTERSYSTEMS
   - ISLAND
   - ISLAND RECORDS
+  - ISOLATIONISM
   - ISOLEE
   - ITAL
   - Ice Queen
@@ -472,6 +496,7 @@ params:
   - JIMI HENDRIX
   - JOE BOYD
   - JOEY BELTRAM
+  - JOHN BRANNON
   - JOHN ENTWISTLE
   - JOHN LENNON
   - JOHN LYDON
@@ -480,11 +505,13 @@ params:
   - JOHN OSWALD
   - JOHN PEEL
   - JOHN ROBB
+  - JOHN'S CHILDREN
   - JOHNNY ROTTEN
   - JON BROOKS
   - JON HASSELL
   - JON SAVAGE
   - JONAS BARISH
+  - JONATHAN SELZER
   - JONNY TRUNK
   - JOSEF K
   - JOUISSANCE
@@ -519,6 +546,7 @@ params:
   - KING CRIMSON
   - KING OF THE SLUMS
   - KINGS
+  - KLAUS SCHULZE
   - KLAUS THEWELEIT
   - KMFDM
   - KODWO ESHUN
@@ -531,6 +559,7 @@ params:
   - LARGEHEARTED BOY
   - LATE POSTPUNK
   - LATE REGISTRATION
+  - LAUGHING HYENAS
   - LAURIE ANDERSON
   - LAWRENCE GROSSBERG
   - LCD SOUNDSYSTEM
@@ -538,6 +567,7 @@ params:
   - LETHAL BIZZLE
   - LFO
   - LIAM HOWLETT
+  - LIZ PHAIR
   - LL COOL J
   - LMC
   - LONDON
@@ -558,6 +588,7 @@ params:
   - MALCOLM CECIL
   - MALCOLM MCLAREN
   - MANCHESTER
+  - MANIX
   - MANTIQUING
   - MANTRONIX
   - MARC ACARDIPANE
@@ -591,6 +622,7 @@ params:
   - MELODY MAKER
   - MELODY MAKER 1986
   - MELODY MAKER 1987
+  - MELODY MAKER 1989
   - MELODY MAKER 1990
   - MELODY MAKER 1991
   - MELODY MAKER 1993
@@ -602,17 +634,21 @@ params:
   - MESSIAH
   - METAL BOX
   - MICHAEL JACKSON
+  - MIDDLEBROW
   - MIGOS
   - MILES DAVIS
   - MINIMALISM
   - MISSY ELLIOTT
   - MO WAX
   - MO' WAX
+  - MOD
   - MODERNISM
+  - MOJO
   - MOKUM
   - MONITOR
   - MONOCULTURE
   - MONOLAKE
+  - MOOG
   - MOON WIRING CLUB
   - MOPE ROCK
   - MORDANT MUSIC
@@ -636,6 +672,7 @@ params:
   - NARCISSISM
   - NARCISSISTIC PERSONALITY DISORDER
   - NAZISM
+  - NEGATIVE APPROACH
   - NEIGHBOURHOODS
   - NEIL COOPER
   - NERD
@@ -693,6 +730,7 @@ params:
   - PETER STRICKLAND
   - PFM
   - PFUNK
+  - PHASING
   - PHIL LESH
   - PHUTURE
   - PHUTURISM
@@ -725,6 +763,7 @@ params:
   - POSTPUNK
   - POSTPUNK REVIVAL
   - PRAGVEC
+  - PRETENTIOUSNESS
   - PRIMITIVE
   - PRINCE CHARLES
   - PRINCE FAR I
@@ -770,7 +809,9 @@ params:
   - RETRO CULTURE
   - RETROMANIA
   - RETROPOP
+  - REVERSED DRUMS
   - RHIZOMATIC CULTURE
+  - RHYTHMIC PSYCHEDELIA
   - RICHARD BRANSON
   - RICHARD H. KIRK
   - RICHARD NORRIS
@@ -807,9 +848,11 @@ params:
   - SCRITTI POLITTI
   - SEEFEEL
   - SELECTED AMBIENT WORKS
+  - SELF NON SELF
   - SEX PISTOLS
   - SEX REVOLTS
   - SHEFFIELD
+  - SHEL TALMY
   - SIGHT AND SOUND
   - SILVER APPLES
   - SILVER RECORDS
@@ -852,7 +895,9 @@ params:
   - SWEET EXORCIST
   - SWING OUT SISTER
   - SWIZZ BEATZ
+  - SYNTH EPICS
   - SYNTHEDELIA
+  - SYNTHESISERS
   - SYRINX
   - Seventies rock revivalism
   - Sinéad O'Connor
@@ -878,14 +923,19 @@ params:
   - THE BLACK DOG
   - THE BLACK EYED PEAS
   - THE BLUEPRINT
+  - THE BRITISH CONTRIBUTION TO ROCK
   - THE CARETAKER
+  - THE CHAMBER BROTHERS
   - THE CLASH
   - THE CLEAN
   - THE CORONATION
   - THE CRAMPS
+  - THE CREATION
   - THE CURE
   - THE DEEEP
+  - THE EASYBEATS
   - THE EXTRAS
+  - THE EYES
   - THE FACE
   - THE FALL
   - THE FEELIES
@@ -914,6 +964,7 @@ params:
   - THE ROCKIST CRINGE
   - THE SIXTIES
   - THE SLITS
+  - THE SMALL FACES
   - THE SMITHS
   - THE SOURCE
   - THE SPECIALS
@@ -969,6 +1020,7 @@ params:
   - UK RAP
   - UK RAVE
   - UNA BAINES
+  - UNCOOL CINEMA
   - UNCUT
   - UNDERGROUND HIP HOP
   - UNDIE RAP
@@ -980,6 +1032,7 @@ params:
   - V RECORDS
   - VALERIO MATTIOLI
   - VAMPIRE WEEKEND
+  - VANGELIS
   - VANILLA ICE
   - VERSION
   - VERSIONING
@@ -989,6 +1042,7 @@ params:
   - VILLAGE VOICE
   - VILLALOBOS
   - VINTAGE
+  - VIOLENCE
   - VIRGIN RECORDS
   - VIVIEN GOLDMAN
   - VIVIsectVI
@@ -1080,6 +1134,7 @@ params:
   - the nineties
   - thinking about music
   - tom waits
+  - vini reilly
   - vintage chic
   - wooden wand
   - zapp
@@ -1124,22 +1179,26 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: RIP Frank Beard
+  last_post_title: 10 Jungle Classics - Mojo - April 1995
   last_post_description: ""
-  last_post_date: "2026-08-25T14:52:52-07:00"
-  last_post_link: https://reynoldsretro.blogspot.com/2026/08/rip-frank-beard.html
+  last_post_date: "2026-09-04T12:36:40-07:00"
+  last_post_link: https://reynoldsretro.blogspot.com/2026/09/10-jungle-classics-mojo-april-1995.html
   last_post_categories:
-  - BLUES ROCK
-  - FRANK BEARD
-  - FRANK OWEN
-  - RAUNCH
-  - RIP
-  - TOMMY VANCE
-  - ZZ TOP
-  - boogie
-  - joe carducci
+  - 4 HERO
+  - BACKWARDS DRUMS
+  - CONCEPTS INVENTED BY ME
+  - COPYEDITING MISTAKES
+  - JUNGLE
+  - MANIX
+  - MOJO
+  - OMNI TRIO
+  - PHASING
+  - REVERSED DRUMS
+  - RHYTHMIC PSYCHEDELIA
+  - THE CHAMBER BROTHERS
+  - THE SMALL FACES
   last_post_language: ""
-  last_post_guid: 578503bf251b00770f3db8bb7167e5cd
+  last_post_guid: faa15bd9ef3cd77c250f865efef071e7
   score_criteria:
     cats: 5
     description: 3

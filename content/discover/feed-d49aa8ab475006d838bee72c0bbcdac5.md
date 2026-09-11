@@ -10,7 +10,10 @@ params:
     https://codemanship.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -20,21 +23,21 @@ params:
   recommender: []
   categories:
   - a.i.
-  - continuous inspection
-  - testing
+  - software development
+  - teams
   relme: {}
-  last_post_title: The Wall Confronting Reliable Coding Agent Autonomy
-  last_post_description: It’s a classic mistake. We develop a technology in N years
-    for X dollars that’s 90% reliable, and extrapolate that traversing that final
-    10% will only take another 0.1N years and 0.1X dollars.
-  last_post_date: "2026-08-28T05:54:09Z"
-  last_post_link: https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/
+  last_post_title: The Development Team Was Never The Typing Pool
+  last_post_description: 'You’ve read the social media posts: “Software development
+    has completely changed” exclamation mark exclamation mark exclamation mark. These
+    are almost invariably about how, before coding agents'
+  last_post_date: "2026-09-11T06:40:30Z"
+  last_post_link: https://codemanship.wordpress.com/2026/09/11/the-development-team-was-never-the-typing-pool/
   last_post_categories:
   - a.i.
-  - continuous inspection
-  - testing
+  - software development
+  - teams
   last_post_language: ""
-  last_post_guid: ce8b129d48e796851aa1b27c908b55f7
+  last_post_guid: f1ca2e29288aad9af24cdbb4b07c0618
   score_criteria:
     cats: 0
     description: 3

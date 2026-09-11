@@ -12,9 +12,15 @@ params:
   - title: Chris Martin - Blogroll
     description: ""
     id: 884d6b3cfb99a990a76a7606e0cb3e08
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
   - title: A list of sites Ethan likes
     description: ""
     id: 796603efcff00ba474bbbd88e566b727
@@ -50,6 +56,7 @@ params:
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
   recommender:
+  - https://chrisburnell.com/feed.xml
   - https://shellsharks.com/feeds/feed.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml

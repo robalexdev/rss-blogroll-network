@@ -29,34 +29,44 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Gutenberg
+  - Block Plugins
+  - Full-Site Editing
+  - News
+  - Themes
+  - Updates
+  - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: 'Gutenberg Changelog #134 – Gutenberg 23.7, 23.8, WordPress 7.1
-    and more'
-  last_post_description: In this 134th episode of the Gutenberg Changelog Podcast,
-    Birgit Pauli-Haack hosts Jessica Lyschik , senior developer at Greyd, to discuss
-    recent Gutenberg and WordPress developments. The
-  last_post_date: "2026-08-23T08:46:09Z"
-  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-134-gutenberg-23-7-23-8-wordpress-7-1/
+  last_post_title: Building blocks without JavaScript, Accessibility Lab, AI plugin
+    showdown and more —Weekend Edition 375
+  last_post_description: 'Hi, There is good news for me and good news for you. The
+    good news for me: with my five-year anniversary at Automattic, I get to go on
+    a 3-month sabbatical, starting this week. It also means not only'
+  last_post_date: "2026-08-29T03:22:00Z"
+  last_post_link: https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375/
   last_post_categories:
-  - Gutenberg
+  - Block Plugins
+  - Full-Site Editing
+  - News
+  - Themes
+  - Updates
+  - Weekend Edition
   last_post_language: ""
-  last_post_guid: 250276a8ea2b5b0cb6891fe42f435cf3
+  last_post_guid: 33c43e1e4df23d66894cd98ec658aacc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

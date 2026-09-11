@@ -19,13 +19,13 @@ params:
   relme:
     https://hachyderm.io/@mitch: true
     https://mitchwagner.com/: true
-  last_post_title: "\U0001F98D Mitchellaneous 8.25.2026"
+  last_post_title: "\U0001F98D Mitchellaneous #153: Memes and other found media"
   last_post_description: ""
-  last_post_date: "2026-08-25T23:09:53-07:00"
-  last_post_link: https://mitchwagner.com/2026/08/25/mitchellaneous.html
+  last_post_date: "2026-09-11T08:55:00-07:00"
+  last_post_link: https://mitchwagner.com/2026/09/11/mitchellaneous-memes-and-other-found.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38088e8cc44b88b75f80448d322d7181
+  last_post_guid: 0938bb61b16700a84d3eefda67d9d3b7
   score_criteria:
     cats: 0
     description: 0

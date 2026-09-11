@@ -1,6 +1,6 @@
 ---
 title: Astroblog
-date: "2026-08-28T18:52:03+09:30"
+date: "2026-09-11T17:48:27+09:30"
 description: Obscured by Clouds. The rough and ready blog of a cloud benighted biologist
   and amateur astronomer. Astroblog will cover my interests in astronomy, biology
   and Life, the Universe and Everything.
@@ -12,7 +12,10 @@ params:
     https://astroblogger.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -328,28 +331,27 @@ params:
     https://astroblogger.blogspot.com/: true
     https://vpudebate.blogspot.com/: true
     https://www.blogger.com/profile/05010720416554077787: true
-  last_post_title: My Images of Venus in the daylight, and more August 16, 2026
+  last_post_title: Thursday September 10 to Thursday September 17
   last_post_description: ""
-  last_post_date: "2026-08-27T22:04:46+09:30"
-  last_post_link: https://astroblogger.blogspot.com/2026/08/my-images-of-venus-in-daylight-and-more.html
+  last_post_date: "2026-09-11T15:59:38+09:30"
+  last_post_link: https://astroblogger.blogspot.com/2026/09/thursday-september-10-to-thursday.html
   last_post_categories:
-  - Moon
-  - Venus
+  - weekly sky
   last_post_language: ""
-  last_post_guid: 38c000f933f5446a8d30c41f51272066
+  last_post_guid: 80d2a53b624203bc997c3f47d1b5bec5
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 28
+  score: 27
   ispodcast: false
   isnoarchive: false
   innetwork: true

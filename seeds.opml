@@ -28,5 +28,6 @@
     <outline text="villepreux" type="rss" xmlUrl="https://villepreux.net/blog/rss.xml" />
     <outline text="herman" type="rss" xmlUrl="https://herman.bearblog.dev/feed/?type=rss" />
     <outline text="herman" type="rss" xmlUrl="https://herman.bearblog.dev/feed/" />
+    <outline text="wirres" type="rss" xmlUrl="https://wirres.net/feed/" />
   </body>
 </opml>

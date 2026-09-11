@@ -1,0 +1,1561 @@
+---
+title: Jeff Rapsis / Silent Film Music
+date: "2026-09-11T04:33:59-04:00"
+description: Chronicling the ongoing adventure of staging silent film screenings with
+  live music in theaters in New England, USA and elsewhere, including once in remote
+  East Greenland, well above the Arctic
+params:
+  feedlink: https://silentfilmlivemusic.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: dbf5e1542d61a6ed4a221ad2a614bcd0
+  websites:
+    https://silentfilmlivemusic.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - 00 Leagues Under the Sea
+  - 000 Leagues Under the Sea
+  - "1916"
+  - 1920s
+  - "1922"
+  - "1924"
+  - "1928"
+  - "20"
+  - 20000 Leagues Under the Sea
+  - "2011"
+  - "2013"
+  - "2014"
+  - "2015"
+  - "2018"
+  - "2022"
+  - "2024"
+  - "2026"
+  - 25th anniversary
+  - 35mm
+  - 35mm film
+  - 7th Heaven
+  - A Day's Pleasure
+  - A Dog's Life
+  - A Fool There Was
+  - A Throw of Dice
+  - A Trip To Mars
+  - A Woman in Grey
+  - Abel Gance
+  - Able Gance
+  - Academy Award nomination
+  - Across to Singapore
+  - Adams Mark
+  - Addison Independent
+  - Aelita
+  - Aelita Queen of Mars
+  - Aeronaut
+  - Aeronaut Brewery
+  - Aeronaut Brewing Co.
+  - Africa
+  - Al St. John
+  - Alex Bartosh
+  - Alex Ray
+  - Alfred Hitchcock
+  - Algol
+  - 'Algol: Tragedy of Power'
+  - Alicia Fletcher
+  - Allan Dwan
+  - Alloy Orchestra
+  - Alps
+  - Alton
+  - Alton Old Home Days
+  - Alton Old Home Week
+  - Amelia Mason
+  - America
+  - American Revolution
+  - Amran Vance
+  - Andrew Fersch
+  - Andrew Lapham Fersch
+  - Andrew Simpson
+  - Anita Garvin
+  - Anita Page
+  - Anna Q. Nilsson
+  - Anne Cornwall
+  - Annette D'Agostino Lloyd
+  - Annette Kellerman
+  - Annie Laurie
+  - Annual Meeting
+  - Antonio Moreno
+  - Antrim
+  - Antrim Grange
+  - Antrim Town Hall
+  - Apollo
+  - April 19
+  - Arisia
+  - Arkansas Philharmonic
+  - Arlington
+  - Arlington Grange
+  - Armistice
+  - Armistice Day
+  - Arnistice
+  - Arthur Conan Doyle
+  - Auburn Elementary
+  - August 2017
+  - Aviation Museum
+  - Aviation Museum of N.H.
+  - Aviation Museum of New Hampshire
+  - Babe Ruth
+  - Back to the Future
+  - Bangalore
+  - Barbara Kent
+  - Barbara Talmadge
+  - Barbed Wire
+  - Bardelys the Magnificent
+  - Barney Frank
+  - Bastille Day
+  - Batman
+  - Battleship Potemkin
+  - Battling Butler
+  - Bauhaus
+  - Beatrice Lillie
+  - Beau Brummel
+  - Beau Geste
+  - Bedford Public Library
+  - Beethoven
+  - Beggars of Life
+  - Behind the Screen
+  - Bela Lugosi
+  - Belgorod
+  - Bellboy 13
+  - Belmont World Film Festival
+  - Ben Cohen
+  - Ben Hur
+  - Ben Model
+  - Bentonville
+  - Berlioz
+  - Bessie Love
+  - Best Actor
+  - Best Of
+  - Betty Bronson
+  - Betty Compson
+  - Beverly of Graustark
+  - Big Parade
+  - Bill Millios
+  - Bill Shaffer
+  - Birth of a Nation
+  - Black History Month
+  - Black Rock Desert
+  - Blackhawk Films
+  - Blazing Star
+  - Blazing Star Grange
+  - Blood and Sand
+  - Bob Fouracre
+  - Bob Hope
+  - Bob Keckeisen
+  - Bollywood
+  - Boothbay Harbor
+  - Boris Karloff
+  - Boston
+  - Boston Globe
+  - Boston Jewish Film Festival
+  - Boston Phoenix
+  - Boston Police
+  - Boston Pops
+  - Boston Sci-Fi Marathon
+  - Boston Society of Film Critics
+  - Boston Symphony
+  - Boston Symphony Orchestra
+  - Bowlus Center
+  - Bowlus Fine Arts Center
+  - Brahms
+  - Branded a Bandit
+  - Brandon
+  - Brandon Town Hall
+  - Brandon Vt.
+  - Brattle
+  - Brattle Cinema
+  - Brattle Theatre
+  - Brattleboro
+  - Bret Wood
+  - Brigitte Helm
+  - Bronson Potter
+  - Brown Eyes
+  - Bruce Lawton
+  - Bruce Wayne
+  - Buddy Rogers
+  - Buffalo
+  - Buster
+  - Buster Keaton
+  - Buster Keaton Celebration
+  - Buster Keaton. Big Business
+  - Cabinet of Dr. Caligari
+  - California
+  - Caligari
+  - Cambridge
+  - Cameraman
+  - Camille Saint-Saëns
+  - Campton
+  - Campton Historical Society
+  - Capitol Theatre
+  - Captain of Her Soul
+  - Car Talk
+  - Carl Dreyer
+  - Carl Theodor Dreyer
+  - Carla Laemmle
+  - Carnegie
+  - Carngie Center
+  - Carol Burnett
+  - Carol Dempster
+  - Caroline Hollister
+  - Carpenter Center
+  - Case Western Reserve University
+  - Case Western Reserve University Film Society
+  - Cat and Canary
+  - Cat and the Canary
+  - Ceal's Clam Stand
+  - Cecil B Demille
+  - Cecil B. Demille
+  - Cecile B. DeMille
+  - Center for the Arts
+  - Champagne
+  - Champion the Wonder Dog
+  - Chaney
+  - Chang
+  - Channel 9
+  - Chaplin
+  - Charles Chaplin
+  - Charles Emmett Mack
+  - Charles Farrell
+  - Charles Ives
+  - Charles Ray
+  - Charlestown
+  - Charley Chase
+  - Charlie Chaplin
+  - Charmaine Lan
+  - Charter Books
+  - Chicago
+  - Chico Marx
+  - Chiller Theater
+  - Chiller Theatre
+  - Christel Schmidt
+  - Christmas Carol
+  - Christmas in July
+  - Christopher DiGrazia
+  - Cincinnati
+  - Cinderella
+  - Cinefest
+  - Cinefest 2014
+  - Cinema Detroit
+  - Cinema Ritrovato
+  - Cinematheque
+  - Cinfest
+  - Civil War
+  - Claire Windsor
+  - Clara Bow
+  - Clarence Brown
+  - Clash of the Wolves
+  - Clayton Mattos
+  - Cleveand Cinematheque
+  - Cleveland
+  - Cleveland Cinematechque
+  - Cleveland Cinematheque
+  - Clive Brook
+  - Colleen Moore
+  - College
+  - Colonial Theater
+  - Colonial Theatre
+  - Colorado
+  - Concord
+  - Conductor 1492
+  - Confederacy
+  - Connecticut
+  - Connecticut River
+  - Conrad Nagel
+  - Conrad Veidt
+  - Constance Talmadge
+  - Coogan
+  - Coolidge Corner
+  - Coolidge Corner Theatre
+  - Cops
+  - Count Chocula
+  - Count of Monte Cristo
+  - Covington
+  - Cradle of Courage
+  - Cruise of the Jasper B
+  - Crystal Bridges
+  - Custom House Maritime Museum
+  - D. W. Griffith
+  - D.W Griffith
+  - D.W. Griffith
+  - Dairy Queen
+  - Damon Griffin
+  - Dana Stevens
+  - Dana-Farber Cancer Institute
+  - Danbury
+  - Danish Film Institute
+  - Danny Elfman
+  - Daughter of the Dawn
+  - Dave Solberg
+  - Dave Stevenson
+  - David Cairns
+  - David Denby
+  - David Kiehn
+  - David Kornfeld
+  - David Pendleton
+  - David Shepard
+  - Davis Square
+  - Dec. 8
+  - Deerfield
+  - Delores Del Rio
+  - Denman Thompson
+  - Dennis Marden
+  - Dennis Markaverich
+  - Dennis Markevarich
+  - Dennis R. Atkinson
+  - Der Golem
+  - Der Letzte Man
+  - Derry Opera House
+  - Derry Public Library
+  - Desert Nights
+  - Destiny
+  - Detroit
+  - Dhoom 3
+  - Diane
+  - Die Nibelungen
+  - Dies Irae
+  - Dixfield
+  - Dixieland
+  - Docks of New York
+  - Dolores Costello
+  - Don Q
+  - Don Q Jeff Rapsis
+  - Don Q Son of Zorro
+  - Don Q. Jeff Rapsis
+  - Donald Sosin
+  - Dorothy Bradley
+  - Dorothy Dwan
+  - Dorothy Gish
+  - Douglas Fairbanks
+  - Douglas Fairbanks Sr.
+  - Douglas MacLean
+  - Dr. Harriet A. Fields
+  - Dr. Jack
+  - Dr. Jekyll and Mr. Hyde
+  - Dr. Mabuse
+  - Dracula
+  - Dress Parade
+  - Drifting
+  - Duck Dodgers
+  - Dwight D. Eisenhower
+  - Dziga Vertov
+  - EEE
+  - Eagle of the Night
+  - Easter
+  - Eastern Equine Encephalitis
+  - Ed Lorusso
+  - Eddie Cantor
+  - Edgar Rice Burroughs
+  - Edison
+  - Eiffel Tower
+  - Eisenstein
+  - Eleanor Boardman
+  - Ella Cinders
+  - Elmo Lincoln
+  - Elvis
+  - Emil Jannings
+  - Emo Philips
+  - Epsilon Spires
+  - Eric Grayson
+  - Erich von Stroheim
+  - Ernest Hemingway
+  - Ernest Torrence
+  - Ernst Lubitsch
+  - Ernö Rapée
+  - Essanay
+  - Estey organ
+  - Eugene Pallette
+  - Evelyn Brent
+  - Exeter
+  - Exeter Town Hall
+  - F. W. Murnau
+  - F.W. Murnau
+  - Facebook
+  - Fairbanks
+  - Fairfax Community Band
+  - Falmouth Public Library
+  - Father's Day
+  - Faust
+  - Fayetteville
+  - Feb. 7
+  - Fiddlehead Field
+  - Film Enthusiasts Club
+  - First Church
+  - Flesh and Blood
+  - Flesh and the Devil
+  - Flirting with Fate
+  - Florida
+  - Flying Luck
+  - Flying Monkey
+  - Flying Monkey Moviehouse
+  - Foolish Wives
+  - For Heaven's Sake
+  - Fordham University
+  - Forum
+  - Four Around a Woman
+  - Four Around a Woman.
+  - Four Horsemen of the Apocalypse
+  - Fox
+  - Fram
+  - Fran White
+  - Francis X. Bushman
+  - Frank Borzage
+  - Frank Capra
+  - Frank Scheide
+  - Frankenstein
+  - Frankie Darro
+  - Franklin Opera House
+  - Franklin Pangborn
+  - Frau im Mond
+  - Fred Niblo
+  - Freddie Mercury
+  - French Revolution
+  - Freshman
+  - Frfank Capra
+  - Fritz Lang
+  - Future Shock
+  - Garbo
+  - Garden Cinema
+  - Garden Cinemas
+  - Garrison Keillor
+  - Gary Cooper
+  - Gaucho
+  - Gene Kelly
+  - General
+  - George Bancroft
+  - George Gershwin
+  - George Melies
+  - George Méliès
+  - George O'Brien
+  - German cinema
+  - Gerry Orlando
+  - Giffels Auditorium
+  - Gilbert Stuart
+  - Gino Corrado
+  - Girl Shy
+  - Glenn Brown
+  - Gloria Swanson
+  - Go West
+  - Gold Rush
+  - Grandma's Boy
+  - Grange
+  - Grantham
+  - Great Brook Middle School
+  - Greed
+  - Greenfield
+  - Greenfield Garden Cinemas
+  - Greenfield Mass.
+  - Greenfield Winter Carnival
+  - Greenfled
+  - Greenland
+  - Greenlandic myths
+  - Greenville
+  - Greg Foreman
+  - Greta Garbo
+  - Griffith
+  - Groton Public Library
+  - Groucho Marx
+  - Guitar Center
+  - Haden Guest
+  - Hal Roach
+  - Haldane of the Secret Service
+  - Halloween
+  - Hands Up
+  - Hands Up!
+  - Hangman's House
+  - Hanover Pancake House
+  - Hanover Pancake House.
+  - Harold Lloyd
+  - Harold Lloyd Harry Lngdon
+  - Harriet Fields
+  - Harry Carey
+  - Harry Houdini
+  - Harry Keaton
+  - Harry Langdon
+  - Harry Langdon. Jeff Rapsis
+  - Harvard
+  - Harvard Film Archive
+  - Harvard Magazine
+  - Harvard Museums
+  - Harvard University
+  - Haydn
+  - Hearts of the World
+  - Hector Berlioz
+  - Heidi Bliss
+  - Heir to Genghis Khan
+  - Hell Bent
+  - Hell's Hinges
+  - Henny Youngman
+  - Henry King
+  - Her Night of Romance
+  - Her Sister From Paris
+  - Herbert Brenon
+  - Himmelskibit
+  - Hinda Wolf
+  - Hitchcock
+  - Holidome
+  - Hollywood
+  - Hollywood Walk of Fame
+  - Hollywood of the Rockies
+  - Homecoming
+  - Honolulu Baby
+  - Honor Flight
+  - Hooman Mehran
+  - Hoot Gibson
+  - Houdini
+  - Hunchback
+  - Hunchback of Notre Dame
+  - Hurricane Joaquin
+  - Häxan
+  - I Was Born
+  - IOKA
+  - Iago
+  - Ian Judge
+  - In the River
+  - Indy 500
+  - Intolerance
+  - Ioka Theater
+  - Iola
+  - Iola Kansas
+  - Ireland
+  - Irene
+  - Irish
+  - Irving Jensen
+  - It
+  - It's the Old Army Game
+  - Ittoqqortoormiit
+  - Ivor Novello
+  - Ivy Close
+  - J'Accuse
+  - J.D. Salinger
+  - J.M. Barrie
+  - Jack Hanlon
+  - Jack Hoxie
+  - Jackie Coogan
+  - Jacksonville
+  - Jaffrey
+  - Jake LaMotta
+  - James H. Pierce
+  - James Karen
+  - James Murray
+  - Jan. 3
+  - Jane Picken Theatre
+  - Jane Pickens Theatre
+  - Janet Gaynor
+  - Jay Leno
+  - Jay Seaver
+  - Jazz Age
+  - Jean Epstein
+  - Jeff Rapis
+  - Jeff Rapsis
+  - Jeff Rapsis Empire of Dreams
+  - Jeff Rapsis silent film
+  - Jeff Rapsis. Andrew Lloyd Webber
+  - Jeff Rapsis. silent film music
+  - Jeffrey Vance
+  - Jerry Bisantz
+  - Jerry Lewis
+  - Jessica Pappathan
+  - Jessica Skwire Routhier
+  - Jessye Bartlett
+  - Jesus
+  - Jesus Christ
+  - JetBlue
+  - Jimmy Fund
+  - Joan Crawford
+  - Joan of Arc
+  - Joe Schenk
+  - Joe Yranski
+  - Johannes Brahms
+  - John Adams
+  - John Barrymore
+  - John Bengston
+  - John Bengstrom
+  - John Bunyan
+  - John Ewing
+  - John Ford
+  - John Gilbert
+  - John Mirsalis
+  - John Wayne
+  - John Williams
+  - Johnny Hines
+  - Johnson Hall Opera House
+  - Jon Mirsalis
+  - Josef Von Sternberg
+  - Judy Rosenberg
+  - Jules Verne
+  - July 10
+  - Kansas
+  - Kansas Silent Film Festival
+  - Karl Dane
+  - Karl Mischler
+  - Kate Guyonvarch
+  - Keaton
+  - Keaton Celebration
+  - Keaton Festival
+  - Keene
+  - Keene State
+  - Keene State College
+  - Keith Lockhart
+  - Kelley Library
+  - Ken Kiesler
+  - Ken Winokur
+  - Kenmore Square
+  - Kennington Bioscope
+  - Kevin Brownlow
+  - Kiki
+  - Kilimanjaro
+  - Kilimanjaro Suite
+  - King Vidor
+  - King of Kings
+  - Kino Lorber
+  - Kino-Lorber
+  - Klondike
+  - Korg
+  - Kriemhild's Revenge
+  - Ku Klux Klan
+  - Kurt Vonnegut
+  - L'Argent
+  - L'Inferno
+  - La Boheme
+  - La Roue
+  - LaBoheme
+  - Labor Day
+  - Lake Macun
+  - Langdon
+  - Lara Gabrielle
+  - Larry Benaquist
+  - Larry Semon
+  - Last Command
+  - Last Laugh
+  - Laura La Plante
+  - Laura LaPlante
+  - Laurel & Hardy
+  - Laurel and Hardy
+  - Laurence Criner
+  - Leader
+  - Leatrice Joy
+  - Leavitt
+  - Leavitt Theater
+  - Leavitt Theatre
+  - Leonard Maltin
+  - Les Vampires
+  - Les Vampyres
+  - Lessons in Love
+  - Let Me Call You Sweetheart
+  - Lew Wallace
+  - Liberty Ridge Farm
+  - Library
+  - Library of Congress
+  - Life Itself
+  - Lillian Gish
+  - Lindy's Diner
+  - Lionel Barrymore
+  - Little Old New York
+  - Lodger
+  - Lois Weber
+  - Lois Weber Film Festival
+  - Lon Chaney
+  - London
+  - Long Pants
+  - Looff Carousel
+  - Lost World
+  - Lou Costello
+  - Lou Gehrig
+  - Louis B. Mayer
+  - Louis Feuillade
+  - Louise Brooks
+  - Love
+  - Lubitsch
+  - Ludlow
+  - Ludlow Town Auditorium
+  - Lynn Cadwallader
+  - MGM
+  - MOunt Monadnock
+  - Mabel Normand
+  - Madame Beudet
+  - Madge Bellamy
+  - Madge Evans
+  - Magdalen College
+  - Maggie Perrino
+  - Mahler
+  - Maine
+  - Makia Matsumura
+  - Man Who Laughs
+  - Man With A Movie Camera
+  - Man from Beyond
+  - Manchester
+  - Manchester City Library
+  - Manchester Community Music School
+  - Manchester Historic Association
+  - Manchester International Film Festival
+  - Manchester Public Library
+  - Manchester-Boston Regional Airport
+  - Manhandled
+  - Mantrap
+  - Marcel L'Herbier
+  - Marcelene Day
+  - Marceline Day
+  - March 16
+  - Maria Falconetti
+  - Marin and Osa Johnson
+  - Marion Davies
+  - Mark Latham
+  - Mark Pickford
+  - Mark Roth
+  - Mark Roth Bruce Lawton
+  - Mark Zuckerberg
+  - Mark of Zorro
+  - Martin Johnson
+  - Martin Luther King Jr.
+  - Marvin Falwell
+  - Marvin Faulwell
+  - Mary Astor
+  - Mary Brian
+  - Mary Philbin
+  - Mary Pickford
+  - Maryanne Cullinan
+  - Mascoma Regional High
+  - Mass.
+  - Matrimaniac
+  - Matt Bilodeau
+  - Matt Damon
+  - Mawas
+  - Max Schreck
+  - May McAvoy
+  - Melies
+  - Melissa Talmadge Cox
+  - Memorial Day
+  - Merrimack College
+  - Merrimack High School
+  - Metropolis
+  - Metropolitan Opera
+  - Michael Crichton
+  - Michael Curtiz
+  - Michael J. Spencer
+  - Michael Russo
+  - Mid-Winter Lake Erie
+  - Mike Mashon
+  - Mikhail Serykh
+  - Mildred Davis
+  - Millios
+  - Mirthquake
+  - Mischa
+  - Modern Times
+  - Molloy College
+  - Moments in Time
+  - Money Banks
+  - Mont Alto
+  - Mont Alto Motion Picture Orchestra
+  - Monty Banks
+  - Mostly Lost
+  - Moultonborough Library
+  - Mount Kilimanjaro
+  - Mozart
+  - Mr. Salvo
+  - Muay Thai
+  - Munson-Williams-Proctor Arts Institute
+  - Muppets
+  - Murnau
+  - Museum of Russian Icons
+  - Mutual
+  - My Best Girl
+  - My Friend from India
+  - My Wife's Relations
+  - Mysterious Lady
+  - N.H.
+  - N.H. Phil
+  - N.H. Philharmonic
+  - NHPR
+  - Nanook
+  - Nanook of the North
+  - Napoleon
+  - Nashua
+  - Nathaniel Hawthorne
+  - Natick
+  - Natick Center for the Arts
+  - Natick Center of the Arts
+  - Natick TCAN
+  - National Film Registry
+  - National Silent Movie Day
+  - Navigator
+  - Navy
+  - Neil Hamilton
+  - Neil Roy
+  - Neils Rasmussen
+  - Nevada
+  - Never Weaken
+  - New England Patriots
+  - New England UFO Conference
+  - New England tour
+  - New Hampshire
+  - New Hampshire Chronicle
+  - New Hampshire Humanities Council
+  - New Hampshire Magazine
+  - New Hampshire Phiharmonic
+  - New Hampshire Philharmonic
+  - New Hampshire Silent Film Accompaniment for Non-Musicians
+  - New Hampshire Telephone Museum
+  - New Year's Day
+  - New Year's Eve
+  - New York
+  - New York CIty
+  - Newburyport
+  - Newport
+  - Nibelungen
+  - Nigel de Brulier
+  - Niles
+  - Niles Essanay Silent Film Museum
+  - Nils Asther
+  - Noah Beery
+  - Noah's Ark
+  - Noble Johnson
+  - Norma Talmadge
+  - Norman Kerry
+  - Norman Studios
+  - North by Northwest
+  - Northeast Catholic College
+  - Northeast Historic Film
+  - Northeastern
+  - Nosferatu
+  - Notre Dame
+  - Nov. 10
+  - Oct. 13
+  - Oculus
+  - Odie Henderson
+  - Officer 444
+  - Ogunquit
+  - Ogunquit Playhouse
+  - Old Homestead
+  - Old Ironsides
+  - Oliver Hardy
+  - Oliver Norvell Hardy
+  - Ollie
+  - One A.M.
+  - One Week
+  - One a Minute
+  - Onoko's Vow
+  - Orlok
+  - Orphans of the Storm
+  - Osa Johnson
+  - Oscar Micheaux
+  - Oscar the Elephant
+  - Othello
+  - Otto M. Budig Theater
+  - Our Gang
+  - Our Hospitality
+  - Packard Campus
+  - Packard Center
+  - Packard Theatre
+  - Padlocked
+  - Pandora's Box
+  - Paramount
+  - Park Theatre
+  - Paths to Paradise
+  - Patrick Stanbury
+  - Paul Bielatowicz
+  - Paul Dooley
+  - Paul Gierucki
+  - Paul Leni
+  - Paul Wegener
+  - Paula Guthat
+  - Pawtucket Arts Fest
+  - Penn Jillette
+  - Penn Program
+  - Peter Clayton
+  - Peter Morelli
+  - Peter Pan
+  - Peter the Great
+  - Phantom
+  - Phantom Carriage
+  - Phantom of the Opera
+  - Phil Carli
+  - Phil Lauriat
+  - Phillips Exeter Academy
+  - Photoplay Productions
+  - Phyllis Haver
+  - Pilgrim's Progress
+  - Piqua
+  - Pittsburgh Silent Film Festival
+  - Plaisir d'amour
+  - Play Safe
+  - Playhouse
+  - Plymouth
+  - Plymouth State College
+  - Plymouth State University
+  - Pola Negri
+  - Pordenone
+  - Portsmouth Music Hall
+  - Precision Driving School
+  - Primrose Hill
+  - Puccini
+  - Pudovkin
+  - Queen
+  - Queen Kelly
+  - Queen of Mars
+  - Queen of the Movies
+  - Raffles the Amateur Cracksman
+  - Rags
+  - Raiders of the Lost Ark
+  - Ralph Graves
+  - Ralph Pace
+  - Ramon Novarro
+  - Ramond Griffith
+  - Raoul Walsh
+  - Rapsis
+  - Raymond Griffith
+  - Red River
+  - Red River Theatres
+  - Red River Theatres. Niles Essanay Silent Film Museum
+  - Red Signals
+  - Red Sox
+  - ReelClassicsDVD
+  - Regeneration
+  - Regent
+  - Regent Theater
+  - Regent Theatre
+  - Renee Adoree
+  - Renee Falconetti
+  - Renée Adorée
+  - Revue Cinema
+  - Rex
+  - Rex Ingram
+  - Rex Theater
+  - Rex Theatre
+  - Rex the Wonder Horse
+  - Richard Arlen
+  - Richard Barthelmess
+  - Rick Broussard
+  - Rick Darrow
+  - Rick Mullin
+  - Rin Tin Tin
+  - Risky Business
+  - Roaring Rails
+  - Rob Stone
+  - Robert B. Sherman
+  - Robert Byrne
+  - Robert Flaherty
+  - Robert Frost
+  - Robert Wiene
+  - Robin Hood
+  - Robin Lubbock
+  - Rocket
+  - Rockland
+  - Rockliffe Fellowes
+  - Rod LaRocque
+  - Rodney Sauer
+  - Roger Ebert
+  - Rogers Center
+  - Rogers Center for the Arts
+  - Roland
+  - Roland West
+  - Romans
+  - Ronald Coleman
+  - Ronald Colman
+  - Rosita
+  - Rotwang
+  - Rudolf Klein-Rogge
+  - Rudolph Valentino
+  - Rudyard Kipling
+  - Running Wild
+  - Russia
+  - SNHU
+  - Saco Museum
+  - Saco Town Hall
+  - Sadie Thompson
+  - Safety Last
+  - Sailor Made Man
+  - Salem N.H.
+  - Sally of the Sawdust
+  - Salt for Svanetia
+  - Salute to Canada
+  - Sam Dechenne
+  - Sammy D and the Late Risers
+  - Sammy and the Late Risers
+  - San Francisco Silent Film Festival
+  - Saphead
+  - Sarah Liebowitz
+  - Saturday
+  - Scaramouche
+  - Scarecrow
+  - Schagticoke
+  - Schubert
+  - Sci-Fi marathon
+  - Scotland
+  - Scott Dorsey
+  - Scott Eyeman
+  - Scott Margolin
+  - Scott Norwood
+  - Seven Chances
+  - Shakespeare
+  - Sheik
+  - Sherlock
+  - Sherlock Holmes
+  - Sherlock Holmes.
+  - Sherlock Jr.
+  - Shi Chuan
+  - Shirley Mason
+  - Shoulder Arms
+  - Show People
+  - Showroom
+  - Siegfried
+  - Silent Film Accompaniment Guy
+  - Silent Film Festival
+  - Silent Movie Day
+  - Silents
+  - Silents Please
+  - Silents Please!
+  - Simba
+  - Single Standard
+  - Sioux City International Film Festival
+  - Sioux Falls
+  - Sir Arthur Conan Doyle
+  - Skittles
+  - Slater Park
+  - Smilin' Through
+  - So This Is Paris
+  - So's Your Old Man
+  - Somerville
+  - Somerville Theater
+  - Somerville Theatre
+  - Son of Sheik
+  - Son of Zorro
+  - Son of the Sheik
+  - Sons of the Desert
+  - Sophie Djian
+  - Soul of the Beast
+  - Sounds of Silents
+  - Soundstage 28
+  - Soviet Union
+  - Soylent Green
+  - Sparrows
+  - Special Delivery
+  - Speedway
+  - Speedy
+  - Spiders
+  - Spies
+  - Spite Marriage
+  - Spring Street Junior High School
+  - St. Patrick's Day
+  - St. Paul's Episcopal Church
+  - Stalin
+  - Stan Laurel
+  - Stand and Deliver
+  - Steamboast Bill Jr.
+  - Steamboat Bill
+  - Steamboat Bill Jr.
+  - Steinway
+  - Stella Maris
+  - Stephen Douglas
+  - Stephenson
+  - Stephenson Rocket
+  - Sternberg
+  - Steven Byess
+  - Steven Jackson
+  - Stonehill College
+  - Storm Over Asia
+  - Stormy Night
+  - Straight Shooting
+  - Straight is the Way
+  - Strand Theatre
+  - Stratford
+  - Stratford Library
+  - Stratford Theatre
+  - Strong Man
+  - Strongheart
+  - Summer Romance
+  - Sunnyside
+  - Sunrise
+  - Super Bowl
+  - Susan Orlean
+  - Swanzey
+  - Switzerland
+  - Sylvester Stallone
+  - Symphony Hall
+  - Syracuse
+  - Syracuse Cinefest
+  - Szczesny
+  - Séverin-Mars
+  - TCAN
+  - Tales from Manhattan
+  - Tanglewood
+  - Tanglewood Learning Institute
+  - Tanzania
+  - Tarzan
+  - Tarzan and the Golden Lion
+  - Telethon
+  - Tell It To The Marines
+  - Temptress
+  - Terror Island
+  - Tess of the Storm Country
+  - The Adventures of Robin Hood
+  - The Apple Tree Girl
+  - The Arizona Express
+  - The Bat
+  - The Bells
+  - The Beloved Rogue
+  - The Big Parade
+  - The Birth of a Nation
+  - The Black Pirate
+  - The Blackbird
+  - The Blot
+  - The Boat
+  - The Bond
+  - The Border Sheriff
+  - The Bride's Play
+  - The Cameraman
+  - The Canadian
+  - The Carnegie
+  - The Cat and the Canary
+  - The Catcher in the Rye
+  - The Chaser
+  - The Circle
+  - The Circus
+  - The City Without Jews
+  - The Clinging Vine
+  - The Covered Wagon
+  - The Crowd
+  - The Death of Klinghoffer
+  - The Devil Horse
+  - The Drifters
+  - The Duchess of Buffalo
+  - The Eagle
+  - The Electric Company
+  - The Fall of the House of Usher
+  - The Fire Brigade
+  - The First Auto
+  - The Flying Ace
+  - The Flying Fleet
+  - The Flying Monkey
+  - The Freshman
+  - The Gaucho
+  - The General
+  - The Gold Rush
+  - The Great K&A Train Robbery
+  - The Hands of Orlac
+  - The High Sign
+  - The Iron Horse
+  - The Iron Mask
+  - The Iron Rider
+  - The Kid
+  - The Kid Brother
+  - The Kiss
+  - The Last Command
+  - The Last Laugh
+  - The Last Warning
+  - The Little American
+  - The Little Duchess
+  - The Little Rascals
+  - The Lodger
+  - The Loft
+  - The Lost Word
+  - The Lost World
+  - The Man From Beyond
+  - The Man Who Laughs
+  - The Mark of Zorro
+  - The Marriage Circle
+  - The Masquerader
+  - The Mystery of the Eiffel Tower
+  - The Navigator
+  - The Nibelungen
+  - The Night Cry
+  - The Pagan
+  - The Passion of Joan of Arc
+  - The Patsy
+  - The Phantom Flyer
+  - The Phantom of the Opera
+  - The Pilgrim
+  - The Power of the Press
+  - The Regeneration
+  - The Ring
+  - The Rink
+  - The Saphead
+  - The Scarlet Letter
+  - The Seahawk
+  - The Shakedown
+  - The Sheik
+  - The Show
+  - The Sign of the Claw
+  - The Silent Clowns
+  - The Sky Rider
+  - The Smart Set
+  - The Square Deal Man
+  - The Strong Man
+  - The Tempest
+  - The Temptress
+  - The Ten Commandments
+  - The Thief of Bagdad
+  - The Three Musketeers
+  - The Tuscan Opera House
+  - The Unholy Three
+  - The Unknown
+  - The Wandering Image
+  - The West-Bound Limited
+  - The Whirl of Life
+  - The Wind
+  - The Winning of Barbara Worth
+  - The Yankee Clipper
+  - Theda Bara
+  - Their First Misunderstanding
+  - Thief of Bagdad
+  - Thomas Edison
+  - Thomas Ince
+  - Thomas Meighan
+  - Three Ages
+  - Three Musketeers
+  - Three's a Crowd
+  - Thunder
+  - Tillie's Punctured Romance
+  - Tim Guthat
+  - Tin Man
+  - To Be Funny
+  - Tod Browning
+  - Tokyo
+  - Tol'able David
+  - Tom Conley
+  - Tom Mix
+  - Tom and Ray Magliozzi
+  - Topeka
+  - Toronto
+  - Tow Hall
+  - Town Hall Theater
+  - Town Hall Theatre
+  - Town Hall Theatre Jeff Rapsis
+  - Townsend
+  - Townsend Library
+  - Trail of '98
+  - Tramp Tramp Tramp
+  - Transcontinental Limited
+  - Trinitarian Congregational Church
+  - Triton LE 88
+  - Tuscan Opera House
+  - Twin Lakes Villa
+  - Twisted Triggers
+  - Two Arabian Knights
+  - Two Tars
+  - UFA
+  - USS Constitution
+  - Uncle Josh
+  - Underworld
+  - Unfinished Symphony
+  - Universal
+  - University of Arkansas
+  - University of California Press
+  - University of New Hampshire
+  - Unknown
+  - Valentine's Day
+  - Valentines Day
+  - Valentino
+  - Valley of the Giants
+  - Variety
+  - Varieté
+  - Venus de Milo
+  - Venus of the South Seas
+  - Vermont
+  - Vernon and Irene Castle
+  - Vertov
+  - Veterans Day
+  - Victor Hugo
+  - Victor McLaglen
+  - Vilma Banky
+  - Virginia Prescott
+  - Vsevolod Pudovkin
+  - Vt.
+  - W.C. Fields
+  - W.C.Fields
+  - WBUR
+  - WMUR
+  - WSMN
+  - Wallace Beery
+  - Walter Kerr
+  - Walter Long
+  - Warner
+  - Warner Bros.
+  - Washburn University
+  - Way Down East
+  - Webster Town Hall
+  - Wellesley College
+  - Werner Krauss
+  - West Newton Cinema
+  - West Springfield Public Library
+  - West of Zanzibar
+  - Western
+  - Western Civilization
+  - Western NY Film Expo
+  - Western New York Film Expo
+  - Western New York Movie Expo
+  - Westin Hotel
+  - Whately
+  - When Knighthood Was in Flower
+  - Where East is East
+  - Where the North Begins
+  - White Concert Hall
+  - White Tiger
+  - Whitingham
+  - Why Sailors Go Wrong
+  - Why Worry?
+  - Wilbur Theatre
+  - Wild Orchids
+  - William Boyd
+  - William Canfield
+  - William Fox
+  - William Gillette
+  - William Haines
+  - William Powell
+  - William Power
+  - William Randolph Hearst
+  - William S. Hart
+  - William Wellman
+  - William Wyler
+  - Willy Wonka
+  - Wilton
+  - Wilton Town Hall
+  - Wilton Town Hall Theater
+  - Wilton Town Hall Theatre
+  - Winchester
+  - Wings
+  - Winning of Barbara Worth
+  - Within Our Gates
+  - Within the Law
+  - Wizard of Oz
+  - Wlliam Boyd
+  - Wolfblood
+  - Woman In The Moon
+  - Woman in Grey
+  - Woman on the Moon
+  - Woman the the Moon
+  - Word of Mouth
+  - World War I
+  - Wurlitzer
+  - Yakima Canutt
+  - Yankee Clipper
+  - Yankee Magazine
+  - Yasujiro Ozu
+  - Yukon
+  - Za-Rex
+  - ZaSu Pitts
+  - Zachary Tayor
+  - Zaza
+  - Zorro
+  - accompaniment
+  - accompanist
+  - animal stars
+  - animals
+  - aristocracy
+  - audience
+  - audience judo
+  - aviation
+  - aviation.
+  - ballet
+  - baseball
+  - beer
+  - bicycle
+  - biography
+  - biology
+  - birthday
+  - blizzard
+  - blockbuster
+  - book tour
+  - book-signing
+  - boxing
+  - brontosaurus
+  - bugle
+  - candlepin bowling
+  - car break-in
+  - cerebral palsy
+  - chariot race
+  - city
+  - comedy
+  - composing
+  - concentration
+  - country
+  - crimimal mastermind
+  - crucifixion
+  - diary
+  - digital converstion
+  - dingy bell
+  - dinosaurs
+  - director
+  - documentary
+  - dogs
+  - double feature
+  - early films
+  - elephants
+  - emotion
+  - encore
+  - epic
+  - erotic thriller
+  - extinction
+  - fans
+  - fantasy
+  - film scoring
+  - flood
+  - fly-under
+  - flying
+  - flying carpet
+  - foliage
+  - folk music
+  - football
+  - fortune cookie
+  - fried pickles
+  - gold
+  - gravity
+  - hearing loss
+  - highlights
+  - hiking
+  - hiking boots
+  - holiday films
+  - holiday weekend
+  - horror
+  - horses
+  - ice floe
+  - ice floes
+  - improv comedy
+  - interview
+  - keyboard
+  - keyboards
+  - laboratory
+  - live music
+  - live score
+  - lost film
+  - lost films
+  - macabre
+  - marathon
+  - melodrama
+  - midnight screening
+  - military
+  - monthly
+  - monthly series
+  - mosquitoes
+  - movies
+  - music
+  - musical
+  - newsreel
+  - notes
+  - obituary
+  - organ
+  - panorama
+  - piano bench
+  - player piano
+  - police
+  - popcorn
+  - poster
+  - posters
+  - postpone
+  - postponed
+  - pot luck supper
+  - presentation
+  - psychoanalysis
+  - racism
+  - railroad
+  - recording
+  - religion
+  - repeat
+  - review
+  - robbery
+  - rock star
+  - sci fi
+  - sci-fi
+  - science fiction
+  - score
+  - scoring
+  - screenings
+  - seaside
+  - sequel
+  - serial
+  - series
+  - silent
+  - silent comedy
+  - silent film
+  - silent film accompaniment
+  - silent film accompanist
+  - silent film comedy
+  - silent film music
+  - silent film screenings
+  - silent film thriller
+  - silent film. Way Down East
+  - silent thriller
+  - sillent film
+  - skunk
+  - smoking
+  - snow
+  - snowstorm
+  - sound film
+  - steampunk
+  - storm
+  - subconscious
+  - tango
+  - tattoo
+  - the Gambler
+  - the Showroom
+  - the Toll Gate
+  - time
+  - train
+  - train films
+  - transcontinental railroad
+  - tuba
+  - undercranking
+  - vamp
+  - vampires
+  - volume
+  - whistle
+  relme:
+    https://airlineterminals.blogspot.com/: true
+    https://ca500fall2016.blogspot.com/: true
+    https://ca500fall2017.blogspot.com/: true
+    https://ca500fall2018.blogspot.com/: true
+    https://ca500fall2019.blogspot.com/: true
+    https://pineapples4ever.blogspot.com/: true
+    https://runningthe234.blogspot.com/: true
+    https://silentfilmlivemusic.blogspot.com/: true
+    https://www.blogger.com/profile/17644170925769760796: true
+  last_post_title: Tackling Theda Bara—well, not literally—in 'A Fool There Was' on
+    Sunday, Sept. 13
+  last_post_description: ""
+  last_post_date: "2026-09-09T12:31:36-04:00"
+  last_post_link: https://silentfilmlivemusic.blogspot.com/2026/09/tackling-theda-barawell-not-literallyin.html
+  last_post_categories:
+  - A Fool There Was
+  - Jeff Rapsis
+  - Theda Bara
+  - Town Hall Theatre
+  - Wilton
+  - silent film music
+  - vamp
+  last_post_language: ""
+  last_post_guid: 28a30352f7754d65c798fd3541ff4c0f
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 296
+---

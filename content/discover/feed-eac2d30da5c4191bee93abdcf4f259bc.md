@@ -1,0 +1,53 @@
+---
+title: MyNotes
+date: "1970-01-01T00:00:00Z"
+description: These scribbles, my kaleidoscope of thought, shall reveal the way I perceive
+  the world.
+params:
+  feedlink: https://my-notes.dragas.net/feed.xml
+  feedtype: rss
+  feedid: eac2d30da5c4191bee93abdcf4f259bc
+  websites:
+    https://my-notes.dragas.net/: true
+    https://my-notes.dragas.net/about/: false
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  recommended: []
+  recommender: []
+  categories:
+  - memories
+  relme:
+    https://my-notes.dragas.net/: true
+  last_post_title: Menaville
+  last_post_description: A colleague's accent brings back a childhood memory. I open
+    a Commodore 64 emulator and go looking for Menaville, a city that never existed,
+    and the freedom that did.
+  last_post_date: "2026-08-17T11:30:00Z"
+  last_post_link: https://my-notes.dragas.net/2026/08/17/menaville/
+  last_post_categories:
+  - memories
+  last_post_language: ""
+  last_post_guid: 06840a8b63df6242c3e4229eb37e0704
+  score_criteria:
+    cats: 0
+    description: 3
+    feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 20
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: en
+  postcount: 15
+  avgpostlen: 0
+---

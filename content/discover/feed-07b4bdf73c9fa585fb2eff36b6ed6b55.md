@@ -1,6 +1,6 @@
 ---
 title: technicalwriting.dev
-date: "2026-08-27T20:39:37Z"
+date: "2026-09-10T23:47:52Z"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
@@ -10,6 +10,9 @@ params:
     https://technicalwriting.dev/index.html: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

@@ -22,13 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Just Answering Questions: Summertime Blues'
-  last_post_description: Got a question? Send it to the Q & A!
-  last_post_date: "2026-08-27T12:36:48Z"
-  last_post_link: https://sarahkendzior.substack.com/p/just-answering-questions-summertime
+  last_post_title: Midterm Madness
+  last_post_description: Your questions answered on elections, tech oligarchs, dirty
+    journalists, and more.
+  last_post_date: "2026-08-29T13:53:09Z"
+  last_post_link: https://sarahkendzior.substack.com/p/midterm-madness
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d42b0a8382522c2d27a6447f0633b852
+  last_post_guid: 270c165b3ab8f55b7c393daf717149c0
   score_criteria:
     cats: 0
     description: 3

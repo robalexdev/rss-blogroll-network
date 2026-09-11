@@ -1,6 +1,6 @@
 ---
 title: Molecular Design
-date: "2026-08-28T08:54:06+01:00"
+date: "2026-08-31T11:53:37+01:00"
 description: Controlling the behavior of compounds and materials by manipulation of
   molecular properties.
 params:
@@ -11,7 +11,10 @@ params:
     https://fbdd-lit.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []

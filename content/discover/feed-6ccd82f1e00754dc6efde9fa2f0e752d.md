@@ -10,7 +10,10 @@ params:
     https://feld.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,15 +24,15 @@ params:
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: The Argument Against AI Writing Is At Least 2,400 Years Old
-  last_post_description: Bret Stephens says never write with AI. Reid Hoffman says
-    judge the work, not the tool. I'm with Reid, and the argument Stephens is making
-    has been made about every writing technology we've ever
-  last_post_date: "2026-08-09T11:22:09-06:00"
-  last_post_link: https://feld.com/archives/2026/08/ai-writing-2400-years-old/
+  last_post_title: The Real Luxuries In Life
+  last_post_description: Labor Day weekend has always been the back to school marker
+    for me. I'm 60, closing in on 61, and thinking a lot more about what I actually
+    care about. Amy texted me a list yesterday.
+  last_post_date: "2026-09-05T09:36:12-06:00"
+  last_post_link: https://feld.com/archives/2026/09/the-real-luxuries-in-life/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4a22aaaff9218d953b1131af26497b9c
+  last_post_guid: 86c822ab42fb952dc8dbc67d58782a52
   score_criteria:
     cats: 0
     description: 3

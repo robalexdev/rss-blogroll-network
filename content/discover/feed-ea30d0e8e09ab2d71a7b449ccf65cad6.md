@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2026-02-02T13:18:00Z"
+date: "2026-09-09T09:17:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -21,13 +21,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Accessible inline collapsible
+  last_post_title: Accessible colours don't exist
   last_post_description: ""
-  last_post_date: "2026-02-02T13:18:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/accessible-inline-collapsible/
+  last_post_date: "2026-09-09T09:17:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/accessible-colours-dont-exist/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7c4d1a822a52fb2b50cce0945beea367
+  last_post_guid: b17d0a932f66fdfe0e1c39a070ca56c6
   score_criteria:
     cats: 0
     description: 3
@@ -45,6 +45,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 40
-  avgpostlen: 294
+  postcount: 52
+  avgpostlen: 295
 ---

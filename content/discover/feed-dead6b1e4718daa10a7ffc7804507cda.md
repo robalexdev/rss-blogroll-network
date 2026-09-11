@@ -1,6 +1,6 @@
 ---
 title: PANTHEON
-date: "2026-08-28T02:43:11-07:00"
+date: "2026-09-10T14:03:39-07:00"
 description: CLICK PIECES TO ENLARGE - COMMENTS  ENABLED AND SHOULD POST AUTOMATICALLY
   NOW, WITHOUT A DELAY
 params:
@@ -11,7 +11,10 @@ params:
     https://musicpresspantheon.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -510,6 +513,7 @@ params:
   - MANCHESTER INDIE
   - MARC BOLAN
   - MARK CORDERY
+  - MARK E. SMITH
   - MARK FISHER
   - MARQUEE MOON
   - MARXISM
@@ -1056,19 +1060,24 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Magazines that died
+  last_post_title: Musicians review the Singles!
   last_post_description: ""
-  last_post_date: "2026-08-27T11:44:52-07:00"
-  last_post_link: https://musicpresspantheon.blogspot.com/2026/08/magazines-that-died.html
+  last_post_date: "2026-09-06T18:26:29-07:00"
+  last_post_link: https://musicpresspantheon.blogspot.com/2026/02/musicians-do-singles.html
   last_post_categories:
-  - MAGAZINES THAT DIED
-  - MAGAZINES THAT LIVE
-  - MUSIC JOURNALISM
-  - ROCK BOOKS
-  - THE FUTURE FOR MUSIC CRITICISM
-  - THE MUSIC PRESS
+  - 1980S
+  - Brian Eno
+  - MELODY MAKER
+  - MORRISSEY
+  - MUSICIANS AS CRITICS
+  - MUSICIANS DO THE SINGLES
+  - POP MUSICIANS AS ROCK CRITICS
+  - PREFAB SPROUT
+  - RECORD MIRROR
+  - SMASH HITS
+  - WHAM!
   last_post_language: ""
-  last_post_guid: 7cd7faaa98240b989871bd3f9961268c
+  last_post_guid: c0d7705816b9688440c403d9795c195c
   score_criteria:
     cats: 5
     description: 3

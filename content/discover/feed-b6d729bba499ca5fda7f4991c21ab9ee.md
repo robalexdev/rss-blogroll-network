@@ -1,6 +1,6 @@
 ---
 title: the library of alexandra
-date: "2026-02-05T23:11:12Z"
+date: "2026-09-11T11:02:51Z"
 description: essays of variety from xandra.cc
 params:
   feedlink: https://library.xandra.cc/feed/
@@ -24,7 +24,7 @@ params:
     https://library.xandra.cc/: true
   last_post_title: StartingAMagazine.psd
   last_post_description: ""
-  last_post_date: "2026-02-03T23:04:02Z"
+  last_post_date: "2026-06-08T20:03:08Z"
   last_post_link: https://library.xandra.cc/starting-a-print-magazine/
   last_post_categories:
   - internet

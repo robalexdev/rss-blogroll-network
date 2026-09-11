@@ -1,6 +1,6 @@
 ---
 title: Multiline Comment
-date: "2026-02-01T08:30:00-06:00"
+date: "2026-07-06T23:50:35-07:00"
 description: ""
 params:
   feedlink: https://multiline.co/mment/feed.xml
@@ -10,12 +10,15 @@ params:
     https://multiline.co/mment: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Cory Dransfeldt
+  - title: Chris Burnell Blogroll
     description: ""
-    id: d0a6b9c5f63a5b525a30929c47fc75e7
+    id: 7becef5fc95d0b51be024a2830568f06
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -33,16 +36,17 @@ params:
     id: 4d81b147d259128106230e40756c8f40
   recommended: []
   recommender:
+  - https://chrisburnell.com/feed.xml
   - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
-  last_post_title: Time Machine, January 2026
+  last_post_title: Adding UI for replies between blogs
   last_post_description: ""
-  last_post_date: "2026-02-01T08:30:00-06:00"
-  last_post_link: https://multiline.co/mment/2026/02/time-machine/
+  last_post_date: "2026-07-06T23:50:35-07:00"
+  last_post_link: https://multiline.co/mment/2026/07/adding-ui-for-replies/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 31f3931179e0b4aa0c9f34b4b98f815a
+  last_post_guid: 7f1355510eccf9f357ebf1faab57c1c0
   score_criteria:
     cats: 0
     description: 0
@@ -60,6 +64,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 106
-  avgpostlen: 290
+  postcount: 125
+  avgpostlen: 281
 ---

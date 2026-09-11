@@ -1,6 +1,6 @@
 ---
 title: Staircase Wit
-date: "2026-08-28T09:58:39-04:00"
+date: "2026-09-11T09:24:57-04:00"
 description: Books and Other Impressions
 params:
   feedlink: https://perfectretort.blogspot.com/feeds/posts/default
@@ -10,7 +10,10 @@ params:
     https://perfectretort.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -716,6 +719,7 @@ params:
   - Clueless
   - Code Name Verity
   - Codename Charming
+  - Cokie Roberts
   - Cold War
   - Colin Powell
   - Collecting children's books
@@ -1145,6 +1149,7 @@ params:
   - Fort Louisbourg
   - Forty Autumns
   - Foster
+  - Founding Mothers
   - Four Seas
   - Fourvière
   - Fowey
@@ -1807,6 +1812,7 @@ params:
   - Let All Things Now Living
   - Letzenstein Chronicles
   - LibGuide
+  - Libby Page
   - Liberation
   - Libraries
   - Library Book Sales
@@ -2052,6 +2058,7 @@ params:
   - Melendy Family quiz
   - Melissa Clark
   - Melissa Sweet
+  - Melssa Fung
   - Menabilly
   - Mercury
   - Mercy Carr
@@ -2323,6 +2330,7 @@ params:
   - Oregon
   - Oreos
   - Orion
+  - Orphan Train
   - Orphan X
   - Oscars
   - Other People's Houses
@@ -2382,6 +2390,7 @@ params:
   - Paul Wylie
   - Paul Zeise
   - Paula Apsell
+  - Paula Daly
   - Paula Munier
   - Paulette Jiles
   - Pauline Baynes
@@ -2808,6 +2817,7 @@ params:
   - St. Etheldreda
   - St. Ives
   - St. John
+  - St. Martin's
   - St. Martin's Press
   - St. Martins
   - St. Paul's Cathedral
@@ -3115,6 +3125,7 @@ params:
   - The Last Chance Matinee
   - The Last Housewife
   - The Last Hurrah
+  - The Last Mandarin
   - The Last Party
   - The Last Runaway
   - The Last Thing He Told Me
@@ -3327,6 +3338,7 @@ params:
   - Things You Save in a Fire
   - Think of a Number
   - Third Girl
+  - This Book Made Me Think of You
   - This Time Next Year We'll Be Laughing
   - Thomas Jefferson
   - Thomas Kell
@@ -3993,20 +4005,23 @@ params:
   - yarn
   - you're welcome
   relme: {}
-  last_post_title: The Lost Book of Elizabeth Barton by Jennifer N. Brown (Guest Review)
+  last_post_title: This Book Made Me Think of You by Libby Page
   last_post_description: ""
-  last_post_date: "2026-08-28T00:31:55-04:00"
-  last_post_link: https://perfectretort.blogspot.com/2026/08/the-lost-book-of-elizabeth-barton-by.html
+  last_post_date: "2026-09-11T02:00:00-04:00"
+  last_post_link: https://perfectretort.blogspot.com/2026/09/this-book-made-me-think-of-you-by-libby.html
   last_post_categories:
-  - 16th century
-  - Historical Fiction
-  - Jennifer N. Brown
-  - St. Martin's Press
-  - The Lost Book of Elizabeth Barton
-  - dual time lines
-  - mystery
+  - Berkley Publishing
+  - Bookstores
+  - Libby Page
+  - Madam Will You Talk
+  - Maud Hart Lovelace
+  - This Book Made Me Think of You
+  - book review
+  - books
+  - fiction
+  - grief
   last_post_language: ""
-  last_post_guid: a155ac61cdcfc0a47d6823ddc35027d8
+  last_post_guid: b7acc897804e2a957db5fc4784fea059
   score_criteria:
     cats: 5
     description: 3

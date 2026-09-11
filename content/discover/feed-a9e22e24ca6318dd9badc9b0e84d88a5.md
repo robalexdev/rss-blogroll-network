@@ -1,0 +1,1798 @@
+---
+title: Günstig gärtnern
+date: "2026-09-10T18:53:33+02:00"
+description: Mit wenig Geld zum Traumgarten
+params:
+  feedlink: https://guenstiggaertnern.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: a9e22e24ca6318dd9badc9b0e84d88a5
+  websites:
+    https://guenstiggaertnern.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Andere Blogs und Webseiten by Martha
+    description: ""
+    id: 5363c70da1bacf44f1bd0a37d6fda2f0
+  recommended: []
+  recommender:
+  - https://bunte-kuechenabenteuer.de/feed/
+  categories:
+  - '#gbt19'
+  - '''Brazen Hussy'''
+  - '''Flore Pleno'''
+  - '''Hair'''
+  - '''Ice Dance'''
+  - '''Rip van Winkle'''
+  - '''Spring Green'''
+  - '''Tête à Tête'''
+  - 10 Gebote
+  - "2010"
+  - "2012"
+  - "2014"
+  - "2017"
+  - Ableger
+  - Abmoosen
+  - Adonislibelle
+  - Aegopodium podagraria
+  - Aesculus hippocastanum
+  - Affodill
+  - Agrimonia eupatoria
+  - Agrimonia procera
+  - Ahorn
+  - Airstream
+  - Ajuga reptans
+  - Akelei
+  - Aktion Sei kein Torfkopp
+  - Alant
+  - Alba
+  - Alcea rosea
+  - Allium
+  - Allium aflatunense
+  - Allium cepa
+  - Allium christophii
+  - Allium fistulosum
+  - Allium moly
+  - Allium paradoxum
+  - Allium sativum
+  - Allium schoenoprasum
+  - Allium scorodoprasum
+  - Allium sphaerocephalon
+  - Allium triquetrum
+  - Allium ursinum
+  - Allium vineale
+  - Aloe vera
+  - Alpen
+  - Alpenveilchen
+  - Alpinum
+  - Alys Fowler
+  - Amaryllis
+  - Ameisen
+  - Amelanchier
+  - Amiral
+  - Ampfer
+  - Amsel
+  - Amseln
+  - Amsterdam
+  - Ancistrocerus nigricornis
+  - Andorn
+  - Andrena fulva
+  - Andrena haemorrhoa
+  - Andrena nitida
+  - Anemone hupehensis
+  - Anemonella
+  - Anfänger
+  - Angelica gigas
+  - Angelica sylvestris
+  - Anthidium manicatum
+  - Anthophora
+  - Anthophora plumipes
+  - Anthyllis vulneraria
+  - Antiquariat
+  - Antirrhinum majus
+  - Anwendung
+  - Anzuchtgefäße
+  - Anzuchttöpfe
+  - Apfel
+  - Apfelbaum
+  - Apfelsinenkiste
+  - Apium graveolens
+  - Appeltern-Schaugärten
+  - Aquilegia
+  - Arbat
+  - Arbutus canariensis
+  - Aronstabgewächse
+  - Arum italicum
+  - Asclepias syriaca
+  - Aspidistra elatior
+  - Aspidistra lurida
+  - Asplenium scolopendrium
+  - Asseln
+  - Aster divaricatus
+  - Astern
+  - Astilbe
+  - Astrantia
+  - Atriplex halimus
+  - Aurorafalter
+  - Ausaat
+  - Ausdauernde Gemüse
+  - Ausflug
+  - Ausflugstipps
+  - Ausputzen
+  - Aussaat
+  - Aussaaterde
+  - Autokorrektur
+  - Award
+  - BUGA
+  - BUND
+  - Babywerfer
+  - Bach-Nelkenwurz
+  - Bachstelzen
+  - Bad Essen
+  - Bad Iburg
+  - Bad Lippspringe
+  - Bad Zwischenahn
+  - Badewanne
+  - Baldrian
+  - Balkon
+  - Ballonblume
+  - Ballonpflanze
+  - Bambus
+  - Baptisia australis
+  - Bart-Iris
+  - Bartblume
+  - Bartfaden
+  - Bartnelke
+  - Bartnelken
+  - Basilikum
+  - Basteln
+  - Bauerngarten
+  - Bauerngärten
+  - Baum
+  - Baumaralie
+  - Baumhasel
+  - Bayern
+  - Beeren
+  - Beetumrandung
+  - Behaarte Karde
+  - Beinwell
+  - Belgien
+  - Bellis
+  - Bereifte Rose
+  - Berg-Flockenblume
+  - Berg-Lauch
+  - Berggarten
+  - Berlin
+  - Bernd Heinrich
+  - Besteck
+  - Beta vulgaris
+  - Beth Chatto
+  - Bethmannpark
+  - Betula utilis
+  - Bewurzelung
+  - Bewässerung
+  - Bibernellrose
+  - Bielefeld
+  - Bielefeldverschwörung
+  - Bienen
+  - Bienenhotel
+  - Bienenjagende Knotenwespe
+  - Bienenweide
+  - Bienenwolf
+  - Bilsenkraut
+  - Biogarten
+  - Biotonne
+  - Birke
+  - Bistorta amplexicaulis
+  - Bittersüßer Nachtschatten
+  - Blackbox-Gardening
+  - Blasenesche
+  - Blasenstrauch
+  - Blattlausschlupfwespe
+  - Blattläuse
+  - Blattläuse. Marienkäfer
+  - Blattschmuckstauden
+  - Blattschneiderbienen
+  - Blattstecklinge
+  - Blau
+  - Blaues Hechtkraut
+  - Blaumeise
+  - Blaumeisen
+  - Blausternchen
+  - Bleichsellerie
+  - Bleistiftkaktus
+  - Bleistiftstrauch
+  - Bliesgau
+  - Bloggen
+  - Blumen
+  - Blumenerde
+  - Blumensamen
+  - Blumentöpfe
+  - Blumenvase
+  - Blumenwiese
+  - Blumenzwiebeln
+  - Blut-Ampfer
+  - Blut-Storchschnabel
+  - Blutweiderich
+  - Blätter
+  - Bläulinge
+  - Blüten
+  - Blütenstecher
+  - Bock
+  - Bocksbart
+  - Bodenaustausch
+  - Bodendecker
+  - Bodendeckerrose
+  - Bodenleben
+  - Bodensee
+  - Bogenhanf
+  - Bohne
+  - Bohnen
+  - Bombylius discolor
+  - Bombylius major
+  - Bonn
+  - Boraginaceae
+  - Borretsch
+  - Botanische Gärten
+  - Botanischer Garten
+  - Botanischer Garten Bielefeld
+  - Brachypodium sylvaticum
+  - Brandenburg
+  - Brassica
+  - Brauner Storchschnabel
+  - Braunfäule
+  - Braunschweig
+  - Brazen Hussy
+  - Breitblättrige Glockenblume
+  - Breitblättrige Glockenblume Campanula latifolia
+  - Breitblättrige Platterbse
+  - Breitwegerich
+  - Bremen
+  - Bremsen
+  - Brennnessel
+  - Brennnesselzünsler
+  - Bright Eyes
+  - Brizter Garten
+  - Brombeerspinner
+  - Brooklyn
+  - Brublatt
+  - Brunnera macrophylla
+  - Brutblatt
+  - Bryonia dioica
+  - Bryophyllum
+  - Bryophyllum tubiflorum
+  - Buch
+  - Buchbesprechungen
+  - Buche
+  - Buchs
+  - Buchsbaum
+  - Buchsbaumzünsler
+  - Buchsersatz
+  - Buchspende
+  - Buchtipp
+  - Buchtipps
+  - Buchvorstellungen
+  - Buddleia
+  - Buddleja davidii
+  - Bundesgartenschau
+  - Buschmalve
+  - Buxus
+  - Bärlauch
+  - Bäume
+  - Bücher
+  - Bücherschrank
+  - Büro
+  - Büschelrose
+  - C-Falter
+  - CO2
+  - Calamagrostis x acutiflora 'Overdam'
+  - Calla
+  - Calystegia sepium
+  - Camassia cusickii
+  - Campanula latifolia
+  - Campanula persicifolia
+  - Campanula poscharskyana
+  - Campanula trachelium
+  - Capsicum chinense
+  - Cardamine bulbifera
+  - Cardamine bulbífera
+  - Carex
+  - Carex hachijoensis 'Evergold'
+  - Carex morrowii
+  - Carex morrowii 'Ice Dance'
+  - Cast-iron Plant
+  - Celastrina argiolus
+  - Celeste
+  - Celosia
+  - Celsior
+  - Centaurea montana
+  - Centranthus ruber
+  - Cepea
+  - Cerceris rybyensis
+  - Ceropegia
+  - Chaetopteroplia segetum
+  - Chasmanthium latifolium
+  - Cheilosia caerulescens
+  - Chelidonium majus
+  - Chili
+  - Chilis
+  - Chinesische Dattel
+  - Chionodoxa
+  - Christrose
+  - CityTrop
+  - Claytonia perfoliata
+  - Claytonia sibirica
+  - Clematis
+  - Clematis Early Sensation
+  - Clematis tangutica Anita
+  - Coburg
+  - Coffea arabica
+  - Colchicum
+  - Collembolen
+  - Colutea arborescens
+  - Coprinus comatus
+  - Cornus alba
+  - Cornus sanguinea
+  - Corydalis cava
+  - Corydalis cheilanthifolia
+  - Corydalis solida
+  - Corylus avellana
+  - Cosmea
+  - Crambe maritima
+  - Crassula ovata
+  - Crassula portulacea
+  - Crassula rupestris
+  - Crassula undulata
+  - Cristata
+  - Crocus
+  - Crocus chrysanthus
+  - Crocus chrysanthus 'Miss Vain'
+  - Crocus sieberi
+  - Crocus tommasinianus
+  - Crocus vernus
+  - Crossocerus
+  - Cyclamen hederifolium
+  - Cydonia
+  - Cymbalaria muralis
+  - DIY
+  - Dachboden
+  - Dachgarten
+  - Dachwurz
+  - Dahlia
+  - Dahlien
+  - Das praktische Gartenbuch
+  - David Austin
+  - Davos
+  - Deko
+  - Dennenlohe
+  - Deuterosminthurus bicinctus
+  - Deuterosminthurus pallipes
+  - Deutscher Gartenbuchpreis
+  - Diamantgras
+  - Dianthus barbatus
+  - Diascanner
+  - Dicentra spectabilis
+  - Digitalis purpurea
+  - Dipsacus fullonum
+  - Dipsacus pilosus
+  - Dipsacus strigosus
+  - Discounter
+  - Distelfalter
+  - Disteln
+  - Doronicum pardalianches
+  - Dorstenia hildebrandtii
+  - Dosen
+  - Dost
+  - Dracaena
+  - Dracaena fragrans
+  - Dracsena surculosa
+  - Dreimasterblume
+  - Dresden
+  - Drosselschmiede
+  - Dryopteris erythrosora
+  - Duft
+  - Duft-Heckenkirsche
+  - Duftgeranie
+  - Duftwicke
+  - Durchwachsene Gelbdolde
+  - Durchwachsene Silphie
+  - Dünen
+  - Dünger
+  - Dürre
+  - Dürrwurz-Alant
+  - Düsseldorf
+  - E605
+  - Echeverie
+  - Echinacea pallida
+  - Echinacea pallida. Tiger-Lilie
+  - Echium giganteum
+  - Echte Nelkenwurz
+  - Echter Alant
+  - Echter Dost
+  - Efeu
+  - Efeu-Seidenbiene
+  - Ehrenpreis
+  - Eibe
+  - Eichelhäher
+  - Eichhörnchen
+  - Ein Blog ein Baum
+  - Einjährige
+  - Einjähriges Silberblatt
+  - Einkaufen
+  - Einkochen
+  - Eis
+  - Eisenhut
+  - Eiskristalle
+  - Elfen-Krokus
+  - Elfenkrokus
+  - Emerald Cushion Blue
+  - Engelwurz
+  - England
+  - Englisch
+  - Entomobrya
+  - Eranthis hyemalis
+  - Erbsen
+  - Erbsen-Wicke
+  - Erdbeeren
+  - Erdbeerspinat
+  - Erdhummel
+  - Erfahrungen
+  - Erfurt
+  - Erigeron annuus
+  - Erigeron karvinskianus
+  - Erlenzeisig
+  - Ernte
+  - Erysimum
+  - Erysimum cheiri
+  - Eselsdistel
+  - Essen
+  - Etagenzwiebel
+  - Etiketten
+  - Euonymus
+  - Euonymus europaeus
+  - Euonymus planipes
+  - Eupatorium cannabinum
+  - Euphemismen
+  - Euphorbia
+  - Euphorbia amygdaloides
+  - Euphorbia cyparissias
+  - Euphorbia griffithii 'Fireglow'
+  - Euphorbia pulcherrima
+  - Euphorbia tirucalli
+  - Euphorbie
+  - Exkursion
+  - Fake News
+  - Falllaub
+  - Fallopia japonica
+  - Fargesia
+  - Farn
+  - Farn-Wichtel
+  - Farnblättriger Lerchensporn
+  - Farne
+  - Faulbaum
+  - Faulbaum-Bläuling
+  - Faulenzen
+  - Fehlkäufe
+  - Feigen
+  - Feinstrahl
+  - Feld-Ahorn
+  - Feldsalat
+  - Feldwespen
+  - Felsen
+  - Felsenbirne
+  - Fenchel
+  - Fens Ruby
+  - Fensterblatt
+  - Ferramol
+  - Fette Henne
+  - Feuchte Standorte
+  - Feuerbohne
+  - Feuerdorn
+  - Feuerwanzen
+  - Ficaria verna
+  - Ficus
+  - Ficus elastica
+  - Ficus lyrata
+  - Filipendula ulmaria
+  - Findelkinder
+  - Findelpflanzen
+  - Fingerhut
+  - Fische
+  - Flammenblume
+  - Flechtzaun
+  - Flechtzäune
+  - Fliegen
+  - Fliegenpilz
+  - Fliegenpilze
+  - Flockenblume
+  - Floragard. Mein schöner Garten
+  - Floraldruck
+  - Flore pleno
+  - Florfliege
+  - Flower Sprouts
+  - Foeniculum vulgare
+  - Foodsharing
+  - Formschnitt
+  - Forschung
+  - Fotografie
+  - Fotowettbewerb
+  - Fragaria vesca
+  - Frankfurt
+  - Frauenmantel
+  - Fredi
+  - Fritillaria imperialis
+  - Frost
+  - Fruchtschmuck
+  - Früchte
+  - Frühe Lehmwespe
+  - Frühjahrsputz
+  - Frühling
+  - Frühlings-Braunwurz
+  - Frühlings-Pelzbiene
+  - Frühlings-Seidenbienen
+  - Frühlingszwiebel
+  - Fundstücke
+  - Funkien
+  - Furchenbiene
+  - Färberhülse
+  - Gabriella Pape
+  - Galanthus elwesii
+  - Galanthus nivalis
+  - Galanthus woronowii
+  - Galeopsis tetrahit
+  - Gamander-Ehrenpreis
+  - Garten bei Nacht
+  - Garten-Literatur
+  - Garten-Salbei
+  - Gartenabfälle
+  - Gartenarbeit
+  - Gartenbesuche
+  - Gartenbloggertreffen
+  - Gartenbuchpreis
+  - Gartenbücher
+  - Gartenbücher Gartenliteratur
+  - Gartencenter
+  - Gartendeko
+  - Gartendesign
+  - Gartenfotografie
+  - Gartengeräte
+  - Gartengestaltung
+  - Gartenglück
+  - Gartenirrtümer
+  - Gartenkleidung
+  - Gartenliteratur
+  - Gartenmesse
+  - Gartenmöbel
+  - Gartenreisen
+  - Gartenschau
+  - Gartenschere
+  - Gartentiere
+  - Gartentor
+  - Gartenweg
+  - Gartenzaun
+  - Gartenzeitschriften
+  - Gefingerter Lerchensporn
+  - Gefleckte Taubnessel
+  - Geflecktes Habichtskraut
+  - Gehölze
+  - Gehölze vermehren
+  - Gelbe Wiesenraute
+  - Gelber Scheinmohn
+  - Geldbaum
+  - Gemeiner Hohlzahn
+  - Gemeinschaftsgarten
+  - Gemüse
+  - Gemüse-Ampfer
+  - Gemüsegarten
+  - Gemüsemalve
+  - Genussgarten
+  - Geophyten
+  - Geranium
+  - Geranium maculatum 'Album'
+  - Geranium nodosum
+  - Geranium phaeum
+  - Geranium pratense
+  - Geranium sanguineum
+  - Geschenke
+  - Geschichtliches
+  - Getreidelaubkäfer
+  - Geum rivale
+  - Geum urbanum
+  - Gewinner
+  - Gewitter
+  - Gewöhnliche Goldrute
+  - Gewöhnliche Seidenpflanze
+  - Gewöhnlicher Wasserdost
+  - Gewürze
+  - GiSelA 5
+  - Giersch
+  - Gießen
+  - Gießkanne
+  - Gilbweiderich
+  - Gilbweidrich
+  - Ginkgo
+  - Ginkgo biloba
+  - Gladiolen
+  - Gladiolus callianthus
+  - Gladiolus murielae
+  - Glas
+  - Glockenblume
+  - Glockenblumen
+  - Glockenblumen-Scherenbiene
+  - Glänzender Staubkugelschleimpilz
+  - Glücksklee
+  - Glühwürmchen
+  - Golden Currant
+  - Golden Hornet
+  - Goldfelberich
+  - Goldlack
+  - Goldlauch
+  - Goldrute
+  - Grabwespe
+  - Grabwespen
+  - Gran Canaria
+  - Gras
+  - Grasschere
+  - Grauhörnchen
+  - Große Sternmiere
+  - Große Wollbiene
+  - Großer Filigranfarn
+  - Großer Kohlweißling
+  - Großer Odermennig
+  - Großer Storchschnabelrüssler
+  - Gräser
+  - Grüne Reiswanze
+  - Grüne Stinkwanze
+  - Grünkohl
+  - Grünschnitt
+  - Guerilla-Gardening
+  - Gummibaum
+  - Gummifluss
+  - Gummistiefel
+  - Gundermann
+  - Gunnera manicata
+  - Gurken
+  - Gänse
+  - Gärten des Jahres
+  - Göttingen
+  - Günstig
+  - Günstig gärtnern
+  - Gütersloh
+  - Habanero
+  - Hablitzia tamnoides
+  - Hagebutten
+  - Hain-Ampfer
+  - Hainveilchen
+  - Halbschatten
+  - Hamamelis
+  - Hamburg
+  - Handarbeiten
+  - Hannover
+  - Harke
+  - Harken
+  - Harmonia axyridis
+  - Hartriegel
+  - Hasel
+  - Haselnuss
+  - Hasenglöckchen
+  - Hasenschwanzgras
+  - Hausbaum
+  - Hecken
+  - Hedera helix
+  - Heerser Mühle
+  - Heike Boomgarden
+  - Heil-Ziest
+  - Heilbronn
+  - Heilpflanzen
+  - Heimische Pflanzen für den Garten
+  - Helenium
+  - Helianthus annuus
+  - Helianthus tuberosum
+  - Helianthus tuberosus
+  - Helichrysum
+  - Hellborus foetidus
+  - Helleborus
+  - Helleborus foetidus
+  - Helleborus niger
+  - Helleborus orientalis
+  - Helleborus purpurascens
+  - Hellebous argutifolius
+  - Helmkraut
+  - Hemer
+  - Hemerocallis
+  - Hemlocktanne
+  - Herbarium
+  - Herbst
+  - Herbst-Alpenveilchen
+  - Herbstanemone
+  - Herbstaster
+  - Herbstblüher
+  - Herbstlaub
+  - Herbstzeitlosen
+  - Herrenhausen
+  - Herzgespann
+  - Hesperis matronalis
+  - Heuchera
+  - Hexenkraut
+  - Hibiscus moscheutos 'Fireball'
+  - Hieracium aurantiacum
+  - Hieracium maculatum
+  - Highline
+  - Himmelblau
+  - Hinnonmäki Gelb
+  - Hirschzungenfarn
+  - Hochbeet
+  - Hochbeete
+  - Hochstämmchen
+  - Hocker
+  - Hohes Helmkraut
+  - Hohler Lerchensporn
+  - Hohlzahn
+  - Hohlzahn-Kapselspanner
+  - Holland
+  - Holler
+  - Holunder
+  - Holunderblütensirup
+  - Holz
+  - Holzbiene
+  - Holzhackschnitzel
+  - Honigbienen
+  - Hoplitis papaveris
+  - Horn Tree
+  - Hornisse
+  - Hornklee
+  - Hornveilchen
+  - Horst Köhler
+  - Hortensie
+  - Hortus Botanicus Leiden
+  - Hosta
+  - Hummel
+  - Hummeln
+  - Hummeln.
+  - Hummelschweber
+  - Hundsrose
+  - Hyacinthoides
+  - Hyacinthus orientalis
+  - Hyazinthe
+  - Hygromia cinctella
+  - Hyssopus
+  - Häcksler
+  - Hängematte
+  - Hörbuch
+  - Höxter
+  - Hühner
+  - IGA
+  - IPM
+  - Ilse Krohn
+  - Immergrüne Ochsenzunge
+  - Indianerbeet
+  - Indigolupine
+  - Insekten
+  - Insektenhotel
+  - Insektennisthilfen
+  - Insektentränke
+  - Interview
+  - Inula helenium
+  - Invicta
+  - Ippenburg
+  - Iranlauch
+  - Iris
+  - Iris sambucina
+  - Iron Cross
+  - Isodontia mexicana
+  - Italienischer Aronstab
+  - Jahresrückblick
+  - Jakobs-Greiskraut
+  - Jalapeño
+  - Japan-Waldgras 'Ice Dance'
+  - Japanischer Regenbogenfarn
+  - Japanischer Staudenknöterich
+  - Jauche
+  - Johannistag
+  - Jolly Bee
+  - Jostabeeren
+  - Judasohr
+  - Jujube
+  - Kaffee
+  - Kaffeebohnen
+  - Kaffeestrauch
+  - Kaiserkrone
+  - Kakteen
+  - Kaktus
+  - Kalanchoe daigremontiana
+  - Kalanchoe laetivirens
+  - Kalanchoe tubiflora
+  - Kalender
+  - |-
+    Kalopanax
+    septemlobus f. maximowiczii
+  - Kaltkeimer
+  - Kanada
+  - Kanaren
+  - Kanarischer Erdbeerbaum
+  - Kanarischer Lavendel
+  - Kantige Laubschnecke
+  - Kapuzinerkresse
+  - Karde
+  - Karden
+  - Karl Foerster
+  - Kartoffel
+  - Kartoffelanbau im Reissack
+  - Kartoffelbovist
+  - Kartoffelkäfer
+  - Kartoffeln
+  - Kartoffelrose
+  - Kastanien
+  - Katze
+  - Katzen
+  - Katzenminze
+  - Kaukasischer Rankspinat
+  - Kaukasus-Gamander
+  - Kaukasus-Vergissmeinnicht
+  - Keimlinge
+  - Keimsprossen
+  - Kerzen-Knöterich
+  - Kerzenhalter
+  - Keukenhof
+  - Kirschbaum
+  - Kirschen
+  - Kirschkerne
+  - Kistengärtnern
+  - Kiwi
+  - Klappertopf
+  - Klappstuhl
+  - Klatschmohn
+  - Klaus Bender
+  - Klavier
+  - Klebriger Salbei
+  - Kleine Gärten
+  - Kleiner Feuerfalter
+  - Kleiner Kohlweißling
+  - Kleiner Wiesenknopf
+  - Kleingarten
+  - Kletterhortensie
+  - Kletterpflanzen
+  - Kletterrosen
+  - Kletterspindel
+  - Klima
+  - Knabenkräuter
+  - Knallerbse
+  - Knoblauch
+  - Knollenpflanzen
+  - Knolliger Sauerklee (Oxalis tuberosa)
+  - Knotige Braunwurz
+  - Kochen
+  - Kohl
+  - Kohlmeise
+  - Kohlmeisen
+  - Kohlweißlinge
+  - Kokossubstrat
+  - Kolibris
+  - Kompass-Lattich
+  - Kompost
+  - Komposter
+  - Kompostieren
+  - Komposttee
+  - Kompostwürmer
+  - Konservendosen
+  - Kopfweiden
+  - Korallenstrauch
+  - Koriander
+  - Korkusse
+  - Kosmetik
+  - Krankheiten
+  - Kratzbaum
+  - Kratzdistel
+  - Kraut- und Braunfäule
+  - Kreatives
+  - Kriechende Gämswurz
+  - Kriechender Günsel
+  - Kriechender Hahnenfuß
+  - Krokus
+  - Krokusse
+  - Kronen-Lichtnelke
+  - Kränze
+  - Kräuter
+  - Krötenlilie
+  - Kuchen
+  - Kuckucks-Lichtnelke
+  - Kugel
+  - Kugel-Amarant
+  - Kugelbäumchen
+  - Kugelspringer
+  - Kunst
+  - Käfer
+  - Königsfarn
+  - Königskerze
+  - Kübel
+  - Kübelpflanzen
+  - Küche
+  - Küchensalbei
+  - Kürbis
+  - Lachmöwen
+  - Lactuca serriola
+  - Lagurus ovatus
+  - Lamium album
+  - Lamium maculatum
+  - Lamium purpureum
+  - Lampen
+  - Lamproderma scintillans
+  - Landesgartenschau
+  - Landleben
+  - Landlust
+  - Landwirtschaft
+  - Langhornmotte
+  - Langrüsslige Stockrosen-Spitzmäuschen
+  - Lateininsche Namen
+  - Lathyrus latifolius
+  - Lathyrus odoratus
+  - Laub
+  - Lauben
+  - Laubhäcksler
+  - Laubkompost
+  - Laubsauger
+  - Lauch
+  - Laufkäfer
+  - Lavandula pinnata
+  - Lavatera x olbia
+  - Lederwanze
+  - Legenden
+  - Lehm
+  - Leiden
+  - Lenzrosen
+  - Leonurus
+  - Leonurus cardiaca
+  - Lerchensporn
+  - Leucanthemu maximum
+  - Leucanthemum vulgare
+  - Leuchterblume
+  - Leucojum vernum
+  - Libellen
+  - Liegestuhl
+  - Liguster
+  - Ligustrum vulgare
+  - Lilac Wonder
+  - Lilie
+  - Lilienhähnchen
+  - Linaria
+  - Lindau
+  - Litschi-Tomate
+  - Lokales
+  - London
+  - Lonicera nitida
+  - Lonicera periclymenum
+  - Lonicera x purpusii
+  - Lovely Fairy
+  - Lunaria annua
+  - Lunaria annua. Einjähriges Silberblatt
+  - Lungenkraut
+  - Lupinen
+  - Lychnis coronaria
+  - Lysimachia
+  - Lysimachia ciliata "Firecracker"
+  - Lysimachia ciliata Firecracker
+  - Lysimachia vulgaris
+  - Lythrum salicaria
+  - Läuse
+  - Löwenmäulchen
+  - Macropis
+  - Magnolie
+  - Mai
+  - Maikäfer
+  - Mais
+  - Mallorca
+  - Malus
+  - Malva sylvestris
+  - Malva sylvestris subsp. mauritiana
+  - Malva verticillata
+  - Malve
+  - Malven
+  - Malven-Dickkopffalter
+  - Malvenrost
+  - Mandarinenkiste
+  - Mandelblättrige Wolfsmilch
+  - Manfred Lucenz
+  - Mangold
+  - Manita
+  - Mannstreu
+  - Margeriten
+  - Mariendistel
+  - Marienkäfer
+  - Marienkäferlarve
+  - Marmelade
+  - Marokkanisches Leinkraut
+  - Marrubium
+  - Maskenbiene
+  - Maspalomas
+  - Mauerbiene
+  - Mauerbienen
+  - Mauern
+  - Mauerpfeffer
+  - Maulwurf
+  - Meconopsis cambrica
+  - Meer
+  - Meerkohl
+  - Megachile
+  - Megachile willughbiella
+  - Meisen
+  - Meisenknödel
+  - Mentha
+  - Messe
+  - Messer
+  - Metall
+  - Metallzaun
+  - Mikrogemüse
+  - Milky Way
+  - Mindesthaltbarkeitsdatum
+  - Miniteich
+  - Minze
+  - Mischkultur
+  - Miss Vain
+  - Mistel
+  - Mittelmeer
+  - Mittlerer Weinschwärmer
+  - Mohn
+  - Mohnbiene
+  - Monalocoris filicis
+  - Mond
+  - Monstera deliciosa
+  - Moonlight
+  - Moor
+  - Moorbeet
+  - Moore
+  - Moosskorpion
+  - Moschus-Malve
+  - Mulch
+  - Mundraub
+  - Muscari armeniacum
+  - Muscari aucheri
+  - Museen
+  - Muskateller-Salbei
+  - Mustergärtern
+  - MyGardenSchool
+  - Mykorrhiza
+  - Myosotis
+  - Myrrhis odorata
+  - Mythen
+  - Mädesüß
+  - März
+  - Märzenbecher
+  - Mäuse
+  - Mönchsgrasmücke
+  - Möwen
+  - Müll
+  - München
+  - Münster
+  - Nachbarn
+  - Nachreifen
+  - Nacht
+  - Nachtfalter
+  - Nachtgarten
+  - Nachtkerze
+  - Nachtschatten
+  - Nachtviole
+  - Nacktschnecken
+  - Narcissus
+  - Narzisse
+  - Narzissen
+  - Nationalpark
+  - Natternkopf
+  - Naturgarten
+  - Naturgartenbewegung
+  - Naturkosmetik
+  - Natürlich Heike
+  - Nebelung
+  - Nemophora degeerella
+  - Neophyten
+  - Nepeta
+  - Nessel-Seide
+  - Nesselblättrige Glockenblume
+  - Neujahr
+  - New German Style
+  - New York
+  - Niederlande
+  - Nisthilfe
+  - Nisthilfen
+  - Nistkasten
+  - Nistkästen
+  - No Dig
+  - Nomenklatur
+  - Nordamerika
+  - Nordsee
+  - "Null"
+  - Null-Euro-Beet
+  - Nussbaum
+  - Nymphenburg
+  - Nähen
+  - Nützlinge
+  - Obst
+  - Obstbäume
+  - Oca
+  - Ochsenzunge
+  - Odermennig
+  - Odynerus spinipes
+  - Oegoconia
+  - Oenothera
+  - Oenothera biennis
+  - Oenothera glazioviana
+  - Offene Gartenpforte
+  - Oktober
+  - Olivenöldose
+  - Olympiadorf
+  - Olympiapark
+  - Orange
+  - Orchidee
+  - Orchideen
+  - Orchideen vermehren
+  - Oregano
+  - Orient-Knöterich
+  - Origanum vulgare
+  - Osagedorn
+  - Osmia rapunculi
+  - Osmia truncorum
+  - Osnabrück
+  - Osterstrauch
+  - Ostsee
+  - Oxalis
+  - Oxalis tetraphylla
+  - Oxalis triangularis
+  - Paeonia delavayi
+  - Paeonia ludlowii
+  - Pakete
+  - Palace Purple
+  - Paletten
+  - Palmen
+  - Palmengarten
+  - Palmkohl
+  - Palomena prasina
+  - Papaver rhoeas
+  - Papaver somniferum
+  - Papptopf
+  - Park Sanssouci
+  - Park der Gärten
+  - Parks
+  - Parthenocissus quinquefolia
+  - Passionsblume
+  - Pelargonium graveolens
+  - Pelargonium tomentosum 'Peppermint'
+  - Pelzbiene
+  - Pelzbienen
+  - Penstemon hirsutus
+  - Pentaglottis sempervirens
+  - Peperoni
+  - Perlmuttschale
+  - Persicaria amplexicaule
+  - Persicaria odorata
+  - Persicaria orientalis
+  - Pfaffenhütchen
+  - Pfingstrosen
+  - Pflanzen
+  - Pflanzen für Insekten
+  - Pflanzen kaufen
+  - Pflanzen retten
+  - Pflanzen selber ziehen
+  - Pflanzen tauschen
+  - Pflanzen vermehren
+  - Pflanzen verschicken
+  - Pflanzenklappe
+  - Pflanzenkombinationen
+  - Pflanzenmesse
+  - Pflanzenschutz
+  - Pflanzenstecker
+  - Pflanzentausch
+  - Pflanzenvermehrung
+  - Pflanzgefäße
+  - Pflanzregal
+  - Pflasterfugen
+  - Pflaumen
+  - Phacelia
+  - Phalaenopsis
+  - Philanthus triangulum
+  - Philodendron scandens
+  - Phlomis russeliana
+  - Phlox
+  - Phlox amplifolia
+  - Phlox paniculata
+  - Phlox subulata
+  - Phuopsis stylosa
+  - Physalis ixocarpa
+  - Picknickkäfer
+  - Pickwick
+  - Pilea peperomioides
+  - Pillen-Brennnessel
+  - Pilze
+  - Pilze sammeln
+  - Pilzkopflampe
+  - Plantago major
+  - Planten un Blomen
+  - Planzen bestimmen
+  - Plastik
+  - Platanen
+  - Plattährengras
+  - Platycodon
+  - Platycodon grandiflorus
+  - Polsterphlox
+  - Polygonia c-album
+  - Pontederia cordata
+  - Porzellan
+  - Potsdam
+  - Prachtspiere
+  - Primeln
+  - Primrose Warburg
+  - Prinzessinnengärten
+  - Produkttest
+  - Prunus avium
+  - Prunus spinosa
+  - Präriebepflanzung
+  - Prärielilie
+  - Purpur
+  - Purpurbeere
+  - Pyramideneule
+  - Pyrenäen-Storchschnabel
+  - Pyrrhosoma nymphula
+  - Quitte
+  - Quitten
+  - Rainfarn
+  - Randalls White
+  - Ranken
+  - Rankpflanzen
+  - Ranunculus ficaria
+  - Ranunculus lanuginosus
+  - Ranunculus lanuginosus. Geranium
+  - Ranunculus repens
+  - Rasen
+  - Rasenmäher
+  - Rasenschnitt
+  - Ratschläge
+  - Raublattgewächse
+  - Rauer Sonnenhut
+  - Rauhblattgewächse
+  - Rauling
+  - Raupe
+  - Raupen
+  - Raureif
+  - Rechberggarten
+  - Recycling
+  - Red Sentinel
+  - Regen
+  - Regenborgenfarn
+  - Regentonne
+  - Regentonnen
+  - Regenwasser
+  - Regenwürmer
+  - Reichenau
+  - Reihenhausgarten
+  - Reihenhausgartengestaltung
+  - Reiher
+  - Reinhard Witt
+  - Reisen
+  - Reisetipps
+  - Reisetomate
+  - Reissack
+  - Reseda
+  - Rezensionen
+  - Rhabarber
+  - Rhipsalis
+  - Rhipsalis pilocarpa
+  - Rhizinus
+  - Rhopalum coarctatum
+  - Rhynchospora colorata
+  - Ribes uva-crispa
+  - Riesen-Natternkopf
+  - Rinde
+  - Rindenmulch
+  - Ringelblume
+  - Ringeltaube
+  - Robuschka
+  - Rodgersia
+  - Rollrasen
+  - Rosa canina
+  - Rosa glauca
+  - Rosa majalis
+  - Rosa multiflora
+  - Rosa pendulina
+  - Rosa rugosa
+  - Rosa spinosissima
+  - Rosa x salaevensis
+  - Rose de Resht
+  - Rosen
+  - Rosen-Waldmeister
+  - Rosenbogen
+  - Rosenkohl
+  - Rosenkäfer
+  - Rosenmarmelade
+  - Rosenäste
+  - Rotbuche
+  - Rote Bete
+  - Rote Heckenkirsche
+  - Rotfrüchtige Zaunrübe
+  - Rotkehlchen
+  - Rotkohl
+  - Rotschleierfarn
+  - Rozanne
+  - Rudbeckia hirta
+  - Rumex acetosella
+  - Rumex patientia
+  - Rumex sanguineus
+  - Russel-Brandkraut
+  - Rötelmaus
+  - Rückschnitt
+  - Rüsselkäfer
+  - Saarland
+  - Saatgut
+  - Saatgutbörse
+  - Salat
+  - Salbei
+  - Salix integra Hakuro nishiki
+  - Salvia glutinosa
+  - Salvia officinalis
+  - Sambucus
+  - Samen
+  - Samen sammeln
+  - Samen sammen
+  - Samenbomben
+  - Samenernte
+  - Samenstände
+  - Samentütchen
+  - Samobor
+  - Sand
+  - Sandarium
+  - Sandbiene
+  - Sandlaufkäfer
+  - Sanguisorba minor
+  - Sansevieria cylindrica
+  - Sansevieria trifasciata
+  - Saponaria officinalis
+  - Satire
+  - Sauer-Ampfer
+  - Sauerlandpark
+  - Schachbrettfalter
+  - Schafwolle
+  - Schallplatten
+  - Scharbockskraut
+  - Scharfes Berufkraut
+  - Schatten
+  - Schattenpflanzen
+  - Schattenstauden
+  - Schaufel
+  - Schaugarten
+  - Schaugärten
+  - Schenkelbienen
+  - Schere
+  - Schillerwanzen
+  - Schlafmohn
+  - Schlagbuchstaben
+  - Schlangen-Lauch
+  - Schlehe
+  - Schleierkraut
+  - Schleimpilz
+  - Schloss
+  - Schmetterlinge
+  - Schmetterlingsflieder
+  - Schnecken
+  - Schneckenhaus
+  - Schnee
+  - Schneeball
+  - Schneeglanz
+  - Schneeglöckchen
+  - Schneeglöckchenfest
+  - Schnellkomposter
+  - Schnirkelschnecken
+  - Schnitt
+  - Schnittgut
+  - Schnittlauch
+  - Schnur
+  - Schnäppchen
+  - Schokolade
+  - Schopftintling
+  - Schornsteinwespe
+  - Schrebergarten
+  - Schrebergärten
+  - Schusterpalme
+  - Schutzkappe
+  - Schwalbenwurz
+  - Schwarzdorn
+  - Schwarzäugige Rudbeckie
+  - Schwarzäugige Susanne
+  - Schwebfliegen
+  - Schweden
+  - Schwegler
+  - Schweiz
+  - Schädlinge
+  - Schöllkraut
+  - Schöterich
+  - Schützenberg
+  - Scilla bifolia
+  - Scilla siberica
+  - Scrophularia nodosa
+  - Scrophularia vernalis
+  - Scutellaria
+  - Scutellaria altissima
+  - Sedum
+  - Sedum spectabile
+  - Sedum telephium
+  - Seidelbast
+  - Seidenbiene
+  - Seidenschwanz
+  - Seife
+  - Seifenkraut
+  - Selbstgemacht
+  - Selbstversorgung
+  - Sellerie
+  - Sempervivum
+  - Shabby Chic
+  - Shargacucullia scrophulariae
+  - Shargacucullia verbasci
+  - Sichel
+  - Sichtschutz
+  - Silberblatt
+  - Silene vulgaris
+  - Silphium perfoliatum
+  - Silvester
+  - Singdrossel
+  - Sissinghurst
+  - Smokey
+  - Smyrnium perfoliatum
+  - Solanum dulcamara
+  - Solanum pseudocapsicum
+  - Solanum sisymbriifolium
+  - Solanum tuberosum
+  - Solidago virgaurea
+  - Sommer
+  - Sommerblumen
+  - Sonne
+  - Sonnenblume
+  - Sonnenblumen
+  - Sonnenbraut
+  - Sonnenhut
+  - Sorbus intermedia
+  - Sortennamen
+  - Spalierobst
+  - Sparen
+  - Spargel-Schmalbiene
+  - Spaten
+  - Spathiphyllum
+  - Spatzen
+  - Speisezwiebel
+  - Sperrmüll
+  - Spierstrauch
+  - Spiraea cinerea 'Grefsheim'
+  - Spiraea salicifolia
+  - Spontanvegetation
+  - Spornblume
+  - Sprichwörter
+  - Springschwänze
+  - Springspinne
+  - Stachelbeeren
+  - Stachelbeermehltau
+  - Stachys betonica
+  - Stachys byzantina
+  - Stachys macrantha
+  - Stachys sylvatica
+  - Stadtflora
+  - Stahlblauer Grillenjäger
+  - Starkregen
+  - Statthocker
+  - Stauden
+  - Stauden Teilen
+  - Stauden vermehren
+  - Stauden-Wicke
+  - Staudenbörse
+  - Staudenschnitt
+  - Staudenstängel
+  - Staudenstütze
+  - Staudenstützen
+  - Staudenwicke
+  - Stecklinge
+  - Steckzwiebeln
+  - Steinhagen
+  - Steinmarder
+  - Sterndolde
+  - Sternentämzer
+  - Sterngladiole
+  - Sticksoffzeiger
+  - Stiefmütterchen
+  - Stieglitz
+  - Stinkende Nieswurz
+  - Stinsenpflanzen
+  - Stockrose
+  - Stockrosen
+  - Storchschnabel
+  - Storchschnabelrüssler
+  - Storschnabel
+  - Strand
+  - Strauch-Efeu
+  - Strauchefeu
+  - Strauchmelde
+  - Strauchpfingstrosen
+  - Straßenlaterne
+  - Stricken
+  - Sträucher
+  - Sturm
+  - Stuttgart
+  - Sukkulenten
+  - Sumpfmeise
+  - Superhelden
+  - Superman
+  - Symbiosen
+  - Symphoricarpos
+  - Symphoricarpos purpurea
+  - Symphytum officinale
+  - Sämlinge
+  - Säulenapfel
+  - Süßdolde
+  - Süßkirsche
+  - Tagetes
+  - Taglilie
+  - Taglilien
+  - Tagpfauenauge
+  - Tamarinde
+  - Tanacetum vulgare
+  - Taubenkropf-Leimkraut
+  - Taubenschwänzchen
+  - Taubnesseln
+  - Tauschbörse
+  - Tauschen
+  - Teich
+  - Tellerkraut
+  - Tellima grandiflora
+  - Teneriffa
+  - Teppichphlox
+  - Terrasse
+  - Teucrium hircanicum
+  - Teutoburger Wald
+  - Thalictrum flavum ssp. glaucum
+  - The exotic Flora of the Canary Islands
+  - Thermokomposter
+  - Tiere
+  - Tierpark Olderdissen
+  - Tigerella
+  - Tigerschnegel
+  - Tomaten
+  - Tomatillo
+  - Topfkultur
+  - Topinambur
+  - Torf
+  - Torfersatz
+  - Torffreie Erde
+  - Totholz
+  - Trachystemon orientalis
+  - Tradescantia
+  - Tragopogon
+  - Tragopogon pratensis
+  - Tramete
+  - Traubenhyazinthen
+  - Trauermücken
+  - Treibgut
+  - Trends
+  - Trichterfarn
+  - Tripmadam
+  - Trockenheit
+  - Trockenmauern
+  - Tropaeolum majus
+  - Tulipa
+  - Tulipa bakeri
+  - Tulpe
+  - Tulpen
+  - Töpfe
+  - USA
+  - Umgraben
+  - Unkaut
+  - Unkraut
+  - Upcycling
+  - Urbanes Grün
+  - Urlaub
+  - Urtica
+  - Urtica dioica
+  - Urtica pilulifera
+  - Valeriana officinalis
+  - Vancouver
+  - Vasen
+  - Verbascum thapsus
+  - Verbänderung
+  - Vergissmeinnicht
+  - Verlosung
+  - Vermehrung
+  - Veronica chamaedrys
+  - Veronicastrum virginicum
+  - Versandhandel
+  - Versatile Blogger
+  - Vertagopus arboreus
+  - Vertikutierer
+  - Viburnum opulus
+  - Vicia pisiformis
+  - Vicia sepium
+  - Vietnamesischer Koriander
+  - Viola
+  - Viola cornuta
+  - Viola riviniana
+  - Viridiflora-Tulpe
+  - Viscum album
+  - Vivagrande
+  - Vogelbeobachtung
+  - Vogelfutter
+  - Vogelfütterung
+  - Vogelmiere
+  - Vogelscheuchen
+  - Vogelschutznetz
+  - Volmary
+  - Vorfrühling
+  - Vorgarten
+  - Vorsätze
+  - Vögel
+  - Vögel füttern
+  - Wacholderdrossel
+  - Wald
+  - Wald-Engelwurz
+  - Wald-Geißbart
+  - Wald-Geißblatt
+  - Wald-Sauerklee
+  - Wald-Ziest
+  - Wald-Zwenke
+  - Walderdbeeren
+  - Waldgarten
+  - Waldgeißblatt
+  - Waldziest
+  - Walnüsse
+  - Wandern
+  - Wanzen
+  - Waschbär
+  - Wasser
+  - Wasserdost
+  - Wassersparen
+  - Weg
+  - Wegwarte
+  - Weide
+  - Weidenbohrer
+  - Weihnachten
+  - Weihnachten. Dias
+  - Weihnachtsmarkt
+  - Weihnachtsschmuck
+  - Weihnachtsstern
+  - Weinbergs-Lauch
+  - Weinbergschnecken
+  - Weinfass
+  - Weißdorn
+  - Wespen
+  - Wespennest
+  - Wetter
+  - Wicke
+  - Wicken
+  - Wiesen-Bocksbart
+  - Wiesenstorchschnabel
+  - Wildbienen
+  - Wildblumen
+  - Wilde Karde
+  - Wilde Malve
+  - Wilde Möhre
+  - Wilder wein
+  - Wildfrüchte
+  - Wildkräuter
+  - Wildkräuterküche
+  - Wildobst
+  - Wildpflanzen
+  - Wildrosen
+  - Wildstauden
+  - Wildtomaten
+  - Wildträucher
+  - Wilhelma
+  - Windenschwärmer
+  - Windlichter
+  - Windräder
+  - Winter
+  - Winter-Heckenkirsche
+  - Winter-Portulak
+  - Winterblüher
+  - Winterfütterung
+  - Winterling
+  - Winterlinge
+  - Winterschutz
+  - Wintervögel
+  - Wohnwagen
+  - Wolfsmilch
+  - Wollbiene
+  - Wollbienen
+  - Wolliger Hahnenfuß
+  - Wollschweber
+  - Wollziest
+  - Wucherer
+  - Wunder-Lauch
+  - Wundklee
+  - Wurmfarn
+  - Wurmkiste
+  - Wurzelläuse
+  - Wühlmausfalle
+  - Würmer
+  - Würzburg
+  - Ysop
+  - Yucca
+  - Zacladus geranii
+  - Zamioculcas zamiifolia
+  - Zandvoort
+  - Zaubernuss
+  - Zaunrübe
+  - Zaunwinde
+  - Zeitschriften
+  - Zierapfel
+  - Zierapfelwodka
+  - Zierlauch
+  - Zierpflanzen
+  - Zieräpfel
+  - Zimbelkraut
+  - Zimmerpflanzen
+  - Zimtrose
+  - Zinnie
+  - Zitronenfalter
+  - Ziziphus jujuba
+  - Zugfahren
+  - Zur Wilden Biene
+  - Zweijährige
+  - Zwergmarienkäfer
+  - Zwiebel
+  - Zwiebel-Zahnwurz
+  - Zwiebelblumen
+  - Zwiebeln
+  - Zypressen-Wolfsmilch
+  - Zäune
+  - Zürich
+  - botanoadopt
+  - capsicum annuum
+  - essbare Blüten
+  - gartenstile
+  - gelb
+  - gerettet
+  - heimische Pflanzen
+  - kostenlos
+  - malus Royalty
+  - nachhaltig
+  - nachhaltig Gärtnern
+  - nachwachsendes Gemüse
+  - panaschierte Pflanzen
+  - plastikfrei
+  - regrow
+  - rezepte
+  - samenfeste Sorten
+  - schwachwachsende Unterlage
+  - selber machen
+  - trockenheitsverträgliche Pflanzen
+  - umweltfreundlich gärtnern
+  - urbanes Gärtnern
+  - weißer Garten
+  - winterfest
+  - Äpfel
+  - Öffentliche Gärten
+  - Ölkäfer
+  - Übertöpfe
+  relme:
+    https://guenstiggaertnern.blogspot.com/: true
+    https://www.blogger.com/profile/15240511233143510506: true
+  last_post_title: Platz da!
+  last_post_description: ""
+  last_post_date: "2026-09-05T07:56:29+02:00"
+  last_post_link: https://guenstiggaertnern.blogspot.com/2026/09/platz-da.html
+  last_post_categories:
+  - Regentonne
+  - Regenwasser
+  - Wasser
+  - Wassersparen
+  last_post_language: ""
+  last_post_guid: ff4cbfeb5ef9c7a3ba15d436c56e1177
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 29
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 295
+---

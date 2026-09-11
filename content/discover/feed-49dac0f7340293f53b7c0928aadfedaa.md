@@ -1,6 +1,6 @@
 ---
 title: Talk Python To Me
-date: "2026-01-23T19:29:41Z"
+date: "2026-09-10T14:59:40Z"
 description: |-
   Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive
               deep into the popular packages and software developers, data scientists, and incredible
@@ -12,9 +12,6 @@ params:
     https://talkpython.fm/: true
   blogrolls: []
   in_blogrolls:
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Planet Python
     description: ""
     id: 63826648a34be342fc027f97571f1a6c
@@ -29,23 +26,19 @@ params:
     https://mkennedy.codes/: true
     https://talkpython.fm/: true
     https://training.talkpython.fm/: true
-  last_post_title: '#535: PyView: Real-time Python Web Apps'
+  last_post_title: '#562: DuckLake: The Lakehouse That''s Just SQL and Parquet'
   last_post_description: |-
-    Guest
-    Larry Ogrodnek: hachyderm.io
+    Pedro Holanda joined DuckDB in 2018, when it was still a research prototype at CWI. He's the lead DuckLake developer. Guillermo Sanchez Dionis works on DuckLake and the new Quack protocol.
 
-    pyview.rocks: pyview.rocks
-    Phoenix LiveView: github.com
-    this section: pyview.rocks
-    Core Concepts: pyview.rocks
-    Socket and Context: pyview.rocks
-    Event Handling:
-  last_post_date: "2026-01-23T19:29:41Z"
-  last_post_link: https://talkpython.fm/episodes/show/535/pyview-real-time-python-web-apps
+
+
+    With
+  last_post_date: "2026-09-10T14:59:40Z"
+  last_post_link: https://talkpython.fm/episodes/show/562/ducklake-the-lakehouse-thats-just-sql-and-parquet
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: 3459e468037d483cc215c2806f877f71
+  last_post_guid: 8b3df21933f4bc1720932fa46e745db0
   score_criteria:
     cats: 1
     description: 3
@@ -63,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 534
+  postcount: 561
   avgpostlen: 0
 ---

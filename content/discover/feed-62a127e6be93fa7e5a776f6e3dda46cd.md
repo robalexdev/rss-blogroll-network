@@ -8,9 +8,13 @@ params:
   feedtype: rss
   feedid: 62a127e6be93fa7e5a776f6e3dda46cd
   websites:
+    https://stevehanov.ca/blog: false
     https://stevehanov.ca/blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

@@ -10,18 +10,15 @@ params:
     https://jeffbridgforth.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Kagi Small Web OPML
-    description: ""
-    id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: Personal sites are awesome!
     description: ""
     id: 2561079dc6b23262f5202eb5bc528075
@@ -30,22 +27,20 @@ params:
     id: 11fe580930b6a693dba9a3372a800841
   recommended: []
   recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
+  - https://chrisburnell.com/feed.xml
   categories:
   - Weeknotes
   relme: {}
-  last_post_title: Weeknotes 26:18
-  last_post_description: Graduation, Part 1 My youngest graduated Summa Cum Laude
-    from Chattanooga State Community College on Friday night. I am very proud of all
-    she achieved in the past two years. She performed in four
-  last_post_date: "2026-05-03T22:56:35Z"
-  last_post_link: https://jeffbridgforth.com/weeknotes-may-3-2026/
+  last_post_title: Weeknotes 26:36
+  last_post_description: Front End Study Hall I attended Front End Study Hall this
+    week. I participated more in the discussion this week. Joe kicked us off talking
+    about HTML email and he mentioned MJML. I mentioned that
+  last_post_date: "2026-09-07T22:09:37Z"
+  last_post_link: https://jeffbridgforth.com/weeknotes-september-8-2026/
   last_post_categories:
   - Weeknotes
   last_post_language: ""
-  last_post_guid: ab9a763176beaaa7442f47e1faa0d5bc
+  last_post_guid: 9c8b64266d429700c582526704a30803
   score_criteria:
     cats: 0
     description: 3

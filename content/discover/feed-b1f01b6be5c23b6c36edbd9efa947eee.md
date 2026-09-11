@@ -10,7 +10,10 @@ params:
     https://molodtsov.me/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,15 +30,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: How Linear Turned Craft Into a B2B Growth Strategy
-  last_post_description: Linear is an opinionated project management platform designed
-    for high-performing software development and product teams. It was built as an
-    opposition to JIRA, the “most hated software” ever
-  last_post_date: "2026-08-20T13:15:00Z"
-  last_post_link: https://molodtsov.me/2026/08/how-linear-turned-craft-a-b2b-growth-strategy/
+  last_post_title: How Vercel Turned Shipping Into Its Brand
+  last_post_description: Developer-tool companies have a weird problem. The products
+    that often earn them the most attention are the ones they give away. A framework,
+    SDK, or open standard can reach millions of people before
+  last_post_date: "2026-09-03T16:27:46+01:00"
+  last_post_link: https://molodtsov.me/2026/09/how-vercel-turned-shipping-into-its-brand/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9cc905ecd03b57730ace77b7a0d1989f
+  last_post_guid: b51460a1934fcd5b334dcfc42e44195d
   score_criteria:
     cats: 0
     description: 3

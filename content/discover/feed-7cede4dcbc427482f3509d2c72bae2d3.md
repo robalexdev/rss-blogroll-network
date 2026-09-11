@@ -61,16 +61,17 @@ params:
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Launchpad
+  last_post_title: Fault Taunting
   last_post_description: ""
-  last_post_date: "2026-08-28T04:00:00Z"
-  last_post_link: https://xkcd.com/3291/
+  last_post_date: "2026-09-09T04:00:00Z"
+  last_post_link: https://xkcd.com/3296/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5b954054a16f6f676cc4efb7c2622aa
+  last_post_guid: 58f9ef05655ee0861115aa5a5b45fd56
   score_criteria:
     cats: 0
     description: 3

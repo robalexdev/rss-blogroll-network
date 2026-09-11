@@ -8,9 +8,13 @@ params:
   feedid: fe3ff130a8a17ad26f9d5bab0eb550e7
   websites:
     https://karagila.org/: true
+    https://karagila.org/blog.html: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

@@ -10,7 +10,10 @@ params:
     https://www.inthemargins.ca/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -35,20 +38,21 @@ params:
     description: ""
     id: 03553abc85517218f421d95a82a6f691
   recommended: []
-  recommender: []
+  recommender:
+  - https://roytang.net/index.xml
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: Wind turbines
+  last_post_title: 'Media Diet: July and August 2026'
   last_post_description: |-
-    Just as you enter Chatham-Kent, they rise into the sky. They are majestic.
-    The first part of the drive to Essex County from London along the 401 is soporific. In most cases, the highway is empty, the
-  last_post_date: "2026-08-27T16:27:00-04:00"
-  last_post_link: https://www.inthemargins.ca/wind-turbines
+    A quick look at the movies, television shows, music, and books that have captured my attention over the past two months.
+    Widow’s Bay Horror isn’t generally something I enjoy, but this show was
+  last_post_date: "2026-08-29T14:38:00-04:00"
+  last_post_link: https://www.inthemargins.ca/media-diet-0826
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2010306f4609ba06938c4f83d171ba39
+  last_post_guid: 1dcd069262b7748c51072010e02fefe2
   score_criteria:
     cats: 0
     description: 3

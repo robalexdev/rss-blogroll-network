@@ -1,8 +1,8 @@
 ---
 title: Kitty Giraudel
-date: "2026-02-03T12:56:13Z"
-description: I’m Kitty Giraudel, a transfeminine web engineer based in Berlin, focused
-  on accessibility and inclusivity.
+date: "2026-08-23T13:31:21Z"
+description: I’m Kitty Giraudel, a frontend developer and engineering leader based
+  in Berlin, focused on accessibility and inclusivity.
 params:
   feedlink: https://kittygiraudel.com/rss/index.xml
   feedtype: atom
@@ -11,7 +11,10 @@ params:
     https://kittygiraudel.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -27,14 +30,17 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories: []
-  relme: {}
-  last_post_title: Cursor for UI work
-  last_post_description: ""
-  last_post_date: "2026-02-03T00:00:00Z"
-  last_post_link: https://kittygiraudel.com/2026/02/03/cursor-for-ui-work/
+  relme:
+    https://github.com/KittyGiraudel: true
+    https://kittygiraudel.com/: true
+  last_post_title: Nerdy Design Details
+  last_post_description: A closer look at the recent design changes Iâ€™ve made to
+    this website, and the code behind them.
+  last_post_date: "2026-08-23T13:31:21Z"
+  last_post_link: https://kittygiraudel.com/2026/02/26/nerdy-design-details/index.md
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 636872ea4087b7ee185c63544265548b
+  last_post_guid: 497ebf72743acbe97ca373b8a26575db
   score_criteria:
     cats: 0
     description: 3
@@ -44,14 +50,14 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 370
-  avgpostlen: 203
+  postcount: 404
+  avgpostlen: 216
 ---

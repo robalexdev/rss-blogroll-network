@@ -13,13 +13,16 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Blogroll
     description: ""
     id: fda84502db7085febafcd07db448a7b5
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: ""
+  - title: Blogroll - Jan-Lukas Else
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: Kagi Small Web OPML
@@ -35,7 +38,8 @@ params:
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme: {}
   last_post_title: Oh Right, I Have A Blog

@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-08-27T00:00:00+02:00"
+date: "2026-09-09T09:40:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Brightly Shining by Ingvild H. Rishøi
-  last_post_description: "Book title: Brightly Shining\n            Author: Ingvild
-    H. Rishøi\n            Rating: 3.5/5\n        \n        \n        A short, sad
-    book with beautiful prose.        \n                Where to buy"
-  last_post_date: "2026-08-27T00:00:00+02:00"
-  last_post_link: https://overkill.wtf/reading/brightly-shining-ingvild-h-rishoi
+  last_post_title: dbrand goes mnml
+  last_post_description: 'Introducing: the minimalist phone case.™ Available for twelve
+    devices across Apple, Samsung, and Google. Nothing fancy, just a nice sandstone
+    texture and four colorways. Also, a magnetic wallet'
+  last_post_date: "2026-09-09T09:40:00+02:00"
+  last_post_link: https://overkill.wtf/notes/dbrand-mnml
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: efc076516ca3806b660bd0df662d8559
+  last_post_guid: 4591bc8023691bc85ab9d4355d00f5bf
   score_criteria:
     cats: 0
     description: 3

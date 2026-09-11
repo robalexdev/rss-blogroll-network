@@ -1,0 +1,540 @@
+---
+title: Too Much Horror Fiction
+date: "2026-09-11T00:39:26-07:00"
+description: ""
+params:
+  feedlink: https://toomuchhorrorfiction.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 6b0d4a7b3cd4ff80ebaa0ff29fdf7a81
+  websites:
+    https://toomuchhorrorfiction.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - '''30s'
+  - '''40s'
+  - '''50s'
+  - '''60s'
+  - '''70s'
+  - '''80s'
+  - '''90s'
+  - 1900s
+  - 19th century
+  - DAW books
+  - Halloween
+  - a. merritt
+  - ace books
+  - ace fantasy books
+  - alan ryan
+  - alfred hitchcock
+  - algernon blackwood
+  - amityville horror
+  - anchor books
+  - andrew neiderman
+  - anne rice
+  - anne rivers siddons
+  - anthology
+  - arkham house
+  - arrow books
+  - arthur machen
+  - august derleth
+  - avon books
+  - award books
+  - baen books
+  - ballantine adult fantasy
+  - ballantine books
+  - bantam books
+  - barbara michaels
+  - barclay shaw
+  - bari wood
+  - barry hammond
+  - bart books
+  - beagle books
+  - belmont books
+  - ben perini
+  - berkley  medallion books
+  - berkley books
+  - berkley medallion books
+  - bernard taylor
+  - bernie wrightson
+  - bestsellers
+  - bigfoot
+  - blackwater series
+  - bloody books of halloween
+  - bob foster
+  - bob larkin
+  - books of blood
+  - borderlands series
+  - boris vallejo
+  - brad strickland
+  - bram stoker
+  - brian hodge
+  - brian lumley
+  - brian mcnaughton
+  - brian n ball
+  - british
+  - brother theodore
+  - campbell armstrong
+  - campbell black
+  - cannibalism
+  - carl dreadstone
+  - carl jacobi
+  - carlyle books
+  - carroll and graf books
+  - charles beaumont
+  - charles birkin
+  - charles l. grant
+  - charles sovek
+  - charter books
+  - charter diamond books
+  - chelsea quinn yarbro
+  - chet williamson
+  - christopher pike
+  - clark ashton smith
+  - classic
+  - clive barker
+  - colin wilson
+  - collectible
+  - corgi books
+  - cornell woolrich
+  - coronet books
+  - craig spector
+  - creature horror
+  - creepy kids
+  - crest books
+  - crime horror
+  - critic's choice books
+  - cthulhu mythos
+  - curtis books
+  - da capo press
+  - dan simmons
+  - daniel h gower
+  - daniel rhodes
+  - daphne du maurier
+  - dario campanile
+  - dark fantasy
+  - dark harvest
+  - darrell schweitzer
+  - dave pedneau
+  - david b. silva
+  - david g. hartwell
+  - david j. schow
+  - david mann
+  - david morrell
+  - david palladini
+  - david seltzer
+  - davis grubb
+  - dean r. koontz
+  - dell abyss
+  - dell books
+  - dennis etchison
+  - dinosaurs
+  - dnf
+  - don brautigam
+  - don ivan punchatz
+  - donald m. grant books
+  - douglas borton
+  - douglas clegg
+  - douglas winter
+  - dracula
+  - duffy stein
+  - ecohorror
+  - ed gorman
+  - ed naha
+  - ed soyka
+  - ehren ehly
+  - elaine bergstrom
+  - elizabeth engstrom
+  - elizabeth massie
+  - eric c higgs
+  - evil eighties
+  - f. paul wilson
+  - fangoria
+  - favorite
+  - favorite horror stories
+  - fawcett crest books
+  - fawcett gold medal
+  - fawcett pop lib
+  - felice picano
+  - florence stevenson
+  - folk horror
+  - fontana books
+  - frank belknap long
+  - frank defelitta
+  - frank frazetta
+  - frank lauria
+  - frank utpatel
+  - frankenstein
+  - frankenstein horror series
+  - fred saberhagen
+  - french
+  - fritz leiber
+  - futura books
+  - gahan wilson
+  - garrett boatman
+  - gary brandner
+  - gene lazuta
+  - gene szafran
+  - george r.r. martin
+  - george romero
+  - george ziel
+  - gervasio gallardo
+  - ghosts
+  - glenn hastings
+  - gothic horror
+  - gothic romance
+  - graham masterton
+  - graphic horror
+  - gregory a. douglas
+  - guy n. smith
+  - h. tom hall
+  - hamlyn books
+  - harlan ellison
+  - harper collins pub
+  - harper pub
+  - harry adam knight
+  - harry bennett
+  - haunted house
+  - hb jove books
+  - hector garrido
+  - historical horror
+  - hollywood
+  - horror fanzines
+  - horror fiction help
+  - horror from the pulps
+  - horror magazines
+  - horrorscope series
+  - hugh zachary
+  - iain m banks
+  - ian miller
+  - ira levin
+  - j.g. ballard
+  - j.n. williamson
+  - jack cady
+  - jack finney
+  - jack ketchum
+  - jacqueline marten
+  - james ellroy
+  - james herbert
+  - james kisner
+  - james plumeri
+  - jaws
+  - jean ray
+  - jeff gelb
+  - jeff jones
+  - jeffrey catherine jones
+  - jeffrey konvitz
+  - jeffrey sackett
+  - jere cunningham
+  - jill bauman
+  - jim thiesen
+  - jim warren
+  - jk potter
+  - joan samson
+  - joe devito
+  - joe lansdale
+  - john blackburn
+  - john coyne
+  - john farris
+  - john halkin
+  - john holmes
+  - john melo
+  - john russo
+  - john saul
+  - john shirley
+  - john skipp
+  - john tigges
+  - joseph mugnaini
+  - joseph payne brennan
+  - jove
+  - jove books
+  - joy fielding
+  - joyce carol oates
+  - karl edward wagner
+  - kathe koja
+  - kathryn ptacek
+  - ken barr
+  - ken eulo
+  - ken greenhall
+  - kids' books
+  - kim antieu
+  - kim newman
+  - kirby mccauley
+  - kit reed
+  - kitty telefair series
+  - l.a. morse
+  - laird koenig
+  - lancer books
+  - lawrence block
+  - lee brown coye
+  - lee duigon
+  - leisure books
+  - les daniels
+  - les edwards
+  - les katz
+  - leslie whitten
+  - linda crockett gray
+  - lisa cantrell
+  - lisa falkenstern
+  - lisa tuttle
+  - literary horror
+  - london
+  - lou feck
+  - lovecraft
+  - lucy taylor
+  - lynn biederstadt
+  - m. john harrison
+  - major books
+  - manley wade wellman
+  - manly wade wellman
+  - manor books
+  - marshall arisman
+  - martin cruz smith
+  - mary higgins clark
+  - mary shelley
+  - matthew j costello
+  - matthieu blanchin
+  - melanie tem
+  - melissa mia hall
+  - michael avallone
+  - michael blumlein
+  - michael linaker
+  - michael mcdowell
+  - michael slade
+  - michael talbot
+  - michael whelan
+  - mort castle
+  - mummies
+  - murray tinkelman
+  - mystery
+  - nancy collins
+  - nancy holder
+  - neil gaiman
+  - new english library
+  - new orleans
+  - new york city
+  - nick sharman
+  - night visions series
+  - nonfiction
+  - novel
+  - novelizations
+  - novella
+  - novels
+  - occult horror
+  - onyx books
+  - other stuff
+  - owen brookes
+  - pageant books
+  - pan books
+  - panther books
+  - paperback library
+  - paperback library pub
+  - paperbacks from hell
+  - paperjacks pub
+  - patricia wallace
+  - paul f. olson
+  - paul stinson
+  - penguin books
+  - peter benchley
+  - peter caras
+  - peter d. pautz
+  - peter haining
+  - peter saxon
+  - peter straub
+  - peter tremayne
+  - philip k. dick
+  - philip nutman
+  - philip straker
+  - pierce nace
+  - pinnacle books
+  - playboy paperbacks
+  - playboy press
+  - pocket books
+  - pocket horror
+  - poe
+  - poppy z. brite
+  - popular library
+  - popular library books
+  - psychic horror
+  - psychological horror
+  - pulp horror
+  - pulps
+  - pyramid books
+  - quiet horror
+  - r. chetwynd-hayes
+  - r.h. barlow
+  - ramsey campbell
+  - ray bradbury
+  - ray garton
+  - ray russell
+  - read
+  - rex miller
+  - richard bachman
+  - richard christian matheson
+  - richard laymon
+  - richard lortz
+  - richard matheson
+  - richard newton
+  - richard powers
+  - rick hautala
+  - roald dahl
+  - robert aickman
+  - robert arthur smith
+  - robert bloch
+  - robert e. howard
+  - robert heindel
+  - robert holdstock
+  - robert lory
+  - robert m price
+  - robert marasco
+  - robert mccammon
+  - robert payne brennan
+  - robert w. chambers
+  - rod serling
+  - roger kastel
+  - roland topor
+  - rowena morrill
+  - ruby jean jensen
+  - russ martin
+  - russell rhodes
+  - s.p. somtow
+  - s.t. joshi
+  - san francisco
+  - sarban
+  - satanic horror
+  - science fiction horror
+  - scream/press
+  - serial killer
+  - sexy horror
+  - shadows series
+  - shaun hutson
+  - shirley jackson
+  - short stories
+  - signet books
+  - slasher
+  - southern gothic
+  - sphere books
+  - splatterpunk
+  - st martins press
+  - stanley wiater
+  - star books
+  - stephen gallagher
+  - stephen gregory
+  - stephen gresham
+  - stephen jones
+  - stephen king
+  - stephen laws
+  - steve crisp
+  - steve rasnic tem
+  - steven r. boyett
+  - stuart david schiff
+  - summer of sleaze
+  - suzy mckee charnas
+  - t.e.d. klein
+  - t.m. wright
+  - tandem books
+  - tanith lee
+  - terry oakes
+  - theodore sturgeon
+  - thomas altman
+  - thomas f. monteleone
+  - thomas harris
+  - thomas ligotti
+  - thomas monteleone
+  - thomas tessier
+  - thomas tryon
+  - tim white
+  - tom hallman
+  - tor books
+  - tor horror
+  - tower books
+  - twilight zone
+  - unread
+  - v.c. andrews
+  - valancourt books
+  - vampires
+  - vc andrews
+  - victor kalin
+  - victor valla
+  - vietnam
+  - virgil finlay
+  - voodoo
+  - warner books
+  - wayne d. barlowe
+  - weird horror
+  - weird tales
+  - werewolves
+  - white wolf borealis
+  - whitley strieber
+  - william browning spencer
+  - william dobson
+  - william f. nolan
+  - william hallahan
+  - william hjortsberg
+  - william hope hodgson
+  - william johnstone
+  - william peter blatty
+  - william schoell
+  - william sloane
+  - william teason
+  - witches
+  - year's best horror
+  - young adult
+  - zebra books
+  - zombies
+  relme:
+    https://neatcleanshavedsober.blogspot.com/: true
+    https://panicon4july.blogspot.com/: true
+    https://toomuchhorrorfiction.blogspot.com/: true
+    https://www.blogger.com/profile/16285306262078600804: true
+  last_post_title: 'Hiding an Ungodly Horror: The Cover Art of Paul Stinson'
+  last_post_description: The artist Paul Stinson (aka Paul E. Stinson) was born in
+    New Jersey on this date in 1953. More prolific in the science fiction/fantasy
+    fields, he also illustrated the cover art for a good handful
+  last_post_date: "2026-09-05T20:24:57-07:00"
+  last_post_link: https://toomuchhorrorfiction.blogspot.com/2026/09/hiding-ungodly-horror-cover-art-of-paul.html
+  last_post_categories:
+  - '''70s'
+  - '''80s'
+  - '''90s'
+  - avon books
+  - graham masterton
+  - kathryn ptacek
+  - paul stinson
+  - pinnacle books
+  - ramsey campbell
+  - tor horror
+  - whitley strieber
+  last_post_language: ""
+  last_post_guid: ddc6444c3ccceef1679927e3beec126c
+  score_criteria:
+    cats: 5
+    description: 0
+    feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 23
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 0
+---

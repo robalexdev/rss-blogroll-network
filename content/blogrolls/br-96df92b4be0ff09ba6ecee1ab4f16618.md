@@ -13,4 +13,7 @@ params:
     description: The media pundit's pundit. Written by NYC insider Jeff Jarvis, BuzzMachine
       covers news, media, journalism, and politics.
     id: 855ad650b2e09241d7acb41653d5eac0
+  - title: Airminded
+    description: ""
+    id: 97c15b549faf1652d95811969fe9b36a
 ---

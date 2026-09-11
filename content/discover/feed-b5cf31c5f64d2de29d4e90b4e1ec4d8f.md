@@ -10,6 +10,9 @@ params:
     https://zylinski.se/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -20,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Tom''s Namespaces: An Odin Fanfic'
-  last_post_description: Tom likes making games. He has worked professionally as a
-    game developer, but he also likes to make games in his free time, as a hobby.
-    He makes these hobby games in a “from scratch” kind of way.
-  last_post_date: "2026-05-11T12:15:00+01:00"
-  last_post_link: https://zylinski.se/posts/toms-namespaces/
+  last_post_title: Named Return Values Without Oopsies
+  last_post_description: |-
+    I have devised a new way of working with named return values in Odin. In some situations, named return values tend to make me a bit uneasy. This new way removes that.
+    This is a subtle problem with a
+  last_post_date: "2026-09-01T22:35:00+01:00"
+  last_post_link: https://zylinski.se/posts/named-return-values-without-oopsies/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ff0c88567046f0086a910ae1a3d84c1
+  last_post_guid: fbc8c532f9e2a51e10dc93858ef71339
   score_criteria:
     cats: 0
     description: 3

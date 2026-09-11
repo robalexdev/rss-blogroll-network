@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: b6221caf9eccabaca40847ed0084e3cf
   websites:
+    http://www.weakphi.sh/: false
     https://www.weakphi.sh/: true
   blogrolls: []
   in_blogrolls:

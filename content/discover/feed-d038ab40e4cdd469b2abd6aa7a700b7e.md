@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Make Geography Great Again
-  last_post_description: What’s in a name?
-  last_post_date: "2026-08-28T10:30:23Z"
-  last_post_link: https://paulkrugman.substack.com/p/make-geography-great-again
+  last_post_title: The Long Decline of America
+  last_post_description: It began decades before Trump
+  last_post_date: "2026-09-11T10:31:00Z"
+  last_post_link: https://paulkrugman.substack.com/p/the-long-decline-of-america
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 681fd9dfa71edeec32ed67b8375df61c
+  last_post_guid: ca5bf05ea5d52a1e2ca8753f82992404
   score_criteria:
     cats: 0
     description: 3

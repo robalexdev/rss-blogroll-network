@@ -24,14 +24,14 @@ params:
   categories:
   - Daily Rundown
   relme: {}
-  last_post_title: "\U0001F6CE️ Claude Just Killed The World Models"
-  last_post_description: 'Plus: AGI Means Nothing Now, Agents Hit The Insurance Table'
-  last_post_date: "2026-08-28T10:00:15Z"
-  last_post_link: https://aisecret.us/claude-just-kill-the-world-models/
+  last_post_title: "\U0001F6CE️ The Frontier Labs Lost the Moat"
+  last_post_description: 'Plus: ChatGPT Is Now a Slot, The Moon Expert Became a Model'
+  last_post_date: "2026-09-11T10:00:06Z"
+  last_post_link: https://aisecret.us/the-frontier-labs-lost-the-moat/
   last_post_categories:
   - Daily Rundown
   last_post_language: ""
-  last_post_guid: 17e690aedeb637469626e7b6f099eb48
+  last_post_guid: c7d06630ed7a23b3f38b76b930a55720
   score_criteria:
     cats: 0
     description: 3

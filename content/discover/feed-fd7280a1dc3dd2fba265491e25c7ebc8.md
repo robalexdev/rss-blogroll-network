@@ -14,7 +14,10 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -23,42 +26,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Futures & Foresight
   - In English
-  - Linkler | Links
   - Not Defteri | Notebook
-  - citrini
-  - financial times
-  - foresight
-  - futures
-  - johannes kleske
-  - paul graham raven
-  - scenario planning
+  - Status Updates
+  - Weekstarter
+  - jay springett
+  - pens
+  - status report
+  - tools
+  - turnstile
+  - weekstarter
   relme:
     https://ahmetasabanci.com/: true
     https://mastodon.social/@ahmetasabanci: true
-  last_post_title: Notes On That 2028 Prediction
-  last_post_description: Let's talk about why the Citrini "scenario" falls short on
-    being a proper and useful scenario and why you shouldn't try to market your predictions
-    as scenarios — especially in times like these.
-  last_post_date: "2026-03-04T13:18:43Z"
-  last_post_link: https://ahmetasabanci.com/notes-on-that-2028-prediction/
+  last_post_title: Distracting Tools | Weekstarter 36-2026
+  last_post_description: Weekstarter is here. Come and get your weekly updates, links,
+    recommendations, and how I can easily get distracted by pens or any other tool
+    I use.
+  last_post_date: "2026-09-01T18:39:08Z"
+  last_post_link: https://ahmetasabanci.com/distracting-tools-weekstarter-36-2026/
   last_post_categories:
-  - AI
-  - Futures & Foresight
   - In English
-  - Linkler | Links
   - Not Defteri | Notebook
-  - citrini
-  - financial times
-  - foresight
-  - futures
-  - johannes kleske
-  - paul graham raven
-  - scenario planning
+  - Status Updates
+  - Weekstarter
+  - jay springett
+  - pens
+  - status report
+  - tools
+  - turnstile
+  - weekstarter
   last_post_language: ""
-  last_post_guid: b3d7ef161146912a5e431554c782a7b9
+  last_post_guid: 5b5ea4921ccc6c24a70fafa44468ef6c
   score_criteria:
     cats: 0
     description: 3

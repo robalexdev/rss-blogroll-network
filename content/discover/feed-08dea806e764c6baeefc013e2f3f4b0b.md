@@ -1,6 +1,6 @@
 ---
 title: Energy Flash
-date: "2026-08-25T20:43:03-07:00"
+date: "2026-09-10T22:43:31-07:00"
 description: "\"My purpose was simple: to catch the feel, the pulse of rock, as I
   had lived through it. What I was after was guts, and flash, and energy, and speed\"
   - NIK COHN - \n-----------------------------------"
@@ -12,7 +12,10 @@ params:
     https://energyflashbysimonreynolds.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -413,6 +416,7 @@ params:
   - CLAUDE VONSTROKE
   - CLOUD 9
   - CLOUDS
+  - CLOUDY
   - CLUB CULTURE
   - CLUB MUSIC
   - CLUBS
@@ -608,6 +612,7 @@ params:
   - DJ SS
   - DJ TRACE
   - DJ TRAX
+  - DJ VIBES
   - DJ WRONGSPEED
   - DJ YT
   - DJ ZINC
@@ -679,6 +684,7 @@ params:
   - ED SOLO
   - EDAM
   - EDGE
+  - EDIFICATION
   - EDM
   - EDM-ADJACENT
   - EDWARD TATNALL CANBY
@@ -1422,6 +1428,7 @@ params:
   - NIGHTCORE
   - NIGHTMARES ON WAX
   - NIK COHN
+  - NIKOLINA
   - NILE RODGERS
   - NINETIES
   - NITRO DELUXE
@@ -1444,6 +1451,7 @@ params:
   - NOT CONVINCED
   - NOUGHTIES
   - NOUVEAU ACID
+  - NOVAH
   - NOW THAT'S WHY THEY CALL IT A CONTINUUM FOLKS
   - NOWISM
   - NOWTRO
@@ -1473,6 +1481,7 @@ params:
   - OASIS
   - OAYSIS
   - OBEREK
+  - OBSESSION (MUSIC SO WONDERFUL)
   - ODYSSEY
   - OLD SKOOL HARDCORE
   - OLD SKOOL RAP
@@ -2167,6 +2176,7 @@ params:
   - UK DRILL
   - UK FUNKY
   - UK GARAGE
+  - UK GARAGE HORNS
   - UK GARAGE REVIVAL
   - UK HIP HOP
   - UK MUSIC PRESS
@@ -2543,18 +2553,26 @@ params:
     https://totallywiredinfohype.blogspot.com/: true
     https://twattersimonreynolds.blogspot.com/: true
     https://www.blogger.com/profile/01282478701882900354: true
-  last_post_title: Before the Deejay Was Cool (slight return)
+  last_post_title: Of Instagrammatology (think Zinc)
   last_post_description: ""
-  last_post_date: "2026-08-25T12:29:27-07:00"
-  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/07/before-deejay-was-cool-slight-return.html
+  last_post_date: "2026-09-06T10:21:59-07:00"
+  last_post_link: https://energyflashbysimonreynolds.blogspot.com/2026/09/of-instagrammatology-think-zinc.html
   last_post_categories:
-  - DISCO
-  - MOBILE DISCOTHEQUES
-  - THE PREHISTORY OF DISCO
-  - VOX SOUND LTD
-  - WHEN DEEJAYS WERE UNCOOL
+  - CLOUDY
+  - DJ VIBES
+  - DJ ZINC
+  - EDIFICATION
+  - HAKKEN
+  - HAPPY HARDCORE
+  - HARDCORE CONTINUUM
+  - INSTAGRAM
+  - INSTAGRAMMATOLOGY
+  - JUNGLE
+  - NIKOLINA
+  - NOVAH
+  - OBSESSION (MUSIC SO WONDERFUL)
   last_post_language: ""
-  last_post_guid: 87caab5235fe6a1c0ad768a593d67fd7
+  last_post_guid: 99278bb7aca5872a833b86bccf7ba16d
   score_criteria:
     cats: 5
     description: 3

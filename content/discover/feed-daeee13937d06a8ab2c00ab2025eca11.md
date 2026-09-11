@@ -11,7 +11,10 @@ params:
     https://blog.codingconfessions.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -21,15 +24,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Demand Paging: What Happens When Linux Handles a Page Fault'
-  last_post_description: Understand what happens when you allocate memory versus when
-    you actually access it, what a VMA is, and how the Linux kernel uses VMAs to handle
-    page faults.
-  last_post_date: "2026-08-23T14:22:13Z"
-  last_post_link: https://blog.codingconfessions.com/p/demand-paging-what-happens-when-linux
+  last_post_title: 'Demand Paging in Action: mmap, Page Faults, and RSS'
+  last_post_description: Learn how to inspect a process’s virtual memory, use mmap
+    to allocate pages, and observe page faults and physical memory allocation as they
+    happen
+  last_post_date: "2026-08-29T15:33:30Z"
+  last_post_link: https://blog.codingconfessions.com/p/demand-paging-in-action
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: caa8d51b1f9cce7798a291d7f19665a2
+  last_post_guid: 756e36dd139a935fd9f268daa5043f35
   score_criteria:
     cats: 0
     description: 3

@@ -13,18 +13,15 @@ params:
   - title: Ben Myers's Blogroll
     description: Blogs and newsletters I check on the regular.
     id: bf95fc3fe734baa4e4fdf4b50381791c
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -40,36 +37,30 @@ params:
   - title: RSS subscriptions for stu@alwaystwisted.com
     description: ""
     id: 11fe580930b6a693dba9a3372a800841
-  - title: Dan Q's Blogroll
-    description: ""
-    id: cf55eb3ed10628f3d87eaf0ddb80287f
   recommended: []
   recommender: []
   categories:
-  - UX
   - Web
   - accessibility
-  - browser
-  - rant
-  - usability
+  - html
+  - standards
+  - tables
   relme:
     https://adrianroselli.com/: true
-    https://toot.cafe/@aardrian: true
-  last_post_title: Your Browser Can Already Speak a Page
-  last_post_description: Users can customize the features built into the browser,
-    something not often available from third-party approaches. Is an “AI” company
-    offering to provide spoken versions of your pages for users?
-  last_post_date: "2026-03-05T14:13:59Z"
-  last_post_link: https://adrianroselli.com/2026/03/your-browser-can-already-speak-a-page.html
+  last_post_title: Support for `headers` Attribute
+  last_post_description: This post only covers the headers attribute in HTML tables
+    (ARIA has no headers equivalent). My 2022 post Accessible Cart Tables? showed
+    headers attribute support was poor. In my 2023 post Avoid
+  last_post_date: "2026-09-08T21:21:08Z"
+  last_post_link: https://adrianroselli.com/2026/09/support-for-headers-attribute.html
   last_post_categories:
-  - UX
   - Web
   - accessibility
-  - browser
-  - rant
-  - usability
+  - html
+  - standards
+  - tables
   last_post_language: ""
-  last_post_guid: e4cb901b894fe55784cd8b80bda5b275
+  last_post_guid: adbc781336b1b90da0c9c080073bcec7
   score_criteria:
     cats: 0
     description: 3

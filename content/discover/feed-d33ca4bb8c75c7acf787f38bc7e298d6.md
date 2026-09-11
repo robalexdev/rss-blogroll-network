@@ -1,6 +1,6 @@
 ---
 title: Phil's Workbench
-date: "2026-08-28T22:21:09Z"
+date: "2026-09-11T09:05:56Z"
 description: A daily updated blog typed by someone with painty hands, oil under his
   fingernails and the smell of solder in his nostrils who likes making all sort of
   models and miniatures. And fixing things.
@@ -12,7 +12,10 @@ params:
     https://philsworkbench.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -336,6 +339,7 @@ params:
   - polar bear
   - r2d
   - ragleth
+  - railway modelling
   - review
   - roundhouse
   - scenery
@@ -362,14 +366,14 @@ params:
   - wooden toilet
   - yacht
   relme: {}
-  last_post_title: Another Lego Santa
+  last_post_title: Carrying road vehicles
   last_post_description: ""
-  last_post_date: "2026-08-28T04:30:00Z"
-  last_post_link: https://philsworkbench.blogspot.com/2026/08/another-lego-santa.html
+  last_post_date: "2026-09-11T04:30:00Z"
+  last_post_link: https://philsworkbench.blogspot.com/2026/09/carying-road-vehicles.html
   last_post_categories:
-  - lego
+  - Road vehicles
   last_post_language: ""
-  last_post_guid: 19f75eccf5f63beb69976638e072dcc4
+  last_post_guid: 2f116a2b90cac0faf0a8f6eb30b7ddcb
   score_criteria:
     cats: 5
     description: 3

@@ -20,11 +20,12 @@ params:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: ""
+  - title: Blogroll - Jan-Lukas Else
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme: {}
   last_post_title: Extending life perception

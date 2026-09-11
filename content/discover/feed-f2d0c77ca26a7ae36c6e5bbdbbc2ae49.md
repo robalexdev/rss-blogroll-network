@@ -47,29 +47,25 @@ params:
   recommender:
   - https://josh.blog/feed
   categories:
-  - Maintainers
-  - Open Source
-  - OpenClaw
-  - Security
-  - maintainers
-  - open source
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Copilot app
+  - GitHub Copilot app for Beginners
   relme: {}
-  last_post_title: OpenClaw went viral. Meet the maintainers building and securing
-    it.
+  last_post_title: 'GitHub Copilot app for Beginners: Using the diff, terminal, and
+    browser'
   last_post_description: |-
-    OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.
-    The post OpenClaw went viral. Meet the
-  last_post_date: "2026-08-27T16:00:00Z"
-  last_post_link: https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/
+    Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.
+    The post GitHub Copilot
+  last_post_date: "2026-09-10T21:31:19Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/
   last_post_categories:
-  - Maintainers
-  - Open Source
-  - OpenClaw
-  - Security
-  - maintainers
-  - open source
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Copilot app
+  - GitHub Copilot app for Beginners
   last_post_language: ""
-  last_post_guid: 514dd74823fe7d7fc8aecf9c0b4acb5e
+  last_post_guid: 74d2793e0e2cac5cc6559a425ec75653
   score_criteria:
     cats: 0
     description: 3

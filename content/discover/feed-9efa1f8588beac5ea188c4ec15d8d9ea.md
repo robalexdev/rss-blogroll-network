@@ -13,7 +13,10 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -27,16 +30,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: How to Look the Sky in the Face
-  last_post_description: 'Last week I had a friend for dinner, and she convinced me
-    to do one of her favorite activities afterward: lie on the grass in the park and
-    look at the sky. I was hesitant because I don’t like to'
-  last_post_date: "2026-08-13T16:01:56Z"
-  last_post_link: https://www.raptitude.com/2026/08/how-to-look-the-sky-in-the-face/
+  last_post_title: How to Outlive Your Bucket List
+  last_post_description: When you’re young, making a bucket list – things you want
+    to do before you die — feels like you’re choosing prizes that will arrive in the
+    mail later. I’ll take fluency in Italian, please,
+  last_post_date: "2026-09-07T14:48:39Z"
+  last_post_link: https://www.raptitude.com/2026/09/how-to-outlive-your-bucket-list/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 49bb571e07f6531b2d5ac9647db7b134
+  last_post_guid: efd778ce29b60a6414802d8989f20322
   score_criteria:
     cats: 0
     description: 3

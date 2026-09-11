@@ -1,6 +1,6 @@
 ---
 title: Duarte O.Carmo
-date: "2026-08-25T00:00:00+02:00"
+date: "2026-09-08T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://duarteocarmo.com/feed.xml
@@ -10,7 +10,10 @@ params:
     https://duarteocarmo.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,19 +28,16 @@ params:
   - blog
   relme:
     https://duarteocarmo.com/: true
-  last_post_title: 'Bagaço v3: Now with PDFs and Wikipedia!'
-  last_post_description: |-
-    Source composition and averages.
-
-
-    I'm proud to announce Bagaço v3, the third version of the largest European Portuguese pretraining dataset for large language models.
-    Why a new version? After my
-  last_post_date: "2026-08-25T00:00:00+02:00"
-  last_post_link: https://duarteocarmo.com/blog/bagaco-v3-now-with-pdfs-and-wikipedia.html
+  last_post_title: 'Retrospectiva #11'
+  last_post_description: We've gone from suffering from the heatwave in the south
+    of Europe to complaining about rain in Copenhagen. I don't think I've seen the
+    sun in at least 48 hours. And you know what? I don't miss it
+  last_post_date: "2026-09-08T00:00:00+02:00"
+  last_post_link: https://duarteocarmo.com/blog/retrospectiva-11.html
   last_post_categories:
   - blog
   last_post_language: ""
-  last_post_guid: ca37025d3785a14794381cfe71ccd27b
+  last_post_guid: 31ca712e683085205beabd0148f263b8
   score_criteria:
     cats: 0
     description: 0

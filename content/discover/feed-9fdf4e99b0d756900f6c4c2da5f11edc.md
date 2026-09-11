@@ -1,6 +1,6 @@
 ---
 title: Mark's Notes
-date: "2026-07-28T12:00:00Z"
+date: "2026-09-08T12:00:00Z"
 description: ""
 params:
   feedlink: https://www.kmjn.org/notes/recent.atom
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Porting microgpt to Futhark, Part II
+  last_post_title: Porting microgpt to Futhark, Part III
   last_post_description: ""
-  last_post_date: "2026-07-28T12:00:00Z"
-  last_post_link: https://www.kmjn.org/notes/microgpt_futhark_part2.html
+  last_post_date: "2026-09-08T12:00:00Z"
+  last_post_link: https://www.kmjn.org/notes/microgpt_futhark_part3.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f2c88d30ab149849adfb6561aab9a0a0
+  last_post_guid: 8526e81f79445932462c807246f5bd60
   score_criteria:
     cats: 0
     description: 0

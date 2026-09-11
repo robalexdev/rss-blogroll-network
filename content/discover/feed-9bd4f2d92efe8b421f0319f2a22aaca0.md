@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Christopher Nolan’s Odyssey
-  last_post_description: 'We’re at sea this time on our own Odyssey, a voyage between
-    the ancient epic that refuses to die and Christopher Nolan’s blockbuster movie
-    version for us in this summer of 2026. It’s the story '
-  last_post_date: "2026-08-06T21:03:49Z"
-  last_post_link: https://radioopensource.org/christopher-nolans-odyssey/
+  last_post_title: Voice of a Century
+  last_post_description: We’re savoring a glorious story we thought we knew in the
+    long ordeal of racial justice in America. It was the singer Marian Anderson’s
+    moment in 1939, after the Daughters of the American
+  last_post_date: "2026-09-10T23:36:03Z"
+  last_post_link: https://radioopensource.org/voice-of-a-century/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 55419e634a92f06598caaadf250b5826
+  last_post_guid: 7b5830d005fd5c66399b087239335de7
   score_criteria:
     cats: 1
     description: 3

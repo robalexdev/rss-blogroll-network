@@ -15,7 +15,13 @@ params:
   - title: Daring Fireball
     description: By John Gruber
     id: 9a8beca635082f03992038bfdab4d14d
+  - title: Simon Willison's Weblog
+    description: ""
+    id: a34ee2a885866974aa1f1f41131ac7b6
   - title: Hacker News
     description: Links for the intellectually curious, ranked by readers.
     id: adb7ca764a42bad01a0ccae2df09c2fa
+  - title: cheeaunblog
+    description: ""
+    id: e5e9ce9ef77b85258c10637692c61ed9
 ---

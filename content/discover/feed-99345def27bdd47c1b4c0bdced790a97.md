@@ -1,6 +1,6 @@
 ---
 title: ParaVocê Dev Blog
-date: "2026-08-28T11:33:28Z"
+date: "2026-09-11T05:04:22Z"
 description: |-
   Hi, I'm Evan. I built Thankful to automate customer service for millions of people, which Gladly acquired in 2023.
 
@@ -13,6 +13,9 @@ params:
     https://paravoce.bearblog.dev/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

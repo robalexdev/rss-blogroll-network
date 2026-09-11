@@ -1,0 +1,62 @@
+---
+title: Nicolas Bouliane's blog posts
+date: "2026-09-06T19:32:39+01:00"
+description: Nicolas Bouliane's most recent posts
+params:
+  feedlink: https://nicolasbouliane.com/blog/feed.rss
+  feedtype: rss
+  feedid: e81dbb1dccf52d70ee8f47264ee55cbe
+  websites:
+    https://nicolasbouliane.com/: false
+    https://nicolasbouliane.com/blog: true
+    https://nicolasbouliane.com/projects: false
+    https://nicolasbouliane.com/recipes: false
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories: []
+  relme: {}
+  last_post_title: How to (properly) apply for an apartment viewing
+  last_post_description: |-
+    I am subletting my apartment. Based on the dozens of messages I have received, here are some of the mistakes that might hurt your flat search.
+
+    The mysterious stranger
+    In Berlin, an apartment listing
+  last_post_date: "2026-08-27T00:00:00+01:00"
+  last_post_link: https://nicolasbouliane.com/blog/flat-search-message
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: d429706abcd7dd059c6972a34451dac7
+  score_criteria:
+    cats: 0
+    description: 3
+    feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 17
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: en
+  postcount: 10
+  avgpostlen: 0
+---

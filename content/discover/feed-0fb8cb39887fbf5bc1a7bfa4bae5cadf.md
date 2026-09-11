@@ -1,0 +1,1600 @@
+---
+title: Die or D.I.Y.?
+date: "2026-09-11T10:43:09+02:00"
+description: ""
+params:
+  feedlink: https://dieordiy2.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 0fb8cb39887fbf5bc1a7bfa4bae5cadf
+  websites:
+    https://dieordiy2.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - "012"
+  - "021"
+  - "1916"
+  - "1948"
+  - "1950"
+  - "1951"
+  - "1952"
+  - "1954"
+  - "1955"
+  - "1956"
+  - "1957"
+  - "1958"
+  - "1959"
+  - "1960"
+  - "1961"
+  - "1962"
+  - "1963"
+  - "1964"
+  - "1965"
+  - "1966"
+  - "1967"
+  - "1968"
+  - "1969"
+  - "1970"
+  - "1971"
+  - "1972"
+  - "1973"
+  - "1974"
+  - "1975"
+  - "1976"
+  - "1977"
+  - "1978"
+  - "1979"
+  - "1980"
+  - "1981"
+  - "1982"
+  - "1983"
+  - "1984"
+  - "1985"
+  - "1986"
+  - "1987"
+  - "1988"
+  - "1989"
+  - "1990"
+  - "1991"
+  - "1992"
+  - "1993"
+  - "1994"
+  - "1995"
+  - "1996"
+  - "1997"
+  - "1998"
+  - "1999"
+  - 2. Liga
+  - "2000"
+  - "2001"
+  - "2002"
+  - "2003"
+  - "2004"
+  - "2005"
+  - "2006"
+  - "2007"
+  - "2008"
+  - "2009"
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2013"
+  - "2014"
+  - "2015"
+  - "2016"
+  - "2017"
+  - "2018"
+  - "2019"
+  - "2020"
+  - "2021"
+  - "2022"
+  - "2023"
+  - "2024"
+  - "2025"
+  - "391"
+  - 400 blows
+  - 46000 Fibres
+  - 49 Americans
+  - 5XOD
+  - 5ive Ximes of Dust
+  - 7 From Life
+  - 86:Mix
+  - A Certain Ratio
+  - A La Ping Pong
+  - A Split-Second
+  - A Witness
+  - A.L.Lloyd
+  - A.R. & Machines
+  - AG Geige
+  - AMM
+  - AOR
+  - APF Brigade
+  - ARPH Tapes
+  - ATV
+  - Absolute Body Control
+  - Abstract
+  - Absurd Records
+  - Abwärts
+  - Achim Reichel
+  - Acid House
+  - Action Pussy
+  - Ad Nauseam
+  - Adrenalin O.D.
+  - Adrian Sherwood
+  - Adventures in Reality
+  - Afflicted Man
+  - Africa
+  - Agog
+  - Airway
+  - Alain Neffe
+  - Alan Ginsberg
+  - Alan Licht
+  - Alan Silva
+  - Alan Watts
+  - Albertos Y Lost Trios Paranoias
+  - Aleister Crowley
+  - Algebra Mothers
+  - Algebra Suicide
+  - Alice Coltrane
+  - Alien Brains
+  - All Saved Freak Band
+  - Alternative
+  - Alternomen Unlimited
+  - Alvin Lucier
+  - Ambient
+  - Ambient Black Metal
+  - Ambient Doom
+  - Ambient Metal
+  - Ambient Rock
+  - Amebix
+  - Americana
+  - Amiga
+  - Amok
+  - Amon Düül
+  - Amon Düül II
+  - Amos and Sara
+  - Ampnoise
+  - Anal Cunt
+  - Anal Probe
+  - Ananada Shankar
+  - Anarcho Punk
+  - Andrew Chalk
+  - Androids of Mu
+  - Angus Maclise
+  - Animals and Men
+  - Anne Briggs
+  - Anne Waldman
+  - Another View
+  - Anthrax (uk)
+  - Anthrax for the People
+  - Anti Cimex
+  - Anton Fier
+  - Anton LaVey
+  - Antony Newley
+  - Aphex Twin
+  - Archie Fisher
+  - Archie Shepp
+  - Area
+  - Argentina
+  - Armand Schaubroeck Steals
+  - Arsenal
+  - Art Bears
+  - Arti & Mestieri
+  - Asbestos Rockpyle
+  - Ascension
+  - Ash Ra Tempel
+  - Ashtray Navigations
+  - Asmus Tietchens
+  - Asphixiation
+  - Astral Social Club
+  - Atrax Morgue
+  - Attila The Stockbroker
+  - Attrition
+  - Audiophile Tapes
+  - Aussie Pub Rock
+  - Australia
+  - Autumn
+  - Avant Folk
+  - Avant Garde
+  - Avant Jazz
+  - Avant Rock
+  - Avant pop
+  - Avant-Prog
+  - Azag-Thoth
+  - Azerbaijan
+  - BBC Radiophonic Workshop
+  - BOB
+  - BYG
+  - Badgewearer
+  - Banana Splits
+  - Bandcamp stuff
+  - Barry Bermange
+  - Basil Kirchin
+  - Beat Poetry
+  - Beatsploitation
+  - Bebop
+  - Bees Make Honey
+  - Belfast
+  - Belgium
+  - Bene Gesserit
+  - Benjamin Zephaniah
+  - Berlin School
+  - Bescombes-Rizet
+  - Besthoven
+  - Betley Welcomes Careful Drivers
+  - Beyond The Implode
+  - Big City Orchestra
+  - Big Jim Sullivan
+  - Big Stick
+  - Bill Nelson
+  - Bill Plummer
+  - Bing Selfish
+  - Birchville Cat Motel
+  - Birmingham
+  - Biting Tongues
+  - Black Dwarf Recordings
+  - Black Metal
+  - Black Tambourine
+  - Blackpool
+  - Blah Blah Blah
+  - Blitzkrieg Bop
+  - Blue Humans
+  - Blue Midnight
+  - Bluegrass
+  - Bluurg Tapes
+  - Boards Of Canada
+  - Bob Cobbing
+  - Bob Trimble
+  - Bobb Trimble
+  - Bobby Beausoleil
+  - Bogshed
+  - Bohemia
+  - Bona Dish
+  - Boots For Dancing
+  - Boredoms
+  - Bourbonese Qualk
+  - Bovva Rock
+  - Boyd Rice
+  - Brad Laner
+  - Bram Tchaikovsky
+  - Brazil
+  - Brian Eno
+  - Brian Hodgson
+  - Bridget St John
+  - Brighter
+  - Brighton
+  - Brion Gysin
+  - Bristol
+  - Brit Funk
+  - British Electric Foundation
+  - Broken Flag
+  - Bron Area
+  - Bulgaria
+  - Bullshit Detector
+  - Burden Of Friendship
+  - Burzum
+  - Buzzcocks
+  - C-86
+  - C.C.C.C.
+  - CAN
+  - COUM Transmissions
+  - Cabaret Voltaire.
+  - Calypso Now
+  - Camberwell Now
+  - Cambridge
+  - Campingsex
+  - Campo Di Marte
+  - Canada
+  - Canterbury Scene
+  - Captain Beefheart
+  - Carcass
+  - Cardboards
+  - Career retrospectives
+  - Carl Matthews
+  - Carlisle
+  - Casual Labourers
+  - Ceramic Hobs
+  - Cerrone
+  - Charlemagne Palestine
+  - Charles Amirkhanian
+  - Charles Bukowski
+  - Charles Manson
+  - Charlie Mingus
+  - Chas and Dave
+  - Chemicals Made From Dirt
+  - Chemotherapy
+  - Cherry Red
+  - Childrens Music
+  - Chim Kothari
+  - Chocolate Monk
+  - Chorchazade
+  - Chris Carter
+  - Chris and Cosey
+  - Christian Rock
+  - Christmas
+  - Church Universal And Triumphant
+  - City of Worms
+  - Claire Thomas And Susan Vezey
+  - Clara Rockmore
+  - Clark Coolidge
+  - Classic Rock
+  - Classical
+  - Cleaners From Venus
+  - Clifford Thornton
+  - Cloaven Cassettes
+  - Clock DVA
+  - Cluster
+  - Coil
+  - Cold War
+  - Cold Wave
+  - Colin Newman
+  - Colin Potter
+  - Color Tapes
+  - Combo Fh
+  - Come Org
+  - Comedy
+  - Compilations
+  - Con-Dom
+  - Concrete
+  - Conrad Schnitzler
+  - Consumer Electronics
+  - Controlled Bleeding
+  - Controls
+  - Cornelius Cardew
+  - Cosey Fanni Tutti
+  - Country and western
+  - Coventry
+  - Crash Course In Science
+  - Crass
+  - Crass Records
+  - Crawling With Tarts
+  - Crispy Ambulance
+  - Criswell
+  - Croiners
+  - Crust
+  - Crust Punk
+  - Cult Figures
+  - Cybe
+  - Czechoslavakia
+  - Czeslaw Niemen
+  - D-Beat
+  - DDR
+  - DDR Synth
+  - DIRT
+  - DZ Lectric
+  - DaDa
+  - Dada Computer
+  - Dandelion records
+  - Daniel Johnston
+  - Danny and the Dressmakers
+  - Daphne Oram
+  - Dark Day
+  - Dark Wave
+  - Das Cassetten Combinat
+  - Das Ding
+  - Das Synthetisches Mischgewebe
+  - Data-Bank-A
+  - Dave & Toni Arthur
+  - Dave Jones
+  - Dave Swarbrick
+  - Dave prescott
+  - Davey Williams
+  - David Bowie
+  - David Cunningham
+  - David Jackman
+  - David Koresh
+  - David Toop
+  - David Tudor
+  - David Welsh
+  - De Brassers
+  - Dead
+  - Death
+  - Death By Milkfloat
+  - Death Metal
+  - Deathranch
+  - Debt Of Nature
+  - Deep Freeze Mice
+  - Deleted Records
+  - Delia Derbyshire
+  - Denmark
+  - Der Akteur
+  - Der Plan
+  - Derek Bailey
+  - Desperate Bicycles
+  - Detroit Techno
+  - Deutsch Amerikanische Freundschaft
+  - Deviants
+  - Diagram Brothers
+  - Diamond Head
+  - Dickie Landry
+  - Die Gesunden
+  - Die Haut
+  - Die Krupps
+  - Die Magdalene Keibel Combo
+  - Die Trip Computer Die!
+  - Die Tödliche Doris
+  - Die or DIY Mixtapes
+  - Dining Out Records
+  - Dirge Punk
+  - Disco
+  - Dislocation Dance
+  - Dog Faced Hermans
+  - Dogliveroil
+  - Dome
+  - Don Cherry
+  - Don Harper
+  - Don Morrow
+  - Doo-Dooettes
+  - Doof
+  - Doom
+  - Doom metal
+  - Doris Hays
+  - Doris Norton
+  - Downliners Sect
+  - Doxa Sinistra
+  - Dr Feelgood
+  - Dr. Timothy Leary
+  - Dreampop
+  - Dreamsludge
+  - Drill'n'Bass
+  - Drinking Electricity
+  - Drone
+  - Drum'n'Bass
+  - Drunks With Guns
+  - Drömm Records
+  - Ducks Deluxe
+  - Duplo Chat
+  - Dustdevil and Crow
+  - E.G. Oblique Graph
+  - EBM
+  - Earache Records
+  - Early Electronics
+  - Early hip hop
+  - Easy Listening
+  - Easy Listening. Loungecore.
+  - Ed 'Kookie' Byrnes
+  - Eddie and the Hot Rods
+  - Edgar Broughton Band
+  - Edgard Varèse
+  - Edinburgh
+  - Eduard Artemiev
+  - Edward Barton
+  - Egg
+  - Egg Eggs
+  - Einstürzende Neubauten
+  - Electric Wizard
+  - Electro
+  - Electro-Acoustic
+  - Electronic
+  - Electronic Music Studios
+  - Electronica
+  - Eliane Radigue
+  - Else Marie Pade
+  - Elvis Costello
+  - Emil Richards
+  - Erkki-Sven Tüür
+  - Erotica
+  - Eskaton
+  - Essendon Airport
+  - Essential Logic
+  - Estonia
+  - Etron Fou Leloublan
+  - Eugene Chadbourne
+  - Eurovision
+  - Ewan MacColl
+  - Exhibit A
+  - Exotica
+  - Eyehategod
+  - Eyeless In Gaza
+  - Fabulous Poodles
+  - Factory records
+  - Fairport Convention
+  - Fake Punk
+  - Fallout
+  - Fast Product
+  - Fatal Microbes
+  - Father Yod
+  - Faust
+  - Fear Merchants
+  - Feminist Improvising Group
+  - Ferial Confine
+  - Field Recording
+  - Fifty Foot Hose
+  - Firyusa
+  - Flagitious Idiosyncrasy In The Dilapidation
+  - Fleetwood Mac
+  - Flipper
+  - Flowers In The Dustbin
+  - Flowmotion
+  - Floyd Robinson
+  - Flux Of Pink Indians
+  - Folk
+  - Forest
+  - Formula 3
+  - Fotheringay
+  - France
+  - Frank Bretschneider
+  - Frank Lowe
+  - Frank Sidebottom
+  - Frankie Armstrong
+  - Freak Hop
+  - Freak Out
+  - Freakbeat
+  - Fred Frith
+  - Free Music
+  - Free Rock
+  - French Prog
+  - Fresh Maggots
+  - Fripp and Eno
+  - Fruit Eating Bears
+  - Fuck Off Records
+  - Fuckin Flyin A-Heads
+  - Full Blown AIDS
+  - Funboy Five
+  - Funk
+  - Fushitsusha
+  - Fuzzhead
+  - Gabor Szabo
+  - Galen Herod
+  - Garybaldi
+  - Gavin Bryars
+  - Genesis P-Orridge
+  - Geniale Dilletanten
+  - Genocide Association
+  - George Garside
+  - Germany
+  - Gerry and the Holograms
+  - Ghana
+  - Giancarlo Toniutti
+  - Gil Mellé
+  - Gil Scott-Heron
+  - Gilbert and Lewis
+  - Ginger John
+  - Giorno Poetry Systems
+  - Glam
+  - Glasgow
+  - Glass Records
+  - Glaxo Babies
+  - Glenn Branca
+  - God's Gift
+  - Godzilla
+  - Golden Palominos
+  - Good Missionaries
+  - Gorilla Aktiv
+  - Grafika Airlines
+  - Graham Bond
+  - Graham Fellows
+  - Graham Parker
+  - Grandmaster Flash
+  - Grant Showbiz
+  - Great Leap Forward
+  - Greece
+  - Greenfield Leisure
+  - Greenwich Performance Collective
+  - Grey Wolves
+  - Grindcore
+  - Groinoids
+  - Ground Zero
+  - Guerilla Toss
+  - Guns N' Roses
+  - Guru Guru
+  - Gus Coma
+  - Hackney Musicians Collective
+  - Half Japanese
+  - Hamburger All-Stars
+  - Hammersmith Gorillas
+  - Hamster records
+  - Hans Reichel
+  - Happy Hardcore
+  - Harald Grosskopf
+  - Hardy Kukuk
+  - Harmonia
+  - Harry Pussy
+  - Harry Smith
+  - Hatecore
+  - Haunted House
+  - He's Dead Jim
+  - Heldon
+  - Helen Gurley Brown
+  - Hellhouse
+  - Hennix
+  - Henry Badowski
+  - Henry Cow
+  - Henry Flynt
+  - Henry Kaiser
+  - Hippie Bullshit
+  - Hippie Folk
+  - Hipster Jazz
+  - Hitler SS
+  - Holgar Hiller
+  - Holger Czukay
+  - Holland
+  - Holy Toy
+  - Homosexuals
+  - Honey Bane
+  - Hope and Anchor
+  - Horrific Child
+  - Horrorcomic
+  - House
+  - Huggy Bear
+  - Hugo Ball
+  - Hull
+  - Hungaroton
+  - Hungary
+  - Hydravion
+  - I Am The Fly
+  - I'm So Hollow
+  - ICR
+  - IDM
+  - IDM. Drum'n'Bass
+  - Ian Boddy
+  - If Bwana
+  - Il Baletto Di Bronzo
+  - Il Volo
+  - Illusion Of safety
+  - Improvisation
+  - In Phaze
+  - In Spe
+  - Incapacitants
+  - Incredibly Strange Music
+  - India
+  - Indie Pop
+  - Indie-Jazz
+  - Industrial Disco
+  - Industrial Metal
+  - Industrial Rock
+  - Industrial records
+  - Inner City Unit
+  - Inner-X-Musick
+  - Insane Music
+  - Instant Automatons
+  - Integrated Circuit Records
+  - Iphar
+  - Ireland
+  - Iron Curtain Funk
+  - Iron Curtain Jazz
+  - Iron Curtain Prog
+  - Iron Curtain Punk
+  - Iron Curtain Soul
+  - Isle of Wight
+  - Italian Prog
+  - Italy
+  - Its War Boys
+  - Ivan Patachich
+  - Ivor Cutler
+  - Jaan Rääts
+  - Jaap Blonk
+  - Jack Kerouac
+  - Jack Smith
+  - Jackdaw With Crowbar
+  - Jackson C Frank
+  - James Last
+  - Jandek
+  - Jane Buerk
+  - Jap DIY
+  - Jazz Funk
+  - Jazz Fusion
+  - Jazzcore
+  - Jean-Pierre Massiera
+  - Jeremy Spencer and the Children
+  - Jesus Funk
+  - Jesus Music
+  - Jilted John
+  - Jim Welton
+  - Jody and the Creams
+  - Joe Meek
+  - John Baker
+  - John Cage
+  - John Cale
+  - John Carpenter
+  - John Coltrane
+  - John Cooper Clarke
+  - John Fahey
+  - John Giorno
+  - John Hassell
+  - John Otway
+  - John Shuttleworth
+  - John The Postman
+  - John Zewizz
+  - John Zorn
+  - Johnny Kidd
+  - Johnny Moped
+  - Jon Gibson
+  - Jonathan Briley
+  - Josef Anton Riedl
+  - Joseph Nechvatal
+  - Joy Division
+  - Judy Garland
+  - Jung Analysts
+  - Jungle
+  - Jürgen Ecke
+  - K.K.Null
+  - Kali Bahlu
+  - Kallous Boys
+  - Kaoru Abe
+  - Karel Appel
+  - Karl Blake
+  - Kathy Acker
+  - Katiny Slezki
+  - Kazakhstan
+  - Keeler
+  - Keiji Haino
+  - Ken Nordine
+  - Kenneth Higney
+  - Kenneth Terroade
+  - Kes
+  - Kevin Harrison
+  - Kevin Hewick
+  - Kid Baltan
+  - Kiem
+  - Kif Kif
+  - Kilburn and the High-Roads
+  - Killdozer
+  - Kilslug
+  - Kim Fowley
+  - King Crimson
+  - Kinks
+  - KlangFarbe
+  - Klar! 80
+  - Kleistwahr
+  - Kluster
+  - Kokomo
+  - Kola Beldy
+  - Komovari64
+  - Konstruktivits
+  - Korm Plastics
+  - Kosmiche
+  - Kosmischer Läufer
+  - Kosmonautentraum
+  - Kosmose
+  - Kraftwerk
+  - Kramer
+  - Krautrock
+  - Kriminelle Tanzkapelle
+  - Kunt and the Gang
+  - Kursaal Flyers
+  - Kurt Schwitters
+  - L Voag
+  - L'Uovo Di Colombo
+  - L.Ron Hubbard
+  - LAFMS
+  - LXSS
+  - La Monte Young
+  - Laibach
+  - Larry Heard
+  - Larry Wallis
+  - Larry Wendt
+  - Last Exit
+  - Latvia
+  - Laurie Anderson
+  - Laurie Spiegel
+  - Le Forte Four.
+  - Le Orme
+  - Leeds
+  - Legendary Pink Dots
+  - Leicester
+  - Lemon Kittens
+  - Lena Zavoroni
+  - Les Batteries
+  - Les Baxter
+  - Lew Lewis
+  - Library Music
+  - Lightening Records
+  - Lil' Markie
+  - Lincoln
+  - Lindsay Cooper
+  - Linear Movement
+  - Lithuania
+  - Little Marcy
+  - Liverpool
+  - Lives Of Angels
+  - Lizi Minnelli
+  - Locomotiv GT
+  - London Musicians Union
+  - Lora Logic
+  - Lord Sitar
+  - Loren Mazzacane Connors
+  - Louis and Bebe Barron
+  - Loungecore
+  - Low
+  - Luis Mesa
+  - Lurch
+  - Lustmord
+  - M.u.
+  - MAP
+  - MB
+  - MCH Band
+  - MU
+  - Magazine
+  - Magthea
+  - Mahogany Brain
+  - Malcolm Clarke
+  - Man's Hate
+  - Manchester Musicians Collective
+  - Manuel Gottsching
+  - Marian Zazeela
+  - Marie Rottrová
+  - Marine Girls
+  - Marjoe Gortner
+  - Mark E. Smith
+  - Mark Perry
+  - Mark Shreeve
+  - Mark Stewart & the Maffia
+  - Martin & the Brownshirts
+  - Martin Carthy
+  - Martin Denny
+  - Masayuki Takayanagi
+  - Masonna
+  - Math Rock
+  - Mauthausen Orchestra
+  - Maxophone
+  - Mayhem
+  - Medium Medium
+  - Mekanik Kommando
+  - Mellow Candle
+  - Melodia
+  - Melvins
+  - Mensen Blaffen
+  - Menuets
+  - Mephistofeles
+  - Meredith Monk
+  - Merz
+  - Merzbow
+  - Mess
+  - Metabolist
+  - Metal Doughnut Band
+  - Metamorphosis
+  - Michael Mills
+  - Michael Nyman
+  - Michael Raven & Joan Mills
+  - Mick Farren
+  - Mick Hobbs
+  - Mickey Jupp
+  - Midnight Circus
+  - Mike Curb
+  - Milk From Cheltenham
+  - Milton Keynes
+  - Minimal Synth
+  - Minoy
+  - Modern Art
+  - Modo
+  - Modrý Efekt
+  - Moldova
+  - Monte Cazazza
+  - Moondog
+  - Morton Subotnick
+  - Motorhead
+  - Mousefolk
+  - Moving Gelatine Plates
+  - Mud Hutters
+  - Murphy Foundation
+  - Museo Rosenbach
+  - Muslimgauze
+  - Mystery Plane
+  - Mütiilation
+  - N.Æ. (Niemen Aerolit)
+  - NB Records
+  - NWOBHM
+  - Nadja
+  - Nails Ov Christ
+  - Naked Lunch
+  - Namedrop Records
+  - Napalm Death
+  - Nasmak
+  - Neat Records
+  - Negative Reaction
+  - Negativland
+  - Neil Campbell
+  - Neo Classical
+  - Neon Judgement
+  - Neu
+  - Neue Deutsche welle
+  - New 7th Music
+  - New Age
+  - New Blockaders
+  - New Crimes Tapes
+  - New Hormones
+  - New Trolls
+  - New Zealand
+  - New wave
+  - Newcastle
+  - Nick Cave
+  - Nick Lowe
+  - Nick Toczek
+  - Niew Hip Stilen
+  - Nine Circles
+  - Nirvana
+  - No Trend
+  - No Wave
+  - No Way
+  - Nocturnal Emissions
+  - Noise
+  - Noise Rock
+  - Non
+  - Norman Howard
+  - North Korea
+  - Northampton Musicians Collective
+  - Norway
+  - Norwich
+  - Noseflutes
+  - Novelty
+  - Noyes Brothers
+  - Nu-DIY
+  - Nurse with Wound
+  - Object Music
+  - Obscure Records
+  - Occult
+  - Officer!
+  - Oi
+  - Old School Hip-Hop
+  - Oliver Postgate
+  - Omega
+  - On-U Sound
+  - Oppenheimer Analysis
+  - Organum
+  - Original Punk
+  - Original Rock'n'Roll
+  - Ornette Coleman
+  - Orphan Fairytale
+  - Osanna
+  - Ose
+  - Other
+  - Otomo Yoshihide
+  - Our Generation
+  - Outer Himalayan Records
+  - Outsider Folk
+  - Outsider Funk
+  - Outsider Garde
+  - Outsider Jazz
+  - Outsider Music
+  - Outsider Psych
+  - Outsider Punk
+  - Outsider rock
+  - Owen Sound
+  - Oz DIY
+  - PBK
+  - PO!
+  - Pain Killer
+  - Palais Schaumburg
+  - Pale Saints
+  - Parody
+  - Party Sound Tapes
+  - Pascal Comelade
+  - Patrik Fitzgerald
+  - Paul Giovanni
+  - Paul Kelday
+  - Pauline Oliveros
+  - Peeved Records
+  - Penderecki
+  - People's Temple Choir
+  - Perestroika Combo
+  - Performing Ferrets
+  - Perrey & Kingsley
+  - Peter Brötzmann
+  - Peter Cook & Dudley Moore
+  - Peter Hammill
+  - Peter Jefferies
+  - Peter Sotos
+  - Peter Zinovieff
+  - Petticoats
+  - Pharoah Sanders
+  - Phil Hartley
+  - Phil Niblock
+  - Philip Glass
+  - Philip Rambow
+  - Phillip Johnson
+  - Phillip Sanderson
+  - PiL
+  - Pigbag
+  - Pink Fairies
+  - Pink Section
+  - Pip Proud
+  - Piranhas
+  - Plan 9 From Outer Space
+  - Plastic People Of The Universe
+  - Plunderphonics
+  - Pochonbo Electronic Ensemble
+  - Poison
+  - Poison Girls
+  - Poland
+  - Pole Records
+  - Political Pop
+  - Polskie Nagrania Muza
+  - Pond
+  - Pop
+  - Pop:Aural
+  - Port Said
+  - Portion Control
+  - Portsmouth
+  - Portsmouth Sinfonia
+  - Possessed
+  - Post Punk
+  - Post-Hardcore
+  - Power Electronics
+  - Power Pop
+  - Power Violence
+  - Prag VEC
+  - Prefects
+  - Preggy Peggy & The Lazy Babymakers
+  - Prick Decay
+  - Primitive Calculators
+  - Prog
+  - Prog-Disco
+  - Prog-Punk
+  - Proggressive metal
+  - Protest Singer
+  - Proto-Indie
+  - Proto-Trance
+  - Proto-Twee
+  - Pseudo Code
+  - Psychedelic
+  - Pub Rock
+  - Pumf Records
+  - Punishment Of Luxury
+  - Punk Rock
+  - Punksploitation
+  - Pussy Galore
+  - Pyrolator
+  - Pôle
+  - Queen
+  - Quella Vecchia Locanda
+  - Quick Stab
+  - R. Stevie Moore
+  - ROIR Records
+  - Rabid Records
+  - Radar
+  - Radio Free Europe
+  - Radio Stars
+  - Rafael Flores
+  - Ralph Carmichael
+  - Ralph Records
+  - Ramleh
+  - Ranting Poetry
+  - Rashied Ali
+  - Raw Records
+  - Ray Fisher
+  - Raymond Scott
+  - Reading
+  - Reagan Youth
+  - Recloose Org
+  - Record Players
+  - Reflections
+  - Reinhard Lakomy
+  - Religious Cults
+  - Religious Overdose
+  - Rema Rema
+  - Renaldo and the Loaf
+  - Reptile Ranch
+  - Rev. Jim Jones
+  - Reynols
+  - Rhys Chatham
+  - Richard Pinhas
+  - Richard Truhlar
+  - Rick Crane
+  - Riot Grrrl
+  - Rip Rig + Panic
+  - Robert Ashley
+  - Robert Fripp
+  - Robert Lawrence
+  - Robert Rental
+  - Robert Ridley-Shackleton
+  - Roberta Eklund
+  - Robin & Barry Dransfield
+  - Rock in Opposition
+  - Rockwell
+  - Rod McKuen
+  - Rolf Trostel
+  - Rolo Tomassi
+  - Ron Johnson Records
+  - Ron Warren Ganderton
+  - Rondos
+  - Roogalator
+  - Room 101
+  - Rough Trade
+  - Roxy Music
+  - Rudimentary Peni
+  - Rudy Ray Moore
+  - Russia
+  - Russian Punk
+  - Ruth White
+  - Ruth's Refrigerator
+  - S-Core
+  - S-haters
+  - S.Y.P.H.
+  - SBB (Silesian Blues Band)
+  - SEP/8363
+  - SPK
+  - Sacher-Pelz
+  - Sad Lovers And Giants
+  - Sai Baba
+  - Saints
+  - Samla Mammas Manna
+  - Samplerdelic
+  - Sand
+  - Sandy Denny
+  - Sane Records
+  - Sarah Records
+  - Satanism
+  - Schlafengarten
+  - Schlaflose Nächte
+  - Scissor Fits
+  - Scorn
+  - Scotland
+  - Scouts of Uzbekistan
+  - Scritti Politti
+  - Scrotum Poles
+  - Sea of Wires
+  - Seattle
+  - Section 25
+  - Seesselberg
+  - Seething Wells
+  - Self-Deconstruction
+  - Semiramis
+  - Servi
+  - Severed Head In A Bag
+  - Severed Heads
+  - Sewer Zombies
+  - Sheffield
+  - Shirley Collins
+  - Shit Scum
+  - Shit Spangled Banner
+  - Shit and Shine
+  - Shitlickers
+  - Shoegaze
+  - Shoes For Industry
+  - Shoko Asahara
+  - Shub Niggurath
+  - Siberian Punk
+  - Sieg Heil
+  - Sigillum S
+  - Siglo XX
+  - Silver Apples
+  - Silverfish
+  - Simo Lavrov
+  - Sinyx
+  - Siver Apples
+  - Six Minute War
+  - Sixties Punk
+  - Sketch Erickson
+  - Skrewdriver
+  - Skullflower
+  - Slant
+  - Slaughter and the Dogs
+  - Sleepchamber
+  - Slowcore
+  - Sludge
+  - Sludgecore
+  - Slugfuckers
+  - Small Wonder
+  - Smegma
+  - Smell & Quim
+  - Smiley Culture
+  - Snakefinger
+  - Snatch
+  - Snatch Tapes
+  - Snowy Red
+  - Sodom
+  - Soft Cell
+  - Solid Space
+  - Solvenia
+  - Song -Poems. MSR Records
+  - Sonny Sharrock
+  - Sound Ceremony
+  - Sound FX
+  - Sound Poetry
+  - Sound of Pig
+  - South Korea
+  - Southampton
+  - Soviet Union
+  - Space Art
+  - Space Rock
+  - Spacecraft
+  - Spain
+  - Spherical Objects
+  - Spiritual Jazz
+  - Splat!
+  - Spoken Word
+  - Spontaneous Music Ensemble
+  - Spriguns Of Tolgus
+  - Stanlow Crickets
+  - Star Trek
+  - Status Quo
+  - Steaming Coils
+  - Stein Im Brett
+  - Sten Hanson
+  - Stenka Bazin
+  - Sterile Records
+  - Steve Beresford
+  - Steve McCaffery
+  - Steve Miro
+  - Steve Reich
+  - Steve Treatment
+  - Stiff Records
+  - Sting
+  - Stockport
+  - Stoke Musicians Collective
+  - Stoke on Trent
+  - Stoner Rock
+  - Storm Bugs
+  - Stranger Station
+  - Stratis
+  - Strawberry Alarm Clock
+  - Street Level
+  - Stress
+  - Stretchheads
+  - Stripey Zebras
+  - Strobe Talbot
+  - Stump
+  - Stupid Rabbit Tapes
+  - Subhumans(uk)
+  - Sugarhill Gang
+  - Suicide
+  - Suisse
+  - Sun Burned Hand Of The Man
+  - Sun City Girls
+  - Sun Ra
+  - Sunderland
+  - Sunny Murray
+  - Sunshine Pop
+  - Supraphon
+  - Susan Alcorn
+  - Suspect
+  - Sutcliffe Jugend
+  - Suzanne Ciani
+  - Sven Grünberg
+  - Swastika Kommando
+  - Sweden
+  - Swell Maps
+  - Switzerland
+  - Symboter
+  - Sympathy Nervous
+  - Synth Pop
+  - Systematics
+  - TASS II
+  - TV Personalities
+  - Tangerine Dream
+  - Tape collage
+  - Tara Cross
+  - Tarkovsky
+  - Techno
+  - Ted Chippington
+  - Territorial Gobbing
+  - Terry Riley
+  - Terse Tapes
+  - The 101'ers
+  - The Adverts
+  - The Apostles
+  - The Associates
+  - The Astronauts
+  - The Barron Balls
+  - The Bathroom Renovations
+  - The Blind Man Who Walked Past the Supermarket
+  - The Cardiacs
+  - The Chills
+  - The Christophers
+  - The Chrysanthemums
+  - The Clash
+  - The Clean
+  - The Collective Horizontal
+  - The Comes
+  - The Computer People Communicators
+  - The Cortinas
+  - The Count Bishops
+  - The Cravats
+  - The Damned
+  - The Dead C
+  - The Decay
+  - The Dodgems
+  - The Door and The Window
+  - The Driscolls
+  - The Ex
+  - The Fall
+  - The Field Mice
+  - The Flamingo Group
+  - The Four Horsemen
+  - The Freshies
+  - The Gist
+  - The Gordons
+  - The Hamsters
+  - The Haters
+  - The Hoax
+  - The Jerks
+  - The Jubilets
+  - The Just measurers
+  - The Killjoys
+  - The Last Poets
+  - The League Of Gentlemen
+  - The Leather Nun
+  - The Lo Yo Yo
+  - The Lovely Eggs
+  - The MacKenzies
+  - The Manchester Mekon
+  - The Mekons
+  - The Membranes
+  - The Merry Pranksters
+  - The Misz
+  - The Mob
+  - The Motors
+  - The Naughtiest Girl Was A Monitor
+  - The Nightingales
+  - The Nihilist Spasm Band
+  - The Orkustra
+  - The Pigs
+  - The Pirates
+  - The Pop Group
+  - The Prats
+  - The Problemist
+  - The Red Crayola
+  - The Residents
+  - The Saints
+  - The Scratch Orchestra
+  - The Screamers
+  - The Shapes
+  - The Shrubs
+  - The Sickness
+  - The Slits
+  - The Snipers
+  - The Space Lady
+  - The Stranglers
+  - The Stukas
+  - The Sugar Shoppe
+  - The Sweetest Ache
+  - The United States Of America
+  - The Units
+  - The Vacants
+  - The Watersons
+  - The Wedding Present
+  - The Wilderness Children
+  - The Winkies
+  - The Work
+  - The Young Tradition
+  - Theatre Of Eternal Music
+  - Thee Aethyr
+  - Thee Outside
+  - Thin Yoghurts
+  - Third Door From The Left
+  - Third Mind
+  - Third World War
+  - Thirdorgan
+  - This Bitter Lesson
+  - This Heat
+  - This Is Not This Heat
+  - This Kind Of Punishment
+  - Those Attractive Magnets
+  - Those little Aliens
+  - Throbbing Gristle
+  - Thurston Moore
+  - Tiswas
+  - Tod Dockstader
+  - Todd
+  - Tokyo Flashback
+  - Tom Cora
+  - Tom Dissevelt
+  - Tone set
+  - Tonto's Expanding Head Band
+  - Tony Conrad
+  - Topic Records
+  - Toukaseibunshi
+  - Trance Port Tapes
+  - Transparent Illusion
+  - Trees
+  - Trevor Duncan
+  - Tristram Cary
+  - Trixie's Big Red Motorbike
+  - Tronics
+  - Tsk Tsk Tsk
+  - Turkmenistan
+  - Turntablism
+  - Twang!
+  - Twee Indie Pop
+  - Twelve Cubic Feet
+  - Twilight Ritual
+  - Two Daughters
+  - Tyla Gang
+  - UK
+  - UK DIY
+  - UK Electronic Underground
+  - UK Folk Revival
+  - UK Rock'n'Roll
+  - US DIY
+  - US Hardcore
+  - US Indie
+  - USA
+  - USSR
+  - UT
+  - Ukraine
+  - Ultra Eczema
+  - Union Pole
+  - United Dairies
+  - Univers Zero
+  - Unkommuniti
+  - Unlikely Records
+  - Unrest Work and Play
+  - Unseen Terror
+  - Unune
+  - Ursula Bogner
+  - VSP Projekt
+  - Vaginal Jesus
+  - Van Der Graaf Generator
+  - Vangelis
+  - Vanity Records
+  - Velvet Underground
+  - Venom
+  - Vibracathedral Orchestra
+  - Vice Versa
+  - Vindaloo Records
+  - Violent Party Records
+  - Vita Noctis
+  - Vivian Stanshall
+  - Vodograi
+  - Volcano the Bear
+  - W.S.Burroughs
+  - WCKR SPGT
+  - Wales
+  - Wapm cc
+  - Warhammer
+  - Wavy Gravy
+  - We Be Echo
+  - We Got a Fuzzbox and We're Gonna Use it
+  - WeR7
+  - Weekend
+  - Weidorje
+  - Weird
+  - Welwyn Garden City
+  - Wendy Carlos
+  - Wet Taxis
+  - White Noise
+  - Whitehouse
+  - Wilko Johnson
+  - Wire
+  - Witchfinder General
+  - Wolfgang Dauner
+  - Wolfgang Riechmann
+  - Women of the SS
+  - World Music
+  - Wreckless Eric
+  - X-Ray Spex
+  - Xaal
+  - Xpressway Records
+  - Y Records
+  - Ya Ho Wha 13
+  - Yeah Yeah Noh
+  - Year Zero records
+  - Yoko Ono
+  - Young Marble Giants
+  - Yugoslavia
+  - Yukio Yung
+  - Yximaloo
+  - ZOG
+  - Zan Hoffman
+  - Zchivago's Disco Dystopia
+  - Zchivago's reviews
+  - Zchivagos Remixes
+  - Zeuhl
+  - Zodiac
+  - Zounds
+  - Zoviet France
+  - Zweistein
+  - Zwitschermaschine
+  - bIG fLAME
+  - bendle
+  - cassiber
+  - dark ambient
+  - dark folk
+  - death rock
+  - digital dinosaurs
+  - diy
+  - dub
+  - free jazz
+  - glitch
+  - hardcore
+  - harsh reality music
+  - ici la bas
+  - indie-prog
+  - industrial
+  - japan
+  - jazz rock
+  - john bender
+  - john walters
+  - keine namen
+  - kos
+  - lo-fi
+  - |-
+    lo-fi
+    japcore
+  - london music collective
+  - metal
+  - min
+  - minimalism
+  - mirage tapes
+  - missing persons
+  - modern
+  - modern composition
+  - music for Midgets
+  - musique concrete
+  - neo-folk
+  - neo-psych
+  - nervous gender
+  - noise pop
+  - noisecore
+  - non-music
+  - paul nagle
+  - peel sessions
+  - post industrial
+  - post-indie
+  - post-prog
+  - post-punk
+  - post-rave
+  - post-rock
+  - proto-goth
+  - proto-post-rock
+  - proto-punk
+  - proto-rap
+  - proto-rave
+  - prutsers
+  - psychsploitation
+  - punk
+  - recommended records
+  - sexploitation
+  - shit-fi
+  - soundtracks
+  - synth punk
+  - the Black Legions
+  - the Entire Cosmos
+  - tribal
+  - uk82
+  - vinyl drip
+  - Üwan
+  - à;GRUMH
+  - П​р​и​т​о​н
+  - → ↑ →
+  relme:
+    https://dieordiy2.blogspot.com/: true
+    https://polpotpop.blogspot.com/: true
+    https://www.blogger.com/profile/09859740264284241032: true
+    https://year-zero-records.blogspot.com/: true
+  last_post_title: Jandek – "Three Movements" (Corwood Industries – CORWOOD 0868)
+    2024
+  last_post_description: ""
+  last_post_date: "2026-09-08T13:00:51+02:00"
+  last_post_link: https://dieordiy2.blogspot.com/2026/09/jandek-three-movements-corwood.html
+  last_post_categories:
+  - "2024"
+  - Improvisation
+  - Jandek
+  - Outsider Garde
+  - Outsider Music
+  - USA
+  last_post_language: ""
+  last_post_guid: 39f7ff638079f192b97ffe1bf6bf3c31
+  score_criteria:
+    cats: 5
+    description: 0
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 26
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 295
+---

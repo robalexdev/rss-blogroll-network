@@ -10,7 +10,10 @@ params:
     https://ounapuu.ee/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I guess I'm a cactus farmer now
-  last_post_description: Send help. Or at the very least clay pots and cactus soil,
-    I'm running out.
-  last_post_date: "2026-07-31T23:00:00+03:00"
-  last_post_link: https://ounapuu.ee/posts/2026/07/31/cactus/
+  last_post_title: Trying out open weights LLM-s on hardware that I can actually afford
+  last_post_description: Seize the means of code production!
+  last_post_date: "2026-09-01T18:00:00+03:00"
+  last_post_link: https://ounapuu.ee/posts/2026/09/01/open-weights-llm/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f5dac39022114183fa0ac38cb745902
+  last_post_guid: 3ad74650a2e9d44c24db64ed1a011621
   score_criteria:
     cats: 0
     description: 3

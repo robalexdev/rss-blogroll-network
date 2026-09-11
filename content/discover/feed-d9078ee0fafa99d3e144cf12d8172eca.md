@@ -13,7 +13,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5347 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -29,7 +29,8 @@ params:
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
-  recommender: []
+  recommender:
+  - https://roytang.net/index.xml
   categories:
   - Rands
   relme: {}

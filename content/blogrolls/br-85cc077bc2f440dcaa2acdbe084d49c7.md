@@ -14,6 +14,9 @@ params:
       from the world’s most incisive and ambitious thinkers, and a mix of original
       and curated videos — free to all.
     id: 5739d5a64b1c9ce4d1ff8e0400f0335f
+  - title: Bubbles
+    description: ""
+    id: a63fc152086db2cfc1c4440554a0dd10
   - title: xkcd.com
     description: ""
     id: c3d7a8674e24b46357e31623bc7f2ab7

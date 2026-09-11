@@ -11,6 +11,9 @@ params:
     https://aaronholbrookmusic.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -18,14 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Things That Almost Happened"
-  last_post_description: regret, 80s, nostalgia, retro, remorse, sad, synth, bass,
-    mournful, melancholy, love
-  last_post_date: "2026-07-10T21:00:41Z"
-  last_post_link: https://aaronholbrookmusic.com/song/things-that-almost-happened/
+  last_post_title: "\U0001F3B5 New Release: Wherever You Go"
+  last_post_description: dance, electronic, edm, love, synth
+  last_post_date: "2026-09-04T00:00:00Z"
+  last_post_link: https://aaronholbrookmusic.com/song/wherever-you-go/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 83e2564078d65bd3ed08c84d22256264
+  last_post_guid: 11fdf59ed9ed6b97d3e0567534ae526d
   score_criteria:
     cats: 0
     description: 3

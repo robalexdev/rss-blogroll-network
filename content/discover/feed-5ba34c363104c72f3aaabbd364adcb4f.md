@@ -21,36 +21,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Industry
-  - Raspberry Pi Silicon
-  - Research
+  - Trading
+  - cybersecurity
   relme: {}
-  last_post_title: 'A better model for silicon: quantifying chip carbon with Columbia
-    and Cornell'
+  last_post_title: 'The EU Cyber Resilience Act: mandatory reporting requirements'
   last_post_description: |-
-    MicroGreen and ACT were built to enable engineers to quantify the embodied carbon of their hardware.
-    The post A better model for silicon: quantifying chip carbon with Columbia and Cornell appeared
-  last_post_date: "2026-08-28T09:33:07Z"
-  last_post_link: https://www.raspberrypi.com/news/a-better-model-for-silicon-quantifying-chip-carbon-with-columbia-and-cornell/
+    We take a look at how a new set of mandatory reporting obligations affects manufacturers — and how Raspberry Pi can help.
+    The post The EU Cyber Resilience Act: mandatory reporting requirements
+  last_post_date: "2026-09-11T08:53:22Z"
+  last_post_link: https://www.raspberrypi.com/news/the-eu-cyber-resilience-act-mandatory-reporting-requirements/
   last_post_categories:
-  - Industry
-  - Raspberry Pi Silicon
-  - Research
+  - Trading
+  - cybersecurity
   last_post_language: ""
-  last_post_guid: 6cf6601261e3fec1b518bd8151330797
+  last_post_guid: 10095a5fae06de6db4d7de0b7ca4835f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

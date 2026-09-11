@@ -10,7 +10,10 @@ params:
     https://stanislas.blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: ""
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Blogroll - Jan-Lukas Else
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   - title: Kagi Small Web OPML

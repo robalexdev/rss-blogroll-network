@@ -1,0 +1,723 @@
+---
+title: in lieu of a field guide
+date: "2026-09-10T16:38:30+08:00"
+description: ""
+params:
+  feedlink: https://booktrek.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 8a422fd08afdddfcae4073f42c7da082
+  websites:
+    https://booktrek.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories:
+  - '"The Dinosaur"'
+  - (Im)Personal
+  - 100 Poems
+  - '100 Poems: Old and New'
+  - 1Q84
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2013"
+  - "2014"
+  - "2666"
+  - 2666 group read
+  - 3 Strange Tales
+  - 84 Charing Cross Road
+  - A Lion in the House
+  - A Portrait of the Artist as Filipino
+  - A Roomful of Machines
+  - A Sand County Almanac
+  - A Time for Everything
+  - Abé Kobo
+  - Adalbert Stifter
+  - Adolfo Bioy Casares
+  - Adventures of a Child of War
+  - Against the Irreversible
+  - Airaesque
+  - Akira Kurosawa
+  - Akutagawa
+  - Akutagawa Ryūnosuke
+  - Alberto Moravia
+  - Aldo Leopold
+  - Alfred Birnbaum
+  - Alfred Jarry
+  - Alice M. Sun-Cua
+  - Allan N. Derain
+  - Alphabetical Africa
+  - Alvin C. Ursua
+  - Amado V. Hernandez
+  - Amerika
+  - 'Amerika: The Missing Person'
+  - Amphitryon
+  - An Arm's Length of Heaven
+  - An Indication of the Cause
+  - Andrew Hurley
+  - Andrés Neuman
+  - Ang Alkemista
+  - Ang Diablo sa Filipinas
+  - Ang Diablo sa Filipinas ayon sa nasasabi sa mga casulatan luma sa Kastila
+  - Ang Huling Dalagang Bukid at ang Authobiography na Mali
+  - Ang Inahan ni Mila (Mila's Mother)
+  - Ang Kapangyarihang Higit sa Ating Lahat
+  - Ang Kuwento ng Haring Tulala
+  - Ang Kuwintas
+  - Ang Maputing Kabalyero
+  - Ang Matanda at ang Dagat
+  - Ang Metamorposis
+  - Ang Tala sa Panghulo
+  - Angelus Novus
+  - Angus Davidson
+  - Anna Funder
+  - Anne McLean
+  - Ano Ngayon Ricky?
+  - Antipoems
+  - 'Antipoems: How to Look Better & Feel Great'
+  - 'Antipoems: New and Selected'
+  - Anton Chekhov
+  - Antonio G. Sempio
+  - Antwerp
+  - Arabic
+  - Argentina
+  - Arlan Camba
+  - Asun Garikano
+  - At the Mind's Limits
+  - Augusto Monterroso
+  - Augustus
+  - Austerlitz
+  - Austregelina Espina-Moore
+  - 'BAKA NG INA MO!: O bakit hindi palaging mother knows best ...'
+  - Bad Nature
+  - Banaag at Sikat
+  - Barbara Bray
+  - Barbara Shelby
+  - Bartleby and Co.
+  - Benedict Anderson
+  - Beowulf
+  - Bernardo Atxaga
+  - Between Parentheses
+  - Between Paretheses
+  - Bibliography of Filipino Novels
+  - 'Bibliography of Filipino Novels: 1901-2000'
+  - Bienvenido Lumbera
+  - Black Rain
+  - Blindness
+  - Blood Wedding
+  - Bodas de sangre
+  - Borges and the Eternal Orang-utans
+  - Botchan
+  - Buddhadeva Bose
+  - Budjette Tan
+  - Bullfight
+  - But for the Lovers
+  - By Night in Chile
+  - Campo Santo
+  - Canal de la Reina
+  - Carlos Bulosan
+  - Carlos Fuentes
+  - Carlos Sardiña Galache
+  - Cass Canfield Jr.
+  - Cave and Shadows
+  - Cebu
+  - Charlotte's Web
+  - Child of Fortune
+  - Children of the Ash-Covered Loam
+  - Children of the Ash-Covered Loam and Other Stories
+  - Chris Andrews
+  - Chronicle of My Mother
+  - Chronicle of a Death Foretold
+  - Cirilo F. Bautista
+  - Clandestine in Chile
+  - Claudia Novack
+  - Contempt
+  - Conversations
+  - Corsino Fortes
+  - Crossing the Heart of Africa
+  - César Aira
+  - Daniel Hahn
+  - Danton Remoto
+  - David Markson
+  - David McLintock
+  - David Unger
+  - Dean Francis Alfar
+  - Dekada '70
+  - Der Keller
+  - Desert
+  - Diary of a Snail
+  - Diary of the War of the Pig
+  - Die Ursache
+  - Diin May Punoan sa Arbol (Where a Fire Tree Grows)
+  - Distant Star
+  - Don Juan
+  - 'Don Juan: His Own Version'
+  - Don Quixote
+  - Don Vicente
+  - Donald A. Yates
+  - Dostoyevsky
+  - Driftwood on Dry Land
+  - Duino Elegies
+  - Dusk
+  - E. B. White
+  - Ecology and the End of Postmodernity
+  - Ed Maranan
+  - Edgar Allan Poe
+  - Edgar Calabia Samar
+  - Edgardo B. Maranan
+  - Edith L. Tiempo
+  - Eight Muses of the Fall
+  - Einstein's Monsters
+  - El Filibusterismo
+  - El consejo de los dioses
+  - El obispo leproso
+  - El tercer Reich
+  - Eliot Weinberger
+  - Elizabeth Costello
+  - Engkantado
+  - Enrique Vila-Matas
+  - Ernest Hemingway
+  - Ernesto Cardenal
+  - Eugene Evasco
+  - Evenings on a Farm Near Dikanka
+  - Evil and the Mask
+  - Ewald Osers
+  - F. H. Batacan
+  - F. Sionil José
+  - FFP
+  - Fair Play
+  - Federico García Lorca
+  - Fermat's Last Theorem
+  - Fernando Vallejo
+  - Fidel Rillo
+  - First Love
+  - Five Moral Pieces
+  - Frank Cimatu
+  - Franz Kafka
+  - Friedrich Engels
+  - Friedrich Schiller
+  - From Darna to Zsazsa Zaturnnah
+  - 'From Darna to Zsazsa Zaturnnah: Desire and Fantasy'
+  - 'From Darna to Zsazsa Zaturnnah: Desire and Fantasy: Essays on Literature and
+    Popular Cuture'
+  - Fuminori Nakamura
+  - Gabriel García Márquez
+  - Gabriel Miró
+  - Gagambeks at mga Kuwentong Waratpad
+  - Gaspar Vibal
+  - Gathering Evidence
+  - Gathering Evidence and My Prizes
+  - 'Gathering Evidence: A Memoir'
+  - George Myerson
+  - Georges Perec
+  - Gera
+  - Geraldine Harcourt
+  - Gerilya
+  - Gerry Bothmer
+  - Gert Ledig
+  - Gitarista
+  - Gonzalo Torrente Ballester
+  - Graham Greene
+  - Grande Sertão
+  - 'Grande Sertão: Veredas'
+  - Gregory Rabassa
+  - Gregory Woodruff
+  - Guelan Varela-Luarca
+  - Guillermo Tell
+  - Guy de Maupassant
+  - Günter Grass
+  - H. P. Lovecraft
+  - Harriet de Onís
+  - Haruki Murakami
+  - Heinrich Böll
+  - Helene Hanff
+  - Himno ng Apoy sa Gubat ng Dilim
+  - Hiroshi Teshigahara
+  - Hope Sabanpan-Yu
+  - House of Cards
+  - How I Became a Nun
+  - Hôtel Splendid
+  - Ibuse Masuji
+  - Iconologie
+  - If This Be Treason
+  - Ignacio Padilla
+  - Ilan Stavans
+  - Ilaw sa Hilaga
+  - Ilustrado
+  - Imagined Communities
+  - In the Penal Colony
+  - Inoue Yasushi
+  - Insomnia
+  - Isaac Donoso
+  - Isang Dipang Langit
+  - Ivan Turgenev
+  - J. M. Coetzee
+  - J. M. G. Le Clézio
+  - Jaime Gil de Biedma
+  - James F. Eder
+  - Janet O. Fernandez
+  - Japan
+  - Javier Cercas
+  - Javier Marías
+  - Jay Rubin
+  - Jean  Améry
+  - Jean Améry
+  - Jeannifer Zabala
+  - Jenny Erpenbeck
+  - Jessica Hagedorn
+  - Jesus Manuel Santiago
+  - Joanot Martorell
+  - John Williams
+  - Jordan Stump
+  - Jorge Luis Borges
+  - Jose Dalisay
+  - Jose F. Lacaba
+  - Joselito D. Delos Reyes
+  - José Carlos Somoza
+  - José Mª Fons Guardiola
+  - José Rizal
+  - José Saramago
+  - Journey Into the Past
+  - João Cerqueira
+  - João Guimarães Rosa
+  - Juanita Cruz
+  - Julian Smith
+  - Julio Cortázar
+  - Jun Cruz Reyes
+  - Junot Díaz
+  - Kafka on the Shore
+  - Kajo Baldisimo
+  - Karel Čapek
+  - Karl Marx
+  - Karl O. Knausgaard
+  - Kasal sa Dugo
+  - Katherine Silver
+  - Kawabata
+  - Kerima Polotan
+  - Knut Hamsun
+  - Kobo Abe
+  - Kristine Ong Muslim
+  - Kung Baga sa Bigas
+  - 'Kung Baga sa Bigas: Mga Piling Tula'
+  - Kōno Taeko
+  - L'histoire
+  - La memoria de Shakespeare
+  - Larawan
+  - Last Evenings on Earth
+  - Laughing Wolf
+  - Leche
+  - Life A User's Manual
+  - Light in the North
+  - Lin Acacio-Flores
+  - Lina Espina-Moore
+  - Linda Ty-Casper
+  - Liwayway Arceo
+  - Liz Werner
+  - Lope K. Santos
+  - Los Neochilenos
+  - Lualhati Bautista
+  - Luis Fernando Verissimo
+  - Luna Sicat Cleto
+  - Lynne Sharon Schwartz
+  - László Krasznahorkai
+  - Lázaro Francisco
+  - MJ Rafal
+  - Ma. Cecilia Locsin-Nava
+  - Macario Pineda
+  - Machado de Assis
+  - Magdalena G. Jalandoni
+  - Magdalena Gonzaga Jalandoni
+  - Magdalena Jalandoni
+  - Makinilyang Altar
+  - Malou Jacob
+  - Mandarins
+  - Manila Noir
+  - Manny Pacquiao
+  - Manual of Painting and Calligraphy
+  - Margaret Jull Costa
+  - Marginal Annotations and Other Poems
+  - Margosatubig
+  - 'Margosatubig: The Story of Salagunting'
+  - Marguerite Duras
+  - Marie Redonnet
+  - Mario Vargas Llosa
+  - Mark Angeles
+  - Mark Harman
+  - Marlon James Sales
+  - Marne Kilates
+  - Marne L. Kilates
+  - Martin Amis
+  - Marxism and Literary Criticism
+  - Masterworks of Latin American Short Fiction
+  - Matthew Westfall
+  - Mesándel Virtusio Arguelles
+  - Mga Gapnod sa Kamad-an
+  - Michael Crichton
+  - Michael Emmerich
+  - Miguel Syjuco
+  - Mikael de Lara Co
+  - Mila's Mother
+  - Mon
+  - Mondo Marcos
+  - Mondomanila
+  - Monsieur Pain
+  - Monsignor Quixote
+  - Montano
+  - Montano's Malady
+  - Mori Ōgai
+  - Murakami Haruki
+  - My Brother My Executioner
+  - My Kind of Girl
+  - My Prizes
+  - 'My Prizes: An Accounting'
+  - Mysteries
+  - N.V.M. Gonzalez
+  - NGO
+  - NIck Caistor
+  - NYRB
+  - Naomi Lindstrom
+  - Natsume Soseki
+  - Natsume Sōseki
+  - Nazi Literature in the Americas
+  - Never Any End to Paris
+  - Nicanor Parra
+  - Nick Joaquín
+  - Night Fish
+  - Nikolai Gogol
+  - Ninay
+  - Niyebe ng Kilimanjaro
+  - Niyebe ng Kilimanjaro at Iba Pang Kuwento
+  - Noli Me Tangere
+  - Norman Wilwayco
+  - Northern Light
+  - Norwegian Wood
+  - Nowaki
+  - Nuestro Padre San Daniel
+  - Nínay
+  - Octavio Paz
+  - Ofelia Ledesma Jalandoni
+  - Old Masters
+  - Oleza
+  - On Writing
+  - On the Concept of History
+  - On the Natural History of Destruction
+  - One Hundred Years of Solitude
+  - One Tilting Leaves
+  - Our Father San Daniel
+  - Our Lady of the Assassins
+  - Oxford Anthology of the Brazilian Short Story
+  - Palawan at the Crossroads
+  - Pan
+  - Patikim
+  - Patricia May B. Jurilla
+  - Patricio Mariano
+  - Patrick Süskind
+  - Paul Klee
+  - Paulo Coelho
+  - Paulownia
+  - Pedro A. Paterno
+  - Pedro Paterno
+  - Perfume
+  - Pesoa
+  - Peter Bush
+  - Peter Carey
+  - Peter Handke
+  - Peter Weiss
+  - Pia Montalban
+  - Pinball 1973
+  - Pitong Kuwento
+  - Pitóng Gulod pa ang Layo at Iba pang Kuwento
+  - Po-on
+  - Portrait of the Artist in 1956
+  - Primeiras Estórias
+  - PseudoAbsurdoKapritsoUlo
+  - Putas asesinas
+  - R. Zamora Linmark
+  - R.U.R.
+  - Rainer Maria Rilke
+  - Raised from the Ground
+  - Ramon Guillermo
+  - Ramon L. Muzones
+  - Ramon Muzones
+  - Rashomon
+  - Rashōmon
+  - Rashōmon and Other Stories
+  - Rashōmon and Seventeen Other Stories
+  - Reev Robledo
+  - Regarding the Pain of Others
+  - Rene O. Villanueva
+  - Richard P. Feynman
+  - Ricky Hatton
+  - Roberto Arlt
+  - Roberto Bolaño
+  - Roberto Bolaño's Fiction
+  - 'Roberto Bolaño''s Fiction: An Expanding Universe'
+  - Robin Robertson
+  - Robot Unibersal ni Rossum
+  - Rock Crystal
+  - Rolando B Tolentino
+  - Ronaldo Soledad Vivo Jr.
+  - Rosales saga
+  - Rosario de Guzman Lingat
+  - Rossum's Universal Robots
+  - Rudyard Kipling
+  - Ruth Franklin
+  - Sagarana
+  - Salamanca
+  - Seamus Heaney
+  - Sean O'Brien
+  - Selected Non-Fictions
+  - Selected Poems
+  - Selected Poems of Corsino Fortes
+  - Seven Hills Away
+  - Seven Houses in France
+  - Seven Mountains of the Imagination
+  - Shadow Without a Name
+  - Shakespeare's Memory
+  - Shantytown
+  - Shri-Bishaya
+  - Si Janus Sílang at ang Labanáng Manananggal-Mambabarang
+  - Silvina Ocampo
+  - Simeon Dumdum Jr.
+  - Simon Singh
+  - Six Easy Pieces
+  - Smaller and Smaller Circles
+  - Snow Country
+  - Soldiers of Salamis
+  - Soledad S. Reyes
+  - Soledad's Sister
+  - Some Prefer Nettles
+  - Soseki
+  - Spencer R. Weart
+  - Stasiland
+  - State of Fear
+  - Stefan Zweig
+  - Stephen King
+  - Stoner
+  - Summertime
+  - Sunlight on Broken Stones
+  - Susan Sontag
+  - Suzanne Jill Levine
+  - T. S. Sungkit Jr.
+  - Taeko Kōno
+  - Takashi Kojima
+  - Tanizaki Junichirō
+  - Telex Moon
+  - Territory of Light
+  - Terry Eagleton
+  - Terry Pitts
+  - The Alchemist
+  - The Alchemist (Ang Alkemista)
+  - The Antigone Poems
+  - The Archipelago
+  - The Athenian Murders
+  - The Brief Wondrous Life of Oscar Wao
+  - The Castle
+  - The Cellar
+  - 'The Cellar: An Escape'
+  - The Childhood of Jesus
+  - The Cloak of God
+  - The Communist Manifesto
+  - The Deleted World
+  - The Devil in the Philippines
+  - The Devil to Pay in the Backlands
+  - The Devil's Causeway
+  - The Discovery of Global Warming
+  - The Elements of Style
+  - The Emergence of Memory
+  - 'The Emergence of Memory: Conversations With W. G. Sebald'
+  - The Emigrants
+  - The Gold in Makiling
+  - The Golden Dagger
+  - The Golden Hare
+  - The Hand of the Enemy
+  - The Hare
+  - The Insufferable Gaucho
+  - The Island of the Day Before
+  - The King Amaz'd
+  - 'The King Amaz''d: A Chronicle'
+  - The Last Novel
+  - The Leprous Bishop
+  - The Locked Door
+  - The Locked Door and Other Stories
+  - The Lost Honour of Katharina Blum
+  - The Lover
+  - The Makioka Sisters
+  - The Master of Go
+  - The Melancholy of Resistance
+  - The Metamorphosis
+  - The Miracle Cures of Dr. Aira
+  - The Night Before Christmas
+  - The Old Capital
+  - The Old Man and the Sea
+  - The Oxford Book of Japanese Short Stories
+  - The Pact of Biyak-na-Bato
+  - The Pact of Biyak-na-Bato and Ninay
+  - The Persons of the Verb
+  - The Return
+  - The Rings of Saturn
+  - The Romantic Dogs
+  - The Savage Detectives
+  - The Seamstress and the Wind
+  - The Seven Madmen
+  - The Shooting Gallery
+  - The Silent Angel
+  - The Snows of Kilimanjaro and Other Stories
+  - The Stalin Front
+  - The Star of Panghulo
+  - The Superstitious Ethics of the Reader
+  - The Tenant and The Motive
+  - The Third Bank of the River
+  - The Third Bank of the River and Other Stories
+  - The Tragedy of Fidel Castro
+  - The Trilogy of Saint Lazarus
+  - The True Deceiver
+  - The Ubu Plays
+  - The Wild Goose
+  - The Woman Who Had Two Navels
+  - The Woman Who Had Two Navels and Tales of the Tropical Gothic
+  - The Woman in the Dunes
+  - Theodore Goossen
+  - Theses on the Concept of History
+  - This Craft of Verse
+  - Thomas Bernhard
+  - Thomas Teal
+  - Thousand Cranes
+  - Tirant lo Blanc
+  - Tirant lo Blanch
+  - Tirante el Blanco
+  - 'Tirante el Blanco: Ang Maputing Kabalyero'
+  - To the Evening Star
+  - Toddler-Hunting
+  - Toddler-Hunting and Other Stories
+  - Tomas Tranströmer
+  - Tomorrow in the Battle Think on Me
+  - Tove Jansson
+  - Translation and Revolution
+  - Tree
+  - Tres
+  - Trese
+  - True History of the Kelly Gang
+  - Tsushima Yūko
+  - Typewriter Altar
+  - Tōson Shimazaki
+  - UNGAZPress
+  - Ubu
+  - Umberto Eco
+  - Una novelita lumpen
+  - Underground
+  - Varamo
+  - Vertigo
+  - Virgilio S. Almario
+  - Visitation
+  - Voyage Along the Horizon
+  - W. G. Sebald
+  - Walong Diwata ng Pagkahulog
+  - Walter Abish
+  - Walter Benjamin
+  - War
+  - We
+  - What Now Ricky?
+  - What Passes for Answers
+  - Where a Fire Tree Grows
+  - Wilfrido D. Nolledo
+  - Wilhelm Tell
+  - William H. Gass
+  - William Strunk Jr.
+  - Woman Running in the Mountains
+  - Woman in the Dunes
+  - Work in the Mountain
+  - Wystan de la Peña
+  - XXth Century
+  - 'XXth Century: 2 Plays'
+  - YFT group read
+  - Yasunari Kawabata
+  - Yasushi Inoue
+  - Yevgeny Zamyatin
+  - Your Face Tomorrow
+  - Yūko Tsushima
+  - audio
+  - bibliography
+  - book prize
+  - book review
+  - boxing
+  - butterfly effect
+  - commentary
+  - conservation
+  - dark fiction
+  - environment
+  - favorites
+  - fiction
+  - film review
+  - giveaways
+  - graphic
+  - group read
+  - indigenous peoples
+  - martial law
+  - martial law fiction
+  - movie review
+  - nonfiction
+  - placebo effect
+  - poem
+  - poetry
+  - postmodernism
+  - reading challenge
+  - reading diary
+  - reading list
+  - reading plan
+  - review
+  - science
+  - short stories
+  - short story
+  - translation
+  - translation prize
+  - travel
+  - video
+  - Ōe Kenzaburo
+  relme:
+    https://booktrek.blogspot.com/: true
+    https://www.blogger.com/profile/17446964640160585194: true
+  last_post_title: 'The truth-content of the lie: On The MANIAC by Benjamin Labatut'
+  last_post_description: |-
+    .post-body a {
+      color: #000000 !important;
+      text-decoration: underline !important;
+    }
+
+    Note: This is a revised and consolidated version of four posts I wrote last year on Benjamín Labatut’s The
+  last_post_date: "2026-09-05T13:36:10+08:00"
+  last_post_link: https://booktrek.blogspot.com/2026/08/the-truth-content-of-lie-on-maniac-by.html
+  last_post_categories:
+  - '#000000'
+  last_post_language: ""
+  last_post_guid: adf5aeea3481501d75f21fa2a4da2e0e
+  score_criteria:
+    cats: 5
+    description: 0
+    feedlangs: 0
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 21
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 25
+  avgpostlen: 0
+---

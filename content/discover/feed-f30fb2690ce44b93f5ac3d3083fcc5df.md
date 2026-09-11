@@ -13,6 +13,9 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952

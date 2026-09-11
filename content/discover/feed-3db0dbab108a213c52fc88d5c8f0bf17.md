@@ -10,6 +10,9 @@ params:
     https://danq.me/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -20,31 +23,29 @@ params:
   recommender: []
   categories:
   - Personal
-  - dns
-  - domain names
-  - internet
-  - nostalgia
-  - published on gemini
-  - technology
-  - vanity
+  - ai
+  - game
+  - games
+  - if
+  - user interface
+  - video games
   relme: {}
-  last_post_title: '[Article] Vanity Nameservers (White-Label DNS) in 2026'
-  last_post_description: Back in 2006, adding vanity nameservers to my personal domains
-    was just something I did as a matter of course, but - like most of the Internet
-    - I don't bother any more. Until today, when I switched
-  last_post_date: "2026-08-28T12:08:06+01:00"
-  last_post_link: https://danq.me/2026/08/28/white-label-dns/
+  last_post_title: '[Repost] Opusfived'
+  last_post_description: Miloš Novović's experimental interactive fiction is a silly
+    (but with a grain of truth!) simulation of what it feels like to attempt to use
+    vibe-coding to make small, simple, isolated changes to an
+  last_post_date: "2026-09-11T12:19:23+01:00"
+  last_post_link: https://danq.me/2026/09/11/opusfived/
   last_post_categories:
   - Personal
-  - dns
-  - domain names
-  - internet
-  - nostalgia
-  - published on gemini
-  - technology
-  - vanity
+  - ai
+  - game
+  - games
+  - if
+  - user interface
+  - video games
   last_post_language: ""
-  last_post_guid: 5a720422ad12db912024a425bce20392
+  last_post_guid: e5f1b10353ecba8696d9248c10652fcd
   score_criteria:
     cats: 0
     description: 3

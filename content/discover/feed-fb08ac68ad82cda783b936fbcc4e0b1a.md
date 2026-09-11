@@ -27,33 +27,43 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Reds Week
-  - theme week
+  - NBA
+  - Podcasts
+  - Sports
+  - Tennis
+  - los angeles clippers
+  - nothing but respect
+  - u.s. open
   relme: {}
-  last_post_title: It’s No Longer Reds Week
-  last_post_description: Bang! Reds Week is over. Thank you for joining us. I hope
-    you had at least half as much fun reading this week's collection blogs as we did
-    writing them. You can catch up on anything you missed here
-  last_post_date: "2026-08-28T20:38:26Z"
-  last_post_link: https://defector.com/its-no-longer-reds-week
+  last_post_title: Honey Deuce McBride, With Giri Nathan
+  last_post_description: This week on Nothing But Respect, we welcomed back million-time
+    guest Giri Nathan to talk primarily about his experience covering the U.S. Open.
+    How bad is the phone situation? How does the memetic
+  last_post_date: "2026-09-11T15:50:48Z"
+  last_post_link: https://defector.com/honey-deuce-mcbride-with-giri-nathan
   last_post_categories:
-  - Reds Week
-  - theme week
+  - NBA
+  - Podcasts
+  - Sports
+  - Tennis
+  - los angeles clippers
+  - nothing but respect
+  - u.s. open
   last_post_language: ""
-  last_post_guid: 76d277dee7ebad96e6d1c21fa6ef9f4c
+  last_post_guid: ef82c481424a60cd0f3fbae2a70adc33
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

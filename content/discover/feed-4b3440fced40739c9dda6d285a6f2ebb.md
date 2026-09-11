@@ -24,34 +24,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - AIxGEO
-  - Artificial Intelligence
-  - Bennett School
-  - Current AI
-  - Geopolitics
-  - Humanity AI
-  - University of Cambridge
-  - Verity Harding
+  - Authoritarianism
+  - Democracy
+  - Disinformation
+  - Misinformation
+  - Science
+  - Truth
   relme: {}
-  last_post_title: 'Reimagining AI: Philanthropy’s Role in Global Collaboration'
-  last_post_description: Verity Harding of the University of Cambridge pulled together
-    an anthology of essays about Artificial Intelligence and Geopolitics as of early
-    2026. I urge you to read everyone’s essays. I re-post
-  last_post_date: "2026-07-12T23:17:51Z"
-  last_post_link: https://jpalfrey.blog/2026/07/12/essays-on-ai-and-geopolitics/
+  last_post_title: When Authoritarians Attack Science, Democracy Is the Real Target
+  last_post_description: 'Around the world, authoritarian movements are attacking
+    science to weaken democracy: cutting research funding, smearing scientists, and
+    spreading mis- and disinformation. This piece argues that'
+  last_post_date: "2026-09-07T15:41:23Z"
+  last_post_link: https://jpalfrey.blog/2026/09/07/when-authoritarians-attack-science-democracy-is-the-real-target/
   last_post_categories:
-  - AI
-  - AIxGEO
-  - Artificial Intelligence
-  - Bennett School
-  - Current AI
-  - Geopolitics
-  - Humanity AI
-  - University of Cambridge
-  - Verity Harding
+  - Authoritarianism
+  - Democracy
+  - Disinformation
+  - Misinformation
+  - Science
+  - Truth
   last_post_language: ""
-  last_post_guid: c1716157d1727a8771489c7368322c94
+  last_post_guid: 4350e9515fd50ebe633fedbc33d6e12e
   score_criteria:
     cats: 0
     description: 3

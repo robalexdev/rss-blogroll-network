@@ -1,6 +1,6 @@
 ---
 title: Victor Poughon
-date: "2026-08-28T08:54:14Z"
+date: "2026-09-11T09:57:55Z"
 description: Victor Poughon personal website
 params:
   feedlink: https://victorpoughon.fr/feed/
@@ -11,6 +11,9 @@ params:
     https://victorpoughon.fr/blog/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297

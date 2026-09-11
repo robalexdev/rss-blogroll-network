@@ -1,0 +1,49 @@
+---
+title: Håkon's Diary
+date: "2026-07-08T12:00:00Z"
+description: ""
+params:
+  feedlink: https://gylterud.net/diary.atom
+  feedtype: atom
+  feedid: dc82a03ba0d9adce06e27b90a8fd47ac
+  websites:
+    https://gylterud.net/: false
+  blogrolls: []
+  in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  recommended: []
+  recommender: []
+  categories: []
+  relme: {}
+  last_post_title: 2026-07-08, Wednesday
+  last_post_description: ""
+  last_post_date: "2026-07-08T12:00:00Z"
+  last_post_link: https://hakon.gylterud.net/diary/2026-07.html
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: 1eabe16d625f73c438ca653f955ffa75
+  score_criteria:
+    cats: 0
+    description: 0
+    feedlangs: 0
+    hasContent: 3
+    hasPosts: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 15
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+  postcount: 30
+  avgpostlen: 267
+---

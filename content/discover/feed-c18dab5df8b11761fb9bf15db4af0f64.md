@@ -1,0 +1,61 @@
+---
+title: LandLebenBlog
+date: "1970-01-01T00:00:00Z"
+description: Notizen aus der Provinz
+params:
+  feedlink: https://landlebenblog.org/feed/
+  feedtype: rss
+  feedid: c18dab5df8b11761fb9bf15db4af0f64
+  websites:
+    https://landlebenblog.org/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Rivva Starterpack
+    description: ""
+    id: 58b3b7695e65b2e8cc076c1b2808b226
+  - title: Starterpack
+    description: ""
+    id: ba3288f3c74b37cf67d268fc37ea9e8f
+  - title: Blogroll by Der Schreibende (Frank Hamm)
+    description: ""
+    id: 0304ed09e3798f370adcb6f77278c335
+  - title: Blogroll by Der Schreibende (Frank Hamm)
+    description: ""
+    id: 6508aac0042871e4620b785254e30bef
+  recommended: []
+  recommender:
+  - https://bielinski.de/feed/
+  - https://derschreiben.de/category/tumor/feed/
+  - https://derschreiben.de/feed/
+  categories:
+  - allerlei
+  relme: {}
+  last_post_title: 'wmdedgt oder: ein Landleben-Lehrstück'
+  last_post_description: Am Fünften des Monats sollen wir tagebuch-artig bloggen,
+    so wollen es das Bloggergesetz und die freundliche Nachbarbloggerin, bei der sich…
+  last_post_date: "2026-09-05T16:17:01Z"
+  last_post_link: https://landlebenblog.org/2026/09/05/wmdedgt-oder-ein-landleben-lehrstueck/
+  last_post_categories:
+  - allerlei
+  last_post_language: ""
+  last_post_guid: 0a4c0a99f0382467520db38790ac36d3
+  score_criteria:
+    cats: 0
+    description: 3
+    feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 18
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: de
+  postcount: 10
+  avgpostlen: 0
+---

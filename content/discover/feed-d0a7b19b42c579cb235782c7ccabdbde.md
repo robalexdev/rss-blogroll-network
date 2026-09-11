@@ -16,33 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Reflections
-  - The expert's corner
+  - Uncategorized
   relme: {}
-  last_post_title: Nicole’s guide to writing and editing
-  last_post_description: Freshman year of college, I took a writing seminar from German-literature
-    professor Ellis Shookman. Professor Shookman loved Mozart’s music, he told us
-    early in the term. He listened to Mozart on
-  last_post_date: "2026-08-26T23:53:01Z"
-  last_post_link: https://quantumfrontiers.com/2026/08/26/nicoles-guide-to-writing-and-editing/
+  last_post_title: How can objects interact without touching?
+  last_post_description: Rethinking the electric field Have you ever wondered what
+    an electric field actually is?  The electric field is the foundation of most technologies
+    that we rely on every day. From power grids and
+  last_post_date: "2026-09-06T13:17:26Z"
+  last_post_link: https://quantumfrontiers.com/2026/09/06/how-can-objects-interact-without-touching/
   last_post_categories:
-  - Reflections
-  - The expert's corner
+  - Uncategorized
   last_post_language: ""
-  last_post_guid: 52722ea43340d36059f243ea2cf1e47f
+  last_post_guid: 77de9cb62efd8f1df2b996782fbe907d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -6,9 +6,13 @@ params:
   feedlink: https://danielchasehooper.com/feed.xml
   feedtype: rss
   feedid: 42b671fc7d3cef74df8e7aa8efb2c813
-  websites: {}
+  websites:
+    https://danielchasehooper.com/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -43,8 +47,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

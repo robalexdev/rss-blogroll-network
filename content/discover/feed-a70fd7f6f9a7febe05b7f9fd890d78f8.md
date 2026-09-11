@@ -1,6 +1,6 @@
 ---
 title: Nate Meyvis
-date: "2026-08-28T14:10:56Z"
+date: "2026-09-11T09:51:20Z"
 description: |-
   Pulpit! Canst thou not make a pulpit, by simply inverting the nearest tub...[^1]
 
@@ -13,7 +13,7 @@ params:
     https://www.natemeyvis.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: HN Personal Websites
@@ -26,21 +26,23 @@ params:
   recommender: []
   categories:
   - generative AI
-  - lifestyle
-  - philosophy
+  - migrations
+  - nuts and bolts
+  - productivity
   - software
   relme: {}
-  last_post_title: AI skepticism in philosophy
+  last_post_title: AWS, Vercel, and Amdahl's Law
   last_post_description: ""
-  last_post_date: "2026-08-28T14:10:48Z"
-  last_post_link: https://www.natemeyvis.com/ai-skepticism-in-philosophy/
+  last_post_date: "2026-09-09T20:25:54Z"
+  last_post_link: https://www.natemeyvis.com/aws-vercel-and-amdahls-law/
   last_post_categories:
   - generative AI
-  - lifestyle
-  - philosophy
+  - migrations
+  - nuts and bolts
+  - productivity
   - software
   last_post_language: ""
-  last_post_guid: d60fc9642b9531e72b55bf43cca463eb
+  last_post_guid: 0bb8711270f5f10eb2a49d0342d60fea
   score_criteria:
     cats: 0
     description: 3

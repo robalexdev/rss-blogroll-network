@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -25,15 +28,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F517 They don’t make ’em like Sublime Text anymore"
-  last_post_description: Sublime Text is still around. The last stable build was released
-    May 2025. There are dev builds as recent as July this year. I don’t know who develops
-    it and I don’t care. All I know is that I
-  last_post_date: "2026-08-09T12:00:00Z"
-  last_post_link: https://gurupanguji.com/blog/2026/08/09/they-dont-make-em-like-sublime-text-anymore/
+  last_post_title: "\U0001F517 New Apple Watches have ears and the surveillance industry
+    is going to take notice"
+  last_post_description: I think Apple is slicing the baloney pretty thin when it
+    says audio isn’t recorded. Surely there’s some recording because summaries require
+    context; they can’t be made on the fly. Maybe a
+  last_post_date: "2026-09-11T12:00:00Z"
+  last_post_link: https://gurupanguji.com/blog/2026/09/11/new-apple-watches-have-ears-and-the-surveillance-industry-is-going-to-take-notice/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 12d2c2a322794dabbc06f905adcb06f2
+  last_post_guid: 7adda6dbc1498049c57dd09084616114
   score_criteria:
     cats: 0
     description: 3

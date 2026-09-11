@@ -17,23 +17,23 @@ params:
   recommender: []
   categories:
   - "2026"
-  - AI
-  - Cloud Apps
-  - Headwater
+  - Gadgets
+  - X3
+  - Xteink
   relme: {}
-  last_post_title: Headwater app – Summarising YouTube
-  last_post_description: 'After I posted my review on the Xteink X3 someone left a
-    comment about it and made an oblique reference to something that they were working
-    on: I learned this working on my CrossPoint fork (hoping to'
-  last_post_date: "2026-08-26T08:48:00Z"
-  last_post_link: https://www.spokenlikeageek.com/2026/08/26/headwater-app-summarising-youtube/
+  last_post_title: What can you do with the NFC in the Xteink X3?
+  last_post_description: A while back I wrote a review of the Xteink X3 in which I
+    said “Has NFC for, well, we’ll discuss that later”. Brian left a comment recently
+    to ask “Will you still discuss the NFC later?” By
+  last_post_date: "2026-09-09T09:18:00Z"
+  last_post_link: https://www.spokenlikeageek.com/2026/09/09/what-can-you-do-with-the-nfc-in-the-xteink-x3/
   last_post_categories:
   - "2026"
-  - AI
-  - Cloud Apps
-  - Headwater
+  - Gadgets
+  - X3
+  - Xteink
   last_post_language: ""
-  last_post_guid: 1a6bb3b5e389e907eb7006829f407ff2
+  last_post_guid: b4b16f037a03d27bc980eeeaf099308a
   score_criteria:
     cats: 0
     description: 3

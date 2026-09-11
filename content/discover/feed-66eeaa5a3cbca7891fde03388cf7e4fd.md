@@ -32,6 +32,7 @@ params:
   - https://blog.fkun.tech/feed/
   - https://blog.glumi.cn/rss.xml
   - https://blog.gxres.net/atom.xml
+  - https://blog.hotsouprealm.top/atom.xml
   - https://blog.hslzz.cn/atom.xml
   - https://blog.kingfish404.cn/index.xml
   - https://blog.verdant.ee/atom.xml

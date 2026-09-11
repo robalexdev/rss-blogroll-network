@@ -11,7 +11,10 @@ params:
     https://actsofvolition.com/series/default-podcast/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,16 +37,14 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: Retroactive Sentiment
-  last_post_description: If you enjoy some piece of media (a story, a song, an image),
-    and then find out it was created with AI, is it reasonable to have your enjoyment
-    impacted in retrospect? It sure is. John Gruber wrote
-  last_post_date: "2026-08-22T18:30:31Z"
-  last_post_link: https://actsofvolition.com/2026/08/retroactive-sentiment/
+  last_post_title: Modern Day Typographer
+  last_post_description: The Modern Day Typographer is impressive.
+  last_post_date: "2026-09-09T13:22:32Z"
+  last_post_link: https://actsofvolition.com/2026/09/modern-day-typographer/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 0118f89dbaf2e332e87c76845c1f8587
+  last_post_guid: a0ea0ef4a90f3d6f7945223eae6a99f9
   score_criteria:
     cats: 0
     description: 0

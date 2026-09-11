@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2026-08-23T10:52:32Z"
+date: "2026-09-10T07:49:53Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -33,13 +33,13 @@ params:
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: The Social Smolnet
+  last_post_title: I Don’t Want to Interact With Stochastic Parrots
   last_post_description: ""
-  last_post_date: "2026-03-20T00:00:00Z"
-  last_post_link: https://ploum.net/2026-03-20-social-smolnet.html
+  last_post_date: "2026-09-09T00:00:00Z"
+  last_post_link: https://ploum.net/2026-09-09-ai_policy.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5322d2621878b73e4e70fe6ba577fc70
+  last_post_guid: 63e892774c4561596a619152bdb7be38
   score_criteria:
     cats: 0
     description: 3

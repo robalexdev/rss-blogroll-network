@@ -1,6 +1,6 @@
 ---
 title: 'ache: Personal blog'
-date: "2026-06-04T04:39:43Z"
+date: "2026-09-07T12:16:49Z"
 description: |-
   This is a RSS feed for content agreagator.
   As a human being, you are certainly looking for my website
@@ -13,34 +13,30 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
   categories:
-  - compression
-  - http
-  - nginx
-  - security
+  - DNS
+  - IPv6
   - web
-  - zip-bomb
   relme: {}
-  last_post_title: A valid HTML zip bomb
-  last_post_description: |-
-    Many sites have been affected by the aggressiveness of web crawlers designed to improve LLMs.
-    I’ve been relatively spared, but since the phenomenon started, I've been looking for a solution to
-  last_post_date: "2025-07-23T13:02:00Z"
-  last_post_link: https://ache.one/notes/html_zip_bomb
+  last_post_title: The Shortest IPv6 Addresses
+  last_post_description: I was looking for the shortest possible IPv6 equivalent of
+    1.1.1.1 (and its secondary 1.0.0.1, sometimes abbreviate 1.1).
+  last_post_date: "2026-09-05T22:57:26Z"
+  last_post_link: https://ache.one/notes/vanity-ipv6
   last_post_categories:
-  - compression
-  - http
-  - nginx
-  - security
+  - DNS
+  - IPv6
   - web
-  - zip-bomb
   last_post_language: ""
-  last_post_guid: 022c1bef4e6d6eb3f6ff42df51339151
+  last_post_guid: 33417414d88653d5073b48bd7e7a5f8d
   score_criteria:
     cats: 0
     description: 3
@@ -58,6 +54,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 6
+  postcount: 8
   avgpostlen: 0
 ---

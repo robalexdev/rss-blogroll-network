@@ -1,6 +1,6 @@
 ---
 title: Teacher's Notes
-date: "2026-07-11T00:52:28-07:00"
+date: "2026-08-29T15:30:20-07:00"
 description: ""
 params:
   feedlink: https://mrscspalding.blogspot.com/feeds/posts/default
@@ -10,6 +10,9 @@ params:
     https://mrscspalding.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3

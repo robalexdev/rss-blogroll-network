@@ -12,7 +12,10 @@ params:
   - title: Bacardi55's blogroll
     description: ""
     id: 5b6826cc65a55cfb580130b47ec7a162
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -32,13 +35,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Tracking down a Zsh history data loss bug \U0001F41E"
+  last_post_title: 'Debian Code Search: Fast TurboPFor with Go SIMD'
   last_post_description: ""
-  last_post_date: "2026-08-09T10:13:00+02:00"
-  last_post_link: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/
+  last_post_date: "2026-09-06T09:00:00+02:00"
+  last_post_link: https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4898c893f0b72c873afc87cc391dacd1
+  last_post_guid: 700d37e1fe0cc2b51112ea86217e7fd2
   score_criteria:
     cats: 0
     description: 0

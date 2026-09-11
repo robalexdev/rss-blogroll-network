@@ -1,12 +1,16 @@
 ---
 title: davewiner/hackerNewsStars
-date: Fri, 28 Aug 2026 19:18:25 GMT
+date: Fri, 11 Sep 2026 14:09:50 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.9.3.
 params:
   link: https://lists.opml.org/hackerNewsStars.xml
   blogroll_id: cfe5a7ae939fff5aad389dd1866e5efb
   recommends:
+  - title: Ken Shirriff's blog
+    description: Computer history, restoring vintage computers, IC reverse engineering,
+      and whatever
+    id: 0e736e78efe0e3eac8ecf2d2bd0b114a
   - title: Terence Eden’s Blog
     description: "Regular nonsense about tech and its effects \U0001F643"
     id: 1efefff9b841c584b6a0572f00ca77b3
@@ -56,6 +60,9 @@ params:
   - title: Downtown Doug Brown
     description: Thoughts from a combined Apple/Linux/Windows geek.
     id: 604646850744252c2dcc0b949cf713fe
+  - title: Matthew Garrett
+    description: Matthew Garrett - Dreamwidth Studios
+    id: 60bda9cc6a0acf436635089af5ee8ce0
   - title: Fernando Borretti
     description: Personal website
     id: 634f68333f7083e7a34262af05530da1
@@ -81,6 +88,10 @@ params:
   - title: Mitchell Hashimoto
     description: Mitchell Hashimoto's personal website.
     id: 84b337879415d9cd68a87c3775a93fa0
+  - title: The Silicon Underground
+    description: David L. Farquhar on technology old and new, computer security, and
+      more
+    id: 84e62eb73415454e2972335695ecba5c
   - title: Grant Slatton's Blog
     description: Grant Slatton's Blog
     id: 8959fcb2a357bc6df6d32a0efca51a13
@@ -130,6 +141,10 @@ params:
   - title: overreacted — A blog by Dan Abramov
     description: A blog by Dan Abramov
     id: b9f68a77f9d31e4a02f0b3d7ac10c372
+  - title: Hugo Tunius - Blog
+    description: Personal blog of Hugo Tunius. Developer, open source enthusiast,
+      aspiring designer, and Hugo of all trades.
+    id: ba6f2316dce97f7acaf2312a73348e5a
   - title: Aresluna
     description: A feed of Marcin Wichary’s writing.
     id: c08e27136a82a27de175927a7a95079f
@@ -160,6 +175,12 @@ params:
   - title: seangoedecke.com RSS feed
     description: Sean Goedecke's personal blog
     id: dd371c9753d38bb72b191e7073269276
+  - title: Refactoring English
+    description: Recent content on Refactoring English
+    id: e171e6e17978813d4b293d375aaa6e0c
+  - title: Blog - Daniel Wirtz
+    description: Senior Design Engineer at Giving What We Can.
+    id: ed97d8932e73d19340a80151a57e4a77
   - title: the singularity is nearer
     description: A home for poorly researched ideas that I find myself repeating a
       lot anyway

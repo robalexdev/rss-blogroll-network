@@ -1,6 +1,6 @@
 ---
 title: cultural snow
-date: "2026-08-27T20:33:27+01:00"
+date: "2026-09-11T16:36:57+01:00"
 description: a fourragère of snot and blutwurst
 params:
   feedlink: https://culturalsnow.blogspot.com/feeds/posts/default
@@ -10,7 +10,10 @@ params:
     https://culturalsnow.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -473,15 +476,15 @@ params:
     https://culturalsnow.blogspot.com/: true
     https://lookinginfinite.blogspot.com/: true
     https://www.blogger.com/profile/14681067872556519250: true
-  last_post_title: About dead famous people
+  last_post_title: About yet another name
   last_post_description: ""
-  last_post_date: "2026-08-27T20:33:27+01:00"
-  last_post_link: https://culturalsnow.blogspot.com/2026/08/about-dead-famous-people.html
+  last_post_date: "2026-09-10T15:23:10+01:00"
+  last_post_link: https://culturalsnow.blogspot.com/2026/09/about-yet-another-name.html
   last_post_categories:
-  - celebrity
-  - death
+  - books
+  - names
   last_post_language: ""
-  last_post_guid: fac54abe0163b4e45450f9d1e9ce704e
+  last_post_guid: 198d4299c06b6afb8fd105569ff2902e
   score_criteria:
     cats: 5
     description: 3

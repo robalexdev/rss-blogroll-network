@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-08-28T16:38:06Z"
+date: "2026-09-11T13:35:10Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -14,6 +14,12 @@ params:
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.8.14.
     id: 4245e42f2d95b58713124e48e7ed0b3c
+  - title: Blogroll
+    description: ""
+    id: b0658004798cf7c53b4c0b9324265ab4
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: robalexdev
     description: robalexdev's subscription list. List created by feedlandDatabase
       v0.9.3.
@@ -38,21 +44,21 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - maintainers
-  - open-source
-  - satire
+  - package-managers
+  - security
+  - supply-chain
   relme: {}
-  last_post_title: 'Now Hiring: Senior Open Source Maintainer'
-  last_post_description: A rare opportunity to make a real impact in a fast-paced,
-    high-visibility role.
-  last_post_date: "2026-08-28T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html
+  last_post_title: Package Manager Trends
+  last_post_description: min-release-age, minimum-release-age, -Zmin-publish-age,
+    cooldown.
+  last_post_date: "2026-09-10T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/09/10/package-manager-trends.html
   last_post_categories:
-  - maintainers
-  - open-source
-  - satire
+  - package-managers
+  - security
+  - supply-chain
   last_post_language: ""
-  last_post_guid: a87d413ffb3731725ee90dc8ddd907db
+  last_post_guid: 08d73b94b01b4805fa9db07f8154e6c3
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Transpontine
-date: "2026-08-28T14:43:23Z"
+date: "2026-09-11T15:32:34Z"
 description: 'South East London blogzine - things that are happening, things that
   happened, things that should never have happened. New Cross, Brockley, Deptford
   and other beauty spots. EMAIL US: transpontineblog'
@@ -12,7 +12,10 @@ params:
     https://transpont.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -156,6 +159,7 @@ params:
   - Bob Marley
   - Bobby Seale
   - Bonamy Estate
+  - Bonobo
   - Bonzo Dog Doo-Dah Band
   - Boris Johnson
   - Borough
@@ -1408,19 +1412,18 @@ params:
   - yoga
   - zines
   relme: {}
-  last_post_title: Paul Simon in Catford, August 1965 (and other Catford folk tales)
+  last_post_title: 'Music Monday: Always on your side - Bonobo with Joy Crookes'
   last_post_description: ""
-  last_post_date: "2026-08-23T11:39:16Z"
-  last_post_link: https://transpont.blogspot.com/2026/08/paul-simon-in-catford-august-1965-and.html
+  last_post_date: "2026-09-07T17:24:12Z"
+  last_post_link: https://transpont.blogspot.com/2026/09/music-monday-always-on-your-side-bonobo.html
   last_post_categories:
-  - Catford
-  - Catford Bridge Tavern
-  - Jackson C Frank
-  - Lewisham
-  - Paul Simon
-  - folk music
+  - Bonobo
+  - Joy Crookes
+  - Music Monday
+  - Peckham
+  - music videos
   last_post_language: ""
-  last_post_guid: 9eafc76f37d3a21741a998c58d8f4ed8
+  last_post_guid: cae210ca934e0974f52763482bd6f6fe
   score_criteria:
     cats: 5
     description: 3

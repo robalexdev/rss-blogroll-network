@@ -1,6 +1,6 @@
 ---
 title: Nicolas Hoizey - All contents
-date: "2026-01-28T09:41:26Z"
+date: "2026-09-10T08:20:57Z"
 description: ""
 params:
   feedlink: https://nicolas-hoizey.com/feeds/all.xml
@@ -8,9 +8,11 @@ params:
   feedid: 6feffdb42d7cefc9a95af3d0529eac88
   websites:
     https://nicolas-hoizey.com/: false
-    https://nicolas-hoizey.com/about/: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -24,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F517 Try text scaling support in Chrome Canary"
+  last_post_title: "\U0001F517 I changed my license"
   last_post_description: ""
-  last_post_date: "2026-01-28T09:41:26Z"
-  last_post_link: https://nicolas-hoizey.com/links/2026/01/28/try-text-scaling-support-in-chrome-canary/
+  last_post_date: "2026-09-10T08:20:57Z"
+  last_post_link: https://nicolas-hoizey.com/links/2026/09/10/i-changed-my-license/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1d2b0265a0618886bd115dca1d4b0656
+  last_post_guid: eada708993ecf330b06300b239771571
   score_criteria:
     cats: 0
     description: 0
@@ -49,5 +51,5 @@ params:
   innetwork: true
   language: ""
   postcount: 20
-  avgpostlen: 262
+  avgpostlen: 287
 ---

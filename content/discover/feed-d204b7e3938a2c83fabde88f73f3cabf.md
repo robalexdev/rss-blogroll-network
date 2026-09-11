@@ -10,7 +10,10 @@ params:
     https://max-inden.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5347 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -23,21 +26,20 @@ params:
     description: ""
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme:
     https://max-inden.de/: true
-  last_post_title: Slides from the HTTP Workshop 2026
+  last_post_title: Talk "A Report on Firefox's HEv3 Implementation" @IETF 126
   last_post_description: |-
-    I gave three short talks at this year’s HTTP Workshop.
-    Increase and evolve HTTP/3 & QUIC
-    Slides: mxinden-bot.github.io/slides/04-quic-discussion
-    A discussion deck. HTTP/3 sits around 30% and has
-  last_post_date: "2026-07-17T00:00:00Z"
-  last_post_link: https://max-inden.de/post/http-workshop-2026-slides/
+    I reported on Firefox’s Happy Eyeballs v3 implementation in the HAPPY working group at IETF 126 in Vienna.
+    Happy Eyeballs v3 races connection attempts across address families and protocols and
+  last_post_date: "2026-07-20T00:00:00Z"
+  last_post_link: https://max-inden.de/post/a-report-on-firefoxs-hev3-implementation/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 743485ef5a7a148baaf33178c347d5a1
+  last_post_guid: 706640075bb232d5633dc11e8853a851
   score_criteria:
     cats: 0
     description: 3

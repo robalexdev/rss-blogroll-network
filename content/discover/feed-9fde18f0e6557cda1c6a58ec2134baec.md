@@ -7,12 +7,14 @@ params:
   feedtype: rss
   feedid: 9fde18f0e6557cda1c6a58ec2134baec
   websites:
-    https://trysmudford.com/: false
     https://www.trysmudford.com/: false
     https://www.trysmudford.com/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5348 blogs
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

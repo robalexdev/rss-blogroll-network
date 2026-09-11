@@ -1,6 +1,6 @@
 ---
 title: Ken Shirriff's blog
-date: "2025-02-23T15:27:40-08:00"
+date: "2026-09-11T00:38:57-07:00"
 description: Computer history, restoring vintage computers, IC reverse engineering,
   and whatever
 params:
@@ -11,9 +11,31 @@ params:
     https://www.righto.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Blogs read by Marco d'Itri
+    description: ""
+    id: f860159e5c62745be6a70f22969a801a
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5297 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: indieblog.page
+    description: ""
+    id: 57d1158260fb39257e0d42e895822952
+  - title: davewiner/hackerNewsStars
+    description: davewiner's subscription list, hackerNewsStars category. List created
+      by feedlandDatabase v0.9.3.
+    id: cfe5a7ae939fff5aad389dd1866e5efb
   - title: Subscriptions - RSS
     description: ""
     id: 7d1048b956eae1cfe0bce8f68656857b
+  - title: Information and Cyber Security RSS/Atom Feeds
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
+  - title: Blake subscriptions in feedly Cloud
+    description: ""
+    id: fc723228b52dc849137c02191b135d4b
   recommended: []
   recommender: []
   categories:
@@ -79,16 +101,16 @@ params:
   relme:
     https://www.blogger.com/profile/08097301407311055124: true
     https://www.righto.com/: true
-  last_post_title: Interesting BiCMOS circuits in the Pentium, reverse-engineered
+  last_post_title: 'Cores in space: The core memory module from a 1980 Spacelab computer'
   last_post_description: ""
-  last_post_date: "2025-02-04T21:51:27-08:00"
-  last_post_link: http://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html
+  last_post_date: "2026-08-30T10:38:11-07:00"
+  last_post_link: http://www.righto.com/2026/08/spacelab-core-memory.html
   last_post_categories:
-  - Pentium
+  - aerospace
   - electronics
   - reverse-engineering
   last_post_language: ""
-  last_post_guid: 2c8d2f9e04c003b1bd06456abc2a13cb
+  last_post_guid: a1acca4a11d8a9ce3bd547f18b370551
   score_criteria:
     cats: 5
     description: 3
@@ -107,5 +129,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 295
+  avgpostlen: 296
 ---

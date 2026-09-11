@@ -8,9 +8,13 @@ params:
   feedtype: rss
   feedid: 04bedcfaa8032e8f6ad6bf6a4e87ff89
   websites:
+    https://pikuma.com/: false
     https://pikuma.com/blog: false
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
