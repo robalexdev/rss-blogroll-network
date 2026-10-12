@@ -10,36 +10,33 @@ params:
     https://www.resipis.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Abnehmen
-  - Fisch & Meeresfrüchte
+  - Aus dem Ofen
+  - Fleisch
   - Für Partys
-  - Grillen
+  - Leckere Mahlzeiten
   - Olivenöl
-  - Vorspeisen
   relme: {}
-  last_post_title: Gegrillter Oktopus auf griechische Art (Oktapodi Skaras)
+  last_post_title: Leckere Hackfleisch-Blätterteig-Rolle
   last_post_description: |-
-    https://www.resipis.de/wp-content/uploads/2026/08/gegrillter-oktopus-griechische-art-rezept.jpg
+    https://www.resipis.de/wp-content/uploads/2020/08/hackfleisch-blaetterteig-rolle-super-lecker-einfach-rezept.jpg
 
-    Wer in Griechenland schon einmal direkt am Meer gegessen hat, kennt diesen Moment: Die Wellen rauschen
-  last_post_date: "2026-08-03T18:15:51Z"
-  last_post_link: https://www.resipis.de/rezepte/gegrillter-oktopus-auf-griechische-art/
+    Leckeres Essen kann so einfach sein – und was könnte besser dazu passen als eine
+  last_post_date: "2026-10-10T07:31:54Z"
+  last_post_link: https://www.resipis.de/rezepte/hackfleisch-blaetterteig-rolle-lecker-einfach/
   last_post_categories:
-  - Abnehmen
-  - Fisch & Meeresfrüchte
+  - Aus dem Ofen
+  - Fleisch
   - Für Partys
-  - Grillen
+  - Leckere Mahlzeiten
   - Olivenöl
-  - Vorspeisen
   last_post_language: ""
-  last_post_guid: f4d08e57ed4f468f848ad7ca5b982032
+  last_post_guid: 236f312fa44f505d22ec6eef5842b5e1
   score_criteria:
     cats: 0
     description: 3

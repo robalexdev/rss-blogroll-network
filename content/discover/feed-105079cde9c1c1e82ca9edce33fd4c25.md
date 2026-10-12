@@ -1,6 +1,6 @@
 ---
 title: Domenic Denicola
-date: "2026-07-23T00:00:00Z"
+date: "2026-09-26T00:00:00Z"
 description: Domenic Denicola's website
 params:
   feedlink: https://domenic.me/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My Agentic Coding Setup, July 2026
+  last_post_title: “We Didn't Start the Scaling”
   last_post_description: ""
-  last_post_date: "2026-07-23T00:00:00Z"
-  last_post_link: https://domenic.me/agentic-coding-setup/
+  last_post_date: "2026-09-26T00:00:00Z"
+  last_post_link: https://domenic.me/how-we-didnt-start-the-scaling/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f909aaba2a53e886a04f9554e1b8f6c
+  last_post_guid: 7a81579f83fc961471cc14856eb9ee3f
   score_criteria:
     cats: 0
     description: 3

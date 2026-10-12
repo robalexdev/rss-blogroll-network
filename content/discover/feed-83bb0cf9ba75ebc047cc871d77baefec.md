@@ -13,28 +13,27 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Andere Blogs und Webseiten by Martha
+  - title: Andere Blogs und Webseiten von Martha
     description: ""
     id: 5363c70da1bacf44f1bd0a37d6fda2f0
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Nine of a Day
+  - Himmelssterne
   relme: {}
-  last_post_title: Emmylou Harris
-  last_post_description: Emmylou Harris war auf Abschiedstournee. Nur ein Konzert
-    davon in Deutschland und zwar in Monheim am Rhein. Schon im Advent hatte ich mir
-    eine Karte gekauft. Gestern fuhr ich hin. Weil ich einzig zum
-  last_post_date: "2026-09-07T20:25:22Z"
-  last_post_link: https://pressepfarrerin.de/2026/09/07/emmylou-harris/
+  last_post_title: Himmelssterne
+  last_post_description: 'Es ist Zeit für den ersten Schwung, sonst wird der Post
+    zu Halloween so lang wie der Bart des Methusalem. Außerdem waren Michaeli und
+    Erntedank. Und schließlich: Mehr lustige Posts ab'
+  last_post_date: "2026-10-11T19:16:35Z"
+  last_post_link: https://pressepfarrerin.de/2026/10/11/himmelssterne-41/
   last_post_categories:
-  - Nine of a Day
+  - Himmelssterne
   last_post_language: ""
-  last_post_guid: 1bcea2fe4cef1b18856c0af148ae7548
+  last_post_guid: 597f9e319e9ed003a72cd85a8e009e78
   score_criteria:
     cats: 0
     description: 3

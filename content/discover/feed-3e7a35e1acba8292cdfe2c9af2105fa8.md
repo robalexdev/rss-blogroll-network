@@ -22,6 +22,7 @@ params:
   - iOS
   relme:
     https://joshstrange.com/: true
+    https://mastodon.social/@joshstrange: true
   last_post_title: 'iRant: Birthday Alerts'
   last_post_description: Dear Apple, This might be hard to fathom but I have many
     people in my contacts that I don’t really care about. People from previous phases

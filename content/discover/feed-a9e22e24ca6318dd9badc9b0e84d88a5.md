@@ -1,6 +1,6 @@
 ---
 title: Günstig gärtnern
-date: "2026-09-10T18:53:33+02:00"
+date: "2026-10-12T00:40:54+02:00"
 description: Mit wenig Geld zum Traumgarten
 params:
   feedlink: https://guenstiggaertnern.blogspot.com/feeds/posts/default
@@ -10,12 +10,11 @@ params:
     https://guenstiggaertnern.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Andere Blogs und Webseiten by Martha
+  - title: Andere Blogs und Webseiten von Martha
     description: ""
     id: 5363c70da1bacf44f1bd0a37d6fda2f0
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - '#gbt19'
   - '''Brazen Hussy'''
@@ -234,6 +233,7 @@ params:
   - Borretsch
   - Botanische Gärten
   - Botanischer Garten
+  - Botanischer Garten Berlin
   - Botanischer Garten Bielefeld
   - Brachypodium sylvaticum
   - Brandenburg
@@ -543,6 +543,7 @@ params:
   - Garten bei Nacht
   - Garten-Literatur
   - Garten-Salbei
+  - Garten-Wollbiene
   - Gartenabfälle
   - Gartenarbeit
   - Gartenbesuche
@@ -676,6 +677,7 @@ params:
   - Hasenglöckchen
   - Hasenschwanzgras
   - Hausbaum
+  - Havelgarten
   - Hecken
   - Hedera helix
   - Heerser Mühle
@@ -724,6 +726,7 @@ params:
   - Hochbeete
   - Hochstämmchen
   - Hocker
+  - Hohe Fetthenne
   - Hohes Helmkraut
   - Hohler Lerchensporn
   - Hohlzahn
@@ -754,6 +757,7 @@ params:
   - Hyacinthus orientalis
   - Hyazinthe
   - Hygromia cinctella
+  - Hylotelephium telephium
   - Hyssopus
   - Häcksler
   - Hängematte
@@ -1013,6 +1017,7 @@ params:
   - Meerkohl
   - Megachile
   - Megachile willughbiella
+  - Mehl-Salbei
   - Meisen
   - Meisenknödel
   - Mentha
@@ -1146,6 +1151,7 @@ params:
   - Palomena prasina
   - Papaver rhoeas
   - Papaver somniferum
+  - Paperpots
   - Papptopf
   - Park Sanssouci
   - Park der Gärten
@@ -1293,6 +1299,7 @@ params:
   - Rosa rugosa
   - Rosa spinosissima
   - Rosa x salaevensis
+  - Rose
   - Rose de Resht
   - Rosen
   - Rosen-Waldmeister
@@ -1323,6 +1330,7 @@ params:
   - Salat
   - Salbei
   - Salix integra Hakuro nishiki
+  - Salvia farinacea
   - Salvia glutinosa
   - Salvia officinalis
   - Sambucus
@@ -1430,6 +1438,7 @@ params:
   - Silvester
   - Singdrossel
   - Sissinghurst
+  - Sminthurides aquaticus
   - Smokey
   - Smyrnium perfoliatum
   - Solanum dulcamara
@@ -1477,6 +1486,7 @@ params:
   - Stauden vermehren
   - Stauden-Wicke
   - Staudenbörse
+  - Staudenmarkt
   - Staudenschnitt
   - Staudenstängel
   - Staudenstütze
@@ -1652,6 +1662,7 @@ params:
   - Weinbergschnecken
   - Weinfass
   - Weißdorn
+  - Weiße Wald-Aster
   - Wespen
   - Wespennest
   - Wetter
@@ -1670,11 +1681,13 @@ params:
   - Wildkräuterküche
   - Wildobst
   - Wildpflanzen
+  - Wildrose
   - Wildrosen
   - Wildstauden
   - Wildtomaten
   - Wildträucher
   - Wilhelma
+  - William III
   - Windenschwärmer
   - Windlichter
   - Windräder
@@ -1765,17 +1778,21 @@ params:
   relme:
     https://guenstiggaertnern.blogspot.com/: true
     https://www.blogger.com/profile/15240511233143510506: true
-  last_post_title: Platz da!
+  last_post_title: Sie finden einfach kein Ende...
   last_post_description: ""
-  last_post_date: "2026-09-05T07:56:29+02:00"
-  last_post_link: https://guenstiggaertnern.blogspot.com/2026/09/platz-da.html
+  last_post_date: "2026-10-10T08:38:38+02:00"
+  last_post_link: https://guenstiggaertnern.blogspot.com/2026/10/sie-finden-einfach-kein-ende.html
   last_post_categories:
-  - Regentonne
-  - Regenwasser
-  - Wasser
-  - Wassersparen
+  - Anthidium manicatum
+  - Berggarten
+  - Garten-Wollbiene
+  - Hannover
+  - Holzbiene
+  - Mehl-Salbei
+  - Salvia farinacea
+  - Sminthurides aquaticus
   last_post_language: ""
-  last_post_guid: ff4cbfeb5ef9c7a3ba15d436c56e1177
+  last_post_guid: eede04aaeb412ef2aa63d8c68fb756e8
   score_criteria:
     cats: 5
     description: 3

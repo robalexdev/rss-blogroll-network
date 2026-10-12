@@ -10,29 +10,28 @@ params:
     https://heissehimbeeren.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Deutsche Rezepte
   - Kochrezepte
-  - Vegetarische Rezepte
+  - Vegane Rezepte
+  - Weihnachtsrezepte
   relme: {}
-  last_post_title: Vegetarischer Erbseneintopf
+  last_post_title: Vegane Bratensoße – kräftig und würzig
   last_post_description: |-
-    Einfaches Rezept für würzigen, vegetarischen ... Weiterlesen ...
-    Der Beitrag Vegetarischer Erbseneintopf erschien zuerst auf Heisse Himbeeren.
-  last_post_date: "2026-09-09T09:59:47Z"
-  last_post_link: https://heissehimbeeren.com/vegetarischer-erbseneintopf/
+    Einfaches Rezept für vegane Bratensoße. ... Weiterlesen ...
+    Der Beitrag Vegane Bratensoße – kräftig und würzig erschien zuerst auf Heisse Himbeeren.
+  last_post_date: "2026-10-08T16:50:25Z"
+  last_post_link: https://heissehimbeeren.com/vegane-bratensosse-kraeftig-und-wuerzig/
   last_post_categories:
-  - Deutsche Rezepte
   - Kochrezepte
-  - Vegetarische Rezepte
+  - Vegane Rezepte
+  - Weihnachtsrezepte
   last_post_language: ""
-  last_post_guid: b47a54a893cb8a4785c5e8b243ae21d3
+  last_post_guid: 3d65f3e7942fa13669f439f33fc3330b
   score_criteria:
     cats: 0
     description: 0

@@ -1,12 +1,13 @@
 ---
 title: 清水尘曦
-date: "2026-04-29T04:58:02Z"
+date: "2026-09-16T06:12:42Z"
 description: 沉淀思想
 params:
   feedlink: https://watersfree.github.io/static/xml/rss.xml
   feedtype: rss
   feedid: d28a7ca52c067b88d3bf6dafd61a0ed4
-  websites: {}
+  websites:
+    https://watersfree.github.io/: true
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -16,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 三步解决安卓手机版ChatGPT无法登录谷歌账号
+  last_post_title: 零门槛部署RSSHub到斐讯N1（飞牛NAS+Docker）
   last_post_description: !!binary |
-    5LiJ5q2l6Kej5Yaz5a6J5Y2T5omL5py654mIQ2hhdEdQVOaXoOazleeZu+W9leiwt+atjO
-    i0puWPt+WuieWNk+S4ikNoYXRHUFTnqoHnhLbnmbvlvZXkuI3kuIrkuobvvIzmiJHkuIDl
-    vIDlp4vku6XkuLrmmK/miJHnmoTnvZHnu5zvvIzliIfmjaLkuI3lkIxJUOWcsOWdgO+8jO
-    S7jeaXp+aXoOazleino+WGs+OAgumAmui/h+S6kuiBlOe9keaQnOe0ouU=
-  last_post_date: "2024-07-22T00:00:00Z"
-  last_post_link: https://watersfree.github.io/posts/2024/07/22/ChatGPT-Android.html
+    6Zu26Zeo5qeb6YOo572yUlNTSHVi5Yiw5paQ6K6vTjHvvIjpo57niZtOQVMrRG9ja2Vy77
+    yJ5oiR5LmL5YmN5YaZ6L+H5LiA56+HUlNT6K6i6ZiF5L2/55So5pWZ56iL77yM5b2T5pe2
+    5Li76KaB5LuL57uN5aaC5L2V5a+75om+UlNT5rqQ5ZKM6YCJ5oup6ZiF6K+75Zmo77yM5L
+    2G55So5LmF5Lul5ZCO5Lya5Y+R546w5LiA5Liq6Zeu6aKY77ya5b6I5aQ=
+  last_post_date: "2026-09-16T00:00:00Z"
+  last_post_link: https://watersfree.github.io/posts/2026/09/16/N1-RSSHub.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3df894c3899d1df3b213cecfa73267c
+  last_post_guid: efb7a5a23268f1105f32c9131b8b7444
   score_criteria:
     cats: 0
     description: 3
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,15 +25,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "2026-09-03"
+  last_post_title: mcp-demo
   last_post_description: |-
-    <h1 id="2026-09-03">2026-09-03<a href="#2026-09-03" class="heading-anchor" aria-hidden="true">#</a></h1><p>hello</p>
-    <p>what is new</p>
-  last_post_date: "2026-09-03T16:18:11Z"
-  last_post_link: https://podviaznikov.com/daily/2026-09-03
+    <p>hello world from claude code</p>
+    <p>updating via claude code and mcp works! (timing probe 2)</p>
+    <p><img src="https://podviaznikov.com/attachments/lisbon-tram-c7b82c9d.jpg" alt="A yellow tram on a
+  last_post_date: "2026-10-02T22:36:24Z"
+  last_post_link: https://podviaznikov.com/mcp-demo
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd67fbc748da5b8b773a849790886fc9
+  last_post_guid: 9494b21988739e222a0670a8f37a140c
   score_criteria:
     cats: 0
     description: 3

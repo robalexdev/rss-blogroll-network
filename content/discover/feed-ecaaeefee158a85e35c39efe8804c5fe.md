@@ -26,16 +26,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: Remembering 9/11/2001
-  last_post_description: Scripting News on 9/11/2001. All of us who lived through
-    9/11 are re-experiencing it right now. The local fire department just ran its
-    alarm, everyone in this small mountain hamlet heard it and it
-  last_post_date: "2026-09-11T13:39:32Z"
-  last_post_link: https://daveverse.org/2026/09/11/remembering-9-11-2001/
+  last_post_title: 32 years and still diggin!
+  last_post_description: On 10/7/1994, I wrote my first blog post. I’ve been blogging
+    ever since. In the first years when wifi wasn’t in every hotel room and restaurant
+    as it is today, before cell phones or even iPods,
+  last_post_date: "2026-10-07T15:18:53Z"
+  last_post_link: https://daveverse.org/2026/10/07/32-years-and-still-diggin/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 1c728a770349fb5f353cffd026a09b9f
+  last_post_guid: 49d2f7f304c51cb2ae4cacdf7ab5ec67
   score_criteria:
     cats: 0
     description: 3

@@ -10,6 +10,7 @@ params:
   feedid: dd3e0e05ff98cb3933ebb88f4c394eef
   websites:
     https://takeonrules.com/: true
+    https://takeonrules.com/site-map/updates/: false
   blogrolls:
   - https://takeonrules.com/blogroll.xml
   in_blogrolls:
@@ -28,37 +29,163 @@ params:
   - title: Personal sites are awesome!
     description: ""
     id: 2561079dc6b23262f5202eb5bc528075
-  recommended: []
+  recommended:
+  - https://adrianroselli.com/feed
+  - https://ag91.github.io/rss.xml
+  - https://ajroach42.com/feed.xml
+  - https://aleemshaun.com/posts_feed
+  - https://alegisdownport.wordpress.com/feed
+  - https://alexschroeder.ch/wiki/feed/full/
+  - https://alldeadgenerations.blogspot.com/feeds/posts/default?alt=rss
+  - https://alphastream.org/index.php/feed/
+  - https://amoreconviviallife.wordpress.com/feed/
+  - https://arialdomartini.github.io/feed.xml
+  - https://arne.me/blog/feed.xml
+  - https://atthis.link/rss.xml
+  - https://avdi.codes/feed/
+  - https://bankuei.wordpress.com/feed/
+  - https://baskauf.blogspot.com/feeds/posts/default
+  - https://batintheattic.blogspot.com/feeds/posts/default
+  - https://baty.net/feed
+  - https://blog.aaronbieber.com/posts/index.xml
+  - https://blog.adambark.com/index.xml
+  - https://blog.meain.io/feed.xml
+  - https://burnafterrunningrpg.com/feed/
+  - https://bxblackrazor.blogspot.com/feeds/posts/default/
+  - https://campaignwiki.org/files/osr-discord.xml
+  - https://campaignwiki.org/rpg/feed.xml
+  - https://cepheusjournal.com/feed/
+  - https://cestlaz.github.io/rss.xml
+  - https://characteralchemyrpg.wordpress.com/feed/
+  - https://chelseatroy.com/feed/
+  - https://citizen428.net/blog/
+  - https://communick.news/feeds/c/emacs.xml?sort=Active
+  - https://cprss.s3.amazonaws.com/golangweekly.com.xml
+  - https://darjanix.blogspot.com/feeds/posts/default
+  - https://data.fineartstudioonline.com/rssfeed.asp?id=47118
+  - https://daydreamsinruby.com/rss.xml
+  - https://decafbad.net/feed
+  - https://deltasdnd.blogspot.com/feeds/posts/default
+  - https://diyanddragons.blogspot.com/feeds/posts/default
+  - https://dripping-tap.blogspot.com/feeds/posts/default?alt=rss
+  - https://dwelleroftheforbiddencity.blogspot.com/feeds/posts/default
+  - https://edstrom.dev/posts.atom
+  - https://eshelyaron.com/rss.xml
+  - https://espharel.blogspot.com/feeds/posts/default?alt=rss
+  - https://ethanmarcotte.com/wrote/feed.xml
+  - https://feeds.feedburner.com/brainpickings/rss
+  - https://feeds.jamesmead.org/floehopper-blog
+  - https://frotz.weaponvsac.space/feeds/posts/default
+  - https://githyankidiaspora.com/feed/
+  - https://go.dev/blog/feed.atom
+  - https://gretzuni.com/atom/
+  - https://grognardia.blogspot.com/feeds/posts/default
+  - https://half-baked-dungeons.bearblog.dev/feed/?type=rss
+  - https://inclusive-components.design/rss/
+  - https://inkdroid.org/feed.xml
+  - https://irreal.org/blog/?feed=rss
+  - https://johnrakestraw.com/index.xml
+  - https://juanjose.garciaripoll.com/blog/rss.xml
+  - https://jxself.org/rss20.xml
+  - https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-content.xml
+  - https://kristofferbalintona.me/index.xml
+  - https://lambdaland.org/index.xml
+  - https://laurakalbag.com/index.xml
+  - https://lichvanwinkle.blogspot.com/feeds/posts/default?alt=rss
+  - https://majesticflywhisk.blogspot.com/feeds/posts/default?alt=rss
+  - https://matthiasott.com/rss
+  - https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss
+  - https://mythlands-erce.blogspot.com/feeds/posts/default
+  - https://necroticgnome.com/blogs/news.atom
+  - https://nesslabs.com/feed
+  - https://nithinbekal.com/feed.xml
+  - https://noelrappin.com/blog/index.xml
+  - https://oaksmokingdoomage.blogspot.com/feeds/posts/default?alt=rss
+  - https://oldeschoolwizardry.blogspot.com/feeds/posts/default
+  - https://pacomiscelaneousstuff.blogspot.com/feeds/posts/default
+  - https://permacrandam.blogspot.com/feeds/posts/default?alt=rss
+  - https://planet.emacslife.com/atom.xml
+  - https://plundergrounds.blogspot.com/feeds/posts/default
+  - https://pluralistic.net/feed/
+  - https://protesilaos.com/master.xml
+  - https://publicdomainreview.org/rss.xml
+  - https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss
+  - https://roytang.net/blog/feed/rss
+  - https://sachachua.com/blog/feed
+  - https://sachagoat.blot.im/feed.rss
+  - https://seedofworlds.blogspot.com/feeds/posts/default
+  - https://shkspr.mobi/blog/feed/atom/
+  - https://solar.lowtechmagazine.com/feeds/all.atom.xml
+  - https://soniasulaiman.com/feed/
+  - https://spacecockroach.blogspot.com/feeds/posts/default
+  - https://sqrtminusone.xyz/posts/index.xml
+  - https://svbck.org/blog/rss.xml
+  - https://taonaw.com/feed.xml
+  - https://thedicesociety.com/index.xml
+  - https://thejaymo.net/feed/
+  - https://throneofsalt.blogspot.com/feeds/posts/default
+  - https://tracydurnell.com/feed/
+  - https://travellerrpgblog.blogspot.com/feeds/posts/default
+  - https://tychoish.com/index.xml
+  - https://unkansas.blogspot.com/feeds/posts/default?alt=rss
+  - https://victoria.dev/index.xml
+  - https://vsca.blog/feed/
+  - https://vxlabs.com/index.xml
+  - https://webaim.org/blog/feed
+  - https://weblog.masukomi.org/index.xml
+  - https://www.3d6downtheline.com/blog?format=rss
+  - https://www.baldurbjarnason.com/feed.xml/
+  - https://www.bastionland.com/feeds/posts/default
+  - https://www.citationneeded.news/rss/
+  - https://www.debian.org/News/news
+  - https://www.dyerdwelling.family/index.xml
+  - https://www.errantadventurespod.com/blog?format=rss
+  - https://www.evalapply.org/index.xml
+  - https://www.gaming.concretelunch.info/feed/
+  - https://www.geepawhill.org/feed/
+  - https://www.jvt.me/kind/articles/feed.xml
+  - https://www.macadie.net/feed/
+  - https://www.miriamsuzanne.com/feed.xml
+  - https://www.necropraxis.com/feed/
+  - https://www.paperspencils.com/feed/
+  - https://www.paritybit.ca/feed.xml
+  - https://www.prismaticwasteland.com/blog?format=rss
+  - https://www.spicyweb.dev/feed.xml
+  - https://www.wizardthieffighter.com/feed/
+  - https://www.ziapeltagames.com/feed
+  - https://xenodium.com/rss.xml
+  - https://zhodani.space/feed/
+  - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - emacs
   - personal
   relme:
+    https://dice.camp/@takeonrules: true
+    https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: How I’m Feeling Emacs Command
-  last_post_description: "Related Links :: Tags: \n<\nemacs \n\n<\npersonal \n\n\nSummary:
-    \nAdding an #Emacs function to help me address #anxiety and entwined emotions
-    by asking me to name those feelings and then providing prompts to"
-  last_post_date: "2026-09-01T06:35:14-04:00"
-  last_post_link: https://takeonrules.com/2026/09/01/how-im-feeling-emacs-package/
+  last_post_title: Autumn’s Arrival
+  last_post_description: "Related Links :: Tags: \n<\npersonal \n\n\nSummary: \nA
+    season of splendor fading yet magical.\n\n        Autumn is that favorite pair
+    of jeans, worn to the point of comfort and\nfamiliarity.  Yet those jeans"
+  last_post_date: "2026-09-29T20:36:34-04:00"
+  last_post_link: https://takeonrules.com/2026/09/29/autumns-arrival/
   last_post_categories:
-  - emacs
   - personal
   last_post_language: ""
-  last_post_guid: 491592a65035aee5543cacccd63d04a6
+  last_post_guid: 422f7df77cd2ef6f8733755fb506b8a0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
-    promotes: 0
+    promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 30
   ispodcast: false
   isnoarchive: false
   innetwork: true

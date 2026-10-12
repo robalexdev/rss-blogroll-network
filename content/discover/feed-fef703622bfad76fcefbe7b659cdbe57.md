@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -50,31 +50,29 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - bodysurfing
+  - cosplay
   - general
-  - gwenthegoblin
-  - llm
-  - smorgasborg
+  - qcosplay
+  - star-trek
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://artlung.com/newsletter/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Gwen; AI; Fins
-  last_post_description: I updated gwenthegoblin.com with a backup of everything (from
-    the beginning to May) using Memento Mori. Here’s the GitHub issue I participated
-    in. I will be doing this again. I added to a page I
-  last_post_date: "2026-09-11T14:35:27Z"
-  last_post_link: https://artlung.com/blog/2026/09/11/gwen-ai-fins/
+  last_post_title: 'SDCC 2026: Star Trek Group Photoshoots'
+  last_post_description: I’ve got a bit of a backlog of things to say about San Diego
+    Comic-Con 2026. Time flies, but these photos deserve to be posted and I do enjoy
+    them. Click through to the photographers! They’re
+  last_post_date: "2026-10-09T23:30:43Z"
+  last_post_link: https://artlung.com/blog/2026/10/09/sdcc-2026-star-trek/
   last_post_categories:
-  - bodysurfing
+  - cosplay
   - general
-  - gwenthegoblin
-  - llm
-  - smorgasborg
+  - qcosplay
+  - star-trek
   last_post_language: ""
-  last_post_guid: 382dd2e769e1f50b6b8047e1e01e0163
+  last_post_guid: 59d15008343d6d689dd36df7fd40e6e0
   score_criteria:
     cats: 0
     description: 3

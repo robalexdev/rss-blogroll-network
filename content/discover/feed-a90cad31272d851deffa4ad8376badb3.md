@@ -1,6 +1,6 @@
 ---
 title: Making Hay
-date: "2026-09-11T14:22:03Z"
+date: "2026-10-11T18:31:39Z"
 description: ""
 params:
   feedlink: https://franksting.writeas.com/feed/
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

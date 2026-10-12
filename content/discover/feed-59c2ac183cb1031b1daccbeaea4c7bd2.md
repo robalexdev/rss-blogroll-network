@@ -24,21 +24,23 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Danyel Fisher
   - Infographics
-  - politizane
-  - wealth
+  - Tanakh
+  - text
   relme: {}
-  last_post_title: Wealth inequality in America, updated for 2026
-  last_post_description: 'In 2013, a video on U.S. wealth inequality was posted to
-    YouTube by…Tags: politizane, wealth'
-  last_post_date: "2026-09-11T09:46:17Z"
-  last_post_link: https://flowingdata.com/2026/09/11/wealth-inequality-in-america-updated-for-2026/
+  last_post_title: Interactive map of the Hebrew Bible
+  last_post_description: 'Torahmap by Danyel Fisher is an interactive visualization
+    of the Hebrew Bible. Each…Tags: Danyel Fisher, Tanakh, text'
+  last_post_date: "2026-10-09T09:59:53Z"
+  last_post_link: https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/
   last_post_categories:
+  - Danyel Fisher
   - Infographics
-  - politizane
-  - wealth
+  - Tanakh
+  - text
   last_post_language: ""
-  last_post_guid: 47b42fe51c19bcecea3cb852fd426fcd
+  last_post_guid: 8f7429f17f802c71ca0d9d3309b82ade
   score_criteria:
     cats: 0
     description: 3

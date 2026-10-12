@@ -20,11 +20,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I struggled with Git, so I'm making a game to spare others the
-    pain
+  last_post_title: Design mistakes I made in my open-source project git-sim in 2022
   last_post_description: ""
-  last_post_date: "2025-03-02T00:00:00Z"
-  last_post_link: https://initialcommit.com/blog/im-making-a-git-game
+  last_post_date: "2026-10-11T00:00:00Z"
+  last_post_link: https://initialcommit.com/blog/git-sim-mistakes-and-fixes
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d546918d7a1920234dbec037f735ac72

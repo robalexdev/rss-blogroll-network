@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Understanding Host Network Stack Latency
-  last_post_description: Numbers to absorb
-  last_post_date: "2026-09-08T12:12:01Z"
-  last_post_link: https://danglingpointers.substack.com/p/understanding-host-network-stack
+  last_post_title: Honey, I Shrunk the Headers With Flow.ZIP
+  last_post_description: MPLS headers are small
+  last_post_date: "2026-09-22T12:42:42Z"
+  last_post_link: https://danglingpointers.substack.com/p/honey-i-shrunk-the-headers-with-flowzip
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a53c855c7fa95f924e2ce54eedcf4ec0
+  last_post_guid: 3b43590981e3910d7e54f4b4711daffb
   score_criteria:
     cats: 0
     description: 3

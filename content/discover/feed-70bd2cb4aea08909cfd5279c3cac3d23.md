@@ -28,13 +28,13 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Extending life perception
-  last_post_description: How to make life feel long and rich
-  last_post_date: "2026-08-25T11:59:44Z"
-  last_post_link: https://herman.bearblog.dev/extending-life-perception/
+  last_post_title: On reading books
+  last_post_description: How books have coloured my life
+  last_post_date: "2026-09-22T09:20:00Z"
+  last_post_link: https://herman.bearblog.dev/on-reading-books/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d725f29ab6d01b7a0e1f6005b67d156
+  last_post_guid: f0eb0b3b850124786300bf18664587d9
   score_criteria:
     cats: 0
     description: 3

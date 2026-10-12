@@ -1,6 +1,6 @@
 ---
 title: Nicolas Bouliane's blog posts
-date: "2026-09-06T19:32:39+01:00"
+date: "2026-09-17T21:59:41+01:00"
 description: Nicolas Bouliane's most recent posts
 params:
   feedlink: https://nicolasbouliane.com/blog/feed.rss
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,17 +29,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How to (properly) apply for an apartment viewing
-  last_post_description: |-
-    I am subletting my apartment. Based on the dozens of messages I have received, here are some of the mistakes that might hurt your flat search.
-
-    The mysterious stranger
-    In Berlin, an apartment listing
-  last_post_date: "2026-08-27T00:00:00+01:00"
-  last_post_link: https://nicolasbouliane.com/blog/flat-search-message
+  last_post_title: Things done properly
+  last_post_description: Sakura pens are great, but they’re hard to tell apart from
+    one another, especially in a stuffed pencil case at the bottom of a messenger
+    bag. The pens have faint size markings, but some have worn
+  last_post_date: "2026-09-17T00:00:00+01:00"
+  last_post_link: https://nicolasbouliane.com/blog/done-properly
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d429706abcd7dd059c6972a34451dac7
+  last_post_guid: 4b56885477210daa2767d42b2f59b223
   score_criteria:
     cats: 0
     description: 3

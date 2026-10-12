@@ -15,38 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AmEx 信用卡
-  - 无境外手续费
-  - 美国运通 American Express (AmEx)
-  - 航空卡
-  - 达美航空 Delta Air Lines (DL)
+  - Citibank 相关总结
+  - 花旗银行 Citibank
   relme: {}
-  last_post_title: AmEx Delta SkyMiles Gold 信用卡【2026.8 更新：AS HIGH AS 80k+$250 开卡奖励！】
-  last_post_description: Delta SkyMiles® Gold Card from American Express 信用卡简介 【2026.8
-    更新】新的开卡奖励是 AS HIGH AS 80k+$250！史高了！截止日期 11/04/2026。 【2026.7
-  last_post_date: "2026-08-28T14:03:30Z"
-  last_post_link: https://www.uscreditcardguide.com/amex-gold-delta-skymiles/
+  last_post_title: Citi 给 Strata 系列引入了“一辈子一次”语言 取代了1/48规则【更新：会有弹窗告知】
+  last_post_description: 【2026.10 更新】
+  last_post_date: "2026-10-11T14:00:20Z"
+  last_post_link: https://www.uscreditcardguide.com/citi-once-per-lifetime-language/
   last_post_categories:
-  - AmEx 信用卡
-  - 无境外手续费
-  - 美国运通 American Express (AmEx)
-  - 航空卡
-  - 达美航空 Delta Air Lines (DL)
+  - Citibank 相关总结
+  - 花旗银行 Citibank
   last_post_language: ""
-  last_post_guid: 85ee14b6002853d5b469780483824463
+  last_post_guid: d10f144e7dd72c14dde6dbbc65d6bcea
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -23,15 +23,15 @@ params:
   - Leisure
   - Society & Culture
   relme: {}
-  last_post_title: Tülin Sezgin
-  last_post_description: Wie anders, wie geistreich und originell die klassischen,
-    angestaubten Kabarett-Themen Beamtentum und Bürokratie portraitiert und karikiert
-    werden können, lernten wir alle durch Tülin Sezgin, die
-  last_post_date: "2026-09-05T03:00:00Z"
-  last_post_link: https://toast-hawaii.podigee.io/277-tuelin-sezgin
+  last_post_title: Peter Wohlleben
+  last_post_description: Wenn ich mich recht erinnere, landete Peter Wohllebens spektakuläres
+    Buch „Das geheime Leben der Bäume“ ziemlich schnell in den Bestsellerlisten und
+    hielt sich dort für sage und schreibe 2
+  last_post_date: "2026-10-10T03:00:00Z"
+  last_post_link: https://toast-hawaii.podigee.io/282-peter-wohlleben
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: accace1eccd6e94366fee6ca704fafcd
+  last_post_guid: c615824e50e267e7881473ac16ca1475
   score_criteria:
     cats: 3
     description: 3

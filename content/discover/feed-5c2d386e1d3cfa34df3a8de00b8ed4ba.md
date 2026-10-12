@@ -12,60 +12,49 @@ params:
     https://felix.kitchen/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
-  - title: Blogroll by kuechenlatein
+  - title: Blog-Roll von Sabine
+    description: ""
+    id: 628266ed2de64c9d666bcdbaeabfaa2c
+  - title: Blogroll von kuechenlatein
     description: ""
     id: 1c6ae6b7966aca82d4f6cbcef0a996f3
   recommended: []
   recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  - https://einfach-kochen-und-mehr.de/feed/
   - https://kuechenlatein.com/comments/feed/
   - https://kuechenlatein.com/feed/
   categories:
-  - '*vegetarisch'
-  - Auberginen
-  - Basilikum
-  - Cherrytomaten
-  - Chilisauce
-  - GEMÜSEGERICHT
-  - Granatapfelsirup
-  - Linsen
-  - LÄNDERKÜCHE
-  - Peperoni
-  - Petersilie
-  - Pfefferminze
-  - SCHMORGERICHT
-  - Snack Peppers
-  - Tomaten
+  - APÉRO
+  - COCKTAIL/DRINK
+  - Campari
+  - Ginger Ale
+  - Holunderblüten-Sirup
+  - Limetten
+  - Sommerfest
+  - festtagstauglich
   - zum Vorbereiten
   relme: {}
-  last_post_title: AUBERGINEN-TOMATEN-GEMÜSE MIT LINSEN
-  last_post_description: |-
-    Ein traditionelles Gericht aus der türkischen Küche. «Mualle» nennt man es dort, es gibt jedoch auch dutzende, ähnliche Rezepte.
-    Das Gericht steht entweder für sich: mit Fladenbrot als
-  last_post_date: "2026-09-09T01:12:22Z"
-  last_post_link: https://felix.kitchen/2026/09/09/auberginen-linsen-tomaten-paprika-snackpeppers-pfefferminze-petersilie-basilikum-fladenbrot/
+  last_post_title: 'COCKTAILSTUNDE #25: ROSA WOLKE'
+  last_post_description: "Rosa ist die Farbe der Herzensliebe. \nRosa ist die Farbe
+    der Verliebten, die sprichwÃ¶rtlichen rosa Wolken zeugen von unbeschreiblichem
+    GlÃ¼ck."
+  last_post_date: "2026-10-10T01:20:33Z"
+  last_post_link: https://felix.kitchen/2026/10/10/cocktail-rosa-wolke-bourbon-whiskey-holunderblueten-gingerale-campari/
   last_post_categories:
-  - '*vegetarisch'
-  - Auberginen
-  - Basilikum
-  - Cherrytomaten
-  - Chilisauce
-  - GEMÜSEGERICHT
-  - Granatapfelsirup
-  - Linsen
-  - LÄNDERKÜCHE
-  - Peperoni
-  - Petersilie
-  - Pfefferminze
-  - SCHMORGERICHT
-  - Snack Peppers
-  - Tomaten
+  - APÉRO
+  - COCKTAIL/DRINK
+  - Campari
+  - Ginger Ale
+  - Holunderblüten-Sirup
+  - Limetten
+  - Sommerfest
+  - festtagstauglich
   - zum Vorbereiten
   last_post_language: ""
-  last_post_guid: 22a857fe2425ab5a142dc907171fc7b7
+  last_post_guid: ce8295de87ee73fc06b9823e7452d46c
   score_criteria:
     cats: 0
     description: 3

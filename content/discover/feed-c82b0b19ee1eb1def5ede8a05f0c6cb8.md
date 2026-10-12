@@ -1,6 +1,6 @@
 ---
 title: Miri&#39;s Kitchen
-date: "2026-08-19T15:16:18+02:00"
+date: "2026-09-30T20:36:04+02:00"
 description: ""
 params:
   feedlink: https://miris-kitchen.blogspot.com/feeds/posts/default
@@ -10,12 +10,11 @@ params:
     https://miris-kitchen.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories: []
   relme:
     https://miris-kitchen.blogspot.com/: true

@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-08-28T10:13:12Z"
+date: "2026-10-11T16:19:53Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -22,30 +22,28 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories:
-  - 日常
+  categories: []
   relme: {}
-  last_post_title: 我的背包
+  last_post_title: 形式熟悉，内容陌生，味道惊喜
   last_post_description: ""
-  last_post_date: "2026-08-12T10:08:28Z"
-  last_post_link: https://anotherdayu.com/my-backpack/
-  last_post_categories:
-  - 日常
+  last_post_date: "2026-10-06T09:29:02Z"
+  last_post_link: https://anotherdayu.com/9891/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: d90e492f218b8f37de7d2d5b69e97ad8
+  last_post_guid: 16f6b985d49f601b76d1fd2262175e9f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

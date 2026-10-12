@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-03-31T20:16:00Z"
+date: "2026-10-07T15:35:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://feedpress.me/baldurbjarnason
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A massive Easter sale and a preview of my next book (out late 2026)
+  last_post_title: Different modes of thinking
   last_post_description: ""
-  last_post_date: "2026-03-31T20:16:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2026/easter-sale-and-the-toy-factory/
+  last_post_date: "2026-10-07T15:35:00Z"
+  last_post_link: https://www.baldurbjarnason.com/2026/modes-of-thinking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d53a14530cb844769b65e3e2b1e1b158
+  last_post_guid: 45834e2686a386659b99780cc3b3be30
   score_criteria:
     cats: 0
     description: 3
@@ -47,5 +47,5 @@ params:
   innetwork: true
   language: en
   postcount: 10
-  avgpostlen: 271
+  avgpostlen: 245
 ---

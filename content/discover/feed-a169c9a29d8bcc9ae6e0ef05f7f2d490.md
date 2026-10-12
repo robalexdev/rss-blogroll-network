@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2026-08-26T12:00:38-04:00"
+date: "2026-09-26T21:00:00-04:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

@@ -18,32 +18,36 @@ params:
   recommended: []
   recommender: []
   categories:
+  - blogging
   - memories
+  - writing
   relme:
     https://my-notes.dragas.net/: true
-  last_post_title: Menaville
-  last_post_description: A colleague's accent brings back a childhood memory. I open
-    a Commodore 64 emulator and go looking for Menaville, a city that never existed,
-    and the freedom that did.
-  last_post_date: "2026-08-17T11:30:00Z"
-  last_post_link: https://my-notes.dragas.net/2026/08/17/menaville/
+  last_post_title: Stefano, the Human LLM of the 2000s
+  last_post_description: This is slop! Prove it is not!'. So I went looking for how
+    I used to write, long before LLMs existed. I found a paper from 2002, a blog from
+    2006, and a lot of 'it depends
+  last_post_date: "2026-10-08T06:51:00Z"
+  last_post_link: https://my-notes.dragas.net/2026/10/08/stefano-the-human-llm-of-the-2000s/
   last_post_categories:
+  - blogging
   - memories
+  - writing
   last_post_language: ""
-  last_post_guid: 06840a8b63df6242c3e4229eb37e0704
+  last_post_guid: cc5a6caa00b0030749aff412b7b7f0fa
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

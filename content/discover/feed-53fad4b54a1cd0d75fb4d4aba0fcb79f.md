@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,40 +25,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Analysis
-  - Faculty
-  - Habits
-  - Musings
   - Stories
-  - Teaching
-  - Whitman College
-  - Work-life balance
-  - education
-  - kings-college
-  - life
-  - travel
+  - Technology
+  - Uncategorized
+  - moving
+  - writing
   relme: {}
-  last_post_title: 'Time use: King’s College vs Whitman'
-  last_post_description: It’s been several weeks since I promised a blog post on time
-    use. Somehow I overcommitted myself with scholarly projects and travel – in fact,
-    I drafted this post at 8 pm British Summer Time, in
-  last_post_date: "2026-08-28T02:54:40Z"
-  last_post_link: https://countingfromzero.blog/2026/08/27/time-use-kings-college-vs-whitman/
+  last_post_title: My Digital Move
+  last_post_description: In my last post, I briefly discussed moving (or at least
+    removing) the last of my physical belongings from my office at Whitman. In this
+    post, I dig into my OmniFocus task completion log to consider
+  last_post_date: "2026-09-22T18:23:34Z"
+  last_post_link: https://countingfromzero.blog/2026/09/22/my-digital-move/
   last_post_categories:
-  - Analysis
-  - Faculty
-  - Habits
-  - Musings
   - Stories
-  - Teaching
-  - Whitman College
-  - Work-life balance
-  - education
-  - kings-college
-  - life
-  - travel
+  - Technology
+  - Uncategorized
+  - moving
+  - writing
   last_post_language: ""
-  last_post_guid: bb17b6f651d3423c427adb34c1908b8c
+  last_post_guid: 2a76ffd76894918dc76a106cce7de185
   score_criteria:
     cats: 0
     description: 0

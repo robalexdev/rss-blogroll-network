@@ -10,7 +10,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: John Gibson - Blogroll
+  - title: recommendations.opml
     description: ""
     id: ecf466cab17004c064f9844f2b37e826
   - title: Kagi Small Web OPML

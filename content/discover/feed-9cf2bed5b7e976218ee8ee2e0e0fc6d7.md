@@ -21,16 +21,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: WordCamp Europe 2026 Takeaways
-  last_post_description: 'A couple of personal takeaways from my attendance of #WCEU
-    2026. This is just my personal observation. I hope I’m wrong, because this is
-    a pretty sour takeaway from what otherwise was an amazing'
-  last_post_date: "2026-06-10T12:52:09Z"
-  last_post_link: https://www.dannyvankooten.com/blog/2026/wordcamp-europe-2026-takeaways/
+  last_post_title: ibericode/vat version 2.2
+  last_post_description: 'I just tagged a new release for the PHP VAT library that
+    I’ve been maintaining for the past decade or so: ibericode/vat. My company ibericode
+    is still heavily relying on this library, as are'
+  last_post_date: "2026-10-06T14:21:17Z"
+  last_post_link: https://www.dannyvankooten.com/blog/2026/ibericode-vat-version-2-2/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 431be2a3563653eace75166512d69dd5
+  last_post_guid: cc0ebdca410e1fc3abdc3fc237a4a4dc
   score_criteria:
     cats: 0
     description: 3

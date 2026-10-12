@@ -1,6 +1,6 @@
 ---
 title: Alliot's blog
-date: "2026-08-05T11:30:00Z"
+date: "2026-09-17T16:00:00Z"
 description: Maker & Developer
 params:
   feedlink: https://blog.alliot.tech/atom.xml
@@ -16,22 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cloudflare
-  - Docker
+  - Android
   - 折腾
+  - 硬件
   relme:
     https://blog.alliot.tech/: true
-  last_post_title: Cloudflare Tunnel前置代理支持
-  last_post_description: 赛博大善人的 Cloudflare Tunnel（前 Argo Tunnel）只需要一个域名和一个 Cloudflare
-    帐号，便可以将服务接入 Cloudflare 网络，并提供 Zero
-  last_post_date: "2026-08-15T09:00:00Z"
-  last_post_link: https://blog.alliot.tech/post/cloudflare-tunnel-proxy-support
+  last_post_title: OSMO Action5Pro 解锁BL并开启adbd
+  last_post_description: 不久前，某安上有大佬发现 Action 5 Pro 居然能通过 9008 打开 Bootloader，更意外的是它的
+    SoC 是骁龙 8 Gen 2（SM8550/QCS8550）, 一台运动相机塞了颗旗舰
+  last_post_date: "2026-09-17T16:00:00Z"
+  last_post_link: https://blog.alliot.tech/post/osmo-action5pro-unlock-bootloader-adbd
   last_post_categories:
-  - Cloudflare
-  - Docker
+  - Android
   - 折腾
+  - 硬件
   last_post_language: ""
-  last_post_guid: 139b969268bd008549eacf1dcb7cd74c
+  last_post_guid: 1b0b600db42ddfef0fafb27f01f0664a
   score_criteria:
     cats: 0
     description: 3

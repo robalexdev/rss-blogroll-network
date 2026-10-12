@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-09-10T12:39:22Z"
+date: "2026-09-11T14:38:26Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Game Design Analysis: World of Goo'
+  last_post_title: Super ultrawide Niri
   last_post_description: ""
-  last_post_date: "2026-09-10T12:39:22Z"
-  last_post_link: https://www.jonashietala.se/blog/2010/06/01/game_design_analysis_world_of_goo
+  last_post_date: "2026-09-11T14:38:26Z"
+  last_post_link: https://www.jonashietala.se/blog/2026/09/11/super_ultrawide_niri
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a23c1239b8d3f4c2958e28306f39334
+  last_post_guid: 1ff81cb171d33268611093f6733dd044
   score_criteria:
     cats: 0
     description: 0

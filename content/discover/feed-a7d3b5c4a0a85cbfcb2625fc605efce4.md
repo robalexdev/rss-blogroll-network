@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -37,30 +37,43 @@ params:
   - title: RSS subscriptions for stu@alwaystwisted.com
     description: ""
     id: 11fe580930b6a693dba9a3372a800841
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
+  - title: Take on Rules Public Blogroll
+    description: ""
+    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
-  recommender: []
+  recommender:
+  - https://stephanmax.com/feed.xml
+  - https://takeonrules.com/index.xml
+  - https://takeonrules.com/site-map/updates/index.xml
   categories:
+  - WAI
+  - WCAG
   - Web
   - accessibility
   - html
+  - rant
   - standards
-  - tables
   relme:
     https://adrianroselli.com/: true
-  last_post_title: Support for `headers` Attribute
-  last_post_description: This post only covers the headers attribute in HTML tables
-    (ARIA has no headers equivalent). My 2022 post Accessible Cart Tables? showed
-    headers attribute support was poor. In my 2023 post Avoid
-  last_post_date: "2026-09-08T21:21:08Z"
-  last_post_link: https://adrianroselli.com/2026/09/support-for-headers-attribute.html
+  last_post_title: Decorative Images…
+  last_post_description: …aren’t a thing. Three hand-drawn lines curling together
+    like an S or three skinny snakes trying to spoon. At least not as far as people
+    are concerned. Yes, this is an absolutist take, but
+  last_post_date: "2026-10-09T16:02:23Z"
+  last_post_link: https://adrianroselli.com/2026/10/decorative-images.html
   last_post_categories:
+  - WAI
+  - WCAG
   - Web
   - accessibility
   - html
+  - rant
   - standards
-  - tables
   last_post_language: ""
-  last_post_guid: adbc781336b1b90da0c9c080073bcec7
+  last_post_guid: 9ba167e4fd84844f90c306125228b90a
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: F2R Articles | En
-date: "2026-08-19T08:10:15Z"
+date: "2026-09-26T23:42:37Z"
 description: 'All articles wrote by F2R: PHP, methodology, web, architecture, development,
   programming, and so.'
 params:

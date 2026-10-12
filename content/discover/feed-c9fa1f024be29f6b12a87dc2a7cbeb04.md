@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NVIDIA's $108b Quarter
-  last_post_description: NVIDIA's Q2 FY27 revenue reached $96b with a $108b Q3 guide,
-    but hyperscale revenue grew only 13% sequentially against 25% for everyone else.
-    To fund the buyers filling that gap, NVIDIA extended
-  last_post_date: "2026-08-26T00:00:00Z"
-  last_post_link: https://www.tomtunguz.com/nvidia-q2-fy27-earnings/
+  last_post_title: A Change in AI Strategy
+  last_post_description: AI models have reached commodity status as prices fall 41%
+    while token usage surges 50%. To win relative share, labs should partner & resell
+    models, control the user interface where distribution
+  last_post_date: "2026-10-07T00:00:00Z"
+  last_post_link: https://tomtunguz.com/what-if-the-models-are-commoditized/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 922e2251993e25c000c1a9faa5dccda6
+  last_post_guid: 66e865893d53ecad11d0ebe583f7e265
   score_criteria:
     cats: 0
     description: 3

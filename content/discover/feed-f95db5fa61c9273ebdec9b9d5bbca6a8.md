@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-09-11T13:35:10Z"
+date: "2026-10-11T18:42:19Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -45,33 +45,31 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories:
   - package-managers
-  - security
-  - supply-chain
+  - weekly
   relme: {}
-  last_post_title: Package Manager Trends
-  last_post_description: min-release-age, minimum-release-age, -Zmin-publish-age,
-    cooldown.
-  last_post_date: "2026-09-10T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/09/10/package-manager-trends.html
+  last_post_title: 'This Week in Package Management: 10 October 2026'
+  last_post_description: Releases, advisories, and articles from across the package
+    management world
+  last_post_date: "2026-10-10T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/10/10/this-week-in-package-management.html
   last_post_categories:
   - package-managers
-  - security
-  - supply-chain
+  - weekly
   last_post_language: ""
-  last_post_guid: 08d73b94b01b4805fa9db07f8154e6c3
+  last_post_guid: b25456f806d7367e3c8afa9ad55f8096
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Mijndert Stuij
-date: "2026-09-04T14:55:00Z"
+date: "2026-09-22T15:45:00Z"
 description: Lead platform engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -35,14 +35,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Weeknotes 36 - 2026
-  last_post_description: CalAction downloads tripling after going free, emptying the
-    IT support queue, and getting obsessed with Risk of Rain 2.
-  last_post_date: "2026-09-04T14:55:00Z"
-  last_post_link: https://mijndertstuij.nl/weeknotes/36-2026/
+  last_post_title: Weeknotes 38 - 2026
+  last_post_description: A company pushing CalAction to their employees, running the
+    MS Motion 10k, and getting into Thronefall and Diablo IV.
+  last_post_date: "2026-09-22T15:45:00Z"
+  last_post_link: https://mijndertstuij.nl/weeknotes/38-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 934b979d9d2823d02100fba2090887b6
+  last_post_guid: 25120b4c2fee795492c993f5b1398feb
   score_criteria:
     cats: 0
     description: 3

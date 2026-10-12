@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -28,13 +28,13 @@ params:
   categories: []
   relme:
     https://ankursethi.com/: true
-  last_post_title: Prevent cognitive debt by manually retyping LLM-generated code
+  last_post_title: Use date trees to organize chronological notes in Obsidian
   last_post_description: ""
-  last_post_date: "2026-08-02T09:23:36Z"
-  last_post_link: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+  last_post_date: "2026-09-21T11:08:13Z"
+  last_post_link: https://ankursethi.com/blog/use-date-trees-to-organize-chronological-notes-in-obsidian/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c91f447f9865730e9b2591d13ea23beb
+  last_post_guid: 25a9872c0b86a004662e7da90648c413
   score_criteria:
     cats: 0
     description: 3

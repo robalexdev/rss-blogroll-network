@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Correcting confusion
-  last_post_description: Donald Trump doesn't seem to understand that the Great Lakes,
-    with the exception of Superior, were named for native tribes and that those names
-    are fixed by international agreement. They are not
-  last_post_date: "2026-08-28T11:53:25Z"
-  last_post_link: https://itsme.bearblog.dev/correcting-confusion/
+  last_post_title: most of my posts have typos + on lowercase hate
+  last_post_description: i tend to write very fast (had originally written vrery,
+    point proven). my posts are born when i am feeling strongly about something, and
+    i need to get my point across. the point i am making could be
+  last_post_date: "2026-10-11T14:27:56Z"
+  last_post_link: https://skuka.online/most-of-my-posts-have-typos-on-lowercase-hate/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ad978ff1098f3fc46f494d16032988ac
+  last_post_guid: b860d752b8fb2b30a804b846fc257d66
   score_criteria:
     cats: 0
     description: 3

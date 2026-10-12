@@ -25,6 +25,7 @@ params:
   - misc
   relme:
     https://anisse.astier.eu/: true
+    https://social.treehouse.systems/@Aissen: true
   last_post_title: Replacing Debian keyscript with systemd socket activation for encrypted
     volumes
   last_post_description: 'In Debian (and Ubuntu), when using a LUKS encrypted volume

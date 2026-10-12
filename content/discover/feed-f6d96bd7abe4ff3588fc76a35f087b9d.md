@@ -19,22 +19,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 形下
-  - 心灵鸡汤
+  - 摄影
+  - 术说
   - 生活
-  - 躺平
   relme: {}
-  last_post_title: 普通的蠢人
-  last_post_description: 在我上班的公司，有这样一个人。她的很多言行都让人费解，就叫她“迷惑姐”吧。
-  last_post_date: "2026-08-04T13:01:23Z"
-  last_post_link: https://www.ntiy.com/2370.html
+  last_post_title: 关于“摄影”和“摄影大赛获奖作品”的一些想法
+  last_post_description: 补充说明一下：我没有获任何奖，以下仅仅是个人的一些观点。结尾有推广内容，但文章内容并不是为了推广而写。
+  last_post_date: "2026-09-18T06:22:44Z"
+  last_post_link: https://www.ntiy.com/2377.html
   last_post_categories:
-  - 形下
-  - 心灵鸡汤
+  - 摄影
+  - 术说
   - 生活
-  - 躺平
   last_post_language: ""
-  last_post_guid: e4419503529c233188b1d3edc397eb8b
+  last_post_guid: a111636127663c5401ed8dc8a97282a9
   score_criteria:
     cats: 0
     description: 3

@@ -18,20 +18,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 亚马逊
-  - 亚马逊广告
+  - .NET
+  - Happy Eyeballs
+  - HttpClient
+  - IPv6
   - 开发
   relme: {}
-  last_post_title: Amazon SP 广告系统的 Metadata Tree 与报表仓库设计
-  last_post_description: 面向 Amazon SP（Sponsored Products）广告系统开发者的架构设计指南。
-  last_post_date: "2026-05-29T06:00:01Z"
-  last_post_link: https://www.coderbusy.com/archives/3996.html
+  last_post_title: 为什么 curl 毫秒级，HttpClient 却卡 60 秒？——IPv6 黑洞与 Happy Eyeballs
+  last_post_description: 一句话结论：目标域名同时有 AAAA 与 A 记录、且 AAAA 排在前面，而机器所在网络的 IPv6 出口是静默丢包。.NET
+    10 及更早版本的 HttpClient 会按 DNS
+  last_post_date: "2026-09-28T04:00:46Z"
+  last_post_link: https://www.coderbusy.com/archives/4022.html
   last_post_categories:
-  - 亚马逊
-  - 亚马逊广告
+  - .NET
+  - Happy Eyeballs
+  - HttpClient
+  - IPv6
   - 开发
   last_post_language: ""
-  last_post_guid: 6aaace3f6532b3fadbfd3d55b070e259
+  last_post_guid: fd3edbd5cd2eba93f6e83d534d929316
   score_criteria:
     cats: 0
     description: 3

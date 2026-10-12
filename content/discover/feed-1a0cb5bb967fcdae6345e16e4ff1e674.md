@@ -1,23 +1,18 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2026-05-04T08:30:00Z"
+date: "2026-05-28T13:20:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
   feedtype: atom
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
-    https://gkeenan.co/: false
-    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   in_blogrolls:
-  - title: Alexandra Wolfe - Blogroll
+  - title: blogs.hn
     description: ""
-    id: 9e14f09b7cc29b9fc93c45948dc2990a
-  - title: Alexandra Wolfe - Blogroll
-    description: ""
-    id: 123f5f19a0f94b64245ea922e415d2d5
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -27,27 +22,22 @@ params:
   - title: Ryan M. - Blogroll
     description: ""
     id: aefe458d084b844b7c2a6e71b48776ee
-  - title: ""
-    description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   - title: Shellsharks Blogroll
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d
   recommended: []
   recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/rss.php
   - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
-  last_post_title: I leave the US in less than three weeks
+  last_post_title: I am publishing this from the middle of the Atlantic Ocean, technology
+    is incredible, etc. etc.
   last_post_description: ""
-  last_post_date: "2026-05-04T08:30:00Z"
-  last_post_link: https://gkeenan.co/avgb/i-leave-the-us-in-less-than-three-weeks/
+  last_post_date: "2026-05-28T13:20:00Z"
+  last_post_link: https://gkeenan.co/avgb/i-am-publishing-this-from-the-middle-of-the-atlantic-ocean-technology-is-incredible-etc-etc/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9ee9a7c788dbe92eb12c38b418ac48ff
+  last_post_guid: 37fa0028424092e317cf586473af7e95
   score_criteria:
     cats: 0
     description: 3

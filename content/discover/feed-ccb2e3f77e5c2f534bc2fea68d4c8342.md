@@ -1,6 +1,6 @@
 ---
 title: lottia notes
-date: "2026-08-30T01:50:00Z"
+date: "2026-09-27T07:44:00Z"
 description: ""
 params:
   feedlink: https://lottia.net/notes/atom.xml
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://lottia.net/notes/: true
-  last_post_title: Minimally-capable Qwen
+  last_post_title: Increasingly-sandboxed Qwen
   last_post_description: ""
-  last_post_date: "2026-08-30T01:50:00Z"
-  last_post_link: https://lottia.net/notes/0019-minimally-capable-qwen.html
+  last_post_date: "2026-09-27T07:44:00Z"
+  last_post_link: https://lottia.net/notes/0020-increasingly-sandboxed-qwen.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b5ffe7dea129fa97f3709fffe6a95877
+  last_post_guid: 18dd7823cd5d1aa8bbc96302b3745c81
   score_criteria:
     cats: 0
     description: 0

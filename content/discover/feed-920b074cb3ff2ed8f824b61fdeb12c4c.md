@@ -16,37 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 127.5%中国电动车关税
-  - Covered List机器人禁令
-  - Google的故事
-  - Waymo极氪合作
-  - 中国汽车小批量定制
-  - 新能源智能汽车
-  - 极氪CM1e
-  - 极氪MIX
-  - 极氪裸车无人出租车
-  - 谷歌购买极氪
+  - AIGC
+  - AI代理大战
+  - Anthropic竞争
+  - Meta Muse
+  - OpenAI Dots
+  - 个人代理
+  - 个人代理隐私风险
+  - 多模型调度降低成本
+  - 模型公司个人助手
   relme: {}
-  last_post_title: 谷歌为何买下中国月销4辆的极氪
+  last_post_title: 个人代理为何成了围攻Anthropic的复仇战
   last_post_description: |-
-    谷歌为何买下中国月销4辆的极氪
+    个人代理为何成了围攻Anthropic的复仇战
 
-    谷歌旗下Waymo为何顶着127.5%的中国电动车关税，仍进口超过3
-  last_post_date: "2026-08-28T00:30:00Z"
-  last_post_link: https://lukefan.com/2026/08/28/waymo-zeekr-bare-car-custom-manufacturing/
+    Grok Bot、Meta Muse、OpenAI
+  last_post_date: "2026-10-10T22:55:20Z"
+  last_post_link: https://lukefan.com/2026/10/11/personal-agents-anthropic-token-revenue-rivalry/
   last_post_categories:
-  - 127.5%中国电动车关税
-  - Covered List机器人禁令
-  - Google的故事
-  - Waymo极氪合作
-  - 中国汽车小批量定制
-  - 新能源智能汽车
-  - 极氪CM1e
-  - 极氪MIX
-  - 极氪裸车无人出租车
-  - 谷歌购买极氪
+  - AIGC
+  - AI代理大战
+  - Anthropic竞争
+  - Meta Muse
+  - OpenAI Dots
+  - 个人代理
+  - 个人代理隐私风险
+  - 多模型调度降低成本
+  - 模型公司个人助手
   last_post_language: ""
-  last_post_guid: 1e0b0e247a29e410bac7769e8ae993e4
+  last_post_guid: 396bd907666526f45c5bcb7b006dd91d
   score_criteria:
     cats: 0
     description: 3

@@ -23,15 +23,15 @@ params:
   - Comedy
   - Society & Culture
   relme: {}
-  last_post_title: Marc-Uwe Kling trifft Christian Stöcker
-  last_post_description: Christian Stöcker ist Professor für Digitale Kommunikation,
-    den meisten dürfte er jedoch durch seine regelmäßige Kolumne "Der Rationalist"
-    bei Spiegel Online bekannt sein. In dieser Folge von
-  last_post_date: "2026-02-27T05:00:00+01:00"
-  last_post_link: https://rbbmediapmdp-a.akamaihd.net/content/12/0d/120d3112-096f-462e-a4f1-8ae9dfdf2ec7/e343c6aa-185d-4302-95ab-7ee408c53b6e_8f41d96d-00d6-443d-84bf-7d7ed68cae81_256k.mp3
+  last_post_title: Marc-Uwe Kling trifft Eva Schulz
+  last_post_description: 'Die wunderbare Eva Schulz ist zu Gast, die mit "Deutschland
+    3000" einen der beliebtesten Interview-Podcasts moderiert. Da stellt sich natürlich
+    die Frage: Wie fragt man, wie man Fragen schreibt? Ihr'
+  last_post_date: "2026-10-02T08:01:00+02:00"
+  last_post_link: https://rbbmediapmdp-a.akamaihd.net/content/e7/08/e7081222-db0f-409c-8f93-1233524a5c7c/e7081222-db0f-409c-8f93-1233524a5c7c_mp3-256kd.mp3
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0beb65ff15852aff8462399690416223
+  last_post_guid: 50be187127bd409e6c61baccace1b7f2
   score_criteria:
     cats: 3
     description: 3

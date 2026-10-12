@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2026-08-21T00:00:00Z"
+date: "2026-10-04T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -45,6 +45,9 @@ params:
   - title: Shellsharks Blogroll
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   - title: blogroll.opml
     description: ""
     id: cb5c5a7648ddde068f1d547585d9596c
@@ -58,17 +61,18 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   - https://shellsharks.com/feeds/feed.xml
+  - https://stephanmax.com/feed.xml
   - https://ttntm.me/likes/feed.xml
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Media Recap 2025
+  last_post_title: Weeknotes 46
   last_post_description: ""
-  last_post_date: "2026-08-21T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2026/media-recap-2025/
+  last_post_date: "2026-10-04T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2026/weeknotes-46/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 45361f8609a0639b432663a10ec9c5b9
+  last_post_guid: 43e4a47c676a719c14a58604844d6f6a
   score_criteria:
     cats: 0
     description: 3

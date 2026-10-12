@@ -97,7 +97,9 @@ params:
   - sanity
   - undefined behavior
   relme:
+    https://berliner-verkehr.blogspot.com/: true
     https://blog.metaobject.com/: true
+    https://www.blogger.com/profile/11651004661887001433: true
   last_post_title: Objective-C is just, like, a leaky abstraction over C
   last_post_description: ""
   last_post_date: "2024-08-22T09:54:10+02:00"

@@ -16,18 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Open Source World
+  - Desktops
   relme: {}
-  last_post_title: Announcing Plasma Studio
-  last_post_description: Plasma Studio is a multimedia handling application that features
-    video editing capabilities, raw photo editing, vector graphics, animations, audio
-    editing, recording and streaming, and 3D modeling.
-  last_post_date: "2026-09-07T14:10:13Z"
-  last_post_link: https://thelibre.news/announcing-plasma-studio/
+  last_post_title: Is COSMIC DE mogging KDE Plasma?
+  last_post_description: It's been almost a year since I've last tried COSMIC; though
+    development since then has mostly been centered around stability (going from late
+    alpha to stable releases now!) there have been a fair
+  last_post_date: "2026-09-16T11:56:20Z"
+  last_post_link: https://thelibre.news/is-cosmic-de-mogging-kde-plasma/
   last_post_categories:
-  - Open Source World
+  - Desktops
   last_post_language: ""
-  last_post_guid: 06110a7a85005645935103bc58ccd146
+  last_post_guid: 4c175f5ab1c6a8b8c3ddd3c91376c0a1
   score_criteria:
     cats: 0
     description: 3

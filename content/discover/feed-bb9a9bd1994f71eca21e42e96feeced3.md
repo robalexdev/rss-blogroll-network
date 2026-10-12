@@ -24,28 +24,29 @@ params:
   - 'Software/ '
   - Vale Programming Language
   relme: {}
-  last_post_title: 'Ante: A New Way to Blend Borrow Checking and Reference Counting'
+  last_post_title: 'Valen''s Memory Safety: A New Kind of Borrow Checking'
   last_post_description: ""
-  last_post_date: "2026-06-28T01:20:00-05:00"
-  last_post_link: https://verdagon.dev/blog/ante-blending-borrowing-rc
+  last_post_date: "2026-10-11T07:00:00-05:00"
+  last_post_link: https://verdagon.dev/blog/valen-group-borrowing
   last_post_categories:
-  - Mojo Programming Language
   - Programming Languages
+  - Vale Programming Language
+  - Valen Programming Language
   last_post_language: ""
-  last_post_guid: b11a24f0a53f0ed977d1cbed20b6266b
+  last_post_guid: 5eaabdd25d1854a3a09f6a86b1e2d59d
   score_criteria:
     cats: 4
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

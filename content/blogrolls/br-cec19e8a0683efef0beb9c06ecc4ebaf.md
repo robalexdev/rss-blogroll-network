@@ -1,5 +1,5 @@
 ---
-title: Blogroll by Herr Tommi
+title: Blogroll von Herr Tommi
 date: Mon, 31 Aug 2026 15:32:33 +0000
 description: ""
 params:
@@ -83,7 +83,7 @@ params:
     description: Der Alltag ist besser als sein Ruf!
     id: 9edf65208dcadcc5edf069a5f7f03dad
   - title: Holgers Fotos
-    description: No-nonsense photography
+    description: Around the corner and beyond.
     id: b2eeb6ead8ec3ba299b47c459b0dde4d
   - title: Takly on tour • Der Reise – und Camping – Blog
     description: ""

@@ -21,13 +21,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F3B5 New Release: Wherever You Go"
-  last_post_description: dance, electronic, edm, love, synth
-  last_post_date: "2026-09-04T00:00:00Z"
-  last_post_link: https://aaronholbrookmusic.com/song/wherever-you-go/
+  last_post_title: "\U0001F3B5 New Release: Sleepwalking"
+  last_post_description: atmospheric, cinematic, downtempo, melancholy
+  last_post_date: "2026-10-04T00:00:00Z"
+  last_post_link: https://aaronholbrookmusic.com/song/sleepwalking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11fdf59ed9ed6b97d3e0567534ae526d
+  last_post_guid: 2b4a86f05e4718b3678580817485c8ea
   score_criteria:
     cats: 0
     description: 3

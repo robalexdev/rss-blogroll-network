@@ -15,6 +15,10 @@ params:
   - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
       Trek & SciFi, Eigene Podcasts
     description: ""
+    id: 76744bb2c928dd66d5472df531fef17b
+  - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
+      Trek & SciFi, Eigene Podcasts
+    description: ""
     id: d32bf806d2d43e0c13a96ee2ecb6b9bf
   recommended: []
   recommender:
@@ -26,15 +30,15 @@ params:
   - Society & Culture
   - TV & Film
   relme: {}
-  last_post_title: Käffchen Impossible
-  last_post_description: "In der alten Bundesrepublik unserer Kindheit gab es viele
-    Worte, Formulierungen & mitunter auch Beleidigungen, die heute in dieser Form
-    nicht mehr gesagt werden. \n\nMan hört sie schlicht und einfach"
-  last_post_date: "2026-09-10T22:01:00Z"
-  last_post_link: https://baywatch-berlin.podigee.io/353-kaffchen-impossible
+  last_post_title: Erotik-Spezial mit Thomas Schmitt
+  last_post_description: So, dann mal Schmuck ablegen, Handtuch um die Hüfte und mit
+    der Lotion einreiben - ab geht die wilde Fahrt! Machen Sie sich bereit für Baywatch
+    Berlin, den Sauna-Aufguss für die Ohren! Wie lange
+  last_post_date: "2026-10-08T22:01:00Z"
+  last_post_link: https://baywatch-berlin.podigee.io/357-erotik-spezial-mit-thomas-schmitt
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 536603a4f604af96f78751d4bd85ef33
+  last_post_guid: 074dc498a01c29c1070d61037c28e79b
   score_criteria:
     cats: 3
     description: 3

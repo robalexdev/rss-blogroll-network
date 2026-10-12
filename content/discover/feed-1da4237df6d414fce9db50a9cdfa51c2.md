@@ -18,13 +18,13 @@ params:
   categories: []
   relme:
     https://lawtee.com/: true
-  last_post_title: 越南拟将死刑罪名砍到只剩4个，到底发生了什么
-  last_post_description: 越南国会正在审议一份刑法修正案草案，提议把贩毒、强奸未成年人等罪名的死刑都废掉，全国保留死刑的罪名将从目前的10项锐减到4项。
-  last_post_date: "2026-08-27T22:22:55Z"
-  last_post_link: https://lawtee.com/article/vietnam-crime-law/
+  last_post_title: 税收政策为何不向二孩家庭倾斜？
+  last_post_description: 个税减免对一孩二孩等额扣除，未体现多孩边际成本差异，激励偏弱。应探索按孩次递增的阶梯式扣除，让多生一个更划算。
+  last_post_date: "2026-10-09T16:40:11Z"
+  last_post_link: https://lawtee.com/article/tax-policy/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 047a7a11c03022347c2a9b9407d896d9
+  last_post_guid: 179c9e663215a6c36c5bc35f6646a00b
   score_criteria:
     cats: 0
     description: 3

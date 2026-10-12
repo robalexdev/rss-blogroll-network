@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -30,13 +30,13 @@ params:
   categories: []
   relme:
     https://aethermug.com/: true
-  last_post_title: Presenting the Foldable Tractatus
-  last_post_description: An interactive Wittgensteinian tool for thought
-  last_post_date: "2026-08-27T04:58:30Z"
-  last_post_link: https://aethermug.com/posts/tract?utm_source=rss&utm_campaign=rss
+  last_post_title: Please Don't Shame the AI Writers
+  last_post_description: A case for an uncomfortable middle ground
+  last_post_date: "2026-10-01T02:00:58Z"
+  last_post_link: https://aethermug.com/posts/please-don-t-shame-the-ai-writers?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7cf6966c6f640e5dbc50a3ad18437e99
+  last_post_guid: ccc4e1e1a636aa7db72c324ea1960be5
   score_criteria:
     cats: 0
     description: 3

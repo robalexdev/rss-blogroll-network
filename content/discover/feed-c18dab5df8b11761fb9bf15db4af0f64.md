@@ -19,7 +19,7 @@ params:
   - title: Blogroll by Der Schreibende (Frank Hamm)
     description: ""
     id: 0304ed09e3798f370adcb6f77278c335
-  - title: Blogroll by Der Schreibende (Frank Hamm)
+  - title: Blogroll von Der Schreibende (Frank Hamm)
     description: ""
     id: 6508aac0042871e4620b785254e30bef
   recommended: []
@@ -30,15 +30,15 @@ params:
   categories:
   - allerlei
   relme: {}
-  last_post_title: 'wmdedgt oder: ein Landleben-Lehrstück'
-  last_post_description: Am Fünften des Monats sollen wir tagebuch-artig bloggen,
-    so wollen es das Bloggergesetz und die freundliche Nachbarbloggerin, bei der sich…
-  last_post_date: "2026-09-05T16:17:01Z"
-  last_post_link: https://landlebenblog.org/2026/09/05/wmdedgt-oder-ein-landleben-lehrstueck/
+  last_post_title: Von Hinrichtungen im Allgemeinen und Besonderen.
+  last_post_description: Für den Freundeskreis Wolken habe ich ein paar Bilder mitgebracht
+    von der heutigen Hunderunde, ein Stück vom Odenwälder Himmel. Der…
+  last_post_date: "2026-10-11T15:21:24Z"
+  last_post_link: https://landlebenblog.org/2026/10/11/von-hinrichtungen-im-allgemeinen-und-besonderen/
   last_post_categories:
   - allerlei
   last_post_language: ""
-  last_post_guid: 0a4c0a99f0382467520db38790ac36d3
+  last_post_guid: 5767b09a1a7e2445108e7775045e600e
   score_criteria:
     cats: 0
     description: 3

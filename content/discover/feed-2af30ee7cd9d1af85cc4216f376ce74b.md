@@ -20,29 +20,34 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - entrepreneurship
+  - philosophy
   relme: {}
-  last_post_title: I made a film for my friend's birthday
-  last_post_description: A short film I made for my best friend's birthday, revisiting
-    the camping trip where our friendship first took root three years ago
-  last_post_date: "2026-06-11T12:53:00Z"
-  last_post_link: https://shilin.ca/a-short-film-for-my-friends-birthday/
-  last_post_categories: []
+  last_post_title: Making things that last
+  last_post_description: 'Thoughts on what makes a business worth building: timeless
+    products, intentional design, doing one thing really well, and creating things
+    that last.'
+  last_post_date: "2026-09-24T20:15:00Z"
+  last_post_link: https://shilin.ca/making-things-that-last/
+  last_post_categories:
+  - entrepreneurship
+  - philosophy
   last_post_language: ""
-  last_post_guid: 75e9ebd43e589c7ee10221d9d626d16f
+  last_post_guid: 9a67ef6b57ae997af5ddfde8ecf26d8b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

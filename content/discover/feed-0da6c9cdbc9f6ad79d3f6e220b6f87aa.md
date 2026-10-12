@@ -32,19 +32,20 @@ params:
   recommender:
   - https://lmika.org/feed.xml
   categories:
-  - AI Safety
-  - Anthropic
+  - AI
+  - OpenAI
   relme: {}
-  last_post_title: The AI  safety vibe shift
-  last_post_description: Once a fringe obsession of Bay Area rationalists, existential
-    risk is suddenly all anyone is talking about
-  last_post_date: "2026-09-11T01:04:25Z"
-  last_post_link: https://www.platformer.news/ai-safety-vibe-shift-coxon-anthropic/
+  last_post_title: AI is solving math problems faster than humans can understand the
+    solutions
+  last_post_description: OpenAI’s math breakthroughs may trigger an identity crisis
+    for mathematicians. Who’s next?
+  last_post_date: "2026-10-09T00:28:26Z"
+  last_post_link: https://www.platformer.news/openai-math-breakthroughs-tao-reaction/
   last_post_categories:
-  - AI Safety
-  - Anthropic
+  - AI
+  - OpenAI
   last_post_language: ""
-  last_post_guid: f0edb4a8ffd36499143a7aac961e1ffc
+  last_post_guid: 447870f43eebcb3daa4a35445bf8d69a
   score_criteria:
     cats: 0
     description: 3

@@ -20,14 +20,14 @@ params:
   categories:
   - 博客
   relme: {}
-  last_post_title: 鼓励是一种超级能力
-  last_post_description: JR 的桌上放着一张卡片，卡片上是初衷英语老师写给 JR 的一段鼓励的话。尽管这段话里的每一个字，作为父亲的我 […]
-  last_post_date: "2026-08-28T00:58:09Z"
-  last_post_link: https://happyxiao.com/encourage/
+  last_post_title: 无差别的零容忍真的好吗
+  last_post_description: 放假前，有天在雪球刷到一篇推送给我的热帖。作者说中秋节请同学到家里聚会，筹备过程中，拒绝了两个人。第一个，是请 […]
+  last_post_date: "2026-10-08T08:18:35Z"
+  last_post_link: https://happyxiao.com/zero/
   last_post_categories:
   - 博客
   last_post_language: ""
-  last_post_guid: 2d7d23e1054ccd4f377b3d33037d34cf
+  last_post_guid: b034283c57258db44889ce1edd092ec6
   score_criteria:
     cats: 0
     description: 3

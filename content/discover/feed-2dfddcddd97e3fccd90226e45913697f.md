@@ -1,6 +1,6 @@
 ---
 title: Andrey Lukyanenko
-date: "2026-09-10T07:26:49Z"
+date: "2026-10-05T07:55:07Z"
 description: Machine Learning Engineer at Meta, Kaggle Grandmaster, and Google Developer
   Expert writing about applied ML, AI paper reviews, systems, and learning.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,33 +26,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - agent
-  - ai
   - blogpost
-  - claude
-  - codex
-  - competition
+  - career
   - datascience
-  - kaggle
+  - learning
+  - machinelearning
   relme:
     https://andlukyane.com/: true
-  last_post_title: How AI agents helped me win a Kaggle silver medal — and how they
-    failed me
-  last_post_description: 'A write-up of the ROGII Wellbore Geology Prediction competition:
-    how I adopted an AI driven approach and got a silver medal.'
-  last_post_date: "2026-09-10T00:00:00Z"
-  last_post_link: https://andlukyane.com/blog/rogii-geosteering-kaggle
+    https://github.com/Erlemar: true
+  last_post_title: A machine learning roadmap for beginners in 2026
+  last_post_description: 'My advice for beginners in machine learning: learning the
+    fundamentals, finishing projects, using AI tools, and preparing for a first job.
+    An update to my 2018 data science roadmap.'
+  last_post_date: "2026-10-05T00:00:00Z"
+  last_post_link: https://andlukyane.com/blog/starting-a-career-in-machine-learning
   last_post_categories:
-  - agent
-  - ai
   - blogpost
-  - claude
-  - codex
-  - competition
+  - career
   - datascience
-  - kaggle
+  - learning
+  - machinelearning
   last_post_language: ""
-  last_post_guid: 03a41e0dfdd1b44606b9ecd0cc9df6ba
+  last_post_guid: 429b97b1a367a073f9a14166059d7664
   score_criteria:
     cats: 0
     description: 3

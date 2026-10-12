@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -23,21 +23,23 @@ params:
   recommender: []
   categories:
   - a.i.
-  - software development
-  - teams
+  - people
+  - staar
+  - trends
   relme: {}
-  last_post_title: The Development Team Was Never The Typing Pool
-  last_post_description: 'You’ve read the social media posts: “Software development
-    has completely changed” exclamation mark exclamation mark exclamation mark. These
-    are almost invariably about how, before coding agents'
-  last_post_date: "2026-09-11T06:40:30Z"
-  last_post_link: https://codemanship.wordpress.com/2026/09/11/the-development-team-was-never-the-typing-pool/
+  last_post_title: Why Almost Nothing You Read Online About AI Is True
+  last_post_description: I’ve adapted my Special Theory of Autonomous Agent Reliability
+    (STAAR) to predict the reliability of social media* posts about “AI”. In STAAR,
+    the reliability of a single step – a single
+  last_post_date: "2026-10-03T04:49:22Z"
+  last_post_link: https://codemanship.wordpress.com/2026/10/03/why-almost-nothing-you-read-online-about-ai-is-true/
   last_post_categories:
   - a.i.
-  - software development
-  - teams
+  - people
+  - staar
+  - trends
   last_post_language: ""
-  last_post_guid: f1ca2e29288aad9af24cdbb4b07c0618
+  last_post_guid: 00cdbc7e4cc4506d8391c0a3a92db1c7
   score_criteria:
     cats: 0
     description: 3

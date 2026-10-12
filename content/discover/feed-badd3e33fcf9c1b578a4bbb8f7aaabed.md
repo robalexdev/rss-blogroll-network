@@ -16,30 +16,34 @@ params:
   recommender: []
   categories:
   - 学习
-  - 杂谈
+  - 工具
+  - 系统
+  - 软件
   relme: {}
-  last_post_title: 266 博客价值被认可，后续要在知乎更新一些内容
-  last_post_description: 昨天收到了一封邮件，邮件内容如下。 突然觉得，自己写博客还是有人能够看见的呀。 加了右下角的企业微信之后，今天 […]
-  last_post_date: "2026-08-26T14:56:52Z"
-  last_post_link: http://ddw2019.com/266
+  last_post_title: 267 网页管理系统荒废了两个多月，今晚开启整理工作
+  last_post_description: 数字时代信息的爆炸，让我们会遇到这两个现象。 有价值的内容分布于多个软件的APP收藏、书本的侧边页 需要使用这 […]
+  last_post_date: "2026-09-03T15:10:12Z"
+  last_post_link: http://ddw2019.com/267
   last_post_categories:
   - 学习
-  - 杂谈
+  - 工具
+  - 系统
+  - 软件
   last_post_language: ""
-  last_post_guid: 6921d0beffb55bb3a8ae7feb381858cf
+  last_post_guid: 6d922c418269b3fa69fc6e1fd7cc1441
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

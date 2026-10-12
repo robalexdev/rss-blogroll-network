@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-08-28T18:02:23Z"
+date: "2026-10-11T10:19:36Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "Anthropic&#x27;s hardware standard \U0001F916, Meta&#x27;s Claude
-    spend \U0001F4B0, agent files \U0001F468‍\U0001F4BB"
+  last_post_title: "SpaceX mobile \U0001F6F0️, Touchscreen MacBook \U0001F4BB, Claude
+    Code mods \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-08-27T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-08-28
+  last_post_date: "2026-10-08T22:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-10-09
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fe8afc317d2da71288951dd22bba73df
+  last_post_guid: 8009b6965676319128c01e2f60c443e3
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-08-06T18:51:06+08:00"
+date: "2026-10-07T14:17:22+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -49,36 +49,39 @@ params:
   - https://ravelloh.com/feed.xml
   - https://sinofine.me/atom.xml
   - https://ttio.cc/feed.xml
+  - https://www.fghrsh.net/feed.php
   - https://www.hansjack.com/feed/
   - https://www.imcry.vip/index.xml
   - https://www.wikimoe.com/rss
   - https://xingwangzhe.fun/rss.xml
+  - https://blueke.top/rss.xml
   - https://blog.fkun.tech/feed/atom/
   - https://blog.hslzz.cn/rss2.xml
   - https://blog.vull.top/rss.xml
   - https://blog.emohe.cn/rss.xml
+  - https://geektutu.com/en/feed.xml
   - https://www.hansjack.com/feed/atom/
   - https://www.wikimoe.com/rss/blog
   - https://www.wikimoe.com/rss/tweet
   recommender: []
   categories:
-  - Linux
-  - WASM
-  - 博客
-  - 终端
+  - 7-Zip
+  - LZMA2
+  - Quine
+  - 压缩包
   relme:
     https://mabbs.github.io/: true
-  last_post_title: 一次制作终端版博客的经历
-  last_post_description: 在浏览器上用真的Linux访问博客会是什么样的感觉？
-  last_post_date: "2026-08-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/08/01/terminal.html
+  last_post_title: 如何制作一个“完整”的博客压缩包？
+  last_post_description: 让AI做出真正的“完整”将不再是难事……
+  last_post_date: "2026-10-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/10/01/quine.html
   last_post_categories:
-  - Linux
-  - WASM
-  - 博客
-  - 终端
+  - 7-Zip
+  - LZMA2
+  - Quine
+  - 压缩包
   last_post_language: ""
-  last_post_guid: 53fba1f73eda2bd74cc26b79a9881db6
+  last_post_guid: f51c46ccba460857179402f692554ef7
   score_criteria:
     cats: 0
     description: 3

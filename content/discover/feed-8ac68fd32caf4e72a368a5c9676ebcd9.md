@@ -1,6 +1,6 @@
 ---
 title: Andrew Ayer - Blog
-date: "2026-04-29T15:55:13Z"
+date: "2026-10-06T14:58:19Z"
 description: ""
 params:
   feedlink: https://www.agwa.name/blog/feed
@@ -35,14 +35,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'FastCGI: 30 Years Old and Still the Better Protocol for Reverse
-    Proxies'
+  last_post_title: 'sourcespotter-authorize: Monitor Your Go Modules for Malicious
+    Versions, Without the Noise'
   last_post_description: ""
-  last_post_date: "2026-04-29T15:55:13Z"
-  last_post_link: https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
+  last_post_date: "2026-10-06T14:58:19Z"
+  last_post_link: https://www.agwa.name/blog/post/monitoring_go_modules_without_noise
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e07a032cd456477ebd6b9489c611d5d1
+  last_post_guid: f236c3afb64810253f4d7073b6edc3e8
   score_criteria:
     cats: 0
     description: 0

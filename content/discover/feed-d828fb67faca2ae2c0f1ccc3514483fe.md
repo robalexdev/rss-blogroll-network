@@ -9,43 +9,28 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Herbst-Rezepte
-  - Pasta
-  - Pfifferlinge
-  - Pilz-Rezepte
-  - Pilze
-  - Pilzsaison
-  - Sommer-Rezepte
-  - Spaghetti
-  - Tomaten
-  - Weißwein
+  - Kohl
+  - Linsensalate
+  - Salate
   relme: {}
-  last_post_title: Spaghetti mit Pfifferlingen
-  last_post_description: Spaghetti mit Pfifferlingen gehören für mich zu den schönsten
-    Gerichten im Spätsommer und Herbst. Die Kombination aus gebratenen Pfifferlingen,
-    süßen Kirschtomaten, Knoblauch und einer leichten
-  last_post_date: "2026-09-09T05:00:00Z"
-  last_post_link: https://www.madamecuisine.de/spaghetti-mit-pfifferlingen/
+  last_post_title: Gerösteter Blumenkohl-Linsensalat mit Räucherpaprika
+  last_post_description: Dieser Blumenkohl-Linsensalat ist so einfach wie genial.
+    Ihr braucht nur wenige Zutaten, etwa 10 Minuten Vorbereitungszeit und etwas Geduld.
+    Dafür wird der Blumenkohl mit Olivenöl, Kreuzkümmel,
+  last_post_date: "2026-10-09T22:25:12Z"
+  last_post_link: https://www.madamecuisine.de/geroesteter-blumenkohl-linsensalat-mit-raucherpaprika/
   last_post_categories:
-  - Herbst-Rezepte
-  - Pasta
-  - Pfifferlinge
-  - Pilz-Rezepte
-  - Pilze
-  - Pilzsaison
-  - Sommer-Rezepte
-  - Spaghetti
-  - Tomaten
-  - Weißwein
+  - Kohl
+  - Linsensalate
+  - Salate
   last_post_language: ""
-  last_post_guid: c87717c4ba814ec607be536f5e853998
+  last_post_guid: 993e4b3efa19f9c7fc0a87c831889a00
   score_criteria:
     cats: 0
     description: 3

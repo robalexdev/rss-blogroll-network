@@ -1,6 +1,6 @@
 ---
 title: Dweller of the Forbidden City
-date: "2025-09-09T13:07:15-07:00"
+date: "2026-10-07T05:14:00-07:00"
 description: ""
 params:
   feedlink: https://dwelleroftheforbiddencity.blogspot.com/feeds/posts/default
@@ -10,6 +10,9 @@ params:
     https://dwelleroftheforbiddencity.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,7 +20,6 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme:
     https://dwelleroftheforbiddencity.blogspot.com/: true

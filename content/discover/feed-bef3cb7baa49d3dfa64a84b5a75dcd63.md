@@ -10,6 +10,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: A list of sites Ethan likes
+    description: ""
+    id: 796603efcff00ba474bbbd88e566b727
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
@@ -22,21 +25,24 @@ params:
   - title: Shellsharks Blogroll
     description: ""
     id: 9df4ddeec5c7409e22c95cf0424ff41d
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
   recommender:
   - https://shellsharks.com/feeds/feed.xml
+  - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Things I did in 2025 that have nothing to do with the internet
-  last_post_description: |-
-    What I did
-
-    Did not buy any new clothing, save for DIY band merch. (I love fashion, and I did shop! I just only shopped vintage. It made it a really fun adventure, it turned every desire from a whim
-  last_post_date: "2026-01-03T15:03:00Z"
-  last_post_link: https://henry.codes/writing/2025/
+  last_post_title: Dark Forestry
+  last_post_description: "notes on a new season for technologists\n            \n
+    \           \n            \n        \n        \n        We walk together in an
+    autumnal spruce-fir forest on a crisp mountain morning.\nThe peaks are"
+  last_post_date: "2026-10-05T18:16:54Z"
+  last_post_link: https://henry.codes/writing/dark-forestry/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ffb391c70666f5e045d576e30a38de9
+  last_post_guid: 8e7e549882c7d353771c9c11db9840d4
   score_criteria:
     cats: 0
     description: 3
@@ -54,6 +60,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 29
+  postcount: 33
   avgpostlen: 0
 ---

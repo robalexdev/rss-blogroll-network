@@ -1,6 +1,6 @@
 ---
 title: eighty-twenty news
-date: "2026-08-10T12:12:38Z"
+date: "2026-09-04T09:43:23Z"
 description: ""
 params:
   feedlink: https://eighty-twenty.org/index.atom
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Modelling Actors with Redex: Part III'
+  last_post_title: 'smolts: a pedagogical IDE for a teaching language'
   last_post_description: ""
-  last_post_date: "2026-08-03T13:10:46Z"
-  last_post_link: https://eighty-twenty.org/2026/08/03/redex-iswim-actors-efficient
+  last_post_date: "2026-09-04T06:37:15Z"
+  last_post_link: https://eighty-twenty.org/2026/09/04/smolts
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b4f87b354c49bb1596820fa0619911c6
+  last_post_guid: e6fdb6045ebd397a77ddd8e5923c4336
   score_criteria:
     cats: 0
     description: 0

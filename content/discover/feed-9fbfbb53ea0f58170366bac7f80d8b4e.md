@@ -32,11 +32,24 @@ params:
   - https://www.kuketz-forum.de/latest.rss
   - https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml
   - https://fliegende-bretter.blogspot.com/feeds/posts/default?alt=rss
+  - https://horstschulte.com/comments/feed/
   - https://netzpolitik.org/comments/feed/
   - https://netzpolitik.org/feed/podcast
   - https://nureinblog.at/comments/feed/
+  - https://pluralistic.net/comments/feed/
   - https://stefanpfeiffer.blog/comments/feed/
+  - https://wirres.net/feed/alles/
+  - https://wirres.net/feed/artikel/
+  - https://wirres.net/feed/bilder/
+  - https://wirres.net/feed/bookmarks/
+  - https://wirres.net/feed/favoriten/
+  - https://wirres.net/feed/mediamenu/
+  - https://wirres.net/feed/rezepte/
+  - https://wirres.net/feed/river/
+  - https://wirres.net/feed/top/
   - https://www.borisstumpf.de/comments/feed/
+  - https://www.claudia-klinger.de/digidiary/comments/feed/
+  - https://www.claudia-klinger.de/digidiary/feed/
   - https://www.googlewatchblog.de/comments/feed/
   - https://www.henning-uhle.eu/comments/feed
   - https://www.tagesschau.de/index~atom.xml
@@ -44,15 +57,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Kommentar zu Gewählt. Tagesordnung. von Peter Lohren
-  last_post_description: Merz kann nicht verstehen, wie Bürgerinnen und Bürger in
-    Sorge sind, ihre Mieten nicht mehr zahlen zu können. Er versteht nicht, wie dieselben
-    Bürger versuchen angesichts der horrenden
-  last_post_date: "2026-09-10T15:10:02Z"
-  last_post_link: https://www.borisstumpf.de/2026/09/gewaehlt-tagesordnung/#comment-1588
+  last_post_title: Kommentar zu GIMP und XnViewMP von Boris (Autor)
+  last_post_description: |-
+    Als Antwort auf <a href="https://www.borisstumpf.de/2026/09/gimp-und-xnviewmp/#comment-1591">GiftImage team</a>.
+
+    Ich werde das in etwa so machen, deswegen überhaupt auch dieser Beitrag im Blog -
+  last_post_date: "2026-10-11T03:56:18Z"
+  last_post_link: https://www.borisstumpf.de/2026/09/gimp-und-xnviewmp/#comment-1592
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fb05add322459126a0c2db2e380dbab2
+  last_post_guid: c2f8cd749080df3009f43cecccfc3226
   score_criteria:
     cats: 0
     description: 3

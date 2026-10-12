@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apple
-  - macOS
-  - 科技与产品
+  - Chrome
+  - Privacy
+  - 数字营销
   relme: {}
-  last_post_title: 哪些 Mac 会用上 M6？Mac mini 已确定，高端机型可能直接等 M7
-  last_post_description: Apple 已确认 M6 与 M5 Pro 版 Mac mini 跨代并行；其余 Mac 的 M6 更新仍属媒体路线图，专业用户应按内存、带宽和接口需求判断。
-  last_post_date: "2026-08-28T21:14:04Z"
-  last_post_link: https://topstip.com/p156773/
+  last_post_title: AnswerSift：看清 AI 在引用哪些网站，找到品牌与产品推广的依据
+  last_post_description: 为品牌营销找到可回查的依据：设置产品或行业关键词，在日常使用 AI
+  last_post_date: "2026-10-03T02:17:24Z"
+  last_post_link: https://topstip.com/p245173/
   last_post_categories:
-  - Apple
-  - macOS
-  - 科技与产品
+  - Chrome
+  - Privacy
+  - 数字营销
   last_post_language: ""
-  last_post_guid: 5c7ef0d358c606891c57b4355c648a18
+  last_post_guid: f1613ad88907dc259fd9bdcadd58e718
   score_criteria:
     cats: 0
     description: 3

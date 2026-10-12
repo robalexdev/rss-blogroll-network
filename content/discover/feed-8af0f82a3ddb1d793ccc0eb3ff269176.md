@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -44,15 +44,15 @@ params:
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: 'Media Diet: July and August 2026'
+  last_post_title: Things I learned these past few months
   last_post_description: |-
-    A quick look at the movies, television shows, music, and books that have captured my attention over the past two months.
-    Widow’s Bay Horror isn’t generally something I enjoy, but this show was
-  last_post_date: "2026-08-29T14:38:00-04:00"
-  last_post_link: https://www.inthemargins.ca/media-diet-0826
+    Below, a quick roundup of a few of the things I learned over the past few months.
+    The International Labour Organisation has adopted the first binding global labour standards for gig workers. Backed
+  last_post_date: "2026-09-30T14:00:00-04:00"
+  last_post_link: https://www.inthemargins.ca/til-2026-q3
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1dcd069262b7748c51072010e02fefe2
+  last_post_guid: d70dcd3cd2af72ed7cbca9cae5636b65
   score_criteria:
     cats: 0
     description: 3

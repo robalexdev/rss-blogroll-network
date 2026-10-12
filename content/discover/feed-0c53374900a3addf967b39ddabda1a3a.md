@@ -21,33 +21,31 @@ params:
   - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
-  - F1
-  - Formel Eins
+  - Motorsport
   relme: {}
-  last_post_title: 'Formel Eins: Vorschau GP von Spanien 2026'
-  last_post_description: Ein neuer Kurs im Kalender, der mal so gerade fertig geworden
-    ist und einige Fragezeichen aufwirft. Die Idee, in einem Gewerbegebiet in Madrid
-    eine Rennstrecke zu bauen, ist ja an…
-  last_post_date: "2026-09-10T09:23:03Z"
-  last_post_link: https://www.racingblog.de/2026/09/10/formel-eins-vorschau-gp-von-spanien-2026-2/
+  last_post_title: 'GT3-Report: GT World Challenge Barcelona'
+  last_post_description: 'GT3-Report: GT World Challenge Barcelona In dieser Folge
+    unserer GT3-Reihe soll es einzig und allein um das Finale im Sprint Cup der GT
+    World Challenge gehen. Da am bevorstehenden Wochenende…'
+  last_post_date: "2026-10-09T23:27:11Z"
+  last_post_link: https://www.racingblog.de/2026/10/10/gt3-report-gt-world-challenge-barcelona/
   last_post_categories:
-  - F1
-  - Formel Eins
+  - Motorsport
   last_post_language: ""
-  last_post_guid: 8f0ec1b871b15bed45c04dc4841a43d0
+  last_post_guid: 723052a904798c5df2c54e29f444ea85
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

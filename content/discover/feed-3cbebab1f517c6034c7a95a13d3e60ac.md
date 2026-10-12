@@ -15,32 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - IM系统
-  - armada
-  - e2ee
-  - nostr
+  - Tor
   - 即时通讯
-  - 去中心化
   - 学无止境
   - 端到端加密
-  - 聊天应用
+  - 聊天软件
   relme: {}
-  last_post_title: Armada：基于Nostr的开源端到端加密聊天应用
-  last_post_description: 本文仅记录Armada的部署过程，有关具体的技术细节（如Nostr、Concord），这里只简单介绍一下，如果你对Armada背后的这些技术感兴趣，可以Google或者AI探索
-  last_post_date: "2026-08-21T09:10:22Z"
-  last_post_link: https://lala.im/10388.html
+  last_post_title: PaperPhone：一款微信风格的端对端加密即时通讯应用
+  last_post_description: PaperPhone这项目是我朋友一直在开发的，这里帮他推荐一下。项目主要分为两个版本：Plus、Lite，Plus比Lite多了音视频会议、朋友圈等功能。
+  last_post_date: "2026-10-11T16:10:20Z"
+  last_post_link: https://lala.im/10433.html
   last_post_categories:
-  - IM系统
-  - armada
-  - e2ee
-  - nostr
+  - Tor
   - 即时通讯
-  - 去中心化
   - 学无止境
   - 端到端加密
-  - 聊天应用
+  - 聊天软件
   last_post_language: ""
-  last_post_guid: ad07f1ec1ffc1519431a4d7bec6a5cd9
+  last_post_guid: b64418ade6ea09650d35b72cec277e1f
   score_criteria:
     cats: 0
     description: 3

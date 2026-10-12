@@ -19,14 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Worms: A History of Self-Replicating Code'
-  last_post_description: From Creeper to the 2026 Hugging Face incident. Five decades
-    of code finding its own way across networks.
-  last_post_date: "2026-09-04T00:00:00Z"
-  last_post_link: https://coey.dev/worms-history
+  last_post_title: Terraloop
+  last_post_description: 'Two tools that run long tasks on Cloudflare without babysitting
+    them: a heartbeat (loops-yaml) that re-prompts the agent, and terrarium running
+    each job and handing back a receipt. Everything else is'
+  last_post_date: "2026-10-09T00:00:00Z"
+  last_post_link: https://coey.dev/terraloop
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f3386e0c2e31997edd21ee3d9252fc79
+  last_post_guid: 8c5c44c1d3afcc27f8b6aa703cf7e17c
   score_criteria:
     cats: 0
     description: 3

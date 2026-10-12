@@ -1,6 +1,6 @@
 ---
 title: Joshleeb's Blog
-date: "2026-08-31T00:00:00Z"
+date: "2026-09-19T00:00:00Z"
 description: ""
 params:
   feedlink: https://joshleeb.com/index.xml
@@ -24,10 +24,10 @@ params:
   categories: []
   relme:
     https://joshleeb.com/: true
-  last_post_title: 'Log Entry: August 2026'
+  last_post_title: 'Log Entry: September 2026'
   last_post_description: ""
-  last_post_date: "2026-08-31T00:00:00Z"
-  last_post_link: https://joshleeb.com/logs/202608.html
+  last_post_date: "2026-09-19T00:00:00Z"
+  last_post_link: https://joshleeb.com/logs/202609.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 2e86aceefb5c9758d1393dabc3983fde

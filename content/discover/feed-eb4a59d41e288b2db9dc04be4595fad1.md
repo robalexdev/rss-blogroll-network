@@ -24,20 +24,20 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: Nissan undercuts Kia to retake the crown as Canada’s most affordable
-    EV
+  last_post_title: The legendary Citroen 2CV is back as a €15k electric concept for
+    2028
   last_post_description: |-
-    The Kia EV3 is no longer Canada’s most affordable electric vehicle with the new 2027 Nissan Leaf S starting at under CA$35,000.
+    Citroën has unveiled a concept electric version of its classic 2CV, aiming to bring the vehicle to market in 2028 for just €15,000.
 
 
 
      more…
-  last_post_date: "2026-09-11T16:03:20Z"
-  last_post_link: https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/
+  last_post_date: "2026-10-11T21:08:45Z"
+  last_post_link: https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: 55bb03f44c22cb6d76f9ea1ea7696479
+  last_post_guid: 6b81dca2c6c0101436565713aaf674f0
   score_criteria:
     cats: 0
     description: 3

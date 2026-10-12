@@ -20,32 +20,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Education
+  - Commentary
+  - Government + Politics
   relme: {}
-  last_post_title: Schools, libraries sound alarm over potential changes to federal
-    internet program
-  last_post_description: A multi-billion-dollar federal program that helps schools
-    and libraries afford broadband internet is under review by the Trump administration,
-    leaving education officials and advocates worried about
-  last_post_date: "2026-09-11T15:00:46Z"
-  last_post_link: https://missouriindependent.com/2026/09/11/repub/schools-libraries-sound-alarm-over-potential-changes-to-federal-internet-program/
+  last_post_title: Prevention should not be a buzzword. It should be at the heart
+    of Missouri’s child welfare system
+  last_post_description: The growing attention being given to Missouri’s child welfare
+    system offers a critical opportunity to address not only the challenges with the
+    system, but the circumstances that bring families to a
+  last_post_date: "2026-10-10T10:50:36Z"
+  last_post_link: https://missouriindependent.com/2026/10/10/prevention-should-not-be-a-buzzword-it-should-be-at-the-heart-of-missouris-child-welfare-system/
   last_post_categories:
-  - Education
+  - Commentary
+  - Government + Politics
   last_post_language: ""
-  last_post_guid: 09b3ed7e00cb7517f281df454ab0b352
+  last_post_guid: f99b434a5c2655fb886881007f0a2e0d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

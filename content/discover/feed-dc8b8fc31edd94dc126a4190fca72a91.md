@@ -1,6 +1,6 @@
 ---
 title: Ahmad Alfy
-date: "2026-08-31T10:50:05+03:00"
+date: "2026-10-09T20:42:52+03:00"
 description: Blog about front-end development and the web
 params:
   feedlink: https://alfy.blog/feed.xml
@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,16 +28,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I wanted the browser to just ship jQuery. Cross-Origin Storage
-    came for rescue
-  last_post_description: Two sites, the same 8GB model, two downloads. A look at Cross-Origin
-    Storage, the WICG proposal for sharing big files across origins without leaking
-    history.
-  last_post_date: "2026-08-31T03:00:00+03:00"
-  last_post_link: https://alfy.blog/2026/08/31/cross-origin-storage.html
+  last_post_title: Iframes that finally fit their content
+  last_post_description: Iframes can now size themselves to their content with CSS.
+    What it replaces, where it helps, and why the embedded page has to say yes.
+  last_post_date: "2026-10-09T03:00:00+03:00"
+  last_post_link: https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa79a24c51af5703b0e88f0179582bba
+  last_post_guid: 5be177d3593522d3d61fb25b49bdf812
   score_criteria:
     cats: 0
     description: 3

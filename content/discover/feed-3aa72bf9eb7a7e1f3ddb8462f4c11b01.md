@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-07-28T14:00:00Z"
+date: "2026-10-06T13:00:00Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -21,14 +21,13 @@ params:
   categories: []
   relme:
     https://zettelkasten.de/: true
-  last_post_title: 'Supercharging Long Thinking: What Cal Newport''s Notebook Method
-    Leaves Out'
+  last_post_title: Rambling about Sorites
   last_post_description: ""
-  last_post_date: "2026-07-28T14:00:00Z"
-  last_post_link: https://zettelkasten.de/posts/supercharging-long-thinking/
+  last_post_date: "2026-10-06T13:00:00Z"
+  last_post_link: https://zettelkasten.de/posts/rambling-about-sorites/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d2a54ef35c2e6f88f87668105e82a5de
+  last_post_guid: e3ad7ecf3029a9ab631cfeae20e55ca0
   score_criteria:
     cats: 0
     description: 0

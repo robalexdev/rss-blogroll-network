@@ -1,6 +1,6 @@
 ---
 title: 云风的 BLOG
-date: "2026-08-20T12:13:19Z"
+date: "2026-10-11T11:31:41Z"
 description: 思绪来得快去得也快，偶尔会在这里停留
 params:
   feedlink: https://blog.codingnow.com/atom.xml
@@ -28,16 +28,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 桌面游戏
+  - 游戏
   relme: {}
-  last_post_title: 银河竞逐的乐趣和策略
-  last_post_description: 银河竞逐是我最喜欢的桌游之一。我曾经为它写过两篇 blog ：银河竞逐的设计 及 如何教人玩银河竞逐 。
-  last_post_date: "2026-08-20T12:13:19Z"
-  last_post_link: https://blog.codingnow.com/2026/08/rftg_strategy.html
+  last_post_title: 点老救世记的深度体验
+  last_post_description: 我最近重新玩了两百小时的《Dotage
+  last_post_date: "2026-10-11T11:31:41Z"
+  last_post_link: https://blog.codingnow.com/2026/10/dotage.html
   last_post_categories:
-  - 桌面游戏
+  - 游戏
   last_post_language: ""
-  last_post_guid: a60a84825c79692ba8330edfb8711c49
+  last_post_guid: cefec3ae173afbdff339ed72a4e070bb
   score_criteria:
     cats: 0
     description: 3

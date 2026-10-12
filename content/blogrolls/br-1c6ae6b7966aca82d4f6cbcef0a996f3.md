@@ -1,11 +1,14 @@
 ---
-title: Blogroll by kuechenlatein
-date: Thu, 10 Sep 2026 11:40:30 +0000
+title: Blogroll von kuechenlatein
+date: Fri, 09 Oct 2026 21:03:59 +0000
 description: ""
 params:
   link: https://kuechenlatein.com/blogroll/?opml=
   blogroll_id: 1c6ae6b7966aca82d4f6cbcef0a996f3
   recommends:
+  - title: Von Fischen, Brot und Süßigkeiten... mein Küchentagebuch
+    description: ""
+    id: 0fb1e314e12f3f89fc18a5968e01bc1b
   - title: feinschmeckerle foodblog stuttgart, reutlingen, schwäbische alb
     description: ""
     id: 1cf4a1223c40789c1723688be04bd9b5
@@ -55,7 +58,7 @@ params:
     id: 984aea00fc718d9f469f0d75d24c4446
   - title: Greenway36
     description: Greenway36 ~ ein kleinfeiner Foodblog mit gelingsicheren Rezepten,
-      ohne Schnickschnack und Gedöns, ohne Werbung und Kooperationen
+      ohne Schnickschnack und Gedöns, ohne Werbung, Kooperationen & KI
     id: 9a9f129a58a1fb9c0ba27f956a77b75a
   - title: LehrerInnenZimmer
     description: Herr Rau erzählt von sich und der Schule. Ein LehrerInnenBlog.
@@ -78,6 +81,9 @@ params:
   - title: Thomas Gigold
     description: Creative. Social. Content. Strategy.
     id: b22870d673f35ed8f32327f0078436dd
+  - title: Chili und Ciabatta
+    description: ""
+    id: b4ba36b622ec94a69c7f652adef15755
   - title: Vorspeisenplatte
     description: Speisen
     id: c32845efe65df5e2e9fbb2b39673d8ec
@@ -85,6 +91,10 @@ params:
     description: '"Wenn ich erwachsen bin,  kaufe ich nur noch Einweggeschirr,                                                       ernähre
       mich von Dosenravioli und heirate eine Raumpflegerin." Soviel zum Thema'
     id: c9e34505b28b7135549eec7ca7189658
+  - title: patchgarden
+    description: 'patchgarden : so bunt und vielfÃ¤ltig, wie mein Garten, sind meine
+      patchworks und meine Interessen'
+    id: d8be880d7a99890b29094ff2418bc5b5
   - title: kl.brüllen
     description: ""
     id: d97a9b3c4bf656c7d15bb7fe58723ac5

@@ -43,6 +43,9 @@ params:
   - title: Lacking Rhoticity
     description: ""
     id: 2edd1d4870356aa6c4fb1d058023c392
+  - title: The Go Blog
+    description: ""
+    id: 2f02a05b9ae2b09d6abb5aa771db4a68
   - title: Evan Jones - Software Engineer | Computer Scientist
     description: I'm a software engineer at Datadog in New York. I previously worked
       at Bluecore, fixed interesting bugs at Twitter, and taught a database class
@@ -55,9 +58,9 @@ params:
     description: ""
     id: 3a7ccb04f317dc55ab2c53591a057188
   - title: AddyOsmani.com
-    description: Addy Osmani is an engineering and evangelism leader who spent over
-      14 years at Google leading developer experience across Chrome and, in recent
-      years, AI (Gemini, coding agents, and agentic
+    description: Addy Osmani is an engineering and evangelism leader and a Member
+      of Technical Staff at Anthropic, where he works on Claude Code. He spent over
+      14 years at Google leading developer experience across
     id: 3b2679e334f268455c31539dab7133ea
   - title: eieio.games
     description: A blog about weird games, internet social experiments, and other
@@ -72,6 +75,9 @@ params:
   - title: the morning paper
     description: a random walk through Computer Science research, by Adrian Colyer
     id: 4743ba4839f82cb17b517f942a36ae4f
+  - title: Joshtronic
+    description: Shipping Fixes Everything
+    id: 4ab7aeb1879643a99214ae709861b588
   - title: wingolog
     description: A mostly dorky weblog by Andy Wingo
     id: 5637e1c3917f4c6ecedf374b393808f5
@@ -192,4 +198,7 @@ params:
   - title: absorptions
     description: a blog about sound & signals by windytan [oona räisänen]
     id: e963e991a5aab6628341e5ed7a588617
+  - title: Amit Merchant
+    description: A blog on PHP, JavaScript, and more
+    id: f858e21cad34f90d686f3b364e0f3817
 ---

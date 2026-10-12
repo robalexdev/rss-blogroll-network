@@ -26,15 +26,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 新手如何上手自营交易（Prop Firm）：FundedNext 保姆级开户与配置指南
+  last_post_title: Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）
   last_post_description: |-
     引言
-    很多刚接触期货自营交易（Prop Firm /
-  last_post_date: "2026-08-27T01:30:00+08:00"
-  last_post_link: https://blog.forecho.com/fundednext-prop-firm-beginner-guide.html
+
+    这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks
+  last_post_date: "2026-09-18T16:00:00+08:00"
+  last_post_link: https://blog.forecho.com/10-best-price-action-trading-patterns.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6950362675588e1b83cd426b3f291cb7
+  last_post_guid: d13ed3a149972de84f83748d27473ea8
   score_criteria:
     cats: 0
     description: 3

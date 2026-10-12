@@ -16,28 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - GPV381
-  - 口腔微生態
-  - 牙周病疫苗
-  - 牙齦素
+  - VITAL-H
+  - 內在能力
+  - 抗老
+  - 瘦瘦針
+  - 鄭丁靚
   - 醫療健康
+  - 長壽
+  - 高齡醫學
   relme: {}
-  last_post_title: 打破洗牙無效循環！全球首款「牙周病疫苗」如何沒收細菌武器，保衛大腦與心血管？
+  last_post_title: 從減肥藥到長生不老藥？美國砸千萬測試三款老藥，抗老的關鍵其實是「電池健康度」！
   last_post_description: !!binary |
-    6ZW35LmF5Lul5L6G77yM5oiR5YCR5bCN5LuY54mZ5ZGo55eF55qE5qiZ5rqW5rWB56iL5L
-    iN5aSW5LmO5piv5rSX54mZ44CB54mZ5qC55pW05bmz6KGT77yM5Zq06YeN5LiA6bue55Sa
-    6Iez6KaB57+755Oj5omL6KGT5oiW5ouU54mZ6YeN5bu644CC54S26ICM77yM6YCZ56iu5L
-    ul44CM54mp55CG5riF5Ym16IiH5YyW5a245q666I+M44CN54K65qC45b8=
-  last_post_date: "2026-08-27T07:31:15Z"
-  last_post_link: https://pansci.asia/archives/381628
+    55u45L+h5aSn5a626YO96IG96YGO77yM54++5Zyo5pyA5aSv55qE5rib6IKl44CM55im55
+    im6Yed44CN5LiN5YOF6IO95o6n5Yi26KGA57OW44CB6auU6YeN77yM55Sa6Iez6KKr55m8
+    54++6IO96K235b+D44CB6K236IWO44CC5L2G5L2g55+l6YGT5ZeO77yf56eR5a245a625Y
+    CR54++5Zyo5pu05oqK6IWm562L5YuV5Yiw5LqG44CM5oqX6ICB44CN5Lg=
+  last_post_date: "2026-10-10T02:01:07Z"
+  last_post_link: https://pansci.asia/archives/382456
   last_post_categories:
-  - GPV381
-  - 口腔微生態
-  - 牙周病疫苗
-  - 牙齦素
+  - VITAL-H
+  - 內在能力
+  - 抗老
+  - 瘦瘦針
+  - 鄭丁靚
   - 醫療健康
+  - 長壽
+  - 高齡醫學
   last_post_language: ""
-  last_post_guid: c4b990ba673fe5f45e9d7310b6c234cf
+  last_post_guid: 643db6328d87150bf95d579ab331fa21
   score_criteria:
     cats: 0
     description: 3

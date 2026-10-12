@@ -10,12 +10,11 @@ params:
     https://www.shadowelf.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Andere Blogs und Webseiten by Martha
+  - title: Andere Blogs und Webseiten von Martha
     description: ""
     id: 5363c70da1bacf44f1bd0a37d6fda2f0
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - Allgemein
   - Erlebtes

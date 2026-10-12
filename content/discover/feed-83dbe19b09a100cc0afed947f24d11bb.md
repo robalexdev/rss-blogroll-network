@@ -1,6 +1,6 @@
 ---
 title: molily
-date: "2026-08-22T21:07:58+02:00"
+date: "2026-10-07T08:57:55+02:00"
 description: HTML, CSS, JavaScript and web development
 params:
   feedlink: https://molily.de/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -30,15 +30,15 @@ params:
   categories: []
   relme:
     https://molily.de/: true
-  last_post_title: My practical approach to surfing the web safely
-  last_post_description: The web is a dangerous place. While modern browser security
-    architecture protects against many threats, security vulnerabilities are found
-    and fixed every day. Through security exploits, malicious
-  last_post_date: "2026-08-19T00:00:00+02:00"
-  last_post_link: https://molily.de/safe-websurfing/
+  last_post_title: The death of web development education
+  last_post_description: 'In a personal blog post, Baldur Bjarnason describes how
+    he worked in various fields and positions: as an author, publisher, consultant,
+    developer, educator, as well as radio and TV producer. None of'
+  last_post_date: "2026-09-14T00:00:00+02:00"
+  last_post_link: https://molily.de/web-dev-education/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c077622e09b362d0cdc866a5f9e294b4
+  last_post_guid: d1a81444e059320feba518c405c1bcc7
   score_criteria:
     cats: 0
     description: 3

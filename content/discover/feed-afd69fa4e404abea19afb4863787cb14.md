@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,15 +29,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Working Holiday in Japan: My Experience and Practical Tips'
-  last_post_description: My experience living in Osaka and Tokyo on a Working Holiday
-    visa, with practical advice on preparation, housing, work, useful apps, and places
-    to eat.
-  last_post_date: "2026-08-02T07:26:43Z"
-  last_post_link: https://bryanhogan.com/blog/working-holiday-japan
+  last_post_title: 'Working Holiday in Australia: My Experience and Practical Tips'
+  last_post_description: My experience and practical tips from doing a Working Holiday
+    in Australia. Sharing my experience of life in Australia and what to prepare for
+    a Working Holiday.
+  last_post_date: "2026-09-23T12:18:23Z"
+  last_post_link: https://bryanhogan.com/blog/australia-working-holiday
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 901161b7fd3b913ebf1f611c6aceea35
+  last_post_guid: f48295c3caec4431976e0a2ff0489d89
   score_criteria:
     cats: 0
     description: 3

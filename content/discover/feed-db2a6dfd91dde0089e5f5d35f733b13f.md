@@ -17,30 +17,56 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - Doyle
-  - Houdini
+  - 19. Jahrhundert
+  - 20.JH
+  - Churchill
+  - D'Arcy
+  - Erdöl
+  - Großbritannien
+  - Industrialisierung
+  - Iran
+  - Kolonialismus
+  - Lakeview Gusher
+  - Marine
+  - Persien
   - Podcastarchiv
-  - Spiritismus
-  - Zauberkunst
-  - Zaubern
+  - Russland
+  - Spindletop
+  - Texas
+  - USA
+  - Wirtschaftsgeschichte
+  - Ölkatastrophen
   relme:
     https://hemmer.land/@GeschichteFM: true
     https://www.geschichte.fm/: true
-  last_post_title: 'GAG572: Houdini und der Spiritismus'
+  last_post_title: 'GAG576: Die D’Arcy-Konzession und die Anfänge des Erdölzeitalters'
   last_post_description: |-
-    Eine Folge Ã¼ber den Streit zwischen Sir Arthur Conan Doyle und Harry Houdini
-    The post GAG572: Houdini und der Spiritismus appeared first on Geschichten aus der Geschichte.
-  last_post_date: "2026-09-09T06:03:33Z"
-  last_post_link: https://www.geschichte.fm/archiv/gag572/
+    Eine Geschichte über erste Ölbohrungen, Gusher und die weltpolitischen Folgen
+    The post GAG576: Die D’Arcy-Konzession und die Anfänge des Erdölzeitalters appeared first on Geschichten aus der
+  last_post_date: "2026-10-07T06:16:33Z"
+  last_post_link: https://www.geschichte.fm/archiv/gag576/
   last_post_categories:
-  - Doyle
-  - Houdini
+  - 19. Jahrhundert
+  - 20.JH
+  - Churchill
+  - D'Arcy
+  - Erdöl
+  - Großbritannien
+  - Industrialisierung
+  - Iran
+  - Kolonialismus
+  - Lakeview Gusher
+  - Marine
+  - Persien
   - Podcastarchiv
-  - Spiritismus
-  - Zauberkunst
-  - Zaubern
+  - Russland
+  - Spindletop
+  - Texas
+  - USA
+  - Wirtschaftsgeschichte
+  - Ölkatastrophen
   last_post_language: ""
-  last_post_guid: bbfb26fae659afa3bb082a5a8a4b6a5f
+  last_post_guid: 9c0767ac3f4a13ce301ecf39be26795e
   score_criteria:
     cats: 0
     description: 0

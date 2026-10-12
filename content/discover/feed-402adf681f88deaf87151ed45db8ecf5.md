@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2026-08-09T08:00:00Z"
+date: "2026-10-11T08:00:00Z"
 description: 欢迎来到莫尔索随笔，这里是我的数字实验室，也是一个关于成长与好奇心的长期主义计划。
 params:
   feedlink: https://liduos.com/atom.xml
@@ -20,14 +20,14 @@ params:
   categories:
   - AI 周刊
   relme: {}
-  last_post_title: Vol.115 个人AGI：从模型租用到智能资产复利，界定边界与验证环境
-  last_post_description: 本期内容聚焦个人AGI，探讨如何将上下文、Skill与责任沉淀为可持续资产，强调验证环境、控制层和模型选择权，并涵盖前沿模型进展与开源生态价值。
-  last_post_date: "2026-08-09T08:00:00Z"
-  last_post_link: https://liduos.com/weekly/the-weekly-gradient-115
+  last_post_title: Vol.121 应用、模型与运行系统相互塑造：AI 基础设施、智能体与云服务演进
+  last_post_description: 本期内容围绕应用、模型与运行系统相互塑造，梳理 AI
+  last_post_date: "2026-10-11T08:00:00Z"
+  last_post_link: https://liduos.com/weekly/the-weekly-gradient-121
   last_post_categories:
   - AI 周刊
   last_post_language: ""
-  last_post_guid: e815efa3dec6cb8ea2ed232e8c1d4a43
+  last_post_guid: 22947ff5b6aa3d319932afe7737dbab0
   score_criteria:
     cats: 0
     description: 3

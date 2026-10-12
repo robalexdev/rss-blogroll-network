@@ -10,59 +10,70 @@ params:
     https://pane-bistecca.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
+  - title: Blog-Roll von Sabine
+    description: ""
+    id: 628266ed2de64c9d666bcdbaeabfaa2c
   recommended: []
   recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  - https://einfach-kochen-und-mehr.de/feed/
   categories:
+  - Asia
   - Aus aller Welt
-  - Beilage
-  - Blumenkohl
-  - Easy
-  - Eier
-  - Europa
+  - Chili
+  - China
+  - Frucht
+  - Fruechte
+  - Garnelen/Crevetten
   - Gemüse
-  - Kartoffel
-  - Kartoffeln
+  - Glutenfrei
+  - Grillen
+  - Hauptspeise
+  - Hauptspeisen
+  - Knoblauch
   - Kraeuter
   - Kräuter
+  - Lactosefrei
   - Mahlzeiten
-  - Puffer
-  - Restenverwertung
-  - Resteverwertung
-  - Schweiz
+  - Marinade
+  - Meeresfruechte
+  - Meeresfrüchte
   - Spezielles
-  - Vegetarisch
+  - Zitrone
   relme: {}
-  last_post_title: Blumenkohl Puffer
+  last_post_title: Tiger Prawns vom Grill
   last_post_description: |-
-    Blumenkohl Puffer Pane-Bistecca Diese Blumenkohl Puffer sind unglaublich einfach und lecker und können mit Resten von gekochtem Blumenkohl gemacht werden. Man kann...
-    The post Blumenkohl Puffer
-  last_post_date: "2026-09-09T10:26:29Z"
-  last_post_link: https://pane-bistecca.com/2026/09/09/blumenkohl-puffer/
+    Tiger Prawns vom Grill Pane-Bistecca Diese Tiger Prawns vom Grill sind sehr einfach zu machen und haben durch die Marinade eine scharfen...
+    The post Tiger Prawns vom Grill appeared first on Pane
+  last_post_date: "2026-10-10T02:39:56Z"
+  last_post_link: https://pane-bistecca.com/2026/10/10/tiger-prawns-vom-grill/
   last_post_categories:
+  - Asia
   - Aus aller Welt
-  - Beilage
-  - Blumenkohl
-  - Easy
-  - Eier
-  - Europa
+  - Chili
+  - China
+  - Frucht
+  - Fruechte
+  - Garnelen/Crevetten
   - Gemüse
-  - Kartoffel
-  - Kartoffeln
+  - Glutenfrei
+  - Grillen
+  - Hauptspeise
+  - Hauptspeisen
+  - Knoblauch
   - Kraeuter
   - Kräuter
+  - Lactosefrei
   - Mahlzeiten
-  - Puffer
-  - Restenverwertung
-  - Resteverwertung
-  - Schweiz
+  - Marinade
+  - Meeresfruechte
+  - Meeresfrüchte
   - Spezielles
-  - Vegetarisch
+  - Zitrone
   last_post_language: ""
-  last_post_guid: ade1772ad9fb71733488fe020df5dce7
+  last_post_guid: b8b7a6b2bb8a98dadc84aab02c39dc67
   score_criteria:
     cats: 0
     description: 3

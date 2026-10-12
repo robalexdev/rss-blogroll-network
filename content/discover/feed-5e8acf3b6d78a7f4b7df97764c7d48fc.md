@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Going freestanding
-  last_post_description: Porting Go's standard library to platform-agnostic C.
-  last_post_date: "2026-08-20T12:00:00Z"
-  last_post_link: https://antonz.org/going-freestanding/
+  last_post_title: Go concurrency distilled
+  last_post_description: Interactive mini-book on concurrent programming in Go.
+  last_post_date: "2026-09-26T11:30:00Z"
+  last_post_link: https://antonz.org/go-concurrency-distilled/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ed32d00ae605c9ac6a07000a4d5482b
+  last_post_guid: 965066b644722a86b0fadc558e51c177
   score_criteria:
     cats: 0
     description: 3

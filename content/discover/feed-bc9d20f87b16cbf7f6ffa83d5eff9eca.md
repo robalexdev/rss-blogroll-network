@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-06-28T12:54:53Z"
+date: "2026-10-04T09:53:30Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -35,13 +35,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How Music Shaped Me
+  last_post_title: 'Survival Ball Versus: The Sabbatical Sprint'
   last_post_description: ""
-  last_post_date: "2026-06-24T00:00:00Z"
-  last_post_link: https://lopespm.com/notes/2026/06/24/music.html
+  last_post_date: "2026-10-04T00:00:00Z"
+  last_post_link: https://lopespm.com/2026/10/04/survival_ball_versus.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 23ddf0319a59b6413e5a24fbb126376e
+  last_post_guid: dc0faeb38df48ef6b5465efb462f46a2
   score_criteria:
     cats: 0
     description: 0

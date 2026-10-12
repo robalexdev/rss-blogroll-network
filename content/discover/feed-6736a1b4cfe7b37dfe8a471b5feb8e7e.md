@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: A list of sites Ethan likes
@@ -30,6 +30,9 @@ params:
   - title: Jeffrey Inscho - Blogroll
     description: ""
     id: 2302e193996057a443a3a6d12fe1dc63
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   - title: blogrolle englischsprachige blogs
     description: ""
     id: 8562a0ef3be9c20980f963e66c66da1b
@@ -39,6 +42,7 @@ params:
   recommended: []
   recommender:
   - https://roytang.net/index.xml
+  - https://stephanmax.com/feed.xml
   - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories: []

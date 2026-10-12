@@ -1,6 +1,6 @@
 ---
 title: Nach Redaktionsschluss – Der Medienpodcast
-date: "2026-09-11T15:36:00+02:00"
+date: "2026-10-09T15:36:00+02:00"
 description: Die Sendung ist vorbei, der Schreibtisch aufgeräumt. Jetzt diskutieren
   wir mit Ihnen über Ihre Fragen zu Journalismus und Medienthemen. „Nach Redaktionsschluss“
   ist der Medienpodcast der
@@ -21,16 +21,16 @@ params:
   categories:
   - Society & Culture
   relme: {}
-  last_post_title: 25 Jahre nach 9/11 - Wie der Terrorakt die Live-Berichterstattung
-    verändert hat
-  last_post_description: Die Terroranschläge vom 11. September haben die Welt verändert
-    – und wie Medien in solchen Lagen berichten. Über Fehler von damals und Herausforderungen
-    heute sprechen Ulrich Wickert, damals ARD
-  last_post_date: "2026-09-11T15:35:00+02:00"
-  last_post_link: https://www.deutschlandfunk.de/25-jahre-nach-9-11-wie-der-terrorakt-die-live-berichterstattung-veraendert-hat-100.html
+  last_post_title: Lautstärke runter, Publikum rein - Was Museen und Radio voneinander
+    lernen können
+  last_post_description: 'Ob Museum oder Rundfunk: wie gelingt es, dass Menschen sich
+    willkommen fühlen und Vertrauen schenken? Mit Simone Mergen (Haus der Geschichte)
+    und Christiane Florin (Dlf), vom b:future-Festival Bonn.'
+  last_post_date: "2026-10-09T15:35:00+02:00"
+  last_post_link: https://www.deutschlandfunk.de/lautstaerke-runter-publikum-rein-was-museen-und-radio-voneinander-lernen-koennen-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c39d3d85c26b4b6f5ed2dc6f720485ea
+  last_post_guid: 80f1bd7f0df69129de83d82b42f449a8
   score_criteria:
     cats: 1
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: bushcooks kitchen
-date: "2026-09-11T17:02:20+02:00"
+date: "2026-10-11T19:38:33+02:00"
 description: ""
 params:
   feedlink: https://www.bushcook.de/feeds/posts/default
@@ -10,15 +10,18 @@ params:
     https://www.bushcook.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
-  - title: Blogroll by kuechenlatein
+  - title: Blog-Roll von Sabine
+    description: ""
+    id: 628266ed2de64c9d666bcdbaeabfaa2c
+  - title: Blogroll von kuechenlatein
     description: ""
     id: 1c6ae6b7966aca82d4f6cbcef0a996f3
   recommended: []
   recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  - https://einfach-kochen-und-mehr.de/feed/
   - https://kuechenlatein.com/comments/feed/
   - https://kuechenlatein.com/feed/
   categories:
@@ -308,6 +311,7 @@ params:
   - Franz Keller
   - Franz Kotteder
   - Franz Kuplent
+  - Franz Schned
   - Franz Xaver Clement
   - Franz-Josef Unterlechner
   - Franzi Schweiger
@@ -541,9 +545,11 @@ params:
   - Marie Rausch
   - Mario Corti
   - Mario Gamba
+  - Mario Kotaska
   - Mario Lohninger
   - Marius Wittur
   - Markus Berl
+  - Markus Kieslich
   - Markus Meier
   - Markus Resch
   - Marokko
@@ -706,6 +712,7 @@ params:
   - Ralf Frenzel
   - Ralf Jakumeit
   - Ralf Zacherl
+  - Ralph Schelling
   - Reh
   - Reinhard Angerer
   - Reis
@@ -887,6 +894,7 @@ params:
   - Ulrich Heimann
   - Ulrich Jahn
   - Ungarn
+  - Valentin Rottner
   - Valerie Kitzinger
   - Vegan
   - Vegetarisch
@@ -954,27 +962,31 @@ params:
   relme:
     https://www.blogger.com/profile/07431738547643883832: true
     https://www.bushcook.de/: true
-  last_post_title: Wegweiser durchs Kochbuchregal
+  last_post_title: Kochprofi-Revival im Hotel Elephant, Weimar
   last_post_description: ""
-  last_post_date: "2026-09-11T09:00:00+02:00"
-  last_post_link: https://www.bushcook.de/2026/08/von-der-kochbuchsammlung-zur.html
+  last_post_date: "2026-10-11T09:00:00+02:00"
+  last_post_link: https://www.bushcook.de/2026/10/weimar-kochprofis.html
   last_post_categories:
-  - Kochbuch
+  - Mario Kotaska
+  - Martin Baudrexel
+  - Ralf Zacherl
+  - Restaurant
+  - Stefan Marquard
   last_post_language: ""
-  last_post_guid: acdc175082ddf64ba2e5014776efc55e
+  last_post_guid: 167acf04544ccf80c4b8eb650c659f44
   score_criteria:
     cats: 5
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 24
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

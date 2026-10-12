@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Zigzag decoding with AVX-512
-  last_post_description: I’ve been working on speeding up AVX-512 vertex decoding
-    in meshoptimizer recently; in the process I stumbled upon two optimizations that
-    I did not end up using but I thought they might be fun to
-  last_post_date: "2026-06-17T00:00:00Z"
-  last_post_link: https://zeux.io/2026/06/17/zigzag-decoding-avx512/
+  last_post_title: Billions of triangles redux
+  last_post_description: In early September, NVIDIA released an update to their vk_lod_clusters
+    open-source sample, that - among other things - featured a new impressive Zorah
+    scene as a glTF file. The demo showcased the
+  last_post_date: "2026-09-30T00:00:00Z"
+  last_post_link: https://zeux.io/2026/09/30/billions-of-triangles-redux/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8f590d9b9f1add5b0f49feaa4be3351f
+  last_post_guid: bb2ccf21d452d284e2f3d416bf51e0ef
   score_criteria:
     cats: 0
     description: 0

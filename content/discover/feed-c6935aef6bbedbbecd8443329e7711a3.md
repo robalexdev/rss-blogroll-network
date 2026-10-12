@@ -16,50 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ai联盟营销
-  - Media Buy
-  - Niche站赚钱
-  - 付费流量
-  - 内容营销
-  - 媒体购买
-  - 实操案例
-  - 广告优化
-  - 投资回报率
-  - 数字营销
-  - 点击套利
-  - 点击成本
-  - 直接买家关系
-  - 联盟营销
-  - 自有产品
-  - 行业趋势
-  - 被动收入
-  - 转化率优化
+  - Paid Social
+  - iGaming Offer
+  - 未分类
   relme: {}
-  last_post_title: 从点击套利到构建自有资产：Joey Babineau 解读 2026 年联盟营销
-  last_post_description: '.framer-text { scroll-margin-top: 120px; } Joey Babineau'
-  last_post_date: "2026-08-28T02:58:03Z"
-  last_post_link: https://www.fuyuzhe.com/affiliate-marketing-trends-2026.html
+  last_post_title: Paid Social 跑 iGaming Offer:花 17,523 美元,以单次 1.16 美元买到 15,091 次目标转化
+  last_post_description: |-
+    # Paid Social 流量案例:CPM 贵 3.5 倍,目标转化成本反而低 38% ## 数据...
+    Paid Social 跑 iGaming Offer:花 17,523 美元,以单次 1.16 美元买到 15,091
+  last_post_date: "2026-10-10T07:37:28Z"
+  last_post_link: https://www.fuyuzhe.com/igaming-offer.html
   last_post_categories:
-  - Ai联盟营销
-  - Media Buy
-  - Niche站赚钱
-  - 付费流量
-  - 内容营销
-  - 媒体购买
-  - 实操案例
-  - 广告优化
-  - 投资回报率
-  - 数字营销
-  - 点击套利
-  - 点击成本
-  - 直接买家关系
-  - 联盟营销
-  - 自有产品
-  - 行业趋势
-  - 被动收入
-  - 转化率优化
+  - Paid Social
+  - iGaming Offer
+  - 未分类
   last_post_language: ""
-  last_post_guid: 750581d2740118f31f42e97e0c088d4f
+  last_post_guid: 42990cdfbbcf28101790796dae9f8ce8
   score_criteria:
     cats: 0
     description: 3

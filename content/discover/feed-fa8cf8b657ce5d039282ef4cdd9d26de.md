@@ -26,14 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Jeff Dean 离开 Google，以及关于他的传说
-  last_post_description: 几日前，Google DeepMind 人事震动，哈萨比斯卸任 CEO，而更重磅的新闻是： [[Jeff Dean]]
-    从 Google 离职了。 Jeff Dean 是 Google 的元老之一，他与 1999 年作为第
-  last_post_date: "2026-08-08T00:00:00Z"
-  last_post_link: https://hutusi.com/flows/2026/08/08
+  last_post_title: 'AI Naive: 用 AI 做“无用之用”的独立软件作品集'
+  last_post_description: 从去年下半年开始 AI Coding, 从 Claude Code 到 Codex, 从 Opus 4 到 Fable
+    5，我用 AI
+  last_post_date: "2026-08-30T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/08/30
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0a8b56fbcff00ae2cc79950c16129667
+  last_post_guid: 89e241b3dcc156178d5646ee62492c66
   score_criteria:
     cats: 0
     description: 3

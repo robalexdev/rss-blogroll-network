@@ -1,6 +1,6 @@
 ---
 title: deuterium’s blog
-date: "2026-09-11T06:01:51+05:30"
+date: "2026-09-25T22:43:52+05:30"
 description: Himanshu Sheoran deut-erium deuterium cryptography Capture The Flag CTF
   hacking cybersecurity SAT SMT solvers and computer science.
 params:
@@ -20,6 +20,9 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: RSS feeds from Minifeed.net
+    description: ""
+    id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
   categories:

@@ -10,39 +10,36 @@ params:
     https://vivikocht.ch/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - Dinnerparty
-  - Garnelen
-  - Grill Royal
   - Hauptgerichte
   - Meeresfrüchte
-  - Rotgarnelen
-  - Sommerküche
-  - argentinische Rotgarnelen
+  - Pasta
+  - Spaghetti Vongole
+  - Venusmuscheln
+  - Vongole
   relme: {}
-  last_post_title: Geröstete argentinische Rotgarnelen
-  last_post_description: 'Geröstete Rotgarnelen inspiriert vom Grill Royal: saftige
-    Garnelen mit karamellisierten Zwiebeln, viel Knoblauch und Kräutern. Mein liebstes
-    Restaurantgericht zum Nachkochen, dazu selbstgemachte'
-  last_post_date: "2026-08-20T20:44:19Z"
-  last_post_link: https://vivikocht.ch/geroestete-argentinische-rotgarnelen/
+  last_post_title: Spaghetti Vongole wie in Venedig
+  last_post_description: |-
+    Spaghetti Vongole in der einfachen, sommerlichen Version: frische Venusmuscheln mit Knoblauch, Chili, einem Schluck Weisswein und Zitrone, in gut einer Viertelstunde fertig
+    Der Beitrag Spaghetti
+  last_post_date: "2026-09-28T19:06:28Z"
+  last_post_link: https://vivikocht.ch/spaghetti-vongole/
   last_post_categories:
   - Dinnerparty
-  - Garnelen
-  - Grill Royal
   - Hauptgerichte
   - Meeresfrüchte
-  - Rotgarnelen
-  - Sommerküche
-  - argentinische Rotgarnelen
+  - Pasta
+  - Spaghetti Vongole
+  - Venusmuscheln
+  - Vongole
   last_post_language: ""
-  last_post_guid: 2fe720cbba2f14a904bc026b2bdf3f6d
+  last_post_guid: e3ae72921d7fa87bbcea35b896bbdadb
   score_criteria:
     cats: 0
     description: 3

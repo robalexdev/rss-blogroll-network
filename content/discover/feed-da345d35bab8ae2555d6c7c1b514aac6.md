@@ -19,21 +19,19 @@ params:
   categories: []
   relme:
     https://100r.ca/: true
+    https://grimgrains.com/: true
     https://kokorobot.ca/: true
     https://merveilles.town/@rek: true
     https://rabbitwaves.ca/: true
-  last_post_title: Summary of changes for August 2026
-  last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of August.
-
-
-      Wiki, updated various sections in solar cooking experiment.
-      Donsol, putting some final
-  last_post_date: "2026-09-01T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#aug2026
+  last_post_title: Summary of changes for September 2026
+  last_post_description: "Hey everyone!This is the list of all the changes we've done
+    to our projects during the month of September.\n\n\n  Wiki, added portland island,
+    and updated alcohol stove.\n  Donsol, released on Itch.io!\n "
+  last_post_date: "2026-09-30T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#sep2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4ef34f8637237973bb4535bfb166dd87
+  last_post_guid: 51765432f78a77e35f338250f26bdef2
   score_criteria:
     cats: 0
     description: 3

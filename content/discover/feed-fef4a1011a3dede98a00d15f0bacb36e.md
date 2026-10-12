@@ -1,6 +1,6 @@
 ---
 title: 渚碧
-date: "2026-08-11T15:09:34Z"
+date: "2026-09-30T00:41:47Z"
 description: 欲种嘉蔬 亦植蔷薇
 params:
   feedlink: https://jubeny.com/feed.xml
@@ -25,31 +25,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - review
-  - 读书
+  - journal
+  - 影音
+  - 教程
   relme: {}
-  last_post_title: 读书小结十九
-  last_post_description: The Sorrow of
-  last_post_date: "2026-08-08T14:26:26+08:00"
-  last_post_link: https://jubeny.com/2026/08/book-summaries-19/
+  last_post_title: 免费音乐的破解之道
+  last_post_description: |-
+    听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。
+    使用Youtube
+  last_post_date: "2026-09-30T08:34:20+08:00"
+  last_post_link: https://jubeny.com/2026/09/unlock-free-music/
   last_post_categories:
-  - review
-  - 读书
+  - journal
+  - 影音
+  - 教程
   last_post_language: ""
-  last_post_guid: bb18bddd1bdcb14f75ed7f1a2e7b56c9
+  last_post_guid: 6746f26019ee307ccc9f656d7a8b19df
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

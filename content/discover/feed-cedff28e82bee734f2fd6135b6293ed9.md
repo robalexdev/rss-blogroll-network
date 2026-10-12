@@ -10,7 +10,7 @@ params:
     https://www.musicmongoose.com/blog: true
   blogrolls: []
   in_blogrolls:
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   recommended: []
@@ -18,14 +18,15 @@ params:
   - https://www.henning-uhle.eu/feed
   categories: []
   relme: {}
-  last_post_title: Jimi Hendrix’s life was more twisted than you thought
-  last_post_description: Jimi Hendrix once told an interviewer that besides his music,
-    he had nothing to live for.
-  last_post_date: "2026-08-28T12:00:02Z"
-  last_post_link: https://www.musicmongoose.com/post/the-punk-band-that-did-everything-first-and-got-zero-credit
+  last_post_title: The story of INXS and Michael Hutchence is more upsetting than
+    you thought
+  last_post_description: This story is a bit of a heartbreaker. But it's a story worth
+    telling, about a brilliant man who ultimately passed way too soon.
+  last_post_date: "2026-10-06T17:00:05Z"
+  last_post_link: https://www.musicmongoose.com/post/the-story-of-inxs-and-michael-hutchence-is-more-upsetting-than-you-thought
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fae21bcd73605088e5ef51e2b8822045
+  last_post_guid: 4b47b28a48eef829f95898b0c24d4430
   score_criteria:
     cats: 0
     description: 3

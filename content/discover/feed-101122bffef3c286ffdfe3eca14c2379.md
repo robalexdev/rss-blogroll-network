@@ -34,15 +34,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Introduction Finger
+  last_post_title: Blog Theme Update Mermaid Support Is Here
   last_post_description: |-
     Introduction
-    Today I stumbled on an article about the Finger protocol (Finger: the 1971 social network that never died, written by Andros Fenollosa at en.andros.dev) and learned there was a social
-  last_post_date: "2026-08-20T10:47:00Z"
-  last_post_link: https://www.bboy.app/2026/08/20/introduction-finger/
+    The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into Markdown. No more drawing a diagram, exporting
+  last_post_date: "2026-09-17T11:14:20Z"
+  last_post_link: https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 54f740c5a610d40990b4b793be8dc8a7
+  last_post_guid: 155b6bff37cd02e036071df7e9f132b9
   score_criteria:
     cats: 0
     description: 3

@@ -20,31 +20,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Book Freak
-  - Tips
+  - Recomendo
   relme: {}
-  last_post_title: 'Book Freak #224: Exactly'
-  last_post_description: How Precision Engineers Created the Modern World
-  last_post_date: "2026-08-28T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/book-freak-224-exactly/
+  last_post_title: Jurassic sounds / Free Utilities / China travel tip
+  last_post_description: 'Recomendo - issue #535'
+  last_post_date: "2026-10-11T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/jurassic-sounds-free-utilities-china-travel-tip/
   last_post_categories:
-  - Book Freak
-  - Tips
+  - Recomendo
   last_post_language: ""
-  last_post_guid: 58a06d119f6fa3917a34f32bbf680346
+  last_post_guid: 611e3711a61a3d677a4e8cd846d585f8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

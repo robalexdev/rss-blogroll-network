@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,20 +25,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - music
-  - stoic
+  - 25in25
+  - reflection
   relme: {}
-  last_post_title: What it feels like to Discover Music in 2026
-  last_post_description: Live report and recap from a night of digging in 2026 â€œI
-    wrote this in a live-action first person format but added an additional note at
-    the end upon publication,...
-  last_post_date: "2026-09-10T15:10:27Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/what-it-feels-like-to-discover-music-in-2026
+  last_post_title: 25 in ’25 - November
+  last_post_description: 'One left! At the beginning of 2025, I set a goal: to achieve 25
+    Actionable Items in 2025. Thus far, I’ve been keeping tabs on my journey each
+    month in the...'
+  last_post_date: "2026-09-21T15:01:16Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-november
   last_post_categories:
-  - music
-  - stoic
+  - 25in25
+  - reflection
   last_post_language: ""
-  last_post_guid: 5f3828a781b05e1736a5636fed9e134f
+  last_post_guid: 526eec09d63bbfe36739a3779ebd0908
   score_criteria:
     cats: 0
     description: 0

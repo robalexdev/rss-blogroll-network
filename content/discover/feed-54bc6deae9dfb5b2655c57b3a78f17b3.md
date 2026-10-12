@@ -1,6 +1,6 @@
 ---
 title: Charles Barnes
-date: "2026-08-25T00:34:44Z"
+date: "2026-10-04T22:38:04Z"
 description: Charles Barnes - Developer in St. Louis, Mo | charles@charlesabarnes.com
 params:
   feedlink: https://chkb.net/feed.xml

@@ -1,6 +1,6 @@
 ---
 title: Mausloch
-date: "2026-09-11T19:06:49+02:00"
+date: "2026-10-12T00:45:48+02:00"
 description: Herzlich willkommen im Mausloch!
 params:
   feedlink: https://mausloch.blogspot.com/feeds/posts/default
@@ -13,13 +13,16 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: "Meine Lieblingsblogs – die Diva-Blogroll \U0001F4DC by Planungsdiva"
+  - title: Andere Blogs und Webseiten von Martha
+    description: ""
+    id: 5363c70da1bacf44f1bd0a37d6fda2f0
+  - title: "Meine Lieblingsblogs – die Diva-Blogroll \U0001F4DC von Planungsdiva"
     description: ""
     id: 6ffd1500e21afb2d85412db99cb3a91f
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   recommended: []
@@ -127,6 +130,7 @@ params:
   - blogparade
   - blogparty
   - blogreihe
+  - blogstöckchen
   - blogtober
   - bodensee
   - boggen
@@ -158,6 +162,7 @@ params:
   - dreissig
   - ebl
   - ehemalig
+  - eieruhr
   - eigenarten
   - energie
   - entscheidung
@@ -314,6 +319,7 @@ params:
   - pause
   - peinlich
   - pfahlbauten
+  - pflanzen
   - phantasie
   - playlist
   - pommes
@@ -368,6 +374,7 @@ params:
   - strandkorb
   - stress
   - sträter
+  - suche
   - supermarkt
   - tablette
   - tag
@@ -423,18 +430,18 @@ params:
   relme:
     https://mausloch.blogspot.com/: true
     https://www.blogger.com/profile/05649593643866297473: true
-  last_post_title: Bloggerschnack im September
+  last_post_title: Die High Five der Woche Seite an Seite mit den Sonntags Top 7
   last_post_description: ""
-  last_post_date: "2026-09-11T18:18:30+02:00"
-  last_post_link: https://mausloch.blogspot.com/2026/09/bloggerschnack-im-september.html
+  last_post_date: "2026-10-11T00:30:00+02:00"
+  last_post_link: https://mausloch.blogspot.com/2026/10/die-high-five-der-woche-seite-seite-mit.html
   last_post_categories:
-  - '#bloggerschnack'
   - blog
+  - highfive
   - mausloch
-  - mitmachaktion
-  - monatlich
+  - sonntag
+  - sonntagstop7
   last_post_language: ""
-  last_post_guid: b47cbf643d893349a6b0233e71056c0b
+  last_post_guid: b06d483536cb44a9a735b4ce88aa56c1
   score_criteria:
     cats: 5
     description: 3

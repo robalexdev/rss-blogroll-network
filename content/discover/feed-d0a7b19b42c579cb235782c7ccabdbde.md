@@ -18,16 +18,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: How can objects interact without touching?
-  last_post_description: Rethinking the electric field Have you ever wondered what
-    an electric field actually is?  The electric field is the foundation of most technologies
-    that we rely on every day. From power grids and
-  last_post_date: "2026-09-06T13:17:26Z"
-  last_post_link: https://quantumfrontiers.com/2026/09/06/how-can-objects-interact-without-touching/
+  last_post_title: In praise of questions
+  last_post_description: Prende y se apaga sola, sale después de hora. CHARLY GARCÍA
+    La máquina de ser feliz I’ve learned to tolerate them, and sometimes even like
+    them, but Zoom meetings are weird. Even in familiar
+  last_post_date: "2026-10-08T15:27:53Z"
+  last_post_link: https://quantumfrontiers.com/2026/10/08/in-praise-of-questions/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 77de9cb62efd8f1df2b996782fbe907d
+  last_post_guid: b6a70aa03d15c6451d7edec05615efd9
   score_criteria:
     cats: 0
     description: 3

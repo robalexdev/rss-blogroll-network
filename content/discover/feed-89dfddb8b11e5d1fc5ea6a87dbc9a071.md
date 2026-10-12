@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Engineering Blogs
@@ -37,19 +37,23 @@ params:
   - title: Information and Cyber Security RSS/Atom Feeds
     description: ""
     id: c2fcb03cb60f31fe2922a3fc129cd838
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
-  recommender: []
+  recommender:
+  - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: AI in Linux
-  last_post_description: The role of AI tools (LLMs, mainly) in Linux is under discussion,
-    or it was, until Linus Torvalds “put his foot down” in support of the use of AI
-    in Linux kernel development.I can identify two
-  last_post_date: "2026-07-23T00:00:00Z"
-  last_post_link: https://drewdevault.com/blog/AI-in-Linux/
+  last_post_title: Why is Hacker News like that?
+  last_post_description: Hacker News (aka HN) is a link aggregator where “hackers”1
+    gather to discuss technology, politics, and anything which “good hackers would
+    find interesting”. HN is a means by which its host,
+  last_post_date: "2026-09-23T00:00:00Z"
+  last_post_link: https://drewdevault.com/blog/Why-is-HN-like-that/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2b70a89b9fef7a54a1f9af78e8b2ad66
+  last_post_guid: 194f7dd9654b8e98881cb197c2799de6
   score_criteria:
     cats: 0
     description: 3

@@ -20,27 +20,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Rust
-  - Serverless
-  - eBPF
-  - sponsor-aws-marketplace
-  - sponsored-post-contributed
+  - AI Agents
+  - Model Context Protocol
+  - contributed-bit
   relme: {}
-  last_post_title: How AWS Lambda logs every flow across thousands of microVMs per
-    host with eBPF and Rust
+  last_post_title: Claude Code found my app’s shared contract in two MCP calls. Then
+    the records ran out.
   last_post_description: |-
-    On any compute platform, when a security alert fires, the question is always the same. Which workload talked to that
-    The post How AWS Lambda logs every flow across thousands of microVMs per host with
-  last_post_date: "2026-09-11T12:00:00Z"
-  last_post_link: https://thenewstack.io/aws-lambda-ebpf-rust/
+    Every Claude Code user has watched a new session start from zero. You open it on a system you built
+    The post Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.
+  last_post_date: "2026-10-11T14:00:00Z"
+  last_post_link: https://thenewstack.io/claude-code-mcp-records/
   last_post_categories:
-  - Rust
-  - Serverless
-  - eBPF
-  - sponsor-aws-marketplace
-  - sponsored-post-contributed
+  - AI Agents
+  - Model Context Protocol
+  - contributed-bit
   last_post_language: ""
-  last_post_guid: 6813aa0ccc1b5d3e472b0ed33354000e
+  last_post_guid: dbd0862392c0e3bb038001a6a62d2796
   score_criteria:
     cats: 0
     description: 0

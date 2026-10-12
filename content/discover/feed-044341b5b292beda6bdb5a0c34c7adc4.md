@@ -21,60 +21,46 @@ params:
   - Abel Góngora
   - Analysis
   - Anime Industry
-  - Bruno Carvalho
-  - Eitetsu
-  - Essay
-  - Hayao Miyazaki
+  - Asami Murakoshi
+  - China (Animator)
   - Jaadugar
   - Kenichi Yoshida
+  - Kenji Zenba
   - Kotaro Matsunaga
   - Masashi Ando
-  - Mitsuo Iso
   - Naoko Yamada
-  - Science Saru
-  - Shinsaku Sasaki
-  - Shuto Enomoto
-  - The Deer King
-  - Tomato Soup
-  - Tomohisa Shimoyama
-  - Toshiyuki Inoue
+  - Ruotien Ting
+  - Ryosuke Nakamura
+  - Shinji Otsuka
   - Weekly Coverage
   - Yujiro Abe
-  - Yuki Hayashi
   relme: {}
-  last_post_title: 'Jaadugar: A Witch In Mongolia Production Notes #01-06 – Historically
-    Accurate Animation Meets Compelling Artifice'
-  last_post_description: 'Jaadugar: A Witch in Mongolia is a one-of-a-kind effort
-    in historical and cultural accuracy in TV anime, but also smart enough to introduce
-    pointed, imaginative deceit to make for a more compelling'
-  last_post_date: "2026-08-07T18:35:19Z"
-  last_post_link: https://blog.sakugabooru.com/2026/08/07/jaadugar-production-notes-01-06/
+  last_post_title: 'Jaadugar: A Witch In Mongolia Production Notes #07-12 – A Star-filled
+    Ending (For Now)'
+  last_post_description: Rather than merely limping to the goal line, allowing its
+    gripping narrative and careful cultural research to carry it, Jaadugar fought
+    back against production exhaustion. To do so, they gathered
+  last_post_date: "2026-09-20T13:30:21Z"
+  last_post_link: https://blog.sakugabooru.com/2026/09/20/jaadugar-a-witch-in-mongolia-production-notes-07-12-a-star-filled-ending-for-now/
   last_post_categories:
   - Abel Góngora
   - Analysis
   - Anime Industry
-  - Bruno Carvalho
-  - Eitetsu
-  - Essay
-  - Hayao Miyazaki
+  - Asami Murakoshi
+  - China (Animator)
   - Jaadugar
   - Kenichi Yoshida
+  - Kenji Zenba
   - Kotaro Matsunaga
   - Masashi Ando
-  - Mitsuo Iso
   - Naoko Yamada
-  - Science Saru
-  - Shinsaku Sasaki
-  - Shuto Enomoto
-  - The Deer King
-  - Tomato Soup
-  - Tomohisa Shimoyama
-  - Toshiyuki Inoue
+  - Ruotien Ting
+  - Ryosuke Nakamura
+  - Shinji Otsuka
   - Weekly Coverage
   - Yujiro Abe
-  - Yuki Hayashi
   last_post_language: ""
-  last_post_guid: f222680044586c2f4ea1aa5a9af423ca
+  last_post_guid: 7fbca1bcf6f31f3a608828a0889fa109
   score_criteria:
     cats: 0
     description: 3

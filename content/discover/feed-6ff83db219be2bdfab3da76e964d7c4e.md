@@ -28,45 +28,30 @@ params:
   - https://wirres.net/feed/river/
   categories:
   - "1"
-  - 9/11
-  - donald trump
-  - nyc
-  - politics
-  - surveillance
-  - tragedy
-  - zohran mamdani
   relme: {}
-  last_post_title: Since 9/11, Fear Has Driven Our Politics. Don’t Let It Drive The
-    Next 25 Years.
-  last_post_description: Twenty-five years ago today I was woken up by a phone call
-    from a close friend, who, like me, grew up in New York and, like me, was now living
-    in California. She told me that something horrible had
-  last_post_date: "2026-09-11T16:23:48Z"
-  last_post_link: https://www.techdirt.com/2026/09/11/since-9-11-fear-has-driven-our-politics-dont-let-it-drive-the-next-25-years/
+  last_post_title: Funniest/Most Insightful Comments Of The Week At Techdirt
+  last_post_description: 'This week, our first place winner on the insightful side
+    is Thad replying to a comment about Mark Zuckerberg’s past projects: I’d say the
+    first thing he did was bring back the AOL silo paradigm.'
+  last_post_date: "2026-10-11T19:00:00Z"
+  last_post_link: https://www.techdirt.com/2026/10/11/funniest-most-insightful-comments-of-the-week-at-techdirt-229/
   last_post_categories:
   - "1"
-  - 9/11
-  - donald trump
-  - nyc
-  - politics
-  - surveillance
-  - tragedy
-  - zohran mamdani
   last_post_language: ""
-  last_post_guid: 9b26ccc2397a364aee0d68b9e8004923
+  last_post_guid: 2aca1f2dd2ef089a75a39b5be21df526
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

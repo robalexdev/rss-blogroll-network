@@ -1,6 +1,6 @@
 ---
 title: P̴̜̋̿̆̎̇͝i̴̘͉̮̦̕ŗ̷̤̲̊͛͝a̶̢̖̞̼̖͌̀́͘ ̶̫͝H̷͚̩̼͂̏̂̽͘͘x̷̤́͐̈́̀C̷̰͉̼̯̫̉͑ͅx̷̼̩̮̹̥̺͆̐̀
-date: "2026-09-05T00:39:00Z"
+date: "2026-09-27T15:00:00Z"
 description: ""
 params:
   feedlink: https://pirahxcx.neocities.org/atom.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -32,14 +32,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I have often seen people saying Primus sucks. It never occurred
-    to me they could be saying that ironically.
+  last_post_title: 'Journal: 2026/09/27 Sunday (Memoirs, Punk)'
   last_post_description: ""
-  last_post_date: "2026-09-05T00:39:00Z"
-  last_post_link: https://pirahxcx.neocities.org/
+  last_post_date: "2026-09-27T15:00:00Z"
+  last_post_link: https://pirahxcx.neocities.org/journal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9b847c12a6b89a6acf59bc48d37dd919
+  last_post_guid: 10709686d76944a8b2d0ba31e5f46190
   score_criteria:
     cats: 0
     description: 0

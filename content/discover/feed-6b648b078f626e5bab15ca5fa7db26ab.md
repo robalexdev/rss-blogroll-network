@@ -12,19 +12,22 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Information and Cyber Security RSS/Atom Feeds
+    description: ""
+    id: c2fcb03cb60f31fe2922a3fc129cd838
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Boring Way to Get to AI Taking Over Everything
-  last_post_description: A charcoal sketch of a faceless purple robot working the
-    levers of a dense industrial machine, beside an empty office chair with a worker's
-    cap left hanging on it/images/slow-path-to-ai-takeover
-  last_post_date: "2026-09-10T06:15:00Z"
-  last_post_link: https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website
+  last_post_title: My Thoughts on Renaming AI to Super Intelligence
+  last_post_description: A colossal purple intelligence building a stone arch while
+    a small figure on a ladder lifts a cheap cracked mask off its face, and a second
+    figure watches with arms crossed/images/renaming-ai-to
+  last_post_date: "2026-10-09T20:51:00Z"
+  last_post_link: https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&utm_medium=feed&utm_campaign=website
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bacd8a84d69543b5fdd90baefa82dc08
+  last_post_guid: b51001483c77ba1263acc37efb572932
   score_criteria:
     cats: 0
     description: 3

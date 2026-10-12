@@ -28,16 +28,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F517 New Apple Watches have ears and the surveillance industry
-    is going to take notice"
-  last_post_description: I think Apple is slicing the baloney pretty thin when it
-    says audio isn’t recorded. Surely there’s some recording because summaries require
-    context; they can’t be made on the fly. Maybe a
-  last_post_date: "2026-09-11T12:00:00Z"
-  last_post_link: https://gurupanguji.com/blog/2026/09/11/new-apple-watches-have-ears-and-the-surveillance-industry-is-going-to-take-notice/
+  last_post_title: Theres Something About Claude
+  last_post_description: We’ve building a few things over at Semi Serious Labs. Until
+    recently our LLMs of choice for software development was agy-cli with Gemini because
+    of our Google Pro plans and gpt-5.6/6 with codex as
+  last_post_date: "2026-10-09T13:53:51Z"
+  last_post_link: https://gurupanguji.com/blog/2026/10/09/theres-something-about-claude/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7adda6dbc1498049c57dd09084616114
+  last_post_guid: 1cbf4b82b9475b4db0be67b55d87dc16
   score_criteria:
     cats: 0
     description: 3

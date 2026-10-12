@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: cb7fe4107a2fc494fe54bcea08d7d760
   websites:
-    https://www.skyue.com/: true
+    https://www.skyue.com/: false
   blogrolls: []
   in_blogrolls:
   - title: FreshRSS
@@ -45,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

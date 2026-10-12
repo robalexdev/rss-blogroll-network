@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RSS doesn’t have to be boring
-  last_post_description: Ok, it’s pretty boring. But we can do a makeover.
-  last_post_date: "2026-09-08T16:32:50Z"
-  last_post_link: https://www.bitecode.dev/p/rss-doesnt-have-to-be-boring
+  last_post_title: What’s all this noise about Jev?
+  last_post_description: Of course people are already calling for overhype...
+  last_post_date: "2026-09-23T09:51:51Z"
+  last_post_link: https://www.bitecode.dev/p/whats-all-this-noise-about-jev
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b08ba63a1a14ee12a29e7453642d80c6
+  last_post_guid: 882cf5b4305cf33b00988a4971b560e5
   score_criteria:
     cats: 0
     description: 3

@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,22 +34,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Networking
+  - Misc
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: Fix radvd warning invalid MTU 1500 on MikroTik
-  last_post_description: |-
-    After upgrading to the latest stable RouterOS, I suddenly got many of the following log entries:
-
-    Sep  9 06:09:43 fw-router-1-wan.example.lan radvd,warning invalid mtu 1500 on vpn_tunnel_45 from fe80
-  last_post_date: "2026-09-09T07:32:36+02:00"
-  last_post_link: https://blog.x-way.org/Networking/2026/09/09/Fix-radvd-warning-invalid-MTU-1500-on-MikroTik.html?utm_medium=rss
+  last_post_title: A live Sydney webcam
+  last_post_description: "WebcamSydney provides a live stream of the Sydney harbour.\n\n\n\tWebcamSydney
+    1 Live Stream of Harbour 24/7 (~4K)\n\n\n\t(via)\n\nThanks for reading this post
+    via RSS. You're awesome ♥️"
+  last_post_date: "2026-10-10T22:43:41+02:00"
+  last_post_link: https://blog.x-way.org/Misc/2026/10/10/A-live-Sydney-webcam.html?utm_medium=rss
   last_post_categories:
-  - Networking
+  - Misc
   last_post_language: ""
-  last_post_guid: 9ee39ee6ac6da8f72b18b86d2858da95
+  last_post_guid: 5f084c3ecb9f6831046a445993859367
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://www.ferngeweht.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Blogroll by Herr Tommi
+  - title: Blogroll von Herr Tommi
     description: ""
     id: cec19e8a0683efef0beb9c06ecc4ebaf
   recommended: []

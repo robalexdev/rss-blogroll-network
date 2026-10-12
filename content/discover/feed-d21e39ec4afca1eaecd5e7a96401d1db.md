@@ -1,12 +1,13 @@
 ---
 title: tan
-date: "2026-08-31T00:44:53+05:30"
+date: "2026-09-28T17:44:40+05:30"
 description: (musings)
 params:
   feedlink: https://tanx.net/feed.xml
   feedtype: atom
   feedid: d21e39ec4afca1eaecd5e7a96401d1db
   websites:
+    https://tanx.net: false
     https://tanx.net/: true
   blogrolls: []
   in_blogrolls:

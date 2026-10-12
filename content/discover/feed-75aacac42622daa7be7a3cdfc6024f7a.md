@@ -19,15 +19,15 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Letting go of something'
-  last_post_description: "I'm on day two of my new job. It's a return to what I was
-    initially doing at GitHub, which is deep accessibility support for design systems.
-    \nLetting go of something that may have never existed"
-  last_post_date: "2026-09-10T00:14:51Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-letting-go-of-something/
+  last_post_title: '[SC 2.4.4] Tragically, time is linear'
+  last_post_description: "Last week my final official act at GitHub went live, and
+    I wrote about it! \nI didn't share it in last week's newsletter because the news
+    broke after Wednesday, which is when I typically send this"
+  last_post_date: "2026-10-08T01:01:36Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-tragically-time-is-linear/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b3d066b7686d417001ec463249472a99
+  last_post_guid: 98354a01305163c869e830edab76c00f
   score_criteria:
     cats: 0
     description: 3

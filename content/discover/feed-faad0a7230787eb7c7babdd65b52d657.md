@@ -10,47 +10,40 @@ params:
     https://www.homemade-baked.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Fleisch & Fisch
-  - Frühling
+  - Cocktail
+  - Getränke & Liköre
+  - Halloween
   - Herbst
-  - Salate & Beilagen
-  - Sommer
-  - Vorspeisen, Fingerfood & Snacks
-  - Winter
-  - antipasti
-  - herzhaftes
-  - parmaschinken
-  - schneller snack
-  - snack
+  - Rezepte
+  - Süßes
+  - Vegetarisch
+  - alkoholfrei
+  - vegan
   relme: {}
-  last_post_title: Parmaschinken mit Birne – die perfekte Kombination aus süß und
-    herzhaft
-  last_post_description: Dieser Beitrag entstand in Kooperation mit dem Consorzio
-    del Prosciutto di Parma (Werbung) Süß und herzhaft kombiniert – ich finde,…
-  last_post_date: "2026-08-29T05:00:00Z"
-  last_post_link: https://www.homemade-baked.de/parmaschinken-mit-birne/
+  last_post_title: 'Halloween Drink alkoholfrei: Vampirblut aus 2 Zutaten'
+  last_post_description: Für Halloween braucht es neben gruseligen Gerichten natürlich
+    auch schaurige Getränke. Dieser alkoholfreie Halloween Drink besteht aus nur zwei
+    Zutaten,…
+  last_post_date: "2026-10-11T10:13:13Z"
+  last_post_link: https://www.homemade-baked.de/halloween-drink-alkoholfrei-vampirblut/
   last_post_categories:
-  - Fleisch & Fisch
-  - Frühling
+  - Cocktail
+  - Getränke & Liköre
+  - Halloween
   - Herbst
-  - Salate & Beilagen
-  - Sommer
-  - Vorspeisen, Fingerfood & Snacks
-  - Winter
-  - antipasti
-  - herzhaftes
-  - parmaschinken
-  - schneller snack
-  - snack
+  - Rezepte
+  - Süßes
+  - Vegetarisch
+  - alkoholfrei
+  - vegan
   last_post_language: ""
-  last_post_guid: 1827e847c09493b31fe0a9cf312acf53
+  last_post_guid: dcc1ffb1c72af93422dde788c75e5e5d
   score_criteria:
     cats: 0
     description: 3

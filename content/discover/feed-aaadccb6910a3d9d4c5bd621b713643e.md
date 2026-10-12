@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2025-09-15T08:41:01+01:00"
+date: "2026-10-10T22:11:50+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -10,6 +10,15 @@ params:
     https://www.bastionland.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: recommendations.opml
+    description: ""
+    id: d36c404eef8fb5b97098caa786475454
+  - title: Bubbles — 5247 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,7 +26,6 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - "2400"
   - 4e
@@ -274,13 +282,13 @@ params:
   relme:
     https://www.bastionland.com/: true
     https://www.blogger.com/profile/11717684225248546716: true
-  last_post_title: Mythic Feasts
+  last_post_title: Terms of Conduct
   last_post_description: ""
-  last_post_date: "2025-09-15T08:41:01+01:00"
-  last_post_link: https://www.bastionland.com/2025/09/mythic-feasts.html
+  last_post_date: "2026-10-07T08:03:00+01:00"
+  last_post_link: https://www.bastionland.com/2026/10/terms-of-conduct.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 819b7444cb5f6e8ec0a7412f9be072c1
+  last_post_guid: 54d8cd7ead030d1d41a08a01ac183168
   score_criteria:
     cats: 5
     description: 3
@@ -299,5 +307,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 280
+  avgpostlen: 296
 ---

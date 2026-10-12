@@ -10,37 +10,34 @@ params:
     https://www.zungenzirkus.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - Backen
-  - Gebäck
-  - Kleingebäck
-  - Kokos
+  - Herbst
+  - Kastenkuchen
   - Kuchen
-  - Lamingtons
-  - Schokolade
+  - Kürbiskuchen
+  - Saisonal
   relme: {}
-  last_post_title: Lamingtons – gefüllt mit Konfitüre
-  last_post_description: Ursprünglich stammen Lamingtons aus Australien und bestehen
-    klassischerweise aus würfelförmig geschnittenem Kuchen, der in eine dünne Schokoladenglasur
-    getaucht und anschließend rundherum in
-  last_post_date: "2026-09-06T05:00:00Z"
-  last_post_link: https://www.zungenzirkus.de/lamingtons-gefuellt-mit-konfituere/
+  last_post_title: Kürbiskastenkuchen – Spice latte
+  last_post_description: Kürbiskastenkuchen gehört definitiv zu den leckersten Möglichkeiten,
+    einen Kürbis zu verarbeiten! Das selbst gemachte Kürbispüree sorgt für eine wunderbar
+    saftige Konsistenz, während Zimt und
+  last_post_date: "2026-10-11T05:40:00Z"
+  last_post_link: https://www.zungenzirkus.de/kuerbiskastenkuchen-spice-latte/
   last_post_categories:
   - Backen
-  - Gebäck
-  - Kleingebäck
-  - Kokos
+  - Herbst
+  - Kastenkuchen
   - Kuchen
-  - Lamingtons
-  - Schokolade
+  - Kürbiskuchen
+  - Saisonal
   last_post_language: ""
-  last_post_guid: 46caebe77e43bd1695ebc676070ff4af
+  last_post_guid: 4d3fccb93d97179a7266940cb6fece20
   score_criteria:
     cats: 0
     description: 3

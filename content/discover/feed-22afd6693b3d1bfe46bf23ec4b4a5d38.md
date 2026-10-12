@@ -1,6 +1,6 @@
 ---
 title: Robin Rendle
-date: "2026-09-08T00:12:56Z"
+date: "2026-09-13T16:00:46Z"
 description: Newsletter feed
 params:
   feedlink: https://robinrendle.com/newsletterfeed.xml

@@ -22,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Software for one
-  last_post_description: Robin Sloan wished for a HyperCard that could build a family
-    app in a day. That world showed up.
-  last_post_date: "2026-08-28T05:33:07Z"
-  last_post_link: https://www.ajwaxman.com/writing/software-for-one
+  last_post_title: Put your meetings to work
+  last_post_description: Meetings aren’t the problem. The challenge is everything
+    that comes after them. Download Granola for free and use it in your next meeting.
+  last_post_date: "2026-10-12T03:05:00Z"
+  last_post_link: https://bit.ly/side-gra7
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0c004bb25b83b1f11bd9000f3ce90f6
+  last_post_guid: f9ba60b622e6dd18599348ff20860a2a
   score_criteria:
     cats: 0
     description: 3

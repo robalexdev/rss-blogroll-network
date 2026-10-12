@@ -1,6 +1,6 @@
 ---
 title: Frische Brise
-date: "2026-09-10T18:49:20+02:00"
+date: "2026-10-12T00:40:23+02:00"
 description: ""
 params:
   feedlink: https://frische-brise.blogspot.com/feeds/posts/default
@@ -8,13 +8,14 @@ params:
   feedid: 446afccb4db31d609af7a5949c9e0ca1
   websites:
     https://frische-brise.blogspot.com/: true
+    https://www.amberlight-label.de/blogwochen-2026-themen-und-termine/: false
     https://www.amberlight-label.de/podcasts/blogcast-amberlight-label-diy-nachhaltigkeit-rezensionen/: false
   blogrolls: []
   in_blogrolls:
   - title: Starterpack
     description: ""
     id: ba3288f3c74b37cf67d268fc37ea9e8f
-  - title: Blogroll by amberlight_label
+  - title: Blogroll von amberlight_label
     description: ""
     id: b4199b4f7fa1a92ad1302108ed43ab3d
   recommended: []
@@ -177,16 +178,19 @@ params:
     https://gruenebrise.blogspot.com/: true
     https://quadratzahl.blogspot.com/: true
     https://www.blogger.com/profile/03521545301767760043: true
-  last_post_title: Die Sommerferien gingen weiter in...
+  last_post_title: Der September...
   last_post_description: ""
-  last_post_date: "2026-09-06T18:34:35+02:00"
-  last_post_link: https://frische-brise.blogspot.com/2026/09/die-sommerferien-gingen-weiter-in.html
+  last_post_date: "2026-10-01T17:32:26+02:00"
+  last_post_link: https://frische-brise.blogspot.com/2026/09/der-september.html
   last_post_categories:
-  - Urlaub im Norden
-  - Urlaub in Angeln
-  - Urlaub mit Kindern
+  - Arbeitsleben
+  - Berlin
+  - Herbst
+  - Kühlungsborn
+  - Mutzelchen
+  - Wismar
   last_post_language: ""
-  last_post_guid: 0278f9aadeda2a168f8d58cbcbc56686
+  last_post_guid: a298fcd7cd1e55b1c031b3e05299b10a
   score_criteria:
     cats: 5
     description: 0

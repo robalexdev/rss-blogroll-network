@@ -1,6 +1,6 @@
 ---
-title: Andere Blogs und Webseiten by Martha
-date: Tue, 08 Sep 2026 17:08:44 +0000
+title: Andere Blogs und Webseiten von Martha
+date: Sat, 03 Oct 2026 02:02:02 +0000
 description: ""
 params:
   link: https://bunte-kuechenabenteuer.de/blogroll/?opml=
@@ -32,6 +32,13 @@ params:
   - title: benedikt.io
     description: Kopfhörer, Gadgets, Tech ≈ mobile Nerdkultur
     id: 27d21c8ea95f6079579e3135e66ed154
+  - title: Mausloch
+    description: Herzlich willkommen im Mausloch!
+    id: 29f2baebc72fab4d8ba95490e4eb9e44
+  - title: Internetrecht
+    description: Aktuelle Urteile und News zu den rechtlichen Fragen des Internet.
+      BeitrÃ¤ge von RechtsanwÃ¤lten, Checklisten und Tools.
+    id: 33e5f8b46ea32bade667368c783d868c
   - title: Das wilde Gartenblog – vom faulen Gärtnern und der Liebe zu allem, was
       wächst
     description: 'Naturnah gärtnern im Schrebergarten / Kleingarten: bloß nicht einschüchtern
@@ -80,6 +87,12 @@ params:
   - title: Hamburg kocht!
     description: ""
     id: b0e41438dbec8079980eee5e9d11fc0a
+  - title: ActivityPub for WordPress
+    description: News about the ActivityPub plugin for WordPress.
+    id: b324b7fcb2c7ae88124032794b419814
+  - title: Chili und Ciabatta
+    description: ""
+    id: b4ba36b622ec94a69c7f652adef15755
   - title: Vive la réduction!
     description: Sauce ou barbarie!
     id: b59c4c64ae2023a3810cf01d801b0c71
@@ -98,6 +111,9 @@ params:
   - title: phelmas.
     description: lesen, reisen, fotografieren
     id: f4ff1361c5b550cc21470d06a6b07607
+  - title: Rivva Blog
+    description: Rivva Blog
+    id: f6373f2b1417fc46d64630abdc189892
   - title: DerBrumme
     description: Freizeitgärtner. Heimwerker. Blogger. Clown. Reihenfolge variabel.
     id: f654f29371b1def5ce3537a4a41aa453

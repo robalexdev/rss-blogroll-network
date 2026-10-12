@@ -1,6 +1,6 @@
 ---
 title: Ploum.net
-date: "2026-09-10T07:49:53Z"
+date: "2026-10-08T13:10:45Z"
 description: le blog de Lionel Dricot
 params:
   feedlink: https://ploum.net/atom_en.xml
@@ -27,19 +27,23 @@ params:
   - title: nathanUpchurchBlogroll.opml
     description: ""
     id: 48ae6ab9ce91c04f77f8c740eaa6a958
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
   recommender:
   - https://alexsci.com/blog/rss.xml
+  - https://stephanmax.com/feed.xml
   categories: []
   relme:
     https://ploum.net/: true
-  last_post_title: I Don’t Want to Interact With Stochastic Parrots
+  last_post_title: The AI Pascal’s Wager
   last_post_description: ""
-  last_post_date: "2026-09-09T00:00:00Z"
-  last_post_link: https://ploum.net/2026-09-09-ai_policy.html
+  last_post_date: "2026-10-01T00:00:00Z"
+  last_post_link: https://ploum.net/2026-10-01-pascal_wager.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63e892774c4561596a619152bdb7be38
+  last_post_guid: b9aee34c0ad83280c2d31b5e33851619
   score_criteria:
     cats: 0
     description: 3

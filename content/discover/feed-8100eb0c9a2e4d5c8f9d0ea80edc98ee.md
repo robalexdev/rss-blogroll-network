@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -39,7 +39,7 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Blogrolle by Matthias Pfefferle
+  - title: Blogrolle von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: Engineering Blogs
@@ -61,56 +61,34 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   categories:
-  - AI
-  - Appearances
-  - Best practices
-  - Design
-  - Designers
-  - Formats
-  - Standards
-  - UX
-  - Web Standards
-  - architecture
-  - ethics
-  - video
-  - webstandards
+  - glamorous
+  - music
   relme:
     https://zeldman.com/: true
-  last_post_title: AI, Disruption, and Standards
-  last_post_description: Individually, we have very little power, but together we
-    have a great deal of power. In response to a series of Medium articles by Patrick
-    Neeman—like this one that addressed issues of AI
-  last_post_date: "2026-09-10T16:12:17Z"
-  last_post_link: https://zeldman.com/2026/09/10/ai-disruption-and-standards/
+  last_post_title: Another Saturday, Another Song.
+  last_post_description: "\U0001F3A7 “Side Two” LP in progress. At 14 songs, it is
+    nearly complete. I expect to release it before the year’s end.\nThe post Another
+    Saturday, Another Song. appeared first on Jeffrey Zeldman"
+  last_post_date: "2026-10-03T17:17:45Z"
+  last_post_link: https://zeldman.com/2026/10/03/another-saturday-another-song/
   last_post_categories:
-  - AI
-  - Appearances
-  - Best practices
-  - Design
-  - Designers
-  - Formats
-  - Standards
-  - UX
-  - Web Standards
-  - architecture
-  - ethics
-  - video
-  - webstandards
+  - glamorous
+  - music
   last_post_language: ""
-  last_post_guid: cd39a0681fed819abdeb367d899dbfa3
+  last_post_guid: 71d33fdb1ad21945508b5817a0ead4df
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

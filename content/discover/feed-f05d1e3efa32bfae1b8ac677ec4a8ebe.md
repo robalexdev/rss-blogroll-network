@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Understanding Simpson's Paradox
-  last_post_description: How Simpson's Paradox can make aggregate metrics tell the
-    opposite story from what's actually happening at the segment level - and how to
-    catch it before it misleads your decisions.
-  last_post_date: "2026-04-13T00:00:00Z"
-  last_post_link: https://timdietrich.me/blog/simpsons-paradox/
+  last_post_title: 'One Report for Every Subsidiary: State of the Subsidiary in NetSuite'
+  last_post_description: State of the Subsidiary produces one comparative report across
+    every operating entity in a OneWorld account, with every figure re-measured centrally.
+    On my test account, one researcher subagent
+  last_post_date: "2026-10-11T00:00:00Z"
+  last_post_link: https://timdietrich.me/blog/netsuite-sonar-ai-state-of-the-subsidiary/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7df972aefec9c38a3b5e8bb5d8790c39
+  last_post_guid: 316bdbb4eeaa557b5028b960800864a0
   score_criteria:
     cats: 0
     description: 3

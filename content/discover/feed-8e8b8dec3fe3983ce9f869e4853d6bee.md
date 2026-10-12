@@ -1,6 +1,6 @@
 ---
 title: smallyu的博客
-date: "2026-08-09T15:14:12Z"
+date: "2026-10-11T15:24:26Z"
 description: smallyu的博客
 params:
   feedlink: https://smallyu.net/atom.xml
@@ -22,19 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 工作
+  - AI 文章库
   relme: {}
-  last_post_title: 预测市场生态的项目为什么难做
-  last_post_description: |-
-    前情提要：
-
-    《
-  last_post_date: "2026-08-09T15:14:12Z"
-  last_post_link: https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/
+  last_post_title: 在北京的乡巴佬
+  last_post_description: 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改
+  last_post_date: "2026-10-11T15:24:26Z"
+  last_post_link: https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/
   last_post_categories:
-  - 工作
+  - AI 文章库
   last_post_language: ""
-  last_post_guid: 1be15c2549ebf133bbaa78d22d9314b1
+  last_post_guid: 0812f4ffeedf2a8b0211b2e93ab8781c
   score_criteria:
     cats: 0
     description: 3

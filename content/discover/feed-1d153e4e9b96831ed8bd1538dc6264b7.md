@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Blogroll by Der Entspannende (Frank Hamm)
+  - title: Blogroll von Der Entspannende (Frank Hamm)
     description: ""
     id: c91535664a07aa74af6d9e58848928c2
   recommended: []

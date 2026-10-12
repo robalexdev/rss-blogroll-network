@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,15 +27,16 @@ params:
   categories: []
   relme:
     https://gaganpreet.in/: true
-  last_post_title: Pipe to Bash
-  last_post_description: |-
-    Go visit the website any of your favourite AI agent or tool. Navigate to installation instructions.
-    It’s very likely going to be a form of: curl URL | bash or npm i -g. Claude Code, OpenCode, Codex
-  last_post_date: "2026-03-22T22:48:18+01:00"
-  last_post_link: https://gaganpreet.in/posts/pipe-to-bash/
+    https://mastodon.online/@gagan: true
+  last_post_title: Tracing a mysterious GitHub webhook
+  last_post_description: A little while ago, as I was wrapping up my day, I discovered
+    an active webhook configured in the digiusher code repository. Events including
+    PRs, issues, and commits were being sent to this webhook.
+  last_post_date: "2026-09-20T14:13:20+02:00"
+  last_post_link: https://gaganpreet.in/posts/tracing-mysterious-github-webhook/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 49aee9c06ad2293ba8cadb8bab314ed6
+  last_post_guid: 8f4204a2f722553a7cb449ed86d76b98
   score_criteria:
     cats: 0
     description: 3

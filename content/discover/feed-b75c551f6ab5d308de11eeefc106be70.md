@@ -22,14 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Midterm Madness
-  last_post_description: Your questions answered on elections, tech oligarchs, dirty
-    journalists, and more.
-  last_post_date: "2026-08-29T13:53:09Z"
-  last_post_link: https://sarahkendzior.substack.com/p/midterm-madness
+  last_post_title: Bright Lights, Big Dystopia
+  last_post_description: In the 21st century, every novel is a horror novel.
+  last_post_date: "2026-10-06T17:02:18Z"
+  last_post_link: https://sarahkendzior.substack.com/p/bright-lights-big-dystopia
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 270c165b3ab8f55b7c393daf717149c0
+  last_post_guid: 242cb0569aa80664e4fc7d49dbe7fbf8
   score_criteria:
     cats: 0
     description: 3

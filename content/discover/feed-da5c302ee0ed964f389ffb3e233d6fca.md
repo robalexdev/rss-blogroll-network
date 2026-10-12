@@ -16,7 +16,6 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
   last_post_title: We Played "We Are But Worms"

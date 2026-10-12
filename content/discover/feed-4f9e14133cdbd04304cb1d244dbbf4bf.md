@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Tesla Cybercab
-  last_post_description: 特斯拉推出无人出租车Cybercab，主要特点是没有方向盘。汽车
-  last_post_date: "2026-03-04T18:07:16+08:00"
-  last_post_link: https://technews.tw/2026/02/18/cybercab/
+  last_post_title: iPhone Duo
+  last_post_description: Apple 终于发布折叠屏手机，展开后配备 7.6 英寸视网膜显示屏，折叠状态下外屏为 5.6 英寸；屏下摄像头，后摄双摄像头。起售价：15999
+    人民币。手机
+  last_post_date: "2026-09-10T16:49:04+08:00"
+  last_post_link: https://www.apple.com.cn/iphone-duo/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2615aab78de816391872bbba56b21854
+  last_post_guid: 1da4fbc61c49247831fbbc0a957940aa
   score_criteria:
     cats: 0
     description: 3

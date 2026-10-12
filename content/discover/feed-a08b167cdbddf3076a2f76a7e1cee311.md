@@ -15,14 +15,14 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 游戏快讯
+  - 硬件快讯
   relme: {}
-  last_post_title: 《二氧化物》宣传视频：融合魂系元素的硬核战术射击游戏，将登陆PC平台
-  last_post_description: 《二氧化物（Dioxide）》是一款融合魂系元素的硬核战术射击游戏，将登陆PC平台，具体发售日期待定，支持简体中文界面和字幕。在今年科隆游戏展（Ga
-  last_post_date: "2026-08-28T18:34:00Z"
-  last_post_link: http://www.expreview.com/107862.html
+  last_post_title: 英伟达或改变RTX 50系列显卡产品线布置：以RTX 5080 24GB取代RTX 5090
+  last_post_description: 过去几个月里，显卡成本价格持续上涨，同时英伟达开始大幅减少GeForce RTX
+  last_post_date: "2026-10-11T23:02:00Z"
+  last_post_link: http://www.expreview.com/108600.html
   last_post_categories:
-  - 游戏快讯
+  - 硬件快讯
   last_post_language: ""
   last_post_guid: 8570c3e04efa0177949be6f856f3a213
   score_criteria:

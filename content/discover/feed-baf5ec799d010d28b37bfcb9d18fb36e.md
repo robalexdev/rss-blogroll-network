@@ -24,37 +24,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Contributing Anniversaries
-  - WordPress
-  - WordPress Anniversaries
+  - Personal Life
   relme:
     https://jonathandesrosiers.com/: true
     https://mastodon.social/@Desrosj: true
-  last_post_title: 13 Years Contributing to WordPress
-  last_post_description: |-
-    Join me as I reflect on reaching a new milestone in my journey as an Open Source maintainer: 13 years since first contributing to the WordPress project.
-    The post 13 Years Contributing to WordPress
-  last_post_date: "2026-07-09T03:39:36Z"
-  last_post_link: https://jonathandesrosiers.com/2026/07/13-years-contributing-to-wordpress/
+  last_post_title: RIP Charlie (2016-2026)
+  last_post_description: There’s something grounding about owning a pet. Pets serve
+    as a constant reminder for you to live in the moment. I find this to especially
+    be true with dogs. Whether they’re enjoying a treat,
+  last_post_date: "2026-09-30T00:10:20Z"
+  last_post_link: https://jonathandesrosiers.com/2026/09/rip-charlie-2016-2026/
   last_post_categories:
-  - Contributing Anniversaries
-  - WordPress
-  - WordPress Anniversaries
+  - Personal Life
   last_post_language: ""
-  last_post_guid: 59e33982a23c8c15ddac40d32962cffb
+  last_post_guid: 5b3898299df7f51e85e4b890dc95bb16
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

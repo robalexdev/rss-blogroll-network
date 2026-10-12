@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Labs are struggling to keep frontier models under control
-  last_post_description: OpenAI and Anthropic may have accidentally trained models
-    to get better at hacking.
-  last_post_date: "2026-08-13T16:28:51Z"
-  last_post_link: https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier
+  last_post_title: Understanding Jev, the new model everyone is talking about
+  last_post_description: OpenAI, CloudFlare, and Amazon have all copied this tiny
+    startup.
+  last_post_date: "2026-10-08T13:14:53Z"
+  last_post_link: https://www.understandingai.org/p/understanding-jev-the-new-model-everyone
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 10bd2e50b50dc807b445e3a50a277c7f
+  last_post_guid: 1066815e3f41e4bcf8e80cdbeaa9a9a0
   score_criteria:
     cats: 0
     description: 3

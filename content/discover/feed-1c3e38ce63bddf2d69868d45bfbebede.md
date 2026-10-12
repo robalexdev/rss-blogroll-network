@@ -17,23 +17,23 @@ params:
   recommender: []
   categories:
   - "2026"
-  - Gadgets
-  - X3
-  - Xteink
+  - Development
+  - php
+  - php2Bluesky
   relme: {}
-  last_post_title: What can you do with the NFC in the Xteink X3?
-  last_post_description: A while back I wrote a review of the Xteink X3 in which I
-    said “Has NFC for, well, we’ll discuss that later”. Brian left a comment recently
-    to ask “Will you still discuss the NFC later?” By
-  last_post_date: "2026-09-09T09:18:00Z"
-  last_post_link: https://www.spokenlikeageek.com/2026/09/09/what-can-you-do-with-the-nfc-in-the-xteink-x3/
+  last_post_title: Increasing the video and image limits in php2Bluesky
+  last_post_description: A user of my PHP2Bluesky package, Muzikals, raised an issue
+    to say that Bluesky had increased the limits for both videos and images. Now you
+    can upload larger-sized videos of up to 300MB and ten
+  last_post_date: "2026-09-16T09:59:00Z"
+  last_post_link: https://www.spokenlikeageek.com/2026/09/16/increasing-the-video-and-image-limits-in-php2bluesky/
   last_post_categories:
   - "2026"
-  - Gadgets
-  - X3
-  - Xteink
+  - Development
+  - php
+  - php2Bluesky
   last_post_language: ""
-  last_post_guid: b4b16f037a03d27bc980eeeaf099308a
+  last_post_guid: e275d3b19cac4b46b132c0c5e6639eeb
   score_criteria:
     cats: 0
     description: 3

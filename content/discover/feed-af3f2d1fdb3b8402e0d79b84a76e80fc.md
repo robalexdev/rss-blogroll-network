@@ -1,6 +1,6 @@
 ---
 title: BAIYUN'S BLOG
-date: "2026-08-28T20:45:24Z"
+date: "2026-10-11T20:10:53Z"
 description: Share Tech, Life, and Anything!
 params:
   feedlink: https://baiyun.me/feed
@@ -24,7 +24,7 @@ params:
   relme: {}
   last_post_title: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
   last_post_description: 电信 IPTV 内网融合教程：在局域网任意设备观看 IPTV
-  last_post_date: "2026-07-19T10:04:37Z"
+  last_post_date: "2026-10-11T07:59:06Z"
   last_post_link: https://baiyun.me/zhejiang-hangzhou-telecom-iptv
   last_post_categories: []
   last_post_language: ""

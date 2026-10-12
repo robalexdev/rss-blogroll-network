@@ -1,6 +1,6 @@
 ---
 title: flow2
-date: "2026-03-31T22:00:30Z"
+date: "2026-10-03T13:28:40Z"
 description: A blog about software engineering, books, and other things
 params:
   feedlink: https://flowtwo.io/synd/rss
@@ -9,6 +9,9 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
@@ -22,15 +25,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fundamentals of Software Architecture
-  last_post_description: A handshake should be firm, but not overpowering. Look the
-    person in the eye; looking away while shaking someone’s hand is a sign of disrespect,
-    and most people will notice that. Also,
-  last_post_date: "2026-03-21T19:02:50Z"
-  last_post_link: https://flowtwo.io/post/fundamentals-of-software-architecture
+  last_post_title: Don Quixote
+  last_post_description: Briefly then, to summarize everything in a few words, or
+    in only one, I say that I am Don Quixote of La Mancha, also known as the Knight
+    of the Sorrowful Face, and although praising on
+  last_post_date: "2026-09-04T21:21:56Z"
+  last_post_link: https://flowtwo.io/post/don-quixote
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2690d016d9885ddf365eb228239752bf
+  last_post_guid: 6c9ecf83d9bdc73a7370b4c2a3254957
   score_criteria:
     cats: 0
     description: 3
@@ -48,6 +51,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: en
-  postcount: 46
+  postcount: 51
   avgpostlen: 0
 ---

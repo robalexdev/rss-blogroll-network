@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: NASA-TLX in CHI
-  last_post_description: "NASA-TLX use at CHI from 2006 to 2024. Blue is the share
-    of all CHI papers  including NASA-TLX, rising from about 3% to nearly 10%; red
-    is the raw paper count, rising from 5 papers to 99.\n      \n "
-  last_post_date: "2026-08-16T00:00:00Z"
-  last_post_link: https://kaikunze.de/post/2026-08-16-nasa-tlx-in-chi/
+  last_post_title: Imprint / Impressum
+  last_post_description: |-
+    Auf dem Smartphone: bitte quer halten oder die Box seitlich scrollen. / On a phone: please switch to landscape or scroll the box sideways.+--------------------------------------------------------+
+    |
+  last_post_date: "2026-10-02T12:00:00+02:00"
+  last_post_link: https://kaikunze.de/imprint/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 75ace7e6fdd711ad428ca93f3e856444
+  last_post_guid: e082f32decc2a8d9de5a2bbd56ac2cb2
   score_criteria:
     cats: 0
     description: 3

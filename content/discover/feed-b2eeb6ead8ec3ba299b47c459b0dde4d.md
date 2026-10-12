@@ -1,7 +1,7 @@
 ---
 title: Holgers Fotos
 date: "1970-01-01T00:00:00Z"
-description: No-nonsense photography
+description: Around the corner and beyond.
 params:
   feedlink: https://ho1ger.de/feed.xml
   feedtype: rss
@@ -10,7 +10,7 @@ params:
     https://ho1ger.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Blogroll by Herr Tommi
+  - title: Blogroll von Herr Tommi
     description: ""
     id: cec19e8a0683efef0beb9c06ecc4ebaf
   recommended: []
@@ -22,15 +22,15 @@ params:
     https://ho1ger.codeberg.page/: true
     https://ho1ger.de/: true
     https://social.ho1ger.de/@me: true
-  last_post_title: One does not simply walk durch den Isardschungel
-  last_post_description: 'Die Planung war eigentlich ganz einfach: 1) Mit den Öffis
-    zum Kloster Schäftlarn fahren. 2) Am Isarkanal Richtung Süden spazieren. 3) Durch
-    die Isarauen zurück zum Kloster…'
-  last_post_date: "2026-09-09T00:00:00Z"
-  last_post_link: https://ho1ger.de/posts/2026-09-09
+  last_post_title: Hallo, Pergear 35 mm f/1.4
+  last_post_description: |-
+    „Wahnsinn ist, immer wieder das Gleiche zu tun und andere Ergebnisse zu erwarten.“
+    Je nach Quelle soll diesen Satz mal Einstein, mal Freud geäußert haben. Egal, wer es war: Ich kann berichten,
+  last_post_date: "2026-09-21T00:00:00+02:00"
+  last_post_link: https://ho1ger.de/posts/2026-09-21
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1485c8602d487304a0e74d820373fc80
+  last_post_guid: 115a994d0397666a863bf08eed6c275c
   score_criteria:
     cats: 0
     description: 3

@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -36,13 +36,14 @@ params:
   relme:
     https://hawksley.dev/: true
     https://mastodon.social/@ethanhawksley: true
-  last_post_title: How to get a free .arpa domain
-  last_post_description: It only takes a few minutes to set up.
-  last_post_date: "2026-08-31T00:00:00Z"
-  last_post_link: https://hawksley.dev/blog/get-free-arpa-domain
+  last_post_title: I don't like passkeys
+  last_post_description: The underlying technology is good, but the implementation
+    isn't there yet
+  last_post_date: "2026-09-18T00:00:00Z"
+  last_post_link: https://hawksley.dev/blog/i-dont-like-passkeys
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 74f89ba838f3f4dce09928a3a29887b6
+  last_post_guid: 1ba87262d481bbc7a9d22071074d802c
   score_criteria:
     cats: 0
     description: 3

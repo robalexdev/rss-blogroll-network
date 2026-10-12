@@ -27,14 +27,16 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: git fetch 实现断点续传
-  last_post_description: git fetch origin main --depth=1 一次只下一个
-  last_post_date: "2026-08-16T14:06:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-33
+  last_post_title: 浏览器点2下就能让小爱音箱播放http音乐！
+  last_post_description: |-
+    还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？
+    https://est.github
+  last_post_date: "2026-10-11T16:14:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-39
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: 2b62a177aef0137681c9973aa1a911f1
+  last_post_guid: 69312253964272a6ce2e5178093b2214
   score_criteria:
     cats: 0
     description: 3

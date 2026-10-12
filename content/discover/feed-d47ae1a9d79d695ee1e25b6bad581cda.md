@@ -18,36 +18,30 @@ params:
   recommender: []
   categories:
   - blog
-  - reflection
-  - writing
+  - reading
   relme: {}
-  last_post_title: 吹箫人
-  last_post_description: !!binary |
-    5p2R5Lic5aS05L2P552A5LiA5Liq5ZC5566r5Lq644CCCuWktOS4gOW5tO+8jOS7luWPqu
-    WcqOiHquW3seWxi+mHjOWQue+8jOeql+WtkOWFs+W+l+S4peS4peWunuWunu+8jOS4gOS4
-    neWjsOmfs+S5n+a8j+S4jeWHuuWOu+OAguWQueWIsOWFtOWkhO+8jOaRh+WktOaZg+iEke
-    +8jOmUmeS6humfs+S5n+S4jeaBvO+8jOS4gOabsuWQuee9ou+8jOWAkuU=
-  last_post_date: "2026-07-31T00:00:00+08:00"
-  last_post_link: https://blog.zopiya.com/chui-xiao-ren-91eca469/
+  last_post_title: 微信读书 1000 小时
+  last_post_description: 前段时间微信读书时长达到了 1000 小时，顺带借助微信读书官方的 skill 让 GPT
+  last_post_date: "2026-08-29T00:00:00+08:00"
+  last_post_link: https://blog.zopiya.com/reading-1000-hours-8e5c21d4/
   last_post_categories:
   - blog
-  - reflection
-  - writing
+  - reading
   last_post_language: ""
-  last_post_guid: 8a06449e88b1a31a51b3564450d0ce2e
+  last_post_guid: f78c5d09915012d13040cc4ab5105a0b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

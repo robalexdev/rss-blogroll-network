@@ -1,6 +1,6 @@
 ---
 title: Paul Robert Lloyd
-date: "2026-09-10T21:27:55Z"
+date: "2026-10-11T11:54:52Z"
 description: The personal website of Paul Robert Lloyd
 params:
   feedlink: https://paulrobertlloyd.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -36,6 +36,7 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme:
+    https://github.com/paulrobertlloyd: true
     https://paulrobertlloyd.com/: true
   last_post_title: Nostalgia is a terrible drug
   last_post_description: ""

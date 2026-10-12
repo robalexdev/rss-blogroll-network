@@ -13,7 +13,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -32,18 +32,18 @@ params:
   recommender:
   - https://roytang.net/index.xml
   categories:
-  - Rands
+  - Writing
   relme: {}
-  last_post_title: How Grumbles Helps
-  last_post_description: Having been robot-wrangling for a solid year now, I continue
-    to feel like they give me superpowers. However, like all of us, I have a front-row
-    seat to increasingly attractive garbage the robots are
-  last_post_date: "2026-08-19T15:26:15Z"
-  last_post_link: https://randsinrepose.com/archives/how-grumbles-helps/
+  last_post_title: Four Writing Humans. No, Wait, Five.
+  last_post_description: 'There is one. Wait, two. No, three. Ok, four humans who
+    directly inspired my writing. (Ok, five.) The list is not in order of importance,
+    but by time: Robert Fulghum, All I Really Need to Know I'
+  last_post_date: "2026-10-05T15:53:12Z"
+  last_post_link: https://randsinrepose.com/archives/four-writing-humans-no-wait-five/
   last_post_categories:
-  - Rands
+  - Writing
   last_post_language: ""
-  last_post_guid: 99fec2ae294a4e0a34685d5148097783
+  last_post_guid: 5f3333916974b7a4cfef59339a881db9
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
-title: Suzu-chan
+title: Suzu-chan.de
 date: "1970-01-01T00:00:00Z"
-description: Suzus Portfolio und Blog
+description: ""
 params:
   feedlink: https://suzu-chan.de/feed/
   feedtype: rss
@@ -13,31 +13,36 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories:
-  - Alltägliches
-  - Beruf
-  - Familie
+  - Kreatives
+  - Leckeres
+  - Pünktchenzähler
+  - Rezept
+  - Salat
+  - WW
   relme: {}
-  last_post_title: Zu viel los die letzten Monate – Modulare Qualifizierung und mehr
-  last_post_description: 'Du hast es vielleicht gemerkt: Hier war es in den letzten
-    Monaten ziemlich ruhig. Der Grund dafÃ¼r ist ganz einfach: Bei mir war einfach
-    unglaublich viel los. Heute mÃ¶chte ich endlich mal wieder'
-  last_post_date: "2026-07-20T18:29:03Z"
-  last_post_link: https://suzu-chan.de/2026/07/20/zu-viel-los-die-letzten-monate-modulare-qualifizierung-und-mehr/
+  last_post_title: Knusper-Kichererbsen-Pfanne auf Lollo Rosso
+  last_post_description: 'Heute gibt es eine kleine Premiere, denn ich habe ein Rezept
+    für dich auf meinem Blog: Die Knusper-Kichererbsen-Pfanne auf Lollo Rosso!'
+  last_post_date: "2026-10-03T08:14:42Z"
+  last_post_link: https://suzu-chan.de/2026/10/03/knusper-kichererbsen-pfanne-auf-lollo-rosso/
   last_post_categories:
-  - Alltägliches
-  - Beruf
-  - Familie
+  - Kreatives
+  - Leckeres
+  - Pünktchenzähler
+  - Rezept
+  - Salat
+  - WW
   last_post_language: ""
-  last_post_guid: e1fbf567e59217ec4ea9d33fcb0a7c72
+  last_post_guid: 12afb52059bdd6f7e8de032811d3a791
   score_criteria:
     cats: 0
-    description: 3
+    description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
@@ -47,7 +52,7 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

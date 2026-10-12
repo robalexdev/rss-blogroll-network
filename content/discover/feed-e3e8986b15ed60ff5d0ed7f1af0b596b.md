@@ -1,6 +1,6 @@
 ---
 title: ich hab da mal was ausprobiert
-date: "2026-09-11T12:33:26+02:00"
+date: "2026-10-11T17:40:12+02:00"
 description: ""
 params:
   feedlink: https://katharinahatwasausprobiert.blogspot.com/feeds/posts/default
@@ -10,12 +10,11 @@ params:
     https://katharinahatwasausprobiert.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - Airfryer
   - Alltagsmenschen
@@ -229,20 +228,17 @@ params:
   relme:
     https://katharinahatwasausprobiert.blogspot.com/: true
     https://www.blogger.com/profile/14789305153297719233: true
-  last_post_title: spicy oven fried Turkey mit pikantem Kartoffelpüree
+  last_post_title: gebackene Süsskartoffel mit Speck, Zwiebel und Kräuterschmand
   last_post_description: ""
-  last_post_date: "2026-09-11T09:48:00+02:00"
-  last_post_link: https://katharinahatwasausprobiert.blogspot.com/2026/10/spicy-oven-fried-turkey-mit-pikantem.html
+  last_post_date: "2026-10-09T10:00:00+02:00"
+  last_post_link: https://katharinahatwasausprobiert.blogspot.com/2026/10/gebackene-susskartoffel-mit-speck.html
   last_post_categories:
-  - Chicken
-  - Fleisch
-  - Herzhaftes
-  - Kartoffeln
+  - Airfryer
+  - Interessantes
   - Rezepte
-  - TexMex
-  - amerikanisches Rezept
+  - Süßkartoffel
   last_post_language: ""
-  last_post_guid: 4b747bd19f2906f329dc00a3b13303fd
+  last_post_guid: 3f2a28cc550907a642fe92a9bc55ddb5
   score_criteria:
     cats: 5
     description: 0

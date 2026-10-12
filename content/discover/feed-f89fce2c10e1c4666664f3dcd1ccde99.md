@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2026-08-24T00:00:00Z"
+date: "2026-09-29T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,14 +29,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Commodore 64: the first computer I ever used'
-  last_post_description: My first brush with computers, playing games and learning
-    commands.
-  last_post_date: "2026-08-24T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/memoir/first-computer.html
+  last_post_title: Hacking SimCity 2000 saved games
+  last_post_description: Here's the story of how I learned about hexadecimal and bytes
+    on disk by way of editing SimCity 2000 save games.
+  last_post_date: "2026-09-29T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/memoir/dos.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 252e67ad8b1243d10dcca95a2129a8ff
+  last_post_guid: 00e6e0afd2fa32c47a3a172ad2b4e610
   score_criteria:
     cats: 0
     description: 0

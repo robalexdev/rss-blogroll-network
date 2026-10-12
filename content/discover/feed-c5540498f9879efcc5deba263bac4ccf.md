@@ -1,47 +1,54 @@
 ---
 title: theresmiling has a website
 date: "1970-01-01T00:00:00Z"
-description: Where I put thoughts to text
+description: Where I put thoughts to text - The blog of https://theresmiling.eu
 params:
   feedlink: https://theresmiling.eu/rss.xml
   feedtype: rss
   feedid: c5540498f9879efcc5deba263bac4ccf
-  websites: {}
+  websites:
+    https://theresmiling.eu/: false
   blogrolls: []
   in_blogrolls:
-  - title: ""
+  - title: Kagi Small Web OPML
     description: ""
-    id: 2b4c94bc1b8b6c8483882e4beaedc16f
+    id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Shellsharks Blogroll
+    description: ""
+    id: 9df4ddeec5c7409e22c95cf0424ff41d
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
   recommender:
-  - https://marisabel.nl/feeds/blog.php
-  - https://marisabel.nl/feeds/combined.php
-  - https://marisabel.nl/feeds/tech-blog.php
-  - https://marisabel.nl/rss.php
+  - https://shellsharks.com/feeds/feed.xml
+  - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Things I want to do during summer
-  last_post_description: The summer holidays are here and I have plans. So yeah, this
-    is a simple to-do list of big and small things. Maybe posting it to my blog will
-    keep me more accountable. We'll see how that goes...
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://theresmiling.neocities.org/blog/2024/07/summer-list.html
+  last_post_title: Weeknotes - W40/2026 (No.6)
+  last_post_description: The one with notes for week 40 of 2026
+  last_post_date: "2026-10-05T17:40:00Z"
+  last_post_link: https://theresmiling.eu/blog/2026/10/weeknotes-2026-40.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 71858bc7d950fbd80d9eaf066aa29460
+  last_post_guid: 9ea3c4ffc3fb0f0e16eb08806b66b079
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
+    hasContent: 0
+    hasPosts: 3
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 11
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
+  postcount: 47
+  avgpostlen: 0
 ---

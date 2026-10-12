@@ -1,6 +1,6 @@
 ---
 title: Doc.Evas Kochlatein
-date: "2026-09-10T13:48:58+02:00"
+date: "2026-10-10T17:43:58+02:00"
 description: 'Doc.Evas Kochlatein: Wissenswertes und Kuriositäten, Neuigkeiten und
   Überliefertes, Nachrichten und Erinnerungen rund ums Kochen und Reisen - Essen beginnt
   im Mund'
@@ -12,12 +12,11 @@ params:
     https://dental-food.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - '#18jahrekochtopf'
   - '#2016bestnine'
@@ -553,6 +552,7 @@ params:
   - Carbonara
   - Caries
   - Carosello
+  - Carota Novella di Ispica
   - Carpaccio
   - Carpaccio vom Spargel
   - Casablanca
@@ -842,6 +842,7 @@ params:
   - Fenchelsuppe mit Einlagen
   - Fermentieren
   - Ferrie
+  - Festa di Sant'Isidoro Agricola
   - Festtag
   - Feta
   - Fetakäse
@@ -2154,6 +2155,7 @@ params:
   - Sizilianische Caponata
   - Sizilien
   - Sizilien 2025
+  - Sizilien 2026
   - Skifahren
   - Skiwasser
   - Skrei
@@ -2653,13 +2655,13 @@ params:
   relme:
     https://dental-food.blogspot.com/: true
     https://www.blogger.com/profile/00624569315811239365: true
-  last_post_title: Mal was ganz anderes
+  last_post_title: Essbare Souvenirs aus Sizilien
   last_post_description: ""
-  last_post_date: "2026-09-09T11:39:24+02:00"
-  last_post_link: https://dental-food.blogspot.com/2026/09/pfifferlings-tatar.html
+  last_post_date: "2026-10-07T21:51:48+02:00"
+  last_post_link: https://dental-food.blogspot.com/2026/10/zitronen-marmelade.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ea4cd3a494d36d311103211c95c70b53
+  last_post_guid: 9d30801e2e1a9e94b4ebb8192616721a
   score_criteria:
     cats: 5
     description: 3

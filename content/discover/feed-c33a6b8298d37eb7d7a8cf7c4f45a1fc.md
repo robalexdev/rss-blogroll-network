@@ -1,18 +1,19 @@
 ---
-title: ""
-date: "2026-08-05T00:00:00Z"
+title: Developer Musings
+date: "2026-10-06T00:00:00Z"
 description: Recent posts
 params:
   feedlink: https://joshghent.com/rss.xml
   feedtype: atom
   feedid: c33a6b8298d37eb7d7a8cf7c4f45a1fc
-  websites: {}
+  websites:
+    https://joshghent.com/: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Is software ever done?
+  last_post_title: Ring is deliberately nefarious when you E2E encrypt your video
   last_post_description: ""
-  last_post_date: "2026-08-05T00:00:00Z"
-  last_post_link: https://joshghent.com/is-software-ever-done/
+  last_post_date: "2026-10-06T00:00:00Z"
+  last_post_link: https://joshghent.com/ring-e2ee/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 022e23788726412063f562ea0626fdb1
+  last_post_guid: a9b16870e24958a0adbb80e546f975a3
   score_criteria:
     cats: 0
     description: 3
@@ -42,9 +43,9 @@ params:
     promoted: 5
     promotes: 0
     relme: 0
-    title: 0
-    website: 0
-  score: 14
+    title: 3
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

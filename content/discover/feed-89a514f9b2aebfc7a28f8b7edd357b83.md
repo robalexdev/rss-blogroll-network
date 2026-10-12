@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,23 +28,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - javascript
-  - music
-  - tools
+  - curated-finds
+  - generative-ai
+  - slop
+  - ui
+  - vibe-coding
   relme: {}
-  last_post_title: Turn Apple Music Playlists into mixtapes with AppleScript, Markdown
-    & JavaScript
-  last_post_description: Convert Apple Music playlists into shareable website using
-    AppleScript, Markdown, and JavaScript—no database, no API, just simple scripts
-    and HTML.
-  last_post_date: "2026-08-24T00:00:00Z"
-  last_post_link: https://theaspiringnerd.com/turn-apple-music-playlists-into-mixtapes-with-applescript-markdown-javascript/
+  last_post_title: 'Quoting Pranav Desai: 10 tells of a slop ui'
+  last_post_description: Learn the 10 telltale signs of AI-generated UI design gone
+    wrong, from gradient overload to misaligned elements that scream generic slop.
+  last_post_date: "2026-10-01T00:00:00Z"
+  last_post_link: https://theaspiringnerd.com/10-tells-of-a-slop-ui/
   last_post_categories:
-  - javascript
-  - music
-  - tools
+  - curated-finds
+  - generative-ai
+  - slop
+  - ui
+  - vibe-coding
   last_post_language: ""
-  last_post_guid: 1e02768296c68811813f862dbc99a27d
+  last_post_guid: d24ab066a256193dfdb0bce5b474ed2a
   score_criteria:
     cats: 0
     description: 3

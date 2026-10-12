@@ -13,10 +13,10 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Anderswo by maik
+  - title: Anderswo von maik
     description: ""
     id: 4381b5d12b4c9ba6cb7a8ae21b686ea6
   recommended: []
@@ -27,32 +27,28 @@ params:
   - Joseph
   - Joseph Giordano
   - Long Island
-  - Monochromia
   - New York
-  - Northport
+  - Northport Village
+  - Outdoor Dining
   - Photography
-  - Street Photography
-  - Street Portrait
   - The Visual Chronicle
   relme: {}
-  last_post_title: Benjamin
-  last_post_description: Image was taken with a Fujifilm X-E5 and XF 16-50mm WR lens
-  last_post_date: "2026-09-06T05:00:02Z"
-  last_post_link: https://thevisualchronicle.com/2026/09/06/benjamin/
+  last_post_title: Dining Alley
+  last_post_description: ""
+  last_post_date: "2026-10-10T10:34:55Z"
+  last_post_link: https://thevisualchronicle.com/2026/10/10/dining-alley/
   last_post_categories:
   - Fujifilm X-E5
   - Joseph
   - Joseph Giordano
   - Long Island
-  - Monochromia
   - New York
-  - Northport
+  - Northport Village
+  - Outdoor Dining
   - Photography
-  - Street Photography
-  - Street Portrait
   - The Visual Chronicle
   last_post_language: ""
-  last_post_guid: 74675712e60af5aa41befc521a754a7b
+  last_post_guid: 2705b0cf565e7c108151f2b1f3bfcd20
   score_criteria:
     cats: 0
     description: 0

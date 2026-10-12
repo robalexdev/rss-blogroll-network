@@ -26,14 +26,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 你好，2026！
-  last_post_description: !!binary |
-    44CK5L2g5aW977yMMjAyNu+8geOAi+acrOadpeaDs+WQg+edgOaxieWgoeWUseedgOatjO
-    +8jOWwsei3s+i/h+S7iuW5tOeahOaAu+e7k++8jOavleern+W3sue7j+i/n+WIsOS6huOA
-    guS9huWSseavj+W5tOmDveW+l+aAu+e7k++8jOS4jeiDveeziuW8hOiHquW3seOAguWFg+
-    aXpuayoeWGmeeahOaWh+eroO+8jOWSseS8oOe7n+WGnOWOhuaWsOW5tOU=
-  last_post_date: "2026-02-19T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html
+  last_post_title: 读 《明朝那些事儿》
+  last_post_description: 《读
+  last_post_date: "2026-10-05T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2026_10_05-mingchaonaxieshier.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

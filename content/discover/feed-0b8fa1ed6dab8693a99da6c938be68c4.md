@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2026-09-11T17:29:54+01:00"
+date: "2026-10-11T23:31:07+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,16 +17,17 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Content auditing at scale
+  last_post_title: Fix the contrast without losing your brand
   last_post_description: |-
-    When faced with a large website, or multiple websites, auditing content can feel daunting. There are steps you can take to make it more manageable.
+    We built a tool that checks every colour pairing in your palette and helps you fix the ones that fail.
 
-          Content auditing is a practice that
-  last_post_date: "2026-09-03T09:32:00+01:00"
-  last_post_link: https://clearleft.com/thinking/content-auditing-at-scale
+          Low contrast text is the web's most common accessibility failure
+            Low contrast
+  last_post_date: "2026-10-07T11:21:00+01:00"
+  last_post_link: https://clearleft.com/thinking/fix-the-contrast-without-losing-your-brand
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f73a37fc07795b9e42bd263c5044fb9e
+  last_post_guid: 850a8d606b9551e0c28c2551dec17af6
   score_criteria:
     cats: 0
     description: 3

@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://github.com/josephscott: true
     https://josephscott.org/: true
   last_post_title: Type Casting and Null Coalescing Precedence in PHP
   last_post_description: 'Take a quick glance at this PHP code: $stuff = (string)

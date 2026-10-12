@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -38,18 +38,15 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Summary of changes for August 2026
-  last_post_description: |-
-    Hey everyone!This is the list of all the changes we've done to our projects during the month of August.
-
-
-      Wiki, updated various sections in solar cooking experiment.
-      Donsol, putting some final
-  last_post_date: "2026-09-01T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#aug2026
+  last_post_title: Summary of changes for September 2026
+  last_post_description: "Hey everyone!This is the list of all the changes we've done
+    to our projects during the month of September.\n\n\n  Wiki, added portland island,
+    and updated alcohol stove.\n  Donsol, released on Itch.io!\n "
+  last_post_date: "2026-09-30T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#sep2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7b4a0bb6ff880683ec8d98d63976447d
+  last_post_guid: 3b43768d54c978c5959f8483c7fc8e7b
   score_criteria:
     cats: 0
     description: 3

@@ -21,19 +21,23 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
-  recommender: []
+  recommender:
+  - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'From Front Panel to Program: Thinking Like a PDP-8'
-  last_post_description: Transistors, logic gates, flip-flops, full adders, memory,
-    and blinking LEDs. The PDP-8 is a great computer to learn about traditional digital
-    electronics and simple computer architecture.
-  last_post_date: "2026-08-20T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/pdp-8-minicomputer
+  last_post_title: 'The History Behind the x86 CPU: From 4004 to 486'
+  last_post_description: Why is x86 little-endian? Why are registers called AX, BX,
+    CX, and DX, and why DOS uses addresses in the format A000:0000? The answers are
+    in the story of how each chip was born.
+  last_post_date: "2026-10-02T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/history-of-x86-4004-to-486
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b07af908a7ffa11184cebdc2845dc2e5
+  last_post_guid: 806d90a697958d59b3c1370135051683
   score_criteria:
     cats: 0
     description: 3

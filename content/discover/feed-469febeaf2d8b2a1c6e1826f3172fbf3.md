@@ -18,14 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Incomplete reports: load missing SEO metrics with credits'
-  last_post_description: In an open report you can refresh missing SEO data outside
-    the system queue — with credits on Pro and Unlimited plans
-  last_post_date: "2026-08-25T12:00:00Z"
-  last_post_link: https://karma.domains/en/updates/#enrich-report
+  last_post_title: Webhooks for expired and auction domains
+  last_post_description: A signed JSON POST when a filter matches, an auction changes,
+    or you update a note, a favorite, or a user task. Pro plan.
+  last_post_date: "2026-10-03T10:00:00Z"
+  last_post_link: https://karma.domains/en/updates/#webhooks
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a03e903e2adf7860c5f041160f52e351
+  last_post_guid: cb7acbc03d2313679f106ab7f06afcae
   score_criteria:
     cats: 0
     description: 3

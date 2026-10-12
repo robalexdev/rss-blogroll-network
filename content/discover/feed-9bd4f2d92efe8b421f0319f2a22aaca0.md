@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Voice of a Century
-  last_post_description: We’re savoring a glorious story we thought we knew in the
-    long ordeal of racial justice in America. It was the singer Marian Anderson’s
-    moment in 1939, after the Daughters of the American
-  last_post_date: "2026-09-10T23:36:03Z"
-  last_post_link: https://radioopensource.org/voice-of-a-century/
+  last_post_title: AI Apocalypse?
+  last_post_description: We’re staring down the life-and-death hazard of artificial
+    intelligence. That phrase “AI apocalypse” sounds a little panicky, but when the
+    masters of the craft started arguing this summer about
+  last_post_date: "2026-10-01T23:52:21Z"
+  last_post_link: https://radioopensource.org/ai-apocalypse/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 7b5830d005fd5c66399b087239335de7
+  last_post_guid: 4b4327343e538eee96962acb840a5e89
   score_criteria:
     cats: 1
     description: 3

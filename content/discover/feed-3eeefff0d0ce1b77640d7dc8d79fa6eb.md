@@ -12,7 +12,7 @@ params:
     https://remysharp.com/speaking/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -28,15 +28,15 @@ params:
     https://remysharp.com/: true
     https://remysharp.com/books: true
     https://remysharp.com/speaking/: true
-  last_post_title: text-decoration-thickness discrepancies
-  last_post_description: |-
-    I'm in the process of (attempting) to redesign this blog, and in doing so, I'm using a few of the new bits (to me) of CSS to make things fancy.
-    In this instance, I'm using text-decoration-thickness
-  last_post_date: "2026-09-10T21:00:00Z"
-  last_post_link: https://remysharp.com/2026/09/10/text-decoration-thickness-discrepancies
+  last_post_title: 'Redesign: fonts, alignment and nav'
+  last_post_description: As I continue occasionally tinker on the redesign I've started
+    (and often think "what's the point, current design is fine"), I wanted to share
+    some of the problems I've run in to. Problems mostly for
+  last_post_date: "2026-09-26T00:00:00Z"
+  last_post_link: https://remysharp.com/2026/09/26/redesign-fonts-alignment-and-nav
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 49dec8c84297e3febab7ec571241d3b5
+  last_post_guid: 845459156f3f155606774b2d6e203673
   score_criteria:
     cats: 0
     description: 3

@@ -10,7 +10,7 @@ params:
     https://www.ableton.com/de/blog/: true
   blogrolls: []
   in_blogrolls:
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   recommended: []
@@ -20,15 +20,15 @@ params:
   - Tutorials
   - Videos
   relme: {}
-  last_post_title: Rhythmische Pads erstellen – Einsteiger-Tutorial
+  last_post_title: Watch MadD3E Carve Chaos into Funk with Move
   last_post_description: ""
-  last_post_date: "2026-09-03T10:04:24Z"
-  last_post_link: https://www.ableton.com/de/blog/step-by-step-guide-for-creating-rhythmic-pads/
+  last_post_date: "2026-10-01T10:12:19Z"
+  last_post_link: https://www.ableton.com/de/blog/watch-madd3e-carve-chaos-into-funk-with-move/
   last_post_categories:
   - Tutorials
   - Videos
   last_post_language: ""
-  last_post_guid: 945bfa5f55c8408d3445fcb989514d9e
+  last_post_guid: 346c1b06499819008bbfb832cd3ebe8d
   score_criteria:
     cats: 0
     description: 3

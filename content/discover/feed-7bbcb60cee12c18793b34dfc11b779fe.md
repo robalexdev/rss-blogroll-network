@@ -10,24 +10,25 @@ params:
     https://www.trail-pfoten.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Blogroll by Der Entspannende (Frank Hamm)
+  - title: Blogroll von Der Entspannende (Frank Hamm)
     description: ""
     id: c91535664a07aa74af6d9e58848928c2
   recommended: []
   recommender: []
   categories:
-  - Outdoor mit Hund
+  - Westerwald
   relme: {}
-  last_post_title: 'Kreuzbandriss beim Whippet: Astas langer Weg zurück auf den Trail'
-  last_post_description: 'Pause auf dem Trail: Wenn das Abenteuer plötzlich stillsteht
-    Es war ein regnerischer Tag, der 22. Februar. Eigentlich ein ganz normaler Spaziergang
-    – wir hatten Spaß, die Luft war frisch, und wir'
-  last_post_date: "2026-05-01T20:31:33Z"
-  last_post_link: https://www.trail-pfoten.de/kreuzbandriss-whippet/
+  last_post_title: 'Bloggerwandern im Westerwald: 3 Tage zwischen Stöffel-Park, Grube
+    Bindweide und Klosterbier'
+  last_post_description: Ich dachte, ich kenne den Westerwald. 2023 war ich vier Tage
+    lang mit meiner Whippet-Hündin Asta auf den Wäller Touren unterwegs – nachzulesen
+    in meinem Artikel über das Wandern mit Hund im
+  last_post_date: "2026-09-29T20:39:30Z"
+  last_post_link: https://www.trail-pfoten.de/bloggerwandern-im-westerwald/
   last_post_categories:
-  - Outdoor mit Hund
+  - Westerwald
   last_post_language: ""
-  last_post_guid: a44d45c6ac35baa90123345ee9efffdd
+  last_post_guid: c6778e8f598ee9092bfea0388100d3fa
   score_criteria:
     cats: 0
     description: 0

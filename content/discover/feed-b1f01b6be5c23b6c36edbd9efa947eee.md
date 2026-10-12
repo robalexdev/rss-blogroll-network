@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -30,15 +30,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: How Vercel Turned Shipping Into Its Brand
-  last_post_description: Developer-tool companies have a weird problem. The products
-    that often earn them the most attention are the ones they give away. A framework,
-    SDK, or open standard can reach millions of people before
-  last_post_date: "2026-09-03T16:27:46+01:00"
-  last_post_link: https://molodtsov.me/2026/09/how-vercel-turned-shipping-into-its-brand/
+  last_post_title: How Obsidian Built a Cult of Note Taking
+  last_post_description: Obsidian is likely the most popular Markdown note-taking
+    app in the world. It’s so unusual and different from the previous companies I
+    covered here that even the CEO doesn’t know how many users
+  last_post_date: "2026-09-17T13:29:28+01:00"
+  last_post_link: https://molodtsov.me/2026/09/how-obsidian-built-a-cult-of-note-taking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b51460a1934fcd5b334dcfc42e44195d
+  last_post_guid: a3647febb23807bb62e64048c0fae47b
   score_criteria:
     cats: 0
     description: 3

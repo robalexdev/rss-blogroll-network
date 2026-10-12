@@ -1,6 +1,6 @@
 ---
 title: Eshel Yaron
-date: "2025-06-09T00:00:00Z"
+date: "2026-09-23T00:00:00Z"
 description: RSS Feed of eshelyaron.com
 params:
   feedlink: https://eshelyaron.com/rss.xml
@@ -10,6 +10,9 @@ params:
     https://eshelyaron.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,26 +20,25 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - emacs,lisp
+  - emacs,lisp,security
   relme:
     https://eshelyaron.com/: true
-  last_post_title: Hover for Help in Emacs Lisp
+  last_post_title: Emacs Arbitrary Code Execution Returns
   last_post_description: |-
-    Borrowing a helpful feature from LSP-land to enhance Emacs Lisp mode
-    Created on [2025-02-11], last updated [2025-02-11]
+    Quick update about an Emacs security issue
+    Created on [2026-08-06], last updated [2026-09-23]
 
 
 
-    Lately I’ve been working on a Binary Decision Diagrams (BDD) library
-    for
-  last_post_date: "2025-02-11T00:00:00Z"
-  last_post_link: https://eshelyaron.com/posts/2025-02-11-hover-for-help-in-emacs-lisp.html
+    It’s been over a year and a half since I last wrote here about an
+    arbitrary code execution
+  last_post_date: "2026-08-06T00:00:00Z"
+  last_post_link: https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html
   last_post_categories:
-  - emacs,lisp
+  - emacs,lisp,security
   last_post_language: ""
-  last_post_guid: 3a11f16cffe199c3544721d5c2078a46
+  last_post_guid: 24d4a80e0ce5ffc043145cf49d04f650
   score_criteria:
     cats: 0
     description: 3
@@ -54,6 +56,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 16
+  postcount: 18
   avgpostlen: 0
 ---

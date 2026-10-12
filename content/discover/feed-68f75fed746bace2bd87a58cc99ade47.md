@@ -1,6 +1,6 @@
 ---
 title: Daniel Kennett
-date: "2026-02-07T18:30:00Z"
+date: "2026-10-03T15:00:00Z"
 description: ""
 params:
   feedlink: https://ikennd.ac/atom.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Development Blogs (English Language) from the iOS Dev Directory (https://iosdevdirectory.com)
@@ -30,15 +30,14 @@ params:
   categories: []
   relme:
     https://ikennd.ac/: true
-  last_post_title: 'Introducing Keyhole: An App I Shipped In A Week'
-  last_post_description: One of the benefits of being a developer is being able to
-    go 'F**k it, I'll just fix it myself!' when your computer is being annoying. In
-    this particular instance, it was my Mac's media keys
-  last_post_date: "2026-02-07T18:30:00Z"
-  last_post_link: http://ikennd.ac/blog/2026/02/keyhole-an-app-in-a-week/
+  last_post_title: 'My Thoughts on Generative AI: October 2026'
+  last_post_description: So. Generative AI. It's 2026, and everyone has an opinion
+    — especially in the programming community. So do I!
+  last_post_date: "2026-10-03T15:00:00Z"
+  last_post_link: http://ikennd.ac/blog/2026/10/gen-ai-thoughts/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bbfc7bb4c15bb14e6cc6222db54be661
+  last_post_guid: 05e950d8b9242453d0f7fb970e2a1897
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Summsis Hobbyküche
-date: "2026-09-07T18:13:24+02:00"
+date: "2026-09-26T16:11:41+02:00"
 description: Rezepte, welche ich in meiner KÃ¼che teste .
 params:
   feedlink: https://krabsch.blogspot.com/feeds/posts/default
@@ -10,12 +10,11 @@ params:
     https://krabsch.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - Abnehmen
   - Ananas

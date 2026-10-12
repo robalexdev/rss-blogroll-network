@@ -13,7 +13,7 @@ params:
   - title: Blogroll by Der Schreibende (Frank Hamm)
     description: ""
     id: 0304ed09e3798f370adcb6f77278c335
-  - title: Blogroll by Der Schreibende (Frank Hamm)
+  - title: Blogroll von Der Schreibende (Frank Hamm)
     description: ""
     id: 6508aac0042871e4620b785254e30bef
   recommended: []
@@ -22,15 +22,14 @@ params:
   - https://derschreiben.de/feed/
   categories: []
   relme: {}
-  last_post_title: Ein Interview, das möglicherweise ein kleines, aber umso traurigeres
-    Zeitdokument ist
-  last_post_description: Bin jetzt mehrfach über ein Interview der Chef-Lobbyistin
-    der Automobilindustrie gestolpert und habe es mir dann sogar vollständig angetan.
-  last_post_date: "2026-09-11T09:53:41Z"
-  last_post_link: https://dirkspecht.substack.com/p/ein-interview-das-moglicherweise
+  last_post_title: Das andere Ende der KI-Finanzblase
+  last_post_description: Ich habe mich oft gegen den Begriff der KI-Blase gewendet
+    und werde das weiter tun.
+  last_post_date: "2026-10-11T08:40:36Z"
+  last_post_link: https://dirkspecht.substack.com/p/das-andere-ende-der-ki-finanzblase
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8283c367e7573e20047127ae6e3b5cb8
+  last_post_guid: 38d4fcc0b7d1bcdcf9ea65003413cac6
   score_criteria:
     cats: 0
     description: 3

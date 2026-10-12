@@ -22,6 +22,9 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
+  - title: Personal sites are awesome!
+    description: ""
+    id: 2561079dc6b23262f5202eb5bc528075
   - title: RSS subscriptions for stu@alwaystwisted.com
     description: ""
     id: 11fe580930b6a693dba9a3372a800841
@@ -30,13 +33,13 @@ params:
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: APIs are cool
+  last_post_title: How to migrate passwords from Proton Pass to Apple Passwords
   last_post_description: ""
-  last_post_date: "2026-08-11T21:52:00Z"
-  last_post_link: https://www.kooslooijesteijn.net/blog/apis-are-cool
+  last_post_date: "2026-09-27T18:20:00Z"
+  last_post_link: https://www.kooslooijesteijn.net/blog/proton-pass-to-apple-passwords
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5948e9c7bf4d3162e2d07be774101e04
+  last_post_guid: 501c318844a46f70b634f5fe47c5486f
   score_criteria:
     cats: 0
     description: 3

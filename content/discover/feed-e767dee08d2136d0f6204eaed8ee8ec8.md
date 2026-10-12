@@ -21,15 +21,15 @@ params:
   categories:
   - Society & Culture
   relme: {}
-  last_post_title: Clemens Schick
-  last_post_description: Geboren 1972 in Tübingen, wächst Clemens Schick mit 4 Geschwistern
-    in Stuttgart auf. Die Schule und er werden keine Freunde, aber der Schulweg ist
-    für ihn ein Raum der Freiheit und erste
-  last_post_date: "2026-09-06T12:00:00Z"
-  last_post_link: https://hoerbar-rust-radioeins-rbbm.podigee.io/224-neue-episode
+  last_post_title: Annett Louisan
+  last_post_description: In der Hansestadt Havelberg in defr Altmark in Sachsen-Anhalt
+    geboren, die Kindheit in Schönhausen bei den Großeltern an der Elbe verbracht,
+    zieht die Mutter mit der 12jährigen Annett nach dem
+  last_post_date: "2026-10-11T12:00:00Z"
+  last_post_link: https://hoerbar-rust-radioeins-rbbm.podigee.io/229-neue-episode
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 171fe99d1f8a730210bac76280c42182
+  last_post_guid: 5070d7ac58939a3e64260b0b7f470b34
   score_criteria:
     cats: 1
     description: 3

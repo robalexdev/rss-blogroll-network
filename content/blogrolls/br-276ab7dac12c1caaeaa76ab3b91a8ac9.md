@@ -1,6 +1,6 @@
 ---
 title: Planet OSGeo
-date: Fri, 11 Sep 2026 13:37:35 GMT
+date: Sun, 11 Oct 2026 18:37:18 GMT
 description: ""
 params:
   link: https://planet.osgeo.org/opml.xml

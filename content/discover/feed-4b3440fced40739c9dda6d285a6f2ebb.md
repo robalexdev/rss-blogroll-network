@@ -10,6 +10,9 @@ params:
     https://jpalfrey.blog/: true
   blogrolls: []
   in_blogrolls:
+  - title: Blogroll
+    description: ""
+    id: b0658004798cf7c53b4c0b9324265ab4
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.9.3.
@@ -24,28 +27,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Authoritarianism
+  - Ali Noorani
+  - American Journalism Project
+  - Barr Foundation
+  - Charitable Non Profit Sector
   - Democracy
-  - Disinformation
-  - Misinformation
-  - Science
-  - Truth
+  - MacArthur Foundation
+  - Mary Skelton Roberts
+  - Meet the Moment,
+  - Philanthropy Massachusetts
+  - Press Forward
   relme: {}
-  last_post_title: When Authoritarians Attack Science, Democracy Is the Real Target
-  last_post_description: 'Around the world, authoritarian movements are attacking
-    science to weaken democracy: cutting research funding, smearing scientists, and
-    spreading mis- and disinformation. This piece argues that'
-  last_post_date: "2026-09-07T15:41:23Z"
-  last_post_link: https://jpalfrey.blog/2026/09/07/when-authoritarians-attack-science-democracy-is-the-real-target/
+  last_post_title: 'Democracy: Our American Experiment, The Massachusetts Opportunity'
+  last_post_description: I returned to Boston this week for the annual meeting of
+    Philanthropy Massachusetts. We discussed the importance of courage, leadership,
+    and meeting the moment in this period of peril for our
+  last_post_date: "2026-10-04T15:00:00Z"
+  last_post_link: https://jpalfrey.blog/2026/10/04/democracy-our-american-experiment-the-massachusetts-opportunity/
   last_post_categories:
-  - Authoritarianism
+  - Ali Noorani
+  - American Journalism Project
+  - Barr Foundation
+  - Charitable Non Profit Sector
   - Democracy
-  - Disinformation
-  - Misinformation
-  - Science
-  - Truth
+  - MacArthur Foundation
+  - Mary Skelton Roberts
+  - Meet the Moment,
+  - Philanthropy Massachusetts
+  - Press Forward
   last_post_language: ""
-  last_post_guid: 4350e9515fd50ebe633fedbc33d6e12e
+  last_post_guid: 9988c9f382521a690eb5ae43ff7add67
   score_criteria:
     cats: 0
     description: 3

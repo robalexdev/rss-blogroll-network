@@ -20,16 +20,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Persistence of Vision
+  last_post_title: The LLM Comments Are Not For You
   last_post_description: |-
-    Humid air swirls with colorful spirits. They trace its invisible currents
-    in spirals through open spaces, cling to branches, drip down stone faces
-    and, awakened by the first beams of the rising sun,
-  last_post_date: "2026-04-18T23:26:00-07:00"
-  last_post_link: https://danilafe.com/writing/spirits/
+    I’ve heard a lot of talk about LLMs recently, and among the most common topics
+    of discussion have been the comments. LLM comments generally seem to suck: they are verbose,
+    regardless of surrounding
+  last_post_date: "2026-09-14T20:49:21-05:00"
+  last_post_link: https://danilafe.com/blog/comments_not_for_you/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 57f21e7b6abdc56e078e8b46ca392d8a
+  last_post_guid: acc9100458f0956c438a6f932c724a72
   score_criteria:
     cats: 0
     description: 3

@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -27,16 +27,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: GenAI for the Static Cartographer
-  last_post_description: It’s finally time for me to write something about generative
-    AI. While I’ve made occasional comments on social media, I haven’t spoken in any
-    detail. I touched on some colleagues’ genAI work
-  last_post_date: "2026-09-08T21:21:10Z"
-  last_post_link: https://somethingaboutmaps.wordpress.com/2026/09/08/genai-for-the-static-cartographer/
+  last_post_title: 'Asymmetric Monstrosity: Home Edition'
+  last_post_description: Last year, I created a new map projection, the Asymmetric
+    Monstrosity, designed to make somewhat of an artistic and educational statement
+    about projections in general. I also made a physical world
+  last_post_date: "2026-10-08T19:30:12Z"
+  last_post_link: https://somethingaboutmaps.wordpress.com/2026/10/08/asymmetric-monstrosity-home-edition/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: aed4a7a11b3a5fe44cefe2d6fd2c042c
+  last_post_guid: fc06aaedd256173702086c9c954b42f7
   score_criteria:
     cats: 0
     description: 0

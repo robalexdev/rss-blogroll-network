@@ -23,15 +23,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: So brechen soziale Verträge (mit Wolfgang M. Schmitt)
-  last_post_description: Früher waren es Ballerspiele und Slipknot, heute ist es Social
-    Media, das für alles herhalten muss. Für PISA, für die Politik, für die sozialen
-    Probleme und für das schlechte Wetter eh. Dabei
-  last_post_date: "2026-09-11T03:00:00Z"
-  last_post_link: https://hakendran.podigee.io/626-so-brechen-soziale-vertraege-mit-wolfgang-m-schmitt
+  last_post_title: Gläsern by Design (mit Martin Fehrensen)
+  last_post_description: 'Eine Geschichte, die mich seit einigen Tagen “in Bewegung”
+    gehalten hat: Das europäische W Social, ein Netzwerk, das Ausweisverifikation
+    zur Beitrittsbedingung macht, speichert öffentlich'
+  last_post_date: "2026-10-09T03:00:00Z"
+  last_post_link: https://hakendran.podigee.io/638-glaesern-by-design-mit-martin-fehrensen
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ef5e8c01d9a0f906e576cac9e72452e
+  last_post_guid: ef493700c292bb6323bc025ea7b464cf
   score_criteria:
     cats: 2
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: mrale.ph
-date: "2026-01-05T18:30:42Z"
+date: "2026-10-06T00:00:00Z"
 description: ""
 params:
   feedlink: https://mrale.ph/atom.xml
@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reading in 2025
+  last_post_title: Microbenchmarks in the age of clankers
   last_post_description: ""
-  last_post_date: "2025-01-06T00:00:00Z"
-  last_post_link: https://mrale.ph/blog/2025/01/06/reading-in-2025.html
+  last_post_date: "2026-10-06T00:00:00Z"
+  last_post_link: https://mrale.ph/blog/2026-10-06-microbenchmarks-in-the-age-of-clankers.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 65f71188274503668a2d3e783ce8b37d
+  last_post_guid: 949df6a3b751ca14c16cd37841a9e670
   score_criteria:
     cats: 0
     description: 0

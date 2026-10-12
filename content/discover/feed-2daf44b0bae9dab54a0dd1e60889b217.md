@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-09-11T14:04:25Z"
+date: "2026-10-11T18:02:23Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -23,25 +23,32 @@ params:
   - title: Front-end RSS Feeds
     description: ""
     id: 43048a416cd0a7f36812eb48b990257e
+  - title: Feeds
+    description: ""
+    id: 0df775e8ba7b2384cbdfcfc97aa7cf68
   - title: RSS subscriptions for stu@alwaystwisted.com
     description: ""
     id: 11fe580930b6a693dba9a3372a800841
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
-  recommender: []
+  recommender:
+  - https://stephanmax.com/feed.xml
   categories: []
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #197'
+  last_post_title: 'The Index: Issue #201'
   last_post_description: |-
-    Mindful Design Products
-    This is exactly what we need to counter the great slopification of what used to be useful products. Calm, considered and above all, useful.
-    Scott's written about the why here,
-  last_post_date: "2026-09-11T00:00:00Z"
-  last_post_link: https://piccalil.li/the-index/197/?ref=main-rss-feed
+    2027 web platform feature ranking
+
+    This is the second year we're doing this, and last year's 1900+ rankings not only helped us push the right proposals in the Interop process, it was also used to
+  last_post_date: "2026-10-09T08:55:00Z"
+  last_post_link: https://piccalil.li/the-index/201/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2f78bb8040d8fe01f357d2d9f118f4dc
+  last_post_guid: cef8bda41f89e165d273b1b229a14119
   score_criteria:
     cats: 0
     description: 3

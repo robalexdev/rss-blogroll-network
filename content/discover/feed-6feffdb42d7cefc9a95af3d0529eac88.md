@@ -1,6 +1,6 @@
 ---
 title: Nicolas Hoizey - All contents
-date: "2026-09-10T08:20:57Z"
+date: "2026-10-11T08:40:32Z"
 description: ""
 params:
   feedlink: https://nicolas-hoizey.com/feeds/all.xml
@@ -8,6 +8,7 @@ params:
   feedid: 6feffdb42d7cefc9a95af3d0529eac88
   websites:
     https://nicolas-hoizey.com/: false
+    https://nicolas-hoizey.com/about/: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -26,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F517 I changed my license"
+  last_post_title: "\U0001F517 Cartographers of North Korea :: 북한의 지도 제작자"
   last_post_description: ""
-  last_post_date: "2026-09-10T08:20:57Z"
-  last_post_link: https://nicolas-hoizey.com/links/2026/09/10/i-changed-my-license/
+  last_post_date: "2026-10-11T08:40:32Z"
+  last_post_link: https://nicolas-hoizey.com/links/2026/10/11/cartographers-of-north-korea/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: eada708993ecf330b06300b239771571
+  last_post_guid: 119674ac0c90de9ed5cb96c896098cbd
   score_criteria:
     cats: 0
     description: 0

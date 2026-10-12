@@ -1,6 +1,6 @@
 ---
 title: swaits.com
-date: "2026-04-10T00:00:00Z"
+date: "2026-10-07T00:00:00Z"
 description: Stephen Waits
 params:
   feedlink: https://swaits.com/atom.xml
@@ -24,13 +24,13 @@ params:
   categories: []
   relme:
     https://swaits.com/: true
-  last_post_title: Does repeater time matter in MeshCore?
+  last_post_title: They chose to be evil
   last_post_description: ""
-  last_post_date: "2026-04-10T00:00:00Z"
-  last_post_link: https://swaits.com/does-repeater-time-matter-in-meshcore/
+  last_post_date: "2026-10-07T00:00:00Z"
+  last_post_link: https://swaits.com/they-chose-to-be-evil/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 494ec3ac17352119af147cf34bd443d8
+  last_post_guid: 6f27d57c38cfd51e60278aaddd94a863
   score_criteria:
     cats: 0
     description: 3

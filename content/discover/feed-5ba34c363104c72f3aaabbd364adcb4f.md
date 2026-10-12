@@ -21,33 +21,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Trading
-  - cybersecurity
+  - Industry
+  - Sustainability
+  - Sustainable Development Goals
   relme: {}
-  last_post_title: 'The EU Cyber Resilience Act: mandatory reporting requirements'
+  last_post_title: 'Net zero at Pi Towers: how we’re doing it'
   last_post_description: |-
-    We take a look at how a new set of mandatory reporting obligations affects manufacturers — and how Raspberry Pi can help.
-    The post The EU Cyber Resilience Act: mandatory reporting requirements
-  last_post_date: "2026-09-11T08:53:22Z"
-  last_post_link: https://www.raspberrypi.com/news/the-eu-cyber-resilience-act-mandatory-reporting-requirements/
+    At Raspberry Pi Ltd, we're seeking to be pioneers in transforming our property portfolio to reach net zero.
+    The post Net zero at Pi Towers: how we’re doing it appeared first on Raspberry Pi.
+  last_post_date: "2026-10-08T11:39:12Z"
+  last_post_link: https://www.raspberrypi.com/news/net-zero-at-pi-towers-how-were-doing-it/
   last_post_categories:
-  - Trading
-  - cybersecurity
+  - Industry
+  - Sustainability
+  - Sustainable Development Goals
   last_post_language: ""
-  last_post_guid: 10095a5fae06de6db4d7de0b7ca4835f
+  last_post_guid: 066adda021a523a46828efe6b83af3eb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

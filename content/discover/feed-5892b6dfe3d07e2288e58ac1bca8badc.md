@@ -20,6 +20,9 @@ params:
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.9.3.
     id: 3aa0df25d16736cc58c03448d166adb5
+  - title: BlogRoll auf haurand.com von hgg
+    description: ""
+    id: 7c33b48afc44cc1c073509503a8d4a89
   - title: Planet FAIR
     description: ""
     id: 05c9cdd128a6bc13df2f70cc6e60e91a
@@ -27,33 +30,40 @@ params:
     description: ""
     id: c8f6d92430a541485f160ef920ae0896
   recommended: []
-  recommender: []
+  recommender:
+  - https://haurand.com/comments/feed/
+  - https://haurand.com/feed/
+  - https://haurand.com/webseiten-mit-wordpress-in-aachen/feed/
   categories:
+  - Artificial Intelligence (AI)
   - Block Plugins
   - Full-Site Editing
   - News
+  - Playground
   - Themes
   - Updates
   - Weekend Edition
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: Building blocks without JavaScript, Accessibility Lab, AI plugin
-    showdown and more —Weekend Edition 375
-  last_post_description: 'Hi, There is good news for me and good news for you. The
-    good news for me: with my five-year anniversary at Automattic, I get to go on
-    a 3-month sabbatical, starting this week. It also means not only'
-  last_post_date: "2026-08-29T03:22:00Z"
-  last_post_link: https://gutenbergtimes.com/building-blocks-without-javascript-accessibility-lab-ai-plugin-showdown-and-more-weekend-edition-375/
+  last_post_title: Gutenberg 24.0, the road to 7.2, a new default theme named Ipsum,
+    and more—Weekend Edition 377
+  last_post_description: 'Howdy, Before anything else: if you maintain WordPress sites,
+    go update them. WordPress 7.1.2 shipped on September 22 to patch a single critical
+    vulnerability in page template resolution, one that'
+  last_post_date: "2026-09-26T16:45:09Z"
+  last_post_link: https://gutenbergtimes.com/gutenberg-24-0-the-road-to-7-2-a-new-default-theme-named-ipsum-and-more-weekend-edition-377/
   last_post_categories:
+  - Artificial Intelligence (AI)
   - Block Plugins
   - Full-Site Editing
   - News
+  - Playground
   - Themes
   - Updates
   - Weekend Edition
   last_post_language: ""
-  last_post_guid: 33c43e1e4df23d66894cd98ec658aacc
+  last_post_guid: 14ad44b52d0f44c936879ee25051fa11
   score_criteria:
     cats: 0
     description: 3

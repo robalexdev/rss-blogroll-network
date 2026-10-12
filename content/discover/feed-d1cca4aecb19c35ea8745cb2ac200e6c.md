@@ -8,6 +8,7 @@ params:
   feedid: d1cca4aecb19c35ea8745cb2ac200e6c
   websites:
     https://johnnyreilly.com/: true
+    https://johnnyreilly.com/about: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -22,33 +23,41 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Docusaurus
-  - Open Graph
+  - AI
+  - Automated Testing
+  - GitHub Actions
+  - ts-loader
   relme:
+    https://fosstodon.org/@johnny_reilly: true
+    https://github.com/johnnyreilly: true
     https://johnnyreilly.com/: true
-  last_post_title: 'Docusaurus: Workaround for WhatsApp Open Graph Image Bug'
-  last_post_description: Workaround for WhatsApp Open Graph image bug in Docusaurus
-    Faster (powered by SWC).
-  last_post_date: "2026-08-21T09:58:52Z"
-  last_post_link: https://johnnyreilly.com/docusaurus-workaround-whatsapp-open-graph-image-bug
+    https://johnnyreilly.com/about: true
+  last_post_title: Cross Operating System Test Probes with GitHub Actions
+  last_post_description: How to build an on-demand GitHub Actions workflow that runs
+    a subset of tests on Ubuntu, Mac and Windows, so AI coding agents can debug OS-specific
+    failures without a human relaying CI output.
+  last_post_date: "2026-10-07T20:05:46Z"
+  last_post_link: https://johnnyreilly.com/cross-operating-system-test-probes-with-github-actions
   last_post_categories:
-  - Docusaurus
-  - Open Graph
+  - AI
+  - Automated Testing
+  - GitHub Actions
+  - ts-loader
   last_post_language: ""
-  last_post_guid: 286605dfbbf4a89fe3e7cab9f47eb05e
+  last_post_guid: 50a2bcd0fbf23105dbe02efca64415fc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

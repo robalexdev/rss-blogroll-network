@@ -19,25 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - OpenCode
-  - PHP
-  - Sylius
+  - Caddy
+  - FrankenPHP
+  - Security
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: 'The WebMCP Challenge: Wishlist Concierge'
-  last_post_description: Discover how I leveraged the OpenAI WebMCP Challenge to create
-    an innovative Sylius plugin, streamlining e-commerce integrations with AI-powered
-    wishlist management, and explore the technical details
-  last_post_date: "2026-09-02T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/webmcp_challenge_sylius_wishlist_concierge
+  last_post_title: FrankenPHP & Caddy WAF
+  last_post_description: Discover how combining Caddy WAF and FrankenPHP can help
+    prevent security vulnerabilities, data breaches, and malicious activities, ensuring
+    the security and reliability of your application.
+  last_post_date: "2026-10-07T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/frankenphp_caddy_waf
   last_post_categories:
-  - AI
-  - OpenCode
-  - PHP
-  - Sylius
+  - Caddy
+  - FrankenPHP
+  - Security
   last_post_language: ""
-  last_post_guid: 9afefa7b0d332aa268fad30eb7f9cc67
+  last_post_guid: 7a36c36d7bc8c79c2c77bf500f0de5e8
   score_criteria:
     cats: 0
     description: 3

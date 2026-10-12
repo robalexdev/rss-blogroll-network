@@ -27,14 +27,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reducing .NET AWS Lambda Cold Starts by Adding Memory
-  last_post_description: 'A pleasantly simple fix that reduced cold-start time from
-    ~7 seconds to ~2.5 seconds. - Tagged: .NET, AWS'
-  last_post_date: "2026-08-30T22:30:00Z"
-  last_post_link: https://www.lloydatkinson.net/posts/2026/reducing-dotnet-aws-lambda-cold-starts-by-increasing-memory/
+  last_post_title: Building a Toolbox for My Website
+  last_post_description: 'I built a small collection of tools to automate repetitive
+    tasks and make working on my website easier. - Tagged: Astro, Automation, Static
+    Sites, Workflows, Tools'
+  last_post_date: "2026-09-15T15:38:54Z"
+  last_post_link: https://www.lloydatkinson.net/posts/2026/building-a-toolbox-for-my-website/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fabdc3c03bbc399d0d45ebcba25bf639
+  last_post_guid: 99004079573e4f3b74afb7a31bc92a59
   score_criteria:
     cats: 0
     description: 3

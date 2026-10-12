@@ -1,7 +1,7 @@
 ---
-title: 杰哥的{运维，编程，调板子}小笔记
-date: "2026-08-18T07:21:27Z"
-description: 杰哥的{运维，编程，调板子}小笔记
+title: 杰哥的{教学，运维，编程，调板子}小笔记
+date: "2026-10-11T13:36:52Z"
+description: 杰哥的{教学，运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
   feedtype: rss
@@ -18,23 +18,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - cpu
   - hardware
-  - loongarch
-  - loongson
+  - power
+  - server
   relme: {}
-  last_post_title: 谈谈龙芯的 LoongLeak 漏洞
-  last_post_description: 谈谈龙芯的 LoongLeak 漏洞¶ 背景¶ 近日，龙芯龙架构 CPU LA464/LA664 微架构部分步进的漏洞
-    LoongLeak 正式披露，龙芯官方也发布了
-  last_post_date: "2026-08-18T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2026/08/18/loongleak-loongbleed/
+  last_post_title: 替换自制服务器上的 48V 直流电源
+  last_post_description: |-
+    替换自制服务器上的 48V 直流电源
+    背景
+    又到了新学期，计算机组成原理的实验又轰轰烈烈地开始了，但实验平台背后的 FPGA
+  last_post_date: "2026-10-09T00:00:00Z"
+  last_post_link: https://jia.je/hardware/2026/10/09/replace-48v-power/
   last_post_categories:
-  - cpu
   - hardware
-  - loongarch
-  - loongson
+  - power
+  - server
   last_post_language: ""
-  last_post_guid: 06dd56f2f072ad3d94e4af1df9718eb3
+  last_post_guid: 8360884ac6fc9e51f763a4e3035d0a21
   score_criteria:
     cats: 0
     description: 3

@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLMs break down in funny ways when told the Jacobian Conjecture
-    counterargument
-  last_post_description: Cognitohazards can affect machines too.
-  last_post_date: "2026-07-23T09:15:00-07:00"
-  last_post_link: https://minimaxir.com/2026/07/jacobian-conjecture/
+  last_post_title: Writing Rust code that's faster than state-of-the-art libraries
+    by asking agents to make the code faster
+  last_post_description: c’mon, try doing a breakthrough
+  last_post_date: "2026-09-21T09:30:00-07:00"
+  last_post_link: https://minimaxir.com/2026/09/agentic-iteration/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 75e83601ff73ec84b9b35b4e9f104da8
+  last_post_guid: 0fa16736f60a26e440517bcf193a677b
   score_criteria:
     cats: 0
     description: 3

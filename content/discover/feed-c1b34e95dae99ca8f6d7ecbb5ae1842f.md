@@ -1,7 +1,7 @@
 ---
-title: Fight for the Human
+title: Fight for the Human by Cat Hicks
 date: "1970-01-01T00:00:00Z"
-description: A compass for rehumanizing tech
+description: Rehumanizing tech with a psychologist for the humans of tech
 params:
   feedlink: https://www.fightforthehuman.com/rss/
   feedtype: rss
@@ -22,25 +22,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - developer science
-  - overproduction pressure
-  - psychometrics
-  - resource
+  - AI and learning
+  - Measurement and evidence
+  - Science and research practice
   relme: {}
-  last_post_title: 'We need more than a metaphor: here are testable diagnostics for
-    comprehension debt'
-  last_post_description: Do we understand our code? I think we need to get past symptoms
-    and into causes. Here's a field-tested measure of one organizational condition
-    that can erode comprehension (Overproduction Pressure)
-  last_post_date: "2026-07-28T15:49:00Z"
-  last_post_link: https://www.fightforthehuman.com/we-need-more-than-a-metaphor-here-are-testable-diagnostics-for-comprehension-debt/
+  last_post_title: Organizational Fairness is a precondition for good problem-solving
+    cultures
+  last_post_description: 'If you''re catching up to Fight for the Human I''m doing
+    a special series: a running public conversations with Charity Majors where we
+    discuss learning, AI Skill Threat, our shared norms and values,'
+  last_post_date: "2026-10-09T19:48:47Z"
+  last_post_link: https://www.fightforthehuman.com/organizational-fairness-is-a-precondition-for-good-problem-solving-cultures/
   last_post_categories:
-  - developer science
-  - overproduction pressure
-  - psychometrics
-  - resource
+  - AI and learning
+  - Measurement and evidence
+  - Science and research practice
   last_post_language: ""
-  last_post_guid: 0e361aa7371fdebfd3fb6e13460a6980
+  last_post_guid: 61193e1b4edf2af81a66444a8cf7fd42
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: technicalwriting.dev
-date: "2026-09-10T23:47:52Z"
+date: "2026-10-11T17:13:07Z"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml
@@ -23,14 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: word2vec-style vector arithmetic on docs embeddings
-  last_post_description: Does vector(“king”) - vector(“man”) + vector(“woman”) ≈ vector(“queen”)
-    work in technical writing contexts?
-  last_post_date: "2025-10-29T00:00:00Z"
-  last_post_link: https://technicalwriting.dev/2025/10/arithmetic/index.html
+  last_post_title: The wild west of polyglot docs sites
+  last_post_description: A polyglot docs site attempts to combine the outputs from
+    multiple docs generators into a cohesive whole. There isn’t really a great way
+    to do this, yet.
+  last_post_date: "2026-10-08T00:00:00Z"
+  last_post_link: https://technicalwriting.dev/blog/2026/10/polyglot/index.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd3af59ec11b81499d5de92fbeb57864
+  last_post_guid: 7a374c63c6926cb9d2910b9f3c0bd531
   score_criteria:
     cats: 0
     description: 3

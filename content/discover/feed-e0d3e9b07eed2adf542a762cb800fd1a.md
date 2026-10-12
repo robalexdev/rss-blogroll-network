@@ -1,6 +1,6 @@
 ---
 title: Indie Dispatch - pckt
-date: "2026-09-11T15:49:58Z"
+date: "2026-10-11T21:36:29Z"
 description: A weekly newsletter that shines a light on awesome indie games you should
   check out.
 params:
@@ -11,22 +11,22 @@ params:
     https://indiedispatch.online/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Shroom and Groom brings deckbuilders to First-Person dungeon crawlers
-  last_post_description: Happy Friday friends! This week I have been rather busy getting
-    ready for a family trip back to Australia in a few weeks, along with my son’s
-    upcoming 2nd birthday. Time flies, and there never
-  last_post_date: "2026-09-11T05:00:14Z"
-  last_post_link: https://indie-dispatch.pckt.blog/shroom-and-groom-brings-deckbuilders-to-first-person-dungeon-crawlers-h297t4e
+  last_post_title: Soul Injector Commando makes you turn billionaires into humans
+  last_post_description: Hello friends! We are well and truly in the thick of it now,
+    with the latest Fire Emblem dropping to critical acclaim across the board. The
+    first Onimusha game in 20 years continues Capcom's hot
+  last_post_date: "2026-09-18T04:14:16Z"
+  last_post_link: https://indie-dispatch.pckt.blog/soul-injector-commando-makes-you-turn-billionaires-into-humans-s8n3z85
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2001ca43549bc74cf871bd5e691c9be2
+  last_post_guid: 2c64755ec30d3fc9d3f3af04eacb5b3e
   score_criteria:
     cats: 0
     description: 3

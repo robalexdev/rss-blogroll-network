@@ -26,16 +26,15 @@ params:
   categories:
   - Editors' Blog
   relme: {}
-  last_post_title: 'YouTube Live: Join Joe Ragazzo, Nicole LaFond and Kate Riga at
-    1 PM ET'
-  last_post_description: Our publisher Joe Ragazzo is going to be hosting biweekly
-    YouTube lives with members of our team, on Tuesdays and...
-  last_post_date: "2026-09-11T16:21:05Z"
-  last_post_link: https://talkingpointsmemo.com/edblog/youtube-live-join-joe-ragazzo-nicole-lafond-and-kate-riga-at-1-pm-et
+  last_post_title: Do Me This Favor
+  last_post_description: If you ever spend time on YouTube, I hope you’ll take a moment
+    to subscribe to our YouTube page, which...
+  last_post_date: "2026-10-10T12:11:36Z"
+  last_post_link: https://talkingpointsmemo.com/edblog/do-me-this-favor
   last_post_categories:
   - Editors' Blog
   last_post_language: ""
-  last_post_guid: afb03ebba5b9c2c2c514b4a80708714b
+  last_post_guid: b7c403dde89a4bd2aeda90630f19c3dc
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-09-11T14:01:14Z"
+date: "2026-10-11T19:18:44Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,16 +26,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blog-carnival
+  - personal
   relme: {}
-  last_post_title: 'IndieWeb Carnival September 2026: Parenting'
+  last_post_title: Q3 2026 notes
   last_post_description: ""
-  last_post_date: "2026-09-11T14:01:03Z"
-  last_post_link: https://winther.sysctl.dk/indieweb-carnival-september-2026-parenting/
+  last_post_date: "2026-10-07T07:03:48Z"
+  last_post_link: https://winther.sysctl.dk/q3-2026-notes/
   last_post_categories:
-  - blog-carnival
+  - personal
   last_post_language: ""
-  last_post_guid: 23db588a154d1a6c030b5738b6d27f09
+  last_post_guid: 874064a873ed8c5e4280eee69fe3a821
   score_criteria:
     cats: 0
     description: 3

@@ -11,10 +11,10 @@ params:
     https://mequito.org/stories/series/es-regnet: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Die Blogroll by Nico
+  - title: Die Blogroll von Nico
     description: ""
     id: 44e00e3f3f32b13ff6e674173d68f45b
   - title: Blogroll - Olbertz.de
@@ -34,16 +34,16 @@ params:
   categories:
   - TBB21
   relme: {}
-  last_post_title: '[Textilien aufräumen]'
-  last_post_description: |-
-    Sie macht das jeden Abend. Ich kÃ¶nnte eine Serie beginnen. Sobald das Duschwasser angeht, kommt sie rein, schnappt sich meine Unterhose und stiehlt sich davon. Jeden Abend.
-    The post [Textilien
-  last_post_date: "2026-09-10T06:28:45Z"
-  last_post_link: https://mequito.org/stories/16070
+  last_post_title: '[Sa, 10.10.2026 – BZO, Schnellen, Almen, Schluchten]'
+  last_post_description: Am Vormittag stieg ich dann in einer dieser kleinen Propellermaschinen
+    der SkyAlps auf dem Weg nach Bozen. Weil diese Maschinen nur auf etwa 6 Kilometer
+    Höhe über das Land fliegen, hat man ein ganz
+  last_post_date: "2026-10-11T05:11:00Z"
+  last_post_link: https://mequito.org/stories/16170
   last_post_categories:
   - TBB21
   last_post_language: ""
-  last_post_guid: cfcda103a7afb468d0ed59c299d9f59c
+  last_post_guid: 863881336f0890b8c93f1d8ef97f0de4
   score_criteria:
     cats: 0
     description: 0

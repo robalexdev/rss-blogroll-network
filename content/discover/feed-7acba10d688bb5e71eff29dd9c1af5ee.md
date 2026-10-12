@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-09-11T14:26:31Z"
+date: "2026-10-11T12:23:19Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '@ernie @tedium iLands seem really pervasive. I can’t think of
-    any other cases that have been so w...'
+  last_post_title: Perhaps the path to human-level AI being taken by AI companies
+    is not to make more capable AI, bu...
   last_post_description: ""
-  last_post_date: "2026-09-11T14:26:31Z"
-  last_post_link: https://fedi.vale.rocks/objects/2bf0060c-41ee-4591-ad01-8365a613f79d
+  last_post_date: "2026-10-11T12:23:19Z"
+  last_post_link: https://fedi.vale.rocks/objects/a8df7cc7-b625-4fb3-beec-e258557f97f4
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ae27b7cf5e2bc923f9c7c4dbe9f05c1b
+  last_post_guid: 1e88fd48710744a1898124868583f36a
   score_criteria:
     cats: 0
     description: 0

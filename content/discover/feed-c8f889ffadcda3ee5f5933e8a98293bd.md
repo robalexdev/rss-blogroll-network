@@ -19,23 +19,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - mattmay
-  - via:adactio
+  - foursquare
+  - infillion
+  - swarm
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: On artificial intelligence by Matt May
-  last_post_description: '"I have been searching for a bright line, one where I can
-    say that this subset of AI usage is ethical, or at least ethical enough for me
-    to use. I have reached the point where I don’t think that'
-  last_post_date: "2026-09-09T12:56:35Z"
-  last_post_link: https://buttondown.com/practicaltips/archive/on-artificial-intelligence/
+  last_post_title: Infillion to Acquire Foursquare, Closing the Loop Between Advertising
+    and Real-World Results - Infillion
+  last_post_description: oh no
+  last_post_date: "2026-10-04T10:26:17Z"
+  last_post_link: https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/
   last_post_categories:
-  - ai
-  - mattmay
-  - via:adactio
+  - foursquare
+  - infillion
+  - swarm
   last_post_language: ""
-  last_post_guid: 4db5beec2f5b7213077b2816aac7fa95
+  last_post_guid: 624491ccf7b88279f96400f3f28459c5
   score_criteria:
     cats: 0
     description: 3

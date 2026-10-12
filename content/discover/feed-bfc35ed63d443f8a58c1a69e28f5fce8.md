@@ -16,16 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: What Is a B2B Growth Engine? How Data, Outreach, SEO, Web, and
-    Social Work Together
-  last_post_description: A B2B growth engine is a connected system that helps the
-    right buyers find, trust, and respond to your company. It is not one campaign.
-    It combines clean data, focused outreach, useful content,
-  last_post_date: "2026-08-25T11:41:19Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/b2b-growth-engine-data-outreach-seo-web-social
+  last_post_title: 'Marketing-to-Sales Handoff: Who Owns It When You Have No RevOps
+    Team?'
+  last_post_description: |-
+    By the Accord Tech Solutions team Â· Last reviewed October 2026
+
+    Marketing owns a lead until sales accepts it, and sales owns it from the moment it is assigned. One senior person owns the result:
+  last_post_date: "2026-10-11T10:51:17Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/marketing-to-sales-handoff-who-owns-it-without-revops
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 207b0fdde418b8988702b8c05c971de2
+  last_post_guid: 80d585075d6130466690b0789c9162e0
   score_criteria:
     cats: 0
     description: 3

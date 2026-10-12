@@ -9,9 +9,17 @@ params:
   - title: 'MacRumors: Mac News and Rumors - All Stories'
     description: Apple, iPhone, iPad, Mac News and Rumors
     id: 244ffb56aadf3e0c66356f6177bd675b
+  - title: Piccalilli - Everything
+    description: We are Piccalilli. A publication dedicated to providing high quality
+      educational content to level up your front-end skills.
+    id: 2daf44b0bae9dab54a0dd1e60889b217
   - title: 'A List Apart: The Full Feed'
     description: Articles for people who make web sites.
     id: 437e5b193f338deee81f6c6ea6e6a338
+  - title: Articles on Smashing Magazine — For Web Designers And Developers
+    description: Recent content in Articles on Smashing Magazine — For Web Designers
+      And Developers
+    id: 880b5a62cc6e361b4b4194c3a9eb07a4
   - title: Daring Fireball
     description: By John Gruber
     id: 9a8beca635082f03992038bfdab4d14d

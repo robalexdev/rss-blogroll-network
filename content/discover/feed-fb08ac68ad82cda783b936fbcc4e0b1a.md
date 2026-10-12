@@ -27,30 +27,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - NBA
-  - Podcasts
+  - Cam Little
+  - NFL
   - Sports
-  - Tennis
-  - los angeles clippers
-  - nothing but respect
-  - u.s. open
+  - jacksonville jaguars
+  - jaguars junction
+  - nick sirianni
+  - philadelphia eagles
+  - spiritually a jacksonville jaguars blog
   relme: {}
-  last_post_title: Honey Deuce McBride, With Giri Nathan
-  last_post_description: This week on Nothing But Respect, we welcomed back million-time
-    guest Giri Nathan to talk primarily about his experience covering the U.S. Open.
-    How bad is the phone situation? How does the memetic
-  last_post_date: "2026-09-11T15:50:48Z"
-  last_post_link: https://defector.com/honey-deuce-mcbride-with-giri-nathan
+  last_post_title: Welcome The Philadelphia Eagles To Jaguars Junction
+  last_post_description: To paraphrase one of the greats, it's not easy living up
+    to the standards of Jaguars Junction. It's not just about the losing; any team
+    can lose a game, especially in the NFL. And it's also not about
+  last_post_date: "2026-10-11T20:26:55Z"
+  last_post_link: https://defector.com/welcome-the-philadelphia-eagles-to-jaguars-junction
   last_post_categories:
-  - NBA
-  - Podcasts
+  - Cam Little
+  - NFL
   - Sports
-  - Tennis
-  - los angeles clippers
-  - nothing but respect
-  - u.s. open
+  - jacksonville jaguars
+  - jaguars junction
+  - nick sirianni
+  - philadelphia eagles
+  - spiritually a jacksonville jaguars blog
   last_post_language: ""
-  last_post_guid: ef82c481424a60cd0f3fbae2a70adc33
+  last_post_guid: 9cd31377f49bfc6e57ccade788c46c28
   score_criteria:
     cats: 0
     description: 3

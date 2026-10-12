@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Fri, 11 Sep 2026 14:09:50 GMT
+date: Sun, 11 Oct 2026 18:54:31 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.9.3.
 params:
@@ -187,8 +187,8 @@ params:
     id: eddcf9aba6e28f17295923f98b319d08
   - title: Troy Hunt
     description: Hi, I'm Troy Hunt, I write this blog, run "Have I Been Pwned" and
-      am a Microsoft Regional Director and MVP who travels the world speaking at events
-      and training technology professionals
+      am a Microsoft Regional Director who travels the world speaking at events and
+      training technology professionals
     id: f07c45b017bc6c9f2d537d19efdc6331
   - title: Philip Laine
     description: Recent content on Philip Laine

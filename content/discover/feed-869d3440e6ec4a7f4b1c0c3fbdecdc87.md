@@ -24,22 +24,20 @@ params:
   - Recent News
   - Sidebar - Featured
   - Threads
-  - Youth Well-Being Resources
   relme: {}
-  last_post_title: New Parental Supervision Tools Coming To Threads
+  last_post_title: Threads Expands Podcast Toolkit for Creators and Listeners
   last_post_description: |-
-    We're rolling out parental supervision on Threads, giving parents even more tools to support their teens across Meta's apps.
-    The post New Parental Supervision Tools Coming To Threads appeared first
-  last_post_date: "2026-07-21T16:00:19Z"
-  last_post_link: https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads/
+    We’re announcing new Threads tools for podcast creators and listeners, giving you more ways to have conversations around the podcasts you love.
+    The post Threads Expands Podcast Toolkit for Creators
+  last_post_date: "2026-09-16T14:53:31Z"
+  last_post_link: https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/
   last_post_categories:
   - Product News
   - Recent News
   - Sidebar - Featured
   - Threads
-  - Youth Well-Being Resources
   last_post_language: ""
-  last_post_guid: c63cbd4c81e2826a15b2c1da3c7d92aa
+  last_post_guid: 0c86298bd9eb1e1e1f4288d1c0bca971
   score_criteria:
     cats: 0
     description: 0

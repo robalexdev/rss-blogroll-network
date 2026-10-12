@@ -32,6 +32,9 @@ params:
   - title: Aral Balkan
     description: Recent content on Aral Balkan
     id: 2bdcf46255d3e1ab95149c919b2bf588
+  - title: The Go Blog
+    description: ""
+    id: 2f02a05b9ae2b09d6abb5aa771db4a68
   - title: Rakhim's blog
     description: Hi, my name is Rakhim. I'm a staff engineer at IQM Quantum Computers.
       I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Twitter.
@@ -116,6 +119,9 @@ params:
   - title: Max Inden
     description: Recent content on Max Inden
     id: d204b7e3938a2c83fabde88f73f3cabf
+  - title: Golang Weekly
+    description: A weekly newsletter about the Go programming language
+    id: d46c716559b7b2849bc370389bd23367
   - title: Julia Evans
     description: ""
     id: d90120327a3aa08790f4a1669c180620

@@ -13,6 +13,10 @@ params:
   - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
       Trek & SciFi, Eigene Podcasts
     description: ""
+    id: 76744bb2c928dd66d5472df531fef17b
+  - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
+      Trek & SciFi, Eigene Podcasts
+    description: ""
     id: d32bf806d2d43e0c13a96ee2ecb6b9bf
   recommended: []
   recommender:
@@ -22,16 +26,14 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: Hamburger Abendblatt über Kack & Sach
-  last_post_description: Zum 10-jährigen Podcast-Jubiläum hat das Hamburger Abendblatt
-    einen Artikel über die Kack & Sachgeschichten geschrieben. Zu Lesen ist der Beitrag
-    in der Print-Ausgabe vom 07. Juli 2026 oder online
-  last_post_date: "2026-07-07T10:36:58Z"
-  last_post_link: https://www.kackundsachgeschichten.de/wir-sind-im-hamburger-abendblatt
+  last_post_title: Programmvorschau / ab 12.10.26
+  last_post_description: ""
+  last_post_date: "2026-10-08T12:07:44Z"
+  last_post_link: https://www.kackundsachgeschichten.de/programmvorschau-ab-12-10-26
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: b0079186e634c91c18f38d2ae16f30da
+  last_post_guid: fae0c69d3d03419fcd72e039eaa823ba
   score_criteria:
     cats: 0
     description: 3

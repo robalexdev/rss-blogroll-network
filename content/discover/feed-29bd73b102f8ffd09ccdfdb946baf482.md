@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,15 +25,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: An Old News Post, and 20 Years of Pandoc
-  last_post_description: I recently noticed that over the last day or so I’d got increased
-    traffic to this rarely-visited website. Quite a few folks were reaching the home
-    page, and a surprising number were landing on an
-  last_post_date: "2026-08-04T13:30:00+20:00"
-  last_post_link: https://consequently.org/news/2026/20-years-of-pandoc/
+  last_post_title: 'Reasoning with Negations: The Australian Plan, Negation-as-Failure
+    and Card Selection Tasks (with Francesco Berto)'
+  last_post_description: 'Two kinds of formal semantics for negation can help us understand
+    puzzles in the psychology of reasoning: the Australian Plan semantics, which generalises
+    the account of negation found in frame'
+  last_post_date: "2026-09-25T00:00:00Z"
+  last_post_link: https://consequently.org/writing/rwn/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca1bad270ccd9d39d45dd1a00dfae326
+  last_post_guid: adeec8df0f855565426c9b24523cdc48
   score_criteria:
     cats: 0
     description: 3

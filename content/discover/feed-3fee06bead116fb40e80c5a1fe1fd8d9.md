@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 再退一步
-  last_post_description: 最近这两年我基本是满仓持股，在这基础上，如果要做超额收益，我用过下面这些方法。 1长电大跌时候融资买进，然后短线卖出薅羊毛。
-  last_post_date: "2026-08-03T07:43:18Z"
-  last_post_link: https://retire50blog.wang/invest/%e5%86%8d%e9%80%80%e4%b8%80%e6%ad%a5.html
+  last_post_title: 工行信用卡盗刷处理
+  last_post_description: 今年7月，我住在昆明，有一天吃早饭时候收到工行短信，说我一张内地的工行visa信用卡在境外消费，明显是被盗刷了。
+  last_post_date: "2026-09-27T14:24:40Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%b7%a5%e8%a1%8c%e4%bf%a1%e7%94%a8%e5%8d%a1%e7%9b%97%e5%88%b7%e5%a4%84%e7%90%86.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: 6fdbd60362bfc58de10955f48a2b20ff
+  last_post_guid: fbdb74638b28e6cc9f2acd67eccf3b1c
   score_criteria:
     cats: 0
     description: 0

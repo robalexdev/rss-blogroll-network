@@ -1,6 +1,6 @@
 ---
 title: willnorris.com
-date: "2026-09-10T20:29:07-07:00"
+date: "2026-10-10T15:34:18-07:00"
 description: ""
 params:
   feedlink: https://willnorris.com/atom.xml
@@ -13,7 +13,7 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: Blogrolle by Matthias Pfefferle
+  - title: Blogrolle von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   recommended: []

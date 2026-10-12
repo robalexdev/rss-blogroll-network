@@ -8,6 +8,7 @@ params:
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
     https://mxb.dev/: true
+    https://mxb.dev/notes/: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -47,6 +48,8 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme:
+    https://front-end.social/@mxbck: true
+    https://github.com/maxboeck: true
     https://mxb.dev/: true
   last_post_title: Faster Horses
   last_post_description: ""

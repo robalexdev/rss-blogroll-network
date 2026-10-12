@@ -10,47 +10,54 @@ params:
     https://www.uebersee-maedchen.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
+  - Apfel
   - Aus der Muffinform
-  - Backkakao
+  - Butter
   - Ei
-  - Espresso
+  - Fruchtige Kuchen mit Obst
+  - Herbstrezepte
+  - Karamell
+  - Koch mein Rezept
   - Mehl
   - Milch
-  - Schokolade
-  - Schokoladiges
-  - Sonnenblumenöl
-  - Zartbitterschokolade
+  - Minikuchen
+  - Mürbeteig
+  - Stärke
+  - Zimt
   - Zucker
-  - saure Sahne
+  - brauner Zucker
   relme: {}
-  last_post_title: Ultra saftige Schokomuffins dank zwei Tricks – besser als bei Olympia
-  last_post_description: Hast du schon einmal von den sagenumwobenen Schokomuffins
-    der Olympiade 2024 gehört? Nein? Ich auch nicht! Schwer vorstellbar, dass sich
-    die Sportler tatsächlich so schokoladige Muffins haben
-  last_post_date: "2026-09-09T04:30:00Z"
-  last_post_link: https://www.uebersee-maedchen.de/schokomuffins-espresso/
+  last_post_title: 'Mini Apple Pies: So backst du leckeren Apfelkuchen in der Muffinform'
+  last_post_description: Apfelkuchen ist schon lecker und Apple Pie nach amerikanischem
+    Vorbild ist auch ein Genuss. Doch im Miniformat aus der Muffinform sind die Apple
+    Pies unschlagbar gut. Denn sie sind einfach gebacken,
+  last_post_date: "2026-10-07T12:24:00Z"
+  last_post_link: https://www.uebersee-maedchen.de/mini-apple-pies/
   last_post_categories:
+  - Apfel
   - Aus der Muffinform
-  - Backkakao
+  - Butter
   - Ei
-  - Espresso
+  - Fruchtige Kuchen mit Obst
+  - Herbstrezepte
+  - Karamell
+  - Koch mein Rezept
   - Mehl
   - Milch
-  - Schokolade
-  - Schokoladiges
-  - Sonnenblumenöl
-  - Zartbitterschokolade
+  - Minikuchen
+  - Mürbeteig
+  - Stärke
+  - Zimt
   - Zucker
-  - saure Sahne
+  - brauner Zucker
   last_post_language: ""
-  last_post_guid: e3390a0c053a3926bdf7a5ae1aecc77c
+  last_post_guid: c116cb49cfc4a90c3ea647d4105b21d8
   score_criteria:
     cats: 0
     description: 3

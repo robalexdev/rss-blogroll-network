@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2026-07-28T08:12:20Z"
+date: "2026-09-20T09:11:06Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -25,35 +25,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 乱七八糟
   - 生活经验
+  - 美食
+  - 说过的话
   relme: {}
-  last_post_title: "家电维修\U0001F527"
+  last_post_title: "五仁月饼\U0001F96E"
   last_post_description: !!binary |
-    6ZqP552A5oiR6Ieq5bex55qE5bel5YW3566x6LaK5p2l6LaK5ruh77yM5Lul5Y+K55yL5L
-    qG5aW95Lqb5Liq5a+T5L+u5L6g5ZKM57Gz5biI5YKF55qE57u05L+u6K6w5b2V77yM5oiR
-    5Y+R546w5oiR6Ieq5bex5Lmf5bey57uP5aSE55CG5LqG5aW95aSa55qE5a626YeM5aSn5a
-    Sn5bCP5bCP55qE5rC05ZWK44CB55S15ZWK44CB5a6255S16K665LiD5YU=
-  last_post_date: "2026-07-28T08:12:20Z"
-  last_post_link: https://102no.com/2026/07/28/jia-dian-wei-xiu/
+    6Jm954S25bey57uP6L+H5Y675Yeg5Y2B5bm05LqG77yM5L2G5oiR6L+Y5piv6K6w5b6X5o
+    iR5ZCs6L+H55qE56ys5LiA6aaW6Lef5pyI6aW855u45YWz55qE5q2M5piv44CM5YWr5pyI
+    5Y2B5LqU5pyI5YS/5piO77yM54i354i357uZ5oiR5omT5pyI6aW844CN77yM6YKj5pe25Y
+    CZ5oiR6L+Y6Zeu5LqG5pyI6aW854qv5ZWl6ZSZ5LqG77yM5Li65ZWl6KY=
+  last_post_date: "2026-09-20T09:11:06Z"
+  last_post_link: https://102no.com/2026/09/20/wu-ren-yue-bing/
   last_post_categories:
-  - 乱七八糟
   - 生活经验
+  - 美食
+  - 说过的话
   last_post_language: ""
-  last_post_guid: 05346691e43e269bf507084ce83c7159
+  last_post_guid: 58fe183c52db041ea9d6f5ca31c0dcd8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -13,10 +13,10 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Blogroll by kuechenlatein
+  - title: Blogroll von kuechenlatein
     description: ""
     id: 1c6ae6b7966aca82d4f6cbcef0a996f3
   recommended: []

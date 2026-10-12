@@ -1,6 +1,6 @@
 ---
 title: Dustycloud Brainstorms
-date: "2026-08-30T11:24:23Z"
+date: "2026-09-13T13:13:30Z"
 description: Recent Posts
 params:
   feedlink: https://dustycloud.org/blog/index.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -29,18 +29,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: But where does taste come from?
+  last_post_title: Thank you for your contribution to the model
   last_post_description: |-
-    Another day, another blogpost
-    reflecting on "taste".
-    It's not a bad post, but there are a billion of these now, and the
-    irony of that is that this has tended to leave them fairly tasteless
-    and bland
-  last_post_date: "2026-08-30T09:30:00Z"
-  last_post_link: https://dustycloud.org/blog/but-where-does-taste-come-from/
+    Congratulations! Based on your wonderful and unique contributions to
+    society, you have been selected to train the model.  This is a real
+    honor!As you know, the government has partnered with the
+  last_post_date: "2026-09-13T13:15:00Z"
+  last_post_link: https://dustycloud.org/blog/thank-you-for-your-contribution-to-the-model/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: acef863a637ec835203caa8cd1d3e144
+  last_post_guid: d7de0276f286a5deb056c6c99283c91b
   score_criteria:
     cats: 0
     description: 3

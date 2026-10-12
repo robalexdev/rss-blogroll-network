@@ -1,6 +1,6 @@
 ---
 title: Mal schräg und mal schön
-date: "2026-09-05T16:13:00Z"
+date: "2026-09-15T15:05:00Z"
 description: Bloggerei
 params:
   feedlink: https://sabinedangel.de/index.php?/feeds/index.rss2=
@@ -10,7 +10,7 @@ params:
     https://sabinedangel.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   recommended: []
@@ -19,14 +19,14 @@ params:
   categories:
   - Foto
   relme: {}
-  last_post_title: Eine Tonwertkorrektur taugt was.
+  last_post_title: 'Fotogruppenerfahrungen: Rolf Markert'
   last_post_description: ""
-  last_post_date: "2026-09-05T18:13:00+02:00"
-  last_post_link: https://sabinedangel.de/index.php?/archives/303-Eine-Tonwertkorrektur-taugt-was..html
+  last_post_date: "2026-09-15T17:05:00+02:00"
+  last_post_link: https://sabinedangel.de/index.php?/archives/306-Fotogruppenerfahrungen-Rolf-Markert.html
   last_post_categories:
   - Foto
   last_post_language: ""
-  last_post_guid: f4f9da1ac4448ab1810a0edf87ca69bf
+  last_post_guid: 2e07380d30bc812b230e43791e3763d7
   score_criteria:
     cats: 0
     description: 3

@@ -19,13 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: songs with immaculate vibes only
-  last_post_description: ""
-  last_post_date: "2026-09-05T20:10:00Z"
-  last_post_link: https://sankalp.bearblog.dev/songs-with-immaculate-vibes-only/
+  last_post_title: Tracking Singularity
+  last_post_description: |-
+    trackingsingularity.com
+    After the OpenAI x HuggingFace hacking event, there have been weekly reports of agents escaping sandbox due to different reasons and then hacking websites to fulfill their
+  last_post_date: "2026-09-25T05:12:00Z"
+  last_post_link: https://sankalp.bearblog.dev/trackingsingularitycom/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2353143c250ef5adee31aa1d84419f0b
+  last_post_guid: 509b3b2daf907f67596c57f28094b722
   score_criteria:
     cats: 0
     description: 3

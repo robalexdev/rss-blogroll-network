@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Automattic CEO Matt Mullenweg Put on 'Leave of Absence'
-  last_post_description: Mullenweg, co-founder of WordPress, wrote in a company-wide
-    Slack messages on Wednesday, viewed by 404 Media, that board members "conspired"
-    behind his back to vote to put him on leave.
-  last_post_date: "2026-09-09T00:00:00Z"
-  last_post_link: https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/
+  last_post_title: Automattic’s Matt Mullenweg Claims He’s Back 'In Control'
+  last_post_description: Workers at Automattic, which owns WordPress.com and several
+    other platforms, have said the company has endured years of chaotic leadership
+    decisions.
+  last_post_date: "2026-09-11T00:00:00Z"
+  last_post_link: https://www.404media.co/automattic-matt-mullenweg-back-in-control/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 639216804f74b84aa8d910db262f1003
+  last_post_guid: d0f8c148f2145382b9eae80972d656ef
   score_criteria:
     cats: 0
     description: 3

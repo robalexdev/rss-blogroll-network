@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Scheduled GitHub Actions are now useless
+  last_post_title: Memory dump in Kubernetes with kubectl debug and dotnet-dump
   last_post_description: ""
-  last_post_date: "2026-05-19T00:00:00Z"
-  last_post_link: https://www.viblo.se/posts/scheduled-gh-actions/
+  last_post_date: "2026-09-26T00:00:00Z"
+  last_post_link: https://www.viblo.se/posts/kubectl-debug-memdump/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e812343ef108f16d4b9484f1ebab9a93
+  last_post_guid: 23410c6fc2056903acd376f2b87914d1
   score_criteria:
     cats: 0
     description: 0

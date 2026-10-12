@@ -1,6 +1,6 @@
 ---
 title: Kia Kamgar
-date: "2026-08-31T08:01:27Z"
+date: "2026-09-30T14:31:49Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -25,19 +25,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - monday muse
+  - tech minimalism
   relme:
     https://kiakamgar.com/: true
-  last_post_title: How to spot an online guru video
-  last_post_description: Why the absolute FUCK does every FUCKING editor or 'content
-    creator' feel the FUCKING need to start their videos with a FUCKING zoom effect?!
-    STOP THAT SHIT YOU CUNTS!! You...
-  last_post_date: "2026-08-31T08:03:18Z"
-  last_post_link: https://kiakamgar.com/posts/how-to-spot-an-online-guru-video
+  last_post_title: Guess what this team needs to do?
+  last_post_description: 'I received an email from a prospective client and want to
+    share exactly what they’re struggling with, so you know you’re not the only one…
+    Team Size: 7 people The Core Problem: The team spends'
+  last_post_date: "2026-09-30T14:35:52Z"
+  last_post_link: https://kiakamgar.com/posts/guess-what-this-team-needs-to-do
   last_post_categories:
-  - monday muse
+  - tech minimalism
   last_post_language: ""
-  last_post_guid: 17796930c36052568a409716f73c66d6
+  last_post_guid: 3bfa433b701d3d627d52bd5633349fe5
   score_criteria:
     cats: 0
     description: 0

@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Creating temporary files in Python
-  last_post_description: "How to create temporary files and directories in Python
-    using the tempfile module's NamedTemporaryFile and TemporaryDirectory.\n  \n    Making
-    a temporary file\n    \n      \n        To make a temporary"
-  last_post_date: "2026-09-04T14:30:00Z"
-  last_post_link: https://www.pythonmorsels.com/temporary-files/
+  last_post_title: Python 3.15's best new features
+  last_post_description: "Python 3.15 includes a UTF-8 default encoding, explicit
+    lazy imports, * unpacking in comprehensions, a new sampling profiler, sentinel,
+    frozendict, and more!\n  \n    A UTF-8 default encoding\n    \n    "
+  last_post_date: "2026-10-09T14:11:31Z"
+  last_post_link: https://www.pythonmorsels.com/python315/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: be45b6d14628934557343e8f24ad062d
+  last_post_guid: 2d22bc1aeb681a30f7b350a8b5f36310
   score_criteria:
     cats: 0
     description: 3

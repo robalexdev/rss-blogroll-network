@@ -1,0 +1,71 @@
+---
+title: Blogs
+date: Thu, 01 Oct 2026 19:26:51 +0000
+description: ""
+params:
+  link: https://hnz.io/blogroll.opml
+  blogroll_id: 21f44cf846ebeed4e7c0bc5913fba0f6
+  recommends:
+  - title: kopfzeiler.org
+    description: Ein Blog von Johannes Kuhn
+    id: 00cd2fe2e8b5e91618afd17a0c01142b
+  - title: Setup/Punchline
+    description: Magazin für Stand-up-Comedy
+    id: 05ee1356725974223626d0cde385dd01
+  - title: TextHacks
+    description: Nie mehr mittelmäßige Texte ins Internet schreiben
+    id: 0aa2113754ecc39bcf9f6742b6ebb138
+  - title: HerrMontag.de
+    description: ~ Janitor of Lunacy ~
+    id: 2b3cd2c308a7881710a7d043dd0b2eb1
+  - title: vowe dot net
+    description: Ceci n'est pas un blog
+    id: 2bfd79f7c8edf951ef623050c44bd2d9
+  - title: Stefan Niggemeier
+    description: Medienjournalist
+    id: 310df603f7a7c661002d2d342cc06d3a
+  - title: Buddenbohm & Söhne
+    description: ""
+    id: 5246913fe2a11f4040880dfd15d109c4
+  - title: Der Schockwellenreiter
+    description: Schockwellenreiter
+    id: 5d3b439d1ccfab46e0fe5c46a1642edb
+  - title: Techniktagebuch
+    description: ""
+    id: 625e2c613eaebebf91e177e054512199
+  - title: eay.cc
+    description: Weblog von Stefan Grund
+    id: 652dfb71bbc66dc87ea9f714bbe37710
+  - title: wirres.net
+    description: wirres von ix
+    id: 670a9439a06e645196f7cdd627dda507
+  - title: kottke.org
+    description: Jason Kottke's weblog, home of fine hypertext products since 1998
+    id: 7626d2d6fa86e02e6ad59760e54e7c54
+  - title: Maurice Renck
+    description: ""
+    id: 88d38e5b88788efc375afceb73ee3691
+  - title: Daring Fireball
+    description: By John Gruber
+    id: 9a8beca635082f03992038bfdab4d14d
+  - title: heinzlive – News aus der digitalen Kneipe
+    description: Neue YouTube-Videos und die heutigen Livestreams von heinzlive.
+    id: 9f013d8e334a6175e42ea40c60afc427
+  - title: Thomas Gigold
+    description: Creative. Social. Content. Strategy.
+    id: b22870d673f35ed8f32327f0078436dd
+  - title: Christoph
+    description: RSS Feed für Beiträge
+    id: bb326a43601ff5af87c4f8306201a3fc
+  - title: REAL VIRTUALITY
+    description: Alexander Matzkeit Ã¼ber Film und Medien
+    id: d8e9b2a241eac92c9296ba313e56c15a
+  - title: MeTacheles
+    description: Der Newsletter von Sascha Pallenberg rund um Netzkultur, Tech, Mobilitaet,
+      Nachhaltigkeit und all dem, was er auf seinen Reisen durch die Tiefen des Netzes
+      erlebt.
+    id: d93dd4a00a28e3ddca9b905af51e3dbd
+  - title: Rivva Blog
+    description: Rivva Blog
+    id: f6373f2b1417fc46d64630abdc189892
+---

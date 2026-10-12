@@ -10,29 +10,32 @@ params:
     https://alwikocht.wordpress.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Gärtnerei Ullrich
+  - Fisch und Krustentiere
+  - Hauptgericht
+  - Kabeljau
+  - Linsen
   - Salat und Gemüse
-  - Schlupperkohl
   relme: {}
-  last_post_title: Kasseler Strünkchen
-  last_post_description: Kasseler Strünkchen, auch Schlupperkohl genannt, ist eine
-    nordhessische Spezialität. Diese seltene Salatpflanze aus Großmutters Küche kehrt
-    derzeit in der Region zurück. Meine Internetrecherche
-  last_post_date: "2026-08-14T06:06:35Z"
-  last_post_link: https://alwikocht.wordpress.com/2026/08/14/kasseler-strunkchen/
+  last_post_title: Kabeljau auf Linsen
+  last_post_description: 'Kabeljau: Den gesalzenen und gepfefferten Kabeljau leicht
+    in Mehl wenden und in Butter bei milder Hitze garen. Ein Zweig Rosmarin, Knoblauch
+    und Ingwer kommen mit in die Butter. Linsen: Die Linsen'
+  last_post_date: "2026-10-03T09:36:52Z"
+  last_post_link: https://alwikocht.wordpress.com/2026/10/03/kabeljau-auf-linsen/
   last_post_categories:
-  - Gärtnerei Ullrich
+  - Fisch und Krustentiere
+  - Hauptgericht
+  - Kabeljau
+  - Linsen
   - Salat und Gemüse
-  - Schlupperkohl
   last_post_language: ""
-  last_post_guid: bdcf1972d07590f3ff87858c2a20979a
+  last_post_guid: 7f95b0daa37eafa880e461f5f5e1a069
   score_criteria:
     cats: 0
     description: 3

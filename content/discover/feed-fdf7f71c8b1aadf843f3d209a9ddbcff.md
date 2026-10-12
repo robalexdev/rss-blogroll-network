@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-09-11T09:50:44Z"
+date: "2026-10-11T14:12:56Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,28 +29,33 @@ params:
   recommender: []
   categories:
   - "2026"
+  - data protection
+  - tech
   relme: {}
-  last_post_title: after all... why not?
-  last_post_description: '>:)'
-  last_post_date: "2026-09-10T13:56:19Z"
-  last_post_link: https://blog.avas.space/why-not/
+  last_post_title: a (temporary) win for meta glasses in the classroom
+  last_post_description: Discussing an Austrian case of a student wearing Meta glasses
+    during school classes.
+  last_post_date: "2026-10-11T13:37:07Z"
+  last_post_link: https://blog.avas.space/smart-glasses-school/
   last_post_categories:
   - "2026"
+  - data protection
+  - tech
   last_post_language: ""
-  last_post_guid: 4a2a35c9dd459f4eb05053a31cecc00e
+  last_post_guid: 8ea68a2c31f80cf1630559ea5d9c2eec
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

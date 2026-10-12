@@ -32,11 +32,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Matt Mullenweg tells Automattic staff in Slack he's back in control
-    after ouster
+  last_post_title: Chapter 1 of Ways of Seeing by John Berger
   last_post_description: Comments
-  last_post_date: "2026-09-11T15:29:35Z"
-  last_post_link: https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/
+  last_post_date: "2026-10-11T18:26:24Z"
+  last_post_link: https://www.ways-of-seeing.com/ch1
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

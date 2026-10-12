@@ -1,6 +1,6 @@
 ---
 title: SeanKilleen.com
-date: "2026-09-11T10:29:10Z"
+date: "2026-10-11T19:52:50Z"
 description: Ramblings on bytes and life.
 params:
   feedlink: https://seankilleen.com/feed.xml
@@ -26,6 +26,8 @@ params:
   - personal
   - service
   relme:
+    https://github.com/SeanKilleen: true
+    https://mastodon.social/@sjkilleen: true
     https://seankilleen.com/: true
   last_post_title: Thoughts on Picking Up Trash
   last_post_description: We got a two pack of those grabbers that pick things up (not

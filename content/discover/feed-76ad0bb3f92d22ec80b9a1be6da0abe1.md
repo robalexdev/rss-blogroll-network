@@ -15,23 +15,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - emacs
-  - emacs-news
+  - experiment
+  - life
   relme: {}
-  last_post_title: 2026-09-07 Emacs news
+  last_post_title: Continuing my experiment with (semi-)retirement
   last_post_description: |-
-    The Emacs Carnival theme for September is "Games". Enjoy! Other really cool uses of graphics in Emacs: org-timegrid, poimap, canvas-minimap.
-
-
-
-    Also, public service announcement: doomemacs.com is not
-  last_post_date: "2026-09-07T23:44:14Z"
-  last_post_link: https://sachachua.com/blog/2026/09/2026-09-07-emacs-news/
+    As I mentioned, the kiddo is 10, so this is an especially good opportunity to focus on spending time with her.
+      I think she might be twice-exceptional.
+      We're starting to see some areas where she
+  last_post_date: "2026-10-09T18:58:09Z"
+  last_post_link: https://sachachua.com/blog/2026/10/continuing-my-experiment-with-semi-retirement/
   last_post_categories:
-  - emacs
-  - emacs-news
+  - experiment
+  - life
   last_post_language: ""
-  last_post_guid: f63f875760ef4f24dbf99337733c725a
+  last_post_guid: 3d5bca509c519730b55a75247e8bc1b8
   score_criteria:
     cats: 0
     description: 3

@@ -65,13 +65,13 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Fault Taunting
+  last_post_title: Dogcatcher
   last_post_description: ""
-  last_post_date: "2026-09-09T04:00:00Z"
-  last_post_link: https://xkcd.com/3296/
+  last_post_date: "2026-10-09T04:00:00Z"
+  last_post_link: https://xkcd.com/3309/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58f9ef05655ee0861115aa5a5b45fd56
+  last_post_guid: 1d334b62bed4b8d3772c937e0d45f6c6
   score_criteria:
     cats: 0
     description: 3

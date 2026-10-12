@@ -1,6 +1,6 @@
 ---
 title: 云游君的小站
-date: "2026-08-25T08:11:58Z"
+date: "2026-10-04T22:36:34Z"
 description: 希望能成为一个有趣的人
 params:
   feedlink: https://www.yunyoujun.cn/atom.xml
@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 开源项目的「死与新生」
-  last_post_description: ""
-  last_post_date: "2025-05-20T00:00:00Z"
-  last_post_link: https://www.yunyoujun.cn/posts/death-and-rebirth-of-open-source-projects
+  last_post_title: '小云梦工坊 #01：用 AI 复活七年前的 ak-ui'
+  last_post_description: 小云梦工坊第一期，从七年前的 ak-ui 出发，聊聊一个停更项目的重新启动。
+  last_post_date: "2026-09-12T00:00:00Z"
+  last_post_link: https://www.yunyoujun.cn/posts/xiaoyun-studio-01-ak-ui
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 07486d1e9257d4182213bd12cad20edd
+  last_post_guid: d618a1bb9ec56cabeebe029480c1364e
   score_criteria:
     cats: 0
     description: 3

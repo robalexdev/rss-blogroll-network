@@ -10,7 +10,7 @@ params:
     https://www.satisfice.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -22,33 +22,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Metrics
-  - Testing Culture
+  - AI and Testing
+  - Management
+  - Process Dynamics
+  - Skills
   relme: {}
-  last_post_title: This Fact About KPIs May Surprise You
-  last_post_description: Nobody who creates actual products or does actual useful
-    work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face
-    do anything that matters. If you measured eyerolls per
-  last_post_date: "2026-08-24T02:34:04Z"
-  last_post_link: https://www.satisfice.com/blog/archives/488189
+  last_post_title: Software Engineers Are Becoming More Like Lawyers
+  last_post_description: I am working on a project I can’t say much about, except
+    that it involves the systematic testing of Claude Opus as a coding agent. I got
+    onto the project based on my background in software
+  last_post_date: "2026-10-01T09:10:19Z"
+  last_post_link: https://www.satisfice.com/blog/archives/488216
   last_post_categories:
-  - Metrics
-  - Testing Culture
+  - AI and Testing
+  - Management
+  - Process Dynamics
+  - Skills
   last_post_language: ""
-  last_post_guid: cd1713eb8183c98300198bf10e2e5187
+  last_post_guid: d2265d6e7cd5c78bcd20b4eb1431bcb9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,8 +1,9 @@
 ---
 title: Alberto Gallego
-date: "2026-08-28T18:16:09Z"
-description: Independent software developer. I build Mac and web apps like Picmal
-  and Cozy Journal, and write essays on making things, curiosity, and philosophy.
+date: "1970-01-01T00:00:00Z"
+description: I’m Alberto Gallego. I build software, write, take photos, and explore
+  whatever catches my attention. I also work with founders and small teams to turn
+  interesting ideas into real products.
 params:
   feedlink: https://albertogalca.com/feed.xml
   feedtype: rss
@@ -14,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -33,16 +34,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A chat about curiosity, imperfection, and knowing when enough is
-    enough
-  last_post_description: A few days ago, İsmail sent me an email asking if he could
-    send me some questions to answer for his Turkish-language blog. I really liked
-    the questions and thought they would fit well here on my
-  last_post_date: "2026-08-27T00:00:00Z"
-  last_post_link: https://albertogalca.com/an-interview-about-curiosity-and-enough
+  last_post_title: Things I've been thinking lately
+  last_post_description: Notes I kept coming back to this year. On death, on bodies,
+    on playing, on not chasing happiness, and on living close to the things you love.
+  last_post_date: "2026-09-21T00:00:00Z"
+  last_post_link: https://albertogalca.com/things-ive-been-thinking-lately/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f54bf17380aa9f7502af8df0a45528c
+  last_post_guid: 20a2275bc8c02a073b0824938918a43d
   score_criteria:
     cats: 0
     description: 3

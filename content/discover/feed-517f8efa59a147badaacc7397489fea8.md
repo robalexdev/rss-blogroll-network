@@ -13,41 +13,35 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
-  categories:
-  - architecture
-  - commercial software
-  - podcast
+  categories: []
   relme: {}
-  last_post_title: 'Podcast Episode 103: Enterprise developer villain origin story'
-  last_post_description: Hello everyone, welcome to here. Apologies for the long delay,
-    life takes over sometimes. Here's an episode that was recorded almost a month
-    ago, but I couldn't get to release it because of technical
-  last_post_date: "2026-09-07T17:13:07Z"
-  last_post_link: https://blog.vasi.li/podcast-episode-103-enterprise-developer-villain-origin-story/
-  last_post_categories:
-  - architecture
-  - commercial software
-  - podcast
+  last_post_title: 'Podcast Episode 104: Beyond distributed consensus'
+  last_post_description: Today we have Robert back with us and we continue where we
+    left off.Unfortunately due to a technical issue during recording my audio is atrocious,
+    but it was recorded that way, sadly, and there's not
+  last_post_date: "2026-09-14T16:58:06Z"
+  last_post_link: https://blog.vasi.li/podcast-episode-104-beyond-distributed-consensus/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6668a136b188d2bf98e161906b34950f
+  last_post_guid: 6149d4f3034912aa08705d1a1bb3258b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

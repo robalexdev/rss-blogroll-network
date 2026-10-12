@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,37 +25,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ASEBP
   - Crime Analysis
-  - Crime Mapping
   - Criminal Justice
-  - Papers
+  - LLM
   - Personal Productivity
+  - Python
   - data science
   - scholarly
-  - social networking
-  - training
+  - writing
   relme: {}
-  last_post_title: Join CrimConsortium, ASEBP submissions open, VerusCite privacy,
-    NACA Course
-  last_post_description: 'I have minor updates for several activities. First, the
-    American Society of Evidence-Based Policing is accepting submissions for its conference
-    in spring 2027 at UPenn: If you are a vendor interested'
-  last_post_date: "2026-09-02T19:37:51Z"
-  last_post_link: https://andrewpwheeler.com/2026/09/02/join-crimconsortium-asebp-submissions-open-veruscite-privacy-naca-course/
+  last_post_title: VerusCite is now $1, Crime De-Coder Store updates, CCJ Homicide
+    Report, and some more AI papers
+  last_post_description: For several minor updates across my different projects. One,
+    I have updated my Crime De-Coder store where I sell my books and software. Before,
+    it was a WooCommerce site, which worked ok (pure GUI
+  last_post_date: "2026-10-08T17:30:27Z"
+  last_post_link: https://andrewpwheeler.com/2026/10/08/veruscite-is-now-1-crime-de-coder-store-updates-ccj-homicide-report-and-some-more-ai-papers/
   last_post_categories:
-  - ASEBP
   - Crime Analysis
-  - Crime Mapping
   - Criminal Justice
-  - Papers
+  - LLM
   - Personal Productivity
+  - Python
   - data science
   - scholarly
-  - social networking
-  - training
+  - writing
   last_post_language: ""
-  last_post_guid: e35deba5a396ec35f267b1c01770911b
+  last_post_guid: 09644ec984b6461889b2c0a7f3d9e948
   score_criteria:
     cats: 0
     description: 3

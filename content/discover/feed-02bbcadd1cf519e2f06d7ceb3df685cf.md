@@ -1,6 +1,6 @@
 ---
 title: Wolkenfees Küchenwerkstatt
-date: "2026-09-10T18:36:44+02:00"
+date: "2026-10-11T21:46:55+02:00"
 description: Foodblog mit gelingsicheren Rezepten zum Kochen und Backen
 params:
   feedlink: https://wolkenfeeskuechenwerkstatt.blogspot.com/feeds/posts/default
@@ -10,12 +10,11 @@ params:
     https://wolkenfeeskuechenwerkstatt.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
   - A
   - Abnahme
@@ -79,31 +78,31 @@ params:
   - Wok
   - veggie Hausmannskost
   relme: {}
-  last_post_title: Spaghetti mit Garnelen in Knoblauchöl und Cocktailtomaten
-  last_post_description: Spaghetti in allen Variationen könnte ich jeden Tag essen.
-    Eines meiner liebsten und schnellsten Rezepte sind Spaghetti mit Garnelen.Man
-    kann frische, tiefgekühlte oder bereits blanchierte Garnelen
-  last_post_date: "2026-09-09T11:06:37+02:00"
-  last_post_link: https://wolkenfeeskuechenwerkstatt.blogspot.com/2026/09/spaghetti-mit-garnelen-in-knoblauchol.html
+  last_post_title: Polpette di salsiccia al sugo - Italienische Fleischbällchen in
+    Tomatensauce
+  last_post_description: An einem warmen Sommertag war es mal wieder soweit. Wir Rhein-Neckar-Blogger
+    Mädels trafen uns und verbrachten einen schönen Nachmittag zusammen. Mit leckerem
+    Essen und von Angesicht zu Angesicht
+  last_post_date: "2026-09-15T14:55:57+02:00"
+  last_post_link: https://wolkenfeeskuechenwerkstatt.blogspot.com/2026/09/polpette-di-salsiccia-al-sugo.html
   last_post_categories:
-  - A
-  - B
-  - Pasta
+  - Event
+  - Fleisch
   last_post_language: ""
-  last_post_guid: c507e5f34d5a34ae90d950dbe41122ca
+  last_post_guid: d08dec615002ce4a5810843dfcadad5a
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 24
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: osa1.net - All posts
-date: "2026-08-29T00:00:00Z"
+date: "2026-09-26T00:00:00Z"
 description: ""
 params:
   feedlink: https://osa1.net/rss.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Coherence and orphan instance rules
-  last_post_description: Typeclasses are an overloading mechanism that allows compile
-    time or runtime polymorphism. A typeclass method call like m a b ... (or a.m(b,
-    ...) in Rust) resolves to a concrete method based on the
-  last_post_date: "2026-08-29T00:00:00Z"
-  last_post_link: http://osa1.net/posts/2026-08-29-coherence-and-orphans.html
+  last_post_title: Presence polymorphism
+  last_post_description: |-
+    I’ve been blogging about row polymorphism since 2013 (a life wasted?) but I only learned about presence polymorphism, which is a very related concept, recently.
+    For types with labels like records
+  last_post_date: "2026-09-26T00:00:00Z"
+  last_post_link: http://osa1.net/posts/2026-09-26-presence-polymorphism.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80de86e6d711f59ea4bf43356eb189c2
+  last_post_guid: e92190af7fda5e2c79ddfd65ae4243dc
   score_criteria:
     cats: 0
     description: 0

@@ -21,15 +21,14 @@ params:
   categories:
   - Verkehrswende
   relme: {}
-  last_post_title: 'Auto: Verbrenner verursachen weltweit Umwelt- und Gesundheitskosten
-    in Billionenhöhe'
-  last_post_description: submitted by schnurrito to verkehrswende8 points | 1 commentshttps://www.spiegel.de/mobilitaet/auto-verbrenner-verursachen-weltweit-umwelt-und-gesundheitskosten-in-billionenhoehe-a-bd70e55d-ee9b-423d
-  last_post_date: "2026-09-11T14:44:45Z"
-  last_post_link: https://feddit.org/post/35304680
+  last_post_title: Wieder mehr Fahrgäste in Bus und Bahn
+  last_post_description: submitted by schnurrito to verkehrswende15 points | 3 commentshttps://bahnblogstelle.com/263979/wieder-mehr-fahrgaeste-in-bus-und-bahn/
+  last_post_date: "2026-10-08T09:13:59Z"
+  last_post_link: https://feddit.org/post/36431552
   last_post_categories:
   - Verkehrswende
   last_post_language: ""
-  last_post_guid: f9db177c44f7dd15764a9d8fdde8585c
+  last_post_guid: 03e39ab0760d8b4d2de6abbc559f8b32
   score_criteria:
     cats: 0
     description: 3

@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Long Decline of America
-  last_post_description: It began decades before Trump
-  last_post_date: "2026-09-11T10:31:00Z"
-  last_post_link: https://paulkrugman.substack.com/p/the-long-decline-of-america
+  last_post_title: Will AI Crowd Out Jobs?
+  last_post_description: A different and alarming take on the economic risks
+  last_post_date: "2026-10-11T10:31:20Z"
+  last_post_link: https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca5bf05ea5d52a1e2ca8753f82992404
+  last_post_guid: a259731d793a784a5531b801f42ac040
   score_criteria:
     cats: 0
     description: 3

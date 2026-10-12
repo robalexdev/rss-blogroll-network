@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -35,7 +35,7 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Blogrolle by Matthias Pfefferle
+  - title: Blogrolle von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: QuiteRSS
@@ -47,7 +47,10 @@ params:
   - title: Simon Carstensen Blogroll
     description: ""
     id: ea1b7316b10d815081161f765266ec3c
-  - title: Blog'n'Roll by Webrocker
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
+  - title: Blog'n'Roll von Webrocker
     description: ""
     id: d20d1bbab5fd148ac942491c608dcc8a
   - title: Ton's Blogroll (human and machine readable, you can import this file into
@@ -70,35 +73,33 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   - https://simonbc.com/feed.xml
+  - https://stephanmax.com/feed.xml
   - https://webrocker.de/comments/feed/
   - https://webrocker.de/feed/
   - https://webrocker.de/feed/atom/
   categories:
-  - brighton
-  - concert
-  - event
-  - gig
-  - live
-  - music
-  - saltercane
+  - book
+  - review
+  - sci-fi
+  - sciencefiction
+  - short
+  - stories
   relme: {}
-  last_post_title: Salter Cane this Saturday
-  last_post_description: |-
-    Looking for something to do in Brighton this weekend? I’ve got ya covered.
-
-    Come to the excellent Prince Albert pub on Trafalger Street at 8pm on Saturday, September 5th. Head upstairs with your
-  last_post_date: "2026-09-02T15:23:20Z"
-  last_post_link: https://adactio.com/journal/22744
+  last_post_title: Lake Of Souls by Ann Leckie
+  last_post_description: In some ways, the short story is the ideal format for science
+    fiction. If science fiction is all about ideas, a short story is a way to take
+    an idea and play it out without any obligation to build a
+  last_post_date: "2026-10-06T15:31:23Z"
+  last_post_link: https://adactio.com/journal/22790
   last_post_categories:
-  - brighton
-  - concert
-  - event
-  - gig
-  - live
-  - music
-  - saltercane
+  - book
+  - review
+  - sci-fi
+  - sciencefiction
+  - short
+  - stories
   last_post_language: ""
-  last_post_guid: 6e8e31298c6cdc3771f8a37fd3f1464f
+  last_post_guid: 5dde76d390afcdd72f995723205fed01
   score_criteria:
     cats: 0
     description: 3

@@ -20,7 +20,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: robalexdev
@@ -67,20 +67,19 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - AI
-  - Tech
+  - Links
+  - Zelda
   relme: {}
-  last_post_title: Did OpenAI hack Hugging Face or didn’t they?
-  last_post_description: 'Laurie Voss, regarding OpenAI hacking Hugging Face: All
-    the news coverage of this seems to have boiled down to: wow, models are clever
-    these days! And that confuses the hell out of me. Models are'
-  last_post_date: "2026-08-01T20:06:45Z"
-  last_post_link: https://josh.blog/2026/08/did-openai-hack-hugging-face-or-didnt-they
+  last_post_title: 'Legend of Zelda: Ocarina of Time'
+  last_post_description: I don’t know how I’m going to find time to play this but
+    it looks so good!
+  last_post_date: "2026-10-09T02:07:28Z"
+  last_post_link: https://josh.blog/2026/10/legend-of-zelda-ocarina-of-time
   last_post_categories:
-  - AI
-  - Tech
+  - Links
+  - Zelda
   last_post_language: ""
-  last_post_guid: dc57190a1142f16d50266faf84b937d6
+  last_post_guid: 9f6f9baf3f3e7d8958e5f57541c6a4cc
   score_criteria:
     cats: 0
     description: 3

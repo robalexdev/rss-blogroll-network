@@ -22,27 +22,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - InfiniBand
-  - RDMA
-  - RoCE
-  - 网络
-  - 运维
-  - 高性能计算
+  - AI Agent
+  - AppLab
+  - VibeCoding
+  - 平台
+  - 研发
+  - 部署
   relme: {}
-  last_post_title: RDMA 运维
-  last_post_description: '1. RoCE 1.1 连接要求 RDMA 要求端到端同一类网络，比如同一个 B 段网。 单交换机。 RoCE:
-    主机 NIC ── 以太交换机(PFC) ── 对端 NIC 多台交换机。 RoCE:'
-  last_post_date: "2026-08-22T00:00:00Z"
-  last_post_link: https://www.chenshaowen.com/blog/rdma-ops.html
+  last_post_title: 更适合 VibeCoding 的应用部署平台 - AppLab
+  last_post_description: 这是一个开源项目 https://github.com/shaowenchen/applab 1. 使用 AppLab
+    开发一个应用 克隆仓库 1 git clone https://x:xxx@applab.chenshaowen.com/applab/git/app.git
+    让 Agent 开发 1
+  last_post_date: "2026-09-27T00:00:00Z"
+  last_post_link: https://www.chenshaowen.com/blog/applab.html
   last_post_categories:
-  - InfiniBand
-  - RDMA
-  - RoCE
-  - 网络
-  - 运维
-  - 高性能计算
+  - AI Agent
+  - AppLab
+  - VibeCoding
+  - 平台
+  - 研发
+  - 部署
   last_post_language: ""
-  last_post_guid: 3564f732db2059e6e745ffe6a3fa2574
+  last_post_guid: d36542ac389d57bd2bccdb40d0b148a3
   score_criteria:
     cats: 0
     description: 3

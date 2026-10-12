@@ -10,45 +10,62 @@ params:
     https://kathyloves.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
+  - Backen
+  - Brot im Glas haltbar machen
   - Einkochen
   - Food
-  - Frühling
-  - Getränke
+  - Food Photography
+  - Food Styling
+  - Fotografie
+  - Frühstück
   - Haltbar machen
+  - Klassiker
   - Kochen - Rezepte für jeden Tag
+  - Kooperation
+  - Kuchen
+  - Kuchen im Glas
   - Rezepte
   - Saison
-  - Sirup
-  - Säfte & Sirup haltbar machen
+  - Sweet Bakery
   - Vorratskammer
+  - Zusammenarbeit
+  - daheeme.com
   relme: {}
-  last_post_title: Fliederblüten Sirup
-  last_post_description: Fliederblüten ernten und als Sirup haltbar machen Wusstest
-    du, dass die Blüten des gewöhnlichen Flieder, auch gemeiner Flieder, Edelflieder
-    oder Syringa vulgaris… Continue Reading Fliederblüten
-  last_post_date: "2026-05-12T05:10:01Z"
-  last_post_link: https://kathyloves.de/fliederblueten-sirup/
+  last_post_title: Brioche im Glas
+  last_post_description: |-
+    *enthält Werbung für daheeme.com Kuchen und Brot im Glas haltbar machen Marmelade, Kompott, eingekochtes Obst und Gemüse gehören bei mir einfach immer… Continue Reading Brioche im Glas
+    Der
+  last_post_date: "2026-10-05T05:15:00Z"
+  last_post_link: https://kathyloves.de/brioche-im-glas/
   last_post_categories:
+  - Backen
+  - Brot im Glas haltbar machen
   - Einkochen
   - Food
-  - Frühling
-  - Getränke
+  - Food Photography
+  - Food Styling
+  - Fotografie
+  - Frühstück
   - Haltbar machen
+  - Klassiker
   - Kochen - Rezepte für jeden Tag
+  - Kooperation
+  - Kuchen
+  - Kuchen im Glas
   - Rezepte
   - Saison
-  - Sirup
-  - Säfte & Sirup haltbar machen
+  - Sweet Bakery
   - Vorratskammer
+  - Zusammenarbeit
+  - daheeme.com
   last_post_language: ""
-  last_post_guid: addac85666dc013775a1ad6467c77b6b
+  last_post_guid: cc7d4d72ac11858e21b9c0592fc91995
   score_criteria:
     cats: 0
     description: 3

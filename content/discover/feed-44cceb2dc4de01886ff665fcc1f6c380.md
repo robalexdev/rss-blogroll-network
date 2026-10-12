@@ -10,36 +10,39 @@ params:
     https://magentratzerl.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
-  - title: Blogroll by kuechenlatein
+  - title: Blog-Roll von Sabine
+    description: ""
+    id: 628266ed2de64c9d666bcdbaeabfaa2c
+  - title: Blogroll von kuechenlatein
     description: ""
     id: 1c6ae6b7966aca82d4f6cbcef0a996f3
   recommended: []
   recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  - https://einfach-kochen-und-mehr.de/feed/
   - https://kuechenlatein.com/comments/feed/
   - https://kuechenlatein.com/feed/
   categories:
+  - Aus dem Ofen
+  - Hauptgericht
+  - Hongkong
   - Rezepte
-  - Räucherfisch
-  - Seetang
-  - Snack
   relme: {}
-  last_post_title: Wrap à la bretonne
-  last_post_description: Beitrag enthält Werbung für Biovie Ich mag jegliche Form
-    von Seetang wirklich gerne – das jodige Meeresaroma und das Umami, das ist genau
-    meins. Nebenbei sind Algen auch sehr gesund – reich an
-  last_post_date: "2026-09-11T05:30:00Z"
-  last_post_link: https://magentratzerl.de/2026/09/11/wrap-a-la-bretonne/
+  last_post_title: Spaghetti-Bolognese-Auflauf wie in Hongkong (焗肉醬意粉)
+  last_post_description: Es mag erst mal seltsam klingen, aber das ist ein typisches
+    Gericht aus Hongkong; es wird gerne in den dortigen Teehäusern serviert. Wie das
+    Gericht in die Stadt kam, liegt ein wenig im Dunklen;
+  last_post_date: "2026-10-10T05:32:00Z"
+  last_post_link: https://magentratzerl.de/2026/10/10/spaghetti-bolognese-auflauf-wie-in-hongkong-%e7%84%97%e8%82%89%e9%86%ac%e6%84%8f%e7%b2%89/
   last_post_categories:
+  - Aus dem Ofen
+  - Hauptgericht
+  - Hongkong
   - Rezepte
-  - Räucherfisch
-  - Seetang
-  - Snack
   last_post_language: ""
-  last_post_guid: 05bf0453efd90a1e2611856ad36bd7bf
+  last_post_guid: a73a319ab63ec63ba3f0d8a6a2381ef7
   score_criteria:
     cats: 0
     description: 3

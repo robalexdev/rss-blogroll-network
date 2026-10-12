@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -37,15 +37,15 @@ params:
     https://github.com/igorkulman: true
     https://hachyderm.io/@igorkulman: true
     https://www.kulman.sk/: true
-  last_post_title: Why Pi is my AI coding harness
-  last_post_description: |-
-    I want to experiment with AI models without rebuilding my coding workflow every time I switch. Pi has become the stable layer around those experiments.
-    By “harness”, I mean the command-line
-  last_post_date: "2026-09-02T05:29:12+01:00"
-  last_post_link: https://blog.kulman.sk/pi-is-now-my-ai-harness/
+  last_post_title: Using the same hostnames at home and over Tailscale
+  last_post_description: In my previous post about my terminal-native setup for coding
+    agents, I described using Heeler to connect from my iPhone to Herdr running on
+    my Mac. Heeler connects over SSH through Tailscale, but
+  last_post_date: "2026-09-30T05:29:12+01:00"
+  last_post_link: https://blog.kulman.sk/same-hostnames-at-home-and-over-tailscale/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 98a8c1cfe86396e9e0802f36342c5c65
+  last_post_guid: 196d7fbfe3e393b23bc66a7a4c0a5f2d
   score_criteria:
     cats: 0
     description: 3

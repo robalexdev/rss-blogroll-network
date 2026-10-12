@@ -20,18 +20,18 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - Allgemein
+  - Nachrichtensortiermaschine
   relme: {}
-  last_post_title: Gewerbemieten und Innenstadtverödung
-  last_post_description: Die Badische Zeitung hat einen Artikel über die schwierige
-    Situation in der Freiburger Innenstadt Gewerbeimmobilien zu vermieten. Anscheinend
-    gibt es hier die Situation, dass die Nachfrage nicht
-  last_post_date: "2026-08-31T16:53:31Z"
-  last_post_link: https://schmalenstroer.net/blog/2026/08/gewerbemieten-und-innenstadtveroedung/
+  last_post_title: Nachrichtensortiermaschine 20260930
+  last_post_description: 'Es gibt eine neue Version meiner Nachrichtensortiermaschine
+    und diese kommt mit zahlreichen Verbesserungen. Wer sie noch nicht kennt: Die
+    Nachrichtensortiermaschine ist ein RSS-Reader, der alle'
+  last_post_date: "2026-09-30T17:37:27Z"
+  last_post_link: https://schmalenstroer.net/blog/2026/09/nachrichtensortiermaschine-20260930/
   last_post_categories:
-  - Allgemein
+  - Nachrichtensortiermaschine
   last_post_language: ""
-  last_post_guid: 93fad427dd8e2e3d646ac3c48e6f79e7
+  last_post_guid: b264e9a4349e8730b9db498c4d0114d0
   score_criteria:
     cats: 0
     description: 0

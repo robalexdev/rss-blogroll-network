@@ -17,7 +17,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -45,15 +45,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Finding Problems
-  last_post_description: As a designer, I see lots of little problems in the world.
-    I look at something in search of its flaws. I will be bothered that things have
-    to be the way they are. And then I channel that negative
-  last_post_date: "2026-08-25T14:30:00+09:00"
-  last_post_link: https://lmnt.me/blog/finding-problems.html
+  last_post_title: Bullet Time!
+  last_post_description: "I must interrupt my regularly scheduled programming to bring
+    you what must be the most inspired piece of art I’ve seen in a long time.\n\t\tBullet
+    Time! by Eddie Alcazar is remarkable. It is"
+  last_post_date: "2026-10-08T08:20:00+09:00"
+  last_post_link: https://lmnt.me/blog/bullet-time.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 08511cba08917dcc154ff8ed075c1788
+  last_post_guid: 049aa30e70bfb3c2fb3919a6c748114b
   score_criteria:
     cats: 1
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Brett Mullins
-date: "2026-08-27T04:08:29Z"
+date: "2026-10-09T18:22:50Z"
 description: Privacy & ML Researcher
 params:
   feedlink: https://bcmullins.github.io/feed.xml
@@ -21,16 +21,16 @@ params:
   categories:
   - Review
   relme: {}
-  last_post_title: An Utterly Incomplete Look at Research from 1826
-  last_post_description: The selections below from 1826 capture the advance of liberal
-    ideas in Britain, as reformers systematically challenged entrenched aristocratic
-    monopolies over trade and education. In economics, a
-  last_post_date: "2026-07-01T00:00:00Z"
-  last_post_link: http://bcmullins.github.io/research-from-1826/
+  last_post_title: 'Mind at 150: A Look Back at the First Issue'
+  last_post_description: Mind is a premier journal of philosophy, publishing articles
+    on epistemology, metaphysics, and more, and has been aligned with the analytic
+    tradition throughout most of its history. Mind was founded
+  last_post_date: "2026-10-09T00:00:00Z"
+  last_post_link: http://bcmullins.github.io/mind-150/
   last_post_categories:
   - Review
   last_post_language: ""
-  last_post_guid: d039aeb014901faf640c456ae8defad1
+  last_post_guid: 4f48662126681de3f4b296950a87b2d7
   score_criteria:
     cats: 0
     description: 3

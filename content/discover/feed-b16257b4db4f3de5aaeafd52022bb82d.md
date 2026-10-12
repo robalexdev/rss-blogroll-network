@@ -1,6 +1,6 @@
 ---
 title: Im Gespräch
-date: "2026-09-11T18:53:48+02:00"
+date: "2026-10-12T00:52:24+02:00"
 description: Eine Stunde - für eine Person. Unsere Gäste kommen aus Kultur und Politik,
   Wissenschaft und Wirtschaft, sind prominent oder weniger bekannt, aber stets Persönlichkeiten,
   die etwas zu erzählen
@@ -21,15 +21,15 @@ params:
   categories:
   - Info
   relme: {}
-  last_post_title: Wie Journalist Alexander Osang 9/11 selbst vor Ort miterlebt hat
-  last_post_description: Alexander Osang ging als Reporter nach New York. Bei den
-    Anschlägen vom 11. September 2001 war er hautnah dabei. In einer Reportage berichtet
-    er von einer Frau, die damals zwar noch nicht geboren
-  last_post_date: "2026-09-11T09:05:00+02:00"
-  last_post_link: https://www.deutschlandfunkkultur.de/autor-und-journalist-alexander-osang-100.html
+  last_post_title: Nationalstolz - Braucht Deutschland einen positiven Patriotismus?
+  last_post_description: Kann man Deutschland lieben, ohne andere Länder abzuwerten?
+    Und wie könnte ein inklusiver Patriotismus aussehen? Darüber diskutieren Dominik
+    Wullers, Ex-Soldat und Referent bei der NATO, und
+  last_post_date: "2026-10-10T09:05:00+02:00"
+  last_post_link: https://www.deutschlandfunkkultur.de/nationalstolz-braucht-deutschland-einen-positiven-patriotismus-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 48add4b637fbe57cffd8d940db88288e
+  last_post_guid: 1a1a4d27f37d7dfac714d53c72b27089
   score_criteria:
     cats: 1
     description: 3

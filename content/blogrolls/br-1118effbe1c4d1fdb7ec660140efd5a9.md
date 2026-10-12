@@ -25,7 +25,7 @@ params:
       80er, 90er und frühen 2000er Jahre. Begleitet uns auf archäologische Expeditionen
       und pustet mit uns vorsichtig den Staub der Zeit
     id: 224ce5f8d09e4ed113b0eb9129ee90e6
-  - title: Dlf Doku Serie
+  - title: Dlf Doku Serien
     description: 'HÃ¶ren in Serie: Hier gibt es die besten und spannendsten Geschichten
       der Welt in mehreren Teilen. Immer ganz nah dran an den Menschen und ihren Lebens(T)rÃ¤umen.
       Auch da, wo sonst kaum jemand'

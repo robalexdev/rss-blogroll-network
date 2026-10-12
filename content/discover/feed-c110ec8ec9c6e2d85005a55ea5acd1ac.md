@@ -25,15 +25,16 @@ params:
   categories:
   - Ephemeral Scrapbook
   relme: {}
-  last_post_title: The Ephemeral Scrapbook — 2026.08.30
-  last_post_description: The header image is a teaser of a new experiment with a new
-    photo-sharing service. And a bit of Apple and AI ranting.
-  last_post_date: "2026-08-31T02:09:19Z"
-  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-08-30/
+  last_post_title: The Ephemeral Scrapbook — 2026.10.11
+  last_post_description: iPhone Duo is… _insert your thought here_. I still believe
+    humans are more creative than AI, but are humans + AI an unnerving combo? Open
+    for discussion.
+  last_post_date: "2026-10-11T18:53:18Z"
+  last_post_link: https://numericcitizen.me/the-ephemeral-scrapbook-2026-10-11/
   last_post_categories:
   - Ephemeral Scrapbook
   last_post_language: ""
-  last_post_guid: f1f90b208e7b2888425338d1d70dc989
+  last_post_guid: c8f16117e9a1f5c406873ac687e7a464
   score_criteria:
     cats: 0
     description: 3

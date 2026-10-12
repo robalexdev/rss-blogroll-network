@@ -1,6 +1,6 @@
 ---
 title: Personal sites are awesome!
-date: "2026-02-02T10:19:15Z"
+date: "2026-10-08T05:56:59Z"
 description: All sites from personalsit.es
 params:
   feedlink: https://personalsit.es/feed/all.xml
@@ -17,10 +17,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: koscielniak.pro
+  last_post_title: Ayush Yadav
   last_post_description: ""
-  last_post_date: "2026-02-02T10:19:15Z"
-  last_post_link: https://koscielniak.pro
+  last_post_date: "2026-10-08T05:56:59Z"
+  last_post_link: https://ayush-yadav.com
   last_post_categories: []
   last_post_language: ""
   last_post_guid: c7d5c4035b2a0d5cf865d631ca3046e4
@@ -41,6 +41,6 @@ params:
   isnoarchive: false
   innetwork: true
   language: ""
-  postcount: 858
+  postcount: 1141
   avgpostlen: 298
 ---

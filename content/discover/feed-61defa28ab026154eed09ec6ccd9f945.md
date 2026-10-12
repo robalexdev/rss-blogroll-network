@@ -24,16 +24,16 @@ params:
   categories:
   - 杂谈
   relme: {}
-  last_post_title: X1 Presenter鼠标的macOS版虚拟激光笔软件
+  last_post_title: singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC
   last_post_description: |-
-    最近买了个联想的ThinkPad X1 Presenter鼠标（冲着这经典ThinkPad logo来的），设 […]
-    X1 Presenter鼠标的macOS版虚拟激光笔软件最先出现在WuSiYu Blog。
-  last_post_date: "2026-08-05T18:34:12Z"
-  last_post_link: https://wusiyu.me/thinkpad-x1-presenter-mouse-for-macos/
+    本文均使用技术中立性词汇，请合理理解 随着近年来晚高峰互联网需求日渐膨胀，传统线路愈发拥挤/丢包，长程链路的性 […]
+    singbox
+  last_post_date: "2026-10-01T18:40:14Z"
+  last_post_link: https://wusiyu.me/singbox-multipath/
   last_post_categories:
   - 杂谈
   last_post_language: ""
-  last_post_guid: 5accd3624c8bf8e3973d2dce25f68b2d
+  last_post_guid: ad088ed81d62802b272bba546d4f7a86
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: notes.xdavidhu.me
-date: "2026-07-04T00:56:58Z"
+date: "2026-09-27T20:06:50Z"
 description: David's notes.
 params:
   feedlink: https://notes.xdavidhu.me/feed.xml
@@ -20,15 +20,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I archived 10 years of memories using Spotify
-  last_post_description: Music and smells are two of the most effective ways to re-experience
-    the emotions of a specific time in the past. Listening to a song from a particular
-    time of my life brings me back to how I felt at
-  last_post_date: "2026-01-04T00:00:00Z"
-  last_post_link: https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify
+  last_post_title: "2021"
+  last_post_description: |-
+    155 small notes exported from my Google Keep from age ~19, the year after I graduated from high school.
+
+    Jan 22
+
+    i want to make people feel mind blown
+
+    Jan 23
+
+    I trust in myself, even if I drop out
+  last_post_date: "2026-09-26T00:00:00Z"
+  last_post_link: https://notes.xdavidhu.me/notes/2021
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 02631a0a4b1c54710a048b938c859b9c
+  last_post_guid: eb2b6bd3e8eb614abda181d99337d479
   score_criteria:
     cats: 0
     description: 3

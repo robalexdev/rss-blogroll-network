@@ -1,6 +1,6 @@
 ---
 title: Dirks Logbuch
-date: "2026-09-11T12:48:43Z"
+date: "2026-10-09T05:18:19Z"
 description: Die Chronik des schleichenden Wahnsinns ...
 params:
   feedlink: https://www.deimeke.net/dirk/blog/index.php?/feeds/index.rss2=
@@ -8,15 +8,19 @@ params:
   feedid: 56d8eccecde054b4ce4aa01c7e6b2451
   websites:
     https://www.deimeke.net/dirk/blog/: true
+    https://www.deimeke.net/dirk/blog/index.php?/archives/4522-BlogWochen-2026.html=: false
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Verlinkt – Die Blogrolle by Boris Stumpf
+  - title: BlogWochen Notizen vom 20.9.26 von Robert Lender
+    description: ""
+    id: 1b1aaba3e9d8cf3a2b1b5fc8c95b182d
+  - title: Verlinkt – Die Blogrolle von Boris Stumpf
     description: ""
     id: b669cc68156a16c0c8a66fa65776abae
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   - title: Ton's Blogroll (human and machine readable, you can import this file into
@@ -32,14 +36,14 @@ params:
   - fundstücke
   relme:
     https://www.deimeke.net/dirk/blog/: true
-  last_post_title: Linkdump 37/2026
+  last_post_title: Linkdump 41/2026
   last_post_description: ""
-  last_post_date: "2026-09-11T11:42:00+02:00"
-  last_post_link: https://www.deimeke.net/dirk/blog/index.php?/archives/4521-Linkdump-372026.html
+  last_post_date: "2026-10-09T06:15:00+02:00"
+  last_post_link: https://www.deimeke.net/dirk/blog/index.php?/archives/4525-Linkdump-412026.html
   last_post_categories:
   - fundstücke
   last_post_language: ""
-  last_post_guid: a9da23c3bca006da240769241f3f17ba
+  last_post_guid: fca36bba0cd71ba9952c60bcbcffd25a
   score_criteria:
     cats: 0
     description: 3

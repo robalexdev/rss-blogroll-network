@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Daily Rundown
+  - Deep Dive
   relme: {}
-  last_post_title: "\U0001F6CE️ The Frontier Labs Lost the Moat"
-  last_post_description: 'Plus: ChatGPT Is Now a Slot, The Moon Expert Became a Model'
-  last_post_date: "2026-09-11T10:00:06Z"
-  last_post_link: https://aisecret.us/the-frontier-labs-lost-the-moat/
+  last_post_title: Is Abusing An AI Abuse?
+  last_post_description: The secret behind the viral AI torture chamber
+  last_post_date: "2026-10-09T13:30:05Z"
+  last_post_link: https://aisecret.us/is-abusing-an-ai-abuse/
   last_post_categories:
-  - Daily Rundown
+  - Deep Dive
   last_post_language: ""
-  last_post_guid: c7d06630ed7a23b3f38b76b930a55720
+  last_post_guid: dad1e944c9e7e5c49215cee0e536b446
   score_criteria:
     cats: 0
     description: 3

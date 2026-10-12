@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2026-09-05T06:53:21.585+00:00"
+date: "2026-10-09T19:38:45.617+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -37,12 +37,19 @@ params:
   - title: Rek Bell
     description: Journal of Rek
     id: 57dcf8543cbb02ab0d37b0d8115735a4
+  - title: the webb blog
+    description: Welcome to Paul Anthony Webb’s corner of the ’Net where he’ll regale
+      you with whatever he finds interesting.
+    id: 5ab1e9e54e1450536108c60f0e8ae2e4
   - title: Home on Lagomorph
     description: Recent content in Home on Lagomorph
     id: 724ffd03c62f1443f79720852e49b7de
   - title: Manuel Moreale — Everything Feed
     description: Thoughts, Pictures, Walks, and everything else I publish on my blog
     id: 9417e92ed42b42a9df3959016838f82d
+  - title: Fractal Kitty
+    description: Making sense of the abstract.
+    id: 95808a826dfd72479d9be3a864b8c38e
   - title: shellsharks Posts
     description: Writings on infosec, technology and life
     id: b08e1157d015d5e536d9420f175efdba

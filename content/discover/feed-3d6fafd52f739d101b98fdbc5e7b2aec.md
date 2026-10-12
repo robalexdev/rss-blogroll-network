@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-09-03T04:17:47Z"
+date: "2026-09-23T19:29:24Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -22,13 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: tweet
-  last_post_description: 'Bangalore India hospital flow: https://sive.rs/inflow'
-  last_post_date: "2026-09-03T04:17:47Z"
+  last_post_title: To understand Türkiye and Turkish worldviews a bit, this book is
+    a good quick start
+  last_post_description: 'To understand Türkiye and Turkish worldviews a bit, this
+    book is a good quick start: https://sive.rs/book/TurkeyCS'
+  last_post_date: "2026-09-23T19:29:24Z"
   last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a4e97518bdf9de9b1885198835769555
+  last_post_guid: ab2f45d6ecb1db62143fa6989abae0c4
   score_criteria:
     cats: 0
     description: 3

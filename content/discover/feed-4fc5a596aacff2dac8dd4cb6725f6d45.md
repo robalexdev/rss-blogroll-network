@@ -10,6 +10,9 @@ params:
     https://sachagoat.blot.im/: true
   blogrolls: []
   in_blogrolls:
+  - title: Kagi Small Web OPML
+    description: ""
+    id: be15f1f70a7786fe4e89c9a39099dfb3
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,7 +20,6 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
   last_post_title: BLOGGIES 2024 Concludes!

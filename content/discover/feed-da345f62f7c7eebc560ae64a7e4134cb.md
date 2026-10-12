@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2025-09-15T05:01:05-04:00"
+date: "2026-10-10T05:19:23-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -10,6 +10,12 @@ params:
     https://grognardia.blogspot.com/: true
   blogrolls: []
   in_blogrolls:
+  - title: blogs.hn
+    description: ""
+    id: a46959e4e956c5003fc65cbc7e49dffc
+  - title: Bubbles — 5247 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,7 +23,6 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories:
   - "1889"
   - 1960s
@@ -41,6 +46,7 @@ params:
   - TARGA
   - VnV
   - a to z
+  - aaberg
   - ability scores
   - abstraction
   - acks
@@ -86,6 +92,7 @@ params:
   - bell
   - bellairs
   - bezio
+  - bierce
   - black blade
   - blackmoor
   - blackwood
@@ -136,6 +143,7 @@ params:
   - christopher
   - citadel
   - cleric
+  - clericon
   - clerics
   - cnc
   - combat
@@ -168,6 +176,7 @@ params:
   - dawn patrol
   - dc
   - dccrpg
+  - dde
   - decamp
   - dee
   - definitions
@@ -181,6 +190,7 @@ params:
   - disney
   - distinctives
   - diterlizzi
+  - ditillio
   - ditko
   - diy rpg
   - do it yourself
@@ -217,6 +227,7 @@ params:
   - espinoza
   - evil
   - experience
+  - fading suns
   - fantasy cartographic
   - fanzines
   - farmer
@@ -267,6 +278,7 @@ params:
   - grenadier
   - greyhawk
   - grognard's grimoire
+  - grognardia games
   - grognards
   - grohe
   - grubb
@@ -345,6 +357,7 @@ params:
   - known world
   - kothar
   - kowolski
+  - kraft
   - krebs
   - kull
   - kummer
@@ -403,6 +416,7 @@ params:
   - midderlands
   - miller
   - milton
+  - milton bradley
   - minaria
   - mind flayers
   - mini-con
@@ -467,6 +481,7 @@ params:
   - oubliette
   - owen
   - oz
+  - p
   - pacesetter
   - packard
   - page
@@ -496,6 +511,7 @@ params:
   - poll
   - polyhedron
   - pondsmith
+  - poseidonis
   - post-apocalyptic
   - pratt
   - predictions
@@ -516,6 +532,7 @@ params:
   - rasmussen
   - raupp
   - ravenloft
+  - reconsiderations
   - red sonja
   - refereeing
   - reiche
@@ -551,6 +568,7 @@ params:
   - science fantasy
   - science fiction
   - sha-arthan
+  - shadowdark
   - shaver
   - shea
   - shook
@@ -578,6 +596,7 @@ params:
   - star frontiers
   - star trek
   - star wars
+  - sterling
   - steve jackson games
   - stormbringer
   - strategic review
@@ -595,6 +614,7 @@ params:
   - task force games
   - tekumel
   - television
+  - telluria
   - tetv
   - the fantasy trip
   - the hobby
@@ -668,6 +688,7 @@ params:
   - wormy
   - wotc
   - writing
+  - xiccarph
   - xrp
   - ya'govian
   - yaquinto
@@ -678,17 +699,18 @@ params:
   relme:
     https://grognardia.blogspot.com/: true
     https://www.blogger.com/profile/00341941102398271464: true
-  last_post_title: 'Pulp Fantasy Library: The White Ship'
+  last_post_title: One Year Gone
   last_post_description: ""
-  last_post_date: "2025-09-15T05:01:05-04:00"
-  last_post_link: https://grognardia.blogspot.com/2025/09/pulp-fantasy-library-white-ship.html
+  last_post_date: "2026-10-02T00:00:00-04:00"
+  last_post_link: https://grognardia.blogspot.com/2026/10/one-year-gone.html
   last_post_categories:
-  - dream-quest
-  - dunsany
-  - lovecraft
-  - pulp fantasy library
+  - campaigns
+  - ept
+  - house of worms
+  - musings
+  - tekumel
   last_post_language: ""
-  last_post_guid: a4c3bb0ad28e8187bf00b7763d8e0d1f
+  last_post_guid: 32fcbccc631bccb55f16d5035d612f36
   score_criteria:
     cats: 5
     description: 3
@@ -707,5 +729,5 @@ params:
   innetwork: true
   language: ""
   postcount: 25
-  avgpostlen: 267
+  avgpostlen: 263
 ---

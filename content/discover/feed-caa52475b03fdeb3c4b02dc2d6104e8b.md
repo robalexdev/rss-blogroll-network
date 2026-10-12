@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-09-11T09:10:44-04:00"
+date: "2026-10-11T17:23:10-04:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml

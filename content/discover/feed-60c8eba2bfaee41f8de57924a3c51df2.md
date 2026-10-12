@@ -1,6 +1,6 @@
 ---
 title: bulltown.2022
-date: "2026-09-11T15:17:57Z"
+date: "2026-10-11T10:49:35Z"
 description: ""
 params:
   feedlink: https://bulltown.joejenett.com/feed.atom
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

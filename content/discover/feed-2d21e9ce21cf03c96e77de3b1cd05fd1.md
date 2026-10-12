@@ -10,29 +10,30 @@ params:
     https://kuechenereignisse.com/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
+  - Burgenland
+  - Fleisch
+  - Food
   - Fotografie
-  - Frühstück
-  - Wolken
   relme: {}
-  last_post_title: Picknick in Mörbisch
-  last_post_description: Nach einem fulminanten Start in den neuen Tag mit teuflisch
-    roten Wolken gab es Frühstück am neuen Tisch. Die Küchenfee war in der Bäckerei
-    und bat, das Brot aufzuschneiden. Ich, Krankensessel,
-  last_post_date: "2026-09-05T09:41:57Z"
-  last_post_link: https://kuechenereignisse.com/2026/09/05/picknick-in-morbisch/
+  last_post_title: Beiriedschnitte mit Ofenkartoffeln
+  last_post_description: 'Steak hatten wir uns schon lange nicht mehr gegönnt. Kein
+    Wunder, wir hatten ja auch keine Küche. Doch nun war es so weit: Angus Beiried
+    vom Gut Esterházy vom Kulinarium in Eisenstadt'
+  last_post_date: "2026-10-11T17:37:13Z"
+  last_post_link: https://kuechenereignisse.com/2026/10/11/beiriedschnitte-mit-ofenkartoffeln/
   last_post_categories:
+  - Burgenland
+  - Fleisch
+  - Food
   - Fotografie
-  - Frühstück
-  - Wolken
   last_post_language: ""
-  last_post_guid: 7bfe1f8c3f17510682a1bc4de48f3e35
+  last_post_guid: 6a741e1b871c7ab4242f22280114561c
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
 title: Nicksxs's Blog
-date: "2026-08-23T14:47:18Z"
-description: What hurts more, the pain of hard work or the pain of regret?
+date: "2026-10-04T14:30:00Z"
+description: Java 运行时、生产诊断与 AI 工程实践
 params:
   feedlink: https://nicksxs.me/atom.xml
   feedtype: atom
@@ -22,20 +22,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - FreeToken
+  - Agent
   - LLM
-  - llama.cpp
+  - MCP
+  - TypeScript
   relme: {}
-  last_post_title: 8GB显存如何跑35B：深入理解FreeToken的专家缓存与CPU-GPU协同
-  last_post_description: ""
-  last_post_date: "2026-08-23T14:47:18Z"
-  last_post_link: https://nicksxs.me/2026/08/23/8GB%E6%98%BE%E5%AD%98%E5%A6%82%E4%BD%95%E8%B7%9135B-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3FreeToken%E7%9A%84%E4%B8%93%E5%AE%B6%E7%BC%93%E5%AD%98%E4%B8%8ECPU-GPU%E5%8D%8F%E5%90%8C/
+  last_post_title: Pi Agent 1.0 的 MCP 集成源码解析：工具发现、代码编排与提示词压缩
+  last_post_description: 结合 Pi Agent 1.0 的固定版本源码，分析 MCP 工具的按需发现、QuickJS 代码编排、结果过滤与后台连接，直接对照提示词压缩前后的代码，并说明
+  last_post_date: "2026-10-04T14:30:00Z"
+  last_post_link: https://nicksxs.me/2026/10/04/Pi-Agent-1-0-MCP%E9%9B%86%E6%88%90%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E5%B7%A5%E5%85%B7%E5%8F%91%E7%8E%B0%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8E%8B%E7%BC%A9/
   last_post_categories:
-  - FreeToken
+  - Agent
   - LLM
-  - llama.cpp
+  - MCP
+  - TypeScript
   last_post_language: ""
-  last_post_guid: 938936c2004f5acbe60deac3eae2c45f
+  last_post_guid: 6d6e24896d1c2e0d1525cbe6efa61630
   score_criteria:
     cats: 0
     description: 3

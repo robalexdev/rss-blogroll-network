@@ -1,6 +1,6 @@
 ---
 title: Some Natalie's corner of the internet
-date: "2026-09-10T14:24:15-04:00"
+date: "2026-10-11T11:50:45-04:00"
 description: Things I'm learning, working on, or thinking about.  All opinions and
   snark my own.
 params:
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Bumping dependencies inside Dockerfiles
-  last_post_description: There are a ton of weird, non-standard places to manage dependencies
-    that don’t work with software composition tools or package managers.  Somehow
-    I seem to find many of these reasons.  Each made
-  last_post_date: "2026-09-08T22:08:58-04:00"
-  last_post_link: https://some-natalie.dev/blog/bump-deps-in-dockerfiles/
+  last_post_title: Bumping vendored dependencies in a repository
+  last_post_description: I have a love/hate relationship with vendoring dependencies
+    in a repository.  This enduring trauma and admiration comes from many of the projects
+    I’ve supported over the years.  Vendoring is a
+  last_post_date: "2026-10-08T12:49:07-04:00"
+  last_post_link: https://some-natalie.dev/blog/bump-vendored-deps/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c26deec448310664abf7547fdd6053ca
+  last_post_guid: 80064ab817dc54c255505451551169a2
   score_criteria:
     cats: 0
     description: 3

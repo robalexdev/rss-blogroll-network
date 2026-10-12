@@ -10,6 +10,12 @@ params:
     https://publicdomainreview.org/: true
   blogrolls: []
   in_blogrolls:
+  - title: Bubbles — 5247 blogs
+    description: ""
+    id: 2d50ad1185a7603683ceb7b7395332a6
+  - title: nathanUpchurchBlogroll.opml
+    description: ""
+    id: 48ae6ab9ce91c04f77f8c740eaa6a958
   - title: Take on Rules Public Blogroll
     description: ""
     id: 661f7c3d693616149785e81936cf96e2
@@ -17,19 +23,18 @@ params:
   recommender:
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme:
     https://mastodon.social/@publicdomainrev: true
     https://publicdomainreview.org/: true
-  last_post_title: Ivan Aivazovsky’s Miniature Seascapes (ca. 1887)
-  last_post_description: Identical photographs of the artist, each with a unique miniature
-    painting at the centre.
-  last_post_date: "2025-09-11T13:20:00Z"
-  last_post_link: https://publicdomainreview.org/collection/aivazovsky-miniature-seascapes
+  last_post_title: Paul Carus’ The History of the Devil and the Idea of Evil (1899)
+  last_post_description: A history of the Evil One, from the earliest times to the
+    present.
+  last_post_date: "2026-10-07T13:34:00Z"
+  last_post_link: https://publicdomainreview.org/collection/history-of-the-devil
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ab3d3df2990e600f82352160dfcf2954
+  last_post_guid: cd4501d617658a50e0bb5e0ac5c6d594
   score_criteria:
     cats: 0
     description: 3

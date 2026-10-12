@@ -10,39 +10,37 @@ params:
     https://www.etappen-wandern.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Blogroll by Der Entspannende (Frank Hamm)
+  - title: Blogroll von Der Entspannende (Frank Hamm)
     description: ""
     id: c91535664a07aa74af6d9e58848928c2
   recommended: []
   recommender: []
   categories:
-  - Europa
-  - Fernwanderwege
+  - Persönliches
   relme: {}
-  last_post_title: Lillebæltstien – Küstenwandern auf Fünen in 2 Tagen
-  last_post_description: 'Nur 27 Kilometer lang und trotzdem erstaunlich abwechslungsreich:
-    Der Lillebæltstien führt an der Küste Fünens entlang durch Buchenwälder, über
-    schmale Pfade, vorbei an Stränden und kleinen'
-  last_post_date: "2026-08-17T18:22:28Z"
-  last_post_link: https://www.etappen-wandern.de/fernwanderweg/lillebaeltstien-kuestenwandern-auf-fuenen-in-2-tagen/
+  last_post_title: Über Romy Robst & Etappen-Wandern
+  last_post_description: 'Ich bin Romy Robst – Weitwanderin, Reiseredakteurin, mehrfache
+    Buchautorin beim Bergverlag Rother und die Frau hinter Etappen-Wandern. Am liebsten
+    bin ich mehrere Tage am Stück draußen unterwegs:'
+  last_post_date: "2026-10-07T14:12:51Z"
+  last_post_link: https://www.etappen-wandern.de/ausruestung-persoenliches/persoenliches/was-wandern-fuer-mich-bedeutet/
   last_post_categories:
-  - Europa
-  - Fernwanderwege
+  - Persönliches
   last_post_language: ""
-  last_post_guid: 85d67863f445128e9345538c8c52465a
+  last_post_guid: d748105f782dfd5e6656a7cb072fcd4d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

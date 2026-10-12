@@ -1,6 +1,6 @@
 ---
 title: Primož Hadalin
-date: "2026-09-11T04:33:26Z"
+date: "2026-10-11T04:38:22Z"
 description: Primož Hadalin's homepage
 params:
   feedlink: https://hadalin.me/feed.xml

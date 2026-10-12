@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-08-24T22:31:36Z"
+date: "2026-10-06T19:32:44Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,30 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 觉醒
+  - 女性研究
+  - 小说
   - 读书
   - 读书笔记
-  - 金融学
   - 阅读
+  - 随笔
   relme: {}
-  last_post_title: 2026 年七月 读基层生计，理财育儿 7 本
+  last_post_title: 2026 年 8 月 读女性研究，小说，随笔 6 本
   last_post_description: |-
     引子
 
 
     引子
 
-    七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后
-  last_post_date: "2026-08-24T22:08:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/08/24/reading_summary/
+    本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。
+  last_post_date: "2026-10-06T19:25:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/10/06/reading-summary/
   last_post_categories:
-  - 觉醒
+  - 女性研究
+  - 小说
   - 读书
   - 读书笔记
-  - 金融学
   - 阅读
+  - 随笔
   last_post_language: ""
-  last_post_guid: d084c23973fafec38c0cf5714ff0d2e4
+  last_post_guid: 368b546040bc40c386f5c895cf1fdaf5
   score_criteria:
     cats: 0
     description: 0

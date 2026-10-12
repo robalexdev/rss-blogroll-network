@@ -1,7 +1,7 @@
 ---
-title: CTO building human, trustworthy products
+title: CEO building human, trustworthy products
 date: "1970-01-01T00:00:00Z"
-description: CTO who builds products, helps teams decide what to automate, and cares
+description: CEO who builds products, helps teams decide what to automate, and cares
   about effective, trustworthy, human-centered technology.
 params:
   feedlink: https://carmenh.dev/blog/feed.xml

@@ -23,29 +23,27 @@ params:
   recommender: []
   categories:
   - Personal
-  - ai
-  - game
-  - games
-  - if
-  - user interface
-  - video games
+  - animals
+  - ducks
+  - openbenches
+  - picnic
+  - tango
   relme: {}
-  last_post_title: '[Repost] Opusfived'
-  last_post_description: Miloš Novović's experimental interactive fiction is a silly
-    (but with a grain of truth!) simulation of what it feels like to attempt to use
-    vibe-coding to make small, simple, isolated changes to an
-  last_post_date: "2026-09-11T12:19:23+01:00"
-  last_post_link: https://danq.me/2026/09/11/opusfived/
+  last_post_title: '[Note] Hanley Swan'
+  last_post_description: Ruth and I stopped at Hanley Swan for a picnic lunch on our
+    way home from our weekend of Argentine Tango classes. Within seconds our lunch
+    had attracted a large flock of ducks from the little duck
+  last_post_date: "2026-10-11T15:34:48Z"
+  last_post_link: https://danq.me/2026/10/11/hanley-swan/
   last_post_categories:
   - Personal
-  - ai
-  - game
-  - games
-  - if
-  - user interface
-  - video games
+  - animals
+  - ducks
+  - openbenches
+  - picnic
+  - tango
   last_post_language: ""
-  last_post_guid: e5f1b10353ecba8696d9248c10652fcd
+  last_post_guid: d2bbddcd73068b53736716c4969a69ec
   score_criteria:
     cats: 0
     description: 3

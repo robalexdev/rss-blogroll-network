@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -102,15 +102,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: Extinction
-  last_post_description: We have known since August, 1945 that humanity has the power
-    and the willingness to destroy all life on earth. Humanity’s ability for this
-    destruction comes from our development of tools, all of
-  last_post_date: "2026-09-10T17:15:54-04:00"
-  last_post_link: https://frankmcpherson.blog/2026/09/10/extinction.html
+  last_post_title: Recreated Atari 800XL
+  last_post_description: I saw this ad this morning for a re-creation of the Atari
+    800XL. The Atari 800XL is the first computer that I bought for myself and used
+    while I was in college. Back when I was getting my computer
+  last_post_date: "2026-10-09T12:34:50-04:00"
+  last_post_link: https://frankmcpherson.blog/2026/10/09/recreated-atari-xl.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d368af79440165c6b10e7daedab381c4
+  last_post_guid: 82f6ff6431d3cb9888de0e700e096e02
   score_criteria:
     cats: 0
     description: 0

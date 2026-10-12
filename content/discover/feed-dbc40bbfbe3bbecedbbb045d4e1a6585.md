@@ -10,106 +10,86 @@ params:
     https://biancazapatka.com/de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Foodblog Blogroll by Martha
+  - title: Foodblog Blogroll von Martha
     description: ""
     id: 639cf599ff7bab86f28279d20b7d89e7
   recommended: []
-  recommender:
-  - https://bunte-kuechenabenteuer.de/feed/
+  recommender: []
   categories:
-  - Beliebte Rezepte
   - Curry & Suppen
+  - Fingerfood & Snacks
   - Hauptgerichte
-  - Herbst Rezepte
-  - Kuchen
-  - Kuchen & Torten
   - Leichte Gerichte & Salate
-  - Pasta & Gnocchi
-  - Pizza, Sandwiches & Burger
-  - Proteinreiche Rezepte
   - Rezepte
   - Schnell & Einfach
-  - Süßes & Desserts
-  - brot
-  - brötchen
+  - Veganuary DE
   - cremig
   - curry
-  - dessert
   - eifrei
-  - fluffig
+  - fingerfood
+  - frühling
   - gebacken
   - gemüse
   - glutenfrei
-  - gnocchi
   - herbst
   - herzhaft
-  - hokkaido
   - knoblauch
   - knusprig
-  - kürbis
   - milchfrei
-  - pasta
-  - ravioli
-  - schoko
-  - schokolade
+  - nudeln
+  - quiche
+  - sauce
+  - snacks
   - soße
+  - suppe
+  - tofu
   - vegan
   - vegetarisch
-  - weihnachten
   - winter
   - würzig
   - zwiebel
   relme: {}
-  last_post_title: Die 25 besten Kürbis-Rezepte – einfach & vegan
-  last_post_description: 'Entdecke meine 25 beliebtesten veganen Kürbisrezepte für
-    Herbst und Winter: einfach, schnell, lecker - von Kürbissuppe und Pasta bis Kürbiskuchen!'
-  last_post_date: "2026-09-11T09:45:26Z"
-  last_post_link: https://biancazapatka.com/de/kuerbis-rezepte/?adt_ei={$email}
+  last_post_title: Tofu Rezepte – vegan, einfach & lecker
+  last_post_description: '25 einfache Tofu-Rezepte: vegan, schnell & richtig lecker
+    Du suchst einfache Tofu-Rezepte, die wirklich nach etwas schmecken? Dann bist
+    du hier genau richtig! In dieser Sammlung findest du 25 meiner'
+  last_post_date: "2026-09-18T12:03:04Z"
+  last_post_link: https://biancazapatka.com/de/tofu-rezepte/?adt_ei={$email}
   last_post_categories:
-  - Beliebte Rezepte
   - Curry & Suppen
+  - Fingerfood & Snacks
   - Hauptgerichte
-  - Herbst Rezepte
-  - Kuchen
-  - Kuchen & Torten
   - Leichte Gerichte & Salate
-  - Pasta & Gnocchi
-  - Pizza, Sandwiches & Burger
-  - Proteinreiche Rezepte
   - Rezepte
   - Schnell & Einfach
-  - Süßes & Desserts
-  - brot
-  - brötchen
+  - Veganuary DE
   - cremig
   - curry
-  - dessert
   - eifrei
-  - fluffig
+  - fingerfood
+  - frühling
   - gebacken
   - gemüse
   - glutenfrei
-  - gnocchi
   - herbst
   - herzhaft
-  - hokkaido
   - knoblauch
   - knusprig
-  - kürbis
   - milchfrei
-  - pasta
-  - ravioli
-  - schoko
-  - schokolade
+  - nudeln
+  - quiche
+  - sauce
+  - snacks
   - soße
+  - suppe
+  - tofu
   - vegan
   - vegetarisch
-  - weihnachten
   - winter
   - würzig
   - zwiebel
   last_post_language: ""
-  last_post_guid: 1762c8c24974b2b2d4bf6578af3fe4ed
+  last_post_guid: 0456a938ad7153795528ac93cc5b87e8
   score_criteria:
     cats: 0
     description: 3

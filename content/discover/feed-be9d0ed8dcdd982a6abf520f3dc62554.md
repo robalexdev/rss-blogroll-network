@@ -1,6 +1,6 @@
 ---
 title: Der Tag
-date: "2026-09-11T17:17:00+02:00"
+date: "2026-10-09T17:01:57+02:00"
 description: Die wichtigsten Themen des Tages verstehen. Wir zeigen Zusammenhänge
   auf – auch die, die erst auf den zweiten Blick sichtbar sind. Unsere Hosts fragen
   nach, bis alles klar ist. Jeden Tag um 17 Uhr
@@ -21,15 +21,15 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: 25 Jahre nach 9/11 - Eine andere Welt?
-  last_post_description: 'Der 11. September 2001 und die Angriffe auf die Twin Towers
-    in New York - warum die Folgen dieses Tags bis heute zu spÃ¼ren sind. Und: Der
-    PrÃ¤sident der Vereinigten Arabischen Emirate verspricht'
-  last_post_date: "2026-09-11T00:15:00+02:00"
-  last_post_link: https://www.deutschlandfunk.de/usa-25-jahre-nach-9-11-eine-andere-welt-100.html
+  last_post_title: In Berlin starten rot-grün-rote Sondierungen
+  last_post_description: 'Linke, Grüne und SPD in Berlin haben eine Vereinbarung zu
+    Antisemitismus und Organisierter Kriminalität getroffen – was folgt daraus? Und:
+    Friedensnobelpreis für Navi Pillay, die Israels'
+  last_post_date: "2026-10-09T17:00:00+02:00"
+  last_post_link: https://www.deutschlandfunk.de/berlin-antisemitismus-linke-gaza-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 40a1440bc40ed695082aa1771bb3b801
+  last_post_guid: 72b1c462fdceb8292d1f916901bd775f
   score_criteria:
     cats: 1
     description: 3

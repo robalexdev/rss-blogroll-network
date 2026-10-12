@@ -47,25 +47,25 @@ params:
   recommender:
   - https://josh.blog/feed
   categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub Copilot app
-  - GitHub Copilot app for Beginners
+  - Career growth
+  - Developer skills
+  - career development
+  - hackathon
   relme: {}
-  last_post_title: 'GitHub Copilot app for Beginners: Using the diff, terminal, and
-    browser'
+  last_post_title: 'Hack the World: Why hackathons are still the best place to learn
+    to build'
   last_post_description: |-
-    Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.
-    The post GitHub Copilot
-  last_post_date: "2026-09-10T21:31:19Z"
-  last_post_link: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/
+    The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.
+    The post Hack the World: Why hackathons are still the best place to learn to
+  last_post_date: "2026-10-09T16:00:00Z"
+  last_post_link: https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/
   last_post_categories:
-  - AI & ML
-  - GitHub Copilot
-  - GitHub Copilot app
-  - GitHub Copilot app for Beginners
+  - Career growth
+  - Developer skills
+  - career development
+  - hackathon
   last_post_language: ""
-  last_post_guid: 74d2793e0e2cac5cc6559a425ec75653
+  last_post_guid: 17837218c5dbcd77d7fc40738339b8f4
   score_criteria:
     cats: 0
     description: 3

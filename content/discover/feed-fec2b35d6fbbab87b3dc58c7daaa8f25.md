@@ -1,6 +1,6 @@
 ---
 title: 'Marcin Borkowski: Homepage'
-date: "2026-09-09T20:45:53Z"
+date: "2026-10-10T05:14:56Z"
 description: Strona domowa Marcina Borkowskiego
 params:
   feedlink: https://mbork.pl/?action=rss
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comments on Emphasizing a region in Org mode
-  last_post_description: Another solution is using external package surround (https://github.com/mkleehammer/surround),
-    an Emacs package for inserting, changing, and deleting . . .
-  last_post_date: "2026-09-09T20:45:53Z"
-  last_post_link: https://mbork.pl/Comments_on_2026-08-10_Emphasizing_a_region_in_Org_mode
+  last_post_title: Repeating commands
+  last_post_description: Emacs is well-known for its arcane keybindings, often involving
+    three or more keypresses. For example, C-x z is bound to the repeat command which
+    – well – repeats the last command. However, there
+  last_post_date: "2026-10-10T05:14:56Z"
+  last_post_link: https://mbork.pl/2026-10-10_Repeating_commands
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0ca96ae35d8b10d46e88224a921c1ba9
+  last_post_guid: ec5883cad2a4784a497452ec2a88f3fa
   score_criteria:
     cats: 0
     description: 3

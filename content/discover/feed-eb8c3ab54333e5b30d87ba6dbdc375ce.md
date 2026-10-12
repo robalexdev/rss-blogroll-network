@@ -19,13 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Forgotten Bio-Mechanics of GTA IV
-  last_post_description: And what they mean for today's robotic embodiments
-  last_post_date: "2026-08-31T11:37:14Z"
-  last_post_link: https://jdsemrau.substack.com/p/the-forgotten-bio-mechanics-of-gta
+  last_post_title: Jamming with Jev and Claude on TidalCycles
+  last_post_description: I built an agent that live-codes music in TidalCycles to
+    test if AI can be creative. Novelty appeared only where I enforced or measured
+    it.
+  last_post_date: "2026-10-05T11:37:40Z"
+  last_post_link: https://jdsemrau.substack.com/p/jamming-with-jev-and-claude-on-tidalcycles
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f259908e8aa9b9d087721fd48601b481
+  last_post_guid: 911b2287e46a81b8bde1474e5717716b
   score_criteria:
     cats: 0
     description: 3

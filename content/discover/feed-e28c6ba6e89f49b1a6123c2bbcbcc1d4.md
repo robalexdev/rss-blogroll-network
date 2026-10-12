@@ -13,39 +13,42 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
-  - title: Lest mehr Blogs by Henning Uhle
+  - title: Lest mehr Blogs von Henning Uhle
     description: ""
     id: 3a30e9d2af1089b54905de3fa8e7ed45
   recommended: []
   recommender:
   - https://www.henning-uhle.eu/feed
   categories:
+  - Bücher
   - Kuddelmuddel
   relme: {}
-  last_post_title: eine Lesetafel
-  last_post_description: – so ganz ohne Bild ist‘s ja nun wirklich langweilig!
-  last_post_date: "2026-09-11T17:10:38Z"
-  last_post_link: https://voller-worte.de/eine-lesetafel/
+  last_post_title: keine Lust
+  last_post_description: auf Blog (kann sich schnell wieder ändern) auf unsinnige
+    Gespräche  auf Geplänkel  auf Hände im Teller, auch wenn’s die meiner...
+  last_post_date: "2026-10-11T15:46:34Z"
+  last_post_link: https://voller-worte.de/keine-lust-auf/
   last_post_categories:
+  - Bücher
   - Kuddelmuddel
   last_post_language: ""
-  last_post_guid: e067a43e828082f871af5f8e509aaf47
+  last_post_guid: 1a46d09469d648205491881c5845ab88
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

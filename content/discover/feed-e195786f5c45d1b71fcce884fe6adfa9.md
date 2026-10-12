@@ -1,6 +1,6 @@
 ---
 title: Moritz Glantz — Blog
-date: "2026-08-05T00:00:00Z"
+date: "2026-10-08T00:00:00Z"
 description: Website and Blog of Moritz Glantz, UX Engineer and Accessibility Specialist
   from Karlsruhe, Germany.
 params:
@@ -19,7 +19,7 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: Blogrolle by Matthias Pfefferle
+  - title: Blogrolle von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: Personal sites are awesome!
@@ -41,13 +41,13 @@ params:
   - https://notiz.blog/type/video/feed/
   categories: []
   relme: {}
-  last_post_title: Girocodr – Payment QR Codes Without Typing IBANs
+  last_post_title: LinkedIn Now Supports Native Bold Text (Sort Of)
   last_post_description: ""
-  last_post_date: "2026-08-05T00:00:00Z"
-  last_post_link: https://moritzglantz.de/blog/posts/girocodr-payment-qr-codesw-without-typing-ibans/?source=feedxmllink
+  last_post_date: "2026-10-08T00:00:00Z"
+  last_post_link: https://moritzglantz.de/blog/posts/linkedin-bold-text/?source=feedxmllink
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c8056b1b51f0bcff0a79540f53168e90
+  last_post_guid: 73ecb58d836cfb384e85d8bf2b2ea6ef
   score_criteria:
     cats: 0
     description: 3

@@ -21,15 +21,15 @@ params:
   categories:
   - Society & Culture
   relme: {}
-  last_post_title: '#30 | Dr. Irene Bader – die Entscheidungsfreudige unter den Managerinnen'
-  last_post_description: In dieser Folge spreche ich mit Dr. Irene Bader über ihren
-    beruflichen Werdegang bis in den Vorstand eines Maschinenbauunternehmens. Gemeinsam
-    sprechen wir über Japan und insbesondere Tokio, das
-  last_post_date: "2026-08-31T04:00:00Z"
-  last_post_link: https://ringlstetters-rendezvous.podigee.io/34-neue-episode
+  last_post_title: '#31 | Josia Topf – der Gestaltende unter den Paralympioniken'
+  last_post_description: In dieser Folge spreche ich mit Paralympics-Schwimmer Josia
+    Topf über seinen außergewöhnlichen Ehrgeiz, seinen Glauben und die Motivation,
+    neben dem Spitzensport auch ein Jurastudium zu
+  last_post_date: "2026-09-28T04:00:00Z"
+  last_post_link: https://ringlstetters-rendezvous.podigee.io/35-neue-episode
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e87001c8f69731f67412c22084824542
+  last_post_guid: 8a4ab92d8f063ad37d380bb1dd5a8cff
   score_criteria:
     cats: 1
     description: 3

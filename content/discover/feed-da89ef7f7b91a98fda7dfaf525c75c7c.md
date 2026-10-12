@@ -1,6 +1,6 @@
 ---
 title: AndreGarzia.com
-date: "2026-05-27T12:00:00Z"
+date: "2026-10-08T12:00:00Z"
 description: ""
 params:
   feedlink: https://andregarzia.com/feeds/all.atom.xml
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,18 +25,22 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
+  - title: Blogroll of Stephan Max
+    description: ""
+    id: ddd653a58670cc72b7d48f7794f8143d
   recommended: []
-  recommender: []
+  recommender:
+  - https://stephanmax.com/feed.xml
   categories: []
   relme:
     https://andregarzia.com/: true
-  last_post_title: We need to own our computing experience
+  last_post_title: First Photowalk of October
   last_post_description: ""
-  last_post_date: "2026-05-27T12:00:00Z"
-  last_post_link: https://andregarzia.com/2026/05/we-need-to-own-our-computing-experience.html
+  last_post_date: "2026-10-08T12:00:00Z"
+  last_post_link: https://andregarzia.com/2026/10/first-photowalk-of-october.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: aa2b79ab0ebf618129c12e2526fa9c7f
+  last_post_guid: e728f75d908addc7265c8cfcfbfd1ed8
   score_criteria:
     cats: 0
     description: 0

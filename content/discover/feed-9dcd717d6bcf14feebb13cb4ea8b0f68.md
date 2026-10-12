@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-09-09T09:40:00+02:00"
+date: "2026-10-11T14:00:00+02:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: dbrand goes mnml
-  last_post_description: 'Introducing: the minimalist phone case.™ Available for twelve
-    devices across Apple, Samsung, and Google. Nothing fancy, just a nice sandstone
-    texture and four colorways. Also, a magnetic wallet'
-  last_post_date: "2026-09-09T09:40:00+02:00"
-  last_post_link: https://overkill.wtf/notes/dbrand-mnml
+  last_post_title: Control Resonant
+  last_post_description: "Game title: Control Resonant\n            Plaform: pc\n
+    \           Rating: 4.25/5\n        \n        \n        What a game. Some of these
+    visuals were insane.\nI'm a big fan of the Remedyverse and inhale"
+  last_post_date: "2026-10-11T14:00:00+02:00"
+  last_post_link: https://overkill.wtf/playing/control-resonant
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4591bc8023691bc85ab9d4355d00f5bf
+  last_post_guid: c5f4c70bf2c51d812cc0f3f65fd6d4d3
   score_criteria:
     cats: 0
     description: 3

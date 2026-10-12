@@ -1,6 +1,6 @@
 ---
 title: Shilin typing
-date: "2026-09-11T03:56:58Z"
+date: "2026-10-11T20:54:37Z"
 description: 'Hi, I’m Sergei! I’m an entrepreneur, musician, rock climber, and thinker
   who writes about what matters most to me: startups, health, and always sleeping
   on the right side of the bed'
@@ -17,29 +17,34 @@ params:
     id: a46959e4e956c5003fc65cbc7e49dffc
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - entrepreneurship
+  - philosophy
   relme: {}
-  last_post_title: I made a film for my friend's birthday
-  last_post_description: A short film I made for my best friend's birthday, revisiting
-    the camping trip where our friendship first took root three years ago
-  last_post_date: "2026-06-11T18:03:53Z"
-  last_post_link: https://shilin.ca/a-short-film-for-my-friends-birthday/
-  last_post_categories: []
+  last_post_title: Making things that last
+  last_post_description: 'Thoughts on what makes a business worth building: timeless
+    products, intentional design, doing one thing really well, and creating things
+    that last.'
+  last_post_date: "2026-09-24T20:41:15Z"
+  last_post_link: https://shilin.ca/making-things-that-last/
+  last_post_categories:
+  - entrepreneurship
+  - philosophy
   last_post_language: ""
-  last_post_guid: 84c6d63b3b5dc387eb2dc8758618b290
+  last_post_guid: be2c03ccb5e0b9ce1e5915cd311cbca8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

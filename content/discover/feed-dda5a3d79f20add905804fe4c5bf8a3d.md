@@ -13,6 +13,13 @@ params:
   - title: Podcasts
     description: ""
     id: 1118effbe1c4d1fdb7ec660140efd5a9
+  - title: Die Podroll von Nico
+    description: ""
+    id: 57c1cf09bdad2441fdd8af0a02db89e8
+  - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
+      Trek & SciFi, Eigene Podcasts
+    description: ""
+    id: 76744bb2c928dd66d5472df531fef17b
   - title: Film & Popkultur, Unterhaltung, Politik & Gesellschaft, Nerdkram, Star
       Trek & SciFi, Eigene Podcasts
     description: ""
@@ -20,6 +27,7 @@ params:
   recommended: []
   recommender:
   - https://bielinski.de/feed/
+  - https://couchblog.de/feed/
   - https://hnz.io/feed/alles.rss
   - https://hnz.io/feed/medienstrom.rss
   - https://hnz.io/feed/startseite.rss
@@ -28,15 +36,15 @@ params:
     https://23.social/@linuzifer: true
     https://logbuch-netzpolitik.de/: true
     https://podcasts.social/@lnp: true
-  last_post_title: LNP558 Negatives Nachtatverhalten
-  last_post_description: Das Zentrum für politische Schönheit ist nicht erst bekannt
-    seitdem sie mit dem Bus "Adenauer SRP+" in Deutschland von Veranstaltung zu Veranstaltung
-    reisen, doch offensichtlich triggert gerade
-  last_post_date: "2026-09-04T20:48:26Z"
-  last_post_link: https://logbuch-netzpolitik.de/lnp558-negatives-nachtatverhalten
+  last_post_title: LNP562 Gipfel der überzogenen Erwartungen
+  last_post_description: Heute eine Sendung mit wenig Themen, dafür wieder beunruhigendes
+    aus dem Politsegment. Aber immerhin wurde mal ein Geheimdienstler festgenommen,
+    das ist doch auch mal was. Dazu ein bisschen Feedback
+  last_post_date: "2026-10-10T09:09:28Z"
+  last_post_link: https://logbuch-netzpolitik.de/lnp562-gipfel-der-ueberzogenen-erwartungen
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f93ca7d7da018fa3635cb142d781ff32
+  last_post_guid: 91f68e64eaeecc7d58db0a6d9f7724e5
   score_criteria:
     cats: 0
     description: 3

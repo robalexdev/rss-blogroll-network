@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -27,17 +27,17 @@ params:
   categories:
   - post
   relme: {}
-  last_post_title: thank u, next
+  last_post_title: You don't need Jev for good emoji search
   last_post_description: |-
-    If you're wondering about this post's title:
-    https://en.wikipedia.org/wiki/Thank_U,_Next
-    There's been a lot of talk about custom / personal software and LLMs lately. I've been a huge fan -- I'm
-  last_post_date: "2026-09-01T00:00:00Z"
-  last_post_link: https://maxleiter.com/blog/thank-u-next
+    An interactive emoji search demo runs here in the web version of this post.
+    There's been a lot of Jev hype lately, and for good reason.
+    It's largely novel (to most developers, at least), super cheap,
+  last_post_date: "2026-09-26T07:00:00Z"
+  last_post_link: https://maxleiter.com/blog/embedding-emoji-search
   last_post_categories:
   - post
   last_post_language: ""
-  last_post_guid: dac4363e561e5a084b244f16db1912c5
+  last_post_guid: 4da9c426f3714bdebb0dde7829128665
   score_criteria:
     cats: 0
     description: 3

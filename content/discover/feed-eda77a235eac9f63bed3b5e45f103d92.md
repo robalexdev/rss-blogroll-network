@@ -23,16 +23,17 @@ params:
   recommender: []
   categories: []
   relme:
+    https://github.com/ZeframLou: true
     https://zefram.xyz/: true
-  last_post_title: Why Work on Crypto
-  last_post_description: In 2023, OpenAI changed the world by releasing ChatGPT, the
-    first AI that’s actually intelligent. Technology aside, ChatGPT shifted attention
-    in the tech world away from crypto and NFTs to AI,
-  last_post_date: "2023-06-26T17:24:50-07:00"
-  last_post_link: https://zefram.xyz/posts/why-work-on-crypto/
+  last_post_title: Humanity’s loss of innocence
+  last_post_description: |-
+    The Platonic space of ideals is real. And we’re but humble explorers.
+    For much of history, we humans have believed that we have the capacity to create. To construct new ideas, new theories, new art
+  last_post_date: "2026-10-09T14:22:22-07:00"
+  last_post_link: https://zefram.xyz/posts/humanitys-loss-of-innocence/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ba570cbd031ff319fa595259aab0e09
+  last_post_guid: 01f7388e86993c933c24ff93d8fdf96c
   score_criteria:
     cats: 0
     description: 3

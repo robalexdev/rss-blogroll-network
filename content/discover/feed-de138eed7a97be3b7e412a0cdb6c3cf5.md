@@ -1,6 +1,6 @@
 ---
 title: Home
-date: "2026-09-11T09:23:04Z"
+date: "2026-10-10T01:57:59Z"
 description: Direct, driven (and mostly tolerable).
 params:
   feedlink: https://blog.dannycastonguay.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Letter to Ada
-  last_post_description: Ada is my 7 year old. We sometimes have deep philosophical
-    conversations on the way to school. This morning, her questions inspired this
-    letter.
-  last_post_date: "2026-09-09T00:00:00Z"
-  last_post_link: https://blog.dannycastonguay.com/letter-to-ada/
+  last_post_title: Building Confident Kids
+  last_post_description: One of the most common fallacies that I see parents repeating
+    is the notion that people who are successful are confident, and therefore they
+    need to build confidence in their kids and protect their
+  last_post_date: "2026-10-10T00:00:00Z"
+  last_post_link: https://blog.dannycastonguay.com/building-confident-kids/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e0cf91f8be825d2fbb151f90bb6cfc7
+  last_post_guid: 951e732c742078e65a43a91d05fb0e9b
   score_criteria:
     cats: 0
     description: 3

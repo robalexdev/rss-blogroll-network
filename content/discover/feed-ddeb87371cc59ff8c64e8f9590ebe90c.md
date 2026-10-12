@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 海洋公园一日游
+  last_post_title: 污水处理厂的故事
   last_post_description: ""
-  last_post_date: "2026-08-17T20:35:47+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/ocean-park/
+  last_post_date: "2026-09-28T21:01:50+08:00"
+  last_post_link: https://yuanfan.rbind.io/posts/the-story-of-richer-getting-money/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6e4adf41a79334fbb5cdbd2911c42983
+  last_post_guid: 9718f4009c14fbae8b5734593eee93b8
   score_criteria:
     cats: 0
     description: 3

@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5297 blogs
+  - title: Bubbles — 5247 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -26,22 +26,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Python
+  - Networking
+  - Provisioning
   - Software
-  - revision control
+  - Sysadmin
+  - shell
   relme: {}
-  last_post_title: Teaching Python using a Caesar Cipher
-  last_post_description: A Caesar cipher is a letter for letter exchange from a clear
-    text to a encrypted text by shifting a set distance in the alphabet. Thus, if
-    your set distance is 2, the letter A becomes C, the letter X
-  last_post_date: "2026-07-27T19:58:19Z"
-  last_post_link: https://adam.younglogic.com/2026/07/teaching-python-using-a-ceasar-cipher/
+  last_post_title: Find the IP address of a machine I just booted
+  last_post_description: ""
+  last_post_date: "2026-09-17T20:17:23Z"
+  last_post_link: https://adam.younglogic.com/2026/09/find-the-ip-address-of-a-machine-i-just-booted/
   last_post_categories:
-  - Python
+  - Networking
+  - Provisioning
   - Software
-  - revision control
+  - Sysadmin
+  - shell
   last_post_language: ""
-  last_post_guid: 4408a257878982d041fa4e8a123d692e
+  last_post_guid: ea666ac83b2a9444255fb43004207e0a
   score_criteria:
     cats: 0
     description: 3

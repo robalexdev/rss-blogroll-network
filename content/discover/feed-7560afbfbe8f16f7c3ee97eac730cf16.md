@@ -10,7 +10,7 @@ params:
     https://commandress.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Meine Blogroll by Daira Bär
+  - title: Meine Blogroll von Daira Bär
     description: ""
     id: f075af2663e93c37c2287d35ee7e7efd
   recommended: []
@@ -18,24 +18,32 @@ params:
   - https://einfachmalselbstgedacht.com/comments/feed/
   - https://einfachmalselbstgedacht.com/feed/
   categories:
-  - Diversität
-  - FLR
-  - FLR-Grundlagen
-  - Nachdenkliches
+  - BDSM
+  - BoFeWo
+  - Fetisch
+  - Gastbeitrag
+  - Kink
+  - Messe
+  - Shopping
+  - Veranstaltungen
   relme: {}
-  last_post_title: Die andere Art von FLR
+  last_post_title: 'Shop till you drop: Mit der Commandress auf der BoFeWo'
   last_post_description: |-
-    FLR muss nicht heteronormativ sein. Ein persönlicher Blick darauf, warum weibliche Führung nichts mit dem Geschlecht des Partners – oder der Frau selbst – zu tun hat.
-    Der Beitrag Die andere Art
-  last_post_date: "2026-09-09T05:24:57Z"
-  last_post_link: https://commandress.de/2026/09/09/die-andere-art-von-flr/
+    Butler Kay auf der BoFeWo: Peitschen-Stecksystem, aufblasbares Halsband mit Spikes und randvolle Einkaufstaschen. Ein Messebericht als Gastbeitrag.
+    Der Beitrag Shop till you drop: Mit der Commandress
+  last_post_date: "2026-10-11T07:44:55Z"
+  last_post_link: https://commandress.de/2026/10/11/bofewo-herbst-2026-messebericht/
   last_post_categories:
-  - Diversität
-  - FLR
-  - FLR-Grundlagen
-  - Nachdenkliches
+  - BDSM
+  - BoFeWo
+  - Fetisch
+  - Gastbeitrag
+  - Kink
+  - Messe
+  - Shopping
+  - Veranstaltungen
   last_post_language: ""
-  last_post_guid: 5bdc31c71be2ca85f85acefb71a4f27c
+  last_post_guid: 9b9694f5d8d146111363b37c6f3e743f
   score_criteria:
     cats: 0
     description: 3
