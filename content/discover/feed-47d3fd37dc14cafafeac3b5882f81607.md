@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: How I came to write THAT paper with Leslie Lamport
-  last_post_description: "As people grow older, they grow wiser, or at least they
-    think they do. \nThen it becomes their duty to impart their accumulated wisdom
-    to the younger generation. \nLeslie Lamport made his name in"
-  last_post_date: "2026-08-21T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/08/21/Lamport.html
+  last_post_title: Plagiarism in the age of AI
+  last_post_description: "My first ever “blog post” (though not in this blog) was
+    about how to write a research paper. \nI wrote it after reviewing a batch of badly-written
+    papers for a conference, probably ITP or CADE."
+  last_post_date: "2026-10-17T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bba35865dfa8564aee03b273ba9d5816
+  last_post_guid: 9715973f1722a7e3d23e782f92ed1839
   score_criteria:
     cats: 0
     description: 3

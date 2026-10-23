@@ -16,35 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AIGC
-  - AI代理大战
-  - Anthropic竞争
-  - Meta Muse
-  - OpenAI Dots
-  - 个人代理
-  - 个人代理隐私风险
-  - 多模型调度降低成本
-  - 模型公司个人助手
+  - AI Agent跨应用
+  - Apple的故事
+  - 为什么不换手机
+  - 微信
+  - 手机卖不动
+  - 手机厂商被超级APP架空
+  - 手机换机
+  - 新手机没有卖点
+  - 超级APP兼容旧手机
   relme: {}
-  last_post_title: 个人代理为何成了围攻Anthropic的复仇战
+  last_post_title: 手机卖不动了：超级APP困住换机理由
   last_post_description: |-
-    个人代理为何成了围攻Anthropic的复仇战
+    手机卖不动了：超级APP困住换机理由
 
-    Grok Bot、Meta Muse、OpenAI
-  last_post_date: "2026-10-10T22:55:20Z"
-  last_post_link: https://lukefan.com/2026/10/11/personal-agents-anthropic-token-revenue-rivalry/
+    手机卖不动了，真是存储涨价、消费降级造成的吗？老范认为这些只是表象：新手机缺少让人愿意换机的功能，超
+  last_post_date: "2026-10-23T00:30:00Z"
+  last_post_link: https://lukefan.com/2026/10/23/smartphone-sales-super-apps-upgrade-cycle/
   last_post_categories:
-  - AIGC
-  - AI代理大战
-  - Anthropic竞争
-  - Meta Muse
-  - OpenAI Dots
-  - 个人代理
-  - 个人代理隐私风险
-  - 多模型调度降低成本
-  - 模型公司个人助手
+  - AI Agent跨应用
+  - Apple的故事
+  - 为什么不换手机
+  - 微信
+  - 手机卖不动
+  - 手机厂商被超级APP架空
+  - 手机换机
+  - 新手机没有卖点
+  - 超级APP兼容旧手机
   last_post_language: ""
-  last_post_guid: 396bd907666526f45c5bcb7b006dd91d
+  last_post_guid: 16bff31ee4a00c7822846abde586f76c
   score_criteria:
     cats: 0
     description: 3

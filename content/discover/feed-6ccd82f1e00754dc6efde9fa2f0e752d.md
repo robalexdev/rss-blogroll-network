@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -24,14 +24,15 @@ params:
   categories: []
   relme:
     https://feld.com/: true
-  last_post_title: Founded Colorado
-  last_post_description: Today we launched Founded Colorado, a policy organization
-    for companies based in Colorado, with Eleni Angelides as our Executive Director.
-  last_post_date: "2026-10-05T14:08:43-06:00"
-  last_post_link: https://feld.com/archives/2026/10/founded-colorado/
+  last_post_title: 'Zero Knowledge: 116 Chapters In'
+  last_post_description: I just finished chapter 82 of Zero Knowledge. That's 116
+    of 137 chapters in the first draft. Here's what the book is, how a chapter gets
+    made, and where I want to take it with AuthorMagic.
+  last_post_date: "2026-10-16T09:45:25-06:00"
+  last_post_link: https://feld.com/archives/2026/10/zero-knowledge-116-chapters-in/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c9ad8a36c08fe62d18f09620295937f4
+  last_post_guid: f570b0309ce16eeac303169a728916bb
   score_criteria:
     cats: 0
     description: 3

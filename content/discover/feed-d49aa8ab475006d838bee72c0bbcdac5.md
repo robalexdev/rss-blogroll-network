@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS feeds from Minifeed.net
@@ -23,23 +23,23 @@ params:
   recommender: []
   categories:
   - a.i.
-  - people
+  - software development
   - staar
-  - trends
+  - testing
   relme: {}
-  last_post_title: Why Almost Nothing You Read Online About AI Is True
-  last_post_description: I’ve adapted my Special Theory of Autonomous Agent Reliability
-    (STAAR) to predict the reliability of social media* posts about “AI”. In STAAR,
-    the reliability of a single step – a single
-  last_post_date: "2026-10-03T04:49:22Z"
-  last_post_link: https://codemanship.wordpress.com/2026/10/03/why-almost-nothing-you-read-online-about-ai-is-true/
+  last_post_title: The Secret To Long-Horizon Agent Autonomy? Silent Failing
+  last_post_description: 'A large and growing body of research and industry data points
+    to an inevitable conclusion: reliable long-horizon autonomous coding agent operation
+    is highly improbable. And yet, pretty much on a'
+  last_post_date: "2026-10-18T09:15:57Z"
+  last_post_link: https://codemanship.wordpress.com/2026/10/18/the-secret-to-long-horizon-agent-autonomy-silent-failing/
   last_post_categories:
   - a.i.
-  - people
+  - software development
   - staar
-  - trends
+  - testing
   last_post_language: ""
-  last_post_guid: 00cdbc7e4cc4506d8391c0a3a92db1c7
+  last_post_guid: b50a53abab187e0966106492b8cca3e8
   score_criteria:
     cats: 0
     description: 3

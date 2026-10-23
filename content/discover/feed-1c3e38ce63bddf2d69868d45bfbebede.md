@@ -17,23 +17,25 @@ params:
   recommender: []
   categories:
   - "2026"
+  - Database
   - Development
-  - php
-  - php2Bluesky
+  - MacFamilyTree
+  - SQLite
   relme: {}
-  last_post_title: Increasing the video and image limits in php2Bluesky
-  last_post_description: A user of my PHP2Bluesky package, Muzikals, raised an issue
-    to say that Bluesky had increased the limits for both videos and images. Now you
-    can upload larger-sized videos of up to 300MB and ten
-  last_post_date: "2026-09-16T09:59:00Z"
-  last_post_link: https://www.spokenlikeageek.com/2026/09/16/increasing-the-video-and-image-limits-in-php2bluesky/
+  last_post_title: Querying the MacFamilyTree Database
+  last_post_description: WARNING! Make a copy of your database before trying any of
+    this! A while back I found an online course called SQL for Genealogy which taught
+    you how to extract and manipulate your family history data
+  last_post_date: "2026-10-21T10:32:00Z"
+  last_post_link: https://www.spokenlikeageek.com/2026/10/21/querying-the-macfamilytree-database/
   last_post_categories:
   - "2026"
+  - Database
   - Development
-  - php
-  - php2Bluesky
+  - MacFamilyTree
+  - SQLite
   last_post_language: ""
-  last_post_guid: e275d3b19cac4b46b132c0c5e6639eeb
+  last_post_guid: b315e12b7aff41d79dcbbf0a9dcefae2
   score_criteria:
     cats: 0
     description: 3

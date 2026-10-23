@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comic Strip History - Jiggs Dinner
-  last_post_description: This is a short follow-up to my previous post. Last month,
-    while researching Dinty Moore specifically and Bringing Up Father generally, I
-    came across…
-  last_post_date: "2026-08-01T00:00:00Z"
-  last_post_link: https://blog.arkholt.com/jiggs-dinner
+  last_post_title: Comic Strip History - Popeye, Spinach, and Popeye Spinach
+  last_post_description: Popeye the Sailor has had an immense influence on both American
+    culture and world culture, and it would be easy for me to write an entire blog
+    series…
+  last_post_date: "2026-10-20T00:00:00Z"
+  last_post_link: https://blog.arkholt.com/popeye-spinach
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2730f8ab5c4aecb853e5aa9aa0060ac2
+  last_post_guid: f5d0598830e8290ebffb2fdacdf75961
   score_criteria:
     cats: 0
     description: 3

@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,16 +26,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'To the Agents: "This place is not a place of honor"'
+  last_post_title: Agentic Monitoring
   last_post_description: |-
-    TL;DR: “Private by obscurity” has been dissolved.
-    Internal tools often have layering boundaries that are enforced only by
-    convention. It’s natural to assume a “high trust environment”,
-  last_post_date: "2026-05-15T07:00:00-07:00"
-  last_post_link: https://benjamincongdon.me/blog/2026/05/15/To-the-Agents-This-place-is-not-a-place-of-honor/
+    A recent Anthropic blog post contained a short paragraph, not at all the point of the post, which has been buzzing around my brain since I read it:
+
+    A new level of operational excellence is possible.
+  last_post_date: "2026-10-19T06:00:00-07:00"
+  last_post_link: https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 92193c9a0b53e25ddde64a7d82d45fbc
+  last_post_guid: 28dc18305f0831a5e389dbd2db01f008
   score_criteria:
     cats: 0
     description: 3

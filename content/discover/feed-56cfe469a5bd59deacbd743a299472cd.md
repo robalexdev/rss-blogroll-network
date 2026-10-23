@@ -1,7 +1,7 @@
 ---
 title: 刑辩人在路上
 date: "1970-01-01T00:00:00Z"
-description: 河南郑州无罪刑事辩护律师
+description: ""
 params:
   feedlink: https://xingbianren.cn/feed.php
   feedtype: rss
@@ -26,16 +26,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 与牛牛的碎碎念之趁机荐书《平面国》
-  last_post_description: 跟牛牛说话特别费token。牛牛是我闺女，正是最天马行空，奇思妙想的年龄。我想原因可能有两个：一是小孩子的语言组织形式跟大人不太一样，大人讲
-  last_post_date: "2026-08-20T09:38:55+08:00"
-  last_post_link: https://xingbianren.cn/post/326.html
+  last_post_title: 对蚂蚁刮目相看了
+  last_post_description: !!binary |
+    57uZ5aWz5YS/77yM5oiW6ICF5pu05YeG56Gu55qE6K+077yM57uZ6Ieq5bex5Lmw5LqG5L
+    iq6JqC6JqB5Z+O5aCh44CC5LiA5Liq6YCP5piO5Lqa5YWL5Yqb5p2/5p2Q6LSo55qE5bCP
+    566x5a2Q77yM5YGa5oiQ5Z+O5aCh5qih5qC377yM5LiA5L6n5Yy65Z+f5aCG5ruh5LqG5r
+    KZ77yM5Y+m5LiA5L6n5YiZ6ZqU5Ye65ZCE57G76JqC6JqB5omA6ZyA55o=
+  last_post_date: "2026-10-22T08:53:49+08:00"
+  last_post_link: https://xingbianren.cn/post/327.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: d9d711c5d5754f69e1483a97c7de35f2
   score_criteria:
     cats: 0
-    description: 3
+    description: 0
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
@@ -45,7 +49,7 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

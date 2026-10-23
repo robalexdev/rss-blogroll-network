@@ -19,36 +19,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Caddy
-  - FrankenPHP
-  - Security
+  - Blog
+  - bitExpert
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: FrankenPHP & Caddy WAF
-  last_post_description: Discover how combining Caddy WAF and FrankenPHP can help
-    prevent security vulnerabilities, data breaches, and malicious activities, ensuring
-    the security and reliability of your application.
-  last_post_date: "2026-10-07T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/frankenphp_caddy_waf
+  last_post_title: Happy Birthday BitExpert blog!
+  last_post_description: Celebrating 20 years of bitExpert's tech blog, we reflect
+    on our journey of sharing learnings and contributing to the software development
+    community, adapting to changes in technology and audience
+  last_post_date: "2026-10-20T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/happy_birthday_bitexpert_blog
   last_post_categories:
-  - Caddy
-  - FrankenPHP
-  - Security
+  - Blog
+  - bitExpert
   last_post_language: ""
-  last_post_guid: 7a36c36d7bc8c79c2c77bf500f0de5e8
+  last_post_guid: f5d5881d3265268c6021deeb0c31d217
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2026-10-09T19:38:45.617+00:00"
+date: "2026-10-22T17:35:27.218+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml

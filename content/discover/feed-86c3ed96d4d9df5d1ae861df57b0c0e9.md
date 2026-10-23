@@ -20,30 +20,31 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Article
   relme: {}
-  last_post_title: Why were Victorian elites so effective?
-  last_post_description: On kinship networks and high social trust engendered by the
-    Victorian aristocracy's progressive schooling being essential to their running
-    of the Empire
-  last_post_date: "2026-10-08T16:53:00+01:00"
-  last_post_link: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/
-  last_post_categories: []
+  last_post_title: Porcelain
+  last_post_description: On the history of the wondrous material porcelain, its newest
+    version, and its uses in cooking, biotech, and materials science
+  last_post_date: "2026-10-21T10:12:00+01:00"
+  last_post_link: https://www.worksinprogress.news/p/porcelain
+  last_post_categories:
+  - Article
   last_post_language: ""
-  last_post_guid: f46f006328ecca937b187abdde04ead0
+  last_post_guid: 0216de996c0dde8d6fe5188892ee4070
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

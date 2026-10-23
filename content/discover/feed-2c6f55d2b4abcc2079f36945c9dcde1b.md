@@ -38,16 +38,16 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Notes from August 2026
+  last_post_title: Notes from September 2026
   last_post_description: |-
-    Since last month, I released some new stuff at work, clicked a bunch of links, and wrote a little bit.
-
-    “Libertarian futurists weren’t the only people proposing new rules for cyberspace; they
-  last_post_date: "2026-08-31T06:00:00Z"
-  last_post_link: https://evanhahn.com/notes-from-august-2026/
+    If you follow my monthly roundups, (1) who are you?? please say hi (2) you’ll notice a smaller post this time. September was a busy month for me.
+    Lots of feedback on a small post
+    I published
+  last_post_date: "2026-09-30T06:00:00Z"
+  last_post_link: https://evanhahn.com/notes-from-september-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69c90f4e6a119d872023e62749e9ba19
+  last_post_guid: c728134646ce8226e134b62951981f94
   score_criteria:
     cats: 0
     description: 3

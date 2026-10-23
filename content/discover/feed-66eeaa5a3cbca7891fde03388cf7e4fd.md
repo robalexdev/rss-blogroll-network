@@ -6,10 +6,8 @@ params:
   feedlink: https://mabbs.github.io/atom.xml
   feedtype: atom
   feedid: 66eeaa5a3cbca7891fde03388cf7e4fd
-  websites:
-    https://mabbs.github.io/: true
-  blogrolls:
-  - https://mabbs.github.io/blogroll.opml
+  websites: {}
+  blogrolls: []
   in_blogrolls:
   - title: indieblog.page
     description: ""
@@ -26,51 +24,14 @@ params:
   - title: 中文 RSS 聚合 by MoreRSS
     description: ""
     id: c4e30b2e549839519f2711d98fed209e
-  recommended:
-  - https://7gugu.com/index.php/feed/
-  - https://blog.blueke.top/rss.xml
-  - https://blog.fkun.tech/feed/
-  - https://blog.glumi.cn/rss.xml
-  - https://blog.gxres.net/atom.xml
-  - https://blog.hotsouprealm.top/atom.xml
-  - https://blog.hslzz.cn/atom.xml
-  - https://blog.kingfish404.cn/index.xml
-  - https://blog.verdant.ee/atom.xml
-  - https://blog.vull.top/atom.xml
-  - https://chise.hachiroku.com/zh/feed/
-  - https://emohe.cn/rss.xml
-  - https://exyon.ee/feed.xml
-  - https://geektutu.com/atom.xml
-  - https://geektutu.com/feed.xml
-  - https://jingyuan-zheng.github.io/zh/index.xml
-  - https://mozz.ie/index.xml
-  - https://note.redcha.cn/rss.xml
-  - https://pinpe.top/rss.xml
-  - https://ravelloh.com/feed.xml
-  - https://sinofine.me/atom.xml
-  - https://ttio.cc/feed.xml
-  - https://www.fghrsh.net/feed.php
-  - https://www.hansjack.com/feed/
-  - https://www.imcry.vip/index.xml
-  - https://www.wikimoe.com/rss
-  - https://xingwangzhe.fun/rss.xml
-  - https://blueke.top/rss.xml
-  - https://blog.fkun.tech/feed/atom/
-  - https://blog.hslzz.cn/rss2.xml
-  - https://blog.vull.top/rss.xml
-  - https://blog.emohe.cn/rss.xml
-  - https://geektutu.com/en/feed.xml
-  - https://www.hansjack.com/feed/atom/
-  - https://www.wikimoe.com/rss/blog
-  - https://www.wikimoe.com/rss/tweet
+  recommended: []
   recommender: []
   categories:
   - 7-Zip
   - LZMA2
   - Quine
   - 压缩包
-  relme:
-    https://mabbs.github.io/: true
+  relme: {}
   last_post_title: 如何制作一个“完整”的博客压缩包？
   last_post_description: 让AI做出真正的“完整”将不再是难事……
   last_post_date: "2026-10-01T00:00:00+08:00"
@@ -90,11 +51,11 @@ params:
     hasPosts: 3
     postcats: 3
     promoted: 5
-    promotes: 10
-    relme: 2
+    promotes: 0
+    relme: 0
     title: 3
-    website: 2
-  score: 35
+    website: 0
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

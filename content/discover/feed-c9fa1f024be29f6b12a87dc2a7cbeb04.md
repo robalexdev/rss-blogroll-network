@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Change in AI Strategy
-  last_post_description: AI models have reached commodity status as prices fall 41%
-    while token usage surges 50%. To win relative share, labs should partner & resell
-    models, control the user interface where distribution
-  last_post_date: "2026-10-07T00:00:00Z"
-  last_post_link: https://tomtunguz.com/what-if-the-models-are-commoditized/
+  last_post_title: Closing Eight Figure Deals in Two Weeks
+  last_post_description: Bardia Shahali, VP of Sales at Granola, joins Office Hours
+    to explain how AI-era sales teams run smaller because revenue per rep multiplies,
+    why comp plans moved from annual to quarterly, & why the
+  last_post_date: "2026-10-22T00:00:00Z"
+  last_post_link: https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 66e865893d53ecad11d0ebe583f7e265
+  last_post_guid: ecad455ccc3f5154ea82eb0941120192
   score_criteria:
     cats: 0
     description: 3

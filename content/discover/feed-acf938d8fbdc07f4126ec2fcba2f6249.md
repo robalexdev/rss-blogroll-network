@@ -1,6 +1,6 @@
 ---
 title: Kia Kamgar
-date: "2026-09-30T14:31:49Z"
+date: "2026-10-22T11:54:55Z"
 description: ""
 params:
   feedlink: https://kiakamgar.com/posts_feed
@@ -25,32 +25,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - tech minimalism
+  - business
+  - update
   relme:
     https://kiakamgar.com/: true
-  last_post_title: Guess what this team needs to do?
-  last_post_description: 'I received an email from a prospective client and want to
-    share exactly what they’re struggling with, so you know you’re not the only one…
-    Team Size: 7 people The Core Problem: The team spends'
-  last_post_date: "2026-09-30T14:35:52Z"
-  last_post_link: https://kiakamgar.com/posts/guess-what-this-team-needs-to-do
+  last_post_title: Own your audience, not their time with a yet another newsletter.
+  last_post_description: 2026 (well realistically 2027) is the time for small business
+    owner to become famous. And I don’t mean in terms of TikTok style video shit.
+    Be famous for what they...
+  last_post_date: "2026-10-22T11:54:55Z"
+  last_post_link: https://kiakamgar.com/posts/own-your-audience-not-their-time-with-a-yet-another-newsletter
   last_post_categories:
-  - tech minimalism
+  - business
+  - update
   last_post_language: ""
-  last_post_guid: 3bfa433b701d3d627d52bd5633349fe5
+  last_post_guid: 0dea4692db271f65576e031d8d657b4f
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

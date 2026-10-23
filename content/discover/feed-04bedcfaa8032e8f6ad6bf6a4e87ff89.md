@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: 04bedcfaa8032e8f6ad6bf6a4e87ff89
   websites:
-    https://pikuma.com/: false
     https://pikuma.com/blog: false
   blogrolls: []
   in_blogrolls:
@@ -29,15 +28,15 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'The History Behind the x86 CPU: From 4004 to 486'
-  last_post_description: Why is x86 little-endian? Why are registers called AX, BX,
-    CX, and DX, and why DOS uses addresses in the format A000:0000? The answers are
-    in the story of how each chip was born.
-  last_post_date: "2026-10-02T00:00:00Z"
-  last_post_link: https://pikuma.com/blog/history-of-x86-4004-to-486
+  last_post_title: Can Ease of Creation Lead to Decrease in Quality & Value?
+  last_post_description: Why does so much new music sound the same? Why does a song
+    feel almost worthless when you can stream every album ever recorded for the price
+    of one CD? And... is software next?
+  last_post_date: "2026-10-12T00:00:00Z"
+  last_post_link: https://pikuma.com/blog/ease-creation-decrease-quality-value
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 806d90a697958d59b3c1370135051683
+  last_post_guid: b15a13a23e4148f2a77cf31d08db86a0
   score_criteria:
     cats: 0
     description: 3

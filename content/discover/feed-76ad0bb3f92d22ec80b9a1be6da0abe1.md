@@ -15,21 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - experiment
-  - life
+  - emacs
+  - speech-recognition
   relme: {}
-  last_post_title: Continuing my experiment with (semi-)retirement
+  last_post_title: Dictating blog posts into Emacs
   last_post_description: |-
-    As I mentioned, the kiddo is 10, so this is an especially good opportunity to focus on spending time with her.
-      I think she might be twice-exceptional.
-      We're starting to see some areas where she
-  last_post_date: "2026-10-09T18:58:09Z"
-  last_post_link: https://sachachua.com/blog/2026/10/continuing-my-experiment-with-semi-retirement/
+    Matt is experimenting with dictating his blog posts. He says:
+
+
+
+
+    I write really well. I have very good grammatical skills, for the most part, when I’m typing. But when I speak, I don’t speak
+  last_post_date: "2026-10-22T19:13:18Z"
+  last_post_link: https://sachachua.com/blog/2026/10/dictating-blog-posts-into-emacs/
   last_post_categories:
-  - experiment
-  - life
+  - emacs
+  - speech-recognition
   last_post_language: ""
-  last_post_guid: 3d5bca509c519730b55a75247e8bc1b8
+  last_post_guid: 630a1b3f130934cd875879950fdec88c
   score_criteria:
     cats: 0
     description: 3

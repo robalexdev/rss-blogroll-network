@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Verification Without Inspection
-  last_post_description: A week ago I finished up at Westpac NZ. I was fortunate to
-    spend the last few years there as a Distinguished Engineer, a role with an unusually
-    wide and undefined remit. It was the perfect playground
-  last_post_date: "2026-07-31T05:00:00+12:00"
-  last_post_link: http://annievella.com/posts/verification-without-inspection/
+  last_post_title: Supervisory Engineering Work
+  last_post_description: Automation is not new in software development. We’ve been
+    automating parts of our process for decades - build pipelines, testing, deployments.
+    With AI, we’re now able to automate work that
+  last_post_date: "2026-10-23T00:00:00+13:00"
+  last_post_link: http://annievella.com/posts/supervisory-engineering-work/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d4957bdcf8ded8e0c5a9ee91325dceb
+  last_post_guid: d9a28471fb431c0654d6396f81501565
   score_criteria:
     cats: 0
     description: 3

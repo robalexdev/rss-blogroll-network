@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -47,15 +47,15 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: Radxa's Q8B has 2x the performance and expansion of the Pi 5
-  last_post_description: There was a time I'd look at a board like the Radxa Dragon
-    Q8B (at left, above) and be like, "there's no way I'd spend $209 on an SBC with
-    8 gigs of RAM". But we're in 2026, and seeing the 8 gig
-  last_post_date: "2026-10-09T15:00:00-05:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/
+  last_post_title: Ubiquiti's $99 Vape Detector is actually pretty good
+  last_post_description: Since learning about the effects of high CO2 concentration
+    on attention and cognitive performance—especially at levels much higher than 2000ppm—I've
+    started monitoring CO2 and other air quality
+  last_post_date: "2026-10-23T09:00:00-04:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1cd7b22e66f6874792dca4394066cc7d
+  last_post_guid: 1b0e4a47f3c95f0074bc54ac12819530
   score_criteria:
     cats: 0
     description: 3

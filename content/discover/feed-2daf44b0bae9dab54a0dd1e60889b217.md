@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-10-11T18:02:23Z"
+date: "2026-10-23T19:03:32Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -39,16 +39,17 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #201'
+  last_post_title: 'The Index: Issue #203'
   last_post_description: |-
-    2027 web platform feature ranking
-
-    This is the second year we're doing this, and last year's 1900+ rankings not only helped us push the right proposals in the Interop process, it was also used to
-  last_post_date: "2026-10-09T08:55:00Z"
-  last_post_link: https://piccalil.li/the-index/201/?ref=main-rss-feed
+    Overgrown, when plants invade your abandoned tabs
+    This is fun.
+    All my hobbies are getting slopped up, and it’s exhausting
+    Video game orientated, but I'm sure many of you will resonate with this
+  last_post_date: "2026-10-23T10:55:00Z"
+  last_post_link: https://piccalil.li/the-index/203/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cef8bda41f89e165d273b1b229a14119
+  last_post_guid: 61768911a681b6c621fbef560eaa9250
   score_criteria:
     cats: 0
     description: 3

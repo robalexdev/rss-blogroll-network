@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -30,13 +30,13 @@ params:
   categories: []
   relme:
     https://aethermug.com/: true
-  last_post_title: Please Don't Shame the AI Writers
-  last_post_description: A case for an uncomfortable middle ground
-  last_post_date: "2026-10-01T02:00:58Z"
-  last_post_link: https://aethermug.com/posts/please-don-t-shame-the-ai-writers?utm_source=rss&utm_campaign=rss
+  last_post_title: A Map, a Toolbox, a Convergence
+  last_post_description: Some things emerge
+  last_post_date: "2026-10-22T01:25:50Z"
+  last_post_link: https://aethermug.com/posts/a-map-a-toolbox-a-convergence?utm_source=rss&utm_campaign=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ccc4e1e1a636aa7db72c324ea1960be5
+  last_post_guid: caa1db1f64f3b14a34f84f0dbbc0a51e
   score_criteria:
     cats: 0
     description: 3

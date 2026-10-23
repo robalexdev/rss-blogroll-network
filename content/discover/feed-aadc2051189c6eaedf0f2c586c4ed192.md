@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2026-07-25T06:13:21Z"
+date: "2026-10-05T13:52:00Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,33 +25,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 25in25
-  - reflection
+  - brainblast
+  - internet
+  - music
+  - software development
+  - stoic
   relme: {}
-  last_post_title: 25 in ’25 - November
-  last_post_description: 'One left! At the beginning of 2025, I set a goal: to achieve 25
-    Actionable Items in 2025. Thus far, I’ve been keeping tabs on my journey each
-    month in the...'
-  last_post_date: "2026-09-21T15:01:16Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/25-in-25-november
+  last_post_title: Hosting an ‘Internet Search Party’
+  last_post_description: Yes, a party about surfing the internet. I’m serious. I recently
+    hosted an in-person 'Internet Search Party’ (and single release) here in Boston.
+    The purpose and position of the party...
+  last_post_date: "2026-10-15T18:42:26Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/hosting-an-internet-search-party
   last_post_categories:
-  - 25in25
-  - reflection
+  - brainblast
+  - internet
+  - music
+  - software development
+  - stoic
   last_post_language: ""
-  last_post_guid: 526eec09d63bbfe36739a3779ebd0908
+  last_post_guid: d5cf8b502c06033665949af4b4de0c59
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

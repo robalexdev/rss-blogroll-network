@@ -20,29 +20,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Recomendo
+  - Book Freak
+  - Tips
   relme: {}
-  last_post_title: Jurassic sounds / Free Utilities / China travel tip
-  last_post_description: 'Recomendo - issue #535'
-  last_post_date: "2026-10-11T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/jurassic-sounds-free-utilities-china-travel-tip/
+  last_post_title: 'Book Freak #228: Breakthrough Copywriter'
+  last_post_description: A practical field guide to the copywriting genius of Eugene
+    Schwartz
+  last_post_date: "2026-10-23T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/book-freak-228-breakthrough-copywriter/
   last_post_categories:
-  - Recomendo
+  - Book Freak
+  - Tips
   last_post_language: ""
-  last_post_guid: 611e3711a61a3d677a4e8cd846d585f8
+  last_post_guid: 255245bb8d7e60634bb7553bfa896b56
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

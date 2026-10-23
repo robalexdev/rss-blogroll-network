@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-10-11T18:42:19Z"
+date: "2026-10-23T19:35:31Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -44,32 +44,33 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - package-managers
-  - weekly
+  - ai
+  - satire
+  - security
   relme: {}
-  last_post_title: 'This Week in Package Management: 10 October 2026'
-  last_post_description: Releases, advisories, and articles from across the package
-    management world
-  last_post_date: "2026-10-10T10:00:00Z"
-  last_post_link: https://nesbitt.io/2026/10/10/this-week-in-package-management.html
+  last_post_title: One Small Bug
+  last_post_description: Want me to fix that too?
+  last_post_date: "2026-10-23T09:00:00Z"
+  last_post_link: https://nesbitt.io/2026/10/23/one-small-bug.html
   last_post_categories:
-  - package-managers
-  - weekly
+  - ai
+  - satire
+  - security
   last_post_language: ""
-  last_post_guid: b25456f806d7367e3c8afa9ad55f8096
+  last_post_guid: 4d8a6ee5e4eb1067c8372af7ffa1263e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

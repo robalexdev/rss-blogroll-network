@@ -6,8 +6,7 @@ params:
   feedlink: https://treyhunner.com/python.xml
   feedtype: atom
   feedid: 08ff576569d3d4a442e105abadea6baa
-  websites:
-    https://treyhunner.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet Python
@@ -18,11 +17,7 @@ params:
   categories:
   - learning
   - python
-  relme:
-    https://mastodon.social/@PythonMorsels: true
-    https://mastodon.social/@treyhunner: true
-    https://treyhunner.com/: true
-    https://www.pythonmorsels.com/: true
+  relme: {}
   last_post_title: Python Morsels now has spaced repetition
   last_post_description: ""
   last_post_date: "2026-09-03T17:30:00-07:00"
@@ -41,10 +36,10 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 23
+    website: 0
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

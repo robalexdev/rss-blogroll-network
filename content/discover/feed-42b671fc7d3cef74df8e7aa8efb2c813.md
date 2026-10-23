@@ -6,8 +6,7 @@ params:
   feedlink: https://danielchasehooper.com/feed.xml
   feedtype: rss
   feedid: 42b671fc7d3cef74df8e7aa8efb2c813
-  websites:
-    https://danielchasehooper.com/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

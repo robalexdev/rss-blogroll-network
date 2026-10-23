@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,21 +34,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Misc
+  - Webdesign
   relme:
     https://blog.x-way.org/: true
     https://github.com/x-way: true
     https://infosec.exchange/@x_way: true
-  last_post_title: A live Sydney webcam
-  last_post_description: "WebcamSydney provides a live stream of the Sydney harbour.\n\n\n\tWebcamSydney
-    1 Live Stream of Harbour 24/7 (~4K)\n\n\n\t(via)\n\nThanks for reading this post
-    via RSS. You're awesome ♥️"
-  last_post_date: "2026-10-10T22:43:41+02:00"
-  last_post_link: https://blog.x-way.org/Misc/2026/10/10/A-live-Sydney-webcam.html?utm_medium=rss
+  last_post_title: Findings from the web
+  last_post_description: "Some interesting links I found on the web.\n\n\n\tOrigami
+    by Dan Q (via).\n\n\n\tHTML boilerplate by Vale and Manuel (via).\n\n\n\tImproved
+    CSS Text-Stroke.\n\n\n\tCSS for underlines.\n\nThanks for reading this post"
+  last_post_date: "2026-10-18T09:43:29+02:00"
+  last_post_link: https://blog.x-way.org/Webdesign/2026/10/18/Findings-from-the-web.html?utm_medium=rss
   last_post_categories:
-  - Misc
+  - Webdesign
   last_post_language: ""
-  last_post_guid: 5f084c3ecb9f6831046a445993859367
+  last_post_guid: 188b956922621937c889634bbc07ce92
   score_criteria:
     cats: 0
     description: 3

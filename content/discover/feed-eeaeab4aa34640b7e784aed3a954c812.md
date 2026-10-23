@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: LLMs are making me lose my savviness
-  last_post_description: I don’t know what’s going on. I always wanted to solve problems
-    and create things, but now that I have access to a tool that’s able to speed up
-    the whole design and development process… I’m
-  last_post_date: "2026-08-29T12:00:00Z"
-  last_post_link: https://pgaleone.eu/ai/2026/08/29/losing-savviness/
+  last_post_title: eGPU & Local LLM Inference
+  last_post_description: Setting up and customizing Linux machines has always been
+    a pleasure of mine. For years I ran a few clunky local servers at home and hosted
+    every kind of application on them. Then the cloud came, and
+  last_post_date: "2026-10-20T02:00:00Z"
+  last_post_link: https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 28ba980e115920a45fd5c96730de7b86
+  last_post_guid: 3dcf741892e1d37afecda15a00bd84dc
   score_criteria:
     cats: 0
     description: 3

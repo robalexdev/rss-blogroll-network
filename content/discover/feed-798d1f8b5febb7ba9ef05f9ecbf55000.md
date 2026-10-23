@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,32 +25,37 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Customer Service
   - Life
+  - Review
   relme:
     https://artiss.blog/: true
-  last_post_title: Water flossers and an example of form over substance
-  last_post_description: Water flossers are great dental hygiene product but, for
-    what they are, they can be pretty expensive. Spending over £100 for something
-    that sprays water through a nozzle is steep – whichever one
-  last_post_date: "2026-10-08T10:49:40Z"
-  last_post_link: https://artiss.blog/2026/10/water-flossers-and-an-example-of-form-over-substance/
+  last_post_title: Manhattan TV – good Freeview players but terrible customer service
+    when they go wrong
+  last_post_description: Last year I finally ditched my Humax Freeview Recorder for
+    a shiny new Manhattan T4-R – the latest iteration of their own recorder, and I’d
+    heard good thinks about their past devices. However,
+  last_post_date: "2026-10-16T08:34:31Z"
+  last_post_link: https://artiss.blog/2026/10/manhattan-tv-good-freeview-players-but-terrible-customer-service-when-they-go-wrong/
   last_post_categories:
+  - Customer Service
   - Life
+  - Review
   last_post_language: ""
-  last_post_guid: eb8f2ee891f31beb8564c8597332dd30
+  last_post_guid: c434099258f08a2b4ed7ea4fb0585414
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

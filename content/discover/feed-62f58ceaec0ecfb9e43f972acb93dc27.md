@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Disk Utility or VeraCrypt: How should you encrypt files on a Mac?'
-  last_post_description: I needed to protect files stored in iCloud and on an external
-    USB drive, so I compared VeraCrypt with the encrypted disk images built into macOS.
-  last_post_date: "2026-10-11T00:00:00Z"
-  last_post_link: https://macborn.com/posts/disk-utility-or-veracrypt
+  last_post_title: Playing Quake III Arena on a modern Mac
+  last_post_description: I returned to Quake III Arena after many years and used ioquake3
+    to get it running on my MacBook.
+  last_post_date: "2026-10-17T00:00:00Z"
+  last_post_link: https://macborn.com/posts/playing-quake-iii-on-a-modern-mac
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3e00febf44390c5164281a3ea4dae16d
+  last_post_guid: efe3b4b7e0854dd9b8eb63d6e5d376e1
   score_criteria:
     cats: 0
     description: 3

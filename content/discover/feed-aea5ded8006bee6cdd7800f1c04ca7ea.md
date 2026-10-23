@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -52,15 +52,6 @@ params:
   - https://marcel.io/feeden
   - https://netzpolitik.org/comments/feed/
   - https://netzpolitik.org/feed/podcast
-  - https://wirres.net/feed/alles/
-  - https://wirres.net/feed/artikel/
-  - https://wirres.net/feed/bilder/
-  - https://wirres.net/feed/bookmarks/
-  - https://wirres.net/feed/favoriten/
-  - https://wirres.net/feed/mediamenu/
-  - https://wirres.net/feed/rezepte/
-  - https://wirres.net/feed/river/
-  - https://wirres.net/feed/top/
   - https://www.buddenbohm-und-soehne.de/comments/feed/
   - https://www.dirkvongehlen.de/comments/feed/
   recommender:
@@ -77,7 +68,6 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   - https://pftn.hr/feed.xml
-  - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
   - kirby-cms, indieweb

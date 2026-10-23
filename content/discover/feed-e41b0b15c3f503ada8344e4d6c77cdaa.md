@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,28 +25,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 62 Montague Street
-  - Anna Juliette Osborn
+  - Abraham Rycken Van Lent
   - Cat Stories
-  - Cats of Old New York
-  - Jane Donaldson Myers
-  - Lady Mary wortley Montagu
+  - Dog Tails
+  - Katharine B. Davis
+  - RIkers Island Cat Rescue
+  - Reverend William Nichols
+  - Rikers Island
   relme: {}
-  last_post_title: '1930s: Johnny and Snooky, the Aristocratic Cats of Montague Street'
-  last_post_description: Johnny was a fancy-schmancy feline. So it’s no surprise that
-    the pampered pet lived in one of the fanciest apartment buildings in Brooklyn
-    Heights, at 62 Montague Street. Johnny was a black Persian
-  last_post_date: "2026-08-20T23:26:46Z"
-  last_post_link: https://hatchingcatnyc.com/2026/08/20/johnny-snooky-cats-montague-street/?utm_source=rss&utm_medium=rss&utm_campaign=johnny-snooky-cats-montague-street
+  last_post_title: '1915: Bill Nichols, the Cat Who Could Have Been a Rikers Island
+    Hero'
+  last_post_description: I recently learned that there is a large cat colony on Rikers
+    Island, where hundreds of feral cats have been living for many years (most of
+    the original cats had been dumped on the island by
+  last_post_date: "2026-10-21T00:01:04Z"
+  last_post_link: https://hatchingcatnyc.com/2026/10/21/cat-rikers-island-hero/?utm_source=rss&utm_medium=rss&utm_campaign=cat-rikers-island-hero
   last_post_categories:
-  - 62 Montague Street
-  - Anna Juliette Osborn
+  - Abraham Rycken Van Lent
   - Cat Stories
-  - Cats of Old New York
-  - Jane Donaldson Myers
-  - Lady Mary wortley Montagu
+  - Dog Tails
+  - Katharine B. Davis
+  - RIkers Island Cat Rescue
+  - Reverend William Nichols
+  - Rikers Island
   last_post_language: ""
-  last_post_guid: 89aef74a13579b7eda2be2eb6f962c25
+  last_post_guid: 9bfce4eb4f8a4480f8794fdbef9a63b1
   score_criteria:
     cats: 0
     description: 3

@@ -12,7 +12,7 @@ params:
     https://remysharp.com/speaking/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML

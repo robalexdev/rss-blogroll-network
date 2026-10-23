@@ -13,7 +13,7 @@ params:
   - title: Wikidata Web Feed Export
     description: An export of all web feeds seen in the Wikidata dataset
     id: c5982e7d50e6132f3bca6cb24d3d0c18
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll. Handverlesene Empfehlungen. von el flojo

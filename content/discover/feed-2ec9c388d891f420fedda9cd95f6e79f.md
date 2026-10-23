@@ -1,6 +1,6 @@
 ---
 title: Another Dayu
-date: "2026-10-11T16:19:53Z"
+date: "2026-10-23T16:01:06Z"
 description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
   闲逛的我，在 Instagram 摄影的我，在 Steam"
 params:
@@ -24,13 +24,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 形式熟悉，内容陌生，味道惊喜
+  last_post_title: QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面
   last_post_description: ""
-  last_post_date: "2026-10-06T09:29:02Z"
-  last_post_link: https://anotherdayu.com/9891/
+  last_post_date: "2026-10-22T16:01:05Z"
+  last_post_link: https://anotherdayu.com/quietsearch-kagi-deepseek-api/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 16f6b985d49f601b76d1fd2262175e9f
+  last_post_guid: 5166374e71425cb18984e51db8c6ba2e
   score_criteria:
     cats: 0
     description: 3

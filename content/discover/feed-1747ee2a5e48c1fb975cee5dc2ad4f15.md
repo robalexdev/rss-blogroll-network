@@ -19,13 +19,13 @@ params:
   categories: []
   relme:
     https://anselm-hannemann.com/writings: true
-  last_post_title: On the suggested CSS Universal Class Selector `*-`
+  last_post_title: The »No Model Training« Signal
   last_post_description: ""
-  last_post_date: "2026-08-21T00:00:00+02:00"
-  last_post_link: https://anselm-hannemann.com/writings/on-the-suggested-css-universal-class-selector
+  last_post_date: "2026-10-19T00:00:00+02:00"
+  last_post_link: https://anselm-hannemann.com/writings/the-no-model-training-signal
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d2bb432b8d447671328767be7bc769d
+  last_post_guid: ff1b18a3c964326ce509908cd749576b
   score_criteria:
     cats: 0
     description: 3

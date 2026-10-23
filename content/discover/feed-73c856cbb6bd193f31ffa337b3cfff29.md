@@ -28,16 +28,15 @@ params:
     https://mastodon.gamedev.place/@djlink: true
     https://www.david-amador.com/: true
     https://www.upfallstudios.com/: true
-  last_post_title: Quest of Dungeons launching for Nintendo Switch 2 with mouse mode
-    and new content
-  last_post_description: "Hello! \U0001F44B\nFor several months now, I’ve been working
-    on a brand new surprise update.\nQuest of Dungeons is coming to Nintendo Switch
-    2! And it’s not just a straight port, I wanted to take"
-  last_post_date: "2026-08-27T05:47:00Z"
-  last_post_link: https://www.david-amador.com/2026/08/quest-of-dungeons-for-nintendo-switch-2-mouse-mode-update/
+  last_post_title: Software Developers are anxious and burning out over state of tech
+  last_post_description: |-
+    Everything seems broken in the software development world right now.
+    I’ve been thinking about this for a while, but it has been escalating very rapidly, especially in the last few weeks, so I’m
+  last_post_date: "2026-10-16T05:47:00Z"
+  last_post_link: https://www.david-amador.com/2026/10/software-developers-are-anxious-and-burning-out-over-state-of-tech/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fddb7c0e79b8d68eebc462910367ac27
+  last_post_guid: c965a510f039a60c8bc6c56d47db06dd
   score_criteria:
     cats: 0
     description: 3

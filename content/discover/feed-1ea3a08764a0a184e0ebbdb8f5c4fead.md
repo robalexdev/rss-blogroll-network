@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-10-11T19:18:44Z"
+date: "2026-10-23T09:32:12Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,29 +26,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - personal
+  - ai
+  - blogging
   relme: {}
-  last_post_title: Q3 2026 notes
+  last_post_title: AI agents on the IndieWeb
   last_post_description: ""
-  last_post_date: "2026-10-07T07:03:48Z"
-  last_post_link: https://winther.sysctl.dk/q3-2026-notes/
+  last_post_date: "2026-10-14T19:25:44Z"
+  last_post_link: https://winther.sysctl.dk/ai-agents-on-the-indieweb/
   last_post_categories:
-  - personal
+  - ai
+  - blogging
   last_post_language: ""
-  last_post_guid: 874064a873ed8c5e4280eee69fe3a821
+  last_post_guid: 44d780942ff50c412c32207a9020cc56
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

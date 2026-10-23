@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -34,8 +34,7 @@ params:
     description: ""
     id: 603658cadcf227d3674971f61cbcac3c
   recommended: []
-  recommender:
-  - https://hacdias.com/feed.xml
+  recommender: []
   categories: []
   relme: {}
   last_post_title: Summary of changes for September 2026

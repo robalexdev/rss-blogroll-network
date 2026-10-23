@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -50,29 +50,27 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - cosplay
   - general
-  - qcosplay
-  - star-trek
+  - misc
+  - miscellaneous
   relme:
     https://artlung.com/: true
     https://artlung.com/elsewhere/: true
     https://artlung.com/links/: true
     https://artlung.com/newsletter/: true
     https://xoxo.zone/@artlung: true
-  last_post_title: 'SDCC 2026: Star Trek Group Photoshoots'
-  last_post_description: I’ve got a bit of a backlog of things to say about San Diego
-    Comic-Con 2026. Time flies, but these photos deserve to be posted and I do enjoy
-    them. Click through to the photographers! They’re
-  last_post_date: "2026-10-09T23:30:43Z"
-  last_post_link: https://artlung.com/blog/2026/10/09/sdcc-2026-star-trek/
+  last_post_title: Friday Miscellany
+  last_post_description: I got an email and text message nearly simultaneously today.
+    Hello JOSEPH CRAWFORD, This is a message from the California Secretary of State
+    on behalf of San Diego Registrar of Voters. Your ballot
+  last_post_date: "2026-10-23T18:56:02Z"
+  last_post_link: https://artlung.com/blog/2026/10/23/friday-miscellany/
   last_post_categories:
-  - cosplay
   - general
-  - qcosplay
-  - star-trek
+  - misc
+  - miscellaneous
   last_post_language: ""
-  last_post_guid: 59d15008343d6d689dd36df7fd40e6e0
+  last_post_guid: 3d161a731e8a35e71c1fc69603fbb966
   score_criteria:
     cats: 0
     description: 3

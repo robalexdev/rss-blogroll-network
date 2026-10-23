@@ -8,7 +8,6 @@ params:
   feedtype: rss
   feedid: d95fab2bad74c92e966dac860f78bd8d
   websites:
-    https://resolve.works/: true
     https://resolve.works/articles/: false
   blogrolls: []
   in_blogrolls:
@@ -38,8 +37,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

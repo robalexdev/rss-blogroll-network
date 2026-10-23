@@ -19,7 +19,6 @@ params:
     id: 0e6688bac0e3388cb2ded610be79da60
   recommended: []
   recommender:
-  - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
   - Bahnhof Köpenick

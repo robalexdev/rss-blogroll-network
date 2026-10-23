@@ -7,13 +7,13 @@ params:
   feedtype: rss
   feedid: fd398174b1b75ffebf1d2020fc2f5cab
   websites:
-    https://eliseomartelli.it/: true
+    https://eliseomartelli.it/: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -45,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 19
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

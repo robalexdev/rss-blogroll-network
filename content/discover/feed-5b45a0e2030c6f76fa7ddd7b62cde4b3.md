@@ -35,8 +35,7 @@ params:
     description: ""
     id: 9342e2c9fad7bf68687fab207d1c4b11
   recommended: []
-  recommender:
-  - https://hacdias.com/feed.xml
+  recommender: []
   categories: []
   relme: {}
   last_post_title: "2025"

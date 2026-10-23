@@ -6,14 +6,13 @@ params:
   feedlink: https://j3s.sh/feed.atom
   feedtype: atom
   feedid: a3af0776866ff8a7abf862d5ccfbf594
-  websites:
-    https://j3s.sh/: false
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -47,8 +46,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 12
+    website: 0
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

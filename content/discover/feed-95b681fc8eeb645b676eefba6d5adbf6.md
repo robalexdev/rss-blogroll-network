@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -53,15 +53,6 @@ params:
   - https://kinderfilmblog.de/feed/
   - https://sicherheitspod.de/comments/feed/
   - https://stadt-bremerhaven.de/comments/feed/
-  - https://wirres.net/feed/alles/
-  - https://wirres.net/feed/artikel/
-  - https://wirres.net/feed/bilder/
-  - https://wirres.net/feed/bookmarks/
-  - https://wirres.net/feed/favoriten/
-  - https://wirres.net/feed/mediamenu/
-  - https://wirres.net/feed/rezepte/
-  - https://wirres.net/feed/river/
-  - https://wirres.net/feed/top/
   - https://wrint.de/comments/feed/
   - https://www.shortoftheweek.com/feed/atom/
   - https://xkcd.com/rss.xml

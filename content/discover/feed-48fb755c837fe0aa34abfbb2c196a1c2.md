@@ -31,7 +31,6 @@ params:
   - https://denkfabrikblog.de/feed/
   - https://horst-scheuer.de/comments/feed/
   - https://horst-scheuer.de/feed/
-  - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
   - Apple

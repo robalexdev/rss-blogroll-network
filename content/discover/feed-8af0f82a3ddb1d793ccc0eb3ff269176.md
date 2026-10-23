@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: johnjohnston/blogroll
@@ -38,8 +38,7 @@ params:
     description: ""
     id: 03553abc85517218f421d95a82a6f691
   recommended: []
-  recommender:
-  - https://roytang.net/index.xml
+  recommender: []
   categories: []
   relme:
     https://phire.place/@vasta: true

@@ -1,6 +1,6 @@
 ---
 title: Derek Sivers
-date: "2026-09-23T19:29:24Z"
+date: "2026-10-18T15:14:46Z"
 description: 'everything from my site: articles, tweets, book notes, interviews, etc.'
 params:
   feedlink: https://sive.rs/feed.xml
@@ -22,15 +22,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: To understand Türkiye and Turkish worldviews a bit, this book is
-    a good quick start
-  last_post_description: 'To understand Türkiye and Turkish worldviews a bit, this
-    book is a good quick start: https://sive.rs/book/TurkeyCS'
-  last_post_date: "2026-09-23T19:29:24Z"
+  last_post_title: Istanbul Tűrkiye - 12 days in 10 neighborhoods, meeting up with
+    30 local people for 60 hours of conversation
+  last_post_description: 'Istanbul Tűrkiye - 12 days in 10 neighborhoods, meeting
+    up with 30 local people for 60 hours of conversation: https://sive.rs/met/at-16'
+  last_post_date: "2026-10-18T15:14:46Z"
   last_post_link: https://sive.rs/d
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ab2f45d6ecb1db62143fa6989abae0c4
+  last_post_guid: a4780dd7842c552d6de22777c2125cee
   score_criteria:
     cats: 0
     description: 3

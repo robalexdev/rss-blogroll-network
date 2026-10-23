@@ -1,6 +1,6 @@
 ---
 title: technicalwriting.dev
-date: "2026-10-11T17:13:07Z"
+date: "2026-10-18T14:40:50Z"
 description: Field notes from the frontier of technical writing.
 params:
   feedlink: https://technicalwriting.dev/rss.xml

@@ -23,27 +23,38 @@ params:
   recommender: []
   categories:
   - Personal
-  - animals
-  - ducks
-  - openbenches
-  - picnic
-  - tango
+  - board games
+  - game
+  - games
+  - hide and seek
+  - jet lag
+  - london
+  - public transport
+  - rain
+  - transport
+  - underground
+  - weather
   relme: {}
-  last_post_title: '[Note] Hanley Swan'
-  last_post_description: Ruth and I stopped at Hanley Swan for a picnic lunch on our
-    way home from our weekend of Argentine Tango classes. Within seconds our lunch
-    had attracted a large flock of ducks from the little duck
-  last_post_date: "2026-10-11T15:34:48Z"
-  last_post_link: https://danq.me/2026/10/11/hanley-swan/
+  last_post_title: '[Note] Hide and Seek London'
+  last_post_description: Well, it looks like I've committed to playing this on the
+    wettest imaginable weekend. Wish me luck!
+  last_post_date: "2026-10-23T13:03:12Z"
+  last_post_link: https://danq.me/2026/10/23/hide-and-seek-london/
   last_post_categories:
   - Personal
-  - animals
-  - ducks
-  - openbenches
-  - picnic
-  - tango
+  - board games
+  - game
+  - games
+  - hide and seek
+  - jet lag
+  - london
+  - public transport
+  - rain
+  - transport
+  - underground
+  - weather
   last_post_language: ""
-  last_post_guid: d2bbddcd73068b53736716c4969a69ec
+  last_post_guid: 211b45c5f2e70965d49255a8d6305504
   score_criteria:
     cats: 0
     description: 3

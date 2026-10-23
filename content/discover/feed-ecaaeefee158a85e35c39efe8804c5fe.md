@@ -26,16 +26,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: 32 years and still diggin!
-  last_post_description: On 10/7/1994, I wrote my first blog post. I’ve been blogging
-    ever since. In the first years when wifi wasn’t in every hotel room and restaurant
-    as it is today, before cell phones or even iPods,
-  last_post_date: "2026-10-07T15:18:53Z"
-  last_post_link: https://daveverse.org/2026/10/07/32-years-and-still-diggin/
+  last_post_title: The web of Markdown, part 3
+  last_post_description: 'Previous posts on this topic: Oct 6 and Oct 8. What’s new?
+    I’ve got a browser running, and have been using it for a few weeks. We’re not
+    releasing it today because first I want people to think'
+  last_post_date: "2026-10-23T15:20:14Z"
+  last_post_link: https://daveverse.org/2026/10/23/the-web-of-markdown-part-3/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 49d2f7f304c51cb2ae4cacdf7ab5ec67
+  last_post_guid: 2655aba054f69f30cd8a7ac93b142fd2
   score_criteria:
     cats: 0
     description: 3

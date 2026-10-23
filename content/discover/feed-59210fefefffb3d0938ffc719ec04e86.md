@@ -19,15 +19,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: most of my posts have typos + on lowercase hate
-  last_post_description: i tend to write very fast (had originally written vrery,
-    point proven). my posts are born when i am feeling strongly about something, and
-    i need to get my point across. the point i am making could be
-  last_post_date: "2026-10-11T14:27:56Z"
-  last_post_link: https://skuka.online/most-of-my-posts-have-typos-on-lowercase-hate/
+  last_post_title: We are all living inside of an obscure sci-fi film from 1970
+  last_post_description: |-
+    Imagine that a film was released this year in which the following happened:
+
+    An easily led US President is persuaded by a smug, egotistical tech bro to hand over complete control of the nation’s
+  last_post_date: "2026-10-23T16:24:00Z"
+  last_post_link: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b860d752b8fb2b30a804b846fc257d66
+  last_post_guid: c0c79035b78d805ac8381e8eda472def
   score_criteria:
     cats: 0
     description: 3

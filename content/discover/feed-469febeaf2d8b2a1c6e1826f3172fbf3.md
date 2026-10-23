@@ -8,7 +8,6 @@ params:
   feedid: 469febeaf2d8b2a1c6e1826f3172fbf3
   websites:
     https://karma.domains/: false
-    https://karma.domains/en/updates/: true
   blogrolls: []
   in_blogrolls:
   - title: English RSS collated by MoreRSS
@@ -18,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Webhooks for expired and auction domains
-  last_post_description: A signed JSON POST when a filter matches, an auction changes,
-    or you update a note, a favorite, or a user task. Pro plan.
-  last_post_date: "2026-10-03T10:00:00Z"
-  last_post_link: https://karma.domains/en/updates/#webhooks
+  last_post_title: 'Karma browser extension: checkers in Chrome'
+  last_post_description: Run the same free domain checkers from the Chrome popup.
+    10 domains a day, then account credits.
+  last_post_date: "2026-10-20T10:00:00Z"
+  last_post_link: https://karma.domains/en/updates/#karma-browser-extension
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cb7acbc03d2313679f106ab7f06afcae
+  last_post_guid: 594f8101687985c804744857a26f7812
   score_criteria:
     cats: 0
     description: 3
@@ -37,8 +36,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

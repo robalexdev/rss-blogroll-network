@@ -24,17 +24,16 @@ params:
     description: ""
     id: 238a19259f6e8a31100a6ffaf1922bb5
   recommended: []
-  recommender:
-  - https://hacdias.com/feed.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: On reading books
-  last_post_description: How books have coloured my life
-  last_post_date: "2026-09-22T09:20:00Z"
-  last_post_link: https://herman.bearblog.dev/on-reading-books/
+  last_post_title: If people would just
+  last_post_description: Building systems that incentivise good behaviour
+  last_post_date: "2026-10-22T12:19:00Z"
+  last_post_link: https://herman.bearblog.dev/if-people-would-just/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f0eb0b3b850124786300bf18664587d9
+  last_post_guid: d5209829e118dd036c44c15097793d77
   score_criteria:
     cats: 0
     description: 3

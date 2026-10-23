@@ -16,17 +16,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Marketing-to-Sales Handoff: Who Owns It When You Have No RevOps
-    Team?'
+  last_post_title: 'Sender Reputation for B2B Outbound: How to Check It, Fix It, and
+    Who Should Own It'
   last_post_description: |-
-    By the Accord Tech Solutions team Â· Last reviewed October 2026
+    By the Accord Tech Solutions team · Last reviewed October 2026
 
-    Marketing owns a lead until sales accepts it, and sales owns it from the moment it is assigned. One senior person owns the result:
-  last_post_date: "2026-10-11T10:51:17Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/marketing-to-sales-handoff-who-owns-it-without-revops
+    Here is how to check sender reputation without paying for a tool. Use Google Postmaster Tools for mail that reaches Gmail, run a
+  last_post_date: "2026-10-20T11:40:10Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/how-to-check-and-fix-sender-reputation-b2b-outbound
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80d585075d6130466690b0789c9162e0
+  last_post_guid: 8bd4e826983e8eef2a6a6b0850ea5f7c
   score_criteria:
     cats: 0
     description: 3

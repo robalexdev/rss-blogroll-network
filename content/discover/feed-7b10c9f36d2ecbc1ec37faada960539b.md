@@ -28,15 +28,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Theres Something About Claude
-  last_post_description: We’ve building a few things over at Semi Serious Labs. Until
-    recently our LLMs of choice for software development was agy-cli with Gemini because
-    of our Google Pro plans and gpt-5.6/6 with codex as
-  last_post_date: "2026-10-09T13:53:51Z"
-  last_post_link: https://gurupanguji.com/blog/2026/10/09/theres-something-about-claude/
+  last_post_title: 'Bookmarked: Programming As A Hobby In The Age Of AI'
+  last_post_description: This is no longer true. In a world where AI generates the
+    code, my syntax explorations simply don’t matter. My digging into the edge cases
+    of a language or a framework have become irrelevant. My
+  last_post_date: "2026-10-19T01:30:07Z"
+  last_post_link: https://gurupanguji.com/blog/2026/10/19/programming-as-a-hobby-in-the-age-of-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1cbf4b82b9475b4db0be67b55d87dc16
+  last_post_guid: 96d5073af52d317edf55c3a64f2f240a
   score_criteria:
     cats: 0
     description: 3

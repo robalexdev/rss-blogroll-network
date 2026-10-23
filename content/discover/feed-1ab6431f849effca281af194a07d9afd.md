@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-10-12T03:43:13+08:00"
+date: "2026-10-24T04:33:11+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: llama.cpp 在 Windows 11 上安装，并下载运行第一个本地模型
-  last_post_description: 想尝试一下用 llama.cpp 在本地 Windows 电脑上运行一个翻译模型，把一部分中文内容翻译成英文。折腾了一上午，终于安装好了。之前在
-    Windows 上使用过
-  last_post_date: "2026-10-11T17:01:56+08:00"
-  last_post_link: https://www.sunzhongwei.com/llamacpp-install-on-windows-run-first-local-model
+  last_post_title: RuoYi Vue 管理后台页面的 Nginx 缓存问题
+  last_post_description: 目前的 RuoYi Vue 管理后台的前端发布之后，浏览器还是会缓存上一次发布的页面，触发手动刷新一下浏览器才能看到最新版本的前端页面。
+  last_post_date: "2026-10-22T20:03:34+08:00"
+  last_post_link: https://www.sunzhongwei.com/ruoyi-vue-management-backend-page-caching-issue
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 639656410accd38ac45c0e31b4afb867
+  last_post_guid: 168e66d5a192a88bb8ff8b7dcc704c9a
   score_criteria:
     cats: 0
     description: 3

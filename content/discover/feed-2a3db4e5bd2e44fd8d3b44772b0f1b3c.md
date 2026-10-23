@@ -1,6 +1,6 @@
 ---
 title: Ben Oliver
-date: "2026-10-09T15:41:49Z"
+date: "2026-10-20T19:21:41Z"
 description: Ben's top-of-the-line website
 params:
   feedlink: https://www.bfoliver.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,15 +29,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A few frames from the Botanical Gardens
-  last_post_description: My go-to place when I’m bored or trying out a new camera
-    is the Botanical Garden here in Sheffield. Here are a few shots from this Yashica-Mat
-    TLR I have had for a while and am still trying to get
-  last_post_date: "2026-10-09T15:41:49Z"
-  last_post_link: https://www.bfoliver.com/2026/yashbotanical
+  last_post_title: Other Mommy
+  last_post_description: "\"Can I go into your heart?\"\n                        \n
+    \                       \n                    \n                    A girl (Arabella
+    Olivia Clark) is targeted by some demon that tries to take over"
+  last_post_date: "2026-10-20T19:21:41Z"
+  last_post_link: https://www.bfoliver.com/2026/othermommy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b13ef0177a51939d264de0d361cb54cc
+  last_post_guid: 51535518bb9a5915e9a14f2b00cd84bd
   score_criteria:
     cats: 0
     description: 3

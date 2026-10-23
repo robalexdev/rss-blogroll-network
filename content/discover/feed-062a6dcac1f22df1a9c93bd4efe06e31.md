@@ -17,7 +17,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -45,15 +45,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Bullet Time!
-  last_post_description: "I must interrupt my regularly scheduled programming to bring
-    you what must be the most inspired piece of art I’ve seen in a long time.\n\t\tBullet
-    Time! by Eddie Alcazar is remarkable. It is"
-  last_post_date: "2026-10-08T08:20:00+09:00"
-  last_post_link: https://lmnt.me/blog/bullet-time.html
+  last_post_title: Parades
+  last_post_description: 'I usually skip out on all parades when I go to Disneyland.
+    But I was with friends who love them, so I saw a three different parades today:
+    Harmony in Color, The Villains’ Halloween: Into the Frenzy'
+  last_post_date: "2026-10-14T21:30:00+09:00"
+  last_post_link: https://lmnt.me/blog/photos/parades.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 049aa30e70bfb3c2fb3919a6c748114b
+  last_post_guid: 008d7260079d90907ec5f6c8dc76c0a1
   score_criteria:
     cats: 1
     description: 3

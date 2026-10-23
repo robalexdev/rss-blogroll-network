@@ -18,33 +18,31 @@ params:
   categories:
   - Actionable Book Summaries
   - Business Book Summaries
-  - Premium
   relme: {}
-  last_post_title: Designing Experiences by J. Robert Rossman [Actionable Summary]
-  last_post_description: Below is a comprehensive summary of the book Designing Experiences
-    by J. Robert Rossman and Mathew D. Duerden. Covering the key ideas and proposing
-    practical ways for achieving what’s mentioned in
-  last_post_date: "2026-01-17T05:25:07Z"
-  last_post_link: https://durmonski.com/book-summaries/designing-experiences/
+  last_post_title: The Experience Economy by B. Joseph Pine [Actionable Summary]
+  last_post_description: 'Below is a comprehensive summary of the book The Experience
+    Economy: Work Is Theater & Every Business a Stage by B. Joseph Pine II and James
+    H. Gilmore. Covering the key ideas and proposing practical'
+  last_post_date: "2026-10-03T03:51:36Z"
+  last_post_link: https://durmonski.com/book-summaries/the-experience-economy/
   last_post_categories:
   - Actionable Book Summaries
   - Business Book Summaries
-  - Premium
   last_post_language: ""
-  last_post_guid: 8e812a8f0d1cd9fbf8bd6015ef22347a
+  last_post_guid: dd7ea789b36b0a827dd5abbb3a5aeb57
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

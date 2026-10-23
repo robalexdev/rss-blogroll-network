@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My super lightweight travel YouTube setup#Super
-  last_post_description: In a previous post I wrote about my full size YouTube travel
-    camera setup. In situations where I’m taking a lot of kitesurfing gear, I might
-    have to pack less camera gear for it all to fit. This is
-  last_post_date: "2026-02-08T14:11:40Z"
-  last_post_link: https://www.evbart.com/my-super-lightweight-travel-youtube-setupsuper/
+  last_post_title: The Endless Search for the Perfect EDC Bit Driver
+  last_post_description: This is part of The Endless Search, a series about gear I
+    can’t stop trying to perfect. The first one was The Endless Search for a Better
+    Ergonomic Keyboard.Some links in this post are affiliate
+  last_post_date: "2026-10-14T14:20:55Z"
+  last_post_link: https://www.evbart.com/the-endless-search-for-the-perfect-edc-bit-driver/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c1a7b1676d30a37a50aff16f20b15209
+  last_post_guid: 93f7f54c2cba66aa036f24f5811b9a54
   score_criteria:
     cats: 0
     description: 3

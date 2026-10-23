@@ -22,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Put your meetings to work
-  last_post_description: Meetings aren’t the problem. The challenge is everything
-    that comes after them. Download Granola for free and use it in your next meeting.
-  last_post_date: "2026-10-12T03:05:00Z"
-  last_post_link: https://bit.ly/side-gra7
+  last_post_title: Fast is a design decision
+  last_post_description: Building a site has never been cheaper, but making it fast
+    still costs attention and your user’s resources.
+  last_post_date: "2026-10-23T07:09:03Z"
+  last_post_link: https://shannadige.com/blog/performance-is-design/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f9ba60b622e6dd18599348ff20860a2a
+  last_post_guid: df53c7810c241f8da6e08a963c525a46
   score_criteria:
     cats: 0
     description: 3

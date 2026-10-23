@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Sun, 11 Oct 2026 18:54:31 GMT
+date: Fri, 23 Oct 2026 19:35:31 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.9.3.
 params:

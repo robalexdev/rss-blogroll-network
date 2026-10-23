@@ -32,10 +32,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Chapter 1 of Ways of Seeing by John Berger
+  last_post_title: Why Do AI Models Tell Left-Wing Voters to Support the Communist
+    Party?
   last_post_description: Comments
-  last_post_date: "2026-10-11T18:26:24Z"
-  last_post_link: https://www.ways-of-seeing.com/ch1
+  last_post_date: "2026-10-23T20:05:30Z"
+  last_post_link: https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

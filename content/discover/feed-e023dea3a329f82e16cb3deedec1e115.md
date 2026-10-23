@@ -1,6 +1,6 @@
 ---
 title: Baldur Bjarnason's Notes on the Web
-date: "2026-10-07T15:35:00Z"
+date: "2026-10-21T17:14:00Z"
 description: Everything from www.baldurbjarnason.com
 params:
   feedlink: https://feedpress.me/baldurbjarnason
@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Different modes of thinking
+  last_post_title: Autumn comfort cat photos
   last_post_description: ""
-  last_post_date: "2026-10-07T15:35:00Z"
-  last_post_link: https://www.baldurbjarnason.com/2026/modes-of-thinking/
+  last_post_date: "2026-10-21T17:14:00Z"
+  last_post_link: https://www.baldurbjarnason.com/notes/photos/autumn-comfort-cat-photos-2026/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 45834e2686a386659b99780cc3b3be30
+  last_post_guid: 830bb399badc7af67aff2c17eb50411f
   score_criteria:
     cats: 0
     description: 3

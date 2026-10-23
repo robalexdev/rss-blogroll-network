@@ -1,6 +1,6 @@
 ---
 title: 熊猫不是猫
-date: "2026-10-07T18:27:36+08:00"
+date: "2026-10-12T17:44:51+08:00"
 description: 平平无奇小熊猫
 params:
   feedlink: https://panda995.xyz/feed/
@@ -20,17 +20,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI真的太好用了，钓鱼佬狂喜！NAS装上它，打开浏览器就能出海
+  last_post_title: 100块买了个“赛博电子核桃”，没帮我干活，倒是挺耽误干活
   last_post_description: !!binary |
-    56CB5aS05oqb56u/77yM5byA6Ii55Ye65rW377yM6ZKT5Yiw6bG85YaN5ou/5Y675o2i6K
-    OF5aSH44CC5LuK5aSp54aK54yr5YiG5Lqr55qE6L+Z5Liq6aG555uu77yM5Li75omT5LiA
-    5Liq5a2X6Z2i5oSP5oCd5LiK55qE4oCc5pG46bG84oCd44CC5a6D5Y+rVGlkZXdhdGVy77
-    yM5piv5LiA5qy+6L+Q6KGM5Zyo5rWP6KeI5Zmo6YeM55qE5rW35bKb6ZI=
-  last_post_date: "2026-10-07T18:27:36+08:00"
-  last_post_link: https://panda995.xyz/archives/1013/
+    5bmz5pe25oqY6IW+TkFT44CBRG9ja2Vy6L+Z5Lqb5Lic6KW/77yM5aSa5bCR6L+Y6IO957
+    uZ6Ieq5bex5om+5Liq55CG55Sx77ya5a2Y54Wn54mH44CB5pCt5pyN5Yqh44CB5aSE55CG
+    54K55bel5L2c44CC5L2G5pyJ5Lqb5bCP546p5oSP5YS/77yM5Lmw5p2l5YW25a6e5bCx5p
+    iv5Li65LqG5oqY6IW+77yM5LqO5piv54aK54yr6L+Z5qyh6Ieq5bex5Lk=
+  last_post_date: "2026-10-12T17:44:51+08:00"
+  last_post_link: https://panda995.xyz/archives/1014/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4f954b69ba156a6fd1a774562c03fc43
+  last_post_guid: e382e7ce96a721b82017a035a2335d68
   score_criteria:
     cats: 0
     description: 3

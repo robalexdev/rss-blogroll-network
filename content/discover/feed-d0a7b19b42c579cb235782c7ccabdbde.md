@@ -18,16 +18,17 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: In praise of questions
-  last_post_description: Prende y se apaga sola, sale después de hora. CHARLY GARCÍA
-    La máquina de ser feliz I’ve learned to tolerate them, and sometimes even like
-    them, but Zoom meetings are weird. Even in familiar
-  last_post_date: "2026-10-08T15:27:53Z"
-  last_post_link: https://quantumfrontiers.com/2026/10/08/in-praise-of-questions/
+  last_post_title: Even sampling from a quantum spin glass may not require a quantum
+    computer (a video abstract, for a change)
+  last_post_description: First, why a video? I am part of a generation that was raised
+    on a nourishing diet of science communication videos on YouTube. The likes of
+    MinutePhysics, Veritasium, VSauce, Crash Course, TED-Ed,
+  last_post_date: "2026-10-19T09:08:28Z"
+  last_post_link: https://quantumfrontiers.com/2026/10/19/even-sampling-from-a-quantum-spin-glass-may-not-require-a-quantum-computer-a-video-abstract-for-a-change/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: b6a70aa03d15c6451d7edec05615efd9
+  last_post_guid: f1fcc7250263ed247ef69aebeb59ca98
   score_criteria:
     cats: 0
     description: 3

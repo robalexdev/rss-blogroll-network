@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Farewell, Rust
-  last_post_description: ""
-  last_post_date: "2026-02-19T18:00:00Z"
-  last_post_link: https://kudmitry.com/articles/farewell-rust/
+  last_post_title: After 14 years, I finally built my dream personal finance app
+  last_post_description: It took me more than a decade, but I finally built my DREAM
+    personal finance app. Let me tell you everything about it.
+  last_post_date: "2026-10-22T18:00:00Z"
+  last_post_link: https://kudmitry.com/articles/after-14-years-i-finally-built-my-dream-app/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24f49fa128937d1d8a4c1d9311c5afaa
+  last_post_guid: 2eecb0570bf7ffab108e459bacfecbe1
   score_criteria:
     cats: 0
     description: 3

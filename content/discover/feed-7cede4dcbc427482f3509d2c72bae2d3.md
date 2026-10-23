@@ -61,17 +61,16 @@ params:
     description: ""
     id: a1c893e60917d2411debc0ea3a6e47f2
   recommended: []
-  recommender:
-  - https://hacdias.com/feed.xml
+  recommender: []
   categories: []
   relme: {}
-  last_post_title: Dogcatcher
+  last_post_title: Vulnerability
   last_post_description: ""
-  last_post_date: "2026-10-09T04:00:00Z"
-  last_post_link: https://xkcd.com/3309/
+  last_post_date: "2026-10-21T04:00:00Z"
+  last_post_link: https://xkcd.com/3314/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1d334b62bed4b8d3772c937e0d45f6c6
+  last_post_guid: 6f81f42bb3b63911694ab5facc962edd
   score_criteria:
     cats: 0
     description: 3

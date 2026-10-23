@@ -9,7 +9,7 @@ params:
   feedtype: atom
   feedid: 7c9a9cca17f4e3b1de641b263feb9f54
   websites:
-    https://shilin.ca/: true
+    https://shilin.ca/: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -43,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 21
+    website: 1
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

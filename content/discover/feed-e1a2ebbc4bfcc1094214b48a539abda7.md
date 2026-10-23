@@ -45,7 +45,6 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  - https://hacdias.com/feed.xml
   categories: []
   relme:
     https://front-end.social/@mxbck: true

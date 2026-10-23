@@ -24,16 +24,16 @@ params:
   - 'Software/ '
   - Vale Programming Language
   relme: {}
-  last_post_title: 'Valen''s Memory Safety: A New Kind of Borrow Checking'
+  last_post_title: A New Way to Think About Borrow Checking (In Reverse)
   last_post_description: ""
-  last_post_date: "2026-10-11T07:00:00-05:00"
-  last_post_link: https://verdagon.dev/blog/valen-group-borrowing
+  last_post_date: "2026-10-18T07:00:00-05:00"
+  last_post_link: https://verdagon.dev/blog/reverse-borrow-checking
   last_post_categories:
   - Programming Languages
   - Vale Programming Language
   - Valen Programming Language
   last_post_language: ""
-  last_post_guid: 5eaabdd25d1854a3a09f6a86b1e2d59d
+  last_post_guid: 3fb986d56bbe1477187e8d6424e9f9b9
   score_criteria:
     cats: 4
     description: 3

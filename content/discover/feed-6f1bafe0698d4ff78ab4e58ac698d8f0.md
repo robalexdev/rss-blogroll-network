@@ -19,7 +19,9 @@ params:
   - Marketing
   relme: {}
   last_post_title: 'Mac RSS Mojo : Leveraging Really Simple Syndication'
-  last_post_description: ""
+  last_post_description: Why Your Website Should Leverage RSS Few web Technologies
+    give a Mac webmaster the power to distribute their web content automatically without
+    manual intervention or scheduling. RSS - Really Simple
   last_post_date: "1970-01-01T00:00:00Z"
   last_post_link: https://macgizmoguy.com/blog/files/mac-rss-feed-marketing-strategy.html#unique-entry-id-5
   last_post_categories:

@@ -17,30 +17,33 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - ai
+  - featured
   relme: {}
-  last_post_title: Tracking Singularity
-  last_post_description: |-
-    trackingsingularity.com
-    After the OpenAI x HuggingFace hacking event, there have been weekly reports of agents escaping sandbox due to different reasons and then hacking websites to fulfill their
-  last_post_date: "2026-09-25T05:12:00Z"
-  last_post_link: https://sankalp.bearblog.dev/trackingsingularitycom/
-  last_post_categories: []
+  last_post_title: SWE-bench Multimodal v2 is not multimodal
+  last_post_description: SWE-bench Multimodal v2 is not multimodal. We investigate
+    why, using agent traces, grading tests, and an MMMU-Pro control.
+  last_post_date: "2026-10-20T14:00:00Z"
+  last_post_link: https://sankalp.bearblog.dev/swe_multimodal/
+  last_post_categories:
+  - ai
+  - featured
   last_post_language: ""
-  last_post_guid: 509b3b2daf907f67596c57f28094b722
+  last_post_guid: 110ce7c1640745873956c28d976156f9
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 工行信用卡盗刷处理
-  last_post_description: 今年7月，我住在昆明，有一天吃早饭时候收到工行短信，说我一张内地的工行visa信用卡在境外消费，明显是被盗刷了。
-  last_post_date: "2026-09-27T14:24:40Z"
-  last_post_link: https://retire50blog.wang/invest/%e5%b7%a5%e8%a1%8c%e4%bf%a1%e7%94%a8%e5%8d%a1%e7%9b%97%e5%88%b7%e5%a4%84%e7%90%86.html
+  last_post_title: 民营银行限制异地存款
+  last_post_description: 民营银行现在限制异地存款了，需要满足“五中三”的规定，也就是： 身份证地址、常住地、主要业务经营地、手机号码归属地、设备定位信息
+  last_post_date: "2026-10-23T11:42:35Z"
+  last_post_link: https://retire50blog.wang/invest/%e6%b0%91%e8%90%a5%e9%93%b6%e8%a1%8c%e9%99%90%e5%88%b6%e5%bc%82%e5%9c%b0%e5%ad%98%e6%ac%be.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: fbdb74638b28e6cc9f2acd67eccf3b1c
+  last_post_guid: fdbe805f576523fc3b2f1d99a017430a
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Tony Finch's blog
-date: "2026-08-09T04:46:52Z"
+date: "2026-09-17T00:09:52Z"
 description: ""
 params:
   feedlink: https://dotat.at/@/blog.atom
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -30,13 +30,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Counting the days, revisited
+  last_post_title: fibre broadband anticlimax
   last_post_description: ""
-  last_post_date: "2026-08-09T04:46:52Z"
-  last_post_link: https://dotat.at/@/2026-08-09-rata-die.html
+  last_post_date: "2026-09-17T00:09:52Z"
+  last_post_link: https://dotat.at/@/2026-09-16-fibre.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d51a17485071f2f1ba288c078adcde7b
+  last_post_guid: dced35868998ad8ae2d6a4041ae6149d
   score_criteria:
     cats: 0
     description: 0

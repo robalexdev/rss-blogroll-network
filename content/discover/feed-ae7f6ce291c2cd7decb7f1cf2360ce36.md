@@ -18,14 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Engineering is about impact
-  last_post_description: Lines of code, PR counts, and tokens burnt matter less than
-    getting better than yesterday.
-  last_post_date: "2026-10-08T20:16:00Z"
-  last_post_link: https://www.mohit.dev/posts/2026-10-09-engineering-is-about-impact/
+  last_post_title: Tell me you AI without saying you AI
+  last_post_description: A home screen pared down to a Codex quota widget, ChatGPT,
+    Grok Bot, and Grok says it all.
+  last_post_date: "2026-10-21T18:31:00Z"
+  last_post_link: https://www.mohit.dev/posts/2026-10-22-tell-me-you-ai-without-saying-you-ai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f874e7e816bfe5cf32ec82e9f1c94b15
+  last_post_guid: 64e16339d01295b029e513c8781fee55
   score_criteria:
     cats: 0
     description: 3

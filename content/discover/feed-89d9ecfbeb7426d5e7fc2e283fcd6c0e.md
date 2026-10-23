@@ -1,6 +1,6 @@
 ---
 title: Jonas Hietala
-date: "2026-09-11T14:38:26Z"
+date: "2026-10-21T12:32:13Z"
 description: ""
 params:
   feedlink: https://www.jonashietala.se/feed.xml
@@ -29,13 +29,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Super ultrawide Niri
+  last_post_title: Minor site updates
   last_post_description: ""
-  last_post_date: "2026-09-11T14:38:26Z"
-  last_post_link: https://www.jonashietala.se/blog/2026/09/11/super_ultrawide_niri
+  last_post_date: "2026-10-21T12:32:13Z"
+  last_post_link: https://www.jonashietala.se/blog/2020/04/29/minor_site_updates
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ff81cb171d33268611093f6733dd044
+  last_post_guid: e73d3316cec8efae254b4cddcead50e1
   score_criteria:
     cats: 0
     description: 0

@@ -35,7 +35,6 @@ params:
   - https://hnz.io/feed/medienstrom.rss
   - https://hnz.io/feed/startseite.rss
   - https://stephanmax.com/feed.xml
-  - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
   - Failed State Berlin

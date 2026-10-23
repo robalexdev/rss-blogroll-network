@@ -24,23 +24,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Danyel Fisher
-  - Infographics
-  - Tanakh
-  - text
+  - Development Seed
+  - Statistics
+  - embeddings
+  - geospatial
+  - guide
+  - training
   relme: {}
-  last_post_title: Interactive map of the Hebrew Bible
-  last_post_description: 'Torahmap by Danyel Fisher is an interactive visualization
-    of the Hebrew Bible. Each…Tags: Danyel Fisher, Tanakh, text'
-  last_post_date: "2026-10-09T09:59:53Z"
-  last_post_link: https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/
+  last_post_title: Primer for geospatial embeddings
+  last_post_description: 'For Development Seed, Kiri Carini and Martha Morrissey explain
+    what embeddings are and…Tags: Development Seed, embeddings, geospatial, guide,
+    training'
+  last_post_date: "2026-10-23T17:30:04Z"
+  last_post_link: https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/
   last_post_categories:
-  - Danyel Fisher
-  - Infographics
-  - Tanakh
-  - text
+  - Development Seed
+  - Statistics
+  - embeddings
+  - geospatial
+  - guide
+  - training
   last_post_language: ""
-  last_post_guid: 8f7429f17f802c71ca0d9d3309b82ade
+  last_post_guid: 637897f28e9ace57ee340a438e8d531f
   score_criteria:
     cats: 0
     description: 3

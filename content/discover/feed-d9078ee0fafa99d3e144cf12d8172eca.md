@@ -13,7 +13,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -29,21 +29,20 @@ params:
     description: ""
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
-  recommender:
-  - https://roytang.net/index.xml
+  recommender: []
   categories:
-  - Writing
+  - Management
   relme: {}
-  last_post_title: Four Writing Humans. No, Wait, Five.
-  last_post_description: 'There is one. Wait, two. No, three. Ok, four humans who
-    directly inspired my writing. (Ok, five.) The list is not in order of importance,
-    but by time: Robert Fulghum, All I Really Need to Know I'
-  last_post_date: "2026-10-05T15:53:12Z"
-  last_post_link: https://randsinrepose.com/archives/four-writing-humans-no-wait-five/
+  last_post_title: The Insider
+  last_post_description: 'My observation of air travel is that if there is one significant
+    impact on a flight, there are guaranteed two additional impacts. An example: if
+    my gate changes at the last moment, it is quite likely'
+  last_post_date: "2026-10-20T15:55:49Z"
+  last_post_link: https://randsinrepose.com/archives/the-insider/
   last_post_categories:
-  - Writing
+  - Management
   last_post_language: ""
-  last_post_guid: 5f3333916974b7a4cfef59339a881db9
+  last_post_guid: 55f86143a40a1346a597f79fbb148f1a
   score_criteria:
     cats: 0
     description: 3

@@ -11,7 +11,7 @@ params:
     https://mequito.org/stories/series/es-regnet: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Die Blogroll von Nico
@@ -29,7 +29,6 @@ params:
   recommended: []
   recommender:
   - https://couchblog.de/feed/
-  - https://wirres.net/feed/
   - https://wirres.net/feed/river/
   categories:
   - TBB21

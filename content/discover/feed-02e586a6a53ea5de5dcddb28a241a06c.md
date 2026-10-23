@@ -27,16 +27,21 @@ params:
   categories:
   - stdout
   relme: {}
-  last_post_title: 浏览器点2下就能让小爱音箱播放http音乐！
+  last_post_title: HTML里的“宏”
   last_post_description: |-
-    还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？
-    https://est.github
-  last_post_date: "2026-10-11T16:14:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-39
+    摊牌了，分享两个极少有人知道的技巧。
+    观察下面的网页
+    https://lab.est.im/xhtml/
+    有没有发现神奇之处
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE html [
+      <!ENTITY
+  last_post_date: "2026-10-12T21:29:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-40
   last_post_categories:
   - stdout
   last_post_language: ""
-  last_post_guid: 69312253964272a6ce2e5178093b2214
+  last_post_guid: 8ff11bc1b3f78b4788802fe42d6fbfb7
   score_criteria:
     cats: 0
     description: 3

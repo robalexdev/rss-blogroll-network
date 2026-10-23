@@ -26,10 +26,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 读 《明朝那些事儿》
-  last_post_description: 《读
-  last_post_date: "2026-10-05T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2026_10_05-mingchaonaxieshier.md.html
+  last_post_title: 如何写一个 Agent
+  last_post_description: 《如何写一个 Agent》如果已经用过大模型的
+  last_post_date: "2026-10-20T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

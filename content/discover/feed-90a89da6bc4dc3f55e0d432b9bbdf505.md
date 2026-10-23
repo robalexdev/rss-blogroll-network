@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5247 blogs
+  - title: Bubbles — 5225 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -79,27 +79,30 @@ params:
   - https://webrocker.de/feed/atom/
   categories:
   - book
+  - history
+  - irish
+  - language
+  - research
   - review
-  - sci-fi
-  - sciencefiction
-  - short
-  - stories
+  - writing
   relme: {}
-  last_post_title: Lake Of Souls by Ann Leckie
-  last_post_description: In some ways, the short story is the ideal format for science
-    fiction. If science fiction is all about ideas, a short story is a way to take
-    an idea and play it out without any obligation to build a
-  last_post_date: "2026-10-06T15:31:23Z"
-  last_post_link: https://adactio.com/journal/22790
+  last_post_title: The Pirate Queen by Ariel Lawhon
+  last_post_description: |-
+    This is an infuriating book. So much so that I didn’t finish it.
+
+    Don’t get me wrong; I love the idea of The Pirate Queen. Telling the life story of Gráinne Ní Mháille is an excellent premise
+  last_post_date: "2026-10-23T14:57:23Z"
+  last_post_link: https://adactio.com/journal/22813
   last_post_categories:
   - book
+  - history
+  - irish
+  - language
+  - research
   - review
-  - sci-fi
-  - sciencefiction
-  - short
-  - stories
+  - writing
   last_post_language: ""
-  last_post_guid: 5dde76d390afcdd72f995723205fed01
+  last_post_guid: c522d740a64ca1758f108896a87d4e09
   score_criteria:
     cats: 0
     description: 3
