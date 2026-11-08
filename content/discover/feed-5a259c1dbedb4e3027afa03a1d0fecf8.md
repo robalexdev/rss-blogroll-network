@@ -1,6 +1,6 @@
 ---
 title: Brett Mullins
-date: "2026-10-09T18:22:50Z"
+date: "2026-10-23T15:41:24Z"
 description: Privacy & ML Researcher
 params:
   feedlink: https://bcmullins.github.io/feed.xml

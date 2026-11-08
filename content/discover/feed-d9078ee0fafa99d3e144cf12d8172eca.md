@@ -13,7 +13,7 @@ params:
   - title: Miloš Miljković - Blogroll
     description: ""
     id: ffa5e63462db333bc9076d25a3826098
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -31,31 +31,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Management
+  - Apple
+  - Briefs
+  - apple hardware
+  - charging
   relme: {}
-  last_post_title: The Insider
-  last_post_description: 'My observation of air travel is that if there is one significant
-    impact on a flight, there are guaranteed two additional impacts. An example: if
-    my gate changes at the last moment, it is quite likely'
-  last_post_date: "2026-10-20T15:55:49Z"
-  last_post_link: https://randsinrepose.com/archives/the-insider/
+  last_post_title: Apple Charging Guide Updated
+  last_post_description: 'Apple charging guide updated with the Fall Updates: latest
+    Duo data, the new iPad mini fast charging, and the fancy M6 MacBook Pro with that
+    70W charger.'
+  last_post_date: "2026-11-06T16:32:45Z"
+  last_post_link: https://randsinrepose.com/guides/apple-charging/apple-charging-guide.html
   last_post_categories:
-  - Management
+  - Apple
+  - Briefs
+  - apple hardware
+  - charging
   last_post_language: ""
-  last_post_guid: 55f86143a40a1346a597f79fbb148f1a
+  last_post_guid: 28e94dc421e3913cc86c64b99e263b83
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

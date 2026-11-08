@@ -1,6 +1,6 @@
 ---
 title: 大象笔记
-date: "2026-10-24T04:33:11+08:00"
+date: "2026-11-07T06:26:12+08:00"
 description: Recent articles from sunzhongwei.com
 params:
   feedlink: https://www.sunzhongwei.com/feed
@@ -20,13 +20,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RuoYi Vue 管理后台页面的 Nginx 缓存问题
-  last_post_description: 目前的 RuoYi Vue 管理后台的前端发布之后，浏览器还是会缓存上一次发布的页面，触发手动刷新一下浏览器才能看到最新版本的前端页面。
-  last_post_date: "2026-10-22T20:03:34+08:00"
-  last_post_link: https://www.sunzhongwei.com/ruoyi-vue-management-backend-page-caching-issue
+  last_post_title: golang 改造 Magento 外贸站之产品详情页长链接的支持
+  last_post_description: Magento 中的同一个产品详情页链接支持多种 URL 格式，例如：  1. /some-sku.html 2.
+    /category-a/category-b/some-sku.html  但是我用 golang 重新实现的版本，只支持第
+  last_post_date: "2026-11-05T20:08:55+08:00"
+  last_post_link: https://www.sunzhongwei.com/support-magento-product-detail-page-long-links
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 168e66d5a192a88bb8ff8b7dcc704c9a
+  last_post_guid: 822668721b9c7ddc2b22d967a7ecafd8
   score_criteria:
     cats: 0
     description: 3

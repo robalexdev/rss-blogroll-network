@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: My Thoughts on Renaming AI to Super Intelligence
-  last_post_description: A colossal purple intelligence building a stone arch while
-    a small figure on a ladder lifts a cheap cracked mask off its face, and a second
-    figure watches with arms crossed/images/renaming-ai-to
-  last_post_date: "2026-10-09T20:51:00Z"
-  last_post_link: https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&utm_medium=feed&utm_campaign=website
+  last_post_title: Focus on Problems Instead of Companies
+  last_post_description: Charcoal sketch of a person kneeling to repair a neighbour's
+    hand water pump with a softly glowing tool while the neighbour fills a bucket,
+    a quiet purple office tower standing in the
+  last_post_date: "2026-11-04T20:00:00Z"
+  last_post_link: https://danielmiessler.com/blog/focus-on-problems-not-companies?utm_source=rss&utm_medium=feed&utm_campaign=website
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b51001483c77ba1263acc37efb572932
+  last_post_guid: d76bc8f04cd7dee6040594668582891d
   score_criteria:
     cats: 0
     description: 3

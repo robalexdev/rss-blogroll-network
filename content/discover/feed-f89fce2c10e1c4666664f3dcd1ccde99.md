@@ -1,6 +1,6 @@
 ---
 title: Schemescape
-date: "2026-09-29T00:00:00Z"
+date: "2026-10-25T00:00:00Z"
 description: ""
 params:
   feedlink: https://log.schemescape.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,14 +29,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Hacking SimCity 2000 saved games
-  last_post_description: Here's the story of how I learned about hexadecimal and bytes
-    on disk by way of editing SimCity 2000 save games.
-  last_post_date: "2026-09-29T00:00:00Z"
-  last_post_link: https://log.schemescape.com/posts/memoir/dos.html
+  last_post_title: QBasic, my first programming language
+  last_post_description: How I discovered QBasic, and my first attempts at learning
+    to program a computer.
+  last_post_date: "2026-10-25T00:00:00Z"
+  last_post_link: https://log.schemescape.com/posts/memoir/qbasic.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 00e6e0afd2fa32c47a3a172ad2b4e610
+  last_post_guid: 094f5cb3285472a1a4d03ba021581eb5
   score_criteria:
     cats: 0
     description: 0

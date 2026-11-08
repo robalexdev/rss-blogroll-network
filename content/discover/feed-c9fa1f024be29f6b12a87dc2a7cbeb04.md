@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Closing Eight Figure Deals in Two Weeks
-  last_post_description: Bardia Shahali, VP of Sales at Granola, joins Office Hours
-    to explain how AI-era sales teams run smaller because revenue per rep multiplies,
-    why comp plans moved from annual to quarterly, & why the
-  last_post_date: "2026-10-22T00:00:00Z"
-  last_post_link: https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/
+  last_post_title: A $90 Key into Your Company's Secrets
+  last_post_description: The cost of an autonomous 32-step corporate break-in fell
+    99% in five months from $7,500 on Claude Mythos Preview in April 2026 to $90 on
+    open-weight GLM-5.3. Attackers run an expected-value
+  last_post_date: "2026-11-06T00:00:00Z"
+  last_post_link: https://tomtunguz.com/a-90-dollar-key-into-your-companys-secrets/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ecad455ccc3f5154ea82eb0941120192
+  last_post_guid: eb710c8211e12dc16f90af17bb30072b
   score_criteria:
     cats: 0
     description: 3

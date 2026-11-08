@@ -1,6 +1,6 @@
 ---
 title: 莫尔索随笔
-date: "2026-10-11T08:00:00Z"
+date: "2026-11-01T08:00:00Z"
 description: 欢迎来到莫尔索随笔，这里是我的数字实验室，也是一个关于成长与好奇心的长期主义计划。
 params:
   feedlink: https://liduos.com/atom.xml
@@ -20,14 +20,18 @@ params:
   categories:
   - AI 周刊
   relme: {}
-  last_post_title: Vol.121 应用、模型与运行系统相互塑造：AI 基础设施、智能体与云服务演进
-  last_post_description: 本期内容围绕应用、模型与运行系统相互塑造，梳理 AI
-  last_post_date: "2026-10-11T08:00:00Z"
-  last_post_link: https://liduos.com/weekly/the-weekly-gradient-121
+  last_post_title: Vol.124 慢一步的价值：在智能体流程中保留理解、验证、独立判断与成本边界
+  last_post_description: !!binary |
+    5pys5pyf5YaF5a655Zu057uV4oCc5oWi5LiA5q2l55qE5Lu35YC84oCd77yM6K6o6K665Z
+    yo5qih5Z6L6YOo572y44CB5pm66IO95L2T5omn6KGM44CB5oCn6IO95LyY5YyW5LiO5oiQ
+    5pys5qC4566X5Lit77yM5aaC5L2V5YeP5bCR5peg5pWI562J5b6F77yM5ZCM5pe25Li655
+    CG6Kej44CB5Y+C5LiO44CB54us56uL5Yik5pat5ZKM57uT5p6c6aqM6K8=
+  last_post_date: "2026-11-01T08:00:00Z"
+  last_post_link: https://liduos.com/weekly/the-weekly-gradient-124
   last_post_categories:
   - AI 周刊
   last_post_language: ""
-  last_post_guid: 22947ff5b6aa3d319932afe7737dbab0
+  last_post_guid: 0f62181dbe00e1ff4335da105eff5e58
   score_criteria:
     cats: 0
     description: 3

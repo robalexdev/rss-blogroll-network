@@ -1,7 +1,8 @@
 ---
 title: Ronalds Vilciņš
 date: "1970-01-01T00:00:00Z"
-description: Personal website, blog, and portfolio
+description: Personal notes on web development, design, and building for the web.
+  Practical articles, experiments, and projects by Ronalds Vilciņš.
 params:
   feedlink: https://ronaldsvilcins.com/atom.xml
   feedtype: rss
@@ -28,35 +29,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Accessibility
-  - HTML
+  - CSS
   relme:
     https://github.com/ronv: true
     https://mastodon.social/@ronaldsvilcins: true
     https://ronaldsvilcins.com/: true
-  last_post_title: When a Control Needs aria-label
-  last_post_description: Use aria-label for genuinely unlabelled controls while keeping
-    visible text and native elements as the first choice.
-  last_post_date: "2026-10-11T00:00:00+03:00"
-  last_post_link: https://ronaldsvilcins.com/2026/10/11/when-a-control-needs-aria-label/
+  last_post_title: Set Anchor and Snap Insets With CSS scroll-padding
+  last_post_description: scroll-padding sets a viewing inset for anchor targets and
+    snap positions. See page, gallery, and panel examples, plus how it differs from
+    normal padding.
+  last_post_date: "2026-11-06T08:00:00+02:00"
+  last_post_link: https://ronaldsvilcins.com/2026/11/06/set-anchor-and-snap-insets-with-css-scroll-padding/
   last_post_categories:
-  - Accessibility
-  - HTML
+  - CSS
   last_post_language: ""
-  last_post_guid: c5cf936e0f159952bbef2c37c13ba77b
+  last_post_guid: 011ec8cd67a0092e45a88702cae2f2f4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

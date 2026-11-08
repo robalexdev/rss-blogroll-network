@@ -21,15 +21,15 @@ params:
   categories:
   - Society & Culture
   relme: {}
-  last_post_title: Annett Louisan
-  last_post_description: In der Hansestadt Havelberg in defr Altmark in Sachsen-Anhalt
-    geboren, die Kindheit in Schönhausen bei den Großeltern an der Elbe verbracht,
-    zieht die Mutter mit der 12jährigen Annett nach dem
-  last_post_date: "2026-10-11T12:00:00Z"
-  last_post_link: https://hoerbar-rust-radioeins-rbbm.podigee.io/229-neue-episode
+  last_post_title: Paula Lambert
+  last_post_description: Die in München geborene Paula wächst  zunächst bei Pflegeltern
+    in Bonn auf. Die Probleme im eigenen Elternhaus kompensiert das Mädchen mit viel
+    Sport und Musik. Nach dem Abitur besucht sie für 2
+  last_post_date: "2026-11-01T13:00:00Z"
+  last_post_link: https://hoerbar-rust-radioeins-rbbm.podigee.io/232-paula-lambert
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5070d7ac58939a3e64260b0b7f470b34
+  last_post_guid: b018c0131109727542c6d2cef5d26a5f
   score_criteria:
     cats: 1
     description: 3

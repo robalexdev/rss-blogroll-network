@@ -26,8 +26,9 @@ params:
   - title: Achilles Running
     description: Die Seite fÃ¼r LÃ¤ufer*innen
     id: 2cab60dc3dc418ae78a2fbb675ea0497
-  - title: Beat Yesterday
-    description: das Active Lifestyle Magazin
+  - title: GARMIN BLOG
+    description: Der Garmin Blog ist deine Anlaufstelle für Experten Tipps, Erfahrungen,
+      Informationen und Neuigkeiten rund um die Produkte und Technologien von Garmin.
     id: 4bbd4dc9f655dafdad2a681a3edaa87e
   - title: Runfurther
     description: In diesem Blog teile ich meine Leidenschaft mit euch, erzähle von

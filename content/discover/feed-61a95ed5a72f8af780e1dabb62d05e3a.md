@@ -17,31 +17,33 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - Irgendwie & Sowieso
+  - München
+  - Netzwelt
   relme: {}
-  last_post_title: 'Aktenzeichen XY: Schuhe ausziehen'
-  last_post_description: Eigentlich bin ich Ihnen ein paar schöne Anekdoten und Bilder
-    aus Wien von letzter Woche schuldig. Aber auf die müssen Sie noch ein wenig warten.
-    Ich habe es noch nicht mal geschafft, die Bilder
-  last_post_date: "2026-10-01T05:09:11Z"
-  last_post_link: https://stadtneurotiker.wordpress.com/2026/10/01/aktenzeichen-xy-schuhe-ausziehen/
+  last_post_title: Olympisches Lesen und partiell olympisches Singen
+  last_post_description: „Rocky – die Lesung“ im Boxwerk Die Retrowelle greift um
+    sich, wohin man schaut. Sogenannte Kultautos werden schlecht nachgebaut, damals
+    schon fragwürdige Songs werden so gecovert, dass sie
+  last_post_date: "2026-10-25T21:31:51Z"
+  last_post_link: https://stadtneurotiker.wordpress.com/2026/10/25/olympisches-lesen-und-partiell-olympisches-singen/
   last_post_categories:
-  - Irgendwie & Sowieso
+  - München
+  - Netzwelt
   last_post_language: ""
-  last_post_guid: 4483cd808a9bdb3361d8e735e0dc3af9
+  last_post_guid: 9496e468913049e16982d416962a79ac
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

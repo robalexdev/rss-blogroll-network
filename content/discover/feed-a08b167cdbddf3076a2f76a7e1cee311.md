@@ -15,14 +15,15 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 硬件快讯
+  - 游戏快讯
   relme: {}
-  last_post_title: 英伟达或改变RTX 50系列显卡产品线布置：以RTX 5080 24GB取代RTX 5090
-  last_post_description: 过去几个月里，显卡成本价格持续上涨，同时英伟达开始大幅减少GeForce RTX
-  last_post_date: "2026-10-11T23:02:00Z"
-  last_post_link: http://www.expreview.com/108600.html
+  last_post_title: 《漫威银河护卫队 返场版》已登陆NS2：随时随地体验充满欢笑与泪水的星际冒险
+  last_post_description: 返场加演！《漫威银河护卫队 返场版（Guardians of the Galaxy Encore Edition）》现已登陆Nintendo
+    Switch
+  last_post_date: "2026-11-06T18:30:00Z"
+  last_post_link: http://www.expreview.com/109363.html
   last_post_categories:
-  - 硬件快讯
+  - 游戏快讯
   last_post_language: ""
   last_post_guid: 8570c3e04efa0177949be6f856f3a213
   score_criteria:

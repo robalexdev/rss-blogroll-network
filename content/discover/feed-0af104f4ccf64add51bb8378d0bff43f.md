@@ -18,22 +18,22 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - Commodore 64
-  - Short Retrogaming-Blogs
+  - Gaming heute
+  - LanParty
   relme:
     https://oldbytes.space/@video_play: true
     https://video-play.de/: true
-  last_post_title: Wollen wir Spiele zusammen noch einmal neu entdecken?
-  last_post_description: |-
-    Es ist lange her, dass ich mir (so richtig) Zeit genommen habe, die alten Titel neu zu sichten, die sich
-    Der Beitrag Wollen wir Spiele zusammen noch einmal neu entdecken? erschien zuerst auf Rusty's
-  last_post_date: "2026-09-22T15:34:11Z"
-  last_post_link: https://video-play.de/2026/09/22/wollen-wir-spiele-zusammen-noch-einmal-neu-entdecken/
+  last_post_title: Diablo 1 LAN-Party · Di 20.10.2026 · 19 Uhr · Linux
+  last_post_description: "Ui, wie lange ist das her? Also ich rufe zur LAN-Party am
+    Di 20.10.2026 um 19:00 Uhr \U0001F600 I sense\nDer Beitrag Diablo 1 LAN-Party
+    · Di 20.10.2026 · 19 Uhr · Linux erschien zuerst auf Rusty's"
+  last_post_date: "2026-10-20T13:45:04Z"
+  last_post_link: https://video-play.de/2026/10/20/diablo-1-lan-party-%c2%b7-di-20-10-2026-%c2%b7-linux-mint/
   last_post_categories:
-  - Commodore 64
-  - Short Retrogaming-Blogs
+  - Gaming heute
+  - LanParty
   last_post_language: ""
-  last_post_guid: c7e96a2b31d836e51e3a7503e3025022
+  last_post_guid: a1b012da89aaa3157da692fe5d54b6ae
   score_criteria:
     cats: 0
     description: 3

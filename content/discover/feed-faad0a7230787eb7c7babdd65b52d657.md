@@ -16,34 +16,44 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cocktail
-  - Getränke & Liköre
-  - Halloween
+  - Desserts & Süßspeisen
+  - Frühling
   - Herbst
+  - Kuchen, Torten, Kekse & Co
   - Rezepte
-  - Süßes
+  - Sommer
   - Vegetarisch
-  - alkoholfrei
-  - vegan
+  - Vegetarisch & Vegan
+  - Winter
+  - Zucker
+  - kaffeedessert
+  - no bake
+  - schnelles dessert
+  - tiramisu im glas
   relme: {}
-  last_post_title: 'Halloween Drink alkoholfrei: Vampirblut aus 2 Zutaten'
-  last_post_description: Für Halloween braucht es neben gruseligen Gerichten natürlich
-    auch schaurige Getränke. Dieser alkoholfreie Halloween Drink besteht aus nur zwei
-    Zutaten,…
-  last_post_date: "2026-10-11T10:13:13Z"
-  last_post_link: https://www.homemade-baked.de/halloween-drink-alkoholfrei-vampirblut/
+  last_post_title: Lotus Biscoff Tiramisu im Glas – cremiges Dessert ohne Alkohol
+    und ohne rohes Ei
+  last_post_description: Wenn Kaffee auf Karamell trifft, kann das Ergebnis eigentlich
+    nur gut werden. Mein Tiramisu im Glas mit Lotus Biscoff kombiniert…
+  last_post_date: "2026-10-25T07:00:00Z"
+  last_post_link: https://www.homemade-baked.de/lotus-biscoff-tiramisu-im-glas/
   last_post_categories:
-  - Cocktail
-  - Getränke & Liköre
-  - Halloween
+  - Desserts & Süßspeisen
+  - Frühling
   - Herbst
+  - Kuchen, Torten, Kekse & Co
   - Rezepte
-  - Süßes
+  - Sommer
   - Vegetarisch
-  - alkoholfrei
-  - vegan
+  - Vegetarisch & Vegan
+  - Winter
+  - Zucker
+  - kaffeedessert
+  - no bake
+  - schnelles dessert
+  - tiramisu im glas
   last_post_language: ""
-  last_post_guid: dcc1ffb1c72af93422dde788c75e5e5d
+  last_post_guid: 289808a65102431e3ac9fdd382937b18
   score_criteria:
     cats: 0
     description: 3

@@ -18,20 +18,20 @@ params:
   categories: []
   relme:
     https://osguider.com/blog/: true
-  last_post_title: AI 对话克隆网站，快速重建为 React 应用 | 开源日报 No.884
+  last_post_title: 高效文档提取利器 ：84 语种 OCR 识别 | 开源日报 No.558
   last_post_description: |-
-    zyronon/TypeWords
+    satnaing/shadcn-admin
 
 
 
 
 
-    typing-word 是一款基于 Vue
-  last_post_date: "2026-03-05T15:35:51Z"
-  last_post_link: https://osguider.com/blog/post/daily/daily-884/
+    shadcn-admin 是一个基于 Shadcn 和 Vite
+  last_post_date: "2026-10-20T23:22:14Z"
+  last_post_link: https://osguider.com/blog/post/daily/daily-558/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c219d7946819ade2c641bfad532048d3
+  last_post_guid: 536087441cc14dd303d3c4543fa3c72d
   score_criteria:
     cats: 0
     description: 3

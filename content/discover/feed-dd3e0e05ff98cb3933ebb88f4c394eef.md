@@ -35,6 +35,7 @@ params:
   - https://ajroach42.com/feed.xml
   - https://aleemshaun.com/posts_feed
   - https://alegisdownport.wordpress.com/feed
+  - https://alexschroeder.ch/view/index.rss
   - https://alexschroeder.ch/wiki/feed/full/
   - https://alldeadgenerations.blogspot.com/feeds/posts/default?alt=rss
   - https://alphastream.org/index.php/feed/
@@ -163,16 +164,16 @@ params:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Autumn’s Arrival
-  last_post_description: "Related Links :: Tags: \n<\npersonal \n\n\nSummary: \nA
-    season of splendor fading yet magical.\n\n        Autumn is that favorite pair
-    of jeans, worn to the point of comfort and\nfamiliarity.  Yet those jeans"
-  last_post_date: "2026-09-29T20:36:34-04:00"
-  last_post_link: https://takeonrules.com/2026/09/29/autumns-arrival/
+  last_post_title: All Hallows Eve
+  last_post_description: "Related Links :: Tags: \n<\npersonal \n\n\nSummary: \nReflecting
+    on life and loss; on writing and sharing that writing.\n\n        \n\nI rather
+    believe that time is a companion who goes with us on the journey"
+  last_post_date: "2026-10-31T13:52:02-04:00"
+  last_post_link: https://takeonrules.com/2026/10/31/all-hallows-eve/
   last_post_categories:
   - personal
   last_post_language: ""
-  last_post_guid: 422f7df77cd2ef6f8733755fb506b8a0
+  last_post_guid: 756cb87327591ca1e94f5e60a7d0723c
   score_criteria:
     cats: 0
     description: 3

@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Chrome
-  - Privacy
-  - 数字营销
+  - AI
+  - Meta
+  - 人工智能
   relme: {}
-  last_post_title: AnswerSift：看清 AI 在引用哪些网站，找到品牌与产品推广的依据
-  last_post_description: 为品牌营销找到可回查的依据：设置产品或行业关键词，在日常使用 AI
-  last_post_date: "2026-10-03T02:17:24Z"
-  last_post_link: https://topstip.com/p245173/
+  last_post_title: 亚马逊开放 Alexa 短信购物，美国首批受邀用户可发消息下单
+  last_post_description: 亚马逊向部分美国用户开放 Alexa for Shopping 短信入口，可查找商品、复购和确认下单。亚马逊计划在未来几周扩大开放范围。
+  last_post_date: "2026-11-06T16:41:52Z"
+  last_post_link: https://topstip.com/p349046/
   last_post_categories:
-  - Chrome
-  - Privacy
-  - 数字营销
+  - AI
+  - Meta
+  - 人工智能
   last_post_language: ""
-  last_post_guid: f1613ad88907dc259fd9bdcadd58e718
+  last_post_guid: 1f8e997ff9f594e27e037b26a119ba5d
   score_criteria:
     cats: 0
     description: 3

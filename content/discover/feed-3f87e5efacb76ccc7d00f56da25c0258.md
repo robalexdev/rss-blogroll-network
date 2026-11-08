@@ -1,6 +1,6 @@
 ---
 title: anhvn
-date: "2026-10-04T00:00:00Z"
+date: "2026-11-01T00:00:00Z"
 description: personal website
 params:
   feedlink: https://anhvn.com/feed.xml
@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -66,13 +66,13 @@ params:
   - https://ttntm.me/notes/feed.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes 46
+  last_post_title: Weeknotes 47
   last_post_description: ""
-  last_post_date: "2026-10-04T00:00:00Z"
-  last_post_link: https://anhvn.com/posts/2026/weeknotes-46/
+  last_post_date: "2026-11-01T00:00:00Z"
+  last_post_link: https://anhvn.com/posts/2026/weeknotes-47/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43e4a47c676a719c14a58604844d6f6a
+  last_post_guid: 991e88265319a390dd0a687a6cf7a3a1
   score_criteria:
     cats: 0
     description: 3

@@ -22,23 +22,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI and learning
   - Measurement and evidence
   - Science and research practice
+  - library
   relme: {}
-  last_post_title: Organizational Fairness is a precondition for good problem-solving
-    cultures
-  last_post_description: 'If you''re catching up to Fight for the Human I''m doing
-    a special series: a running public conversations with Charity Majors where we
-    discuss learning, AI Skill Threat, our shared norms and values,'
-  last_post_date: "2026-10-09T19:48:47Z"
-  last_post_link: https://www.fightforthehuman.com/organizational-fairness-is-a-precondition-for-good-problem-solving-cultures/
+  last_post_title: 'How I''m measuring AI Skill Threat this year: a multi-construct
+    instrument for centering Developer Experience during AI Adoption'
+  last_post_description: ""
+  last_post_date: "2026-10-26T20:21:37Z"
+  last_post_link: https://www.fightforthehuman.com/aist-measures/
   last_post_categories:
-  - AI and learning
   - Measurement and evidence
   - Science and research practice
+  - library
   last_post_language: ""
-  last_post_guid: 61193e1b4edf2af81a66444a8cf7fd42
+  last_post_guid: 1501341e58edd2dc95629ee6beeaeae7
   score_criteria:
     cats: 0
     description: 3

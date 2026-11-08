@@ -1,6 +1,6 @@
 ---
 title: paritybit.ca
-date: "2025-12-28T22:46:22Z"
+date: "2026-10-27T00:00:26Z"
 description: ""
 params:
   feedlink: https://www.paritybit.ca/feed.xml
@@ -46,13 +46,13 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   categories: []
   relme: {}
-  last_post_title: Oh Right, I Have A Blog
+  last_post_title: Do I Even Like Computers?
   last_post_description: ""
-  last_post_date: "2025-12-28T00:00:00Z"
-  last_post_link: http://www.paritybit.ca/blog/oh-right-i-have-a-blog/
+  last_post_date: "2026-10-25T00:00:00Z"
+  last_post_link: http://www.paritybit.ca/blog/do-i-even-like-computers/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 56eae07a483c2c5d88e185ee99bd924b
+  last_post_guid: 0f91a98e94baa415bf2216e1c68a4fde
   score_criteria:
     cats: 0
     description: 0

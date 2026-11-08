@@ -22,13 +22,14 @@ params:
   categories: []
   relme:
     https://jingyuan-zheng.github.io/zh/: true
-  last_post_title: 如何在 Finder 里直接预览压缩包与磁盘映像：压缩包、DMG、ISO 的预览插件 Archive Peek
-  last_post_description: 本文介绍我新开发并开源的 Archive Peek：一个 macOS Quick Look 扩展，让 Finder
-  last_post_date: "2026-08-14T12:00:00+02:00"
-  last_post_link: https://jingyuan-zheng.github.io/zh/p/archive-peek-macos-quick-look/
+  last_post_title: Mac 把 PDF 指定页面转成图片：预览选页，从 Finder 导出 PNG
+  last_post_description: PDF Page Extractor 可以在 Mac 上将 PDF 指定页面导出为 PNG，并提供预览选页窗口，以及用于转换整份
+    PDF 的 Finder
+  last_post_date: "2026-10-04T00:00:00Z"
+  last_post_link: https://jingyuan-zheng.github.io/zh/p/pdf-page-extractor/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86b2a66f5d340de4d350de0df36efed1
+  last_post_guid: 65dc233400944bb893e313fad26d4c89
   score_criteria:
     cats: 0
     description: 3

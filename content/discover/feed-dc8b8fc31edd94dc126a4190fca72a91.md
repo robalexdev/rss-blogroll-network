@@ -1,6 +1,6 @@
 ---
 title: Ahmad Alfy
-date: "2026-10-09T20:42:52+03:00"
+date: "2026-10-27T08:29:21+03:00"
 description: Blog about front-end development and the web
 params:
   feedlink: https://alfy.blog/feed.xml
@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,14 +28,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Iframes that finally fit their content
-  last_post_description: Iframes can now size themselves to their content with CSS.
-    What it replaces, where it helps, and why the embedded page has to say yes.
-  last_post_date: "2026-10-09T03:00:00+03:00"
-  last_post_link: https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html
+  last_post_title: A select should tell you something
+  last_post_description: Customizable select isn’t just a prettier dropdown. Five
+    before/after demos show how options can carry what people need to decide.
+  last_post_date: "2026-10-27T03:00:00+03:00"
+  last_post_link: https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5be177d3593522d3d61fb25b49bdf812
+  last_post_guid: 897580b67c5f86ff51265d153339e70b
   score_criteria:
     cats: 0
     description: 3

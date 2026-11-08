@@ -1,8 +1,8 @@
 ---
 title: Another Dayu
-date: "2026-10-23T16:01:06Z"
-description: "Hi！  \n\n我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。  \n\n在 Twitter / Telegram
-  闲逛的我，在 Instagram 摄影的我，在 Steam"
+date: "2026-11-01T10:37:39Z"
+description: Hi！ 我是 Dayu（大宇），网络上的我是碎片化的，有多少个平台，就有多少个我。 在 Twitter / Telegram 闲逛的我，在
+  Instagram 摄影的我，在 Steam
 params:
   feedlink: https://anotherdayu.com/feed/
   feedtype: atom
@@ -34,7 +34,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
     postcats: 0
@@ -43,11 +43,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: zh
   postcount: 10
   avgpostlen: 258
 ---

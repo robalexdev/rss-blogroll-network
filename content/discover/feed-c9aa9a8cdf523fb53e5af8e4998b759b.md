@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: c9aa9a8cdf523fb53e5af8e4998b759b
   websites:
-    https://luffy.cc/: true
+    https://luffy.cc/: false
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -41,8 +41,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 17
+    website: 1
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

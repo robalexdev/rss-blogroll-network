@@ -1,9 +1,9 @@
 ---
 title: Scott C. Richmond
 date: "1970-01-01T00:00:00Z"
-description: |-
-  Hi, I'm Scott.
-  I am associate professor of cinema and digital media and Director of the Centre for Culture and Technology at the University of Toronto. I te...
+description: Hi, I'm Scott. I am associate professor of cinema and digital media and
+  Director of the Centre for Culture and Technology at the University of Toronto.
+  I tea...
 params:
   feedlink: https://scottrichmond.me/feed/?type=rss
   feedtype: rss
@@ -35,7 +35,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -44,11 +44,11 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 5
   avgpostlen: 0
 ---

@@ -33,13 +33,13 @@ params:
   categories: []
   relme:
     https://www.kooslooijesteijn.net/: true
-  last_post_title: How to migrate passwords from Proton Pass to Apple Passwords
+  last_post_title: You are the best artist
   last_post_description: ""
-  last_post_date: "2026-09-27T18:20:00Z"
-  last_post_link: https://www.kooslooijesteijn.net/blog/proton-pass-to-apple-passwords
+  last_post_date: "2026-10-27T17:41:00Z"
+  last_post_link: https://www.kooslooijesteijn.net/blog/you-are-the-best-artist
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 501c318844a46f70b634f5fe47c5486f
+  last_post_guid: e6f448f563f9e9acc95b01509370df32
   score_criteria:
     cats: 0
     description: 3

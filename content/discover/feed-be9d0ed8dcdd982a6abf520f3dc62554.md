@@ -1,6 +1,6 @@
 ---
 title: Der Tag
-date: "2026-10-09T17:01:57+02:00"
+date: "2026-11-06T17:05:11+01:00"
 description: Die wichtigsten Themen des Tages verstehen. Wir zeigen Zusammenhänge
   auf – auch die, die erst auf den zweiten Blick sichtbar sind. Unsere Hosts fragen
   nach, bis alles klar ist. Jeden Tag um 17 Uhr
@@ -21,15 +21,16 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: In Berlin starten rot-grün-rote Sondierungen
-  last_post_description: 'Linke, Grüne und SPD in Berlin haben eine Vereinbarung zu
-    Antisemitismus und Organisierter Kriminalität getroffen – was folgt daraus? Und:
-    Friedensnobelpreis für Navi Pillay, die Israels'
-  last_post_date: "2026-10-09T17:00:00+02:00"
-  last_post_link: https://www.deutschlandfunk.de/berlin-antisemitismus-linke-gaza-100.html
+  last_post_title: Härtere Strafen gegen K.-o.-Tropfen - Besserer Schutz für mögliche
+    Opfer?
+  last_post_description: 'Der Bundestag hat schärfere Strafen für den Einsatz von
+    K.-o.-Tropfen bei Sexual- und Raubdelikten beschlossen. Was bringt das und was
+    bräuchte es darüber hinaus? Und: Was folgt aus den geleakten'
+  last_post_date: "2026-11-06T17:00:00+01:00"
+  last_post_link: https://www.deutschlandfunk.de/kriminalitaet-betaeubung-strafen-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 72b1c462fdceb8292d1f916901bd775f
+  last_post_guid: e43cb415666c6bc7ac643159ce2dcba1
   score_criteria:
     cats: 1
     description: 3

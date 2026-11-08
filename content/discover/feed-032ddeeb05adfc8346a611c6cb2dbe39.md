@@ -1,9 +1,8 @@
 ---
 title: jngiam
-date: "2026-10-23T11:45:31Z"
-description: "Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google
-  Brain, Coursera, Stanford. \n\n linkedin @jngiam\n x/twitter @jiquanngiam\nlutra
-  ai\n\nsu..."
+date: "2026-03-16T03:27:45Z"
+description: Jiquan Ngiam's bear blog, co-founder Lutra AI, previously at Google Brain,
+  Coursera, Stanford. linkedin @jngiam x/twitter @jiquanngiam lutra ai subscribe via...
 params:
   feedlink: https://jngiam.bearblog.dev/feed/
   feedtype: atom
@@ -15,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -50,7 +49,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
     postcats: 3
@@ -59,11 +58,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 7
   avgpostlen: 296
 ---

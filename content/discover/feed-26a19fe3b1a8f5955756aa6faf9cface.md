@@ -18,13 +18,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Honey, I Shrunk the Headers With Flow.ZIP
-  last_post_description: MPLS headers are small
-  last_post_date: "2026-09-22T12:42:42Z"
-  last_post_link: https://danglingpointers.substack.com/p/honey-i-shrunk-the-headers-with-flowzip
+  last_post_title: 'TwinString: Preserving String Semantics with Off-Heap Data on
+    the JVM'
+  last_post_description: The JVM Is Slow
+  last_post_date: "2026-10-27T11:51:34Z"
+  last_post_link: https://danglingpointers.substack.com/p/twinstring-preserving-string-semantics
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b43590981e3910d7e54f4b4711daffb
+  last_post_guid: 65a3490f2c6962953dab1adbe1156d22
   score_criteria:
     cats: 0
     description: 3

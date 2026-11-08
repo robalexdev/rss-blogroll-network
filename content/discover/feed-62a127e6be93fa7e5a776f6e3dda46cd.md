@@ -23,14 +23,31 @@ params:
     id: 83b59248e9346428c889eb03522b4297
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - ai startup
+  - b2b marketing
+  - canadian tech
+  - growth hacking
+  - linkedin growth
+  - polarity
+  - student fellowship
+  - waterloo
   relme: {}
-  last_post_title: How to Run a Fellowship Program Into the Ground (and get 18M impressions
-    in the process)
-  last_post_description: ""
+  last_post_title: How a Waterloo Startup Got 18M Impressions for $8,000 (and Why
+    It Nearly Backfired)
+  last_post_description: Discover the $8,000 student-growth secret behind 18M impressions—and
+    the risky mistake that could blow up your startup's brand before you know it.
   last_post_date: "2026-05-26T22:20:27Z"
   last_post_link: https://stevehanov.ca/blog/how-to-run-a-fellowship
-  last_post_categories: []
+  last_post_categories:
+  - ai startup
+  - b2b marketing
+  - canadian tech
+  - growth hacking
+  - linkedin growth
+  - polarity
+  - student fellowship
+  - waterloo
   last_post_language: ""
   last_post_guid: 11d25d07460c91a60658b9e08a72ed56
   score_criteria:
@@ -39,13 +56,13 @@ params:
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

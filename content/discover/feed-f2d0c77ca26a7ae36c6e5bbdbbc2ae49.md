@@ -47,25 +47,22 @@ params:
   recommender:
   - https://josh.blog/feed
   categories:
-  - Career growth
-  - Developer skills
-  - career development
-  - hackathon
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Universe
   relme: {}
-  last_post_title: 'Hack the World: Why hackathons are still the best place to learn
-    to build'
-  last_post_description: |-
-    The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.
-    The post Hack the World: Why hackathons are still the best place to learn to
-  last_post_date: "2026-10-09T16:00:00Z"
-  last_post_link: https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/
+  last_post_title: 'Beyond code generation: A developer’s guide to agentic engineering'
+  last_post_description: Writing code got faster. The work around it didn't. See how
+    you can plan, write code, review changes, and investigate production issues with
+    GitHub Copilot, and what work still needs your judgment
+  last_post_date: "2026-11-06T22:15:59Z"
+  last_post_link: https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/
   last_post_categories:
-  - Career growth
-  - Developer skills
-  - career development
-  - hackathon
+  - AI & ML
+  - GitHub Copilot
+  - GitHub Universe
   last_post_language: ""
-  last_post_guid: 17837218c5dbcd77d7fc40738339b8f4
+  last_post_guid: 8d0e122ed9965004b602fefbdd5332ca
   score_criteria:
     cats: 0
     description: 3

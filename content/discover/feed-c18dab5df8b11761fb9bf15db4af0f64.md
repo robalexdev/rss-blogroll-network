@@ -30,15 +30,15 @@ params:
   categories:
   - allerlei
   relme: {}
-  last_post_title: Von Hinrichtungen im Allgemeinen und Besonderen.
-  last_post_description: Für den Freundeskreis Wolken habe ich ein paar Bilder mitgebracht
-    von der heutigen Hunderunde, ein Stück vom Odenwälder Himmel. Der…
-  last_post_date: "2026-10-11T15:21:24Z"
-  last_post_link: https://landlebenblog.org/2026/10/11/von-hinrichtungen-im-allgemeinen-und-besonderen/
+  last_post_title: wmdedgt
+  last_post_description: Was machst du eigentlich den ganzen Tag?, das will an jedem
+    5. des Monats die freundliche Nachbarin von uns wissen…
+  last_post_date: "2026-11-05T20:25:38Z"
+  last_post_link: https://landlebenblog.org/2026/11/05/wmdedgt-90/
   last_post_categories:
   - allerlei
   last_post_language: ""
-  last_post_guid: 5767b09a1a7e2445108e7775045e600e
+  last_post_guid: c6c9c92df53edf2f2a20f0e043cc7ff5
   score_criteria:
     cats: 0
     description: 3

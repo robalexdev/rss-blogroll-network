@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Automattic’s Matt Mullenweg Claims He’s Back 'In Control'
-  last_post_description: Workers at Automattic, which owns WordPress.com and several
-    other platforms, have said the company has endured years of chaotic leadership
-    decisions.
-  last_post_date: "2026-09-11T00:00:00Z"
-  last_post_link: https://www.404media.co/automattic-matt-mullenweg-back-in-control/
+  last_post_title: An Open Letter to Matt Mullenweg on Accessibility in WordPress
+  last_post_description: Several respected members of the WordPress community have
+    said publicly that they feel unable to speak freely about these events. A project
+    that depends on volunteer and sponsored contributions
+  last_post_date: "2026-10-18T00:00:00Z"
+  last_post_link: https://blindaccessjournal.com/2026/10/an-open-letter-to-matt-mullenweg-on-accessibility-in-wordpress/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0f8c148f2145382b9eae80972d656ef
+  last_post_guid: c26d719780ed470c6f48366402b6247f
   score_criteria:
     cats: 0
     description: 3

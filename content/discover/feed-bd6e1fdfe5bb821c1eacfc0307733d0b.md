@@ -1,6 +1,6 @@
 ---
 title: 'ache: Personal blog'
-date: "2026-09-07T12:16:49Z"
+date: "2026-10-27T08:16:52Z"
 description: |-
   This is a RSS feed for content agreagator.
   As a human being, you are certainly looking for my website

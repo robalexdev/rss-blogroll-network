@@ -1,6 +1,6 @@
 ---
 title: Andrey Lukyanenko
-date: "2026-10-05T07:55:07Z"
+date: "2026-10-29T08:17:49Z"
 description: Machine Learning Engineer at Meta, Kaggle Grandmaster, and Google Developer
   Expert writing about applied ML, AI paper reviews, systems, and learning.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,28 +26,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blogpost
-  - career
-  - datascience
-  - learning
-  - machinelearning
+  - attention
+  - classification
+  - deeplearning
+  - efficiency
+  - llm
+  - nlp
+  - paperreview
+  - ranking
+  - transformer
   relme:
     https://andlukyane.com/: true
     https://github.com/Erlemar: true
-  last_post_title: A machine learning roadmap for beginners in 2026
-  last_post_description: 'My advice for beginners in machine learning: learning the
-    fundamentals, finishing projects, using AI tools, and preparing for a first job.
-    An update to my 2018 data science roadmap.'
-  last_post_date: "2026-10-05T00:00:00Z"
-  last_post_link: https://andlukyane.com/blog/starting-a-career-in-machine-learning
+  last_post_title: 'Jeva: Rethinking System One Models from First Principles'
+  last_post_description: A review of Jeva, a decision-native architecture for system
+    one models that encodes the request and each option independently, refines only
+    the request state against reusable option memory, and adds
+  last_post_date: "2026-10-29T00:00:00Z"
+  last_post_link: https://andlukyane.com/blog/paper-review-jeva
   last_post_categories:
-  - blogpost
-  - career
-  - datascience
-  - learning
-  - machinelearning
+  - attention
+  - classification
+  - deeplearning
+  - efficiency
+  - llm
+  - nlp
+  - paperreview
+  - ranking
+  - transformer
   last_post_language: ""
-  last_post_guid: 429b97b1a367a073f9a14166059d7664
+  last_post_guid: 2a6a6e907e2756c569988098a8953d0c
   score_criteria:
     cats: 0
     description: 3

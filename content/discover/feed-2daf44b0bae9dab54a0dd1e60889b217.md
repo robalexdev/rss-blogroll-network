@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2026-10-23T19:03:32Z"
+date: "2026-11-06T21:02:32Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -39,17 +39,17 @@ params:
   relme:
     https://front-end.social/@piccalilli: true
     https://piccalil.li/: true
-  last_post_title: 'The Index: Issue #203'
+  last_post_title: 'The Index: Issue #205'
   last_post_description: |-
-    Overgrown, when plants invade your abandoned tabs
-    This is fun.
-    All my hobbies are getting slopped up, and it’s exhausting
-    Video game orientated, but I'm sure many of you will resonate with this
-  last_post_date: "2026-10-23T10:55:00Z"
-  last_post_link: https://piccalil.li/the-index/203/?ref=main-rss-feed
+    Poznote
+    In our endless search for a Notion replacement, this one is showing real promise.
+    Fixing illustrations on a dark background with CSS
+    The drop-shadow property is so overlooked considering how
+  last_post_date: "2026-11-06T07:55:00Z"
+  last_post_link: https://piccalil.li/the-index/205/?ref=main-rss-feed
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 61768911a681b6c621fbef560eaa9250
+  last_post_guid: 848c6c8168c77456be732d3d250fea53
   score_criteria:
     cats: 0
     description: 3

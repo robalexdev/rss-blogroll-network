@@ -18,23 +18,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - blogging
+  - life
   - memories
-  - writing
+  - opensource
   relme:
     https://my-notes.dragas.net/: true
-  last_post_title: Stefano, the Human LLM of the 2000s
-  last_post_description: This is slop! Prove it is not!'. So I went looking for how
-    I used to write, long before LLMs existed. I found a paper from 2002, a blog from
-    2006, and a lot of 'it depends
-  last_post_date: "2026-10-08T06:51:00Z"
-  last_post_link: https://my-notes.dragas.net/2026/10/08/stefano-the-human-llm-of-the-2000s/
+  last_post_title: Even With All That Mess
+  last_post_description: Bologna, 2003. A messy room, a graduation approaching, a
+    FreeBSD Handbook gone missing. Twenty-three years later, I look back.
+  last_post_date: "2026-10-27T13:30:00Z"
+  last_post_link: https://my-notes.dragas.net/2026/10/27/even-with-all-that-mess/
   last_post_categories:
-  - blogging
+  - life
   - memories
-  - writing
+  - opensource
   last_post_language: ""
-  last_post_guid: cc5a6caa00b0030749aff412b7b7f0fa
+  last_post_guid: f61357d389aac981ff4cf0c8688973d0
   score_criteria:
     cats: 0
     description: 3

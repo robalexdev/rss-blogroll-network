@@ -16,56 +16,48 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Backen
-  - Brot im Glas haltbar machen
   - Einkochen
+  - Fertiggerichte einkochen
   - Food
-  - Food Photography
-  - Food Styling
-  - Fotografie
-  - Frühstück
+  - Gemüse
+  - Gemüse einkochen
   - Haltbar machen
-  - Klassiker
+  - Herbst
   - Kochen - Rezepte für jeden Tag
-  - Kooperation
-  - Kuchen
-  - Kuchen im Glas
   - Rezepte
   - Saison
-  - Sweet Bakery
-  - Vorratskammer
-  - Zusammenarbeit
-  - daheeme.com
+  - Salat
+  - Spitzkohl
+  - Vegan
+  - Vegetarisch
+  - Weisskohl
+  - Winter
   relme: {}
-  last_post_title: Brioche im Glas
+  last_post_title: Krautsalat einkochen
   last_post_description: |-
-    *enthält Werbung für daheeme.com Kuchen und Brot im Glas haltbar machen Marmelade, Kompott, eingekochtes Obst und Gemüse gehören bei mir einfach immer… Continue Reading Brioche im Glas
-    Der
-  last_post_date: "2026-10-05T05:15:00Z"
-  last_post_link: https://kathyloves.de/brioche-im-glas/
+    Der Herbst ist da und es gibt endlich frischen Weißkohl aus der Region. Im Herbst kannst du ganz wunderbar Krautsalat einkochen und… Continue Reading Krautsalat einkochen
+    Der Beitrag Krautsalat
+  last_post_date: "2026-11-04T12:00:00Z"
+  last_post_link: https://kathyloves.de/krautsalat-einkochen/
   last_post_categories:
-  - Backen
-  - Brot im Glas haltbar machen
   - Einkochen
+  - Fertiggerichte einkochen
   - Food
-  - Food Photography
-  - Food Styling
-  - Fotografie
-  - Frühstück
+  - Gemüse
+  - Gemüse einkochen
   - Haltbar machen
-  - Klassiker
+  - Herbst
   - Kochen - Rezepte für jeden Tag
-  - Kooperation
-  - Kuchen
-  - Kuchen im Glas
   - Rezepte
   - Saison
-  - Sweet Bakery
-  - Vorratskammer
-  - Zusammenarbeit
-  - daheeme.com
+  - Salat
+  - Spitzkohl
+  - Vegan
+  - Vegetarisch
+  - Weisskohl
+  - Winter
   last_post_language: ""
-  last_post_guid: cc7d4d72ac11858e21b9c0592fc91995
+  last_post_guid: ccda2275dde22a7cd0bd3c17cf4a9037
   score_criteria:
     cats: 0
     description: 3

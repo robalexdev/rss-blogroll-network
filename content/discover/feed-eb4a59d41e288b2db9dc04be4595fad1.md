@@ -24,20 +24,16 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: The legendary Citroen 2CV is back as a €15k electric concept for
-    2028
-  last_post_description: |-
-    Citroën has unveiled a concept electric version of its classic 2CV, aiming to bring the vehicle to market in 2028 for just €15,000.
-
-
-
-     more…
-  last_post_date: "2026-10-11T21:08:45Z"
-  last_post_link: https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/
+  last_post_title: Apollo’s newest electric scooter is also its lowest-cost yet
+  last_post_description: 'Apollo has spent the last several years carving out a spot
+    for itself toward the more premium end of the electric scooter market. Now the
+    company is trying something different: going after the mass'
+  last_post_date: "2026-11-06T21:46:19Z"
+  last_post_link: https://electrek.co/2026/11/06/apollos-newest-electric-scooter-is-also-its-lowest-cost-yet/
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: 6b81dca2c6c0101436565713aaf674f0
+  last_post_guid: 87360dbe804ce5bc830c90c9e4a57dd1
   score_criteria:
     cats: 0
     description: 3

@@ -25,25 +25,33 @@ params:
   - https://bielinski.de/feed/
   - https://couchblog.de/feed/
   categories:
-  - Artikel
-  - Comedy
-  - Kurt Tucholsky
-  - Satire
+  - Frankreich
+  - Holger Klein
+  - Holger ruft an
+  - Julia Borutta
+  - Podcast
+  - Rundfunkbeitrag
+  - Tschechien
+  - Öffentlich-Rechtliche
   relme:
     https://uebermedien.de/: true
-  last_post_title: Lasst doch mal Tucholsky in Ruhe!
-  last_post_description: Der Schriftsteller und Satiriker Kurt Tucholsky prägte zu
-    Zeiten der Weimarer Republik den Satz „Satire darf alles“. Bis heute beziehen
-    sich Kommentatoren und Medien auf ihn – und sie
-  last_post_date: "2026-10-09T12:56:54Z"
-  last_post_link: https://uebermedien.de/121629/lasst-doch-mal-tucholsky-in-ruhe/
+  last_post_title: Wie sehr hat die Abschaffung der Rundfunkgebühr in Frankreich geschadet?
+  last_post_description: In Tschechien wehren sich tausende Menschen dagegen, dass
+    die Rundfunkgebühr abgeschafft wird. In Frankreich wurde das schon vor vier Jahren
+    umgesetzt. Was hatte es für Folgen? Holger Klein ruft an
+  last_post_date: "2026-11-06T10:28:16Z"
+  last_post_link: https://uebermedien.de/122403/wie-sehr-hat-die-abschaffung-der-rundfunkgebuehr-in-frankreich-geschadet/
   last_post_categories:
-  - Artikel
-  - Comedy
-  - Kurt Tucholsky
-  - Satire
+  - Frankreich
+  - Holger Klein
+  - Holger ruft an
+  - Julia Borutta
+  - Podcast
+  - Rundfunkbeitrag
+  - Tschechien
+  - Öffentlich-Rechtliche
   last_post_language: ""
-  last_post_guid: f211ebdd57f2b7fa60f259e5c5419ee0
+  last_post_guid: cfbf176b1ad4246ba0458348ad3b119f
   score_criteria:
     cats: 0
     description: 3

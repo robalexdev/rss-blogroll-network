@@ -36,8 +36,8 @@ params:
     description: ""
     id: 2f02a05b9ae2b09d6abb5aa771db4a68
   - title: Rakhim's blog
-    description: Hi, my name is Rakhim. I'm a staff engineer at IQM Quantum Computers.
-      I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Twitter.
+    description: Hi, my name is Rakhim. I'm a software engineer in quantum computing.
+      I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Mastodon.
     id: 331af3de3ac9ed88c90a647edd72f284
   - title: Tim Hårek
     description: ""

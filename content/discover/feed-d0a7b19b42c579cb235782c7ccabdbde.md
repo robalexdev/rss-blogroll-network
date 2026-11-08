@@ -16,32 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Reflections
+  - The expert's corner
   relme: {}
-  last_post_title: Even sampling from a quantum spin glass may not require a quantum
-    computer (a video abstract, for a change)
-  last_post_description: First, why a video? I am part of a generation that was raised
-    on a nourishing diet of science communication videos on YouTube. The likes of
-    MinutePhysics, Veritasium, VSauce, Crash Course, TED-Ed,
-  last_post_date: "2026-10-19T09:08:28Z"
-  last_post_link: https://quantumfrontiers.com/2026/10/19/even-sampling-from-a-quantum-spin-glass-may-not-require-a-quantum-computer-a-video-abstract-for-a-change/
+  last_post_title: Lunch with Horace Walpole
+  last_post_description: Did you know that Horace Walpole invented the Gothic novel?
+    The Englishman spawned a genre by publishing The Castle of Otranto during the
+    1700s. Walpole’s work featured dark atmospheres, crumbling
+  last_post_date: "2026-10-26T00:03:21Z"
+  last_post_link: https://quantumfrontiers.com/2026/10/25/lunch-with-horace-walpole/
   last_post_categories:
-  - Uncategorized
+  - Reflections
+  - The expert's corner
   last_post_language: ""
-  last_post_guid: f1fcc7250263ed247ef69aebeb59ca98
+  last_post_guid: 473d4ece41c7e8a40582070463f70cd0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

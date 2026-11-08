@@ -17,33 +17,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - Drinks
+  - Halloween
+  - Halloween drinks
+  - Holiday
+  - grape juice
+  - gummy worms
+  - kids drinks
+  - non-alcoholic drinks
+  - party drinks
+  - punch
   relme: {}
-  last_post_title: Fall Spice Cake with Chocolate Frosting (Inspired by Levain Bakery’s
-    Fall Cookie)
+  last_post_title: Witch’s Brew Punch
   last_post_description: |-
     Real Food by Dad
-    Fall Spice Cake with Chocolate Frosting (Inspired by Levain Bakery’s Fall Cookie)
-    The short version: This fall spice sheet pan cake tastes just like Levain Bakery’s famous Fall
-  last_post_date: "2026-10-09T18:55:58Z"
-  last_post_link: https://realfoodbydad.com/fall-spice-cake/
+    Witch’s Brew Punch
+    This Witch’s Brew Punch is a fizzy, easy Halloween drink for kids. It’s made with grape juice, pineapple juice, lime, and 7UP, plus carved apple “skulls
+  last_post_date: "2026-10-29T15:32:33Z"
+  last_post_link: https://realfoodbydad.com/witches-brew-punch/
   last_post_categories:
-  - Uncategorized
+  - Drinks
+  - Halloween
+  - Halloween drinks
+  - Holiday
+  - grape juice
+  - gummy worms
+  - kids drinks
+  - non-alcoholic drinks
+  - party drinks
+  - punch
   last_post_language: ""
-  last_post_guid: a07664cded26859a6a187ce3b4eeeec7
+  last_post_guid: 87f249101f88bc7f79f621b8e5b83963
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

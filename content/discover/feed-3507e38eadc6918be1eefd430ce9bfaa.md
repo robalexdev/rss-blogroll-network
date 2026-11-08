@@ -16,32 +16,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apfel-Rezepte
-  - Herbst und Winter-Rezepte
-  - Kuchen Rezepte
-  - Obstkuchen
+  - Backen
+  - Kokosraspel-Rezepte
+  - Mandeln & Nüsse
+  - Plätzchen mit Eiweiß
+  - Plätzchen mit Marmelade
+  - Plätzchen ohne Ausstechen
   - Rezepte
-  - Rührkuchen
-  - Süße Rezepte
-  - Zimt-Rezepte
+  - Weihnachtsplätzchen
+  - Weihnachtsrezepte
   relme: {}
-  last_post_title: Apfelkuchen ohne Ei mit Zimtswirl
-  last_post_description: Für einen saftigen Apfelkuchen braucht es nicht unbedingt
-    Eier. Dieser Apfelkuchen ohne Ei verbindet lockeren Rührteig mit fruchtigen Apfelstückchen
-    und einer aromatischen Zimtschicht. Oben sorgen
-  last_post_date: "2026-10-09T06:00:00Z"
-  last_post_link: https://experimenteausmeinerkueche.de/apfelkuchen-ohne-ei-mit-zimt.html/
+  last_post_title: Kokos-Mandel-Makronen mit Marmelade – einfach und fruchtig
+  last_post_description: Wer Kokos und Mandeln mag, sollte diese Kokos-Mandel-Makronen
+    mit Marmelade ausprobieren. Die kleinen Plätzchen werden ohne Mehl gebacken und
+    bekommen eine fruchtige Füllung. Statt klassischer
+  last_post_date: "2026-11-05T07:00:00Z"
+  last_post_link: https://experimenteausmeinerkueche.de/kokos-mandel-makronen-mit-marmelade.html/
   last_post_categories:
-  - Apfel-Rezepte
-  - Herbst und Winter-Rezepte
-  - Kuchen Rezepte
-  - Obstkuchen
+  - Backen
+  - Kokosraspel-Rezepte
+  - Mandeln & Nüsse
+  - Plätzchen mit Eiweiß
+  - Plätzchen mit Marmelade
+  - Plätzchen ohne Ausstechen
   - Rezepte
-  - Rührkuchen
-  - Süße Rezepte
-  - Zimt-Rezepte
+  - Weihnachtsplätzchen
+  - Weihnachtsrezepte
   last_post_language: ""
-  last_post_guid: b9ef762502a816dc016ab543ea417a86
+  last_post_guid: e8e11661e1f1034e5075977338912b52
   score_criteria:
     cats: 0
     description: 3

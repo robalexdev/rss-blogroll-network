@@ -1,6 +1,6 @@
 ---
 title: Indie Dispatch - pckt
-date: "2026-10-11T21:36:29Z"
+date: "2026-11-07T00:24:13Z"
 description: A weekly newsletter that shines a light on awesome indie games you should
   check out.
 params:
@@ -11,22 +11,22 @@ params:
     https://indiedispatch.online/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Soul Injector Commando makes you turn billionaires into humans
-  last_post_description: Hello friends! We are well and truly in the thick of it now,
-    with the latest Fire Emblem dropping to critical acclaim across the board. The
-    first Onimusha game in 20 years continues Capcom's hot
-  last_post_date: "2026-09-18T04:14:16Z"
-  last_post_link: https://indie-dispatch.pckt.blog/soul-injector-commando-makes-you-turn-billionaires-into-humans-s8n3z85
+  last_post_title: Demonic Pikmin, Mech Farmers, and a really cool shooter
+  last_post_description: Happy Friday folks! This week has been a bit of a mixed bag
+    for me. My son started nursery school again after our trip to Aus, which means
+    he immediately brought the plague into the house. So I have
+  last_post_date: "2026-11-06T06:19:34Z"
+  last_post_link: https://indie-dispatch.pckt.blog/demonic-pikmin-mech-farmers-and-a-really-cool-shooter-d6mm23r
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c64755ec30d3fc9d3f3af04eacb5b3e
+  last_post_guid: 5a4b984bc8764a3a85fe214ffcc8d716
   score_criteria:
     cats: 0
     description: 3

@@ -16,48 +16,52 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apfel
-  - Aus der Muffinform
-  - Butter
-  - Ei
-  - Fruchtige Kuchen mit Obst
-  - Herbstrezepte
-  - Karamell
-  - Koch mein Rezept
-  - Mehl
-  - Milch
-  - Minikuchen
-  - Mürbeteig
-  - Stärke
-  - Zimt
-  - Zucker
-  - brauner Zucker
+  - Asiatische Küche
+  - Bohnen
+  - Chili
+  - Fischsauce
+  - Fleisch
+  - Hauptgerichte
+  - Hähnchen
+  - Hühnerbrühe
+  - Karotten
+  - Knoblauch
+  - Kochbuch
+  - Kokosmilch
+  - Koriander
+  - Limette
+  - Low Carb
+  - Sesam
+  - Suppen
+  - rote Currypaste
   relme: {}
-  last_post_title: 'Mini Apple Pies: So backst du leckeren Apfelkuchen in der Muffinform'
-  last_post_description: Apfelkuchen ist schon lecker und Apple Pie nach amerikanischem
-    Vorbild ist auch ein Genuss. Doch im Miniformat aus der Muffinform sind die Apple
-    Pies unschlagbar gut. Denn sie sind einfach gebacken,
-  last_post_date: "2026-10-07T12:24:00Z"
-  last_post_link: https://www.uebersee-maedchen.de/mini-apple-pies/
+  last_post_title: Thai-Curry-Suppe mit Hähnchen
+  last_post_description: 'Dieser Beitrag enthält nicht nur ein Rezept für Thai Curry
+    Suppe mit Hähnchen, sondern auch unbezahlte Werbung: Das vorgestellte Buch ist
+    ein Rezensionsexemplar des Thorbecke-Verlags. Wäre es'
+  last_post_date: "2026-11-04T06:28:00Z"
+  last_post_link: https://www.uebersee-maedchen.de/thai-curry-suppe/
   last_post_categories:
-  - Apfel
-  - Aus der Muffinform
-  - Butter
-  - Ei
-  - Fruchtige Kuchen mit Obst
-  - Herbstrezepte
-  - Karamell
-  - Koch mein Rezept
-  - Mehl
-  - Milch
-  - Minikuchen
-  - Mürbeteig
-  - Stärke
-  - Zimt
-  - Zucker
-  - brauner Zucker
+  - Asiatische Küche
+  - Bohnen
+  - Chili
+  - Fischsauce
+  - Fleisch
+  - Hauptgerichte
+  - Hähnchen
+  - Hühnerbrühe
+  - Karotten
+  - Knoblauch
+  - Kochbuch
+  - Kokosmilch
+  - Koriander
+  - Limette
+  - Low Carb
+  - Sesam
+  - Suppen
+  - rote Currypaste
   last_post_language: ""
-  last_post_guid: c116cb49cfc4a90c3ea647d4105b21d8
+  last_post_guid: 41fb140e9d95221e4de729bd88aa68d3
   score_criteria:
     cats: 0
     description: 3

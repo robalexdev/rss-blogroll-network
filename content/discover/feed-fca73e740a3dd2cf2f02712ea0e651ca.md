@@ -20,13 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Myth of Traditional Foods
+  last_post_title: Software Engineering is Worth Teaching
   last_post_description: ""
-  last_post_date: "2026-05-22T00:00:00Z"
-  last_post_link: https://uptointerpretation.com/blog/the-myth-of-tradition/
+  last_post_date: "2026-11-03T00:00:00Z"
+  last_post_link: https://uptointerpretation.com/blog/software-engineering-is-worth-teaching/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 658637e2edf0dfeacccb330909b12dd7
+  last_post_guid: ab5d2ffabe68370b258abd61d6178a84
   score_criteria:
     cats: 0
     description: 3

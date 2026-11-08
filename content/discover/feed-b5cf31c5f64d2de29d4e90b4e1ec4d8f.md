@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Named Return Values Without Oopsies
-  last_post_description: |-
-    I have devised a new way of working with named return values in Odin. In some situations, named return values tend to make me a bit uneasy. This new way removes that.
-    This is a subtle problem with a
-  last_post_date: "2026-09-01T22:35:00+01:00"
-  last_post_link: https://zylinski.se/posts/named-return-values-without-oopsies/
+  last_post_title: Slop-free AI programming
+  last_post_description: 'Have you tried AI programming, but felt like it was a slippery
+    slope towards slop? I felt this! In this article I discuss a trick to make AI
+    programming more tolerable: Forbidding AI-written comments'
+  last_post_date: "2026-10-28T21:15:00+01:00"
+  last_post_link: https://zylinski.se/posts/slop-free-ai-programming/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fbc8c532f9e2a51e10dc93858ef71339
+  last_post_guid: 903a5ffe2f53a6dcce71d07547d36473
   score_criteria:
     cats: 0
     description: 3

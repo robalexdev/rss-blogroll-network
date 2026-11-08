@@ -33,21 +33,21 @@ params:
   - https://horst-scheuer.de/feed/
   - https://wirres.net/feed/river/
   categories:
-  - Apple
-  - Hardware
+  - Backup & Security
+  - Software & Co
   relme: {}
-  last_post_title: 'Apple: Neues Hardware-Feuerwerk mit OLED-Macs, M6-Chips und iPad
-    mini für Ende Oktober erwartet'
-  last_post_description: 'Apple bereitet für Ende Oktober einen weiteren Hardware-Aufschlag
-    vor. Rund um den 27. Oktober steht ein weiteres Event auf dem Plan, bei dem neue
-    Macs und...Zum Beitrag: Apple: Neues Hardware'
-  last_post_date: "2026-10-11T20:30:32Z"
-  last_post_link: https://stadt-bremerhaven.de/apple-neues-hardware-feuerwerk-mit-oled-macs-m6-chips-und-ipad-mini-fuer-ende-oktober-erwartet/
+  last_post_title: 'iCloudPhotoSync: Synology-Paket bringt Live Photos und stopft
+    Sicherheitslücken'
+  last_post_description: Über das Paket iCloudPhotoSync für Synology-NAS-Systeme hatte
+    ich ja mal berichtet. Damit lässt sich die eigene iCloud-Fotomediathek recht unkompliziert
+    ohne großes Docker-Gebastel auf dem
+  last_post_date: "2026-11-06T21:00:23Z"
+  last_post_link: https://stadt-bremerhaven.de/icloudphotosync-synology-paket-bringt-live-photos-und-stopft-sicherheitsluecken/
   last_post_categories:
-  - Apple
-  - Hardware
+  - Backup & Security
+  - Software & Co
   last_post_language: ""
-  last_post_guid: c68d4bee84d8154d94644cdf47a8e0d9
+  last_post_guid: 3e492a433f490875eb2ab57b05dcbc4a
   score_criteria:
     cats: 0
     description: 3

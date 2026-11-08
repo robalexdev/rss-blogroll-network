@@ -1,6 +1,6 @@
 ---
 title: Nicolas Hoizey - All contents
-date: "2026-10-11T08:40:32Z"
+date: "2026-11-02T20:20:30Z"
 description: ""
 params:
   feedlink: https://nicolas-hoizey.com/feeds/all.xml
@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "\U0001F517 Cartographers of North Korea :: 북한의 지도 제작자"
+  last_post_title: "\U0001F517 Our CSS isn’t opinionated enough"
   last_post_description: ""
-  last_post_date: "2026-10-11T08:40:32Z"
-  last_post_link: https://nicolas-hoizey.com/links/2026/10/11/cartographers-of-north-korea/
+  last_post_date: "2026-11-02T20:20:30Z"
+  last_post_link: https://nicolas-hoizey.com/links/2026/11/02/our-css-isn-t-opinionated-enough/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 119674ac0c90de9ed5cb96c896098cbd
+  last_post_guid: cc5a9afd1825f45b935e71c6102e59bf
   score_criteria:
     cats: 0
     description: 0

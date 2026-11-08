@@ -1,6 +1,6 @@
 ---
 title: vivaxy's Blog
-date: "2024-08-19T05:40:57Z"
+date: "2026-11-02T06:46:40Z"
 description: ""
 params:
   feedlink: https://vivaxyblog.github.io/atom.xml
@@ -23,13 +23,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: SameSite Cookies 解读
+  last_post_title: 多邻国国际版在小米 HyperOS 上录音立即结束：排查与解决教程
   last_post_description: ""
-  last_post_date: "2021-03-07T00:00:00Z"
-  last_post_link: http://vivaxyblog.github.io/2021/03/07/samesite-cookies-explained-cn.html
+  last_post_date: "2026-11-02T00:00:00Z"
+  last_post_link: http://vivaxyblog.github.io/2026/11/02/duolingo-hyperos-voice-troubleshooting-cn.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c480ebef05578d8d1b74b84ece8ac506
+  last_post_guid: d94f26b11b66c872a283a63f86999623
   score_criteria:
     cats: 0
     description: 0

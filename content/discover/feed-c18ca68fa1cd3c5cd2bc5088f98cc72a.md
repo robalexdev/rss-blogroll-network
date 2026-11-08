@@ -21,15 +21,19 @@ params:
   categories: []
   relme:
     https://cestlaz.zamansky.net/: true
-  last_post_title: Trip Report - Netherlands 26 - part 1
-  last_post_description: We're spending a little under 2 weeks in the Netherlands.
-    Figured, mostly correctly that it would be a touch cooler than NYC. First couple
-    of days were tough with the temps well into the 90s but it's
-  last_post_date: "2026-08-18T02:06:16-04:00"
-  last_post_link: https://cestlaz.zamansky.net/posts/netherlands-26-pt1/
+  last_post_title: The New Entry Level
+  last_post_description: |-
+    I was getting lunch with a friend - a former student, the other day. Great little
+    tapas place in SOHO.
+
+    He's a sharp guy. In the tech industry.
+
+    Back when Google and company were all starting with
+  last_post_date: "2026-10-26T13:27:34-04:00"
+  last_post_link: https://cestlaz.zamansky.net/posts/the-new-entry-level/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a7c2ef24eca0c3dc8c5caa7f96b3d776
+  last_post_guid: 4ec4522c5fb90e4f99cfcf3cb223d716
   score_criteria:
     cats: 0
     description: 3

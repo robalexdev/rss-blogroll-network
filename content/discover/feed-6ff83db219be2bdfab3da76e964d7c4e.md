@@ -27,30 +27,50 @@ params:
   - https://wirres.net/feed/river/
   categories:
   - "1"
+  - 4th amendment
+  - consolidated data
+  - cybersecurity
+  - dhs
+  - doge
+  - elections
+  - irs
+  - privacy
+  - voter rolls
+  - voting
   relme: {}
-  last_post_title: Funniest/Most Insightful Comments Of The Week At Techdirt
-  last_post_description: 'This week, our first place winner on the insightful side
-    is Thad replying to a comment about Mark Zuckerberg’s past projects: I’d say the
-    first thing he did was bring back the AOL silo paradigm.'
-  last_post_date: "2026-10-11T19:00:00Z"
-  last_post_link: https://www.techdirt.com/2026/10/11/funniest-most-insightful-comments-of-the-week-at-techdirt-229/
+  last_post_title: Resisting The Menace Of Federal Data Consolidation
+  last_post_description: 'In the past two years, the federal government has unlawfully
+    consolidated data exposing our private information.  This consolidation has been
+    chaotic but generally came in three rolling waves: It'
+  last_post_date: "2026-11-06T23:35:07Z"
+  last_post_link: https://www.techdirt.com/2026/11/06/resisting-the-menace-of-federal-data-consolidation/
   last_post_categories:
   - "1"
+  - 4th amendment
+  - consolidated data
+  - cybersecurity
+  - dhs
+  - doge
+  - elections
+  - irs
+  - privacy
+  - voter rolls
+  - voting
   last_post_language: ""
-  last_post_guid: 2aca1f2dd2ef089a75a39b5be21df526
+  last_post_guid: 8787fe1acf800d8778b83b42f4e9ad93
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

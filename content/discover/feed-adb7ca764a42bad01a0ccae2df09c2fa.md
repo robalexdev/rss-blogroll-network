@@ -32,11 +32,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why Do AI Models Tell Left-Wing Voters to Support the Communist
-    Party?
+  last_post_title: AI is dramatically accelerating AI research
   last_post_description: Comments
-  last_post_date: "2026-10-23T20:05:30Z"
-  last_post_link: https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks
+  last_post_date: "2026-11-06T20:27:23Z"
+  last_post_link: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 9255355ffbcee4a2dd56803436dd4bea

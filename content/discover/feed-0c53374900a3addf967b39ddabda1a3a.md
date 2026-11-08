@@ -20,31 +20,55 @@ params:
   recommender:
   - https://wirres.net/feed/river/
   categories:
-  - Motorsport
+  - Debüt
+  - Doubleheader
+  - GR GT3 concept
+  - Honda
+  - Japan
+  - Manabu Orido
+  - Morio Nitta
+  - Motegi Grand Final
+  - Nissan
+  - Paddock Notes
+  - Saisonfinale
+  - Super GT
+  - Toyota
   relme: {}
-  last_post_title: 'GT3-Report: GT World Challenge Barcelona'
-  last_post_description: 'GT3-Report: GT World Challenge Barcelona In dieser Folge
-    unserer GT3-Reihe soll es einzig und allein um das Finale im Sprint Cup der GT
-    World Challenge gehen. Da am bevorstehenden Wochenende…'
-  last_post_date: "2026-10-09T23:27:11Z"
-  last_post_link: https://www.racingblog.de/2026/10/10/gt3-report-gt-world-challenge-barcelona/
+  last_post_title: 'SUPER GT: Paddock Notes Round 3 & 8 Motegi Grand Final'
+  last_post_description: 'Motegi is calling: An diesem Wochenende findet traditionell
+    das Saisonfinale im Mobility Resort Motegi statt. Anders als in den vergangenen
+    Jahren aber als Doubleheader mit Zwillingsrennen über'
+  last_post_date: "2026-11-06T15:34:23Z"
+  last_post_link: https://www.racingblog.de/2026/11/06/super-gt-paddock-notes-round-3-8-motegi-grand-final/
   last_post_categories:
-  - Motorsport
+  - Debüt
+  - Doubleheader
+  - GR GT3 concept
+  - Honda
+  - Japan
+  - Manabu Orido
+  - Morio Nitta
+  - Motegi Grand Final
+  - Nissan
+  - Paddock Notes
+  - Saisonfinale
+  - Super GT
+  - Toyota
   last_post_language: ""
-  last_post_guid: 723052a904798c5df2c54e29f444ea85
+  last_post_guid: 620bdd3fece36e5a7e0a890cb7e7bdf7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

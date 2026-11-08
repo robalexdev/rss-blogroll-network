@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Kittyhawk.io - Director of Engineering
-  last_post_description: As the first full-time engineering employee, my core functions
-    were to organize, scale, and manage an engineering department, while also serving
-    as a high-functioning IC. In my time at Kittyhawk, I
-  last_post_date: "2022-02-25T00:00:00Z"
-  last_post_link: https://kernelcurry.com/career/kittyhawk/
+  last_post_title: Pass the SALT, NES Dr. Mario Players
+  last_post_description: |-
+    At Game On Expo 2026, The CTWC tournament stage was set up right next to ours (I help run the Retro Championships) and between matches I chatted with BSG4000 from DrMC.
+    He explained this concept SALT
+  last_post_date: "2026-10-31T08:25:54Z"
+  last_post_link: https://kernelcurry.com/blog/dr-mario-tournament-edition-salt/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 10fec5f44f3858be14f165c760917626
+  last_post_guid: ec69a83276323dba4e4a0d097d026d57
   score_criteria:
     cats: 0
     description: 3

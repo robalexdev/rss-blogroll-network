@@ -38,16 +38,15 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Notes from September 2026
+  last_post_title: Static site generators are weird
   last_post_description: |-
-    If you follow my monthly roundups, (1) who are you?? please say hi (2) you’ll notice a smaller post this time. September was a busy month for me.
-    Lots of feedback on a small post
-    I published
-  last_post_date: "2026-09-30T06:00:00Z"
-  last_post_link: https://evanhahn.com/notes-from-september-2026/
+    I love static sites. Pre-rendered files are usually faster, lower maintenance, easier to secure, and more. Static site generators let you create these sites much more easily, which is fabulous.
+    But I
+  last_post_date: "2026-11-06T17:00:00Z"
+  last_post_link: https://evanhahn.com/static-site-generators-are-weird/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c728134646ce8226e134b62951981f94
+  last_post_guid: d0dfc48a9e83f671953662b2807bd0fb
   score_criteria:
     cats: 0
     description: 3

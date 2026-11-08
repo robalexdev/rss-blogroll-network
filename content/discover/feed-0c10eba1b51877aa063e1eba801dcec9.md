@@ -26,10 +26,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 如何写一个 Agent
-  last_post_description: 《如何写一个 Agent》如果已经用过大模型的
-  last_post_date: "2026-10-20T00:00:00Z"
-  last_post_link: https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html
+  last_post_title: OpenWrt 扩容实战：NVMe 分区已经扩大，但 df 显示空间不变
+  last_post_description: 《OpenWrt 扩容实战：NVMe 分区已经扩大，但 df 显示空间不变》## 一、问题背景最近升级 OpenWrt
+    后，发现系统根目录空间不足，只有约 122MB，已经接近 100%
+  last_post_date: "2026-11-06T00:00:00Z"
+  last_post_link: https://jiajunhuang.com/articles/2026_11_06-upgrade_openwrt.md.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5911e029103691052cf8dda1de65b663

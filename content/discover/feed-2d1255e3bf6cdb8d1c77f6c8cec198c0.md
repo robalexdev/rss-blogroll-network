@@ -1,6 +1,6 @@
 ---
 title: A Distant Chime
-date: "2026-09-15T16:50:50-07:00"
+date: "2026-11-01T03:00:03-08:00"
 description: |-
   “A system that operates by constructing and executing plans lives, to speak metaphorically, in a sort of fantasy world..."
   -Agre and Chapman 1990

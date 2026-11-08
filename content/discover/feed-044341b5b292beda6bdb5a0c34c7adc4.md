@@ -18,49 +18,51 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Abel Góngora
+  - Akane Fushihara
+  - Akiyuki Shinbo
   - Analysis
   - Anime Industry
-  - Asami Murakoshi
-  - China (Animator)
-  - Jaadugar
-  - Kenichi Yoshida
-  - Kenji Zenba
-  - Kotaro Matsunaga
-  - Masashi Ando
-  - Naoko Yamada
-  - Ruotien Ting
-  - Ryosuke Nakamura
-  - Shinji Otsuka
-  - Weekly Coverage
-  - Yujiro Abe
+  - Essay
+  - Gekidan Inu Curry
+  - Ghost
+  - Gosei Oda
+  - Kazuki Kawata
+  - Madoka Magica
+  - Mamoru Hosoda
+  - Norifumi Kugai
+  - Shingo Natsume
+  - Sonny Boy
+  - Tomohiro Furukawa
+  - Walpurgisnacht Rising
+  - kezzardrix
   relme: {}
-  last_post_title: 'Jaadugar: A Witch In Mongolia Production Notes #07-12 – A Star-filled
-    Ending (For Now)'
-  last_post_description: Rather than merely limping to the goal line, allowing its
-    gripping narrative and careful cultural research to carry it, Jaadugar fought
-    back against production exhaustion. To do so, they gathered
-  last_post_date: "2026-09-20T13:30:21Z"
-  last_post_link: https://blog.sakugabooru.com/2026/09/20/jaadugar-a-witch-in-mongolia-production-notes-07-12-a-star-filled-ending-for-now/
+  last_post_title: 'Shingo Natsume’s Ghost And Madoka Magica: Walpurgisnacht Rising
+    Shake Up The Status Quo For High-Profile Theatrical Anime'
+  last_post_description: As high-profile anime films continue to trend toward faithful
+    adaptations, Shingo Natsume’s Ghost and Madoka Walpurgisnacht Rising make it an
+    explicit point to expose audiences to unique new ways
+  last_post_date: "2026-10-31T21:05:09Z"
+  last_post_link: https://blog.sakugabooru.com/2026/10/31/ghost-madoka-walpurgisnacht-rising/
   last_post_categories:
-  - Abel Góngora
+  - Akane Fushihara
+  - Akiyuki Shinbo
   - Analysis
   - Anime Industry
-  - Asami Murakoshi
-  - China (Animator)
-  - Jaadugar
-  - Kenichi Yoshida
-  - Kenji Zenba
-  - Kotaro Matsunaga
-  - Masashi Ando
-  - Naoko Yamada
-  - Ruotien Ting
-  - Ryosuke Nakamura
-  - Shinji Otsuka
-  - Weekly Coverage
-  - Yujiro Abe
+  - Essay
+  - Gekidan Inu Curry
+  - Ghost
+  - Gosei Oda
+  - Kazuki Kawata
+  - Madoka Magica
+  - Mamoru Hosoda
+  - Norifumi Kugai
+  - Shingo Natsume
+  - Sonny Boy
+  - Tomohiro Furukawa
+  - Walpurgisnacht Rising
+  - kezzardrix
   last_post_language: ""
-  last_post_guid: 7fbca1bcf6f31f3a608828a0889fa109
+  last_post_guid: e703f433d17f590078931bcb88f34ced
   score_criteria:
     cats: 0
     description: 3

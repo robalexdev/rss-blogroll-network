@@ -23,38 +23,31 @@ params:
   recommender: []
   categories:
   - Personal
-  - board games
-  - game
-  - games
-  - hide and seek
-  - jet lag
-  - london
-  - public transport
-  - rain
-  - transport
-  - underground
-  - weather
+  - animals
+  - css
+  - html
+  - html5
+  - performance
+  - web
+  - web development
   relme: {}
-  last_post_title: '[Note] Hide and Seek London'
-  last_post_description: Well, it looks like I've committed to playing this on the
-    wettest imaginable weekend. Wish me luck!
-  last_post_date: "2026-10-23T13:03:12Z"
-  last_post_link: https://danq.me/2026/10/23/hide-and-seek-london/
+  last_post_title: '[Article] Dynamic Sorting in Pure CSS'
+  last_post_description: Did you know that you can make a list of items "sortable"
+    client-side with just one selector and one property of CSS per sort-criteria,
+    and have a fully-fledged ordering system without an iota of
+  last_post_date: "2026-11-06T16:51:08Z"
+  last_post_link: https://danq.me/2026/11/06/dynamic-sorting-in-pure-css/
   last_post_categories:
   - Personal
-  - board games
-  - game
-  - games
-  - hide and seek
-  - jet lag
-  - london
-  - public transport
-  - rain
-  - transport
-  - underground
-  - weather
+  - animals
+  - css
+  - html
+  - html5
+  - performance
+  - web
+  - web development
   last_post_language: ""
-  last_post_guid: 211b45c5f2e70965d49255a8d6305504
+  last_post_guid: b7bcb06a8faa0fa4e6f28e490a80a49e
   score_criteria:
     cats: 0
     description: 3

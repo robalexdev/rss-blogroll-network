@@ -1,6 +1,6 @@
 ---
 title: B/X BLACKRAZOR
-date: "2026-10-11T15:41:26-07:00"
+date: "2026-11-04T12:44:38-08:00"
 description: ""
 params:
   feedlink: https://bxblackrazor.blogspot.com/feeds/posts/default
@@ -38,6 +38,7 @@ params:
   - DoS
   - EID
   - Euro
+  - EuroChamps
   - Evergreen
   - Forge
   - G+
@@ -119,6 +120,7 @@ params:
   - ashen
   - asimov
   - aspirin
+  - ass-kicking
   - assassins
   - assumptions
   - astrology
@@ -287,6 +289,8 @@ params:
   - distribution
   - diversity
   - dl
+  - dl10
+  - dl4
   - dl6
   - dmg
   - dmg4
@@ -484,6 +488,7 @@ params:
   - land of ice
   - language
   - larp
+  - lava
   - laws
   - lazy
   - legacy
@@ -884,16 +889,19 @@ params:
     https://bxblackrazor.blogspot.com/: true
     https://seattlesoccerdad.blogspot.com/: true
     https://www.blogger.com/profile/03263662621289630246: true
-  last_post_title: Game Day
+  last_post_title: Being A "Good" Player
   last_post_description: ""
-  last_post_date: "2026-09-12T08:33:27-07:00"
-  last_post_link: https://bxblackrazor.blogspot.com/2026/09/game-day.html
+  last_post_date: "2026-10-29T23:31:03-07:00"
+  last_post_link: https://bxblackrazor.blogspot.com/2026/10/being-good-player.html
   last_post_categories:
-  - bitchin-moanin
-  - kids
-  - soccer
+  - OSR
+  - advanced play
+  - blog
+  - gygax
+  - holiday
+  - phb
   last_post_language: ""
-  last_post_guid: 48888a6a25dbdd10e36082a4957cfa50
+  last_post_guid: 8bd24bacccc63d6a6edcfbb4b91693e8
   score_criteria:
     cats: 5
     description: 0

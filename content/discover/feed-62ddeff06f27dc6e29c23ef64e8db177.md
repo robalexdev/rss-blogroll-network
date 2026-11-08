@@ -19,13 +19,15 @@ params:
   - https://bielinski.de/feed/
   categories: []
   relme: {}
-  last_post_title: 'Podcast Apps: A Framework for Dying Slowly with Dignity'
-  last_post_description: Why I'm making the decisions I'm making for Castro
-  last_post_date: "2026-07-23T18:33:57Z"
-  last_post_link: https://www.uncommonapps.nyc/p/podcast-apps-a-framework-for-dying
+  last_post_title: Castro Update
+  last_post_description: 'I wanted to update everyone on the next stage of Castro:
+    I’ve decided to sell the app to Maple Media. Maple Media is a mobile media and
+    technology company that owns and runs category-leading'
+  last_post_date: "2026-10-27T16:28:10Z"
+  last_post_link: https://www.uncommonapps.nyc/p/castro-update
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f46844cc8d9ef63c143dc4228619b9c5
+  last_post_guid: 5e0fe20944ed8b512d5f7b4abf33821f
   score_criteria:
     cats: 0
     description: 3

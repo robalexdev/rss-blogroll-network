@@ -19,15 +19,20 @@ params:
   relme:
     https://hachyderm.io/@mitch: true
     https://mitchwagner.com/: true
-  last_post_title: Random thoughts about science fiction book series
+  last_post_title: "\U0001F98D Mitchellaneous #207: Memes and other found media"
   last_post_description: |-
-    Elsewhere on the Internet, a friend was was talking about various particular science fiction series and sf series in general. My reply (lightly edited for readability here):
-    I loved the “World of
-  last_post_date: "2026-10-11T12:25:59-07:00"
-  last_post_link: https://mitchwagner.com/2026/10/11/random-thoughts-about-science-fiction.html
+    Following up on my own pessimistic post from Tuesday.
+
+
+
+
+
+    Where I post from
+  last_post_date: "2026-11-06T10:58:40-08:00"
+  last_post_link: https://mitchwagner.com/2026/11/06/mitchellaneous-memes-and-other-found.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 603815b9052174fd3061ada42a50cc0e
+  last_post_guid: 08f03ec20cef6f611ced5c8390a13317
   score_criteria:
     cats: 0
     description: 0

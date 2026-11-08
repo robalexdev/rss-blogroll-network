@@ -20,34 +20,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Commentary
-  - Government + Politics
+  - Criminal Justice
   relme: {}
-  last_post_title: Prevention should not be a buzzword. It should be at the heart
-    of Missouri’s child welfare system
-  last_post_description: The growing attention being given to Missouri’s child welfare
-    system offers a critical opportunity to address not only the challenges with the
-    system, but the circumstances that bring families to a
-  last_post_date: "2026-10-10T10:50:36Z"
-  last_post_link: https://missouriindependent.com/2026/10/10/prevention-should-not-be-a-buzzword-it-should-be-at-the-heart-of-missouris-child-welfare-system/
+  last_post_title: Violent, property crime victimization rates fell in 2025, federal
+    data shows
+  last_post_description: A new federal report released the week before Tuesday’s midterm
+    elections found that Americans experienced declines in several categories of violent
+    and property crime victimization in 2025,
+  last_post_date: "2026-11-06T19:21:45Z"
+  last_post_link: https://missouriindependent.com/2026/11/06/repub/violent-property-crime-victimization-rates-fell-in-2025-federal-data-shows/
   last_post_categories:
-  - Commentary
-  - Government + Politics
+  - Criminal Justice
   last_post_language: ""
-  last_post_guid: f99b434a5c2655fb886881007f0a2e0d
+  last_post_guid: 631ecdc0a4ddd870040b67fd8f3a6af0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

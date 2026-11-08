@@ -24,16 +24,17 @@ params:
   categories: []
   relme:
     https://liudon.com/: true
-  last_post_title: 一次 GitHub Actions 超时，追到 IPFS 基础设施的动荡
+  last_post_title: Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动
   last_post_description: |-
-    前言
-    今天更新《博客时光机 2.0 前端篇：把时间装进一台 Macintosh》时，突然遇到了 GitHub Actions 执行失败。
-    简单看了下报错，看着是 IPFS
-  last_post_date: "2026-10-09T11:08:15+08:00"
-  last_post_link: https://liudon.com/posts/github-actions-ipfs-dist-ipfs-tech/
+    今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。
+    刚好有时间，于是顺手做了一下升级。
+    从 v0.22.5 升级到 v0.23.0
+    我用的是 Docker
+  last_post_date: "2026-11-06T22:20:23+08:00"
+  last_post_link: https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b2ddb70ba12fc36335bba74b7b827c6a
+  last_post_guid: 6ce200322fd6dc3a8a6b05e39e77a039
   score_criteria:
     cats: 0
     description: 3

@@ -8,6 +8,7 @@ params:
   feedid: da345d35bab8ae2555d6c7c1b514aac6
   websites:
     https://100r.ca/: true
+    https://100r.ca/site/support.html: false
     https://100r.co/: false
   blogrolls: []
   in_blogrolls:
@@ -19,19 +20,23 @@ params:
   categories: []
   relme:
     https://100r.ca/: true
+    https://100r.ca/site/support.html: true
     https://grimgrains.com/: true
     https://kokorobot.ca/: true
     https://merveilles.town/@rek: true
     https://rabbitwaves.ca/: true
-  last_post_title: Summary of changes for September 2026
-  last_post_description: "Hey everyone!This is the list of all the changes we've done
-    to our projects during the month of September.\n\n\n  Wiki, added portland island,
-    and updated alcohol stove.\n  Donsol, released on Itch.io!\n "
-  last_post_date: "2026-09-30T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#sep2026
+  last_post_title: Summary of changes for October 2026
+  last_post_description: |-
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of October.
+
+
+      Wiki, added taxes, and updated .
+      Donsol, fixed some bugs. Note that we plan to release a
+  last_post_date: "2026-11-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#oct2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 51765432f78a77e35f338250f26bdef2
+  last_post_guid: 2a4380f20dfb2cc4764caefd55fa5987
   score_criteria:
     cats: 0
     description: 3

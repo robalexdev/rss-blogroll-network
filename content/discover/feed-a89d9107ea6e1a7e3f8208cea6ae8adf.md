@@ -1,6 +1,6 @@
 ---
 title: 123-Nadelei
-date: "2026-10-07T14:15:13+02:00"
+date: "2026-11-07T00:00:16+01:00"
 description: |-
   Nähen, stricke, häkeln, Färben, auch mal etwas anstreichen und restaurieren ... darum geht es hier.
   Über Anregungen, Kommentare und Austausch freue ich mich.
@@ -85,19 +85,22 @@ params:
   relme:
     https://123-nadelei.blogspot.com/: true
     https://www.blogger.com/profile/05530898157836992763: true
-  last_post_title: Stoffspielerei rund ums Weglassen
-  last_post_description: 'Diesen Monat hat Sabine vom Blog Tyche''s Touch das Thema
-    der Stoffspielerei gewählt: „Die Kunst des Weglassens“Im Gegensatz zu Ihrem Thema
-    im von 2021: „Glitzer tröstet“ denke ich bei'
-  last_post_date: "2026-09-27T11:14:19+02:00"
-  last_post_link: https://123-nadelei.blogspot.com/2026/09/stoffspielerei-rund-ums-weglassen.html
+  last_post_title: Stoffspielerei mit Schablonieren
+  last_post_description: Beate von Siebensachen-zum Selbermachen lädt uns im Oktober
+    zum Thema Schablonieren ein. Zunächst hatte ich Pläne für ein anderes Projekt,
+    habe mich dann umentschieden:Schablonendruck verbinde
+  last_post_date: "2026-10-26T09:59:47+01:00"
+  last_post_link: https://123-nadelei.blogspot.com/2026/10/stoffspielerei-mit-schablonieren.html
   last_post_categories:
-  - Kissen
-  - Patchwork
+  - Alabama Chanin
+  - Altes Neu
+  - Applikation
+  - Färben
+  - Stoffmanipulation
   - Stoffspielerei
-  - nähen
+  - sticken
   last_post_language: ""
-  last_post_guid: 2d477587bbf33efd2db2df379b5ace39
+  last_post_guid: cdea03c2a7941b781fc5edc086451b63
   score_criteria:
     cats: 5
     description: 3

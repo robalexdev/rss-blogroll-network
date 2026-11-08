@@ -10,7 +10,7 @@ params:
     https://publicdomainreview.org/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: nathanUpchurchBlogroll.opml
@@ -27,14 +27,14 @@ params:
   relme:
     https://mastodon.social/@publicdomainrev: true
     https://publicdomainreview.org/: true
-  last_post_title: Paul Carus’ The History of the Devil and the Idea of Evil (1899)
-  last_post_description: A history of the Evil One, from the earliest times to the
-    present.
-  last_post_date: "2026-10-07T13:34:00Z"
-  last_post_link: https://publicdomainreview.org/collection/history-of-the-devil
+  last_post_title: 'Slavdom Unearthed: Marian Wawrzeniecki’s Neopagan Paintings (1891–1923)'
+  last_post_description: A neopagan visual archive meant to rival the iconic power
+    of the Christian West.
+  last_post_date: "2026-11-04T14:59:00Z"
+  last_post_link: https://publicdomainreview.org/collection/marian-wawrzeniecki
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cd4501d617658a50e0bb5e0ac5c6d594
+  last_post_guid: eb0adcbccee195328d0453e7ecdf0ade
   score_criteria:
     cats: 0
     description: 3

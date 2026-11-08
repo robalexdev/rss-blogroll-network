@@ -1,6 +1,6 @@
 ---
 title: Dweller of the Forbidden City
-date: "2026-10-07T05:14:00-07:00"
+date: "2026-11-03T03:53:06-08:00"
 description: ""
 params:
   feedlink: https://dwelleroftheforbiddencity.blogspot.com/feeds/posts/default

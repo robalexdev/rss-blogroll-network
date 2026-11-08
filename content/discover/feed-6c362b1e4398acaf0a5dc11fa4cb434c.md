@@ -1,6 +1,6 @@
 ---
 title: Ausflug
-date: "2026-10-12T01:13:16+02:00"
+date: "2026-11-07T03:04:12+01:00"
 description: Ausflugsziele entdecken – Inspirationen für schöne Erlebnisse in der
   Region.
 params:
@@ -17,18 +17,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Leben,Freizeit,Ausflug,SWR1 RLP,Welt,Europa,Deutschland,Rheinland-Pfalz,Seilbahn,Outdoortipps,Herbst,Klettern,Kletterpark,Kletterparcours,Herbstferien
+  - Leben,Freizeit,Ausflug,Winter,Breitenauer See,Löwenstein Herbst
   relme: {}
-  last_post_title: Fünf Kletterwälder in und um Rheinland-Pfalz
-  last_post_description: Die Herbstsonne scheint? Wie wäre es, neben fallenden Blättern
-    in luftigen Höhen zu klettern? Wir haben fünf Kletterwälder in und um Rheinland-Pfalz
-    zusammengestellt.
-  last_post_date: "2026-10-09T17:20:12+02:00"
-  last_post_link: https://www.swr.de/leben/freizeit/ausflugstipp-fuenf-kletterwaelder-in-und-um-rheinland-pfalz-100.html
+  last_post_title: Rund um Löwenstein
+  last_post_description: Im Sommer ist am Breitenauer See bei Heilbronn mächtig was
+    los. Ausflugsreporter Markus Bundt zeigt, dass was rund um Löwenstein im Herbst
+    und Winter alles geboten wird.
+  last_post_date: "2026-11-06T14:20:48+01:00"
+  last_post_link: https://www.swr.de/video/sendungen-a-z/kaffee-oder-tee/rund-um-loewenstein-100.html
   last_post_categories:
-  - Leben,Freizeit,Ausflug,SWR1 RLP,Welt,Europa,Deutschland,Rheinland-Pfalz,Seilbahn,Outdoortipps,Herbst,Klettern,Kletterpark,Kletterparcours,Herbstferien
+  - Leben,Freizeit,Ausflug,Winter,Breitenauer See,Löwenstein Herbst
   last_post_language: ""
-  last_post_guid: c2b7d7428bd58689e427a38dfcf96fe6
+  last_post_guid: 8fa1878b9e81d47d414f5b01e5b61767
   score_criteria:
     cats: 0
     description: 3

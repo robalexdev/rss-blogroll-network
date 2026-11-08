@@ -15,24 +15,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Tor
-  - 即时通讯
+  - http3
+  - nginx
+  - quic
   - 学无止境
-  - 端到端加密
-  - 聊天软件
   relme: {}
-  last_post_title: PaperPhone：一款微信风格的端对端加密即时通讯应用
-  last_post_description: PaperPhone这项目是我朋友一直在开发的，这里帮他推荐一下。项目主要分为两个版本：Plus、Lite，Plus比Lite多了音视频会议、朋友圈等功能。
-  last_post_date: "2026-10-11T16:10:20Z"
-  last_post_link: https://lala.im/10433.html
+  last_post_title: Debian 13配置Nginx启用HTTP/3
+  last_post_description: 我升级到Debian 13后发现Nginx的版本是1.26.3，这个版本我没记错的话是支持HTTP/3的，然后看了一下编译参数，正好包含：--with-http_v3_module
+  last_post_date: "2026-11-05T22:33:51Z"
+  last_post_link: https://lala.im/10512.html
   last_post_categories:
-  - Tor
-  - 即时通讯
+  - http3
+  - nginx
+  - quic
   - 学无止境
-  - 端到端加密
-  - 聊天软件
   last_post_language: ""
-  last_post_guid: b64418ade6ea09650d35b72cec277e1f
+  last_post_guid: 018861d372264b9406965c0730140be7
   score_criteria:
     cats: 0
     description: 3

@@ -18,15 +18,15 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Firefox
-  last_post_description: Ich nutzte Firefox seit Jahren. Und doch muss ich immer wieder
-    auf einen Chrome basierenden Browser ausweichen, denn das klappt im Firefox nicht.
-    Wie die Ionos Webkonsole oder wenn man mit der
-  last_post_date: "2026-10-03T14:06:00+02:00"
-  last_post_link: https://tail-f.life/firefox
+  last_post_title: die Democrats
+  last_post_description: "Die Democrats habe in den Midterms abgesahnt und der Orange
+    einen empfindlichen Schlag verpasst. Gut. \nAber dieses ganze euphorische Getue
+    überall geht mir auf den Zeiger.\nErstens ist dieser Pedo"
+  last_post_date: "2026-11-04T19:09:00+01:00"
+  last_post_link: https://tail-f.life/die-democrats
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b9d7fecf2b02c6b647f69fde921e7130
+  last_post_guid: e61712b7fb5268b2d5ea0b958a1d091a
   score_criteria:
     cats: 0
     description: 3

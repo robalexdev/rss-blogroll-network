@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 烧饼论坛正式开业
-  last_post_description: 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。
-  last_post_date: "2026-08-21T00:27:59Z"
-  last_post_link: https://u.sb/sb-sb/
+  last_post_title: doma.in 二级域名注册上线，烧饼也能换域名啦
+  last_post_description: 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。
+  last_post_date: "2026-10-13T00:00:00Z"
+  last_post_link: https://u.sb/doma-in/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6afe57fd1ffb531226ae182bc71a210d
+  last_post_guid: 360411dfe7968d41296f66a911633e26
   score_criteria:
     cats: 0
     description: 3

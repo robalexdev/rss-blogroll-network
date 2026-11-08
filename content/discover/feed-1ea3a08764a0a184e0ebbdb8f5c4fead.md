@@ -1,6 +1,6 @@
 ---
 title: winther blog
-date: "2026-10-23T09:32:12Z"
+date: "2026-10-24T15:14:30Z"
 description: I am a 40 year old man from Denmark and I blog about various topics such
   as movies, tech, meta-blogging, jigsaw-puzzles and other stuff.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,25 +26,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
-  - blogging
+  - blog-carnival
   relme: {}
-  last_post_title: AI agents on the IndieWeb
+  last_post_title: 'IndieWeb Carnival: Parenting - roundup post'
   last_post_description: ""
-  last_post_date: "2026-10-14T19:25:44Z"
-  last_post_link: https://winther.sysctl.dk/ai-agents-on-the-indieweb/
+  last_post_date: "2026-10-24T15:14:30Z"
+  last_post_link: https://winther.sysctl.dk/indieweb-carnival-parenting-roundup-post/
   last_post_categories:
-  - ai
-  - blogging
+  - blog-carnival
   last_post_language: ""
-  last_post_guid: 44d780942ff50c412c32207a9020cc56
+  last_post_guid: 84e5bd96792a8a8c0d24a46e404a380e
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
@@ -54,7 +52,7 @@ params:
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 295
 ---

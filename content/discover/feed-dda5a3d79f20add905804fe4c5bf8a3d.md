@@ -36,15 +36,15 @@ params:
     https://23.social/@linuzifer: true
     https://logbuch-netzpolitik.de/: true
     https://podcasts.social/@lnp: true
-  last_post_title: LNP562 Gipfel der überzogenen Erwartungen
-  last_post_description: Heute eine Sendung mit wenig Themen, dafür wieder beunruhigendes
-    aus dem Politsegment. Aber immerhin wurde mal ein Geheimdienstler festgenommen,
-    das ist doch auch mal was. Dazu ein bisschen Feedback
-  last_post_date: "2026-10-10T09:09:28Z"
-  last_post_link: https://logbuch-netzpolitik.de/lnp562-gipfel-der-ueberzogenen-erwartungen
+  last_post_title: LNP564 Im Himmel regiert der liebe Gott
+  last_post_description: Wir feiern die Ergebnisse der US Midterm Wahlen und passend
+    zum Wahlerfolg haben wir uns Thomas dazugeholt, der diese Momente irgendwie immer
+    perfekt abpasst. Nach ein paar Meldungen aus dem
+  last_post_date: "2026-11-05T14:46:28Z"
+  last_post_link: https://logbuch-netzpolitik.de/lnp564-im-himmel-regiert-der-liebe-gott
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 91f68e64eaeecc7d58db0a6d9f7724e5
+  last_post_guid: 5a29a91cb5bcb566ac79a87692f60216
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Doc.Evas Kochlatein
-date: "2026-10-10T17:43:58+02:00"
+date: "2026-11-06T11:38:30+01:00"
 description: 'Doc.Evas Kochlatein: Wissenswertes und Kuriositäten, Neuigkeiten und
   Überliefertes, Nachrichten und Erinnerungen rund ums Kochen und Reisen - Essen beginnt
   im Mund'
@@ -68,6 +68,7 @@ params:
   - '#carbonaraday'
   - '#christianhenze'
   - '#cookingpokal'
+  - '#cooktober'
   - '#covfete'
   - '#covid19'
   - '#doc.evaontour'
@@ -281,6 +282,8 @@ params:
   - Aprikose
   - Aprikose getrocknet
   - Aprikosen
+  - Aprikosen-Sorbet
+  - Aprikosenkaltschale
   - Aprikosenkuchen
   - Aprikosenröster
   - Apulien
@@ -338,6 +341,7 @@ params:
   - Badisch Brauhaus
   - Baharat
   - Baltic Lights
+  - Banat
   - Bar-B-Q
   - BarCamp
   - Barbecue
@@ -420,6 +424,8 @@ params:
   - Blanquette de veau
   - Blasenschwäche
   - Blattsasalate
+  - Blaubeer-Smoothie
+  - Blaubeer-Sorbet
   - Blaubeeren
   - Blaubeermuffins
   - Blechkuchen
@@ -468,6 +474,7 @@ params:
   - Bratwurstmeisterschaft
   - Bratwurstsalat
   - Brauerei Vogel
+  - Brașov
   - Breadpops
   - Breakfast
   - Brickteig
@@ -596,6 +603,7 @@ params:
   - Citrusgelee
   - Clafoutis
   - Clafoutis US Style
+  - Clafoutis mit Aprikosen aus der Heißluftfritteuse
   - Clafoutis mit Blaubeeren
   - Clafoutis mit Feigen
   - Clafoutis mit Wildpflaumen
@@ -703,6 +711,7 @@ params:
   - Die neue Trinkkultur
   - Diekmann
   - Dill
+  - Dino Parc Râșnov
   - Dip
   - Dipp
   - Dirty Pirate Popsicles
@@ -716,6 +725,7 @@ params:
   - Domäne Dahlem
   - Donau
   - Dong Xuan Center
+  - Dracula
   - Drehkreuz Berlin
   - Drink
   - Drink & Dine
@@ -764,6 +774,7 @@ params:
   - Eis am Stil
   - Eistee
   - Eiweis
+  - Eiweiß
   - El Quseir
   - El-Quseir
   - Elbauen
@@ -788,6 +799,7 @@ params:
   - Erdbeere
   - Erdbeeren
   - Erdbeeren Frischkäse
+  - Erdbeerfruchtsoda
   - Erdbeerkuchen
   - Erdbeerkuchen ohne Ei
   - Erdbeermund
@@ -801,6 +813,7 @@ params:
   - Erdnusssand
   - Erdnusssauce
   - Erdnüsse
+  - Erfrischungsgetränk
   - Eriwan
   - Erkältung
   - 'Erlebnishof Klaistow #docevaontour'
@@ -812,6 +825,7 @@ params:
   - Estrel
   - Estrel Berlin
   - Etivaz
+  - Europäische Gastronomieregion 2028
   - Exhibition
   - Exotischer Fruchtcocktail mit Tunfisch
   - FIFA-Apéro
@@ -840,6 +854,7 @@ params:
   - Fenchelsalat mit Orangen
   - Fenchelsamen
   - Fenchelsuppe mit Einlagen
+  - Ferienprojekt
   - Fermentieren
   - Ferrie
   - Festa di Sant'Isidoro Agricola
@@ -913,6 +928,7 @@ params:
   - Frauen-Gedenkstätte
   - Fregola sarda
   - Fregola sarda tostata
+  - French Onion Grilled Cheese Sandwich
   - French Toast
   - Freundin
   - Freundinnen
@@ -928,6 +944,7 @@ params:
   - Frozen Nectarine
   - Frozen Yogurt
   - Fruchtiger Salat
+  - Fruchtsuppe
   - Fruit Logistca 2023
   - Fruit Logistica 2015
   - Fruit Logistica 2024
@@ -1077,6 +1094,7 @@ params:
   - Gulasch mit Sauerkraut
   - Gulaschsuppe
   - Gurke
+  - Gurken
   - Gurkenayran
   - Gurkeneis am Stiel
   - Gurkennudeln
@@ -1105,6 +1123,7 @@ params:
   - Hamburg
   - Hamburger
   - Hangar-7
+  - Happy Brașov 2026
   - Harissa
   - Haselnuss
   - Haselnusstörtchen im Glas
@@ -1287,6 +1306,7 @@ params:
   - Kaktusfeigentarte
   - Kalabrien
   - Kalettes
+  - Kaliningrad
   - Kaltauszug
   - Kalte Platte
   - Kalter Hund
@@ -1427,6 +1447,7 @@ params:
   - Kunsthalle Talstrasse
   - Kunstsafari
   - Kur
+  - Kurische Nehrung
   - Kurkuma
   - Kuvertüre
   - Käptn's Dinner
@@ -1446,7 +1467,9 @@ params:
   - Käsesuppe
   - Käsesuppe mit Graviera Käse
   - Käsewurstsalat
+  - Käsewähe
   - Kästnerrevue
+  - Königsberg
   - Köstritzer
   - Köstritzer Bier
   - Köstritzer Musik Cooking Club
@@ -1579,6 +1602,7 @@ params:
   - Maronisuppe
   - Marquis of Kensington
   - Martin Suter
+  - Marzahner Bockwindmühle
   - Marzipan
   - Mascarpone
   - Matera
@@ -1674,6 +1698,7 @@ params:
   - Möhrenküchlein
   - Möhrensuppe
   - Müesli
+  - Mühle
   - Mürbeteig
   - Mürbeteig aus Mandelmehl
   - Müsli
@@ -1837,10 +1862,13 @@ params:
   - Pfannkuchen
   - Pfeffer
   - Pfefferminze
+  - Pfifferling
   - Pfifferlinge
   - Pfifferlinge in Rahmsauce
   - Pfifferlingsaufstrich
   - Pfifferlingsrisoni
+  - Pfifferlingssuppe
+  - Pfifferlingstatar
   - Pfirsich
   - Pfirsich-Eis am Stiel
   - Pfirsichtaschen
@@ -1878,6 +1906,7 @@ params:
   - Planke
   - Plätzchen
   - Pochier-Pfanne
+  - Poiana Brașov
   - Poire belle Hélène
   - Polenta-Limettenkuchen
   - Polpette
@@ -1945,6 +1974,7 @@ params:
   - Reisetomate
   - Reisnudeln
   - Reissalat mit Spargel
+  - Relish
   - Remoulade
   - Remouladensauce
   - Residenzkonzerte
@@ -2015,6 +2045,7 @@ params:
   - Royal
   - Rum
   - Rum und Cola
+  - Rumänien
   - Russisch Ei
   - Russischer Salat
   - Russischer Zupfkuchen
@@ -2093,6 +2124,7 @@ params:
   - Schlittenhunderennen
   - Schloss
   - Schloss Biesdorf
+  - Schloss Bran
   - Schloss Britz
   - Schloss Charlottenburg
   - Schloss Neu-Hardenberg
@@ -2140,6 +2172,8 @@ params:
   - Semmelnknödeln
   - Semmelnknödelnsalat
   - Senf
+  - Senfkörner
+  - Senfrahm
   - Senfsauce
   - Senföl
   - Senionen
@@ -2156,6 +2190,7 @@ params:
   - Sizilien
   - Sizilien 2025
   - Sizilien 2026
+  - Skandinavische Gurken
   - Skifahren
   - Skiwasser
   - Skrei
@@ -2249,6 +2284,7 @@ params:
   - Stress
   - Streusel
   - Streußel
+  - Stroganina
   - Studienreise
   - Stulle
   - Stuttgart
@@ -2333,6 +2369,7 @@ params:
   - Thymian
   - Thüringen
   - Til Schweiger
+  - Timișoara
   - Tino Schlögl
   - Tiroler Speck
   - Titanic Ret
@@ -2410,6 +2447,7 @@ params:
   - Villa Westerberge
   - Villeroy& Boch
   - Vinaigrette
+  - Visit.Timiş
   - VisitFinland
   - Vitabliss
   - Vitalitätstee
@@ -2445,6 +2483,7 @@ params:
   - Weinprobe
   - Weintrauben
   - Weisse Schokolade
+  - Weisswurst in cremiger Senfsauce
   - Weißwurst
   - Weißwursttatar
   - Weißwursttatar auf Laugenstangenscheibchen
@@ -2472,6 +2511,7 @@ params:
   - Wolfgang Müller
   - Work-Life-Balance
   - Wurstsalat
+  - Wähe
   - Würstchen im Schlafrock
   - Wüste
   - Xmas 3.0
@@ -2481,6 +2521,7 @@ params:
   - Yufkateig
   - ZDF
   - Zacke
+  - Zacuscă
   - Zahir Country House
   - Zahnbrecher
   - Zahnersatz
@@ -2517,6 +2558,7 @@ params:
   - Zitronenkekse
   - Zitronenkuchen
   - Zitronenküchlein mit Himbeeren
+  - Zitronenmarmelade
   - Zitronenmelisse
   - Zitronenmelissesirup
   - Zitronenpesto
@@ -2529,6 +2571,7 @@ params:
   - Zitronenöl
   - Zitruskuchen
   - Zucchini
+  - Zucchini Relish
   - Zucchini parmigiana
   - Zucchini parmigiana Art
   - Zucchininudeln
@@ -2546,6 +2589,7 @@ params:
   - Zwiebelkuchen
   - Zwiebelkuchen ohne Boden
   - Zwiebeln
+  - Zwiebelsuppe
   - 'Zwischengang #lsaisstgut'
   - Zwischengericht
   - Zwischenmahlzeit
@@ -2563,6 +2607,7 @@ params:
   - bongu
   - cholesterinfrei
   - dental-food
+  - docevaontourinberlin
   - eat and travel
   - eat! Berlin 2016
   - eat! berlin
@@ -2639,6 +2684,7 @@ params:
   - travel and eat
   - travelandeat
   - ugly food
+  - unsichtbarer Apfelkuchen
   - vegan
   - vegetarisch
   - 'vegetarisch #verzehrbarelandschaften'
@@ -2655,26 +2701,33 @@ params:
   relme:
     https://dental-food.blogspot.com/: true
     https://www.blogger.com/profile/00624569315811239365: true
-  last_post_title: Essbare Souvenirs aus Sizilien
+  last_post_title: Soupe à l’oignon wie früher
   last_post_description: ""
-  last_post_date: "2026-10-07T21:51:48+02:00"
-  last_post_link: https://dental-food.blogspot.com/2026/10/zitronen-marmelade.html
-  last_post_categories: []
+  last_post_date: "2026-11-05T12:23:04+01:00"
+  last_post_link: https://dental-food.blogspot.com/2026/11/zwiebel-suppe.html
+  last_post_categories:
+  - '#docevasküche'
+  - French Onion Grilled Cheese Sandwich
+  - HLF
+  - Heißluftfritteuse
+  - Rezept
+  - Zwiebeln
+  - Zwiebelsuppe
   last_post_language: ""
-  last_post_guid: 9d30801e2e1a9e94b4ebb8192616721a
+  last_post_guid: 4488b23deaec31aca06f8183259f1340
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 29
   ispodcast: false
   isnoarchive: false
   innetwork: true

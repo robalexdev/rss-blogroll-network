@@ -1,7 +1,7 @@
 ---
 title: Minsuk Kang
-date: "2026-10-23T14:17:02Z"
-description: A writer from Jeju.
+date: "2026-11-06T12:17:32Z"
+description: Read, write, teach.
 params:
   feedlink: https://kangminsuk.com/index.xml
   feedtype: atom
@@ -27,33 +27,36 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 한국어
+  - English
+  - notes
   relme: {}
-  last_post_title: 일반인
-  last_post_description: ""
-  last_post_date: "2026-10-13T06:06:23Z"
-  last_post_link: https://kangminsuk.com/il-ban-in/
+  last_post_title: Koreans and Americanos
+  last_post_description: To many Koreans, the Americano has also become like a bowl
+    of rice or a side of kimchi.
+  last_post_date: "2026-11-06T12:05:04Z"
+  last_post_link: https://kangminsuk.com/koreans-and-americanos/
   last_post_categories:
-  - 한국어
+  - English
+  - notes
   last_post_language: ""
-  last_post_guid: 2e44dd4fc5ee371b64caaf0a6de89d58
+  last_post_guid: 8d000380d40e8ed55c41758158fb26f8
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 221
 ---

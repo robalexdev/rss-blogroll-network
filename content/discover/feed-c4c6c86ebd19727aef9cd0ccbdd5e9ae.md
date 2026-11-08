@@ -1,6 +1,6 @@
 ---
 title: Hacker News Daily
-date: "2026-10-23T00:02:20Z"
+date: "2026-11-06T00:02:27Z"
 description: Daily top stories from Hacker News
 params:
   feedlink: https://www.daemonology.net/hn-daily/index.rss
@@ -20,18 +20,22 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Daily Hacker News for 2026-10-22
+  last_post_title: Daily Hacker News for 2026-11-05
   last_post_description: |-
     The 10 highest-rated articles on
     Hacker News
-    on October 22, 2026 which have not appeared on any previous
+    on November 05, 2026 which have not appeared on any previous
     Hacker News Daily
     are:
 
 
-    Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and
-  last_post_date: "2026-10-23T00:00:00Z"
-  last_post_link: https://www.daemonology.net/hn-daily/2026-10-22.html
+    Ask HN: What's your current AI agentic setup?
+    (comments)
+
+
+    Kimi K3.1
+  last_post_date: "2026-11-06T00:00:00Z"
+  last_post_link: https://www.daemonology.net/hn-daily/2026-11-05.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 5dc51073e48d797061b335e3a9548135

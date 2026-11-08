@@ -1,6 +1,6 @@
 ---
 title: overkill.wtf — Everything
-date: "2026-10-23T00:00:00+02:00"
+date: "2026-11-05T00:00:00+01:00"
 description: All the posts, notes, and book reviews posted on my blog
 params:
   feedlink: https://overkill.wtf/rss
@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Every Day Is for the Thief by Teju Cole
-  last_post_description: "Book title: Every Day Is for the Thief\n            Author:
-    Teju Cole\n            Rating: 3.5/5\n        \n        \n        This is a fascinating
-    book for two reasons.\nFirst, it reads like a travelogue"
-  last_post_date: "2026-10-23T00:00:00+02:00"
-  last_post_link: https://overkill.wtf/reading/every-day-is-for-the-thief-teju-cole
+  last_post_title: We Burned So Bright by TJ Klune
+  last_post_description: "Book title: We Burned So Bright\n            Author: TJ
+    Klune\n            Rating: 4/5\n        \n        \n        The first book I've
+    read by TJ Klune, and yet I feel like I know his entire life"
+  last_post_date: "2026-11-05T00:00:00+01:00"
+  last_post_link: https://overkill.wtf/reading/we-burned-so-bright-tj-klune
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 167f4ea68df4e84ce7b476a589741bc6
+  last_post_guid: 883e8b4db6b8895325103ddeaf63c5f4
   score_criteria:
     cats: 0
     description: 3

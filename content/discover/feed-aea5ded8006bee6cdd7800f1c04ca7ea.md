@@ -15,13 +15,13 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
     description: ""
     id: 57d1158260fb39257e0d42e895822952
-  - title: Blogrolle von Matthias Pfefferle
+  - title: Blog·rol·le, die von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: Blogroll
@@ -55,8 +55,10 @@ params:
   - https://www.buddenbohm-und-soehne.de/comments/feed/
   - https://www.dirkvongehlen.de/comments/feed/
   recommender:
+  - https://notiz.blog/author/matthias-pfefferle/feed/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/feed/
+  - https://notiz.blog/podcasts/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/chat/feed/
@@ -67,22 +69,23 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   - https://wirres.net/feed/river/
   categories:
-  - kirby-cms, indieweb
+  - indieweb, tools-plugins
   relme:
     https://maurice-renck.de/de: true
-  last_post_title: RSS Reader
-  last_post_description: Hier stehen künftig einige Herauforderungen bevor, weshalb
-    ich viel hin und her überlege. Das beinhaltet einige Tools, die ich nutze und
-    nun prüfe, ob sie künftig den Anforderungen noch genügen
-  last_post_date: "2026-10-06T16:25:00+02:00"
-  last_post_link: https://maurice-renck.de/de/blog/2026/rss-reader
+  last_post_title: SocialSpec
+  last_post_description: Gerade passiert im IndieWeb so viel, dass ich das Gefühl
+    habe, kaum noch hinterherzukommen. Gestern bin ich über eine Sache gestolpert,
+    die ich spannend wie simple finde – und ich habe Fragen
+  last_post_date: "2026-10-29T19:04:00+01:00"
+  last_post_link: https://maurice-renck.de/de/blog/2026/socialspec
   last_post_categories:
-  - kirby-cms, indieweb
+  - indieweb, tools-plugins
   last_post_language: ""
-  last_post_guid: 0e99bfaf3f628b813abb025d06dc363b
+  last_post_guid: 6b05fe9acfc515c501733229abfc1023
   score_criteria:
     cats: 0
     description: 0

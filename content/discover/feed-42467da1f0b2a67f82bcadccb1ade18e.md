@@ -15,16 +15,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 网络
+  - Linux
   relme: {}
-  last_post_title: 通过字幕总结YouTube视频内容
-  last_post_description: 本文来自依云's
-  last_post_date: "2026-06-09T17:11:54+08:00"
-  last_post_link: https://blog.lilydjwg.me/posts/217033.html
+  last_post_title: 加固我的virtiofs
+  last_post_description: "本文来自依云's Blog，转载请注明。\n\t最近各种严重的安全漏洞层出不穷，而我更新完它们、停下来的时候，突然发现一件事：我的virtiofsd是使用abstract"
+  last_post_date: "2026-10-29T15:23:13+08:00"
+  last_post_link: https://blog.lilydjwg.me/posts/217055.html
   last_post_categories:
-  - 网络
+  - Linux
   last_post_language: ""
-  last_post_guid: d75a708b504d0e136fd4609f0970dac2
+  last_post_guid: e940db1bf7ea6efa1e2639e75011d238
   score_criteria:
     cats: 0
     description: 0

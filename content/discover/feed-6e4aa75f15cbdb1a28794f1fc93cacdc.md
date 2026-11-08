@@ -1,6 +1,6 @@
 ---
 title: Codakuma
-date: "2026-05-17T12:51:53Z"
+date: "2026-10-29T18:30:44Z"
 description: iOS apps and indie life.
 params:
   feedlink: https://codakuma.com/feed.xml
@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,18 +28,17 @@ params:
   recommender: []
   categories:
   - ios
-  - swiftui
+  - opinion
   relme: {}
-  last_post_title: A floating card using safeAreaBar
-  last_post_description: Building a floating card component using iOS 26's safeAreaBar
-    with an iOS 18 fallback
-  last_post_date: "2026-05-17T00:00:00Z"
-  last_post_link: https://codakuma.com/floating-safe-area-bar/
+  last_post_title: Why I returned my iPhone Duo
+  last_post_description: TL;DR – great phone, just not for me
+  last_post_date: "2026-10-29T00:00:00Z"
+  last_post_link: https://codakuma.com/i-returned-my-duo/
   last_post_categories:
   - ios
-  - swiftui
+  - opinion
   last_post_language: ""
-  last_post_guid: ef4a855be696c630a7b12b68afc915e1
+  last_post_guid: cbc11b2bde23c8c1c92298da2b3f4d93
   score_criteria:
     cats: 0
     description: 3

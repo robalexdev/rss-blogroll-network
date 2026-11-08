@@ -8,6 +8,7 @@ params:
   feedid: fc2bde7ca66542d5f0381067ac0cfd2a
   websites:
     https://www.aaronstrick.com/: false
+    https://www.aaronstrick.com/reading: false
   blogrolls: []
   in_blogrolls:
   - title: Kagi Small Web OPML
@@ -17,14 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Peter, I Meant To Say This
-  last_post_description: I ran into my buddy this morning and I want to change my
-    parting words to him.
-  last_post_date: "2026-09-09T00:00:00Z"
-  last_post_link: https://aaronstrick.com/peter-finsta
+  last_post_title: GoodReads removed their RSS feeds :(
+  last_post_description: ""
+  last_post_date: "2026-11-01T00:00:00Z"
+  last_post_link: https://aaronstrick.com/goodreads-rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d4d6c24cacf5b3fcf874b28dd7d572ae
+  last_post_guid: 7f82538ba0dd04b720327bd38fb658c1
   score_criteria:
     cats: 0
     description: 3

@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Die Blogroll von Nico
@@ -23,119 +23,100 @@ params:
   recommender:
   - https://couchblog.de/feed/
   categories:
-  - "1986"
-  - "1989"
-  - A Crazy Little Thing Called Love
+  - "101"
+  - 19. Jahrhundert
+  - "1976"
+  - "1995"
   - Alltag
-  - Alter
-  - Angela Winkler
-  - BSR
-  - Bossa Nova
-  - Brian May
-  - Briefmarkensammlung
-  - Budapest
-  - Cinema Paris
-  - Doris Dörrie
-  - Drei Schwester
-  - Elvis
-  - Frau Winkler verlässt das Haus
-  - Freddie Mercury
-  - Handgelenk
+  - Ang Lee
+  - Apotheke
+  - Boxen
+  - Corona
+  - Day Trading
+  - Doppeldecker
+  - E-Books
+  - Emma Thompson
+  - Feurig Apotheke
+  - Georgia Oakley
+  - Grippeimpfung
+  - Hacker
   - Heizung
-  - Herbst
-  - IMAX
-  - John Deacon
-  - Kreuzberg
-  - Ku'damm
-  - Kytta
-  - Lastenrad
-  - Laura Tonke
-  - Linie 1
-  - Mathod Acting
-  - Mercedes-Benz-Platz
-  - Mirabellenwasser
-  - Musikfilm
-  - Prinzregentenstraße
-  - Queen
-  - Radfahren
-  - Regen
-  - Roboter
-  - Sturz
+  - IAM
+  - Impfung
+  - Jane Austen
+  - Kantstraße
+  - Laubbläser
+  - Midterms
+  - Mississippi
+  - New Hollywood
+  - Notebooksbilliger
+  - Odeon
+  - Philadelphia
+  - Ritter Sport
+  - Rocky
+  - Sense and Sensibility
+  - Staatsbesuch
+  - Sylvester Stallone
   - Südkreuz Offices
-  - The Miracle
-  - Theaterfilm
-  - Tschechow
-  - Tutti Frutti
-  - U3
-  - Uhlandessen
-  - Uhlandstraße
-  - Via Jekeli
-  - Warschauer Straße
-  - Yorck App
+  - Talia Shire
+  - Texas
+  - Trump
+  - USA
+  - WIkipedia
   - Yorck Unlimited
-  - Zagros
+  - nytimes
   relme: {}
-  last_post_title: 26-10-10 Open your eyes, look up to the skies and see Awop-bop-a-loo-mop
-    alop-bom-bom
-  last_post_description: Wenn wir die Mülltonne nachts an die Straße stellen und am
-    Nachmittag wieder reinholen, ist zwar unser Müll geleert, dafür aber die halbe
-    Tonne schon wieder von Passant*innen gefüllt. * Der
-  last_post_date: "2026-10-11T10:56:03Z"
-  last_post_link: https://iberty.de/26-10-10-open-your-eyes-look-up-to-the-skies-and-see-awop-bop-a-loo-mop-alop-bom-bom/03/
+  last_post_title: 26-11-06 Yo, Elinor
+  last_post_description: Aus der Kirche trat ein BasstrÃ¤ger. * Die Dithmarscher Heizung
+    funktioniert sporadisch. Immerhin soll die fragliche Platine in der Post aus SÃ¼ddeutschland
+    sein. Noch wiedersteht der Kaptain,
+  last_post_date: "2026-11-06T05:14:35Z"
+  last_post_link: https://iberty.de/26-11-06-yo-elinor/35/
   last_post_categories:
-  - "1986"
-  - "1989"
-  - A Crazy Little Thing Called Love
+  - "101"
+  - 19. Jahrhundert
+  - "1976"
+  - "1995"
   - Alltag
-  - Alter
-  - Angela Winkler
-  - BSR
-  - Bossa Nova
-  - Brian May
-  - Briefmarkensammlung
-  - Budapest
-  - Cinema Paris
-  - Doris Dörrie
-  - Drei Schwester
-  - Elvis
-  - Frau Winkler verlässt das Haus
-  - Freddie Mercury
-  - Handgelenk
+  - Ang Lee
+  - Apotheke
+  - Boxen
+  - Corona
+  - Day Trading
+  - Doppeldecker
+  - E-Books
+  - Emma Thompson
+  - Feurig Apotheke
+  - Georgia Oakley
+  - Grippeimpfung
+  - Hacker
   - Heizung
-  - Herbst
-  - IMAX
-  - John Deacon
-  - Kreuzberg
-  - Ku'damm
-  - Kytta
-  - Lastenrad
-  - Laura Tonke
-  - Linie 1
-  - Mathod Acting
-  - Mercedes-Benz-Platz
-  - Mirabellenwasser
-  - Musikfilm
-  - Prinzregentenstraße
-  - Queen
-  - Radfahren
-  - Regen
-  - Roboter
-  - Sturz
+  - IAM
+  - Impfung
+  - Jane Austen
+  - Kantstraße
+  - Laubbläser
+  - Midterms
+  - Mississippi
+  - New Hollywood
+  - Notebooksbilliger
+  - Odeon
+  - Philadelphia
+  - Ritter Sport
+  - Rocky
+  - Sense and Sensibility
+  - Staatsbesuch
+  - Sylvester Stallone
   - Südkreuz Offices
-  - The Miracle
-  - Theaterfilm
-  - Tschechow
-  - Tutti Frutti
-  - U3
-  - Uhlandessen
-  - Uhlandstraße
-  - Via Jekeli
-  - Warschauer Straße
-  - Yorck App
+  - Talia Shire
+  - Texas
+  - Trump
+  - USA
+  - WIkipedia
   - Yorck Unlimited
-  - Zagros
+  - nytimes
   last_post_language: ""
-  last_post_guid: 70d726710a561b021aded29aba3268e2
+  last_post_guid: 4841236ddc797c4bcac4ae3f679168a3
   score_criteria:
     cats: 0
     description: 3

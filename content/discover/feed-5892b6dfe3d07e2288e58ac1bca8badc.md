@@ -46,13 +46,13 @@ params:
   relme:
     https://gutenbergtimes.com/: true
     https://twit.social/@gutenbergtimes: true
-  last_post_title: Gutenberg 24.0, the road to 7.2, a new default theme named Ipsum,
-    and more—Weekend Edition 377
-  last_post_description: 'Howdy, Before anything else: if you maintain WordPress sites,
-    go update them. WordPress 7.1.2 shipped on September 22 to patch a single critical
-    vulnerability in page template resolution, one that'
-  last_post_date: "2026-09-26T16:45:09Z"
-  last_post_link: https://gutenbergtimes.com/gutenberg-24-0-the-road-to-7-2-a-new-default-theme-named-ipsum-and-more-weekend-edition-377/
+  last_post_title: A critical PHP fix, WordPress 7.2 Beta 1, Notes in the margin,
+    and more—Weekend Edition 378
+  last_post_description: 'Howdy, Before anything else: check which version of PHP
+    your sites run. On October 21, the PHP project released fixes for two critical
+    vulnerabilities, and they affect any server running a PHP'
+  last_post_date: "2026-10-24T16:18:33Z"
+  last_post_link: https://gutenbergtimes.com/a-critical-php-fix-wordpress-7-2-beta-1-notes-in-the-margin-and-more-weekend-edition-378/
   last_post_categories:
   - Artificial Intelligence (AI)
   - Block Plugins
@@ -63,7 +63,7 @@ params:
   - Updates
   - Weekend Edition
   last_post_language: ""
-  last_post_guid: 14ad44b52d0f44c936879ee25051fa11
+  last_post_guid: 275c2d9137354bd00df1af01ebcea138
   score_criteria:
     cats: 0
     description: 3

@@ -23,7 +23,7 @@ params:
   last_post_description: |-
     Made a slight tweak to my blog’s theme today, to “celebrate” the start of summer.
     I wanted a colour scheme that felt suitable for the season, which usually means hot, dry conditions. I went
-  last_post_date: "2024-12-01T09:12:07+10:00"
+  last_post_date: "2024-12-01T10:12:07+11:00"
   last_post_link: https://lmika.org/2024/12/01/a-summer-theme.html
   last_post_categories: []
   last_post_language: ""

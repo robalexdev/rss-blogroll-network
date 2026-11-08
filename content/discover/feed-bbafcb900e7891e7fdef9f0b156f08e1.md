@@ -1,6 +1,6 @@
 ---
 title: keepitwiel
-date: "2025-12-03T09:24:32Z"
+date: "2026-10-24T19:59:10Z"
 description: Copyright (c) keepitwiel. All rights reserved.
 params:
   feedlink: https://keepitwiel.github.io/feed.xml
@@ -17,14 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ROMVLVS - What’s new in 2023
-  last_post_description: Since the last update 8 months ago I’ve restarted the project
-    from scratch.
-  last_post_date: "2023-11-20T00:00:00Z"
-  last_post_link: https://keepitwiel.github.io/2023/11/20/another-update.html
+  last_post_title: Local Inference On A Raspberry Pi
+  last_post_description: 'TL;DR: not worth it, but fun!'
+  last_post_date: "2026-10-24T00:00:00Z"
+  last_post_link: https://keepitwiel.github.io/2026/10/24/local-inference-on-a-raspberry-pi.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3494f71b2db5116eb8e4d5208ca1f669
+  last_post_guid: 10bea640284f632c785cbd33558a2a8a
   score_criteria:
     cats: 0
     description: 3

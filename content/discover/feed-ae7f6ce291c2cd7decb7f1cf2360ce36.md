@@ -1,8 +1,8 @@
 ---
 title: Mohit
 date: "1970-01-01T00:00:00Z"
-description: Mohit's short notes on building with AI, shipping products, software
-  experiments, and everyday observations.
+description: Mohit's posts and daily project updates on building with AI, shipping
+  products, software experiments, and everyday observations.
 params:
   feedlink: https://www.mohit.dev/rss.xml
   feedtype: rss
@@ -18,14 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Tell me you AI without saying you AI
-  last_post_description: A home screen pared down to a Codex quota widget, ChatGPT,
-    Grok Bot, and Grok says it all.
-  last_post_date: "2026-10-21T18:31:00Z"
-  last_post_link: https://www.mohit.dev/posts/2026-10-22-tell-me-you-ai-without-saying-you-ai/
+  last_post_title: 'Loomlytics: CSV analytics exports'
+  last_post_description: Added per-site analytics exports for a selected date range
+    or all time, packaged as CSV files in a ZIP download.Added background preparation,
+    retry controls and downloads that expire after 24 hours
+  last_post_date: "2026-11-06T15:57:03Z"
+  last_post_link: https://www.mohit.dev/projects/loomlytics/#log-2026-11-03
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 64e16339d01295b029e513c8781fee55
+  last_post_guid: e96da3e76f7cd793ea1c04d4f796f434
   score_criteria:
     cats: 0
     description: 3

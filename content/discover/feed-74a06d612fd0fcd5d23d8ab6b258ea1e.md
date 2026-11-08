@@ -16,13 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: how to hack discord, vercel and more with one easy trick
-  last_post_description: or, an impromptu security audit on the fortune 500
-  last_post_date: "2025-12-18T00:00:00Z"
-  last_post_link: https://eva.ac/blog/mintlify/
+  last_post_title: so i guess everyone uses llms to think now
+  last_post_description: my thoughts on the current state of llms in development and
+    security
+  last_post_date: "2026-11-01T00:00:00Z"
+  last_post_link: https://eva.ac/blog/llms/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5e273dfe2594d9b5ac28369006a7d2bd
+  last_post_guid: e26bc5e449a207ab82b9612edd85d762
   score_criteria:
     cats: 0
     description: 3

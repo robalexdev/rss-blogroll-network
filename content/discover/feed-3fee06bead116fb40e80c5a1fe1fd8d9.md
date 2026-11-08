@@ -21,14 +21,14 @@ params:
   categories:
   - 投资
   relme: {}
-  last_post_title: 民营银行限制异地存款
-  last_post_description: 民营银行现在限制异地存款了，需要满足“五中三”的规定，也就是： 身份证地址、常住地、主要业务经营地、手机号码归属地、设备定位信息
-  last_post_date: "2026-10-23T11:42:35Z"
-  last_post_link: https://retire50blog.wang/invest/%e6%b0%91%e8%90%a5%e9%93%b6%e8%a1%8c%e9%99%90%e5%88%b6%e5%bc%82%e5%9c%b0%e5%ad%98%e6%ac%be.html
+  last_post_title: 工银亚洲信用卡
+  last_post_description: 又办了张工亚的信用卡，记录一下。 1卡种
+  last_post_date: "2026-10-28T01:53:20Z"
+  last_post_link: https://retire50blog.wang/invest/%e5%b7%a5%e9%93%b6%e4%ba%9a%e6%b4%b2%e4%bf%a1%e7%94%a8%e5%8d%a1.html
   last_post_categories:
   - 投资
   last_post_language: ""
-  last_post_guid: fdbe805f576523fc3b2f1d99a017430a
+  last_post_guid: d4aa9a2631b3a7ad747ed3c994f7e712
   score_criteria:
     cats: 0
     description: 0

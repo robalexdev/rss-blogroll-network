@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,15 +29,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Working Holiday in Australia: My Experience and Practical Tips'
-  last_post_description: My experience and practical tips from doing a Working Holiday
-    in Australia. Sharing my experience of life in Australia and what to prepare for
-    a Working Holiday.
-  last_post_date: "2026-09-23T12:18:23Z"
-  last_post_link: https://bryanhogan.com/blog/australia-working-holiday
+  last_post_title: What I have been working on and why
+  last_post_description: What I have been working on and why. Projects I'm currently
+    building.
+  last_post_date: "2026-10-26T10:30:16Z"
+  last_post_link: https://bryanhogan.com/blog/what-am-i-working-on-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f48295c3caec4431976e0a2ff0489d89
+  last_post_guid: 9ae47e6e183fb1c6434421113d57f1a3
   score_criteria:
     cats: 0
     description: 3

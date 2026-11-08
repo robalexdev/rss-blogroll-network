@@ -1,6 +1,6 @@
 ---
 title: 杰哥的{教学，运维，编程，调板子}小笔记
-date: "2026-10-11T13:36:52Z"
+date: "2026-11-05T03:28:36Z"
 description: 杰哥的{教学，运维，编程，调板子}小笔记
 params:
   feedlink: https://jia.je/feed.xml
@@ -18,23 +18,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - hardware
-  - power
-  - server
+  - forwarding
+  - linux
+  - rdp
+  - software
+  - x11
+  - xrdp
   relme: {}
-  last_post_title: 替换自制服务器上的 48V 直流电源
+  last_post_title: 用 XRDP + X11 转发实现带音频的图形界面转发
   last_post_description: |-
-    替换自制服务器上的 48V 直流电源
     背景
-    又到了新学期，计算机组成原理的实验又轰轰烈烈地开始了，但实验平台背后的 FPGA
-  last_post_date: "2026-10-09T00:00:00Z"
-  last_post_link: https://jia.je/hardware/2026/10/09/replace-48v-power/
+    最近遇到一个需求，在机器 A 上跑一个图形界面程序，但因为是远程访问，所以传统的办法就是开个 X11 Forwarding，或者跑个 VNC/RDP
+  last_post_date: "2026-11-03T00:00:00Z"
+  last_post_link: https://jia.je/software/2026/11/03/xrdp-x11-forwarding/
   last_post_categories:
-  - hardware
-  - power
-  - server
+  - forwarding
+  - linux
+  - rdp
+  - software
+  - x11
+  - xrdp
   last_post_language: ""
-  last_post_guid: 8360884ac6fc9e51f763a4e3035d0a21
+  last_post_guid: 09d8e9a188ff04862454d6001106396a
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Alliot's blog
-date: "2026-09-17T16:00:00Z"
+date: "2026-09-27T08:44:38Z"
 description: Maker & Developer
 params:
   feedlink: https://blog.alliot.tech/atom.xml
@@ -16,22 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Android
+  - Linux
   - 折腾
   - 硬件
   relme:
     https://blog.alliot.tech/: true
-  last_post_title: OSMO Action5Pro 解锁BL并开启adbd
-  last_post_description: 不久前，某安上有大佬发现 Action 5 Pro 居然能通过 9008 打开 Bootloader，更意外的是它的
-    SoC 是骁龙 8 Gen 2（SM8550/QCS8550）, 一台运动相机塞了颗旗舰
-  last_post_date: "2026-09-17T16:00:00Z"
-  last_post_link: https://blog.alliot.tech/post/osmo-action5pro-unlock-bootloader-adbd
+  last_post_title: 给Action 5 Pro做了一个管理后台
+  last_post_description: 上篇给 Action 5 Pro 解锁 BL 并开启 adbd之后，相机已经有了开机自启的 root ADB。既然里面是一套能跑自己程序的
+    Linux，总不能拿到 root
+  last_post_date: "2026-09-27T08:44:38Z"
+  last_post_link: https://blog.alliot.tech/post/action5pro-action-control
   last_post_categories:
-  - Android
+  - Linux
   - 折腾
   - 硬件
   last_post_language: ""
-  last_post_guid: 1b0b600db42ddfef0fafb27f01f0664a
+  last_post_guid: f6266d4bd03986d0c12a5c0b6d935217
   score_criteria:
     cats: 0
     description: 3

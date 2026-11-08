@@ -20,60 +20,56 @@ params:
   recommender:
   - https://einfach-kochen-und-mehr.de/feed/
   categories:
-  - Asia
   - Aus aller Welt
-  - Chili
-  - China
-  - Frucht
-  - Fruechte
-  - Garnelen/Crevetten
-  - Gemüse
-  - Glutenfrei
-  - Grillen
-  - Hauptspeise
-  - Hauptspeisen
-  - Knoblauch
-  - Kraeuter
-  - Kräuter
-  - Lactosefrei
+  - Dessert
+  - Desserts
+  - Easy
+  - Eier
+  - Europa
+  - Gebaeck
+  - Geschenk
+  - Geschenke aus der Küche
+  - Italien
   - Mahlzeiten
-  - Marinade
-  - Meeresfruechte
-  - Meeresfrüchte
-  - Spezielles
-  - Zitrone
+  - Mandel
+  - Mandeln
+  - Nuss
+  - Nüsse
+  - Plaetzchen
+  - Plätzchen
+  - Snack
+  - Süsses
+  - Vanille
   relme: {}
-  last_post_title: Tiger Prawns vom Grill
-  last_post_description: |-
-    Tiger Prawns vom Grill Pane-Bistecca Diese Tiger Prawns vom Grill sind sehr einfach zu machen und haben durch die Marinade eine scharfen...
-    The post Tiger Prawns vom Grill appeared first on Pane
-  last_post_date: "2026-10-10T02:39:56Z"
-  last_post_link: https://pane-bistecca.com/2026/10/10/tiger-prawns-vom-grill/
+  last_post_title: Cantuccini
+  last_post_description: Cantuccini Pane-Bistecca Cantuccini gehören zu den klassischen
+    italienischen Biscotti. Biscotti bedeutet zweimal gebacken. Genaugenommen heissen
+    Cantuccini eigentlich Biscotti di Prato, denn das..
+  last_post_date: "2026-11-06T01:28:25Z"
+  last_post_link: https://pane-bistecca.com/2026/11/06/cantuccini/
   last_post_categories:
-  - Asia
   - Aus aller Welt
-  - Chili
-  - China
-  - Frucht
-  - Fruechte
-  - Garnelen/Crevetten
-  - Gemüse
-  - Glutenfrei
-  - Grillen
-  - Hauptspeise
-  - Hauptspeisen
-  - Knoblauch
-  - Kraeuter
-  - Kräuter
-  - Lactosefrei
+  - Dessert
+  - Desserts
+  - Easy
+  - Eier
+  - Europa
+  - Gebaeck
+  - Geschenk
+  - Geschenke aus der Küche
+  - Italien
   - Mahlzeiten
-  - Marinade
-  - Meeresfruechte
-  - Meeresfrüchte
-  - Spezielles
-  - Zitrone
+  - Mandel
+  - Mandeln
+  - Nuss
+  - Nüsse
+  - Plaetzchen
+  - Plätzchen
+  - Snack
+  - Süsses
+  - Vanille
   last_post_language: ""
-  last_post_guid: b8b7a6b2bb8a98dadc84aab02c39dc67
+  last_post_guid: 81d9ad1ea6e7c35cc36745aac7207583
   score_criteria:
     cats: 0
     description: 3

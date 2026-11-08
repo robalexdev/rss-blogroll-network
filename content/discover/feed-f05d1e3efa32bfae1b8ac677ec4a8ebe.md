@@ -21,15 +21,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'One Report for Every Subsidiary: State of the Subsidiary in NetSuite'
-  last_post_description: State of the Subsidiary produces one comparative report across
-    every operating entity in a OneWorld account, with every figure re-measured centrally.
-    On my test account, one researcher subagent
-  last_post_date: "2026-10-11T00:00:00Z"
-  last_post_link: https://timdietrich.me/blog/netsuite-sonar-ai-state-of-the-subsidiary/
+  last_post_title: 'No Margin Verdict Until the Controller Decides: The Financial
+    Benchmark Analysis and Tracking Series'
+  last_post_description: The Financial Benchmark Analysis and Tracking Series compares
+    a NetSuite account's ratios against peer composites and keeps a history file so
+    later editions benchmark against a settled basis. On my
+  last_post_date: "2026-11-03T00:00:00-05:00"
+  last_post_link: https://timdietrich.me/blog/netsuite-sonar-ai-financial-benchmark-analysis-tracking-series/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 316bdbb4eeaa557b5028b960800864a0
+  last_post_guid: 2f8acf2235166118abcebf48fd4eba3c
   score_criteria:
     cats: 0
     description: 3

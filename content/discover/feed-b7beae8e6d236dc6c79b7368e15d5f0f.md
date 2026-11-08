@@ -17,37 +17,37 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - ASCII Art
-  - Coding
   - Design
-  - Netzkultur
+  - Internet
+  - Katamari
+  - Nerd Stuff
   - "Nice \U0001F497"
+  - Pop-Kultur
   - alle Inhalte
-  - retro
   relme: {}
-  last_post_title: Animated ASCII-Art for Webpages
-  last_post_description: Ein schöner Satz mit animierten ASCII-Art Landcapes, Pictogrammen,
-    Company Logo’s und anderen einfachen Animationen die sich mühelos in eure Website
-    einbinden lassen oder die man einfach so
-  last_post_date: "2026-10-11T17:46:44Z"
-  last_post_link: https://www.zwentner.com/animated-ascii-art-for-webpages/
+  last_post_title: Katamari Met
+  last_post_description: Einfach das Inventar der Met-Galerie Katamari-Style aufrollen.
+    Inkorporiert stilsicher über 1200 Exponate und stellt keine Fragen. 6. November
+    2026 sind wir cool damit? Roll up the Metropolitan
+  last_post_date: "2026-11-06T19:30:54Z"
+  last_post_link: https://www.zwentner.com/katamari-met/
   last_post_categories:
-  - ASCII Art
-  - Coding
   - Design
-  - Netzkultur
+  - Internet
+  - Katamari
+  - Nerd Stuff
   - "Nice \U0001F497"
+  - Pop-Kultur
   - alle Inhalte
-  - retro
   last_post_language: ""
-  last_post_guid: b61654b2cfca15242e3d99a02b99c852
+  last_post_guid: d71f486402e3829366388ff422f04db8
   score_criteria:
     cats: 0
     description: 3

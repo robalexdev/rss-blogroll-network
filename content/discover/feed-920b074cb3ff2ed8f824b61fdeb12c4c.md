@@ -16,35 +16,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI Agent跨应用
-  - Apple的故事
-  - 为什么不换手机
-  - 微信
-  - 手机卖不动
-  - 手机厂商被超级APP架空
-  - 手机换机
-  - 新手机没有卖点
-  - 超级APP兼容旧手机
+  - 72小时风险记录查询
+  - 安卓反诈组件
+  - 小米
+  - 小米反诈
+  - 小米手机隐私争议
+  - 小米涉诈风险检测接口
+  - 手机反诈监控
+  - 澎湃OS安全组件
+  - 雷军、小米
   relme: {}
-  last_post_title: 手机卖不动了：超级APP困住换机理由
+  last_post_title: 小米手机是电子锦衣卫吗？从卸载传闻到反诈接口
   last_post_description: |-
-    手机卖不动了：超级APP困住换机理由
+    小米手机是电子锦衣卫吗？从卸载传闻到反诈接口
 
-    手机卖不动了，真是存储涨价、消费降级造成的吗？老范认为这些只是表象：新手机缺少让人愿意换机的功能，超
-  last_post_date: "2026-10-23T00:30:00Z"
-  last_post_link: https://lukefan.com/2026/10/23/smartphone-sales-super-apps-upgrade-cycle/
+    有人发帖说，朋友的朋友接到警方电话，被要求卸载X和Telegram。小米手机真成了电子锦衣卫，还是被
+  last_post_date: "2026-11-06T00:30:00Z"
+  last_post_link: https://lukefan.com/2026/11/06/xiaomi-anti-fraud-monitoring-privacy/
   last_post_categories:
-  - AI Agent跨应用
-  - Apple的故事
-  - 为什么不换手机
-  - 微信
-  - 手机卖不动
-  - 手机厂商被超级APP架空
-  - 手机换机
-  - 新手机没有卖点
-  - 超级APP兼容旧手机
+  - 72小时风险记录查询
+  - 安卓反诈组件
+  - 小米
+  - 小米反诈
+  - 小米手机隐私争议
+  - 小米涉诈风险检测接口
+  - 手机反诈监控
+  - 澎湃OS安全组件
+  - 雷军、小米
   last_post_language: ""
-  last_post_guid: 16bff31ee4a00c7822846abde586f76c
+  last_post_guid: 4daf52a19824cbe8376d57bc31572306
   score_criteria:
     cats: 0
     description: 3

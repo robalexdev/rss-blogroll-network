@@ -8,6 +8,7 @@ params:
   feedid: ac1eeccbf6f82e3fb7fe509c7ed4c505
   websites:
     https://www.ableton.com/de/blog/: true
+    https://www.henning-uhle.eu/lest-mehr-blogs: false
   blogrolls: []
   in_blogrolls:
   - title: Lest mehr Blogs von Henning Uhle
@@ -16,19 +17,21 @@ params:
   recommended: []
   recommender:
   - https://www.henning-uhle.eu/feed
+  - https://www.henning-uhle.eu/lest-mehr-blogs/feed
   categories:
-  - Tutorials
-  - Videos
+  - Downloads
+  - Künstler:innen
   relme: {}
-  last_post_title: Watch MadD3E Carve Chaos into Funk with Move
+  last_post_title: Download the Live Set of Hiroko Yamamura’s New Track “Weight of
+    It”
   last_post_description: ""
-  last_post_date: "2026-10-01T10:12:19Z"
-  last_post_link: https://www.ableton.com/de/blog/watch-madd3e-carve-chaos-into-funk-with-move/
+  last_post_date: "2026-10-29T10:18:10Z"
+  last_post_link: https://www.ableton.com/de/blog/download-the-live-set-of-hiroko-yamamuras-new-track/
   last_post_categories:
-  - Tutorials
-  - Videos
+  - Downloads
+  - Künstler:innen
   last_post_language: ""
-  last_post_guid: 346c1b06499819008bbfb832cd3ebe8d
+  last_post_guid: 422b0506f18866dab72401440202ca5c
   score_criteria:
     cats: 0
     description: 3

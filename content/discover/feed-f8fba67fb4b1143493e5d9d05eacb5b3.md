@@ -1,6 +1,6 @@
 ---
 title: mein Land und Gartengenuss
-date: "2026-10-12T00:42:14+02:00"
+date: "2026-11-06T10:34:04+01:00"
 description: wo die Liebe den Tisch deckt, schmeckt das Essen am besten
 params:
   feedlink: https://meinlandgenuss.blogspot.com/feeds/posts/default
@@ -210,20 +210,18 @@ params:
   relme:
     https://meinlandgenuss.blogspot.com/: true
     https://www.blogger.com/profile/12177281177487252295: true
-  last_post_title: schnelles Butter-Toast-Brot
-  last_post_description: Butter-Toast-Brot hausgemacht.Die Lust zum Brot backen ist
-    endlich zurückgekehrt. Darum gibt es auch auf meinem Blog in Zukunft wieder neue
-    Brot-Rezepte. Heute habe ich für Euch ein schnelles
-  last_post_date: "2026-10-10T06:00:00+02:00"
-  last_post_link: https://meinlandgenuss.blogspot.com/2026/10/schnelles-butter-toast-brot.html
+  last_post_title: Panzerotti
+  last_post_description: So schnell sind Panzerotti gemacht,in einer Stunde hast du
+    sie schon genussbereit auf dem Teller. Jetzt gilt es nur noch den Kaffee aufzubrühen
+    und die Gäste an den Tisch zu bitten. Dann kann die
+  last_post_date: "2026-11-05T06:00:00+01:00"
+  last_post_link: https://meinlandgenuss.blogspot.com/2026/10/panzerotti.html
   last_post_categories:
-  - Brot
-  - Klassiker
-  - Toast
-  - hausgemacht
-  - zum Frühstück
+  - Italien's Küche
+  - Nutella
+  - Schmalzgebäck
   last_post_language: ""
-  last_post_guid: b56a5e59fb00dc96bcf7de4149cfe882
+  last_post_guid: c554d96962f46cef296b870f9cb42130
   score_criteria:
     cats: 5
     description: 3

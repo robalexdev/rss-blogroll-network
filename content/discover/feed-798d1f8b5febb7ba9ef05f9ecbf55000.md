@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,37 +25,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Customer Service
   - Life
-  - Review
   relme:
     https://artiss.blog/: true
-  last_post_title: Manhattan TV – good Freeview players but terrible customer service
-    when they go wrong
-  last_post_description: Last year I finally ditched my Humax Freeview Recorder for
-    a shiny new Manhattan T4-R – the latest iteration of their own recorder, and I’d
-    heard good thinks about their past devices. However,
-  last_post_date: "2026-10-16T08:34:31Z"
-  last_post_link: https://artiss.blog/2026/10/manhattan-tv-good-freeview-players-but-terrible-customer-service-when-they-go-wrong/
+  last_post_title: My second proudest development moment… and why I regretted it
+  last_post_description: A couple of years ago I wrote about “my proudest development
+    moment“, where I triumphed over a bullying manager. Well, many years later, but
+    at the same company, my second best development moment
+  last_post_date: "2026-11-01T14:06:10Z"
+  last_post_link: https://artiss.blog/2026/11/my-second-proudest-development-moment-and-why-i-regretted-it/
   last_post_categories:
-  - Customer Service
   - Life
-  - Review
   last_post_language: ""
-  last_post_guid: c434099258f08a2b4ed7ea4fb0585414
+  last_post_guid: d9e485cff383928f975ad5939bdb0dca
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

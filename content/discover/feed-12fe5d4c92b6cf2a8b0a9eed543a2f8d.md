@@ -1,6 +1,6 @@
 ---
 title: Philipp Zentner
-date: "2025-06-16T23:51:59+02:00"
+date: "2025-06-17T05:51:59+08:00"
 description: ""
 params:
   feedlink: https://philippzentner.com/feed.xml
@@ -27,7 +27,7 @@ params:
   last_post_description: The best player wins. You canâ€™t sacrifice anything, but
     you do have to make trade-offs everywhere. This article aims to be a reminder
     of how important it is to do just one thing and try to be
-  last_post_date: "2025-06-16T13:25:33+02:00"
+  last_post_date: "2025-06-16T19:25:33+08:00"
   last_post_link: https://philippzentner.com/dont-build-that-new-product.html
   last_post_categories: []
   last_post_language: ""

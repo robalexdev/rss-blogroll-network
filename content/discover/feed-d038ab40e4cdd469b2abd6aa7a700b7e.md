@@ -25,13 +25,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Will AI Crowd Out Jobs?
-  last_post_description: A different and alarming take on the economic risks
-  last_post_date: "2026-10-11T10:31:20Z"
-  last_post_link: https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs
+  last_post_title: America’s Backlash Against Oligarchy
+  last_post_description: Why the megabillionaires lost big Tuesday
+  last_post_date: "2026-11-06T11:36:09Z"
+  last_post_link: https://paulkrugman.substack.com/p/americas-backlash-against-oligarchy
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a259731d793a784a5531b801f42ac040
+  last_post_guid: 75e0fa0129b49259594f1f30e5339108
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Ratfactor Feed
-date: "2026-10-21T00:00:00Z"
+date: "2026-10-31T00:00:00Z"
 description: Dave Gauer's personal website. Mostly technical articles.
 params:
   feedlink: https://ratfactor.com/atom.xml
@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,16 +34,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A stack to calm the mind and stay on track
-  last_post_description: |-
-    After a year, I decided it was time to do a proper write-up of
-                my "stack system" so I had something I could point at. This update
-                also introduces an entire new section of my
-  last_post_date: "2026-10-21T00:00:00Z"
-  last_post_link: http://ratfactor.com/stack/
+  last_post_title: Inktober 2026
+  last_post_description: Just finished Inktober 2026. Thought I should post it to
+    my website. (I'm not sure why I don't post more art to my website?) Happy with
+    a fair number of the drawings this month, especially the ones
+  last_post_date: "2026-10-31T00:00:00Z"
+  last_post_link: http://ratfactor.com/inktober26/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1671960061487370322bf9d22028e1e0
+  last_post_guid: 0a03fd3be83eb82961e93db6cee6f395
   score_criteria:
     cats: 0
     description: 3

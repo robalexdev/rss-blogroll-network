@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Karma browser extension: checkers in Chrome'
-  last_post_description: Run the same free domain checkers from the Chrome popup.
-    10 domains a day, then account credits.
-  last_post_date: "2026-10-20T10:00:00Z"
-  last_post_link: https://karma.domains/en/updates/#karma-browser-extension
+  last_post_title: New sources — domain.id Premium, Internet.ee, and EUReg
+  last_post_description: domain.id Premium (PANDI), Internet.ee registry auctions,
+    and EUReg .ro buy-now listings are now available in Karma.Domains
+  last_post_date: "2026-11-03T10:00:00Z"
+  last_post_link: https://karma.domains/en/updates/new-sources-03-nov-26/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 594f8101687985c804744857a26f7812
+  last_post_guid: 15f6edf12556f1a1bae3b93218d1da3b
   score_criteria:
     cats: 0
     description: 3

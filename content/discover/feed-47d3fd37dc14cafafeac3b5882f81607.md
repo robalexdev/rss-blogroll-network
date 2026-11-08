@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Plagiarism in the age of AI
-  last_post_description: "My first ever “blog post” (though not in this blog) was
-    about how to write a research paper. \nI wrote it after reviewing a batch of badly-written
-    papers for a conference, probably ITP or CADE."
-  last_post_date: "2026-10-17T00:00:00Z"
-  last_post_link: https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html
+  last_post_title: 'Tim Smiley: an anecdote'
+  last_post_description: "Tim Smiley, an Fellow of my Cambridge college (Clare), died
+    about two weeks ago. \nHe had a long and distinguished career, \nholding major
+    College offices such as Senior Tutor,\nwhile garnering academic"
+  last_post_date: "2026-10-30T00:00:00Z"
+  last_post_link: https://lawrencecpaulson.github.io//2026/10/30/Tim_Smiley.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9715973f1722a7e3d23e782f92ed1839
+  last_post_guid: e8c3e16636850d9ed453d2a5b3d1ada4
   score_criteria:
     cats: 0
     description: 3

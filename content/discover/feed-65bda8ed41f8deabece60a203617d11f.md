@@ -16,22 +16,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Kochrezepte
-  - Vegane Rezepte
+  - Backrezepte
+  - Weihnachtsplätzchen Rezepte
   - Weihnachtsrezepte
   relme: {}
-  last_post_title: Vegane Bratensoße – kräftig und würzig
+  last_post_title: Traumstücke Plätzchen nach Omas Rezept
   last_post_description: |-
-    Einfaches Rezept für vegane Bratensoße. ... Weiterlesen ...
-    Der Beitrag Vegane Bratensoße – kräftig und würzig erschien zuerst auf Heisse Himbeeren.
-  last_post_date: "2026-10-08T16:50:25Z"
-  last_post_link: https://heissehimbeeren.com/vegane-bratensosse-kraeftig-und-wuerzig/
+    Omas Traumstücke zergehen im Mund ... Weiterlesen ...
+    Der Beitrag Traumstücke Plätzchen nach Omas Rezept erschien zuerst auf Heisse Himbeeren.
+  last_post_date: "2026-11-06T16:02:41Z"
+  last_post_link: https://heissehimbeeren.com/traumstuecke-plaetzchen-nach-omas-rezept/
   last_post_categories:
-  - Kochrezepte
-  - Vegane Rezepte
+  - Backrezepte
+  - Weihnachtsplätzchen Rezepte
   - Weihnachtsrezepte
   last_post_language: ""
-  last_post_guid: 3d65f3e7942fa13669f439f33fc3330b
+  last_post_guid: 9a7c15ce91aa0e0add00843d8d0f97c5
   score_criteria:
     cats: 0
     description: 0

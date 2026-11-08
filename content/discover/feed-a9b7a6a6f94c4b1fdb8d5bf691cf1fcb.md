@@ -1,6 +1,6 @@
 ---
 title: EatSmarter - Themen des Tages
-date: "2026-08-20T08:11:00+02:00"
+date: "2026-10-14T09:52:00+02:00"
 description: Deutschland isst gesünder!
 params:
   feedlink: https://eatsmarter.de/themen-des-tages/feed

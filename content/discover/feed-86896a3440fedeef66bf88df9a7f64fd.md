@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Dan Q's Blogroll
@@ -31,15 +31,15 @@ params:
   relme:
     https://evantravers.com/: true
     https://github.com/evantravers: true
-  last_post_title: Using Kanata for Homerow Mods
-  last_post_description: |-
-    I like my homerow mods. I really wanted a way to have that ergonomic advantage in the (admittedly rare) times that I'm at my laptop but don't have one of my external keyboards out1.
-    For years
-  last_post_date: "2026-08-11T00:00:00Z"
-  last_post_link: http://evantravers.com/articles/2026/08/11/using-kanata-for-homerow-mods
+  last_post_title: Remote Devenv via Devenv From
+  last_post_description: After my last post Domen graciously reached out to talk about
+    my use case and to gather my feedback and he very quickly spun out a branch that
+    became out-of-tree devenvs. I have been using devenv -
+  last_post_date: "2026-11-03T00:00:00Z"
+  last_post_link: http://evantravers.com/articles/2026/11/03/remote-devenv-via-devenv-from
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d1050bb99804f8ce2fa5812b394173a
+  last_post_guid: 9f5a3e00103c8097726a70f3c7485dee
   score_criteria:
     cats: 0
     description: 3

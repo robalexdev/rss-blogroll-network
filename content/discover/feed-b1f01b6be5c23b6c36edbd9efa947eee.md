@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -30,15 +30,15 @@ params:
   categories: []
   relme:
     https://molodtsov.me/blog/: true
-  last_post_title: How Obsidian Built a Cult of Note Taking
-  last_post_description: Obsidian is likely the most popular Markdown note-taking
-    app in the world. It’s so unusual and different from the previous companies I
-    covered here that even the CEO doesn’t know how many users
-  last_post_date: "2026-09-17T13:29:28+01:00"
-  last_post_link: https://molodtsov.me/2026/09/how-obsidian-built-a-cult-of-note-taking/
+  last_post_title: Let the Builders Talk
+  last_post_description: 'Power users of either Codex or Claude Code tend to follow
+    a few specific people online: Thibault (Tibo) Sottiaux and, until last week, Thariq
+    Shihipar. Why? Because they work at OpenAI and Anthropic'
+  last_post_date: "2026-10-26T19:33:17Z"
+  last_post_link: https://molodtsov.me/2026/10/let-the-builders-talk/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a3647febb23807bb62e64048c0fae47b
+  last_post_guid: 6cbd07b4e4a8025e71b5137eca2b265d
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: SeanKilleen.com
-date: "2026-10-11T19:52:50Z"
+date: "2026-11-06T21:13:57Z"
 description: Ramblings on bytes and life.
 params:
   feedlink: https://seankilleen.com/feed.xml

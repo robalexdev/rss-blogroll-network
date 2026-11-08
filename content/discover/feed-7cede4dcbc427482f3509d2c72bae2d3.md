@@ -64,13 +64,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Vulnerability
+  last_post_title: House Majority
   last_post_description: ""
-  last_post_date: "2026-10-21T04:00:00Z"
-  last_post_link: https://xkcd.com/3314/
+  last_post_date: "2026-11-04T05:00:00Z"
+  last_post_link: https://xkcd.com/3320/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f81f42bb3b63911694ab5facc962edd
+  last_post_guid: 6e2708cab5dcbce34d31d624d1593515
   score_criteria:
     cats: 0
     description: 3

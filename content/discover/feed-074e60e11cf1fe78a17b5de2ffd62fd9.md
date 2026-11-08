@@ -1,12 +1,13 @@
 ---
 title: Encapsulate.me -- Justin Higgins
-date: "2024-01-15T11:32:00Z"
+date: "2026-06-26T00:00:00Z"
 description: Ideas, systems and fun writings of Justin Higgins
 params:
   feedlink: https://encapsulate.me/rss.xml
   feedtype: rss
   feedid: 074e60e11cf1fe78a17b5de2ffd62fd9
-  websites: {}
+  websites:
+    https://encapsulate.me/: true
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
@@ -22,13 +23,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: '2023: goals year in review'
-  last_post_description: My year's goals in review
-  last_post_date: "2024-01-15T11:32:00Z"
-  last_post_link: https://encapsulate.me/writing/2023
+  last_post_title: '2025: Personal Goals in Review — Justin Higgins'
+  last_post_description: Reflections on finishing a marathon and rethinking a personal
+    business goal.
+  last_post_date: "2026-06-26T00:00:00Z"
+  last_post_link: https://encapsulate.me/writing/2025
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d6815be01e4b396294e3647dd7cb4a8c
+  last_post_guid: a33b70aefd0a6459792bf6e0169e7f05
   score_criteria:
     cats: 0
     description: 3
@@ -40,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

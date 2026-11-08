@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: cedff28e82bee734f2fd6135b6293ed9
   websites:
+    https://www.henning-uhle.eu/lest-mehr-blogs: false
     https://www.musicmongoose.com/blog: true
   blogrolls: []
   in_blogrolls:
@@ -16,17 +17,17 @@ params:
   recommended: []
   recommender:
   - https://www.henning-uhle.eu/feed
+  - https://www.henning-uhle.eu/lest-mehr-blogs/feed
   categories: []
   relme: {}
-  last_post_title: The story of INXS and Michael Hutchence is more upsetting than
-    you thought
-  last_post_description: This story is a bit of a heartbreaker. But it's a story worth
-    telling, about a brilliant man who ultimately passed way too soon.
-  last_post_date: "2026-10-06T17:00:05Z"
-  last_post_link: https://www.musicmongoose.com/post/the-story-of-inxs-and-michael-hutchence-is-more-upsetting-than-you-thought
+  last_post_title: The most shameless scam in music history
+  last_post_description: This band has been called a scam by many critics over the
+    years. But were they actually a good band underneath it all?
+  last_post_date: "2026-11-06T18:00:18Z"
+  last_post_link: https://www.musicmongoose.com/post/the-most-shameless-scam-in-music-history
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b47b28a48eef829f95898b0c24d4430
+  last_post_guid: 84c599b065649941d57d3fbfc97800df
   score_criteria:
     cats: 0
     description: 3

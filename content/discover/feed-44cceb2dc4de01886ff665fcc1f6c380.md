@@ -25,24 +25,24 @@ params:
   - https://kuechenlatein.com/comments/feed/
   - https://kuechenlatein.com/feed/
   categories:
-  - Aus dem Ofen
-  - Hauptgericht
-  - Hongkong
+  - Datteln
+  - Kuchen
+  - Ottolenghi
   - Rezepte
   relme: {}
-  last_post_title: Spaghetti-Bolognese-Auflauf wie in Hongkong (焗肉醬意粉)
-  last_post_description: Es mag erst mal seltsam klingen, aber das ist ein typisches
-    Gericht aus Hongkong; es wird gerne in den dortigen Teehäusern serviert. Wie das
-    Gericht in die Stadt kam, liegt ein wenig im Dunklen;
-  last_post_date: "2026-10-10T05:32:00Z"
-  last_post_link: https://magentratzerl.de/2026/10/10/spaghetti-bolognese-auflauf-wie-in-hongkong-%e7%84%97%e8%82%89%e9%86%ac%e6%84%8f%e7%b2%89/
+  last_post_title: Ma’amoul-Schnitten
+  last_post_description: 'Ma’amoul mag ich sehr gerne: sie ist ein nahöstliches Gebäck,
+    bei dem ein Grießteig mit einer Dattelmasse gefüllt wird; es gibt auch spezielle
+    Model, in der der Teig gedrückt wird, damit die'
+  last_post_date: "2026-11-06T06:30:00Z"
+  last_post_link: https://magentratzerl.de/2026/11/06/maamoul-schnitten/
   last_post_categories:
-  - Aus dem Ofen
-  - Hauptgericht
-  - Hongkong
+  - Datteln
+  - Kuchen
+  - Ottolenghi
   - Rezepte
   last_post_language: ""
-  last_post_guid: a73a319ab63ec63ba3f0d8a6a2381ef7
+  last_post_guid: 05290e2638edb69be4501f1fbb6faeea
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: swaits.com
-date: "2026-10-07T00:00:00Z"
+date: "2026-10-13T00:00:00Z"
 description: Stephen Waits
 params:
   feedlink: https://swaits.com/atom.xml
@@ -24,13 +24,13 @@ params:
   categories: []
   relme:
     https://swaits.com/: true
-  last_post_title: They chose to be evil
+  last_post_title: I hate QuickBooks Online, so I cloned it
   last_post_description: ""
-  last_post_date: "2026-10-07T00:00:00Z"
-  last_post_link: https://swaits.com/they-chose-to-be-evil/
+  last_post_date: "2026-10-13T00:00:00Z"
+  last_post_link: https://swaits.com/announcing-wanderbooks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6f27d57c38cfd51e60278aaddd94a863
+  last_post_guid: e50e7eb1c82a578053f5358328fcfceb
   score_criteria:
     cats: 0
     description: 3

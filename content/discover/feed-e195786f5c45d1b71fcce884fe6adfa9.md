@@ -1,6 +1,6 @@
 ---
 title: Moritz Glantz — Blog
-date: "2026-10-08T00:00:00Z"
+date: "2026-10-27T00:00:00Z"
 description: Website and Blog of Moritz Glantz, UX Engineer and Accessibility Specialist
   from Karlsruhe, Germany.
 params:
@@ -19,7 +19,7 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: Blogrolle von Matthias Pfefferle
+  - title: Blog·rol·le, die von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: Personal sites are awesome!
@@ -27,8 +27,10 @@ params:
     id: 2561079dc6b23262f5202eb5bc528075
   recommended: []
   recommender:
+  - https://notiz.blog/author/matthias-pfefferle/feed/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/feed/
+  - https://notiz.blog/podcasts/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/chat/feed/
@@ -41,13 +43,13 @@ params:
   - https://notiz.blog/type/video/feed/
   categories: []
   relme: {}
-  last_post_title: LinkedIn Now Supports Native Bold Text (Sort Of)
+  last_post_title: 'Karlsruhe-Kompass: Ein Entwurf für eine bessere Stadt-App'
   last_post_description: ""
-  last_post_date: "2026-10-08T00:00:00Z"
-  last_post_link: https://moritzglantz.de/blog/posts/linkedin-bold-text/?source=feedxmllink
+  last_post_date: "2026-10-27T00:00:00Z"
+  last_post_link: https://moritzglantz.de/blog/posts/karlsruhe-kompass/?source=feedxmllink
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 73ecb58d836cfb384e85d8bf2b2ea6ef
+  last_post_guid: edbcdc12be46ab132d6a5884f54bdcc7
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: TLDR Tech Newsletter
-date: "2026-10-11T10:19:36Z"
+date: "2026-11-06T11:56:28Z"
 description: ""
 params:
   feedlink: https://rss-bridge.org/bridge01/?action=display&bridge=TldrTechBridge&format=Atom&limit=10&topic=tech
@@ -16,14 +16,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: "SpaceX mobile \U0001F6F0️, Touchscreen MacBook \U0001F4BB, Claude
-    Code mods \U0001F468‍\U0001F4BB"
+  last_post_title: "Anthropic IPO doubts \U0001F4C9, datacenter bans \U0001F6D1, GitHub&#x27;s
+    new storage \U0001F468‍\U0001F4BB"
   last_post_description: ""
-  last_post_date: "2026-10-08T22:00:00Z"
-  last_post_link: https://tldr.tech/tech/2026-10-09
+  last_post_date: "2026-11-05T23:00:00Z"
+  last_post_link: https://tldr.tech/tech/2026-11-06
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8009b6965676319128c01e2f60c443e3
+  last_post_guid: aa1df0835c8008125403367cfed51ae3
   score_criteria:
     cats: 0
     description: 0

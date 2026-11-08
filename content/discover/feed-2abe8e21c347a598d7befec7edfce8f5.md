@@ -17,34 +17,44 @@ params:
   recommender:
   - https://stephanmax.com/feed.xml
   categories:
-  - AI
-  - Tutorials
+  - Collectors
+  - Music
+  - Physical Media
+  - Records
+  - Round-ups
+  - Vinyl
+  - movies
   relme: {}
-  last_post_title: 'Follow the money: How we used AI skills in Claude to research
-    a campaign finance investigation'
-  last_post_description: 'Every campaign dollar raised in Massachusetts leaves a public
-    record on the Massachusetts Office of Campaign and Political Finance (OPCF)website:
-    who contributed, how much was given, when it was'
-  last_post_date: "2026-10-08T12:04:00Z"
-  last_post_link: https://www.storybench.org/follow-the-money-how-we-used-ai-skills-in-claude-to-research-a-campaign-finance-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=follow-the-money-how-we-used-ai-skills-in-claude-to-research-a-campaign-finance-investigation
+  last_post_title: 'Gone Analog: Why generations raised with streaming are paying
+    to own physical media'
+  last_post_description: Roughly half of Gen Z and millennial CD buyers don’t own
+    a CD player, according to Luminate. And yet they’re buying CDs, along with millions
+    of vinyl collectors, 4K movie fans, and graphic novel
+  last_post_date: "2026-11-05T13:00:00Z"
+  last_post_link: https://www.storybench.org/gone-analog-why-generations-raised-with-streaming-are-paying-to-own-physical-media/?utm_source=rss&utm_medium=rss&utm_campaign=gone-analog-why-generations-raised-with-streaming-are-paying-to-own-physical-media
   last_post_categories:
-  - AI
-  - Tutorials
+  - Collectors
+  - Music
+  - Physical Media
+  - Records
+  - Round-ups
+  - Vinyl
+  - movies
   last_post_language: ""
-  last_post_guid: 6e00c9c65333c919bdb438276e31b0a0
+  last_post_guid: e5edbf276eb8a2168fe08cea5faddad4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

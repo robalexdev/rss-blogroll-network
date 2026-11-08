@@ -18,18 +18,19 @@ params:
     id: b783a837954aa02669ccd91156b7fdd2
   recommended: []
   recommender:
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   categories: []
   relme: {}
-  last_post_title: Urlaubsplanung
-  last_post_description: Meine Frau muss bis Mitte Oktober 85 % des Urlaubs für das
-    kommende Jahr geplant und eingetragen haben, das ist in ihrer Firma so vorgegeben.
-    Genehmigt wird dieser dann, wenn alles passt, bis Mitte
-  last_post_date: "2026-10-11T12:13:00+02:00"
-  last_post_link: https://wzf.wtf/urlaubsplanung
+  last_post_title: Kommentare
+  last_post_description: Als ich dieses Blog von hugo auf Pure Blog umstellte, wollte
+    ich auch gleich das »Kommentarsystem« Pure Comments des gleichen Entwicklers mit
+    einbinden. Aus Gründen habe ich das jedoch erst einmal
+  last_post_date: "2026-11-06T12:37:00+01:00"
+  last_post_link: https://wzf.wtf/kommentare
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c51b0f97dd202e852c9c8b9a5bba2e8a
+  last_post_guid: 1765df28829761e2f89e54f9888f165e
   score_criteria:
     cats: 0
     description: 3

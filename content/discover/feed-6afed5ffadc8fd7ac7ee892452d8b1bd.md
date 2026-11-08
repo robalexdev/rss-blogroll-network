@@ -1,6 +1,6 @@
 ---
 title: AlanHogan.com
-date: "2026-01-29T17:04:10-08:00"
+date: "2026-11-06T15:36:40-08:00"
 description: Alan Hogan's website - Web development, Mac user tips, etc.
 params:
   feedlink: https://feeds.feedburner.com/alanhogan

@@ -19,21 +19,21 @@ params:
   - https://bielinski.de/feed/
   categories:
   - -ALLGEMEIN-
-  - AK JUNGES FORUM
-  - THEMA WOHNEN, GRUND & BODEN
+  - THEMA BÜRGERBETEILIGUNG
+  - VERÖFFENTLICHUNGEN-Pressemitteilungen
   relme: {}
-  last_post_title: Leerstand, wo Leben sein könnte
-  last_post_description: '| Florina Vilgertshofer | Wunderkerzen, ein alter verwelkter
-    Blumenstrauß, geblümtes Geschirr und natürlich eine doppelstöckige bunte Torte,
-    gekrönt mit einem Marzipangebäude. Festlich'
-  last_post_date: "2026-08-05T12:00:00Z"
-  last_post_link: https://muenchner-forum.de/leerstand-wo-leben-sein-koennte/
+  last_post_title: Stadtarchiv übernimmt die Unterlagen des Münchner Forums
+  last_post_description: 12.10.2026, Pressemitteilung des Münchner Forums zur Übergabe
+    historischer Unterlagen ans Stadtarchiv. München ist eine Stadt im stetigen Wandel.
+    Spätestens mit der Zusage zu den Olympischen
+  last_post_date: "2026-10-13T08:31:36Z"
+  last_post_link: https://muenchner-forum.de/stadtarchiv-uebernimmt-die-unterlagen-des-muenchner-forums/
   last_post_categories:
   - -ALLGEMEIN-
-  - AK JUNGES FORUM
-  - THEMA WOHNEN, GRUND & BODEN
+  - THEMA BÜRGERBETEILIGUNG
+  - VERÖFFENTLICHUNGEN-Pressemitteilungen
   last_post_language: ""
-  last_post_guid: 765aa1d1d825d18cee216bcb74efbd93
+  last_post_guid: e4f2f52af3145f1a2c2509cde1ecc2df
   score_criteria:
     cats: 0
     description: 0

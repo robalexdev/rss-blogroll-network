@@ -1,6 +1,6 @@
 ---
 title: Frische Brise
-date: "2026-10-12T00:40:23+02:00"
+date: "2026-11-04T08:05:20+01:00"
 description: ""
 params:
   feedlink: https://frische-brise.blogspot.com/feeds/posts/default
@@ -174,23 +174,21 @@ params:
   - über mich
   relme:
     https://berlinerluftinhamburg.blogspot.com/: true
+    https://draft.blogger.com/profile/03521545301767760043: true
     https://frische-brise.blogspot.com/: true
     https://gruenebrise.blogspot.com/: true
     https://quadratzahl.blogspot.com/: true
     https://www.blogger.com/profile/03521545301767760043: true
-  last_post_title: Der September...
+  last_post_title: Im Oktober...
   last_post_description: ""
-  last_post_date: "2026-10-01T17:32:26+02:00"
-  last_post_link: https://frische-brise.blogspot.com/2026/09/der-september.html
+  last_post_date: "2026-10-30T12:36:12+01:00"
+  last_post_link: https://frische-brise.blogspot.com/2026/10/im-oktober.html
   last_post_categories:
-  - Arbeitsleben
-  - Berlin
+  - Film
   - Herbst
-  - Kühlungsborn
-  - Mutzelchen
   - Wismar
   last_post_language: ""
-  last_post_guid: a298fcd7cd1e55b1c031b3e05299b10a
+  last_post_guid: 5747b0a8a5350044be0e02194b905caa
   score_criteria:
     cats: 5
     description: 0

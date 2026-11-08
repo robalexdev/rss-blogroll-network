@@ -1,6 +1,6 @@
 ---
 title: ava's blog
-date: "2026-10-23T09:25:19Z"
+date: "2026-10-31T08:30:00Z"
 description: ava's blog documenting life, little projects, tech adventures and more.
 params:
   feedlink: https://blog.avas.space/feed/
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,27 +29,24 @@ params:
   recommender: []
   categories:
   - "2026"
-  - data protection
-  - tech
+  - rose
   relme: {}
-  last_post_title: a (temporary) win for meta glasses in the classroom
-  last_post_description: Discussing an Austrian case of a student wearing Meta glasses
-    during school classes.
-  last_post_date: "2026-10-11T13:37:07Z"
-  last_post_link: https://blog.avas.space/smart-glasses-school/
+  last_post_title: rose ▪ bud ▪ thorn - october 2026
+  last_post_description: Joy, success, things I am working on, and challenges in October.
+  last_post_date: "2026-10-31T08:30:00Z"
+  last_post_link: https://blog.avas.space/rosebudthorn-oct26/
   last_post_categories:
   - "2026"
-  - data protection
-  - tech
+  - rose
   last_post_language: ""
-  last_post_guid: 8ea68a2c31f80cf1630559ea5d9c2eec
+  last_post_guid: c6ca7d64ae4abaf24266b9f1f316d49e
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
@@ -59,7 +56,7 @@ params:
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 297
 ---

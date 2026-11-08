@@ -1,8 +1,9 @@
 ---
 title: Mike's Blog
 date: "1970-01-01T00:00:00Z"
-description: "MikeLikeJordan coming through! \n\nHi there, I’m Mike—a former middle
-  school teacher pivoting into tech, trading lesson plans for Python scripts and classroo..."
+description: MikeLikeJordan coming through! Hi there, I’m Mike—a former middle school
+  teacher pivoting into tech, trading lesson plans for Python scripts and classrooms
+  f...
 params:
   feedlink: https://mikelikejordan.bearblog.dev/feed/?type=rss
   feedtype: rss
@@ -44,7 +45,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 3
@@ -53,11 +54,11 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 6
   avgpostlen: 0
 ---

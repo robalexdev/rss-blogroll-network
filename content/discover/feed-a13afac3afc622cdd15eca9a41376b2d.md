@@ -17,15 +17,15 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Wochenvorschau: Kunstpäti, Philharmonie-Probe und Flohmärkte'
-  last_post_description: 'Worüber diskutiert die Stadt in dieser Woche, was sind die
-    großen Themen und was ist los in Köln? Wer mitreden will, muss up to date bleiben.
-    Doch auch wir wissen: Das ist manchmal gar nicht so'
-  last_post_date: "2026-10-11T20:00:08Z"
-  last_post_link: https://koeln.mitvergnuegen.com/2026/wochenvorschau-kunstspaeti-philharmonie-probe/
+  last_post_title: 21 Dinge, die ihr in Sülz machen könnt
+  last_post_description: Sülz – das ist klischeehaft das Veedel der besserverdienenden
+    Ökos und Familien. Tatsächlich muss man hier überdurchschnittlich oft Kinderwagen
+    auf dem Bürgersteig ausweichen. Doch genauso oft
+  last_post_date: "2026-11-06T07:00:37Z"
+  last_post_link: https://koeln.mitvergnuegen.com/2026/suelz/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f6d03fc707f37a2c970d97698be01282
+  last_post_guid: 531aa5b275f7ced31a1790e962ad0679
   score_criteria:
     cats: 0
     description: 3

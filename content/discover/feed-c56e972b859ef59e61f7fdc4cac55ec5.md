@@ -1,6 +1,6 @@
 ---
 title: All Dead Generations
-date: "2026-10-10T06:26:07-07:00"
+date: "2026-11-01T12:28:57-08:00"
 description: '"[RPGs] make their own history, but they do not make it as they please;
   they do not make it under self-selected circumstances, but under circumstances existing
   already, given and transmitted from the'

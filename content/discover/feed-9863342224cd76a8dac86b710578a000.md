@@ -13,13 +13,15 @@ params:
   - title: Kagi Small Web OPML
     description: ""
     id: be15f1f70a7786fe4e89c9a39099dfb3
-  - title: Blogrolle von Matthias Pfefferle
+  - title: Blog·rol·le, die von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   recommended: []
   recommender:
+  - https://notiz.blog/author/matthias-pfefferle/feed/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/feed/
+  - https://notiz.blog/podcasts/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/chat/feed/

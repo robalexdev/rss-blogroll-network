@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,16 +26,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Use slog.LogValuer interface
+  last_post_title: Generic slog.LogValuer helper
   last_post_description: |-
-    log/slog is no longer new in Go. It was
-    introduced in 2023 with Go 1.21. But it is very nice for structural logging.
-    Here’s how to make that structural logging work better for you:
-  last_post_date: "2025-11-21T00:00:00Z"
-  last_post_link: https://paul.totterman.name/posts/golang-slog-logvalue/
+    I like to use log/slog in Go. And I use custom LogValue() functions to have
+    more control over how my structs get logged. But sometimes getting the right
+    format is tedious.
+  last_post_date: "2026-10-12T00:00:00Z"
+  last_post_link: https://paul.totterman.name/posts/golang-slog-attrs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e03d39642a042f88aa9fe49f91e31d83
+  last_post_guid: a3a42b89ba9e15217220425cfd1dd005
   score_criteria:
     cats: 0
     description: 3

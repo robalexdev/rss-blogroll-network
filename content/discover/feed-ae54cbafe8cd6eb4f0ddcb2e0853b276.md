@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,15 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Nudge: A skill to offer in-line feedback to coding agents'
-  last_post_description: |-
-    I have been using Coding agents a bunch, particularly since Opus 4.5 and GPT 5.2 came out.
-    I have a long post about my general LLM coding experiences coming out soon. This is a quick tip I have been
-  last_post_date: "2026-01-29T06:41:05-08:00"
-  last_post_link: https://nikhilism.com/post/2026/nudge-skill/
+  last_post_title: 'ConcurrentML: Improving on Go''s concurrency model'
+  last_post_description: 'events: communication operations as values Wrapping events
+    Composing choice Building on events Guard events Handling cancellation Cancellation
+    in the print service Wrapping up loose threads closeing'
+  last_post_date: "2026-10-16T07:09:00-07:00"
+  last_post_link: https://nikhilism.com/post/2026/golang-racket-concurrency/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7b76a5742f0e94552becd097782711fa
+  last_post_guid: cc6c1e31bc24c0e2be25fbe3420153f5
   score_criteria:
     cats: 0
     description: 3

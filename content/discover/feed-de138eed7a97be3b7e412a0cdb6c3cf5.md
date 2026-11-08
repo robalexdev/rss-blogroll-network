@@ -1,6 +1,6 @@
 ---
 title: Home
-date: "2026-10-10T01:57:59Z"
+date: "2026-10-22T09:04:48Z"
 description: Direct, driven (and mostly tolerable).
 params:
   feedlink: https://blog.dannycastonguay.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,15 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Building Confident Kids
-  last_post_description: One of the most common fallacies that I see parents repeating
-    is the notion that people who are successful are confident, and therefore they
-    need to build confidence in their kids and protect their
-  last_post_date: "2026-10-10T00:00:00Z"
-  last_post_link: https://blog.dannycastonguay.com/building-confident-kids/
+  last_post_title: Love the Problem
+  last_post_description: I’m sharing this message to my kids after they came up with
+    an algorithm for the CSES Movie Festival problem this morning.
+  last_post_date: "2026-10-21T00:00:00Z"
+  last_post_link: https://blog.dannycastonguay.com/love-the-problem/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 951e732c742078e65a43a91d05fb0e9b
+  last_post_guid: d023fb4d3eb837166aae0eb6e6744547
   score_criteria:
     cats: 0
     description: 3

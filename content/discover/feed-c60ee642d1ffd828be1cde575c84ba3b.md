@@ -1,13 +1,13 @@
 ---
 title: Danny Salzman
-date: "2024-06-30T05:07:34Z"
+date: "2026-11-04T04:57:25Z"
 description: Exploring Stale Assumptions
 params:
   feedlink: https://www.dannysalzman.com/feed.xml
   feedtype: atom
   feedid: c60ee642d1ffd828be1cde575c84ba3b
   websites:
-    https://www.dannysalzman.com/: false
+    https://www.dannysalzman.com/: true
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
@@ -42,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 19
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

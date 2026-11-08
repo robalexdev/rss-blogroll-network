@@ -1,6 +1,6 @@
 ---
 title: Im Gespräch
-date: "2026-10-12T00:52:24+02:00"
+date: "2026-11-07T02:40:28+01:00"
 description: Eine Stunde - für eine Person. Unsere Gäste kommen aus Kultur und Politik,
   Wissenschaft und Wirtschaft, sind prominent oder weniger bekannt, aber stets Persönlichkeiten,
   die etwas zu erzählen
@@ -21,15 +21,15 @@ params:
   categories:
   - Info
   relme: {}
-  last_post_title: Nationalstolz - Braucht Deutschland einen positiven Patriotismus?
-  last_post_description: Kann man Deutschland lieben, ohne andere Länder abzuwerten?
-    Und wie könnte ein inklusiver Patriotismus aussehen? Darüber diskutieren Dominik
-    Wullers, Ex-Soldat und Referent bei der NATO, und
-  last_post_date: "2026-10-10T09:05:00+02:00"
-  last_post_link: https://www.deutschlandfunkkultur.de/nationalstolz-braucht-deutschland-einen-positiven-patriotismus-100.html
+  last_post_title: '"Königin der Nachhaltigkeit": Influencerin Madeleine Darya Alizadeh'
+  last_post_description: Madeleine Alizadeh gilt als eine der ersten deutschsprachigen
+    "Sinnfluencerinnen". In ihren Posts und mit ihrem Modeunternehmen möchte sie zeigen,
+    dass Fashion ethisch, ökologisch und inklusiv sein
+  last_post_date: "2026-11-06T09:05:00+01:00"
+  last_post_link: https://www.deutschlandfunkkultur.de/madeleine-darya-alizadeh-mode-unternehmerin-und-influencerin-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a1a4d27f37d7dfac714d53c72b27089
+  last_post_guid: e7ae703587ed038c285f81bb017ce227
   score_criteria:
     cats: 1
     description: 3

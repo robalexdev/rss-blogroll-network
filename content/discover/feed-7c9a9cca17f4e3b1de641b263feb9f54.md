@@ -1,9 +1,9 @@
 ---
 title: Shilin typing
-date: "2026-10-11T20:54:37Z"
+date: "2026-09-24T20:41:15Z"
 description: 'Hi, I’m Sergei! I’m an entrepreneur, musician, rock climber, and thinker
   who writes about what matters most to me: startups, health, and always sleeping
-  on the right side of the bed'
+  on t...'
 params:
   feedlink: https://shilin.ca/feed/
   feedtype: atom
@@ -35,7 +35,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
     postcats: 2
@@ -44,11 +44,11 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 296
 ---

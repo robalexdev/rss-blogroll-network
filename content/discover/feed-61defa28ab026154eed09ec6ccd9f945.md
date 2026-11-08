@@ -22,18 +22,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 杂谈
+  - Linux & homelab
   relme: {}
-  last_post_title: singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC
+  last_post_title: 避免qemu-guest-agent的exec在商家被黑时让你的VPS“飞起来”
   last_post_description: |-
-    本文均使用技术中立性词汇，请合理理解 随着近年来晚高峰互联网需求日渐膨胀，传统线路愈发拥挤/丢包，长程链路的性 […]
-    singbox
-  last_post_date: "2026-10-01T18:40:14Z"
-  last_post_link: https://wusiyu.me/singbox-multipath/
+    今日不少VPS服务商都被爆出了宿主机或管理面板被入侵导致其中VPS也被连带入侵，尽管宿主机被入侵后能对VPS做 […]
+    避免qemu-guest
+  last_post_date: "2026-10-31T19:44:57Z"
+  last_post_link: https://wusiyu.me/prevent-vps-intrusion-from-compromised-host-via-qemu-guest-agent/
   last_post_categories:
-  - 杂谈
+  - Linux & homelab
   last_post_language: ""
-  last_post_guid: ad088ed81d62802b272bba546d4f7a86
+  last_post_guid: 0438b814fdef0fb16fcaa0d8e0b70905
   score_criteria:
     cats: 0
     description: 3

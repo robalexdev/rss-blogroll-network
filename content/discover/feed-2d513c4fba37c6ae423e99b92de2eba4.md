@@ -18,16 +18,16 @@ params:
   categories:
   - 安妮薇看看正刊
   relme: {}
-  last_post_title: 安妮薇看看 №26·09·16
+  last_post_title: 安妮薇看看 №26·11·03
   last_post_description: |-
-    Leon 开发的首款游戏 Jelly Up 上线啦
-    Leon
-  last_post_date: "2026-09-16T08:16:34Z"
+    配饭视频: 针幕动画的创作原理
+    无意间看到了一部很古早的短片《Mindscape》，才知道了这种叫 Pin Screen
+  last_post_date: "2026-11-03T07:54:30Z"
   last_post_link: http://anyway.fm/now/
   last_post_categories:
   - 安妮薇看看正刊
   last_post_language: ""
-  last_post_guid: 773bf0d3acf2198b8a649cfe266140f8
+  last_post_guid: 44f29a5bd5587d60820cbe026941bbc8
   score_criteria:
     cats: 0
     description: 3

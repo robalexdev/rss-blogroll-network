@@ -19,34 +19,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Blog
-  - bitExpert
+  - PHP
+  - PHPStan
+  - Sylius
   relme:
     https://blog.bitexpert.de/blog: true
-  last_post_title: Happy Birthday BitExpert blog!
-  last_post_description: Celebrating 20 years of bitExpert's tech blog, we reflect
-    on our journey of sharing learnings and contributing to the software development
-    community, adapting to changes in technology and audience
-  last_post_date: "2026-10-20T00:00:00Z"
-  last_post_link: https://blog.bitexpert.de/blog/happy_birthday_bitexpert_blog
+  last_post_title: Announcing bitexpert/phpstan-sylius 0.4.0
+  last_post_description: We've just released an updated version of our phpstan-sylius
+    extension, bringing improved compatibility with the latest Sylius Stack features.
+  last_post_date: "2026-11-02T00:00:00Z"
+  last_post_link: https://blog.bitexpert.de/blog/phpstan_sylius_0_4_0
   last_post_categories:
-  - Blog
-  - bitExpert
+  - PHP
+  - PHPStan
+  - Sylius
   last_post_language: ""
-  last_post_guid: f5d5881d3265268c6021deeb0c31d217
+  last_post_guid: 62ce259c1c52cc7d949790dd7afe9fc7
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

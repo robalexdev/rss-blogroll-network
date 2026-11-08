@@ -1,6 +1,6 @@
 ---
 title: bushcooks kitchen
-date: "2026-10-11T19:38:33+02:00"
+date: "2026-11-06T17:26:54+01:00"
 description: ""
 params:
   feedlink: https://www.bushcook.de/feeds/posts/default
@@ -61,6 +61,7 @@ params:
   - Algerien
   - Ali Güngörmüs
   - Alice Waters
+  - Alina Meissner-Bebrout
   - Allegra McEvedy
   - Allgäu
   - Alltagsküche
@@ -255,6 +256,7 @@ params:
   - Désirée Eser
   - Eckart Witzigmann
   - Edip Sigl
+  - Ei
   - Eier
   - Einkaufen
   - Eintopf
@@ -446,6 +448,7 @@ params:
   - Juan Amador
   - Julia Pleintinger
   - Julian Fritz
+  - Julian Koch
   - Julian Schwamberger
   - Julien Morlat
   - Justin Leone
@@ -470,6 +473,7 @@ params:
   - Katharina Seiser
   - Kaviar
   - Kevin Fehling
+  - Kevin Romes
   - Kilian Angermeyer
   - Kim Thuy
   - Kirill Kinfelt
@@ -522,6 +526,7 @@ params:
   - Malediven
   - Manfred Kurz
   - Manuel Faltermeier
+  - Manuel Löhnert
   - Manuel Reheis
   - Manuel Schmuck
   - Manuela Holzbauer
@@ -630,6 +635,7 @@ params:
   - Nathalie Leblond
   - Nelson Müller
   - Nenad Mlinarevic
+  - Nic Shanker
   - Nicklas Rausch
   - Nico Sackmann
   - Nico Sartor
@@ -678,6 +684,7 @@ params:
   - Paula Bosch
   - Peet Schütte
   - Pellegrino Artusi
+  - Peppi Kalteis
   - Persien
   - Peru
   - Pesto
@@ -728,6 +735,7 @@ params:
   - Rheinhessen
   - Rheinland-Pfalz
   - Richard Rauch
+  - Richard Schmidtkonz
   - Ricky Saward
   - Rico Birndt
   - Rind
@@ -778,6 +786,7 @@ params:
   - Sebastian Rumpf
   - Sebastian Völkl
   - Sebastian Völz
+  - Sebastian Zier
   - Sekt.
   - Senf
   - Serkan Güzelcoban
@@ -962,18 +971,22 @@ params:
   relme:
     https://www.blogger.com/profile/07431738547643883832: true
     https://www.bushcook.de/: true
-  last_post_title: Kochprofi-Revival im Hotel Elephant, Weimar
+  last_post_title: 3. Genussfestival in Straubing
   last_post_description: ""
-  last_post_date: "2026-10-11T09:00:00+02:00"
-  last_post_link: https://www.bushcook.de/2026/10/weimar-kochprofis.html
+  last_post_date: "2026-11-06T14:42:12+01:00"
+  last_post_link: https://www.bushcook.de/2026/11/3-genussfestival-in-straubing.html
   last_post_categories:
-  - Mario Kotaska
-  - Martin Baudrexel
-  - Ralf Zacherl
-  - Restaurant
-  - Stefan Marquard
+  - Event
+  - Fabian Höckenreiner
+  - Julian Koch
+  - Kevin Romes
+  - Manuel Löhnert
+  - Nic Shanker
+  - Richard Schmidtkonz
+  - Sebastian Zier
+  - Tobias Peyerl
   last_post_language: ""
-  last_post_guid: 167acf04544ccf80c4b8eb650c659f44
+  last_post_guid: 6cc512985ebf708eeffb26a42d258f9f
   score_criteria:
     cats: 5
     description: 0

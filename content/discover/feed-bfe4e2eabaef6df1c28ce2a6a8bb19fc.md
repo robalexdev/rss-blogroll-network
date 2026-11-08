@@ -23,16 +23,15 @@ params:
   - Book Freak
   - Tips
   relme: {}
-  last_post_title: 'Book Freak #228: Breakthrough Copywriter'
-  last_post_description: A practical field guide to the copywriting genius of Eugene
-    Schwartz
-  last_post_date: "2026-10-23T16:00:00Z"
-  last_post_link: https://kk.org/cooltools/book-freak-228-breakthrough-copywriter/
+  last_post_title: The South Carolina family that murdered itself out of existence
+  last_post_description: The Last of the Bighams by J. A. Zeigler
+  last_post_date: "2026-11-06T16:00:00Z"
+  last_post_link: https://kk.org/cooltools/the-south-carolina-family-that-murdered-itself-out-of-existence/
   last_post_categories:
   - Book Freak
   - Tips
   last_post_language: ""
-  last_post_guid: 255245bb8d7e60634bb7553bfa896b56
+  last_post_guid: 77d8937f1a243c198b48f632ccf0d382
   score_criteria:
     cats: 0
     description: 3

@@ -1,5 +1,5 @@
 ---
-title: Accord Blog – Latest Insights
+title: 'Accord Blog: Latest Insights'
 date: "1970-01-01T00:00:00Z"
 description: Latest articles on growth, marketing, and automation.
 params:
@@ -16,17 +16,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Sender Reputation for B2B Outbound: How to Check It, Fix It, and
-    Who Should Own It'
+  last_post_title: 'Welcome Email Sequence for B2B: What to Send in the First 14 Days'
   last_post_description: |-
-    By the Accord Tech Solutions team · Last reviewed October 2026
+    By the Accord Tech Solutions team · Last reviewed November 2026
 
-    Here is how to check sender reputation without paying for a tool. Use Google Postmaster Tools for mail that reaches Gmail, run a
-  last_post_date: "2026-10-20T11:40:10Z"
-  last_post_link: https://www.accordtechsolutions.com/blog/how-to-check-and-fix-sender-reputation-b2b-outbound
+    Someone fills in your sign-up form on a Tuesday. They get one "Thanks for subscribing" email, then nothing for three weeks, until
+  last_post_date: "2026-11-05T11:29:29Z"
+  last_post_link: https://www.accordtechsolutions.com/blog/b2b-welcome-email-sequence-first-14-days
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8bd4e826983e8eef2a6a6b0850ea5f7c
+  last_post_guid: f730ce491cca86259546c6093f2b8fb5
   score_criteria:
     cats: 0
     description: 3

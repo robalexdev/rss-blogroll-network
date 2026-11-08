@@ -17,32 +17,42 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Atelierhaus
+  - Atelierhaus Community
+  - Buchbinden
+  - Bücher
   - Bücher und Papier
+  - Wabi Sabi
   relme: {}
-  last_post_title: Handletter Hero, Buchstaben überall und meine persönliche Slow-Lettering-Challenge
-    im Fundjournal
-  last_post_description: Für den Sommer hab ich mir den Handletter Hero Kurs von Marenthe
-    gegönnt im Sale. Auch wenn die Live Begleitung direkt in unseren Urlaub fiel.
-    Daher bin ich in die Ferien gestartet mit einer
-  last_post_date: "2026-10-05T12:11:30Z"
-  last_post_link: https://kristinaschaper.de/handletter-hero-meine-slow-lettering-challenge-im-fundjournal/
+  last_post_title: Buchbinde-Bootcamp 26 im Atelierhaus – Bücher im Wabi Sabi Style
+    mit Patina
+  last_post_description: Zuerst einmal muss ich mich bei allen meinen Leser*innen
+    entschuldigen, die sich kürzlich gewundert haben über merkwürdige Emails, die
+    über die letzten drei Blogartikel informiert haben… da
+  last_post_date: "2026-11-05T14:03:32Z"
+  last_post_link: https://kristinaschaper.de/buchbinde-bootcamp-26-im-atelierhaus-buecher-im-wabi-sabi-style-mit-patina/
   last_post_categories:
+  - Atelierhaus
+  - Atelierhaus Community
+  - Buchbinden
+  - Bücher
   - Bücher und Papier
+  - Wabi Sabi
   last_post_language: ""
-  last_post_guid: aa41cadd75c5ca2b9fcdb294e0b76791
+  last_post_guid: 82a7ddb8957e70c201362c747d15eb5b
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

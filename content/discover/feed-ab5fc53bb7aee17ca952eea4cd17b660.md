@@ -16,39 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Concord grape
   - cake
-  - crumb cake
-  - grapes
-  - native fruit
+  - citrus
+  - lemon
   - pantry friendly baking
-  - peanut butter
-  - peanuts
   - recipe
   - recipes
   - single layer cake
   - snacking cake
+  - sour cream
   relme: {}
-  last_post_title: Concord Grape & Peanut Butter Crumb Cake
-  last_post_description: A riff on the classic PB&J sandwich made with fresh Concord
-    grapes and a peanut crumb topping
-  last_post_date: "2026-09-23T14:42:01Z"
-  last_post_link: https://www.coconutandlime.com/2026/09/concord-grape-peanut-butter-crumb-cake.html
+  last_post_title: Lemon Sour Cream Snacking Cake
+  last_post_description: A lemon cake with crunchy lemon topping—perfect for snacking!
+  last_post_date: "2026-11-03T20:27:57Z"
+  last_post_link: https://www.coconutandlime.com/2026/11/lemon-sour-cream-snacking-cake.html
   last_post_categories:
-  - Concord grape
   - cake
-  - crumb cake
-  - grapes
-  - native fruit
+  - citrus
+  - lemon
   - pantry friendly baking
-  - peanut butter
-  - peanuts
   - recipe
   - recipes
   - single layer cake
   - snacking cake
+  - sour cream
   last_post_language: ""
-  last_post_guid: 2d518a420836fd26f4c5c96a6b75be7e
+  last_post_guid: b69a048a6eb12d37c98dfb415462c304
   score_criteria:
     cats: 0
     description: 3

@@ -27,17 +27,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: If people would just
-  last_post_description: Building systems that incentivise good behaviour
-  last_post_date: "2026-10-22T12:19:00Z"
-  last_post_link: https://herman.bearblog.dev/if-people-would-just/
+  last_post_title: The upvote dilemma
+  last_post_description: Hiding upvotes on the discovery feed
+  last_post_date: "2026-10-27T13:05:00Z"
+  last_post_link: https://herman.bearblog.dev/the-upvote-dilemma/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d5209829e118dd036c44c15097793d77
+  last_post_guid: 30577c1168c222954ab65e93bf137f12
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 0
@@ -46,11 +46,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 0
 ---

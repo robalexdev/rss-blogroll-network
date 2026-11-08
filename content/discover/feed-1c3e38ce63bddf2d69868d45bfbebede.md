@@ -17,25 +17,25 @@ params:
   recommender: []
   categories:
   - "2026"
-  - Database
-  - Development
-  - MacFamilyTree
-  - SQLite
+  - Gadgets
+  - MacBook Neo
+  - Ulanzi
+  - Xteink
   relme: {}
-  last_post_title: Querying the MacFamilyTree Database
-  last_post_description: WARNING! Make a copy of your database before trying any of
-    this! A while back I found an online course called SQL for Genealogy which taught
-    you how to extract and manipulate your family history data
-  last_post_date: "2026-10-21T10:32:00Z"
-  last_post_link: https://www.spokenlikeageek.com/2026/10/21/querying-the-macfamilytree-database/
+  last_post_title: Making up for the lack of backlit keyboard on the MacBook Neo
+  last_post_description: 'When I wrote about my new MacBook Neo my biggest complaint
+    about it was the back of a backlit keyboard. You can read my review about the
+    machine here: Since then I have been looking at potential'
+  last_post_date: "2026-11-04T09:10:00Z"
+  last_post_link: https://www.spokenlikeageek.com/2026/11/04/making-up-for-the-lack-of-backlit-keyboard-on-the-macbook-neo/
   last_post_categories:
   - "2026"
-  - Database
-  - Development
-  - MacFamilyTree
-  - SQLite
+  - Gadgets
+  - MacBook Neo
+  - Ulanzi
+  - Xteink
   last_post_language: ""
-  last_post_guid: b315e12b7aff41d79dcbbf0a9dcefae2
+  last_post_guid: 1b8b1cede00f6a731fd9bba8a40a0a7d
   score_criteria:
     cats: 0
     description: 3

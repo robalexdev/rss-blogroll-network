@@ -16,6 +16,7 @@ params:
     id: b783a837954aa02669ccd91156b7fdd2
   recommended: []
   recommender:
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   categories: []
   relme:

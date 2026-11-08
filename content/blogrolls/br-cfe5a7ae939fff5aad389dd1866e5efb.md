@@ -1,6 +1,6 @@
 ---
 title: davewiner/hackerNewsStars
-date: Fri, 23 Oct 2026 19:35:31 GMT
+date: Fri, 06 Nov 2026 21:26:42 GMT
 description: davewiner's subscription list, hackerNewsStars category. List created
   by feedlandDatabase v0.9.3.
 params:
@@ -21,8 +21,8 @@ params:
     description: Recent content on Jeff Geerling
     id: 2c5f9c8ef98e2b930acfa5e4f57b58f1
   - title: Rakhim's blog
-    description: Hi, my name is Rakhim. I'm a staff engineer at IQM Quantum Computers.
-      I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Twitter.
+    description: Hi, my name is Rakhim. I'm a software engineer in quantum computing.
+      I'm building Exotext.com and Minifeed.net. Reach me on Bluesky or Mastodon.
     id: 331af3de3ac9ed88c90a647edd72f284
   - title: Armin Ronacher's Thoughts and Writings
     description: ""
@@ -178,8 +178,8 @@ params:
   - title: Refactoring English
     description: Recent content on Refactoring English
     id: e171e6e17978813d4b293d375aaa6e0c
-  - title: Blog - Daniel Wirtz
-    description: Senior Design Engineer at Giving What We Can.
+  - title: Blog – Daniel Wirtz
+    description: Helpful tools, thoughtful articles and other findings from the web.
     id: ed97d8932e73d19340a80151a57e4a77
   - title: the singularity is nearer
     description: A home for poorly researched ideas that I find myself repeating a

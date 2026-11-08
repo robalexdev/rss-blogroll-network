@@ -1,6 +1,6 @@
 ---
 title: Wolkenfees Küchenwerkstatt
-date: "2026-10-11T21:46:55+02:00"
+date: "2026-11-05T11:36:21+01:00"
 description: Foodblog mit gelingsicheren Rezepten zum Kochen und Backen
 params:
   feedlink: https://wolkenfeeskuechenwerkstatt.blogspot.com/feeds/posts/default
@@ -78,31 +78,31 @@ params:
   - Wok
   - veggie Hausmannskost
   relme: {}
-  last_post_title: Polpette di salsiccia al sugo - Italienische Fleischbällchen in
-    Tomatensauce
-  last_post_description: An einem warmen Sommertag war es mal wieder soweit. Wir Rhein-Neckar-Blogger
-    Mädels trafen uns und verbrachten einen schönen Nachmittag zusammen. Mit leckerem
-    Essen und von Angesicht zu Angesicht
-  last_post_date: "2026-09-15T14:55:57+02:00"
-  last_post_link: https://wolkenfeeskuechenwerkstatt.blogspot.com/2026/09/polpette-di-salsiccia-al-sugo.html
+  last_post_title: Herbstlicher Flammkuchen mit Feigen und roten Zwiebeln
+  last_post_description: Flammkuchen liebe ich und ich bereite ihn super gerne zu.
+    Für den Herbst habe ich mal ein neues Rezept ausprobiert und ich sage nur yammi.Den
+    Teig mache ich immer gleich. Ich benutze einen
+  last_post_date: "2026-10-25T08:55:23+01:00"
+  last_post_link: https://wolkenfeeskuechenwerkstatt.blogspot.com/2026/10/herbstlicher-flammkuchen-mit-feigen-und.html
   last_post_categories:
-  - Event
-  - Fleisch
+  - A
+  - Backen herzhaft
+  - Pizza
   last_post_language: ""
-  last_post_guid: d08dec615002ce4a5810843dfcadad5a
+  last_post_guid: 6dfde3e3e3411e4d084c65b8260065e8
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 23
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,13 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: AI is ushering in an age of personal media
-  last_post_description: It may be AI slop, but it's my AI slop.
-  last_post_date: "2026-10-19T13:33:47Z"
-  last_post_link: https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal
+  last_post_title: This robotics concept helps explain the jaggedness of frontier
+    capabilities
+  last_post_description: Sim-to-real gaps are everywhere.
+  last_post_date: "2026-11-05T15:16:59Z"
+  last_post_link: https://www.understandingai.org/p/this-robotics-concept-helps-explain
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0a404808a6e23408ba4bfaaddc60688a
+  last_post_guid: fd9e7561b01a6a2be5a56454e42d6715
   score_criteria:
     cats: 0
     description: 3

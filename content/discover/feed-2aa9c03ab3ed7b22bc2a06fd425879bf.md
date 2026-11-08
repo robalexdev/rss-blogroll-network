@@ -18,26 +18,28 @@ params:
   categories:
   - Backen
   - Herbst
-  - Kastenkuchen
   - Kuchen
-  - Kürbiskuchen
+  - Maulwurfkuchen
   - Saisonal
+  - Spekulatius
+  - Weihnachten
   relme: {}
-  last_post_title: Kürbiskastenkuchen – Spice latte
-  last_post_description: Kürbiskastenkuchen gehört definitiv zu den leckersten Möglichkeiten,
-    einen Kürbis zu verarbeiten! Das selbst gemachte Kürbispüree sorgt für eine wunderbar
-    saftige Konsistenz, während Zimt und
-  last_post_date: "2026-10-11T05:40:00Z"
-  last_post_link: https://www.zungenzirkus.de/kuerbiskastenkuchen-spice-latte/
+  last_post_title: Spekulatius-Maulwurfkuchen mit Gewürzkirschen
+  last_post_description: 'Der beliebte Kuchenklassiker hat sich für die gemütliche
+    Jahreszeit richtig herausgeputzt: Als Spekulatius-Maulwurfkuchen mit Gewürzkirschen
+    bringt er eine herrlich winterliche Note auf die'
+  last_post_date: "2026-10-25T06:13:17Z"
+  last_post_link: https://www.zungenzirkus.de/spekulatius-maulwurfkuchen-mit-gewuerzkirschen/
   last_post_categories:
   - Backen
   - Herbst
-  - Kastenkuchen
   - Kuchen
-  - Kürbiskuchen
+  - Maulwurfkuchen
   - Saisonal
+  - Spekulatius
+  - Weihnachten
   last_post_language: ""
-  last_post_guid: 4d3fccb93d97179a7266940cb6fece20
+  last_post_guid: ac904977d8030f561dbbe9c809fe9208
   score_criteria:
     cats: 0
     description: 3

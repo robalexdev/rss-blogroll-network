@@ -1,6 +1,6 @@
 ---
 title: tohya.net
-date: "2025-11-01T19:14:30+01:00"
+date: "2026-10-31T21:24:45+01:00"
 description: ""
 params:
   feedlink: https://www.tohya.net/feed.rss
@@ -20,14 +20,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Silent Hill f Review (PS5, 2025)
-  last_post_description: Minor spoilers this time. But I imagine everyone who was
-    interested in playing the game blind already did so.
-  last_post_date: "2025-11-01T19:14:30+01:00"
-  last_post_link: https://www.tohya.net/blog/videogames/silent-hill-f-review.html
+  last_post_title: Minor videogames blog update
+  last_post_description: Added new tags to the videogames category.
+  last_post_date: "2026-10-31T21:24:45+01:00"
+  last_post_link: https://www.tohya.net/news/blog-update.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c3c276349e958c5601b77443a08f23c4
+  last_post_guid: 649f9551d31be4360f13789c1dbcfa99
   score_criteria:
     cats: 0
     description: 0

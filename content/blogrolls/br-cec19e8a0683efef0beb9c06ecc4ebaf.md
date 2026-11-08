@@ -28,7 +28,7 @@ params:
     description: Kopfhörer, Gadgets, Tech ≈ mobile Nerdkultur
     id: 27d21c8ea95f6079579e3135e66ed154
   - title: Bloghexe
-    description: Online sichtbar werden - Blogtipps & Beratung
+    description: dein Portal rund ums Bloggen
     id: 283c2517dbfcd01e9309af88931f2eff
   - title: HerrMontag.de
     description: ~ Janitor of Lunacy ~
@@ -36,7 +36,7 @@ params:
   - title: Aussernet
     description: Anders als der Rest
     id: 2bbd2d5d9f9670fd2033b44ccc5b5d98
-  - title: C0D1 Online
+  - title: C0D1
     description: ""
     id: 2ca49a3244471e8dd14b2ff9f92460ee
   - title: Britta Langhoff
@@ -54,7 +54,7 @@ params:
   - title: Heldenhaushalt
     description: Wer es ordentlich haben will, der muss vorher anrufen
     id: 4e5c7b4bdc3017792786edc2b55454b0
-  - title: Horst Schulte
+  - title: HorstSchulte.com
     description: bloÃŸ nicht zynisch werden...
     id: 598396183663089faa1eae4c7038a440
   - title: Boris Stumpf

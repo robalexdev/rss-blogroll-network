@@ -31,34 +31,30 @@ params:
   recommended: []
   recommender:
   - https://lmika.org/feed.xml
-  categories:
-  - AI
-  - OpenAI
+  categories: []
   relme: {}
-  last_post_title: AI is solving math problems faster than humans can understand the
-    solutions
-  last_post_description: OpenAI’s math breakthroughs may trigger an identity crisis
-    for mathematicians. Who’s next?
-  last_post_date: "2026-10-09T00:28:26Z"
-  last_post_link: https://www.platformer.news/openai-math-breakthroughs-tao-reaction/
-  last_post_categories:
-  - AI
-  - OpenAI
+  last_post_title: The AI backlash needs a plan
+  last_post_description: Democrats have a mandate to rein in frontier labs, data centers,
+    and more. Can they deliver without repeating their mistakes from the social-media
+    era?
+  last_post_date: "2026-11-06T01:01:17Z"
+  last_post_link: https://www.platformer.news/thursday-newsletter-7/
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: 447870f43eebcb3daa4a35445bf8d69a
+  last_post_guid: dd39667a7e3af33f39333f1256498fe8
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

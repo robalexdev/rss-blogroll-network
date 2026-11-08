@@ -20,14 +20,14 @@ params:
   categories:
   - 博客
   relme: {}
-  last_post_title: 无差别的零容忍真的好吗
-  last_post_description: 放假前，有天在雪球刷到一篇推送给我的热帖。作者说中秋节请同学到家里聚会，筹备过程中，拒绝了两个人。第一个，是请 […]
-  last_post_date: "2026-10-08T08:18:35Z"
-  last_post_link: https://happyxiao.com/zero/
+  last_post_title: 红果视频和安徒生童话
+  last_post_description: 都知道短剧让人沉迷，可别忘了，你也可以选择读书上瘾。 先说说最近很火的短剧平台“红果视频”吧。昨天在 X 上看 […]
+  last_post_date: "2026-11-03T00:11:55Z"
+  last_post_link: https://happyxiao.com/hongguo/
   last_post_categories:
   - 博客
   last_post_language: ""
-  last_post_guid: b034283c57258db44889ce1edd092ec6
+  last_post_guid: 9814f36dad3bdf596d287f70aff5979e
   score_criteria:
     cats: 0
     description: 3

@@ -3,7 +3,7 @@ title: Shilin typing
 date: "1970-01-01T00:00:00Z"
 description: 'Hi, I’m Sergei! I’m an entrepreneur, musician, rock climber, and thinker
   who writes about what matters most to me: startups, health, and always sleeping
-  on the right side of the bed'
+  on t...'
 params:
   feedlink: https://shilin.ca/feed/?type=rss
   feedtype: rss
@@ -38,7 +38,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 2
@@ -47,11 +47,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 0
 ---

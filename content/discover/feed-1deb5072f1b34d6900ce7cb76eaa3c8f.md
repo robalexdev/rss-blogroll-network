@@ -12,7 +12,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,16 +25,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: mcp-demo
+  last_post_title: The Better Technology
   last_post_description: |-
-    <p>hello world from claude code</p>
-    <p>updating via claude code and mcp works! (timing probe 2)</p>
-    <p><img src="https://podviaznikov.com/attachments/lisbon-tram-c7b82c9d.jpg" alt="A yellow tram on a
-  last_post_date: "2026-10-02T22:36:24Z"
-  last_post_link: https://podviaznikov.com/mcp-demo
+    <h1>The Better Technology</h1>
+    <p>This summer I did a 3-month residency in Berlin. I attended a program called <a href="https://sandbox.techeurope.io">The Sandbox</a>.</p>
+    <p>One of the most
+  last_post_date: "2026-10-29T00:00:00Z"
+  last_post_link: https://podviaznikov.com/writings/the-better-technology
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9494b21988739e222a0670a8f37a140c
+  last_post_guid: c46d72dc1c27e90b641543c0f605fca3
   score_criteria:
     cats: 0
     description: 3

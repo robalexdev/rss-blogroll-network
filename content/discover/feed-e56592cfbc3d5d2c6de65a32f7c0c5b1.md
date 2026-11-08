@@ -22,14 +22,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Fast is a design decision
-  last_post_description: Building a site has never been cheaper, but making it fast
-    still costs attention and your user’s resources.
-  last_post_date: "2026-10-23T07:09:03Z"
-  last_post_link: https://shannadige.com/blog/performance-is-design/
+  last_post_title: Everyone is building AI agents. Who’s designing the stop button?
+  last_post_description: Here’s why the hardest design decisions happen where that
+    autonomy ends.
+  last_post_date: "2026-11-06T04:21:29Z"
+  last_post_link: https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df53c7810c241f8da6e08a963c525a46
+  last_post_guid: 9fb01f8259179dac8b970fb79f129e8c
   score_criteria:
     cats: 0
     description: 3

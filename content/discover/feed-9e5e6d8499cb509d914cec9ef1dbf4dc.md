@@ -19,16 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: I'm thinking about making some changes
-  last_post_description: |-
-    In recent months, the cost of running DMV.community has increased. At the same time, donations have been decreasing.
-
-    To be fully transparent, there have been times where I've considered shutting it
-  last_post_date: "2026-10-13T08:55:34-04:00"
-  last_post_link: https://cool-as-heck.blog/im-thinking-about-making-some-changes
+  last_post_title: Moving DMV.community home
+  last_post_description: DMV.community has lived on a Vultr VPS for a while now. This
+    week I moved it onto the server that sits in my house and already runs a few other
+    things I self-host. It's a Ryzen 7 3800X with 32 GB of
+  last_post_date: "2026-10-28T17:32:01-04:00"
+  last_post_link: https://cool-as-heck.blog/moving-dmv-community-home
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: fd11cbf5d5f195ed4516e2e5b60d6bf6
+  last_post_guid: 3172774d51948763ee3435d9e1bf26d4
   score_criteria:
     cats: 0
     description: 3

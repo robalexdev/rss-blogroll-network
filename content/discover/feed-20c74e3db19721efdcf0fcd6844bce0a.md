@@ -21,15 +21,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'vllm-ios: 88% Faster Multi-Agent Inference on iOS'
-  last_post_description: You get about 15-20 seconds of GPU per minute before an iPhone
-    overheats, so every second has to do maximum work. Batched inference on iOS is
-    surprisingly bad at that, so I rewrote vLLM's continuous
-  last_post_date: "2026-08-24T00:00:00Z"
-  last_post_link: https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html
+  last_post_title: An offline 0.8B model that ties Gemini Flash on OpenStreetMap questions
+  last_post_description: I trained a 0.8B model to do Ask Maps over OpenStreetMap,
+    offline, on three 3090s. It ties Gemini 3.8 Flash on Ask Maps Basic, a new open
+    eval of 100 traveller questions, with every trace published.
+  last_post_date: "2026-10-13T00:00:00Z"
+  last_post_link: https://jonready.com/blog/posts/rl-on-a-0_8b-travel-agent.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ed595fae2dcfff33d69b83ec7f779093
+  last_post_guid: de62af88a21cbe2174910174c1b076a0
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Bryan Braun - Blog
-date: "2026-09-26T21:00:00-04:00"
+date: "2026-11-06T16:40:47-05:00"
 description: Making things and sharing what I learn.
 params:
   feedlink: https://www.bryanbraun.com/rss.xml
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,14 +29,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Klara and the gift of curiosity
-  last_post_description: In October, a new movie will be released based on one of
-    my favorite books, Klara and the Sun.
-  last_post_date: "2026-08-26T00:00:00-04:00"
-  last_post_link: https://www.bryanbraun.com/2026/08/26/klara-and-the-gift-of-curiosity/
+  last_post_title: An AI usage statement for bryanbraun.com
+  last_post_description: I’ve had “AI usage statements” in the back of my mind ever
+    since I read Ethan Marcott’s blog post sharing a round-up of his favorite ones.
+    I didn’t consider writing one for this site, since
+  last_post_date: "2026-10-20T00:00:00-04:00"
+  last_post_link: https://www.bryanbraun.com/2026/10/20/an-ai-usage-statement-for-bryanbraun-com/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 486bc86e90dbcb4f1a5fb89a9b7a1296
+  last_post_guid: 0cf73247a485ba4450953bb19b9e414c
   score_criteria:
     cats: 0
     description: 3

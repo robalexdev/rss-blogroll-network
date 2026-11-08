@@ -1,6 +1,6 @@
 ---
 title: Dirks Logbuch
-date: "2026-10-09T05:18:19Z"
+date: "2026-11-06T10:11:00Z"
 description: Die Chronik des schleichenden Wahnsinns ...
 params:
   feedlink: https://www.deimeke.net/dirk/blog/index.php?/feeds/index.rss2=
@@ -9,6 +9,7 @@ params:
   websites:
     https://www.deimeke.net/dirk/blog/: true
     https://www.deimeke.net/dirk/blog/index.php?/archives/4522-BlogWochen-2026.html=: false
+    https://www.henning-uhle.eu/lest-mehr-blogs: false
   blogrolls: []
   in_blogrolls:
   - title: indieblog.page
@@ -32,18 +33,19 @@ params:
   - https://www.borisstumpf.de/comments/feed/
   - https://www.borisstumpf.de/feed/
   - https://www.henning-uhle.eu/feed
+  - https://www.henning-uhle.eu/lest-mehr-blogs/feed
   categories:
   - fundstücke
   relme:
     https://www.deimeke.net/dirk/blog/: true
-  last_post_title: Linkdump 41/2026
+  last_post_title: Linkdump 45/2026
   last_post_description: ""
-  last_post_date: "2026-10-09T06:15:00+02:00"
-  last_post_link: https://www.deimeke.net/dirk/blog/index.php?/archives/4525-Linkdump-412026.html
+  last_post_date: "2026-11-06T11:11:00+01:00"
+  last_post_link: https://www.deimeke.net/dirk/blog/index.php?/archives/4533-Linkdump-452026.html
   last_post_categories:
   - fundstücke
   last_post_language: ""
-  last_post_guid: fca36bba0cd71ba9952c60bcbcffd25a
+  last_post_guid: 7cb3cffaeadb487d5234b0877863f1dc
   score_criteria:
     cats: 0
     description: 3

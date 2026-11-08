@@ -30,15 +30,15 @@ params:
   - Society & Culture
   - TV & Film
   relme: {}
-  last_post_title: Erotik-Spezial mit Thomas Schmitt
-  last_post_description: So, dann mal Schmuck ablegen, Handtuch um die Hüfte und mit
-    der Lotion einreiben - ab geht die wilde Fahrt! Machen Sie sich bereit für Baywatch
-    Berlin, den Sauna-Aufguss für die Ohren! Wie lange
-  last_post_date: "2026-10-08T22:01:00Z"
-  last_post_link: https://baywatch-berlin.podigee.io/357-erotik-spezial-mit-thomas-schmitt
+  last_post_title: Leinen los, das Heroin wird kalt!
+  last_post_description: |-
+    Früher hat man „Urlaub gemacht, wie Gott in Frankreich“. Heute, wie „Merkel in Italien“. Merkel Urlaub; ein Vibe.
+    Zerzauste Haare, einen zerzausten Professor, die knitterigste Treckinghose
+  last_post_date: "2026-11-05T23:01:00Z"
+  last_post_link: https://baywatch-berlin.podigee.io/361-fr-06-11-2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 074dc498a01c29c1070d61037c28e79b
+  last_post_guid: 74484a36dcf0e284ba1fafc2bb3d92df
   score_criteria:
     cats: 3
     description: 3

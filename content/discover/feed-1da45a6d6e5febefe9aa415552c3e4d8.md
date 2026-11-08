@@ -1,6 +1,6 @@
 ---
 title: ChrAlpha's Blog
-date: "2026-06-01T18:30:00Z"
+date: "2026-11-05T12:00:00Z"
 description: ChrAlpha's Blog —— 技术向，记录着我的折腾小结；没事发些笔记、随笔、见闻；也愿能承载更多有态度有看法的文章 - Chryz
   (@ChrAlpha)
 params:
@@ -23,22 +23,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Devcontainer
-  - Docker
-  - VSCode
+  - 摄影
   - 笔记本
+  - 色彩科学
   relme: {}
-  last_post_title: 嵌套 Devcontainer：放心 dangerously skip permissions 无看管 Agent Coding
-  last_post_description: 为放心在 devcontainer 中无看管运行 AI coding agent，通过 Docker 命名卷持久化认证与缓存状态、中央仓库统一管理多项目配置、dotfiles
-  last_post_date: "2026-06-01T18:30:00Z"
-  last_post_link: https://blog.ichr.me/post/nested-devcontainer-agent-coding/
+  last_post_title: 从传感器到屏幕，从 RAW 到 JPEG，从直线到曲线
+  last_post_description: 从传感器到屏幕，物理世界是线性的，人眼感知是弯曲的。沿着 RAW 到 JPEG 的链路，拆开五种曲线——显示 gamma、Log、tone
+    mapping、display encoding 和 LUT。
+  last_post_date: "2026-11-05T12:00:00Z"
+  last_post_link: https://blog.ichr.me/post/sensor-to-screen/
   last_post_categories:
-  - Devcontainer
-  - Docker
-  - VSCode
+  - 摄影
   - 笔记本
+  - 色彩科学
   last_post_language: ""
-  last_post_guid: 0c55e89c490a21c2279999db39241940
+  last_post_guid: f52f2d679fb0aa7867ccdba618bb25f9
   score_criteria:
     cats: 0
     description: 3

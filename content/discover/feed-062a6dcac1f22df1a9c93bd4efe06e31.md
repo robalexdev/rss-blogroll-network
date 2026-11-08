@@ -17,7 +17,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -45,15 +45,15 @@ params:
   - Technology
   relme:
     https://lmnt.me/: true
-  last_post_title: Parades
-  last_post_description: 'I usually skip out on all parades when I go to Disneyland.
-    But I was with friends who love them, so I saw a three different parades today:
-    Harmony in Color, The Villains’ Halloween: Into the Frenzy'
-  last_post_date: "2026-10-14T21:30:00+09:00"
-  last_post_link: https://lmnt.me/blog/photos/parades.html
+  last_post_title: Vivid Bliss
+  last_post_description: Despite being a Mac person since 2005, I’ve got a fair amount
+    of nostalgia for Windows XP. The original “Bliss” wallpaper was a photo shot by
+    Charles O'Rear in Sonoma, but there was also a
+  last_post_date: "2026-10-26T15:35:00+09:00"
+  last_post_link: https://lmnt.me/blog/wallpapers/vivid-bliss.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 008d7260079d90907ec5f6c8dc76c0a1
+  last_post_guid: 1aa75b8bf3916f692fdf323964508b75
   score_criteria:
     cats: 1
     description: 3

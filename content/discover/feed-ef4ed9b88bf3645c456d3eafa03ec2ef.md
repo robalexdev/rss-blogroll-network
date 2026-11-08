@@ -23,6 +23,7 @@ params:
     https://blog.shrediverse.net/: true
     https://cool-as-heck.blog/: true
     https://dmv.community/@jcrabapple: true
+    https://jcrabapple.com/: true
   last_post_title: Deep Dive Into Sleep Token’s “Sundowning” Album
   last_post_description: Recently one of my favorite YouTubers, Steve O’G, did a deep
     dive relisten of Sleep Token’s 2019 debut full length album “Sundowning”.

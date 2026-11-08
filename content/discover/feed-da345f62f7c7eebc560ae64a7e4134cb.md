@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2026-10-10T05:19:23-04:00"
+date: "2026-11-05T19:54:42-05:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Take on Rules Public Blogroll
@@ -699,18 +699,19 @@ params:
   relme:
     https://grognardia.blogspot.com/: true
     https://www.blogger.com/profile/00341941102398271464: true
-  last_post_title: One Year Gone
+  last_post_title: Envy
   last_post_description: ""
-  last_post_date: "2026-10-02T00:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2026/10/one-year-gone.html
+  last_post_date: "2026-11-03T13:48:06-05:00"
+  last_post_link: https://grognardia.blogspot.com/2026/11/envy.html
   last_post_categories:
-  - campaigns
-  - ept
-  - house of worms
+  - appendix n
+  - gameholecon
+  - goodman games
   - musings
-  - tekumel
+  - the hobby
+  - the industry
   last_post_language: ""
-  last_post_guid: 32fcbccc631bccb55f16d5035d612f36
+  last_post_guid: 126db899cd8553681bee3ca0bd195f62
   score_criteria:
     cats: 5
     description: 3

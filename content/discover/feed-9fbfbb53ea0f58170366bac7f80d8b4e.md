@@ -48,16 +48,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Kommentar zu GIMP und XnViewMP von Boris (Autor)
-  last_post_description: |-
-    Als Antwort auf <a href="https://www.borisstumpf.de/2026/09/gimp-und-xnviewmp/#comment-1591">GiftImage team</a>.
-
-    Ich werde das in etwa so machen, deswegen überhaupt auch dieser Beitrag im Blog -
-  last_post_date: "2026-10-11T03:56:18Z"
-  last_post_link: https://www.borisstumpf.de/2026/09/gimp-und-xnviewmp/#comment-1592
+  last_post_title: Kommentar zu Stable Confusion von Lena Hoffmann
+  last_post_description: 'Danke für die ehrliche Einordnung zu Prompting und Diffusionsmodellen.
+    Was mir beim Experimentieren geholfen hat: statt alles nur per Text zu erzeugen,
+    nehme ich oft ein eigenes Foto als Vorlage und'
+  last_post_date: "2026-11-02T03:16:50Z"
+  last_post_link: https://www.borisstumpf.de/2025/03/stable-confusion/#comment-1601
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c2f8cd749080df3009f43cecccfc3226
+  last_post_guid: 21facbf125b058f129878ad9887a38f1
   score_criteria:
     cats: 0
     description: 3

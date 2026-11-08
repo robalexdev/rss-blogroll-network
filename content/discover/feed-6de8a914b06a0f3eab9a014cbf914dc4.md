@@ -1,6 +1,6 @@
 ---
 title: www.elektrospieler.de Blog Feed
-date: "2026-10-12T00:11:08+02:00"
+date: "2026-11-07T01:31:35+01:00"
 description: Blog - Das intelligente Indie-Magazin Ã¼ber Computer- und Videospiele
 params:
   feedlink: https://www.elektrospieler.de/rss/blog
@@ -18,15 +18,15 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Göttin mit Gallertwürfel: State of Play? Besorgniserregend!'
+  last_post_title: Mana-Pixelfibel bekommt Seiten-Upgrade und Posterkarten-Dreingabe
   last_post_description: |-
-    NEWS • Offenbar sind wir an einem Punkt in der Videospielgeschichte angekommen, an dem es nicht mehr so sehr um die Spiele selber geht – sondern vielmehr um die Angriffsfläche,
-        die sie
-  last_post_date: "2026-06-06T21:32:46+02:00"
-  last_post_link: https://www.elektrospieler.de/2026/06/06/g%C3%B6ttin-mit-gallertw%C3%BCrfel-state-of-play-besorgniserregend/
+    Warten, das sich lohnt: elektrospieler belohnt die Geduld von Mana-Fans, indem man der Pixelfibel zur Spiele-Serie ein Umfangs-Upgrade und ein Poster der Spielwelt spendiert. Die
+        Karte darauf
+  last_post_date: "2026-10-22T01:10:54+02:00"
+  last_post_link: https://www.elektrospieler.de/2026/10/22/mana-pixelfibel-bekommt-seiten-upgrade-und-posterkarten-dreingabe/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 84c63f26a4be5c9980804d977eda60f0
+  last_post_guid: d01b5dfdee578f2c46736027f72b3929
   score_criteria:
     cats: 0
     description: 3

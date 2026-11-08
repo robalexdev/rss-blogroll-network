@@ -17,45 +17,33 @@ params:
   recommender: []
   categories:
   - Allgemein
-  - Familie
-  - Familienurlaub
-  - Mausebär on tour
-  - Natur
-  - Norwegen
   - Outdoorjunge unterwegs
-  - outdoor
   relme: {}
-  last_post_title: 'Norwegen mit Kindern: Unser Familienurlaub in Südnorwegen rund
-    um Farsund und Lista'
-  last_post_description: 'Zwei Wochen Norwegen, neun Menschen, zwei Hunde, eine Villa
-    am Meer und unzählige kleine und große Abenteuer: Unser Sommerurlaub 2026 war
-    ein ganz besonderer Familienurlaub. Mit insgesamt sechs'
-  last_post_date: "2026-10-06T16:08:22Z"
-  last_post_link: https://outdoorfamilienglueck.com/2026/10/06/norwegen-mit-kindern-familienurlaub-farsund-lista/
+  last_post_title: 'Vianden im Herbst: Mit Sessellift, Familie und Hund Luxemburg
+    entdecken'
+  last_post_description: Manchmal braucht es gar keine lange Reise, um einen richtig
+    schönen Ausflugstag zu erleben. Unser herbstlicher Ausflug nach Vianden in Luxemburg
+    war dafür das beste Beispiel. Gemeinsam mit meinem
+  last_post_date: "2026-10-23T15:54:17Z"
+  last_post_link: https://outdoorfamilienglueck.com/2026/10/23/vianden-luxemburg-sessellift-wandern-hund/
   last_post_categories:
   - Allgemein
-  - Familie
-  - Familienurlaub
-  - Mausebär on tour
-  - Natur
-  - Norwegen
   - Outdoorjunge unterwegs
-  - outdoor
   last_post_language: ""
-  last_post_guid: e24ac76ab203edb8410d824657b9f2d6
+  last_post_guid: 5ea0f5e3e189e1f2eecaffda3a0b389b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

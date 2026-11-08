@@ -15,35 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 学习
-  - 工具
-  - 系统
-  - 软件
+  - 杂谈
+  - 生活
   relme: {}
-  last_post_title: 267 网页管理系统荒废了两个多月，今晚开启整理工作
-  last_post_description: 数字时代信息的爆炸，让我们会遇到这两个现象。 有价值的内容分布于多个软件的APP收藏、书本的侧边页 需要使用这 […]
-  last_post_date: "2026-09-03T15:10:12Z"
-  last_post_link: http://ddw2019.com/267
+  last_post_title: 249 通过数据来理解财富与奇迹
+  last_post_description: 十一期间，在车上看着两边飞驰而过的稻田和玉米地，第一感觉就是秋收的感觉真好，风吹稻花香呀。 （图片来自于参考文 […]
+  last_post_date: "2026-10-21T14:29:36Z"
+  last_post_link: http://ddw2019.com/249
   last_post_categories:
-  - 学习
-  - 工具
-  - 系统
-  - 软件
+  - 杂谈
+  - 生活
   last_post_language: ""
-  last_post_guid: 6d922c418269b3fa69fc6e1fd7cc1441
+  last_post_guid: 6a645241a50c421c06eb249419f3f90a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

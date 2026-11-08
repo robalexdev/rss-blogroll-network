@@ -9,14 +9,20 @@ params:
   feedid: 664c3eb6969bf4ad25dbf3d7b85b0a1f
   websites:
     https://frankwestphal.de/: true
+    https://frankwestphal.de/Journal.html: false
   blogrolls: []
   in_blogrolls:
   - title: Sonst so
     description: ""
     id: 6109e4d53785fcee9fc41c989de7a1e7
+  - title: Blogroll von Heinrich Kümmerle
+    description: ""
+    id: 30bb288382b1b9d1af581de2b878c9ce
   recommended: []
   recommender:
   - https://bielinski.de/feed/
+  - https://kuemmerle.name/comments/feed/
+  - https://kuemmerle.name/feed/
   categories: []
   relme: {}
   last_post_title: Wenn sich der Engpass verschiebt

@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -39,7 +39,7 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Blogrolle von Matthias Pfefferle
+  - title: Blog·rol·le, die von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: Engineering Blogs
@@ -48,8 +48,10 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://notiz.blog/author/matthias-pfefferle/feed/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/feed/
+  - https://notiz.blog/podcasts/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/chat/feed/
@@ -61,23 +63,99 @@ params:
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
   categories:
+  - '"Digital Curation"'
+  - A List Apart
+  - Accessibility
+  - Acclaim
+  - Advocacy
+  - Best practices
+  - CSS
+  - Career
+  - Community
+  - Content First
+  - Culture
+  - Curation
   - Design
-  - Tools
-  - software
+  - Freelance
+  - HTML
+  - My Back Pages
+  - Off My Lawn!
+  - Publications
+  - Publisher's Note
+  - Publishing
+  - Standards
+  - State of the Web
+  - The Essentials
+  - The Old Man of the Mountain
+  - UX
+  - Usability
+  - User Experience
+  - W3C
+  - Web Design
+  - Web Design History
+  - Web Standards
+  - Websites
+  - Zeldman
+  - business
+  - conferences
+  - content strategy
+  - creativity
+  - glamorous
+  - industry
+  - maturity
+  - zeldman.com
   relme:
     https://zeldman.com/: true
-  last_post_title: Figma Tips and Shortcuts
+  last_post_title: The Day the Focus Died
   last_post_description: |-
-    ℅ Automattic Design:
-    The post Figma Tips and Shortcuts appeared first on Jeffrey Zeldman Presents.
-  last_post_date: "2026-10-20T11:33:20Z"
-  last_post_link: https://zeldman.com/2026/10/20/figma-tips-and-shortcuts/
+    If we failed to do this, I feared, we would stop leading the industry and turn into “merely the CSS trick of the week.”
+    The post The Day the Focus Died appeared first on Jeffrey Zeldman Presents.
+  last_post_date: "2026-10-29T16:25:23Z"
+  last_post_link: https://zeldman.com/2026/10/29/the-day-the-focus-died/
   last_post_categories:
+  - '"Digital Curation"'
+  - A List Apart
+  - Accessibility
+  - Acclaim
+  - Advocacy
+  - Best practices
+  - CSS
+  - Career
+  - Community
+  - Content First
+  - Culture
+  - Curation
   - Design
-  - Tools
-  - software
+  - Freelance
+  - HTML
+  - My Back Pages
+  - Off My Lawn!
+  - Publications
+  - Publisher's Note
+  - Publishing
+  - Standards
+  - State of the Web
+  - The Essentials
+  - The Old Man of the Mountain
+  - UX
+  - Usability
+  - User Experience
+  - W3C
+  - Web Design
+  - Web Design History
+  - Web Standards
+  - Websites
+  - Zeldman
+  - business
+  - conferences
+  - content strategy
+  - creativity
+  - glamorous
+  - industry
+  - maturity
+  - zeldman.com
   last_post_language: ""
-  last_post_guid: fa956f7c34b691bf68438784da254d9c
+  last_post_guid: 014e417b3f7b233522a8b71a6cd051df
   score_criteria:
     cats: 0
     description: 3

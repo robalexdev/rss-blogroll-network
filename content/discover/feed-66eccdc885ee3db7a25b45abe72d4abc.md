@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: American Pancakes Rezept – rasend schnell & fluffig
-  last_post_description: 'Ein einfaches Pancakes Rezept, das alle lieben: so fluffig,
-    so schnell gemacht und im Original American-Style.'
-  last_post_date: "2026-10-11T10:30:00Z"
-  last_post_link: https://www.familienkost.de/rezept_american_pancakes.html
+  last_post_title: Krautsalat einfach selber machen
+  last_post_description: Krautsalat selber machen ist kinderleicht. Hol dir jetzt
+    mein einfaches Rezept nach griechischer Art.
+  last_post_date: "2026-11-05T10:30:00Z"
+  last_post_link: https://www.familienkost.de/rezept_krautsalat.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 43a0606dfeb75905ae00a077172c2c12
+  last_post_guid: 3dbdc44884ef0572dca799b3808e6326
   score_criteria:
     cats: 0
     description: 3

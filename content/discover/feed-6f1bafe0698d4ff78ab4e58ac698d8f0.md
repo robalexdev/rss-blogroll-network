@@ -1,6 +1,6 @@
 ---
 title: 'MacGizmoGuy : Apple Gadget News'
-date: "1970-01-01T00:00:00Z"
+date: "2026-10-31T00:23:23-07:00"
 description: MacGizmoGuy's Apple Computer Gadget News
 params:
   feedlink: https://macgizmoguy.com/blog/files/feed.xml
@@ -22,7 +22,7 @@ params:
   last_post_description: Why Your Website Should Leverage RSS Few web Technologies
     give a Mac webmaster the power to distribute their web content automatically without
     manual intervention or scheduling. RSS - Really Simple
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2026-08-30T22:17:31-07:00"
   last_post_link: https://macgizmoguy.com/blog/files/mac-rss-feed-marketing-strategy.html#unique-entry-id-5
   last_post_categories:
   - Marketing

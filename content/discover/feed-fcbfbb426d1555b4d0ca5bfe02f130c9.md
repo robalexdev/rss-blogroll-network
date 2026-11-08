@@ -44,8 +44,10 @@ params:
   - https://filmshortage.com/comments/feed/
   - https://kinderfilmblog.de/comments/feed/
   - https://kinderfilmblog.de/feed/
+  - https://pftn.hr/atom.xml
   - https://sicherheitspod.de/comments/feed/
   - https://stadt-bremerhaven.de/comments/feed/
+  - https://wortvogel.de/comments/feed/
   - https://wrint.de/comments/feed/
   - https://www.shortoftheweek.com/feed/atom/
   - https://xkcd.com/rss.xml
@@ -53,44 +55,44 @@ params:
   - https://stephanmax.com/feed.xml
   categories:
   - '*Realfilm'
+  - Auto
+  - Drama
+  - Erinnerung
   - Featured
-  - Komödie
+  - Geschichte
   - Kurzfilm
   - Kurzfilme
-  - Lustiges
-  - 'Regie: August Jorfald'
-  - Satire
-  - Scheiße
+  - Leben
+  - Menschen
+  - 'Regie: Slava Denisov'
   - 'Sprache: Englisch'
+  - Tod
   - Video
-  - Wirtschaft
-  - einkaufen
-  - verrückte Welt
   relme:
     https://denkfabrikblog.de/category/kurzfilme/: true
-  last_post_title: 'Kurzfilm: The Life of Death and the Enshittificator'
-  last_post_description: "Da haben sich zwei gefunden.\n\n\nDanke, dass du den Feed
-    von DenkfabrikBlog abonniert hast. Ich sorge hier weiter für Nachschub... \nBlogroll:
-    denkfabrikblog.de/links-blogroll/\nMail:"
-  last_post_date: "2026-10-05T11:37:00Z"
-  last_post_link: https://denkfabrikblog.de/2026/10/05/kurzfilm-the-life-of-death-and-the-enshittificator/
+  last_post_title: 'Kurzfilm: The Ride'
+  last_post_description: "Sowas wird ja heute gar nicht mehr gebaut!\n\n\nDanke, dass
+    du den Feed von DenkfabrikBlog abonniert hast. Ich sorge hier weiter für Nachschub...
+    \nBlogroll: denkfabrikblog.de/links-blogroll/\nMail:"
+  last_post_date: "2026-11-03T16:37:00Z"
+  last_post_link: https://denkfabrikblog.de/2026/11/03/kurzfilm-the-ride/
   last_post_categories:
   - '*Realfilm'
+  - Auto
+  - Drama
+  - Erinnerung
   - Featured
-  - Komödie
+  - Geschichte
   - Kurzfilm
   - Kurzfilme
-  - Lustiges
-  - 'Regie: August Jorfald'
-  - Satire
-  - Scheiße
+  - Leben
+  - Menschen
+  - 'Regie: Slava Denisov'
   - 'Sprache: Englisch'
+  - Tod
   - Video
-  - Wirtschaft
-  - einkaufen
-  - verrückte Welt
   last_post_language: ""
-  last_post_guid: 8619cf1133057d553d9c6b706ddacf09
+  last_post_guid: 8d9f63c9844b8a0e04f944e69f54c167
   score_criteria:
     cats: 0
     description: 3

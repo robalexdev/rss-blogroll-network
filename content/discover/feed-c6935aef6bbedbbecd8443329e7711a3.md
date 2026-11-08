@@ -16,22 +16,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Paid Social
-  - iGaming Offer
-  - 未分类
+  - A/B测试
+  - Ai联盟营销
+  - CPM优化
+  - Media Buy
+  - Niche站赚钱
+  - iGaming营销
+  - 付费社交流量
+  - 内容营销
+  - 存款成本
+  - 存款转化
+  - 实操案例
+  - 投放策略
+  - 注册转化率
+  - 流量测试
+  - 游戏行业营销
+  - 社交广告投放
+  - 获客成本
+  - 被动收入
   relme: {}
-  last_post_title: Paid Social 跑 iGaming Offer:花 17,523 美元,以单次 1.16 美元买到 15,091 次目标转化
-  last_post_description: |-
-    # Paid Social 流量案例:CPM 贵 3.5 倍,目标转化成本反而低 38% ## 数据...
-    Paid Social 跑 iGaming Offer:花 17,523 美元,以单次 1.16 美元买到 15,091
-  last_post_date: "2026-10-10T07:37:28Z"
-  last_post_link: https://www.fuyuzhe.com/igaming-offer.html
+  last_post_title: iGaming 社交广告投放案例：30 天带来 7,375 次充值，单次转化成本 $9.89
+  last_post_description: 付费社交流量
+  last_post_date: "2026-11-06T07:01:01Z"
+  last_post_link: https://www.fuyuzhe.com/paid-social-igaming-deposit-case-study.html
   last_post_categories:
-  - Paid Social
-  - iGaming Offer
-  - 未分类
+  - A/B测试
+  - Ai联盟营销
+  - CPM优化
+  - Media Buy
+  - Niche站赚钱
+  - iGaming营销
+  - 付费社交流量
+  - 内容营销
+  - 存款成本
+  - 存款转化
+  - 实操案例
+  - 投放策略
+  - 注册转化率
+  - 流量测试
+  - 游戏行业营销
+  - 社交广告投放
+  - 获客成本
+  - 被动收入
   last_post_language: ""
-  last_post_guid: 42990cdfbbcf28101790796dae9f8ce8
+  last_post_guid: 063d80cbaaf6005b52a4412724565adf
   score_criteria:
     cats: 0
     description: 3

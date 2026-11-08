@@ -27,34 +27,37 @@ params:
   - https://kuechenlatein.com/comments/feed/
   - https://kuechenlatein.com/feed/
   categories:
-  - APÉRO
-  - COCKTAIL/DRINK
-  - Campari
-  - Ginger Ale
-  - Holunderblüten-Sirup
-  - Limetten
-  - Sommerfest
-  - festtagstauglich
+  - GRATIN
+  - KLASSIKER
+  - Käse
+  - Lauch
+  - Petersilie
+  - Pilze
+  - Schinken
+  - Sherry
+  - Weisswein
+  - Worcestershire
   - zum Vorbereiten
   relme: {}
-  last_post_title: 'COCKTAILSTUNDE #25: ROSA WOLKE'
-  last_post_description: "Rosa ist die Farbe der Herzensliebe. \nRosa ist die Farbe
-    der Verliebten, die sprichwÃ¶rtlichen rosa Wolken zeugen von unbeschreiblichem
-    GlÃ¼ck."
-  last_post_date: "2026-10-10T01:20:33Z"
-  last_post_link: https://felix.kitchen/2026/10/10/cocktail-rosa-wolke-bourbon-whiskey-holunderblueten-gingerale-campari/
+  last_post_title: LAUCH-SCHINKEN-ROLLEN «DE LUXE»
+  last_post_description: Die klassischen Lauch-Schinken-Rollen habe ich mit ein paar
+    Pilzen aufgepeppt!
+  last_post_date: "2026-11-04T01:38:29Z"
+  last_post_link: https://felix.kitchen/2026/11/04/lauch-schinken-rollen-pilze-farce-ueberbacken/
   last_post_categories:
-  - APÉRO
-  - COCKTAIL/DRINK
-  - Campari
-  - Ginger Ale
-  - Holunderblüten-Sirup
-  - Limetten
-  - Sommerfest
-  - festtagstauglich
+  - GRATIN
+  - KLASSIKER
+  - Käse
+  - Lauch
+  - Petersilie
+  - Pilze
+  - Schinken
+  - Sherry
+  - Weisswein
+  - Worcestershire
   - zum Vorbereiten
   last_post_language: ""
-  last_post_guid: ce8295de87ee73fc06b9823e7452d46c
+  last_post_guid: 53fc42b39e8ea152eb3a41c57c6e2283
   score_criteria:
     cats: 0
     description: 3

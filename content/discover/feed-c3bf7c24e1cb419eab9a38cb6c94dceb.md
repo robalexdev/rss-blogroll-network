@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Python 3.15's best new features
-  last_post_description: "Python 3.15 includes a UTF-8 default encoding, explicit
-    lazy imports, * unpacking in comprehensions, a new sampling profiler, sentinel,
-    frozendict, and more!\n  \n    A UTF-8 default encoding\n    \n    "
-  last_post_date: "2026-10-09T14:11:31Z"
-  last_post_link: https://www.pythonmorsels.com/python315/
+  last_post_title: Unnecessary syntax in Python
+  last_post_description: "Unnecessary syntax in Python isn't always unhelpful. An
+    explicit return None, an else, a keyword argument, or a trailing comma can make
+    your code more readable.\n  \n    Return None\n    \n      \n       "
+  last_post_date: "2026-11-04T18:00:00Z"
+  last_post_link: https://www.pythonmorsels.com/unnecessary-syntax/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2d22bc1aeb681a30f7b350a8b5f36310
+  last_post_guid: 20d6e85a3ee4ec8275edbf779a605b4b
   score_criteria:
     cats: 0
     description: 3

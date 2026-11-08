@@ -27,36 +27,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Ali Noorani
-  - American Journalism Project
-  - Barr Foundation
-  - Charitable Non Profit Sector
-  - Democracy
-  - MacArthur Foundation
-  - Mary Skelton Roberts
-  - Meet the Moment,
-  - Philanthropy Massachusetts
-  - Press Forward
+  - AI
+  - Academic Writing
+  - Artificial Intelligence
+  - Dartmouth College
+  - LLMs
+  - Scholarly Writing
+  - Scholarship
   relme: {}
-  last_post_title: 'Democracy: Our American Experiment, The Massachusetts Opportunity'
-  last_post_description: I returned to Boston this week for the annual meeting of
-    Philanthropy Massachusetts. We discussed the importance of courage, leadership,
-    and meeting the moment in this period of peril for our
-  last_post_date: "2026-10-04T15:00:00Z"
-  last_post_link: https://jpalfrey.blog/2026/10/04/democracy-our-american-experiment-the-massachusetts-opportunity/
+  last_post_title: 'Academic Writing and AI: What Rules Make the Most Sense?'
+  last_post_description: The abrupt resignation of the Provost of Dartmouth amidst
+    discussion about AI and academic work leads to lots of questions about disclosure
+    and the limits we should place on AI's role in scholarship.
+  last_post_date: "2026-11-02T00:46:33Z"
+  last_post_link: https://jpalfrey.blog/2026/11/02/academic-writing-and-ai-what-rules-make-the-most-sense/
   last_post_categories:
-  - Ali Noorani
-  - American Journalism Project
-  - Barr Foundation
-  - Charitable Non Profit Sector
-  - Democracy
-  - MacArthur Foundation
-  - Mary Skelton Roberts
-  - Meet the Moment,
-  - Philanthropy Massachusetts
-  - Press Forward
+  - AI
+  - Academic Writing
+  - Artificial Intelligence
+  - Dartmouth College
+  - LLMs
+  - Scholarly Writing
+  - Scholarship
   last_post_language: ""
-  last_post_guid: 9988c9f382521a690eb5ae43ff7add67
+  last_post_guid: ad1f96ac7b573486a39ba3f987c49318
   score_criteria:
     cats: 0
     description: 3

@@ -17,56 +17,60 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
+  - 18. Jahrhundert
   - 19. Jahrhundert
-  - 20.JH
-  - Churchill
-  - D'Arcy
-  - Erdöl
+  - Charles Edward Stuart
+  - Donald Cameron of Lochiel
+  - England
+  - Erinnerungskultur
+  - Flora MacDonald
+  - Frankreich
+  - Frühe Neuzeit
   - Großbritannien
-  - Industrialisierung
-  - Iran
-  - Kolonialismus
-  - Lakeview Gusher
-  - Marine
-  - Persien
+  - Jakobiten
+  - Lord George Murray
+  - Militärgeschichte
   - Podcastarchiv
-  - Russland
-  - Spindletop
-  - Texas
-  - USA
-  - Wirtschaftsgeschichte
-  - Ölkatastrophen
+  - Religionsgeschichte
+  - Schlacht bei Culloden
+  - Schottland
+  - Sir John Cope
+  - Skye Boat Song
+  - William Augustus, Duke of Cumberland
+  - William Kerr, Earl of Ancram
   relme:
     https://hemmer.land/@GeschichteFM: true
     https://www.geschichte.fm/: true
-  last_post_title: 'GAG576: Die D’Arcy-Konzession und die Anfänge des Erdölzeitalters'
+  last_post_title: 'GAG580: Die Schlacht bei Culloden'
   last_post_description: |-
-    Eine Geschichte über erste Ölbohrungen, Gusher und die weltpolitischen Folgen
-    The post GAG576: Die D’Arcy-Konzession und die Anfänge des Erdölzeitalters appeared first on Geschichten aus der
-  last_post_date: "2026-10-07T06:16:33Z"
-  last_post_link: https://www.geschichte.fm/archiv/gag576/
+    Eine Geschichte Ã¼ber den letzten Aufstand der Jakobiten und seine Folgen
+    The post GAG580: Die Schlacht bei Culloden appeared first on Geschichten aus der Geschichte.
+  last_post_date: "2026-11-04T09:24:39Z"
+  last_post_link: https://www.geschichte.fm/archiv/gag580/
   last_post_categories:
+  - 18. Jahrhundert
   - 19. Jahrhundert
-  - 20.JH
-  - Churchill
-  - D'Arcy
-  - Erdöl
+  - Charles Edward Stuart
+  - Donald Cameron of Lochiel
+  - England
+  - Erinnerungskultur
+  - Flora MacDonald
+  - Frankreich
+  - Frühe Neuzeit
   - Großbritannien
-  - Industrialisierung
-  - Iran
-  - Kolonialismus
-  - Lakeview Gusher
-  - Marine
-  - Persien
+  - Jakobiten
+  - Lord George Murray
+  - Militärgeschichte
   - Podcastarchiv
-  - Russland
-  - Spindletop
-  - Texas
-  - USA
-  - Wirtschaftsgeschichte
-  - Ölkatastrophen
+  - Religionsgeschichte
+  - Schlacht bei Culloden
+  - Schottland
+  - Sir John Cope
+  - Skye Boat Song
+  - William Augustus, Duke of Cumberland
+  - William Kerr, Earl of Ancram
   last_post_language: ""
-  last_post_guid: 9c0767ac3f4a13ce301ecf39be26795e
+  last_post_guid: ff5ad7f57badc18173926aac8ac35885
   score_criteria:
     cats: 0
     description: 0

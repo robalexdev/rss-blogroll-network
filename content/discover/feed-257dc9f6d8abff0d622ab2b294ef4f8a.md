@@ -1,6 +1,6 @@
 ---
 title: Han's blog
-date: "2026-09-30T16:14:13Z"
+date: "2026-11-06T16:22:13Z"
 description: ""
 params:
   feedlink: https://www.hankruiger.com/atom.xml

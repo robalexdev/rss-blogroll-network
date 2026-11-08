@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -25,33 +25,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Crime Analysis
-  - Criminal Justice
-  - LLM
   - Personal Productivity
-  - Python
-  - data science
   - scholarly
   - writing
   relme: {}
-  last_post_title: VerusCite is now $1, Crime De-Coder Store updates, CCJ Homicide
-    Report, and some more AI papers
-  last_post_description: For several minor updates across my different projects. One,
-    I have updated my Crime De-Coder store where I sell my books and software. Before,
-    it was a WooCommerce site, which worked ok (pure GUI
-  last_post_date: "2026-10-08T17:30:27Z"
-  last_post_link: https://andrewpwheeler.com/2026/10/08/veruscite-is-now-1-crime-de-coder-store-updates-ccj-homicide-report-and-some-more-ai-papers/
+  last_post_title: Why academics should self publish textbooks
+  last_post_description: 'I have self-published my two textbooks, Data Science for
+    Crime Analysis with Python, and Large Language Models for Mortals: A Practical
+    Guide for Analysts with Python. I have written about my set up'
+  last_post_date: "2026-10-14T13:21:58Z"
+  last_post_link: https://andrewpwheeler.com/2026/10/14/why-academics-should-self-publish-textbooks/
   last_post_categories:
-  - Crime Analysis
-  - Criminal Justice
-  - LLM
   - Personal Productivity
-  - Python
-  - data science
   - scholarly
   - writing
   last_post_language: ""
-  last_post_guid: 09644ec984b6461889b2c0a7f3d9e948
+  last_post_guid: dfe355a62c14e017459819a97ed596d6
   score_criteria:
     cats: 0
     description: 3

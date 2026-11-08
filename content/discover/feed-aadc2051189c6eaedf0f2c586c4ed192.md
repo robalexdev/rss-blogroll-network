@@ -1,6 +1,6 @@
 ---
 title: low poly brainblasts
-date: "2026-10-05T13:52:00Z"
+date: "2026-11-06T14:44:43Z"
 description: ""
 params:
   feedlink: https://lowpolybrainblasts.pika.page/posts_feed
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,26 +25,28 @@ params:
   recommended: []
   recommender: []
   categories:
-  - brainblast
-  - internet
-  - music
+  - identity
+  - mental health
+  - philosophy
+  - reflection
   - software development
   - stoic
   relme: {}
-  last_post_title: Hosting an ‘Internet Search Party’
-  last_post_description: Yes, a party about surfing the internet. I’m serious. I recently
-    hosted an in-person 'Internet Search Party’ (and single release) here in Boston.
-    The purpose and position of the party...
-  last_post_date: "2026-10-15T18:42:26Z"
-  last_post_link: https://lowpolybrainblasts.pika.page/posts/hosting-an-internet-search-party
+  last_post_title: An Artist at a 9-5
+  last_post_description: A tale as old as time Bruh. I set out to write about this
+    but ended up waxing philosophical, as I do time and again (lol).  Really been
+    feeling full...
+  last_post_date: "2026-11-06T14:44:43Z"
+  last_post_link: https://lowpolybrainblasts.pika.page/posts/an-artist-at-a-9-5
   last_post_categories:
-  - brainblast
-  - internet
-  - music
+  - identity
+  - mental health
+  - philosophy
+  - reflection
   - software development
   - stoic
   last_post_language: ""
-  last_post_guid: d5cf8b502c06033665949af4b4de0c59
+  last_post_guid: 46423f90dce8eaae25ab2dd1afd0941e
   score_criteria:
     cats: 0
     description: 0

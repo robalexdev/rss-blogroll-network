@@ -27,13 +27,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Going to Florida. brb
-  last_post_description: Going to Florida. brb
-  last_post_date: "2026-10-10T10:45:53Z"
-  last_post_link: https://adactio.com/notes/22795
+  last_post_title: Thursday session
+  last_post_description: Thursday session
+  last_post_date: "2026-11-05T21:00:38Z"
+  last_post_link: https://adactio.com/notes/22829
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ecd771fba8493c7dda4ffc388715d1e
+  last_post_guid: 18a4ac19572bca845c6c8a5bd274a6f2
   score_criteria:
     cats: 0
     description: 3

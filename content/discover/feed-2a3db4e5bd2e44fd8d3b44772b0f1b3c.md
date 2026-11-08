@@ -1,6 +1,6 @@
 ---
 title: Ben Oliver
-date: "2026-10-20T19:21:41Z"
+date: "2026-11-05T17:50:16Z"
 description: Ben's top-of-the-line website
 params:
   feedlink: https://www.bfoliver.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -29,15 +29,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Other Mommy
-  last_post_description: "\"Can I go into your heart?\"\n                        \n
-    \                       \n                    \n                    A girl (Arabella
-    Olivia Clark) is targeted by some demon that tries to take over"
-  last_post_date: "2026-10-20T19:21:41Z"
-  last_post_link: https://www.bfoliver.com/2026/othermommy
+  last_post_title: Primetime
+  last_post_description: "\"You see how this looks, right?\"\n                        \n
+    \                       \n                    \n                    The true story
+    of To Catch a Predator: the US show where the producers"
+  last_post_date: "2026-11-05T17:50:16Z"
+  last_post_link: https://www.bfoliver.com/2026/primetime
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 51535518bb9a5915e9a14f2b00cd84bd
+  last_post_guid: ae24a3c16d5ab5db6d65c5083bc9bf60
   score_criteria:
     cats: 0
     description: 3

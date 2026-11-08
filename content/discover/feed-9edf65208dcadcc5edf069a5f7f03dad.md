@@ -10,7 +10,7 @@ params:
     https://lieblingsalltag.de/: true
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Links von Saphirija
@@ -26,32 +26,35 @@ params:
   - https://www.jansens-pott.de/comments/feed/
   - https://www.jansens-pott.de/feed
   categories:
-  - Plotter
-  - Selbermachen
+  - Bergisches Land
+  - Landleben
+  - Leben
   relme: {}
-  last_post_title: 'Plotterliebe: Beschriftungen für den Pferdestall'
-  last_post_description: 'Mit dem Plotter habe ich diverse Dinge im Stall hübsch beschriftet
-    - von Futterschüsseln über Kisten bis hin zu den Sattelschränken:'
-  last_post_date: "2026-09-16T15:25:48Z"
-  last_post_link: https://lieblingsalltag.de/selbermachen/plotten-beschriftungen-pferdestall/?pk_campaign=feed&pk_kwd=plotten-beschriftungen-pferdestall
+  last_post_title: Wahnsinn am Arsch der Welt
+  last_post_description: In Zeiten horrender Spritpreise versucht man ja eigentlich,
+    so wenige Kilometer zu fahren wie nur möglich. Tja. Dummerweise wollten hier wohl,
+    kurz vor dem Winter, nochmal alle Bagger, Baken und
+  last_post_date: "2026-11-06T08:29:52Z"
+  last_post_link: https://lieblingsalltag.de/leben/wahnsinn-adw/?pk_campaign=feed&pk_kwd=wahnsinn-adw
   last_post_categories:
-  - Plotter
-  - Selbermachen
+  - Bergisches Land
+  - Landleben
+  - Leben
   last_post_language: ""
-  last_post_guid: 2e57d8d20d6f6a306c8acd5123f81d6c
+  last_post_guid: ffe6f02cfd267f17c1ad8b686f813083
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: Byte Tank - Pedro Lopes Blog
-date: "2026-10-04T09:53:30Z"
+date: "2026-10-24T11:20:58Z"
 description: ""
 params:
   feedlink: https://lopespm.com/atom.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -35,13 +35,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Survival Ball Versus: The Sabbatical Sprint'
+  last_post_title: Mufasa's Death
   last_post_description: ""
-  last_post_date: "2026-10-04T00:00:00Z"
-  last_post_link: https://lopespm.com/2026/10/04/survival_ball_versus.html
+  last_post_date: "2026-10-24T00:00:00Z"
+  last_post_link: https://lopespm.com/notes/2026/10/24/mufasa_death.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dc0faeb38df48ef6b5465efb462f46a2
+  last_post_guid: 00bd807e70e9819b18dd464a0db16727
   score_criteria:
     cats: 0
     description: 0

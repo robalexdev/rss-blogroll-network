@@ -15,24 +15,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - coding
-  - computer-graphics
-  - game-development
-  - hacking
-  - software-development
+  - personal-development
+  - personal-essay
+  - personal-growth
+  - self-reflection
+  - software-engineering
   relme: {}
-  last_post_title: Rolling Dice on a $60 handheld
+  last_post_title: Being Too Professional About Hobby Projects
   last_post_description: ""
-  last_post_date: "2026-05-25T00:15:13Z"
-  last_post_link: https://lmy.medium.com/rolling-dice-on-a-60-handheld-08be2780ad64?source=rss-7e8adfcc60fb------2
+  last_post_date: "2026-11-02T22:47:00Z"
+  last_post_link: https://lmy.medium.com/being-too-professional-about-hobby-projects-fb3375d18982?source=rss-7e8adfcc60fb------2
   last_post_categories:
-  - coding
-  - computer-graphics
-  - game-development
-  - hacking
-  - software-development
+  - personal-development
+  - personal-essay
+  - personal-growth
+  - self-reflection
+  - software-engineering
   last_post_language: ""
-  last_post_guid: ac5d0cec9939808e03946e5e05c014cf
+  last_post_guid: 11dd194677766e02fb99aa4027d1f4f4
   score_criteria:
     cats: 0
     description: 3

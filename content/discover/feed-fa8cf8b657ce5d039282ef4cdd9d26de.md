@@ -26,14 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'AI Naive: 用 AI 做“无用之用”的独立软件作品集'
-  last_post_description: 从去年下半年开始 AI Coding, 从 Claude Code 到 Codex, 从 Opus 4 到 Fable
-    5，我用 AI
-  last_post_date: "2026-08-30T00:00:00Z"
-  last_post_link: https://hutusi.com/flows/2026/08/30
+  last_post_title: 'Tela: 为独立网络而做的阅读器'
+  last_post_description: 中秋国庆假期，我用 AI 做了一款在线阅读工具：TelaRead（简称 Tela，[telaread.com](https://telaread.com)）。这是一个为独立博客而做的社交化阅读器，它通过
+  last_post_date: "2026-11-06T00:00:00Z"
+  last_post_link: https://hutusi.com/flows/2026/11/06
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 89e241b3dcc156178d5646ee62492c66
+  last_post_guid: 6eec4f8e1dd2d66b5cc8a2cdf035e49b
   score_criteria:
     cats: 0
     description: 3

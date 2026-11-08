@@ -19,22 +19,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - foursquare
-  - infillion
-  - swarm
+  - brands
+  - products
+  - via:kottke
   relme:
     https://www.gyford.com/phil/links/: true
-  last_post_title: Infillion to Acquire Foursquare, Closing the Loop Between Advertising
-    and Real-World Results - Infillion
-  last_post_description: oh no
-  last_post_date: "2026-10-04T10:26:17Z"
-  last_post_link: https://infillion.com/blog/infillion-to-acquire-foursquare-closing-the-loop-between-advertising-and-real-world-results/
+  last_post_title: Avoid — The Brand Ledger
+  last_post_description: '"Brands actively engaged in the enshittification playbook."
+    Interesting/useful. Also see the Approved etc lists. I''d like more UK brands
+    included. (via Kottke)'
+  last_post_date: "2026-11-06T09:34:01Z"
+  last_post_link: https://ledger.worseonpurpose.com/status/avoid
   last_post_categories:
-  - foursquare
-  - infillion
-  - swarm
+  - brands
+  - products
+  - via:kottke
   last_post_language: ""
-  last_post_guid: 624491ccf7b88279f96400f3f28459c5
+  last_post_guid: 8540fb419a7c9c7b10a20fa0caf8d899
   score_criteria:
     cats: 0
     description: 3

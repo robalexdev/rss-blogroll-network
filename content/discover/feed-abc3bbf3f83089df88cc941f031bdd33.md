@@ -1,6 +1,6 @@
 ---
 title: Zach Leatherman
-date: "2026-09-21T05:00:00Z"
+date: "2026-10-14T05:00:00Z"
 description: A web development blog written by @zachleat.
 params:
   feedlink: https://www.zachleat.com/web/feed/
@@ -10,7 +10,7 @@ params:
     https://www.zachleat.com/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: RSS Feeds for Clayton's Blogroll
@@ -46,13 +46,13 @@ params:
   - https://simonbc.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: “AI, make the website good”
+  last_post_title: All of my 300+ browser tabs are beautiful
   last_post_description: ""
-  last_post_date: "2026-09-21T05:00:00Z"
-  last_post_link: https://www.zachleat.com/web/ai-websites/
+  last_post_date: "2026-10-14T05:00:00Z"
+  last_post_link: https://www.zachleat.com/web/firefox-list-all-tabs/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e8aa58eb2d5b744b03651dd7f4688f2e
+  last_post_guid: 8fdf91e268545040750ef0ab6df7b46e
   score_criteria:
     cats: 0
     description: 3

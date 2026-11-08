@@ -1,6 +1,6 @@
 ---
 title: 把酒诗代码
-date: "2026-10-14T06:53:29Z"
+date: "2026-11-06T09:46:26Z"
 description: 是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）
 params:
   feedlink: https://102no.com/atom.xml
@@ -25,20 +25,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Apple
-  - 我是修电脑的
-  - 生活经验
+  - 生活
+  - 美食
+  - 说过的话
   relme: {}
-  last_post_title: 复活一个iPad 
-  last_post_description: 前几天用着的iPad的屏幕突然开始变成跑马灯了，就是屏幕下面一排背光貌似是坏了，变成了一排像是舞台灯的效果，而且有时候还的厉害。这个iPad也是
-  last_post_date: "2026-10-14T06:53:29Z"
-  last_post_link: https://102no.com/2026/10/14/fu-huo-yi-ge-ipad/
+  last_post_title: "回家做饭\U0001F962"
+  last_post_description: !!binary |
+    6L+Y5Zyo5LiK5a2m55qE5pe25YCZ77yM5pma5LiK5pS+5a2m5Zue5a6277yM5pyJ5pe25Y
+    CZ54i45aaI6YO95LiN5Zyo5a6277yM5oiR6Ieq5bex5bCx5byA5aeL5YGa6aWt5LqG77yM
+    5YmN6Z2i5paH56ug6K+06L+H5oiR6Ieq5bex5YGa6aWt5YGa55qE5pyA5aSa55qE5YW25a
+    6e5bCx5piv6JuL54KS6aWt77yM6YKj5pe25YCZ5LiA6Iis5Lit5Y2I5YE=
+  last_post_date: "2026-11-06T09:46:26Z"
+  last_post_link: https://102no.com/2026/11/05/hui-jia-zuo-fan/
   last_post_categories:
-  - Apple
-  - 我是修电脑的
-  - 生活经验
+  - 生活
+  - 美食
+  - 说过的话
   last_post_language: ""
-  last_post_guid: 34ebee445faf0e9cf9f1000111b9d7d4
+  last_post_guid: 0e0a56362511334dca8b28de0e0bd5a4
   score_criteria:
     cats: 0
     description: 3

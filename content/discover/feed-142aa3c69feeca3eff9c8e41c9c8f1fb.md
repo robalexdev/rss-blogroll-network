@@ -1,6 +1,6 @@
 ---
 title: grepular.com
-date: "2026-10-04T16:58:32Z"
+date: "2026-11-01T23:57:10Z"
 description: ""
 params:
   feedlink: https://www.grepular.com/atom
@@ -16,37 +16,39 @@ params:
   recommended: []
   recommender: []
   categories:
-  - dns
+  - linux
+  - security
   - sysadmin
   relme:
     https://mastodon.social/@grepular: true
     https://www.emailprivacytester.com/: true
     https://www.grepular.com/: true
-  last_post_title: GKG Net Bad Domain Registrar
+  last_post_title: Daily Automatic Updates, Safely
   last_post_description: |-
-    In the past I have recommended GKG as a domain registrar to
-    people. They have a simple website, advertise a support email address on their
-    front page, have a basic form and API for updating your DS
-  last_post_date: "2026-10-04T16:58:32Z"
-  last_post_link: https://www.grepular.com/GKG_Net_Bad_Domain_Registrar
+    If you have been paying attention, you'll have noticed a large increase in CVEs
+    recently. It looks like LLMs are being used to find many of them. In my own
+    experience of developing with an LLM, it
+  last_post_date: "2026-11-01T23:57:10Z"
+  last_post_link: https://www.grepular.com/Daily_Automatic_Updates_Safely
   last_post_categories:
-  - dns
+  - linux
+  - security
   - sysadmin
   last_post_language: ""
-  last_post_guid: 02cb3048ccac0f7c15de27fe3e66eb40
+  last_post_guid: 7816c6690d0ccbec4616167f9ac0f2a5
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

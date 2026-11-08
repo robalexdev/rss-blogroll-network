@@ -28,15 +28,16 @@ params:
     https://github.com/arubis: true
     https://www.dylanfitzgerald.net/: true
     https://xoxo.zone/@arubis: true
-  last_post_title: Substack, Posse, and the age of intellectual deindustrialization
-  last_post_description: I dislike and distrust Substack. It’s centralized, funded
-    by people I distrust, has an unmitigated history of giving a pass (and profiting
-    from) to some pretty hateful content, and could very well
-  last_post_date: "2026-06-27T20:28:00-06:00"
-  last_post_link: https://dylanfitzgerald.net/blog/substack-posse-and-deindustrialization/
+  last_post_title: October grooving. Looking for the next step. Community gratitude
+    in a world on fire.
+  last_post_description: |-
+    I’m basically out of toddler mode. Most night have decent sleep. It’s a game-changer.
+    It’s October. The leaves have taken on their autumn hues (far stronger this year than most in Denver;
+  last_post_date: "2026-09-17T17:08:00-06:00"
+  last_post_link: https://dylanfitzgerald.net/now/2025-10-24_october-grooving/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ce36c1e172592fd7cad0534610f851da
+  last_post_guid: a6583f77fc544244b6802d90c062b84e
   score_criteria:
     cats: 0
     description: 3

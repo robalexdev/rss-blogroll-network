@@ -24,28 +24,25 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Development Seed
-  - Statistics
-  - embeddings
-  - geospatial
-  - guide
-  - training
+  - New York Times
+  - Statistical Visualization
+  - Texas
+  - elections
+  - partisanship
   relme: {}
-  last_post_title: Primer for geospatial embeddings
-  last_post_description: 'For Development Seed, Kiri Carini and Martha Morrissey explain
-    what embeddings are and…Tags: Development Seed, embeddings, geospatial, guide,
-    training'
-  last_post_date: "2026-10-23T17:30:04Z"
-  last_post_link: https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/
+  last_post_title: Swings in Texas over the years
+  last_post_description: 'The New York Times produced a series of charts for the shift
+    in…Tags: elections, New York Times, partisanship, Texas'
+  last_post_date: "2026-11-06T10:11:17Z"
+  last_post_link: https://flowingdata.com/2026/11/06/swings-in-texas-over-the-years/
   last_post_categories:
-  - Development Seed
-  - Statistics
-  - embeddings
-  - geospatial
-  - guide
-  - training
+  - New York Times
+  - Statistical Visualization
+  - Texas
+  - elections
+  - partisanship
   last_post_language: ""
-  last_post_guid: 637897f28e9ace57ee340a438e8d531f
+  last_post_guid: fbf550cf610c59010c376d40486d0e41
   score_criteria:
     cats: 0
     description: 3

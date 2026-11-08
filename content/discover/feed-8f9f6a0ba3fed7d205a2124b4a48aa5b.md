@@ -16,36 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 20 Minuten vegane Suppe
+  - Curry Resteverwertung
+  - Curry mit Gemüse
+  - Einfaches Gemüse-Curry
+  - Gemüse Curry mit Kokosmilch
   - Hauptgerichte
   - Rezept
-  - Räuchertofu Suppe mit Glasnudeln
-  - Schnelle Tofu Suppe mit Glasnudeln
-  - Suppe mit Räuchertofu und Gemüse
-  - Tofu Suppe Resteküche
-  - einfache Tofu Suppe
-  - vegane Glasnudelsuppe
-  - vegane Suppe mit Kokosmilch
+  - schnelles Gemüse Curry
   relme: {}
-  last_post_title: Schnelle Tofu Suppe mit Glasnudeln & Gemüse (Rezept)
-  last_post_description: Schnelle Tofu Suppe mit Glasnudeln – würzig, leicht scharf
-    & voller Gemüse Du hast noch eine Möhre im Kühlschrank und ein paar Zutaten im
-    Vorratsschrank? Dann hast du eigentlich schon alles,
-  last_post_date: "2026-08-27T06:12:36Z"
-  last_post_link: https://zuckerschnee.de/rezept/schnelle-tofu-suppe-mit-glasnudeln/
+  last_post_title: Einfaches Gemüse-Curry (Rezept)
+  last_post_description: "Schnell, cremig, unkompliziert und wunderbar wandelbar Du
+    hast noch Gemüse im Kühlschrank, aber keine Lust, daraus fünf verschiedene Gerichte
+    zu zaubern? Dann mach einfach Curry daraus. \U0001F60A"
+  last_post_date: "2026-10-21T07:19:50Z"
+  last_post_link: https://zuckerschnee.de/rezept/einfaches-gemuse-curry/
   last_post_categories:
-  - 20 Minuten vegane Suppe
+  - Curry Resteverwertung
+  - Curry mit Gemüse
+  - Einfaches Gemüse-Curry
+  - Gemüse Curry mit Kokosmilch
   - Hauptgerichte
   - Rezept
-  - Räuchertofu Suppe mit Glasnudeln
-  - Schnelle Tofu Suppe mit Glasnudeln
-  - Suppe mit Räuchertofu und Gemüse
-  - Tofu Suppe Resteküche
-  - einfache Tofu Suppe
-  - vegane Glasnudelsuppe
-  - vegane Suppe mit Kokosmilch
+  - schnelles Gemüse Curry
   last_post_language: ""
-  last_post_guid: 5d5932620f74569904f47b95a6203dce
+  last_post_guid: 32a25630d691a3cd7e9bea67e61ed355
   score_criteria:
     cats: 0
     description: 3

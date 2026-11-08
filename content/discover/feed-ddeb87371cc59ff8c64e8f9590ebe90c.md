@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 污水处理厂的故事
+  last_post_title: 基于 CPU 的图像多分类建模实践
   last_post_description: ""
-  last_post_date: "2026-09-28T21:01:50+08:00"
-  last_post_link: https://yuanfan.rbind.io/posts/the-story-of-richer-getting-money/
+  last_post_date: "2026-11-02T19:32:22+08:00"
+  last_post_link: https://yuanfan.rbind.io/project/multi-image-classification/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9718f4009c14fbae8b5734593eee93b8
+  last_post_guid: 94e78a6291e9c7b87c30c695912b6d98
   score_criteria:
     cats: 0
     description: 3

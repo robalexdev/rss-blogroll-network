@@ -1,6 +1,6 @@
 ---
 title: Stephan Max
-date: "2026-10-02T15:46:52Z"
+date: "2026-10-29T21:27:09Z"
 description: ""
 params:
   feedlink: https://stephanmax.com/feed.xml
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -346,6 +346,7 @@ params:
   - https://jourfixfuer2.de/comments/feed/
   - https://jugendhackt.org/comments/feed/
   - https://kalkberg.kalkpost.de/?feed=comments-rss2
+  - https://www.kessler.social/feed
   - https://kresnik258gaming.wordpress.com/comments/feed/
   - https://lisacharlottemuth.com/feed.xml
   - https://localghost.dev/articles.xml
@@ -454,31 +455,34 @@ params:
   - https://www.visualcinnamon.com/index.xml
   - https://zines.cool/comments/feed/
   recommender:
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   categories:
-  - Music
+  - Creativity
+  - Game Development
   relme: {}
-  last_post_title: 'Bandcamp Friday: Home Match'
+  last_post_title: Game Development for Zinesters
   last_post_description: ""
-  last_post_date: "2026-10-02T15:46:52Z"
-  last_post_link: https://stephanmax.com/bandcamp-friday/
+  last_post_date: "2026-10-29T21:27:09Z"
+  last_post_link: https://stephanmax.com/game-development-for-zinesters/
   last_post_categories:
-  - Music
+  - Creativity
+  - Game Development
   last_post_language: ""
-  last_post_guid: a8e7444866905f343e74223d6ccd3582
+  last_post_guid: 123126331bd18520a16081f6a48bb88c
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 10
     relme: 0
     title: 3
     website: 2
-  score: 27
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

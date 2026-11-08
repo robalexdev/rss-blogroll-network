@@ -26,14 +26,14 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: Programmvorschau / ab 12.10.26
+  last_post_title: Programmvorschau / ab 02.11.26
   last_post_description: ""
-  last_post_date: "2026-10-08T12:07:44Z"
-  last_post_link: https://www.kackundsachgeschichten.de/programmvorschau-ab-12-10-26
+  last_post_date: "2026-10-30T09:46:50Z"
+  last_post_link: https://www.kackundsachgeschichten.de/programmvorschau-ab-02-11-26
   last_post_categories:
   - News
   last_post_language: ""
-  last_post_guid: fae0c69d3d03419fcd72e039eaa823ba
+  last_post_guid: 532082fdee9cb08e56b2898271dc8405
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: vale's timeline
-date: "2026-10-11T12:23:19Z"
+date: "2026-11-06T06:42:29Z"
 description: ""
 params:
   feedlink: https://fedi.vale.rocks/users/vale/feed.atom
@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Perhaps the path to human-level AI being taken by AI companies
-    is not to make more capable AI, bu...
+  last_post_title: I simulated the colour vision deficiencies here using SVG filters
+    replicating the Brettel-Viénot-...
   last_post_description: ""
-  last_post_date: "2026-10-11T12:23:19Z"
-  last_post_link: https://fedi.vale.rocks/objects/a8df7cc7-b625-4fb3-beec-e258557f97f4
+  last_post_date: "2026-11-06T06:42:29Z"
+  last_post_link: https://fedi.vale.rocks/objects/e15713cc-04d1-4240-a098-202ff6f7eb0e
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1e88fd48710744a1898124868583f36a
+  last_post_guid: 818c1de34997240dd2d209c082d950c3
   score_criteria:
     cats: 0
     description: 0

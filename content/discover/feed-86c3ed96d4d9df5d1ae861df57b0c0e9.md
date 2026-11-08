@@ -23,15 +23,16 @@ params:
   categories:
   - Article
   relme: {}
-  last_post_title: Porcelain
-  last_post_description: On the history of the wondrous material porcelain, its newest
-    version, and its uses in cooking, biotech, and materials science
-  last_post_date: "2026-10-21T10:12:00+01:00"
-  last_post_link: https://www.worksinprogress.news/p/porcelain
+  last_post_title: Reading is magic
+  last_post_description: On the abstraction caused by literacy; the focus on the immediate,
+    oral, and simple of the illiterate; and the intellectual poverty of the politics
+    of our coming world
+  last_post_date: "2026-10-28T22:57:00Z"
+  last_post_link: https://samkriss.substack.com/p/reading-is-magic
   last_post_categories:
   - Article
   last_post_language: ""
-  last_post_guid: 0216de996c0dde8d6fe5188892ee4070
+  last_post_guid: b0c6135f9959f0ea8020df01b9ad64c3
   score_criteria:
     cats: 0
     description: 3

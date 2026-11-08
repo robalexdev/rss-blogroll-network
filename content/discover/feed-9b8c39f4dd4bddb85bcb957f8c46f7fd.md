@@ -16,34 +16,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - VITAL-H
-  - 內在能力
-  - 抗老
-  - 瘦瘦針
-  - 鄭丁靚
+  - 惡性外耳炎
+  - 照護線上
+  - 糖尿病
+  - 綠膿桿菌
+  - 腦神經
   - 醫療健康
-  - 長壽
-  - 高齡醫學
+  - 高壓氧治療
   relme: {}
-  last_post_title: 從減肥藥到長生不老藥？美國砸千萬測試三款老藥，抗老的關鍵其實是「電池健康度」！
+  last_post_title: 不是癌症卻同樣致命！耳朵痛癢伴隨臉歪嘴斜，當心致死率極高的「惡性外耳炎」
   last_post_description: !!binary |
-    55u45L+h5aSn5a626YO96IG96YGO77yM54++5Zyo5pyA5aSv55qE5rib6IKl44CM55im55
-    im6Yed44CN5LiN5YOF6IO95o6n5Yi26KGA57OW44CB6auU6YeN77yM55Sa6Iez6KKr55m8
-    54++6IO96K235b+D44CB6K236IWO44CC5L2G5L2g55+l6YGT5ZeO77yf56eR5a245a625Y
-    CR54++5Zyo5pu05oqK6IWm562L5YuV5Yiw5LqG44CM5oqX6ICB44CN5Lg=
-  last_post_date: "2026-10-10T02:01:07Z"
-  last_post_link: https://pansci.asia/archives/382456
+    44CM5oOh5oCn5aSW6ICz54KO44CN5Lim6Z2e55mM55eH77yM6ICM5piv6Ie05q27546H5q
+    W16auY55qE5Zq06YeN6ICz6YGT5oSf5p+T77yM57Sw6I+M5oGQ5L6154qv6aGx5bqV6IiH
+    6IWm56We57aT5bCO6Ie06IeJ5q2q5Zi05pac44CC5q2k55eF5aW955m85pa86auY6b2h57
+    OW5bC/55eF5oKj562J5YWN55ar5L2O5LiL5peP576k77yM6Iul5Ye6548=
+  last_post_date: "2026-11-05T00:01:39Z"
+  last_post_link: https://pansci.asia/archives/382488
   last_post_categories:
-  - VITAL-H
-  - 內在能力
-  - 抗老
-  - 瘦瘦針
-  - 鄭丁靚
+  - 惡性外耳炎
+  - 照護線上
+  - 糖尿病
+  - 綠膿桿菌
+  - 腦神經
   - 醫療健康
-  - 長壽
-  - 高齡醫學
+  - 高壓氧治療
   last_post_language: ""
-  last_post_guid: 643db6328d87150bf95d579ab331fa21
+  last_post_guid: c2c75bc18d4bf9f9e86b1318374024e1
   score_criteria:
     cats: 0
     description: 3

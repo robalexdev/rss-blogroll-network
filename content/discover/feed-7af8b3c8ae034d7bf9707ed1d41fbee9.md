@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'No Logs, No Defence: Italy Makes AI Documentation Court-Orderable'
-  last_post_description: 27 July 2026. Regulation (EU) 2026/1744 enters into force.
-    Brussels pushes the AI Act’s high-risk obligations - logging, risk management,
-    technical documentation, human oversight - from 2 August
-  last_post_date: "2026-09-30T00:00:00Z"
-  last_post_link: https://digitaliziran.si/2026/09/30/no-logs-no-defence-italy-makes-ai-documentation-court-orderable.html
+  last_post_title: The Half-Life of an Instruction
+  last_post_description: |-
+    Two French examples. That is all it took.
+    I told DeepSeek’s larger model, V4 Pro, to translate every question into Russian. One earlier turn in which the assistant had answered in French was enough
+  last_post_date: "2026-10-26T00:00:00Z"
+  last_post_link: https://digitaliziran.si/2026/10/26/the-half-life-of-an-instruction.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e452b29e51e0b9e82ba03a27ea532aee
+  last_post_guid: 2d5ea5a41985d9013b12b6a2351eb203
   score_criteria:
     cats: 0
     description: 3

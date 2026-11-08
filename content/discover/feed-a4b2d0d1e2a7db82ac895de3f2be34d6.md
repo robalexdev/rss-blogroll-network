@@ -22,16 +22,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Deep Dive
+  - new-launch
   relme: {}
-  last_post_title: Is Abusing An AI Abuse?
-  last_post_description: The secret behind the viral AI torture chamber
-  last_post_date: "2026-10-09T13:30:05Z"
-  last_post_link: https://aisecret.us/is-abusing-an-ai-abuse/
+  last_post_title: The Bubble Got a Credit Rating
+  last_post_description: The bill arrived in October, in the name on the key.
+  last_post_date: "2026-11-06T13:30:42Z"
+  last_post_link: https://aisecret.us/black-october/
   last_post_categories:
-  - Deep Dive
+  - new-launch
   last_post_language: ""
-  last_post_guid: dad1e944c9e7e5c49215cee0e536b446
+  last_post_guid: e161afc64b524a831af9a7f6535cc2c8
   score_criteria:
     cats: 0
     description: 3

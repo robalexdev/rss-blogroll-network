@@ -1,6 +1,6 @@
 ---
 title: boricj’s entropy-increasing blog
-date: "2025-10-25T10:11:46+02:00"
+date: "2026-09-27T21:57:53+02:00"
 description: Increasing entropy inside the universe.
 params:
   feedlink: https://boricj.net/feed.xml
@@ -21,30 +21,34 @@ params:
     id: be15f1f70a7786fe4e89c9a39099dfb3
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - lesser-computer-sins
   relme:
     https://boricj.net/: true
     https://github.com/boricj: true
-  last_post_title: ghidra-delinker-extension and boricj do ACM CCS 2025
-  last_post_description: What?
-  last_post_date: "2025-10-25T02:00:00+02:00"
-  last_post_link: https://boricj.net/2025/10/25/ghidra-delinker-extension-and-boricj-do-acm-ccs-2025.html
-  last_post_categories: []
+  last_post_title: 'Lesser computer sins: Git proxy cache'
+  last_post_description: 'Picture this: youâ€™re a DevOps engineer in charge of an
+    on-premises, five-rack datacenter hosting a heavy CI/CD load. The local Atlassian
+    instance is being decommissioned and the Bitbucket'
+  last_post_date: "2026-09-27T14:00:00+02:00"
+  last_post_link: https://boricj.net/lesser-computer-sins/2026/09/27/git-proxy-cache.html
+  last_post_categories:
+  - lesser-computer-sins
   last_post_language: ""
-  last_post_guid: e50f62ab4e229c7c127f990b2cdded6c
+  last_post_guid: 3c5af0ef6f272b3b3746f8b6e744fb57
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     hasContent: 3
     hasPosts: 3
-    postcats: 0
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

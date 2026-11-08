@@ -6,7 +6,8 @@ params:
   feedlink: https://www.uscreditcardguide.com/zh/feed/
   feedtype: rss
   feedid: 94155ef4c3c97d45abee9bbfc3f34aac
-  websites: {}
+  websites:
+    https://www.uscreditcardguide.com/zh/: true
   blogrolls: []
   in_blogrolls:
   - title: 中文 RSS 聚合 by MoreRSS
@@ -15,31 +16,38 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Citibank 相关总结
-  - 花旗银行 Citibank
+  - Chase 信用卡
+  - 万豪旅享家 Marriott Bonvoy
+  - 摩根大通 Chase
+  - 无境外手续费
+  - 酒店卡
   relme: {}
-  last_post_title: Citi 给 Strata 系列引入了“一辈子一次”语言 取代了1/48规则【更新：会有弹窗告知】
-  last_post_description: 【2026.10 更新】
-  last_post_date: "2026-10-11T14:00:20Z"
-  last_post_link: https://www.uscreditcardguide.com/citi-once-per-lifetime-language/
+  last_post_title: Chase Marriott Bonvoy Boundless 信用卡【2026.11 更新：200k 史高开卡奖励！】
+  last_post_description: Chase Marriott Bonvoy Boundless Credit Card (曾用名 Chase Marriott
+    Rewards Premier Plus Credit Card) 万豪酒店 (昵称“马里奥”) 信用卡简介 【2026.11 更新】现在有一个 200k
+  last_post_date: "2026-11-06T15:01:45Z"
+  last_post_link: https://www.uscreditcardguide.com/chase-marriott-premier-plus/
   last_post_categories:
-  - Citibank 相关总结
-  - 花旗银行 Citibank
+  - Chase 信用卡
+  - 万豪旅享家 Marriott Bonvoy
+  - 摩根大通 Chase
+  - 无境外手续费
+  - 酒店卡
   last_post_language: ""
-  last_post_guid: d10f144e7dd72c14dde6dbbc65d6bcea
+  last_post_guid: ece025f755129de957722c6738bc71fd
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 17
+    website: 2
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

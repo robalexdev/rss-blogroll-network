@@ -19,16 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: We are all living inside of an obscure sci-fi film from 1970
-  last_post_description: |-
-    Imagine that a film was released this year in which the following happened:
-
-    An easily led US President is persuaded by a smug, egotistical tech bro to hand over complete control of the nation’s
-  last_post_date: "2026-10-23T16:24:00Z"
-  last_post_link: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/
+  last_post_title: AI Almost Made Me Quit Writing
+  last_post_description: In a previous blog, I said that I was contemplating giving
+    up writing fiction because of the onslaught of AI. I’m worried people will think
+    I use AI. I know that AI will likely scrape my book.
+  last_post_date: "2026-11-06T19:19:44Z"
+  last_post_link: https://joshgriffiths.site/ai-almost-made-me-quit-writing/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c0c79035b78d805ac8381e8eda472def
+  last_post_guid: 69f46e3745f871ca9f76527e2d24c008
   score_criteria:
     cats: 0
     description: 3

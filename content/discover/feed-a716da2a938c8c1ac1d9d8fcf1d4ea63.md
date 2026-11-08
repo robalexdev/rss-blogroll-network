@@ -17,31 +17,42 @@ params:
   recommender:
   - https://stephanmax.com/feed.xml
   categories:
-  - Deutschland
+  - Anne Carson
+  - Antike
+  - Christoper Nolan
+  - Emily Wilson
+  - Eros
   - Feuilleton im Internet
-  - Italien
-  - Politik
-  - WELT
-  - ZEIT
+  - Geryon
+  - Herakles
+  - Lyrik
+  - Nobelpreis
+  - Odyssee
+  - poesie
   - sticky
   relme: {}
-  last_post_title: In Italien sind die Züge pünktlich – Das akademisch-fortschrittliche
-    Bürgertum und die Lust am Niedergang
+  last_post_title: 'Mit Monstern spielen: Anne Carsons Schreiben'
   last_post_description: |-
-    Von John Reiter In einer Folge der TV-Serie „Fast wia im richtigen Leben“ von 1983 drängt ein deutsches Urlauberpaar in einem italienischen Restaurant…
-    Der Beitrag In Italien sind die Züge
-  last_post_date: "2026-09-23T05:30:00Z"
-  last_post_link: https://54books.de/in-italien-sind-die-zuege-puenktlich-das-akademisch-fortschrittliche-buergertum-und-die-lust-am-niedergang/
+    von Christina Dongowski Anne Carsons Übersetzungen klassischer griechischer Literatur haben die Grundlage für Christopher Nolans Odyssee gelegt. Dafür wird sie im Dezember mit…
+    Der Beitrag Mit
+  last_post_date: "2026-10-30T12:53:48Z"
+  last_post_link: https://54books.de/mit-monstern-spielen-anne-carsons-schreiben/
   last_post_categories:
-  - Deutschland
+  - Anne Carson
+  - Antike
+  - Christoper Nolan
+  - Emily Wilson
+  - Eros
   - Feuilleton im Internet
-  - Italien
-  - Politik
-  - WELT
-  - ZEIT
+  - Geryon
+  - Herakles
+  - Lyrik
+  - Nobelpreis
+  - Odyssee
+  - poesie
   - sticky
   last_post_language: ""
-  last_post_guid: 71a7c646a8eeaab9f4f0cd966b2e3244
+  last_post_guid: 421c4340e52a9fd3d561b314bcc751c7
   score_criteria:
     cats: 0
     description: 3

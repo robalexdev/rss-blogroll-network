@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The Endless Search for the Perfect EDC Bit Driver
-  last_post_description: This is part of The Endless Search, a series about gear I
-    can’t stop trying to perfect. The first one was The Endless Search for a Better
-    Ergonomic Keyboard.Some links in this post are affiliate
-  last_post_date: "2026-10-14T14:20:55Z"
-  last_post_link: https://www.evbart.com/the-endless-search-for-the-perfect-edc-bit-driver/
+  last_post_title: The Endless Search for the Perfect Power Bank
+  last_post_description: 'This is part of The Endless Search, a series about gear
+    I can’t stop trying to perfect. Previously: The Endless Search for a Better Ergonomic
+    Keyboard and The Endless Search for the Perfect EDC Bit'
+  last_post_date: "2026-11-01T12:55:12Z"
+  last_post_link: https://www.evbart.com/the-endless-search-for-the-perfect-power-bank/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 93f7f54c2cba66aa036f24f5811b9a54
+  last_post_guid: f9c1909832a7f7ceac766bdaaaaa861d
   score_criteria:
     cats: 0
     description: 3

@@ -34,15 +34,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Blog Theme Update Mermaid Support Is Here
+  last_post_title: When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared
   last_post_description: |-
     Introduction
-    The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into Markdown. No more drawing a diagram, exporting
-  last_post_date: "2026-09-17T11:14:20Z"
-  last_post_link: https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/
+    In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default namespace, and there was no way to switch
+  last_post_date: "2026-10-27T10:20:00Z"
+  last_post_link: https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 155b6bff37cd02e036071df7e9f132b9
+  last_post_guid: f0a8874da51430a47fa8169abff7b811
   score_criteria:
     cats: 0
     description: 3

@@ -19,13 +19,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 要不要把大模型搬回本地
-  last_post_description: 用过云端大模型的人，大概都撞过两堵墙：一是账单——哪怕用最便宜的
-  last_post_date: "2026-08-21T22:27:42+08:00"
-  last_post_link: https://data4fun.cc/blog/2026/08/post-20260821/
+  last_post_title: 如何用 AI 接手一个新项目？
+  last_post_description: !!binary |
+    55Sx5LqO5bel5L2c5Y6f5Zug77yM5oiR56qB54S25o6l5omL5LqG5LiA5Liq5q+U6L6D5a
+    Sn55qE6aG555uu44CCCuiDjOaZr+aWh+aho+e8uuWkseS4pemHje+8jOS6pOaOpeaXtuaL
+    v+WIsOeahOS4u+imgeWwseaYr+S4gOS7veS7o+eggeOAgumhueebruWBmuS7gOS5iOOAge
+    WQhOS4quaooeWdl+aAjuS5iOmFjeWQiOOAgeacrOWcsOWmguS9leWQr+U=
+  last_post_date: "2026-10-12T11:49:06+08:00"
+  last_post_link: https://data4fun.cc/blog/2026/10/post-20261012/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1087134066b32f9214c9dccc2f2c70fe
+  last_post_guid: 9dfb10ba47e72f371ea548daa759d5f9
   score_criteria:
     cats: 0
     description: 3

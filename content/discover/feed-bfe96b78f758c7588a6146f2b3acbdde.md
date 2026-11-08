@@ -25,37 +25,33 @@ params:
   - https://derschreiben.de/feed/
   categories:
   - Sport / Fun
-  - arthritis
-  - eMTB
-  - mountain biking
+  - Travel
   relme:
     https://johnsad.ventures/: true
-  last_post_title: Returning To Mountain Biking After 20 Years
-  last_post_description: Long time readers of this blog may recall I spent a lot of
-    my 20s mountain biking. Pretty much all my spare time was spent riding up hills,
-    then riding down them again all around Yorkshire and the
-  last_post_date: "2026-04-20T12:56:07Z"
-  last_post_link: https://johnsad.ventures/2026/04/20/returning-to-mountain-biking-after-20-years/
+  last_post_title: A Road Trip To The Alps and Dolomites
+  last_post_description: About three years ago I watched a YouTube video of a couple
+    of trail runners running the Alta Via 2 in the Dolomites. It’s a 100 mile route
+    through the Dolomite mountains in northern Italy and as
+  last_post_date: "2026-10-24T15:15:44Z"
+  last_post_link: https://johnsad.ventures/2026/10/24/a-road-trip-to-the-alps-and-dolomites/
   last_post_categories:
   - Sport / Fun
-  - arthritis
-  - eMTB
-  - mountain biking
+  - Travel
   last_post_language: ""
-  last_post_guid: aae09de998900425fa5ee72311917aef
+  last_post_guid: 8eeece7366c32304119518aa39a3db38
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

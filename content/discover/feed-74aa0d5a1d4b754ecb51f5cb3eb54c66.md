@@ -23,7 +23,7 @@ params:
   last_post_description: |-
     Today, for the first time, I used Apple’s “Describe an Extension” feature in Safari to have Apple Intelligence make a little useful extension for me and I was impressed.
     I hate clicking a link
-  last_post_date: "2026-10-19T20:28:41-04:00"
+  last_post_date: "2026-10-19T19:28:41-05:00"
   last_post_link: https://samdavies.me/2026/10/19/youtube-link-marker-safari-extension.html
   last_post_categories: []
   last_post_language: ""

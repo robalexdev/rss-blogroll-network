@@ -19,28 +19,38 @@ params:
     id: c4e30b2e549839519f2711d98fed209e
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - "3C \U0001F4BB"
+  - "AI \U0001F916"
+  - "想法 \U0001F4AD"
+  - "科技自主 \U0001F513"
+  - "離線 \U0001F4F4"
   relme: {}
-  last_post_title: 集中與分散
-  last_post_description: "\U0001F343 操場佈滿了落葉，好髒唷！快拿掃把，把它們集中到角落──葉子還是一樣多，但是操場乾淨了。"
-  last_post_date: "2026-10-11T00:00:00Z"
-  last_post_link: https://wiwi.blog/blog/gather-and-spread
-  last_post_categories: []
+  last_post_title: 算力即自由
+  last_post_description: 在這個時代，掌握算力運算能力，就是掌握自由。
+  last_post_date: "2026-11-06T00:00:00Z"
+  last_post_link: https://wiwi.blog/blog/compute-is-freedom
+  last_post_categories:
+  - "3C \U0001F4BB"
+  - "AI \U0001F916"
+  - "想法 \U0001F4AD"
+  - "科技自主 \U0001F513"
+  - "離線 \U0001F4F4"
   last_post_language: ""
-  last_post_guid: e4a38c2bc6b2eb156ceebed991938b09
+  last_post_guid: 805b80e68ff2c5c5194e25c6e435f713
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 0
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

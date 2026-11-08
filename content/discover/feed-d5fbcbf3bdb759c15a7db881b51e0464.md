@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended:
@@ -42,31 +42,35 @@ params:
   - https://www.sports-insider.de/feed/atom/
   recommender: []
   categories:
-  - Kyiv
   - Laufen
   - Laufen macht Spaß
+  - Luxembourg
   - RunnersOfMastodon
   - Running
+  - SunriseRun
+  - TumorRunner
   relme:
     https://derentspannen.de/: true
     https://derlaufen.de/: true
     https://derschreiben.de/: true
     https://derschreiben.de/category/tumor/: true
     https://social.vivaldi.net/@DerEntspannende: true
-  last_post_title: Morgenlauf im beginnenden Herbst
-  last_post_description: Heute morgen war … warm und schwül nach einem Morgenregen.
-    Der Sommer ist definitiv vorbei, auch wenn es heute noch einmal fast 20 Grad wurden.
-    So langsam wollte ich eigentlich jetzt dem Kyiv
-  last_post_date: "2026-10-01T16:49:53Z"
-  last_post_link: https://derlaufen.de/morgenlauf-im-beginnenden-herbst/?pk_campaign=feed&pk_kwd=morgenlauf-im-beginnenden-herbst
+  last_post_title: SunriseRun Luxembourg-Kirchberg
+  last_post_description: Seit Jahren eine Tradition bei Veranstaltungen, lief ich
+    auch am zweiten Tag des Barcamps TRAFO GR einen Morgenlauf. Ich hoffte aufgrund
+    der Wettervorhersage auf einen wunderbaren Sonnenaufgang bei
+  last_post_date: "2026-10-30T07:03:46Z"
+  last_post_link: https://derlaufen.de/sunriserun-luxembourg-kirchberg/?pk_campaign=feed&pk_kwd=sunriserun-luxembourg-kirchberg
   last_post_categories:
-  - Kyiv
   - Laufen
   - Laufen macht Spaß
+  - Luxembourg
   - RunnersOfMastodon
   - Running
+  - SunriseRun
+  - TumorRunner
   last_post_language: ""
-  last_post_guid: 4ead8c7720685b7abfb4392c9bca1a43
+  last_post_guid: 9e7613f68f00a38f4c227e3145bb7725
   score_criteria:
     cats: 0
     description: 3

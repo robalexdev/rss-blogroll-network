@@ -16,27 +16,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Abkühlung
-  - Desserts
-  - Eis
-  - Hafer
+  - Backen
+  - Baumstriezel
   - Rezepte
-  - Sommer
+  - Weihnachten
+  - Weihnachtsmarkt
+  - Winter | Weihnachten
   relme: {}
-  last_post_title: Hafer-Eiscreme-Cookie-Sandwiches – Knusprige Abkühlung [Anzeige]
-  last_post_description: Der Beitrag Hafer-Eiscreme-Cookie-Sandwiches – Knusprige
-    Abkühlung [Anzeige] erschien zuerst auf Lebkuchennest.
-  last_post_date: "2026-08-10T06:37:33Z"
-  last_post_link: https://www.lebkuchennest.de/hafer-eiscreme-cookie-sandwiches/
+  last_post_title: Baumstriezel mit Gewürzzucker – Foodblogger Adventskalender
+  last_post_description: Der Beitrag Baumstriezel mit Gewürzzucker – Foodblogger Adventskalender
+    erschien zuerst auf Lebkuchennest.
+  last_post_date: "2026-11-05T15:51:38Z"
+  last_post_link: https://www.lebkuchennest.de/baumstriezel-mit-gewuerzzucker-foodblogger-adventskalender/
   last_post_categories:
-  - Abkühlung
-  - Desserts
-  - Eis
-  - Hafer
+  - Backen
+  - Baumstriezel
   - Rezepte
-  - Sommer
+  - Weihnachten
+  - Weihnachtsmarkt
+  - Winter | Weihnachten
   last_post_language: ""
-  last_post_guid: 523c1ea3d1fa8ab5dad7faa951b50dea
+  last_post_guid: 8c35d3f8b7a1cccf28acde0c2a52abee
   score_criteria:
     cats: 0
     description: 3

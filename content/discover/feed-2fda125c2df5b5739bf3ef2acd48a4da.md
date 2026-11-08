@@ -1,6 +1,6 @@
 ---
 title: Nach Redaktionsschluss – Der Medienpodcast
-date: "2026-10-09T15:36:00+02:00"
+date: "2026-11-06T15:35:00+01:00"
 description: Die Sendung ist vorbei, der Schreibtisch aufgeräumt. Jetzt diskutieren
   wir mit Ihnen über Ihre Fragen zu Journalismus und Medienthemen. „Nach Redaktionsschluss“
   ist der Medienpodcast der
@@ -21,16 +21,15 @@ params:
   categories:
   - Society & Culture
   relme: {}
-  last_post_title: Lautstärke runter, Publikum rein - Was Museen und Radio voneinander
-    lernen können
-  last_post_description: 'Ob Museum oder Rundfunk: wie gelingt es, dass Menschen sich
-    willkommen fühlen und Vertrauen schenken? Mit Simone Mergen (Haus der Geschichte)
-    und Christiane Florin (Dlf), vom b:future-Festival Bonn.'
-  last_post_date: "2026-10-09T15:35:00+02:00"
-  last_post_link: https://www.deutschlandfunk.de/lautstaerke-runter-publikum-rein-was-museen-und-radio-voneinander-lernen-koennen-100.html
+  last_post_title: Geschichten erzählen - Schadet Storytelling dem Journalismus?
+  last_post_description: Der Autor Clemens Böckmann findet, Storytelling gefährde
+    die Glaubwürdigkeit des Journalismus. Stimmt das oder wird das Handwerk oft missverstanden?
+    Darüber spricht er mit dem Journalisten und
+  last_post_date: "2026-11-06T15:35:00+01:00"
+  last_post_link: https://www.deutschlandfunk.de/geschichten-erzaehlen-schadet-storytelling-dem-journalismus-100.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80f1bd7f0df69129de83d82b42f449a8
+  last_post_guid: 7b2bb9db64dea446b1fb5dda3517dfba
   score_criteria:
     cats: 1
     description: 3

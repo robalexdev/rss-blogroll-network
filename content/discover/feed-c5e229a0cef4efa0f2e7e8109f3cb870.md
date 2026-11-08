@@ -16,16 +16,17 @@ params:
     id: b783a837954aa02669ccd91156b7fdd2
   recommended: []
   recommender:
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Sa 7.11.: Bärchen und die Milchbubis + Depression und Lebensfreude'
-  last_post_description: Sa, 7. November 2026, 20:00 Uhr
-  last_post_date: "2026-10-08T12:36:44+02:00"
-  last_post_link: https://ajz-erfurt.com/veranstaltungen/2026-11-07-barchen-und-die-milchbubis-depression-und-lebensfreude
+  last_post_title: 'Sa 12.12.: Fight like a GRRRL'
+  last_post_description: Sa, 12. Dezember 2026, 19:00 Uhr
+  last_post_date: "2026-11-03T18:01:38+01:00"
+  last_post_link: https://ajz-erfurt.com/veranstaltungen/2026-12-12-fight-like-a-grrrl
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f4a96102823185383e5947cf5e622da5
+  last_post_guid: f9d0ea5886f02bb10e5cdadd052a708c
   score_criteria:
     cats: 0
     description: 3

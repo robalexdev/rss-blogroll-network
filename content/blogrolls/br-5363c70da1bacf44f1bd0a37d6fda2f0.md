@@ -1,6 +1,6 @@
 ---
 title: Andere Blogs und Webseiten von Martha
-date: Sat, 03 Oct 2026 02:02:02 +0000
+date: Fri, 06 Nov 2026 19:36:30 +0000
 description: ""
 params:
   link: https://bunte-kuechenabenteuer.de/blogroll/?opml=
@@ -35,6 +35,9 @@ params:
   - title: Mausloch
     description: Herzlich willkommen im Mausloch!
     id: 29f2baebc72fab4d8ba95490e4eb9e44
+  - title: Schotterschreck
+    description: Spaß an bunter Natur
+    id: 2a654048068806b1f875319a39aa4f2d
   - title: Internetrecht
     description: Aktuelle Urteile und News zu den rechtlichen Fragen des Internet.
       BeitrÃ¤ge von RechtsanwÃ¤lten, Checklisten und Tools.
@@ -78,6 +81,9 @@ params:
   - title: Fliederbaum
     description: ""
     id: 859bd726bbe9a489c81873135fc2c968
+  - title: Kokopelli Design
+    description: Kreative Explosionen! Creative explosions!
+    id: 8cd83707e8fe3846040722b25115ca2a
   - title: Helden der Vorzeit
     description: '- das gute Leben ausprobieren -'
     id: 8f1910b2c5ef89b917f003475c34b2ca
@@ -96,6 +102,9 @@ params:
   - title: Vive la réduction!
     description: Sauce ou barbarie!
     id: b59c4c64ae2023a3810cf01d801b0c71
+  - title: dblog
+    description: alive and kicking
+    id: c07a3f96d5964b3b5825ecd30d1db152
   - title: haldewitzka
     description: Schicht im Schacht? Ruhestand mit Nebenwirkungen!
     id: c4b2615ea1b987ce7046d13c35a1c2ef

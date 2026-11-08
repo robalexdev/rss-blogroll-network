@@ -1,6 +1,6 @@
 ---
 title: Elmagnifico's Blog
-date: "2026-10-08T18:25:04+08:00"
+date: "2026-11-05T20:12:03+08:00"
 description: 全栈、后端、嵌入式、maya与游戏 | elmagnifico， Full Stack Engineer & Back-end Engineer
   & Embedded System Lover | 这里是elmagnifico的个人博客，君子之交淡如水。
 params:
@@ -22,23 +22,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Car
-  - Su7 Ultra
-  - 旅游
+  - AI
+  - Hack
+  - Security
+  - Web
   relme: {}
-  last_post_title: 深圳-拉萨自驾-游记
+  last_post_title: 记一次报警和Web入侵对抗
   last_post_description: |-
     Foreword
 
-    如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，拖车到成都再开
-  last_post_date: "2026-10-06T00:00:00+08:00"
-  last_post_link: https://elmagnifico.tech/2026/10/06/shenzhen-lasa-ontheway/
+    万万没想到，有一天得代表公司报警，实际体验并不好，很多事情即使在今天，科技这么发达，服务这么健全，也是难以处理的。
+
+    报警
+
+    事由是
+  last_post_date: "2026-11-05T00:00:00+08:00"
+  last_post_link: https://elmagnifico.tech/2026/11/05/Web-Safe-Confrontation/
   last_post_categories:
-  - Car
-  - Su7 Ultra
-  - 旅游
+  - AI
+  - Hack
+  - Security
+  - Web
   last_post_language: ""
-  last_post_guid: eba7f92d5c2afd28d12e7dde3cf7fb04
+  last_post_guid: 7ce88b356d13602992a44e2e9bbe9a34
   score_criteria:
     cats: 0
     description: 3

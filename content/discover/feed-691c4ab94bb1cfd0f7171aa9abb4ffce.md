@@ -1,6 +1,6 @@
 ---
 title: Gus Van Horn
-date: "2026-10-10T03:13:28-06:00"
+date: "2026-11-06T07:03:41-06:00"
 description: the online diary and political musings of an American man
 params:
   feedlink: https://gusvanhorn.blogspot.com/feeds/posts/default
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   recommended: []
@@ -22,13 +22,13 @@ params:
   relme:
     https://gusvanhorn.blogspot.com/: true
     https://www.blogger.com/profile/05126749051688217781: true
-  last_post_title: Friday Funnies
+  last_post_title: Four Random Things
   last_post_description: ""
-  last_post_date: "2026-10-09T06:42:01-06:00"
-  last_post_link: https://gusvanhorn.blogspot.com/2026/10/friday-funnies.html
+  last_post_date: "2026-11-06T07:03:41-06:00"
+  last_post_link: https://gusvanhorn.blogspot.com/2026/11/four-random-things.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 6285c6ceb56d7db25a7c7d5d22397ef5
+  last_post_guid: 30e03f173ab71316eadd48df58fc5518
   score_criteria:
     cats: 0
     description: 3

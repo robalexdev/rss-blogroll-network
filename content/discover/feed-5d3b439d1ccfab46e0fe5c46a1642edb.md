@@ -37,26 +37,24 @@ params:
   - https://stephanmax.com/feed.xml
   - https://wirres.net/feed/river/
   categories:
-  - Failed State Berlin
-  - Modernes Leben
-  - Neuköllner Bilderbogen
-  - Photographie
-  - Verkehr
+  - Creative Coding
+  - NodeBox
+  - PlotDevice
+  - Python
   relme: {}
-  last_post_title: 'Das Blau des Grauens: »Tiere auf der Strecke«'
-  last_post_description: 'Heute hatte mich die kaputtgesparte Berliner S-Bahn mit
-    einer neuen Ausrede überrascht, mit der sie ihre Unzuverlässigkeit vertuschen
-    will: »Tiere auf der Strecke« – das ist neu, das hatte ich'
-  last_post_date: "2026-10-08T18:05:00Z"
-  last_post_link: https://kantel.github.io/posts/2026100801_tiere_auf_der_strecke/
+  last_post_title: PlotDevice – noch ein Knotenschachtel-Klon
+  last_post_description: 'Nach dem vergeblichen Versuch gestern, P5.js zu überreden,
+    Bilder als Vektorgraphiken abzuspeichern, rumorte es ständig in meinem Hinterkopf:
+    Gab es da nicht noch einen Knotenschachtel-Klon?'
+  last_post_date: "2026-11-06T18:40:00Z"
+  last_post_link: https://kantel.github.io/posts/2026110601_plot_device/
   last_post_categories:
-  - Failed State Berlin
-  - Modernes Leben
-  - Neuköllner Bilderbogen
-  - Photographie
-  - Verkehr
+  - Creative Coding
+  - NodeBox
+  - PlotDevice
+  - Python
   last_post_language: ""
-  last_post_guid: 3d57f4fe786fc2ae0d565675b789696d
+  last_post_guid: d1b15426ea3fcc2fa055dd3882fd0fcd
   score_criteria:
     cats: 0
     description: 3

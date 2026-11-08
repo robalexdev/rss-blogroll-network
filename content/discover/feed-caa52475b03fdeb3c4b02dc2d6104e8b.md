@@ -1,6 +1,6 @@
 ---
 title: shellsharks All Content
-date: "2026-10-11T17:23:10-04:00"
+date: "2026-11-06T13:46:45-05:00"
 description: Writings on infosec, technology and life
 params:
   feedlink: https://shellsharks.com/feeds/all-feed.xml
@@ -20,18 +20,20 @@ params:
     description: ""
     id: e79d34746977a283ee12bf2f27dfee7a
   recommended: []
-  recommender: []
+  recommender:
+  - https://taonaw.com/feed.xml
+  - https://taonaw.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Scroll quadrāgintā sextus
-  last_post_description: Welcome to volume forty-six of Scrolls, a newsletter for
-    sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week
-    we’re thankful for the Indieweb, we share a good reason
-  last_post_date: "2026-07-10T16:40:00-04:00"
-  last_post_link: https://shellsharks.com/scrolls/scroll/2026-07-10
+  last_post_title: Scroll ūndēquīnquāgintā
+  last_post_description: Welcome to volume forty-nine of Scrolls, a newsletter for
+    sharing cool stuff from the IndieWeb & Cybersecurity realms. This week we rock
+    out on the IndieWeb, and we do plenty of computer touching (as
+  last_post_date: "2026-11-06T10:06:00-05:00"
+  last_post_link: https://shellsharks.com/scrolls/scroll/2026-11-06
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3fb0b4d1e3fdedb67156a75cefdcadc2
+  last_post_guid: eef5ca5dcdb6ffd609f6f342043e4e21
   score_criteria:
     cats: 0
     description: 3

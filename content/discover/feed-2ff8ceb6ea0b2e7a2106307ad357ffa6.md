@@ -16,27 +16,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Aus dem Ofen
-  - Fleisch
-  - Für Partys
-  - Leckere Mahlzeiten
-  - Olivenöl
+  - Backen & Naschen
+  - Nachtisch
+  - Torten
   relme: {}
-  last_post_title: Leckere Hackfleisch-Blätterteig-Rolle
+  last_post_title: Grundrezept für einen Numbercake
   last_post_description: |-
-    https://www.resipis.de/wp-content/uploads/2020/08/hackfleisch-blaetterteig-rolle-super-lecker-einfach-rezept.jpg
+    https://www.resipis.de/wp-content/uploads/2026/10/numbercake-super-einfaches-rezept-nummerkuchen.jpg
 
-    Leckeres Essen kann so einfach sein – und was könnte besser dazu passen als eine
-  last_post_date: "2026-10-10T07:31:54Z"
-  last_post_link: https://www.resipis.de/rezepte/hackfleisch-blaetterteig-rolle-lecker-einfach/
+    Wir zeigen dir, wie du eine leckere Zahlentorte bzw. Buchstabentorte zuhause selber machen kannst
+  last_post_date: "2026-10-28T15:28:18Z"
+  last_post_link: https://www.resipis.de/rezepte/grundrezept-fuer-einen-numbercake-lettercake/
   last_post_categories:
-  - Aus dem Ofen
-  - Fleisch
-  - Für Partys
-  - Leckere Mahlzeiten
-  - Olivenöl
+  - Backen & Naschen
+  - Nachtisch
+  - Torten
   last_post_language: ""
-  last_post_guid: 236f312fa44f505d22ec6eef5842b5e1
+  last_post_guid: 757097041ab8fc87fd2566d1872616eb
   score_criteria:
     cats: 0
     description: 3

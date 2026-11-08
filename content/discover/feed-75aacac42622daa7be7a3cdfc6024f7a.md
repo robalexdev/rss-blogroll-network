@@ -19,15 +19,16 @@ params:
   categories: []
   relme:
     https://buttondown.com/ericwbailey: true
-  last_post_title: '[SC 2.4.4] Tragically, time is linear'
-  last_post_description: "Last week my final official act at GitHub went live, and
-    I wrote about it! \nI didn't share it in last week's newsletter because the news
-    broke after Wednesday, which is when I typically send this"
-  last_post_date: "2026-10-08T01:01:36Z"
-  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-tragically-time-is-linear/
+  last_post_title: '[SC 2.4.4] For a change'
+  last_post_description: |-
+    There is a lot of work that needs to be done, but it is still nice to feel some hope for a change.
+
+    Amazon tells engineers to stop ‘tokenmaxxing’ to look productive — says AI will be central to
+  last_post_date: "2026-11-05T00:23:26Z"
+  last_post_link: https://buttondown.com/ericwbailey/archive/sc-244-for-a-change/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 98354a01305163c869e830edab76c00f
+  last_post_guid: 5d117116c6d60c2250a4bff09beda05a
   score_criteria:
     cats: 0
     description: 3

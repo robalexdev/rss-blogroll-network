@@ -28,15 +28,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Bookmarked: Programming As A Hobby In The Age Of AI'
-  last_post_description: This is no longer true. In a world where AI generates the
-    code, my syntax explorations simply don’t matter. My digging into the edge cases
-    of a language or a framework have become irrelevant. My
-  last_post_date: "2026-10-19T01:30:07Z"
-  last_post_link: https://gurupanguji.com/blog/2026/10/19/programming-as-a-hobby-in-the-age-of-ai/
+  last_post_title: 'Bookmarked: Discord is ditching Electron and its new app uses
+    less RAM | The Verge'
+  last_post_description: Discord is finally giving up on Electron, the cross-platform
+    framework that lets developers build desktop apps using web technologies. Electron
+    web apps are notoriously heavy on system resources, and
+  last_post_date: "2026-11-06T00:15:24Z"
+  last_post_link: https://gurupanguji.com/blog/2026/11/06/discord-is-ditching-electron-and-its-new-app-uses-less-ram-the-verge/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 96d5073af52d317edf55c3a64f2f240a
+  last_post_guid: 7e4a1a507c713d71e82f2e960bd6d190
   score_criteria:
     cats: 0
     description: 3

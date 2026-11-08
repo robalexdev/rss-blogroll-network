@@ -16,28 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - burnt basque cheesecake
-  - cheesecake San Sebastian
-  - cheesecake al forno
-  - cheesecake basca brucia
-  - tarta de queso Al Vina
-  - torte da credenza e cake
+  - gelati e sorbetti
+  - gelatiera kitchenaid
+  - gelato alla nutella fatto in casa
+  - gelato senza panna
+  - ricetta gelato alla Nutella
   relme: {}
-  last_post_title: Non è una cheesecake BASCA
-  last_post_description: A prima vista potrebbe sembrare una cheesecake dimenticata
-    in forno qualche minuto di troppo. In realtà è proprio quella superficie un pò
-    più scura, quasi caramellata, a rendere la
-  last_post_date: "2026-05-28T13:23:25Z"
-  last_post_link: https://www.gabilagerardi.it/torte-da-credenza-e-cake/non-e-una-cheesecake-basca/
+  last_post_title: Gelato alla Nutella® con solo 3 ingredienti
+  last_post_description: Questa Ã¨ la ricetta di un gelato alla NutellaÂ® fatto in
+    casa, con soli tre ingredienti e senza aggiungere panna, zucchero o uova. Una
+    ricetta essenziale, pensata per valorizzare
+  last_post_date: "2026-10-22T16:43:47Z"
+  last_post_link: https://www.gabilagerardi.it/gelati/gelato-alla-nutella-3-ingredienti/
   last_post_categories:
-  - burnt basque cheesecake
-  - cheesecake San Sebastian
-  - cheesecake al forno
-  - cheesecake basca brucia
-  - tarta de queso Al Vina
-  - torte da credenza e cake
+  - gelati e sorbetti
+  - gelatiera kitchenaid
+  - gelato alla nutella fatto in casa
+  - gelato senza panna
+  - ricetta gelato alla Nutella
   last_post_language: ""
-  last_post_guid: 5bcc07e0f659e302811ebbf03c930d85
+  last_post_guid: 91235efd53a48ed52f2ebca0777f441a
   score_criteria:
     cats: 0
     description: 3

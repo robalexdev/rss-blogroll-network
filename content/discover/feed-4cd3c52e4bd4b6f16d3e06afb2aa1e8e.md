@@ -24,30 +24,37 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Editors' Blog
+  - 2026 midterm elections
+  - Mike Lindell
+  - News
+  - conspiracy theories
   relme: {}
-  last_post_title: Do Me This Favor
-  last_post_description: If you ever spend time on YouTube, I hope you’ll take a moment
-    to subscribe to our YouTube page, which...
-  last_post_date: "2026-10-10T12:11:36Z"
-  last_post_link: https://talkingpointsmemo.com/edblog/do-me-this-favor
+  last_post_title: MyPillow Guy Mike Lindell Had The World’s Most Predictable Reaction
+    To The Blue Wave
+  last_post_description: As we all know, MyPillow entrepreneur Mike Lindell doesn’t
+    really believe in elections — especially when his side doesn’t win...
+  last_post_date: "2026-11-06T23:02:13Z"
+  last_post_link: https://talkingpointsmemo.com/news/mypillow-guy-mike-lindell-had-the-worlds-most-predictable-reaction-to-the-blue-wave
   last_post_categories:
-  - Editors' Blog
+  - 2026 midterm elections
+  - Mike Lindell
+  - News
+  - conspiracy theories
   last_post_language: ""
-  last_post_guid: b7c403dde89a4bd2aeda90630f19c3dc
+  last_post_guid: f505b94d7da6a027651a824c1e0dbb65
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

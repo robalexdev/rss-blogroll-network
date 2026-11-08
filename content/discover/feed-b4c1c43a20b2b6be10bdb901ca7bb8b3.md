@@ -20,18 +20,18 @@ params:
   recommender:
   - https://bielinski.de/feed/
   categories:
-  - Nachrichtensortiermaschine
+  - Allgemein
   relme: {}
-  last_post_title: Nachrichtensortiermaschine 20260930
-  last_post_description: 'Es gibt eine neue Version meiner Nachrichtensortiermaschine
-    und diese kommt mit zahlreichen Verbesserungen. Wer sie noch nicht kennt: Die
-    Nachrichtensortiermaschine ist ein RSS-Reader, der alle'
-  last_post_date: "2026-09-30T17:37:27Z"
-  last_post_link: https://schmalenstroer.net/blog/2026/09/nachrichtensortiermaschine-20260930/
+  last_post_title: Gerichte und warum wir alle superdumme Megagenies sind
+  last_post_description: Ich habe es noch nicht herausgefunden, ob die Justiz uns
+    alle für Supergenies oder für absolute Trottel hält. Jüngst gab es ein Urteil,
+    bei dem der Schokoladenhersteller Ritter Sport mal wieder
+  last_post_date: "2026-10-31T17:18:44Z"
+  last_post_link: https://schmalenstroer.net/blog/2026/10/gerichte-und-warum-wir-alle-superdumme-megagenies-sind/
   last_post_categories:
-  - Nachrichtensortiermaschine
+  - Allgemein
   last_post_language: ""
-  last_post_guid: b264e9a4349e8730b9db498c4d0114d0
+  last_post_guid: 44b761cbe37e3ac04fb96772b58c3e3b
   score_criteria:
     cats: 0
     description: 0

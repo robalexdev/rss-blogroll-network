@@ -12,7 +12,7 @@ params:
     https://remysharp.com/speaking/: false
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -28,15 +28,15 @@ params:
     https://remysharp.com/: true
     https://remysharp.com/books: true
     https://remysharp.com/speaking/: true
-  last_post_title: 'Redesign: fonts, alignment and nav'
-  last_post_description: As I continue occasionally tinker on the redesign I've started
-    (and often think "what's the point, current design is fine"), I wanted to share
-    some of the problems I've run in to. Problems mostly for
-  last_post_date: "2026-09-26T00:00:00Z"
-  last_post_link: https://remysharp.com/2026/09/26/redesign-fonts-alignment-and-nav
+  last_post_title: My 2027 Web Platform Feature Ranking
+  last_post_description: |-
+    Like my peers, I've decided to publish my personal ranking preference for the 2027 interop project.
+    I'm doing this from a phone, so I can't link to the others that have published theirs, but I think
+  last_post_date: "2026-10-29T00:00:00Z"
+  last_post_link: https://remysharp.com/2026/10/29/my-2027-web-platform-feature-ranking
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 845459156f3f155606774b2d6e203673
+  last_post_guid: a9e40fd6362233c7721e0be0f9bd8bbb
   score_criteria:
     cats: 0
     description: 3

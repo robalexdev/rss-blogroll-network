@@ -23,15 +23,15 @@ params:
   - News
   - Technology
   relme: {}
-  last_post_title: Gläsern by Design (mit Martin Fehrensen)
-  last_post_description: 'Eine Geschichte, die mich seit einigen Tagen “in Bewegung”
-    gehalten hat: Das europäische W Social, ein Netzwerk, das Ausweisverifikation
-    zur Beitrittsbedingung macht, speichert öffentlich'
-  last_post_date: "2026-10-09T03:00:00Z"
-  last_post_link: https://hakendran.podigee.io/638-glaesern-by-design-mit-martin-fehrensen
+  last_post_title: It's the Kontostand, stupid! (mit Florian Gregorzyk)
+  last_post_description: |-
+    Die 650. Folge “Haken dran” wird euch präsentiert von Flos Cola! Oder Energydrink. Oder was auch immer, hauptsache, es fühlt sich an, wie ein soziales Experiment!
+    Apropos soziale Experimente:
+  last_post_date: "2026-11-06T04:00:00Z"
+  last_post_link: https://hakendran.podigee.io/650-it-s-the-kontostand-stupid-mit-florian-gregorzyk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ef493700c292bb6323bc025ea7b464cf
+  last_post_guid: b72a0c590418d1b80f7636aabd821b1e
   score_criteria:
     cats: 2
     description: 3

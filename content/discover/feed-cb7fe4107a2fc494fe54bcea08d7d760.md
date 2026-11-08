@@ -1,6 +1,6 @@
 ---
 title: 拾月的博客
-date: "2026-08-27T13:05:00Z"
+date: "2026-11-05T14:27:00Z"
 description: PC互联网遗民
 params:
   feedlink: https://www.skyue.com/feed/
@@ -22,31 +22,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 旅行
-  - 通讯
+  - Feedglot
   relme: {}
-  last_post_title: 高加索三国旅行
-  last_post_description: 本文作者：南瓜2026年6月16日 — 6月30日 · 阿塞拜疆 / 格鲁吉亚 /
-  last_post_date: "2026-08-27T13:05:00Z"
-  last_post_link: https://www.skyue.com/26082721.html
+  last_post_title: Feedglot支持Agent调用了
+  last_post_description: 这周Feedglot发布了重要更新：macOS版支持本地Agent调用。本地Agent包括Codex、Claude、DeepSeek
+    Harness、Qoder、WorkBuddy、豆包工作等等...
+  last_post_date: "2026-11-05T14:27:00Z"
+  last_post_link: https://www.skyue.com/26110522.html
   last_post_categories:
-  - 旅行
-  - 通讯
+  - Feedglot
   last_post_language: ""
-  last_post_guid: 3c5c895f286044a802ca3c1fbffc6bc7
+  last_post_guid: f658e8e11cda58c798a724fd5f212d06
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

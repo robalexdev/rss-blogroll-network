@@ -26,16 +26,16 @@ params:
   categories:
   - Uncategorized
   relme: {}
-  last_post_title: The web of Markdown, part 3
-  last_post_description: 'Previous posts on this topic: Oct 6 and Oct 8. What’s new?
-    I’ve got a browser running, and have been using it for a few weeks. We’re not
-    releasing it today because first I want people to think'
-  last_post_date: "2026-10-23T15:20:14Z"
-  last_post_link: https://daveverse.org/2026/10/23/the-web-of-markdown-part-3/
+  last_post_title: It’s time for citizens to really unite
+  last_post_description: The mid-term election was a blowout for Democrats. I am so
+    happy today to be able to write those words. So many things to say, first a few
+    notes. Citizens United was the real loser in this election.
+  last_post_date: "2026-11-04T15:47:12Z"
+  last_post_link: https://daveverse.org/2026/11/04/its-time-for-citizens-to-really-unite/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: 2655aba054f69f30cd8a7ac93b142fd2
+  last_post_guid: d3a0ea750cb44d20b8e564059d007f72
   score_criteria:
     cats: 0
     description: 3

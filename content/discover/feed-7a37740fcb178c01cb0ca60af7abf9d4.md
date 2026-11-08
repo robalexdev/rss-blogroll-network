@@ -18,13 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Sea Calls Me Home
+  last_post_title: FC Savigny-Forel / FC Jorat-Mézières - FC Vevey (40+)
   last_post_description: ""
-  last_post_date: "2026-10-08T08:20:00+02:00"
-  last_post_link: https://alienlebarge.ch/jams/julia-holter-sea-calls-me-home
+  last_post_date: "2026-11-06T23:05:00+01:00"
+  last_post_link: https://alienlebarge.ch/photos/2026-11-06-23-05
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39373b9b9373589d8db2abc6083bb993
+  last_post_guid: c192d4b962a47b2386d913127ae1a669
   score_criteria:
     cats: 0
     description: 3

@@ -19,15 +19,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Terraloop
-  last_post_description: 'Two tools that run long tasks on Cloudflare without babysitting
-    them: a heartbeat (loops-yaml) that re-prompts the agent, and terrarium running
-    each job and handing back a receipt. Everything else is'
-  last_post_date: "2026-10-09T00:00:00Z"
-  last_post_link: https://coey.dev/terraloop
+  last_post_title: Rewind a failed agent run
+  last_post_description: A coding agent runs inside amber, which saves it at every
+    model call. For 20 failed runs, going back to the best step with one hint fixed
+    15. Starting over with the same hint fixed 4. Type checks run
+  last_post_date: "2026-11-01T00:00:00Z"
+  last_post_link: https://coey.dev/agent-rewind
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8c5c44c1d3afcc27f8b6aa703cf7e17c
+  last_post_guid: 3974472be901c9ba4423fd22fb27e4cc
   score_criteria:
     cats: 0
     description: 3

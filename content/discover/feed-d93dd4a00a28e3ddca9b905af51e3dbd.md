@@ -39,16 +39,15 @@ params:
     https://mastodon.social/@pallenberg: true
     https://pallenberg.video/c/saschapallenberg/videos: true
     https://www.metacheles.de/: true
-  last_post_title: So unabhängig sind wir von Big Tech - Digital Independence Day
-    10 vom IONOS Summit 2026
-  last_post_description: Spezial Ausgabe von MeTacheles und das direkt vom IONOS Summit
-    2026 in Berlin. In dieser Ausgabe hole ich mir Verstaerkung vom Inside IONOS Podcast
-    und wir unterhalten uns über die aktuellen
-  last_post_date: "2026-10-05T08:19:53Z"
-  last_post_link: https://www.metacheles.de/so-unabhangig-sind-wir-von-big-tech-digital-independence-day-10-vom-ionos-summit-2026/
+  last_post_title: Die Bots, die nie verschwanden - Das Märchen der zerstörten Trollfarmen!
+  last_post_description: 'Drei brennende Yandex-Rechenzentren, ein falsch gelesenes
+    Diagramm und eine Grafik aus der Zukunft: Wie in sechs Tagen aus einem echten
+    Militaerschlag ein Maerchen ueber verstummte Kreml-Trolle wurde'
+  last_post_date: "2026-10-19T03:00:00Z"
+  last_post_link: https://www.metacheles.de/yandex-bots-trolle/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d0c784b39afe48bb4ac01fe0d45d1acb
+  last_post_guid: f171d610158056c946312b3cce4953c0
   score_criteria:
     cats: 0
     description: 3

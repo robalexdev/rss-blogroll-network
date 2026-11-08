@@ -1,6 +1,6 @@
 ---
 title: Paul Robert Lloyd
-date: "2026-10-11T11:54:52Z"
+date: "2026-11-05T16:35:05Z"
 description: The personal website of Paul Robert Lloyd
 params:
   feedlink: https://paulrobertlloyd.com/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Chris Burnell Blogroll
@@ -38,13 +38,13 @@ params:
   relme:
     https://github.com/paulrobertlloyd: true
     https://paulrobertlloyd.com/: true
-  last_post_title: Nostalgia is a terrible drug
+  last_post_title: ♫ You Can’t Always Get What You Want by Rolling Stones
   last_post_description: ""
-  last_post_date: "2026-08-07T15:05:09Z"
-  last_post_link: https://iandunt.substack.com/p/nostalgia-is-a-terrible-drug-9e2
+  last_post_date: "2026-11-05T16:34:17Z"
+  last_post_link: https://paulrobertlloyd.com/2026/309/j1/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a5c17aab3e98e1527815d11f7dce2743
+  last_post_guid: 8b4289220bf697cf2640dee6714bc2fb
   score_criteria:
     cats: 0
     description: 3

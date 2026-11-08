@@ -1,6 +1,6 @@
 ---
 title: The Sparkelling Bedangler
-date: "2026-10-11T11:49:41Z"
+date: "2026-11-01T20:26:28Z"
 description: Ramblings about programming and related topics. Might go other places
   in the future.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -28,16 +28,16 @@ params:
   categories:
   - presortedness
   relme: {}
-  last_post_title: Relationship between Amp and Mono
-  last_post_description: 'In this article, we analyze the relationship between the
-    measure of disorder \(\mathit{Amp}\), which I introduced a while ago, and another
-    measure of disorder: \(\mathit{Mono}\), the number of'
-  last_post_date: "2026-07-26T00:00:00Z"
-  last_post_link: https://morwenn.github.io//presortedness/2026/07/26/TSB012-relationship-between-amp-and-mono.html
+  last_post_title: Mono in the partial ordering of measures of disorder
+  last_post_description: In the previous article1, I developed a new measure of disorder
+    called \(\mathit{Reve}\) to make it easier to compare the values of \(\mathit{Amp}\)2
+    and \(\mathit{Mono}\). I proved that the new
+  last_post_date: "2026-11-01T00:00:00Z"
+  last_post_link: https://morwenn.github.io//presortedness/2026/11/01/TSB013-mono-in-the-partial-ordering-of-measures-of-disorder.html
   last_post_categories:
   - presortedness
   last_post_language: ""
-  last_post_guid: da6d7f8772cf82dc2a937e6cd76129ce
+  last_post_guid: 7e5c172a4044b1c79025a266698e8b19
   score_criteria:
     cats: 0
     description: 3

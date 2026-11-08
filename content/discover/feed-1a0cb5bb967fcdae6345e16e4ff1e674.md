@@ -1,6 +1,6 @@
 ---
 title: A Very Good Blog by Keenan
-date: "2026-05-28T13:20:00Z"
+date: "2026-10-19T15:40:00Z"
 description: This is a very good blog I made all by myself.
 params:
   feedlink: https://gkeenan.co/avgb/feed.xml
@@ -30,14 +30,13 @@ params:
   - https://shellsharks.com/feeds/feed.xml
   categories: []
   relme: {}
-  last_post_title: I am publishing this from the middle of the Atlantic Ocean, technology
-    is incredible, etc. etc.
+  last_post_title: Four months in Poland
   last_post_description: ""
-  last_post_date: "2026-05-28T13:20:00Z"
-  last_post_link: https://gkeenan.co/avgb/i-am-publishing-this-from-the-middle-of-the-atlantic-ocean-technology-is-incredible-etc-etc/
+  last_post_date: "2026-10-19T15:40:00Z"
+  last_post_link: https://gkeenan.co/avgb/four-months-in-poland/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 37fa0028424092e317cf586473af7e95
+  last_post_guid: 73c12e47d698d0295ecad2fac0643515
   score_criteria:
     cats: 0
     description: 3

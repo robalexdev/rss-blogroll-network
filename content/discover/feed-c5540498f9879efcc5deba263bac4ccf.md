@@ -25,13 +25,13 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Weeknotes - W40/2026 (No.6)
-  last_post_description: The one with notes for week 40 of 2026
-  last_post_date: "2026-10-05T17:40:00Z"
-  last_post_link: https://theresmiling.eu/blog/2026/10/weeknotes-2026-40.html
+  last_post_title: Weeknotes - W44/2026 (No.10)
+  last_post_description: The one with the notes for week 44 of 2026
+  last_post_date: "2026-11-02T17:10:00Z"
+  last_post_link: https://theresmiling.eu/blog/2026/11/weeknotes-2026-44.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9ea3c4ffc3fb0f0e16eb08806b66b079
+  last_post_guid: 40532e78c399dffb333c80cc2554983c
   score_criteria:
     cats: 0
     description: 3

@@ -9,7 +9,7 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -37,15 +37,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Summary of changes for September 2026
-  last_post_description: "Hey everyone!This is the list of all the changes we've done
-    to our projects during the month of September.\n\n\n  Wiki, added portland island,
-    and updated alcohol stove.\n  Donsol, released on Itch.io!\n "
-  last_post_date: "2026-09-30T07:00:00Z"
-  last_post_link: https://100r.ca/site/log.html#sep2026
+  last_post_title: Summary of changes for October 2026
+  last_post_description: |-
+    Hey everyone!This is the list of all the changes we've done to our projects during the month of October.
+
+
+      Wiki, added taxes, and updated .
+      Donsol, fixed some bugs. Note that we plan to release a
+  last_post_date: "2026-11-01T07:00:00Z"
+  last_post_link: https://100r.ca/site/log.html#oct2026
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3b43768d54c978c5959f8483c7fc8e7b
+  last_post_guid: b86cade1892ea9badb60b6799bd10952
   score_criteria:
     cats: 0
     description: 3

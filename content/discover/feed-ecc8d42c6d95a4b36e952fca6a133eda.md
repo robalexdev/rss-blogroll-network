@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,14 +26,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: RIT Anime Club Membership Cards
-  last_post_description: A story about how a college club had such a huge impact on
-    people’s lives, and how such student organizations are underappreciated.
-  last_post_date: "2026-09-23T00:22:00-04:00"
-  last_post_link: https://apreche.space/projects/card-conscious/rit-anime-club-membership-cards/
+  last_post_title: I Love Voting
+  last_post_description: The important of voting was instilled in me from a young
+    age, and I now vote as often as possible.
+  last_post_date: "2026-11-03T00:00:00-05:00"
+  last_post_link: https://apreche.space/blog/i-love-voting/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: cc3e7ff1c9e9589270b15268cf0b4654
+  last_post_guid: f74b46a20a2bf080cb556802ea77c3cd
   score_criteria:
     cats: 0
     description: 3

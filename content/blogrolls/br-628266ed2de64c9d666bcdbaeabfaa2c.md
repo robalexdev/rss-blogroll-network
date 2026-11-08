@@ -1,6 +1,6 @@
 ---
 title: Blog-Roll von Sabine
-date: Sun, 13 Sep 2026 13:37:41 +0000
+date: Tue, 03 Nov 2026 18:55:53 +0000
 description: ""
 params:
   link: https://einfach-kochen-und-mehr.de/blog-roll/?opml=
@@ -12,6 +12,9 @@ params:
   - title: DIE SEE KOCHT
     description: Segeln, Proviant, Rezepte & Meer
     id: 0cce93cce29e6eaf6e9407e7079d6bbf
+  - title: Neue Rezepte – kochrezepteseite.de
+    description: Die neuesten Rezepte von kochrezepteseite.de – einfach nachkochen.
+    id: 22384e3f998aa5a394e8e2a14d09bd21
   - title: The cooking Globetrotter
     description: Mit saisonalen und regionalen Zutaten um die Welt kochen
     id: 2975d7692bd9c7357f1554fe4d0ae06d

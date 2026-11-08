@@ -22,15 +22,15 @@ params:
     https://ho1ger.codeberg.page/: true
     https://ho1ger.de/: true
     https://social.ho1ger.de/@me: true
-  last_post_title: Hallo, Pergear 35 mm f/1.4
-  last_post_description: |-
-    „Wahnsinn ist, immer wieder das Gleiche zu tun und andere Ergebnisse zu erwarten.“
-    Je nach Quelle soll diesen Satz mal Einstein, mal Freud geäußert haben. Egal, wer es war: Ich kann berichten,
-  last_post_date: "2026-09-21T00:00:00+02:00"
-  last_post_link: https://ho1ger.de/posts/2026-09-21
+  last_post_title: Herbst im Schloss Schleißheim
+  last_post_description: "... immer wieder ein schöner, kleiner Ausflug, besonders
+    im Herbst, wenn sich die Bäume bunt färben. \nDiesmal stammen die Bilder vom ~50
+    Jahre alten, komplett manuellen Yashinon, das im"
+  last_post_date: "2026-10-16T00:00:00+02:00"
+  last_post_link: https://ho1ger.de/posts/2026-10-16
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 115a994d0397666a863bf08eed6c275c
+  last_post_guid: 910699059e66c395271c18b7bf6a734c
   score_criteria:
     cats: 0
     description: 3

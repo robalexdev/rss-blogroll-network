@@ -1,6 +1,6 @@
 ---
 title: Andrew Nesbitt
-date: "2026-10-23T19:35:31Z"
+date: "2026-11-06T21:32:35Z"
 description: Package management and open source metadata expert. Building Ecosyste.ms,
   open datasets and tools for critical open source infrastructure.
 params:
@@ -44,20 +44,21 @@ params:
   recommender:
   - https://alexsci.com/blog/rss.xml
   categories:
-  - ai
-  - satire
+  - maintainers
+  - open-source
   - security
   relme: {}
-  last_post_title: One Small Bug
-  last_post_description: Want me to fix that too?
-  last_post_date: "2026-10-23T09:00:00Z"
-  last_post_link: https://nesbitt.io/2026/10/23/one-small-bug.html
+  last_post_title: Weekend at Bernie’s II
+  last_post_description: Six months on, which of your dependencies are still wearing
+    sunglasses?
+  last_post_date: "2026-11-06T10:00:00Z"
+  last_post_link: https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html
   last_post_categories:
-  - ai
-  - satire
+  - maintainers
+  - open-source
   - security
   last_post_language: ""
-  last_post_guid: 4d8a6ee5e4eb1067c8372af7ffa1263e
+  last_post_guid: 26ec23212e3cd1fb8961ffce5bb03702
   score_criteria:
     cats: 0
     description: 3

@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -37,16 +37,15 @@ params:
   relme:
     https://actsofvolition.com/: true
     https://mastodon.social/@sgarrity: true
-  last_post_title: I’m a tax prude
-  last_post_description: Sometimes a contractor or service-provider will ask if I’d
-    rather pay in cash. The implication is that a cash transaction can be done without
-    tax – and either or both of us can “save” some
-  last_post_date: "2026-10-19T22:49:17Z"
-  last_post_link: https://actsofvolition.com/2026/10/im-a-tax-prude/
+  last_post_title: Moats?
+  last_post_description: I love a good metaphor, but I’m not sure moats were as effective
+    as everyone writing about AI in 2026 seems to think they were.
+  last_post_date: "2026-10-30T18:42:35Z"
+  last_post_link: https://actsofvolition.com/2026/10/moats/
   last_post_categories:
   - Uncategorized
   last_post_language: ""
-  last_post_guid: c9ff135a6d662a3ef4767ef22ed9d8db
+  last_post_guid: 426816579c6148cf6e72cb2cb1f51d13
   score_criteria:
     cats: 0
     description: 0

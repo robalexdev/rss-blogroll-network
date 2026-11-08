@@ -16,30 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Dinnerparty
-  - Hauptgerichte
-  - Meeresfrüchte
-  - Pasta
-  - Spaghetti Vongole
-  - Venusmuscheln
-  - Vongole
+  - Backen
+  - Backtipps
+  - Cups in Gramm
+  - US-Rezepte
+  - Umrechnung
   relme: {}
-  last_post_title: Spaghetti Vongole wie in Venedig
-  last_post_description: |-
-    Spaghetti Vongole in der einfachen, sommerlichen Version: frische Venusmuscheln mit Knoblauch, Chili, einem Schluck Weisswein und Zitrone, in gut einer Viertelstunde fertig
-    Der Beitrag Spaghetti
-  last_post_date: "2026-09-28T19:06:28Z"
-  last_post_link: https://vivikocht.ch/spaghetti-vongole/
+  last_post_title: 'Backen in den USA ohne Waage: Gramm in Cups umrechnen (und umgekehrt)'
+  last_post_description: 'Cups in Gramm umrechnen: Die Tabelle zeigt, wie viel ein
+    US-Cup Mehl, Zucker, Butter oder Honig wiegt. Dazu Löffelmasse, Backformen, Ofentemperaturen
+    und der Unterschied zwischen Baking Soda und'
+  last_post_date: "2026-10-18T19:47:03Z"
+  last_post_link: https://vivikocht.ch/gramm-in-cups-umrechnen/
   last_post_categories:
-  - Dinnerparty
-  - Hauptgerichte
-  - Meeresfrüchte
-  - Pasta
-  - Spaghetti Vongole
-  - Venusmuscheln
-  - Vongole
+  - Backen
+  - Backtipps
+  - Cups in Gramm
+  - US-Rezepte
+  - Umrechnung
   last_post_language: ""
-  last_post_guid: e3ae72921d7fa87bbcea35b896bbdadb
+  last_post_guid: eb3248ce0ddfe2d65b01dca09107bff0
   score_criteria:
     cats: 0
     description: 3

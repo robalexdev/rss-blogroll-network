@@ -1,6 +1,6 @@
 ---
 title: Mausloch
-date: "2026-10-12T00:45:48+02:00"
+date: "2026-11-06T23:14:14+01:00"
 description: Herzlich willkommen im Mausloch!
 params:
   feedlink: https://mausloch.blogspot.com/feeds/posts/default
@@ -8,12 +8,13 @@ params:
   feedid: 29f2baebc72fab4d8ba95490e4eb9e44
   websites:
     https://mausloch.blogspot.com/: true
+    https://www.henning-uhle.eu/lest-mehr-blogs: false
   blogrolls: []
   in_blogrolls:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Andere Blogs und Webseiten von Martha
@@ -29,6 +30,7 @@ params:
   recommender:
   - https://planungsdiva.com/blog/feed/
   - https://www.henning-uhle.eu/feed
+  - https://www.henning-uhle.eu/lest-mehr-blogs/feed
   categories:
   - '#bloggerschnack'
   - '#bloghexen'
@@ -145,6 +147,7 @@ params:
   - bustour
   - bäume
   - bücherei
+  - café
   - chaos
   - chaotinnen
   - chef
@@ -172,6 +175,7 @@ params:
   - erinnerung
   - erlebnis
   - erneuerung
+  - event
   - evergreen
   - facebook
   - fachbegriff
@@ -208,6 +212,7 @@ params:
   - genial
   - gereizt
   - geschenk
+  - geschenke
   - geschichte
   - geschichtefüralle
   - gespräch
@@ -259,9 +264,11 @@ params:
   - kindheit
   - kirche
   - klassentreffen
+  - klassik
   - klo
   - kohle
   - kollegen
+  - konzert
   - krank
   - kreativ
   - kreative Chaotin
@@ -315,6 +322,7 @@ params:
   - ostersonntag
   - ostsee
   - panik
+  - party
   - patient
   - pause
   - peinlich
@@ -338,6 +346,7 @@ params:
   - resumee
   - retro
   - revolution
+  - rock
   - rocknroll
   - roller
   - ruhe
@@ -370,6 +379,7 @@ params:
   - spielerei
   - stau
   - still
+  - stolz
   - strand
   - strandkorb
   - stress
@@ -380,7 +390,9 @@ params:
   - tag
   - tagdesschlafes
   - tagebuch
+  - tanzen
   - team
+  - technik
   - teilzeit
   - telefon
   - thema
@@ -430,18 +442,20 @@ params:
   relme:
     https://mausloch.blogspot.com/: true
     https://www.blogger.com/profile/05649593643866297473: true
-  last_post_title: Die High Five der Woche Seite an Seite mit den Sonntags Top 7
+  last_post_title: Freude schöner Götterfunken!
   last_post_description: ""
-  last_post_date: "2026-10-11T00:30:00+02:00"
-  last_post_link: https://mausloch.blogspot.com/2026/10/die-high-five-der-woche-seite-seite-mit.html
+  last_post_date: "2026-11-05T21:32:49+01:00"
+  last_post_link: https://mausloch.blogspot.com/2026/11/freude-schoner-gotterfunken.html
   last_post_categories:
   - blog
-  - highfive
+  - event
+  - klassik
+  - konzert
   - mausloch
-  - sonntag
-  - sonntagstop7
+  - musik
+  - rock
   last_post_language: ""
-  last_post_guid: b06d483536cb44a9a735b4ce88aa56c1
+  last_post_guid: 0cfe95e185a1b313a0cb5c8eaf05f5ac
   score_criteria:
     cats: 5
     description: 3

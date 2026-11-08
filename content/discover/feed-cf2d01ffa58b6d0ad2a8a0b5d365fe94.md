@@ -28,15 +28,16 @@ params:
     https://front-end.social/@utilitybend: true
     https://github.com/brechtDR: true
     https://utilitybend.com/: true
-  last_post_title: 5 years of blogging on utilitybend!
-  last_post_description: Time flies huh? Five years ago, I started this blog hoping
-    one or two developers might learn something from it. What happened next was not
-    expected, I never planned to speak at conferences or give
-  last_post_date: "2026-09-16T00:00:00Z"
-  last_post_link: https://utilitybend.com/blog/5-years-of-blogging-on-utilitybend/
+  last_post_title: Scroll-triggered animation as the missing piece for scrollytelling
+    on the web
+  last_post_description: Scroll-driven animations are one of my favourite things in
+    CSS. But if you have ever tried to build an interactive story with them, you probably
+    noticed that scrubbing is not always what you want.
+  last_post_date: "2026-10-13T00:00:00Z"
+  last_post_link: https://utilitybend.com/blog/scroll-triggered-animation-as-the-missing-piece-for-scrollytelling-on-the-web/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e84861cdddd04c2d11d208e67bc56eb6
+  last_post_guid: ea7829d8d8ab0a9f3f02e4f16e248aab
   score_criteria:
     cats: 0
     description: 3

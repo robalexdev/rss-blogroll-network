@@ -1,6 +1,6 @@
 ---
 title: Raesene’s Ramblings
-date: "2026-10-08T17:26:02Z"
+date: "2026-10-12T09:37:35Z"
 description: Things that occur to me
 params:
   feedlink: https://raesene.github.io/feed.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

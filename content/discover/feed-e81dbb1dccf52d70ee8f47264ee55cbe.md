@@ -1,6 +1,6 @@
 ---
 title: Nicolas Bouliane's blog posts
-date: "2026-09-17T21:59:41+01:00"
+date: "2026-11-02T10:58:40+01:00"
 description: Nicolas Bouliane's most recent posts
 params:
   feedlink: https://nicolasbouliane.com/blog/feed.rss
@@ -16,7 +16,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page

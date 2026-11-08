@@ -8,6 +8,7 @@ params:
   feedid: 322d93de2c5cc8c57c6d93f21e6dd2bc
   websites:
     https://sabinedangel.de/: true
+    https://www.henning-uhle.eu/lest-mehr-blogs: false
   blogrolls: []
   in_blogrolls:
   - title: Lest mehr Blogs von Henning Uhle
@@ -16,6 +17,7 @@ params:
   recommended: []
   recommender:
   - https://www.henning-uhle.eu/feed
+  - https://www.henning-uhle.eu/lest-mehr-blogs/feed
   categories:
   - Foto
   relme: {}

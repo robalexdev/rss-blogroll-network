@@ -15,37 +15,36 @@ params:
   recommended: []
   recommender: []
   categories:
+  - community
   - emacs
-  - speech-recognition
+  - emacsconf
   relme: {}
-  last_post_title: Dictating blog posts into Emacs
+  last_post_title: 'EmacsConf: Thinking about the community panel'
   last_post_description: |-
-    Matt is experimenting with dictating his blog posts. He says:
-
-
-
-
-    I write really well. I have very good grammatical skills, for the most part, when I’m typing. But when I speak, I don’t speak
-  last_post_date: "2026-10-22T19:13:18Z"
-  last_post_link: https://sachachua.com/blog/2026/10/dictating-blog-posts-into-emacs/
+    We have a recording session for
+    the EmacsConf 2026 panel on community tomorrow. I want to get
+    my thoughts together so that I can answer concisely, saving the details for this post so that people can
+  last_post_date: "2026-11-06T15:50:05Z"
+  last_post_link: https://sachachua.com/blog/2026/11/emacsconf-thinking-about-the-community-panel/
   last_post_categories:
+  - community
   - emacs
-  - speech-recognition
+  - emacsconf
   last_post_language: ""
-  last_post_guid: 630a1b3f130934cd875879950fdec88c
+  last_post_guid: a115c2a0b6b7453ccc44aaf77b6b24f4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

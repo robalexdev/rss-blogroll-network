@@ -1,6 +1,6 @@
 ---
 title: Nicksxs's Blog
-date: "2026-10-17T16:00:00Z"
+date: "2026-11-01T11:45:04Z"
 description: Java 运行时、生产诊断与 AI 工程实践
 params:
   feedlink: https://nicksxs.me/atom.xml
@@ -22,26 +22,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Docker
-  - Go
-  - HTTPS
-  - Traefik
-  - 技术
-  - 腾讯云
+  - Agent
+  - DeepSeek
+  - LLM
+  - TypeScript
+  - 源码
   relme: {}
-  last_post_title: 用 Go 自动同步腾讯云 SSL 证书到 Traefik：下载、校验与失败回滚
-  last_post_description: 从腾讯云已有新证书、网站仍使用旧证书的问题讲起，结合 ssl-sync 的 Go 源码，解释证书查询与下载、域名和私钥校验、文件摘要比较、原子替换、TLS
-  last_post_date: "2026-10-17T16:00:00Z"
-  last_post_link: https://nicksxs.me/2026/10/18/%E7%94%A8Go%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%E8%85%BE%E8%AE%AF%E4%BA%91SSL%E8%AF%81%E4%B9%A6%E5%88%B0Traefik-%E4%B8%8B%E8%BD%BD%E6%A0%A1%E9%AA%8C%E4%B8%8E%E5%A4%B1%E8%B4%A5%E5%9B%9E%E6%BB%9A/
+  last_post_title: DeepSeek Harness 怎样把模型的一次回答变成可继续执行的任务
+  last_post_description: 以 Java 金额比较测试修复为例，沿 DeepSeek Harness 固定版本源码拆解流式工具调用、有序提交、Session
+  last_post_date: "2026-11-01T11:45:04Z"
+  last_post_link: https://nicksxs.me/2026/11/01/DeepSeek%20Harness%20%E6%80%8E%E6%A0%B7%E6%8A%8A%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%80%E6%AC%A1%E5%9B%9E%E7%AD%94%E5%8F%98%E6%88%90%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%89%A7%E8%A1%8C%E7%9A%84%E4%BB%BB%E5%8A%A1/
   last_post_categories:
-  - Docker
-  - Go
-  - HTTPS
-  - Traefik
-  - 技术
-  - 腾讯云
+  - Agent
+  - DeepSeek
+  - LLM
+  - TypeScript
+  - 源码
   last_post_language: ""
-  last_post_guid: ce3c63ef91e06154ea65802fb48f2fec
+  last_post_guid: 134f82a0e9754e5fba1ccc3000b2cb5c
   score_criteria:
     cats: 0
     description: 3

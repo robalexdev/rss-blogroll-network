@@ -1,9 +1,9 @@
 ---
 title: sankalp's blog
 date: "1970-01-01T00:00:00Z"
-description: "Hi, I am Sankalp. \n\nI go by dejavucoder on X. I am into AI engineering
+description: Hi, I am Sankalp. I go by dejavucoder on X. I am into AI engineering
   and applied LLM research. I maintain a pseudonymous profile on X but you can find
-  mo..."
+  more a...
 params:
   feedlink: https://sankalp.bearblog.dev/feed/?type=rss
   feedtype: rss
@@ -34,7 +34,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 3
     postcats: 2
@@ -43,11 +43,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 0
 ---

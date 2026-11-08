@@ -1,6 +1,6 @@
 ---
 title: I CAN MAKE THIS WORK
-date: "2026-10-07T00:00:00Z"
+date: "2026-10-24T00:00:00Z"
 description: "The blog of John Reilly ❤️\U0001F33B"
 params:
   feedlink: https://johnnyreilly.com/atom.xml
@@ -17,28 +17,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AI
-  - Automated Testing
-  - GitHub Actions
+  - TypeScript
   - ts-loader
+  - webpack
   relme:
     https://fosstodon.org/@johnny_reilly: true
     https://github.com/johnnyreilly: true
     https://johnnyreilly.com/: true
     https://johnnyreilly.com/about: true
-  last_post_title: Cross Operating System Test Probes with GitHub Actions
-  last_post_description: How to build an on-demand GitHub Actions workflow that runs
-    a subset of tests on Ubuntu, Mac and Windows, so AI coding agents can debug OS-specific
-    failures without a human relaying CI output.
-  last_post_date: "2026-10-07T20:05:46Z"
-  last_post_link: https://johnnyreilly.com/cross-operating-system-test-probes-with-github-actions
+  last_post_title: TypeScript 7.1 and the ts-loader v10 beta
+  last_post_description: ts-loader 10.0.0-beta.0 is out, rebuilt on the TypeScript
+    7.1 native API. How to install and test it, and which features are not in v10
+    and why.
+  last_post_date: "2026-10-25T18:52:25Z"
+  last_post_link: https://johnnyreilly.com/typescript-7-1-ts-loader-beta
   last_post_categories:
-  - AI
-  - Automated Testing
-  - GitHub Actions
+  - TypeScript
   - ts-loader
+  - webpack
   last_post_language: ""
-  last_post_guid: a757ef388d8001e5d6bf5fc0c39e1754
+  last_post_guid: 1b9c83c55b058f7e64be409ad162a24c
   score_criteria:
     cats: 0
     description: 3

@@ -16,24 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Burgenland
-  - Fleisch
+  - Bettina Matthaei
   - Food
-  - Fotografie
+  - Gemüse
+  - Kürbis
   relme: {}
-  last_post_title: Beiriedschnitte mit Ofenkartoffeln
-  last_post_description: 'Steak hatten wir uns schon lange nicht mehr gegönnt. Kein
-    Wunder, wir hatten ja auch keine Küche. Doch nun war es so weit: Angus Beiried
-    vom Gut Esterházy vom Kulinarium in Eisenstadt'
-  last_post_date: "2026-10-11T17:37:13Z"
-  last_post_link: https://kuechenereignisse.com/2026/10/11/beiriedschnitte-mit-ofenkartoffeln/
+  last_post_title: Bouletten mit Kürbisgemüse
+  last_post_description: Bohumil Hrabal schrieb in seinem Buch „Allzu laute Einsamkeit“1,
+    „daß Osteuropa nicht etwa hinterm Prager Spitalstor beginne, sondern erst irgendwo
+    in Galizien, wo der letzte
+  last_post_date: "2026-11-03T18:43:34Z"
+  last_post_link: https://kuechenereignisse.com/2026/11/03/bouletten-mit-kurbisgemuse/
   last_post_categories:
-  - Burgenland
-  - Fleisch
+  - Bettina Matthaei
   - Food
-  - Fotografie
+  - Gemüse
+  - Kürbis
   last_post_language: ""
-  last_post_guid: 6a741e1b871c7ab4242f22280114561c
+  last_post_guid: 57d24e8a90c7498de4ffd1d8d0acc891
   score_criteria:
     cats: 0
     description: 3

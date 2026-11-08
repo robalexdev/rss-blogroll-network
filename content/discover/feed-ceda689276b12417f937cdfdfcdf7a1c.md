@@ -21,22 +21,32 @@ params:
   recommender: []
   categories:
   - AI Agents
-  - Model Context Protocol
-  - contributed-bit
+  - AI Engineering
+  - Podcast
+  - Security
+  - Sponsored
+  - Video
+  - sponsor-thoughtworks
+  - sponsored-podcast
   relme: {}
-  last_post_title: Claude Code found my app’s shared contract in two MCP calls. Then
-    the records ran out.
+  last_post_title: AI agents are getting more complex. Developers shouldn’t have to
+    babysit them.
   last_post_description: |-
-    Every Claude Code user has watched a new session start from zero. You open it on a system you built
-    The post Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.
-  last_post_date: "2026-10-11T14:00:00Z"
-  last_post_link: https://thenewstack.io/claude-code-mcp-records/
+    What if your coding agent could catch its own mistakes before you ever reviewed its work?  A few years ago,
+    The post AI agents are getting more complex. Developers shouldn’t have to babysit them.
+  last_post_date: "2026-11-06T19:35:59Z"
+  last_post_link: https://thenewstack.io/harness-engineering-coding-agents/
   last_post_categories:
   - AI Agents
-  - Model Context Protocol
-  - contributed-bit
+  - AI Engineering
+  - Podcast
+  - Security
+  - Sponsored
+  - Video
+  - sponsor-thoughtworks
+  - sponsored-podcast
   last_post_language: ""
-  last_post_guid: dbd0862392c0e3bb038001a6a62d2796
+  last_post_guid: c3457af635a0f01fb67cc61b9ad9e662
   score_criteria:
     cats: 0
     description: 0

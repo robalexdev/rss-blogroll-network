@@ -1,6 +1,6 @@
 ---
 title: Mayx的博客
-date: "2026-10-07T14:17:22+08:00"
+date: "2026-11-01T00:07:39+08:00"
 description: Mayx's Home Page
 params:
   feedlink: https://mabbs.github.io/atom.xml
@@ -27,22 +27,22 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 7-Zip
-  - LZMA2
   - Quine
-  - 压缩包
+  - zstd
+  - 压缩
+  - 探索
   relme: {}
-  last_post_title: 如何制作一个“完整”的博客压缩包？
-  last_post_description: 让AI做出真正的“完整”将不再是难事……
-  last_post_date: "2026-10-01T00:00:00+08:00"
-  last_post_link: https://mabbs.github.io/2026/10/01/quine.html
+  last_post_title: 关于压缩的各种探索
+  last_post_description: 压缩……在消除冗余的同时，又创造了新的混乱？
+  last_post_date: "2026-11-01T00:00:00+08:00"
+  last_post_link: https://mabbs.github.io/2026/11/01/compress.html
   last_post_categories:
-  - 7-Zip
-  - LZMA2
   - Quine
-  - 压缩包
+  - zstd
+  - 压缩
+  - 探索
   last_post_language: ""
-  last_post_guid: f51c46ccba460857179402f692554ef7
+  last_post_guid: 7e2cbdaceb477abcbcaab0bda8f65e6d
   score_criteria:
     cats: 0
     description: 3

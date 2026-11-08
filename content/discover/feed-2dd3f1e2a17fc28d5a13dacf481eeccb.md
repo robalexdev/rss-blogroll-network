@@ -16,33 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Kekse, Pralines und Kleingebäck
-  - Weihnachten
+  - Suppen und Eintöpfe
   relme: {}
-  last_post_title: Aprikosen Streuseltaler
-  last_post_description: Ich nenne sie Vorweihnachtskekse. Weil irgendjemand schließlich
-    dafür sorgen muss, dass wir nicht völlig unvorbereitet in den Dezember stolpern.
-    Diese kleinen Dinger sind ein Zwischending aus
-  last_post_date: "2026-10-09T05:32:24Z"
-  last_post_link: https://www.patrickrosenthal.de/aprikosen-streuseltaler/
+  last_post_title: Cremige Hähnchen-Gnocchi-Suppe mit Spinat und Rosmarin
+  last_post_description: Gnocchi in Sahne zu ertränken, ist keine Straftat. Der November
+    hat die bemerkenswerte Angewohnheit, bereits um vier Uhr nachmittags wie ein schlecht
+    beleuchteter Friedhof auszusehen. Draußen
+  last_post_date: "2026-11-05T19:18:07Z"
+  last_post_link: https://www.patrickrosenthal.de/cremige-haehnchen-gnocchi-suppe-mit-spinat-und-rosmarin/
   last_post_categories:
-  - Kekse, Pralines und Kleingebäck
-  - Weihnachten
+  - Suppen und Eintöpfe
   last_post_language: ""
-  last_post_guid: b9edd7474776549ba7c3e93ca7d58482
+  last_post_guid: 2d7aa0508645e9d3cd23014ab5db3fd4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

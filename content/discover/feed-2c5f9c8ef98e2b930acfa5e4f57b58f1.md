@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Frank McPherson - Blogroll
@@ -47,15 +47,18 @@ params:
   categories: []
   relme:
     https://www.jeffgeerling.com/: true
-  last_post_title: Ubiquiti's $99 Vape Detector is actually pretty good
-  last_post_description: Since learning about the effects of high CO2 concentration
-    on attention and cognitive performance—especially at levels much higher than 2000ppm—I've
-    started monitoring CO2 and other air quality
-  last_post_date: "2026-10-23T09:00:00-04:00"
-  last_post_link: https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/
+  last_post_title: Rejoice, leap seconds are dead!
+  last_post_description: |-
+    There will never be a leap second again. At least not for UTC.
+
+
+
+    At the CGPM, they decided the last leap second we'll ever see for UTC, or Coordinated Universal Time, happened back at the end of
+  last_post_date: "2026-10-30T09:00:00-05:00"
+  last_post_link: https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1b0e4a47f3c95f0074bc54ac12819530
+  last_post_guid: 67473e336ad565c15c7ecc189e9bfffa
   score_criteria:
     cats: 0
     description: 3

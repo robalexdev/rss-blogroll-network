@@ -1,6 +1,6 @@
 ---
 title: The Go Blog
-date: "2026-10-02T00:00:00Z"
+date: "2026-11-04T00:00:00Z"
 description: ""
 params:
   feedlink: https://go.dev/blog/feed.atom
@@ -36,14 +36,14 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   categories: []
   relme: {}
-  last_post_title: Arch-specific SIMD in Go
-  last_post_description: Go 1.27 introduces experimental arch-specific SIMD vector
-    APIs
-  last_post_date: "2026-10-02T00:00:00Z"
-  last_post_link: https://go.dev/blog/archsimd
+  last_post_title: A new Go API for JSON
+  last_post_description: Go 1.27 introduces new encoding/json/v2 and encoding/json/jsontext
+    packages.
+  last_post_date: "2026-11-04T00:00:00Z"
+  last_post_link: https://go.dev/blog/jsonv2
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 49bd0b029af489cf6b70bc6ea6430b31
+  last_post_guid: 08b08f56eb33890db75966fe85f0b6a9
   score_criteria:
     cats: 0
     description: 0

@@ -18,17 +18,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - APOD
+  - Physics of the Cosmos
   relme: {}
-  last_post_title: 'APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos'
-  last_post_description: 'The post APOD: 2026 October 11 – Ice Fishing for Cosmic
-    Neutrinos appeared first on NASA Science.'
-  last_post_date: "2026-10-11T04:05:00Z"
-  last_post_link: https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/
+  last_post_title: GR SIG Seminar, 6 Nov 2026
+  last_post_description: |-
+    Gamma Ray SIG Seminar 12:00pm ET
+    The post GR SIG Seminar, 6 Nov 2026 appeared first on NASA Science.
+  last_post_date: "2026-11-06T22:12:08Z"
+  last_post_link: https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gr-sig-seminar-6-nov-2026/
   last_post_categories:
-  - APOD
+  - Physics of the Cosmos
   last_post_language: ""
-  last_post_guid: 544e1e32bb8283dc877e6f90b59dbe8c
+  last_post_guid: 16edd7ace86182a735d8d9a5f24c58db
   score_criteria:
     cats: 0
     description: 3

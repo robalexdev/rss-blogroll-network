@@ -10,7 +10,8 @@ params:
     description: Essays on programming, design, and anthropology
     id: 03858ee03b2c85599014eee556fc05ac
   - title: Chase McCoy
-    description: Chase McCoy explores, builds, & writes about the web
+    description: Chase McCoy is a blogger and design engineer who writes about the
+      web and other creative technologies.
     id: 167ca9e2c8ffcbb6ebaa7a8a687fec4f
   - title: kottke.org
     description: Jason Kottke's weblog, home of fine hypertext products since 1998

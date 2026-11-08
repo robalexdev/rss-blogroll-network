@@ -1,6 +1,6 @@
 ---
 title: Developer Musings
-date: "2026-10-06T00:00:00Z"
+date: "2026-10-28T00:00:00Z"
 description: Recent posts
 params:
   feedlink: https://joshghent.com/rss.xml
@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -26,13 +26,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ring is deliberately nefarious when you E2E encrypt your video
+  last_post_title: Last week was terrible. It didn't have to be
   last_post_description: ""
-  last_post_date: "2026-10-06T00:00:00Z"
-  last_post_link: https://joshghent.com/ring-e2ee/
+  last_post_date: "2026-10-28T00:00:00Z"
+  last_post_link: https://joshghent.com/php2shell-overreaction/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a9b16870e24958a0adbb80e546f975a3
+  last_post_guid: 4ea9ccdb8010082fd593f0f47ef7b709
   score_criteria:
     cats: 0
     description: 3

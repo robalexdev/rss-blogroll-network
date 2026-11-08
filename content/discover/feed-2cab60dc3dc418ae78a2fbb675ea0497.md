@@ -17,30 +17,28 @@ params:
   recommender:
   - https://derlaufen.de/feed/
   categories:
-  - Fitness
+  - Essen
   - Interview
   - Laufschuhe
-  - Marathon
   - Podcast
   - Tipps
   - Übung
   relme: {}
-  last_post_title: 'Race-Day-Knigge: So machst du am Wettkampftag alles richtig!'
-  last_post_description: In der neuesten Folge des ACHILLES RUNNING Podcasts dreht
-    sich alles um das richtige Verhalten am Wettkampftag – den ultimativen „Race-Knigge“.
-    Zu Gast ist Rennleiter Steven Richter, der
-  last_post_date: "2026-09-25T04:58:20Z"
-  last_post_link: https://www.achilles-running.de/race-day-knigge-so-machst-du-am-wettkampftag-alles-richtig/
+  last_post_title: Lauf-Routinen, die den Alltag erleichtern
+  last_post_description: In dieser Folge des ACHILLES RUNNING Podcasts widmen wir
+    uns evidenzbasierten Routinen für Läufer:innen. Dr. Frizzi Mayer, Ärztin und passionierte
+    Ausdauersportlerin, gibt fundierte Einblicke in
+  last_post_date: "2026-11-06T06:31:56Z"
+  last_post_link: https://www.achilles-running.de/lauf-routinen-die-den-alltag-erleichtern/
   last_post_categories:
-  - Fitness
+  - Essen
   - Interview
   - Laufschuhe
-  - Marathon
   - Podcast
   - Tipps
   - Übung
   last_post_language: ""
-  last_post_guid: ec29e82eae99e332082ed30154473d3d
+  last_post_guid: 8ad0d6280a8542d4384b21e2030e1b04
   score_criteria:
     cats: 0
     description: 3

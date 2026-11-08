@@ -20,41 +20,41 @@ params:
   - '*Egg-free'
   - '*Gluten-free'
   - '*Grain-free'
-  - '*Kid-friendly'
-  - '*Nut-free'
-  - '*Paleo-friendly'
-  - Beef
-  - Carrot
-  - Chive
-  - Fennel
-  - Green Pea
-  - Meat & Charcuterie
-  - Potato
+  - '*Vegan'
+  - '*Vegetarian'
+  - Cauliflower
+  - Coconut
+  - Coconut Milk
+  - Coconut Oil
+  - Curry
+  - Lentil
+  - Onion
+  - Vegetables & Grains
   relme: {}
-  last_post_title: Springtime Pot-au-feu Beef Stew Recipe
+  last_post_title: Red Lentil Curry with Cauliflower and Coconut Chips Recipe
   last_post_description: |-
     Buy Clotilde's latest book, The French Market Cookbook!
-    Our spring has been less than exemplary, with record low temperatures and downpours. And in a country that loves (loves!) […]
-    The post
-  last_post_date: "2026-03-10T09:30:00Z"
-  last_post_link: https://cnz.to/recipes/meat-charcuterie/springtime-pot-au-feu-beef-stew-recipe/
+    I am dedicating this particular post to the beautiful souls who follow me on Instagram, several of whom clamored for […]
+    The post Red Lentil
+  last_post_date: "2026-10-20T09:00:32Z"
+  last_post_link: https://cnz.to/recipes/vegetables-grains/red-lentil-curry-cauliflower-coconut-chips-recipe/
   last_post_categories:
   - '*Dairy-free'
   - '*Egg-free'
   - '*Gluten-free'
   - '*Grain-free'
-  - '*Kid-friendly'
-  - '*Nut-free'
-  - '*Paleo-friendly'
-  - Beef
-  - Carrot
-  - Chive
-  - Fennel
-  - Green Pea
-  - Meat & Charcuterie
-  - Potato
+  - '*Vegan'
+  - '*Vegetarian'
+  - Cauliflower
+  - Coconut
+  - Coconut Milk
+  - Coconut Oil
+  - Curry
+  - Lentil
+  - Onion
+  - Vegetables & Grains
   last_post_language: ""
-  last_post_guid: 43dde0932bd236558ffcd0b97a6ce6af
+  last_post_guid: 2f876f11032a8459f2fdffd88111b107
   score_criteria:
     cats: 0
     description: 3

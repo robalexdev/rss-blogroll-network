@@ -20,15 +20,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The gate has to touch the real system
-  last_post_description: An agentic terminal, a Mermaid fine-tune, and my context
-    engine ctx. The first two failed because I measured them with instruments I built
-    myself. Verification is paramount, and it has to touch the
-  last_post_date: "2026-08-31T00:00:00Z"
-  last_post_link: https://zackproser.com/blog/what-survived-the-experiments
+  last_post_title: 'Grok Bot Templates: How I’m Automating the Work I Put Off'
+  last_post_description: Copy my Scout, Margin, and Phone Bot templates. Explore a
+    13-bot personal AI team, real app screenshots, setup prompts, and checks for work
+    you can trust.
+  last_post_date: "2026-10-20T00:00:00Z"
+  last_post_link: https://zackproser.com/blog/ten-days-thirteen-bots
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34ad8630822125e1f51a140a7b128e25
+  last_post_guid: e3e1b2e0f920a9baa493621f205357fe
   score_criteria:
     cats: 0
     description: 3

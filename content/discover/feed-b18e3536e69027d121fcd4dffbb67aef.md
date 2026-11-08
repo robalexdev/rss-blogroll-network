@@ -22,14 +22,15 @@ params:
   - https://derschreiben.de/feed/
   categories: []
   relme: {}
-  last_post_title: Das andere Ende der KI-Finanzblase
-  last_post_description: Ich habe mich oft gegen den Begriff der KI-Blase gewendet
-    und werde das weiter tun.
-  last_post_date: "2026-10-11T08:40:36Z"
-  last_post_link: https://dirkspecht.substack.com/p/das-andere-ende-der-ki-finanzblase
+  last_post_title: Die Ära post-Trump läuft schon
+  last_post_description: 'Der beigefügte Beitrag ist aus drei Gründen lesenswert:
+    Er stammt von wirtschaftskonservativen WSJ, er wurde vor der Wahl verfasst und
+    er wurde nicht erst nach Bekanntwerden der Ergebnisse'
+  last_post_date: "2026-11-04T07:27:19Z"
+  last_post_link: https://dirkspecht.substack.com/p/die-ara-post-trump-lauft-schon
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38d4fcc0b7d1bcdcf9ea65003413cac6
+  last_post_guid: a978c5651ddfacb9defe52c43dfe7f30
   score_criteria:
     cats: 0
     description: 3

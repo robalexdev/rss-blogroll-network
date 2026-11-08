@@ -17,14 +17,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Done-ish
-  last_post_description: I let an AI agent work through my backlog over a weekend.
-    I came back to 66 pull requests and still had to decide what was worth doing.
-  last_post_date: "2026-09-17T04:24:30Z"
-  last_post_link: https://kevinlondon.com/2026/09/16/done-ish/
+  last_post_title: My AI agents said the tests passed. The tests never ran.
+  last_post_description: I gave five AI models a test suite rigged to always pass.
+    Several knew it was fake and left that out of their reports to me.
+  last_post_date: "2026-11-03T06:00:00Z"
+  last_post_link: https://kevinlondon.com/2026/11/03/transcript-trust/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4b87bd806e0897446fbec91978c6c2a7
+  last_post_guid: 73281a739f2b03ee66ce0f4f2c0bf188
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Günstig gärtnern
-date: "2026-10-12T00:40:54+02:00"
+date: "2026-11-06T16:20:51+01:00"
 description: Mit wenig Geld zum Traumgarten
 params:
   feedlink: https://guenstiggaertnern.blogspot.com/feeds/posts/default
@@ -454,6 +454,7 @@ params:
   - Euphemismen
   - Euphorbia
   - Euphorbia amygdaloides
+  - Euphorbia characias
   - Euphorbia cyparissias
   - Euphorbia griffithii 'Fireglow'
   - Euphorbia pulcherrima
@@ -704,6 +705,7 @@ params:
   - Hemlocktanne
   - Herbarium
   - Herbst
+  - Herbst Hannover
   - Herbst-Alpenveilchen
   - Herbstanemone
   - Herbstaster
@@ -1034,6 +1036,7 @@ params:
   - Miss Vain
   - Mistel
   - Mittelmeer
+  - Mittelmeer-Wolfsmilch
   - Mittlerer Weinschwärmer
   - Mohn
   - Mohnbiene
@@ -1165,6 +1168,7 @@ params:
   - Penstemon hirsutus
   - Pentaglottis sempervirens
   - Peperoni
+  - Perapion violaceum
   - Perlmuttschale
   - Persicaria amplexicaule
   - Persicaria odorata
@@ -1778,21 +1782,18 @@ params:
   relme:
     https://guenstiggaertnern.blogspot.com/: true
     https://www.blogger.com/profile/15240511233143510506: true
-  last_post_title: Sie finden einfach kein Ende...
+  last_post_title: Ausdauerndes Gemüse mit Sommerpause
   last_post_description: ""
-  last_post_date: "2026-10-10T08:38:38+02:00"
-  last_post_link: https://guenstiggaertnern.blogspot.com/2026/10/sie-finden-einfach-kein-ende.html
+  last_post_date: "2026-10-31T07:53:28+01:00"
+  last_post_link: https://guenstiggaertnern.blogspot.com/2026/10/ausdauerndes-gemuse-mit-sommerpause.html
   last_post_categories:
-  - Anthidium manicatum
-  - Berggarten
-  - Garten-Wollbiene
-  - Hannover
-  - Holzbiene
-  - Mehl-Salbei
-  - Salvia farinacea
-  - Sminthurides aquaticus
+  - Ampfer
+  - Gemüse
+  - Gemüse-Ampfer
+  - Perapion violaceum
+  - Rumex patientia
   last_post_language: ""
-  last_post_guid: eede04aaeb412ef2aa63d8c68fb756e8
+  last_post_guid: a4a9c99f2bbf73984465c8f4c25e7c6d
   score_criteria:
     cats: 5
     description: 3

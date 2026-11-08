@@ -16,31 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Persönliches
+  - Deutschland
+  - Fernwanderwege
   relme: {}
-  last_post_title: Über Romy Robst & Etappen-Wandern
-  last_post_description: 'Ich bin Romy Robst – Weitwanderin, Reiseredakteurin, mehrfache
-    Buchautorin beim Bergverlag Rother und die Frau hinter Etappen-Wandern. Am liebsten
-    bin ich mehrere Tage am Stück draußen unterwegs:'
-  last_post_date: "2026-10-07T14:12:51Z"
-  last_post_link: https://www.etappen-wandern.de/ausruestung-persoenliches/persoenliches/was-wandern-fuer-mich-bedeutet/
+  last_post_title: 'Panoramaweg Schwarzatal: 4 Tage durch den stillen Thüringer Wald'
+  last_post_description: 'Vier Tage Wandern im Thüringer Wald, rund 72 Kilometer,
+    zwei ziemlich energiegeladene Hunde und ungefähr eine Minute Sonnenschein: Meine
+    4-Tage-Runde auf dem Panoramaweg Schwarzatal führt durch'
+  last_post_date: "2026-11-03T21:53:50Z"
+  last_post_link: https://www.etappen-wandern.de/fernwanderweg/panoramaweg-schwarzatal-mehrtagestour-durch-den-thueringer-wald/
   last_post_categories:
-  - Persönliches
+  - Deutschland
+  - Fernwanderwege
   last_post_language: ""
-  last_post_guid: d748105f782dfd5e6656a7cb072fcd4d
+  last_post_guid: bc8597de92e9a49747619fdfb8a7bdbe
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 18
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

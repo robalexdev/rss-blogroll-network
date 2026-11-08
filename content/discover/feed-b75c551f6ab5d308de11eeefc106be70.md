@@ -22,13 +22,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Bright Lights, Big Dystopia
-  last_post_description: In the 21st century, every novel is a horror novel.
-  last_post_date: "2026-10-06T17:02:18Z"
-  last_post_link: https://sarahkendzior.substack.com/p/bright-lights-big-dystopia
+  last_post_title: The Bellwether Battle
+  last_post_description: The midterms changed the battlefield, but not the war.
+  last_post_date: "2026-11-05T22:41:43Z"
+  last_post_link: https://sarahkendzior.substack.com/p/the-bellwether-battle
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 242cb0569aa80664e4fc7d49dbe7fbf8
+  last_post_guid: 4a86bf5797a0bcd36e08a112c2f6f60f
   score_criteria:
     cats: 0
     description: 3

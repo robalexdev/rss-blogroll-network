@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten.de
-date: "2026-10-06T13:00:00Z"
+date: "2026-11-03T14:00:00Z"
 description: ""
 params:
   feedlink: https://zettelkasten.de/feed.atom
@@ -21,13 +21,13 @@ params:
   categories: []
   relme:
     https://zettelkasten.de/: true
-  last_post_title: Rambling about Sorites
+  last_post_title: How to Get What You Want From Highlighting
   last_post_description: ""
-  last_post_date: "2026-10-06T13:00:00Z"
-  last_post_link: https://zettelkasten.de/posts/rambling-about-sorites/
+  last_post_date: "2026-11-03T14:00:00Z"
+  last_post_link: https://zettelkasten.de/posts/get-what-you-want-from-highlighting/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e3ad7ecf3029a9ab631cfeae20e55ca0
+  last_post_guid: f6de976d1cd75c67135c5de93646f337
   score_criteria:
     cats: 0
     description: 0

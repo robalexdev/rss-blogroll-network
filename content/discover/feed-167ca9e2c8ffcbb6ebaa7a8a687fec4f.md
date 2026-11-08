@@ -1,7 +1,8 @@
 ---
 title: Chase McCoy
 date: "1970-01-01T00:00:00Z"
-description: Chase McCoy explores, builds, & writes about the web
+description: Chase McCoy is a blogger and design engineer who writes about the web
+  and other creative technologies.
 params:
   feedlink: https://chsmc.org/feed.xml
   feedtype: rss
@@ -13,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -34,13 +35,13 @@ params:
   relme:
     https://chsmc.org/: true
     https://mastodon.social/@chsmc: true
-  last_post_title: Diffs, by Pierre
+  last_post_title: Playing behind the beat
   last_post_description: ""
-  last_post_date: "2026-01-02T00:00:00Z"
-  last_post_link: https://chsmc.org/2026/01/diffs/
+  last_post_date: "2026-10-18T00:00:00Z"
+  last_post_link: https://chsmc.org/2026/10/behind-the-beat/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 23930790469d20a9693f64b227085bb0
+  last_post_guid: e9616410acc76f98af52967d18ef9f17
   score_criteria:
     cats: 0
     description: 3

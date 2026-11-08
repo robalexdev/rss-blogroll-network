@@ -21,14 +21,15 @@ params:
   categories:
   - Verkehrswende
   relme: {}
-  last_post_title: Wieder mehr Fahrgäste in Bus und Bahn
-  last_post_description: submitted by schnurrito to verkehrswende15 points | 3 commentshttps://bahnblogstelle.com/263979/wieder-mehr-fahrgaeste-in-bus-und-bahn/
-  last_post_date: "2026-10-08T09:13:59Z"
-  last_post_link: https://feddit.org/post/36431552
+  last_post_title: 'Carsharing in Deutschland: Warum es für die Verkehrswende unverzichtbar
+    ist'
+  last_post_description: submitted by D_a_X to verkehrswende14 points | 1 commentshttps://www.oekologisch-unterwegs.de/elektromobilitaet/1197-carsharing-in-deutschland-warum-es-fuer-die-verkehrswende-unverzichtbar-ist.html
+  last_post_date: "2026-11-06T03:09:27Z"
+  last_post_link: https://feddit.org/post/37671387
   last_post_categories:
   - Verkehrswende
   last_post_language: ""
-  last_post_guid: 03e39ab0760d8b4d2de6abbc559f8b32
+  last_post_guid: fa695178c6da1a2ad570ef67b2d3f39e
   score_criteria:
     cats: 0
     description: 3

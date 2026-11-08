@@ -1,6 +1,6 @@
 ---
 title: metablog
-date: "2026-09-01T20:57:21+02:00"
+date: "2026-11-04T20:56:27+01:00"
 description: ""
 params:
   feedlink: https://blog.metaobject.com/feeds/posts/default

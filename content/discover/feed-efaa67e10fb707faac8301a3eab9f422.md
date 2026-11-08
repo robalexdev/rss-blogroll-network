@@ -26,16 +26,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）
+  last_post_title: 我做了个只收录精品软件的网站 SoftBests
   last_post_description: |-
     引言
-
-    这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks
-  last_post_date: "2026-09-18T16:00:00+08:00"
-  last_post_link: https://blog.forecho.com/10-best-price-action-trading-patterns.html
+    今年我没有续费用了几年的
+  last_post_date: "2026-11-06T10:00:00+08:00"
+  last_post_link: https://blog.forecho.com/introducing-softbests.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d13ed3a149972de84f83748d27473ea8
+  last_post_guid: 91b7f960d977f9c7f144e9adffac2e9d
   score_criteria:
     cats: 0
     description: 3

@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Following
@@ -35,7 +35,7 @@ params:
   - title: RSS feeds from Minifeed.net
     description: ""
     id: 83b59248e9346428c889eb03522b4297
-  - title: Blogrolle von Matthias Pfefferle
+  - title: Blog·rol·le, die von Matthias Pfefferle
     description: ""
     id: 464155480e592e37a73fd8ed85cdd145
   - title: QuiteRSS
@@ -60,8 +60,10 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://notiz.blog/author/matthias-pfefferle/feed/
   - https://notiz.blog/comments/feed/
   - https://notiz.blog/feed/
+  - https://notiz.blog/podcasts/feed/
   - https://notiz.blog/type/aside/feed/
   - https://notiz.blog/type/audio/feed/
   - https://notiz.blog/type/chat/feed/
@@ -80,29 +82,24 @@ params:
   categories:
   - book
   - history
-  - irish
-  - language
-  - research
+  - humanity
   - review
-  - writing
   relme: {}
-  last_post_title: The Pirate Queen by Ariel Lawhon
+  last_post_title: Palaces Of The Crow by Ray Nayler
   last_post_description: |-
-    This is an infuriating book. So much so that I didn’t finish it.
+    I really liked Ray Nayler’s The Mountain In The Sea. I also liked The Tusks Of Extinction. But reading those back-to-back gave me pause:
 
-    Don’t get me wrong; I love the idea of The Pirate Queen. Telling the life story of Gráinne Ní Mháille is an excellent premise
-  last_post_date: "2026-10-23T14:57:23Z"
-  last_post_link: https://adactio.com/journal/22813
+
+      At times it seems to relish in describing the worst that
+  last_post_date: "2026-11-02T14:30:40Z"
+  last_post_link: https://adactio.com/journal/22823
   last_post_categories:
   - book
   - history
-  - irish
-  - language
-  - research
+  - humanity
   - review
-  - writing
   last_post_language: ""
-  last_post_guid: c522d740a64ca1758f108896a87d4e09
+  last_post_guid: 25511e0e577c9f025510fded90e0f7db
   score_criteria:
     cats: 0
     description: 3

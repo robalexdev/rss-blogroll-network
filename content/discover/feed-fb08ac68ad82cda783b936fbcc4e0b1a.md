@@ -27,32 +27,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Cam Little
+  - Chicago
+  - Chicago Bulls
+  - Chicago Sports
   - NFL
   - Sports
-  - jacksonville jaguars
-  - jaguars junction
-  - nick sirianni
-  - philadelphia eagles
-  - spiritually a jacksonville jaguars blog
+  - caleb williams
+  - chicago bears
+  - chicago blackhawks
   relme: {}
-  last_post_title: Welcome The Philadelphia Eagles To Jaguars Junction
-  last_post_description: To paraphrase one of the greats, it's not easy living up
-    to the standards of Jaguars Junction. It's not just about the losing; any team
-    can lose a game, especially in the NFL. And it's also not about
-  last_post_date: "2026-10-11T20:26:55Z"
-  last_post_link: https://defector.com/welcome-the-philadelphia-eagles-to-jaguars-junction
+  last_post_title: Caleb Williams Is Carrying All Of Chicago Sports On His Back
+  last_post_description: Caleb Williams is carrying an unimaginable burden, and it's
+    not just the matter of being the last living quarterback in the NFL, or easing
+    into his place as the best Chicago Bears quarterback in
+  last_post_date: "2026-11-06T20:29:10Z"
+  last_post_link: https://defector.com/caleb-williams-is-carrying-all-of-chicago-sports-on-his-back
   last_post_categories:
-  - Cam Little
+  - Chicago
+  - Chicago Bulls
+  - Chicago Sports
   - NFL
   - Sports
-  - jacksonville jaguars
-  - jaguars junction
-  - nick sirianni
-  - philadelphia eagles
-  - spiritually a jacksonville jaguars blog
+  - caleb williams
+  - chicago bears
+  - chicago blackhawks
   last_post_language: ""
-  last_post_guid: 9cd31377f49bfc6e57ccade788c46c28
+  last_post_guid: 262c84725fcd55a5b4c0b7018a6c850f
   score_criteria:
     cats: 0
     description: 3

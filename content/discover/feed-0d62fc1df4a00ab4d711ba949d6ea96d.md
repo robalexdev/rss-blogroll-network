@@ -1,6 +1,6 @@
 ---
 title: Conge
-date: "2026-10-06T19:32:44Z"
+date: "2026-11-05T23:27:56Z"
 description: ""
 params:
   feedlink: https://conge.livingwithfcs.org/feed.xml
@@ -15,32 +15,23 @@ params:
   recommended: []
   recommender: []
   categories:
-  - 女性研究
-  - 小说
-  - 读书
-  - 读书笔记
-  - 阅读
-  - 随笔
+  - FCS
+  - 低脂食谱
+  - 罕见病
   relme: {}
-  last_post_title: 2026 年 8 月 读女性研究，小说，随笔 6 本
+  last_post_title: 10 天，每天不到 10 克脂肪：Action FCS 低脂食谱中文版发布了
   last_post_description: |-
-    引子
+    明天，11 月 6 日，是 FCS 知晓日（FCS Awareness Day）。
 
-
-    引子
-
-    本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。
-  last_post_date: "2026-10-06T19:25:00Z"
-  last_post_link: https://conge.livingwithfcs.org/2026/10/06/reading-summary/
+    对我来说，这不是一个抽象的日子。我是 FCS 患者，每天吃 10–20
+  last_post_date: "2026-11-05T23:05:00Z"
+  last_post_link: https://conge.livingwithfcs.org/2026/11/05/action-fcs-low-fat-recipes/
   last_post_categories:
-  - 女性研究
-  - 小说
-  - 读书
-  - 读书笔记
-  - 阅读
-  - 随笔
+  - FCS
+  - 低脂食谱
+  - 罕见病
   last_post_language: ""
-  last_post_guid: 368b546040bc40c386f5c895cf1fdaf5
+  last_post_guid: 8e17ed4b3bfb6c9911166ffc466d71ea
   score_criteria:
     cats: 0
     description: 0

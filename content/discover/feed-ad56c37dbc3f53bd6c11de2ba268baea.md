@@ -1,6 +1,6 @@
 ---
 title: Some Natalie's corner of the internet
-date: "2026-10-11T11:50:45-04:00"
+date: "2026-10-27T14:16:19-04:00"
 description: Things I'm learning, working on, or thinking about.  All opinions and
   snark my own.
 params:
@@ -23,15 +23,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Bumping vendored dependencies in a repository
-  last_post_description: I have a love/hate relationship with vendoring dependencies
-    in a repository.  This enduring trauma and admiration comes from many of the projects
-    I’ve supported over the years.  Vendoring is a
-  last_post_date: "2026-10-08T12:49:07-04:00"
-  last_post_link: https://some-natalie.dev/blog/bump-vendored-deps/
+  last_post_title: Running large language models locally ... simply
+  last_post_description: Let’s run large language models locally, without too much
+    time spent fiddling with it versus time spent building.  I touched on this a tiny
+    bit earlier in the year in “You didn’t miss the boat
+  last_post_date: "2026-10-12T00:00:00-04:00"
+  last_post_link: https://some-natalie.dev/blog/local-llms/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 80064ab817dc54c255505451551169a2
+  last_post_guid: e6a5eb5ec9513f0d68700a32597ff88f
   score_criteria:
     cats: 0
     description: 3

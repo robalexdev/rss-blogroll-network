@@ -1,6 +1,6 @@
 ---
 title: 阮一峰的网络日志
-date: "2026-08-28T13:35:58Z"
+date: "2026-11-06T12:50:34Z"
 description: Ruan YiFeng's Blog
 params:
   feedlink: https://www.ruanyifeng.com/blog/atom.xml
@@ -20,14 +20,14 @@ params:
   categories:
   - Weekly
   relme: {}
-  last_post_title: 科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制
+  last_post_title: 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初
   last_post_description: 这里记录每周值得分享的科技内容，周五发布。...
-  last_post_date: "2026-08-28T13:35:58Z"
-  last_post_link: http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html
+  last_post_date: "2026-11-06T12:50:34Z"
+  last_post_link: http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html
   last_post_categories:
   - Weekly
   last_post_language: ""
-  last_post_guid: 4901c4bfca7dded1ad3e8edb41827c67
+  last_post_guid: 392d4159b1873530223fd7b2270ce6b9
   score_criteria:
     cats: 0
     description: 3

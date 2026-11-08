@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Kagi Small Web OPML
@@ -25,26 +25,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Stories
-  - Technology
   - Uncategorized
-  - moving
-  - writing
+  - cambridge
+  - kings-college
+  - photo-essay
+  - where-i-work
   relme: {}
-  last_post_title: My Digital Move
-  last_post_description: In my last post, I briefly discussed moving (or at least
-    removing) the last of my physical belongings from my office at Whitman. In this
-    post, I dig into my OmniFocus task completion log to consider
-  last_post_date: "2026-09-22T18:23:34Z"
-  last_post_link: https://countingfromzero.blog/2026/09/22/my-digital-move/
+  last_post_title: 'Photo essay: Where I work at King’s College'
+  last_post_description: Writing a post about the start of Michaelmas term has been
+    on my to-do list for three weeks. I’ve been too busy to write about how busy I
+    am. However, the weather today – an autumnal mix of sun,
+  last_post_date: "2026-11-02T21:24:32Z"
+  last_post_link: https://countingfromzero.blog/2026/11/02/photo-essay-where-i-work-at-kings-college/
   last_post_categories:
-  - Stories
-  - Technology
   - Uncategorized
-  - moving
-  - writing
+  - cambridge
+  - kings-college
+  - photo-essay
+  - where-i-work
   last_post_language: ""
-  last_post_guid: 2a76ffd76894918dc76a106cce7de185
+  last_post_guid: ca00fbd511ef2de1d0066b62a32adc01
   score_criteria:
     cats: 0
     description: 0

@@ -17,19 +17,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: AI Apocalypse?
-  last_post_description: We’re staring down the life-and-death hazard of artificial
-    intelligence. That phrase “AI apocalypse” sounds a little panicky, but when the
-    masters of the craft started arguing this summer about
-  last_post_date: "2026-10-01T23:52:21Z"
-  last_post_link: https://radioopensource.org/ai-apocalypse/
+  last_post_title: Better Tech
+  last_post_description: We’re in the wild west of cyberspace. It is a man-made ecosystem,
+    this cyberspace, where man-made AI lives and flourishes, but we’re coming to know
+    that it’s a dangerous place, crawling with
+  last_post_date: "2026-10-15T18:27:52Z"
+  last_post_link: https://radioopensource.org/better-tech/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 4b4327343e538eee96962acb840a5e89
+  last_post_guid: 9de3fbfa7c4b54e5b5287e6109ccec05
   score_criteria:
     cats: 1
     description: 3

@@ -20,16 +20,16 @@ params:
   categories:
   - Allgemein
   relme: {}
-  last_post_title: Sicherheitshalber Live in Köln
-  last_post_description: Sicherheitshalber Live kommt nach Köln! Ulrike Franke, Frank
-    Sauer, Carlo Masala und Thomas Wiegold diskutieren live und in Farbe im WDR Sendesaal
-    (Klaus-von-Bismarck-Saal) Fragen der Sicherheits-
-  last_post_date: "2026-09-15T13:59:53Z"
-  last_post_link: https://sicherheitspod.de/2026/09/15/sicherheitshalber-live-in-koeln/
+  last_post_title: 'Folge #112 LIVE in Köln: Militärisch überlegen – Krieg verloren?'
+  last_post_description: “Sicherheitshalber” ist der Podcast zur sicherheitspolitischen
+    Lage in Deutschland, Europa und der Welt. In Folge 112 diskutieren Thomas Wiegold,
+    Ulrike Franke, Frank Sauer und Carlo Masala live
+  last_post_date: "2026-10-17T12:59:21Z"
+  last_post_link: https://sicherheitspod.de/2026/10/17/folge-112-live-in-koeln-militaerisch-ueberlegen-krieg-verloren/
   last_post_categories:
   - Allgemein
   last_post_language: ""
-  last_post_guid: 8de95b52ea19cbfc45a7a36548e95e2e
+  last_post_guid: d8cb3045f71f6757cca3267f32b325d2
   score_criteria:
     cats: 0
     description: 3

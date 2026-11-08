@@ -1,6 +1,6 @@
 ---
 title: Popcar's Blog
-date: "2026-09-11T09:34:42Z"
+date: "2026-10-15T23:41:14Z"
 description: Popcar's blog on tech and gamedev!
 params:
   feedlink: https://popcar.bearblog.dev/feed/
@@ -26,22 +26,21 @@ params:
   - opinion
   - tech
   relme: {}
-  last_post_title: It's not about physical vs digital games, it's about ownership
-  last_post_description: PlayStation announced that they will stop making discs. People
-    are rightfully mad about this, but it's not actually about physical media. It's
-    about owning your games.
-  last_post_date: "2026-07-07T10:50:57Z"
-  last_post_link: https://popcar.bearblog.dev/its-about-ownership/
+  last_post_title: AI is mass decompiling games. That's both awesome and scary.
+  last_post_description: AI is now able to decompile games and software in a matter
+    of days. That's scary... but kind of exciting.
+  last_post_date: "2026-10-15T23:41:14Z"
+  last_post_link: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
   last_post_categories:
   - gaming
   - opinion
   - tech
   last_post_language: ""
-  last_post_guid: 1e26474a545568be1f0f7da587fffc8e
+  last_post_guid: 35850e31361786788d0a3e3392a3a30a
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 3
     hasPosts: 3
     postcats: 3
@@ -50,11 +49,11 @@ params:
     relme: 0
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 10
   avgpostlen: 296
 ---

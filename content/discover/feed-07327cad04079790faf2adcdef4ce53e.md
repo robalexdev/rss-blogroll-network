@@ -23,15 +23,15 @@ params:
   - Leisure
   - Society & Culture
   relme: {}
-  last_post_title: Peter Wohlleben
-  last_post_description: Wenn ich mich recht erinnere, landete Peter Wohllebens spektakuläres
-    Buch „Das geheime Leben der Bäume“ ziemlich schnell in den Bestsellerlisten und
-    hielt sich dort für sage und schreibe 2
-  last_post_date: "2026-10-10T03:00:00Z"
-  last_post_link: https://toast-hawaii.podigee.io/282-peter-wohlleben
+  last_post_title: Jessica Schwarz
+  last_post_description: Im Mai 1977 kommt im hessischen Erbach Jessica zur Welt,
+    die selbstverständlich im elterlichen Schreibwaren- und Zeitungsladen aushilft.
+    Und eines schönen Tages liegt da die BRAVO mit ihr selbst
+  last_post_date: "2026-10-31T04:00:00Z"
+  last_post_link: https://toast-hawaii.podigee.io/285-jessica-schwarz
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c615824e50e267e7881473ac16ca1475
+  last_post_guid: 5a1f037b2e64c6c19dac37770d30be86
   score_criteria:
     cats: 3
     description: 3

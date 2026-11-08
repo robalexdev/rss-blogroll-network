@@ -1,7 +1,7 @@
 ---
 title: half baked dungeons
 date: "1970-01-01T00:00:00Z"
-description: idk just gotta put my thoughts somewhere...
+description: idk just gotta put my thoughts somewhere
 params:
   feedlink: https://half-baked-dungeons.bearblog.dev/feed/?type=rss
   feedtype: rss
@@ -30,7 +30,7 @@ params:
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     hasContent: 0
     hasPosts: 2
     postcats: 0
@@ -39,11 +39,11 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
   postcount: 2
   avgpostlen: 0
 ---

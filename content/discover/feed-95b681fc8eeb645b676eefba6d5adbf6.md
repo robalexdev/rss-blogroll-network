@@ -15,7 +15,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: Blogroll
@@ -51,64 +51,37 @@ params:
   - https://filmshortage.com/comments/feed/
   - https://kinderfilmblog.de/comments/feed/
   - https://kinderfilmblog.de/feed/
+  - https://pftn.hr/atom.xml
   - https://sicherheitspod.de/comments/feed/
   - https://stadt-bremerhaven.de/comments/feed/
+  - https://wortvogel.de/comments/feed/
   - https://wrint.de/comments/feed/
   - https://www.shortoftheweek.com/feed/atom/
   - https://xkcd.com/rss.xml
   recommender:
+  - https://pftn.hr/atom.xml
   - https://pftn.hr/feed.xml
   categories:
-  - Auto
-  - Comedy
+  - Deutschland
   - Featured
-  - Film
-  - Fitness
-  - Flugzeug
-  - Frauen
-  - Gesellschaft
-  - LinkTipps
-  - Links+Dings
-  - Lustiges
-  - Männer
-  - 'Regie: Radha Mehta'
-  - 'Regie: Saif Jaan'
-  - Reisen
-  - Religion
-  - Sport
-  - Wettbewerb
-  - Witz
+  - Fotos
+  - Rheinbach
   relme:
     https://denkfabrikblog.de/: true
     https://social.cologne/@elflojo: true
-  last_post_title: Links+Dings aus der Kalenderwoche 2026/41
-  last_post_description: "Interessantes Zeug, das sich im Laufe der KW 2026/41 angesammelt
-    hat. Also raus damit!\n\n\nDanke, dass du den Feed von DenkfabrikBlog abonniert
-    hast. Ich sorge hier weiter für Nachschub... \nBlogroll:"
-  last_post_date: "2026-10-11T20:37:00Z"
-  last_post_link: https://denkfabrikblog.de/2026/10/11/linksdings-aus-der-kalenderwoche-2026-41/
+  last_post_title: 'Foto: Macke in der Turnhalle'
+  last_post_description: "Irgendwo findet sich immer was.\n\n\nDanke, dass du den
+    Feed von DenkfabrikBlog abonniert hast. Ich sorge hier weiter für Nachschub...
+    \nBlogroll: denkfabrikblog.de/links-blogroll/\nMail:"
+  last_post_date: "2026-11-06T11:37:00Z"
+  last_post_link: https://denkfabrikblog.de/2026/11/06/foto-macke-in-der-turnhalle/
   last_post_categories:
-  - Auto
-  - Comedy
+  - Deutschland
   - Featured
-  - Film
-  - Fitness
-  - Flugzeug
-  - Frauen
-  - Gesellschaft
-  - LinkTipps
-  - Links+Dings
-  - Lustiges
-  - Männer
-  - 'Regie: Radha Mehta'
-  - 'Regie: Saif Jaan'
-  - Reisen
-  - Religion
-  - Sport
-  - Wettbewerb
-  - Witz
+  - Fotos
+  - Rheinbach
   last_post_language: ""
-  last_post_guid: 8022afa5381fe3427addb6271fe5b658
+  last_post_guid: 1706f9d3a65a72e47b1a97c3df55fd6f
   score_criteria:
     cats: 0
     description: 3

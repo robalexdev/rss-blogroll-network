@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 8e1f22ccec765d3cad55d06e1bbbaf07
   websites:
-    https://linuxundich.de/: true
+    https://linuxundich.de/: false
     https://linuxundich.de/blogwochen-2026-blogkultur-blogstoeckchen/: false
     https://linuxundich.de/spendiere-einen-kaffee/: false
   blogrolls: []
@@ -22,11 +22,7 @@ params:
   - Fritz!Box
   - Homelab
   - News
-  relme:
-    https://linuxundich.de/: true
-    https://linuxundich.de/en/: true
-    https://linuxundich.de/spendiere-einen-kaffee/: true
-    https://social.anoxinon.de/@linuxundich: true
+  relme: {}
   last_post_title: 'DDNSS.de: Betreiber verhandelt über eine Übernahme des DynDNS-Dienstes'
   last_post_description: Seit 2013 betreibt Robert Niedziela den kostenlosen DynDNS-Dienst
     DDNSS.de. Nun verhandelt er über eine Übergabe an einen neuen Betreiber, spätestens
@@ -49,10 +45,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 22
+    website: 1
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

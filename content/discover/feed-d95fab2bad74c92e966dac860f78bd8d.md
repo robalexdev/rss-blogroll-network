@@ -18,14 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Reasoning matters
-  last_post_description: Reasoning traces are valuable. They can tell you a lot about
-    your prompt. Unless your provider has decided you may not look.
-  last_post_date: "2026-09-03T13:55:28Z"
-  last_post_link: https://resolve.works/articles/reasoning-matters/
+  last_post_title: Build your own
+  last_post_description: Digital sovereignty is the wrong frame. What matters is control
+    of your data, open protocols, and small tech — and with open source and coding
+    agents, building your own is easier than ever.
+  last_post_date: "2026-10-29T10:25:07Z"
+  last_post_link: https://resolve.works/articles/build-your-own/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1dc9d8ef31369f1cacf47fff23c1ee56
+  last_post_guid: 19fbc874ef154fc1c77c8d552dd00366
   score_criteria:
     cats: 0
     description: 3

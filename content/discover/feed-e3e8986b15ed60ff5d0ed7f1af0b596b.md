@@ -1,6 +1,6 @@
 ---
 title: ich hab da mal was ausprobiert
-date: "2026-10-11T17:40:12+02:00"
+date: "2026-11-06T22:50:52+01:00"
 description: ""
 params:
   feedlink: https://katharinahatwasausprobiert.blogspot.com/feeds/posts/default
@@ -115,6 +115,7 @@ params:
   - Likör
   - Limetten
   - Mais
+  - Mandarinen
   - Mango
   - Manitoba
   - Maronen
@@ -228,17 +229,17 @@ params:
   relme:
     https://katharinahatwasausprobiert.blogspot.com/: true
     https://www.blogger.com/profile/14789305153297719233: true
-  last_post_title: gebackene Süsskartoffel mit Speck, Zwiebel und Kräuterschmand
+  last_post_title: Quitten - Likör
   last_post_description: ""
-  last_post_date: "2026-10-09T10:00:00+02:00"
-  last_post_link: https://katharinahatwasausprobiert.blogspot.com/2026/10/gebackene-susskartoffel-mit-speck.html
+  last_post_date: "2026-11-06T10:00:00+01:00"
+  last_post_link: https://katharinahatwasausprobiert.blogspot.com/2026/11/quitten-likor.html
   last_post_categories:
-  - Airfryer
-  - Interessantes
+  - Eigenkreation
+  - Getränke
+  - Quitten
   - Rezepte
-  - Süßkartoffel
   last_post_language: ""
-  last_post_guid: 3f2a28cc550907a642fe92a9bc55ddb5
+  last_post_guid: 0cf3608826cf29bb225a26068387189b
   score_criteria:
     cats: 5
     description: 0

@@ -25,23 +25,17 @@ params:
   recommended: []
   recommender: []
   categories:
-  - stdout
+  - stderr
   relme: {}
-  last_post_title: HTML里的“宏”
-  last_post_description: |-
-    摊牌了，分享两个极少有人知道的技巧。
-    观察下面的网页
-    https://lab.est.im/xhtml/
-    有没有发现神奇之处
-    <?xml version="1.0" encoding="UTF-8"?>
-    <!DOCTYPE html [
-      <!ENTITY
-  last_post_date: "2026-10-12T21:29:00+08:00"
-  last_post_link: https://blog.est.im/2026/stdout-40
+  last_post_title: 一键清理所有高科技水印工具 「蒸矢」for macOS
+  last_post_description: "V站看到 警告！分享淘宝截图可能给你带来危险 \n于是有个很久的 idea 终于得到实施了。\nhttps://github.com/est/Distill-SVG\n把蒸馏成矢量图
+    SVG ，简称 蒸矢"
+  last_post_date: "2026-11-05T22:16:00+08:00"
+  last_post_link: https://blog.est.im/2026/stdout-41
   last_post_categories:
-  - stdout
+  - stderr
   last_post_language: ""
-  last_post_guid: 8ff11bc1b3f78b4788802fe42d6fbfb7
+  last_post_guid: 75c299a24572cc060ef3437658c2a0a9
   score_criteria:
     cats: 0
     description: 3

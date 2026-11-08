@@ -18,45 +18,34 @@ params:
   - https://einfachmalselbstgedacht.com/comments/feed/
   - https://einfachmalselbstgedacht.com/feed/
   categories:
-  - BDSM
-  - BoFeWo
-  - Fetisch
-  - Gastbeitrag
-  - Kink
-  - Messe
-  - Shopping
-  - Veranstaltungen
+  - Interview
+  - Podcast
   relme: {}
-  last_post_title: 'Shop till you drop: Mit der Commandress auf der BoFeWo'
+  last_post_title: 'Neu im Podcast „Frauen im Kink“: Myriam Klatt über Neurodivergenz,
+    Seil und die Dunkelheit in uns'
   last_post_description: |-
-    Butler Kay auf der BoFeWo: Peitschen-Stecksystem, aufblasbares Halsband mit Spikes und randvolle Einkaufstaschen. Ein Messebericht als Gastbeitrag.
-    Der Beitrag Shop till you drop: Mit der Commandress
-  last_post_date: "2026-10-11T07:44:55Z"
-  last_post_link: https://commandress.de/2026/10/11/bofewo-herbst-2026-messebericht/
+    Autorin Myriam Klatt über Neurodivergenz im Kink, Spielen ohne Safeword, Semenawa und ihren Dark-Romance-Roman „Darkest Ties“. Jetzt im Podcast „Frauen im Kink“.
+    Der Beitrag Neu im Podcast
+  last_post_date: "2026-11-06T18:50:08Z"
+  last_post_link: https://commandress.de/2026/11/06/podcast-frauen-im-kink-myriam-klatt/
   last_post_categories:
-  - BDSM
-  - BoFeWo
-  - Fetisch
-  - Gastbeitrag
-  - Kink
-  - Messe
-  - Shopping
-  - Veranstaltungen
+  - Interview
+  - Podcast
   last_post_language: ""
-  last_post_guid: 9b9694f5d8d146111363b37c6f3e743f
+  last_post_guid: b09531548a09e6467368e2c7589ea08b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     hasContent: 0
     hasPosts: 3
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

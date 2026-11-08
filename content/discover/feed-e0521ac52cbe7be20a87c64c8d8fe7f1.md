@@ -23,15 +23,16 @@ params:
   - Music
   - Society & Culture
   relme: {}
-  last_post_title: 'Song 186: “Frownland” by Captain Beefheart and His Magic Band'
-  last_post_description: This episode is on “Frownland” by Captain Beefheart and His
-    Magic Band, and is the third part of a trilogy following the episodes on the GTOs
-    and Frank Zappa. Click the full post to read liner
-  last_post_date: "2026-09-03T10:46:07Z"
-  last_post_link: https://500songs.com/podcast/song-186-frownland-by-captain-beefheart-and-his-magic-band/
+  last_post_title: Song 187, “Space Oddity” by David Bowie, Part One, “Commencing
+    Countdown Engines On”
+  last_post_description: This episode is the first of a two-parter on “Space Oddity”,
+    and the early career of David Bowie. Click the full post to read liner notes,
+    links to more information, and a transcript of the
+  last_post_date: "2026-11-01T12:12:59Z"
+  last_post_link: https://500songs.com/podcast/song-187-space-oddity-by-david-bowie-part-one-commencing-countdown-engines-on/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d07219fe74f4a808eeb49a793d068493
+  last_post_guid: a251de0dde3cd102d74eed943cf976a1
   score_criteria:
     cats: 3
     description: 3

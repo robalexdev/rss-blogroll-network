@@ -13,7 +13,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -28,22 +28,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ai
+  - context-engineering
   - curated-finds
-  - cyber-security
+  - llm
+  - p-drew-breunig
   relme: {}
-  last_post_title: 'PHP2Shell : When AI puts 70% of the Internet at risk'
-  last_post_description: AI-discovered PHP critical vulnerabilities with remote code
-    execution flaws that existed for decades but were too complex for humans to exploit—until
-    now.
-  last_post_date: "2026-10-22T00:00:00Z"
-  last_post_link: https://theaspiringnerd.com/php2shell-when-ai-puts-70-of-the-internet-at-risk/
+  last_post_title: 'Quoting Drew Breunig: Context Inertia - When Agents Won’t Let
+    Go'
+  last_post_description: Some models stubbornly stick to wrong solutions. Drew Breunig
+    calls this context inertia.
+  last_post_date: "2026-10-24T00:00:00Z"
+  last_post_link: https://theaspiringnerd.com/quoting-drew-breunig-context-inertia-when-agents-wont-let-go/
   last_post_categories:
-  - ai
+  - context-engineering
   - curated-finds
-  - cyber-security
+  - llm
+  - p-drew-breunig
   last_post_language: ""
-  last_post_guid: 76da143a9f9b7976de6fa8f5578a3d9d
+  last_post_guid: be7a7cd013336514efcb5ac4655faf56
   score_criteria:
     cats: 0
     description: 3

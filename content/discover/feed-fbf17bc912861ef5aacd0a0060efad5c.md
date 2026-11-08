@@ -1,6 +1,6 @@
 ---
 title: 'Kellan Elliott-McCrea: Blog'
-date: "2026-10-11T22:39:17Z"
+date: "2026-11-07T00:42:54Z"
 description: A personal blog of Kellan Elliott-McCrea. I don't really know what a
   "laughing meme" is. It sounded cool in 1999.
 params:
@@ -14,7 +14,7 @@ params:
   - title: blogs.hn
     description: ""
     id: a46959e4e956c5003fc65cbc7e49dffc
-  - title: Bubbles — 5225 blogs
+  - title: Bubbles — 5198 blogs
     description: ""
     id: 2d50ad1185a7603683ceb7b7395332a6
   - title: indieblog.page
@@ -31,15 +31,14 @@ params:
   - https://stephanmax.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Managers Are Catalysts
-  last_post_description: As an industry, we like to shout a lot about experiments
-    when we kick them off, all confident swagger that this time our superior intellects
-    have landed from first principles on the correct
-  last_post_date: "2026-09-14T19:56:56Z"
-  last_post_link: https://laughingmeme.org/2026/09/14/managers-are-catalysts.html
+  last_post_title: 'Sick Day Project: Outlanders 2 “Wiki”'
+  last_post_description: I was supposed to ride the NYC Century today, but I ended
+    up coming down with a nasty cold and I’m spending the day on the couch.
+  last_post_date: "2026-10-26T00:13:18Z"
+  last_post_link: https://laughingmeme.org/2026/10/26/sick-day-project-outlanders-2-wiki.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9573fe2b4f2e4b385e02a5ccb2dfa0d0
+  last_post_guid: 75c5687f8398d8ef0568cad8998520a0
   score_criteria:
     cats: 0
     description: 3

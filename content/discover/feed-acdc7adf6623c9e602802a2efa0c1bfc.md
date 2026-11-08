@@ -20,18 +20,18 @@ params:
   recommender:
   - https://stephanmax.com/feed.xml
   categories:
-  - Words words words
+  - Taboo vocabulary
   relme: {}
-  last_post_title: English adjectives as adverbs?
-  last_post_description: Some of the comments on "Filthy comfortable" (10/9/2026)
-    related to the issue of an adjective being used as an adverbial intensifier, which
-    is a fairly common though always irregular development. We
-  last_post_date: "2026-10-11T16:26:28Z"
-  last_post_link: https://languagelog.ldc.upenn.edu/nll/?p=74409&utm_source=rss&utm_medium=rss&utm_campaign=english-adjectives-as-adverbs
+  last_post_title: '"The Amazon rain forest of swear words"'
+  last_post_description: 'Jen Rose Smith, "Excuse my French? The swear words that
+    used to be illegal in Canada", BBC 11/4/2026: Speakers of Québécois French are
+    known for using a unique class of blasphemous swear words'
+  last_post_date: "2026-11-06T12:26:17Z"
+  last_post_link: https://languagelog.ldc.upenn.edu/nll/?p=74538&utm_source=rss&utm_medium=rss&utm_campaign=the-amazon-rain-forest-of-swear-words
   last_post_categories:
-  - Words words words
+  - Taboo vocabulary
   last_post_language: ""
-  last_post_guid: 323fd11d0fb1e33351eb248c2b79c10b
+  last_post_guid: f8389bf1a03742ddde8f66959874f63b
   score_criteria:
     cats: 0
     description: 0
